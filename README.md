@@ -17,6 +17,8 @@ npm run generate
 
 ## Contributing
 
+For your first translations, please fork the repo and submit a pull request that way. If everything looks good, you will be added as a contributor.
+
 New languages and translations are always welcome, so feel free to PR. The build system automatically detects new language types, and exports new files for each language type. Any language types are welcome.
 In order to contribute translations, simply add them to the respective files in the `loc/` directory.
 Make sure to lint your code before committing (`npm run lint`). Join [our Discord](https://discord.gg/E45UzeY) if you need help.
