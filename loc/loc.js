@@ -15,7 +15,14 @@ const ui = {
   charmenu,
   ...general }
 
+import bloodlust from './factions/bloodlust.js'
+import vanguard from './factions/vanguard.js'
+const factions = {
+  vanguard,
+  bloodlust }
+
 export default {
   classes,
-  ui
+  ui,
+  factions
 }

@@ -1,5 +1,5 @@
 # hordes-loc
-Community driven text and localization repo for the browser game Hordes.io. This is library of strings for all in-game texts, user interface labels, game-lore, item names & descriptions, etc.  
+Community driven text and localization repo for the browser game Hordes.io. This is a library of strings for all in-game texts, user interface labels, game-lore, item names & descriptions, etc.  
 
 This repository is a public submodule of the [beta.hordes.io](https://beta.hordes.io) sourcecode, containing a build script to compile files found in `loc/` into individual language specific `.json` files. Translations for any respective language do not have to be complete, as the build script will fall  back to other translations (generally English) for any strings that have not been translated for the language type.
 
