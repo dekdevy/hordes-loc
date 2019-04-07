@@ -32,6 +32,7 @@ const compile = (obj, lang, currentType, metrics)=>{
   // iterate object props recursively
   Object.entries(obj).forEach( prop => {
     const [key, value] = prop
+    console.log(typeof value)
     // check whether value is object or string
     if(typeof value  === 'object') {
       // if object, check whether object has strings as children
@@ -49,7 +50,7 @@ const compile = (obj, lang, currentType, metrics)=>{
         }
       } else {
         // no strings as children, meaning we should iterate deeper
-        compile(value, lang[key] = {}, currentType, metrics)
+        compile(value, lang[key] = (value.length ? [] : {}), currentType, metrics)
       }
     }
   })
