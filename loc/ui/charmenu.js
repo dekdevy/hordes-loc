@@ -1,8 +1,9 @@
 export default {
 
   // Character selection
-  charSelect: {
-    select: {
+
+  select: {
+    title: {
       en: 'Select Character',
       se: 'Välj Karaktär'
     },
@@ -17,11 +18,15 @@ export default {
     emptySlot: {
       en: 'Empty',
       se: 'Tomt'
+    },
+    error: {
+      en: 'Network error',
+      se: 'Nätverks problem'
     }
   },
 
   // Character creation
-  charCreate: {
+  create: {
     title: {
       en: 'Character creation',
       se: 'Skapa karaktär'
@@ -49,7 +54,7 @@ export default {
   },
 
   // Character deletion
-  charDelete: {
+  delete: {
     // It places the characters name after the string, e.g. 'Delete Battlebubbles'
     title: {
       en: 'Delete',
@@ -58,6 +63,10 @@ export default {
     info: {
       en: 'To delete, type the characters name. Your character can not be restored.',
       se: 'För att ta bort, skriv in karaktärens namn. Din karaktär tas bort för alltid.'
+    },
+    placeholder: {
+      en: 'Are you sure?',
+      se: 'Är du säker?'
     }
   }
 

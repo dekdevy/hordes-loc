@@ -49,7 +49,7 @@ const compile = (obj, lang, currentType, metrics)=>{
         }
       } else {
         // no strings as children, meaning we should iterate deeper
-        compile(value, lang[key] = {}, currentType, metrics)
+        compile(value, lang[key] = (value.length ? [] : {}), currentType, metrics)
       }
     }
   })

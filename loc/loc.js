@@ -9,20 +9,22 @@ const classes = [
   shaman,
   archer ]
 
+// Factions
+import bloodlust from './factions/bloodlust.js'
+import vanguard from './factions/vanguard.js'
+const factions = [
+  vanguard,
+  bloodlust]
+
+// User interface
 import charmenu from './ui/charmenu.js'
 import general from './ui/general.js'
 const ui = {
   charmenu,
   ...general }
 
-import bloodlust from './factions/bloodlust.js'
-import vanguard from './factions/vanguard.js'
-const factions = {
-  vanguard,
-  bloodlust }
-
 export default {
   classes,
-  ui,
-  factions
+  factions,
+  ui
 }
