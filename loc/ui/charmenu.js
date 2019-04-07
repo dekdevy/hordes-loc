@@ -17,7 +17,7 @@ export default {
     },
     emptySlot: {
       en: 'Empty',
-      se: 'Tomt'
+      se: 'Ingen'
     },
     error: {
       en: 'Network error',
@@ -41,7 +41,7 @@ export default {
     },
     selectFaction: {
       en: 'Select a faction',
-      se: 'Väljg en sida'
+      se: 'Välj en sida'
     },
     enterName: {
       en: 'Enter a name',
