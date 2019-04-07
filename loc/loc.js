@@ -12,9 +12,9 @@ const classes = [
 // Factions
 import bloodlust from './factions/bloodlust.js'
 import vanguard from './factions/vanguard.js'
-const factions = {
+const factions = [
   vanguard,
-  bloodlust }
+  bloodlust]
 
 // User interface
 import charmenu from './ui/charmenu.js'
