@@ -1,3 +1,6 @@
+# Dist output
+dist/
+
 # Logs
 logs
 *.log

@@ -1,0 +1,13 @@
+{
+  "name": "hordes-loc",
+  "description": "Hordes.io string localization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hordes.io",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "rollup": "^1.9.0"
+  }
+}
