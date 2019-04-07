@@ -69,7 +69,7 @@ languages.forEach((lang, type) => {
 // store as files
 console.log('Exporting...')
 const fs = require('fs')
-const path = './dist/loc/'
+const path = process.argv[2] || './dist/loc/'
 if (!fs.existsSync(path)) {
   fs.mkdirSync(path)
 }
