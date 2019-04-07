@@ -3,11 +3,16 @@
   "description": "Hordes.io string localization",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generate": "rollup --config && node ./dist/build.js",
+    "lint": "eslint ./build.js ./loc --fix"
   },
   "author": "Hordes.io",
   "license": "UNLICENSED",
   "dependencies": {
     "rollup": "^1.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-sort-imports-es6-autofix": "^0.4.0"
   }
 }
