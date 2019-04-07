@@ -3,7 +3,7 @@
 Community driven text and localization repo for Hordes.io, a library of strings for all in-game texts, user interface labels, game-lore, item names & descriptions, etc.
 Building requires `Node.js` & `NPM`: [nodejs.org](https://nodejs.org/)
 
-This repository is a public submodule of the beta.hordes.io sourcecode, containing a build script to compile files found in `loc/` into individual language specific `.json` files. Translations for any respective language do not have to be complete, as the build script will fall  back to other translations (generally English) for any strings that have not been translated for the language type.
+This repository is a public submodule of the [beta.hordes.io](https://beta.hordes.io) sourcecode, containing a build script to compile files found in `loc/` into individual language specific `.json` files. Translations for any respective language do not have to be complete, as the build script will fall  back to other translations (generally English) for any strings that have not been translated for the language type.
 
 ## Usage
 Installation
