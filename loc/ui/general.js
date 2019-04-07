@@ -1,9 +1,11 @@
 export default {
   // Simple basic UI elements that pop up everywhere
   ok: {
-    en: 'Okay'
+    en: 'Okay',
+    se: 'Okej'
   },
   back: {
-    en: 'Back'
+    en: 'Back',
+    se: 'Bakåt'
   }
 }
