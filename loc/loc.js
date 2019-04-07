@@ -3,8 +3,19 @@ import archer from './classes/archer.js'
 import mage from './classes/mage.js'
 import shaman from './classes/shaman.js'
 import warrior from './classes/warrior.js'
-const classes = [warrior, mage, shaman, archer]
+const classes = [
+  warrior,
+  mage,
+  shaman,
+  archer ]
+
+import charmenu from './ui/charmenu.js'
+import general from './ui/general.js'
+const ui = {
+  charmenu,
+  ...general }
 
 export default {
-  classes
+  classes,
+  ui
 }
