@@ -1,8 +1,8 @@
 export default {
   // The class name
   name: {
-    en: 'Archer',
-    de: 'Jäger'
+    en: 'Warrior',
+    de: 'Krieger'
   },
   // Class description, visible during character creation
   description: {
