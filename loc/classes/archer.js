@@ -9,6 +9,6 @@ export default {
   description: {
     en: 'Archers deal high single target damage and bursty Area of Effect damage. A good archer will always keep their distance and snipe enemies from afar.',
     de: 'Jäger richten großen Schaden bei einzelnen Zielen, und schubweise Flächenschaden an. Ein guter Jäger wird immer auf distanz bleiben.',
-    se: 'Bågskytt attackerar med hög skada mot enstaka person och även snabb areal skada. En bra bågskytt håller alltid sitt avstånd och attackerar långt ifrån.'
+    se: 'Bågskytt gör hög skada mot enskilda personer och har även hög Areal skada. En bra bågskytt attackerar alltid från en distans.'
   }
 }
