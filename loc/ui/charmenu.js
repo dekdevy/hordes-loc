@@ -60,7 +60,7 @@ export default {
     nameReq: {
       en: 'Your name can only contain characters a-Z, and numbers 0-9, without any spaces. Up to 16 characters.',
       se: 'Ditt namn kan bara använda sig karaktärerna a-Z, och nummer 0-9, utan mellanslag. Max 16 karaktärer.',
-      ru: 'Ваше имя может состоять только из латинского алфавита a-Z и цифр 0-0, без пробелов. До 16 символов.'
+      ru: 'Ваше имя может состоять только из латинского алфавита a-Z и цифр 0-9, без пробелов. До 16 символов.'
     }
   },
 
