@@ -1,7 +1,7 @@
 export default [
   { // T1 item name. names are english only!
     name       : { en: 'Trashy Thing' },
-    // Item description, visible during character creation
+    // Item description
     description: {
       en: 'Interesting item description'
     }
@@ -9,7 +9,6 @@ export default [
 
   { // T2 item. names are english only!
     name       : { en: 'Wooden Thing' },
-    // Item description, visible during character creation
     description: {
       en: 'Interesting item description'
     }
