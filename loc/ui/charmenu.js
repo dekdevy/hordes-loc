@@ -74,8 +74,8 @@ export default {
     },
     info: {
       en: 'To delete, type the characters name. Your character can not be restored.',
-      se: 'För att ta bort, skriv in karaktärens namn. Din karaktär tas bort för alltid.'
-      ru: 'Чтобы удалить, введите имя персонажа. Ваш персонаж не может быть восстановлен.' 
+      se: 'För att ta bort, skriv in karaktärens namn. Din karaktär tas bort för alltid.',
+      ru: 'Чтобы удалить, введите имя персонажа. Ваш персонаж не может быть восстановлен.'
     },
     placeholder: {
       en: 'Are you sure?',
