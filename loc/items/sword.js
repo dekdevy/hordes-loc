@@ -12,7 +12,8 @@ export default [
     name       : { en: 'Rusty Ironsword' },
     description: {
       en: 'Not much better than a blunt piece of wood in my opinion.',
-      ru: 'Не намного лучше, чем тупой кусок дерева, на мой взгляд.'
+      ru: 'Не намного лучше, чем тупой кусок дерева, на мой взгляд.',
+      fr: 'À peine meilleure qu\'un morceau de bois émoussé, en mon humble avis.'
     }
   },
 
@@ -20,7 +21,8 @@ export default [
     name       : { en: 'Troll Blade' },
     description: {
       en: 'Am I being pranked?',
-      ru: 'меня высмеивают?'
+      ru: 'меня высмеивают?',
+      fr: 'Me joue-t-on un tour?'
     }
   },
 
@@ -28,15 +30,17 @@ export default [
     name       : { en: 'Broadsword' },
     description: {
       en: 'Some knight dropped this. Probably unintentionally.',
-      ru: 'Какой-то рыцарь бросил это. Вероятно, непреднамеренно.'
+      ru: 'Какой-то рыцарь бросил это. Вероятно, непреднамеренно.',
+      fr: 'Un chevalier a échappé ceci. Probablement par accident.'
     }
   },
 
   { // T5 item. names are english only!
     name       : { en: 'Longsword' },
     description: {
-      en: 'Long? yes. Deadly? Maybe. Just don\'t cut yourself.',
-      ru: 'длинный? да. Смертельный? Может быть. Только не порежься.'
+      en: 'Long? Yes. Deadly? Maybe. Just don\'t cut yourself.',
+      ru: 'длинный? да. Смертельный? Может быть. Только не порежься.',
+      fr: 'Longue? Oui. Mortelle? Peut-être. Sûrtout, ne te coupes pas avec en la maniant.
     }
   },
   { // T6 item
@@ -73,7 +77,8 @@ export default [
     name       : { en: 'Knight\'s Greatsword' },
     description: {
       en: 'A blade wielded by only the most skillful knights.',
-      ru: 'Клинок, которым владеют только самые умелые рыцари'
+      ru: 'Клинок, которым владеют только самые умелые рыцари',
+      fr: 'Une lâme maniée par les plus grands chevaliers.'
     }
   },
 
@@ -81,7 +86,8 @@ export default [
     name       : { en: 'King\'s Glaive' },
     description: {
       en: 'Cylindrical sword stolen from an ancient king. Cutting capability is questionable.',
-      ru: 'Цилиндрический меч украден у древнего короля. Возможность резки сомнительна.'
+      ru: 'Цилиндрический меч украден у древнего короля. Возможность резки сомнительна.',
+      fr: 'Épée cylindrique volée d\'un ancien roi. Sa capacité à trancher reste questionnable.' 
     }
   },
 
@@ -89,7 +95,8 @@ export default [
     name       : { en: 'Void Blade' },
     description: {
       en: 'Poweful masterpiece brought from the underworld.',
-      ru: 'Мощный шедевр привезен из подземного мира.'
+      ru: 'Мощный шедевр привезен из подземного мира.',
+      fr: 'Une puissante merveille livrée par les enfers elles-mêmes.'
     }
   },
 
@@ -97,7 +104,8 @@ export default [
     name       : { en: 'Zerstörer' },
     description: {
       en: 'Mysterious pink sword. Engravings say "Mächtig Zerstörer".',
-      ru: 'Таинственный розовый меч. Гравюры говорят "Mächtig Zerstörer"'
+      ru: 'Таинственный розовый меч. Гравюры говорят "Mächtig Zerstörer".',
+      fr: 'Une mystérieuse épée rose. Sur les gravures, nous pouvons lire: «Mächtig Zerstörer».'
     }
   },
 
@@ -113,7 +121,8 @@ export default [
     name       : { en: 'Demonedge' },
     description: {
       en: 'It can cut demons, but not angels',
-      ru: 'Oно может резать демонов, но не ангелов'
+      ru: 'Oно может резать демонов, но не ангелов',
+      fr: 'Elle peut trancher des démons, jamais des anges.
     }
   },
 
@@ -122,7 +131,6 @@ export default [
     description: {
       en: 'We were told it was pulled from stone. Still can\'t find the stone.',
       ru: 'Нам сказали, что это было извлечено из камня. Все еще не можем найти камень.'
-
     }
   },
 
