@@ -4,7 +4,7 @@ export default {
     en: 'Warrior',
     de: 'Krieger',
     se: 'Krigare',
-    ru: 'Воин',
+    ru: 'Воин'
   },
   // Class description, visible during character creation
   description: {
