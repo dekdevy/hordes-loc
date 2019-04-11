@@ -7,7 +7,7 @@ export default [
       ru: 'Легкий лук. Возможно, вы можете найти что-то лучшее вокруг.'
     }
   },
-
+  
   { // T2 item
     name       : { en: 'Novice Shortbow' },
     description: {
@@ -15,7 +15,7 @@ export default [
       ru: 'Вы чувствуете себя менее опытным, просто держа его в своих руках'
     }
   },
-
+  
   { // T3 item
     name       : { en: 'Adventurer\'s Shortbow' },
     description: {
@@ -23,7 +23,7 @@ export default [
       ru: 'Кто то оставил его на земле, вероятно, не встретил хороший конец'
     }
   },
-  
+
   { // T3 item
     name       : { en: 'Long Bow' },
     description: {
@@ -31,7 +31,7 @@ export default [
       ru: 'Более продвинутое оружие. Довольно приятно смотреть на эго.'
     }
   },
-  
+
   { // T4 item
     name       : { en: 'Bone Bow' },
     description: {
@@ -47,7 +47,7 @@ export default [
       ru: 'Экспертный лук забытой расы'
     }
   },
-  
+
   { // T6 item
     name       : { en: 'Ancient Bow' },
     description: {
@@ -55,7 +55,7 @@ export default [
       ru: 'Грубый, но эффективный. получает силу из крошечного листа, прикрепленного к нему.'
     }
   },
-  
+
   { // T7 item
     name       : { en: 'Iron Piercer' },
     description: {
@@ -63,7 +63,7 @@ export default [
       ru: 'Сжигает противника с пряностями красной окраскаи.'
     }
   },
-  
+
   { // T8 item
     name       : { en: 'Silver Recurve' },
     description: {
@@ -71,7 +71,7 @@ export default [
       ru: 'Лук, обычно используемый низкими королевскими лучниками. Хорошо сочетается с растительностью.'
     }
   },
-  
+
   { // T9 item
     name       : { en: 'Assassin\'s Bow' },
     description: {
@@ -79,7 +79,7 @@ export default [
       ru: 'Мастерски созданный бандитами столиц.'
     }
   },
-  
+
   { // T10 item
     name       : { en: 'Skyfire Warbow' },
     description: {
@@ -87,7 +87,7 @@ export default [
       ru: 'Редкий лук, используемый в величайших войнах. Bыстрел заставляет вас чувствовать, что небеса рухнут.'
     }
   },
-  
+
   { // T11 item
     name       : { en: 'Hellfire Warbow' },
     description: {
@@ -95,7 +95,7 @@ export default [
       ru: 'Что это? Это лед? Мир может никогда не узнать ...'
     }
   },
-  
+
   { // T13 item
     name       : { en: 'Widowmaker' },
     description: {
@@ -103,14 +103,14 @@ export default [
       ru: 'Убивает так же красиво, как и выглядит.'
     }  
   },
-  
+
   { // T3 item
     name       : { en: 'Stormsong' },
     description: {
       en: 'Surrounded by a ghastly aura. The wind blows in the direction you aim it.',
       ru: 'Окруженный страшной аурой. Ветер дует в том направлении, куда вы нацеливаетесь.'
     }
-    
+  
   },
   
   { // T14 item
@@ -121,7 +121,7 @@ export default [
     }
     
   },
-  
+
   { // T15 item
     name       : { en: 'Fury' },
     description: {
@@ -129,5 +129,5 @@ export default [
       ru: 'Окрыленные яростью, ваши противники дрожат при виде этого оружия. Пью Пью - последнее, что они услышат.'
     }
   }
-   
+
 ]
