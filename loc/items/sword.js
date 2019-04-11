@@ -40,7 +40,7 @@ export default [
     description: {
       en: 'Long? Yes. Deadly? Maybe. Just don\'t cut yourself.',
       ru: 'длинный? да. Смертельный? Может быть. Только не порежься.',
-      fr: 'Longue? Oui. Mortelle? Peut-être. Sûrtout, ne te coupes pas avec en la maniant.
+      fr: 'Longue? Oui. Mortelle? Peut-être. Sûrtout, ne te coupes pas avec en la maniant.'
     }
   },
   { // T6 item
@@ -122,7 +122,7 @@ export default [
     description: {
       en: 'It can cut demons, but not angels',
       ru: 'Oно может резать демонов, но не ангелов',
-      fr: 'Elle peut trancher des démons, jamais des anges.
+      fr: 'Elle peut trancher des démons, jamais des anges.'
     }
   },
 
