@@ -17,9 +17,9 @@ export default [
   },
 
   { // T3 item
-    name       : { en: 'Adventurers Shortbow' },
+    name       : { en: 'Adventurer\'s Shortbow' },
     description: {
-      en: 'Whoever left this on the ground probably did not meet a nice end.',
+      en: 'Whoever left this on the ground probably didn\'t meet a nice end.',
       ru: 'Кто то оставил его на земле, вероятно, не встретил хороший конец'
     }
   },
@@ -32,7 +32,7 @@ export default [
     }
   },
   
- { // T4 item
+  { // T4 item
     name       : { en: 'Bone Bow' },
     description: {
       en: 'Put together with the bones of... somebody?',
@@ -40,7 +40,7 @@ export default [
     }
   },
   
- { // T5 item
+  { // T5 item
     name       : { en: 'Elven Bow' },
     description: {
       en: 'An expert bow of a forgotten race.',
@@ -48,7 +48,7 @@ export default [
     }
   },
   
- { // T6 item
+  { // T6 item
     name       : { en: 'Ancient Bow' },
     description: {
       en: 'Crude, but effective. Draws its power from the tiny leaf attached to it.',
@@ -56,7 +56,7 @@ export default [
     }
   },
   
- { // T7 item
+  { // T7 item
     name       : { en: 'Iron Piercer' },
     description: {
       en: 'Burns away the enemy with the spiciest of red coloring.',
@@ -64,7 +64,7 @@ export default [
     }
   },
   
- { // T8 item
+  { // T8 item
     name       : { en: 'Silver Recurve' },
     description: {
       en: 'A bow commonly used by low-ranked royal archers. Blends in well with vegetation.',
@@ -72,15 +72,15 @@ export default [
     }
   },
   
- { // T9 item
-    name       : { en: 'Assassins Bow' },
+  { // T9 item
+    name       : { en: 'Assassin\'s Bow' },
     description: {
       en: 'Masterfully crafted by the bandits of the capitals.',
       ru: 'Мастерски созданный бандитами столиц.'
     }
   },
   
- { // T10 item
+  { // T10 item
     name       : { en: 'Skyfire Warbow' },
     description: {
       en: 'A rare bow used in the greatest of wars. Shooting it makes you feel like the heavens will collapse.',
@@ -94,28 +94,35 @@ export default [
       en: 'What is it? Is it ice? The world may never know...',
       ru: 'Что это? Это лед? Мир может никогда не узнать ...'
     }
-  },{ // T13 item
+  },
+  
+  { // T13 item
     name       : { en: 'Widowmaker' },
     description: {
       en: 'Kills as beautifully as it looks.',
       ru: 'Убивает так же красиво, как и выглядит.'
-    }
-    
-  },{ // T3 item
+    }  
+  },
+  
+  { // T3 item
     name       : { en: 'Stormsong' },
     description: {
       en: 'Surrounded by a ghastly aura. The wind blows in the direction you aim it.',
       ru: 'Окруженный страшной аурой. Ветер дует в том направлении, куда вы нацеливаетесь.'
     }
     
-  },{ // T14 item
+  },
+  
+  { // T14 item
     name       : { en: 'Scarebow' },
     description: {
       en: 'So scary that few have the guts to hold it.',
       ru: 'Настолько страшно, что немногие имеют мужество держать его'
     }
     
-  },{ // T15 item
+  },
+  
+  { // T15 item
     name       : { en: 'Fury' },
     description: {
       en: 'Embedded with a primal rage, your foes tremble at the sight of this weapon. Pew pew is the last thing they will ever hear.',
