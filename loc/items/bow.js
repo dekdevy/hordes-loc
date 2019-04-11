@@ -116,7 +116,8 @@ export default [
     name       : { en: 'Scarebow' },
     description: {
       en: 'So scary that few have the guts to hold it.',
-      ru: 'Настолько страшно, что немногие имеют мужество держать его'
+      ru: 'Настолько страшно, что немногие имеют мужество держать его.'
+    }
   },
 
   { // T15 item
