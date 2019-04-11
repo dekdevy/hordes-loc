@@ -3,11 +3,13 @@ export default {
   ok: {
     en: 'Okay',
     se: 'Okej',
-    ru: 'Окей'
+    ru: 'Окей',
+    fr: 'Ok'
   },
   back: {
     en: 'Back',
     se: 'Bakåt',
-    ru: 'Назад'
+    ru: 'Назад',
+    fr: 'Retour'
   }
 }
