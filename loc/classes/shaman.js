@@ -4,7 +4,8 @@ export default {
     en: 'Shaman',
     de: 'Schamane',
     se: 'Schaman',
-    ru: 'Шаман'
+    ru: 'Шаман',
+    fr: 'Chaman'
   },
   // Class description, visible during character creation
   description: {
