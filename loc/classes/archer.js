@@ -5,7 +5,7 @@ export default {
     de: 'Jäger',
     se: 'Bågskytt',
     ru: 'Лучник',
-    ko: '궁수',
+    ko: '궁수'
   },
   // Class description, visible during character creation
   description: {

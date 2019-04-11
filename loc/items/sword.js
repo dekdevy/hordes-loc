@@ -4,7 +4,7 @@ export default [
     // Item description
     description: {
       en: 'Name says it all. Careful of the splinters.',
-      ru: 'Имя говорит само за себя. Осторожнее осколков.',
+      ru: 'Имя говорит само за себя. Осторожнее осколков.'
     }
   },
 
@@ -12,7 +12,7 @@ export default [
     name       : { en: 'Rusty Ironsword' },
     description: {
       en: 'Not much better than a blunt piece of wood in my opinion.',
-      ru: 'Не намного лучше, чем тупой кусок дерева, на мой взгляд.',
+      ru: 'Не намного лучше, чем тупой кусок дерева, на мой взгляд.'
     }
   },
 
@@ -20,7 +20,7 @@ export default [
     name       : { en: 'Troll Blade' },
     description: {
       en: 'Am I being pranked?',
-      ru: 'меня высмеивают?',
+      ru: 'меня высмеивают?'
     }
   },
 
@@ -31,107 +31,107 @@ export default [
       ru: 'Какой-то рыцарь бросил это. Вероятно, непреднамеренно.'
     }
   },
-  
+
   { // T5 item. names are english only!
     name       : { en: 'Longsword' },
     description: {
-      en: "Long? yes. Deadly? Maybe. Just don't cut yourself.",
-      ru: 'длинный? да. Смертельный? Может быть. Только не порежься.',
+      en: 'Long? yes. Deadly? Maybe. Just don\'t cut yourself.',
+      ru: 'длинный? да. Смертельный? Может быть. Только не порежься.'
     }
   },
   { // T6 item
     name       : { en: 'Carved Bonesword' },
     description: {
       en: 'Crudely carved from the bones of an ancient behemoth.',
-      ru: 'Грубо вырезанный из кости древнего бегемота',
+      ru: 'Грубо вырезанный из кости древнего бегемота'
     }
   },
   { // T7 item
     name       : { en: 'Greatsword' },
     description: {
-      en: "A sword so mighty that few can handle it. It's pretty heavy.",
-      ru: 'Меч такой могущественный, что немногие могут с ним справиться. Oн довольно тяжелый.',
+      en: 'A sword so mighty that few can handle it. It\'s pretty heavy.',
+      ru: 'Меч такой могущественный, что немногие могут с ним справиться. Oн довольно тяжелый.'
     }
   },
   { // T8 item
     name       : { en: 'Ghastly Scimitar' },
     description: {
       en: 'Diabolical curved blade. Even holding it makes you feel its dark essence.',
-      ru: 'Дьявольское изогнутое лезвие. Даже держа его, вы чувствуете его темную сущность.',
+      ru: 'Дьявольское изогнутое лезвие. Даже держа его, вы чувствуете его темную сущность.'
     }
   },
-  
+
   { // T9 item
     name       : { en: 'Nullfire Sword' },
     description: {
       en: 'A cold-looking blade with a burning hot slice.',
-      ru: 'Холодный клинок с горячим нарезаm.',
+      ru: 'Холодный клинок с горячим нарезаm.'
     }
   },
- 
+
   { // T10 item
-    name       : { en: "Knight's Greatsword" },
+    name       : { en: 'Knight\'s Greatsword' },
     description: {
       en: 'A blade wielded by only the most skillful knights.',
-      ru: 'Клинок, которым владеют только самые умелые рыцари',
+      ru: 'Клинок, которым владеют только самые умелые рыцари'
     }
   },
-  
+
   { // T11 item
-    name       : { en: "King's Glaive" },
+    name       : { en: 'King\'s Glaive' },
     description: {
       en: 'Cylindrical sword stolen from an ancient king. Cutting capability is questionable.',
-      ru: 'Цилиндрический меч украден у древнего короля. Возможность резки сомнительна.',
+      ru: 'Цилиндрический меч украден у древнего короля. Возможность резки сомнительна.'
     }
   },
-  
+
   { // T12 item
     name       : { en: 'Void Blade' },
     description: {
       en: 'Poweful masterpiece brought from the underworld.',
-      ru: 'Мощный шедевр привезен из подземного мира.',
+      ru: 'Мощный шедевр привезен из подземного мира.'
     }
   },
-  
+
   { // T13 item
     name       : { en: 'Zerstörer' },
     description: {
       en: 'Mysterious pink sword. Engravings say "Mächtig Zerstörer".',
-      ru: 'Таинственный розовый меч. Гравюры говорят "Mächtig Zerstörer"',
+      ru: 'Таинственный розовый меч. Гравюры говорят "Mächtig Zerstörer"'
     }
   },
-  
+
   { // T14 item
     name       : { en: 'Hearteater' },
     description: {
       en: 'Cuts through your foes hearts. Eats them on the way.',
-      ru: 'Разрезает сердца ваших врагов. Eсть их по дороге.',
+      ru: 'Разрезает сердца ваших врагов. Eсть их по дороге.'
     }
   },
-  
+
   { // T15 item
     name       : { en: 'Demonedge' },
     description: {
       en: 'It can cut demons, but not angels',
-      ru: 'Oно может резать демонов, но не ангелов',
+      ru: 'Oно может резать демонов, но не ангелов'
     }
   },
-  
+
   { // T16 item
     name       : { en: 'Excalibur' },
     description: {
-      en: "We were told it was pulled from stone. Still can't find the stone.",
-      ru: 'Нам сказали, что это было извлечено из камня. Все еще не можем найти камень.',
+      en: 'We were told it was pulled from stone. Still can\'t find the stone.',
+      ru: 'Нам сказали, что это было извлечено из камня. Все еще не можем найти камень.'
 
     }
   },
-  
+
   { // T17 item
     name       : { en: 'Harbringer' },
     description: {
       en: 'This weapon brings about the coming of a new age.',
-      ru: 'Это оружие вызывает наступление новой эры.',
+      ru: 'Это оружие вызывает наступление новой эры.'
     }
-  },
- 
+  }
+
 ]

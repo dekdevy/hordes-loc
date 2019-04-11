@@ -55,7 +55,7 @@ const ui = {
 
 export default {
   classes,
-  //items,
+  items,
   factions,
   ui
 }
