@@ -58,7 +58,6 @@ export default [
     description: {
       en: 'Diabolical curved blade. Even holding it makes you feel its dark essence.',
       ru: 'Дьявольское изогнутое лезвие. Даже держа его, вы чувствуете его темную сущность.',
-',
     }
   },
   
