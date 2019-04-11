@@ -24,7 +24,7 @@ export default [
     }
   },
 
-  { // T3 item
+  { // T4 item
     name       : { en: 'Long Bow' },
     description: {
       en: 'A more advanced weapon. Quite nice to look at.',
@@ -32,7 +32,7 @@ export default [
     }
   },
 
-  { // T4 item
+  { // T5 item
     name       : { en: 'Bone Bow' },
     description: {
       en: 'Put together with the bones of... somebody?',
@@ -40,7 +40,7 @@ export default [
     }
   },
 
-  { // T5 item
+  { // T6 item
     name       : { en: 'Elven Bow' },
     description: {
       en: 'An expert bow of a forgotten race.',
@@ -48,7 +48,7 @@ export default [
     }
   },
 
-  { // T6 item
+  { // T7 item
     name       : { en: 'Ancient Bow' },
     description: {
       en: 'Crude, but effective. Draws its power from the tiny leaf attached to it.',
@@ -56,7 +56,7 @@ export default [
     }
   },
 
-  { // T7 item
+  { // T8 item
     name       : { en: 'Iron Piercer' },
     description: {
       en: 'Burns away the enemy with the spiciest of red coloring.',
@@ -64,7 +64,7 @@ export default [
     }
   },
 
-  { // T8 item
+  { // T9 item
     name       : { en: 'Silver Recurve' },
     description: {
       en: 'A bow commonly used by low-ranked royal archers. Blends in well with vegetation.',
@@ -72,7 +72,7 @@ export default [
     }
   },
 
-  { // T9 item
+  { // T10 item
     name       : { en: 'Assassin\'s Bow' },
     description: {
       en: 'Masterfully crafted by the bandits of the capitals.',
@@ -80,7 +80,7 @@ export default [
     }
   },
 
-  { // T10 item
+  { // T11 item
     name       : { en: 'Skyfire Warbow' },
     description: {
       en: 'A rare bow used in the greatest of wars. Shooting it makes you feel like the heavens will collapse.',
@@ -88,7 +88,7 @@ export default [
     }
   },
 
-  { // T11 item
+  { // T12 item
     name       : { en: 'Hellfire Warbow' },
     description: {
       en: 'What is it? Is it ice? The world may never know...',
@@ -104,7 +104,7 @@ export default [
     }
   },
 
-  { // T3 item
+  { // T14 item
     name       : { en: 'Stormsong' },
     description: {
       en: 'Surrounded by a ghastly aura. The wind blows in the direction you aim it.',
@@ -112,7 +112,7 @@ export default [
     }
   },
 
-  { // T14 item
+  { // T15 item
     name       : { en: 'Scarebow' },
     description: {
       en: 'So scary that few have the guts to hold it.',
@@ -120,7 +120,7 @@ export default [
     }
   },
 
-  { // T15 item
+  { // T16 item
     name       : { en: 'Fury' },
     description: {
       en: 'Embedded with a primal rage, your foes tremble at the sight of this weapon. Pew pew is the last thing they will ever hear.',
