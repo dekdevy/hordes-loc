@@ -96,7 +96,7 @@ export default [
     }
   },
 
-  { // T13 item
+  { // T12 item
     name       : { en: 'Widowmaker' },
     description: {
       en: 'Kills as beautifully as it looks.',
@@ -104,7 +104,7 @@ export default [
     }
   },
 
-  { // T3 item
+  { // T13 item
     name       : { en: 'Stormsong' },
     description: {
       en: 'Surrounded by a ghastly aura. The wind blows in the direction you aim it.',
