@@ -7,7 +7,7 @@ export default [
       ru: 'Легкий лук. Возможно, вы можете найти что-то лучшее вокруг.'
     }
   },
-  
+
   { // T2 item
     name       : { en: 'Novice Shortbow' },
     description: {
@@ -15,7 +15,7 @@ export default [
       ru: 'Вы чувствуете себя менее опытным, просто держа его в своих руках'
     }
   },
-  
+
   { // T3 item
     name       : { en: 'Adventurer\'s Shortbow' },
     description: {
@@ -39,7 +39,7 @@ export default [
       ru: 'Cобран из костей ... кого-нибудь?'
     }
   },
-  
+
   { // T5 item
     name       : { en: 'Elven Bow' },
     description: {
@@ -101,7 +101,7 @@ export default [
     description: {
       en: 'Kills as beautifully as it looks.',
       ru: 'Убивает так же красиво, как и выглядит.'
-    }  
+    } 
   },
 
   { // T3 item
@@ -110,16 +110,13 @@ export default [
       en: 'Surrounded by a ghastly aura. The wind blows in the direction you aim it.',
       ru: 'Окруженный страшной аурой. Ветер дует в том направлении, куда вы нацеливаетесь.'
     }
-  
   },
-  
+
   { // T14 item
     name       : { en: 'Scarebow' },
     description: {
       en: 'So scary that few have the guts to hold it.',
       ru: 'Настолько страшно, что немногие имеют мужество держать его'
-    }
-    
   },
 
   { // T15 item
