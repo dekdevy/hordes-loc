@@ -101,7 +101,7 @@ export default [
     description: {
       en: 'Kills as beautifully as it looks.',
       ru: 'Убивает так же красиво, как и выглядит.'
-    } 
+    }
   },
 
   { // T3 item
