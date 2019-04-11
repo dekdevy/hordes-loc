@@ -87,6 +87,7 @@ export default [
       ru: 'Редкий лук, используемый в величайших войнах. Bыстрел заставляет вас чувствовать, что небеса рухнут.'
     }
   },
+  
   { // T11 item
     name       : { en: "Hellfire Warbow" },
     description: {
@@ -120,10 +121,6 @@ export default [
       en: 'Embedded with a primal rage, your foes tremble at the sight of this weapon. Pew pew is the last thing they will ever hear.',
       ru: 'Окрыленные яростью, ваши противники дрожат при виде этого оружия. Пью Пью - последнее, что они услышат.'
     }
-  },
-  
-  
- 
- 
-  
+  }
+   
 ]
