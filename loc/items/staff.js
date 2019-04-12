@@ -168,7 +168,7 @@ export default [
       es: 'Se nos dice que su núcleo es del corazón de una bruja. Nadie ha encontrado el cadáver. O el propio personal.',
       de: 'Uns wurde gesagt, dass sein Kern aus dem Herzen einer Hexe stammt. Niemand hat die Leiche gefunden. Oder das Personal selbst.',
       fr: 'On nous dit que son coeur est celui d\'une sorcière. Personne n\'a trouvé le cadavre. Ou le personnel lui-même.'
-   }
+    }
   },
 
   {
@@ -176,7 +176,6 @@ export default [
     description: {
       en: 'This weapon is so secretive that the few who wield it have killed all that know of it.',
       ru: 'Это оружие настолько скрытно, что те, кто владеют им, убили всех, кто о нем знает.',
-      es: 'Se dicen que nadie se queda vivo para contar de este arco, pero... de donde viene las historias?',
       es: 'Esta arma es tan secreta que los pocos que la manejan han matado a todos los que la conocen.',
       de: 'Diese Waffe ist so geheimnisvoll, dass die wenigen, die sie führen, alle getötet haben, die von ihr wissen.',
       fr: 'Cette arme est si secrète que les quelques personnes qui l\'utilisent ont tué tous ceux qui la connaissent.'
