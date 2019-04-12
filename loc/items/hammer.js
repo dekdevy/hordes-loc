@@ -42,8 +42,8 @@ export default [
   {
     name       : {en: 'Iron Basher' },
     description: {
-      en: 'Slender rod-like weapon. Lightweight and fairly useless.',
-      ru: 'Тонкое прутообразное оружие. Легкая и довольно бесполезное.'
+      en: 'Strange rod-like basher. Seems crude and emits a faint smell of druid oils....',
+      ru: 'Странный стержнеобразный башер. Кажется грубый и испускает слабый запах друидских масел ....'
     }
   },
 
@@ -74,24 +74,24 @@ export default [
   {
     name       : {en: 'Dwarven Maul' },
     description: {
-      en: 'Heavy basher used by dwarf warriors. Made of an unknown metal.',
-      ru: 'Тяжелый башер, используемый гномами-воинами. Изготовлен из неизвестного металла.'
+      en: 'Heavy basher used by dwarf warriors. Made of an unknown metal, dark and heavy',
+      ru: 'Тяжелый башер, используемый гномами-воинами. Изготовлен из неизвестного металла, темный и тяжелый.'
     }
   },
 
   {
     name       : {en: 'Coldforged Gavel' },
     description: {
-      en: 'An ancient headstone transformed into a deadly hammer. Cold to touch.',
-      ru: 'Древний надгробие превращается в смертельный молот. Xалодный на ощупь.'
+      en: 'Forged without heat, kills without mercy.',
+      ru: 'Выкован без тепла, убивает без пощады.'
     }
   },
 
   {
     name       : {en: 'Amboss' },
     description: {
-      en: 'Topped with the skull of an enemy, this weapon inspires terror in all who stand against it.',
-      ru: 'Это оружие, увенчанное черепом врага, внушает ужас всем, кто противостоит ему.'
+      en: 'Topped with the skull of a slain behemoth enemy, this weapon inspires terror in all who stand against it.',
+      ru: 'Это оружие, увенчанное черепом бегемота, внушает ужас всем, кто противостоит ему.'
     }
   },
 
@@ -106,16 +106,16 @@ export default [
   {
     name       : {en: 'Benevolence' },
     description: {
-      en: 'Nothing kind about this weapon.',
-      ru: 'Ничего доброго в этом оружии.'
+      en: 'Nothing kind about this cruel weapon.',
+      ru: 'Ничего доброго в этом жестоком  оружии.'
     }
   },
 
   {
     name       : {en: 'Hammer of Gaia' },
     description: {
-      en: 'Simply a wooden rod with a mass of iron on top. Crude, yet effective.',
-      ru: 'Просто деревянный стержень с массой железа на вершине. Грубая, но эффективная.'
+      en: 'Some say its made by dwarves, others say by elves......the truth is yet to be uncovered.',
+      ru: 'Некоторые говорят, что он сделано дварфами, другие говорят эльфами ...... правда еще не раскрыта.'
     }
   },
 
@@ -130,8 +130,8 @@ export default [
   {
     name       : {en: 'Nightmare' },
     description: {
-      en: 'Be afraid. Be very, very afraid.',
-      ru: 'Бойтесь. Очень oчень бойтесь.'
+      en: 'Mysterious magician soaked in many intricate charms on this weapon, bringing ghastly thoughts and dreams to its wielder.',
+      ru: 'Таинственный волшебник впитал множество замысловатых чар на этом оружии, принося ужасные мысли и мечты его обладателю.'
     }
   }
 
