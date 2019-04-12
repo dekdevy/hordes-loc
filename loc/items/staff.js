@@ -66,7 +66,7 @@ export default [
   {
     name       : {en: 'Emerald Staff' },
     description: {
-      en: 'Contructed from emeralds stolen from the mountain dwarves.', 
+      en: 'Contructed from emeralds stolen from the mountain dwarves.',
       es: 'Hay una herrera en las montañas, se llama Esmeralda. Ella solo hace varitas de esmeralda por algún razón.'
     }
   },
