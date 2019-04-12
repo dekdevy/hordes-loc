@@ -114,7 +114,8 @@ export default [
   {
     name       : {en: 'Deathweaver' },
     description: {
-      en: 'This weapon is so secretive that the few who wield it have killed all that know of it.'
+      en: 'This weapon is so secretive that the few who wield it have killed all that know of it.',
+      es: 'Se dicen que nadie se queda vivo para contar de este arco, pero... de donde viene las historias?'
     }
   }
 
