@@ -100,4 +100,3 @@ export default [
     description: {
       en: 'Interesting item description'
     }
-  }
