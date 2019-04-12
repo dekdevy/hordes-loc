@@ -2,7 +2,7 @@ export default [
   {
     name       : {en: 'Potato Sack' },
     description: {
-      en: 'Made from the skins of starch, provides weak protection against the forces of carbohydrates.'
+      en: 'Made from the skins of starch, provides weak protection against the forces of carbohydrates.',
       es: 'Elaborado a partir de las pieles de almidón, proporciona una débil protección contra las fuerzas de los hidratos de carbono.',
       de: 'Hergestellt aus der Schale von Stärke, bietet einen schwachen Schutz vor den Kräften der Kohlenhydrate.',
       fr: 'Fabriqué à partir de la peau de l\'amidon, offre une faible protection contre les forces des glucides.'
