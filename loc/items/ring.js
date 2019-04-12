@@ -101,6 +101,3 @@ export default [
       en: 'Interesting item description'
     }
   }
-  
-  
-  ]
