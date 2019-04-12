@@ -124,7 +124,6 @@ export default [
     description: {
       en: 'Does it have the power to end worlds? Few can say. If it does, we will not live long enough to learn of it.',
       ru: 'Есть ли у него сила, чтобы положить конец мирам? Мало кто может сказать. Если это произойдет, мы не будем жить достаточно долго, чтобы узнать об этом.'
-'
     }
   },
 
