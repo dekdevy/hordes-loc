@@ -90,8 +90,8 @@ export default [
   {
     name       : {en: 'Infernal Staff' },
     description: {
-      en: 'A gift from the almighty lava god, Erlik.',
-      ru: 'Дар всемогущего лавового бога Эрлика.'
+      en: 'Forged by the blacksmiths residing in fabled valleys undiscorvered by travelers.',
+      ru: 'Выкованный кузнецами, живущими в сказочных долинах, неоткрытый путешественниками.'
     }
   },
 
