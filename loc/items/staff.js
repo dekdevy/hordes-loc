@@ -4,7 +4,10 @@ export default [
     description: {
       en: 'Weapon forged by the greatest blacksmith of all the land. At least thats what we told little Timmy.',
       ru: 'Оружие, выкованное величайшим кузнецом из всей земли. По крайней мере, так мы сказали маленькому Тимми.',
-      es: 'La horda de sed de sangre valora la libertad y la lealtad, ofrece un lugar para el individualismo o incluso el caos. Sus defensas están ubicadas en un reino desértico llamado Headless Landing'
+      es: 'La horda de sed de sangre valora la libertad y la lealtad, ofrece un lugar para el individualismo o incluso el caos. Sus defensas están ubicadas en un reino desértico llamado Headless Landing.',
+      es: 'Arma forjada por el más grande herrero de toda la tierra. Al menos eso es lo que le dijimos al pequeño Timmy.',
+      de: 'Die Waffe wurde vom größten Schmied des Landes geschmiedet. Zumindest haben wir dem kleinen Timmy das gesagt.',
+      fr: 'Une arme forgée par le plus grand forgeron du pays. Du moins, c\'est ce qu\'on a dit au petit Timmy.'
     }
   },
 
@@ -12,7 +15,6 @@ export default [
     name       : {en: 'Cracked Stick' },
     description: {
       en: 'Desperate situations call for desperate measures.',
-
       ru: 'Отчаянные ситуации требуют отчаянных мер.',
       es: 'Las situaciones desesperadas requieren medidas desesperadas.',
       de: 'Verzweifelte Situationen erfordern verzweifelte Maßnahmen.',
