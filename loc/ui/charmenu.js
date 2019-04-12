@@ -93,7 +93,7 @@ export default {
       ru: 'Ваше имя может состоять только из латинского алфавита a-Z и цифр 0-9, без пробелов. До 16 символов.',
       es: 'Su nombre sólo puede contener los caracteres de la a-Z, y los números del 0 al 9, sin espacios. Hasta 16 caracteres.',
       de: 'Dein Name darf nur die Zeichen a-Z und die Zahlen 0-9 ohne Leerzeichen enthalten. Bis zu 16 Zeichen.',
-      fr: 'Votre nom ne peut contenir que les caractères a-Z, et les chiffres 0-9, sans espaces. Jusqu\'à 16 caractères.
+      fr: 'Votre nom ne peut contenir que les caractères a-Z, et les chiffres 0-9, sans espaces. Jusqu\'à 16 caractères.'
     }
   },
 
