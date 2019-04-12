@@ -59,7 +59,7 @@ export default {
       en: 'Select a faction',
       se: 'Välj en sida',
       ru: 'Выберите фракцию',
-      hi: 'दल चुने'
+      hi: 'वंश चुने'
     },
     enterName: {
       en: 'Enter a name',
