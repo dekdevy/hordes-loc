@@ -11,7 +11,7 @@ export default [
     name       : {en: 'Cracked Stick' },
     description: {
       en: 'Desperate situations call for desperate measures.',
-      es: 'Has roto su palo. Está bien, todavía puedes usarlo'
+      es: 'Has roto su palo. Está bien, todavía puedes usarlo.'
     }
   },
 
@@ -99,7 +99,7 @@ export default [
     name       : {en: 'Hellfire Greatstaff' },
     description: {
       en: 'Its beauty calls out to you.....to kill.....to conquer....',
-      es: '¿Qué dice este bastón? Dice "...mátalos....conquistar el mundo....será divertido......"'
+      es: '¿Qué dice este bastón? Dice "...mátalos....conquista el mundo....será divertido......"'
     }
   },
 
@@ -131,7 +131,7 @@ export default [
     name       : {en: 'Deathweaver' },
     description: {
       en: 'This weapon is so secretive that the few who wield it have killed all that know of it.',
-      es: 'Se dicen que nadie se queda vivo para contar de este arco, pero... de donde viene las historias?'
+      es: 'Se dicen que nadie se queda vivo para contar de este arco, pero... ¿de donde viene las historias?'
     }
   }
 
