@@ -51,7 +51,7 @@ export default [
   {
     name       : {en: 'Obsidian Cloak' },
     description: {
-      en: 'Matches Dhwtys Obsidian Crown.'
+      en: 'Forged by unknown magicians, you wear a deep, dark and powerful chestplate.'
     }
   },
 
