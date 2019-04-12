@@ -4,7 +4,8 @@ export default [
     // Item description
     description: {
       en: 'Almost lightweight. You can probably find something better around.',
-      ru: 'Легкий лук. Возможно, вы можете найти что-то лучшее вокруг.'
+      ru: 'Легкий лук. Возможно, вы можете найти что-то лучшее вокруг.',
+      es: 'Es un palo roto. Definitivamente puede encontrar un arco mejor que este.'
     }
   },
 
@@ -12,7 +13,8 @@ export default [
     name       : { en: 'Novice Shortbow' },
     description: {
       en: 'You feel less skilled just by holding this in your hands.',
-      ru: 'Вы чувствуете себя менее опытным, просто держа его в своих руках'
+      ru: 'Вы чувствуете себя менее опытным, просто держа его в своих руках',
+      es: 'Sé que dijimos que podrías encontrar un arco mejor pero... este no es mejor.'
     }
   },
 
@@ -20,7 +22,8 @@ export default [
     name       : { en: 'Adventurer\'s Shortbow' },
     description: {
       en: 'Whoever left this on the ground probably didn\'t meet a nice end.',
-      ru: 'Кто то оставил его на земле, вероятно, не встретил хороший конец'
+      ru: 'Кто то оставил его на земле, вероятно, не встретил хороший конец',
+      es: ''
     }
   },
 
@@ -28,7 +31,8 @@ export default [
     name       : { en: 'Long Bow' },
     description: {
       en: 'A more advanced weapon. Quite nice to look at.',
-      ru: 'Более продвинутое оружие. Довольно приятно смотреть на эго.'
+      ru: 'Более продвинутое оружие. Довольно приятно смотреть на эго.',
+      es: 'Eyyy, encontraste eso arco mejor de que hablemos!'
     }
   },
 
@@ -36,7 +40,8 @@ export default [
     name       : { en: 'Bone Bow' },
     description: {
       en: 'Put together with the bones of... somebody?',
-      ru: 'Cобран из костей ... кого-нибудь?'
+      ru: 'Cобран из костей ... кого-нибудь?',
+      es: 'Se dice \"Hecho de los huesos de la muerte\" en la etiqueta.'
     }
   },
 
@@ -44,7 +49,8 @@ export default [
     name       : { en: 'Elven Bow' },
     description: {
       en: 'An expert bow of a forgotten race.',
-      ru: 'Экспертный лук забытой расы'
+      ru: 'Экспертный лук забытой расы',
+      es: 'No es de los elfos de Tierra Media, pero es un arco de los duendes de Polo Norte.'
     }
   },
 
@@ -52,7 +58,8 @@ export default [
     name       : { en: 'Ancient Bow' },
     description: {
       en: 'Crude, but effective. Draws its power from the tiny leaf attached to it.',
-      ru: 'Грубый, но эффективный. получает силу из крошечного листа, прикрепленного к нему.'
+      ru: 'Грубый, но эффективный. получает силу из крошечного листа, прикрепленного к нему.',
+      es: 'Este arco también es solo un palo, pero tiene un hoja de arce, entonces es definitivamente más poderoso. Es ciencia.'
     }
   },
 
@@ -60,7 +67,8 @@ export default [
     name       : { en: 'Iron Piercer' },
     description: {
       en: 'Burns away the enemy with the spiciest of red coloring.',
-      ru: 'Сжигает противника с пряностями красной окраскаи.'
+      ru: 'Сжигает противника с пряностями красной окраскаи.',
+      es: 'Imbuido con las semillas del habanero más caliente del mundo, sus llanas queman aún las rocas del tierra.'
     }
   },
 
@@ -100,7 +108,8 @@ export default [
     name       : { en: 'Widowmaker' },
     description: {
       en: 'Kills as beautifully as it looks.',
-      ru: 'Убивает так же красиво, как и выглядит.'
+      ru: 'Убивает так же красиво, как и выглядит.',
+      es: 'Vivo solo para matar, respiro solo para asesinar. Y es bella.'
     }
   },
 
@@ -124,7 +133,8 @@ export default [
     name       : { en: 'Fury' },
     description: {
       en: 'Embedded with a primal rage, your foes tremble at the sight of this weapon. Pew pew is the last thing they will ever hear.',
-      ru: 'Окрыленные яростью, ваши противники дрожат при виде этого оружия. Пью Пью - последнее, что они услышат.'
+      ru: 'Окрыленные яростью, ваши противники дрожат при виде этого оружия. Пью Пью - последнее, что они услышат.',
+      es: 'Necesitamos decir y mostrar que es un arco por razones legales. Es tanto un arco como un .50 cal rifle.'
     }
   }
 
