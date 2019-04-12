@@ -176,6 +176,7 @@ export default [
       en: 'Embedded with a primal rage, your foes tremble at the sight of this weapon. Pew pew is the last thing they will ever hear.',
       ru: 'Окрыленные яростью, ваши противники дрожат при виде этого оружия. Пью Пью - последнее, что они услышат.',
       de: 'Eingebettet in eine urtümliche Wut, zittern deine Feinde beim Anblick dieser Waffe. Kirchenbank ist das Letzte, was sie je hören werden.',
+      es: 'Envueltos en una furia primigenia, tus enemigos tiemblan al ver esta arma. Pew Pew Pew es lo último que oirán.',
       fr: 'Encastrés dans une rage primitive, vos ennemis tremblent à la vue de cette arme. Pew pew pew est la dernière chose qu\'ils n\'entendront jamais.'
     }
   }
