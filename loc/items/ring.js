@@ -92,11 +92,6 @@ export default [
     description: {
       en: 'Interesting item description'
     }
-  },
-  
-   { // T13 item name. names are english only!
-    name       : { en: '' },
-    // Item description
-    description: {
-      en: 'Interesting item description'
-    }
+  }
+
+]
