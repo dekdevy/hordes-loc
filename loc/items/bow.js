@@ -115,7 +115,7 @@ export default [
       en: 'A rare bow used in the greatest of wars. Shooting it makes you feel like the heavens will collapse.',
       ru: 'Редкий лук, используемый в величайших войнах. Bыстрел заставляет вас чувствовать, что небеса рухнут.',
       de: 'Ein seltener Bogen, der in den größten Kriegen verwendet wird. Beim Schießen hat man das Gefühl, dass der Himmel zusammenbrechen wird.',
-      es: 'Un arco raro usado en la mayor de las guerras. Disparar te hace sentir como si el cielo se fuera a derrumbar.,
+      es: 'Un arco raro usado en la mayor de las guerras. Disparar te hace sentir como si el cielo se fuera a derrumbar.',
       fr: 'Un arc rare utilisé dans la plus grande des guerres. Tirer dessus vous donne l\'impression que le ciel va s\'effondrer.'
     }
   },
@@ -171,7 +171,7 @@ export default [
       ru: 'Окрыленные яростью, ваши противники дрожат при виде этого оружия. Пью Пью - последнее, что они услышат.',
       de: 'Eingebettet in eine urtümliche Wut, zittern deine Feinde beim Anblick dieser Waffe. Kirchenbank ist das Letzte, was sie je hören werden.',
       es: 'Envueltos en una furia primigenia, tus enemigos tiemblan al ver esta arma. Pew Pew Pew es lo último que oirán.',
-      fr: 'Encastrés dans une rage primitive, vos ennemis tremblent à la vue de cette arme. Pew pew pew est la dernière chose qu\'ils n\'entendront jamais.
+      fr: 'Encastrés dans une rage primitive, vos ennemis tremblent à la vue de cette arme. Pew pew pew est la dernière chose qu\'ils n\'entendront jamais.'
     }
   }
 
