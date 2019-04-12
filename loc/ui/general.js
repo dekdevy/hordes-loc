@@ -4,12 +4,14 @@ export default {
     en: 'Okay',
     se: 'Okej',
     ru: 'Окей',
-    de: 'Okay'
+    de: 'Okay',
+    hi: 'ठीक'
   },
   back: {
     en: 'Back',
     se: 'Bakåt',
     ru: 'Назад',
-    de: 'zurück'
+    de: 'zurück',
+    hi: 'पिछला'
   }
 }
