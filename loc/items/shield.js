@@ -6,7 +6,6 @@ export default [
       en: 'Interesting item description'
     }
   },
-  
   { // T2 item name. names are english only!
     name       : { en: 'Guided Talisman' },
     // Item description
@@ -22,7 +21,6 @@ export default [
       en: 'Interesting item description'
     }
   },
-  
   { // T4 item. names are english only!
     name       : { en: 'Qui\'ton' },
     description: {
