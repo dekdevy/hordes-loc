@@ -157,7 +157,7 @@ export default [
       ru: 'Некоторые говорят, что он сделано дварфами, другие говорят эльфами ...... правда еще не раскрыта.',
       es: 'Certains disent que c\'est fait par des nains, d\'autres par des elfes........la vérité n\'a pas encore été découverte.',
       de: 'Einige sagen, dass es von Zwergen gemacht wurde, andere sagen, dass es von Elfen gemacht wurde.... die Wahrheit ist noch nicht enthüllt.',
-      fr: 'Certains disent que c\'est fait par des nains, d\'autres par des elfes... la vérité n\a pas encore été découverte.'
+      fr: 'Certains disent que c\'est fait par des nains, d\'autres par des elfes... la vérité na pas encore été découverte.'
     }
   },
 
