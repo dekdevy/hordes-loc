@@ -131,7 +131,7 @@ export default [
     name       : {en: 'Hellfire Greatstaff' },
     description: {
       en: 'Its beauty calls out to you.....to kill.....to conquer....',
-      ru: 'Его красота призывает тебя ..... убивать ..... завоевывать ....'
+      ru: 'Его красота призывает тебя ..... убивать ..... завоевывать ....',
       es: 'Su belleza te llama a ti, a matar, a conquistar...',
       de: 'Seine Schönheit ruft nach dir, zu töten, zu erobern...',
       fr: 'Sa beauté vous interpelle, pour tuer, pour conquérir...'
