@@ -99,7 +99,7 @@ export default [
     name       : {en: 'Hellfire Greatstaff' },
     description: {
       en: 'Its beauty calls out to you.....to kill.....to conquer....',
-      es: '¿Qué dice este bastón? Dice, \"...mátalos....conquistar el mundo....será divertido......\"'
+      es: '¿Qué dice este bastón? Dice \"...mátalos....conquistar el mundo....será divertido......\"'
     }
   },
 

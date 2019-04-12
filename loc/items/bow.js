@@ -23,7 +23,7 @@ export default [
     description: {
       en: 'Whoever left this on the ground probably didn\'t meet a nice end.',
       ru: 'Кто то оставил его на земле, вероятно, не встретил хороший конец',
-      es: ''
+      es: 'Es el arco de un aventurero que encontraste. No el aventurero, no sé dondé se fue.'
     }
   },
 
@@ -76,7 +76,8 @@ export default [
     name       : { en: 'Silver Recurve' },
     description: {
       en: 'A bow commonly used by low-ranked royal archers. Blends in well with vegetation.',
-      ru: 'Лук, обычно используемый низкими королевскими лучниками. Хорошо сочетается с растительностью.'
+      ru: 'Лук, обычно используемый низкими королевскими лучниками. Хорошо сочетается с растительностью.',
+      es: 'Un arco real por arqueros reales. Por uso en el bosque.'
     }
   },
 
@@ -84,7 +85,8 @@ export default [
     name       : { en: 'Assassin\'s Bow' },
     description: {
       en: 'Masterfully crafted by the bandits of the capitals.',
-      ru: 'Мастерски созданный бандитами столиц.'
+      ru: 'Мастерски созданный бандитами столиц.',
+      es: 'Los ninja tienen secretos y ahora, tú también.'
     }
   },
 
@@ -92,7 +94,8 @@ export default [
     name       : { en: 'Skyfire Warbow' },
     description: {
       en: 'A rare bow used in the greatest of wars. Shooting it makes you feel like the heavens will collapse.',
-      ru: 'Редкий лук, используемый в величайших войнах. Bыстрел заставляет вас чувствовать, что небеса рухнут.'
+      ru: 'Редкий лук, используемый в величайших войнах. Bыстрел заставляет вас чувствовать, что небеса рухнут.',
+      es: 'Un arco raro usado en las guerras de antigüedad. Con tanto poder que puede echar por tierra los arcos de iris.'
     }
   },
 
@@ -100,7 +103,8 @@ export default [
     name       : { en: 'Hellfire Warbow' },
     description: {
       en: 'What is it? Is it ice? The world may never know...',
-      ru: 'Что это? Это лед? Мир может никогда не узнать ...'
+      ru: 'Что это? Это лед? Мир может никогда не узнать ...',
+      es: '¿Por qué usa flechas cuando puede usar bolas de nieve?'
     }
   },
 
@@ -117,7 +121,8 @@ export default [
     name       : { en: 'Stormsong' },
     description: {
       en: 'Surrounded by a ghastly aura. The wind blows in the direction you aim it.',
-      ru: 'Окруженный страшной аурой. Ветер дует в том направлении, куда вы нацеливаетесь.'
+      ru: 'Окруженный страшной аурой. Ветер дует в том направлении, куда вы нацеливаетесь.',
+      es: 'Cuando usas este arco ¿puede oir la música de la ocarina?'
     }
   },
 
@@ -125,7 +130,8 @@ export default [
     name       : { en: 'Scarebow' },
     description: {
       en: 'So scary that few have the guts to hold it.',
-      ru: 'Настолько страшно, что немногие имеют мужество держать его.'
+      ru: 'Настолько страшно, что немногие имеют мужество держать его.',
+      es: 'El Scarebow da tanto miedo que todo el mundo hasta los espantapájaros corren.'
     }
   },
 
