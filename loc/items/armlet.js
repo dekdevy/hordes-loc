@@ -58,8 +58,8 @@ export default [
   {
     name       : {en: 'Mirrored Armlet' },
     description: {
-      en: 'Blinds your foes with the shine of Ra.',
-      ru: 'Ослепляет ваших противников сиянием Ра.'
+      en: 'Blinds your foes with a magical shine off a devious magicians mirror......',
+      ru: 'Ослепляет ваших врагов волшебным блеском с коварного зеркалoм мага ......'
     }
   },
 
