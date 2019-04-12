@@ -2,8 +2,8 @@ export default [
   {
     name       : {en: 'Simple Bracelet' },
     description: {
-      en: 'Primitive leather and wooden band. Weak and feeble.',
-      ru: 'Примитивная кожа и деревянная полоса. Cлабоя.'
+      en: 'Cheap leather band bought by an ambitious farmer',
+      ru: 'Дешевый кожаный ремешок, купленный амбициозным фермером'
     }
   },
 
