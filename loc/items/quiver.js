@@ -1,25 +1,42 @@
 export default [
-  { // T1 item name. names are english only!
-    name       : { en: 'Trashy Thing' },
-    // Item description
+  {
+    name       : {en: 'Linen Quiver' },
     description: {
-      en: 'Interesting item description'
+      en: 'Soft, full of holes. Arrows keep falling out.',
+      ru: 'Мягкий, дырявый. Стрелки продолжают выпадать.'
     }
   },
 
-  { // T2 item. names are english only!
-    name       : { en: 'Wooden Thing' },
+  {
+    name       : {en: 'Reinforced Quiver' },
     description: {
-      en: 'Interesting item description'
+      en: 'Linen sack covered in stiff leather.',
+      ru: 'Льняной мешочек обтянут жесткой кожей.'
     }
   },
 
-  { // T3 item. and so on...
-    name       : { en: 'Elven Thing' },
+  {
+    name       : {en: 'Last Reserves' },
     description: {
-      en: 'Interesting item description'
+      en: 'Used for when all else fails.',
+      ru: 'Используется, когда ничего не помогает.'
+    }
+  },
+
+  {
+    name       : {en: 'Lotharien' },
+    description: {
+      en: 'Elven quiver coated in shimmering diamond.',
+      ru: 'Эльфийский колчан, покрытый мерцающим бриллиантом.'
+    }
+  },
+
+  {
+    name       : {en: 'Snake Quiver' },
+    description: {
+      en: 'Every time you pull an arrow out, it hisses at you.',
+      ru: 'Каждый раз, когда вы вытаскиваете стрелу, она шипит на вас.'
     }
   }
 
-  // keep adding objects here for t4,t5, etc..
 ]

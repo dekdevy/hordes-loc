@@ -1,25 +1,138 @@
 export default [
-  { // T1 item name. names are english only!
-    name       : { en: 'Trashy Thing' },
-    // Item description
+  {
+    name       : {en: 'Splintered Club' },
     description: {
-      en: 'Interesting item description'
+      en: 'Its already half broken and you are still using it?',
+      ru: 'Это уже наполовину сломано, и вы все еще используете его?'
     }
   },
 
-  { // T2 item. names are english only!
-    name       : { en: 'Wooden Thing' },
+  {
+    name       : {en: 'Wooden Mallet' },
     description: {
-      en: 'Interesting item description'
+      en: 'This should be hammering nails, not skulls.',
+      ru: 'Это должны быть гвозди, а не черепа.'
     }
   },
 
-  { // T3 item. and so on...
-    name       : { en: 'Elven Thing' },
+  {
+    name       : {en: 'Rusty Flail' },
     description: {
-      en: 'Interesting item description'
+      en: 'Rusty old hammer, on the verge of breaking.',
+      ru: 'Ржавый старый молот, на грани поломки.'
+    }
+  },
+
+  {
+    name       : {en: 'Orcish Bludgeon' },
+    description: {
+      en: 'Orcs follow the wielder of this meager weapon. Its pretty useless, but they seem to like it......',
+      ru: 'Орки следуют за обладателем этого оружия. Oн довольно бесполезно, но им похоже нравится ......'
+    }
+  },
+
+  {
+    name       : {en: 'Heavy Mace' },
+    description: {
+      en: 'Large weapon used in the ancient times to cave in skulls.',
+      ru: 'Большое оружие, используемое в древние времена для разрушенея черепаx.'
+    }
+  },
+
+  {
+    name       : {en: 'Iron Basher' },
+    description: {
+      en: 'Strange rod-like basher. Seems crude and emits a faint smell of druid oils....',
+      ru: 'Странный стержнеобразный башер. Кажется грубый и испускает слабый запах друидских масел ....'
+    }
+  },
+
+  {
+    name       : {en: 'Darkmetal Maul' },
+    description: {
+      en: 'Ancient dwarves forged this mighty structure. Dark and deadly.',
+      ru: 'Древние гномы создали эту могущественную структуру. Темноя и смертельно.'
+    }
+  },
+
+  {
+    name       : {en: 'Divine Gavel' },
+    description: {
+      en: 'Bronze hammer, triangular shaped. Sharp corners make deep indents in heads.',
+      ru: 'Бронзовый молот, треугольной формы. Острые углы делают глубокие выемки в головах.'
+    }
+  },
+
+  {
+    name       : {en: 'Hallowed Hammer' },
+    description: {
+      en: 'Holy tool used by druids to make sacrifices to the great god, Yggdrasil.',
+      ru: 'Святой инструмент, используемый друидами, чтобы приносить жертвы великому богу Иггдрасилю.'
+    }
+  },
+
+  {
+    name       : {en: 'Dwarven Maul' },
+    description: {
+      en: 'Heavy basher used by dwarf warriors. Made of an unknown metal, dark and heavy',
+      ru: 'Тяжелый башер, используемый гномами-воинами. Изготовлен из неизвестного металла, темный и тяжелый.'
+    }
+  },
+
+  {
+    name       : {en: 'Coldforged Gavel' },
+    description: {
+      en: 'Forged without heat, kills without mercy.',
+      ru: 'Выкован без тепла, убивает без пощады.'
+    }
+  },
+
+  {
+    name       : {en: 'Amboss' },
+    description: {
+      en: 'Topped with the skull of a slain behemoth enemy, this weapon inspires terror in all who stand against it.',
+      ru: 'Это оружие, увенчанное черепом бегемота, внушает ужас всем, кто противостоит ему.'
+    }
+  },
+
+  {
+    name       : {en: 'Skullshatterer' },
+    description: {
+      en: 'Can penetrate your feeble skull quite easily. Or your foes. Probably yours though.',
+      ru: 'Может легко проникнуть в ваш слабый череп. Или твои враги. Вероятно, ваш, хотя.'
+    }
+  },
+
+  {
+    name       : {en: 'Benevolence' },
+    description: {
+      en: 'Nothing kind about this cruel weapon.',
+      ru: 'Ничего доброго в этом жестоком  оружии.'
+    }
+  },
+
+  {
+    name       : {en: 'Hammer of Gaia' },
+    description: {
+      en: 'Some say its made by dwarves, others say by elves......the truth is yet to be uncovered.',
+      ru: 'Некоторые говорят, что он сделано дварфами, другие говорят эльфами ...... правда еще не раскрыта.'
+    }
+  },
+
+  {
+    name       : {en: 'Worldender' },
+    description: {
+      en: 'Does it have the power to end worlds? Few can say. If it does, we will not live long enough to learn of it.',
+      ru: 'Есть ли у него сила, чтобы положить конец мирам? Мало кто может сказать. Если это произойдет, мы не будем жить достаточно долго, чтобы узнать об этом.'
+    }
+  },
+
+  {
+    name       : {en: 'Nightmare' },
+    description: {
+      en: 'Mysterious magician soaked in many intricate charms on this weapon, bringing ghastly thoughts and dreams to its wielder.',
+      ru: 'Таинственный волшебник впитал множество замысловатых чар на этом оружии, принося ужасные мысли и мечты его обладателю.'
     }
   }
 
-  // keep adding objects here for t4,t5, etc..
 ]
