@@ -17,7 +17,7 @@ export default {
       ru: 'Нажмите, чтобы создать персонажа',
       es: 'Haga clic para crear un personaje',
       de: 'Klicken Sie hier, um einen Charakter zu erstellen.',
-      fr: 'Cliquez pour créer un personnage',
+      fr: 'Cliquez pour créer un personnage'
     },
     enterWorld: {
       en: 'Enter World',
