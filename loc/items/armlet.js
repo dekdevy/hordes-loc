@@ -4,6 +4,7 @@ export default [
     description: {
       en: 'Cheap leather band bought by an ambitious farmer',
       ru: 'Дешевый кожаный ремешок, купленный амбициозным фермером'
+      fr: 'Bracelet en cuir bon marché acheté par un agriculteur ambitieux'
     }
   },
 
@@ -12,6 +13,7 @@ export default [
     description: {
       en: 'A little more advanced, not by much though.',
       ru: 'Немного более продвинутый, но не намного.'
+      fr: 'Un peu plus avancé, pas beaucoup cependant'
     }
   },
 
@@ -20,13 +22,14 @@ export default [
     description: {
       en: 'Stiff, makes your arm sore.',
       ru: 'Жосткая, болит рука.'
+      fr: 'Rigide, rend le bras douloureux'
     }
   },
 
   {
     name       : {en: 'Ivory Bracelet' },
     description: {
-      en: 'Elegant cuff made from the tusks of the last mammonth.',
+      en: 'Elegant cuff made from the tusks of the last mammoth.',
       ru: 'Элегантная манжета из бивней последнего мамонта.'
     }
   },
@@ -36,6 +39,7 @@ export default [
     description: {
       en: 'Heavy on your arm.....worth the protection.',
       ru: 'Тяжело на твоей руке ..... стоит защиты.'
+      fr: 'Lourd sur votre bras ..... vaut la protection'
     }
   },
 
@@ -44,6 +48,7 @@ export default [
     description: {
       en: 'Dull metal bracer, handy for nightime raidings.',
       ru: 'Унылый металлический браслет, удобный для ночных рейдов.'
+      fr: '
     }
   },
 
