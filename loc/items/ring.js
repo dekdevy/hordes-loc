@@ -21,7 +21,7 @@ export default [
     }
   },
 
-  // T4 item. 
+  // T4 item
  { // T1 item name. names are english only!
     name       : { en: 'Hollowed Bone' },
     // Item description
@@ -100,5 +100,4 @@ export default [
     description: {
       en: 'Interesting item description'
     }
-  },
-]
+  }
