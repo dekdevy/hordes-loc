@@ -79,7 +79,7 @@ export default [
   {
     name       : {en: 'Infernal Staff' },
     description: {
-      en: 'A gift from the almight lava god, Erlik.'
+      en: 'A gift from the almighty lava god, Erlik.'
     }
   },
 
