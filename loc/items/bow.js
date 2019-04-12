@@ -52,7 +52,6 @@ export default [
       de: 'Zusammen mit den Knochen von.... jemandem?',
       es: '¿Colocado con los huesos de... alguien?',
       fr: 'Avec les os de... quelqu\'un?'
-
     }
   },
 
@@ -97,7 +96,6 @@ export default [
       de: 'Ein Bogen, der häufig von niederrangigen königlichen Bogenschützen verwendet wird. Passt sich gut der Vegetation an.',
       es: 'Un arco comúnmente usado por arqueros reales de bajo rango. Se integra bien con la vegetación.',
       fr: 'Un arc couramment utilisé par les archers royaux de bas rang. S\'intègre bien à la végétation.'
-
     }
   },
 
@@ -109,7 +107,6 @@ export default [
       de: 'Meisterhaft gefertigt von den Banditen der Hauptstädte.',
       es: 'Hecho con maestría por los bandidos de las capitales.',
       fr: 'Fabriqué avec brio par les bandits des capitales.'
-
     }
   },
 
@@ -121,7 +118,6 @@ export default [
       de: 'Ein seltener Bogen, der in den größten Kriegen verwendet wird. Beim Schießen hat man das Gefühl, dass der Himmel zusammenbrechen wird.',
       es: 'Un arco raro usado en la mayor de las guerras. Disparar te hace sentir como si el cielo se fuera a derrumbar.',
       fr: 'Un arc rare utilisé dans la plus grande des guerres. Tirer dessus vous donne l\'impression que le ciel va s\'effondrer.'
-
     }
   },
 
@@ -144,7 +140,6 @@ export default [
       de: 'Tötet so schön, wie es aussieht.',
       es: 'Mata tan maravillosamente como parece.',
       fr: 'Ça tue aussi joliment que ça en a l\'air.'
-
     }
   },
 
