@@ -16,7 +16,7 @@ export default [
   {
     name       : {en: 'Adventurers Tunic' },
     description: {
-      en: 'Knobbly soft iron tunic, passed on from many generations of adventurers.'
+      en: 'Knobbly soft iron tunic, passed on from many generations of adventurers passing over these lands.'
     }
   },
 
@@ -30,7 +30,7 @@ export default [
   {
     name       : {en: 'Scaled Chestguard' },
     description: {
-      en: 'Hard suit made from scales taken from the mighty dragon, Cantor.'
+      en: 'Hard suit made from scales taken from a mighty dragon once roaming these lands.'
     }
   },
 
@@ -65,7 +65,7 @@ export default [
   {
     name       : {en: 'Soulkeeper' },
     description: {
-      en: 'When enemies are slain, their souls are added to the wielders collection.'
+      en: 'When enemies are slain, their souls are added to the wielder\'s collection.'
     }
   },
 
