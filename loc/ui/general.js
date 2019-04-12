@@ -10,6 +10,6 @@ export default {
     en: 'Back',
     se: 'Bakåt',
     ru: 'Назад',
-    de: 'Rücken'
+    de: 'zurück'
   }
 }
