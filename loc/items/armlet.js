@@ -21,7 +21,7 @@ export default [
     name       : {en: 'Leather Armlet' },
     description: {
       en: 'Stiff, makes your arm sore.',
-      ru: 'Жосткая, болит рука.',
+      ru: 'Жесткая, твоя рука уже болит.',
       fr: 'Rigide, rend le bras douloureux'
     }
   },
