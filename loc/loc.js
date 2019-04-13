@@ -54,7 +54,7 @@ import settings from '.ui/settings/js'
 const ui = {
   charmenu,
   clan,
-  settings
+  settings,
   ...general }
 
 export default {
