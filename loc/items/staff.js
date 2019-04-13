@@ -37,7 +37,7 @@ export default [
     description: {
       en: 'A wand cut from the branches of an anceint oak. Infused with deep power.',
       ru: 'Палочка, вырезанная из ветвей древнего дуба. Обладает глубокой силой.',
-      es: 'Una varita cortada de las ramas de un arce anciano. Tiene el gran poder canadiense.',
+      es: 'Una varita cortada de las ramas de un arce anciano. Tiene gran poder canadiense.',
       de: 'Ein Zauberstab, der aus den Zweigen einer kastanienbraunen Eiche geschnitten wurde. Durchdrungen von tiefer Kraft.',
       fr: 'Baguette coupée dans les branches d\'un chêne d\'anceint. Doté d\'une puissance profonde.'
     }
@@ -146,7 +146,7 @@ export default [
     description: {
       en: 'A staff stolen from the angels. They\'re still hunting for it.',
       ru: 'Посох, украденный у ангелов. Они все еще охотятся за этим.',
-      es: 'Robaste el obispo y tomaste su báculo de oro. Ahora los ángeles te cazan.',
+      es: 'Robaste el arzobispo y tomaste su báculo de oro. Ahora los ángeles te cazan.',
       de: 'Ein Stab, der von den Engeln gestohlen wurde. Sie sind immer noch auf der Jagd danach.',
       fr: 'Un bâton volé aux anges. Ils sont toujours à sa recherche.'
     }

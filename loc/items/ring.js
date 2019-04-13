@@ -90,10 +90,10 @@ export default [
     name       : {en: 'Infernal Ring' },
     description: {
       en: 'If it could speak, it would probably complain about being triangular.',
-      ru: 'Если он мог говорить, он вероятно, пожаловался что он треугольный.',
-      es: 'Esmeraldas en todos los lados para hacerte sentir Si pudiera hablar, probablemente se quejaría de ser triangular.',
-      de: 'Smaragde auf allen Seiten, um Ihnen das Gefühl zu geben, wenn es sprechen könnte, würde es sich wahrscheinlich darüber beschweren, dreieckig zu sein.',
-      fr: 'Des émeraudes de tous côtés pour vous faire sentir Si elle pouvait parler, elle se plaindrait probablement d\'être triangulaire.'
+      es: 'Si pudiera hablar, probablemente se quejaría de ser triangular.',
+      de: 'Gefühl zu geben, wenn es sprechen könnte, würde es sich wahrscheinlich darüber beschweren, dreieckig zu sein.',
+      fr: 'Si elle pouvait parler, elle se plaindrait probablement d\'être triangulaire.',
+      ru: 'Если он мог говорить, он вероятно, пожаловался что он треугольный.'
     }
   },
 

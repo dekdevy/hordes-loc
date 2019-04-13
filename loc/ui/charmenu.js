@@ -109,10 +109,10 @@ export default {
       fr: 'Supprimer'
     },
     info: {
-      en: 'To delete, type the characters name. Your character can not be restored.',
+      en: 'To delete, type the character\'s name. Your character can not be restored.',
       se: 'För att ta bort, skriv in karaktärens namn. Din karaktär tas bort för alltid.',
       ru: 'Чтобы удалить, введите имя персонажа. Ваш персонаж не может быть восстановлен.',
-      es: 'Para eliminar, escriba el nombre de los caracteres. Tu carácter no puede ser restaurado.',
+      es: 'Para eliminar, escriba el nombre del caracter. Tu carácter no puede ser restaurado.',
       de: 'Geben Sie zum Löschen den Namen des Zeichens ein. Dein Charakter kann nicht wiederhergestellt werden.',
       fr: 'Pour supprimer, saisissez le nom des caractères. Votre personnage ne peut pas être restauré.'
     },
@@ -125,5 +125,4 @@ export default {
       fr: 'T\'es sûr de toi ?'
     }
   }
-
 }

@@ -27,7 +27,7 @@ export default [
     description: {
       en: 'Am I being pranked?',
       ru: 'меня высмеивают?',
-      es: 'Los trolls usaron solo fe y bromas para hacer daño con sus espadas.',
+      es: 'Los trolls usaron solo fe y bromas para hacer daño con sus armas ge guerra.',
       de: 'Werde ich verarscht?',
       fr: 'Suis-je victime d\'une farce.'
     }
@@ -49,7 +49,7 @@ export default [
     description: {
       en: 'Long? yes. Deadly? Maybe. Just don\'t cut yourself.',
       ru: 'длинный? да. Смертельный? Может быть. Только не порежься.',
-      es: '¿Largo? Sí. ¿Mortal? Tal vez. Pero no te cortes.',
+      es: '¿Largo? Sí. ¿Mortal? Tal vez. No te cortes.',
       de: 'Lang? Ja. Tödlich? Vielleicht. Schneidet euch nur nicht selbst.',
       fr: 'Long ? Oui. Mortel ? Peut-être. Ne te coupe pas, c\'est tout.'
     }
@@ -90,7 +90,7 @@ export default [
     description: {
       en: 'A cold-looking blade with a burning hot slice.',
       ru: 'Холодный клинок с горячим нарезаm.',
-      es: 'Error 403: El filo de la espada es null.',
+      es: 'Error 403: El filo de la espada es nulo.',
       de: 'Eine kalt aussehende Klinge mit einer brennend heißen Scheibe.',
       fr: 'Une lame d\'aspect froid avec une tranche chaude brûlante.'
     }
@@ -132,7 +132,7 @@ export default [
   { // T13 item
     name       : { en: 'Zerstörer' },
     description: {
-      en: 'A Mysterious pink sword. Engravings say "Mächtig Zerstörer".',
+      en: 'A mysterious pink sword. Engravings say "Mächtig Zerstörer".',
       ru: 'Таинственный розовый меч. Гравюры говорят "Mächtig Zerstörer."',
       es: '¡Es rosa! Los grabados dicen "Mächtig Zerstörer".',
       de: 'Ein mysteriöses rosa Schwert. Gravuren sagen "Mächtig Zerstörer".',

@@ -26,7 +26,7 @@ export default [
     description: {
       en: 'Surprisingly, it doesnt smell like fish. Just dont show it freshwater.',
       ru: 'Удивительно, но он не пахнет рыбой. Просто не показывай ему пресную воду.',
-      es: 'Sorprendentemente, no huele a pescado. No lo muestres en agua dulce.',
+      es: 'Sorprendentemente, no huele a pescado. No lo muestres a agua dulce.',
       de: 'Überraschenderweise riecht es nicht nach Fisch. Zeigen Sie es einfach nicht im Süßwasser.',
       fr: 'Étonnamment, ça ne sent pas le poisson. Ne le montre pas en eau douce.'
     }
@@ -35,9 +35,9 @@ export default [
   {
     name       : {en: 'Quiton' },
     description: {
-      en: 'Cant pronounce it, cant use it.',
+      en: 'Can\'t pronounce it, can\'t use it.',
       ru: 'Не могу произнести, не могу использовать.',
-      es: 'No puedo pronunciarlo, no puedo usarlo.',
+      es: 'No puedo pronunciarlo, ni puedo usarlo.',
       de: 'Ich kann es nicht aussprechen, ich kann es nicht benutzen.',
       fr: 'Je ne peux pas le prononcer, je ne peux pas l\'utiliser.'
     }
