@@ -1,3 +1,5 @@
+// intentional error
+mdl
 export default [
   {
     name       : {en: 'Linen Pouch' },
