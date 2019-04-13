@@ -58,7 +58,7 @@ export default [
     description: {
       en: 'Scaled bracer, makes your arms resemble that of a dragon.',
       ru: 'Чешуйчатый наруч, делает ваши руки похожими на руки дракона.',
-      fr: 'Remontant en écailles, cela fait ressembler vos bras à ceux d`un dragon.
+      fr: 'Remontant en écailles, cela fait ressembler vos bras à ceux d`un dragon.'
     }
   },
 
