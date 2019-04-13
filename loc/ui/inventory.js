@@ -1,6 +1,6 @@
 export default {
 
-  inventory: {
+  name: {
     en: 'inventory',
     ru: 'инвентарь'
   }
