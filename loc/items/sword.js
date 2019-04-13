@@ -61,7 +61,7 @@ export default [
       ru: 'Грубо вырезанный из кости древнего бегемота',
       es: 'Crudamente tallado de los huesos de un antiguo gigante.',
       de: 'Grob geschnitten aus den Knochen eines alten Riesen.',
-      fr: 'Sculpté grossièrement dans les os d\'un ancien monstre.
+      fr: 'Sculpté grossièrement dans les os d\'un ancien monstre.'
     }
   },
   { // T7 item

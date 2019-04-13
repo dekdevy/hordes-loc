@@ -4,7 +4,6 @@ export default [
     description: {
       en: 'Weapon forged by the greatest blacksmith of all the land. At least that\'s what we told little Timmy.',
       es: 'Este es un palo normal. Pero ¿estás seguro que solo es un palo normal?',
-      en: 'Weapon forged by the greatest blacksmith of all the land. At least thats what we told little Timmy.',
       ru: 'Оружие, выкованное величайшим кузнецом из всей земли. По крайней мере, так мы сказали маленькому Тимми.',
       de: 'Die Waffe wurde vom größten Schmied des Landes geschmiedet. Zumindest haben wir dem kleinen Timmy das gesagt.',
       fr: 'Une arme forgée par le plus grand forgeron du pays. Du moins, c\'est ce qu\'on a dit au petit Timmy.'
