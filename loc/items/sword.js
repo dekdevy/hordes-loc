@@ -70,7 +70,6 @@ export default [
       en: 'A sword so mighty that few can handle it. It\'s pretty heavy.',
       ru: 'Меч такой могущественный, что немногие могут с ним справиться. Oн довольно тяжелый.',
       es: 'Bastante pesado y bastante bien.',
-      es: 'Una espada tan poderosa que pocos pueden manejarla. Es bastante pesado.',
       de: 'Ein Schwert, das so mächtig ist, dass nur wenige damit umgehen können. Es ist ziemlich schwer.',
       fr: 'Une épée si puissante que peu de gens peuvent la manier. C\'est assez lourd.'
     }
