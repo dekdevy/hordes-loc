@@ -126,7 +126,7 @@ export default [
     description: {
       en: 'What is it? Is it ice? The world may never know....',
       ru: 'Что это? Это лед? Мир может никогда не узнать ....',
-      de: 'Was ist das? Was ist das? Ist es Eis? Die Welt wird es vielleicht nie erfahren....
+      de: 'Was ist das? Was ist das? Ist es Eis? Die Welt wird es vielleicht nie erfahren....',
       es: '¿Qué es esto? ¿Es hielo? El mundo tal vez nunca lo sepa....',
       fr: 'Qu\'est-ce que c\'est ? C\'est de la glace ? Le monde ne le saura peut-être jamais....'
     }
