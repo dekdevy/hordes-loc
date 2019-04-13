@@ -58,7 +58,7 @@ export default [
     description: {
       en: 'Scaled bracer, makes your arms resemble that of a dragon.',
       ru: 'Чешуйчатый наруч, делает ваши руки похожими на руки дракона.',
-      fr: 'Remontant en écailles, cela fait ressembler vos bras à ceux d`un dragon.'
+      fr: 'Remontant en écailles, cela fait ressembler vos bras à ceux d\'un dragon.'
     }
   },
 
@@ -85,7 +85,7 @@ export default [
     description: {
       en: 'The deceptively light steel offers chilling protection against sneaky blows',
       ru: 'Обманчиво легкая сталь предлагает охлаждающую защиту от подлых ударов',
-      fr: 'L`acier léger trompeur offre la protection contre les coups sournois'
+      fr: 'L\'acier léger trompeur offre la protection contre les coups sournois'
     }
   },
 
@@ -112,7 +112,7 @@ export default [
     description: {
       en: 'This item was forged on a full moon when mysterious incantations were heard in the whispers of the dark. Some say that it was Anubis himself speaking with the dead.',
       ru: 'Этот предмет был выкован в полнолуние, когда в шепот темноты раздавались таинственные заклинания. Некоторые говорят, что это был сам Анубис, говорящий с мертвыми.',
-      fr: 'Cet article a été forgé à la pleine lune quand des incantations mystérieuses ont été entendues dans les murmures de l`obscurité. Certains disent que c`était Anubis lui-même parlant avec les morts'
+      fr: 'Cet article a été forgé à la pleine lune quand des incantations mystérieuses ont été entendues dans les murmures de l\'obscurité. Certains disent que c\'était Anubis lui-même parlant avec les morts'
     }
   }
 
