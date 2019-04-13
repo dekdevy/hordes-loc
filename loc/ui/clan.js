@@ -1,4 +1,4 @@
-export default: {
+export default {
 
   manager: {
     en: 'Clan Manager',
