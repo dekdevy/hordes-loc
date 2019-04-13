@@ -33,7 +33,7 @@ export default [
   },
 
   {
-    name       : {en: 'Quiton' },
+    name       : {en: 'Qui\'ton' },
     description: {
       en: 'Cant pronounce it, cant use it.',
       ru: 'Не могу произнести, не могу использовать.',
