@@ -49,10 +49,8 @@ const factions = [
 // User interface
 import charmenu from './ui/charmenu.js'
 import general from './ui/general.js'
-import navbar from './ui/navbar.js'
 const ui = {
   charmenu,
-  ...navbar,
   ...general }
 
 export default {
