@@ -50,7 +50,7 @@ const factions = [
 import charmenu from './ui/charmenu.js'
 import clan from './ui/clan.js'
 import general from './ui/general.js'
-import settings from '.ui/settings/js'
+import settings from './ui/settings.js'
 const ui = {
   charmenu,
   clan,
