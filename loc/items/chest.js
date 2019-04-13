@@ -52,7 +52,7 @@ export default [
   {
     name       : {en: 'Sky Cloak' },
     description: {
-      en: 'Rumours say its made from the clouds.....',
+      en: 'Rumours say its made from clouds....',
       es: 'Los rumores dicen que está hecho de las nubes....',
       de: 'Gerüchte besagen, dass es aus den Wolken gemacht wurde......',
       fr: 'Les rumeurs disent que c\'est fait à partir des nuages....'
@@ -62,8 +62,8 @@ export default [
   {
     name       : {en: 'Shadow Cloak' },
     description: {
-      en: 'The wearer blends nicely within the shadows.....or so the thieves think.',
-      es: 'El portador se mezcla bien entre las sombras....o eso piensan los ladrones.',
+      en: 'The wearer blends in nicely with the shadows....or so the thieves think.',
+      es: 'El portador se mezcla bien con las sombras....a menos que los ladrones lo piensan.',
       de: 'Der Träger fügt sich gut in den Schatten ein.... so denken die Diebe.',
       fr: 'Le porteur se fond bien dans l\'ombre... c\'est du moins ce que pensent les voleurs.'
     }

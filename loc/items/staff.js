@@ -36,7 +36,7 @@ export default [
     name       : {en: 'Oak Stave' },
     description: {
       en: 'A wand cut from the branches of an anceint oak. Infused with deep power.',
-      es: 'Una varita cortada de las ramas de un arce anciano. Tiene el gran poder canadiense.',
+      es: 'Una varita cortada de las ramas de un arce anciano. Tiene gran poder canadiense.',
       ru: 'Палочка, вырезанная из ветвей древнего дуба. Обладает глубокой силой.',
       de: 'Ein Zauberstab, der aus den Zweigen einer kastanienbraunen Eiche geschnitten wurde. Durchdrungen von tiefer Kraft.',
       fr: 'Baguette coupée dans les branches d\'un chêne d\'anceint. Doté d\'une puissance profonde.'
@@ -102,7 +102,7 @@ export default [
     description: {
       en: 'Strange......the staff seems.........triangular.....',
       ru: 'Странно ...... посох кажется ......... треугольным .....',
-      es: 'Extraño, el bastón parece, triangular...',
+      es: 'Extraño, el bastón parece, triangular....',
       de: 'Seltsam, der Stab scheint, dreieckig.....',
       fr: 'Bizarre, le bâton semble triangulaire....'
     }
@@ -132,7 +132,7 @@ export default [
     name       : {en: 'Hellfire Greatstaff' },
     description: {
       en: 'Its beauty calls out to you.....to kill.....to conquer....',
-      es: '¿Qué dice la belleza de este bastón? Te dice: "...mátalos....conquista el mundo....será divertido..."',
+      es: '¿Qué dice la belleza de este bastón? Te dice: "...mátalos...conquista el mundo...será divertido..."',
       ru: 'Его красота призывает тебя ..... убивать ..... завоевывать ....',
       de: 'Seine Schönheit ruft nach dir, zu töten, zu erobern...',
       fr: 'Sa beauté vous interpelle, pour tuer, pour conquérir...'

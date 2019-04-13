@@ -4,7 +4,7 @@ export default [
     description: {
       en: 'Soft, full of holes. Arrows keep falling out.',
       ru: 'Мягкий, дырявый. Стрелки продолжают выпадать.',
-      es: 'Si, los calcetines tambien pueden ser una aljaba.'
+      es: 'Si, los calcetines también pueden ser una aljaba.'
     }
   },
 
@@ -31,7 +31,7 @@ export default [
     description: {
       en: 'Elven quiver coated in shimmering diamond.',
       ru: 'Эльфийский колчан, покрытый мерцающим бриллиантом.',
-      es: 'Un carcaj creado por los duendes cubrierto en diamante.'
+      es: 'Un carcaj cubrierto en diamante creado por los duendes.'
     }
   },
 
@@ -40,7 +40,7 @@ export default [
     description: {
       en: 'Every time you pull an arrow out, it hisses at you.',
       ru: 'Каждый раз, когда вы вытаскиваете стрелу, она шипит на вас.',
-      es: 'Serpientes ¿Por qué tenía que ser serpientes?'
+      es: '¡Serpientes! ¿¡Por qué tenía que ser serpientes!?'
     }
   }
 

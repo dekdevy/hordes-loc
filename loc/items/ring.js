@@ -83,9 +83,9 @@ export default [
     name       : {en: 'Infernal Ring' },
     description: {
       en: 'If it could speak, it would probably complain about being triangular.',
-      es: 'Esmeraldas en todos los lados para hacerte sentir Si pudiera hablar, probablemente se quejaría de ser triangular.',
-      de: 'Smaragde auf allen Seiten, um Ihnen das Gefühl zu geben, wenn es sprechen könnte, würde es sich wahrscheinlich darüber beschweren, dreieckig zu sein.',
-      fr: 'Des émeraudes de tous côtés pour vous faire sentir Si elle pouvait parler, elle se plaindrait probablement d\'être triangulaire.'
+      es: 'Si pudiera hablar, probablemente se quejaría de ser triangular.',
+      de: 'Gefühl zu geben, wenn es sprechen könnte, würde es sich wahrscheinlich darüber beschweren, dreieckig zu sein.',
+      fr: 'Si elle pouvait parler, elle se plaindrait probablement d\'être triangulaire.'
     }
   },
 
@@ -113,7 +113,7 @@ export default [
     name       : {en: 'Peacekeeper' },
     description: {
       en: 'Keeper of peace.........not sure about that, but just might keep you alive.',
-      es: 'Guardián de la paz... no estoy seguro de eso, pero podría mantenerte vivo.',
+      es: 'Guardián de la paz.... no estoy seguro de eso, pero podría mantenerte vivo.',
       de: 'Hüter des Friedens.... nicht sicher, aber vielleicht hält dich das am Leben.',
       fr: 'Gardien de la paix.... pas sûr de ça, mais ça pourrait vous garder en vie.'
     }
