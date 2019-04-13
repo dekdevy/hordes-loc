@@ -1,14 +1,14 @@
 export default: {
 
   settings: {
-    en: 'SETTINGS',
-    ru: 'НАСТРОЙКИ'
+    en: 'settings',
+    ru: 'настройки'
   },
 
 // controls section of settings menu
   controls: {
-    en: 'CONTROLS',
-    ru: 'УПРАВЛЕНИЕ',
+    en: 'controls',
+    ru: 'управления',
   },
 
   locked_camera: {
@@ -17,8 +17,8 @@ export default: {
   },
 
   graphics: {
-    en: 'GRAPHICS',
-    ru: 'ГРАФИКА'
+    en: 'graphics',
+    ru: 'графика'
   },
 
   resolution: {
@@ -42,8 +42,8 @@ export default: {
   },
 
   chat: {
-    en: 'CHAT',
-    ru: 'ЧАТ'
+    en: 'chat',
+    ru: 'чат'
   },
 
   chat_width: {
@@ -57,8 +57,8 @@ export default: {
   },
 
   tutorial: {
-    en: 'TUTORIAL',
-    ru: 'УЧЕБНИК'
+    en: 'tutorial',
+    ru: 'учебник'
   },
 
   reset: {
