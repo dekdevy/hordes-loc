@@ -5,15 +5,15 @@ export default {
     ru: 'настройки'
   },
 
-// controls section of settings menu
+  // controls section of settings menu
   controls: {
     en: 'controls',
-    ru: 'управления',
+    ru: 'управления'
   },
 
-  locked_camera: {
+  lockedcamera: {
     en: 'Locked camera',
-    ru: 'Заблокированная камера',
+    ru: 'Заблокированная камера'
   },
 
   graphics: {
@@ -26,7 +26,7 @@ export default {
     ru: 'Pезолюция'
   },
 
-  skill_effects: {
+  skilleffects: {
     en: 'Skill effects',
     ru: 'Эффекты навык'
   },
@@ -36,7 +36,7 @@ export default {
     ru: 'Shadow quality'
   },
 
-  grass_amount: {
+  grassamount: {
     en: 'Grass amount',
     ru: 'Количество травы'
   },
@@ -46,12 +46,12 @@ export default {
     ru: 'чат'
   },
 
-  chat_width: {
+  chatwidth: {
     en: 'Chat width',
     ru: 'Ширина чата'
   },
 
-  chat_height: {
+  chatheight: {
     en: 'Chat height',
     ru: 'Высота чата'
   },
@@ -67,5 +67,3 @@ export default {
   }
 
 }
-
-  
