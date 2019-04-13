@@ -14,6 +14,6 @@ export default {
     ru: 'Назад',
     de: 'zurück',
     fr: 'Retour',
-    es: 'Espalda'
+    es: 'Regresar'
   }
 }
