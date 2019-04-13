@@ -2,7 +2,7 @@ export default {
 
   manager: {
     en: 'Clan Manager',
-    ru: 'Клан Менеджер',
+    ru: 'Клан Менеджер'
   },
 
   leave: {
