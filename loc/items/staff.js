@@ -2,9 +2,9 @@ export default [
   {
     name       : {en: 'Broken Twig' },
     description: {
-      en: 'Weapon forged by the greatest blacksmith of all the land. At least thats what we told little Timmy.',
+      en: 'Weapon forged by the greatest blacksmith of all the land. At least that\'s what we told little Timmy.',
+      es: 'Este es un palo normal. Pero ¿estás seguro que solo es un palo normal?',
       ru: 'Оружие, выкованное величайшим кузнецом из всей земли. По крайней мере, так мы сказали маленькому Тимми.',
-      es: 'Arma forjada por el más grande herrero de toda la tierra. Al menos eso es lo que le dijimos al pequeño Timmy.',
       de: 'Die Waffe wurde vom größten Schmied des Landes geschmiedet. Zumindest haben wir dem kleinen Timmy das gesagt.',
       fr: 'Une arme forgée par le plus grand forgeron du pays. Du moins, c\'est ce qu\'on a dit au petit Timmy.'
     }
@@ -14,8 +14,8 @@ export default [
     name       : {en: 'Cracked Stick' },
     description: {
       en: 'Desperate situations call for desperate measures.',
+      es: 'Has roto su palo. Está bien, todavía puedes usarlo.',
       ru: 'Отчаянные ситуации требуют отчаянных мер.',
-      es: 'Las situaciones desesperadas requieren medidas desesperadas.',
       de: 'Verzweifelte Situationen erfordern verzweifelte Maßnahmen.',
       fr: 'Les situations désespérées exigent des mesures désespérées.'
     }
@@ -36,8 +36,8 @@ export default [
     name       : {en: 'Oak Stave' },
     description: {
       en: 'A wand cut from the branches of an anceint oak. Infused with deep power.',
+      es: 'Una varita cortada de las ramas de un arce anciano. Tiene el gran poder canadiense.',
       ru: 'Палочка, вырезанная из ветвей древнего дуба. Обладает глубокой силой.',
-      es: 'Una varita cortada de las ramas de un roble anceint. Infundido con un profundo poder.',
       de: 'Ein Zauberstab, der aus den Zweigen einer kastanienbraunen Eiche geschnitten wurde. Durchdrungen von tiefer Kraft.',
       fr: 'Baguette coupée dans les branches d\'un chêne d\'anceint. Doté d\'une puissance profonde.'
     }
@@ -58,8 +58,8 @@ export default [
     name       : {en: 'Bone Stave' },
     description: {
       en: 'Nothing fancy about this weapon, just the femur of a lich.',
+      es: 'El rey liche no necesitaba su fémur, así que lo usé para hacer una varita.',
       ru: 'Ничего особенного в этом оружии, только бедро лича.',
-      es: 'Esta arma no tiene nada de elegante, sólo el fémur de un liquen.',
       de: 'Nichts Besonderes an dieser Waffe, nur der Oberschenkelknochen eines Lichs.',
       fr: 'Cette arme n\'a rien d\'extravagant, juste le fémur d\'un lich.'
     }
@@ -68,7 +68,6 @@ export default [
   {
     name       : {en: 'Encrusted Wand' },
     description: {
-      en: 'Long wand, with a blue shimmering gem at its crown.',
       ru: 'Длинная палочка с синим мерцающим драгоценным камнем на короне.',
       es: 'Varita larga, con una joya azul brillante en su corona.',
       de: 'Langer Stab, mit einem blau schimmernden Edelstein an der Krone.',
@@ -80,8 +79,8 @@ export default [
     name       : {en: 'Imbued Staff' },
     description: {
       en: 'Dark purple staff. Quite mysterious in its making, yet nice to look at.',
+      es: 'El cayado de un pastor. Solo costó como noventa cobres y una gallina.',
       ru: 'Темно-фиолетовый посох. Совершенно таинственно в его создании, но приятно смотреть на него.',
-      es: 'Bastón de color púrpura oscuro. Bastante misterioso en su fabricación, pero agradable de ver.',
       de: 'Dunkelvioletter Stab. Ziemlich mysteriös in seiner Entstehung, aber schön anzusehen.',
       fr: 'Bâton violet foncé. Assez mystérieux dans sa fabrication, mais agréable à regarder.'
     }
@@ -90,9 +89,9 @@ export default [
   {
     name       : {en: 'Emerald Staff' },
     description: {
+      es: 'Hay una enana en las montañas, se llama Esmeralda. Ella solo hace varitas de esmeralda por algún razón.',
       en: 'Constructed from emeralds stolen from the mountain dwarves.',
       ru: 'Создан из изумрудов украденных у горных гномов.',
-      es: 'Construido con esmeraldas robadas a los enanos de la montaña.',
       de: 'Gebaut aus Smaragden, die den Bergweibchen gestohlen wurden.',
       fr: 'Construit à partir d\'émeraudes volées aux nains des montagnes.'
     }
@@ -113,8 +112,8 @@ export default [
     name       : {en: 'Frozen Greatstaff' },
     description: {
       en: 'Eccentric rod with a pale blue stone embedded inside....',
+      es: 'Finalmente, ¡una varita de nieve para el mago de invierno!',
       ru: 'Эксцентриковый стержень с бледно-голубым камнем, встроенным внутрь ....',
-      es: 'Varilla excéntrica con una piedra de color azul pálido incrustada en el interior......',
       de: 'Exzentrische Stange mit einem hellblauen Stein, der innen eingebettet ist.......',
       fr: 'Tige excentrique avec une pierre bleu pâle à l\'intérieur......'
     }
@@ -123,7 +122,8 @@ export default [
   {
     name       : {en: 'Infernal Staff' },
     description: {
-      en: 'Forged by the blacksmiths residing in fabled valleys undiscorvered by travelers.',
+      en: 'A gift from the almighty lava god, Erlik.',
+      es: 'Un regalo del ser magmático Erlik. Es interesante que el Dios del infierno te dio un bastón del invierno.',
       ru: 'Выкованный кузнецами, живущими в сказочных долинах, неоткрытый путешественниками.'
     }
   },
@@ -132,8 +132,8 @@ export default [
     name       : {en: 'Hellfire Greatstaff' },
     description: {
       en: 'Its beauty calls out to you.....to kill.....to conquer....',
+      es: '¿Qué dice la belleza de este bastón? Te dice: "...mátalos....conquista el mundo....será divertido..."',
       ru: 'Его красота призывает тебя ..... убивать ..... завоевывать ....',
-      es: 'Su belleza te llama a ti, a matar, a conquistar...',
       de: 'Seine Schönheit ruft nach dir, zu töten, zu erobern...',
       fr: 'Sa beauté vous interpelle, pour tuer, pour conquérir...'
     }
@@ -142,9 +142,9 @@ export default [
   {
     name       : {en: 'Staff of Angelness' },
     description: {
+      es: 'Robaste el obispo y tomaste su báculo de oro. Ahora los ángeles te cazan.',
       en: 'A staff stolen from the angels. They\'re still hunting for it.',
       ru: 'Посох, украденный у ангелов. Они все еще охотятся за этим.',
-      es: 'Un bastón robado a los ángeles. Todavía lo están buscando.',
       de: 'Ein Stab, der von den Engeln gestohlen wurde. Sie sind immer noch auf der Jagd danach.',
       fr: 'Un bâton volé aux anges. Ils sont toujours à sa recherche.'
     }
@@ -164,7 +164,7 @@ export default [
   {
     name       : {en: 'Witchs Heart' },
     description: {
-      en: 'We are told its core is from the heart of a witch. No one has found the corpse. Or the staff itself.',
+      en: 'We are told it\'s core is from the heart of a witch. No one has found the corpse. Or the staff itself.',
       ru: 'Нам говорят, что его ядро ​​от сердца ведьмы. Никто не нашел труп. Или сам посох.',
       es: 'Se nos dice que su núcleo es del corazón de una bruja. Nadie ha encontrado el cadáver. O el propio personal.',
       de: 'Uns wurde gesagt, dass sein Kern aus dem Herzen einer Hexe stammt. Niemand hat die Leiche gefunden. Oder das Personal selbst.',
@@ -176,8 +176,8 @@ export default [
     name       : {en: 'Deathweaver' },
     description: {
       en: 'This weapon is so secretive that the few who wield it have killed all that know of it.',
+      es: 'Se dicen que nadie se queda vivo para contar de este arco, pero... ¿de dónde viene las historias?',
       ru: 'Это оружие настолько скрытно, что те, кто владеют им, убили всех, кто о нем знает.',
-      es: 'Esta arma es tan secreta que los pocos que la manejan han matado a todos los que la conocen.',
       de: 'Diese Waffe ist so geheimnisvoll, dass die wenigen, die sie führen, alle getötet haben, die von ihr wissen.',
       fr: 'Cette arme est si secrète que les quelques personnes qui l\'utilisent ont tué tous ceux qui la connaissent.'
     }

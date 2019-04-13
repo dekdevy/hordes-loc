@@ -5,7 +5,7 @@ export default [
     description: {
       en: 'Name says it all. Careful of the splinters.',
       ru: 'Имя говорит само за себя. Осторожнее осколков.',
-      es: 'El nombre lo dice todo. Cuidado con las astillas.',
+      es: 'La receta de fabricación es dos bloques de madera y un palo.',
       de: 'Der Name sagt alles. Vorsicht mit den Splittern.',
       fr: 'Le nom dit tout. Attention aux éclats.'
     }
@@ -27,7 +27,7 @@ export default [
     description: {
       en: 'Am I being pranked?',
       ru: 'меня высмеивают?',
-      es: '¿Estoy siendo engañado?',
+      es: 'Los trolls usaron solo fe y bromas para hacer daño con sus espadas.',
       de: 'Werde ich verarscht?',
       fr: 'Suis-je victime d\'une farce'
     }
@@ -38,7 +38,7 @@ export default [
     description: {
       en: 'Some knight dropped this. Probably unintentionally.',
       ru: 'Какой-то рыцарь бросил это. Вероятно, непреднамеренно.',
-      es: 'A un caballero se le cayó esto. Probablemente sin querer.',
+      es: 'Ey, finalmente, una espada real. Tal vez puede realmente ser útil.',
       de: 'Ein Ritter hat das fallen lassen. Wahrscheinlich unbeabsichtigt.',
       fr: 'Un chevalier a fait tomber ça. Probablement involontairement.'
     }
@@ -69,7 +69,7 @@ export default [
     description: {
       en: 'A sword so mighty that few can handle it. It\'s pretty heavy.',
       ru: 'Меч такой могущественный, что немногие могут с ним справиться. Oн довольно тяжелый.',
-      es: 'Una espada tan poderosa que pocos pueden manejarla. Es bastante pesado.',
+      es: 'Bastante pesado y bastante bien.',
       de: 'Ein Schwert, das so mächtig ist, dass nur wenige damit umgehen können. Es ist ziemlich schwer.',
       fr: 'Une épée si puissante que peu de gens peuvent la manier. C\'est assez lourd.'
     }
@@ -79,7 +79,7 @@ export default [
     description: {
       en: 'Diabolical curved blade. Even holding it makes you feel its dark essence.',
       ru: 'Дьявольское изогнутое лезвие. Даже держа его, вы чувствуете его темную сущность.',
-      es: 'Cuchilla curvada diabólica. Incluso sostenerlo te hace sentir su oscura esencia.',
+      es: 'Es una diabla curva. Incluso sostenerlo te hace sentir su oscura esencia.',
       de: 'Diabolisch geschwungene Klinge. Schon beim Halten spürt man seine dunkle Essenz.',
       fr: 'Lame diabolique incurvée. Même le tenir vous fait sentir son essence sombre.'
     }
@@ -90,7 +90,7 @@ export default [
     description: {
       en: 'A cold-looking blade with a burning hot slice.',
       ru: 'Холодный клинок с горячим нарезаm.',
-      es: 'Una hoja de aspecto frío con una rebanada ardiente y caliente.',
+      es: 'Error 403: El filo de la espada es null.',
       de: 'Eine kalt aussehende Klinge mit einer brennend heißen Scheibe.',
       fr: 'Une lame d\'aspect froid avec une tranche chaude brûlante.'
     }
@@ -121,9 +121,9 @@ export default [
   { // T12 item
     name       : { en: 'Void Blade' },
     description: {
+      es: 'El fin de todo empieza con el descubrimiento de esta espada.',
       en: 'Powerful masterpiece brought from the underworld.',
       ru: 'Мощный шедевр привезен из подземного мира.',
-      es: 'Una poderosa obra maestra traída del inframundo.',
       de: 'Ein mächtiges Meisterwerk aus der Unterwelt.',
       fr: 'Puissant chef-d\'oeuvre apporté des enfers.'
     }
@@ -132,9 +132,9 @@ export default [
   { // T13 item
     name       : { en: 'Zerstörer' },
     description: {
+      es: '¡Es rosa! Los grabados dicen "Mächtig Zerstörer"',
       en: 'A Mysterious pink sword. Engravings say "Mächtig Zerstörer".',
-      ru: 'Таинственный розовый меч. Гравюры говорят "Mächtig Zerstörer"',
-      es: 'Una misteriosa espada rosa. Los grabados dicen "Poderoso Destructor".',
+      ru: 'Таинственный розовый меч. Гравюры говорят "Mächtig Zerstörer."',
       de: 'Ein mysteriöses rosa Schwert. Gravuren sagen "Mächtig Zerstörer".',
       fr: 'Une mystérieuse épée rose. Les gravures disent "Puissant destructeur".'
     }
@@ -145,7 +145,7 @@ export default [
     description: {
       en: 'Cuts through your foes hearts. Eats them on the way.',
       ru: 'Разрезает сердца ваших врагов. Eсть их по дороге.',
-      es: 'Corta el corazón de tus enemigos. Se los come en el camino.',
+      es: 'Corazón, un parte de un desayuno completo.',
       de: 'Schneidet die Herzen eurer Feinde durch. Frisst sie auf dem Weg.',
       fr: 'Ça coupe à travers le cœur de vos ennemis. Il les mange en chemin.'
     }
@@ -156,7 +156,7 @@ export default [
     description: {
       en: 'It can cut demons, but not angels',
       ru: 'Oно может резать демонов, но не ангелов',
-      es: 'Puede cortar demonios, pero no ángeles.',
+      es: 'Los santos los usaron en las guerras en los cielos.',
       de: 'Es kann Dämonen besiegen, aber keine Engel.',
       fr: 'Il peut tuer des démons, mais pas des anges.'
     }
@@ -167,10 +167,9 @@ export default [
     description: {
       en: 'We were told it was pulled from stone. Still can\'t find the stone.',
       ru: 'Нам сказали, что это было извлечено из камня. Все еще не можем найти камень.',
-      es: 'Puede cortar demonios, pero no ángeles.',
+      es: 'Se dice que era tomado de una roca. ¿Dónde está la roca?',
       de: 'Es kann Dämonen besiegen, aber keine Engel.',
       fr: 'Il peut tuer des démons, mais pas des anges.'
-
     }
   },
 
@@ -179,7 +178,7 @@ export default [
     description: {
       en: 'This weapon brings about the coming of a new age.',
       ru: 'Это оружие вызывает наступление новой эры.',
-      es: 'Esta arma trae consigo la llegada de una nueva era.',
+      es: 'Un arma elegante para una era más civilizada.',
       de: 'Diese Waffe bringt das Kommen eines neuen Zeitalters mit sich.',
       fr: 'Cette arme provoque l\'avènement d\'une nouvelle ère.'
     }
