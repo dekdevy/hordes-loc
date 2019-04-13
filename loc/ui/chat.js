@@ -2,17 +2,17 @@ export default {
 
   showall: {
     en: 'Show All',
-    ru: 'Показать все'
+    ru: 'Показать Все'
   },
 
   showclan: {
     en: 'Show Clan',
-    ru: 'Показать клан'
+    ru: 'Показать Клан'
   },
 
   showsystem: {
     en: 'Show System',
-    ru: 'Показать систему'
+    ru: 'Показать Систему'
   },
 
   loot: {
@@ -32,7 +32,7 @@ export default {
 
   // translations not needed
   twitter: {
-    en: 'tw'
+    en: 'TW'
   },
 
   // translations not needed
