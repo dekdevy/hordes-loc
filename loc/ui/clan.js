@@ -8,5 +8,9 @@ export default {
   leave: {
     en: 'Leave Clan',
     ru: 'Покинуть Клан'
-  }
+  },
+
+  create: {
+    en: 'Create',
+    ru: 'Создать'
 }
