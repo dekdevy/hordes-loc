@@ -103,7 +103,7 @@ export default [
     description: {
       en: 'Reforged, lost, found, stolen, hidden for eras without end.',
       ru: 'Перекован, потерян, найден, украден, спрятан на века без конца.',
-      fr: 'Reforgé, perdu, trouvé, volé, caché pour des ères sans fin.' 
+      fr: 'Reforgé, perdu, trouvé, volé, caché pour des ères sans fin.'
     }
   },
 
