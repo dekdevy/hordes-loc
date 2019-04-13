@@ -126,7 +126,7 @@ export default [
       en: 'Constructed by unknwon blacksmiths residing in fabled valleys.',
       ru: 'Построен неизвестными кузнецами, живущими в сказочных долинах.',
       es: 'Construido por herreros desconocidos que residen en valles legendarios.'
- 
+
     }
   },
 
