@@ -8,5 +8,5 @@ export default {
   leave: {
     en: 'Leave Clan',
     ru: 'Покинуть Клан'
-  },
+  }
 }
