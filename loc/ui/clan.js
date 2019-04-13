@@ -38,5 +38,5 @@ export default {
   createbutton: {
     en: 'Create',
     ru: 'Создать'
-  },
-} 
+  }
+}
