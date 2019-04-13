@@ -15,7 +15,7 @@ export default [
     name       : { en: 'Novice Shortbow' },
     description: {
       en: 'You feel less skilled just by holding this in your hands.',
-      ru: 'Вы чувствуете себя менее опытным, просто держа его в своих руках',
+      ru: 'Вы чувствуете себя менее опытным, просто держа его в своих руках.',
       de: 'Du fühlst dich weniger geschickt, nur weil du das in deinen Händen hältst.',
       es: 'Te sientes menos hábil con sólo sostener esto en tus manos.',
       fr: 'Vous vous sentez moins doué rien qu\'en le tenant dans vos mains.'
@@ -26,7 +26,7 @@ export default [
     name       : { en: 'Adventurer\'s Shortbow' },
     description: {
       en: 'Whoever left this on the ground probably didn\'t meet a nice end.',
-      ru: 'Кто то оставил его на земле, вероятно, не встретил хороший конец',
+      ru: 'Кто то оставил его на земле, вероятно, не встретил хороший конец.',
       de: 'Wer das auf dem Boden gelassen hat, hat wahrscheinlich kein schönes Ende gefunden.',
       es: 'Quienquiera que haya dejado esto en el suelo probablemente no tuvo un buen final.',
       fr: 'Celui qui a laissé ça sur le sol n\'a probablement pas trouvé une fin heureuse.'
@@ -59,7 +59,7 @@ export default [
     name       : { en: 'Elven Bow' },
     description: {
       en: 'An expert bow of a forgotten race.',
-      ru: 'Экспертный лук забытой расы',
+      ru: 'Экспертный лук забытой расы.',
       de: 'Ein Expertenbogen einer vergessenen Rasse.',
       es: 'Una reverencia experta de una raza olvidada.',
       fr: 'Un arc expert d\'une race oubliée.'
@@ -124,10 +124,10 @@ export default [
   { // T12 item
     name       : { en: 'Hellfire Warbow' },
     description: {
-      en: 'What is it? Is it ice? The world may never know...',
-      ru: 'Что это? Это лед? Мир может никогда не узнать ...',
-      de: 'Was ist das? Was ist das? Ist es Eis? Die Welt wird es vielleicht nie erfahren.....',
-      es: '¿Qué es esto? ¿Es hielo? El mundo tal vez nunca lo sepa...',
+      en: 'What is it? Is it ice? The world may never know....',
+      ru: 'Что это? Это лед? Мир может никогда не узнать ....',
+      de: 'Was ist das? Was ist das? Ist es Eis? Die Welt wird es vielleicht nie erfahren....',
+      es: '¿Qué es esto? ¿Es hielo? El mundo tal vez nunca lo sepa....',
       fr: 'Qu\'est-ce que c\'est ? C\'est de la glace ? Le monde ne le saura peut-être jamais....'
     }
   },

@@ -29,7 +29,7 @@ export default [
       ru: 'меня высмеивают?',
       es: 'Los trolls usaron solo fe y bromas para hacer daño con sus armas ge guerra.',
       de: 'Werde ich verarscht?',
-      fr: 'Suis-je victime d\'une farce'
+      fr: 'Suis-je victime d\'une farce.'
     }
   },
 
@@ -100,7 +100,7 @@ export default [
     name       : { en: 'Knight\'s Greatsword' },
     description: {
       en: 'A blade wielded by only the most skillful knights.',
-      ru: 'Клинок, которым владеют только самые умелые рыцари',
+      ru: 'Клинок, которым владеют только самые умелые рыцари.',
       es: 'Una espada blandida solo por los caballeros más hábiles.',
       de: 'Eine Klinge, die nur von den geschicktesten Rittern geführt wird.',
       fr: 'Une lame maniée par les chevaliers les plus habiles.'
@@ -132,9 +132,9 @@ export default [
   { // T13 item
     name       : { en: 'Zerstörer' },
     description: {
-      es: '¡Es rosa! Los grabados dicen "Mächtig Zerstörer"',
       en: 'A mysterious pink sword. Engravings say "Mächtig Zerstörer".',
       ru: 'Таинственный розовый меч. Гравюры говорят "Mächtig Zerstörer."',
+      es: '¡Es rosa! Los grabados dicen "Mächtig Zerstörer".',
       de: 'Ein mysteriöses rosa Schwert. Gravuren sagen "Mächtig Zerstörer".',
       fr: 'Une mystérieuse épée rose. Les gravures disent "Puissant destructeur".'
     }
@@ -154,8 +154,8 @@ export default [
   { // T15 item
     name       : { en: 'Demonedge' },
     description: {
-      en: 'It can cut demons, but not angels',
-      ru: 'Oно может резать демонов, но не ангелов',
+      en: 'It can cut demons, but not angels.',
+      ru: 'Oно может резать демонов, но не ангелов.',
       es: 'Los santos los usaron en las guerras en los cielos.',
       de: 'Es kann Dämonen besiegen, aber keine Engel.',
       fr: 'Il peut tuer des démons, mais pas des anges.'
