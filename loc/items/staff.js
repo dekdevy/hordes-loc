@@ -2,14 +2,16 @@ export default [
   {
     name       : {en: 'Broken Twig' },
     description: {
-      en: 'Weapon forged by the greatest blacksmith of all the land. At least thats what we told little Timmy.'
+      en: 'Weapon forged by the greatest blacksmith of all the land. At least thats what we told little Timmy.',
+      hi: 'क्षेत्र के सबसे महान लोहार द्वारा बनाया गया हथियार। नन्हें टिम्मी से तो हमने यही कहा।'
     }
   },
 
   {
     name       : {en: 'Cracked Stick' },
     description: {
-      en: 'Desperate situations call for desperate measures.'
+      en: 'Desperate situations call for desperate measures.',
+      hi: ''
     }
   },
 
@@ -23,7 +25,8 @@ export default [
   {
     name       : {en: 'Oak Stave' },
     description: {
-      en: 'A wand cut from the branches of an anceint oak. Infused with deep power.'
+      en: 'A wand cut from the branches of an ancient oak. Infused with deep power.',
+      hi: 'प्राचीन पेड की डाल से बनी छड़ी। '
     }
   },
 
@@ -101,7 +104,7 @@ export default [
     name       : {en: 'Crystal Core' },
     description: {
       en: 'Crude in its looks, yet mighty at its core......'
-    }
+    } /*But where is the core xD*/
   },
 
   {
