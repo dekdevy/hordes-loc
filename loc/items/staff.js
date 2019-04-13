@@ -142,7 +142,7 @@ export default [
   {
     name       : {en: 'Staff of Angelness' },
     description: {
-      es: 'Robaste el obispo y tomaste su báculo de oro. Ahora los ángeles te cazan.',
+      es: 'Robaste al arzobispo y tomaste su báculo de oro. Ahora los ángeles te cazan.',
       en: 'A staff stolen from the angels. They\'re still hunting for it.',
       ru: 'Посох, украденный у ангелов. Они все еще охотятся за этим.',
       de: 'Ein Stab, der von den Engeln gestohlen wurde. Sie sind immer noch auf der Jagd danach.',
