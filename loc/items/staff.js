@@ -125,7 +125,6 @@ export default [
     description: {
       en: 'A gift from the almighty lava god, Erlik.',
       es: 'Un regalo del ser magmático Erlik. Es interesante que el Dios del infierno te dio un bastón del invierno.',
-      en: 'Forged by the blacksmiths residing in fabled valleys undiscorvered by travelers.',
       ru: 'Выкованный кузнецами, живущими в сказочных долинах, неоткрытый путешественниками.'
     }
   },
@@ -144,7 +143,6 @@ export default [
   {
     name       : {en: 'Staff of Angelness' },
     description: {
-      en: 'A staff stolen from the angels. Theyre still hunting for it.',
       es: 'Robaste el obispo y tomaste su báculo de oro. Ahora los ángeles te cazan.',
       en: 'A staff stolen from the angels. They\'re still hunting for it.',
       ru: 'Посох, украденный у ангелов. Они все еще охотятся за этим.',
@@ -168,7 +166,6 @@ export default [
     name       : {en: 'Witchs Heart' },
     description: {
       en: 'We are told it\'s core is from the heart of a witch. No one has found the corpse. Or the staff itself.',
-      en: 'We are told its core is from the heart of a witch. No one has found the corpse. Or the staff itself.',
       ru: 'Нам говорят, что его ядро ​​от сердца ведьмы. Никто не нашел труп. Или сам посох.',
       es: 'Se nos dice que su núcleo es del corazón de una bruja. Nadie ha encontrado el cadáver. O el propio personal.',
       de: 'Uns wurde gesagt, dass sein Kern aus dem Herzen einer Hexe stammt. Niemand hat die Leiche gefunden. Oder das Personal selbst.',
