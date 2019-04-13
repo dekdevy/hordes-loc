@@ -49,8 +49,10 @@ const factions = [
 // User interface
 import charmenu from './ui/charmenu.js'
 import general from './ui/general.js'
+import clan from './ui/clan.js'
 const ui = {
   charmenu,
+  clan,
   ...general }
 
 export default {
