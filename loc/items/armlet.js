@@ -104,7 +104,7 @@ export default [
     description: {
       en: 'Stars are not often black, yet this fragment has a.......deep.......deep darkness.',
       ru: 'Звезды не часто черные, но этот фрагмент имеет ....... глубокую ....... глубокую тьму.',
-      es: 'Completamente hecho con piezas de estrellas de neutrón: denso, duro, poderoso.'
+      es: 'Completamente hecho con piezas de estrellas de neutrón: denso, duro, poderoso.',
       fr: 'Les étoiles ne sont pas souvent noires, mais ce fragment a une.......profund....... obscurité profonde.'
     }
   },
