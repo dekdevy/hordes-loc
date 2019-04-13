@@ -93,7 +93,7 @@ export default [
       es: 'Si pudiera hablar, probablemente se quejaría de ser triangular.',
       de: 'Gefühl zu geben, wenn es sprechen könnte, würde es sich wahrscheinlich darüber beschweren, dreieckig zu sein.',
       fr: 'Si elle pouvait parler, elle se plaindrait probablement d\'être triangulaire.',
-      ru: 'Если он мог говорить, он вероятно, пожаловался что он треугольный.',
+      ru: 'Если он мог говорить, он вероятно, пожаловался что он треугольный.'
     }
   },
 
