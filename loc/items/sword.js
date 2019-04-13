@@ -156,7 +156,7 @@ export default [
     description: {
       en: 'It can cut demons, but not angels',
       ru: 'Oно может резать демонов, но не ангелов',
-      es: 'San Dek lo usó en las guerras en los cielos.',
+      es: 'Los santos los usaron en las guerras en los cielos.',
       de: 'Es kann Dämonen besiegen, aber keine Engel.',
       fr: 'Il peut tuer des démons, mais pas des anges.'
     }
