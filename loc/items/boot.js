@@ -31,7 +31,7 @@ export default [
     description: {
       en: 'Clearly lacking in imagination, the maker made boots from the bones of a very large creature...',
       ru: 'Очевидно, что не хватает воображения, создатель сделал сапоги из костей очень крупного существа ...',
-      es: 'Claramente sin imaginación, el zapatero uso los huesos de una criatura grande.'
+      es: 'Claramente sin imaginación, el zapatero uso los huesos de una criatura grande...'
     }
   },
 
@@ -47,8 +47,8 @@ export default [
   {
     name       : {en: 'Patterned Greaves' },
     description: {
-      en: 'A pleasant pattern made to paralyze your foes....wonder if it works',
-      ru: 'Приятный узор, созданный, чтобы парализовать ваших врагов .... интересно, работает ли он',
+      en: 'A pleasant pattern made to paralyze your foes... wonder if it works',
+      ru: 'Приятный узор, созданный, чтобы парализовать ваших врагов... интересно, работает ли он',
       es: '¡Eyyy, ahora puedes correr sin desmayar con zapatos reales!'
     }
   },
@@ -74,8 +74,8 @@ export default [
   {
     name       : {en: 'Skyswift Boots' },
     description: {
-      en: 'Run as quick as the wind....or close to it',
-      ru: 'Беги так быстро, как ветер .... ну или близко к нему',
+      en: 'Run as quick as the wind... or close to it',
+      ru: 'Беги так быстро, как ветер... ну или близко к нему',
       es: 'Con estos zapatos puedes ver el viento y llevarlo contigo.'
     }
   },
@@ -101,7 +101,7 @@ export default [
   {
     name       : {en: 'Boots of Hermes' },
     description: {
-      en: 'Ancient boots rumoured to be stolen from the feet of the Roman messenger god....',
+      en: 'Ancient boots rumoured to be stolen from the feet of the Roman messenger god...',
       ru: 'По слухам, древние сапоги были украдены у ног римского бога-вестника ...',
       es: 'Botas del mesajero mentiroso, del espía nocturno, del dios griego de apoyar y asesinar.'
     }
