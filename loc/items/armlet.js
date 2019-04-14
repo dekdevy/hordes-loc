@@ -75,7 +75,7 @@ export default [
       en: 'Blinds your foes with a magical shine off a devious magicians mirror...',
       ru: 'Ослепляет ваших врагов волшебным блеском с коварного зеркалoм мага ...',
       es: 'Un espejo por su muñeca. Lo usas para cegar sus enemigos.',
-     fr: 'Aveugle vos ennemis avec un éclat magique sur un miroir de magiciens sournois...'
+      fr: 'Aveugle vos ennemis avec un éclat magique sur un miroir de magiciens sournois...'
     }
   },
 
