@@ -35,7 +35,6 @@ export default [
       en: 'Elegant cuff made from the tusks of the last mammonth.',
       ru: 'Элегантная манжета из бивней последнего мамонта.',
       es: 'Un pulsera elegante creado con el comillo del elefante final.',
-      en: 'Elegant cuff made from the tusks of the last mammoth.',
       fr: 'Menottes élégant fait à partir des défenses de mammouths'
     }
   },
