@@ -11,6 +11,5 @@ export default {
     pt: 'inventário',
     it: 'merci in magazzino',
     pl: 'inwentaryzacja'
-    
   }
 }
