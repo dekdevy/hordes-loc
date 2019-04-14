@@ -2,11 +2,13 @@ export default {
 
   logout: {
     en: 'Log Out',
-    ru: 'Выйти'
+    ru: 'Выйти',
+    hi: 'बाहर आए'
   },
 
   home: {
     en: 'Home',
-    ru: 'Домой'
+    ru: 'Домой',
+    hi: 'मुख्य स्क्रीन'
   }
 }
