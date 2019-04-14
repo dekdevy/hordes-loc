@@ -5,13 +5,17 @@ export default {
     se: 'Okej',
     ru: 'Окей',
     de: 'Okay',
-    hi: 'ठीक'
+    hi: 'ठीक',
+    fr: 'D\'accord',
+    es: 'De acuerdo'
   },
   back: {
     en: 'Back',
     se: 'Bakåt',
     ru: 'Назад',
     de: 'zurück',
-    hi: 'पिछला'
+    hi: 'पिछला',
+    fr: 'Retour',
+    es: 'Regresar'
   }
 }
