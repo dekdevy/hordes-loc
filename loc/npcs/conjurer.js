@@ -8,7 +8,8 @@ export default {
     },
     choices: [{
       en: 'Please bring me to $1.',
-      fr: 'Apportez-moi vers le 1$, s\'il-vous plaît.'
+      fr: 'Apportez-moi vers le 1$, s\'il-vous plaît.',
+      hi: 'हम दूसरे स्थानो का द्वार खोल सकते। कहा जाना चाहते हो तुम?'
     }]
   }]
 }

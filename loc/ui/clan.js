@@ -2,41 +2,49 @@ export default {
 
   manager: {
     en: 'Clan Manager',
-    ru: 'Клан Менеджер'
+    ru: 'Клан Менеджер',
+    hi: 'दल प्रबंधक'
   },
 
   leave: {
     en: 'Leave Clan',
-    ru: 'Покинуть Клан'
+    ru: 'Покинуть Клан',
+    hi: 'दल छोड़े'
   },
 
   heading: {
     en: 'Clan',
-    ru: 'Клан'
+    ru: 'Клан',
+    hi: 'दल'
   },
 
   createheading: {
     en: 'Create Clan',
-    ru: 'Создать Клан'
+    ru: 'Создать Клан',
+    hi: 'दल बनाए'
   },
 
   createinfo: {
     en: 'To create a clan you need',
-    ru: 'Для создания клана вам нужно'
+    ru: 'Для создания клана вам нужно',
+    hi: 'दल बनाने के लिए आपको ज़रूरत है'
   },
 
   createname: {
     en: 'Clan name',
-    ru: 'Название клана'
+    ru: 'Название клана',
+    hi: 'दल का नाम'
   },
 
   createtag: {
     en: 'Clan tag',
-    ru: 'Тег клана'
+    ru: 'Тег клана',
+    hi: 'दल टैग'
   },
 
   createbutton: {
     en: 'Create',
-    ru: 'Создать'
+    ru: 'Создать',
+    hi: 'निर्माण करे'
   }
 }
