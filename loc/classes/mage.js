@@ -5,7 +5,7 @@ export default {
     de: 'Magier',
     se: 'Magiker',
     es: 'Mago',
-    hi: 'जादूगर', 
+    hi: 'जादूगर',
     fr: 'Mage'
   },
   // Class description, visible during character creation
