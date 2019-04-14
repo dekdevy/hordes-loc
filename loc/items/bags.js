@@ -5,7 +5,7 @@ export default [
       en: 'Small little purse used by merchants wives.',
       ru: 'маленькая сумочка раньше использована женами купцов.',
       es: 'Una bolsa linda utilizado por las esposas de comerciantes.',
-      fr: 'De petites sacoches utilisées par les épouses des marchands. 
+      fr: 'De petites sacoches utilisées par les épouses des marchands.'
     }
   },
 
