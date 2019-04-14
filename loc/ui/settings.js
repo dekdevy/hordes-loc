@@ -77,7 +77,6 @@ export default {
     en: 'Reset tutorial',
     ru: 'Сбросить учебник',
     hi: 'शिक्षण रीसेट'
-    
   }
 
 }
