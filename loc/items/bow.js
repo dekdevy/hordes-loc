@@ -28,7 +28,6 @@ export default [
       en: 'Whoever left this on the ground probably didn\'t meet a nice end.',
       ru: 'Кто то оставил его на земле, вероятно, не встретил хороший конец',
       fr: 'Quiconque a échappé ceci par terre n\'a sûrement pas rencontré une fin heureuse.',
-      ru: 'Кто то оставил его на земле, вероятно, не встретил хороший конец.',
       de: 'Wer das auf dem Boden gelassen hat, hat wahrscheinlich kein schönes Ende gefunden.',
       es: 'Quienquiera que haya dejado esto en el suelo probablemente no tuvo un buen final.'
     }
@@ -50,7 +49,7 @@ export default [
     description: {
       en: 'Put together with the bones of... somebody?',
       ru: 'Cобран из костей ... кого-нибудь?',
-      fr: 'Assemblé avec les os de... quelqu\'un?'
+      fr: 'Assemblé avec les os de... quelqu\'un?',
       de: 'Zusammen mit den Knochen von.... jemandem?',
       es: '¿Colocado con los huesos de... alguien?'
     }
@@ -62,7 +61,6 @@ export default [
       en: 'An expert bow of a forgotten race.',
       ru: 'Экспертный лук забытой расы',
       fr: 'Un arc d\'expert originant d\'une race oublié.',
-      ru: 'Экспертный лук забытой расы.',
       de: 'Ein Expertenbogen einer vergessenen Rasse.',
       es: 'Una reverencia experta de una raza olvidada.'
     }
