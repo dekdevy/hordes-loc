@@ -2,7 +2,8 @@ export default [
   {
     name       : {en: 'Broken Twig' },
     description: {
-      en: 'Weapon forged by the greatest blacksmith of all the land. At least that\'s what we told little Timmy.',
+      en: 'Weapon forged by the greatest blacksmith of all the land. At least thats what we told little Timmy.',
+      hi: 'क्षेत्र के सबसे महान लोहार द्वारा बनाया गया हथियार। नन्हें टिम्मी से तो हमने यही कहा।',
       ru: 'Оружие, выкованное величайшим кузнецом из всей земли. По крайней мере, так мы сказали маленькому Тимми.',
       es: 'Este es un palo normal. Pero ¿estás seguro que solo es un palo normal?',
       de: 'Die Waffe wurde vom größten Schmied des Landes geschmiedet. Zumindest haben wir dem kleinen Timmy das gesagt.',
@@ -28,18 +29,19 @@ export default [
       ru: 'Потрепанная метла украдена у мага. Корявый и костлявый.',
       es: 'Un palo de escoba desaliñado robado de un mago. Nudoso y huesudo.',
       de: 'Dreckiger Besenstiel, der einem Magier gestohlen wurde. Knurrig und knöchern.',
-      fr: 'Un balai débraillé volé à un mage. Gnarled et osseux.'
+      fr: 'Un balai négligé volé à un mage. Noueux et osseux.'
     }
   },
 
   {
     name       : {en: 'Oak Stave' },
     description: {
-      en: 'A wand cut from the branches of an anceint oak. Infused with deep power.',
+      en: 'A wand cut from the branches of an ancient oak. Infused with deep power.',
+      hi: 'प्राचीन पेड की डाल से बनी छड़ी। ',
       ru: 'Палочка, вырезанная из ветвей древнего дуба. Обладает глубокой силой.',
       es: 'Una varita cortada de las ramas de un arce anciano. Tiene gran poder canadiense.',
       de: 'Ein Zauberstab, der aus den Zweigen einer kastanienbraunen Eiche geschnitten wurde. Durchdrungen von tiefer Kraft.',
-      fr: 'Baguette coupée dans les branches d\'un chêne d\'anceint. Doté d\'une puissance profonde.'
+      fr: 'Baguette coupée dans les branches d\'un chêne d\'ancien. Doté d\'une puissance profonde.'
     }
   },
 
@@ -50,7 +52,7 @@ export default [
       ru: 'Мистическое оружие, светящееся загадочной сущностью.',
       es: 'Arma mística que brilla con una esencia misteriosa.',
       de: 'Mystische Waffe, die mit einer mysteriösen Essenz angestrahlt wird.',
-      fr: 'Une arme mystique qui brille \'une essence mystérieuse.'
+      fr: 'Une arme mystique qui brille d\'une essence mystérieuse.'
     }
   },
 
@@ -61,7 +63,7 @@ export default [
       ru: 'Ничего особенного в этом оружии, только бедро лича.',
       es: 'El rey liche no necesitaba su fémur, así que lo usé para hacer una varita.',
       de: 'Nichts Besonderes an dieser Waffe, nur der Oberschenkelknochen eines Lichs.',
-      fr: 'Cette arme n\'a rien d\'extravagant, juste le fémur d\'un lich.'
+      fr: 'Cette arme n\'a rien d\'extravagant, juste le fémur d\'une liche.'
     }
   },
 
@@ -116,7 +118,7 @@ export default [
       ru: 'Эксцентриковый стержень с бледно-голубым камнем, встроенным внутрь ....',
       es: 'Finalmente, ¡una varita de nieve para el mago de invierno!',
       de: 'Exzentrische Stange mit einem hellblauen Stein, der innen eingebettet ist.......',
-      fr: 'Tige excentrique avec une pierre bleu pâle à l\'intérieur......'
+      fr: 'Tige excentrique avec une pierre bleu pâle incrustée à l\'intérieur......'
     }
   },
 
@@ -125,7 +127,8 @@ export default [
     description: {
       en: 'Constructed by unknwon blacksmiths residing in fabled valleys.',
       ru: 'Построен неизвестными кузнецами, живущими в сказочных долинах.',
-      es: 'Construido por herreros desconocidos que residen en valles legendarios.'
+      es: 'Construido por herreros desconocidos que residen en valles legendarios.',
+      fr: 'Confectionné par des forgerons inconnus résidant dans des vallées légendaires.'
 
     }
   },
@@ -137,7 +140,7 @@ export default [
       ru: 'Его красота призывает тебя ..... убивать ..... завоевывать ....',
       es: '¿Qué dice la belleza de este bastón? Te dice: "...mátalos....conquista el mundo....será divertido..."',
       de: 'Seine Schönheit ruft nach dir, zu töten, zu erobern...',
-      fr: 'Sa beauté vous interpelle, pour tuer, pour conquérir...'
+      fr: 'Sa beauté vous interpelle.....à tuer.....à conquérir...'
     }
   },
 
@@ -155,11 +158,11 @@ export default [
   {
     name       : {en: 'Crystal Core' },
     description: {
-      en: 'Crude in its looks, yet mighty at its core....',
+      en: 'Crude in its looks, yet mighty at its core......',
       ru: 'Грубый в своей внешности, но могущественный по его ядро ....',
       es: 'Crudo en su aspecto, pero poderoso en su núcleo....',
       de: 'Grob in seinem Aussehen, aber mächtig in seinem Kern....',
-      fr: 'Brut dans son apparence, mais puissant dans son essence....'
+      fr: 'Rudimentaire en apparence, mais puissant dans son essence....'
     }
   },
 
@@ -170,7 +173,7 @@ export default [
       ru: 'Нам говорят, что его ядро ​​от сердца ведьмы. Никто не нашел труп. Или сам посох.',
       es: 'Se nos dice que su núcleo es del corazón de una bruja. Nadie ha encontrado el cadáver. O el propio personal.',
       de: 'Uns wurde gesagt, dass sein Kern aus dem Herzen einer Hexe stammt. Niemand hat die Leiche gefunden. Oder das Personal selbst.',
-      fr: 'On nous dit que son coeur est celui d\'une sorcière. Personne n\'a trouvé le cadavre. Ou le personnel lui-même.'
+      fr: 'On nous dit que son coeur est celui d\'une sorcière. Personne n\'en a retrouvé le cadavre. Ou la baguette elle-même.'
     }
   },
 
@@ -181,7 +184,7 @@ export default [
       ru: 'Это оружие настолько скрытно, что те, кто владеют им, убили всех, кто о нем знает.',
       es: 'Se dicen que nadie se queda vivo para contar de este arco, pero... ¿de dónde viene las historias?',
       de: 'Diese Waffe ist so geheimnisvoll, dass die wenigen, die sie führen, alle getötet haben, die von ihr wissen.',
-      fr: 'Cette arme est si secrète que les quelques personnes qui l\'utilisent ont tué tous ceux qui la connaissent.'
+      fr: 'Cette arme est si secrète que les quelques personnes qui la manie ont tué tous ceux qui la connaissent.'
     }
   }
 
