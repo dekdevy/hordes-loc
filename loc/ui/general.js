@@ -5,6 +5,7 @@ export default {
     se: 'Okej',
     ru: 'Окей',
     de: 'Okay',
+    hi: 'ठीक',
     fr: 'D\'accord',
     es: 'De acuerdo'
   },
@@ -13,6 +14,7 @@ export default {
     se: 'Bakåt',
     ru: 'Назад',
     de: 'zurück',
+    hi: 'पिछला',
     fr: 'Retour',
     es: 'Regresar'
   }
