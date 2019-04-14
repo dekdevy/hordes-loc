@@ -40,7 +40,7 @@ export default [
       ru: 'Какой-то рыцарь бросил это. Вероятно, непреднамеренно.',
       fr: 'Un chevalier a échappé ceci. Probablement par accident.',
       es: 'Ey, finalmente, una espada real. Tal vez puede realmente ser útil.',
-      de: 'Ein Ritter hat das fallen lassen. Wahrscheinlich unbeabsichtigt.',
+      de: 'Ein Ritter hat das fallen lassen. Wahrscheinlich unbeabsichtigt.'
     }
   },
 
@@ -102,7 +102,7 @@ export default [
       en: 'A blade wielded by only the most skillful knights.',
       ru: 'Клинок, которым владеют только самые умелые рыцари',
       fr: 'Une lame maniée par les plus grands chevaliers.',
-      de: 'Eine Klinge, die nur von den geschicktesten Rittern geführt wird.',
+      de: 'Eine Klinge, die nur von den geschicktesten Rittern geführt wird.'
 
     }
   },
@@ -158,7 +158,7 @@ export default [
       ru: 'Oно может резать демонов, но не ангелов',
       fr: 'Elle peut éxecuter les démons, mais pas les anges.',
       es: 'Los santos los usaron en las guerras en los cielos.',
-      de: 'Es kann Dämonen besiegen, aber keine Engel.',
+      de: 'Es kann Dämonen besiegen, aber keine Engel.'
     }
   },
 
