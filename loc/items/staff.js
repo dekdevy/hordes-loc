@@ -159,9 +159,7 @@ export default [
   {
     name       : {en: 'Crystal Core' },
     description: {
-      en: 'Crude in its looks, yet mighty at its core......'
-    }
-      en: 'Crude in its looks, yet mighty at its core....',
+      en: 'Crude in its looks, yet mighty at its core......',
       ru: 'Грубый в своей внешности, но могущественный по его ядро ....',
       es: 'Crudo en su aspecto, pero poderoso en su núcleo....',
       de: 'Grob in seinem Aussehen, aber mächtig in seinem Kern....',
