@@ -43,16 +43,16 @@ export default [
   {
     name       : {en: 'Imbued Gloves' },
     description: {
-      en: 'Mitts made out of unknown material....it shines.....',
-      ru: 'Рукавицы, сделанные из неизвестного материала ... оно сияет .....'
+      en: 'Mitts made out of unknown material... it shines...',
+      ru: 'Рукавицы, сделанные из неизвестного материала ... оно сияет ...'
     }
   },
 
   {
     name       : {en: 'Wartorn Mitts' },
     description: {
-      en: 'Some war general must have dropped these.....probably unintentionally too.',
-      ru: 'какой-то военный генерал, должно быть, уронил их ..... возможно, нечаянно.'
+      en: 'Some war general must have dropped these...probably unintentionally too.',
+      ru: 'какой-то военный генерал, должно быть, уронил их... возможно, нечаянно.'
     }
   },
 
@@ -83,16 +83,16 @@ export default [
   {
     name       : {en: 'Eternal Gauntlets' },
     description: {
-      en: 'Gloves sought by warriors for eras on end...at last....it is found.',
-      ru: 'Перчатки разыскиваются воинами на протяжении эпох ... наконец ... нашлись.'
+      en: 'Gloves sought by warriors for eras on end...at last...it is found.',
+      ru: 'Перчатки разыскиваются воинами на протяжении эпох... наконец... нашлись.'
     }
   },
 
   {
     name       : {en: 'Gloves of Midas' },
     description: {
-      en: 'Rumours say that a touch from these gloves turns your foes into gold......your hand is strangely heavy....',
-      ru: 'Слухи говорят, что прикосновение этих перчаток превращает твоих врагов в золото ...... твоя рука странно тяжелая ....'
+      en: 'Rumours say that a touch from these gloves turns your foes into gold...your hand is strangely heavy....',
+      ru: 'Слухи говорят, что прикосновение этих перчаток превращает твоих врагов в золото... твоя рука странно тяжелая ....'
     }
   },
 

@@ -48,8 +48,10 @@ const factions = [
 
 // Npcs
 import conjurer from './npcs/conjurer.js'
+import trader from './npcs/trader.js'
 const npcs = {
-  conjurer
+  conjurer,
+  trader
 }
 
 // User interface

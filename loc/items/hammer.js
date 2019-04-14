@@ -35,11 +35,11 @@ export default [
   {
     name       : {en: 'Orcish Bludgeon' },
     description: {
-      en: 'Orcs follow the wielder of this meager weapon. Its pretty useless, but they seem to like it....',
-      ru: 'Орки следуют за обладателем этого оружия. Oн довольно бесполезно, но им похоже нравится ......',
-      es: 'Los Orcos siguen al portador de esta magra arma. Es bastante inútil, pero parece que les gusta....',
-      de: 'Orks folgen dem Besitzer dieser mageren Waffe. Es ist ziemlich nutzlos, aber sie scheinen es zu mögen.....',
-      fr: 'Les Orques suivent le maître de cette maigre arme. C\'est plutôt inutile, mais ils ont l\'air d\'aimer ça....'
+      en: 'Orcs follow the wielder of this meager weapon. Its pretty useless, but they seem to like it...',
+      ru: 'Орки следуют за обладателем этого оружия. Oн довольно бесполезно, но им похоже нравится ...',
+      es: 'Los Orcos siguen al portador de esta magra arma. Es bastante inútil, pero parece que les gusta...',
+      de: 'Orks folgen dem Besitzer dieser mageren Waffe. Es ist ziemlich nutzlos, aber sie scheinen es zu mögen...',
+      fr: 'Les Orques suivent le maître de cette maigre arme. C\'est plutôt inutile, mais ils ont l\'air d\'aimer ça...'
     }
   },
 
@@ -57,11 +57,11 @@ export default [
   {
     name       : {en: 'Iron Basher' },
     description: {
-      en: 'Strange rod-like basher. Seems crude and emits a faint smell of druid oils....',
-      ru: 'Странный стержнеобразный башер. Кажется грубый и испускает слабый запах друидских масел ....',
-      es: 'Extraño golpeador en forma de varilla. Parece crudo y emite un ligero olor a aceite de druida......',
-      de: 'Seltsamer stabförmiger Schläger. Scheint roh zu sein und verströmt einen schwachen Geruch von Druidenölen.......',
-      fr: 'Étrange batteur en forme de baguette. Semble brut et émet une légère odeur d\'huile de druide......'
+      en: 'Strange rod-like basher. Seems crude and emits a faint smell of druid oils...',
+      ru: 'Странный стержнеобразный башер. Кажется грубый и испускает слабый запах друидских масел...',
+      es: 'Extraño golpeador en forma de varilla. Parece crudo y emite un ligero olor a aceite de druida...',
+      de: 'Seltsamer stabförmiger Schläger. Scheint roh zu sein und verströmt einen schwachen Geruch von Druidenölen...',
+      fr: 'Étrange batteur en forme de baguette. Semble brut et émet une légère odeur d\'huile de druide...'
     }
   },
 
@@ -90,8 +90,8 @@ export default [
   {
     name       : {en: 'Hallowed Hammer' },
     description: {
-      en: 'Holy tool used by druids to make sacrifices to the great god, Yggdrasil.',
-      ru: 'Святой инструмент, используемый друидами, чтобы приносить жертвы великому богу Иггдрасилю.',
+      en: 'Holy tool used by druids to make sacrifices the ancient nature gods.',
+      ru: 'Святой инструмент, используемый друидами, чтобы приносить жертвы древним богам природы.',
       es: 'Herramienta sagrada usada por los druidas para hacer sacrificios al gran dios, Yggdrasil.',
       de: 'Heiliges Werkzeug, das von Druiden benutzt wird, um dem großen Gott Yggdrasil Opfer zu bringen.',
       fr: 'Outil sacré utilisé par les druides pour faire des sacrifices au grand dieu, Yggdrasil.'
@@ -153,10 +153,10 @@ export default [
   {
     name       : {en: 'Hammer of Gaia' },
     description: {
-      en: 'Some say its made by dwarves, others say by elves......the truth is yet to be uncovered.',
-      ru: 'Некоторые говорят, что он сделано дварфами, другие говорят эльфами ...... правда еще не раскрыта.',
+      en: 'Some say its made by dwarves, others say by elves... the truth is yet to be uncovered.',
+      ru: 'Некоторые говорят, что он сделано дварфами, другие говорят эльфами... правда еще не раскрыта.',
       es: 'Madre Tierra da, y Madre Tierra quita. En este caso, dio.',
-      de: 'Einige sagen, dass es von Zwergen gemacht wurde, andere sagen, dass es von Elfen gemacht wurde.... die Wahrheit ist noch nicht enthüllt.',
+      de: 'Einige sagen, dass es von Zwergen gemacht wurde, andere sagen, dass es von Elfen gemacht wurde... die Wahrheit ist noch nicht enthüllt.',
       fr: 'Certains disent que c\'est fait par des nains, d\'autres par des elfes... la vérité na pas encore été découverte.'
     }
   },
