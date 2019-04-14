@@ -2,32 +2,38 @@ export default {
 
   showall: {
     en: 'Show All',
-    ru: 'Показать Все'
+    ru: 'Показать Все',
+    hi: 'सब दिखाए'
   },
 
   showclan: {
     en: 'Show Clan',
-    ru: 'Показать Клан'
+    ru: 'Показать Клан',
+    hi: 'दल से दिखाए'
   },
 
   showsystem: {
     en: 'Show System',
-    ru: 'Показать Систему'
+    ru: 'Показать Систему',
+    hi: 'सिस्टम से दिखाए'
   },
 
   loot: {
     en: 'Loot',
-    ru: 'Добыча'
+    ru: 'Добыча',
+    hi: 'लूट'
   },
 
   exp: {
     en: 'exp',
-    ru: 'опыт'
+    ru: 'опыт',
+    hi: 'ऐक्सपी'
   },
 
   pvp: {
     en: 'pvp',
-    ru: 'ипи'
+    ru: 'ипи',
+    hi: 'पिविपी'
   },
 
   // translations not needed
