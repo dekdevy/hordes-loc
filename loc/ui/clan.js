@@ -10,7 +10,7 @@ export default {
     ru: 'Покинуть Клан'
   },
 
-  clan: {
+  heading: {
     en: 'Clan',
     ru: 'Клан'
   },
@@ -25,12 +25,12 @@ export default {
     ru: 'Для создания клана вам нужно'
   },
 
-  clanname: {
+  createme: {
     en: 'Clan name',
     ru: 'Название клана'
   },
 
-  clantag: {
+  createtag: {
     en: 'Clan tag',
     ru: 'Тег клана'
   },
