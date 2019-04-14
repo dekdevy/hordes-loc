@@ -6,10 +6,9 @@ export default {
     },
     choices: {
       en: 'Yes, of course.',
-      en: 'No, I will come back later.',
-      es: 'No, volveré más tarde.',
-      de: 'Nein, ich komme später wieder.',
-      fr: 'Non, je reviendrai plus tard.'
+      es: 'Sí, por supuesto.',
+      de: 'Ja, natürlich.',
+      fr: 'Oui, bien sûr, bien sûr.'
     }
   }]
 }
