@@ -28,7 +28,7 @@ export default [
       ru: 'Удивительно, но он не пахнет рыбой. Просто не показывай ему пресную воду.',
       es: 'Sorprendentemente, no huele a pescado. No lo muestres a agua dulce.',
       de: 'Überraschenderweise riecht es nicht nach Fisch. Zeigen Sie es einfach nicht im Süßwasser.',
-      fr: 'Étonnamment, ça ne sent pas le poisson. Ne le montre pas en eau douce.'
+      fr: 'Étonnamment, il ne sent pas le poisson. Ne lui montre pas de l\'eau de douce.'
     }
   },
 
@@ -39,7 +39,7 @@ export default [
       ru: 'Не могу произнести, не могу использовать.',
       es: 'No puedo pronunciarlo, ni puedo usarlo.',
       de: 'Ich kann es nicht aussprechen, ich kann es nicht benutzen.',
-      fr: 'Je ne peux pas le prononcer, je ne peux pas l\'utiliser.'
+      fr: 'Si je ne peux pas le prononcer, je ne peux pas l\'utiliser.'
     }
   },
 

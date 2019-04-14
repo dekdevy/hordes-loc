@@ -12,8 +12,8 @@ export default [
   {//T2
     name       : {en: 'Makeshift Brace' },
     description: {
-      en: 'A little more advanced, not by much though.',
-      ru: 'Немного более продвинутый, но не намного.',
+      en: 'Skilled hands made an intricate job at making this homemade cuff.',
+      ru: 'Опытные руки сделали сложную работу по изготовлению этой самадельной нарукавника.',
       es: 'Pulsera avanzada de cuero.',
       fr: 'Un peu plus avancé, pas beaucoup cependant'
     }
@@ -32,9 +32,9 @@ export default [
   {//T4
     name       : {en: 'Ivory Bracelet' },
     description: {
+      en: 'Elegant cuff made from the tusks of the last mammonth.',
       ru: 'Элегантная манжета из бивней последнего мамонта.',
       es: 'Un pulsera elegante creado con el comillo del elefante final.',
-      en: 'Elegant cuff made from the tusks of the last mammoth.',
       fr: 'Menottes élégant fait à partir des défenses de mammouths'
     }
   },
@@ -72,10 +72,10 @@ export default [
   {//T8
     name       : {en: 'Mirrored Armlet' },
     description: {
-      en: 'Blinds your foes with a magical shine off a devious magicians mirror......',
-      ru: 'Ослепляет ваших врагов волшебным блеском с коварного зеркалoм мага ......',
+      en: 'Blinds your foes with a magical shine off a devious magicians mirror...',
+      ru: 'Ослепляет ваших врагов волшебным блеском с коварного зеркалoм мага ...',
       es: 'Un espejo por su muñeca. Lo usas para cegar sus enemigos.',
-      fr: 'Aveugle vos ennemis avec un éclat magique sur un miroir de magiciens sournois.....'
+      fr: 'Aveugle vos ennemis avec un éclat magique sur un miroir de magiciens sournois...'
     }
   },
 
@@ -102,10 +102,10 @@ export default [
   {//T11
     name       : {en: 'Blackstar Gem' },
     description: {
-      en: 'Stars are not often black, yet this fragment has a.......deep.......deep darkness.',
-      ru: 'Звезды не часто черные, но этот фрагмент имеет ....... глубокую ....... глубокую тьму.',
+      en: 'Stars are not often black, yet this fragment has a....deep... deep darkness.',
+      ru: 'Звезды не часто черные, но этот фрагмент имеет ... глубокую ... глубокую тьму.',
       es: 'Completamente hecho con piezas de estrellas de neutrón: denso, duro, poderoso.',
-      fr: 'Les étoiles ne sont pas souvent noires, mais ce fragment a une.......profund....... obscurité profonde.'
+      fr: 'Les étoiles ne sont pas souvent noires, mais ce fragment a une... profund... obscurité profonde.'
     }
   },
 
