@@ -25,7 +25,7 @@ export default {
     ru: 'Для создания клана вам нужно'
   },
 
-  createme: {
+  createname: {
     en: 'Clan name',
     ru: 'Название клана'
   },
