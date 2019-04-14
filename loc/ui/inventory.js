@@ -2,6 +2,7 @@ export default {
 
   name: {
     en: 'inventory',
-    ru: 'инвентарь'
+    ru: 'инвентарь',
+    hi: 'वस्तुसूची'
   }
 }
