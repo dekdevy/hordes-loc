@@ -4,7 +4,6 @@ export default [
     description: {
       en: 'Weapon forged by the greatest blacksmith of all the land. At least thats what we told little Timmy.',
       hi: 'क्षेत्र के सबसे महान लोहार द्वारा बनाया गया हथियार। नन्हें टिम्मी से तो हमने यही कहा।',
-      en: 'Weapon forged by the greatest blacksmith of all the land. At least that\'s what we told little Timmy.',
       ru: 'Оружие, выкованное величайшим кузнецом из всей земли. По крайней мере, так мы сказали маленькому Тимми.',
       es: 'Este es un palo normal. Pero ¿estás seguro que solo es un palo normal?',
       de: 'Die Waffe wurde vom größten Schmied des Landes geschmiedet. Zumindest haben wir dem kleinen Timmy das gesagt.',
@@ -39,7 +38,6 @@ export default [
     description: {
       en: 'A wand cut from the branches of an ancient oak. Infused with deep power.',
       hi: 'प्राचीन पेड की डाल से बनी छड़ी। ',
-      en: 'A wand cut from the branches of an anceint oak. Infused with deep power.',
       ru: 'Палочка, вырезанная из ветвей древнего дуба. Обладает глубокой силой.',
       es: 'Una varita cortada de las ramas de un arce anciano. Tiene gran poder canadiense.',
       de: 'Ein Zauberstab, der aus den Zweigen einer kastanienbraunen Eiche geschnitten wurde. Durchdrungen von tiefer Kraft.',
