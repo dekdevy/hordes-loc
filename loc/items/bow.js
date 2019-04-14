@@ -49,7 +49,7 @@ export default [
     description: {
       en: 'Put together with the bones of... somebody?',
       ru: 'Cобран из костей ... кого-нибудь?',
-      de: 'Zusammen mit den Knochen von.... jemandem?',
+      de: 'Zusammen mit den Knochen von... jemandem?',
       es: '¿Colocado con los huesos de... alguien?',
       fr: 'Avec les os de... quelqu\'un?'
     }
@@ -124,11 +124,11 @@ export default [
   { // T12 item
     name       : { en: 'Hellfire Warbow' },
     description: {
-      en: 'What is it? Is it ice? The world may never know....',
-      ru: 'Что это? Это лед? Мир может никогда не узнать ....',
-      de: 'Was ist das? Was ist das? Ist es Eis? Die Welt wird es vielleicht nie erfahren....',
-      es: '¿Qué es esto? ¿Es hielo? El mundo tal vez nunca lo sepa....',
-      fr: 'Qu\'est-ce que c\'est ? C\'est de la glace ? Le monde ne le saura peut-être jamais....'
+      en: 'What is it? Is it ice? The world may never know...',
+      ru: 'Что это? Это лед? Мир может никогда не узнать ...',
+      de: 'Was ist das? Was ist das? Ist es Eis? Die Welt wird es vielleicht nie erfahren...',
+      es: '¿Qué es esto? ¿Es hielo? El mundo tal vez nunca lo sepa...',
+      fr: 'Qu\'est-ce que c\'est ? C\'est de la glace ? Le monde ne le saura peut-être jamais...'
     }
   },
 
