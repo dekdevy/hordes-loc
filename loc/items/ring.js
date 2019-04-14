@@ -16,7 +16,8 @@ export default [
       en: 'Not sure about the bark, but its definitely made of iron.',
       ru: 'Не уверен насчет коры, но оно определена зделана из железы.',
       es: 'No estoy seguro de la corteza, pero definitivamente es de hierro.',
-      de: 'Nicht sicher über die Rinde, aber sно оно определена зделана из железы\'est du fer.'
+      de: 'Nicht sicher über die Rinde, aber sно оно определена зделана из железы\'est du fer.',
+      fr: 'Bague rudimentaire faite de bois surnommé «écorce de fer».'
     }
   },
 
@@ -49,7 +50,7 @@ export default [
       ru: 'Эльфы сделали это кольцо, чтобы защитить себя от опасности, и удалось отдать его',
       es: 'Los elfos hicieron este anillo para protegerse del peligro y lograron regalarlo.',
       de: 'Die Elfen bauten diesen Ring, um sich vor Gefahren zu schützen, und es gelang ihnen, ihn wegzugeben.',
-      fr: 'Les elfes ont fabriqué cet anneau pour se protéger du danger et ont réussi à le donner.'
+      fr: 'Les elfes ont fabriqué cet anneau pour se protéger du danger et ont réussi à le léguer.'
     }
   },
 
@@ -60,7 +61,7 @@ export default [
       ru: 'Хорошо вписывается, хотя эффекты, которые он дает, незначительны.',
       es: 'Encaja bien, aunque los efectos que produce son marginales.',
       de: 'Passt gut, auch wenn die Wirkung gering ist.',
-      fr: 'Elle convient bien, bien que les effets qu\'elle produit soient marginaux.'
+      fr: 'S\'ajuste convenablement au doigt, bien que les effets qu\'elle produit soient marginaux.'
     }
   },
 
@@ -82,7 +83,7 @@ export default [
       ru: 'Изумруды со всех сторон, чтобы вы чувствовали себя богатыми.',
       es: 'Esmeraldas por todos lados para que te sientas rico.',
       de: 'Smaragde auf allen Seiten, damit Sie sich reich fühlen.',
-      fr: 'Des émeraudes de tous les côtés pour vous faire sentir riche.'
+      fr: 'Incrustée d\'émeraudes pour vous faire sentir riche.'
     }
   },
 
@@ -115,7 +116,7 @@ export default [
       ru: 'Священный артефакт, потерянный святыми друидами.',
       es: 'Artefacto sagrado perdido por druidas sagrados.',
       de: 'Heiliges Artefakt, das von heiligen Druiden verloren wurde.',
-      fr: 'Artefact sacré perdu par les druides sacrés.'
+      fr: 'Artefact sacré perdu par des saints druides.'
     }
   },
 
@@ -126,7 +127,7 @@ export default [
       ru: 'Хранитель мира .... не уверен в этом, но он может подержать тебя в живых ....',
       es: 'Guardián de la paz.... no estoy seguro de eso, pero podría mantenerte vivo.',
       de: 'Hüter des Friedens.... nicht sicher, aber vielleicht hält dich das am Leben.',
-      fr: 'Gardien de la paix.... pas sûr de ça, mais ça pourrait vous garder en vie.'
+      fr: 'Gardien de la paix.... pas sûr de ça, mais elle pourrait vous garder en vie.'
     }
   }
 
