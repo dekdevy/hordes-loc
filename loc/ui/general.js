@@ -13,9 +13,9 @@ export default {
     en: 'Back',
     se: 'Bakåt',
     ru: 'Назад',
-    de: 'zurück',
     hi: 'पिछला',
     fr: 'Retour',
+    de: 'Zurück',
     es: 'Regresar'
   }
 }
