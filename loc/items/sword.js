@@ -112,7 +112,7 @@ export default [
     description: {
       en: 'Cylindrical sword stolen from an ancient king. Cutting capability is questionable.',
       ru: 'Цилиндрический меч украден у древнего короля. Возможность резки сомнительна.',
-      fr: 'Épée cylindrique volée à un ancien roi. Sa capacité à trancher reste questionnable.', 
+      fr: 'Épée cylindrique volée à un ancien roi. Sa capacité à trancher reste questionnable.',
       es: 'Espada cilíndrica robada a un antiguo rey. La capacidad de corte es cuestionable.',
       de: 'Zylindrisches Schwert, das einem alten König gestohlen wurde. Die Schneidfähigkeit ist fragwürdig.'
     }
@@ -124,7 +124,6 @@ export default [
       en: 'Poweful masterpiece brought from the underworld.',
       ru: 'Мощный шедевр привезен из подземного мира.',
       fr: 'Une puissante merveille livrée par les enfers elles-mêmes.',
-      ru: 'Мощный шедевр привезен из подземного мира.',
       de: 'Ein mächtiges Meisterwerk aus der Unterwelt.'
     }
   },
