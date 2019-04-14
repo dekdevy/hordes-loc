@@ -17,7 +17,6 @@ export default [
       en: 'You feel less skilled just by holding this in your hands.',
       ru: 'Вы чувствуете себя менее опытным, просто держа его в своих руках',
       fr: 'On se sent moins doué rien qu\'en tenant cet arc.',
-      ru: 'Вы чувствуете себя менее опытным, просто держа его в своих руках.',
       de: 'Du fühlst dich weniger geschickt, nur weil du das in deinen Händen hältst.',
       es: 'Te sientes menos hábil con sólo sostener esto en tus manos.'
     }
