@@ -59,7 +59,7 @@ export default {
       en: 'Press an icon for a brief description.',
       se: 'Klicka en ikon för beskrivning.',
       ru: 'Нажмите на иконку, чтобы увидеть краткое описание.',
-      es: 'Pulse un icono para obtener una breve descripción.',
+      es: 'Pulse un icono para obtener una descripción breve.',
       de: 'Drücken Sie ein Symbol für eine Kurzbeschreibung.',
       fr: 'Appuyez sur une icône pour une brève description.'
     },
