@@ -42,7 +42,7 @@ export default {
     fr: 'Pour créer un clan, on requiert',
     hi: 'दल बनाने के लिए आपको ज़रूरत है',
     es: 'Para crear un clan necesitas',
-    de: 'Um einen Clan zu erstellen, brauchst du
+    de: 'Um einen Clan zu erstellen, brauchst du'
   },
 
   createname: {
