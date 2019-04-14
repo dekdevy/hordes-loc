@@ -9,7 +9,7 @@ export default {
       ru: 'Выберите Персонажа',
       fr: 'Sélectionnez un personnage',
       es: 'Seleccione Carácter',
-      de: 'Charakter auswählen',
+      de: 'Charakter auswählen'
     },
     create: {
       en: 'Click to create character',
