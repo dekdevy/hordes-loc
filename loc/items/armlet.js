@@ -2,11 +2,12 @@ export default [
   {//T1
     name       : {en: 'Simple Bracelet' },
     description: {
-      en: 'Cheap leather band bought by an ambitious farmer',
+      en: 'Cheap leather band bought by an ambitious farmer.',
       ru: 'Дешевый кожаный ремешок, купленный амбициозным фермером',
       es: 'Pulsera de cuero hecho por unos racheros.',
       fr: 'Bracelet en cuir bon marché acheté par un agriculteur ambitieux',
-      de: 'Billiges Lederband, das von einem ehrgeizigen Bauern gekauft wurde.'
+      de: 'Billiges Lederband, das von einem ehrgeizigen Bauern gekauft wurde.',
+      pt: 'Banda de couro barato comprada por um fazendeiro ambicioso.'
     }
   },
 
@@ -17,7 +18,8 @@ export default [
       ru: 'Опытные руки сделали сложную работу по изготовлению этой самадельной нарукавника.',
       es: 'Pulsera avanzada de cuero.',
       fr: 'Un peu plus avancé, pas beaucoup cependant',
-      de: 'Geschickte Hände machten einen komplizierten Job bei der Herstellung dieser selbstgemachten Manschette.'
+      de: 'Geschickte Hände machten einen komplizierten Job bei der Herstellung dieser selbstgemachten Manschette.',
+      pt: 'Mãos habilidosas fizeram um trabalho complicado em fazer esta algema caseira.'
     }
   },
 
@@ -28,7 +30,8 @@ export default [
       ru: 'Жесткая, твоя рука уже болит.',
       es: 'Mas cuero. Todo es cuero. Nesecitas una chaqueta de cuero para ser completo.',
       fr: 'Rigide, rend le bras douloureux',
-      de: 'Steif, macht deinen Arm wund.'
+      de: 'Steif, macht deinen Arm wund.',
+      pt: 'Rígido, dói-te o braço.'
     }
   },
 
@@ -39,7 +42,8 @@ export default [
       ru: 'Элегантная манжета из бивней последнего мамонта.',
       es: 'Un pulsera elegante creado con el comillo del elefante final.',
       fr: 'Menottes élégant fait à partir des défenses de mammouths',
-      de: 'Elegante Manschette aus den Stoßzähnen des letzten Mammuts.'
+      de: 'Elegante Manschette aus den Stoßzähnen des letzten Mammuts.',
+      pt: 'Elegante punho feito das presas do último mamute.'
     }
   },
 
@@ -50,7 +54,8 @@ export default [
       ru: 'Тяжело на твоей руке ..... стоит защиты.',
       es: 'Pesado, pero vale la pena.',
       fr: 'Lourd sur votre bras ..... vaut la protection',
-      de: 'Schwer auf dem Arm.......den Schutz wert.'
+      de: 'Schwer auf dem Arm.......den Schutz wert.',
+      pt: 'Pesado no braço.... vale a protecção.'
     }
   },
 
@@ -61,7 +66,8 @@ export default [
       ru: 'Унылый металлический браслет, удобный для ночных рейдов.',
       es: 'Perfecto para correr en la noche, el color del metal está apagado.',
       fr: 'Terne métal remontant, maniable pour les raids nocturnes',
-      de: 'Matte Metallarmschiene, praktisch für nächtliche Raubzüge.'
+      de: 'Matte Metallarmschiene, praktisch für nächtliche Raubzüge.',
+      pt: 'Braçadeira de metal aborrecida, útil para raides nocturnos.'
     }
   },
 
@@ -72,7 +78,8 @@ export default [
       ru: 'Чешуйчатый наруч, делает ваши руки похожими на руки дракона.',
       es: 'Con brazos de dragones, puedes resistir todo.',
       fr: 'Remontant en écailles, cela fait ressembler vos bras à ceux d\'un dragon.',
-      de: 'Schuppiger Armschutz, lässt deine Arme an die eines Drachens erinnern.'
+      de: 'Schuppiger Armschutz, lässt deine Arme an die eines Drachens erinnern.',
+      pt: 'Braçadeira escamada, faz com que os teus braços se pareçam com os de um dragão.'
     }
   },
 
@@ -83,7 +90,8 @@ export default [
       ru: 'Ослепляет ваших врагов волшебным блеском с коварного зеркалoм мага ...',
       es: 'Un espejo por su muñeca. Lo usas para cegar sus enemigos.',
       fr: 'Aveugle vos ennemis avec un éclat magique sur un miroir de magiciens sournois...',
-      de: 'Blinds Ihre Feinde mit einem magischen Glanz von einem teuflischen Magierspiegel.....'
+      de: 'Blinds Ihre Feinde mit einem magischen Glanz von einem teuflischen Magierspiegel.....',
+      pt: 'Cega os teus inimigos com um brilho mágico de um espelho de mágicos diabólicos...'
     }
   },
 
@@ -94,7 +102,8 @@ export default [
       ru: 'Архаичные стражи оставили остатки своего прохождения, которые вы бессовестно решили надеть на руку.',
       es: 'Un fragmento de los servientes de los archimagos de la era pasada. Has decido pónertelo porque... razones.',
       fr: 'Les gardiens archaïques ont laissé des restes de leur passage, que vous avez sans scrupule décidé de porter sur votre bras.',
-      de: 'Die archaischen Wächter hinterließen Überreste ihres Todes, die du skrupellos auf deinem Arm getragen hast.'
+      de: 'Die archaischen Wächter hinterließen Überreste ihres Todes, die du skrupellos auf deinem Arm getragen hast.',
+      pt: 'Os guardiões arcaicos deixaram vestígios de sua passagem, que você, sem escrúpulos, decidiu usar em seu braço.'
     }
   },
 
@@ -105,7 +114,8 @@ export default [
       ru: 'Обманчиво легкая сталь предлагает охлаждающую защиту от подлых ударов.',
       fr: 'L\'acier léger trompeur offre la protection contre les coups sournois.',
       es: 'El acero es engañosamente ligero y te ofrece protección frígido contra golpes furtivos.',
-      de: 'Der trügerisch leichte Stahl bietet Kühlungsschutz gegen raffinierte Schläge.'
+      de: 'Der trügerisch leichte Stahl bietet Kühlungsschutz gegen raffinierte Schläge.',
+      pt: 'O aço leve e enganosamente leve oferece proteção contra golpes furtivos.'
     }
   },
 
@@ -116,7 +126,8 @@ export default [
       ru: 'Звезды не часто черные, но этот фрагмент имеет ... глубокую ... глубокую тьму.',
       es: 'Completamente hecho con piezas de estrellas de neutrón: denso, duro, poderoso.',
       fr: 'Les étoiles ne sont pas souvent noires, mais ce fragment a une... profund... obscurité profonde.',
-      de: 'Sterne sind nicht oft schwarz, aber dieses Fragment hat eine....tiefe...tiefe...tiefe Dunkelheit.'
+      de: 'Sterne sind nicht oft schwarz, aber dieses Fragment hat eine....tiefe...tiefe...tiefe Dunkelheit.',
+      pt: 'As estrelas não são frequentemente negras, mas este fragmento tem uma... profunda... profunda escuridão.'
     }
   },
 
@@ -127,7 +138,8 @@ export default [
       ru: 'Перекован, потерян, найден, украден, спрятан на века без конца.',
       es: 'Roto, rehecho, recubierto, robado, perdido por eras sin fin.',
       fr: 'Reforgé, perdu, trouvé, volé, caché pour des ères sans fin.',
-      de: 'Aufgearbeitet, verloren, gefunden, gestohlen, versteckt für unendliche Zeiten.'
+      de: 'Aufgearbeitet, verloren, gefunden, gestohlen, versteckt für unendliche Zeiten.',
+      pt: 'Reforgado, perdido, encontrado, roubado, escondido por eras sem fim.'
     }
   },
 
@@ -138,7 +150,8 @@ export default [
       ru: 'Этот предмет был выкован в полнолуние, когда в шепот темноты раздавались таинственные заклинания. Некоторые говорят, что это был сам Анубис, говорящий с мертвыми.',
       es: 'Forjado durante la plenilunia cuando incantaciones misteriosas fueron oído en los susurros de la oscurridad. Algunos dicen que era Anuvis mismo hablando con la muerte.',
       fr: 'Cet article a été forgé à la pleine lune quand des incantations mystérieuses ont été entendues dans les murmures de l\'obscurité. Certains disent que c\'était Anubis lui-même parlant avec les morts',
-      de: 'Dieser Gegenstand wurde bei Vollmond geschmiedet, als im Flüstern der Dunkelheit mysteriöse Beschwörungen zu hören waren. Einige sagen, dass es Anubis selbst war, der mit den Toten sprach.'
+      de: 'Dieser Gegenstand wurde bei Vollmond geschmiedet, als im Flüstern der Dunkelheit mysteriöse Beschwörungen zu hören waren. Einige sagen, dass es Anubis selbst war, der mit den Toten sprach.',
+      pt: 'Este item foi forjado na lua cheia quando encantamentos misteriosos foram ouvidos nos sussurros da escuridão. Alguns dizem que foi o próprio Anubis falando com os mortos.'
     }
   }
 

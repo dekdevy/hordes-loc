@@ -125,7 +125,7 @@ export default [
   {
     name       : {en: 'Infernal Staff' },
     description: {
-      en: 'Constructed by unknwon blacksmiths residing in fabled valleys.',
+      en: 'Constructed by unknown blacksmiths residing in fabled valleys.',
       ru: 'Построен неизвестными кузнецами, живущими в сказочных долинах.',
       es: 'Construido por herreros desconocidos que residen en valles legendarios.',
       fr: 'Confectionné par des forgerons inconnus résidant dans des vallées légendaires.'
@@ -171,7 +171,7 @@ export default [
     description: {
       en: 'We are told it\'s core is from the heart of a witch. No one has found the corpse. Or the staff itself.',
       ru: 'Нам говорят, что его ядро ​​от сердца ведьмы. Никто не нашел труп. Или сам посох.',
-      es: 'Se nos dice que su núcleo es del corazón de una bruja. Nadie ha encontrado el cadáver. O el propio personal.',
+      es: 'Se nos dice que su núcleo es del corazón de una bruja. Nadie ha encontrado el cadáver. O el varita sí mismo.',
       de: 'Uns wurde gesagt, dass sein Kern aus dem Herzen einer Hexe stammt. Niemand hat die Leiche gefunden. Oder das Personal selbst.',
       fr: 'On nous dit que son coeur est celui d\'une sorcière. Personne n\'en a retrouvé le cadavre. Ou la baguette elle-même.'
     }
@@ -182,7 +182,7 @@ export default [
     description: {
       en: 'This weapon is so secretive that the few who wield it have killed all that know of it.',
       ru: 'Это оружие настолько скрытно, что те, кто владеют им, убили всех, кто о нем знает.',
-      es: 'Se dicen que nadie se queda vivo para contar de este arco, pero... ¿de dónde viene las historias?',
+      es: 'Se dicen que nadie se queda vivo para contar de este varita, pero... ¿de dónde viene las historias?',
       de: 'Diese Waffe ist so geheimnisvoll, dass die wenigen, die sie führen, alle getötet haben, die von ihr wissen.',
       fr: 'Cette arme est si secrète que les quelques personnes qui la manie ont tué tous ceux qui la connaissent.'
     }

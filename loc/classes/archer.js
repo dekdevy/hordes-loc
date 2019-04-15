@@ -7,7 +7,8 @@ export default {
     ru: 'Лучник',
     ko: '궁수',
     es: 'Arquero',
-    fr: 'Archer'
+    fr: 'Archer',
+    pt: 'Arqueiro'
   },
   // Class description, visible during character creation
   description: {
@@ -17,6 +18,7 @@ export default {
     ru: 'Лучники наносят высокий урон по одиночной цели и взрывной урон по области. Хороший лучник всегда будет держать дистанцию и отстреливать врагов издалека.',
     ko: '궁수는 높은 단일 타겟 데미지와 버스트 에어리어 피해를줍니다. 좋은 궁수는 먼 거리에서 항상 적을 공격합니다.',
     es: 'Los arqueros hacen daño increíble con sus flechas y pueden disparar muchos flechos a una vez con daño explosivo. La estregia mejor es evitar los enemigos y atacar a lo lejos',
-    fr: 'Les archers infligent des dégâts élevés sur une cible précise et des dégâts de zone importants. Un bon archer garde toujours ses distances et élimine ses ennemis de loin.'
+    fr: 'Les archers infligent des dégâts élevés sur une cible précise et des dégâts de zone importants. Un bon archer garde toujours ses distances et élimine ses ennemis de loin.',
+    pt: 'Arqueiros causam danos altos a um único alvo e danos na Área de Efeito. Um bom arqueiro sempre manterá sua distância e snipe inimigos de longe.'
   }
 }
