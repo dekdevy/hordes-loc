@@ -3,11 +3,11 @@ export default [
     name       : {en: 'Simple Bracelet' },
     description: {
       en: 'Cheap leather band bought by an ambitious farmer.',
-      ru: 'Дешевый кожаный ремешок, купленный амбициозным фермером',
+      ru: 'Дешевый кожаный ремешок, купленный амбициозным фермером.',
       es: 'Pulsera de cuero hecho por unos racheros.',
-      fr: 'Bracelet en cuir bon marché acheté par un agriculteur ambitieux',
+      fr: 'Bracelet en cuir bon marché acheté par un agriculteur ambitieux.',
       de: 'Billiges Lederband, das von einem ehrgeizigen Bauern gekauft wurde.',
-      pt: 'Banda de couro barato comprada por um fazendeiro ambicioso.'
+      it: 'Cinturino in pelle a buon mercato comprato da un ambizioso contadino.'
     }
   },
 
@@ -17,9 +17,9 @@ export default [
       en: 'Skilled hands made an intricate job at making this homemade cuff.',
       ru: 'Опытные руки сделали сложную работу по изготовлению этой самадельной нарукавника.',
       es: 'Pulsera avanzada de cuero.',
-      fr: 'Un peu plus avancé, pas beaucoup cependant',
+      fr: 'Un peu plus avancé, pas beaucoup cependant.',
       de: 'Geschickte Hände machten einen komplizierten Job bei der Herstellung dieser selbstgemachten Manschette.',
-      pt: 'Mãos habilidosas fizeram um trabalho complicado em fazer esta algema caseira.'
+      it: 'Mani esperte hanno fatto un intricato lavoro nel realizzare questo bracciale fatto in casa.'
     }
   },
 
@@ -29,9 +29,9 @@ export default [
       en: 'Stiff, makes your arm sore.',
       ru: 'Жесткая, твоя рука уже болит.',
       es: 'Mas cuero. Todo es cuero. Nesecitas una chaqueta de cuero para ser completo.',
-      fr: 'Rigide, rend le bras douloureux',
+      fr: 'Rigide, rend le bras douloureux.',
       de: 'Steif, macht deinen Arm wund.',
-      pt: 'Rígido, dói-te o braço.'
+      it: 'Rigido, ti fa male al braccio.'
     }
   },
 
@@ -43,19 +43,19 @@ export default [
       es: 'Un pulsera elegante creado con el comillo del elefante final.',
       fr: 'Menottes élégant fait à partir des défenses de mammouths',
       de: 'Elegante Manschette aus den Stoßzähnen des letzten Mammuts.',
-      pt: 'Elegante punho feito das presas do último mamute.'
+      it: 'Elegante polsino realizzato con le zanne dell\'ultimo mammut.'
     }
   },
 
   {//T5
     name       : {en: 'Iron Vambrace' },
     description: {
-      en: 'Heavy on your arm.....worth the protection.',
-      ru: 'Тяжело на твоей руке ..... стоит защиты.',
+      en: 'Heavy on your arm... worth the protection.',
+      ru: 'Тяжело на твоей руке... стоит защиты.',
       es: 'Pesado, pero vale la pena.',
-      fr: 'Lourd sur votre bras ..... vaut la protection',
-      de: 'Schwer auf dem Arm.......den Schutz wert.',
-      pt: 'Pesado no braço.... vale a protecção.'
+      fr: 'Lourd sur votre bras... vaut la protection.',
+      de: 'Schwer auf dem Arm... den Schutz wert.',
+      it: 'Pesante sul braccio... vale la pena proteggerlo.'
     }
   },
 
@@ -65,9 +65,9 @@ export default [
       en: 'Dull metal bracer, handy for nighttime raiding.',
       ru: 'Унылый металлический браслет, удобный для ночных рейдов.',
       es: 'Perfecto para correr en la noche, el color del metal está apagado.',
-      fr: 'Terne métal remontant, maniable pour les raids nocturnes',
+      fr: 'Terne métal remontant, maniable pour les raids nocturnes.',
       de: 'Matte Metallarmschiene, praktisch für nächtliche Raubzüge.',
-      pt: 'Braçadeira de metal aborrecida, útil para raides nocturnos.'
+      it: 'Bracciale in metallo opaco, comodo per i raid notturni.'
     }
   },
 
@@ -79,19 +79,19 @@ export default [
       es: 'Con brazos de dragones, puedes resistir todo.',
       fr: 'Remontant en écailles, cela fait ressembler vos bras à ceux d\'un dragon.',
       de: 'Schuppiger Armschutz, lässt deine Arme an die eines Drachens erinnern.',
-      pt: 'Braçadeira escamada, faz com que os teus braços se pareçam com os de um dragão.'
+      it: 'Bracciale in scala, fa sì che le tue braccia assomigliano a quelle di un drago.'
     }
   },
 
   {//T8
     name       : {en: 'Mirrored Armlet' },
     description: {
-      en: 'Blinds your foes with a magical shine off a devious magicians mirror...',
-      ru: 'Ослепляет ваших врагов волшебным блеском с коварного зеркалoм мага ...',
+      en: 'Blinds your foes with a magical shine off a devious magician\'s mirror...',
+      ru: 'Ослепляет ваших врагов волшебным блеском с коварного зеркалoм мага...',
       es: 'Un espejo por su muñeca. Lo usas para cegar sus enemigos.',
       fr: 'Aveugle vos ennemis avec un éclat magique sur un miroir de magiciens sournois...',
-      de: 'Blinds Ihre Feinde mit einem magischen Glanz von einem teuflischen Magierspiegel.....',
-      pt: 'Cega os teus inimigos com um brilho mágico de um espelho de mágicos diabólicos...'
+      de: 'Blinds Ihre Feinde mit einem magischen Glanz von einem teuflischen Magierspiegel...',
+      it: 'Acceca i tuoi nemici con una luce magica dallo specchio di un mago subdolo...'
     }
   },
 
@@ -103,7 +103,7 @@ export default [
       es: 'Un fragmento de los servientes de los archimagos de la era pasada. Has decido pónertelo porque... razones.',
       fr: 'Les gardiens archaïques ont laissé des restes de leur passage, que vous avez sans scrupule décidé de porter sur votre bras.',
       de: 'Die archaischen Wächter hinterließen Überreste ihres Todes, die du skrupellos auf deinem Arm getragen hast.',
-      pt: 'Os guardiões arcaicos deixaram vestígios de sua passagem, que você, sem escrúpulos, decidiu usar em seu braço.'
+      it: 'I guardiani arcaici hanno lasciato i resti del loro passaggio, che avete deciso senza scrupoli di indossare sul vostro braccio.'
     }
   },
 
@@ -115,19 +115,19 @@ export default [
       fr: 'L\'acier léger trompeur offre la protection contre les coups sournois.',
       es: 'El acero es engañosamente ligero y te ofrece protección frígido contra golpes furtivos.',
       de: 'Der trügerisch leichte Stahl bietet Kühlungsschutz gegen raffinierte Schläge.',
-      pt: 'O aço leve e enganosamente leve oferece proteção contra golpes furtivos.'
+      it: 'L\'acciaio ingannevolmente leggero offre una protezione frigorifera contro i colpi subdoli.'
     }
   },
 
   {//T11
     name       : {en: 'Blackstar Gem' },
     description: {
-      en: 'Stars are not often black, yet this fragment has a....deep... deep darkness.',
-      ru: 'Звезды не часто черные, но этот фрагмент имеет ... глубокую ... глубокую тьму.',
+      en: 'Stars are not often black, yet this fragment has a... deep... deep darkness.',
+      ru: 'Звезды не часто черные, но этот фрагмент имеет... глубокую... глубокую тьму.',
       es: 'Completamente hecho con piezas de estrellas de neutrón: denso, duro, poderoso.',
       fr: 'Les étoiles ne sont pas souvent noires, mais ce fragment a une... profund... obscurité profonde.',
-      de: 'Sterne sind nicht oft schwarz, aber dieses Fragment hat eine....tiefe...tiefe...tiefe Dunkelheit.',
-      pt: 'As estrelas não são frequentemente negras, mas este fragmento tem uma... profunda... profunda escuridão.'
+      de: 'Sterne sind nicht oft schwarz, aber dieses Fragment hat eine... tiefe... tiefe... tiefe Dunkelheit.',
+      it: 'Le stelle non sono spesso nere, eppure questo frammento ha un... profondo... buio profondo.'
     }
   },
 
@@ -139,7 +139,7 @@ export default [
       es: 'Roto, rehecho, recubierto, robado, perdido por eras sin fin.',
       fr: 'Reforgé, perdu, trouvé, volé, caché pour des ères sans fin.',
       de: 'Aufgearbeitet, verloren, gefunden, gestohlen, versteckt für unendliche Zeiten.',
-      pt: 'Reforgado, perdido, encontrado, roubado, escondido por eras sem fim.'
+      it: 'Riformato, perso, trovato, rubato, nascosto per epoche senza fine.'
     }
   },
 
@@ -149,9 +149,9 @@ export default [
       en: 'This item was forged on a full moon when mysterious incantations were heard in the whispers of the dark. Some say that it was Anubis himself speaking with the dead.',
       ru: 'Этот предмет был выкован в полнолуние, когда в шепот темноты раздавались таинственные заклинания. Некоторые говорят, что это был сам Анубис, говорящий с мертвыми.',
       es: 'Forjado durante la plenilunia cuando incantaciones misteriosas fueron oído en los susurros de la oscurridad. Algunos dicen que era Anuvis mismo hablando con la muerte.',
-      fr: 'Cet article a été forgé à la pleine lune quand des incantations mystérieuses ont été entendues dans les murmures de l\'obscurité. Certains disent que c\'était Anubis lui-même parlant avec les morts',
+      fr: 'Cet article a été forgé à la pleine lune quand des incantations mystérieuses ont été entendues dans les murmures de l\'obscurité. Certains disent que c\'était Anubis lui-même parlant avec les morts.',
       de: 'Dieser Gegenstand wurde bei Vollmond geschmiedet, als im Flüstern der Dunkelheit mysteriöse Beschwörungen zu hören waren. Einige sagen, dass es Anubis selbst war, der mit den Toten sprach.',
-      pt: 'Este item foi forjado na lua cheia quando encantamentos misteriosos foram ouvidos nos sussurros da escuridão. Alguns dizem que foi o próprio Anubis falando com os mortos.'
+      it: 'Questo oggetto è stato forgiato su una luna piena quando misteriosi incantesimi sono stati ascoltati nei sussurri del buio. Alcuni dicono che sia stato Anubi stesso a parlare con i morti.'
     }
   }
 
