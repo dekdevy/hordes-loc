@@ -24,7 +24,7 @@ export default [
   {
     name       : {en: 'Last Reserves' },
     description: {
-      en: 'Used for when all else fails.',
+      en: 'Used when all else fails.',
       ru: 'Используется, когда ничего не помогает.',
       de: 'Wird verwendet, wenn alles andere fehlschlägt.',
       es: 'Nunca se queda sin flechas.',
