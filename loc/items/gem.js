@@ -2,7 +2,7 @@ export default [
   {
     name       : {en: 'Lucid' },
     description: {
-      en: 'The sharp green edges catch sparkling light in the sun, often blinding you as your about to defeat a foe.'
+      en: 'Small and sharp, this pendant leaves shallow scrapes on your skin during battle.'
     }
   },
 
@@ -28,13 +28,6 @@ export default [
   },
 
   {
-    name       : {en: 'Royal' },
-    description: {
-      en: 'Grand red gem enclosed in abyss dark fissures, granting your foes a sense of jealousy.'
-    }
-  },
-
-  {
     name       : {en: 'Amary' },
     description: {
       en: 'Lustrous blue artifact, exposed wispy white veins running along its spherical surface.'
@@ -45,6 +38,13 @@ export default [
     name       : {en: 'Purum' },
     description: {
       en: 'Radiant titian glass-like gem revealing your foes hidden secrets.'
+    }
+  },
+
+  {
+    name       : {en: 'Royal' },
+    description: {
+      en: 'Grand red gem enclosed in abyss dark fissures, granting your foes a sense of jealousy.'
     }
   },
 
@@ -65,7 +65,7 @@ export default [
   {
     name       : {en: 'Pluris' },
     description: {
-      en: 'Spectacular saturated pink plumes rise from this faceted prismical gem. Causes your foes to stare at you with awe.'
+      en: 'Spectacular saturated pink plumes rise from this faceted prismical gem. Your foes to stare at you with awe...'
     }
   },
 
