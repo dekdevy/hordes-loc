@@ -11,7 +11,6 @@ const classes = [
 
 // Items
 import armlet from './items/armlet.js'
-import armor from './items/armor.js'
 import boot from './items/boot.js'
 import bow from './items/bow.js'
 import chest from './items/chest.js'
@@ -25,7 +24,6 @@ import sword from './items/sword.js'
 import talisman from './items/talisman.js'
 const items = {
   armlet,
-  armor,
   boot,
   bow,
   chest,

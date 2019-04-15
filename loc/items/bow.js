@@ -160,7 +160,7 @@ export default [
       en: 'So scary that few have the guts to hold it.',
       ru: 'Настолько страшно, что немногие имеют мужество держать его.',
       de: 'So beängstigend, dass nur wenige den Mut haben, es zu halten.',
-      es: 'Tan aterrador que pocos tienen las agallas para sostenerlo.',
+      es: 'Tan aterrador que pocos tienen la coraje para sostenerlo.',
       fr: 'Une arme si effrayante que peu de gens ont le courage de la brandir.'
     }
   },
