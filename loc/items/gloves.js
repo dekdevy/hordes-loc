@@ -4,7 +4,7 @@ export default [
     description: {
       en: 'Straps of leather covering your feeble hands. Pulling the bowstring is much easier for you now.',
       ru: 'Ремешки из кожи покрывают ваши слабые руки. Вытягивать тетиву теперь намного проще.',
-      es: ''
+      es: 'Correas de cuero cubrir tus débiles manos. Estirar de la cuerda es más fácil para ti ahora'
     }
   },
 
