@@ -2,7 +2,7 @@ export default [
   {
     name       : {en: 'Linen Pouch' },
     description: {
-      en: 'Small little purse used by merchants wives.',
+      en: 'Small little purse used by merchants\' wives.',
       ru: 'маленькая сумочка раньше использована женами купцов.',
       de: 'Kleine kleine Geldbörse, die von den Ehefrauen der Händler benutzt wird.',
       es: 'Una bolsa linda utilizado por las esposas de comerciantes.',
@@ -12,7 +12,7 @@ export default [
   },
 
   {
-    name       : {en: 'Adventurers Rucksack' },
+    name       : {en: 'Adventurers\' Rucksack' },
     description: {
       en: 'The buckle is worth more than the rest of it.',
       ru: 'Пряжка стоит больше, чем все остальное.',
