@@ -2,7 +2,7 @@ export default {
 
   showall: {
     en: 'Show All',
-    ru: 'Показать Все',
+    ru: 'Пок. Все',
     hi: 'सब दिखाए',
     es: 'inwentaryzacja',
     de: 'Alle anzeigen',
@@ -11,7 +11,7 @@ export default {
 
   showclan: {
     en: 'Show Clan',
-    ru: 'Показать Клан',
+    ru: 'Пок. Клан',
     hi: 'दल से दिखाए',
     es: 'Mostrar Clan',
     de: 'Show-Clan',
@@ -20,7 +20,7 @@ export default {
 
   showsystem: {
     en: 'Show System',
-    ru: 'Показать Систему',
+    ru: 'Пок. Систему',
     hi: 'सिस्टम से दिखाए',
     es: 'Mostrar sistema',
     de: 'System anzeigen',
