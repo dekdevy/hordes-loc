@@ -35,7 +35,7 @@ export default [
       en: 'Clacking sounds travel with you as you wear these.',
       ru: 'щелкающие звуки путешествуют с вами когда вы носите эти перчатки.',
       de: 'Klackende Geräusche reisen mit, während Sie diese tragen.',
-      es: 'Los sonidos de agarrotamiento viajan con usted mientras los usa.',
+      es: 'Los sonidos de agarrotamiento viajan con usted mientras los usa.'
     }
   },
 
@@ -105,7 +105,7 @@ export default [
       en: 'Gloves sought by warriors for eras on end...at last...it is found.',
       ru: 'Перчатки разыскиваются воинами на протяжении эпох... наконец... нашлись.',
       de: 'Handschuhe, die von Kriegern für Epochen am Ende gesucht wurden... endlich... es wird gefunden.',
-      es: 'Guantes buscados por los guerreros para las eras....al fin...se encuentra.',
+      es: 'Guantes buscados por los guerreros para las eras....al fin...se encuentra.'
     }
   },
 
