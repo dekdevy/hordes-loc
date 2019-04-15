@@ -2,11 +2,11 @@ export default [
   {
     name       : {en: 'Potato Sack' },
     description: {
-      en: 'Made from the skins of starch, provides weak protection against the forces of carbohydrates.',
-      ru: 'Изготовлен из кожуры крахмала, обеспечивает слабую защиту от углеводов.',
-      es: 'Elaborado a partir de las pieles de almidón, proporciona una débil protección contra las fuerzas de los hidratos de carbono.',
-      de: 'Hergestellt aus der Schale von Stärke, bietet einen schwachen Schutz vor den Kräften der Kohlenhydrate.',
-      fr: 'Fabriqué à partir de la peau de l\'amidon, offre une faible protection contre les forces des glucides.'
+      en: 'Sack stiff with starch making you feel dirty and disheveled.',
+      ru: 'Мешок жесткий с крахмалом заставляет чувствовать вас грязным и взъерошенным.',
+      es: 'Saco rígido con almidón que te hace sentir sucio y despeinado.',
+      de: 'Sack steif mit Stärke, so dass Sie sich schmutzig und zerzaust fühlen.',
+      fr: 'Sac rigide avec de l\'amidon qui vous donne l\'impression d\'être sale et ébouriffé.'
     }
   },
 
@@ -22,7 +22,7 @@ export default [
   },
 
   {
-    name       : {en: 'Adventurers Tunic' },
+    name       : {en: 'Adventurer\'s Tunic' },
     description: {
       en: 'Knobbly soft iron tunic, passed on from many generations of adventurers passing over these lands.',
       ru: 'Изогнутая мягкая железная туника, переданная от многих поколений искателей приключений, проходящих по этим землям.',
