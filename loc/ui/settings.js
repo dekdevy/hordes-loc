@@ -4,7 +4,9 @@ export default {
     en: 'settings',
     ru: 'настройки',
     hi: 'सेटिंग्स',
-    es: 'configuración'
+    es: 'configuración',
+    de: 'Einstellungen',
+    fr: 'paramétrage'
   },
 
   // controls section of settings menu
@@ -12,84 +14,108 @@ export default {
     en: 'controls',
     ru: 'управления',
     hi: 'कंट्रोल्स',
-    es: 'controles'
+    es: 'controles',
+    de: 'Kontrollen',
+    fr: 'commandes'
   },
 
   lockedcamera: {
     en: 'Locked camera',
     ru: 'Заблокированная камера',
     hi: 'कैमरा लॉक',
-    es: 'Cámara fija'
+    es: 'Cámara fija',
+    de: 'Gesperrte Kamera',
+    fr: 'Caméra verrouillée'
   },
 
   graphics: {
     en: 'graphics',
     ru: 'графика',
     hi: 'ग्राफ़िक्स',
-    es: 'gráficos'
+    es: 'gráficos',
+    de: 'Grafiken',
+    fr: 'schémas'
   },
 
   resolution: {
     en: 'Resolution',
     ru: 'Pезолюция',
     hi: 'रेसोलूशन',
-    es: 'Resolución'
+    es: 'Resolución',
+    de: 'Auflösung',
+    fr: 'Résolution'
   },
 
   skilleffects: {
     en: 'Skill effects',
     ru: 'Эффекты навык',
     hi: 'स्किल दिखावट',
-    es: 'efectos de habilidades'
+    es: 'Efectos de habilidades',
+    de: 'Fertigkeitseffekte',
+    fr: 'Effets de compétences'
   },
 
   shadow: {
     en: 'Shadow quality',
     ru: 'Shadow quality',
     hi: 'परछाईं क्वालिटी',
-    es: 'Calidad de sombra'
+    es: 'Calidad de sombra',
+    de: 'Schattenqualität',
+    fr: 'Qualité de l\'ombre'
   },
 
   grassamount: {
     en: 'Grass amount',
     ru: 'Количество травы',
     hi: 'घास की मात्रा',
-    es: 'Cantidad de pasto'
+    es: 'Cantidad de pasto',
+    de: 'Grasmenge',
+    fr: 'Quantité d\'herbe'
   },
 
   chat: {
     en: 'chat',
     ru: 'чат',
     hi: 'चैट',
-    es: 'Chat'
+    es: 'Chat',
+    de: 'Chat',
+    fr: 'clavardage'
   },
 
   chatwidth: {
     en: 'Chat width',
     ru: 'Ширина чата',
     hi: 'चैट की चौडाई',
-    es: 'Ancho de chat'
+    es: 'Ancho del chat',
+    de: 'Chatbreite',
+    fr: 'Largeur du chat'
   },
 
   chatheight: {
     en: 'Chat height',
     ru: 'Высота чата',
     hi: 'चैट की लम्बाई',
-    es: 'Largo de chat'
+    es: 'Altura del chat',
+    de: 'Chathöhe',
+    fr: 'Hauteur de clavardage'
   },
 
   tutorial: {
     en: 'tutorial',
     ru: 'учебник',
     hi: 'शिक्षण',
-    es: 'tutorial'
+    es: 'tutorial',
+    de: 'Tutorial',
+    fr: 'didacticiel'
   },
 
   reset: {
     en: 'Reset tutorial',
     ru: 'Сбросить учебник',
     hi: 'शिक्षण रीसेट',
-    es: 'Reiniciar tutorial'
+    es: 'Reiniciar tutorial',
+    de: 'Tutorial zurücksetzen',
+    fr: 'Réinitialiser le tutoriel'
   }
 
 }

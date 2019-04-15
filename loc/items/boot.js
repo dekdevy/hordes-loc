@@ -42,9 +42,10 @@ export default [
   {
     name       : {en: 'Scaled Treads' },
     description: {
-      en: 'Scales cover the outside of your footwear, catching glares in the sun',
-      ru: 'Чешуя покрывает внешнюю сторону вашей обуви, ловя блики на солнце',
-      es: 'Las escamas de una lagartija te da botas impermeables.'
+      en: 'Mysterious scales cover the outside of your footwear, catching glares in the sun.',
+      ru: 'Загадочная чешуя покрывает внешнюю сторону обуви, улавливая блики на солнце.',
+      de: 'Mysteriöse Schuppen bedecken die Außenseite Ihres Schuhwerks und fangen grelle Blicke in der Sonne auf.',
+      es: 'Escamas misteriosas que cubren la parte exterior del calzado, atrapando los reflejos del sol.'
     }
   },
 
@@ -121,7 +122,7 @@ export default [
   {
     name       : {en: 'Starshard Greaves' },
     description: {
-      en: 'Stars were always considered to be all-mighty, now the\'re yours',
+      en: 'Stars were always considered to be almighty, now they\'re yours',
       ru: 'Звезды всегда считались всемогущими, теперь они твои',
       de: 'Sterne wurden immer als allmächtig angesehen, jetzt gehören sie dir.',
       es: 'Las armas mas peligrosas del universo, chanclas imbuido con la ira y furia de una madre cariñosa.'

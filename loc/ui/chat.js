@@ -2,30 +2,38 @@ export default {
 
   showall: {
     en: 'Show All',
-    ru: 'Показать Все',
+    ru: 'Пок. Все',
     hi: 'सब दिखाए',
-    es: 'Todo'
+    es: 'Todo',
+    de: 'Alle anzeigen',
+    fr: 'Montrer tous/toutes'
   },
 
   showclan: {
     en: 'Show Clan',
-    ru: 'Показать Клан',
+    ru: 'Пок. Клан',
     hi: 'दल से दिखाए',
-    es: 'Clan'
+    es: 'Mostrar Clan',
+    de: 'Show-Clan',
+    fr: 'Afficher le clan'
   },
 
   showsystem: {
     en: 'Show System',
-    ru: 'Показать Систему',
+    ru: 'Пок. Систему',
     hi: 'सिस्टम से दिखाए',
-    es: 'Sistema'
+    es: 'Mostrar sistema',
+    de: 'System anzeigen',
+    fr: 'Afficher le système'
   },
 
   loot: {
     en: 'Loot',
     ru: 'Добыча',
     hi: 'लूट',
-    es: 'Botín'
+    es: 'Botín',
+    de: 'Beute',
+    fr: 'Pillage'
   },
 
   exp: {
