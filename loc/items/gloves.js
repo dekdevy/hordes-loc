@@ -4,7 +4,7 @@ export default [
     description: {
       en: 'Straps of leather covering your feeble hands. Pulling the bowstring is much easier for you now.',
       ru: 'Ремешки из кожи покрывают ваши слабые руки. Вытягивать тетиву теперь намного проще.',
-      de: '',
+      de: 'Lederbänder, die Ihre schwachen Hände bedecken. Das Ziehen der Bogensehne ist für dich jetzt viel einfacher.',
       es: ''
     }
   },
@@ -14,7 +14,7 @@ export default [
     description: {
       en: 'Spun yarn from stolen sheep makes these warm gloves a pleasure to wear.',
       ru: 'Пряжа из украденных овец делает эти теплые перчатки приятно носить.',
-      de: '',
+      de: 'Gesponnenes Garn aus gestohlenen Schafen macht diese warmen Handschuhe zu einem wahren Vergnügen.',
       es: ''
     }
   },
@@ -24,7 +24,7 @@ export default [
     description: {
       en: 'Your fingers can barely move in these stiff leather mitts.',
       ru: 'Ваши пальцы могут едва двигаться в этих жестких кожаных перчатках.',
-      de: '',
+      de: 'Ihre Finger können sich in diesen steifen Lederhandschuhen kaum bewegen.',
       es: ''
     }
   },
@@ -34,7 +34,7 @@ export default [
     description: {
       en: 'Clacking sounds travel with you as you wear these.',
       ru: 'щелкающие звуки путешествуют с вами когда вы носите эти перчатки.',
-      de: '',
+      de: 'Klackende Geräusche reisen mit, während Sie diese tragen.',
       es: '',
     }
   },
@@ -44,7 +44,7 @@ export default [
     description: {
       en: 'Soft-iron gloves provide a little more protection, although your hands are cold now.',
       ru: 'Железные перчатки обеспечивают немного больше защиты, хотя ваши руки теперь холодные.',
-      de: '',
+      de: 'Eisenhandschuhe bieten etwas mehr Schutz, obwohl deine Hände jetzt kalt sind.',
       es: ''
     }
   },
@@ -54,7 +54,7 @@ export default [
     description: {
       en: 'Mitts made out of unknown material... it shines...',
       ru: 'Рукавицы, сделанные из неизвестного материала ... оно сияет ...',
-      de: '',
+      de: 'Handschuhe aus unbekanntem Material... sie leuchten...',
       es: ''
     }
   },
@@ -64,7 +64,7 @@ export default [
     description: {
       en: 'Some war general must have dropped these...probably unintentionally too.',
       ru: 'какой-то военный генерал, должно быть, уронил их... возможно, нечаянно.',
-      de: '',
+      de: 'Ein Kriegsgeneral muss diese.... wahrscheinlich auch unbeabsichtigt fallen gelassen haben.',
       es: ''
     }
   },
@@ -74,7 +74,7 @@ export default [
     description: {
       en: 'Fire is no match for your hands as you wear these emerald mitts.',
       ru: 'Огонь не враг для ваших рук когда вы носите эти изумрудные перчатки.',
-      de: '',
+      de: 'Feuer hat keinen Einfluss auf deine Hände, wenn du diese Smaragdhandschuhe trägst.',
       es: ''
     }
   },
@@ -84,7 +84,7 @@ export default [
     description: {
       en: 'Gives a false sense of power.',
       ru: 'Дает ложное чувство силы.',
-      de: '',
+      de: 'Gibt ein falsches Gefühl von Macht.',
       es: ''
     }
   },
@@ -94,7 +94,7 @@ export default [
     description: {
       en: 'Forged without heat, worn without fear.',
       ru: 'Кованые без тепла, носите без страха.',
-      de: '',
+      de: 'Ohne Hitze geschmiedet, ohne Angst getragen.',
       es: ''
     }
   },
@@ -104,7 +104,7 @@ export default [
     description: {
       en: 'Gloves sought by warriors for eras on end...at last...it is found.',
       ru: 'Перчатки разыскиваются воинами на протяжении эпох... наконец... нашлись.',
-      de: '',
+      de: 'Handschuhe, die von Kriegern für Epochen am Ende gesucht wurden... endlich... es wird gefunden.',
       es: '',
     }
   },
@@ -114,7 +114,7 @@ export default [
     description: {
       en: 'Rumours say that a touch from these gloves turns your foes into gold...your hand is strangely heavy....',
       ru: 'Слухи говорят, что прикосновение этих перчаток превращает твоих врагов в золото... твоя рука странно тяжелая ....',
-      de: '',
+      de: 'Gerüchten zufolge verwandelt eine Berührung dieser Handschuhe deine Feinde in Gold... deine Hand ist seltsam schwer...',
       es: ''
     }
   },
@@ -124,7 +124,7 @@ export default [
     description: {
       en: 'Gloves so powerful in their nature that the very air shimmers as you wave your hand.',
       ru: 'Перчатки настолько мощные по своей природе, что сам воздух мерцает, когда вы машете рукой.',
-      de: '',
+      de: 'Handschuhe, die in ihrer Natur so kraftvoll sind, dass die Luft schimmert, wenn man mit der Hand wedelt.',
       es: ''
     }
   }
