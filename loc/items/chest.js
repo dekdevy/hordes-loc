@@ -67,7 +67,7 @@ export default [
       es: 'Los rumores dicen que está hecho de las nubes...',
       de: 'Gerüchte besagen, dass es aus den Wolken gemacht wurde...',
       fr: 'Les rumeurs disent que c\'est fait à partir des nuages...',
-      pt: 'Os rumores dizem que é feito de nuvens...
+      pt: 'Os rumores dizem que é feito de nuvens...'
     }
   },
 
