@@ -14,8 +14,8 @@ export default {
     ru: 'Покинуть Клан',
     fr: 'Quitter le clan',
     hi: 'दल छोड़े',
-    es: 'Dejar el Clan ',
-    de: 'Clan verlassen '
+    es: 'Abandonar el clan',
+    de: 'Clan verlassen'
   },
 
   heading: {
@@ -32,7 +32,7 @@ export default {
     ru: 'Создать Клан',
     fr: 'Créer un clan',
     hi: 'दल बनाए',
-    es: 'Crear clan',
+    es: 'Crear un clan',
     de: 'Clan anlegen'
   },
 
@@ -41,7 +41,7 @@ export default {
     ru: 'Для создания клана вам нужно',
     fr: 'Pour créer un clan, on requiert',
     hi: 'दल बनाने के लिए आपको ज़रूरत है',
-    es: 'Para crear un clan necesitas',
+    es: 'Para crear un clan, necesita',
     de: 'Um einen Clan zu erstellen, brauchst du'
   },
 

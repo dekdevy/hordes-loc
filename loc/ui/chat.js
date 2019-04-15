@@ -4,9 +4,10 @@ export default {
     en: 'Show All',
     ru: 'Пок. Все',
     hi: 'सब दिखाए',
-    es: 'inwentaryzacja',
+    es: 'Todo',
     de: 'Alle anzeigen',
-    fr: 'Montrer tous/toutes'
+    fr: 'Montrer tous/toutes',
+    ko: '모두 보이기'
   },
 
   showclan: {
@@ -15,7 +16,8 @@ export default {
     hi: 'दल से दिखाए',
     es: 'Mostrar Clan',
     de: 'Show-Clan',
-    fr: 'Afficher le clan'
+    fr: 'Afficher le clan',
+    ko: '클랜 보이기'
   },
 
   showsystem: {
@@ -24,28 +26,32 @@ export default {
     hi: 'सिस्टम से दिखाए',
     es: 'Mostrar sistema',
     de: 'System anzeigen',
-    fr: 'Afficher le système'
+    fr: 'Afficher le système',
+    ko: '시스템 보이기'
   },
 
   loot: {
     en: 'Loot',
     ru: 'Добыча',
     hi: 'लूट',
-    es: 'Saqueo',
+    es: 'Botín',
     de: 'Beute',
-    fr: 'Pillage'
+    fr: 'Pillage',
+    ko: '전리품'
   },
 
   exp: {
     en: 'exp',
     ru: 'опыт',
-    hi: 'ऐक्सपी'
+    hi: 'ऐक्सपी',
+    es: 'exp'
   },
 
   pvp: {
-    en: 'pvp',
+    en: 'PvP',
     ru: 'ипи',
-    hi: 'पिविपी'
+    hi: 'पिविपी',
+    es: 'PvP'
   },
 
   // translations not needed
