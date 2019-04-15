@@ -35,7 +35,7 @@ export default [
       en: 'Elven quiver coated in shimmering diamond.',
       ru: 'Эльфийский колчан, покрытый мерцающим бриллиантом.',
       es: 'Un carcaj cubrierto en diamante creado por los duendes.',
-      fr: 'Carquois èlfique décoré de diamants brillants.'
+      fr: 'Carquois elfique décoré de diamants brillants.'
     }
   },
 

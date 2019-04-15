@@ -121,7 +121,7 @@ export default [
   {
     name       : {en: 'Starshard Greaves' },
     description: {
-      en: 'Stars were always considered to be all-mighty, now the\'re yours',
+      en: 'Stars were always considered to be almighty, now they\'re yours',
       ru: 'Звезды всегда считались всемогущими, теперь они твои',
       de: 'Sterne wurden immer als allmächtig angesehen, jetzt gehören sie dir.',
       es: 'Las armas mas peligrosas del universo, chanclas imbuido con la ira y furia de una madre cariñosa.'
