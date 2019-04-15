@@ -90,7 +90,7 @@ export default [
   {
     name       : {en: 'Hallowed Hammer' },
     description: {
-      en: 'Holy tool used by druids to make sacrifices the ancient nature gods.',
+      en: 'Holy tool used by druids to make sacrifices to the ancient nature gods.',
       ru: 'Святой инструмент, используемый друидами, чтобы приносить жертвы древним богам природы.',
       es: 'Herramienta sagrada usada por los druidas para hacer sacrificios al gran dios, Yggdrasil.',
       de: 'Heiliges Werkzeug, das von Druiden benutzt wird, um dem großen Gott Yggdrasil Opfer zu bringen.',
