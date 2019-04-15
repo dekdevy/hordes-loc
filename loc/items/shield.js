@@ -50,7 +50,7 @@ export default [
       ru: 'Изготовлен из обсидиана и стали. Кто-то небрежно попытался покрасить его в желтый цвет. Hе удалось.',
       es: 'Hecho de obsidiana y acero. Alguien intentó descuidadamente pintarlo de amarillo. Fracasaron. Miserablemente.',
       de: 'Hergestellt aus Obsidian und Stahl. Jemand versuchte schlampig, es gelb zu malen. Sie haben versagt. Elenderweise.',
-      fr: 'Fabriqué en obsidienne et en acier. Quelqu\'un a tenté de le peindre en jaune. Ils ont échoué. Misérablement.'
+      fr: 'Fabriqué en obsidienne et en acier. Quelqu\'un a tenté de le peindre en jaune. Il a échoué. Misérablement.'
     }
   }
 
