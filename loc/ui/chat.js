@@ -43,8 +43,8 @@ export default {
   },
 
   pvp: {
-    en: 'PvP',
-    ru: 'ИпИ',
+    en: 'pvp',
+    ru: 'ипи',
     hi: 'पिविपी'
   },
 
