@@ -6,7 +6,8 @@ export default [
       ru: 'Мягкий, дырявый. Стрелки продолжают выпадать.',
       de: 'Weich, voller Löcher. Pfeile fallen immer wieder heraus.',
       es: 'Si, los calcetines también pueden ser una aljaba.',
-      fr: 'Un carquois en linge dont les flèches n\'arrêtent pas de tomber.'
+      fr: 'Un carquois en linge dont les flèches n\'arrêtent pas de tomber.',
+      it: 'Morbido, pieno di buchi. Le frecce continuano a cadere.'
     }
   },
 
@@ -17,7 +18,8 @@ export default [
       ru: 'Льняной мешочек обтянут жесткой кожей.',
       de: 'Leinensack mit steifem Leder bezogen.',
       es: 'Una bolsa de lana con cuero.',
-      fr: 'Sac en lin recouvert de cuir rigide.'
+      fr: 'Sac en lin recouvert de cuir rigide.',
+      it: 'Sacco in lino rivestito in pelle rigida.'
     }
   },
 
@@ -28,7 +30,8 @@ export default [
       ru: 'Используется, когда ничего не помогает.',
       de: 'Wird verwendet, wenn alles andere fehlschlägt.',
       es: 'Nunca se queda sin flechas.',
-      fr: 'À utiliser lorsque tout le reste échoue.'
+      fr: 'À utiliser lorsque tout le reste échoue.',
+      it: 'Usato quando tutto il resto fallisce.'
     }
   },
 
@@ -39,7 +42,8 @@ export default [
       ru: 'Эльфийский колчан, покрытый мерцающим бриллиантом.',
       de: 'Elfenköcher, beschichtet mit schimmerndem Diamanten.',
       es: 'Un carcaj cubrierto en diamante creado por los duendes.',
-      fr: 'Carquois elfique décoré de diamants brillants.'
+      fr: 'Carquois elfique décoré de diamants brillants.',
+      it: 'Faretra elfica rivestita di diamante luccicante.'
     }
   },
 
@@ -50,7 +54,8 @@ export default [
       ru: 'Каждый раз, когда вы вытаскиваете стрелу, она шипит на вас.',
       de: 'Jedes Mal, wenn du einen Pfeil herausziehst, zischt er dich an.',
       es: '¡Serpientes! ¿¡Por qué tenía que ser serpientes!?',
-      fr: 'Un carquois fait en peau de serpent, pouvant supporter les plus puissantes flèches.'
+      fr: 'Un carquois fait en peau de serpent, pouvant supporter les plus puissantes flèches.',
+      it: 'Ogni volta che tiri fuori una freccia, ti sibila addosso.'
     }
   }
 
