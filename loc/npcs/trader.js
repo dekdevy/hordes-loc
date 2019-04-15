@@ -5,7 +5,10 @@ export default {
       en: 'Greetings wandering traveler! Would you like to sell something?'
     },
     choices: {
-      en: 'Yes, of course.'
+      en: 'Yes, of course.',
+      es: 'Sí, por supuesto.',
+      de: 'Ja, natürlich.',
+      fr: 'Oui, bien sûr, bien sûr.'
     }
   }]
 }
