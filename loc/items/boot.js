@@ -37,9 +37,9 @@ export default [
     description: {
       en: 'Clearly lacking in imagination, the maker made boots from the bones of a very large creature...',
       ru: 'Очевидно, что не хватает воображения, создатель сделал сапоги из костей очень крупного существа ...',
-      de: 'Offensichtlich phantasielos, machte der Hersteller Stiefel aus den Knochen einer sehr großen Kreatur.....',
+      de: 'Offensichtlich phantasielos, machte der Hersteller Stiefel aus den Knochen einer sehr großen Kreatur...',
       es: 'Claramente sin imaginación, el zapatero uso los huesos de una criatura grande...',
-      it: 'Chiaramente privo di immaginazione, l\'autore ha realizzato stivali dalle ossa di una creatura molto grande.....'
+      it: 'Chiaramente privo di immaginazione, l\'autore ha realizzato stivali dalle ossa di una creatura molto grande...'
     }
   },
 
@@ -61,7 +61,7 @@ export default [
       ru: 'Приятный узор, созданный, чтобы парализовать ваших врагов... интересно, работает ли он',
       de: 'Ein angenehmes Muster, das gemacht wurde, um deine Feinde zu lähmen... frage dich, ob es funktioniert.',
       es: '¡Eyyy, ahora puedes correr sin desmayar con zapatos reales!',
-      it: 'Un piacevole motivo fatto per paralizzare i tuoi nemici..... chiedo se funziona'
+      it: 'Un piacevole motivo fatto per paralizzare i tuoi nemici... chiedo se funziona'
     }
   },
 
@@ -92,9 +92,9 @@ export default [
     description: {
       en: 'Run as quick as the wind... or close to it',
       ru: 'Беги так быстро, как ветер... ну или близко к нему',
-      de: 'Laufen Sie so schnell wie der Wind.... oder in der Nähe davon.',
+      de: 'Laufen Sie so schnell wie der Wind... oder in der Nähe davon.',
       es: 'Con estos zapatos puedes ver el viento y llevarlo contigo.',
-      it: 'Corri veloce come il vento..... o vicino ad esso'
+      it: 'Corri veloce come il vento... o vicino ad esso'
     }
   },
 
@@ -127,7 +127,7 @@ export default [
       ru: 'По слухам, древние сапоги были украдены у ног римского бога-вестника ...',
       de: 'Alte Stiefel sollen aus den Füßen des römischen Kuriergottes gestohlen worden sein...',
       es: 'Botas del mesajero mentiroso, del espía nocturno, del dios griego de apoyar y asesinar.',
-      it: 'Stivali antichi che si dice siano stati rubati dai piedi del dio messaggero romano.....'
+      it: 'Stivali antichi che si dice siano stati rubati dai piedi del dio messaggero romano...'
     }
   },
 
