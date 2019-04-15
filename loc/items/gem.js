@@ -75,7 +75,7 @@ export default [
     name       : {en: 'Pluris' },
     description: {
       en: 'Spectacular saturated pink plumes rise from this faceted prismical gem. Your foes to stare at you with awe...',
-      es: 'Espectaculares plumas rosas saturadas surgen de esta gema prismática facetada. Tus enemigos te mirarán con asombro....'
+      es: 'Espectaculares plumas rosas saturadas surgen de esta gema prismática facetada. Tus enemigos te mirarán con asombro...'
     }
   },
 
