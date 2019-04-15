@@ -5,7 +5,7 @@ export default [
       en: 'Straps of leather covering your feeble hands. Pulling the bowstring is much easier for you now.',
       ru: 'Ремешки из кожи покрывают ваши слабые руки. Вытягивать тетиву теперь намного проще.',
       de: 'Lederbänder, die Ihre schwachen Hände bedecken. Das Ziehen der Bogensehne ist für dich jetzt viel einfacher.',
-      es: 'Correas de cuero cubriendo tus débiles manos. Tirar de la cuerda es mucho más fácil para ti ahora.'
+      es: 'Correas de cuero cubrir tus débiles manos. Estirar de la cuerda es más fácil para ti ahora'
     }
   },
 
@@ -25,7 +25,7 @@ export default [
       en: 'Your fingers can barely move in these stiff leather mitts.',
       ru: 'Ваши пальцы могут едва двигаться в этих жестких кожаных перчатках.',
       de: 'Ihre Finger können sich in diesen steifen Lederhandschuhen kaum bewegen.',
-      es: ''
+      es: 'Tus dedos apenas se pueden mover con estos guantes de cuero rígidos.'
     }
   },
 
