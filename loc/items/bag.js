@@ -13,7 +13,7 @@ export default [
   },
 
   {
-    name       : {en: 'Adventurers Rucksack' },
+    name       : {en: 'Adventurer\'s Rucksack' },
     description: {
       en: 'The buckle is worth more than the rest of it.',
       ru: 'Пряжка стоит больше, чем все остальное.',
