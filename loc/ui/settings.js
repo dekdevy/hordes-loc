@@ -4,7 +4,7 @@ export default {
     en: 'settings',
     ru: 'настройки',
     hi: 'सेटिंग्स',
-    es: 'escenarios',
+    es: 'configuración',
     de: 'Einstellungen',
     fr: 'paramétrage'
   },
@@ -14,7 +14,7 @@ export default {
     en: 'controls',
     ru: 'управления',
     hi: 'कंट्रोल्स',
-    es: 'mandos',
+    es: 'controles',
     de: 'Kontrollen',
     fr: 'commandes'
   },
@@ -23,7 +23,7 @@ export default {
     en: 'Locked camera',
     ru: 'Заблокированная камера',
     hi: 'कैमरा लॉक',
-    es: 'Cámara bloqueada',
+    es: 'Cámara fija',
     de: 'Gesperrte Kamera',
     fr: 'Caméra verrouillée'
   },
@@ -32,7 +32,7 @@ export default {
     en: 'graphics',
     ru: 'графика',
     hi: 'ग्राफ़िक्स',
-    es: 'dibujos',
+    es: 'gráficos',
     de: 'Grafiken',
     fr: 'schémas'
   },
@@ -50,7 +50,7 @@ export default {
     en: 'Skill effects',
     ru: 'Эффекты навык',
     hi: 'स्किल दिखावट',
-    es: 'Efectos de habilidad',
+    es: 'Efectos de habilidades',
     de: 'Fertigkeitseffekte',
     fr: 'Effets de compétences'
   },
@@ -68,7 +68,7 @@ export default {
     en: 'Grass amount',
     ru: 'Количество травы',
     hi: 'घास की मात्रा',
-    es: 'Cantidad de césped',
+    es: 'Cantidad de pasto',
     de: 'Grasmenge',
     fr: 'Quantité d\'herbe'
   },
@@ -77,7 +77,7 @@ export default {
     en: 'chat',
     ru: 'чат',
     hi: 'चैट',
-    es: 'charla',
+    es: 'Chat',
     de: 'Chat',
     fr: 'clavardage'
   },
@@ -113,7 +113,7 @@ export default {
     en: 'Reset tutorial',
     ru: 'Сбросить учебник',
     hi: 'शिक्षण रीसेट',
-    es: 'Restablecer tutorial',
+    es: 'Reiniciar tutorial',
     de: 'Tutorial zurücksetzen',
     fr: 'Réinitialiser le tutoriel'
   }

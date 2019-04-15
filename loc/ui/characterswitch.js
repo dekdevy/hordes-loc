@@ -14,7 +14,7 @@ export default {
     en: 'Home',
     ru: 'Домой',
     hi: 'मुख्य स्क्रीन',
-    es: 'Inicio',
+    es: 'Regresar al inicio',
     de: 'Startseite',
     fr: 'Accueil',
     ko: '홈페이지'

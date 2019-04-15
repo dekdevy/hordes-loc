@@ -4,7 +4,7 @@ export default {
     en: 'Show All',
     ru: 'Пок. Все',
     hi: 'सब दिखाए',
-    es: 'inwentaryzacja',
+    es: 'Todo',
     de: 'Alle anzeigen',
     fr: 'Montrer tous/toutes',
     ko: '모두 보이기'
@@ -34,7 +34,7 @@ export default {
     en: 'Loot',
     ru: 'Добыча',
     hi: 'लूट',
-    es: 'Saqueo',
+    es: 'Botín',
     de: 'Beute',
     fr: 'Pillage',
     ko: '전리품'
@@ -43,13 +43,15 @@ export default {
   exp: {
     en: 'exp',
     ru: 'опыт',
-    hi: 'ऐक्सपी'
+    hi: 'ऐक्सपी',
+    es: 'exp'
   },
 
   pvp: {
-    en: 'pvp',
+    en: 'PvP',
     ru: 'ипи',
-    hi: 'पिविपी'
+    hi: 'पिविपी',
+    es: 'PvP'
   },
 
   // translations not needed
