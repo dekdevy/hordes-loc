@@ -11,7 +11,6 @@ const classes = [
 
 // Items
 import armlet from './items/armlet.js'
-import armor from './items/armor.js'
 import boot from './items/boot.js'
 import bow from './items/bow.js'
 import chest from './items/chest.js'
@@ -25,7 +24,6 @@ import sword from './items/sword.js'
 import talisman from './items/talisman.js'
 const items = {
   armlet,
-  armor,
   boot,
   bow,
   chest,
@@ -46,16 +44,33 @@ const factions = [
   vanguard,
   bloodlust]
 
+// Npcs
+import conjurer from './npcs/conjurer.js'
+import trader from './npcs/trader.js'
+const npcs = {
+  conjurer,
+  trader
+}
+
 // User interface
 import charmenu from './ui/charmenu.js'
+import chat from './ui/chat.js'
+import clan from './ui/clan.js'
 import general from './ui/general.js'
+import inventory from './ui/inventory.js'
+import settings from './ui/settings.js'
 const ui = {
   charmenu,
+  chat,
+  clan,
+  inventory,
+  settings,
   ...general }
 
 export default {
   classes,
-  //items,
+  items,
   factions,
+  npcs,
   ui
 }

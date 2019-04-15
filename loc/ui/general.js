@@ -3,11 +3,19 @@ export default {
   ok: {
     en: 'Okay',
     se: 'Okej',
-    ru: 'Окей'
+    ru: 'Окей',
+    de: 'Okay',
+    hi: 'ठीक',
+    fr: 'D\'accord',
+    es: 'De acuerdo'
   },
   back: {
     en: 'Back',
     se: 'Bakåt',
-    ru: 'Назад'
+    ru: 'Назад',
+    hi: 'पिछला',
+    fr: 'Retour',
+    de: 'Zurück',
+    es: 'Regresar'
   }
 }
