@@ -11,7 +11,7 @@ export default [
     name       : {en: 'Melant' },
     description: {
       en: 'Rough disc-shaped gray stone with strange druidical engravings encasing it.',
-      es: 'Rugoso con forma de disco gris pierda con extraños inscripción druídicos que lo cerrar.
+      es: 'Rugoso con forma de disco gris pierda con extraños inscripción druídicos que lo cerrar.'
     }
   },
 
@@ -19,7 +19,7 @@ export default [
     name       : {en: 'Turim' },
     description: {
       en: 'Powerful transparent glass talisman, faint purple tint shows you the world in a melancholic light ',
-      es: 'Increíble talismán de cristal transparente, de color púrpura pálido que muestra el mundo en una luz melancólica. 
+      es: 'Increíble talismán de cristal transparente, de color púrpura pálido que muestra el mundo en una luz melancólica.' 
     }
   },
 
