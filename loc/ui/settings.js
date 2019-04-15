@@ -3,7 +3,7 @@ export default {
   settings: {
     en: 'settings',
     ru: 'настройки',
-    hi: 'सेटिंग्स', 
+    hi: 'सेटिंग्स',
     es: 'configuración'
   },
 

@@ -53,7 +53,7 @@ export default {
     ru: 'Тег клана',
     fr: 'Tag du clan',
     hi: 'दल टैग',
-    es: 'Tag del clan' 
+    es: 'Tag del clan'
   },
 
   createbutton: {
