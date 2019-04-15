@@ -9,7 +9,7 @@ export default {
     es: 'Arquero',
     fr: 'Archer',
     pt: 'Arqueiro'
-    de: 'Bogenschütze',
+    de: 'Bogenschütze'
   },
   // Class description, visible during character creation
   description: {
