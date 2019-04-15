@@ -7,7 +7,7 @@ export default [
       ru: 'Имя говорит само за себя. Осторожнее осколков.',
       es: 'La receta de fabricación es dos bloques de madera y un palo.',
       de: 'Der Name sagt alles. Vorsicht mit den Splittern.',
-      fr: 'Le nom dit tout. Attention aux éclats.'
+      fr: 'Le nom en dit long. Attention aux échardes.'
     }
   },
 
@@ -61,7 +61,7 @@ export default [
       ru: 'Грубо вырезанный из кости древнего бегемота',
       es: 'Crudamente tallado de los huesos de un antiguo gigante.',
       de: 'Grob geschnitten aus den Knochen eines alten Riesen.',
-      fr: 'Sculpté grossièrement dans les os d\'un ancien monstre.'
+      fr: 'Sculpté grossièrement dans les os d\'un monstre ancien.'
     }
   },
   { // T7 item
@@ -81,7 +81,7 @@ export default [
       ru: 'Дьявольское изогнутое лезвие. Даже держа его, вы чувствуете его темную сущность.',
       es: 'Es una diabla curva. Incluso sostenerlo te hace sentir su oscura esencia.',
       de: 'Diabolisch geschwungene Klinge. Schon beim Halten spürt man seine dunkle Essenz.',
-      fr: 'Lame diabolique incurvée. Même le tenir vous fait sentir son essence sombre.'
+      fr: 'Lame diabolique incurvée. Même la tenir vous fait sentir son aura sombre.'
     }
   },
 
@@ -92,7 +92,7 @@ export default [
       ru: 'Холодный клинок с горячим нарезаm.',
       es: 'Error 403: El filo de la espada es nulo.',
       de: 'Eine kalt aussehende Klinge mit einer brennend heißen Scheibe.',
-      fr: 'Une lame d\'aspect froid avec une tranche chaude brûlante.'
+      fr: 'Une epée froide à la lame ardante.'
     }
   },
 
