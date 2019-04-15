@@ -10,7 +10,7 @@ export default {
     fr: 'La faction des Bloodlusts valorise la liberté et la loyauté. Elle offre une place à l\'individualisme et même au chaos. Leurs défenses sont situées dans un royaume désertique appelé Headless Landing.',
     de: 'Die Horde der Bloodlust schätzt Freiheit und Loyalität, bietet einen Ort für Individualismus oder gar Chaos. Ihre Verteidigung befindet sich in einem Wüstenreich namens Headless Landing.',
     hi: 'ब्लडलस्ट वंश क़दर करते है स्वतंत्रता और निष्ठा की, प्रस्ताव रखते है व्यक्तिवाद और अराजकता के लिए भी। उनकी मुख्य भूमि स्थित है हेड्लेस लैंडिंग नामक रेगीयतानी राज्य में।',
-    ko: '블러드 스톰 호드는 자유와 충성심을 중요시하며, 개인주의 또는 혼란을위한 장소를 제공합니다. 그들의 방위는 “\헤드 레스 랜딩\” 이라는 사막 영역에 있습니다.',
+    ko: '블러드 스톰 호드는 자유와 충성심을 중요시하며, 개인주의 또는 혼란을위한 장소를 제공합니다. 그들의 방위는 “헤드 레스 랜딩” 이라는 사막 영역에 있습니다.',
     pt: 'A horda do Sangue valoriza a liberdade e a lealdade, oferece um lugar para o individualismo ou mesmo o caos. Suas defesas estão localizadas em um deserto chamado Headless Landing.'
   }
 }
