@@ -19,7 +19,7 @@ export default [
     name       : {en: 'Turim' },
     description: {
       en: 'Powerful transparent glass talisman, faint purple tint shows you the world in a melancholic light ',
-      es: 'Poderoso talismán de cristal transparente, de color púrpura pálido que muestra el mundo en una luz melancólica. 
+      es: 'Increíble talismán de cristal transparente, de color púrpura pálido que muestra el mundo en una luz melancólica. 
     }
   },
 
@@ -43,7 +43,7 @@ export default [
     name       : {en: 'Purum' },
     description: {
       en: 'Radiant titian glass-like gem revealing your foes hidden secrets.',
-      es: 'Radiante gema en forma de vidrio que revela los secretos ocultos de tus enemigos.'
+      es: 'Luminoso gema en forma de vidrio que revela los secretos ocultos de tus enemigos.'
     }
   },
 
@@ -51,7 +51,7 @@ export default [
     name       : {en: 'Royal' },
     description: {
       en: 'Grand red gem enclosed in abyss dark fissures, granting your foes a sense of jealousy.',
-      es: 'Gran gema roja encerrada en las oscuras fisuras del abismo, dando a tus enemigos una sensación de celos.'
+      es: 'Magnífico gema roja encerrada en las oscuras fisuras del abismo, dando a tus enemigos una sensación de celos.'
     }
   },
 
