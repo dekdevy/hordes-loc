@@ -6,7 +6,7 @@ export default [
       ru: 'Не смотрите на ево, а то он развалится.',
       es: 'No lo mires o se caerá a pedazos.',
       de: 'Sieh es dir nicht an, sonst fällt es auseinander.',
-      fr: 'Ne la regardez pas ou elle va s\'effondrer.'
+      fr: 'Un regard seulement et elle risque de se briser en miettes.'
     }
   },
 
@@ -39,7 +39,7 @@ export default [
       ru: 'Колто из остатков прошлова ужина.',
       es: 'Un anillo hecho con las sobras de anoche.',
       de: 'Ein Ring aus den Überresten der letzten Nächte.',
-      fr: 'Une bague faite des restes des dernières nuits.'
+      fr: 'Une vertèbre de monstre aurait servit à sa fabrication.'
     }
   },
 
@@ -50,7 +50,7 @@ export default [
       ru: 'Эльфы сделали это кольцо, чтобы защитить себя от опасности, и удалось отдать его',
       es: 'Los elfos hicieron este anillo para protegerse del peligro y lograron regalarlo.',
       de: 'Die Elfen bauten diesen Ring, um sich vor Gefahren zu schützen, und es gelang ihnen, ihn wegzugeben.',
-      fr: 'Les elfes ont fabriqué cet anneau pour se protéger du danger et ont réussi à le léguer.'
+      fr: 'Une bague d\'origine elfique ayant été léguée à ce monde.'
     }
   },
 
@@ -61,7 +61,7 @@ export default [
       ru: 'Хорошо вписывается, хотя эффекты, которые он дает, незначительны.',
       es: 'Encaja bien, aunque los efectos que produce son marginales.',
       de: 'Passt gut, auch wenn die Wirkung gering ist.',
-      fr: 'S\'ajuste convenablement au doigt, bien que les effets qu\'elle produit soient marginaux.'
+      fr: 'S\'ajuste convenablement au doigt, bien que ses pouvoirs soient limités.'
     }
   },
 
@@ -72,7 +72,7 @@ export default [
       ru: 'Никто не знает, стоит ли ево надевать.',
       es: 'Nadie sabe si vale la pena ponerse esto.',
       de: 'Niemand weiß, ob es sich lohnt, sie anzuziehen.',
-      fr: 'Personne ne sait si cela vaut la peine d\'être mis en place.'
+      fr: 'Personne ne sait si elle vaut la peine d\'être portée.'
     }
   },
 
@@ -116,7 +116,7 @@ export default [
       ru: 'Священный артефакт, потерянный святыми друидами.',
       es: 'Artefacto sagrado perdido por druidas sagrados.',
       de: 'Heiliges Artefakt, das von heiligen Druiden verloren wurde.',
-      fr: 'Artefact sacré perdu par des saints druides.'
+      fr: 'Artefact sacré perdu par des druides saints.'
     }
   },
 
@@ -127,7 +127,7 @@ export default [
       ru: 'Хранитель мира .... не уверен в этом, но он может подержать тебя в живых ....',
       es: 'Guardián de la paz.... no estoy seguro de eso, pero podría mantenerte vivo.',
       de: 'Hüter des Friedens.... nicht sicher, aber vielleicht hält dich das am Leben.',
-      fr: 'Gardien de la paix.... pas sûr de ça, mais elle pourrait vous garder en vie.'
+      fr: 'Gardien de la paix.... pas sûr de cela, mais elle saura vous garder en vie.'
     }
   }
 
