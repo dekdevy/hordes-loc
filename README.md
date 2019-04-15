@@ -14,3 +14,7 @@ Building the generator file, then compiling the languages into `dist/`
 ```bash
 npm run generate
 ```
+
+## Contributing
+
+Intrested in contributing? Look [here](CONTRIBUTING.md). Help ie appreciated! 
