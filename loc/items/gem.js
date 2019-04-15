@@ -2,7 +2,7 @@ export default [
   {
     name       : {en: 'Lucid' },
     description: {
-      en: 'The sharp green edges catch sparkling light in the sun, often blinding you as your about to defeat a foe.'
+      en: 'Small and sharp, this pendant leaves shallow scrapes on your skin during battle.'
     }
   },
 
