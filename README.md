@@ -34,8 +34,13 @@ Exporting...
   en -> en.json
   de -> de.json
 ```
+### Helpful resources 
 
-## Examples
+*https://try.github.io
+*https://www.deepl.com/en/translator
+*https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser
+
+### Examples
 Lets say we want to add a German translation to some of the basic Strings for the Archer class. We navigate to `loc/classes/archer.js`, and find:
 
 ```js
