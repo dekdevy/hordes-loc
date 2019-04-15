@@ -16,7 +16,7 @@ export default [
   {
     name       : {en: 'Turim' },
     description: {
-      en: ''
+      en: 'Powerful transparent glass talisman, faint purple tint shows you the world in a melancholic light '
     }
   },
 
@@ -44,7 +44,7 @@ export default [
   {
     name       : {en: 'Purum' },
     description: {
-      en: ''
+      en: 'Radiant titian glass-like gem revealing your foes hidden secrets.'
     }
   },
 
