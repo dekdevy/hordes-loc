@@ -153,7 +153,7 @@ export default [
   {
     name       : {en: 'Hammer of Gaia' },
     description: {
-      en: 'Some say its made by dwarves, others say by elves... the truth is yet to be uncovered.',
+      en: 'Imbued with the power of the Earth, it obliterates all foes touching the ground.',
       ru: 'Некоторые говорят, что он сделано дварфами, другие говорят эльфами... правда еще не раскрыта.',
       es: 'Madre Tierra da, y Madre Tierra quita. En este caso, dio.',
       de: 'Einige sagen, dass es von Zwergen gemacht wurde, andere sagen, dass es von Elfen gemacht wurde... die Wahrheit ist noch nicht enthüllt.',
