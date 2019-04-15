@@ -2,7 +2,7 @@ export default [
   {
     name       : {en: 'Woven Band' },
     description: {
-      en: 'Dont look at it or it will fall apart.',
+      en: 'Don\'t look at it or it will fall apart.',
       ru: 'Не смотрите на ево, а то он развалится.',
       es: 'No lo mires o se caerá a pedazos.',
       de: 'Sieh es dir nicht an, sonst fällt es auseinander.',
