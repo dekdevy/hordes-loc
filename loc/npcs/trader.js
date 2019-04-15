@@ -8,7 +8,8 @@ export default {
       en: 'Yes, of course.',
       es: 'Sí, por supuesto.',
       de: 'Ja, natürlich.',
-      fr: 'Oui, bien sûr, bien sûr.'
+      fr: 'Oui, bien sûr, bien sûr.',
+      de: 'Ja, natürlich.'
     }
   }]
 }
