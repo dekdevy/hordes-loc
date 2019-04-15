@@ -42,9 +42,9 @@ export default [
   {
     name       : {en: 'Scaled Treads' },
     description: {
-      en: 'Scales cover the outside of your footwear, catching glares in the sun',
-      ru: 'Чешуя покрывает внешнюю сторону вашей обуви, ловя блики на солнце',
-      es: 'Las escamas de una lagartija te da botas impermeables.'
+      en: 'Mysterious scales cover the outside of your footwear, catching glares in the sun',
+      ru: 'Загадочная чешуя покрывает внешнюю сторону обуви, улавливая блики на солнце.',
+      es: 'Escamas misteriosas que cubren la parte exterior del calzado, atrapando los reflejos del sol.'
     }
   },
 
