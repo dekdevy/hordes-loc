@@ -125,7 +125,7 @@ export default [
   {
     name       : {en: 'Infernal Staff' },
     description: {
-      en: 'Constructed by unknwon blacksmiths residing in fabled valleys.',
+      en: 'Constructed by unknown blacksmiths residing in fabled valleys.',
       ru: 'Построен неизвестными кузнецами, живущими в сказочных долинах.',
       es: 'Construido por herreros desconocidos que residen en valles legendarios.',
       fr: 'Confectionné par des forgerons inconnus résidant dans des vallées légendaires.'
