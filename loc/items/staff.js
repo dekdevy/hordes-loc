@@ -2,7 +2,7 @@ export default [
   {
     name       : {en: 'Broken Twig' },
     description: {
-      en: 'Weapon forged by the greatest blacksmith of all the land. At least thats what we told little Timmy.',
+      en: 'Weapon forged by the greatest blacksmith of all the land. At least that\'s what we told little Timmy.',
       hi: 'क्षेत्र के सबसे महान लोहार द्वारा बनाया गया हथियार। नन्हें टिम्मी से तो हमने यही कहा।',
       ru: 'Оружие, выкованное величайшим кузнецом из всей земли. По крайней мере, так мы сказали маленькому Тимми.',
       es: 'Este es un palo normal. Pero ¿estás seguro que solo es un palo normal?',
