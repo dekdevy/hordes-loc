@@ -3,7 +3,7 @@ export default [
     name       : {en: 'Lucid' },
     description: {
       en: 'Small and sharp, this pendant leaves shallow scrapes on your skin during battle.',
-      ru: ''
+      ru: 'Маленький и острый, этот кулон оставляет мелкие царапины на коже во время боя.'
     }
   },
 
@@ -11,7 +11,7 @@ export default [
     name       : {en: 'Melant' },
     description: {
       en: 'Rough disc-shaped gray stone with strange druidical engravings encasing it.',
-      ru: ''
+      ru: 'Серый камень грубой дисковой формы со странной друидной гравюрой на его поверхности. '
     }
   },
 
@@ -19,7 +19,7 @@ export default [
     name       : {en: 'Turim' },
     description: {
       en: 'Powerful transparent glass talisman, faint purple tint shows you the world in a melancholic light.',
-      ru: ''
+      ru: 'Мощный прозрачный стеклянный талисман, бледно-фиолетовый оттенок показывает мир в меланхолическом свете.'
     }
   },
 
@@ -27,7 +27,7 @@ export default [
     name       : {en: 'Fundo' },
     description: {
       en: 'Brown desaturated gem, emitting putrid scents as you wear it around your neck.',
-      ru: ''
+      ru: 'Драгоценный камень коричневого цвета, излучающий гнилой аромат, когда вы носите его на шее.'
     }
   },
 
