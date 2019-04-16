@@ -10,6 +10,7 @@ export default {
     pt: 'Arqueiro',
     de: 'Bogenschütze',
     nl: 'Boogschutter'
+    tr: 'Okçu'
   },
   // Class description, visible during character creation
   description: {
@@ -22,5 +23,6 @@ export default {
     pt: 'Arqueiros causam danos altos a um único alvo e danos na Área de Efeito. Um bom arqueiro sempre manterá sua distância e snipe inimigos de longe.',
     de: 'Bogenschützen verursachen hohen einzelzielschaden und Berstenden Wirkungsbereich. Ein guter Bogenschütze wird immer Abstand halten und Feinde aus der Ferne schnippen.',
     nl: 'Boogschutters groot enkel doelschade en barstenschade aan het gebied van het effect toe. Een goede boogschutter zal altijd afstand houden en vijanden uit de verte vernietigen.'
+    tr: 'Okçular tekli hedefe yüksek zarar verir ve aralıklı alan etkili hasar verir. İyi bir okçu her zaman mesafesini korur ve hedeflerini uzaktan avlar.'
   }
 }
