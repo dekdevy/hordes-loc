@@ -147,7 +147,7 @@ export default [
     description: {
       en: 'Topped with the skull of a slain behemoth enemy, this weapon inspires terror in all who stand against it.',
       ru: 'Это оружие, увенчанное черепом бегемота, внушает ужас всем, кто противостоит ему.',
-      hi: '',
+      hi: 'एक मृत विशालकाय दुश्मन की खोपड़ी के साथ शीर्ष पर रहा, इस हथियार सब जो इसके खिलाफ खड़े में आतंक प्रेरित करती है।',
       es: '',
       de: '',
       fr: '',
@@ -160,7 +160,7 @@ export default [
     description: {
       en: 'Can penetrate your feeble skull quite easily. Or your foes. Probably yours though.',
       ru: 'Может легко проникнуть в ваш слабый череп. Или твои враги. Вероятно, ваш, хотя.',
-      hi: '',
+      hi: 'काफी आसानी से अपने कमजोर खोपड़ी घुसना कर सकते हैं। या अपने दुश्मनों। शायद तुम्हारा हालांकि।',
       es: 'Cubierta con el cráneo de un enemigo gigante asesinado, esta arma inspira terror en todos los que se oponen a ella.',
       de: 'Mit dem Schädel eines getöteten Riesenfeindes überzogen, inspiriert diese Waffe Schrecken bei allen, die sich dagegen stellen.',
       fr: 'Surmontée du crâne d\'un ennemi géant assassiné, cette arme inspire la terreur à tous ceux qui s\'y opposent.',
@@ -173,7 +173,7 @@ export default [
     description: {
       en: 'Nothing kind about this cruel weapon.',
       ru: 'Ничего доброго в этом жестоком  оружии.',
-      hi: '',
+      hi: 'कुछ भी नहीं प्रकार के बारे में इस क्रूर हथियार।',
       es: 'Esta arma cruel no tiene nada de amable.',
       de: 'Nichts Besonderes an dieser grausamen Waffe.',
       fr: 'Cette arme cruelle n\'a rien de bon.',
