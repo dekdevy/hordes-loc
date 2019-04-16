@@ -56,7 +56,7 @@ export default [
     description: {
       en: 'Large weapon used in the ancient times to cave in skulls.',
       ru: 'Большое оружие, используемое в древние времена для разрушенея черепаx.',
-      hi: '',
+      hi: 'बड़े खोपड़ी में गुफा के लिए प्राचीन समय में इस्तेमाल किया हथियार।',
       es: 'Gran arma utilizada en la antigüedad para derribar cráneos.',
       de: 'Große Waffe, die in der Antike benutzt wurde, um in Schädeln einzugreifen.',
       fr: 'Grande arme utilisée dans l\'Antiquité pour céder des crânes.',
@@ -82,7 +82,7 @@ export default [
     description: {
       en: 'Ancient dwarves forged this mighty structure. Dark and deadly.',
       ru: 'Древние гномы создали эту могущественную структуру. Темноя и смертельно.',
-      hi: '',
+      hi: 'प्राचीन बौने इस शक्तिशाली संरचना का निर्माण किया। डार्क और घातक।',
       es: 'Los enanos antiguos forjaron esta poderosa estructura. Oscura y mortal.',
       de: 'Alte Zwerge schmiedeten diese mächtige Struktur. Dunkel und tödlich.',
       fr: 'Les anciens nains ont forgé cette puissante structure. Sombre et mortel.',
