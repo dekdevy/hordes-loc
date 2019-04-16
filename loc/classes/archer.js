@@ -2,7 +2,6 @@ export default {
   // The class name
   name: {
     en: 'Archer',
-    de: 'Jäger',
     se: 'Bågskytt',
     ru: 'Лучник',
     ko: '궁수',
