@@ -173,7 +173,7 @@ export default [
       de: 'Schneidet die Herzen eurer Feinde durch. Frisst sie auf dem Weg.',
       fr: 'Elle tranche le cœur de vos ennemis et les déguste en chemin.',
       hi: 'दशनमों के दिलों को चीर कर खा जाती है।',
-      pt: 'Corta os corações dos teus inimigos. Come-os no caminho.',
+      pt: 'Corta os corações dos teus inimigos. Come-os no caminho.'
     }
   },
 
