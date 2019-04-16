@@ -7,7 +7,7 @@ export default [
       ru: 'Имя говорит само за себя. Осторожнее осколков.',
       es: 'La receta de fabricación es dos bloques de madera y un palo.',
       de: 'Der Name sagt alles. Vorsicht mit den Splittern.',
-      fr: 'Le nom dit tout. Attention aux éclats.'
+      fr: 'Le nom en dit long. Attention aux échardes.'
     }
   },
 
@@ -16,9 +16,9 @@ export default [
     description: {
       en: 'Not much better than a blunt piece of wood in my opinion.',
       ru: 'Не намного лучше, чем тупой кусок дерева, на мой взгляд.',
+      fr: 'À peine meilleure qu\'un morceau de bois émoussé, en mon humble avis.',
       es: 'No mucho mejor que un trozo de madera en mi opinión.',
-      de: 'Nicht viel besser als ein stumpfes Stück Holz, denke ich.',
-      fr: 'Pas mieux qu\'un bout de bois émoussé, à mon avis.'
+      de: 'Nicht viel besser als ein stumpfes Stück Holz, denke ich.'
     }
   },
 
@@ -29,7 +29,7 @@ export default [
       ru: 'меня высмеивают?',
       es: 'Los trolls usaron solo fe y bromas para hacer daño con sus armas ge guerra.',
       de: 'Werde ich verarscht?',
-      fr: 'Suis-je victime d\'une farce.'
+      fr: 'Suis-je victime d\'une farce?'
     }
   },
 
@@ -38,20 +38,20 @@ export default [
     description: {
       en: 'Some knight dropped this. Probably unintentionally.',
       ru: 'Какой-то рыцарь бросил это. Вероятно, непреднамеренно.',
+      fr: 'Un chevalier a échappé ceci. Probablement par accident.',
       es: 'Ey, finalmente, una espada real. Tal vez puede realmente ser útil.',
-      de: 'Ein Ritter hat das fallen lassen. Wahrscheinlich unbeabsichtigt.',
-      fr: 'Un chevalier a fait tomber ça. Probablement involontairement.'
+      de: 'Ein Ritter hat das fallen lassen. Wahrscheinlich unbeabsichtigt.'
     }
   },
 
   { // T5 item. names are english only!
     name       : { en: 'Longsword' },
     description: {
-      en: 'Long? yes. Deadly? Maybe. Just don\'t cut yourself.',
+      en: 'Long? Yes. Deadly? Maybe. Just don\'t cut yourself.',
       ru: 'длинный? да. Смертельный? Может быть. Только не порежься.',
+      fr: 'Longue? Oui. Mortelle? Peut-être. Ne te coupes pas avec en la maniant.',
       es: '¿Largo? Sí. ¿Mortal? Tal vez. No te cortes.',
-      de: 'Lang? Ja. Tödlich? Vielleicht. Schneidet euch nur nicht selbst.',
-      fr: 'Long ? Oui. Mortel ? Peut-être. Ne te coupe pas, c\'est tout.'
+      de: 'Lang? Ja. Tödlich? Vielleicht. Schneidet euch nur nicht selbst.'
     }
   },
   { // T6 item
@@ -61,7 +61,7 @@ export default [
       ru: 'Грубо вырезанный из кости древнего бегемота',
       es: 'Crudamente tallado de los huesos de un antiguo gigante.',
       de: 'Grob geschnitten aus den Knochen eines alten Riesen.',
-      fr: 'Sculpté grossièrement dans les os d\'un ancien monstre.'
+      fr: 'Sculpté grossièrement dans les os d\'un monstre ancien.'
     }
   },
   { // T7 item
@@ -81,7 +81,7 @@ export default [
       ru: 'Дьявольское изогнутое лезвие. Даже держа его, вы чувствуете его темную сущность.',
       es: 'Es una diabla curva. Incluso sostenerlo te hace sentir su oscura esencia.',
       de: 'Diabolisch geschwungene Klinge. Schon beim Halten spürt man seine dunkle Essenz.',
-      fr: 'Lame diabolique incurvée. Même le tenir vous fait sentir son essence sombre.'
+      fr: 'Lame diabolique incurvée. Même la tenir vous fait sentir son aura sombre.'
     }
   },
 
@@ -92,7 +92,7 @@ export default [
       ru: 'Холодный клинок с горячим нарезаm.',
       es: 'Error 403: El filo de la espada es nulo.',
       de: 'Eine kalt aussehende Klinge mit einer brennend heißen Scheibe.',
-      fr: 'Une lame d\'aspect froid avec une tranche chaude brûlante.'
+      fr: 'Une epée froide à la lame ardante.'
     }
   },
 
@@ -100,10 +100,10 @@ export default [
     name       : { en: 'Knight\'s Greatsword' },
     description: {
       en: 'A blade wielded by only the most skillful knights.',
-      ru: 'Клинок, которым владеют только самые умелые рыцари.',
-      es: 'Una espada blandida solo por los caballeros más hábiles.',
-      de: 'Eine Klinge, die nur von den geschicktesten Rittern geführt wird.',
-      fr: 'Une lame maniée par les chevaliers les plus habiles.'
+      ru: 'Клинок, которым владеют только самые умелые рыцари',
+      fr: 'Une lame maniée par les plus grands chevaliers.',
+      de: 'Eine Klinge, die nur von den geschicktesten Rittern geführt wird.'
+
     }
   },
 
@@ -112,31 +112,30 @@ export default [
     description: {
       en: 'Cylindrical sword stolen from an ancient king. Cutting capability is questionable.',
       ru: 'Цилиндрический меч украден у древнего короля. Возможность резки сомнительна.',
+      fr: 'Épée cylindrique volée à un ancien roi. Sa capacité à trancher reste questionnable.',
       es: 'Espada cilíndrica robada a un antiguo rey. La capacidad de corte es cuestionable.',
-      de: 'Zylindrisches Schwert, das einem alten König gestohlen wurde. Die Schneidfähigkeit ist fragwürdig.',
-      fr: 'Epée cylindrique volée à un ancien roi. La capacité de coupe est discutable.'
+      de: 'Zylindrisches Schwert, das einem alten König gestohlen wurde. Die Schneidfähigkeit ist fragwürdig.'
     }
   },
 
   { // T12 item
     name       : { en: 'Void Blade' },
     description: {
-      es: 'El fin de todo empieza con el descubrimiento de esta espada.',
-      en: 'Powerful masterpiece brought from the underworld.',
+      en: 'Poweful masterpiece brought from the underworld.',
       ru: 'Мощный шедевр привезен из подземного мира.',
-      de: 'Ein mächtiges Meisterwerk aus der Unterwelt.',
-      fr: 'Puissant chef-d\'oeuvre apporté des enfers.'
+      fr: 'Une puissante merveille livrée par les enfers elles-mêmes.',
+      de: 'Ein mächtiges Meisterwerk aus der Unterwelt.'
     }
   },
 
   { // T13 item
     name       : { en: 'Zerstörer' },
     description: {
-      en: 'A mysterious pink sword. Engravings say "Mächtig Zerstörer".',
-      ru: 'Таинственный розовый меч. Гравюры говорят "Mächtig Zerstörer."',
+      en: 'Mysterious pink sword. Engravings say "Mächtig Zerstörer".',
+      ru: 'Таинственный розовый меч. Гравюры говорят "Mächtig Zerstörer".',
+      fr: 'Une mystérieuse épée rose. Sur les gravures, nous pouvons lire: «Mächtig Zerstörer».',
       es: '¡Es rosa! Los grabados dicen "Mächtig Zerstörer".',
-      de: 'Ein mysteriöses rosa Schwert. Gravuren sagen "Mächtig Zerstörer".',
-      fr: 'Une mystérieuse épée rose. Les gravures disent "Puissant destructeur".'
+      de: 'Ein mysteriöses rosa Schwert. Gravuren sagen "Mächtig Zerstörer".'
     }
   },
 
@@ -147,18 +146,18 @@ export default [
       ru: 'Разрезает сердца ваших врагов. Eсть их по дороге.',
       es: 'Corazón, un parte de un desayuno completo.',
       de: 'Schneidet die Herzen eurer Feinde durch. Frisst sie auf dem Weg.',
-      fr: 'Ça coupe à travers le cœur de vos ennemis. Il les mange en chemin.'
+      fr: 'Elle tranche le cœur de vos ennemis et les déguste en chemin.'
     }
   },
 
   { // T15 item
     name       : { en: 'Demonedge' },
     description: {
-      en: 'It can cut demons, but not angels.',
-      ru: 'Oно может резать демонов, но не ангелов.',
+      en: 'It can cut demons, but not angels',
+      ru: 'Oно может резать демонов, но не ангелов',
+      fr: 'Elle peut éxecuter les démons, mais pas les anges.',
       es: 'Los santos los usaron en las guerras en los cielos.',
-      de: 'Es kann Dämonen besiegen, aber keine Engel.',
-      fr: 'Il peut tuer des démons, mais pas des anges.'
+      de: 'Es kann Dämonen besiegen, aber keine Engel.'
     }
   },
 
@@ -169,7 +168,7 @@ export default [
       ru: 'Нам сказали, что это было извлечено из камня. Все еще не можем найти камень.',
       es: 'Se dice que era tomado de una roca. ¿Dónde está la roca?',
       de: 'Es kann Dämonen besiegen, aber keine Engel.',
-      fr: 'Il peut tuer des démons, mais pas des anges.'
+      fr: 'La légende nous raconte qu\'elle fut extraite d\'une pierre. Introuvable, d\'ailleurs.'
     }
   },
 

@@ -11,11 +11,12 @@ const classes = [
 
 // Items
 import armlet from './items/armlet.js'
-import armor from './items/armor.js'
+import bag from './items/bag.js'
 import boot from './items/boot.js'
 import bow from './items/bow.js'
 import chest from './items/chest.js'
-import gloves from './items/gloves.js'
+import gem from './items/gem.js'
+import glove from './items/glove.js'
 import hammer from './items/hammer.js'
 import quiver from './items/quiver.js'
 import ring from './items/ring.js'
@@ -25,11 +26,12 @@ import sword from './items/sword.js'
 import talisman from './items/talisman.js'
 const items = {
   armlet,
-  armor,
+  bag,
   boot,
   bow,
   chest,
-  gloves,
+  gem,
+  glove,
   hammer,
   quiver,
   ring,
@@ -48,8 +50,10 @@ const factions = [
 
 // Npcs
 import conjurer from './npcs/conjurer.js'
+import trader from './npcs/trader.js'
 const npcs = {
-  conjurer
+  conjurer,
+  trader
 }
 
 // User interface
@@ -57,13 +61,13 @@ import charmenu from './ui/charmenu.js'
 import chat from './ui/chat.js'
 import clan from './ui/clan.js'
 import general from './ui/general.js'
-import name from './ui/inventory.js'
+import inventory from './ui/inventory.js'
 import settings from './ui/settings.js'
 const ui = {
   charmenu,
   chat,
   clan,
-  name,
+  inventory,
   settings,
   ...general }
 

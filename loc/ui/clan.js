@@ -3,48 +3,72 @@ export default {
   manager: {
     en: 'Clan Manager',
     ru: 'Клан Менеджер',
-    hi: 'दल प्रबंधक'
+    fr: 'Gestionnaire du clan',
+    hi: 'दल प्रबंधक',
+    es: 'Gerente de clan',
+    de: 'Clan-Manager'
   },
 
   leave: {
     en: 'Leave Clan',
     ru: 'Покинуть Клан',
-    hi: 'दल छोड़े'
+    fr: 'Quitter le clan',
+    hi: 'दल छोड़े',
+    es: 'Abandonar el clan',
+    de: 'Clan verlassen'
   },
 
-  clan: {
+  heading: {
     en: 'Clan',
     ru: 'Клан',
-    hi: 'दल'
+    fr: 'Clan',
+    hi: 'दल',
+    es: 'Clan',
+    de: 'Clan'
   },
 
   createheading: {
     en: 'Create Clan',
     ru: 'Создать Клан',
-    hi: 'दल बनाए'
+    fr: 'Créer un clan',
+    hi: 'दल बनाए',
+    es: 'Crear un clan',
+    de: 'Clan anlegen'
   },
 
   createinfo: {
     en: 'To create a clan you need',
     ru: 'Для создания клана вам нужно',
-    hi: 'दल बनाने के लिए आपको ज़रूरत है'
+    fr: 'Pour créer un clan, on requiert',
+    hi: 'दल बनाने के लिए आपको ज़रूरत है',
+    es: 'Para crear un clan, necesita',
+    de: 'Um einen Clan zu erstellen, brauchst du'
   },
 
-  clanname: {
+  createname: {
     en: 'Clan name',
     ru: 'Название клана',
-    hi: 'दल का नाम'
+    fr: 'Nom du clan',
+    hi: 'दल का नाम',
+    es: 'Nombre del clan',
+    de: 'Clan-Name'
   },
 
-  clantag: {
+  createtag: {
     en: 'Clan tag',
     ru: 'Тег клана',
-    hi: 'दल टैग'
+    fr: 'Tag du clan',
+    hi: 'दल टैग',
+    es: 'Etiqueta de clan',
+    de: 'Clan-Tag'
   },
 
   createbutton: {
     en: 'Create',
     ru: 'Создать',
-    hi: 'निर्माण करे'
+    fr: 'Créer',
+    hi: 'निर्माण करे',
+    es: 'Crear',
+    de: 'Erstellen'
   }
 }
