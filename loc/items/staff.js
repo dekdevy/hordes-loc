@@ -88,7 +88,7 @@ export default [
     description: {
       en: 'Dark purple staff. Quite mysterious in its making, yet nice to look at.',
       ru: 'Темно-фиолетовый посох. Совершенно таинственно в его создании, но приятно смотреть на него.',
-      hi: '',
+      hi: 'डार्क बैंगनी स्टाफ। काफी इसके निर्माण में रहस्यमय, अभी तक को देखने के लिए अच्छा।',
       es: 'El cayado de un pastor. Solo costó como noventa cobres y una gallina.',
       de: 'Dunkelvioletter Stab. Ziemlich mysteriös in seiner Entstehung, aber schön anzusehen.',
       fr: 'Bâton violet foncé. Assez mystérieux dans sa fabrication, mais agréable à regarder.'
