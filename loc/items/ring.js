@@ -6,7 +6,6 @@ export default [
       ru: 'Не смотрите на ево, а то он развалится.',
       es: 'No lo mires o se caerá a pedazos.',
       de: 'Sieh es dir nicht an, sonst fällt es auseinander.',
-      fr: 'Ne la regardez pas ou elle va s\'effondrer.',
       hi: 'इसकी तरफ़ देखना मत। टूट जाएगा।',
       fr: 'Un regard seulement et elle risque de se briser en miettes.',
       pt: 'Não olhes para ele ou vai desmoronar-se.'
@@ -46,7 +45,6 @@ export default [
       ru: 'Колто из остатков прошлова ужина.',
       es: 'Un anillo hecho con las sobras de anoche.',
       de: 'Ein Ring aus den Überresten der letzten Nächte.',
-      fr: 'Une bague faite des restes des dernières nuits.',
       hi: 'कल के बचे खुचे खाने से बनी अँगूठी।',
       fr: 'Une vertèbre de monstre aurait servit à sa fabrication.',
       pt: 'Um anel feito dos restos da noite passada.'
@@ -60,8 +58,7 @@ export default [
       ru: 'Эльфы сделали это кольцо, чтобы защитить себя от опасности, и удалось отдать его',
       es: 'Los elfos hicieron este anillo para protegerse del peligro y lograron regalarlo.',
       de: 'Die Elfen bauten diesen Ring, um sich vor Gefahren zu schützen, und es gelang ihnen, ihn wegzugeben.',
-      fr: 'Les elfes ont fabriqué cet anneau pour se protéger du danger et ont réussi à le donner.',
-      hi: 'एलव लोगों ने ख़ुद को ख़तरे से बचाने के लिए इसे बनाया था, और इसे हमें देने में सफल रहे।',
+      hi: 'एल्व लोगों ने ख़ुद को ख़तरे से बचाने के लिए इसे बनाया था, और इसे हमें देने में सफल रहे।',
       fr: 'Une bague d\'origine elfique ayant été léguée à ce monde.',
       pt: 'Os elfos fizeram este anel para se protegerem do perigo e conseguiram entregá-lo.'
     }
@@ -74,7 +71,6 @@ export default [
       ru: 'Хорошо вписывается, хотя эффекты, которые он дает, незначительны.',
       es: 'Encaja bien, aunque los efectos que produce son marginales.',
       de: 'Passt gut, auch wenn die Wirkung gering ist.',
-      fr: 'Elle convient bien, bien que les effets qu\'elle produit soient marginaux.',
       hi: 'सही बैठती है, भले ही इसकी शक्तियाँ कुछ ख़ास नहीं।',
       fr: 'S\'ajuste convenablement au doigt, bien que ses pouvoirs soient limités.',
       pt: 'Adapta-se muito bem, embora os efeitos que dá sejam marginais.'
@@ -88,7 +84,6 @@ export default [
       ru: 'Никто не знает, стоит ли ево надевать.',
       es: 'Nadie sabe si vale la pena ponerse esto.',
       de: 'Niemand weiß, ob es sich lohnt, sie anzuziehen.',
-      fr: 'Personne ne sait si cela vaut la peine d\'être mis en place.',
       hi: 'इसे पहना या ना पहना, कोई नहीं जानते।',
       fr: 'Personne ne sait si elle vaut la peine d\'être portée.',
       pt: 'Ninguém sabe se vale a pena vestir.'
@@ -102,7 +97,6 @@ export default [
       ru: 'Изумруды со всех сторон, чтобы вы чувствовали себя богатыми.',
       es: 'Esmeraldas por todos lados para que te sientas rico.',
       de: 'Smaragde auf allen Seiten, damit Sie sich reich fühlen.',
-      fr: 'Des émeraudes de tous les côtés pour vous faire sentir riche.',
       hi: 'इसके चारों ओर क़ीमती पत्थर जड़े है, जिनसे आप धनी महसूस करे।',
       fr: 'Incrustée d\'émeraudes pour vous faire sentir riche.',
       pt: 'Esmeraldas de todos os lados para te fazer sentir rico.'
@@ -142,7 +136,6 @@ export default [
       ru: 'Священный артефакт, потерянный святыми друидами.',
       es: 'Artefacto sagrado perdido por druidas sagrados.',
       de: 'Heiliges Artefakt, das von heiligen Druiden verloren wurde.',
-      fr: 'Artefact sacré perdu par les druides sacrés.',
       hi: 'पवित्र द्रुइड ने इस धार्मिक अँगूठी को खो दिया था।',
       fr: 'Artefact sacré perdu par des druides saints.',
       pt: 'Artefacto sagrado perdido pelos druidas sagrados.'
@@ -156,7 +149,6 @@ export default [
       ru: 'Хранитель мира .... не уверен в этом, но он может подержать тебя в живых ....',
       es: 'Guardián de la paz.... no estoy seguro de eso, pero podría mantenerte vivo.',
       de: 'Hüter des Friedens.... nicht sicher, aber vielleicht hält dich das am Leben.',
-      fr: 'Gardien de la paix.... pas sûr de ça, mais ça pourrait vous garder en vie.',
       hi: 'शांति की रखवाली....इसकी गैरंटी तो नहीं, पर आपको ज़िंदा रख पाएगी शायद....',
       fr: 'Gardien de la paix.... pas sûr de cela, mais elle saura vous garder en vie.',
       pt: 'Guardião da paz... não tenho a certeza disso, mas pode mantê-lo vivo...'
