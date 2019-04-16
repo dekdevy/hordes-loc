@@ -253,7 +253,7 @@ export default {
       bg: 'За да изтриете, въведете името на символа. Вашият герой не може да бъде възстановен.',
       cs: 'Chcete-li odstranit, zadejte název znaku. Vaše postava nemůže být obnovena.',
       el: 'Για να διαγράψετε, πληκτρολογήστε το όνομα του χαρακτήρα. Ο χαρακτήρας σας δεν μπορεί να αποκατασταθεί.',
-      ja: '削除するには、文字\の名前を入力します。あなたの性格は回復できません。',
+      ja: '削除するには、文字の名前を入力します。あなたの性格は回復できません。',
       ph: 'Upang tanggalin, i-type ang pangalan ng character. Ang iyong karakter ay hindi maibabalik.',
       it: 'Per cancellare, digita il nome del personaggio. Il tuo personaggio non può essere ripristinato.',
       pl: 'Aby usunąć, wpisz nazwę postaci. Twoja postać nie może zostać przywrócona.',
