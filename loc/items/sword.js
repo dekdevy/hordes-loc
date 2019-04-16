@@ -133,7 +133,7 @@ export default [
       en: 'Powerful masterpiece brought from the abysses of the underworld.',
       ru: 'Мощный шедевр, принесенный из бездны подземного мира.',
       fr: 'Une puissante merveille livrée par les enfers elles-mêmes.',
-      de: 'Ein mächtiges Meisterwerk aus der Unterwelt.',
+      de: 'Ein kraftvolles Meisterwerk aus den Abgründen der Unterwelt.',
       hi: 'पाताल से लायी गयी शक्तिशाली श्रेष्ठ रचना।'
     }
   },
