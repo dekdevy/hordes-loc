@@ -20,9 +20,9 @@ export default [
   {
     name       : {en: 'Turim' },
     description: {
-      en: 'Powerful transparent glass talisman, faint purple tint shows you the world in a melancholic light.',
-      ru: 'Мощный прозрачный стеклянный талисман, бледно-фиолетовый оттенок показывает мир в меланхолическом свете.',
-      es: 'Poderoso talismán de cristal transparente, de color púrpura pálido que muestra el mundo en una luz melancólica.'
+      en: 'Powerful transparent glass talisman, faint purple tint shows you the world in a melancholic light ',
+      es: 'Increíble talismán de cristal transparente, de color púrpura pálido que muestra el mundo en una luz melancólica.',
+      ru: 'Мощный прозрачный стеклянный талисман, бледно-фиолетовый оттенок показывает мир в меланхолическом свете.'
     }
   },
 
@@ -48,8 +48,8 @@ export default [
     name       : {en: 'Purum' },
     description: {
       en: 'Radiant titian glass-like gem revealing your foes hidden secrets.',
-      ru: 'Сияющий титьяновый стеклянный драгоценный камень, раскрывающий скрытые секреты ваших врагов...',
-      es: 'Radiante gema en forma de vidrio que revela los secretos ocultos de tus enemigos.'
+      es: 'Luminoso gema en forma de vidrio que revela los secretos ocultos de tus enemigos.',
+      ru: 'Сияющий титьяновый стеклянный драгоценный камень, раскрывающий скрытые секреты ваших врагов...'
     }
   },
 
@@ -57,8 +57,8 @@ export default [
     name       : {en: 'Royal' },
     description: {
       en: 'Grand red gem enclosed in abyss dark fissures, granting your foes a sense of jealousy.',
-      ru: 'Великий красный драгоценный камень, заключенный в бездну темных трещин, дарит врагам чувство ревности.',
-      es: 'Gran gema roja encerrada en las oscuras fisuras del abismo, dando a tus enemigos una sensación de celos.'
+      es: 'Magnífico gema roja encerrada en las oscuras fisuras del abismo, dando a tus enemigos una sensación de celos.',
+      ru: 'Великий красный драгоценный камень, заключенный в бездну темных трещин, дарит врагам чувство ревности.'
     }
   },
 
@@ -74,9 +74,9 @@ export default [
   {
     name       : {en: 'Gloomy' },
     description: {
-      en: 'Small, smooth and dark, this gem is possesses treacherous traits as it slips from its wielders hands...',
-      ru: 'Маленький, гладкий и темный, этот драгоценный камень обладает коварными чертами характера, как он выскальзывает из рук своих владельцев...',
-      es: 'Pequeña, lisa y oscura, esta gema posee rasgos traicioneros ya que se desliza de las manos de sus dueños...'
+      en: 'Small, smooth and dark, this gem possesses treacherous traits as it slips from its wielders hands...',
+      es: 'Pequeña, lisa y oscura, esta gema posee rasgos traicioneros ya que se desliza de las manos de sus dueños....',
+      ru: 'Маленький, гладкий и темный, этот драгоценный камень обладает коварными чертами характера, как он выскальзывает из рук своих владельцев...'
     }
   },
 
