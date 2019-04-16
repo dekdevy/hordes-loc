@@ -6,7 +6,8 @@ export default [
       ru: 'Не смотрите на ево, а то он развалится.',
       es: 'No lo mires o se caerá a pedazos.',
       de: 'Sieh es dir nicht an, sonst fällt es auseinander.',
-      fr: 'Un regard seulement et elle risque de se briser en miettes.'
+      fr: 'Un regard seulement et elle risque de se briser en miettes.',
+      pt: 'Não olhes para ele ou vai desmoronar-se.'
     }
   },
 
@@ -17,7 +18,8 @@ export default [
       ru: 'Не уверен насчет коры, но оно определена зделана из железы.',
       es: 'No estoy seguro de la corteza, pero definitivamente es de hierro.',
       de: 'Nicht sicher über die Rinde, aber sно оно определена зделана из железы\'est du fer.',
-      fr: 'Bague rudimentaire faite de bois surnommé «écorce de fer».'
+      fr: 'Bague rudimentaire faite de bois surnommé «écorce de fer».',
+      pt: 'Não tenho a certeza sobre a casca, mas é definitivamente feita de ferro.'
     }
   },
 
@@ -28,7 +30,8 @@ export default [
       ru: 'Наконец-то блисташия колто.',
       es: 'Finalmente, un anillo que brilla.',
       de: 'Endlich ein Ring, der glänzt.',
-      fr: 'Enfin, un anneau qui brille.'
+      fr: 'Enfin, un anneau qui brille.',
+      pt: 'Finalmente, um anel que é brilhante.'
     }
   },
 
@@ -39,18 +42,20 @@ export default [
       ru: 'Колто из остатков прошлова ужина.',
       es: 'Un anillo hecho con las sobras de anoche.',
       de: 'Ein Ring aus den Überresten der letzten Nächte.',
-      fr: 'Une vertèbre de monstre aurait servit à sa fabrication.'
+      fr: 'Une vertèbre de monstre aurait servit à sa fabrication.',
+      pt: 'Um anel feito dos restos da noite passada.'
     }
   },
 
   {
     name       : {en: 'Elven Band' },
     description: {
-      en: 'The elves made this ring to protect themselves from danger and suceeded in giving it away.',
+      en: 'The elves made this ring to protect themselves from danger and succeeded in giving it away.',
       ru: 'Эльфы сделали это кольцо, чтобы защитить себя от опасности, и удалось отдать его',
       es: 'Los elfos hicieron este anillo para protegerse del peligro y lograron regalarlo.',
       de: 'Die Elfen bauten diesen Ring, um sich vor Gefahren zu schützen, und es gelang ihnen, ihn wegzugeben.',
-      fr: 'Une bague d\'origine elfique ayant été léguée à ce monde.'
+      fr: 'Une bague d\'origine elfique ayant été léguée à ce monde.',
+      pt: 'Os elfos fizeram este anel para se protegerem do perigo e conseguiram entregá-lo.'
     }
   },
 
@@ -61,7 +66,8 @@ export default [
       ru: 'Хорошо вписывается, хотя эффекты, которые он дает, незначительны.',
       es: 'Encaja bien, aunque los efectos que produce son marginales.',
       de: 'Passt gut, auch wenn die Wirkung gering ist.',
-      fr: 'S\'ajuste convenablement au doigt, bien que ses pouvoirs soient limités.'
+      fr: 'S\'ajuste convenablement au doigt, bien que ses pouvoirs soient limités.',
+      pt: 'Adapta-se muito bem, embora os efeitos que dá sejam marginais.'
     }
   },
 
@@ -72,7 +78,8 @@ export default [
       ru: 'Никто не знает, стоит ли ево надевать.',
       es: 'Nadie sabe si vale la pena ponerse esto.',
       de: 'Niemand weiß, ob es sich lohnt, sie anzuziehen.',
-      fr: 'Personne ne sait si elle vaut la peine d\'être portée.'
+      fr: 'Personne ne sait si elle vaut la peine d\'être portée.',
+      pt: 'Ninguém sabe se vale a pena vestir.'
     }
   },
 
@@ -83,7 +90,8 @@ export default [
       ru: 'Изумруды со всех сторон, чтобы вы чувствовали себя богатыми.',
       es: 'Esmeraldas por todos lados para que te sientas rico.',
       de: 'Smaragde auf allen Seiten, damit Sie sich reich fühlen.',
-      fr: 'Incrustée d\'émeraudes pour vous faire sentir riche.'
+      fr: 'Incrustée d\'émeraudes pour vous faire sentir riche.',
+      pt: 'Esmeraldas de todos os lados para te fazer sentir rico.'
     }
   },
 
@@ -94,7 +102,8 @@ export default [
       es: 'Si pudiera hablar, probablemente se quejaría de ser triangular.',
       de: 'Gefühl zu geben, wenn es sprechen könnte, würde es sich wahrscheinlich darüber beschweren, dreieckig zu sein.',
       fr: 'Si elle pouvait parler, elle se plaindrait probablement d\'être triangulaire.',
-      ru: 'Если он мог говорить, он вероятно, пожаловался что он треугольный.'
+      ru: 'Если он мог говорить, он вероятно, пожаловался что он треугольный.',
+      pt: 'Se pudesse falar, provavelmente queixar-se-ia de ser triangular.'
     }
   },
 
@@ -105,7 +114,8 @@ export default [
       ru: 'Не существует никаких письменных отчетов о его происхождении ....',
       es: 'No existen registros escritos que nos indiquen su origen....',
       de: 'Es gibt keine schriftlichen Aufzeichnungen, um uns über die Herkunft zu informieren....',
-      fr: 'Il n\'existe aucune trace écrite de son origine....'
+      fr: 'Il n\'existe aucune trace écrite de son origine....',
+      pt: 'Não existem registos escritos que nos falem da sua origem...'
     }
   },
 
@@ -116,7 +126,8 @@ export default [
       ru: 'Священный артефакт, потерянный святыми друидами.',
       es: 'Artefacto sagrado perdido por druidas sagrados.',
       de: 'Heiliges Artefakt, das von heiligen Druiden verloren wurde.',
-      fr: 'Artefact sacré perdu par des druides saints.'
+      fr: 'Artefact sacré perdu par des druides saints.',
+      pt: 'Artefacto sagrado perdido pelos druidas sagrados.'
     }
   },
 
@@ -127,7 +138,8 @@ export default [
       ru: 'Хранитель мира .... не уверен в этом, но он может подержать тебя в живых ....',
       es: 'Guardián de la paz.... no estoy seguro de eso, pero podría mantenerte vivo.',
       de: 'Hüter des Friedens.... nicht sicher, aber vielleicht hält dich das am Leben.',
-      fr: 'Gardien de la paix.... pas sûr de cela, mais elle saura vous garder en vie.'
+      fr: 'Gardien de la paix.... pas sûr de cela, mais elle saura vous garder en vie.',
+      pt: 'Guardião da paz... não tenho a certeza disso, mas pode mantê-lo vivo...'
     }
   }
 
