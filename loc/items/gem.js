@@ -21,7 +21,7 @@ export default [
     name       : {en: 'Turim' },
     description: {
       en: 'Powerful transparent glass talisman, faint purple tint shows you the world in a melancholic light ',
-      es: 'Increíble talismán de cristal transparente, de color púrpura pálido que muestra el mundo en una luz melancólica.', 
+      es: 'Increíble talismán de cristal transparente, de color púrpura pálido que muestra el mundo en una luz melancólica.',
       ru: 'Мощный прозрачный стеклянный талисман, бледно-фиолетовый оттенок показывает мир в меланхолическом свете.'
     }
   },
@@ -49,7 +49,7 @@ export default [
     description: {
       en: 'Radiant titian glass-like gem revealing your foes hidden secrets.',
       es: 'Luminoso gema en forma de vidrio que revela los secretos ocultos de tus enemigos.',
-      ru: 'Сияющий титьяновый стеклянный драгоценный камень, раскрывающий скрытые секреты ваших врагов...',
+      ru: 'Сияющий титьяновый стеклянный драгоценный камень, раскрывающий скрытые секреты ваших врагов...'
     }
   },
 
