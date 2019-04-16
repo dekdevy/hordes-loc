@@ -8,7 +8,7 @@ export default {
     ko: '궁수',
     es: 'Arquero',
     fr: 'Archer',
-    pt: 'Arqueiro'
+    pt: 'Arqueiro',
     de: 'Bogenschütze'
   },
   // Class description, visible during character creation
