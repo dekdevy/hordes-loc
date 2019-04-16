@@ -131,7 +131,7 @@ export default [
     name       : { en: 'Void Blade' },
     description: {
       en: 'Powerful masterpiece brought from the abysses of the underworld.',
-      ru: 'Мощный шедевр привезен из подземного мира.',
+      ru: 'Мощный шедевр, принесенный из бездны подземного мира.',
       fr: 'Une puissante merveille livrée par les enfers elles-mêmes.',
       de: 'Ein mächtiges Meisterwerk aus der Unterwelt.',
       hi: 'पाताल से लायी गयी शक्तिशाली श्रेष्ठ रचना।'
