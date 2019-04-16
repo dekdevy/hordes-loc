@@ -3,8 +3,8 @@ export default [
     name       : {en: 'Lucid' },
     description: {
       en: 'Small and sharp, this pendant leaves shallow scrapes on your skin during battle.',
-      es: 'Pequeño y con punta afilada, este pendiente deja somero rasguños en la piel durante de la guerra.',
       ru: 'Маленький и острый, этот кулон оставляет мелкие царапины на коже во время боя.',
+      es: 'Pequeño y afilado, este colgante deja rasguños superficiales en la piel durante la batalla.',
       de: 'Klein und scharf, hinterlässt dieser Anhänger im Kampf flache Kratzer auf der Haut.',
       fr: 'Petit et pointu, ce pendentif laisse des éraflures peu profondes sur votre peau pendant le combat.'
     }
@@ -69,8 +69,8 @@ export default [
     name       : {en: 'Royal' },
     description: {
       en: 'Grand red gem enclosed in abyss dark fissures, granting your foes a sense of jealousy.',
-      es: 'Gran gema roja encerrada en las oscuras fisuras del abismo, dando a tus enemigos una sensación de celos.',
       ru: 'Великий красный драгоценный камень, заключенный в бездну темных трещин, дарит врагам чувство ревности.',
+      es: 'Gran gema roja encerrada en las oscuras fisuras del abismo, dando a tus enemigos una sensación de celos.',
       de: 'Großartiges rotes Juwel, umgeben von dunklen Rissen im Abgrund, das deinen Feinden ein Gefühl der Eifersucht verleiht.',
       fr: 'Grand joyau rouge enfermé dans des fissures sombres de l\'abîme, donnant à vos ennemis un sentiment de jalousie.'
     }
@@ -90,11 +90,11 @@ export default [
   {
     name       : {en: 'Gloomy' },
     description: {
-      en: 'Small, smooth and dark, this gem possesses treacherous traits as it slips from its wielders hands...',
+      en: 'Small, smooth and dark, this gem is possesses treacherous traits as it slips from its wielders hands...',
+      ru: 'Маленький, гладкий и темный, этот драгоценный камень обладает коварными чертами характера, как он выскальзывает из рук своих владельцев....',
       es: 'Pequeña, lisa y oscura, esta gema posee rasgos traicioneros ya que se desliza de las manos de sus dueños....',
-      ru: 'Маленький, гладкий и темный, этот драгоценный камень обладает коварными чертами характера, как он выскальзывает из рук своих владельцев...',
-      de: 'Klein, glatt und dunkel, besitzt dieses Juwel tückische Eigenschaften, wenn es aus den Händen seiner Besitzer rutscht.....',
-      fr: 'Petit, lisse et sombre, ce joyau possède des traits traîtres lorsqu\'il glisse des mains de ses manieurs....'
+      de: 'Klein, glatt und dunkel, besitzt dieses Juwel tückische Eigenschaften, während es aus den Händen seiner Besitzer rutscht...',
+      fr: 'Petit, lisse et sombre, ce joyau possède des traits traîtres lorsqu\'il glisse de ses mains de manieur....'
     }
   },
 
