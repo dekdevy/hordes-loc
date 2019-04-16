@@ -124,7 +124,7 @@ export default [
     description: {
       en: 'Eccentric rod with a pale blue stone embedded inside...',
       ru: 'Эксцентриковый стержень с бледно-голубым камнем, встроенным внутрь...',
-      hi: 'एक पीला नीले पत्थर अंदर एम्बेडेड के साथ सनकी रॉड ...',
+      hi: 'एक पीला नीले पत्थर अंदर एम्बेडेड के साथ सनकी रॉड...',
       es: 'Finalmente, ¡una varita de nieve para el mago de invierno!',
       de: 'Exzentrische Stange mit einem hellblauen Stein, der innen eingebettet ist...',
       fr: 'Tige excentrique avec une pierre bleu pâle incrustée à l\'intérieur...'
@@ -148,8 +148,8 @@ export default [
     description: {
       en: 'Its beauty calls out to you... to kill... to conquer...',
       ru: 'Его красота призывает тебя... убивать... завоевывать...',
-      hi: 'अपनी सुंदरता से जुड़ी जानकारी आप ... को मारने के लिए करने के लिए ... को जीत के लिए ...',
-      es: '¿Qué dice la belleza de este bastón? Te dice: "...mátalos... conquista el mundo... será divertido..."',
+      hi: 'अपनी सुंदरता से जुड़ी जानकारी आप... को मारने के लिए करने के लिए... को जीत के लिए...',
+      es: 'Su belleza te llama... a matar... a conquistar...',
       de: 'Seine Schönheit ruft nach dir, zu töten, zu erobern...',
       fr: 'Sa beauté vous interpelle... à tuer... à conquérir...'
     }
