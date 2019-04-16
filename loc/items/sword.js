@@ -130,7 +130,7 @@ export default [
   { // T12 item
     name       : { en: 'Void Blade' },
     description: {
-      en: 'Powerful masterpiece brought from the underworld.',
+      en: 'Powerful masterpiece brought from the abysses of the underworld.',
       ru: 'Мощный шедевр привезен из подземного мира.',
       fr: 'Une puissante merveille livrée par les enfers elles-mêmes.',
       de: 'Ein mächtiges Meisterwerk aus der Unterwelt.',
