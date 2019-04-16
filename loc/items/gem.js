@@ -21,7 +21,7 @@ export default [
     name       : {en: 'Turim' },
     description: {
       en: 'Powerful transparent glass talisman, faint purple tint shows you the world in a melancholic light ',
-      es: 'Increíble talismán de cristal transparente, de color púrpura pálido que muestra el mundo en una luz melancólica.' 
+      es: 'Increíble talismán de cristal transparente, de color púrpura pálido que muestra el mundo en una luz melancólica.', 
       ru: 'Мощный прозрачный стеклянный талисман, бледно-фиолетовый оттенок показывает мир в меланхолическом свете.'
     }
   },
