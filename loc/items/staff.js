@@ -15,7 +15,7 @@ export default [
     name       : {en: 'Cracked Stick' },
     description: {
       en: 'Desperate situations call for desperate measures.',
-      hi: '',
+      hi: 'हताश स्थितियों हताश उपायों के लिए कहते हैं।',
       ru: 'Отчаянные ситуации требуют отчаянных мер.',
       es: 'Has roto su palo. Está bien, todavía puedes usarlo.',
       de: 'Verzweifelte Situationen erfordern verzweifelte Maßnahmen.',
@@ -28,7 +28,7 @@ export default [
     description: {
       en: 'Scruffy broomstick stolen from a mage. Gnarled and bony.',
       ru: 'Потрепанная метла украдена у мага. Корявый и костлявый.',
-      hi: '',
+      hi: 'गंदा ब्रूमस्टिक एक दाना से चोरी हो। ऐंठा हुआ और बोनी।',
       es: 'Un palo de escoba desaliñado robado de un mago. Nudoso y huesudo.',
       de: 'Dreckiger Besenstiel, der einem Magier gestohlen wurde. Knurrig und knöchern.',
       fr: 'Un balai négligé volé à un mage. Noueux et osseux.'
@@ -52,7 +52,7 @@ export default [
     description: {
       en: 'Mystical weapon glowing with a mysterious essence.',
       ru: 'Мистическое оружие, светящееся загадочной сущностью.',
-      hi: '',
+      hi: 'रहस्यमय हथियार एक रहस्यमय सार के साथ चमक।',
       es: 'Arma mística que brilla con una esencia misteriosa.',
       de: 'Mystische Waffe, die mit einer mysteriösen Essenz angestrahlt wird.',
       fr: 'Une arme mystique qui brille d\'une essence mystérieuse.'
@@ -64,7 +64,7 @@ export default [
     description: {
       en: 'Nothing fancy about this weapon, just the femur of a lich.',
       ru: 'Ничего особенного в этом оружии, только бедро лича.',
-      hi: '',
+      hi: 'इस हथियार, बस एक लाश की फीमर के बारे में कल्पना कुछ भी नहीं।',
       es: 'El rey liche no necesitaba su fémur, así que lo usé para hacer una varita.',
       de: 'Nichts Besonderes an dieser Waffe, nur der Oberschenkelknochen eines Lichs.',
       fr: 'Cette arme n\'a rien d\'extravagant, juste le fémur d\'une liche.'
@@ -76,7 +76,7 @@ export default [
     description: {
       en: 'Long rod with a shimmering blue gem on its crown.',
       ru: 'Длинная палочка с синим мерцающим драгоценным камнем на короне.',
-      hi: '',
+      hi: 'अपने मुकुट पर एक झिलमिलाता नीले मणि के साथ लंबी छड़ी।',
       es: 'Varita larga, con una joya azul brillante en su corona.',
       de: 'Langer Stab, mit einem blau schimmernden Edelstein an der Krone.',
       fr: 'Longue baguette, avec une gemme bleue chatoyante à sa couronne.'
