@@ -62,7 +62,7 @@ export default [
       ru: 'Сияющий титьяновый стеклянный драгоценный камень, раскрывающий скрытые секреты ваших врагов.',
       de: 'Strahlender titianischer glasartiger Edelstein, der die verborgenen Geheimnisse deiner Feinde enthüllt.',
       fr: 'Gemme de verre titien rayonnante révélant les secrets cachés de vos ennemis.'
-      
+
     }
   },
 
