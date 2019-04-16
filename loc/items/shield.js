@@ -7,7 +7,9 @@ export default [
       es: 'Literalmente una tabla cuadrada de madera.',
       de: 'Buchstäblich eine quadratische Diele aus Holz.',
       fr: 'Littéralement une planche de bois carrée.',
-      it: 'Letteralmente una tavola quadrata di legno.'
+      hi: 'केवल एक लकड़ी का टुकड़ा।',
+      it: 'Letteralmente una tavola quadrata di legno.',
+      pt: 'Literalmente uma tábua quadrada de madeira.'
     }
   },
 
@@ -19,7 +21,9 @@ export default [
       es: 'Anillo de hierro fundido relleno de bronce. Frágil en su fabricación.',
       de: 'Geschmolzener Eisenring mit Bronzefüllung. Flimsy in seiner Entstehung.',
       fr: 'Bague en fonte de fer remplie de bronze. Frêle dans sa fabrication.',
-      it: 'Anello in ferro fuso riempito di bronzo. Flimsy nella sua realizzazione.'
+      it: 'Anello in ferro fuso riempito di bronzo. Flimsy nella sua realizzazione.',
+      pt: 'Anel de ferro fundido cheio de bronze. Frágil na sua confecção.',
+      hi: 'लोहा पिघलकर पीतल से भरी हुई। ठीक से नहीं बनी है।'
     }
   },
 
@@ -31,7 +35,9 @@ export default [
       es: 'Algún granjero ha conseguido construir un bonito escudo.',
       de: 'Einem Landwirt ist es gelungen, einen süßen kleinen Schild zu bauen.',
       fr: 'Un fermier a réussi à construire un joli petit bouclier.',
-      it: 'Qualche contadino è riuscito a costruire un piccolo scudo carino.'
+      hi: 'किसी किसान के एक छोटी सी ढाल बना ही ली।',
+      it: 'Qualche contadino è riuscito a costruire un piccolo scudo carino.',
+      pt: 'Algum agricultor conseguiu construir um pequeno e bonito escudo.'
     }
   },
 
@@ -43,7 +49,9 @@ export default [
       es: 'Intrincado escudo hecho de tres piezas de metal macizo. Robusto.',
       de: 'Aufwendiger Schild aus drei massiven Metallteilen. Robust.',
       fr: 'Bouclier complexe composé de trois pièces en métal massif. Robuste.',
-      it: 'Intricato scudo composto da tre pezzi di metallo massiccio. Robusto.'
+      hi: 'लोहे के तीन ठोस टुकड़ों से बनी जटील ढाल। तगड़ी है।',
+      it: 'Intricato scudo composto da tre pezzi di metallo massiccio. Robusto.',
+      pt: 'Escudo intrincado feito de três peças metálicas sólidas. Resistente.'
     }
   },
 
@@ -54,8 +62,10 @@ export default [
       ru: 'Изготовлен из обсидиана и стали. Кто-то небрежно попытался покрасить его в желтый цвет. Hе удалось.',
       es: 'Hecho de obsidiana y acero. Alguien intentó descuidadamente pintarlo de amarillo. Fracasaron. Miserablemente.',
       de: 'Hergestellt aus Obsidian und Stahl. Jemand versuchte schlampig, es gelb zu malen. Sie haben versagt. Elenderweise.',
-      fr: 'Fabriqué en obsidienne et en acier. Quelqu\'un a tenté de le peindre en jaune. Il a échoué. Misérablement.',
-      it: 'Questo è fatto di ossidiana e acciaio. Qualcuno ha tentato disordinatamente di dipingerlo di giallo. Hanno fallito. Miseramente.'
+      fr: 'Fabriqué en obsidienne et en acier. Quelqu\'un a tenté de le peindre en jaune. Ils ont échoué. Misérablement.',
+      hi: 'ओब्सिदीयन और इस्पात से बनी ढाल। किसी ने इसे पीला रंगने की कोशिश की पर उनसे सही से हो न पाया।',
+      it: 'Questo è fatto di ossidiana e acciaio. Qualcuno ha tentato disordinatamente di dipingerlo di giallo. Hanno fallito. Miseramente.',
+      pt: 'Feito de obsidiana e aço. Alguém descuidadamente tentou pintá-lo de amarelo. Eles falharam. Miseravelmente.'
     }
   }
 

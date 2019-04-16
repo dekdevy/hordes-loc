@@ -15,7 +15,7 @@ export default [
     description: {
       en: 'Rough disc-shaped gray stone with strange druidical engravings encasing it.',
       ru: 'Серый камень грубой дисковой формы со странной друидной гравюрой на его поверхности.',
-      es: 'Piedra gris en forma de disco áspero con extraños grabados druidales que lo encierran.',
+      es: 'Rugoso con forma de disco gris pierda con extraños inscripción druídicos que lo cerrar.',
       de: 'Grober scheibenförmiger grauer Stein mit seltsamen druidischen Gravuren, die ihn umgeben.',
       fr: 'Pierre grise brute en forme de disque avec d\'étranges gravures druidiques qui l\'entourent.'
     }
@@ -24,11 +24,11 @@ export default [
   {
     name       : {en: 'Turim' },
     description: {
-      en: 'Powerful transparent glass talisman, faint purple tint shows you the world in a melancholic light.',
-      ru: 'Мощный прозрачный стеклянный талисман, бледно-фиолетовый оттенок показывает мир в меланхолическом свете. ',
+      en: 'Powerful transparent glass talisman, faint purple tint shows you the world in a melancholic light ',
       es: 'Poderoso talismán de cristal transparente, de color púrpura pálido que muestra el mundo en una luz melancólica.',
-      de: 'Kraftvoller transparenter Glas-Talisman, schwacher Violett-Ton zeigt Ihnen die Welt in einem melancholischen Licht.',
-      fr: 'Puissant talisman en verre transparent, légèrement violet teinté de violet vous montre le monde dans une lumière mélancolique.'
+      ru: 'Мощный прозрачный стеклянный талисман, бледно-фиолетовый оттенок показывает мир в меланхолическом свете.',
+      de: 'Kraftvoller transparenter Glas-Talisman, schwacher Violett-Ton zeigt Ihnen die Welt in einem melancholischen Licht. ',
+      fr: 'Puissant talisman en verre transparent, légèrement violet teinté de violet te montre le monde dans une lumière mélancolique.'
     }
   },
 
@@ -37,7 +37,7 @@ export default [
     description: {
       en: 'Brown desaturated gem, emitting putrid scents as you wear it around your neck.',
       ru: 'Драгоценный камень коричневого цвета, излучающий гнилой аромат, когда вы носите его на шее.',
-      es: 'Gema desaturada marrón, que emite olores pútridos mientras la llevas alrededor del cuello.',
+      es: 'Gema desaturada marrón, que emite olores pútridos al llevarlo alrededor del cuello.',
       de: 'Brauner, entsättigter Edelstein, der faulige Gerüche abgibt, wenn man ihn um den Hals trägt.',
       fr: 'Bijou brun désaturé, émettant des senteurs putrides lorsque vous le portez autour de votre cou.'
     }
@@ -48,7 +48,7 @@ export default [
     description: {
       en: 'Lustrous blue artifact, exposed wispy white veins running along its spherical surface.',
       ru: 'Блестящий синий артефакт, открытые пухлые белые вены, протекающие по его сферической поверхности.',
-      es: 'Lustroso artefacto azul, expuestas vetas blancas y delgadas que corren a lo largo de su superficie esférica.',
+      es: 'Lustroso artefacto azul, vetas blancas y delgadas expuestas que corren a lo largo de su superficie esférica.',
       de: 'Glänzend blaues Artefakt, freiliegende, wischig weiße Adern, die entlang seiner kugelförmigen Oberfläche verlaufen.',
       fr: 'Artefact bleu lustré, veines blanches et brillantes le long de sa surface sphérique.'
     }
@@ -58,8 +58,8 @@ export default [
     name       : {en: 'Purum' },
     description: {
       en: 'Radiant titian glass-like gem revealing your foes hidden secrets.',
-      ru: 'Сияющий титьяновый стеклянный драгоценный камень, раскрывающий скрытые секреты врагов.',
-      es: 'Radiante gema en forma de vidrio que revela los secretos ocultos de tus enemigos.',
+      es: 'Luminoso gema en forma de vidrio que revela los secretos ocultos de tus enemigos.',
+      ru: 'Сияющий титьяновый стеклянный драгоценный камень, раскрывающий скрытые секреты ваших врагов.',
       de: 'Strahlender titianischer glasartiger Edelstein, der die verborgenen Geheimnisse deiner Feinde enthüllt.',
       fr: 'Gemme de verre titien rayonnante révélant les secrets cachés de vos ennemis.'
     }
@@ -102,7 +102,7 @@ export default [
     name       : {en: 'Pluris' },
     description: {
       en: 'Spectacular saturated pink plumes rise from this faceted prismical gem. Your foes to stare at you with awe...',
-      ru: '',
+      ru: 'Из этого граненого призматического камня поднимаются впечатляющие насыщенные розовые плюмы. Твои враги с восхищением смотрят на тебя...',
       es: 'Espectaculares plumas rosas saturadas surgen de esta gema prismática facetada. Tus enemigos te mirarán con asombro...',
       de: 'Spektakuläre, gesättigte rosa Federn erheben sich aus diesem facettierten prismatischen Juwel. Deine Feinde, die dich mit Ehrfurcht anstarren...',
       fr: 'Des panaches roses saturés spectaculaires s\'élèvent de ce joyau prismatique à facettes. Vos ennemis vous regardent avec crainte...'
@@ -113,10 +113,10 @@ export default [
     name       : {en: 'Aeter' },
     description: {
       en: 'Bright green lights occasionally span out of this glass gem, casting projections of the wearers future.',
-      ru: '',
-      es: 'Las luces verdes brillantes se extienden ocasionalmente fuera de esta gema de cristal, proyectando proyecciones del futuro de los usuarios.',
+      ru: 'Яркий зеленый свет иногда проливается из этого стеклянного камня, бросая в глаза бросая в гласа владельта ево будущея.',
+      es: 'Las luces verdes vivo extienden a veces fuera de esta gema de cristal, proyecciones de fundición del futuro de los usuarios.',
       de: 'Strahlend grüne Lichter ragen gelegentlich aus diesem Glasjuwel heraus und werfen Projektionen der Zukunft der Träger hervor.',
-      fr: 'Des lumières vertes brillantes s''étendent occasionnellement à l\'extérieur de ce joyau de verre, projetant les projections de l\'avenir de ceux qui le portent.'
+      fr: 'Des lumières vertes brillantes s\'étendent occasionnellement à l\'extérieur de ce joyau de verre, projetant les projections de l\'avenir de ceux qui le portent.'
     }
   }
 ]
