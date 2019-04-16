@@ -100,7 +100,7 @@ export default [
     description: {
       en: 'Constructed from emeralds stolen from the mountain dwarves.',
       ru: 'Создан из изумрудов украденных у горных гномов.',
-      hi: '',
+      hi: 'पहाड़ बौने से चोरी पन्ने से निर्माण किया।',
       es: 'Hay una enana en las montañas, se llama Esmeralda. Ella solo hace varitas de esmeralda por algún razón.',
       de: 'Gebaut aus Smaragden, die den Bergweibchen gestohlen wurden.',
       fr: 'Construit à partir d\'émeraudes volées aux nains des montagnes.'
@@ -112,7 +112,7 @@ export default [
     description: {
       en: 'Strange... the staff seems... triangular...',
       ru: 'Странно... посох кажется... треугольным...',
-      hi: '',
+      hi: 'अजीब... स्टाफ लगता है... त्रिकोणीय...',
       es: 'Extraño... el bastón parece... triangular...',
       de: 'Seltsam... der Stab scheint... dreieckig...',
       fr: 'Bizarre... le bâton semble... triangulaire...'
