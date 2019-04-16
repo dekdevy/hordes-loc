@@ -108,7 +108,7 @@ export default [
     description: {
       en: 'Holy tool used by druids to make sacrifices to the ancient nature gods.',
       ru: 'Святой инструмент, используемый друидами, чтобы приносить жертвы древним богам природы.',
-      hi: '',
+      hi: 'पवित्र पुरोहित द्वारा प्रयोग किया जाता प्राचीन प्रकृति देवताओं को बलिदान करने के लिए उपकरण।',
       es: 'Herramienta sagrada usada por los druidas para hacer sacrificios al gran dios, Yggdrasil.',
       de: 'Heiliges Werkzeug, das von Druiden benutzt wird, um dem großen Gott Yggdrasil Opfer zu bringen.',
       fr: 'Outil sacré utilisé par les druides pour faire des sacrifices au grand dieu, Yggdrasil.',
@@ -121,7 +121,7 @@ export default [
     description: {
       en: 'Heavy basher used by dwarven warriors. Made of an unknown metal, dark and heavy.',
       ru: 'Тяжелый башер, используемый гномами-воинами. Изготовлен из неизвестного металла, темный и тяжелый.',
-      hi: '',
+      hi: 'भारी बौना योद्धाओं द्वारा प्रयोग किया जाता basher। एक अज्ञात धातु, काले और भारी से बना।',
       es: 'Golpeador pesado usado por los guerreros enanos. Hecho de un metal desconocido, oscuro y pesado.',
       de: 'Schwerer Schläger, der von Zwergenkrieger benutzt wird. Hergestellt aus einem unbekannten Metall, dunkel und schwer.',
       fr: 'Une arme lourde utilisée par les guerriers nains. Fait d\'un métal inconnu, sombre et lourd.',
@@ -134,7 +134,7 @@ export default [
     description: {
       en: 'Forged without heat, kills without mercy.',
       ru: 'Выкован без тепла, убивает без пощады.',
-      hi: '',
+      hi: 'गर्मी के बिना जाली, दया के बिना मर जाते हैं।',
       es: 'Forjado sin calor, mata sin misericordia.',
       de: 'Ohne Hitze geschmiedet, ohne Gnade getötet.',
       fr: 'Forgé sans chaleur, tue sans pitié.',
