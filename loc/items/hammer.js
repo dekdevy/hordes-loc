@@ -186,7 +186,7 @@ export default [
     description: {
       en: 'Some say its made by dwarves, others say by elves... the truth is yet to be uncovered.',
       ru: 'Некоторые говорят, что он сделано дварфами, другие говорят эльфами... правда еще не раскрыта.',
-      hi: '',
+      hi: 'कुछ लोग कहते हैं अपने बौने द्वारा बनाई गई हैं, दूसरों का कहना है कि कल्पित बौने से ... सच का पर्दाफाश किया जा करने के लिए अभी तक है।',
       es: 'Madre Tierra da, y Madre Tierra quita. En este caso, dio.',
       de: 'Einige sagen, dass es von Zwergen gemacht wurde, andere sagen, dass es von Elfen gemacht wurde... die Wahrheit ist noch nicht enthüllt.',
       fr: 'Certains disent que c\'est fait par des nains, d\'autres par des elfes... la vérité na pas encore été découverte.',
@@ -199,7 +199,7 @@ export default [
     description: {
       en: 'Does it have the power to end worlds? Few can say. If it does, we will not live long enough to learn of it.',
       ru: 'Есть ли у него сила, чтобы положить конец мирам? Мало кто может сказать. Если это произойдет, мы не будем жить достаточно долго, чтобы узнать об этом.',
-      hi: '',
+      hi: 'यह शक्ति दुनिया समाप्त करने के लिए है? कुछ कह सकते हैं। यदि ऐसा है, हम लंबे इसके बारे में जानने के लिए पर्याप्त नहीं रह जाएगा।',
       es: '¿Tiene el poder de acabar con los mundos? Pocos pueden decirlo. Si lo hace, no viviremos lo suficiente para aprenderlo.',
       de: 'Hat sie die Macht, Welten zu beenden? Nur wenige können das sagen. Wenn dies der Fall ist, werden wir nicht lange genug leben, um davon zu erfahren.',
       fr: 'A-t-il le pouvoir de mettre fin aux mondes ? Peu de gens peuvent le dire. Si c\'est le cas, nous ne vivrons pas assez longtemps pour l\'apprendre.',
@@ -212,7 +212,7 @@ export default [
     description: {
       en: 'A mysterious magician soaked many intricate charms into this weapon, bringing ghastly thoughts and dreams to its wielder.',
       ru: 'Таинственный волшебник впитал множество замысловатых чар на этом оружии, принося ужасные мысли и мечты его обладателю.',
-      hi: '',
+      hi: 'एक रहस्यमय जादूगर इस हथियार के रूप में कई जटिल आकर्षण लथपथ, अपने मेजबान के लिए भयंकर विचारों और सपनों को लाते हैं।',
       es: 'Un mago misterioso empapó muchos encantos intrincados en esta arma, trayendo pensamientos y sueños espantosos a su portador.',
       de: 'Mysteriöser Magier, der mit vielen komplizierten Reizen auf dieser Waffe getränkt ist und schreckliche Gedanken und Träume zu seinem Verwalter bringt.',
       fr: 'Mystérieux magicien trempé dans de nombreux charmes complexes sur cette arme, apportant des pensées et des rêves épouvantables à celui qui l\'utilise.',
