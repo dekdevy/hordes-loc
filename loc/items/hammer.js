@@ -42,8 +42,8 @@ export default [
     name       : {en: 'Orcish Bludgeon' },
     description: {
       en: 'Orcs follow the wielder of this meager weapon. It\'s pretty useless, but they seem to like it...',
-      ru: 'Орки следуют за обладателем этого оружия. Oн довольно бесполезно, но им похоже нравится ...',
-      hi: 'राक्षसों के इस अल्प हथियार के wielder का पालन करें। यह बहुत बेकार है, लेकिन वे इसे पसंद करने लगते हैं ...',
+      ru: 'Орки следуют за обладателем этого оружия. Oн довольно бесполезно, но им похоже нравится...',
+      hi: 'राक्षसों के इस अल्प हथियार के wielder का पालन करें। यह बहुत बेकार है, लेकिन वे इसे पसंद करने लगते हैं...',
       es: 'Los Orcos siguen al portador de esta magra arma. Es bastante inútil, pero parece que les gusta...',
       de: 'Orks folgen dem Besitzer dieser mageren Waffe. Es ist ziemlich nutzlos, aber sie scheinen es zu mögen...',
       fr: 'Les Orques suivent le maître de cette maigre arme. C\'est plutôt inutile, mais ils ont l\'air d\'aimer ça...',
@@ -69,7 +69,7 @@ export default [
     description: {
       en: 'Strange rod-like basher. Seems crude and emits a faint smell of druid oils...',
       ru: 'Странный стержнеобразный башер. Кажется грубый и испускает слабый запах друидских масел...',
-      hi: 'अजीब छड़ी की तरह basher। कच्चे तेल लगता है और ड्र्यूड तेलों की एक बेहोश गंध का उत्सर्जन करता है ...',
+      hi: 'अजीब छड़ी की तरह basher। कच्चे तेल लगता है और ड्र्यूड तेलों की एक बेहोश गंध का उत्सर्जन करता है...',
       es: 'Extraño golpeador en forma de varilla. Parece crudo y emite un ligero olor a aceite de druida...',
       de: 'Seltsamer stabförmiger Schläger. Scheint roh zu sein und verströmt einen schwachen Geruch von Druidenölen...',
       fr: 'Étrange batteur en forme de baguette. Semble brut et émet une légère odeur d\'huile de druide...',
@@ -187,7 +187,7 @@ export default [
       en: 'Some say its made by dwarves, others say by elves... the truth is yet to be uncovered.',
       ru: 'Некоторые говорят, что он сделано дварфами, другие говорят эльфами... правда еще не раскрыта.',
       hi: 'कुछ लोग कहते हैं अपने बौने द्वारा बनाई गई हैं, दूसरों का कहना है कि कल्पित बौने से ... सच का पर्दाफाश किया जा करने के लिए अभी तक है।',
-      es: 'Madre Tierra da, y Madre Tierra quita. En este caso, dio.',
+      es: 'Algunos dicen que está hecho por enanos, otros dicen que por elfos... la verdad aún no ha sido descubierta.',
       de: 'Einige sagen, dass es von Zwergen gemacht wurde, andere sagen, dass es von Elfen gemacht wurde... die Wahrheit ist noch nicht enthüllt.',
       fr: 'Certains disent que c\'est fait par des nains, d\'autres par des elfes... la vérité na pas encore été découverte.',
       pt: 'Alguns dizem que é feita por anões, outros por elfos... a verdade ainda está por descobrir.'
