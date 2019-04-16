@@ -18,7 +18,7 @@ export default {
     es: 'controles',
     de: 'Kontrollen',
     fr: 'commandes',
-    nl: 'besturingselementen'
+    nl: 'bediening'
   },
 
   lockedcamera: {
@@ -28,7 +28,7 @@ export default {
     es: 'Cámara fija',
     de: 'Gesperrte Kamera',
     fr: 'Caméra verrouillée',
-    nl: 'Vergrendelde camera'
+    nl: 'Gesloten camera'
   },
 
   graphics: {
