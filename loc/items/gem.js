@@ -26,8 +26,6 @@ export default [
     description: {
       en: 'Powerful transparent glass talisman, faint purple tint shows you the world in a melancholic light ',
       es: 'Poderoso talismán de cristal transparente, de color púrpura pálido que muestra el mundo en una luz melancólica.',
-      en: 'Powerful transparent glass talisman, faint purple tint shows you the world in a melancholic light.',
-      es: 'Increíble talismán de cristal transparente, de color púrpura pálido que muestra el mundo en una luz melancólica.',
       ru: 'Мощный прозрачный стеклянный талисман, бледно-фиолетовый оттенок показывает мир в меланхолическом свете.',
       de: 'Kraftvoller transparenter Glas-Talisman, schwacher Violett-Ton zeigt Ihnen die Welt in einem melancholischen Licht. ',
       fr: 'Puissant talisman en verre transparent, légèrement violet teinté de violet te montre le monde dans une lumière mélancolique.'
