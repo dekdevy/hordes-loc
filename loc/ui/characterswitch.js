@@ -8,6 +8,15 @@ export default {
     de: 'Abmeldung',
     fr: 'Déconnexion',
     ko: '로그 아웃'
+    pt: 'terminar a sessão'
+    in: 'disconnettersi'
+    ar: 'يُسَجِّلُ الْخُرُوْجَ'
+    zh: '登出'
+    se: 'logga av'
+    ja: 'ログオフする'
+    nb: 'logge ut'
+    cs: 'odhlásit se'
+    pl: 'wylogować się'
   },
 
   home: {
@@ -18,5 +27,14 @@ export default {
     de: 'Startseite',
     fr: 'Accueil',
     ko: '홈페이지'
+    pt: 'pagina inicial'
+    in: 'Home page'
+    ar: 'صَفْحَةٌ رَئِيسِيَّة'
+    zh: '主页'
+    se: 'hemsida'
+    ja: 'ホームページ'
+    nb: 'hjemmeside'
+    cs: 'domovská stránka'
+    pl: 'strona główna'
   }
 }
