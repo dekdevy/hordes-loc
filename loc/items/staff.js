@@ -124,7 +124,7 @@ export default [
     description: {
       en: 'Eccentric rod with a pale blue stone embedded inside...',
       ru: 'Эксцентриковый стержень с бледно-голубым камнем, встроенным внутрь...',
-      hi: '',
+      hi: 'एक पीला नीले पत्थर अंदर एम्बेडेड के साथ सनकी रॉड ...',
       es: 'Finalmente, ¡una varita de nieve para el mago de invierno!',
       de: 'Exzentrische Stange mit einem hellblauen Stein, der innen eingebettet ist...',
       fr: 'Tige excentrique avec une pierre bleu pâle incrustée à l\'intérieur...'
@@ -136,7 +136,7 @@ export default [
     description: {
       en: 'Constructed by unknown blacksmiths residing in fabled valleys.',
       ru: 'Построен неизвестными кузнецами, живущими в сказочных долинах.',
-      hi: '',
+      hi: 'पौराणिक घाटियों में रहने वाले अज्ञात लोहार द्वारा निर्मित।',
       es: 'Construido por herreros desconocidos que residen en valles legendarios.',
       fr: 'Confectionné par des forgerons inconnus résidant dans des vallées légendaires.'
 
