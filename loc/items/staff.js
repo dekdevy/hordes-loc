@@ -170,12 +170,12 @@ export default [
   {
     name       : {en: 'Crystal Core' },
     description: {
-      en: 'Crude in its looks, yet mighty at its core...',
-      ru: 'Грубый в своей внешности, но могущественный по его ядро...',
-      hi: 'इसके दिखता में क्रूड, अभी तक अपने मूल में शक्तिशाली ...',
-      es: 'Crudo en su aspecto, pero poderoso en su núcleo...',
-      de: 'Grob in seinem Aussehen, aber mächtig in seinem Kern...',
-      fr: 'Rudimentaire en apparence, mais puissant dans son essence....'
+      en: 'Crude in its looks, yet mighty at its heart...',
+      ru: 'Грубая внешность, но могущественная в глубине сердца...',
+      hi: 'इसके दिखता में क्रूड, अभी तक अपने दिल में शक्तिशाली...',
+      es: 'Crudo en su aspecto, pero poderoso en su corazón....',
+      de: 'Grob in seinem Aussehen, aber mächtig in seinem Herzen.....',
+      fr: 'Brut dans son apparence, mais puissant dans son cœur....'
     }
   },
 
