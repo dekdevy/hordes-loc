@@ -7,7 +7,8 @@ export default [
       de: 'Weich, voller Löcher. Pfeile fallen immer wieder heraus.',
       es: 'Si, los calcetines también pueden ser una aljaba.',
       fr: 'Un carquois en linge dont les flèches n\'arrêtent pas de tomber.',
-      it: 'Morbido, pieno di buchi. Le frecce continuano a cadere.'
+      it: 'Morbido, pieno di buchi. Le frecce continuano a cadere.',
+      pt: 'Suave, cheio de buracos. As setas continuam caindo.'
     }
   },
 
@@ -19,7 +20,8 @@ export default [
       de: 'Leinensack mit steifem Leder bezogen.',
       es: 'Una bolsa de lana con cuero.',
       fr: 'Sac en lin recouvert de cuir rigide.',
-      it: 'Sacco in lino rivestito in pelle rigida.'
+      it: 'Sacco in lino rivestito in pelle rigida.',
+      pt: 'Saco de linho coberto de couro rígido.'
     }
   },
 
@@ -31,7 +33,8 @@ export default [
       de: 'Wird verwendet, wenn alles andere fehlschlägt.',
       es: 'Nunca se queda sin flechas.',
       fr: 'À utiliser lorsque tout le reste échoue.',
-      it: 'Usato quando tutto il resto fallisce.'
+      it: 'Usato quando tutto il resto fallisce.',
+      pt: 'Usado quando tudo o resto falha.'
     }
   },
 
@@ -43,7 +46,8 @@ export default [
       de: 'Elfenköcher, beschichtet mit schimmerndem Diamanten.',
       es: 'Un carcaj cubrierto en diamante creado por los duendes.',
       fr: 'Carquois elfique décoré de diamants brillants.',
-      it: 'Faretra elfica rivestita di diamante luccicante.'
+      it: 'Faretra elfica rivestita di diamante luccicante.',
+      pt: 'Aljava elfica revestida com diamante cintilante.'
     }
   },
 
@@ -55,7 +59,8 @@ export default [
       de: 'Jedes Mal, wenn du einen Pfeil herausziehst, zischt er dich an.',
       es: '¡Serpientes! ¿¡Por qué tenía que ser serpientes!?',
       fr: 'Un carquois fait en peau de serpent, pouvant supporter les plus puissantes flèches.',
-      it: 'Ogni volta che tiri fuori una freccia, ti sibila addosso.'
+      it: 'Ogni volta che tiri fuori una freccia, ti sibila addosso.',
+      pt: 'Sempre que puxas uma flecha para fora, ela sibila para ti.'
     }
   }
 
