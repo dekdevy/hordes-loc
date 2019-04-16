@@ -3,8 +3,8 @@ export default [
     name       : {en: 'Lucid' },
     description: {
       en: 'Small and sharp, this pendant leaves shallow scrapes on your skin during battle.',
-      ru: 'Маленький и острый, этот кулон оставляет мелкие царапины на коже во время боя.',
       es: 'Pequeño y con punta afilada, este pendiente deja somero rasguños en la piel durante de la guerra.',
+      ru: 'Маленький и острый, этот кулон оставляет мелкие царапины на коже во время боя.',
       de: 'Klein und scharf, hinterlässt dieser Anhänger im Kampf flache Kratzer auf der Haut.',
       fr: 'Petit et pointu, ce pendentif laisse des éraflures peu profondes sur votre peau pendant le combat.'
     }
@@ -24,6 +24,8 @@ export default [
   {
     name       : {en: 'Turim' },
     description: {
+      en: 'Powerful transparent glass talisman, faint purple tint shows you the world in a melancholic light ',
+      es: 'Poderoso talismán de cristal transparente, de color púrpura pálido que muestra el mundo en una luz melancólica.',
       en: 'Powerful transparent glass talisman, faint purple tint shows you the world in a melancholic light.',
       es: 'Increíble talismán de cristal transparente, de color púrpura pálido que muestra el mundo en una luz melancólica.',
       ru: 'Мощный прозрачный стеклянный талисман, бледно-фиолетовый оттенок показывает мир в меланхолическом свете.',
@@ -62,7 +64,6 @@ export default [
       ru: 'Сияющий титьяновый стеклянный драгоценный камень, раскрывающий скрытые секреты ваших врагов.',
       de: 'Strahlender titianischer glasartiger Edelstein, der die verborgenen Geheimnisse deiner Feinde enthüllt.',
       fr: 'Gemme de verre titien rayonnante révélant les secrets cachés de vos ennemis.'
-
     }
   },
 
@@ -70,7 +71,7 @@ export default [
     name       : {en: 'Royal' },
     description: {
       en: 'Grand red gem enclosed in abyss dark fissures, granting your foes a sense of jealousy.',
-      es: 'Magnífico gema roja encerrada en las oscuras fisuras del abismo, dando a tus enemigos una sensación de celos.',
+      es: 'Gran gema roja encerrada en las oscuras fisuras del abismo, dando a tus enemigos una sensación de celos.',
       ru: 'Великий красный драгоценный камень, заключенный в бездну темных трещин, дарит врагам чувство ревности.',
       de: 'Großartiges rotes Juwel, umgeben von dunklen Rissen im Abgrund, das deinen Feinden ein Gefühl der Eifersucht verleiht.',
       fr: 'Grand joyau rouge enfermé dans des fissures sombres de l\'abîme, donnant à vos ennemis un sentiment de jalousie.'
