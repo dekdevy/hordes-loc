@@ -172,7 +172,7 @@ export default [
     description: {
       en: 'Crude in its looks, yet mighty at its core...',
       ru: 'Грубый в своей внешности, но могущественный по его ядро...',
-      hi: '',
+      hi: 'इसके दिखता में क्रूड, अभी तक अपने मूल में शक्तिशाली ...',
       es: 'Crudo en su aspecto, pero poderoso en su núcleo...',
       de: 'Grob in seinem Aussehen, aber mächtig in seinem Kern...',
       fr: 'Rudimentaire en apparence, mais puissant dans son essence....'
