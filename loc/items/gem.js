@@ -59,7 +59,7 @@ export default [
     name       : {en: 'Tara' },
     description: {
       en: 'The sharp green edges catch sparkling light in the sun, making a beautiful and deadly sight.',
-      ru: ''
+      ru: 'Острые зеленые края улавливают блики на солнце, создавая прекрасный и смертоносный вид.'
     }
   },
 
@@ -67,7 +67,7 @@ export default [
     name       : {en: 'Gloomy' },
     description: {
       en: 'Small, smooth and dark, this gem is possesses treacherous traits as it slips from its wielders hands...',
-      ru: ''
+      ru: 'Маленький, гладкий и темный, этот драгоценный камень обладает коварными чертами характера, как он выскальзывает из рук своих владельцев....'
     }
   },
 
@@ -75,7 +75,7 @@ export default [
     name       : {en: 'Pluris' },
     description: {
       en: 'Spectacular saturated pink plumes rise from this faceted prismical gem. Your foes to stare at you with awe...',
-      ru: ''
+      ru: 'Из этого граненого призматического камня поднимаются впечатляющие насыщенные розовые плюмы. Твои враги с восхищением смотрят на тебя...'
     }
   },
 
@@ -83,7 +83,7 @@ export default [
     name       : {en: 'Aeter' },
     description: {
       en: 'Bright green lights occasionally span out of this glass gem, casting projections of the wearers future.',
-      ru: ''
+      ru: 'Яркий зеленый свет иногда проливается из этого стеклянного камня, бросая в глаза бросая в гласа владельта ево будущея.'
     }
   }
 ]
