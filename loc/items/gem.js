@@ -6,7 +6,7 @@ export default [
       ru: 'Маленький и острый, этот кулон оставляет мелкие царапины на коже во время боя.',
       es: 'Pequeño y afilado, este colgante deja rasguños superficiales en la piel durante la batalla.',
       de: 'Klein und scharf, hinterlässt dieser Anhänger im Kampf flache Kratzer auf der Haut.',
-      fr: 'Petit et pointu, ce pendentif laisse des éraflures peu profondes sur votre peau pendant le combat.
+      fr: 'Petit et pointu, ce pendentif laisse des éraflures peu profondes sur votre peau pendant le combat.'
     }
   },
 
