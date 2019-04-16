@@ -22,7 +22,7 @@ const syllables = [ 'heim', 'tuk', 'ta', 'lor', 'bok', 'le', 'me', 'ka', 'na', '
   'bat', 'crack', 'drool', 'stink', 'beard', 'grim', 'dry', 'shave', 'hate', 'love', 'scum', 'master', 'crusher', 'spawn',
   'meat', 'face', 'silver', 'claw', 'dal', 'sword', 'myr', 'reaper', 'drall', 'al', 'forsaken', 'fade', 'dark', 'gray',
   'less', 'ghoul', 'gol', 'dragh', 'dread', 'wasp', 'wrought', 'dhai', 'ghar', 'ghob', 'gho', 'ko', 'ghraem', 'kno',
-                   'lurk', 'half']
+  'lurk', 'half']
 
 export const generate = (minSyl = 2, maxSyl = 6, maxLen = 8)=>{
   // generates a random name with a variable max length / syllable amount
