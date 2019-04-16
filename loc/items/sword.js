@@ -19,7 +19,8 @@ export default [
       ru: 'Не намного лучше, чем тупой кусок дерева, на мой взгляд.',
       fr: 'À peine meilleure qu\'un morceau de bois émoussé, en mon humble avis.',
       es: 'No mucho mejor que un trozo de madera en mi opinión.',
-      de: 'Nicht viel besser als ein stumpfes Stück Holz, denke ich.'
+      de: 'Nicht viel besser als ein stumpfes Stück Holz, denke ich.',
+      hi: 'ज्यादा मेरी राय में लकड़ी का एक टुकड़ा कुंद की तुलना में बेहतर।'
     }
   },
 
