@@ -95,7 +95,7 @@ export default [
     description: {
       en: 'Bronze hammer, triangular shaped. Sharp corners make deep indents in heads.',
       ru: 'Бронзовый молот, треугольной формы. Острые углы делают глубокие выемки в головах.',
-      hi: '',
+      hi: 'कांस्य हथौड़ा, त्रिकोणीय आकार। तीव्र कोनों सिर में गहरी इंडेंट बनाते हैं।',
       es: 'Martillo de bronce, forma triangular. Las esquinas afiladas hacen profundas muescas en las cabezas.',
       de: 'Bronzehammer, dreieckig geformt. Scharfe Ecken machen tiefe Einschnitte in den Kopf.',
       fr: 'Marteau en bronze de forme triangulaire. Les coins tranchants creusent de profondes entailles dans la tête.',
