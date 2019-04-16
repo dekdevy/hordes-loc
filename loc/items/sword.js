@@ -97,7 +97,7 @@ export default [
     description: {
       en: 'A cold-looking blade with a burning hot slice.',
       ru: 'Холодный клинок с горячим нарезаm.',
-      es: 'Error 403: El filo de la espada es nulo.',
+      es: 'Una cuchilla de aspecto frío con una rebanada ardiente y caliente.',
       de: 'Eine kalt aussehende Klinge mit einer brennend heißen Scheibe.',
       fr: 'Une epée froide à la lame ardante.',
       hi: 'धमकाने वाली तलवार। गरमा गरम धार के साथ।'
