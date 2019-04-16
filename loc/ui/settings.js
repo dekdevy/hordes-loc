@@ -6,7 +6,8 @@ export default {
     hi: 'सेटिंग्स',
     es: 'configuración',
     de: 'Einstellungen',
-    fr: 'paramétrage'
+    fr: 'paramétrage',
+    nl: 'instellingen'
   },
 
   // controls section of settings menu
@@ -16,7 +17,8 @@ export default {
     hi: 'कंट्रोल्स',
     es: 'controles',
     de: 'Kontrollen',
-    fr: 'commandes'
+    fr: 'commandes',
+    nl: 'besturingselementen'
   },
 
   lockedcamera: {
@@ -25,7 +27,8 @@ export default {
     hi: 'कैमरा लॉक',
     es: 'Cámara fija',
     de: 'Gesperrte Kamera',
-    fr: 'Caméra verrouillée'
+    fr: 'Caméra verrouillée',
+    nl: 'Vergrendelde camera'
   },
 
   graphics: {
@@ -34,7 +37,8 @@ export default {
     hi: 'ग्राफ़िक्स',
     es: 'gráficos',
     de: 'Grafiken',
-    fr: 'schémas'
+    fr: 'schémas',
+    nl: 'grafischen'
   },
 
   resolution: {
@@ -43,7 +47,8 @@ export default {
     hi: 'रेसोलूशन',
     es: 'Resolución',
     de: 'Auflösung',
-    fr: 'Résolution'
+    fr: 'Résolution',
+    nl: 'Resolution'
   },
 
   skilleffects: {
@@ -52,7 +57,8 @@ export default {
     hi: 'स्किल दिखावट',
     es: 'Efectos de habilidades',
     de: 'Fertigkeitseffekte',
-    fr: 'Effets de compétences'
+    fr: 'Effets de compétences',
+    nl: 'Vaardigheidseffecten'
   },
 
   shadow: {
@@ -61,7 +67,8 @@ export default {
     hi: 'परछाईं क्वालिटी',
     es: 'Calidad de sombra',
     de: 'Schattenqualität',
-    fr: 'Qualité de l\'ombre'
+    fr: 'Qualité de l\'ombre',
+    nl: 'Schaduwkwaliteit'
   },
 
   grassamount: {
@@ -70,7 +77,8 @@ export default {
     hi: 'घास की मात्रा',
     es: 'Cantidad de pasto',
     de: 'Grasmenge',
-    fr: 'Quantité d\'herbe'
+    fr: 'Quantité d\'herbe',
+    nl: 'Grasbedrag'
   },
 
   chat: {
@@ -79,7 +87,8 @@ export default {
     hi: 'चैट',
     es: 'Chat',
     de: 'Chat',
-    fr: 'clavardage'
+    fr: 'clavardage',
+    nl: 'praten'
   },
 
   chatwidth: {
@@ -88,7 +97,8 @@ export default {
     hi: 'चैट की चौडाई',
     es: 'Ancho del chat',
     de: 'Chatbreite',
-    fr: 'Largeur du chat'
+    fr: 'Largeur du chat',
+    nl: 'Chatbreedte'
   },
 
   chatheight: {
@@ -97,7 +107,8 @@ export default {
     hi: 'चैट की लम्बाई',
     es: 'Altura del chat',
     de: 'Chathöhe',
-    fr: 'Hauteur de clavardage'
+    fr: 'Hauteur de clavardage',
+    nl: 'Chathoogte'
   },
 
   tutorial: {
@@ -106,7 +117,8 @@ export default {
     hi: 'शिक्षण',
     es: 'tutorial',
     de: 'Tutorial',
-    fr: 'didacticiel'
+    fr: 'didacticiel',
+    nl: 'handleiding'
   },
 
   reset: {
@@ -115,7 +127,8 @@ export default {
     hi: 'शिक्षण रीसेट',
     es: 'Reiniciar tutorial',
     de: 'Tutorial zurücksetzen',
-    fr: 'Réinitialiser le tutoriel'
+    fr: 'Réinitialiser le tutoriel',
+    nl: 'Gereset les'
   }
 
 }

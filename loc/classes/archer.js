@@ -8,7 +8,8 @@ export default {
     ko: '궁수',
     es: 'Arquero',
     fr: 'Archer',
-    pt: 'Arqueiro'
+    pt: 'Arqueiro',
+    nl: 'Boogschutter'
   },
   // Class description, visible during character creation
   description: {
@@ -19,6 +20,7 @@ export default {
     ko: '궁수는 높은 단일 타겟 데미지와 버스트 에어리어 피해를줍니다. 좋은 궁수는 먼 거리에서 항상 적을 공격합니다.',
     es: 'Los arqueros hacen daño increíble con sus flechas y pueden disparar muchos flechos a una vez con daño explosivo. La estregia mejor es evitar los enemigos y atacar a lo lejos',
     fr: 'Les archers infligent des dégâts élevés sur une cible précise et des dégâts de zone importants. Un bon archer garde toujours ses distances et élimine ses ennemis de loin.',
-    pt: 'Arqueiros causam danos altos a um único alvo e danos na Área de Efeito. Um bom arqueiro sempre manterá sua distância e snipe inimigos de longe.'
+    pt: 'Arqueiros causam danos altos a um único alvo e danos na Área de Efeito. Um bom arqueiro sempre manterá sua distância e snipe inimigos de longe.',
+    nl: 'Boogschutters groot enkel doelschade en barstenschade aan het gebied van het effect toe. Een goede boogschutter zal altijd afstand houden en vijanden uit de verte vernietigen.'
   }
 }
