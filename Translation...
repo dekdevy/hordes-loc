@@ -1,0 +1,103 @@
+export default {
+
+basic hordes things that you would see:{
+en: 'log out'
+pt: 'terminar a sessão'
+},
+en: 'Log In'
+pt: 'entrar'
+},
+en: 'Sign up to save your characters'
+pt: 'cadastre-se para salvar seus caracteres'
+},
+en: 'Sign Up'
+pt: 'inscrever-se'
+},
+en: 'Set a unique name'
+pt: 'definir um nome exclusivo'
+},
+en: 'Username, E-mail address, password'
+pt: 'Nome de usuário, Endereço de e-mail, Senha'
+}, 
+en: 'Create a free Hordes.io account, add your characters and start playing right away! Enter your username, e-mail address and password you want.'
+pt: 'Crie uma conta Hordes.io gratuita, adicione seus personagens e comece a jogar imediatamente! Digite seu nome de usuário, endereço de e-mail e senha desejada.'
+},
+en: 'That email is already taken'
+pt: 'Esse e-mail já foi recebido'
+},
+en: 'Create clan'
+pt: 'Criar clã'
+},
+en: 'To create a clan, you need: Character level 15+, 15000 :gold:'
+pt: 'Para criar um clã, você precisa: Personagem nível 15+, 15000: :gold:'
+},
+en: 'Clan Name'
+pt: 'Nome do clã'
+},
+en: 'Clan Tag'
+pt: 'etiqueta do clã'
+},
+en: 'Inventory'
+pt: 'Inventário'
+},
+en: 'Character'
+pt: 'personagem'
+},
+en: 'Archer, warrior, shaman, mage'
+pt: 'arqueiro, guerreiro, xamã, mago'
+},
+en: 'monster'
+pt: 'monstro'
+},
+en: 'You need to set a unique name on your character panel to be able to chat.'
+pt: 'Você precisa definir um nome exclusivo no painel de seu personagem para poder bater papo'
+},
+en: 'King, Warden'
+pt: 'rei, guardião'
+},
+en: 'Locked camera'
+pt: 'Câmera bloqueada'
+},
+en: 'graphics'
+pt: 'gráficos'
+},
+en: 'Skill effects'
+pt: 'Efeitos de habilidade'
+},
+en: 'Shadow quality'
+pt: 'qualidade de sombra'
+},
+en: 'grass amount'
+pt: 'quantidade de grama'
+},
+en: 'chat'
+pt: 'bate-papo'
+},
+en: 'chat width'
+pt: 'largura do chat'
+},
+en: 'chat length'
+pt: 'altura do bate-papo'
+},
+en: 'tutorial'
+pt: 'tutorial'
+},
+en: 'reset tutorial'
+pt: 'redefinir tutorial'
+},
+en: 'close'
+pt: 'perto'
+},
+en: 'disable tutorial'
+pt: 'desativar tutorial'
+},
+en: 'fame'
+pt: 'fama'
+},
+en: 'trader'
+pt: 'comerciante'
+},
+en: 'Hello Username, my name is Wayne! I see you have stepped into the magical journey of hordes.
+Your first quest will be to slay 5 monsters.'
+pt: 'Olá nome de usuário, meu nome é Wayne! Eu vejo que você entrou na jornada mágica das hordas.
+Sua primeira missão será matar 5 monstros'
