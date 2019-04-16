@@ -68,7 +68,7 @@ export default {
     es: 'Calidad de sombra',
     de: 'Schattenqualität',
     fr: 'Qualité de l\'ombre',
-    nl: 'Schaduw'
+    nl: 'Schaduwkwaliteit'
   },
 
   grassamount: {
