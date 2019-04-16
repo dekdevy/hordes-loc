@@ -29,7 +29,7 @@ export default [
     name       : {en: 'Rusty Flail' },
     description: {
       en: 'Rusty old hammer, on the verge of breaking.',
-      ru: 'Ржавый старый молот, на грани поломки.',,
+      ru: 'Ржавый старый молот, на грани поломки.',
       hi: 'रस्टी वर्ष हथौड़ा, तोड़ने के कगार पर।',
       es: 'Un viejo martillo oxidado, a punto de romperse.',
       de: 'Rostiger alter Hammer, kurz davor, zu brechen.',
