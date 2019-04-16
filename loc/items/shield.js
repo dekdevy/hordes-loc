@@ -6,7 +6,8 @@ export default [
       ru: 'Буквально квадратная доска из дерева.',
       es: 'Literalmente una tabla cuadrada de madera.',
       de: 'Buchstäblich eine quadratische Diele aus Holz.',
-      fr: 'Littéralement une planche de bois carrée.'
+      fr: 'Littéralement une planche de bois carrée.',
+      hi: 'केवल एक लकड़ी का टुकड़ा।'
     }
   },
 
@@ -28,7 +29,8 @@ export default [
       ru: 'Некоторому фермеру удалось создать милый маленький щит.',
       es: 'Algún granjero ha conseguido construir un bonito escudo.',
       de: 'Einem Landwirt ist es gelungen, einen süßen kleinen Schild zu bauen.',
-      fr: 'Un fermier a réussi à construire un joli petit bouclier.'
+      fr: 'Un fermier a réussi à construire un joli petit bouclier.',
+      hi: 'किसी किसान के एक छोटी सी ढाल बना ही ली।'
     }
   },
 
@@ -39,7 +41,8 @@ export default [
       ru: 'Замысловатый щит из трех металлических частей. Прочная',
       es: 'Intrincado escudo hecho de tres piezas de metal macizo. Robusto.',
       de: 'Aufwendiger Schild aus drei massiven Metallteilen. Robust.',
-      fr: 'Bouclier complexe composé de trois pièces en métal massif. Robuste.'
+      fr: 'Bouclier complexe composé de trois pièces en métal massif. Robuste.',
+      hi: 'लोहे के तीन ठोस टुकड़ों से बनी जटील ढाल। तगड़ी है।'
     }
   },
 
@@ -50,7 +53,8 @@ export default [
       ru: 'Изготовлен из обсидиана и стали. Кто-то небрежно попытался покрасить его в желтый цвет. Hе удалось.',
       es: 'Hecho de obsidiana y acero. Alguien intentó descuidadamente pintarlo de amarillo. Fracasaron. Miserablemente.',
       de: 'Hergestellt aus Obsidian und Stahl. Jemand versuchte schlampig, es gelb zu malen. Sie haben versagt. Elenderweise.',
-      fr: 'Fabriqué en obsidienne et en acier. Quelqu\'un a tenté de le peindre en jaune. Ils ont échoué. Misérablement.'
+      fr: 'Fabriqué en obsidienne et en acier. Quelqu\'un a tenté de le peindre en jaune. Ils ont échoué. Misérablement.',
+      hi: 'ओब्सिदीयन और इस्पात से बनी ढाल। किसी ने इसे पीला रंगने की कोशिश की पर उनसे सही से हो न पाया।'
     }
   }
 
