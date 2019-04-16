@@ -8,6 +8,12 @@ export default {
     de: 'Abmeldung',
     fr: 'Déconnexion',
     ko: '로그 아웃'
+    bl: 'Излез от профила си'
+    cs: 'Odhlásit se'
+    el: 'Αποσυνδέση'
+    ja: 'ログアウト'
+    se: 'Logga ut'
+    ph: 'Mag-log Out'
   },
 
   home: {
@@ -18,5 +24,11 @@ export default {
     de: 'Startseite',
     fr: 'Accueil',
     ko: '홈페이지'
+    bl: 'Начална страница'
+    cs: 'Domovská stránka'
+    el: 'Αρχική σελίδα'
+    ja: 'ホームページ'
+    se: 'Hemsida'
+    ph: 'Home page'
   }
 }
