@@ -148,7 +148,7 @@ export default [
     description: {
       en: 'Its beauty calls out to you... to kill... to conquer...',
       ru: 'Его красота призывает тебя... убивать... завоевывать...',
-      hi: '',
+      hi: 'अपनी सुंदरता से जुड़ी जानकारी आप ... को मारने के लिए करने के लिए ... को जीत के लिए ...',
       es: '¿Qué dice la belleza de este bastón? Te dice: "...mátalos... conquista el mundo... será divertido..."',
       de: 'Seine Schönheit ruft nach dir, zu töten, zu erobern...',
       fr: 'Sa beauté vous interpelle... à tuer... à conquérir...'
@@ -160,7 +160,7 @@ export default [
     description: {
       en: 'A staff stolen from the angels. They\'re still hunting for it.',
       ru: 'Посох, украденный у ангелов. Они все еще охотятся за этим.',
-      hi: '',
+      hi: 'एक कर्मचारी स्वर्गदूतों से चोरी हो। वे अभी भी यह के लिए शिकार कर रहे हैं।',
       es: 'Robaste el arzobispo y tomaste su báculo de oro. Ahora los ángeles te cazan.',
       de: 'Ein Stab, der von den Engeln gestohlen wurde. Sie sind immer noch auf der Jagd danach.',
       fr: 'Un bâton volé aux anges. Ils sont toujours à sa recherche.'
