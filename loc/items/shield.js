@@ -64,7 +64,6 @@ export default [
       de: 'Hergestellt aus Obsidian und Stahl. Jemand versuchte schlampig, es gelb zu malen. Sie haben versagt. Elenderweise.',
       fr: 'Fabriqué en obsidienne et en acier. Quelqu\'un a tenté de le peindre en jaune. Ils ont échoué. Misérablement.',
       hi: 'ओब्सिदीयन और इस्पात से बनी ढाल। किसी ने इसे पीला रंगने की कोशिश की पर उनसे सही से हो न पाया।',
-      fr: 'Fabriqué en obsidienne et en acier. Quelqu\'un a tenté de le peindre en jaune. Il a échoué. Misérablement.',
       it: 'Questo è fatto di ossidiana e acciaio. Qualcuno ha tentato disordinatamente di dipingerlo di giallo. Hanno fallito. Miseramente.',
       pt: 'Feito de obsidiana e aço. Alguém descuidadamente tentou pintá-lo de amarelo. Eles falharam. Miseravelmente.'
     }
