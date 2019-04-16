@@ -73,7 +73,7 @@ export default [
     name       : { en: 'Greatsword' },
     description: {
       en: 'A sword so mighty that few can handle it. It\'s pretty heavy.',
-      ru: 'Меч такой могущественный, что немногие могут с ним справиться. Oн довольно тяжелый.',
+      ru: 'Меч такой могущественный, что немногие могут с ним справиться. Довольно тяжелый.',
       es: 'Bastante pesado y bastante bien.',
       de: 'Ein Schwert, das so mächtig ist, dass nur wenige damit umgehen können. Es ist ziemlich schwer.',
       fr: 'Une épée si puissante que peu de gens peuvent la manier. C\'est assez lourd.',
@@ -130,10 +130,10 @@ export default [
   { // T12 item
     name       : { en: 'Void Blade' },
     description: {
-      en: 'Powerful masterpiece brought from the underworld.',
-      ru: 'Мощный шедевр привезен из подземного мира.',
-      fr: 'Une puissante merveille livrée par les enfers elles-mêmes.',
-      de: 'Ein mächtiges Meisterwerk aus der Unterwelt.',
+      en: 'Powerful masterpiece brought from the abysses of the underworld.',
+      ru: 'Мощный шедевр, принесенный из бездны подземного мира.',
+      fr: 'Puissant chef-d\'oeuvre apporté des abysses du monde souterrain.',
+      de: 'Ein kraftvolles Meisterwerk aus den Abgründen der Unterwelt.',
       hi: 'पाताल से लायी गयी शक्तिशाली श्रेष्ठ रचना।'
     }
   },
