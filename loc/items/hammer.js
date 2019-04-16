@@ -148,9 +148,9 @@ export default [
       en: 'Topped with the skull of a slain behemoth enemy, this weapon inspires terror in all who stand against it.',
       ru: 'Это оружие, увенчанное черепом бегемота, внушает ужас всем, кто противостоит ему.',
       hi: 'एक मृत विशालकाय दुश्मन की खोपड़ी के साथ शीर्ष पर रहा, इस हथियार सब जो इसके खिलाफ खड़े में आतंक प्रेरित करती है।',
-      es: '',
-      de: '',
-      fr: '',
+      es: 'Cubierta con el cráneo de un enemigo gigante asesinado, esta arma inspira terror en todos los que se oponen a ella.',
+      de: 'Mit dem Schädel eines getöteten Riesenfeindes überzogen, inspiriert diese Waffe Schrecken bei allen, die sich dagegen stellen.',
+      fr: 'Surmontée du crâne d\'un ennemi géant assassiné, cette arme inspire la terreur à tous ceux qui s\'y opposent.',
       pt: 'Encimada com o crânio de um inimigo beemote morto, esta arma inspira terror em todos os que estão contra ela.'
     }
   },
