@@ -43,7 +43,7 @@ export default [
     name       : {en: 'Purum' },
     description: {
       en: 'Radiant titian glass-like gem revealing your foes hidden secrets.',
-      ru: ''
+      ru: 'Сияющий титьяновый стеклянный драгоценный камень, раскрывающий скрытые секреты ваших врагов...'
     }
   },
 
@@ -51,7 +51,7 @@ export default [
     name       : {en: 'Royal' },
     description: {
       en: 'Grand red gem enclosed in abyss dark fissures, granting your foes a sense of jealousy.',
-      ru: ''
+      ru: 'Великий красный драгоценный камень, заключенный в бездну темных трещин, дарит врагам чувство ревности.'
     }
   },
 
