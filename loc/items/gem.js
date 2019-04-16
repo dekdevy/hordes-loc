@@ -3,7 +3,7 @@ export default [
     name       : {en: 'Lucid' },
     description: {
       en: 'Small and sharp, this pendant leaves shallow scrapes on your skin during battle.',
-      ru: 'Маленький и острый, этот кулон оставляет мелкие царапины на коже во время боя.'
+      ru: 'Маленький и острый, этот кулон оставляет мелкие царапины на коже во время боя.',
       es: 'Pequeño y con punta afilada, este pendiente deja somero rasguños en la piel durante de la guerra.'
     }
   },
