@@ -43,7 +43,7 @@ export default {
 
   resolution: {
     en: 'Resolution',
-    ru: 'Pезолюция',
+    ru: 'Разрешение'
     hi: 'रेसोलूशन',
     es: 'Resolución',
     de: 'Auflösung',
