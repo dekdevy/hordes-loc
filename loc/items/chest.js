@@ -8,7 +8,8 @@ export default [
       de: 'Sack steif mit Stärke, so dass Sie sich schmutzig und zerzaust fühlen.',
       fr: 'Sac rigide avec de l\'amidon qui vous donne l\'impression d\'être sale et ébouriffé.',
       pt: 'Saco rígido com amido que te faz sentir sujo e desgrenhado.',
-      nl: 'Zak stijf met zetmeel waardoor je je vies en in de war voelt.'
+      nl: 'Zak stijf met zetmeel waardoor je je vies en in de war voelt.',
+      hi: 'बनाने आप गंदे और अस्त-व्यस्त लग रहा है स्टार्च के साथ कठोर पद से हटाने।'
     }
   },
 
@@ -21,7 +22,8 @@ export default [
       de: 'Lederhemd, verblasst durch Abnutzung.',
       fr: 'Chemise en cuir, décolorée par l\'usure.',
       pt: 'Camisa de couro, desbotada de desgaste.',
-      nl: 'Leren hemd, vervaagd van slijtage.'
+      nl: 'Leren hemd, vervaagd van slijtage.',
+      hi: 'चमड़ा शर्ट, टूट-फूट से फीका।'
     }
   },
 
@@ -34,7 +36,8 @@ export default [
       de: 'Knorrige Weicheisen-Tunika, die von vielen Generationen von Abenteurern überliefert wurde, die diese Länder durchquerten.',
       fr: 'Tunique en fer doux et noueux, transmise de génération en génération par les aventuriers de passage sur ces terres.',
       pt: 'Uma túnica de ferro macio e manhoso, passada de muitas gerações de aventureiros passando por essas terras.',
-      nl: 'Knobbelig zacht ijzeren tuniek, doorgegeven van vele generaties avonturiers die over deze landen trekken.'
+      nl: 'Knobbelig zacht ijzeren tuniek, doorgegeven van vele generaties avonturiers die over deze landen trekken.',
+      hi: 'नरम लोहे का अंगरखा, साहसी इन भूमि के ऊपर से गुजर की कई पीढ़ियों से पारित कर दिया।'
     }
   },
 
@@ -47,7 +50,8 @@ export default [
       de: 'Dieser Stoff ist nicht viel, aber er könnte einen oder zwei Pfeile aufhalten.',
       fr: 'Ce tissu n\'est pas grand-chose, mais il pourrait arrêter une flèche ou deux.',
       pt: 'Este tecido não é muito, mas pode parar uma flecha ou duas.',
-      nl: 'Deze stof is niet veel, maar het zou een paar pijlen kunnen stoppen.'
+      nl: 'Deze stof is niet veel, maar het zou een paar pijlen kunnen stoppen.',
+      hi: 'यह कपड़े बहुत ज्यादा नहीं है, लेकिन यह एक तीर या दो बंद हो सकता है।'
     }
   },
 
@@ -60,7 +64,8 @@ export default [
       de: 'Ein Hardkostüm aus Schuppen eines mächtigen Drachens, der einst durch dieses Land streift.',
       fr: 'Costume dur fait d\'écailles prises d\'un puissant dragon qui errait autrefois sur ces terres.',
       pt: 'Um fato duro feito de escamas tiradas de um poderoso dragão que percorreu estas terras.',
-      nl: 'Hard suit gemaakt van schubben van een machtige draak die ooit in dit land rondzwierf.'
+      nl: 'Hard suit gemaakt van schubben van een machtige draak die ooit in dit land rondzwierf.',
+      hi: 'हार्ड एक शक्तिशाली अजगर है कि एक बार इन भूमि रोमिंग से लिया तराजू से बने सूट।'
     }
   },
 
@@ -73,7 +78,8 @@ export default [
       de: 'Gerüchte besagen, dass es aus den Wolken gemacht wurde...',
       fr: 'Les rumeurs disent que c\'est fait à partir des nuages...',
       pt: 'Os rumores dizem que é feito de nuvens...',
-      nl: 'Geruchten zeggen dat het gemaakt is van wolken....'
+      nl: 'Geruchten zeggen dat het gemaakt is van wolken... ',
+      hi: 'अफवाहें इसकी बादलों से बना कहते हैं ...'
     }
   },
 
@@ -86,7 +92,8 @@ export default [
       de: 'Der Träger fügt sich gut in den Schatten ein.... so denken die Diebe.',
       fr: 'Le porteur se fond bien dans l\'ombre... c\'est du moins ce que pensent les voleurs.',
       pt: 'O utilizador mistura-se bem com as sombras... ou assim pensam os ladrões.',
-      nl: 'De drager gaat mooi op in de schaduwen.... zo denken de dieven.'
+      nl: 'De drager gaat mooi op in de schaduwen.... zo denken de dieven.',
+      hi: 'पहनने वाला छाया के साथ अच्छी तरह से में मिश्रित ... या तो चोरों लगता है।'
     }
   },
 
@@ -99,7 +106,8 @@ export default [
       de: 'Geschmiedet von unbekannten Magiern, trägst du einen tiefen, dunklen und kraftvollen Brustschild.',
       fr: 'Forgé par des magiciens inconnus, vous portez une plaque de poitrine profonde, sombre et puissante.',
       pt: 'Forjado por mágicos desconhecidos, você usa uma couraça profunda, escura e poderosa.',
-      nl: 'Gesmeed door onbekende tovenaars, draag je een diep, donker en krachtig borstplaatje.'
+      nl: 'Gesmeed door onbekende tovenaars, draag je een diep, donker en krachtig borstplaatje.',
+      hi: 'अज्ञात जादूगर द्वारा जाली, आप एक गहरी अंधेरे और शक्तिशाली chestplate पहनते हैं।'
     }
   },
 
@@ -112,7 +120,8 @@ export default [
       de: 'Aus den Tiefen der Hölle geschmiedet, bietet es Schutz für deinen schwachen, fleischigen Körper.',
       fr: 'Forgé des profondeurs de l\'enfer, il protège votre corps faible et charnu.',
       pt: 'Forjado das profundezas do inferno, ele fornece proteção para seu corpo fraco e carnudo.',
-      nl: 'Gesmeed uit de diepten van de hel, biedt het bescherming voor je zwakke, vlezige lichaam.'
+      nl: 'Gesmeed uit de diepten van de hel, biedt het bescherming voor je zwakke, vlezige lichaam.',
+      hi: 'नरक की गहराई से जाली, यह आपके कमजोर, मांसल शरीर के लिए सुरक्षा प्रदान करता है।'
     }
   },
 
@@ -125,7 +134,8 @@ export default [
       de: 'Wenn Feinde getötet werden, werden ihre Seelen der Sammlung des Führers hinzugefügt.',
       fr: 'Quand des ennemis sont tués, leurs âmes sont ajoutées à la collection du maniaque.',
       pt: 'Quando os inimigos são mortos, suas almas são adicionadas à coleção do portador.',
-      nl: 'Wanneer vijanden worden gedood, worden hun zielen toegevoegd aan de collectie van de drager.'
+      nl: 'Wanneer vijanden worden gedood, worden hun zielen toegevoegd aan de collectie van de drager.',
+      hi: 'जब दुश्मन मारे गए हैं, अपनी आत्मा wielder के संग्रह करने के लिए जोड़ रहे हैं।'
     }
   },
 
@@ -138,7 +148,8 @@ export default [
       de: 'Gerüchten zufolge ist der Träger unsterblich. Leider ist diese Rüstung nur auf den Leichen der Erschlagenen zu finden.',
       fr: 'Les rumeurs disent que le porteur est immortel. Malheureusement, cette armure ne peut être trouvée que sur les cadavres des victimes.',
       pt: 'Rumores dizem que o portador é imortal. Infelizmente esta armadura só pode ser encontrada nos cadáveres dos mortos.',
-      nl: 'Er gaan geruchten dat de drager onsterfelijk is. Helaas is dit harnas alleen te vinden op lijken van de gedode personen.'
+      nl: 'Er gaan geruchten dat de drager onsterfelijk is. Helaas is dit harnas alleen te vinden op lijken van de gedode personen.',
+      hi: 'अफवाहें का कहना है कि पहनने वाला अमर है। दुर्भाग्य से इस कवच केवल मारे हुए की लाशों पर पाया जा सकता।'
     }
   }
 

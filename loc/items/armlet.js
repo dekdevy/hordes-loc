@@ -58,14 +58,14 @@ export default [
   {//T5
     name       : {en: 'Iron Vambrace' },
     description: {
-      en: 'Heavy on your arm.....worth the protection.',
-      ru: 'Тяжело на твоей руке ..... стоит защиты.',
+      en: 'Heavy on your arm... worth the protection.',
+      ru: 'Тяжело на твоей руке... стоит защиты.',
       es: 'Pesado, pero vale la pena.',
-      fr: 'Lourd sur votre bras ..... vaut la protection',
-      de: 'Schwer auf dem Arm.......den Schutz wert.',
-      pt: 'Pesado no braço.... vale a protecção.',
-      ko: '팔에는 무겁지만 ..... 보호가 그만한 가치가있다.',
-      nl: 'Zwaar op je arm......de bescherming waard.'
+      fr: 'Lourd sur votre bras... vaut la protection',
+      de: 'Schwer auf dem Arm... den Schutz wert.',
+      pt: 'Pesado no braço... vale a protecção.',
+      ko: '팔에는 무겁지만... 보호가 그만한 가치가있다.',
+      nl: 'Zwaar op je arm... de bescherming waard.'
     }
   },
 
@@ -104,7 +104,7 @@ export default [
       ru: 'Ослепляет ваших врагов волшебным блеском с коварного зеркалoм мага ...',
       es: 'Un espejo por su muñeca. Lo usas para cegar sus enemigos.',
       fr: 'Aveugle vos ennemis avec un éclat magique sur un miroir de magiciens sournois...',
-      de: 'Blinds Ihre Feinde mit einem magischen Glanz von einem teuflischen Magierspiegel.....',
+      de: 'Blinds Ihre Feinde mit einem magischen Glanz von einem teuflischen Magierspiegel...',
       pt: 'Cega os teus inimigos com um brilho mágico de um espelho de mágicos diabólicos...',
       ko: '마법사애 거울이 부터있는 팔찌. 적의눈을 부시게 한다.',
       nl: 'Verblindt je vijanden met een magische glans van een slinkse goochelspiegel...'
@@ -142,14 +142,14 @@ export default [
   {//T11
     name       : {en: 'Blackstar Gem' },
     description: {
-      en: 'Stars are not often black, yet this fragment has a....deep... deep darkness.',
-      ru: 'Звезды не часто черные, но этот фрагмент имеет ... глубокую ... глубокую тьму.',
+      en: 'Stars are not often black, yet this fragment has a... deep... deep darkness.',
+      ru: 'Звезды не часто черные, но этот фрагмент имеет... глубокую... глубокую тьму.',
       es: 'Completamente hecho con piezas de estrellas de neutrón: denso, duro, poderoso.',
       fr: 'Les étoiles ne sont pas souvent noires, mais ce fragment a une... profund... obscurité profonde.',
-      de: 'Sterne sind nicht oft schwarz, aber dieses Fragment hat eine....tiefe...tiefe...tiefe Dunkelheit.',
+      de: 'Sterne sind nicht oft schwarz, aber dieses Fragment hat eine... tiefe... tiefe... tiefe Dunkelheit.',
       pt: 'As estrelas não são frequentemente negras, mas este fragmento tem uma... profunda... profunda escuridão.',
       ko: '별은 종종 검은 색이 아니지만이 조각은 깊고 ... 또깊은 어둠이 있습니다.',
-      nl: 'Sterren zijn niet vaak zwart, maar toch heeft dit fragment een.....diepe....diepe duisternis.'
+      nl: 'Sterren zijn niet vaak zwart, maar toch heeft dit fragment een... diepe... diepe duisternis.'
     }
   },
 
