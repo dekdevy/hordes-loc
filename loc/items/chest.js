@@ -149,7 +149,7 @@ export default [
       fr: 'Les rumeurs disent que le porteur est immortel. Malheureusement, cette armure ne peut être trouvée que sur les cadavres des victimes.',
       pt: 'Rumores dizem que o portador é imortal. Infelizmente esta armadura só pode ser encontrada nos cadáveres dos mortos.',
       nl: 'Er gaan geruchten dat de drager onsterfelijk is. Helaas is dit harnas alleen te vinden op lijken van de gedode personen.',
-      hi: ''
+      hi: 'अफवाहें का कहना है कि पहनने वाला अमर है। दुर्भाग्य से इस कवच केवल मारे हुए की लाशों पर पाया जा सकता।'
     }
   }
 
