@@ -4,7 +4,7 @@ export default [
     description: {
       en: 'It\'s already half broken and you are still using it?',
       ru: 'Это уже наполовину сломано, и вы все еще используете его?',
-      hi: '',
+      hi: 'यह पहले से ही आधा टूट गया है और आप अभी भी इसे प्रयोग कर रहे हैं?',
       es: '¿Ya está medio roto y todavía lo estás usando?',
       de: 'Es ist bereits halb gebrochen und du benutzt es immer noch?',
       fr: 'Il est déjà à moitié cassé et vous l\'utilisez toujours ?',
@@ -17,7 +17,7 @@ export default [
     description: {
       en: 'This should be hammering nails, not skulls.',
       ru: 'Это должны быть гвозди, а не черепа.',
-      hi: '',
+      hi: 'यह चोट नाखून, नहीं खोपड़ी होना चाहिए।',
       es: 'Esto debería estar clavando clavos, no cráneos.',
       de: 'Das sollten hämmernde Nägel sein, nicht Schädel.',
       fr: 'Ça devrait être des clous martelés, pas des crânes.',
@@ -30,7 +30,7 @@ export default [
     description: {
       en: 'Rusty old hammer, on the verge of breaking.',
       ru: 'Ржавый старый молот, на грани поломки.',,
-      hi: '',
+      hi: 'रस्टी वर्ष हथौड़ा, तोड़ने के कगार पर।',
       es: 'Un viejo martillo oxidado, a punto de romperse.',
       de: 'Rostiger alter Hammer, kurz davor, zu brechen.',
       fr: 'Un vieux marteau rouillé, sur le point de se briser.',
@@ -43,7 +43,7 @@ export default [
     description: {
       en: 'Orcs follow the wielder of this meager weapon. It\'s pretty useless, but they seem to like it...',
       ru: 'Орки следуют за обладателем этого оружия. Oн довольно бесполезно, но им похоже нравится ...',
-      hi: '',
+      hi: 'राक्षसों के इस अल्प हथियार के wielder का पालन करें। यह बहुत बेकार है, लेकिन वे इसे पसंद करने लगते हैं ...',
       es: 'Los Orcos siguen al portador de esta magra arma. Es bastante inútil, pero parece que les gusta...',
       de: 'Orks folgen dem Besitzer dieser mageren Waffe. Es ist ziemlich nutzlos, aber sie scheinen es zu mögen...',
       fr: 'Les Orques suivent le maître de cette maigre arme. C\'est plutôt inutile, mais ils ont l\'air d\'aimer ça...',
@@ -69,7 +69,7 @@ export default [
     description: {
       en: 'Strange rod-like basher. Seems crude and emits a faint smell of druid oils...',
       ru: 'Странный стержнеобразный башер. Кажется грубый и испускает слабый запах друидских масел...',
-      hi: '',
+      hi: 'अजीब छड़ी की तरह basher। कच्चे तेल लगता है और ड्र्यूड तेलों की एक बेहोश गंध का उत्सर्जन करता है ...',
       es: 'Extraño golpeador en forma de varilla. Parece crudo y emite un ligero olor a aceite de druida...',
       de: 'Seltsamer stabförmiger Schläger. Scheint roh zu sein und verströmt einen schwachen Geruch von Druidenölen...',
       fr: 'Étrange batteur en forme de baguette. Semble brut et émet une légère odeur d\'huile de druide...',
