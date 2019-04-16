@@ -35,7 +35,7 @@ export default [
     name       : {en: 'Amary' },
     description: {
       en: 'Lustrous blue artifact, exposed wispy white veins running along its spherical surface.',
-      ru: ''
+      ru: 'Блестящий синий артефакт, открытые пухлые белые вены, протекающие по его сферической поверхности.'
     }
   },
 
