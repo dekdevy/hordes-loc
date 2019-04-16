@@ -14,7 +14,7 @@ export default {
     ja: 'ログアウト',
     se: 'Logga ut',
     ph: 'Mag-log Out',
-    nl: 'Uitloggen'
+    nl: 'Uitloggen',
   },
 
   home: {
@@ -31,6 +31,6 @@ export default {
     ja: 'ホームページ',
     se: 'Hemsida',
     ph: 'Home page',
-    nl: 'Thuis'
+    nl: 'Thuis',
   }
 }
