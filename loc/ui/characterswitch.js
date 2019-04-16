@@ -7,12 +7,12 @@ export default {
     es: 'Cerrar sesión',
     de: 'Abmeldung',
     fr: 'Déconnexion',
-    ko: '로그 아웃'
-    bl: 'Излез от профила си'
-    cs: 'Odhlásit se'
-    el: 'Αποσυνδέση'
-    ja: 'ログアウト'
-    se: 'Logga ut'
+    ko: '로그 아웃',
+    bl: 'Излез от профила си',
+    cs: 'Odhlásit se',
+    el: 'Αποσυνδέση',
+    ja: 'ログアウト',
+    se: 'Logga ut',
     ph: 'Mag-log Out'
   },
 
@@ -23,12 +23,12 @@ export default {
     es: 'Regresar al inicio',
     de: 'Startseite',
     fr: 'Accueil',
-    ko: '홈페이지'
-    bl: 'Начална страница'
-    cs: 'Domovská stránka'
-    el: 'Αρχική σελίδα'
-    ja: 'ホームページ'
-    se: 'Hemsida'
+    ko: '홈페이지',
+    bl: 'Начална страница',
+    cs: 'Domovská stránka',
+    el: 'Αρχική σελίδα',
+    ja: 'ホームページ',
+    se: 'Hemsida',
     ph: 'Home page'
   }
 }
