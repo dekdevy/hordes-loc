@@ -11,7 +11,8 @@ export default {
       hi: 'स्वरूप चुने',
       es: 'Seleccione Carácter',
       de: 'Charakter auswählen',
-      ko: '캐릭터 선택'
+      ko: '캐릭터 선택',
+      tr: 'Karakter Seç'
     },
     create: {
       en: 'Click to create character',
@@ -21,7 +22,8 @@ export default {
       es: 'Haga clic para crear un personaje',
       de: 'Klicken Sie hier, um einen Charakter zu erstellen.',
       fr: 'Cliquez pour créer le personnage',
-      ko: '캐릭터를 만들려면 클릭하십시오'
+      ko: '캐릭터를 만들려면 클릭하십시오',
+      tr: 'Karakter yaratmak için tıkla'
     },
     enterWorld: {
       en: 'Enter World',
@@ -31,7 +33,8 @@ export default {
       hi: 'प्रवेश करे',
       es: 'Entrar en el mundo',
       de: 'Tritt ein in die Welt',
-      ko: '세계에 들어가기'
+      ko: '세계에 들어가기',
+      tr: 'Dünyaya Gir'
     },
     emptySlot: {
       en: 'Empty',
@@ -41,7 +44,8 @@ export default {
       es: 'Vacío',
       de: 'Leer',
       fr: 'Vide',
-      ko: '빈 슬롯'
+      ko: '빈 슬롯',
+      tr: 'Boş'
     },
     error: {
       en: 'Network error',
@@ -51,7 +55,8 @@ export default {
       hi: 'नेट्वर्क में त्रुटि',
       es: 'Error de red',
       de: 'Netzwerkfehler',
-      ko: '네트워크 오류'
+      ko: '네트워크 오류',
+      tr: 'Ağ hatası'
     }
   },
 
@@ -65,7 +70,8 @@ export default {
       hi: 'स्वरूप निर्माण',
       es: 'Creación de personajes',
       de: 'Charaktererstellung',
-      ko: '캐릭터 생성'
+      ko: '캐릭터 생성',
+      tr: 'Karakter yaratma'
     },
     pressIcon: {
       en: 'Press an icon for a brief description.',
@@ -75,7 +81,8 @@ export default {
       hi: 'संक्षिप्त विवरण के लिए तस्वीर पर क्लिक करे।',
       es: 'Pulse un icono para obtener una breve descripción.',
       de: 'Drücken Sie ein Symbol für eine Kurzbeschreibung.',
-      ko: '간단한 설명을 보려면 아이콘을 누르십시오'
+      ko: '간단한 설명을 보려면 아이콘을 누르십시오',
+      tr: 'Kısa bir açıklama için bir ikona bas'
     },
     selectClass: {
       en: 'Select a class',
@@ -85,7 +92,8 @@ export default {
       es: 'Seleccione una clase',
       de: 'Wählen Sie eine Klasse',
       fr: 'Sélectionnez une classe',
-      ko: '클래스 선택'
+      ko: '클래스 선택',
+      tr: 'Bir sınıf seç'
     },
     selectFaction: {
       en: 'Select a faction',
@@ -95,7 +103,8 @@ export default {
       hi: 'वंश चुने',
       es: 'Seleccione una facción',
       de: 'Wählen Sie eine Fraktion aus',
-      ko: '진영을 선택하십시오'
+      ko: '진영을 선택하십시오',
+      tr: 'Bir grup seç'
     },
     enterName: {
       en: 'Enter a name',
@@ -105,7 +114,8 @@ export default {
       hi: 'नाम डाले',
       es: 'Introduzca un nombre',
       de: 'Geben Sie einen Namen ein',
-      ko: '이름 입력'
+      ko: '이름 입력',
+      tr: 'Bir isim gir'
     },
     nameReq: {
       en: 'Your name can only contain characters a-Z, and numbers 0-9, without any spaces. Up to 16 characters.',
@@ -115,7 +125,8 @@ export default {
       hi: 'आपके नाम में केवल a-Z अक्षर और 0-9 अंक हो सकते है| अधिकतम 16 अक्षर।',
       es: 'Su nombre sólo puede contener los caracteres de la a-Z, y los números del 0 al 9, sin espacios. Hasta 16 caracteres.',
       de: 'Dein Name darf nur die Zeichen a-Z und die Zahlen 0-9 ohne Leerzeichen enthalten. Bis zu 16 Zeichen.',
-      ko: '이름에는 공백없이 a-Z와 0-9의 문자 만 사용할 수 있습니다. 최대 16 자.'
+      ko: '이름에는 공백없이 a-Z와 0-9의 문자 만 사용할 수 있습니다. 최대 16 자.',
+      tr: 'İsminiz boşluk bırakmadan yalnızca a-Z karakterlerini ve 0-9 arasındaki sayıları içerebilir. 16 karaktere kadar.'
     }
   },
 
@@ -130,7 +141,8 @@ export default {
       es: 'Borrar',
       de: 'Löschen',
       fr: 'Supprimer',
-      ko: '캐릭터 삭제'
+      ko: '캐릭터 삭제',
+      tr: 'Sil'
     },
     info: {
       en: 'To delete, type the character\'s name. Your character can not be restored.',
@@ -140,7 +152,8 @@ export default {
       es: 'Para eliminar, escriba el nombre del caracter. Tu carácter no puede ser restaurado.',
       de: 'Geben Sie zum Löschen den Namen des Zeichens ein. Dein Charakter kann nicht wiederhergestellt werden.',
       fr: 'Pour supprimer, saisissez le nom du personnage. Votre personnage ne pourra pas être restauré.',
-      ko: '삭제하려면 캐릭터의 이름을 입력하십시오. 당신의 캐릭터는 회복 될 수 없습니다.'
+      ko: '삭제하려면 캐릭터의 이름을 입력하십시오. 당신의 캐릭터는 회복 될 수 없습니다.',
+      tr: 'Silmek için karakterin adını yazın. Silinen karakter geri getirilemez.'
     },
     placeholder: {
       en: 'Are you sure?',
@@ -150,7 +163,8 @@ export default {
       hi: 'पक्की तौर पर?',
       es: '¿Estás seguro de eso?',
       de: 'Bist du sicher?',
-      ko: '확실합니까?'
+      ko: '확실합니까?',
+      tr: 'Emin misin?'
     }
   }
 }

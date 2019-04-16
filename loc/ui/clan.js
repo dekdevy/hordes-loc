@@ -6,7 +6,8 @@ export default {
     fr: 'Gestionnaire du clan',
     hi: 'दल प्रबंधक',
     es: 'Gerente de clan',
-    de: 'Clan-Manager'
+    de: 'Clan-Manager',
+    tr: 'Klan Yönetimi'
   },
 
   leave: {
@@ -15,7 +16,8 @@ export default {
     fr: 'Quitter le clan',
     hi: 'दल छोड़े',
     es: 'Abandonar el clan',
-    de: 'Clan verlassen'
+    de: 'Clan verlassen',
+    tr: 'Klandan Ayrıl'
   },
 
   heading: {
@@ -24,7 +26,8 @@ export default {
     fr: 'Clan',
     hi: 'दल',
     es: 'Clan',
-    de: 'Clan'
+    de: 'Clan',
+    tr: 'Klan'
   },
 
   createheading: {
@@ -33,7 +36,8 @@ export default {
     fr: 'Créer un clan',
     hi: 'दल बनाए',
     es: 'Crear un clan',
-    de: 'Clan anlegen'
+    de: 'Clan anlegen',
+    tr: 'Klan yarat'
   },
 
   createinfo: {
@@ -42,7 +46,8 @@ export default {
     fr: 'Pour créer un clan, on requiert',
     hi: 'दल बनाने के लिए आपको ज़रूरत है',
     es: 'Para crear un clan, necesita',
-    de: 'Um einen Clan zu erstellen, brauchst du'
+    de: 'Um einen Clan zu erstellen, brauchst du',
+    tr: 'Klan yaratmak için ihtiyacın olan'
   },
 
   createname: {
@@ -51,7 +56,8 @@ export default {
     fr: 'Nom du clan',
     hi: 'दल का नाम',
     es: 'Nombre del clan',
-    de: 'Clan-Name'
+    de: 'Clan-Name',
+    tr: 'Klan adı'
   },
 
   createtag: {
@@ -60,7 +66,8 @@ export default {
     fr: 'Tag du clan',
     hi: 'दल टैग',
     es: 'Etiqueta de clan',
-    de: 'Clan-Tag'
+    de: 'Clan-Tag',
+    tr: 'Klan etiketi'
   },
 
   createbutton: {
@@ -69,6 +76,7 @@ export default {
     fr: 'Créer',
     hi: 'निर्माण करे',
     es: 'Crear',
-    de: 'Erstellen'
+    de: 'Erstellen',
+    tr: 'Yarat'
   }
 }

@@ -13,7 +13,8 @@ export default {
     el: 'Αποσυνδέση',
     ja: 'ログアウト',
     se: 'Logga ut',
-    ph: 'Mag-log Out'
+    ph: 'Mag-log Out',
+    tr: 'Çıkış Yap'
   },
 
   home: {
@@ -29,6 +30,7 @@ export default {
     el: 'Αρχική σελίδα',
     ja: 'ホームページ',
     se: 'Hemsida',
-    ph: 'Home page'
+    ph: 'Home page',
+    tr: 'Anasayfa'
   }
 }

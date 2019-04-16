@@ -10,6 +10,7 @@ export default {
     nl: 'inventarisatie',
     pt: 'inventário',
     it: 'merci in magazzino',
-    pl: 'inwentaryzacja'
+    pl: 'inwentaryzacja',
+    tr: 'enventer'
   }
 }

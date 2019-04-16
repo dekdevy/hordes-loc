@@ -7,7 +7,8 @@ export default {
     es: 'configuración',
     de: 'Einstellungen',
     fr: 'paramétrage',
-    nl: 'instellingen'
+    nl: 'instellingen',
+    tr: 'ayarlar'
   },
 
   // controls section of settings menu
@@ -18,7 +19,8 @@ export default {
     es: 'controles',
     de: 'Kontrollen',
     fr: 'commandes',
-    nl: 'besturingselementen'
+    nl: 'besturingselementen',
+    tr: 'kontroller'
   },
 
   lockedcamera: {
@@ -28,7 +30,8 @@ export default {
     es: 'Cámara fija',
     de: 'Gesperrte Kamera',
     fr: 'Caméra verrouillée',
-    nl: 'Vergrendelde camera'
+    nl: 'Vergrendelde camera',
+    tr: 'Kilitli kamera'
   },
 
   graphics: {
@@ -38,7 +41,8 @@ export default {
     es: 'gráficos',
     de: 'Grafiken',
     fr: 'schémas',
-    nl: 'grafischen'
+    nl: 'grafischen',
+    tr: 'grafikler'
   },
 
   resolution: {
@@ -48,7 +52,8 @@ export default {
     es: 'Resolución',
     de: 'Auflösung',
     fr: 'Résolution',
-    nl: 'Resolution'
+    nl: 'Resolution',
+    tr: 'Çözünürlük'
   },
 
   skilleffects: {
@@ -58,7 +63,8 @@ export default {
     es: 'Efectos de habilidades',
     de: 'Fertigkeitseffekte',
     fr: 'Effets de compétences',
-    nl: 'Vaardigheidseffecten'
+    nl: 'Vaardigheidseffecten',
+    tr: 'Yetenek efektleri'
   },
 
   shadow: {
@@ -68,7 +74,8 @@ export default {
     es: 'Calidad de sombra',
     de: 'Schattenqualität',
     fr: 'Qualité de l\'ombre',
-    nl: 'Schaduwkwaliteit'
+    nl: 'Schaduwkwaliteit',
+    tr: 'Gölge kalitesi'
   },
 
   grassamount: {
@@ -78,7 +85,8 @@ export default {
     es: 'Cantidad de pasto',
     de: 'Grasmenge',
     fr: 'Quantité d\'herbe',
-    nl: 'Grasbedrag'
+    nl: 'Grasbedrag',
+    tr: 'Çim miktarı'
   },
 
   chat: {
@@ -88,7 +96,8 @@ export default {
     es: 'Chat',
     de: 'Chat',
     fr: 'clavardage',
-    nl: 'praten'
+    nl: 'praten',
+    tr: 'sohbet'
   },
 
   chatwidth: {
@@ -98,7 +107,8 @@ export default {
     es: 'Ancho del chat',
     de: 'Chatbreite',
     fr: 'Largeur du chat',
-    nl: 'Chatbreedte'
+    nl: 'Chatbreedte',
+    tr: 'Chat genişliği'
   },
 
   chatheight: {
@@ -108,7 +118,8 @@ export default {
     es: 'Altura del chat',
     de: 'Chathöhe',
     fr: 'Hauteur de clavardage',
-    nl: 'Chathoogte'
+    nl: 'Chathoogte',
+    tr: 'Chat yükskliği'
   },
 
   tutorial: {
@@ -118,7 +129,8 @@ export default {
     es: 'tutorial',
     de: 'Tutorial',
     fr: 'didacticiel',
-    nl: 'handleiding'
+    nl: 'handleiding',
+    tr: 'öğretici'
   },
 
   reset: {
@@ -128,7 +140,8 @@ export default {
     es: 'Reiniciar tutorial',
     de: 'Tutorial zurücksetzen',
     fr: 'Réinitialiser le tutoriel',
-    nl: 'Gereset les'
+    nl: 'Gereset les',
+    tr: 'Öğreticiyi sıfırla'
   }
 
 }

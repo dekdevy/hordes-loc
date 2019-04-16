@@ -7,7 +7,8 @@ export default {
     es: 'Todo',
     de: 'Alle anzeigen',
     fr: 'Montrer tous/toutes',
-    ko: '모두 보이기'
+    ko: '모두 보이기',
+    tr: 'Hepsini Göster'
   },
 
   showclan: {
@@ -17,7 +18,8 @@ export default {
     es: 'Mostrar Clan',
     de: 'Show-Clan',
     fr: 'Afficher le clan',
-    ko: '클랜 보이기'
+    ko: '클랜 보이기',
+    tr: 'Klanı göster'
   },
 
   showsystem: {
@@ -27,7 +29,8 @@ export default {
     es: 'Mostrar sistema',
     de: 'System anzeigen',
     fr: 'Afficher le système',
-    ko: '시스템 보이기'
+    ko: '시스템 보이기',
+    tr: 'Sistemi Göster'
   },
 
   loot: {
@@ -37,14 +40,16 @@ export default {
     es: 'Botín',
     de: 'Beute',
     fr: 'Pillage',
-    ko: '전리품'
+    ko: '전리품',
+    tr: 'Ganimet'
   },
 
   exp: {
     en: 'exp',
     ru: 'опыт',
     hi: 'ऐक्सपी',
-    es: 'exp'
+    es: 'exp',
+    tr: 'dny'
   },
 
   pvp: {
