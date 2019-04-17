@@ -7,7 +7,8 @@ export default {
     es: 'Todo',
     de: 'Alle anzeigen',
     fr: 'Montrer tous/toutes',
-    ko: '모두 보이기'
+    ko: '모두 보이기',
+    pt: 'Mostrar todos'
   },
 
   showclan: {
@@ -17,7 +18,8 @@ export default {
     es: 'Mostrar Clan',
     de: 'Show-Clan',
     fr: 'Afficher le clan',
-    ko: '클랜 보이기'
+    ko: '클랜 보이기',
+    pt: 'Mostrar Clã'
   },
 
   showsystem: {
@@ -27,7 +29,8 @@ export default {
     es: 'Mostrar sistema',
     de: 'System anzeigen',
     fr: 'Afficher le système',
-    ko: '시스템 보이기'
+    ko: '시스템 보이기',
+    pt: 'Mostrar Sistema'
   },
 
   loot: {
@@ -37,21 +40,24 @@ export default {
     es: 'Botín',
     de: 'Beute',
     fr: 'Pillage',
-    ko: '전리품'
+    ko: '전리품',
+    pt: 'Saque'
   },
 
   exp: {
     en: 'exp',
     ru: 'опыт',
     hi: 'ऐक्सपी',
-    es: 'exp'
+    es: 'exp',
+    pt: 'exp'
   },
 
   pvp: {
     en: 'PvP',
     ru: 'ипи',
     hi: 'पिविपी',
-    es: 'PvP'
+    es: 'PvP',
+    pt: 'PvP'
   },
 
   // translations not needed
