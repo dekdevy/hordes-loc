@@ -30,7 +30,7 @@ export default [
     name       : { en: 'Adventurer\'s Shortbow' },
     description: {
       en: 'Whoever left this on the ground probably didn\'t meet a nice end.',
-      ru: 'Кто то оставил его на земле, вероятно, не встретил хороший конец',
+      ru: 'Кто то оставил его на земле, вероятно, встретил не хороший конец',
       fr: 'Quiconque a échappé ceci par terre n\'a sûrement pas rencontré une fin heureuse.',
       de: 'Wer das auf dem Boden gelassen hat, hat wahrscheinlich kein schönes Ende gefunden.',
       es: 'Quienquiera que haya dejado esto en el suelo probablemente no tuvo un buen final.',
@@ -43,7 +43,7 @@ export default [
     name       : { en: 'Long Bow' },
     description: {
       en: 'A more advanced weapon. Quite nice to look at.',
-      ru: 'Более продвинутое оружие. Довольно приятно смотреть на эго.',
+      ru: 'Более продвинутое оружие. Довольно приятно смотреть на него.',
       de: 'Eine fortschrittlichere Waffe. Sehr schön anzusehen.',
       es: 'Un arma más avanzada. Bastante bonito de ver.',
       fr: 'Une arme plus avancée. Plutôt agréable à regarder.',
@@ -56,7 +56,7 @@ export default [
     name       : { en: 'Bone Bow' },
     description: {
       en: 'Put together with the bones of... somebody?',
-      ru: 'Cобран из костей ... кого-нибудь?',
+      ru: 'Cобран из костей ... кого-то?',
       fr: 'Assemblé avec les os de... quelqu\'un?',
       de: 'Zusammen mit den Knochen von.... jemandem?',
       es: '¿Colocado con los huesos de... alguien?',
@@ -69,7 +69,7 @@ export default [
     name       : { en: 'Elven Bow' },
     description: {
       en: 'An expert bow of a forgotten race.',
-      ru: 'Экспертный лук забытой расы',
+      ru: 'Лук эксперта забытой расы',
       fr: 'Un arc d\'expert originant d\'une race oublié.',
       de: 'Ein Expertenbogen einer vergessenen Rasse.',
       es: 'Una reverencia experta de una raza olvidada.',
@@ -95,7 +95,7 @@ export default [
     name       : { en: 'Iron Piercer' },
     description: {
       en: 'Burns away the enemy with the spiciest of red coloring.',
-      ru: 'Сжигает противника с пряностями красной окраскаи.',
+      ru: 'Сжигает противника своим  ярко-красным окрасом.',
       de: 'Verbrennt den Feind mit der schärfsten roten Farbe.',
       es: 'Quema al enemigo con la coloración roja más picante.',
       fr: 'Brûle ses ennemis avec la coloration rouge la plus épicée.',
@@ -107,8 +107,8 @@ export default [
   { // T9 item
     name       : { en: 'Silver Recurve' },
     description: {
-      en: 'A bow commonly used by low-ranked royal archers. Blends in well with vegetation.',
-      ru: 'Лук, обычно используемый низкими королевскими лучниками. Хорошо сочетается с растительностью.',
+      en: 'A bow commonly used by low ranked royal archers. Blends in well with vegetation.',
+      ru: 'Лук, обычно используемый низкопоставленными королевскими лучниками. Хорошо сливается с растительностью.',
       de: 'Ein Bogen, der häufig von niederrangigen königlichen Bogenschützen verwendet wird. Passt sich gut der Vegetation an.',
       es: 'Un arco comúnmente usado por arqueros reales de bajo rango. Se integra bien con la vegetación.',
       fr: 'Un arc couramment utilisé par les archers royaux de bas rang. S\'intègre bien à la végétation.',
@@ -121,7 +121,7 @@ export default [
     name       : { en: 'Assassin\'s Bow' },
     description: {
       en: 'Masterfully crafted by the bandits of the capitals.',
-      ru: 'Мастерски созданный бандитами столиц.',
+      ru: 'Мастерски созданный столичными бандитами.',
       de: 'Meisterhaft gefertigt von den Banditen der Hauptstädte.',
       es: 'Hecho con maestría por los bandidos de las capitales.',
       fr: 'Fabriqué avec brio par les bandits des capitales.',
@@ -134,7 +134,7 @@ export default [
     name       : { en: 'Skyfire Warbow' },
     description: {
       en: 'A rare bow used in the greatest of wars. Shooting it makes you feel like the heavens will collapse.',
-      ru: 'Редкий лук, используемый в величайших войнах. Bыстрел заставляет вас чувствовать, что небеса рухнут.',
+      ru: 'Редкий лук, используемый в величайших войнах. Bыстрел заставляет вас чувствовать дрожь небес.',
       fr: 'Un arc rare utilisé dans les plus grandes batailles. Tirer une flèche avec cet arme vous donne l\'impression que les cieux vont s\'effondrer.',
       de: 'Ein seltener Bogen, der in den größten Kriegen verwendet wird. Beim Schießen hat man das Gefühl, dass der Himmel zusammenbrechen wird.',
       es: 'Un arco raro usado en la mayor de las guerras. Disparar te hace sentir como si el cielo se fuera a derrumbar.',
@@ -186,7 +186,7 @@ export default [
     name       : { en: 'Scarebow' },
     description: {
       en: 'So scary that few have the guts to hold it.',
-      ru: 'Настолько страшно, что немногие имеют мужество держать его.',
+      ru: 'Настолько пугающий, что немногим хватает мужества держать его.',
       de: 'So beängstigend, dass nur wenige den Mut haben, es zu halten.',
       es: 'Tan aterrador que pocos tienen la coraje para sostenerlo.',
       fr: 'Une arme si effrayante que peu de gens ont le courage de la brandir.',
@@ -199,7 +199,7 @@ export default [
     name       : { en: 'Fury' },
     description: {
       en: 'Embedded with a primal rage, your foes tremble at the sight of this weapon. Pew pew is the last thing they will ever hear.',
-      ru: 'Окрыленные яростью, ваши противники дрожат при виде этого оружия. Пью Пью - последнее, что они услышат.',
+      ru: 'Насыщенный первобытной яростью, ваши противники дрожат при виде этого оружия. Пиу Пиу - последнее, что они услышат.',
       de: 'Eingebettet in eine urtümliche Wut, zittern deine Feinde beim Anblick dieser Waffe. Kirchenbank ist das Letzte, was sie je hören werden.',
       es: 'Envueltos en una furia primigenia, tus enemigos tiemblan al ver esta arma. Pew Pew Pew es lo último que oirán.',
       fr: 'Encastrés dans une rage primitive, vos ennemis tremblent à la vue de cette arme. Pew pew pew est la dernière chose qu\'ils n\'entendront jamais.',
