@@ -16,7 +16,7 @@ export default {
       fr: 'Apportez-moi vers le 1$, s\'il-vous plaît.',
       hi: 'हम दूसरे स्थानो का द्वार खोल सकते। कहा जाना चाहते हो तुम?',
       de: 'Bitte bring mich auf $1.',
-      es: 'Por favor, lléveme a $1.'
+      es: 'Por favor, lléveme a $1.',
       it: 'Portimi prego a $1'
     }]
   }]
