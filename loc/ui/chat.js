@@ -49,6 +49,8 @@ export default {
     ru: 'Опыт',
     hi: 'ऐक्सपी',
     es: 'exp',
+    bg: 'Годен',
+    ja: '経験値',
     nl: 'exp'
   },
 
