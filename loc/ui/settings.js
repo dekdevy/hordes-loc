@@ -63,7 +63,7 @@ export default {
 
   shadow: {
     en: 'Shadow quality',
-    ru: 'Shadow quality',
+    ru: 'Качество теней',
     hi: 'परछाईं क्वालिटी',
     es: 'Calidad de sombra',
     de: 'Schattenqualität',
