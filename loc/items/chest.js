@@ -87,7 +87,7 @@ export default [
     name       : {en: 'Shadow Cloak' },
     description: {
       en: 'The wearer blends in nicely with the shadows... or so the thieves think.',
-      ru: 'Носитель отлично сливаеться с тенью... или так думают воры',
+      ru: 'Носитель отлично сливаеться с тенью... или так думают воры.',
       es: 'El portador se mezcla bien entre las sombras... o eso piensan los ladrones.',
       de: 'Der Träger fügt sich gut in den Schatten ein.... so denken die Diebe.',
       fr: 'Le porteur se fond bien dans l\'ombre... c\'est du moins ce que pensent les voleurs.',
