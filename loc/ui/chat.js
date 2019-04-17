@@ -8,6 +8,7 @@ export default {
     de: 'Alle anzeigen',
     fr: 'Montrer tous/toutes',
     ko: '모두 보이기',
+    tr: 'Hepsini Göster',
     nl: 'Toon alle',
     pt: 'Mostrar todos'
   },
@@ -20,6 +21,7 @@ export default {
     de: 'Show-Clan',
     fr: 'Afficher le clan',
     ko: '클랜 보이기',
+    tr: 'Klanı göster',
     nl: 'Toon Clan',
     pt: 'Mostrar Clã'
   },
@@ -32,6 +34,7 @@ export default {
     de: 'System anzeigen',
     fr: 'Afficher le système',
     ko: '시스템 보이기',
+    tr: 'Sistemi Göster',
     nl: 'Toon systeem',
     pt: 'Mostrar sistema'
   },
@@ -44,6 +47,7 @@ export default {
     de: 'Beute',
     fr: 'Pillage',
     ko: '전리품',
+    tr: 'Ganimet',
     nl: 'Luit',
     pt: 'Saque'
   },
@@ -53,6 +57,7 @@ export default {
     ru: 'Опыт',
     hi: 'ऐक्सपी',
     es: 'exp',
+    tr: 'dny',
     bg: 'Годен',
     ja: '経験値',
     nl: 'exp',
