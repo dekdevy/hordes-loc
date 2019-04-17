@@ -11,12 +11,12 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'ignorant', 'divine', 'eccentric', 'gloomy', 'funny', 'safe', 'insured', 'cultist'. 'washed', 'mighty', 'depressed',
   'wild', 'hallowed', 'heavy', 'ghostly', 'sly', 'sneaky', 'flooded', 'waterlogged', 'stretchy', 'dodgy', 'slippery',
   'electrical', 'mature', 'immature', 'old', 'new', 'young', 'ancient', 'elderly', 'pythonic', 'poetic', 'oily', 'ageing',
-  'growing', 'communist', 'socialist', 'democratic', 'vile', 'disgusting', 'lovely', 'swampy', 'holy', 'radioactive',
+  'growing', 'vile', 'disgusting', 'lovely', 'swampy', 'holy', 'radioactive', 'evolved', 'speedy', 'shimmering', 'drifting',
   'mini', 'bleeding', 'poisoned', 'rough', 'crude', 'moisturized', 'bright', 'pleasing', 'hypocritical', 'pleasing',
   'demented', 'possessed', 'diabolical', 'teleporting', 'tasty', 'doomed', 'scary', 'ghastly', 'tailored', 'needy',
   'oblivious', 'imperial', 'lethal', 'marshy', 'noble', 'nostalgic', 'radical', 'quiet', 'mutated', 'realistic',
   'augmeneted', 'embarrassing', 'humiliating', 'dubious', 'cruel', 'cunning', 'glamorous', 'accidental', 'intricate',
-  'jolly', 'evolved', 'speedy', 'shimmering', 'drifting', 'stereotypical', 'crazy']
+  'jolly', 'stereotypical', 'crazy']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
@@ -29,12 +29,11 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'femur', 'country', 'wasteland', 'behemoth', 'lich', 'gavel', 'basher', 'club', 'morningstar', 'heart', 'diamond',
   'pearl', 'ruby', 'python', 'topaz', 'aluminium', 'silver', 'nugget', 'obsidian', 'ghost', 'flood', 'peat', 'bog',
   'furnace', 'gauntlet', 'greave', 'bracer', 'slingshot', 'sun', 'star', 'shard', 'pen', 'coal', 'charcoal', 'flame',
-  'snake', 'code', 'party', 'literature', 'seed', 'government', 'election', 'fortress', 'lair', 'river', 'sea', 'adventure',
-  'voyage', 'odyssey', 'creed', 'hole', 'hangnail', 'lawn', 'fork', 'sunflower', 'tank', 'blight', 'book', 'script', 'scroll',
+  'snake', 'code', 'party', 'literature', 'seed', 'fortress', 'lair', 'river', 'sea', 'adventure', 'campfire'
+  'voyage', 'odyssey', 'creed', 'hole', 'hangnail', 'lawn', 'fork', 'sunflower', 'blight', 'book', 'script', 'scroll',
   'future', 'wardrobe', 'throne', 'hypocrite', 'mockingbird', 'bowman', 'raider', 'scout', 'officer', 'lieutenant', 'general',
-  'ninja', 'assassin', 'coffee', 'trolley', 'taxi', 'demon', 'angel', 'tooth', 'song', 'storm', 'warbow', 'caricature',
-  'technology', 'chair', 'skirmish', 'mutant', 'abomination', 'ache', 'bacteria', 'blossom', 'judge', 'journal', 'performer',
-  'race', 'pumpkin', 'stereotype', 'campfire']
+  'ninja', 'assassin', 'coffee', 'demon', 'angel', 'tooth', 'song', 'storm', 'warbow', 'caricature', 'race', 'pumpkin',
+  'skirmish', 'mutant', 'abomination', 'ache', 'blossom', 'journal', 'performer', 'stereotype']
 
 const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', 'misfortune', 'rage', 'joy',
   'leveling', 'vengance', 'resurrection', 'mastery', 'loss', 'flames', 'fire', 'frost', 'glory', 'war', 'sprinting',
@@ -43,10 +42,9 @@ const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', '
   'aggression', 'lust', 'swordsmanship', 'dreams', 'daydreams', 'thievery', 'generosity', 'radiance', 'royalty', 'valor',
   'refreshment', 'revenge', 'vengeance', 'veganism', 'knowledge', 'ignorance', 'divinity', 'evolution', 'vegeterianism',
   'depression', 'insurance', 'protection', 'shielding', 'power', 'might', 'magic', 'wilderness', 'literacy', 'poetry', 'artwork',
-  'jealousy', 'fame', 'wealth', 'loneliness', 'youth', 'elderness', 'democracy', 'dread', 'oligarchy', 'disgust', 'socialism',
-  'communism', 'anarchy', 'radiation', 'hypocrisy', 'teleportation', 'tailoring', 'fighting', 'marroage', 'nobility', 'nostalgia',
-  'raiding', 'mutation', 'reality', 'fantasies', 'embarrassment', 'humiliation', 'cruelty', 'guidance', 'brilliance',
-  'glamour', 'performance', 'unbreaking', 'speed', 'advice']
+  'jealousy', 'fame', 'wealth', 'loneliness', 'youth', 'elderness', 'dread', 'disgust', 'advice', 'speed', 'unbreaking', 'glamour'
+  'radiation', 'hypocrisy', 'teleportation', 'tailoring', 'fighting', 'marriage', 'nobility', 'nostalgia', 'performance'
+  'raiding', 'mutation', 'reality', 'fantasies', 'embarrassment', 'humiliation', 'cruelty', 'guidance', 'brilliance']
 
 export const generate = ()=>{
   // generates a random party invite link name
