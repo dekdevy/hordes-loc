@@ -1,5 +1,5 @@
 export default {
-  // Simple basic UI elements that pop up everywhere
+  // Simple basic UI elements that pop up everywhere.
   ok: {
     en: 'Okay',
     se: 'Okej',
