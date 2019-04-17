@@ -15,6 +15,7 @@ export default {
     pt: 'A horda Vanguarda procura tradição, estrutura e ordem na sociedade. Seu Castelo pode ser encontrado em uma área verde exuberante ao redor de Guardstone.',
     nl: 'De Vanguard horde zoekt traditie, structuur en orde in de samenleving. Hun kasteel bevindt zich in een weelderig groen gebied rond Guardstone.',
     tr: 'Vanguard sürüsü, toplumda gelenek, yapı ve düzeni arar. Kaleleri, Muhafız Taşı çevresindeki yemyeşil bir alanda bulunur.',
-    it: 'L\'orda di avanguardia cerca la tradizione, la struttura e l\'ordine nella società. Il loro castello può essere trovato in un\'area verde fertile intorno a Guardstone.'
+    it: 'L\'orda di avanguardia cerca la tradizione, la struttura e l\'ordine nella società. Il loro castello può essere trovato in un\'area verde fertile intorno a Guardstone.',
+    ht: 'Vanguard chèche tradisyon, estrikti ak lòd nan sosyete a. Ka chato yo ka jwenn nan yon zòn bèl vèt alantou Guardstone.'
   }
 }
