@@ -34,7 +34,7 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'future', 'wardrobe', 'throne', 'hypocrite', 'mockingbird', 'bowman', 'raider', 'scout', 'officer', 'lieutenant', 'general',
   'ninja', 'assassin', 'coffee', 'trolley', 'taxi', 'demon', 'angel', 'tooth', 'song', 'storm', 'warbow', 'caricature',
   'technology', 'chair', 'skirmish', 'mutant', 'abomination', 'ache', 'bacteria', 'blossom', 'judge', 'journal', 'performer',
-  'race', 'pumpkin', 'stereotype']
+  'race', 'pumpkin', 'stereotype', 'campfire']
 
 const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', 'misfortune', 'rage', 'joy',
   'leveling', 'vengance', 'resurrection', 'mastery', 'loss', 'flames', 'fire', 'frost', 'glory', 'war', 'sprinting',
