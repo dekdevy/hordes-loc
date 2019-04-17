@@ -14,7 +14,8 @@ export default {
       ru: 'Да, конечно.',
       es: 'Sí, por supuesto.',
       de: 'Ja, natürlich.',
-      fr: 'Oui, bien sûr.'
+      fr: 'Oui, bien sûr.',
+      it: 'Sì, naturalmente.'
     }
   }]
 }
