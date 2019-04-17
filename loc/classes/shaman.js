@@ -10,7 +10,7 @@ export default {
     ko: '샤먼',
     pt: 'Xamã',
     nl: 'Sjamaan',
-    hi: 'जादूगर'
+    hi: 'शमन'
   },
   // Class description, visible during character creation
   description: {
@@ -23,6 +23,6 @@ export default {
     ko: '샤먼의 역할은 탱크를 치유하고 공세적 인 버프 또는 맹독적인 디버프를 제공하여 그룹을 지원하는 것입니다.',
     pt: 'O papel dos xamãs é apoiar o grupo, curando o Tanque e oferecendo Buffs ofensivos ou Debuffs incapacitantes.',
     nl: 'De rol van de Sjamaan is om de groep te steunen door de Tank te helen en aanvallende Buffs of verlammende Debuffs aan te bieden.',
-    hi: 'जादूगर की भूमिका टैंक का उपचार करके और आक्रामक बफ़रों की पेशकश करके या लक्ष्य की क्षमताओं के प्रभाव को कम करके समूह का समर्थन करना है।'
+    hi: 'शमन की भूमिका टैंक का उपचार करके और आक्रामक बफ़रों की पेशकश करके या लक्ष्य की क्षमताओं के प्रभाव को कम करके समूह का समर्थन करना है।'
   }
 }
