@@ -44,7 +44,9 @@ export default {
     en: 'exp',
     ru: 'опыт',
     hi: 'ऐक्सपी',
-    es: 'exp'
+    es: 'exp',
+    bg: 'Годен',
+    ja: '経験値'
   },
 
   pvp: {
