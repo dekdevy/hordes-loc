@@ -9,7 +9,8 @@ export default {
     fr: 'Archer',
     pt: 'Arqueiro',
     de: 'Bogenschütze',
-    nl: 'Boogschutter'
+    nl: 'Boogschutter',
+    hi: 'धनुराशि'
   },
   // Class description, visible during character creation
   description: {
@@ -21,6 +22,7 @@ export default {
     fr: 'Les archers infligent des dégâts élevés sur une cible précise et des dégâts de zone importants. Un bon archer garde toujours ses distances et élimine ses ennemis de loin.',
     pt: 'Arqueiros causam danos altos a um único alvo e danos na Área de Efeito. Um bom arqueiro sempre manterá sua distância e snipe inimigos de longe.',
     de: 'Bogenschützen verursachen hohen einzelzielschaden und Berstenden Wirkungsbereich. Ein guter Bogenschütze wird immer Abstand halten und Feinde aus der Ferne schnippen.',
-    nl: 'Boogschutters groot enkel doelschade en barstenschade aan het gebied van het effect toe. Een goede boogschutter zal altijd afstand houden en vijanden uit de verte vernietigen.'
+    nl: 'Boogschutters groot enkel doelschade en barstenschade aan het gebied van het effect toe. Een goede boogschutter zal altijd afstand houden en vijanden uit de verte vernietigen.',
+    hi: 'धनुराशि उच्च एकल लक्ष्य क्षति और प्रभाव क्षति के त्वरित क्षेत्र से निपटते हैं। एक अच्छा तीरंदाज हमेशा अपनी दूरी बनाए रखेगा और दुश्मनों को दूर से ही मार देगा।'
   }
 }
