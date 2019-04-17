@@ -12,7 +12,8 @@ export default {
       es: 'Seleccione Carácter',
       de: 'Charakter auswählen',
       ko: '캐릭터 선택',
-      nl: 'Selecteer karakter'
+      nl: 'Selecteer karakter',
+      pt: 'Selecionar Caractere'
     },
     create: {
       en: 'Click to create character',
@@ -23,7 +24,8 @@ export default {
       de: 'Klicken Sie hier, um einen Charakter zu erstellen.',
       fr: 'Cliquez pour créer le personnage',
       ko: '캐릭터를 만들려면 클릭하십시오',
-      nl: 'Klik om karakter te creëren'
+      nl: 'Klik om karakter te creëren',
+      pt: 'Clique para criar um personagem'
     },
     enterWorld: {
       en: 'Enter World',
@@ -34,7 +36,8 @@ export default {
       es: 'Entrar en el mundo',
       de: 'Tritt ein in die Welt',
       ko: '세계에 들어가기',
-      nl: 'Betreed de wereld'
+      nl: 'Betreed de wereld',
+      pt: 'Entre no mundo'
     },
     emptySlot: {
       en: 'Empty',
@@ -45,7 +48,8 @@ export default {
       de: 'Leer',
       fr: 'Vide',
       ko: '빈 슬롯',
-      nl: 'Leeg'
+      nl: 'Leeg',
+      pt: 'Vazio'
     },
     error: {
       en: 'Network error',
@@ -56,7 +60,8 @@ export default {
       es: 'Error de red',
       de: 'Netzwerkfehler',
       ko: '네트워크 오류',
-      nl: 'Netwerkfout'
+      nl: 'Netwerkfout',
+      pt: 'Erro de rede'
     }
   },
 
@@ -71,7 +76,8 @@ export default {
       es: 'Creación de personajes',
       de: 'Charaktererstellung',
       ko: '캐릭터 생성',
-      nl: 'Karakter creatie'
+      nl: 'Karakter creatie',
+      pt: 'Criação de personagens'
     },
     pressIcon: {
       en: 'Press an icon for a brief description.',
@@ -82,7 +88,8 @@ export default {
       es: 'Pulse un icono para obtener una breve descripción.',
       de: 'Drücken Sie ein Symbol für eine Kurzbeschreibung.',
       ko: '간단한 설명을 보려면 아이콘을 누르십시오',
-      nl: 'Druk op een pictogram voor een korte beschrijving.'
+      nl: 'Druk op een pictogram voor een korte beschrijving.',
+      pt: 'Pressione um ícone para uma breve descrição.'
     },
     selectClass: {
       en: 'Select a class',
@@ -93,7 +100,8 @@ export default {
       de: 'Wählen Sie eine Klasse',
       fr: 'Sélectionnez une classe',
       ko: '클래스 선택',
-      nl: 'Selecteer een klasse'
+      nl: 'Selecteer een klasse',
+      pt: 'Selecione uma classe'
     },
     selectFaction: {
       en: 'Select a faction',
@@ -104,7 +112,8 @@ export default {
       es: 'Seleccione una facción',
       de: 'Wählen Sie eine Fraktion aus',
       ko: '진영을 선택하십시오',
-      nl: 'Selecteer een groepering'
+      nl: 'Selecteer een groepering',
+      pt: 'Selecione uma facção'
     },
     enterName: {
       en: 'Enter a name',
@@ -115,7 +124,8 @@ export default {
       es: 'Introduzca un nombre',
       de: 'Geben Sie einen Namen ein',
       ko: '이름 입력',
-      nl: 'Voer een naam in'
+      nl: 'Voer een naam in',
+      pt: 'Digite um nome'
     },
     nameReq: {
       en: 'Your name can only contain characters a-Z, and numbers 0-9, without any spaces. Up to 16 characters.',
@@ -126,7 +136,8 @@ export default {
       es: 'Su nombre sólo puede contener los caracteres de la a-Z, y los números del 0 al 9, sin espacios. Hasta 16 caracteres.',
       de: 'Dein Name darf nur die Zeichen a-Z und die Zahlen 0-9 ohne Leerzeichen enthalten. Bis zu 16 Zeichen.',
       ko: '이름에는 공백없이 a-Z와 0-9의 문자 만 사용할 수 있습니다. 최대 16 자.',
-      nl: 'Uw naam kan alleen tekens a-Z bevatten, en cijfers 0-9, zonder spaties. Tot 16 tekens.'
+      nl: 'Uw naam kan alleen tekens a-Z bevatten, en cijfers 0-9, zonder spaties. Tot 16 tekens.',
+      pt: 'Seu nome só pode conter caracteres a-Z, e números 0-9, sem espaços. Até 16 caracteres.'
     }
   },
 
@@ -142,7 +153,8 @@ export default {
       de: 'Löschen',
       fr: 'Supprimer',
       ko: '캐릭터 삭제',
-      nl: 'Verwijderen'
+      nl: 'Verwijderen',
+      pt: 'Eliminar'
     },
     info: {
       en: 'To delete, type the character\'s name. Your character can not be restored.',
@@ -153,7 +165,8 @@ export default {
       de: 'Geben Sie zum Löschen den Namen des Zeichens ein. Dein Charakter kann nicht wiederhergestellt werden.',
       fr: 'Pour supprimer, saisissez le nom du personnage. Votre personnage ne pourra pas être restauré.',
       ko: '삭제하려면 캐릭터의 이름을 입력하십시오. 당신의 캐릭터는 회복 될 수 없습니다.',
-      nl: 'Om te verwijderen, typt u de naam van het teken in. Je karakter kan niet worden hersteld.'
+      nl: 'Om te verwijderen, typt u de naam van het teken in. Je karakter kan niet worden hersteld.',
+      pt: 'Para apagar, digite o nome do personagem. Seu personagem não pode ser restaurado.'
     },
     placeholder: {
       en: 'Are you sure?',
@@ -164,7 +177,8 @@ export default {
       es: '¿Estás seguro de eso?',
       de: 'Bist du sicher?',
       ko: '확실합니까?',
-      nl: 'Weet je het zeker?'
+      nl: 'Weet je het zeker?',
+      pt: 'Tens a certeza?'
     }
   }
 }

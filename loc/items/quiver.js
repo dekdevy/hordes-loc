@@ -9,7 +9,8 @@ export default [
       fr: 'Un carquois en linge dont les flèches n\'arrêtent pas de tomber.',
       it: 'Morbido, pieno di buchi. Le frecce continuano a cadere.',
       pt: 'Suave, cheio de buracos. As setas continuam caindo.',
-      hi: 'मुलायम और गद्दों से भारी हुई। सारे तीर गिरते रहते है।'
+      hi: 'मुलायम और गद्दों से भारी हुई। सारे तीर गिरते रहते है।',
+      nl: 'Zacht, vol gaten. Pijlen blijven uitvallen.'
     }
   },
 
@@ -23,7 +24,8 @@ export default [
       fr: 'Sac en lin recouvert de cuir rigide.',
       it: 'Sacco in lino rivestito in pelle rigida.',
       pt: 'Saco de linho coberto de couro rígido.',
-      hi: 'सख़्त चमड़े से ढकी लिनन की पोती।'
+      hi: 'सख़्त चमड़े से ढकी लिनन की पोती।',
+      nl: 'Linnenzak bedekt met stijf leer.'
     }
   },
 
@@ -37,7 +39,8 @@ export default [
       fr: 'À utiliser lorsque tout le reste échoue.',
       it: 'Usato quando tutto il resto fallisce.',
       pt: 'Usado quando tudo o resto falha.',
-      hi: 'आख़री रास्ता यही है'
+      hi: 'आख़री रास्ता यही है',
+      nl: 'Wordt gebruikt als al het andere faalt.'
     }
   },
 
@@ -51,7 +54,8 @@ export default [
       fr: 'Carquois elfique décoré de diamants brillants.',
       it: 'Faretra elfica rivestita di diamante luccicante.',
       pt: 'Aljava elfica revestida com diamante cintilante.',
-      hi: 'एल्वेन पोटली, हीरों से जड़ी।'
+      hi: 'एल्वेन पोटली, हीरों से जड़ी।',
+      nl: 'Elven koker gecoat in glinsterende diamant.'
     }
   },
 
@@ -65,7 +69,8 @@ export default [
       fr: 'Un carquois fait en peau de serpent, pouvant supporter les plus puissantes flèches.',
       it: 'Ogni volta che tiri fuori una freccia, ti sibila addosso.',
       pt: 'Sempre que puxas uma flecha para fora, ela sibila para ti.',
-      hi: 'तीर निकालने पर साँप की तरह फूफकारती है।'
+      hi: 'तीर निकालने पर साँप की तरह फूफकारती है।',
+      nl: 'Elke keer als je een pijl eruit trekt, sist het naar je.'
     }
   }
 

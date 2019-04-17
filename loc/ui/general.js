@@ -8,6 +8,7 @@ export default {
     hi: 'ठीक',
     fr: 'D\'accord',
     es: 'De acuerdo',
+
     nl: 'Zeker',
     bg: 'добре',
     cs: 'dobře',
@@ -17,7 +18,9 @@ export default {
     pl: 'w porządku',
     pt: 'OK',
     ph: 'Okay',
-    se: 'Okej'
+    se: 'Okej',
+    nl: 'Okee'
+
   },
   back: {
     en: 'Back',
