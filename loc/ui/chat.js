@@ -41,7 +41,7 @@ export default {
     de: 'Beute',
     fr: 'Pillage',
     ko: '전리품',
-    nl: 'Luit'
+    nl: 'Buit'
   },
 
   exp: {
