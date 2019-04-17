@@ -7,7 +7,16 @@ export default {
     hi: 'दल प्रबंधक',
     es: 'Gerente de clan',
     de: 'Clan-Manager',
-    tr: 'Klan Yönetimi'
+    tr: 'Klan Yönetimi',
+    bg: 'Мениджър на клана',
+    cs: 'Clan Manager',
+    el: 'Clan Manager',
+    it: 'Clan Manager',
+    ja: 'クランマネージャー',
+    pl: 'Menedżer klanu',
+    pt: 'Gerente do Clã',
+    ph: 'Clan Manager',
+    se: 'Clan Manager'
   },
 
   leave: {
@@ -17,7 +26,16 @@ export default {
     hi: 'दल छोड़े',
     es: 'Abandonar el clan',
     de: 'Clan verlassen',
-    tr: 'Klandan Ayrıl'
+    tr: 'Klandan Ayrıl',
+    bg: 'Напусни Clan',
+    cs: 'Opustit klan',
+    el: 'Αφήστε τη Clan',
+    it: 'Abbandona il clan',
+    ja: 'クランを脱退',
+    pl: 'Opuść Klan',
+    pt: 'Saia do clã',
+    ph: 'Iwanan mo ang grupo',
+    se: 'Lämna Clan'
   },
 
   heading: {
@@ -27,7 +45,16 @@ export default {
     hi: 'दल',
     es: 'Clan',
     de: 'Clan',
-    tr: 'Klan'
+    tr: 'Klan',
+    bg: 'клан',
+    cs: 'Klan',
+    el: 'Φυλή',
+    it: 'Clan',
+    ja: '族',
+    pl: 'Klan',
+    pt: 'Clã',
+    ph: 'Clan',
+    se: 'Klan'
   },
 
   createheading: {
@@ -37,7 +64,16 @@ export default {
     hi: 'दल बनाए',
     es: 'Crear un clan',
     de: 'Clan anlegen',
-    tr: 'Klan yarat'
+    tr: 'Klan yarat',
+    bg: 'Създайте клана',
+    cs: 'Vytvořit klan',
+    el: 'Δημιουργία Clan',
+    it: 'Create Clan',
+    ja: 'クランを作成',
+    pl: 'Utwórz klan',
+    pt: 'Criar clã',
+    ph: 'Lumikha ng Clan',
+    se: 'Skapa Clan'
   },
 
   createinfo: {
@@ -47,7 +83,16 @@ export default {
     hi: 'दल बनाने के लिए आपको ज़रूरत है',
     es: 'Para crear un clan, necesita',
     de: 'Um einen Clan zu erstellen, brauchst du',
-    tr: 'Klan yaratmak için ihtiyacın olan'
+    tr: 'Klan yaratmak için ihtiyacın olan',
+    bg: 'За да създадете нужда от клан',
+    cs: 'Chcete-li vytvořit klan, který potřebujete',
+    el: 'Για να δημιουργήσετε μια οικογένεια που χρειάζεστε',
+    it: 'Per creare un clan che ti serve',
+    ja: 'クランを作成するにはあなたが必要です',
+    pl: 'Aby stworzyć potrzebny klan',
+    pt: 'Para criar um clã você precisa',
+    ph: 'Upang lumikha ng isang lahi na kailangan mo',
+    se: 'För att skapa en klan behöver du'
   },
 
   createname: {
@@ -57,7 +102,16 @@ export default {
     hi: 'दल का नाम',
     es: 'Nombre del clan',
     de: 'Clan-Name',
-    tr: 'Klan adı'
+    tr: 'Klan adı',
+    bg: 'Име на клана',
+    cs: 'Klanové jméno',
+    el: 'Όνομα Φίλου',
+    it: 'Nome del clan',
+    ja: '氏名',
+    pl: 'Nazwa klanu',
+    pt: 'Nome do clã',
+    ph: 'Pangalan ng isang lipi',
+    se: 'Klan namn'
   },
 
   createtag: {
@@ -67,7 +121,16 @@ export default {
     hi: 'दल टैग',
     es: 'Etiqueta de clan',
     de: 'Clan-Tag',
-    tr: 'Klan etiketi'
+    tr: 'Klan etiketi',
+    bg: 'Ден на клана',
+    cs: 'Den klanů',
+    el: 'Ημέρα του γάμου',
+    it: 'Clan tag',
+    ja: '族の日',
+    pl: 'Dzień klanu',
+    pt: 'Dia do clã',
+    ph: 'Araw ng lahi',
+    se: 'Clan tag'
   },
 
   createbutton: {
@@ -77,6 +140,15 @@ export default {
     hi: 'निर्माण करे',
     es: 'Crear',
     de: 'Erstellen',
-    tr: 'Yarat'
+    tr: 'Yarat',
+    bg: 'създавам',
+    cs: 'Vytvořit',
+    el: 'Δημιουργώ',
+    it: 'Creare',
+    ja: '作成する',
+    pl: 'Stwórz',
+    pt: 'Crio',
+    ph: 'Lumikha',
+    se: 'Skapa'
   }
 }

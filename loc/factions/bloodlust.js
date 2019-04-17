@@ -13,6 +13,7 @@ export default {
     ko: '블러드 스톰 호드는 자유와 충성심을 중요시하며, 개인주의 또는 혼란을위한 장소를 제공합니다. 그들의 방위는 “헤드 레스 랜딩” 이라는 사막 영역에 있습니다.',
     pt: 'A horda do Sangue valoriza a liberdade e a lealdade, oferece um lugar para o individualismo ou mesmo o caos. Suas defesas estão localizadas em um deserto chamado Headless Landing.',
     nl: 'De Bloodlust horde waardeert vrijheid en loyaliteit, biedt een plaats voor individualisme of zelfs chaos. Hun verdediging bevindt zich in een woestijngebied dat Headless Landing heet.',
-    tr: 'Bloodlust kalabalığı özgürlüğe ve sadakate önem verir, bireyciliğe ve hatta kaosa yer verir. Savunmaları, Başsız İniş denilen bir çöl aleminde bulunur.'
+    tr: 'Bloodlust kalabalığı özgürlüğe ve sadakate önem verir, bireyciliğe ve hatta kaosa yer verir. Savunmaları, Başsız İniş denilen bir çöl aleminde bulunur.',
+    it: 'L\'orda di Bloodlust stima la libertà e la lealtà, offre un posto per individualismo o persino caos. Le loro difese sono situate in un regno del deserto chiamato Headless Landing.'
   }
 }
