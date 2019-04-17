@@ -3,7 +3,7 @@ export default [
     name       : {en: 'Potato Sack' },
     description: {
       en: 'Sack stiff with starch making you feel dirty and dishevelled.',
-      ru: 'Грубый накрахмаленный мешок заставляет чувствовать вас грязным и взъерошенным.',
+      ru: 'Мешок жесткий с крахмалом заставляет чувствовать вас грязным и взъерошенным.',
       es: 'Saco rígido con almidón que te hace sentir sucio y despeinado.',
       de: 'Sack steif mit Stärke, so dass Sie sich schmutzig und zerzaust fühlen.',
       fr: 'Sac rigide avec de l\'amidon qui vous donne l\'impression d\'être sale et ébouriffé.',
@@ -17,7 +17,7 @@ export default [
     name       : {en: 'Faded Garment' },
     description: {
       en: 'Leather shirt, faded from wear and tear.',
-      ru: 'Кожаная рубашка, выцветшая из-за износа.',
+      ru: 'Кожаная рубашка, выцветшая от износа.',
       es: 'Camisa de cuero, desteñida por el desgaste.',
       de: 'Lederhemd, verblasst durch Abnutzung.',
       fr: 'Chemise en cuir, décolorée par l\'usure.',
@@ -73,7 +73,7 @@ export default [
     name       : {en: 'Sky Cloak' },
     description: {
       en: 'Rumours say its made from clouds...',
-      ru: 'Слухи говорят, что она сделана из облаков...',
+      ru: 'Слухи говорят, что они сделаны из облаков...',
       es: 'Los rumores dicen que está hecho de las nubes...',
       de: 'Gerüchte besagen, dass es aus den Wolken gemacht wurde...',
       fr: 'Les rumeurs disent que c\'est fait à partir des nuages...',
@@ -87,7 +87,7 @@ export default [
     name       : {en: 'Shadow Cloak' },
     description: {
       en: 'The wearer blends in nicely with the shadows... or so the thieves think.',
-      ru: 'Носитель отлично сливаеться с тенью... или так думают воры',
+      ru: 'Носитель прекрасно сочетается в тени... или так думают воры.',
       es: 'El portador se mezcla bien entre las sombras... o eso piensan los ladrones.',
       de: 'Der Träger fügt sich gut in den Schatten ein.... so denken die Diebe.',
       fr: 'Le porteur se fond bien dans l\'ombre... c\'est du moins ce que pensent les voleurs.',
