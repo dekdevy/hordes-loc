@@ -67,8 +67,7 @@ export default {
 
   // translations not needed
   discord: {
-    en: 'Discord',
-    ru: 'Дискорд'
+    en: 'Discord'
   }
 
 }
