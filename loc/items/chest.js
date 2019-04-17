@@ -73,7 +73,7 @@ export default [
     name       : {en: 'Sky Cloak' },
     description: {
       en: 'Rumours say its made from clouds...',
-      ru: 'Слухи говорят, что они сделаны из облаков...',
+      ru: 'Слухи говорят, что она сделана из облаков...',
       es: 'Los rumores dicen que está hecho de las nubes...',
       de: 'Gerüchte besagen, dass es aus den Wolken gemacht wurde...',
       fr: 'Les rumeurs disent que c\'est fait à partir des nuages...',
