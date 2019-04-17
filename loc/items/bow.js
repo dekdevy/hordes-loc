@@ -30,7 +30,7 @@ export default [
     name       : { en: 'Adventurer\'s Shortbow' },
     description: {
       en: 'Whoever left this on the ground probably didn\'t meet a nice end.',
-      ru: 'Кто то оставил его на земле, вероятно, встретил не хороший конец',
+      ru: 'Кто то оставил его на земле, вероятно, не встретил хороший конец',
       fr: 'Quiconque a échappé ceci par terre n\'a sûrement pas rencontré une fin heureuse.',
       de: 'Wer das auf dem Boden gelassen hat, hat wahrscheinlich kein schönes Ende gefunden.',
       es: 'Quienquiera que haya dejado esto en el suelo probablemente no tuvo un buen final.',
