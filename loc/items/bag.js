@@ -31,7 +31,7 @@ export default [
     name       : {en: 'Purpur Duffel' },
     description: {
       en: 'Nice purple rucksack for all your travelling needs.',
-      ru: 'Хороший фиолетовый рюкзак для всех ваших поездок.',
+      ru: 'Хороший фиолетовый рюкзак для любых нужд путешественника.',
       de: 'Schöner lilafarbener Rucksack für alle Ihre Reisebedürfnisse.',
       es: 'Una mochila morada por todos las necesidades de viajar.',
       fr: 'Un joli sac-à-dos mauve pour tous vos besoins de voyage.',
@@ -45,7 +45,7 @@ export default [
     name       : {en: 'Elven Saddlebag' },
     description: {
       en: 'Elegant bag used by elven archers on horseback.',
-      ru: 'Элегантная сумка, используемая эльфийскими лучниками на лошадях.',
+      ru: 'Элегантная сумка, используемая конными эльфийскими лучниками.',
       de: 'Elegante Tasche, die von Elfenbogenschützen zu Pferd verwendet wird.',
       es: 'Una bolsa elegante, llevado por arqueros montando a caballo.',
       fr: 'Un sac élégant utilisé par les archers elfiques à cheval.',

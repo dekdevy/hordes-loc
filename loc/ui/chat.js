@@ -2,7 +2,7 @@ export default {
 
   showall: {
     en: 'Show All',
-    ru: 'Пок. Все',
+    ru: 'Все',
     hi: 'सब दिखाए',
     es: 'Todo',
     de: 'Alle anzeigen',
@@ -13,7 +13,7 @@ export default {
 
   showclan: {
     en: 'Show Clan',
-    ru: 'Пок. Клан',
+    ru: 'Клан',
     hi: 'दल से दिखाए',
     es: 'Mostrar Clan',
     de: 'Show-Clan',
@@ -24,7 +24,7 @@ export default {
 
   showsystem: {
     en: 'Show System',
-    ru: 'Пок. Систему',
+    ru: 'Система',
     hi: 'सिस्टम से दिखाए',
     es: 'Mostrar sistema',
     de: 'System anzeigen',
@@ -46,7 +46,7 @@ export default {
 
   exp: {
     en: 'exp',
-    ru: 'опыт',
+    ru: 'Опыт',
     hi: 'ऐक्सपी',
     es: 'exp',
     nl: 'exp'
@@ -54,7 +54,7 @@ export default {
 
   pvp: {
     en: 'PvP',
-    ru: 'ипи',
+    ru: 'Бой',
     hi: 'पिविपी',
     es: 'PvP',
     nl: 'PvP'

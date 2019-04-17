@@ -17,7 +17,7 @@ export default [
     name       : {en: 'Makeshift Brace' },
     description: {
       en: 'Skilled hands made an intricate job at making this homemade cuff.',
-      ru: 'Опытные руки сделали сложную работу по изготовлению этой самадельной нарукавника.',
+      ru: 'Опытные руки сделали сложную работу по изготовлению этой самадельной манжеты',
       es: 'Pulsera avanzada de cuero.',
       fr: 'Un peu plus avancé, pas beaucoup cependant',
       de: 'Geschickte Hände machten einen komplizierten Job bei der Herstellung dieser selbstgemachten Manschette.',
@@ -31,7 +31,7 @@ export default [
     name       : {en: 'Leather Armlet' },
     description: {
       en: 'Stiff, makes your arm sore.',
-      ru: 'Жесткая, твоя рука уже болит.',
+      ru: 'Тугие на столько что, твоя рука начинает опухать.',
       es: 'Mas cuero. Todo es cuero. Nesecitas una chaqueta de cuero para ser completo.',
       fr: 'Rigide, rend le bras douloureux',
       de: 'Steif, macht deinen Arm wund.',
@@ -59,7 +59,7 @@ export default [
     name       : {en: 'Iron Vambrace' },
     description: {
       en: 'Heavy on your arm... worth the protection.',
-      ru: 'Тяжело на твоей руке... стоит защиты.',
+      ru: 'Тяжёлые ... но стоят своей защиты.',
       es: 'Pesado, pero vale la pena.',
       fr: 'Lourd sur votre bras... vaut la protection',
       de: 'Schwer auf dem Arm... den Schutz wert.',
@@ -73,7 +73,7 @@ export default [
     name       : {en: 'Imbued Bracers' },
     description: {
       en: 'Dull metal bracer, handy for nighttime raiding.',
-      ru: 'Унылый металлический браслет, удобный для ночных рейдов.',
+      ru: 'Тусклый металлический браслет, удобный для ночных рейдов.',
       es: 'Perfecto para correr en la noche, el color del metal está apagado.',
       fr: 'Terne métal remontant, maniable pour les raids nocturnes',
       de: 'Matte Metallarmschiene, praktisch für nächtliche Raubzüge.',
@@ -101,7 +101,7 @@ export default [
     name       : {en: 'Mirrored Armlet' },
     description: {
       en: 'Blinds your foes with a magical shine off a devious magicians mirror...',
-      ru: 'Ослепляет ваших врагов волшебным блеском с коварного зеркалoм мага ...',
+      ru: 'Ослепляет ваших врагов блеском искривлённого магического зеркала ...',
       es: 'Un espejo por su muñeca. Lo usas para cegar sus enemigos.',
       fr: 'Aveugle vos ennemis avec un éclat magique sur un miroir de magiciens sournois...',
       de: 'Blinds Ihre Feinde mit einem magischen Glanz von einem teuflischen Magierspiegel...',
@@ -115,7 +115,7 @@ export default [
     name       : {en: 'Golem Fragment' },
     description: {
       en: 'The archaic guardians left remnants of their passing, which you unscrupulously have decided to wear on your arm.',
-      ru: 'Архаичные стражи оставили остатки своего прохождения, которые вы бессовестно решили надеть на руку.',
+      ru: 'Архаичные стражи оставили остатки своих похождений, которые вы бессовестно решили надеть на руку.',
       es: 'Un fragmento de los servientes de los archimagos de la era pasada. Has decido pónertelo porque... razones.',
       fr: 'Les gardiens archaïques ont laissé des restes de leur passage, que vous avez sans scrupule décidé de porter sur votre bras.',
       de: 'Die archaischen Wächter hinterließen Überreste ihres Todes, die du skrupellos auf deinem Arm getragen hast.',
@@ -143,7 +143,7 @@ export default [
     name       : {en: 'Blackstar Gem' },
     description: {
       en: 'Stars are not often black, yet this fragment has a... deep... deep darkness.',
-      ru: 'Звезды не часто черные, но этот фрагмент имеет... глубокую... глубокую тьму.',
+      ru: 'Звезды не часто черны, но этот фрагмент имеет... глубокую... глубокую тьму.',
       es: 'Completamente hecho con piezas de estrellas de neutrón: denso, duro, poderoso.',
       fr: 'Les étoiles ne sont pas souvent noires, mais ce fragment a une... profund... obscurité profonde.',
       de: 'Sterne sind nicht oft schwarz, aber dieses Fragment hat eine... tiefe... tiefe... tiefe Dunkelheit.',
