@@ -7,7 +7,8 @@ export default {
     de: 'Okay',
     hi: 'ठीक',
     fr: 'D\'accord',
-    es: 'De acuerdo'
+    es: 'De acuerdo',
+    nl: 'Okee'
   },
   back: {
     en: 'Back',
@@ -16,6 +17,7 @@ export default {
     hi: 'पिछला',
     fr: 'Retour',
     de: 'Zurück',
-    es: 'Regresar'
+    es: 'Regresar',
+    nl: 'Terug'
   }
 }
