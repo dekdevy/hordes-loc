@@ -3,7 +3,7 @@ export default [
     name       : {en: 'Potato Sack' },
     description: {
       en: 'Sack stiff with starch making you feel dirty and dishevelled.',
-      ru: 'Мешок жесткий с крахмалом заставляет чувствовать вас грязным и взъерошенным.',
+      ru: 'Грубый накрахмаленный мешок заставляет чувствовать вас грязным и взъерошенным.',
       es: 'Saco rígido con almidón que te hace sentir sucio y despeinado.',
       de: 'Sack steif mit Stärke, so dass Sie sich schmutzig und zerzaust fühlen.',
       fr: 'Sac rigide avec de l\'amidon qui vous donne l\'impression d\'être sale et ébouriffé.',
