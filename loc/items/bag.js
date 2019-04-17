@@ -23,21 +23,23 @@ export default [
       fr: 'La boucle vaut plus que le reste du sac.',
       pt: 'A fivela vale mais do que o resto.',
       it: 'La fibbia vale più del resto.',
-      nl: 'De gesp is meer waard dan de rest.'
+      nl: 'De gesp is meer waard dan de rest.',
+      se: 'Spännet är värt mer än resten av det.'
     }
   },
 
   {
     name       : {en: 'Purpur Duffel' },
     description: {
-      en: 'Nice purple rucksack for all your travelling needs.',
+      en: 'Nice purple rucksack for all your traveling needs.',
       ru: 'Хороший фиолетовый рюкзак для любых нужд путешественника.',
       de: 'Schöner lilafarbener Rucksack für alle Ihre Reisebedürfnisse.',
       es: 'Una mochila morada por todos las necesidades de viajar.',
       fr: 'Un joli sac-à-dos mauve pour tous vos besoins de voyage.',
       pt: 'Bela mochila roxa para todas as suas necessidades de viagem.',
       it: 'Bellissimo zaino viola per tutte le vostre esigenze di viaggio.',
-      nl: 'Mooie paarse rugzak voor al uw reisbehoeften.'
+      nl: 'Mooie paarse rugzak voor al uw reisbehoeften.',
+      se: 'Trevlig lila ryggsäck för alla dina resebehov.'
     }
   },
 
@@ -51,7 +53,8 @@ export default [
       fr: 'Un sac élégant utilisé par les archers elfiques à cheval.',
       pt: 'Elegante saco usado por arqueiros elfos a cavalo.',
       it: 'Elegante borsa utilizzata dagli arcieri elfici a cavallo.',
-      nl: 'Elegante tas die gebruikt wordt door elvenschutters te paard.'
+      nl: 'Elegante tas die gebruikt wordt door elvenschutters te paard.',
+      se: 'Elegant bag used by river archers on horseback.'
     }
   },
 
@@ -65,7 +68,8 @@ export default [
       fr: 'Tissé avec des fils de lichen, la confection de ce sac reste un mystère.',
       pt: 'Tecida com fios de líquen, a construção deste saco permanece um mistério.',
       it: 'Tessuto da fili di lichene, la costruzione di questa borsa rimane un mistero.',
-      nl: 'Geweven van korstmosdraden, de constructie van deze tas blijft een mysterie.'
+      nl: 'Geweven van korstmosdraden, de constructie van deze tas blijft een mysterie.',
+      se: 'Vävd av trådar av lavar, är byggandet av denna väska ett mysterium.'
     }
   }
 
