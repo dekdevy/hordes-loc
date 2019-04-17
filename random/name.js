@@ -30,7 +30,8 @@ const syllables = ['heim', 'tuk', 'ta', 'lor', 'bok', 'le', 'me', 'ka', 'na', 'p
   'accu', 'rate', 'pow', 'end', 'cha', 'agi', 'ai', 'stre', 'per', 'xep', 'string', 'lu', 'luck', 'hue', 'dio', 'medle', 'neo', 'drift',
   'drifted', 'hell', 'dom', 'spot', 'hu', 'dibble', 'dabble', 'pop', 'pimple', 'ama', 'light', 'heat', 'quantum', 'mech', 'radio', 'rad',
   'rads', 'stim', 'pak', 'scorp', 'mire', 'spart', 'mutt', 'io', 'cans', 'ole', 'ian', 'reek', 'off', 'guard', 'van', 'scrub', 'sign',
-  'road', 'awe', 'way', 'ant', 'woe', 'grief', 'active', 'ultra', 'mega', 'multi', 'mill', 'cent', 'nano', 'micro', 'fore', 'foe', 'ever']
+  'road', 'awe', 'way', 'ant', 'woe', 'grief', 'active', 'ultra', 'mega', 'multi', 'mill', 'cent', 'nano', 'micro', 'fore', 'foe', 'ever',
+  'zel', 'away', 'rio', 'orion', 'sec', 'cas', 'mor', 'vank', 'vakh']
 
 export const generate = (minSyl = 2, maxSyl = 6, maxLen = 8)=>{
   // generates a random name with a variable max length / syllable amount
