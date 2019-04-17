@@ -3,7 +3,7 @@
   "description": "Hordes.io string localization",
   "main": "index.js",
   "scripts": {
-    "generate": "rollup --config && node ./dist/build.js",
+    "generate": "rollup --config && node ./dist/build.js -v",
     "test": "eslint ./build.js ./loc && npm run generate",
     "lint": "eslint ./build.js ./loc --fix"
   },
