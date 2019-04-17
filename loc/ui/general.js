@@ -8,7 +8,17 @@ export default {
     hi: 'ठीक',
     fr: 'D\'accord',
     es: 'De acuerdo',
-    nl: 'Zeker'
+    nl: 'Zeker',
+    bg: 'добре',
+    cs: 'dobře',
+    el: 'εντάξει',
+    it: 'Va bene',
+    ja: 'はい',
+    pl: 'w porządku',
+    pt: 'OK',
+    ph: 'Okay',
+    se: 'Okej',
+
   },
   back: {
     en: 'Back',
@@ -18,6 +28,16 @@ export default {
     fr: 'Retour',
     de: 'Zurück',
     es: 'Regresar',
-    nl: 'Terug'
+    nl: 'Terug',
+    bg: 'обратно',
+    cs: 'Zadní',
+    el: 'Πίσω',
+    it: 'Indietro',
+    ja: 'バック',
+    pl: 'Z powrotem',
+    pt: 'De volta',
+    ph: 'Bumalik',
+    se: 'Tillbaka',
+
   }
 }
