@@ -16,7 +16,6 @@ export default {
     pt: 'Gerente do Clã',
     ph: 'Clan Manager',
     se: 'Clan Manager'
-
   },
 
   leave: {
@@ -54,7 +53,7 @@ export default {
     ph: 'Clan',
     se: 'Klan'
   },
-  
+
   createheading: {
     en: 'Create Clan',
     ru: 'Создать Клан',
@@ -142,6 +141,6 @@ export default {
     pl: 'Stwórz',
     pt: 'Crio',
     ph: 'Lumikha',
-    se: 'Skapa' 
+    se: 'Skapa'
   }
 }
