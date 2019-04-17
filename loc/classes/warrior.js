@@ -10,7 +10,8 @@ export default {
     hi: 'योधा',
     ko: '전사',
     pt: 'Guerreiro',
-    nl: 'Krijger'
+    nl: 'Krijger',
+    hi: 'योद्धा'
   },
   // Class description, visible during character creation
   description: {
@@ -23,6 +24,7 @@ export default {
     hi: 'सर्वश्रेष्ठ रक्षा उपकरण और ताक़तवर कवच के उपयोग से सारी श्रेणियो में योधा सबसे अधिक मार रोक सकते हैं।',
     ko: '전사들은 장비 (방패)와 강력한 방어 숙련자를 통해 높은 방어력을 가짐으로써 다른 클래스보다 더 많은 몬스터를 견딜수 있습니다.',
     pt: 'Os guerreiros são construídos para aquecer mais monstros do que qualquer outra classe, tendo alta defesa através de equipamentos (escudos) e fortes buffs defensivos.',
-    nl: 'Krijgers zijn gebouwd nemenmeer schade dan enige andere klasse door het hebben van hoge verdediging door middel van apparatuur (schilden) en sterke defensieve status.'
+    nl: 'Krijgers zijn gebouwd nemenmeer schade dan enige andere klasse door het hebben van hoge verdediging door middel van apparatuur (schilden) en sterke defensieve status.',
+    hi: 'With high defense through equipment (shield) and strong protective buffers, warriors are designed to take more monsters than any other class.'
   }
 }
