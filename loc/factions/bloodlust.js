@@ -14,6 +14,7 @@ export default {
     pt: 'A horda do Sangue valoriza a liberdade e a lealdade, oferece um lugar para o individualismo ou mesmo o caos. Suas defesas estão localizadas em um deserto chamado Headless Landing.',
     nl: 'De Bloodlust horde waardeert vrijheid en loyaliteit, biedt een plaats voor individualisme of zelfs chaos. Hun verdediging bevindt zich in een woestijngebied dat Headless Landing heet.',
     tr: 'Bloodlust kalabalığı özgürlüğe ve sadakate önem verir, bireyciliğe ve hatta kaosa yer verir. Savunmaları, Başsız İniş denilen bir çöl aleminde bulunur.',
-    it: 'L\'orda di Bloodlust stima la libertà e la lealtà, offre un posto per individualismo o persino caos. Le loro difese sono situate in un regno del deserto chiamato Headless Landing.'
+    it: 'L\'orda di Bloodlust stima la libertà e la lealtà, offre un posto per individualismo o persino caos. Le loro difese sono situate in un regno del deserto chiamato Headless Landing.',
+    ht: 'Bloodlust valè libète ak lwayote, ofri yon kote pou endividyalis, men tou dezòd. Se defans yo jwenn nan yon Peyi Wa dezè yo rele dekapite Landing.'
   }
 }
