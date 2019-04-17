@@ -69,7 +69,7 @@ export default [
     name       : { en: 'Elven Bow' },
     description: {
       en: 'An expert bow of a forgotten race.',
-      ru: 'Лук эксперта забытой расы',
+      ru: 'Экспертный лук забытой расы',
       fr: 'Un arc d\'expert originant d\'une race oublié.',
       de: 'Ein Expertenbogen einer vergessenen Rasse.',
       es: 'Una reverencia experta de una raza olvidada.',
