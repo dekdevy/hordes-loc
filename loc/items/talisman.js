@@ -31,7 +31,7 @@ export default [
     name       : {en: 'Ocean Talisman' },
     description: {
       en: 'Surprisingly, it doesnt smell like fish. Just don\'t show it freshwater.',
-      ru: 'Удивительно, но он не пахнет как рыба. Просто не показывай ему пресную воду.',
+      ru: 'Удивительно, но он не пахнет рыбой. Просто не показывай ему пресную воду.',
       es: 'Sorprendentemente, no huele a pescado. No lo muestres a agua dulce.',
       de: 'Überraschenderweise riecht es nicht nach Fisch. Zeigen Sie es einfach nicht im Süßwasser.',
       hi: 'मछलियों की गंद नहीं आती है इस तावीज़ से। पर इसे साफ़ पानी से दूर रखे।',
