@@ -8,7 +8,8 @@ export default [
       es: 'Este es un palo normal. Pero ¿estás seguro que solo es un palo normal?',
       de: 'Die Waffe wurde vom größten Schmied des Landes geschmiedet. Zumindest haben wir dem kleinen Timmy das gesagt.',
       fr: 'Une arme forgée par le plus grand forgeron du pays. Du moins, c\'est ce qu\'on a dit au petit Timmy.',
-      pt: 'Arma forjada pelo maior ferreiro de toda a terra. Pelo menos foi o que dissemos ao pequeno Timmy.'
+      pt: 'Arma forjada pelo maior ferreiro de toda a terra. Pelo menos foi o que dissemos ao pequeno Timmy.',
+      nl: 'Wapen gesmeed door de grootste smid van het land. Tenminste, dat is wat we de kleine Timmy vertelden.'
     }
   },
 
@@ -21,7 +22,8 @@ export default [
       es: 'Has roto su palo. Está bien, todavía puedes usarlo.',
       de: 'Verzweifelte Situationen erfordern verzweifelte Maßnahmen.',
       fr: 'Les situations désespérées exigent des mesures désespérées.',
-      pt: 'Situações desesperadas exigem medidas desesperadas.'
+      pt: 'Situações desesperadas exigem medidas desesperadas.',
+      nl: 'Wanhopige situaties vragen om wanhopige maatregelen.'
     }
   },
 
@@ -34,7 +36,8 @@ export default [
       es: 'Un palo de escoba desaliñado robado de un mago. Nudoso y huesudo.',
       de: 'Dreckiger Besenstiel, der einem Magier gestohlen wurde. Knurrig und knöchern.',
       fr: 'Un balai négligé volé à un mage. Noueux et osseux.',
-      pt: 'Vassoura de vassoura roubada de um mago. Gnarradas e ossudas.'
+      pt: 'Vassoura de vassoura roubada de um mago. Gnarradas e ossudas.',
+      nl: 'Schrobbelige bezemsteel gestolen van een magiër. Knoestige en benige.'
     }
   },
 
@@ -47,7 +50,8 @@ export default [
       es: 'Una varita cortada de las ramas de un arce anciano. Tiene gran poder canadiense.',
       de: 'Ein Zauberstab, der aus den Zweigen einer kastanienbraunen Eiche geschnitten wurde. Durchdrungen von tiefer Kraft.',
       fr: 'Baguette coupée dans les branches d\'un chêne d\'ancien. Doté d\'une puissance profonde.',
-      pt: 'Uma varinha cortada dos ramos de um antigo carvalho. Infundido com um poder profundo.'
+      pt: 'Uma varinha cortada dos ramos de um antigo carvalho. Infundido com um poder profundo.',
+      nl: 'Een toverstaf die uit de takken van een oude eik is gesneden. Doordrenkt met diepe kracht.'
     }
   },
 
@@ -60,7 +64,8 @@ export default [
       es: 'Arma mística que brilla con una esencia misteriosa.',
       de: 'Mystische Waffe, die mit einer mysteriösen Essenz angestrahlt wird.',
       fr: 'Une arme mystique qui brille d\'une essence mystérieuse.',
-      pt: 'Uma arma mística que brilha com uma essência misteriosa.'
+      pt: 'Uma arma mística que brilha com uma essência misteriosa.',
+      nl: 'Mystiek wapen dat gloeit met een mysterieuze essentie.'
     }
   },
 
@@ -73,7 +78,8 @@ export default [
       es: 'El rey liche no necesitaba su fémur, así que lo usé para hacer una varita.',
       de: 'Nichts Besonderes an dieser Waffe, nur der Oberschenkelknochen eines Lichs.',
       fr: 'Cette arme n\'a rien d\'extravagant, juste le fémur d\'une liche.',
-      pt: 'Nada de especial nesta arma, apenas o fémur de um líquen.'
+      pt: 'Nada de especial nesta arma, apenas o fémur de um líquen.',
+      nl: 'Niets bijzonders aan dit wapen, alleen het dijbeen van een lich.'
     }
   },
 
@@ -86,7 +92,8 @@ export default [
       es: 'Varita larga, con una joya azul brillante en su corona.',
       de: 'Langer Stab, mit einem blau schimmernden Edelstein an der Krone.',
       fr: 'Longue baguette, avec une gemme bleue chatoyante à sa couronne.',
-      pt: 'Vara comprida com uma gema azul cintilante na sua coroa.'
+      pt: 'Vara comprida com uma gema azul cintilante na sua coroa.',
+      nl: 'Lange staaf met een glinsterende blauwe edelsteen op de kroon.'
     }
   },
 
@@ -99,7 +106,8 @@ export default [
       es: 'El cayado de un pastor. Solo costó como noventa cobres y una gallina.',
       de: 'Dunkelvioletter Stab. Ziemlich mysteriös in seiner Entstehung, aber schön anzusehen.',
       fr: 'Bâton violet foncé. Assez mystérieux dans sa fabrication, mais agréable à regarder.',
-      pt: 'Cajado roxo escuro. Bastante misterioso na sua criação, mas agradável de se ver.'
+      pt: 'Cajado roxo escuro. Bastante misterioso na sua criação, mas agradável de se ver.',
+      nl: 'Donker paars personeel. Vrij mysterieus in de maak, maar toch leuk om naar te kijken.'
     }
   },
 
@@ -112,7 +120,8 @@ export default [
       es: 'Hay una enana en las montañas, se llama Esmeralda. Ella solo hace varitas de esmeralda por algún razón.',
       de: 'Gebaut aus Smaragden, die den Bergweibchen gestohlen wurden.',
       fr: 'Construit à partir d\'émeraudes volées aux nains des montagnes.',
-      pt: 'Construído a partir de esmeraldas roubadas dos anões das montanhas.'
+      pt: 'Construído a partir de esmeraldas roubadas dos anões das montanhas.',
+      nl: 'Gemaakt van smaragden die gestolen zijn van de bergdwergen.'
     }
   },
 
@@ -125,7 +134,8 @@ export default [
       es: 'Extraño... el bastón parece... triangular...',
       de: 'Seltsam... der Stab scheint... dreieckig...',
       fr: 'Bizarre... le bâton semble... triangulaire...',
-      pt: 'Estranho... o bastão parece... triangular...'
+      pt: 'Estranho... o bastão parece... triangular...',
+      nl: 'Vreemd... het personeel lijkt... driehoekig.... '
     }
   },
 
@@ -138,7 +148,8 @@ export default [
       es: 'Finalmente, ¡una varita de nieve para el mago de invierno!',
       de: 'Exzentrische Stange mit einem hellblauen Stein, der innen eingebettet ist...',
       fr: 'Tige excentrique avec une pierre bleu pâle incrustée à l\'intérieur...',
-      pt: 'Vara excêntrica com uma pedra azul pálida embutida no interior...'
+      pt: 'Vara excêntrica com uma pedra azul pálida embutida no interior...',
+      nl: 'Zonderlinge staaf met een licht blauwe steen ingebed in de kern....'
     }
   },
 
@@ -150,7 +161,8 @@ export default [
       hi: 'पौराणिक घाटियों में रहने वाले अज्ञात लोहार द्वारा निर्मित।',
       es: 'Construido por herreros desconocidos que residen en valles legendarios.',
       fr: 'Confectionné par des forgerons inconnus résidant dans des vallées légendaires.',
-      pt: 'Construído por ferreiros desconhecidos que residem em vales lendários.'
+      pt: 'Construído por ferreiros desconhecidos que residem em vales lendários.',
+      nl: 'Gebouwd door onbekende smeden in de legendarische valleien.'
     }
   },
 
@@ -163,7 +175,8 @@ export default [
       es: 'Su belleza te llama... a matar... a conquistar...',
       de: 'Seine Schönheit ruft nach dir, zu töten, zu erobern...',
       fr: 'Sa beauté vous interpelle... à tuer... à conquérir...',
-      pt: 'A sua beleza chama-te... para matar... para conquistar...'
+      pt: 'A sua beleza chama-te... para matar... para conquistar...',
+      nl: 'Zijn schoonheid roept om jou.... om te doden... om te overwinnen...'
     }
   },
 
@@ -176,7 +189,8 @@ export default [
       es: 'Robaste el arzobispo y tomaste su báculo de oro. Ahora los ángeles te cazan.',
       de: 'Ein Stab, der von den Engeln gestohlen wurde. Sie sind immer noch auf der Jagd danach.',
       fr: 'Un bâton volé aux anges. Ils sont toujours à sa recherche.',
-      pt: 'Um bastão roubado aos anjos. Eles ainda estão caçando por isso.'
+      pt: 'Um bastão roubado aos anjos. Eles ainda estão caçando por isso.',
+      nl: 'Een staf gestolen van de engelen. Ze zijn er nog steeds op zoek naar.'
     }
   },
 
@@ -189,7 +203,8 @@ export default [
       es: 'Crudo en su aspecto, pero poderoso en su corazón....',
       de: 'Grob in seinem Aussehen, aber mächtig in seinem Herzen.....',
       fr: 'Brut dans son apparence, mais puissant dans son cœur....',
-      pt: 'Cruéis na sua aparência, mas poderosos no seu coração...'
+      pt: 'Cruéis na sua aparência, mas poderosos no seu coração...',
+      nl: 'Ruw in zijn uiterlijk, maar toch machtig in het hart...'
     }
   },
 
@@ -202,7 +217,8 @@ export default [
       es: 'Se nos dice que su núcleo es del corazón de una bruja. Nadie ha encontrado el cadáver. O el varita sí mismo.',
       de: 'Uns wurde gesagt, dass sein Kern aus dem Herzen einer Hexe stammt. Niemand hat die Leiche gefunden. Oder das Personal selbst.',
       fr: 'On nous dit que son coeur est celui d\'une sorcière. Personne n\'en a retrouvé le cadavre. Ou la baguette elle-même.',
-      pt: 'Dizem-nos que o seu núcleo é do coração de uma bruxa. Ninguém encontrou o cadáver. Ou o próprio cajado.'
+      pt: 'Dizem-nos que o seu núcleo é do coração de uma bruxa. Ninguém encontrou o cadáver. Ou o próprio cajado.',
+      nl: 'Er wordt ons verteld dat de kern uit het hart van een heks komt. Niemand heeft het lijk gevonden. Of het personeel zelf.'
     }
   },
 
@@ -215,7 +231,8 @@ export default [
       es: 'Se dicen que nadie se queda vivo para contar de este varita, pero... ¿de dónde viene las historias?',
       de: 'Diese Waffe ist so geheimnisvoll, dass die wenigen, die sie führen, alle getötet haben, die von ihr wissen.',
       fr: 'Cette arme est si secrète que les quelques personnes qui la manie ont tué tous ceux qui la connaissent.',
-      pt: 'Esta arma é tão secreta que os poucos que a empunham mataram todos os que a conhecem.'
+      pt: 'Esta arma é tão secreta que os poucos que a empunham mataram todos os que a conhecem.',
+      nl: 'Dit wapen is zo geheimzinnig dat de weinigen die het in handen hebben, het allemaal hebben gedood.'
     }
   }
 
