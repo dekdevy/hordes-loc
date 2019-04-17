@@ -8,7 +8,7 @@ export default {
     de: 'Alle anzeigen',
     fr: 'Montrer tous/toutes',
     ko: '모두 보이기',
-    nl: 'Showalle'
+    nl: 'Toon alle'
   },
 
   showclan: {
@@ -19,7 +19,7 @@ export default {
     de: 'Show-Clan',
     fr: 'Afficher le clan',
     ko: '클랜 보이기',
-    nl: 'Showclan'
+    nl: 'Toon clan'
   },
 
   showsystem: {
@@ -30,7 +30,7 @@ export default {
     de: 'System anzeigen',
     fr: 'Afficher le système',
     ko: '시스템 보이기',
-    nl: 'Showsysteem'
+    nl: 'Toon systeem'
   },
 
   loot: {
@@ -41,7 +41,7 @@ export default {
     de: 'Beute',
     fr: 'Pillage',
     ko: '전리품',
-    nl: 'Buit'
+    nl: 'Luit'
   },
 
   exp: {
