@@ -8,7 +8,7 @@ export default {
     hi: 'ठीक',
     fr: 'D\'accord',
     es: 'De acuerdo',
-    nl: 'Zeker'
+    nl: 'Okee'
   },
   back: {
     en: 'Back',
