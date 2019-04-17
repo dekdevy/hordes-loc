@@ -3,7 +3,7 @@ export default [
     name       : {en: 'Smelly Talisman' },
     description: {
       en: 'Smells so bad, I wonder why you even picked it up.',
-      ru: 'Пахнет так плохо, я удивляюсь, что ты даже поднял его.',
+      ru: 'Пахнет просто отвратительно, я удивляюсь, что ты даже поднял его.',
       es: 'Huele tan mal que me pregunto por qué lo recogiste.',
       de: 'Riecht so übel, dass ich mich frage, warum du es überhaupt aufgehoben hast.',
       hi: 'इसकी गंद इतनी ख़राब है, सोचता हु इसे उठाया ही क्यू अपने।',
@@ -31,7 +31,7 @@ export default [
     name       : {en: 'Ocean Talisman' },
     description: {
       en: 'Surprisingly, it doesnt smell like fish. Just don\'t show it freshwater.',
-      ru: 'Удивительно, но он не пахнет рыбой. Просто не показывай ему пресную воду.',
+      ru: 'Удивительно, но он не пахнет как рыба. Просто не показывай ему пресную воду.',
       es: 'Sorprendentemente, no huele a pescado. No lo muestres a agua dulce.',
       de: 'Überraschenderweise riecht es nicht nach Fisch. Zeigen Sie es einfach nicht im Süßwasser.',
       hi: 'मछलियों की गंद नहीं आती है इस तावीज़ से। पर इसे साफ़ पानी से दूर रखे।',
@@ -59,7 +59,7 @@ export default [
     name       : {en: 'Dimension Talisman' },
     description: {
       en: 'Ripped from between worlds, this talisman allows for transition between realms.',
-      ru: 'Разорванный между мирами, этот талисман позволяет переходить между вселенные.',
+      ru: 'Разорванный между мирами, этот талисман позволяет переходить между вселенными.',
       es: 'Arrancado de entre mundos, este talismán permite la transición entre reinos.',
       de: 'Aus den Welten gerissen, ermöglicht dieser Talisman den Übergang zwischen den Welten.',
       hi: 'भ्रमंडो से चीर कर आया, ये तावीज़ क्षेत्रों के बीच रास्ता खोल सकता है।',
