@@ -30,7 +30,7 @@ export default {
     es: 'Cámara fija',
     de: 'Gesperrte Kamera',
     fr: 'Caméra verrouillée',
-    tr: 'Kilitli kamera'
+    tr: 'Kilitli kamera',
     nl: 'Gesloten camera'
   },
 
