@@ -44,7 +44,7 @@ const compile = (obj, lang, currentType, metrics)=>{
         } else {
         // if we have no translation, check whether english is present
         // otherwise use whatever
-          if(process.argv[3]=='-v') {
+          if(process.argv[2]=='-v') {
             console.log(`Translation for ${currentType} not found`)
           }
           metrics.miss++
