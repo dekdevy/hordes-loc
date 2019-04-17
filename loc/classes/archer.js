@@ -9,7 +9,7 @@ export default {
     fr: 'Archer',
     pt: 'Arqueiro',
     de: 'Bogenschütze',
-    tr: 'Okçu'
+    tr: 'Okçu',
     nl: 'Boogschutter',
     hi: 'धनुराशि',
     it: 'Arciere'
