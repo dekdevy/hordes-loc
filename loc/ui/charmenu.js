@@ -19,9 +19,10 @@ export default {
       ph: 'Piliin ang Character',
       it: 'Seleziona carattere',
       pl: 'Wybierz postać',
-      pt: 'Selecione o personagem',
-      nl: 'Selecteer karakter'
+      nl: 'Selecteer karakter',
+      pt: 'Selecionar Caractere'
     },
+
     create: {
       en: 'Click to create character',
       se: 'Klicka för att skapa karaktär',
@@ -38,9 +39,10 @@ export default {
       ph: 'I-click upang lumikha ng character',
       it: 'Clicca per creare il personaggio',
       pl: 'Kliknij, aby utworzyć postać',
-      pt: 'Clique para criar personagem',
-      nl: 'Klik om karakter te creëren'
+      nl: 'Klik om karakter te creëren',
+      pt: 'Clique para criar um personagem'
     },
+
     enterWorld: {
       en: 'Enter World',
       se: 'Ange världen',
@@ -57,10 +59,10 @@ export default {
       ph: 'Ipasok ang World',
       it: 'Entra nel mondo',
       pl: 'Wejdź do świata',
-      pt: 'Entre no mundo',
-
-      nl: 'Betreed de wereld'
+      nl: 'Betreed de wereld',
+      pt: 'Entre no mundo'
     },
+
     emptySlot: {
       en: 'Empty',
       se: 'Tom plats',
@@ -77,9 +79,10 @@ export default {
       ph: 'Bakanteng pwesto',
       it: 'Slot vuoto',
       pl: 'Puste miejsce',
-      pt: 'Slot vazio',
-      nl: 'Leeg'
+      nl: 'Leeg',
+      pt: 'Vazio'
     },
+
     error: {
       en: 'Network error',
       se: 'Nätverksfel',
@@ -96,8 +99,8 @@ export default {
       ph: 'Error sa network',
       it: 'Errore di rete',
       pl: 'Błąd sieci',
-      pt: 'Erro de rede',
-      nl: 'Netwerkfout'
+      nl: 'Netwerkfout',
+      pt: 'Erro de rede'
     }
   },
 
@@ -119,9 +122,10 @@ export default {
       ph: 'Paglikha ng karakter',
       it: 'Creazione del personaggio',
       pl: 'Tworzenie postaci',
-      pt: 'Criação de personagens',
-      nl: 'Karakter creatie'
+      nl: 'Karakter creatie',
+      pt: 'Criação de personagens'
     },
+
     pressIcon: {
       en: 'Press an icon for a brief description.',
       se: 'Tryck på en ikon för en kort beskrivning.',
@@ -138,9 +142,10 @@ export default {
       ph: 'Pindutin ang isang icon para sa maikling paglalarawan',
       it: 'Premi unicona per una breve descrizione',
       pl: 'Naciśnij ikonę, aby uzyskać krótki opis',
-      pt: 'Pressione um ícone para uma breve descrição',
-      nl: 'Druk op een pictogram voor een korte beschrijving.'
+      nl: 'Druk op een pictogram voor een korte beschrijving.',
+      pt: 'Pressione um ícone para uma breve descrição.'
     },
+
     selectClass: {
       en: 'Select a class',
       se: 'Välj en klass',
@@ -157,9 +162,10 @@ export default {
       ph: 'Pumili ng klase',
       it: 'Seleziona una classe',
       pl: 'Wybierz klasę',
-      pt: 'Selecione uma turma',
-      nl: 'Selecteer een klasse'
+      nl: 'Selecteer een klasse',
+      pt: 'Selecione uma classe'
     },
+
     selectFaction: {
       en: 'Select a faction',
       se: 'Välj en fraktion',
@@ -176,12 +182,13 @@ export default {
       ph: 'Pumili ng isang pangkatin',
       it: 'Seleziona una fazione',
       pl: 'Wybierz frakcję',
-      pt: 'Selecione uma facção',
-      nl: 'Selecteer een groepering'
+      nl: 'Selecteer een groepering',
+      pt: 'Selecione uma facção'
     },
+
     enterName: {
       en: 'Enter a name',
-      se: 'Ange ett namn',
+      se: 'Aige ett namn',
       ru: 'Введите имя',
       fr: 'Entrez un nom',
       hi: 'नाम डाले',
@@ -195,9 +202,10 @@ export default {
       ph: 'Magpasok ng isang pangalan',
       it: 'Inserisci un nome',
       pl: 'Wpisz imię',
-      pt: 'Insira o nome',
-      nl: 'Voer een naam in'
+      nl: 'Voer een naam in',
+      pt: 'Digite um nome'
     },
+
     nameReq: {
       en: 'Your name can only contain characters a-Z, and numbers 0-9, without any spaces. Up to 16 characters.',
       se: 'Ditt namn kan bara använda sig karaktärerna a-Z, och nummer 0-9, utan mellanslag. Max 16 karaktärer.',
@@ -214,8 +222,8 @@ export default {
       ph: 'Ang iyong pangalan ay maaari lamang maglaman ng mga character a-Z, at numero 0-9, nang walang anumang mga puwang. Hanggang sa 16 na mga character.',
       it: '  Il tuo nome può contenere solo caratteri a-Z e numeri da 0 a 9, senza spazi. Fino a 16 caratteri.',
       pl: 'Twoje imię może zawierać tylko znaki a-Z i cyfry 0-9, bez spacji. Do 16 znaków.',
-      pt: 'Seu nome pode conter apenas caracteres a-Z e números de 0 a 9, sem espaços. Até 16 caracteres.',
-      nl: 'Uw naam kan alleen tekens a-Z bevatten, en cijfers 0-9, zonder spaties. Tot 16 tekens.'
+      nl: 'Uw naam kan alleen tekens a-Z bevatten, en cijfers 0-9, zonder spaties. Tot 16 tekens.',
+      pt: 'Seu nome só pode conter caracteres a-Z, e números 0-9, sem espaços. Até 16 caracteres.'
     }
   },
 
@@ -238,9 +246,10 @@ export default {
       ph: 'Tanggalin',
       it: 'Elimina',
       pl: 'Kasować',
-      pt: 'Excluir',
-      nl: 'Verwijderen'
+      nl: 'Verwijderen',
+      pt: 'Eliminar'
     },
+
     info: {
       en: 'To delete, type the character\'s name. Your character can not be restored.',
       se: 'För att ta bort, skriv in karaktärens namn. Din karaktär tas bort för alltid.',
@@ -257,9 +266,10 @@ export default {
       ph: 'Upang tanggalin, i-type ang pangalan ng character. Ang iyong karakter ay hindi maibabalik.',
       it: 'Per cancellare, digita il nome del personaggio. Il tuo personaggio non può essere ripristinato.',
       pl: 'Aby usunąć, wpisz nazwę postaci. Twoja postać nie może zostać przywrócona.',
-      pt: 'Para excluir, digite o nome do caractere. Seu personagem não pode ser restaurado.',
-      nl: 'Om te verwijderen, typt u de naam van het teken in. Je karakter kan niet worden hersteld.'
+      nl: 'Om te verwijderen, typt u de naam van het teken in. Je karakter kan niet worden hersteld.',
+      pt: 'Para apagar, digite o nome do personagem. Seu personagem não pode ser restaurado.'
     },
+
     placeholder: {
       en: 'Are you sure?',
       se: 'Är du säker?',
@@ -276,8 +286,8 @@ export default {
       ph: 'Sigurado ka ba?',
       it: 'Sei sicuro?',
       pl: 'Jesteś pewny?',
-      pt: 'Você tem certeza?',
-      nl: 'Weet je het zeker?'
+      nl: 'Weet je het zeker?',
+      pt: 'Tens a certeza?'
     }
   }
 }
