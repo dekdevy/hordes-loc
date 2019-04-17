@@ -65,7 +65,7 @@ export default {
     hi: 'पिविपी',
     es: 'PvP',
     nl: 'PvP',
-    pt: 'PvP
+    pt: 'PvP'
   },
 
   // translations not needed
