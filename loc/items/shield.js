@@ -9,7 +9,8 @@ export default [
       fr: 'Littéralement une planche de bois carrée.',
       hi: 'केवल एक लकड़ी का टुकड़ा।',
       it: 'Letteralmente una tavola quadrata di legno.',
-      pt: 'Literalmente uma tábua quadrada de madeira.'
+      pt: 'Literalmente uma tábua quadrada de madeira.',
+      nl: 'Letterlijk een vierkante plank van hout.'
     }
   },
 
@@ -23,7 +24,8 @@ export default [
       fr: 'Bague en fonte de fer remplie de bronze. Frêle dans sa fabrication.',
       it: 'Anello in ferro fuso riempito di bronzo. Flimsy nella sua realizzazione.',
       pt: 'Anel de ferro fundido cheio de bronze. Frágil na sua confecção.',
-      hi: 'लोहा पिघलकर पीतल से भरी हुई। ठीक से नहीं बनी है।'
+      hi: 'लोहा पिघलकर पीतल से भरी हुई। ठीक से नहीं बनी है।',
+      nl: 'Gesmolten ijzeren ring gevuld met brons. Mager in zijn samenstelling.'
     }
   },
 
@@ -37,7 +39,8 @@ export default [
       fr: 'Un fermier a réussi à construire un joli petit bouclier.',
       hi: 'किसी किसान के एक छोटी सी ढाल बना ही ली।',
       it: 'Qualche contadino è riuscito a costruire un piccolo scudo carino.',
-      pt: 'Algum agricultor conseguiu construir um pequeno e bonito escudo.'
+      pt: 'Algum agricultor conseguiu construir um pequeno e bonito escudo.',
+      nl: 'Sommige boeren zijn erin geslaagd om een schattig schildje te bouwen.'
     }
   },
 
@@ -51,7 +54,8 @@ export default [
       fr: 'Bouclier complexe composé de trois pièces en métal massif. Robuste.',
       hi: 'लोहे के तीन ठोस टुकड़ों से बनी जटील ढाल। तगड़ी है।',
       it: 'Intricato scudo composto da tre pezzi di metallo massiccio. Robusto.',
-      pt: 'Escudo intrincado feito de três peças metálicas sólidas. Resistente.'
+      pt: 'Escudo intrincado feito de três peças metálicas sólidas. Resistente.',
+      nl: 'Geïntegreerd schild gemaakt van drie massieve metalen delen. Stevig.'
     }
   },
 
@@ -65,7 +69,8 @@ export default [
       fr: 'Fabriqué en obsidienne et en acier. Quelqu\'un a tenté de le peindre en jaune. Ils ont échoué. Misérablement.',
       hi: 'ओब्सिदीयन और इस्पात से बनी ढाल। किसी ने इसे पीला रंगने की कोशिश की पर उनसे सही से हो न पाया।',
       it: 'Questo è fatto di ossidiana e acciaio. Qualcuno ha tentato disordinatamente di dipingerlo di giallo. Hanno fallito. Miseramente.',
-      pt: 'Feito de obsidiana e aço. Alguém descuidadamente tentou pintá-lo de amarelo. Eles falharam. Miseravelmente.'
+      pt: 'Feito de obsidiana e aço. Alguém descuidadamente tentou pintá-lo de amarelo. Eles falharam. Miseravelmente.',
+      nl: 'Gemaakt van obsidiaan en staal. Iemand heeft slordig geprobeerd het geel te schilderen. Ze hebben gefaald. Ellendig.'
     }
   }
 

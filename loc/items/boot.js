@@ -3,7 +3,7 @@ export default [
     name       : {en: 'Sandals' },
     description: {
       en: 'At least you\'re wearing something on those feet.',
-      ru: 'По крайней мере, вы носите что-то на этих ногах.',
+      ru: 'По крайней мере, вы хоть что-то носите на своих ногах.',
       de: 'Zumindest trägst du etwas auf diesen Füßen.',
       es: 'A lo menos puede tirarlo para hacer daño significativo.',
       it: 'Almeno tu indossi qualcosa su quei piedi.',
@@ -29,7 +29,7 @@ export default [
     name       : {en: 'Leather Boots' },
     description: {
       en: 'The soft leather is said to be stripped off wild boars roaming the eerie woods.',
-      ru: 'Говорят, что мягкую кожу стерли с кабанов, бродящих по жутким лесам.',
+      ru: 'Говорят, что мягкую кожу сняли с кабанов, бродящих по жутким лесам.',
       de: 'Das weiche Leder soll von Wildschweinen befreit worden sein, die durch die unheimlichen Wälder streifen.',
       es: 'Se dice que el cuero suave es despojado de los jabalíes que deambulan por los espeluznantes bosques.',
       it: 'Si dice che la morbida pelle sia stata rimossa dai cinghiali che vagano nei boschi inquietanti.',
@@ -42,7 +42,7 @@ export default [
     name       : {en: 'Bone Greaves' },
     description: {
       en: 'Clearly lacking in imagination, the maker made boots from the bones of a very large creature...',
-      ru: 'Очевидно, что не хватает воображения, создатель сделал сапоги из костей очень крупного существа ...',
+      ru: 'Очевидно, что у создателя не хватает воображения, он сделал сапоги из костей очень крупного существа ...',
       de: 'Offensichtlich phantasielos, machte der Hersteller Stiefel aus den Knochen einer sehr großen Kreatur...',
       es: 'Claramente sin imaginación, el zapatero uso los huesos de una criatura grande...',
       it: 'Chiaramente privo di immaginazione, l\'autore ha realizzato stivali dalle ossa di una creatura molto grande...',
@@ -94,7 +94,7 @@ export default [
     name       : {en: 'Imbued Treads' },
     description: {
       en: 'Chunky in its looks, probably very uncomfortable.',
-      ru: 'Коренастый во внешности, наверное, очень неудобный',
+      ru: 'Состоят из блочных кусков, наверное, очень неудобные',
       de: 'Grob in seinem Aussehen, wahrscheinlich sehr unangenehm.',
       es: 'Macizo y fornido, prbablamente incómodo.',
       it: 'Chunky nel suo aspetto, probabilmente molto scomodo.',
@@ -120,7 +120,7 @@ export default [
     name       : {en: 'Coldforged Greaves' },
     description: {
       en: 'Forged without heat, runs without stumble.',
-      ru: 'Кованые без тепла, беги без спотыкания',
+      ru: 'Кованые без огня, беги не спотыкайся',
       de: 'Geschmiedet ohne Hitze, läuft ohne Stolpern.',
       es: 'Forjado sin calor, te dejan correr sin tropezar.',
       it: 'Forgiato senza calore, funziona senza inciampare',
@@ -133,7 +133,7 @@ export default [
     name       : {en: 'Cloudrunner Treads' },
     description: {
       en: 'Some say you can run on clouds with these. The few that have tried have already ascended.',
-      ru: 'Некоторые говорят, что с этими ботинками можно бегать на облаках. Те немногие, которые пытались, уже вознеслись.',
+      ru: 'Некоторые говорят, что с этими ботинками можно бегать по облакам. Те немногие, кто пытался, уже вознеслись.',
       de: 'Einige sagen, dass man damit auf Wolken laufen kann. Die wenigen, die es versucht haben, sind bereits aufgestiegen.',
       es: '¡Corre por las nubes con las nuevas Air Miguels!',
       it: 'C\'è chi dice che con queste si può correre sulle nuvole. I pochi che hanno provato sono già saliti.',
@@ -146,7 +146,7 @@ export default [
     name       : {en: 'Boots of Hermes' },
     description: {
       en: 'Ancient boots rumoured to be stolen from the feet of the Roman messenger god...',
-      ru: 'По слухам, древние сапоги были украдены у ног римского бога-вестника ...',
+      ru: 'По слухам, древние сапоги были украдены с ног римского бога-вестника ...',
       de: 'Alte Stiefel sollen aus den Füßen des römischen Kuriergottes gestohlen worden sein...',
       es: 'Botas del mesajero mentiroso, del espía nocturno, del dios griego de apoyar y asesinar.',
       it: 'Stivali antichi che si dice siano stati rubati dai piedi del dio messaggero romano...',
