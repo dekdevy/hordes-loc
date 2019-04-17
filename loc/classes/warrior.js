@@ -12,7 +12,8 @@ export default {
     pt: 'Guerreiro',
     tr: 'Savaşçı',
     nl: 'Krijger',
-    it: 'Guerriero'
+    it: 'Guerriero',
+    ht: 'Gèrye'
   },
   // Class description, visible during character creation
   description: {
@@ -27,6 +28,7 @@ export default {
     pt: 'Os guerreiros são construídos para aquecer mais monstros do que qualquer outra classe, tendo alta defesa através de equipamentos (escudos) e fortes buffs defensivos.',
     nl: 'Krijgers zijn gebouwd nemenmeer schade dan enige andere klasse door het hebben van hoge verdediging door middel van apparatuur (schilden) en sterke defensieve status.',
     tr: 'Savaçlılar güçlü defansif ekipmanları (Kalkanlar) ve defansif güçlendirmeleri ile canavarları diğer sınıflardan daha çok üstüne çeker.',
-    it: ' I Guerrieri sono costruiti per accumulare più mostri di qualsiasi altra classe, avendo un&#39;alta difesa tramite equipaggiamento (Scudi) e forti abilità difensive.'
+    it: ' I Guerrieri sono costruiti per accumulare più mostri di qualsiasi altra classe, avendo un&#39;alta difesa tramite equipaggiamento (Scudi) e forti abilità difensive.',
+    ht: 'Gèrye yo bati kenbe tèt avè plis domaj pase tout lòt klas yo atravè defans segondè nan ekipman yo (Sköld) ak tan defans fò.'
   }
 }
