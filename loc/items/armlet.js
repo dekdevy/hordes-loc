@@ -17,7 +17,7 @@ export default [
     name       : {en: 'Makeshift Brace' },
     description: {
       en: 'Skilled hands made an intricate job at making this homemade cuff.',
-      ru: 'Опытные руки сделали сложную работу по изготовлению этой самадельной нарукавника.',
+      ru: 'Опытные руки сделали сложную работу по изготовлению этой самадельной манжеты',
       es: 'Pulsera avanzada de cuero.',
       fr: 'Un peu plus avancé, pas beaucoup cependant',
       de: 'Geschickte Hände machten einen komplizierten Job bei der Herstellung dieser selbstgemachten Manschette.',
