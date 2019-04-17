@@ -19,7 +19,7 @@ export default {
     de: 'Show-Clan',
     fr: 'Afficher le clan',
     ko: '클랜 보이기',
-    nl: 'Toon clan'
+    nl: 'Toon Clan'
   },
 
   showsystem: {
