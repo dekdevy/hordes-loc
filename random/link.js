@@ -14,7 +14,8 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'growing', 'communist', 'socialist', 'democratic', 'vile', 'disgusting', 'lovely', 'swampy', 'holy', 'radioactive',
   'mini', 'bleeding', 'poisoned', 'rough', 'crude', 'moisturized', 'bright', 'pleasing', 'hypocritical', 'pleasing',
   'demented', 'possessed', 'diabolical', 'teleporting', 'tasty', 'doomed', 'scary', 'ghastly', 'tailored', 'needy',
-  'oblivious', 'imperial']
+  'oblivious', 'imperial', 'lethal', 'marshy', 'noble', 'nostalgic', 'radical', 'quiet', 'mutated', 'realistic',
+  'augmeneted', 'embarrassing', 'humiliating']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
