@@ -17,7 +17,7 @@ export default [
     name       : {en: 'Faded Garment' },
     description: {
       en: 'Leather shirt, faded from wear and tear.',
-      ru: 'Кожаная рубашка, выцветшая от износа.',
+      ru: 'Кожаная рубашка, выцветшая из-за износа.',
       es: 'Camisa de cuero, desteñida por el desgaste.',
       de: 'Lederhemd, verblasst durch Abnutzung.',
       fr: 'Chemise en cuir, décolorée par l\'usure.',
