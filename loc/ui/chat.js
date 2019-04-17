@@ -2,35 +2,38 @@ export default {
 
   showall: {
     en: 'Show All',
-    ru: 'Пок. Все',
+    ru: 'Все',
     hi: 'सब दिखाए',
     es: 'Todo',
     de: 'Alle anzeigen',
     fr: 'Montrer tous/toutes',
     ko: '모두 보이기',
-    nl: 'Toon alle'
+    nl: 'Toon alle',
+    pt: 'Mostrar todos'
   },
 
   showclan: {
     en: 'Show Clan',
-    ru: 'Пок. Клан',
+    ru: 'Клан',
     hi: 'दल से दिखाए',
     es: 'Mostrar Clan',
     de: 'Show-Clan',
     fr: 'Afficher le clan',
     ko: '클랜 보이기',
-    nl: 'Toon Clan'
+    nl: 'Toon Clan',
+    pt: 'Mostrar Clã'
   },
 
   showsystem: {
     en: 'Show System',
-    ru: 'Пок. Систему',
+    ru: 'Система',
     hi: 'सिस्टम से दिखाए',
     es: 'Mostrar sistema',
     de: 'System anzeigen',
     fr: 'Afficher le système',
     ko: '시스템 보이기',
-    nl: 'Toon systeem'
+    nl: 'Toon systeem',
+    pt: 'Mostrar sistema'
   },
 
   loot: {
@@ -41,23 +44,28 @@ export default {
     de: 'Beute',
     fr: 'Pillage',
     ko: '전리품',
-    nl: 'Luit'
+    nl: 'Luit',
+    pt: 'Saque'
   },
 
   exp: {
     en: 'exp',
-    ru: 'опыт',
+    ru: 'Опыт',
     hi: 'ऐक्सपी',
     es: 'exp',
-    nl: 'exp'
+    bg: 'Годен',
+    ja: '経験値',
+    nl: 'exp',
+    pt: 'exp'
   },
 
   pvp: {
     en: 'PvP',
-    ru: 'ипи',
+    ru: 'Бой',
     hi: 'पिविपी',
     es: 'PvP',
-    nl: 'PvP'
+    nl: 'PvP',
+    pt: 'PvP'
   },
 
   // translations not needed

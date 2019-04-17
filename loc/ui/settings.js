@@ -2,7 +2,7 @@ export default {
 
   settings: {
     en: 'settings',
-    ru: 'настройки',
+    ru: 'Настройки',
     hi: 'सेटिंग्स',
     es: 'configuración',
     de: 'Einstellungen',
@@ -13,27 +13,27 @@ export default {
   // controls section of settings menu
   controls: {
     en: 'controls',
-    ru: 'управления',
+    ru: 'Управление',
     hi: 'कंट्रोल्स',
     es: 'controles',
     de: 'Kontrollen',
     fr: 'commandes',
-    nl: 'besturingselementen'
+    nl: 'bediening'
   },
 
   lockedcamera: {
     en: 'Locked camera',
-    ru: 'Заблокированная камера',
+    ru: 'Заблокировать камеру',
     hi: 'कैमरा लॉक',
     es: 'Cámara fija',
     de: 'Gesperrte Kamera',
     fr: 'Caméra verrouillée',
-    nl: 'Vergrendelde camera'
+    nl: 'Gesloten camera'
   },
 
   graphics: {
     en: 'graphics',
-    ru: 'графика',
+    ru: 'Графика',
     hi: 'ग्राफ़िक्स',
     es: 'gráficos',
     de: 'Grafiken',
@@ -53,7 +53,7 @@ export default {
 
   skilleffects: {
     en: 'Skill effects',
-    ru: 'Эффекты навык',
+    ru: 'Эффекты навыков',
     hi: 'स्किल दिखावट',
     es: 'Efectos de habilidades',
     de: 'Fertigkeitseffekte',
@@ -63,7 +63,7 @@ export default {
 
   shadow: {
     en: 'Shadow quality',
-    ru: 'Shadow quality',
+    ru: 'Качество тени',
     hi: 'परछाईं क्वालिटी',
     es: 'Calidad de sombra',
     de: 'Schattenqualität',
@@ -83,7 +83,7 @@ export default {
 
   chat: {
     en: 'chat',
-    ru: 'чат',
+    ru: 'Чат',
     hi: 'चैट',
     es: 'Chat',
     de: 'Chat',
@@ -113,7 +113,7 @@ export default {
 
   tutorial: {
     en: 'tutorial',
-    ru: 'учебник',
+    ru: 'Учебник',
     hi: 'शिक्षण',
     es: 'tutorial',
     de: 'Tutorial',
@@ -123,7 +123,7 @@ export default {
 
   reset: {
     en: 'Reset tutorial',
-    ru: 'Сбросить учебник',
+    ru: 'Начать учебник заново',
     hi: 'शिक्षण रीसेट',
     es: 'Reiniciar tutorial',
     de: 'Tutorial zurücksetzen',
