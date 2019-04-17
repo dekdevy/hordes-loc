@@ -14,6 +14,7 @@ export default {
     ja: 'ログアウト',
     se: 'Logga ut',
     ph: 'Mag-log Out',
+    tr: 'Çıkış Yap',
     nl: 'Uitloggen',
     pt: 'Terminar sessão'
   },
@@ -32,6 +33,7 @@ export default {
     ja: 'ホームページ',
     se: 'Hemsida',
     ph: 'Home page',
+    tr: 'Anasayfa',
     nl: 'Thuis',
     pt: 'voltar para inicio'
   }

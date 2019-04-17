@@ -14,6 +14,8 @@ export default {
     ko: '뱅가드 호드는 전통, 구조 및 질서를 추구합니다. 그들의 성곽은 “가드 스톤” 주변의 무성한 녹색 지역에서 발견 할 수 있습니다.',
     pt: 'A horda Vanguarda procura tradição, estrutura e ordem na sociedade. Seu Castelo pode ser encontrado em uma área verde exuberante ao redor de Guardstone.',
     nl: 'De Vanguard horde zoekt traditie, structuur en orde in de samenleving. Hun kasteel bevindt zich in een weelderig groen gebied rond Guardstone.',
-    it: 'L\'orda di avanguardia cerca la tradizione, la struttura e l\'ordine nella società. Il loro castello può essere trovato in un\'area verde fertile intorno a Guardstone.'
+    tr: 'Vanguard sürüsü, toplumda gelenek, yapı ve düzeni arar. Kaleleri, Muhafız Taşı çevresindeki yemyeşil bir alanda bulunur.',
+    it: 'L\'orda di avanguardia cerca la tradizione, la struttura e l\'ordine nella società. Il loro castello può essere trovato in un\'area verde fertile intorno a Guardstone.',
+    ht: 'Vanguard chèche tradisyon, estrikti ak lòd nan sosyete a. Ka chato yo ka jwenn nan yon zòn bèl vèt alantou Guardstone.'
   }
 }
