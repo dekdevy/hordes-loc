@@ -10,7 +10,8 @@ export default [
       pt: 'Banda de couro barato comprada por um fazendeiro ambicioso.',
       ko: '야심 찬 농부가 사들인 저렴한 가죽 밴드.',
       nl: 'Goedkope lederen band gekocht door een ambitieuze boer.',
-      se: 'Billiga läderband köpt av en ambitiös bonde.'
+      se: 'Billiga läderband köpt av en ambitiös bonde.',
+      tr: 'Hırslı bir çiftçi tarafından satın alınan ucuz deri bant.'
     }
   },
 
@@ -25,7 +26,8 @@ export default [
       pt: 'Mãos habilidosas fizeram um trabalho complicado em fazer esta algema caseira.',
       ko: '숙련 된 손은이 집에서 복잡한 작업을통해 만든 수갑.',
       nl: 'Bekwame handen maakten een ingewikkelde klus bij het maken van deze zelfgemaakte manchet.',
-      se: 'Kunniga händer gjorde ett invecklat jobb för att göra denna hemgjorda manschett.'
+      se: 'Kunniga händer gjorde ett invecklat jobb för att göra denna hemgjorda manschett.',
+      tr: 'Nitelikli eller bu ev yapımı kolluk yapımında çetrefilli bir iş çıkardı.'
     }
   },
 
@@ -40,7 +42,8 @@ export default [
       pt: 'Rígido, dói-te o braço.',
       ko: '딱딱하고, 쓰면 팔이 아프다.',
       nl: 'Stijf, maakt je arm pijnlijk.',
-      se: 'Stiff, gör din arm öm.'
+      se: 'Stiff, gör din arm öm.',
+      tr: 'Sert, kolunuzu ağrıtır.'
     }
   },
 
@@ -55,7 +58,8 @@ export default [
       pt: 'Elegante punho feito das presas do último mamute.',
       ko: '마지막 맘모스의 엄니에서 만든 우아한 커프스.',
       nl: 'Elegante manchet gemaakt van de slagtanden van de laatste mammoet.',
-      se: 'Elegant manschett gjord av tusenskönor från den sista mammoten.'
+      se: 'Elegant manschett gjord av tusenskönor från den sista mammoten.',
+      tr: 'Son mamutun dişlerinden yapılmış zarif manşet.'
     }
   },
 
@@ -70,7 +74,8 @@ export default [
       pt: 'Pesado no braço... vale a protecção.',
       ko: '팔에는 무겁지만... 보호가 그만한 가치가있다.',
       nl: 'Zwaar op je arm... de bescherming waard.',
-      se: 'Tung på armen ... värt skydd.'
+      se: 'Tung på armen ... värt skydd.',
+      tr: 'Kolunda ağır durur... koruma için değer'
     }
   },
 
@@ -85,7 +90,8 @@ export default [
       pt: 'Braçadeira de metal aborrecida, útil para raides nocturnos.',
       ko: '무딘 금속 브레이 서, 야간의 습격에 편리합니다.',
       nl: 'Dof metalen bracer, handig voor nachtelijke overvallen.',
-      se: 'Dull metall bracer, praktisk för natten raiding.'
+      se: 'Dull metall bracer, praktisk för natten raiding.',
+      tr: 'Donuk metal tutucu, gece baskını için kullanışlı.'
     }
   },
 
@@ -100,7 +106,8 @@ export default [
       pt: 'Braçadeira escamada, faz com que os teus braços se pareçam com os de um dragão.',
       ko: '스케일 된 브레이서는 팔을 용과 비슷하게 만듭니다.',
       nl: 'Geschaald bracer, maakt je armen lijken op die van een draak.',
-      se: 'Skalad bracer, gör att dina armar liknar den hos en drake.'
+      se: 'Skalad bracer, gör att dina armar liknar den hos en drake.',
+      tr: 'Ölçekli kol bağı, kollarınızı bir ejderhanınkine benzetir.'
     }
   },
 
@@ -115,7 +122,8 @@ export default [
       pt: 'Cega os teus inimigos com um brilho mágico de um espelho de mágicos diabólicos...',
       ko: '마법사애 거울이 부터있는 팔찌. 적의눈을 부시게 한다.',
       nl: 'Verblindt je vijanden met een magische glans van een slinkse goochelspiegel...',
-      se: 'Blindar dina fiender med en magisk glans av en djävulsk trollkarlspegel ...'
+      se: 'Blindar dina fiender med en magisk glans av en djävulsk trollkarlspegel ...',
+      tr: 'Düşmanlarınızı büyülü bir sihirbazın aynasından büyüleyen sihirli bir parıltıyla kör ediyor...'
     }
   },
 
@@ -130,7 +138,8 @@ export default [
       pt: 'Os guardiões arcaicos deixaram vestígios de sua passagem, que você, sem escrúpulos, decidiu usar em seu braço.',
       ko: '고풍의 수호자들이 남겨간 흔적들, 당신이 부주의하게 당신의 팔에 끼기로 결정했습니다.',
       nl: 'De archaïsche voogden lieten restanten van hun overlijden achter, die je zonder scrupules op je arm hebt gedragen.',
-      se: 'De arkaiska förmyndarna lämnade resterna av deras passerar, som du skarpt har bestämt dig för att bära på din arm.'
+      se: 'De arkaiska förmyndarna lämnade resterna av deras passerar, som du skarpt har bestämt dig för att bära på din arm.',
+      tr: 'Arkaik korumalar gelip geçerken acımasızca koluna takmaya karar verdiğiniz kalıntılarını bıraktılar.'
     }
   },
 
@@ -145,7 +154,8 @@ export default [
       pt: 'O aço leve e enganosamente leve oferece proteção contra golpes furtivos.',
       ko: '믿을 수 없을만큼 가벼운 강철은 비열한 타격에 대한 차가운 보호를 제공합니다.',
       nl: 'Het bedrieglijk lichte staal biedt koele bescherming tegen stiekeme klappen.',
-      se: 'Det bedrägligt lätta stålet ger kylande skydd mot smutsiga slag.'
+      se: 'Det bedrägligt lätta stålet ger kylande skydd mot smutsiga slag.',
+      tr: 'Aldatıcı hafif çelik, sinsi darbelere karşı soğutma koruması sunar.'
     }
   },
 
@@ -160,7 +170,8 @@ export default [
       pt: 'As estrelas não são frequentemente negras, mas este fragmento tem uma... profunda... profunda escuridão.',
       ko: '별은 종종 검은 색이 아니지만이 조각은 깊고 ... 또깊은 어둠이 있습니다.',
       nl: 'Sterren zijn niet vaak zwart, maar toch heeft dit fragment een... diepe... diepe duisternis.',
-      se: 'Tjärnor är inte ofta svarta, men detta fragment har en ... djup ... djup mörker.'
+      se: 'Tjärnor är inte ofta svarta, men detta fragment har en ... djup ... djup mörker.',
+      tr: 'Yıldızlar genellikle siyah değildir, ancak bu parçanın derin ... derin bir karanlığı vardır.'
     }
   },
 
@@ -174,7 +185,8 @@ export default [
       de: 'Aufgearbeitet, verloren, gefunden, gestohlen, versteckt für unendliche Zeiten.',
       pt: 'Reforgado, perdido, encontrado, roubado, escondido por eras sem fim.',
       ko: '개조되고, 분실되고, 발견되고, 도난되고, 끝없는시간동안 숨겨젔다.',
-      nl: 'Hervormd, verloren, gevonden, gestolen, verborgen voor tijdperken zonder einde.'
+      nl: 'Hervormd, verloren, gevonden, gestolen, verborgen voor tijdperken zonder einde.',
+      tr: 'Yeniden dövülmüş, kaybolmuş, bulunmuş, sonu olmayan çağlardır gizlenmiş.'
     }
   },
 
@@ -189,7 +201,8 @@ export default [
       pt: 'Este item foi forjado na lua cheia quando encantamentos misteriosos foram ouvidos nos sussurros da escuridão. Alguns dizem que foi o próprio Anubis falando com os mortos.',
       ko: '이 아이템은 어둠의 속삭임에서 신비한 주문을 들었을 때 보름달에 위조되었습니다. 어떤 사람들은 아누비스 자신이 죽은 자들과 이야기했다고합니다.',
       nl: 'Dit voorwerp werd gesmeed op volle maan toen mysterieuze bezweringen in het gefluister van de duisternis werden gehoord. Sommigen zeggen dat het Anubis zelf was die met de doden sprak.',
-      se: 'Det här objektet smiddes på en fullmåne när mystiska incantations hördes i mörkets viskningar. Vissa säger att det var Anubis själv som talade med de döda.'
+      se: 'Det här objektet smiddes på en fullmåne när mystiska incantations hördes i mörkets viskningar. Vissa säger att det var Anubis själv som talade med de döda.',
+      tr: 'Bu eşya, karanlığın fısıltılarında gizemli sihirli sözler duyulduğunda, dolunayda dövüldü. Bazıları bunun ölülerle konuşan Anubis\'in kendisi olduğunu söylüyor.'
     }
   }
 
