@@ -85,7 +85,7 @@ export default [
       pt: 'Braçadeira de metal aborrecida, útil para raides nocturnos.',
       ko: '무딘 금속 브레이 서, 야간의 습격에 편리합니다.',
       nl: 'Dof metalen bracer, handig voor nachtelijke overvallen.',
-      se: 'Dull metall bracer, praktisk för natten raiding.',
+      se: 'Dull metall bracer, praktisk för natten raiding.'
     }
   },
 
@@ -130,7 +130,7 @@ export default [
       pt: 'Os guardiões arcaicos deixaram vestígios de sua passagem, que você, sem escrúpulos, decidiu usar em seu braço.',
       ko: '고풍의 수호자들이 남겨간 흔적들, 당신이 부주의하게 당신의 팔에 끼기로 결정했습니다.',
       nl: 'De archaïsche voogden lieten restanten van hun overlijden achter, die je zonder scrupules op je arm hebt gedragen.',
-      se:'De arkaiska förmyndarna lämnade resterna av deras passerar, som du skarpt har bestämt dig för att bära på din arm.'
+      se: 'De arkaiska förmyndarna lämnade resterna av deras passerar, som du skarpt har bestämt dig för att bära på din arm.'
     }
   },
 
