@@ -12,6 +12,7 @@ export default {
     hi: 'ब्लडलस्ट वंश क़दर करते है स्वतंत्रता और निष्ठा की, प्रस्ताव रखते है व्यक्तिवाद और अराजकता के लिए भी। उनकी मुख्य भूमि स्थित है हेड्लेस लैंडिंग नामक रेगीयतानी राज्य में।',
     ko: '블러드 스톰 호드는 자유와 충성심을 중요시하며, 개인주의 또는 혼란을위한 장소를 제공합니다. 그들의 방위는 “헤드 레스 랜딩” 이라는 사막 영역에 있습니다.',
     pt: 'A horda do Sangue valoriza a liberdade e a lealdade, oferece um lugar para o individualismo ou mesmo o caos. Suas defesas estão localizadas em um deserto chamado Headless Landing.',
-    nl: 'De Bloodlust horde waardeert vrijheid en loyaliteit, biedt een plaats voor individualisme of zelfs chaos. Hun verdediging bevindt zich in een woestijngebied dat Headless Landing heet.'
+    nl: 'De Bloodlust horde waardeert vrijheid en loyaliteit, biedt een plaats voor individualisme of zelfs chaos. Hun verdediging bevindt zich in een woestijngebied dat Headless Landing heet.',
+    it: 'Lorda di Bloodlust dà valore alla libertà e alla lealtà, offre un posto per lindividualismo o anche il caos. Le loro difese si trovano in un regno desertico chiamato Headless Landing.'
   }
 }
