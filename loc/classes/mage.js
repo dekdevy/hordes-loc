@@ -12,7 +12,8 @@ export default {
     pt: 'Mago',
     tr: 'Büyücü',
     nl: 'Magiër',
-    it: 'Mago'
+    it: 'Mago',
+    ht: 'Mage'
   },
   // Class description, visible during character creation
   description: {
@@ -27,6 +28,7 @@ export default {
     pt: 'Os magos causam danos muito pesados em grande escala na Área de Efeito, ao mesmo tempo que também fornecem utilidade através da diminuição da velocidade dos alvos com a sua magia baseada em gelo.',
     nl: 'Magiërs geven zeer zware, grootschalige schade aan het gebied van het effect aan te pakken, terwijl ze ook het nut van het afremmen van doelen met hun op ijs gebaseerde magie vergroten.',
     tr: 'Büyücüler ağır alan etkili hasar verirken buz büyüleriyle hedeflerini yavaşlatır.',
-    it: 'I maghi infliggono danni di Area of ​​Effect molto pesanti su larga scala, fornendo anche utilità attraverso il rallentamento degli obiettivi con la loro magia basata sul ghiaccio.'
+    it: 'I maghi infliggono danni di Area of ​​Effect molto pesanti su larga scala, fornendo anche utilità attraverso il rallentamento degli obiettivi con la loro magia basata sul ghiaccio.',
+    ht: 'Mages deal very heavy large scale Area of Effect damage, while also providing utility through slowing targets with their ice based magic.'
   }
 }
