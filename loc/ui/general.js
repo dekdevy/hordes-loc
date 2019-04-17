@@ -17,8 +17,7 @@ export default {
     pl: 'w porządku',
     pt: 'OK',
     ph: 'Okay',
-    se: 'Okej',
-
+    se: 'Okej'
   },
   back: {
     en: 'Back',
@@ -37,7 +36,6 @@ export default {
     pl: 'Z powrotem',
     pt: 'De volta',
     ph: 'Bumalik',
-    se: 'Tillbaka',
-
+    se: 'Tillbaka'
   }
 }
