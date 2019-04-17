@@ -38,7 +38,7 @@ export default [
       ja: 'バックルはそれ以外のものよりも価値があります。',
       pl: 'Klamra jest warta więcej niż reszta.',
       ph: 'Ang buckle ay nagkakahalaga ng higit sa natitirang bahagi nito.',
-      se: 'Spännet är värt mer än resten av det.',
+      se: 'Spännet är värt mer än resten av det.'
     }
   },
 
@@ -74,7 +74,7 @@ export default [
       fr: 'Un sac élégant utilisé par les archers elfiques à cheval.',
       pt: 'Elegante saco usado por arqueiros elfos a cavalo.',
       it: 'Elegante borsa utilizzata dagli arcieri elfici a cavallo.',
-      nl: 'Elegante tas die gebruikt wordt door elvenschutters te paard.',
+      nl: 'Elegante tas die gebruikt wordt door elvenschutters te paard.'
      
     }
   },
