@@ -40,7 +40,7 @@ export default [
     name       : {$$: 'Leather Armlet' },
     description: {
       en: 'Stiff, makes your arm sore.',
-      ru: 'Такой тугой, что твоя рука начинает опухать.'
+      ru: 'Такой тугой, что твоя рука начинает опухать.',
       es: 'Mas cuero. Todo es cuero. Nesecitas una chaqueta de cuero para ser completo.',
       fr: 'Rigide, rend le bras douloureux',
       de: 'Steif, macht deinen Arm wund.',
