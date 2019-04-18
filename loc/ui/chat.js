@@ -45,44 +45,19 @@ export default {
     ht: 'Montre Sistèm'
   },
 
+  // translations not needed
   loot: {
-    en: 'Loot',
-    ru: 'Добыча',
-    hi: 'लूट',
-    es: 'Botín',
-    de: 'Beute',
-    fr: 'Pillage',
-    ko: '전리품',
-    tr: 'Ganimet',
-    nl: 'Luit',
-    pt: 'Saque',
-    pl: 'Łupy',
-    ht: 'piyaj'
+    $$: 'Loot'
   },
 
+  // translations not needed
   exp: {
-    en: 'exp',
-    ru: 'Опыт',
-    hi: 'ऐक्सपी',
-    es: 'exp',
-    tr: 'dny',
-    bg: 'Годен',
-    ja: '経験値',
-    nl: 'exp',
-    pt: 'exp',
-    pl: 'exp exp',
-    ht: 'Eksperyans'
+    $$: 'exp'
   },
 
+  // translations not needed
   pvp: {
-    en: 'PvP',
-    ru: 'Бой',
-    hi: 'पिविपी',
-    es: 'PvP',
-    nl: 'PvP',
-    pt: 'PvP',
-    pl: 'PvP',
-    ht: 'Goumen'
+    $$: 'PvP'
   },
 
   // translations not needed
