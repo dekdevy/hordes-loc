@@ -3,7 +3,7 @@ export default [
     name       : {en: 'Hand Wraps' },
     description: {
       en: 'Straps of leather covering your feeble hands. Pulling the bowstring is much easier for you now.',
-      ru: 'Ремешки из кожи покрывают ваши слабые руки. Вытягивать тетиву теперь намного проще.',
+      ru: 'Ремешки из кожи покрывают ваши слабые руки. Натягивать тетиву теперь намного проще.',
       de: 'Lederbänder, die Ihre schwachen Hände bedecken. Das Ziehen der Bogensehne ist für dich jetzt viel einfacher.',
       es: 'Correas de cuero cubrir tus débiles manos. Estirar de la cuerda es más fácil para ti ahora.',
       pt: 'Correias de couro a cobrir as tuas mãos fracas. Puxar a corda de arco é muito mais fácil para você agora.',
@@ -39,7 +39,7 @@ export default [
     name       : {en: 'Bone Grips' },
     description: {
       en: 'Clacking sounds travel with you as you wear these.',
-      ru: 'щелкающие звуки путешествуют с вами когда вы носите эти перчатки.',
+      ru: 'Клацающие звуки путешествуют с вами когда вы носите эти перчатки.',
       de: 'Klackende Geräusche reisen mit, während Sie diese tragen.',
       es: 'Los sonidos de agarrotamiento viajan con usted mientras los usa.',
       pt: 'Os sons de Clacking viajam contigo enquanto usas isto.',
@@ -51,7 +51,7 @@ export default [
     name       : {en: 'Iron Gauntlets' },
     description: {
       en: 'Soft-iron gloves provide a little more protection, although your hands are cold now.',
-      ru: 'Железные перчатки обеспечивают немного больше защиты, хотя ваши руки теперь холодные.',
+      ru: 'Железные перчатки обеспечивают немного больше защиты, хотя вашим рукам теперь холодно.',
       de: 'Eisenhandschuhe bieten etwas mehr Schutz, obwohl deine Hände jetzt kalt sind.',
       es: 'Los guantes de hierro proporcionan un poco más de protección, aunque ahora sus manos están frías.',
       pt: 'As luvas de ferro macio proporcionam um pouco mais de protecção, embora as suas mãos estejam frias agora.',
@@ -75,7 +75,7 @@ export default [
     name       : {en: 'Wartorn Mitts' },
     description: {
       en: 'Some war general must have dropped these...probably unintentionally too.',
-      ru: 'какой-то военный генерал, должно быть, уронил их... возможно, нечаянно.',
+      ru: 'Какой-то военный генерал, должно быть, уронил их... возможно, нечаянно.',
       de: 'Ein Kriegsgeneral muss diese.... wahrscheinlich auch unbeabsichtigt fallen gelassen haben.',
       es: 'Algún general de guerra debe haberlos tirado... probablemente sin querer.',
       pt: 'Algum general de guerra deve ter deixado cair estes... provavelmente também não intencionalmente.',
@@ -111,7 +111,7 @@ export default [
     name       : {en: 'Coldforged Fists' },
     description: {
       en: 'Forged without heat, worn without fear.',
-      ru: 'Кованые без тепла, носите без страха.',
+      ru: 'Кованые без огня, носите без страха.',
       de: 'Ohne Hitze geschmiedet, ohne Angst getragen.',
       es: 'Forjados sin calor, llevados sin miedo.',
       pt: 'Forjado sem calor, usado sem medo.',
@@ -123,7 +123,7 @@ export default [
     name       : {en: 'Eternal Gauntlets' },
     description: {
       en: 'Gloves sought by warriors for eras on end...at last...it is found.',
-      ru: 'Перчатки разыскиваются воинами на протяжении эпох... наконец... нашлись.',
+      ru: 'Перчатки разыскиваемые воинами на протяжении эпох... наконец... нашлись.',
       de: 'Handschuhe, die von Kriegern für Epochen am Ende gesucht wurden... endlich... es wird gefunden.',
       es: 'Guantes buscados por los guerreros para las eras....al fin...se encuentra.',
       pt: 'Luvas procuradas por guerreiros para eras em fim...finalmente...é encontrado.',

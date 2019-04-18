@@ -3,7 +3,7 @@ export default [
     name       : {en: 'Woven Band' },
     description: {
       en: 'Don\'t look at it or it will fall apart.',
-      ru: 'Не смотрите на ево, а то он развалится.',
+      ru: 'Не смотрите на него, а то оно развалится.',
       es: 'No lo mires o se caerá a pedazos.',
       de: 'Sieh es dir nicht an, sonst fällt es auseinander.',
       hi: 'इसकी तरफ़ देखना मत। टूट जाएगा।',
@@ -17,7 +17,7 @@ export default [
     name       : {en: 'Ironbark Circlet' },
     description: {
       en: 'Not sure about the bark, but its definitely made of iron.',
-      ru: 'Не уверен насчет коры, но оно определена зделана из железы.',
+      ru: 'Не уверен насчет коры, но оно определенно сделано из железа.',
       es: 'No estoy seguro de la corteza, pero definitivamente es de hierro.',
       de: 'Nicht sicher über die Rinde, aber sно оно определена зделана из железы\'est du fer.',
       hi: 'चाल का तो पता नहीं पर ये लोहे का ज़रूर बना है।',
@@ -31,7 +31,7 @@ export default [
     name       : {en: 'Brass Ringlet' },
     description: {
       en: 'Finally, a ring that is shiny.',
-      ru: 'Наконец-то блисташия колто.',
+      ru: 'Наконец-то блестящее кольцо.',
       es: 'Finalmente, un anillo que brilla.',
       de: 'Endlich ein Ring, der glänzt.',
       fr: 'Enfin, un anneau qui brille.',
@@ -45,7 +45,7 @@ export default [
     name       : {en: 'Hollowed Bone' },
     description: {
       en: 'A ring made of last night\'s leftovers.',
-      ru: 'Колто из остатков прошлова ужина.',
+      ru: 'Кольцо из остатков прошлого ужина.',
       es: 'Un anillo hecho con las sobras de anoche.',
       de: 'Ein Ring aus den Überresten der letzten Nächte.',
       hi: 'कल के बचे खुचे खाने से बनी अँगूठी।',
@@ -59,7 +59,7 @@ export default [
     name       : {en: 'Elven Band' },
     description: {
       en: 'The elves made this ring to protect themselves from danger and succeeded in giving it away.',
-      ru: 'Эльфы сделали это кольцо, чтобы защитить себя от опасности, и удалось отдать его',
+      ru: 'Эльфы сделали это кольцо, чтобы защитить себя от опасности, и умудрились потерять его',
       es: 'Los elfos hicieron este anillo para protegerse del peligro y lograron regalarlo.',
       de: 'Die Elfen bauten diesen Ring, um sich vor Gefahren zu schützen, und es gelang ihnen, ihn wegzugeben.',
       hi: 'एल्व लोगों ने ख़ुद को ख़तरे से बचाने के लिए इसे बनाया था, और इसे हमें देने में सफल रहे।',
@@ -73,7 +73,7 @@ export default [
     name       : {en: 'Imbued Circlet' },
     description: {
       en: 'Fits nicely, although the effects it gives are marginal.',
-      ru: 'Хорошо вписывается, хотя эффекты, которые он дает, незначительны.',
+      ru: 'На руке cидит хорошо, хотя эффекты, которые он дает, незначительны.',
       es: 'Encaja bien, aunque los efectos que produce son marginales.',
       de: 'Passt gut, auch wenn die Wirkung gering ist.',
       hi: 'सही बैठती है, भले ही इसकी शक्तियाँ कुछ ख़ास नहीं।',
@@ -87,7 +87,7 @@ export default [
     name       : {en: 'Arcane Ring' },
     description: {
       en: 'No one knows if it is worth putting on.',
-      ru: 'Никто не знает, стоит ли ево надевать.',
+      ru: 'Никто не знает, стоит ли его надевать.',
       es: 'Nadie sabe si vale la pena ponerse esto.',
       de: 'Niemand weiß, ob es sich lohnt, sie anzuziehen.',
       hi: 'इसे पहना या ना पहना, कोई नहीं जानते।',
@@ -101,7 +101,7 @@ export default [
     name       : {en: 'Emerald Band' },
     description: {
       en: 'Emeralds on all sides to make you feel rich.',
-      ru: 'Изумруды со всех сторон, чтобы вы чувствовали себя богатыми.',
+      ru: 'Изумруды со всех сторон, чтобы вы чувствовали себя богатым.',
       es: 'Esmeraldas por todos lados para que te sientas rico.',
       de: 'Smaragde auf allen Seiten, damit Sie sich reich fühlen.',
       hi: 'इसके चारों ओर क़ीमती पत्थर जड़े है, जिनसे आप धनी महसूस करे।',
@@ -118,7 +118,7 @@ export default [
       es: 'Si pudiera hablar, probablemente se quejaría de ser triangular.',
       de: 'Gefühl zu geben, wenn es sprechen könnte, würde es sich wahrscheinlich darüber beschweren, dreieckig zu sein.',
       fr: 'Si elle pouvait parler, elle se plaindrait probablement d\'être triangulaire.',
-      ru: 'Если он мог говорить, он вероятно, пожаловался что он треугольный.',
+      ru: 'Если б оно могло говорить, оно вероятно, пожаловалось бы на то, что оно треугольное.',
       hi: 'अगर ये अँगूठी बोल पति तो अपने त्रिकोण होने की शिकायत करती।',
       pt: 'Se pudesse falar, provavelmente queixar-se-ia de ser triangular.',
       nl: 'Als het kon spreken, zou het waarschijnlijk klagen over het feit dat het driehoekig is.'
@@ -157,7 +157,7 @@ export default [
     name       : {en: 'Peacekeeper' },
     description: {
       en: 'Keeper of peace....not sure about that, but it might keep you alive....',
-      ru: 'Хранитель мира .... не уверен в этом, но он может подержать тебя в живых ....',
+      ru: 'Хранитель мира .... не уверен в этом, но оно может помочь остаться в живых ....',
       es: 'Guardián de la paz.... no estoy seguro de eso, pero podría mantenerte vivo.',
       de: 'Hüter des Friedens.... nicht sicher, aber vielleicht hält dich das am Leben.',
       hi: 'शांति की रखवाली....इसकी गैरंटी तो नहीं, पर आपको ज़िंदा रख पाएगी शायद....',

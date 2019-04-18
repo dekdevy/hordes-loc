@@ -3,7 +3,7 @@ export default [
     name       : {en: 'Linen Quiver' },
     description: {
       en: 'Soft, full of holes. Arrows keep falling out.',
-      ru: 'Мягкий, дырявый. Стрелки продолжают выпадать.',
+      ru: 'Мягкий, дырявый. Стрелы постоянно выпадают.',
       de: 'Weich, voller Löcher. Pfeile fallen immer wieder heraus.',
       es: 'Si, los calcetines también pueden ser una aljaba.',
       fr: 'Un carquois en linge dont les flèches n\'arrêtent pas de tomber.',
@@ -17,7 +17,7 @@ export default [
     name       : {en: 'Reinforced Quiver' },
     description: {
       en: 'Linen sack covered in stiff leather.',
-      ru: 'Льняной мешочек обтянут жесткой кожей.',
+      ru: 'Льняной мешочек обтянутый жесткой кожей.',
       de: 'Leinensack mit steifem Leder bezogen.',
       es: 'Una bolsa de lana con cuero.',
       fr: 'Sac en lin recouvert de cuir rigide.',

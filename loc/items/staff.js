@@ -29,7 +29,7 @@ export default [
     name       : {en: 'Gnarled Broomstick' },
     description: {
       en: 'Scruffy broomstick stolen from a mage. Gnarled and bony.',
-      ru: 'Потрепанная метла украдена у мага. Корявый и костлявый.',
+      ru: 'Потрепанная метла украдена у мага. Корявая и костлявая.',
       hi: 'गंदा ब्रूमस्टिक एक दाना से चोरी हो। ऐंठा हुआ और बोनी।',
       es: 'Un palo de escoba desaliñado robado de un mago. Nudoso y huesudo.',
       de: 'Dreckiger Besenstiel, der einem Magier gestohlen wurde. Knurrig und knöchern.',
@@ -43,7 +43,7 @@ export default [
     description: {
       en: 'A wand cut from the branches of an ancient oak. Infused with deep power.',
       hi: 'प्राचीन पेड की डाल से बनी छड़ी। ',
-      ru: 'Палочка, вырезанная из ветвей древнего дуба. Обладает глубокой силой.',
+      ru: 'Палочка, вырезанная из ветки древнего дуба. Обладает глубокой силой.',
       es: 'Una varita cortada de las ramas de un arce anciano. Tiene gran poder canadiense.',
       de: 'Ein Zauberstab, der aus den Zweigen einer kastanienbraunen Eiche geschnitten wurde. Durchdrungen von tiefer Kraft.',
       fr: 'Baguette coupée dans les branches d\'un chêne d\'ancien. Doté d\'une puissance profonde.',
@@ -94,7 +94,7 @@ export default [
     name       : {en: 'Imbued Staff' },
     description: {
       en: 'Dark purple staff. Quite mysterious in its making, yet nice to look at.',
-      ru: 'Темно-фиолетовый посох. Совершенно таинственно в его создании, но приятно смотреть на него.',
+      ru: 'Темно-фиолетовый посох. Совершенно таинственного происхождения, но приятно смотреть на него.',
       hi: 'डार्क बैंगनी स्टाफ। काफी इसके निर्माण में रहस्यमय, अभी तक को देखने के लिए अच्छा।',
       es: 'El cayado de un pastor. Solo costó como noventa cobres y una gallina.',
       de: 'Dunkelvioletter Stab. Ziemlich mysteriös in seiner Entstehung, aber schön anzusehen.',
@@ -146,7 +146,7 @@ export default [
     name       : {en: 'Infernal Staff' },
     description: {
       en: 'Constructed by unknown blacksmiths residing in fabled valleys.',
-      ru: 'Построен неизвестными кузнецами, живущими в сказочных долинах.',
+      ru: 'Сконструирован неизвестными кузнецами, живущими в сказочных долинах.',
       hi: 'पौराणिक घाटियों में रहने वाले अज्ञात लोहार द्वारा निर्मित।',
       es: 'Construido por herreros desconocidos que residen en valles legendarios.',
       fr: 'Confectionné par des forgerons inconnus résidant dans des vallées légendaires.',
@@ -158,7 +158,7 @@ export default [
     name       : {en: 'Hellfire Greatstaff' },
     description: {
       en: 'Its beauty calls out to you... to kill... to conquer...',
-      ru: 'Его красота призывает тебя... убивать... завоевывать...',
+      ru: 'Его красота призывает тебя... убивать... побеждать...',
       hi: 'अपनी सुंदरता से जुड़ी जानकारी आप... को मारने के लिए करने के लिए... को जीत के लिए...',
       es: 'Su belleza te llama... a matar... a conquistar...',
       de: 'Seine Schönheit ruft nach dir, zu töten, zu erobern...',
@@ -171,7 +171,7 @@ export default [
     name       : {en: 'Staff of Angelness' },
     description: {
       en: 'A staff stolen from the angels. They\'re still hunting for it.',
-      ru: 'Посох, украденный у ангелов. Они все еще охотятся за этим.',
+      ru: 'Посох, украденный у ангелов. Они все еще охотятся за ним.',
       hi: 'एक कर्मचारी स्वर्गदूतों से चोरी हो। वे अभी भी यह के लिए शिकार कर रहे हैं।',
       es: 'Robaste el arzobispo y tomaste su báculo de oro. Ahora los ángeles te cazan.',
       de: 'Ein Stab, der von den Engeln gestohlen wurde. Sie sind immer noch auf der Jagd danach.',
@@ -184,7 +184,7 @@ export default [
     name       : {en: 'Crystal Core' },
     description: {
       en: 'Crude in its looks, yet mighty at its heart...',
-      ru: 'Грубая внешность, но могущественная в глубине сердца...',
+      ru: 'Грубая внешность, но могущественная в глубине его сердца...',
       hi: 'इसके दिखता में क्रूड, अभी तक अपने दिल में शक्तिशाली...',
       es: 'Crudo en su aspecto, pero poderoso en su corazón....',
       de: 'Grob in seinem Aussehen, aber mächtig in seinem Herzen.....',
@@ -197,7 +197,7 @@ export default [
     name       : {en: 'Witchs Heart' },
     description: {
       en: 'We are told it\'s core is from the heart of a witch. No one has found the corpse. Or the staff itself.',
-      ru: 'Нам говорят, что его ядро ​​от сердца ведьмы. Никто не нашел труп. Или сам посох.',
+      ru: 'Нам говорят, что его ядро ​​от сердца ведьмы. Но никто не нашел труп. Или сам посох.',
       hi: 'हम इसे की कोर एक चुड़ैल के दिल से है बताया जाता है। कोई भी लाश मिल गया है। या कर्मचारी ही।',
       es: 'Se nos dice que su núcleo es del corazón de una bruja. Nadie ha encontrado el cadáver. O el varita sí mismo.',
       de: 'Uns wurde gesagt, dass sein Kern aus dem Herzen einer Hexe stammt. Niemand hat die Leiche gefunden. Oder das Personal selbst.',
