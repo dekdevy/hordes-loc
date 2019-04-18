@@ -9,6 +9,7 @@ export default {
     fr: 'paramétrage',
     nl: 'instellingen',
     tr: 'ayarlar',
+    pt: 'Ajustes',
     pl: 'nastawy'
   },
 
@@ -22,6 +23,7 @@ export default {
     fr: 'commandes',
     tr: 'kontroller',
     nl: 'bediening',
+    pt: 'controles',
     pl: 'kontrole'
   },
 
@@ -34,6 +36,7 @@ export default {
     fr: 'Caméra verrouillée',
     tr: 'Kilitli kamera',
     nl: 'Gesloten camera',
+    pt: 'câmera bloqueada',
     pl: 'Zamknięta kamera'
   },
 
@@ -46,6 +49,7 @@ export default {
     fr: 'schémas',
     nl: 'grafischen',
     tr: 'grafikler',
+    pt: 'gráficos',
     pl: 'grafika'
   },
 
@@ -58,6 +62,7 @@ export default {
     fr: 'Résolution',
     nl: 'Resolution',
     tr: 'Çözünürlük',
+    pt: 'Resolução',
     pl: 'Rozdzielczość'
   },
 
@@ -70,6 +75,7 @@ export default {
     fr: 'Effets de compétences',
     nl: 'Vaardigheidseffecten',
     tr: 'Yetenek efektleri',
+    pt: 'Efeitos de habilidade',
     pl: 'Efekty umiejętności'
   },
 
@@ -82,6 +88,7 @@ export default {
     fr: 'Qualité de l\'ombre',
     nl: 'Schaduwkwaliteit',
     tr: 'Gölge kalitesi',
+    pt: 'Qualidade de sombras',
     pl: 'Jakość cienia'
   },
 
@@ -94,6 +101,7 @@ export default {
     fr: 'Quantité d\'herbe',
     nl: 'Grasbedrag',
     tr: 'Çim miktarı',
+    pt: 'Quantidade de grama',
     pl: 'Ilość trawy'
   },
 
@@ -106,6 +114,7 @@ export default {
     fr: 'clavardage',
     nl: 'praten',
     tr: 'sohbet',
+    pt: 'bate-papo',
     pl: 'pogawędka'
   },
 
@@ -118,6 +127,7 @@ export default {
     fr: 'Largeur du chat',
     nl: 'Chatbreedte',
     tr: 'Chat genişliği',
+    pt: 'Largura do chat',
     pl: 'Szerokość rozmowy'
   },
 
@@ -130,6 +140,7 @@ export default {
     fr: 'Hauteur de clavardage',
     nl: 'Chathoogte',
     tr: 'Chat yükskliği',
+    pt: 'Altura do chat',
     pl: 'Wysokość rozmowy'
   },
 
@@ -142,6 +153,7 @@ export default {
     fr: 'didacticiel',
     nl: 'handleiding',
     tr: 'öğretici',
+    pt: 'tutorial',
     pl: 'przewodnik'
   },
 
@@ -154,7 +166,7 @@ export default {
     fr: 'Réinitialiser le tutoriel',
     nl: 'Gereset les',
     tr: 'Öğreticiyi sıfırla',
+    pt: 'tutorial de reset',
     pl: 'resetowanie samouczka'
   }
-
 }

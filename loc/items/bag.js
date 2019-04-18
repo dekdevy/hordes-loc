@@ -74,6 +74,7 @@ export default [
       pt: 'Elegante saco usado por arqueiros elfos a cavalo.',
       it: 'Elegante borsa utilizzata dagli arcieri elfici a cavallo.',
       nl: 'Elegante tas die gebruikt wordt door elvenschutters te paard.',
+      pl: 'Elegancka torba używana przez elfów łuczników na koniu.',
       sv: 'Elegant bag used by river archers on horseback.'
     }
   },
@@ -89,6 +90,7 @@ export default [
       pt: 'Tecida com fios de líquen, a construção deste saco permanece um mistério.',
       it: 'Tessuto da fili di lichene, la costruzione di questa borsa rimane un mistero.',
       nl: 'Geweven van korstmosdraden, de constructie van deze tas blijft een mysterie.',
+      pl: 'Tkany z nici porostów, konstrukcja tej torby pozostaje tajemnicą.',
       sv: 'Vävd av trådar av lavar, är byggandet av denna väska ett mysterium.'
     }
   }
