@@ -9,7 +9,14 @@ export default {
     fr: 'inventaire',
     nl: 'inventarisatie',
     pt: 'inventário',
-    it: 'merci in magazzino',
-    pl: 'inwentaryzacja'
+    tr: 'enventer',
+    it: 'inventario',
+    pl: 'Inwentarz',
+    bg: 'складова наличност',
+    cs: 'inventář',
+    el: 'καταγραφή εμπορευμάτων',
+    ja: '在庫',
+    ph: 'imbentaryo',
+    sv: 'lager'
   }
 }
