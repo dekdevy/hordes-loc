@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {en: 'Woven Band' },
+    name       : {$$: 'Woven Band' },
     description: {
       en: 'Don\'t look at it or it will fall apart.',
       ru: 'Не смотрите на него, а то оно развалится.',
@@ -15,7 +15,7 @@ export default [
   },
 
   {
-    name       : {en: 'Ironbark Circlet' },
+    name       : {$$: 'Ironbark Circlet' },
     description: {
       en: 'Not sure about the bark, but its definitely made of iron.',
       ru: 'Не уверен насчет коры, но оно определенно сделано из железа.',
@@ -30,7 +30,7 @@ export default [
   },
 
   {
-    name       : {en: 'Brass Ringlet' },
+    name       : {$$: 'Brass Ringlet' },
     description: {
       en: 'Finally, a ring that is shiny.',
       ru: 'Наконец-то блестящее кольцо.',
@@ -45,7 +45,7 @@ export default [
   },
 
   {
-    name       : {en: 'Hollowed Bone' },
+    name       : {$$: 'Hollowed Bone' },
     description: {
       en: 'A ring made of last night\'s leftovers.',
       ru: 'Кольцо из остатков прошлого ужина.',
@@ -60,7 +60,7 @@ export default [
   },
 
   {
-    name       : {en: 'Elven Band' },
+    name       : {$$: 'Elven Band' },
     description: {
       en: 'The elves made this ring to protect themselves from danger and succeeded in giving it away.',
       ru: 'Эльфы сделали это кольцо, чтобы защитить себя от опасности, и умудрились потерять его',
@@ -75,7 +75,7 @@ export default [
   },
 
   {
-    name       : {en: 'Imbued Circlet' },
+    name       : {$$: 'Imbued Circlet' },
     description: {
       en: 'Fits nicely, although the effects it gives are marginal.',
       ru: 'На руке cидит хорошо, хотя эффекты, которые он дает, незначительны.',
@@ -90,7 +90,7 @@ export default [
   },
 
   {
-    name       : {en: 'Arcane Ring' },
+    name       : {$$: 'Arcane Ring' },
     description: {
       en: 'No one knows if it is worth putting on.',
       ru: 'Никто не знает, стоит ли его надевать.',
@@ -105,7 +105,7 @@ export default [
   },
 
   {
-    name       : {en: 'Emerald Band' },
+    name       : {$$: 'Emerald Band' },
     description: {
       en: 'Emeralds on all sides to make you feel rich.',
       ru: 'Изумруды со всех сторон, чтобы вы чувствовали себя богатым.',
@@ -120,7 +120,7 @@ export default [
   },
 
   {
-    name       : {en: 'Infernal Ring' },
+    name       : {$$: 'Infernal Ring' },
     description: {
       en: 'If it could speak, it would probably complain about being triangular.',
       es: 'Si pudiera hablar, probablemente se quejaría de ser triangular.',
@@ -135,7 +135,7 @@ export default [
   },
 
   {
-    name       : {en: 'Ancient Talisman' },
+    name       : {$$: 'Ancient Talisman' },
     description: {
       en: 'No written records exist to tell us about its origin....',
       ru: 'Не существует никаких письменных отчетов о его происхождении ....',
@@ -150,7 +150,7 @@ export default [
   },
 
   {
-    name       : {en: 'Hallowed Relic' },
+    name       : {$$: 'Hallowed Relic' },
     description: {
       en: 'Sacred artifact lost by holy druids.',
       ru: 'Священный артефакт, потерянный святыми друидами.',
@@ -165,7 +165,7 @@ export default [
   },
 
   {
-    name       : {en: 'Peacekeeper' },
+    name       : {$$: 'Peacekeeper' },
     description: {
       en: 'Keeper of peace....not sure about that, but it might keep you alive....',
       ru: 'Хранитель мира .... не уверен в этом, но оно может помочь остаться в живых ....',

@@ -11,7 +11,8 @@ export default {
     tr: 'Hepsini Göster',
     nl: 'Toon alle',
     pt: 'Mostrar todos',
-    pl: 'Pokaż wszystko'
+    pl: 'Pokaż wszystko',
+    ht: 'Montre tout'
   },
 
   showclan: {
@@ -25,7 +26,8 @@ export default {
     tr: 'Klanı göster',
     nl: 'Toon Clan',
     pt: 'Mostrar Clã',
-    pl: 'Pokaż klan'
+    pl: 'Pokaż klan',
+    ht: 'Montre klan'
   },
 
   showsystem: {
@@ -39,7 +41,8 @@ export default {
     tr: 'Sistemi Göster',
     nl: 'Toon systeem',
     pt: 'Mostrar sistema',
-    pl: 'System pokazów'
+    pl: 'System pokazów',
+    ht: 'Montre Sistèm'
   },
 
   loot: {
@@ -53,7 +56,8 @@ export default {
     tr: 'Ganimet',
     nl: 'Luit',
     pt: 'Saque',
-    pl: 'Łupy'
+    pl: 'Łupy',
+    ht: 'piyaj'
   },
 
   exp: {
@@ -66,7 +70,8 @@ export default {
     ja: '経験値',
     nl: 'exp',
     pt: 'exp',
-    pl: 'exp exp'
+    pl: 'exp exp',
+    ht: 'Eksperyans'
   },
 
   pvp: {
@@ -77,17 +82,18 @@ export default {
     nl: 'PvP',
     pt: 'PvP',
     pl: 'PvP',
-    tr: 'PvP'
+    tr: 'PvP',
+    ht: 'Goumen'
   },
 
   // translations not needed
   twitter: {
-    en: 'TW'
+    $$: 'TW'
   },
 
   // translations not needed
   discord: {
-    en: 'Discord'
+    $$: 'Discord'
   }
 
 }

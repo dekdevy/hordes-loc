@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {en: 'Wooden Shield' },
+    name       : {$$: 'Wooden Shield' },
     description: {
       en: 'Literally a square plank of wood.',
       ru: 'Буквально квадратная доска из дерева.',
@@ -16,7 +16,7 @@ export default [
   },
 
   {
-    name       : {en: 'Buckler' },
+    name       : {$$: 'Buckler' },
     description: {
       en: 'Smelted iron ring filled with bronze. Flimsy in its making.',
       ru: 'Плавленый железный круг залитый бронзой. Довольно хлипкий.',
@@ -31,7 +31,7 @@ export default [
   },
 
   {
-    name       : {en: 'Old Bulwark' },
+    name       : {$$: 'Old Bulwark' },
     description: {
       en: 'Some farmer has managed to construct a cute little shield.',
       ru: 'Какому-то фермеру удалось создать милый маленький щит.',
@@ -47,7 +47,7 @@ export default [
   },
 
   {
-    name       : {en: 'Metal Guard' },
+    name       : {$$: 'Metal Guard' },
     description: {
       en: 'Intricate shield made out of three solid metal pieces. Sturdy.',
       ru: 'Замысловатый щит из трех металлических частей. Прочный',
@@ -63,7 +63,7 @@ export default [
   },
 
   {
-    name       : {en: 'Protectron' },
+    name       : {$$: 'Protectron' },
     description: {
       en: 'Made from obsidian and steel. Someone sloppily attempted to paint it yellow. They failed. Miserably.',
       ru: 'Изготовлен из обсидиана и стали. Кто-то небрежно попытался покрасить его в желтый цвет. Hе удалось.',

@@ -11,7 +11,8 @@ export default {
     tr: 'Tamam',
     nl: 'Okee',
     pt: 'Está bem.',
-    pl: 'Dobrze.'
+    pl: 'Dobrze.',
+    ht: 'Dakò'
 
   },
   back: {
@@ -25,6 +26,7 @@ export default {
     nl: 'Terug',
     tr: 'Geri',
     pt: 'Voltar',
-    pl: 'Popierać'
+    pl: 'Popierać',
+    ht: 'Retounen'
   }
 }

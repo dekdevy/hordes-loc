@@ -17,7 +17,8 @@ export default {
     tr: 'Çıkış Yap',
     nl: 'Uitloggen',
     pt: 'Terminar sessão',
-    pl: 'Wyloguj się'
+    pl: 'Wyloguj się',
+    ht: 'Dekonekte'
   },
 
   home: {
@@ -37,6 +38,7 @@ export default {
     tr: 'Anasayfa',
     nl: 'Thuis',
     pt: 'voltar para inicio',
-    pl: 'Strona główna'
+    pl: 'Strona główna',
+    ht: 'Paj lakay'
   }
 }
