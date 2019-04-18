@@ -23,7 +23,8 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'neon', 'spritual', 'godly', 'truthful', 'untruthful', 'forgiving', 'pixelated', 'sinful', 'advanced', 'ivory',
   'polished', 'round', 'tangled', 'hexed', 'charming', 'gilled', 'hairy', 'berserk', 'failing', 'disgraceful', 'ultimate',
   'virtual', 'cold', 'white', 'resurrected', 'peaceful', 'disguised', 'demonic', 'devoted', 'confidential', 'competitive',
-  'charred', 'fortunate', 'overpowered']
+  'charred', 'fortunate', 'overpowered', 'murderous', 'dwarven', 'precise', 'victorious', 'violent', 'bloody', 'freezing',
+  'bland', 'inky', 'mischievous']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
@@ -49,7 +50,8 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'cobweb', 'centurion', 'arachnid', 'gryffin', 'sphynx', 'pharoah', 'mummy', 'trident', 'trap', 'werewolf', 'rogue', 'knight',
   'mule', 'horse', 'mare', 'guardian', 'golem', 'dimension', 'autumn', 'dove', 'fortune', 'paradise', 'disciple', 'monk',
   'goose', 'devil', 'beast', 'rat', 'zombie', 'raven', 'ethereal', 'bones', 'dice', 'watchman', 'cannon', 'chain', 'cupbearer',
-  'guardsman', 'tailor']
+  'guardsman', 'tailor', 'chasm', 'hive', 'gnome', 'dungeon', 'lizard', 'sage', 'priest', 'sorcerer', 'necromancer', 'charmer',
+  'warlock', 'witch', 'rod', 'trapdoor', 'scribe']
 
 const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', 'misfortune', 'rage', 'joy',
   'leveling', 'vengance', 'resurrection', 'mastery', 'loss', 'flames', 'fire', 'frost', 'glory', 'war', 'sprinting',
@@ -63,7 +65,7 @@ const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', '
   'raiding', 'mutation', 'reality', 'fantasies', 'embarrassment', 'humiliation', 'cruelty', 'guidance', 'brilliance', 'hatred',
   'innocence', 'accuracy', 'perception', 'endurance', 'charisma', 'strength', 'intelligence', 'dexterity', 'experience', 'scepticism',
   'flight', 'bravery', 'corruption', 'greed', 'temptation', 'sin', 'forgiveness', 'gratitude', 'alchemy', 'hope', 'foretelling',
-  'paralysis', 'lore', 'narcissism']
+  'paralysis', 'lore', 'narcissism', 'crime', 'slavery', 'freedom', 'rebellion', 'precision', 'victory', 'mischief']
 
 export const generate = ()=>{
   // generates a random party invite link name
