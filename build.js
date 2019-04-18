@@ -24,7 +24,7 @@ const findLang = (obj, types)=>{
 }
 console.log('Detecting loc types...')
 const languages = findLang(loc, new Map())
-console.log(`  Found languages ${[...languages.keys()]}`)
+console.log(`  Found ${languages.size} languages`)
 
 // next, compile each language type to its own file
 // we search for strings present for the lang type, if not found, we fall back to english
@@ -73,7 +73,7 @@ languages.forEach((lang, type) => {
 })
 
 // store as files
-console.log('Exporting...')
+console.log('Exporting JSON files...')
 const fs = require('fs')
 const path = process.argv[2] || './dist/loc/'
 if (!fs.existsSync(path)) {
@@ -84,4 +84,4 @@ languages.forEach(async (lang, type)=>{
     if(e) throw e
   })
 })
-console.log(`  ${languages.size} languages exported`)
+console.log('  done.')
