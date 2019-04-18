@@ -10,7 +10,8 @@ export default [
       fr: 'Il sent si mauvais. Je me demande pourquoi tu l\'as ramassé.',
       it: 'C\'e\' un odore cosi\' forte, mi chiedo perche\' l\'hai preso.',
       pt: 'Cheira tão mal que me pergunto porque é que o apanhaste.',
-      pl: 'Pachnie tak źle, że zastanawiam się, dlaczego w ogóle go odebrałeś.'
+      pl: 'Pachnie tak źle, że zastanawiam się, dlaczego w ogóle go odebrałeś.',
+      nl: 'Ruikt zo erg dat ik me afvraag waarom je het zelfs maar opgepikt'
     }
   },
 
@@ -25,7 +26,8 @@ export default [
       fr: 'Lance-le au soleil et il te montrera le chemin.',
       it: 'Lanciala al sole e ti dirà dove andare.',
       pt: 'Atira-o ao sol e ele dir-te-á para onde ir.',
-      pl: 'Rzuć jš w słońce, a powie ci, dokšd masz jechać.'
+      pl: 'Rzuć jš w słońce, a powie ci, dokšd masz jechać.',
+      nl: 'Gooi het naar de zon en het zal je vertellen waar je naartoe moet.'
     }
   },
 
@@ -40,7 +42,8 @@ export default [
       fr: 'Étonnamment, il ne sent pas le poisson. Ne le met pas en contact avec de l\'eau douce.',
       it: 'Sorprendentemente, non puzza di pesce. Basta non mostrargli l\'acqua dolce.',
       pt: 'Surpreendentemente, não cheira a peixe. Só não mostre água doce.',
-      pl: 'Zaskakujšco, nie pachnie jak ryba. Po prostu nie pokazuj jej słodkiej wody.'
+      pl: 'Zaskakujšco, nie pachnie jak ryba. Po prostu nie pokazuj jej słodkiej wody.',
+      nl: 'Verrassend genoeg ruikt het niet naar vis. Laat het gewoon niet zoetwater zien.'
     }
   },
 
@@ -55,7 +58,8 @@ export default [
       fr: 'Qui à volé ton talisman? Je rigole.',
       it: 'Non riesco a pronunciarlo, non posso usarlo.',
       pt: 'Não consigo pronunciá-lo, não consigo usá-lo.',
-      pl: 'Nie umiem tego wymówić, nie mogę tego użyć.'
+      pl: 'Nie umiem tego wymówić, nie mogę tego użyć.',
+      nl: 'Kan het niet uitspreken, kan het niet gebruiken.'
     }
   },
 
@@ -70,7 +74,8 @@ export default [
       fr: 'Déchiré entre les mondes, ce talisman permet de voyager d\'un royaume à un autres.',
       it: 'Strappato tra i mondi, questo talismano permette di passare da un regno all\'altro.',
       pt: 'Rasgado entre mundos, este talismã permite a transição entre reinos.',
-      pl: 'Wyrwany z pomiędzy światami, ten talizman pozwala na przejście między światami.'
+      pl: 'Wyrwany z pomiędzy światami, ten talizman pozwala na przejście między światami.',
+      nl: 'Die van de ene wereld naar de andere is gescheurd, deze talisman maakt de overgang tussen de werelden mogelijk.'
     }
   }
 
