@@ -8,7 +8,7 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'orcish', 'golden', 'forsaken', 'ghoulish', 'terrifying', 'radiant', 'dwarfish', 'moisturising', 'fiery',
   'sparkling', 'delicious', 'delirious', 'daydreaming', 'dreaming', 'thieving', 'generous', 'royal', 'appetizing',
   'wet', 'valiant', 'orange', 'spurting', 'deep', 'lucid', 'putrid', 'pulpous', 'legendary', 'vegan', 'vegetarian',
-  'ignorant', 'divine', 'eccentric', 'gloomy', 'funny', 'safe', 'insured', 'cultist'. 'washed', 'mighty', 'depressed',
+  'ignorant', 'divine', 'eccentric', 'gloomy', 'funny', 'safe', 'insured', 'cultist', 'washed', 'mighty', 'depressed',
   'wild', 'hallowed', 'heavy', 'ghostly', 'sly', 'sneaky', 'flooded', 'waterlogged', 'stretchy', 'dodgy', 'slippery',
   'electrical', 'mature', 'immature', 'old', 'new', 'young', 'ancient', 'elderly', 'pythonic', 'poetic', 'oily', 'ageing',
   'growing', 'vile', 'disgusting', 'lovely', 'swampy', 'holy', 'radioactive', 'evolved', 'speedy', 'shimmering', 'drifting',
@@ -36,7 +36,7 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'femur', 'country', 'wasteland', 'behemoth', 'lich', 'gavel', 'basher', 'club', 'morningstar', 'heart', 'diamond',
   'pearl', 'ruby', 'python', 'topaz', 'aluminium', 'silver', 'nugget', 'obsidian', 'ghost', 'flood', 'peat', 'bog',
   'furnace', 'gauntlet', 'greave', 'bracer', 'slingshot', 'sun', 'star', 'shard', 'pen', 'coal', 'charcoal', 'flame',
-  'snake', 'code', 'party', 'literature', 'seed', 'fortress', 'lair', 'river', 'sea', 'adventure', 'campfire'
+  'snake', 'code', 'party', 'literature', 'seed', 'fortress', 'lair', 'river', 'sea', 'adventure', 'campfire',
   'voyage', 'odyssey', 'creed', 'hole', 'hangnail', 'lawn', 'fork', 'sunflower', 'blight', 'book', 'script', 'scroll',
   'future', 'wardrobe', 'throne', 'hypocrite', 'mockingbird', 'bowman', 'raider', 'scout', 'officer', 'lieutenant', 'general',
   'ninja', 'assassin', 'coffee', 'demon', 'angel', 'tooth', 'song', 'storm', 'warbow', 'caricature', 'race', 'pumpkin',
@@ -58,12 +58,12 @@ const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', '
   'aggression', 'lust', 'swordsmanship', 'dreams', 'daydreams', 'thievery', 'generosity', 'radiance', 'royalty', 'valor',
   'refreshment', 'revenge', 'vengeance', 'veganism', 'knowledge', 'ignorance', 'divinity', 'evolution', 'vegeterianism',
   'depression', 'insurance', 'protection', 'shielding', 'power', 'might', 'magic', 'wilderness', 'literacy', 'poetry', 'artwork',
-  'jealousy', 'fame', 'wealth', 'loneliness', 'youth', 'elderness', 'dread', 'disgust', 'advice', 'speed', 'unbreaking', 'glamour'
-  'radiation', 'hypocrisy', 'teleportation', 'tailoring', 'fighting', 'marriage', 'nobility', 'nostalgia', 'performance'
+  'jealousy', 'fame', 'wealth', 'loneliness', 'youth', 'elderness', 'dread', 'disgust', 'advice', 'speed', 'unbreaking', 'glamour',
+  'radiation', 'hypocrisy', 'teleportation', 'tailoring', 'fighting', 'marriage', 'nobility', 'nostalgia', 'performance',
   'raiding', 'mutation', 'reality', 'fantasies', 'embarrassment', 'humiliation', 'cruelty', 'guidance', 'brilliance', 'hatred',
   'innocence', 'accuracy', 'perception', 'endurance', 'charisma', 'strength', 'intelligence', 'dexterity', 'experience', 'scepticism',
   'flight', 'bravery', 'corruption', 'greed', 'temptation', 'sin', 'forgiveness', 'gratitude', 'alchemy', 'hope', 'foretelling',
-   'paralysis', 'lore', 'narcissism']
+  'paralysis', 'lore', 'narcissism']
 
 export const generate = ()=>{
   // generates a random party invite link name

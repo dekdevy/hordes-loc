@@ -4,7 +4,7 @@ export default [
     // Item description
     description: {
       en: 'Name says it all. Careful of the splinters.',
-      ru: 'Имя говорит само за себя. Осторожнее осколков.',
+      ru: 'Имя говорит само за себя. Остерегайтесь заноз.',
       es: 'La receta de fabricación es dos bloques de madera y un palo.',
       de: 'Der Name sagt alles. Vorsicht mit den Splittern.',
       fr: 'Le nom en dit long. Attention aux échardes.',
@@ -34,7 +34,7 @@ export default [
     name       : { en: 'Troll Blade' },
     description: {
       en: 'Am I being pranked?',
-      ru: 'меня высмеивают?',
+      ru: 'Меня тролят?',
       es: 'Los trolls usaron solo fe y bromas para hacer daño con sus armas ge guerra.',
       de: 'Werde ich verarscht?',
       fr: 'Suis-je victime d\'une farce?',
@@ -106,7 +106,7 @@ export default [
     name       : { en: 'Ghastly Scimitar' },
     description: {
       en: 'Diabolical curved blade. Even holding it makes you feel its dark essence.',
-      ru: 'Дьявольское изогнутое лезвие. Даже держа его, вы чувствуете его темную сущность.',
+      ru: 'Дьявольское изогнутое лезвие. Когда вы его держите, вы чувствуете его темную сущность.',
       es: 'Es una diabla curva. Incluso sostenerlo te hace sentir su oscura esencia.',
       de: 'Diabolisch geschwungene Klinge. Schon beim Halten spürt man seine dunkle Essenz.',
       fr: 'Lame diabolique incurvée. Même la tenir vous fait sentir son aura sombre.',
@@ -121,7 +121,7 @@ export default [
     name       : { en: 'Nullfire Sword' },
     description: {
       en: 'A cold-looking blade with a burning hot slice.',
-      ru: 'Холодный клинок с горячим нарезаm.',
+      ru: 'Холодный клинок с горячим надрезами.',
       es: 'Una cuchilla de aspecto frío con una rebanada ardiente y caliente.',
       de: 'Eine kalt aussehende Klinge mit einer brennend heißen Scheibe.',
       fr: 'Une epée froide à la lame ardante.',
@@ -150,7 +150,7 @@ export default [
     name       : { en: 'King\'s Glaive' },
     description: {
       en: 'Cylindrical sword stolen from an ancient king. Cutting capability is questionable.',
-      ru: 'Цилиндрический меч украден у древнего короля. Возможность резки сомнительна.',
+      ru: 'Цилиндрический меч украден у древнего короля. Возможность разрезки сомнительна.',
       fr: 'Épée cylindrique volée à un ancien roi. Sa capacité à trancher reste questionnable.',
       es: 'Espada cilíndrica robada a un antiguo rey. La capacidad de corte es cuestionable.',
       de: 'Zylindrisches Schwert, das einem alten König gestohlen wurde. Die Schneidfähigkeit ist fragwürdig.',
@@ -193,8 +193,8 @@ export default [
   { // T14 item
     name       : { en: 'Hearteater' },
     description: {
-      en: 'Cuts through your foes\' hearts. Eats them on the way.',
-      ru: 'Разрезает сердца ваших врагов. Eсть их по дороге.',
+      en: 'Cuts through your foes hearts. Eats them on the way.',
+      ru: 'Разрезает сердца ваших врагов. Eст их по дороге.',
       es: 'Corazón, un parte de un desayuno completo.',
       de: 'Schneidet die Herzen eurer Feinde durch. Frisst sie auf dem Weg.',
       fr: 'Elle tranche le cœur de vos ennemis et les déguste en chemin.',
@@ -224,7 +224,7 @@ export default [
     name       : { en: 'Excalibur' },
     description: {
       en: 'We were told it was pulled from stone. Still can\'t find the stone.',
-      ru: 'Нам сказали, что это было извлечено из камня. Все еще не можем найти камень.',
+      ru: 'Нам сказали, что он был извлечен из камня. Все еще не можем найти камень.',
       es: 'Se dice que era tomado de una roca. ¿Dónde está la roca?',
       de: 'Es kann Dämonen besiegen, aber keine Engel.',
       fr: 'La légende nous raconte qu\'elle fut extraite d\'une pierre. Introuvable, d\'ailleurs.',
