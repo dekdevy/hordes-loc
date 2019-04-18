@@ -116,7 +116,7 @@ export default [
       nl: 'Mollig in zijn uiterlijk, waarschijnlijk erg ongemakkelijk.',
       tr: 'Görünüşünde tıknaz, muhtemelen çok rahatsız edici.',
       pl: 'W swoim wyglądzie, prawdopodobnie bardzo niewygodny.'
-   }
+    }
   },
 
   {
