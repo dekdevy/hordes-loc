@@ -1,4 +1,4 @@
-var code = require('locale-code')
+const code = require('locale-code')
 import loc from './loc/loc.js'
 
 // First, collect all types of languages present, so we do not have to maintain a list
