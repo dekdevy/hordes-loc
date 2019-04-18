@@ -60,7 +60,7 @@ export default [
       pl: 'Ładny fioletowy plecak dla wszystkich Twoich potrzeb podróży.',
       ph: 'Nice purple rucksack para sa lahat ng iyong mga pangangailangan sa paglalakbay.',
       se: 'Trevlig lila ryggsäck för alla dina resebehov.'
-    
+
     }
   },
 
