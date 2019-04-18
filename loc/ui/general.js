@@ -10,7 +10,8 @@ export default {
     es: 'De acuerdo',
     tr: 'Tamam',
     nl: 'Okee',
-    pt: 'Está bem.'
+    pt: 'Está bem.',
+    pl: 'Dobrze.'
 
   },
   back: {
@@ -23,6 +24,7 @@ export default {
     es: 'Regresar',
     nl: 'Terug',
     tr: 'Geri',
-    pt: 'Voltar'
+    pt: 'Voltar',
+    pl: 'Popierać'
   }
 }

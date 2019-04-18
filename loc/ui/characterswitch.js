@@ -16,7 +16,8 @@ export default {
     ph: 'Mag-log Out',
     tr: 'Çıkış Yap',
     nl: 'Uitloggen',
-    pt: 'Terminar sessão'
+    pt: 'Terminar sessão',
+    pl: 'Wyloguj się'
   },
 
   home: {
@@ -35,6 +36,7 @@ export default {
     ph: 'Home page',
     tr: 'Anasayfa',
     nl: 'Thuis',
-    pt: 'voltar para inicio'
+    pt: 'voltar para inicio',
+    pl: 'Strona główna'
   }
 }
