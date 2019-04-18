@@ -44,9 +44,10 @@ const compile = (obj, lang, currentType, metrics)=>{
           metrics.hit++
           lang[key] = value[currentType]
         } else {
-          // if we have no translation, check whether english is present
-          // if neither $$ nor english is present, we go deeper
-          const fallback = value['$$'] || value['en'] || value
+          // if we have no translation, fall back to value
+          // fall back order: $$, en, any other
+          const fallback = value['$$'] || value['en'] || value[Object.keys(value)[0]]
+          if(!fallback) throw 'Error: emtpy translation:' + key
           // if it is not an untranslated, it is a missing translation
           if(value['$$'] === undefined) metrics.miss++
           lang[key] = fallback
