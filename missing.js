@@ -43,7 +43,7 @@ const findmissing = (obj, currentType, path)=>{
   })
 }
 
-// iterate languages and find missing 
+// iterate languages and find missing
 console.log('Finding missing translations...')
 const missing = new Map()
 languages.forEach(type => {
