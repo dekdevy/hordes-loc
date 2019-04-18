@@ -9,7 +9,8 @@ export default [
       de: 'Fast leicht. Du kannst wahrscheinlich etwas Besseres finden.',
       es: 'Casi ligero. Probablemente puedas encontrar algo mejor por aquí.',
       pt: 'Quase leve. Você pode provavelmente encontrar algo melhor ao redor.',
-      nl: 'Bijna lichtgewicht. Je kunt waarschijnlijk iets beters vinden.'
+      nl: 'Bijna lichtgewicht. Je kunt waarschijnlijk iets beters vinden.',
+      pl: 'Prawie lekka. Prawdopodobnie znajdziesz tu coś lepszego.'
     }
   },
 
@@ -22,7 +23,8 @@ export default [
       de: 'Du fühlst dich weniger geschickt, nur weil du das in deinen Händen hältst.',
       es: 'Te sientes menos hábil con sólo sostener esto en tus manos.',
       pt: 'Sentes-te menos hábil só por teres isto nas mãos.',
-      nl: 'Je voelt je minder bekwaam door dit in je handen te houden.'
+      nl: 'Je voelt je minder bekwaam door dit in je handen te houden.',
+      pl: 'Czujesz się mniej wykwalifikowany, trzymając to w swoich rękach.'
     }
   },
 
@@ -35,7 +37,8 @@ export default [
       de: 'Wer das auf dem Boden gelassen hat, hat wahrscheinlich kein schönes Ende gefunden.',
       es: 'Quienquiera que haya dejado esto en el suelo probablemente no tuvo un buen final.',
       pt: 'Quem quer que tenha deixado isto no chão, provavelmente não teve um final agradável.',
-      nl: 'Wie dit op de grond liet liggen, kwam waarschijnlijk niet aan een mooi einde.'
+      nl: 'Wie dit op de grond liet liggen, kwam waarschijnlijk niet aan een mooi einde.',
+      pl: 'Ktokolwiek zostawił to na ziemi, prawdopodobnie nie spotkał się z miłym końcem.'
     }
   },
 
@@ -48,7 +51,8 @@ export default [
       es: 'Un arma más avanzada. Bastante bonito de ver.',
       fr: 'Une arme plus avancée. Plutôt agréable à regarder.',
       pt: 'Uma arma mais avançada. Bastante agradável de se ver.',
-      nl: 'Een geavanceerder wapen. Leuk om naar te kijken.'
+      nl: 'Een geavanceerder wapen. Leuk om naar te kijken.',
+      pl: 'Bardziej zaawansowana broń. Całkiem nieźle się na nią patrzy.'
     }
   },
 
@@ -61,7 +65,8 @@ export default [
       de: 'Zusammen mit den Knochen von.... jemandem?',
       es: '¿Colocado con los huesos de... alguien?',
       pt: 'Juntos com os ossos de... alguém?',
-      nl: 'In elkaar gezet met de botten van.... iemand?'
+      nl: 'In elkaar gezet met de botten van.... iemand?',
+      pl: 'Złożone razem z kośćmi.... kogoś?'
     }
   },
 
@@ -74,7 +79,8 @@ export default [
       de: 'Ein Expertenbogen einer vergessenen Rasse.',
       es: 'Una reverencia experta de una raza olvidada.',
       pt: 'Um arco perito de uma raça esquecida.',
-      nl: 'Een deskundige boog van een vergeten race.'
+      nl: 'Een deskundige boog van een vergeten race.',
+      pl: 'Ekspercki łuk zapomnianej rasy.'
     }
   },
 
@@ -87,7 +93,8 @@ export default [
       es: 'Crudo, pero efectivo. Extrae su poder de la diminuta hoja adherida a él.',
       fr: 'Grossier, mais efficace. Tire son énergie de la petite feuille qui lui est attachée.',
       pt: 'Bruto, mas eficaz. Retira o seu poder da pequena folha que lhe está ligada.',
-      nl: 'Ruw, maar effectief. Trekt zijn kracht uit het kleine blaadje dat eraan vastzit.'
+      nl: 'Ruw, maar effectief. Trekt zijn kracht uit het kleine blaadje dat eraan vastzit.',
+      pl: 'Surowe, ale skuteczne. Wyciąga swoją moc z dołączonego do niego malutkiego liścia.'
     }
   },
 
@@ -100,7 +107,8 @@ export default [
       es: 'Quema al enemigo con la coloración roja más picante.',
       fr: 'Brûle ses ennemis avec la coloration rouge la plus épicée.',
       pt: 'Queima o inimigo com a mais picante das cores vermelhas.',
-      nl: 'Verbrandt de vijand met de scherpste rode kleur.'
+      nl: 'Verbrandt de vijand met de scherpste rode kleur.',
+      pl: 'Wypala wroga z najostrzejszym czerwonym zabarwieniem.'
     }
   },
 
@@ -113,7 +121,8 @@ export default [
       es: 'Un arco comúnmente usado por arqueros reales de bajo rango. Se integra bien con la vegetación.',
       fr: 'Un arc couramment utilisé par les archers royaux de bas rang. S\'intègre bien à la végétation.',
       pt: 'Um arco comumente usado por arqueiros reais de baixo escalão. Mistura-se bem com a vegetação.',
-      nl: 'Een boog die vaak gebruikt wordt door laaggeplaatste koninklijke boogschutters. Past goed in de vegetatie.'
+      nl: 'Een boog die vaak gebruikt wordt door laaggeplaatste koninklijke boogschutters. Past goed in de vegetatie.',
+      pl: 'Łuk powszechnie używany przez nisko sklasyfikowanych łuczników królewskich. Dobrze komponuje się z roślinnością.'
     }
   },
 
@@ -126,7 +135,8 @@ export default [
       es: 'Hecho con maestría por los bandidos de las capitales.',
       fr: 'Fabriqué avec brio par les bandits des capitales.',
       pt: 'Magistralmente trabalhado pelos bandidos das capitais.',
-      nl: 'Op meesterlijke wijze gemaakt door de bandieten van de hoofdsteden.'
+      nl: 'Op meesterlijke wijze gemaakt door de bandieten van de hoofdsteden.',
+      pl: 'Mistrzowsko wykonane przez bandytów ze stolic.'
     }
   },
 
@@ -139,7 +149,8 @@ export default [
       de: 'Ein seltener Bogen, der in den größten Kriegen verwendet wird. Beim Schießen hat man das Gefühl, dass der Himmel zusammenbrechen wird.',
       es: 'Un arco raro usado en la mayor de las guerras. Disparar te hace sentir como si el cielo se fuera a derrumbar.',
       pt: 'Um arco raro usado na maior das guerras. Atirar nele faz você sentir que os céus vão entrar em colapso.',
-      nl: 'Een zeldzame boog gebruikt in de grootste oorlogen. Door het schieten ervan krijg je het gevoel dat de hemel zal instorten.'
+      nl: 'Een zeldzame boog gebruikt in de grootste oorlogen. Door het schieten ervan krijg je het gevoel dat de hemel zal instorten.',
+      pl: 'Rzadki łuk używany w największych wojnach. Strzelanie do niego sprawia, że czujesz się, jakby niebo się zawaliło.'
     }
   },
 
@@ -152,7 +163,8 @@ export default [
       de: 'Was ist das? Was ist das? Ist es Eis? Die Welt wird es vielleicht nie erfahren....',
       es: '¿Qué es esto? ¿Es hielo? El mundo tal vez nunca lo sepa....',
       pt: 'O que é isso? É gelo? O mundo pode nunca saber...',
-      nl: 'Wat is het? Is het ijs? De wereld zal misschien nooit weten....'
+      nl: 'Wat is het? Is het ijs? De wereld zal misschien nooit weten....',
+      pl: 'Co to jest? Czy to lód? Świat może nigdy się nie dowiedzieć....'
     }
   },
 
@@ -165,7 +177,8 @@ export default [
       es: 'Mata tan maravillosamente como parece.',
       fr: 'Ça tue aussi joliment que ça en a l\'air.',
       pt: 'Mata tão bem como parece.',
-      nl: 'Doodt net zo mooi als het eruit ziet.'
+      nl: 'Doodt net zo mooi als het eruit ziet.',
+      pl: 'Zabija tak pięknie, jak wygląda.'
     }
   },
 
@@ -178,7 +191,8 @@ export default [
       es: 'Rodeado de un aura espantosa. El viento sopla en la dirección en que lo apuntas.',
       fr: 'Entouré d\'une aura affreuse. Le vent souffle dans la direction que vous visez.',
       pt: 'Rodeado por uma aura horrível. O vento sopra na direção que você aponta.',
-      nl: 'Omringd door een afschuwelijke aura. De wind waait in de richting waarin je hem richt.'
+      nl: 'Omringd door een afschuwelijke aura. De wind waait in de richting waarin je hem richt.',
+      pl: 'Otoczony upiorną aurą. Wiatr wieje w kierunku, w którym go celujesz.'
     }
   },
 
@@ -191,7 +205,8 @@ export default [
       es: 'Tan aterrador que pocos tienen la coraje para sostenerlo.',
       fr: 'Une arme si effrayante que peu de gens ont le courage de la brandir.',
       pt: 'Tão assustador que poucos têm a coragem de o segurar.',
-      nl: 'Zo eng dat weinigen het lef hebben om het vast te houden.'
+      nl: 'Zo eng dat weinigen het lef hebben om het vast te houden.',
+      pl: 'Tak przerażające, że niewielu ma odwagę, by to utrzymać.'
     }
   },
 
@@ -204,7 +219,8 @@ export default [
       es: 'Envueltos en una furia primigenia, tus enemigos tiemblan al ver esta arma. Pew Pew Pew es lo último que oirán.',
       fr: 'Encastrés dans une rage primitive, vos ennemis tremblent à la vue de cette arme. Pew pew pew est la dernière chose qu\'ils n\'entendront jamais.',
       pt: 'Embebidos em uma raiva primária, seus inimigos tremem ao ver esta arma. O banco de bancos é a última coisa que eles vão ouvir.',
-      nl: 'Ingebed in een oerwoede, beven je vijanden bij het zien van dit wapen. Pew pew is het laatste wat ze ooit zullen horen.'
+      nl: 'Ingebed in een oerwoede, beven je vijanden bij het zien van dit wapen. Pew pew is het laatste wat ze ooit zullen horen.',
+      pl: 'Osadzeni w pierwotnej wściekłości, twoi wrogowie drżą na widok tej broni. Pew pewna ławka jest ostatnią rzeczą, jaką kiedykolwiek usłyszą.'
     }
   }
 
