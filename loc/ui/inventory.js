@@ -17,6 +17,6 @@ export default {
     el: 'καταγραφή εμπορευμάτων',
     ja: '在庫',
     ph: 'imbentaryo',
-    se: 'lager'
+    sv: 'lager'
   }
 }

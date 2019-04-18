@@ -9,7 +9,8 @@ export default {
     fr: 'paramétrage',
     nl: 'instellingen',
     tr: 'ayarlar',
-    pt: 'Ajustes'
+    pt: 'Ajustes',
+    pl: 'nastawy'
   },
 
   // controls section of settings menu
@@ -22,7 +23,8 @@ export default {
     fr: 'commandes',
     tr: 'kontroller',
     nl: 'bediening',
-    pt: 'controles'
+    pt: 'controles',
+    pl: 'kontrole'
   },
 
   lockedcamera: {
@@ -34,7 +36,8 @@ export default {
     fr: 'Caméra verrouillée',
     tr: 'Kilitli kamera',
     nl: 'Gesloten camera',
-    pt: 'câmera bloqueada'
+    pt: 'câmera bloqueada',
+    pl: 'Zamknięta kamera'
   },
 
   graphics: {
@@ -46,7 +49,8 @@ export default {
     fr: 'schémas',
     nl: 'grafischen',
     tr: 'grafikler',
-    pt: 'gráficos'
+    pt: 'gráficos',
+    pl: 'grafika'
   },
 
   resolution: {
@@ -58,7 +62,8 @@ export default {
     fr: 'Résolution',
     nl: 'Resolution',
     tr: 'Çözünürlük',
-    pt: 'Resolução'
+    pt: 'Resolução',
+    pl: 'Rozdzielczość'
   },
 
   skilleffects: {
@@ -70,7 +75,8 @@ export default {
     fr: 'Effets de compétences',
     nl: 'Vaardigheidseffecten',
     tr: 'Yetenek efektleri',
-    pt: 'Efeitos de habilidade'
+    pt: 'Efeitos de habilidade',
+    pl: 'Efekty umiejętności'
   },
 
   shadow: {
@@ -82,7 +88,8 @@ export default {
     fr: 'Qualité de l\'ombre',
     nl: 'Schaduwkwaliteit',
     tr: 'Gölge kalitesi',
-    pt: 'Qualidade de sombras'
+    pt: 'Qualidade de sombras',
+    pl: 'Jakość cienia'
   },
 
   grassamount: {
@@ -94,7 +101,8 @@ export default {
     fr: 'Quantité d\'herbe',
     nl: 'Grasbedrag',
     tr: 'Çim miktarı',
-    pt: 'Quantidade de grama'
+    pt: 'Quantidade de grama',
+    pl: 'Ilość trawy'
   },
 
   chat: {
@@ -106,7 +114,8 @@ export default {
     fr: 'clavardage',
     nl: 'praten',
     tr: 'sohbet',
-    pt: 'bate-papo'
+    pt: 'bate-papo',
+    pl: 'pogawędka'
   },
 
   chatwidth: {
@@ -118,7 +127,8 @@ export default {
     fr: 'Largeur du chat',
     nl: 'Chatbreedte',
     tr: 'Chat genişliği',
-    pt: 'Largura do chat'
+    pt: 'Largura do chat',
+    pl: 'Szerokość rozmowy'
   },
 
   chatheight: {
@@ -130,7 +140,8 @@ export default {
     fr: 'Hauteur de clavardage',
     nl: 'Chathoogte',
     tr: 'Chat yükskliği',
-    pt: 'Altura do chat'
+    pt: 'Altura do chat',
+    pl: 'Wysokość rozmowy'
   },
 
   tutorial: {
@@ -142,7 +153,8 @@ export default {
     fr: 'didacticiel',
     nl: 'handleiding',
     tr: 'öğretici',
-    pt: 'tutorial'
+    pt: 'tutorial',
+    pl: 'przewodnik'
   },
 
   reset: {
@@ -154,7 +166,7 @@ export default {
     fr: 'Réinitialiser le tutoriel',
     nl: 'Gereset les',
     tr: 'Öğreticiyi sıfırla',
-    pt: 'tutorial de reset'
+    pt: 'tutorial de reset',
+    pl: 'resetowanie samouczka'
   }
-
 }
