@@ -1,6 +1,6 @@
 export default [
   {//T1
-    name       : {en: 'Simple Bracelet' },
+    name       : {$$: 'Simple Bracelet' },
     description: {
       en: 'Cheap leather band bought by an ambitious farmer.',
       ru: 'Дешевый кожаный ремешок, купленный амбициозным фермером',
@@ -18,7 +18,7 @@ export default [
   },
 
   {//T2
-    name       : {en: 'Makeshift Brace' },
+    name       : {$$: 'Makeshift Brace' },
     description: {
       en: 'Skilled hands made an intricate job at making this homemade cuff.',
       ru: 'Опытные руки сделали сложную работу по изготовлению этой самадельной манжеты',
@@ -35,7 +35,7 @@ export default [
   },
 
   {//T3
-    name       : {en: 'Leather Armlet' },
+    name       : {$$: 'Leather Armlet' },
     description: {
       en: 'Stiff, makes your arm sore.',
       ru: 'Тугие на столько что, твоя рука начинает опухать.',
@@ -52,7 +52,7 @@ export default [
   },
 
   {//T4
-    name       : {en: 'Ivory Bracelet' },
+    name       : {$$: 'Ivory Bracelet' },
     description: {
       en: 'Elegant cuff made from the tusks of the last mammoth.',
       ru: 'Элегантная манжета из бивней последнего мамонта.',
@@ -69,7 +69,7 @@ export default [
   },
 
   {//T5
-    name       : {en: 'Iron Vambrace' },
+    name       : {$$: 'Iron Vambrace' },
     description: {
       en: 'Heavy on your arm... worth the protection.',
       ru: 'Тяжёлые ... но стоят своей защиты.',
@@ -86,7 +86,7 @@ export default [
   },
 
   {//T6
-    name       : {en: 'Imbued Bracers' },
+    name       : {$$: 'Imbued Bracers' },
     description: {
       en: 'Dull metal bracer, handy for nighttime raiding.',
       ru: 'Тусклый металлический браслет, удобный для ночных рейдов.',
@@ -104,7 +104,7 @@ export default [
   },
 
   {//T7
-    name       : {en: 'Ember Cuffs' },
+    name       : {$$: 'Ember Cuffs' },
     description: {
       en: 'Scaled bracer, makes your arms resemble that of a dragon.',
       ru: 'Чешуйчатый наруч, делает ваши руки похожими на руки дракона.',
@@ -121,7 +121,7 @@ export default [
   },
 
   {//T8
-    name       : {en: 'Mirrored Armlet' },
+    name       : {$$: 'Mirrored Armlet' },
     description: {
       en: 'Blinds your foes with a magical shine off a devious magicians mirror...',
       ru: 'Ослепляет ваших врагов блеском искривлённого магического зеркала ...',
@@ -138,7 +138,7 @@ export default [
   },
 
   {//T9
-    name       : {en: 'Golem Fragment' },
+    name       : {$$: 'Golem Fragment' },
     description: {
       en: 'The archaic guardians left remnants of their passing, which you unscrupulously have decided to wear on your arm.',
       ru: 'Архаичные стражи оставили остатки своих похождений, которые вы бессовестно решили надеть на руку.',
@@ -155,7 +155,7 @@ export default [
   },
 
   {//T10
-    name       : {en: 'Coldforged Bracer' },
+    name       : {$$: 'Coldforged Bracer' },
     description: {
       en: 'The deceptively light steel offers chilling protection against sneaky blows.',
       ru: 'Обманчиво легкая сталь предлагает охлаждающую защиту от подлых ударов.',
@@ -172,7 +172,7 @@ export default [
   },
 
   {//T11
-    name       : {en: 'Blackstar Gem' },
+    name       : {$$: 'Blackstar Gem' },
     description: {
       en: 'Stars are not often black, yet this fragment has a... deep... deep darkness.',
       ru: 'Звезды не часто черны, но этот фрагмент имеет... глубокую... глубокую тьму.',
@@ -189,7 +189,7 @@ export default [
   },
 
   {//T12
-    name       : {en: 'Eternal Vambraces' },
+    name       : {$$: 'Eternal Vambraces' },
     description: {
       en: 'Reforged, lost, found, stolen, hidden for eras without end.',
       ru: 'Перекован, потерян, найден, украден, спрятан на века без конца.',
@@ -205,7 +205,7 @@ export default [
   },
 
   {//T13
-    name       : {en: 'Lost Guardian' },
+    name       : {$$: 'Lost Guardian' },
     description: {
       en: 'This item was forged on a full moon when mysterious incantations were heard in the whispers of the dark. Some say that it was Anubis himself speaking with the dead.',
       ru: 'Этот предмет был выкован в полнолуние, когда в шепот темноты раздавались таинственные заклинания. Некоторые говорят, что это был сам Анубис, говорящий с мертвыми.',

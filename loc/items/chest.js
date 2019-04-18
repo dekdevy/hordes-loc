@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {en: 'Potato Sack' },
+    name       : {$$: 'Potato Sack' },
     description: {
       en: 'Sack stiff with starch making you feel dirty and dishevelled.',
       ru: 'Грубый накрахмаленный мешок заставляет чувствовать вас грязным и взъерошенным.',
@@ -14,7 +14,7 @@ export default [
   },
 
   {
-    name       : {en: 'Faded Garment' },
+    name       : {$$: 'Faded Garment' },
     description: {
       en: 'Leather shirt, faded from wear and tear.',
       ru: 'Кожаная рубашка, выцветшая из-за износа.',
@@ -28,7 +28,7 @@ export default [
   },
 
   {
-    name       : {en: 'Adventurer\'s Tunic' },
+    name       : {$$: 'Adventurer\'s Tunic' },
     description: {
       en: 'Knobbly soft iron tunic, passed on from many generations of adventurers passing over these lands.',
       ru: 'Изогнутая мягкая железная туника, переданная от многих поколений искателей приключений, проходящих по этим землям.',
@@ -42,7 +42,7 @@ export default [
   },
 
   {
-    name       : {en: 'Quilted Leather' },
+    name       : {$$: 'Quilted Leather' },
     description: {
       en: 'This fabric isn\'t much, but it might stop an arrow or two.',
       ru: 'Эта ткань не очень, но она может остановить стрелу или две.',
@@ -56,7 +56,7 @@ export default [
   },
 
   {
-    name       : {en: 'Scaled Chestguard' },
+    name       : {$$: 'Scaled Chestguard' },
     description: {
       en: 'Hard suit made from scales taken from a mighty dragon that once roaming these lands.',
       ru: 'Жесткий костюм из чешуи, взятой у могучего дракона, когда-то бродившего по этим землям.',
@@ -70,7 +70,7 @@ export default [
   },
 
   {
-    name       : {en: 'Sky Cloak' },
+    name       : {$$: 'Sky Cloak' },
     description: {
       en: 'Rumours say its made from clouds...',
       ru: 'Слухи говорят, что она сделана из облаков...',
@@ -84,7 +84,7 @@ export default [
   },
 
   {
-    name       : {en: 'Shadow Cloak' },
+    name       : {$$: 'Shadow Cloak' },
     description: {
       en: 'The wearer blends in nicely with the shadows... or so the thieves think.',
       ru: 'Носитель отлично сливаеться с тенью... или так думают воры.',
@@ -98,7 +98,7 @@ export default [
   },
 
   {
-    name       : {en: 'Obsidian Cloak' },
+    name       : {$$: 'Obsidian Cloak' },
     description: {
       en: 'Forged by unknown magicians, you wear a deep, dark and powerful chestplate.',
       ru: 'Выкованный неизвестными магами, вы носите глубокий, темный и мощный нагрудник.',
@@ -112,7 +112,7 @@ export default [
   },
 
   {
-    name       : {en: 'Hellfire Cloak' },
+    name       : {$$: 'Hellfire Cloak' },
     description: {
       en: 'Forged from the depths of hell, it provides protection for your weak, fleshy body.',
       ru: 'Выкованный из глубин ада, он обеспечивает защиту вашему слабому, мясистому телу.',
@@ -126,7 +126,7 @@ export default [
   },
 
   {
-    name       : {en: 'Soulkeeper' },
+    name       : {$$: 'Soulkeeper' },
     description: {
       en: 'When enemies are slain, their souls are added to the wielder\'s collection.',
       ru: 'Когда враги убиты, их души добавляются в коллекцию владельца.',
@@ -140,7 +140,7 @@ export default [
   },
 
   {
-    name       : {en: 'Deathless' },
+    name       : {$$: 'Deathless' },
     description: {
       en: 'Rumours say that the wearer is immortal. Unfortunately this armour can only be found on corpses of the slain.',
       ru: 'Слухи говорят, что владелец бессмертен. К сожалению, эту броню можно найти только на трупах убитых.',

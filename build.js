@@ -8,6 +8,7 @@ const findLang = (obj, types)=>{
   // iterates object props recursively
   Object.entries(obj).forEach( prop => {
     const [langType, string] = prop
+    if(langType == '$$') return
     // check whether value is object or string
     if(typeof string  === 'object') {
       // if object, iterate recursively
@@ -32,6 +33,7 @@ const compile = (obj, lang, currentType, metrics)=>{
   // iterate object props recursively
   Object.entries(obj).forEach( prop => {
     const [key, value] = prop
+    if(key == '$$') return
     // check whether value is object or string
     if(typeof value  === 'object') {
       // if object, check whether object has strings as children
@@ -42,10 +44,12 @@ const compile = (obj, lang, currentType, metrics)=>{
           metrics.hit++
           lang[key] = value[currentType]
         } else {
-        // if we have no translation, check whether english is present
-        // otherwise use whatever
-          metrics.miss++
-          lang[key] = value['en'] || value
+          // if we have no translation, check whether english is present
+          // if neither $$ nor english is present, we go deeper
+          const fallback = value['$$'] || value['en'] || value
+          // if it is not an untranslated, it is a missing translation
+          if(value['$$'] === undefined) metrics.miss++
+          lang[key] = fallback
         }
       } else {
         // no strings as children, meaning we should iterate deeper

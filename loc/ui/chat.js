@@ -81,12 +81,12 @@ export default {
 
   // translations not needed
   twitter: {
-    en: 'TW'
+    $$: 'TW'
   },
 
   // translations not needed
   discord: {
-    en: 'Discord'
+    $$: 'Discord'
   }
 
 }

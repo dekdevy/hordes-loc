@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {en: 'Hand Wraps' },
+    name       : {$$: 'Hand Wraps' },
     description: {
       en: 'Straps of leather covering your feeble hands. Pulling the bowstring is much easier for you now.',
       ru: 'Ремешки из кожи покрывают ваши слабые руки. Натягивать тетиву теперь намного проще.',
@@ -13,7 +13,7 @@ export default [
   },
 
   {
-    name       : {en: 'Cloth Mitts' },
+    name       : {$$: 'Cloth Mitts' },
     description: {
       en: 'Spun yarn from stolen sheep makes these warm gloves a pleasure to wear.',
       ru: 'Пряжа из украденных овец делает эти теплые перчатки приятно носить.',
@@ -26,7 +26,7 @@ export default [
   },
 
   {
-    name       : {en: 'Leather Gloves' },
+    name       : {$$: 'Leather Gloves' },
     description: {
       en: 'Your fingers can barely move in these stiff leather mitts.',
       ru: 'Ваши пальцы могут едва двигаться в этих жестких кожаных перчатках.',
@@ -39,7 +39,7 @@ export default [
   },
 
   {
-    name       : {en: 'Bone Grips' },
+    name       : {$$: 'Bone Grips' },
     description: {
       en: 'Clacking sounds travel with you as you wear these.',
       ru: 'Клацающие звуки путешествуют с вами когда вы носите эти перчатки.',
@@ -52,7 +52,7 @@ export default [
   },
 
   {
-    name       : {en: 'Iron Gauntlets' },
+    name       : {$$: 'Iron Gauntlets' },
     description: {
       en: 'Soft-iron gloves provide a little more protection, although your hands are cold now.',
       ru: 'Железные перчатки обеспечивают немного больше защиты, хотя вашим рукам теперь холодно.',
@@ -65,7 +65,7 @@ export default [
   },
 
   {
-    name       : {en: 'Imbued Gloves' },
+    name       : {$$: 'Imbued Gloves' },
     description: {
       en: 'Mitts made out of unknown material... it shines...',
       ru: 'Рукавицы, сделанные из неизвестного материала ... оно сияет ...',
@@ -78,7 +78,7 @@ export default [
   },
 
   {
-    name       : {en: 'Wartorn Mitts' },
+    name       : {$$: 'Wartorn Mitts' },
     description: {
       en: 'Some war general must have dropped these...probably unintentionally too.',
       ru: 'Какой-то военный генерал, должно быть, уронил их... возможно, нечаянно.',
@@ -91,7 +91,7 @@ export default [
   },
 
   {
-    name       : {en: 'Fiery Handguards' },
+    name       : {$$: 'Fiery Handguards' },
     description: {
       en: 'Fire is no match for your hands as you wear these emerald mitts.',
       ru: 'Огонь не враг для ваших рук когда вы носите эти изумрудные перчатки.',
@@ -104,7 +104,7 @@ export default [
   },
 
   {
-    name       : {en: 'Gloves of Empowerment' },
+    name       : {$$: 'Gloves of Empowerment' },
     description: {
       en: 'Gives a false sense of power.',
       ru: 'Дает ложное чувство силы.',
@@ -117,7 +117,7 @@ export default [
   },
 
   {
-    name       : {en: 'Coldforged Fists' },
+    name       : {$$: 'Coldforged Fists' },
     description: {
       en: 'Forged without heat, worn without fear.',
       ru: 'Кованые без огня, носите без страха.',
@@ -130,7 +130,7 @@ export default [
   },
 
   {
-    name       : {en: 'Eternal Gauntlets' },
+    name       : {$$: 'Eternal Gauntlets' },
     description: {
       en: 'Gloves sought by warriors for eras on end...at last...it is found.',
       ru: 'Перчатки разыскиваемые воинами на протяжении эпох... наконец... нашлись.',
@@ -143,7 +143,7 @@ export default [
   },
 
   {
-    name       : {en: 'Gloves of Midas' },
+    name       : {$$: 'Gloves of Midas' },
     description: {
       en: 'Rumours say that a touch from these gloves turns your foes into gold...your hand is strangely heavy...',
       ru: 'Слухи говорят, что прикосновение этих перчаток превращает твоих врагов в золото... твоя рука странно тяжелая ...',
@@ -156,7 +156,7 @@ export default [
   },
 
   {
-    name       : {en: 'Titans Mitts' },
+    name       : {$$: 'Titans Mitts' },
     description: {
       en: 'Gloves so powerful in their nature that the very air shimmers as you wave your hand.',
       ru: 'Перчатки настолько мощные по своей природе, что сам воздух мерцает, когда вы машете рукой.',

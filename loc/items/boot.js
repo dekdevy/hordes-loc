@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {en: 'Sandals' },
+    name       : {$$: 'Sandals' },
     description: {
       en: 'At least you\'re wearing something on those feet.',
       ru: 'По крайней мере, вы хоть что-то носите на своих ногах.',
@@ -13,7 +13,7 @@ export default [
   },
 
   {
-    name       : {en: 'Cloth Footpads' },
+    name       : {$$: 'Cloth Footpads' },
     description: {
       en: 'Soles made from cloth, will probably tear after a few hours.',
       ru: 'Подошвы сделанные из ткани, вероятно, порвутся через несколько часов.',
@@ -26,7 +26,7 @@ export default [
   },
 
   {
-    name       : {en: 'Leather Boots' },
+    name       : {$$: 'Leather Boots' },
     description: {
       en: 'The soft leather is said to be stripped off wild boars roaming the eerie woods.',
       ru: 'Говорят, что мягкую кожу сняли с кабанов, бродящих по жутким лесам.',
@@ -39,7 +39,7 @@ export default [
   },
 
   {
-    name       : {en: 'Bone Greaves' },
+    name       : {$$: 'Bone Greaves' },
     description: {
       en: 'Clearly lacking in imagination, the maker made boots from the bones of a very large creature...',
       ru: 'Очевидно, что у создателя не хватает воображения, он сделал сапоги из костей очень крупного существа ...',
@@ -52,7 +52,7 @@ export default [
   },
 
   {
-    name       : {en: 'Scaled Treads' },
+    name       : {$$: 'Scaled Treads' },
     description: {
       en: 'Mysterious scales cover the outside of your footwear, catching glares in the sun.',
       ru: 'Загадочная чешуя покрывает внешнюю сторону обуви, улавливая блики на солнце.',
@@ -65,7 +65,7 @@ export default [
   },
 
   {
-    name       : {en: 'Patterned Greaves' },
+    name       : {$$: 'Patterned Greaves' },
     description: {
       en: 'A pleasant pattern made to paralyze your foes... wonder if it works.',
       ru: 'Приятный узор, созданный, чтобы парализовать ваших врагов... интересно, работает ли он',
@@ -78,7 +78,7 @@ export default [
   },
 
   {
-    name       : {en: 'Wartorn Boots' },
+    name       : {$$: 'Wartorn Boots' },
     description: {
       en: 'Taken from war veterans who clearly didn\'t find enough protection from these greaves.',
       ru: 'Взято у ветеранов войны, которые явно не нашли достаточной защиты от этих наголенников.',
@@ -91,7 +91,7 @@ export default [
   },
 
   {
-    name       : {en: 'Imbued Treads' },
+    name       : {$$: 'Imbued Treads' },
     description: {
       en: 'Chunky in its looks, probably very uncomfortable.',
       ru: 'Состоят из блочных кусков, наверное, очень неудобные',
@@ -104,7 +104,7 @@ export default [
   },
 
   {
-    name       : {en: 'Skyswift Boots' },
+    name       : {$$: 'Skyswift Boots' },
     description: {
       en: 'Run as quick as the wind... or close to it.',
       ru: 'Беги так быстро, как ветер... ну или близко к нему',
@@ -117,7 +117,7 @@ export default [
   },
 
   {
-    name       : {en: 'Coldforged Greaves' },
+    name       : {$$: 'Coldforged Greaves' },
     description: {
       en: 'Forged without heat, runs without stumble.',
       ru: 'Кованые без огня, беги не спотыкайся',
@@ -130,7 +130,7 @@ export default [
   },
 
   {
-    name       : {en: 'Cloudrunner Treads' },
+    name       : {$$: 'Cloudrunner Treads' },
     description: {
       en: 'Some say you can run on clouds with these. The few that have tried have already ascended.',
       ru: 'Некоторые говорят, что с этими ботинками можно бегать по облакам. Те немногие, кто пытался, уже вознеслись.',
@@ -143,7 +143,7 @@ export default [
   },
 
   {
-    name       : {en: 'Boots of Hermes' },
+    name       : {$$: 'Boots of Hermes' },
     description: {
       en: 'Ancient boots rumoured to be stolen from the feet of the Roman messenger god...',
       ru: 'По слухам, древние сапоги были украдены с ног римского бога-вестника ...',
@@ -156,7 +156,7 @@ export default [
   },
 
   {
-    name       : {en: 'Starshard Greaves' },
+    name       : {$$: 'Starshard Greaves' },
     description: {
       en: 'Stars were always considered to be almighty, now they\'re yours.',
       ru: 'Звезды всегда считались всемогущими, теперь они твои',
