@@ -64,7 +64,7 @@ export default [
     description: {
       en: 'Radiant titian glass-like gem revealing your foes\' hidden secrets.',
       es: 'Luminoso gema en forma de vidrio que revela los secretos ocultos de tus enemigos.',
-      ru: 'Сияющий титьяновый стеклянный драгоценный камень, раскрывающий секреты ваших врагов.',
+      ru: 'Сияющий титьяновый стеклянный драгоценный камень, раскрывающий скрытые секреты ваших врагов.',
       de: 'Strahlender titianischer glasartiger Edelstein, der die verborgenen Geheimnisse deiner Feinde enthüllt.',
       fr: 'Gemme de verre titien rayonnante révélant les secrets cachés de vos ennemis.',
       nl: 'Stralend Titiaans-achtig glasachtig juweel dat verborgen geheimen van je vijanden onthult.'
