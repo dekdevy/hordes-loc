@@ -13,7 +13,7 @@ export default {
     },
     choices: [{
       en: 'Please bring me to $1.',
-      ru: 'Пожалуйста, принеси мне k $1.',
+      ru: 'Пожалуйста, перенеси меня k $1.',
       fr: 'Apportez-moi vers le 1$, s\'il-vous plaît.',
       hi: 'हम दूसरे स्थानो का द्वार खोल सकते। कहा जाना चाहते हो तुम?',
       de: 'Bitte bring mich auf $1.',
