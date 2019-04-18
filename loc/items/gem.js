@@ -8,7 +8,8 @@ export default [
       de: 'Klein und scharf, hinterlässt dieser Anhänger im Kampf flache Kratzer auf der Haut.',
       fr: 'Petit et pointu, ce pendentif laisse des éraflures peu profondes sur votre peau pendant le combat.',
       nl: 'Klein en scherp, deze hanger laat ondiepe schrammen achter op je huid tijdens een gevecht.',
-      pl: 'Mały i ostry wisior pozostawia płytkie zadrapania na skórze podczas walki.'
+      pl: 'Mały i ostry wisior pozostawia płytkie zadrapania na skórze podczas walki.',
+      pt: 'Pequeno e afiado, este pingente deixa marcas rasas na sua pele durante a batalha.'
     }
   },
 
@@ -21,7 +22,8 @@ export default [
       de: 'Grober scheibenförmiger grauer Stein mit seltsamen druidischen Gravuren, die ihn umgeben.',
       fr: 'Pierre grise brute en forme de disque avec d\'étranges gravures druidiques qui l\'entourent.',
       nl: 'Ruwe schijf-vormige grijze steen met vreemde druïdische gravures die het omhullen.',
-      pl: 'Szary kamień w kształcie dysku z dziwnymi druidycznymi rycinami, które go otaczają.'
+      pl: 'Szary kamień w kształcie dysku z dziwnymi druidycznymi rycinami, które go otaczają.',
+      pt: 'Pedra cinzenta em forma de disco rugoso com estranhas gravuras druídicas que a rodeiam'
     }
   },
 
@@ -34,7 +36,8 @@ export default [
       de: 'Kraftvoller transparenter Glas-Talisman, schwacher Violett-Ton zeigt Ihnen die Welt in einem melancholischen Licht. ',
       fr: 'Puissant talisman en verre transparent, légèrement violet teinté de violet te montre le monde dans une lumière mélancolique.',
       nl: 'Krachtige transparante glazen talisman, een vage paarse tint laat je de wereld zien in een melancholisch licht.',
-      pl: 'Mocny przezroczysty szklany talizman, słaby fioletowy odcień pokazuje świat w melancholijnym świetle.'
+      pl: 'Mocny przezroczysty szklany talizman, słaby fioletowy odcień pokazuje świat w melancholijnym świetle.',
+      pt: 'Poderoso talismã de vidro transparente, o tingimento púrpura fraco mostra-lhe o mundo numa luz melancólica.'
     }
   },
 
@@ -47,7 +50,8 @@ export default [
       de: 'Brauner, entsättigter Edelstein, der faulige Gerüche abgibt, wenn man ihn um den Hals trägt.',
       fr: 'Bijou brun désaturé, émettant des senteurs putrides lorsque vous le portez autour de votre cou.',
       nl: 'Bruine desaturated edelsteen, die rottende geuren afgeeft terwijl je het om je nek draagt.',
-      pl: 'Brązowy, mniej nasycony klejnot, wydzielający zgniłe zapachy, gdy nosisz go na szyi.'
+      pl: 'Brązowy, mniej nasycony klejnot, wydzielający zgniłe zapachy, gdy nosisz go na szyi.',
+      pt: 'Jóia marrom desaturada, emitindo cheiros fétidos ao usá-la ao redor do pescoço.'
     }
   },
 
@@ -60,7 +64,8 @@ export default [
       de: 'Glänzend blaues Artefakt, freiliegende, wischig weiße Adern, die entlang seiner kugelförmigen Oberfläche verlaufen.',
       fr: 'Artefact bleu lustré, veines blanches et brillantes le long de sa surface sphérique.',
       nl: 'Lustrous blue artefact, blootgestelde wispy witte aders die langs zijn bolvormige oppervlak lopen.',
-      pl: 'Świecący artefakt w kolorze niebieskim, odsłonięte białe żyły biegnące wzdłuż jego kulistej powierzchni.'
+      pl: 'Świecący artefakt w kolorze niebieskim, odsłonięte białe żyły biegnące wzdłuż jego kulistej powierzchni.',
+      pt: 'Artefacto azul lustroso, veias brancas expostas e esbranquiçadas ao longo da sua superfície esférica.'
     }
   },
 
@@ -73,7 +78,8 @@ export default [
       de: 'Strahlender titianischer glasartiger Edelstein, der die verborgenen Geheimnisse deiner Feinde enthüllt.',
       fr: 'Gemme de verre titien rayonnante révélant les secrets cachés de vos ennemis.',
       nl: 'Stralend Titiaans-achtig glasachtig juweel dat verborgen geheimen van je vijanden onthult.',
-      pl: 'Wspaniałe tytan figura szklana gem ujawniający ukryte sekrety twoich wrogów.'
+      pl: 'Wspaniałe tytan figura szklana gem ujawniający ukryte sekrety twoich wrogów.',
+      pt: 'Uma jóia radiante de vidro ticiano que revela os segredos escondidos dos teus inimigos.'
     }
   },
 
@@ -86,7 +92,8 @@ export default [
       de: 'Großartiges rotes Juwel, umgeben von dunklen Rissen im Abgrund, das deinen Feinden ein Gefühl der Eifersucht verleiht.',
       fr: 'Grand joyau rouge enfermé dans des fissures sombres de l\'abîme, donnant à vos ennemis un sentiment de jalousie.',
       nl: 'Een groot rood juweel, ingesloten in donkere kloven in de afgrond, waardoor je vijanden een gevoel van jaloezie krijgen.',
-      pl: 'A great red jewel locked in the abyss of dark cracks, giving enemies a sense of jealousy.'
+      pl: 'Wielki czerwony klejnot zamknięty w ciemnych pęknięciach w otchłani, dający wrogom uczucie zazdrości.',
+      pt: 'Grande jóia vermelha encerrada em fissuras escuras no abismo, dando aos seus inimigos uma sensação de ciúmes'
     }
   },
 
@@ -99,7 +106,8 @@ export default [
       de: 'Die scharfen grünen Kanten fangen funkelndes Licht in der Sonne ein und machen einen schönen und tödlichen Anblick.',
       fr: 'Les arêtes vertes vives captent la lumière étincelante du soleil, ce qui en fait un spectacle magnifique et mortel.',
       nl: 'De scherpe groene randen vangen het sprankelende licht op in de zon, waardoor een mooi en dodelijk zicht ontstaat.',
-      pl: 'Ostre zielone krawędzie łapią błyszczące światło w słońcu, tworząc piękny i zabójczy widok.'
+      pl: 'Ostre zielone krawędzie łapią błyszczące światło w słońcu, tworząc piękny i zabójczy widok.',
+      pt: 'As bordas verdes afiadas captam luz cintilante no sol, fazendo uma visão bela e mortal.'
     }
   },
 
@@ -112,7 +120,8 @@ export default [
       de: 'Klein, glatt und dunkel, besitzt dieses Juwel tückische Eigenschaften, während es aus den Händen seiner Besitzer rutscht...',
       fr: 'Petit, lisse et sombre, ce joyau possède des traits traîtres lorsqu\'il glisse de ses mains de manieur....',
       nl: 'Klein, glad en donker, dit juweel heeft verraderlijke eigenschappen als het uit zijn handen glijdt....',
-      pl: 'Mały, gładki i ciemny, ten klejnot posiada zdradzieckie cechy, ponieważ zsuwa się z rąk władców...'
+      pl: 'Mały, gładki i ciemny, ten klejnot posiada zdradzieckie cechy, ponieważ zsuwa się z rąk władców...',
+      pt: 'Pequena, suave e escura, esta jóia possui traços traiçoeiros enquanto escorrega das mãos dos que a empunham...'
     }
   },
 
@@ -125,7 +134,8 @@ export default [
       de: 'Spektakuläre, gesättigte rosa Federn erheben sich aus diesem facettierten prismatischen Juwel. Deine Feinde, die dich mit Ehrfurcht anstarren...',
       fr: 'Des panaches roses saturés spectaculaires s\'élèvent de ce joyau prismatique à facettes. Vos ennemis vous regardent avec crainte...',
       nl: 'Spectaculaire verzadigde roze pluimen rijzen op uit deze gefacetteerde prismatische parel. Uw vijanden om u met ontzag aan te staren.....',
-      pl: 'Z tego fasetowanego klejnotu pryzmatycznego wyrastają spektakularne, nasycone różowe smugi. Twoi wrogowie, którzy będą się na ciebie gapić z podziwem...'
+      pl: 'Z tego fasetowanego klejnotu pryzmatycznego wyrastają spektakularne, nasycone różowe smugi. Twoi wrogowie, którzy będą się na ciebie gapić z podziwem...',
+      pt: 'Espectaculares plumas cor-de-rosa saturadas emergem desta gema prismática facetada. Os teus inimigos olham para ti com admiração...'
     }
   },
 
@@ -138,7 +148,8 @@ export default [
       de: 'Strahlend grüne Lichter ragen gelegentlich aus diesem Glasjuwel heraus und werfen Projektionen der Zukunft der Träger hervor.',
       fr: 'Des lumières vertes brillantes s\'étendent occasionnellement à l\'extérieur de ce joyau de verre, projetant les projections de l\'avenir de ceux qui le portent.',
       nl: 'Heldere groene lichten af en toe overspannen van deze glazen juweel, het gieten van projecties van de dragers de toekomst.',
-      pl: 'Bright green light sometimes spreads out from this glass jewel, casting projections of the future of the users.'
+      pl: 'Jasnozielone światło czasami rozprzestrzenia się z tego szklanego klejnotu, odlewając projekcje przyszłości użytkowników.',
+      pt: 'Luzes verdes brilhantes ocasionalmente se estendem para fora desta jóia de vidro, projetando projeções de fundição do futuro dos usuários.'
     }
   }
 ]
