@@ -1,36 +1,38 @@
 export default [
   {
-    name       : {en: 'Linen Quiver' },
+    name       : {$$: 'Linen Quiver' },
     description: {
       en: 'Soft, full of holes. Arrows keep falling out.',
-      ru: 'Мягкий, дырявый. Стрелки продолжают выпадать.',
+      ru: 'Мягкий, дырявый. Стрелы постоянно выпадают.',
       de: 'Weich, voller Löcher. Pfeile fallen immer wieder heraus.',
       es: 'Si, los calcetines también pueden ser una aljaba.',
       fr: 'Un carquois en linge dont les flèches n\'arrêtent pas de tomber.',
       it: 'Morbido, pieno di buchi. Le frecce continuano a cadere.',
       pt: 'Suave, cheio de buracos. As setas continuam caindo.',
       hi: 'मुलायम और गद्दों से भारी हुई। सारे तीर गिरते रहते है।',
-      nl: 'Zacht, vol gaten. Pijlen blijven uitvallen.'
+      nl: 'Zacht, vol gaten. Pijlen blijven uitvallen.',
+      pl: 'Miękka, pełna dziur. Strzałki wciąż wypadają.'
     }
   },
 
   {
-    name       : {en: 'Reinforced Quiver' },
+    name       : {$$: 'Reinforced Quiver' },
     description: {
       en: 'Linen sack covered in stiff leather.',
-      ru: 'Льняной мешочек обтянут жесткой кожей.',
+      ru: 'Льняной мешочек обтянутый жесткой кожей.',
       de: 'Leinensack mit steifem Leder bezogen.',
       es: 'Una bolsa de lana con cuero.',
       fr: 'Sac en lin recouvert de cuir rigide.',
       it: 'Sacco in lino rivestito in pelle rigida.',
       pt: 'Saco de linho coberto de couro rígido.',
       hi: 'सख़्त चमड़े से ढकी लिनन की पोती।',
-      nl: 'Linnenzak bedekt met stijf leer.'
+      nl: 'Linnenzak bedekt met stijf leer.',
+      pl: 'Lniany worek pokryty sztywną skórą.'
     }
   },
 
   {
-    name       : {en: 'Last Reserves' },
+    name       : {$$: 'Last Reserves' },
     description: {
       en: 'Used when all else fails.',
       ru: 'Используется, когда ничего не помогает.',
@@ -40,12 +42,13 @@ export default [
       it: 'Usato quando tutto il resto fallisce.',
       pt: 'Usado quando tudo o resto falha.',
       hi: 'आख़री रास्ता यही है',
-      nl: 'Wordt gebruikt als al het andere faalt.'
+      nl: 'Wordt gebruikt als al het andere faalt.',
+      pl: 'Używane, gdy wszystko inne zawodzi.'
     }
   },
 
   {
-    name       : {en: 'Lotharien' },
+    name       : {$$: 'Lotharien' },
     description: {
       en: 'Elven quiver coated in shimmering diamond.',
       ru: 'Эльфийский колчан, покрытый мерцающим бриллиантом.',
@@ -55,12 +58,13 @@ export default [
       it: 'Faretra elfica rivestita di diamante luccicante.',
       pt: 'Aljava elfica revestida com diamante cintilante.',
       hi: 'एल्वेन पोटली, हीरों से जड़ी।',
-      nl: 'Elven koker gecoat in glinsterende diamant.'
+      nl: 'Elven koker gecoat in glinsterende diamant.',
+      pl: 'Elficki kołczan pokryty błyszczącym diamentem.'
     }
   },
 
   {
-    name       : {en: 'Snake Quiver' },
+    name       : {$$: 'Snake Quiver' },
     description: {
       en: 'Every time you pull an arrow out, it hisses at you.',
       ru: 'Каждый раз, когда вы вытаскиваете стрелу, она шипит на вас.',
@@ -70,7 +74,8 @@ export default [
       it: 'Ogni volta che tiri fuori una freccia, ti sibila addosso.',
       pt: 'Sempre que puxas uma flecha para fora, ela sibila para ti.',
       hi: 'तीर निकालने पर साँप की तरह फूफकारती है।',
-      nl: 'Elke keer als je een pijl eruit trekt, sist het naar je.'
+      nl: 'Elke keer als je een pijl eruit trekt, sist het naar je.',
+      pl: 'Za każdym razem, gdy wyciągasz strzałę, syczysz na siebie.'
     }
   }
 

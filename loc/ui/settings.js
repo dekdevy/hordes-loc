@@ -7,7 +7,11 @@ export default {
     es: 'configuración',
     de: 'Einstellungen',
     fr: 'paramétrage',
-    nl: 'instellingen'
+    nl: 'instellingen',
+    tr: 'ayarlar',
+    pt: 'Ajustes',
+    pl: 'nastawy',
+    ht: 'ajisteman'
   },
 
   // controls section of settings menu
@@ -18,7 +22,11 @@ export default {
     es: 'controles',
     de: 'Kontrollen',
     fr: 'commandes',
-    nl: 'bediening'
+    tr: 'kontroller',
+    nl: 'bediening',
+    pt: 'controles',
+    pl: 'kontrole',
+    ht: 'kontwòl yo'
   },
 
   lockedcamera: {
@@ -28,7 +36,11 @@ export default {
     es: 'Cámara fija',
     de: 'Gesperrte Kamera',
     fr: 'Caméra verrouillée',
-    nl: 'Gesloten camera'
+    tr: 'Kilitli kamera',
+    nl: 'Gesloten camera',
+    pt: 'câmera bloqueada',
+    pl: 'Zamknięta kamera',
+    ht: 'Kamera fèmen'
   },
 
   graphics: {
@@ -38,7 +50,11 @@ export default {
     es: 'gráficos',
     de: 'Grafiken',
     fr: 'schémas',
-    nl: 'grafischen'
+    nl: 'grafischen',
+    tr: 'grafikler',
+    pt: 'gráficos',
+    pl: 'grafika',
+    ht: 'grafik'
   },
 
   resolution: {
@@ -48,7 +64,11 @@ export default {
     es: 'Resolución',
     de: 'Auflösung',
     fr: 'Résolution',
-    nl: 'Resolution'
+    nl: 'Resolution',
+    tr: 'Çözünürlük',
+    pt: 'Resolução',
+    pl: 'Rozdzielczość',
+    ht: 'Rezolisyon an'
   },
 
   skilleffects: {
@@ -58,7 +78,11 @@ export default {
     es: 'Efectos de habilidades',
     de: 'Fertigkeitseffekte',
     fr: 'Effets de compétences',
-    nl: 'Vaardigheidseffecten'
+    nl: 'Vaardigheidseffecten',
+    tr: 'Yetenek efektleri',
+    pt: 'Efeitos de habilidade',
+    pl: 'Efekty umiejętności',
+    ht: 'Efè Konpetans'
   },
 
   shadow: {
@@ -68,7 +92,11 @@ export default {
     es: 'Calidad de sombra',
     de: 'Schattenqualität',
     fr: 'Qualité de l\'ombre',
-    nl: 'Schaduwkwaliteit'
+    nl: 'Schaduwkwaliteit',
+    tr: 'Gölge kalitesi',
+    pt: 'Qualidade de sombras',
+    pl: 'Jakość cienia',
+    ht: 'Kalite lonbraj'
   },
 
   grassamount: {
@@ -78,7 +106,11 @@ export default {
     es: 'Cantidad de pasto',
     de: 'Grasmenge',
     fr: 'Quantité d\'herbe',
-    nl: 'Grasbedrag'
+    nl: 'Grasbedrag',
+    tr: 'Çim miktarı',
+    pt: 'Quantidade de grama',
+    pl: 'Ilość trawy',
+    ht: 'Zèb kantite lajan'
   },
 
   chat: {
@@ -88,7 +120,11 @@ export default {
     es: 'Chat',
     de: 'Chat',
     fr: 'clavardage',
-    nl: 'praten'
+    nl: 'praten',
+    tr: 'sohbet',
+    pt: 'bate-papo',
+    pl: 'pogawędka',
+    ht: 'chat'
   },
 
   chatwidth: {
@@ -98,7 +134,11 @@ export default {
     es: 'Ancho del chat',
     de: 'Chatbreite',
     fr: 'Largeur du chat',
-    nl: 'Chatbreedte'
+    nl: 'Chatbreedte',
+    tr: 'Chat genişliği',
+    pt: 'Largura do chat',
+    pl: 'Szerokość rozmowy',
+    ht: 'Lajè chat'
   },
 
   chatheight: {
@@ -108,7 +148,11 @@ export default {
     es: 'Altura del chat',
     de: 'Chathöhe',
     fr: 'Hauteur de clavardage',
-    nl: 'Chathoogte'
+    nl: 'Chathoogte',
+    tr: 'Chat yükskliği',
+    pt: 'Altura do chat',
+    pl: 'Wysokość rozmowy',
+    ht: 'Wotè chat'
   },
 
   tutorial: {
@@ -118,7 +162,11 @@ export default {
     es: 'tutorial',
     de: 'Tutorial',
     fr: 'didacticiel',
-    nl: 'handleiding'
+    nl: 'handleiding',
+    tr: 'öğretici',
+    pt: 'tutorial',
+    pl: 'przewodnik',
+    ht: 'leson patikilye'
   },
 
   reset: {
@@ -128,7 +176,10 @@ export default {
     es: 'Reiniciar tutorial',
     de: 'Tutorial zurücksetzen',
     fr: 'Réinitialiser le tutoriel',
-    nl: 'Gereset les'
+    nl: 'Gereset les',
+    tr: 'Öğreticiyi sıfırla',
+    pt: 'tutorial de reset',
+    pl: 'resetowanie samouczka',
+    ht: 'Reset tutorial'
   }
-
 }

@@ -12,10 +12,13 @@ export default {
     cs: 'Odhlásit se',
     el: 'Αποσυνδέση',
     ja: 'ログアウト',
-    se: 'Logga ut',
+    sv: 'Logga ut',
     ph: 'Mag-log Out',
+    tr: 'Çıkış Yap',
     nl: 'Uitloggen',
-    pt: 'Terminar sessão'
+    pt: 'Terminar sessão',
+    pl: 'Wyloguj się',
+    ht: 'Dekonekte'
   },
 
   home: {
@@ -30,9 +33,12 @@ export default {
     cs: 'Domovská stránka',
     el: 'Αρχική σελίδα',
     ja: 'ホームページ',
-    se: 'Hemsida',
+    sv: 'Hemsida',
     ph: 'Home page',
+    tr: 'Anasayfa',
     nl: 'Thuis',
-    pt: 'voltar para inicio'
+    pt: 'voltar para inicio',
+    pl: 'Strona główna',
+    ht: 'Paj lakay'
   }
 }
