@@ -99,7 +99,7 @@ export default [
     name       : {en: 'Gloomy' },
     description: {
       en: 'Small, smooth and dark, this gem possesses treacherous traits as it slips from its wielders hands...',
-      ru: 'Маленький, гладкий и темный, этот драгоценный камень обладает коварными чертами характера, такими как выскальзывать из рук своих владельцев....',
+      ru: 'Маленький, гладкий и темный, этот драгоценный камень обладает коварными чертами характера, как он выскальзывает из рук своих владельцев....',
       es: 'Pequeña, lisa y oscura, esta gema posee rasgos traicioneros ya que se desliza de las manos de sus dueños....',
       de: 'Klein, glatt und dunkel, besitzt dieses Juwel tückische Eigenschaften, während es aus den Händen seiner Besitzer rutscht...',
       fr: 'Petit, lisse et sombre, ce joyau possède des traits traîtres lorsqu\'il glisse de ses mains de manieur....',
