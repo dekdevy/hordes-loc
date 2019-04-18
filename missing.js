@@ -19,7 +19,7 @@ const findLang = (obj, set)=>{
 const languages = findLang(loc, new Set())
 
 // iterate language object recursively, print missing translations
-const compile = (obj, currentType, path)=>{
+const findmissing = (obj, currentType, path)=>{
   // iterate object props recursively
   Object.entries(obj).forEach( ([ key, value ]) => {
     if(key == '$$') return
@@ -37,17 +37,17 @@ const compile = (obj, currentType, path)=>{
         }
       } else {
         // no strings as children, meaning we should iterate deeper
-        compile(value, currentType, next)
+        findmissing(value, currentType, next)
       }
     }
   })
 }
 
-// iterate languages and compile
+// iterate languages and find missing
 console.log('Finding missing translations...')
 const missing = new Map()
 languages.forEach(type => {
-  compile(loc, type)
+  findmissing(loc, type)
 })
 
 // print
