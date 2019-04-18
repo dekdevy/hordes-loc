@@ -5,7 +5,7 @@ export default {
   select: {
     title: {
       en: 'Select Character',
-      se: 'Välj Karaktär',
+      sv: 'Välj Karaktär',
       ru: 'Выберите Персонажа',
       fr: 'Sélectionnez un personnage',
       hi: 'स्वरूप चुने',
@@ -26,7 +26,7 @@ export default {
 
     create: {
       en: 'Click to create character',
-      se: 'Klicka för att skapa karaktär',
+      sv: 'Klicka för att skapa karaktär',
       ru: 'Нажмите, чтобы создать персонажа',
       hi: 'स्वरूप बानाने के लिए क्लिक करे',
       es: 'Haga clic para crear un personaje',
@@ -47,7 +47,7 @@ export default {
 
     enterWorld: {
       en: 'Enter World',
-      se: 'Ange världen',
+      sv: 'Ange världen',
       ru: 'Войти в мир',
       fr: 'Entrer le monde',
       hi: 'प्रवेश करे',
@@ -68,7 +68,7 @@ export default {
 
     emptySlot: {
       en: 'Empty',
-      se: 'Tom plats',
+      sv: 'Tom plats',
       ru: 'Пусто',
       hi: 'रिक्त',
       es: 'Vacío',
@@ -89,7 +89,7 @@ export default {
 
     error: {
       en: 'Network error',
-      se: 'Nätverksfel',
+      sv: 'Nätverksfel',
       ru: 'Проблема с сетью',
       fr: 'Problème de réseau',
       hi: 'नेट्वर्क में त्रुटि',
@@ -113,7 +113,7 @@ export default {
   create: {
     title: {
       en: 'Character creation',
-      se: 'Skapa karaktär',
+      sv: 'Skapa karaktär',
       ru: 'Создание персонажа',
       fr: 'Création du personnage',
       hi: 'स्वरूप निर्माण',
@@ -134,7 +134,7 @@ export default {
 
     pressIcon: {
       en: 'Press an icon for a brief description.',
-      se: 'Tryck på en ikon för en kort beskrivning.',
+      sv: 'Tryck på en ikon för en kort beskrivning.',
       ru: 'Нажмите на иконку, чтобы увидеть краткое описание.',
       fr: 'Cliquez sur une icône pour une brève description',
       hi: 'संक्षिप्त विवरण के लिए तस्वीर पर क्लिक करे।',
@@ -155,7 +155,7 @@ export default {
 
     selectClass: {
       en: 'Select a class',
-      se: 'Välj en klass',
+      sv: 'Välj en klass',
       ru: 'Выберите класс',
       hi: 'श्रेणी चुने',
       es: 'Seleccione una clase',
@@ -176,7 +176,7 @@ export default {
 
     selectFaction: {
       en: 'Select a faction',
-      se: 'Välj en fraktion',
+      sv: 'Välj en fraktion',
       ru: 'Выберите фракцию',
       fr: 'Sélectionnez une faction',
       hi: 'वंश चुने',
@@ -197,7 +197,7 @@ export default {
 
     enterName: {
       en: 'Enter a name',
-      se: 'Aige ett namn',
+      sv: 'Aige ett namn',
       ru: 'Введите имя',
       fr: 'Entrez un nom',
       hi: 'नाम डाले',
@@ -218,7 +218,7 @@ export default {
 
     nameReq: {
       en: 'Your name can only contain characters a-Z, and numbers 0-9, without any spaces. Up to 16 characters.',
-      se: 'Ditt namn kan bara använda sig karaktärerna a-Z, och nummer 0-9, utan mellanslag. Max 16 karaktärer.',
+      sv: 'Ditt namn kan bara använda sig karaktärerna a-Z, och nummer 0-9, utan mellanslag. Max 16 karaktärer.',
       ru: 'Ваше имя может состоять только из латинского алфавита a-Z и цифр 0-9, без пробелов. До 16 символов.',
       fr: 'Votre nom ne peut contenir que des caractères de a-Z, des chiffres de 0-9, sans aucune espace. Jusqu\'à 16 caractères.',
       hi: 'आपके नाम में केवल a-Z अक्षर और 0-9 अंक हो सकते है| अधिकतम 16 अक्षर।',
@@ -243,7 +243,7 @@ export default {
     // It places the characters name after the string, e.g. 'Delete Battlebubbles'
     title: {
       en: 'Delete',
-      se: 'Radera',
+      sv: 'Radera',
       ru: 'Удалить',
       hi: 'हटा दे',
       es: 'Borrar',
@@ -264,7 +264,7 @@ export default {
 
     info: {
       en: 'To delete, type the character\'s name. Your character can not be restored.',
-      se: 'För att ta bort, skriv in karaktärens namn. Din karaktär tas bort för alltid.',
+      sv: 'För att ta bort, skriv in karaktärens namn. Din karaktär tas bort för alltid.',
       ru: 'Чтобы удалить, введите имя персонажа. Ваш персонаж не может быть восстановлен.',
       hi: 'हटाने के लिए नाम डाले आपका स्वरूप पुनर नहीं मिल पाएगा।',
       es: 'Para eliminar, escriba el nombre del caracter. Tu carácter no puede ser restaurado.',
@@ -285,7 +285,7 @@ export default {
 
     placeholder: {
       en: 'Are you sure?',
-      se: 'Är du säker?',
+      sv: 'Är du säker?',
       ru: 'Вы уверены?',
       fr: 'Êtes-vous sûr?',
       hi: 'पक्की तौर पर?',
