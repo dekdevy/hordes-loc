@@ -16,8 +16,8 @@ export default [
       ja: '商人の妻によって使用される小さな小さな財布。',
       pl: 'Mała mała torebka używana przez kupców.',
       ph: 'Maliit na maliit na pitaka na ginamit ng mga babaeng mangangalakal.',
+      tr: 'Tüccarların eşleri tarafından kullanılan küçük minik çanta.',
       sv: 'Liten liten handväska som används av köpmännen.'
-
     }
   },
 
@@ -38,6 +38,7 @@ export default [
       ja: 'バックルはそれ以外のものよりも価値があります。',
       pl: 'Klamra jest warta więcej niż reszta.',
       ph: 'Ang buckle ay nagkakahalaga ng higit sa natitirang bahagi nito.',
+      tr: 'Tokası geri kalanından daha değerli.',
       sv: 'Spännet är värt mer än resten av det.'
     }
   },
@@ -59,6 +60,7 @@ export default [
       ja: 'あなたのすべてのあなたの旅行の必要性のための素晴らしい紫色のリュックサック。',
       pl: 'Ładny fioletowy plecak dla wszystkich Twoich potrzeb podróży.',
       ph: 'Nice purple rucksack para sa lahat ng iyong mga pangangailangan sa paglalakbay.',
+      tr: 'Tüm seyahat ihtiyaçlarınız için güzel mor sırt çantası.',
       sv: 'Trevlig lila ryggsäck för alla dina resebehov.'
     }
   },
@@ -74,6 +76,7 @@ export default [
       pt: 'Elegante saco usado por arqueiros elfos a cavalo.',
       it: 'Elegante borsa utilizzata dagli arcieri elfici a cavallo.',
       nl: 'Elegante tas die gebruikt wordt door elvenschutters te paard.',
+      tr: 'Elf okçular tarafından at sırtında kullanılan şık çanta.',
       pl: 'Elegancka torba używana przez elfów łuczników na koniu.',
       sv: 'Elegant bag used by river archers on horseback.'
     }
@@ -90,6 +93,7 @@ export default [
       pt: 'Tecida com fios de líquen, a construção deste saco permanece um mistério.',
       it: 'Tessuto da fili di lichene, la costruzione di questa borsa rimane un mistero.',
       nl: 'Geweven van korstmosdraden, de constructie van deze tas blijft een mysterie.',
+      tr: 'Liken ipliklerinden dokunan bu çantanın yapımı gizemini koruyor.',
       pl: 'Tkany z nici porostów, konstrukcja tej torby pozostaje tajemnicą.',
       sv: 'Vävd av trådar av lavar, är byggandet av denna väska ett mysterium.'
     }
