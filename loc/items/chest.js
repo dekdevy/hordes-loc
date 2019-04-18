@@ -27,7 +27,7 @@ export default [
       nl: 'Leren hemd, vervaagd van slijtage.',
       hi: 'चमड़ा शर्ट, टूट-फूट से फीका।',
       pl: 'Skórzana koszula, wyblakła od zużycia.',
-      it: 'Camicia in pelle, sbiadita dall"usura.'
+      it: 'Camicia in pelle, sbiadita dall\'usura.'
     }
   },
 
@@ -139,7 +139,7 @@ export default [
       nl: 'Gesmeed uit de diepten van de hel, biedt het bescherming voor je zwakke, vlezige lichaam.',
       hi: 'नरक की गहराई से जाली, यह आपके कमजोर, मांसल शरीर के लिए सुरक्षा प्रदान करता है।',
       pl: 'Wykute z głębi piekła, zapewnia ochronę twojemu słabemu, mięsistemu ciału.',
-      it: 'Forgiato dalle profondità dell"inferno, fornisce protezione al tuo corpo debole e carnoso.'
+      it: 'Forgiato dalle profondità dell\'inferno, fornisce protezione al tuo corpo debole e carnoso.'
     }
   },
 
