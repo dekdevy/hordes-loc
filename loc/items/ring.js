@@ -10,7 +10,8 @@ export default [
       fr: 'Un regard seulement et elle risque de se briser en miettes.',
       pt: 'Não olhes para ele ou vai desmoronar-se.',
       nl: 'Kijk er niet naar, anders valt het uit elkaar.',
-      pl: 'Nie patrz na to, bo się rozpadnie.'
+      pl: 'Nie patrz na to, bo się rozpadnie.',
+      it: 'Non guardarlo o cadrà a pezzi.'
     }
   },
 
@@ -25,7 +26,8 @@ export default [
       fr: 'Bague rudimentaire faite de bois surnommé «écorce de fer».',
       pt: 'Não tenho a certeza sobre a casca, mas é definitivamente feita de ferro.',
       nl: 'Niet zeker van de schors, maar het is zeker van ijzer.',
-      pl: 'Nie jestem pewien co do kory, ale na pewno jest zrobiona z żelaza.'
+      pl: 'Nie jestem pewien co do kory, ale na pewno jest zrobiona z żelaza.',
+      it: 'Non sono sicuro della corteccia, ma è sicuramente di ferro.'
     }
   },
 
@@ -40,7 +42,8 @@ export default [
       hi: 'एक चमकीली अँगूठी।',
       pt: 'Finalmente, um anel que é brilhante.',
       nl: 'Eindelijk, een ring die glanst.',
-      pl: 'W końcu pierścionek, który jest błyszczący.'
+      pl: 'W końcu pierścionek, który jest błyszczący.',
+      it: 'Finalmente, un anello che è lucido.'
     }
   },
 
@@ -55,7 +58,8 @@ export default [
       fr: 'Une vertèbre de monstre aurait servit à sa fabrication.',
       pt: 'Um anel feito dos restos da noite passada.',
       nl: 'Een ring gemaakt van de restjes van gisteravond.',
-      pl: 'Pierścionek wykonany z resztek z ostatniej nocy.'
+      pl: 'Pierścionek wykonany z resztek z ostatniej nocy.',
+      it: 'Un anello fatto con gli avanzi di ieri sera.'
     }
   },
 
@@ -70,7 +74,8 @@ export default [
       fr: 'Une bague d\'origine elfique ayant été léguée à ce monde.',
       pt: 'Os elfos fizeram este anel para se protegerem do perigo e conseguiram entregá-lo.',
       nl: 'De elfen maakten deze ring om zich te beschermen tegen gevaar en slaagden erin deze weg te geven.',
-      pl: 'Elfy stworzyły ten pierścień, aby chronić się przed niebezpieczeństwem i udało im się go oddać.'
+      pl: 'Elfy stworzyły ten pierścień, aby chronić się przed niebezpieczeństwem i udało im się go oddać.',
+      it: 'Gli elfi fecero questo anello per proteggersi dal pericolo e riuscirono a regalarlo.'
     }
   },
 
@@ -85,7 +90,8 @@ export default [
       fr: 'S\'ajuste convenablement au doigt, bien que ses pouvoirs soient limités.',
       pt: 'Adapta-se muito bem, embora os efeitos que dá sejam marginais.',
       nl: 'Past mooi, maar de effecten zijn marginaal.',
-      pl: 'Pasuje ładnie, chociaż efekty, jakie daje, są marginalne.'
+      pl: 'Pasuje ładnie, chociaż efekty, jakie daje, są marginalne.',
+      it: 'Si adatta bene, anche se gli effetti che dà sono marginali.'
     }
   },
 
@@ -100,7 +106,8 @@ export default [
       fr: 'Personne ne sait si elle vaut la peine d\'être portée.',
       pt: 'Ninguém sabe se vale a pena vestir.',
       nl: 'Niemand weet of het de moeite waard is om aan te trekken.',
-      pl: 'Nikt nie wie, czy warto to założyć.'
+      pl: 'Nikt nie wie, czy warto to założyć.',
+      it: 'Nessuno sa se vale la pena di indossarlo.'
     }
   },
 
@@ -115,7 +122,8 @@ export default [
       fr: 'Incrustée d\'émeraudes pour vous faire sentir riche.',
       pt: 'Esmeraldas de todos os lados para te fazer sentir rico.',
       nl: 'Smaragden aan alle kanten om je rijk te laten voelen.',
-      pl: 'Szmaragdy po wszystkich stronach, żebyś poczuł się bogaty.'
+      pl: 'Szmaragdy po wszystkich stronach, żebyś poczuł się bogaty.',
+      it: 'Nessuno sa se vale la pena di indossarlo.'
     }
   },
 
@@ -130,7 +138,8 @@ export default [
       hi: 'अगर ये अँगूठी बोल पति तो अपने त्रिकोण होने की शिकायत करती।',
       pt: 'Se pudesse falar, provavelmente queixar-se-ia de ser triangular.',
       nl: 'Als het kon spreken, zou het waarschijnlijk klagen over het feit dat het driehoekig is.',
-      pl: 'Gdyby mógł mówić, prawdopodobnie skarżyłby się na bycie trójkątnym.'
+      pl: 'Gdyby mógł mówić, prawdopodobnie skarżyłby się na bycie trójkątnym.',
+      it: 'Se potesse parlare, probabilmente si lamenterebbe di essere triangolare.'
     }
   },
 
@@ -145,7 +154,8 @@ export default [
       hi: 'इसके बारे में कोई जानकारी उपलब्ध नहीं है।',
       pt: 'Não existem registos escritos que nos falem da sua origem...',
       nl: 'Er bestaan geen schriftelijke gegevens om ons te vertellen over de oorsprong ervan.......',
-      pl: 'Nie ma żadnych pisemnych zapisów, które powiedziałyby nam o jego pochodzeniu.....'
+      pl: 'Nie ma żadnych pisemnych zapisów, które powiedziałyby nam o jego pochodzeniu.....',
+      it: 'Non esistono documenti scritti che ci dicono la sua origine........'
     }
   },
 
@@ -160,7 +170,8 @@ export default [
       fr: 'Artefact sacré perdu par des druides saints.',
       pt: 'Artefacto sagrado perdido pelos druidas sagrados.',
       nl: 'Heilig artefact verloren door heilige druïden.',
-      pl: 'Święty artefakt utracony przez świętych druidów.'
+      pl: 'Święty artefakt utracony przez świętych druidów.',
+      it: 'Artefatto sacro perso dai santi druidi.'
     }
   },
 
@@ -175,7 +186,8 @@ export default [
       fr: 'Gardien de la paix.... pas sûr de cela, mais elle saura vous garder en vie.',
       pt: 'Guardião da paz... não tenho a certeza disso, mas pode mantê-lo vivo...',
       nl: 'Bewaarder van de vrede.....niet zeker, maar het kan je in leven houden......',
-      pl: 'Strażnik spokoju....nie jestem tego pewien, ale może to utrzyma cię przy życiu.....'
+      pl: 'Strażnik spokoju....nie jestem tego pewien, ale może to utrzyma cię przy życiu.....',
+      it: 'Custode di pace.....non ne sono sicuro, ma potrebbe tenervi in vita........'
     }
   }
 
