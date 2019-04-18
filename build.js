@@ -69,7 +69,7 @@ languages.forEach((lang, type) => {
 
   const amount = `${String(metrics.hit).padStart(3, ' ')}/${metrics.hit+metrics.miss}`
   const percentage = ((metrics.hit/(metrics.hit+metrics.miss))*100) >> 0
-  console.log(`  ${type} -> ${amount} (${percentage}%)`)
+  console.log(`  ${type} -> ${amount} ${String(percentage).padStart(3, ' ')}%`)
 })
 
 // store as files
