@@ -103,7 +103,7 @@ export default {
     pt: 'Qualidade de sombras',
     pl: 'Jakość cienia',
     ht: 'Kalite lonbraj',
-    it: 'Qualità dell"ombra'
+    it: 'Qualità dell\'ombra'
   },
 
   grassamount: {
@@ -118,7 +118,7 @@ export default {
     pt: 'Quantidade de grama',
     pl: 'Ilość trawy',
     ht: 'Zèb kantite lajan',
-    it: 'Quantità d"erba'
+    it: 'Quantità d\'erba'
   },
 
   chat: {
