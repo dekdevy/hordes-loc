@@ -67,7 +67,7 @@ languages.forEach((lang, type) => {
   const metrics = {hit: 0, miss: 0}
   compile(loc, lang, type, metrics)
 
-  const amount = `${metrics.hit}/${metrics.hit+metrics.miss}`
+  const amount = `${String(metrics.hit).padStart(3, ' ')}/${metrics.hit+metrics.miss}`
   const percentage = ((metrics.hit/(metrics.hit+metrics.miss))*100) >> 0
   console.log(`  ${type} -> ${amount} (${percentage}%)`)
 })
