@@ -12,7 +12,8 @@ export default [
       nl: 'Goedkope lederen band gekocht door een ambitieuze boer.',
       pl: 'Tania skórzana opaska kupiona przez ambitnego rolnika.',
       sv: 'Billiga läderband köpt av en ambitiös bonde.',
-      tr: 'Hırslı bir çiftçi tarafından satın alınan ucuz deri bant.'
+      tr: 'Hırslı bir çiftçi tarafından satın alınan ucuz deri bant.',
+      ht: 'Cheap kwi kwi te achte pa yon kiltivatè anbisye'
 
     }
   },
@@ -30,7 +31,8 @@ export default [
       nl: 'Bekwame handen maakten een ingewikkelde klus bij het maken van deze zelfgemaakte manchet.',
       pl: 'Zręczne dłonie wykonały skomplikowanš robotę przy robieniu tego domowej roboty mankietu.',
       sv: 'Kunniga händer gjorde ett invecklat jobb för att göra denna hemgjorda manschett.',
-      tr: 'Nitelikli eller bu ev yapımı kolluk yapımında çetrefilli bir iş çıkardı.'
+      tr: 'Nitelikli eller bu ev yapımı kolluk yapımında çetrefilli bir iş çıkardı.',
+      ht: 'Men ki gen eksperyans te fè travay di a pou fè manchèt sa a ki te endepandan.'
     }
   },
 
@@ -47,7 +49,8 @@ export default [
       nl: 'Stijf, maakt je arm pijnlijk.',
       pl: 'Sztywniak, boli cię cała ręka.',
       sv: 'Stiff, gör din arm öm.',
-      tr: 'Sert, kolunuzu ağrıtır.'
+      tr: 'Sert, kolunuzu ağrıtır.',
+      ht: 'Sere sou tèlman bagay ke men ou kòmanse vin anfle.'
     }
   },
 
@@ -64,7 +67,8 @@ export default [
       nl: 'Elegante manchet gemaakt van de slagtanden van de laatste mammoet.',
       pl: 'Elegancki mankiet wykonany z kości ostatniego mamuta.',
       sv: 'Elegant manschett gjord av tusenskönor från den sista mammoten.',
-      tr: 'Son mamutun dişlerinden yapılmış zarif manşet.'
+      tr: 'Son mamutun dişlerinden yapılmış zarif manşet.',
+      ht: 'Elegant manchèt nan defans ki sot pase yo mamout la.'
     }
   },
 
@@ -81,7 +85,8 @@ export default [
       nl: 'Zwaar op je arm... de bescherming waard.',
       pl: 'Ciężko na twojej ręce.... warte ochrony.',
       sv: 'Tung på armen ... värt skydd.',
-      tr: 'Kolunda ağır durur... koruma için değer'
+      tr: 'Kolunda ağır durur... koruma için değer',
+      ht: 'Lou ... men vo defans yo'
     }
   },
 
@@ -98,7 +103,8 @@ export default [
       nl: 'Dof metalen bracer, handig voor nachtelijke overvallen.',
       se: 'Dull metall bracer, praktisk för natten raiding.',
       tr: 'Donuk metal tutucu, gece baskını için kullanışlı.',
-      pl: 'Nudny metalowy biustonosz, przydatny podczas nocnych nalotów.'
+      pl: 'Nudny metalowy biustonosz, przydatny podczas nocnych nalotów.',
+      ht: 'Dim metal braslè, pratik pou atak lannwit.'
 
     }
   },
@@ -116,7 +122,8 @@ export default [
       nl: 'Geschaald bracer, maakt je armen lijken op die van een draak.',
       pl: 'Skalowany aparat ortodontyczny, sprawia, że twoje ramiona przypominajš smoka.',
       sv: 'Skalad bracer, gör att dina armar liknar den hos en drake.',
-      tr: 'Ölçekli kol bağı, kollarınızı bir ejderhanınkine benzetir.'
+      tr: 'Ölçekli kol bağı, kollarınızı bir ejderhanınkine benzetir.',
+      ht: 'Yon gwoup ponyèt pwopòsyonèl fè men ou sanble yon dragon an.'
     }
   },
 
@@ -133,7 +140,8 @@ export default [
       nl: 'Verblindt je vijanden met een magische glans van een slinkse goochelspiegel...',
       pl: 'Adversary blinds with the magical glow of the devil\'s magician\'s mirror...',
       sv: 'Blindar dina fiender med en magisk glans av en djävulsk trollkarlspegel ...',
-      tr: 'Düşmanlarınızı büyülü bir sihirbazın aynasından büyüleyen sihirli bir parıltıyla kör ediyor...'
+      tr: 'Düşmanlarınızı büyülü bir sihirbazın aynasından büyüleyen sihirli bir parıltıyla kör ediyor...',
+      ht: 'Pèsyèn lènmi ou yo ak briye nan yon glas sere maji...'
     }
   },
 
@@ -150,7 +158,8 @@ export default [
       nl: 'De archaïsche voogden lieten restanten van hun overlijden achter, die je zonder scrupules op je arm hebt gedragen.',
       pl: 'Archaiczni strażnicy zostawili po sobie resztki swojego odejścia, które bez skrupułów zdecydowaliście się nosić na ramieniu.',
       sv: 'De arkaiska förmyndarna lämnade resterna av deras passerar, som du skarpt har bestämt dig för att bära på din arm.',
-      tr: 'Arkaik korumalar gelip geçerken acımasızca koluna takmaya karar verdiğiniz kalıntılarını bıraktılar.'
+      tr: 'Arkaik korumalar gelip geçerken acımasızca koluna takmaya karar verdiğiniz kalıntılarını bıraktılar.',
+      ht: 'Gad akakolojik kite sold yo nan avantur yo, ki ou vèrgoy deside mete sou men an.'
     }
   },
 
@@ -167,7 +176,8 @@ export default [
       nl: 'Het bedrieglijk lichte staal biedt koele bescherming tegen stiekeme klappen.',
       pl: 'Zwodniczo lekka stal oferuje ochronę przed podstępnymi uderzeniami.',
       sv: 'Det bedrägligt lätta stålet ger kylande skydd mot smutsiga slag.',
-      tr: 'Aldatıcı hafif çelik, sinsi darbelere karşı soğutma koruması sunar.'
+      tr: 'Aldatıcı hafif çelik, sinsi darbelere karşı soğutma koruması sunar.',
+      ht: 'Engredyan asye limyè ofri refwadisman pwoteksyon kont kou lach.'
     }
   },
 
@@ -184,7 +194,8 @@ export default [
       nl: 'Sterren zijn niet vaak zwart, maar toch heeft dit fragment een... diepe... diepe duisternis.',
       pl: 'Gwiazdy nie są często czarne, ale ten fragment ma.... głęboką... głęboką ciemność.',
       sv: 'Tjärnor är inte ofta svarta, men detta fragment har en ... djup ... djup mörker.',
-      tr: 'Yıldızlar genellikle siyah değildir, ancak bu parçanın derin ... derin bir karanlığı vardır.'
+      tr: 'Yıldızlar genellikle siyah değildir, ancak bu parçanın derin ... derin bir karanlığı vardır.',
+      ht: 'Zetwal yo pa souvan nwa, men fragman sa a gen ... gwo twou ... fon fènwa.'
     }
   },
 
@@ -200,7 +211,8 @@ export default [
       ko: '개조되고, 분실되고, 발견되고, 도난되고, 끝없는시간동안 숨겨젔다.',
       nl: 'Hervormd, verloren, gevonden, gestolen, verborgen voor tijdperken zonder einde.',
       tr: 'Yeniden dövülmüş, kaybolmuş, bulunmuş, sonu olmayan çağlardır gizlenmiş.',
-      pl: 'Przeformułowane, zagubione, znalezione, skradzione, ukryte na całe epoki bez końca.'
+      pl: 'Przeformułowane, zagubione, znalezione, skradzione, ukryte na całe epoki bez końca.',
+      ht: 'Reforbe, pèdi, yo jwenn, yo vòlè li, kache pou syèk san fen.'
     }
   },
 
@@ -217,7 +229,8 @@ export default [
       nl: 'Dit voorwerp werd gesmeed op volle maan toen mysterieuze bezweringen in het gefluister van de duisternis werden gehoord. Sommigen zeggen dat het Anubis zelf was die met de doden sprak.',
       pl: 'This object was forged into a full moon when mysterious spells were heard in the whispers of darkness. Some say that it was Anubis himself who spoke to the dead.',
       sv: 'Det här objektet smiddes på en fullmåne när mystiska incantations hördes i mörkets viskningar. Vissa säger att det var Anubis själv som talade med de döda.',
-      tr: 'Bu eşya, karanlığın fısıltılarında gizemli sihirli sözler duyulduğunda, dolunayda dövüldü. Bazıları bunun ölülerle konuşan Anubis\'in kendisi olduğunu söylüyor.'
+      tr: 'Bu eşya, karanlığın fısıltılarında gizemli sihirli sözler duyulduğunda, dolunayda dövüldü. Bazıları bunun ölülerle konuşan Anubis\'in kendisi olduğunu söylüyor.',
+      ht: 'Atik sa a te fòje nan lalin lan plen lè òneman misterye te tande nan yon murmures nan fènwa. Gen kèk ki di ke li te Anubi tèt li, pale ak moun ki mouri yo.'
     }
   }
 
