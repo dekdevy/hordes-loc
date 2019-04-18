@@ -2,7 +2,7 @@ export default {
   // Simple basic UI elements that pop up everywhere
   ok: {
     en: 'Okay',
-    se: 'Okej',
+    sv: 'Okej',
     ru: 'Окей',
     de: 'Okay',
     hi: 'ठीक',
@@ -10,12 +10,13 @@ export default {
     es: 'De acuerdo',
     tr: 'Tamam',
     nl: 'Okee',
-    pt: 'Está bem.'
+    pt: 'Está bem.',
+    pl: 'Dobrze.'
 
   },
   back: {
     en: 'Back',
-    se: 'Bakåt',
+    sv: 'Bakåt',
     ru: 'Назад',
     hi: 'पिछला',
     fr: 'Retour',
@@ -23,6 +24,7 @@ export default {
     es: 'Regresar',
     nl: 'Terug',
     tr: 'Geri',
-    pt: 'Voltar'
+    pt: 'Voltar',
+    pl: 'Popierać'
   }
 }
