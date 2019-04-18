@@ -41,7 +41,7 @@ export default [
       pt: 'Quem quer que tenha deixado isto no chão, provavelmente não teve um final agradável.',
       nl: 'Wie dit op de grond liet liggen, kwam waarschijnlijk niet aan een mooi einde.',
       pl: 'Ktokolwiek zostawił to na ziemi, prawdopodobnie nie spotkał się z miłym końcem.',
-      it: 'Chiunque l"abbia lasciato a terra probabilmente non ha avuto una bella fine.'
+      it: 'Chiunque l\'abbia lasciato a terra probabilmente non ha avuto una bella fine.'
     }
   },
 
@@ -56,7 +56,7 @@ export default [
       pt: 'Uma arma mais avançada. Bastante agradável de se ver.',
       nl: 'Een geavanceerder wapen. Leuk om naar te kijken.',
       pl: 'Bardziej zaawansowana broń. Całkiem nieźle się na nią patrzy.',
-      it: 'Un"arma più avanzata. Piuttosto bello da guardare.'
+      it: 'Un\'arma più avanzata. Piuttosto bello da guardare.'
     }
   },
 
@@ -176,7 +176,7 @@ export default [
       pt: 'O que é isso? É gelo? O mundo pode nunca saber...',
       nl: 'Wat is het? Is het ijs? De wereld zal misschien nooit weten....',
       pl: 'Co to jest? Czy to lód? Świat może nigdy się nie dowiedzieć....',
-      it: 'Cosa c"è? È ghiaccio? Il mondo potrebbe non saperlo mai.....'
+      it: 'Cosa c\'è? È ghiaccio? Il mondo potrebbe non saperlo mai.....'
     }
   },
 
@@ -206,7 +206,7 @@ export default [
       pt: 'Rodeado por uma aura horrível. O vento sopra na direção que você aponta.',
       nl: 'Omringd door een afschuwelijke aura. De wind waait in de richting waarin je hem richt.',
       pl: 'Otoczony upiorną aurą. Wiatr wieje w kierunku, w którym go celujesz.',
-      it: 'Circondato da un"aura spettrale. Il vento soffia nella direzione in cui lo si mira.'
+      it: 'Circondato da un\'aura spettrale. Il vento soffia nella direzione in cui lo si mira.'
     }
   },
 
@@ -221,7 +221,7 @@ export default [
       pt: 'Tão assustador que poucos têm a coragem de o segurar.',
       nl: 'Zo eng dat weinigen het lef hebben om het vast te houden.',
       pl: 'Tak przerażające, że niewielu ma odwagę, by to utrzymać.',
-      it: 'Cosi" spaventoso che pochi hanno il coraggio di trattenerlo.'
+      it: 'Cosi\' spaventoso che pochi hanno il coraggio di trattenerlo.'
     }
   },
 
@@ -236,7 +236,7 @@ export default [
       pt: 'Embebidos em uma raiva primária, seus inimigos tremem ao ver esta arma. O banco de bancos é a última coisa que eles vão ouvir.',
       nl: 'Ingebed in een oerwoede, beven je vijanden bij het zien van dit wapen. Pew pew is het laatste wat ze ooit zullen horen.',
       pl: 'Osadzeni w pierwotnej wściekłości, twoi wrogowie drżą na widok tej broni. Pew pewna ławka jest ostatnią rzeczą, jaką kiedykolwiek usłyszą.',
-      it: 'Incastonati in una rabbia primordiale, i tuoi nemici tremano alla vista di quest"arma. Pew pew pew è l"ultima cosa che sentiranno mai.'
+      it: 'Incastonati in una rabbia primordiale, i tuoi nemici tremano alla vista di quest\'arma. Pew pew pew è l\'ultima cosa che sentiranno mai.'
     }
   }
 
