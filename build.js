@@ -63,14 +63,21 @@ const compile = (obj, lang, currentType, metrics)=>{
 
 // iterate languages and compile
 console.log('Compiling...')
+const results = []
 languages.forEach((lang, type) => {
   const metrics = {hit: 0, miss: 0}
   compile(loc, lang, type, metrics)
 
   const amount = `${String(metrics.hit).padStart(3, ' ')}/${metrics.hit+metrics.miss}`
   const percentage = ((metrics.hit/(metrics.hit+metrics.miss))*100) >> 0
-  console.log(`  ${type} -> ${amount} ${String(percentage).padStart(3, ' ')}%`)
+  results.push({
+    count : metrics.hit,
+    string: `  ${type} -> ${amount} ${String(percentage).padStart(3, ' ')}%`})
 })
+
+// sort, print
+results.sort( (a, b) => b.count - a.count )
+results.forEach( r => console.log(r.string))
 
 // store as files
 console.log('Exporting JSON files...')
