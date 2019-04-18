@@ -6,8 +6,7 @@ import loc from './loc/loc.js'
 // For any strings that lack translations for a lang type, we can fall back to another language
 const findLang = (obj, types)=>{
   // iterates object props recursively
-  Object.entries(obj).forEach( prop => {
-    const [langType, string] = prop
+  Object.entries(obj).forEach( ([langType, string]) => {
     if(langType == '$$') return
     // check whether value is object or string
     if(typeof string  === 'object') {
@@ -31,8 +30,7 @@ console.log(`  Found ${languages.size} languages`)
 // if not even english is present (should never be the case), we fall back to whatever is present
 const compile = (obj, lang, currentType, metrics)=>{
   // iterate object props recursively
-  Object.entries(obj).forEach( prop => {
-    const [key, value] = prop
+  Object.entries(obj).forEach( ([key, value]) => {
     if(key == '$$') return
     // check whether value is object or string
     if(typeof value  === 'object') {
@@ -72,7 +70,7 @@ languages.forEach((lang, type) => {
   const percentage = ((metrics.hit/(metrics.hit+metrics.miss))*100) >> 0
   results.push({
     count : metrics.hit,
-    string: `  ${type} -> ${amount} ${String(percentage).padStart(3, ' ')}%`})
+    string: `  ${type} → ${amount} ${String(percentage).padStart(3, ' ')}%`})
 })
 
 // sort, print
