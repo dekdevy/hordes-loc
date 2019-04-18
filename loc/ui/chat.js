@@ -45,14 +45,17 @@ export default {
     ht: 'Montre Sistèm'
   },
 
+  // translations not needed
   loot: {
     $$: 'Loot'
   },
 
+  // translations not needed
   exp: {
     $$: 'exp'
   },
 
+  // translations not needed
   pvp: {
     $$: 'PvP'
   },

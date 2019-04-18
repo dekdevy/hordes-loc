@@ -9,6 +9,7 @@ export default [
       it: 'Almeno tu indossi qualcosa su quei piedi.',
       pt: 'Pelo menos estás a usar algo nesses pés.',
       nl: 'Je draagt tenminste iets op die voeten.',
+      tr: 'En azından ayağına bir şeyler giyiyorsun.',
       pl: 'Przynajmniej nosisz coś na tych stopach.'
     }
   },
@@ -23,6 +24,7 @@ export default [
       it: 'Suole fatte di stoffa, probabilmente si strappano dopo qualche ora.',
       pt: 'Solas feitas de tecido, provavelmente rasgarão depois de algumas horas.',
       nl: 'Zolen van doek, zullen waarschijnlijk na een paar uur scheuren.',
+      tr: 'Kumaştan yapılmış tabanlar, birkaç saat sonra muhtemelen yırtılacak.',
       pl: 'Podeszwy wykonane z tkaniny, prawdopodobnie rozerwą się po kilku godzinach.'
     }
   },
@@ -37,6 +39,7 @@ export default [
       it: 'Si dice che la morbida pelle sia stata rimossa dai cinghiali che vagano nei boschi inquietanti.',
       pt: 'Diz-se que o couro macio é arrancado dos javalis selvagens que vagueiam pelos bosques sinistros.',
       nl: 'Het zachte leer zou gestript zijn van wilde zwijnen die door de griezelige bossen zwerven.',
+      tr: 'Bu yumuşak derinin, ürkütücü ormanda dolaşan yaban domuzlarından sıyrıldığı söylenir.',
       pl: 'Mówi się, że miękka skóra jest rozebrana z dzika wędrującego po przerażających lasach.'
     }
   },
@@ -51,6 +54,7 @@ export default [
       it: 'Chiaramente privo di immaginazione, l\'autore ha realizzato stivali dalle ossa di una creatura molto grande...',
       pt: 'Claramente sem imaginação, o fabricante fez botas a partir dos ossos de uma criatura muito grande...',
       nl: 'Duidelijk niet verbeeldingsvol, de maker maakte laarzen van de botten van een zeer groot wezen....',
+      tr: 'Hayal gücünden yoksun olduğu aşikar olan usta, çok büyük bir yaratığın kemiklerinden botlar yaptı...',
       pl: 'Wyraźnie pozbawiony wyobraźni, twórca wykonał buty z kości bardzo dużego stworzenia...'
     }
   },
@@ -65,6 +69,7 @@ export default [
       it: 'Scaglie misteriose coprono l\'esterno delle vostre calzature, catturando i riflessi del sole.',
       pt: 'Escalas misteriosas cobrem o exterior do seu calçado, pegando olhares ao sol.',
       nl: 'Mysterieuze weegschalen bedekken de buitenkant van je schoeisel en vangen de blikken in de zon.',
+      tr: 'Gizemli pullar, ayakkabınızın dışını örterek güneşte göz kamaştırıyor.',
       pl: 'The mysterious scale covers the outside of the shoe, capturing reflections in the sun.'
     }
   },
@@ -79,6 +84,7 @@ export default [
       it: 'Un piacevole motivo fatto per paralizzare i tuoi nemici... chiedo se funziona',
       pt: 'Um padrão agradável feito para paralisar os teus inimigos... imagina se funciona.',
       nl: 'Een aangenaam patroon om je vijanden te verlammen.... of het werkt.',
+      tr: 'Düşmanlarınızı felç etmek için yapılan hoş bir desen... işe yarayıp yaramadığını merak konusu.',
       pl: 'Przyjemny wzór stworzony w celu sparaliżowania twoich wrogów... zastanawiam się, czy działa...'
     }
   },
@@ -93,6 +99,7 @@ export default [
       it: 'Preso da veterani di guerra che chiaramente non hanno trovato abbastanza protezione da questi ciccioli.',
       pt: 'Levados por veteranos de guerra que claramente não encontraram protecção suficiente contra estes torresmos.',
       nl: 'Genomen van oorlogsveteranen die duidelijk niet genoeg bescherming vonden tegen deze kanen.',
+      tr: 'Dizçekleri yeterince korunaklı bulmayan savaş gazilerinden alınmış.',
       pl: 'Odebrane od weteranów wojennych, którzy najwyraźniej nie znaleźli wystarczającej ochrony przed tymi skwarkami.'
     }
   },
@@ -107,6 +114,7 @@ export default [
       it: 'Chunky nel suo aspetto, probabilmente molto scomodo.',
       pt: 'Aparentemente volumoso, provavelmente muito desconfortável.',
       nl: 'Mollig in zijn uiterlijk, waarschijnlijk erg ongemakkelijk.',
+      tr: 'Görünüşünde tıknaz, muhtemelen çok rahatsız edici.',
       pl: 'W swoim wyglądzie, prawdopodobnie bardzo niewygodny.'
     }
   },
@@ -121,6 +129,7 @@ export default [
       it: 'Corri veloce come il vento... o vicino ad esso',
       pt: 'Corra tão rápido como o vento... ou perto dele.',
       nl: 'Ren zo snel als de wind.... of dichtbij.',
+      tr: 'Rüzgar kadar hızlı koş... veya meltem kadar da olabilir.',
       pl: 'Biegnij tak szybko jak wiatr.... lub blisko niego.'
     }
   },
@@ -135,6 +144,7 @@ export default [
       it: 'Forgiato senza calore, funziona senza inciampare',
       pt: 'Forjado sem calor, corre sem tropeçar.',
       nl: 'Gesmeed zonder warmte, loopt zonder struikelen.',
+      tr: 'Isı olmadan dövülmüş, takır takır çalışır.',
       pl: 'Kute bez ciepła, pracuje bez potknięcia się.'
     }
   },
@@ -149,6 +159,7 @@ export default [
       it: 'C\'è chi dice che con queste si può correre sulle nuvole. I pochi che hanno provato sono già saliti.',
       pt: 'Alguns dizem que se pode correr em nuvens com isto. Os poucos que tentaram já ascenderam.',
       nl: 'Sommigen zeggen dat je hiermee op wolken kunt lopen. De weinigen die het geprobeerd hebben zijn al opgestegen.',
+      tr: 'İnsanlar bunlarla bulutların üzerinde koşabileceğinizi söylüyor. Denemiş olan birkaç kişi çoktan atmosfere ulaştı bile.',
       pl: 'Niektórzy mówią, że możesz biegać z nimi po chmurach. Nieliczni, którzy próbowali, już się podnieśli.'
     }
   },
@@ -163,6 +174,7 @@ export default [
       it: 'Stivali antichi che si dice siano stati rubati dai piedi del dio messaggero romano...',
       pt: 'Dizem que botas antigas foram roubadas dos pés do deus mensageiro romano...',
       nl: 'Eeuwenoude laarzen, waarvan wordt beweerd dat ze gestolen zijn uit de voeten van de Romeinse boodschappergod....',
+      tr: 'Roma haber tanrısının ayaklarından çalındığı söylenen eski çizmeler...',
       pl: 'Starożytne buty, które podobno zostały skradzione z nóg posłańca rzymskich bogów...'
     }
   },
@@ -177,6 +189,7 @@ export default [
       it: 'Le stelle sono sempre state considerate onnipotenti, ora sono tue.',
       pt: 'As estrelas sempre foram consideradas todo-poderosas, agora são tuas.',
       nl: 'Sterren werden altijd beschouwd als almachtig, nu zijn ze van jou.',
+      tr: 'Yıldızlar her zaman kudretli olarak kabul edildi, şimdi onlar senin.',
       pl: 'Gwiazdy zawsze uważano za wszechmocne, teraz są twoje.'
     }
   }
