@@ -6,7 +6,7 @@
     "generate": "rollup --config && node ./dist/build.js",
     "verbose": "rollup --config && node ./dist/build.js -v",
     "test": "eslint ./build.js ./loc && npm run generate",
-    "testverbose": "eslint ./build.js ./loc && npm run generate",
+    "testverbose": "eslint ./build.js ./loc && npm run verbose",
     "lint": "eslint ./build.js ./loc --fix"
   },
   "author": "Hordes.io",
