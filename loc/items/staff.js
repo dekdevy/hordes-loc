@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {en: 'Broken Twig' },
+    name       : {$$: 'Broken Twig' },
     description: {
       en: 'Weapon forged by the greatest blacksmith of all the land. At least that\'s what we told little Timmy.',
       hi: 'क्षेत्र के सबसे महान लोहार द्वारा बनाया गया हथियार। नन्हें टिम्मी से तो हमने यही कहा।',
@@ -15,7 +15,7 @@ export default [
   },
 
   {
-    name       : {en: 'Cracked Stick' },
+    name       : {$$: 'Cracked Stick' },
     description: {
       en: 'Desperate situations call for desperate measures.',
       hi: 'हताश स्थितियों हताश उपायों के लिए कहते हैं।',
@@ -30,7 +30,7 @@ export default [
   },
 
   {
-    name       : {en: 'Gnarled Broomstick' },
+    name       : {$$: 'Gnarled Broomstick' },
     description: {
       en: 'Scruffy broomstick stolen from a mage. Gnarled and bony.',
       ru: 'Потрепанная метла украдена у мага. Корявая и костлявая.',
@@ -45,7 +45,7 @@ export default [
   },
 
   {
-    name       : {en: 'Oak Stave' },
+    name       : {$$: 'Oak Stave' },
     description: {
       en: 'A wand cut from the branches of an ancient oak. Infused with deep power.',
       hi: 'प्राचीन पेड की डाल से बनी छड़ी। ',
@@ -60,7 +60,7 @@ export default [
   },
 
   {
-    name       : {en: 'Mystic Wand' },
+    name       : {$$: 'Mystic Wand' },
     description: {
       en: 'Mystical weapon glowing with a mysterious essence.',
       ru: 'Мистическое оружие, светящееся загадочной сущностью.',
@@ -75,7 +75,7 @@ export default [
   },
 
   {
-    name       : {en: 'Bone Stave' },
+    name       : {$$: 'Bone Stave' },
     description: {
       en: 'Nothing fancy about this weapon, just the femur of a lich.',
       ru: 'Ничего особенного в этом оружии, только бедро лича.',
@@ -90,7 +90,7 @@ export default [
   },
 
   {
-    name       : {en: 'Encrusted Wand' },
+    name       : {$$: 'Encrusted Wand' },
     description: {
       en: 'Long rod with a shimmering blue gem on its crown.',
       ru: 'Длинная палочка с синим мерцающим драгоценным камнем на короне.',
@@ -105,7 +105,7 @@ export default [
   },
 
   {
-    name       : {en: 'Imbued Staff' },
+    name       : {$$: 'Imbued Staff' },
     description: {
       en: 'Dark purple staff. Quite mysterious in its making, yet nice to look at.',
       ru: 'Темно-фиолетовый посох. Совершенно таинственного происхождения, но приятно смотреть на него.',
@@ -120,7 +120,7 @@ export default [
   },
 
   {
-    name       : {en: 'Emerald Staff' },
+    name       : {$$: 'Emerald Staff' },
     description: {
       en: 'Constructed from emeralds stolen from the mountain dwarves.',
       ru: 'Создан из изумрудов украденных у горных гномов.',
@@ -135,7 +135,7 @@ export default [
   },
 
   {
-    name       : {en: 'Sapphire Staff' },
+    name       : {$$: 'Sapphire Staff' },
     description: {
       en: 'Strange... the staff seems... triangular...',
       ru: 'Странно... посох кажется... треугольным...',
@@ -150,7 +150,7 @@ export default [
   },
 
   {
-    name       : {en: 'Frozen Greatstaff' },
+    name       : {$$: 'Frozen Greatstaff' },
     description: {
       en: 'Eccentric rod with a pale blue stone embedded inside...',
       ru: 'Эксцентриковый стержень с бледно-голубым камнем, встроенным внутрь...',
@@ -165,7 +165,7 @@ export default [
   },
 
   {
-    name       : {en: 'Infernal Staff' },
+    name       : {$$: 'Infernal Staff' },
     description: {
       en: 'Constructed by unknown blacksmiths residing in fabled valleys.',
       ru: 'Сконструирован неизвестными кузнецами, живущими в сказочных долинах.',
@@ -179,7 +179,7 @@ export default [
   },
 
   {
-    name       : {en: 'Hellfire Greatstaff' },
+    name       : {$$: 'Hellfire Greatstaff' },
     description: {
       en: 'Its beauty calls out to you... to kill... to conquer...',
       ru: 'Его красота призывает тебя... убивать... побеждать...',
@@ -194,7 +194,7 @@ export default [
   },
 
   {
-    name       : {en: 'Staff of Angelness' },
+    name       : {$$: 'Staff of Angelness' },
     description: {
       en: 'A staff stolen from the angels. They\'re still hunting for it.',
       ru: 'Посох, украденный у ангелов. Они все еще охотятся за ним.',
@@ -209,7 +209,7 @@ export default [
   },
 
   {
-    name       : {en: 'Crystal Core' },
+    name       : {$$: 'Crystal Core' },
     description: {
       en: 'Crude in its looks, yet mighty at its heart...',
       ru: 'Грубая внешность, но могущественная в глубине его сердца...',
@@ -224,7 +224,7 @@ export default [
   },
 
   {
-    name       : {en: 'Witchs Heart' },
+    name       : {$$: 'Witchs Heart' },
     description: {
       en: 'We are told it\'s core is from the heart of a witch. No one has found the corpse. Or the staff itself.',
       ru: 'Нам говорят, что его ядро ​​от сердца ведьмы. Но никто не нашел труп. Или сам посох.',
@@ -239,7 +239,7 @@ export default [
   },
 
   {
-    name       : {en: 'Deathweaver' },
+    name       : {$$: 'Deathweaver' },
     description: {
       en: 'This weapon is so secretive that the few who wield it have killed all that know of it.',
       ru: 'Это оружие настолько скрытно, что те, кто владеют им, убили всех, кто о нем знает.',

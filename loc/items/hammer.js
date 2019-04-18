@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {en: 'Splintered Club' },
+    name       : {$$: 'Splintered Club' },
     description: {
       en: 'It\'s already half broken and you are still using it?',
       ru: 'Он уже наполовину сломан, и вы все еще используете его?',
@@ -15,7 +15,7 @@ export default [
   },
 
   {
-    name       : {en: 'Wooden Mallet' },
+    name       : {$$: 'Wooden Mallet' },
     description: {
       en: 'This should be hammering nails, not skulls.',
       ru: 'Это должны быть гвозди, а не черепа.',
@@ -30,7 +30,7 @@ export default [
   },
 
   {
-    name       : {en: 'Rusty Flail' },
+    name       : {$$: 'Rusty Flail' },
     description: {
       en: 'Rusty old hammer, on the verge of breaking.',
       ru: 'Ржавый старый молот, на грани поломки.',
@@ -45,7 +45,7 @@ export default [
   },
 
   {
-    name       : {en: 'Orcish Bludgeon' },
+    name       : {$$: 'Orcish Bludgeon' },
     description: {
       en: 'Orcs follow the wielder of this meager weapon. It\'s pretty useless, but they seem to like it...',
       ru: 'Орки следуют за обладателем этого оружия. Oн довольно бесполезно, но им похоже нравится...',
@@ -60,7 +60,7 @@ export default [
   },
 
   {
-    name       : {en: 'Heavy Mace' },
+    name       : {$$: 'Heavy Mace' },
     description: {
       en: 'Large weapon used in the ancient times to cave in skulls.',
       ru: 'Большое оружие, используемое в древние времена для проламывания черепов.',
@@ -75,7 +75,7 @@ export default [
   },
 
   {
-    name       : {en: 'Iron Basher' },
+    name       : {$$: 'Iron Basher' },
     description: {
       en: 'Strange rod-like basher. Seems crude and emits a faint smell of druid oils...',
       ru: 'Странная стержнеобразная дубинка. Кажется грубой и источает слабый запах друидских масел...',
@@ -90,7 +90,7 @@ export default [
   },
 
   {
-    name       : {en: 'Darkmetal Maul' },
+    name       : {$$: 'Darkmetal Maul' },
     description: {
       en: 'Ancient dwarves forged this mighty structure. Dark and deadly.',
       ru: 'Древние гномы создали эту могущественную булаву. Темная и смертельная.',
@@ -105,7 +105,7 @@ export default [
   },
 
   {
-    name       : {en: 'Divine Gavel' },
+    name       : {$$: 'Divine Gavel' },
     description: {
       en: 'Bronze hammer, triangular shaped. Sharp corners make deep indents in heads.',
       ru: 'Бронзовый молот, треугольной формы. Острые углы делают глубокие выемки в головах.',
@@ -120,7 +120,7 @@ export default [
   },
 
   {
-    name       : {en: 'Hallowed Hammer' },
+    name       : {$$: 'Hallowed Hammer' },
     description: {
       en: 'Holy tool used by druids to make sacrifices to the ancient nature gods.',
       ru: 'Святой инструмент, используемый друидами, чтобы приносить жертвы древним богам природы.',
@@ -135,7 +135,7 @@ export default [
   },
 
   {
-    name       : {en: 'Dwarven Maul' },
+    name       : {$$: 'Dwarven Maul' },
     description: {
       en: 'Heavy basher used by dwarven warriors. Made of an unknown metal, dark and heavy.',
       ru: 'Тяжелая дубинка, используемая гномами-воинами. Изготовлена из неизвестного металла, темная и тяжелая.',
@@ -150,7 +150,7 @@ export default [
   },
 
   {
-    name       : {en: 'Coldforged Gavel' },
+    name       : {$$: 'Coldforged Gavel' },
     description: {
       en: 'Forged without heat, kills without mercy.',
       ru: 'Выкован без огня, убивает без пощады.',
@@ -165,7 +165,7 @@ export default [
   },
 
   {
-    name       : {en: 'Amboss' },
+    name       : {$$: 'Amboss' },
     description: {
       en: 'Topped with the skull of a slain behemoth enemy, this weapon inspires terror in all who stand against it.',
       ru: 'Это оружие, увенчанное черепом бегемота, внушает ужас всем, кто противостоит ему.',
@@ -180,7 +180,7 @@ export default [
   },
 
   {
-    name       : {en: 'Skullshatterer' },
+    name       : {$$: 'Skullshatterer' },
     description: {
       en: 'Can penetrate your feeble skull quite easily. Or your foes. Probably yours though.',
       ru: 'Может легко проникнуть в ваш слабый череп. Или в твоих врагов. Хотя вероятнее в ваш.',
@@ -195,7 +195,7 @@ export default [
   },
 
   {
-    name       : {en: 'Benevolence' },
+    name       : {$$: 'Benevolence' },
     description: {
       en: 'Nothing kind about this cruel weapon.',
       ru: 'Ничего хорошего в этом жестоком оружии.',
@@ -210,7 +210,7 @@ export default [
   },
 
   {
-    name       : {en: 'Hammer of Gaia' },
+    name       : {$$: 'Hammer of Gaia' },
     description: {
       en: 'Some say its made by dwarves, others say by elves... the truth is yet to be uncovered.',
       ru: 'Некоторые говорят, что он сделан дварфами, другие говорят эльфами... правда еще не раскрыта.',
@@ -225,7 +225,7 @@ export default [
   },
 
   {
-    name       : {en: 'Worldender' },
+    name       : {$$: 'Worldender' },
     description: {
       en: 'Does it have the power to end worlds? Few can say. If it does, we will not live long enough to learn of it.',
       ru: 'Есть ли у него сила, чтобы положить конец мирам? Мало кто может сказать. Если это произойдет, нас уже не будет в живых, чтобы узнать об этом.',
@@ -240,7 +240,7 @@ export default [
   },
 
   {
-    name       : {en: 'Nightmare' },
+    name       : {$$: 'Nightmare' },
     description: {
       en: 'A mysterious magician soaked many intricate charms into this weapon, bringing ghastly thoughts and dreams to its wielder.',
       ru: 'Таинственный волшебник впитал множество замысловатых чар на этом оружии, принося ужасные мысли и мечты его обладателю.',
