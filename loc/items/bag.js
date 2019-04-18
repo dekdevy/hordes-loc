@@ -60,6 +60,7 @@ export default [
       pl: 'Ładny fioletowy plecak dla wszystkich Twoich potrzeb podróży.',
       ph: 'Nice purple rucksack para sa lahat ng iyong mga pangangailangan sa paglalakbay.',
       se: 'Trevlig lila ryggsäck för alla dina resebehov.'
+    
     }
   },
 
@@ -74,7 +75,8 @@ export default [
       pt: 'Elegante saco usado por arqueiros elfos a cavalo.',
       it: 'Elegante borsa utilizzata dagli arcieri elfici a cavallo.',
       nl: 'Elegante tas die gebruikt wordt door elvenschutters te paard.',
-      se: 'Elegant bag used by river archers on horseback.'
+      se: 'Elegant bag used by river archers on horseback.',
+      pl: 'Elegancka torba używana przez elfów łuczników na koniu.'
     }
   },
 
@@ -89,7 +91,8 @@ export default [
       pt: 'Tecida com fios de líquen, a construção deste saco permanece um mistério.',
       it: 'Tessuto da fili di lichene, la costruzione di questa borsa rimane un mistero.',
       nl: 'Geweven van korstmosdraden, de constructie van deze tas blijft een mysterie.',
-      se: 'Vävd av trådar av lavar, är byggandet av denna väska ett mysterium.'
+      se: 'Vävd av trådar av lavar, är byggandet av denna väska ett mysterium.',
+      pl: 'Tkany z nici porostów, konstrukcja tej torby pozostaje tajemnicą.'
     }
   }
 
