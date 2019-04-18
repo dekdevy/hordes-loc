@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {en: 'Smelly Talisman' },
+    name       : {$$: 'Smelly Talisman' },
     description: {
       en: 'Smells so bad, I wonder why you even picked it up.',
       ru: 'Пахнет просто отвратительно, я удивляюсь, что ты даже поднял его.',
@@ -15,7 +15,7 @@ export default [
   },
 
   {
-    name       : {en: 'Guided Talisman' },
+    name       : {$$: 'Guided Talisman' },
     description: {
       en: 'Throw it at the sun and it will tell you where to go.',
       ru: 'Брось его на солнце, и он скажет тебе, куда идти.',
@@ -30,7 +30,7 @@ export default [
   },
 
   {
-    name       : {en: 'Ocean Talisman' },
+    name       : {$$: 'Ocean Talisman' },
     description: {
       en: 'Surprisingly, it doesn\'t smell like fish. Just don\'t show it freshwater.',
       ru: 'Удивительно, но он не пахнет рыбой. Просто не показывай ему пресную воду.',
@@ -45,7 +45,7 @@ export default [
   },
 
   {
-    name       : {en: 'Qui\'ton' },
+    name       : {$$: 'Qui\'ton' },
     description: {
       en: 'Can\'t pronounce it, can\'t use it.',
       ru: 'Не могу произнести, не могу использовать.',
@@ -60,7 +60,7 @@ export default [
   },
 
   {
-    name       : {en: 'Dimension Talisman' },
+    name       : {$$: 'Dimension Talisman' },
     description: {
       en: 'Ripped from between worlds, this talisman allows for transition between realms.',
       ru: 'Разорванный между мирами, этот талисман позволяет переходить между вселенными.',

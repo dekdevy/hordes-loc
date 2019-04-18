@@ -1,6 +1,6 @@
 export default [
   { // T1 item name. names are english only!
-    name       : { en: 'Wooden Sword' },
+    name       : {$$: 'Wooden Sword' },
     // Item description
     description: {
       en: 'Name says it all. Careful of the splinters.',
@@ -16,7 +16,7 @@ export default [
   },
 
   { // T2 item
-    name       : { en: 'Rusty Ironsword' },
+    name       : {$$: 'Rusty Ironsword' },
     description: {
       en: 'Not much better than a blunt piece of wood in my opinion.',
       ru: 'Не намного лучше, чем тупой кусок дерева, на мой взгляд.',
@@ -31,7 +31,7 @@ export default [
   },
 
   { // T3 item
-    name       : { en: 'Troll Blade' },
+    name       : {$$: 'Troll Blade' },
     description: {
       en: 'Am I being pranked?',
       ru: 'Меня тролят?',
@@ -46,7 +46,7 @@ export default [
   },
 
   { // T4 item
-    name       : { en: 'Broadsword' },
+    name       : {$$: 'Broadsword' },
     description: {
       en: 'Some knight dropped this. Probably unintentionally.',
       ru: 'Какой-то рыцарь бросил это. Вероятно, непреднамеренно.',
@@ -61,7 +61,7 @@ export default [
   },
 
   { // T5 item. names are english only!
-    name       : { en: 'Longsword' },
+    name       : {$$: 'Longsword' },
     description: {
       en: 'Long? Yes. Deadly? Maybe. Just don\'t cut yourself.',
       ru: 'длинный? да. Смертельный? Может быть. Только не порежься.',
@@ -75,7 +75,7 @@ export default [
     }
   },
   { // T6 item
-    name       : { en: 'Carved Bonesword' },
+    name       : {$$: 'Carved Bonesword' },
     description: {
       en: 'Crudely carved from the bones of an ancient behemoth.',
       ru: 'Грубо вырезанный из кости древнего бегемота',
@@ -89,7 +89,7 @@ export default [
     }
   },
   { // T7 item
-    name       : { en: 'Greatsword' },
+    name       : {$$: 'Greatsword' },
     description: {
       en: 'A sword so mighty that few can handle it. It\'s pretty heavy.',
       ru: 'Меч такой могущественный, что немногие могут с ним справиться. Довольно тяжелый.',
@@ -103,7 +103,7 @@ export default [
     }
   },
   { // T8 item
-    name       : { en: 'Ghastly Scimitar' },
+    name       : {$$: 'Ghastly Scimitar' },
     description: {
       en: 'Diabolical curved blade. Even holding it makes you feel its dark essence.',
       ru: 'Дьявольское изогнутое лезвие. Когда вы его держите, вы чувствуете его темную сущность.',
@@ -118,7 +118,7 @@ export default [
   },
 
   { // T9 item
-    name       : { en: 'Nullfire Sword' },
+    name       : {$$: 'Nullfire Sword' },
     description: {
       en: 'A cold-looking blade with a burning hot slice.',
       ru: 'Холодный клинок с горячим надрезами.',
@@ -133,7 +133,7 @@ export default [
   },
 
   { // T10 item
-    name       : { en: 'Knight\'s Greatsword' },
+    name       : {$$: 'Knight\'s Greatsword' },
     description: {
       en: 'A blade wielded by only the most skillful knights.',
       ru: 'Клинок, которым владеют только самые умелые рыцари',
@@ -147,7 +147,7 @@ export default [
   },
 
   { // T11 item
-    name       : { en: 'King\'s Glaive' },
+    name       : {$$: 'King\'s Glaive' },
     description: {
       en: 'Cylindrical sword stolen from an ancient king. Cutting capability is questionable.',
       ru: 'Цилиндрический меч украден у древнего короля. Возможность разрезки сомнительна.',
@@ -162,7 +162,7 @@ export default [
   },
 
   { // T12 item
-    name       : { en: 'Void Blade' },
+    name       : {$$: 'Void Blade' },
     description: {
       en: 'Powerful masterpiece brought from the abysses of the underworld.',
       ru: 'Мощный шедевр, принесенный из бездны подземного мира.',
@@ -176,7 +176,7 @@ export default [
   },
 
   { // T13 item
-    name       : { en: 'Zerstörer' },
+    name       : {$$: 'Zerstörer' },
     description: {
       en: 'Mysterious pink sword. Engravings say "Mächtig Zerstörer".',
       ru: 'Таинственный розовый меч. Гравюры говорят "Mächtig Zerstörer".',
@@ -191,7 +191,7 @@ export default [
   },
 
   { // T14 item
-    name       : { en: 'Hearteater' },
+    name       : {$$: 'Hearteater' },
     description: {
       en: 'Cuts through your foes hearts. Eats them on the way.',
       ru: 'Разрезает сердца ваших врагов. Eст их по дороге.',
@@ -206,7 +206,7 @@ export default [
   },
 
   { // T15 item
-    name       : { en: 'Demonedge' },
+    name       : {$$: 'Demonedge' },
     description: {
       en: 'It can cut demons, but not angels.',
       ru: 'Oно может резать демонов, но не ангелов',
@@ -221,7 +221,7 @@ export default [
   },
 
   { // T16 item
-    name       : { en: 'Excalibur' },
+    name       : {$$: 'Excalibur' },
     description: {
       en: 'We were told it was pulled from stone. Still can\'t find the stone.',
       ru: 'Нам сказали, что он был извлечен из камня. Все еще не можем найти камень.',
@@ -236,7 +236,7 @@ export default [
   },
 
   { // T17 item
-    name       : { en: 'Harbringer' },
+    name       : {$$: 'Harbringer' },
     description: {
       en: 'This weapon brings about the coming of a new age.',
       ru: 'Это оружие вызывает наступление новой эры.',

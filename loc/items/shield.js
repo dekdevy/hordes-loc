@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {en: 'Wooden Shield' },
+    name       : {$$: 'Wooden Shield' },
     description: {
       en: 'Literally a square plank of wood.',
       ru: 'Буквально квадратная доска из дерева.',
@@ -10,12 +10,13 @@ export default [
       hi: 'केवल एक लकड़ी का टुकड़ा।',
       it: 'Letteralmente una tavola quadrata di legno.',
       pt: 'Literalmente uma tábua quadrada de madeira.',
-      nl: 'Letterlijk een vierkante plank van hout.'
+      nl: 'Letterlijk een vierkante plank van hout.',
+      pl: 'Dosłownie kwadratowa deska z drewna.'
     }
   },
 
   {
-    name       : {en: 'Buckler' },
+    name       : {$$: 'Buckler' },
     description: {
       en: 'Smelted iron ring filled with bronze. Flimsy in its making.',
       ru: 'Плавленый железный круг залитый бронзой. Довольно хлипкий.',
@@ -30,7 +31,7 @@ export default [
   },
 
   {
-    name       : {en: 'Old Bulwark' },
+    name       : {$$: 'Old Bulwark' },
     description: {
       en: 'Some farmer has managed to construct a cute little shield.',
       ru: 'Какому-то фермеру удалось создать милый маленький щит.',
@@ -40,12 +41,13 @@ export default [
       hi: 'किसी किसान के एक छोटी सी ढाल बना ही ली।',
       it: 'Qualche contadino è riuscito a costruire un piccolo scudo carino.',
       pt: 'Algum agricultor conseguiu construir um pequeno e bonito escudo.',
-      nl: 'Sommige boeren zijn erin geslaagd om een schattig schildje te bouwen.'
+      nl: 'Sommige boeren zijn erin geslaagd om een schattig schildje te bouwen.',
+      pl: 'Jednemu z rolników udało się zbudować ładną małą tarczę.'
     }
   },
 
   {
-    name       : {en: 'Metal Guard' },
+    name       : {$$: 'Metal Guard' },
     description: {
       en: 'Intricate shield made out of three solid metal pieces. Sturdy.',
       ru: 'Замысловатый щит из трех металлических частей. Прочный',
@@ -55,12 +57,13 @@ export default [
       hi: 'लोहे के तीन ठोस टुकड़ों से बनी जटील ढाल। तगड़ी है।',
       it: 'Intricato scudo composto da tre pezzi di metallo massiccio. Robusto.',
       pt: 'Escudo intrincado feito de três peças metálicas sólidas. Resistente.',
-      nl: 'Geïntegreerd schild gemaakt van drie massieve metalen delen. Stevig.'
+      nl: 'Geïntegreerd schild gemaakt van drie massieve metalen delen. Stevig.',
+      pl: 'Intrygująca osłona wykonana z trzech litych metalowych kawałków. Wytrzymała.'
     }
   },
 
   {
-    name       : {en: 'Protectron' },
+    name       : {$$: 'Protectron' },
     description: {
       en: 'Made from obsidian and steel. Someone sloppily attempted to paint it yellow. They failed. Miserably.',
       ru: 'Изготовлен из обсидиана и стали. Кто-то небрежно попытался покрасить его в желтый цвет. Hе удалось.',
@@ -70,7 +73,8 @@ export default [
       hi: 'ओब्सिदीयन और इस्पात से बनी ढाल। किसी ने इसे पीला रंगने की कोशिश की पर उनसे सही से हो न पाया।',
       it: 'Questo è fatto di ossidiana e acciaio. Qualcuno ha tentato disordinatamente di dipingerlo di giallo. Hanno fallito. Miseramente.',
       pt: 'Feito de obsidiana e aço. Alguém descuidadamente tentou pintá-lo de amarelo. Eles falharam. Miseravelmente.',
-      nl: 'Gemaakt van obsidiaan en staal. Iemand heeft slordig geprobeerd het geel te schilderen. Ze hebben gefaald. Ellendig.'
+      nl: 'Gemaakt van obsidiaan en staal. Iemand heeft slordig geprobeerd het geel te schilderen. Ze hebben gefaald. Ellendig.',
+      pl: 'Zrobione z obsydianu i stali. Ktoś niechlujnie próbował namalować go na żółto. Nie udało im się. Nędznie.'
     }
   }
 
