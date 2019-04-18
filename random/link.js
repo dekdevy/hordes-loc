@@ -18,7 +18,8 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'augmeneted', 'embarrassing', 'humiliating', 'dubious', 'cruel', 'cunning', 'glamorous', 'accidental', 'intricate',
   'jolly', 'stereotypical', 'crazy', 'devious', 'religious', 'disordered', 'drunk', 'elusive', 'elite', 'elven', 'erratic',
   'hated', 'hybrid', 'immortal', 'lucrative', 'ragged', 'illegal', 'sceptical', 'intellegent', 'accurate', 'charismatic',
-  'agile', 'strong', 'stealthy', 'deadly', 'experienced', 'abnormal', 'abominable', 'flying']
+  'agile', 'strong', 'stealthy', 'deadly', 'experienced', 'abnormal', 'abominable', 'flying', 'brave', 'seasoned', 'sturdy',
+  'corrupted', 'tarnished', 'paranormal', 'decaying']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
