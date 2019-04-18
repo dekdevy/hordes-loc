@@ -232,7 +232,7 @@ export default [
       de: 'Diese Waffe ist so geheimnisvoll, dass die wenigen, die sie führen, alle getötet haben, die von ihr wissen.',
       fr: 'Cette arme est si secrète que les quelques personnes qui la manie ont tué tous ceux qui la connaissent.',
       pt: 'Esta arma é tão secreta que os poucos que a empunham mataram todos os que a conhecem.',
-      nl: 'Dit wapen is zo geheimzinnig dat de weinigen die het in handen hebben, het allemaal hebben gedood.'
+      nl: 'Dit wapen is zo geheimzinnig dat de weinigen die het in handen hebben, hebben al de kennis gedood van het.'
     }
   }
 
