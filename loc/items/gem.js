@@ -87,7 +87,7 @@ export default [
     name       : {en: 'Tara' },
     description: {
       en: 'The sharp green edges catch sparkling light in the sun, making a beautiful and deadly sight.',
-      ru: 'Острые зеленые края улавливают блики на солнце, создавая прекрасный и смертоносный свет.',
+      ru: 'Острые зеленые края улавливают блики на солнце, создавая прекрасный и смертоносный вид.',
       es: 'Los bordes afilados de color verde captan una luz brillante en el sol, lo que hace que la vista sea hermosa y mortal.',
       de: 'Die scharfen grünen Kanten fangen funkelndes Licht in der Sonne ein und machen einen schönen und tödlichen Anblick.',
       fr: 'Les arêtes vertes vives captent la lumière étincelante du soleil, ce qui en fait un spectacle magnifique et mortel.',
