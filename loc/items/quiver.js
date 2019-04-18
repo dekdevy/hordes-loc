@@ -10,7 +10,8 @@ export default [
       it: 'Morbido, pieno di buchi. Le frecce continuano a cadere.',
       pt: 'Suave, cheio de buracos. As setas continuam caindo.',
       hi: 'मुलायम और गद्दों से भारी हुई। सारे तीर गिरते रहते है।',
-      nl: 'Zacht, vol gaten. Pijlen blijven uitvallen.'
+      nl: 'Zacht, vol gaten. Pijlen blijven uitvallen.',
+      pl: 'Miękka, pełna dziur. Strzałki wciąż wypadają.'
     }
   },
 
@@ -25,7 +26,8 @@ export default [
       it: 'Sacco in lino rivestito in pelle rigida.',
       pt: 'Saco de linho coberto de couro rígido.',
       hi: 'सख़्त चमड़े से ढकी लिनन की पोती।',
-      nl: 'Linnenzak bedekt met stijf leer.'
+      nl: 'Linnenzak bedekt met stijf leer.',
+      pl: 'Lniany worek pokryty sztywną skórą.'
     }
   },
 
@@ -40,7 +42,8 @@ export default [
       it: 'Usato quando tutto il resto fallisce.',
       pt: 'Usado quando tudo o resto falha.',
       hi: 'आख़री रास्ता यही है',
-      nl: 'Wordt gebruikt als al het andere faalt.'
+      nl: 'Wordt gebruikt als al het andere faalt.',
+      pl: 'Używane, gdy wszystko inne zawodzi.'
     }
   },
 
@@ -55,7 +58,8 @@ export default [
       it: 'Faretra elfica rivestita di diamante luccicante.',
       pt: 'Aljava elfica revestida com diamante cintilante.',
       hi: 'एल्वेन पोटली, हीरों से जड़ी।',
-      nl: 'Elven koker gecoat in glinsterende diamant.'
+      nl: 'Elven koker gecoat in glinsterende diamant.',
+      pl: 'Elficki kołczan pokryty błyszczącym diamentem.'
     }
   },
 
@@ -70,7 +74,8 @@ export default [
       it: 'Ogni volta che tiri fuori una freccia, ti sibila addosso.',
       pt: 'Sempre que puxas uma flecha para fora, ela sibila para ti.',
       hi: 'तीर निकालने पर साँप की तरह फूफकारती है।',
-      nl: 'Elke keer als je een pijl eruit trekt, sist het naar je.'
+      nl: 'Elke keer als je een pijl eruit trekt, sist het naar je.',
+      pl: 'Za każdym razem, gdy wyciągasz strzałę, syczysz na siebie.'
     }
   }
 
