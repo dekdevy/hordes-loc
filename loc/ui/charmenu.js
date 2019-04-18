@@ -21,7 +21,8 @@ export default {
       it: 'Seleziona carattere',
       pl: 'Wybierz postać',
       nl: 'Selecteer karakter',
-      pt: 'Selecionar Caractere'
+      pt: 'Selecionar Caractere',
+      ht: 'Chwazi karaktè'
     },
 
     create: {
@@ -42,7 +43,8 @@ export default {
       it: 'Clicca per creare il personaggio',
       pl: 'Kliknij, aby utworzyć postać',
       nl: 'Klik om karakter te creëren',
-      pt: 'Clique para criar um personagem'
+      pt: 'Clique para criar um personagem',
+      ht: 'Klike sou yo kreye karaktè'
     },
 
     enterWorld: {
@@ -84,7 +86,8 @@ export default {
       it: 'Slot vuoto',
       pl: 'Puste miejsce',
       nl: 'Leeg',
-      pt: 'Vazio'
+      pt: 'Vazio',
+      ht: 'Antre nan mond lan'
     },
 
     error: {
@@ -105,7 +108,8 @@ export default {
       it: 'Errore di rete',
       pl: 'Błąd sieci',
       nl: 'Netwerkfout',
-      pt: 'Erro de rede'
+      pt: 'Erro de rede',
+      ht: 'Rezo erè'
     }
   },
 
@@ -129,7 +133,8 @@ export default {
       it: 'Creazione del personaggio',
       pl: 'Tworzenie postaci',
       nl: 'Karakter creatie',
-      pt: 'Criação de personagens'
+      pt: 'Criação de personagens',
+      ht: 'Kreyasyon karaktè'
     },
 
     pressIcon: {
@@ -150,7 +155,8 @@ export default {
       it: 'Premi unicona per una breve descrizione',
       pl: 'Naciśnij ikonę, aby uzyskać krótki opis',
       nl: 'Druk op een pictogram voor een korte beschrijving.',
-      pt: 'Pressione um ícone para uma breve descrição.'
+      pt: 'Pressione um ícone para uma breve descrição.',
+      ht: 'Peze yon icon pou yon deskripsyon tou kout.'
     },
 
     selectClass: {
@@ -171,7 +177,8 @@ export default {
       it: 'Seleziona una classe',
       pl: 'Wybierz klasę',
       nl: 'Selecteer een klasse',
-      pt: 'Selecione uma classe'
+      pt: 'Selecione uma classe',
+      ht: 'Chwazi yon klas'
     },
 
     selectFaction: {
@@ -192,7 +199,8 @@ export default {
       it: 'Seleziona una fazione',
       pl: 'Wybierz frakcję',
       nl: 'Selecteer een groepering',
-      pt: 'Selecione uma facção'
+      pt: 'Selecione uma facção',
+      ht: 'Chwazi yon faksyon'
     },
 
     enterName: {
@@ -213,7 +221,8 @@ export default {
       it: 'Inserisci un nome',
       pl: 'Wpisz imię',
       nl: 'Voer een naam in',
-      pt: 'Digite um nome'
+      pt: 'Digite um nome',
+      ht: 'Mete yon non'
     },
 
     nameReq: {
@@ -234,7 +243,8 @@ export default {
       it: '  Il tuo nome può contenere solo caratteri a-Z e numeri da 0 a 9, senza spazi. Fino a 16 caratteri.',
       pl: 'Twoje imię może zawierać tylko znaki a-Z i cyfry 0-9, bez spacji. Do 16 znaków.',
       nl: 'Uw naam kan alleen tekens a-Z bevatten, en cijfers 0-9, zonder spaties. Tot 16 tekens.',
-      pt: 'Seu nome só pode conter caracteres a-Z, e números 0-9, sem espaços. Até 16 caracteres.'
+      pt: 'Seu nome só pode conter caracteres a-Z, e números 0-9, sem espaços. Até 16 caracteres.',
+      ht: 'Non ou ka sèlman gen karaktè a-Z, ak nimewo 0-9, san okenn espas. Jiska 16 karaktè.'
     }
   },
 
@@ -259,7 +269,8 @@ export default {
       it: 'Elimina',
       pl: 'Kasować',
       nl: 'Verwijderen',
-      pt: 'Eliminar'
+      pt: 'Eliminar',
+      ht: 'Efase'
     },
 
     info: {
@@ -280,7 +291,8 @@ export default {
       it: 'Per cancellare, digita il nome del personaggio. Il tuo personaggio non può essere ripristinato.',
       pl: 'Aby usunąć, wpisz nazwę postaci. Twoja postać nie może zostać przywrócona.',
       nl: 'Om te verwijderen, typt u de naam van het teken in. Je karakter kan niet worden hersteld.',
-      pt: 'Para apagar, digite o nome do personagem. Seu personagem não pode ser restaurado.'
+      pt: 'Para apagar, digite o nome do personagem. Seu personagem não pode ser restaurado.',
+      ht: 'Efase, tape non karaktè a. Karaktè ou pa kapab retabli.'
     },
 
     placeholder: {
@@ -301,7 +313,8 @@ export default {
       it: 'Sei sicuro?',
       pl: 'Jesteś pewny?',
       nl: 'Weet je het zeker?',
-      pt: 'Tens a certeza?'
+      pt: 'Tens a certeza?',
+      ht: 'Èske w sèten?'
     }
   }
 }
