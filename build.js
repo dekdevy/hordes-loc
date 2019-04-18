@@ -13,7 +13,7 @@ const findLang = (obj, types)=>{
       // if object, iterate recursively
       findLang(string, types)
     } else {
-      // if string, cb
+      // if string, add to language set
       if(!types.has(langType)) {
         types.set(langType, {})
       }

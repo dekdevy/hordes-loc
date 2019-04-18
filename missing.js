@@ -10,7 +10,7 @@ const findLang = (obj, set)=>{
       // if object, iterate recursively
       findLang(string, set)
     } else {
-      // if string, cb
+      // if string, add to language set
       set.add(langType)
     }
   })
