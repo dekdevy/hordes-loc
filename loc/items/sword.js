@@ -85,7 +85,7 @@ export default [
       hi: 'प्राचीन बेहेमोथ की हड्डियों से तराशी हुई।',
       pt: 'Esculpido grosseiramente nos ossos de um antigo beemote.',
       nl: 'Ruw gesneden uit de botten van een oude kolos.',
-      pl: 'Wycięte z kości starożytnego olbrzyma.'   
+      pl: 'Wycięte z kości starożytnego olbrzyma.'
     }
   },
   { // T7 item
