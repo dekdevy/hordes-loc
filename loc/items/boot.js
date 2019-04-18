@@ -8,7 +8,8 @@ export default [
       es: 'A lo menos puede tirarlo para hacer daño significativo.',
       it: 'Almeno tu indossi qualcosa su quei piedi.',
       pt: 'Pelo menos estás a usar algo nesses pés.',
-      nl: 'Je draagt tenminste iets op die voeten.'
+      nl: 'Je draagt tenminste iets op die voeten.',
+      pl: 'Przynajmniej nosisz coś na tych stopach.'
     }
   },
 
@@ -21,7 +22,8 @@ export default [
       es: 'OI. Estos son calcetines. ¡Dame mis chanclas!',
       it: 'Suole fatte di stoffa, probabilmente si strappano dopo qualche ora.',
       pt: 'Solas feitas de tecido, provavelmente rasgarão depois de algumas horas.',
-      nl: 'Zolen van doek, zullen waarschijnlijk na een paar uur scheuren.'
+      nl: 'Zolen van doek, zullen waarschijnlijk na een paar uur scheuren.',
+      pl: 'Podeszwy wykonane z tkaniny, prawdopodobnie rozerwą się po kilku godzinach.'
     }
   },
 
@@ -34,7 +36,8 @@ export default [
       es: 'Se dice que el cuero suave es despojado de los jabalíes que deambulan por los espeluznantes bosques.',
       it: 'Si dice che la morbida pelle sia stata rimossa dai cinghiali che vagano nei boschi inquietanti.',
       pt: 'Diz-se que o couro macio é arrancado dos javalis selvagens que vagueiam pelos bosques sinistros.',
-      nl: 'Het zachte leer zou gestript zijn van wilde zwijnen die door de griezelige bossen zwerven.'
+      nl: 'Het zachte leer zou gestript zijn van wilde zwijnen die door de griezelige bossen zwerven.',
+      pl: 'Mówi się, że miękka skóra jest rozebrana z dzika wędrującego po przerażających lasach.'
     }
   },
 
@@ -47,7 +50,8 @@ export default [
       es: 'Claramente sin imaginación, el zapatero uso los huesos de una criatura grande...',
       it: 'Chiaramente privo di immaginazione, l\'autore ha realizzato stivali dalle ossa di una creatura molto grande...',
       pt: 'Claramente sem imaginação, o fabricante fez botas a partir dos ossos de uma criatura muito grande...',
-      nl: 'Duidelijk niet verbeeldingsvol, de maker maakte laarzen van de botten van een zeer groot wezen....'
+      nl: 'Duidelijk niet verbeeldingsvol, de maker maakte laarzen van de botten van een zeer groot wezen....',
+      pl: 'Wyraźnie pozbawiony wyobraźni, twórca wykonał buty z kości bardzo dużego stworzenia...'
     }
   },
 
@@ -60,7 +64,8 @@ export default [
       es: 'Escamas misteriosas que cubren la parte exterior del calzado, atrapando los reflejos del sol.',
       it: 'Scaglie misteriose coprono l\'esterno delle vostre calzature, catturando i riflessi del sole.',
       pt: 'Escalas misteriosas cobrem o exterior do seu calçado, pegando olhares ao sol.',
-      nl: 'Mysterieuze weegschalen bedekken de buitenkant van je schoeisel en vangen de blikken in de zon.'
+      nl: 'Mysterieuze weegschalen bedekken de buitenkant van je schoeisel en vangen de blikken in de zon.',
+      pl: 'The mysterious scale covers the outside of the shoe, capturing reflections in the sun.'
     }
   },
 
@@ -73,7 +78,8 @@ export default [
       es: '¡Eyyy, ahora puedes correr sin desmayar con zapatos reales!',
       it: 'Un piacevole motivo fatto per paralizzare i tuoi nemici... chiedo se funziona',
       pt: 'Um padrão agradável feito para paralisar os teus inimigos... imagina se funciona.',
-      nl: 'Een aangenaam patroon om je vijanden te verlammen.... of het werkt.'
+      nl: 'Een aangenaam patroon om je vijanden te verlammen.... of het werkt.',
+      pl: 'Przyjemny wzór stworzony w celu sparaliżowania twoich wrogów... zastanawiam się, czy działa...'
     }
   },
 
@@ -86,7 +92,8 @@ export default [
       es: 'No protegieron sus dueños anteriores tan bien, tal vez funcionan mejor ahora.',
       it: 'Preso da veterani di guerra che chiaramente non hanno trovato abbastanza protezione da questi ciccioli.',
       pt: 'Levados por veteranos de guerra que claramente não encontraram protecção suficiente contra estes torresmos.',
-      nl: 'Genomen van oorlogsveteranen die duidelijk niet genoeg bescherming vonden tegen deze kanen.'
+      nl: 'Genomen van oorlogsveteranen die duidelijk niet genoeg bescherming vonden tegen deze kanen.',
+      pl: 'Odebrane od weteranów wojennych, którzy najwyraźniej nie znaleźli wystarczającej ochrony przed tymi skwarkami.'
     }
   },
 
@@ -99,7 +106,8 @@ export default [
       es: 'Macizo y fornido, prbablamente incómodo.',
       it: 'Chunky nel suo aspetto, probabilmente molto scomodo.',
       pt: 'Aparentemente volumoso, provavelmente muito desconfortável.',
-      nl: 'Mollig in zijn uiterlijk, waarschijnlijk erg ongemakkelijk.'
+      nl: 'Mollig in zijn uiterlijk, waarschijnlijk erg ongemakkelijk.',
+      pl: 'W swoim wyglądzie, prawdopodobnie bardzo niewygodny.'
     }
   },
 
@@ -112,7 +120,8 @@ export default [
       es: 'Con estos zapatos puedes ver el viento y llevarlo contigo.',
       it: 'Corri veloce come il vento... o vicino ad esso',
       pt: 'Corra tão rápido como o vento... ou perto dele.',
-      nl: 'Ren zo snel als de wind.... of dichtbij.'
+      nl: 'Ren zo snel als de wind.... of dichtbij.',
+      pl: 'Biegnij tak szybko jak wiatr.... lub blisko niego.'
     }
   },
 
@@ -125,7 +134,8 @@ export default [
       es: 'Forjado sin calor, te dejan correr sin tropezar.',
       it: 'Forgiato senza calore, funziona senza inciampare',
       pt: 'Forjado sem calor, corre sem tropeçar.',
-      nl: 'Gesmeed zonder warmte, loopt zonder struikelen.'
+      nl: 'Gesmeed zonder warmte, loopt zonder struikelen.',
+      pl: 'Kute bez ciepła, pracuje bez potknięcia się.'
     }
   },
 
@@ -138,7 +148,8 @@ export default [
       es: '¡Corre por las nubes con las nuevas Air Miguels!',
       it: 'C\'è chi dice che con queste si può correre sulle nuvole. I pochi che hanno provato sono già saliti.',
       pt: 'Alguns dizem que se pode correr em nuvens com isto. Os poucos que tentaram já ascenderam.',
-      nl: 'Sommigen zeggen dat je hiermee op wolken kunt lopen. De weinigen die het geprobeerd hebben zijn al opgestegen.'
+      nl: 'Sommigen zeggen dat je hiermee op wolken kunt lopen. De weinigen die het geprobeerd hebben zijn al opgestegen.',
+      pl: 'Niektórzy mówią, że możesz biegać z nimi po chmurach. Nieliczni, którzy próbowali, już się podnieśli.'
     }
   },
 
@@ -151,7 +162,8 @@ export default [
       es: 'Botas del mesajero mentiroso, del espía nocturno, del dios griego de apoyar y asesinar.',
       it: 'Stivali antichi che si dice siano stati rubati dai piedi del dio messaggero romano...',
       pt: 'Dizem que botas antigas foram roubadas dos pés do deus mensageiro romano...',
-      nl: 'Eeuwenoude laarzen, waarvan wordt beweerd dat ze gestolen zijn uit de voeten van de Romeinse boodschappergod....'
+      nl: 'Eeuwenoude laarzen, waarvan wordt beweerd dat ze gestolen zijn uit de voeten van de Romeinse boodschappergod....',
+      pl: 'Starożytne buty, które podobno zostały skradzione z nóg posłańca rzymskich bogów...'
     }
   },
 
@@ -164,7 +176,8 @@ export default [
       es: 'Las armas mas peligrosas del universo, chanclas imbuido con la ira y furia de una madre cariñosa.',
       it: 'Le stelle sono sempre state considerate onnipotenti, ora sono tue.',
       pt: 'As estrelas sempre foram consideradas todo-poderosas, agora são tuas.',
-      nl: 'Sterren werden altijd beschouwd als almachtig, nu zijn ze van jou.'
+      nl: 'Sterren werden altijd beschouwd als almachtig, nu zijn ze van jou.',
+      pl: 'Gwiazdy zawsze uważano za wszechmocne, teraz są twoje.'
     }
   }
 
