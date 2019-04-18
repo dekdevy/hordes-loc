@@ -123,7 +123,7 @@ export default [
     name       : {en: 'Aeter' },
     description: {
       en: 'Bright green lights occasionally span out of this glass gem, casting projections of the wearers future.',
-      ru: 'Яркий зеленый свет иногда проливается из этого стеклянного камня, в глаза владельта ево будущея.',
+      ru: 'Яркий зеленый свет иногда проливается из этого стеклянного камня, бросая в глаза владельта ево будущея.',
       es: 'Las luces verdes vivo extienden a veces fuera de esta gema de cristal, proyecciones de fundición del futuro de los usuarios.',
       de: 'Strahlend grüne Lichter ragen gelegentlich aus diesem Glasjuwel heraus und werfen Projektionen der Zukunft der Träger hervor.',
       fr: 'Des lumières vertes brillantes s\'étendent occasionnellement à l\'extérieur de ce joyau de verre, projetant les projections de l\'avenir de ceux qui le portent.',

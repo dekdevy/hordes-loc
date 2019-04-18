@@ -3,7 +3,7 @@ export default [
     name       : {en: 'Splintered Club' },
     description: {
       en: 'It\'s already half broken and you are still using it?',
-      ru: 'Это уже наполовину сломано, и вы все еще используете его?',
+      ru: 'Он уже наполовину сломан, и вы все еще используете его?',
       hi: 'यह पहले से ही आधा टूट गया है और आप अभी भी इसे प्रयोग कर रहे हैं?',
       es: '¿Ya está medio roto y todavía lo estás usando?',
       de: 'Es ist bereits halb gebrochen und du benutzt es immer noch?',
@@ -59,7 +59,7 @@ export default [
     name       : {en: 'Heavy Mace' },
     description: {
       en: 'Large weapon used in the ancient times to cave in skulls.',
-      ru: 'Большое оружие, используемое в древние времена для разрушенея черепаx.',
+      ru: 'Большое оружие, используемое в древние времена для проламывания черепов.',
       hi: 'बड़े खोपड़ी में गुफा के लिए प्राचीन समय में इस्तेमाल किया हथियार।',
       es: 'Gran arma utilizada en la antigüedad para derribar cráneos.',
       de: 'Große Waffe, die in der Antike benutzt wurde, um in Schädeln einzugreifen.',
@@ -73,7 +73,7 @@ export default [
     name       : {en: 'Iron Basher' },
     description: {
       en: 'Strange rod-like basher. Seems crude and emits a faint smell of druid oils...',
-      ru: 'Странный стержнеобразный башер. Кажется грубый и испускает слабый запах друидских масел...',
+      ru: 'Странная стержнеобразная дубинка. Кажется грубой и источает слабый запах друидских масел...',
       hi: 'अजीब छड़ी की तरह basher। कच्चे तेल लगता है और ड्र्यूड तेलों की एक बेहोश गंध का उत्सर्जन करता है...',
       es: 'Extraño golpeador en forma de varilla. Parece crudo y emite un ligero olor a aceite de druida...',
       de: 'Seltsamer stabförmiger Schläger. Scheint roh zu sein und verströmt einen schwachen Geruch von Druidenölen...',
@@ -87,7 +87,7 @@ export default [
     name       : {en: 'Darkmetal Maul' },
     description: {
       en: 'Ancient dwarves forged this mighty structure. Dark and deadly.',
-      ru: 'Древние гномы создали эту могущественную структуру. Темноя и смертельно.',
+      ru: 'Древние гномы создали эту могущественную булаву. Темная и смертельная.',
       hi: 'प्राचीन बौने इस शक्तिशाली संरचना का निर्माण किया। डार्क और घातक।',
       es: 'Los enanos antiguos forjaron esta poderosa estructura. Oscura y mortal.',
       de: 'Alte Zwerge schmiedeten diese mächtige Struktur. Dunkel und tödlich.',
@@ -129,7 +129,7 @@ export default [
     name       : {en: 'Dwarven Maul' },
     description: {
       en: 'Heavy basher used by dwarven warriors. Made of an unknown metal, dark and heavy.',
-      ru: 'Тяжелый башер, используемый гномами-воинами. Изготовлен из неизвестного металла, темный и тяжелый.',
+      ru: 'Тяжелая дубинка, используемая гномами-воинами. Изготовлена из неизвестного металла, темная и тяжелая.',
       hi: 'भारी बौना योद्धाओं द्वारा प्रयोग किया जाता basher। एक अज्ञात धातु, काले और भारी से बना।',
       es: 'Golpeador pesado usado por los guerreros enanos. Hecho de un metal desconocido, oscuro y pesado.',
       de: 'Schwerer Schläger, der von Zwergenkrieger benutzt wird. Hergestellt aus einem unbekannten Metall, dunkel und schwer.',
@@ -143,7 +143,7 @@ export default [
     name       : {en: 'Coldforged Gavel' },
     description: {
       en: 'Forged without heat, kills without mercy.',
-      ru: 'Выкован без тепла, убивает без пощады.',
+      ru: 'Выкован без огня, убивает без пощады.',
       hi: 'गर्मी के बिना जाली, दया के बिना मर जाते हैं।',
       es: 'Forjado sin calor, mata sin misericordia.',
       de: 'Ohne Hitze geschmiedet, ohne Gnade getötet.',
@@ -171,7 +171,7 @@ export default [
     name       : {en: 'Skullshatterer' },
     description: {
       en: 'Can penetrate your feeble skull quite easily. Or your foes. Probably yours though.',
-      ru: 'Может легко проникнуть в ваш слабый череп. Или твои враги. Вероятно, ваш, хотя.',
+      ru: 'Может легко проникнуть в ваш слабый череп. Или в твоих врагов. Хотя вероятнее в ваш.',
       hi: 'काफी आसानी से अपने कमजोर खोपड़ी घुसना कर सकते हैं। या अपने दुश्मनों। शायद तुम्हारा हालांकि।',
       es: 'Cubierta con el cráneo de un enemigo gigante asesinado, esta arma inspira terror en todos los que se oponen a ella.',
       de: 'Mit dem Schädel eines getöteten Riesenfeindes überzogen, inspiriert diese Waffe Schrecken bei allen, die sich dagegen stellen.',
@@ -185,7 +185,7 @@ export default [
     name       : {en: 'Benevolence' },
     description: {
       en: 'Nothing kind about this cruel weapon.',
-      ru: 'Ничего доброго в этом жестоком  оружии.',
+      ru: 'Ничего хорошего в этом жестоком оружии.',
       hi: 'कुछ भी नहीं प्रकार के बारे में इस क्रूर हथियार।',
       es: 'Esta arma cruel no tiene nada de amable.',
       de: 'Nichts Besonderes an dieser grausamen Waffe.',
@@ -199,7 +199,7 @@ export default [
     name       : {en: 'Hammer of Gaia' },
     description: {
       en: 'Some say its made by dwarves, others say by elves... the truth is yet to be uncovered.',
-      ru: 'Некоторые говорят, что он сделано дварфами, другие говорят эльфами... правда еще не раскрыта.',
+      ru: 'Некоторые говорят, что он сделан дварфами, другие говорят эльфами... правда еще не раскрыта.',
       hi: 'कुछ लोग कहते हैं अपने बौने द्वारा बनाई गई हैं, दूसरों का कहना है कि कल्पित बौने से ... सच का पर्दाफाश किया जा करने के लिए अभी तक है।',
       es: 'Algunos dicen que está hecho por enanos, otros dicen que por elfos... la verdad aún no ha sido descubierta.',
       de: 'Einige sagen, dass es von Zwergen gemacht wurde, andere sagen, dass es von Elfen gemacht wurde... die Wahrheit ist noch nicht enthüllt.',
@@ -213,7 +213,7 @@ export default [
     name       : {en: 'Worldender' },
     description: {
       en: 'Does it have the power to end worlds? Few can say. If it does, we will not live long enough to learn of it.',
-      ru: 'Есть ли у него сила, чтобы положить конец мирам? Мало кто может сказать. Если это произойдет, мы не будем жить достаточно долго, чтобы узнать об этом.',
+      ru: 'Есть ли у него сила, чтобы положить конец мирам? Мало кто может сказать. Если это произойдет, нас уже не будет в живых, чтобы узнать об этом.',
       hi: 'यह शक्ति दुनिया समाप्त करने के लिए है? कुछ कह सकते हैं। यदि ऐसा है, हम लंबे इसके बारे में जानने के लिए पर्याप्त नहीं रह जाएगा।',
       es: '¿Tiene el poder de acabar con los mundos? Pocos pueden decirlo. Si lo hace, no viviremos lo suficiente para aprenderlo.',
       de: 'Hat sie die Macht, Welten zu beenden? Nur wenige können das sagen. Wenn dies der Fall ist, werden wir nicht lange genug leben, um davon zu erfahren.',

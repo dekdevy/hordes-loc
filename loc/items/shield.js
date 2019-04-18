@@ -18,7 +18,7 @@ export default [
     name       : {en: 'Buckler' },
     description: {
       en: 'Smelted iron ring filled with bronze. Flimsy in its making.',
-      ru: 'Плавленое железное кольцо заполнено бронзой. Хлипкий в его создании.',
+      ru: 'Плавленый железный круг залитый бронзой. Довольно хлипкий.',
       es: 'Anillo de hierro fundido relleno de bronce. Frágil en su fabricación.',
       de: 'Geschmolzener Eisenring mit Bronzefüllung. Flimsy in seiner Entstehung.',
       fr: 'Bague en fonte de fer remplie de bronze. Frêle dans sa fabrication.',
@@ -33,7 +33,7 @@ export default [
     name       : {en: 'Old Bulwark' },
     description: {
       en: 'Some farmer has managed to construct a cute little shield.',
-      ru: 'Некоторому фермеру удалось создать милый маленький щит.',
+      ru: 'Какому-то фермеру удалось создать милый маленький щит.',
       es: 'Algún granjero ha conseguido construir un bonito escudo.',
       de: 'Einem Landwirt ist es gelungen, einen süßen kleinen Schild zu bauen.',
       fr: 'Un fermier a réussi à construire un joli petit bouclier.',
@@ -48,7 +48,7 @@ export default [
     name       : {en: 'Metal Guard' },
     description: {
       en: 'Intricate shield made out of three solid metal pieces. Sturdy.',
-      ru: 'Замысловатый щит из трех металлических частей. Прочная',
+      ru: 'Замысловатый щит из трех металлических частей. Прочный',
       es: 'Intrincado escudo hecho de tres piezas de metal macizo. Robusto.',
       de: 'Aufwendiger Schild aus drei massiven Metallteilen. Robust.',
       fr: 'Bouclier complexe composé de trois pièces en métal massif. Robuste.',
