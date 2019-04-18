@@ -177,7 +177,7 @@ export default [
       pt: 'Luvas tão poderosas na sua natureza que o ar brilha ao acenar com a mão.',
       nl: 'Handschoenen die zo krachtig van aard zijn, dat de lucht glinstert als je met je hand zwaait.',
       pl: 'Rękawiczki są tak potężne w swojej naturze, że samo powietrze mieni się, gdy machasz ręką.',
-      pt: 'Luvas tão poderosas na sua natureza que o ar brilha ao acenar com a mão'
+      pt: 'Luvas tão poderosas na sua natureza que o ar brilha ao acenar com a mão.'
     }
   }
 
