@@ -9,7 +9,8 @@ export default {
       fr: 'Salutations voyageur errant! Vous voulez vendre quelque chose?',
       it: 'Viaggiatore errante di saluti! gradite vendere qualcosa?',
       ht: 'Bonjou vwayajè! Vle vann yon bagay?',
-      pl: 'Pozdrowienia dla wędrownych podróżników! Chcesz coś sprzedać??'
+      pl: 'Pozdrowienia dla wędrownych podróżników! Chcesz coś sprzedać??',
+      nl: 'Gegroet zwervende reiziger! Wilt u iets verkopen?'
     },
     choices: {
       en: 'Yes, of course.',
@@ -19,7 +20,8 @@ export default {
       fr: 'Oui, bien sûr.',
       it: 'Sì, naturalmente.',
       ht: 'Wi nan kou.',
-      pl: 'Tak, oczywiście.'
+      pl: 'Tak, oczywiście.',
+      nl: 'Ja, natuurlijk.'
     }
   }]
 }
