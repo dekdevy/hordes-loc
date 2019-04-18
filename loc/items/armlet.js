@@ -38,7 +38,7 @@ export default [
     name       : {en: 'Leather Armlet' },
     description: {
       en: 'Stiff, makes your arm sore.',
-      ru: 'Тугие на столько что, твоя рука начинает опухать.',
+      ru: 'Такой тугой, что твоя рука начинает опухать.'
       es: 'Mas cuero. Todo es cuero. Nesecitas una chaqueta de cuero para ser completo.',
       fr: 'Rigide, rend le bras douloureux',
       de: 'Steif, macht deinen Arm wund.',
@@ -106,8 +106,8 @@ export default [
   {//T7
     name       : {en: 'Ember Cuffs' },
     description: {
-      en: 'Scaled bracer, makes your arms resemble that of a dragon.',
-      ru: 'Чешуйчатый наруч, делает ваши руки похожими на руки дракона.',
+      en: 'Scaled bracer, makes your arm resemble that of a dragon.',
+      ru: 'Чешуйчатый наруч, делает твою руку похожую на лапу дракона.',
       es: 'Con brazos de dragones, puedes resistir todo.',
       fr: 'Remontant en écailles, cela fait ressembler vos bras à ceux d\'un dragon.',
       de: 'Schuppiger Armschutz, lässt deine Arme an die eines Drachens erinnern.',
