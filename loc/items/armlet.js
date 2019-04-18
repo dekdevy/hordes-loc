@@ -99,7 +99,7 @@ export default [
       se: 'Dull metall bracer, praktisk för natten raiding.',
       tr: 'Donuk metal tutucu, gece baskını için kullanışlı.',
       pl: 'Nudny metalowy biustonosz, przydatny podczas nocnych nalotów.'
-    
+ 
     }
   },
 
