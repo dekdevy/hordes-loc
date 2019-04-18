@@ -112,8 +112,8 @@ export default [
   {//T7
     name       : {$$: 'Ember Cuffs' },
     description: {
-      en: 'Scaled bracer, makes your arms resemble that of a dragon.',
-      ru: 'Чешуйчатый наруч, делает ваши руки похожими на руки дракона.',
+      en: 'Scaled bracer, makes your arm resemble that of a dragon.',
+      ru: 'Чешуйчатый наруч, делает вашу руку похоже на руку дракона.',
       es: 'Con brazos de dragones, puedes resistir todo.',
       fr: 'Remontant en écailles, cela fait ressembler vos bras à ceux d\'un dragon.',
       de: 'Schuppiger Armschutz, lässt deine Arme an die eines Drachens erinnern.',
