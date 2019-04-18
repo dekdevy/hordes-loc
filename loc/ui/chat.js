@@ -11,7 +11,8 @@ export default {
     tr: 'Hepsini Göster',
     nl: 'Toon alle',
     pt: 'Mostrar todos',
-    pl: 'Pokaż wszystko'
+    pl: 'Pokaż wszystko',
+    ht: 'Montre tout'
   },
 
   showclan: {
@@ -25,7 +26,8 @@ export default {
     tr: 'Klanı göster',
     nl: 'Toon Clan',
     pt: 'Mostrar Clã',
-    pl: 'Pokaż klan'
+    pl: 'Pokaż klan',
+    ht: 'Montre klan'
   },
 
   showsystem: {
@@ -39,54 +41,33 @@ export default {
     tr: 'Sistemi Göster',
     nl: 'Toon systeem',
     pt: 'Mostrar sistema',
-    pl: 'System pokazów'
+    pl: 'System pokazów',
+    ht: 'Montre Sistèm'
   },
 
+  // translations not needed
   loot: {
-    en: 'Loot',
-    ru: 'Добыча',
-    hi: 'लूट',
-    es: 'Botín',
-    de: 'Beute',
-    fr: 'Pillage',
-    ko: '전리품',
-    tr: 'Ganimet',
-    nl: 'Luit',
-    pt: 'Saque',
-    pl: 'Łupy'
+    $$: 'Loot'
   },
 
+  // translations not needed
   exp: {
-    en: 'exp',
-    ru: 'Опыт',
-    hi: 'ऐक्सपी',
-    es: 'exp',
-    tr: 'dny',
-    bg: 'Годен',
-    ja: '経験値',
-    nl: 'exp',
-    pt: 'exp',
-    pl: 'exp exp'
+    $$: 'exp'
   },
 
+  // translations not needed
   pvp: {
-    en: 'PvP',
-    ru: 'Бой',
-    hi: 'पिविपी',
-    es: 'PvP',
-    nl: 'PvP',
-    pt: 'PvP',
-    pl: 'PvP'
+    $$: 'PvP'
   },
 
   // translations not needed
   twitter: {
-    en: 'TW'
+    $$: 'TW'
   },
 
   // translations not needed
   discord: {
-    en: 'Discord'
+    $$: 'Discord'
   }
 
 }

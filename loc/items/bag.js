@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {en: 'Linen Pouch' },
+    name       : {$$: 'Linen Pouch' },
     description: {
       en: 'Small little purse used by merchants\' wives.',
       ru: 'маленькая сумочка раньше использована женами купцов.',
@@ -22,7 +22,7 @@ export default [
   },
 
   {
-    name       : {en: 'Adventurer\'s Rucksack' },
+    name       : {$$: 'Adventurer\'s Rucksack' },
     description: {
       en: 'The buckle is worth more than the rest of it.',
       ru: 'Пряжка стоит больше, чем все остальное.',
@@ -44,7 +44,7 @@ export default [
   },
 
   {
-    name       : {en: 'Purpur Duffel' },
+    name       : {$$: 'Purpur Duffel' },
     description: {
       en: 'Nice purple rucksack for all your traveling needs.',
       ru: 'Хороший фиолетовый рюкзак для любых нужд путешественника.',
@@ -66,7 +66,7 @@ export default [
   },
 
   {
-    name       : {en: 'Elven Saddlebag' },
+    name       : {$$: 'Elven Saddlebag' },
     description: {
       en: 'Elegant bag used by elven archers on horseback.',
       ru: 'Элегантная сумка, используемая эльфийскими лучниками на лошадях.',
@@ -83,7 +83,7 @@ export default [
   },
 
   {
-    name       : {en: 'Moss Enigma' },
+    name       : {$$: 'Moss Enigma' },
     description: {
       en: 'Woven from threads of lichen, the construction of this bag remains a mystery.',
       ru: 'Сплетенная из нитей лишайника конструкция этой сумки остается загадкой.',

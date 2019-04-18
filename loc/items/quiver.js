@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {en: 'Linen Quiver' },
+    name       : {$$: 'Linen Quiver' },
     description: {
       en: 'Soft, full of holes. Arrows keep falling out.',
       ru: 'Мягкий, дырявый. Стрелы постоянно выпадают.',
@@ -16,7 +16,7 @@ export default [
   },
 
   {
-    name       : {en: 'Reinforced Quiver' },
+    name       : {$$: 'Reinforced Quiver' },
     description: {
       en: 'Linen sack covered in stiff leather.',
       ru: 'Льняной мешочек обтянутый жесткой кожей.',
@@ -32,7 +32,7 @@ export default [
   },
 
   {
-    name       : {en: 'Last Reserves' },
+    name       : {$$: 'Last Reserves' },
     description: {
       en: 'Used when all else fails.',
       ru: 'Используется, когда ничего не помогает.',
@@ -48,7 +48,7 @@ export default [
   },
 
   {
-    name       : {en: 'Lotharien' },
+    name       : {$$: 'Lotharien' },
     description: {
       en: 'Elven quiver coated in shimmering diamond.',
       ru: 'Эльфийский колчан, покрытый мерцающим бриллиантом.',
@@ -64,7 +64,7 @@ export default [
   },
 
   {
-    name       : {en: 'Snake Quiver' },
+    name       : {$$: 'Snake Quiver' },
     description: {
       en: 'Every time you pull an arrow out, it hisses at you.',
       ru: 'Каждый раз, когда вы вытаскиваете стрелу, она шипит на вас.',
