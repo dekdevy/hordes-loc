@@ -113,7 +113,7 @@ export default [
     name       : {$$: 'Ember Cuffs' },
     description: {
       en: 'Scaled bracer, makes your arm resemble that of a dragon.',
-      ru: 'Чешуйчатый наруч, делает вашу руку похоже на руку дракона.',
+      ru: 'Чешуйчатый наруч, делает вашу руку похоже на лапу дракона.',
       es: 'Con brazos de dragones, puedes resistir todo.',
       fr: 'Remontant en écailles, cela fait ressembler vos bras à ceux d\'un dragon.',
       de: 'Schuppiger Armschutz, lässt deine Arme an die eines Drachens erinnern.',
