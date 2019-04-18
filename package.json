@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "generate": "rollup --config && node ./dist/build.js",
-    "test": "eslint ./build.js ./loc && npm run generate",
-    "lint": "eslint ./build.js ./loc --fix"
+    "test": "eslint ./build.js ./loc ./random && npm run generate",
+    "lint": "eslint ./build.js ./loc ./random --fix"
   },
   "author": "Hordes.io",
   "license": "UNLICENSED",
