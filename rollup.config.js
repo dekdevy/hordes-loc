@@ -1,7 +1,7 @@
 module.exports = {
-  input : 'build.js',
+  input : ['build.js', 'missing.js'],
   output: {
-    file  : 'dist/build.js',
+    dir   : 'dist/',
     format: 'cjs'
   }
 }

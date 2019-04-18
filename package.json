@@ -4,8 +4,10 @@
   "main": "index.js",
   "scripts": {
     "generate": "rollup --config && node ./dist/build.js",
+    "find-missing": "rollup --config && node ./dist/missing.js",
     "test": "eslint ./build.js ./loc ./random && npm run generate",
-    "lint": "eslint ./build.js ./loc ./random --fix"
+    "test-missing":"eslint ./missing.js ./loc ./random && npm run find-missing",
+    "lint": "eslint ./build.js ./missing.js ./loc ./random --fix"
   },
   "author": "Hordes.io",
   "license": "UNLICENSED",
