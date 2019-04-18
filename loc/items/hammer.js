@@ -9,7 +9,8 @@ export default [
       de: 'Es ist bereits halb gebrochen und du benutzt es immer noch?',
       fr: 'Il est déjà à moitié cassé et vous l\'utilisez toujours ?',
       pt: 'Já está meio partido e ainda estás a usá-lo?',
-      nl: 'Het is al voor de helft gebroken en je gebruikt het nog steeds?'
+      nl: 'Het is al voor de helft gebroken en je gebruikt het nog steeds?',
+      pl: 'Jest już w połowie zepsuty, a ty nadal go używasz?'
     }
   },
 
@@ -23,7 +24,8 @@ export default [
       de: 'Das sollten hämmernde Nägel sein, nicht Schädel.',
       fr: 'Ça devrait être des clous martelés, pas des crânes.',
       pt: 'Isto devia ser martelar pregos, não caveiras.',
-      nl: 'Dit zouden hamerende spijkers moeten zijn, geen schedels.'
+      nl: 'Dit zouden hamerende spijkers moeten zijn, geen schedels.',
+      pl: 'To powinno być młotkowanie gwoździ, a nie czaszek.'
     }
   },
 
@@ -37,7 +39,8 @@ export default [
       de: 'Rostiger alter Hammer, kurz davor, zu brechen.',
       fr: 'Un vieux marteau rouillé, sur le point de se briser.',
       pt: 'Um velho martelo enferrujado, prestes a partir-se.',
-      nl: 'Roestige oude hamer, op het punt om te breken.'
+      nl: 'Roestige oude hamer, op het punt om te breken.',
+      pl: 'Zardzewiały, stary młotek, na skraju załamania.'
     }
   },
 
@@ -51,7 +54,8 @@ export default [
       de: 'Orks folgen dem Besitzer dieser mageren Waffe. Es ist ziemlich nutzlos, aber sie scheinen es zu mögen...',
       fr: 'Les Orques suivent le maître de cette maigre arme. C\'est plutôt inutile, mais ils ont l\'air d\'aimer ça...',
       pt: 'Os Orcs seguem o portador desta magra arma. É bastante inútil, mas eles parecem gostar...',
-      nl: 'Orken volgen de drager van dit magere wapen. Het is vrij nutteloos, maar ze lijken het leuk te vinden....'
+      nl: 'Orken volgen de drager van dit magere wapen. Het is vrij nutteloos, maar ze lijken het leuk te vinden....',
+      pl: 'Orkowie podążają za władcą tej mizernej broni. Jest to dość bezużyteczne, ale im się to podoba....'
     }
   },
 
@@ -65,7 +69,8 @@ export default [
       de: 'Große Waffe, die in der Antike benutzt wurde, um in Schädeln einzugreifen.',
       fr: 'Grande arme utilisée dans l\'Antiquité pour céder des crânes.',
       pt: 'Grande arma usada nos tempos antigos para ceder em caveiras.',
-      nl: 'Groot wapen dat in de oudheid gebruikt werd om in schedels te grotten.'
+      nl: 'Groot wapen dat in de oudheid gebruikt werd om in schedels te grotten.',
+      pl: 'Duża broń używana w starożytności do jaskiniowania czaszek.'
     }
   },
 
@@ -79,7 +84,8 @@ export default [
       de: 'Seltsamer stabförmiger Schläger. Scheint roh zu sein und verströmt einen schwachen Geruch von Druidenölen...',
       fr: 'Étrange batteur en forme de baguette. Semble brut et émet une légère odeur d\'huile de druide...',
       pt: 'Estranho basher em forma de bastão. Parece bruto e emite um ligeiro cheiro a óleos druidas...',
-      nl: 'Vreemde staafvormige basher. Lijkt ruw en verspreidt een vage geur van druïdenoliën....'
+      nl: 'Vreemde staafvormige basher. Lijkt ruw en verspreidt een vage geur van druïdenoliën....',
+      pl: 'Dziwny, podobny do pręta basher. Wydaje się surowy i wydziela słaby zapach olejków druidów...'
     }
   },
 
@@ -93,7 +99,8 @@ export default [
       de: 'Alte Zwerge schmiedeten diese mächtige Struktur. Dunkel und tödlich.',
       fr: 'Les anciens nains ont forgé cette puissante structure. Sombre et mortel.',
       pt: 'Antigos anões forjaram esta poderosa estrutura. Escuros e mortais.',
-      nl: 'Oude dwergen hebben deze machtige structuur gesmeed. Donker en dodelijk.'
+      nl: 'Oude dwergen hebben deze machtige structuur gesmeed. Donker en dodelijk.',
+      pl: 'Starożytne krasnoludy wykuły tę potężną strukturę. Ciemne i zabójcze.'
     }
   },
 
@@ -107,7 +114,8 @@ export default [
       de: 'Bronzehammer, dreieckig geformt. Scharfe Ecken machen tiefe Einschnitte in den Kopf.',
       fr: 'Marteau en bronze de forme triangulaire. Les coins tranchants creusent de profondes entailles dans la tête.',
       pt: 'Martelo em bronze, de forma triangular. Cantos afiados fazem recuos profundos nas cabeças.',
-      nl: 'Bronzen hamer, driehoekig van vorm. Scherpe hoeken maken diepe inkepingen in hoofden.'
+      nl: 'Bronzen hamer, driehoekig van vorm. Scherpe hoeken maken diepe inkepingen in hoofden.',
+      pl: 'Młotek z brązu, kształt trójkąta. Ostre narożniki tworzą głębokie wgłębienia w głowach.'
     }
   },
 
@@ -121,7 +129,8 @@ export default [
       de: 'Heiliges Werkzeug, das von Druiden benutzt wird, um dem großen Gott Yggdrasil Opfer zu bringen.',
       fr: 'Outil sacré utilisé par les druides pour faire des sacrifices au grand dieu, Yggdrasil.',
       pt: 'Ferramenta sagrada usada pelos druidas para fazer sacrifícios aos deuses da natureza antiga.',
-      nl: 'Heilig instrument gebruikt door druïden om offers te brengen aan de oude natuurgoden.'
+      nl: 'Heilig instrument gebruikt door druïden om offers te brengen aan de oude natuurgoden.',
+      pl: 'Święte narzędzie używane przez druidów do składania ofiar starożytnym bogom natury.'
     }
   },
 
@@ -135,7 +144,8 @@ export default [
       de: 'Schwerer Schläger, der von Zwergenkrieger benutzt wird. Hergestellt aus einem unbekannten Metall, dunkel und schwer.',
       fr: 'Une arme lourde utilisée par les guerriers nains. Fait d\'un métal inconnu, sombre et lourd.',
       pt: 'Um basher pesado usado por guerreiros anões. Feito de um metal desconhecido, escuro e pesado.',
-      nl: 'Zware basher gebruikt door dwergenkrijgers. Gemaakt van een onbekend metaal, donker en zwaar.'
+      nl: 'Zware basher gebruikt door dwergenkrijgers. Gemaakt van een onbekend metaal, donker en zwaar.',
+      pl: 'Ciężki basher używany przez karłowatych wojowników. Wykonane z nieznanego metalu, ciemne i ciężkie.'
     }
   },
 
@@ -149,7 +159,8 @@ export default [
       de: 'Ohne Hitze geschmiedet, ohne Gnade getötet.',
       fr: 'Forgé sans chaleur, tue sans pitié.',
       pt: 'Forjado sem calor, mata sem misericórdia.',
-      nl: 'Gesmeed zonder warmte, doodt zonder genade.'
+      nl: 'Gesmeed zonder warmte, doodt zonder genade.',
+      pl: 'Kute bez ciepła, zabija bez litości.'
     }
   },
 
@@ -163,7 +174,8 @@ export default [
       de: 'Mit dem Schädel eines getöteten Riesenfeindes überzogen, inspiriert diese Waffe Schrecken bei allen, die sich dagegen stellen.',
       fr: 'Surmontée du crâne d\'un ennemi géant assassiné, cette arme inspire la terreur à tous ceux qui s\'y opposent.',
       pt: 'Encimada com o crânio de um inimigo beemote morto, esta arma inspira terror em todos os que estão contra ela.',
-      nl: 'Bovenop staat de schedel van een gedode kolossale vijand en dit wapen inspireert terreur bij iedereen die ertegen opkomt.'
+      nl: 'Bovenop staat de schedel van een gedode kolossale vijand en dit wapen inspireert terreur bij iedereen die ertegen opkomt.',
+      pl: 'Uwieńczona czaszką zabitego olbrzymiego wroga, broń ta wywołuje przerażenie u wszystkich, którzy się jej sprzeciwiają.'
     }
   },
 
@@ -177,7 +189,8 @@ export default [
       de: 'Mit dem Schädel eines getöteten Riesenfeindes überzogen, inspiriert diese Waffe Schrecken bei allen, die sich dagegen stellen.',
       fr: 'Surmontée du crâne d\'un ennemi géant assassiné, cette arme inspire la terreur à tous ceux qui s\'y opposent.',
       pt: 'Pode penetrar facilmente no seu crânio fraco. Ou seus inimigos. Provavelmente seu, porém.',
-      nl: 'Kan vrij gemakkelijk in uw zwakke schedel doordringen. Of je vijanden. Waarschijnlijk wel de jouwe.'
+      nl: 'Kan vrij gemakkelijk in uw zwakke schedel doordringen. Of je vijanden. Waarschijnlijk wel de jouwe.',
+      pl: 'Może przeniknąć twoją słabą czaszkę całkiem łatwo. Albo twoi wrogowie. Prawdopodobnie jednak twoja.'
     }
   },
 
@@ -191,7 +204,8 @@ export default [
       de: 'Nichts Besonderes an dieser grausamen Waffe.',
       fr: 'Cette arme cruelle n\'a rien de bon.',
       pt: 'Não há nada de bom nesta arma cruel.',
-      nl: 'Niets aardigs aan dit wrede wapen.'
+      nl: 'Niets aardigs aan dit wrede wapen.',
+      pl: 'Nic miłego w tej okrutnej broni.'
     }
   },
 
@@ -205,7 +219,8 @@ export default [
       de: 'Einige sagen, dass es von Zwergen gemacht wurde, andere sagen, dass es von Elfen gemacht wurde... die Wahrheit ist noch nicht enthüllt.',
       fr: 'Certains disent que c\'est fait par des nains, d\'autres par des elfes... la vérité na pas encore été découverte.',
       pt: 'Alguns dizem que é feita por anões, outros por elfos... a verdade ainda está por descobrir.',
-      nl: 'Sommigen zeggen dat het gemaakt is door dwergen, anderen zeggen dat het door elfen is gemaakt.... de waarheid moet nog ontdekt worden.'
+      nl: 'Sommigen zeggen dat het gemaakt is door dwergen, anderen zeggen dat het door elfen is gemaakt.... de waarheid moet nog ontdekt worden.',
+      pl: 'Jedni mówią, że został stworzony przez krasnoludki, inni, że przez elfy.... prawda nie została jeszcze odkryta.'
     }
   },
 
@@ -219,7 +234,8 @@ export default [
       de: 'Hat sie die Macht, Welten zu beenden? Nur wenige können das sagen. Wenn dies der Fall ist, werden wir nicht lange genug leben, um davon zu erfahren.',
       fr: 'A-t-il le pouvoir de mettre fin aux mondes ? Peu de gens peuvent le dire. Si c\'est le cas, nous ne vivrons pas assez longtemps pour l\'apprendre.',
       pt: 'Tem o poder de acabar com mundos? Poucos podem dizer. Se o fizer, não viveremos tempo suficiente para aprender com ele.',
-      nl: 'Heeft het de kracht om werelden te beëindigen? Weinigen kunnen dat zeggen. Als dat zo is, zullen we niet lang genoeg leven om ervan te leren.'
+      nl: 'Heeft het de kracht om werelden te beëindigen? Weinigen kunnen dat zeggen. Als dat zo is, zullen we niet lang genoeg leven om ervan te leren.',
+      pl: 'Czy ma moc kończenia świata? Niewielu może powiedzieć. Jeśli tak się stanie, nie będziemy żyli wystarczająco długo, aby się o tym nauczyć.'
     }
   },
 
@@ -233,7 +249,8 @@ export default [
       de: 'Mysteriöser Magier, der mit vielen komplizierten Reizen auf dieser Waffe getränkt ist und schreckliche Gedanken und Träume zu seinem Verwalter bringt.',
       fr: 'Mystérieux magicien trempé dans de nombreux charmes complexes sur cette arme, apportant des pensées et des rêves épouvantables à celui qui l\'utilise.',
       pt: 'Um mágico misterioso embebeu muitos encantos intrincados nesta arma, trazendo pensamentos e sonhos horríveis ao seu portador.',
-      nl: 'Een mysterieuze goochelaar heeft vele ingewikkelde charmes in dit wapen gedrenkt, daardoor het drager van terrible gedachten en dromen.'
+      nl: 'Een mysterieuze goochelaar heeft vele ingewikkelde charmes in dit wapen gedrenkt, daardoor het drager van terrible gedachten en dromen.',
+      pl: 'Tajemniczy magik nasączył tę broń wieloma zawiłymi wdziękami, przynosząc okropne myśli i marzenia władcy.'
     }
   }
 
