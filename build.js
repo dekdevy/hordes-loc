@@ -1,4 +1,3 @@
-const code = require('locale-code')
 import loc from './loc/loc.js'
 
 // First, collect all types of languages present, so we do not have to maintain a list
@@ -46,7 +45,7 @@ const compile = (obj, lang, currentType, metrics)=>{
         // if we have no translation, check whether english is present
         // otherwise use whatever
           if(process.argv.includes('-v')) {
-            console.warn(`${code.getLanguageName(currentType)} translation not found in ${value.en} → ${key}.`)
+            console.warn(`${currentType} translation not found in ${value.en} → ${key}.`)
           }
           metrics.miss++
           lang[key] = value['en'] || value

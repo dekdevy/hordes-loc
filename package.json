@@ -3,15 +3,15 @@
   "description": "Hordes.io string localization",
   "main": "index.js",
   "scripts": {
-    "generate": "rollup --config && node ./dist/build.js -v",
-    "test": "eslint ./build.js ./loc && npm run generate",
+    "generate": "rollup --config && node ./dist/build.js",
+    "verbose": "rollup --config && node ./dist/build.js -v",
+    "test": "eslint ./build.js ./loc && npm run verbose",
     "lint": "eslint ./build.js ./loc --fix"
   },
   "author": "Hordes.io",
   "license": "UNLICENSED",
   "dependencies": {
-    "rollup": "^1.9.0",
-    "locale-code": "^2.0.2"
+    "rollup": "^1.9.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
