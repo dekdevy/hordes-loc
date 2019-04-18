@@ -76,7 +76,8 @@ export default {
     es: 'PvP',
     nl: 'PvP',
     pt: 'PvP',
-    pl: 'PvP'
+    pl: 'PvP',
+    tr: 'PvP'
   },
 
   // translations not needed
