@@ -101,7 +101,7 @@ export default [
       pt: 'Braçadeira de metal aborrecida, útil para raides nocturnos.',
       ko: '무딘 금속 브레이 서, 야간의 습격에 편리합니다.',
       nl: 'Dof metalen bracer, handig voor nachtelijke overvallen.',
-      se: 'Dull metall bracer, praktisk för natten raiding.',
+      sv: 'Dull metall bracer, praktisk för natten raiding.',
       tr: 'Donuk metal tutucu, gece baskını için kullanışlı.',
       pl: 'Nudny metalowy biustonosz, przydatny podczas nocnych nalotów.',
       ht: 'Dim metal braslè, pratik pou atak lannwit.'
