@@ -77,9 +77,9 @@ const path = process.argv[2] || './dist/loc/'
 if (!fs.existsSync(path)) {
   fs.mkdirSync(path)
 }
-languages.forEach((lang, type)=>{
-  fs.writeFile(path+`${type}.json`, JSON.stringify(lang), (e)=>{
+languages.forEach(async (lang, type)=>{
+  await fs.writeFile(path+`${type}.json`, JSON.stringify(lang), (e)=>{
     if(e) throw e
-    console.log(`  ${type} -> ${type}.json`)
   })
 })
+console.log(`  ${languages.size} languages exported`)

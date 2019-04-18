@@ -8,7 +8,10 @@ export default {
     de: 'Alle anzeigen',
     fr: 'Montrer tous/toutes',
     ko: '모두 보이기',
-    nl: 'Toon alle'
+    tr: 'Hepsini Göster',
+    nl: 'Toon alle',
+    pt: 'Mostrar todos',
+    pl: 'Pokaż wszystko'
   },
 
   showclan: {
@@ -19,7 +22,10 @@ export default {
     de: 'Show-Clan',
     fr: 'Afficher le clan',
     ko: '클랜 보이기',
-    nl: 'Toon Clan'
+    tr: 'Klanı göster',
+    nl: 'Toon Clan',
+    pt: 'Mostrar Clã',
+    pl: 'Pokaż klan'
   },
 
   showsystem: {
@@ -30,7 +36,10 @@ export default {
     de: 'System anzeigen',
     fr: 'Afficher le système',
     ko: '시스템 보이기',
-    nl: 'Toon systeem'
+    tr: 'Sistemi Göster',
+    nl: 'Toon systeem',
+    pt: 'Mostrar sistema',
+    pl: 'System pokazów'
   },
 
   loot: {
@@ -41,7 +50,10 @@ export default {
     de: 'Beute',
     fr: 'Pillage',
     ko: '전리품',
-    nl: 'Luit'
+    tr: 'Ganimet',
+    nl: 'Luit',
+    pt: 'Saque',
+    pl: 'Łupy'
   },
 
   exp: {
@@ -49,9 +61,12 @@ export default {
     ru: 'Опыт',
     hi: 'ऐक्सपी',
     es: 'exp',
+    tr: 'dny',
     bg: 'Годен',
     ja: '経験値',
-    nl: 'exp'
+    nl: 'exp',
+    pt: 'exp',
+    pl: 'exp exp'
   },
 
   pvp: {
@@ -59,7 +74,9 @@ export default {
     ru: 'Бой',
     hi: 'पिविपी',
     es: 'PvP',
-    nl: 'PvP'
+    nl: 'PvP',
+    pt: 'PvP',
+    pl: 'PvP'
   },
 
   // translations not needed
