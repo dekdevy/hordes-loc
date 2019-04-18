@@ -137,6 +137,7 @@ export default [
     description: {
       en: 'A blade wielded by only the most skillful knights.',
       ru: 'Клинок, которым владеют только самые умелые рыцари',
+      es: 'Una espada blandida sólo por los caballeros más hábiles.',
       fr: 'Une lame maniée par les plus grands chevaliers.',
       de: 'Eine Klinge, die nur von den geschicktesten Rittern geführt wird.',
       hi: 'सबसे कुशल योद्धा ही इसे चला सकते है।',
@@ -166,6 +167,7 @@ export default [
     description: {
       en: 'Powerful masterpiece brought from the abysses of the underworld.',
       ru: 'Мощный шедевр, принесенный из бездны подземного мира.',
+      es: 'Una poderosa obra maestra traída de los abismos del inframundo.',
       fr: 'Puissant chef-d\'oeuvre apporté des abysses du monde souterrain.',
       de: 'Ein kraftvolles Meisterwerk aus den Abgründen der Unterwelt.',
       hi: 'पाताल से लायी गयी शक्तिशाली श्रेष्ठ रचना।',
