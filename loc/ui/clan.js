@@ -17,7 +17,8 @@ export default {
     pt: 'Gerente do Clã',
     ph: 'Clan Manager',
     sv: 'Clan Manager',
-    ht: 'Manadjè klan'
+    ht: 'Manadjè klan',
+    nl: 'Clanmanager'
   },
 
   leave: {
@@ -37,7 +38,8 @@ export default {
     pt: 'Saia do clã',
     ph: 'Iwanan mo ang grupo',
     sv: 'Lämna Clan',
-    ht: 'Kite Clan'
+    ht: 'Kite Clan',
+    nl: 'Verlofclan'
   },
 
   heading: {
@@ -57,7 +59,8 @@ export default {
     pt: 'Clã',
     ph: 'Clan',
     sv: 'Klan',
-    ht: 'Clan'
+    ht: 'Clan',
+    nl: 'Clan'
   },
 
   createheading: {
@@ -77,7 +80,8 @@ export default {
     pt: 'Criar clã',
     ph: 'Lumikha ng Clan',
     sv: 'Skapa Clan',
-    ht: 'Kreye Clan'
+    ht: 'Kreye Clan',
+    nl: 'Creërenclan'
   },
 
   createinfo: {
@@ -97,7 +101,8 @@ export default {
     pt: 'Para criar um clã você precisa',
     ph: 'Upang lumikha ng isang lahi na kailangan mo',
     sv: 'För att skapa en klan behöver du',
-    ht: 'Pou kreye yon klan ou bezwen'
+    ht: 'Pou kreye yon klan ou bezwen',
+    nl: 'Om een clan te creëren heb je het volgende nodig'
   },
 
   createname: {
@@ -117,7 +122,8 @@ export default {
     pt: 'Nome do clã',
     ph: 'Pangalan ng isang lipi',
     sv: 'Klan namn',
-    ht: 'Non klan'
+    ht: 'Non klan',
+    nl: 'Clannaam'
   },
 
   createtag: {
@@ -137,7 +143,8 @@ export default {
     pt: 'Dia do clã',
     ph: 'Araw ng lahi',
     sv: 'Clan tag',
-    ht: 'Tag klan'
+    ht: 'Tag klan',
+    nl: 'Clanlabel'
   },
 
   createbutton: {
@@ -157,6 +164,7 @@ export default {
     pt: 'Crio',
     ph: 'Lumikha',
     sv: 'Skapa',
-    ht: 'Kreye'
+    ht: 'Kreye',
+    nl: 'Creëren'
   }
 }
