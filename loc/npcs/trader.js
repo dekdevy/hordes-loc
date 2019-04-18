@@ -7,7 +7,8 @@ export default {
       es: 'Saludos viajero errante! ¿Quieres vender algo?',
       de: 'Grüße wandernder Reisender! Möchtest du etwas verkaufen?',
       fr: 'Salutations voyageur errant! Vous voulez vendre quelque chose?',
-      it: 'Viaggiatore errante di saluti! gradite vendere qualcosa?'
+      it: 'Viaggiatore errante di saluti! gradite vendere qualcosa?',
+      ht: 'Bonjou vwayajè! Vle vann yon bagay?'
     },
     choices: {
       en: 'Yes, of course.',
@@ -15,7 +16,8 @@ export default {
       es: 'Sí, por supuesto.',
       de: 'Ja, natürlich.',
       fr: 'Oui, bien sûr.',
-      it: 'Sì, naturalmente.'
+      it: 'Sì, naturalmente.',
+      ht: 'Wi nan kou.'
     }
   }]
 }
