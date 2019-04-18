@@ -1,6 +1,6 @@
 export default [
   { // T1 item name. names are english only!
-    name       : { en: 'Drifwood Shortbow' },
+    name       : {$$: 'Drifwood Shortbow' },
     // Item description
     description: {
       en: 'Almost lightweight. You can probably find something better around.',
@@ -14,7 +14,7 @@ export default [
   },
 
   { // T2 item
-    name       : { en: 'Novice Shortbow' },
+    name       : {$$: 'Novice Shortbow' },
     description: {
       en: 'You feel less skilled just by holding this in your hands.',
       ru: 'Вы чувствуете себя менее опытным, просто держа его в своих руках',
@@ -27,7 +27,7 @@ export default [
   },
 
   { // T3 item
-    name       : { en: 'Adventurer\'s Shortbow' },
+    name       : {$$: 'Adventurer\'s Shortbow' },
     description: {
       en: 'Whoever left this on the ground probably didn\'t meet a nice end.',
       ru: 'Кто то оставил его на земле, вероятно, не встретил хороший конец',
@@ -40,7 +40,7 @@ export default [
   },
 
   { // T4 item
-    name       : { en: 'Long Bow' },
+    name       : {$$: 'Long Bow' },
     description: {
       en: 'A more advanced weapon. Quite nice to look at.',
       ru: 'Более продвинутое оружие. Довольно приятно смотреть на него.',
@@ -53,7 +53,7 @@ export default [
   },
 
   { // T5 item
-    name       : { en: 'Bone Bow' },
+    name       : {$$: 'Bone Bow' },
     description: {
       en: 'Put together with the bones of... somebody?',
       ru: 'Cобран из костей ... кого-то?',
@@ -66,7 +66,7 @@ export default [
   },
 
   { // T6 item
-    name       : { en: 'Elven Bow' },
+    name       : {$$: 'Elven Bow' },
     description: {
       en: 'An expert bow of a forgotten race.',
       ru: 'Экспертный лук забытой расы',
@@ -79,7 +79,7 @@ export default [
   },
 
   { // T7 item
-    name       : { en: 'Ancient Bow' },
+    name       : {$$: 'Ancient Bow' },
     description: {
       en: 'Crude, but effective. Draws its power from the tiny leaf attached to it.',
       ru: 'Грубый, но эффективный. получает силу из крошечного листа, прикрепленного к нему.',
@@ -92,7 +92,7 @@ export default [
   },
 
   { // T8 item
-    name       : { en: 'Iron Piercer' },
+    name       : {$$: 'Iron Piercer' },
     description: {
       en: 'Burns away the enemy with the spiciest of red coloring.',
       ru: 'Сжигает противника своим  ярко-красным окрасом.',
@@ -105,7 +105,7 @@ export default [
   },
 
   { // T9 item
-    name       : { en: 'Silver Recurve' },
+    name       : {$$: 'Silver Recurve' },
     description: {
       en: 'A bow commonly used by low ranked royal archers. Blends in well with vegetation.',
       ru: 'Лук, обычно используемый низкопоставленными королевскими лучниками. Хорошо сливается с растительностью.',
@@ -118,7 +118,7 @@ export default [
   },
 
   { // T10 item
-    name       : { en: 'Assassin\'s Bow' },
+    name       : {$$: 'Assassin\'s Bow' },
     description: {
       en: 'Masterfully crafted by the bandits of the capitals.',
       ru: 'Мастерски созданный столичными бандитами.',
@@ -131,7 +131,7 @@ export default [
   },
 
   { // T11 item
-    name       : { en: 'Skyfire Warbow' },
+    name       : {$$: 'Skyfire Warbow' },
     description: {
       en: 'A rare bow used in the greatest of wars. Shooting it makes you feel like the heavens will collapse.',
       ru: 'Редкий лук, используемый в величайших войнах. Bыстрел заставляет вас чувствовать дрожь небес.',
@@ -144,7 +144,7 @@ export default [
   },
 
   { // T12 item
-    name       : { en: 'Hellfire Warbow' },
+    name       : {$$: 'Hellfire Warbow' },
     description: {
       en: 'What is it? Is it ice? The world may never know...',
       ru: 'Что это? Это лед? Мир может никогда не узнать ...',
@@ -157,7 +157,7 @@ export default [
   },
 
   { // T13 item
-    name       : { en: 'Widowmaker' },
+    name       : {$$: 'Widowmaker' },
     description: {
       en: 'Kills as beautifully as it looks.',
       ru: 'Убивает так же красиво, как и выглядит.',
@@ -170,7 +170,7 @@ export default [
   },
 
   { // T14 item
-    name       : { en: 'Stormsong' },
+    name       : {$$: 'Stormsong' },
     description: {
       en: 'Surrounded by a ghastly aura. The wind blows in the direction you aim it.',
       ru: 'Окруженный страшной аурой. Ветер дует в том направлении, куда вы нацеливаетесь.',
@@ -183,7 +183,7 @@ export default [
   },
 
   { // T15 item
-    name       : { en: 'Scarebow' },
+    name       : {$$: 'Scarebow' },
     description: {
       en: 'So scary that few have the guts to hold it.',
       ru: 'Настолько пугающий, что немногим хватает мужества держать его.',
@@ -196,7 +196,7 @@ export default [
   },
 
   { // T16 item
-    name       : { en: 'Fury' },
+    name       : {$$: 'Fury' },
     description: {
       en: 'Embedded with a primal rage, your foes tremble at the sight of this weapon. Pew pew is the last thing they will ever hear.',
       ru: 'Насыщенный первобытной яростью, ваши противники дрожат при виде этого оружия. Пиу Пиу - последнее, что они услышат.',
