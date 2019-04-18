@@ -3,7 +3,7 @@ export default {
   name: {
     en: 'Shaman',
     de: 'Schamane',
-    se: 'Schaman',
+    sv: 'Schaman',
     ru: 'Шаман',
     fr: 'Chaman',
     es: 'Chamán',
@@ -13,12 +13,13 @@ export default {
     nl: 'Sjamaan',
     hi: 'शमन',
     it: 'Sciamano',
-    ht: 'Chaman'
+    ht: 'Chaman',
+    pl: 'Szaman'
   },
   // Class description, visible during character creation
   description: {
     en: 'The Shaman\'s role is to support the group by healing the Tank and offering offensive Buffs or crippling Debuffs.',
-    se: 'Schamanens roll är att hjälpa sin grupp med att hela upp Tanken och använda sig utav sina offensiva Buffs eller förlamande Debuffs.',
+    sv: 'Schamanens roll är att hjälpa sin grupp med att hela upp Tanken och använda sig utav sina offensiva Buffs eller förlamande Debuffs.',
     ru: 'Шаманы играют роль поддержки группы, излечивая Танка и преподнося усиливающие бонусы или наносящие урон отрицательные эффекты.',
     de: 'Die Rolle der Schamanen besteht darin, die Gruppe zu unterstützen, indem sie den Panzer heilen und beleidigende Buffs anbieten oder Debuffs verkrüppeln.',
     es: 'El rol del chamán es apoyar todo equipo curando el tanque y ofreciendo Buffs ofensivos o Debuffs paralizantes.',
@@ -29,6 +30,7 @@ export default {
     tr: 'Şamanın rolü, Tankı iyileştirerek ve saldırgan Bufflar veya sakatlayan Debufflar sunarak grubu desteklemektir.',
     hi: 'शमन की भूमिका टैंक का उपचार करके और आक्रामक बफ़रों की पेशकश करके या लक्ष्य की क्षमताओं के प्रभाव को कम करके समूह का समर्थन करना है।',
     it: 'Il ruolo dello sciamano è di sostenere il gruppo curando il carro armato e offrendo buff offensive o debuff paralizzanti.',
-    ht: 'Wòl Chaman an se pou sipòte gwoup la pou geri tank la epi ofri ofwi ofansif oswa debouche kap kwape.'
+    ht: 'Wòl Chaman an se pou sipòte gwoup la pou geri tank la epi ofri ofwi ofansif oswa debouche kap kwape.',
+    pl: 'Rolą szamana jest wspieranie grupy poprzez leczenie czołgu i oferowanie ofensywnych buffów lub kalekich debuffów.'
   }
 }

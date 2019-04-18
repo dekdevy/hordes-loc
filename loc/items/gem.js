@@ -39,7 +39,7 @@ export default [
     name       : {en: 'Fundo' },
     description: {
       en: 'Brown desaturated gem, emitting putrid scents as you wear it around your neck.',
-      ru: 'Драгоценный камень коричневого цвета, излучающий гнилой аромат, когда вы носите его на шее.',
+      ru: 'Драгоценный камень коричневого цвета, испускающий гнилой аромат, когда вы носите его на шее.',
       es: 'Gema desaturada marrón, que emite olores pútridos al llevarlo alrededor del cuello.',
       de: 'Brauner, entsättigter Edelstein, der faulige Gerüche abgibt, wenn man ihn um den Hals trägt.',
       fr: 'Bijou brun désaturé, émettant des senteurs putrides lorsque vous le portez autour de votre cou.',
@@ -51,7 +51,7 @@ export default [
     name       : {en: 'Amary' },
     description: {
       en: 'Lustrous blue artifact, exposed wispy white veins running along its spherical surface.',
-      ru: 'Блестящий синий артефакт, открытые пухлые белые вены, протекающие по его сферической поверхности.',
+      ru: 'Блестящий синий артефакт, обнаженные белоснежные вены, протекают по его сферической поверхности.',
       es: 'Lustroso artefacto azul, vetas blancas y delgadas expuestas que corren a lo largo de su superficie esférica.',
       de: 'Glänzend blaues Artefakt, freiliegende, wischig weiße Adern, die entlang seiner kugelförmigen Oberfläche verlaufen.',
       fr: 'Artefact bleu lustré, veines blanches et brillantes le long de sa surface sphérique.',
@@ -111,7 +111,7 @@ export default [
     name       : {en: 'Pluris' },
     description: {
       en: 'Spectacular saturated pink plumes rise from this faceted prismical gem. Your foes to stare at you with awe...',
-      ru: 'Из этого граненого призматического камня поднимаются впечатляющие насыщенные розовые плюмы. Твои враги с восхищением смотрят на тебя...',
+      ru: 'Из этого граненого призматического камня поднимаются впечатляющие насыщенные розовые шлейфы. Твои враги с восхищением смотрят на тебя...',
       es: 'Espectaculares plumas rosas saturadas surgen de esta gema prismática facetada. Tus enemigos te mirarán con asombro...',
       de: 'Spektakuläre, gesättigte rosa Federn erheben sich aus diesem facettierten prismatischen Juwel. Deine Feinde, die dich mit Ehrfurcht anstarren...',
       fr: 'Des panaches roses saturés spectaculaires s\'élèvent de ce joyau prismatique à facettes. Vos ennemis vous regardent avec crainte...',
@@ -123,7 +123,7 @@ export default [
     name       : {en: 'Aeter' },
     description: {
       en: 'Bright green lights occasionally span out of this glass gem, casting projections of the wearers future.',
-      ru: 'Яркий зеленый свет иногда проливается из этого стеклянного камня, бросая в глаза бросая в гласа владельта ево будущея.',
+      ru: 'Яркий зеленый свет иногда проливается из этого стеклянного камня, в глаза владельта ево будущея.',
       es: 'Las luces verdes vivo extienden a veces fuera de esta gema de cristal, proyecciones de fundición del futuro de los usuarios.',
       de: 'Strahlend grüne Lichter ragen gelegentlich aus diesem Glasjuwel heraus und werfen Projektionen der Zukunft der Träger hervor.',
       fr: 'Des lumières vertes brillantes s\'étendent occasionnellement à l\'extérieur de ce joyau de verre, projetant les projections de l\'avenir de ceux qui le portent.',
