@@ -45,24 +45,18 @@ export default {
     ht: 'Montre Sistèm'
   },
 
+  // translations not needed
   loot: {
     $$: 'Loot'
   },
 
+  // translations not needed
   exp: {
     $$: 'exp'
   },
 
+  // translations not needed
   pvp: {
-    en: 'PvP',
-    ru: 'Бой',
-    hi: 'पिविपी',
-    es: 'PvP',
-    nl: 'PvP',
-    pt: 'PvP',
-    pl: 'PvP',
-    tr: 'PvP',
-    ht: 'Goumen'
     $$: 'PvP'
   },
 
