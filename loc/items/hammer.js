@@ -107,15 +107,15 @@ export default [
   {
     name       : {$$: 'Divine Gavel' },
     description: {
-      en: 'Bronze hammer, triangular shaped. Sharp corners make deep indents in heads.',
-      ru: 'Бронзовый молот, треугольной формы. Острые углы делают глубокие выемки в головах.',
-      hi: 'कांस्य हथौड़ा, त्रिकोणीय आकार। तीव्र कोनों सिर में गहरी इंडेंट बनाते हैं।',
-      es: 'Martillo de bronce, forma triangular. Las esquinas afiladas hacen profundas muescas en las cabezas.',
-      de: 'Bronzehammer, dreieckig geformt. Scharfe Ecken machen tiefe Einschnitte in den Kopf.',
-      fr: 'Marteau en bronze de forme triangulaire. Les coins tranchants creusent de profondes entailles dans la tête.',
-      pt: 'Martelo em bronze, de forma triangular. Cantos afiados fazem recuos profundos nas cabeças.',
-      nl: 'Bronzen hamer, driehoekig van vorm. Scherpe hoeken maken diepe inkepingen in hoofden.',
-      pl: 'Młotek z brązu, kształt trójkąta. Ostre narożniki tworzą głębokie wgłębienia w głowach.'
+      en: 'The eyes of the gods follow the wielder, bringing fortune to the valiant and doom to the cowardly.',
+      ru: 'Глаза богов следуют за хозяином, принося удачу отважным, а трусливым - гибель.',
+      hi: 'देवताओं की आँखों बहादुर और कायर को कयामत के भाग्य लाने wielder का पालन करें,।',
+      es: 'Los ojos de los dioses siguen al portador, trayendo fortuna a los valientes y condenación a los cobardes.',
+      de: 'Die Augen der Götter folgen dem Verwalter und bringen den Mutigen Glück und den Feiglingen Verderben.',
+      fr: 'Les yeux des dieux suivent le maître, apportant la fortune aux vaillants et la mort aux lâches.',
+      pt: 'Os olhos dos deuses seguem o portador, trazendo fortuna para o valente e a perdição para o covarde.',
+      nl: 'De ogen van de goden volgen de drager en brengen de dappere en laffe dappere mensen geluk en verdoemenis.',
+      pl: 'Oczy bogów podążają za władcą, przynosząc majątek dzielnemu i skazanie tchórzliwego.'
     }
   },
 
