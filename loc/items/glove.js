@@ -8,7 +8,8 @@ export default [
       es: 'Correas de cuero cubrir tus débiles manos. Estirar de la cuerda es más fácil para ti ahora.',
       pt: 'Correias de couro a cobrir as tuas mãos fracas. Puxar a corda de arco é muito mais fácil para você agora.',
       nl: 'Riemen van leer die uw zwakke handen bedekken. Het is nu veel gemakkelijker voor u om aan de strikkoord te trekken.',
-      pl: 'Paski skórzane przykrywające słabe dłonie. Pociągnięcie sznurka jest teraz znacznie łatwiejsze dla Ciebie.'
+      pl: 'Paski skórzane przykrywające słabe dłonie. Pociągnięcie sznurka jest teraz znacznie łatwiejsze dla Ciebie.',
+      it: 'Cinturini di pelle che coprono le tue mani deboli. Tirare la corda di prua è molto più facile per voi ora.'
     }
   },
 
@@ -21,7 +22,8 @@ export default [
       es: 'El hilo hilado de oveja robada hace que estos guantes cálidos sean un placer de llevar.',
       pt: 'O fio fiado de ovelhas roubadas torna estas luvas quentes um prazer de usar.',
       nl: 'Gesponnen garen van gestolen schapen maakt deze warme handschoenen een genot om te dragen.',
-      pl: 'Przędza przędzy z kradzionych owiec sprawia, że te ciepłe rękawice są przyjemne w noszeniu.'
+      pl: 'Przędza przędzy z kradzionych owiec sprawia, że te ciepłe rękawice są przyjemne w noszeniu.',
+      it: 'Il filato di pecora rubata rende questi guanti caldi un piacere da indossare.'
     }
   },
 
@@ -34,7 +36,8 @@ export default [
       es: 'Tus dedos apenas se pueden mover con estos guantes de cuero rígidos.',
       pt: 'Os teus dedos mal se conseguem mexer nestas luvas de couro rígido.',
       nl: 'Je vingers kunnen nauwelijks bewegen in deze stijve leren wanten.',
-      pl: 'Twoje palce ledwo poruszają się w tych sztywnych skórzanych rękawiczkach.'
+      pl: 'Twoje palce ledwo poruszają się w tych sztywnych skórzanych rękawiczkach.',
+      it: 'Le tue dita si muovono a malapena con questi guanti di pelle rigida.'
     }
   },
 
@@ -47,7 +50,8 @@ export default [
       es: 'Los sonidos de agarrotamiento viajan con usted mientras los usa.',
       pt: 'Os sons de Clacking viajam contigo enquanto usas isto.',
       nl: 'Kletterende geluiden reizen met je mee terwijl je deze draagt.',
-      pl: 'Clacking dźwięki podróżować z tobą, jak nosisz te.'
+      pl: 'Clacking dźwięki podróżować z tobą, jak nosisz te.',
+      it: 'I suoni deboli viaggiano con te quando li indossi.'
     }
   },
 
@@ -60,7 +64,8 @@ export default [
       es: 'Los guantes de hierro proporcionan un poco más de protección, aunque ahora sus manos están frías.',
       pt: 'As luvas de ferro macio proporcionam um pouco mais de protecção, embora as suas mãos estejam frias agora.',
       nl: 'Zacht-ijzeren handschoenen bieden iets meer bescherming, hoewel uw handen nu koud zijn.',
-      pl: 'Miękko-żelazne rękawice zapewniają nieco większą ochronę, chociaż teraz Twoje ręce są zimne.'
+      pl: 'Miękko-żelazne rękawice zapewniają nieco większą ochronę, chociaż teraz Twoje ręce są zimne.',
+      it: 'I guanti in ferro dolce forniscono un po\' più protezione, anche se le mani sono fredde ora.'
     }
   },
 
@@ -73,7 +78,8 @@ export default [
       es: 'Guantes de material desconocido.... brilla...',
       pt: 'Mitts feitos de material desconhecido... brilha...',
       nl: 'Wanten gemaakt van onbekend materiaal.... het schittert...',
-      pl: 'Rękawiczki wykonane z nieznanego materiału.... świeci...'
+      pl: 'Rękawiczki wykonane z nieznanego materiału.... świeci...',
+      it: 'Muffole di materiale sconosciuto.....brilla.....'
     }
   },
 
@@ -86,7 +92,8 @@ export default [
       es: 'Algún general de guerra debe haberlos tirado... probablemente sin querer.',
       pt: 'Algum general de guerra deve ter deixado cair estes... provavelmente também não intencionalmente.',
       nl: 'Een of andere oorlogsgeneraal moet deze.... waarschijnlijk ook onbedoeld hebben laten vallen.',
-      pl: 'Pewien generał wojny musiał je porzucić.... prawdopodobnie też nieumyślnie.'
+      pl: 'Pewien generał wojny musiał je porzucić.... prawdopodobnie też nieumyślnie.',
+      it: 'Qualche generale di guerra deve averle lasciate cadere..... probabilmente anche involontariamente.'
     }
   },
 
@@ -99,7 +106,8 @@ export default [
       es: 'El fuego no es rival para tus manos cuando usas estos guantes esmeralda.',
       pt: 'O fogo não é compatível com as tuas mãos quando usas estas luvas de esmeralda.',
       nl: 'Vuur is geen partij voor je handen als je deze smaragdgroene wanten draagt.',
-      pl: 'Ogień nie pasuje do twoich rąk, gdy nosisz te szmaragdowe rękawice.'
+      pl: 'Ogień nie pasuje do twoich rąk, gdy nosisz te szmaragdowe rękawice.',
+      it: 'Il fuoco non è adatto alle tue mani, dato che indossi queste muffole di smeraldo.'
     }
   },
 
@@ -112,7 +120,8 @@ export default [
       es: 'Da una falsa sensación de poder.',
       pt: 'Dá uma falsa sensação de poder.',
       nl: 'Geeft een vals gevoel van macht.',
-      pl: 'Daje fałszywe poczucie władzy.'
+      pl: 'Daje fałszywe poczucie władzy.',
+      it: 'Dà un falso senso del potere.'
     }
   },
 
@@ -125,7 +134,8 @@ export default [
       es: 'Forjados sin calor, llevados sin miedo.',
       pt: 'Forjado sem calor, usado sem medo.',
       nl: 'Gesmeed zonder warmte, gedragen zonder angst.',
-      pl: 'Kute bez ciepła, noszone bez strachu.'
+      pl: 'Kute bez ciepła, noszone bez strachu.',
+      it: 'Forgiato senza calore, indossato senza paura.'
     }
   },
 
@@ -138,7 +148,8 @@ export default [
       es: 'Guantes buscados por los guerreros para las eras....al fin...se encuentra.',
       pt: 'Luvas procuradas por guerreiros para eras em fim...finalmente...é encontrado.',
       nl: 'Handschoenen gezocht door krijgers voor tijdperken....eindelijk....het is gevonden.',
-      pl: 'Rękawiczki poszukiwane przez wojowników na całe epoki....w końcu...to zostało znalezione.'
+      pl: 'Rękawiczki poszukiwane przez wojowników na całe epoki....w końcu...to zostało znalezione.',
+      it: 'Guanti ricercati dai guerrieri per epoche.....finalmente....si trova.'
     }
   },
 
@@ -151,7 +162,8 @@ export default [
       es: 'Los rumores dicen que un toque de estos guantes convierte a tus enemigos en oro... tu mano es extrañamente pesada...',
       pt: 'Rumores dizem que um toque dessas luvas transforma seus inimigos em ouro... sua mão é estranhamente pesada...',
       nl: 'De geruchten gaan dat een aanraking van deze handschoenen je vijanden in goud verandert....je hand is vreemd zwaar....',
-      pl: 'Plotki mówią, że dotyk z tych rękawic zamienia twoich wrogów w złoto....twoja ręka jest dziwnie ciężka...'
+      pl: 'Plotki mówią, że dotyk z tych rękawic zamienia twoich wrogów w złoto....twoja ręka jest dziwnie ciężka...',
+      it: 'Si dice che un tocco di questi guanti trasforma i tuoi nemici in oro.....la tua mano è stranamente pesante.....'
     }
   },
 
@@ -164,7 +176,8 @@ export default [
       es: 'Guantes tan poderosos en su naturaleza que el mismo aire brilla al agitar la mano.',
       pt: 'Luvas tão poderosas na sua natureza que o ar brilha ao acenar com a mão.',
       nl: 'Handschoenen die zo krachtig van aard zijn, dat de lucht glinstert als je met je hand zwaait.',
-      pl: 'Rękawiczki są tak potężne w swojej naturze, że samo powietrze mieni się, gdy machasz ręką.'
+      pl: 'Rękawiczki są tak potężne w swojej naturze, że samo powietrze mieni się, gdy machasz ręką.',
+      it: 'Guanti così potenti nella loro natura che l\'aria stessa luccica mentre si agita la mano.'
     }
   }
 

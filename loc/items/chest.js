@@ -2,7 +2,7 @@ export default [
   {
     name       : {$$: 'Potato Sack' },
     description: {
-      en: 'Sack stiff with starch making you feel dirty and dishevelled.',
+      en: 'Sack stiff with starch making you feel dirty and disheveled.',
       ru: 'Грубый накрахмаленный мешок заставляет чувствовать вас грязным и взъерошенным.',
       es: 'Saco rígido con almidón que te hace sentir sucio y despeinado.',
       de: 'Sack steif mit Stärke, so dass Sie sich schmutzig und zerzaust fühlen.',
@@ -10,7 +10,8 @@ export default [
       pt: 'Saco rígido com amido que te faz sentir sujo e desgrenhado.',
       nl: 'Zak stijf met zetmeel waardoor je je vies en in de war voelt.',
       hi: 'बनाने आप गंदे और अस्त-व्यस्त लग रहा है स्टार्च के साथ कठोर पद से हटाने।',
-      pl: 'Worek sztywny ze skrobią sprawia, że czujesz się brudny i rozczochrany.'
+      pl: 'Worek sztywny ze skrobią sprawia, że czujesz się brudny i rozczochrany.',
+      it: 'Sacco rigido con amido che ti fa sentire sporco e spettinato.'
     }
   },
 
@@ -25,7 +26,8 @@ export default [
       pt: 'Camisa de couro, desbotada de desgaste.',
       nl: 'Leren hemd, vervaagd van slijtage.',
       hi: 'चमड़ा शर्ट, टूट-फूट से फीका।',
-      pl: 'Skórzana koszula, wyblakła od zużycia.'
+      pl: 'Skórzana koszula, wyblakła od zużycia.',
+      it: 'Camicia in pelle, sbiadita dall\'usura.'
     }
   },
 
@@ -40,7 +42,8 @@ export default [
       pt: 'Uma túnica de ferro macio e manhoso, passada de muitas gerações de aventureiros passando por essas terras.',
       nl: 'Knobbelig zacht ijzeren tuniek, doorgegeven van vele generaties avonturiers die over deze landen trekken.',
       hi: 'नरम लोहे का अंगरखा, साहसी इन भूमि के ऊपर से गुजर की कई पीढ़ियों से पारित कर दिया।',
-      pl: 'Knobbly soft iron tunika, przekazywana od wielu pokoleń poszukiwaczy przygód przechodzących przez te ziemie.'
+      pl: 'Knobbly soft iron tunika, przekazywana od wielu pokoleń poszukiwaczy przygód przechodzących przez te ziemie.',
+      it: 'Una sapiente tunica in ferro dolce, tramandata da molte generazioni di avventurieri che hanno attraversato queste terre.'
     }
   },
 
@@ -55,7 +58,8 @@ export default [
       pt: 'Este tecido não é muito, mas pode parar uma flecha ou duas.',
       nl: 'Deze stof is niet veel, maar het zou een paar pijlen kunnen stoppen.',
       hi: 'यह कपड़े बहुत ज्यादा नहीं है, लेकिन यह एक तीर या दो बंद हो सकता है।',
-      pl: 'Ten materiał to niewiele, ale może zatrzymać strzałę lub dwie.'
+      pl: 'Ten materiał to niewiele, ale może zatrzymać strzałę lub dwie.',
+      it: 'Questo tessuto non è molto, ma potrebbe fermare una o due frecce.'
     }
   },
 
@@ -70,7 +74,8 @@ export default [
       pt: 'Um fato duro feito de escamas tiradas de um poderoso dragão que percorreu estas terras.',
       nl: 'Hard suit gemaakt van schubben van een machtige draak die ooit in dit land rondzwierf.',
       hi: 'हार्ड एक शक्तिशाली अजगर है कि एक बार इन भूमि रोमिंग से लिया तराजू से बने सूट।',
-      pl: 'Twardy garnitur wykonany ze skal wziętych od potężnego smoka, który kiedyś poruszał się po tych ziemiach.'
+      pl: 'Twardy garnitur wykonany ze skal wziętych od potężnego smoka, który kiedyś poruszał się po tych ziemiach.',
+      it: 'Tuta rigida fatta di bilance prese da un potente drago che una volta vagando per queste terre.'
     }
   },
 
@@ -85,7 +90,8 @@ export default [
       pt: 'Os rumores dizem que é feito de nuvens...',
       nl: 'Geruchten zeggen dat het gemaakt is van wolken... ',
       hi: 'अफवाहें इसकी बादलों से बना कहते हैं ...',
-      pl: 'Plotki mówią, że zrobione z chmur....'
+      pl: 'Plotki mówią, że zrobione z chmur....',
+      it: 'Voci dicono che è fatto di nuvole.....'
     }
   },
 
@@ -100,7 +106,8 @@ export default [
       pt: 'O utilizador mistura-se bem com as sombras... ou assim pensam os ladrões.',
       nl: 'De drager gaat mooi op in de schaduwen.... zo denken de dieven.',
       hi: 'पहनने वाला छाया के साथ अच्छी तरह से में मिश्रित ... या तो चोरों लगता है।',
-      pl: 'Użytkownik ładnie wtapia się w cienie.... albo tak myślą złodzieje.'
+      pl: 'Użytkownik ładnie wtapia się w cienie.... albo tak myślą złodzieje.',
+      it: 'Chi lo indossa si fonde bene con le ombre...... o così pensano i ladri.'
     }
   },
 
@@ -115,7 +122,8 @@ export default [
       pt: 'Forjado por mágicos desconhecidos, você usa uma couraça profunda, escura e poderosa.',
       nl: 'Gesmeed door onbekende tovenaars, draag je een diep, donker en krachtig borstplaatje.',
       hi: 'अज्ञात जादूगर द्वारा जाली, आप एक गहरी अंधेरे और शक्तिशाली chestplate पहनते हैं।',
-      pl: 'Wykute przez nieznanych magów, nosisz głęboką, ciemną i potężną płytę piersiową.'
+      pl: 'Wykute przez nieznanych magów, nosisz głęboką, ciemną i potężną płytę piersiową.',
+      it: 'Forgiato da maghi sconosciuti, si indossa un profondo, scuro e potente pettorale.'
     }
   },
 
@@ -130,7 +138,8 @@ export default [
       pt: 'Forjado das profundezas do inferno, ele fornece proteção para seu corpo fraco e carnudo.',
       nl: 'Gesmeed uit de diepten van de hel, biedt het bescherming voor je zwakke, vlezige lichaam.',
       hi: 'नरक की गहराई से जाली, यह आपके कमजोर, मांसल शरीर के लिए सुरक्षा प्रदान करता है।',
-      pl: 'Wykute z głębi piekła, zapewnia ochronę twojemu słabemu, mięsistemu ciału.'
+      pl: 'Wykute z głębi piekła, zapewnia ochronę twojemu słabemu, mięsistemu ciału.',
+      it: 'Forgiato dalle profondità dell\'inferno, fornisce protezione al tuo corpo debole e carnoso.'
     }
   },
 
@@ -145,7 +154,8 @@ export default [
       pt: 'Quando os inimigos são mortos, suas almas são adicionadas à coleção do portador.',
       nl: 'Wanneer vijanden worden gedood, worden hun zielen toegevoegd aan de collectie van de drager.',
       hi: 'जब दुश्मन मारे गए हैं, अपनी आत्मा wielder के संग्रह करने के लिए जोड़ रहे हैं।',
-      pl: 'Kiedy wrogowie są zabijani, ich dusze są dodawane do kolekcji władcy.'
+      pl: 'Kiedy wrogowie są zabijani, ich dusze są dodawane do kolekcji władcy.',
+      it: 'Quando i nemici vengono uccisi, le loro anime vengono aggiunte alla collezione del detenuto.'
     }
   },
 
@@ -160,7 +170,8 @@ export default [
       pt: 'Rumores dizem que o portador é imortal. Infelizmente esta armadura só pode ser encontrada nos cadáveres dos mortos.',
       nl: 'Er gaan geruchten dat de drager onsterfelijk is. Helaas is dit harnas alleen te vinden op lijken van de gedode personen.',
       hi: 'अफवाहें का कहना है कि पहनने वाला अमर है। दुर्भाग्य से इस कवच केवल मारे हुए की लाशों पर पाया जा सकता।',
-      pl: 'Plotki mówią, że noszący jest nieśmiertelny. Niestety ta zbroja znajduje się tylko na zwłokach zabitych.'
+      pl: 'Plotki mówią, że noszący jest nieśmiertelny. Niestety ta zbroja znajduje się tylko na zwłokach zabitych.',
+      it: 'Si dice che chi lo indossa è immortale. Purtroppo questa armatura si trova solo sui cadaveri degli uccisi.'
     }
   }
 
