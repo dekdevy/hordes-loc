@@ -18,6 +18,7 @@ export default {
     ja: '在庫',
     ph: 'imbentaryo',
     sv: 'lager',
-    ht: 'envantè'
+    ht: 'envantè',
+    ko: '목록'
   }
 }
