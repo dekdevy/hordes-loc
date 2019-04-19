@@ -25,7 +25,9 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'virtual', 'cold', 'white', 'resurrected', 'peaceful', 'disguised', 'demonic', 'devoted', 'confidential', 'competitive',
   'charred', 'fortunate', 'overpowered', 'murderous', 'dwarven', 'precise', 'victorious', 'violent', 'bloody', 'freezing',
   'bland', 'inky', 'mischievous', 'fishy', 'disintegrating', 'snarling', 'grunting', 'dehydrated', 'famished', 'timid',
-  'lone', 'invisible', 'infected', 'venemous']
+  'lone', 'invisible', 'infected', 'venemous', 'mental', 'detremental', 'disfunctional', 'stinging', 'slicing', 'piercing',
+  'piercing', 'poking', 'glancing', 'lazy', 'hot', 'warm', 'melting', 'abusive', 'acrobatic', 'accursed', 'bewitched',
+  'obedient', 'offensive', 'pale', 'rasping', 'singing', 'whispering', 'revolting']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
