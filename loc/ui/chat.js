@@ -12,7 +12,8 @@ export default {
     nl: 'Toon alle',
     pt: 'Mostrar todos',
     pl: 'Pokaż wszystko',
-    ht: 'Montre tout'
+    ht: 'Montre tout',
+    ko: '다 보여주기'
   },
 
   showclan: {
@@ -27,7 +28,8 @@ export default {
     nl: 'Toon Clan',
     pt: 'Mostrar Clã',
     pl: 'Pokaż klan',
-    ht: 'Montre klan'
+    ht: 'Montre klan',
+    ko: '씨족 보여주기'
   },
 
   showsystem: {
@@ -42,7 +44,8 @@ export default {
     nl: 'Toon systeem',
     pt: 'Mostrar sistema',
     pl: 'System pokazów',
-    ht: 'Montre Sistèm'
+    ht: 'Montre Sistèm',
+    ko: '체계 보여주기'
   },
 
   // translations not needed
