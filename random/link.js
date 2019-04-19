@@ -30,7 +30,7 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'obedient', 'offensive', 'pale', 'rasping', 'singing', 'whispering', 'revolting', 'rickety', 'ripe', 'rigid', 'romantic',
   'rooting', 'seething', 'sickly', 'serpentine', 'senseless', 'shabby', 'shaggy', 'shambolic', 'shillyshallying', 'slim',
   'sleek', 'skulking', 'smacking', 'spellbound', 'explosive', 'fantastic', 'ferocious', 'gaudy', 'glazed', 'hazardous',
-  'idiotic', 'lame', 'ingeneous', 'puking', 'loud', 'evil', 'sweaty', 'faithful', 'unfaithful', 'traditional', 'modern'
+  'idiotic', 'lame', 'ingeneous', 'puking', 'loud', 'evil', 'sweaty', 'faithful', 'unfaithful', 'traditional', 'modern',
   'vampiric', 'silk', 'verocious', 'vigorous', 'yelping', 'huffy', 'humorous', 'medieval', 'mesmeric', 'hypnotic',
   'metallic', 'secretive']
 
