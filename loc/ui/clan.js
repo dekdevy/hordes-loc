@@ -18,7 +18,8 @@ export default {
     ph: 'Clan Manager',
     sv: 'Clan Manager',
     ht: 'Manadjè klan',
-    nl: 'Clanmanager'
+    nl: 'Clanmanager',
+    ko: '씨족 메뉴'
   },
 
   leave: {
@@ -39,7 +40,8 @@ export default {
     ph: 'Iwanan mo ang grupo',
     sv: 'Lämna Clan',
     ht: 'Kite Clan',
-    nl: 'Verlofclan'
+    nl: 'Verlofclan',
+    ko: '씨족 을 나가기'
   },
 
   heading: {
@@ -60,7 +62,8 @@ export default {
     ph: 'Clan',
     sv: 'Klan',
     ht: 'Clan',
-    nl: 'Clan'
+    nl: 'Clan',
+    ko: '씨족'
   },
 
   createheading: {
@@ -81,7 +84,8 @@ export default {
     ph: 'Lumikha ng Clan',
     sv: 'Skapa Clan',
     ht: 'Kreye Clan',
-    nl: 'Creërenclan'
+    nl: 'Creërenclan',
+    ko: '씨족 을 만들기'
   },
 
   createinfo: {
@@ -102,7 +106,8 @@ export default {
     ph: 'Upang lumikha ng isang lahi na kailangan mo',
     sv: 'För att skapa en klan behöver du',
     ht: 'Pou kreye yon klan ou bezwen',
-    nl: 'Om een clan te creëren heb je het volgende nodig'
+    nl: 'Om een clan te creëren heb je het volgende nodig',
+    ko: '씨족 을 만들고 싶으면...'
   },
 
   createname: {
@@ -123,7 +128,8 @@ export default {
     ph: 'Pangalan ng isang lipi',
     sv: 'Klan namn',
     ht: 'Non klan',
-    nl: 'Clannaam'
+    nl: 'Clannaam',
+    ko: '씨족 이름'
   },
 
   createtag: {
@@ -144,7 +150,8 @@ export default {
     ph: 'Araw ng lahi',
     sv: 'Clan tag',
     ht: 'Tag klan',
-    nl: 'Clanlabel'
+    nl: 'Clanlabel',
+    ko: '씨족 꼬리표'
   },
 
   createbutton: {
@@ -165,6 +172,7 @@ export default {
     ph: 'Lumikha',
     sv: 'Skapa',
     ht: 'Kreye',
-    nl: 'Creëren'
+    nl: 'Creëren',
+    ko: '만들기'
   }
 }
