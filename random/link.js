@@ -24,7 +24,15 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'polished', 'round', 'tangled', 'hexed', 'charming', 'gilled', 'hairy', 'berserk', 'failing', 'disgraceful', 'ultimate',
   'virtual', 'cold', 'white', 'resurrected', 'peaceful', 'disguised', 'demonic', 'devoted', 'confidential', 'competitive',
   'charred', 'fortunate', 'overpowered', 'murderous', 'dwarven', 'precise', 'victorious', 'violent', 'bloody', 'freezing',
-  'bland', 'inky', 'mischievous']
+  'bland', 'inky', 'mischievous', 'fishy', 'disintegrating', 'snarling', 'grunting', 'dehydrated', 'famished', 'timid',
+  'lone', 'invisible', 'infected', 'venemous', 'mental', 'detremental', 'disfunctional', 'stinging', 'slicing', 'piercing',
+  'piercing', 'poking', 'glancing', 'lazy', 'hot', 'warm', 'melting', 'abusive', 'acrobatic', 'accursed', 'bewitched',
+  'obedient', 'offensive', 'pale', 'rasping', 'singing', 'whispering', 'revolting', 'rickety', 'ripe', 'rigid', 'romantic',
+  'rooting', 'seething', 'sickly', 'serpentine', 'senseless', 'shabby', 'shaggy', 'shambolic', 'shillyshallying', 'slim',
+  'sleek', 'skulking', 'smacking', 'spellbound', 'explosive', 'fantastic', 'ferocious', 'gaudy', 'glazed', 'hazardous',
+  'idiotic', 'lame', 'ingeneous', 'puking', 'loud', 'evil', 'sweaty', 'faithful', 'unfaithful', 'traditional', 'modern',
+  'vampiric', 'silk', 'verocious', 'vigorous', 'yelping', 'huffy', 'humorous', 'medieval', 'mesmeric', 'hypnotic',
+  'metallic', 'secretive']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
