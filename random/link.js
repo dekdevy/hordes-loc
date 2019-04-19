@@ -59,7 +59,10 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'mule', 'horse', 'mare', 'guardian', 'golem', 'dimension', 'autumn', 'dove', 'fortune', 'paradise', 'disciple', 'monk',
   'goose', 'devil', 'beast', 'rat', 'zombie', 'raven', 'ethereal', 'bones', 'dice', 'watchman', 'cannon', 'chain', 'cupbearer',
   'guardsman', 'tailor', 'chasm', 'hive', 'gnome', 'dungeon', 'lizard', 'sage', 'priest', 'sorcerer', 'necromancer', 'charmer',
-  'warlock', 'witch', 'rod', 'trapdoor', 'scribe']
+  'warlock', 'witch', 'rod', 'trapdoor', 'scribe', 'dragonfire', 'wanderer', 'traveller', 'needle', 'mask', 'helm', 'key',
+  'jail', 'prison', 'inmate', 'criminal', 'trolloc', 'paw', 'steel', 'iron', 'blade', 'shade', 'shelter', 'fool', 'horn', 'bicouac',
+  'outsider', 'quisling', 'wind', 'rider', 'sickle', 'sergeant', 'corporal', 'major', 'serpent', 'shackles', 'whip', 'shipwreck',
+  'sledgehammer', 'eyeball', 'idiot', 'mammoth', 'worm', 'vampire', 'inferno', 'hobgoblin', 'hound', 'megalith']
 
 const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', 'misfortune', 'rage', 'joy',
   'leveling', 'vengance', 'resurrection', 'mastery', 'loss', 'flames', 'fire', 'frost', 'glory', 'war', 'sprinting',
@@ -71,9 +74,13 @@ const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', '
   'jealousy', 'fame', 'wealth', 'loneliness', 'youth', 'elderness', 'dread', 'disgust', 'advice', 'speed', 'unbreaking', 'glamour',
   'radiation', 'hypocrisy', 'teleportation', 'tailoring', 'fighting', 'marriage', 'nobility', 'nostalgia', 'performance',
   'raiding', 'mutation', 'reality', 'fantasies', 'embarrassment', 'humiliation', 'cruelty', 'guidance', 'brilliance', 'hatred',
-  'innocence', 'accuracy', 'perception', 'endurance', 'charisma', 'strength', 'intelligence', 'dexterity', 'experience', 'scepticism',
+  'innocence', 'accuracy', 'perception', 'endurance', 'charisma', 'strength', 'intelligence', 'dexterity', 'experience',
   'flight', 'bravery', 'corruption', 'greed', 'temptation', 'sin', 'forgiveness', 'gratitude', 'alchemy', 'hope', 'foretelling',
-  'paralysis', 'lore', 'narcissism', 'crime', 'slavery', 'freedom', 'rebellion', 'precision', 'victory', 'mischief']
+  'paralysis', 'lore', 'narcissism', 'crime', 'slavery', 'freedom', 'rebellion', 'precision', 'victory', 'mischief', 'scepticism',
+  'sharpness', 'travelling', 'smelting', 'forgery', 'cowardice', 'forging', 'acumen', 'acme', 'cursing', 'bivouacking', 'revolt',
+  'romance', 'stunning', 'sanity', 'insanity', 'ingenuity', 'regurgitation', 'evilness', 'wickedness', 'servitude', 'shooting',
+  'spiritualism', 'hysteria', 'foolishness', 'idiocy', 'vanity', 'vertigo', 'vivacity', 'holiness', 'humour', 'hypnotism',
+  'secrets']
 
 export const generate = ()=>{
   // generates a random party invite link name
