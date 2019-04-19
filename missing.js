@@ -52,7 +52,7 @@ languages.forEach(type => {
 
 // print
 missing.forEach((set, name)=>{
-  console.log(`  ${name} is missing these languages: ${Array.from(set)}`)
+  console.log(`  ${name} is missing the translations for these languages: ${Array.from(set)}`)
 })
 
 console.log('  done.')
