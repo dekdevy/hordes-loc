@@ -12,7 +12,8 @@ export default {
     nl: 'Okee',
     pt: 'Está bem.',
     pl: 'Dobrze.',
-    ht: 'Dakò'
+    ht: 'Dakò',
+    ko: '오케이'
 
   },
   back: {
@@ -27,6 +28,7 @@ export default {
     tr: 'Geri',
     pt: 'Voltar',
     pl: 'Popierać',
-    ht: 'Retounen'
+    ht: 'Retounen',
+    ko: '뒤로가기'
   }
 }
