@@ -11,7 +11,8 @@ export default {
       it: 'Ah, vi vedo viaggiatore. Stancato e affamato voi sguardo. Prestigiatori, anche, vaghiamo queste terre fini. voi mi gradiscono prendervi ad uno?',
       ht: 'O, mwen wè ou vwayajè. Ou gade fatige ak grangou. Nou asistan tou Roaming sa yo bèl tè. Ou vle m \'mennen ou nan yon sèl?',
       pl: 'Ach, widzę, że jesteś podróżnikiem. Zmęczony i głodny wyglądasz. My, czarnoksiężnicy, również przemierzamy te piękne ziemie. Chcesz, żebym zabrał cię do jednego?',
-      nl: 'Ah, ik zie je reiziger. Moe en uitgehongerd zie je eruit. Wij goochelaars, te, zwerven door dit mooie land. Zou je willen dat ik je naar een van die breng?'
+      nl: 'Ah, ik zie je reiziger. Moe en uitgehongerd zie je eruit. Wij goochelaars, te, zwerven door dit mooie land. Zou je willen dat ik je naar een van die breng?',
+      pt: 'Ah, vejo-te viajante. Cansado e faminto você olha. Nós, mágico, também andamos por essas terras nobres. Queres que te leve a uma?'
     },
     choices: [{
       en: 'Please bring me to $1.',
@@ -23,7 +24,8 @@ export default {
       it: 'Portimi prego a $1',
       ht: 'Tanpri, pote m \'$ 1.',
       pl: 'Proszę, przyprowadź mnie do $1.',
-      nl: 'Breng me alsjeblieft naar $1.'
+      nl: 'Breng me alsjeblieft naar $1.',
+      pt: 'Por favor, entregar me $1.'
     }]
   }]
 }

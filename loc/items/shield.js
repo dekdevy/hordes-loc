@@ -26,7 +26,8 @@ export default [
       it: 'Anello in ferro fuso riempito di bronzo. Flimsy nella sua realizzazione.',
       pt: 'Anel de ferro fundido cheio de bronze. Frágil na sua confecção.',
       hi: 'लोहा पिघलकर पीतल से भरी हुई। ठीक से नहीं बनी है।',
-      nl: 'Gesmolten ijzeren ring gevuld met brons. Mager in zijn samenstelling.'
+      nl: 'Gesmolten ijzeren ring gevuld met brons. Mager in zijn samenstelling.',
+      pl: 'Wytopiony żelazny pierścień wypełniony brązem. Cienki w wykonaniu.'
     }
   },
 
