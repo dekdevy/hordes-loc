@@ -129,7 +129,7 @@ export default [
       pt: 'Dá uma falsa sensação de poder.',
       nl: 'Geeft een vals gevoel van macht.',
       pl: 'Daje fałszywe poczucie władzy.',
-      it: 'Dà un falso senso del potere.'.
+      it: 'Dà un falso senso del potere.',
       fr: 'Ça donne une fausse impression de pouvoir.'
     }
   },
