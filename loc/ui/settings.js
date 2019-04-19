@@ -12,7 +12,8 @@ export default {
     pt: 'Ajustes',
     pl: 'nastawy',
     ht: 'ajisteman',
-    it: 'impostazioni'
+    it: 'impostazioni',
+    ko: '설정'
   },
 
   // controls section of settings menu
@@ -28,7 +29,8 @@ export default {
     pt: 'controles',
     pl: 'kontrole',
     ht: 'kontwòl yo',
-    it: 'regolazione'
+    it: 'regolazione',
+    ko: '통제 수단'
   },
 
   lockedcamera: {
@@ -43,7 +45,8 @@ export default {
     pt: 'câmera bloqueada',
     pl: 'Zamknięta kamera',
     ht: 'Kamera fèmen',
-    it: 'telecamera bloccata'
+    it: 'telecamera bloccata',
+    ko: '잠긴 카메라'
   },
 
   graphics: {
@@ -58,7 +61,8 @@ export default {
     pt: 'gráficos',
     pl: 'grafika',
     ht: 'grafik',
-    it: 'grafica'
+    it: 'grafica',
+    ko: '제도법'
   },
 
   resolution: {
@@ -73,7 +77,8 @@ export default {
     pt: 'Resolução',
     pl: 'Rozdzielczość',
     ht: 'Rezolisyon an',
-    it: 'delibera'
+    it: 'delibera',
+    ko: '게임의 해상도'
   },
 
   skilleffects: {
@@ -88,7 +93,8 @@ export default {
     pt: 'Efeitos de habilidade',
     pl: 'Efekty umiejętności',
     ht: 'Efè Konpetans',
-    it: 'effetti di abilità'
+    it: 'effetti di abilità',
+    ko: '기술 효과'
   },
 
   shadow: {
@@ -103,7 +109,8 @@ export default {
     pt: 'Qualidade de sombras',
     pl: 'Jakość cienia',
     ht: 'Kalite lonbraj',
-    it: 'Qualità dell\'ombra'
+    it: 'Qualità dell\'ombra',
+    ko: '그림자'
   },
 
   grassamount: {
@@ -118,7 +125,8 @@ export default {
     pt: 'Quantidade de grama',
     pl: 'Ilość trawy',
     ht: 'Zèb kantite lajan',
-    it: 'Quantità d\'erba'
+    it: 'Quantità d\'erba',
+    ko: '잔디 양'
   },
 
   chat: {
@@ -133,7 +141,8 @@ export default {
     pt: 'bate-papo',
     pl: 'pogawędka',
     ht: 'chat',
-    it: 'chiacchierata'
+    it: 'chiacchierata',
+    ko: '잡담'
   },
 
   chatwidth: {
@@ -148,7 +157,8 @@ export default {
     pt: 'Largura do chat',
     pl: 'Szerokość rozmowy',
     ht: 'Lajè chat',
-    it: 'Larghezza della chat'
+    it: 'Larghezza della chat',
+    ko: '잡담 폭'
   },
 
   chatheight: {
@@ -163,7 +173,8 @@ export default {
     pt: 'Altura do chat',
     pl: 'Wysokość rozmowy',
     ht: 'Wotè chat',
-    it: 'Altezza della chat'
+    it: 'Altezza della chat',
+    ko: '잡담 노피'
   },
 
   tutorial: {
@@ -178,7 +189,8 @@ export default {
     pt: 'tutorial',
     pl: 'przewodnik',
     ht: 'leson patikilye',
-    it: 'tutorial'
+    it: 'tutorial',
+    ko: ' 지도 시간'
   },
 
   reset: {
@@ -193,6 +205,7 @@ export default {
     pt: 'tutorial de reset',
     pl: 'resetowanie samouczka',
     ht: 'Reset tutorial',
-    it: 'Ripristina tutorial'
+    it: 'Ripristina tutorial',
+    ko: '재설정 자습서'
   }
 }
