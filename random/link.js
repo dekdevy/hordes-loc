@@ -31,7 +31,7 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'rooting', 'seething', 'sickly', 'serpentine', 'senseless', 'shabby', 'shaggy', 'shambolic', 'shillyshallying', 'slim',
   'sleek', 'skulking', 'smacking', 'spellbound', 'explosive', 'fantastic', 'ferocious', 'gaudy', 'glazed', 'hazardous'
   'idiotic', 'lame', 'ingeneous', 'puking', 'loud', 'evil', 'sweaty', 'faithful', 'unfaithful', 'traditional', 'modern'
-  'vampiric', 'silk', 'verocious', 'vigorous', 'yelping']
+  'vampiric', 'silk', 'verocious', 'vigorous', 'yelping', 'huffy', 'humorous', 'medieval']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
