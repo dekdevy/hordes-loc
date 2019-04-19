@@ -24,7 +24,7 @@ const findmissing = (obj, currentType, path)=>{
   Object.entries(obj).forEach( ([ key, value ]) => {
     if(key == '$$') return
     // check whether value is object or string
-    const next = path !== undefined ? `${path} → ${key}` : key
+    const next = path !== undefined ? `${path} ${key}` : key
     if(typeof value  === 'object') {
       // if object, check whether object has strings as children
       if(Object.entries(value).some(v => typeof v[1] === 'string')) {
@@ -52,7 +52,7 @@ languages.forEach(type => {
 
 // print
 missing.forEach((set, name)=>{
-  console.log(`  ${name} is missing these languages: ${Array.from(set)}`)
+  console.log(`  ${name} → [${Array.from(set)}]`)
 })
 
 console.log('  done.')
