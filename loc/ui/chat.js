@@ -1,22 +1,8 @@
 export default {
 
-  showall: {
-    en: 'Show All',
-    ru: 'Все',
-    hi: 'सब दिखाए',
-    es: 'Todo',
-    de: 'Alle anzeigen',
-    fr: 'Montrer tous/toutes',
-    ko: '모두 보이기',
-    tr: 'Hepsini Göster',
-    nl: 'Toon alle',
-    pt: 'Mostrar todos',
-    pl: 'Pokaż wszystko',
-    ht: 'Montre tout'
-  },
-
-  showclan: {
-    en: 'Show Clan',
+  clan: {
+    en: 'Clan',
+    /* TODO: Significantly shorten all of below, no longer than 5 chars, otherwise just use "clan" */
     ru: 'Клан',
     hi: 'दल से दिखाए',
     es: 'Mostrar Clan',
@@ -30,8 +16,9 @@ export default {
     ht: 'Montre klan'
   },
 
-  showsystem: {
-    en: 'Show System',
+  system: {
+    en: 'System',
+    /* TODO: Significantly shorten all below, no longer than 7 chars, otherwise just use "clan" */
     ru: 'Система',
     hi: 'सिस्टम से दिखाए',
     es: 'Mostrar sistema',
@@ -52,22 +39,12 @@ export default {
 
   // translations not needed
   exp: {
-    $$: 'exp'
+    $$: 'EXP'
   },
 
   // translations not needed
   pvp: {
     $$: 'PvP'
-  },
-
-  // translations not needed
-  twitter: {
-    $$: 'TW'
-  },
-
-  // translations not needed
-  discord: {
-    $$: 'Discord'
   }
 
 }

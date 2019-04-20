@@ -3,12 +3,12 @@ export default {
   manager: {
     en: 'Clan Manager',
     ru: 'Клан Менеджер',
-    fr: 'Gestionnaire du clan',
+    fr: 'Gestionnaire du clan', // TODO: shorten
     hi: 'दल प्रबंधक',
-    es: 'Gerente de clan',
+    es: 'Gerente de clan', // TODO: shorten
     de: 'Clan-Manager',
     tr: 'Klan Yönetimi',
-    bg: 'Мениджър на клана',
+    bg: 'Мениджър на клана', // TODO: shorten
     cs: 'Clan Manager',
     el: 'Clan Manager',
     it: 'Clan Manager',
@@ -27,17 +27,17 @@ export default {
     ru: 'Покинуть Клан',
     fr: 'Quitter le clan',
     hi: 'दल छोड़े',
-    es: 'Abandonar el clan',
+    es: 'Abandonar el clan', // TODO: shorten
     de: 'Clan verlassen',
     tr: 'Klandan Ayrıl',
     bg: 'Напусни Clan',
     cs: 'Opustit klan',
     el: 'Αφήστε τη Clan',
-    it: 'Abbandona il clan',
+    it: 'Abbandona il clan', // TODO: shorten
     ja: 'クランを脱退',
     pl: 'Opuść Klan',
     pt: 'Saia do clã',
-    ph: 'Iwanan mo ang grupo',
+    ph: 'Iwanan mo ang grupo', // TODO: shorten
     sv: 'Lämna Clan',
     ht: 'Kite Clan',
     nl: 'Verlofclan',
@@ -112,10 +112,10 @@ export default {
 
   createname: {
     en: 'Clan name',
-    ru: 'Название клана',
+    ru: 'Название клана', // TODO: shorten
     fr: 'Nom du clan',
     hi: 'दल का नाम',
-    es: 'Nombre del clan',
+    es: 'Nombre del clan', // TODO: shorten
     de: 'Clan-Name',
     tr: 'Klan adı',
     bg: 'Име на клана',
@@ -125,7 +125,7 @@ export default {
     ja: '氏名',
     pl: 'Nazwa klanu',
     pt: 'Nome do clã',
-    ph: 'Pangalan ng isang lipi',
+    ph: 'Pangalan ng isang lipi', // TODO: shorten
     sv: 'Klan namn',
     ht: 'Non klan',
     nl: 'Clannaam',
@@ -137,12 +137,12 @@ export default {
     ru: 'Тег клана',
     fr: 'Tag du clan',
     hi: 'दल टैग',
-    es: 'Etiqueta de clan',
+    es: 'Etiqueta de clan', // TODO: shorten
     de: 'Clan-Tag',
     tr: 'Klan etiketi',
     bg: 'Ден на клана',
     cs: 'Den klanů',
-    el: 'Ημέρα του γάμου',
+    el: 'Ημέρα του γάμου', // TODO: shorten
     it: 'Clan tag',
     ja: '族の日',
     pl: 'Dzień klanu',
