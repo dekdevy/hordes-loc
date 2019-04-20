@@ -73,7 +73,8 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'poison', 'beggar', 'battle', 'battlefield', 'kaiser', 'kamikaze', 'naiad', 'narcotic', 'scorpion', 'argosy', 'opal',
   'pendant', 'militia', 'minotaur', 'tower', 'paradox', 'renegade', 'pawn', 'drift', 'heretic', 'proxy', 'batallion',
   'flank', 'nitwit', 'scholar', 'writer', 'planner', 'stragetist', 'paraphernalia', 'usurper', 'madman', 'madwoman',
-  'trinket', 'vulture', 'watchdog', 'robber', 'stealer', 'patriarch', 'genius', 'gale', 'heiress']
+  'trinket', 'vulture', 'watchdog', 'robber', 'stealer', 'patriarch', 'genius', 'gale', 'heiress', 'princess', 'parchment',
+  'portcullis', 'stronghold', 'fort', 'bailey', 'tepee', 'tsar', 'limousin', 'mermaid', 'siren', 'nymph', 'heir', 'eon']
 
 const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', 'misfortune', 'rage', 'joy',
   'leveling', 'vengance', 'resurrection', 'mastery', 'loss', 'flames', 'fire', 'frost', 'glory', 'war', 'sprinting',
