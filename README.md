@@ -57,7 +57,7 @@ export default {
 ```
 All strings are contained in objects that hold translations for any amount of languages. The default language will generally be `en`for English, but any language can be added. In this case, we can see the Archers name being held in the `name: { ... } `Object, and the English translation is already present.
 
-To add a translation, simply add a [ISO639-2 Language code](http://www.lingoes.net/en/translator/langcode.htm) with your translation. For example, to add a German translation for the Archers name:
+To add a translation, simply add a [ISO639-2 Language code](http://www.lingoes.net/en/translator/langcode.htm) (``en, de, fr...``) with your translation. For example, to add a German translation for the Archers name:
 ```js
   // The class name
   name: {
