@@ -11,7 +11,8 @@ export default [
       pt: 'Quase leve. Você pode provavelmente encontrar algo melhor ao redor.',
       nl: 'Bijna lichtgewicht. Je kunt waarschijnlijk iets beters vinden.',
       pl: 'Prawie lekka. Prawdopodobnie znajdziesz tu coś lepszego.',
-      it: 'Quasi leggero. Probabilmente si può trovare qualcosa di meglio in giro.'
+      it: 'Quasi leggero. Probabilmente si può trovare qualcosa di meglio in giro.',
+      sv: 'Nästan lätt. Du kan säkert hitta något bättre runt.'
     }
   },
 
@@ -26,7 +27,8 @@ export default [
       pt: 'Sentes-te menos hábil só por teres isto nas mãos.',
       nl: 'Je voelt je minder bekwaam door dit in je handen te houden.',
       pl: 'Czujesz się mniej wykwalifikowany, trzymając to w swoich rękach.',
-      it: 'Ti senti meno abile solo tenendoti questo tra le mani.'
+      it: 'Ti senti meno abile solo tenendoti questo tra le mani.',
+      sv: 'Du känner dig mindre skicklig bara genom att hålla detta i dina händer.'
     }
   },
 
@@ -41,7 +43,8 @@ export default [
       pt: 'Quem quer que tenha deixado isto no chão, provavelmente não teve um final agradável.',
       nl: 'Wie dit op de grond liet liggen, kwam waarschijnlijk niet aan een mooi einde.',
       pl: 'Ktokolwiek zostawił to na ziemi, prawdopodobnie nie spotkał się z miłym końcem.',
-      it: 'Chiunque l\'abbia lasciato a terra probabilmente non ha avuto una bella fine.'
+      it: 'Chiunque l\'abbia lasciato a terra probabilmente non ha avuto una bella fine.',
+      sv: 'Den som lämnat det här på marken antog förmodligen inte ett bra slut.'
     }
   },
 
@@ -56,7 +59,8 @@ export default [
       pt: 'Uma arma mais avançada. Bastante agradável de se ver.',
       nl: 'Een geavanceerder wapen. Leuk om naar te kijken.',
       pl: 'Bardziej zaawansowana broń. Całkiem nieźle się na nią patrzy.',
-      it: 'Un\'arma più avanzata. Piuttosto bello da guardare.'
+      it: 'Un\'arma più avanzata. Piuttosto bello da guardare.',
+      sv: 'Ett mer avancerat vapen. Ganska trevligt att titta på.'
     }
   },
 
@@ -71,7 +75,8 @@ export default [
       pt: 'Juntos com os ossos de... alguém?',
       nl: 'In elkaar gezet met de botten van.... iemand?',
       pl: 'Złożone razem z kośćmi.... kogoś?',
-      it: 'Messo insieme alle ossa di..... qualcuno?'
+      it: 'Messo insieme alle ossa di..... qualcuno?',
+      sv: 'Sätta ihop med benen av ... någon?'
     }
   },
 
@@ -86,7 +91,8 @@ export default [
       pt: 'Um arco perito de uma raça esquecida.',
       nl: 'Een deskundige boog van een vergeten race.',
       pl: 'Ekspercki łuk zapomnianej rasy.',
-      it: 'Un arco esperto di una razza dimenticata.'
+      it: 'Un arco esperto di una razza dimenticata.',
+      sv: 'En expertbuga av en glömd ras.'
     }
   },
 
@@ -101,7 +107,8 @@ export default [
       pt: 'Bruto, mas eficaz. Retira o seu poder da pequena folha que lhe está ligada.',
       nl: 'Ruw, maar effectief. Trekt zijn kracht uit het kleine blaadje dat eraan vastzit.',
       pl: 'Surowe, ale skuteczne. Wyciąga swoją moc z dołączonego do niego malutkiego liścia.',
-      it: 'Crudo, ma efficace. Trae il suo potere dalla minuscola foglia ad essa attaccata.'
+      it: 'Crudo, ma efficace. Trae il suo potere dalla minuscola foglia ad essa attaccata.',
+      sv: 'Rå, men effektiv. Ritar sin kraft från det lilla bladet som är fäst vid det.'
     }
   },
 
@@ -116,7 +123,8 @@ export default [
       pt: 'Queima o inimigo com a mais picante das cores vermelhas.',
       nl: 'Verbrandt de vijand met de scherpste rode kleur.',
       pl: 'Wypala wroga z najostrzejszym czerwonym zabarwieniem.',
-      it: 'Brucia il nemico con la più piccante colorazione rossa.'
+      it: 'Brucia il nemico con la più piccante colorazione rossa.',
+      sv: 'Bränner bort fienden med den spiciest av röd färgning.'
     }
   },
 
@@ -131,7 +139,8 @@ export default [
       pt: 'Um arco comumente usado por arqueiros reais de baixo escalão. Mistura-se bem com a vegetação.',
       nl: 'Een boog die vaak gebruikt wordt door laaggeplaatste koninklijke boogschutters. Past goed in de vegetatie.',
       pl: 'Łuk powszechnie używany przez nisko sklasyfikowanych łuczników królewskich. Dobrze komponuje się z roślinnością.',
-      it: 'Un arco comunemente usato dagli arcieri reali di basso rango. Si fonde bene con la vegetazione.'
+      it: 'Un arco comunemente usato dagli arcieri reali di basso rango. Si fonde bene con la vegetazione.',
+      sv: 'En båge som vanligtvis används av lågrankade kungliga bågar. Blandar väl med vegetation.'
     }
   },
 
@@ -146,7 +155,8 @@ export default [
       pt: 'Magistralmente trabalhado pelos bandidos das capitais.',
       nl: 'Op meesterlijke wijze gemaakt door de bandieten van de hoofdsteden.',
       pl: 'Mistrzowsko wykonane przez bandytów ze stolic.',
-      it: 'Artigianato con maestria dai banditi delle capitali.'
+      it: 'Artigianato con maestria dai banditi delle capitali.',
+      sv: 'Mästerligt framställd av banditerna i huvudstäderna.'
     }
   },
 
@@ -161,7 +171,8 @@ export default [
       pt: 'Um arco raro usado na maior das guerras. Atirar nele faz você sentir que os céus vão entrar em colapso.',
       nl: 'Een zeldzame boog gebruikt in de grootste oorlogen. Door het schieten ervan krijg je het gevoel dat de hemel zal instorten.',
       pl: 'Rzadki łuk używany w największych wojnach. Strzelanie do niego sprawia, że czujesz się, jakby niebo się zawaliło.',
-      it: 'Un arco raro usato nelle più grandi guerre. Sparare ti fa sentire come se il cielo crollerà.'
+      it: 'Un arco raro usato nelle più grandi guerre. Sparare ti fa sentire come se il cielo crollerà.',
+      sv: 'En sällsynt båge som används i störst krig. Skytte det gör att du känner att himlen kommer att kollapsa.'
     }
   },
 
@@ -176,7 +187,8 @@ export default [
       pt: 'O que é isso? É gelo? O mundo pode nunca saber...',
       nl: 'Wat is het? Is het ijs? De wereld zal misschien nooit weten....',
       pl: 'Co to jest? Czy to lód? Świat może nigdy się nie dowiedzieć....',
-      it: 'Cosa c\'è? È ghiaccio? Il mondo potrebbe non saperlo mai.....'
+      it: 'Cosa c\'è? È ghiaccio? Il mondo potrebbe non saperlo mai.....',
+      sv: 'Vad är det? Är det is? Världen kanske aldrig vet ...'
     }
   },
 
@@ -191,7 +203,8 @@ export default [
       pt: 'Mata tão bem como parece.',
       nl: 'Doodt net zo mooi als het eruit ziet.',
       pl: 'Zabija tak pięknie, jak wygląda.',
-      it: 'Uccide tanto bene quanto sembra.'
+      it: 'Uccide tanto bene quanto sembra.',
+      sv: 'Dödar så vackert som det ser ut.'
     }
   },
 
@@ -206,7 +219,8 @@ export default [
       pt: 'Rodeado por uma aura horrível. O vento sopra na direção que você aponta.',
       nl: 'Omringd door een afschuwelijke aura. De wind waait in de richting waarin je hem richt.',
       pl: 'Otoczony upiorną aurą. Wiatr wieje w kierunku, w którym go celujesz.',
-      it: 'Circondato da un\'aura spettrale. Il vento soffia nella direzione in cui lo si mira.'
+      it: 'Circondato da un\'aura spettrale. Il vento soffia nella direzione in cui lo si mira.',
+      sv: 'Omgiven av en hemsk aura. Vinden blåser i riktning mot målet.'
     }
   },
 
@@ -221,7 +235,8 @@ export default [
       pt: 'Tão assustador que poucos têm a coragem de o segurar.',
       nl: 'Zo eng dat weinigen het lef hebben om het vast te houden.',
       pl: 'Tak przerażające, że niewielu ma odwagę, by to utrzymać.',
-      it: 'Cosi\' spaventoso che pochi hanno il coraggio di trattenerlo.'
+      it: 'Cosi\' spaventoso che pochi hanno il coraggio di trattenerlo.',
+      sv: 'Så läskigt att få har mage att hålla den.'
     }
   },
 
@@ -236,7 +251,8 @@ export default [
       pt: 'Embebidos em uma raiva primária, seus inimigos tremem ao ver esta arma. O banco de bancos é a última coisa que eles vão ouvir.',
       nl: 'Ingebed in een oerwoede, beven je vijanden bij het zien van dit wapen. Pew pew is het laatste wat ze ooit zullen horen.',
       pl: 'Osadzeni w pierwotnej wściekłości, twoi wrogowie drżą na widok tej broni. Pew pewna ławka jest ostatnią rzeczą, jaką kiedykolwiek usłyszą.',
-      it: 'Incastonati in una rabbia primordiale, i tuoi nemici tremano alla vista di quest\'arma. Pew pew pew è l\'ultima cosa che sentiranno mai.'
+      it: 'Incastonati in una rabbia primordiale, i tuoi nemici tremano alla vista di quest\'arma. Pew pew pew è l\'ultima cosa che sentiranno mai.',
+      sv: 'Inbäddad med primitiv raseri, dina fiender darrar vid synen av detta vapen. Pew pew är det sista de någonsin kommer att höra.'
     }
   }
 

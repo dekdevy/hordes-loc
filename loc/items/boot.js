@@ -11,7 +11,8 @@ export default [
       pt: 'Pelo menos estás a usar algo nesses pés.',
       nl: 'Je draagt tenminste iets op die voeten.',
       tr: 'En azından ayağına bir şeyler giyiyorsun.',
-      pl: 'Przynajmniej nosisz coś na tych stopach.'
+      pl: 'Przynajmniej nosisz coś na tych stopach.',
+      sv: 'Åtminstone bär du något på dessa fötter.'
     }
   },
 
@@ -27,7 +28,8 @@ export default [
       pt: 'Solas feitas de tecido, provavelmente rasgarão depois de algumas horas.',
       nl: 'Zolen van doek, zullen waarschijnlijk na een paar uur scheuren.',
       tr: 'Kumaştan yapılmış tabanlar, birkaç saat sonra muhtemelen yırtılacak.',
-      pl: 'Podeszwy wykonane z tkaniny, prawdopodobnie rozerwą się po kilku godzinach.'
+      pl: 'Podeszwy wykonane z tkaniny, prawdopodobnie rozerwą się po kilku godzinach.',
+      sv: 'Soles gjorda av tyg, kommer troligen att riva efter några timmar.'
     }
   },
 
@@ -43,7 +45,8 @@ export default [
       pt: 'Diz-se que o couro macio é arrancado dos javalis selvagens que vagueiam pelos bosques sinistros.',
       nl: 'Het zachte leer zou gestript zijn van wilde zwijnen die door de griezelige bossen zwerven.',
       tr: 'Bu yumuşak derinin, ürkütücü ormanda dolaşan yaban domuzlarından sıyrıldığı söylenir.',
-      pl: 'Mówi się, że miękka skóra jest rozebrana z dzika wędrującego po przerażających lasach.'
+      pl: 'Mówi się, że miękka skóra jest rozebrana z dzika wędrującego po przerażających lasach.',
+      sv: 'Det mjuka läderet sägs vara avskilt från vildsvin som roaming de kusliga skogen.'
     }
   },
 
@@ -59,7 +62,8 @@ export default [
       pt: 'Claramente sem imaginação, o fabricante fez botas a partir dos ossos de uma criatura muito grande...',
       nl: 'Duidelijk niet verbeeldingsvol, de maker maakte laarzen van de botten van een zeer groot wezen....',
       tr: 'Hayal gücünden yoksun olduğu aşikar olan usta, çok büyük bir yaratığın kemiklerinden botlar yaptı...',
-      pl: 'Wyraźnie pozbawiony wyobraźni, twórca wykonał buty z kości bardzo dużego stworzenia...'
+      pl: 'Wyraźnie pozbawiony wyobraźni, twórca wykonał buty z kości bardzo dużego stworzenia...',
+      sv: 'Klart saknar fantasi gjorde tillverkaren stövlar från benen i en väldigt stor varelse ...'
     }
   },
 
@@ -75,7 +79,8 @@ export default [
       pt: 'Escalas misteriosas cobrem o exterior do seu calçado, pegando olhares ao sol.',
       nl: 'Mysterieuze weegschalen bedekken de buitenkant van je schoeisel en vangen de blikken in de zon.',
       tr: 'Gizemli pullar, ayakkabınızın dışını örterek güneşte göz kamaştırıyor.',
-      pl: 'The mysterious scale covers the outside of the shoe, capturing reflections in the sun.'
+      pl: 'The mysterious scale covers the outside of the shoe, capturing reflections in the sun.',
+      sv: 'Mystiska vågar täcker utsidan av dina skor, fångar glares i solen.'
     }
   },
 
@@ -91,7 +96,8 @@ export default [
       pt: 'Um padrão agradável feito para paralisar os teus inimigos... imagina se funciona.',
       nl: 'Een aangenaam patroon om je vijanden te verlammen.... of het werkt.',
       tr: 'Düşmanlarınızı felç etmek için yapılan hoş bir desen... işe yarayıp yaramadığını merak konusu.',
-      pl: 'Przyjemny wzór stworzony w celu sparaliżowania twoich wrogów... zastanawiam się, czy działa...'
+      pl: 'Przyjemny wzór stworzony w celu sparaliżowania twoich wrogów... zastanawiam się, czy działa...',
+      sv: 'Ett trevligt mönster för att förlamna dina fiender ... undrar om det fungerar.'
     }
   },
 
@@ -107,7 +113,8 @@ export default [
       pt: 'Levados por veteranos de guerra que claramente não encontraram protecção suficiente contra estes torresmos.',
       nl: 'Genomen van oorlogsveteranen die duidelijk niet genoeg bescherming vonden tegen deze kanen.',
       tr: 'Dizçekleri yeterince korunaklı bulmayan savaş gazilerinden alınmış.',
-      pl: 'Odebrane od weteranów wojennych, którzy najwyraźniej nie znaleźli wystarczającej ochrony przed tymi skwarkami.'
+      pl: 'Odebrane od weteranów wojennych, którzy najwyraźniej nie znaleźli wystarczającej ochrony przed tymi skwarkami.',
+      sv: 'Hämtad från krigsveteraner som helt klart inte hitta tillräckligt med skydd från dessa greaves.'
     }
   },
 
@@ -123,7 +130,8 @@ export default [
       pt: 'Aparentemente volumoso, provavelmente muito desconfortável.',
       nl: 'Mollig in zijn uiterlijk, waarschijnlijk erg ongemakkelijk.',
       tr: 'Görünüşünde tıknaz, muhtemelen çok rahatsız edici.',
-      pl: 'W swoim wyglądzie, prawdopodobnie bardzo niewygodny.'
+      pl: 'W swoim wyglądzie, prawdopodobnie bardzo niewygodny.',
+      sv: 'Chunky i sitt utseende, förmodligen mycket obekväma.'
     }
   },
 
@@ -139,7 +147,8 @@ export default [
       pt: 'Corra tão rápido como o vento... ou perto dele.',
       nl: 'Ren zo snel als de wind.... of dichtbij.',
       tr: 'Rüzgar kadar hızlı koş... veya meltem kadar da olabilir.',
-      pl: 'Biegnij tak szybko jak wiatr.... lub blisko niego.'
+      pl: 'Biegnij tak szybko jak wiatr.... lub blisko niego.',
+      sv: 'Kör så fort som vinden ... eller nära den.'
     }
   },
 
@@ -155,7 +164,8 @@ export default [
       pt: 'Forjado sem calor, corre sem tropeçar.',
       nl: 'Gesmeed zonder warmte, loopt zonder struikelen.',
       tr: 'Isı olmadan dövülmüş, takır takır çalışır.',
-      pl: 'Kute bez ciepła, pracuje bez potknięcia się.'
+      pl: 'Kute bez ciepła, pracuje bez potknięcia się.',
+      sv: 'Smidd utan värme, löper utan att snubbla.'
     }
   },
 
@@ -171,7 +181,8 @@ export default [
       pt: 'Alguns dizem que se pode correr em nuvens com isto. Os poucos que tentaram já ascenderam.',
       nl: 'Sommigen zeggen dat je hiermee op wolken kunt lopen. De weinigen die het geprobeerd hebben zijn al opgestegen.',
       tr: 'İnsanlar bunlarla bulutların üzerinde koşabileceğinizi söylüyor. Denemiş olan birkaç kişi çoktan atmosfere ulaştı bile.',
-      pl: 'Niektórzy mówią, że możesz biegać z nimi po chmurach. Nieliczni, którzy próbowali, już się podnieśli.'
+      pl: 'Niektórzy mówią, że możesz biegać z nimi po chmurach. Nieliczni, którzy próbowali, już się podnieśli.',
+      sv: 'Vissa säger att du kan springa på moln med dessa. De få som har försökt har redan stigit upp.'
     }
   },
 
@@ -187,7 +198,8 @@ export default [
       pt: 'Dizem que botas antigas foram roubadas dos pés do deus mensageiro romano...',
       nl: 'Eeuwenoude laarzen, waarvan wordt beweerd dat ze gestolen zijn uit de voeten van de Romeinse boodschappergod....',
       tr: 'Roma haber tanrısının ayaklarından çalındığı söylenen eski çizmeler...',
-      pl: 'Starożytne buty, które podobno zostały skradzione z nóg posłańca rzymskich bogów...'
+      pl: 'Starożytne buty, które podobno zostały skradzione z nóg posłańca rzymskich bogów...',
+      sv: 'Gamla stövlar ryktes för att bli stulna från fötterna till den romerska budbärarens gud ...'
     }
   },
 
@@ -203,7 +215,8 @@ export default [
       pt: 'As estrelas sempre foram consideradas todo-poderosas, agora são tuas.',
       nl: 'Sterren werden altijd beschouwd als almachtig, nu zijn ze van jou.',
       tr: 'Yıldızlar her zaman kudretli olarak kabul edildi, şimdi onlar senin.',
-      pl: 'Gwiazdy zawsze uważano za wszechmocne, teraz są twoje.'
+      pl: 'Gwiazdy zawsze uważano za wszechmocne, teraz są twoje.',
+      sv: 'Stjärnor anses alltid vara allsmäktiga, nu är de din.'
     }
   }
 

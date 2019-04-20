@@ -17,8 +17,8 @@ export default {
     el: 'καταγραφή εμπορευμάτων',
     ja: '在庫',
     ph: 'imbentaryo',
-    sv: 'lager',
     ht: 'envantè',
-    ko: '목록'
+    ko: '목록',
+    sv: 'inventarium'
   }
 }
