@@ -36,12 +36,12 @@ Exporting...
 ```
 ### Helpful resources 
 
-* Language codes - http://www.loc.gov/standards/iso639-2/php/code_list.php
-* GitHub guide - https://try.github.io
-* Translator - https://www.deepl.com/en/translator
-* Tutorial on updated your repository - https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser
-* More GitHub guides -  https://guides.github.com/
-* GitHub video tutorial - https://www.youtube.com/watch?v=0fKg7e37bQE
+* [Language codes](http://www.loc.gov/standards/iso639-2/php/code_list.php)
+* [GitHub guide](https://try.github.io)
+* [Translator]https://www.deepl.com/en/translator)
+* [Tutorial on updated your repository](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser)
+* [More GitHub guides](https://guides.github.com/)
+* [GitHub video tutorial](https://www.youtube.com/watch?v=0fKg7e37bQE)
 
 ### Examples
 Lets say we want to add a German translation to some of the basic Strings for the Archer class. We navigate to `loc/classes/archer.js`, and find:
