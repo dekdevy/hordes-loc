@@ -76,7 +76,7 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'trinket', 'vulture', 'watchdog', 'robber', 'stealer', 'patriarch', 'genius', 'gale', 'heiress', 'princess', 'parchment',
   'portcullis', 'stronghold', 'fort', 'bailey', 'tepee', 'tsar', 'limousin', 'mermaid', 'siren', 'nymph', 'heir', 'eon',
   'era', 'century', 'century', 'millenium', 'decade', 'gallows', 'gamble', 'maestro', 'joker', 'fairy', 'noose', 'tomohawk',
-  'ore']
+  'ore', 'halcyon']
 
 const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', 'misfortune', 'rage', 'joy',
   'leveling', 'vengance', 'resurrection', 'mastery', 'loss', 'flames', 'fire', 'frost', 'glory', 'war', 'sprinting',
@@ -94,7 +94,8 @@ const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', '
   'sharpness', 'travelling', 'smelting', 'forgery', 'cowardice', 'forging', 'acumen', 'acme', 'cursing', 'bivouacking', 'revolt',
   'romance', 'stunning', 'sanity', 'insanity', 'ingenuity', 'regurgitation', 'evilness', 'wickedness', 'servitude', 'shooting',
   'spiritualism', 'hysteria', 'foolishness', 'idiocy', 'vanity', 'vertigo', 'vivacity', 'holiness', 'humour', 'hypnotism',
-  'secrets']
+  'secrets', 'renovation', 'bliss', 'falseness', 'isolation', 'apoplexy', 'omens', 'tipsiness', 'blasphemy', 'heresy', 'prowess',
+  'proficiency', 'plagiarism', 'hallucinations', 'pyromania', 'theft', 'falconry']
 
 export const generate = ()=>{
   // generates a random party invite link name
