@@ -14,6 +14,11 @@ Building the generator file, then compiling the languages into `dist/`
 ```bash
 npm run generate
 ```
+Resources for first timers and git beginners
+* [DeepL Translator](https://www.deepl.com/en/translator) - Our preferred translator
+* [Language codes](http://www.lingoes.net/en/translator/langcode.htm) - Pick language codes from here when introducing a new language. Ignore post-dash
+* [GitHub video tutorial](https://www.youtube.com/watch?v=0fKg7e37bQE), [GitHub guides](https://guides.github.com/)
+* [Tutorial on updating your fork](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser) - Bringing your repository up to the master's state
 
 ## Contributing
 
@@ -34,14 +39,6 @@ Exporting...
   en -> en.json
   de -> de.json
 ```
-### Helpful resources 
-
-* [Language codes](http://www.loc.gov/standards/iso639-2/php/code_list.php)
-* [GitHub guide](https://try.github.io)
-* [Translator](https://www.deepl.com/en/translator)
-* [Tutorial on updated your repository](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser)
-* [More GitHub guides](https://guides.github.com/)
-* [GitHub video tutorial](https://www.youtube.com/watch?v=0fKg7e37bQE)
 
 ### Examples
 Lets say we want to add a German translation to some of the basic Strings for the Archer class. We navigate to `loc/classes/archer.js`, and find:
@@ -60,7 +57,7 @@ export default {
 ```
 All strings are contained in objects that hold translations for any amount of languages. The default language will generally be `en`for English, but any language can be added. In this case, we can see the Archers name being held in the `name: { ... } `Object, and the English translation is already present.
 
-To add a translation, simply add a [ISO639-2](http://www.loc.gov/standards/iso639-2/php/code_list.php) two letter language tag with your translation. For example, to add a German translation for the Archers name:
+To add a translation, simply add a [ISO639-2 Language code](http://www.lingoes.net/en/translator/langcode.htm) (``en, de, fr...``) with your translation. For example, to add a German translation for the Archers name:
 ```js
   // The class name
   name: {
