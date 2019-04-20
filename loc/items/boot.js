@@ -12,7 +12,7 @@ export default [
       nl: 'Je draagt tenminste iets op die voeten.',
       tr: 'En azından ayağına bir şeyler giyiyorsun.',
       pl: 'Przynajmniej nosisz coś na tych stopach.',
-      sv; 'Åtminstone bär du något på dessa fötter.'
+      sv: 'Åtminstone bär du något på dessa fötter.'
     }
   },
 
