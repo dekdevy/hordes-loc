@@ -20,6 +20,6 @@ export default {
     sv: 'lager',
     ht: 'envantè',
     ko: '목록',
-    se: 'inventarium'
+    sv: 'inventarium'
   }
 }
