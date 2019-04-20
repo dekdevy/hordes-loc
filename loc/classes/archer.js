@@ -11,7 +11,7 @@ export default {
     de: 'Bogenschütze',
     tr: 'Okçu',
     nl: 'Boogschutter',
-    hi: 'धनुराशि',
+    hi: 'धनुरधारी',
     it: 'Arciere',
     ht: 'Archer',
     pl: 'Łucznik'
