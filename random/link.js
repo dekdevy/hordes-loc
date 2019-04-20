@@ -71,7 +71,9 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'outsider', 'quisling', 'wind', 'rider', 'sickle', 'sergeant', 'corporal', 'major', 'serpent', 'shackles', 'whip', 'shipwreck',
   'sledgehammer', 'eyeball', 'idiot', 'mammoth', 'worm', 'vampire', 'inferno', 'hobgoblin', 'hound', 'megalith', 'lozenge',
   'poison', 'beggar', 'battle', 'battlefield', 'kaiser', 'kamikaze', 'naiad', 'narcotic', 'scorpion', 'argosy', 'opal',
-  'pendant', 'militia', 'minotaur', 'tower', 'paradox', 'renegade']
+  'pendant', 'militia', 'minotaur', 'tower', 'paradox', 'renegade', 'pawn', 'drift', 'heretic', 'proxy', 'batallion',
+  'flank', 'nitwit', 'scholar', 'writer', 'planner', 'stragetist', 'paraphernalia', 'usurper', 'madman', 'madwoman',
+  'trinket', 'vulture', 'watchdog', 'robber', 'stealer', 'patriarch', 'genius', 'gale', 'heiress']
 
 const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', 'misfortune', 'rage', 'joy',
   'leveling', 'vengance', 'resurrection', 'mastery', 'loss', 'flames', 'fire', 'frost', 'glory', 'war', 'sprinting',
