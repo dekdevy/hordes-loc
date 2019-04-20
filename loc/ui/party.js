@@ -13,7 +13,7 @@ export default {
   kick: {
     en: 'Party kick',
     ru: 'Выгнать',
-    de: 'Party-kick
+    de: 'Party-kick'
   },
 
   leave: {
