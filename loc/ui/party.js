@@ -16,5 +16,9 @@ export default {
 
   leave: {
     en: 'Leave party'
+  },
+
+  onInvite: {
+    en: '$1 has invited you to join their party.'
   }
 }

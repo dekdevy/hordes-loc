@@ -14,8 +14,8 @@ export default {
     pl: 'Dobrze.',
     ht: 'Dakò',
     ko: '오케이'
-
   },
+
   back: {
     en: 'Back',
     sv: 'Bakåt',
@@ -30,5 +30,13 @@ export default {
     pl: 'Popierać',
     ht: 'Retounen',
     ko: '뒤로가기'
+  },
+
+  accept: {
+    en: 'Accept'
+  },
+
+  decline: {
+    en: 'Decline'
   }
 }
