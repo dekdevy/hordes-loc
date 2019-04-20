@@ -15,7 +15,8 @@ export default {
   },
 
   leave: {
-    en: 'Leave party'
+    en: 'Leave party',
+    ru: 'отпуск Party'
   },
 
   onInvite: {
