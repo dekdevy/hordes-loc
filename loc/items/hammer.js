@@ -213,7 +213,7 @@ export default [
     name       : {$$: 'Hammer of Gaia' },
     description: {
       en: 'Some say its made by dwarves, others say by elves... the truth is yet to be uncovered.',
-      ru: 'Некоторые говорят, что он сделан дварфами, другие говорят эльфами... правда еще не раскрыта.',
+      ru: 'Некоторые говорят, что он сделан дворфами, другие говорят эльфами... правда еще не раскрыта.',
       hi: 'कुछ लोग कहते हैं अपने बौने द्वारा बनाई गई हैं, दूसरों का कहना है कि कल्पित बौने से ... सच का पर्दाफाश किया जा करने के लिए अभी तक है।',
       es: 'Algunos dicen que está hecho por enanos, otros dicen que por elfos... la verdad aún no ha sido descubierta.',
       de: 'Einige sagen, dass es von Zwergen gemacht wurde, andere sagen, dass es von Elfen gemacht wurde... die Wahrheit ist noch nicht enthüllt.',
