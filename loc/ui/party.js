@@ -6,11 +6,15 @@ export default {
 
   invite: {
     en: 'Party invite',
-    ru: 'Пригласить'
+    ru: ' Пригласить в party'
   },
 
   kick: {
     en: 'Party kick',
     ru: 'Выгнать'
+  },
+
+  leave: {
+    en: 'Leave party'
   }
 }
