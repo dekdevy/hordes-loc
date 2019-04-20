@@ -36,6 +36,7 @@ Exporting...
 ```
 ### Helpful resources 
 
+* http://www.loc.gov/standards/iso639-2/php/code_list.php
 * https://try.github.io
 * https://www.deepl.com/en/translator
 * https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser
