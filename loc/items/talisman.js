@@ -3,6 +3,7 @@ export default [
     name       : {$$: 'Smelly Talisman' },
     description: {
       en: 'Smells so bad, I wonder why you even picked it up.',
+      ru: 'Воняет, интересно, зачем ты вообще его взял?',
       de: 'Riecht so übel, dass ich mich frage, warum du es überhaupt aufgehoben hast.'
     }
   },
@@ -11,6 +12,7 @@ export default [
     name       : {$$: 'Bone Plate' },
     description: {
       en: 'The shoulder plate of some creature fares well as a portable eating utensil.',
+      ru: 'Костяной пласт какого-то монстра, хорошо подходит как тарелка для еды.',
       de: 'Die Schulterplatte einiger Kreaturen geht gut als tragbares Essgerät.'
     }
   },
@@ -19,6 +21,7 @@ export default [
     name       : {$$: 'Polished Slab' },
     description: {
       en: 'Heavy necklace, smoothed and polished to blind you during battle.',
+      ru: 'Тяжелое ожерелье, гладкое и отполированное. Слепит тебя во время драки.',
       de: 'Schwere Halskette, geglättet und poliert, um dich im Kampf zu blenden.'
     }
   },
@@ -27,6 +30,7 @@ export default [
     name       : {$$: 'Apple Slice' },
     description: {
       en: 'A putrid morsel from last years harvest.',
+      ru: 'Гнилой кусок с прошлогоднего урожая.',
       de: 'Ein fauliges Stückchen aus der Ernte des letzten Jahres.'
     }
   },
@@ -35,6 +39,7 @@ export default [
     name       : {$$: 'Skimmer' },
     description: {
       en: 'Thin slice of granite, perfect for bouncing across the ripples of the lake.',
+      ru: 'Тонкий кусок гранита, идеально подходящий для "блинчиков", отпрыгивающих от поверхности воды.',
       de: 'Dünne Granitscheibe, perfekt zum Springen über die Wellen des Sees.'
     }
   },
@@ -43,6 +48,7 @@ export default [
     name       : {$$: 'Silk Adornment' },
     description: {
       en: 'Shimmering silver fabric said to be stolen from Aphrodite herself.',
+      ru: 'Сияющая серебряная ткань, как говорят, была украдена у самой Афродиты.',
       de: 'Schimmernder silberner Stoff soll von Aphrodite selbst gestohlen worden sein.'
     }
   },
@@ -51,7 +57,8 @@ export default [
     name       : {$$: 'Frosted Necklace' },
     description: {
       en: 'Cold and blue, the pendant steals your warmth as a payment for its effects...',
-      de: 'Kalt und blau, der Anhänger stiehlt deine Wärme als Bezahlung für seine Wirkung.....'
+      ru: 'Холодный и синий. Крадет твое тепло в качестве оплаты за его эффекты...',
+      de: 'Kalt und blau, der Anhänger stiehlt deine Wärme als Bezahlung für seine Wirkung...'
     }
   },
 
@@ -59,6 +66,7 @@ export default [
     name       : {$$: 'Ocean Lavalier' },
     description: {
       en: 'Surprisingly, it doesn\'t smell like fish. Just don\'t show it freshwater.',
+      ru: 'Удивительно, но от него не пахнет рыбой. Только не показывай ему пресную воду.',
       de: 'Überraschenderweise riecht es nicht nach Fisch. Aber zeig ihm kein Süßwasser.'
     }
   },
