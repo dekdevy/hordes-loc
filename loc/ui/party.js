@@ -15,6 +15,11 @@ export default {
   },
 
   leave: {
-    en: 'Leave party'
-  }
+    en: 'Leave party',
+    ru: 'Выйти из party'
+  },
+
+  join: {
+    en: 'Join party',
+    ru: 'Присоединиться k party'
 }
