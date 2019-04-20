@@ -48,7 +48,7 @@ export default [
     name       : {$$: 'Orcish Bludgeon' },
     description: {
       en: 'Orcs follow the wielder of this meager weapon. It\'s pretty useless, but they seem to like it...',
-      ru: 'Орки следуют за обладателем этого оружия. Oн довольно бесполезно, но им похоже нравится...',
+      ru: 'Орки следуют за обладателем этого оружия. Oно довольно бесполезно, но им похоже нравится...',
       hi: 'राक्षसों के इस अल्प हथियार के wielder का पालन करें। यह बहुत बेकार है, लेकिन वे इसे पसंद करने लगते हैं...',
       es: 'Los Orcos siguen al portador de esta magra arma. Es bastante inútil, pero parece que les gusta...',
       de: 'Orks folgen dem Besitzer dieser mageren Waffe. Es ist ziemlich nutzlos, aber sie scheinen es zu mögen...',
@@ -138,7 +138,7 @@ export default [
     name       : {$$: 'Dwarven Maul' },
     description: {
       en: 'Heavy basher used by dwarven warriors. Made of an unknown metal, dark and heavy.',
-      ru: 'Тяжелая дубинка, используемая гномами-воинами. Изготовлена из неизвестного металла, темная и тяжелая.',
+      ru: 'Тяжелая дубинка, используемая дворфами-воинами. Изготовлена из неизвестного металла, темная и тяжелая.',
       hi: 'भारी बौना योद्धाओं द्वारा प्रयोग किया जाता basher। एक अज्ञात धातु, काले और भारी से बना।',
       es: 'Golpeador pesado usado por los guerreros enanos. Hecho de un metal desconocido, oscuro y pesado.',
       de: 'Schwerer Schläger, der von Zwergenkrieger benutzt wird. Hergestellt aus einem unbekannten Metall, dunkel und schwer.',
@@ -213,7 +213,7 @@ export default [
     name       : {$$: 'Hammer of Gaia' },
     description: {
       en: 'Some say its made by dwarves, others say by elves... the truth is yet to be uncovered.',
-      ru: 'Некоторые говорят, что он сделан дварфами, другие говорят эльфами... правда еще не раскрыта.',
+      ru: 'Некоторые говорят, что он сделан дворфами, другие говорят эльфами... правда еще не раскрыта.',
       hi: 'कुछ लोग कहते हैं अपने बौने द्वारा बनाई गई हैं, दूसरों का कहना है कि कल्पित बौने से ... सच का पर्दाफाश किया जा करने के लिए अभी तक है।',
       es: 'Algunos dicen que está hecho por enanos, otros dicen que por elfos... la verdad aún no ha sido descubierta.',
       de: 'Einige sagen, dass es von Zwergen gemacht wurde, andere sagen, dass es von Elfen gemacht wurde... die Wahrheit ist noch nicht enthüllt.',
