@@ -7,14 +7,14 @@ export default {
     es: 'inventario',
     de: 'Inventar',
     fr: 'inventaire',
-    nl: 'inventarisatie',
+    nl: 'inventarisatie',               // TODO: shorten
     pt: 'inventário',
     tr: 'enventer',
     it: 'inventario',
     pl: 'Inwentarz',
-    bg: 'складова наличност',
+    bg: 'складова наличност',           // TODO: shorten
     cs: 'inventář',
-    el: 'καταγραφή εμπορευμάτων',
+    el: 'καταγραφή εμπορευμάτων',       // TODO: oh god
     ja: '在庫',
     ph: 'imbentaryo',
     ht: 'envantè',
