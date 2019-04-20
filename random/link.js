@@ -36,7 +36,8 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'carnivorous', 'chaotic', 'hollow', 'backstabbing', 'naive', 'narky', 'screeching', 'aquatic', 'swift', 'misfit', 'oozing',
   'ratty', 'lithe', 'maleable', 'stingy', 'tipsy', 'zany', 'disused', 'disturbing', 'cosmic', 'drifted', 'catastrophic',
   'priceless', 'plagiarizing', 'loathing', 'lugubrious', 'satanic', 'hallucinogenic', 'uneducated', 'tribal', 'vulgar',
-  'thieving', 'farcical', 'falsifying', 'azure', 'albino', 'alien', 'agitating', 'galant', 'glossy']
+  'thieving', 'farcical', 'falsifying', 'azure', 'albino', 'alien', 'agitating', 'galant', 'glossy', 'globular', 'searing',
+  'flaming', 'frosty', 'herculean', 'irksome', 'vulnerable', 'meritiorious', 'optimistic', 'pessemistic']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
