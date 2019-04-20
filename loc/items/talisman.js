@@ -3,8 +3,15 @@ export default [
     name       : {$$: 'Smelly Talisman' },
     description: {
       en: 'Smells so bad, I wonder why you even picked it up.',
-      ru: 'Воняет, интересно, зачем ты вообще его взял?',
-      de: 'Riecht so übel, dass ich mich frage, warum du es überhaupt aufgehoben hast.'
+      ru: 'Пахнет просто отвратительно, я удивляюсь, что ты даже поднял его.',
+      es: 'Huele tan mal que me pregunto por qué lo recogiste.',
+      de: 'Riecht so übel, dass ich mich frage, warum du es überhaupt aufgehoben hast.',
+      hi: 'इसकी गंद इतनी ख़राब है, सोचता हु इसे उठाया ही क्यू अपने।',
+      fr: 'Il sent si mauvais. Je me demande pourquoi tu l\'as ramassé.',
+      it: 'C\'e\' un odore cosi\' forte, mi chiedo perche\' l\'hai preso.',
+      pt: 'Cheira tão mal que me pergunto porque é que o apanhaste.',
+      pl: 'Pachnie tak źle, że zastanawiam się, dlaczego w ogóle go odebrałeś.',
+      nl: 'Ruikt zo erg dat ik me afvraag waarom je het zelfs maar opgepikt'
     }
   },
 
@@ -66,8 +73,15 @@ export default [
     name       : {$$: 'Ocean Lavalier' },
     description: {
       en: 'Surprisingly, it doesn\'t smell like fish. Just don\'t show it freshwater.',
-      ru: 'Удивительно, но от него не пахнет рыбой. Только не показывай ему пресную воду.',
-      de: 'Überraschenderweise riecht es nicht nach Fisch. Aber zeig ihm kein Süßwasser.'
+      ru: 'Удивительно, но он не пахнет рыбой. Просто не показывай ему пресную воду.',
+      es: 'Sorprendentemente, no huele a pescado. No lo muestres a agua dulce.',
+      de: 'Überraschenderweise riecht es nicht nach Fisch. Zeigen Sie es einfach nicht im Süßwasser.',
+      hi: 'मछलियों की गंद नहीं आती है इस तावीज़ से। पर इसे साफ़ पानी से दूर रखे।',
+      fr: 'Étonnamment, il ne sent pas le poisson. Ne le met pas en contact avec de l\'eau douce.',
+      it: 'Sorprendentemente, non puzza di pesce. Basta non mostrargli l\'acqua dolce.',
+      pt: 'Surpreendentemente, não cheira a peixe. Só não mostre água doce.',
+      pl: 'Zaskakujšco, nie pachnie jak ryba. Po prostu nie pokazuj jej słodkiej wody.',
+      nl: 'Verrassend genoeg ruikt het niet naar vis. Laat het gewoon niet zoetwater zien.'
     }
   },
 
