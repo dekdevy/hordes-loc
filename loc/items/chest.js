@@ -1,34 +1,38 @@
 export default [
   {
-    name       : {en: 'Potato Sack' },
+    name       : {$$: 'Potato Sack' },
     description: {
-      en: 'Sack stiff with starch making you feel dirty and dishevelled.',
-      ru: 'Мешок жесткий с крахмалом заставляет чувствовать вас грязным и взъерошенным.',
+      en: 'Sack stiff with starch making you feel dirty and disheveled.',
+      ru: 'Грубый накрахмаленный мешок заставляет чувствовать вас грязным и взъерошенным.',
       es: 'Saco rígido con almidón que te hace sentir sucio y despeinado.',
       de: 'Sack steif mit Stärke, so dass Sie sich schmutzig und zerzaust fühlen.',
       fr: 'Sac rigide avec de l\'amidon qui vous donne l\'impression d\'être sale et ébouriffé.',
       pt: 'Saco rígido com amido que te faz sentir sujo e desgrenhado.',
       nl: 'Zak stijf met zetmeel waardoor je je vies en in de war voelt.',
-      hi: 'बनाने आप गंदे और अस्त-व्यस्त लग रहा है स्टार्च के साथ कठोर पद से हटाने।'
+      hi: 'बनाने आप गंदे और अस्त-व्यस्त लग रहा है स्टार्च के साथ कठोर पद से हटाने।',
+      pl: 'Worek sztywny ze skrobią sprawia, że czujesz się brudny i rozczochrany.',
+      it: 'Sacco rigido con amido che ti fa sentire sporco e spettinato.'
     }
   },
 
   {
-    name       : {en: 'Faded Garment' },
+    name       : {$$: 'Faded Garment' },
     description: {
       en: 'Leather shirt, faded from wear and tear.',
-      ru: 'Кожаная рубашка, выцветшая от износа.',
+      ru: 'Кожаная рубашка, выцветшая из-за износа.',
       es: 'Camisa de cuero, desteñida por el desgaste.',
       de: 'Lederhemd, verblasst durch Abnutzung.',
       fr: 'Chemise en cuir, décolorée par l\'usure.',
       pt: 'Camisa de couro, desbotada de desgaste.',
       nl: 'Leren hemd, vervaagd van slijtage.',
-      hi: 'चमड़ा शर्ट, टूट-फूट से फीका।'
+      hi: 'चमड़ा शर्ट, टूट-फूट से फीका।',
+      pl: 'Skórzana koszula, wyblakła od zużycia.',
+      it: 'Camicia in pelle, sbiadita dall\'usura.'
     }
   },
 
   {
-    name       : {en: 'Adventurer\'s Tunic' },
+    name       : {$$: 'Adventurer\'s Tunic' },
     description: {
       en: 'Knobbly soft iron tunic, passed on from many generations of adventurers passing over these lands.',
       ru: 'Изогнутая мягкая железная туника, переданная от многих поколений искателей приключений, проходящих по этим землям.',
@@ -37,12 +41,14 @@ export default [
       fr: 'Tunique en fer doux et noueux, transmise de génération en génération par les aventuriers de passage sur ces terres.',
       pt: 'Uma túnica de ferro macio e manhoso, passada de muitas gerações de aventureiros passando por essas terras.',
       nl: 'Knobbelig zacht ijzeren tuniek, doorgegeven van vele generaties avonturiers die over deze landen trekken.',
-      hi: 'नरम लोहे का अंगरखा, साहसी इन भूमि के ऊपर से गुजर की कई पीढ़ियों से पारित कर दिया।'
+      hi: 'नरम लोहे का अंगरखा, साहसी इन भूमि के ऊपर से गुजर की कई पीढ़ियों से पारित कर दिया।',
+      pl: 'Knobbly soft iron tunika, przekazywana od wielu pokoleń poszukiwaczy przygód przechodzących przez te ziemie.',
+      it: 'Una sapiente tunica in ferro dolce, tramandata da molte generazioni di avventurieri che hanno attraversato queste terre.'
     }
   },
 
   {
-    name       : {en: 'Quilted Leather' },
+    name       : {$$: 'Quilted Leather' },
     description: {
       en: 'This fabric isn\'t much, but it might stop an arrow or two.',
       ru: 'Эта ткань не очень, но она может остановить стрелу или две.',
@@ -51,12 +57,14 @@ export default [
       fr: 'Ce tissu n\'est pas grand-chose, mais il pourrait arrêter une flèche ou deux.',
       pt: 'Este tecido não é muito, mas pode parar uma flecha ou duas.',
       nl: 'Deze stof is niet veel, maar het zou een paar pijlen kunnen stoppen.',
-      hi: 'यह कपड़े बहुत ज्यादा नहीं है, लेकिन यह एक तीर या दो बंद हो सकता है।'
+      hi: 'यह कपड़े बहुत ज्यादा नहीं है, लेकिन यह एक तीर या दो बंद हो सकता है।',
+      pl: 'Ten materiał to niewiele, ale może zatrzymać strzałę lub dwie.',
+      it: 'Questo tessuto non è molto, ma potrebbe fermare una o due frecce.'
     }
   },
 
   {
-    name       : {en: 'Scaled Chestguard' },
+    name       : {$$: 'Scaled Chestguard' },
     description: {
       en: 'Hard suit made from scales taken from a mighty dragon that once roaming these lands.',
       ru: 'Жесткий костюм из чешуи, взятой у могучего дракона, когда-то бродившего по этим землям.',
@@ -65,40 +73,46 @@ export default [
       fr: 'Costume dur fait d\'écailles prises d\'un puissant dragon qui errait autrefois sur ces terres.',
       pt: 'Um fato duro feito de escamas tiradas de um poderoso dragão que percorreu estas terras.',
       nl: 'Hard suit gemaakt van schubben van een machtige draak die ooit in dit land rondzwierf.',
-      hi: 'हार्ड एक शक्तिशाली अजगर है कि एक बार इन भूमि रोमिंग से लिया तराजू से बने सूट।'
+      hi: 'हार्ड एक शक्तिशाली अजगर है कि एक बार इन भूमि रोमिंग से लिया तराजू से बने सूट।',
+      pl: 'Twardy garnitur wykonany ze skal wziętych od potężnego smoka, który kiedyś poruszał się po tych ziemiach.',
+      it: 'Tuta rigida fatta di bilance prese da un potente drago che una volta vagando per queste terre.'
     }
   },
 
   {
-    name       : {en: 'Sky Cloak' },
+    name       : {$$: 'Sky Cloak' },
     description: {
       en: 'Rumours say its made from clouds...',
-      ru: 'Слухи говорят, что они сделаны из облаков...',
+      ru: 'Слухи говорят, что она сделана из облаков...',
       es: 'Los rumores dicen que está hecho de las nubes...',
       de: 'Gerüchte besagen, dass es aus den Wolken gemacht wurde...',
       fr: 'Les rumeurs disent que c\'est fait à partir des nuages...',
       pt: 'Os rumores dizem que é feito de nuvens...',
       nl: 'Geruchten zeggen dat het gemaakt is van wolken... ',
-      hi: 'अफवाहें इसकी बादलों से बना कहते हैं ...'
+      hi: 'अफवाहें इसकी बादलों से बना कहते हैं ...',
+      pl: 'Plotki mówią, że zrobione z chmur....',
+      it: 'Voci dicono che è fatto di nuvole.....'
     }
   },
 
   {
-    name       : {en: 'Shadow Cloak' },
+    name       : {$$: 'Shadow Cloak' },
     description: {
       en: 'The wearer blends in nicely with the shadows... or so the thieves think.',
-      ru: 'Носитель прекрасно сочетается в тени... или так думают воры.',
+      ru: 'Носитель отлично сливаеться с тенью... или так думают воры.',
       es: 'El portador se mezcla bien entre las sombras... o eso piensan los ladrones.',
       de: 'Der Träger fügt sich gut in den Schatten ein.... so denken die Diebe.',
       fr: 'Le porteur se fond bien dans l\'ombre... c\'est du moins ce que pensent les voleurs.',
       pt: 'O utilizador mistura-se bem com as sombras... ou assim pensam os ladrões.',
       nl: 'De drager gaat mooi op in de schaduwen.... zo denken de dieven.',
-      hi: 'पहनने वाला छाया के साथ अच्छी तरह से में मिश्रित ... या तो चोरों लगता है।'
+      hi: 'पहनने वाला छाया के साथ अच्छी तरह से में मिश्रित ... या तो चोरों लगता है।',
+      pl: 'Użytkownik ładnie wtapia się w cienie.... albo tak myślą złodzieje.',
+      it: 'Chi lo indossa si fonde bene con le ombre...... o così pensano i ladri.'
     }
   },
 
   {
-    name       : {en: 'Obsidian Cloak' },
+    name       : {$$: 'Obsidian Cloak' },
     description: {
       en: 'Forged by unknown magicians, you wear a deep, dark and powerful chestplate.',
       ru: 'Выкованный неизвестными магами, вы носите глубокий, темный и мощный нагрудник.',
@@ -107,12 +121,14 @@ export default [
       fr: 'Forgé par des magiciens inconnus, vous portez une plaque de poitrine profonde, sombre et puissante.',
       pt: 'Forjado por mágicos desconhecidos, você usa uma couraça profunda, escura e poderosa.',
       nl: 'Gesmeed door onbekende tovenaars, draag je een diep, donker en krachtig borstplaatje.',
-      hi: 'अज्ञात जादूगर द्वारा जाली, आप एक गहरी अंधेरे और शक्तिशाली chestplate पहनते हैं।'
+      hi: 'अज्ञात जादूगर द्वारा जाली, आप एक गहरी अंधेरे और शक्तिशाली chestplate पहनते हैं।',
+      pl: 'Wykute przez nieznanych magów, nosisz głęboką, ciemną i potężną płytę piersiową.',
+      it: 'Forgiato da maghi sconosciuti, si indossa un profondo, scuro e potente pettorale.'
     }
   },
 
   {
-    name       : {en: 'Hellfire Cloak' },
+    name       : {$$: 'Hellfire Cloak' },
     description: {
       en: 'Forged from the depths of hell, it provides protection for your weak, fleshy body.',
       ru: 'Выкованный из глубин ада, он обеспечивает защиту вашему слабому, мясистому телу.',
@@ -121,12 +137,14 @@ export default [
       fr: 'Forgé des profondeurs de l\'enfer, il protège votre corps faible et charnu.',
       pt: 'Forjado das profundezas do inferno, ele fornece proteção para seu corpo fraco e carnudo.',
       nl: 'Gesmeed uit de diepten van de hel, biedt het bescherming voor je zwakke, vlezige lichaam.',
-      hi: 'नरक की गहराई से जाली, यह आपके कमजोर, मांसल शरीर के लिए सुरक्षा प्रदान करता है।'
+      hi: 'नरक की गहराई से जाली, यह आपके कमजोर, मांसल शरीर के लिए सुरक्षा प्रदान करता है।',
+      pl: 'Wykute z głębi piekła, zapewnia ochronę twojemu słabemu, mięsistemu ciału.',
+      it: 'Forgiato dalle profondità dell\'inferno, fornisce protezione al tuo corpo debole e carnoso.'
     }
   },
 
   {
-    name       : {en: 'Soulkeeper' },
+    name       : {$$: 'Soulkeeper' },
     description: {
       en: 'When enemies are slain, their souls are added to the wielder\'s collection.',
       ru: 'Когда враги убиты, их души добавляются в коллекцию владельца.',
@@ -135,12 +153,14 @@ export default [
       fr: 'Quand des ennemis sont tués, leurs âmes sont ajoutées à la collection du maniaque.',
       pt: 'Quando os inimigos são mortos, suas almas são adicionadas à coleção do portador.',
       nl: 'Wanneer vijanden worden gedood, worden hun zielen toegevoegd aan de collectie van de drager.',
-      hi: 'जब दुश्मन मारे गए हैं, अपनी आत्मा wielder के संग्रह करने के लिए जोड़ रहे हैं।'
+      hi: 'जब दुश्मन मारे गए हैं, अपनी आत्मा wielder के संग्रह करने के लिए जोड़ रहे हैं।',
+      pl: 'Kiedy wrogowie są zabijani, ich dusze są dodawane do kolekcji władcy.',
+      it: 'Quando i nemici vengono uccisi, le loro anime vengono aggiunte alla collezione del detenuto.'
     }
   },
 
   {
-    name       : {en: 'Deathless' },
+    name       : {$$: 'Deathless' },
     description: {
       en: 'Rumours say that the wearer is immortal. Unfortunately this armour can only be found on corpses of the slain.',
       ru: 'Слухи говорят, что владелец бессмертен. К сожалению, эту броню можно найти только на трупах убитых.',
@@ -149,7 +169,9 @@ export default [
       fr: 'Les rumeurs disent que le porteur est immortel. Malheureusement, cette armure ne peut être trouvée que sur les cadavres des victimes.',
       pt: 'Rumores dizem que o portador é imortal. Infelizmente esta armadura só pode ser encontrada nos cadáveres dos mortos.',
       nl: 'Er gaan geruchten dat de drager onsterfelijk is. Helaas is dit harnas alleen te vinden op lijken van de gedode personen.',
-      hi: 'अफवाहें का कहना है कि पहनने वाला अमर है। दुर्भाग्य से इस कवच केवल मारे हुए की लाशों पर पाया जा सकता।'
+      hi: 'अफवाहें का कहना है कि पहनने वाला अमर है। दुर्भाग्य से इस कवच केवल मारे हुए की लाशों पर पाया जा सकता।',
+      pl: 'Plotki mówią, że noszący jest nieśmiertelny. Niestety ta zbroja znajduje się tylko na zwłokach zabitych.',
+      it: 'Si dice che chi lo indossa è immortale. Purtroppo questa armatura si trova solo sui cadaveri degli uccisi.'
     }
   }
 

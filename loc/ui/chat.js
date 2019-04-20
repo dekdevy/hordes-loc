@@ -8,7 +8,11 @@ export default {
     de: 'Alle anzeigen',
     fr: 'Montrer tous/toutes',
     ko: '모두 보이기',
-    nl: 'Toon alle'
+    tr: 'Hepsini Göster',
+    nl: 'Toon alle',
+    pt: 'Mostrar todos',
+    pl: 'Pokaż wszystko',
+    ht: 'Montre tout'
   },
 
   showclan: {
@@ -19,7 +23,11 @@ export default {
     de: 'Show-Clan',
     fr: 'Afficher le clan',
     ko: '클랜 보이기',
-    nl: 'Toon Clan'
+    tr: 'Klanı göster',
+    nl: 'Toon Clan',
+    pt: 'Mostrar Clã',
+    pl: 'Pokaż klan',
+    ht: 'Montre klan'
   },
 
   showsystem: {
@@ -30,46 +38,36 @@ export default {
     de: 'System anzeigen',
     fr: 'Afficher le système',
     ko: '시스템 보이기',
-    nl: 'Toon systeem'
+    tr: 'Sistemi Göster',
+    nl: 'Toon systeem',
+    pt: 'Mostrar sistema',
+    pl: 'System pokazów',
+    ht: 'Montre Sistèm'
   },
 
+  // translations not needed
   loot: {
-    en: 'Loot',
-    ru: 'Добыча',
-    hi: 'लूट',
-    es: 'Botín',
-    de: 'Beute',
-    fr: 'Pillage',
-    ko: '전리품',
-    nl: 'Luit'
+    $$: 'Loot'
   },
 
+  // translations not needed
   exp: {
-    en: 'exp',
-    ru: 'Опыт',
-    hi: 'ऐक्सपी',
-    es: 'exp',
-    bg: 'Годен',
-    ja: '経験値',
-    nl: 'exp'
+    $$: 'exp'
   },
 
+  // translations not needed
   pvp: {
-    en: 'PvP',
-    ru: 'Бой',
-    hi: 'पिविपी',
-    es: 'PvP',
-    nl: 'PvP'
+    $$: 'PvP'
   },
 
   // translations not needed
   twitter: {
-    en: 'TW'
+    $$: 'TW'
   },
 
   // translations not needed
   discord: {
-    en: 'Discord'
+    $$: 'Discord'
   }
 
 }

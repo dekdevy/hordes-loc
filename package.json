@@ -3,9 +3,10 @@
   "description": "Hordes.io string localization",
   "main": "index.js",
   "scripts": {
-    "generate": "rollup --config && node ./dist/build.js",
-    "test": "eslint ./build.js ./loc && npm run generate",
-    "lint": "eslint ./build.js ./loc --fix"
+    "generate": "rollup -f cjs -i build.js -o dist/build.js && node ./dist/build.js",
+    "missing": "rollup -f cjs -i missing.js -o dist/missing.js && node ./dist/missing.js",
+    "test": "eslint ./build.js ./missing.js ./loc ./random && npm run generate && npm run missing",
+    "lint": "eslint ./build.js ./missing.js ./loc ./random --fix"
   },
   "author": "Hordes.io",
   "license": "UNLICENSED",
