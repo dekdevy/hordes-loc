@@ -48,7 +48,7 @@ export default [
     name       : {$$: 'Orcish Bludgeon' },
     description: {
       en: 'Orcs follow the wielder of this meager weapon. It\'s pretty useless, but they seem to like it...',
-      ru: 'Орки следуют за обладателем этого оружия. Oн довольно бесполезно, но им похоже нравится...',
+      ru: 'Орки следуют за обладателем этого оружия. Oно довольно бесполезно, но им похоже нравится...',
       hi: 'राक्षसों के इस अल्प हथियार के wielder का पालन करें। यह बहुत बेकार है, लेकिन वे इसे पसंद करने लगते हैं...',
       es: 'Los Orcos siguen al portador de esta magra arma. Es bastante inútil, pero parece que les gusta...',
       de: 'Orks folgen dem Besitzer dieser mageren Waffe. Es ist ziemlich nutzlos, aber sie scheinen es zu mögen...',
