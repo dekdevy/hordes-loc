@@ -138,7 +138,7 @@ export default [
     name       : {$$: 'Dwarven Maul' },
     description: {
       en: 'Heavy basher used by dwarven warriors. Made of an unknown metal, dark and heavy.',
-      ru: 'Тяжелая дубинка, используемая гномами-воинами. Изготовлена из неизвестного металла, темная и тяжелая.',
+      ru: 'Тяжелая дубинка, используемая дворфами-воинами. Изготовлена из неизвестного металла, темная и тяжелая.',
       hi: 'भारी बौना योद्धाओं द्वारा प्रयोग किया जाता basher। एक अज्ञात धातु, काले और भारी से बना।',
       es: 'Golpeador pesado usado por los guerreros enanos. Hecho de un metal desconocido, oscuro y pesado.',
       de: 'Schwerer Schläger, der von Zwergenkrieger benutzt wird. Hergestellt aus einem unbekannten Metall, dunkel und schwer.',
