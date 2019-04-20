@@ -6,16 +6,19 @@ export default {
 
   invite: {
     en: 'Party invite',
-    ru: ' Пригласить в party'
+    ru: ' Пригласить в party',
+    es: 'invita Party'
   },
 
   kick: {
     en: 'Party kick',
-    ru: 'Выгнать'
+    ru: 'Выгнать',
+    es: 'culatazo Party'
   },
 
   leave: {
-    en: 'Leave party'
+    en: 'Leave party',
+    es: 'salga Party'
   },
 
   onInvite: {
