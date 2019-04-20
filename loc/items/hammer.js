@@ -219,7 +219,7 @@ export default [
       pt: 'Não há nada de bom nesta arma cruel.',
       nl: 'Niets aardigs aan dit wrede wapen.',
       pl: 'Nic miłego w tej okrutnej broni.',
-      it: 'Non c'e' niente di che vedere con quest\'arma crudele.'
+      it: 'Non c\'e\' niente di che vedere con quest\'arma crudele.'
     }
   },
 
