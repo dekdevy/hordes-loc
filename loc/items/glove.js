@@ -10,7 +10,8 @@ export default [
       nl: 'Riemen van leer die uw zwakke handen bedekken. Het is nu veel gemakkelijker voor u om aan de strikkoord te trekken.',
       pl: 'Paski skórzane przykrywające słabe dłonie. Pociągnięcie sznurka jest teraz znacznie łatwiejsze dla Ciebie.',
       it: 'Cinturini di pelle che coprono le tue mani deboli. Tirare la corda di prua è molto più facile per voi ora.',
-      fr: 'Des lanières de cuir recouvrent vos faibles mains. Tirer la corde de l\'arc est beaucoup plus facile pour vous maintenant.'
+      fr: 'Des lanières de cuir recouvrent vos faibles mains. Tirer la corde de l\'arc est beaucoup plus facile pour vous maintenant.',
+      hi: 'चमड़े की पट्टियाँ जो आपके नाज़ुक हाथो को ढकती हैं। अब धनुष चलना आसान होगा।'
     }
   },
 
@@ -25,7 +26,8 @@ export default [
       nl: 'Gesponnen garen van gestolen schapen maakt deze warme handschoenen een genot om te dragen.',
       pl: 'Przędza przędzy z kradzionych owiec sprawia, że te ciepłe rękawice są przyjemne w noszeniu.',
       it: 'Il filato di pecora rubata rende questi guanti caldi un piacere da indossare.',
-      fr: 'Le filé de moutons volés fait de ces gants chauds un plaisir à porter.'
+      fr: 'Le filé de moutons volés fait de ces gants chauds un plaisir à porter.',
+      hi: 'चुरायी गयी बकरियों के ऊन से बनाए गए गरम दस्ताने पहन्ने में अच्छे लगते है।'
     }
   },
 
@@ -40,7 +42,8 @@ export default [
       nl: 'Je vingers kunnen nauwelijks bewegen in deze stijve leren wanten.',
       pl: 'Twoje palce ledwo poruszają się w tych sztywnych skórzanych rękawiczkach.',
       it: 'Le tue dita si muovono a malapena con questi guanti di pelle rigida.',
-      fr: 'Vos doigts peuvent à peine bouger dans ces mitaines en cuir rigide.'
+      fr: 'Vos doigts peuvent à peine bouger dans ces mitaines en cuir rigide.',
+      hi: 'इन कड़े चमड़े के दस्तनो में उँगलिया मुश्किल से हिल पाएगी।'
     }
   },
 
@@ -55,7 +58,8 @@ export default [
       nl: 'Kletterende geluiden reizen met je mee terwijl je deze draagt.',
       pl: 'Clacking dźwięki podróżować z tobą, jak nosisz te.',
       it: 'I suoni deboli viaggiano con te quando li indossi.',
-      fr: 'Les bruits de cliquetis voyagent avec vous lorsque vous les portez.'
+      fr: 'Les bruits de cliquetis voyagent avec vous lorsque vous les portez.',
+      hi: 'इन्हें पहन्ने से ठन ठन आवाज़ आपके साथ चलती है।'
     }
   },
 
@@ -70,7 +74,8 @@ export default [
       nl: 'Zacht-ijzeren handschoenen bieden iets meer bescherming, hoewel uw handen nu koud zijn.',
       pl: 'Miękko-żelazne rękawice zapewniają nieco większą ochronę, chociaż teraz Twoje ręce są zimne.',
       it: 'I guanti in ferro dolce forniscono un po\' più protezione, anche se le mani sono fredde ora.',
-      fr: 'Les gants en fer doux offrent un peu plus de protection, bien que vos mains soient froides maintenant.'
+      fr: 'Les gants en fer doux offrent un peu plus de protection, bien que vos mains soient froides maintenant.',
+      hi: 'मुलायम लोहे के दस्ताने थोड़ी ज़्यादा रक्षा करते है, बस आपके हाथ ठंडे पद जाएँगे।'
     }
   },
 
@@ -85,7 +90,8 @@ export default [
       nl: 'Wanten gemaakt van onbekend materiaal.... het schittert...',
       pl: 'Rękawiczki wykonane z nieznanego materiału.... świeci...',
       it: 'Muffole di materiale sconosciuto.....brilla.....',
-      fr: 'Des mitaines faites d\'un matériau inconnu.... il brille....'
+      fr: 'Des mitaines faites d\'un matériau inconnu.... il brille....',
+      hi: 'अनजाने पदार्थ से बने दस्ताने... चमकदार...'
     }
   },
 
@@ -100,7 +106,8 @@ export default [
       nl: 'Een of andere oorlogsgeneraal moet deze.... waarschijnlijk ook onbedoeld hebben laten vallen.',
       pl: 'Pewien generał wojny musiał je porzucić.... prawdopodobnie też nieumyślnie.',
       it: 'Qualche generale di guerra deve averle lasciate cadere..... probabilmente anche involontariamente.',
-      fr: 'Un général de guerre a dû a fait tomber ces....probablement involontairement aussi.'
+      fr: 'Un général de guerre a dû a fait tomber ces....probablement involontairement aussi.',
+      hi: 'किसी सेनापति ने इन्हें गिरा दिया होगा... ग़लती से।'
     }
   },
 
@@ -115,7 +122,8 @@ export default [
       nl: 'Vuur is geen partij voor je handen als je deze smaragdgroene wanten draagt.',
       pl: 'Ogień nie pasuje do twoich rąk, gdy nosisz te szmaragdowe rękawice.',
       it: 'Il fuoco non è adatto alle tue mani, dato che indossi queste muffole di smeraldo.',
-      fr: 'Le feu ne fait pas le poids face à vos mains quand vous portez ces mitaines d\'émeraude.'
+      fr: 'Le feu ne fait pas le poids face à vos mains quand vous portez ces mitaines d\'émeraude.',
+      hi: 'इन हरे चमकीली दस्तनो को पहनकर आगा भी आपका कुछ नहीं बिगाड़ सकती है।'
     }
   },
 
@@ -130,7 +138,8 @@ export default [
       nl: 'Geeft een vals gevoel van macht.',
       pl: 'Daje fałszywe poczucie władzy.',
       it: 'Dà un falso senso del potere.',
-      fr: 'Ça donne une fausse impression de pouvoir.'
+      fr: 'Ça donne une fausse impression de pouvoir.',
+      hi: 'शक्ति की झूटि भावना देते है ये दस्ताने।'
     }
   },
 
@@ -145,7 +154,8 @@ export default [
       nl: 'Gesmeed zonder warmte, gedragen zonder angst.',
       pl: 'Kute bez ciepła, noszone bez strachu.',
       it: 'Forgiato senza calore, indossato senza paura.',
-      fr: 'Forgé sans chaleur, porté sans crainte.'
+      fr: 'Forgé sans chaleur, porté sans crainte.',
+      hi: 'आग के बिना रचे, डर के बिना धरे।'
     }
   },
 
@@ -160,7 +170,8 @@ export default [
       nl: 'Handschoenen gezocht door krijgers voor tijdperken....eindelijk....het is gevonden.',
       pl: 'Rękawiczki poszukiwane przez wojowników na całe epoki....w końcu...to zostało znalezione.',
       it: 'Guanti ricercati dai guerrieri per epoche.....finalmente....si trova.',
-      fr: 'Gants recherchés par les guerriers depuis siècles....enfin...on les trouve.'
+      fr: 'Gants recherchés par les guerriers depuis siècles....enfin...on les trouve.',
+      hi: 'युगों युगों तक योधाओं ने इन्हें खोजा है...आख़िर कार...मिल ही गए।'
     }
   },
 
@@ -175,7 +186,8 @@ export default [
       nl: 'De geruchten gaan dat een aanraking van deze handschoenen je vijanden in goud verandert....je hand is vreemd zwaar....',
       pl: 'Plotki mówią, że dotyk z tych rękawic zamienia twoich wrogów w złoto....twoja ręka jest dziwnie ciężka...',
       it: 'Si dice che un tocco di questi guanti trasforma i tuoi nemici in oro.....la tua mano è stranamente pesante.....',
-      fr: 'Les rumeurs disent qu\'un contact de ces gants transforme vos ennemis en or...votre main est étrangement lourde....'
+      fr: 'Les rumeurs disent qu\'un contact de ces gants transforme vos ennemis en or...votre main est étrangement lourde....',
+      hi: 'अफ़वाए कहती है, इन दस्तानो के स्पर्श से दुश्मन सोना बन जाते है...आपका हाथ भारी लग रहा है...'
     }
   },
 
@@ -190,7 +202,8 @@ export default [
       nl: 'Handschoenen die zo krachtig van aard zijn, dat de lucht glinstert als je met je hand zwaait.',
       pl: 'Rękawiczki są tak potężne w swojej naturze, że samo powietrze mieni się, gdy machasz ręką.',
       it: 'Guanti così potenti nella loro natura che l\'aria stessa luccica mentre si agita la mano.',
-      fr: 'Des gants si puissants dans leur nature que l\'air même scintille lorsque vous agitez la main.'
+      fr: 'Des gants si puissants dans leur nature que l\'air même scintille lorsque vous agitez la main.',
+      hi: 'इतनी ताक़तवर प्रकृति के दस्ताने, हाथ हिलाने से हवा भी चमकती है।'
     }
   }
 
