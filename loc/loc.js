@@ -18,12 +18,12 @@ import chest from './items/chest.js'
 import gem from './items/gem.js'
 import glove from './items/glove.js'
 import hammer from './items/hammer.js'
+import pendant from './items/pendant.js'
 import quiver from './items/quiver.js'
 import ring from './items/ring.js'
 import shield from './items/shield.js'
 import staff from './items/staff.js'
 import sword from './items/sword.js'
-import talisman from './items/talisman.js'
 const items = {
   armlet,
   bag,
@@ -33,12 +33,12 @@ const items = {
   gem,
   glove,
   hammer,
+  pendant,
   quiver,
   ring,
   shield,
   staff,
-  sword,
-  talisman
+  sword
 }
 
 // Factions
