@@ -5,10 +5,12 @@ export default {
   */
 
   invite: {
-    en: 'Party invite'
+    en: 'Party invite',
+    ru: 'Пригласить'
   },
 
   kick: {
-    en: 'Party kick'
+    en: 'Party kick',
+    ru: 'Выгнать'
   }
 }
