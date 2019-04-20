@@ -131,7 +131,7 @@ export default [
     name       : {$$: 'Emerald Staff' },
     description: {
       en: 'Constructed from emeralds stolen from the mountain dwarves.',
-      ru: 'Создан из изумрудов украденных у горных гномов.',
+      ru: 'Создан из изумрудов украденных у горных дворфов.',
       hi: 'पहाड़ बौने से चोरी पन्ने से निर्माण किया।',
       es: 'Hay una enana en las montañas, se llama Esmeralda. Ella solo hace varitas de esmeralda por algún razón.',
       de: 'Gebaut aus Smaragden, die den Bergweibchen gestohlen wurden.',
