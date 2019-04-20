@@ -11,7 +11,7 @@ export default [
     name       : {$$: 'Bone Plate' },
     description: {
       en: 'The shoulder plate of some creature fares well as a portable eating utensil.',
-      ru: ''
+      de: ''
     }
   },
 
@@ -19,7 +19,7 @@ export default [
     name       : {$$: 'Polished Slab' },
     description: {
       en: 'Heavy necklace, smoothed and polished to blind you during battle',
-      ru: ''
+      de: ''
     }
   },
 
@@ -27,7 +27,7 @@ export default [
     name       : {$$: 'Apple Slice' },
     description: {
       en: 'A putrid morsel from last years harvest.',
-      ru: ''
+      de: ''
     }
   },
 
@@ -35,7 +35,7 @@ export default [
     name       : {$$: 'Skimmer' },
     description: {
       en: 'Thin slice of granite, perfect for bouncing across the ripples of the lake.',
-      ru: ''
+      de: ''
     }
   },
 
@@ -43,7 +43,7 @@ export default [
     name       : {$$: 'Silk Adornment' },
     description: {
       en: 'Shimmering silver fabric said to be stolen from Aphrodite herself.',
-      ru: ''
+      de: ''
     }
   },
 
@@ -51,7 +51,7 @@ export default [
     name       : {$$: 'Frosted Necklace' },
     description: {
       en: 'Cold and blue, the pendant steals your warmth as a payment for its effects...',
-      ru: ''
+      de: ''
     }
   },
 
@@ -59,7 +59,7 @@ export default [
     name       : {$$: 'Ocean Lavalier' },
     description: {
       en: 'Surprisingly, it doesn\'t smell like fish. Just don\'t show it freshwater.',
-      ru: ''
+      de: ''
     }
   },
 
@@ -67,7 +67,7 @@ export default [
     name       : {$$: 'Verstärker' },
     description: {
       en: 'Armies squandered over this trinket yet it seems worthless to you...',
-      ru: ''
+      de: ''
     }
   },
 
@@ -75,7 +75,7 @@ export default [
     name       : {$$: 'Golden Brooch' },
     description: {
       en: 'Humans, dwarves and elves owned this artifact, passing it on to generations of hunter, warriors and great battle leaders.',
-      ru: ''
+      de: ''
     }
   },
 
@@ -83,7 +83,7 @@ export default [
     name       : {$$: 'Myrso' },
     description: {
       en: 'The colour of sunset, it swarms images and projections into your conscience, telling you your next misfortune',
-      ru: ''
+      de: ''
     }
   },
 
@@ -91,7 +91,7 @@ export default [
     name       : {$$: 'Lozlo' },
     description: {
       en: 'Intricate weaves of mithril bound to powerful magic, filling you with a mysterious energy felt by few of those living on this world',
-      ru: ''
+      de: ''
     }
   },
 
@@ -99,7 +99,7 @@ export default [
     name       : {$$: 'Blodhgai' },
     description: {
       en: 'Demonic shadows evade the blades of reality, granting you leave into your foes monstrous dreams.',
-      ru: ''
+      de: ''
     }
   },
 
@@ -107,7 +107,7 @@ export default [
     name       : {$$: 'Delirious' },
     description: {
       en: 'Your foes hallucinatory state of mind brought upon by this trinket permits your cunning blows to strike home',
-      ru: ''
+      de: ''
     }
   },
 
@@ -115,7 +115,7 @@ export default [
     name       : {$$: 'Livid' },
     description: {
       en: 'Deep dark blue talisman, tracing patterns in your soul, reinforcing, rebuilding and renovating for the world of immortality.',
-      ru: ''
+      de: ''
     }
   }
 
