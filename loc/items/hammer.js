@@ -93,7 +93,7 @@ export default [
     name       : {$$: 'Darkmetal Maul' },
     description: {
       en: 'Ancient dwarves forged this mighty structure. Dark and deadly.',
-      ru: 'Древние гномы создали эту могущественную булаву. Темная и смертельная.',
+      ru: 'Древние дворфы создали эту могущественную булаву. Темная и смертельная.',
       hi: 'प्राचीन बौने इस शक्तिशाली संरचना का निर्माण किया। डार्क और घातक।',
       es: 'Los enanos antiguos forjaron esta poderosa estructura. Oscura y mortal.',
       de: 'Alte Zwerge schmiedeten diese mächtige Struktur. Dunkel und tödlich.',
