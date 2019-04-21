@@ -26,7 +26,7 @@ export default {
     en: 'Leave party',
     de: 'Verlassene Partei',
     fr: 'Fête de départ',
-    ht: 'Kite pati'
+    ht: 'Kite pati',
     ru: 'Выйти',
     es: 'Salir del Party'
   },
@@ -35,7 +35,7 @@ export default {
     en: '$1 has invited you to join their party.',
     de: '$1 hat dich eingeladen, an ihrer Party teilzunehmen.',
     fr: '$1 vous invite à vous joindre à leur fête.',
-    ht: '$1 envite ou nan pati yo.'
+    ht: '$1 envite ou nan pati yo.',
     ru: '$1 пригласил вас в party',
     es: '$1 te ha invitado a juntar a su Party.'
   }
