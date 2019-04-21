@@ -11,7 +11,8 @@ export default {
       ht: 'Bonjou vwayajè! Vle vann yon bagay?',
       pl: 'Pozdrowienia dla wędrownych podróżników! Chcesz coś sprzedać??',
       nl: 'Gegroet zwervende reiziger! Wilt u iets verkopen?',
-      pt: 'Saudações, viajante errante! Gostaria de vender alguma coisa?'
+      pt: 'Saudações, viajante errante! Gostaria de vender alguma coisa?',
+      ht: 'Bonjou vwayajè pèdi! Èske ou ta renmen vann yon bagay?'
     },
     choices: {
       en: 'Yes, of course.',
@@ -23,7 +24,8 @@ export default {
       ht: 'Wi nan kou.',
       pl: 'Tak, oczywiście.',
       nl: 'Ja, natuurlijk.',
-      pt: 'Sim, claro que.'
+      pt: 'Sim, claro que.',
+      ht: 'Wi, nan kou.'
     }
   }]
 }
