@@ -209,7 +209,7 @@ export default {
       ru: 'Введите имя',
       fr: 'Entrez un nom',
       hi: 'नाम डाले',
-      es: 'Introduzca un nombre', // TODO: shorten
+      es: 'Ponga nombre', // TODO: shorten
       de: 'Geben Sie einen Namen ein', // TODO: shorten
       ko: '이름 입력',
       tr: 'Bir isim gir',
