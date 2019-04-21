@@ -90,10 +90,10 @@ export default [
       en: 'Cold and blue, the pendant steals your warmth as a payment for its effects...',
       ru: 'Холодный и синий. Крадет твое тепло в качестве оплаты за его эффекты...',
       de: 'Kalt und blau, der Anhänger stiehlt deine Wärme als Bezahlung für seine Wirkung...',
-      nl: 'Koud en blauw, de hanger steelt je warmte als betaling voor de effecten....',
-      es: 'Frío y azul, el colgante roba su calor como pago por sus efectos....',
-      fr: 'Froid et bleu, le pendentif vole votre chaleur en paiement de ses effets....',
-      ht: 'Fwad ak ble, pendant la vòlè chalè ou kòm yon peman pou efè li yo ...'
+      nl: 'Koud en blauw, de hanger steelt je warmte als betaling voor de effecten...',
+      es: 'Frío y azul, el colgante roba su calor como pago por sus efectos...',
+      fr: 'Froid et bleu, le pendentif vole votre chaleur en paiement de ses effets...',
+      ht: 'Fwad ak ble, pendant la vòlè chalè ou kòm yon peman pou efè li yo...'
     }
   },
 
@@ -119,10 +119,10 @@ export default [
       en: 'Armies squandered over this trinket yet it seems worthless to you...',
       ru: 'Многие армии потратились на этот амулет сполна, но тебе кажется, что он безполезен ...',
       de: 'Armeen verschwendet über diesem Schmuckstück, aber es erscheint dir wertlos...',
-      nl: 'Legers verspild over dit snuisterijtuig, maar toch lijkt het je waardeloos....',
-      es: 'Los ejércitos desperdiciaron esta baratija, pero a ti te parece que no vale nada....',
-      fr: 'Des armées ont dilapidé cette babiole et pourtant elle vous semble sans valeur....',
-      ht: 'Lame gaspiye sou biblo sa a ankò li sanble san valè pou ou ...'
+      nl: 'Legers verspild over dit snuisterijtuig, maar toch lijkt het je waardeloos...',
+      es: 'Los ejércitos desperdiciaron esta baratija, pero a ti te parece que no vale nada...',
+      fr: 'Des armées ont dilapidé cette babiole et pourtant elle vous semble sans valeur...',
+      ht: 'Lame gaspiye sou biblo sa a ankò li sanble san valè pou ou...'
     }
   },
 
