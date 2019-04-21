@@ -8,6 +8,7 @@ export default {
     en: 'Party invite',
     ru: 'Пригласить в party',
     it: 'invito Party',
+    pt: 'convidar Party',
     nl: 'uitnodigen Party',
     pl: 'zaproszenie Party',
     de: 'Partyeinladung',
@@ -20,6 +21,7 @@ export default {
     en: 'Party kick',
     ru: 'Выгнать',
     it: 'calcione Party',
+    pt: 'chute Party',
     pl: 'kop Party',
     es: 'Patada',
     de: 'Treten',
@@ -30,6 +32,7 @@ export default {
   leave: {
     en: 'Leave party',
     it: 'andarsene Party',
+    pt: 'sair Party',
     nl: 'verlof Party',
     pl: 'wyjechać Party',
     de: 'Verlassene Party',
