@@ -6,10 +6,9 @@ export default {
 
   invite: {
     en: 'Party invite',
-    ru: ' Пригласить в party',
+    ru: 'Пригласить в party',
     pt: 'convidar Party',
     nl: 'uitnodigen Party',
-    ru: 'Пригласить в party',
     pl: 'zaproszenie Party',
     de: 'Partyeinladung',
     fr: 'Invitation à une party',
