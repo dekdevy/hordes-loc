@@ -56,10 +56,13 @@ export default {
   // members, as in "12 members in party"
   members: {
     en: 'Members',
-    de: 'Mitglieder'
+    de: 'Mitglieder',
+    ru: 'Члены'
   },
 
   link: {
-    en: 'Invitation link'
+    en: 'Invitation link',
+    de: 'Einladungslink',
+    ru: 'Пригласительная ссылка'
   }
 }
