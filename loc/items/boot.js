@@ -12,7 +12,8 @@ export default [
       nl: 'Je draagt tenminste iets op die voeten.',
       tr: 'En azından ayağına bir şeyler giyiyorsun.',
       pl: 'Przynajmniej nosisz coś na tych stopach.',
-      sv: 'Åtminstone bär du något på dessa fötter.'
+      sv: 'Åtminstone bär du något på dessa fötter.',
+      ht: 'Omwen wap mete yon bagay sou pye sa yo.'
     }
   },
 
@@ -29,7 +30,8 @@ export default [
       nl: 'Zolen van doek, zullen waarschijnlijk na een paar uur scheuren.',
       tr: 'Kumaştan yapılmış tabanlar, birkaç saat sonra muhtemelen yırtılacak.',
       pl: 'Podeszwy wykonane z tkaniny, prawdopodobnie rozerwą się po kilku godzinach.',
-      sv: 'Soles gjorda av tyg, kommer troligen att riva efter några timmar.'
+      sv: 'Soles gjorda av tyg, kommer troligen att riva efter några timmar.',
+      ht: 'Plant te fè soti nan twal, pwal pwobableman detache apre kèk èdtan.'
     }
   },
 
@@ -46,7 +48,8 @@ export default [
       nl: 'Het zachte leer zou gestript zijn van wilde zwijnen die door de griezelige bossen zwerven.',
       tr: 'Bu yumuşak derinin, ürkütücü ormanda dolaşan yaban domuzlarından sıyrıldığı söylenir.',
       pl: 'Mówi się, że miękka skóra jest rozebrana z dzika wędrującego po przerażających lasach.',
-      sv: 'Det mjuka läderet sägs vara avskilt från vildsvin som roaming de kusliga skogen.'
+      sv: 'Det mjuka läderet sägs vara avskilt från vildsvin som roaming de kusliga skogen.',
+      ht: 'li te di kwi mou yo dwe wete nan sangliye sovaj vagan bwa yo etranj.'
     }
   },
 
@@ -63,7 +66,8 @@ export default [
       nl: 'Duidelijk niet verbeeldingsvol, de maker maakte laarzen van de botten van een zeer groot wezen....',
       tr: 'Hayal gücünden yoksun olduğu aşikar olan usta, çok büyük bir yaratığın kemiklerinden botlar yaptı...',
       pl: 'Wyraźnie pozbawiony wyobraźni, twórca wykonał buty z kości bardzo dużego stworzenia...',
-      sv: 'Klart saknar fantasi gjorde tillverkaren stövlar från benen i en väldigt stor varelse ...'
+      sv: 'Klart saknar fantasi gjorde tillverkaren stövlar från benen i en väldigt stor varelse ...',
+      ht: 'Klèman manke nan imajinasyon, Maker la te fè bòt soti nan zo yo nan yon bèt gwo anpil ...'
     }
   },
 
@@ -80,7 +84,8 @@ export default [
       nl: 'Mysterieuze weegschalen bedekken de buitenkant van je schoeisel en vangen de blikken in de zon.',
       tr: 'Gizemli pullar, ayakkabınızın dışını örterek güneşte göz kamaştırıyor.',
       pl: 'The mysterious scale covers the outside of the shoe, capturing reflections in the sun.',
-      sv: 'Mystiska vågar täcker utsidan av dina skor, fångar glares i solen.'
+      sv: 'Mystiska vågar täcker utsidan av dina skor, fångar glares i solen.',
+      ht: 'Balans misterye kouvri deyò a nan soulye ou a, pwan fikse nan solèy la.'
     }
   },
 
@@ -97,7 +102,8 @@ export default [
       nl: 'Een aangenaam patroon om je vijanden te verlammen.... of het werkt.',
       tr: 'Düşmanlarınızı felç etmek için yapılan hoş bir desen... işe yarayıp yaramadığını merak konusu.',
       pl: 'Przyjemny wzór stworzony w celu sparaliżowania twoich wrogów... zastanawiam się, czy działa...',
-      sv: 'Ett trevligt mönster för att förlamna dina fiender ... undrar om det fungerar.'
+      sv: 'Ett trevligt mönster för att förlamna dina fiender ... undrar om det fungerar.',
+      ht: 'Yon modèl bèl te fè nan paralize lènmi ou... mande si li fonksyone.'
     }
   },
 
@@ -114,7 +120,8 @@ export default [
       nl: 'Genomen van oorlogsveteranen die duidelijk niet genoeg bescherming vonden tegen deze kanen.',
       tr: 'Dizçekleri yeterince korunaklı bulmayan savaş gazilerinden alınmış.',
       pl: 'Odebrane od weteranów wojennych, którzy najwyraźniej nie znaleźli wystarczającej ochrony przed tymi skwarkami.',
-      sv: 'Hämtad från krigsveteraner som helt klart inte hitta tillräckligt med skydd från dessa greaves.'
+      sv: 'Hämtad från krigsveteraner som helt klart inte hitta tillräckligt med skydd från dessa greaves.',
+      ht: 'Pran nan men veteran lagè ki klèman pa jwenn ase pwoteksyon soti nan greaves sa yo.'
     }
   },
 
@@ -131,7 +138,8 @@ export default [
       nl: 'Mollig in zijn uiterlijk, waarschijnlijk erg ongemakkelijk.',
       tr: 'Görünüşünde tıknaz, muhtemelen çok rahatsız edici.',
       pl: 'W swoim wyglądzie, prawdopodobnie bardzo niewygodny.',
-      sv: 'Chunky i sitt utseende, förmodligen mycket obekväma.'
+      sv: 'Chunky i sitt utseende, förmodligen mycket obekväma.',
+      ht: 'Chunky nan sanble li yo, pwobableman trè alèz.'
     }
   },
 
@@ -148,7 +156,8 @@ export default [
       nl: 'Ren zo snel als de wind.... of dichtbij.',
       tr: 'Rüzgar kadar hızlı koş... veya meltem kadar da olabilir.',
       pl: 'Biegnij tak szybko jak wiatr.... lub blisko niego.',
-      sv: 'Kör så fort som vinden ... eller nära den.'
+      sv: 'Kör så fort som vinden ... eller nära den.',
+      ht: 'Kouri vit tankou van an ... oswa tou pre li.'
     }
   },
 
