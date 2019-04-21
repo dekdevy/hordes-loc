@@ -155,7 +155,7 @@ export default [
     name       : {$$: 'Livid' },
     description: {
       en: 'Deep dark blue talisman, tracing patterns in your soul, reinforcing, rebuilding and renovating for the world of immortality.',
-      ru: 'Насыщенно темно-синий талисман, отслеживает узоры в вашей души. Укрепляет, восстанавливает и обновляет для жизни в бессмертии.',
+      ru: 'Насыщенно темно-синий талисман, сливается с вашей душой, усиливая, восстанавливая и реконструируя её для жизни в мире бессмертия.',
       de: 'Tiefdunkelblauer Talisman, der Muster in der Seele nachzeichnet, verstärkt, wiederaufbaut und renoviert für die Welt der Unsterblichkeit.',
       nl: 'Diep donkerblauwe talisman, patronen in je ziel opsporen, versterken, herbouwen en renoveren voor de wereld van de onsterfelijkheid.'
     }
