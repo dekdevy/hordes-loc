@@ -26,7 +26,8 @@ export default {
     es: 'Patada',
     de: 'Treten',
     fr: 'Coup de pied',
-    ht: 'Choute'
+    ht: 'Choute',
+    nl: 'Paty uitgooien'
   },
 
   leave: {
@@ -48,6 +49,7 @@ export default {
     fr: '$1 vous invite à vous joindre à leur party.',
     ht: '$1 envite ou nan party yo.',
     ru: '$1 пригласил вас в party',
-    es: '$1 te ha invitado a juntar a su Party.'
+    es: '$1 te ha invitado a juntar a su Party.',
+    nl: '$1 heeft je uitgenodigd vergezel hun party.'
   }
 }
