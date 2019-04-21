@@ -13,7 +13,6 @@ export default {
     ht: 'Party envite',
     es: 'Invitar de Party',
     nl: 'Nodigen voor Party'
-
   },
 
   kick: {
