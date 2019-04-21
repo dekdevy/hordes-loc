@@ -57,17 +57,20 @@ export default {
   members: {
     en: 'Members',
     de: 'Mitglieder',
-    ru: 'Члены'
+    ru: 'Члены',
+    nl: 'Leden'
   },
 
   link: {
     en: 'Invitation link',
     de: 'Einladungslink',
-    ru: 'Пригласительная ссылка'
+    ru: 'Пригласительная ссылка',
+    nl: 'Uitnodigingslink'
   },
 
   onLink: {
-    en: 'Send this link to other players! This will allow them to join your party.'
+    en: 'Send this link to other players! This will allow them to join your party.',
+    nl: 'Stuur deze link naar andere spelers! Dit zal hen in staat stellen om zich aan te sluiten bij je feestje.'
   },
 
   copyLink: {
