@@ -17,7 +17,8 @@ export default [
       pl: 'Mała mała torebka używana przez kupców.',
       ph: 'Maliit na maliit na pitaka na ginamit ng mga babaeng mangangalakal.',
       tr: 'Tüccarların eşleri tarafından kullanılan küçük minik çanta.',
-      sv: 'Liten liten handväska som används av köpmännen.'
+      sv: 'Liten liten handväska som används av köpmännen.',
+      ht: 'Valiz ti kras la itilize yo dwe itilize pa madanm yo nan komèsan yo.'
     }
   },
 
@@ -39,7 +40,8 @@ export default [
       pl: 'Klamra jest warta więcej niż reszta.',
       ph: 'Ang buckle ay nagkakahalaga ng higit sa natitirang bahagi nito.',
       tr: 'Tokası geri kalanından daha değerli.',
-      sv: 'Spännet är värt mer än resten av det.'
+      sv: 'Spännet är värt mer än resten av det.',
+      ht: 'Bouk la vo pi plis pase nenpòt lòt bagay.'
     }
   },
 
@@ -61,7 +63,8 @@ export default [
       pl: 'Ładny fioletowy plecak dla wszystkich Twoich potrzeb podróży.',
       ph: 'Nice purple rucksack para sa lahat ng iyong mga pangangailangan sa paglalakbay.',
       tr: 'Tüm seyahat ihtiyaçlarınız için güzel mor sırt çantası.',
-      sv: 'Trevlig lila ryggsäck för alla dina resebehov.'
+      sv: 'Trevlig lila ryggsäck för alla dina resebehov.',
+      ht: 'Valiz valiz bèl pou nenpòt ki vwayajè bezwen yo.'
     }
   },
 
@@ -78,7 +81,8 @@ export default [
       nl: 'Elegante tas die gebruikt wordt door elvenschutters te paard.',
       tr: 'Elf okçular tarafından at sırtında kullanılan şık çanta.',
       pl: 'Elegancka torba używana przez elfów łuczników na koniu.',
-      sv: 'Elegant bag used by river archers on horseback.'
+      sv: 'Elegant bag used by river archers on horseback.',
+      ht: 'Sak Elegant itilize pa kavalye elven sou cheval.'
     }
   },
 
@@ -95,7 +99,8 @@ export default [
       nl: 'Geweven van korstmosdraden, de constructie van deze tas blijft een mysterie.',
       tr: 'Liken ipliklerinden dokunan bu çantanın yapımı gizemini koruyor.',
       pl: 'Tkany z nici porostów, konstrukcja tej torby pozostaje tajemnicą.',
-      sv: 'Vävd av trådar av lavar, är byggandet av denna väska ett mysterium.'
+      sv: 'Vävd av trådar av lavar, är byggandet av denna väska ett mysterium.',
+      ht: 'Desen an sak sa a trikote soti nan fil likèn rete yon mistè.'
     }
   }
 
