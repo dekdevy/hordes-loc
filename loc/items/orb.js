@@ -49,7 +49,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Cyclope's Eye' },
+    name       : {$$: 'Cyclope\'s Eye' },
     description: {
       en: 'The ancient cyclope terrorizing these lands was finally killed, allowing you to scavenge this grim souvenier.'
     }
