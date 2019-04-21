@@ -14,7 +14,7 @@ export default {
     de: 'Partyeinladung',
     fr: 'Invitation à une party',
     ht: 'Party envite',
-    es: 'Invitar de Party',
+    es: 'Invitar de Party'
   },
 
   kick: {
@@ -40,7 +40,7 @@ export default {
     fr: 'Party de départ',
     ht: 'Kite party',
     ru: 'Выйти',
-    es: 'Salir del Party',
+    es: 'Salir del Party'
   },
 
   onInvite: {
