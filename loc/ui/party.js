@@ -9,7 +9,7 @@ export default {
     ru: ' Пригласить в party',
     de: 'Partyeinladung',
     fr: 'Invitation à une fête',
-    ht: 'Pati envite'
+    ht: 'Pati envite',
     es: 'Invitar de Party'
   },
 
