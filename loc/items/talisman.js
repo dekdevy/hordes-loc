@@ -24,7 +24,6 @@ export default [
       de: 'Die Schulterplatte einiger Kreaturen geht gut als tragbares Essgerät.',
       nl: 'Het schouderbord van een of ander schepsel is goed te gebruiken als draagbaar eetgerei.',
       es: 'Una capa de hueso de un monstruo, buena como un plato de comida.',
-      de: 'Die Knochenschicht eines Monsters, gut wie ein Teller mit Essen',
       fr: 'La couche osseuse d\'un monstre, aussi bonne qu\'une assiette de nourriture.',
       ht: 'Se kouch nan zo nan yon mons, byen adapte kòm yon plak pou manje.'
     }
