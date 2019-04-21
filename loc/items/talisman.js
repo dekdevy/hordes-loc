@@ -135,7 +135,7 @@ export default [
     name       : {$$: 'Blodhgai' },
     description: {
       en: 'Demonic shadows evade the blades of reality, granting you leave into your foes monstrous dreams.',
-      ru: 'Демонические тени ускользают от клинков реальности, давая вам возможность оставить в ваших врагах чудовищные мечты.',
+      ru: 'Демонические тени ускользают от клинков реальности, давая вам возможность оставить вашим врагам чудовищные сны.',
       de: 'Dämonische Schatten weichen den Klingen der Realität aus und gewähren dir die Möglichkeit, deinen Feinden monströse Träume zu erfüllen.',
       nl: 'Demonische schaduwen ontwijken de bladen van de werkelijkheid, waardoor je in je vijanden monsterlijke dromen kunt achterlaten.'
     }
