@@ -37,7 +37,6 @@ export default [
       de: 'Schwere Halskette, geglättet und poliert, um dich im Kampf zu blenden.',
       nl: 'Zware ketting, gladgestreken en gepolijst om je te verblinden tijdens de strijd.',
       es: 'Collar pesado, liso y pulido. Te ciega durante una pelea.',
-      de: 'Schwere Halskette, glatt und poliert. Blendet dich während eines Kampfes.',
       fr: 'Collier lourd, lisse et poli. Ça vous aveugle pendant un combat.',
       ht: 'Gwo kolye, lis e poli. Avèg ou pandan yon batay.'
     }
