@@ -5,7 +5,7 @@ export default {
     ru: 'Клан Менеджер',
     fr: 'Gestionnaire du clan', // TODO: shorten
     hi: 'दल प्रबंधक',
-    es: 'Gerente de clan', // TODO: shorten
+    es: 'Clan Gerente', // TODO: shorten
     de: 'Clan-Manager',
     tr: 'Klan Yönetimi',
     bg: 'Мениджър на клана', // TODO: shorten
@@ -27,7 +27,7 @@ export default {
     ru: 'Покинуть Клан',
     fr: 'Quitter le clan',
     hi: 'दल छोड़े',
-    es: 'Abandonar el clan', // TODO: shorten
+    es: 'Salir Clan', // TODO: shorten
     de: 'Clan verlassen',
     tr: 'Klandan Ayrıl',
     bg: 'Напусни Clan',
@@ -115,7 +115,7 @@ export default {
     ru: 'Название клана', // TODO: shorten
     fr: 'Nom du clan',
     hi: 'दल का नाम',
-    es: 'Nombre del clan', // TODO: shorten
+    es: 'Clan nombre', // TODO: shorten
     de: 'Clan-Name',
     tr: 'Klan adı',
     bg: 'Име на клана',
@@ -137,7 +137,7 @@ export default {
     ru: 'Тег клана',
     fr: 'Tag du clan',
     hi: 'दल टैग',
-    es: 'Etiqueta de clan', // TODO: shorten
+    es: 'Clan seña', // TODO: shorten
     de: 'Clan-Tag',
     tr: 'Klan etiketi',
     bg: 'Ден на клана',
