@@ -6,16 +6,16 @@ export default {
     ru: 'Окей',
     de: 'Okay',
     hi: 'ठीक',
-    fr: 'D\'accord',
-    es: 'De acuerdo',
+    fr: 'D\'accord',    // TODO: shorten
+    es: 'De acuerdo',   // TODO: shorten
     tr: 'Tamam',
     nl: 'Okee',
-    pt: 'Está bem.',
-    pl: 'Dobrze.',
+    pt: 'Está bem.',    // TODO: shorten, no puncts
+    pl: 'Dobrze.',      // TODO: shorten
     ht: 'Dakò',
     ko: '오케이'
-
   },
+
   back: {
     en: 'Back',
     sv: 'Bakåt',
@@ -23,12 +23,20 @@ export default {
     hi: 'पिछला',
     fr: 'Retour',
     de: 'Zurück',
-    es: 'Regresar',
+    es: 'Regresar',  // TODO: shorten
     nl: 'Terug',
     tr: 'Geri',
     pt: 'Voltar',
-    pl: 'Popierać',
-    ht: 'Retounen',
-    ko: '뒤로가기'
+    pl: 'Popierać',  // TODO: shorten
+    ht: 'Retounen',  // TODO: shorten
+    ko: '뒤로가기'    // TODO: shorten ?
+  },
+
+  accept: {
+    en: 'Accept'
+  },
+
+  decline: {
+    en: 'Decline'
   }
 }

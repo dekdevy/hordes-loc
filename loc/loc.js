@@ -62,6 +62,7 @@ import chat from './ui/chat.js'
 import clan from './ui/clan.js'
 import general from './ui/general.js'
 import inventory from './ui/inventory.js'
+import party from './ui/party.js'
 import settings from './ui/settings.js'
 const ui = {
   charmenu,
@@ -69,6 +70,7 @@ const ui = {
   clan,
   inventory,
   settings,
+  party,
   ...general }
 
 export default {
