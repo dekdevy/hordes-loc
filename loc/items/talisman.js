@@ -20,7 +20,8 @@ export default [
     description: {
       en: 'The shoulder plate of some creature fares well as a portable eating utensil.',
       ru: 'Костяной пласт какого-то монстра, хорошо подходит как тарелка для еды.',
-      de: 'Die Schulterplatte einiger Kreaturen geht gut als tragbares Essgerät.'
+      de: 'Die Schulterplatte einiger Kreaturen geht gut als tragbares Essgerät.',
+      nl: 'Het schouderbord van een of ander schepsel is goed te gebruiken als draagbaar eetgerei.'
     }
   },
 
@@ -29,7 +30,8 @@ export default [
     description: {
       en: 'Heavy necklace, smoothed and polished to blind you during battle.',
       ru: 'Тяжелое ожерелье, гладкое и отполированное. Слепит тебя во время драки.',
-      de: 'Schwere Halskette, geglättet und poliert, um dich im Kampf zu blenden.'
+      de: 'Schwere Halskette, geglättet und poliert, um dich im Kampf zu blenden.',
+      nl: 'Zware ketting, gladgestreken en gepolijst om je te verblinden tijdens de strijd.'
     }
   },
 
@@ -38,7 +40,8 @@ export default [
     description: {
       en: 'A putrid morsel from last years harvest.',
       ru: 'Гнилой кусок с прошлогоднего урожая.',
-      de: 'Ein fauliges Stückchen aus der Ernte des letzten Jahres.'
+      de: 'Ein fauliges Stückchen aus der Ernte des letzten Jahres.',
+      nl: 'Een rotte hap van de oogst van vorig jaar.'
     }
   },
 
@@ -47,7 +50,8 @@ export default [
     description: {
       en: 'Thin slice of granite, perfect for bouncing across the ripples of the lake.',
       ru: 'Тонкий кусок гранита, идеально подходящий для "блинчиков", отпрыгивающих от поверхности воды.',
-      de: 'Dünne Granitscheibe, perfekt zum Springen über die Wellen des Sees.'
+      de: 'Dünne Granitscheibe, perfekt zum Springen über die Wellen des Sees.',
+      nl: 'Dunne plak graniet, perfect om over de rimpelingen van het meer te stuiteren.'
     }
   },
 
@@ -56,7 +60,8 @@ export default [
     description: {
       en: 'Shimmering silver fabric said to be stolen from Aphrodite herself.',
       ru: 'Сияющая серебряная ткань, как говорят, была украдена у самой Афродиты.',
-      de: 'Schimmernder silberner Stoff soll von Aphrodite selbst gestohlen worden sein.'
+      de: 'Schimmernder silberner Stoff soll von Aphrodite selbst gestohlen worden sein.',
+      nl: 'Glinsterende zilveren stof die gestolen zou zijn van Aphrodite zelf.'
     }
   },
 
@@ -65,7 +70,8 @@ export default [
     description: {
       en: 'Cold and blue, the pendant steals your warmth as a payment for its effects...',
       ru: 'Холодный и синий. Крадет твое тепло в качестве оплаты за его эффекты...',
-      de: 'Kalt und blau, der Anhänger stiehlt deine Wärme als Bezahlung für seine Wirkung...'
+      de: 'Kalt und blau, der Anhänger stiehlt deine Wärme als Bezahlung für seine Wirkung...',
+      nl: 'Koud en blauw, de hanger steelt je warmte als betaling voor de effecten....'
     }
   },
 
@@ -90,7 +96,8 @@ export default [
     description: {
       en: 'Armies squandered over this trinket yet it seems worthless to you...',
       ru: 'Многие армии потратились на этот амулет сполна, но тебе кажется, что он безполезен ...',
-      de: 'Armeen verschwendet über diesem Schmuckstück, aber es erscheint dir wertlos...'
+      de: 'Armeen verschwendet über diesem Schmuckstück, aber es erscheint dir wertlos...',
+      nl: 'Legers verspild over dit snuisterijtuig, maar toch lijkt het je waardeloos....'
     }
   },
 
@@ -99,7 +106,8 @@ export default [
     description: {
       en: 'Humans, dwarves and elves owned this artifact, passing it on to generations of hunter, warriors and great battle leaders.',
       ru: 'Люди, дворфы и эльфы владели этим артефактом, передавая его поколениями охотников, воинов и великих полководцев.',
-      de: 'Menschen, Zwerge und Elfen besaßen dieses Artefakt und gaben es an Generationen von Jägern, Kriegern und großen Kriegsführern weiter.'
+      de: 'Menschen, Zwerge und Elfen besaßen dieses Artefakt und gaben es an Generationen von Jägern, Kriegern und großen Kriegsführern weiter.',
+      nl: 'Mensen, dwergen en elfen bezaten dit artefact en gaven het door aan generaties jagers, krijgers en grote veldslagleiders.'
     }
   },
 
@@ -108,16 +116,18 @@ export default [
     description: {
       en: 'The colour of sunset, it swarms images and projections into your conscience, telling you your next misfortune.',
       ru: 'Цвет заката, Создает поток изображений и проекций в ваше сознание, предостерегающие вас от гредущих несчастий.',
-      de: 'Die Farbe des Sonnenuntergangs, sie schwingt Bilder und Projektionen in dein Gewissen und erzählt dir dein nächstes Unglück.'
+      de: 'Die Farbe des Sonnenuntergangs, sie schwingt Bilder und Projektionen in dein Gewissen und erzählt dir dein nächstes Unglück.',
+      nl: 'De kleur van de zonsondergang, het zwermen beelden en projecties in je geweten vertellen je je volgende ongeluk.'
     }
   },
 
   {
     name       : {$$: 'Lozlo' },
     description: {
-      en: 'Intricate weaves of mithril bound to powerful magic, filling you with a mysterious energy felt by few of those living on this world',
+      en: 'Intricate weaves of mithril bound to powerful magic, filling you with a mysterious energy felt by few of those living on this world.',
       ru: 'Замысловатые переплетения мифрила связаные с мощной магией, наполняет вас таинственной энергией, которую довелось ощущать немногим живущим в этом мире.',
-      de: 'Komplizierte Geflechte von Mithril, die an mächtige Magie gebunden sind und dich mit einer mysteriösen Energie erfüllen, die nur wenige von denen auf dieser Welt spüren.'
+      de: 'Komplizierte Geflechte von Mithril, die an mächtige Magie gebunden sind und dich mit einer mysteriösen Energie erfüllen, die nur wenige von denen auf dieser Welt spüren.',
+      nl: 'Ingewikkelde weven van mithril gebonden aan krachtige magie, die je vullen met een mysterieuze energie die slechts door weinigen op deze wereld wordt gevoeld.'
     }
   },
 
@@ -126,7 +136,8 @@ export default [
     description: {
       en: 'Demonic shadows evade the blades of reality, granting you leave into your foes monstrous dreams.',
       ru: 'Демонические тени ускользают от клинков реальности, давая вам возможность оставить в ваших врагах чудовищные мечты.',
-      de: 'Dämonische Schatten weichen den Klingen der Realität aus und gewähren dir die Möglichkeit, deinen Feinden monströse Träume zu erfüllen.'
+      de: 'Dämonische Schatten weichen den Klingen der Realität aus und gewähren dir die Möglichkeit, deinen Feinden monströse Träume zu erfüllen.',
+      nl: 'Demonische schaduwen ontwijken de bladen van de werkelijkheid, waardoor je in je vijanden monsterlijke dromen kunt achterlaten.'
     }
   },
 
@@ -135,7 +146,8 @@ export default [
     description: {
       en: 'Your foes hallucinatory state of mind brought upon by this trinket permits your cunning blows to strike home.',
       ru: 'Этот брелок вызывает галлюцинации у вашего врага, позволяет вам наносить подлые удары по сопернику...',
-      de: 'Der halluzinatorische Geisteszustand deiner Feinde, der durch dieses Schmuckstück hervorgerufen wird, erlaubt es deinen schlauen Schlägen, nach Hause zu gehen.'
+      de: 'Der halluzinatorische Geisteszustand deiner Feinde, der durch dieses Schmuckstück hervorgerufen wird, erlaubt es deinen schlauen Schlägen, nach Hause zu gehen.',
+      nl: 'Uw vijanden hallucinerende gemoedstoestand, veroorzaakt door dit snuisterijtuig, maakt het mogelijk dat uw sluwe klappen naar huis komen.'
     }
   },
 
@@ -144,7 +156,8 @@ export default [
     description: {
       en: 'Deep dark blue talisman, tracing patterns in your soul, reinforcing, rebuilding and renovating for the world of immortality.',
       ru: 'Насыщенно темно-синий талисман, отслеживает узоры в вашей души. Укрепляет, восстанавливает и обновляет для жизни в бессмертии.',
-      de: 'Tiefdunkelblauer Talisman, der Muster in der Seele nachzeichnet, verstärkt, wiederaufbaut und renoviert für die Welt der Unsterblichkeit.'
+      de: 'Tiefdunkelblauer Talisman, der Muster in der Seele nachzeichnet, verstärkt, wiederaufbaut und renoviert für die Welt der Unsterblichkeit.',
+      nl: 'Diep donkerblauwe talisman, patronen in je ziel opsporen, versterken, herbouwen en renoveren voor de wereld van de onsterfelijkheid.'
     }
   }
 
