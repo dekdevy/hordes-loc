@@ -145,7 +145,7 @@ export default [
     name       : {$$: 'Delirious' },
     description: {
       en: 'Your foes hallucinatory state of mind brought upon by this trinket permits your cunning blows to strike home.',
-      ru: 'Этот брелок вызывает галлюцинации у вашего врага, позволяет вам наносить подлые удары по сопернику...',
+      ru: 'Этот брелок вызывает галлюцинации у вашего врага, позволяя вам наносить подлые удары по сопернику...',
       de: 'Der halluzinatorische Geisteszustand deiner Feinde, der durch dieses Schmuckstück hervorgerufen wird, erlaubt es deinen schlauen Schlägen, nach Hause zu gehen.',
       nl: 'Uw vijanden hallucinerende gemoedstoestand, veroorzaakt door dit snuisterijtuig, maakt het mogelijk dat uw sluwe klappen naar huis komen.'
     }
