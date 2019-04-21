@@ -6,6 +6,7 @@ export default {
 
   invite: {
     en: 'Party invite',
+    nl: 'uitnodigen Party',
     ru: 'Пригласить в party',
     pl: 'zaproszenie Party',
     de: 'Partyeinladung',
@@ -26,6 +27,7 @@ export default {
 
   leave: {
     en: 'Leave party',
+    nl: 'verlof Party',
     pl: 'wyjechać Party',
     de: 'Verlassene Party',
     fr: 'Party de départ',
