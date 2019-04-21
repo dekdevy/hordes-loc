@@ -89,6 +89,7 @@ export default [
     name       : {$$: 'Verstärker' },
     description: {
       en: 'Armies squandered over this trinket yet it seems worthless to you...',
+      ru: 'Многие армии потратились на этот амулет сполна, но тебе кажется, что он безполезен ...',
       de: 'Armeen verschwendet über diesem Schmuckstück, aber es erscheint dir wertlos...'
     }
   },
@@ -97,6 +98,7 @@ export default [
     name       : {$$: 'Golden Brooch' },
     description: {
       en: 'Humans, dwarves and elves owned this artifact, passing it on to generations of hunter, warriors and great battle leaders.',
+      ru: 'Люди, дворфы и эльфы владели этим артефактом, передавая его поколениями охотников, воинов и великих полководцев.',
       de: 'Menschen, Zwerge und Elfen besaßen dieses Artefakt und gaben es an Generationen von Jägern, Kriegern und großen Kriegsführern weiter.'
     }
   },
@@ -105,6 +107,7 @@ export default [
     name       : {$$: 'Myrso' },
     description: {
       en: 'The colour of sunset, it swarms images and projections into your conscience, telling you your next misfortune.',
+      ru: 'Цвет заката, Создает поток изображений и проекций в ваше сознание, предостерегающие вас от гредущих несчастий.',
       de: 'Die Farbe des Sonnenuntergangs, sie schwingt Bilder und Projektionen in dein Gewissen und erzählt dir dein nächstes Unglück.'
     }
   },
@@ -113,6 +116,7 @@ export default [
     name       : {$$: 'Lozlo' },
     description: {
       en: 'Intricate weaves of mithril bound to powerful magic, filling you with a mysterious energy felt by few of those living on this world',
+      ru: 'Замысловатые переплетения мифрила связаные с мощной магией, наполняет вас таинственной энергией, которую довелось ощущать немногим живущим в этом мире.',
       de: 'Komplizierte Geflechte von Mithril, die an mächtige Magie gebunden sind und dich mit einer mysteriösen Energie erfüllen, die nur wenige von denen auf dieser Welt spüren.'
     }
   },
@@ -121,6 +125,7 @@ export default [
     name       : {$$: 'Blodhgai' },
     description: {
       en: 'Demonic shadows evade the blades of reality, granting you leave into your foes monstrous dreams.',
+      ru: 'Демонические тени ускользают от клинков реальности, давая вам возможность оставить в ваших врагах чудовищные мечты.',
       de: 'Dämonische Schatten weichen den Klingen der Realität aus und gewähren dir die Möglichkeit, deinen Feinden monströse Träume zu erfüllen.'
     }
   },
@@ -129,6 +134,7 @@ export default [
     name       : {$$: 'Delirious' },
     description: {
       en: 'Your foes hallucinatory state of mind brought upon by this trinket permits your cunning blows to strike home.',
+      ru: 'Этот брелок вызывает галлюцинации у вашего врага, позволяет вам наносить подлые удары по сопернику...',
       de: 'Der halluzinatorische Geisteszustand deiner Feinde, der durch dieses Schmuckstück hervorgerufen wird, erlaubt es deinen schlauen Schlägen, nach Hause zu gehen.'
     }
   },
@@ -137,6 +143,7 @@ export default [
     name       : {$$: 'Livid' },
     description: {
       en: 'Deep dark blue talisman, tracing patterns in your soul, reinforcing, rebuilding and renovating for the world of immortality.',
+      ru: 'Насыщенно темно-синий талисман, отслеживает узоры в вашей души. Укрепляет, восстанавливает и обновляет для жизни в бессмертии.',
       de: 'Tiefdunkelblauer Talisman, der Muster in der Seele nachzeichnet, verstärkt, wiederaufbaut und renoviert für die Welt der Unsterblichkeit.'
     }
   }
