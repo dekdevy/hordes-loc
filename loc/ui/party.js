@@ -70,7 +70,7 @@ export default {
 
   onLink: {
     en: 'Send this link to other players! This will allow them to join your party.',
-    nl: 'Stuur deze link naar andere spelers! Dit zal hen in staat stellen om zich aan te sluiten bij je feestje.'
+    nl: 'Stuur deze link naar andere spelers! Dit zal hen in staat stellen om zich aan te sluiten bij je party.'
   },
 
   copyLink: {
