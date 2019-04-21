@@ -64,5 +64,17 @@ export default {
     en: 'Invitation link',
     de: 'Einladungslink',
     ru: 'Пригласительная ссылка'
+  },
+
+  onLink: {
+    en: 'Send this link to other players! This will allow them to join your party.'
+  },
+
+  copyLink: {
+    /*
+      PLEASE dont translate this literally, its very linkely each language
+      has their own version of expressing this. Google it if you are unsure :)
+    */
+    en: 'Copy to Clipboard'
   }
 }
