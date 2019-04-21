@@ -3,7 +3,7 @@ export default [
     name       : {$$: 'Soil Clump' },
     description: {
       en: 'Moist ball of earth, leaving behind tiny critters in your hand.',
-      ru: 'Влажный шар земли, оставляющий в твоей руке крошечных тварей.',
+      ru: 'Влажный комок земли, оставляющий в твоей руке крошечных тварей.',
       de: 'Feuchter Erdball, der winzige Lebewesen in der Hand hinterlässt.',
       fr: 'Boule de terre humide, laissant de minuscules créatures dans votre main.',
       nl: 'Vochtige bal van de aarde, met achterlating van kleine beestjes in je hand.',
