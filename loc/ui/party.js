@@ -51,5 +51,15 @@ export default {
     ru: '$1 пригласил вас в party',
     es: '$1 te ha invitado a juntar a su Party.',
     nl: '$1 heeft je uitgenodigd vergezel hun party.'
+  },
+
+  // members, as in "12 members in party"
+  members: {
+    en: 'Members',
+    de: 'Mitglieder'
+  },
+
+  link: {
+    en: 'Invitation link'
   }
 }
