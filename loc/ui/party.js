@@ -57,5 +57,9 @@ export default {
   members: {
     en: 'Members',
     de: 'Mitglieder'
+  },
+
+  link: {
+    en: 'Invitation link'
   }
 }
