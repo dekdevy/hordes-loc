@@ -14,7 +14,7 @@ export default {
     de: 'Partyeinladung',
     fr: 'Invitation à une party',
     ht: 'Party envite',
-    es: 'Invitar de Party'
+    es: 'Party Invita'
   },
 
   kick: {
@@ -23,7 +23,7 @@ export default {
     it: 'calcione Party',
     pt: 'chute Party',
     pl: 'kop Party',
-    es: 'Patada',
+    es: 'Sacar del Party',
     de: 'Treten',
     fr: 'Coup de pied',
     ht: 'Choute',
@@ -58,19 +58,22 @@ export default {
     en: 'Members',
     de: 'Mitglieder',
     ru: 'Члены',
-    nl: 'Leden'
+    nl: 'Leden',
+    es: 'Miembros'
   },
 
   link: {
     en: 'Invitation link',
     de: 'Einladungslink',
     ru: 'Пригласительная ссылка',
-    nl: 'Uitnodigingslink'
+    nl: 'Uitnodigingslink',
+    es: 'Invitación enlace'
   },
 
   onLink: {
     en: 'Send this link to other players! This will allow them to join your party.',
-    nl: 'Stuur deze link naar andere spelers! Dit zal hen in staat stellen om zich aan te sluiten bij je party.'
+    nl: 'Stuur deze link naar andere spelers! Dit zal hen in staat stellen om zich aan te sluiten bij je party.',
+    es: '¡Envíta este enlace a otros jugadores! Esto los permitirá a juntar en to party.'
   },
 
   copyLink: {
@@ -78,6 +81,7 @@ export default {
       PLEASE dont translate this literally, its very linkely each language
       has their own version of expressing this. Google it if you are unsure :)
     */
-    en: 'Copy to Clipboard'
+    en: 'Copy to Clipboard',
+    es: 'Copia a su Portapapele'
   }
 }
