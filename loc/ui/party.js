@@ -99,6 +99,6 @@ export default {
     en: 'Copy to Clipboard',
     ru: 'Копировать в буфер',
     es: 'Copia a su Portapapele',
-    de: 'Kopieren'
+    de: 'Kopieren Sie in den Puffer'
   }
 }
