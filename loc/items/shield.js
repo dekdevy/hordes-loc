@@ -11,7 +11,8 @@ export default [
       it: 'Letteralmente una tavola quadrata di legno.',
       pt: 'Literalmente uma tábua quadrada de madeira.',
       nl: 'Letterlijk een vierkante plank van hout.',
-      pl: 'Dosłownie kwadratowa deska z drewna.'
+      pl: 'Dosłownie kwadratowa deska z drewna.',
+      ht: 'Literalman yon gwo bout bwa kare nan bwa.'
     }
   },
 
@@ -27,7 +28,8 @@ export default [
       pt: 'Anel de ferro fundido cheio de bronze. Frágil na sua confecção.',
       hi: 'लोहा पिघलकर पीतल से भरी हुई। ठीक से नहीं बनी है।',
       nl: 'Gesmolten ijzeren ring gevuld met brons. Mager in zijn samenstelling.',
-      pl: 'Wytopiony żelazny pierścień wypełniony brązem. Cienki w wykonaniu.'
+      pl: 'Wytopiony żelazny pierścień wypełniony brązem. Cienki w wykonaniu.',
+      ht: 'Boule bag fè plen ak kwiv. Kannfeuy nan fè li yo.'
     }
   },
 
@@ -43,7 +45,8 @@ export default [
       it: 'Qualche contadino è riuscito a costruire un piccolo scudo carino.',
       pt: 'Algum agricultor conseguiu construir um pequeno e bonito escudo.',
       nl: 'Sommige boeren zijn erin geslaagd om een schattig schildje te bouwen.',
-      pl: 'Jednemu z rolników udało się zbudować ładną małą tarczę.'
+      pl: 'Jednemu z rolników udało się zbudować ładną małą tarczę.',
+      ht: 'Gen kèk kiltivatè jere yo konstwi yon bèl plak pwotèj ti kras.'
     }
   },
 
@@ -59,7 +62,8 @@ export default [
       it: 'Intricato scudo composto da tre pezzi di metallo massiccio. Robusto.',
       pt: 'Escudo intrincado feito de três peças metálicas sólidas. Resistente.',
       nl: 'Geïntegreerd schild gemaakt van drie massieve metalen delen. Stevig.',
-      pl: 'Intrygująca osłona wykonana z trzech litych metalowych kawałków. Wytrzymała.'
+      pl: 'Intrygująca osłona wykonana z trzech litych metalowych kawałków. Wytrzymała.',
+      ht: 'Pwoteksyon konplike te fè soti nan twa moso metal solid. Solid.'
     }
   },
 
@@ -75,7 +79,8 @@ export default [
       it: 'Questo è fatto di ossidiana e acciaio. Qualcuno ha tentato disordinatamente di dipingerlo di giallo. Hanno fallito. Miseramente.',
       pt: 'Feito de obsidiana e aço. Alguém descuidadamente tentou pintá-lo de amarelo. Eles falharam. Miseravelmente.',
       nl: 'Gemaakt van obsidiaan en staal. Iemand heeft slordig geprobeerd het geel te schilderen. Ze hebben gefaald. Ellendig.',
-      pl: 'Zrobione z obsydianu i stali. Ktoś niechlujnie próbował namalować go na żółto. Nie udało im się. Nędznie.'
+      pl: 'Zrobione z obsydianu i stali. Ktoś niechlujnie próbował namalować go na żółto. Nie udało im się. Nędznie.',
+      ht: 'Te fè soti nan obsidya ak asye. Yon moun t ap eseye penti li jòn. Yo echwe. Miserableman.'
     }
   }
 

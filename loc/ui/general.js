@@ -33,14 +33,50 @@ export default {
   },
 
   accept: {
-    en: 'Accept'
+    en: 'Accept',
+    sv: 'Acceptera',
+    ru: 'принять',
+    hi: 'स्वीकार करना',
+    fr: 'Acceptez',
+    de: 'Akzeptieren',
+    es: 'Aceptar',
+    nl: 'Aanvaarden',
+    tr: 'Kabul etmek',
+    pt: 'Aceitar',
+    pl: 'Zaakceptować',
+    ht: 'Aksepte',
+    ko: '동의'
   },
 
   decline: {
-    en: 'Decline'
+    en: 'Decline',
+    sv: 'Nedgång',
+    ru: 'отказать',
+    hi: 'पतन',
+    fr: 'Déclin',
+    de: 'Ablehnen',
+    es: 'Disminución',
+    nl: 'Afwijzen',
+    tr: 'Düşüş',
+    pt: 'Declínio',
+    pl: 'Upadek',
+    ht: 'Refize',
+    ko: '쇠퇴'
   },
 
   close: {
-    en: 'Close'
+    en: 'Close',
+    sv: 'Stänga',
+    ru: 'закрит',
+    hi: 'बंद करे',
+    fr: 'Fermer',
+    de: 'Schließen',
+    es: 'Cerrar',
+    nl: 'Dichtbij',
+    tr: 'Kapat',
+    pt: 'Perto',
+    pl: 'Blisko',
+    ht: 'Close',
+    ko: '닫기'
   }
 }
