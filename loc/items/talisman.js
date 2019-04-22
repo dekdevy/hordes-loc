@@ -113,7 +113,7 @@ export default [
       it: 'Sorprendentemente, non puzza di pesce. Basta non mostrargli l\'acqua dolce.',
       pt: 'Surpreendentemente, não cheira a peixe. Só não mostre água doce.',
       pl: 'Zaskakujšco, nie pachnie jak ryba. Po prostu nie pokazuj jej słodkiej wody.',
-      nl: 'Verrassend genoeg ruikt het niet naar vis. Laat het gewoon niet zoetwater zien.',
+      nl: 'Verrassend genoeg ruikt het niet naar vis. Laat het gewoon niet zoetwater zien.'
     }
   },
 
