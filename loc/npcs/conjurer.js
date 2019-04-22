@@ -12,7 +12,8 @@ export default {
       ht: 'O, mwen wè ou vwayajè. Ou gade fatige ak grangou. Nou asistan tou Roaming sa yo bèl tè. Ou vle m \'mennen ou nan yon sèl?',
       pl: 'Ach, widzę, że jesteś podróżnikiem. Zmęczony i głodny wyglądasz. My, czarnoksiężnicy, również przemierzamy te piękne ziemie. Chcesz, żebym zabrał cię do jednego?',
       nl: 'Ah, ik zie je reiziger. Moe en uitgehongerd zie je eruit. Wij goochelaars, te, zwerven door dit mooie land. Zou je willen dat ik je naar een van die breng?',
-      pt: 'Ah, vejo-te viajante. Cansado e faminto você olha. Nós, mágico, também andamos por essas terras nobres. Queres que te leve a uma?'
+      pt: 'Ah, vejo-te viajante. Cansado e faminto você olha. Nós, mágico, também andamos por essas terras nobres. Queres que te leve a uma?',
+      sv: 'Ah, jag ser dig resande.  Weary och famished du ser.  Vi medför också förföljare i dessa fina länder.  Vill du att jag ska ta dig till en?'
     },
     choices: [{
       en: 'Please bring me to $1.',
