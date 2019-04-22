@@ -43,6 +43,10 @@ export default {
     es: 'Salir del Party'
   },
 
+  create: {
+    en: 'Create party'
+  },
+
   onInvite: {
     en: '$1 has invited you to join their party.',
     de: '$1 hat dich eingeladen, an ihrer Party teilzunehmen.',
