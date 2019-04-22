@@ -42,7 +42,9 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'surreal', 'arctic', 'poignant', 'stalking', 'empowering', 'coldforged', 'tattered', 'predestined', 'enigmatic', 'wrathful',
   'hyperdimensional', 'corrosive', 'bootleg', 'concilatory', 'benificial', 'atrocious', 'laughable', 'luscious', 'faceted',
   'mercurial', 'mellifluous', 'pernicious', 'phenomenal', 'soulful', 'soulless', 'deathless', 'damaged', 'imperishable',
-  'relentless', 'callous', 'remorseless', 'shrinking', 'expanding', 'scruffy', 'suptuous', 'gorgeous']
+  'relentless', 'callous', 'remorseless', 'shrinking', 'expanding', 'scruffy', 'suptuous', 'gorgeous', 'opulent', 'flourishing',
+  'exaggerated', 'evasive', 'shifty', 'appealing', 'cheap', 'expensive', 'benevolent', 'liberal', 'virtuous', 'frustrating',
+  'ruling', 'controlling', 'supreme', 'inferior', 'superior', 'flammable', 'practical', 'frenzied']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
