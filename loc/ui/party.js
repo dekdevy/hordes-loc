@@ -14,7 +14,8 @@ export default {
     de: 'Partyeinladung',
     fr: 'Invitation à une party',
     ht: 'Party envite',
-    es: 'Party Invita'
+    es: 'Party Invita',
+    tr: 'Partye davet et'
   },
 
   kick: {
@@ -27,7 +28,8 @@ export default {
     de: 'Treten',
     fr: 'Coup de pied',
     ht: 'Choute',
-    nl: 'Paty uitgooien'
+    nl: 'Paty uitgooien',
+    tr: 'Partyden at'
   },
 
   leave: {
@@ -40,7 +42,8 @@ export default {
     fr: 'Party de départ',
     ht: 'Kite party',
     ru: 'Выйти',
-    es: 'Salir del Party'
+    es: 'Salir del Party',
+    tr: 'Partyden ayrıl'
   },
 
   create: {
@@ -53,7 +56,8 @@ export default {
     de: 'Partner anlegen',
     fr: 'Créer une party',
     ht: 'Kreye party',
-    es: 'Crear party'
+    es: 'Crear party',
+    tr: 'Party oluştur'
   },
 
   onInvite: {
@@ -63,7 +67,8 @@ export default {
     ht: '$1 envite ou nan party yo.',
     ru: '$1 пригласил вас в party',
     es: '$1 te ha invitado a juntar a su Party.',
-    nl: '$1 heeft je uitgenodigd vergezel hun party.'
+    nl: '$1 heeft je uitgenodigd vergezel hun party.',
+    tr: '$1 seni partysine davet etti.'
   },
 
   // members, as in "12 members in party"
@@ -77,7 +82,8 @@ export default {
     fr: 'Membres',
     ru: 'Члены',
     nl: 'Leden',
-    es: 'Miembros'
+    es: 'Miembros',
+    tr: 'Üye'
   },
 
   link: {
@@ -88,7 +94,8 @@ export default {
     de: 'Einladungslink',
     ru: 'Пригласительная ссылка',
     nl: 'Uitnodigingslink',
-    es: 'Invitación enlace'
+    es: 'Invitación enlace',
+    tr: 'Davet linki'
   },
 
   onLink: {
@@ -101,7 +108,8 @@ export default {
     it: 'Invia questo link ad altri giocatori! Questo permetterà loro di unirsi alla tua festa.',
     de: 'Sende diesen Link an andere Spieler! Dies wird es ihnen ermöglichen, sich deiner Gruppe anzuschließen.',
     nl: 'Stuur deze link naar andere spelers! Dit zal hen in staat stellen om zich aan te sluiten bij je party.',
-    es: '¡Envíta este enlace a otros jugadores! Esto los permitirá a juntar en to party.'
+    es: '¡Envíta este enlace a otros jugadores! Esto los permitirá a juntar en to party.',
+    tr: 'Bu bağlantıyı diğer oyunculara gönder! Bu onların partyne katılmasını sağlayacak.'
   },
 
   copyLink: {
@@ -112,6 +120,7 @@ export default {
     en: 'Copy to Clipboard',
     ru: 'Копировать в буфер',
     es: 'Copia a su Portapapele',
-    de: 'Kopieren Sie in den Puffer'
+    de: 'Kopieren Sie in den Puffer',
+    tr: 'Bağlantıyı kopyala'
   }
 }
