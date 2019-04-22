@@ -44,7 +44,8 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'mercurial', 'mellifluous', 'pernicious', 'phenomenal', 'soulful', 'soulless', 'deathless', 'damaged', 'imperishable',
   'relentless', 'callous', 'remorseless', 'shrinking', 'expanding', 'scruffy', 'suptuous', 'gorgeous', 'opulent', 'flourishing',
   'exaggerated', 'evasive', 'shifty', 'appealing', 'cheap', 'expensive', 'benevolent', 'liberal', 'virtuous', 'frustrating',
-  'ruling', 'controlling', 'supreme', 'inferior', 'superior', 'flammable', 'practical', 'frenzied']
+  'ruling', 'controlling', 'supreme', 'inferior', 'superior', 'flammable', 'practical', 'frenzied', 'bloodhungry', 'starving',
+  ',malnourished', 'frightening', 'alarming', 'startling', 'horrifying', 'menacing']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
