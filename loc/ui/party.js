@@ -98,6 +98,7 @@ export default {
     */
     en: 'Copy to Clipboard',
     ru: 'Копировать в буфер',
-    es: 'Copia a su Portapapele'
+    es: 'Copia a su Portapapele',
+    de: 'Kopieren'
   }
 }
