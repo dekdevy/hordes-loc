@@ -48,7 +48,7 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'malnourished', 'frightening', 'alarming', 'startling', 'horrifying', 'menacing', 'scary', 'dazzling', 'glaring', 'flagrant',
   'luxurious', 'diamond', 'splendid', 'plush', 'magnificent', 'ragged', 'tatty', 'rundown', 'weedy', 'jagged', 'serrated',
   'rupturing', 'tearing', 'bursting', 'breaching', 'seperating', 'severing', 'sinister', 'dusty', 'wartorn', 'utopian',
-  'striking', 'loathing', 'officious']
+  'striking', 'loathing', 'officious', 'gilded', 'unbelievable']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
@@ -87,7 +87,8 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'era', 'century', 'century', 'millenium', 'decade', 'gallows', 'gamble', 'maestro', 'joker', 'fairy', 'noose', 'tomohawk',
   'ore', 'halcyon', 'orb', 'snowball', 'sphere', 'cyclopes', 'duke', 'baron', 'dynamo', 'contraband', 'souvenir', 'atrocity',
   'assault', 'lash', 'phenomena', 'disease', 'epidemic', 'egg', 'guild', 'clan', 'ruler', 'boss', 'idol', 'frontier', 'beverage',
-  'pillage', 'plunder', 'invasion', 'conquest', 'incursion', 'tomb', 'vault', 'crypt', 'mausoleum', 'sarcophagus']
+  'pillage', 'plunder', 'invasion', 'conquest', 'incursion', 'tomb', 'vault', 'crypt', 'mausoleum', 'sarcophagus', 'catacomb',
+  'sepulchre', 'turmoil', 'myrmidon', 'navy', 'scapegoat', 'deserter', 'archer', 'charmer', 'yawl', 'lingo']
 
 const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', 'misfortune', 'rage', 'joy',
   'leveling', 'vengance', 'resurrection', 'mastery', 'loss', 'flames', 'fire', 'frost', 'glory', 'war', 'sprinting',
