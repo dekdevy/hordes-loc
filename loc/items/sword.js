@@ -11,7 +11,8 @@ export default [
       hi: 'नाम ही काफ़ी है। छितरों से बचे।',
       pt: 'O nome diz tudo. Cuidado com as lascas.',
       nl: 'De naam zegt het allemaal. Voorzichtig met de splinters.',
-      pl: 'Imię mówi wszystko. Uważaj na drzazgi.'
+      pl: 'Imię mówi wszystko. Uważaj na drzazgi.',
+      ht: 'Non di li tout. Atansyon ak ekla yo.'
     }
   },
 
@@ -26,7 +27,8 @@ export default [
       hi: 'ज्यादा मेरी राय में लकड़ी का एक टुकड़ा कुंद की तुलना में बेहतर।',
       pt: 'Não muito melhor do que um pedaço de madeira na minha opinião.',
       nl: 'Niet veel beter dan een stomp stuk hout naar mijn mening.',
-      pl: 'Niewiele lepiej niż tępy kawałek drewna, moim zdaniem.'
+      pl: 'Niewiele lepiej niż tępy kawałek drewna, moim zdaniem.',
+      ht: 'Pa pi bon pase yon moso bwa ki pa bay tèt ou pwoblèm nan opinyon mwen.'
     }
   },
 
@@ -41,7 +43,8 @@ export default [
       hi: 'मज़ाक़ कर रहो हो?',
       pt: 'Estou a ser enganado?',
       nl: 'Word ik voor de gek gehouden?',
-      pl: 'Czy jestem żartobliwy?'
+      pl: 'Czy jestem żartobliwy?',
+      ht: 'Èske mwen te pranked?'
     }
   },
 
@@ -56,7 +59,8 @@ export default [
       hi: 'किसी शूरवीर से गिर गयी। ग़लती से।',
       pt: 'Um cavaleiro qualquer deixou cair isto. Provavelmente não intencionalmente.',
       nl: 'Een of andere ridder heeft dit laten vallen. Waarschijnlijk onbedoeld.',
-      pl: 'Jakiś rycerz to upuścił. Prawdopodobnie nieumyślnie.'
+      pl: 'Jakiś rycerz to upuścił. Prawdopodobnie nieumyślnie.',
+      ht: 'Gen kèk Knight tonbe sa a. Pwobableman san entansyon'
     }
   },
 
@@ -71,7 +75,8 @@ export default [
       hi: 'लम्बी? हाँ। जानलेवा? शायद। बस ख़ुद को मत काट लेना।',
       pt: 'Longo? Sim. Mortal? Talvez. Apenas não se corte.',
       nl: 'Lang? Ja. Dodelijk? Misschien. Gewoon jezelf niet snijden.',
-      pl: 'Długo? Tak. Śmiertelnie? Może. Tylko się nie skalecz.'
+      pl: 'Długo? Tak. Śmiertelnie? Może. Tylko się nie skalecz.',
+      ht: 'Lontan? Wi. Mòtèl? Petèt. Jis pa koupe tèt ou.'
     }
   },
   { // T6 item
@@ -85,7 +90,8 @@ export default [
       hi: 'प्राचीन बेहेमोथ की हड्डियों से तराशी हुई।',
       pt: 'Esculpido grosseiramente nos ossos de um antigo beemote.',
       nl: 'Ruw gesneden uit de botten van een oude kolos.',
-      pl: 'Wycięte z kości starożytnego olbrzyma.'
+      pl: 'Wycięte z kości starożytnego olbrzyma.',
+      ht: 'Crudely so soti nan zo yo nan yon behemoth ansyen.'
     }
   },
   { // T7 item
@@ -99,7 +105,8 @@ export default [
       hi: 'एक तलवार इतनी महान, कुछ ही लोग इसे नियंत्रित कर सकते है। काफ़ी भारी है।',
       pt: 'Uma espada tão poderosa que poucos conseguem lidar com ela. É muito pesada.',
       nl: 'Een zwaard dat zo machtig is dat weinigen het aankunnen. Het is behoorlijk zwaar.',
-      pl: 'Miecz tak potężny, że niewielu zdoła sobie z nim poradzić. Jest dość ciężki.'
+      pl: 'Miecz tak potężny, że niewielu zdoła sobie z nim poradzić. Jest dość ciężki.',
+      ht: 'Yon epe konsa vanyan sòlda ke kèk ka okipe li. Li trè lou'
     }
   },
   { // T8 item
@@ -113,7 +120,8 @@ export default [
       hi: 'दुष्ट टेढ़ी तलवार। पकड़ने से ही इसकी दुष्टता का एहसास होता है।',
       pt: 'Lâmina curva diabólica. Mesmo segurando-a faz você sentir a sua essência escura.',
       nl: 'Duivels gebogen zwaard. Zelfs het vasthouden ervan maakt dat je de donkere essentie voelt.',
-      pl: 'Diabolicznie zakrzywione ostrze. Nawet trzymanie go sprawia, że czujesz jego ciemną esencję.'
+      pl: 'Diabolicznie zakrzywione ostrze. Nawet trzymanie go sprawia, że czujesz jego ciemną esencję.',
+      ht: 'Lam dyabolik koube. Menm kenbe li fè ou santi ou li nan sans fè nwa.'
     }
   },
 
@@ -128,7 +136,8 @@ export default [
       hi: 'धमकाने वाली तलवार। गरमा गरम धार के साथ।',
       pt: 'Uma lâmina de aspecto frio com uma fatia ardente e quente.',
       nl: 'Een koud uitziend zwaard met een brandend heet plakje.',
-      pl: 'Zimno wyglądające ostrze z palącym się gorącym plasterkiem.'
+      pl: 'Zimno wyglądające ostrze z palącym się gorącym plasterkiem.',
+      ht: 'Yon lam frèt kap ak yon tranch cho boule.'
     }
   },
 
@@ -143,7 +152,8 @@ export default [
       hi: 'सबसे कुशल योद्धा ही इसे चला सकते है।',
       pt: 'Uma lâmina empunhada apenas pelos cavaleiros mais habilidosos.',
       nl: 'Een zwaard dat alleen door de meest bekwame ridders wordt gebruikt.',
-      pl: 'Ostrze, którym posługują się tylko najbardziej uzdolnieni rycerze.'
+      pl: 'Ostrze, którym posługują się tylko najbardziej uzdolnieni rycerze.',
+      ht: 'Yon lam itilize nan sèlman kavalye yo ki pi abil.'
     }
   },
 
@@ -158,7 +168,8 @@ export default [
       hi: 'गोल तलवार एक प्राचीन राजा से चुरायी हुई। काटने की क्षमता पर संदेह है।',
       pt: 'Espada cilíndrica roubada de um antigo rei. A capacidade de corte é questionável.',
       nl: 'Cilindrisch zwaard gestolen van een oude koning. Het snijvermogen is twijfelachtig.',
-      pl: 'Cylindryczny miecz skradziony starożytnemu królowi. Zdolność cięcia jest wątpliwa.'
+      pl: 'Cylindryczny miecz skradziony starożytnemu królowi. Zdolność cięcia jest wątpliwa.',
+      ht: 'Silendrik nepe yo vòlè li soti nan yon wa ansyen. Koupe kapasite se dout.'
     }
   },
 
@@ -173,7 +184,8 @@ export default [
       hi: 'पाताल से लायी गयी शक्तिशाली श्रेष्ठ रचना।',
       pt: 'Poderosa obra-prima trazida dos abismos do submundo.',
       nl: 'Krachtig meesterwerk uit de afgronden van de onderwereld.',
-      pl: 'Potężne arcydzieło przywiezione z otchłani podziemnego świata.'
+      pl: 'Potężne arcydzieło przywiezione z otchłani podziemnego świata.',
+      ht: 'Pwisan chèf pote soti nan abis yo nan mò yo ye a.'
     }
   },
 
@@ -188,7 +200,8 @@ export default [
       hi: 'रहस्यमयी गुलाबी तलवार। इस पर की गयी नकशी कहती है "मैशतिग ज़ेर्सटोरर। "',
       pt: 'Espada rosa misteriosa. As gravuras dizem "Mächtig Zerstörer".',
       nl: 'Mysterieus roze zwaard. Gravures zeggen "Mächtig Zerstörer".',
-      pl: 'Tajemniczy różowy miecz. Ryciny mówią, że "Mächtig Zerstörer".'
+      pl: 'Tajemniczy różowy miecz. Ryciny mówią, że "Mächtig Zerstörer".',
+      ht: 'Misterye nepe woz. Gravure di "Mächtig Zerstörer".'
     }
   },
 
@@ -203,7 +216,8 @@ export default [
       hi: 'दशनमों के दिलों को चीर कर खा जाती है।',
       pt: 'Corta os corações dos teus inimigos. Come-os no caminho.',
       nl: 'Snijdt door de harten van je vijanden heen. Eet ze onderweg op.',
-      pl: 'Cięcie w sercach wrogów. Zjada je po drodze.'
+      pl: 'Cięcie w sercach wrogów. Zjada je po drodze.',
+      ht: 'Koupe nan kè lènmi ou yo. Manje yo sou wout la.'
     }
   },
 
@@ -218,7 +232,8 @@ export default [
       hi: 'राक्षसों को ख़त्म कर सकती है, देवताओं को नहीं।',
       pt: 'Pode cortar demónios, mas não anjos.',
       nl: 'Het kan demonen snijden, maar geen engelen.',
-      pl: 'Może ciąć demony, ale nie anioły.'
+      pl: 'Może ciąć demony, ale nie anioły.',
+      ht: 'Li ka koupe move lespri yo, men se pa zanj Bondye.'
     }
   },
 
@@ -233,7 +248,8 @@ export default [
       hi: 'कहते है इसे एक पत्थर से निकला गया था। वो पत्थर आज तक नहीं मिला।',
       pt: 'Disseram-nos que foi tirado da pedra. Ainda não conseguimos encontrar a pedra.',
       nl: 'Ons werd verteld dat het uit steen werd getrokken. Kan de steen nog steeds niet vinden.',
-      pl: 'Powiedziano nam, że został wycišgnięty z kamienia. Wciąż nie można znaleźć kamienia.'
+      pl: 'Powiedziano nam, że został wycišgnięty z kamienia. Wciąż nie można znaleźć kamienia.',
+      ht: 'Nou te di li te rale nan wòch. Toujou kapab jwenn wòch la.'
     }
   },
 
@@ -248,7 +264,8 @@ export default [
       hi: 'होने वाली है नए युग की शुरुआत।',
       pt: 'Esta arma traz o advento de uma nova era.',
       nl: 'Dit wapen brengt de komst van een nieuw tijdperk met zich mee.',
-      pl: 'Ta broń powoduje nadejście nowej ery.'
+      pl: 'Ta broń powoduje nadejście nowej ery.',
+      ht: 'Sa a zam pote sou vini nan yon nouvo laj.'
     }
   }
 
