@@ -25,7 +25,8 @@ export default [
       nl: 'Het schouderbord van een of ander schepsel is goed te gebruiken als draagbaar eetgerei.',
       es: 'Una capa de hueso de un monstruo, buena como un plato de comida.',
       fr: 'La couche osseuse d\'un monstre, aussi bonne qu\'une assiette de nourriture.',
-      ht: 'Se kouch nan zo nan yon mons, byen adapte kòm yon plak pou manje.'
+      ht: 'Se kouch nan zo nan yon mons, byen adapte kòm yon plak pou manje.',
+      it: 'Il piatto da spalla di alcuni piatti creatura tariffe così come un utensile da cucina portatile.'
     }
   },
 
@@ -38,7 +39,8 @@ export default [
       nl: 'Zware ketting, gladgestreken en gepolijst om je te verblinden tijdens de strijd.',
       es: 'Collar pesado, liso y pulido. Te ciega durante una pelea.',
       fr: 'Collier lourd, lisse et poli. Ça vous aveugle pendant un combat.',
-      ht: 'Gwo kolye, lis e poli. Avèg ou pandan yon batay.'
+      ht: 'Gwo kolye, lis e poli. Avèg ou pandan yon batay.',
+      it: 'Collana pesante, levigata e lucidata per accecarvi durante la battaglia.'
     }
   },
 
@@ -51,7 +53,8 @@ export default [
       nl: 'Een rotte hap van de oogst van vorig jaar.',
       es: 'Un trozo podrido de la cosecha del año pasado.',
       fr: 'Un morceau pourri de la récolte de l\'an dernier.',
-      ht: 'Pouri moso nan sezon rekòt ane pase.'
+      ht: 'Pouri moso nan sezon rekòt ane pase.',
+      it: 'Un boccone putrido dell\'ultimo raccolto dell\'anno scorso.'
     }
   },
 
@@ -64,7 +67,8 @@ export default [
       nl: 'Dunne plak graniet, perfect om over de rimpelingen van het meer te stuiteren.',
       es: 'Una fina pieza de granito, ideal para panqueques que saltan del agua.',
       fr: 'Fine tranche de granit, parfaite pour rebondir sur les ondulations du lac.',
-      ht: 'Tranch mens nan granit, pafè pou rebondi atravè ond yo nan lak la.'
+      ht: 'Tranch mens nan granit, pafè pou rebondi atravè ond yo nan lak la.',
+      it: 'Sottile fetta di granito, perfetta per rimbalzare sulle onde del lago.'
     }
   },
 
@@ -77,7 +81,8 @@ export default [
       nl: 'Glinsterende zilveren stof die gestolen zou zijn van Aphrodite zelf.',
       es: 'Se dice que la tela de plata brillante fue robada a la propia Afrodita.',
       fr: 'Le tissu d\'argent brillant aurait été volé à Aphrodite elle-même.',
-      ht: 'Se twal an ajan klere byen di ke yo te vòlè soti nan Epafrodit tèt li.'
+      ht: 'Se twal an ajan klere byen di ke yo te vòlè soti nan Epafrodit tèt li.',
+      it: 'Un tessuto argenteo scintillante che si dice sia stato rubato ad Afrodite stessa.'
 
     }
   },
@@ -91,7 +96,8 @@ export default [
       nl: 'Koud en blauw, de hanger steelt je warmte als betaling voor de effecten...',
       es: 'Frío y azul, el colgante roba su calor como pago por sus efectos...',
       fr: 'Froid et bleu, le pendentif vole votre chaleur en paiement de ses effets...',
-      ht: 'Fwad ak ble, pendant la vòlè chalè ou kòm yon peman pou efè li yo...'
+      ht: 'Fwad ak ble, pendant la vòlè chalè ou kòm yon peman pou efè li yo...',
+      it: 'Freddo e blu, il ciondolo ruba il tuo calore come pagamento per i suoi effetti.....'
     }
   },
 
@@ -107,7 +113,8 @@ export default [
       it: 'Sorprendentemente, non puzza di pesce. Basta non mostrargli l\'acqua dolce.',
       pt: 'Surpreendentemente, não cheira a peixe. Só não mostre água doce.',
       pl: 'Zaskakujšco, nie pachnie jak ryba. Po prostu nie pokazuj jej słodkiej wody.',
-      nl: 'Verrassend genoeg ruikt het niet naar vis. Laat het gewoon niet zoetwater zien.'
+      nl: 'Verrassend genoeg ruikt het niet naar vis. Laat het gewoon niet zoetwater zien.',
+      it: 'Sorprendentemente, non puzza di pesce. Basta non mostrargli l\'acqua dolce.'
     }
   },
 
@@ -120,7 +127,8 @@ export default [
       nl: 'Legers verspild over dit snuisterijtuig, maar toch lijkt het je waardeloos...',
       es: 'Los ejércitos desperdiciaron esta baratija, pero a ti te parece que no vale nada...',
       fr: 'Des armées ont dilapidé cette babiole et pourtant elle vous semble sans valeur...',
-      ht: 'Lame gaspiye sou biblo sa a ankò li sanble san valè pou ou...'
+      ht: 'Lame gaspiye sou biblo sa a ankò li sanble san valè pou ou...',
+      it: 'Eserciti sperperato su questo gingillo eppure vi sembra inutile.....'
     }
   },
 
@@ -133,7 +141,8 @@ export default [
       nl: 'Mensen, dwergen en elfen bezaten dit artefact en gaven het door aan generaties jagers, krijgers en grote veldslagleiders.',
       es: 'Humanos, enanos y elfos poseían este artefacto, pasándolo a generaciones de cazadores, guerreros y grandes líderes de batalla.',
       fr: 'Les humains, les nains et les elfes possédaient cet artefact, le transmettant à des générations de chasseurs, de guerriers et de grands chefs de guerre.',
-      ht: 'Moun, nen ak foul dechennen posede sa a asosye, pase l \'sou nan jenerasyon nan chasè, vanyan sòlda ak gwo lidè batay.'
+      ht: 'Moun, nen ak foul dechennen posede sa a asosye, pase l \'sou nan jenerasyon nan chasè, vanyan sòlda ak gwo lidè batay.',
+      it: 'Umani, nani ed elfi possedevano questo artefatto, trasmettendolo a generazioni di cacciatori, guerrieri e grandi leader di battaglia.'
     }
   },
 
@@ -146,7 +155,8 @@ export default [
       nl: 'De kleur van de zonsondergang, het zwermen beelden en projecties in je geweten vertellen je je volgende ongeluk.',
       es: 'El color del atardecer, inunda tu conciencia con imágenes y proyecciones que te cuentan tu próxima desgracia.',
       fr: 'La couleur du coucher du soleil, elle grouille d\'images et de projections dans votre conscience, vous annonçant votre prochain malheur.',
-      ht: 'Koulè solèy kouche a, li grenn imaj ak projections nan konsyans ou, di ou pwochen malè.'
+      ht: 'Koulè solèy kouche a, li grenn imaj ak projections nan konsyans ou, di ou pwochen malè.',
+      it: 'Il colore del tramonto, brulica di immagini e proiezioni nella tua coscienza, raccontandoti la tua prossima sfortuna.'
     }
   },
 
@@ -159,7 +169,8 @@ export default [
       nl: 'Ingewikkelde weven van mithril gebonden aan krachtige magie, die je vullen met een mysterieuze energie die slechts door weinigen op deze wereld wordt gevoeld.',
       es: 'Intrincados tejidos de mithril ligados a una poderosa magia, que te llenan de una misteriosa energía sentida por pocos de los que viven en este mundo.',
       fr: 'Des tissages complexes de mithril liés à une puissante magie, vous remplissant d\'une énergie mystérieuse ressentie par quelques-uns de ceux qui vivent sur ce monde.',
-      ht: 'Ranje konplike nan mithril mare nan majik pwisan, ranpli ou ak yon enèji misterye santi pa kèk nan moun ki k ap viv sou mond sa a.'
+      ht: 'Ranje konplike nan mithril mare nan majik pwisan, ranpli ou ak yon enèji misterye santi pa kèk nan moun ki k ap viv sou mond sa a.',
+      it: 'Intricate trame di mithril legate a una potente magia, che vi riempie di una misteriosa energia sentita da pochi di coloro che vivono in questo mondo.'
     }
   },
 
@@ -172,7 +183,8 @@ export default [
       nl: 'Demonische schaduwen ontwijken de bladen van de werkelijkheid, waardoor je in je vijanden monsterlijke dromen kunt achterlaten.',
       es: 'Sombras demoníacas evaden las espadas de la realidad, concediéndote dejar en tus enemigos sueños monstruosos.',
       fr: 'Les ombres démoniaques échappent aux lames de la réalité, vous permettant de partir dans les rêves monstrueux de vos ennemis.',
-      ht: 'Lonbraj dyabolik evade lam yo nan reyalite, akòde ou kite nan lènmi ou rèv jigantèsk.'
+      ht: 'Lonbraj dyabolik evade lam yo nan reyalite, akòde ou kite nan lènmi ou rèv jigantèsk.',
+      it: 'Le ombre demoniache si sottraggono alle lame della realtà, concedendovi di lasciare nei vostri nemici dei sogni mostruosi.'
     }
   },
 
@@ -185,7 +197,8 @@ export default [
       nl: 'Uw vijanden hallucinerende gemoedstoestand, veroorzaakt door dit snuisterijtuig, maakt het mogelijk dat uw sluwe klappen naar huis komen.',
       es: 'El estado alucinatorio de la mente de tus enemigos, provocado por esta baratija, permite que tus golpes astutos lleguen a casa.',
       fr: 'L\'état d\'esprit hallucinatoire de vos ennemis provoqué par cette babiole permet à vos coups astucieux de frapper à la maison.',
-      ht: 'Lènmi ou eta alisinasyonèl nan lide pote sou pa biblo sa a pèmèt kou atizan konn fè ou fè grèv lakay ou.'
+      ht: 'Lènmi ou eta alisinasyonèl nan lide pote sou pa biblo sa a pèmèt kou atizan konn fè ou fè grèv lakay ou.',
+      it: 'Il tuo stato d\'animo allucinatorio dei tuoi nemici causato da questo gingillo permette ai tuoi colpi astuti di colpire a casa.'
     }
   },
 
@@ -198,7 +211,8 @@ export default [
       nl: 'Diep donkerblauwe talisman, patronen in je ziel opsporen, versterken, herbouwen en renoveren voor de wereld van de onsterfelijkheid.',
       es: 'Talismán azul oscuro profundo, trazando patrones en tu alma, reforzando, reconstruyendo y renovando para el mundo de la inmortalidad.',
       fr: 'Talisman bleu foncé profond, traçant des motifs dans votre âme, renforçant, reconstruisant et rénovant pour le monde de l\'immortalité.',
-      ht: 'Gwo twou san fon ble nwa talisman, trase modèl nan nanm ou, ranfòse, rebati ak renovasyon pou mond lan nan imòtalite.'
+      ht: 'Gwo twou san fon ble nwa talisman, trase modèl nan nanm ou, ranfòse, rebati ak renovasyon pou mond lan nan imòtalite.',
+      it: 'Profondo talismano blu scuro, tracciando modelli nella tua anima, rinforzando, ricostruendo e rinnovando per il mondo dell\'immortalità.'
     }
   }
 
