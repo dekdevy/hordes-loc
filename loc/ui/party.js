@@ -122,7 +122,6 @@ export default {
     es: 'Copia a su Portapapele',
     de: 'Einfügen aus Zwischenablage',
     fr: 'Copier dans le presse',
-    de: 'Kopieren Sie in den Puffer',
     tr: 'Bağlantıyı kopyala'
   }
 }
