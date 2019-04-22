@@ -85,7 +85,8 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'trinket', 'vulture', 'watchdog', 'robber', 'stealer', 'patriarch', 'genius', 'gale', 'heiress', 'princess', 'parchment',
   'portcullis', 'stronghold', 'fort', 'bailey', 'tepee', 'tsar', 'limousin', 'mermaid', 'siren', 'nymph', 'heir', 'eon',
   'era', 'century', 'century', 'millenium', 'decade', 'gallows', 'gamble', 'maestro', 'joker', 'fairy', 'noose', 'tomohawk',
-  'ore', 'halcyon', 'orb', 'snowball', 'sphere', 'cyclopes', 'duke', 'baron']
+  'ore', 'halcyon', 'orb', 'snowball', 'sphere', 'cyclopes', 'duke', 'baron', 'dynamo', 'contraband', 'souvenir', 'atrocity',
+  'assault', 'lash', 'phenomena', 'disease', 'epidemic', 'egg', 'guild']
 
 const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', 'misfortune', 'rage', 'joy',
   'leveling', 'vengance', 'resurrection', 'mastery', 'loss', 'flames', 'fire', 'frost', 'glory', 'war', 'sprinting',
