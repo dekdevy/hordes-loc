@@ -47,7 +47,8 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'ruling', 'controlling', 'supreme', 'inferior', 'superior', 'flammable', 'practical', 'frenzied', 'bloodhungry', 'starving',
   'malnourished', 'frightening', 'alarming', 'startling', 'horrifying', 'menacing', 'scary', 'dazzling', 'glaring', 'flagrant',
   'luxurious', 'diamond', 'splendid', 'plush', 'magnificent', 'ragged', 'tatty', 'rundown', 'weedy', 'jagged', 'serrated',
-  'rupturing', 'tearing', 'bursting', 'breaching', 'seperating', 'severing', 'sinister', 'dusty', 'wartorn', 'utopian']
+  'rupturing', 'tearing', 'bursting', 'breaching', 'seperating', 'severing', 'sinister', 'dusty', 'wartorn', 'utopian',
+  'striking', 'loathing', 'officious']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
