@@ -120,7 +120,8 @@ export default {
     en: 'Copy to Clipboard',
     ru: 'Копировать в буфер',
     es: 'Copia a su Portapapele',
-    de: 'Kopieren Sie in den Puffer',
+    de: 'Einfügen aus Zwischenablage',
+    fr: 'Copier dans le presse',
     tr: 'Bağlantıyı kopyala'
   }
 }
