@@ -72,16 +72,18 @@ export default {
 
   onLink: {
     en: 'Send this link to other players! This will allow them to join your party.',
+    ru: 'Отправьте эту ссылку другим игрокам! Это позволит им присоединиться к вашей party.',
     nl: 'Stuur deze link naar andere spelers! Dit zal hen in staat stellen om zich aan te sluiten bij je party.',
     es: '¡Envíta este enlace a otros jugadores! Esto los permitirá a juntar en to party.'
   },
 
   copyLink: {
     /*
-      PLEASE dont translate this literally, its very linkely each language
+      PLEASE dont translate this literally, its very likely each language
       has their own version of expressing this. Google it if you are unsure :)
     */
     en: 'Copy to Clipboard',
+    ru: 'Копировать в буфер',
     es: 'Copia a su Portapapele'
   }
 }
