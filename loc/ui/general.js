@@ -38,5 +38,9 @@ export default {
 
   decline: {
     en: 'Decline'
+  },
+
+  close: {
+    en: 'Close'
   }
 }
