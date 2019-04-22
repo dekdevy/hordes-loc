@@ -44,7 +44,16 @@ export default {
   },
 
   create: {
-    en: 'Create party'
+    en: 'Create party',
+    ru: 'Создать party',
+    it: 'Crea party',
+    pt: 'Criar party',
+    nl: 'Een party creëren',
+    pl: 'Utwórz party',
+    de: 'Partner anlegen',
+    fr: 'Créer une party',
+    ht: 'Kreye party',
+    es: 'Crear party'
   },
 
   onInvite: {
