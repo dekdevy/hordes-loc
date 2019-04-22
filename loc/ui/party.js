@@ -57,6 +57,11 @@ export default {
   members: {
     en: 'Members',
     de: 'Mitglieder',
+    hi: 'सदस्य',
+    it: 'Membri',
+    pl: 'Członkowie',
+    pt: 'Membros',
+    fr: 'Membres',
     ru: 'Члены',
     nl: 'Leden',
     es: 'Miembros'
@@ -64,6 +69,9 @@ export default {
 
   link: {
     en: 'Invitation link',
+    hi: 'आमंत्रण लिंक',
+    it: 'Invito Link',
+    fr: 'Lien d\'invitation',
     de: 'Einladungslink',
     ru: 'Пригласительная ссылка',
     nl: 'Uitnodigingslink',
@@ -78,7 +86,7 @@ export default {
     pl: 'Wyślij ten link do innych graczy! To pozwoli im dołączyć do twojej partii.',
     pt: 'Envie este link para outros jogadores! Isto permitirá que eles se juntem à sua festa.',
     it: 'Invia questo link ad altri giocatori! Questo permetterà loro di unirsi alla tua festa.',
-    nl: 'Stuur deze link naar andere spelers! Dit zal hen in staat stellen om zich aan te sluiten bij je feestje.',
+    nl: 'Stuur deze link naar andere spelers! Dit zal hen in staat stellen om zich aan te sluiten bij je feestje.',  
     de: 'Sende diesen Link an andere Spieler! Dies wird es ihnen ermöglichen, sich deiner Gruppe anzuschließen.',
     nl: 'Stuur deze link naar andere spelers! Dit zal hen in staat stellen om zich aan te sluiten bij je party.',
     es: '¡Envíta este enlace a otros jugadores! Esto los permitirá a juntar en to party.'
