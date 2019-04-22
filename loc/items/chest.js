@@ -12,7 +12,8 @@ export default [
       hi: 'बनाने आप गंदे और अस्त-व्यस्त लग रहा है स्टार्च के साथ कठोर पद से हटाने।',
       pl: 'Worek sztywny ze skrobią sprawia, że czujesz się brudny i rozczochrany.',
       it: 'Sacco rigido con amido che ti fa sentire sporco e spettinato.',
-      ht: 'Sak rèd ak lanmidon fè ou santi ou sal ak dezord.'
+      ht: 'Sak rèd ak lanmidon fè ou santi ou sal ak dezord.',
+      tr: 'Bu çuvalla beraber insan kendini darmadağın ve saçma hissediyor.'
     }
   },
 
@@ -29,7 +30,8 @@ export default [
       hi: 'चमड़ा शर्ट, टूट-फूट से फीका।',
       pl: 'Skórzana koszula, wyblakła od zużycia.',
       it: 'Camicia in pelle, sbiadita dall\'usura.',
-      ht: 'Chemiz kwi, ta vle chanje koulè soti nan mete ak chire.'
+      ht: 'Chemiz kwi, ta vle chanje koulè soti nan mete ak chire.',
+      tr: 'Aşınma ve yıpranma nedeniyle solmuş deri gömlek.'
     }
   },
 
@@ -46,7 +48,8 @@ export default [
       hi: 'नरम लोहे का अंगरखा, साहसी इन भूमि के ऊपर से गुजर की कई पीढ़ियों से पारित कर दिया।',
       pl: 'Knobbly soft iron tunika, przekazywana od wielu pokoleń poszukiwaczy przygód przechodzących przez te ziemie.',
       it: 'Una sapiente tunica in ferro dolce, tramandata da molte generazioni di avventurieri che hanno attraversato queste terre.',
-      ht: 'Tunik manchbly fè, pase nan anpil jenerasyon nan avanturyé pase sou tè sa yo.'
+      ht: 'Tunik manchbly fè, pase nan anpil jenerasyon nan avanturyé pase sou tè sa yo.',
+      tr: 'Topuzlu yumuşak demir tunik, bu toprakların üzerinden geçen birçok maceracıdan günümüze kadar geldi..'
     }
   },
 
@@ -63,7 +66,8 @@ export default [
       hi: 'यह कपड़े बहुत ज्यादा नहीं है, लेकिन यह एक तीर या दो बंद हो सकता है।',
       pl: 'Ten materiał to niewiele, ale może zatrzymać strzałę lub dwie.',
       it: 'Questo tessuto non è molto, ma potrebbe fermare una o due frecce.',
-      ht: 'Sa a twal se pa anpil, men li ta ka sispann yon flèch oswa de.'
+      ht: 'Sa a twal se pa anpil, men li ta ka sispann yon flèch oswa de.',
+      tr: 'Bir kumaştan fazlası değil, belki bir iki ok durdurabilir.'
     }
   },
 
@@ -80,7 +84,8 @@ export default [
       hi: 'हार्ड एक शक्तिशाली अजगर है कि एक बार इन भूमि रोमिंग से लिया तराजू से बने सूट।',
       pl: 'Twardy garnitur wykonany ze skal wziętych od potężnego smoka, który kiedyś poruszał się po tych ziemiach.',
       it: 'Tuta rigida fatta di bilance prese da un potente drago che una volta vagando per queste terre.',
-      ht: 'Kostim difisil te fè soti nan kal pwason sot pran nan yon dragon vanyan sòlda ki yon fwa ere tè sa yo.'
+      ht: 'Kostim difisil te fè soti nan kal pwason sot pran nan yon dragon vanyan sòlda ki yon fwa ere tè sa yo.',
+      tr: 'Bir zamanlar bu topraklarda dolaşan güçlü bir ejderhadan alınan pullarla yapılmış sert bir elbise.'
     }
   },
 
@@ -97,7 +102,9 @@ export default [
       hi: 'अफवाहें इसकी बादलों से बना कहते हैं ...',
       pl: 'Plotki mówią, że zrobione z chmur....',
       it: 'Voci dicono che è fatto di nuvole.....',
-      ht: 'Rimè di ke li te fè soti nan nyaj...'
+      ht: 'Rimè di ke li te fè soti nan nyaj...',
+      tr: 'Buluttan yapıldığına dair dedikodular var...'
+
     }
   },
 
@@ -114,7 +121,8 @@ export default [
       hi: 'पहनने वाला छाया के साथ अच्छी तरह से में मिश्रित ... या तो चोरों लगता है।',
       pl: 'Użytkownik ładnie wtapia się w cienie.... albo tak myślą złodzieje.',
       it: 'Chi lo indossa si fonde bene con le ombre...... o così pensano i ladri.',
-      ht: 'Utilisateurs la melanje nan joliman ak lonbraj yo ... oswa konsa ansasen yo panse.'
+      ht: 'Utilisateurs la melanje nan joliman ak lonbraj yo ... oswa konsa ansasen yo panse.',
+      tr: 'Kullanıcı gölgelerle güzelce karışır ... ya da hırsızlar öyle sanıyor.'
     }
   },
 
@@ -131,7 +139,8 @@ export default [
       hi: 'अज्ञात जादूगर द्वारा जाली, आप एक गहरी अंधेरे और शक्तिशाली chestplate पहनते हैं।',
       pl: 'Wykute przez nieznanych magów, nosisz głęboką, ciemną i potężną płytę piersiową.',
       it: 'Forgiato da maghi sconosciuti, si indossa un profondo, scuro e potente pettorale.',
-      ht: 'Fòje pa majisyen unknown, ou mete yon gwo twou san fon, piyè pwatrin nwa ak pwisan.'
+      ht: 'Fòje pa majisyen unknown, ou mete yon gwo twou san fon, piyè pwatrin nwa ak pwisan.',
+      tr: 'Bilinmeyen bir büyücü tarafından dövülmüş. Derin karanlık ve güçlü bir zırh.'
     }
   },
 
@@ -148,7 +157,8 @@ export default [
       hi: 'नरक की गहराई से जाली, यह आपके कमजोर, मांसल शरीर के लिए सुरक्षा प्रदान करता है।',
       pl: 'Wykute z głębi piekła, zapewnia ochronę twojemu słabemu, mięsistemu ciału.',
       it: 'Forgiato dalle profondità dell\'inferno, fornisce protezione al tuo corpo debole e carnoso.',
-      ht: 'Fòje soti nan fon lanmè a nan lanfè, li bay pwoteksyon pou fèb ou, kò charnèl.'
+      ht: 'Fòje soti nan fon lanmè a nan lanfè, li bay pwoteksyon pou fèb ou, kò charnèl.',
+      tr: 'Cehennemin derinliklerinde dövülmüş, zayıf etli vücüduna koruma sağlar.'
     }
   },
 
@@ -165,7 +175,8 @@ export default [
       hi: 'जब दुश्मन मारे गए हैं, अपनी आत्मा wielder के संग्रह करने के लिए जोड़ रहे हैं।',
       pl: 'Kiedy wrogowie są zabijani, ich dusze są dodawane do kolekcji władcy.',
       it: 'Quando i nemici vengono uccisi, le loro anime vengono aggiunte alla collezione del detenuto.',
-      ht: 'When enemies are slain, their souls are added to the wielder\'s collection.'
+      ht: 'Lè lènmi yo te mouri, nanm yo te ajoute nan koleksyon wielder la.',
+      tr: 'Düşmanlar katledildiğinde, ruhlarını koleksiyonuna ekler.'
     }
   },
 
@@ -182,7 +193,8 @@ export default [
       hi: 'अफवाहें का कहना है कि पहनने वाला अमर है। दुर्भाग्य से इस कवच केवल मारे हुए की लाशों पर पाया जा सकता।',
       pl: 'Plotki mówią, że noszący jest nieśmiertelny. Niestety ta zbroja znajduje się tylko na zwłokach zabitych.',
       it: 'Si dice che chi lo indossa è immortale. Purtroppo questa armatura si trova solo sui cadaveri degli uccisi.',
-      ht: 'Rumours say that the wearer is immortal. Unfortunately this armour can only be found on corpses of the slain.'
+      ht: 'Rimè ki di ke moun nan se imòtèl. Malerezman zam sa a ka jwenn sèlman sou kadav moun ki mouri yo.',
+      tr: 'Dedikodulara göre bunu giyen ölümsüzmüş. Ne yazık ki bu zırh sadece öldürülen cesetlerinde bulunabilir.'
     }
   }
 
