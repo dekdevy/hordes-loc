@@ -73,6 +73,12 @@ export default {
   onLink: {
     en: 'Send this link to other players! This will allow them to join your party.',
     ru: 'Отправьте эту ссылку другим игрокам! Это позволит им присоединиться к вашей party.',
+    fr: 'Envoyez ce lien à d\'autres joueurs ! Cela leur permettra de se joindre à votre parti.',
+    hi: 'अन्य खिलाड़ियों के लिए इस लिंक भेजें! इससे उन्हें अपनी पार्टी में शामिल होने की अनुमति देगा।',
+    pl: 'Wyślij ten link do innych graczy! To pozwoli im dołączyć do twojej partii.',
+    pt: 'Envie este link para outros jogadores! Isto permitirá que eles se juntem à sua festa.',
+    it: 'Invia questo link ad altri giocatori! Questo permetterà loro di unirsi alla tua festa.',
+    nl: 'Stuur deze link naar andere spelers! Dit zal hen in staat stellen om zich aan te sluiten bij je feestje.',
     de: 'Sende diesen Link an andere Spieler! Dies wird es ihnen ermöglichen, sich deiner Gruppe anzuschließen.',
     nl: 'Stuur deze link naar andere spelers! Dit zal hen in staat stellen om zich aan te sluiten bij je party.',
     es: '¡Envíta este enlace a otros jugadores! Esto los permitirá a juntar en to party.'
