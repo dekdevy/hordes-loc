@@ -16,7 +16,8 @@ export default {
     ht: 'Party envite',
     es: 'Party Invita',
     tr: 'Partye davet et',
-    cs: 'Pozvat stranu'
+    cs: 'Pozvat stranu',
+    ja: 'パーティー招待'
   },
 
   kick: {
@@ -31,7 +32,8 @@ export default {
     ht: 'Choute',
     nl: 'Paty uitgooien',
     tr: 'Partyden at',
-    cs: 'Strana kop'
+    cs: 'Strana kop',
+    ja: 'パーティーキック'
   },
 
   leave: {
@@ -46,7 +48,8 @@ export default {
     ru: 'Выйти',
     es: 'Salir del Party',
     tr: 'Partyden ayrıl',
-    cs: 'Nechte stranou'
+    cs: 'Nechte stranou',
+    ja: 'パーティーを離れる'
   },
 
   create: {
@@ -61,7 +64,8 @@ export default {
     ht: 'Kreye party',
     es: 'Crear party',
     tr: 'Party oluştur',
-    cs: 'Vytvořit párty'
+    cs: 'Vytvořit párty',
+    ja: 'パーティーを作成'
   },
 
   onInvite: {
@@ -76,7 +80,8 @@ export default {
     it: '$1 ti ha invitato a unirti alla loro festa.',
     pt: 'O $1 convidou-te para te juntares à festa deles.',
     pl: '$1 zaprosiło cię do przyłączenia się do ich partii.',
-    cs: '$1 vás pozval, abyste se připojili k jejich straně.'
+    cs: '$1 vás pozval, abyste se připojili k jejich straně.',
+    ja: '$1さんがあなたをパーティーに招待しています。'
   },
 
   // members, as in "12 members in party"
@@ -92,7 +97,8 @@ export default {
     nl: 'Leden',
     es: 'Miembros',
     tr: 'Üye',
-    cs: 'Členové'
+    cs: 'Členové',
+    ja: 'メンバー'
   },
 
   link: {
@@ -107,7 +113,8 @@ export default {
     tr: 'Davet linki',
     pt: 'Link para o convite',
     pl: 'Zaproszenie do składania wniosków',
-    cs: 'Pozvánka'
+    cs: 'Pozvánka',
+    ja: '招待状リンク'
   },
 
   onLink: {
@@ -122,7 +129,8 @@ export default {
     nl: 'Stuur deze link naar andere spelers! Dit zal hen in staat stellen om zich aan te sluiten bij je party.',
     es: '¡Envíta este enlace a otros jugadores! Esto los permitirá a juntar en to party.',
     tr: 'Bu bağlantıyı diğer oyunculara gönder! Bu onların partyne katılmasını sağlayacak.',
-    cs: 'Pošlete tento odkaz ostatním hráčům!  To jim umožní připojit se k vaší straně.'
+    cs: 'Pošlete tento odkaz ostatním hráčům!  To jim umožní připojit se k vaší straně.',
+    ja: '他のプレイヤーにこのリンクを送ってください！これにより、彼らはあなたのパーティーに参加することができます。'
   },
 
   copyLink: {
@@ -140,6 +148,7 @@ export default {
     it: 'Copia negli Appunti',
     pt: 'Copiar para Área de transferência',
     pl: 'Skopiować do schowka.',
-    cs: 'Zkopírovat do schránky'
+    cs: 'Zkopírovat do schránky',
+    ja: 'クリップボードにコピー'
   }
 }
