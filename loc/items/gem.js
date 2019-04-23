@@ -165,7 +165,7 @@ export default [
       pt: 'Espectaculares plumas cor-de-rosa saturadas emergem desta gema prismática facetada. Os teus inimigos olham para ti com admiração...',
       it: 'Spettacolari pennacchi rosa saturi sorgono da questa gemma prismatica sfaccettata. I tuoi nemici a fissarti con stupore ...',
       hi: 'शानदार संतृप्त गुलाबी पंखों इस आयामी चश्मे मणि से वृद्धि। आपका शत्रु विस्मय के साथ आप के घूरने से ...',
-      cs: '„Z tohoto fasetového hranolového drahokamu vyčnívají velkolepé nasycené růžové švestky. Vaši nepřátelé na tebe zírají s úžasem ...','
+      cs: 'Z tohoto fasetového hranolového drahokamu vyčnívají velkolepé nasycené růžové švestky. Vaši nepřátelé na tebe zírají s úžasem ...'
     }
   },
 
