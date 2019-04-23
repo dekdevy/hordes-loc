@@ -15,7 +15,8 @@ export default {
     it: 'Sciamano',
     ht: 'Chaman',
     pl: 'Szaman',
-    cs: 'Šaman'
+    cs: 'Šaman',
+    ja: 'シャーマン'
   },
   // Class description, visible during character creation
   description: {
@@ -33,6 +34,7 @@ export default {
     it: 'Il ruolo dello sciamano è di sostenere il gruppo curando il carro armato e offrendo buff offensive o debuff paralizzanti.',
     ht: 'Wòl Chaman an se pou sipòte gwoup la pou geri tank la epi ofri ofwi ofansif oswa debouche kap kwape.',
     pl: 'Rolą szamana jest wspieranie grupy poprzez leczenie czołgu i oferowanie ofensywnych buffów lub kalekich debuffów.',
-    cs: 'Úkolem Shaman je podporovat skupinu tím, že uzdraví Tank a nabídne útočné Buffy nebo ochromující Debuffy.'
+    cs: 'Úkolem Shaman je podporovat skupinu tím, že uzdraví Tank a nabídne útočné Buffy nebo ochromující Debuffy.',
+    ja: 'シャーマンの役割は、戦車を癒して不快なバフを与えたり、不幸なデバフを倒したりすることでグループを支援することです。'
   }
 }
