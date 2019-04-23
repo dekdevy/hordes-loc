@@ -50,7 +50,7 @@ export default {
     pl: 'Zaakceptować',
     ht: 'Aksepte',
     ko: '동의',
-    it: 'Accettare',
+    it: 'Accettare'
  
   },
 
