@@ -64,7 +64,7 @@ export default [
       nl: 'Een of andere ridder heeft dit laten vallen. Waarschijnlijk onbedoeld.',
       pl: 'Jakiś rycerz to upuścił. Prawdopodobnie nieumyślnie.',
       ht: 'Gen kèk Knight tonbe sa a. Pwobableman san entansyon',
-      it: 'Qualche cavaliere ha lasciato cadere questo.  Probabilmente non intenzionalmente.'
+      it: 'Qualche cavaliere ha lasciato cadere questo. Probabilmente non intenzionalmente.'
     }
   },
 
@@ -81,7 +81,7 @@ export default [
       nl: 'Lang? Ja. Dodelijk? Misschien. Gewoon jezelf niet snijden.',
       pl: 'Długo? Tak. Śmiertelnie? Może. Tylko się nie skalecz.',
       ht: 'Lontan? Wi. Mòtèl? Petèt. Jis pa koupe tèt ou.',
-      it: 'Lungo?  Sì.  Mortale?  Può essere.  Non ti tagliare.'
+      it: 'Lungo? Sì. Mortale? Può essere. Non ti tagliare.'
     }
   },
   { // T6 item
@@ -113,7 +113,7 @@ export default [
       nl: 'Een zwaard dat zo machtig is dat weinigen het aankunnen. Het is behoorlijk zwaar.',
       pl: 'Miecz tak potężny, że niewielu zdoła sobie z nim poradzić. Jest dość ciężki.',
       ht: 'Yon epe konsa vanyan sòlda ke kèk ka okipe li. Li trè lou',
-      it: 'Una spada così potente che pochi riescono a gestirlo.  È piuttosto pesante.'
+      it: 'Una spada così potente che pochi riescono a gestirlo. È piuttosto pesante.'
     }
   },
   { // T8 item
@@ -129,7 +129,7 @@ export default [
       nl: 'Duivels gebogen zwaard. Zelfs het vasthouden ervan maakt dat je de donkere essentie voelt.',
       pl: 'Diabolicznie zakrzywione ostrze. Nawet trzymanie go sprawia, że czujesz jego ciemną esencję.',
       ht: 'Lam dyabolik koube. Menm kenbe li fè ou santi ou li nan sans fè nwa.',
-      it: 'Lama diabolica curva.  Anche tenerlo ti fa sentire la sua essenza oscura.'
+      it: 'Lama diabolica curva. Anche tenerlo ti fa sentire la sua essenza oscura.'
     }
   },
 
@@ -146,7 +146,7 @@ export default [
       nl: 'Een koud uitziend zwaard met een brandend heet plakje.',
       pl: 'Zimno wyglądające ostrze z palącym się gorącym plasterkiem.',
       ht: 'Yon lam frèt kap ak yon tranch cho boule.',
-      it: 'Una lama dall'aspetto freddo con una fetta bollente che brucia.'
+      it: 'Una lama dall\'aspetto freddo con una fetta bollente che brucia.'
     }
   },
 
