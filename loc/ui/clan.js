@@ -112,7 +112,7 @@ export default {
 
   createname: {
     en: 'Clan name',
-    ru: 'Название клана', // TODO: shorten
+    ru: 'имя клана',
     fr: 'Nom du clan',
     hi: 'दल का नाम',
     es: 'Clan nombre', // TODO: shorten

@@ -78,16 +78,16 @@ export default {
       fr: 'Vide',
       ko: '빈 슬롯',
       tr: 'Boş',
-      bg: 'Празен слот', // TODO: shorten
-      cs: 'Prázdné místo', // TODO: shorten
+      bg: 'Празен',
+      cs: 'Prázdný',
       el: 'Κενή υποδοχή', // TODO: shorten
       ja: '空きスロット',
       ph: 'Bakanteng pwesto', // TODO: shorten
       it: 'Slot vuoto',
-      pl: 'Puste miejsce', // TODO: shorten
+      pl: 'Pusty',
       nl: 'Leeg',
       pt: 'Vazio',
-      ht: 'Antre nan mond lan' // TODO: shorten
+      ht: 'Vide'
     },
 
     error: {
@@ -209,7 +209,7 @@ export default {
       ru: 'Введите имя',
       fr: 'Entrez un nom',
       hi: 'नाम डाले',
-      es: 'Ponga nombre', // TODO: shorten
+      es: 'Ponga nombre',
       de: 'Geben Sie einen Namen ein', // TODO: shorten
       ko: '이름 입력',
       tr: 'Bir isim gir',

@@ -82,7 +82,8 @@ export default [
       tr: 'Elf okçular tarafından at sırtında kullanılan şık çanta.',
       pl: 'Elegancka torba używana przez elfów łuczników na koniu.',
       sv: 'Elegant bag used by river archers on horseback.',
-      ht: 'Sak Elegant itilize pa kavalye elven sou cheval.'
+      ht: 'Sak Elegant itilize pa kavalye elven sou cheval.',
+      cs: 'Elegantní taška používá elfské lukostřelce na koni.'
     }
   },
 
@@ -100,7 +101,8 @@ export default [
       tr: 'Liken ipliklerinden dokunan bu çantanın yapımı gizemini koruyor.',
       pl: 'Tkany z nici porostów, konstrukcja tej torby pozostaje tajemnicą.',
       sv: 'Vävd av trådar av lavar, är byggandet av denna väska ett mysterium.',
-      ht: 'Desen an sak sa a trikote soti nan fil likèn rete yon mistè.'
+      ht: 'Desen an sak sa a trikote soti nan fil likèn rete yon mistè.',
+      cs: 'Tkané z nití lišejníků, konstrukce tohoto sáčku zůstává záhadou.'
     }
   }
 

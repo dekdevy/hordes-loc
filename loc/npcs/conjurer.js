@@ -13,7 +13,8 @@ export default {
       pl: 'Ach, widzę, że jesteś podróżnikiem. Zmęczony i głodny wyglądasz. My, czarnoksiężnicy, również przemierzamy te piękne ziemie. Chcesz, żebym zabrał cię do jednego?',
       nl: 'Ah, ik zie je reiziger. Moe en uitgehongerd zie je eruit. Wij goochelaars, te, zwerven door dit mooie land. Zou je willen dat ik je naar een van die breng?',
       pt: 'Ah, vejo-te viajante. Cansado e faminto você olha. Nós, mágico, também andamos por essas terras nobres. Queres que te leve a uma?',
-      sv: 'Ah, jag ser dig resande.  Weary och famished du ser.  Vi medför också förföljare i dessa fina länder.  Vill du att jag ska ta dig till en?'
+      sv: 'Ah, jag ser dig resande.  Weary och famished du ser.  Vi medför också förföljare i dessa fina länder.  Vill du att jag ska ta dig till en?',
+      cs: 'Ach, vidím vás cestovatele.  Vzteklý a hladový pohled.  Také se uchylujeme k těmto jemným zemím.  Chcete, abych vás vzal na jednoho?'
     },
     choices: [{
       en: 'Please bring me to $1.',
@@ -26,7 +27,8 @@ export default {
       ht: 'Tanpri, pote m \'$ 1.',
       pl: 'Proszę, przyprowadź mnie do $1.',
       nl: 'Breng me alsjeblieft naar $1.',
-      pt: 'Por favor, entregar me $1.'
+      pt: 'Por favor, entregar me $1.',
+      cs: 'Přiveďte mě na $ 1.'
     }]
   }]
 }
