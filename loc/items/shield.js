@@ -12,7 +12,8 @@ export default [
       pt: 'Literalmente uma tábua quadrada de madeira.',
       nl: 'Letterlijk een vierkante plank van hout.',
       pl: 'Dosłownie kwadratowa deska z drewna.',
-      ht: 'Literalman yon gwo bout bwa kare nan bwa.'
+      ht: 'Literalman yon gwo bout bwa kare nan bwa.',
+      cs: 'Tavený železný kroužek naplněný bronzem. Flimsy v jeho tvorbě.'
     }
   },
 
@@ -29,7 +30,8 @@ export default [
       hi: 'लोहा पिघलकर पीतल से भरी हुई। ठीक से नहीं बनी है।',
       nl: 'Gesmolten ijzeren ring gevuld met brons. Mager in zijn samenstelling.',
       pl: 'Wytopiony żelazny pierścień wypełniony brązem. Cienki w wykonaniu.',
-      ht: 'Boule bag fè plen ak kwiv. Kannfeuy nan fè li yo.'
+      ht: 'Boule bag fè plen ak kwiv. Kannfeuy nan fè li yo.',
+      cs: 'Některému farmáři se podařilo postavit roztomilý malý štít.'
     }
   },
 
@@ -46,7 +48,8 @@ export default [
       pt: 'Algum agricultor conseguiu construir um pequeno e bonito escudo.',
       nl: 'Sommige boeren zijn erin geslaagd om een schattig schildje te bouwen.',
       pl: 'Jednemu z rolników udało się zbudować ładną małą tarczę.',
-      ht: 'Gen kèk kiltivatè jere yo konstwi yon bèl plak pwotèj ti kras.'
+      ht: 'Gen kèk kiltivatè jere yo konstwi yon bèl plak pwotèj ti kras.',
+      cs: 'Složitý štít vyrobený ze tří kovových kusů. Solidní.'
     }
   },
 
@@ -63,7 +66,8 @@ export default [
       pt: 'Escudo intrincado feito de três peças metálicas sólidas. Resistente.',
       nl: 'Geïntegreerd schild gemaakt van drie massieve metalen delen. Stevig.',
       pl: 'Intrygująca osłona wykonana z trzech litych metalowych kawałków. Wytrzymała.',
-      ht: 'Pwoteksyon konplike te fè soti nan twa moso metal solid. Solid.'
+      ht: 'Pwoteksyon konplike te fè soti nan twa moso metal solid. Solid.',
+      cs: 'Složitý štít vyrobený ze tří kovových kusů. Solidní.'
     }
   },
 
@@ -80,7 +84,8 @@ export default [
       pt: 'Feito de obsidiana e aço. Alguém descuidadamente tentou pintá-lo de amarelo. Eles falharam. Miseravelmente.',
       nl: 'Gemaakt van obsidiaan en staal. Iemand heeft slordig geprobeerd het geel te schilderen. Ze hebben gefaald. Ellendig.',
       pl: 'Zrobione z obsydianu i stali. Ktoś niechlujnie próbował namalować go na żółto. Nie udało im się. Nędznie.',
-      ht: 'Te fè soti nan obsidya ak asye. Yon moun t ap eseye penti li jòn. Yo echwe. Miserableman.'
+      ht: 'Te fè soti nan obsidya ak asye. Yon moun t ap eseye penti li jòn. Yo echwe. Miserableman.',
+      cs: 'Vyrobeno z obsidiánu a oceli. Někdo se ho pokusil namalovat žlutě. Neuspěli. Bídně.'
     }
   }
 
