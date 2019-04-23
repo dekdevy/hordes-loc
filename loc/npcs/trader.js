@@ -13,7 +13,8 @@ export default {
       nl: 'Gegroet zwervende reiziger! Wilt u iets verkopen?',
       pt: 'Saudações, viajante errante! Gostaria de vender alguma coisa?',
       cs: 'Pozdravy putování cestovatel!  Chcete něco prodat?',
-      ja: '旅人をさまよう挨拶！何か売りたいですか？'
+      ja: '旅人をさまよう挨拶！何か売りたいですか？',
+      hi: 'नमस्ते यात्री भटक! आप कुछ बेचने करना चाहते हैं?'
     },
     choices: {
       en: 'Yes, of course.',
@@ -27,7 +28,8 @@ export default {
       nl: 'Ja, natuurlijk.',
       pt: 'Sim, claro que.',
       cs: 'Ano, samozřejmě.',
-      ja: 'はい、もちろん。'
+      ja: 'はい、もちろん。',
+      hi: 'हां बिल्कुल।'
     }
   }]
 }
