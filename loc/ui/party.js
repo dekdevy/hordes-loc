@@ -103,8 +103,7 @@ export default {
     es: 'Miembros',
     tr: 'Üye',
     cs: 'Členové',
-    ja: 'メンバー',
-    hi: 'सदस्य'
+    ja: 'メンバー'
   },
 
   link: {
@@ -120,8 +119,7 @@ export default {
     pt: 'Link para o convite',
     pl: 'Zaproszenie do składania wniosków',
     cs: 'Pozvánka',
-    ja: '招待状リンク',
-    hi: 'आमंत्रण लिंक'
+    ja: '招待状リンク'
   },
 
   onLink: {
@@ -137,8 +135,7 @@ export default {
     es: '¡Envíta este enlace a otros jugadores! Esto los permitirá a juntar en to party.',
     tr: 'Bu bağlantıyı diğer oyunculara gönder! Bu onların partyne katılmasını sağlayacak.',
     cs: 'Pošlete tento odkaz ostatním hráčům!  To jim umožní připojit se k vaší straně.',
-    ja: '他のプレイヤーにこのリンクを送ってください！これにより、彼らはあなたのパーティーに参加することができます。',
-    hi: 'अन्य खिलाड़ियों के लिए इस लिंक भेजें! इससे उन्हें अपने party में शामिल होने के लिए अनुमति देगा।'
+    ja: '他のプレイヤーにこのリンクを送ってください！これにより、彼らはあなたのパーティーに参加することができます。'
   },
 
   copyLink: {
