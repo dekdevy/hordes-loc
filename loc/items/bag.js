@@ -83,7 +83,8 @@ export default [
       pl: 'Elegancka torba używana przez elfów łuczników na koniu.',
       sv: 'Elegant bag used by river archers on horseback.',
       ht: 'Sak Elegant itilize pa kavalye elven sou cheval.',
-      cs: 'Elegantní taška používá elfské lukostřelce na koni.'
+      cs: 'Elegantní taška používá elfské lukostřelce na koni.',
+      ja: '馬に乗ってエルフの射手が使用するエレガントなバッグ。'
     }
   },
 
@@ -102,7 +103,8 @@ export default [
       pl: 'Tkany z nici porostów, konstrukcja tej torby pozostaje tajemnicą.',
       sv: 'Vävd av trådar av lavar, är byggandet av denna väska ett mysterium.',
       ht: 'Desen an sak sa a trikote soti nan fil likèn rete yon mistè.',
-      cs: 'Tkané z nití lišejníků, konstrukce tohoto sáčku zůstává záhadou.'
+      cs: 'Tkané z nití lišejníků, konstrukce tohoto sáčku zůstává záhadou.',
+      ja: '地衣類の糸から織られたこのバッグの構造は謎のままです。'
     }
   }
 
