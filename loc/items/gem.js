@@ -10,7 +10,8 @@ export default [
       nl: 'Klein en scherp, deze hanger laat ondiepe schrammen achter op je huid tijdens een gevecht.',
       pl: 'Mały i ostry wisior pozostawia płytkie zadrapania na skórze podczas walki.',
       pt: 'Pequeno e afiado, este pingente deixa marcas rasas na sua pele durante a batalha.',
-      it: 'Piccolo e appuntito, questo ciondolo lascia dei graffi poco profondi sulla pelle durante la battaglia.'
+      it: 'Piccolo e appuntito, questo ciondolo lascia dei graffi poco profondi sulla pelle durante la battaglia.',
+      hi: 'छोटे और तेज, इस पेंडेंट लड़ाई के दौरान आपकी त्वचा पर उथले खरोंच छोड़ देता है।'
     }
   },
 
@@ -25,7 +26,8 @@ export default [
       nl: 'Ruwe schijf-vormige grijze steen met vreemde druïdische gravures die het omhullen.',
       pl: 'Szary kamień w kształcie dysku z dziwnymi druidycznymi rycinami, które go otaczają.',
       pt: 'Pedra cinzenta em forma de disco rugoso com estranhas gravuras druídicas que a rodeiam',
-      it: 'Pietra grigia a forma di disco grezzo con strane incisioni druidiche che lo avvolgono.'
+      it: 'Pietra grigia a forma di disco grezzo con strane incisioni druidiche che lo avvolgono.',
+      hi: 'किसी न किसी डिस्क के आकार अजीब ड्र्यूड नक्काशी उस पर घेर साथ भूरे पत्थर।'
     }
   },
 
@@ -40,7 +42,8 @@ export default [
       nl: 'Krachtige transparante glazen talisman, een vage paarse tint laat je de wereld zien in een melancholisch licht.',
       pl: 'Mocny przezroczysty szklany talizman, słaby fioletowy odcień pokazuje świat w melancholijnym świetle.',
       pt: 'Poderoso talismã de vidro transparente, o tingimento púrpura fraco mostra-lhe o mundo numa luz melancólica.',
-      it: 'Potente talismano di vetro trasparente, dalla tenue tinta viola vi mostra il mondo in una luce malinconica.'
+      it: 'Potente talismano di vetro trasparente, dalla tenue tinta viola vi mostra il mondo in una luce malinconica.',
+      hi: 'शक्तिशाली पारदर्शी कांच ताबीज, बेहोश बैंगनी रंग आप एक उदास रोशनी में दुनिया को दर्शाता है।'
     }
   },
 
@@ -55,7 +58,8 @@ export default [
       nl: 'Bruine desaturated edelsteen, die rottende geuren afgeeft terwijl je het om je nek draagt.',
       pl: 'Brązowy, mniej nasycony klejnot, wydzielający zgniłe zapachy, gdy nosisz go na szyi.',
       pt: 'Jóia marrom desaturada, emitindo cheiros fétidos ao usá-la ao redor do pescoço.',
-      it: 'Una gemma marrone desatura, che emette profumi putridi quando la si indossa intorno al collo.'
+      it: 'Una gemma marrone desatura, che emette profumi putridi quando la si indossa intorno al collo.',
+      hi: 'ब्राउन मणि, सड़ा हुआ सुगंधों उत्सर्जन के रूप में आप इसे अपने गले में पहनते हैं।'
     }
   },
 
@@ -70,14 +74,15 @@ export default [
       nl: 'Lustrous blue artefact, blootgestelde wispy witte aders die langs zijn bolvormige oppervlak lopen.',
       pl: 'Świecący artefakt w kolorze niebieskim, odsłonięte białe żyły biegnące wzdłuż jego kulistej powierzchni.',
       pt: 'Artefacto azul lustroso, veias brancas expostas e esbranquiçadas ao longo da sua superfície esférica.',
-      it: 'Lustrous artefatto blu brillante, esposte venature bianche e sottili che corrono lungo la sua superficie sferica.'
+      it: 'Lustrous artefatto blu brillante, esposte venature bianche e sottili che corrono lungo la sua superficie sferica.',
+      hi: 'चमकदार नीली विरूपण साक्ष्य, सफेद नसों की उजागर कणों का अपनी गोलाकार सतह के साथ चल रहा है।'
     }
   },
 
   {
     name       : {$$: 'Purum' },
     description: {
-      en: 'Radiant titian glass-like gem revealing your foes\' hidden secrets.',
+      en: 'Radiant titian glass-like gem revealing your foe\'s hidden secrets.',
       es: 'Luminoso gema en forma de vidrio que revela los secretos ocultos de tus enemigos.',
       ru: 'Сияющий титьяновый стеклянный драгоценный камень, раскрывающий скрытые секреты ваших врагов.',
       de: 'Strahlender titianischer glasartiger Edelstein, der die verborgenen Geheimnisse deiner Feinde enthüllt.',
@@ -85,7 +90,8 @@ export default [
       nl: 'Stralend Titiaans-achtig glasachtig juweel dat verborgen geheimen van je vijanden onthult.',
       pl: 'Wspaniałe tytan figura szklana gem ujawniający ukryte sekrety twoich wrogów.',
       pt: 'Uma jóia radiante de vidro ticiano que revela os segredos escondidos dos teus inimigos.',
-      it: 'Una radiosa gemma di vetro tiziano che rivela i segreti nascosti dei tuoi nemici.'
+      it: 'Una radiosa gemma di vetro tiziano che rivela i segreti nascosti dei tuoi nemici.',
+      hi: 'उज्ज्वल नारंगी कांच की तरह मणि अपने शत्रु के छिपे रहस्यों को प्रकट करती है।'
     }
   },
 
@@ -100,7 +106,8 @@ export default [
       nl: 'Een groot rood juweel, ingesloten in donkere kloven in de afgrond, waardoor je vijanden een gevoel van jaloezie krijgen.',
       pl: 'Wielki czerwony klejnot zamknięty w ciemnych pęknięciach w otchłani, dający wrogom uczucie zazdrości.',
       pt: 'Grande jóia vermelha encerrada em fissuras escuras no abismo, dando aos seus inimigos uma sensação de ciúmes',
-      it: 'Grande gemma rossa racchiusa in fenditure scure dell\'abisso che dona ai tuoi nemici un senso di gelosia.'
+      it: 'Grande gemma rossa racchiusa in fenditure scure dell\'abisso che dona ai tuoi nemici un senso di gelosia.',
+      hi: 'ग्रैंड लाल मणि रसातल अंधेरे दरारों में संलग्न, अपने दुश्मनों को ईर्ष्या की भावना देने।'
     }
   },
 
@@ -115,7 +122,8 @@ export default [
       nl: 'De scherpe groene randen vangen het sprankelende licht op in de zon, waardoor een mooi en dodelijk zicht ontstaat.',
       pl: 'Ostre zielone krawędzie łapią błyszczące światło w słońcu, tworząc piękny i zabójczy widok.',
       pt: 'As bordas verdes afiadas captam luz cintilante no sol, fazendo uma visão bela e mortal.',
-      it: 'I taglienti bordi verdi catturano la luce scintillante al sole, rendendo la vista bella e mortale.'
+      it: 'I taglienti bordi verdi catturano la luce scintillante al sole, rendendo la vista bella e mortale.',
+      hi: 'तेज हरी किनारों धूप में स्पार्कलिंग प्रकाश को पकड़ने, एक सुंदर और घातक दृष्टि बना रही है।'
     }
   },
 
@@ -124,13 +132,14 @@ export default [
     description: {
       en: 'Small, smooth and dark, this gem possesses treacherous traits as it slips from its wielders hands...',
       ru: 'Маленький, гладкий и темный, этот драгоценный камень обладает коварными чертами характера, как он выскальзывает из рук своих владельцев....',
-      es: 'Pequeña, lisa y oscura, esta gema posee rasgos traicioneros ya que se desliza de las manos de sus dueños....',
+      es: 'Pequeña, lisa y oscura, esta gema posee rasgos traicioneros ya que se desliza de las manos de sus dueños...',
       de: 'Klein, glatt und dunkel, besitzt dieses Juwel tückische Eigenschaften, während es aus den Händen seiner Besitzer rutscht...',
-      fr: 'Petit, lisse et sombre, ce joyau possède des traits traîtres lorsqu\'il glisse de ses mains de manieur....',
-      nl: 'Klein, glad en donker, dit juweel heeft verraderlijke eigenschappen als het uit zijn handen glijdt....',
+      fr: 'Petit, lisse et sombre, ce joyau possède des traits traîtres lorsqu\'il glisse de ses mains de manieur...',
+      nl: 'Klein, glad en donker, dit juweel heeft verraderlijke eigenschappen als het uit zijn handen glijdt...',
       pl: 'Mały, gładki i ciemny, ten klejnot posiada zdradzieckie cechy, ponieważ zsuwa się z rąk władców...',
       pt: 'Pequena, suave e escura, esta jóia possui traços traiçoeiros enquanto escorrega das mãos dos que a empunham...',
-      it: 'Piccola, liscia e scura, questa gemma possiede tratti infidi mentre scivola dalle mani dei suoi manipolatori.....'
+      it: 'Piccola, liscia e scura, questa gemma possiede tratti infidi mentre scivola dalle mani dei suoi manipolatori...',
+      hi: 'छोटे चिकनी और अंधेरे, इस मणि विश्वासघाती लक्षण पास के रूप में यह अपनी wielders हाथ से निकल जाता है ...'
     }
   },
 
@@ -145,7 +154,8 @@ export default [
       nl: 'Spectaculaire verzadigde roze pluimen rijzen op uit deze gefacetteerde prismatische parel. Uw vijanden om u met ontzag aan te staren.....',
       pl: 'Z tego fasetowanego klejnotu pryzmatycznego wyrastają spektakularne, nasycone różowe smugi. Twoi wrogowie, którzy będą się na ciebie gapić z podziwem...',
       pt: 'Espectaculares plumas cor-de-rosa saturadas emergem desta gema prismática facetada. Os teus inimigos olham para ti com admiração...',
-      it: 'Spettacolari pennacchi rosa saturi sorgono da questa gemma prismatica sfaccettata. I tuoi nemici a fissarti con stupore .....'
+      it: 'Spettacolari pennacchi rosa saturi sorgono da questa gemma prismatica sfaccettata. I tuoi nemici a fissarti con stupore ...',
+      hi: 'शानदार संतृप्त गुलाबी पंखों इस आयामी चश्मे मणि से वृद्धि। आपका शत्रु विस्मय के साथ आप के घूरने से ...'
     }
   },
 
@@ -160,7 +170,8 @@ export default [
       nl: 'Heldere groene lichten af en toe overspannen van deze glazen juweel, het gieten van projecties van de dragers de toekomst.',
       pl: 'Jasnozielone światło czasami rozprzestrzenia się z tego szklanego klejnotu, odlewając projekcje przyszłości użytkowników.',
       pt: 'Luzes verdes brilhantes ocasionalmente se estendem para fora desta jóia de vidro, projetando projeções de fundição do futuro dos usuários.',
-      it: 'Le luci verdi brillanti di tanto in tanto si estendono da questa gemma di vetro, proiettando le proiezioni del futuro di chi la indossa.'
+      it: 'Le luci verdi brillanti di tanto in tanto si estendono da questa gemma di vetro, proiettando le proiezioni del futuro di chi la indossa.',
+      hi: 'उज्ज्वल हरे रंग की रोशनी कभी-कभी इस कांच मणि से बाहर अवधि, कास्टिंग पहनने वालों के भविष्य के अनुमानों।'
     }
   }
 ]
