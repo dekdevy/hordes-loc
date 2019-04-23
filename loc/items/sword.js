@@ -14,7 +14,8 @@ export default [
       pl: 'Imię mówi wszystko. Uważaj na drzazgi.',
       ht: 'Non di li tout. Atansyon ak ekla yo.',
       it: 'Il nome dice tutto.  Attento alle schegge.',
-      cs: 'Jméno říká všechno. Pozor na třísky.'
+      cs: 'Jméno říká všechno. Pozor na třísky.',
+      ja: '名前はそれをすべて言います。破片の注意が必要です。'
     }
   },
 
@@ -32,7 +33,8 @@ export default [
       pl: 'Niewiele lepiej niż tępy kawałek drewna, moim zdaniem.',
       ht: 'Pa pi bon pase yon moso bwa ki pa bay tèt ou pwoblèm nan opinyon mwen.',
       it: 'Secondo me non molto meglio di un pezzo di legno smussato.',
-      cs: 'Podle mého názoru není o moc lepší než tupý kus dřeva.'
+      cs: 'Podle mého názoru není o moc lepší než tupý kus dřeva.',
+      ja: '私の意見では鈍い木の部分よりもずっと良くはありません。'
     }
   },
 
@@ -50,7 +52,8 @@ export default [
       pl: 'Czy jestem żartobliwy?',
       ht: 'Èske mwen te pranked?',
       it: 'Sono stato fregato?',
-      cs: 'Jsem pranked?'
+      cs: 'Jsem zmatený?',
+      ja: '私はいたずらですか？'
     }
   },
 
@@ -68,7 +71,8 @@ export default [
       pl: 'Jakiś rycerz to upuścił. Prawdopodobnie nieumyślnie.',
       ht: 'Gen kèk Knight tonbe sa a. Pwobableman san entansyon',
       it: 'Qualche cavaliere ha lasciato cadere questo. Probabilmente non intenzionalmente.',
-      cs: 'Někteří rytíři to upustili. Pravděpodobně neúmyslně.'
+      cs: 'Někteří rytíři to upustili. Pravděpodobně neúmyslně.',
+      ja: 'いくつかの騎士はこれを落としました。意図的ではないと思われます。'
     }
   },
 
@@ -86,7 +90,8 @@ export default [
       pl: 'Długo? Tak. Śmiertelnie? Może. Tylko się nie skalecz.',
       ht: 'Lontan? Wi. Mòtèl? Petèt. Jis pa koupe tèt ou.',
       it: 'Lungo? Sì. Mortale? Può essere. Non ti tagliare.',
-      cs: 'Dlouho? Ano. Smrtící? Možná. Prostě se neřízni.'
+      cs: 'Dlouho? Ano. Smrtící? Možná. Prostě se neřízni.',
+      ja: '長いです？はい。致命的？多分。ただ自分を切らないでください。'
     }
   },
   { // T6 item
@@ -103,7 +108,8 @@ export default [
       pl: 'Wycięte z kości starożytnego olbrzyma.',
       ht: 'Crudely so soti nan zo yo nan yon behemoth ansyen.',
       it: 'Crudamente scolpito dalle ossa di un antico behemoth.',
-      cs: 'Krutě vyřezaný z kostí starověkého monstra.'
+      cs: 'Krutě vyřezaný z kostí starověkého monstra.',
+      ja: '古代の巨獣の骨から粗く彫られています。'
     }
   },
   { // T7 item
@@ -120,7 +126,8 @@ export default [
       pl: 'Miecz tak potężny, że niewielu zdoła sobie z nim poradzić. Jest dość ciężki.',
       ht: 'Yon epe konsa vanyan sòlda ke kèk ka okipe li. Li trè lou',
       it: 'Una spada così potente che pochi riescono a gestirlo. È piuttosto pesante.',
-      cs: 'Meč tak mocný, že to zvládne jen málo. Je to dost těžké.'
+      cs: 'Meč tak mocný, že to zvládne jen málo. Je to dost těžké.',
+      ja: '刀はとても強力で、それを扱うことができる人はほとんどいない。そのかなり重いです。'
     }
   },
   { // T8 item
@@ -137,7 +144,8 @@ export default [
       pl: 'Diabolicznie zakrzywione ostrze. Nawet trzymanie go sprawia, że czujesz jego ciemną esencję.',
       ht: 'Lam dyabolik koube. Menm kenbe li fè ou santi ou li nan sans fè nwa.',
       it: 'Lama diabolica curva. Anche tenerlo ti fa sentire la sua essenza oscura.',
-      cs: 'Diabolská zakřivená čepel. I když to držíte, cítíte jeho temnou podstatu.'
+      cs: 'Diabolská zakřivená čepel. I když to držíte, cítíte jeho temnou podstatu.',
+      ja: '悪魔のような湾曲した刃。それを持っていてもあなたはその暗い本質を感じさせます。'
     }
   },
 
@@ -155,7 +163,8 @@ export default [
       pl: 'Zimno wyglądające ostrze z palącym się gorącym plasterkiem.',
       ht: 'Yon lam frèt kap ak yon tranch cho boule.',
       it: 'Una lama dall\'aspetto freddo con una fetta bollente che brucia.',
-      cs: 'Chlazená čepel s planoucím horkým plátkem.'
+      cs: 'Chlazená čepel s planoucím horkým plátkem.',
+      ja: '燃えている熱いスライスを持つ寒さそうな刃。'
     }
   },
 
@@ -173,7 +182,8 @@ export default [
       pl: 'Ostrze, którym posługują się tylko najbardziej uzdolnieni rycerze.',
       ht: 'Yon lam itilize nan sèlman kavalye yo ki pi abil.',
       it: 'Una lama impugnata solo dai cavalieri più abili.',
-      cs: 'Čepel ovládaná jen nejkvalifikovanějšími rytíři.'
+      cs: 'Čepel ovládaná jen nejkvalifikovanějšími rytíři.',
+      ja: '最も熟練した騎士だけが装備した刀身。'
     }
   },
 
@@ -191,7 +201,8 @@ export default [
       pl: 'Cylindryczny miecz skradziony starożytnemu królowi. Zdolność cięcia jest wątpliwa.',
       ht: 'Silendrik nepe yo vòlè li soti nan yon wa ansyen. Koupe kapasite se dout.',
       it: 'Spada cilindrica rubata da un antico re.  La capacità di taglio è discutibile.',
-      cs: 'Válcový meč ukradl starému králi. Schopnost řezání je sporná.'
+      cs: 'Válcový meč ukradl starému králi. Schopnost řezání je sporná.',
+      ja: '古代の王から盗まれた円筒形の刀。切断能力は疑問です。'
     }
   },
 
@@ -209,7 +220,8 @@ export default [
       pl: 'Potężne arcydzieło przywiezione z otchłani podziemnego świata.',
       ht: 'Pwisan chèf pote soti nan abis yo nan mò yo ye a.',
       it: 'Potente capolavoro portato dagli abissi degli inferi.',
-      cs: 'Mocné mistrovské dílo přinesené z propastí podsvětí.'
+      cs: 'Mocné mistrovské dílo přinesené z propastí podsvětí.',
+      ja: '強力な傑作は、暗黒街の窮地からもたらされました。'
     }
   },
 
@@ -227,7 +239,8 @@ export default [
       pl: 'Tajemniczy różowy miecz. Ryciny mówią, że "Mächtig Zerstörer".',
       ht: 'Misterye nepe woz. Gravure di "Mächtig Zerstörer".',
       it: 'Misteriosa spada rosa.  Incisioni di "Mächtig Zerstörer".',
-      cs: 'Tajemný růžový meč. Rytiny říkají "Mächtig Zerstörer".'
+      cs: 'Tajemný růžový meč. Rytiny říkají "Mächtig Zerstörer".',
+      ja: '不思議なピンクの刀彫刻は「MächtigZerstörer」と言います。'
     }
   },
 
@@ -245,7 +258,8 @@ export default [
       pl: 'Pożera żywą tkankę, która zagłębia się w gęste mięśnie bijącego serca przeciwnika.',
       ht: 'Devore tisi vivan jan li plonje fason li nan nan misk epè nan lènmi ou bat kè.',
       it: 'Divora il tessuto vivente mentre si insinua nel muscolo spesso dei tuoi nemici che battono il cuore.',
-      cs: 'Pohlcuje živou tkáň, když se vrhá do tlustého svalu vašich nepřátel, jak bije srdce.'
+      cs: 'Pohlcuje živou tkáň, když se vrhá do tlustého svalu vašich nepřátel, jak bije srdce.',
+      ja: 'それは心臓を鼓動させるあなたの敵の厚い筋肉にその道を突入するにつれて生きている組織を貪ります。'
     }
   },
 
@@ -263,7 +277,8 @@ export default [
       pl: 'Może ciąć demony, ale nie anioły.',
       ht: 'Li ka koupe move lespri yo, men se pa zanj Bondye.',
       it: 'Puo\' tagliare demoni, ma non angeli.',
-      cs: 'To může snížit démony, ale ne anděly.'
+      cs: 'To může snížit démony, ale ne anděly.',
+      ja: 'それは悪魔をカットすることができますが、天使はカットできません。'
     }
   },
 
@@ -281,7 +296,8 @@ export default [
       pl: 'Powiedziano nam, że został wycišgnięty z kamienia. Wciąż nie można znaleźć kamienia.',
       ht: 'Nou te di li te rale nan wòch. Toujou kapab jwenn wòch la.',
       it: 'Ci è stato detto che è stato estratto dalla pietra. Ancora non riesco a trovare la pietra.',
-      cs: 'Bylo nám řečeno, že to bylo vytaženo z kamene. Stále nemůžu najít kámen.'
+      cs: 'Bylo nám řečeno, že to bylo vytaženo z kamene. Stále nemůžu najít kámen.',
+      ja: 'それは石から引き出されたと言われました。それでも、その石を見つけることはできません。'
     }
   },
 
@@ -299,7 +315,8 @@ export default [
       pl: 'Ta broń powoduje nadejście nowej ery.',
       ht: 'Sa a zam pote sou vini nan yon nouvo laj.',
       it: 'Quest\'arma porta all\'avvento di una nuova era.',
-      cs: 'Tato zbraň přináší příchod nového věku.'
+      cs: 'Tato zbraň přináší příchod nového věku.',
+      ja: 'この武器は新しい時代の到来をもたらします。'
     }
   }
 
