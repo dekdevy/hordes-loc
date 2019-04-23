@@ -12,7 +12,8 @@ export default [
       pt: 'Pequeno e afiado, este pingente deixa marcas rasas na sua pele durante a batalha.',
       it: 'Piccolo e appuntito, questo ciondolo lascia dei graffi poco profondi sulla pelle durante la battaglia.',
       hi: 'छोटे और तेज, इस पेंडेंट लड़ाई के दौरान आपकी त्वचा पर उथले खरोंच छोड़ देता है।',
-      cs: 'Malý a ostrý, tento přívěsek zanechává mělké škrábance na kůži během bitvy.'
+      cs: 'Malý a ostrý, tento přívěsek zanechává mělké škrábance na kůži během bitvy.',
+      ja: '小さくて鋭いこのペンダントは戦いの間にあなたの肌に浅い擦り傷を残します。'
     }
   },
 
@@ -29,7 +30,8 @@ export default [
       pt: 'Pedra cinzenta em forma de disco rugoso com estranhas gravuras druídicas que a rodeiam',
       it: 'Pietra grigia a forma di disco grezzo con strane incisioni druidiche che lo avvolgono.',
       hi: 'किसी न किसी डिस्क के आकार अजीब ड्र्यूड नक्काशी उस पर घेर साथ भूरे पत्थर।',
-      cs: 'Hrubý šedý kámen ve tvaru disku s podivnými rytmickými druidickými rytinami, které ho obklopují.'
+      cs: 'Hrubý šedý kámen ve tvaru disku s podivnými rytmickými druidickými rytinami, které ho obklopují.',
+      ja: 'それを包んでいる奇妙なドルイドの彫刻が付いている粗い円盤形の灰色の石。'
     }
   },
 
@@ -46,7 +48,8 @@ export default [
       pt: 'Poderoso talismã de vidro transparente, o tingimento púrpura fraco mostra-lhe o mundo numa luz melancólica.',
       it: 'Potente talismano di vetro trasparente, dalla tenue tinta viola vi mostra il mondo in una luce malinconica.',
       hi: 'शक्तिशाली पारदर्शी कांच ताबीज, बेहोश बैंगनी रंग आप एक उदास रोशनी में दुनिया को दर्शाता है।',
-      cs: 'Silný transparentní skleněný talisman, slabý fialový odstín vám ukazuje svět v melancholickém světle.'
+      cs: 'Silný transparentní skleněný talisman, slabý fialový odstín vám ukazuje svět v melancholickém světle.',
+      ja: '強力な透明なガラス製のお守りのかすかな紫の色合いが憂鬱な光の中であなたに世界を見せています。'
     }
   },
 
@@ -63,7 +66,8 @@ export default [
       pt: 'Jóia marrom desaturada, emitindo cheiros fétidos ao usá-la ao redor do pescoço.',
       it: 'Una gemma marrone desatura, che emette profumi putridi quando la si indossa intorno al collo.',
       hi: 'ब्राउन मणि, सड़ा हुआ सुगंधों उत्सर्जन के रूप में आप इसे अपने गले में पहनते हैं।',
-      cs: 'Hnědý desaturovaný drahokam, vyzařující hnijící vůně, když ho nosíte kolem krku.'
+      cs: 'Hnědý desaturovaný drahokam, vyzařující hnijící vůně, když ho nosíte kolem krku.',
+      ja: '腐敗した香りを放つ茶色の彩度の低い宝石'
     }
   },
 
@@ -80,7 +84,8 @@ export default [
       pt: 'Artefacto azul lustroso, veias brancas expostas e esbranquiçadas ao longo da sua superfície esférica.',
       it: 'Lustrous artefatto blu brillante, esposte venature bianche e sottili che corrono lungo la sua superficie sferica.',
       hi: 'चमकदार नीली विरूपण साक्ष्य, सफेद नसों की उजागर कणों का अपनी गोलाकार सतह के साथ चल रहा है।',
-      cs: 'Lesklý modrý artefakt, odkryté chlupaté bílé žíly podél jeho kulového povrchu.'
+      cs: 'Lesklý modrý artefakt, odkryté chlupaté bílé žíly podél jeho kulového povrchu.',
+      ja: '光沢のある青いアーティファクトは、その球面に沿って走る白っぽく白い静脈を露出させました。'
     }
   },
 
@@ -97,7 +102,8 @@ export default [
       pt: 'Uma jóia radiante de vidro ticiano que revela os segredos escondidos dos teus inimigos.',
       it: 'Una radiosa gemma di vetro tiziano che rivela i segreti nascosti dei tuoi nemici.',
       hi: 'उज्ज्वल नारंगी कांच की तरह मणि अपने शत्रु के छिपे रहस्यों को प्रकट करती है।',
-      cs: 'Zářivý titánový skleněný drahokam, který odhaluje tvé nepřátele skrytá tajemství.'
+      cs: 'Zářivý titánový skleněný drahokam, který odhaluje tvé nepřátele skrytá tajemství.',
+      ja: 'あなたの敵に隠された秘密を明らかにした輝くティティアングラスのような宝石。'
     }
   },
 
@@ -114,7 +120,8 @@ export default [
       pt: 'Grande jóia vermelha encerrada em fissuras escuras no abismo, dando aos seus inimigos uma sensação de ciúmes',
       it: 'Grande gemma rossa racchiusa in fenditure scure dell\'abisso che dona ai tuoi nemici un senso di gelosia.',
       hi: 'ग्रैंड लाल मणि रसातल अंधेरे दरारों में संलग्न, अपने दुश्मनों को ईर्ष्या की भावना देने।',
-      cs: 'Velký červený drahokam uzavřený v propasti temných prasklin, které dávají nepřátelům pocit žárlivosti.'
+      cs: 'Velký červený drahokam uzavřený v propasti temných prasklin, které dávají nepřátelům pocit žárlivosti.',
+      ja: 'あなたの敵に嫉妬の感覚を与える深淵な暗い裂け目に囲まれた壮大な赤い宝石。'
     }
   },
 
@@ -131,7 +138,8 @@ export default [
       pt: 'As bordas verdes afiadas captam luz cintilante no sol, fazendo uma visão bela e mortal.',
       it: 'I taglienti bordi verdi catturano la luce scintillante al sole, rendendo la vista bella e mortale.',
       hi: 'तेज हरी किनारों धूप में स्पार्कलिंग प्रकाश को पकड़ने, एक सुंदर और घातक दृष्टि बना रही है।',
-      cs: 'Ostré zelené okraje zachycují na slunci zářivé světlo, které vytváří krásný a smrtící pohled.'
+      cs: 'Ostré zelené okraje zachycují na slunci zářivé světlo, které vytváří krásný a smrtící pohled.',
+      ja: '鋭い緑色の縁が太陽の下で輝く光を捉え、美しく致命的な光景を作ります。'
     }
   },
 
@@ -148,7 +156,8 @@ export default [
       pt: 'Pequena, suave e escura, esta jóia possui traços traiçoeiros enquanto escorrega das mãos dos que a empunham...',
       it: 'Piccola, liscia e scura, questa gemma possiede tratti infidi mentre scivola dalle mani dei suoi manipolatori...',
       hi: 'छोटे चिकनी और अंधेरे, इस मणि विश्वासघाती लक्षण पास के रूप में यह अपनी wielders हाथ से निकल जाता है ...',
-      cs: 'Malý, hladký a temný, tento drahokam má zrádné rysy, když se vyklouzne z rukou držitelů ...'
+      cs: 'Malý, hladký a temný, tento drahokam má zrádné rysy, když se vyklouzne z rukou držitelů ...',
+      ja: '小さくて滑らかで暗いこの宝石は、その手の手の手から外れると危険な特徴を持っています...'
     }
   },
 
@@ -165,7 +174,8 @@ export default [
       pt: 'Espectaculares plumas cor-de-rosa saturadas emergem desta gema prismática facetada. Os teus inimigos olham para ti com admiração...',
       it: 'Spettacolari pennacchi rosa saturi sorgono da questa gemma prismatica sfaccettata. I tuoi nemici a fissarti con stupore ...',
       hi: 'शानदार संतृप्त गुलाबी पंखों इस आयामी चश्मे मणि से वृद्धि। आपका शत्रु विस्मय के साथ आप के घूरने से ...',
-      cs: 'Z tohoto fasetového hranolového drahokamu vyčnívají velkolepé nasycené růžové švestky. Vaši nepřátelé na tebe zírají s úžasem ...'
+      cs: 'Z tohoto fasetového hranolového drahokamu vyčnívají velkolepé nasycené růžové švestky. Vaši nepřátelé na tebe zírají s úžasem ...',
+      ja: '壮観な飽和ピンクプルームは、このファセットプリズム宝石から発生します。あなたの敵は畏敬の念を持ってあなたを見つめています...'
     }
   },
 
@@ -182,7 +192,8 @@ export default [
       pt: 'Luzes verdes brilhantes ocasionalmente se estendem para fora desta jóia de vidro, projetando projeções de fundição do futuro dos usuários.',
       it: 'Le luci verdi brillanti di tanto in tanto si estendono da questa gemma di vetro, proiettando le proiezioni del futuro di chi la indossa.',
       hi: 'उज्ज्वल हरे रंग की रोशनी कभी-कभी इस कांच मणि से बाहर अवधि, कास्टिंग पहनने वालों के भविष्य के अनुमानों।',
-      cs: 'Z tohoto skleněného klenotu se občas rozprostírají jasně zelená světla.'
+      cs: 'Z tohoto skleněného klenotu se občas rozprostírají jasně zelená světla.',
+      ja: '鮮やかな緑色の光が時折着用者の将来のこのガラス宝石の鋳造物の投影から広がっています。'
     }
   }
 ]
