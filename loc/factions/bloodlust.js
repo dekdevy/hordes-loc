@@ -17,6 +17,7 @@ export default {
     it: 'L\'orda di Bloodlust stima la libertà e la lealtà, offre un posto per individualismo o persino caos. Le loro difese sono situate in un regno del deserto chiamato Headless Landing.',
     pl: 'Horda Bloodlust ceni sobie wolność i lojalność, oferuje miejsce dla indywidualizmu, a nawet chaosu. Ich obrona znajduje się w pustynnym królestwie zwanym Landingiem bez głowy.',
     ht: 'Branch fanmi an Bloodlust gen ladan valè a nan libète ak lwayote. Li ofri yon kote pou endividyalis e menm dezòd. Defans yo sitiye nan yon peyi dezè ki rele Landing.',
-    cs: 'Horda Bloodlust hodnotí svobodu a loajalitu, nabízí místo pro individualismus nebo dokonce chaos. Jejich Obrany jsou umístěny v pouštní říši nazvané Bezhlavý Přistání.'
+    cs: 'Horda Bloodlust hodnotí svobodu a loajalitu, nabízí místo pro individualismus nebo dokonce chaos. Jejich Obrany jsou umístěny v pouštní říši nazvané Bezhlavý Přistání.',
+    ja: 'ブラッドラストの大群は自由と忠誠心を重んじ、個人主義や混沌のための場所を提供します。彼らの防御は、ヘッドレスランディングと呼ばれる砂漠の王国にあります。'
   }
 }
