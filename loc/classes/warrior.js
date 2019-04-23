@@ -14,7 +14,8 @@ export default {
     nl: 'Krijger',
     it: 'Guerriero',
     ht: 'Gèrye',
-    pl: 'Wojownik'
+    pl: 'Wojownik',
+    cs: 'Bojovník'
   },
   // Class description, visible during character creation
   description: {
@@ -31,6 +32,7 @@ export default {
     tr: 'Savaçlılar güçlü defansif ekipmanları (Kalkanlar) ve defansif güçlendirmeleri ile canavarları diğer sınıflardan daha çok üstüne çeker.',
     it: ' I Guerrieri sono costruiti per accumulare più mostri di qualsiasi altra classe, avendo un&#39;alta difesa tramite equipaggiamento (Scudi) e forti abilità difensive.',
     ht: 'Gèrye yo bati kenbe tèt avè plis domaj pase tout lòt klas yo atravè defans segondè nan ekipman yo (Sköld) ak tan defans fò.',
-    pl: 'Wojownicy są w stanie walczyć z większą ilością potworów niż jakakolwiek inna klasa poprzez posiadanie wysokiego poziomu obrony dzięki wyposażeniu (tarcze) i silnych buforów obronnych.'
+    pl: 'Wojownicy są w stanie walczyć z większą ilością potworów niż jakakolwiek inna klasa poprzez posiadanie wysokiego poziomu obrony dzięki wyposażeniu (tarcze) i silnych buforów obronnych.',
+    cs: 'Bojovníci jsou stavěni k tanku více monster než nějaká jiná třída tím, že má vysokou obranu přes vybavení (Shields) a silné obranné nadšence.'
   }
 }
