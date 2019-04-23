@@ -13,7 +13,8 @@ export default [
       pl: 'Worek sztywny ze skrobią sprawia, że czujesz się brudny i rozczochrany.',
       it: 'Sacco rigido con amido che ti fa sentire sporco e spettinato.',
       ht: 'Sak rèd ak lanmidon fè ou santi ou sal ak dezord.',
-      tr: 'Bu çuvalla beraber insan kendini darmadağın ve saçma hissediyor.'
+      tr: 'Bu çuvalla beraber insan kendini darmadağın ve saçma hissediyor.',
+      cs: 'Pytel tuhý se škrobem, takže se cítíte špinavý a rozcuchaný.'
     }
   },
 
@@ -31,7 +32,8 @@ export default [
       pl: 'Skórzana koszula, wyblakła od zużycia.',
       it: 'Camicia in pelle, sbiadita dall\'usura.',
       ht: 'Chemiz kwi, ta vle chanje koulè soti nan mete ak chire.',
-      tr: 'Aşınma ve yıpranma nedeniyle solmuş deri gömlek.'
+      tr: 'Aşınma ve yıpranma nedeniyle solmuş deri gömlek.',
+      cs: 'Kožená košile, vybledlá od opotřebení.'
     }
   },
 
@@ -49,7 +51,8 @@ export default [
       pl: 'Knobbly soft iron tunika, przekazywana od wielu pokoleń poszukiwaczy przygód przechodzących przez te ziemie.',
       it: 'Una sapiente tunica in ferro dolce, tramandata da molte generazioni di avventurieri che hanno attraversato queste terre.',
       ht: 'Tunik manchbly fè, pase nan anpil jenerasyon nan avanturyé pase sou tè sa yo.',
-      tr: 'Topuzlu yumuşak demir tunik, bu toprakların üzerinden geçen birçok maceracıdan günümüze kadar geldi..'
+      tr: 'Topuzlu yumuşak demir tunik, bu toprakların üzerinden geçen birçok maceracıdan günümüze kadar geldi.',
+      cs: 'Rázně měkká železná tunika, předaná z mnoha generací dobrodruhů, kteří jdou přes tyto země.'
     }
   },
 
@@ -67,7 +70,8 @@ export default [
       pl: 'Ten materiał to niewiele, ale może zatrzymać strzałę lub dwie.',
       it: 'Questo tessuto non è molto, ma potrebbe fermare una o due frecce.',
       ht: 'Sa a twal se pa anpil, men li ta ka sispann yon flèch oswa de.',
-      tr: 'Bir kumaştan fazlası değil, belki bir iki ok durdurabilir.'
+      tr: 'Bir kumaştan fazlası değil, belki bir iki ok durdurabilir.',
+      cs: 'Tato tkanina není moc, ale mohla by zastavit šíp nebo dvě.'
     }
   },
 
@@ -85,7 +89,8 @@ export default [
       pl: 'Twardy garnitur wykonany ze skal wziętych od potężnego smoka, który kiedyś poruszał się po tych ziemiach.',
       it: 'Tuta rigida fatta di bilance prese da un potente drago che una volta vagando per queste terre.',
       ht: 'Kostim difisil te fè soti nan kal pwason sot pran nan yon dragon vanyan sòlda ki yon fwa ere tè sa yo.',
-      tr: 'Bir zamanlar bu topraklarda dolaşan güçlü bir ejderhadan alınan pullarla yapılmış sert bir elbise.'
+      tr: 'Bir zamanlar bu topraklarda dolaşan güçlü bir ejderhadan alınan pullarla yapılmış sert bir elbise.',
+      cs: 'Tvrdý oblek vyrobený z šupin odebraných z mocného draka, který se kdysi potuloval po těchto zemích.'
     }
   },
 
@@ -100,10 +105,11 @@ export default [
       pt: 'Os rumores dizem que é feito de nuvens...',
       nl: 'Geruchten zeggen dat het gemaakt is van wolken... ',
       hi: 'अफवाहें इसकी बादलों से बना कहते हैं ...',
-      pl: 'Plotki mówią, że zrobione z chmur....',
-      it: 'Voci dicono che è fatto di nuvole.....',
+      pl: 'Plotki mówią, że zrobione z chmur...',
+      it: 'Voci dicono che è fatto di nuvole...',
       ht: 'Rimè di ke li te fè soti nan nyaj...',
-      tr: 'Buluttan yapıldığına dair dedikodular var...'
+      tr: 'Buluttan yapıldığına dair dedikodular var...',
+      cs: 'Pověsti říkají, že jsou vyrobeny z mraků ...,'
 
     }
   },
@@ -122,7 +128,8 @@ export default [
       pl: 'Użytkownik ładnie wtapia się w cienie.... albo tak myślą złodzieje.',
       it: 'Chi lo indossa si fonde bene con le ombre...... o così pensano i ladri.',
       ht: 'Utilisateurs la melanje nan joliman ak lonbraj yo ... oswa konsa ansasen yo panse.',
-      tr: 'Kullanıcı gölgelerle güzelce karışır ... ya da hırsızlar öyle sanıyor.'
+      tr: 'Kullanıcı gölgelerle güzelce karışır ... ya da hırsızlar öyle sanıyor.',
+      cs: 'Nositelka se pěkně mísí se stíny ... nebo tak si zloději myslí.'
     }
   },
 
@@ -140,7 +147,8 @@ export default [
       pl: 'Wykute przez nieznanych magów, nosisz głęboką, ciemną i potężną płytę piersiową.',
       it: 'Forgiato da maghi sconosciuti, si indossa un profondo, scuro e potente pettorale.',
       ht: 'Fòje pa majisyen unknown, ou mete yon gwo twou san fon, piyè pwatrin nwa ak pwisan.',
-      tr: 'Bilinmeyen bir büyücü tarafından dövülmüş. Derin karanlık ve güçlü bir zırh.'
+      tr: 'Bilinmeyen bir büyücü tarafından dövülmüş. Derin karanlık ve güçlü bir zırh.',
+      cs: 'Kované neznámými kouzelníky, nosíte hluboký, temný a silný hrudník.'
     }
   },
 
@@ -158,7 +166,8 @@ export default [
       pl: 'Wykute z głębi piekła, zapewnia ochronę twojemu słabemu, mięsistemu ciału.',
       it: 'Forgiato dalle profondità dell\'inferno, fornisce protezione al tuo corpo debole e carnoso.',
       ht: 'Fòje soti nan fon lanmè a nan lanfè, li bay pwoteksyon pou fèb ou, kò charnèl.',
-      tr: 'Cehennemin derinliklerinde dövülmüş, zayıf etli vücüduna koruma sağlar.'
+      tr: 'Cehennemin derinliklerinde dövülmüş, zayıf etli vücüduna koruma sağlar.',
+      cs: 'Kované z hlubin pekla poskytují ochranu pro vaše slabé, masité tělo.'
     }
   },
 
@@ -176,7 +185,8 @@ export default [
       pl: 'Kiedy wrogowie są zabijani, ich dusze są dodawane do kolekcji władcy.',
       it: 'Quando i nemici vengono uccisi, le loro anime vengono aggiunte alla collezione del detenuto.',
       ht: 'Lè lènmi yo te mouri, nanm yo te ajoute nan koleksyon wielder la.',
-      tr: 'Düşmanlar katledildiğinde, ruhlarını koleksiyonuna ekler.'
+      tr: 'Düşmanlar katledildiğinde, ruhlarını koleksiyonuna ekler.',
+      cs: 'Když jsou nepřátelé zabiti, jejich duše jsou přidány do sbírky držitele.'
     }
   },
 
@@ -194,7 +204,8 @@ export default [
       pl: 'Plotki mówią, że noszący jest nieśmiertelny. Niestety ta zbroja znajduje się tylko na zwłokach zabitych.',
       it: 'Si dice che chi lo indossa è immortale. Purtroppo questa armatura si trova solo sui cadaveri degli uccisi.',
       ht: 'Rimè ki di ke moun nan se imòtèl. Malerezman zam sa a ka jwenn sèlman sou kadav moun ki mouri yo.',
-      tr: 'Dedikodulara göre bunu giyen ölümsüzmüş. Ne yazık ki bu zırh sadece öldürülen cesetlerinde bulunabilir.'
+      tr: 'Dedikodulara göre bunu giyen ölümsüzmüş. Ne yazık ki bu zırh sadece öldürülen cesetlerinde bulunabilir.',
+      cs: 'Pověsti říkají, že nositel je nesmrtelný. Bohužel toto brnění lze nalézt pouze na mrtvolách zabitých.'
     }
   }
 

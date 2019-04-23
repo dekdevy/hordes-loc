@@ -69,7 +69,9 @@ export default {
     es: '$1 te ha invitado a juntar a su Party.',
     nl: '$1 heeft je uitgenodigd vergezel hun party.',
     tr: '$1 seni partysine davet etti.',
-    it: '$1 ti ha invitato a unirti alla loro festa.'
+    it: '$1 ti ha invitato a unirti alla loro festa.',
+    pt: 'O $1 convidou-te para te juntares à festa deles.',
+    pl: '$1 zaprosiło cię do przyłączenia się do ich partii.'
   },
 
   // members, as in "12 members in party"
@@ -96,7 +98,9 @@ export default {
     ru: 'Пригласительная ссылка',
     nl: 'Uitnodigingslink',
     es: 'Invitación enlace',
-    tr: 'Davet linki'
+    tr: 'Davet linki',
+    pt: 'Link para o convite',
+    pl: 'Zaproszenie do składania wniosków'
   },
 
   onLink: {
@@ -125,6 +129,8 @@ export default {
     fr: 'Copier dans le presse',
     tr: 'Bağlantıyı kopyala',
     nl: 'Kopieer naar klembord',
-    it: 'Copia negli Appunti'
+    it: 'Copia negli Appunti',
+    pt: 'Copiar para Área de transferência',
+    pl: 'Skopiować do schowka. '
   }
 }
