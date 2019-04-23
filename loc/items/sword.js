@@ -222,16 +222,16 @@ export default [
     name       : {$$: 'Hearteater' },
     description: {
       en: 'Devours living tissue as it plunges its way into the thick muscle of your foes beating heart.',
-      ru: 'Разрезает сердца ваших врагов. Eст их по дороге.',
-      es: 'Corazón, un parte de un desayuno completo.',
-      de: 'Schneidet die Herzen eurer Feinde durch. Frisst sie auf dem Weg.',
-      fr: 'Elle tranche le cœur de vos ennemis et les déguste en chemin.',
-      hi: 'दशनमों के दिलों को चीर कर खा जाती है।',
-      pt: 'Corta os corações dos teus inimigos. Come-os no caminho.',
-      nl: 'Snijdt door de harten van je vijanden heen. Eet ze onderweg op.',
-      pl: 'Cięcie w sercach wrogów. Zjada je po drodze.',
-      ht: 'Koupe nan kè lènmi ou yo. Manje yo sou wout la.',
-      it: ''
+      ru: 'Пожирает живую ткань, проникая через бьющийся серта ваших врагов',
+      es: 'Devora el tejido vivo a medida que se adentra en el grueso músculo del corazón de tus enemigos.',
+      de: 'Verschlingt lebendes Gewebe, während es sich in den dicken Muskel deiner Feinde stürzt und das Herz schlägt.',
+      fr: 'Dévorent les tissus vivants alors qu\'ils plongent dans le muscle épais du cœur battant de vos ennemis.',
+      hi: 'जीवित ऊतक के रूप में यह आपके शत्रु दिल की धड़कन की मोटी मांसपेशियों में अपना रास्ता खोदता है निगल।',
+      pt: 'Devora o tecido vivo à medida que mergulha no músculo espesso dos seus inimigos que batem no coração.',
+      nl: 'Verslindt levend weefsel als het zich een weg stort in de dikke spier van het kloppend hart van je vijanden.',
+      pl: 'Pożera żywą tkankę, która zagłębia się w gęste mięśnie bijącego serca przeciwnika.',
+      ht: 'Devore tisi vivan jan li plonje fason li nan nan misk epè nan lènmi ou bat kè.',
+      it: 'Divora il tessuto vivente mentre si insinua nel muscolo spesso dei tuoi nemici che battono il cuore.'
     }
   },
 
@@ -248,7 +248,7 @@ export default [
       nl: 'Het kan demonen snijden, maar geen engelen.',
       pl: 'Może ciąć demony, ale nie anioły.',
       ht: 'Li ka koupe move lespri yo, men se pa zanj Bondye.',
-      it: ''
+      it: 'Puo\' tagliare demoni, ma non angeli.'
     }
   },
 
@@ -265,7 +265,7 @@ export default [
       nl: 'Ons werd verteld dat het uit steen werd getrokken. Kan de steen nog steeds niet vinden.',
       pl: 'Powiedziano nam, że został wycišgnięty z kamienia. Wciąż nie można znaleźć kamienia.',
       ht: 'Nou te di li te rale nan wòch. Toujou kapab jwenn wòch la.',
-      it: ''
+      it: 'Ci è stato detto che è stato estratto dalla pietra. Ancora non riesco a trovare la pietra.'
     }
   },
 
@@ -282,7 +282,7 @@ export default [
       nl: 'Dit wapen brengt de komst van een nieuw tijdperk met zich mee.',
       pl: 'Ta broń powoduje nadejście nowej ery.',
       ht: 'Sa a zam pote sou vini nan yon nouvo laj.',
-      it: ''
+      it: 'Quest\'arma porta all\'avvento di una nuova era.'
     }
   }
 
