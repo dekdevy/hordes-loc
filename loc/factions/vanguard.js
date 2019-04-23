@@ -17,6 +17,7 @@ export default {
     tr: 'Vanguard sürüsü, toplumda gelenek, yapı ve düzeni arar. Kaleleri, Muhafız Taşı çevresindeki yemyeşil bir alanda bulunur.',
     it: 'L\'orda di avanguardia cerca la tradizione, la struttura e l\'ordine nella società. Il loro castello può essere trovato in un\'area verde fertile intorno a Guardstone.',
     ht: 'Vanguard chèche tradisyon, estrikti ak lòd nan sosyete a. Ka chato yo ka jwenn nan yon zòn bèl vèt alantou Guardstone.',
-    pl: 'Horde Vanguard seeks tradition, structure and order in society. Their castle is located in the lush greenery around Guardstone.'
+    pl: 'Horde Vanguard seeks tradition, structure and order in society. Their castle is located in the lush greenery around Guardstone.',
+    cs: 'Vanguardská horda hledá tradici, strukturu a pořádek ve společnosti. Jejich hrad se nachází v bujné zelené oblasti kolem Guardstone.'
   }
 }
