@@ -96,7 +96,8 @@ export default {
     ru: 'Пригласительная ссылка',
     nl: 'Uitnodigingslink',
     es: 'Invitación enlace',
-    tr: 'Davet linki'
+    tr: 'Davet linki',
+    pt: 'Link para o convite'
   },
 
   onLink: {
@@ -125,6 +126,7 @@ export default {
     fr: 'Copier dans le presse',
     tr: 'Bağlantıyı kopyala',
     nl: 'Kopieer naar klembord',
-    it: 'Copia negli Appunti'
+    it: 'Copia negli Appunti',
+    pt: 'Copiar para Área de transferência'
   }
 }
