@@ -51,7 +51,7 @@ export default {
     ht: 'Aksepte',
     ko: '동의',
     it: 'Accettare'
- 
+
   },
 
   decline: {
