@@ -13,7 +13,8 @@ export default {
     pt: 'Está bem.',    // TODO: shorten, no puncts
     pl: 'Dobrze.',      // TODO: shorten
     ht: 'Dakò',
-    ko: '오케이'
+    ko: '오케이',
+    it: 'Okay'
   },
 
   back: {
@@ -29,7 +30,8 @@ export default {
     pt: 'Voltar',
     pl: 'Popierać',  // TODO: shorten
     ht: 'Retounen',  // TODO: shorten
-    ko: '뒤로가기'    // TODO: shorten ?
+    ko: '뒤로가기',   // TODO: shorten ?
+    it: 'Dietro'
   },
 
   accept: {
@@ -45,7 +47,8 @@ export default {
     pt: 'Aceitar',
     pl: 'Zaakceptować',
     ht: 'Aksepte',
-    ko: '동의'
+    ko: '동의',
+    it: 'Accettare'
   },
 
   decline: {
@@ -61,7 +64,8 @@ export default {
     pt: 'Declínio',
     pl: 'Upadek',
     ht: 'Refize',
-    ko: '쇠퇴'
+    ko: '쇠퇴',
+    it: 'Diminuzione'
   },
 
   close: {
@@ -77,6 +81,7 @@ export default {
     pt: 'Perto',
     pl: 'Blisko',
     ht: 'Close',
-    ko: '닫기'
+    ko: '닫기',
+    it: 'Chiudi'
   }
 }
