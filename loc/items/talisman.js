@@ -147,8 +147,7 @@ export default [
       pl: 'Zaskakujšco, nie pachnie jak ryba. Po prostu nie pokazuj jej słodkiej wody.',
       nl: 'Verrassend genoeg ruikt het niet naar vis. Laat het gewoon niet zoetwater zien.',
       cs: 'Překvapivě to necítí jako ryby. Jen to neukazuj sladkovodní.',
-      ja: '驚いたことにそれは魚のような匂いはしません。淡水を見せないでください。',
-      hi: 'हैरानी की बात है, यह मछली की तरह गंध नहीं करता है। बस इसे ताजे पानी नहीं दिखाते।'
+      ja: '驚いたことにそれは魚のような匂いはしません。淡水を見せないでください。'
     }
   },
 
