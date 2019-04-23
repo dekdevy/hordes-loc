@@ -13,7 +13,8 @@ export default [
       tr: 'En azından ayağına bir şeyler giyiyorsun.',
       pl: 'Przynajmniej nosisz coś na tych stopach.',
       sv: 'Åtminstone bär du något på dessa fötter.',
-      ht: 'Omwen wap mete yon bagay sou pye sa yo.'
+      ht: 'Omwen wap mete yon bagay sou pye sa yo.',
+      cs: 'Přinejmenším máš na těch nohách něco.'
     }
   },
 
@@ -31,7 +32,8 @@ export default [
       tr: 'Kumaştan yapılmış tabanlar, birkaç saat sonra muhtemelen yırtılacak.',
       pl: 'Podeszwy wykonane z tkaniny, prawdopodobnie rozerwą się po kilku godzinach.',
       sv: 'Soles gjorda av tyg, kommer troligen att riva efter några timmar.',
-      ht: 'Plant te fè soti nan twal, pwal pwobableman detache apre kèk èdtan.'
+      ht: 'Plant te fè soti nan twal, pwal pwobableman detache apre kèk èdtan.',
+      cs: 'Podešve vyrobené z látky se po několika hodinách pravděpodobně roztrhnou.'
     }
   },
 
@@ -49,7 +51,8 @@ export default [
       tr: 'Bu yumuşak derinin, ürkütücü ormanda dolaşan yaban domuzlarından sıyrıldığı söylenir.',
       pl: 'Mówi się, że miękka skóra jest rozebrana z dzika wędrującego po przerażających lasach.',
       sv: 'Det mjuka läderet sägs vara avskilt från vildsvin som roaming de kusliga skogen.',
-      ht: 'li te di kwi mou yo dwe wete nan sangliye sovaj vagan bwa yo etranj.'
+      ht: 'li te di kwi mou yo dwe wete nan sangliye sovaj vagan bwa yo etranj.',
+      cs: 'Říká se, že měkká kůže je zbavena divokých prasat roamingu děsivých lesů.'
     }
   },
 
@@ -67,7 +70,8 @@ export default [
       tr: 'Hayal gücünden yoksun olduğu aşikar olan usta, çok büyük bir yaratığın kemiklerinden botlar yaptı...',
       pl: 'Wyraźnie pozbawiony wyobraźni, twórca wykonał buty z kości bardzo dużego stworzenia...',
       sv: 'Klart saknar fantasi gjorde tillverkaren stövlar från benen i en väldigt stor varelse ...',
-      ht: 'Klèman manke nan imajinasyon, Maker la te fè bòt soti nan zo yo nan yon bèt gwo anpil ...'
+      ht: 'Klèman manke nan imajinasyon, Maker la te fè bòt soti nan zo yo nan yon bèt gwo anpil ...',
+      cs: 'Jasně chybí představivost a vyrábí boty z kostí velkého stvoření ...'
     }
   },
 
@@ -85,7 +89,8 @@ export default [
       tr: 'Gizemli pullar, ayakkabınızın dışını örterek güneşte göz kamaştırıyor.',
       pl: 'The mysterious scale covers the outside of the shoe, capturing reflections in the sun.',
       sv: 'Mystiska vågar täcker utsidan av dina skor, fångar glares i solen.',
-      ht: 'Balans misterye kouvri deyò a nan soulye ou a, pwan fikse nan solèy la.'
+      ht: 'Balans misterye kouvri deyò a nan soulye ou a, pwan fikse nan solèy la.',
+      cs: 'Tajemství váhy pokrývají vnější stranu vaší obuvi, chytí do očí slunce.'
     }
   },
 
@@ -103,7 +108,8 @@ export default [
       tr: 'Düşmanlarınızı felç etmek için yapılan hoş bir desen... işe yarayıp yaramadığını merak konusu.',
       pl: 'Przyjemny wzór stworzony w celu sparaliżowania twoich wrogów... zastanawiam się, czy działa...',
       sv: 'Ett trevligt mönster för att förlamna dina fiender ... undrar om det fungerar.',
-      ht: 'Yon modèl bèl te fè nan paralize lènmi ou... mande si li fonksyone.'
+      ht: 'Yon modèl bèl te fè nan paralize lènmi ou... mande si li fonksyone.',
+      cs: ''
     }
   },
 
@@ -121,7 +127,8 @@ export default [
       tr: 'Dizçekleri yeterince korunaklı bulmayan savaş gazilerinden alınmış.',
       pl: 'Odebrane od weteranów wojennych, którzy najwyraźniej nie znaleźli wystarczającej ochrony przed tymi skwarkami.',
       sv: 'Hämtad från krigsveteraner som helt klart inte hitta tillräckligt med skydd från dessa greaves.',
-      ht: 'Pran nan men veteran lagè ki klèman pa jwenn ase pwoteksyon soti nan greaves sa yo.'
+      ht: 'Pran nan men veteran lagè ki klèman pa jwenn ase pwoteksyon soti nan greaves sa yo.',
+      cs: 'Odvedeni od válečných veteránů, kteří zjevně nenalezli dostatečnou ochranu před těmito škvarky.'
     }
   },
 
@@ -139,7 +146,8 @@ export default [
       tr: 'Görünüşünde tıknaz, muhtemelen çok rahatsız edici.',
       pl: 'W swoim wyglądzie, prawdopodobnie bardzo niewygodny.',
       sv: 'Chunky i sitt utseende, förmodligen mycket obekväma.',
-      ht: 'Chunky nan sanble li yo, pwobableman trè alèz.'
+      ht: 'Chunky nan sanble li yo, pwobableman trè alèz.',
+      cs: 'Chunky v jeho vzhledu, pravděpodobně velmi nepříjemné.'
     }
   },
 
@@ -157,7 +165,8 @@ export default [
       tr: 'Rüzgar kadar hızlı koş... veya meltem kadar da olabilir.',
       pl: 'Biegnij tak szybko jak wiatr.... lub blisko niego.',
       sv: 'Kör så fort som vinden ... eller nära den.',
-      ht: 'Kouri vit tankou van an ... oswa tou pre li.'
+      ht: 'Kouri vit tankou van an ... oswa tou pre li.',
+      cs: 'Jdi tak rychle jako vítr ... nebo blízko k němu.'
     }
   },
 
@@ -174,7 +183,8 @@ export default [
       nl: 'Gesmeed zonder warmte, loopt zonder struikelen.',
       tr: 'Isı olmadan dövülmüş, takır takır çalışır.',
       pl: 'Kute bez ciepła, pracuje bez potknięcia się.',
-      sv: 'Smidd utan värme, löper utan att snubbla.'
+      sv: 'Smidd utan värme, löper utan att snubbla.',
+      cs: 'Kované bez tepla, běží bez klopýtnutí.'
     }
   },
 
@@ -191,7 +201,8 @@ export default [
       nl: 'Sommigen zeggen dat je hiermee op wolken kunt lopen. De weinigen die het geprobeerd hebben zijn al opgestegen.',
       tr: 'İnsanlar bunlarla bulutların üzerinde koşabileceğinizi söylüyor. Denemiş olan birkaç kişi çoktan atmosfere ulaştı bile.',
       pl: 'Niektórzy mówią, że możesz biegać z nimi po chmurach. Nieliczni, którzy próbowali, już się podnieśli.',
-      sv: 'Vissa säger att du kan springa på moln med dessa. De få som har försökt har redan stigit upp.'
+      sv: 'Vissa säger att du kan springa på moln med dessa. De få som har försökt har redan stigit upp.',
+      cs: 'Někteří říkají, že s nimi můžete běžet na mraky. Těch několik, kteří se už pokusili vystoupit.'
     }
   },
 
@@ -208,7 +219,8 @@ export default [
       nl: 'Eeuwenoude laarzen, waarvan wordt beweerd dat ze gestolen zijn uit de voeten van de Romeinse boodschappergod....',
       tr: 'Roma haber tanrısının ayaklarından çalındığı söylenen eski çizmeler...',
       pl: 'Starożytne buty, które podobno zostały skradzione z nóg posłańca rzymskich bogów...',
-      sv: 'Gamla stövlar ryktes för att bli stulna från fötterna till den romerska budbärarens gud ...'
+      sv: 'Gamla stövlar ryktes för att bli stulna från fötterna till den romerska budbärarens gud ...',
+      cs: 'Starověké boty, o nichž se říkalo, že jsou ukradeny z nohou římského posla boha ...'
     }
   },
 
@@ -225,7 +237,8 @@ export default [
       nl: 'Sterren werden altijd beschouwd als almachtig, nu zijn ze van jou.',
       tr: 'Yıldızlar her zaman kudretli olarak kabul edildi, şimdi onlar senin.',
       pl: 'Gwiazdy zawsze uważano za wszechmocne, teraz są twoje.',
-      sv: 'Stjärnor anses alltid vara allsmäktiga, nu är de din.'
+      sv: 'Stjärnor anses alltid vara allsmäktiga, nu är de din.',
+      cs: 'Hvězdy byly vždy považovány za všemohoucího, teď jsou vaše.'
     }
   }
 
