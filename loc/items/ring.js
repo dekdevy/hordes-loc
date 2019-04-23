@@ -11,7 +11,8 @@ export default [
       pt: 'Não olhes para ele ou vai desmoronar-se.',
       nl: 'Kijk er niet naar, anders valt het uit elkaar.',
       pl: 'Nie patrz na to, bo się rozpadnie.',
-      it: 'Non guardarlo o cadrà a pezzi.'
+      it: 'Non guardarlo o cadrà a pezzi.',
+      cs: 'Nedívej se na to, nebo se rozpadne.'
     }
   },
 
@@ -27,7 +28,8 @@ export default [
       pt: 'Não tenho a certeza sobre a casca, mas é definitivamente feita de ferro.',
       nl: 'Niet zeker van de schors, maar het is zeker van ijzer.',
       pl: 'Nie jestem pewien co do kory, ale na pewno jest zrobiona z żelaza.',
-      it: 'Non sono sicuro della corteccia, ma è sicuramente di ferro.'
+      it: 'Non sono sicuro della corteccia, ma è sicuramente di ferro.',
+      cs: 'Nejste si jisti o kůře, ale rozhodně ze železa.'
     }
   },
 
@@ -43,7 +45,8 @@ export default [
       pt: 'Finalmente, um anel que é brilhante.',
       nl: 'Eindelijk, een ring die glanst.',
       pl: 'W końcu pierścionek, który jest błyszczący.',
-      it: 'Finalmente, un anello che è lucido.'
+      it: 'Finalmente, un anello che è lucido.',
+      cs: 'Konečně, prsten, který je lesklý.'
     }
   },
 
@@ -59,7 +62,8 @@ export default [
       pt: 'Um anel feito dos restos da noite passada.',
       nl: 'Een ring gemaakt van de restjes van gisteravond.',
       pl: 'Pierścionek wykonany z resztek z ostatniej nocy.',
-      it: 'Un anello fatto con gli avanzi di ieri sera.'
+      it: 'Un anello fatto con gli avanzi di ieri sera.',
+      cs: 'Prsten ze zbytků minulé noci.'
     }
   },
 
@@ -75,7 +79,8 @@ export default [
       pt: 'Os elfos fizeram este anel para se protegerem do perigo e conseguiram entregá-lo.',
       nl: 'De elfen maakten deze ring om zich te beschermen tegen gevaar en slaagden erin deze weg te geven.',
       pl: 'Elfy stworzyły ten pierścień, aby chronić się przed niebezpieczeństwem i udało im się go oddać.',
-      it: 'Gli elfi fecero questo anello per proteggersi dal pericolo e riuscirono a regalarlo.'
+      it: 'Gli elfi fecero questo anello per proteggersi dal pericolo e riuscirono a regalarlo.',
+      cs: 'Elfové tento prsten vyzbrojili, aby se chránili před nebezpečím a podařilo se mu to vzdát.'
     }
   },
 
@@ -91,7 +96,8 @@ export default [
       pt: 'Adapta-se muito bem, embora os efeitos que dá sejam marginais.',
       nl: 'Past mooi, maar de effecten zijn marginaal.',
       pl: 'Pasuje ładnie, chociaż efekty, jakie daje, są marginalne.',
-      it: 'Si adatta bene, anche se gli effetti che dà sono marginali.'
+      it: 'Si adatta bene, anche se gli effetti che dà sono marginali.',
+      cs: 'Dobře padne, i když účinky, které dává, jsou okrajové.'
     }
   },
 
@@ -107,7 +113,8 @@ export default [
       pt: 'Ninguém sabe se vale a pena vestir.',
       nl: 'Niemand weet of het de moeite waard is om aan te trekken.',
       pl: 'Nikt nie wie, czy warto to założyć.',
-      it: 'Nessuno sa se vale la pena di indossarlo.'
+      it: 'Nessuno sa se vale la pena di indossarlo.',
+      cs: 'Nikdo neví, jestli to stojí za to.'
     }
   },
 
@@ -123,7 +130,8 @@ export default [
       pt: 'Esmeraldas de todos os lados para te fazer sentir rico.',
       nl: 'Smaragden aan alle kanten om je rijk te laten voelen.',
       pl: 'Szmaragdy po wszystkich stronach, żebyś poczuł się bogaty.',
-      it: 'Nessuno sa se vale la pena di indossarlo.'
+      it: 'Nessuno sa se vale la pena di indossarlo.',
+      cs: 'Smaragdy ze všech stran, abys se cítil bohatý.'
     }
   },
 
@@ -139,23 +147,25 @@ export default [
       pt: 'Se pudesse falar, provavelmente queixar-se-ia de ser triangular.',
       nl: 'Als het kon spreken, zou het waarschijnlijk klagen over het feit dat het driehoekig is.',
       pl: 'Gdyby mógł mówić, prawdopodobnie skarżyłby się na bycie trójkątnym.',
-      it: 'Se potesse parlare, probabilmente si lamenterebbe di essere triangolare.'
+      it: 'Se potesse parlare, probabilmente si lamenterebbe di essere triangolare.',
+      cs: 'Kdyby mohla mluvit, pravděpodobně by si stěžovala na to, že je trojúhelníková.'
     }
   },
 
   {
     name       : {$$: 'Ancient Talisman' },
     description: {
-      en: 'No written records exist to tell us about its origin....',
-      ru: 'Не существует никаких письменных отчетов о его происхождении ....',
-      es: 'No existen registros escritos que nos indiquen su origen....',
-      de: 'Es gibt keine schriftlichen Aufzeichnungen, um uns über die Herkunft zu informieren....',
-      fr: 'Il n\'existe aucune trace écrite de son origine....',
+      en: 'No written records exist to tell us about its origin...',
+      ru: 'Не существует никаких письменных отчетов о его происхождении ...',
+      es: 'No existen registros escritos que nos indiquen su origen...',
+      de: 'Es gibt keine schriftlichen Aufzeichnungen, um uns über die Herkunft zu informieren...',
+      fr: 'Il n\'existe aucune trace écrite de son origine...',
       hi: 'इसके बारे में कोई जानकारी उपलब्ध नहीं है।',
       pt: 'Não existem registos escritos que nos falem da sua origem...',
-      nl: 'Er bestaan geen schriftelijke gegevens om ons te vertellen over de oorsprong ervan.......',
-      pl: 'Nie ma żadnych pisemnych zapisów, które powiedziałyby nam o jego pochodzeniu.....',
-      it: 'Non esistono documenti scritti che ci dicono la sua origine........'
+      nl: 'Er bestaan geen schriftelijke gegevens om ons te vertellen over de oorsprong ervan...',
+      pl: 'Nie ma żadnych pisemnych zapisów, które powiedziałyby nam o jego pochodzeniu...',
+      it: 'Non esistono documenti scritti che ci dicono la sua origine...',
+      cs: 'Neexistují žádné písemné záznamy, které by nám sdělily svůj původ ...'
     }
   },
 
@@ -171,23 +181,25 @@ export default [
       pt: 'Artefacto sagrado perdido pelos druidas sagrados.',
       nl: 'Heilig artefact verloren door heilige druïden.',
       pl: 'Święty artefakt utracony przez świętych druidów.',
-      it: 'Artefatto sacro perso dai santi druidi.'
+      it: 'Artefatto sacro perso dai santi druidi.',
+      cs: 'Posvátný artefakt ztracený svatými druidy.'
     }
   },
 
   {
     name       : {$$: 'Peacekeeper' },
     description: {
-      en: 'Keeper of peace....not sure about that, but it might keep you alive....',
-      ru: 'Хранитель мира .... не уверен в этом, но оно может помочь остаться в живых ....',
-      es: 'Guardián de la paz.... no estoy seguro de eso, pero podría mantenerte vivo.',
-      de: 'Hüter des Friedens.... nicht sicher, aber vielleicht hält dich das am Leben.',
-      hi: 'शांति की रखवाली....इसकी गैरंटी तो नहीं, पर आपको ज़िंदा रख पाएगी शायद....',
-      fr: 'Gardien de la paix.... pas sûr de cela, mais elle saura vous garder en vie.',
+      en: 'Keeper of peace...not sure about that, but it might keep you alive...',
+      ru: 'Хранитель мира... не уверен в этом, но оно может помочь остаться в живых...',
+      es: 'Guardián de la paz... no estoy seguro de eso, pero podría mantenerte vivo.',
+      de: 'Hüter des Friedens... nicht sicher, aber vielleicht hält dich das am Leben.',
+      hi: 'शांति की रखवाली...इसकी गैरंटी तो नहीं, पर आपको ज़िंदा रख पाएगी शायद....',
+      fr: 'Gardien de la paix... pas sûr de cela, mais elle saura vous garder en vie.',
       pt: 'Guardião da paz... não tenho a certeza disso, mas pode mantê-lo vivo...',
-      nl: 'Bewaarder van de vrede.....niet zeker, maar het kan je in leven houden......',
-      pl: 'Strażnik spokoju....nie jestem tego pewien, ale może to utrzyma cię przy życiu.....',
-      it: 'Custode di pace.....non ne sono sicuro, ma potrebbe tenervi in vita........'
+      nl: 'Bewaarder van de vrede....niet zeker, maar het kan je in leven houden...',
+      pl: 'Strażnik spokoju...nie jestem tego pewien, ale może to utrzyma cię przy życiu...',
+      it: 'Custode di pace...non ne sono sicuro, ma potrebbe tenervi in vita...',
+      cs: 'Strážce míru ... není si tím jistý, ale může vás udržet naživu.'
     }
   }
 
