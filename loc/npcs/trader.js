@@ -12,7 +12,8 @@ export default {
       pl: 'Pozdrowienia dla wędrownych podróżników! Chcesz coś sprzedać??',
       nl: 'Gegroet zwervende reiziger! Wilt u iets verkopen?',
       pt: 'Saudações, viajante errante! Gostaria de vender alguma coisa?',
-      cs: 'Pozdravy putování cestovatel!  Chcete něco prodat?'
+      cs: 'Pozdravy putování cestovatel!  Chcete něco prodat?',
+      ja: '旅人をさまよう挨拶！何か売りたいですか？'
     },
     choices: {
       en: 'Yes, of course.',
@@ -25,7 +26,8 @@ export default {
       pl: 'Tak, oczywiście.',
       nl: 'Ja, natuurlijk.',
       pt: 'Sim, claro que.',
-      cs: 'Ano, samozřejmě.'
+      cs: 'Ano, samozřejmě.',
+      ja: 'はい、もちろん。'
     }
   }]
 }
