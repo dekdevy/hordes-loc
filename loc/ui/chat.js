@@ -15,7 +15,8 @@ export default {
     pt: 'Mostrar Clã',
     pl: 'Pokaż klan',
     ht: 'Montre klan',
-    cs: 'Klan'
+    cs: 'Klan',
+    ja: '一族'
   },
 
   system: {
@@ -33,7 +34,8 @@ export default {
     pt: 'Mostrar sistema',
     pl: 'System pokazów',
     ht: 'Montre Sistèm',
-    cs: 'Systém'
+    cs: 'Systém',
+    ja: 'システム'
   },
 
   // translations not needed
