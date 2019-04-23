@@ -12,7 +12,8 @@ export default [
       ht: 'Mouye boul sou latè, kite dèyè yon ti ensèk nan men ou.',
       it: 'Una palla di terra umida, lasciando piccole creature in mano.',
       pt: 'Bola húmida de terra, deixando para trás pequenas criaturas na mão.',
-      pl: 'Wilgotna kula ziemi, zostawiająca w ręku malutkie stwory.'
+      pl: 'Wilgotna kula ziemi, zostawiająca w ręku malutkie stwory.',
+      cs: 'Vlhký míč země, zanechávající v ruce malé zvířátka.'
     }
   },
 
@@ -29,7 +30,8 @@ export default [
       ht: 'Yon mas grotèsk nan zo ki pote chans sipèstisye.',
       it: 'Una massa grottesca di ossa che porta fortuna ai superstiziosi.',
       pt: 'Uma massa grotesca de ossos trazendo sorte aos supersticiosos.',
-      pl: 'Groteskowa masa kości przynosząca szczęście przesądnikom.'
+      pl: 'Groteskowa masa kości przynosząca szczęście przesądnikom.',
+      cs: 'Groteskní hmota kosti, která přinese pověrčivému štěstí.'
     }
   },
 
@@ -46,7 +48,8 @@ export default [
       ht: 'Bee itikè ruch kolan, fournir yon koup la pokes kounye a ak lè sa a.',
       it: 'Alveare appiccicoso e ronzante, con un paio di punture ogni tanto.',
       pt: 'Uma colmeia pegajosa a zumbir, com uma picada desagradável de vez em quando.',
-      pl: 'Brzęczący, lepki ul, dostarczający od czasu do czasu paskudny żądło.'
+      pl: 'Brzęczący, lepki ul, dostarczający od czasu do czasu paskudny żądło.',
+      cs: 'Bzučící lepkavý úl, který každou chvíli vydává ošklivé žihadlo.'
     }
   },
 
@@ -63,7 +66,8 @@ export default [
       ht: 'After a tough fight while robbing a bone of a dog, you decided to keep this as a souvenir reminding you of your struggles.',
       it: 'Dopo una dura lotta mentre derubava un osso di un cane, avete deciso di tenere questo come ricordo che vi ricorda le vostre lotte.',
       pt: 'Depois de uma dura luta enquanto roubava um osso de um cão, você decidiu guardar isso como uma lembrança lembrando-o de suas lutas.',
-      pl: 'Po ciężkiej walce podczas okradania kości psa, postanowiłeś zachować to jako pamiątkę przypominającą ci o twoich zmaganiach.'
+      pl: 'Po ciężkiej walce podczas okradania kości psa, postanowiłeś zachować to jako pamiątkę przypominającą ci o twoich zmaganiach.',
+      cs: 'Po těžkém boji, když vykradl kost psa, jste se rozhodl, že si to ponecháte jako suvenýr, který vám připomene vaše zápasy.'
     }
   },
 
@@ -80,7 +84,8 @@ export default [
       ht: 'Rès manje ki sòti nan yon koup nan nwit sa pibliye depi yo te fè byen yon Stink.',
       it: 'Gli avanzi di un paio di notti fa hanno fatto un bel po\' di puzza.',
       pt: 'Os restos de algumas noites atrás fizeram um grande fedor.',
-      pl: 'Resztki sprzed kilku nocy zrobiły niezły smród.'
+      pl: 'Resztki sprzed kilku nocy zrobiły niezły smród.',
+      cs: 'Zbytky z několika nocí se dost smrdí.'
     }
   },
 
@@ -97,7 +102,8 @@ export default [
       ht: 'Ti metal boul, klere ak lis ak kèk étidyan sou sifas li yo.',
       it: 'Piccola sfera metallica, lucida e liscia con alcune ammaccature sulla sua superficie.',
       pt: 'Pequena bola de metal, brilhante e lisa, com algumas amolgadelas na superfície.',
-      pl: 'Mała metalowa kula, błyszcząca i gładka, z kilkoma wgnieceniami na powierzchni.'
+      pl: 'Mała metalowa kula, błyszcząca i gładka, z kilkoma wgnieceniami na powierzchni.',
+      cs: 'Malá kovová kulička, lesklá a hladká s některými otvory na povrchu.'
     }
   },
 
@@ -114,7 +120,8 @@ export default [
       ht: 'Reyon limyè kenbe nan esfè sa a, depoze bon lakansyèl bò kote ou.',
       it: 'Raggi di luce si impigliano in questa sfera, gettando intorno a voi sottili arcobaleni.',
       pt: 'Raios de luz são apanhados nesta esfera, lançando finos arco-íris à tua volta.',
-      pl: 'Promienie światła zostają złapane w tej sferze, rzucając wokół ciebie drobne tęcze.'
+      pl: 'Promienie światła zostają złapane w tej sferze, rzucając wokół ciebie drobne tęcze.',
+      cs: 'V této sféře se zachytí paprsky světla, které kolem vás vrhají jemné duhy.'
     }
   },
 
@@ -131,7 +138,8 @@ export default [
       ht: 'Ansyen siklop yo teworize tè sa yo finalman te tiye, sa ki te pèmèt ou tire souvni souvni sa a.',
       it: 'Gli antichi ciclopi che terrorizzavano queste terre sono stati finalmente uccisi, permettendovi di cercare questo brutto souvenir.',
       pt: 'Os antigos ciclopes que aterrorizavam estas terras foram finalmente mortos, permitindo que você vasculhasse esta lembrança sombria.',
-      pl: 'Starożytni cyklopowie terroryzujący te ziemie zostali w końcu zabici, co pozwoliło na wymazanie tej ponurej pamiątki.'
+      pl: 'Starożytni cyklopowie terroryzujący te ziemie zostali w końcu zabici, co pozwoliło na wymazanie tej ponurej pamiątki.',
+      cs: 'Starověké cyklopy, které tyto země terorizovaly, byly nakonec zabity, což vám umožnilo uklidit tento ponurý suvenýr.'
     }
   },
 
@@ -148,7 +156,8 @@ export default [
       ht: 'Gen kèk maj sèvi ak baton, kèk liv, ou deside sèvi ak yon touf nan frizè nan nèj.',
       it: 'Alcuni maghi usano bastoni, alcuni libri, tu hai deciso di usare un ciuffo di neve ghiacciata.',
       pt: 'Alguns magos usam cajados, alguns livros, você decidiu usar um monte de neve congelada.',
-      pl: 'Niektórzy magowie używają sztabów, inni książki, a ty zdecydowałeś się użyć zamarzniętej kępki śniegu.'
+      pl: 'Niektórzy magowie używają sztabów, inni książki, a ty zdecydowałeś się użyć zamarzniętej kępki śniegu.',
+      cs: 'Někteří mágové používají štáby, nějaké knihy, rozhodli jste se použít zamrzlý svazek sněhu.'
     }
   },
 
@@ -165,7 +174,8 @@ export default [
       ht: 'Klere ak bon, esfè sa a misterye fè lè a bò kote l \'glas-frèt.',
       it: 'Lustrosa e affascinante, questa misteriosa sfera rende l\'aria intorno ad essa gelida.',
       pt: 'Lustrosa e encantadora, esta esfera misteriosa faz com que o ar à sua volta fique gelado.',
-      pl: 'Tajemnicza i czarująca, tajemnicza kula sprawia, że powietrze wokół niej jest lodowato zimne.'
+      pl: 'Tajemnicza i czarująca, tajemnicza kula sprawia, że powietrze wokół niej jest lodowato zimne.',
+      cs: 'Tato záhadná koule, živá a okouzlující, vytváří vzduch kolem ní ledově studený.'
     }
   },
 
@@ -182,7 +192,8 @@ export default [
       ht: 'Enigm sifas vèt emwòd, anvlòpki nan grave amann nan pèrfid pwofesi, atiran t\'ap nonmen non ak serendipity pote l \'naif.',
       it: 'Enigmatica sfera verde smeraldo, avvolta da raffinate incisioni di serpentine profezie, attirando fama e serendipità al suo ingenuo portatore.',
       pt: 'Esfera verde esmeralda enigmática, envolvida em gravuras finas de profecias serpentinas, atraindo fama e serendipidade ao seu portador ingênuo.',
-      pl: 'Enigmatyczna sfera szmaragdowej zieleni, otoczona drobnymi rycinami przepowiedni serpentynowych, wabiąca sławę i serdeczność do swojego naiwnego nosiciela.'
+      pl: 'Enigmatyczna sfera szmaragdowej zieleni, otoczona drobnymi rycinami przepowiedni serpentynowych, wabiąca sławę i serdeczność do swojego naiwnego nosiciela.',
+      cs: 'Tajemná smaragdově zelená koule, obklopená jemnými rytinami serpentinských proroctví, která svému naivnímu nositeli láká slávu a serendipity.'
     }
   },
 
@@ -199,7 +210,8 @@ export default [
       ht: 'Transparan jòn tente orb, revele plume bloke dyabolik nan aura paranormal, anglouti lespri yo nan fèb la ak plan nan pwazon ak touye moun.',
       it: 'Globo giallo trasparente tinto di giallo, rivelando pennacchi infernali intrappolati di aura paranormale, inghiottendo le menti dei deboli con piani di veleno e omicidio.',
       pt: 'Orb transparente amarelo tingido, revelando plumas infernais aprisionadas de aura paranormal, envolvendo as mentes dos fracos com planos de veneno e assassinato.',
-      pl: 'Przezroczysty, żółto zabarwiony kula, odsłaniający uwięzione piekielne pióropusze aury paranormalnej, pochłaniający umysły słabych planami trucizny i morderstwa.'
+      pl: 'Przezroczysty, żółto zabarwiony kula, odsłaniający uwięzione piekielne pióropusze aury paranormalnej, pochłaniający umysły słabych planami trucizny i morderstwa.',
+      cs: 'Průhledná žlutá bledá koule, která odhaluje uvězněné pekelné šmouhy paranormální aury, pohltí mysli slabých s plány jedu a vraždy.'
     }
   },
 
@@ -216,7 +228,8 @@ export default [
       ht: 'Pale ble fatra asosye, gaye vag enpilsyon nan limyè, banan lonbraj yo fè nwa nan nanm dyabolik soti nan chemen ou nan tout bèl pouvwa.',
       it: 'Artefatto sfaccettato blu pallido, che irradia onde pulsanti di luce, allontanando le ombre scure delle anime demoniache dal tuo cammino verso la gloria.',
       pt: 'Artefato facetado azul pálido, irradiando ondas pulsantes de luz, banindo as sombras escuras das almas demoníacas do seu caminho para a glória.',
-      pl: 'Jasnoniebieski, fasetowany artefakt, promieniujące pulsujące fale światła, wygnanie ciemnych cieni demonicznych dusz z Twojej drogi do chwały.'
+      pl: 'Jasnoniebieski, fasetowany artefakt, promieniujące pulsujące fale światła, wygnanie ciemnych cieni demonicznych dusz z Twojej drogi do chwały.',
+      cs: 'Světle modrý fasetový artefakt, vyzařující pulzující vlny světla, vyhánějící temné stíny démonických duší z cesty ke slávě.'
     }
   },
 
@@ -233,7 +246,8 @@ export default [
       ht: 'Kò ak san enfuze orb sa a ak nanm yo nan touye yo, kreye yon sans wouj fonse entegre nan tèt li, ki akòde ou lanvi san parèy pou san ak batay.',
       it: 'La carne e il sangue hanno infuso questo globo con le anime degli uccisi, creando un\'essenza rosso scuro incastonata in se stessa, che ti garantisce una lussuria senza precedenti per il sangue e la battaglia.',
       pt: 'Carne e sangue infundiram este globo com as almas dos mortos, criando uma essência vermelha escura embutida em si mesma, concedendo a você uma luxúria sem precedentes por sangue e batalha.',
-      pl: 'Ciało i krew nasyciły tę kulę duszami zabitych, tworząc ciemnoczerwoną, osadzoną w sobie ciemną esencję, dając ci bezprecedensową żądzę krwi i walki.'
+      pl: 'Ciało i krew nasyciły tę kulę duszami zabitych, tworząc ciemnoczerwoną, osadzoną w sobie ciemną esencję, dając ci bezprecedensową żądzę krwi i walki.',
+      cs: 'Tělo a krev naplnily tuto kouli duší zabitých a vytvořily v sobě tmavě červenou esenci, která vám přinesla bezprecedentní touhu po krvi a bitvě.'
     }
   },
 
@@ -250,7 +264,8 @@ export default [
       ht: 'Nwa, mòtèl ak dyabolik, yon orb antoure nan kratèr ti plen ak Meservey san-wouj, resi dra sou pè nan moun ki opoze ou.',
       it: 'Oscuro, mortale e demoniaco, un globo racchiuso in piccoli crateri pieni di gemme rosso sangue, intrecciando fogli di terrore in coloro che vi si oppongono.',
       pt: 'Escuro, mortal e demoníaco, um globo envolto em pequenas crateras cheias de gemas vermelhas de sangue, tecendo folhas de terror naqueles que se opõem a ti.',
-      pl: 'Mroczna, zabójcza i demoniczna kula otoczona małymi kraterami wypełnionymi krwistoczerwonymi klejnotami, wplatająca prześcieradła terroru w tych, którzy ci się sprzeciwiają.'
+      pl: 'Mroczna, zabójcza i demoniczna kula otoczona małymi kraterami wypełnionymi krwistoczerwonymi klejnotami, wplatająca prześcieradła terroru w tych, którzy ci się sprzeciwiają.',
+      cs: 'Temné, smrtící a démonické, koule obklopená malými krátery naplněnými krvavě červenými drahokamy, tkalcovými hrůzou do těch, kteří jsou proti vám.'
     }
   }
 
