@@ -109,7 +109,7 @@ export default [
       pl: 'Przyjemny wzór stworzony w celu sparaliżowania twoich wrogów... zastanawiam się, czy działa...',
       sv: 'Ett trevligt mönster för att förlamna dina fiender ... undrar om det fungerar.',
       ht: 'Yon modèl bèl te fè nan paralize lènmi ou... mande si li fonksyone.',
-      cs: ''
+      cs: 'Příjemný vzor, ​​který paralyzuje vaše nepřátele ... zajímá vás, jestli to funguje.'
     }
   },
 
