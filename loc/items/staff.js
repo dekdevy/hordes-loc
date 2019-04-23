@@ -12,7 +12,8 @@ export default [
       nl: 'Wapen gesmeed door de grootste smid van het land. Tenminste, dat is wat we de kleine Timmy vertelden.',
       pl: 'Broń wykuta przez największego kowala ze wszystkich ziem. Przynajmniej to samo powiedzieliśmy małemu Timmyemu.',
       it: 'Arma forgiata dal miglior fabbro di tutta la terra. Almeno questo è quello che abbiamo detto al piccolo Timmy.',
-      cs: 'Zbraň kovaná největším kovářem celé země. Aspoň to jsme řekli málo Timmymu.'
+      cs: 'Zbraň kovaná největším kovářem celé země. Aspoň to jsme řekli málo Timmymu.',
+      ja: 'すべての土地の最大の鍛冶屋によって作られた武器少なくともそれが私たちがトムに言ったことです。'
     }
   },
 
@@ -29,7 +30,8 @@ export default [
       nl: 'Wanhopige situaties vragen om wanhopige maatregelen.',
       pl: 'Zdesperowane sytuacje wymagają desperackich działań.',
       it: 'Situazioni disperate richiedono misure disperate.',
-      cs: 'Zoufalé situace vyžadují zoufalá opatření.'
+      cs: 'Zoufalé situace vyžadují zoufalá opatření.',
+      ja: '絶望的な状況では、絶望的な対策が必要です。'
     }
   },
 
@@ -46,7 +48,8 @@ export default [
       nl: 'Schrobbelige bezemsteel gestolen van een magiër. Knoestige en benige.',
       pl: 'Miotła skradziona z maga. Gnarled and bony.',
       it: 'Una robaccia trasandata rubata da un mago. Masticato e ossuto.',
-      cs: 'Šupinatý košťátko ukradené z mága. Pokroucený a kostnatý.'
+      cs: 'Šupinatý košťátko ukradené z mága. Pokroucený a kostnatý.',
+      ja: '魔術師から盗まれただらしないほうきぎざぎざと骨。'
     }
   },
 
@@ -63,7 +66,8 @@ export default [
       nl: 'Een toverstaf die uit de takken van een oude eik is gesneden. Doordrenkt met diepe kracht.',
       pl: 'Rózga wycięta z gałęzi starożytnego dębu. Przepełniona głęboką mocą.',
       it: 'Una bacchetta ricavata dai rami di un\'antica quercia. Infuso di potinza profonda.',
-      cs: 'Z větví starobylého dubu se vyřízne hůlka. Naplněný hlubokou silou.'
+      cs: 'Z větví starobylého dubu se vyřízne hůlka. Naplněný hlubokou silou.',
+      ja: '古代のオークの枝から切り取った杖。深い力を注ぎ込んだ。'
     }
   },
 
@@ -80,7 +84,8 @@ export default [
       nl: 'Mystiek wapen dat gloeit met een mysterieuze essentie.',
       pl: 'Mistyczna broń świecąca tajemniczą esencją.',
       it: 'Un\'arma mistica che brilla di un\'essenza misteriosa.',
-      cs: 'Mystická zbraň zářící tajemnou podstatou.'
+      cs: 'Mystická zbraň zářící tajemnou podstatou.',
+      ja: '神秘的な武器が神秘的なエッセンスで輝いています。'
     }
   },
 
@@ -97,7 +102,8 @@ export default [
       nl: 'Niets bijzonders aan dit wapen, alleen het dijbeen van een lich.',
       pl: 'Nie ma nic ciekawego w tej broni, tylko kość udowa licha.',
       it: 'Non c\'e\' niente di speciale in quest\'arma, solo il femore di una lich.',
-      cs: 'Na této zbrani není nic zajímavého, jen femur licha.'
+      cs: 'Na této zbrani není nic zajímavého, jen femur licha.',
+      ja: 'この武器についての何も空想の大腿骨だけで空想はない。'
     }
   },
 
@@ -114,7 +120,8 @@ export default [
       nl: 'Lange staaf met een glinsterende blauwe edelsteen op de kroon.',
       pl: 'Długi kij z mieniącym się niebieskim klejnotem na koronie.',
       it: 'Asta lunga con una gemma blu scintillante sulla corona.',
-      cs: 'Dlouhá tyč s třpytivým modrým drahokamem na korunce.'
+      cs: 'Dlouhá tyč s třpytivým modrým drahokamem na korunce.',
+      ja: 'その冠にきらめく青い宝石と長い棒。'
     }
   },
 
@@ -131,7 +138,8 @@ export default [
       nl: 'Donker paars personeel. Vrij mysterieus in de maak, maar toch leuk om naar te kijken.',
       pl: 'Ciemnofioletowa laska. Całkiem tajemnicza w tworzeniu, ale miła w spojrzeniu.',
       it: 'Bacchetta viola scuro. Piuttosto misterioso nella sua struttura, ma bello da vedere',
-      cs: 'Tmavě fialový štáb. Zcela záhadné v jeho tvorbě, ale pěkné na to dívat.'
+      cs: 'Tmavě fialový štáb. Zcela záhadné v jeho tvorbě, ale pěkné na to dívat.',
+      ja: '濃い紫色のスタッフ。その作り方はとても不思議ですが、見るのはいいですね。'
     }
   },
 
@@ -148,7 +156,8 @@ export default [
       nl: 'Gemaakt van smaragden die gestolen zijn van de bergdwergen.',
       pl: 'Zbudowany z szmaragdów skradzionych z krasnali górskich.',
       it: 'Costruito con smeraldi rubati ai nani di montagna.',
-      cs: 'Vyrobeno ze smaragdů ukradených z horských trpaslíků.'
+      cs: 'Vyrobeno ze smaragdů ukradených z horských trpaslíků.',
+      ja: '山の小人から盗まれたエメラルドから作られました。'
     }
   },
 
@@ -165,7 +174,8 @@ export default [
       nl: 'Vreemd... het personeel lijkt... driehoekig...',
       pl: 'Dziwne... personel wydaje się... trójkątny...',
       it: 'Strano... il personale sembra... triangolare...',
-      cs: 'Podivné ... personál se zdá ... trojúhelníkový ...'
+      cs: 'Podivné ... personál se zdá ... trojúhelníkový ...',
+      ja: '奇妙な...スタッフは...三角形のようです...'
     }
   },
 
@@ -182,7 +192,8 @@ export default [
       nl: 'Zonderlinge staaf met een licht blauwe steen ingebed in de kern...',
       pl: 'Ekscentryczny pręt z jasnoniebieskim kamieniem osadzonym w środku...',
       it: 'Asta eccentrica con una pietra azzurra incastonata all\'interno...',
-      cs: 'Výstředná tyč s bledě modrým kamenem vloženým dovnitř ...,'
+      cs: 'Výstředná tyč s bledě modrým kamenem vloženým dovnitř ...',
+      ja: '内側に淡いブルーの石が埋め込まれた偏心ロッド'
     }
   },
 
@@ -199,7 +210,8 @@ export default [
       nl: 'Gebouwd door onbekende smeden in de legendarische valleien.',
       pl: 'Zbudowany przez nieznanych kowali mieszkających w legendarnych dolinach.',
       it: 'Costruito da fabbri sconosciuti che risiedono in valli favolose.',
-      cs: 'Postaveny neznámými kováři sídlícími v legendárních údolích.'
+      cs: 'Postaveny neznámými kováři sídlícími v legendárních údolích.',
+      ja: '伝説の谷間に住む未知の鍛冶屋によって造られました。'
     }
   },
 
@@ -216,7 +228,8 @@ export default [
       nl: 'Zijn schoonheid roept om jou.... om te doden... om te overwinnen...',
       pl: 'Jego piękno wzywa do ciebie... zabić... podbić...',
       it: 'La sua bellezza vi invita ad uccidere... a conquistare...',
-      cs: 'Její krása vás volá ... zabít ... dobýt ...'
+      cs: 'Její krása vás volá ... zabít ... dobýt ...',
+      ja: 'その美しさはあなたに声をかけます...殺すために...征服するために...'
     }
   },
 
@@ -233,7 +246,8 @@ export default [
       nl: 'Een staf gestolen van de engelen. Ze zijn er nog steeds op zoek naar.',
       pl: 'Personel skradziony aniołom. Nadal na niego polują.',
       it: 'Uno staff rubato dagli angeli. Sono ancora a caccia di esso.',
-      cs: 'Zaměstnanci ukradli anděly. Stále na to hledají.'
+      cs: 'Zaměstnanci ukradli anděly. Stále na to hledají.',
+      ja: 'スタッフが天使たちから盗まれました。彼らはまだそれを探しています。'
     }
   },
 
@@ -249,8 +263,9 @@ export default [
       pt: 'Cruéis na sua aparência, mas poderosos no seu coração...',
       nl: 'Ruw in zijn uiterlijk, maar toch machtig in het hart...',
       pl: 'Surowy w swoim wyglądzie, ale potężny w swoim sercu...',
-      it: 'Raw in his appearance, but powerful in his heart....',
-      cs: 'Surový v jeho vzhledu, ale mocný v srdci ...'
+      it: 'Raw in his appearance, but powerful in his heart...',
+      cs: 'Surový v jeho vzhledu, ale mocný v srdci ...',
+      ja: 'その見た目は粗いが、その中心部は強大な...'
     }
   },
 
@@ -267,7 +282,8 @@ export default [
       nl: 'Er wordt ons verteld dat de kern uit het hart van een heks komt. Niemand heeft het lijk gevonden. Of het personeel zelf.',
       pl: 'Powiedziano nam, że jego rdzeń pochodzi z serca czarownicy. Nikt nie znalazł zwłok. Albo sam personel.',
       it: 'Ci hanno detto che il cuore di una strega è il cuore di una strega. Nessuno ha trovato il cadavere. O il personale stesso.',
-      cs: 'Říká se, že jádro je ze srdce čarodějnice. Nikdo nenašel mrtvolu. Nebo samotný personál.'
+      cs: 'Říká se, že jádro je ze srdce čarodějnice. Nikdo nenašel mrtvolu. Nebo samotný personál.',
+      ja: 'その核心は魔女の心に由来すると言われています。誰も死体を見つけたことがない。またはスタッフ自身。'
     }
   },
 
@@ -284,7 +300,8 @@ export default [
       nl: 'Dit wapen is zo geheimzinnig dat de weinigen die het in handen hebben, hebben al de kennis gedood van het.',
       pl: 'Ta broń jest tak tajemnicza, że ci, którzy nią rządzą, zabili wszystko, co o niej wiedzą.',
       it: 'Quest\'arma è così segreta che i pochi che la maneggiano hanno ucciso tutti coloro che ne sono a conoscenza.',
-      cs: 'Tato zbraň je tak utajená, že těch pár, kteří ji ovládají, zabila všechny, kdo o ní vědí.'
+      cs: 'Tato zbraň je tak utajená, že těch pár, kteří ji ovládají, zabila všechny, kdo o ní vědí.',
+      ja: 'この武器は非常に秘密主義であるため、それを使用した少数の人々はそれを知っているすべての人を殺した。'
     }
   }
 
