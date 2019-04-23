@@ -68,7 +68,8 @@ export default {
     ru: '$1 пригласил вас в party',
     es: '$1 te ha invitado a juntar a su Party.',
     nl: '$1 heeft je uitgenodigd vergezel hun party.',
-    tr: '$1 seni partysine davet etti.'
+    tr: '$1 seni partysine davet etti.',
+    it: '$1 ti ha invitato a unirti alla loro festa.'
   },
 
   // members, as in "12 members in party"
@@ -123,6 +124,7 @@ export default {
     de: 'Einfügen aus Zwischenablage',
     fr: 'Copier dans le presse',
     tr: 'Bağlantıyı kopyala',
-    nl: 'Kopieer naar klembord'
+    nl: 'Kopieer naar klembord',
+    it: 'Copia negli Appunti'
   }
 }
