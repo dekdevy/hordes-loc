@@ -8,7 +8,7 @@ export default {
     de: 'Abmeldung',
     fr: 'Déconnexion',
     ko: '로그 아웃',
-    bl: 'Излез от профила си', // TODO: shorten
+    bl: 'Излез от профила', // TODO: shorten
     cs: 'Odhlásit se',
     el: 'Αποσυνδέση',
     ja: 'ログアウト',
@@ -30,7 +30,7 @@ export default {
     fr: 'Accueil',
     ko: '홈페이지',
     bl: 'Начална страница', // TODO: shorten
-    cs: 'Domovská stránka', // TODO: shorten
+    cs: 'Domov',
     el: 'Αρχική σελίδα',
     ja: 'ホームページ',
     sv: 'Hemsida',
