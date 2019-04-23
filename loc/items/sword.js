@@ -12,7 +12,8 @@ export default [
       pt: 'O nome diz tudo. Cuidado com as lascas.',
       nl: 'De naam zegt het allemaal. Voorzichtig met de splinters.',
       pl: 'Imię mówi wszystko. Uważaj na drzazgi.',
-      ht: 'Non di li tout. Atansyon ak ekla yo.'
+      ht: 'Non di li tout. Atansyon ak ekla yo.',
+      it: 'Il nome dice tutto.  Attento alle schegge.'
     }
   },
 
@@ -28,7 +29,8 @@ export default [
       pt: 'Não muito melhor do que um pedaço de madeira na minha opinião.',
       nl: 'Niet veel beter dan een stomp stuk hout naar mijn mening.',
       pl: 'Niewiele lepiej niż tępy kawałek drewna, moim zdaniem.',
-      ht: 'Pa pi bon pase yon moso bwa ki pa bay tèt ou pwoblèm nan opinyon mwen.'
+      ht: 'Pa pi bon pase yon moso bwa ki pa bay tèt ou pwoblèm nan opinyon mwen.',
+      it: 'Secondo me non molto meglio di un pezzo di legno smussato.'
     }
   },
 
@@ -44,7 +46,8 @@ export default [
       pt: 'Estou a ser enganado?',
       nl: 'Word ik voor de gek gehouden?',
       pl: 'Czy jestem żartobliwy?',
-      ht: 'Èske mwen te pranked?'
+      ht: 'Èske mwen te pranked?',
+      it: 'Sono stato fregato?'
     }
   },
 
@@ -60,7 +63,8 @@ export default [
       pt: 'Um cavaleiro qualquer deixou cair isto. Provavelmente não intencionalmente.',
       nl: 'Een of andere ridder heeft dit laten vallen. Waarschijnlijk onbedoeld.',
       pl: 'Jakiś rycerz to upuścił. Prawdopodobnie nieumyślnie.',
-      ht: 'Gen kèk Knight tonbe sa a. Pwobableman san entansyon'
+      ht: 'Gen kèk Knight tonbe sa a. Pwobableman san entansyon',
+      it: 'Qualche cavaliere ha lasciato cadere questo.  Probabilmente non intenzionalmente.'
     }
   },
 
@@ -76,7 +80,8 @@ export default [
       pt: 'Longo? Sim. Mortal? Talvez. Apenas não se corte.',
       nl: 'Lang? Ja. Dodelijk? Misschien. Gewoon jezelf niet snijden.',
       pl: 'Długo? Tak. Śmiertelnie? Może. Tylko się nie skalecz.',
-      ht: 'Lontan? Wi. Mòtèl? Petèt. Jis pa koupe tèt ou.'
+      ht: 'Lontan? Wi. Mòtèl? Petèt. Jis pa koupe tèt ou.',
+      it: 'Lungo?  Sì.  Mortale?  Può essere.  Non ti tagliare.'
     }
   },
   { // T6 item
@@ -91,7 +96,8 @@ export default [
       pt: 'Esculpido grosseiramente nos ossos de um antigo beemote.',
       nl: 'Ruw gesneden uit de botten van een oude kolos.',
       pl: 'Wycięte z kości starożytnego olbrzyma.',
-      ht: 'Crudely so soti nan zo yo nan yon behemoth ansyen.'
+      ht: 'Crudely so soti nan zo yo nan yon behemoth ansyen.',
+      it: 'Crudamente scolpito dalle ossa di un antico behemoth.'
     }
   },
   { // T7 item
@@ -106,7 +112,8 @@ export default [
       pt: 'Uma espada tão poderosa que poucos conseguem lidar com ela. É muito pesada.',
       nl: 'Een zwaard dat zo machtig is dat weinigen het aankunnen. Het is behoorlijk zwaar.',
       pl: 'Miecz tak potężny, że niewielu zdoła sobie z nim poradzić. Jest dość ciężki.',
-      ht: 'Yon epe konsa vanyan sòlda ke kèk ka okipe li. Li trè lou'
+      ht: 'Yon epe konsa vanyan sòlda ke kèk ka okipe li. Li trè lou',
+      it: 'Una spada così potente che pochi riescono a gestirlo.  È piuttosto pesante.'
     }
   },
   { // T8 item
@@ -121,7 +128,8 @@ export default [
       pt: 'Lâmina curva diabólica. Mesmo segurando-a faz você sentir a sua essência escura.',
       nl: 'Duivels gebogen zwaard. Zelfs het vasthouden ervan maakt dat je de donkere essentie voelt.',
       pl: 'Diabolicznie zakrzywione ostrze. Nawet trzymanie go sprawia, że czujesz jego ciemną esencję.',
-      ht: 'Lam dyabolik koube. Menm kenbe li fè ou santi ou li nan sans fè nwa.'
+      ht: 'Lam dyabolik koube. Menm kenbe li fè ou santi ou li nan sans fè nwa.',
+      it: 'Lama diabolica curva.  Anche tenerlo ti fa sentire la sua essenza oscura.'
     }
   },
 
@@ -137,7 +145,8 @@ export default [
       pt: 'Uma lâmina de aspecto frio com uma fatia ardente e quente.',
       nl: 'Een koud uitziend zwaard met een brandend heet plakje.',
       pl: 'Zimno wyglądające ostrze z palącym się gorącym plasterkiem.',
-      ht: 'Yon lam frèt kap ak yon tranch cho boule.'
+      ht: 'Yon lam frèt kap ak yon tranch cho boule.',
+      it: 'Una lama dall'aspetto freddo con una fetta bollente che brucia.'
     }
   },
 
@@ -153,7 +162,8 @@ export default [
       pt: 'Uma lâmina empunhada apenas pelos cavaleiros mais habilidosos.',
       nl: 'Een zwaard dat alleen door de meest bekwame ridders wordt gebruikt.',
       pl: 'Ostrze, którym posługują się tylko najbardziej uzdolnieni rycerze.',
-      ht: 'Yon lam itilize nan sèlman kavalye yo ki pi abil.'
+      ht: 'Yon lam itilize nan sèlman kavalye yo ki pi abil.',
+      it: 'Una lama impugnata solo dai cavalieri più abili.'
     }
   },
 
@@ -169,7 +179,8 @@ export default [
       pt: 'Espada cilíndrica roubada de um antigo rei. A capacidade de corte é questionável.',
       nl: 'Cilindrisch zwaard gestolen van een oude koning. Het snijvermogen is twijfelachtig.',
       pl: 'Cylindryczny miecz skradziony starożytnemu królowi. Zdolność cięcia jest wątpliwa.',
-      ht: 'Silendrik nepe yo vòlè li soti nan yon wa ansyen. Koupe kapasite se dout.'
+      ht: 'Silendrik nepe yo vòlè li soti nan yon wa ansyen. Koupe kapasite se dout.',
+      it: 'Spada cilindrica rubata da un antico re.  La capacità di taglio è discutibile.'
     }
   },
 
@@ -185,7 +196,8 @@ export default [
       pt: 'Poderosa obra-prima trazida dos abismos do submundo.',
       nl: 'Krachtig meesterwerk uit de afgronden van de onderwereld.',
       pl: 'Potężne arcydzieło przywiezione z otchłani podziemnego świata.',
-      ht: 'Pwisan chèf pote soti nan abis yo nan mò yo ye a.'
+      ht: 'Pwisan chèf pote soti nan abis yo nan mò yo ye a.',
+      it: 'Potente capolavoro portato dagli abissi degli inferi.'
     }
   },
 
@@ -201,14 +213,15 @@ export default [
       pt: 'Espada rosa misteriosa. As gravuras dizem "Mächtig Zerstörer".',
       nl: 'Mysterieus roze zwaard. Gravures zeggen "Mächtig Zerstörer".',
       pl: 'Tajemniczy różowy miecz. Ryciny mówią, że "Mächtig Zerstörer".',
-      ht: 'Misterye nepe woz. Gravure di "Mächtig Zerstörer".'
+      ht: 'Misterye nepe woz. Gravure di "Mächtig Zerstörer".',
+      it: 'Misteriosa spada rosa.  Incisioni di "Mächtig Zerstörer".'
     }
   },
 
   { // T14 item
     name       : {$$: 'Hearteater' },
     description: {
-      en: 'Cuts through your foes hearts. Eats them on the way.',
+      en: 'Devours living tissue as it plunges its way into the thick muscle of your foes beating heart.',
       ru: 'Разрезает сердца ваших врагов. Eст их по дороге.',
       es: 'Corazón, un parte de un desayuno completo.',
       de: 'Schneidet die Herzen eurer Feinde durch. Frisst sie auf dem Weg.',
@@ -217,7 +230,8 @@ export default [
       pt: 'Corta os corações dos teus inimigos. Come-os no caminho.',
       nl: 'Snijdt door de harten van je vijanden heen. Eet ze onderweg op.',
       pl: 'Cięcie w sercach wrogów. Zjada je po drodze.',
-      ht: 'Koupe nan kè lènmi ou yo. Manje yo sou wout la.'
+      ht: 'Koupe nan kè lènmi ou yo. Manje yo sou wout la.',
+      it: ''
     }
   },
 
@@ -233,7 +247,8 @@ export default [
       pt: 'Pode cortar demónios, mas não anjos.',
       nl: 'Het kan demonen snijden, maar geen engelen.',
       pl: 'Może ciąć demony, ale nie anioły.',
-      ht: 'Li ka koupe move lespri yo, men se pa zanj Bondye.'
+      ht: 'Li ka koupe move lespri yo, men se pa zanj Bondye.',
+      it: ''
     }
   },
 
@@ -249,7 +264,8 @@ export default [
       pt: 'Disseram-nos que foi tirado da pedra. Ainda não conseguimos encontrar a pedra.',
       nl: 'Ons werd verteld dat het uit steen werd getrokken. Kan de steen nog steeds niet vinden.',
       pl: 'Powiedziano nam, że został wycišgnięty z kamienia. Wciąż nie można znaleźć kamienia.',
-      ht: 'Nou te di li te rale nan wòch. Toujou kapab jwenn wòch la.'
+      ht: 'Nou te di li te rale nan wòch. Toujou kapab jwenn wòch la.',
+      it: ''
     }
   },
 
@@ -265,7 +281,8 @@ export default [
       pt: 'Esta arma traz o advento de uma nova era.',
       nl: 'Dit wapen brengt de komst van een nieuw tijdperk met zich mee.',
       pl: 'Ta broń powoduje nadejście nowej ery.',
-      ht: 'Sa a zam pote sou vini nan yon nouvo laj.'
+      ht: 'Sa a zam pote sou vini nan yon nouvo laj.',
+      it: ''
     }
   }
 
