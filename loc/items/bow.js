@@ -15,7 +15,8 @@ export default [
       sv: 'Nästan lätt. Du kan säkert hitta något bättre runt.',
       ht: 'Prèske lejè. Ou ka pwobableman jwenn yon bagay pi byen alantou.',
       tr: 'Hafifsiklet bir şey. Muhtemelen etrafta daha iyi bir şeyler bulabilirsin.',
-      hi: 'लगभग हल्के। आप शायद के आसपास कुछ बेहतर मिल सकता है।'
+      hi: 'लगभग हल्के। आप शायद के आसपास कुछ बेहतर मिल सकता है।',
+      cs: 'Téměř lehká. Asi můžete najít něco lepšího.'
     }
   },
 
@@ -34,7 +35,8 @@ export default [
       sv: 'Du känner dig mindre skicklig bara genom att hålla detta i dina händer.',
       ht: 'Ou santi ou mwens kalifye jis pa kenbe sa a nan men ou.',
       tr: 'Sadece tutmakla bile insan kendini yeteneksiz hissediyor, öyle bir yay.',
-      hi: 'तुम सिर्फ अपने हाथों में इस पकड़ कर कम कुशल लग रहा है।'
+      hi: 'तुम सिर्फ अपने हाथों में इस पकड़ कर कम कुशल लग रहा है।',
+      cs: 'Cítíš se méně zručně, když to držíš ve svých rukou.'
     }
   },
 
@@ -53,7 +55,8 @@ export default [
       sv: 'Den som lämnat det här på marken antog förmodligen inte ett bra slut.',
       ht: 'Nenpòt moun ki te kite sa a sou tè a pwobableman pa satisfè yon fen bèl.',
       tr: 'Bunu kim yere düşürdüyse muhtemelen sonu iyi olmamıştır.',
-      hi: 'जो कोई भी इस आधार पर यह छोड़ दिया शायद एक अच्छा अंत पूरा नहीं किया।'
+      hi: 'जो कोई भी इस आधार पर यह छोड़ दिया शायद एक अच्छा अंत पूरा नहीं किया।',
+      cs: 'Ten, kdo tohle na zemi opustil, pravděpodobně neuskutečnil pěkný konec.'
     }
   },
 
@@ -72,7 +75,8 @@ export default [
       sv: 'Ett mer avancerat vapen. Ganska trevligt att titta på.',
       ht: 'Yon zam ki pi avanse. Byen bèl gade.',
       tr: 'Daha gelişmiş bir silah. Bakması da oldukça güzel hissediyor.',
-      hi: 'एक और अधिक उन्नत हथियार। काफी को देखने के लिए अच्छा।'
+      hi: 'एक और अधिक उन्नत हथियार। काफी को देखने के लिए अच्छा।',
+      cs: 'Pokročilejší zbraň. Docela hezké se na to podívat.'
     }
   },
 
@@ -91,7 +95,8 @@ export default [
       sv: 'Sätta ihop med benen av ... någon?',
       ht: 'Mete ansanm ak zo yo nan ... yon moun?',
       tr: 'Kemikler birleştirilerek yapılmış... insan kemikleri?',
-      hi: 'किसी की हड्डियों के साथ एक साथ रखा?'
+      hi: 'किसी की हड्डियों के साथ एक साथ रखा?',
+      cs: 'Dej dohromady s kostmi ... někoho?'
     }
   },
 
@@ -110,7 +115,8 @@ export default [
       sv: 'En expertbuga av en glömd ras.',
       ht: 'Yon banza ekspè nan yon ras ki oubliyé.',
       tr: 'Unutulmuş bir ırkın uzman yayı.',
-      hi: 'एक भूल दौड़ के एक विशेषज्ञ धनुष।'
+      hi: 'एक भूल दौड़ के एक विशेषज्ञ धनुष।',
+      cs: 'Odborný luk zapomenutého závodu.'
     }
   },
 
@@ -129,7 +135,8 @@ export default [
       sv: 'Rå, men effektiv. Ritar sin kraft från det lilla bladet som är fäst vid det.',
       ht: 'Brut, men efikas. Trase pouvwa li soti nan fèy la ti tache ak li.',
       tr: 'Kaba, ama etkili. Gücünü, kendisine bağlı küçük yapraktan alır.',
-      hi: 'क्रूड, लेकिन प्रभावी। छोटे पत्ती इसे से जुड़े से अपनी शक्ति को खींचता है।'
+      hi: 'क्रूड, लेकिन प्रभावी। छोटे पत्ती इसे से जुड़े से अपनी शक्ति को खींचता है।',
+      cs: 'Hrubý, ale účinný. Čerpá svou sílu z malého lístku, který je k němu připojen.'
     }
   },
 
@@ -148,7 +155,8 @@ export default [
       sv: 'Bränner bort fienden med den spiciest av röd färgning.',
       ht: 'Burns lwen lènmi an ak spiciest nan koloran wouj.',
       tr: 'Düşmanı kırmızı renkteki boya ile yakar.',
-      hi: 'बर्न्स दूर लाल रंग की मसालेदार साथ दुश्मन।'
+      hi: 'बर्न्स दूर लाल रंग की मसालेदार साथ दुश्मन।',
+      cs: 'Spálí nepřítele s nejjemnějším červeným zbarvením.'
     }
   },
 
@@ -167,7 +175,8 @@ export default [
       sv: 'En båge som vanligtvis används av lågrankade kungliga bågar. Blandar väl med vegetation.',
       ht: 'Yon banza souvan itilize pa banza klase wa archers. Melanje nan byen ak vejetasyon,',
       tr: 'Genel olarak düşük rütbeli kraliyet okçular tarafından kullanılan bir yay. Bitki örtüsü ile iyi karışır.',
-      hi: 'एक धनुष आमतौर पर कम स्थान पर रहीं शाही तीरंदाजों द्वारा इस्तेमाल किया। वनस्पति के साथ अच्छी तरह से में मिश्रण है।'
+      hi: 'एक धनुष आमतौर पर कम स्थान पर रहीं शाही तीरंदाजों द्वारा इस्तेमाल किया। वनस्पति के साथ अच्छी तरह से में मिश्रण है।',
+      cs: 'Luk běžně používaný nízkohodnotnými královskými lukostřelci. Směsi ve vegetaci.'
     }
   },
 
@@ -186,7 +195,8 @@ export default [
       sv: 'Mästerligt framställd av banditerna i huvudstäderna.',
       ht: 'Metriz fabrike pa bandi kapital yo.',
       tr: 'Başkentlerin haydutları tarafından ustaca hazırlanmış.',
-      hi: 'विशेषज्ञ रूप राजधानियों में से डाकुओं द्वारा तैयार की गई।'
+      hi: 'विशेषज्ञ रूप राजधानियों में से डाकुओं द्वारा तैयार की गई।',
+      cs: 'Mistrovsky vytvořený bandity z hlavních měst.'
     }
   },
 
@@ -205,7 +215,8 @@ export default [
       sv: 'En sällsynt båge som används i störst krig. Skytte det gör att du känner att himlen kommer att kollapsa.',
       ht: 'Yon banza ra ki te itilize nan pi gran nan lagè. Fiziyad li fè ou santi ou tankou syèl la pral tonbe plat atè.',
       tr: 'En büyük savaşlarda kullanılan nadir bir yay. Onu çekince sanki yer gök yıkılacak gibi hissediyor.',
-      hi: 'एक दुर्लभ युद्ध की सबसे बड़ी में इस्तेमाल किया धनुष। यह शूटिंग की तरह स्वर्ग पतन होगा यदि आपको लगता है बनाता है।'
+      hi: 'एक दुर्लभ युद्ध की सबसे बड़ी में इस्तेमाल किया धनुष। यह शूटिंग की तरह स्वर्ग पतन होगा यदि आपको लगता है बनाता है।',
+      cs: 'Vzácný luk používaný v největších válkách. Střelba z vás dělá pocit, že se nebe zhroutí.'
     }
   },
 
@@ -224,7 +235,8 @@ export default [
       sv: 'Vad är det? Är det is? Världen kanske aldrig vet ...',
       ht: 'Kisa li ye? Èske li glas? Mond lan pa janm ka konnen...',
       tr: 'Bu ne? Buz mu bu? Dünya bunu asla bilemeyecek...',
-      hi: 'यह क्या है? यह बर्फ है? दुनिया को कभी पता नहीं हो सकता...'
+      hi: 'यह क्या है? यह बर्फ है? दुनिया को कभी पता नहीं हो सकता...',
+      cs: 'Co je to? Je to led? Svět se nikdy nedozví ...'
     }
   },
 
@@ -243,7 +255,8 @@ export default [
       sv: 'Dödar så vackert som det ser ut.',
       ht: 'Touye bèl jan li sanble.',
       tr: 'Göründüğü kadar güzel de öldürür.',
-      hi: 'के रूप में खूबसूरती से के रूप में यह लग रहा है मारता है।'
+      hi: 'के रूप में खूबसूरती से के रूप में यह लग रहा है मारता है।',
+      cs: 'Zabije tak krásně, jak to vypadá.'
     }
   },
 
@@ -262,7 +275,8 @@ export default [
       sv: 'Omgiven av en hemsk aura. Vinden blåser i riktning mot målet.',
       ht: 'Antoure pa yon Aura efreyan. Van an soufle nan direksyon ou vize li.',
       tr: 'Kasvetli bir havayla çevrili. Rüzgar, hedeflediğiniz yönde esiyor.',
-      hi: 'एक भयंकर आभा से घिरा। हवा की दिशा आप इसे उद्देश्य में चल रही है।'
+      hi: 'एक भयंकर आभा से घिरा। हवा की दिशा आप इसे उद्देश्य में चल रही है।',
+      cs: 'Obklopen hroznou aurou. Vítr fouká ve směru, kterým je zamíříte.'
     }
   },
 
@@ -281,7 +295,8 @@ export default [
       sv: 'Så läskigt att få har mage att hålla den.',
       ht: 'Se konsa, pè ke kèk gen kouraz yo kenbe li.',
       tr: 'O kadar korkunç ki onu tutmak cesaret ister.',
-      hi: 'तो डरावना कुछ हिम्मत इसे पकड़ है।'
+      hi: 'तो डरावना कुछ हिम्मत इसे पकड़ है।',
+      cs: 'Tak děsivé, že jen málokdo má odvahu držet to.'
     }
   },
 
@@ -300,7 +315,8 @@ export default [
       sv: 'Inbäddad med primitiv raseri, dina fiender darrar vid synen av detta vapen. Pew pew är det sista de någonsin kommer att höra.',
       ht: 'Embedded ak yon primal raj la, lènmi ou souke nan je a nan zam sa a. Pew pew pew la se bagay la dènye tout tan tout tan yo dwe tande.',
       tr: 'İlkel bir öfkeyle bezenmiş, düşmanların bu silahı görünce titriyor. Pew pew, duyacakları son şey.',
-      hi: 'एक मौलिक क्रोध से एंबेडेड, अपने दुश्मनों को इस हथियार की दृष्टि में कांपने। बेंच बेंच आखिरी बात वे कभी सुनेंगे है।'
+      hi: 'एक मौलिक क्रोध से एंबेडेड, अपने दुश्मनों को इस हथियार की दृष्टि में कांपने। बेंच बेंच आखिरी बात वे कभी सुनेंगे है।',
+      cs: 'Vloženi s prvotním vztekem, vaši nepřátelé se třesou při pohledu na tuto zbraň. Pew je poslední věc, kterou kdy slyší.'
     }
   }
 
