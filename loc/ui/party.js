@@ -69,7 +69,8 @@ export default {
     es: '$1 te ha invitado a juntar a su Party.',
     nl: '$1 heeft je uitgenodigd vergezel hun party.',
     tr: '$1 seni partysine davet etti.',
-    it: '$1 ti ha invitato a unirti alla loro festa.'
+    it: '$1 ti ha invitato a unirti alla loro festa.',
+    pt: 'O $1 convidou-te para te juntares à festa deles.'
   },
 
   // members, as in "12 members in party"
