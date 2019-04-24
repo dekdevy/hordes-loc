@@ -14,7 +14,8 @@ export default [
       hi: 'छोटे और तेज, इस पेंडेंट लड़ाई के दौरान आपकी त्वचा पर उथले खरोंच छोड़ देता है।',
       cs: 'Malý a ostrý, tento přívěsek zanechává mělké škrábance na kůži během bitvy.',
       ja: '小さくて鋭いこのペンダントは戦いの間にあなたの肌に浅い擦り傷を残します。',
-      tr: 'Küçük ve keskin, bu kolye savaş sırasında cildinize küçük sıyrıklar bırakır.'
+      tr: 'Küçük ve keskin, bu kolye savaş sırasında cildinize küçük sıyrıklar bırakır.',
+      ht: 'Ti ak byen file, sa a pandye fèy bwa grate ti kras sou po ou pandan batay.'
     }
   },
 
@@ -33,7 +34,8 @@ export default [
       hi: 'किसी न किसी डिस्क के आकार अजीब ड्र्यूड नक्काशी उस पर घेर साथ भूरे पत्थर।',
       cs: 'Hrubý šedý kámen ve tvaru disku s podivnými rytmickými druidickými rytinami, které ho obklopují.',
       ja: 'それを包んでいる奇妙なドルイドの彫刻が付いている粗い円盤形の灰色の石。',
-      tr: 'Kaba disk şeklindeki gri taş, onu saran garip rahibesel işlemeler.'
+      tr: 'Kaba disk şeklindeki gri taş, onu saran garip rahibesel işlemeler.',
+      ht: 'Wouj disk ki gen fòm wòch gri ak etranj grave ekri dris encasing li.'
     }
   },
 
@@ -52,7 +54,8 @@ export default [
       hi: 'शक्तिशाली पारदर्शी कांच ताबीज, बेहोश बैंगनी रंग आप एक उदास रोशनी में दुनिया को दर्शाता है।',
       cs: 'Silný transparentní skleněný talisman, slabý fialový odstín vám ukazuje svět v melancholickém světle.',
       ja: '強力な透明なガラス製のお守りのかすかな紫の色合いが憂鬱な光の中であなたに世界を見せています。',
-      tr: 'Güçlü şeffaf cam tılsım, soluk mor renk tonu size dünyayı melankolik bir ışıkla gösterir.'
+      tr: 'Güçlü şeffaf cam tılsım, soluk mor renk tonu size dünyayı melankolik bir ışıkla gösterir.',
+      ht: 'Pwisan Talisman transparan an vè, tenti wouj violèt montre ou mond lan nan yon limyè trist.'
     }
   },
 
@@ -71,7 +74,8 @@ export default [
       hi: 'ब्राउन मणि, सड़ा हुआ सुगंधों उत्सर्जन के रूप में आप इसे अपने गले में पहनते हैं।',
       cs: 'Hnědý desaturovaný drahokam, vyzařující hnijící vůně, když ho nosíte kolem krku.',
       ja: '腐敗した香りを放つ茶色の彩度の低い宝石',
-      tr: 'Kahverengi doygunluğu azaltılmış mücevher, boynunuza taktığınız gibi kokuşmuş kokular yayar.'
+      tr: 'Kahverengi doygunluğu azaltılmış mücevher, boynunuza taktığınız gibi kokuşmuş kokular yayar.',
+      ht: 'Gwo lous desaturasyon, emèt sant odè ou mete li nan kou ou.'
     }
   },
 
@@ -90,7 +94,8 @@ export default [
       hi: 'चमकदार नीली विरूपण साक्ष्य, सफेद नसों की उजागर कणों का अपनी गोलाकार सतह के साथ चल रहा है।',
       cs: 'Lesklý modrý artefakt, odkryté chlupaté bílé žíly podél jeho kulového povrchu.',
       ja: '光沢のある青いアーティファクトは、その球面に沿って走る白っぽく白い静脈を露出させました。',
-      tr: 'Parlak mavi eser, küresel yüzeyi boyunca akan incecik beyaz damarlarla bezenmiş.'
+      tr: 'Parlak mavi eser, küresel yüzeyi boyunca akan incecik beyaz damarlarla bezenmiş.',
+      ht: 'Lustrous asosye ble, ekspoze wispy venn blan kouri ansanm sifas esferik li yo.'
     }
   },
 
@@ -109,7 +114,8 @@ export default [
       hi: 'उज्ज्वल नारंगी कांच की तरह मणि अपने शत्रु के छिपे रहस्यों को प्रकट करती है।',
       cs: 'Zářivý titánový skleněný drahokam, který odhaluje tvé nepřátele skrytá tajemství.',
       ja: 'あなたの敵に隠された秘密を明らかにした輝くティティアングラスのような宝石。',
-      tr: 'Düşmanlarının gizli sırlarını açığa çıkaran parlayan ışıltılı titian cam benzeri mücevher.'
+      tr: 'Düşmanlarının gizli sırlarını açığa çıkaran parlayan ışıltılı titian cam benzeri mücevher.',
+      ht: 'Radyan jeyan tankou vè ki tankou revele sekrè kache lenmi ou.'
     }
   },
 
@@ -128,7 +134,8 @@ export default [
       hi: 'ग्रैंड लाल मणि रसातल अंधेरे दरारों में संलग्न, अपने दुश्मनों को ईर्ष्या की भावना देने।',
       cs: 'Velký červený drahokam uzavřený v propasti temných prasklin, které dávají nepřátelům pocit žárlivosti.',
       ja: 'あなたの敵に嫉妬の感覚を与える深淵な暗い裂け目に囲まれた壮大な赤い宝石。',
-      tr: 'Düşmanlarınıza bir kıskançlık hissi veren, karanlık uçurumlarda bulunan büyük kırmızı mücevher.'
+      tr: 'Düşmanlarınıza bir kıskançlık hissi veren, karanlık uçurumlarda bulunan büyük kırmızı mücevher.',
+      ht: 'Gran wouj gem mete andedan nan fissures fènwa abîme, bay lènmi ou vle di yon jalouzi.'
     }
   },
 
@@ -147,7 +154,8 @@ export default [
       hi: 'तेज हरी किनारों धूप में स्पार्कलिंग प्रकाश को पकड़ने, एक सुंदर और घातक दृष्टि बना रही है।',
       cs: 'Ostré zelené okraje zachycují na slunci zářivé světlo, které vytváří krásný a smrtící pohled.',
       ja: '鋭い緑色の縁が太陽の下で輝く光を捉え、美しく致命的な光景を作ります。',
-      tr: 'Keskin yeşil kenarlar güneşte parlayan ışıklar saçar, güzel ve ölümcül bir manzara sunar.'
+      tr: 'Keskin yeşil kenarlar güneşte parlayan ışıklar saçar, güzel ve ölümcül bir manzara sunar.',
+      ht: 'Byen file lizyè vèt trape mousseux limyè nan solèy, li fè yon bèl ak vi trè danjere.'
     }
   },
 
@@ -166,7 +174,8 @@ export default [
       hi: 'छोटे चिकनी और अंधेरे, इस मणि विश्वासघाती लक्षण पास के रूप में यह अपनी wielders हाथ से निकल जाता है ...',
       cs: 'Malý, hladký a temný, tento drahokam má zrádné rysy, když se vyklouzne z rukou držitelů ...',
       ja: '小さくて滑らかで暗いこの宝石は、その手の手の手から外れると危険な特徴を持っています...',
-      tr: 'Küçük, pürüzsüz ve karanlık, bu mücevher kaynakçıların ellerinden kaydığı için hain özelliklere sahip ...'
+      tr: 'Küçük, pürüzsüz ve karanlık, bu mücevher kaynakçıların ellerinden kaydığı için hain özelliklere sahip ...',
+      ht: 'Ti, dous ak fènwa, gem sa a possède trè perfides ke li bons anba men wielders li...'
     }
   },
 
@@ -185,7 +194,8 @@ export default [
       hi: 'शानदार संतृप्त गुलाबी पंखों इस आयामी चश्मे मणि से वृद्धि। आपका शत्रु विस्मय के साथ आप के घूरने से ...',
       cs: 'Z tohoto fasetového hranolového drahokamu vyčnívají velkolepé nasycené růžové švestky. Vaši nepřátelé na tebe zírají s úžasem ...',
       ja: '壮観な飽和ピンクプルームは、このファセットプリズム宝石から発生します。あなたの敵は畏敬の念を持ってあなたを見つめています...',
-      tr: 'Muhteşem pembe tüyler bu prizmatik cevherden çıkar. Huşu ile sana bakar...'
+      tr: 'Muhteşem pembe tüyler bu prizmatik cevherden çıkar. Huşu ile sana bakar...',
+      ht: 'Gwo saturée plumes penk monte soti nan prismical gem à sa a. Lènmi ou gade nan je ou ak eskente...'
     }
   },
 
@@ -204,7 +214,8 @@ export default [
       hi: 'उज्ज्वल हरे रंग की रोशनी कभी-कभी इस कांच मणि से बाहर अवधि, कास्टिंग पहनने वालों के भविष्य के अनुमानों।',
       cs: 'Z tohoto skleněného klenotu se občas rozprostírají jasně zelená světla.',
       ja: '鮮やかな緑色の光が時折着用者の将来のこのガラス宝石の鋳造物の投影から広がっています。',
-      tr: 'Parlak yeşil ışıklar ara sıra, bu cam mücevherin dışına çıkmakta ve kullanıcıların gelecekteki hallerini yansıtmaktadır.'
+      tr: 'Parlak yeşil ışıklar ara sıra, bu cam mücevherin dışına çıkmakta ve kullanıcıların gelecekteki hallerini yansıtmaktadır.',
+      ht: 'Tenyen dènye limyè green Okazyonèlman pon nan gem vè sa a, al depoze vòt pwojèksyon yo nan pwochen porteurs.'
     }
   }
 ]
