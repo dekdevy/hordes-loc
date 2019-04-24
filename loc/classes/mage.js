@@ -33,7 +33,7 @@ export default {
     nl: 'Magiërs geven zeer zware, grootschalige schade aan het gebied van het effect aan te pakken, terwijl ze ook het nut van het afremmen van doelen met hun op ijs gebaseerde magie vergroten.',
     tr: 'Büyücüler ağır alan etkili hasar verirken buz büyüleriyle hedeflerini yavaşlatır.',
     it: 'I maghi infliggono danni di Area of ​​Effect molto pesanti su larga scala, fornendo anche utilità attraverso il rallentamento degli obiettivi con la loro magia basata sul ghiaccio.',
-    ht: 'Mages deal very heavy large scale Area of Effect damage, while also providing utility through slowing targets with their ice based magic.',
+    ht: 'Maj kontra gwo echèl gwo Zòn domaj nan efè, pandan y ap tou bay sèvis piblik nan ralanti sib ak majik ki baze sou glas yo.',
     pl: 'Magowie zadają bardzo duże obrażenia obszarowe na dużą skalę, dostarczając jednocześnie narzędzia poprzez spowalnianie celów za pomocą magii opartej na lodzie.',
     cs: 'Mágové se zabývají velmi těžkým rozsahem škod způsobených rozsáhlým rozsahem a zároveň poskytují pomůcku prostřednictvím zpomalení cílů s jejich kouzlem založeným na ledu.',
     ja: '魔術師は、非常に重い大規模な効果領域ダメージを与えながら、氷をベースにした魔法でターゲットを減速させることで有用性も提供します。',
