@@ -39,7 +39,21 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'thieving', 'farcical', 'falsifying', 'azure', 'albino', 'alien', 'agitating', 'galant', 'glossy', 'globular', 'searing',
   'flaming', 'frosty', 'herculean', 'irksome', 'vulnerable', 'meritiorious', 'optimistic', 'pessemistic', 'possessive',
   'slapdash', 'slav', 'terrifying', 'tender', 'raw', 'weedy', 'ironic', 'fake', 'lavish', 'abandoned', 'emetic', 'mocking',
-  'surreal', 'arctic', 'poignant', 'stalking', 'empowering', 'coldforged', 'tattered']
+  'surreal', 'arctic', 'poignant', 'stalking', 'empowering', 'coldforged', 'tattered', 'predestined', 'enigmatic', 'wrathful',
+  'hyperdimensional', 'corrosive', 'bootleg', 'concilatory', 'benificial', 'atrocious', 'laughable', 'luscious', 'faceted',
+  'mercurial', 'mellifluous', 'pernicious', 'phenomenal', 'soulful', 'soulless', 'deathless', 'damaged', 'imperishable',
+  'relentless', 'callous', 'remorseless', 'shrinking', 'expanding', 'scruffy', 'suptuous', 'gorgeous', 'opulent', 'flourishing',
+  'exaggerated', 'evasive', 'shifty', 'appealing', 'cheap', 'expensive', 'benevolent', 'liberal', 'virtuous', 'frustrating',
+  'ruling', 'controlling', 'supreme', 'inferior', 'superior', 'flammable', 'practical', 'frenzied', 'bloodhungry', 'starving',
+  'malnourished', 'frightening', 'alarming', 'startling', 'horrifying', 'menacing', 'scary', 'dazzling', 'glaring', 'flagrant',
+  'luxurious', 'diamond', 'splendid', 'plush', 'magnificent', 'ragged', 'tatty', 'rundown', 'weedy', 'jagged', 'serrated',
+  'rupturing', 'tearing', 'bursting', 'breaching', 'seperating', 'severing', 'sinister', 'dusty', 'wartorn', 'utopian',
+  'striking', 'loathing', 'officious', 'gilded', 'unbelievable', 'solemn', 'effective', 'eliminating', 'furry', 'fuzzy',
+  'fluffy', 'fizzy', 'glinting', 'glistening', 'glittery', 'gloating', 'joyless', 'depressing', 'powerful', 'incurable',
+  'indecipherable', 'indecorous', 'inappropiate', 'melodic', 'stlited', 'artificial', 'dangerous', 'awkward', 'awful',
+  'marauding', 'spectacular', 'beatific', 'beautiful', 'gullible', 'highbrow', 'lowbrow', 'hibernating', 'sleeping', 'hideous',
+  'humble', 'humid', 'itchy', 'jerky', 'jesting', 'jejune', 'jeeming', 'kidnapping', 'abducting', 'motionless', 'motley',
+  'grim', 'poised', 'rudimentary', 'emerald', 'eminent', 'famous', 'innocuous']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
@@ -67,7 +81,7 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'goose', 'devil', 'beast', 'rat', 'zombie', 'raven', 'ethereal', 'bones', 'dice', 'watchman', 'cannon', 'chain', 'cupbearer',
   'guardsman', 'tailor', 'chasm', 'hive', 'gnome', 'dungeon', 'lizard', 'sage', 'priest', 'sorcerer', 'necromancer', 'charmer',
   'warlock', 'witch', 'rod', 'trapdoor', 'scribe', 'dragonfire', 'wanderer', 'traveller', 'needle', 'mask', 'helm', 'key',
-  'jail', 'prison', 'inmate', 'criminal', 'trolloc', 'paw', 'steel', 'iron', 'blade', 'shade', 'shelter', 'fool', 'horn', 'bicouac',
+  'jail', 'prison', 'inmate', 'criminal', 'trolloc', 'paw', 'steel', 'iron', 'blade', 'shade', 'shelter', 'fool', 'horn', 'bivouac',
   'outsider', 'quisling', 'wind', 'rider', 'sickle', 'sergeant', 'corporal', 'major', 'serpent', 'shackles', 'whip', 'shipwreck',
   'sledgehammer', 'eyeball', 'idiot', 'mammoth', 'worm', 'vampire', 'inferno', 'hobgoblin', 'hound', 'megalith', 'lozenge',
   'poison', 'beggar', 'battle', 'battlefield', 'kaiser', 'kamikaze', 'naiad', 'narcotic', 'scorpion', 'argosy', 'opal',
@@ -76,7 +90,13 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'trinket', 'vulture', 'watchdog', 'robber', 'stealer', 'patriarch', 'genius', 'gale', 'heiress', 'princess', 'parchment',
   'portcullis', 'stronghold', 'fort', 'bailey', 'tepee', 'tsar', 'limousin', 'mermaid', 'siren', 'nymph', 'heir', 'eon',
   'era', 'century', 'century', 'millenium', 'decade', 'gallows', 'gamble', 'maestro', 'joker', 'fairy', 'noose', 'tomohawk',
-  'ore', 'halcyon']
+  'ore', 'halcyon', 'orb', 'snowball', 'sphere', 'cyclopes', 'duke', 'baron', 'dynamo', 'contraband', 'souvenir', 'atrocity',
+  'assault', 'lash', 'phenomena', 'disease', 'epidemic', 'egg', 'guild', 'clan', 'ruler', 'boss', 'idol', 'frontier', 'beverage',
+  'pillage', 'plunder', 'invasion', 'conquest', 'incursion', 'tomb', 'vault', 'crypt', 'mausoleum', 'sarcophagus', 'catacomb',
+  'sepulchre', 'turmoil', 'myrmidon', 'navy', 'scapegoat', 'deserter', 'archer', 'charmer', 'yawl', 'lingo', 'eclipse', 'comet',
+  'asteroid', 'planet', 'galley', 'galaxy', 'megalomaniac', 'melee', 'maraud', 'marauder', 'spike', 'cavalry', 'pike', 'misanthopist',
+  'boa', 'battleship', 'battlement', 'axe', 'stave', 'hieroglyph', 'jackpot', 'jester', 'motherland', 'father', 'mother', 'treaty',
+  'oath']
 
 const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', 'misfortune', 'rage', 'joy',
   'leveling', 'vengance', 'resurrection', 'mastery', 'loss', 'flames', 'fire', 'frost', 'glory', 'war', 'sprinting',
@@ -96,7 +116,12 @@ const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', '
   'spiritualism', 'hysteria', 'foolishness', 'idiocy', 'vanity', 'vertigo', 'vivacity', 'holiness', 'humour', 'hypnotism',
   'secrets', 'renovation', 'bliss', 'falseness', 'isolation', 'apoplexy', 'omens', 'tipsiness', 'blasphemy', 'heresy', 'prowess',
   'proficiency', 'plagiarism', 'hallucinations', 'pyromania', 'theft', 'falconry', 'intuition', 'strategy', 'planning', 'alacrity',
-  'heroism', 'vulnerability', 'binding', 'vanishing', 'optimism', 'unarming', 'scrutiny', 'solitude', 'empowerment']
+  'heroism', 'vulnerability', 'binding', 'vanishing', 'optimism', 'unarming', 'scrutiny', 'solitude', 'empowerment', 'wrath',
+  'convalescence', 'justice', 'benediction', 'aspiration', 'perpicacity', 'perturbation', 'melody', 'undying', 'fury', 'rampage',
+  'frenzy', 'remorse', 'sorrow', 'guilt', 'honesty', 'union', 'fulfilment', 'exaggeration', 'appeal', 'retaliation', 'mourning',
+  'leading', 'ruling', 'command', 'integrity', 'humility', 'honour', 'virtue', 'completeness', 'unity', 'focus', 'training',
+  'knowledge', 'restoration', 'refurbishment', 'disclosure', 'energy', 'violation', 'stringency', 'loath', 'fuss', 'megalomania',
+  'danger', 'gallivanting', 'hibernation', 'horror', 'terror', 'eminence']
 
 export const generate = ()=>{
   // generates a random party invite link name

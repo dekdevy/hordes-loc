@@ -12,7 +12,11 @@ export default {
       ht: 'O, mwen wè ou vwayajè. Ou gade fatige ak grangou. Nou asistan tou Roaming sa yo bèl tè. Ou vle m \'mennen ou nan yon sèl?',
       pl: 'Ach, widzę, że jesteś podróżnikiem. Zmęczony i głodny wyglądasz. My, czarnoksiężnicy, również przemierzamy te piękne ziemie. Chcesz, żebym zabrał cię do jednego?',
       nl: 'Ah, ik zie je reiziger. Moe en uitgehongerd zie je eruit. Wij goochelaars, te, zwerven door dit mooie land. Zou je willen dat ik je naar een van die breng?',
-      pt: 'Ah, vejo-te viajante. Cansado e faminto você olha. Nós, mágico, também andamos por essas terras nobres. Queres que te leve a uma?'
+      pt: 'Ah, vejo-te viajante. Cansado e faminto você olha. Nós, mágico, também andamos por essas terras nobres. Queres que te leve a uma?',
+      sv: 'Ah, jag ser dig resande.  Weary och famished du ser.  Vi medför också förföljare i dessa fina länder.  Vill du att jag ska ta dig till en?',
+      cs: 'Ach, vidím vás cestovatele.  Vzteklý a hladový pohled.  Také se uchylujeme k těmto jemným zemím.  Chcete, abych vás vzal na jednoho?',
+      ja: 'ああ、旅人に会いましょう。疲れきってあなたは見ている。私たちもまた、この素晴らしい土地を歩き回っています。私を連れて行ってもらえますか。',
+      tr: 'Ah, seni görüyorum gezgin. Yorgun ve kurt gibi aç gözüküyorsun. Bu güzel topraklarda dolaşan biz büyücüler de öyleyiz. Seni bir tanesine götürmemi ister misin?'
     },
     choices: [{
       en: 'Please bring me to $1.',
@@ -25,7 +29,10 @@ export default {
       ht: 'Tanpri, pote m \'$ 1.',
       pl: 'Proszę, przyprowadź mnie do $1.',
       nl: 'Breng me alsjeblieft naar $1.',
-      pt: 'Por favor, entregar me $1.'
+      pt: 'Por favor, entregar me $1.',
+      cs: 'Přiveďte mě na $ 1.',
+      ja: '私を $1 の元に連れて行って',
+      tr: 'Lütfen bana $1 getir.'
     }]
   }]
 }
