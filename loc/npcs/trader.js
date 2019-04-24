@@ -14,7 +14,7 @@ export default {
       pt: 'Saudações, viajante errante! Gostaria de vender alguma coisa?',
       cs: 'Pozdravy putování cestovatel!  Chcete něco prodat?',
       ja: '旅人をさまよう挨拶！何か売りたいですか？',
-      hi: 'नमस्ते यात्री भटक! आप कुछ बेचने करना चाहते हैं?',
+      hi: 'नमस्ते यात्री! क्या आप कुछ बेचना चाहते है?',
       tr: 'Selam dolaşan gezgin! Bir şeyler satmak ister misin?'
     },
     choices: {
