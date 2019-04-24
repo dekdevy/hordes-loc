@@ -15,7 +15,8 @@ export default [
       cs: 'Malý a ostrý, tento přívěsek zanechává mělké škrábance na kůži během bitvy.',
       ja: '小さくて鋭いこのペンダントは戦いの間にあなたの肌に浅い擦り傷を残します。',
       tr: 'Küçük ve keskin, bu kolye savaş sırasında cildinize küçük sıyrıklar bırakır.',
-      ht: 'Ti ak byen file, sa a pandye fèy bwa grate ti kras sou po ou pandan batay.'
+      ht: 'Ti ak byen file, sa a pandye fèy bwa grate ti kras sou po ou pandan batay.',
+      sv: 'Liten och skarp, denna hängsmycke lämnar grunda skrapar på din hud under striden.'
     }
   },
 
@@ -35,7 +36,8 @@ export default [
       cs: 'Hrubý šedý kámen ve tvaru disku s podivnými rytmickými druidickými rytinami, které ho obklopují.',
       ja: 'それを包んでいる奇妙なドルイドの彫刻が付いている粗い円盤形の灰色の石。',
       tr: 'Kaba disk şeklindeki gri taş, onu saran garip rahibesel işlemeler.',
-      ht: 'Wouj disk ki gen fòm wòch gri ak etranj grave ekri dris encasing li.'
+      ht: 'Wouj disk ki gen fòm wòch gri ak etranj grave ekri dris encasing li.',
+      sv: 'Grov skivformad grå sten med konstiga druidiska gravyrer som omsluter den.'
     }
   },
 
@@ -55,7 +57,8 @@ export default [
       cs: 'Silný transparentní skleněný talisman, slabý fialový odstín vám ukazuje svět v melancholickém světle.',
       ja: '強力な透明なガラス製のお守りのかすかな紫の色合いが憂鬱な光の中であなたに世界を見せています。',
       tr: 'Güçlü şeffaf cam tılsım, soluk mor renk tonu size dünyayı melankolik bir ışıkla gösterir.',
-      ht: 'Pwisan Talisman transparan an vè, tenti wouj violèt montre ou mond lan nan yon limyè trist.'
+      ht: 'Pwisan Talisman transparan an vè, tenti wouj violèt montre ou mond lan nan yon limyè trist.',
+      sv: 'Kraftfull transparent glas talisman, svag lila nyans visar dig världen i ett melankolskt ljus.'
     }
   },
 
@@ -75,7 +78,8 @@ export default [
       cs: 'Hnědý desaturovaný drahokam, vyzařující hnijící vůně, když ho nosíte kolem krku.',
       ja: '腐敗した香りを放つ茶色の彩度の低い宝石',
       tr: 'Kahverengi doygunluğu azaltılmış mücevher, boynunuza taktığınız gibi kokuşmuş kokular yayar.',
-      ht: 'Gwo lous desaturasyon, emèt sant odè ou mete li nan kou ou.'
+      ht: 'Gwo lous desaturasyon, emèt sant odè ou mete li nan kou ou.',
+      sv: 'Brun desaturerad pärla som ger utspända dofter när du bär den runt nacken.'
     }
   },
 
@@ -95,7 +99,8 @@ export default [
       cs: 'Lesklý modrý artefakt, odkryté chlupaté bílé žíly podél jeho kulového povrchu.',
       ja: '光沢のある青いアーティファクトは、その球面に沿って走る白っぽく白い静脈を露出させました。',
       tr: 'Parlak mavi eser, küresel yüzeyi boyunca akan incecik beyaz damarlarla bezenmiş.',
-      ht: 'Lustrous asosye ble, ekspoze wispy venn blan kouri ansanm sifas esferik li yo.'
+      ht: 'Lustrous asosye ble, ekspoze wispy venn blan kouri ansanm sifas esferik li yo.',
+      sv: 'Ljusblå artefakt, exponerade vita vita vener som löper längs sin sfäriska yta.'
     }
   },
 
@@ -115,7 +120,8 @@ export default [
       cs: 'Zářivý titánový skleněný drahokam, který odhaluje tvé nepřátele skrytá tajemství.',
       ja: 'あなたの敵に隠された秘密を明らかにした輝くティティアングラスのような宝石。',
       tr: 'Düşmanlarının gizli sırlarını açığa çıkaran parlayan ışıltılı titian cam benzeri mücevher.',
-      ht: 'Radyan jeyan tankou vè ki tankou revele sekrè kache lenmi ou.'
+      ht: 'Radyan jeyan tankou vè ki tankou revele sekrè kache lenmi ou.',
+      sv: 'Strål ande Titian glasliknande pärla avslöjar din fiende gömda hemligheter.'
     }
   },
 
@@ -135,7 +141,8 @@ export default [
       cs: 'Velký červený drahokam uzavřený v propasti temných prasklin, které dávají nepřátelům pocit žárlivosti.',
       ja: 'あなたの敵に嫉妬の感覚を与える深淵な暗い裂け目に囲まれた壮大な赤い宝石。',
       tr: 'Düşmanlarınıza bir kıskançlık hissi veren, karanlık uçurumlarda bulunan büyük kırmızı mücevher.',
-      ht: 'Gran wouj gem mete andedan nan fissures fènwa abîme, bay lènmi ou vle di yon jalouzi.'
+      ht: 'Gran wouj gem mete andedan nan fissures fènwa abîme, bay lènmi ou vle di yon jalouzi.',
+      sv: 'Stor röd pärla omslagen i avgrunden mörka sprickor, vilket ger dina fiender en känsla av svartsjuka.'
     }
   },
 
@@ -155,7 +162,8 @@ export default [
       cs: 'Ostré zelené okraje zachycují na slunci zářivé světlo, které vytváří krásný a smrtící pohled.',
       ja: '鋭い緑色の縁が太陽の下で輝く光を捉え、美しく致命的な光景を作ります。',
       tr: 'Keskin yeşil kenarlar güneşte parlayan ışıklar saçar, güzel ve ölümcül bir manzara sunar.',
-      ht: 'Byen file lizyè vèt trape mousseux limyè nan solèy, li fè yon bèl ak vi trè danjere.'
+      ht: 'Byen file lizyè vèt trape mousseux limyè nan solèy, li fè yon bèl ak vi trè danjere.',
+      sv: 'De skarpa gröna kanterna får glittrande ljus i solen, vilket gör en vacker och dödlig syn.'
     }
   },
 
@@ -175,7 +183,8 @@ export default [
       cs: 'Malý, hladký a temný, tento drahokam má zrádné rysy, když se vyklouzne z rukou držitelů ...',
       ja: '小さくて滑らかで暗いこの宝石は、その手の手の手から外れると危険な特徴を持っています...',
       tr: 'Küçük, pürüzsüz ve karanlık, bu mücevher kaynakçıların ellerinden kaydığı için hain özelliklere sahip ...',
-      ht: 'Ti, dous ak fènwa, gem sa a possède trè perfides ke li bons anba men wielders li...'
+      ht: 'Ti, dous ak fènwa, gem sa a possède trè perfides ke li bons anba men wielders li...',
+      sv: 'Små, släta och mörka, den här pärlan har förrädiska egenskaper som den glider ut från sina handtagshänder ...'
     }
   },
 
@@ -195,7 +204,8 @@ export default [
       cs: 'Z tohoto fasetového hranolového drahokamu vyčnívají velkolepé nasycené růžové švestky. Vaši nepřátelé na tebe zírají s úžasem ...',
       ja: '壮観な飽和ピンクプルームは、このファセットプリズム宝石から発生します。あなたの敵は畏敬の念を持ってあなたを見つめています...',
       tr: 'Muhteşem pembe tüyler bu prizmatik cevherden çıkar. Huşu ile sana bakar...',
-      ht: 'Gwo saturée plumes penk monte soti nan prismical gem à sa a. Lènmi ou gade nan je ou ak eskente...'
+      ht: 'Gwo saturée plumes penk monte soti nan prismical gem à sa a. Lènmi ou gade nan je ou ak eskente...',
+      sv: 'Spektakulära mättade rosa plumes stiger från denna fasetterade prismiska pärla. Dina fiender att stirra på dig med vördnad ...'
     }
   },
 
@@ -215,7 +225,8 @@ export default [
       cs: 'Z tohoto skleněného klenotu se občas rozprostírají jasně zelená světla.',
       ja: '鮮やかな緑色の光が時折着用者の将来のこのガラス宝石の鋳造物の投影から広がっています。',
       tr: 'Parlak yeşil ışıklar ara sıra, bu cam mücevherin dışına çıkmakta ve kullanıcıların gelecekteki hallerini yansıtmaktadır.',
-      ht: 'Tenyen dènye limyè green Okazyonèlman pon nan gem vè sa a, al depoze vòt pwojèksyon yo nan pwochen porteurs.'
+      ht: 'Tenyen dènye limyè green Okazyonèlman pon nan gem vè sa a, al depoze vòt pwojèksyon yo nan pwochen porteurs.',
+      sv: 'Ljusgröna lampor spänner ibland ut ur den här glasstenen, framkallning av bärarens framtid.'
     }
   }
 ]
