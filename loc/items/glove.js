@@ -13,7 +13,8 @@ export default [
       fr: 'Des lanières de cuir recouvrent vos faibles mains. Tirer la corde de l\'arc est beaucoup plus facile pour vous maintenant.',
       hi: 'चमड़े की पट्टियाँ जो आपके नाज़ुक हाथो को ढकती हैं। अब धनुष चलना आसान होगा।',
       cs: 'Popruhy kůže pokrývají vaše slabé ruce. Tahání tětivy je pro tebe nyní mnohem snazší.',
-      ja: 'あなたの弱い手を覆う革のストラップ。弦を引くことは今あなたにとってずっと簡単です。'
+      ja: 'あなたの弱い手を覆う革のストラップ。弦を引くことは今あなたにとってずっと簡単です。',
+      tr: 'Zayıf ellerini kaplayan deri kayışlar. Kordonu çekmek şimdi sizin için çok daha kolay.'
     }
   },
 
@@ -31,7 +32,8 @@ export default [
       fr: 'Le filé de moutons volés fait de ces gants chauds un plaisir à porter.',
       hi: 'चुरायी गयी बकरियों के ऊन से बनाए गए गरम दस्ताने पहन्ने में अच्छे लगते है।',
       cs: 'Spřádaná příze z odcizených ovcí tyto teplé rukavice potěší.',
-      ja: '盗まれた羊からの紡績糸はこれらの暖かい手袋を身に着ける喜びにします。'
+      ja: '盗まれた羊からの紡績糸はこれらの暖かい手袋を身に着ける喜びにします。',
+      tr: 'Çalınan koyunlardan elde edilen bükülmüş ipliklerden yapılan bu sıcak eldivenleri giymek bir zevktir.'
     }
   },
 
@@ -49,7 +51,8 @@ export default [
       fr: 'Vos doigts peuvent à peine bouger dans ces mitaines en cuir rigide.',
       hi: 'इन कड़े चमड़े के दस्तनो में उँगलिया मुश्किल से हिल पाएगी।',
       cs: 'V těchto tuhých kožených rukavicích se sotva pohnou prsty.',
-      ja: 'あなたの指はかろうじてこれらの硬い革のミットの中で動くことができます。'
+      ja: 'あなたの指はかろうじてこれらの硬い革のミットの中で動くことができます。',
+      tr: 'Parmaklarınız bu sert deri eldivenlerde zar zor hareket eder.'
     }
   },
 
@@ -67,7 +70,8 @@ export default [
       fr: 'Les bruits de cliquetis voyagent avec vous lorsque vous les portez.',
       hi: 'इन्हें पहन्ने से ठन ठन आवाज़ आपके साथ चलती है।',
       cs: 'S těmi se unášíš, jak si ty tyhle zvuky.',
-      ja: 'あなたがこれらを身に着けていると、クラッキング音はあなたと一緒に伝わります。'
+      ja: 'あなたがこれらを身に着けていると、クラッキング音はあなたと一緒に伝わります。',
+      tr: 'Çatırdama sesleri siz bunları giydikçe sizinle birlikte hareket eder.'
     }
   },
 
@@ -85,7 +89,8 @@ export default [
       fr: 'Les gants en fer doux offrent un peu plus de protection, bien que vos mains soient froides maintenant.',
       hi: 'मुलायम लोहे के दस्ताने थोड़ी ज़्यादा रक्षा करते है, बस आपके हाथ ठंडे पद जाएँगे।',
       cs: 'Rukavice z měkkého železa poskytují trochu větší ochranu, i když jsou vaše ruce teď studené.',
-      ja: 'あなたの手は今寒いですが、柔らかい鉄の手袋はもう少し保護を提供します。'
+      ja: 'あなたの手は今寒いですが、柔らかい鉄の手袋はもう少し保護を提供します。',
+      tr: 'Yumuşak demir eldivenler, ellerinizi soğuk tutmasına rağmen, biraz daha koruma sağlar.'
     }
   },
 
@@ -103,7 +108,8 @@ export default [
       fr: 'Des mitaines faites d\'un matériau inconnu... il brille...',
       hi: 'अनजाने पदार्थ से बने दस्ताने... चमकदार...',
       cs: 'Rukavice vyrobené z neznámého materiálu... svítí...',
-      ja: '未知の素材でできたミット'
+      ja: '未知の素材でできたミット',
+      tr: 'Bilinmeyen bir materyalden yapılmış eldiven... parlıyor da...'
     }
   },
 
@@ -121,7 +127,8 @@ export default [
       fr: 'Un général de guerre a dû a fait tomber ces....probablement involontairement aussi.',
       hi: 'किसी सेनापति ने इन्हें गिरा दिया होगा... ग़लती से।',
       cs: 'Nějaký válečný generál je musel upustit ... pravděpodobně i neúmyslně.',
-      ja: '何人かの将軍はこれらを落としたにちがいない…おそらく意図せずに。'
+      ja: '何人かの将軍はこれらを落としたにちがいない…おそらく意図せずに。',
+      tr: 'Bir savaş generali bunları düşürmüş olmalı... muhtemelen bundan haberi de yok.'
     }
   },
 
@@ -139,7 +146,8 @@ export default [
       fr: 'Le feu ne fait pas le poids face à vos mains quand vous portez ces mitaines d\'émeraude.',
       hi: 'इन हरे चमकीली दस्तनो को पहनकर आगा भी आपका कुछ नहीं बिगाड़ सकती है।',
       cs: 'Oheň není vhodný pro vaše ruce, když nosíte tyto smaragdové rukavice.',
-      ja: 'あなたがこれらのエメラルドのミットを身に着けているので、火はあなたの手にはマッチしません。'
+      ja: 'あなたがこれらのエメラルドのミットを身に着けているので、火はあなたの手にはマッチしません。',
+      tr: 'Bu zümrüt eldiveni takarken alev elinize işlemiyor.'
     }
   },
 
@@ -157,7 +165,8 @@ export default [
       fr: 'Ça donne une fausse impression de pouvoir.',
       hi: 'शक्ति की झूटि भावना देते है ये दस्ताने।',
       cs: 'Dává falešný pocit moci.',
-      ja: '誤った権力を与えます。'
+      ja: '誤った権力を与えます。',
+      tr: 'Sahte bir güç hissi veriyor.'
     }
   },
 
@@ -175,7 +184,8 @@ export default [
       fr: 'Forgé sans chaleur, porté sans crainte.',
       hi: 'आग के बिना रचे, डर के बिना धरे।',
       cs: 'Kované bez tepla, nošené bez strachu.',
-      ja: '熱をかけずに鍛造し、恐れることなく着用。'
+      ja: '熱をかけずに鍛造し、恐れることなく着用。',
+      tr: 'Ateş olmadan işlenir, korkusuzca giyilir.'
     }
   },
 
@@ -193,7 +203,8 @@ export default [
       fr: 'Gants recherchés par les guerriers depuis siècles....enfin...on les trouve.',
       hi: 'युगों युगों तक योधाओं ने इन्हें खोजा है...आख़िर कार...मिल ही गए।',
       cs: 'Rukavice hledané válečníky pro éry na konci ... konečně ... to je nalezeno.',
-      ja: '手袋は最後に時代のために戦士によって捜しました...ついに...それは見つかりました。'
+      ja: '手袋は最後に時代のために戦士によって捜しました...ついに...それは見つかりました。',
+      tr: 'Savaşçıların çağlar boyunca aradığı eldivenler.. ve sonunda... bulundu.'
     }
   },
 
@@ -211,7 +222,8 @@ export default [
       fr: 'Les rumeurs disent qu\'un contact de ces gants transforme vos ennemis en or...votre main est étrangement lourde....',
       hi: 'अफ़वाए कहती है, इन दस्तानो के स्पर्श से दुश्मन सोना बन जाते है...आपका हाथ भारी लग रहा है...',
       cs: 'Pověsti říkají, že dotek z těchto rukavic promění tvé nepřátele na zlato ... tvoje ruka je podivně těžká ...',
-      ja: '噂によると、これらの手袋から触れるとあなたの敵が金に変わります...あなたの手は奇妙に重いのです...'
+      ja: '噂によると、これらの手袋から触れるとあなたの敵が金に変わります...あなたの手は奇妙に重いのです...',
+      tr: 'Bir dokunuşla düşmanlarınızı altına çevirdiği söylenir... Gel gör ki bu eldivenlerle elleriniz çok ağır.'
     }
   },
 
@@ -229,7 +241,8 @@ export default [
       fr: 'Des gants si puissants dans leur nature que l\'air même scintille lorsque vous agitez la main.',
       hi: 'इतनी ताक़तवर प्रकृति के दस्ताने, हाथ हिलाने से हवा भी चमकती है।',
       cs: 'Rukavice tak silné v jejich přírodě, že se vzduchem třpytí, jak si máváte rukou.',
-      ja: '手袋はその性質上非常に強力であるため、あなたが手を振るにつれて非常に空気がきらめきます。'
+      ja: '手袋はその性質上非常に強力であるため、あなたが手を振るにつれて非常に空気がきらめきます。',
+      tr: 'Eldivenler doğada o kadar güçlü ki, elinizle salladığınız havada parıltılar beliriyor.'
     }
   }
 

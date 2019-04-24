@@ -15,7 +15,8 @@ export default {
       pt: 'Ah, vejo-te viajante. Cansado e faminto você olha. Nós, mágico, também andamos por essas terras nobres. Queres que te leve a uma?',
       sv: 'Ah, jag ser dig resande.  Weary och famished du ser.  Vi medför också förföljare i dessa fina länder.  Vill du att jag ska ta dig till en?',
       cs: 'Ach, vidím vás cestovatele.  Vzteklý a hladový pohled.  Také se uchylujeme k těmto jemným zemím.  Chcete, abych vás vzal na jednoho?',
-      ja: 'ああ、旅人に会いましょう。疲れきってあなたは見ている。私たちもまた、この素晴らしい土地を歩き回っています。私を連れて行ってもらえますか。'
+      ja: 'ああ、旅人に会いましょう。疲れきってあなたは見ている。私たちもまた、この素晴らしい土地を歩き回っています。私を連れて行ってもらえますか。',
+      tr: 'Ah, seni görüyorum gezgin. Yorgun ve kurt gibi aç gözüküyorsun. Bu güzel topraklarda dolaşan biz büyücüler de öyleyiz. Seni bir tanesine götürmemi ister misin?'
     },
     choices: [{
       en: 'Please bring me to $1.',
@@ -30,7 +31,8 @@ export default {
       nl: 'Breng me alsjeblieft naar $1.',
       pt: 'Por favor, entregar me $1.',
       cs: 'Přiveďte mě na $ 1.',
-      ja: '$1に連れて行ってください'
+      ja: '$1に連れて行ってください',
+      tr: 'Lütfen bana $1 getir.'
     }]
   }]
 }
