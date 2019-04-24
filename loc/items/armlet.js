@@ -260,7 +260,8 @@ export default [
       it: 'Riformato, perso, trovato, rubato, nascosto per epoche senza fine.',
       hi: 'जाली, खो दिया है, पाया, चोरी, अंत के बिना युगों के लिए छिपा हुआ है।',
       cs: 'Reforged, ztracený, nalezený, ukradený, ukrytý pro éry bez konce.',
-      ja: '失われた遺失物は、終わりのない時代に隠されて盗まれました。'
+      ja: '失われた遺失物は、終わりのない時代に隠されて盗まれました。',
+      sv: 'Smidda, förlorade, hittade, stol, gömd för eroder utan slut.'
     }
   },
 
