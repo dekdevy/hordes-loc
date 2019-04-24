@@ -204,7 +204,8 @@ export default [
       sv: 'Smidd utan värme, löper utan att snubbla.',
       cs: 'Kované bez tepla, běží bez klopýtnutí.',
       ja: '熱なしで鍛造はつまずくことなく実行されます。',
-      hi: 'गर्मी के बिना जाली, ठोकर बिना चलाता है।'
+      hi: 'गर्मी के बिना जाली, ठोकर बिना चलाता है।',
+      ht: 'Te dwe fòje san chalè, baz pa kase pye.'
     }
   },
 
@@ -224,7 +225,8 @@ export default [
       sv: 'Vissa säger att du kan springa på moln med dessa. De få som har försökt har redan stigit upp.',
       cs: 'Někteří říkají, že s nimi můžete běžet na mraky. Těch několik, kteří se už pokusili vystoupit.',
       ja: 'あなたはこれらで雲の上を走ることができると言う人もいます。試みた少数の人はすでに上がっています。',
-      hi: 'कुछ लोग कहते हैं कि आप इन के साथ बादलों पर चला सकते हैं। कुछ है कि कोशिश की है पहले से ही चढ़ा है।'
+      hi: 'कुछ लोग कहते हैं कि आप इन के साथ बादलों पर चला सकते हैं। कुछ है कि कोशिश की है पहले से ही चढ़ा है।',
+      ht: 'Yon lòt ankò: ou ka kouri sou nwaj yo ak tout bagay sa. Twa ki te eseye fè deja est.'
     }
   },
 
@@ -244,7 +246,8 @@ export default [
       sv: 'Gamla stövlar ryktes för att bli stulna från fötterna till den romerska budbärarens gud ...',
       cs: 'Starověké boty, o nichž se říkalo, že jsou ukradeny z nohou římského posla boha ...',
       ja: '古代のブーツはローマのメッセンジャーの神の足から盗まれると噂されています...',
-      hi: 'प्राचीन अफवाह जूते रोमन दूत भगवान के चरणों से चोरी किए जाने की ...'
+      hi: 'प्राचीन अफवाह जूते रोमन दूत भगवान के चरणों से चोरी किए जाने की ...',
+      ht: 'Ansyen bòt nan komansman que pou pou te vòlè nan pye Bondye Romen mesaje a...'
     }
   },
 
@@ -264,7 +267,8 @@ export default [
       sv: 'Stjärnor anses alltid vara allsmäktiga, nu är de din.',
       cs: 'Hvězdy byly vždy považovány za všemohoucího, teď jsou vaše.',
       ja: '星は常に万能であると考えられてきました。',
-      hi: 'सितारे हमेशा सर्वशक्तिमान माना जाता था, अब वे तुम्हारा कर रहे हैं।'
+      hi: 'सितारे हमेशा सर्वशक्तिमान माना जाता था, अब वे तुम्हारा कर रहे हैं।',
+      ht: 'Zetwal te toujou konsidere tout, koulye a, y\' ap ye.'
     }
   }
 
