@@ -19,6 +19,7 @@ export default {
     ht: 'Vanguard chèche tradisyon, estrikti ak lòd nan sosyete a. Ka chato yo ka jwenn nan yon zòn bèl vèt alantou Guardstone.',
     pl: 'Horde Vanguard seeks tradition, structure and order in society. Their castle is located in the lush greenery around Guardstone.',
     cs: 'Vanguardská horda hledá tradici, strukturu a pořádek ve společnosti. Jejich hrad se nachází v bujné zelené oblasti kolem Guardstone.',
-    ja: 'ヴァンガードの大群は社会における伝統の構造と秩序を求めています。彼らの城は、ガードストーン周辺の緑豊かな地域にあります。'
+    ja: 'ヴァンガードの大群は社会における伝統の構造と秩序を求めています。彼らの城は、ガードストーン周辺の緑豊かな地域にあります。',
+    ro: 'Facțiunea Vanguard caută tradiția, structura și ordinea în societate. Castelul lor poate fi găsit într-o zonă verde luxuriantă din jurul Guardstone.'
   }
 }
