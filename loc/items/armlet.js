@@ -276,7 +276,7 @@ export default [
       pt: 'Este item foi forjado na lua cheia quando encantamentos misteriosos foram ouvidos nos sussurros da escuridão. Alguns dizem que foi o próprio Anubis falando com os mortos.',
       ko: '이 아이템은 어둠의 속삭임에서 신비한 주문을 들었을 때 보름달에 위조되었습니다. 어떤 사람들은 아누비스 자신이 죽은 자들과 이야기했다고합니다.',
       nl: 'Dit voorwerp werd gesmeed op volle maan toen mysterieuze bezweringen in het gefluister van de duisternis werden gehoord. Sommigen zeggen dat het Anubis zelf was die met de doden sprak.',
-      pl: 'This object was forged into a full moon when mysterious spells were heard in the whispers of darkness. Some say that it was Anubis himself who spoke to the dead.',
+      pl: 'Ten przedmiot został wykuty w czasie pełni księżyca, gdy w szeptach ciemności usłyszano tajemnicze zaklęcia.  Niektórzy mówią, że to właśnie Anubis rozmawiał ze zmarłymi.',
       sv: 'Det här objektet smiddes på en fullmåne när mystiska incantations hördes i mörkets viskningar. Vissa säger att det var Anubis själv som talade med de döda.',
       tr: 'Bu eşya, karanlığın fısıltılarında gizemli sihirli sözler duyulduğunda, dolunayda dövüldü. Bazıları bunun ölülerle konuşan Anubis\'in kendisi olduğunu söylüyor.',
       ht: 'Atik sa a te fòje nan lalin lan plen lè òneman misterye te tande nan yon murmures nan fènwa. Gen kèk ki di ke li te Anubi tèt li, pale ak moun ki mouri yo.',
