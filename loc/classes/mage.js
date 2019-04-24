@@ -16,7 +16,8 @@ export default {
     ht: 'Mage',
     pl: 'Mag',
     cs: 'Kouzelník',
-    ja: 'メイジ'
+    ja: 'メイジ',
+    ro: 'Magician'
   },
   // Class description, visible during character creation
   description: {
@@ -35,6 +36,7 @@ export default {
     ht: 'Mages deal very heavy large scale Area of Effect damage, while also providing utility through slowing targets with their ice based magic.',
     pl: 'Magowie zadają bardzo duże obrażenia obszarowe na dużą skalę, dostarczając jednocześnie narzędzia poprzez spowalnianie celów za pomocą magii opartej na lodzie.',
     cs: 'Mágové se zabývají velmi těžkým rozsahem škod způsobených rozsáhlým rozsahem a zároveň poskytují pomůcku prostřednictvím zpomalení cílů s jejich kouzlem založeným na ledu.',
-    ja: '魔術師は、非常に重い大規模な効果領域ダメージを与えながら、氷をベースにした魔法でターゲットを減速させることで有用性も提供します。'
+    ja: '魔術師は、非常に重い大規模な効果領域ダメージを与えながら、氷をベースにした魔法でターゲットを減速させることで有用性も提供します。',
+    ro: 'Magicienii cauzează daune considerabile la scară largă, fiind în același timp folositori prin încetinirea țintelor cu ajutorul magiei lor pe bază de gheață.'
   }
 }
