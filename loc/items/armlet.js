@@ -166,7 +166,7 @@ export default [
       pt: 'Cega os teus inimigos com um brilho mágico de um espelho de mágicos diabólicos...',
       ko: '마법사애 거울이 부터있는 팔찌. 적의눈을 부시게 한다.',
       nl: 'Verblindt je vijanden met een magische glans van een slinkse goochelspiegel...',
-      pl: 'Adversary blinds with the magical glow of the devil\'s magician\'s mirror...',
+      pl: 'Oślepia wrogów magicznym blaskiem zwierciadlanego lustra magów ...',
       sv: 'Blindar dina fiender med en magisk glans av en djävulsk trollkarlspegel ...',
       tr: 'Düşmanlarınızı büyülü bir sihirbazın aynasından büyüleyen sihirli bir parıltıyla kör ediyor...',
       ht: 'Pèsyèn lènmi ou yo ak briye nan yon glas sere maji...',
