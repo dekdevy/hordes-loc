@@ -16,7 +16,8 @@ export default {
     ht: 'Chaman',
     pl: 'Szaman',
     cs: 'Šaman',
-    ja: 'シャーマン'
+    ja: 'シャーマン',
+    ro: 'Șaman'
   },
   // Class description, visible during character creation
   description: {
@@ -35,6 +36,7 @@ export default {
     ht: 'Wòl Chaman an se pou sipòte gwoup la pou geri tank la epi ofri ofwi ofansif oswa debouche kap kwape.',
     pl: 'Rolą szamana jest wspieranie grupy poprzez leczenie czołgu i oferowanie ofensywnych buffów lub kalekich debuffów.',
     cs: 'Úkolem Shaman je podporovat skupinu tím, že uzdraví Tank a nabídne útočné Buffy nebo ochromující Debuffy.',
-    ja: 'シャーマンの役割は、戦車を癒して不快なバフを与えたり、不幸なデバフを倒したりすることでグループを支援することです。'
+    ja: 'シャーマンの役割は、戦車を癒して不快なバフを与えたり、不幸なデバフを倒したりすることでグループを支援することです。',
+    ro: 'Rolul șamanului este de a sprijini grupul prin vindecarea Tancului și de a oferi Buff-uri de ofensiva sau Debuff-uri de paralizare.'
   }
 }
