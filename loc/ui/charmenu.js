@@ -65,7 +65,8 @@ export default {
       it: 'Entra nel mondo',
       pl: 'Wejdź do świata',
       nl: 'Betreed de wereld',
-      pt: 'Entre no mundo'
+      pt: 'Entre no mundo',
+      ht: 'Antre Lemonn'
     },
 
     emptySlot: {
