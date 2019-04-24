@@ -16,7 +16,8 @@ export default [
       ht: 'Omwen wap mete yon bagay sou pye sa yo.',
       cs: 'Přinejmenším máš na těch nohách něco.',
       ja: '少なくともあなたはそれらの足に何かを着ています。',
-      hi: 'कम से कम आप उन पैरों पर कुछ पहने हुए हैं।'
+      hi: 'कम से कम आप उन पैरों पर कुछ पहने हुए हैं।',
+      ko: '적어도 너는 그 발에 무언가를 신었다.'
     }
   },
 
@@ -37,7 +38,8 @@ export default [
       ht: 'Plant te fè soti nan twal, pwal pwobableman detache apre kèk èdtan.',
       cs: 'Podešve vyrobené z látky se po několika hodinách pravděpodobně roztrhnou.',
       ja: '布で作られた足の裏はおそらく数時間後に裂けるでしょう。',
-      hi: 'कपड़ा से बना तलवों, शायद कुछ घंटों के बाद आंसू होगा।'
+      hi: 'कपड़ा से बना तलवों, शायद कुछ घंटों के बाद आंसू होगा।',
+      ko: '옷감으로 만든 신, 몇 시간 후에 찢어 질 것입니다.'
     }
   },
 
@@ -58,7 +60,8 @@ export default [
       ht: 'li te di kwi mou yo dwe wete nan sangliye sovaj vagan bwa yo etranj.',
       cs: 'Říká se, že měkká kůže je zbavena divokých prasat roamingu děsivých lesů.',
       ja: '柔らかい革は不気味な森を歩き回っているイノシシを剥ぎ取られると言われています。',
-      hi: 'नरम चमड़े भयानक जंगल घूम जंगली सूअर बंद छीन लिया जा करने के लिए कहा जाता है।'
+      hi: 'नरम चमड़े भयानक जंगल घूम जंगली सूअर बंद छीन लिया जा करने के लिए कहा जाता है।',
+      ko: '부드러운 가죽은 섬뜩한 숲을 돌아 다니는 야생 멧돼지에서 벗겨졌다.'
     }
   },
 
@@ -79,7 +82,8 @@ export default [
       ht: 'Klèman manke nan imajinasyon, Maker la te fè bòt soti nan zo yo nan yon bèt gwo anpil ...',
       cs: 'Jasně chybí představivost a vyrábí boty z kostí velkého stvoření ...',
       ja: '想像力に欠け、明らかに巨大な生き物の骨からブーツを作りました。',
-      hi: 'जाहिर है कल्पना में कमी है, निर्माता एक बहुत बड़ी प्राणी की हड्डियों से जूते बनाया ...'
+      hi: 'जाहिर है कल्पना में कमी है, निर्माता एक बहुत बड़ी प्राणी की हड्डियों से जूते बनाया ...',
+      ko: '분명히 상상력이 부족한이 제작자는 매우 큰 생물의 뼈에서 부츠를 만들었습니다...'
     }
   },
 
@@ -100,7 +104,8 @@ export default [
       ht: 'Balans misterye kouvri deyò a nan soulye ou a, pwan fikse nan solèy la.',
       cs: 'Tajemství váhy pokrývají vnější stranu vaší obuvi, chytí do očí slunce.',
       ja: '神秘的な鱗があなたの履物の外側を覆い、太陽の光を捉えます。',
-      hi: 'रहस्यमय तराजू अपने जूते के बाहर कवर, धूप में प्रकाश को पकड़ने।'
+      hi: 'रहस्यमय तराजू अपने जूते के बाहर कवर, धूप में प्रकाश को पकड़ने।',
+      ko: '신비한 비늘은 신발의 바깥을 덮고 태양 빛을 따라 잡습니다.'
     }
   },
 
@@ -121,7 +126,8 @@ export default [
       ht: 'Yon modèl bèl te fè nan paralize lènmi ou... mande si li fonksyone.',
       cs: 'Příjemný vzor, ​​který paralyzuje vaše nepřátele ... zajímá vás, jestli to funguje.',
       ja: 'あなたの敵を麻痺させるために作られた楽しいパターン…それがうまくいくかどうか疑問に思う',
-      hi: 'एक सुखद पैटर्न अपने दुश्मनों को पंगु बना ... आश्चर्य है कि अगर यह काम करता है बनाया है।'
+      hi: 'एक सुखद पैटर्न अपने दुश्मनों को पंगु बना ... आश्चर्य है कि अगर यह काम करता है बनाया है।',
+      ko: '적을 마비시키는 유쾌한 패턴이있다... 되는지는 모르겠다.'
     }
   },
 
@@ -142,7 +148,8 @@ export default [
       ht: 'Pran nan men veteran lagè ki klèman pa jwenn ase pwoteksyon soti nan greaves sa yo.',
       cs: 'Odvedeni od válečných veteránů, kteří zjevně nenalezli dostatečnou ochranu před těmito škvarky.',
       ja: '明らかにこれらの奴隷からの十分な保護を見つけることができなかった戦争のベテランから取られます。',
-      hi: 'युद्ध के दिग्गजों, जो स्पष्ट रूप से इन ग्रीव्स से पर्याप्त सुरक्षा नहीं मिला से लिया।'
+      hi: 'युद्ध के दिग्गजों, जो स्पष्ट रूप से इन ग्रीव्स से पर्याप्त सुरक्षा नहीं मिला से लिया।',
+      ko: '분명히이 부츠에서 충분한 보호를 찾지 못한 전쟁 참전 용사에게서 가져온 것입니다.'
     }
   },
 
@@ -163,7 +170,8 @@ export default [
       ht: 'Chunky nan sanble li yo, pwobableman trè alèz.',
       cs: 'Chunky v jeho vzhledu, pravděpodobně velmi nepříjemné.',
       ja: '分厚いその外観はおそらく非常に不快です。',
-      hi: 'इसके दिखता में चंकी, शायद बहुत ही असहज।'
+      hi: 'इसके दिखता में चंकी, शायद बहुत ही असहज।',
+      ko: '그 모습이 거칠고, 아마도 매우 불편합니다.'
     }
   },
 
@@ -184,7 +192,8 @@ export default [
       ht: 'Kouri vit tankou van an ... oswa tou pre li.',
       cs: 'Jdi tak rychle jako vítr ... nebo blízko k němu.',
       ja: '風と同じくらい速く走るか、またはそれに近づける。',
-      hi: 'हवा के रूप में के रूप में जल्दी ... या इसे करने के लिए करीब चलाएँ।'
+      hi: 'हवा के रूप में के रूप में जल्दी ... या इसे करने के लिए करीब चलाएँ।',
+      ko: '바람처럼 빨리 달릴 수 있습니다... 그것에 가깝습니다.'
     }
   },
 
@@ -205,7 +214,8 @@ export default [
       cs: 'Kované bez tepla, běží bez klopýtnutí.',
       ja: '熱なしで鍛造はつまずくことなく実行されます。',
       hi: 'गर्मी के बिना जाली, ठोकर बिना चलाता है।',
-      ht: 'Te dwe fòje san chalè, baz pa kase pye.'
+      ht: 'Te dwe fòje san chalè, baz pa kase pye.',
+      ko: '열없이 단조되었다, 비틀 거림없이 달릴수있다.'
     }
   },
 
@@ -226,7 +236,8 @@ export default [
       cs: 'Někteří říkají, že s nimi můžete běžet na mraky. Těch několik, kteří se už pokusili vystoupit.',
       ja: 'あなたはこれらで雲の上を走ることができると言う人もいます。試みた少数の人はすでに上がっています。',
       hi: 'कुछ लोग कहते हैं कि आप इन के साथ बादलों पर चला सकते हैं। कुछ है कि कोशिश की है पहले से ही चढ़ा है।',
-      ht: 'Yon lòt ankò: ou ka kouri sou nwaj yo ak tout bagay sa. Twa ki te eseye fè deja est.'
+      ht: 'Yon lòt ankò: ou ka kouri sou nwaj yo ak tout bagay sa. Twa ki te eseye fè deja est.',
+      ko: '어떤 사람들은 이장화로 구름 위에서 뛰어 다닐 수 있다고 말한다. 시도한 몇명은 하늘나라로 갔다.'
     }
   },
 
@@ -247,7 +258,8 @@ export default [
       cs: 'Starověké boty, o nichž se říkalo, že jsou ukradeny z nohou římského posla boha ...',
       ja: '古代のブーツはローマのメッセンジャーの神の足から盗まれると噂されています...',
       hi: 'प्राचीन अफवाह जूते रोमन दूत भगवान के चरणों से चोरी किए जाने की ...',
-      ht: 'Ansyen bòt nan komansman que pou pou te vòlè nan pye Bondye Romen mesaje a...'
+      ht: 'Ansyen bòt nan komansman que pou pou te vòlè nan pye Bondye Romen mesaje a...',
+      ko: '로마의 메신저 신의 신발을 도둑질한 소문이 돈다...'
     }
   },
 
@@ -268,7 +280,8 @@ export default [
       cs: 'Hvězdy byly vždy považovány za všemohoucího, teď jsou vaše.',
       ja: '星は常に万能であると考えられてきました。',
       hi: 'सितारे हमेशा सर्वशक्तिमान माना जाता था, अब वे तुम्हारा कर रहे हैं।',
-      ht: 'Zetwal te toujou konsidere tout, koulye a, y\' ap ye.'
+      ht: 'Zetwal te toujou konsidere tout, koulye a, y\' ap ye.',
+      ko: '별은 언제나 전능자로 여겨졌습니다, 이제 당신의 것입니다.'
     }
   }
 
