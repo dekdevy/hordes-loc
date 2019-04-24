@@ -1,48 +1,41 @@
 export default {
 
-  showall: {
-    en: 'Show All',
-    ru: 'Все',
-    hi: 'सब दिखाए',
-    es: 'Todo',
-    de: 'Alle anzeigen',
-    fr: 'Montrer tous/toutes',
-    ko: '모두 보이기',
-    tr: 'Hepsini Göster',
-    nl: 'Toon alle',
-    pt: 'Mostrar todos',
-    pl: 'Pokaż wszystko',
-    ht: 'Montre tout'
-  },
-
-  showclan: {
-    en: 'Show Clan',
+  clan: {
+    en: 'Clan',
+    /* TODO: Significantly shorten all of below, no longer than 5 chars, otherwise just use "clan" */
     ru: 'Клан',
     hi: 'दल से दिखाए',
-    es: 'Mostrar Clan',
+    it: 'Clan',
+    es: 'Clan',
     de: 'Show-Clan',
     fr: 'Afficher le clan',
     ko: '클랜 보이기',
-    tr: 'Klanı göster',
+    tr: 'Klan',
     nl: 'Toon Clan',
     pt: 'Mostrar Clã',
     pl: 'Pokaż klan',
-    ht: 'Montre klan'
+    ht: 'Montre klan',
+    cs: 'Klan',
+    ja: '一族'
   },
 
-  showsystem: {
-    en: 'Show System',
+  system: {
+    en: 'System',
+    /* TODO: Significantly shorten all below, no longer than 7 chars, otherwise just use "clan" */
     ru: 'Система',
     hi: 'सिस्टम से दिखाए',
-    es: 'Mostrar sistema',
+    it: 'Sistema',
+    es: 'Sistema',
     de: 'System anzeigen',
     fr: 'Afficher le système',
     ko: '시스템 보이기',
-    tr: 'Sistemi Göster',
+    tr: 'Sistem',
     nl: 'Toon systeem',
     pt: 'Mostrar sistema',
     pl: 'System pokazów',
-    ht: 'Montre Sistèm'
+    ht: 'Montre Sistèm',
+    cs: 'Systém',
+    ja: 'システム'
   },
 
   // translations not needed
@@ -52,22 +45,12 @@ export default {
 
   // translations not needed
   exp: {
-    $$: 'exp'
+    $$: 'EXP'
   },
 
   // translations not needed
   pvp: {
     $$: 'PvP'
-  },
-
-  // translations not needed
-  twitter: {
-    $$: 'TW'
-  },
-
-  // translations not needed
-  discord: {
-    $$: 'Discord'
   }
 
 }
