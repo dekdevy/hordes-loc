@@ -90,7 +90,7 @@ export default [
       it: 'Un\'arma mistica che brilla di un\'essenza misteriosa.',
       cs: 'Mystická zbraň zářící tajemnou podstatou.',
       ja: '神秘的な武器が神秘的なエッセンスで輝いています。',
-      ht: ''
+      ht: 'Zam mistik lumineux ak yon sans misterye.'
     }
   },
 
