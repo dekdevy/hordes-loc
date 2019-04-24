@@ -15,6 +15,7 @@ export default {
     it: 'Arciere',
     ht: 'Archer',
     pl: 'Łucznik',
+    ro: 'Arcaș',
     cs: 'Lukostřelec',
     ja: '射手'
   },
@@ -34,6 +35,7 @@ export default {
     it: 'Gli arcieri infliggono danni da bersaglio singolo e danno da area di effetto. Un buon arciere manterrà sempre le distanze e tirerà i nemici da lontano.',
     ht: 'Banza kontra segondè sib domaj segondè ak pete Zòn domaj nan efè. Yon bon Archer ap toujou kenbe distans yo ak kritike lènmi soti byen lwen.',
     pl: 'Łucznicy zadają wysokie obrażenia pojedynczego celu i zadają duże obrażenia obszarowe. Dobry łucznik zawsze będzie trzymał dystans i ostrzeliwuje wrogów z daleka.',
+    ro: 'Arcașii cauzează daune mari unei ținte unice și au o arie de acțiune largă. Un arcaș bun va menține mereu o distanță considerabilă față de inamici și îi va ataca de la distanță.',
     cs: 'Lukostřelci se vypořádávají s vysokým poškozením jediného cíle a zničením. Dobrý lukostřelec bude vždy držet jejich vzdálenost a ostřelovat nepřátele z dálky.',
     ja: '射手は高い単一ターゲットダメージと突発的なエリアダメージを与えます優れた射手は常に距離を保ち、遠くから敵を狙撃します。'
   }

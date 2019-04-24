@@ -15,7 +15,8 @@ export default [
       sv: 'Åtminstone bär du något på dessa fötter.',
       ht: 'Omwen wap mete yon bagay sou pye sa yo.',
       cs: 'Přinejmenším máš na těch nohách něco.',
-      ja: '少なくともあなたはそれらの足に何かを着ています。'
+      ja: '少なくともあなたはそれらの足に何かを着ています。',
+      hi: 'कम से कम आप उन पैरों पर कुछ पहने हुए हैं।'
     }
   },
 
@@ -35,7 +36,8 @@ export default [
       sv: 'Soles gjorda av tyg, kommer troligen att riva efter några timmar.',
       ht: 'Plant te fè soti nan twal, pwal pwobableman detache apre kèk èdtan.',
       cs: 'Podešve vyrobené z látky se po několika hodinách pravděpodobně roztrhnou.',
-      ja: '布で作られた足の裏はおそらく数時間後に裂けるでしょう。'
+      ja: '布で作られた足の裏はおそらく数時間後に裂けるでしょう。',
+      hi: 'कपड़ा से बना तलवों, शायद कुछ घंटों के बाद आंसू होगा।'
     }
   },
 
@@ -55,7 +57,8 @@ export default [
       sv: 'Det mjuka läderet sägs vara avskilt från vildsvin som roaming de kusliga skogen.',
       ht: 'li te di kwi mou yo dwe wete nan sangliye sovaj vagan bwa yo etranj.',
       cs: 'Říká se, že měkká kůže je zbavena divokých prasat roamingu děsivých lesů.',
-      ja: '柔らかい革は不気味な森を歩き回っているイノシシを剥ぎ取られると言われています。'
+      ja: '柔らかい革は不気味な森を歩き回っているイノシシを剥ぎ取られると言われています。',
+      hi: 'नरम चमड़े भयानक जंगल घूम जंगली सूअर बंद छीन लिया जा करने के लिए कहा जाता है।'
     }
   },
 
@@ -75,7 +78,8 @@ export default [
       sv: 'Klart saknar fantasi gjorde tillverkaren stövlar från benen i en väldigt stor varelse ...',
       ht: 'Klèman manke nan imajinasyon, Maker la te fè bòt soti nan zo yo nan yon bèt gwo anpil ...',
       cs: 'Jasně chybí představivost a vyrábí boty z kostí velkého stvoření ...',
-      ja: '想像力に欠け、明らかに巨大な生き物の骨からブーツを作りました。'
+      ja: '想像力に欠け、明らかに巨大な生き物の骨からブーツを作りました。',
+      hi: 'जाहिर है कल्पना में कमी है, निर्माता एक बहुत बड़ी प्राणी की हड्डियों से जूते बनाया ...'
     }
   },
 
@@ -95,7 +99,8 @@ export default [
       sv: 'Mystiska vågar täcker utsidan av dina skor, fångar glares i solen.',
       ht: 'Balans misterye kouvri deyò a nan soulye ou a, pwan fikse nan solèy la.',
       cs: 'Tajemství váhy pokrývají vnější stranu vaší obuvi, chytí do očí slunce.',
-      ja: '神秘的な鱗があなたの履物の外側を覆い、太陽の光を捉えます。'
+      ja: '神秘的な鱗があなたの履物の外側を覆い、太陽の光を捉えます。',
+      hi: 'रहस्यमय तराजू अपने जूते के बाहर कवर, धूप में प्रकाश को पकड़ने।'
     }
   },
 
@@ -115,7 +120,8 @@ export default [
       sv: 'Ett trevligt mönster för att förlamna dina fiender ... undrar om det fungerar.',
       ht: 'Yon modèl bèl te fè nan paralize lènmi ou... mande si li fonksyone.',
       cs: 'Příjemný vzor, ​​který paralyzuje vaše nepřátele ... zajímá vás, jestli to funguje.',
-      ja: 'あなたの敵を麻痺させるために作られた楽しいパターン…それがうまくいくかどうか疑問に思う'
+      ja: 'あなたの敵を麻痺させるために作られた楽しいパターン…それがうまくいくかどうか疑問に思う',
+      hi: 'एक सुखद पैटर्न अपने दुश्मनों को पंगु बना ... आश्चर्य है कि अगर यह काम करता है बनाया है।'
     }
   },
 
@@ -135,7 +141,8 @@ export default [
       sv: 'Hämtad från krigsveteraner som helt klart inte hitta tillräckligt med skydd från dessa greaves.',
       ht: 'Pran nan men veteran lagè ki klèman pa jwenn ase pwoteksyon soti nan greaves sa yo.',
       cs: 'Odvedeni od válečných veteránů, kteří zjevně nenalezli dostatečnou ochranu před těmito škvarky.',
-      ja: '明らかにこれらの奴隷からの十分な保護を見つけることができなかった戦争のベテランから取られます。'
+      ja: '明らかにこれらの奴隷からの十分な保護を見つけることができなかった戦争のベテランから取られます。',
+      hi: 'युद्ध के दिग्गजों, जो स्पष्ट रूप से इन ग्रीव्स से पर्याप्त सुरक्षा नहीं मिला से लिया।'
     }
   },
 
@@ -155,7 +162,8 @@ export default [
       sv: 'Chunky i sitt utseende, förmodligen mycket obekväma.',
       ht: 'Chunky nan sanble li yo, pwobableman trè alèz.',
       cs: 'Chunky v jeho vzhledu, pravděpodobně velmi nepříjemné.',
-      ja: '分厚いその外観はおそらく非常に不快です。'
+      ja: '分厚いその外観はおそらく非常に不快です。',
+      hi: 'इसके दिखता में चंकी, शायद बहुत ही असहज।'
     }
   },
 
@@ -175,7 +183,8 @@ export default [
       sv: 'Kör så fort som vinden ... eller nära den.',
       ht: 'Kouri vit tankou van an ... oswa tou pre li.',
       cs: 'Jdi tak rychle jako vítr ... nebo blízko k němu.',
-      ja: '風と同じくらい速く走るか、またはそれに近づける。'
+      ja: '風と同じくらい速く走るか、またはそれに近づける。',
+      hi: 'हवा के रूप में के रूप में जल्दी ... या इसे करने के लिए करीब चलाएँ।'
     }
   },
 
@@ -194,7 +203,9 @@ export default [
       pl: 'Kute bez ciepła, pracuje bez potknięcia się.',
       sv: 'Smidd utan värme, löper utan att snubbla.',
       cs: 'Kované bez tepla, běží bez klopýtnutí.',
-      ja: '熱なしで鍛造はつまずくことなく実行されます。'
+      ja: '熱なしで鍛造はつまずくことなく実行されます。',
+      hi: 'गर्मी के बिना जाली, ठोकर बिना चलाता है।',
+      ht: 'Te dwe fòje san chalè, baz pa kase pye.'
     }
   },
 
@@ -213,7 +224,9 @@ export default [
       pl: 'Niektórzy mówią, że możesz biegać z nimi po chmurach. Nieliczni, którzy próbowali, już się podnieśli.',
       sv: 'Vissa säger att du kan springa på moln med dessa. De få som har försökt har redan stigit upp.',
       cs: 'Někteří říkají, že s nimi můžete běžet na mraky. Těch několik, kteří se už pokusili vystoupit.',
-      ja: 'あなたはこれらで雲の上を走ることができると言う人もいます。試みた少数の人はすでに上がっています。'
+      ja: 'あなたはこれらで雲の上を走ることができると言う人もいます。試みた少数の人はすでに上がっています。',
+      hi: 'कुछ लोग कहते हैं कि आप इन के साथ बादलों पर चला सकते हैं। कुछ है कि कोशिश की है पहले से ही चढ़ा है।',
+      ht: 'Yon lòt ankò: ou ka kouri sou nwaj yo ak tout bagay sa. Twa ki te eseye fè deja est.'
     }
   },
 
@@ -232,7 +245,9 @@ export default [
       pl: 'Starożytne buty, które podobno zostały skradzione z nóg posłańca rzymskich bogów...',
       sv: 'Gamla stövlar ryktes för att bli stulna från fötterna till den romerska budbärarens gud ...',
       cs: 'Starověké boty, o nichž se říkalo, že jsou ukradeny z nohou římského posla boha ...',
-      ja: '古代のブーツはローマのメッセンジャーの神の足から盗まれると噂されています...'
+      ja: '古代のブーツはローマのメッセンジャーの神の足から盗まれると噂されています...',
+      hi: 'प्राचीन अफवाह जूते रोमन दूत भगवान के चरणों से चोरी किए जाने की ...',
+      ht: 'Ansyen bòt nan komansman que pou pou te vòlè nan pye Bondye Romen mesaje a...'
     }
   },
 
@@ -251,7 +266,9 @@ export default [
       pl: 'Gwiazdy zawsze uważano za wszechmocne, teraz są twoje.',
       sv: 'Stjärnor anses alltid vara allsmäktiga, nu är de din.',
       cs: 'Hvězdy byly vždy považovány za všemohoucího, teď jsou vaše.',
-      ja: '星は常に万能であると考えられてきました。'
+      ja: '星は常に万能であると考えられてきました。',
+      hi: 'सितारे हमेशा सर्वशक्तिमान माना जाता था, अब वे तुम्हारा कर रहे हैं।',
+      ht: 'Zetwal te toujou konsidere tout, koulye a, y\' ap ye.'
     }
   }
 

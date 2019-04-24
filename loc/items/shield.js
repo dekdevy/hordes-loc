@@ -13,7 +13,8 @@ export default [
       nl: 'Letterlijk een vierkante plank van hout.',
       pl: 'Dosłownie kwadratowa deska z drewna.',
       ht: 'Literalman yon gwo bout bwa kare nan bwa.',
-      cs: 'Tavený železný kroužek naplněný bronzem. Flimsy v jeho tvorbě.'
+      cs: 'Tavený železný kroužek naplněný bronzem. Flimsy v jeho tvorbě.',
+      ja: '文字通り木の正方形の板。'
     }
   },
 
@@ -31,7 +32,8 @@ export default [
       nl: 'Gesmolten ijzeren ring gevuld met brons. Mager in zijn samenstelling.',
       pl: 'Wytopiony żelazny pierścień wypełniony brązem. Cienki w wykonaniu.',
       ht: 'Boule bag fè plen ak kwiv. Kannfeuy nan fè li yo.',
-      cs: 'Některému farmáři se podařilo postavit roztomilý malý štít.'
+      cs: 'Některému farmáři se podařilo postavit roztomilý malý štít.',
+      ja: '青銅で満たされた製錬鉄の輪。その作成にぎこちない。'
     }
   },
 
@@ -49,7 +51,8 @@ export default [
       nl: 'Sommige boeren zijn erin geslaagd om een schattig schildje te bouwen.',
       pl: 'Jednemu z rolników udało się zbudować ładną małą tarczę.',
       ht: 'Gen kèk kiltivatè jere yo konstwi yon bèl plak pwotèj ti kras.',
-      cs: 'Složitý štít vyrobený ze tří kovových kusů. Solidní.'
+      cs: 'Složitý štít vyrobený ze tří kovových kusů. Solidní.',
+      ja: '何人かの農夫はかわいい小さな盾を建設することに成功した。'
     }
   },
 
@@ -67,7 +70,8 @@ export default [
       nl: 'Geïntegreerd schild gemaakt van drie massieve metalen delen. Stevig.',
       pl: 'Intrygująca osłona wykonana z trzech litych metalowych kawałków. Wytrzymała.',
       ht: 'Pwoteksyon konplike te fè soti nan twa moso metal solid. Solid.',
-      cs: 'Složitý štít vyrobený ze tří kovových kusů. Solidní.'
+      cs: 'Složitý štít vyrobený ze tří kovových kusů. Solidní.',
+      ja: '3つの頑丈な金属片で作られた複雑なシールド。頑丈。'
     }
   },
 
@@ -85,7 +89,8 @@ export default [
       nl: 'Gemaakt van obsidiaan en staal. Iemand heeft slordig geprobeerd het geel te schilderen. Ze hebben gefaald. Ellendig.',
       pl: 'Zrobione z obsydianu i stali. Ktoś niechlujnie próbował namalować go na żółto. Nie udało im się. Nędznie.',
       ht: 'Te fè soti nan obsidya ak asye. Yon moun t ap eseye penti li jòn. Yo echwe. Miserableman.',
-      cs: 'Vyrobeno z obsidiánu a oceli. Někdo se ho pokusil namalovat žlutě. Neuspěli. Bídně.'
+      cs: 'Vyrobeno z obsidiánu a oceli. Někdo se ho pokusil namalovat žlutě. Neuspěli. Bídně.',
+      ja: '黒曜石とスチールから作られました。誰かがそれを黄色く塗ろうとしました。彼らは失敗しました。悲惨なことに。'
     }
   }
 
