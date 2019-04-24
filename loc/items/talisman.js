@@ -12,7 +12,9 @@ export default [
       pt: 'Cheira tão mal que me pergunto porque é que o apanhaste.',
       pl: 'Pachnie tak źle, że zastanawiam się, dlaczego w ogóle go odebrałeś.',
       nl: 'Ruikt zo erg dat ik me afvraag waarom je het zelfs maar opgepikt',
-      ht: 'Li odè jis degoutan, mwen sezi ou menm ranmase li.'
+      ht: 'Li odè jis degoutan, mwen sezi ou menm ranmase li.',
+      cs: 'Voní tak špatně, zajímalo by mě, proč jste to dokonce zvedl.',
+      ja: '臭いがひどい私はあなたがなぜそれを拾ったのか不思議に思う。'
     }
   },
 
@@ -26,7 +28,12 @@ export default [
       es: 'Una capa de hueso de un monstruo, buena como un plato de comida.',
       fr: 'La couche osseuse d\'un monstre, aussi bonne qu\'une assiette de nourriture.',
       ht: 'Se kouch nan zo nan yon mons, byen adapte kòm yon plak pou manje.',
-      it: 'Il piatto da spalla di alcuni piatti creatura tariffe così come un utensile da cucina portatile.'
+      it: 'Il piatto da spalla di alcuni piatti creatura tariffe così come un utensile da cucina portatile.',
+      pt: 'A placa de ombro de algumas criaturas é bem como um utensílio portátil para comer.',
+      pl: 'Płytka na ramię niektórych stworzeń radzi sobie dobrze, jak również przenośny sprzęt do jedzenia.',
+      cs: 'Ramenní deska nějakého stvoření se dobře hodí jako přenosné nádobí.',
+      ja: 'いくつかの生き物の肩甲板は携帯用食器としてもうまくいく。',
+      hi: 'कुछ प्राणी किरायों में अच्छी तरह से एक पोर्टेबल खाने बर्तन के कंधे प्लेट।'
     }
   },
 
@@ -40,7 +47,12 @@ export default [
       es: 'Collar pesado, liso y pulido. Te ciega durante una pelea.',
       fr: 'Collier lourd, lisse et poli. Ça vous aveugle pendant un combat.',
       ht: 'Gwo kolye, lis e poli. Avèg ou pandan yon batay.',
-      it: 'Collana pesante, levigata e lucidata per accecarvi durante la battaglia.'
+      it: 'Collana pesante, levigata e lucidata per accecarvi durante la battaglia.',
+      pt: 'Pesado colar, alisado e polido para te cegar durante a batalha.',
+      pl: 'Ciężki naszyjnik, wygładzony i wypolerowany na oślepienie podczas bitwy.',
+      cs: 'Těžký náhrdelník, hladký a leštěný, aby vás během bitvy oslepil.',
+      ja: 'ヘビーネックレスは戦いの間あなたを盲目にするために滑らかにされて、磨かれました。',
+      hi: 'भारी हार, चिकनी और लड़ाई के दौरान आपको अंधा करने के लिए पॉलिश।'
     }
   },
 
@@ -54,7 +66,12 @@ export default [
       es: 'Un trozo podrido de la cosecha del año pasado.',
       fr: 'Un morceau pourri de la récolte de l\'an dernier.',
       ht: 'Pouri moso nan sezon rekòt ane pase.',
-      it: 'Un boccone putrido dell\'ultimo raccolto dell\'anno scorso.'
+      it: 'Un boccone putrido dell\'ultimo raccolto dell\'anno scorso.',
+      pt: 'Um pedaço pútrido da colheita dos últimos anos.',
+      pl: 'Wstrętny kąsek z zeszłorocznych zbiorów.',
+      cs: 'Hnije z poslední sklizně.',
+      ja: '去年の収穫からの腐った小片。',
+      hi: 'पिछले साल फसल से एक सड़ा हुआ निवाला।'
     }
   },
 
@@ -68,7 +85,12 @@ export default [
       es: 'Una fina pieza de granito, ideal para panqueques que saltan del agua.',
       fr: 'Fine tranche de granit, parfaite pour rebondir sur les ondulations du lac.',
       ht: 'Tranch mens nan granit, pafè pou rebondi atravè ond yo nan lak la.',
-      it: 'Sottile fetta di granito, perfetta per rimbalzare sulle onde del lago.'
+      it: 'Sottile fetta di granito, perfetta per rimbalzare sulle onde del lago.',
+      pt: 'Fina fatia de granito, perfeita para saltar pelas ondulações do lago.',
+      pl: 'Cienki plaster granitu, idealny do odbijania się w poprzek fali jeziora.',
+      cs: 'Tenký plátek žuly, perfektní k odrazení přes vlnky jezera.',
+      ja: '花崗岩の薄片は湖の波紋を越えて跳ねるのに最適です。',
+      hi: 'पतला, ग्रेनाइट का टुकड़ा, झील की लहरों के पार उछल के लिए एकदम सही।'
     }
   },
 
@@ -82,7 +104,12 @@ export default [
       es: 'Se dice que la tela de plata brillante fue robada a la propia Afrodita.',
       fr: 'Le tissu d\'argent brillant aurait été volé à Aphrodite elle-même.',
       ht: 'Se twal an ajan klere byen di ke yo te vòlè soti nan Epafrodit tèt li.',
-      it: 'Un tessuto argenteo scintillante che si dice sia stato rubato ad Afrodite stessa.'
+      it: 'Un tessuto argenteo scintillante che si dice sia stato rubato ad Afrodite stessa.',
+      pt: 'Tecido prateado cintilante disse que foi roubado da própria Afrodite.',
+      pl: 'Błyszcząca srebrna tkanina mówi, że została skradziona samej Afrodycie.',
+      cs: 'Třpytivá stříbrná tkanina, která měla být ukradnuta od Afrodity sama.',
+      ja: 'きらめく銀の布はアフロディーテ自身から盗まれたと言われています。',
+      hi: 'झिलमिलाता चांदी कपड़े सौंदर्य खुद की देवी से चोरी हो करने के लिए कहा।'
 
     }
   },
@@ -97,7 +124,12 @@ export default [
       es: 'Frío y azul, el colgante roba su calor como pago por sus efectos...',
       fr: 'Froid et bleu, le pendentif vole votre chaleur en paiement de ses effets...',
       ht: 'Fwad ak ble, pendant la vòlè chalè ou kòm yon peman pou efè li yo...',
-      it: 'Freddo e blu, il ciondolo ruba il tuo calore come pagamento per i suoi effetti.....'
+      it: 'Freddo e blu, il ciondolo ruba il tuo calore come pagamento per i suoi effettis...',
+      pt: 'Cold and blue, the pendant steals your warmth as a payment for its effects...',
+      pl: 'Zimno i błękit, wisior kradnie twoje ciepło jako zapłatę za jego efekty...',
+      cs: 'Studené a modré, přívěsek krade vaše teplo jako platbu za jeho účinky ...',
+      ja: '寒さと青のペンダントはその効果の代償としてあなたの暖かさを盗みます...',
+      hi: 'शीत और नीले, पेंडेंट इसके प्रभाव के लिए एक भुगतान के रूप में अपने गर्मी चुरा ...'
     }
   },
 
@@ -113,7 +145,9 @@ export default [
       it: 'Sorprendentemente, non puzza di pesce. Basta non mostrargli l\'acqua dolce.',
       pt: 'Surpreendentemente, não cheira a peixe. Só não mostre água doce.',
       pl: 'Zaskakujšco, nie pachnie jak ryba. Po prostu nie pokazuj jej słodkiej wody.',
-      nl: 'Verrassend genoeg ruikt het niet naar vis. Laat het gewoon niet zoetwater zien.'
+      nl: 'Verrassend genoeg ruikt het niet naar vis. Laat het gewoon niet zoetwater zien.',
+      cs: 'Překvapivě to necítí jako ryby. Jen to neukazuj sladkovodní.',
+      ja: '驚いたことにそれは魚のような匂いはしません。淡水を見せないでください。'
     }
   },
 
@@ -127,7 +161,12 @@ export default [
       es: 'Los ejércitos desperdiciaron esta baratija, pero a ti te parece que no vale nada...',
       fr: 'Des armées ont dilapidé cette babiole et pourtant elle vous semble sans valeur...',
       ht: 'Lame gaspiye sou biblo sa a ankò li sanble san valè pou ou...',
-      it: 'Eserciti sperperato su questo gingillo eppure vi sembra inutile.....'
+      it: 'Eserciti sperperato su questo gingillo eppure vi sembra inutile...',
+      pt: 'Os exércitos esbanjaram por esta bugiganga, mas parece-te inútil...',
+      pl: 'Armie roztrwoniły ten drobiazg, ale wydaje ci się to bezwartościowe...',
+      cs: 'Armády promrhaly tuto cetku, ale pro tebe to vypadá bezcenné ...',
+      ja: '軍はこの装身具を浪費しましたが、それはあなたには価値がないようです...',
+      hi: 'नाओं इस ताबीज से अधिक गंवा अभी तक यह आप पर बेकार लगता है ...'
     }
   },
 
@@ -141,7 +180,12 @@ export default [
       es: 'Humanos, enanos y elfos poseían este artefacto, pasándolo a generaciones de cazadores, guerreros y grandes líderes de batalla.',
       fr: 'Les humains, les nains et les elfes possédaient cet artefact, le transmettant à des générations de chasseurs, de guerriers et de grands chefs de guerre.',
       ht: 'Moun, nen ak foul dechennen posede sa a asosye, pase l \'sou nan jenerasyon nan chasè, vanyan sòlda ak gwo lidè batay.',
-      it: 'Umani, nani ed elfi possedevano questo artefatto, trasmettendolo a generazioni di cacciatori, guerrieri e grandi leader di battaglia.'
+      it: 'Umani, nani ed elfi possedevano questo artefatto, trasmettendolo a generazioni di cacciatori, guerrieri e grandi leader di battaglia.',
+      pt: 'Humanos, anões e elfos possuíam este artefato, passando-o para gerações de caçadores, guerreiros e grandes líderes de batalha.',
+      pl: 'Ludzie, krasnoludki i elfy posiadały ten artefakt, przekazując go pokoleniom myśliwych, wojowników i wielkich przywódców bojowych.',
+      cs: 'Tento artefakt vlastnili lidé, trpaslíci a elfové, kteří ho předávali generacím lovců, bojovníků a velikých bitevních vůdců.',
+      ja: '人間のドワーフとエルフは、このアーティファクトを何世代ものハンター戦士と偉大なバトルリーダーに渡しました。',
+      hi: 'मनुष्य, बौने और बौने इस विरूपण साक्ष्य के स्वामित्व, शिकारी, योद्धा और महान लड़ाई नेताओं की पीढ़ियों के लिए उस पर से गुजर रहा।'
     }
   },
 
@@ -155,7 +199,12 @@ export default [
       es: 'El color del atardecer, inunda tu conciencia con imágenes y proyecciones que te cuentan tu próxima desgracia.',
       fr: 'La couleur du coucher du soleil, elle grouille d\'images et de projections dans votre conscience, vous annonçant votre prochain malheur.',
       ht: 'Koulè solèy kouche a, li grenn imaj ak projections nan konsyans ou, di ou pwochen malè.',
-      it: 'Il colore del tramonto, brulica di immagini e proiezioni nella tua coscienza, raccontandoti la tua prossima sfortuna.'
+      it: 'Il colore del tramonto, brulica di immagini e proiezioni nella tua coscienza, raccontandoti la tua prossima sfortuna.',
+      pt: 'A cor do pôr-do-sol, atira imagens e projecções para a tua consciência, contando-te o teu próximo infortúnio.',
+      pl: 'Kolor zachodu słońca, roi obrazy i projekcje do twojego sumienia, opowiadając ci o twoim kolejnym nieszczęściu.',
+      cs: 'Barva západu slunce, to roje obrazy a projekce do vašeho svědomí, říká vám vaše další neštěstí.',
+      ja: '夕焼けの色はそれがあなたの次の不幸を告げるあなたの良心の中にイメージと映写を集める。',
+      hi: 'सूर्यास्त के रंग, यह आपके विवेक में छवियों और अनुमानों झुंड, आप अपने अगले दुर्भाग्य कह।'
     }
   },
 
@@ -169,7 +218,12 @@ export default [
       es: 'Intrincados tejidos de mithril ligados a una poderosa magia, que te llenan de una misteriosa energía sentida por pocos de los que viven en este mundo.',
       fr: 'Des tissages complexes de mithril liés à une puissante magie, vous remplissant d\'une énergie mystérieuse ressentie par quelques-uns de ceux qui vivent sur ce monde.',
       ht: 'Ranje konplike nan mithril mare nan majik pwisan, ranpli ou ak yon enèji misterye santi pa kèk nan moun ki k ap viv sou mond sa a.',
-      it: 'Intricate trame di mithril legate a una potente magia, che vi riempie di una misteriosa energia sentita da pochi di coloro che vivono in questo mondo.'
+      it: 'Intricate trame di mithril legate a una potente magia, che vi riempie di una misteriosa energia sentita da pochi di coloro che vivono in questo mondo.',
+      pt: 'Tecidos intrincados de mithril ligados à magia poderosa, enchendo-o com uma energia misteriosa sentida por poucos dos que vivem neste mundo.',
+      pl: 'Intrygujące sploty mithrilu związane z potężną magią, wypełniające Cię tajemniczą energią odczuwaną przez niewielu ludzi żyjących na tym świecie.',
+      cs: 'Složité vazby mithrilu vázané na mocnou magii, které vás naplní tajemnou energií, kterou pocítí několik lidí žijících na tomto světě.',
+      ja: 'ミスリルの複雑な織り方は、この世界に住む少数の人々によって感じられる神秘的なエネルギーであなたを満たす強力な魔法に結びつきました。',
+      hi: 'धातु की जटिल बुनाई शक्तिशाली जादू करने के लिए बाध्य, एक रहस्यमय ऊर्जा इस दुनिया पर रहने वाले लोगों के कुछ से महसूस के साथ भरने।'
     }
   },
 
@@ -183,21 +237,31 @@ export default [
       es: 'Sombras demoníacas evaden las espadas de la realidad, concediéndote dejar en tus enemigos sueños monstruosos.',
       fr: 'Les ombres démoniaques échappent aux lames de la réalité, vous permettant de partir dans les rêves monstrueux de vos ennemis.',
       ht: 'Lonbraj dyabolik evade lam yo nan reyalite, akòde ou kite nan lènmi ou rèv jigantèsk.',
-      it: 'Le ombre demoniache si sottraggono alle lame della realtà, concedendovi di lasciare nei vostri nemici dei sogni mostruosi.'
+      it: 'Le ombre demoniache si sottraggono alle lame della realtà, concedendovi di lasciare nei vostri nemici dei sogni mostruosi.',
+      pt: 'Sombras demoníacas evadem as lâminas da realidade, permitindo que você deixe em seus inimigos sonhos monstruosos.',
+      pl: 'Demoniczne cienie wymykają się ostrzom rzeczywistości, dając ci możliwość wyjścia z potwornych snów.',
+      cs: 'Démonické stíny se vyhýbají ostřím reality a dávají vám opuštění monstrózních snů.',
+      ja: '悪魔のような影が現実の羽根を避けてあなたがあなたの敵に去ってゆく巨大な夢を与えます。',
+      hi: ''
     }
   },
 
   {
     name       : {$$: 'Delirious' },
     description: {
-      en: 'Your foes hallucinatory state of mind brought upon by this trinket permits your cunning blows to strike home.',
+      en: 'Your foes hallucinatory state of mind brought upon by this trinket permits your cunning blows to strike true.',
       ru: 'Этот брелок вызывает галлюцинации у вашего врага, позволяя вам наносить подлые удары по сопернику...',
       de: 'Der halluzinatorische Geisteszustand deiner Feinde, der durch dieses Schmuckstück hervorgerufen wird, erlaubt es deinen schlauen Schlägen, nach Hause zu gehen.',
       nl: 'Uw vijanden hallucinerende gemoedstoestand, veroorzaakt door dit snuisterijtuig, maakt het mogelijk dat uw sluwe klappen naar huis komen.',
       es: 'El estado alucinatorio de la mente de tus enemigos, provocado por esta baratija, permite que tus golpes astutos lleguen a casa.',
       fr: 'L\'état d\'esprit hallucinatoire de vos ennemis provoqué par cette babiole permet à vos coups astucieux de frapper à la maison.',
       ht: 'Lènmi ou eta alisinasyonèl nan lide pote sou pa biblo sa a pèmèt kou atizan konn fè ou fè grèv lakay ou.',
-      it: 'Il tuo stato d\'animo allucinatorio dei tuoi nemici causato da questo gingillo permette ai tuoi colpi astuti di colpire a casa.'
+      it: 'Il tuo stato d\'animo allucinatorio dei tuoi nemici causato da questo gingillo permette ai tuoi colpi astuti di colpire a casa.',
+      pt: 'O estado alucinatório de espírito dos teus inimigos, causado por esta bugiganga, permite que os teus golpes astuciosos atinjam a verdade.',
+      pl: 'Twój przeciwnik ma halucynacyjny stan umysłu wywołany przez ten błyskotka pozwala na to, by twoje przebiegłe ciosy były prawdziwe.',
+      cs: 'Tvoji nepřátelé halucinační stav mysli, který na tuto cetku přivedl, dovolí, aby vaše šikovné rány udeřily na pravdu.',
+      ja: 'この装身具によってもたらされるあなたの敵の幻覚的な心の状態はあなたの狡猾な一撃が真実を打つことを可能にします。',
+      hi: 'आपका शत्रु मन की भ्रमात्मक राज्य पर से इस ताबीज परमिट अपने चालाक चल रही है सच हड़ताल करने के लिए लाया।'
     }
   },
 
@@ -211,7 +275,12 @@ export default [
       es: 'Talismán azul oscuro profundo, trazando patrones en tu alma, reforzando, reconstruyendo y renovando para el mundo de la inmortalidad.',
       fr: 'Talisman bleu foncé profond, traçant des motifs dans votre âme, renforçant, reconstruisant et rénovant pour le monde de l\'immortalité.',
       ht: 'Gwo twou san fon ble nwa talisman, trase modèl nan nanm ou, ranfòse, rebati ak renovasyon pou mond lan nan imòtalite.',
-      it: 'Profondo talismano blu scuro, tracciando modelli nella tua anima, rinforzando, ricostruendo e rinnovando per il mondo dell\'immortalità.'
+      it: 'Profondo talismano blu scuro, tracciando modelli nella tua anima, rinforzando, ricostruendo e rinnovando per il mondo dell\'immortalità.',
+      pt: 'Talismã azul escuro profundo, traçando padrões em sua alma, reforçando, reconstruindo e renovando para o mundo da imortalidade.',
+      pl: 'Głęboki ciemnoniebieski talizman, śledzenie wzorów w Twojej duszy, wzmacnianie, odbudowa i renowacja dla świata nieśmiertelności.',
+      cs: 'Hluboký tmavě modrý talisman, stopy ve vaší duši, posilování, přestavba a renovace pro svět nesmrtelnosti',
+      ja: 'あなたの魂の中の濃い紺色のお守りは、再建を強化し、不死の世界のために改装を強化します。',
+      hi: 'दीप गहरे नीले रंग की ताबीज, अपनी आत्मा में पैटर्न का पता लगाने, मजबूत, पुनर्निर्माण और अमरता की दुनिया के लिए मरम्मत।'
     }
   }
 

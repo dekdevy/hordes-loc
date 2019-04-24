@@ -10,11 +10,13 @@ export default {
     de: 'Show-Clan',
     fr: 'Afficher le clan',
     ko: '클랜 보이기',
-    tr: 'Klanı göster',
+    tr: 'Klan',
     nl: 'Toon Clan',
     pt: 'Mostrar Clã',
     pl: 'Pokaż klan',
-    ht: 'Montre klan'
+    ht: 'Montre klan',
+    cs: 'Klan',
+    ja: '一族'
   },
 
   system: {
@@ -27,11 +29,13 @@ export default {
     de: 'System anzeigen',
     fr: 'Afficher le système',
     ko: '시스템 보이기',
-    tr: 'Sistemi Göster',
+    tr: 'Sistem',
     nl: 'Toon systeem',
     pt: 'Mostrar sistema',
     pl: 'System pokazów',
-    ht: 'Montre Sistèm'
+    ht: 'Montre Sistèm',
+    cs: 'Systém',
+    ja: 'システム'
   },
 
   // translations not needed
