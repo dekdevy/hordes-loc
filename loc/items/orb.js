@@ -14,7 +14,8 @@ export default [
       pt: 'Bola húmida de terra, deixando para trás pequenas criaturas na mão.',
       pl: 'Wilgotna kula ziemi, zostawiająca w ręku malutkie stwory.',
       cs: 'Vlhký míč země, zanechávající v ruce malé zvířátka.',
-      ja: 'あなたの手の中に小さな生き物を残して湿った地球の玉。'
+      ja: 'あなたの手の中に小さな生き物を残して湿った地球の玉。',
+      sv: 'Fuktig boll av jorden, efterlämnar små kritor i handen.'
     }
   },
 
@@ -33,7 +34,8 @@ export default [
       pt: 'Uma massa grotesca de ossos trazendo sorte aos supersticiosos.',
       pl: 'Groteskowa masa kości przynosząca szczęście przesądnikom.',
       cs: 'Groteskní hmota kosti, která přinese pověrčivému štěstí.',
-      ja: '迷信に運をもたらしている骨のあるグロテスクな塊。'
+      ja: '迷信に運をもたらしている骨のあるグロテスクな塊。',
+      sv: 'En grotesk massa av ben som ger lycka till de vidskepliga.'
     }
   },
 
@@ -52,7 +54,8 @@ export default [
       pt: 'Uma colmeia pegajosa a zumbir, com uma picada desagradável de vez em quando.',
       pl: 'Brzęczący, lepki ul, dostarczający od czasu do czasu paskudny żądło.',
       cs: 'Bzučící lepkavý úl, který každou chvíli vydává ošklivé žihadlo.',
-      ja: '時々耳障りな刺すような刺激的なハイブ'
+      ja: '時々耳障りな刺すような刺激的なハイブ',
+      sv: 'Bullriga klibbiga bikupa, levererar en otäck sting då och då.'
     }
   },
 
@@ -71,7 +74,8 @@ export default [
       pt: 'Depois de uma dura luta enquanto roubava um osso de um cão, você decidiu guardar isso como uma lembrança lembrando-o de suas lutas.',
       pl: 'Po ciężkiej walce podczas okradania kości psa, postanowiłeś zachować to jako pamiątkę przypominającą ci o twoich zmaganiach.',
       cs: 'Po těžkém boji, když vykradl kost psa, jste se rozhodl, že si to ponecháte jako suvenýr, který vám připomene vaše zápasy.',
-      ja: '犬の骨を奪っている間の激しい戦いの後であなたはあなたの闘争を思い出させる記念品としてこれを保つことに決めました。'
+      ja: '犬の骨を奪っている間の激しい戦いの後であなたはあなたの闘争を思い出させる記念品としてこれを保つことに決めました。',
+      sv: 'Efter en hård kamp och rånade ett hundens ben bestämdede man sig för att hålla detta som en souvenir som påminner dig om dina kampar.'
     }
   },
 
@@ -90,7 +94,8 @@ export default [
       pt: 'Os restos de algumas noites atrás fizeram um grande fedor.',
       pl: 'Resztki sprzed kilku nocy zrobiły niezły smród.',
       cs: 'Zbytky z několika nocí se dost smrdí.',
-      ja: '数泊前の残り物はかなり悪臭を放っています。'
+      ja: '数泊前の残り物はかなり悪臭を放っています。',
+      sv: 'Rester från ett par nätter sedan har gjort en ganska stink.'
     }
   },
 
@@ -109,7 +114,8 @@ export default [
       pt: 'Pequena bola de metal, brilhante e lisa, com algumas amolgadelas na superfície.',
       pl: 'Mała metalowa kula, błyszcząca i gładka, z kilkoma wgnieceniami na powierzchni.',
       cs: 'Malá kovová kulička, lesklá a hladká s některými otvory na povrchu.',
-      ja: '小さな金属製のボールは光沢があり滑らかで、表面にはへこみがあります。'
+      ja: '小さな金属製のボールは光沢があり滑らかで、表面にはへこみがあります。',
+      sv: 'Liten metallkula, glänsande och slät med några bulkar på ytan.'
     }
   },
 
@@ -128,7 +134,8 @@ export default [
       pt: 'Raios de luz são apanhados nesta esfera, lançando finos arco-íris à tua volta.',
       pl: 'Promienie światła zostają złapane w tej sferze, rzucając wokół ciebie drobne tęcze.',
       cs: 'V této sféře se zachytí paprsky světla, které kolem vás vrhají jemné duhy.',
-      ja: 'この球体に光の光線が当たると、周囲に細かい虹が投げかけられます。'
+      ja: 'この球体に光の光線が当たると、周囲に細かい虹が投げかけられます。',
+      sv: 'Lysstrålar fångas i denna sfär och kastar fina regnbågar runt dig.'
     }
   },
 
@@ -147,7 +154,8 @@ export default [
       pt: 'Os antigos ciclopes que aterrorizavam estas terras foram finalmente mortos, permitindo que você vasculhasse esta lembrança sombria.',
       pl: 'Starożytni cyklopowie terroryzujący te ziemie zostali w końcu zabici, co pozwoliło na wymazanie tej ponurej pamiątki.',
       cs: 'Starověké cyklopy, které tyto země terorizovaly, byly nakonec zabity, což vám umožnilo uklidit tento ponurý suvenýr.',
-      ja: 'これらの土地を脅迫している古代サイクロプスはついに殺され、あなたはこの厳しいお土産を掃除することができました。'
+      ja: 'これらの土地を脅迫している古代サイクロプスはついに殺され、あなたはこの厳しいお土産を掃除することができました。',
+      sv: 'De antika cyklops som terroriserar dessa länder blev äntligen dödade, så att du kunde scavenge denna dystra souvenir.'
     }
   },
 
@@ -166,7 +174,8 @@ export default [
       pt: 'Alguns magos usam cajados, alguns livros, você decidiu usar um monte de neve congelada.',
       pl: 'Niektórzy magowie używają sztabów, inni książki, a ty zdecydowałeś się użyć zamarzniętej kępki śniegu.',
       cs: 'Někteří mágové používají štáby, nějaké knihy, rozhodli jste se použít zamrzlý svazek sněhu.',
-      ja: 'いくつかの魔術師はあなたが雪の凍結した塊を使うことに決めた本をスタッフに使います。'
+      ja: 'いくつかの魔術師はあなたが雪の凍結した塊を使うことに決めた本をスタッフに使います。',
+      sv: 'Några mages använder staber, några böcker, du bestämde dig för att använda en frusen klump av snö.'
     }
   },
 
@@ -185,7 +194,8 @@ export default [
       pt: 'Lustrosa e encantadora, esta esfera misteriosa faz com que o ar à sua volta fique gelado.',
       pl: 'Tajemnicza i czarująca, tajemnicza kula sprawia, że powietrze wokół niej jest lodowato zimne.',
       cs: 'Tato záhadná koule, živá a okouzlující, vytváří vzduch kolem ní ledově studený.',
-      ja: '艶やかで魅力的なこの不思議な球体は、周囲の空気を氷冷します。'
+      ja: '艶やかで魅力的なこの不思議な球体は、周囲の空気を氷冷します。',
+      sv: 'Lysande och charmig, denna mystiska sfär gör att luften är iskallig.'
     }
   },
 
@@ -204,7 +214,8 @@ export default [
       pt: 'Esfera verde esmeralda enigmática, envolvida em gravuras finas de profecias serpentinas, atraindo fama e serendipidade ao seu portador ingênuo.',
       pl: 'Enigmatyczna sfera szmaragdowej zieleni, otoczona drobnymi rycinami przepowiedni serpentynowych, wabiąca sławę i serdeczność do swojego naiwnego nosiciela.',
       cs: 'Tajemná smaragdově zelená koule, obklopená jemnými rytinami serpentinských proroctví, která svému naivnímu nositeli láká slávu a serendipity.',
-      ja: '謎めいたエメラルドグリーンの球体は、その素朴な支持者に名声とセレンディピティを誘う蛇紋岩の予言の細かい彫刻に包まれていました。'
+      ja: '謎めいたエメラルドグリーンの球体は、その素朴な支持者に名声とセレンディピティを誘う蛇紋岩の予言の細かい彫刻に包まれていました。',
+      sv: 'Enigmatisk smaragdgrön sfär, inramad i fina graveringar av serpentin profetior, lockande berömmelse och serendipity till sin naiva bärare.'
     }
   },
 
@@ -223,7 +234,8 @@ export default [
       pt: 'Orb transparente amarelo tingido, revelando plumas infernais aprisionadas de aura paranormal, envolvendo as mentes dos fracos com planos de veneno e assassinato.',
       pl: 'Przezroczysty, żółto zabarwiony kula, odsłaniający uwięzione piekielne pióropusze aury paranormalnej, pochłaniający umysły słabych planami trucizny i morderstwa.',
       cs: 'Průhledná žlutá bledá koule, která odhaluje uvězněné pekelné šmouhy paranormální aury, pohltí mysli slabých s plány jedu a vraždy.',
-      ja: '毒と殺人の計画で弱者の心を飲み込んでいる超常的なオーラの閉じ込められた地獄の羽毛を明らかにしている透明な黄色がかったオーブ。'
+      ja: '毒と殺人の計画で弱者の心を飲み込んでいる超常的なオーラの閉じ込められた地獄の羽毛を明らかにしている透明な黄色がかったオーブ。',
+      sv: 'Genomskinlig gul tinkad orb, avslöjade fångade infernala plumer av paranormal aura, uppsluka de svagas sinnen med planer om gift och mord.'
     }
   },
 
@@ -242,7 +254,8 @@ export default [
       pt: 'Artefato facetado azul pálido, irradiando ondas pulsantes de luz, banindo as sombras escuras das almas demoníacas do seu caminho para a glória.',
       pl: 'Jasnoniebieski, fasetowany artefakt, promieniujące pulsujące fale światła, wygnanie ciemnych cieni demonicznych dusz z Twojej drogi do chwały.',
       cs: 'Světle modrý fasetový artefakt, vyzařující pulzující vlny světla, vyhánějící temné stíny démonických duší z cesty ke slávě.',
-      ja: 'あなたの道から栄光への道から悪魔の魂の暗い影を追い払う光の脈動波を放射している淡いブルーの多面的なアーティファクト。'
+      ja: 'あなたの道から栄光への道から悪魔の魂の暗い影を追い払う光の脈動波を放射している淡いブルーの多面的なアーティファクト。',
+      sv: 'Blåblå fasetterad artefakt, utstrålande pulserande ljusvågor, fördärva de mörka skuggorna av demoniska själar från din väg till ära.'
     }
   },
 
@@ -261,7 +274,8 @@ export default [
       pt: 'Carne e sangue infundiram este globo com as almas dos mortos, criando uma essência vermelha escura embutida em si mesma, concedendo a você uma luxúria sem precedentes por sangue e batalha.',
       pl: 'Ciało i krew nasyciły tę kulę duszami zabitych, tworząc ciemnoczerwoną, osadzoną w sobie ciemną esencję, dając ci bezprecedensową żądzę krwi i walki.',
       cs: 'Tělo a krev naplnily tuto kouli duší zabitých a vytvořily v sobě tmavě červenou esenci, která vám přinesla bezprecedentní touhu po krvi a bitvě.',
-      ja: '肉と血が殺人の魂でこの球体を注入し、それ自体に埋め込まれた濃い赤のエッセンスを作り出し、血と戦いに対する前例のない欲望をあなたに与えました。'
+      ja: '肉と血が殺人の魂でこの球体を注入し、それ自体に埋め込まれた濃い赤のエッセンスを作り出し、血と戦いに対する前例のない欲望をあなたに与えました。',
+      sv: 'Kött och blod infunderade denna orb med de dödas själar, vilket skapade en mörkröd essens inbäddad i sig, vilket ger dig en aldrig tidigare skådad lust för blod och kamp.'
     }
   },
 
@@ -280,7 +294,8 @@ export default [
       pt: 'Escuro, mortal e demoníaco, um globo envolto em pequenas crateras cheias de gemas vermelhas de sangue, tecendo folhas de terror naqueles que se opõem a ti.',
       pl: 'Mroczna, zabójcza i demoniczna kula otoczona małymi kraterami wypełnionymi krwistoczerwonymi klejnotami, wplatająca prześcieradła terroru w tych, którzy ci się sprzeciwiają.',
       cs: 'Temné, smrtící a démonické, koule obklopená malými krátery naplněnými krvavě červenými drahokamy, tkalcovými hrůzou do těch, kteří jsou proti vám.',
-      ja: '暗く致命的で悪魔のような小さなクレーターに包まれた玉が、あなたに対抗する者たちに、一枚の恐怖を織り交ぜた血のような宝石で満たされています。'
+      ja: '暗く致命的で悪魔のような小さなクレーターに包まれた玉が、あなたに対抗する者たちに、一枚の恐怖を織り交ぜた血のような宝石で満たされています。',
+      sv: 'Mörk, dödlig och demonisk, en orb innesluten i små kratrar fyllda med blodröda pärlor, vävande skivor till dem som motsätter dig.'
     }
   }
 
