@@ -41,7 +41,7 @@ Exporting...
 ```
 
 ### Examples
-Lets say we want to add a German translation to some of the basic Strings for the Archer class. We navigate to `loc/classes/archer.js`, and find:
+Lets say we want to add a German translation to some of the basic Strings for the Archer class. We navigate to `loc/classes/archer.js`, and find: 
 
 ```js
 export default {

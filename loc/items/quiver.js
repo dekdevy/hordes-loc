@@ -12,7 +12,9 @@ export default [
       hi: 'मुलायम और गद्दों से भारी हुई। सारे तीर गिरते रहते है।',
       nl: 'Zacht, vol gaten. Pijlen blijven uitvallen.',
       pl: 'Miękka, pełna dziur. Strzałki wciąż wypadają.',
-      ht: 'Mou, plen twou. Flèch yo kontinye tonbe.'
+      ht: 'Mou, plen twou. Flèch yo kontinye tonbe.',
+      cs: 'Měkká, plná děr. Šipky stále vypadávají.',
+      ja: '柔らかい穴だらけ。矢印は抜け続けます。'
     }
   },
 
@@ -29,7 +31,9 @@ export default [
       hi: 'सख़्त चमड़े से ढकी लिनन की पोती।',
       nl: 'Linnenzak bedekt met stijf leer.',
       pl: 'Lniany worek pokryty sztywną skórą.',
-      ht: 'Sak twal fin blan kouvri nan kwi rèd.'
+      ht: 'Sak twal fin blan kouvri nan kwi rèd.',
+      cs: 'Plátěný pytel pokrytý tuhou kůží.',
+      ja: 'リネンの袋は硬い革で覆われています。'
     }
   },
 
@@ -46,7 +50,9 @@ export default [
       hi: 'आख़री रास्ता यही है',
       nl: 'Wordt gebruikt als al het andere faalt.',
       pl: 'Używane, gdy wszystko inne zawodzi.',
-      ht: 'Itilize lè tout lòt bagay echwe.'
+      ht: 'Itilize lè tout lòt bagay echwe.',
+      cs: 'Používá se, když všechno ostatní selže.',
+      ja: '他のすべてが失敗したときに使用されます。'
     }
   },
 
@@ -63,7 +69,9 @@ export default [
       hi: 'एल्वेन पोटली, हीरों से जड़ी।',
       nl: 'Elven koker gecoat in glinsterende diamant.',
       pl: 'Elficki kołczan pokryty błyszczącym diamentem.',
-      ht: 'Flè Elven kouvwi ak dyaman chatwayant.'
+      ht: 'Flè Elven kouvwi ak dyaman chatwayant.',
+      cs: 'Elven potápěč potažený třpytivým diamantem.',
+      ja: 'きらめくダイヤモンドでコーティングされたエルフの矢筒。'
     }
   },
 
@@ -80,7 +88,9 @@ export default [
       hi: 'तीर निकालने पर साँप की तरह फूफकारती है।',
       nl: 'Elke keer als je een pijl eruit trekt, sist het naar je.',
       pl: 'Za każdym razem, gdy wyciągasz strzałę, syczysz na siebie.',
-      ht: 'Chak fwa ou rale yon flèch soti, li sifle nan ou.'
+      ht: 'Chak fwa ou rale yon flèch soti, li sifle nan ou.',
+      cs: 'Pokaždé, když vytáhnete šipku, zasyče na vás.',
+      ja: 'あなたが矢を引き出すたびにそれはあなたに向かっている。'
     }
   }
 

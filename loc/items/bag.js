@@ -2,7 +2,7 @@ export default [
   {
     name       : {$$: 'Linen Pouch' },
     description: {
-      en: 'Small little purse used by merchants\' wives.',
+      en: 'Small little purse used by merchant\'s wives.',
       ru: 'маленькая сумочка раньше использована женами купцов.',
       de: 'Kleine kleine Geldbörse, die von den Ehefrauen der Händler benutzt wird.',
       es: 'Una bolsa linda utilizado por las esposas de comerciantes.',
@@ -18,7 +18,8 @@ export default [
       ph: 'Maliit na maliit na pitaka na ginamit ng mga babaeng mangangalakal.',
       tr: 'Tüccarların eşleri tarafından kullanılan küçük minik çanta.',
       sv: 'Liten liten handväska som används av köpmännen.',
-      ht: 'Valiz ti kras la itilize yo dwe itilize pa madanm yo nan komèsan yo.'
+      ht: 'Valiz ti kras la itilize yo dwe itilize pa madanm yo nan komèsan yo.',
+      hi: 'छोटे छोटे व्यापारी की पत्नियों द्वारा प्रयोग किया जाता पर्स।'
     }
   },
 
@@ -41,7 +42,8 @@ export default [
       ph: 'Ang buckle ay nagkakahalaga ng higit sa natitirang bahagi nito.',
       tr: 'Tokası geri kalanından daha değerli.',
       sv: 'Spännet är värt mer än resten av det.',
-      ht: 'Bouk la vo pi plis pase nenpòt lòt bagay.'
+      ht: 'Bouk la vo pi plis pase nenpòt lòt bagay.',
+      hi: 'बकसुआ बाकी की तुलना में अधिक के लायक है।'
     }
   },
 
@@ -64,7 +66,8 @@ export default [
       ph: 'Nice purple rucksack para sa lahat ng iyong mga pangangailangan sa paglalakbay.',
       tr: 'Tüm seyahat ihtiyaçlarınız için güzel mor sırt çantası.',
       sv: 'Trevlig lila ryggsäck för alla dina resebehov.',
-      ht: 'Valiz valiz bèl pou nenpòt ki vwayajè bezwen yo.'
+      ht: 'Valiz valiz bèl pou nenpòt ki vwayajè bezwen yo.',
+      hi: 'अपने सभी यात्रा की जरूरत के लिए अच्छा बैंगनी रूकसाक।'
     }
   },
 
@@ -82,7 +85,10 @@ export default [
       tr: 'Elf okçular tarafından at sırtında kullanılan şık çanta.',
       pl: 'Elegancka torba używana przez elfów łuczników na koniu.',
       sv: 'Elegant bag used by river archers on horseback.',
-      ht: 'Sak Elegant itilize pa kavalye elven sou cheval.'
+      ht: 'Sak Elegant itilize pa kavalye elven sou cheval.',
+      cs: 'Elegantní taška používá elfské lukostřelce na koni.',
+      ja: '馬に乗ってエルフの射手が使用するエレガントなバッグ。',
+      hi: 'सुरुचिपूर्ण घोड़े की पीठ पर योगिनी तीरंदाजों द्वारा प्रयोग किया जाता बैग।'
     }
   },
 
@@ -100,7 +106,10 @@ export default [
       tr: 'Liken ipliklerinden dokunan bu çantanın yapımı gizemini koruyor.',
       pl: 'Tkany z nici porostów, konstrukcja tej torby pozostaje tajemnicą.',
       sv: 'Vävd av trådar av lavar, är byggandet av denna väska ett mysterium.',
-      ht: 'Desen an sak sa a trikote soti nan fil likèn rete yon mistè.'
+      ht: 'Desen an sak sa a trikote soti nan fil likèn rete yon mistè.',
+      cs: 'Tkané z nití lišejníků, konstrukce tohoto sáčku zůstává záhadou.',
+      ja: '地衣類の糸から織られたこのバッグの構造は謎のままです。',
+      hi: 'लाइकेन के धागे से बुना, इस बैग के निर्माण के एक रहस्य बना हुआ।'
     }
   }
 

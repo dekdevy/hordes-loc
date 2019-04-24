@@ -14,7 +14,9 @@ export default {
     nl: 'Toon Clan',
     pt: 'Mostrar Clã',
     pl: 'Pokaż klan',
-    ht: 'Montre klan'
+    ht: 'Montre klan',
+    cs: 'Klan',
+    ja: '一族'
   },
 
   system: {
@@ -31,7 +33,9 @@ export default {
     nl: 'Toon systeem',
     pt: 'Mostrar sistema',
     pl: 'System pokazów',
-    ht: 'Montre Sistèm'
+    ht: 'Montre Sistèm',
+    cs: 'Systém',
+    ja: 'システム'
   },
 
   // translations not needed
