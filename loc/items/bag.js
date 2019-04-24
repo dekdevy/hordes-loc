@@ -19,7 +19,8 @@ export default [
       tr: 'Tüccarların eşleri tarafından kullanılan küçük minik çanta.',
       sv: 'Liten liten handväska som används av köpmännen.',
       ht: 'Valiz ti kras la itilize yo dwe itilize pa madanm yo nan komèsan yo.',
-      hi: 'छोटे छोटे व्यापारी की पत्नियों द्वारा प्रयोग किया जाता पर्स।'
+      hi: 'छोटे छोटे व्यापारी की पत्नियों द्वारा प्रयोग किया जाता पर्स।',
+      ko: '상인의 아내가 사용하는 작은 지갑.'
     }
   },
 
@@ -43,7 +44,8 @@ export default [
       tr: 'Tokası geri kalanından daha değerli.',
       sv: 'Spännet är värt mer än resten av det.',
       ht: 'Bouk la vo pi plis pase nenpòt lòt bagay.',
-      hi: 'बकसुआ बाकी की तुलना में अधिक के लायक है।'
+      hi: 'बकसुआ बाकी की तुलना में अधिक के लायक है।',
+      ko: '버클은 그 나머지 부분보다 더 가치가 있습니다.'
     }
   },
 
@@ -67,7 +69,8 @@ export default [
       tr: 'Tüm seyahat ihtiyaçlarınız için güzel mor sırt çantası.',
       sv: 'Trevlig lila ryggsäck för alla dina resebehov.',
       ht: 'Valiz valiz bèl pou nenpòt ki vwayajè bezwen yo.',
-      hi: 'अपने सभी यात्रा की जरूरत के लिए अच्छा बैंगनी रूकसाक।'
+      hi: 'अपने सभी यात्रा की जरूरत के लिए अच्छा बैंगनी रूकसाक।',
+      ko: '모든 여행에 필요한 멋진 보라색 배낭.'
     }
   },
 
@@ -88,7 +91,8 @@ export default [
       ht: 'Sak Elegant itilize pa kavalye elven sou cheval.',
       cs: 'Elegantní taška používá elfské lukostřelce na koni.',
       ja: '馬に乗ってエルフの射手が使用するエレガントなバッグ。',
-      hi: 'सुरुचिपूर्ण घोड़े की पीठ पर योगिनी तीरंदाजों द्वारा प्रयोग किया जाता बैग।'
+      hi: 'सुरुचिपूर्ण घोड़े की पीठ पर योगिनी तीरंदाजों द्वारा प्रयोग किया जाता बैग।',
+      ko: '엘프 궁수들이 말을 타고 사용하는 우아한 가방.'
     }
   },
 
@@ -109,7 +113,8 @@ export default [
       ht: 'Desen an sak sa a trikote soti nan fil likèn rete yon mistè.',
       cs: 'Tkané z nití lišejníků, konstrukce tohoto sáčku zůstává záhadou.',
       ja: '地衣類の糸から織られたこのバッグの構造は謎のままです。',
-      hi: 'लाइकेन के धागे से बुना, इस बैग के निर्माण के एक रहस्य बना हुआ।'
+      hi: 'लाइकेन के धागे से बुना, इस बैग के निर्माण के एक रहस्य बना हुआ।',
+      ko: '지의 스레드에서 짜여진,이 가방의 건설은 수수께끼로 남아 있습니다.'
     }
   }
 
