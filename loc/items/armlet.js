@@ -17,7 +17,8 @@ export default [
       it: 'Cinturino in pelle a buon mercato comprato da un ambizioso contadino.',
       hi: 'सस्ते लेदर बैंड एक महत्वाकांक्षी किसान द्वारा खरीदा।',
       cs: 'Levné kožené kapely koupil ambiciózní farmář.',
-      ja: '野心的な農民によって買われた安い革バンド。'
+      ja: '野心的な農民によって買われた安い革バンド。',
+      ro: 'Curea de piele ieftină cumpărată de un fermier ambițios.'
 
     }
   },
@@ -40,7 +41,8 @@ export default [
       it: 'Mani esperte hanno fatto un intricato lavoro nel realizzare questo bracciale fatto in casa.',
       hi: 'कुशल हाथों इस घर का बना कफ बनाने में एक जटिल काम कर दिया।',
       cs: 'Kvalifikované ruce dělaly při výrobě domácí manžety složitou práci.',
-      ja: '熟練した手はこの自家製の袖口を作ることにおいて複雑な仕事をしました。'
+      ja: '熟練した手はこの自家製の袖口を作ることにおいて複雑な仕事をしました。',
+      ro: 'Niște mâini pricepute au făcut o muncă complicată în ceea ce privește această manșetă de casă'
     }
   },
 
@@ -62,7 +64,8 @@ export default [
       it: 'Rigido, ti fa male al braccio.',
       hi: 'कड़ी, अपने हाथ गले में बना देता है।',
       cs: 'Ztuhlé, dělá svou ruku bolavou.',
-      ja: '硬直すると腕が痛くなります。'
+      ja: '硬直すると腕が痛くなります。',
+      ro: 'Rigid, îți inflamează brațul.'
     }
   },
 
@@ -84,7 +87,8 @@ export default [
       it: 'Elegante polsino realizzato con le zanne dell ultimo mammut.',
       hi: 'कड़ी, अपने हाथ गले में बना देता है।',
       cs: 'Elegantní manžeta vyrobená z kel posledního mamuta.',
-      ja: '最後のマンモスの牙から作られたエレガントなカフ。'
+      ja: '最後のマンモスの牙から作られたエレガントなカフ。',
+      ro: 'Manșetă elegantă realizată din colții ultimului mamut.'
     }
   },
 
@@ -106,7 +110,8 @@ export default [
       it: 'Pesante sul braccio... vale la pena proteggerlo.',
       hi: 'अपने हाथ पर भारी ... लायक संरक्षण।',
       cs: 'Těžká na paži ... stojí za to.',
-      ja: 'あなたの腕に重い...保護に値する。'
+      ja: 'あなたの腕に重い...保護に値する。',
+      ro: 'Grea pe braț... merită protecția.'
     }
   },
 
@@ -128,7 +133,8 @@ export default [
       it: 'Braccialetto in metallo opaco, comodo per i raid notturni.',
       hi: 'सुस्त धातु ब्रेसेर, रात छापा मारने के लिए आसान।',
       cs: 'šikovný pro noční nájezdy.',
-      ja: '夜間の襲撃に便利な鈍い金属製の装具。'
+      ja: '夜間の襲撃に便利な鈍い金属製の装具。',
+      ro: 'Manșetă anostă din metal, la îndemână pentru raidurile pe timp de noapte.'
 
     }
   },
@@ -151,7 +157,8 @@ export default [
       it: 'Il reggiseno in scala, ti fa assomigliare il braccio a quello di un drago.',
       hi: 'स्केल्ड ब्रेसेर, अपने हाथ सदृश एक अजगर की है कि बनाता है।',
       cs: 'Šupinatý šprýmař, tvá ruka se podobá tomu draka.',
-      ja: '縮れたブレースはあなたの腕をドラゴンのそれに似せます。'
+      ja: '縮れたブレースはあなたの腕をドラゴンのそれに似せます。',
+      ro: 'Manșetă acoperită cu solzi, îți face brațul să semene cu al unui dragon.'
     }
   },
 
@@ -166,14 +173,15 @@ export default [
       pt: 'Cega os teus inimigos com um brilho mágico de um espelho de mágicos diabólicos...',
       ko: '마법사애 거울이 부터있는 팔찌. 적의눈을 부시게 한다.',
       nl: 'Verblindt je vijanden met een magische glans van een slinkse goochelspiegel...',
-      pl: 'Oślepia wrogów magicznym blaskiem zwierciadlanego lustra magów ...',
+      pl: 'Oślepia wrogów magicznym blaskiem od zdradzieckiego lusterka magów...',
       sv: 'Blindar dina fiender med en magisk glans av en djävulsk trollkarlspegel ...',
       tr: 'Düşmanlarınızı büyülü bir sihirbazın aynasından büyüleyen sihirli bir parıltıyla kör ediyor...',
       ht: 'Pèsyèn lènmi ou yo ak briye nan yon glas sere maji...',
       it: 'Acceca i tuoi nemici con una magica lucentezza da uno specchio di maghi subdoli...',
       hi: 'एक जादुई चमक के साथ अपने दुश्मनों को अंधा बंद एक कुटिल जादूगर दर्पण ...',
       cs: 'Slepí své nepřátele magickým zábleskem ze zlého kouzelnického zrcadla ...',
-      ja: '馬鹿げた魔術師の鏡からあなたの敵を魔法のように輝かせて盲目にします...'
+      ja: '馬鹿げた魔術師の鏡からあなたの敵を魔法のように輝かせて盲目にします...',
+      ro: 'Orbește adversarii cu o strălucire magică a unei oglinzi deviante a magicienilor.'
     }
   },
 
@@ -195,7 +203,8 @@ export default [
       it: 'I guardiani arcaici hanno lasciato i resti del loro passaggio, che avete deciso senza scrupoli di indossare sul vostro braccio.',
       hi: 'एक जादुई चमक के साथ अपने दुश्मनों को अंधा बंद एक कुटिल जादूगर दर्पण ...',
       cs: 'Archaičtí strážci zanechali zbytky svého prochodu, které jste bezohledně rozhodli nosit na paži.',
-      ja: '古風な守護者たちは、あなたが不注意にあなたの腕に身に着けることに決めた彼らの通過の残骸を残しました。'
+      ja: '古風な守護者たちは、あなたが不注意にあなたの腕に身に着けることに決めた彼らの通過の残骸を残しました。',
+      ro: 'Gardienii arhaici au lăsat rămășițe în urma lor, pe care ați decis să le purtați fără scrupule.'
     }
   },
 
@@ -217,7 +226,8 @@ export default [
       it: 'L\'acciaio ingannevolmente leggero offre una protezione frigorifera contro i colpi subdoli.',
       hi: 'भ्रामक प्रकाश इस्पात डरपोक चल रही है के खिलाफ द्रुतशीतन सुरक्षा प्रदान करता है।',
       cs: 'Klamně lehká ocel nabízí ochranu proti záludným úderům.',
-      ja: '一見軽い鋼は卑劣な打撃に対する低温保護を提供します。'
+      ja: '一見軽い鋼は卑劣な打撃に対する低温保護を提供します。',
+      ro: 'Oțelul înșelător de ușor oferă protecție revigorantă împotriva loviturilor viclene.'
     }
   },
 
@@ -239,7 +249,8 @@ export default [
       it: 'Le stelle non sono spesso nere, eppure questo frammento ha un... profondo buio profondo.',
       hi: 'सितारे अक्सर काले नहीं हैं, फिर भी इस टुकड़ा एक ... गहरी ... गहरे अंधकार है।',
       cs: 'Hvězdy nejsou často černé, ale tento fragment má hlubokou temnotu.',
-      ja: '多くの場合、星は黒ではありませんが、この断片は...濃い...濃い暗さを持っています。'
+      ja: '多くの場合、星は黒ではありませんが、この断片は...濃い...濃い暗さを持っています。',
+      ro: 'Stelele nu sunt deseori negre, totuși acest fragment are o... adâncă... adâncă întunecime.'
     }
   },
 
@@ -261,7 +272,8 @@ export default [
       hi: 'जाली, खो दिया है, पाया, चोरी, अंत के बिना युगों के लिए छिपा हुआ है।',
       cs: 'Reforged, ztracený, nalezený, ukradený, ukrytý pro éry bez konce.',
       ja: '失われた遺失物は、終わりのない時代に隠されて盗まれました。',
-      sv: 'Smidda, förlorade, hittade, stol, gömd för eroder utan slut.'
+      sv: 'Smidda, förlorade, hittade, stol, gömd för eroder utan slut.',
+      ro: 'Refăurite, pierdute, găsite, furate, ascunse pentru ere fără sfârșit.'
     }
   },
 
@@ -276,14 +288,15 @@ export default [
       pt: 'Este item foi forjado na lua cheia quando encantamentos misteriosos foram ouvidos nos sussurros da escuridão. Alguns dizem que foi o próprio Anubis falando com os mortos.',
       ko: '이 아이템은 어둠의 속삭임에서 신비한 주문을 들었을 때 보름달에 위조되었습니다. 어떤 사람들은 아누비스 자신이 죽은 자들과 이야기했다고합니다.',
       nl: 'Dit voorwerp werd gesmeed op volle maan toen mysterieuze bezweringen in het gefluister van de duisternis werden gehoord. Sommigen zeggen dat het Anubis zelf was die met de doden sprak.',
-      pl: 'Ten przedmiot został wykuty w czasie pełni księżyca, gdy w szeptach ciemności usłyszano tajemnicze zaklęcia.  Niektórzy mówią, że to właśnie Anubis rozmawiał ze zmarłymi.',
+      pl: 'Ten przedmiot został wykuty w czasie pełni księżyca, gdy w szeptach ciemności usłyszano tajemnicze zaklęcia. Niektórzy mówią, że to sam Anubis mówił ze zmarłymi.',
       sv: 'Det här objektet smiddes på en fullmåne när mystiska incantations hördes i mörkets viskningar. Vissa säger att det var Anubis själv som talade med de döda.',
       tr: 'Bu eşya, karanlığın fısıltılarında gizemli sihirli sözler duyulduğunda, dolunayda dövüldü. Bazıları bunun ölülerle konuşan Anubis\'in kendisi olduğunu söylüyor.',
       ht: 'Atik sa a te fòje nan lalin lan plen lè òneman misterye te tande nan yon murmures nan fènwa. Gen kèk ki di ke li te Anubi tèt li, pale ak moun ki mouri yo.',
       it: 'Questo oggetto è stato forgiato su una luna piena quando misteriosi incantesimi sono stati ascoltati nei sussurri del buio. Alcuni dicono che sia stato Anubi stesso a parlare con i morti.',
       hi: 'यह आइटम किसी पूर्णिमा जब रहस्यमय मंत्र अंधेरे से फुसफुसाते हुए में सुना रहे थे पर जाली था। कुछ लोग कहते हैं कि यह मृत खुद मृत के साथ बात की देवता था।',
       cs: 'Tento předmět byl kovaný na úplňku, když se v šepotu temnoty ozvalo tajemné zaklínadlo. Někteří říkají, že to byl Anubis sám mluvit s mrtvými.',
-      ja: 'このアイテムは、暗闇のささやきの中で不思議な呪文が聞かれたときに満月に作られました。アヌビス自身が死者と話していたと言う人もいます。'
+      ja: 'このアイテムは、暗闇のささやきの中で不思議な呪文が聞かれたときに満月に作られました。アヌビス自身が死者と話していたと言う人もいます。',
+      ro: 'Acest obiect a fost făurit sub lună plină când incantații misterioase au fost auzite în șoaptele nopții. Câțiva oameni spun că a fost chiar Anubis vorbind cu morții.'
     }
   }
 
