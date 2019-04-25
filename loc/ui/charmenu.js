@@ -65,7 +65,8 @@ export default {
       it: 'Entra nel mondo',
       pl: 'Wejdź do świata',
       nl: 'Betreed de wereld',
-      pt: 'Entre no mundo'
+      pt: 'Entre no mundo',
+      ht: 'Antre Lemonn'
     },
 
     emptySlot: {
@@ -279,7 +280,7 @@ export default {
       ru: 'Чтобы удалить, введите имя персонажа. Ваш персонаж не может быть восстановлен.',
       hi: 'हटाने के लिए नाम डाले आपका स्वरूप पुनर नहीं मिल पाएगा।',
       es: 'Para eliminar, escriba el nombre del caracter. Tu carácter no puede ser restaurado.',
-      de: 'Geben Sie zum Löschen den Namen des Zeichens ein. Dein Charakter kann nicht wiederhergestellt werden.',
+      de: 'Geben Sie zum Löschen deines character\'s den Namen ein. Dein Charakter kann nicht wiederhergestellt werden.',
       fr: 'Pour supprimer, saisissez le nom du personnage. Votre personnage ne pourra pas être restauré.',
       ko: '삭제하려면 캐릭터의 이름을 입력하십시오. 당신의 캐릭터는 회복 될 수 없습니다.',
       tr: 'Silmek için karakterin adını yazın. Silinen karakter geri getirilemez.',

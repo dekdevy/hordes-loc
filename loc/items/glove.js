@@ -14,8 +14,12 @@ export default [
       hi: 'चमड़े की पट्टियाँ जो आपके नाज़ुक हाथो को ढकती हैं। अब धनुष चलना आसान होगा।',
       cs: 'Popruhy kůže pokrývají vaše slabé ruce. Tahání tětivy je pro tebe nyní mnohem snazší.',
       ja: 'あなたの弱い手を覆う革のストラップ。弦を引くことは今あなたにとってずっと簡単です。',
+      bg: 'Кожени презрамки, покриващи слабите ви ръце. Изтеглянето на тетивата е много по-лесно за вас сега.',
+      el: 'Ιμάντες από δέρμα που καλύπτουν τα αδύναμα χέρια σας. Το τράβηγμα του κορδονιού είναι πολύ πιο εύκολο για εσάς τώρα.',
       tr: 'Zayıf ellerini kaplayan deri kayışlar. Kordonu çekmek şimdi sizin için çok daha kolay.',
-      ht: 'Bracelets an kwi ki kouvri men fèb ou yo. Rale kord la se pi fasil pou ou kounye a.'
+      ht: 'Bracelets an kwi ki kouvri men fèb ou yo. Rale kord la se pi fasil pou ou kounye a.',
+      sv: 'Skinnband av läder som täcker dina svaga händer. Att dra på bågstången är mycket lättare för dig nu.',
+      ko: '너의 미약 한 손을 감싸는 가죽 끈. 지금은 귀걸이를 당기는 것이 훨씬 쉽습니다.'
     }
   },
 
@@ -31,11 +35,15 @@ export default [
       pl: 'Przędza przędzy z kradzionych owiec sprawia, że te ciepłe rękawice są przyjemne w noszeniu.',
       it: 'Il filato di pecora rubata rende questi guanti caldi un piacere da indossare.',
       fr: 'Le filé de moutons volés fait de ces gants chauds un plaisir à porter.',
+      el: 'Το νήμα από τα κλεμμένα πρόβατα κάνει αυτά τα ζεστά γάντια μια ευχαρίστηση να φορέσουν.',
+      bg: 'Преждата от откраднати овце прави тези топли ръкавици удоволствие да се носят.',
       hi: 'चुरायी गयी बकरियों के ऊन से बनाए गए गरम दस्ताने पहन्ने में अच्छे लगते है।',
       cs: 'Spřádaná příze z odcizených ovcí tyto teplé rukavice potěší.',
       ja: '盗まれた羊からの紡績糸はこれらの暖かい手袋を身に着ける喜びにします。',
       tr: 'Çalınan koyunlardan elde edilen bükülmüş ipliklerden yapılan bu sıcak eldivenleri giymek bir zevktir.',
-      ht: 'Fil file nan mouton yo vòlè fè sa yo gan cho yon plezi mete.'
+      ht: 'Fil file nan mouton yo vòlè fè sa yo gan cho yon plezi mete.',
+      sv: 'Spunnet garn från stulet får gör dessa varma handskar ett nöje att bära.',
+      ko: '도난당한 양의 방적사가이 따뜻한 장갑을 착용하는 즐거움으로 만듭니다.'
     }
   },
 
@@ -49,20 +57,24 @@ export default [
       pt: 'Os teus dedos mal se conseguem mexer nestas luvas de couro rígido.',
       nl: 'Je vingers kunnen nauwelijks bewegen in deze stijve leren wanten.',
       pl: 'Twoje palce ledwo poruszają się w tych sztywnych skórzanych rękawiczkach.',
+      el: 'Τα δάχτυλά σας μπορούν να μετακινηθούν μόλις σε αυτά τα δύσκαμπτα δερμάτινα γάντια.',
+      bg: 'Пръстите ти едва се движат в тези твърди кожени ръкавици.',
       it: 'Le tue dita si muovono a malapena con questi guanti di pelle rigida.',
       fr: 'Vos doigts peuvent à peine bouger dans ces mitaines en cuir rigide.',
       hi: 'इन कड़े चमड़े के दस्तनो में उँगलिया मुश्किल से हिल पाएगी।',
       cs: 'V těchto tuhých kožených rukavicích se sotva pohnou prsty.',
       ja: 'あなたの指はかろうじてこれらの硬い革のミットの中で動くことができます。',
       tr: 'Parmaklarınız bu sert deri eldivenlerde zar zor hareket eder.',
-      ht: 'Dwèt ou ka apèn deplase nan manch rèd kwi sa yo.'
+      ht: 'Dwèt ou ka apèn deplase nan manch rèd kwi sa yo.',
+      sv: 'Dina fingrar kan knappt röra sig i dessa styva lädervästar.',
+      ko: '손가락이이 딱딱한 가죽 끈으로 간신히 움직일 수 있습니다.'
     }
   },
 
   {
     name       : {$$: 'Bone Grips' },
     description: {
-      en: 'Clacking sounds travel with you as you wear these.',
+      en: 'Clicking sounds travel with you as you wear these.',
       ru: 'Клацающие звуки путешествуют с вами когда вы носите эти перчатки.',
       de: 'Klackende Geräusche reisen mit, während Sie diese tragen.',
       es: 'Los sonidos de agarrotamiento viajan con usted mientras los usa.',
@@ -70,12 +82,16 @@ export default [
       nl: 'Kletterende geluiden reizen met je mee terwijl je deze draagt.',
       pl: 'Clacking dźwięki podróżować z tobą, jak nosisz te.',
       it: 'I suoni deboli viaggiano con te quando li indossi.',
+      el: 'Οι ήχοι σκασίματος ταξιδεύουν μαζί σας καθώς φοράτε αυτά.',
+      bg: 'Клаксиращите звуци пътуват с вас, докато ги носите.',
       fr: 'Les bruits de cliquetis voyagent avec vous lorsque vous les portez.',
       hi: 'इन्हें पहन्ने से ठन ठन आवाज़ आपके साथ चलती है।',
       cs: 'S těmi se unášíš, jak si ty tyhle zvuky.',
       ja: 'あなたがこれらを身に着けていると、クラッキング音はあなたと一緒に伝わります。',
       tr: 'Çatırdama sesleri siz bunları giydikçe sizinle birlikte hareket eder.',
-      ht: 'Klike son vwayaje avèk ou menm jan ou mete sa yo.'
+      ht: 'Klike son vwayaje avèk ou menm jan ou mete sa yo.',
+      sv: 'Att klicka på ljud rör dig med dig när du bär dem.',
+      ko: '딸깍 소리가 나면 딸랑 딸랑 소리가납니다.'
     }
   },
 
@@ -91,11 +107,15 @@ export default [
       pl: 'Miękko-żelazne rękawice zapewniają nieco większą ochronę, chociaż teraz Twoje ręce są zimne.',
       it: 'I guanti in ferro dolce forniscono un po\' più protezione, anche se le mani sono fredde ora.',
       fr: 'Les gants en fer doux offrent un peu plus de protection, bien que vos mains soient froides maintenant.',
+      el: 'Τα γάντια από μαλακό σίδερο παρέχουν λίγο περισσότερη προστασία, αν και τα χέρια σας είναι κρύα τώρα.',
+      bg: 'Ръкавиците от меко желязо осигуряват малко повече защита, въпреки че ръцете ви вече са студени.',
       hi: 'मुलायम लोहे के दस्ताने थोड़ी ज़्यादा रक्षा करते है, बस आपके हाथ ठंडे पद जाएँगे।',
       cs: 'Rukavice z měkkého železa poskytují trochu větší ochranu, i když jsou vaše ruce teď studené.',
       ja: 'あなたの手は今寒いですが、柔らかい鉄の手袋はもう少し保護を提供します。',
       tr: 'Yumuşak demir eldivenler, ellerinizi soğuk tutmasına rağmen, biraz daha koruma sağlar.',
-      ht: 'Gan fè-mou bay yon ti kras plis pwoteksyon, byenke men ou yo frèt kounye a.'
+      ht: 'Gan fè-mou bay yon ti kras plis pwoteksyon, byenke men ou yo frèt kounye a.',
+      sv: 'Järnhandskar ger lite mer skydd, även om dina händer är kalla nu.',
+      ko: '소프트 아이언 장갑은 손안에 차가워졌지만 약간의 보호 기능을 제공합니다.'
     }
   },
 
@@ -108,6 +128,8 @@ export default [
       es: 'Guantes de material desconocido... brilla...',
       pt: 'Mitts feitos de material desconhecido... brilha...',
       nl: 'Wanten gemaakt van onbekend materiaal... het schittert...',
+      el: 'Γάντια κατασκευασμένα από άγνωστο υλικό ... λάμπει ...',
+      bg: 'Ръкавиците от неизвестен материал ... блести ...',
       pl: 'Rękawiczki wykonane z nieznanego materiału... świeci...',
       it: 'Muffole di materiale sconosciuto.....brilla...',
       fr: 'Des mitaines faites d\'un matériau inconnu... il brille...',
@@ -115,7 +137,9 @@ export default [
       cs: 'Rukavice vyrobené z neznámého materiálu... svítí...',
       ja: '未知の素材でできたミット',
       tr: 'Bilinmeyen bir materyalden yapılmış eldiven... parlıyor da...',
-      ht: 'Mit ki fè soti nan materyèl enkoni ... li klere ...'
+      ht: 'Mit ki fè soti nan materyèl enkoni ... li klere ...',
+      sv: 'Mitts gjorda av okänt material ... det lyser ...',
+      ko: '미지의 물질로 만들어지는 조형물 ... 빛난다.'
     }
   },
 
@@ -130,12 +154,16 @@ export default [
       nl: 'Een of andere oorlogsgeneraal moet deze.... waarschijnlijk ook onbedoeld hebben laten vallen.',
       pl: 'Pewien generał wojny musiał je porzucić.... prawdopodobnie też nieumyślnie.',
       it: 'Qualche generale di guerra deve averle lasciate cadere..... probabilmente anche involontariamente.',
+      el: 'Κάποιος γενικός πόλεμος πρέπει να έχει πέσει αυτά ... πιθανώς και ακούσια.',
+      bg: 'Някой военен генерал сигурно е изпуснал тези ... вероятно неволно.',
       fr: 'Un général de guerre a dû a fait tomber ces....probablement involontairement aussi.',
       hi: 'किसी सेनापति ने इन्हें गिरा दिया होगा... ग़लती से।',
       cs: 'Nějaký válečný generál je musel upustit ... pravděpodobně i neúmyslně.',
       ja: '何人かの将軍はこれらを落としたにちがいない…おそらく意図せずに。',
       tr: 'Bir savaş generali bunları düşürmüş olmalı... muhtemelen bundan haberi de yok.',
-      ht: 'Gen kèk jeneral lagè yo dwe tonbe sa yo ... pwobableman envolontè tou.'
+      ht: 'Gen kèk jeneral lagè yo dwe tonbe sa yo ... pwobableman envolontè tou.',
+      sv: 'Vissa krigsmän måste ha tappat dessa ... förmodligen oavsiktligt.',
+      ko: '일부 전쟁 장군은 아마도 이것들을 떨어 뜨려야 만했을 것입니다 ... 아마도 우연히도.'
     }
   },
 
@@ -145,6 +173,8 @@ export default [
       en: 'Fire is no match for your hands as you wear these emerald mitts.',
       ru: 'Огонь не враг для ваших рук когда вы носите эти изумрудные перчатки.',
       de: 'Feuer hat keinen Einfluss auf deine Hände, wenn du diese Smaragdhandschuhe trägst.',
+      el: 'Η πυρκαγιά δεν ταιριάζει με τα χέρια σας καθώς φοράτε αυτά τα σμαραγδένια γάντια.',
+      bg: 'Огънят не е подходящ за ръцете ви, докато носите тези изумрудени ръкавици.',
       es: 'El fuego no es rival para tus manos cuando usas estos guantes esmeralda.',
       pt: 'O fogo não é compatível com as tuas mãos quando usas estas luvas de esmeralda.',
       nl: 'Vuur is geen partij voor je handen als je deze smaragdgroene wanten draagt.',
@@ -155,7 +185,9 @@ export default [
       cs: 'Oheň není vhodný pro vaše ruce, když nosíte tyto smaragdové rukavice.',
       ja: 'あなたがこれらのエメラルドのミットを身に着けているので、火はあなたの手にはマッチしません。',
       tr: 'Bu zümrüt eldiveni takarken alev elinize işlemiyor.',
-      ht: 'Ponpye se pa matche ak pou men ou jan ou mete sa yo mit emwòd.'
+      ht: 'Ponpye se pa matche ak pou men ou jan ou mete sa yo mit emwòd.',
+      sv: 'Brand är ingen match för dina händer när du bär dessa smaragd vantar.',
+      ko: '이 에메랄드 장갑을 착용하면 불이 당신 손에 닿지 않습니다.'
     }
   },
 
@@ -168,6 +200,8 @@ export default [
       es: 'Da una falsa sensación de poder.',
       pt: 'Dá uma falsa sensação de poder.',
       nl: 'Geeft een vals gevoel van macht.',
+      el: 'Δίνει μια ψευδή αίσθηση εξουσίας.',
+      bg: 'Дава фалшиво чувство за сила.',
       pl: 'Daje fałszywe poczucie władzy.',
       it: 'Dà un falso senso del potere.',
       fr: 'Ça donne une fausse impression de pouvoir.',
@@ -175,7 +209,9 @@ export default [
       cs: 'Dává falešný pocit moci.',
       ja: '誤った権力を与えます。',
       tr: 'Sahte bir güç hissi veriyor.',
-      ht: 'Bay yon fo sans pouvwa.'
+      ht: 'Bay yon fo sans pouvwa.',
+      sv: 'Ge en falsk maktkänsla.',
+      ko: '거짓된 힘을주십시오.'
     }
   },
 
@@ -189,13 +225,17 @@ export default [
       pt: 'Forjado sem calor, usado sem medo.',
       nl: 'Gesmeed zonder warmte, gedragen zonder angst.',
       pl: 'Kute bez ciepła, noszone bez strachu.',
+      ph: 'Peke na walang init pagod na walang takot.',
+      bg: 'Ковано без топлина, носена без страх.',
       it: 'Forgiato senza calore, indossato senza paura.',
       fr: 'Forgé sans chaleur, porté sans crainte.',
       hi: 'आग के बिना रचे, डर के बिना धरे।',
       cs: 'Kované bez tepla, nošené bez strachu.',
       ja: '熱をかけずに鍛造し、恐れることなく着用。',
       tr: 'Ateş olmadan işlenir, korkusuzca giyilir.',
-      ht: 'Fòje san yo pa chalè, chire san yo pa bezwen pè.'
+      ht: 'Fòje san yo pa chalè, chire san yo pa bezwen pè.',
+      sv: 'Smidd utan värme, sliten utan rädsla.',
+      ko: '열없이 단조, 두려움없이 착용.'
     }
   },
 
@@ -210,12 +250,16 @@ export default [
       nl: 'Handschoenen gezocht door krijgers voor tijdperken....eindelijk....het is gevonden.',
       pl: 'Rękawiczki poszukiwane przez wojowników na całe epoki....w końcu...to zostało znalezione.',
       it: 'Guanti ricercati dai guerrieri per epoche.....finalmente....si trova.',
+      el: 'Γάντια που αναζητούν οι πολεμιστές για τις εποχές ... επιτέλους ... βρίσκεται.',
+      bg: 'Ръкавици, търсени от воини за края на епохите ... най-накрая ... се открива.',
       fr: 'Gants recherchés par les guerriers depuis siècles....enfin...on les trouve.',
       hi: 'युगों युगों तक योधाओं ने इन्हें खोजा है...आख़िर कार...मिल ही गए।',
       cs: 'Rukavice hledané válečníky pro éry na konci ... konečně ... to je nalezeno.',
       ja: '手袋は最後に時代のために戦士によって捜しました...ついに...それは見つかりました。',
       tr: 'Savaşçıların çağlar boyunca aradığı eldivenler.. ve sonunda... bulundu.',
-      ht: 'Gan chache pa vanyan sòlda pou epòk sou fen ... nan dènye ... li jwenn.'
+      ht: 'Gan chache pa vanyan sòlda pou epòk sou fen ... nan dènye ... li jwenn.',
+      sv: 'Handskar eftersträvade av krigare för eroder i slutet ... äntligen ... det finns.',
+      ko: '끝날 무렵 전사들이 찾던 장갑 ... 마침내 ... 찾았습니다.'
     }
   },
 
@@ -228,6 +272,8 @@ export default [
       es: 'Los rumores dicen que un toque de estos guantes convierte a tus enemigos en oro... tu mano es extrañamente pesada...',
       pt: 'Rumores dizem que um toque dessas luvas transforma seus inimigos em ouro... sua mão é estranhamente pesada...',
       nl: 'De geruchten gaan dat een aanraking van deze handschoenen je vijanden in goud verandert....je hand is vreemd zwaar....',
+      el: 'Φήμες λένε ότι μια αφή από αυτά τα γάντια μετατρέπει τους εχθρούς σου σε χρυσό ... το χέρι σου είναι περίεργα ...',
+      bg: 'Слуховете казват, че едно докосване от тези ръкавици превръща враговете ви в злато ... ръката ви е странно тежка ...',
       pl: 'Plotki mówią, że dotyk z tych rękawic zamienia twoich wrogów w złoto....twoja ręka jest dziwnie ciężka...',
       it: 'Si dice che un tocco di questi guanti trasforma i tuoi nemici in oro.....la tua mano è stranamente pesante.....',
       fr: 'Les rumeurs disent qu\'un contact de ces gants transforme vos ennemis en or...votre main est étrangement lourde....',
@@ -235,7 +281,9 @@ export default [
       cs: 'Pověsti říkají, že dotek z těchto rukavic promění tvé nepřátele na zlato ... tvoje ruka je podivně těžká ...',
       ja: '噂によると、これらの手袋から触れるとあなたの敵が金に変わります...あなたの手は奇妙に重いのです...',
       tr: 'Bir dokunuşla düşmanlarınızı altına çevirdiği söylenir... Gel gör ki bu eldivenlerle elleriniz çok ağır.',
-      ht: 'Rimè di ke yon manyen soti nan gan sa yo vire lènmi ou yo an lò ... men ou se etranj lou ...'
+      ht: 'Rimè di ke yon manyen soti nan gan sa yo vire lènmi ou yo an lò ... men ou se etranj lou ...',
+      sv: 'Rykten säger att en röra från dessa handskar gör dina fiender till guld ... din hand är konstigt tung ...',
+      ko: '소문에 의하면이 장갑에서 손을 대면 원수가 금으로 변합니다 ... 손이 이상하게 무거워 ...'
     }
   },
 
@@ -246,6 +294,8 @@ export default [
       ru: 'Перчатки настолько мощные по своей природе, что сам воздух мерцает, когда вы машете рукой.',
       de: 'Handschuhe, die in ihrer Natur so kraftvoll sind, dass die Luft schimmert, wenn man mit der Hand wedelt.',
       es: 'Guantes tan poderosos en su naturaleza que el mismo aire brilla al agitar la mano.',
+      el: 'Γάντια τόσο δυνατά στη φύση τους, που ο αέρας ακουμπά καθώς κυλάς το χέρι σου.',
+      bg: 'Ръкавици толкова мощни по своята същност, че самото въздух трепери, докато махате ръката си.',
       pt: 'Luvas tão poderosas na sua natureza que o ar brilha ao acenar com a mão.',
       nl: 'Handschoenen die zo krachtig van aard zijn, dat de lucht glinstert als je met je hand zwaait.',
       pl: 'Rękawiczki są tak potężne w swojej naturze, że samo powietrze mieni się, gdy machasz ręką.',
@@ -255,7 +305,9 @@ export default [
       cs: 'Rukavice tak silné v jejich přírodě, že se vzduchem třpytí, jak si máváte rukou.',
       ja: '手袋はその性質上非常に強力であるため、あなたが手を振るにつれて非常に空気がきらめきます。',
       tr: 'Eldivenler doğada o kadar güçlü ki, elinizle salladığınız havada parıltılar beliriyor.',
-      ht: 'Gan konsa pwisan nan nati yo ki trè lè a shimmers jan ou balanse men ou.'
+      ht: 'Gan konsa pwisan nan nati yo ki trè lè a shimmers jan ou balanse men ou.',
+      sv: 'Handskar så kraftfulla i sin natur att luften simmar som du vinkar i handen.',
+      ko: '너의 손을 흔드는 것처럼 매우 공기가 반짝이는 그들의 본질적인 장갑.'
     }
   }
 

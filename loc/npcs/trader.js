@@ -15,7 +15,10 @@ export default {
       cs: 'Pozdravy putování cestovatel!  Chcete něco prodat?',
       ja: '旅人をさまよう挨拶！何か売りたいですか？',
       hi: 'नमस्ते यात्री! क्या आप कुछ बेचना चाहते है?',
-      tr: 'Selam dolaşan gezgin! Bir şeyler satmak ister misin?'
+      tr: 'Selam dolaşan gezgin! Bir şeyler satmak ister misin?',
+      sv: 'Hälsningar vandrande resenären! Vill du sälja något?',
+      ko: '안녕 방랑 여행자! 뭔가 팔고 싶니?',
+      bg: 'Поздрави пътешественик! Искате ли да продадете нещо?'
     },
     choices: {
       en: 'Yes, of course.',
@@ -31,7 +34,10 @@ export default {
       cs: 'Ano, samozřejmě.',
       ja: 'はい、もちろん。',
       hi: 'हां बिल्कुल।',
-      tr: 'Evet, tabii ki.'
+      tr: 'Evet, tabii ki.',
+      sv: 'Ja självklart.',
+      ko: '예, 물론입니다.',
+      bg: 'Да разбира се.'
     }
   }]
 }

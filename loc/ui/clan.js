@@ -72,7 +72,7 @@ export default {
     fr: 'Créer un clan',
     hi: 'दल बनाए',
     es: 'Crear un clan',
-    de: 'Clan anlegen',
+    de: 'Clan Erstellen',
     tr: 'Klan yarat',
     bg: 'Създайте клана',
     cs: 'Vytvořit klan',

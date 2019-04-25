@@ -5,10 +5,10 @@ export default {
     ru: 'Выйти',
     hi: 'बाहर आए',
     es: 'Dejar Juego', // TODO: shorten
-    de: 'Abmeldung',
+    de: 'Abmelden',
     fr: 'Déconnexion',
     ko: '로그 아웃',
-    bl: 'Излез от профила', // TODO: shorten
+    bg: 'Излез от профила', // TODO: shorten
     cs: 'Odhlásit se',
     el: 'Αποσυνδέση',
     ja: 'ログアウト',
@@ -29,7 +29,7 @@ export default {
     de: 'Startseite',
     fr: 'Accueil',
     ko: '홈페이지',
-    bl: 'Начална страница', // TODO: shorten
+    bl: 'У дома', // TODO: shorten
     cs: 'Domov',
     el: 'Αρχική σελίδα',
     ja: 'ホームページ',

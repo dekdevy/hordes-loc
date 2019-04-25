@@ -39,7 +39,11 @@ Exporting...
   en -> en.json
   de -> de.json
 ```
-
+If you want to check which languages are missing in a file, navigate to the file name after running the build script, which informs us about missing languages in a file.
+```bash
+Finding missing translations...
+   classes archer description → [ru, tr, es]
+```
 ### Examples
 Lets say we want to add a German translation to some of the basic Strings for the Archer class. We navigate to `loc/classes/archer.js`, and find: 
 
