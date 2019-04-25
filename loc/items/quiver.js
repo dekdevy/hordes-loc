@@ -14,7 +14,8 @@ export default [
       pl: 'Miękka, pełna dziur. Strzałki wciąż wypadają.',
       ht: 'Mou, plen twou. Flèch yo kontinye tonbe.',
       cs: 'Měkká, plná děr. Šipky stále vypadávají.',
-      ja: '柔らかい穴だらけ。矢印は抜け続けます。'
+      ja: '柔らかい穴だらけ。矢印は抜け続けます。',
+      sv: 'Mjuk, full av hål. Pilarna fortsätter att falla ut.'
     }
   },
 
@@ -33,7 +34,8 @@ export default [
       pl: 'Lniany worek pokryty sztywną skórą.',
       ht: 'Sak twal fin blan kouvri nan kwi rèd.',
       cs: 'Plátěný pytel pokrytý tuhou kůží.',
-      ja: 'リネンの袋は硬い革で覆われています。'
+      ja: 'リネンの袋は硬い革で覆われています。',
+      sv: 'Linnesäck täckt av styvt läder.'
     }
   },
 
@@ -52,7 +54,8 @@ export default [
       pl: 'Używane, gdy wszystko inne zawodzi.',
       ht: 'Itilize lè tout lòt bagay echwe.',
       cs: 'Používá se, když všechno ostatní selže.',
-      ja: '他のすべてが失敗したときに使用されます。'
+      ja: '他のすべてが失敗したときに使用されます。',
+      sv: 'Används när allt annat misslyckas.'
     }
   },
 
@@ -71,7 +74,8 @@ export default [
       pl: 'Elficki kołczan pokryty błyszczącym diamentem.',
       ht: 'Flè Elven kouvwi ak dyaman chatwayant.',
       cs: 'Elven potápěč potažený třpytivým diamantem.',
-      ja: 'きらめくダイヤモンドでコーティングされたエルフの矢筒。'
+      ja: 'きらめくダイヤモンドでコーティングされたエルフの矢筒。',
+      sv: 'Koger av älvor belagda i skimrande diamant.'
     }
   },
 
@@ -90,7 +94,8 @@ export default [
       pl: 'Za każdym razem, gdy wyciągasz strzałę, syczysz na siebie.',
       ht: 'Chak fwa ou rale yon flèch soti, li sifle nan ou.',
       cs: 'Pokaždé, když vytáhnete šipku, zasyče na vás.',
-      ja: 'あなたが矢を引き出すたびにそれはあなたに向かっている。'
+      ja: 'あなたが矢を引き出すたびにそれはあなたに向かっている。',
+      sv: 'Varje gång du drar en pil ut hissar den på dig.'
     }
   }
 

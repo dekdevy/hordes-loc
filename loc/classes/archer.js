@@ -17,6 +17,8 @@ export default {
     pl: 'Łucznik',
     ro: 'Arcaș',
     cs: 'Lukostřelec',
+    el: 'Τοξότης',
+    bg: 'стрелец с лък',
     ja: '射手'
   },
   // Class description, visible during character creation
@@ -37,6 +39,8 @@ export default {
     pl: 'Łucznicy zadają wysokie obrażenia pojedynczego celu i zadają duże obrażenia obszarowe. Dobry łucznik zawsze będzie trzymał dystans i ostrzeliwuje wrogów z daleka.',
     ro: 'Arcașii cauzează daune mari unei ținte unice și au o arie de acțiune largă. Un arcaș bun va menține mereu o distanță considerabilă față de inamici și îi va ataca de la distanță.',
     cs: 'Lukostřelci se vypořádávají s vysokým poškozením jediného cíle a zničením. Dobrý lukostřelec bude vždy držet jejich vzdálenost a ostřelovat nepřátele z dálky.',
+    el: 'Οι τοξότες ασχολούνται με υψηλές ζημιές στο στόχο και τις ζημιές που προκαλούν την περιοχή της επίδρασης. Ένας καλός τοξότης θα κρατήσει πάντα την απόσταση τους και θα καταστρέψει τους εχθρούς από μακριά. ',
+    bg: 'Стрелците се справят с висока единична повреда на целта и разрушена площ на Ефект. Един добър стрелец винаги ще държи дистанцията си и далечни врагове.',
     ja: '射手は高い単一ターゲットダメージと突発的なエリアダメージを与えます優れた射手は常に距離を保ち、遠くから敵を狙撃します。'
   }
 }

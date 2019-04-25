@@ -14,7 +14,8 @@ export default [
       it: 'Arma forgiata dal miglior fabbro di tutta la terra. Almeno questo è quello che abbiamo detto al piccolo Timmy.',
       cs: 'Zbraň kovaná největším kovářem celé země. Aspoň to jsme řekli málo Timmymu.',
       ja: 'すべての土地の最大の鍛冶屋によって作られた武器少なくともそれが私たちがトムに言ったことです。',
-      ht: 'Zam fabrike pa pi fò forj nan tout peyi a. Omwen se sa ki nou te di ti Timmy.'
+      ht: 'Zam fabrike pa pi fò forj nan tout peyi a. Omwen se sa ki nou te di ti Timmy.',
+      sv: 'Vapen smidd av den största smeden av hela landet. Det var åtminstone det vi sa till Timmy.'
     }
   },
 
@@ -33,7 +34,8 @@ export default [
       it: 'Situazioni disperate richiedono misure disperate.',
       cs: 'Zoufalé situace vyžadují zoufalá opatření.',
       ja: '絶望的な状況では、絶望的な対策が必要です。',
-      ht: 'Sanzespwa sitiyasyon rele pou mezi dezespere.'
+      ht: 'Sanzespwa sitiyasyon rele pou mezi dezespere.',
+      sv: 'Desperata situationer kräver desperata åtgärder.'
     }
   },
 
@@ -52,7 +54,8 @@ export default [
       it: 'Una robaccia trasandata rubata da un mago. Masticato e ossuto.',
       cs: 'Šupinatý košťátko ukradené z mága. Pokroucený a kostnatý.',
       ja: '魔術師から盗まれただらしないほうきぎざぎざと骨。',
-      ht: 'Vakabon bale vòlè nan men yon maj. Gnarled ak zo.'
+      ht: 'Vakabon bale vòlè nan men yon maj. Gnarled ak zo.',
+      sv: 'Smutsig kvast stulen från en mage. Gnarled och benig.'
     }
   },
 
@@ -71,7 +74,8 @@ export default [
       it: 'Una bacchetta ricavata dai rami di un\'antica quercia. Infuso di potinza profonda.',
       cs: 'Z větví starobylého dubu se vyřízne hůlka. Naplněný hlubokou silou.',
       ja: '古代のオークの枝から切り取った杖。深い力を注ぎ込んだ。',
-      ht: 'Yon ralonj koupe soti nan branch yo nan yon pye bwadchenn ansyen. Enfuze ak pouvwa gwo twou san fon.'
+      ht: 'Yon ralonj koupe soti nan branch yo nan yon pye bwadchenn ansyen. Enfuze ak pouvwa gwo twou san fon.',
+      sv: 'En trollstav som klipps från en gammal eks grenar. Infunderad med djup kraft.'
     }
   },
 
@@ -90,7 +94,8 @@ export default [
       it: 'Un\'arma mistica che brilla di un\'essenza misteriosa.',
       cs: 'Mystická zbraň zářící tajemnou podstatou.',
       ja: '神秘的な武器が神秘的なエッセンスで輝いています。',
-      ht: ''
+      ht: 'Zam mistik lumineux ak yon sans misterye.',
+      sv: 'Mystiskt vapen glödande med en mystisk väsen.'
     }
   },
 
@@ -109,7 +114,8 @@ export default [
       it: 'Non c\'e\' niente di speciale in quest\'arma, solo il femore di una lich.',
       cs: 'Na této zbrani není nic zajímavého, jen femur licha.',
       ja: 'この武器についての何も空想の大腿骨だけで空想はない。',
-      ht: 'Pa gen anyen anpenpan sou sa a zam, jis femèl la nan yon lich.'
+      ht: 'Pa gen anyen anpenpan sou sa a zam, jis femèl la nan yon lich.',
+      sv: 'Inget fancy om det här vapnet, bara lårbenets lår.'
     }
   },
 
@@ -128,7 +134,8 @@ export default [
       it: 'Asta lunga con una gemma blu scintillante sulla corona.',
       cs: 'Dlouhá tyč s třpytivým modrým drahokamem na korunce.',
       ja: 'その冠にきらめく青い宝石と長い棒。',
-      ht: 'Long baton ak yon vè chatwi ble sou kouwòn li yo.'
+      ht: 'Long baton ak yon vè chatwi ble sou kouwòn li yo.',
+      sv: 'Lång stång med en skimrande blå pärla på kronan.'
     }
   },
 
@@ -147,7 +154,8 @@ export default [
       it: 'Bacchetta viola scuro. Piuttosto misterioso nella sua struttura, ma bello da vedere',
       cs: 'Tmavě fialový štáb. Zcela záhadné v jeho tvorbě, ale pěkné na to dívat.',
       ja: '濃い紫色のスタッフ。その作り方はとても不思議ですが、見るのはいいですね。',
-      ht: 'Anplwaye twal koulè wouj violèt. Byen misterye nan fè li yo, men bèl gade.'
+      ht: 'Anplwaye twal koulè wouj violèt. Byen misterye nan fè li yo, men bèl gade.',
+      sv: 'Mörk lila personal. Ganska mystisk när det gäller att göra, men ändå trevligt att titta på.'
     }
   },
 
@@ -166,7 +174,8 @@ export default [
       it: 'Costruito con smeraldi rubati ai nani di montagna.',
       cs: 'Vyrobeno ze smaragdů ukradených z horských trpaslíků.',
       ja: '山の小人から盗まれたエメラルドから作られました。',
-      ht: 'Konstwi soti nan emrod yo vòlè li soti nan nen yo mòn.'
+      ht: 'Konstwi soti nan emrod yo vòlè li soti nan nen yo mòn.',
+      sv: 'Konstruerad från smaragder som stulits från bergsdvärgarna.'
     }
   },
 
@@ -185,7 +194,8 @@ export default [
       it: 'Strano... il personale sembra... triangolare...',
       cs: 'Podivné ... personál se zdá ... trojúhelníkový ...',
       ja: '奇妙な...スタッフは...三角形のようです...',
-      ht: 'Etranj ... anplwaye a sanble ... triyangilè ...'
+      ht: 'Etranj ... anplwaye a sanble ... triyangilè ...',
+      sv: 'Konstigt ... personalen verkar ... triangulär ...'
     }
   },
 
@@ -204,7 +214,8 @@ export default [
       it: 'Asta eccentrica con una pietra azzurra incastonata all\'interno...',
       cs: 'Výstředná tyč s bledě modrým kamenem vloženým dovnitř ...',
       ja: '内側に淡いブルーの石が埋め込まれた偏心ロッド',
-      ht: 'Inik baton ak yon wòch ble pal anndan ...'
+      ht: 'Inik baton ak yon wòch ble pal anndan ...',
+      sv: 'Excentrisk stång med en ljusblå sten inbäddad inuti ...'
     }
   },
 
@@ -223,7 +234,8 @@ export default [
       it: 'Costruito da fabbri sconosciuti che risiedono in valli favolose.',
       cs: 'Postaveny neznámými kováři sídlícími v legendárních údolích.',
       ja: '伝説の谷間に住む未知の鍛冶屋によって造られました。',
-      ht: 'Konstwi pa fòjere unknown ki abite nan vale ladann.'
+      ht: 'Konstwi pa fòjere unknown ki abite nan vale ladann.',
+      sv: 'Konstruerad av okända smeden som bor i fableda dalar.'
     }
   },
 
@@ -242,7 +254,8 @@ export default [
       it: 'La sua bellezza vi invita ad uccidere... a conquistare...',
       cs: 'Její krása vás volá ... zabít ... dobýt ...',
       ja: 'その美しさはあなたに声をかけます...殺すために...征服するために...',
-      ht: 'Bote li apèl soti nan ou ... yo touye ... konkeri ...'
+      ht: 'Bote li apèl soti nan ou ... yo touye ... konkeri ...',
+      sv: 'Dess skönhet kallar till dig ... att döda ... för att erövra ...'
     }
   },
 
@@ -261,7 +274,8 @@ export default [
       it: 'Uno staff rubato dagli angeli. Sono ancora a caccia di esso.',
       cs: 'Zaměstnanci ukradli anděly. Stále na to hledají.',
       ja: 'スタッフが天使たちから盗まれました。彼らはまだそれを探しています。',
-      ht: 'Yon anplwaye yo vòlè li nan men zanj Bondye yo. Yo ap toujou lachas pou li.'
+      ht: 'Yon anplwaye yo vòlè li nan men zanj Bondye yo. Yo ap toujou lachas pou li.',
+      sv: 'En personal som stulits från änglarna. De letar fortfarande efter det.'
     }
   },
 
@@ -280,7 +294,8 @@ export default [
       it: 'Raw in his appearance, but powerful in his heart...',
       cs: 'Surový v jeho vzhledu, ale mocný v srdci ...',
       ja: 'その見た目は粗いが、その中心部は強大な...',
-      ht: 'Brut nan sanble li yo, men vanyan sòlda nan kè li ...'
+      ht: 'Brut nan sanble li yo, men vanyan sòlda nan kè li ...',
+      sv: 'Rå i sitt utseende, men mäktigt i sitt hjärta ...'
     }
   },
 
@@ -299,7 +314,8 @@ export default [
       it: 'Ci hanno detto che il cuore di una strega è il cuore di una strega. Nessuno ha trovato il cadavere. O il personale stesso.',
       cs: 'Říká se, že jádro je ze srdce čarodějnice. Nikdo nenašel mrtvolu. Nebo samotný personál.',
       ja: 'その核心は魔女の心に由来すると言われています。誰も死体を見つけたことがない。またはスタッフ自身。',
-      ht: 'Nou te di nwayo li se soti nan kè a nan yon sòsyè. Pa gen moun ki jwenn kadav la. Oswa pèsonèl la tèt li.'
+      ht: 'Nou te di nwayo li se soti nan kè a nan yon sòsyè. Pa gen moun ki jwenn kadav la. Oswa pèsonèl la tèt li.',
+      sv: 'Vi får höra det är kärnan är från hjärtat av en häxa. Ingen har hittat liket. Eller personalen själv.'
     }
   },
 
@@ -318,7 +334,8 @@ export default [
       it: 'Quest\'arma è così segreta che i pochi che la maneggiano hanno ucciso tutti coloro che ne sono a conoscenza.',
       cs: 'Tato zbraň je tak utajená, že těch pár, kteří ji ovládají, zabila všechny, kdo o ní vědí.',
       ja: 'この武器は非常に秘密主義であるため、それを使用した少数の人々はそれを知っているすべての人を殺した。',
-      ht: 'Sa a zam se konsa sekrè ke kèk nan yo ki ègzamen li te touye tout moun ki konnen li.'
+      ht: 'Sa a zam se konsa sekrè ke kèk nan yo ki ègzamen li te touye tout moun ki konnen li.',
+      sv: 'Detta vapen är så hemligt att de få som använder det har dödat allt som känner till det.'
     }
   }
 

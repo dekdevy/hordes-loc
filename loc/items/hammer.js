@@ -14,7 +14,8 @@ export default [
       it: 'E\' gia\' mezzo rotto e tu lo stai ancora usando?',
       cs: 'Je to už napůl rozbité a stále to používáš?',
       ja: 'それはすでに半分壊れていて、あなたはまだそれを使っていますか？',
-      ht: 'Li deja mwatye kase epi ou toujou ap itilize li?'
+      ht: 'Li deja mwatye kase epi ou toujou ap itilize li?',
+      sv: 'Det är redan halvbruten och du använder det fortfarande?'
     }
   },
 
@@ -33,7 +34,8 @@ export default [
       it: 'Questo dovrebbe essere martellare le unghie, non i teschi.',
       cs: 'To by mělo být kladívko, ne lebky.',
       ja: '頭蓋骨ではなく、釘を打ってください。',
-      ht: 'Sa a ta dwe rakle klou, pa kran.'
+      ht: 'Sa a ta dwe rakle klou, pa kran.',
+      sv: 'Detta bör hamra naglar, inte skallar.'
     }
   },
 
@@ -52,7 +54,8 @@ export default [
       it: 'Un vecchio martello arrugginito, sull\'orlo della rottura.',
       cs: 'Rusty starý kladivo, na pokraji prasknutí.',
       ja: '壊れる寸前のさびた古いハンマー。',
-      ht: 'Rusty martre fin vye granmoun, sou wout pou l kraze.'
+      ht: 'Rusty martre fin vye granmoun, sou wout pou l kraze.',
+      sv: 'Rustig gammal hammare, på gränsen till att bryta.'
     }
   },
 
@@ -71,7 +74,8 @@ export default [
       it: 'Gli orchi seguono il branco di quest\'arma magra. E \'abbastanza inutile, ma sembra che gli piaccia...',
       cs: 'Orkové následují držitele této hubené zbraně. Je to docela k ničemu, ale zdá se, že se jim to líbí ...',
       ja: 'オークはこの貧弱な武器の守護者に従います。それはかなり役に立たないが、彼らはそれを好むようです...',
-      ht: 'Ork swiv jean an nan zam sa a mèg. Li trè initil, men yo sanble yo renmen li ...'
+      ht: 'Ork swiv jean an nan zam sa a mèg. Li trè initil, men yo sanble yo renmen li ...',
+      sv: 'Orcs följer wielder av detta milda vapen. Det är ganska meningslöst, men de verkar gilla det ...'
     }
   },
 
@@ -90,7 +94,8 @@ export default [
       it: 'Grande arma usata nell\'antichità per scavare nei teschi.',
       cs: 'Velká zbraň používaná v dávných dobách k jeskyni v lebkách.',
       ja: '頭蓋骨を洞窟に入れるために古代に使用された大きな武器。',
-      ht: 'Gwo zam yo itilize nan tan lontan yo nan twou wòch nan kran.'
+      ht: 'Gwo zam yo itilize nan tan lontan yo nan twou wòch nan kran.',
+      sv: 'Stort vapen som använts i antiken för att grotta i skalle.'
     }
   },
 
@@ -109,7 +114,8 @@ export default [
       it: 'Strano bastone simile a una canna da basher. Sembra grezzo ed emette un debole odore di olii druido...',
       cs: 'Podivný tyčovitý basher. Vypadá to surově a vydává slabý zápach druidských olejů ...',
       ja: '奇妙な棒状のバッシャー。原油らしく、ドルイド油のかすかな香りがする…',
-      ht: 'Etranj baton ki tankou basher. Sanble brut ak emèt yon sant endispoze nan lwil drwid ...'
+      ht: 'Etranj baton ki tankou basher. Sanble brut ak emèt yon sant endispoze nan lwil drwid ...',
+      sv: 'Konstigt stavliknande basher. Verkar rå och avger en svag lukt av druidoljor ...'
     }
   },
 
@@ -128,7 +134,8 @@ export default [
       it: 'Antichi nani hanno forgiato questa possente struttura. Scuro e mortale.',
       cs: 'Starověcí trpaslíci vytvořili tuto mocnou strukturu. Temné a smrtící.',
       ja: '古代の小人たちはこの力強い構造を鍛造しました。暗くて致命的です。',
-      ht: 'Nen ansyen fòje estrikti sa a vanyan sòlda. Nwa ak trè danjere.'
+      ht: 'Nen ansyen fòje estrikti sa a vanyan sòlda. Nwa ak trè danjere.',
+      sv: 'Forntida dvärgar smidade denna mäktiga struktur. Mörk och dödlig.'
     }
   },
 
@@ -147,7 +154,8 @@ export default [
       it: 'Gli occhi degli dei seguono il maneggiatore, portando la fortuna al valoroso e il destino al vile.',
       cs: 'Oči bohů následují držitele, přinášejí štěstí statečnému a zkáze zbabělým.',
       ja: '神々の目は、勇士に運をもたらし、そして臆病者に運命をもたらしている野郎に続く。',
-      ht: 'Je bondye yo swiv jeran an, yo pote fòtin vanyan ak fayit pou lachte yo.'
+      ht: 'Je bondye yo swiv jeran an, yo pote fòtin vanyan ak fayit pou lachte yo.',
+      sv: 'Guds ögon följer wielder och ger förmögenhet till tapperhet och döm till feg.'
     }
   },
 
@@ -166,7 +174,8 @@ export default [
       it: 'Strumento sacro usato dai druidi per fare sacrifici agli dei della natura antica.',
       cs: 'Svatý nástroj, který druid používá k obětování starodávným bohům přírody.',
       ja: 'ドルイド僧が古代の性質の神々を犠牲にするために使用する聖なる道具。',
-      ht: 'Zouti Sentespri itilize pa drwid yo fè sakrifis pou bondye yo nati ansyen.'
+      ht: 'Zouti Sentespri itilize pa drwid yo fè sakrifis pou bondye yo nati ansyen.',
+      sv: 'Heligt verktyg som används av druider för att göra offer till de gamla naturgudarna.'
     }
   },
 
@@ -185,7 +194,8 @@ export default [
       it: 'Basher pesante usato dai guerrieri nani. Realizzato in un metallo sconosciuto, scuro e pesante.',
       cs: 'Těžký basher používaný trpaslíkovými válečníky. Vyrobeno z neznámého kovu, tmavé a těžké.',
       ja: 'ドワーフの戦士によって使用されるヘビーバッシャー。暗くて重い未知の金属製。',
-      ht: 'Lou basher itilize pa enne vanyan sòlda. Te fè nan yon metal unknown, nwa ak lou.'
+      ht: 'Lou basher itilize pa enne vanyan sòlda. Te fè nan yon metal unknown, nwa ak lou.',
+      sv: 'Tung hammare som används av dvärgkrigare. Tillverkad av en okänd metall, mörk och tung.'
     }
   },
 
@@ -204,7 +214,8 @@ export default [
       it: 'Forgiato senza calore, uccide senza pietà.',
       cs: 'Kované bez tepla, zabíjí bez milosti.',
       ja: '慈悲もなく熱殺さずに鍛造。',
-      ht: 'Fòje san yo pa chalè, touye san pitye.'
+      ht: 'Fòje san yo pa chalè, touye san pitye.',
+      sv: 'Smidd utan värme, dödar utan barmhärtighet.'
     }
   },
 
@@ -223,7 +234,8 @@ export default [
       it: 'Ricoperto dal cranio di un nemico colosso ucciso, quest\'arma ispira terrore in tutti coloro che vi si oppongono.',
       cs: 'Přilepená lebkou zabitého monotického nepřítele, tato zbraň vzbuzuje hrůzu ve všech, kteří proti ní stojí.',
       ja: 'この武器を倒した巨大な敵の頭蓋骨を突破すると、それに対抗するすべての人に恐怖が呼び起こされます。',
-      ht: 'Konpoze ak zo bwa tèt la nan yon lènmi lènmi mouri, zam sa a enspire pè nan tout moun ki kanpe kont li.'
+      ht: 'Konpoze ak zo bwa tèt la nan yon lènmi lènmi mouri, zam sa a enspire pè nan tout moun ki kanpe kont li.',
+      sv: 'Toppat med skallen av en dödad hävd fiende, inspirerar detta vapen terror i alla som står emot det.'
     }
   },
 
@@ -242,7 +254,8 @@ export default [
       it: 'Può penetrare il tuo cranio debole abbastanza facilmente. O i tuoi nemici. Probabilmente il vostro però.',
       cs: 'Dokáže snadno proniknout do tvé slabé lebky. Nebo vaši nepřátelé. Pravděpodobně vaše.',
       ja: 'あなたの弱い頭蓋骨を非常に簡単に突き刺すことができます。またはあなたの敵おそらくあなたのもの。',
-      ht: 'Ka rantre nan zo bwa tèt fèb ou byen fasil. Oswa lènmi ou yo. Pwobableman ou menm si.'
+      ht: 'Ka rantre nan zo bwa tèt fèb ou byen fasil. Oswa lènmi ou yo. Pwobableman ou menm si.',
+      sv: 'Kan lätt tränga in i din svaga skalle. Eller dina fiender. Förmodligen din men.'
     }
   },
 
@@ -261,26 +274,28 @@ export default [
       it: 'Non c\'e\' niente di che vedere con quest\'arma crudele.',
       cs: 'Na této kruté zbrani není nic zvláštního.',
       ja: 'この残酷な武器については何もない。',
-      ht: 'Pa gen anyen sou zam mechan sa a.'
+      ht: 'Pa gen anyen sou zam mechan sa a.',
+      sv: 'Inget snällt om det här grymma vapnet.'
     }
   },
 
   {
     name       : {$$: 'Hammer of Gaia' },
     description: {
-      en: 'Some say its made by dwarves, others say by elves... the truth is yet to be uncovered.',
-      ru: 'Некоторые говорят, что он сделан дворфами, другие говорят эльфами... правда еще не раскрыта.',
-      hi: 'कुछ लोग कहते हैं अपने बौने द्वारा बनाई गई हैं, दूसरों का कहना है कि कल्पित बौने से ... सच का पर्दाफाश किया जा करने के लिए अभी तक है।',
-      es: 'Algunos dicen que está hecho por enanos, otros dicen que por elfos... la verdad aún no ha sido descubierta.',
-      de: 'Einige sagen, dass es von Zwergen gemacht wurde, andere sagen, dass es von Elfen gemacht wurde... die Wahrheit ist noch nicht enthüllt.',
-      fr: 'Certains disent que c\'est fait par des nains, d\'autres par des elfes... la vérité na pas encore été découverte.',
-      pt: 'Alguns dizem que é feita por anões, outros por elfos... a verdade ainda está por descobrir.',
-      nl: 'Sommigen zeggen dat het gemaakt is door dwergen, anderen zeggen dat het door elfen is gemaakt.... de waarheid moet nog ontdekt worden.',
-      pl: 'Jedni mówią, że został stworzony przez krasnoludki, inni, że przez elfy.... prawda nie została jeszcze odkryta.',
-      it: 'Alcuni dicono che è fatta da nani, altri dicono da elfi..... la verità deve ancora essere scoperta.',
-      cs: 'Někteří říkají, že to dělají trpaslíci, jiní říkají elfové ... pravda se ještě neodhalila.',
-      ja: 'ドワーフによって作られたと言う人もいますし、エルフによって書かれる人もいます...真実はまだ明らかにされていません。',
-      ht: 'Gen kèk ki di li yo ki te fèt pa nen, lòt moun di pa luten ... verite a se ankò yo dwe dekouvri.'
+      en: 'Deadly and uncontrollable, this celestial hammer etches terror in its purest form into those unfortunate ones who have caught sight of it.',
+      ru: 'Смертоносный и неконтролируемый, этот небесный молот в чистейшей форме протравливает ужас в тех несчастных, кто его увидел.',
+      hi: 'घातक और बेकाबू, यह स्वर्गीय हथौड़ा अपने शुद्ध रूप में उन दुर्भाग्यपूर्ण लोगों में आतंक बोता है जिन्होंने इसे देखा।',
+      es: 'Mortal e incontrolable, este martillo celestial graba el terror en su forma más pura en aquellos desafortunados que lo han visto.',
+      de: 'Tödlich und unkontrollierbar, ritzt dieser himmlische Hammer den Schrecken in seiner reinsten Form in die Unglücklichen, die ihn aus den Augen verloren haben.',
+      fr: 'Mortel et incontrôlable, ce marteau céleste grave la terreur dans sa forme la plus pure sur les malheureux qui l\'ont vue.',
+      pt: 'Mortal e incontrolável, este martelo celestial grava o terror na sua forma mais pura naqueles infelizes que o viram.',
+      nl: 'Dodelijk en oncontroleerbaar, deze hemelse hamer ets terreur in zijn puurste vorm in de ongelukkigen die hem in het vizier hebben gekregen.',
+      pl: 'Śmiertelnie i niekontrolowanie, ów niebiański młotek w swojej najczystszej formie wprawia w przerażenie tych nieszczęsnych którzy go złapali.',
+      it: 'Mortale e incontrollabile, questo martello celeste incide il terrore nella sua forma più pura in quegli sfortunati che l\'hanno scoperto.',
+      cs: 'Smrtící a nekontrolovatelné, toto nebeské kladivo leptá hrůzu v nejčistší podobě do těch nešťastných, kteří si to všimli.',
+      ja: '致命的で手に負えない、この天体ハンマーはその純粋な形でそれを見ていたそれらの不幸なものにテロを蝕みます。',
+      ht: 'Mòtèl ak enkontwolab, mato sa a selès pè atè nan fòm pur li yo nan sa yo malere ki te wè nan li.',
+      sv: 'Dödlig och okontrollabel, den här himmelska hammaren etsar terror i sin renaste form till de olyckliga som har sett det.'
     }
   },
 
@@ -299,7 +314,8 @@ export default [
       it: 'Ha il potere di porre fine ai mondi? Pochi possono dire. Se lo fa, non vivremo abbastanza a lungo per impararlo.',
       cs: 'Má moc ukončit světy? Málokdo může říct. Pokud ano, nebudeme žít tak dlouho, abychom se o tom dozvěděli.',
       ja: 'それは世界を終わらせる力を持っていますか？言うことはできません。もしそうなら、私たちはそれを学ぶのに十分なほど長くは生きません。',
-      ht: 'Li gen pouvwa pou fini mond lan? Kèk ka di. Si li fè sa, nou p ap viv lontan ase pou aprann li.'
+      ht: 'Li gen pouvwa pou fini mond lan? Kèk ka di. Si li fè sa, nou p ap viv lontan ase pou aprann li.',
+      sv: 'Har det befogenhet att sluta världar? Få kan säga. Om det gör kommer vi inte leva tillräckligt länge för att lära oss av det.'
     }
   },
 
@@ -318,7 +334,8 @@ export default [
       it: 'Un misterioso mago ha inzuppato in quest\'arma molti fascino intricato, portando pensieri e sogni orribili al suo manipolatore.',
       cs: 'Tajemný kouzelník nasákl do této zbraně mnoho složitých kouzel a přivedl k jeho držiteli strašlivé myšlenky a sny.',
       ja: '神秘的な魔術師がこの武器に多くの複雑な魅力を染み込ませ、その手に恐ろしい考えや夢をもたらしました。',
-      ht: 'Yon majisyen misterye tranpe anpil cham konplike nan zam sa a, pote panse efreyan ak rèv gonflan li yo.'
+      ht: 'Yon majisyen misterye tranpe anpil cham konplike nan zam sa a, pote panse efreyan ak rèv gonflan li yo.',
+      sv: 'En mystisk trollkarl blötläggde många invecklade charmar i detta vapen, vilket medför grymma tankar och drömmar till sin wielder.'
     }
   }
 

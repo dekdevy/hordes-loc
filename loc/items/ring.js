@@ -14,7 +14,8 @@ export default [
       it: 'Non guardarlo o cadrà a pezzi.',
       cs: 'Nedívej se na to, nebo se rozpadne.',
       ja: 'それを見てはいけないか、それはバラバラになります。',
-      ht: 'Pa gade li oswa li pral tonbe apa.'
+      ht: 'Pa gade li oswa li pral tonbe apa.',
+      sv: 'Titta inte på det eller det kommer att falla ifrån varandra.'
     }
   },
 
@@ -33,7 +34,8 @@ export default [
       it: 'Non sono sicuro della corteccia, ma è sicuramente di ferro.',
       cs: 'Nejste si jisti o kůře, ale rozhodně ze železa.',
       ja: '樹皮についてはわからないが、それは確かに鉄でできている。',
-      ht: 'Pa sèten sou jape la, men li la definitivman te fè nan fè.'
+      ht: 'Pa sèten sou jape la, men li la definitivman te fè nan fè.',
+      sv: 'Inte säker på barken, men det är definitivt gjord av järn.'
     }
   },
 
@@ -52,7 +54,8 @@ export default [
       it: 'Finalmente, un anello che è lucido.',
       cs: 'Konečně, prsten, který je lesklý.',
       ja: 'つやのあるリング。',
-      ht: 'Finalman, yon bag ki klere.'
+      ht: 'Finalman, yon bag ki klere.',
+      sv: 'Slutligen en ring som är glänsande.'
     }
   },
 
@@ -71,7 +74,7 @@ export default [
       it: 'Un anello fatto con gli avanzi di ieri sera.',
       cs: 'Prsten ze zbytků minulé noci.',
       ja: '最後の夜の残り物で作られた指輪。',
-      ht: 'Yon bag te fè nan rès rezèv yè swa a.'
+      sv: 'En ring gjord av nattens rester.'
     }
   },
 
@@ -90,7 +93,8 @@ export default [
       it: 'Gli elfi fecero questo anello per proteggersi dal pericolo e riuscirono a regalarlo.',
       cs: 'Elfové tento prsten vyzbrojili, aby se chránili před nebezpečím a podařilo se mu to vzdát.',
       ja: 'エルフは危険から身を守るためにこの指輪を作り、それを譲ることに成功した。',
-      ht: 'Luten yo te fè sa a bag pwoteje tèt yo kont danje epi yo reyisi nan bay li ale.'
+      ht: 'Luten yo te fè sa a bag pwoteje tèt yo kont danje epi yo reyisi nan bay li ale.',
+      sv: 'Elvorna gjorde denna ring för att skydda sig från fara och lyckades ge bort det.'
     }
   },
 
@@ -109,7 +113,8 @@ export default [
       it: 'Si adatta bene, anche se gli effetti che dà sono marginali.',
       cs: 'Dobře padne, i když účinky, které dává, jsou okrajové.',
       ja: 'それが与える効果はわずかですが、うまく収まります。',
-      ht: 'Adapte joliman, byen ke efè li bay yo majinal.'
+      ht: 'Adapte joliman, byen ke efè li bay yo majinal.',
+      sv: 'Passar snyggt, även om effekterna det ger är marginella.'
     }
   },
 
@@ -128,7 +133,8 @@ export default [
       it: 'Nessuno sa se vale la pena di indossarlo.',
       cs: 'Nikdo neví, jestli to stojí za to.',
       ja: 'それを着る価値があるかどうか誰も知りません。',
-      ht: 'Pa gen moun ki konnen si li vo mete.'
+      ht: 'Pa gen moun ki konnen si li vo mete.',
+      sv: 'Ingen vet om det är värt att lägga på.'
     }
   },
 
@@ -147,7 +153,8 @@ export default [
       it: 'Nessuno sa se vale la pena di indossarlo.',
       cs: 'Smaragdy ze všech stran, abys se cítil bohatý.',
       ja: 'あなたを豊かな気分にさせるためのあらゆる面のエメラルド。',
-      ht: 'Emrod sou tout kote yo fè ou santi ou rich.'
+      ht: 'Emrod sou tout kote yo fè ou santi ou rich.',
+      sv: 'Smaragder på alla sidor för att få dig att känna dig rik.'
     }
   },
 
@@ -166,7 +173,8 @@ export default [
       it: 'Se potesse parlare, probabilmente si lamenterebbe di essere triangolare.',
       cs: 'Kdyby mohla mluvit, pravděpodobně by si stěžovala na to, že je trojúhelníková.',
       ja: 'それが話すことができればそれはおそらく三角形であることについて不平を言うでしょう。',
-      ht: 'Si li te kapab pale, li ta pwobableman pote plent pou yo te triyangilè.'
+      ht: 'Si li te kapab pale, li ta pwobableman pote plent pou yo te triyangilè.',
+      sv: 'Om det kunde tala skulle det troligen klaga på att vara triangulärt.'
     }
   },
 
@@ -185,7 +193,8 @@ export default [
       it: 'Non esistono documenti scritti che ci dicono la sua origine...',
       cs: 'Neexistují žádné písemné záznamy, které by nám sdělily svůj původ ...',
       ja: 'その起源について私たちに伝えるための書面による記録はありません。',
-      ht: 'Pa gen okenn dosye ekri ki egziste di nou sou orijin li yo ...'
+      ht: 'Pa gen okenn dosye ekri ki egziste di nou sou orijin li yo ...',
+      sv: 'Det finns inga skrivna poster för att berätta om sitt ursprung ...'
     }
   },
 
@@ -204,7 +213,8 @@ export default [
       it: 'Artefatto sacro perso dai santi druidi.',
       cs: 'Posvátný artefakt ztracený svatými druidy.',
       ja: '聖ドルイドによって失われた神聖なアーティファクト。',
-      ht: 'Sakrifis sakre pèdi pa druid apa pou Bondye.'
+      ht: 'Sakrifis sakre pèdi pa druid apa pou Bondye.',
+      sv: 'Helig artefakt förlorad av heliga druider.'
     }
   },
 
@@ -223,7 +233,8 @@ export default [
       it: 'Custode di pace...non ne sono sicuro, ma potrebbe tenervi in vita...',
       cs: 'Strážce míru ... není si tím jistý, ale může vás udržet naživu.',
       ja: '平和の番人....それについてはよくわからないが、それはあなたを生かし続けるかもしれない……',
-      ht: 'Gadyen lapè ... pa sèten sou sa, men li ta ka kenbe ou vivan ...'
+      ht: 'Gadyen lapè ... pa sèten sou sa, men li ta ka kenbe ou vivan ...',
+      sv: 'Fredsbevarare ... inte säker på det, men det kan hålla dig vid liv ...'
     }
   }
 

@@ -15,7 +15,8 @@ export default [
       cs: 'Popruhy kůže pokrývají vaše slabé ruce. Tahání tětivy je pro tebe nyní mnohem snazší.',
       ja: 'あなたの弱い手を覆う革のストラップ。弦を引くことは今あなたにとってずっと簡単です。',
       tr: 'Zayıf ellerini kaplayan deri kayışlar. Kordonu çekmek şimdi sizin için çok daha kolay.',
-      ht: 'Bracelets an kwi ki kouvri men fèb ou yo. Rale kord la se pi fasil pou ou kounye a.'
+      ht: 'Bracelets an kwi ki kouvri men fèb ou yo. Rale kord la se pi fasil pou ou kounye a.',
+      sv: 'Skinnband av läder som täcker dina svaga händer. Att dra på bågstången är mycket lättare för dig nu.'
     }
   },
 
@@ -35,7 +36,8 @@ export default [
       cs: 'Spřádaná příze z odcizených ovcí tyto teplé rukavice potěší.',
       ja: '盗まれた羊からの紡績糸はこれらの暖かい手袋を身に着ける喜びにします。',
       tr: 'Çalınan koyunlardan elde edilen bükülmüş ipliklerden yapılan bu sıcak eldivenleri giymek bir zevktir.',
-      ht: 'Fil file nan mouton yo vòlè fè sa yo gan cho yon plezi mete.'
+      ht: 'Fil file nan mouton yo vòlè fè sa yo gan cho yon plezi mete.',
+      sv: 'Spunnet garn från stulet får gör dessa varma handskar ett nöje att bära.'
     }
   },
 
@@ -55,14 +57,15 @@ export default [
       cs: 'V těchto tuhých kožených rukavicích se sotva pohnou prsty.',
       ja: 'あなたの指はかろうじてこれらの硬い革のミットの中で動くことができます。',
       tr: 'Parmaklarınız bu sert deri eldivenlerde zar zor hareket eder.',
-      ht: 'Dwèt ou ka apèn deplase nan manch rèd kwi sa yo.'
+      ht: 'Dwèt ou ka apèn deplase nan manch rèd kwi sa yo.',
+      sv: 'Dina fingrar kan knappt röra sig i dessa styva lädervästar.'
     }
   },
 
   {
     name       : {$$: 'Bone Grips' },
     description: {
-      en: 'Clacking sounds travel with you as you wear these.',
+      en: 'Clicking sounds travel with you as you wear these.',
       ru: 'Клацающие звуки путешествуют с вами когда вы носите эти перчатки.',
       de: 'Klackende Geräusche reisen mit, während Sie diese tragen.',
       es: 'Los sonidos de agarrotamiento viajan con usted mientras los usa.',
@@ -75,7 +78,8 @@ export default [
       cs: 'S těmi se unášíš, jak si ty tyhle zvuky.',
       ja: 'あなたがこれらを身に着けていると、クラッキング音はあなたと一緒に伝わります。',
       tr: 'Çatırdama sesleri siz bunları giydikçe sizinle birlikte hareket eder.',
-      ht: 'Klike son vwayaje avèk ou menm jan ou mete sa yo.'
+      ht: 'Klike son vwayaje avèk ou menm jan ou mete sa yo.',
+      sv: 'Att klicka på ljud rör dig med dig när du bär dem.'
     }
   },
 
@@ -95,7 +99,8 @@ export default [
       cs: 'Rukavice z měkkého železa poskytují trochu větší ochranu, i když jsou vaše ruce teď studené.',
       ja: 'あなたの手は今寒いですが、柔らかい鉄の手袋はもう少し保護を提供します。',
       tr: 'Yumuşak demir eldivenler, ellerinizi soğuk tutmasına rağmen, biraz daha koruma sağlar.',
-      ht: 'Gan fè-mou bay yon ti kras plis pwoteksyon, byenke men ou yo frèt kounye a.'
+      ht: 'Gan fè-mou bay yon ti kras plis pwoteksyon, byenke men ou yo frèt kounye a.',
+      sv: 'Järnhandskar ger lite mer skydd, även om dina händer är kalla nu.'
     }
   },
 
@@ -115,7 +120,8 @@ export default [
       cs: 'Rukavice vyrobené z neznámého materiálu... svítí...',
       ja: '未知の素材でできたミット',
       tr: 'Bilinmeyen bir materyalden yapılmış eldiven... parlıyor da...',
-      ht: 'Mit ki fè soti nan materyèl enkoni ... li klere ...'
+      ht: 'Mit ki fè soti nan materyèl enkoni ... li klere ...',
+      sv: 'Mitts gjorda av okänt material ... det lyser ...'
     }
   },
 
@@ -135,7 +141,8 @@ export default [
       cs: 'Nějaký válečný generál je musel upustit ... pravděpodobně i neúmyslně.',
       ja: '何人かの将軍はこれらを落としたにちがいない…おそらく意図せずに。',
       tr: 'Bir savaş generali bunları düşürmüş olmalı... muhtemelen bundan haberi de yok.',
-      ht: 'Gen kèk jeneral lagè yo dwe tonbe sa yo ... pwobableman envolontè tou.'
+      ht: 'Gen kèk jeneral lagè yo dwe tonbe sa yo ... pwobableman envolontè tou.',
+      sv: 'Vissa krigsmän måste ha tappat dessa ... förmodligen oavsiktligt.'
     }
   },
 
@@ -155,7 +162,8 @@ export default [
       cs: 'Oheň není vhodný pro vaše ruce, když nosíte tyto smaragdové rukavice.',
       ja: 'あなたがこれらのエメラルドのミットを身に着けているので、火はあなたの手にはマッチしません。',
       tr: 'Bu zümrüt eldiveni takarken alev elinize işlemiyor.',
-      ht: 'Ponpye se pa matche ak pou men ou jan ou mete sa yo mit emwòd.'
+      ht: 'Ponpye se pa matche ak pou men ou jan ou mete sa yo mit emwòd.',
+      sv: 'Brand är ingen match för dina händer när du bär dessa smaragd vantar.'
     }
   },
 
@@ -175,7 +183,8 @@ export default [
       cs: 'Dává falešný pocit moci.',
       ja: '誤った権力を与えます。',
       tr: 'Sahte bir güç hissi veriyor.',
-      ht: 'Bay yon fo sans pouvwa.'
+      ht: 'Bay yon fo sans pouvwa.',
+      sv: 'Ge en falsk maktkänsla.'
     }
   },
 
@@ -195,7 +204,8 @@ export default [
       cs: 'Kované bez tepla, nošené bez strachu.',
       ja: '熱をかけずに鍛造し、恐れることなく着用。',
       tr: 'Ateş olmadan işlenir, korkusuzca giyilir.',
-      ht: 'Fòje san yo pa chalè, chire san yo pa bezwen pè.'
+      ht: 'Fòje san yo pa chalè, chire san yo pa bezwen pè.',
+      sv: 'Smidd utan värme, sliten utan rädsla.'
     }
   },
 
@@ -215,7 +225,8 @@ export default [
       cs: 'Rukavice hledané válečníky pro éry na konci ... konečně ... to je nalezeno.',
       ja: '手袋は最後に時代のために戦士によって捜しました...ついに...それは見つかりました。',
       tr: 'Savaşçıların çağlar boyunca aradığı eldivenler.. ve sonunda... bulundu.',
-      ht: 'Gan chache pa vanyan sòlda pou epòk sou fen ... nan dènye ... li jwenn.'
+      ht: 'Gan chache pa vanyan sòlda pou epòk sou fen ... nan dènye ... li jwenn.',
+      sv: 'Handskar eftersträvade av krigare för eroder i slutet ... äntligen ... det finns.'
     }
   },
 
@@ -235,7 +246,8 @@ export default [
       cs: 'Pověsti říkají, že dotek z těchto rukavic promění tvé nepřátele na zlato ... tvoje ruka je podivně těžká ...',
       ja: '噂によると、これらの手袋から触れるとあなたの敵が金に変わります...あなたの手は奇妙に重いのです...',
       tr: 'Bir dokunuşla düşmanlarınızı altına çevirdiği söylenir... Gel gör ki bu eldivenlerle elleriniz çok ağır.',
-      ht: 'Rimè di ke yon manyen soti nan gan sa yo vire lènmi ou yo an lò ... men ou se etranj lou ...'
+      ht: 'Rimè di ke yon manyen soti nan gan sa yo vire lènmi ou yo an lò ... men ou se etranj lou ...',
+      sv: 'Rykten säger att en röra från dessa handskar gör dina fiender till guld ... din hand är konstigt tung ...'
     }
   },
 
@@ -255,7 +267,8 @@ export default [
       cs: 'Rukavice tak silné v jejich přírodě, že se vzduchem třpytí, jak si máváte rukou.',
       ja: '手袋はその性質上非常に強力であるため、あなたが手を振るにつれて非常に空気がきらめきます。',
       tr: 'Eldivenler doğada o kadar güçlü ki, elinizle salladığınız havada parıltılar beliriyor.',
-      ht: 'Gan konsa pwisan nan nati yo ki trè lè a shimmers jan ou balanse men ou.'
+      ht: 'Gan konsa pwisan nan nati yo ki trè lè a shimmers jan ou balanse men ou.',
+      sv: 'Handskar så kraftfulla i sin natur att luften simmar som du vinkar i handen.'
     }
   }
 

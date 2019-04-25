@@ -15,7 +15,8 @@ export default [
       ht: 'Sak rèd ak lanmidon fè ou santi ou sal ak dezord.',
       tr: 'Bu çuvalla beraber insan kendini darmadağın ve saçma hissediyor.',
       cs: 'Pytel tuhý se škrobem, takže se cítíte špinavý a rozcuchaný.',
-      ja: 'でんぷんを使って固い袋に入れ、汚れや乱れを感じさせます。'
+      ja: 'でんぷんを使って固い袋に入れ、汚れや乱れを感じさせます。',
+      sv: 'Sack stiv med stärkelse som gör att du känner dig smutsig och disheveled.'
     }
   },
 
@@ -35,7 +36,8 @@ export default [
       ht: 'Chemiz kwi, ta vle chanje koulè soti nan mete ak chire.',
       tr: 'Aşınma ve yıpranma nedeniyle solmuş deri gömlek.',
       cs: 'Kožená košile, vybledlá od opotřebení.',
-      ja: '革のシャツは消耗から消えていった。'
+      ja: '革のシャツは消耗から消えていった。',
+      sv: 'Lädertröja, bleknad från slitage.'
     }
   },
 
@@ -55,7 +57,8 @@ export default [
       ht: 'Tunik manchbly fè, pase nan anpil jenerasyon nan avanturyé pase sou tè sa yo.',
       tr: 'Topuzlu yumuşak demir tunik, bu toprakların üzerinden geçen birçok maceracıdan günümüze kadar geldi.',
       cs: 'Rázně měkká železná tunika, předaná z mnoha generací dobrodruhů, kteří jdou přes tyto země.',
-      ja: 'これらの土地を通り過ぎる何世代にもわたる冒険家から、たぶん柔らかい鉄のチュニックが受け継がれました。'
+      ja: 'これらの土地を通り過ぎる何世代にもわたる冒険家から、たぶん柔らかい鉄のチュニックが受け継がれました。',
+      sv: 'Mjuk järn tunika, vidarebefordrad från många generationer av äventyrare som passerar över dessa länder.'
     }
   },
 
@@ -75,7 +78,8 @@ export default [
       ht: 'Sa a twal se pa anpil, men li ta ka sispann yon flèch oswa de.',
       tr: 'Bir kumaştan fazlası değil, belki bir iki ok durdurabilir.',
       cs: 'Tato tkanina není moc, ale mohla by zastavit šíp nebo dvě.',
-      ja: 'この布はあまりありませんが、それは矢印1、2を止めるかもしれません。'
+      ja: 'この布はあまりありませんが、それは矢印1、2を止めるかもしれません。',
+      sv: 'Det här tyget är inte mycket, men det kan sluta med en pil eller två.'
     }
   },
 
@@ -95,7 +99,8 @@ export default [
       ht: 'Kostim difisil te fè soti nan kal pwason sot pran nan yon dragon vanyan sòlda ki yon fwa ere tè sa yo.',
       tr: 'Bir zamanlar bu topraklarda dolaşan güçlü bir ejderhadan alınan pullarla yapılmış sert bir elbise.',
       cs: 'Tvrdý oblek vyrobený z šupin odebraných z mocného draka, který se kdysi potuloval po těchto zemích.',
-      ja: 'かつてこれらの土地を歩き回っていた強力なドラゴンから取った鱗で作られたハードスーツ。'
+      ja: 'かつてこれらの土地を歩き回っていた強力なドラゴンから取った鱗で作られたハードスーツ。',
+      sv: 'Hård kostym gjord av vågar som tagits från en mäktig drake som en gång strövade över dessa länder.'
     }
   },
 
@@ -115,7 +120,8 @@ export default [
       ht: 'Rimè di ke li te fè soti nan nyaj...',
       tr: 'Buluttan yapıldığına dair dedikodular var...',
       cs: 'Pověsti říkají, že jsou vyrobeny z mraků ...,',
-      ja: 'うわさは雲から作られたと言う...'
+      ja: 'うわさは雲から作られたと言う...',
+      sv: 'Rykten säger att den är gjord av moln ...'
 
     }
   },
@@ -136,7 +142,8 @@ export default [
       ht: 'Utilisateurs la melanje nan joliman ak lonbraj yo ... oswa konsa ansasen yo panse.',
       tr: 'Kullanıcı gölgelerle güzelce karışır ... ya da hırsızlar öyle sanıyor.',
       cs: 'Nositelka se pěkně mísí se stíny ... nebo tak si zloději myslí.',
-      ja: '着用者は影とうまく溶け込みます...あるいは泥棒は考えます。'
+      ja: '着用者は影とうまく溶け込みます...あるいは泥棒は考えます。',
+      sv: 'Bäraren blandar sig snyggt med skuggorna ... eller så tjuvarna tänker.'
     }
   },
 
@@ -156,7 +163,8 @@ export default [
       ht: 'Fòje pa majisyen unknown, ou mete yon gwo twou san fon, piyè pwatrin nwa ak pwisan.',
       tr: 'Bilinmeyen bir büyücü tarafından dövülmüş. Derin karanlık ve güçlü bir zırh.',
       cs: 'Kované neznámými kouzelníky, nosíte hluboký, temný a silný hrudník.',
-      ja: '未知の魔術師によって鍛えられて、あなたは深くて暗くて強力なチェストプレートを身に付けます。'
+      ja: '未知の魔術師によって鍛えられて、あなたは深くて暗くて強力なチェストプレートを身に付けます。',
+      sv: 'Smidd av okända magiker, har du en djup, mörk och kraftfull bröstkorg.'
     }
   },
 
@@ -176,7 +184,8 @@ export default [
       ht: 'Fòje soti nan fon lanmè a nan lanfè, li bay pwoteksyon pou fèb ou, kò charnèl.',
       tr: 'Cehennemin derinliklerinde dövülmüş, zayıf etli vücüduna koruma sağlar.',
       cs: 'Kované z hlubin pekla poskytují ochranu pro vaše slabé, masité tělo.',
-      ja: '地獄の深さから造られてそれはあなたの弱い多肉体を保護します。'
+      ja: '地獄の深さから造られてそれはあなたの弱い多肉体を保護します。',
+      sv: 'Smidd från djupet av helvetet ger det skydd för din svaga köttiga kropp.'
     }
   },
 
@@ -196,7 +205,8 @@ export default [
       ht: 'Lè lènmi yo te mouri, nanm yo te ajoute nan koleksyon wielder la.',
       tr: 'Düşmanlar katledildiğinde, ruhlarını koleksiyonuna ekler.',
       cs: 'Když jsou nepřátelé zabiti, jejich duše jsou přidány do sbírky držitele.',
-      ja: '敵が殺害されたとき、彼らの魂は野郎のコレクションに追加されます。'
+      ja: '敵が殺害されたとき、彼らの魂は野郎のコレクションに追加されます。',
+      sv: 'När fiender slås, läggs deras själar till wielderens samling.'
     }
   },
 
@@ -216,7 +226,8 @@ export default [
       ht: 'Rimè ki di ke moun nan se imòtèl. Malerezman zam sa a ka jwenn sèlman sou kadav moun ki mouri yo.',
       tr: 'Dedikodulara göre bunu giyen ölümsüzmüş. Ne yazık ki bu zırh sadece öldürülen cesetlerinde bulunabilir.',
       cs: 'Pověsti říkají, že nositel je nesmrtelný. Bohužel toto brnění lze nalézt pouze na mrtvolách zabitých.',
-      ja: '噂によると、着用者は不滅です。残念ながらこの装甲は殺人の死体にしか見られません。'
+      ja: '噂によると、着用者は不滅です。残念ながらこの装甲は殺人の死体にしか見られません。',
+      sv: 'Rykten säger att bäraren är odödlig. Tyvärr kan denna rustning endast hittas på de dödas lik.'
     }
   }
 
