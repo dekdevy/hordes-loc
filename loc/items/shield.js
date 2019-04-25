@@ -18,7 +18,8 @@ export default [
       ht: 'Literalman yon gwo bout bwa kare nan bwa.',
       cs: 'Tavený železný kroužek naplněný bronzem. Flimsy v jeho tvorbě.',
       ja: '文字通り木の正方形の板。',
-      sv: 'Bokstavligen en fyrkantig planka av trä.'
+      sv: 'Bokstavligen en fyrkantig planka av trä.',
+      ko: '말 그대로 나무의 정연한 판자.'
     }
   },
 
@@ -41,7 +42,8 @@ export default [
       ht: 'Boule bag fè plen ak kwiv. Kannfeuy nan fè li yo.',
       cs: 'Některému farmáři se podařilo postavit roztomilý malý štít.',
       ja: '青銅で満たされた製錬鉄の輪。その作成にぎこちない。',
-      sv: 'Smältjärnsring fylld med brons. Spetsig i sin framställning.'
+      sv: 'Smältjärnsring fylld med brons. Spetsig i sin framställning.',
+      ko: '철 고리 청동 가득합니다. 어색한 제작.'
     }
   },
 
@@ -64,7 +66,8 @@ export default [
       ht: 'Gen kèk kiltivatè jere yo konstwi yon bèl plak pwotèj ti kras.',
       cs: 'Složitý štít vyrobený ze tří kovových kusů. Solidní.',
       ja: '何人かの農夫はかわいい小さな盾を建設することに成功した。',
-      sv: 'En del bonde har lyckats konstruera en söt liten sköld.'
+      sv: 'En del bonde har lyckats konstruera en söt liten sköld.',
+      ko: '어떤 농부는 귀여운 작은 방패를 만들 수있었습니다.'
     }
   },
 
@@ -87,7 +90,8 @@ export default [
       ht: 'Pwoteksyon konplike te fè soti nan twa moso metal solid. Solid.',
       cs: 'Složitý štít vyrobený ze tří kovových kusů. Solidní.',
       ja: '3つの頑丈な金属片で作られた複雑なシールド。頑丈。',
-      sv: 'Invecklad sköld gjord av tre solida metallstycken. Kraftig.'
+      sv: 'Invecklad sköld gjord av tre solida metallstycken. Kraftig.',
+      ko: '세 개의 단단한 금속 조각으로 만들어진 복잡한 방패. 견고한.'
     }
   },
 
@@ -110,7 +114,8 @@ export default [
       ht: 'Te fè soti nan obsidya ak asye. Yon moun t ap eseye penti li jòn. Yo echwe. Miserableman.',
       cs: 'Vyrobeno z obsidiánu a oceli. Někdo se ho pokusil namalovat žlutě. Neuspěli. Bídně.',
       ja: '黒曜石とスチールから作られました。誰かがそれを黄色く塗ろうとしました。彼らは失敗しました。悲惨なことに。',
-      sv: 'Tillverkad av obsidian och stål. Någon försökte att måla den gul. De misslyckades. Eländigt.'
+      sv: 'Tillverkad av obsidian och stål. Någon försökte att måla den gul. De misslyckades. Eländigt.',
+      ko: '흑요석과 강철로 만들었습니다. 누군가는 그것을 황당하게 노란 색으로 칠하려고했습니다. 그들은 실패했다.'
     }
   }
 
