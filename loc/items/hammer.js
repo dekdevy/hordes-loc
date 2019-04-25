@@ -282,20 +282,20 @@ export default [
   {
     name       : {$$: 'Hammer of Gaia' },
     description: {
-      en: 'Some say its made by dwarves, others say by elves... the truth is yet to be uncovered.',
-      ru: 'Некоторые говорят, что он сделан дворфами, другие говорят эльфами... правда еще не раскрыта.',
-      hi: 'कुछ लोग कहते हैं अपने बौने द्वारा बनाई गई हैं, दूसरों का कहना है कि कल्पित बौने से ... सच का पर्दाफाश किया जा करने के लिए अभी तक है।',
-      es: 'Algunos dicen que está hecho por enanos, otros dicen que por elfos... la verdad aún no ha sido descubierta.',
-      de: 'Einige sagen, dass es von Zwergen gemacht wurde, andere sagen, dass es von Elfen gemacht wurde... die Wahrheit ist noch nicht enthüllt.',
-      fr: 'Certains disent que c\'est fait par des nains, d\'autres par des elfes... la vérité na pas encore été découverte.',
-      pt: 'Alguns dizem que é feita por anões, outros por elfos... a verdade ainda está por descobrir.',
-      nl: 'Sommigen zeggen dat het gemaakt is door dwergen, anderen zeggen dat het door elfen is gemaakt.... de waarheid moet nog ontdekt worden.',
-      pl: 'Jedni mówią, że został stworzony przez krasnoludki, inni, że przez elfy.... prawda nie została jeszcze odkryta.',
-      it: 'Alcuni dicono che è fatta da nani, altri dicono da elfi..... la verità deve ancora essere scoperta.',
-      cs: 'Někteří říkají, že to dělají trpaslíci, jiní říkají elfové ... pravda se ještě neodhalila.',
-      ja: 'ドワーフによって作られたと言う人もいますし、エルフによって書かれる人もいます...真実はまだ明らかにされていません。',
-      ht: 'Gen kèk ki di li yo ki te fèt pa nen, lòt moun di pa luten ... verite a se ankò yo dwe dekouvri.',
-      sv: 'Vissa säger att den är gjord av dvärgar, andra säger av älvor ... sanningen är ännu inte avslöjad.'
+      en: 'Deadly and uncontrollable, this celestial hammer etches terror in its purest form into those unfortunate ones who have caught sight of it.',
+      ru: 'Смертоносный и неконтролируемый, этот небесный молот в чистейшей форме протравливает ужас в тех несчастных, кто его увидел.',
+      hi: 'घातक और बेकाबू, यह स्वर्गीय हथौड़ा अपने शुद्ध रूप में उन दुर्भाग्यपूर्ण लोगों में आतंक बोता है जिन्होंने इसे देखा।',
+      es: 'Mortal e incontrolable, este martillo celestial graba el terror en su forma más pura en aquellos desafortunados que lo han visto.',
+      de: 'Tödlich und unkontrollierbar, ritzt dieser himmlische Hammer den Schrecken in seiner reinsten Form in die Unglücklichen, die ihn aus den Augen verloren haben.',
+      fr: 'Mortel et incontrôlable, ce marteau céleste grave la terreur dans sa forme la plus pure sur les malheureux qui l\'ont vue.',
+      pt: 'Mortal e incontrolável, este martelo celestial grava o terror na sua forma mais pura naqueles infelizes que o viram.',
+      nl: 'Dodelijk en oncontroleerbaar, deze hemelse hamer ets terreur in zijn puurste vorm in de ongelukkigen die hem in het vizier hebben gekregen.',
+      pl: 'Śmiertelnie i niekontrolowanie, ów niebiański młotek w swojej najczystszej formie wprawia w przerażenie tych nieszczęsnych którzy go złapali.',
+      it: 'Mortale e incontrollabile, questo martello celeste incide il terrore nella sua forma più pura in quegli sfortunati che l\'hanno scoperto.',
+      cs: 'Smrtící a nekontrolovatelné, toto nebeské kladivo leptá hrůzu v nejčistší podobě do těch nešťastných, kteří si to všimli.',
+      ja: '致命的で手に負えない、この天体ハンマーはその純粋な形でそれを見ていたそれらの不幸なものにテロを蝕みます。',
+      ht: 'Mòtèl ak enkontwolab, mato sa a selès pè atè nan fòm pur li yo nan sa yo malere ki te wè nan li.',
+      sv: 'Dödlig och okontrollabel, den här himmelska hammaren etsar terror i sin renaste form till de olyckliga som har sett det.'
     }
   },
 
