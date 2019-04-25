@@ -15,10 +15,11 @@ export default {
     fr: 'Invitation à une party',
     ht: 'Party envite',
     es: 'Party Invita',
-    tr: 'Partye davet et',
-    cs: 'Pozvat stranu',
-    ja: 'パーティー招待',
-    hi: 'party आमंत्रण'
+    tr: 'Party davet et',
+    cs: 'Pozvat party',
+    ja: 'Partyへの招待',
+    hi: 'Party आमंत्रण',
+    sv: 'Party inbjudan'
   },
 
   kick: {
@@ -34,8 +35,9 @@ export default {
     nl: 'Paty uitgooien',
     tr: 'Partyden at',
     cs: 'Strana kop',
-    ja: 'パーティーキック',
-    hi: 'party लात'
+    ja: 'Partyキック',
+    hi: 'Party लात',
+    sv: 'Party spark'
   },
 
   leave: {
@@ -51,8 +53,9 @@ export default {
     es: 'Salir del Party',
     tr: 'Party ayrıl',
     cs: 'Nechte stranou',
-    ja: 'パーティーを離れる',
-    hi: 'छोड़ना party'
+    ja: 'Partyのままに',
+    hi: 'छोड़ना party',
+    sv: 'Lämna arty'
   },
 
   create: {
@@ -68,8 +71,9 @@ export default {
     es: 'Crear party',
     tr: 'Party oluştur',
     cs: 'Vytvořit párty',
-    ja: 'パーティーを作成',
-    hi: 'सर्जन करना party'
+    ja: 'Partyを作成',
+    hi: 'सर्जन करना party',
+    sv: 'Skapa party'
   },
 
   onInvite: {
@@ -80,13 +84,14 @@ export default {
     ru: '$1 пригласил вас в party',
     es: '$1 te ha invitado a juntar a su Party.',
     nl: '$1 heeft je uitgenodigd vergezel hun party.',
-    tr: '$1 seni partysine davet etti.',
+    tr: '$1 seni party davet etti.',
     it: '$1 ti ha invitato a unirti alla loro festa.',
     pt: 'O $1 convidou-te para te juntares à festa deles.',
     pl: '$1 zaprosiło cię do przyłączenia się do ich partii.',
     cs: '$1 vás pozval, abyste se připojili k jejich straně.',
-    ja: '$1さんがあなたをパーティーに招待しています。',
-    hi: '$1 उनके party में शामिल होने के लिए आमंत्रित किया है।'
+    ja: '$ 1があなたを彼らのPartyに招待しています。',
+    hi: '$1 उनके party में शामिल होने के लिए आमंत्रित किया है।',
+    sv: '$ 1 har bjudit in dig att gå med i deras party.'
   },
 
   // members, as in "12 members in party"
@@ -104,7 +109,8 @@ export default {
     tr: 'Üye',
     cs: 'Členové',
     ja: 'メンバー',
-    ht: 'Manm yo'
+    ht: 'Manm yo',
+    sv: 'Medlemmar'
   },
 
   link: {
@@ -121,7 +127,8 @@ export default {
     pl: 'Zaproszenie do składania wniosków',
     cs: 'Pozvánka',
     ja: '招待状リンク',
-    ht: 'Lyen envitasyon'
+    ht: 'Lyen envitasyon',
+    sv: 'Inbjudnings länk'
   },
 
   onLink: {
@@ -137,8 +144,9 @@ export default {
     es: '¡Envíta este enlace a otros jugadores! Esto los permitirá a juntar en to party.',
     tr: 'Bu bağlantıyı diğer oyunculara gönder! Bu onların partyne katılmasını sağlayacak.',
     cs: 'Pošlete tento odkaz ostatním hráčům!  To jim umožní připojit se k vaší straně.',
-    ja: '他のプレイヤーにこのリンクを送ってください！これにより、彼らはあなたのパーティーに参加することができます。',
-    ht: 'Voye lyen sa a bay lòt jwè yo! Sa a pral pèmèt yo rantre nan pati ou.'
+    ja: '他のプレイヤーにこのリンクを送ってください！これにより、彼らはあなたのPartyに参加することができます。',
+    ht: 'Voye lyen sa a bay lòt jwè yo! Sa a pral pèmèt yo rantre nan pati ou.',
+    sv: 'Skicka den här länken till andra spelare! Detta gör att de kan ansluta sig till din party.'
   },
 
   copyLink: {
@@ -159,6 +167,7 @@ export default {
     cs: 'Zkopírovat do schránky',
     ja: 'クリップボードにコピー',
     hi: 'क्लिपबोर्ड पर कॉपी करें',
-    ht: 'Kopi nan clipboard'
+    ht: 'Kopi nan clipboard',
+    sv: 'Kopiera till Urklipp'
   }
 }
