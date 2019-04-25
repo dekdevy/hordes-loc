@@ -18,7 +18,8 @@ export default [
       el: 'Ιμάντες από δέρμα που καλύπτουν τα αδύναμα χέρια σας. Το τράβηγμα του κορδονιού είναι πολύ πιο εύκολο για εσάς τώρα.',
       tr: 'Zayıf ellerini kaplayan deri kayışlar. Kordonu çekmek şimdi sizin için çok daha kolay.',
       ht: 'Bracelets an kwi ki kouvri men fèb ou yo. Rale kord la se pi fasil pou ou kounye a.',
-      sv: 'Skinnband av läder som täcker dina svaga händer. Att dra på bågstången är mycket lättare för dig nu.'
+      sv: 'Skinnband av läder som täcker dina svaga händer. Att dra på bågstången är mycket lättare för dig nu.',
+      ko: '너의 미약 한 손을 감싸는 가죽 끈. 지금은 귀걸이를 당기는 것이 훨씬 쉽습니다.'
     }
   },
 
@@ -41,7 +42,8 @@ export default [
       ja: '盗まれた羊からの紡績糸はこれらの暖かい手袋を身に着ける喜びにします。',
       tr: 'Çalınan koyunlardan elde edilen bükülmüş ipliklerden yapılan bu sıcak eldivenleri giymek bir zevktir.',
       ht: 'Fil file nan mouton yo vòlè fè sa yo gan cho yon plezi mete.',
-      sv: 'Spunnet garn från stulet får gör dessa varma handskar ett nöje att bära.'
+      sv: 'Spunnet garn från stulet får gör dessa varma handskar ett nöje att bära.',
+      ko: '도난당한 양의 방적사가이 따뜻한 장갑을 착용하는 즐거움으로 만듭니다.'
     }
   },
 
@@ -64,7 +66,8 @@ export default [
       ja: 'あなたの指はかろうじてこれらの硬い革のミットの中で動くことができます。',
       tr: 'Parmaklarınız bu sert deri eldivenlerde zar zor hareket eder.',
       ht: 'Dwèt ou ka apèn deplase nan manch rèd kwi sa yo.',
-      sv: 'Dina fingrar kan knappt röra sig i dessa styva lädervästar.'
+      sv: 'Dina fingrar kan knappt röra sig i dessa styva lädervästar.',
+      ko: '손가락이이 딱딱한 가죽 끈으로 간신히 움직일 수 있습니다.'
     }
   },
 
@@ -87,7 +90,8 @@ export default [
       ja: 'あなたがこれらを身に着けていると、クラッキング音はあなたと一緒に伝わります。',
       tr: 'Çatırdama sesleri siz bunları giydikçe sizinle birlikte hareket eder.',
       ht: 'Klike son vwayaje avèk ou menm jan ou mete sa yo.',
-      sv: 'Att klicka på ljud rör dig med dig när du bär dem.'
+      sv: 'Att klicka på ljud rör dig med dig när du bär dem.',
+      ko: '딸깍 소리가 나면 딸랑 딸랑 소리가납니다.'
     }
   },
 
@@ -110,7 +114,8 @@ export default [
       ja: 'あなたの手は今寒いですが、柔らかい鉄の手袋はもう少し保護を提供します。',
       tr: 'Yumuşak demir eldivenler, ellerinizi soğuk tutmasına rağmen, biraz daha koruma sağlar.',
       ht: 'Gan fè-mou bay yon ti kras plis pwoteksyon, byenke men ou yo frèt kounye a.',
-      sv: 'Järnhandskar ger lite mer skydd, även om dina händer är kalla nu.'
+      sv: 'Järnhandskar ger lite mer skydd, även om dina händer är kalla nu.',
+      ko: '소프트 아이언 장갑은 손안에 차가워졌지만 약간의 보호 기능을 제공합니다.'
     }
   },
 
@@ -133,7 +138,8 @@ export default [
       ja: '未知の素材でできたミット',
       tr: 'Bilinmeyen bir materyalden yapılmış eldiven... parlıyor da...',
       ht: 'Mit ki fè soti nan materyèl enkoni ... li klere ...',
-      sv: 'Mitts gjorda av okänt material ... det lyser ...'
+      sv: 'Mitts gjorda av okänt material ... det lyser ...',
+      ko: '미지의 물질로 만들어지는 조형물 ... 빛난다.'
     }
   },
 
@@ -156,7 +162,8 @@ export default [
       ja: '何人かの将軍はこれらを落としたにちがいない…おそらく意図せずに。',
       tr: 'Bir savaş generali bunları düşürmüş olmalı... muhtemelen bundan haberi de yok.',
       ht: 'Gen kèk jeneral lagè yo dwe tonbe sa yo ... pwobableman envolontè tou.',
-      sv: 'Vissa krigsmän måste ha tappat dessa ... förmodligen oavsiktligt.'
+      sv: 'Vissa krigsmän måste ha tappat dessa ... förmodligen oavsiktligt.',
+      ko: '일부 전쟁 장군은 아마도 이것들을 떨어 뜨려야 만했을 것입니다 ... 아마도 우연히도.'
     }
   },
 
@@ -179,7 +186,8 @@ export default [
       ja: 'あなたがこれらのエメラルドのミットを身に着けているので、火はあなたの手にはマッチしません。',
       tr: 'Bu zümrüt eldiveni takarken alev elinize işlemiyor.',
       ht: 'Ponpye se pa matche ak pou men ou jan ou mete sa yo mit emwòd.',
-      sv: 'Brand är ingen match för dina händer när du bär dessa smaragd vantar.'
+      sv: 'Brand är ingen match för dina händer när du bär dessa smaragd vantar.',
+      ko: '이 에메랄드 장갑을 착용하면 불이 당신 손에 닿지 않습니다.'
     }
   },
 
@@ -202,7 +210,8 @@ export default [
       ja: '誤った権力を与えます。',
       tr: 'Sahte bir güç hissi veriyor.',
       ht: 'Bay yon fo sans pouvwa.',
-      sv: 'Ge en falsk maktkänsla.'
+      sv: 'Ge en falsk maktkänsla.',
+      ko: '거짓된 힘을주십시오.'
     }
   },
 
@@ -225,7 +234,8 @@ export default [
       ja: '熱をかけずに鍛造し、恐れることなく着用。',
       tr: 'Ateş olmadan işlenir, korkusuzca giyilir.',
       ht: 'Fòje san yo pa chalè, chire san yo pa bezwen pè.',
-      sv: 'Smidd utan värme, sliten utan rädsla.'
+      sv: 'Smidd utan värme, sliten utan rädsla.',
+      ko: '열없이 단조, 두려움없이 착용.'
     }
   },
 
@@ -248,7 +258,8 @@ export default [
       ja: '手袋は最後に時代のために戦士によって捜しました...ついに...それは見つかりました。',
       tr: 'Savaşçıların çağlar boyunca aradığı eldivenler.. ve sonunda... bulundu.',
       ht: 'Gan chache pa vanyan sòlda pou epòk sou fen ... nan dènye ... li jwenn.',
-      sv: 'Handskar eftersträvade av krigare för eroder i slutet ... äntligen ... det finns.'
+      sv: 'Handskar eftersträvade av krigare för eroder i slutet ... äntligen ... det finns.',
+      ko: '끝날 무렵 전사들이 찾던 장갑 ... 마침내 ... 찾았습니다.'
     }
   },
 
@@ -271,7 +282,8 @@ export default [
       ja: '噂によると、これらの手袋から触れるとあなたの敵が金に変わります...あなたの手は奇妙に重いのです...',
       tr: 'Bir dokunuşla düşmanlarınızı altına çevirdiği söylenir... Gel gör ki bu eldivenlerle elleriniz çok ağır.',
       ht: 'Rimè di ke yon manyen soti nan gan sa yo vire lènmi ou yo an lò ... men ou se etranj lou ...',
-      sv: 'Rykten säger att en röra från dessa handskar gör dina fiender till guld ... din hand är konstigt tung ...'
+      sv: 'Rykten säger att en röra från dessa handskar gör dina fiender till guld ... din hand är konstigt tung ...',
+      ko: '소문에 의하면이 장갑에서 손을 대면 원수가 금으로 변합니다 ... 손이 이상하게 무거워 ...'
     }
   },
 
@@ -294,7 +306,8 @@ export default [
       ja: '手袋はその性質上非常に強力であるため、あなたが手を振るにつれて非常に空気がきらめきます。',
       tr: 'Eldivenler doğada o kadar güçlü ki, elinizle salladığınız havada parıltılar beliriyor.',
       ht: 'Gan konsa pwisan nan nati yo ki trè lè a shimmers jan ou balanse men ou.',
-      sv: 'Handskar så kraftfulla i sin natur att luften simmar som du vinkar i handen.'
+      sv: 'Handskar så kraftfulla i sin natur att luften simmar som du vinkar i handen.',
+      ko: '너의 손을 흔드는 것처럼 매우 공기가 반짝이는 그들의 본질적인 장갑.'
     }
   }
 
