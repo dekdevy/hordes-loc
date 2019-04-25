@@ -17,7 +17,8 @@ export default [
       tr: 'Hafifsiklet bir şey. Muhtemelen etrafta daha iyi bir şeyler bulabilirsin.',
       hi: 'लगभग हल्के। आप शायद के आसपास कुछ बेहतर मिल सकता है।',
       cs: 'Téměř lehká. Asi můžete najít něco lepšího.',
-      ja: 'ほぼ軽量です。あなたはおそらくもっと良いものを見つけることができるでしょう。'
+      ja: 'ほぼ軽量です。あなたはおそらくもっと良いものを見つけることができるでしょう。',
+      ro: 'Ușor ca o pană. Probabil poți găsi ceva mai bun în jur.'
     }
   },
 
@@ -38,7 +39,8 @@ export default [
       tr: 'Sadece tutmakla bile insan kendini yeteneksiz hissediyor, öyle bir yay.',
       hi: 'तुम सिर्फ अपने हाथों में इस पकड़ कर कम कुशल लग रहा है।',
       cs: 'Cítíš se méně zručně, když to držíš ve svých rukou.',
-      ja: 'これを手に持つだけでは、上手くいけないと感じます。'
+      ja: 'これを手に持つだけでは、上手くいけないと感じます。',
+      ro: 'Te simți mai puțin experimentat doar ținând acesta în mâinile tale.'
     }
   },
 
@@ -59,7 +61,8 @@ export default [
       tr: 'Bunu kim yere düşürdüyse muhtemelen sonu iyi olmamıştır.',
       hi: 'जो कोई भी इस आधार पर यह छोड़ दिया शायद एक अच्छा अंत पूरा नहीं किया।',
       cs: 'Ten, kdo tohle na zemi opustil, pravděpodobně neuskutečnil pěkný konec.',
-      ja: 'これを地面に置いたままにしておいた人は誰もがうまく行かなかったでしょう。'
+      ja: 'これを地面に置いたままにしておいた人は誰もがうまく行かなかったでしょう。',
+      ro: 'Oricine l-ar fi lăsat pe pământ, probabil că nu a avut un sfârșit frumos.'
     }
   },
 
@@ -80,7 +83,8 @@ export default [
       tr: 'Daha gelişmiş bir silah. Bakması da oldukça güzel hissediyor.',
       hi: 'एक और अधिक उन्नत हथियार। काफी को देखने के लिए अच्छा।',
       cs: 'Pokročilejší zbraň. Docela hezké se na to podívat.',
-      ja: 'より高度な武器見てとてもうれしいです。'
+      ja: 'より高度な武器見てとてもうれしいです。',
+      ro: 'O armă mai avansată. Destul de frumoasă la înfățișare.'
     }
   },
 
@@ -101,7 +105,8 @@ export default [
       tr: 'Kemikler birleştirilerek yapılmış... insan kemikleri?',
       hi: 'किसी की हड्डियों के साथ एक साथ रखा?',
       cs: 'Dej dohromady s kostmi ... někoho?',
-      ja: '〜誰かの骨と一緒に？'
+      ja: '〜誰かの骨と一緒に？',
+      ro: 'Făcut din oasele... cuiva?'
     }
   },
 
@@ -122,7 +127,8 @@ export default [
       tr: 'Unutulmuş bir ırkın uzman yayı.',
       hi: 'एक भूल दौड़ के एक विशेषज्ञ धनुष।',
       cs: 'Odborný luk zapomenutého závodu.',
-      ja: '忘れられたレースの専門家の弓。'
+      ja: '忘れられたレースの専門家の弓。',
+      ro: 'Un arc expert al unei curse uitate.'
     }
   },
 
@@ -143,7 +149,8 @@ export default [
       tr: 'Kaba, ama etkili. Gücünü, kendisine bağlı küçük yapraktan alır.',
       hi: 'क्रूड, लेकिन प्रभावी। छोटे पत्ती इसे से जुड़े से अपनी शक्ति को खींचता है।',
       cs: 'Hrubý, ale účinný. Čerpá svou sílu z malého lístku, který je k němu připojen.',
-      ja: '粗いが効果的。それに付いている小さな葉から力を引き出します。'
+      ja: '粗いが効果的。それに付いている小さな葉から力を引き出します。',
+      ro: 'Crud, dar eficient. Își trage puterea din frunzulița atașată pe el.'
     }
   },
 
@@ -164,7 +171,8 @@ export default [
       tr: 'Düşmanı kırmızı renkteki boya ile yakar.',
       hi: 'बर्न्स दूर लाल रंग की मसालेदार साथ दुश्मन।',
       cs: 'Spálí nepřítele s nejjemnějším červeným zbarvením.',
-      ja: '最も辛い赤色の着色で敵を焼き払います。'
+      ja: '最も辛い赤色の着色で敵を焼き払います。',
+      ro: 'Arde inamicul cu cea mai intensă culoare de roșu.'
     }
   },
 
@@ -185,7 +193,8 @@ export default [
       tr: 'Genel olarak düşük rütbeli kraliyet okçular tarafından kullanılan bir yay. Bitki örtüsü ile iyi karışır.',
       hi: 'एक धनुष आमतौर पर कम स्थान पर रहीं शाही तीरंदाजों द्वारा इस्तेमाल किया। वनस्पति के साथ अच्छी तरह से में मिश्रण है।',
       cs: 'Luk běžně používaný nízkohodnotnými královskými lukostřelci. Směsi ve vegetaci.',
-      ja: '低位の王室弓兵によく使われる弓。植生とよく調和しています。'
+      ja: '低位の王室弓兵によく使われる弓。植生とよく調和しています。',
+      ro: 'Un arc folosit în mod obișnuit de arcașii regali de rang inferior. Se amestecă bine cu vegetația.'
     }
   },
 
@@ -206,7 +215,8 @@ export default [
       tr: 'Başkentlerin haydutları tarafından ustaca hazırlanmış.',
       hi: 'विशेषज्ञ रूप राजधानियों में से डाकुओं द्वारा तैयार की गई।',
       cs: 'Mistrovsky vytvořený bandity z hlavních měst.',
-      ja: '首都の盗賊によって巧妙に作られました。'
+      ja: '首都の盗賊によって巧妙に作られました。',
+      ro: 'Meșteșugit de bandiții capitalelor.'
     }
   },
 
@@ -227,7 +237,8 @@ export default [
       tr: 'En büyük savaşlarda kullanılan nadir bir yay. Onu çekince sanki yer gök yıkılacak gibi hissediyor.',
       hi: 'एक दुर्लभ युद्ध की सबसे बड़ी में इस्तेमाल किया धनुष। यह शूटिंग की तरह स्वर्ग पतन होगा यदि आपको लगता है बनाता है।',
       cs: 'Vzácný luk používaný v největších válkách. Střelba z vás dělá pocit, že se nebe zhroutí.',
-      ja: '最も偉大な戦争で使われる珍しい弓。それを撮影すると、天が崩壊するように感じるでしょう。'
+      ja: '最も偉大な戦争で使われる珍しい弓。それを撮影すると、天が崩壊するように感じるでしょう。',
+      ro: 'Un arc rar, folosit în cele mai mari războaie. Să tragi te face să simți că cerurile se vor prăbuși.'
     }
   },
 
@@ -248,7 +259,8 @@ export default [
       tr: 'Bu ne? Buz mu bu? Dünya bunu asla bilemeyecek...',
       hi: 'यह क्या है? यह बर्फ है? दुनिया को कभी पता नहीं हो सकता...',
       cs: 'Co je to? Je to led? Svět se nikdy nedozví ...',
-      ja: 'それは何ですか？氷ですか？世界は知らないかもしれません...'
+      ja: 'それは何ですか？氷ですか？世界は知らないかもしれません...',
+      ro: 'Ce e asta? Gheață? Lumea s-ar putea să nu afle niciodată.'
     }
   },
 
@@ -269,7 +281,8 @@ export default [
       tr: 'Göründüğü kadar güzel de öldürür.',
       hi: 'के रूप में खूबसूरती से के रूप में यह लग रहा है मारता है।',
       cs: 'Zabije tak krásně, jak to vypadá.',
-      ja: '見た目と同じくらい美しく殺します。'
+      ja: '見た目と同じくらい美しく殺します。',
+      ro: 'Ucide la fel de frumos cum și arată.'
     }
   },
 
@@ -290,7 +303,8 @@ export default [
       tr: 'Kasvetli bir havayla çevrili. Rüzgar, hedeflediğiniz yönde esiyor.',
       hi: 'एक भयंकर आभा से घिरा। हवा की दिशा आप इसे उद्देश्य में चल रही है।',
       cs: 'Obklopen hroznou aurou. Vítr fouká ve směru, kterým je zamíříte.',
-      ja: 'ひどいオーラに囲まれています。風はあなたがそれを目指す方向に吹きます。'
+      ja: 'ひどいオーラに囲まれています。風はあなたがそれを目指す方向に吹きます。',
+      ro: 'Este înconjurat de o aură îngrozitoare. Vântul suflă în direcția în care țintești.'
     }
   },
 
@@ -311,7 +325,8 @@ export default [
       tr: 'O kadar korkunç ki onu tutmak cesaret ister.',
       hi: 'तो डरावना कुछ हिम्मत इसे पकड़ है।',
       cs: 'Tak děsivé, že jen málokdo má odvahu držet to.',
-      ja: 'それを保持するための勇気を持っている人はほとんどいないので怖い。'
+      ja: 'それを保持するための勇気を持っている人はほとんどいないので怖い。',
+      ro: 'Atât de înfricoșător că puțini au curajul să-l țină.'
     }
   },
 
@@ -332,7 +347,8 @@ export default [
       tr: 'İlkel bir öfkeyle bezenmiş, düşmanların bu silahı görünce titriyor. Pew pew, duyacakları son şey.',
       hi: 'एक मौलिक क्रोध से एंबेडेड, अपने दुश्मनों को इस हथियार की दृष्टि में कांपने। बेंच बेंच आखिरी बात वे कभी सुनेंगे है।',
       cs: 'Vloženi s prvotním vztekem, vaši nepřátelé se třesou při pohledu na tuto zbraň. Pew je poslední věc, kterou kdy slyší.',
-      ja: 'この武器を見てあなたの敵は震え上がります。ピューピューは彼らが今までに聞くことになる最後のものです。'
+      ja: 'この武器を見てあなたの敵は震え上がります。ピューピューは彼らが今までに聞くことになる最後のものです。',
+      ro: 'Cuprins de o furie primordială, dușmanii tăi tremură la vederea acestei arme. Pew pew e ultimul lucru pe care-l vor auzi vreodată.'
     }
   }
 
