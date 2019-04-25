@@ -7,7 +7,7 @@ export default {
     hi: 'दल से दिखाए',
     it: 'Clan',
     es: 'Clan',
-    de: 'Show-Clan',
+    de: 'Clan',
     fr: 'Afficher le clan',
     ko: '클랜 보이기',
     tr: 'Klan',
