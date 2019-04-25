@@ -16,7 +16,8 @@ export default {
     ko: '오케이',
     it: 'Okay',
     cs: 'Dobře',
-    ja: 'はい'
+    ja: 'はい',
+    bg: 'Добре'
   },
 
   back: {
@@ -35,7 +36,8 @@ export default {
     ko: '뒤로가기',   // TODO: shorten ?
     it: 'Dietro',
     cs: 'Zadní',
-    ja: 'バック'
+    ja: 'バック',
+    bg: 'Oбратно'
   },
 
   accept: {
@@ -54,7 +56,8 @@ export default {
     ko: '동의',
     it: 'Accettare',
     cs: 'Akceptovat',
-    ja: '受け入れる'
+    ja: '受け入れる',
+    bg: 'приемам'
 
   },
 
@@ -74,7 +77,8 @@ export default {
     ko: '쇠퇴',
     it: 'Diminuzione',
     cs: 'Pokles',
-    ja: '低下'
+    ja: '低下',
+    bg: 'упадък'
   },
 
   close: {
@@ -93,6 +97,7 @@ export default {
     ko: '닫기',
     it: 'Chiudi',
     cs: 'Zavřít',
-    ja: '閉じる'
+    ja: '閉じる',
+    bg: 'Близо'
   }
 }
