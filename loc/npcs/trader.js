@@ -16,7 +16,8 @@ export default {
       ja: '旅人をさまよう挨拶！何か売りたいですか？',
       hi: 'नमस्ते यात्री! क्या आप कुछ बेचना चाहते है?',
       tr: 'Selam dolaşan gezgin! Bir şeyler satmak ister misin?',
-      sv: 'Hälsningar vandrande resenären! Vill du sälja något?'
+      sv: 'Hälsningar vandrande resenären! Vill du sälja något?',
+      ko: '안녕 방랑 여행자! 뭔가 팔고 싶니?'
     },
     choices: {
       en: 'Yes, of course.',
@@ -33,7 +34,8 @@ export default {
       ja: 'はい、もちろん。',
       hi: 'हां बिल्कुल।',
       tr: 'Evet, tabii ki.',
-      sv: 'Ja självklart.'
+      sv: 'Ja självklart.',
+      ko: '예, 물론입니다.'
     }
   }]
 }
