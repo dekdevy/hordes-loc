@@ -32,7 +32,8 @@ export default {
       pt: 'Por favor, entregar me $1.',
       cs: 'Přiveďte mě na $ 1.',
       ja: '私を $1 の元に連れて行って',
-      tr: 'Lütfen bana $1 getir.'
+      tr: 'Lütfen bana $1 getir.',
+      sv: 'Ta med mig till $ 1.'
     }]
   }]
 }
