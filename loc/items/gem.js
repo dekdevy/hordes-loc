@@ -19,7 +19,8 @@ export default [
       ja: '小さくて鋭いこのペンダントは戦いの間にあなたの肌に浅い擦り傷を残します。',
       tr: 'Küçük ve keskin, bu kolye savaş sırasında cildinize küçük sıyrıklar bırakır.',
       ht: 'Ti ak byen file, sa a pandye fèy bwa grate ti kras sou po ou pandan batay.',
-      sv: 'Liten och skarp, denna hängsmycke lämnar grunda skrapar på din hud under striden.'
+      sv: 'Liten och skarp, denna hängsmycke lämnar grunda skrapar på din hud under striden.',
+      ko: '작고 날카로운이 펜던트는 전투 중에 피부에 얕은 긁힌 자국을 남깁니다.'
     }
   },
 
@@ -43,7 +44,8 @@ export default [
       ja: 'それを包んでいる奇妙なドルイドの彫刻が付いている粗い円盤形の灰色の石。',
       tr: 'Kaba disk şeklindeki gri taş, onu saran garip rahibesel işlemeler.',
       ht: 'Wouj disk ki gen fòm wòch gri ak etranj grave ekri dris encasing li.',
-      sv: 'Grov skivformad grå sten med konstiga druidiska gravyrer som omsluter den.'
+      sv: 'Grov skivformad grå sten med konstiga druidiska gravyrer som omsluter den.',
+      ko: '거친 디스크 모양의 회색 돌에 이상한 사제 조각이 들어 있습니다.'
     }
   },
 
@@ -67,7 +69,8 @@ export default [
       ja: '強力な透明なガラス製のお守りのかすかな紫の色合いが憂鬱な光の中であなたに世界を見せています。',
       tr: 'Güçlü şeffaf cam tılsım, soluk mor renk tonu size dünyayı melankolik bir ışıkla gösterir.',
       ht: 'Pwisan Talisman transparan an vè, tenti wouj violèt montre ou mond lan nan yon limyè trist.',
-      sv: 'Kraftfull transparent glas talisman, svag lila nyans visar dig världen i ett melankolskt ljus.'
+      sv: 'Kraftfull transparent glas talisman, svag lila nyans visar dig världen i ett melankolskt ljus.',
+      ko: '강력한 투명 유리 부적, 희미한 자주색 색조로 우울한 빛으로 세계를 보여줍니다'
     }
   },
 
@@ -91,7 +94,8 @@ export default [
       ja: '腐敗した香りを放つ茶色の彩度の低い宝石',
       tr: 'Kahverengi doygunluğu azaltılmış mücevher, boynunuza taktığınız gibi kokuşmuş kokular yayar.',
       ht: 'Gwo lous desaturasyon, emèt sant odè ou mete li nan kou ou.',
-      sv: 'Brun desaturerad pärla som ger utspända dofter när du bär den runt nacken.'
+      sv: 'Brun desaturerad pärla som ger utspända dofter när du bär den runt nacken.',
+      ko: '당신의 목에 착용하면 부패한 냄새가 나는 갈색 불포화 보석.'
     }
   },
 
@@ -115,7 +119,8 @@ export default [
       ja: '光沢のある青いアーティファクトは、その球面に沿って走る白っぽく白い静脈を露出させました。',
       tr: 'Parlak mavi eser, küresel yüzeyi boyunca akan incecik beyaz damarlarla bezenmiş.',
       ht: 'Lustrous asosye ble, ekspoze wispy venn blan kouri ansanm sifas esferik li yo.',
-      sv: 'Ljusblå artefakt, exponerade vita vita vener som löper längs sin sfäriska yta.'
+      sv: 'Ljusblå artefakt, exponerade vita vita vener som löper längs sin sfäriska yta.',
+      ko: '광택있는 푸른 유물, 구형 표면을 따라 달려 드는 희미한 흰 정맥.'
     }
   },
 
@@ -139,7 +144,8 @@ export default [
       ja: 'あなたの敵に隠された秘密を明らかにした輝くティティアングラスのような宝石。',
       tr: 'Düşmanlarının gizli sırlarını açığa çıkaran parlayan ışıltılı titian cam benzeri mücevher.',
       ht: 'Radyan jeyan tankou vè ki tankou revele sekrè kache lenmi ou.',
-      sv: 'Strål ande Titian glasliknande pärla avslöjar din fiende gömda hemligheter.'
+      sv: 'Strål ande Titian glasliknande pärla avslöjar din fiende gömda hemligheter.',
+      ko: '적의 숨겨진 비밀을 드러내는 빛나는 타이탄 유리 같은 보석.'
     }
   },
 
@@ -163,7 +169,8 @@ export default [
       ja: 'あなたの敵に嫉妬の感覚を与える深淵な暗い裂け目に囲まれた壮大な赤い宝石。',
       tr: 'Düşmanlarınıza bir kıskançlık hissi veren, karanlık uçurumlarda bulunan büyük kırmızı mücevher.',
       ht: 'Gran wouj gem mete andedan nan fissures fènwa abîme, bay lènmi ou vle di yon jalouzi.',
-      sv: 'Stor röd pärla omslagen i avgrunden mörka sprickor, vilket ger dina fiender en känsla av svartsjuka.'
+      sv: 'Stor röd pärla omslagen i avgrunden mörka sprickor, vilket ger dina fiender en känsla av svartsjuka.',
+      ko: '어두운 붉은 균열에 둘러싸인 웅대 한 붉은 보석. 당신의 적을 질투심을 부여합니다.'
     }
   },
 
@@ -187,7 +194,8 @@ export default [
       ja: '鋭い緑色の縁が太陽の下で輝く光を捉え、美しく致命的な光景を作ります。',
       tr: 'Keskin yeşil kenarlar güneşte parlayan ışıklar saçar, güzel ve ölümcül bir manzara sunar.',
       ht: 'Byen file lizyè vèt trape mousseux limyè nan solèy, li fè yon bèl ak vi trè danjere.',
-      sv: 'De skarpa gröna kanterna får glittrande ljus i solen, vilket gör en vacker och dödlig syn.'
+      sv: 'De skarpa gröna kanterna får glittrande ljus i solen, vilket gör en vacker och dödlig syn.',
+      ko: '날카로운 초록색 가장자리가 태양 빛을 반사하여 아름답고 치명적인 시력을 선사합니다.'
     }
   },
 
@@ -211,7 +219,8 @@ export default [
       ja: '小さくて滑らかで暗いこの宝石は、その手の手の手から外れると危険な特徴を持っています...',
       tr: 'Küçük, pürüzsüz ve karanlık, bu mücevher kaynakçıların ellerinden kaydığı için hain özelliklere sahip ...',
       ht: 'Ti, dous ak fènwa, gem sa a possède trè perfides ke li bons anba men wielders li...',
-      sv: 'Små, släta och mörka, den här pärlan har förrädiska egenskaper som den glider ut från sina handtagshänder ...'
+      sv: 'Små, släta och mörka, den här pärlan har förrädiska egenskaper som den glider ut från sina handtagshänder ...',
+      ko: '작고 매끄럽고 어두운이 보석은 손에 들고있는 손에서 미끄러지 듯 위험한 특성을 가지고 있습니다 ...'
     }
   },
 
@@ -235,7 +244,8 @@ export default [
       ja: '壮観な飽和ピンクプルームは、このファセットプリズム宝石から発生します。あなたの敵は畏敬の念を持ってあなたを見つめています...',
       tr: 'Muhteşem pembe tüyler bu prizmatik cevherden çıkar. Huşu ile sana bakar...',
       ht: 'Gwo saturée plumes penk monte soti nan prismical gem à sa a. Lènmi ou gade nan je ou ak eskente...',
-      sv: 'Spektakulära mättade rosa plumes stiger från denna fasetterade prismiska pärla. Dina fiender att stirra på dig med vördnad ...'
+      sv: 'Spektakulära mättade rosa plumes stiger från denna fasetterade prismiska pärla. Dina fiender att stirra på dig med vördnad ...',
+      ko: '환상적인 포화 분홍색 깃털은이 면면체의 보석으로 유명합니다. 너의 대적이 경외심으로 너를 응시하는 ...'
     }
   },
 
@@ -259,7 +269,8 @@ export default [
       ja: '鮮やかな緑色の光が時折着用者の将来のこのガラス宝石の鋳造物の投影から広がっています。',
       tr: 'Parlak yeşil ışıklar ara sıra, bu cam mücevherin dışına çıkmakta ve kullanıcıların gelecekteki hallerini yansıtmaktadır.',
       ht: 'Tenyen dènye limyè green Okazyonèlman pon nan gem vè sa a, al depoze vòt pwojèksyon yo nan pwochen porteurs.',
-      sv: 'Ljusgröna lampor spänner ibland ut ur den här glasstenen, framkallning av bärarens framtid.'
+      sv: 'Ljusgröna lampor spänner ibland ut ur den här glasstenen, framkallning av bärarens framtid.',
+      ko: '밝은 녹색 불빛이 때때로이 유리 쥬얼리에서 튀어 나와 착용자의 미래를 예측합니다.'
     }
   }
 ]
