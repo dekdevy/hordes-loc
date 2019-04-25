@@ -67,8 +67,7 @@ export default [
       ja: 'つやのあるリング。',
       ht: 'Finalman, yon bag ki klere.',
       sv: 'Slutligen en ring som är glänsande.',
-      ko: '마지막으로, 빛나는 반지.',
-      ht: 'Finalman, yon bag ki klere.'
+      ko: '마지막으로, 빛나는 반지.'
     }
   },
 
@@ -91,7 +90,8 @@ export default [
       cs: 'Prsten ze zbytků minulé noci.',
       ja: '最後の夜の残り物で作られた指輪。',
       sv: 'En ring gjord av nattens rester.',
-      ko: '어젯밤의 남은 음식으로 만든 반지.'
+      ko: '어젯밤의 남은 음식으로 만든 반지.',
+      ht: 'Yon bag te fè nan rès rezèv yè swa a.'
     }
   },
 
