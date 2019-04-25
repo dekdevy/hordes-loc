@@ -17,7 +17,8 @@ export default {
     ht: 'Montre klan',
     cs: 'Klan',
     ja: '一族',
-    sv: 'Klan'
+    sv: 'Klan',
+    bg: 'Клан'
   },
 
   system: {
@@ -37,7 +38,8 @@ export default {
     ht: 'Montre Sistèm',
     cs: 'Systém',
     ja: 'システム',
-    sv: 'System'
+    sv: 'System',
+    bg: 'Система'
   },
 
   // translations not needed
