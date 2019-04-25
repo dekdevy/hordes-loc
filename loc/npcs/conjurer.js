@@ -17,7 +17,8 @@ export default {
       cs: 'Ach, vidím vás cestovatele.  Vzteklý a hladový pohled.  Také se uchylujeme k těmto jemným zemím.  Chcete, abych vás vzal na jednoho?',
       ja: 'ああ、旅人に会いましょう。疲れきってあなたは見ている。私たちもまた、この素晴らしい土地を歩き回っています。私を連れて行ってもらえますか。',
       tr: 'Ah, seni görüyorum gezgin. Yorgun ve kurt gibi aç gözüküyorsun. Bu güzel topraklarda dolaşan biz büyücüler de öyleyiz. Seni bir tanesine götürmemi ister misin?',
-      ko: '아, 여행자 본다. 지치고 캄캄 해 보이는 군. 우리의 연인도이 좋은 땅을 돌아 다닌다. 내가 너를 하나에 데려 갈까?'
+      ko: '아, 여행자 본다. 지치고 캄캄 해 보이는 군. 우리의 연인도이 좋은 땅을 돌아 다닌다. 내가 너를 하나에 데려 갈까?',
+      bg: 'Ах, виждам ви пътешественик. Изморени и уморени изглеждате. Ние, фокусниците, също обикаляме по тези прекрасни земи. Искаш ли да те заведа на едно?'
     },
     choices: [{
       en: 'Please bring me to $1.',
@@ -35,7 +36,8 @@ export default {
       ja: '私を $1 の元に連れて行って',
       tr: 'Lütfen bana $1 getir.',
       sv: 'Ta med mig till $1.',
-      ko: '나를 $1 에 데려다주세요.'
+      ko: '나를 $1 에 데려다주세요.',
+      bg: 'Моля, донесете ми до $ 1.'
     }]
   }]
 }
