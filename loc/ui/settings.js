@@ -16,7 +16,8 @@ export default {
     ko: '설정',
     cs: 'nastavení',
     ja: '設定',
-    sv: 'inställningar'
+    sv: 'inställningar',
+    bg: 'настройки'
   },
 
   // controls section of settings menu
@@ -36,7 +37,8 @@ export default {
     ko: '통제 수단',
     cs: 'řízení',
     ja: 'コントロール',
-    sv: 'kontrollinstrument'
+    sv: 'kontrollinstrument',
+    bg: 'контроли'
   },
 
   lockedcamera: {
@@ -55,7 +57,8 @@ export default {
     ko: '잠긴 카메라',
     cs: 'Zamknutá kamera',
     ja: 'ロックカメラ',
-    sv: 'Låst kamera'
+    sv: 'Låst kamera',
+    bg: 'Заключена камера'
   },
 
   graphics: {
@@ -74,7 +77,8 @@ export default {
     ko: '제도법',
     cs: 'grafika',
     ja: 'グラフィックス',
-    sv: 'grafik'
+    sv: 'grafik',
+    bg: 'графики'
   },
 
   resolution: {
@@ -93,7 +97,8 @@ export default {
     ko: '게임의 해상도',
     cs: 'Rozlišení',
     ja: '解決',
-    sv: 'mötesbeslut'
+    sv: 'mötesbeslut',
+    bg: 'Резолюция'
   },
 
   skilleffects: {
@@ -112,7 +117,8 @@ export default {
     ko: '기술 효과',
     cs: 'Dovednostní efekty',
     ja: 'スキル効果',
-    sv: 'Färdighetseffekter'
+    sv: 'Färdighetseffekter',
+    bg: 'Ефекти на уменията'
   },
 
   shadow: {
@@ -131,7 +137,8 @@ export default {
     ko: '그림자',
     cs: 'Kvalita stínu',
     ja: 'シャドウ品質',
-    sv: 'Skuggkvalitet'
+    sv: 'Skuggkvalitet',
+    bg: 'Качество на сенките'
   },
 
   grassamount: {
@@ -150,7 +157,8 @@ export default {
     ko: '잔디 양',
     cs: 'Množství trávy',
     ja: '草量',
-    sv: 'Gräsbelopp'
+    sv: 'Gräsbelopp',
+    bg: 'Kоличество трева'
   },
 
   chat: {
@@ -169,7 +177,8 @@ export default {
     ko: '잡담',
     cs: 'chatu',
     ja: 'チャット',
-    sv: 'chatt'
+    sv: 'chatt',
+    bg: 'чат'
   },
 
   chatwidth: {
@@ -188,7 +197,8 @@ export default {
     ko: '잡담 폭',
     cs: 'Šířka chatu',
     ja: 'チャット幅',
-    sv: 'Chatt bredd'
+    sv: 'Chatt bredd',
+    bg: 'Ширина на чата'
   },
 
   chatheight: {
@@ -207,7 +217,8 @@ export default {
     ko: '잡담 노피',
     cs: 'Výška chatu',
     ja: 'チャットの高さ',
-    sv: 'Chathöjd'
+    sv: 'Chathöjd',
+    bg: 'Височина на чата'
   },
 
   tutorial: {
@@ -226,7 +237,8 @@ export default {
     ko: ' 지도 시간',
     cs: 'výuku',
     ja: 'チュートリアル',
-    sv: 'handledning'
+    sv: 'handledning',
+    bg: 'настойнически'
   },
 
   reset: {
@@ -245,6 +257,7 @@ export default {
     ko: '재설정 자습서',
     cs: 'Obnovit výuku',
     ja: 'チュートリアルをリセット',
-    sv: 'Återställ handledningen'
+    sv: 'Återställ handledningen',
+    bg: 'Нулиране на урока'
   }
 }
