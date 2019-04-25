@@ -42,6 +42,10 @@ export default {
     bg: 'Система'
   },
 
+  whisper: {
+    en: 'Whisper'
+  },
+
   // translations not needed
   loot: {
     $$: 'Loot'
