@@ -11,17 +11,18 @@ export default {
       pt: 'convidar Party',
       nl: 'uitnodigen Party',
       pl: 'zaproszenie Party',
-      ph: 'Mag-imbita ng partido',
-      bg: 'Покана за парти',
-      el: 'Προσκαλέστε συμβαλλόμενο μέρος',
-      de: 'Partyeinladung',
+      de: 'Party einladung',
       fr: 'Invitation à une party',
       ht: 'Party envite',
       es: 'Party Invita',
-      tr: 'Partye davet et',
-      cs: 'Pozvat stranu',
-      ja: 'パーティー招待',
-      hi: 'party आमंत्रण'
+      tr: 'Party davet et',
+      cs: 'Pozvat party',
+      ja: 'Partyへの招待',
+      hi: 'Party आमंत्रण',
+      sv: 'Party inbjudan',
+      ph: 'Mag-imbita ng partido',
+      bg: 'Покана за парти',
+      el: 'Προσκαλέστε συμβαλλόμενο μέρος'
   },
 
   kick: {
@@ -29,9 +30,6 @@ export default {
       ru: 'Выгнать',
       it: 'calcione Party',
       pt: 'chute Party',
-      ph: 'Ang sipa ng partido',
-      bg: 'Парти',
-      el: 'Κόμμα κόμμα',
       pl: 'kop Party',
       es: 'Sacar del Party',
       de: 'Treten',
@@ -40,8 +38,12 @@ export default {
       nl: 'Paty uitgooien',
       tr: 'Partyden at',
       cs: 'Strana kop',
-      ja: 'パーティーキック',
-      hi: 'party लात'
+      ja: 'Partyキック',
+      hi: 'Party लात',
+      sv: 'Party spark',
+      ph: 'Ang sipa ng partido',
+      bg: 'Парти',
+      el: 'Κόμμα κόμμα'
   },
 
   leave: {
@@ -50,38 +52,40 @@ export default {
       pt: 'sair Party',
       nl: 'verlof Party',
       pl: 'wyjechać Party',
-      de: 'Verlassene Party',
+      de: 'Party Verlassen',
       fr: 'Party de départ',
-      ph: 'Mag-iwan ng party',
-      bg: 'Напускане на партията',
-      el: 'Αφήστε κόμμα',
       ht: 'Kite party',
       ru: 'Выйти',
       es: 'Salir del Party',
       tr: 'Party ayrıl',
       cs: 'Nechte stranou',
-      ja: 'パーティーを離れる',
-      hi: 'छोड़ना party'
+      ja: 'Partyのままに',
+      hi: 'छोड़ना party',
+      sv: 'Lämna arty',
+      ph: 'Mag-iwan ng party',
+      bg: 'Напускане на партията',
+      el: 'Αφήστε κόμμα'
   },
 
   create: {
       en: 'Create party',
       ru: 'Создать party',
       it: 'Crea party',
-      ph: 'Lumikha ng party',
-      bg: 'Създаване на парти',
-      el: 'Δημιουργία πάρτι',
       pt: 'Criar party',
       nl: 'Een party creëren',
       pl: 'Utwórz party',
-      de: 'Partner anlegen',
+      de: 'Party Erstellen',
       fr: 'Créer une party',
       ht: 'Kreye party',
       es: 'Crear party',
       tr: 'Party oluştur',
       cs: 'Vytvořit párty',
-      ja: 'パーティーを作成',
-      hi: 'सर्जन करना party'
+      ja: 'Partyを作成',
+      ph: 'Lumikha ng party',
+      bg: 'Създаване на парти',
+      el: 'Δημιουργία πάρτι',
+      hi: 'सर्जन करना party',
+      sv: 'Skapa party'
   },
 
   onInvite: {
@@ -89,19 +93,21 @@ export default {
       de: '$1 hat dich eingeladen, an ihrer party teilzunehmen.',
       fr: '$1 vous invite à vous joindre à leur party.',
       ht: '$1 envite ou nan party yo.',
-      ph: 'Inanyayahan ka ng $1 na sumali sa kanilang partido.',
-      bg: '$1 ви покани да се присъедините към тях.',
-      el: 'Το $1 σας έχει προσκαλέσει να συμμετάσχετε στο πάρτυ τους.',
       ru: '$1 пригласил вас в party',
       es: '$1 te ha invitado a juntar a su Party.',
       nl: '$1 heeft je uitgenodigd vergezel hun party.',
-      tr: '$1 seni partysine davet etti.',
+      tr: '$1 seni party davet etti.',
       it: '$1 ti ha invitato a unirti alla loro festa.',
       pt: 'O $1 convidou-te para te juntares à festa deles.',
       pl: '$1 zaprosiło cię do przyłączenia się do ich partii.',
+      ph: 'Inanyayahan ka ng $1 na sumali sa kanilang partido.',
+      bg: '$1 ви покани да се присъедините към тях.',
+      el: 'Το $1 σας έχει προσκαλέσει να συμμετάσχετε στο πάρτυ τους.',
       cs: '$1 vás pozval, abyste se připojili k jejich straně.',
-      ja: '$1さんがあなたをパーティーに招待しています。',
-      hi: '$1 उनके party में शामिल होने के लिए आमंत्रित किया है।'
+      ja: '$ 1があなたを彼らのPartyに招待しています。',
+      hi: '$1 उनके party में शामिल होने के लिए आमंत्रित किया है।',
+      sv: '$ 1 har bjudit in dig att gå med i deras party.'
+
   },
 
   // members, as in "12 members in party"
@@ -123,6 +129,7 @@ export default {
       cs: 'Členové',
       ja: 'メンバー',
       ht: 'Manm yo'
+      sv: 'Medlemmar'
   },
 
   link: {
@@ -143,6 +150,7 @@ export default {
       cs: 'Pozvánka',
       ja: '招待状リンク',
       ht: 'Lyen envitasyon'
+      sv: 'Inbjudnings länk'
   },
 
   onLink: {
@@ -163,6 +171,7 @@ export default {
       cs: 'Pošlete tento odkaz ostatním hráčům!  To jim umožní připojit se k vaší straně.',
       ja: '他のプレイヤーにこのリンクを送ってください！これにより、彼らはあなたのパーティーに参加することができます。',
       ht: 'Voye lyen sa a bay lòt jwè yo! Sa a pral pèmèt yo rantre nan pati ou.'
+      sv: 'Skicka den här länken till andra spelare! Detta gör att de kan ansluta sig till din party.'
   },
 
   copyLink: {
@@ -187,5 +196,6 @@ export default {
       ja: 'クリップボードにコピー',
       hi: 'क्लिपबोर्ड पर कॉपी करें',
       ht: 'Kopi nan clipboard'
+      sv: 'Inbjudnings länk'
   }
 }

@@ -7,10 +7,7 @@ export default {
       hi: 'दल से दिखाए',
       it: 'Clan',
       es: 'Clan',
-      de: 'Show-Clan',
-      ph: 'Clan',
-      bg: 'клан',
-      el: 'Φυλή',
+      de: 'Clan',
       fr: 'Afficher le clan',
       ko: '클랜 보이기',
       tr: 'Klan',
@@ -19,29 +16,34 @@ export default {
       pl: 'Pokaż klan',
       ht: 'Montre klan',
       cs: 'Klan',
-      ja: '一族'
+      ph: 'Clan',
+      bg: 'клан',
+      el: 'Φυλή'
+      ja: '一族',
+      sv: 'Klan'
   },
 
   system: {
       en: 'System',
-      /* TODO: Significantly shorten all below, no longer than 7 chars, otherwise just use "clan" */
+      /* TODO: Significantly shorten all below, no longer than 7 chars, otherwise just use "system" */
       ru: 'Система',
       hi: 'सिस्टम से दिखाए',
       it: 'Sistema',
       es: 'Sistema',
       de: 'System anzeigen',
+      ph: 'System',
+      bg: 'Система',
+      el: 'Σύστημα',
       fr: 'Afficher le système',
       ko: '시스템 보이기',
       tr: 'Sistem',
       nl: 'Toon systeem',
       pt: 'Mostrar sistema',
-      ph: 'System',
-      bg: 'Система',
-      el: 'Σύστημα',
       pl: 'System pokazów',
       ht: 'Montre Sistèm',
       cs: 'Systém',
-      ja: 'システム'
+      ja: 'システム',
+      sv: 'System'
   },
 
   // translations not needed

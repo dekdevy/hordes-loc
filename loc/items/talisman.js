@@ -17,7 +17,8 @@ export default [
       nl: 'Ruikt zo erg dat ik me afvraag waarom je het zelfs maar opgepikt',
       ht: 'Li odè jis degoutan, mwen sezi ou menm ranmase li.',
       cs: 'Voní tak špatně, zajímalo by mě, proč jste to dokonce zvedl.',
-      ja: '臭いがひどい私はあなたがなぜそれを拾ったのか不思議に思う。'
+      ja: '臭いがひどい私はあなたがなぜそれを拾ったのか不思議に思う。',
+      sv: 'Luktar så illa, jag undrar varför du ens plockade upp den.'
     }
   },
 
@@ -39,7 +40,8 @@ export default [
       pl: 'Płytka na ramię niektórych stworzeń radzi sobie dobrze, jak również przenośny sprzęt do jedzenia.',
       cs: 'Ramenní deska nějakého stvoření se dobře hodí jako přenosné nádobí.',
       ja: 'いくつかの生き物の肩甲板は携帯用食器としてもうまくいく。',
-      hi: 'कुछ प्राणी किरायों में अच्छी तरह से एक पोर्टेबल खाने बर्तन के कंधे प्लेट।'
+      hi: 'कुछ प्राणी किरायों में अच्छी तरह से एक पोर्टेबल खाने बर्तन के कंधे प्लेट।',
+      sv: 'Axelplattan hos någon varelse är bra som bärbar matredskap.'
     }
   },
 
@@ -61,7 +63,8 @@ export default [
       pl: 'Ciężki naszyjnik, wygładzony i wypolerowany na oślepienie podczas bitwy.',
       cs: 'Těžký náhrdelník, hladký a leštěný, aby vás během bitvy oslepil.',
       ja: 'ヘビーネックレスは戦いの間あなたを盲目にするために滑らかにされて、磨かれました。',
-      hi: 'भारी हार, चिकनी और लड़ाई के दौरान आपको अंधा करने के लिए पॉलिश।'
+      hi: 'भारी हार, चिकनी और लड़ाई के दौरान आपको अंधा करने के लिए पॉलिश।',
+      sv: 'Tung halsband, slät och polerat för att blinda dig under striden.'
     }
   },
 
@@ -83,7 +86,8 @@ export default [
       pl: 'Wstrętny kąsek z zeszłorocznych zbiorów.',
       cs: 'Hnije z poslední sklizně.',
       ja: '去年の収穫からの腐った小片。',
-      hi: 'पिछले साल फसल से एक सड़ा हुआ निवाला।'
+      hi: 'पिछले साल फसल से एक सड़ा हुआ निवाला।',
+      sv: 'En skrämmande parti från senaste års skörd.'
     }
   },
 
@@ -105,7 +109,8 @@ export default [
       pl: 'Cienki plaster granitu, idealny do odbijania się w poprzek fali jeziora.',
       cs: 'Tenký plátek žuly, perfektní k odrazení přes vlnky jezera.',
       ja: '花崗岩の薄片は湖の波紋を越えて跳ねるのに最適です。',
-      hi: 'पतला, ग्रेनाइट का टुकड़ा, झील की लहरों के पार उछल के लिए एकदम सही।'
+      hi: 'पतला, ग्रेनाइट का टुकड़ा, झील की लहरों के पार उछल के लिए एकदम सही।',
+      sv: 'Tunt skiva granit, perfekt för studsande över vattendragen på sjön.'
     }
   },
 
@@ -127,7 +132,8 @@ export default [
       pl: 'Błyszcząca srebrna tkanina mówi, że została skradziona samej Afrodycie.',
       cs: 'Třpytivá stříbrná tkanina, která měla být ukradnuta od Afrodity sama.',
       ja: 'きらめく銀の布はアフロディーテ自身から盗まれたと言われています。',
-      hi: 'झिलमिलाता चांदी कपड़े सौंदर्य खुद की देवी से चोरी हो करने के लिए कहा।'
+      hi: 'झिलमिलाता चांदी कपड़े सौंदर्य खुद की देवी से चोरी हो करने के लिए कहा।',
+      sv: 'Skimrande silver tyg sägs vara stulen från Afrodite själv.'
 
     }
   },
@@ -150,7 +156,8 @@ export default [
       pl: 'Zimno i błękit, wisior kradnie twoje ciepło jako zapłatę za jego efekty...',
       cs: 'Studené a modré, přívěsek krade vaše teplo jako platbu za jeho účinky ...',
       ja: '寒さと青のペンダントはその効果の代償としてあなたの暖かさを盗みます...',
-      hi: 'शीत और नीले, पेंडेंट इसके प्रभाव के लिए एक भुगतान के रूप में अपने गर्मी चुरा ...'
+      hi: 'शीत और नीले, पेंडेंट इसके प्रभाव के लिए एक भुगतान के रूप में अपने गर्मी चुरा ...',
+      sv: 'Kall och blått, hänget hänger din värme som en betalning för dess effekter ...'
     }
   },
 
@@ -172,7 +179,8 @@ export default [
       nl: 'Verrassend genoeg ruikt het niet naar vis. Laat het gewoon niet zoetwater zien.',
       cs: 'Překvapivě to necítí jako ryby. Jen to neukazuj sladkovodní.',
       ja: '驚いたことにそれは魚のような匂いはしません。淡水を見せないでください。',
-      ht: 'Surprenante, li pa pran sant tankou pwason. Jis pa montre li dlo dous.'
+      ht: 'Surprenante, li pa pran sant tankou pwason. Jis pa montre li dlo dous.',
+      sv: 'Överraskande lukter det inte som fisk. Visa bara inte sötvatten.'
     }
   },
 
@@ -194,7 +202,8 @@ export default [
       pl: 'Armie roztrwoniły ten drobiazg, ale wydaje ci się to bezwartościowe...',
       cs: 'Armády promrhaly tuto cetku, ale pro tebe to vypadá bezcenné ...',
       ja: '軍はこの装身具を浪費しましたが、それはあなたには価値がないようです...',
-      hi: 'नाओं इस ताबीज से अधिक गंवा अभी तक यह आप पर बेकार लगता है ...'
+      hi: 'नाओं इस ताबीज से अधिक गंवा अभी तक यह आप पर बेकार लगता है ...',
+      sv: 'Armies slösas bort över den här trinketen men det verkar värdelöst för dig ...'
     }
   },
 
@@ -216,7 +225,8 @@ export default [
       pl: 'Ludzie, krasnoludki i elfy posiadały ten artefakt, przekazując go pokoleniom myśliwych, wojowników i wielkich przywódców bojowych.',
       cs: 'Tento artefakt vlastnili lidé, trpaslíci a elfové, kteří ho předávali generacím lovců, bojovníků a velikých bitevních vůdců.',
       ja: '人間のドワーフとエルフは、このアーティファクトを何世代ものハンター戦士と偉大なバトルリーダーに渡しました。',
-      hi: 'मनुष्य, बौने और बौने इस विरूपण साक्ष्य के स्वामित्व, शिकारी, योद्धा और महान लड़ाई नेताओं की पीढ़ियों के लिए उस पर से गुजर रहा।'
+      hi: 'मनुष्य, बौने और बौने इस विरूपण साक्ष्य के स्वामित्व, शिकारी, योद्धा और महान लड़ाई नेताओं की पीढ़ियों के लिए उस पर से गुजर रहा।',
+      sv: 'Människor, dvärgar och alvor ägde denna artefakt och skickade den vidare till generationer av jägare, krigare och stora slagsledare'
     }
   },
 
@@ -235,11 +245,11 @@ export default [
       ph: 'Ang kulay ng paglubog ng araw na ito ay nagpapaikut-ikot ng mga imahe at mga pagpapakita sa iyong budhi na nagsasabi sa iyong susunod na kasawian.',
       bg: 'Цветът на залеза се преплита с изображения и проекции в съвестта ви, които ви казват следващото си нещастие.',
       el: 'Το χρώμα του ηλιοβασιλέματος σαρώνει τις εικόνες και τις προβολές στη συνείδησή σας που σας λέει την επόμενη ατυχία σας.',
-
       pl: 'Kolor zachodu słońca, roi obrazy i projekcje do twojego sumienia, opowiadając ci o twoim kolejnym nieszczęściu.',
       cs: 'Barva západu slunce, to roje obrazy a projekce do vašeho svědomí, říká vám vaše další neštěstí.',
       ja: '夕焼けの色はそれがあなたの次の不幸を告げるあなたの良心の中にイメージと映写を集める。',
-      hi: 'सूर्यास्त के रंग, यह आपके विवेक में छवियों और अनुमानों झुंड, आप अपने अगले दुर्भाग्य कह।'
+      hi: 'सूर्यास्त के रंग, यह आपके विवेक में छवियों और अनुमानों झुंड, आप अपने अगले दुर्भाग्य कह।',
+      sv: 'Solnedgången svärmer bilder och projektioner i ditt samvete och berättar för din nästa olycka.'
     }
   },
 
@@ -261,7 +271,8 @@ export default [
       pl: 'Intrygujące sploty mithrilu związane z potężną magią, wypełniające Cię tajemniczą energią odczuwaną przez niewielu ludzi żyjących na tym świecie.',
       cs: 'Složité vazby mithrilu vázané na mocnou magii, které vás naplní tajemnou energií, kterou pocítí několik lidí žijících na tomto světě.',
       ja: 'ミスリルの複雑な織り方は、この世界に住む少数の人々によって感じられる神秘的なエネルギーであなたを満たす強力な魔法に結びつきました。',
-      hi: 'धातु की जटिल बुनाई शक्तिशाली जादू करने के लिए बाध्य, एक रहस्यमय ऊर्जा इस दुनिया पर रहने वाले लोगों के कुछ से महसूस के साथ भरने।'
+      hi: 'धातु की जटिल बुनाई शक्तिशाली जादू करने के लिए बाध्य, एक रहस्यमय ऊर्जा इस दुनिया पर रहने वाले लोगों के कुछ से महसूस के साथ भरने।',
+      sv: 'Invecklade vävningar av mithril bunden till kraftfull magi, fyller dig med en mystisk energi som känns av några av de som lever i denna värld.'
     }
   },
 
@@ -283,7 +294,8 @@ export default [
       pl: 'Demoniczne cienie wymykają się ostrzom rzeczywistości, dając ci możliwość wyjścia z potwornych snów.',
       cs: 'Démonické stíny se vyhýbají ostřím reality a dávají vám opuštění monstrózních snů.',
       ja: '悪魔のような影が現実の羽根を避けてあなたがあなたの敵に去ってゆく巨大な夢を与えます。',
-      hi: ''
+      hi: 'राक्षसी छाया वास्तविकता के ब्लेड से निकलती है, जिससे आपको अपने दुश्मनों के सपनों को छोड़ना पड़ता है।',
+      sv: 'Demoniska skuggor undviker verklighetens knivar, vilket gör att du lämnar in i dina fiender monsterliga drömmar.'
     }
   },
 
@@ -305,7 +317,8 @@ export default [
       pl: 'Twój przeciwnik ma halucynacyjny stan umysłu wywołany przez ten błyskotka pozwala na to, by twoje przebiegłe ciosy były prawdziwe.',
       cs: 'Tvoji nepřátelé halucinační stav mysli, který na tuto cetku přivedl, dovolí, aby vaše šikovné rány udeřily na pravdu.',
       ja: 'この装身具によってもたらされるあなたの敵の幻覚的な心の状態はあなたの狡猾な一撃が真実を打つことを可能にします。',
-      hi: 'आपका शत्रु मन की भ्रमात्मक राज्य पर से इस ताबीज परमिट अपने चालाक चल रही है सच हड़ताल करने के लिए लाया।'
+      hi: 'आपका शत्रु मन की भ्रमात्मक राज्य पर से इस ताबीज परमिट अपने चालाक चल रही है सच हड़ताल करने के लिए लाया।',
+      sv: 'Dina fiender hallucinatory sinnestillstånd som medförs av denna pricket tillåter din listiga slag att slå sant.'
     }
   },
 
@@ -327,7 +340,8 @@ export default [
       pl: 'Głęboki ciemnoniebieski talizman, śledzenie wzorów w Twojej duszy, wzmacnianie, odbudowa i renowacja dla świata nieśmiertelności.',
       cs: 'Hluboký tmavě modrý talisman, stopy ve vaší duši, posilování, přestavba a renovace pro svět nesmrtelnosti',
       ja: 'あなたの魂の中の濃い紺色のお守りは、再建を強化し、不死の世界のために改装を強化します。',
-      hi: 'दीप गहरे नीले रंग की ताबीज, अपनी आत्मा में पैटर्न का पता लगाने, मजबूत, पुनर्निर्माण और अमरता की दुनिया के लिए मरम्मत।'
+      hi: 'दीप गहरे नीले रंग की ताबीज, अपनी आत्मा में पैटर्न का पता लगाने, मजबूत, पुनर्निर्माण और अमरता की दुनिया के लिए मरम्मत।',
+      sv: 'Djup mörkblå talisman, spårande mönster i din själ, förstärkning, ombyggnad och renovering av odödlighetens värld.'
     }
   }
 

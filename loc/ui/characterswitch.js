@@ -5,23 +5,22 @@ export default {
       ru: 'Выйти',
       hi: 'बाहर आए',
       es: 'Dejar Juego', // TODO: shorten
-      de: 'Abmeldung',
+      de: 'Abmelden',
       fr: 'Déconnexion',
       ko: '로그 아웃',
       bl: 'Излез от профила', // TODO: shorten
       cs: 'Odhlásit se',
       el: 'Αποσυνδέση',
       ja: 'ログアウト',
-      ph: 'Mag-log Out',
-      bg: 'Излез от профила си',
-      el: 'Αποσυνδέση',
       sv: 'Logga ut',
-      ph: 'Mag-log Out',
       tr: 'Çıkış Yap',
       nl: 'Uitloggen',
       pt: 'Terminar sessão', // TODO: shorten
       pl: 'Wyloguj się',
       ht: 'Dekonekte'
+      bg: 'Излез от профила си',
+      el: 'Αποσυνδέση',
+      ph: 'Mag-log Out',
   },
 
   home: {
