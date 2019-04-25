@@ -17,7 +17,7 @@ export default {
     pl: 'Łucznik',
     ro: 'Arcaș',
     cs: 'Lukostřelec',
-	el: 'Τοξότης',
+    el: 'Τοξότης',
     bg: 'стрелец с лък',
     ja: '射手'
   },
