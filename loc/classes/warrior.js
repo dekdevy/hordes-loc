@@ -27,7 +27,7 @@ export default {
     en: 'Warriors are built to tank more monsters than any other class by having high defense through equipment (Shields) and strong defensive buffs.',
     sv: 'Krigare är byggda för att tåla mer skada än alla andra klasser genom högt försvar från sin utrustning (Sköld) och starka försvars Buffar.',
     ru: 'Воины построены для того, чтобы танковать больше монстров чем любой другой класс, имея хорошую защиту с помощью снаряжения (Щита) и сильных защитных усилений.',
-    de: 'Krieger sind so gebaut, dass sie mehr Monster als jede andere Klasse besiegen, indem sie eine hohe Verteidigung durch Ausrüstung (Schilde) und starke Verteidigungszauber haben.',
+    de: 'Krieger sind so gebaut, dass sie mehrere Monster auf einmal aushalten können, da sie eine hohe Verteidigung rate durch Ausrüstung (Schilde) und starke defensive buffs haben.',
     es: 'Soldados son los tanques de la guerra, soldados luchan para el honor y gloria de la batalla. Ellos pueden aguantar un gran cantidad de daño de todo los otro clases con sus escudos y buffs de defensa.',
     fr: 'Les guerriers sont conçus pour attaquer plus de monstres que n\'importe quelle autre classe en ayant une défense élevée grâce à ses équipements (boucliers) et des buffs défensifs puissants.',
     hi: 'सर्वश्रेष्ठ रक्षा उपकरण और ताक़तवर कवच के उपयोग से सारी श्रेणियो में योधा सबसे अधिक मार रोक सकते हैं।',

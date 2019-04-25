@@ -7,18 +7,19 @@ export default {
       es: 'configuración',
       de: 'Einstellungen',
       fr: 'paramétrage',
+      nl: 'instellingen',
+      tr: 'ayarlar',
       ph: 'mga setting',
       bg: 'настройки',
       el: 'Ρυθμίσεις',
-      nl: 'instellingen',
-      tr: 'ayarlar',
       pt: 'Ajustes',
       pl: 'nastawy',
       ht: 'ajisteman',
       it: 'impostazioni',
       ko: '설정',
       cs: 'nastavení',
-      ja: '設定'
+      ja: '設定',
+      sv: 'inställningar'
   },
 
   // controls section of settings menu
@@ -31,16 +32,17 @@ export default {
       fr: 'commandes',
       tr: 'kontroller',
       nl: 'bediening',
-      ph: 'mga kontrol',
-      bg: 'контроли',
-      el: 'ελέγχους',
       pt: 'controles',
       pl: 'kontrole',
       ht: 'kontwòl yo',
       it: 'regolazione',
       ko: '통제 수단',
       cs: 'řízení',
-      ja: 'コントロール'
+      ph: 'mga kontrol',
+      bg: 'контроли',
+      el: 'ελέγχους',
+      ja: 'コントロール',
+      sv: 'kontrollinstrument'
   },
 
   lockedcamera: {
@@ -51,17 +53,18 @@ export default {
       de: 'Gesperrte Kamera',
       fr: 'Caméra verrouillée',
       tr: 'Kilitli kamera',
-      ph: 'Naka-lock na camera',
-      bg: 'Заключена камера',
-      el: 'Κλειδωμένη κάμερα',
       nl: 'Gesloten camera',
       pt: 'câmera bloqueada',
       pl: 'Zamknięta kamera',
+      ph: 'Naka-lock na camera',
+      bg: 'Заключена камера',
+      el: 'Κλειδωμένη κάμερα',
       ht: 'Kamera fèmen',
       it: 'telecamera bloccata',
       ko: '잠긴 카메라',
       cs: 'Zamknutá kamera',
-      ja: 'ロックカメラ'
+      ja: 'ロックカメラ',
+      sv: 'Låst kamera'
   },
 
   graphics: {
@@ -71,18 +74,19 @@ export default {
       es: 'gráficos',
       de: 'Grafiken',
       fr: 'schémas',
+      nl: 'grafischen',
+      tr: 'grafikler',
       ph: 'graphics',
       bg: 'графики',
       el: 'γραφικών',
-      nl: 'grafischen',
-      tr: 'grafikler',
       pt: 'gráficos',
       pl: 'grafika',
       ht: 'grafik',
       it: 'grafica',
       ko: '제도법',
       cs: 'grafika',
-      ja: 'グラフィックス'
+      ja: 'グラフィックス',
+      sv: 'grafik'
   },
 
   resolution: {
@@ -91,11 +95,11 @@ export default {
       hi: 'रेसोलूशन',
       es: 'Resolución',
       de: 'Auflösung',
-      fr: 'Résolution',
-      nl: 'Resolution',
       ph: 'Resolution',
       bg: 'Резолюция',
       el: 'Ανάλυση',
+      fr: 'Résolution',
+      nl: 'Resolution',
       tr: 'Çözünürlük',
       pt: 'Resolução',
       pl: 'Rozdzielczość',
@@ -103,7 +107,8 @@ export default {
       it: 'delibera',
       ko: '게임의 해상도',
       cs: 'Rozlišení',
-      ja: '解決'
+      ja: '解決',
+      sv: 'mötesbeslut'
   },
 
   skilleffects: {
@@ -113,10 +118,10 @@ export default {
       es: 'Efectos de habilidades',
       de: 'Fertigkeitseffekte',
       fr: 'Effets de compétences',
+      nl: 'Vaardigheidseffecten',
       ph: 'Mga epekto sa kasanayan',
       bg: 'Ефекти на уменията',
       el: 'Επιπτώσεις δεξιοτήτων',
-      nl: 'Vaardigheidseffecten',
       tr: 'Yetenek efektleri',
       pt: 'Efeitos de habilidade',
       pl: 'Efekty umiejętności',
@@ -124,7 +129,8 @@ export default {
       it: 'effetti di abilità',
       ko: '기술 효과',
       cs: 'Dovednostní efekty',
-      ja: 'スキル効果'
+      ja: 'スキル効果',
+      sv: 'Färdighetseffekter'
   },
 
   shadow: {
@@ -134,10 +140,10 @@ export default {
       es: 'Calidad de sombra',
       de: 'Schattenqualität',
       fr: 'Qualité de l\'ombre',
-      nl: 'Schaduwkwaliteit',
       ph: 'Kalidad ng anino',
       bg: 'Качество на сенките',
       el: 'Ποιότητα σκιάς',
+      nl: 'Schaduwkwaliteit',
       tr: 'Gölge kalitesi',
       pt: 'Qualidade de sombras',
       pl: 'Jakość cienia',
@@ -145,7 +151,8 @@ export default {
       it: 'Qualità dell\'ombra',
       ko: '그림자',
       cs: 'Kvalita stínu',
-      ja: 'シャドウ品質'
+      ja: 'シャドウ品質',
+      sv: 'Skuggkvalitet'
   },
 
   grassamount: {
@@ -166,7 +173,8 @@ export default {
       it: 'Quantità d\'erba',
       ko: '잔디 양',
       cs: 'Množství trávy',
-      ja: '草量'
+      ja: '草量',
+      sv: 'Gräsbelopp'
   },
 
   chat: {
@@ -178,16 +186,17 @@ export default {
       fr: 'clavardage',
       nl: 'praten',
       tr: 'sohbet',
+      pt: 'bate-papo',
       ph: 'chat',
       bg: 'чат',
       el: 'κουβέντα',
-      pt: 'bate-papo',
       pl: 'pogawędka',
       ht: 'chat',
       it: 'chiacchierata',
       ko: '잡담',
       cs: 'chatu',
-      ja: 'チャット'
+      ja: 'チャット',
+      sv: 'chatt'
   },
 
   chatwidth: {
@@ -200,15 +209,16 @@ export default {
       nl: 'Chatbreedte',
       tr: 'Chat genişliği',
       pt: 'Largura do chat',
-      pl: 'Szerokość rozmowy',
       ph: 'Lapad ng chat',
       bg: 'Ширина на чата',
       el: 'Συνομιλία πλάτος',
+      pl: 'Szerokość rozmowy',
       ht: 'Lajè chat',
       it: 'Larghezza della chat',
       ko: '잡담 폭',
       cs: 'Šířka chatu',
-      ja: 'チャット幅'
+      ja: 'チャット幅',
+      sv: 'Chatt bredd'
   },
 
   chatheight: {
@@ -220,16 +230,16 @@ export default {
       fr: 'Hauteur de clavardage',
       nl: 'Chathoogte',
       tr: 'Chat yükskliği',
-      ph: 'Taas ng chat',
-      bg: 'Височина на чата',
-      el: 'Ύψος συνομιλίας',
       pt: 'Altura do chat',
       pl: 'Wysokość rozmowy',
-      ht: 'Wotè chat',
+      ph: 'Taas ng chat',
+      bg: 'Височина на чата',
+      el: 'Ύψος συνομιλίας',      ht: 'Wotè chat',
       it: 'Altezza della chat',
       ko: '잡담 노피',
       cs: 'Výška chatu',
-      ja: 'チャットの高さ'
+      ja: 'チャットの高さ',
+      sv: 'Chathöjd'
   },
 
   tutorial: {
@@ -241,16 +251,17 @@ export default {
       fr: 'didacticiel',
       nl: 'handleiding',
       tr: 'öğretici',
+      pt: 'tutorial',
       ph: 'pagtuturo',
       bg: 'настойнически',
       el: 'φροντιστήριο',
-      pt: 'tutorial',
       pl: 'przewodnik',
       ht: 'leson patikilye',
       it: 'tutorial',
       ko: ' 지도 시간',
       cs: 'výuku',
-      ja: 'チュートリアル'
+      ja: 'チュートリアル',
+      sv: 'handledning'
   },
 
   reset: {
@@ -271,6 +282,7 @@ export default {
       it: 'Ripristina tutorial',
       ko: '재설정 자습서',
       cs: 'Obnovit výuku',
-      ja: 'チュートリアルをリセット'
+      ja: 'チュートリアルをリセット',
+      sv: 'Återställ handledningen'
   }
 }
