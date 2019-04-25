@@ -16,6 +16,8 @@ export default {
     ht: 'Mage',
     pl: 'Mag',
     cs: 'Kouzelník',
+    el: 'Mage',
+    bg: 'Магьосник',
     ja: 'メイジ',
     ro: 'Magician'
   },
@@ -36,6 +38,8 @@ export default {
     ht: 'Maj kontra gwo echèl gwo Zòn domaj nan efè, pandan y ap tou bay sèvis piblik nan ralanti sib ak majik ki baze sou glas yo.',
     pl: 'Magowie zadają bardzo duże obrażenia obszarowe na dużą skalę, dostarczając jednocześnie narzędzia poprzez spowalnianie celów za pomocą magii opartej na lodzie.',
     cs: 'Mágové se zabývají velmi těžkým rozsahem škod způsobených rozsáhlým rozsahem a zároveň poskytují pomůcku prostřednictvím zpomalení cílů s jejich kouzlem založeným na ledu.',
+    el: 'Οι Mages ασχολούνται με πολύ βαρύς μεγάλης κλίμακας ζημιές Περιοχή Εφέ ενώ παράλληλα παρέχουν χρησιμότητα μέσω της επιβράδυνσης των στόχων με τη μαγεία που βασίζεται στον πάγο',
+    bg: 'Маговете се занимават с много тежки размери на площта на щетите на ефектите, като същевременно осигуряват полезност чрез забавяне на целите с помощта на ледената си магия.',
     ja: '魔術師は、非常に重い大規模な効果領域ダメージを与えながら、氷をベースにした魔法でターゲットを減速させることで有用性も提供します。',
     ro: 'Magicienii cauzează daune considerabile la scară largă, fiind în același timp folositori prin încetinirea țintelor cu ajutorul magiei lor pe bază de gheață.'
   }
