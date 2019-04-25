@@ -122,7 +122,7 @@ export default [
       nl: 'Niets bijzonders aan dit wapen, alleen het dijbeen van een lich.',
       ph: 'Walang magarbong tungkol sa sandata na ito ang femur ng isang lich.',
       bg: 'Нищо необичайно за това оръжие, само за бедрената кост на лич.',
-      el: 'Τίποτα δεν φαντάζεται γι 'αυτό το όπλο μόνο το μηριαίο υγρό.',
+      el: 'Τίποτα δεν φαντάζεται γι \'αυτό το όπλο μόνο το μηριαίο υγρό.',
       pl: 'Nie ma nic ciekawego w tej broni, tylko kość udowa licha.',
       it: 'Non c\'e\' niente di speciale in quest\'arma, solo il femore di una lich.',
       cs: 'Na této zbrani není nic zajímavého, jen femur licha.',

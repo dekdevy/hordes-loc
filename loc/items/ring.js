@@ -264,7 +264,7 @@ export default [
       nl: 'Bewaarder van de vrede....niet zeker, maar het kan je in leven houden...',
       ph: 'Tagapangalaga ng kapayapaan .... hindi sigurado tungkol sa bagay na iyon ngunit maaaring panatilihing buhay ka ....',
       bg: 'Пазител на мира .... не съм сигурен в това, но може да те запази жив ....',
-      el: 'Φύλακας της ειρήνης ... δεν είμαι σίγουρος γι 'αυτό αλλά μπορεί να σας κρατήσει ζωντανό ...',
+      el: 'Φύλακας της ειρήνης ... δεν είμαι σίγουρος γι \'αυτό αλλά μπορεί να σας κρατήσει ζωντανό ...',
       pl: 'Strażnik spokoju...nie jestem tego pewien, ale może to utrzyma cię przy życiu...',
       it: 'Custode di pace...non ne sono sicuro, ma potrebbe tenervi in vita...',
       cs: 'Strážce míru ... není si tím jistý, ale může vás udržet naživu.',
