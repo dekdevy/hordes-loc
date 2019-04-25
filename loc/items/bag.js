@@ -21,8 +21,6 @@ export default [
       ht: 'Valiz ti kras la itilize yo dwe itilize pa madanm yo nan komèsan yo.',
       hi: 'छोटे छोटे व्यापारी की पत्नियों द्वारा प्रयोग किया जाता पर्स।',
       ko: '상인의 아내가 사용하는 작은 지갑.',
-      el: 'Μικρό πορτοφόλι που χρησιμοποιούν οι σύζυγοι των εμπόρων.',
-      bg: 'Малка кесия, използвана от съпругите на търговците.',
       ro: 'O mică poșetă folosită de soțiile negustorilor.'
     }
   },
@@ -49,8 +47,6 @@ export default [
       ht: 'Bouk la vo pi plis pase nenpòt lòt bagay.',
       hi: 'बकसुआ बाकी की तुलना में अधिक के लायक है।',
       ko: '버클은 그 나머지 부분보다 더 가치가 있습니다.',
-      bg: 'Ключалката струва повече от останалата част.',
-      el: 'Η πόρπη αξίζει περισσότερο από το υπόλοιπο.',
       ro: 'Catarama merită mai mult decât restul.'
     }
   },
@@ -77,8 +73,6 @@ export default [
       ht: 'Valiz valiz bèl pou nenpòt ki vwayajè bezwen yo.',
       hi: 'अपने सभी यात्रा की जरूरत के लिए अच्छा बैंगनी रूकसाक।',
       ko: '모든 여행에 필요한 멋진 보라색 배낭.',
-      el: 'Νίκαια μοβ σακίδιο για όλες τις ανάγκες σας.',
-      bg: 'Приятна пурпурна раница за всички ваши нужди.',
       ro: 'Un rucsac frumos violet pentru toate nevoile tale.'
     }
   },
