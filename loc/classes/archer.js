@@ -30,7 +30,7 @@ export default {
     de: 'Bogenschützen verursachen hohen einzelzielschaden und Berstenden Wirkungsbereich. Ein guter Bogenschütze wird immer Abstand halten und Feinde aus der Ferne schnippen.',
     nl: 'Boogschutters groot enkel doelschade en barstenschade aan het gebied van het effect toe. Een goede boogschutter zal altijd afstand houden en vijanden uit de verte vernietigen.',
     tr: 'Okçular tekli hedefe yüksek zarar verir ve aralıklı alan etkili hasar verir. İyi bir okçu her zaman mesafesini korur ve hedeflerini uzaktan avlar.',
-    hi: 'धनुराशि उच्च एकल लक्ष्य क्षति और प्रभाव क्षति के त्वरित क्षेत्र से निपटते हैं। एक अच्छा तीरंदाज हमेशा अपनी दूरी बनाए रखेगा और दुश्मनों को दूर से ही मार देगा।',
+    hi: 'धनुरधारी उच्च एकल लक्ष्य क्षति और प्रभाव क्षति के त्वरित क्षत्रुऔ से निपटते हैं। एक अच्छा धनुरधारी हमेशा अपनी दूरी बनाए रखेगा और दुश्मनों को दूर से ही मार देगा।',
     it: 'Gli arcieri infliggono danni da bersaglio singolo e danno da area di effetto. Un buon arciere manterrà sempre le distanze e tirerà i nemici da lontano.',
     ht: 'Banza kontra segondè sib domaj segondè ak pete Zòn domaj nan efè. Yon bon Archer ap toujou kenbe distans yo ak kritike lènmi soti byen lwen.',
     pl: 'Łucznicy zadają wysokie obrażenia pojedynczego celu i zadają duże obrażenia obszarowe. Dobry łucznik zawsze będzie trzymał dystans i ostrzeliwuje wrogów z daleka.',
