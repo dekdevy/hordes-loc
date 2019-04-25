@@ -78,7 +78,7 @@ export default [
       fr: 'Bijou brun désaturé, émettant des senteurs putrides lorsque vous le portez autour de votre cou.',
       nl: 'Bruine desaturated edelsteen, die rottende geuren afgeeft terwijl je het om je nek draagt.',
       el: 'Καφέ αποκορεσμένο κόσμημα που εκπέμπει ξεθωριασμένα αρώματα καθώς το φοράτε γύρω από το λαιμό σας.',
-      bg: 'Кафяво денатуриран скъпоценен камък, излъчващ гнилови миризми, докато го носите около врата си.',,
+      bg: 'Кафяво денатуриран скъпоценен камък, излъчващ гнилови миризми, докато го носите около врата си.',
       pl: 'Brązowy, mniej nasycony klejnot, wydzielający zgniłe zapachy, gdy nosisz go na szyi.',
       pt: 'Jóia marrom desaturada, emitindo cheiros fétidos ao usá-la ao redor do pescoço.',
       it: 'Una gemma marrone desatura, che emette profumi putridi quando la si indossa intorno al collo.',

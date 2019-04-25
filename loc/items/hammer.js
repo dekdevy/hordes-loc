@@ -337,7 +337,7 @@ export default [
       hi: 'यह शक्ति दुनिया समाप्त करने के लिए है? कुछ कह सकते हैं। यदि ऐसा है, हम लंबे इसके बारे में जानने के लिए पर्याप्त नहीं रह जाएगा।',
       es: '¿Tiene el poder de acabar con los mundos? Pocos pueden decirlo. Si lo hace, no viviremos lo suficiente para aprenderlo.',
       de: 'Hat sie die Macht, Welten zu beenden? Nur wenige können das sagen. Wenn dies der Fall ist, werden wir nicht lange genug leben, um davon zu erfahren.',
-      el: 'Έχει τη δύναμη να τερματίσει τους κόσμους; Λίγοι μπορούν να πουν. Αν το κάνει, δεν θα ζήσουμε αρκετά για να μάθουμε γι 'αυτό.',
+      el: 'Έχει τη δύναμη να τερματίσει τους κόσμους; Λίγοι μπορούν να πουν. Αν το κάνει, δεν θα ζήσουμε αρκετά για να μάθουμε γι \'αυτό.',
       bg: 'Има ли силата да прекратява светове? Малцина могат да кажат. Ако го направи, няма да живеем достатъчно дълго, за да научим за него.',
       fr: 'A-t-il le pouvoir de mettre fin aux mondes ? Peu de gens peuvent le dire. Si c\'est le cas, nous ne vivrons pas assez longtemps pour l\'apprendre.',
       pt: 'Tem o poder de acabar com mundos? Poucos podem dizer. Se o fizer, não viveremos tempo suficiente para aprender com ele.',

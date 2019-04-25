@@ -216,7 +216,7 @@ export default [
       pt: 'Forjado sem calor, usado sem medo.',
       nl: 'Gesmeed zonder warmte, gedragen zonder angst.',
       pl: 'Kute bez ciepła, noszone bez strachu.',
-      pl: 'Peke na walang init pagod na walang takot.',
+      ph: 'Peke na walang init pagod na walang takot.',
       bg: 'Ковано без топлина, носена без страх.',
       it: 'Forgiato senza calore, indossato senza paura.',
       fr: 'Forgé sans chaleur, porté sans crainte.',
