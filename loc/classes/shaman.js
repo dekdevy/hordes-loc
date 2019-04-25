@@ -17,8 +17,8 @@ export default {
     pl: 'Szaman',
     cs: 'Šaman',
     ja: 'シャーマン',
-	el: 'Shaman',
-	bg: 'шаман',
+    el: 'Shaman',
+    bg: 'шаман',
     ro: 'Șaman'
   },
   // Class description, visible during character creation
