@@ -17,7 +17,7 @@ export default {
     pl: 'Wojownik',
     cs: 'Bojovník',
     ja: '戦士',
-    el: 'Πολεμιστής',',
+    el: 'Πολεμιστής',
     bg: 'войн',
     ro: 'Războinic'
   },
