@@ -18,7 +18,8 @@ export default {
       tr: 'Selam dolaşan gezgin! Bir şeyler satmak ister misin?',
       sv: 'Hälsningar vandrande resenären! Vill du sälja något?',
       ko: '안녕 방랑 여행자! 뭔가 팔고 싶니?',
-      bg: 'Поздрави пътешественик! Искате ли да продадете нещо?'
+      bg: 'Поздрави пътешественик! Искате ли да продадете нещо?',
+      el: 'Χαιρετισμοί περιπλανώμενος ταξιδιώτης!  Θα θέλατε να πουλήσετε κάτι'
     },
     choices: {
       en: 'Yes, of course.',
@@ -38,6 +39,7 @@ export default {
       sv: 'Ja självklart.',
       ko: '예, 물론입니다.',
       bg: 'Да разбира се.'
+      el: 'Ναι φυσικά.'
     }
   }]
 }
