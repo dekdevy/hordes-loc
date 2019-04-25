@@ -7,7 +7,7 @@ export default {
       en: 'Select Character',
       sv: 'Välj Karaktär',
       ru: 'Выберите Персонажа',
-      fr: 'Sélectionnez un personnage',
+      fr: 'Sélectionnez un personnage', // TODO: shorten
       hi: 'स्वरूप चुने',
       es: 'Seleccione Carácter',
       de: 'Charakter auswählen',
@@ -31,13 +31,13 @@ export default {
       ru: 'Нажмите, чтобы создать персонажа',
       hi: 'स्वरूप बानाने के लिए क्लिक करे',
       es: 'Haga clic para crear un personaje',
-      de: 'Klicken Sie hier, um einen Charakter zu erstellen.',
+      de: 'Klicken Sie hier, um einen Charakter zu erstellen.', // TODO: shorten
       fr: 'Cliquez pour créer le personnage',
       ko: '캐릭터를 만들려면 클릭하십시오',
       tr: 'Karakter yaratmak için tıkla',
       bg: 'Кликнете, за да създадете знак',
       cs: 'Kliknutím vytvoříte znak',
-      el: 'Κάντε κλικ για να δημιουργήσετε χαρακτήρα',
+      el: 'Κάντε κλικ για να δημιουργήσετε χαρακτήρα', // TODO: shorten
       ja: 'クリックしてキャラクターを作成',
       ph: 'I-click upang lumikha ng character',
       it: 'Clicca per creare il personaggio',
@@ -65,7 +65,8 @@ export default {
       it: 'Entra nel mondo',
       pl: 'Wejdź do świata',
       nl: 'Betreed de wereld',
-      pt: 'Entre no mundo'
+      pt: 'Entre no mundo',
+      ht: 'Antre Lemonn'
     },
 
     emptySlot: {
@@ -78,16 +79,16 @@ export default {
       fr: 'Vide',
       ko: '빈 슬롯',
       tr: 'Boş',
-      bg: 'Празен слот',
-      cs: 'Prázdné místo',
-      el: 'Κενή υποδοχή',
+      bg: 'Празен',
+      cs: 'Prázdný',
+      el: 'Κενή υποδοχή', // TODO: shorten
       ja: '空きスロット',
-      ph: 'Bakanteng pwesto',
+      ph: 'Bakanteng pwesto', // TODO: shorten
       it: 'Slot vuoto',
-      pl: 'Puste miejsce',
+      pl: 'Pusty',
       nl: 'Leeg',
       pt: 'Vazio',
-      ht: 'Antre nan mond lan'
+      ht: 'Vide'
     },
 
     error: {
@@ -209,15 +210,15 @@ export default {
       ru: 'Введите имя',
       fr: 'Entrez un nom',
       hi: 'नाम डाले',
-      es: 'Introduzca un nombre',
-      de: 'Geben Sie einen Namen ein',
+      es: 'Ponga nombre',
+      de: 'Geben Sie einen Namen ein', // TODO: shorten
       ko: '이름 입력',
       tr: 'Bir isim gir',
       bg: 'Въведете име',
       cs: 'Zadejte název',
-      el: 'Εισαγάγετε ένα όνομα',
+      el: 'Εισαγάγετε ένα όνομα', // TODO: shorten
       ja: '名前を入力してください',
-      ph: 'Magpasok ng isang pangalan',
+      ph: 'Magpasok ng isang pangalan', // TODO: shorten
       it: 'Inserisci un nome',
       pl: 'Wpisz imię',
       nl: 'Voer een naam in',

@@ -11,7 +11,11 @@ export default [
       pt: 'Suave, cheio de buracos. As setas continuam caindo.',
       hi: 'मुलायम और गद्दों से भारी हुई। सारे तीर गिरते रहते है।',
       nl: 'Zacht, vol gaten. Pijlen blijven uitvallen.',
-      pl: 'Miękka, pełna dziur. Strzałki wciąż wypadają.'
+      pl: 'Miękka, pełna dziur. Strzałki wciąż wypadają.',
+      ht: 'Mou, plen twou. Flèch yo kontinye tonbe.',
+      cs: 'Měkká, plná děr. Šipky stále vypadávají.',
+      ja: '柔らかい穴だらけ。矢印は抜け続けます。',
+      sv: 'Mjuk, full av hål. Pilarna fortsätter att falla ut.'
     }
   },
 
@@ -27,7 +31,11 @@ export default [
       pt: 'Saco de linho coberto de couro rígido.',
       hi: 'सख़्त चमड़े से ढकी लिनन की पोती।',
       nl: 'Linnenzak bedekt met stijf leer.',
-      pl: 'Lniany worek pokryty sztywną skórą.'
+      pl: 'Lniany worek pokryty sztywną skórą.',
+      ht: 'Sak twal fin blan kouvri nan kwi rèd.',
+      cs: 'Plátěný pytel pokrytý tuhou kůží.',
+      ja: 'リネンの袋は硬い革で覆われています。',
+      sv: 'Linnesäck täckt av styvt läder.'
     }
   },
 
@@ -43,7 +51,11 @@ export default [
       pt: 'Usado quando tudo o resto falha.',
       hi: 'आख़री रास्ता यही है',
       nl: 'Wordt gebruikt als al het andere faalt.',
-      pl: 'Używane, gdy wszystko inne zawodzi.'
+      pl: 'Używane, gdy wszystko inne zawodzi.',
+      ht: 'Itilize lè tout lòt bagay echwe.',
+      cs: 'Používá se, když všechno ostatní selže.',
+      ja: '他のすべてが失敗したときに使用されます。',
+      sv: 'Används när allt annat misslyckas.'
     }
   },
 
@@ -59,7 +71,11 @@ export default [
       pt: 'Aljava elfica revestida com diamante cintilante.',
       hi: 'एल्वेन पोटली, हीरों से जड़ी।',
       nl: 'Elven koker gecoat in glinsterende diamant.',
-      pl: 'Elficki kołczan pokryty błyszczącym diamentem.'
+      pl: 'Elficki kołczan pokryty błyszczącym diamentem.',
+      ht: 'Flè Elven kouvwi ak dyaman chatwayant.',
+      cs: 'Elven potápěč potažený třpytivým diamantem.',
+      ja: 'きらめくダイヤモンドでコーティングされたエルフの矢筒。',
+      sv: 'Koger av älvor belagda i skimrande diamant.'
     }
   },
 
@@ -75,7 +91,11 @@ export default [
       pt: 'Sempre que puxas uma flecha para fora, ela sibila para ti.',
       hi: 'तीर निकालने पर साँप की तरह फूफकारती है।',
       nl: 'Elke keer als je een pijl eruit trekt, sist het naar je.',
-      pl: 'Za każdym razem, gdy wyciągasz strzałę, syczysz na siebie.'
+      pl: 'Za każdym razem, gdy wyciągasz strzałę, syczysz na siebie.',
+      ht: 'Chak fwa ou rale yon flèch soti, li sifle nan ou.',
+      cs: 'Pokaždé, když vytáhnete šipku, zasyče na vás.',
+      ja: 'あなたが矢を引き出すたびにそれはあなたに向かっている。',
+      sv: 'Varje gång du drar en pil ut hissar den på dig.'
     }
   }
 

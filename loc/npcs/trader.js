@@ -8,7 +8,14 @@ export default {
       de: 'Grüße wandernder Reisender! Möchtest du etwas verkaufen?',
       fr: 'Salutations voyageur errant! Vous voulez vendre quelque chose?',
       it: 'Viaggiatore errante di saluti! gradite vendere qualcosa?',
-      ht: 'Bonjou vwayajè! Vle vann yon bagay?'
+      ht: 'Bonjou vwayajè! Vle vann yon bagay?',
+      pl: 'Pozdrowienia dla wędrownych podróżników! Chcesz coś sprzedać??',
+      nl: 'Gegroet zwervende reiziger! Wilt u iets verkopen?',
+      pt: 'Saudações, viajante errante! Gostaria de vender alguma coisa?',
+      cs: 'Pozdravy putování cestovatel!  Chcete něco prodat?',
+      ja: '旅人をさまよう挨拶！何か売りたいですか？',
+      hi: 'नमस्ते यात्री! क्या आप कुछ बेचना चाहते है?',
+      tr: 'Selam dolaşan gezgin! Bir şeyler satmak ister misin?'
     },
     choices: {
       en: 'Yes, of course.',
@@ -17,7 +24,14 @@ export default {
       de: 'Ja, natürlich.',
       fr: 'Oui, bien sûr.',
       it: 'Sì, naturalmente.',
-      ht: 'Wi nan kou.'
+      ht: 'Wi nan kou.',
+      pl: 'Tak, oczywiście.',
+      nl: 'Ja, natuurlijk.',
+      pt: 'Sim, claro que.',
+      cs: 'Ano, samozřejmě.',
+      ja: 'はい、もちろん。',
+      hi: 'हां बिल्कुल।',
+      tr: 'Evet, tabii ki.'
     }
   }]
 }

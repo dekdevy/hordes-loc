@@ -1,98 +1,56 @@
 export default {
 
-  showall: {
-    en: 'Show All',
-    ru: 'Все',
-    hi: 'सब दिखाए',
-    es: 'Todo',
-    de: 'Alle anzeigen',
-    fr: 'Montrer tous/toutes',
-    ko: '모두 보이기',
-    tr: 'Hepsini Göster',
-    nl: 'Toon alle',
-    pt: 'Mostrar todos',
-    pl: 'Pokaż wszystko',
-    ht: 'Montre tout'
-  },
-
-  showclan: {
-    en: 'Show Clan',
+  clan: {
+    en: 'Clan',
+    /* TODO: Significantly shorten all of below, no longer than 5 chars, otherwise just use "clan" */
     ru: 'Клан',
     hi: 'दल से दिखाए',
-    es: 'Mostrar Clan',
+    it: 'Clan',
+    es: 'Clan',
     de: 'Show-Clan',
     fr: 'Afficher le clan',
     ko: '클랜 보이기',
-    tr: 'Klanı göster',
+    tr: 'Klan',
     nl: 'Toon Clan',
     pt: 'Mostrar Clã',
     pl: 'Pokaż klan',
-    ht: 'Montre klan'
+    ht: 'Montre klan',
+    cs: 'Klan',
+    ja: '一族'
   },
 
-  showsystem: {
-    en: 'Show System',
+  system: {
+    en: 'System',
+    /* TODO: Significantly shorten all below, no longer than 7 chars, otherwise just use "clan" */
     ru: 'Система',
     hi: 'सिस्टम से दिखाए',
-    es: 'Mostrar sistema',
+    it: 'Sistema',
+    es: 'Sistema',
     de: 'System anzeigen',
     fr: 'Afficher le système',
     ko: '시스템 보이기',
-    tr: 'Sistemi Göster',
+    tr: 'Sistem',
     nl: 'Toon systeem',
     pt: 'Mostrar sistema',
     pl: 'System pokazów',
-    ht: 'Montre Sistèm'
+    ht: 'Montre Sistèm',
+    cs: 'Systém',
+    ja: 'システム'
   },
 
+  // translations not needed
   loot: {
-    en: 'Loot',
-    ru: 'Добыча',
-    hi: 'लूट',
-    es: 'Botín',
-    de: 'Beute',
-    fr: 'Pillage',
-    ko: '전리품',
-    tr: 'Ganimet',
-    nl: 'Luit',
-    pt: 'Saque',
-    pl: 'Łupy',
-    ht: 'piyaj'
+    $$: 'Loot'
   },
 
+  // translations not needed
   exp: {
-    en: 'exp',
-    ru: 'Опыт',
-    hi: 'ऐक्सपी',
-    es: 'exp',
-    tr: 'dny',
-    bg: 'Годен',
-    ja: '経験値',
-    nl: 'exp',
-    pt: 'exp',
-    pl: 'exp exp',
-    ht: 'Eksperyans'
+    $$: 'EXP'
   },
 
+  // translations not needed
   pvp: {
-    en: 'PvP',
-    ru: 'Бой',
-    hi: 'पिविपी',
-    es: 'PvP',
-    nl: 'PvP',
-    pt: 'PvP',
-    pl: 'PvP',
-    ht: 'Goumen'
-  },
-
-  // translations not needed
-  twitter: {
-    $$: 'TW'
-  },
-
-  // translations not needed
-  discord: {
-    $$: 'Discord'
+    $$: 'PvP'
   }
 
 }

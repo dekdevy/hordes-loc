@@ -3,12 +3,12 @@ export default {
   manager: {
     en: 'Clan Manager',
     ru: 'Клан Менеджер',
-    fr: 'Gestionnaire du clan',
+    fr: 'Gestionnaire du clan', // TODO: shorten
     hi: 'दल प्रबंधक',
-    es: 'Gerente de clan',
+    es: 'Clan Gerente', // TODO: shorten
     de: 'Clan-Manager',
     tr: 'Klan Yönetimi',
-    bg: 'Мениджър на клана',
+    bg: 'Мениджър на клана', // TODO: shorten
     cs: 'Clan Manager',
     el: 'Clan Manager',
     it: 'Clan Manager',
@@ -17,7 +17,9 @@ export default {
     pt: 'Gerente do Clã',
     ph: 'Clan Manager',
     sv: 'Clan Manager',
-    ht: 'Manadjè klan'
+    ht: 'Manadjè klan',
+    nl: 'Clanmanager',
+    ko: '씨족 메뉴'
   },
 
   leave: {
@@ -25,19 +27,21 @@ export default {
     ru: 'Покинуть Клан',
     fr: 'Quitter le clan',
     hi: 'दल छोड़े',
-    es: 'Abandonar el clan',
+    es: 'Salir Clan', // TODO: shorten
     de: 'Clan verlassen',
     tr: 'Klandan Ayrıl',
     bg: 'Напусни Clan',
     cs: 'Opustit klan',
     el: 'Αφήστε τη Clan',
-    it: 'Abbandona il clan',
+    it: 'Abbandona il clan', // TODO: shorten
     ja: 'クランを脱退',
     pl: 'Opuść Klan',
     pt: 'Saia do clã',
-    ph: 'Iwanan mo ang grupo',
+    ph: 'Iwanan mo ang grupo', // TODO: shorten
     sv: 'Lämna Clan',
-    ht: 'Kite Clan'
+    ht: 'Kite Clan',
+    nl: 'Verlofclan',
+    ko: '씨족 을 나가기'
   },
 
   heading: {
@@ -57,7 +61,9 @@ export default {
     pt: 'Clã',
     ph: 'Clan',
     sv: 'Klan',
-    ht: 'Clan'
+    ht: 'Clan',
+    nl: 'Clan',
+    ko: '씨족'
   },
 
   createheading: {
@@ -77,7 +83,9 @@ export default {
     pt: 'Criar clã',
     ph: 'Lumikha ng Clan',
     sv: 'Skapa Clan',
-    ht: 'Kreye Clan'
+    ht: 'Kreye Clan',
+    nl: 'Creërenclan',
+    ko: '씨족 을 만들기'
   },
 
   createinfo: {
@@ -97,15 +105,17 @@ export default {
     pt: 'Para criar um clã você precisa',
     ph: 'Upang lumikha ng isang lahi na kailangan mo',
     sv: 'För att skapa en klan behöver du',
-    ht: 'Pou kreye yon klan ou bezwen'
+    ht: 'Pou kreye yon klan ou bezwen',
+    nl: 'Om een clan te creëren heb je het volgende nodig',
+    ko: '씨족 을 만들고 싶으면...'
   },
 
   createname: {
     en: 'Clan name',
-    ru: 'Название клана',
+    ru: 'имя клана',
     fr: 'Nom du clan',
     hi: 'दल का नाम',
-    es: 'Nombre del clan',
+    es: 'Clan nombre', // TODO: shorten
     de: 'Clan-Name',
     tr: 'Klan adı',
     bg: 'Име на клана',
@@ -115,9 +125,11 @@ export default {
     ja: '氏名',
     pl: 'Nazwa klanu',
     pt: 'Nome do clã',
-    ph: 'Pangalan ng isang lipi',
+    ph: 'Pangalan ng isang lipi', // TODO: shorten
     sv: 'Klan namn',
-    ht: 'Non klan'
+    ht: 'Non klan',
+    nl: 'Clannaam',
+    ko: '씨족 이름'
   },
 
   createtag: {
@@ -125,19 +137,21 @@ export default {
     ru: 'Тег клана',
     fr: 'Tag du clan',
     hi: 'दल टैग',
-    es: 'Etiqueta de clan',
+    es: 'Clan seña', // TODO: shorten
     de: 'Clan-Tag',
     tr: 'Klan etiketi',
     bg: 'Ден на клана',
     cs: 'Den klanů',
-    el: 'Ημέρα του γάμου',
+    el: 'Ημέρα του γάμου', // TODO: shorten
     it: 'Clan tag',
     ja: '族の日',
     pl: 'Dzień klanu',
     pt: 'Dia do clã',
     ph: 'Araw ng lahi',
     sv: 'Clan tag',
-    ht: 'Tag klan'
+    ht: 'Tag klan',
+    nl: 'Clanlabel',
+    ko: '씨족 꼬리표'
   },
 
   createbutton: {
@@ -157,6 +171,8 @@ export default {
     pt: 'Crio',
     ph: 'Lumikha',
     sv: 'Skapa',
-    ht: 'Kreye'
+    ht: 'Kreye',
+    nl: 'Creëren',
+    ko: '만들기'
   }
 }
