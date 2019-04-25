@@ -16,6 +16,8 @@ export default [
       ht: 'Cheap kwi kwi te achte pa yon kiltivatè anbisye',
       it: 'Cinturino in pelle a buon mercato comprato da un ambizioso contadino.',
       hi: 'सस्ते लेदर बैंड एक महत्वाकांक्षी किसान द्वारा खरीदा।',
+      el: 'Φτηνές δερμάτινες μπάντες που αγοράστηκαν από έναν φιλόδοξο αγρότη',
+      bg: 'Евтина кожена лента, купена от амбициозен фермер.',
       cs: 'Levné kožené kapely koupil ambiciózní farmář.',
       ja: '野心的な農民によって買われた安い革バンド。',
       ro: 'Curea de piele ieftină cumpărată de un fermier ambițios.'
@@ -41,6 +43,8 @@ export default [
       it: 'Mani esperte hanno fatto un intricato lavoro nel realizzare questo bracciale fatto in casa.',
       hi: 'कुशल हाथों इस घर का बना कफ बनाने में एक जटिल काम कर दिया।',
       cs: 'Kvalifikované ruce dělaly při výrobě domácí manžety složitou práci.',
+      el: 'Τα καλά χέρια έκαναν μια περίπλοκη δουλειά στο να φτιάξουν αυτή τη σπιτική μανσέτα',
+      bg: 'Умели ръце направиха сложна работа, за да направят този домашен маншет.',
       ja: '熟練した手はこの自家製の袖口を作ることにおいて複雑な仕事をしました。',
       ro: 'Niște mâini pricepute au făcut o muncă complicată în ceea ce privește această manșetă de casă'
     }
@@ -64,6 +68,8 @@ export default [
       it: 'Rigido, ti fa male al braccio.',
       hi: 'कड़ी, अपने हाथ गले में बना देता है।',
       cs: 'Ztuhlé, dělá svou ruku bolavou.',
+      el: 'Σκληρό κάνει το χέρι σας πληγή.',
+      bg: 'Скръбта прави ръката ви възпалена.',
       ja: '硬直すると腕が痛くなります。',
       ro: 'Rigid, îți inflamează brațul.'
     }
@@ -87,6 +93,8 @@ export default [
       it: 'Elegante polsino realizzato con le zanne dell ultimo mammut.',
       hi: 'कड़ी, अपने हाथ गले में बना देता है।',
       cs: 'Elegantní manžeta vyrobená z kel posledního mamuta.',
+      el: 'Κομψή μανσέτα από τα χέρια του τελευταίου μαμούθ',
+      bg: 'Елегантен маншет, направен от бивните на последния мамут.',
       ja: '最後のマンモスの牙から作られたエレガントなカフ。',
       ro: 'Manșetă elegantă realizată din colții ultimului mamut.'
     }
@@ -108,6 +116,8 @@ export default [
       tr: 'Kolunda ağır durur... koruma için değer',
       ht: 'Lou ... men vo defans yo',
       it: 'Pesante sul braccio... vale la pena proteggerlo.',
+      el: 'Βαρύ στο χέρι σου ... αξίζει την προστασία.',
+      bg: 'Тежка на ръката ти ... си струваше защитата.',
       hi: 'अपने हाथ पर भारी ... लायक संरक्षण।',
       cs: 'Těžká na paži ... stojí za to.',
       ja: 'あなたの腕に重い...保護に値する。',
@@ -133,6 +143,8 @@ export default [
       it: 'Braccialetto in metallo opaco, comodo per i raid notturni.',
       hi: 'सुस्त धातु ब्रेसेर, रात छापा मारने के लिए आसान।',
       cs: 'šikovný pro noční nájezdy.',
+      el: 'Ελαφριές μεταλλικές λαβές εύχρηστες για νυχτερινές επιδρομές',
+      bg: 'Тъпа метална четка, удобна за нощно нападение.',
       ja: '夜間の襲撃に便利な鈍い金属製の装具。',
       ro: 'Manșetă anostă din metal, la îndemână pentru raidurile pe timp de noapte.'
 
@@ -157,6 +169,8 @@ export default [
       it: 'Il reggiseno in scala, ti fa assomigliare il braccio a quello di un drago.',
       hi: 'स्केल्ड ब्रेसेर, अपने हाथ सदृश एक अजगर की है कि बनाता है।',
       cs: 'Šupinatý šprýmař, tvá ruka se podobá tomu draka.',
+      el: 'Κολλημένος κηδεμόνας κάνει το χέρι σου να μοιάζει με εκείνο ενός δράκου',
+      bg: 'Мащабирането на ръката ви прилича на тази на дракон.',
       ja: '縮れたブレースはあなたの腕をドラゴンのそれに似せます。',
       ro: 'Manșetă acoperită cu solzi, îți face brațul să semene cu al unui dragon.'
     }
@@ -180,6 +194,8 @@ export default [
       it: 'Acceca i tuoi nemici con una magica lucentezza da uno specchio di maghi subdoli...',
       hi: 'एक जादुई चमक के साथ अपने दुश्मनों को अंधा बंद एक कुटिल जादूगर दर्पण ...',
       cs: 'Slepí své nepřátele magickým zábleskem ze zlého kouzelnického zrcadla ...',
+      el: 'Τυφλώνει τους εχθρούς σου με μια μαγική λάμψη από έναν κακό καθρέφτη μάγων ...',
+      bg: 'Заслепява враговете си с магически блясък, отблъскващ отвратителен магьосник ...',
       ja: '馬鹿げた魔術師の鏡からあなたの敵を魔法のように輝かせて盲目にします...',
       ro: 'Orbește adversarii cu o strălucire magică a unei oglinzi deviante a magicienilor.'
     }
@@ -203,6 +219,8 @@ export default [
       it: 'I guardiani arcaici hanno lasciato i resti del loro passaggio, che avete deciso senza scrupoli di indossare sul vostro braccio.',
       hi: 'एक जादुई चमक के साथ अपने दुश्मनों को अंधा बंद एक कुटिल जादूगर दर्पण ...',
       cs: 'Archaičtí strážci zanechali zbytky svého prochodu, které jste bezohledně rozhodli nosit na paži.',
+      el: 'Οι αρχαίοι κηδεμόνες άφησαν υπολείμματα του πέρασματός τους τα οποία εσείς ασυνείδητα έχετε αποφασίσει να φορέσετε στο χέρι σας',
+      bg: 'Архаичните настойници са оставили остатъци от минаването си, които безскрупулно сте решили да носите на ръката си.',
       ja: '古風な守護者たちは、あなたが不注意にあなたの腕に身に着けることに決めた彼らの通過の残骸を残しました。',
       ro: 'Gardienii arhaici au lăsat rămășițe în urma lor, pe care ați decis să le purtați fără scrupule.'
     }
@@ -226,6 +244,8 @@ export default [
       it: 'L\'acciaio ingannevolmente leggero offre una protezione frigorifera contro i colpi subdoli.',
       hi: 'भ्रामक प्रकाश इस्पात डरपोक चल रही है के खिलाफ द्रुतशीतन सुरक्षा प्रदान करता है।',
       cs: 'Klamně lehká ocel nabízí ochranu proti záludným úderům.',
+      el: 'Ο απατηλά ελαφρύς χάλυβας προσφέρει προστασία ψύξης ενάντια στα κρυφά χτυπήματα',
+      bg: 'Измамно леката стомана предлага охлаждаща защита срещу подъл удар.',
       ja: '一見軽い鋼は卑劣な打撃に対する低温保護を提供します。',
       ro: 'Oțelul înșelător de ușor oferă protecție revigorantă împotriva loviturilor viclene.'
     }
@@ -249,6 +269,8 @@ export default [
       it: 'Le stelle non sono spesso nere, eppure questo frammento ha un... profondo buio profondo.',
       hi: 'सितारे अक्सर काले नहीं हैं, फिर भी इस टुकड़ा एक ... गहरी ... गहरे अंधकार है।',
       cs: 'Hvězdy nejsou často černé, ale tento fragment má hlubokou temnotu.',
+      el: 'Τα αστέρια δεν είναι συχνά μαύρα αλλά το κομμάτι αυτό έχει ... βαθύ σκοτάδι.',
+      bg: 'Звездите често не са черни, но този фрагмент има ... дълбока ... дълбока тъмнина.',
       ja: '多くの場合、星は黒ではありませんが、この断片は...濃い...濃い暗さを持っています。',
       ro: 'Stelele nu sunt deseori negre, totuși acest fragment are o... adâncă... adâncă întunecime.'
     }
@@ -271,6 +293,8 @@ export default [
       it: 'Riformato, perso, trovato, rubato, nascosto per epoche senza fine.',
       hi: 'जाली, खो दिया है, पाया, चोरी, अंत के बिना युगों के लिए छिपा हुआ है।',
       cs: 'Reforged, ztracený, nalezený, ukradený, ukrytý pro éry bez konce.',
+      el: 'Αναπροσανατολιστεί χαθεί βρεθεί κλαπεί κρυφτεί για τις εποχές χωρίς τέλος',
+      bg: 'Открадната загуба, намерена открадната за епохи без край.',
       ja: '失われた遺失物は、終わりのない時代に隠されて盗まれました。',
       sv: 'Smidda, förlorade, hittade, stol, gömd för eroder utan slut.',
       ro: 'Refăurite, pierdute, găsite, furate, ascunse pentru ere fără sfârșit.'
@@ -296,6 +320,8 @@ export default [
       hi: 'यह आइटम किसी पूर्णिमा जब रहस्यमय मंत्र अंधेरे से फुसफुसाते हुए में सुना रहे थे पर जाली था। कुछ लोग कहते हैं कि यह मृत खुद मृत के साथ बात की देवता था।',
       cs: 'Tento předmět byl kovaný na úplňku, když se v šepotu temnoty ozvalo tajemné zaklínadlo. Někteří říkají, že to byl Anubis sám mluvit s mrtvými.',
       ja: 'このアイテムは、暗闇のささやきの中で不思議な呪文が聞かれたときに満月に作られました。アヌビス自身が死者と話していたと言う人もいます。',
+      el: 'Αυτό το στοιχείο ήταν σφυρηλατημένο σε πανσέληνο όταν ακούστηκαν μυστηριώδεις φωνές με τους ψίθυρους του σκοτάδι. Κάποιοι λένε ότι ο ίδιος ο Anubis μίλησε με τους νεκρούς.',
+      bg: 'Този предмет беше изкован на пълнолуние, когато се чуваха тайнствени заклинания в шепота на тъмнината. Някои казват, че самият Анубис говори с мъртвите.',
       ro: 'Acest obiect a fost făurit sub lună plină când incantații misterioase au fost auzite în șoaptele nopții. Câțiva oameni spun că a fost chiar Anubis vorbind cu morții.'
     }
   }
