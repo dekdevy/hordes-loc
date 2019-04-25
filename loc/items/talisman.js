@@ -18,7 +18,8 @@ export default [
       ht: 'Li odè jis degoutan, mwen sezi ou menm ranmase li.',
       cs: 'Voní tak špatně, zajímalo by mě, proč jste to dokonce zvedl.',
       ja: '臭いがひどい私はあなたがなぜそれを拾ったのか不思議に思う。',
-      sv: 'Luktar så illa, jag undrar varför du ens plockade upp den.'
+      sv: 'Luktar så illa, jag undrar varför du ens plockade upp den.',
+      ko: '나쁜 냄새가 나는데, 왜 당신이 그것을 집어 들었는지 궁금해.'
     }
   },
 
@@ -41,7 +42,8 @@ export default [
       cs: 'Ramenní deska nějakého stvoření se dobře hodí jako přenosné nádobí.',
       ja: 'いくつかの生き物の肩甲板は携帯用食器としてもうまくいく。',
       hi: 'कुछ प्राणी किरायों में अच्छी तरह से एक पोर्टेबल खाने बर्तन के कंधे प्लेट।',
-      sv: 'Axelplattan hos någon varelse är bra som bärbar matredskap.'
+      sv: 'Axelplattan hos någon varelse är bra som bärbar matredskap.',
+      ko: '어떤 생물의 어깨 판은 휴대용 먹는기구로 잘 먹습니다.'
     }
   },
 
@@ -64,7 +66,8 @@ export default [
       cs: 'Těžký náhrdelník, hladký a leštěný, aby vás během bitvy oslepil.',
       ja: 'ヘビーネックレスは戦いの間あなたを盲目にするために滑らかにされて、磨かれました。',
       hi: 'भारी हार, चिकनी और लड़ाई के दौरान आपको अंधा करने के लिए पॉलिश।',
-      sv: 'Tung halsband, slät och polerat för att blinda dig under striden.'
+      sv: 'Tung halsband, slät och polerat för att blinda dig under striden.',
+      ko: '무거운 목걸이, 부드럽게하고 광택이 전투 중에 눈이 멀게.'
     }
   },
 
@@ -87,7 +90,8 @@ export default [
       cs: 'Hnije z poslední sklizně.',
       ja: '去年の収穫からの腐った小片。',
       hi: 'पिछले साल फसल से एक सड़ा हुआ निवाला।',
-      sv: 'En skrämmande parti från senaste års skörd.'
+      sv: 'En skrämmande parti från senaste års skörd.',
+      ko: '작년 수확 한 부패한 음식물.'
     }
   },
 
@@ -110,7 +114,8 @@ export default [
       cs: 'Tenký plátek žuly, perfektní k odrazení přes vlnky jezera.',
       ja: '花崗岩の薄片は湖の波紋を越えて跳ねるのに最適です。',
       hi: 'पतला, ग्रेनाइट का टुकड़ा, झील की लहरों के पार उछल के लिए एकदम सही।',
-      sv: 'Tunt skiva granit, perfekt för studsande över vattendragen på sjön.'
+      sv: 'Tunt skiva granit, perfekt för studsande över vattendragen på sjön.',
+      ko: '화강암의 얇은 조각, 호수의 잔물결을 통해 수신 거부에 대한 완벽한.'
     }
   },
 
@@ -133,7 +138,8 @@ export default [
       cs: 'Třpytivá stříbrná tkanina, která měla být ukradnuta od Afrodity sama.',
       ja: 'きらめく銀の布はアフロディーテ自身から盗まれたと言われています。',
       hi: 'झिलमिलाता चांदी कपड़े सौंदर्य खुद की देवी से चोरी हो करने के लिए कहा।',
-      sv: 'Skimrande silver tyg sägs vara stulen från Afrodite själv.'
+      sv: 'Skimrande silver tyg sägs vara stulen från Afrodite själv.',
+      ko: '아프로디테 자신으로부터 도난당한 은색 직물이 반짝 반짝 빛났다.'
 
     }
   },
@@ -157,7 +163,8 @@ export default [
       cs: 'Studené a modré, přívěsek krade vaše teplo jako platbu za jeho účinky ...',
       ja: '寒さと青のペンダントはその効果の代償としてあなたの暖かさを盗みます...',
       hi: 'शीत और नीले, पेंडेंट इसके प्रभाव के लिए एक भुगतान के रूप में अपने गर्मी चुरा ...',
-      sv: 'Kall och blått, hänget hänger din värme som en betalning för dess effekter ...'
+      sv: 'Kall och blått, hänget hänger din värme som en betalning för dess effekter ...',
+      ko: '추위와 푸른 펜던트는 그 효과에 대한 지불로 당신의 온기를 훔칩니다 ...'
     }
   },
 
@@ -180,7 +187,8 @@ export default [
       cs: 'Překvapivě to necítí jako ryby. Jen to neukazuj sladkovodní.',
       ja: '驚いたことにそれは魚のような匂いはしません。淡水を見せないでください。',
       ht: 'Surprenante, li pa pran sant tankou pwason. Jis pa montre li dlo dous.',
-      sv: 'Överraskande lukter det inte som fisk. Visa bara inte sötvatten.'
+      sv: 'Överraskande lukter det inte som fisk. Visa bara inte sötvatten.',
+      ko: '놀랍게도, 물고기처럼 냄새가 없습니다. 담수를 보여주지 마십시오.'
     }
   },
 
@@ -203,7 +211,8 @@ export default [
       cs: 'Armády promrhaly tuto cetku, ale pro tebe to vypadá bezcenné ...',
       ja: '軍はこの装身具を浪費しましたが、それはあなたには価値がないようです...',
       hi: 'नाओं इस ताबीज से अधिक गंवा अभी तक यह आप पर बेकार लगता है ...',
-      sv: 'Armies slösas bort över den här trinketen men det verkar värdelöst för dig ...'
+      sv: 'Armies slösas bort över den här trinketen men det verkar värdelöst för dig ...',
+      ko: '군대는이 악귀 위에 낭비했지만 아직 너에게 쓸모없는 것처럼 보인다 ...'
     }
   },
 
@@ -226,7 +235,8 @@ export default [
       cs: 'Tento artefakt vlastnili lidé, trpaslíci a elfové, kteří ho předávali generacím lovců, bojovníků a velikých bitevních vůdců.',
       ja: '人間のドワーフとエルフは、このアーティファクトを何世代ものハンター戦士と偉大なバトルリーダーに渡しました。',
       hi: 'मनुष्य, बौने और बौने इस विरूपण साक्ष्य के स्वामित्व, शिकारी, योद्धा और महान लड़ाई नेताओं की पीढ़ियों के लिए उस पर से गुजर रहा।',
-      sv: 'Människor, dvärgar och alvor ägde denna artefakt och skickade den vidare till generationer av jägare, krigare och stora slagsledare'
+      sv: 'Människor, dvärgar och alvor ägde denna artefakt och skickade den vidare till generationer av jägare, krigare och stora slagsledare',
+      ko: '인간, 드워프, 엘프들은이 유물을 소유하여 여러 세대의 사냥꾼, 전사 및 위대한 전투 지도자들에게 전달했습니다.'
     }
   },
 
@@ -249,7 +259,8 @@ export default [
       cs: 'Barva západu slunce, to roje obrazy a projekce do vašeho svědomí, říká vám vaše další neštěstí.',
       ja: '夕焼けの色はそれがあなたの次の不幸を告げるあなたの良心の中にイメージと映写を集める。',
       hi: 'सूर्यास्त के रंग, यह आपके विवेक में छवियों और अनुमानों झुंड, आप अपने अगले दुर्भाग्य कह।',
-      sv: 'Solnedgången svärmer bilder och projektioner i ditt samvete och berättar för din nästa olycka.'
+      sv: 'Solnedgången svärmer bilder och projektioner i ditt samvete och berättar för din nästa olycka.',
+      ko: '일몰의 색으로 이미지와 투영을 양심에 스며들게하여 다음 불행을 알려줍니다.'
     }
   },
 
@@ -272,7 +283,8 @@ export default [
       cs: 'Složité vazby mithrilu vázané na mocnou magii, které vás naplní tajemnou energií, kterou pocítí několik lidí žijících na tomto světě.',
       ja: 'ミスリルの複雑な織り方は、この世界に住む少数の人々によって感じられる神秘的なエネルギーであなたを満たす強力な魔法に結びつきました。',
       hi: 'धातु की जटिल बुनाई शक्तिशाली जादू करने के लिए बाध्य, एक रहस्यमय ऊर्जा इस दुनिया पर रहने वाले लोगों के कुछ से महसूस के साथ भरने।',
-      sv: 'Invecklade vävningar av mithril bunden till kraftfull magi, fyller dig med en mystisk energi som känns av några av de som lever i denna värld.'
+      sv: 'Invecklade vävningar av mithril bunden till kraftfull magi, fyller dig med en mystisk energi som känns av några av de som lever i denna värld.',
+      ko: '미스릴의 복잡한 옷감은 강력한 마법에 묶여이 세상에 살고있는 사람들 중 몇 안타깝게 느껴지는 신비한 에너지로 채워줍니다.'
     }
   },
 
@@ -295,7 +307,8 @@ export default [
       cs: 'Démonické stíny se vyhýbají ostřím reality a dávají vám opuštění monstrózních snů.',
       ja: '悪魔のような影が現実の羽根を避けてあなたがあなたの敵に去ってゆく巨大な夢を与えます。',
       hi: 'राक्षसी छाया वास्तविकता के ब्लेड से निकलती है, जिससे आपको अपने दुश्मनों के सपनों को छोड़ना पड़ता है।',
-      sv: 'Demoniska skuggor undviker verklighetens knivar, vilket gör att du lämnar in i dina fiender monsterliga drömmar.'
+      sv: 'Demoniska skuggor undviker verklighetens knivar, vilket gör att du lämnar in i dina fiender monsterliga drömmar.',
+      ko: '악마의 그림자는 현실의 칼날을 피하면서 당신이 적들의 꿈에 빠지게 만듭니다.'
     }
   },
 
@@ -318,7 +331,8 @@ export default [
       cs: 'Tvoji nepřátelé halucinační stav mysli, který na tuto cetku přivedl, dovolí, aby vaše šikovné rány udeřily na pravdu.',
       ja: 'この装身具によってもたらされるあなたの敵の幻覚的な心の状態はあなたの狡猾な一撃が真実を打つことを可能にします。',
       hi: 'आपका शत्रु मन की भ्रमात्मक राज्य पर से इस ताबीज परमिट अपने चालाक चल रही है सच हड़ताल करने के लिए लाया।',
-      sv: 'Dina fiender hallucinatory sinnestillstånd som medförs av denna pricket tillåter din listiga slag att slå sant.'
+      sv: 'Dina fiender hallucinatory sinnestillstånd som medförs av denna pricket tillåter din listiga slag att slå sant.',
+      ko: '이 악세사리로 인해 마음의 환각 상태가 당신의 교활한 타격을 허용합니다.'
     }
   },
 
@@ -341,7 +355,8 @@ export default [
       cs: 'Hluboký tmavě modrý talisman, stopy ve vaší duši, posilování, přestavba a renovace pro svět nesmrtelnosti',
       ja: 'あなたの魂の中の濃い紺色のお守りは、再建を強化し、不死の世界のために改装を強化します。',
       hi: 'दीप गहरे नीले रंग की ताबीज, अपनी आत्मा में पैटर्न का पता लगाने, मजबूत, पुनर्निर्माण और अमरता की दुनिया के लिए मरम्मत।',
-      sv: 'Djup mörkblå talisman, spårande mönster i din själ, förstärkning, ombyggnad och renovering av odödlighetens värld.'
+      sv: 'Djup mörkblå talisman, spårande mönster i din själ, förstärkning, ombyggnad och renovering av odödlighetens värld.',
+      ko: '짙은 청색의 부적, 당신의 영혼의 패턴을 추적하고, 불멸의 세계를 강화하고, 재건축하고, 개조합니다.'
     }
   }
 
