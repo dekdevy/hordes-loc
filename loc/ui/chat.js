@@ -16,12 +16,13 @@ export default {
     pl: 'Pokaż klan',
     ht: 'Montre klan',
     cs: 'Klan',
-    ja: '一族'
+    ja: '一族',
+    sv: 'Klan'
   },
 
   system: {
     en: 'System',
-    /* TODO: Significantly shorten all below, no longer than 7 chars, otherwise just use "clan" */
+    /* TODO: Significantly shorten all below, no longer than 7 chars, otherwise just use "system" */
     ru: 'Система',
     hi: 'सिस्टम से दिखाए',
     it: 'Sistema',
@@ -35,7 +36,8 @@ export default {
     pl: 'System pokazów',
     ht: 'Montre Sistèm',
     cs: 'Systém',
-    ja: 'システム'
+    ja: 'システム',
+    sv: 'System'
   },
 
   // translations not needed
