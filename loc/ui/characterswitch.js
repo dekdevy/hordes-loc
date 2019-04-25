@@ -5,7 +5,7 @@ export default {
     ru: 'Выйти',
     hi: 'बाहर आए',
     es: 'Dejar Juego', // TODO: shorten
-    de: 'Abmeldung',
+    de: 'Abmelden',
     fr: 'Déconnexion',
     ko: '로그 아웃',
     bl: 'Излез от профила', // TODO: shorten
