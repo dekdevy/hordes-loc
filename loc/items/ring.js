@@ -67,7 +67,8 @@ export default [
       ja: 'つやのあるリング。',
       ht: 'Finalman, yon bag ki klere.',
       sv: 'Slutligen en ring som är glänsande.',
-      ko: '마지막으로, 빛나는 반지.'
+      ko: '마지막으로, 빛나는 반지.',
+      ht: 'Finalman, yon bag ki klere.'
     }
   },
 
