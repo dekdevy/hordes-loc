@@ -38,7 +38,7 @@ export default {
       tr: 'Evet, tabii ki.',
       sv: 'Ja självklart.',
       ko: '예, 물론입니다.',
-      bg: 'Да разбира се.'
+      bg: 'Да разбира се.',
       el: 'Ναι φυσικά.'
     }
   }]
