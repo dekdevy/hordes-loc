@@ -13,7 +13,7 @@ export default {
     el: 'Αποσυνδέση',
     ja: 'ログアウト',
     sv: 'Logga ut',
-    ph: 'Mag-log Out',
+    tl: 'Mag-log Out',
     tr: 'Çıkış Yap',
     nl: 'Uitloggen',
     pt: 'Terminar sessão', // TODO: shorten
@@ -35,7 +35,7 @@ export default {
     el: 'Αρχική σελίδα',
     ja: 'ホームページ',
     sv: 'Hemsida',
-    ph: 'Home page',
+    tl: 'Bahay',
     tr: 'Anasayfa',
     nl: 'Thuis',
     pt: 'voltar para inicio', // TODO: shorten
