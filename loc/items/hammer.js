@@ -20,7 +20,7 @@ export default [
       sv: 'Det är redan halvbruten och du använder det fortfarande?',
       ko: '벌써 절반이 고장 났고 당신은 아직도 그것을 사용하고 있습니까?',
       ro: 'E deja pe jumătate rupt și tu încă îl mai folosești?',
-      ph: 'Ito ay kalahati na sira at ginagamit mo pa rin ito?'
+      tl: 'Ito ay kalahati na sira at ginagamit mo pa rin ito?'
     }
   },
 
@@ -45,7 +45,7 @@ export default [
       sv: 'Detta bör hamra naglar, inte skallar.',
       ko: '이것은 두개골이 아니라 망치질하는 손톱이어야합니다.',
       ro: 'Acest lucru ar trebui să fie ciocan pentru cuie, nu cranii.',
-      ph: 'Ito ay dapat na pagmamartilyo mga kuko, hindi skulls.'
+      tl: 'Ito ay dapat na pagmamartilyo mga kuko, hindi skulls.'
     }
   },
 
@@ -70,7 +70,7 @@ export default [
       sv: 'Rustig gammal hammare, på gränsen till att bryta.',
       ko: '오래 된 녹슨 망치, 깨고 직전.',
       ro: 'Ciocan vechi și ruginit, pe punctul de a se rupe.',
-      ph: 'Masungit na lumang martilyo, sa gilid ng paglabag.'
+      tl: 'Masungit na lumang martilyo, sa gilid ng paglabag.'
     }
   },
 
@@ -95,7 +95,7 @@ export default [
       sv: 'Orcs följer wielder av detta milda vapen. Det är ganska meningslöst, men de verkar gilla det ...',
       ko: '오크들은이 빈약 한 무기의 주인을 따릅니다. 그것은 꽤 쓸모 없지만, 그들은 그것을 좋아하는 것 같습니다 ...',
       ro: 'Orcii urmează posesorul acestei arme slabe. E inutil, dar se pare că le place...',
-      ph: 'Sinusunod ni Orcs ang manghuhula ng kaunting armas na ito. Ito ay medyo walang silbi, ngunit mukhang gusto nila ito ... '
+      tl: 'Sinusunod ni Orcs ang manghuhula ng kaunting armas na ito. Ito ay medyo walang silbi, ngunit mukhang gusto nila ito ... '
     }
   },
 
@@ -120,7 +120,7 @@ export default [
       sv: 'Stort vapen som använts i antiken för att grotta i skalle.',
       ko: '두개골에 동굴을 넣기 위해 고대에 사용 된 대형 무기.',
       ro: 'O armă mare folosită în antichitate pentru a sparge cranii.',
-      ph: 'Malaking sandata na ginamit sa mga sinaunang beses upang gumuho sa skulls.'
+      tl: 'Malaking sandata na ginamit sa mga sinaunang beses upang gumuho sa skulls.'
     }
   },
 
@@ -145,7 +145,7 @@ export default [
       sv: 'Konstigt stavliknande basher. Verkar rå och avger en svag lukt av druidoljor ...',
       ko: '이상한 막대기 같은 지하실. 원유처럼 보이고 드루이드 오일의 희미한 냄새를 풍깁니다 ...',
       ro: 'Ciudată bâtă. Pare brută și emite un miros slab de uleiuri druide...',
-      ph: 'Kakaibang baras martilyo. Mukhang krudo at nagpapalabas ng isang malabong amoy ng mga langis na druga ...'
+      tl: 'Kakaibang baras martilyo. Mukhang krudo at nagpapalabas ng isang malabong amoy ng mga langis na druga ...'
     }
   },
 
@@ -170,7 +170,7 @@ export default [
       sv: 'Forntida dvärgar smidade denna mäktiga struktur. Mörk och dödlig.',
       ko: '고대의 드워프들은이 강력한 구조물을 만들었습니다. 어둡고 치명적입니다.',
       ro: 'Piticii antici au făcut această structură măreață. Întunecată și mortală.',
-      ph: 'Inilaan ng mga sinaunang dwarf ang makapangyarihang istraktura na ito. Madilim at nakamamatay.'
+      tl: 'Inilaan ng mga sinaunang dwarf ang makapangyarihang istraktura na ito. Madilim at nakamamatay.'
     }
   },
 
@@ -195,7 +195,7 @@ export default [
       sv: 'Guds ögon följer wielder och ger förmögenhet till tapperhet och döm till feg.',
       ko: '신의 눈은 수호자를 따라 가며 비겁한 용감한 운명에 운을 가져온다.',
       ro: 'Ochii zeilor îl urmează pe posesor, aducând avere celor viteji și osânde celor lași.',
-      ph: 'Ang mga mata ng mga diyos sundin ang wielder, nagdadala ng kapalaran sa magiting at tadhana sa duwag.'
+      tl: 'Ang mga mata ng mga diyos sundin ang wielder, nagdadala ng kapalaran sa magiting at tadhana sa duwag.'
     }
   },
 
@@ -220,7 +220,7 @@ export default [
       sv: 'Heligt verktyg som används av druider för att göra offer till de gamla naturgudarna.',
       ko: '드루이드가 고대 성전의 희생 제물을 만들기 위해 사용한 거룩한 도구.',
       ro: 'Instrument sfânt folosit de druizi pentru a face sacrificii, oferite zeilor antici ai naturii.',
-      ph: 'Ang Banal na tool na ginagamit ng mga druid upang gumawa ng mga sakripisyo sa sinaunang mga diyos ng kalikasan.'
+      tl: 'Ang Banal na tool na ginagamit ng mga druid upang gumawa ng mga sakripisyo sa sinaunang mga diyos ng kalikasan.'
     }
   },
 
@@ -245,7 +245,7 @@ export default [
       sv: 'Tung hammare som används av dvärgkrigare. Tillverkad av en okänd metall, mörk och tung.',
       ko: '드워프 전사들이 사용하는 무거운 지하실. 알 수없는 금속으로 제작되었으며, 어둡고 무겁습니다.',
       ro: 'Bâtă greoaie folosită de către piticii râzboinici. Făcută dintr-un material necunoacut, întunecat și greu.',
-      ph: 'Malakas na basher na ginagamit ng mga mandirigmang dwarven. Ginawa ng isang hindi kilalang metal, madilim at mabigat.'
+      tl: 'Malakas na basher na ginagamit ng mga mandirigmang dwarven. Ginawa ng isang hindi kilalang metal, madilim at mabigat.'
     }
   },
 
@@ -270,7 +270,7 @@ export default [
       sv: 'Smidd utan värme, dödar utan barmhärtighet.',
       ko: '열없이 위조 된, 자비없는 죽이기.',
       ro: 'Forjată fără căldură, ucide fără milă.',
-      ph: 'Peke na walang init, kills walang awa.'
+      tl: 'Peke na walang init, kills walang awa.'
     }
   },
 
@@ -295,7 +295,7 @@ export default [
       sv: 'Toppat med skallen av en dödad hävd fiende, inspirerar detta vapen terror i alla som står emot det.',
       ko: '살해 된 대검의 적의 두개골을 얹은이 무기는 모든 사람에게 공포를 불러 일으킨다.',
       ro: 'Având deasupra craniul unui inamic behemoth ucis, această armă inspiră teroare în toți cei care stau împotriva ei.',
-      ph: 'Nangunguna sa bungo ng isang slain enemy behemoth, ang armas na ito ay nagbibigay inspirasyon sa takot sa lahat na tumayo laban dito.'
+      tl: 'Nangunguna sa bungo ng isang slain enemy behemoth, ang armas na ito ay nagbibigay inspirasyon sa takot sa lahat na tumayo laban dito.'
     }
   },
 
@@ -320,7 +320,7 @@ export default [
       sv: 'Kan lätt tränga in i din svaga skalle. Eller dina fiender. Förmodligen din men.',
       ko: '당신의 연약한 두개골에 아주 쉽게 침투 할 수 있습니다. 또는 당신의 원수. 아마 당신 것.',
       ro: 'Poate penetra craniul tău slab destul de ușor. Sau al dușmanilor tăi. Probabil al tău totuși.',
-      ph: 'Maaari bang tumagos ang iyong mahinang bungo na medyo madali. O iyong mga kaaway. Marahil sa iyo kahit na.'
+      tl: 'Maaari bang tumagos ang iyong mahinang bungo na medyo madali. O iyong mga kaaway. Marahil sa iyo kahit na.'
     }
   },
 
@@ -345,7 +345,7 @@ export default [
       sv: 'Inget snällt om det här grymma vapnet.',
       ko: '이 잔인한 무기에 대한 어떤 것도.',
       ro: 'Nimic bun despre această armă crudă.',
-      ph: 'Wala nang uri tungkol sa malupit na sandata na ito.'
+      tl: 'Wala nang uri tungkol sa malupit na sandata na ito.'
     }
   },
 
@@ -370,7 +370,7 @@ export default [
       sv: 'Dödlig och okontrollabel, den här himmelska hammaren etsar terror i sin renaste form till de olyckliga som har sett det.',
       ko: '치명적이고 통제 할 수없는이 천체 망치는 그 가장 순수한 형태의 공포를 그 광경을 포착 한 불행한 사람들에게 뿌린다.',
       ro: 'Mortal și incontrolabil, acest ciocan ceresc gravează teroarea în cea mai pură formă în acei nefericiți ce l-au văzut.',
-      ph: 'Nakamamatay at hindi mapigilan, ang makalangit na martilyo na ito ay nagtatakot ng malaking takot sa pinakadalisay na anyo nito sa mga kapus-palad na nakakakita dito.'
+      tl: 'Nakamamatay at hindi mapigilan, ang makalangit na martilyo na ito ay nagtatakot ng malaking takot sa pinakadalisay na anyo nito sa mga kapus-palad na nakakakita dito.'
     }
   },
 
@@ -395,7 +395,7 @@ export default [
       sv: 'Har det befogenhet att sluta världar? Få kan säga. Om det gör kommer vi inte leva tillräckligt länge för att lära oss av det.',
       ko: '그것은 세상을 끝낼 힘이 있습니까? 거의 말할 수 없습니다. 그렇다면 우리는 그 사실을 알기에 충분히 오래 살지 않을 것입니다.',
       ro: 'Are puterea de a pune capăt lumilor? Puțini pot spune. Dacă o face, nu vom trăi suficient de mult pentru a afla asta.',
-      ph: 'Mayroon ba itong kapangyarihan upang tapusin ang mga mundo? Ang ilang mga maaaring sabihin. Kung gagawin nito, hindi tayo mabubuhay nang matagal upang malaman ito.'
+      tl: 'Mayroon ba itong kapangyarihan upang tapusin ang mga mundo? Ang ilang mga maaaring sabihin. Kung gagawin nito, hindi tayo mabubuhay nang matagal upang malaman ito.'
     }
   },
 
@@ -420,7 +420,7 @@ export default [
       sv: 'En mystisk trollkarl blötläggde många invecklade charmar i detta vapen, vilket medför grymma tankar och drömmar till sin wielder.',
       ko: '신비한 마술사가 많은 무기를이 무기에 담아 무시 무시한 생각과 꿈을 그 사람에게 가져다줍니다.',
       ro: 'Un magician misterios a înmuiat această armă în multe farmece complicate, aducând gânduri și vise îngrozitoare deținătorului său.',
-      ph: 'Isang misteryosong salamangkero ang sumipsip ng maraming masalimuot na mga kagandahan sa armas na ito, na nagdadala ng malupit na mga kaisipan at mga pangarap sa tagahanga nito.'
+      tl: 'Isang misteryosong salamangkero ang sumipsip ng maraming masalimuot na mga kagandahan sa armas na ito, na nagdadala ng malupit na mga kaisipan at mga pangarap sa tagahanga nito.'
     }
   }
 
