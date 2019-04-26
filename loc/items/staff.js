@@ -19,7 +19,8 @@ export default [
       ja: 'すべての土地の最大の鍛冶屋によって作られた武器少なくともそれが私たちがトムに言ったことです。',
       ht: 'Zam fabrike pa pi fò forj nan tout peyi a. Omwen se sa ki nou te di ti Timmy.',
       sv: 'Vapen smidd av den största smeden av hela landet. Det var åtminstone det vi sa till Timmy.',
-      ko: '모든 땅의 가장 큰 대장장이가 만든 무기. 적어도 우리가 티미에게 말한 것입니다.'
+      ko: '모든 땅의 가장 큰 대장장이가 만든 무기. 적어도 우리가 티미에게 말한 것입니다.',
+      ro: 'Armă făurită de cel mai bun fierar din țară. Cel puțin asta i-am spus micuțului Timmy.'
     }
   },
 
@@ -43,7 +44,8 @@ export default [
       ja: '絶望的な状況では、絶望的な対策が必要です。',
       ht: 'Sanzespwa sitiyasyon rele pou mezi dezespere.',
       sv: 'Desperata situationer kräver desperata åtgärder.',
-      ko: '필사적 인 상황에서는 필사적 인 조치가 필요합니다.'
+      ko: '필사적 인 상황에서는 필사적 인 조치가 필요합니다.',
+      ro: 'Situațiile disperate cer măsuri disperate.'
     }
   },
 
@@ -67,7 +69,8 @@ export default [
       ja: '魔術師から盗まれただらしないほうきぎざぎざと骨。',
       ht: 'Vakabon bale vòlè nan men yon maj. Gnarled ak zo.',
       sv: 'Smutsig kvast stulen från en mage. Gnarled och benig.',
-      ko: '지저분한 빗자루가 마법사에게서 도난당했습니다. 뼈 아프다.'
+      ko: '지저분한 빗자루가 마법사에게서 도난당했습니다. 뼈 아프다.',
+      ro: 'Coadă de Mătură uzată furată de la un mag. Noduros și osos.'
     }
   },
 
@@ -91,7 +94,8 @@ export default [
       ja: '古代のオークの枝から切り取った杖。深い力を注ぎ込んだ。',
       ht: 'Yon ralonj koupe soti nan branch yo nan yon pye bwadchenn ansyen. Enfuze ak pouvwa gwo twou san fon.',
       sv: 'En trollstav som klipps från en gammal eks grenar. Infunderad med djup kraft.',
-      ko: '고대 참나무의 가지에서 잘라 지팡이. 깊은 힘이 스며 들었습니다'
+      ko: '고대 참나무의 가지에서 잘라 지팡이. 깊은 힘이 스며 들었습니다',
+      ro: 'O baghetă tăiată din ramurile unui stejar antic. Infuzată cu o putere profundă.'
     }
   },
 
@@ -115,7 +119,8 @@ export default [
       ja: '神秘的な武器が神秘的なエッセンスで輝いています。',
       ht: 'Zam mistik lumineux ak yon sans misterye.',
       sv: 'Mystiskt vapen glödande med en mystisk väsen.',
-      ko: '신비한 본질로 빛나는 신비한 무기'
+      ko: '신비한 본질로 빛나는 신비한 무기',
+      ro: 'Armă mistică ce strălucește cu o esență misterioasă.'
     }
   },
 
@@ -139,7 +144,8 @@ export default [
       ja: 'この武器についての何も空想の大腿骨だけで空想はない。',
       ht: 'Pa gen anyen anpenpan sou sa a zam, jis femèl la nan yon lich.',
       sv: 'Inget fancy om det här vapnet, bara lårbenets lår.',
-      ko: '이 무기에 대해 환상적인 것은 없으며, 리치의 대퇴골에 불과합니다.'
+      ko: '이 무기에 대해 환상적인 것은 없으며, 리치의 대퇴골에 불과합니다.',
+      ro: 'Nimic extravagant la această armă, doar femurul unui lich.'
     }
   },
 
@@ -163,7 +169,8 @@ export default [
       ja: 'その冠にきらめく青い宝石と長い棒。',
       ht: 'Long baton ak yon vè chatwi ble sou kouwòn li yo.',
       sv: 'Lång stång med en skimrande blå pärla på kronan.',
-      ko: '그것의 크라운에 반짝임 파란 보석을 가진 긴 막대.'
+      ko: '그것의 크라운에 반짝임 파란 보석을 가진 긴 막대.',
+      ro: 'Un toiag lung cu o bijuterie albastră sclipitoare pusă pe coroană.'
     }
   },
 
@@ -187,7 +194,8 @@ export default [
       ja: '濃い紫色のスタッフ。その作り方はとても不思議ですが、見るのはいいですね。',
       ht: 'Anplwaye twal koulè wouj violèt. Byen misterye nan fè li yo, men bèl gade.',
       sv: 'Mörk lila personal. Ganska mystisk när det gäller att göra, men ändå trevligt att titta på.',
-      ko: '어두운 보라색 직원. 그것의 만드는 것에있는 확실히 신비한, 그러나 보는 것은 좋다.'
+      ko: '어두운 보라색 직원. 그것의 만드는 것에있는 확실히 신비한, 그러나 보는 것은 좋다.',
+      ro: 'Toiag purpuriu închis. Destul de misterios în fabricare, dar e frumos să te uiți la el.'
     }
   },
 
@@ -211,7 +219,8 @@ export default [
       ja: '山の小人から盗まれたエメラルドから作られました。',
       ht: 'Konstwi soti nan emrod yo vòlè li soti nan nen yo mòn.',
       sv: 'Konstruerad från smaragder som stulits från bergsdvärgarna.',
-      ko: '산 드워프에서 도난당한 에메랄드로 만들어졌습니다.'
+      ko: '산 드워프에서 도난당한 에메랄드로 만들어졌습니다.',
+      ro: 'Construit din smaralde furate de la piticii de munte.'
     }
   },
 
@@ -235,7 +244,8 @@ export default [
       ja: '奇妙な...スタッフは...三角形のようです...',
       ht: 'Etranj ... anplwaye a sanble ... triyangilè ...',
       sv: 'Konstigt ... personalen verkar ... triangulär ...',
-      ko: '이상합니다 ... 직원들은 ... 삼각형 인 것 같습니다 ...'
+      ko: '이상합니다 ... 직원들은 ... 삼각형 인 것 같습니다 ...',
+      ro: 'Straniu... toiagul pare... triunghiular...'
     }
   },
 
@@ -259,7 +269,8 @@ export default [
       ja: '内側に淡いブルーの石が埋め込まれた偏心ロッド',
       ht: 'Inik baton ak yon wòch ble pal anndan ...',
       sv: 'Excentrisk stång med en ljusblå sten inbäddad inuti ...',
-      ko: '내부에 옅은 푸른 색 돌이 달린 괴상한 막대가 ...'
+      ko: '내부에 옅은 푸른 색 돌이 달린 괴상한 막대가 ...',
+      ro: 'Un toiag excentric cu o piatră albastră pală încorporată înăuntru...'
     }
   },
 
@@ -283,7 +294,8 @@ export default [
       ja: '伝説の谷間に住む未知の鍛冶屋によって造られました。',
       ht: 'Konstwi pa fòjere unknown ki abite nan vale ladann.',
       sv: 'Konstruerad av okända smeden som bor i fableda dalar.',
-      ko: '전설적인 계곡에 거주하는 알려지지 않은 대장장이들에 의해 건축되었습니다.'
+      ko: '전설적인 계곡에 거주하는 알려지지 않은 대장장이들에 의해 건축되었습니다.',
+      ro: 'Construit de fierari necunoscuți ce locuiesc în văi legendare.'
     }
   },
 
@@ -307,7 +319,8 @@ export default [
       ja: 'その美しさはあなたに声をかけます...殺すために...征服するために...',
       ht: 'Bote li apèl soti nan ou ... yo touye ... konkeri ...',
       sv: 'Dess skönhet kallar till dig ... att döda ... för att erövra ...',
-      ko: '그 아름다움은 당신을 부른다 ... 죽이기 위해서 ... 정복하기 위해 ...'
+      ko: '그 아름다움은 당신을 부른다 ... 죽이기 위해서 ... 정복하기 위해 ...',
+      ro: 'Frumusețea lui te cheamă... pentru a ucide... pentru a cuceri...'
     }
   },
 
@@ -331,7 +344,8 @@ export default [
       ja: 'スタッフが天使たちから盗まれました。彼らはまだそれを探しています。',
       ht: 'Yon anplwaye yo vòlè li nan men zanj Bondye yo. Yo ap toujou lachas pou li.',
       sv: 'En personal som stulits från änglarna. De letar fortfarande efter det.',
-      ko: '직원이 천사들로부터 도난당했습니다. 그들은 아직도 그것을 찾고 있습니다.'
+      ko: '직원이 천사들로부터 도난당했습니다. 그들은 아직도 그것을 찾고 있습니다.',
+      ro: 'Un toiag furat de la îngeri. Încă îl mai caută.'
     }
   },
 
@@ -355,7 +369,8 @@ export default [
       ja: 'その見た目は粗いが、その中心部は強大な...',
       ht: 'Brut nan sanble li yo, men vanyan sòlda nan kè li ...',
       sv: 'Rå i sitt utseende, men mäktigt i sitt hjärta ...',
-      ko: '그것의보기에있는 조잡한, 그러나 그것의 심혼에 강 대한 ...'
+      ko: '그것의보기에있는 조잡한, 그러나 그것의 심혼에 강 대한 ...',
+      ro: 'Crud în aspectul său, dar puternic în inima sa...'
     }
   },
 
@@ -379,7 +394,8 @@ export default [
       ja: 'その核心は魔女の心に由来すると言われています。誰も死体を見つけたことがない。またはスタッフ自身。',
       ht: 'Nou te di nwayo li se soti nan kè a nan yon sòsyè. Pa gen moun ki jwenn kadav la. Oswa pèsonèl la tèt li.',
       sv: 'Vi får höra det är kärnan är från hjärtat av en häxa. Ingen har hittat liket. Eller personalen själv.',
-      ko: '우리는 그것이 핵심이 마녀의 심장에서 온 것이라고 말합니다. 아무도 시체를 발견하지 못했습니다. 또는 직원 자체.'
+      ko: '우리는 그것이 핵심이 마녀의 심장에서 온 것이라고 말합니다. 아무도 시체를 발견하지 못했습니다. 또는 직원 자체.',
+      ro: 'Ni s-a spus că nucleul provine din inima unei vrăjitoare. Nimeni nu a găsit cadavrul. Sau toiagul în sine.'
     }
   },
 
@@ -403,7 +419,8 @@ export default [
       ja: 'この武器は非常に秘密主義であるため、それを使用した少数の人々はそれを知っているすべての人を殺した。',
       ht: 'Sa a zam se konsa sekrè ke kèk nan yo ki ègzamen li te touye tout moun ki konnen li.',
       sv: 'Detta vapen är så hemligt att de få som använder det har dödat allt som känner till det.',
-      ko: '이 무기는 너무 비밀 스럽기 때문에 그것을 사용하는 소수만이 알고있는 모든 것을 죽였습니다.'
+      ko: '이 무기는 너무 비밀 스럽기 때문에 그것을 사용하는 소수만이 알고있는 모든 것을 죽였습니다.',
+      ro: 'Această armă este atât de secretoasă încât puținii care o posedă au ucis tot ce se știa despre ea.'
     }
   }
 
