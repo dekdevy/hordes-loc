@@ -19,7 +19,8 @@ export default {
       tr: 'Ah, seni görüyorum gezgin. Yorgun ve kurt gibi aç gözüküyorsun. Bu güzel topraklarda dolaşan biz büyücüler de öyleyiz. Seni bir tanesine götürmemi ister misin?',
       ko: '아, 여행자 본다. 지치고 캄캄 해 보이는 군. 우리의 연인도이 좋은 땅을 돌아 다닌다. 내가 너를 하나에 데려 갈까?',
       bg: 'Ах, виждам ви пътешественик. Изморени и уморени изглеждате. Ние, фокусниците, също обикаляме по тези прекрасни земи. Искаш ли да те заведа на едно?',
-      el: 'Αξ, σε βλέπω ταξιδιώτη.  Κόκκινος και φτωχός κοιτάζετε.  Και εμείς οι περιπλανώμενοι βόλτα αυτά τα ωραία εδάφη.  Θα θέλατε να σας μεταφέρω σε ένα;'
+      el: 'Αξ, σε βλέπω ταξιδιώτη.  Κόκκινος και φτωχός κοιτάζετε.  Και εμείς οι περιπλανώμενοι βόλτα αυτά τα ωραία εδάφη.  Θα θέλατε να σας μεταφέρω σε ένα;',
+      ro: 'Ah, te văd călătorule. Obosit și înfometat arăți. Noi iluzioniștii, de asemenea, cutreierăm aceste pământuri strașnice. Ți-ar plăcea să te duc să vezi unul?'
     },
     choices: [{
       en: 'Please bring me to $1.',
@@ -39,7 +40,8 @@ export default {
       sv: 'Ta med mig till $1.',
       ko: '나를 $1 에 데려다주세요.',
       bg: 'Моля, донесете ми до $ 1.',
-      el: 'Παρακαλώ με φέρτε σε $ 1.'
+      el: 'Παρακαλώ με φέρτε σε $ 1.',
+      ro: 'Te rog, du-mă la $1.'
     }]
   }]
 }
