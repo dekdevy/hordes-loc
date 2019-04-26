@@ -4,7 +4,7 @@ export default {
     en: 'Clan',
     /* TODO: Significantly shorten all of below, no longer than 5 chars, otherwise just use "clan" */
     ru: 'Клан',
-    hi: 'दल से दिखाए',
+    hi: 'दल',
     it: 'Clan',
     es: 'Clan',
     de: 'Clan',
@@ -25,7 +25,7 @@ export default {
     en: 'System',
     /* TODO: Significantly shorten all below, no longer than 7 chars, otherwise just use "system" */
     ru: 'Система',
-    hi: 'सिस्टम से दिखाए',
+    hi: 'सिस्टम',
     it: 'Sistema',
     es: 'Sistema',
     de: 'System anzeigen',
@@ -45,7 +45,7 @@ export default {
   whisper: {
     en: 'Whisper',
     ru: 'шептать',
-    hi: 'फुसफुसाना',
+    hi: 'फुसफुसाऐ',
     it: 'Sussurro',
     es: 'Susurro',
     de: 'Flüstern',
