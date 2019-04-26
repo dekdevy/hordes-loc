@@ -22,7 +22,8 @@ export default {
     sv: 'Party inbjudan',
     ko: 'Party 초대',
     bg: 'Покана за party',
-    el: 'Πρόσκληση party'
+    el: 'Πρόσκληση party',
+    ph: 'Party imbitahan'
   },
 
   kick: {
@@ -43,7 +44,8 @@ export default {
     sv: 'Party spark',
     ko: 'Party 킥',
     bg: 'къч за party',
-    el: 'λάκτισμα party'
+    el: 'λάκτισμα party',
+    ph: 'Party sipa'
   },
 
   leave: {
@@ -64,7 +66,8 @@ export default {
     sv: 'Lämna arty',
     ko: 'party 나가기',
     bg: 'Напускане на party',
-    el: 'Αφήστε party'
+    el: 'Αφήστε party',
+    ph: 'Iwanan ang party'
   },
 
   create: {
@@ -85,7 +88,8 @@ export default {
     sv: 'Skapa party',
     ko: 'party 만들기',
     bg: 'Създаване на party',
-    el: 'Δημιουργία party'
+    el: 'Δημιουργία party',
+    ph: 'Lumikha ng party'
   },
 
   onInvite: {
@@ -106,7 +110,8 @@ export default {
     sv: '$1 har bjudit in dig att gå med i deras party.',
     ko: '$1 님이 party 에 가입하도록 초대했습니다.',
     bg: '$1 ви покани да се присъедините към party.',
-    el: 'Το $1 σας έχει προσκαλέσει να συμμετάσχετε στο party τους.'
+    el: 'Το $1 σας έχει προσκαλέσει να συμμετάσχετε στο party τους.',
+    ph: 'Inanyayahan ka ng $1 na sumali sa kanilang party.'
   },
 
   // members, as in "12 members in party"
@@ -128,7 +133,8 @@ export default {
     sv: 'Medlemmar',
     ko: '회원',
     bg: 'Потребители',
-    el: 'Μέλη'
+    el: 'Μέλη',
+    ph: 'Mga Miyembro'
   },
 
   link: {
@@ -149,7 +155,8 @@ export default {
     sv: 'Inbjudnings länk',
     ko: '초대 링크',
     bg: 'Връзка за покана',
-    el: 'Σύνδεσμος πρόσκλησης'
+    el: 'Σύνδεσμος πρόσκλησης',
+    ph: 'Link ng Imbitasyon'
   },
 
   onLink: {
@@ -170,7 +177,8 @@ export default {
     sv: 'Skicka den här länken till andra spelare! Detta gör att de kan ansluta sig till din party.',
     ko: '이 링크를 다른 플레이어에게 보내십시오! 그러면 party 에 가입 할 수 있습니다.',
     bg: 'Изпратете тази връзка на други играчи! Това ще им позволи да се присъединят към вашата party.',
-    el: 'Στείλτε αυτό το σύνδεσμο σε άλλους παίκτες! Αυτό θα τους επιτρέψει να ενταχθούν στο party σας.'
+    el: 'Στείλτε αυτό το σύνδεσμο σε άλλους παίκτες! Αυτό θα τους επιτρέψει να ενταχθούν στο party σας.',
+    ph: 'Ipadala ang link na ito sa ibang mga manlalaro! Ito ay magpapahintulot sa kanila na sumali sa iyong party.'
   },
 
   copyLink: {
@@ -195,6 +203,7 @@ export default {
     sv: 'Kopiera till Urklipp',
     ko: '클립 보드에 복사',
     bg: 'Копиране в клипборда',
-    el: 'Αντιγραφή στο πρόχειρο'
+    el: 'Αντιγραφή στο πρόχειρο',
+    ph: 'Kopyahin sa clipboard'
   }
 }
