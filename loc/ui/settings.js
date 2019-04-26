@@ -19,7 +19,8 @@ export default {
     sv: 'inställningar',
     bg: 'настройки',
     el: 'Ρυθμίσεις',
-    tl: 'mga setting'
+    tl: 'mga setting',
+    ro: 'setări'
   },
 
   controls: {
@@ -41,7 +42,8 @@ export default {
     sv: 'kontrollinstrument',
     bg: 'контроли',
     el: 'διακόπτης',
-    tl: 'mga kontrol'
+    tl: 'mga kontrol',
+    ro: 'controale'
   },
 
   lockedcamera: {
@@ -63,7 +65,8 @@ export default {
     sv: 'Låst kamera',
     bg: 'Заключена камера',
     el: 'Κλειδωμένη κάμερα',
-    tl: 'naka-lock na camera'
+    tl: 'naka-lock na camera',
+    ro: 'Cameră blocată'
   },
 
   graphics: {
@@ -85,7 +88,8 @@ export default {
     sv: 'grafik',
     bg: 'графики',
     el: 'γραφικών',
-    tl: 'grapika'
+    tl: 'grapika',
+    ro: 'grafică'
   },
 
   resolution: {
@@ -107,7 +111,8 @@ export default {
     sv: 'mötesbeslut',
     bg: 'Резолюция',
     el: 'Ανάλυση',
-    tl: 'Resolution'
+    tl: 'Resolution',
+    ro: 'Rezoluție'
   },
 
   skilleffects: {
@@ -129,7 +134,8 @@ export default {
     sv: 'Färdighetseffekter',
     bg: 'Ефекти на уменията',
     el: 'Επιπτώσεις δεξιοτήτων',
-    tl: 'Mga epekto sa kasanayan'
+    tl: 'Mga epekto sa kasanayan',
+    ro: 'Efectele abilităților'
   },
 
   shadow: {
@@ -151,7 +157,8 @@ export default {
     sv: 'Skuggkvalitet',
     bg: 'Качество на сенките',
     el: 'Ποιότητα σκιάς',
-    tl: 'Kalidad ng anino'
+    tl: 'Kalidad ng anino',
+    ro: 'Calitatea umbrelor'
   },
 
   grassamount: {
@@ -173,7 +180,8 @@ export default {
     sv: 'Gräsbelopp',
     bg: 'Kоличество трева',
     el: 'Χόρτο ποσό',
-    tl: 'Damo halaga'
+    tl: 'Damo halaga',
+    ro: 'Cantitatea de iarbă'
   },
 
   chat: {
@@ -195,7 +203,8 @@ export default {
     sv: 'chatt',
     bg: 'чат',
     el: 'κουβέντα',
-    tl: 'chat'
+    tl: 'chat',
+    ro: 'chat'
   },
 
   chatwidth: {
@@ -217,7 +226,8 @@ export default {
     sv: 'Chatt bredd',
     bg: 'Ширина на чата',
     el: 'πλάτος κουβέντα',
-    tl: 'lapad ng chat'
+    tl: 'lapad ng chat',
+    ro: 'Lățime chat'
   },
 
   chatheight: {
@@ -239,7 +249,8 @@ export default {
     sv: 'Chathöjd',
     bg: 'Височина на чата',
     el: 'ύψος κουβέντα',
-    tl: 'taas ng chat'
+    tl: 'taas ng chat',
+    ro: 'Înălțime chat'
   },
 
   tutorial: {
@@ -261,7 +272,8 @@ export default {
     sv: 'handledning',
     bg: 'настойнически',
     el: 'φροντιστήριο',
-    tl: 'pagtuturo'
+    tl: 'pagtuturo',
+    ro: 'tutorial'
   },
 
   reset: {
@@ -283,6 +295,7 @@ export default {
     sv: 'Återställ handledningen',
     bg: 'Нулиране на урока',
     el: 'επαναφορά φροντιστήριο',
-    tl: 'i-reset ang tutorial'
+    tl: 'i-reset ang tutorial',
+    ro: 'Resetează tutorialul'
   }
 }
