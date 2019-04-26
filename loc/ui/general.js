@@ -19,7 +19,7 @@ export default {
     ja: 'はい',
     bg: 'Добре',
     el: 'εντάξει',
-    ph: 'Sige'
+    tl: 'Sige'
   },
 
   back: {
@@ -41,7 +41,7 @@ export default {
     ja: 'バック',
     bg: 'Oбратно',
     el: 'Πίσω',
-    ph: 'Bumalik'
+    tl: 'Bumalik'
   },
 
   accept: {
@@ -63,7 +63,7 @@ export default {
     ja: '受け入れる',
     bg: 'приемам',
     el: 'Αποδέχομαι',
-    ph: 'Tanggapin'
+    tl: 'Tanggapin'
 
   },
 
@@ -86,7 +86,7 @@ export default {
     ja: '低下',
     bg: 'упадък',
     el: 'Πτώση',
-    ph: 'Tanggihan'
+    tl: 'Tanggihan'
   },
 
   close: {
@@ -108,6 +108,6 @@ export default {
     ja: '閉じる',
     bg: 'Близо',
     el: 'Κοντά',
-    ph: 'Isara'
+    tl: 'Isara'
   }
 }
