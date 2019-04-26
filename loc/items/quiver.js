@@ -19,7 +19,8 @@ export default [
       cs: 'Měkká, plná děr. Šipky stále vypadávají.',
       ja: '柔らかい穴だらけ。矢印は抜け続けます。',
       sv: 'Mjuk, full av hål. Pilarna fortsätter att falla ut.',
-      ko: '부드러운, 구멍 가득. 화살표는 계속 떨어지고 있습니다.'
+      ko: '부드러운, 구멍 가득. 화살표는 계속 떨어지고 있습니다.',
+      ro: 'Moale, plină de găuri. Săgețile continuă să cadă.'
     }
   },
 
@@ -43,7 +44,8 @@ export default [
       cs: 'Plátěný pytel pokrytý tuhou kůží.',
       ja: 'リネンの袋は硬い革で覆われています。',
       sv: 'Linnesäck täckt av styvt läder.',
-      ko: '리넨 자루는 뻣뻣한 가죽으로 덮여 있습니다.'
+      ko: '리넨 자루는 뻣뻣한 가죽으로 덮여 있습니다.',
+      ro: 'Sac din in acoperit cu piele rigidă.'
     }
   },
 
@@ -67,7 +69,8 @@ export default [
       cs: 'Používá se, když všechno ostatní selže.',
       ja: '他のすべてが失敗したときに使用されます。',
       sv: 'Används när allt annat misslyckas.',
-      ko: '다른 모든 것이 실패 할 때 사용됩니다.'
+      ko: '다른 모든 것이 실패 할 때 사용됩니다.',
+      ro: 'Folosit atunci când toate celelalte eșuează.'
     }
   },
 
@@ -91,7 +94,8 @@ export default [
       cs: 'Elven potápěč potažený třpytivým diamantem.',
       ja: 'きらめくダイヤモンドでコーティングされたエルフの矢筒。',
       sv: 'Koger av älvor belagda i skimrande diamant.',
-      ko: '엘프 떨림이 반짝이는 다이아몬드로 코팅되었습니다.'
+      ko: '엘프 떨림이 반짝이는 다이아몬드로 코팅되었습니다.',
+      ro: 'Tolbă a elfilor acoperită cu diamante sclipitoare.'
     }
   },
 
@@ -115,7 +119,8 @@ export default [
       cs: 'Pokaždé, když vytáhnete šipku, zasyče na vás.',
       ja: 'あなたが矢を引き出すたびにそれはあなたに向かっている。',
       sv: 'Varje gång du drar en pil ut hissar den på dig.',
-      ko: '당신이 화살을 꺼낼 때마다, 그것은 당신에게 겁을줍니다.'
+      ko: '당신이 화살을 꺼낼 때마다, 그것은 당신에게 겁을줍니다.',
+      ro: 'De fiecare dată când scoți o săgeată, te sâsâie.'
     }
   }
 
