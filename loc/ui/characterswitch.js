@@ -18,7 +18,8 @@ export default {
     nl: 'Uitloggen',
     pt: 'Terminar sessão', // TODO: shorten
     pl: 'Wyloguj się',
-    ht: 'Dekonekte'
+    ht: 'Dekonekte',
+    ro: 'Deconectare'
   },
 
   home: {
@@ -39,6 +40,7 @@ export default {
     nl: 'Thuis',
     pt: 'voltar para inicio', // TODO: shorten
     pl: 'Strona główna',
-    ht: 'Paj lakay'
+    ht: 'Paj lakay',
+    ro: 'Acasă'
   }
 }
