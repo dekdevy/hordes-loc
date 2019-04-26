@@ -17,7 +17,7 @@ export default {
     es: 'Party Invita',
     tr: 'Party davet et',
     cs: 'Pozvat party',
-    ja: 'Partyへの招待',
+    ja: 'Party への招待',
     hi: 'Party आमंत्रण',
     sv: 'Party inbjudan',
     ko: 'Party 초대',
