@@ -19,6 +19,7 @@ export default {
     tl: 'imbentaryo',
     ht: 'envantè',
     ko: '목록',
-    sv: 'inventarium'
+    sv: 'inventarium',
+    ro: 'inventar'
   }
 }
