@@ -18,7 +18,8 @@ export default {
     ja: '設定',
     sv: 'inställningar',
     bg: 'настройки',
-    el: 'Ρυθμίσεις'
+    el: 'Ρυθμίσεις',
+    ph: 'mga setting'
   },
 
   controls: {
@@ -39,7 +40,8 @@ export default {
     ja: 'コントロール',
     sv: 'kontrollinstrument',
     bg: 'контроли',
-    el: 'διακόπτης'
+    el: 'διακόπτης',
+    ph: 'mga kontrol'
   },
 
   lockedcamera: {
@@ -60,7 +62,8 @@ export default {
     ja: 'ロックカメラ',
     sv: 'Låst kamera',
     bg: 'Заключена камера',
-    el: 'Κλειδωμένη κάμερα'
+    el: 'Κλειδωμένη κάμερα',
+    ph: 'naka-lock na camera'
   },
 
   graphics: {
@@ -81,7 +84,8 @@ export default {
     ja: 'グラフィックス',
     sv: 'grafik',
     bg: 'графики',
-    el: 'γραφικών'
+    el: 'γραφικών',
+    ph: 'grapika'
   },
 
   resolution: {
@@ -102,7 +106,8 @@ export default {
     ja: '解決',
     sv: 'mötesbeslut',
     bg: 'Резолюция',
-    el: 'Ανάλυση'
+    el: 'Ανάλυση',
+    ph: 'Resolution'
   },
 
   skilleffects: {
@@ -123,7 +128,8 @@ export default {
     ja: 'スキル効果',
     sv: 'Färdighetseffekter',
     bg: 'Ефекти на уменията',
-    el: 'Επιπτώσεις δεξιοτήτων'
+    el: 'Επιπτώσεις δεξιοτήτων',
+    ph: 'Mga epekto sa kasanayan'
   },
 
   shadow: {
@@ -144,7 +150,8 @@ export default {
     ja: 'シャドウ品質',
     sv: 'Skuggkvalitet',
     bg: 'Качество на сенките',
-    el: 'Ποιότητα σκιάς'
+    el: 'Ποιότητα σκιάς',
+    ph: 'Kalidad ng anino'
   },
 
   grassamount: {
@@ -165,7 +172,8 @@ export default {
     ja: '草量',
     sv: 'Gräsbelopp',
     bg: 'Kоличество трева',
-    el: 'Χόρτο ποσό'
+    el: 'Χόρτο ποσό',
+    ph: 'Damo halaga'
   },
 
   chat: {
@@ -186,7 +194,8 @@ export default {
     ja: 'チャット',
     sv: 'chatt',
     bg: 'чат',
-    el: 'κουβέντα'
+    el: 'κουβέντα',
+    ph: 'chat'
   },
 
   chatwidth: {
@@ -207,7 +216,8 @@ export default {
     ja: 'チャット幅',
     sv: 'Chatt bredd',
     bg: 'Ширина на чата',
-    el: 'πλάτος κουβέντα'
+    el: 'πλάτος κουβέντα',
+    ph: 'lapad ng chat'
   },
 
   chatheight: {
@@ -228,7 +238,8 @@ export default {
     ja: 'チャットの高さ',
     sv: 'Chathöjd',
     bg: 'Височина на чата',
-    el: 'ύψος κουβέντα'
+    el: 'ύψος κουβέντα',
+    ph: 'taas ng chat'
   },
 
   tutorial: {
@@ -249,7 +260,8 @@ export default {
     ja: 'チュートリアル',
     sv: 'handledning',
     bg: 'настойнически',
-    el: 'φροντιστήριο'
+    el: 'φροντιστήριο',
+    ph: 'pagtuturo'
   },
 
   reset: {
@@ -270,6 +282,7 @@ export default {
     ja: 'チュートリアルをリセット',
     sv: 'Återställ handledningen',
     bg: 'Нулиране на урока',
-    el: 'επαναφορά φροντιστήριο'
+    el: 'επαναφορά φροντιστήριο',
+    ph: 'i-reset ang tutorial'
   }
 }
