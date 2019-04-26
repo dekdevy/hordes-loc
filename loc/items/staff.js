@@ -45,7 +45,7 @@ export default [
       ht: 'Sanzespwa sitiyasyon rele pou mezi dezespere.',
       sv: 'Desperata situationer kräver desperata åtgärder.',
       ko: '필사적 인 상황에서는 필사적 인 조치가 필요합니다.',
-      ro: 'Situațiile disperate cer măsuri disperate.',
+      ro: 'Situațiile disperate cer măsuri disperate.'
     }
   },
 
