@@ -19,7 +19,7 @@ export default {
     sv: 'inställningar',
     bg: 'настройки',
     el: 'Ρυθμίσεις',
-    ph: 'mga setting'
+    tl: 'mga setting'
   },
 
   controls: {
@@ -41,7 +41,7 @@ export default {
     sv: 'kontrollinstrument',
     bg: 'контроли',
     el: 'διακόπτης',
-    ph: 'mga kontrol'
+    tl: 'mga kontrol'
   },
 
   lockedcamera: {
@@ -63,7 +63,7 @@ export default {
     sv: 'Låst kamera',
     bg: 'Заключена камера',
     el: 'Κλειδωμένη κάμερα',
-    ph: 'naka-lock na camera'
+    tl: 'naka-lock na camera'
   },
 
   graphics: {
@@ -85,7 +85,7 @@ export default {
     sv: 'grafik',
     bg: 'графики',
     el: 'γραφικών',
-    ph: 'grapika'
+    tl: 'grapika'
   },
 
   resolution: {
@@ -107,7 +107,7 @@ export default {
     sv: 'mötesbeslut',
     bg: 'Резолюция',
     el: 'Ανάλυση',
-    ph: 'Resolution'
+    tl: 'Resolution'
   },
 
   skilleffects: {
@@ -129,7 +129,7 @@ export default {
     sv: 'Färdighetseffekter',
     bg: 'Ефекти на уменията',
     el: 'Επιπτώσεις δεξιοτήτων',
-    ph: 'Mga epekto sa kasanayan'
+    tl: 'Mga epekto sa kasanayan'
   },
 
   shadow: {
@@ -151,7 +151,7 @@ export default {
     sv: 'Skuggkvalitet',
     bg: 'Качество на сенките',
     el: 'Ποιότητα σκιάς',
-    ph: 'Kalidad ng anino'
+    tl: 'Kalidad ng anino'
   },
 
   grassamount: {
@@ -173,7 +173,7 @@ export default {
     sv: 'Gräsbelopp',
     bg: 'Kоличество трева',
     el: 'Χόρτο ποσό',
-    ph: 'Damo halaga'
+    tl: 'Damo halaga'
   },
 
   chat: {
@@ -195,7 +195,7 @@ export default {
     sv: 'chatt',
     bg: 'чат',
     el: 'κουβέντα',
-    ph: 'chat'
+    tl: 'chat'
   },
 
   chatwidth: {
@@ -217,7 +217,7 @@ export default {
     sv: 'Chatt bredd',
     bg: 'Ширина на чата',
     el: 'πλάτος κουβέντα',
-    ph: 'lapad ng chat'
+    tl: 'lapad ng chat'
   },
 
   chatheight: {
@@ -239,7 +239,7 @@ export default {
     sv: 'Chathöjd',
     bg: 'Височина на чата',
     el: 'ύψος κουβέντα',
-    ph: 'taas ng chat'
+    tl: 'taas ng chat'
   },
 
   tutorial: {
@@ -261,7 +261,7 @@ export default {
     sv: 'handledning',
     bg: 'настойнически',
     el: 'φροντιστήριο',
-    ph: 'pagtuturo'
+    tl: 'pagtuturo'
   },
 
   reset: {
@@ -283,6 +283,6 @@ export default {
     sv: 'Återställ handledningen',
     bg: 'Нулиране на урока',
     el: 'επαναφορά φροντιστήριο',
-    ph: 'i-reset ang tutorial'
+    tl: 'i-reset ang tutorial'
   }
 }

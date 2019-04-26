@@ -1,7 +1,6 @@
 export default {
   interactions: [{
     text: {
-      // This is not a final text, just a placeholder, probably not worth translating yet
       en: 'Ah, I see you traveler. Weary and famished you look. We conjurers, too, roam these fine lands. Would you like me to take you to one?',
       ru: 'А, вижу тебя путешественник. Ты выглядишь уставшим и голодным. Мы, волшебники, тоже бродим по этим прекрасным землям. Хочешь, я отведу тебя к одному?',
       fr: 'Bonjour, je peux faire apparaître un portail vers les autres conjurers. Où voudriez-vous aller?',
@@ -21,7 +20,7 @@ export default {
       bg: 'Ах, виждам ви пътешественик. Изморени и уморени изглеждате. Ние, фокусниците, също обикаляме по тези прекрасни земи. Искаш ли да те заведа на едно?',
       el: 'Αξ, σε βλέπω ταξιδιώτη.  Κόκκινος και φτωχός κοιτάζετε.  Και εμείς οι περιπλανώμενοι βόλτα αυτά τα ωραία εδάφη.  Θα θέλατε να σας μεταφέρω σε ένα;',
       ro: 'Ah, te văd călătorule. Obosit și înfometat arăți. Noi iluzioniștii, de asemenea, cutreierăm aceste pământuri strașnice. Ți-ar plăcea să te duc să vezi unul?',
-      ph: 'Ah, nakikita kita mong biyahero. Nagagalit at gutom na tinitingnan mo. Ang mga conjurer natin, rin, ay naglalakbay sa mga pinong lupain. Gusto mo bang dalhin ka sa isa?'
+      tl: 'Ah, nakikita kita mong biyahero. Nagagalit at gutom na tinitingnan mo. Ang mga conjurer natin, rin, ay naglalakbay sa mga pinong lupain. Gusto mo bang dalhin ka sa isa?'
     },
     choices: [{
       en: 'Please bring me to $1.',
@@ -43,7 +42,7 @@ export default {
       bg: 'Моля, донесете ми до $ 1.',
       el: 'Παρακαλώ με φέρτε σε $ 1.',
       ro: 'Te rog, du-mă la $1.',
-      ph: 'Mangyaring dalhin ako sa $1'
+      tl: 'Mangyaring dalhin ako sa $1'
     }]
   }]
 }

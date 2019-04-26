@@ -15,7 +15,7 @@ export default {
     nl: 'De Bloodlust horde waardeert vrijheid en loyaliteit, biedt een plaats voor individualisme of zelfs chaos. Hun verdediging bevindt zich in een woestijngebied dat Headless Landing heet.',
     tr: 'Bloodlust kalabalığı özgürlüğe ve sadakate önem verir, bireyciliğe ve hatta kaosa yer verir. Savunmaları, Başsız İniş denilen bir çöl aleminde bulunur.',
     it: 'L\'orda di Bloodlust stima la libertà e la lealtà, offre un posto per individualismo o persino caos. Le loro difese sono situate in un regno del deserto chiamato Headless Landing.',
-    ph: 'Ang halaga ng Bloodlust kuyog ay nag-aalok ng kalayaan at katapatan ay nag-aalok ng isang lugar para sa individualism o kahit kaguluhan. Ang kanilang mga panlaban ay matatagpuan sa isang rehiyong disyerto na tinatawag na Headless Landing.',
+    tl: 'Ang halaga ng Bloodlust kuyog ay nag-aalok ng kalayaan at katapatan ay nag-aalok ng isang lugar para sa individualism o kahit kaguluhan. Ang kanilang mga panlaban ay matatagpuan sa isang rehiyong disyerto na tinatawag na Headless Landing.',
     pl: 'Horda Bloodlust ceni sobie wolność i lojalność, oferuje miejsce dla indywidualizmu, a nawet chaosu. Ich obrona znajduje się w pustynnym królestwie zwanym Landingiem bez głowy.',
     ht: 'Branch fanmi an Bloodlust gen ladan valè a nan libète ak lwayote. Li ofri yon kote pou endividyalis e menm dezòd. Defans yo sitiye nan yon peyi dezè ki rele Landing.',
     el: 'Η ορχήστρα της πρωτοπορίας επιδιώκει την παράδοση τη δομή και την τάξη στην κοινωνία. Το κάστρο τους βρίσκεται σε μια καταπράσινη περιοχή γύρω από το Guardstone. ',

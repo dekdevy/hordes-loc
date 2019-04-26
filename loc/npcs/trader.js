@@ -1,7 +1,6 @@
 export default {
   interactions: [{
     text: {
-      // This is not a final text, just a placeholder, probably not worth translating yet
       en: 'Greetings wandering traveler! Would you like to sell something?',
       ru: 'Приветствую путник! Хочешь продать что-нибудь?',
       es: 'Saludos viajero errante! ¿Quieres vender algo?',
@@ -21,7 +20,7 @@ export default {
       bg: 'Поздрави пътешественик! Искате ли да продадете нещо?',
       el: 'Χαιρετισμοί περιπλανώμενος ταξιδιώτης!  Θα θέλατε να πουλήσετε κάτι',
       ro: 'Salutări călător rătăcitor! Ți-ar plăcea să vinzi ceva?',
-      ph: 'Pagbabati ng mga biyahero! Gusto mo bang magbenta ng isang bagay?'
+      tl: 'Pagbabati ng mga biyahero! Gusto mo bang magbenta ng isang bagay?'
     },
     choices: {
       en: 'Yes, of course.',
@@ -43,7 +42,7 @@ export default {
       bg: 'Да разбира се.',
       el: 'Ναι φυσικά.',
       ro: 'Da, desigur.',
-      ph: 'Oo naman.'
+      tl: 'Oo naman.'
     }
   }]
 }

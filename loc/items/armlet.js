@@ -1,5 +1,5 @@
 export default [
-  {//T1
+  {
     name       : {$$: 'Simple Bracelet' },
     description: {
       en: 'Cheap leather band bought by an ambitious farmer.',
@@ -16,7 +16,7 @@ export default [
       ht: 'Cheap kwi kwi te achte pa yon kiltivatè anbisye',
       it: 'Cinturino in pelle a buon mercato comprato da un ambizioso contadino.',
       hi: 'सस्ते लेदर बैंड एक महत्वाकांक्षी किसान द्वारा खरीदा।',
-      ph: 'Murang katad na binili ng isang ambisyosong magsasaka.',
+      tl: 'Murang katad na binili ng isang ambisyosong magsasaka.',
       el: 'Φτηνές δερμάτινες μπάντες που αγοράστηκαν από έναν φιλόδοξο αγρότη',
       bg: 'Евтина кожена лента, купена от амбициозен фермер.',
       cs: 'Levné kožené kapely koupil ambiciózní farmář.',
@@ -26,7 +26,7 @@ export default [
     }
   },
 
-  {//T2
+  {
     name       : {$$: 'Makeshift Brace' },
     description: {
       en: 'Skilled hands made an intricate job at making this homemade cuff.',
@@ -39,7 +39,7 @@ export default [
       nl: 'Bekwame handen maakten een ingewikkelde klus bij het maken van deze zelfgemaakte manchet.',
       pl: 'Zręczne dłonie wykonały skomplikowanš robotę przy robieniu tego domowej roboty mankietu.',
       sv: 'Kunniga händer gjorde ett invecklat jobb för att göra denna hemgjorda manschett.',
-      ph: 'Ang mga dalubhasang kamay ay gumawa ng isang masalimuot na trabaho sa paggawa ng gawang bahay na ito.',
+      tl: 'Ang mga dalubhasang kamay ay gumawa ng isang masalimuot na trabaho sa paggawa ng gawang bahay na ito.',
       tr: 'Nitelikli eller bu ev yapımı kolluk yapımında çetrefilli bir iş çıkardı.',
       ht: 'Men ki gen eksperyans te fè travay di a pou fè manchèt sa a ki te endepandan.',
       it: 'Mani esperte hanno fatto un intricato lavoro nel realizzare questo bracciale fatto in casa.',
@@ -52,7 +52,7 @@ export default [
     }
   },
 
-  {//T3
+  {
     name       : {$$: 'Leather Armlet' },
     description: {
       en: 'Stiff, makes your arm sore.',
@@ -65,7 +65,7 @@ export default [
       nl: 'Stijf, maakt je arm pijnlijk.',
       pl: 'Sztywniak, boli cię cała ręka.',
       sv: 'Stiff, gör din arm öm.',
-      ph: 'Matigas ang ginagawa ng iyong braso.',
+      tl: 'Matigas ang ginagawa ng iyong braso.',
       tr: 'Sert, kolunuzu ağrıtır.',
       ht: 'Sere sou tèlman bagay ke men ou kòmanse vin anfle.',
       it: 'Rigido, ti fa male al braccio.',
@@ -78,7 +78,7 @@ export default [
     }
   },
 
-  {//T4
+  {
     name       : {$$: 'Ivory Bracelet' },
     description: {
       en: 'Elegant cuff made from the tusks of the last mammoth.',
@@ -91,7 +91,7 @@ export default [
       nl: 'Elegante manchet gemaakt van de slagtanden van de laatste mammoet.',
       pl: 'Elegancki mankiet wykonany z kości ostatniego mamuta.',
       sv: 'Elegant manschett gjord av tusenskönor från den sista mammoten.',
-      ph: 'Elegant na sampal na ginawa mula sa mga tusks ng huling mammoth.',
+      tl: 'Elegant na sampal na ginawa mula sa mga tusks ng huling mammoth.',
       tr: 'Son mamutun dişlerinden yapılmış zarif manşet.',
       ht: 'Elegant manchèt nan defans ki sot pase yo mamout la.',
       it: 'Elegante polsino realizzato con le zanne dell ultimo mammut.',
@@ -104,7 +104,7 @@ export default [
     }
   },
 
-  {//T5
+  {
     name       : {$$: 'Iron Vambrace' },
     description: {
       en: 'Heavy on your arm... worth the protection.',
@@ -117,7 +117,7 @@ export default [
       nl: 'Zwaar op je arm... de bescherming waard.',
       pl: 'Ciężko na twojej ręce.... warte ochrony.',
       sv: 'Tung på armen ... värt skydd.',
-      ph: 'Malakas sa iyong braso ... nagkakahalaga ng proteksyon.',
+      tl: 'Malakas sa iyong braso ... nagkakahalaga ng proteksyon.',
       tr: 'Kolunda ağır durur... koruma için değer',
       ht: 'Lou ... men vo defans yo',
       it: 'Pesante sul braccio... vale la pena proteggerlo.',
@@ -130,7 +130,7 @@ export default [
     }
   },
 
-  {//T6
+  {
     name       : {$$: 'Imbued Bracers' },
     description: {
       en: 'Dull metal bracer, handy for nighttime raiding.',
@@ -144,7 +144,7 @@ export default [
       sv: 'Dull metall bracer, praktisk för natten raiding.',
       tr: 'Donuk metal tutucu, gece baskını için kullanışlı.',
       pl: 'Nudny metalowy biustonosz, przydatny podczas nocnych nalotów.',
-      ph: 'Mapurol na metal bracer na madaling gamitin para sa pag-atake ng gabi.',
+      tl: 'Mapurol na metal bracer na madaling gamitin para sa pag-atake ng gabi.',
       ht: 'Dim metal braslè, pratik pou atak lannwit.',
       it: 'Braccialetto in metallo opaco, comodo per i raid notturni.',
       hi: 'सुस्त धातु ब्रेसेर, रात छापा मारने के लिए आसान।',
@@ -157,7 +157,7 @@ export default [
     }
   },
 
-  {//T7
+  {
     name       : {$$: 'Ember Cuffs' },
     description: {
       en: 'Scaled bracer, makes your arm resemble that of a dragon.',
@@ -170,7 +170,7 @@ export default [
       nl: 'Geschaald bracer, maakt je armen lijken op die van een draak.',
       pl: 'Skalowany aparat ortodontyczny, sprawia, że twoje ramiona przypominajš smoka.',
       sv: 'Skalad bracer, gör att dina armar liknar den hos en drake.',
-      ph: 'Ang pinaliit na bracer ay gumagawa ng iyong braso na katulad ng isang dragon.',
+      tl: 'Ang pinaliit na bracer ay gumagawa ng iyong braso na katulad ng isang dragon.',
       tr: 'Ölçekli kol bağı, kollarınızı bir ejderhanınkine benzetir.',
       ht: 'Yon gwoup ponyèt pwopòsyonèl fè men ou sanble yon dragon an.',
       it: 'Il reggiseno in scala, ti fa assomigliare il braccio a quello di un drago.',
@@ -183,7 +183,7 @@ export default [
     }
   },
 
-  {//T8
+  {
     name       : {$$: 'Mirrored Armlet' },
     description: {
       en: 'Blinds your foes with a magical shine off a devious magicians mirror...',
@@ -195,7 +195,7 @@ export default [
       ko: '마법사애 거울이 부터있는 팔찌. 적의눈을 부시게 한다.',
       nl: 'Verblindt je vijanden met een magische glans van een slinkse goochelspiegel...',
       pl: 'Oślepia wrogów magicznym blaskiem od zdradzieckiego lusterka magów...',
-      ph: 'Blinds iyong mga foes sa isang mahiwagang shine off ang isang palihis salamin magicians ...',
+      tl: 'Blinds iyong mga foes sa isang mahiwagang shine off ang isang palihis salamin magicians ...',
       sv: 'Blindar dina fiender med en magisk glans av en djävulsk trollkarlspegel ...',
       tr: 'Düşmanlarınızı büyülü bir sihirbazın aynasından büyüleyen sihirli bir parıltıyla kör ediyor...',
       ht: 'Pèsyèn lènmi ou yo ak briye nan yon glas sere maji...',
@@ -209,7 +209,7 @@ export default [
     }
   },
 
-  {//T9
+  {
     name       : {$$: 'Golem Fragment' },
     description: {
       en: 'The archaic guardians left remnants of their passing, which you unscrupulously have decided to wear on your arm.',
@@ -223,7 +223,7 @@ export default [
       pl: 'Archaiczni strażnicy zostawili po sobie resztki swojego odejścia, które bez skrupułów zdecydowaliście się nosić na ramieniu.',
       sv: 'De arkaiska förmyndarna lämnade resterna av deras passerar, som du skarpt har bestämt dig för att bära på din arm.',
       tr: 'Arkaik korumalar gelip geçerken acımasızca koluna takmaya karar verdiğiniz kalıntılarını bıraktılar.',
-      ph: 'Ang mga archaic tagapag-alaga ay nag-iwan ng mga labi ng kanilang pagpasa kung saan ka nang walang pagpapasiya ay nagpasya na magsuot sa iyong braso.',
+      tl: 'Ang mga archaic tagapag-alaga ay nag-iwan ng mga labi ng kanilang pagpasa kung saan ka nang walang pagpapasiya ay nagpasya na magsuot sa iyong braso.',
       ht: 'Gad akakolojik kite sold yo nan avantur yo, ki ou vèrgoy deside mete sou men an.',
       it: 'I guardiani arcaici hanno lasciato i resti del loro passaggio, che avete deciso senza scrupoli di indossare sul vostro braccio.',
       hi: 'एक जादुई चमक के साथ अपने दुश्मनों को अंधा बंद एक कुटिल जादूगर दर्पण ...',
@@ -235,7 +235,7 @@ export default [
     }
   },
 
-  {//T10
+  {
     name       : {$$: 'Coldforged Bracer' },
     description: {
       en: 'The deceptively light steel offers chilling protection against sneaky blows.',
@@ -245,7 +245,7 @@ export default [
       de: 'Der trügerisch leichte Stahl bietet Kühlungsschutz gegen raffinierte Schläge.',
       pt: 'O aço leve e enganosamente leve oferece proteção contra golpes furtivos.',
       ko: '믿을 수 없을만큼 가벼운 강철은 비열한 타격에 대한 차가운 보호를 제공합니다.',
-      ph: 'Ang deceptively light steel ay nag-aalok ng pagpapanatiling proteksyon laban sa malupit na mga suntok.',
+      tl: 'Ang deceptively light steel ay nag-aalok ng pagpapanatiling proteksyon laban sa malupit na mga suntok.',
       nl: 'Het bedrieglijk lichte staal biedt koele bescherming tegen stiekeme klappen.',
       pl: 'Zwodniczo lekka stal oferuje ochronę przed podstępnymi uderzeniami.',
       sv: 'Det bedrägligt lätta stålet ger kylande skydd mot smutsiga slag.',
@@ -261,7 +261,7 @@ export default [
     }
   },
 
-  {//T11
+  {
     name       : {$$: 'Blackstar Gem' },
     description: {
       en: 'Stars are not often black, yet this fragment has a... deep... deep darkness.',
@@ -271,7 +271,7 @@ export default [
       de: 'Sterne sind nicht oft schwarz, aber dieses Fragment hat eine... tiefe... tiefe... tiefe Dunkelheit.',
       pt: 'As estrelas não são frequentemente negras, mas este fragmento tem uma... profunda... profunda escuridão.',
       ko: '별은 종종 검은 색이 아니지만이 조각은 깊고 ... 또깊은 어둠이 있습니다.',
-      ph: 'Ang mga bituin ay hindi madalas na itim ngunit ang fragment na ito ay may ... malalim ... malalim na kadiliman.',
+      tl: 'Ang mga bituin ay hindi madalas na itim ngunit ang fragment na ito ay may ... malalim ... malalim na kadiliman.',
       nl: 'Sterren zijn niet vaak zwart, maar toch heeft dit fragment een... diepe... diepe duisternis.',
       pl: 'Gwiazdy nie są często czarne, ale ten fragment ma.... głęboką... głęboką ciemność.',
       sv: 'Tjärnor är inte ofta svarta, men detta fragment har en ... djup ... djup mörker.',
@@ -287,7 +287,7 @@ export default [
     }
   },
 
-  {//T12
+  {
     name       : {$$: 'Eternal Vambraces' },
     description: {
       en: 'Reforged, lost, found, stolen, hidden for eras without end.',
@@ -301,7 +301,7 @@ export default [
       tr: 'Yeniden dövülmüş, kaybolmuş, bulunmuş, sonu olmayan çağlardır gizlenmiş.',
       pl: 'Przeformułowane, zagubione, znalezione, skradzione, ukryte na całe epoki bez końca.',
       ht: 'Reforbe, pèdi, yo jwenn, yo vòlè li, kache pou syèk san fen.',
-      ph: 'Reforged nawalang nakitang ninakaw na nakatago para sa panahon nang walang katapusan.',
+      tl: 'Reforged nawalang nakitang ninakaw na nakatago para sa panahon nang walang katapusan.',
       it: 'Riformato, perso, trovato, rubato, nascosto per epoche senza fine.',
       hi: 'जाली, खो दिया है, पाया, चोरी, अंत के बिना युगों के लिए छिपा हुआ है।',
       cs: 'Reforged, ztracený, nalezený, ukradený, ukrytý pro éry bez konce.',
@@ -313,7 +313,7 @@ export default [
     }
   },
 
-  {//T13
+  {
     name       : {$$: 'Lost Guardian' },
     description: {
       en: 'This item was forged on a full moon when mysterious incantations were heard in the whispers of the dark. Some say that it was Anubis himself speaking with the dead.',
@@ -327,7 +327,7 @@ export default [
       pl: 'Ten przedmiot został wykuty w czasie pełni księżyca, gdy w szeptach ciemności usłyszano tajemnicze zaklęcia. Niektórzy mówią, że to sam Anubis mówił ze zmarłymi.',
       sv: 'Det här objektet smiddes på en fullmåne när mystiska incantations hördes i mörkets viskningar. Vissa säger att det var Anubis själv som talade med de döda.',
       tr: 'Bu eşya, karanlığın fısıltılarında gizemli sihirli sözler duyulduğunda, dolunayda dövüldü. Bazıları bunun ölülerle konuşan Anubis\'in kendisi olduğunu söylüyor.',
-      ph: 'Ang item na ito ay ginawa sa isang buong buwan kapag mahiwaga incantations ay narinig sa whispers ng madilim. Sinasabi ng ilan na si Anubis mismo ay nakikipag-usap sa mga patay.',
+      tl: 'Ang item na ito ay ginawa sa isang buong buwan kapag mahiwaga incantations ay narinig sa whispers ng madilim. Sinasabi ng ilan na si Anubis mismo ay nakikipag-usap sa mga patay.',
       ht: 'Atik sa a te fòje nan lalin lan plen lè òneman misterye te tande nan yon murmures nan fènwa. Gen kèk ki di ke li te Anubi tèt li, pale ak moun ki mouri yo.',
       it: 'Questo oggetto è stato forgiato su una luna piena quando misteriosi incantesimi sono stati ascoltati nei sussurri del buio. Alcuni dicono che sia stato Anubi stesso a parlare con i morti.',
       hi: 'यह आइटम किसी पूर्णिमा जब रहस्यमय मंत्र अंधेरे से फुसफुसाते हुए में सुना रहे थे पर जाली था। कुछ लोग कहते हैं कि यह मृत खुद मृत के साथ बात की देवता था।',
