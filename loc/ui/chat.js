@@ -20,7 +20,8 @@ export default {
     sv: 'Klan',
     bg: 'Клан',
     el: 'Φυλή',
-    tl: 'Lipi'
+    tl: 'Lipi',
+    ro: 'Clan'
   },
 
   system: {
@@ -43,7 +44,8 @@ export default {
     sv: 'System',
     bg: 'Система',
     el: 'Σύστημα',
-    tl: 'System'
+    tl: 'System',
+    ro: 'Sistem'
   },
 
   whisper: {
@@ -65,7 +67,8 @@ export default {
     sv: 'Viska',
     bg: 'шепот',
     el: 'Ψίθυρος',
-    tl: 'Bulong'
+    tl: 'Bulong',
+    ro: 'Șoaptă'
   },
 
   // translations not needed
