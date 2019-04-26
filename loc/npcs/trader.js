@@ -20,7 +20,8 @@ export default {
       ko: '안녕 방랑 여행자! 뭔가 팔고 싶니?',
       bg: 'Поздрави пътешественик! Искате ли да продадете нещо?',
       el: 'Χαιρετισμοί περιπλανώμενος ταξιδιώτης!  Θα θέλατε να πουλήσετε κάτι',
-      ro: 'Salutări călător rătăcitor! Ți-ar plăcea să vinzi ceva?'
+      ro: 'Salutări călător rătăcitor! Ți-ar plăcea să vinzi ceva?',
+      ph: 'Pagbabati ng mga biyahero! Gusto mo bang magbenta ng isang bagay?'
     },
     choices: {
       en: 'Yes, of course.',
@@ -41,7 +42,8 @@ export default {
       ko: '예, 물론입니다.',
       bg: 'Да разбира се.',
       el: 'Ναι φυσικά.',
-      ro: 'Da, desigur.'
+      ro: 'Da, desigur.',
+      ph: 'Oo naman.'
     }
   }]
 }
