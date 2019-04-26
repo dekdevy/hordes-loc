@@ -95,7 +95,7 @@ export default [
       sv: 'Orcs följer wielder av detta milda vapen. Det är ganska meningslöst, men de verkar gilla det ...',
       ko: '오크들은이 빈약 한 무기의 주인을 따릅니다. 그것은 꽤 쓸모 없지만, 그들은 그것을 좋아하는 것 같습니다 ...',
       ro: 'Orcii urmează posesorul acestei arme slabe. E inutil, dar se pare că le place...',
-      ph: 'Sinusunod ni Orcs ang manghuhula ng kaunting armas na ito. Ito ay medyo walang silbi, ngunit mukhang gusto nila ito ... ''
+      ph: 'Sinusunod ni Orcs ang manghuhula ng kaunting armas na ito. Ito ay medyo walang silbi, ngunit mukhang gusto nila ito ... '
     }
   },
 
