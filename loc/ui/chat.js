@@ -18,7 +18,8 @@ export default {
     cs: 'Klan',
     ja: '一族',
     sv: 'Klan',
-    bg: 'Клан'
+    bg: 'Клан',
+    el: 'Φυλή'
   },
 
   system: {
@@ -39,7 +40,8 @@ export default {
     cs: 'Systém',
     ja: 'システム',
     sv: 'System',
-    bg: 'Система'
+    bg: 'Система',
+    el: 'Σύστημα'
   },
 
   whisper: {
@@ -59,7 +61,8 @@ export default {
     cs: 'Šepot',
     ja: 'ささやく',
     sv: 'Viska',
-    bg: 'шепот'
+    bg: 'шепот',
+    el: 'Ψίθυρος'
   },
 
   // translations not needed
