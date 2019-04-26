@@ -5,10 +5,10 @@ export default {
     ru: 'Выйти',
     hi: 'बाहर आए',
     es: 'Dejar Juego', // TODO: shorten
-    de: 'Abmeldung',
+    de: 'Abmelden',
     fr: 'Déconnexion',
     ko: '로그 아웃',
-    bl: 'Излез от профила', // TODO: shorten
+    bg: 'Излез от профила', // TODO: shorten
     cs: 'Odhlásit se',
     el: 'Αποσυνδέση',
     ja: 'ログアウト',
@@ -18,7 +18,8 @@ export default {
     nl: 'Uitloggen',
     pt: 'Terminar sessão', // TODO: shorten
     pl: 'Wyloguj się',
-    ht: 'Dekonekte'
+    ht: 'Dekonekte',
+    ro: 'Deconectare'
   },
 
   home: {
@@ -29,7 +30,7 @@ export default {
     de: 'Startseite',
     fr: 'Accueil',
     ko: '홈페이지',
-    bl: 'Начална страница', // TODO: shorten
+    bl: 'У дома', // TODO: shorten
     cs: 'Domov',
     el: 'Αρχική σελίδα',
     ja: 'ホームページ',
@@ -39,6 +40,7 @@ export default {
     nl: 'Thuis',
     pt: 'voltar para inicio', // TODO: shorten
     pl: 'Strona główna',
-    ht: 'Paj lakay'
+    ht: 'Paj lakay',
+    ro: 'Acasă'
   }
 }

@@ -4,10 +4,10 @@ export default {
     en: 'Clan',
     /* TODO: Significantly shorten all of below, no longer than 5 chars, otherwise just use "clan" */
     ru: 'Клан',
-    hi: 'दल से दिखाए',
+    hi: 'दल',
     it: 'Clan',
     es: 'Clan',
-    de: 'Show-Clan',
+    de: 'Clan',
     fr: 'Afficher le clan',
     ko: '클랜 보이기',
     tr: 'Klan',
@@ -16,14 +16,18 @@ export default {
     pl: 'Pokaż klan',
     ht: 'Montre klan',
     cs: 'Klan',
-    ja: '一族'
+    ja: '一族',
+    sv: 'Klan',
+    bg: 'Клан',
+    el: 'Φυλή',
+    ph: 'Lipi'
   },
 
   system: {
     en: 'System',
-    /* TODO: Significantly shorten all below, no longer than 7 chars, otherwise just use "clan" */
+    /* TODO: Significantly shorten all below, no longer than 7 chars, otherwise just use "system" */
     ru: 'Система',
-    hi: 'सिस्टम से दिखाए',
+    hi: 'सिस्टम',
     it: 'Sistema',
     es: 'Sistema',
     de: 'System anzeigen',
@@ -35,7 +39,33 @@ export default {
     pl: 'System pokazów',
     ht: 'Montre Sistèm',
     cs: 'Systém',
-    ja: 'システム'
+    ja: 'システム',
+    sv: 'System',
+    bg: 'Система',
+    el: 'Σύστημα',
+    ph: 'System'
+  },
+
+  whisper: {
+    en: 'Whisper',
+    ru: 'шептать',
+    hi: 'फुसफुसाऐ',
+    it: 'Sussurro',
+    es: 'Susurro',
+    de: 'Flüstern',
+    fr: 'Chuchotement',
+    ko: '속삭임',
+    tr: 'Fısıltı',
+    nl: 'Fluisteren',
+    pt: 'Sussurro',
+    pl: 'Szept',
+    ht: 'Chichote',
+    cs: 'Šepot',
+    ja: 'ささやく',
+    sv: 'Viska',
+    bg: 'шепот',
+    el: 'Ψίθυρος',
+    ph: 'Bulong'
   },
 
   // translations not needed

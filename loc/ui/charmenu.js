@@ -22,7 +22,8 @@ export default {
       pl: 'Wybierz postać',
       nl: 'Selecteer karakter',
       pt: 'Selecionar Caractere',
-      ht: 'Chwazi karaktè'
+      ht: 'Chwazi karaktè',
+      ro: 'Selectează Caracterul'
     },
 
     create: {
@@ -44,7 +45,8 @@ export default {
       pl: 'Kliknij, aby utworzyć postać',
       nl: 'Klik om karakter te creëren',
       pt: 'Clique para criar um personagem',
-      ht: 'Klike sou yo kreye karaktè'
+      ht: 'Klike sou yo kreye karaktè',
+      ro: 'Click pentru a crea un caracter'
     },
 
     enterWorld: {
@@ -66,7 +68,8 @@ export default {
       pl: 'Wejdź do świata',
       nl: 'Betreed de wereld',
       pt: 'Entre no mundo',
-      ht: 'Antre Lemonn'
+      ht: 'Antre Lemonn',
+      ro: 'Intră în lume'
     },
 
     emptySlot: {
@@ -88,7 +91,8 @@ export default {
       pl: 'Pusty',
       nl: 'Leeg',
       pt: 'Vazio',
-      ht: 'Vide'
+      ht: 'Vide',
+      ro: 'Gol'
     },
 
     error: {
@@ -110,7 +114,8 @@ export default {
       pl: 'Błąd sieci',
       nl: 'Netwerkfout',
       pt: 'Erro de rede',
-      ht: 'Rezo erè'
+      ht: 'Rezo erè',
+      ro: 'Eroare de rețea'
     }
   },
 
@@ -135,7 +140,8 @@ export default {
       pl: 'Tworzenie postaci',
       nl: 'Karakter creatie',
       pt: 'Criação de personagens',
-      ht: 'Kreyasyon karaktè'
+      ht: 'Kreyasyon karaktè',
+      ro: 'Creare de personaje'
     },
 
     pressIcon: {
@@ -157,7 +163,8 @@ export default {
       pl: 'Naciśnij ikonę, aby uzyskać krótki opis',
       nl: 'Druk op een pictogram voor een korte beschrijving.',
       pt: 'Pressione um ícone para uma breve descrição.',
-      ht: 'Peze yon icon pou yon deskripsyon tou kout.'
+      ht: 'Peze yon icon pou yon deskripsyon tou kout.',
+      ro: 'Apăsați o pictogramă pentru o scurtă descriere.'
     },
 
     selectClass: {
@@ -179,7 +186,8 @@ export default {
       pl: 'Wybierz klasę',
       nl: 'Selecteer een klasse',
       pt: 'Selecione uma classe',
-      ht: 'Chwazi yon klas'
+      ht: 'Chwazi yon klas',
+      ro: 'Alegeți o clasă'
     },
 
     selectFaction: {
@@ -201,7 +209,8 @@ export default {
       pl: 'Wybierz frakcję',
       nl: 'Selecteer een groepering',
       pt: 'Selecione uma facção',
-      ht: 'Chwazi yon faksyon'
+      ht: 'Chwazi yon faksyon',
+      ro: 'Alegeți o facțiune'
     },
 
     enterName: {
@@ -223,7 +232,8 @@ export default {
       pl: 'Wpisz imię',
       nl: 'Voer een naam in',
       pt: 'Digite um nome',
-      ht: 'Mete yon non'
+      ht: 'Mete yon non',
+      ro: 'Introduceți un nume'
     },
 
     nameReq: {
@@ -245,7 +255,8 @@ export default {
       pl: 'Twoje imię może zawierać tylko znaki a-Z i cyfry 0-9, bez spacji. Do 16 znaków.',
       nl: 'Uw naam kan alleen tekens a-Z bevatten, en cijfers 0-9, zonder spaties. Tot 16 tekens.',
       pt: 'Seu nome só pode conter caracteres a-Z, e números 0-9, sem espaços. Até 16 caracteres.',
-      ht: 'Non ou ka sèlman gen karaktè a-Z, ak nimewo 0-9, san okenn espas. Jiska 16 karaktè.'
+      ht: 'Non ou ka sèlman gen karaktè a-Z, ak nimewo 0-9, san okenn espas. Jiska 16 karaktè.',
+      ro: 'Numele tău poate conține doar caractere a-Z, și numere 0-9, fără spații. Până la 16 caractere.'
     }
   },
 
@@ -271,7 +282,8 @@ export default {
       pl: 'Kasować',
       nl: 'Verwijderen',
       pt: 'Eliminar',
-      ht: 'Efase'
+      ht: 'Efase',
+      ro: 'Șterge'
     },
 
     info: {
@@ -280,7 +292,7 @@ export default {
       ru: 'Чтобы удалить, введите имя персонажа. Ваш персонаж не может быть восстановлен.',
       hi: 'हटाने के लिए नाम डाले आपका स्वरूप पुनर नहीं मिल पाएगा।',
       es: 'Para eliminar, escriba el nombre del caracter. Tu carácter no puede ser restaurado.',
-      de: 'Geben Sie zum Löschen den Namen des Zeichens ein. Dein Charakter kann nicht wiederhergestellt werden.',
+      de: 'Geben Sie zum Löschen deines character\'s den Namen ein. Dein Charakter kann nicht wiederhergestellt werden.',
       fr: 'Pour supprimer, saisissez le nom du personnage. Votre personnage ne pourra pas être restauré.',
       ko: '삭제하려면 캐릭터의 이름을 입력하십시오. 당신의 캐릭터는 회복 될 수 없습니다.',
       tr: 'Silmek için karakterin adını yazın. Silinen karakter geri getirilemez.',
@@ -293,7 +305,8 @@ export default {
       pl: 'Aby usunąć, wpisz nazwę postaci. Twoja postać nie może zostać przywrócona.',
       nl: 'Om te verwijderen, typt u de naam van het teken in. Je karakter kan niet worden hersteld.',
       pt: 'Para apagar, digite o nome do personagem. Seu personagem não pode ser restaurado.',
-      ht: 'Efase, tape non karaktè a. Karaktè ou pa kapab retabli.'
+      ht: 'Efase, tape non karaktè a. Karaktè ou pa kapab retabli.',
+      ro: 'Pentru a șterge, tastați numele caracterului. Personajul tău nu va putea fi restaurat'
     },
 
     placeholder: {
@@ -315,7 +328,8 @@ export default {
       pl: 'Jesteś pewny?',
       nl: 'Weet je het zeker?',
       pt: 'Tens a certeza?',
-      ht: 'Èske w sèten?'
+      ht: 'Èske w sèten?',
+      ro: 'Ești sigur?'
     }
   }
 }

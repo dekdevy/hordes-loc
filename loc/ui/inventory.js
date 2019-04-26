@@ -14,7 +14,7 @@ export default {
     pl: 'Inwentarz',
     bg: 'инвентар',
     cs: 'inventář',
-    el: 'καταγραφή εμπορευμάτων',   // TODO: oh god
+    el: 'αποθήκη',
     ja: '在庫',
     ph: 'imbentaryo',
     ht: 'envantè',

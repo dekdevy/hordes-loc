@@ -17,6 +17,7 @@ export default {
     tr: 'Vanguard sürüsü, toplumda gelenek, yapı ve düzeni arar. Kaleleri, Muhafız Taşı çevresindeki yemyeşil bir alanda bulunur.',
     it: 'L\'orda di avanguardia cerca la tradizione, la struttura e l\'ordine nella società. Il loro castello può essere trovato in un\'area verde fertile intorno a Guardstone.',
     ht: 'Vanguard chèche tradisyon, estrikti ak lòd nan sosyete a. Ka chato yo ka jwenn nan yon zòn bèl vèt alantou Guardstone.',
+    ph: 'Ang Vanguard horde ay naglalayong istraktura ng istraktura at kaayusan sa lipunan. Ang kanilang Castle ay makikita sa luntiang luntiang lugar sa paligid ng Guardstone.',
     pl: 'Horde Vanguard seeks tradition, structure and order in society. Their castle is located in the lush greenery around Guardstone.',
     el: 'Η ορχήστρα Bloodlust εκτιμά την ελευθερία και την πίστη προσφέρει ένα χώρο για ατομικισμό ή ακόμα και χάος. Οι άμυνές τους βρίσκονται σε μια ερημική περιοχή που ονομάζεται Headless Landing. ',
     bg: 'Ордата на кръвожадните ценности свобода и лоялност предлага място за индивидуализъм или дори хаос. Техните защити се намират в пустинен свят, наречен Безголовен кацане.',
