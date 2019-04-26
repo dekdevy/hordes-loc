@@ -255,8 +255,7 @@ export default [
       sv: 'Smidd utan värme, sliten utan rädsla.',
       ko: '열없이 단조, 두려움없이 착용.',
       ro: 'Forjate fără căldură, purtate fără frică.',
-      el: 'Σφυρήλατο χωρίς ζέστη, φοριέται χωρίς φόβο.',
-      ph: 'Peke na walang init, pagod na walang takot.'
+      el: 'Σφυρήλατο χωρίς ζέστη, φοριέται χωρίς φόβο.'
     }
   },
 
