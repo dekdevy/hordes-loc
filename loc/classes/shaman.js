@@ -17,7 +17,7 @@ export default {
     pl: 'Szaman',
     cs: 'Šaman',
     ja: 'シャーマン',
-    ph: 'Shaman',
+    tl: 'Shaman',
     el: 'Shaman',
     bg: 'шаман',
     ro: 'Șaman'
@@ -37,7 +37,7 @@ export default {
     hi: 'शमन की भूमिका टैंक का उपचार करके और आक्रामक बफ़रों की पेशकश करके या लक्ष्य की क्षमताओं के प्रभाव को कम करके समूह का समर्थन करना है।',
     it: 'Il ruolo dello sciamano è di sostenere il gruppo curando il carro armato e offrendo buff offensive o debuff paralizzanti.',
     ht: 'Wòl Chaman an se pou sipòte gwoup la pou geri tank la epi ofri ofwi ofansif oswa debouche kap kwape.',
-    ph: 'Ang papel ng Shamans ay upang suportahan ang grupo sa pamamagitan ng pagpapagaling sa Tank at nag-aalok ng nakakasakit Buffs o balduhin Debuffs.',
+    tl: 'Ang papel ng Shamans ay upang suportahan ang grupo sa pamamagitan ng pagpapagaling sa Tank at nag-aalok ng nakakasakit Buffs o balduhin Debuffs.',
     pl: 'Rolą szamana jest wspieranie grupy poprzez leczenie czołgu i oferowanie ofensywnych buffów lub kalekich debuffów.',
     cs: 'Úkolem Shaman je podporovat skupinu tím, že uzdraví Tank a nabídne útočné Buffy nebo ochromující Debuffy.',
     ja: 'シャーマンの役割は、戦車を癒して不快なバフを与えたり、不幸なデバフを倒したりすることでグループを支援することです。',
