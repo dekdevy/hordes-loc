@@ -16,7 +16,7 @@ export default {
     cs: 'inventář',
     el: 'αποθήκη',
     ja: '在庫',
-    ph: 'imbentaryo',
+    tl: 'imbentaryo',
     ht: 'envantè',
     ko: '목록',
     sv: 'inventarium'
