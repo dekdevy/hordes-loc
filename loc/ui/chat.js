@@ -42,6 +42,26 @@ export default {
     bg: 'Система'
   },
 
+  whisper: {
+    en: 'Whisper',
+    ru: 'шептать',
+    hi: 'फुसफुसाना',
+    it: 'Sussurro',
+    es: 'Susurro',
+    de: 'Flüstern',
+    fr: 'Chuchotement',
+    ko: '속삭임',
+    tr: 'Fısıltı',
+    nl: 'Fluisteren',
+    pt: 'Sussurro',
+    pl: 'Szept',
+    ht: 'Chichote',
+    cs: 'Šepot',
+    ja: 'ささやく',
+    sv: 'Viska',
+    bg: 'шепот'
+  },
+
   // translations not needed
   loot: {
     $$: 'Loot'
