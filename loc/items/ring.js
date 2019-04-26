@@ -19,7 +19,8 @@ export default [
       ja: 'それを見てはいけないか、それはバラバラになります。',
       ht: 'Pa gade li oswa li pral tonbe apa.',
       sv: 'Titta inte på det eller det kommer att falla ifrån varandra.',
-      ko: '그것을 보지 않거나 떨어져 나옵니다.'
+      ko: '그것을 보지 않거나 떨어져 나옵니다.',
+      ro: 'Nu te uita la el sau se va destrăma.'
     }
   },
 
@@ -43,7 +44,8 @@ export default [
       ja: '樹皮についてはわからないが、それは確かに鉄でできている。',
       ht: 'Pa sèten sou jape la, men li la definitivman te fè nan fè.',
       sv: 'Inte säker på barken, men det är definitivt gjord av järn.',
-      ko: '나무 껍질에 대해서는 잘 모르겠지만 철분으로 만들어졌습니다.'
+      ko: '나무 껍질에 대해서는 잘 모르겠지만 철분으로 만들어졌습니다.',
+      ro: 'Nu sunt sigur despre coajă, dar este cu sigurață făcut din fier.'
     }
   },
 
@@ -67,7 +69,8 @@ export default [
       ja: 'つやのあるリング。',
       ht: 'Finalman, yon bag ki klere.',
       sv: 'Slutligen en ring som är glänsande.',
-      ko: '마지막으로, 빛나는 반지.'
+      ko: '마지막으로, 빛나는 반지.',
+      ro: 'În sfârșit, un inel care strălucește.'
     }
   },
 
@@ -91,7 +94,8 @@ export default [
       ja: '最後の夜の残り物で作られた指輪。',
       sv: 'En ring gjord av nattens rester.',
       ko: '어젯밤의 남은 음식으로 만든 반지.',
-      ht: 'Yon bag te fè nan rès rezèv yè swa a.'
+      ht: 'Yon bag te fè nan rès rezèv yè swa a.',
+      ro: 'Un inel făcut din resturile de aseară.'
     }
   },
 
@@ -115,7 +119,8 @@ export default [
       ja: 'エルフは危険から身を守るためにこの指輪を作り、それを譲ることに成功した。',
       ht: 'Luten yo te fè sa a bag pwoteje tèt yo kont danje epi yo reyisi nan bay li ale.',
       sv: 'Elvorna gjorde denna ring för att skydda sig från fara och lyckades ge bort det.',
-      ko: '엘프들은이 반지를 만들어 위험으로부터 자신을 보호하고 그것을 버리기에 성공했습니다.'
+      ko: '엘프들은이 반지를 만들어 위험으로부터 자신을 보호하고 그것을 버리기에 성공했습니다.',
+      ro: 'Elfii au făcut acest inel pentru a se proteja de pericole și au reușit în să îl dea deoparte.'
     }
   },
 
@@ -139,7 +144,8 @@ export default [
       ja: 'それが与える効果はわずかですが、うまく収まります。',
       ht: 'Adapte joliman, byen ke efè li bay yo majinal.',
       sv: 'Passar snyggt, även om effekterna det ger är marginella.',
-      ko: '멋지게 잘 맞습니다. 효과는 거의 없습니다.'
+      ko: '멋지게 잘 맞습니다. 효과는 거의 없습니다.',
+      ro: 'Se potrivește bine, cu toate că efectele pe care le dă sunt marginale.'
     }
   },
 
@@ -163,7 +169,8 @@ export default [
       ja: 'それを着る価値があるかどうか誰も知りません。',
       ht: 'Pa gen moun ki konnen si li vo mete.',
       sv: 'Ingen vet om det är värt att lägga på.',
-      ko: '아무 가치도 없다면 아무도 몰라요.'
+      ko: '아무 가치도 없다면 아무도 몰라요.',
+      ro: 'Nimeni nu știe dacă merită să-l pui pe deget.'
     }
   },
 
@@ -187,7 +194,8 @@ export default [
       ja: 'あなたを豊かな気分にさせるためのあらゆる面のエメラルド。',
       ht: 'Emrod sou tout kote yo fè ou santi ou rich.',
       sv: 'Smaragder på alla sidor för att få dig att känna dig rik.',
-      ko: '너를 부자로 만드는 에메랄드.'
+      ko: '너를 부자로 만드는 에메랄드.',
+      ro: 'Are smaralde în toate părțile pentru a te face să te simți bogat.'
     }
   },
 
@@ -211,7 +219,8 @@ export default [
       ja: 'それが話すことができればそれはおそらく三角形であることについて不平を言うでしょう。',
       ht: 'Si li te kapab pale, li ta pwobableman pote plent pou yo te triyangilè.',
       sv: 'Om det kunde tala skulle det troligen klaga på att vara triangulärt.',
-      ko: '말할 수 있다면 아마도 삼각형에 대해 불평 할 것입니다.'
+      ko: '말할 수 있다면 아마도 삼각형에 대해 불평 할 것입니다.',
+      ro: 'Dacă ar putea vorbi, probabil s-ar plânge că e triunghiular.'
     }
   },
 
@@ -235,7 +244,8 @@ export default [
       ja: 'その起源について私たちに伝えるための書面による記録はありません。',
       ht: 'Pa gen okenn dosye ekri ki egziste di nou sou orijin li yo ...',
       sv: 'Det finns inga skrivna poster för att berätta om sitt ursprung ...',
-      ko: '원산지에 대해 알려주는 기록이 없습니다 ...'
+      ko: '원산지에 대해 알려주는 기록이 없습니다 ...',
+      ro: 'Nu există înregistrări scrise care să ne spună despre originea lui...'
     }
   },
 
@@ -259,7 +269,8 @@ export default [
       ja: '聖ドルイドによって失われた神聖なアーティファクト。',
       ht: 'Sakrifis sakre pèdi pa druid apa pou Bondye.',
       sv: 'Helig artefakt förlorad av heliga druider.',
-      ko: '거룩한 드루이드가 잃어버린 신성한 유물.'
+      ko: '거룩한 드루이드가 잃어버린 신성한 유물.',
+      ro: 'Artefact sacru, pierdut de sfinții druizii.'
     }
   },
 
@@ -283,7 +294,8 @@ export default [
       ja: '平和の番人....それについてはよくわからないが、それはあなたを生かし続けるかもしれない……',
       ht: 'Gadyen lapè ... pa sèten sou sa, men li ta ka kenbe ou vivan ...',
       sv: 'Fredsbevarare ... inte säker på det, men det kan hålla dig vid liv ...',
-      ko: '평화를 지키기 위해 ... 확실하지는 않지만, 당신을 살릴 수 있습니다.'
+      ko: '평화를 지키기 위해 ... 확실하지는 않지만, 당신을 살릴 수 있습니다.',
+      ro: 'Păstrător al păcii...nu sunt sigur de asta, dar s-ar putea să te țină în viață...'
     }
   }
 
