@@ -18,7 +18,8 @@ export default {
     cs: 'Dobře',
     ja: 'はい',
     bg: 'Добре',
-    el: 'εντάξει'
+    el: 'εντάξει',
+    ph: 'Sige'
   },
 
   back: {
@@ -39,7 +40,8 @@ export default {
     cs: 'Zadní',
     ja: 'バック',
     bg: 'Oбратно',
-    el: 'Πίσω'
+    el: 'Πίσω',
+    ph: 'Bumalik'
   },
 
   accept: {
@@ -60,7 +62,8 @@ export default {
     cs: 'Akceptovat',
     ja: '受け入れる',
     bg: 'приемам',
-    el: 'Αποδέχομαι'
+    el: 'Αποδέχομαι',
+    ph: 'Tanggapin'
 
   },
 
@@ -82,7 +85,8 @@ export default {
     cs: 'Pokles',
     ja: '低下',
     bg: 'упадък',
-    el: 'Πτώση'
+    el: 'Πτώση',
+    ph: 'Tanggihan'
   },
 
   close: {
@@ -103,6 +107,7 @@ export default {
     cs: 'Zavřít',
     ja: '閉じる',
     bg: 'Близо',
-    el: 'Κοντά'
+    el: 'Κοντά',
+    ph: 'Isara'
   }
 }
