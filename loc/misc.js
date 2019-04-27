@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {$$: 'Boar Hide' },
+    name      : {$$: 'Boar Hide' },
 
     description: {
       en: 'Thick furry leather making you pant as you drag it behind you.'
@@ -8,7 +8,7 @@ export default [
   },
 
   {
-    name       :{$$: 'Fruit Bowl'},
+    name      : {$$: 'Fruit Bowl'},
 
     description: {
       en: 'An apple a day keeps the monsters away....is that what they say?'
