@@ -1,7 +1,6 @@
 export default {
   interactions: [{
     text: {
-      // This is not a final text, just a placeholder, probably not worth translating yet
       en: 'Greetings wandering traveler! Would you like to sell something?',
       ru: 'Приветствую путник! Хочешь продать что-нибудь?',
       es: 'Saludos viajero errante! ¿Quieres vender algo?',
@@ -15,7 +14,13 @@ export default {
       cs: 'Pozdravy putování cestovatel!  Chcete něco prodat?',
       ja: '旅人をさまよう挨拶！何か売りたいですか？',
       hi: 'नमस्ते यात्री! क्या आप कुछ बेचना चाहते है?',
-      tr: 'Selam dolaşan gezgin! Bir şeyler satmak ister misin?'
+      tr: 'Hoş geldin dolaşan gezgin! Bir şeyler satmak ister misin?',
+      sv: 'Hälsningar vandrande resenären! Vill du sälja något?',
+      ko: '안녕 방랑 여행자! 뭔가 팔고 싶니?',
+      bg: 'Поздрави пътешественик! Искате ли да продадете нещо?',
+      el: 'Χαιρετισμοί περιπλανώμενος ταξιδιώτης!  Θα θέλατε να πουλήσετε κάτι',
+      ro: 'Salutări călător rătăcitor! Ți-ar plăcea să vinzi ceva?',
+      tl: 'Pagbabati ng mga biyahero! Gusto mo bang magbenta ng isang bagay?'
     },
     choices: {
       en: 'Yes, of course.',
@@ -31,7 +36,13 @@ export default {
       cs: 'Ano, samozřejmě.',
       ja: 'はい、もちろん。',
       hi: 'हां बिल्कुल।',
-      tr: 'Evet, tabii ki.'
+      tr: 'Evet, tabii ki.',
+      sv: 'Ja självklart.',
+      ko: '예, 물론입니다.',
+      bg: 'Да разбира се.',
+      el: 'Ναι φυσικά.',
+      ro: 'Da, desigur.',
+      tl: 'Oo naman.'
     }
   }]
 }

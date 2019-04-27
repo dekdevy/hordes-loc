@@ -13,11 +13,15 @@ export default [
       tr: 'En azından ayağına bir şeyler giyiyorsun.',
       pl: 'Przynajmniej nosisz coś na tych stopach.',
       sv: 'Åtminstone bär du något på dessa fötter.',
+      tl: 'Hindi bababa sa ikaw ay may suot ng isang bagay sa mga paa.',
       ht: 'Omwen wap mete yon bagay sou pye sa yo.',
       cs: 'Přinejmenším máš na těch nohách něco.',
       ja: '少なくともあなたはそれらの足に何かを着ています。',
+      el: 'Τουλάχιστον φοράτε κάτι σε αυτά τα πόδια.',
+      bg: 'Поне ти носиш нещо на тези крака.',
       hi: 'कम से कम आप उन पैरों पर कुछ पहने हुए हैं।',
-      ko: '적어도 너는 그 발에 무언가를 신었다.'
+      ko: '적어도 너는 그 발에 무언가를 신었다.',
+      ro: 'Cel puțin poți purta ceva în picioare.'
     }
   },
 
@@ -34,12 +38,16 @@ export default [
       nl: 'Zolen van doek, zullen waarschijnlijk na een paar uur scheuren.',
       tr: 'Kumaştan yapılmış tabanlar, birkaç saat sonra muhtemelen yırtılacak.',
       pl: 'Podeszwy wykonane z tkaniny, prawdopodobnie rozerwą się po kilku godzinach.',
+      tl: 'Ang mga solong gawa sa tela ay malamang na mapunit pagkatapos ng ilang oras.',
       sv: 'Soles gjorda av tyg, kommer troligen att riva efter några timmar.',
       ht: 'Plant te fè soti nan twal, pwal pwobableman detache apre kèk èdtan.',
       cs: 'Podešve vyrobené z látky se po několika hodinách pravděpodobně roztrhnou.',
       ja: '布で作られた足の裏はおそらく数時間後に裂けるでしょう。',
+      el: 'Τα πέλματα από ύφασμα πιθανόν να σχίσουν μετά από λίγες ώρες.',
+      bg: 'Подметките, направени от плат, вероятно ще се разкъсат след няколко часа.',
       hi: 'कपड़ा से बना तलवों, शायद कुछ घंटों के बाद आंसू होगा।',
-      ko: '옷감으로 만든 신, 몇 시간 후에 찢어 질 것입니다.'
+      ko: '옷감으로 만든 신, 몇 시간 후에 찢어 질 것입니다.',
+      ro: 'Talpa din pânză, probabil se va rupe după câteva ore.'
     }
   },
 
@@ -57,11 +65,15 @@ export default [
       tr: 'Bu yumuşak derinin, ürkütücü ormanda dolaşan yaban domuzlarından sıyrıldığı söylenir.',
       pl: 'Mówi się, że miękka skóra jest rozebrana z dzika wędrującego po przerażających lasach.',
       sv: 'Det mjuka läderet sägs vara avskilt från vildsvin som roaming de kusliga skogen.',
+      tl: 'Ang malambot na katad ay sinasabing hinubaran ng mga ligaw na baboy na nakasisilaw sa nakatatakot na mga kahoy.',
       ht: 'li te di kwi mou yo dwe wete nan sangliye sovaj vagan bwa yo etranj.',
+      el: 'Το μαλακό δέρμα λέγεται ότι απογυμνώνεται από αγριόχοιρους περιαγώνοντας το απόκοσμο δάσος.',
+      bg: 'За меката кожа се казва, че е съблечена от диви свине, прекосяващи зловещите гори.',
       cs: 'Říká se, že měkká kůže je zbavena divokých prasat roamingu děsivých lesů.',
       ja: '柔らかい革は不気味な森を歩き回っているイノシシを剥ぎ取られると言われています。',
       hi: 'नरम चमड़े भयानक जंगल घूम जंगली सूअर बंद छीन लिया जा करने के लिए कहा जाता है।',
-      ko: '부드러운 가죽은 섬뜩한 숲을 돌아 다니는 야생 멧돼지에서 벗겨졌다.'
+      ko: '부드러운 가죽은 섬뜩한 숲을 돌아 다니는 야생 멧돼지에서 벗겨졌다.',
+      ro: 'Se zvonește că pielea moale a fost dezbrăcată de mistreții ce se plimbau prin pădurea stranie.'
     }
   },
 
@@ -80,10 +92,14 @@ export default [
       pl: 'Wyraźnie pozbawiony wyobraźni, twórca wykonał buty z kości bardzo dużego stworzenia...',
       sv: 'Klart saknar fantasi gjorde tillverkaren stövlar från benen i en väldigt stor varelse ...',
       ht: 'Klèman manke nan imajinasyon, Maker la te fè bòt soti nan zo yo nan yon bèt gwo anpil ...',
+      tl: 'Maliwanag na kulang sa imahinasyon ang gumagawa ay gumawa ng mga bota mula sa mga buto ng isang napakalaking nilalang ...',
       cs: 'Jasně chybí představivost a vyrábí boty z kostí velkého stvoření ...',
       ja: '想像力に欠け、明らかに巨大な生き物の骨からブーツを作りました。',
       hi: 'जाहिर है कल्पना में कमी है, निर्माता एक बहुत बड़ी प्राणी की हड्डियों से जूते बनाया ...',
-      ko: '분명히 상상력이 부족한이 제작자는 매우 큰 생물의 뼈에서 부츠를 만들었습니다...'
+      el: 'Σαφώς λείπει από τη φαντασία ο κατασκευαστής έκανε μπότες από τα οστά ενός πολύ μεγάλου πλάσματος ...',
+      bg: 'Очевидно без въображение, производителят е направил ботуши от костите на много голямо същество ...',
+      ko: '분명히 상상력이 부족한이 제작자는 매우 큰 생물의 뼈에서 부츠를 만들었습니다...',
+      ro: 'În mod evident lipsit de imaginație, producătorul a făcut cizmele din oasele unei creaturi foarte mari ...'
     }
   },
 
@@ -101,11 +117,15 @@ export default [
       tr: 'Gizemli pullar, ayakkabınızın dışını örterek güneşte göz kamaştırıyor.',
       pl: 'The mysterious scale covers the outside of the shoe, capturing reflections in the sun.',
       sv: 'Mystiska vågar täcker utsidan av dina skor, fångar glares i solen.',
+      tl: 'Ang mga mahiwagang kaliskis ay sumasaklaw sa labas ng iyong kasuotan sa paa nakahahalina glares sa araw.',
+      el: 'Μυστηριώδεις κλίμακες καλύπτουν το εξωτερικό των υποδημάτων σας που τραβάνε τις γεύσεις στον ήλιο.',
+      bg: 'Тайнствените люспи покриват външността на обувките ви, хванали погледите на слънцето.',
       ht: 'Balans misterye kouvri deyò a nan soulye ou a, pwan fikse nan solèy la.',
       cs: 'Tajemství váhy pokrývají vnější stranu vaší obuvi, chytí do očí slunce.',
       ja: '神秘的な鱗があなたの履物の外側を覆い、太陽の光を捉えます。',
       hi: 'रहस्यमय तराजू अपने जूते के बाहर कवर, धूप में प्रकाश को पकड़ने।',
-      ko: '신비한 비늘은 신발의 바깥을 덮고 태양 빛을 따라 잡습니다.'
+      ko: '신비한 비늘은 신발의 바깥을 덮고 태양 빛을 따라 잡습니다.',
+      ro: 'Solzi misterioși acoperă exteriorul încălțămintelor tale, atrăgând priviri când stau în soare.'
     }
   },
 
@@ -122,12 +142,16 @@ export default [
       nl: 'Een aangenaam patroon om je vijanden te verlammen.... of het werkt.',
       tr: 'Düşmanlarınızı felç etmek için yapılan hoş bir desen... işe yarayıp yaramadığını merak konusu.',
       pl: 'Przyjemny wzór stworzony w celu sparaliżowania twoich wrogów... zastanawiam się, czy działa...',
+      tl: 'Isang maayang pattern na ginawa upang maparalisa ang iyong mga kaaway ... magtaka kung ito gumagana.',
       sv: 'Ett trevligt mönster för att förlamna dina fiender ... undrar om det fungerar.',
       ht: 'Yon modèl bèl te fè nan paralize lènmi ou... mande si li fonksyone.',
       cs: 'Příjemný vzor, ​​který paralyzuje vaše nepřátele ... zajímá vás, jestli to funguje.',
       ja: 'あなたの敵を麻痺させるために作られた楽しいパターン…それがうまくいくかどうか疑問に思う',
       hi: 'एक सुखद पैटर्न अपने दुश्मनों को पंगु बना ... आश्चर्य है कि अगर यह काम करता है बनाया है।',
-      ko: '적을 마비시키는 유쾌한 패턴이있다... 되는지는 모르겠다.'
+      el: 'Ένα ευχάριστο σχέδιο για να παραλύσει τους εχθρούς σας ... αναρωτιέται αν λειτουργεί.',
+      bg: 'Приятна картина, направена да парализира враговете ви ... чудя се дали работи.',
+      ko: '적을 마비시키는 유쾌한 패턴이있다... 되는지는 모르겠다.',
+      ro: 'Un model plăcut făcut pentru a paraliza inamicii... mă întreab dacă funcționează.'
     }
   },
 
@@ -148,8 +172,12 @@ export default [
       ht: 'Pran nan men veteran lagè ki klèman pa jwenn ase pwoteksyon soti nan greaves sa yo.',
       cs: 'Odvedeni od válečných veteránů, kteří zjevně nenalezli dostatečnou ochranu před těmito škvarky.',
       ja: '明らかにこれらの奴隷からの十分な保護を見つけることができなかった戦争のベテランから取られます。',
+      tl: 'Kinuha mula sa mga beterano ng digmaan na malinaw na hindi nakahanap ng sapat na proteksyon mula sa mga ito.',
       hi: 'युद्ध के दिग्गजों, जो स्पष्ट रूप से इन ग्रीव्स से पर्याप्त सुरक्षा नहीं मिला से लिया।',
-      ko: '분명히이 부츠에서 충분한 보호를 찾지 못한 전쟁 참전 용사에게서 가져온 것입니다.'
+      el: 'Λαμβανόταν από βετεράνους πολέμου που σαφώς δεν βρήκαν αρκετή προστασία από αυτά τα χοντρά σχοινιά.',
+      bg: 'Взети от ветерани от войната, които очевидно не са намерили достатъчно защита от тези пръжки.',
+      ko: '분명히이 부츠에서 충분한 보호를 찾지 못한 전쟁 참전 용사에게서 가져온 것입니다.',
+      ro: 'Luate de la veterani de război care, evident, nu au găsit suficientă protecție în aceste cizme.'
     }
   },
 
@@ -168,10 +196,14 @@ export default [
       pl: 'W swoim wyglądzie, prawdopodobnie bardzo niewygodny.',
       sv: 'Chunky i sitt utseende, förmodligen mycket obekväma.',
       ht: 'Chunky nan sanble li yo, pwobableman trè alèz.',
+      tl: 'Chunky sa kanyang hitsura marahil napaka hindi komportable.',
       cs: 'Chunky v jeho vzhledu, pravděpodobně velmi nepříjemné.',
       ja: '分厚いその外観はおそらく非常に不快です。',
       hi: 'इसके दिखता में चंकी, शायद बहुत ही असहज।',
-      ko: '그 모습이 거칠고, 아마도 매우 불편합니다.'
+      el: 'Χοντροκομμένο στην εμφάνισή του μάλλον πολύ άβολα.',
+      bg: 'Корена си изглежда вероятно много неприятно.',
+      ko: '그 모습이 거칠고, 아마도 매우 불편합니다.',
+      ro: 'Arată îndesate, probabil foarte inconfortabile'
     }
   },
 
@@ -190,10 +222,14 @@ export default [
       pl: 'Biegnij tak szybko jak wiatr.... lub blisko niego.',
       sv: 'Kör så fort som vinden ... eller nära den.',
       ht: 'Kouri vit tankou van an ... oswa tou pre li.',
+      tl: 'Magpatakbo nang mabilis hangga\'t ang hangin ... o malapit dito.',
+      el: 'Εκτελέστε τον άνεμο ... ή κοντά του.',
+      bg: 'Бягайте по-бързо от вятъра ... или близо до него.',
       cs: 'Jdi tak rychle jako vítr ... nebo blízko k němu.',
       ja: '風と同じくらい速く走るか、またはそれに近づける。',
       hi: 'हवा के रूप में के रूप में जल्दी ... या इसे करने के लिए करीब चलाएँ।',
-      ko: '바람처럼 빨리 달릴 수 있습니다... 그것에 가깝습니다.'
+      ko: '바람처럼 빨리 달릴 수 있습니다... 그것에 가깝습니다.',
+      ro: 'Fugi rapid ca și vântul... sau aproape ca el.'
     }
   },
 
@@ -214,8 +250,12 @@ export default [
       cs: 'Kované bez tepla, běží bez klopýtnutí.',
       ja: '熱なしで鍛造はつまずくことなく実行されます。',
       hi: 'गर्मी के बिना जाली, ठोकर बिना चलाता है।',
+      tl: 'Peke na walang init ay tumatakbo nang hindi marapa.',
+      el: 'Σφυρηλατημένο χωρίς ζέσταμα χωρίς σκόντα.',
+      bg: 'Ковано без топлина, без да се препъва.',
       ht: 'Te dwe fòje san chalè, baz pa kase pye.',
-      ko: '열없이 단조되었다, 비틀 거림없이 달릴수있다.'
+      ko: '열없이 단조되었다, 비틀 거림없이 달릴수있다.',
+      ro: 'Forjat fără căldură, alergă fără să se poticnească.'
     }
   },
 
@@ -231,13 +271,17 @@ export default [
       pt: 'Alguns dizem que se pode correr em nuvens com isto. Os poucos que tentaram já ascenderam.',
       nl: 'Sommigen zeggen dat je hiermee op wolken kunt lopen. De weinigen die het geprobeerd hebben zijn al opgestegen.',
       tr: 'İnsanlar bunlarla bulutların üzerinde koşabileceğinizi söylüyor. Denemiş olan birkaç kişi çoktan atmosfere ulaştı bile.',
+      tl: 'Ang ilang mga sinasabi maaari kang tumakbo sa mga ulap sa mga ito. Ang ilang mga na sinubukan ay umakyat na.',
       pl: 'Niektórzy mówią, że możesz biegać z nimi po chmurach. Nieliczni, którzy próbowali, już się podnieśli.',
       sv: 'Vissa säger att du kan springa på moln med dessa. De få som har försökt har redan stigit upp.',
       cs: 'Někteří říkají, že s nimi můžete běžet na mraky. Těch několik, kteří se už pokusili vystoupit.',
       ja: 'あなたはこれらで雲の上を走ることができると言う人もいます。試みた少数の人はすでに上がっています。',
       hi: 'कुछ लोग कहते हैं कि आप इन के साथ बादलों पर चला सकते हैं। कुछ है कि कोशिश की है पहले से ही चढ़ा है।',
+      el: 'Κάποιοι λένε ότι μπορείτε να τρέξετε σε σύννεφα με αυτά. Οι λίγοι που έχουν δοκιμάσει έχουν ήδη ανέλθει.',
+      bg: 'Някои казват, че с тях може да тичате на облаци. Малцината, които са се опитали, вече са се възнесли.',
       ht: 'Yon lòt ankò: ou ka kouri sou nwaj yo ak tout bagay sa. Twa ki te eseye fè deja est.',
-      ko: '어떤 사람들은 이장화로 구름 위에서 뛰어 다닐 수 있다고 말한다. 시도한 몇명은 하늘나라로 갔다.'
+      ko: '어떤 사람들은 이장화로 구름 위에서 뛰어 다닐 수 있다고 말한다. 시도한 몇명은 하늘나라로 갔다.',
+      ro: 'Câțiva oameni spun că poți alerga pe nori cu acestea. Puținii care au incercat s-au înălțat deja.'
     }
   },
 
@@ -249,6 +293,7 @@ export default [
       de: 'Alte Stiefel sollen aus den Füßen des römischen Kuriergottes gestohlen worden sein...',
       es: 'Botas del mesajero mentiroso, del espía nocturno, del dios griego de apoyar y asesinar.',
       fr: 'Des bottes anciennes qui auraient été volées aux pieds du dieu messager romain....',
+      tl: 'Ang sinaunang bota na rumored na ninakaw mula sa mga paa ng diyos ng sugo ng Romano ...',
       it: 'Stivali antichi che si dice siano stati rubati dai piedi del dio messaggero romano...',
       pt: 'Dizem que botas antigas foram roubadas dos pés do deus mensageiro romano...',
       nl: 'Eeuwenoude laarzen, waarvan wordt beweerd dat ze gestolen zijn uit de voeten van de Romeinse boodschappergod....',
@@ -258,8 +303,11 @@ export default [
       cs: 'Starověké boty, o nichž se říkalo, že jsou ukradeny z nohou římského posla boha ...',
       ja: '古代のブーツはローマのメッセンジャーの神の足から盗まれると噂されています...',
       hi: 'प्राचीन अफवाह जूते रोमन दूत भगवान के चरणों से चोरी किए जाने की ...',
+      el: 'Αρχαία μπότες που φημολογούνται ότι κλέβονται από τα πόδια του ρωμαϊκού θεού του αγγελιοφόρου ...',
+      bg: 'Древните ботуши, за които се говори, че са откраднати от краката на римския бог ...',
       ht: 'Ansyen bòt nan komansman que pou pou te vòlè nan pye Bondye Romen mesaje a...',
-      ko: '로마의 메신저 신의 신발을 도둑질한 소문이 돈다...'
+      ko: '로마의 메신저 신의 신발을 도둑질한 소문이 돈다...',
+      ro: 'Bocanci antici, zvoniți a fi furați de la picioarele unui zeu mesager roman...'
     }
   },
 
@@ -275,13 +323,17 @@ export default [
       pt: 'As estrelas sempre foram consideradas todo-poderosas, agora são tuas.',
       nl: 'Sterren werden altijd beschouwd als almachtig, nu zijn ze van jou.',
       tr: 'Yıldızlar her zaman kudretli olarak kabul edildi, şimdi onlar senin.',
+      tl: 'Ang mga bituin ay palaging itinuturing na pinakamakapangyarihan ngayon sila ay iyo.',
       pl: 'Gwiazdy zawsze uważano za wszechmocne, teraz są twoje.',
       sv: 'Stjärnor anses alltid vara allsmäktiga, nu är de din.',
       cs: 'Hvězdy byly vždy považovány za všemohoucího, teď jsou vaše.',
       ja: '星は常に万能であると考えられてきました。',
       hi: 'सितारे हमेशा सर्वशक्तिमान माना जाता था, अब वे तुम्हारा कर रहे हैं।',
+      el: 'Τα αστέρια πάντα θεωρούνταν παντοδύναμα τώρα που είναι δικά σας.',
+      bg: 'Звездите винаги са били считани за всемогъщи, сега са ваши.',
       ht: 'Zetwal te toujou konsidere tout, koulye a, y\' ap ye.',
-      ko: '별은 언제나 전능자로 여겨졌습니다, 이제 당신의 것입니다.'
+      ko: '별은 언제나 전능자로 여겨졌습니다, 이제 당신의 것입니다.',
+      ro: 'Stelele au fost întotdeauna considerate a fi atotputernice, acum sunt ale tale.'
     }
   }
 
