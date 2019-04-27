@@ -28,7 +28,8 @@ export default {
     nl: 'Je hebt opgepikt $1',
     es: 'Usted ha recogido $1',
     pt: 'Você pegou $1',
-    it: 'Hai preso $1'
+    it: 'Hai preso $1',
+    ro: 'Ai luat $1'
   },
 
   full: {
@@ -36,7 +37,8 @@ export default {
     nl: 'Uw inventaris is vol.',
     es: 'Su inventario está lleno',
     pt: 'O seu inventário está cheio',
-    it: 'Il tuo inventario è pieno'
+    it: 'Il tuo inventario è pieno',
+    ro: 'Inventarul tău este plin'
   },
 
   sell: {
@@ -44,6 +46,7 @@ export default {
     nl: 'U heeft verkocht $1 aan $2',
     es: 'Usted ha vendido $1 por $2',
     pt: 'Você vendeu $1 por $2',
-    it: 'Hai venduto $1 per $2'
+    it: 'Hai venduto $1 per $2',
+    ro: 'Ai vândut $1 pentru $2'
   }
 }
