@@ -29,7 +29,7 @@ export default {
     es: 'Usted ha recogido $1',
     pt: 'Você pegou $1',
     it: 'Hai preso $1',
-    de: 'Du hast $1 gesammelt.
+    de: 'Du hast $1 gesammelt.'
   },
 
   full: {
