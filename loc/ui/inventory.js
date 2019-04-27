@@ -39,8 +39,7 @@ export default {
     tl: 'Kinuha mo na $1',
     ht: 'Ou ranmase $1',
     ko: '당신은 $1 를 선택했습니다.',
-    sv: 'Du har plockat upp $1',
-    ro: 'Ați luat $1'
+    sv: 'Du har plockat upp $1'
   },
 
   full: {
