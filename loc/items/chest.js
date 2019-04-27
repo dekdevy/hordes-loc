@@ -113,7 +113,7 @@ export default [
       fr: 'Costume dur fait d\'écailles prises d\'un puissant dragon qui errait autrefois sur ces terres.',
       pt: 'Um fato duro feito de escamas tiradas de um poderoso dragão que percorreu estas terras.',
       nl: 'Hard pak gemaakt van schubben van een machtige draak die ooit in dit land rondzwierf.',
-      ph: 'Hard suit na ginawa mula sa mga kaliskis kinuha mula sa isang makapangyarihang dragon na minsan roamed ang mga lupain.',
+      tl: 'Hard suit na ginawa mula sa mga kaliskis kinuha mula sa isang makapangyarihang dragon na minsan roamed ang mga lupain.',
       hi: 'हार्ड एक शक्तिशाली अजगर है कि एक बार इन भूमि रोमिंग से लिया तराजू से बने सूट।',
       pl: 'Twardy garnitur wykonany ze skal wziętych od potężnego smoka, który kiedyś poruszał się po tych ziemiach.',
       it: 'Tuta rigida fatta di bilance prese da un potente drago che una volta vagando per queste terre.',
