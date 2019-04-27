@@ -53,7 +53,10 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'indecipherable', 'indecorous', 'inappropiate', 'melodic', 'stlited', 'artificial', 'dangerous', 'awkward', 'awful',
   'marauding', 'spectacular', 'beatific', 'beautiful', 'gullible', 'highbrow', 'lowbrow', 'hibernating', 'sleeping', 'hideous',
   'humble', 'humid', 'itchy', 'jerky', 'jesting', 'jejune', 'jeeming', 'kidnapping', 'abducting', 'motionless', 'motley',
-  'grim', 'poised', 'rudimentary', 'emerald', 'eminent', 'famous', 'innocuous']
+  'grim', 'poised', 'rudimentary', 'emerald', 'eminent', 'famous', 'innocuous', 'engraved', 'engrossing', 'engulfing',
+  'aquatic', 'hardcore', 'haughty', 'scornful', 'ingenius', 'parasitic', 'paroxysmal', 'parrying', 'problematic', 'sane',
+  'swearing', 'swingeing', 'swinging', 'tangible', 'tawdry', 'thievish', 'prosaic', 'placid', 'oracular', omniscient', 'oniony',
+  'natty']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
