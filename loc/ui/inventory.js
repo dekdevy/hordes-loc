@@ -27,20 +27,23 @@ export default {
     en: 'You have picked up $1',
     nl: 'Je hebt opgepikt $1',
     es: 'Usted ha recogido $1',
-    pt: 'Você pegou $1'
+    pt: 'Você pegou $1',
+    it: 'Hai preso $1'
   },
 
   full: {
     en: 'Your inventory is full',
     nl: 'Uw inventaris is vol.',
     es: 'Su inventario está lleno',
-    pt: 'O seu inventário está cheio'
+    pt: 'O seu inventário está cheio',
+    it: 'Il tuo inventario è pieno'
   },
 
   sell: {
     en: 'You have sold $1 for $2',
     nl: 'U heeft verkocht $1 aan $2',
     es: 'Usted ha vendido $1 por $2',
-    pt: 'Você vendeu $1 por $2'
+    pt: 'Você vendeu $1 por $2',
+    it: 'Hai venduto $1 per $2'
   }
 }
