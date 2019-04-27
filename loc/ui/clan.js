@@ -19,7 +19,8 @@ export default {
     sv: 'Clan Manager',
     ht: 'Manadjè klan',
     nl: 'Clanmanager',
-    ko: '씨족 메뉴'
+    ko: '씨족 메뉴',
+    ro: 'Clan Manager'
   },
 
   leave: {
@@ -41,7 +42,8 @@ export default {
     sv: 'Lämna Clan',
     ht: 'Kite Clan',
     nl: 'Verlofclan',
-    ko: '씨족 을 나가기'
+    ko: '씨족 을 나가기',
+    ro: 'Părăsește clanul'
   },
 
   heading: {
@@ -63,7 +65,8 @@ export default {
     sv: 'Klan',
     ht: 'Clan',
     nl: 'Clan',
-    ko: '씨족'
+    ko: '씨족',
+    ro: 'Clan'
   },
 
   createheading: {
@@ -85,7 +88,8 @@ export default {
     sv: 'Skapa Clan',
     ht: 'Kreye Clan',
     nl: 'Creërenclan',
-    ko: '씨족 을 만들기'
+    ko: '씨족 을 만들기',
+    ro: 'Creează un clan'
   },
 
   createinfo: {
@@ -107,7 +111,8 @@ export default {
     sv: 'För att skapa en klan behöver du',
     ht: 'Pou kreye yon klan ou bezwen',
     nl: 'Om een clan te creëren heb je het volgende nodig',
-    ko: '씨족 을 만들고 싶으면...'
+    ko: '씨족 을 만들고 싶으면...',
+    ro: 'Pentru a crea un clan, ai nevoie de'
   },
 
   createname: {
@@ -129,7 +134,8 @@ export default {
     sv: 'Klan namn',
     ht: 'Non klan',
     nl: 'Clannaam',
-    ko: '씨족 이름'
+    ko: '씨족 이름',
+    ro: 'Numele clanului'
   },
 
   createtag: {
@@ -151,7 +157,8 @@ export default {
     sv: 'Clan tag',
     ht: 'Tag klan',
     nl: 'Clanlabel',
-    ko: '씨족 꼬리표'
+    ko: '씨족 꼬리표',
+    ro: 'Clan tag'
   },
 
   createbutton: {
@@ -173,6 +180,7 @@ export default {
     sv: 'Skapa',
     ht: 'Kreye',
     nl: 'Creëren',
-    ko: '만들기'
+    ko: '만들기',
+    ro: 'Creează'
   }
 }
