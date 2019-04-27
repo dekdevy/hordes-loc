@@ -99,7 +99,8 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'sepulchre', 'turmoil', 'myrmidon', 'navy', 'scapegoat', 'deserter', 'archer', 'charmer', 'yawl', 'lingo', 'eclipse', 'comet',
   'asteroid', 'planet', 'galley', 'galaxy', 'megalomaniac', 'melee', 'maraud', 'marauder', 'spike', 'cavalry', 'pike', 'misanthopist',
   'boa', 'battleship', 'battlement', 'axe', 'stave', 'hieroglyph', 'jackpot', 'jester', 'motherland', 'father', 'mother', 'treaty',
-  'oath']
+  'oath', 'gang', 'empress', 'peasant', 'elixir', 'haar', 'backpack', 'merchant', 'conjurer', 'pariah', 'pickpocket', 'phalanx',
+  'oracle', 'onion']
 
 const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', 'misfortune', 'rage', 'joy',
   'leveling', 'vengance', 'resurrection', 'mastery', 'loss', 'flames', 'fire', 'frost', 'glory', 'war', 'sprinting',
@@ -124,7 +125,8 @@ const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', '
   'frenzy', 'remorse', 'sorrow', 'guilt', 'honesty', 'union', 'fulfilment', 'exaggeration', 'appeal', 'retaliation', 'mourning',
   'leading', 'ruling', 'command', 'integrity', 'humility', 'honour', 'virtue', 'completeness', 'unity', 'focus', 'training',
   'knowledge', 'restoration', 'refurbishment', 'disclosure', 'energy', 'violation', 'stringency', 'loath', 'fuss', 'megalomania',
-  'danger', 'gallivanting', 'hibernation', 'horror', 'terror', 'eminence']
+  'danger', 'gallivanting', 'hibernation', 'horror', 'terror', 'eminence', 'shame', 'scorn', 'ingenuinity', 'paroxysm', 'satiety',
+  'placidity', 'phantasmagoria']
 
 export const generate = ()=>{
   // generates a random party invite link name
