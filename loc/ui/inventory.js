@@ -24,14 +24,17 @@ export default {
   },
 
   pickUp: {
-    en: 'You have picked up $1'
+    en: 'You have picked up $1',
+    nl: 'Je hebt opgepikt $1'
   },
 
   full: {
-    en: 'Your inventory is full'
+    en: 'Your inventory is full',
+    nl: 'Uw inventaris is vol.'
   },
 
   sell: {
-    en: 'You have sold $1 for $2'
+    en: 'You have sold $1 for $2',
+    nl: 'U heeft verkocht $1 aan $2'
   }
 }
