@@ -21,5 +21,17 @@ export default {
     ko: '목록',
     sv: 'inventarium',
     ro: 'inventar'
+  },
+
+  pickUp: {
+    en: 'You have picked up $1'
+  },
+
+  full: {
+    en: 'Your inventory is full'
+  },
+
+  sell: {
+    en: 'You have sold $1 for $2'
   }
 }
