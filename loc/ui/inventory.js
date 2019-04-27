@@ -30,6 +30,7 @@ export default {
     pt: 'Você pegou $1',
     it: 'Hai preso $1',
     de: 'Du hast $1 gesammelt.',
+    ro: 'Ai luat $1',
     fr: 'Vous avez ramassé $1.',
     ru: 'Ты поднял %1',
     hi: 'आपने $1 उठाया है',
@@ -40,8 +41,7 @@ export default {
     tl: 'Kinuha mo na $1',
     ht: 'Ou ranmase $1',
     ko: '당신은 $1 를 선택했습니다.',
-    sv: 'Du har plockat upp $1',
-    ro: 'Ați luat $1'
+    sv: 'Du har plockat upp $1'
   },
 
   full: {
@@ -51,6 +51,7 @@ export default {
     pt: 'O seu inventário está cheio',
     it: 'Il tuo inventario è pieno',
     de: 'Dein Inventar ist voll.',
+    ro: 'Inventarul tău este plin',
     fr: 'Votre inventaire est complet',
     ru: 'Ваш инвентарь полон',
     hi: 'आपकी इन्वेंट्री भरी हुई है',
@@ -71,6 +72,7 @@ export default {
     pt: 'Você vendeu $1 por $2',
     it: 'Hai venduto $1 per $2',
     de: 'Du hast $1 für $2 verkauft.',
+    ro: 'Ai vândut $1 pentru $2',
     fr: 'Vous avez vendu $1 pour $2.',
     ru: 'Вы продали $1 за $2',
     hi: 'आपने $1 के लिए $2 बेच दिया है',
