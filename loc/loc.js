@@ -18,6 +18,7 @@ import chest from './items/chest.js'
 import gem from './items/gem.js'
 import glove from './items/glove.js'
 import hammer from './items/hammer.js'
+import misc from './misc.js'
 import orb from './items/orb.js'
 import quiver from './items/quiver.js'
 import ring from './items/ring.js'
@@ -34,6 +35,7 @@ const items = {
   gem,
   glove,
   hammer,
+  misc,
   orb,
   quiver,
   ring,
