@@ -67,7 +67,7 @@ export default [
     name: {$$: 'Goose Feather' },
 
     description: {
-      en: 'Beware of the feral goose. It doesn't like pokes.',
+      en: 'Beware of the feral goose. It doesn\'t like pokes.',
       ru: 'Остерегайтесь дикого гуся.  Он не любит тычки.'
     }
   },
