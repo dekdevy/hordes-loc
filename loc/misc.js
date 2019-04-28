@@ -3,7 +3,8 @@ export default [
     name: {$$: 'Boar Hide' },
 
     description: {
-      en: 'Thick furry leather making you pant as you drag it behind you.'
+      en: 'Thick furry leather making you pant as you drag it behind you.',
+      ru: 'Толстая кожа заставляет вас задыхаться, когда вы тащите ее за собой.'
     }
   },
 
@@ -11,7 +12,8 @@ export default [
     name: {$$: 'Fruit Bowl'},
 
     description: {
-      en: 'An apple a day keeps the monsters away....is that what they say?'
+      en: 'An apple a day keeps the monsters away....is that what they say?',
+      ru: 'Яблоко в день держит монстров подальше ... это они говорят?'
     }
   },
 
@@ -19,7 +21,8 @@ export default [
     name: {$$: 'Ogre\'s Eye' },
 
     description: {
-      en: 'Sticky grizzly eyeball smelling of swampland.'
+      en: 'Sticky grizzly eyeball smelling of swampland.',
+      ru: 'Липкий глаз, пахнущий болотом'
     }
   },
 
@@ -27,7 +30,8 @@ export default [
     name: {$$: 'Broken Crown' },
 
     description: {
-      en: 'A mighty bejewelled crown belonging to the ancient kings of these lands.'
+      en: 'A mighty bejewelled crown belonging to the ancient kings of these lands.',
+      ru: 'Могучая драгоценная корона, принадлежащая древним королям этих земель.'
     }
   },
 
@@ -35,7 +39,8 @@ export default [
     name: {$$: 'Wispy Reagent' },
 
     description: {
-      en: 'Deeo dark purple wisp taken from the cursed soul of a malevolent phantom.'
+      en: 'Deep dark purple wisp taken from the cursed soul of a malevolent phantom.',
+      ru: 'Глубокий темно-фиолетовый пучок, взятый из проклятой души злобного призрака'
     }
   },
 
@@ -44,7 +49,8 @@ export default [
     name: {$$: 'Iron Spearhead' },
 
     description: {
-      en: 'Serrated and rusty, you wonder if it's any good as a weapon.'
+      en: 'Serrated and rusty, you wonder if it's any good as a weapon.',
+      ru: 'Зазубренный и ржавый, вы не знаете если это хорошая оружия'
     }
   },
 
@@ -52,7 +58,8 @@ export default [
     name: {$$: 'Blood Ruby' },
 
     description: {
-      en: 'Dsrk red mesmerising stone leaving you in a bloodhungry trance should you stare too deeply into its grim core.'
+      en: 'Dark red mesmerising stone leaving you in a bloodhungry trance should you stare too deeply into its grim core.',
+      ru: 'Темно-красный завораживающий камень, оставляющий вас в кроваво-жаждущем трансе если вы слишком глубоко вглядываетесь в его мрачное ядро.'
     }
   },
 
@@ -60,7 +67,8 @@ export default [
     name: {$$: 'Goose Feather' },
 
     description: {
-      en: 'Beware of the feral goose. It doesn't like pokes.'
+      en: 'Beware of the feral goose. It doesn't like pokes.',
+      ru: 'Остерегайтесь дикого гуся.  Он не любит тычки.'
     }
   },
 
@@ -69,6 +77,7 @@ export default [
 
     description: {
       en: 'Powerful silky string worth more than all your gear.'
+      ru: 'Мощная шелковистая нитка, стоит больше всего вашего снаряжения.'
     }
   },
 
@@ -76,7 +85,8 @@ export default [
     name: {$$: 'Emerald' },
 
     description: {
-      en: 'Lustrous green stone, might but you a few beers.'
+      en: 'Lustrous green stone, might buy you a few beers.',
+      ru: 'Блестящий зеленый камень, возможно, купит тебе немного пива.'
     }
   },
 
@@ -84,7 +94,8 @@ export default [
     name: {$$: 'Wolf Fang' },
 
     description: {
-      en: 'Sharp and white... you cut yourself already.'
+      en: 'Sharp and white... you cut yourself already.',
+      ru: 'Острый и белый ... ты уже порезался.'
     }
   },
 
@@ -92,7 +103,8 @@ export default [
     name: {$$: 'Sticky Slime' },
 
     description: {
-      en: 'Gooey slop, taken from God knows where.'
+      en: 'Gooey slop, taken from God knows where.',
+      ru: 'Густая слизь, взята непонятно откуда'
     }
   },
 
@@ -100,7 +112,8 @@ export default [
     name: {$$: 'Golden Leaf' },
 
     description: {
-      en: 'Finely engraved leaf of gold representing high royalty.'
+      en: 'Finely engraved leaf of gold representing high royalty.',
+      ru: 'Мелко гравированный лист золота, символизирующий высокую королевскую власть'
     }
   },
 
@@ -108,7 +121,8 @@ export default [
     name: {$$: 'Rabbit\'s Foot' },
 
     description: {
-      en: 'The clsssic ingredient to a witch\'s broth.'
+      en: 'The clsssic ingredient to a witch\'s broth.',
+      ru: 'Классический ингредиент для бульона ведьмы.'
     }
   },
 
@@ -116,7 +130,8 @@ export default [
     name: {$$: 'Chewed Bone' },
 
     description: {
-      en: 'Splinters of bone and marrow glued together with stale saliva.'
+      en: 'Splinters of bone and marrow glued together with stale saliva.',
+      ru: 'Осколки кости и костного мозга склеены с застоявшейся слюной.'
     }
   },
 
@@ -124,7 +139,8 @@ export default [
     name: {$$: 'Wooden Bowl' },
 
     description: {
-      en: 'Small chipped stew bowl. Careful, it's flammable.'
+      en: 'Small chipped stew bowl. Careful, it's flammable.',
+      ru: 'Маленькая пацарапаная миска для мяса. Осторожно, она огнеопасна.'
     }
   },
 
@@ -132,7 +148,8 @@ export default [
     name: {$$: 'Golden Eyepiece' },
 
     description: {
-      en: 'Mages always want to seem wise, perhaps they too made this mystical and elegant eyepiece.'
+      en: 'Mages always want to seem wise, perhaps they too made this mystical and elegant eyepiece.',
+      ru: 'Маги всегда хотят казаться мудрыми, возможно, они тоже сделали этот мистический и элегантный окуляр.'
     }
   },
 
@@ -140,7 +157,8 @@ export default [
     name: {$$: 'Cactus Spike' },
 
     description: {
-      en: 'Ouch, sharp.'
+      en: 'Ouch, sharp.',
+      ru: 'Ой, острый.'
     }
   },
 
@@ -148,7 +166,8 @@ export default [
     name: {$$: 'Fine Sand' },
 
     description: {
-      en: 'A small pile of extremely fine sand. Where do you out this...'
+      en: 'A small pile of extremely fine sand. Where do you out this...',
+      ru: 'Небольшая куча песка. Куда тебе это положить...'
     }
   },
 
@@ -156,7 +175,8 @@ export default [
     name: {$$: 'Lich Hair' },
 
     description: {
-      en: 'A tuft of putrid matted hair. T\'was a tough battle to get hold of this '
+      en: 'A tuft of putrid matted hair. T\'was a tough battle to get hold of this ',
+      ru: 'Пучок запутаных и ванючих валось. Трудная битва была, штобы ево достать.'
     }
   },
 
@@ -164,7 +184,8 @@ export default [
     name: {$$: ' Pulpous Maggot' },
 
     description: {
-      en: 'Disgusting larvae of an unknown insect. Hopefully a small one...'
+      en: 'Disgusting larvae of an unknown insect. Hopefully a small one...',
+      ru: 'Противные личинки незнакомого насекомого. Надеюсь маленкова...'
     }
   },
 
@@ -172,7 +193,8 @@ export default [
     name: {$$: 'Obsidian Shard' },
 
     description: {
-      en: 'Strange triangular fragement of obsidian. Perhaps it's part of a larger structure...'
+      en: 'Strange triangular fragement of obsidian. Perhaps it's part of a larger structure...',
+      ru: 'Странный треугольный фрагмент обсидиана.  Возможно, это часть большей структуры ...'
     }
   },
 
@@ -180,7 +202,8 @@ export default [
     name: {$$: 'Frozen Teardrop' },
 
     description: {
-      en: 'Mesmerising crystalline droplet refracting light intricately casting tiny balls of light onto you as you hold it up to the sun.'
+      en: 'Mesmerising crystalline droplet refracting light intricately casting tiny balls of light onto you as you hold it up to the sun.',
+      ru: 'Завораживающая кристаллическая капля, преломляющая свет, бросает на вас крошечные шарики света, когда вы держите его на солнце.'
     }
   },
 
@@ -188,14 +211,16 @@ export default [
     name: {$$: 'Darkmetal Arrowhead' },
 
     description: {
-      en: 'Sharo gothic arrowhead, made from a mystical metal which seeps dear into your bones.'
+      en: 'Sharp gothic arrowhead, made from a mystical metal which seeps dear into your bones.',
+      ru: 'Острый готический наконечник стрелы, сделанный из мистического металла, который просачивается страх в твои кости.'
     }
   },
   {
     name: {$$: 'Gunpowder' },
 
     description: {
-      en: 'Throw some into a campfire and you're in for a nasty explosive surprise.'
+      en: 'Throw some into a campfire and you're in for a nasty explosive surprise.',
+      ru: 'Бросьте в костер, и вас ждет неприятный взрывной сюрприз.'
     }
   },
 
@@ -203,7 +228,8 @@ export default [
     name: {$$: 'Kindling' },
 
     description: {
-      en: 'Thin dry twigs, will burn nicely in a campfire.'
+      en: 'Thin dry twigs, will burn nicely in a campfire.',
+      ru: 'Тонкие сухие веточки, хорошо сгорят в костре.'
     }
   },
 
@@ -211,7 +237,8 @@ export default [
     name: {$$: 'Pale Snakeskin' },
 
     description: {
-      en: 'The shed leathery skin from an albino python slithering its way through the forests of these lands.'
+      en: 'The shed leathery skin from an albino python slithering its way through the forests of these valleys.'
+      ru: 'Кожа питона-альбиноса который живет в лесах этих далин.'
     }
   }
 
