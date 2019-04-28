@@ -76,7 +76,7 @@ export default [
     name: {$$: 'Elegant Bowstring' },
 
     description: {
-      en: 'Powerful silky string worth more than all your gear.'
+      en: 'Powerful silky string worth more than all your gear.',
       ru: 'Мощная шелковистая нитка, стоит больше всего вашего снаряжения.'
     }
   },
