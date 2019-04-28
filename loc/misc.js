@@ -49,7 +49,7 @@ export default [
     name: {$$: 'Iron Spearhead' },
 
     description: {
-      en: 'Serrated and rusty, you wonder if it's any good as a weapon.',
+      en: 'Serrated and rusty, you wonder if it\'s any good as a weapon.',
       ru: 'Зазубренный и ржавый, вы не знаете если это хорошая оружия'
     }
   },
