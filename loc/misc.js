@@ -4,7 +4,8 @@ export default [
 
     description: {
       en: 'Thick furry leather making you pant as you drag it behind you.',
-      ru: 'Толстая кожа заставляет вас задыхаться, когда вы тащите ее за собой.'
+      ru: 'Толстая кожа заставляет вас задыхаться, когда вы тащите ее за собой.',
+      de: 'Dickes pelziges Leder, das dich zur Hose macht, während du es hinter dir herziehst.'
     }
   },
 
