@@ -11,10 +11,10 @@ const classes = [
 
 // Items
 import armlet from './items/armlet.js'
+import armor from './items/armor.js'
 import bag from './items/bag.js'
 import boot from './items/boot.js'
 import bow from './items/bow.js'
-import chest from './items/chest.js'
 import gem from './items/gem.js'
 import glove from './items/glove.js'
 import hammer from './items/hammer.js'
@@ -31,7 +31,7 @@ const items = {
   bag,
   boot,
   bow,
-  chest,
+  armor,
   gem,
   glove,
   hammer,
