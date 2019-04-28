@@ -6,7 +6,8 @@ export default [
       en: 'Thick furry leather making you pant as you drag it behind you.',
       ru: 'Толстая кожа заставляет вас задыхаться когда вы тащите ее за собой.',
       de: 'Dickes pelziges Leder, das dich zur Hose macht, während du es hinter dir herziehst.',
-      pt: 'Cabedal espesso e peludo que te faz ofegar ao arrastá-lo para trás de ti.'
+      pt: 'Cabedal espesso e peludo que te faz ofegar ao arrastá-lo para trás de ti.',
+      it: 'Pelliccia spessa che ti fa pantaloni mentre la trascini dietro di te.'
     }
   },
 
@@ -17,7 +18,8 @@ export default [
       en: 'An apple a day keeps the monsters away....is that what they say?',
       ru: 'Яблоко в день держит монстров подальше ... это они говорят?',
       de: 'Ein Apfel am Tag hält die Monster fern......sagt man das so?',
-      pt: 'Uma maçã por dia mantém os monstros afastados... é isso que dizem?'
+      pt: 'Uma maçã por dia mantém os monstros afastados... é isso que dizem?',
+      it: 'Una mela al giorno toglie i mostri di torno.....è questo che dicono?'
     }
   },
 
@@ -28,7 +30,8 @@ export default [
       en: 'Sticky grizzly eyeball smelling of swampland.',
       ru: 'Липкий глаз, пахнущий болотом',
       de: 'Klebriger Grizzly Augapfel, der nach Sumpfgebiet riecht.',
-      pt: 'Olho pegajoso a cheirar a pântano.'
+      pt: 'Olho pegajoso a cheirar a pântano.',
+      it: 'Sticky Grizzly eyeball appiccicoso che puzza di palude.'
     }
   },
 
@@ -50,7 +53,8 @@ export default [
       en: 'Deep dark purple wisp taken from the cursed soul of a malevolent phantom.',
       ru: 'Глубокий темно-фиолетовый пучок, взятый из проклятой души злобного призрака',
       de: 'Tiefdunkelviolettes Wispern aus der verfluchten Seele eines bösartigen Phantoms.',
-      pt: 'Deep dark purple wisp taken from the cursed soul of a malevolent phantom.'
+      pt: 'Deep dark purple wisp taken from the cursed soul of a malevolent phantom.',
+      it: 'Un profondo vampiro viola scuro preso dall\'anima maledetta di un malvagio fantasma.'
     }
   },
 
@@ -61,7 +65,8 @@ export default [
       en: 'Serrated and rusty, you wonder if it\'s any good as a weapon.',
       ru: 'Зазубренный и ржавый, вы не знаете если это хорошая оружия',
       de: 'Gezackt und rostig, fragt man sich, ob es als Waffe gut ist.',
-      pt: 'Serrilhado e enferrujado, você se pergunta se é bom como arma.'
+      pt: 'Serrilhado e enferrujado, você se pergunta se é bom como arma.',
+      it: 'Dentellato e arrugginito, ti chiedi se sia buono come un\'arma.'
     }
   },
 
@@ -72,7 +77,8 @@ export default [
       en: 'Dark red mesmerizing stone leaving you in a bloodhungry trance should you stare too deeply into its grim core.',
       ru: 'Темно-красный завораживающий камень, оставляющий вас в кроваво-жаждущем трансе если вы слишком глубоко вглядываетесь в его мрачное ядро.',
       de: 'Dunkelroter hypnotisierender Stein, der dich in blutgieriger Trance zurücklässt, falls du zu tief in seinen grimmigen Kern starrst.',
-      pt: 'Pedra vermelha escura hipnotizante que te deixa num transe sedento de sangue se olhares demasiado profundamente para o seu núcleo sombrio.'
+      pt: 'Pedra vermelha escura hipnotizante que te deixa num transe sedento de sangue se olhares demasiado profundamente para o seu núcleo sombrio.',
+      it: 'Pietra ipnotizzante rosso scuro che ti lascia in una trance affamata di sangue se dovessi guardare troppo profondamente nel suo nucleo cupo.'
     }
   },
 
@@ -83,7 +89,8 @@ export default [
       en: 'Beware of the feral goose. It doesn\'t like pokes.',
       ru: 'Остерегайтесь дикого гуся.  Он не любит тычки.',
       de: 'Hüte dich vor der wilden Gans. Es mag keine Stöße.',
-      pt: 'Cuidado com o ganso selvagem. Não gosta de picaretas.'
+      pt: 'Cuidado com o ganso selvagem. Não gosta de picaretas.',
+      it: 'Attenzione all\'oca selvatica. Non gli piacciono le punture.'
     }
   },
 
@@ -94,7 +101,8 @@ export default [
       en: 'Powerful silky string worth more than all your gear.',
       ru: 'Мощная шелковистая нитка, стоит больше всего вашего снаряжения.',
       de: 'Kraftvolle, seidige Schnur, die mehr wert ist als all deine Ausrüstung.',
-      pt: 'Um fio de seda poderoso que vale mais do que todo o seu equipamento.'
+      pt: 'Um fio de seda poderoso que vale mais do que todo o seu equipamento.',
+      it: 'Una potente corda di seta che vale più di tutta la tua attrezzatura.'
     }
   },
 
@@ -105,7 +113,8 @@ export default [
       en: 'Lustrous green stone, might buy you a few beers.',
       ru: 'Блестящий зеленый камень, возможно, купит тебе немного пива.',
       de: 'Glänzender grüner Stein, der dir vielleicht ein paar Biere kaufen könnte.',
-      pt: 'Pedra verde brilhante, talvez te compre algumas cervejas.'
+      pt: 'Pedra verde brilhante, talvez te compre algumas cervejas.',
+      it: 'Pietra verde lucente, potrebbe comprarti qualche birra.'
     }
   },
 
@@ -116,7 +125,8 @@ export default [
       en: 'Sharp and white... you cut yourself already.',
       ru: 'Острый и белый ... ты уже порезался.',
       de: 'Scharf und weiß.... du hast dich schon geschnitten.',
-      pt: 'Afiado e branco... já te cortaste.'
+      pt: 'Afiado e branco... já te cortaste.',
+      it: 'Affilato e bianco..... ti sei gia\' tagliato.'
     }
   },
 
@@ -127,7 +137,8 @@ export default [
       en: 'Gooey slop, taken from God knows where.',
       ru: 'Густая слизь, взята непонятно откуда',
       de: 'Zähflüssiger Dreck, von Gott weiß wo genommen.',
-      pt: 'Gooey slop, tirado de sabe Deus onde.'
+      pt: 'Gooey slop, tirado de sabe Deus onde.',
+      it: 'Gooey Slop, portato via da Dio solo sa dove.'
     }
   },
 
@@ -138,7 +149,8 @@ export default [
       en: 'Finely engraved leaf of gold representing high royalty.',
       ru: 'Мелко гравированный лист золота, символизирующий высокую королевскую власть',
       de: 'Fein graviertes Blatt aus Gold, das eine hohe Lizenzgebühr darstellt.',
-      pt: 'Folha de ouro finamente gravada representando alta realeza.'
+      pt: 'Folha de ouro finamente gravada representando alta realeza.',
+      it: 'Foglia d\'oro finemente incisa che rappresenta l\'alta regalità.'
     }
   },
 
@@ -149,7 +161,8 @@ export default [
       en: 'The classic ingredient to a witch\'s broth.',
       ru: 'Классический ингредиент для бульона ведьмы.',
       de: 'Die clsssic Zutat zu einer Hexenbrühe.',
-      pt: 'O ingrediente clássico de um caldo de bruxa.'
+      pt: 'O ingrediente clássico de um caldo de bruxa.',
+      it: 'Il classico ingrediente del brodo di una strega.'
     }
   },
 
@@ -160,7 +173,8 @@ export default [
       en: 'Splinters of bone and marrow glued together with stale saliva.',
       ru: 'Осколки кости и костного мозга склеены с застоявшейся слюной.',
       de: 'Knochen- und Marksplitter wurden mit abgestandenem Speichel zusammengeklebt.',
-      pt: 'Lascas de ossos e medula coladas com saliva velha.'
+      pt: 'Lascas de ossos e medula coladas com saliva velha.',
+      it: 'Schegge di ossa e midollo incollate insieme alla saliva stantia.'
     }
   },
 
@@ -171,7 +185,8 @@ export default [
       en: 'Small chipped stew bowl. Careful, it\'s flammable.',
       ru: 'Маленькая пацарапаная миска для мяса. Осторожно, она огнеопасна.',
       de: 'Kleine, zerkleinerte Eintopfschale. Vorsicht, es ist brennbar.',
-      pt: 'Pequena tigela de guisado lascada. Cuidado, é inflamável.'
+      pt: 'Pequena tigela de guisado lascada. Cuidado, é inflamável.',
+      it: 'Piccola ciotola per lo stufato scheggiato. Attenzione, è infiammabile.'
     }
   },
 
@@ -182,7 +197,8 @@ export default [
       en: 'Mages always want to seem wise, perhaps they too made this mystical and elegant eyepiece.',
       ru: 'Маги всегда хотят казаться мудрыми, возможно, они тоже сделали этот мистический и элегантный окуляр.',
       de: 'Magier wollen immer weise wirken, vielleicht haben sie auch dieses mystische und elegante Okular gemacht.',
-      pt: 'Os magos sempre querem parecer sábios, talvez eles também tenham feito essa ocular mística e elegante.'
+      pt: 'Os magos sempre querem parecer sábios, talvez eles também tenham feito essa ocular mística e elegante.',
+      it: 'I maghi vogliono sempre sembrare saggi, forse anche loro hanno realizzato questo mistico ed elegante oculare.'
     }
   },
 
@@ -193,7 +209,8 @@ export default [
       en: 'Ouch, sharp.',
       ru: 'Ой, острый.',
       de: 'Autsch, scharf.',
-      pt: 'Ai, afiado.'
+      pt: 'Ai, afiado.',
+      it: 'Ahi, tagliente.'
     }
   },
 
@@ -204,7 +221,8 @@ export default [
       en: 'A small pile of extremely fine sand. Where do you out this...',
       ru: 'Небольшая куча песка. Куда тебе это положить...',
       de: 'Ein kleiner Haufen extrem feinen Sandes. Wo steckst du das aus?',
-      pt: 'Uma pequena pilha de areia extremamente fina. De onde você tirou esta...'
+      pt: 'Uma pequena pilha de areia extremamente fina. De onde você tirou esta...',
+      it: 'Un piccolo mucchio di sabbia finissima. Dove si fa questo.....'
     }
   },
 
@@ -215,7 +233,8 @@ export default [
       en: 'A tuft of putrid matted hair. T\'was a tough battle to get hold of this.',
       ru: 'Пучок запутаных и ванючих валось. Трудная битва была, штобы ево достать.',
       de: 'Ein Büschel verfaulter, verfilzter Haare. Es war ein harter Kampf, um dies zu erreichen.',
-      pt: 'Um tufo de pêlos pútridos emaranhados. Foi uma batalha difícil para pegar isso.'
+      pt: 'Um tufo de pêlos pútridos emaranhados. Foi uma batalha difícil para pegar isso.',
+      it: 'Un ciuffo di capelli opachi e putridi. E\' stata una battaglia difficile da vincere.'
     }
   },
 
@@ -226,7 +245,8 @@ export default [
       en: 'Disgusting larvae of an unknown insect. Hopefully a small one...',
       ru: 'Противные личинки незнакомого насекомого. Надеюсь маленкова...',
       de: 'Ekelhafte Larven eines unbekannten Insekts. Hoffentlich ein kleines.....',
-      pt: 'Larvas nojentas de um insecto desconhecido. Esperemos que uma pequena...'
+      pt: 'Larvas nojentas de um insecto desconhecido. Esperemos que uma pequena...',
+      it: 'Disgustose larve di un insetto sconosciuto. Speriamo che sia piccolo.....'
     }
   },
 
@@ -237,7 +257,8 @@ export default [
       en: 'Strange triangular fragment of obsidian. Perhaps it\'s part of a larger structure...',
       ru: 'Странный треугольный фрагмент обсидиана.  Возможно, это часть большей структуры ...',
       de: 'Seltsames dreieckiges Fragment des Obsidians. Vielleicht ist es Teil einer größeren Struktur....',
-      pt: 'Estranho fragmento triangular de obsidiana. Talvez seja parte de uma estrutura maior...'
+      pt: 'Estranho fragmento triangular de obsidiana. Talvez seja parte de uma estrutura maior...',
+      it: 'Strano frammento triangolare di ossidiana. Forse fa parte di una struttura più grande.....'
     }
   },
 
@@ -248,7 +269,8 @@ export default [
       en: 'Mesmerising crystalline droplet refracting light intricately casting tiny balls of light onto you as you hold it up to the sun.',
       ru: 'Завораживающая кристаллическая капля, преломляющая свет, бросает на вас крошечные шарики света, когда вы держите его на солнце.',
       de: 'Faszinierendes kristallines Tröpfchen brechendes Licht, das aufwendig kleine Lichtkugeln auf Sie wirft, während Sie es an die Sonne halten.',
-      pt: 'Uma gota cristalina hipnotizante que refracta a luz, lançando pequenas bolas de luz sobre você enquanto você a segura até o sol.'
+      pt: 'Uma gota cristalina hipnotizante que refracta a luz, lançando pequenas bolas de luz sobre você enquanto você a segura até o sol.',
+      it: 'Mesmerising gocciolina cristallina che rifrange la luce intricatamente gettando piccole sfere di luce su di voi come si tiene fino al sole.'
     }
   },
 
@@ -259,7 +281,8 @@ export default [
       en: 'Sharp gothic arrowhead, made from a mystical metal which seeps dear into your bones.',
       ru: 'Острый готический наконечник стрелы, сделанный из мистического металла, который просачивается страх в твои кости.',
       de: 'Scharfe gotische Pfeilspitze, hergestellt aus einem mystischen Metall, das in deine Knochen sickert.',
-      pt: 'Ponta de seta gótica afiada, feita de um metal místico que se infiltra nos teus ossos.'
+      pt: 'Ponta de seta gótica afiada, feita de um metal místico que se infiltra nos teus ossos.',
+      it: 'Affilata punta di freccia gotica, fatta di un metallo mistico che penetra nelle ossa.'
     }
   },
   {
@@ -269,7 +292,8 @@ export default [
       en: 'Throw some into a campfire and you\'re in for a nasty explosive surprise.',
       ru: 'Бросьте в костер, и вас ждет неприятный взрывной сюрприз.',
       de: 'Werfen Sie einige davon in ein Lagerfeuer und Sie werden eine böse explosive Überraschung erleben.',
-      pt: 'Atira alguns para uma fogueira e vais ter uma surpresa explosiva desagradável.'
+      pt: 'Atira alguns para uma fogueira e vais ter uma surpresa explosiva desagradável.',
+      it: 'Gettane un po\' in un falò e sei dentro per una brutta sorpresa esplosiva.'
     }
   },
 
@@ -280,7 +304,8 @@ export default [
       en: 'Thin dry twigs, will burn nicely in a campfire.',
       ru: 'Тонкие сухие веточки, хорошо сгорят в костре.',
       de: 'Dünne, trockene Zweige, die im Lagerfeuer gut brennen.',
-      pt: 'Galhos finos e secos, arderão bem numa fogueira.'
+      pt: 'Galhos finos e secos, arderão bem numa fogueira.',
+      it: 'Sottili ed asciutti ramoscelli, bruceranno bene in un falò.'
     }
   },
 
@@ -291,7 +316,8 @@ export default [
       en: 'The shed leathery skin from an albino python slithering its way through the forests of these valleys.',
       ru: 'Кожа питона-альбиноса который живет в лесах этих далин.',
       de: 'Die lederne Haut einer Albino-Python, die sich durch die Wälder dieser Täler schlängelt.',
-      pt: 'A pele curtida de um python albino que escorrega pelas florestas destes vales.'
+      pt: 'A pele curtida de um python albino que escorrega pelas florestas destes vales.',
+      it: 'La pelle coriacea di un pitone albino che si fa strada attraverso i boschi di queste valli.'
     }
   }
 
