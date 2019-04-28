@@ -30,6 +30,70 @@ export default {
 
     {
       en: 'Max Damage'
+    },
+
+    {
+      en: 'Defense'
+    },
+
+    {
+      en: 'Block'
+    },
+
+    {
+      en: 'Evade'
+    },
+
+    {
+      en: 'Accuracy'
+    },
+
+    {
+      en: 'Critical'
+    },
+
+    {
+      en: 'Move speed'
+    },
+
+    {
+      en: 'Haste'
+    },
+
+    {
+      en: 'Attack Speed'
+    },
+
+    {
+      en: 'Attack Speed'
+    },
+
+    {
+      en: 'Dexterity'
+    },
+
+    {
+      en: 'Strength'
+    },
+
+    {
+      en: 'Intelligence'
+    },
+
+    {
+      en: 'Wisdom'
+    },
+
+    {
+      en: 'Stamina'
+    },
+
+    {
+      en: 'Luck'
+    },
+
+    {
+      en: 'Bag Slots'
     }
   ]
 }
