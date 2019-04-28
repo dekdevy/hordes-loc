@@ -149,9 +149,9 @@ export default [
       en: 'Gooey slop, taken from God knows where.',
       ru: 'Густая слизь, взята непонятно откуда',
       de: 'Zähflüssiger Dreck, von Gott weiß wo genommen.',
-      pt: 'Gooey slop, tirado de sabe Deus onde.',
-      it: 'Gooey Slop, portato via da Dio solo sa dove.',
-      pl: 'Gooey slop, zabrany od Boga wie gdzie.'
+      pt: 'Uma porcaria nojenta, tirada de sabe Deus onde.',
+      it: 'Una pentola appiccicosa, portata da Dio solo sa dove.',
+      pl: 'Lepki slop, zabrany od Boga wie gdzie.'
     }
   },
 
