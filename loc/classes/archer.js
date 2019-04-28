@@ -32,7 +32,7 @@ export default {
     fr: 'Les archers infligent des dégâts élevés sur une cible précise et des dégâts de zone importants. Un bon archer garde toujours ses distances et élimine ses ennemis de loin.',
     pt: 'Arqueiros causam danos altos a um único alvo e danos na Área de Efeito. Um bom arqueiro sempre manterá sua distância e snipe inimigos de longe.',
     de: 'Bogenschützen verursachen hohen einzelzielschaden und Berstenden Wirkungsbereich. Ein guter Bogenschütze wird immer Abstand halten und Feinde aus der Ferne schießen.',
-    nl: 'Boogschutters groot enkel doelschade en barstenschade aan het gebied van het effect toe. Een goede boogschutter zal altijd afstand houden en vijanden uit de verte vernietigen.',
+    nl: 'Boogschutters veroorzaken hoge schade op een enkel doelwit en op een groter gebied middels frequente schoten. Een goede boogschutter zal altijd zijn afstand bewaren en vijanden vanuit de verte beschieten.',
     tr: 'Okçular tekli hedefe yüksek zarar verir ve aralıklı alan etkili hasar verir. İyi bir okçu her zaman mesafesini korur ve hedeflerini uzaktan avlar.',
     hi: 'धनुरधारी उच्च एकल लक्ष्य क्षति और प्रभाव क्षति के त्वरित क्षत्रुऔ से निपटते हैं। एक अच्छा धनुरधारी हमेशा अपनी दूरी बनाए रखेगा और दुश्मनों को दूर से ही मार देगा।',
     tl: 'Ang mga mamamana ay nakikitungo sa mataas na solong target na pinsala at pagkalanta ng Area of ​​Effect na pinsala. Ang isang mahusay na mamamana ay palaging panatilihin ang kanilang distansya at labuyo kaaway mula sa kalayuan.',

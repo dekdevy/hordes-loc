@@ -20,7 +20,7 @@ export default {
       tl: 'Piliin ang Character',
       it: 'Seleziona carattere',
       pl: 'Wybierz postać',
-      nl: 'Selecteer karakter',
+      nl: 'Selecteer Karakter',
       pt: 'Selecionar Caractere',
       ht: 'Chwazi karaktè',
       ro: 'Selectează Caracterul'
@@ -161,7 +161,7 @@ export default {
       tl: 'Pindutin ang isang icon para sa maikling paglalarawan',
       it: 'Premi unicona per una breve descrizione',
       pl: 'Naciśnij ikonę, aby uzyskać krótki opis',
-      nl: 'Druk op een pictogram voor een korte beschrijving.',
+      nl: 'Druk op een icoon voor een korte beschrijving.',
       pt: 'Pressione um ícone para uma breve descrição.',
       ht: 'Peze yon icon pou yon deskripsyon tou kout.',
       ro: 'Apăsați o pictogramă pentru o scurtă descriere.'
@@ -207,7 +207,7 @@ export default {
       tl: 'Pumili ng isang pangkatin',
       it: 'Seleziona una fazione',
       pl: 'Wybierz frakcję',
-      nl: 'Selecteer een groepering',
+      nl: 'Selecteer een factie',
       pt: 'Selecione uma facção',
       ht: 'Chwazi yon faksyon',
       ro: 'Alegeți o facțiune'
@@ -253,7 +253,7 @@ export default {
       tl: 'Ang iyong pangalan ay maaari lamang maglaman ng mga character a-Z, at numero 0-9, nang walang anumang mga puwang. Hanggang sa 16 na mga character.',
       it: '  Il tuo nome può contenere solo caratteri a-Z e numeri da 0 a 9, senza spazi. Fino a 16 caratteri.',
       pl: 'Twoje imię może zawierać tylko znaki a-Z i cyfry 0-9, bez spacji. Do 16 znaków.',
-      nl: 'Uw naam kan alleen tekens a-Z bevatten, en cijfers 0-9, zonder spaties. Tot 16 tekens.',
+      nl: 'Uw naam kan alleen de tekens a-Z bevatten, en cijfers 0-9, zonder spaties. Tot 16 tekens.',
       pt: 'Seu nome só pode conter caracteres a-Z, e números 0-9, sem espaços. Até 16 caracteres.',
       ht: 'Non ou ka sèlman gen karaktè a-Z, ak nimewo 0-9, san okenn espas. Jiska 16 karaktè.',
       ro: 'Numele tău poate conține doar caractere a-Z, și numere 0-9, fără spații. Până la 16 caractere.'
@@ -280,7 +280,7 @@ export default {
       tl: 'Tanggalin',
       it: 'Elimina',
       pl: 'Kasować',
-      nl: 'Verwijderen',
+      nl: 'Verwijder',
       pt: 'Eliminar',
       ht: 'Efase',
       ro: 'Șterge'
@@ -303,7 +303,7 @@ export default {
       tl: 'Upang tanggalin, i-type ang pangalan ng character. Ang iyong karakter ay hindi maibabalik.',
       it: 'Per cancellare, digita il nome del personaggio. Il tuo personaggio non può essere ripristinato.',
       pl: 'Aby usunąć, wpisz nazwę postaci. Twoja postać nie może zostać przywrócona.',
-      nl: 'Om te verwijderen, typt u de naam van het teken in. Je karakter kan niet worden hersteld.',
+      nl: 'Om te verwijderen typt u de naam van het karakter in. Uw karakter kan niet worden hersteld.',
       pt: 'Para apagar, digite o nome do personagem. Seu personagem não pode ser restaurado.',
       ht: 'Efase, tape non karaktè a. Karaktè ou pa kapab retabli.',
       ro: 'Pentru a șterge, tastați numele caracterului. Personajul tău nu va putea fi restaurat'
@@ -326,7 +326,7 @@ export default {
       tl: 'Sigurado ka ba?',
       it: 'Sei sicuro?',
       pl: 'Jesteś pewny?',
-      nl: 'Weet je het zeker?',
+      nl: 'Weet u het zeker?',
       pt: 'Tens a certeza?',
       ht: 'Èske w sèten?',
       ro: 'Ești sigur?'
