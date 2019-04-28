@@ -273,7 +273,6 @@ export default [
       ru: 'Пучок запутаных и ванючих валось. Трудная битва была, штобы ево достать.',
       de: 'Ein Büschel verfaulter, verfilzter Haare. Es war ein harter Kampf, um dies zu erreichen. ',
       ro: 'Un smoc de păr putrezit. Am dus o luptă grea să pot pune mâna pe asta.',
-      de: 'Ein Büschel verfaulter, verfilzter Haare. Es war ein harter Kampf, um dies zu erreichen.',
       pt: 'Um tufo de pêlos pútridos emaranhados. Foi uma batalha difícil para pegar isso.',
       it: 'Un ciuffo di capelli opachi e putridi. E\' stata una battaglia difficile da vincere.',
       pl: 'Kępa z zepsutych, matowych włosów. Ciężka walka o to, by się tego dowiedzieć.'
