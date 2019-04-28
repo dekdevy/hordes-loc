@@ -139,7 +139,7 @@ export default [
     name: {$$: 'Wooden Bowl' },
 
     description: {
-      en: 'Small chipped stew bowl. Careful, it's flammable.',
+      en: 'Small chipped stew bowl. Careful, it\'s flammable.',
       ru: 'Маленькая пацарапаная миска для мяса. Осторожно, она огнеопасна.'
     }
   },
@@ -193,7 +193,7 @@ export default [
     name: {$$: 'Obsidian Shard' },
 
     description: {
-      en: 'Strange triangular fragement of obsidian. Perhaps it's part of a larger structure...',
+      en: 'Strange triangular fragement of obsidian. Perhaps it\'s part of a larger structure...',
       ru: 'Странный треугольный фрагмент обсидиана.  Возможно, это часть большей структуры ...'
     }
   },
@@ -219,7 +219,7 @@ export default [
     name: {$$: 'Gunpowder' },
 
     description: {
-      en: 'Throw some into a campfire and you're in for a nasty explosive surprise.',
+      en: 'Throw some into a campfire and you\'re in for a nasty explosive surprise.',
       ru: 'Бросьте в костер, и вас ждет неприятный взрывной сюрприз.'
     }
   },
@@ -237,7 +237,7 @@ export default [
     name: {$$: 'Pale Snakeskin' },
 
     description: {
-      en: 'The shed leathery skin from an albino python slithering its way through the forests of these valleys.'
+      en: 'The shed leathery skin from an albino python slithering its way through the forests of these valleys.',
       ru: 'Кожа питона-альбиноса который живет в лесах этих далин.'
     }
   }
