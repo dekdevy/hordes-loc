@@ -324,7 +324,8 @@ export default [
       ro: 'Un ciudat fragment triunghiular din obsidian. Poate face parte dintr-o structură mai mare...',
       pt: 'Estranho fragmento triangular de obsidiana. Talvez seja parte de uma estrutura maior...',
       it: 'Strano frammento triangolare di ossidiana. Forse fa parte di una struttura più grande.....',
-      pl: 'Dziwny trójkątny fragment obsydianu. Być może jest to część większej struktury....'
+      pl: 'Dziwny trójkątny fragment obsydianu. Być może jest to część większej struktury....',
+      fr: 'Étrange fragment triangulaire d\'obsidienne. Peut-être qu\'il fait partie d\'une structure plus grande...'
     }
   },
 
@@ -338,7 +339,8 @@ export default [
       ro: 'Picături cristaline hipnotizante refractând lumina, proiectând mici bile de lumină pe tine în timp ce le ții la soare.',
       pt: 'Uma gota cristalina hipnotizante que refracta a luz, lançando pequenas bolas de luz sobre você enquanto você a segura até o sol.',
       it: 'Mesmerising gocciolina cristallina che rifrange la luce intricatamente gettando piccole sfere di luce su di voi come si tiene fino al sole.',
-      pl: 'Mesmeryzująca krystaliczna kropla załamująca światło misternie rzucająca na Ciebie maleńkie kuleczki światła, które trzymasz na słońcu.'
+      pl: 'Mesmeryzująca krystaliczna kropla załamująca światło misternie rzucająca na Ciebie maleńkie kuleczki światła, które trzymasz na słońcu.',
+      fr: 'Gouttelettes cristallines fascinantes qui réfractent la lumière et projettent de minuscules boules de lumière sur vous lorsque vous la tenez au soleil.'
     }
   },
 
@@ -352,7 +354,8 @@ export default [
       ro: 'Vârf ascuțit de săgeată gotică, făcut dintr-un metal mistic care se infiltrează în oasele tale.',
       pt: 'Ponta de seta gótica afiada, feita de um metal místico que se infiltra nos teus ossos.',
       it: 'Affilata punta di freccia gotica, fatta di un metallo mistico che penetra nelle ossa.',
-      pl: 'Ostry gotycki grot strzałki, wykonany z mistycznego metalu, który przesącza się drogo do kości.'
+      pl: 'Ostry gotycki grot strzałki, wykonany z mistycznego metalu, który przesącza się drogo do kości.',
+      fr: 'Pointe de flèche gothique tranchante, faite d\'un métal mystique qui s\'infiltre profondément dans vos os.'
     }
   },
   {
@@ -365,7 +368,8 @@ export default [
       ro: 'Arunca puțin într-un foc de tabără și pregătește-te pentru o surpriză explozivă neplăcută.',
       pt: 'Atira alguns para uma fogueira e vais ter uma surpresa explosiva desagradável.',
       it: 'Gettane un po\' in un falò e sei dentro per una brutta sorpresa esplosiva.',
-      pl: 'Wrzuć trochę do ogniska i czeka cię paskudna, wybuchowa niespodzianka.'
+      pl: 'Wrzuć trochę do ogniska i czeka cię paskudna, wybuchowa niespodzianka.',
+      fr: 'Jettez-en dans un feu de camp et vous aurez une mauvaise surprise explosive.'
     }
   },
 
@@ -379,7 +383,8 @@ export default [
       ro: 'Crenguțe uscate, vor arde frumos într-un foc de tabără.',
       pt: 'Galhos finos e secos, arderão bem numa fogueira.',
       it: 'Sottili ed asciutti ramoscelli, bruceranno bene in un falò.',
-      pl: 'Cieniutkie suche gałązki, ładnie spalą się w ognisku.'
+      pl: 'Cieniutkie suche gałązki, ładnie spalą się w ognisku.',
+      fr: 'De fines brindilles sèches, brûleront bien dans un feu de camp.'
     }
   },
 
@@ -393,7 +398,8 @@ export default [
       ro: 'Pielea lăsată de un piton albinos care-și croiește drum prin pădurile acestor văi.',
       pt: 'A pele curtida de um python albino que escorrega pelas florestas destes vales.',
       it: 'La pelle coriacea di un pitone albino che si fa strada attraverso i boschi di queste valli.',
-      pl: 'Skórzana skórzana skóra z albinoskiego pytona przeciskającego się przez lasy tych dolin.'
+      pl: 'Skórzana skórzana skóra z albinoskiego pytona przeciskającego się przez lasy tych dolin.',
+      fr: 'La peau coriace d\'un python albinos qui se faufile dans les forêts de ces vallées.'
     }
   }
 
