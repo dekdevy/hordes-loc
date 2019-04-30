@@ -11,13 +11,14 @@ const classes = [
 
 // Items
 import armlet from './items/armlet.js'
+import armor from './items/armor.js'
 import bag from './items/bag.js'
 import boot from './items/boot.js'
 import bow from './items/bow.js'
-import chest from './items/chest.js'
 import gem from './items/gem.js'
 import glove from './items/glove.js'
 import hammer from './items/hammer.js'
+import misc from './misc.js'
 import orb from './items/orb.js'
 import quiver from './items/quiver.js'
 import ring from './items/ring.js'
@@ -30,10 +31,11 @@ const items = {
   bag,
   boot,
   bow,
-  chest,
+  armor,
   gem,
   glove,
   hammer,
+  misc,
   orb,
   quiver,
   ring,
@@ -66,6 +68,7 @@ import general from './ui/general.js'
 import inventory from './ui/inventory.js'
 import party from './ui/party.js'
 import settings from './ui/settings.js'
+import stats from './ui/stats.js'
 const ui = {
   charmenu,
   chat,
@@ -73,6 +76,7 @@ const ui = {
   inventory,
   settings,
   party,
+  stats,
   ...general }
 
 export default {

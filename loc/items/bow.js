@@ -22,7 +22,7 @@ export default [
       bg: 'Почти лек. Вероятно можете да намерите нещо по-добро наоколо.',
       ja: 'ほぼ軽量です。あなたはおそらくもっと良いものを見つけることができるでしょう。',
       ro: 'Ușor ca o pană. Probabil poți găsi ceva mai bun în jur.',
-      ko: '거의 가벼운. 아마도 주위에 더 나은 것을 찾을 수 있습니다.'
+      ko: '거의 가볍다. 아마도 주위에 더 나은 것을 찾을 수 있습니다.'
     }
   },
 
@@ -48,7 +48,7 @@ export default [
       bg: 'Чувствате се по-малко квалифицирани само ако държите това в ръцете си.',
       ja: 'これを手に持つだけでは、上手くいけないと感じます。',
       ro: 'Te simți mai puțin experimentat doar ținând acesta în mâinile tale.',
-      ko: '이것을 손에 쥔 채로 숙련 된 느낌이 들지 않습니다.'
+      ko: '이것을 손에 쥐기만해도 실력이 주는 겄갓습니다.'
     }
   },
 
@@ -74,7 +74,7 @@ export default [
       cs: 'Ten, kdo tohle na zemi opustil, pravděpodobně neuskutečnil pěkný konec.',
       ja: 'これを地面に置いたままにしておいた人は誰もがうまく行かなかったでしょう。',
       ro: 'Oricine l-ar fi lăsat pe pământ, probabil că nu a avut un sfârșit frumos.',
-      ko: '이것을 지상에 남긴 사람은 아마도 좋은 끝을 만난 것이 아닙니다.'
+      ko: '이것을 남긴 사람은 아마도 안좋은 끝을 만난 것 같습니다.'
     }
   },
 
@@ -100,7 +100,7 @@ export default [
       bg: 'По-напреднало оръжие. Много хубаво е да се погледне.',
       ja: 'より高度な武器見てとてもうれしいです。',
       ro: 'O armă mai avansată. Destul de frumoasă la înfățișare.',
-      ko: '더 발전된 무기. 잘 봐라.'
+      ko: '더 발전된 무기. 보기도 좃습니다.'
     }
   },
 
@@ -126,7 +126,7 @@ export default [
       cs: 'Dej dohromady s kostmi ... někoho?',
       ja: '〜誰かの骨と一緒に？',
       ro: 'Făcut din oasele... cuiva?',
-      ko: '누군가의 뼈와 함께?'
+      ko: '뼈로 만들어진 활… 누구의 뼈일가?'
     }
   },
 
@@ -152,7 +152,7 @@ export default [
       cs: 'Odborný luk zapomenutého závodu.',
       ja: '忘れられたレースの専門家の弓。',
       ro: 'Un arc expert al unei curse uitate.',
-      ko: '잊혀진 경주의 전문가 활.'
+      ko: '잊혀진 자들의 전문가 활.'
     }
   },
 
@@ -204,7 +204,7 @@ export default [
       cs: 'Spálí nepřítele s nejjemnějším červeným zbarvením.',
       ja: '最も辛い赤色の着色で敵を焼き払います。',
       ro: 'Arde inamicul cu cea mai intensă culoare de roșu.',
-      ko: '붉은 색의 가장 매끄러운 색으로 적을 태운다.'
+      ko: '뜨거운 붉은 색으로 적을 태운다.'
     }
   },
 
@@ -230,7 +230,7 @@ export default [
       cs: 'Luk běžně používaný nízkohodnotnými královskými lukostřelci. Směsi ve vegetaci.',
       ja: '低位の王室弓兵によく使われる弓。植生とよく調和しています。',
       ro: 'Un arc folosit în mod obișnuit de arcașii regali de rang inferior. Se amestecă bine cu vegetația.',
-      ko: '낮은 등급의 왕궁에 자주 사용되는 활. 식물과 잘 어울립니다.'
+      ko: '왕궁에 낮은 등급의 자주 스는 활. 식물과 잘 어울립니다.'
     }
   },
 
@@ -256,7 +256,7 @@ export default [
       cs: 'Mistrovsky vytvořený bandity z hlavních měst.',
       ja: '首都の盗賊によって巧妙に作られました。',
       ro: 'Meșteșugit de bandiții capitalelor.',
-      ko: '대도시 산적들에 의해 훌륭하게 제작되었습니다.'
+      ko: '도시 산적들에 의해 훌륭하게 제작되었습니다.'
     }
   },
 
@@ -308,7 +308,7 @@ export default [
       cs: 'Co je to? Je to led? Svět se nikdy nedozví ...',
       ja: 'それは何ですか？氷ですか？世界は知らないかもしれません...',
       ro: 'Ce e asta? Gheață? Lumea s-ar putea să nu afle niciodată.',
-      ko: '이게 뭐야? 얼음입니까? 세상은 결코 알지 못할 것입니다 ...'
+      ko: '이게 뭐지? 얼음일까? 세상은 결코 알지 못할 것입니다 ...'
     }
   },
 
@@ -334,7 +334,7 @@ export default [
       cs: 'Zabije tak krásně, jak to vypadá.',
       ja: '見た目と同じくらい美しく殺します。',
       ro: 'Ucide la fel de frumos cum și arată.',
-      ko: '외형만큼 아름답게 죽여라.'
+      ko: '외형만큼 아름답게 적을 죽깁니다.'
     }
   },
 
@@ -360,7 +360,7 @@ export default [
       cs: 'Obklopen hroznou aurou. Vítr fouká ve směru, kterým je zamíříte.',
       ja: 'ひどいオーラに囲まれています。風はあなたがそれを目指す方向に吹きます。',
       ro: 'Este înconjurat de o aură îngrozitoare. Vântul suflă în direcția în care țintești.',
-      ko: '무시 무시한 분위기로 둘러싸여 있습니다. 바람은 당신이 목표로하는 방향으로 불어납니다.'
+      ko: '무시 무시한 분위기로 둘러싸여 있습니다. 바람은 당신이 정하는 방향으로 불어납니다.'
     }
   },
 
@@ -386,7 +386,7 @@ export default [
       cs: 'Tak děsivé, že jen málokdo má odvahu držet to.',
       ja: 'それを保持するための勇気を持っている人はほとんどいないので怖い。',
       ro: 'Atât de înfricoșător că puțini au curajul să-l țină.',
-      ko: '너무 무섭기 때문에 그것을 잡을 용기가 거의 없습니다.'
+      ko: '너무 무섭기 때문에 그것을 잡을 용기가 있는자는 거의 없습니다.'
     }
   },
 
@@ -412,7 +412,7 @@ export default [
       cs: 'Vloženi s prvotním vztekem, vaši nepřátelé se třesou při pohledu na tuto zbraň. Pew je poslední věc, kterou kdy slyší.',
       ja: 'この武器を見てあなたの敵は震え上がります。ピューピューは彼らが今までに聞くことになる最後のものです。',
       ro: 'Cuprins de o furie primordială, dușmanii tăi tremură la vederea acestei arme. Pew pew e ultimul lucru pe care-l vor auzi vreodată.',
-      ko: '원시적 인 분노와 함께 적의 적들은이 무기가 보이는 곳에서 떨립니다. 퓨 퓨는 그들이 듣게 될 마지막 것입니다.'
+      ko: '원시적 인 분노덕분의, 적들은 이 무기를 보기만해도 겁의질려 떫니다. 이 활을 소는 것이 적들이 마지막으로 듣게될 소리입니다.'
     }
   }
 
