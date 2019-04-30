@@ -87,5 +87,9 @@ export default {
     ht: 'Ou te vann $1 pou $2',
     ko: '$1 에 $1 를 판매했습니다.',
     sv: 'Du har sålt $1 för $2'
+  },
+
+  drop: {
+    en: 'Drop item'
   }
 }
