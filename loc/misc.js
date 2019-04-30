@@ -11,7 +11,8 @@ export default [
       pt: 'Cabedal espesso e peludo que te faz ofegar ao arrastá-lo para trás de ti.',
       it: 'Pelliccia spessa che ti fa pantaloni mentre la trascini dietro di te.',
       pl: 'Gruba futrzasta skóra, która sprawia, że spiżarniasz, gdy ciągniesz ją za sobą.',
-      fr: 'Un cuir épais et poilu qui vous fait haleter quand vous le traînez derrière vous.'
+      fr: 'Un cuir épais et poilu qui vous fait haleter quand vous le traînez derrière vous.',
+      sv: 'Tjockt furigt läder gör dig byxa när du drar den bakom dig.'
     }
   },
 
@@ -27,7 +28,8 @@ export default [
       pt: 'Uma maçã por dia mantém os monstros afastados... é isso que dizem?',
       it: 'Una mela al giorno toglie i mostri di torno.....è questo che dicono?',
       pl: 'Jabłko dziennie trzyma potwory z dala od nich.... tak mówią?',
-      fr: 'Une pomme par jour éloigne les monstres....c\'est ce qu\'on dit ?'
+      fr: 'Une pomme par jour éloigne les monstres....c\'est ce qu\'on dit ?',
+      sv: 'Ett äpple om dagen håller monstrarna borta .... är det vad de säger?'
     }
   },
 
@@ -43,7 +45,8 @@ export default [
       pt: 'Olho pegajoso a cheirar a pântano.',
       it: 'Sticky Grizzly eyeball appiccicoso che puzza di palude.',
       pl: 'Lepki grizzly grizzly eyeball pachnący bagnem.',
-      fr: 'Oeil de grizzli collant qui sent le marécage.'
+      fr: 'Oeil de grizzli collant qui sent le marécage.',
+      sv: 'Klibbig ögonglob som luktar av träsk.'
     }
   },
 
@@ -59,7 +62,8 @@ export default [
       pt: 'Uma poderosa coroa de jóias pertencente aos antigos reis destas terras.',
       it: 'Una potente corona ingioiellata appartenente agli antichi re di queste terre.',
       pl: 'Potężna korona z klejnotami należąca do starożytnych królów tych ziem.',
-      fr: 'Une couronne de pierres précieuses appartenant aux anciens rois de ces terres.'
+      fr: 'Une couronne de pierres précieuses appartenant aux anciens rois de ces terres.',
+      sv: 'En mäktig juvelkrona som tillhör de gamla kungarna i dessa länder.'
     }
   },
 
@@ -75,7 +79,8 @@ export default [
       pt: 'Deep dark purple wisp taken from the cursed soul of a malevolent phantom.',
       it: 'Un profondo vampiro viola scuro preso dall\'anima maledetta di un malvagio fantasma.',
       pl: 'Głęboki ciemnofioletowy ognik wyjęty z przeklętej duszy złowrogiego fantoma.',
-      fr: 'Une mèche d\'un pourpre foncé profond provenant de l\'âme maudite d\'un fantôme malveillant.'
+      fr: 'Une mèche d\'un pourpre foncé profond provenant de l\'âme maudite d\'un fantôme malveillant.',
+      sv: 'Djup, mörk lila sprut som tagits från den förbannade själen av ett illvilligt fantom.'
     }
   },
 
@@ -91,7 +96,8 @@ export default [
       pt: 'Serrilhado e enferrujado, você se pergunta se é bom como arma.',
       it: 'Dentellato e arrugginito, ti chiedi se sia buono come un\'arma.',
       pl: 'Ząbkowany i zardzewiały, zastanawiasz się, czy to jakaś dobra broń.',
-      fr: 'Dentelée et rouillée, vous vous demandez si c\'est une bonne arme.'
+      fr: 'Dentelée et rouillée, vous vous demandez si c\'est une bonne arme.',
+      sv: 'Serrated och rostig, du undrar om det är något bra som ett vapen.'
     }
   },
 
@@ -107,7 +113,8 @@ export default [
       pt: 'Pedra vermelha escura hipnotizante que te deixa num transe sedento de sangue se olhares demasiado profundamente para o seu núcleo sombrio.',
       it: 'Pietra ipnotizzante rosso scuro che ti lascia in una trance affamata di sangue se dovessi guardare troppo profondamente nel suo nucleo cupo.',
       pl: 'Ciemnoczerwony, hipnotyzujący kamień, który pozostawia cię w krwiożerczym transie, jeśli gapisz się zbyt głęboko w jego ponury rdzeń.',
-      fr: 'Pierre rouge foncé hypnotisante vous laissant dans une transe assoiffée de sang si vous regardez trop profondément dans son sinistre noyau.'
+      fr: 'Pierre rouge foncé hypnotisante vous laissant dans une transe assoiffée de sang si vous regardez trop profondément dans son sinistre noyau.',
+      sv: 'Mörkrött hypnotiserande sten som lämnar dig i en blodig trance bör du stirra för djupt i sin grymma kärna.'
     }
   },
 
@@ -123,7 +130,8 @@ export default [
       pt: 'Cuidado com o ganso selvagem. Não gosta de picaretas.',
       it: 'Attenzione all\'oca selvatica. Non gli piacciono le punture.',
       pl: 'Uważaj na dziką gęś. Nie lubi szturchnięć.',
-      fr: 'Méfiez-vous de l\'oie sauvage. Il n\'aime pas les pokes.'
+      fr: 'Méfiez-vous de l\'oie sauvage. Il n\'aime pas les pokes.',
+      sv: 'Akta dig för den feralgås. Det gillar inte pokes.'
     }
   },
 
@@ -139,7 +147,8 @@ export default [
       pt: 'Um fio de seda poderoso que vale mais do que todo o seu equipamento.',
       it: 'Una potente corda di seta che vale più di tutta la tua attrezzatura.',
       pl: 'Potężny jedwabny sznurek wart więcej niż cały twój sprzęt.',
-      fr: 'Puissant cordage soyeux qui vaut plus que tout votre équipement.'
+      fr: 'Puissant cordage soyeux qui vaut plus que tout votre équipement.',
+      sv: 'Kraftfull silkeslen sträng värt mer än alla dina redskap.'
     }
   },
 
@@ -155,7 +164,8 @@ export default [
       pt: 'Pedra verde brilhante, talvez te compre algumas cervejas.',
       it: 'Pietra verde lucente, potrebbe comprarti qualche birra.',
       pl: 'Zielony kamień, może kupię ci kilka piw.',
-      fr: 'Une pierre verte lustrée, qui pourrait vous offrir quelques bières.'
+      fr: 'Une pierre verte lustrée, qui pourrait vous offrir quelques bières.',
+      sv: 'Ljusgrön grön sten, kan köpa dig några öl.'
     }
   },
 
@@ -171,7 +181,8 @@ export default [
       pt: 'Afiado e branco... já te cortaste.',
       it: 'Affilato e bianco..... ti sei gia\' tagliato.',
       pl: 'Ostre i białe.... Już się skaleczyłeś.',
-      fr: 'Aiguisé et blanc... tu t\'es déjà coupé.'
+      fr: 'Aiguisé et blanc... tu t\'es déjà coupé.',
+      sv: 'Skarp och vit ... du skär dig själv redan.'
     }
   },
 
@@ -187,7 +198,8 @@ export default [
       pt: 'Uma porcaria nojenta, tirada de sabe Deus onde.',
       it: 'Una pentola appiccicosa, portata da Dio solo sa dove.',
       pl: 'Lepki slop, zabrany od Boga wie gdzie.',
-      fr: 'De la boue gluante, prise à Dieu sait où.'
+      fr: 'De la boue gluante, prise à Dieu sait où.',
+      sv: 'Motbjudande slim, taget från Gud, vet var.'
     }
   },
 
@@ -203,7 +215,8 @@ export default [
       pt: 'Folha de ouro finamente gravada representando alta realeza.',
       it: 'Foglia d\'oro finemente incisa che rappresenta l\'alta regalità.',
       pl: 'Drobno wygrawerowany liść złota reprezentujący wysoką rodzinę królewską.',
-      fr: 'Feuille d\'or finement gravée représentant la haute royauté.'
+      fr: 'Feuille d\'or finement gravée représentant la haute royauté.',
+      sv: 'Fint inristat guldblad som representerar hög royalty.'
     }
   },
 
@@ -219,7 +232,8 @@ export default [
       pt: 'O ingrediente clássico de um caldo de bruxa.',
       it: 'Il classico ingrediente del brodo di una strega.',
       pl: 'Klasyczny składnik bulionu czarownic.',
-      fr: 'L\'ingrédient classique d\'un bouillon de sorcière.'
+      fr: 'L\'ingrédient classique d\'un bouillon de sorcière.',
+      sv: 'Den klassiska ingrediensen till en häxes buljong.'
     }
   },
 
@@ -235,7 +249,8 @@ export default [
       pt: 'Lascas de ossos e medula coladas com saliva velha.',
       it: 'Schegge di ossa e midollo incollate insieme alla saliva stantia.',
       pl: 'Odłamki kości i szpiku przyklejone do stęchłej śliny.',
-      fr: 'Éclats d\'os et de moelle collés ensemble avec de la salive éventée.'
+      fr: 'Éclats d\'os et de moelle collés ensemble avec de la salive éventée.',
+      sv: 'Splinter av ben och märg limmade ihop med gammal saliv.'
     }
   },
 
@@ -251,7 +266,8 @@ export default [
       pt: 'Pequena tigela de guisado lascada. Cuidado, é inflamável.',
       it: 'Piccola ciotola per lo stufato scheggiato. Attenzione, è infiammabile.',
       pl: 'Mała, rozdrobniona miska na gulasz. Ostrożnie, jest łatwopalny.',
-      fr: 'Petit bol à ragoût émietté. Attention, c\'est inflammable.'
+      fr: 'Petit bol à ragoût émietté. Attention, c\'est inflammable.',
+      sv: 'Liten flisad gryta skål. Var försiktig, det är brandfarligt.'
     }
   },
 
@@ -267,7 +283,8 @@ export default [
       pt: 'Os magos sempre querem parecer sábios, talvez eles também tenham feito essa ocular mística e elegante.',
       it: 'I maghi vogliono sempre sembrare saggi, forse anche loro hanno realizzato questo mistico ed elegante oculare.',
       pl: 'Magowie zawsze chcą wydawać się mądrymi, być może oni też zrobili ten mistyczny i elegancki okular.',
-      fr: 'Les Mages veulent toujours paraître sages, peut-être qu\'ils ont eux aussi réalisé cet oculaire mystique et élégant.'
+      fr: 'Les Mages veulent toujours paraître sages, peut-être qu\'ils ont eux aussi réalisé cet oculaire mystique et élégant.',
+      sv: 'Trollkarlar vill alltid verka kloka, kanske de också gjorde detta mystiska och eleganta okular.'
     }
   },
 
@@ -283,7 +300,8 @@ export default [
       pt: 'Ai, afiado.',
       it: 'Ahi, tagliente.',
       pl: 'Ałć, ostry.',
-      fr: 'Aïe, aiguisé.'
+      fr: 'Aïe, aiguisé.',
+      sv: 'Oj, skarp.'
     }
   },
 
@@ -299,7 +317,8 @@ export default [
       pt: 'Uma pequena pilha de areia extremamente fina. De onde você tirou esta...',
       it: 'Un piccolo mucchio di sabbia finissima. Dove si fa questo.....',
       pl: 'Mała sterta bardzo drobnego piasku. Gdzie wyrzucasz ten....',
-      fr: 'Un petit tas de sable extrêmement fin. Où est-ce que tu t\'en sors....'
+      fr: 'Un petit tas de sable extrêmement fin. Où est-ce que tu t\'en sors....',
+      sv: 'En liten hög med extremt fin sand. Var gör du det här ...'
     }
   },
 
@@ -315,7 +334,8 @@ export default [
       pt: 'Um tufo de pêlos pútridos emaranhados. Foi uma batalha difícil para pegar isso.',
       it: 'Un ciuffo di capelli opachi e putridi. E\' stata una battaglia difficile da vincere.',
       pl: 'Kępa z zepsutych, matowych włosów. Ciężka walka o to, by się tego dowiedzieć.',
-      fr: 'Une touffe de cheveux putrides et mats. C\'était une dure bataille pour mettre la main dessus.'
+      fr: 'Une touffe de cheveux putrides et mats. C\'était une dure bataille pour mettre la main dessus.',
+      sv: 'En tuft av matt mattat hår. T\'var en tuff kamp för att få tag i detta.'
     }
   },
 
@@ -331,7 +351,8 @@ export default [
       pt: 'Larvas nojentas de um insecto desconhecido. Esperemos que uma pequena...',
       it: 'Disgustose larve di un insetto sconosciuto. Speriamo che sia piccolo.....',
       pl: 'Obrzydliwe larwy nieznanego owada. Miejmy nadzieję, że mała....',
-      fr: 'Larves dégoûtantes d\'un insecte inconnu. Espérons qu\'il s\'agit d\'une petite...'
+      fr: 'Larves dégoûtantes d\'un insecte inconnu. Espérons qu\'il s\'agit d\'une petite...',
+      sv: 'Motbjudande larver av en okänd insekt. Förhoppningsvis en liten en ...'
     }
   },
 
@@ -347,7 +368,8 @@ export default [
       pt: 'Estranho fragmento triangular de obsidiana. Talvez seja parte de uma estrutura maior...',
       it: 'Strano frammento triangolare di ossidiana. Forse fa parte di una struttura più grande.....',
       pl: 'Dziwny trójkątny fragment obsydianu. Być może jest to część większej struktury....',
-      fr: 'Étrange fragment triangulaire d\'obsidienne. Peut-être qu\'il fait partie d\'une structure plus grande...'
+      fr: 'Étrange fragment triangulaire d\'obsidienne. Peut-être qu\'il fait partie d\'une structure plus grande...',
+      sv: 'Konstigt triangulärt fragment av obsidian. Kanske är det en del av en större struktur ...'
     }
   },
 
@@ -363,7 +385,8 @@ export default [
       pt: 'Uma gota cristalina hipnotizante que refracta a luz, lançando pequenas bolas de luz sobre você enquanto você a segura até o sol.',
       it: 'Mesmerising gocciolina cristallina che rifrange la luce intricatamente gettando piccole sfere di luce su di voi come si tiene fino al sole.',
       pl: 'Mesmeryzująca krystaliczna kropla załamująca światło misternie rzucająca na Ciebie maleńkie kuleczki światła, które trzymasz na słońcu.',
-      fr: 'Gouttelettes cristallines fascinantes qui réfractent la lumière et projettent de minuscules boules de lumière sur vous lorsque vous la tenez au soleil.'
+      fr: 'Gouttelettes cristallines fascinantes qui réfractent la lumière et projettent de minuscules boules de lumière sur vous lorsque vous la tenez au soleil.',
+      sv: 'Mesmeriserande kristallin dråp bryter ljus invecklat med små små bollar på dig som du håller det upp till solen.'
     }
   },
 
@@ -379,7 +402,8 @@ export default [
       pt: 'Ponta de seta gótica afiada, feita de um metal místico que se infiltra nos teus ossos.',
       it: 'Affilata punta di freccia gotica, fatta di un metallo mistico che penetra nelle ossa.',
       pl: 'Ostry gotycki grot strzałki, wykonany z mistycznego metalu, który przesącza się drogo do kości.',
-      fr: 'Pointe de flèche gothique tranchante, faite d\'un métal mystique qui s\'infiltre profondément dans vos os.'
+      fr: 'Pointe de flèche gothique tranchante, faite d\'un métal mystique qui s\'infiltre profondément dans vos os.',
+      sv: 'Skarp gotisk pilhuvud, gjord av en mystisk metall som suger rädsla i dina ben.'
     }
   },
   {
@@ -394,7 +418,8 @@ export default [
       pt: 'Atira alguns para uma fogueira e vais ter uma surpresa explosiva desagradável.',
       it: 'Gettane un po\' in un falò e sei dentro per una brutta sorpresa esplosiva.',
       pl: 'Wrzuć trochę do ogniska i czeka cię paskudna, wybuchowa niespodzianka.',
-      fr: 'Jettez-en dans un feu de camp et vous aurez une mauvaise surprise explosive.'
+      fr: 'Jettez-en dans un feu de camp et vous aurez une mauvaise surprise explosive.',
+      sv: 'Kasta lite in i ett lägereld och du är ute efter en otäck explosiv överraskning.'
     }
   },
 
@@ -410,7 +435,8 @@ export default [
       pt: 'Galhos finos e secos, arderão bem numa fogueira.',
       it: 'Sottili ed asciutti ramoscelli, bruceranno bene in un falò.',
       pl: 'Cieniutkie suche gałązki, ładnie spalą się w ognisku.',
-      fr: 'De fines brindilles sèches, brûleront bien dans un feu de camp.'
+      fr: 'De fines brindilles sèches, brûleront bien dans un feu de camp.',
+      sv: 'Tunna torra kvistar, kommer att brinna fint i ett lägereld.'
     }
   },
 
@@ -426,7 +452,8 @@ export default [
       pt: 'A pele curtida de um python albino que escorrega pelas florestas destes vales.',
       it: 'La pelle coriacea di un pitone albino che si fa strada attraverso i boschi di queste valli.',
       pl: 'Skórzana skórzana skóra z albinoskiego pytona przeciskającego się przez lasy tych dolin.',
-      fr: 'La peau coriace d\'un python albinos qui se faufile dans les forêts de ces vallées.'
+      fr: 'La peau coriace d\'un python albinos qui se faufile dans les forêts de ces vallées.',
+      sv: 'Den skuriga läderhuden från en albino python sliter sig genom skogarna i dessa dalar.'
     }
   }
 
