@@ -19,7 +19,7 @@ export default {
     tl: 'Mandirigma',
     ja: '戦士',
     el: 'Πολεμιστής',
-    bg: 'войн',
+    bg: 'Войн',
     ro: 'Războinic'
   },
   // Class description, visible during character creation
@@ -42,7 +42,7 @@ export default {
     cs: 'Bojovníci jsou stavěni k tanku více monster než nějaká jiná třída tím, že má vysokou obranu přes vybavení (Shields) a silné obranné nadšence.',
     ja: '戦士は装備品（Shields）と強力な防御バフを通して高い防御力を持つことによって他のどのクラスよりも多くのモンスターを戦うために建てられました。',
     el: 'Οι πολεμιστές είναι κατασκευασμένοι για να δεξαμενώνουν περισσότερα τέρατα από οποιαδήποτε άλλη τάξη έχοντας υψηλή άμυνα μέσω εξοπλισμού (Shields) και ισχυρών αμυντικών buffs.',
-    bg: 'Воините са построени, за да задържат повече чудовища от всеки друг клас, като имат висока защита чрез оборудване (Shields) и силни защитни любители.',
+    bg: 'Воините са построени да задържат повече чудовища от всеки друг клас, като имат висока защита чрез оборудване (Щитове) и силни защитни способности.',
     ro: 'Războinicii sunt făcuți pentru a atrage mai mulți monștrii decât orice altă clasă, având o defensivă foarte ridicată datorită echipamentului (scuturi) și buff-uri defensive puternice.'
   }
 }

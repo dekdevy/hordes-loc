@@ -8,7 +8,7 @@ export default {
     de: 'Abmelden',
     fr: 'Déconnexion',
     ko: '로그 아웃',
-    bg: 'Излез от профила', // TODO: shorten
+    bg: 'Изход',
     cs: 'Odhlásit se',
     el: 'Αποσυνδέση',
     ja: 'ログアウト',
@@ -30,7 +30,7 @@ export default {
     de: 'Startseite',
     fr: 'Accueil',
     ko: '홈페이지',
-    bl: 'У дома', // TODO: shorten
+    bg: 'Начало',
     cs: 'Domov',
     el: 'Αρχική σελίδα',
     ja: 'ホームページ',

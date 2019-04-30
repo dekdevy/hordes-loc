@@ -4,6 +4,7 @@ export default [
 
     description: {
       en: 'Thick furry leather making you pant as you drag it behind you.',
+      bg: 'Дебела пухеста кожа, която те кара да се задъхваш докато я мъкнеш',
       ru: 'Толстая кожа заставляет вас задыхаться когда вы тащите ее за собой.',
       de: 'Dickes pelziges Leder, das dich zur Hose macht, während du es hinter dir herziehst.',
       ro: 'Piele groasă îmblănită ce te face să gâfâi în timp ce o tragi după tine.',
@@ -19,6 +20,7 @@ export default [
 
     description: {
       en: 'An apple a day keeps the monsters away....is that what they say?',
+      bg: 'Една ябълка на ден държи чудовището далеч от мен... така ли беше?',
       ru: 'Яблоко в день держит монстров подальше ... это они говорят?',
       de: 'Ein Apfel am Tag hält die Monster fern......sagt man das so?',
       ro: 'Un măr pe zi ține monștrii la distanță... așa se zice?',
@@ -34,6 +36,7 @@ export default [
 
     description: {
       en: 'Sticky grizzly eyeball smelling of swampland.',
+      bg: 'Лепкаво око смърдящо на тиня.',
       ru: 'Липкий глаз, пахнущий болотом',
       de: 'Klebriger Grizzly Augapfel, der nach Sumpfgebiet riecht.',
       ro: 'Ochi lipicios de grizzly ce miroase a mlaștină.',
@@ -49,6 +52,7 @@ export default [
 
     description: {
       en: 'A mighty bejeweled crown belonging to the ancient kings of these lands.',
+      bg: 'Могъща корона принадлежаща на старинните крале на тази земя.',
       ru: 'Могучая драгоценная корона, принадлежащая древним королям этих земель.',
       de: 'Eine mächtige, geschliffene Krone, die den alten Königen dieser Länder gehört.',
       ro: 'O coroană încrustată cu bijuterii ce aparținea regilor antici ai acestor ținuturi.',
@@ -64,6 +68,7 @@ export default [
 
     description: {
       en: 'Deep dark purple wisp taken from the cursed soul of a malevolent phantom.',
+      bg: 'Тъмно лилав кичур взет от проклетата душа на злобен фантом.',
       ru: 'Глубокий темно-фиолетовый пучок, взятый из проклятой души злобного призрака',
       de: 'Tiefdunkelviolettes Wispern aus der verfluchten Seele eines bösartigen Phantoms.',
       ro: 'Ghem de un purpuriu închis ca noaptea, luat din sufletul blestemat al unei fantome malefice.',
@@ -79,6 +84,7 @@ export default [
 
     description: {
       en: 'Serrated and rusty, you wonder if it\'s any good as a weapon.',
+      bg: 'Назъбен и ръждясал, дали изобщо е полезен като оръжие.',
       ru: 'Зазубренный и ржавый, вы не знаете если это хорошая оружия',
       de: 'Gezackt und rostig, fragt man sich, ob es als Waffe gut ist.',
       ro: 'Zimțată și ruginită, te întrebi dacă e bună pe post de armă.',
@@ -94,6 +100,7 @@ export default [
 
     description: {
       en: 'Dark red mesmerising stone leaving you in a bloodhungry trance should you stare too deeply into its grim core.',
+      bg: 'Тъмно червен заплененяващ погледа камък, оставящ те в кръвожаден транс ако се загледаш твърде дълго в мрачното му ядро.',
       ru: 'Темно-красный завораживающий камень, оставляющий вас в кроваво-жаждущем трансе если вы слишком глубоко вглядываетесь в его мрачное ядро.',
       de: 'Dunkelroter hypnotisierender Stein, der dich in blutgieriger Trance zurücklässt, falls du zu tief in seinen grimmigen Kern starrst.',
       ro: 'Piatră roșie fermecătoare, ce te va lăsa intr-o transă cu pofte de sânge de te vei holba prea mult timp la miezul ei sumbru.',
@@ -109,6 +116,7 @@ export default [
 
     description: {
       en: 'Beware of the feral goose. It doesn\'t like pokes.',
+      bg: 'Внимавай с диавата патица, не обича да я закачат.',
       ru: 'Остерегайтесь дикого гуся.  Он не любит тычки.',
       de: 'Hüte dich vor der wilden Gans. Es mag keine Stöße.',
       ro: 'Ferește-te de gâsca sălbatică. Nu-i plac ciupiturile.',
@@ -124,6 +132,7 @@ export default [
 
     description: {
       en: 'Powerful silky string worth more than all your gear.',
+      bg: 'Мощен копринен низ, струва повече от всичкото ти снаражение.',
       ru: 'Мощная шелковистая нитка, стоит больше всего вашего снаряжения.',
       de: 'Kraftvolle, seidige Schnur, die mehr wert ist als all deine Ausrüstung.',
       ro: 'Șnur puternic de mătase ce valoarează mai mult decât tot echipamentul tău.',
@@ -139,6 +148,7 @@ export default [
 
     description: {
       en: 'Lustrous green stone, might buy you a few beers.',
+      bg: 'Блестяш зелен камък, достатъчен да ти купи няколко бири.',
       ru: 'Блестящий зеленый камень, возможно, купит тебе немного пива.',
       de: 'Glänzender grüner Stein, der dir vielleicht ein paar Biere kaufen könnte.',
       ro: 'Piatră verde lucioasă, s-ar putea să-ți poți cumpăra câteva beri cu ea.',
@@ -154,6 +164,7 @@ export default [
 
     description: {
       en: 'Sharp and white... you cut yourself already.',
+      bg: 'Остър и бял... вече се поряза.',
       ru: 'Острый и белый ... ты уже порезался.',
       de: 'Scharf und weiß.... du hast dich schon geschnitten.',
       ro: 'Ascuțit și alb... și te-ai tăiat deja.',
@@ -169,6 +180,7 @@ export default [
 
     description: {
       en: 'Gooey slop, taken from God knows where.',
+      bg: 'Кашеста кал, взета от един Господ знае къде.',
       ru: 'Густая слизь, взята непонятно откуда',
       de: 'Zähflüssiger Dreck, von Gott weiß wo genommen.',
       ro: 'Terci lipicios pentru porci, luat de D-zeu știe unde.',
@@ -184,6 +196,7 @@ export default [
 
     description: {
       en: 'Finely engraved leaf of gold representing high royalty.',
+      bg: 'Изящно гравирано златно листо символизиращо кралските особи.',
       ru: 'Мелко гравированный лист золота, символизирующий высокую королевскую власть',
       de: 'Fein graviertes Blatt aus Gold, das eine hohe Lizenzgebühr darstellt.',
       ro: 'Frunze de aur fin gravate reprezentând regalitate de rang mare.',
@@ -199,6 +212,7 @@ export default [
 
     description: {
       en: 'The classic ingredient to a witch\'s broth.',
+      bg: 'Класическа съставка за отварата на вещица.',
       ru: 'Классический ингредиент для бульона ведьмы.',
       de: 'Die clsssic Zutat zu einer Hexenbrühe.',
       ro: 'Ingredientul clsic pentru supa unei vrăjitoare.',
@@ -214,6 +228,7 @@ export default [
 
     description: {
       en: 'Splinters of bone and marrow glued together with stale saliva.',
+      bg: 'Трески от кости и костен мозък залепени със изсъхнала слюнка.',
       ru: 'Осколки кости и костного мозга склеены с застоявшейся слюной.',
       de: 'Knochen- und Marksplitter wurden mit abgestandenem Speichel zusammengeklebt.',
       ro: 'Așchii de os și măduvă lipite împreună cu salivă stătută.',
@@ -229,6 +244,7 @@ export default [
 
     description: {
       en: 'Small chipped stew bowl. Careful, it\'s flammable.',
+      bg: 'Малка калпава купа. Внимавай да не се запали.',
       ru: 'Маленькая пацарапаная миска для мяса. Осторожно, она огнеопасна.',
       de: 'Kleine, zerkleinerte Eintopfschale. Vorsicht, es ist brennbar.',
       ro: 'Bol de tocană mic și ciobit. Ai grijă, e inflamabil.',
@@ -244,6 +260,7 @@ export default [
 
     description: {
       en: 'Mages always want to seem wise, perhaps they too made this mystical and elegant eyepiece.',
+      bg: 'Магюсниците винаги са искали да изглеждат мъдри, верочтно те също са създали този елегантен окуляр.',
       ru: 'Маги всегда хотят казаться мудрыми, возможно, они тоже сделали этот мистический и элегантный окуляр.',
       de: 'Magier wollen immer weise wirken, vielleicht haben sie auch dieses mystische und elegante Okular gemacht.',
       ro: 'Magicienii vor întotdeauna să pară înțelepți, poate că tot ei au făcut acest obiect mistic și elegant.',
@@ -259,6 +276,7 @@ export default [
 
     description: {
       en: 'Ouch, sharp.',
+      bg: 'Ау, остро.',
       ru: 'Ой, острый.',
       de: 'Autsch, scharf.',
       ro: 'Ouch, e ascuțit.',
@@ -274,6 +292,7 @@ export default [
 
     description: {
       en: 'A small pile of extremely fine sand. Where do you out this...',
+      bg: 'Малка купчинка от много ситен пясък. Къде ли се поставя това...',
       ru: 'Небольшая куча песка. Куда тебе это положить...',
       de: 'Ein kleiner Haufen extrem feinen Sandes. Wo steckst du das aus?',
       ro: 'Un mic morman de nisip extrem de fin. Unde vrei să îl duci...',
@@ -289,6 +308,7 @@ export default [
 
     description: {
       en: 'A tuft of putrid matted hair. T\'was a tough battle to get hold of this.',
+      bg: 'Шепа мазна загнила коса. Трудна битка беше за да се докопа.',
       ru: 'Пучок запутаных и ванючих валось. Трудная битва была, штобы ево достать.',
       de: 'Ein Büschel verfaulter, verfilzter Haare. Es war ein harter Kampf, um dies zu erreichen. ',
       ro: 'Un smoc de păr putrezit. Am dus o luptă grea să pot pune mâna pe asta.',
@@ -304,6 +324,7 @@ export default [
 
     description: {
       en: 'Disgusting larvae of an unknown insect. Hopefully a small one...',
+      bg: 'Противни личей на незнайно насекомо. Да се надяваме че е от малко...',
       ru: 'Противные личинки незнакомого насекомого. Надеюсь маленкова...',
       de: 'Ekelhafte Larven eines unbekannten Insekts. Hoffentlich ein kleines.....',
       ro: 'Larvele dezgustătoare ale unei insecte necunoscute. Să sperăm că una mică...',
@@ -319,6 +340,7 @@ export default [
 
     description: {
       en: 'Strange triangular fragment of obsidian. Perhaps it\'s part of a larger structure...',
+      bg: 'Странен триъгълен фрагмент от ожсидиан. Вероятно е част от по голяма структура...',
       ru: 'Странный треугольный фрагмент обсидиана.  Возможно, это часть большей структуры ...',
       de: 'Seltsames dreieckiges Fragment des Obsidians. Vielleicht ist es Teil einer größeren Struktur....',
       ro: 'Un ciudat fragment triunghiular din obsidian. Poate face parte dintr-o structură mai mare...',
@@ -334,6 +356,7 @@ export default [
 
     description: {
       en: 'Mesmerising crystalline droplet refracting light intricately casting tiny balls of light onto you as you hold it up to the sun.',
+      bg: 'Запленяваща погледа кристална капка, пречупваща светлината и хвърляща прекрасни, миниатюрни пръски светлина в лицето, като я държиш срещу слънцето.',
       ru: 'Завораживающая кристаллическая капля, преломляющая свет, бросает на вас крошечные шарики света, когда вы держите его на солнце.',
       de: 'Faszinierendes kristallines Tröpfchen brechendes Licht, das aufwendig kleine Lichtkugeln auf Sie wirft, während Sie es an die Sonne halten.',
       ro: 'Picături cristaline hipnotizante refractând lumina, proiectând mici bile de lumină pe tine în timp ce le ții la soare.',
@@ -348,7 +371,8 @@ export default [
     name: {$$: 'Darkmetal Arrowhead' },
 
     description: {
-      en: 'Sharp gothic arrowhead, made from a mystical metal which seeps dear into your bones.',
+      en: 'Sharp gothic arrowhead, made from a mystical metal which seeps fear into your bones.',
+      bg: 'Острър връх на стрела, направен от мистечен метал, изпълващ те със страх.',
       ru: 'Острый готический наконечник стрелы, сделанный из мистического металла, который просачивается страх в твои кости.',
       de: 'Scharfe gotische Pfeilspitze, hergestellt aus einem mystischen Metall, das in deine Knochen sickert.',
       ro: 'Vârf ascuțit de săgeată gotică, făcut dintr-un metal mistic care se infiltrează în oasele tale.',
@@ -363,6 +387,7 @@ export default [
 
     description: {
       en: 'Throw some into a campfire and you\'re in for a nasty explosive surprise.',
+      bg: 'Хвърли малко в огъня и ще бъдеш бомбено изненадан.',
       ru: 'Бросьте в костер, и вас ждет неприятный взрывной сюрприз.',
       de: 'Werfen Sie einige davon in ein Lagerfeuer und Sie werden eine böse explosive Überraschung erleben.',
       ro: 'Arunca puțin într-un foc de tabără și pregătește-te pentru o surpriză explozivă neplăcută.',
@@ -378,6 +403,7 @@ export default [
 
     description: {
       en: 'Thin dry twigs, will burn nicely in a campfire.',
+      bg: 'Тънки сухи пръчици, ще горят добре в огън.',
       ru: 'Тонкие сухие веточки, хорошо сгорят в костре.',
       de: 'Dünne, trockene Zweige, die im Lagerfeuer gut brennen.',
       ro: 'Crenguțe uscate, vor arde frumos într-un foc de tabără.',
@@ -393,6 +419,7 @@ export default [
 
     description: {
       en: 'The shed leathery skin from an albino python slithering its way through the forests of these valleys.',
+      bg: 'Кожа от бял питон, плъзгащ се в готире по тези места.',
       ru: 'Кожа питона-альбиноса который живет в лесах этих далин.',
       de: 'Die lederne Haut einer Albino-Python, die sich durch die Wälder dieser Täler schlängelt.',
       ro: 'Pielea lăsată de un piton albinos care-și croiește drum prin pădurile acestor văi.',
