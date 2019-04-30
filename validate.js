@@ -52,6 +52,8 @@ for (const lang of languages) {
 
   // read files synchronously (I/O doesnt matter so its okay) and put the data in data
   const data = fs.readFileSync(path + type + '.json', 'utf8')
+  
+  if (!data) throw 'Could not read ' + type + '.json'
 
   // run validation check
   validate(data, type)
@@ -59,4 +61,4 @@ for (const lang of languages) {
 
 // present final results
 if (infractions === 0) console.log('Validation successful. No errors found.')
-else console.log('Validation unsuccessful. ' + infractions + ' errors were found.')
+else throw 'Validation unsuccessful. ' + infractions + ' errors were found.'
