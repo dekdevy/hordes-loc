@@ -8,7 +8,7 @@ export default {
     es: 'Clan Gerente', // TODO: shorten
     de: 'Clan-Manager',
     tr: 'Klan Yönetimi',
-    bg: 'Мениджър на клана', // TODO: shorten
+    bg: 'Кланови опции',
     cs: 'Clan Manager',
     el: 'Clan Manager',
     it: 'Clan Manager',
@@ -31,7 +31,7 @@ export default {
     es: 'Salir Clan', // TODO: shorten
     de: 'Clan verlassen',
     tr: 'Klandan Ayrıl',
-    bg: 'Напусни Clan',
+    bg: 'Напусни клан',
     cs: 'Opustit klan',
     el: 'Αφήστε τη Clan',
     it: 'Abbandona il clan', // TODO: shorten
@@ -54,7 +54,7 @@ export default {
     es: 'Clan',
     de: 'Clan',
     tr: 'Klan',
-    bg: 'клан',
+    bg: 'Клан',
     cs: 'Klan',
     el: 'Φυλή',
     it: 'Clan',
@@ -77,7 +77,7 @@ export default {
     es: 'Crear un clan',
     de: 'Clan Erstellen',
     tr: 'Klan yarat',
-    bg: 'Създайте клана',
+    bg: 'Създайте клан',
     cs: 'Vytvořit klan',
     el: 'Δημιουργία Clan',
     it: 'Create Clan',
@@ -100,7 +100,7 @@ export default {
     es: 'Para crear un clan, necesita',
     de: 'Um einen Clan zu erstellen, brauchst du',
     tr: 'Klan yaratmak için ihtiyacın olan',
-    bg: 'За да създадете нужда от клан',
+    bg: 'За да създатае клан ви травбва',
     cs: 'Chcete-li vytvořit klan, který potřebujete',
     el: 'Για να δημιουργήσετε μια οικογένεια που χρειάζεστε',
     it: 'Per creare un clan che ti serve',
@@ -146,7 +146,7 @@ export default {
     es: 'Clan seña', // TODO: shorten
     de: 'Clan-Tag',
     tr: 'Klan etiketi',
-    bg: 'Ден на клана',
+    bg: 'Таг на клана',
     cs: 'Den klanů',
     el: 'Ημέρα του γάμου', // TODO: shorten
     it: 'Clan tag',
@@ -169,7 +169,7 @@ export default {
     es: 'Crear',
     de: 'Erstellen',
     tr: 'Yarat',
-    bg: 'създавам',
+    bg: 'Създай',
     cs: 'Vytvořit',
     el: 'Δημιουργώ',
     it: 'Creare',

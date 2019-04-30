@@ -65,7 +65,7 @@ export default {
     cs: 'Šepot',
     ja: 'ささやく',
     sv: 'Viska',
-    bg: 'шепот',
+    bg: 'Шепни',
     el: 'Ψίθυρος',
     tl: 'Bulong',
     ro: 'Șoaptă'

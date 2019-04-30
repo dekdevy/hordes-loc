@@ -86,7 +86,7 @@ export default {
     cs: 'grafika',
     ja: 'グラフィックス',
     sv: 'grafik',
-    bg: 'графики',
+    bg: 'графика',
     el: 'γραφικών',
     tl: 'grapika',
     ro: 'grafică'
@@ -132,7 +132,7 @@ export default {
     cs: 'Dovednostní efekty',
     ja: 'スキル効果',
     sv: 'Färdighetseffekter',
-    bg: 'Ефекти на уменията',
+    bg: 'Ефекти',
     el: 'Επιπτώσεις δεξιοτήτων',
     tl: 'Mga epekto sa kasanayan',
     ro: 'Efectele abilităților'
@@ -270,7 +270,7 @@ export default {
     cs: 'výuku',
     ja: 'チュートリアル',
     sv: 'handledning',
-    bg: 'настойнически',
+    bg: 'Учение',
     el: 'φροντιστήριο',
     tl: 'pagtuturo',
     ro: 'tutorial'
