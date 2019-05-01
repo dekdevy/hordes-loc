@@ -12,7 +12,8 @@ export default [
       it: 'Pelliccia spessa che ti fa pantaloni mentre la trascini dietro di te.',
       pl: 'Gruba futrzasta skóra, która sprawia, że spiżarniasz, gdy ciągniesz ją za sobą.',
       fr: 'Un cuir épais et poilu qui vous fait haleter quand vous le traînez derrière vous.',
-      sv: 'Tjockt furigt läder gör dig byxa när du drar den bakom dig.'
+      sv: 'Tjockt furigt läder gör dig byxa när du drar den bakom dig.',
+      hi: 'इस मोटे चमड़े को साथ ले जाते आप थक जाएंगे।'
     }
   },
 
@@ -29,7 +30,8 @@ export default [
       it: 'Una mela al giorno toglie i mostri di torno.....è questo che dicono?',
       pl: 'Jabłko dziennie trzyma potwory z dala od nich.... tak mówią?',
       fr: 'Une pomme par jour éloigne les monstres....c\'est ce qu\'on dit ?',
-      sv: 'Ett äpple om dagen håller monstrarna borta .... är det vad de säger?'
+      sv: 'Ett äpple om dagen håller monstrarna borta .... är det vad de säger?',
+      hi: 'प्रतिदिन एक सेब खाने से राक्षस पास नहीं आते.... यही तो कहते हैं ना?'
     }
   },
 
@@ -46,7 +48,8 @@ export default [
       it: 'Sticky Grizzly eyeball appiccicoso che puzza di palude.',
       pl: 'Lepki grizzly grizzly eyeball pachnący bagnem.',
       fr: 'Oeil de grizzli collant qui sent le marécage.',
-      sv: 'Klibbig ögonglob som luktar av träsk.'
+      sv: 'Klibbig ögonglob som luktar av träsk.',
+      hi: 'चिपचिपी आंख जिसमें से दल-दल सी गन्ध आती हैं।'
     }
   },
 
@@ -403,7 +406,8 @@ export default [
       it: 'Affilata punta di freccia gotica, fatta di un metallo mistico che penetra nelle ossa.',
       pl: 'Ostry gotycki grot strzałki, wykonany z mistycznego metalu, który przesącza się drogo do kości.',
       fr: 'Pointe de flèche gothique tranchante, faite d\'un métal mystique qui s\'infiltre profondément dans vos os.',
-      sv: 'Skarp gotisk pilhuvud, gjord av en mystisk metall som suger rädsla i dina ben.'
+      sv: 'Skarp gotisk pilhuvud, gjord av en mystisk metall som suger rädsla i dina ben.',
+      hi: 'नुकीला गोथिक तीर, रहस्यमई धातु से बना जो आपकी हड्डीयो में खौफ भर देता है।'
     }
   },
   {
@@ -419,7 +423,8 @@ export default [
       it: 'Gettane un po\' in un falò e sei dentro per una brutta sorpresa esplosiva.',
       pl: 'Wrzuć trochę do ogniska i czeka cię paskudna, wybuchowa niespodzianka.',
       fr: 'Jettez-en dans un feu de camp et vous aurez une mauvaise surprise explosive.',
-      sv: 'Kasta lite in i ett lägereld och du är ute efter en otäck explosiv överraskning.'
+      sv: 'Kasta lite in i ett lägereld och du är ute efter en otäck explosiv överraskning.',
+      hi: 'ऐक चुटकी को आग में दाले और धमाकेदार जादू अनुभव करें।'
     }
   },
 
@@ -436,7 +441,8 @@ export default [
       it: 'Sottili ed asciutti ramoscelli, bruceranno bene in un falò.',
       pl: 'Cieniutkie suche gałązki, ładnie spalą się w ognisku.',
       fr: 'De fines brindilles sèches, brûleront bien dans un feu de camp.',
-      sv: 'Tunna torra kvistar, kommer att brinna fint i ett lägereld.'
+      sv: 'Tunna torra kvistar, kommer att brinna fint i ett lägereld.',
+      hi: 'छोटे सूखे तिनके, आग जलाने के लिए सबसे बढ़िया।'
     }
   },
 
