@@ -66,7 +66,8 @@ export default [
       it: 'Una potente corona ingioiellata appartenente agli antichi re di queste terre.',
       pl: 'Potężna korona z klejnotami należąca do starożytnych królów tych ziem.',
       fr: 'Une couronne de pierres précieuses appartenant aux anciens rois de ces terres.',
-      sv: 'En mäktig juvelkrona som tillhör de gamla kungarna i dessa länder.'
+      sv: 'En mäktig juvelkrona som tillhör de gamla kungarna i dessa länder.',
+      hi: 'पौराणिक महाराजाओं का मणी जड़ित महान ताज।'
     }
   },
 
@@ -83,7 +84,8 @@ export default [
       it: 'Un profondo vampiro viola scuro preso dall\'anima maledetta di un malvagio fantasma.',
       pl: 'Głęboki ciemnofioletowy ognik wyjęty z przeklętej duszy złowrogiego fantoma.',
       fr: 'Une mèche d\'un pourpre foncé profond provenant de l\'âme maudite d\'un fantôme malveillant.',
-      sv: 'Djup, mörk lila sprut som tagits från den förbannade själen av ett illvilligt fantom.'
+      sv: 'Djup, mörk lila sprut som tagits från den förbannade själen av ett illvilligt fantom.',
+      hi: 'आत्नकी राक्षस की शापित आत्मा से लिया गया घना बैंगनी रसायन।'
     }
   },
 
@@ -100,7 +102,8 @@ export default [
       it: 'Dentellato e arrugginito, ti chiedi se sia buono come un\'arma.',
       pl: 'Ząbkowany i zardzewiały, zastanawiasz się, czy to jakaś dobra broń.',
       fr: 'Dentelée et rouillée, vous vous demandez si c\'est une bonne arme.',
-      sv: 'Serrated och rostig, du undrar om det är något bra som ett vapen.'
+      sv: 'Serrated och rostig, du undrar om det är något bra som ett vapen.',
+      hi: 'ज़ंग से लैज़ और छितरों से भरी, आप इसे इस्तेमाल करने से पहले सोच ले।'
     }
   },
 
@@ -118,7 +121,7 @@ export default [
       pl: 'Ciemnoczerwony, hipnotyzujący kamień, który pozostawia cię w krwiożerczym transie, jeśli gapisz się zbyt głęboko w jego ponury rdzeń.',
       fr: 'Pierre rouge foncé hypnotisante vous laissant dans une transe assoiffée de sang si vous regardez trop profondément dans son sinistre noyau.',
       sv: 'Mörkrött hypnotiserande sten som lämnar dig i en blodig trance bör du stirra för djupt i sin grymma kärna.'
-    }
+    } 
   },
 
   {
