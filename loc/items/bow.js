@@ -13,7 +13,7 @@ export default [
       pl: 'Prawie lekka. Prawdopodobnie znajdziesz tu coś lepszego.',
       it: 'Quasi leggero. Probabilmente si può trovare qualcosa di meglio in giro.',
       sv: 'Nästan lätt. Du kan säkert hitta något bättre runt.',
-      ph: 'Halos magaan. Maaari mong mahanap ang isang bagay na mas mahusay sa paligid.',
+      tl: 'Halos magaan. Maaari mong mahanap ang isang bagay na mas mahusay sa paligid.',
       ht: 'Prèske lejè. Ou ka pwobableman jwenn yon bagay pi byen alantou.',
       tr: 'Hafifsiklet bir şey. Muhtemelen etrafta daha iyi bir şeyler bulabilirsin.',
       hi: 'लगभग हल्के। आप शायद के आसपास कुछ बेहतर मिल सकता है।',
@@ -22,11 +22,11 @@ export default [
       bg: 'Почти лек. Вероятно можете да намерите нещо по-добро наоколо.',
       ja: 'ほぼ軽量です。あなたはおそらくもっと良いものを見つけることができるでしょう。',
       ro: 'Ușor ca o pană. Probabil poți găsi ceva mai bun în jur.',
-      ko: '거의 가벼운. 아마도 주위에 더 나은 것을 찾을 수 있습니다.'
+      ko: '거의 가볍다. 아마도 주위에 더 나은 것을 찾을 수 있습니다.'
     }
   },
 
-  { // T2 item
+  {
     name       : {$$: 'Novice Shortbow' },
     description: {
       en: 'You feel less skilled just by holding this in your hands.',
@@ -42,17 +42,17 @@ export default [
       ht: 'Ou santi ou mwens kalifye jis pa kenbe sa a nan men ou.',
       tr: 'Sadece tutmakla bile insan kendini yeteneksiz hissediyor, öyle bir yay.',
       hi: 'तुम सिर्फ अपने हाथों में इस पकड़ कर कम कुशल लग रहा है।',
-      ph: 'Ang pakiramdam mo ay hindi gaanong nangangailangan ng kasanayan sa pamamagitan ng pagpindot sa iyong mga kamay.',
+      tl: 'Ang pakiramdam mo ay hindi gaanong nangangailangan ng kasanayan sa pamamagitan ng pagpindot sa iyong mga kamay.',
       cs: 'Cítíš se méně zručně, když to držíš ve svých rukou.',
       el: 'Αισθάνεσαι λιγότερο εξειδικευμένο κρατώντας το στα χέρια σου.',
       bg: 'Чувствате се по-малко квалифицирани само ако държите това в ръцете си.',
       ja: 'これを手に持つだけでは、上手くいけないと感じます。',
       ro: 'Te simți mai puțin experimentat doar ținând acesta în mâinile tale.',
-      ko: '이것을 손에 쥔 채로 숙련 된 느낌이 들지 않습니다.'
+      ko: '이것을 손에 쥐기만해도 실력이 주는 겄갓습니다.'
     }
   },
 
-  { // T3 item
+  {
     name       : {$$: 'Adventurer\'s Shortbow' },
     description: {
       en: 'Whoever left this on the ground probably didn\'t meet a nice end.',
@@ -67,18 +67,18 @@ export default [
       sv: 'Den som lämnat det här på marken antog förmodligen inte ett bra slut.',
       ht: 'Nenpòt moun ki te kite sa a sou tè a pwobableman pa satisfè yon fen bèl.',
       el: 'Όποιος έφυγε από αυτό στο έδαφος πιθανότατα δεν κατάλαβε ένα καλό τέλος.',
-      ph: 'Ang sinumang nag-iwan dito sa lupa ay malamang na hindi natutugunan ang magandang dulo.',
+      tl: 'Ang sinumang nag-iwan dito sa lupa ay malamang na hindi natutugunan ang magandang dulo.',
       bg: 'Който е оставил това на земята, вероятно не е срещнал хубав край.',
       tr: 'Bunu kim yere düşürdüyse muhtemelen sonu iyi olmamıştır.',
       hi: 'जो कोई भी इस आधार पर यह छोड़ दिया शायद एक अच्छा अंत पूरा नहीं किया।',
       cs: 'Ten, kdo tohle na zemi opustil, pravděpodobně neuskutečnil pěkný konec.',
       ja: 'これを地面に置いたままにしておいた人は誰もがうまく行かなかったでしょう。',
       ro: 'Oricine l-ar fi lăsat pe pământ, probabil că nu a avut un sfârșit frumos.',
-      ko: '이것을 지상에 남긴 사람은 아마도 좋은 끝을 만난 것이 아닙니다.'
+      ko: '이것을 남긴 사람은 아마도 안좋은 끝을 만난 것 같습니다.'
     }
   },
 
-  { // T4 item
+  {
     name       : {$$: 'Long Bow' },
     description: {
       en: 'A more advanced weapon. Quite nice to look at.',
@@ -93,18 +93,18 @@ export default [
       sv: 'Ett mer avancerat vapen. Ganska trevligt att titta på.',
       ht: 'Yon zam ki pi avanse. Byen bèl gade.',
       tr: 'Daha gelişmiş bir silah. Bakması da oldukça güzel hissediyor.',
-      ph: 'Isang mas advanced na armas. Masyadong maganda ang pagtingin.',
+      tl: 'Isang mas advanced na armas. Masyadong maganda ang pagtingin.',
       hi: 'एक और अधिक उन्नत हथियार। काफी को देखने के लिए अच्छा।',
       cs: 'Pokročilejší zbraň. Docela hezké se na to podívat.',
       el: 'Ένα πιο προηγμένο όπλο. Πολύ ωραίο να το δούμε.',
       bg: 'По-напреднало оръжие. Много хубаво е да се погледне.',
       ja: 'より高度な武器見てとてもうれしいです。',
       ro: 'O armă mai avansată. Destul de frumoasă la înfățișare.',
-      ko: '더 발전된 무기. 잘 봐라.'
+      ko: '더 발전된 무기. 보기도 좃습니다.'
     }
   },
 
-  { // T5 item
+  {
     name       : {$$: 'Bone Bow' },
     description: {
       en: 'Put together with the bones of... somebody?',
@@ -114,7 +114,7 @@ export default [
       es: '¿Colocado con los huesos de... alguien?',
       pt: 'Juntos com os ossos de... alguém?',
       nl: 'In elkaar gezet met de botten van.... iemand?',
-      ph: 'Isama ang mga buto ng ... isang tao?',
+      tl: 'Isama ang mga buto ng ... isang tao?',
       pl: 'Złożone razem z kośćmi.... kogoś?',
       it: 'Messo insieme alle ossa di..... qualcuno?',
       sv: 'Sätta ihop med benen av ... någon?',
@@ -126,11 +126,11 @@ export default [
       cs: 'Dej dohromady s kostmi ... někoho?',
       ja: '〜誰かの骨と一緒に？',
       ro: 'Făcut din oasele... cuiva?',
-      ko: '누군가의 뼈와 함께?'
+      ko: '뼈로 만들어진 활… 누구의 뼈일가?'
     }
   },
 
-  { // T6 item
+  {
     name       : {$$: 'Elven Bow' },
     description: {
       en: 'An expert bow of a forgotten race.',
@@ -142,7 +142,7 @@ export default [
       nl: 'Een deskundige boog van een vergeten race.',
       pl: 'Ekspercki łuk zapomnianej rasy.',
       it: 'Un arco esperto di una razza dimenticata.',
-      ph: 'Isang dalubhasang bow ng isang nakalimutan na lahi.',
+      tl: 'Isang dalubhasang bow ng isang nakalimutan na lahi.',
       sv: 'En expertbuga av en glömd ras.',
       ht: 'Yon banza ekspè nan yon ras ki oubliyé.',
       tr: 'Unutulmuş bir ırkın uzman yayı.',
@@ -152,11 +152,11 @@ export default [
       cs: 'Odborný luk zapomenutého závodu.',
       ja: '忘れられたレースの専門家の弓。',
       ro: 'Un arc expert al unei curse uitate.',
-      ko: '잊혀진 경주의 전문가 활.'
+      ko: '잊혀진 자들의 전문가 활.'
     }
   },
 
-  { // T7 item
+  {
     name       : {$$: 'Ancient Bow' },
     description: {
       en: 'Crude, but effective. Draws its power from the tiny leaf attached to it.',
@@ -165,7 +165,7 @@ export default [
       es: 'Crudo, pero efectivo. Extrae su poder de la diminuta hoja adherida a él.',
       fr: 'Grossier, mais efficace. Tire son énergie de la petite feuille qui lui est attachée.',
       pt: 'Bruto, mas eficaz. Retira o seu poder da pequena folha que lhe está ligada.',
-      ph: 'Maliit ngunit epektibo. Gawin ang kapangyarihan nito mula sa maliit na dahon na nakalakip dito.',
+      tl: 'Maliit ngunit epektibo. Gawin ang kapangyarihan nito mula sa maliit na dahon na nakalakip dito.',
       nl: 'Ruw, maar effectief. Trekt zijn kracht uit het kleine blaadje dat eraan vastzit.',
       pl: 'Surowe, ale skuteczne. Wyciąga swoją moc z dołączonego do niego malutkiego liścia.',
       it: 'Crudo, ma efficace. Trae il suo potere dalla minuscola foglia ad essa attaccata.',
@@ -182,7 +182,7 @@ export default [
     }
   },
 
-  { // T8 item
+  {
     name       : {$$: 'Iron Piercer' },
     description: {
       en: 'Burns away the enemy with the spiciest of red coloring.',
@@ -194,7 +194,7 @@ export default [
       nl: 'Verbrandt de vijand met de scherpste rode kleur.',
       pl: 'Wypala wroga z najostrzejszym czerwonym zabarwieniem.',
       it: 'Brucia il nemico con la più piccante colorazione rossa.',
-      ph: 'Sinunog ang kaaway sa spiciest ng pulang kulay.',
+      tl: 'Sinunog ang kaaway sa spiciest ng pulang kulay.',
       sv: 'Bränner bort fienden med den spiciest av röd färgning.',
       ht: 'Burns lwen lènmi an ak spiciest nan koloran wouj.',
       el: 'Εξαφανίζει τον εχθρό με το πιό spicyest του κόκκινου χρωματισμού.',
@@ -204,11 +204,11 @@ export default [
       cs: 'Spálí nepřítele s nejjemnějším červeným zbarvením.',
       ja: '最も辛い赤色の着色で敵を焼き払います。',
       ro: 'Arde inamicul cu cea mai intensă culoare de roșu.',
-      ko: '붉은 색의 가장 매끄러운 색으로 적을 태운다.'
+      ko: '뜨거운 붉은 색으로 적을 태운다.'
     }
   },
 
-  { // T9 item
+  {
     name       : {$$: 'Silver Recurve' },
     description: {
       en: 'A bow commonly used by low ranked royal archers. Blends in well with vegetation.',
@@ -217,7 +217,7 @@ export default [
       es: 'Un arco comúnmente usado por arqueros reales de bajo rango. Se integra bien con la vegetación.',
       fr: 'Un arc couramment utilisé par les archers royaux de bas rang. S\'intègre bien à la végétation.',
       pt: 'Um arco comumente usado por arqueiros reais de baixo escalão. Mistura-se bem com a vegetação.',
-      ph: 'Isang busog na karaniwang ginagamit ng mababang ranggo na mga mamamana. Pinagsasama-sama ng mga halaman.',
+      tl: 'Isang busog na karaniwang ginagamit ng mababang ranggo na mga mamamana. Pinagsasama-sama ng mga halaman.',
       nl: 'Een boog die vaak gebruikt wordt door laaggeplaatste koninklijke boogschutters. Past goed in de vegetatie.',
       pl: 'Łuk powszechnie używany przez nisko sklasyfikowanych łuczników królewskich. Dobrze komponuje się z roślinnością.',
       it: 'Un arco comunemente usato dagli arcieri reali di basso rango. Si fonde bene con la vegetazione.',
@@ -230,18 +230,18 @@ export default [
       cs: 'Luk běžně používaný nízkohodnotnými královskými lukostřelci. Směsi ve vegetaci.',
       ja: '低位の王室弓兵によく使われる弓。植生とよく調和しています。',
       ro: 'Un arc folosit în mod obișnuit de arcașii regali de rang inferior. Se amestecă bine cu vegetația.',
-      ko: '낮은 등급의 왕궁에 자주 사용되는 활. 식물과 잘 어울립니다.'
+      ko: '왕궁에 낮은 등급의 자주 스는 활. 식물과 잘 어울립니다.'
     }
   },
 
-  { // T10 item
+  {
     name       : {$$: 'Assassin\'s Bow' },
     description: {
       en: 'Masterfully crafted by the bandits of the capitals.',
       ru: 'Мастерски созданный столичными бандитами.',
       de: 'Meisterhaft gefertigt von den Banditen der Hauptstädte.',
       es: 'Hecho con maestría por los bandidos de las capitales.',
-      ph: 'Masterfully crafted sa pamamagitan ng mga pangkat ng mga capitals.',
+      tl: 'Masterfully crafted sa pamamagitan ng mga pangkat ng mga capitals.',
       fr: 'Fabriqué avec brio par les bandits des capitales.',
       pt: 'Magistralmente trabalhado pelos bandidos das capitais.',
       nl: 'Op meesterlijke wijze gemaakt door de bandieten van de hoofdsteden.',
@@ -256,11 +256,11 @@ export default [
       cs: 'Mistrovsky vytvořený bandity z hlavních měst.',
       ja: '首都の盗賊によって巧妙に作られました。',
       ro: 'Meșteșugit de bandiții capitalelor.',
-      ko: '대도시 산적들에 의해 훌륭하게 제작되었습니다.'
+      ko: '도시 산적들에 의해 훌륭하게 제작되었습니다.'
     }
   },
 
-  { // T11 item
+  {
     name       : {$$: 'Skyfire Warbow' },
     description: {
       en: 'A rare bow used in the greatest of wars. Shooting it makes you feel like the heavens will collapse.',
@@ -269,7 +269,7 @@ export default [
       de: 'Ein seltener Bogen, der in den größten Kriegen verwendet wird. Beim Schießen hat man das Gefühl, dass der Himmel zusammenbrechen wird.',
       es: 'Un arco raro usado en la mayor de las guerras. Disparar te hace sentir como si el cielo se fuera a derrumbar.',
       pt: 'Um arco raro usado na maior das guerras. Atirar nele faz você sentir que os céus vão entrar em colapso.',
-      ph: 'Ang isang bihirang bow na ginagamit sa pinakadakilang ng mga digmaan. Ang pagbaril ay ginagawa mo ang pakiramdam tulad ng pagbagsak ng langit.',
+      tl: 'Ang isang bihirang bow na ginagamit sa pinakadakilang ng mga digmaan. Ang pagbaril ay ginagawa mo ang pakiramdam tulad ng pagbagsak ng langit.',
       nl: 'Een zeldzame boog gebruikt in de grootste oorlogen. Door het schieten ervan krijg je het gevoel dat de hemel zal instorten.',
       pl: 'Rzadki łuk używany w największych wojnach. Strzelanie do niego sprawia, że czujesz się, jakby niebo się zawaliło.',
       it: 'Un arco raro usato nelle più grandi guerre. Sparare ti fa sentire come se il cielo crollerà.',
@@ -286,14 +286,14 @@ export default [
     }
   },
 
-  { // T12 item
+  {
     name       : {$$: 'Hellfire Warbow' },
     description: {
       en: 'What is it? Is it ice? The world may never know...',
       ru: 'Что это? Это лед? Мир может никогда не узнать ...',
       fr: 'Qu\'est-ce cela? De la glace? Le monde ne le saura peut-être jamais...',
       de: 'Was ist das? Was ist das? Ist es Eis? Die Welt wird es vielleicht nie erfahren...',
-      ph: 'Ano ito? Yelo ba Ang mundo ay hindi maaaring malaman ...',
+      tl: 'Ano ito? Yelo ba Ang mundo ay hindi maaaring malaman ...',
       es: '¿Qué es esto? ¿Es hielo? El mundo tal vez nunca lo sepa...',
       pt: 'O que é isso? É gelo? O mundo pode nunca saber...',
       nl: 'Wat is het? Is het ijs? De wereld zal misschien nooit weten...',
@@ -308,11 +308,11 @@ export default [
       cs: 'Co je to? Je to led? Svět se nikdy nedozví ...',
       ja: 'それは何ですか？氷ですか？世界は知らないかもしれません...',
       ro: 'Ce e asta? Gheață? Lumea s-ar putea să nu afle niciodată.',
-      ko: '이게 뭐야? 얼음입니까? 세상은 결코 알지 못할 것입니다 ...'
+      ko: '이게 뭐지? 얼음일까? 세상은 결코 알지 못할 것입니다 ...'
     }
   },
 
-  { // T13 item
+  {
     name       : {$$: 'Widowmaker' },
     description: {
       en: 'Kills as beautifully as it looks.',
@@ -325,7 +325,7 @@ export default [
       pl: 'Zabija tak pięknie, jak wygląda.',
       it: 'Uccide tanto bene quanto sembra.',
       el: 'Σκοτώνει τόσο όμορφα όσο φαίνεται.',
-      ph: 'Kills bilang maganda bilang hitsura nito.',
+      tl: 'Kills bilang maganda bilang hitsura nito.',
       bg: 'Убива толкова красиво, колкото изглежда.',
       sv: 'Dödar så vackert som det ser ut.',
       ht: 'Touye bèl jan li sanble.',
@@ -334,11 +334,11 @@ export default [
       cs: 'Zabije tak krásně, jak to vypadá.',
       ja: '見た目と同じくらい美しく殺します。',
       ro: 'Ucide la fel de frumos cum și arată.',
-      ko: '외형만큼 아름답게 죽여라.'
+      ko: '외형만큼 아름답게 적을 죽깁니다.'
     }
   },
 
-  { // T14 item
+  {
     name       : {$$: 'Stormsong' },
     description: {
       en: 'Surrounded by a ghastly aura. The wind blows in the direction you aim it.',
@@ -351,7 +351,7 @@ export default [
       pl: 'Otoczony upiorną aurą. Wiatr wieje w kierunku, w którym go celujesz.',
       it: 'Circondato da un\'aura spettrale. Il vento soffia nella direzione in cui lo si mira.',
       sv: 'Omgiven av en hemsk aura. Vinden blåser i riktning mot målet.',
-      ph: 'Napalibutan ng isang malupit na aura. Humihihip ang hangin sa direksyon mo sa layunin nito.',
+      tl: 'Napalibutan ng isang malupit na aura. Humihihip ang hangin sa direksyon mo sa layunin nito.',
       ht: 'Antoure pa yon Aura efreyan. Van an soufle nan direksyon ou vize li.',
       el: 'Περιβάλλεται από μια φρικτή αύρα. Ο άνεμος φυσά προς την κατεύθυνση που εσείς σκοπεύετε.',
       bg: 'Заобиколен от ужасна аура. Вятърът духа в посоката, в която го насочвате.',
@@ -360,11 +360,11 @@ export default [
       cs: 'Obklopen hroznou aurou. Vítr fouká ve směru, kterým je zamíříte.',
       ja: 'ひどいオーラに囲まれています。風はあなたがそれを目指す方向に吹きます。',
       ro: 'Este înconjurat de o aură îngrozitoare. Vântul suflă în direcția în care țintești.',
-      ko: '무시 무시한 분위기로 둘러싸여 있습니다. 바람은 당신이 목표로하는 방향으로 불어납니다.'
+      ko: '무시 무시한 분위기로 둘러싸여 있습니다. 바람은 당신이 정하는 방향으로 불어납니다.'
     }
   },
 
-  { // T15 item
+  {
     name       : {$$: 'Scarebow' },
     description: {
       en: 'So scary that few have the guts to hold it.',
@@ -374,7 +374,7 @@ export default [
       fr: 'Une arme si effrayante que peu de gens ont le courage de la brandir.',
       pt: 'Tão assustador que poucos têm a coragem de o segurar.',
       nl: 'Zo eng dat weinigen het lef hebben om het vast te houden.',
-      ph: 'Kaya nakakatakot na ilang may mga lakas ng loob upang i-hold ito.',
+      tl: 'Kaya nakakatakot na ilang may mga lakas ng loob upang i-hold ito.',
       pl: 'Tak przerażające, że niewielu ma odwagę, by to utrzymać.',
       it: 'Cosi\' spaventoso che pochi hanno il coraggio di trattenerlo.',
       sv: 'Så läskigt att få har mage att hålla den.',
@@ -386,11 +386,11 @@ export default [
       cs: 'Tak děsivé, že jen málokdo má odvahu držet to.',
       ja: 'それを保持するための勇気を持っている人はほとんどいないので怖い。',
       ro: 'Atât de înfricoșător că puțini au curajul să-l țină.',
-      ko: '너무 무섭기 때문에 그것을 잡을 용기가 거의 없습니다.'
+      ko: '너무 무섭기 때문에 그것을 잡을 용기가 있는자는 거의 없습니다.'
     }
   },
 
-  { // T16 item
+  {
     name       : {$$: 'Fury' },
     description: {
       en: 'Embedded with a primal rage, your foes tremble at the sight of this weapon. Pew pew is the last thing they will ever hear.',
@@ -404,7 +404,7 @@ export default [
       it: 'Incastonati in una rabbia primordiale, i tuoi nemici tremano alla vista di quest\'arma. Pew pew pew è l\'ultima cosa che sentiranno mai.',
       el: 'Ενσωματωμένοι με μια πρωταρχική οργή οι εχθροί σας τρέμουν με την όραση αυτού του όπλου. Το pew pew είναι το τελευταίο πράγμα που θα ακούσουν ποτέ.',
       bg: 'Вкопчени в първична ярост, враговете ви треперят от това оръжие. Pew pew е последното нещо, което някога ще чуят.',
-      ph: 'Naka-embed sa isang primal galit ang iyong mga foes panginginig sa paningin ng armas na ito. Pew bangko ay ang huling bagay na kanilang maririnig.',
+      tl: 'Naka-embed sa isang primal galit ang iyong mga foes panginginig sa paningin ng armas na ito. Pew bangko ay ang huling bagay na kanilang maririnig.',
       sv: 'Inbäddad med primitiv raseri, dina fiender darrar vid synen av detta vapen. Pew pew är det sista de någonsin kommer att höra.',
       ht: 'Embedded ak yon primal raj la, lènmi ou souke nan je a nan zam sa a. Pew pew pew la se bagay la dènye tout tan tout tan yo dwe tande.',
       tr: 'İlkel bir öfkeyle bezenmiş, düşmanların bu silahı görünce titriyor. Pew pew, duyacakları son şey.',
@@ -412,7 +412,7 @@ export default [
       cs: 'Vloženi s prvotním vztekem, vaši nepřátelé se třesou při pohledu na tuto zbraň. Pew je poslední věc, kterou kdy slyší.',
       ja: 'この武器を見てあなたの敵は震え上がります。ピューピューは彼らが今までに聞くことになる最後のものです。',
       ro: 'Cuprins de o furie primordială, dușmanii tăi tremură la vederea acestei arme. Pew pew e ultimul lucru pe care-l vor auzi vreodată.',
-      ko: '원시적 인 분노와 함께 적의 적들은이 무기가 보이는 곳에서 떨립니다. 퓨 퓨는 그들이 듣게 될 마지막 것입니다.'
+      ko: '원시적 인 분노덕분의, 적들은 이 무기를 보기만해도 겁의질려 떫니다. 이 활을 소는 것이 적들이 마지막으로 듣게될 소리입니다.'
     }
   }
 

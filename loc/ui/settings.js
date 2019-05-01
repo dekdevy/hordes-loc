@@ -17,10 +17,12 @@ export default {
     cs: 'nastavení',
     ja: '設定',
     sv: 'inställningar',
-    bg: 'настройки'
+    bg: 'настройки',
+    el: 'Ρυθμίσεις',
+    tl: 'mga setting',
+    ro: 'setări'
   },
 
-  // controls section of settings menu
   controls: {
     en: 'controls',
     ru: 'Управление',
@@ -38,7 +40,10 @@ export default {
     cs: 'řízení',
     ja: 'コントロール',
     sv: 'kontrollinstrument',
-    bg: 'контроли'
+    bg: 'контроли',
+    el: 'διακόπτης',
+    tl: 'mga kontrol',
+    ro: 'controale'
   },
 
   lockedcamera: {
@@ -58,7 +63,10 @@ export default {
     cs: 'Zamknutá kamera',
     ja: 'ロックカメラ',
     sv: 'Låst kamera',
-    bg: 'Заключена камера'
+    bg: 'Заключена камера',
+    el: 'Κλειδωμένη κάμερα',
+    tl: 'naka-lock na camera',
+    ro: 'Cameră blocată'
   },
 
   graphics: {
@@ -78,7 +86,10 @@ export default {
     cs: 'grafika',
     ja: 'グラフィックス',
     sv: 'grafik',
-    bg: 'графики'
+    bg: 'графика',
+    el: 'γραφικών',
+    tl: 'grapika',
+    ro: 'grafică'
   },
 
   resolution: {
@@ -98,7 +109,10 @@ export default {
     cs: 'Rozlišení',
     ja: '解決',
     sv: 'mötesbeslut',
-    bg: 'Резолюция'
+    bg: 'Резолюция',
+    el: 'Ανάλυση',
+    tl: 'Resolution',
+    ro: 'Rezoluție'
   },
 
   skilleffects: {
@@ -118,7 +132,10 @@ export default {
     cs: 'Dovednostní efekty',
     ja: 'スキル効果',
     sv: 'Färdighetseffekter',
-    bg: 'Ефекти на уменията'
+    bg: 'Ефекти',
+    el: 'Επιπτώσεις δεξιοτήτων',
+    tl: 'Mga epekto sa kasanayan',
+    ro: 'Efectele abilităților'
   },
 
   shadow: {
@@ -138,7 +155,10 @@ export default {
     cs: 'Kvalita stínu',
     ja: 'シャドウ品質',
     sv: 'Skuggkvalitet',
-    bg: 'Качество на сенките'
+    bg: 'Качество на сенките',
+    el: 'Ποιότητα σκιάς',
+    tl: 'Kalidad ng anino',
+    ro: 'Calitatea umbrelor'
   },
 
   grassamount: {
@@ -158,7 +178,10 @@ export default {
     cs: 'Množství trávy',
     ja: '草量',
     sv: 'Gräsbelopp',
-    bg: 'Kоличество трева'
+    bg: 'Kоличество трева',
+    el: 'Χόρτο ποσό',
+    tl: 'Damo halaga',
+    ro: 'Cantitatea de iarbă'
   },
 
   chat: {
@@ -178,7 +201,10 @@ export default {
     cs: 'chatu',
     ja: 'チャット',
     sv: 'chatt',
-    bg: 'чат'
+    bg: 'чат',
+    el: 'κουβέντα',
+    tl: 'chat',
+    ro: 'chat'
   },
 
   chatwidth: {
@@ -198,7 +224,10 @@ export default {
     cs: 'Šířka chatu',
     ja: 'チャット幅',
     sv: 'Chatt bredd',
-    bg: 'Ширина на чата'
+    bg: 'Ширина на чата',
+    el: 'πλάτος κουβέντα',
+    tl: 'lapad ng chat',
+    ro: 'Lățime chat'
   },
 
   chatheight: {
@@ -218,7 +247,10 @@ export default {
     cs: 'Výška chatu',
     ja: 'チャットの高さ',
     sv: 'Chathöjd',
-    bg: 'Височина на чата'
+    bg: 'Височина на чата',
+    el: 'ύψος κουβέντα',
+    tl: 'taas ng chat',
+    ro: 'Înălțime chat'
   },
 
   tutorial: {
@@ -238,7 +270,10 @@ export default {
     cs: 'výuku',
     ja: 'チュートリアル',
     sv: 'handledning',
-    bg: 'настойнически'
+    bg: 'Учение',
+    el: 'φροντιστήριο',
+    tl: 'pagtuturo',
+    ro: 'tutorial'
   },
 
   reset: {
@@ -258,6 +293,9 @@ export default {
     cs: 'Obnovit výuku',
     ja: 'チュートリアルをリセット',
     sv: 'Återställ handledningen',
-    bg: 'Нулиране на урока'
+    bg: 'Нулиране на урока',
+    el: 'επαναφορά φροντιστήριο',
+    tl: 'i-reset ang tutorial',
+    ro: 'Resetează tutorialul'
   }
 }
