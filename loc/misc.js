@@ -121,7 +121,7 @@ export default [
       pl: 'Ciemnoczerwony, hipnotyzujący kamień, który pozostawia cię w krwiożerczym transie, jeśli gapisz się zbyt głęboko w jego ponury rdzeń.',
       fr: 'Pierre rouge foncé hypnotisante vous laissant dans une transe assoiffée de sang si vous regardez trop profondément dans son sinistre noyau.',
       sv: 'Mörkrött hypnotiserande sten som lämnar dig i en blodig trance bör du stirra för djupt i sin grymma kärna.'
-    } 
+    }
   },
 
   {
