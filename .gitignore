@@ -1,6 +1,10 @@
 # Dist output
 dist/
 
+#WebStorm project folder
+.idea
+loc/.idea/
+
 # Logs
 logs
 *.log

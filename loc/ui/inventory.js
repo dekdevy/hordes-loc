@@ -87,5 +87,28 @@ export default {
     ht: 'Ou te vann $1 pou $2',
     ko: '$1 에 $1 를 판매했습니다.',
     sv: 'Du har sålt $1 för $2'
+  },
+
+  drop: {
+    en: 'Drop item',
+    ru: 'выбросить предмет',
+    hi: 'गिराने की वस्तु',
+    es: 'Posición de entrega',
+    de: 'Gegenstand ablegen',
+    fr: 'Déposer un article',
+    nl: 'Laat vallen',
+    pt: 'Item de gota',
+    tr: 'Öğe bırak',
+    it: 'Elemento di goccia',
+    pl: 'Pozycja zrzutowa',
+    bg: 'Пуснете елемент',
+    cs: 'Položka Drop',
+    el: 'Βάλτε στοιχείο',
+    ja: 'ドロップアイテム',
+    tl: 'I-drop ang item',
+    ht: 'Drop atik la',
+    ko: '아이템 놓기',
+    sv: 'Släpp objektet',
+    ro: 'Aruncați elementul'
   }
 }
