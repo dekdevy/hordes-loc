@@ -469,7 +469,7 @@ export default [
       pl: 'Skórzana skórzana skóra z albinoskiego pytona przeciskającego się przez lasy tych dolin.',
       fr: 'La peau coriace d\'un python albinos qui se faufile dans les forêts de ces vallées.',
       sv: 'Den skuriga läderhuden från en albino python sliter sig genom skogarna i dessa dalar.',
-      hi: 'घने जंगलों में रेंगने वाले सफेद सांप ने छोड़ा चमड़ा।;
+      hi: 'घने जंगलों में रेंगने वाले सफेद सांप ने छोड़ा चमड़ा।'
     }
   }
 
