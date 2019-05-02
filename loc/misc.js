@@ -307,7 +307,8 @@ export default [
       it: 'Ahi, tagliente.',
       pl: 'Ałć, ostry.',
       fr: 'Aïe, aiguisé.',
-      sv: 'Oj, skarp.'
+      sv: 'Oj, skarp.',
+      hi: 'आह! नुकीला'
     }
   },
 
@@ -324,7 +325,8 @@ export default [
       it: 'Un piccolo mucchio di sabbia finissima. Dove si fa questo.....',
       pl: 'Mała sterta bardzo drobnego piasku. Gdzie wyrzucasz ten....',
       fr: 'Un petit tas de sable extrêmement fin. Où est-ce que tu t\'en sors....',
-      sv: 'En liten hög med extremt fin sand. Var gör du det här ...'
+      sv: 'En liten hög med extremt fin sand. Var gör du det här ...',
+      hi: 'महीम रेत का छोटा सा ढ़ेर। इसे लेकर कहा चले आप...'
     }
   },
 
@@ -341,7 +343,8 @@ export default [
       it: 'Un ciuffo di capelli opachi e putridi. E\' stata una battaglia difficile da vincere.',
       pl: 'Kępa z zepsutych, matowych włosów. Ciężka walka o to, by się tego dowiedzieć.',
       fr: 'Une touffe de cheveux putrides et mats. C\'était une dure bataille pour mettre la main dessus.',
-      sv: 'En tuft av matt mattat hår. T\'var en tuff kamp för att få tag i detta.'
+      sv: 'En tuft av matt mattat hår. T\'var en tuff kamp för att få tag i detta.',
+      hi: 'बालों क सड़ा हुआ गच्छा। इसे पाने के लिए बड़ा युद्ध लड़ा था।'
     }
   },
 
@@ -358,7 +361,8 @@ export default [
       it: 'Disgustose larve di un insetto sconosciuto. Speriamo che sia piccolo.....',
       pl: 'Obrzydliwe larwy nieznanego owada. Miejmy nadzieję, że mała....',
       fr: 'Larves dégoûtantes d\'un insecte inconnu. Espérons qu\'il s\'agit d\'une petite...',
-      sv: 'Motbjudande larver av en okänd insekt. Förhoppningsvis en liten en ...'
+      sv: 'Motbjudande larver av en okänd insekt. Förhoppningsvis en liten en ...',
+      hi: 'अन्जाने कीड़े का भद्धा डिंभट। शायद छोटा-सा है...'
     }
   },
 
@@ -375,7 +379,8 @@ export default [
       it: 'Strano frammento triangolare di ossidiana. Forse fa parte di una struttura più grande.....',
       pl: 'Dziwny trójkątny fragment obsydianu. Być może jest to część większej struktury....',
       fr: 'Étrange fragment triangulaire d\'obsidienne. Peut-être qu\'il fait partie d\'une structure plus grande...',
-      sv: 'Konstigt triangulärt fragment av obsidian. Kanske är det en del av en större struktur ...'
+      sv: 'Konstigt triangulärt fragment av obsidian. Kanske är det en del av en större struktur ...',
+      hi: 'औबसीडियन का अजीब त्रीकोणीय टुकड़ा। शायद किसी बड़े स्तम्भ का हिस्सा है।'
     }
   },
 
@@ -392,7 +397,8 @@ export default [
       it: 'Mesmerising gocciolina cristallina che rifrange la luce intricatamente gettando piccole sfere di luce su di voi come si tiene fino al sole.',
       pl: 'Mesmeryzująca krystaliczna kropla załamująca światło misternie rzucająca na Ciebie maleńkie kuleczki światła, które trzymasz na słońcu.',
       fr: 'Gouttelettes cristallines fascinantes qui réfractent la lumière et projettent de minuscules boules de lumière sur vous lorsque vous la tenez au soleil.',
-      sv: 'Mesmeriserande kristallin dråp bryter ljus invecklat med små små bollar på dig som du håller det upp till solen.'
+      sv: 'Mesmeriserande kristallin dråp bryter ljus invecklat med små små bollar på dig som du håller det upp till solen.',
+      hi: 'खूबसुरत मणिभीय बूंद जिसे सूर्य के सामने रखने पर यह रौशनी को सटीक तरीके से घुमाटर आप पर रौशनी के छोटे गोले प्रर्दशित करता है।'
     }
   },
 
@@ -462,7 +468,8 @@ export default [
       it: 'La pelle coriacea di un pitone albino che si fa strada attraverso i boschi di queste valli.',
       pl: 'Skórzana skórzana skóra z albinoskiego pytona przeciskającego się przez lasy tych dolin.',
       fr: 'La peau coriace d\'un python albinos qui se faufile dans les forêts de ces vallées.',
-      sv: 'Den skuriga läderhuden från en albino python sliter sig genom skogarna i dessa dalar.'
+      sv: 'Den skuriga läderhuden från en albino python sliter sig genom skogarna i dessa dalar.',
+      hi: 'घने जंगलों में रेंगने वाले सफेद सांप ने छोड़ा चमड़ा।'
     }
   }
 
