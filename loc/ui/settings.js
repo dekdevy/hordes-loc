@@ -1,6 +1,6 @@
 export default {
 
-  settings: {
+  name: {
     en: 'settings',
     ru: 'Настройки',
     hi: 'सेटिंग्स',
@@ -23,6 +23,7 @@ export default {
     ro: 'setări'
   },
 
+  // ---- Controls
   controls: {
     en: 'controls',
     ru: 'Управление',
@@ -69,27 +70,33 @@ export default {
     ro: 'Cameră blocată'
   },
 
+  // ---- Graphics
   graphics: {
-    en: 'graphics',
+    en: 'Graphics',
     ru: 'Графика',
     hi: 'ग्राफ़िक्स',
-    es: 'gráficos',
-    de: 'Grafiken',
+    es: 'Gráficos',
+    de: 'Grafik',
     fr: 'schémas',
-    nl: 'grafischen',
-    tr: 'grafikler',
-    pt: 'gráficos',
-    pl: 'grafika',
-    ht: 'grafik',
-    it: 'grafica',
+    nl: 'Grafischen',
+    tr: 'Grafikler',
+    pt: 'Gráficos',
+    pl: 'Grafika',
+    ht: 'Grafik',
+    it: 'Grafica',
     ko: '제도법',
-    cs: 'grafika',
+    cs: 'Grafika',
     ja: 'グラフィックス',
-    sv: 'grafik',
+    sv: 'Grafik',
     bg: 'графика',
     el: 'γραφικών',
-    tl: 'grapika',
-    ro: 'grafică'
+    tl: 'Grapika',
+    ro: 'Grafică'
+  },
+
+  viewrange: {
+    en: 'View range',
+    de: 'Sichtweite'
   },
 
   resolution: {
@@ -184,6 +191,18 @@ export default {
     ro: 'Cantitatea de iarbă'
   },
 
+  // ---- Audio
+  audio: {
+    en: 'Audio',
+    de: 'Ton'
+  },
+
+  sfxvolume: {
+    en: 'SFX Volume',
+    de: 'SFX Lautstärke'
+  },
+
+  // ---- Chat
   chat: {
     en: 'chat',
     ru: 'Чат',
@@ -251,6 +270,22 @@ export default {
     el: 'ύψος κουβέντα',
     tl: 'taas ng chat',
     ro: 'Înălțime chat'
+  },
+
+  // ---- User interface
+  interface: {
+    en: 'Interface',
+    de: 'Interface'
+  },
+
+  language: {
+    en: 'Language',
+    de: 'Sprache'
+  },
+
+  invwidth: {
+    en: 'Inventory width',
+    de: 'Inventar Breite'
   },
 
   tutorial: {
