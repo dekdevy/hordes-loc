@@ -110,5 +110,9 @@ export default {
     ko: '아이템 놓기',
     sv: 'Släpp objektet',
     ro: 'Aruncați elementul'
+  },
+
+  use: {
+    en: 'Use item'
   }
 }
