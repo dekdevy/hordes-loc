@@ -96,7 +96,8 @@ export default {
 
   viewrange: {
     en: 'View range',
-    de: 'Sichtweite'
+    de: 'Sichtweite',
+    nl: 'Weergavebereik'
   },
 
   resolution: {
@@ -194,12 +195,14 @@ export default {
   // ---- Audio
   audio: {
     en: 'Audio',
-    de: 'Ton'
+    de: 'Ton',
+    nl: 'Geluid'
   },
 
   sfxvolume: {
     en: 'SFX Volume',
-    de: 'SFX Lautstärke'
+    de: 'SFX Lautstärke',
+    nl: 'SFX Harder'
   },
 
   // ---- Chat
@@ -280,12 +283,14 @@ export default {
 
   language: {
     en: 'Language',
-    de: 'Sprache'
+    de: 'Sprache',
+    nl: 'Taal'
   },
 
   invwidth: {
     en: 'Inventory width',
-    de: 'Inventar Breite'
+    de: 'Inventar Breite',
+    nl: 'Inventarisbreedte'
   },
 
   tutorial: {
