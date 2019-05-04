@@ -34,7 +34,7 @@ export default {
     ro: 'Ai luat $1',
     fr: 'Vous avez ramassé $1.',
     ru: 'Ты поднял %1',
-    hi: 'आपने $1 उठाया है',
+    hi: 'आपने $1 उठा लिया',
     bg: 'Взехте $1',
     cs: 'Zvedli jste $1',
     el: 'Έχετε πάρει AGEWAG',
@@ -56,7 +56,7 @@ export default {
     ro: 'Inventarul tău este plin',
     fr: 'Votre inventaire est complet',
     ru: 'Ваш инвентарь полон',
-    hi: 'आपकी इन्वेंट्री भरी हुई है',
+    hi: 'आपकी वस्तुसूचि भर गयी है',
     bg: 'Инвентара е пълен.',
     cs: 'Váš inventář je plný',
     el: 'Το απόθεμά σας είναι γεμάτο',
@@ -92,7 +92,7 @@ export default {
   drop: {
     en: 'Drop item',
     ru: 'выбросить предмет',
-    hi: 'गिराने की वस्तु',
+    hi: 'वस्तु गिरा दे',
     es: 'Posición de entrega',
     de: 'Gegenstand ablegen',
     fr: 'Déposer un article',
@@ -113,6 +113,7 @@ export default {
   },
 
   use: {
-    en: 'Use item'
+    en: 'Use item',
+    hi: 'इस्तमाल करे'
   }
 }
