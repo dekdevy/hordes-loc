@@ -19,7 +19,7 @@ export default [
       ja: '少なくともあなたはそれらの足に何かを着ています。',
       el: 'Τουλάχιστον φοράτε κάτι σε αυτά τα πόδια.',
       bg: 'Поне ти носиш нещо на тези крака.',
-      hi: 'कम से कम आप उन पैरों पर कुछ पहने हुए हैं।',
+      hi: 'काम से काम आप ने अपने पैरों पर कुछ तो पहना है।',
       ko: '적어도 너는 그 발에 무언가를 신었다.',
       ro: 'Cel puțin poți purta ceva în picioare.'
     }
@@ -45,7 +45,7 @@ export default [
       ja: '布で作られた足の裏はおそらく数時間後に裂けるでしょう。',
       el: 'Τα πέλματα από ύφασμα πιθανόν να σχίσουν μετά από λίγες ώρες.',
       bg: 'Подметките, направени от плат, вероятно ще се разкъсат след няколко часа.',
-      hi: 'कपड़ा से बना तलवों, शायद कुछ घंटों के बाद आंसू होगा।',
+      hi: 'इसके तले कपड़े के बने है, थोड़ी डर में फट जाएँगे।',
       ko: '옷감으로 만든 신, 몇 시간 후에 찢어 질 것입니다.',
       ro: 'Talpa din pânză, probabil se va rupe după câteva ore.'
     }
@@ -71,7 +71,7 @@ export default [
       bg: 'За меката кожа се казва, че е съблечена от диви свине, прекосяващи зловещите гори.',
       cs: 'Říká se, že měkká kůže je zbavena divokých prasat roamingu děsivých lesů.',
       ja: '柔らかい革は不気味な森を歩き回っているイノシシを剥ぎ取られると言われています。',
-      hi: 'नरम चमड़े भयानक जंगल घूम जंगली सूअर बंद छीन लिया जा करने के लिए कहा जाता है।',
+      hi: 'इसका नरम चमड़े को डरावने जंगलो में रहने वाले जंगली सूअरो से लिए गया है। ',
       ko: '부드러운 가죽은 섬뜩한 숲을 돌아 다니는 야생 멧돼지에서 벗겨졌다.',
       ro: 'Se zvonește că pielea moale a fost dezbrăcată de mistreții ce se plimbau prin pădurea stranie.'
     }
@@ -95,7 +95,7 @@ export default [
       tl: 'Maliwanag na kulang sa imahinasyon ang gumagawa ay gumawa ng mga bota mula sa mga buto ng isang napakalaking nilalang ...',
       cs: 'Jasně chybí představivost a vyrábí boty z kostí velkého stvoření ...',
       ja: '想像力に欠け、明らかに巨大な生き物の骨からブーツを作りました。',
-      hi: 'जाहिर है कल्पना में कमी है, निर्माता एक बहुत बड़ी प्राणी की हड्डियों से जूते बनाया ...',
+      hi: 'जाहिर है कल्पना में कमी है, इसके निर्माता ने एक बहुत बड़ी प्राणी की हड्डियों से इसे बनाया ...',
       el: 'Σαφώς λείπει από τη φαντασία ο κατασκευαστής έκανε μπότες από τα οστά ενός πολύ μεγάλου πλάσματος ...',
       bg: 'Очевидно без въображение, производителят е направил ботуши от костите на много голямо същество ...',
       ko: '분명히 상상력이 부족한이 제작자는 매우 큰 생물의 뼈에서 부츠를 만들었습니다...',
@@ -123,7 +123,7 @@ export default [
       ht: 'Balans misterye kouvri deyò a nan soulye ou a, pwan fikse nan solèy la.',
       cs: 'Tajemství váhy pokrývají vnější stranu vaší obuvi, chytí do očí slunce.',
       ja: '神秘的な鱗があなたの履物の外側を覆い、太陽の光を捉えます。',
-      hi: 'रहस्यमय तराजू अपने जूते के बाहर कवर, धूप में प्रकाश को पकड़ने।',
+      hi: 'रहस्यमय शल्क आपके जूतों को ढकते है, जो धूप में प्रकाश को पकड़ते है।',
       ko: '신비한 비늘은 신발의 바깥을 덮고 태양 빛을 따라 잡습니다.',
       ro: 'Solzi misterioși acoperă exteriorul încălțămintelor tale, atrăgând priviri când stau în soare.'
     }
@@ -147,7 +147,7 @@ export default [
       ht: 'Yon modèl bèl te fè nan paralize lènmi ou... mande si li fonksyone.',
       cs: 'Příjemný vzor, ​​který paralyzuje vaše nepřátele ... zajímá vás, jestli to funguje.',
       ja: 'あなたの敵を麻痺させるために作られた楽しいパターン…それがうまくいくかどうか疑問に思う',
-      hi: 'एक सुखद पैटर्न अपने दुश्मनों को पंगु बना ... आश्चर्य है कि अगर यह काम करता है बनाया है।',
+      hi: 'एक सटीक प्रतिरूप आपके दुश्मनो को कमज़ोर करने के लिए... पता नहीं यह काम भी करता है या नहीं।',
       el: 'Ένα ευχάριστο σχέδιο για να παραλύσει τους εχθρούς σας ... αναρωτιέται αν λειτουργεί.',
       bg: 'Приятна картина, направена да парализира враговете ви ... чудя се дали работи.',
       ko: '적을 마비시키는 유쾌한 패턴이있다... 되는지는 모르겠다.',
@@ -173,7 +173,7 @@ export default [
       cs: 'Odvedeni od válečných veteránů, kteří zjevně nenalezli dostatečnou ochranu před těmito škvarky.',
       ja: '明らかにこれらの奴隷からの十分な保護を見つけることができなかった戦争のベテランから取られます。',
       tl: 'Kinuha mula sa mga beterano ng digmaan na malinaw na hindi nakahanap ng sapat na proteksyon mula sa mga ito.',
-      hi: 'युद्ध के दिग्गजों, जो स्पष्ट रूप से इन ग्रीव्स से पर्याप्त सुरक्षा नहीं मिला से लिया।',
+      hi: 'युद्ध के दिग्गजों से लिए हुए, जिन्हें इन जूतों से पर्याप्त संरक्षण नहीं मिला.',
       el: 'Λαμβανόταν από βετεράνους πολέμου που σαφώς δεν βρήκαν αρκετή προστασία από αυτά τα χοντρά σχοινιά.',
       bg: 'Взети от ветерани от войната, които очевидно не са намерили достатъчно защита от тези пръжки.',
       ko: '분명히이 부츠에서 충분한 보호를 찾지 못한 전쟁 참전 용사에게서 가져온 것입니다.',
@@ -199,7 +199,7 @@ export default [
       tl: 'Chunky sa kanyang hitsura marahil napaka hindi komportable.',
       cs: 'Chunky v jeho vzhledu, pravděpodobně velmi nepříjemné.',
       ja: '分厚いその外観はおそらく非常に不快です。',
-      hi: 'इसके दिखता में चंकी, शायद बहुत ही असहज।',
+      hi: 'दिखाने में लट्ठेदार, काफ़ी असहज होगे।',
       el: 'Χοντροκομμένο στην εμφάνισή του μάλλον πολύ άβολα.',
       bg: 'Корена си изглежда вероятно много неприятно.',
       ko: '그 모습이 거칠고, 아마도 매우 불편합니다.',
@@ -227,7 +227,7 @@ export default [
       bg: 'Бягайте по-бързо от вятъра ... или близо до него.',
       cs: 'Jdi tak rychle jako vítr ... nebo blízko k němu.',
       ja: '風と同じくらい速く走るか、またはそれに近づける。',
-      hi: 'हवा के रूप में के रूप में जल्दी ... या इसे करने के लिए करीब चलाएँ।',
+      hi: 'हवा के साथ चलिए... या उससे थोड़ा पीछे।',
       ko: '바람처럼 빨리 달릴 수 있습니다... 그것에 가깝습니다.',
       ro: 'Fugi rapid ca și vântul... sau aproape ca el.'
     }
@@ -249,7 +249,7 @@ export default [
       sv: 'Smidd utan värme, löper utan att snubbla.',
       cs: 'Kované bez tepla, běží bez klopýtnutí.',
       ja: '熱なしで鍛造はつまずくことなく実行されます。',
-      hi: 'गर्मी के बिना जाली, ठोकर बिना चलाता है।',
+      hi: 'गर्मी के बिना बनाए, ठोकर बिना चलाते है।',
       tl: 'Peke na walang init ay tumatakbo nang hindi marapa.',
       el: 'Σφυρηλατημένο χωρίς ζέσταμα χωρίς σκόντα.',
       bg: 'Ковано без топлина, без да се препъва.',
@@ -276,7 +276,7 @@ export default [
       sv: 'Vissa säger att du kan springa på moln med dessa. De få som har försökt har redan stigit upp.',
       cs: 'Někteří říkají, že s nimi můžete běžet na mraky. Těch několik, kteří se už pokusili vystoupit.',
       ja: 'あなたはこれらで雲の上を走ることができると言う人もいます。試みた少数の人はすでに上がっています。',
-      hi: 'कुछ लोग कहते हैं कि आप इन के साथ बादलों पर चला सकते हैं। कुछ है कि कोशिश की है पहले से ही चढ़ा है।',
+      hi: 'कहते है इनसे आप बादलों पे चल सकते है। जिन्होंने कोशिश की है वे तो पहले ही स्वर्ग पहुँच गए।',
       el: 'Κάποιοι λένε ότι μπορείτε να τρέξετε σε σύννεφα με αυτά. Οι λίγοι που έχουν δοκιμάσει έχουν ήδη ανέλθει.',
       bg: 'Някои казват, че с тях може да тичате на облаци. Малцината, които са се опитали, вече са се възнесли.',
       ht: 'Yon lòt ankò: ou ka kouri sou nwaj yo ak tout bagay sa. Twa ki te eseye fè deja est.',
@@ -302,7 +302,7 @@ export default [
       sv: 'Gamla stövlar ryktes för att bli stulna från fötterna till den romerska budbärarens gud ...',
       cs: 'Starověké boty, o nichž se říkalo, že jsou ukradeny z nohou římského posla boha ...',
       ja: '古代のブーツはローマのメッセンジャーの神の足から盗まれると噂されています...',
-      hi: 'प्राचीन अफवाह जूते रोमन दूत भगवान के चरणों से चोरी किए जाने की ...',
+      hi: 'कहते है इन प्राचीन जूतों को रोम देश के दूत देव के पैरों से चुराया था।',
       el: 'Αρχαία μπότες που φημολογούνται ότι κλέβονται από τα πόδια του ρωμαϊκού θεού του αγγελιοφόρου ...',
       bg: 'Древните ботуши, за които се говори, че са откраднати от краката на римския бог ...',
       ht: 'Ansyen bòt nan komansman que pou pou te vòlè nan pye Bondye Romen mesaje a...',
@@ -328,7 +328,7 @@ export default [
       sv: 'Stjärnor anses alltid vara allsmäktiga, nu är de din.',
       cs: 'Hvězdy byly vždy považovány za všemohoucího, teď jsou vaše.',
       ja: '星は常に万能であると考えられてきました。',
-      hi: 'सितारे हमेशा सर्वशक्तिमान माना जाता था, अब वे तुम्हारा कर रहे हैं।',
+      hi: 'सितारों को हमेशा सर्वशक्तिमान माना गया है, अब वे आपके हो गए।',
       el: 'Τα αστέρια πάντα θεωρούνταν παντοδύναμα τώρα που είναι δικά σας.',
       bg: 'Звездите винаги са били считани за всемогъщи, сега са ваши.',
       ht: 'Zetwal te toujou konsidere tout, koulye a, y\' ap ye.',
