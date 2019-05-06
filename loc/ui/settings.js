@@ -98,7 +98,8 @@ export default {
     en: 'View range',
     de: 'Sichtweite',
     nl: 'Weergavebereik',
-    pt: 'Ver gama'
+    pt: 'Ver gama',
+    it: 'Visualizza la gamma'
   },
 
   resolution: {
@@ -198,14 +199,16 @@ export default {
     en: 'Audio',
     de: 'Ton',
     nl: 'Geluid',
-    pt: 'Áudio'
+    pt: 'Áudio',
+    it: 'Audio'
   },
 
   sfxvolume: {
     en: 'SFX Volume',
     de: 'SFX Lautstärke',
     nl: 'SFX Harder',
-    pt: 'Volume de SFX'
+    pt: 'Volume de SFX',
+    it: 'Volume SFX'
   },
 
   // ---- Chat
@@ -282,21 +285,25 @@ export default {
   interface: {
     en: 'Interface',
     de: 'Interface',
-    pt: 'interface'
+    nl: 'Interface',
+    pt: 'interface',
+    it: 'interfaccia'
   },
 
   language: {
     en: 'Language',
     de: 'Sprache',
     nl: 'Taal',
-    pt: 'Idioma'
+    pt: 'Idioma',
+    it: 'Lingua'
   },
 
   invwidth: {
     en: 'Inventory width',
     de: 'Inventar Breite',
     nl: 'Inventarisbreedte',
-    pt: 'Largura do estoque'
+    pt: 'Largura do estoque',
+    it: 'Larghezza dell\'inventario'
   },
 
   tutorial: {
