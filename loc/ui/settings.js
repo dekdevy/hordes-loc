@@ -291,7 +291,6 @@ export default {
     pt: 'interface',
     pl: 'Interfejs',
     nl: 'Interface',
-    pt: 'interface',
     it: 'interfaccia'
   },
 
