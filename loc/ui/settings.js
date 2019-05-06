@@ -96,6 +96,7 @@ export default {
 
   viewrange: {
     en: 'View range',
+    es: 'Ver Rango',
     de: 'Sichtweite',
     nl: 'Weergavebereik',
     pt: 'Ver gama',
@@ -197,6 +198,7 @@ export default {
   // ---- Audio
   audio: {
     en: 'Audio',
+    es: 'Audio',
     de: 'Ton',
     nl: 'Geluid',
     pt: 'Áudio',
@@ -205,6 +207,7 @@ export default {
 
   sfxvolume: {
     en: 'SFX Volume',
+    es: 'Volumen SFX',
     de: 'SFX Lautstärke',
     nl: 'SFX Harder',
     pt: 'Volume de SFX',
@@ -284,6 +287,7 @@ export default {
   // ---- User interface
   interface: {
     en: 'Interface',
+    es: 'interrelación',
     de: 'Interface',
     nl: 'Interface',
     pt: 'interface',
@@ -292,6 +296,7 @@ export default {
 
   language: {
     en: 'Language',
+    es: 'Idioma',
     de: 'Sprache',
     nl: 'Taal',
     pt: 'Idioma',
@@ -300,6 +305,7 @@ export default {
 
   invwidth: {
     en: 'Inventory width',
+    es: 'Ancho de inventario',
     de: 'Inventar Breite',
     nl: 'Inventarisbreedte',
     pt: 'Largura do estoque',
