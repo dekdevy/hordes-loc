@@ -100,7 +100,8 @@ export default {
     nl: 'Weergavebereik',
     pt: 'Ver gama',
     pl: 'Zakres widoków',
-    it: 'Visualizza la gamma'
+    it: 'Visualizza la gamma',
+    ro: 'Câmp vizual'
   },
 
   resolution: {
@@ -202,7 +203,8 @@ export default {
     nl: 'Geluid',
     pt: 'Áudio',
     pl: 'Dźwięk',
-    it: 'Audio'
+    it: 'Audio',
+    ro: 'Audio'
   },
 
   sfxvolume: {
@@ -211,7 +213,8 @@ export default {
     nl: 'SFX Harder',
     pt: 'Volume de SFX',
     pl: 'Objętość SFX',
-    it: 'Volume SFX'
+    it: 'Volume SFX',
+    ro: 'Volum SFX'
   },
 
   // ---- Chat
@@ -291,7 +294,8 @@ export default {
     pt: 'interface',
     pl: 'Interfejs',
     nl: 'Interface',
-    it: 'interfaccia'
+    it: 'interfaccia',
+    ro: 'Interfață'
   },
 
   language: {
@@ -300,7 +304,8 @@ export default {
     nl: 'Taal',
     pt: 'Idioma',
     pl: 'Język',
-    it: 'Lingua'
+    it: 'Lingua',
+    ro: 'Limbă'
   },
 
   invwidth: {
@@ -309,7 +314,8 @@ export default {
     nl: 'Inventarisbreedte',
     pt: 'Largura do estoque',
     pl: 'Szerokość inwentarza',
-    it: 'Larghezza dell\'inventario'
+    it: 'Larghezza dell\'inventario',
+    ro:  'Lățimea inventarului'
   },
 
   tutorial: {
