@@ -53,6 +53,13 @@ export default [
   },
 
   {
+    name       : {$$: 'Curved shortbow'},
+    description: {
+      en: 'Missing description'
+    }
+  },
+
+  {
     name       : {$$: 'Adventurer\'s Shortbow' },
     description: {
       en: 'Whoever left this on the ground probably didn\'t meet a nice end.',
