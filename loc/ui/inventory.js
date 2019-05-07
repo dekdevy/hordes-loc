@@ -23,7 +23,7 @@ export default {
     ro: 'inventar'
   },
 
-  pickUp: {
+  pick: {
     en: 'You have picked up $1',
     nl: 'Je hebt opgepikt $1',
     es: 'Usted ha recogido $1',
@@ -43,6 +43,10 @@ export default {
     ht: 'Ou ranmase $1',
     ko: '당신은 $1 를 선택했습니다.',
     sv: 'Du har plockat upp $1'
+  },
+
+  throw: {
+    en: 'You threw away $1'
   },
 
   full: {
