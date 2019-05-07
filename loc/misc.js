@@ -108,23 +108,6 @@ export default [
   },
 
   {
-    name: {$$: 'Blood Ruby' },
-
-    description: {
-      en: 'Dark red mesmerising stone leaving you in a bloodhungry trance should you stare too deeply into its grim core.',
-      bg: 'Тъмно червен заплененяващ погледа камък, оставящ те в кръвожаден транс ако се загледаш твърде дълго в мрачното му ядро.',
-      ru: 'Темно-красный завораживающий камень, оставляющий вас в кроваво-жаждущем трансе если вы слишком глубоко вглядываетесь в его мрачное ядро.',
-      de: 'Dunkelroter hypnotisierender Stein, der dich in blutgieriger Trance zurücklässt, falls du zu tief in seinen grimmigen Kern starrst.',
-      ro: 'Piatră roșie fermecătoare, ce te va lăsa intr-o transă cu pofte de sânge de te vei holba prea mult timp la miezul ei sumbru.',
-      pt: 'Pedra vermelha escura hipnotizante que te deixa num transe sedento de sangue se olhares demasiado profundamente para o seu núcleo sombrio.',
-      it: 'Pietra ipnotizzante rosso scuro che ti lascia in una trance affamata di sangue se dovessi guardare troppo profondamente nel suo nucleo cupo.',
-      pl: 'Ciemnoczerwony, hipnotyzujący kamień, który pozostawia cię w krwiożerczym transie, jeśli gapisz się zbyt głęboko w jego ponury rdzeń.',
-      fr: 'Pierre rouge foncé hypnotisante vous laissant dans une transe assoiffée de sang si vous regardez trop profondément dans son sinistre noyau.',
-      sv: 'Mörkrött hypnotiserande sten som lämnar dig i en blodig trance bör du stirra för djupt i sin grymma kärna.'
-    }
-  },
-
-  {
     name: {$$: 'Goose Feather' },
 
     description: {
