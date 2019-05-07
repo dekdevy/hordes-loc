@@ -49,7 +49,7 @@ export default {
   accept: {
     en: 'Accept',
     sv: 'Acceptera',
-    ru: 'принять',
+    ru: 'Принять',
     hi: 'स्वीकार करना',
     fr: 'Acceptez',
     de: 'Akzeptieren',
@@ -73,7 +73,7 @@ export default {
   decline: {
     en: 'Decline',
     sv: 'Nedgång',
-    ru: 'отказать',
+    ru: 'Отказать',
     hi: 'पतन',
     fr: 'Déclin',
     de: 'Ablehnen',
@@ -96,7 +96,7 @@ export default {
   close: {
     en: 'Close',
     sv: 'Stänga',
-    ru: 'закрыть',
+    ru: 'Закрыть',
     hi: 'बंद करे',
     fr: 'Fermer',
     de: 'Schließen',
