@@ -99,6 +99,7 @@ export default {
     de: 'Sichtweite',
     nl: 'Weergavebereik',
     pt: 'Ver gama',
+    pl: 'Zakres widoków',
     it: 'Visualizza la gamma'
   },
 
@@ -200,6 +201,7 @@ export default {
     de: 'Ton',
     nl: 'Geluid',
     pt: 'Áudio',
+    pl: 'Dźwięk',
     it: 'Audio'
   },
 
@@ -208,6 +210,7 @@ export default {
     de: 'SFX Lautstärke',
     nl: 'SFX Harder',
     pt: 'Volume de SFX',
+    pl: 'Objętość SFX',
     it: 'Volume SFX'
   },
 
@@ -285,8 +288,9 @@ export default {
   interface: {
     en: 'Interface',
     de: 'Interface',
-    nl: 'Interface',
     pt: 'interface',
+    pl: 'Interfejs',
+    nl: 'Interface',
     it: 'interfaccia'
   },
 
@@ -295,6 +299,7 @@ export default {
     de: 'Sprache',
     nl: 'Taal',
     pt: 'Idioma',
+    pl: 'Język',
     it: 'Lingua'
   },
 
@@ -303,6 +308,7 @@ export default {
     de: 'Inventar Breite',
     nl: 'Inventarisbreedte',
     pt: 'Largura do estoque',
+    pl: 'Szerokość inwentarza',
     it: 'Larghezza dell\'inventario'
   },
 
