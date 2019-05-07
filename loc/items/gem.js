@@ -159,7 +159,6 @@ export default [
     name       : {$$: 'Royal' },
     description: {
       en: 'Grand red gem enclosed in abyss dark fissures, granting your foes a sense of jealousy.',
-      ru: '
       ru: 'Большой красный драгоценный камень, заключенный в бездну темных трещин, дарит врагам чувство ревности.',
       es: 'Gran gema roja encerrada en las oscuras fisuras del abismo, dando a tus enemigos una sensación de celos.',
       de: 'Großartiges rotes Juwel, umgeben von dunklen Rissen im Abgrund, das deinen Feinden ein Gefühl der Eifersucht verleiht.',
