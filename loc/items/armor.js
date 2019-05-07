@@ -55,7 +55,7 @@ export default [
     name       : {$$: 'Adventurer\'s Tunic' },
     description: {
       en: 'Knobbly soft iron tunic, passed on from many generations of adventurers passing over these lands.',
-      ru: 'Мягко изогнутая железная туника, переданная многими поколениями искателями приключений, проходящих по этим землям.',
+      ru: 'Изогнутая мягкая железная туника, переданная от многих поколений искателей приключений, проходящих по этим землям.',
       es: 'Túnica de hierro blando y nudoso, transmitida por muchas generaciones de aventureros que pasan por estas tierras.',
       de: 'Knorrige Weicheisen-Tunika, die von vielen Generationen von Abenteurern überliefert wurde, die diese Länder durchquerten.',
       fr: 'Tunique en fer doux et noueux, transmise de génération en génération par les aventuriers de passage sur ces terres.',
