@@ -213,7 +213,7 @@ export default [
     name       : {$$: 'Golem Fragment' },
     description: {
       en: 'The archaic guardians left remnants of their passing, which you unscrupulously have decided to wear on your arm.',
-      ru: 'Древние стражи оставили свой след после их исчезновения, которые вы бессовестно решили надеть на руку.',
+      ru: 'Архаичные стражи оставили остатки своих похождений, которые вы бессовестно решили надеть на руку.',
       es: 'Un fragmento de los servientes de los archimagos de la era pasada. Has decido pónertelo porque... razones.',
       fr: 'Les gardiens archaïques ont laissé des restes de leur passage, que vous avez sans scrupule décidé de porter sur votre bras.',
       de: 'Die archaischen Wächter hinterließen Überreste ihres Todes, die du skrupellos auf deinem Arm getragen hast.',
