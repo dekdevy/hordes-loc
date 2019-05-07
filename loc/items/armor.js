@@ -29,7 +29,7 @@ export default [
     name       : {$$: 'Faded Garment' },
     description: {
       en: 'Leather shirt, faded from wear and tear.',
-      ru: 'Кожаная рубашка, выцветшая из-за износа.',
+      ru: 'Кожаная рубашка, порванная и выцветшая из-за износа.',
       es: 'Camisa de cuero, desteñida por el desgaste.',
       de: 'Lederhemd, verblasst durch Abnutzung.',
       fr: 'Chemise en cuir, décolorée par l\'usure.',
@@ -55,7 +55,7 @@ export default [
     name       : {$$: 'Adventurer\'s Tunic' },
     description: {
       en: 'Knobbly soft iron tunic, passed on from many generations of adventurers passing over these lands.',
-      ru: 'Изогнутая мягкая железная туника, переданная от многих поколений искателей приключений, проходящих по этим землям.',
+      ru: 'Мягко изогнутая железная туника, переданная многими поколениями искателями приключений, проходящих по этим землям.',
       es: 'Túnica de hierro blando y nudoso, transmitida por muchas generaciones de aventureros que pasan por estas tierras.',
       de: 'Knorrige Weicheisen-Tunika, die von vielen Generationen von Abenteurern überliefert wurde, die diese Länder durchquerten.',
       fr: 'Tunique en fer doux et noueux, transmise de génération en génération par les aventuriers de passage sur ces terres.',
@@ -160,7 +160,7 @@ export default [
     name       : {$$: 'Shadow Cloak' },
     description: {
       en: 'The wearer blends in nicely with the shadows... or so the thieves think.',
-      ru: 'Носитель отлично сливаеться с тенью... или так думают воры.',
+      ru: 'Носитель отлично сливается с тенью... или так думают воры.',
       es: 'El portador se mezcla bien entre las sombras... o eso piensan los ladrones.',
       de: 'Der Träger fügt sich gut in den Schatten ein.... so denken die Diebe.',
       fr: 'Le porteur se fond bien dans l\'ombre... c\'est du moins ce que pensent les voleurs.',
@@ -264,7 +264,7 @@ export default [
     name       : {$$: 'Deathless' },
     description: {
       en: 'Rumours say that the wearer is immortal. Unfortunately this armour can only be found on corpses of the slain.',
-      ru: 'Слухи говорят, что владелец бессмертен. К сожалению, эту броню можно найти только на трупах убитых.',
+      ru: 'Слухи говорят, что носитель брони бессмертен. К сожалению, эту броню можно найти только на трупах.',
       es: 'Los rumores dicen que el portador es inmortal. Desafortunadamente, esta armadura sólo se encuentra en los cadáveres de los muertos.',
       de: 'Gerüchten zufolge ist der Träger unsterblich. Leider ist diese Rüstung nur auf den Leichen der Erschlagenen zu finden.',
       fr: 'Les rumeurs disent que le porteur est immortel. Malheureusement, cette armure ne peut être trouvée que sur les cadavres des victimes.',
