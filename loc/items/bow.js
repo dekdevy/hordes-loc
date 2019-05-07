@@ -4,7 +4,7 @@ export default [
     // Item description
     description: {
       en: 'Almost lightweight. You can probably find something better around.',
-      ru: 'Легкий лук. Возможно, вы можете найти что-то лучшее вокруг.',
+      ru: 'Легкий лук. Скорее всего, вы сможете найти что-то получше .',
       fr: 'Un vrai poid plume. Il y en à sûrement de meilleurs dans le coin.',
       de: 'Fast leicht. Du kannst wahrscheinlich etwas Besseres finden.',
       es: 'Casi ligero. Probablemente puedas encontrar algo mejor por aquí.',
@@ -56,7 +56,7 @@ export default [
     name       : {$$: 'Adventurer\'s Shortbow' },
     description: {
       en: 'Whoever left this on the ground probably didn\'t meet a nice end.',
-      ru: 'Кто то оставил его на земле, вероятно, не встретил хороший конец',
+      ru: 'Тот кто оставил его на земле, вероятно, встретил не хороший конец',
       fr: 'Quiconque a échappé ceci par terre n\'a sûrement pas rencontré une fin heureuse.',
       de: 'Wer das auf dem Boden gelassen hat, hat wahrscheinlich kein schönes Ende gefunden.',
       es: 'Quienquiera que haya dejado esto en el suelo probablemente no tuvo un buen final.',
@@ -134,7 +134,7 @@ export default [
     name       : {$$: 'Elven Bow' },
     description: {
       en: 'An expert bow of a forgotten race.',
-      ru: 'Экспертный лук забытой расы',
+      ru: 'Искусный лук забытой расы',
       fr: 'Un arc d\'expert originant d\'une race oublié.',
       de: 'Ein Expertenbogen einer vergessenen Rasse.',
       es: 'Una reverencia experta de una raza olvidada.',
@@ -160,7 +160,7 @@ export default [
     name       : {$$: 'Ancient Bow' },
     description: {
       en: 'Crude, but effective. Draws its power from the tiny leaf attached to it.',
-      ru: 'Грубый, но эффективный. получает силу из крошечного листа, прикрепленного к нему.',
+      ru: 'Грубый, но эффективный. Получает силу из крошечного листа, прикрепленного к нему.',
       de: 'Grob, aber effektiv. Seine Kraft bezieht er aus dem kleinen Blatt, das daran befestigt ist.',
       es: 'Crudo, pero efectivo. Extrae su poder de la diminuta hoja adherida a él.',
       fr: 'Grossier, mais efficace. Tire son énergie de la petite feuille qui lui est attachée.',
@@ -264,7 +264,7 @@ export default [
     name       : {$$: 'Skyfire Warbow' },
     description: {
       en: 'A rare bow used in the greatest of wars. Shooting it makes you feel like the heavens will collapse.',
-      ru: 'Редкий лук, используемый в величайших войнах. Bыстрел заставляет вас чувствовать дрожь небес.',
+      ru: 'Редкий лук, используемый в величайших войнах. Стреляя, вы чуствуете, как будто упадут небеса.',
       fr: 'Un arc rare utilisé dans les plus grandes batailles. Tirer une flèche avec cet arme vous donne l\'impression que les cieux vont s\'effondrer.',
       de: 'Ein seltener Bogen, der in den größten Kriegen verwendet wird. Beim Schießen hat man das Gefühl, dass der Himmel zusammenbrechen wird.',
       es: 'Un arco raro usado en la mayor de las guerras. Disparar te hace sentir como si el cielo se fuera a derrumbar.',
@@ -342,7 +342,7 @@ export default [
     name       : {$$: 'Stormsong' },
     description: {
       en: 'Surrounded by a ghastly aura. The wind blows in the direction you aim it.',
-      ru: 'Окруженный страшной аурой. Ветер дует в том направлении, куда вы нацеливаетесь.',
+      ru: 'Окруженный аурой, наводящей ужас. Ветер дует в том направлении, куда вы нацеливаетесь.',
       de: 'Umgeben von einer grässlichen Aura. Der Wind weht in die Richtung, in die du ihn zielst.',
       es: 'Rodeado de un aura espantosa. El viento sopla en la dirección en que lo apuntas.',
       fr: 'Entouré d\'une aura affreuse. Le vent souffle dans la direction que vous visez.',
