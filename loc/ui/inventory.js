@@ -119,6 +119,8 @@ export default {
 
   use: {
     en: 'Use item',
-    hi: 'इस्तमाल करे'
+    ru: 'Использовать',
+    hi: 'इस्तमाल करे',
+    ro: 'Utilizarea'
   }
 }
