@@ -96,6 +96,7 @@ export default {
 
   viewrange: {
     en: 'View range',
+    ru: 'Дальность прорисовки',
     de: 'Sichtweite',
     nl: 'Weergavebereik',
     pt: 'Ver gama',
@@ -198,6 +199,7 @@ export default {
   // ---- Audio
   audio: {
     en: 'Audio',
+    ru: 'Звук',
     de: 'Ton',
     nl: 'Geluid',
     pt: 'Áudio',
@@ -207,6 +209,7 @@ export default {
 
   sfxvolume: {
     en: 'SFX Volume',
+    ru: 'Громкость эффектов',
     de: 'SFX Lautstärke',
     nl: 'SFX Harder',
     pt: 'Volume de SFX',
@@ -287,6 +290,7 @@ export default {
   // ---- User interface
   interface: {
     en: 'Interface',
+    ru: 'Интерфейс',
     de: 'Interface',
     pt: 'interface',
     pl: 'Interfejs',
@@ -296,6 +300,7 @@ export default {
 
   language: {
     en: 'Language',
+    ru: 'Язык',
     de: 'Sprache',
     nl: 'Taal',
     pt: 'Idioma',
@@ -305,6 +310,7 @@ export default {
 
   invwidth: {
     en: 'Inventory width',
+    ru: 'Ширина чата',
     de: 'Inventar Breite',
     nl: 'Inventarisbreedte',
     pt: 'Largura do estoque',
@@ -314,7 +320,7 @@ export default {
 
   tutorial: {
     en: 'tutorial',
-    ru: 'Учебник',
+    ru: 'туториал',
     hi: 'शिक्षण',
     es: 'tutorial',
     de: 'Tutorial',
@@ -337,7 +343,7 @@ export default {
 
   reset: {
     en: 'Reset tutorial',
-    ru: 'Начать учебник заново',
+    ru: 'Начать туториал заново',
     hi: 'शिक्षण रीसेट',
     es: 'Reiniciar tutorial',
     de: 'Tutorial zurücksetzen',
