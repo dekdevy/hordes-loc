@@ -219,7 +219,7 @@ export default {
     cs: 'Вук'
   },
 
-  // ---- Loudness is better in some cases
+  // "SFX Loudness" is better in some cases
   sfxvolume: {
     en: 'SFX Volume',
     ru: 'Громкость эффектов',
