@@ -96,7 +96,7 @@ export default {
   close: {
     en: 'Close',
     sv: 'Stänga',
-    ru: 'закрит',
+    ru: 'закрыть',
     hi: 'बंद करे',
     fr: 'Fermer',
     de: 'Schließen',
