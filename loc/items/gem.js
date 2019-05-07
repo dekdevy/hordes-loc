@@ -56,7 +56,7 @@ export default [
     description: {
       en: 'Powerful transparent glass talisman, faint purple tint shows you the world in a melancholic light.',
       es: 'Poderoso talismán de cristal transparente, de color púrpura pálido que muestra el mundo en una luz melancólica.',
-      ru: 'Мощный прозрачный стеклянный талисман, бледно-фиолетовый оттенок показывает мир в меланхолическом свете.',
+      ru: 'Мощный прозрачный стеклянный талисман. Его бледно-фиолетовый оттенок показывает мир в меланхолическом свете.',
       de: 'Kraftvoller transparenter Glas-Talisman, schwacher Violett-Ton zeigt Ihnen die Welt in einem melancholischen Licht. ',
       fr: 'Puissant talisman en verre transparent, légèrement violet teinté de violet te montre le monde dans une lumière mélancolique.',
       nl: 'Krachtige transparante glazen talisman, een vage paarse tint laat je de wereld zien in een melancholisch licht.',
@@ -107,7 +107,7 @@ export default [
     name       : {$$: 'Amary' },
     description: {
       en: 'Lustrous blue artifact, exposed wispy white veins running along its spherical surface.',
-      ru: 'Блестящий синий артефакт, обнаженные белоснежные вены, протекают по его сферической поверхности.',
+      ru: 'Блестящий синий артефакт с белоснежными венами, протекающими по его сферической поверхности.',
       es: 'Lustroso artefacto azul, vetas blancas y delgadas expuestas que corren a lo largo de su superficie esférica.',
       de: 'Glänzend blaues Artefakt, freiliegende, wischig weiße Adern, die entlang seiner kugelförmigen Oberfläche verlaufen.',
       fr: 'Artefact bleu lustré, veines blanches et brillantes le long de sa surface sphérique.',
@@ -134,7 +134,7 @@ export default [
     description: {
       en: 'Radiant titian glass-like gem revealing your foe\'s hidden secrets.',
       es: 'Luminoso gema en forma de vidrio que revela los secretos ocultos de tus enemigos.',
-      ru: 'Сияющий титьяновый стеклянный драгоценный камень, раскрывающий скрытые секреты ваших врагов.',
+      ru: 'Сияющий титьяновый, похожий на стекло драгоценный камень, раскрывающий секреты ваших врагов.',
       de: 'Strahlender titianischer glasartiger Edelstein, der die verborgenen Geheimnisse deiner Feinde enthüllt.',
       fr: 'Gemme de verre titien rayonnante révélant les secrets cachés de vos ennemis.',
       nl: 'Stralend Titiaans-achtig glasachtig juweel dat verborgen geheimen van je vijanden onthult.',
@@ -159,7 +159,7 @@ export default [
     name       : {$$: 'Royal' },
     description: {
       en: 'Grand red gem enclosed in abyss dark fissures, granting your foes a sense of jealousy.',
-      ru: 'Великий красный драгоценный камень, заключенный в бездну темных трещин, дарит врагам чувство ревности.',
+      ru: 'Боьшой красный драгоценный камень, заключенный в бездну темных трещин, дарит врагам чувство ревности.',
       es: 'Gran gema roja encerrada en las oscuras fisuras del abismo, dando a tus enemigos una sensación de celos.',
       de: 'Großartiges rotes Juwel, umgeben von dunklen Rissen im Abgrund, das deinen Feinden ein Gefühl der Eifersucht verleiht.',
       fr: 'Grand joyau rouge enfermé dans des fissures sombres de l\'abîme, donnant à vos ennemis un sentiment de jalousie.',
