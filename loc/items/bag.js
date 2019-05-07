@@ -3,7 +3,7 @@ export default [
     name       : {$$: 'Linen Pouch' },
     description: {
       en: 'Small little purse used by merchant\'s wives.',
-      ru: 'маленькая сумочка раньше использована женами купцов.',
+      ru: 'Маленькая сумочка, раньше использованая женами купцов.',
       de: 'Kleine kleine Geldbörse, die von den Ehefrauen der Händler benutzt wird.',
       es: 'Una bolsa linda utilizado por las esposas de comerciantes.',
       fr: 'De petites sacoches utilisées par les épouses des marchands.',
