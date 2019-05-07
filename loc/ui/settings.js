@@ -103,7 +103,11 @@ export default {
     pl: 'Zakres widoków',
     it: 'Visualizza la gamma',
     ro: 'Câmp vizual',
-    es: 'Ver gama'
+    es: 'Ver gama',
+    sv: 'Visa intervall',
+    el: 'Προβολή εύρους',
+    bg: 'Преглед на обхвата',
+    cs: 'Zobrazit rozsah'
   },
 
   resolution: {
@@ -208,9 +212,14 @@ export default {
     pl: 'Dźwięk',
     it: 'Audio',
     ro: 'Audio',
-    es: 'Audio'
+    es: 'Audio',
+    sv: 'Audio',
+    el: 'Ήχος',
+    bg: 'звуков',
+    cs: 'Вук'
   },
 
+  // ---- Loudness is better in some cases
   sfxvolume: {
     en: 'SFX Volume',
     ru: 'Громкость эффектов',
@@ -220,7 +229,11 @@ export default {
     pl: 'Objętość SFX',
     it: 'Volume SFX',
     ro: 'Volum SFX',
-    es: 'Volumen SFX'
+    es: 'Volumen SFX',
+    sv: 'SFX Volym',
+    el: 'Ενταση SFX',
+    bg: 'гръмкостта SFX',
+    cs: 'Objem SFX'
   },
 
   // ---- Chat
@@ -303,7 +316,11 @@ export default {
     nl: 'Interface',
     it: 'interfaccia',
     ro: 'Interfață',
-    es: 'Interactuar'
+    es: 'Interactuar',
+    sv: 'Gränssnitt',
+    el: 'Διεπαφή',
+    bg: 'интерфейс',
+    cs: 'Rozhraní'
   },
 
   language: {
@@ -315,19 +332,27 @@ export default {
     pl: 'Język',
     it: 'Lingua',
     ro: 'Limbă',
-    es: 'Idioma'
+    es: 'Idioma',
+    sv: 'Språk',
+    el: 'Γλώσσα',
+    bg: 'език',
+    cs: 'Jazyk'
   },
 
   invwidth: {
     en: 'Inventory width',
-    ru: 'Ширина чата',
+    ru: 'Ширина инвентаря',
     de: 'Inventar Breite',
     nl: 'Inventarisbreedte',
     pt: 'Largura do estoque',
     pl: 'Szerokość inwentarza',
     it: 'Larghezza dell\'inventario',
     ro: 'Lățimea inventarului',
-    es: 'Ancho de inventario'
+    es: 'Ancho de inventario',
+    sv: 'Lager bredd',
+    el: 'Εύρος αποθέματος',
+    bg: 'Ширина инвентаря',
+    cs: 'Šířka inventáře'
   },
 
   tutorial: {
