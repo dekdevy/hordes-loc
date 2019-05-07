@@ -33,11 +33,11 @@ export default {
     de: 'Du hast $1 gesammelt.',
     ro: 'Ai luat $1',
     fr: 'Vous avez ramassé $1.',
-    ru: 'Ты поднял %1',
+    ru: 'Ты поднял $1',
     hi: 'आपने $1 उठा लिया',
     bg: 'Взехте $1',
     cs: 'Zvedli jste $1',
-    el: 'Έχετε πάρει AGEWAG',
+    el: 'Έχετε πάρει $1',
     ja: '$1 を拾った',
     tl: 'Kinuha mo na $1',
     ht: 'Ou ranmase $1',
@@ -114,7 +114,6 @@ export default {
 
   use: {
     en: 'Use item',
-    hi: 'इस्तमाल करे',
-    ro: 'Utilizarea'
+    hi: 'इस्तमाल करे'
   }
 }
