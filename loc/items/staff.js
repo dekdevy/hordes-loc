@@ -378,7 +378,7 @@ export default [
     name       : {$$: 'Witchs Heart' },
     description: {
       en: 'We are told it\'s core is from the heart of a witch. No one has found the corpse. Or the staff itself.',
-      ru: 'Нам говорят, что его ядро ​​от сердца ведьмы. Но никто не нашел труп. Или сам посох.',
+      ru: 'Нам говорят, что его ядро произошло от сердца ведьмы. Но никто не нашел труп. Или сам посох.',
       hi: 'कहते है इसका मूल एक दायाँ के दिल से बना है। उसकी लाश आज तक नहीं मिली। ना ही ये छड़ी मिली।',
       es: 'Se nos dice que su núcleo es del corazón de una bruja. Nadie ha encontrado el cadáver. O el varita sí mismo.',
       de: 'Uns wurde gesagt, dass sein Kern aus dem Herzen einer Hexe stammt. Niemand hat die Leiche gefunden. Oder das Personal selbst.',
