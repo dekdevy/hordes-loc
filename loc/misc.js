@@ -249,7 +249,7 @@ export default [
     description: {
       en: 'Splinters of bone and marrow glued together with stale saliva.',
       bg: 'Трески от кости и костен мозък залепени със изсъхнала слюнка.',
-      ru: 'Осколки кости и костного мозга склееные с помощью застоявшейся слюны.',
+      ru: 'Осколки кости и костного мозга склеенные с помощью старой слюны.',
       de: 'Knochen- und Marksplitter wurden mit abgestandenem Speichel zusammengeklebt.',
       ro: 'Așchii de os și măduvă lipite împreună cu salivă stătută.',
       pt: 'Lascas de ossos e medula coladas com saliva velha.',
