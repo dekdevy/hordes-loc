@@ -159,23 +159,6 @@ export default [
   },
 
   {
-    name: {$$: 'Emerald' },
-
-    description: {
-      en: 'Lustrous green stone, might buy you a few beers.',
-      bg: 'Блестяш зелен камък, достатъчен да ти купи няколко бири.',
-      ru: 'Блестящий зеленый камень, возможно, купит тебе пару кружек пива.',
-      de: 'Glänzender grüner Stein, der dir vielleicht ein paar Biere kaufen könnte.',
-      ro: 'Piatră verde lucioasă, s-ar putea să-ți poți cumpăra câteva beri cu ea.',
-      pt: 'Pedra verde brilhante, talvez te compre algumas cervejas.',
-      it: 'Pietra verde lucente, potrebbe comprarti qualche birra.',
-      pl: 'Zielony kamień, może kupię ci kilka piw.',
-      fr: 'Une pierre verte lustrée, qui pourrait vous offrir quelques bières.',
-      sv: 'Ljusgrön grön sten, kan köpa dig några öl.'
-    }
-  },
-
-  {
     name: {$$: 'Wolf Fang' },
 
     description: {
