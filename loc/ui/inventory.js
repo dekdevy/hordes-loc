@@ -46,7 +46,8 @@ export default {
   },
 
   throw: {
-    en: 'You threw away $1'
+    en: 'You threw away $1',
+    ru: 'Вы выбросили $1'
   },
 
   full: {
