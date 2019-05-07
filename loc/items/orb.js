@@ -28,7 +28,7 @@ export default [
     name       : {$$: 'Rat Skull' },
     description: {
       en: 'A grotesque mass of bone bringing luck to the superstitious.',
-      ru: 'Ужасающая куча костей. Приносит удачу суеверным.',
+      ru: 'Гротесковая куча костей. Приносит удачу суеверным.',
       de: 'Eine groteske Knochenmasse, die den Abergläubischen Glück bringt.',
       fr: 'Une masse osseuse grotesque qui porte chance aux superstitieux.',
       nl: 'Een groteske bottenmassa die geluk brengt aan de bijgelovigen.',
