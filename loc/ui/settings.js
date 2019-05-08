@@ -1,26 +1,26 @@
 export default {
 
   name: {
-    en: 'settings',
+    en: 'Settings',
     ru: 'Настройки',
     hi: 'सेटिंग्स',
-    es: 'configuración',
+    es: 'Configuración',
     de: 'Einstellungen',
-    fr: 'paramétrage',
-    nl: 'instellingen',
-    tr: 'ayarlar',
+    fr: 'Paramétrage',
+    nl: 'Instellingen',
+    tr: 'Ayarlar',
     pt: 'Ajustes',
-    pl: 'nastawy',
-    ht: 'ajisteman',
-    it: 'impostazioni',
+    pl: 'Nastawy',
+    ht: 'Ajisteman',
+    it: 'Impostazioni',
     ko: '설정',
-    cs: 'nastavení',
+    cs: 'Nastavení',
     ja: '設定',
-    sv: 'inställningar',
+    sv: 'Inställningar',
     bg: 'настройки',
     el: 'Ρυθμίσεις',
-    tl: 'mga setting',
-    ro: 'setări'
+    tl: 'Mga setting',
+    ro: 'Setări'
   },
 
   // ---- Controls
