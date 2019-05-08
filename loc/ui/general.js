@@ -7,7 +7,7 @@ export default {
     de: 'Okay',
     hi: 'ठीक',
     fr: 'D\'accord',    // TODO: shorten
-    es: 'De acuerdo',   // TODO: shorten
+    es: 'Bien',   // TODO: shorten
     tr: 'Tamam',
     nl: 'Okee',
     pt: 'Está bem.',    // TODO: shorten, no puncts
@@ -30,7 +30,7 @@ export default {
     hi: 'पिछला',
     fr: 'Retour',
     de: 'Zurück',
-    es: 'Espalda', //TODO: shorten
+    es: 'Atras', //TODO: shorten
     nl: 'Terug',
     tr: 'Geri',
     pt: 'Voltar',
