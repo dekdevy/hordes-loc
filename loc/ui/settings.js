@@ -355,6 +355,10 @@ export default {
     cs: 'Šířka inventáře'
   },
 
+  uiscale: {
+    en: 'Interface scale'
+  },
+
   tutorial: {
     en: 'tutorial',
     ru: 'туториал',
