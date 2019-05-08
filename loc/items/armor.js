@@ -160,7 +160,7 @@ export default [
     name       : {$$: 'Shadow Cloak' },
     description: {
       en: 'The wearer blends in nicely with the shadows... or so the thieves think.',
-      ru: 'Носитель отлично сливаеться с тенью... или так думают воры.',
+      ru: 'Носитель отлично сливается с тенью... или так думают воры.',
       es: 'El portador se mezcla bien entre las sombras... o eso piensan los ladrones.',
       de: 'Der Träger fügt sich gut in den Schatten ein.... so denken die Diebe.',
       fr: 'Le porteur se fond bien dans l\'ombre... c\'est du moins ce que pensent les voleurs.',
@@ -264,7 +264,7 @@ export default [
     name       : {$$: 'Deathless' },
     description: {
       en: 'Rumours say that the wearer is immortal. Unfortunately this armour can only be found on corpses of the slain.',
-      ru: 'Слухи говорят, что владелец бессмертен. К сожалению, эту броню можно найти только на трупах убитых.',
+      ru: 'Слухи говорят, что носитель брони бессмертен. К сожалению, эту броню можно найти только на трупах.',
       es: 'Los rumores dicen que el portador es inmortal. Desafortunadamente, esta armadura sólo se encuentra en los cadáveres de los muertos.',
       de: 'Gerüchten zufolge ist der Träger unsterblich. Leider ist diese Rüstung nur auf den Leichen der Erschlagenen zu finden.',
       fr: 'Les rumeurs disent que le porteur est immortel. Malheureusement, cette armure ne peut être trouvée que sur les cadavres des victimes.',

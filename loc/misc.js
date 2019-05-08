@@ -5,7 +5,7 @@ export default [
     description: {
       en: 'Thick furry leather making you pant as you drag it behind you.',
       bg: 'Дебела пухеста кожа, която те кара да се задъхваш докато я мъкнеш',
-      ru: 'Толстая кожа заставляет вас задыхаться когда вы тащите ее за собой.',
+      ru: 'Толстая кожа заставляет вас тяжело дышать когда вы тащите ее за собой.',
       de: 'Dickes pelziges Leder, das dich zur Hose macht, während du es hinter dir herziehst.',
       ro: 'Piele groasă îmblănită ce te face să gâfâi în timp ce o tragi după tine.',
       pt: 'Cabedal espesso e peludo que te faz ofegar ao arrastá-lo para trás de ti.',
@@ -23,7 +23,7 @@ export default [
     description: {
       en: 'An apple a day keeps the monsters away....is that what they say?',
       bg: 'Една ябълка на ден държи чудовището далеч от мен... така ли беше?',
-      ru: 'Яблоко в день держит монстров подальше ... это они говорят?',
+      ru: 'Яблоко в день уносит монстров в тень ... это то что они говорят?',
       de: 'Ein Apfel am Tag hält die Monster fern......sagt man das so?',
       ro: 'Un măr pe zi ține monștrii la distanță... așa se zice?',
       pt: 'Uma maçã por dia mantém os monstros afastados... é isso que dizem?',
@@ -95,7 +95,7 @@ export default [
     description: {
       en: 'Serrated and rusty, you wonder if it\'s any good as a weapon.',
       bg: 'Назъбен и ръждясал, дали изобщо е полезен като оръжие.',
-      ru: 'Зазубренный и ржавый, вы не знаете если это хорошая оружия',
+      ru: 'Зубчатый и ржавый, вы не знаете если это хорошее оружие',
       de: 'Gezackt und rostig, fragt man sich, ob es als Waffe gut ist.',
       ro: 'Zimțată și ruginită, te întrebi dacă e bună pe post de armă.',
       pt: 'Serrilhado e enferrujado, você se pergunta se é bom como arma.',
@@ -108,29 +108,12 @@ export default [
   },
 
   {
-    name: {$$: 'Blood Ruby' },
-
-    description: {
-      en: 'Dark red mesmerising stone leaving you in a bloodhungry trance should you stare too deeply into its grim core.',
-      bg: 'Тъмно червен заплененяващ погледа камък, оставящ те в кръвожаден транс ако се загледаш твърде дълго в мрачното му ядро.',
-      ru: 'Темно-красный завораживающий камень, оставляющий вас в кроваво-жаждущем трансе если вы слишком глубоко вглядываетесь в его мрачное ядро.',
-      de: 'Dunkelroter hypnotisierender Stein, der dich in blutgieriger Trance zurücklässt, falls du zu tief in seinen grimmigen Kern starrst.',
-      ro: 'Piatră roșie fermecătoare, ce te va lăsa intr-o transă cu pofte de sânge de te vei holba prea mult timp la miezul ei sumbru.',
-      pt: 'Pedra vermelha escura hipnotizante que te deixa num transe sedento de sangue se olhares demasiado profundamente para o seu núcleo sombrio.',
-      it: 'Pietra ipnotizzante rosso scuro che ti lascia in una trance affamata di sangue se dovessi guardare troppo profondamente nel suo nucleo cupo.',
-      pl: 'Ciemnoczerwony, hipnotyzujący kamień, który pozostawia cię w krwiożerczym transie, jeśli gapisz się zbyt głęboko w jego ponury rdzeń.',
-      fr: 'Pierre rouge foncé hypnotisante vous laissant dans une transe assoiffée de sang si vous regardez trop profondément dans son sinistre noyau.',
-      sv: 'Mörkrött hypnotiserande sten som lämnar dig i en blodig trance bör du stirra för djupt i sin grymma kärna.'
-    }
-  },
-
-  {
     name: {$$: 'Goose Feather' },
 
     description: {
       en: 'Beware of the feral goose. It doesn\'t like pokes.',
       bg: 'Внимавай с диавата патица, не обича да я закачат.',
-      ru: 'Остерегайтесь дикого гуся.  Он не любит тычки.',
+      ru: 'Остерегайтесь дикого гуся.  Он не любит когда в него тыкают.',
       de: 'Hüte dich vor der wilden Gans. Es mag keine Stöße.',
       ro: 'Ferește-te de gâsca sălbatică. Nu-i plac ciupiturile.',
       pt: 'Cuidado com o ganso selvagem. Não gosta de picaretas.',
@@ -159,29 +142,12 @@ export default [
   },
 
   {
-    name: {$$: 'Emerald' },
-
-    description: {
-      en: 'Lustrous green stone, might buy you a few beers.',
-      bg: 'Блестяш зелен камък, достатъчен да ти купи няколко бири.',
-      ru: 'Блестящий зеленый камень, возможно, купит тебе немного пива.',
-      de: 'Glänzender grüner Stein, der dir vielleicht ein paar Biere kaufen könnte.',
-      ro: 'Piatră verde lucioasă, s-ar putea să-ți poți cumpăra câteva beri cu ea.',
-      pt: 'Pedra verde brilhante, talvez te compre algumas cervejas.',
-      it: 'Pietra verde lucente, potrebbe comprarti qualche birra.',
-      pl: 'Zielony kamień, może kupię ci kilka piw.',
-      fr: 'Une pierre verte lustrée, qui pourrait vous offrir quelques bières.',
-      sv: 'Ljusgrön grön sten, kan köpa dig några öl.'
-    }
-  },
-
-  {
     name: {$$: 'Wolf Fang' },
 
     description: {
       en: 'Sharp and white... you cut yourself already.',
       bg: 'Остър и бял... вече се поряза.',
-      ru: 'Острый и белый ... ты уже порезался.',
+      ru: 'Острый и белый ... ты уже порезался об него.',
       de: 'Scharf und weiß.... du hast dich schon geschnitten.',
       ro: 'Ascuțit și alb... și te-ai tăiat deja.',
       pt: 'Afiado e branco... já te cortaste.',
@@ -249,7 +215,7 @@ export default [
     description: {
       en: 'Splinters of bone and marrow glued together with stale saliva.',
       bg: 'Трески от кости и костен мозък залепени със изсъхнала слюнка.',
-      ru: 'Осколки кости и костного мозга склеены с застоявшейся слюной.',
+      ru: 'Осколки кости и костного мозга склеенные с помощью старой слюны.',
       de: 'Knochen- und Marksplitter wurden mit abgestandenem Speichel zusammengeklebt.',
       ro: 'Așchii de os și măduvă lipite împreună cu salivă stătută.',
       pt: 'Lascas de ossos e medula coladas com saliva velha.',
@@ -266,7 +232,7 @@ export default [
     description: {
       en: 'Small chipped stew bowl. Careful, it\'s flammable.',
       bg: 'Малка калпава купа. Внимавай да не се запали.',
-      ru: 'Маленькая пацарапаная миска для мяса. Осторожно, она огнеопасна.',
+      ru: 'Маленькая поцарапаная миска для мяса. Осторожно, она огнеопасна.',
       de: 'Kleine, zerkleinerte Eintopfschale. Vorsicht, es ist brennbar.',
       ro: 'Bol de tocană mic și ciobit. Ai grijă, e inflamabil.',
       pt: 'Pequena tigela de guisado lascada. Cuidado, é inflamável.',
@@ -336,7 +302,7 @@ export default [
     description: {
       en: 'A tuft of putrid matted hair. T\'was a tough battle to get hold of this.',
       bg: 'Шепа мазна загнила коса. Трудна битка беше за да се докопа.',
-      ru: 'Пучок запутаных и ванючих валось. Трудная битва была, штобы ево достать.',
+      ru: 'Пучок запутаных и ванючих волос. Трудная битва была, чтобы его достать.',
       de: 'Ein Büschel verfaulter, verfilzter Haare. Es war ein harter Kampf, um dies zu erreichen. ',
       ro: 'Un smoc de păr putrezit. Am dus o luptă grea să pot pune mâna pe asta.',
       pt: 'Um tufo de pêlos pútridos emaranhados. Foi uma batalha difícil para pegar isso.',
@@ -354,7 +320,7 @@ export default [
     description: {
       en: 'Disgusting larvae of an unknown insect. Hopefully a small one...',
       bg: 'Противни личей на незнайно насекомо. Да се надяваме че е от малко...',
-      ru: 'Противные личинки незнакомого насекомого. Надеюсь маленкова...',
+      ru: 'Противные личинки незнакомого насекомого. Надеюсь маленького...',
       de: 'Ekelhafte Larven eines unbekannten Insekts. Hoffentlich ein kleines.....',
       ro: 'Larvele dezgustătoare ale unei insecte necunoscute. Să sperăm că una mică...',
       pt: 'Larvas nojentas de um insecto desconhecido. Esperemos que uma pequena...',
@@ -390,7 +356,7 @@ export default [
     description: {
       en: 'Mesmerising crystalline droplet refracting light intricately casting tiny balls of light onto you as you hold it up to the sun.',
       bg: 'Запленяваща погледа кристална капка, пречупваща светлината и хвърляща прекрасни, миниатюрни пръски светлина в лицето, като я държиш срещу слънцето.',
-      ru: 'Завораживающая кристаллическая капля, преломляющая свет, бросает на вас крошечные шарики света, когда вы держите его на солнце.',
+      ru: 'Завораживающая кристаллическая капля, преломляющая свет, бросает на вас крошечные шарики света, когда вы держите её на солнце.',
       de: 'Faszinierendes kristallines Tröpfchen brechendes Licht, das aufwendig kleine Lichtkugeln auf Sie wirft, während Sie es an die Sonne halten.',
       ro: 'Picături cristaline hipnotizante refractând lumina, proiectând mici bile de lumină pe tine în timp ce le ții la soare.',
       pt: 'Uma gota cristalina hipnotizante que refracta a luz, lançando pequenas bolas de luz sobre você enquanto você a segura até o sol.',
@@ -408,7 +374,7 @@ export default [
     description: {
       en: 'Sharp gothic arrowhead, made from a mystical metal which seeps fear into your bones.',
       bg: 'Острър връх на стрела, направен от мистечен метал, изпълващ те със страх.',
-      ru: 'Острый готический наконечник стрелы, сделанный из мистического металла, который просачивается страх в твои кости.',
+      ru: 'Острый готический наконечник стрелы, сделанный из мистического металла, который просачивает страх в твои кости.',
       de: 'Scharfe gotische Pfeilspitze, hergestellt aus einem mystischen Metall, das in deine Knochen sickert.',
       ro: 'Vârf ascuțit de săgeată gotică, făcut dintr-un metal mistic care se infiltrează în oasele tale.',
       pt: 'Ponta de seta gótica afiada, feita de um metal místico que se infiltra nos teus ossos.',
@@ -443,7 +409,7 @@ export default [
     description: {
       en: 'Thin dry twigs, will burn nicely in a campfire.',
       bg: 'Тънки сухи пръчици, ще горят добре в огън.',
-      ru: 'Тонкие сухие веточки, хорошо сгорят в костре.',
+      ru: 'Тонкие сухие веточки, хорошо горят в костре.',
       de: 'Dünne, trockene Zweige, die im Lagerfeuer gut brennen.',
       ro: 'Crenguțe uscate, vor arde frumos într-un foc de tabără.',
       pt: 'Galhos finos e secos, arderão bem numa fogueira.',

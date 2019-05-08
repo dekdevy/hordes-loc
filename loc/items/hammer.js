@@ -3,7 +3,7 @@ export default [
     name       : {$$: 'Splintered Club' },
     description: {
       en: 'It\'s already half broken and you are still using it?',
-      ru: 'Он уже наполовину сломан, и вы все еще используете его?',
+      ru: 'Он уже наполовину сломан, и вы все еще его используете?',
       hi: 'यह पहले से ही आधा टूट गया है और आप अभी भी इसे प्रयोग कर रहे हैं?',
       es: '¿Ya está medio roto y todavía lo estás usando?',
       de: 'Es ist bereits halb gebrochen und du benutzt es immer noch?',
@@ -278,7 +278,7 @@ export default [
     name       : {$$: 'Amboss' },
     description: {
       en: 'Topped with the skull of a slain behemoth enemy, this weapon inspires terror in all who stand against it.',
-      ru: 'Это оружие, увенчанное черепом бегемота, внушает ужас всем, кто противостоит ему.',
+      ru: 'Это оружие, увенчанное черепом чудища, внушает ужас всем, кто противостоит ему.',
       hi: 'एक मृत विशालकाय दुश्मन की खोपड़ी के साथ शीर्ष पर रहा, इस हथियार सब जो इसके खिलाफ खड़े में आतंक प्रेरित करती है।',
       es: 'Cubierta con el cráneo de un enemigo gigante asesinado, esta arma inspira terror en todos los que se oponen a ella.',
       de: 'Mit dem Schädel eines getöteten Riesenfeindes überzogen, inspiriert diese Waffe Schrecken bei allen, die sich dagegen stellen.',
@@ -328,7 +328,7 @@ export default [
     name       : {$$: 'Benevolence' },
     description: {
       en: 'Nothing kind about this cruel weapon.',
-      ru: 'Ничего хорошего в этом жестоком оружии.',
+      ru: 'Ничего доброго в этом жестоком оружии.',
       hi: 'कुछ भी नहीं प्रकार के बारे में इस क्रूर हथियार।',
       es: 'Esta arma cruel no tiene nada de amable.',
       bg: 'Нищо подобно за това жестоко оръжие.',

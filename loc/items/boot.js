@@ -81,7 +81,7 @@ export default [
     name       : {$$: 'Bone Greaves' },
     description: {
       en: 'Clearly lacking in imagination, the maker made boots from the bones of a very large creature...',
-      ru: 'Очевидно, что у создателя не хватает воображения, он сделал сапоги из костей очень крупного существа ...',
+      ru: 'Очевидно, у создателя не хватает воображения, ведь он сделал сапоги из костей очень крупного существа ...',
       de: 'Offensichtlich phantasielos, machte der Hersteller Stiefel aus den Knochen einer sehr großen Kreatur...',
       es: 'Claramente sin imaginación, el zapatero uso los huesos de una criatura grande...',
       fr: 'Manquant clairement d\'imagination, le fabricant a fabriqué des bottes à partir des os d\'une très grande créature....',
@@ -159,7 +159,7 @@ export default [
     name       : {$$: 'Wartorn Boots' },
     description: {
       en: 'Taken from war veterans who clearly didn\'t find enough protection from these greaves.',
-      ru: 'Взято у ветеранов войны, которые явно не нашли достаточной защиты от этих наголенников.',
+      ru: 'Взято у ветеранов войны, которые явно не получили достаточной защиты от этих наголенников.',
       de: 'Entnommen von Kriegsveteranen, die offensichtlich nicht genug Schutz vor diesen Grieben gefunden haben.',
       es: 'No protegieron sus dueños anteriores tan bien, tal vez funcionan mejor ahora.',
       fr: 'Pris à des vétérans de guerre qui n\'ont clairement pas trouvé assez de protection dans ces bottes.',
@@ -185,7 +185,7 @@ export default [
     name       : {$$: 'Imbued Treads' },
     description: {
       en: 'Chunky in its looks, probably very uncomfortable.',
-      ru: 'Состоят из блочных кусков, наверное, очень неудобные',
+      ru: 'Состоят из блочных кусков, наверное, очень неудобные.',
       de: 'Grob in seinem Aussehen, wahrscheinlich sehr unangenehm.',
       es: 'Macizo y fornido, prbablamente incómodo.',
       fr: 'Block comme dans son design, probablement très inconfortable.',
@@ -211,7 +211,7 @@ export default [
     name       : {$$: 'Skyswift Boots' },
     description: {
       en: 'Run as quick as the wind... or close to it.',
-      ru: 'Беги так быстро, как ветер... ну или близко к нему',
+      ru: 'Беги быстро, как ветер... ну почти.',
       de: 'Laufen Sie so schnell wie der Wind... oder in der Nähe davon.',
       es: 'Con estos zapatos puedes ver el viento y llevarlo contigo.',
       fr: 'Courir aussi vite que le vent... ou près de lui.',

@@ -30,7 +30,7 @@ export default [
     name       : {$$: 'Makeshift Brace' },
     description: {
       en: 'Skilled hands made an intricate job at making this homemade cuff.',
-      ru: 'Опытные руки сделали сложную работу по изготовлению этой самадельной манжеты',
+      ru: 'Опытные руки сделали сложную работу по изготовлению этих самодельных наручников',
       es: 'Pulsera avanzada de cuero.',
       fr: 'Un peu plus avancé, pas beaucoup cependant',
       de: 'Geschickte Hände machten einen komplizierten Job bei der Herstellung dieser selbstgemachten Manschette.',
@@ -56,7 +56,7 @@ export default [
     name       : {$$: 'Leather Armlet' },
     description: {
       en: 'Stiff, makes your arm sore.',
-      ru: 'Такой тугой, что твоя рука начинает опухать.',
+      ru: 'Такой тугой, что твоя рука начинает болеть.',
       es: 'Mas cuero. Todo es cuero. Nesecitas una chaqueta de cuero para ser completo.',
       fr: 'Rigide, rend le bras douloureux',
       de: 'Steif, macht deinen Arm wund.',
@@ -82,7 +82,7 @@ export default [
     name       : {$$: 'Ivory Bracelet' },
     description: {
       en: 'Elegant cuff made from the tusks of the last mammoth.',
-      ru: 'Элегантная манжета из бивней последнего мамонта.',
+      ru: 'Элегантные наручники, сделаные из бивней последнего мамонта.',
       es: 'Un pulsera elegante creado con el comillo del elefante final.',
       fr: 'Menottes élégant fait à partir des défenses de mammouths',
       de: 'Elegante Manschette aus den Stoßzähnen des letzten Mammuts.',
@@ -108,7 +108,7 @@ export default [
     name       : {$$: 'Iron Vambrace' },
     description: {
       en: 'Heavy on your arm... worth the protection.',
-      ru: 'Тяжёлые ... но стоят своей защиты.',
+      ru: 'Тяжёлые ... но дают хорошую защиту.',
       es: 'Pesado, pero vale la pena.',
       fr: 'Lourd sur votre bras... vaut la protection',
       de: 'Schwer auf dem Arm... den Schutz wert.',
@@ -317,7 +317,7 @@ export default [
     name       : {$$: 'Lost Guardian' },
     description: {
       en: 'This item was forged on a full moon when mysterious incantations were heard in the whispers of the dark. Some say that it was Anubis himself speaking with the dead.',
-      ru: 'Этот предмет был выкован в полнолуние, когда в шепот темноты раздавались таинственные заклинания. Некоторые говорят, что это был сам Анубис, говорящий с мертвыми.',
+      ru: 'Этот предмет был выкован в полнолуние, когда в темноте раздавался шепот таинственных заклинаний. Некоторые говорят, что это был сам Анубис, говорящий с мертвыми.',
       es: 'Forjado durante la plenilunia cuando incantaciones misteriosas fueron oído en los susurros de la oscurridad. Algunos dicen que era Anuvis mismo hablando con la muerte.',
       fr: 'Cet article a été forgé à la pleine lune quand des incantations mystérieuses ont été entendues dans les murmures de l\'obscurité. Certains disent que c\'était Anubis lui-même parlant avec les morts',
       de: 'Dieser Gegenstand wurde bei Vollmond geschmiedet, als im Flüstern der Dunkelheit mysteriöse Beschwörungen zu hören waren. Einige sagen, dass es Anubis selbst war, der mit den Toten sprach.',

@@ -1,26 +1,26 @@
 export default {
 
   name: {
-    en: 'settings',
+    en: 'Settings',
     ru: 'Настройки',
     hi: 'सेटिंग्स',
-    es: 'configuración',
+    es: 'Configuración',
     de: 'Einstellungen',
-    fr: 'paramétrage',
-    nl: 'instellingen',
-    tr: 'ayarlar',
+    fr: 'Paramétrage',
+    nl: 'Instellingen',
+    tr: 'Ayarlar',
     pt: 'Ajustes',
-    pl: 'nastawy',
-    ht: 'ajisteman',
-    it: 'impostazioni',
+    pl: 'Nastawy',
+    ht: 'Ajisteman',
+    it: 'Impostazioni',
     ko: '설정',
-    cs: 'nastavení',
+    cs: 'Nastavení',
     ja: '設定',
-    sv: 'inställningar',
+    sv: 'Inställningar',
     bg: 'настройки',
     el: 'Ρυθμίσεις',
-    tl: 'mga setting',
-    ro: 'setări'
+    tl: 'Mga setting',
+    ro: 'Setări'
   },
 
   // ---- Controls
@@ -96,11 +96,18 @@ export default {
 
   viewrange: {
     en: 'View range',
+    ru: 'Дальность прорисовки',
     de: 'Sichtweite',
     nl: 'Weergavebereik',
     pt: 'Ver gama',
     pl: 'Zakres widoków',
-    it: 'Visualizza la gamma'
+    it: 'Visualizza la gamma',
+    ro: 'Câmp vizual',
+    es: 'Ver gama',
+    sv: 'Visa intervall',
+    el: 'Προβολή εύρους',
+    bg: 'Преглед на обхвата',
+    cs: 'Zobrazit rozsah'
   },
 
   resolution: {
@@ -198,20 +205,35 @@ export default {
   // ---- Audio
   audio: {
     en: 'Audio',
+    ru: 'Звук',
     de: 'Ton',
     nl: 'Geluid',
     pt: 'Áudio',
     pl: 'Dźwięk',
-    it: 'Audio'
+    it: 'Audio',
+    ro: 'Audio',
+    es: 'Audio',
+    sv: 'Audio',
+    el: 'Ήχος',
+    bg: 'звуков',
+    cs: 'Вук'
   },
 
+  // "SFX Loudness" is better in some cases
   sfxvolume: {
     en: 'SFX Volume',
+    ru: 'Громкость эффектов',
     de: 'SFX Lautstärke',
     nl: 'SFX Harder',
     pt: 'Volume de SFX',
     pl: 'Objętość SFX',
-    it: 'Volume SFX'
+    it: 'Volume SFX',
+    ro: 'Volum SFX',
+    es: 'Volumen SFX',
+    sv: 'SFX Volym',
+    el: 'Ενταση SFX',
+    bg: 'гръмкостта SFX',
+    cs: 'Objem SFX'
   },
 
   // ---- Chat
@@ -287,34 +309,59 @@ export default {
   // ---- User interface
   interface: {
     en: 'Interface',
+    ru: 'Интерфейс',
     de: 'Interface',
     pt: 'interface',
     pl: 'Interfejs',
     nl: 'Interface',
-    it: 'interfaccia'
+    it: 'interfaccia',
+    ro: 'Interfață',
+    es: 'Interactuar',
+    sv: 'Gränssnitt',
+    el: 'Διεπαφή',
+    bg: 'интерфейс',
+    cs: 'Rozhraní'
   },
 
   language: {
     en: 'Language',
+    ru: 'Язык',
     de: 'Sprache',
     nl: 'Taal',
     pt: 'Idioma',
     pl: 'Język',
-    it: 'Lingua'
+    it: 'Lingua',
+    ro: 'Limbă',
+    es: 'Idioma',
+    sv: 'Språk',
+    el: 'Γλώσσα',
+    bg: 'език',
+    cs: 'Jazyk'
   },
 
   invwidth: {
     en: 'Inventory width',
+    ru: 'Ширина инвентаря',
     de: 'Inventar Breite',
     nl: 'Inventarisbreedte',
     pt: 'Largura do estoque',
     pl: 'Szerokość inwentarza',
-    it: 'Larghezza dell\'inventario'
+    it: 'Larghezza dell\'inventario',
+    ro: 'Lățimea inventarului',
+    es: 'Ancho de inventario',
+    sv: 'Lager bredd',
+    el: 'Εύρος αποθέματος',
+    bg: 'Ширина инвентаря',
+    cs: 'Šířka inventáře'
+  },
+
+  uiscale: {
+    en: 'Interface scale'
   },
 
   tutorial: {
     en: 'tutorial',
-    ru: 'Учебник',
+    ru: 'туториал',
     hi: 'शिक्षण',
     es: 'tutorial',
     de: 'Tutorial',
@@ -337,7 +384,7 @@ export default {
 
   reset: {
     en: 'Reset tutorial',
-    ru: 'Начать учебник заново',
+    ru: 'Начать туториал заново',
     hi: 'शिक्षण रीसेट',
     es: 'Reiniciar tutorial',
     de: 'Tutorial zurücksetzen',
