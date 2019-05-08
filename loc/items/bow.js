@@ -16,7 +16,7 @@ export default [
       tl: 'Halos magaan. Maaari mong mahanap ang isang bagay na mas mahusay sa paligid.',
       ht: 'Prèske lejè. Ou ka pwobableman jwenn yon bagay pi byen alantou.',
       tr: 'Hafifsiklet bir şey. Muhtemelen etrafta daha iyi bir şeyler bulabilirsin.',
-      hi: 'लगभग हल्के। आप शायद के आसपास कुछ बेहतर मिल सकता है।',
+      hi: 'लगभग हल्का। आस पास आप इससे बहतर चीज़ धून्ध सकते हैं।',
       cs: 'Téměř lehká. Asi můžete najít něco lepšího.',
       el: 'Σχεδόν ελαφρύς. Μπορεί πιθανώς να βρείτε κάτι καλύτερο γύρω.',
       bg: 'Почти лек. Вероятно можете да намерите нещо по-добро наоколо.',
@@ -41,7 +41,7 @@ export default [
       sv: 'Du känner dig mindre skicklig bara genom att hålla detta i dina händer.',
       ht: 'Ou santi ou mwens kalifye jis pa kenbe sa a nan men ou.',
       tr: 'Sadece tutmakla bile insan kendini yeteneksiz hissediyor, öyle bir yay.',
-      hi: 'तुम सिर्फ अपने हाथों में इस पकड़ कर कम कुशल लग रहा है।',
+      hi: 'इसे हाथ में पकड़ते हीं आप नासमझ महसूस करेंगे।',
       tl: 'Ang pakiramdam mo ay hindi gaanong nangangailangan ng kasanayan sa pamamagitan ng pagpindot sa iyong mga kamay.',
       cs: 'Cítíš se méně zručně, když to držíš ve svých rukou.',
       el: 'Αισθάνεσαι λιγότερο εξειδικευμένο κρατώντας το στα χέρια σου.',
@@ -55,7 +55,8 @@ export default [
   {
     name       : {$$: 'Curved shortbow'},
     description: {
-      en: 'Missing description'
+      en: 'Its curved to such an extent that it will snap any moment now.',
+      hi: 'इतना मुड़ा हुआ कि किसी भी समय आधे में टूट सकता है।'
     }
   },
 
