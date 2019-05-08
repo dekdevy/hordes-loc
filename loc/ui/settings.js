@@ -356,7 +356,8 @@ export default {
   },
 
   uiscale: {
-    en: 'Interface scale'
+    en: 'Interface scale',
+    ru: 'Масштаб интерфейса'
   },
 
   tutorial: {
