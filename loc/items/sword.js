@@ -128,7 +128,7 @@ export default [
     name       : {$$: 'Carved Bonesword' },
     description: {
       en: 'Crudely carved from the bones of an ancient behemoth.',
-      ru: 'Грубо вырезанный из кости древнего бегемота',
+      ru: 'Грубо вырезанный из кости древнего чудища',
       es: 'Crudamente tallado de los huesos de un antiguo gigante.',
       de: 'Grob geschnitten aus den Knochen eines alten Riesen.',
       fr: 'Sculpté grossièrement dans les os d\'un monstre ancien.',
@@ -201,7 +201,7 @@ export default [
     name       : {$$: 'Nullfire Sword' },
     description: {
       en: 'A cold-looking blade with a burning hot edge.',
-      ru: 'Холодный клинок с горячим нарезам',
+      ru: 'Холодный клинок с горячим краем',
       es: 'Una espada que parece helada con un borde caliente y feroz.',
       de: 'Eine kalt aussehende Klinge mit einer brennend heißen Scheibe.',
       fr: 'Une lame d\'aspect froid avec un bord chaud brûlant.',
@@ -326,7 +326,7 @@ export default [
     name       : {$$: 'Hearteater' },
     description: {
       en: 'Devours living tissue as it plunges its way into the thick muscle of your foes beating heart.',
-      ru: 'Пожирает живую ткань, проникая через бьющийся серта ваших врагов',
+      ru: 'Пожирает живую ткань, проникая через бьющиеся сердца ваших врагов',
       es: 'Devora el tejido vivo a medida que se adentra en el grueso músculo del corazón de tus enemigos.',
       de: 'Verschlingt lebendes Gewebe, während es sich in den dicken Muskel deiner Feinde stürzt und das Herz schlägt.',
       fr: 'Dévorent les tissus vivants alors qu\'ils plongent dans le muscle épais du cœur battant de vos ennemis.',

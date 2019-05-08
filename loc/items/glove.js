@@ -29,7 +29,7 @@ export default [
     name       : {$$: 'Cloth Mitts' },
     description: {
       en: 'Spun yarn from stolen sheep makes these warm gloves a pleasure to wear.',
-      ru: 'Пряжа из украденных овец делает эти теплые перчатки приятно носить.',
+      ru: 'Пряжа из шерсти украденных овец делает эти теплые перчатки приятными.',
       de: 'Gesponnenes Garn aus gestohlenen Schafen macht diese warmen Handschuhe zu einem wahren Vergnügen.',
       es: 'El hilo hilado de oveja robada hace que estos guantes cálidos sean un placer de llevar.',
       pt: 'O fio fiado de ovelhas roubadas torna estas luvas quentes um prazer de usar.',
@@ -133,7 +133,7 @@ export default [
     name       : {$$: 'Imbued Gloves' },
     description: {
       en: 'Mitts made out of unknown material... it shines...',
-      ru: 'Рукавицы, сделанные из неизвестного материала ... оно сияет...',
+      ru: 'Рукавицы, сделанные из неизвестного материала ... они сияют...',
       de: 'Handschuhe aus unbekanntem Material... sie leuchten...',
       es: 'Guantes de material desconocido... brilla...',
       pt: 'Mitts feitos de material desconhecido... brilha...',
@@ -237,7 +237,7 @@ export default [
     name       : {$$: 'Coldforged Fists' },
     description: {
       en: 'Forged without heat, worn without fear.',
-      ru: 'Кованые без огня, носите без страха.',
+      ru: 'Кованые без огня, ношенные без страха.',
       de: 'Ohne Hitze geschmiedet, ohne Angst getragen.',
       es: 'Forjados sin calor, llevados sin miedo.',
       pt: 'Forjado sem calor, usado sem medo.',
@@ -289,7 +289,7 @@ export default [
     name       : {$$: 'Gloves of Midas' },
     description: {
       en: 'Rumours say that a touch from these gloves turns your foes into gold...your hand is strangely heavy...',
-      ru: 'Слухи говорят, что прикосновение этих перчаток превращает твоих врагов в золото... твоя рука странно тяжелая ...',
+      ru: 'Слухи говорят, что прикосновение этой перчаток превращает твоих врагов в золото... твоя рука странно тяжелая ...',
       de: 'Gerüchten zufolge verwandelt eine Berührung dieser Handschuhe deine Feinde in Gold... deine Hand ist seltsam schwer...',
       es: 'Los rumores dicen que un toque de estos guantes convierte a tus enemigos en oro... tu mano es extrañamente pesada...',
       pt: 'Rumores dizem que um toque dessas luvas transforma seus inimigos em ouro... sua mão é estranhamente pesada...',
