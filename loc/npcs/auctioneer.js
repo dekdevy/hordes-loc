@@ -4,7 +4,8 @@ export default {
       en: 'Auctioneer greeting text'
     },
     choices: [{
-      en: 'Yes, show me the auctions for sale.'
+      en: 'Yes, show me the auctions for sale.',
+      pt: 'Sim, mostra-me os leilões à venda.'
     }]
   }]
 }
