@@ -5,7 +5,8 @@ export default {
     },
     choices: [{
       en: 'Yes, show me the auctions for sale.',
-      pt: 'Sim, mostra-me os leilões à venda.'
+      pt: 'Sim, mostra-me os leilões à venda.',
+      it: 'Sì, mostrami le aste in vendita.'
     }]
   }]
 }
