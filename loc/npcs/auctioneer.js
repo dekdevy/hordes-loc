@@ -5,6 +5,7 @@ export default {
     },
     choices: [{
       en: 'Yes, show me the auctions for sale.',
+      ro: 'Da, arată-mi ce lucruri sunt de vânzare.',
       pt: 'Sim, mostra-me os leilões à venda.'
     }]
   }]
