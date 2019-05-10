@@ -67,7 +67,7 @@ export default {
     bg: 'Заключена камера',
     el: 'Κλειδωμένη κάμερα',
     tl: 'naka-lock na camera',
-    ro: 'Cameră blocată'
+    ro: 'Blochează camera'
   },
 
   // ---- Graphics
@@ -107,7 +107,8 @@ export default {
     sv: 'Visa intervall',
     el: 'Προβολή εύρους',
     bg: 'Преглед на обхвата',
-    cs: 'Zobrazit rozsah'
+    cs: 'Zobrazit rozsah',
+    hi: 'नज़र सीमा'
   },
 
   resolution: {
@@ -216,7 +217,8 @@ export default {
     sv: 'Audio',
     el: 'Ήχος',
     bg: 'звуков',
-    cs: 'Вук'
+    cs: 'Вук',
+    hi: 'आवाज़'
   },
 
   // "SFX Loudness" is better in some cases
@@ -233,7 +235,8 @@ export default {
     sv: 'SFX Volym',
     el: 'Ενταση SFX',
     bg: 'гръмкостта SFX',
-    cs: 'Objem SFX'
+    cs: 'Objem SFX',
+    hi: 'इफैक्ट्स की आवाज़'
   },
 
   // ---- Chat
@@ -320,7 +323,8 @@ export default {
     sv: 'Gränssnitt',
     el: 'Διεπαφή',
     bg: 'интерфейс',
-    cs: 'Rozhraní'
+    cs: 'Rozhraní',
+    hi: 'अन्तराफलक'
   },
 
   language: {
@@ -336,7 +340,8 @@ export default {
     sv: 'Språk',
     el: 'Γλώσσα',
     bg: 'език',
-    cs: 'Jazyk'
+    cs: 'Jazyk',
+    hi: 'भाषा'
   },
 
   invwidth: {
@@ -352,11 +357,15 @@ export default {
     sv: 'Lager bredd',
     el: 'Εύρος αποθέματος',
     bg: 'Ширина инвентаря',
-    cs: 'Šířka inventáře'
+    cs: 'Šířka inventáře',
+    hi: 'वस्तुसूची की चौड़ाई'
   },
 
   uiscale: {
-    en: 'Interface scale'
+    en: 'Interface scale',
+    ru: 'Масштаб интерфейса',
+    hi: 'अन्तराफलक का पैमाना',
+    ro: 'Scala interfeţei'
   },
 
   tutorial: {

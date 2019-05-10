@@ -45,7 +45,7 @@ export default [
       de: 'Klebriger Grizzly Augapfel, der nach Sumpfgebiet riecht.',
       ro: 'Ochi lipicios de grizzly ce miroase a mlaștină.',
       pt: 'Olho pegajoso a cheirar a pântano.',
-      it: 'Sticky Grizzly eyeball appiccicoso che puzza di palude.',
+      it: 'Bulbo oculare appiccicoso grizzly che puzza di palude.',
       pl: 'Lepki grizzly grizzly eyeball pachnący bagnem.',
       fr: 'Oeil de grizzli collant qui sent le marécage.',
       sv: 'Klibbig ögonglob som luktar av träsk.',

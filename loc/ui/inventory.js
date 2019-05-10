@@ -47,7 +47,8 @@ export default {
 
   throw: {
     en: 'You threw away $1',
-    ru: 'Вы выбросили $1'
+    ru: 'Вы выбросили $1',
+    ro: 'Ai aruncat $1'
   },
 
   full: {
@@ -114,13 +115,13 @@ export default {
     ht: 'Drop atik la',
     ko: '아이템 놓기',
     sv: 'Släpp objektet',
-    ro: 'Aruncați elementul'
+    ro: 'Aruncă obiectul'
   },
 
   use: {
     en: 'Use item',
     ru: 'Использовать',
     hi: 'इस्तमाल करे',
-    ro: 'Utilizarea'
+    ro: 'Utilizează'
   }
 }
