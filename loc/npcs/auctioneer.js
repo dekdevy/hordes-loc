@@ -8,6 +8,7 @@ export default {
       pt: 'Sim, mostra-me os leilões à venda.',
       it: 'Sì, mostrami le aste in vendita.',
       ro: 'Da, arată-mi ce lucruri sunt de vânzare.',
+      hi: 'जी हा, मुझे उपलब्ध नीलामियां दिखाईए।',
       pl: 'Tak, pokaż mi aukcje na sprzedaż.'
     }]
   }]
