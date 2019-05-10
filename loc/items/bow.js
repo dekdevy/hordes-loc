@@ -417,7 +417,7 @@ export default [
       sv: 'Inbäddad med primitiv raseri, dina fiender darrar vid synen av detta vapen. Pew pew är det sista de någonsin kommer att höra.',
       ht: 'Embedded ak yon primal raj la, lènmi ou souke nan je a nan zam sa a. Pew pew pew la se bagay la dènye tout tan tout tan yo dwe tande.',
       tr: 'İlkel bir öfkeyle bezenmiş, düşmanların bu silahı görünce titriyor. Pew pew, duyacakları son şey.',
-      hi: 'मौलिक क्रोध से बना, इसे देखकर आपके दुश्मन कांप उठेंगे। आख़री आवाज़ जो उन्हें सुनाई पड़ेगी वो होगी तेज़ तीरों की हवा कटने की आवाज।'
+      hi: 'मौलिक क्रोध से बना, इसे देखकर आपके दुश्मन कांप उठेंगे। आख़री आवाज़ जो उन्हें सुनाई पड़ेगी वो होगी तेज़ तीरों की हवा कटने की आवाज।',
       cs: 'Vloženi s prvotním vztekem, vaši nepřátelé se třesou při pohledu na tuto zbraň. Pew je poslední věc, kterou kdy slyší.',
       ja: 'この武器を見てあなたの敵は震え上がります。ピューピューは彼らが今までに聞くことになる最後のものです。',
       ro: 'Cuprins de o furie primordială, dușmanii tăi tremură la vederea acestei arme. Pew pew e ultimul lucru pe care-l vor auzi vreodată.',
