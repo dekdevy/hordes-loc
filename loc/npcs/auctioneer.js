@@ -11,6 +11,7 @@ export default {
       hi: 'जी हा, मुझे उपलब्ध नीलामियां दिखाईए।',
       pl: 'Tak, pokaż mi aukcje na sprzedaż.',
       es: 'Sí, muéstrame las subastas en venta.',
+      nl: 'Ja, laat me de veilingen zien die te koop zijn',
       fr: 'Oui, montrez-moi les enchères à vendre.'
     }]
   }]
