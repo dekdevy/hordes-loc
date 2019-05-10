@@ -67,7 +67,7 @@ export default {
     bg: 'Заключена камера',
     el: 'Κλειδωμένη κάμερα',
     tl: 'naka-lock na camera',
-    ro: 'Cameră blocată'
+    ro: 'Blochează camera'
   },
 
   // ---- Graphics
@@ -364,7 +364,8 @@ export default {
   uiscale: {
     en: 'Interface scale',
     ru: 'Масштаб интерфейса',
-    hi: 'अन्तराफलक का पैमाना'
+    hi: 'अन्तराफलक का पैमाना',
+    ro: 'Scala interfeţei'
   },
 
   tutorial: {
