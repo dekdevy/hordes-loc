@@ -22,7 +22,8 @@ export default {
       ht: 'Wi, montre mwen atik yo pou vann.',
       bg: 'Да, покажи ми елементите за продажба.',
       cs: 'Ano, ukaž mi věci na prodej.',
-      ja: 'はい、商品を見せてください。'
+      ja: 'はい、商品を見せてください。',
+      sv: 'Ja, visa mig objekten till salu.'
     }]
   }]
 }
