@@ -48,7 +48,24 @@ export default {
   throw: {
     en: 'You threw away $1',
     ru: 'Вы выбросили $1',
-    ro: 'Ai aruncat $1'
+    ro: 'Ai aruncat $1',
+    es: 'Tiraste a la basura el $1',
+    fr: 'Vous avez jeté $1',
+    de: 'Du hast $1 weggeworfen.',
+    pt: 'Deitaste fora a $1',
+    ko: '너는 버렸어 $1',
+    nl: 'Je hebt $1 weggegooid.',
+    pl: 'Wyrzuciłeś $1',
+    sv: 'Du kastade bort $1',
+    tr: '$1 \'i attın',
+    ht: 'Ou jete lwen $1',
+    it: 'Hai gettato via $1',
+    hi: 'आपने $1 को फेंक दिया',
+    tl: 'Nagtapon ka ng $1',
+    el: 'Πέσατε $1',
+    bg: 'Изхвърлихте $1',
+    cs: 'Odhodil jsi $1',
+    ja: 'あなたは捨てました$1',
   },
 
   full: {
@@ -122,7 +139,7 @@ export default {
     en: 'Use item',
     ru: 'Использовать',
     hi: 'इस्तमाल करे',
-    ro: 'Utilizează'
+    ro: 'Utilizează' 
   },
 
   spend: {
