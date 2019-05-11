@@ -57,7 +57,8 @@ export default [
     description: {
       en: 'Its curved to such an extent that it will snap any moment now.',
       ru: 'Лук настолько изогнут, что кажется будто он сейчас треснет.',
-      hi: 'इतना मुड़ा हुआ कि किसी भी समय आधे में टूट सकता है।'
+      hi: 'इतना मुड़ा हुआ कि किसी भी समय आधे में टूट सकता है।',
+      nl: 'Het is zo gebogen dat het elk moment kan breken.'
     }
   },
 
