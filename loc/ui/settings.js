@@ -365,7 +365,8 @@ export default {
     en: 'Interface scale',
     ru: 'Масштаб интерфейса',
     hi: 'अन्तराफलक का पैमाना',
-    ro: 'Scala interfeţei'
+    ro: 'Scala interfeţei',
+    pt: 'Escala de interface'
   },
 
   tutorial: {
