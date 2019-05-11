@@ -58,6 +58,7 @@ export default [
       en: 'Its curved to such an extent that it will snap any moment now.',
       ru: 'Лук настолько изогнут, что кажется будто он сейчас треснет.',
       hi: 'इतना मुड़ा हुआ कि किसी भी समय आधे में टूट सकता है।',
+      nl: 'Het is zo gebogen dat het elk moment kan breken.',
       ro: 'A fost curbat atât de tare încât ar putea să cedeze în orice clipă.'
     }
   },
