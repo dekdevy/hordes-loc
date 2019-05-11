@@ -154,7 +154,8 @@ export default {
     tl: 'Gamitin ang item',
     el: 'Χρησιμοποιήστε το στοιχείο',
     bg: 'Използвайте придмет',
-    cs: 'Použijte přidmet'
+    cs: 'Použijte přidmet',
+    ja: 'アイテムを使う'
   },
 
   spend: {
