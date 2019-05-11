@@ -168,7 +168,7 @@ export default [
       pl: 'Zimno i błękit, wisior kradnie twoje ciepło jako zapłatę za jego efekty...',
       cs: 'Studené a modré, přívěsek krade vaše teplo jako platbu za jeho účinky ...',
       ja: '寒さと青のペンダントはその効果の代償としてあなたの暖かさを盗みます...',
-      hi: 'शीत और नीले, पेंडेंट इसके प्रभाव के लिए एक भुगतान के रूप में अपने गर्मी चुरा ...',
+      hi: 'नीला और ठंडा, जैसे जैसे यह तावीज़ अपना जादू चलाता है, वैसे वैसे आपके तन की गर्मी छीनते जाता है...',
       sv: 'Kall och blått, hänget hänger din värme som en betalning för dess effekter ...',
       ko: '추위와 푸른 펜던트는 그 효과에 대한 지불로 당신의 온기를 훔칩니다 ...',
       ro: 'Rece și albastru, pandantivul îți fură căldura ca plată pentru efectele sale...'
@@ -218,7 +218,7 @@ export default [
       pl: 'Armie roztrwoniły ten drobiazg, ale wydaje ci się to bezwartościowe...',
       cs: 'Armády promrhaly tuto cetku, ale pro tebe to vypadá bezcenné ...',
       ja: '軍はこの装身具を浪費しましたが、それはあなたには価値がないようです...',
-      hi: 'नाओं इस ताबीज से अधिक गंवा अभी तक यह आप पर बेकार लगता है ...',
+      hi: 'बड़ी बड़ी सेनाएं इस तावीज के सामने ढ़ेर हों गई, ओर आपको यह बेकार लगता हैं...',
       sv: 'Armies slösas bort över den här trinketen men det verkar värdelöst för dig ...',
       ko: '군대는이 악귀 위에 낭비했지만 아직 너에게 쓸모없는 것처럼 보인다 ...',
       ro: 'Armate au fost irosite pentru acest bibelou, dar ție ți se pare lipsit de valoare...'
