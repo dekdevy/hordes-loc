@@ -123,5 +123,13 @@ export default {
     ru: 'Использовать',
     hi: 'इस्तमाल करे',
     ro: 'Utilizează'
+  },
+
+  spend: {
+    en: 'You have spent $1 coins'
+  },
+
+  auctionpost: {
+    en: 'You have posted $1 for sale'
   }
 }
