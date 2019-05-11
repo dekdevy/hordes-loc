@@ -139,7 +139,22 @@ export default {
     en: 'Use item',
     ru: 'Использовать',
     hi: 'इस्तमाल करे',
-    ro: 'Utilizează' 
+    ro: 'Utilizează',
+    es: 'Utilizar posición',
+    fr: 'Utiliser l\'article',
+    de: 'Element verwenden',
+    pt: 'Usar item',
+    ko: '항목 사용',
+    nl: 'Gebruik item',
+    pl: 'Pozycja użytkowa',
+    sv: 'Använd sak',
+    tr: 'Öğe kullan',
+    ht: 'Sèvi ak atik la',
+    it: 'Utilizzare la voce',
+    tl: 'Gamitin ang item',
+    el: 'Χρησιμοποιήστε το στοιχείο',
+    bg: 'Използвайте придмет',
+    cs: 'Použijte přidmet'
   },
 
   spend: {
