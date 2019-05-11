@@ -1,10 +1,10 @@
 export default {
   interactions: [{
     text: {
-      en: 'Auctioneer greeting text'
+      en: 'Merchant greeting text'
     },
     choices: [{
-      en: 'Yes, show me the auctions for sale.',
+      en: 'Yes, show me the items for sale.',
       pt: 'Sim, mostra-me os leilões à venda.',
       it: 'Sì, mostrami le aste in vendita.',
       ro: 'Da, arată-mi ce lucruri sunt de vânzare.',
@@ -16,7 +16,7 @@ export default {
       ru: 'Да, покажите мне аукционы на продажу.',
       el: 'Ναι, δείξτε μου τις δημοπρασίες προς πώληση.',
       tl: 'Oo, ipakita sa akin ang mga auction para mabili.',
-      de: 'Ja, zeigen Sie mir die zu verkaufenden Auktionen.'
+      de: 'Ja, ich will die Gegenstände auf dem Markt sehen.'
     }]
   }]
 }
