@@ -181,6 +181,25 @@ export default {
   },
 
   auctionpost: {
-    en: 'You have posted $1 for sale'
+    en: 'You have posted $1 for sale',
+    es: 'Ha contabilizado $1 para la venta',
+    fr: 'Vous avez mis $1 en vente',
+    de: 'Sie haben die $1 zum Verkauf angeboten.',
+    pt: 'Você postou $1 para venda',
+    ru: 'Вы выставили $1 на продажу.',
+    ko: '판매용으로 $1 를 게시했습니다.',
+    nl: 'U heeft $1 te koop aangeboden',
+    pl: 'Wysłałeś $1 na sprzedaż.',
+    sv: 'Du har skrivit $1 till salu',
+    tr: 'Satılık $1 gönderdiniz',
+    ht: 'Ou te afiche $1 pou vann',
+    it: 'Hai postato $1 in vendita',
+    hi: 'आपने बिक्री के लिए $1 पोस्ट किया है',
+    tl: 'Nag-post ka ng $1 para sa pagbebenta',
+    el: 'Έχετε δημοσιεύσει $1 προς πώληση',
+    bg: 'Публикували сте $1 за продажба',
+    cs: 'Zveřejnili jste $1 na prodej',
+    ja: 'あなたは販売のために $1 を投稿しました',
+    ro: 'Ați postat $1 de vânzare'
   }
 }
