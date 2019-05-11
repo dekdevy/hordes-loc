@@ -12,7 +12,12 @@ export default {
       pl: 'Tak, pokaż mi aukcje na sprzedaż.',
       es: 'Sí, muéstrame las subastas en venta.',
       nl: 'Ja, laat me de veilingen zien die te koop zijn',
-      fr: 'Oui, montrez-moi les enchères à vendre.'
+      fr: 'Oui, montrez-moi les enchères à vendre.',
+      pl: 'Tak, pokaż mi aukcje na sprzedaż.',
+      ru: 'Да, покажите мне аукционы на продажу.',
+      el: 'Ναι, δείξτε μου τις δημοπρασίες προς πώληση.',
+      tl: 'Oo, ipakita sa akin ang mga auction para mabili.',
+      de: 'Ja, zeigen Sie mir die zu verkaufenden Auktionen.'
     }]
   }]
 }
