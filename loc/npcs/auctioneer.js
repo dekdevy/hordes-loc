@@ -16,7 +16,13 @@ export default {
       ru: 'Да, покажите мне аукционы на продажу.',
       el: 'Ναι, δείξτε μου τις δημοπρασίες προς πώληση.',
       tl: 'Oo, ipakita sa akin ang mga auction para mabili.',
-      de: 'Ja, ich will die Gegenstände auf dem Markt sehen.'
+      de: 'Ja, ich will die Gegenstände auf dem Markt sehen.',
+      ko: '예, 판매용 제품을 보여주세요.',
+      tr: 'Evet, bana satılık eşyaları göster.',
+      ht: 'Wi, montre mwen atik yo pou vann.',
+      bg: 'Да, покажи ми елементите за продажба.',
+      cs: 'Ano, ukaž mi věci na prodej.',
+      ja: 'はい、商品を見せてください。'
     }]
   }]
 }
