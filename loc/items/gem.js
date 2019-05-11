@@ -28,7 +28,7 @@ export default [
   {
     name       : {$$: 'Melant' },
     description: {
-      en: 'Rough disc-shaped gray stone with strange druidical engravings encasing it.',
+      en: 'Rough disc-shaped gray stone with strange druidic engravings encasing it.',
       ru: 'Серый камень грубой дисковой формы со странной друидной гравюрой на его поверхности.',
       es: 'Rugoso con forma de disco gris pierda con extraños inscripción druídicos que lo cerrar.',
       de: 'Grober scheibenförmiger grauer Stein mit seltsamen druidischen Gravuren, die ihn umgeben.',
