@@ -55,7 +55,7 @@ export default [
   {
     name       : {$$: 'Curved shortbow'},
     description: {
-      en: 'Its curved to such an extent that it will snap any moment now.',
+      en: 'This bow is curved to such an extent that it will probably snap at any moment.',
       ru: 'Лук настолько изогнут, что кажется будто он сейчас треснет.',
       hi: 'इतना मुड़ा हुआ कि किसी भी समय आधे में टूट सकता है।',
       nl: 'Het is zo gebogen dat het elk moment kan breken.',
