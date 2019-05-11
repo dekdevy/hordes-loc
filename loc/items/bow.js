@@ -60,7 +60,21 @@ export default [
       hi: 'इतना मुड़ा हुआ कि किसी भी समय आधे में टूट सकता है।',
       nl: 'Het is zo gebogen dat het elk moment kan breken.',
       ro: 'A fost curbat atât de tare încât ar putea să cedeze în orice clipă.',
-      pt: 'A sua curvatura é tão grande que vai rebentar a qualquer momento.'
+      pt: 'Este arco é curvado a tal ponto que provavelmente se partirá a qualquer momento.',
+      fr: 'Cet arc est courbé à un point tel qu\'il va probablement se briser à tout moment.',
+      de: 'Dieser Bogen ist so stark gebogen, dass er wahrscheinlich jeden Moment einrasten wird. ',
+      es: 'Este arco está curvado hasta tal punto que probablemente se romperá en cualquier momento.',
+      pl: 'Ten łuk jest zakrzywiony do tego stopnia, że prawdopodobnie w każdej chwili pęknie.',
+      it: 'Questo arco è curvo a tal punto che probabilmente si spezzerà in qualsiasi momento.',
+      sv: 'Denna båge är krökt i en sådan utsträckning att det förmodligen kommer att snäppa när som helst.',
+      ht: 'Se banza sa a koube nan yon limit ke li pral pwobableman menen nan nenpòt ki moman.',
+      el: 'Αυτό το τόξο είναι καμπύλο σε τέτοιο βαθμό που πιθανότατα θα σπάσει ανά πάσα στιγμή.',
+      tl: 'Ang busog na ito ay may kurbatang sa isang lawak na ito ay maaaring snap sa anumang sandali.',
+      bg: 'Този лък е извит до такава степен, че вероятно ще се скъса във всеки момент.',
+      tr: 'Bu yay, muhtemelen herhangi bir anda kopacak şekilde kavislenir.',
+      cs: 'Tento luk je zakřivený do takové míry, že se v každém okamžiku pravděpodobně zaklapne.',
+      ja: 'この弓はそれがおそらくいつでもスナップするような程度に湾曲しています。',
+      ko: '이 활은 언제나 스냅 될 정도까지 구부러져 있습니다.'
     }
   },
 
