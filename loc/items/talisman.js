@@ -6,7 +6,7 @@ export default [
       ru: 'Пахнет просто отвратительно, я удивляюсь, что ты даже поднял его.',
       es: 'Huele tan mal que me pregunto por qué lo recogiste.',
       de: 'Riecht so übel, dass ich mich frage, warum du es überhaupt aufgehoben hast.',
-      hi: 'इसकी गंद इतनी ख़राब है, सोचता हु इसे उठाया ही क्यू अपने।',
+      hi: 'कितना बदबूदार है, इसे उठाया हि क्यू।',
       fr: 'Il sent si mauvais. Je me demande pourquoi tu l\'as ramassé.',
       it: 'C\'e\' un odore cosi\' forte, mi chiedo perche\' l\'hai preso.',
       pt: 'Cheira tão mal que me pergunto porque é que o apanhaste.',
@@ -42,7 +42,7 @@ export default [
       pl: 'Płytka na ramię niektórych stworzeń radzi sobie dobrze, jak również przenośny sprzęt do jedzenia.',
       cs: 'Ramenní deska nějakého stvoření se dobře hodí jako přenosné nádobí.',
       ja: 'いくつかの生き物の肩甲板は携帯用食器としてもうまくいく。',
-      hi: 'कुछ प्राणी किरायों में अच्छी तरह से एक पोर्टेबल खाने बर्तन के कंधे प्लेट।',
+      hi: 'किसी जानवर के कन्धे कि हड्डी, भोजन करने के लिए अच्छा बर्तन है।',
       sv: 'Axelplattan hos någon varelse är bra som bärbar matredskap.',
       ko: '어떤 생물의 어깨 판은 휴대용 먹는기구로 잘 먹습니다.',
       ro: 'Armura de umăr a unei craturi, poate fi folosită pe post de ustensilă de mâncat portabilă.'
@@ -67,7 +67,7 @@ export default [
       pl: 'Ciężki naszyjnik, wygładzony i wypolerowany na oślepienie podczas bitwy.',
       cs: 'Těžký náhrdelník, hladký a leštěný, aby vás během bitvy oslepil.',
       ja: 'ヘビーネックレスは戦いの間あなたを盲目にするために滑らかにされて、磨かれました。',
-      hi: 'भारी हार, चिकनी और लड़ाई के दौरान आपको अंधा करने के लिए पॉलिश।',
+      hi: 'भारी हार, इतना चिकना और चमकीला कि युद्ध में आप अंधे हो जाएंगे।',
       sv: 'Tung halsband, slät och polerat för att blinda dig under striden.',
       ko: '무거운 목걸이, 부드럽게하고 광택이 전투 중에 눈이 멀게.',
       ro: 'Colier greu, netezit și lustruit pentru a te orbi în timpul luptei.'
@@ -92,7 +92,7 @@ export default [
       pl: 'Wstrętny kąsek z zeszłorocznych zbiorów.',
       cs: 'Hnije z poslední sklizně.',
       ja: '去年の収穫からの腐った小片。',
-      hi: 'पिछले साल फसल से एक सड़ा हुआ निवाला।',
+      hi: 'पिछले साल की फसल का बचा-खुचा बासी टुकड़ा।',
       sv: 'En skrämmande parti från senaste års skörd.',
       ko: '작년 수확 한 부패한 음식물.',
       ro: 'O bucățică putredă din recolta de anul trecut.'
@@ -117,7 +117,7 @@ export default [
       pl: 'Cienki plaster granitu, idealny do odbijania się w poprzek fali jeziora.',
       cs: 'Tenký plátek žuly, perfektní k odrazení přes vlnky jezera.',
       ja: '花崗岩の薄片は湖の波紋を越えて跳ねるのに最適です。',
-      hi: 'पतला, ग्रेनाइट का टुकड़ा, झील की लहरों के पार उछल के लिए एकदम सही।',
+      hi: 'ग्रेनाइट पत्थर का पतला टुकड़ा, नदी की सतह पर फ़ेकिए और यह बड़ी पूर्णता से उछलेगा।',
       sv: 'Tunt skiva granit, perfekt för studsande över vattendragen på sjön.',
       ko: '화강암의 얇은 조각, 호수의 잔물결을 통해 수신 거부에 대한 완벽한.',
       ro: 'Felie subțire de granit, perfectă pentru a sări peste valurile unui lac.'
@@ -142,7 +142,7 @@ export default [
       pl: 'Błyszcząca srebrna tkanina mówi, że została skradziona samej Afrodycie.',
       cs: 'Třpytivá stříbrná tkanina, která měla být ukradnuta od Afrodity sama.',
       ja: 'きらめく銀の布はアフロディーテ自身から盗まれたと言われています。',
-      hi: 'झिलमिलाता चांदी कपड़े सौंदर्य खुद की देवी से चोरी हो करने के लिए कहा।',
+      hi: 'स्वयम प्यार की देवी से चुराया गया चमचमाते चांदी का कपडा।',
       sv: 'Skimrande silver tyg sägs vara stulen från Afrodite själv.',
       ko: '아프로디테 자신으로부터 도난당한 은색 직물이 반짝 반짝 빛났다.',
       ro: 'Se spune că materialul argintiu sclipitor a fost furat chiar de la Afrodita.'
