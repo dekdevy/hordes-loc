@@ -65,7 +65,7 @@ export default {
     el: 'Πέσατε $1',
     bg: 'Изхвърлихте $1',
     cs: 'Odhodil jsi $1',
-    ja: 'あなたは捨てました$1',
+    ja: 'あなたは捨てました$1'
   },
 
   full: {
