@@ -159,11 +159,13 @@ export default {
   },
 
   stash: {
-    en: 'Move to stash'
+    en: 'Move to stash',
+    pt: 'Mover para o esconderijo'
   },
 
   stashed: {
-    en: '$1 has been moved to your stash'
+    en: '$1 has been moved to your stash',
+    pt: '$1 foi transferido para o seu esconderijo'
   },
 
   spend: {
