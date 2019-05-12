@@ -59,7 +59,7 @@ export default [
     name       : {$$: 'Carving of Dimensions' },
     description: {
       en: 'Torn from the patterns of the dimension, this demonic totem submerges the frail minds of your foes under a cloud of ghastly hallucinations.',
-      ro: 'Smuls din tiparele dimensiunii, acest totem demonic scufundă mințile fragile ale dușmanilor tăi într-un un nor de halucinații îngrozitoare.''
+      ro: 'Smuls din tiparele dimensiunii, acest totem demonic scufundă mințile fragile ale dușmanilor tăi într-un un nor de halucinații îngrozitoare.'
     }
   },
 
