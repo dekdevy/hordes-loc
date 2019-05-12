@@ -20,7 +20,7 @@ export default [
       ja: '柔らかい穴だらけ。矢印は抜け続けます。',
       sv: 'Mjuk, full av hål. Pilarna fortsätter att falla ut.',
       ko: '부드러운, 구멍 가득. 화살표는 계속 떨어지고 있습니다.',
-      ro: 'Moale, plină de găuri. Săgețile continuă să cadă.'  
+      ro: 'Moale, plină de găuri. Săgețile continuă să cadă.'
     }
   },
 
@@ -59,7 +59,7 @@ export default [
       ja: 'リネンの袋は硬い革で覆われています。',
       sv: 'Linnesäck täckt av styvt läder.',
       ko: '리넨 자루는 뻣뻣한 가죽으로 덮여 있습니다.',
-      ro: 'Sac din in acoperit cu piele rigidă.'    
+      ro: 'Sac din in acoperit cu piele rigidă.'
     }
   },
 
@@ -91,7 +91,7 @@ export default [
       ja: 'あなたが矢を引き出すたびにそれはあなたに向かっている。',
       sv: 'Varje gång du drar en pil ut hissar den på dig.',
       ko: '당신이 화살을 꺼낼 때마다, 그것은 당신에게 겁을줍니다.',
-      ro: 'De fiecare dată când scoți o săgeată, te sâsâie.'    
+      ro: 'De fiecare dată când scoți o săgeată, te sâsâie.'
     }
   },
 
@@ -116,7 +116,7 @@ export default [
       ja: 'きらめくダイヤモンドでコーティングされたエルフの矢筒。',
       sv: 'Koger av älvor belagda i skimrande diamant.',
       ko: '엘프 떨림이 반짝이는 다이아몬드로 코팅되었습니다.',
-      ro: 'Tolbă a elfilor acoperită cu diamante sclipitoare.'    
+      ro: 'Tolbă a elfilor acoperită cu diamante sclipitoare.'
     }
   },
 
