@@ -20,7 +20,7 @@ export default [
       ja: '文字通り木の正方形の板。',
       sv: 'Bokstavligen en fyrkantig planka av trä.',
       ko: '말 그대로 나무의 정연한 판자.',
-      ro: 'Literalmente o scândură pătrată de lemn.' 
+      ro: 'Literalmente o scândură pătrată de lemn.'
     }
   },
 
@@ -168,7 +168,7 @@ export default [
       ja: '黒曜石とスチールから作られました。誰かがそれを黄色く塗ろうとしました。彼らは失敗しました。悲惨なことに。',
       sv: 'Tillverkad av obsidian och stål. Någon försökte att måla den gul. De misslyckades. Eländigt.',
       ko: '흑요석과 강철로 만들었습니다. 누군가는 그것을 황당하게 노란 색으로 칠하려고했습니다. 그들은 실패했다.',
-      ro: 'Făcut din obsidian și oțel. Cineva neglijent a încercat să-l vopsească în galben. A eșuat. Mizerabil.'    
+      ro: 'Făcut din obsidian și oțel. Cineva neglijent a încercat să-l vopsească în galben. A eșuat. Mizerabil.'
     }
   },
 
