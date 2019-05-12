@@ -47,7 +47,7 @@ export default [
       ht: 'Wouj disk ki gen fòm wòch gri ak etranj grave ekri dris encasing li.',
       sv: 'Grov skivformad grå sten med konstiga druidiska gravyrer som omsluter den.',
       ko: '거친 디스크 모양의 회색 돌에 이상한 사제 조각이 들어 있습니다.',
-      ro: 'Piatră cenușie în formă de disc, cu niște gravuri druidice ciudate încastrate.'
+      ro: 'Piatră cenușie în formă de disc, ce are niște gravuri druidice ciudate încrustate în ea.'
     }
   },
 
@@ -175,7 +175,8 @@ export default [
       ja: '深みのある暗い割れ目に囲まれたこの真っ赤な宝石は、あなたの敵に嫉妬の感覚を与えます。',
       ht: 'Gwo wòch sa a wouj ki fèmen nan gwo twou san fon fant nwa bay lènmi ou yo yon sans jalouzi.',
       sv: 'Denna stora röda sten som är innesluten i avgrunds mörka sprickor ger dina fiender en känsla av svartsjuka.',
-      ko: '어두운 붉은 균열에 둘러싸인 웅장한 빨간 돌은 당신의 원수에게 질투심을 부여합니다.'
+      ko: '어두운 붉은 균열에 둘러싸인 웅장한 빨간 돌은 당신의 원수에게 질투심을 부여합니다.',
+      ro: 'Această enormă piatră roșie înconjurată de fisuri negre abisale, oferă dușmanilor tăi un sentiment de gelozie.'
     }
   },
 
