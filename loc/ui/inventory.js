@@ -162,6 +162,10 @@ export default {
     en: 'Move to stash'
   },
 
+  stashed: {
+    en: '$1 has been moved to your stash'
+  },
+
   spend: {
     en: 'You have spent $1 coins',
     ru: 'Вы потратили $1 монет.',
