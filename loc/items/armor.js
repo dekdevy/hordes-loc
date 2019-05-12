@@ -230,7 +230,7 @@ export default [
       ja: '未知の渓谷で鍛造され、それはあなたの弱い、肉質の体を保護します。',
       sv: 'Smidd i okända dalar, det ger skydd för din svaga köttiga kropp.',
       ko: '미지의 계곡에서 위조되어있어 약한 육체를 보호합니다.',
-      ro: 'Forjat în văi necunoscute, aceasta oferă protecție pentru corpul tău slab, carnos.'
+      ro: 'Forjată în văi necunoscute, îți oferă protecție pentru corpul tău slab, cărnos.'
     }
   },
 
