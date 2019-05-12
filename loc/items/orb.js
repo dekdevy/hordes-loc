@@ -175,9 +175,9 @@ export default [
   },
 
   {
-    name       : {$$: 'Cyclope\'s Eye' },
+    name       : {$$: 'Cyclops\'s Eye' },
     description: {
-      en: 'The ancient cyclops terrorizing these lands was finally killed, allowing you to scavenge this grim souvenir.',
+      en: 'An ancient cyclops terrorizing these lands was finally killed, allowing you to scavenge this grim souvenir.',
       ru: 'Древний циклоп, терроризирующий эти земли был наконец убит, позволив вам получить этот мрачный сувенир.',
       de: 'Der alte Zyklop, der diese Länder terrorisiert hat, wurde schließlich getötet, so dass Sie dieses düstere Souvenir entsorgen können.',
       fr: 'Les anciens cyclopes qui terrorisaient ces terres ont finalement été tués, ce qui vous a permis de récupérer ce sinistre souvenir.',
@@ -194,7 +194,7 @@ export default [
       ja: 'これらの土地を脅迫している古代サイクロプスはついに殺され、あなたはこの厳しいお土産を掃除することができました。',
       sv: 'De antika cyklops som terroriserar dessa länder blev äntligen dödade, så att du kunde scavenge denna dystra souvenir.',
       ko: '이 토지를 공포에 떨게하는 고대의 살인 사건은 마침내 죽임을 당했고, 당신은이 끔찍한 기념품을 청소할 수있었습니다.',
-      ro: 'Anticii ciclopi care terorizau aceste ținuturi au fost în sfârșit uciși, permițându-ți să sapi după acest suvenir sumbru.',
+      ro: 'Un ciclop antic care teroriza aceste ținuturi a fost în sfârșit ucis, permițându-ți să sapi după acest suvenir sumbru.',
       tl: 'Ang mga sinaunang cyclops ng mga terorismo sa mga lupain ay sa wakas ay pinatay, na nagpapahintulot sa iyo na mag-scavenge ng mabangong souvenir na ito.'
     }
   },
@@ -252,25 +252,25 @@ export default [
   {
     name       : {$$: 'Silthrim' },
     description: {
-      en: 'Enigmatic emerald green sphere, enveloped in fine engravings of serpentine prophecies, enticing fame and serendipity to its naive bearer.',
-      ru: 'Таинственная изумрудно-зеленая сфера, окутанная тонкой гравюрой змеиных пророчеств, привлекая славу и интуицию своему наивному обладателю.',
-      de: 'Enigmatische smaragdgrüne Kugel, umhüllt von feinen Gravuren serpentinischer Prophezeiungen, die Ruhm und Glücksfall zu ihrem naiven Träger verleiten.',
-      fr: 'Sphère énigmatique vert émeraude, enveloppée de fines gravures de prophéties serpentines, séduisant gloire et sérendipité à son porteur naïf.',
-      nl: 'Enigmatische smaragdgroene bol, gehuld in fijne gravures van kronkelige profetieën, die roem en serendipiteit verleidt tot zijn naïeve drager.',
-      es: 'Enigmática esfera verde esmeralda, envuelta en finos grabados de profecías serpenteantes, atrayendo fama y serendipia a su ingenuo portador.',
-      bg: 'Енигматична изумруденозелена сфера, обгърната от изящни гравюри на серпентини, привличащи славата и отдалечеността към наивния си носител.',
-      el: 'Η αινιγματική σμαραγδένια πράσινη σφαίρα που περιβάλλεται από ωραία χαρακτικά των οφιοειδών προφητειών που δελεάζουν τη φήμη και την απόλαυση στον αφελλό φορέα της.',
-      hi: 'रहस्यमयी पन्ने सा हर गोला, धूर्त भविषयवानियो से उत्कीर्ण, अपने धारक को शोहरत और नसीब का मोह देने वाला।',
-      ht: 'Enigm sifas vèt emwòd, anvlòpki nan grave amann nan pèrfid pwofesi, atiran t\'ap nonmen non ak serendipity pote l \'naif.',
-      it: 'Enigmatica sfera verde smeraldo, avvolta da raffinate incisioni di serpentine profezie, attirando fama e serendipità al suo ingenuo portatore.',
-      pt: 'Esfera verde esmeralda enigmática, envolvida em gravuras finas de profecias serpentinas, atraindo fama e serendipidade ao seu portador ingênuo.',
-      pl: 'Enigmatyczna sfera szmaragdowej zieleni, otoczona drobnymi rycinami przepowiedni serpentynowych, wabiąca sławę i serdeczność do swojego naiwnego nosiciela.',
-      cs: 'Tajemná smaragdově zelená koule, obklopená jemnými rytinami serpentinských proroctví, která svému naivnímu nositeli láká slávu a serendipity.',
-      ja: '謎めいたエメラルドグリーンの球体は、その素朴な支持者に名声とセレンディピティを誘う蛇紋岩の予言の細かい彫刻に包まれていました。',
-      sv: 'Enigmatisk smaragdgrön sfär, inramad i fina graveringar av serpentin profetior, lockande berömmelse och serendipity till sin naiva bärare.',
-      ko: '수수께끼 같은 에메랄드 색의 녹색 구체로 뱀 모양의 예언의 조각으로 장식되어 순진한 소지자에게 명성과 뜻밖의 유혹을 불러 일으 킵니다.',
-      ro: 'Enigmatică sferă verde de smarald, învăluită în gravuri fine de profeții serpentine, ademenește faima și serendipitate pentru posesorul său naiv.',
-      tl: 'Ang mahiwagang esmeralda na globo, napapalibutan ng mga pinong ukit ng mga hula ng serpentine, nakakaakit ng katanyagan at serendipity sa walang muwang bearer nito.'
+      en: 'Enigmatic emerald green sphere, enveloped in fine engravings of serpentine prophecies which entice fame and serendipity to its bewitched bearer.',
+      ru: 'Таинственная изумрудно-зеленая сфера, окутанная тонкой гравюрой коварных пророчеств которые привлекают славу и интуицию своему околдованному носителю.',
+      es: 'Enigmática esfera verde esmeralda, envuelta en finos grabados de profecías serpenteantes que atraen la fama y la serendipia a su portador embrujado.',
+      fr: 'Sphère énigmatique vert émeraude, enveloppée de fines gravures de prophéties serpentines qui attirent la gloire et la sérendipité de son porteur ensorcelé.',
+      de: 'Rätselhafte smaragdgrüne Kugel, umhüllt von feinen Gravuren serpentinischer Prophezeiungen, die Ruhm und Glücksfall zu ihrem verhexten Träger verleiten.',
+      pt: 'Esfera verde esmeralda enigmática, envolvida em gravuras finas de profecias serpentinas que seduzem a fama e a serendipicidade ao seu portador enfeitiçado.',
+      ko: '수수께끼 같은 에메랄드 색의 녹색 구체로, 뱀 모양의 예언의 조각으로 감싸여 있고,',
+      nl: 'Enigmatische smaragdgroene bol, gehuld in fijne gravures van kronkelige profetieën die roem en serendipiteit verleiden tot zijn betoverde drager.',
+      pl: 'Enigmatyczna szmaragdowa zielona kula, otoczona drobnymi rycinami przepowiedni serpentynowych, które zwabiły sławę i zaczarowały jej nosiciela.',
+      sv: 'Enigmatisk smaragdgrön sfär, inramad i fina graveringar av serpentin profetior som lockar berömmelse och serendipity till sin förtrollade bärare',
+      ht: 'Enigm esfè vèt emwòd, anvlope nan grave amann nan Serpentin pwofesi ki fè lasisiy t\'ap nonmen non ak serendipity bay gason li yo te ka',
+      it: 'Enigmatica sfera verde smeraldo, avvolta da raffinate incisioni di serpentine profezie che attirano fama e serendipità al suo stregato portatore.',
+      hi: 'रहस्यपूर्ण पन्ना हरे रंग का गोला, सर्पीन भविष्यवाणियों के ठीक उत्कीर्णन में लिप्त है जो प्रसिद्धि और अपने भोले भालू के प्रति गंभीरता को दर्शाता है',
+      tl: 'Enigmatic emerald green sphere, napapalibutan ng mga pinong ukit ng mga propesiya ng mga serpentine na nakakaakit ng katanyagan at kayamanan sa napakahalayong maydala nito',
+      el: 'Αινιγματική σμαραγδένια πράσινη σφαίρα, περιτυλιγμένη με ωραία χαρακτικά των οφιοειδών προφητειών που παρασύρουν τη φήμη και τον πλούτο στον γοητευμένο φορέα',
+      bg: 'Енигматична изумруденозелена сфера, обгърната от изящни гравюри на серпентини, които привличат славата и богатството на своя омагьосан носител',
+      cs: 'Tajemná smaragdově zelená koule, obklopená jemnými rytinami hadovitých proroctví, která lákají slávu a bohatství ke svému okouzlujícímu nositeli',
+      ja: '不思議なエメラルドグリーンの球体、その妖艶な持ち主に名声と富を惹きつける蛇紋岩の予言の細かい彫刻に包まれて',
+      ro: 'Enigmatică sferă verde de smarald, învăluită în gravuri fine de profeții perfizi, atrage faimă și serendipitate purtătorului ei vrăjit.'
     }
   },
 
@@ -353,7 +353,7 @@ export default [
     name       : {$$: 'Darthrai' },
     description: {
       en: 'Dark, deadly and demonic, an orb encased in small craters filled with blood-red gems, weaving sheets of terror into those who oppose you.',
-      ru: 'Темная, смертоносная и демоническая, сфера облицованая маленькими кратерами, заполненными кроваво-красными драгоценными камнями, вплетает ужас тем, кто против вас.',
+      ru: 'Темная, смертоносная и демоническая, сфера облицованая маленькими кратерами, заполненными кроваво-красными драгоценными камнями, вплетает ужас в тех, кто против вас.',
       de: 'Dunkel, tödlich und dämonisch, eine Kugel, die von kleinen Kratern voller blutroter Edelsteine umgeben ist, die Schreckensblätter in diejenigen einweben, die sich dir widersetzen.',
       fr: 'Sombre, mortel et démoniaque, un globe encastré dans de petits cratères remplis de pierres précieuses rouge sang, tissant des feuilles de terreur en ceux qui vous opposent.',
       nl: 'Donker, dodelijk en duivels, een orb, omgeven door kleine kraters gevuld met bloedrode edelstenen, die met schrik weven vellen van terreur in degenen die zich tegen je verzetten.',

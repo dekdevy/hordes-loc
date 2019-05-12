@@ -3,7 +3,7 @@ export default [
     name       : {$$: 'Linen Pouch' },
     description: {
       en: 'Small little purse used by merchant\'s wives.',
-      ru: 'маленькая сумочка раньше использована женами купцов.',
+      ru: 'Маленькая сумочка, раньше использованая женами купцов.',
       de: 'Kleine kleine Geldbörse, die von den Ehefrauen der Händler benutzt wird.',
       es: 'Una bolsa linda utilizado por las esposas de comerciantes.',
       fr: 'De petites sacoches utilisées par les épouses des marchands.',
@@ -19,7 +19,7 @@ export default [
       tr: 'Tüccarların eşleri tarafından kullanılan küçük minik çanta.',
       sv: 'Liten liten handväska som används av köpmännen.',
       ht: 'Valiz ti kras la itilize yo dwe itilize pa madanm yo nan komèsan yo.',
-      hi: 'छोटे छोटे व्यापारी की पत्नियों द्वारा प्रयोग किया जाता पर्स।',
+      hi: 'व्यपारीयो की पत्नीयों द्वारा इस्तमाल की जाने वाली पर्स।',
       ko: '상인의 아내가 사용하는 작은 지갑.',
       ro: 'O mică poșetă folosită de soțiile negustorilor.'
     }
@@ -45,7 +45,7 @@ export default [
       tr: 'Tokası geri kalanından daha değerli.',
       sv: 'Spännet är värt mer än resten av det.',
       ht: 'Bouk la vo pi plis pase nenpòt lòt bagay.',
-      hi: 'बकसुआ बाकी की तुलना में अधिक के लायक है।',
+      hi: 'इसका बकसुआ बाकी की पोटली से ज़्यादा कीमती है।',
       ko: '버클은 그 나머지 부분보다 더 가치가 있습니다.',
       ro: 'Catarama merită mai mult decât restul.'
     }
@@ -71,7 +71,7 @@ export default [
       tr: 'Tüm seyahat ihtiyaçlarınız için güzel mor sırt çantası.',
       sv: 'Trevlig lila ryggsäck för alla dina resebehov.',
       ht: 'Valiz valiz bèl pou nenpòt ki vwayajè bezwen yo.',
-      hi: 'अपने सभी यात्रा की जरूरत के लिए अच्छा बैंगनी रूकसाक।',
+      hi: 'यात्रा में आपकी सारी जरूरतों के लिए एक अच्छा बैंगनी बस्ता।',
       ko: '모든 여행에 필요한 멋진 보라색 배낭.',
       ro: 'Un rucsac frumos violet pentru toate nevoile tale.'
     }

@@ -1,28 +1,29 @@
 export default {
 
-  settings: {
-    en: 'settings',
+  name: {
+    en: 'Settings',
     ru: 'Настройки',
     hi: 'सेटिंग्स',
-    es: 'configuración',
+    es: 'Configuración',
     de: 'Einstellungen',
-    fr: 'paramétrage',
-    nl: 'instellingen',
-    tr: 'ayarlar',
+    fr: 'Paramétrage',
+    nl: 'Instellingen',
+    tr: 'Ayarlar',
     pt: 'Ajustes',
-    pl: 'nastawy',
-    ht: 'ajisteman',
-    it: 'impostazioni',
+    pl: 'Nastawy',
+    ht: 'Ajisteman',
+    it: 'Impostazioni',
     ko: '설정',
-    cs: 'nastavení',
+    cs: 'Nastavení',
     ja: '設定',
-    sv: 'inställningar',
+    sv: 'Inställningar',
     bg: 'настройки',
     el: 'Ρυθμίσεις',
-    tl: 'mga setting',
-    ro: 'setări'
+    tl: 'Mga setting',
+    ro: 'Setări'
   },
 
+  // ---- Controls
   controls: {
     en: 'controls',
     ru: 'Управление',
@@ -66,30 +67,48 @@ export default {
     bg: 'Заключена камера',
     el: 'Κλειδωμένη κάμερα',
     tl: 'naka-lock na camera',
-    ro: 'Cameră blocată'
+    ro: 'Blochează camera'
   },
 
+  // ---- Graphics
   graphics: {
-    en: 'graphics',
+    en: 'Graphics',
     ru: 'Графика',
     hi: 'ग्राफ़िक्स',
-    es: 'gráficos',
-    de: 'Grafiken',
+    es: 'Gráficos',
+    de: 'Grafik',
     fr: 'schémas',
-    nl: 'grafischen',
-    tr: 'grafikler',
-    pt: 'gráficos',
-    pl: 'grafika',
-    ht: 'grafik',
-    it: 'grafica',
+    nl: 'Grafischen',
+    tr: 'Grafikler',
+    pt: 'Gráficos',
+    pl: 'Grafika',
+    ht: 'Grafik',
+    it: 'Grafica',
     ko: '제도법',
-    cs: 'grafika',
+    cs: 'Grafika',
     ja: 'グラフィックス',
-    sv: 'grafik',
-    bg: 'графики',
+    sv: 'Grafik',
+    bg: 'графика',
     el: 'γραφικών',
-    tl: 'grapika',
-    ro: 'grafică'
+    tl: 'Grapika',
+    ro: 'Grafică'
+  },
+
+  viewrange: {
+    en: 'View range',
+    ru: 'Дальность прорисовки',
+    de: 'Sichtweite',
+    nl: 'Weergavebereik',
+    pt: 'Ver gama',
+    pl: 'Zakres widoków',
+    it: 'Visualizza la gamma',
+    ro: 'Câmp vizual',
+    es: 'Ver gama',
+    sv: 'Visa intervall',
+    el: 'Προβολή εύρους',
+    bg: 'Преглед на обхвата',
+    cs: 'Zobrazit rozsah',
+    hi: 'नज़र सीमा'
   },
 
   resolution: {
@@ -132,7 +151,7 @@ export default {
     cs: 'Dovednostní efekty',
     ja: 'スキル効果',
     sv: 'Färdighetseffekter',
-    bg: 'Ефекти на уменията',
+    bg: 'Ефекти',
     el: 'Επιπτώσεις δεξιοτήτων',
     tl: 'Mga epekto sa kasanayan',
     ro: 'Efectele abilităților'
@@ -184,6 +203,43 @@ export default {
     ro: 'Cantitatea de iarbă'
   },
 
+  // ---- Audio
+  audio: {
+    en: 'Audio',
+    ru: 'Звук',
+    de: 'Ton',
+    nl: 'Geluid',
+    pt: 'Áudio',
+    pl: 'Dźwięk',
+    it: 'Audio',
+    ro: 'Audio',
+    es: 'Audio',
+    sv: 'Audio',
+    el: 'Ήχος',
+    bg: 'звуков',
+    cs: 'Вук',
+    hi: 'आवाज़'
+  },
+
+  // "SFX Loudness" is better in some cases
+  sfxvolume: {
+    en: 'SFX Volume',
+    ru: 'Громкость эффектов',
+    de: 'SFX Lautstärke',
+    nl: 'SFX Harder',
+    pt: 'Volume de SFX',
+    pl: 'Objętość SFX',
+    it: 'Volume SFX',
+    ro: 'Volum SFX',
+    es: 'Volumen SFX',
+    sv: 'SFX Volym',
+    el: 'Ενταση SFX',
+    bg: 'гръмкостта SFX',
+    cs: 'Objem SFX',
+    hi: 'इफैक्ट्स की आवाज़'
+  },
+
+  // ---- Chat
   chat: {
     en: 'chat',
     ru: 'Чат',
@@ -253,9 +309,69 @@ export default {
     ro: 'Înălțime chat'
   },
 
+  // ---- User interface
+  interface: {
+    en: 'Interface',
+    ru: 'Интерфейс',
+    de: 'Interface',
+    pt: 'interface',
+    pl: 'Interfejs',
+    nl: 'Interface',
+    it: 'interfaccia',
+    ro: 'Interfață',
+    es: 'Interactuar',
+    sv: 'Gränssnitt',
+    el: 'Διεπαφή',
+    bg: 'интерфейс',
+    cs: 'Rozhraní',
+    hi: 'अन्तराफलक'
+  },
+
+  language: {
+    en: 'Language',
+    ru: 'Язык',
+    de: 'Sprache',
+    nl: 'Taal',
+    pt: 'Idioma',
+    pl: 'Język',
+    it: 'Lingua',
+    ro: 'Limbă',
+    es: 'Idioma',
+    sv: 'Språk',
+    el: 'Γλώσσα',
+    bg: 'език',
+    cs: 'Jazyk',
+    hi: 'भाषा'
+  },
+
+  invwidth: {
+    en: 'Inventory width',
+    ru: 'Ширина инвентаря',
+    de: 'Inventar Breite',
+    nl: 'Inventarisbreedte',
+    pt: 'Largura do estoque',
+    pl: 'Szerokość inwentarza',
+    it: 'Larghezza dell\'inventario',
+    ro: 'Lățimea inventarului',
+    es: 'Ancho de inventario',
+    sv: 'Lager bredd',
+    el: 'Εύρος αποθέματος',
+    bg: 'Ширина инвентаря',
+    cs: 'Šířka inventáře',
+    hi: 'वस्तुसूची की चौड़ाई'
+  },
+
+  uiscale: {
+    en: 'Interface scale',
+    ru: 'Масштаб интерфейса',
+    hi: 'अन्तराफलक का पैमाना',
+    ro: 'Scala interfeţei',
+    pt: 'Escala de interface'
+  },
+
   tutorial: {
     en: 'tutorial',
-    ru: 'Учебник',
+    ru: 'туториал',
     hi: 'शिक्षण',
     es: 'tutorial',
     de: 'Tutorial',
@@ -270,7 +386,7 @@ export default {
     cs: 'výuku',
     ja: 'チュートリアル',
     sv: 'handledning',
-    bg: 'настойнически',
+    bg: 'Учение',
     el: 'φροντιστήριο',
     tl: 'pagtuturo',
     ro: 'tutorial'
@@ -278,7 +394,7 @@ export default {
 
   reset: {
     en: 'Reset tutorial',
-    ru: 'Начать учебник заново',
+    ru: 'Начать туториал заново',
     hi: 'शिक्षण रीसेट',
     es: 'Reiniciar tutorial',
     de: 'Tutorial zurücksetzen',

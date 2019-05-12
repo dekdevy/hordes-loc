@@ -7,7 +7,7 @@ export default {
     de: 'Okay',
     hi: 'ठीक',
     fr: 'D\'accord',    // TODO: shorten
-    es: 'De acuerdo',   // TODO: shorten
+    es: 'Bien',
     tr: 'Tamam',
     nl: 'Okee',
     pt: 'Está bem.',    // TODO: shorten, no puncts
@@ -30,11 +30,11 @@ export default {
     hi: 'पिछला',
     fr: 'Retour',
     de: 'Zurück',
-    es: 'Espalda', //TODO: shorten
+    es: 'Atras',
     nl: 'Terug',
     tr: 'Geri',
     pt: 'Voltar',
-    pl: 'Popierać',  // TODO: shorten
+    pl: 'Wstecz',
     ht: 'Retounen',  // TODO: shorten
     ko: '뒤로가기',   // TODO: shorten ?
     it: 'Dietro',
@@ -49,7 +49,7 @@ export default {
   accept: {
     en: 'Accept',
     sv: 'Acceptera',
-    ru: 'принять',
+    ru: 'Принять',
     hi: 'स्वीकार करना',
     fr: 'Acceptez',
     de: 'Akzeptieren',
@@ -63,7 +63,7 @@ export default {
     it: 'Accettare',
     cs: 'Akceptovat',
     ja: '受け入れる',
-    bg: 'приемам',
+    bg: 'Приемам',
     el: 'Αποδέχομαι',
     tl: 'Tanggapin',
     ro: 'Acceptă'
@@ -73,7 +73,7 @@ export default {
   decline: {
     en: 'Decline',
     sv: 'Nedgång',
-    ru: 'отказать',
+    ru: 'Отказать',
     hi: 'पतन',
     fr: 'Déclin',
     de: 'Ablehnen',
@@ -87,7 +87,7 @@ export default {
     it: 'Diminuzione',
     cs: 'Pokles',
     ja: '低下',
-    bg: 'упадък',
+    bg: 'Отказвам',
     el: 'Πτώση',
     tl: 'Tanggihan',
     ro: 'Refuză'
@@ -96,7 +96,7 @@ export default {
   close: {
     en: 'Close',
     sv: 'Stänga',
-    ru: 'закрит',
+    ru: 'Закрыть',
     hi: 'बंद करे',
     fr: 'Fermer',
     de: 'Schließen',
@@ -110,7 +110,7 @@ export default {
     it: 'Chiudi',
     cs: 'Zavřít',
     ja: '閉じる',
-    bg: 'Близо',
+    bg: 'Затвори',
     el: 'Κοντά',
     tl: 'Isara',
     ro: 'Închide'

@@ -17,7 +17,7 @@ export default {
       tr: 'Hoş geldin dolaşan gezgin! Bir şeyler satmak ister misin?',
       sv: 'Hälsningar vandrande resenären! Vill du sälja något?',
       ko: '안녕 방랑 여행자! 뭔가 팔고 싶니?',
-      bg: 'Поздрави пътешественик! Искате ли да продадете нещо?',
+      bg: 'Поздрави пътешественико! Искате ли да продадете нещо?',
       el: 'Χαιρετισμοί περιπλανώμενος ταξιδιώτης!  Θα θέλατε να πουλήσετε κάτι',
       ro: 'Salutări călător rătăcitor! Ți-ar plăcea să vinzi ceva?',
       tl: 'Pagbabati ng mga biyahero! Gusto mo bang magbenta ng isang bagay?'

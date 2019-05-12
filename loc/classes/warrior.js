@@ -19,7 +19,7 @@ export default {
     tl: 'Mandirigma',
     ja: '戦士',
     el: 'Πολεμιστής',
-    bg: 'войн',
+    bg: 'Войн',
     ro: 'Războinic'
   },
   // Class description, visible during character creation
@@ -36,13 +36,13 @@ export default {
     nl: 'Krijgers zijn gebouwd nemenmeer schade dan enige andere klasse door het hebben van hoge verdediging door middel van apparatuur (schilden) en sterke defensieve status.',
     tl: 'Ang mga Warrior ay binuo upang tangke ng higit pang mga monsters kaysa sa anumang iba pang mga klase sa pamamagitan ng pagkakaroon ng mataas na pagtatanggol sa pamamagitan ng kagamitan (Shields) at malakas na defensive buffs.',
     tr: 'Savaçlılar güçlü defansif ekipmanları (Kalkanlar) ve defansif güçlendirmeleri ile canavarları diğer sınıflardan daha çok üstüne çeker.',
-    it: ' I Guerrieri sono costruiti per accumulare più mostri di qualsiasi altra classe, avendo un&#39;alta difesa tramite equipaggiamento (Scudi) e forti abilità difensive.',
+    it: ' I Guerrieri sono costruiti per accumulare più mostri di qualsiasi altra classe, avendo un\'alta difesa tramite equipaggiamento (Scudi) e forti abilità difensive.',
     ht: 'Gèrye yo bati kenbe tèt avè plis domaj pase tout lòt klas yo atravè defans segondè nan ekipman yo (Sköld) ak tan defans fò.',
     pl: 'Wojownicy są w stanie walczyć z większą ilością potworów niż jakakolwiek inna klasa poprzez posiadanie wysokiego poziomu obrony dzięki wyposażeniu (tarcze) i silnych buforów obronnych.',
     cs: 'Bojovníci jsou stavěni k tanku více monster než nějaká jiná třída tím, že má vysokou obranu přes vybavení (Shields) a silné obranné nadšence.',
     ja: '戦士は装備品（Shields）と強力な防御バフを通して高い防御力を持つことによって他のどのクラスよりも多くのモンスターを戦うために建てられました。',
     el: 'Οι πολεμιστές είναι κατασκευασμένοι για να δεξαμενώνουν περισσότερα τέρατα από οποιαδήποτε άλλη τάξη έχοντας υψηλή άμυνα μέσω εξοπλισμού (Shields) και ισχυρών αμυντικών buffs.',
-    bg: 'Воините са построени, за да задържат повече чудовища от всеки друг клас, като имат висока защита чрез оборудване (Shields) и силни защитни любители.',
+    bg: 'Воините са построени да задържат повече чудовища от всеки друг клас, като имат висока защита чрез оборудване (Щитове) и силни защитни способности.',
     ro: 'Războinicii sunt făcuți pentru a atrage mai mulți monștrii decât orice altă clasă, având o defensivă foarte ridicată datorită echipamentului (scuturi) și buff-uri defensive puternice.'
   }
 }

@@ -11,10 +11,10 @@ const classes = [
 
 // Items
 import armlet from './items/armlet.js'
+import armor from './items/armor.js'
 import bag from './items/bag.js'
 import boot from './items/boot.js'
 import bow from './items/bow.js'
-import chest from './items/chest.js'
 import gem from './items/gem.js'
 import glove from './items/glove.js'
 import hammer from './items/hammer.js'
@@ -31,7 +31,7 @@ const items = {
   bag,
   boot,
   bow,
-  chest,
+  armor,
   gem,
   glove,
   hammer,
@@ -53,11 +53,15 @@ const factions = [
   bloodlust]
 
 // Npcs
+import auctioneer from './npcs/auctioneer.js'
 import conjurer from './npcs/conjurer.js'
+import stash from './npcs/stash.js'
 import trader from './npcs/trader.js'
 const npcs = {
   conjurer,
-  trader
+  trader,
+  auctioneer,
+  stash
 }
 
 // User interface
@@ -68,6 +72,7 @@ import general from './ui/general.js'
 import inventory from './ui/inventory.js'
 import party from './ui/party.js'
 import settings from './ui/settings.js'
+import stats from './ui/stats.js'
 const ui = {
   charmenu,
   chat,
@@ -75,6 +80,7 @@ const ui = {
   inventory,
   settings,
   party,
+  stats,
   ...general }
 
 export default {

@@ -5,7 +5,7 @@ export default {
   description: {
     en: 'The Bloodlust horde values freedom and loyalty, offers a place for individualism or even chaos. Their Defenses are located in a desert realm called Headless Landing.',
     sv: 'Bloodlust värderar frihet och lojalitet, erbjunder en plats för individualism men också kaos. Deras försvar hittas i ett öken kungarike vid namn Headless Landing.',
-    ru: 'Орда Bloodlust славится свободой и лояльностью, предлагая место для индивидуализма или даже хаоса. Их оборона находится в пустынном мире, названном Headless Landing.',
+    ru: 'Орда Кровожадности ценит свободу и лояльность, предлагая место для индивидуализма или даже хаоса. Их оборона находится в пустынном мире, названном Обезглавленной Землей.',
     es: 'A la horda Bloodlust le importan la libertad y lealtad. Con su guarida situado en un desierto llamado Headless Landing, ofrecen el lugar perfecto para expresión y caos.',
     fr: 'La faction des Bloodlusts valorise la liberté et la loyauté. Elle offre une place à l\'individualisme et même au chaos. Leurs défenses sont situées dans un royaume désertique appelé Headless Landing.',
     de: 'Die Horde der Bloodlust schätzt Freiheit und Loyalität, bietet einen Ort für Individualismus oder gar Chaos. Ihre Verteidigung befindet sich in einem Wüstenreich namens Headless Landing.',
@@ -19,7 +19,7 @@ export default {
     pl: 'Horda Bloodlust ceni sobie wolność i lojalność, oferuje miejsce dla indywidualizmu, a nawet chaosu. Ich obrona znajduje się w pustynnym królestwie zwanym Landingiem bez głowy.',
     ht: 'Branch fanmi an Bloodlust gen ladan valè a nan libète ak lwayote. Li ofri yon kote pou endividyalis e menm dezòd. Defans yo sitiye nan yon peyi dezè ki rele Landing.',
     el: 'Η ορχήστρα της πρωτοπορίας επιδιώκει την παράδοση τη δομή και την τάξη στην κοινωνία. Το κάστρο τους βρίσκεται σε μια καταπράσινη περιοχή γύρω από το Guardstone. ',
-    bg: 'Ордата на Авангард търси традиция и ред в обществото. Замъкът им може да се намери в буйна зелена зона около Guardstone.',
+    bg: 'Ордата на Кръвожадните ценни свобода и лоялност, предлага място за индивидуализъм или дори хаос. Техните защити се намират в пустинния свят, наречен Безголовата Земя.',
     cs: 'Horda Bloodlust hodnotí svobodu a loajalitu, nabízí místo pro individualismus nebo dokonce chaos. Jejich Obrany jsou umístěny v pouštní říši nazvané Bezhlavý Přistání.',
     ja: 'ブラッドラストの大群は自由と忠誠心を重んじ、個人主義や混沌のための場所を提供します。彼らの防御は、ヘッドレスランディングと呼ばれる砂漠の王国にあります。',
     ro: 'Facțiunea Bloodlust valorizează libertatea și loialitatea, oferă un loc pentru individualism sau chiar haos. Apărările lor sunt situate într-o regiune a deșertului numită Headless Landing.'
