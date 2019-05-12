@@ -1,7 +1,7 @@
 export default {
   interactions: [{
     text: {
-      en: 'Greetings traveler! Would you like to see what is in your stash?'
+      en: 'Stash explanation text'
     },
     choices: [{
       en: 'Yes, open my chest',
