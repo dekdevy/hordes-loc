@@ -157,6 +157,10 @@ export default {
     cs: 'Použijte přidmet',
     ja: 'アイテムを使う'
   },
+  
+  stash: {
+    en: 'Move to stash'
+  },
 
   spend: {
     en: 'You have spent $1 coins',
