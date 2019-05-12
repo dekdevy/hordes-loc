@@ -231,7 +231,6 @@ export default {
     ko: '오디오',
     ja: 'オーディオ',
     tl: 'Audio'
-    
   },
 
   // "SFX Loudness" is more suitable in some cases
