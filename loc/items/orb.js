@@ -252,7 +252,7 @@ export default [
   {
     name       : {$$: 'Silthrim' },
     description: {
-      en: 'Enigmatic emerald green sphere, enveloped in fine engravings of serpentine prophecies which entice fame and serendipity to its bewitched bearer.',
+      en: 'Enigmatic emerald green sphere, enveloped in fine engravings of serpentine prophecies that entice fame and serendipity to its bewitched bearer.',
       ru: 'Таинственная изумрудно-зеленая сфера, окутанная тонкой гравюрой коварных пророчеств которые привлекают славу и интуицию своему околдованному носителю.',
       es: 'Enigmática esfera verde esmeralda, envuelta en finos grabados de profecías serpenteantes que atraen la fama y la serendipia a su portador embrujado.',
       fr: 'Sphère énigmatique vert émeraude, enveloppée de fines gravures de prophéties serpentines qui attirent la gloire et la sérendipité de son porteur ensorcelé.',
