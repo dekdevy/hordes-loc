@@ -1,7 +1,7 @@
 export default {
   interactions: [{
     text: {
-      en: 'Merchant greeting text'
+      en: 'Greetings traveler! Would you like to see what I for sale?'
     },
     choices: [{
       en: 'Yes, show me the items for sale.',
