@@ -210,7 +210,7 @@ export default {
 
   auctionbuy: {
     en: 'Item purchased for $1 coins and sent to your Stash',
-    ru: '',
+    ru: 'Предмет, купленный за $1 и отправленный на ваш сундук',
     es: 'Artículo comprado por 35235 monedas y enviado a su Stash',
     fr: 'Article acheté pour $1 pièces et envoyé à votre Stash',
     de: 'Artikel, der für $1 Münzen gekauft und an Ihr Versteck geschickt wurde.',
