@@ -159,7 +159,7 @@ export default [
   {
     name       : {$$: 'Elven Bow' },
     description: {
-      en: 'An expert bow of a elegant race.',
+      en: 'An expert bow of an elegant race.',
       ru: 'Искусный лук изящный расы',
       fr: 'Un arc d\'expert originant d\'une race élégant.',
       de: 'Ein erfahrener Bogen eines eleganten Rennens.',
