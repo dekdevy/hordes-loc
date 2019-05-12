@@ -93,7 +93,8 @@ export default [
       ht: 'Yon zam ansyen yo vòlè li soti nan mouton ork k ap viv nan kochon kache.',
       sv: 'Ett gammalt vapen som stulits från marauding orker bosatt i dolda lairs.',
       ko: '고대 무기는 숨겨진 의자에있는 오크들을 약탈하여 도난당했습니다.',
-      tl: 'Isang sinaunang sandata na ninakaw mula sa mga mandarambong na mga orcs na naninirahan sa mga nakatagong lairs.'
+      tl: 'Isang sinaunang sandata na ninakaw mula sa mga mandarambong na mga orcs na naninirahan sa mga nakatagong lairs.',
+      ro: 'O armă antică furată de la orcii jefuitori ce locuiesc în bârloguri ascunse.'
     }
   },
 
@@ -117,7 +118,8 @@ export default [
       el: 'Μεγάλο όπλο που χρησιμοποιήθηκε εδώ και πολύ καιρό για να καταστρέψει τα κρανία.',
       bg: 'Голямо оръжие, използвано отдавна, за да унищожи черепите.',
       cs: 'Velká zbraň používaná již dávno k ničení lebek.',
-      ja: '頭蓋骨を破壊するために昔使用されていた大きな武器。'
+      ja: '頭蓋骨を破壊するために昔使用されていた大きな武器。',
+      ro: 'Armă uriașă folosită cu mult timp în urmă pentru a zdrobi capete.'
     }
   },
 
@@ -191,7 +193,8 @@ export default [
       ht: 'Li te di ke je bondye yo swiv wielder a, yo pote fòtin vanyan sòlda ak fayit la lachte la.',
       sv: 'Det sägs att gudarnas ögon följer wielderen och ger förmögenhet till tapperhet och döm till fegan.',
       ko: '신들의 눈은 주인을 따라 가며 비겁한 용감한 운명에 운을 가져다 준다고합니다.',
-      tl: 'Sinasabi na ang mga mata ng mga diyos ay sumunod sa mangangalakal, nagdadala ng kapalaran sa magiting at kamatayan sa duwag.'
+      tl: 'Sinasabi na ang mga mata ng mga diyos ay sumunod sa mangangalakal, nagdadala ng kapalaran sa magiting at kamatayan sa duwag.',
+      ro: 'Se spune că zeii urmăresc cu privirea pe purtători, aducându noroc celor bravi și belsteme celor lași.'
     }
   },
 
@@ -265,7 +268,8 @@ export default [
       el: 'Ένα ισχυρό σφυρί σφυρήλατο χωρίς ζέστη να σκοτώνει οτιδήποτε μπορεί χωρίς έλεος.',
       bg: 'Мощен чук, изкован без топлина, убиващ всичко, което може, без милост.',
       cs: 'Mohutné kladivo kované bez ohně, zabíjejícího cokoliv, bez slitování.',
-      ja: '強烈なハンマーは熱を加えずに鍛造され、容赦なくできることは何もしません。'
+      ja: '強烈なハンマーは熱を加えずに鍛造され、容赦なくできることは何もしません。',
+      ro: 'Un ciocan puternic forjat fără căldură, ce ucide orice poate fără milă.'
     }
   },
 
