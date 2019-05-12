@@ -4,7 +4,8 @@ export default {
       en: 'Stash explanation text'
     },
     choices: [{
-      en: 'Yes, open my stash'
+      en: 'Yes, open my stash',
+      pt: 'Sim, abre o meu esconderijo.'
     }]
   }]
 }
