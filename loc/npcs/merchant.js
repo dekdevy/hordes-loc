@@ -1,7 +1,7 @@
 export default {
   interactions: [{
     text: {
-      en: 'Greetings traveler! Would you like to see what I for sale?'
+      en: 'Greetings traveler! Would you like to see what items are for sale on the Market?'
     },
     choices: [{
       en: 'Yes, show me the items for sale.',
