@@ -161,13 +161,15 @@ export default {
   stash: {
     en: 'Move to stash',
     pt: 'Mover para o esconderijo',
-    it: 'Spostare a nascondiglio'
+    it: 'Spostare a nascondiglio',
+    pl: 'Przenieś się do skrytki.'
   },
 
   stashed: {
     en: '$1 has been moved to your stash',
     pt: '$1 foi transferido para o seu esconderijo',
-    it: '$1 e\' stato spostato nella tua scorta.'
+    it: '$1 e\' stato spostato nella tua scorta.',
+    pl: '$1 został przeniesiony do twojego magazynu.'
   },
 
   spend: {
