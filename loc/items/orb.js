@@ -50,106 +50,6 @@ export default [
   },
 
   {
-    name       : {$$: 'Beehive' },
-    description: {
-      en: 'Buzzing sticky hive, delivering a nasty sting every now and then.',
-      ru: 'Жужжащий липкий улей, периодически жалящий вас',
-      de: 'Summender, klebriger Bienenstock, der ab und zu ein paar Stiche liefert.',
-      fr: 'Une ruche bourdonnante et collante, avec quelques piqûres de temps en temps.',
-      nl: 'Zoemende kleverige hicky hive, die af en toe een paar steken levert.',
-      es: 'Una colmena pegajosa que zumba, que da unas cuantas picaduras de vez en cuando.',
-      hi: 'गुनगुनाता हुआ चिपचिपा मधुमक्खी छत्ता, हर थोड़ी डर में ज़ोरदार डंक मारता है।',
-      ht: 'Bee itikè ruch kolan, fournir yon koup la pokes kounye a ak lè sa a.',
-      el: 'Βολής κολλώδης κυψέλη που παράγει ένα άσχημο τσίμπημα κάθε τόσο.',
-      bg: 'Бръмченето на лепкава кошера, доставящо неприятно ужилване от време на време.',
-      it: 'Alveare appiccicoso e ronzante, con un paio di punture ogni tanto.',
-      pt: 'Uma colmeia pegajosa a zumbir, com uma picada desagradável de vez em quando.',
-      pl: 'Brzęczący, lepki ul, dostarczający od czasu do czasu paskudny żądło.',
-      cs: 'Bzučící lepkavý úl, který každou chvíli vydává ošklivé žihadlo.',
-      ja: '時々耳障りな刺すような刺激的なハイブ',
-      sv: 'Bullriga klibbiga bikupa, levererar en otäck sting då och då.',
-      ko: '끈적 끈적 끈적 끈적 거리는 소리가 들리며, 때때로 삐걱 거리는 소리를냅니다.',
-      ro: 'Stup lipicios ce bâzâie, oferă o înțepătură urâtă din când în când.',
-      tl: 'Malagkit na pugad, na naghahatid ng pangit na panakot tuwing ngayon at pagkatapos.'
-    }
-  },
-
-  {
-    name       : {$$: 'Polished Bone' },
-    description: {
-      en: 'After a tough fight while robbing a bone of a dog, you decided to keep this as a souvenir reminding you of your struggles.',
-      ru: 'После тяжелого боя с собакой, вам досталась ее кость. Вы решили оставить ее себе в качестве сувенира, напоминающего вам о ваших трудностях.',
-      de: 'Nach einem harten Kampf beim Raub eines Hundeknochens hast du dich entschieden, diesen als Souvenier aufzubewahren, der dich an deine Kämpfe erinnert.',
-      fr: 'Après une rude bataille alors que vous voliez l\'os d\'un chien, vous avez décidé de garder ceci en souvenir de vos luttes.',
-      nl: 'Na een zware ruzie tijdens het beroven van een bot van een hond, besloot u dit te bewaren als een souvenir dat u herinnert aan uw strijd.',
-      es: 'Después de una dura pelea mientras robabas un hueso de un perro, decidiste guardarlo como recuerdo de tus luchas.',
-      hi: 'एक कुत्ते की हड्डी चुराने के युद्ध के बाद, अपने इसे अपने संघर्ष के याद के तौर पर रखने का निर्णय किया।',
-      el: 'Μετά από μια σκληρή μάχη, ενώ ληστεύοντας ένα κόκκαλο ενός σκύλου, αποφασίσατε να το κρατήσετε ως ένα αναμνηστικό που σας υπενθυμίζει τους αγώνες σας.',
-      bg: 'След трудна битка, докато ограбваш кост от куче, решихте да запазите това като сувенир, който ви напомня за вашите борби.',
-      ht: 'After a tough fight while robbing a bone of a dog, you decided to keep this as a souvenir reminding you of your struggles.',
-      it: 'Dopo una dura lotta mentre derubava un osso di un cane, avete deciso di tenere questo come ricordo che vi ricorda le vostre lotte.',
-      pt: 'Depois de uma dura luta enquanto roubava um osso de um cão, você decidiu guardar isso como uma lembrança lembrando-o de suas lutas.',
-      pl: 'Po ciężkiej walce podczas okradania kości psa, postanowiłeś zachować to jako pamiątkę przypominającą ci o twoich zmaganiach.',
-      cs: 'Po těžkém boji, když vykradl kost psa, jste se rozhodl, že si to ponecháte jako suvenýr, který vám připomene vaše zápasy.',
-      ja: '犬の骨を奪っている間の激しい戦いの後であなたはあなたの闘争を思い出させる記念品としてこれを保つことに決めました。',
-      sv: 'Efter en hård kamp och rånade ett hundens ben bestämdede man sig för att hålla detta som en souvenir som påminner dig om dina kampar.',
-      ko: '개 뼈를 털고 힘든 싸움을 한 후, 당신은 당신의 투쟁을 상기시키는 기념품으로 이것을 유지하기로 결정했습니다.',
-      ro: 'După o luptă dură în care încercai să furi osul unui câine, ai decis să păstrezi acest lucru ca un suvenir care să îți amintească de chinurile tale.',
-      tl: 'Matapos ang isang matigas na labanan habang inaakawan ang isang buto ng isang aso, nagpasya kang itago ito bilang souvenir na nagpapaalala sa iyo ng iyong mga pakikibaka.'
-    }
-  },
-
-  {
-    name       : {$$: 'Decaying Offal' },
-    description: {
-      en: 'Leftovers from a couple of nights ago have made quite a stink.',
-      ru: 'Остатки еды с прошлой пары суток. Источают довольно сильную вонь.',
-      de: 'Überreste von vor ein paar Nächten haben einen ziemlichen Gestank verursacht.',
-      fr: 'Les restes d\'il y a quelques nuits ont fait une sacrée puanteur.',
-      nl: 'De restjes van een paar nachten geleden hebben een behoorlijke stank veroorzaakt.',
-      es: 'Las sobras de un par de noches pasadas han hecho un olor horrible.',
-      hi: 'दो रात पुराने खाने से काफ़ी गंद आती है।',
-      el: 'Τα απομεινάρια από μερικές νύχτες πριν έχουν κάνει αρκετά βρωμίζει.',
-      bg: 'Останките от преди няколко нощи направиха доста смрад.',
-      ht: 'Rès manje ki sòti nan yon koup nan nwit sa pibliye depi yo te fè byen yon Stink.',
-      it: 'Gli avanzi di un paio di notti fa hanno fatto un bel po\' di puzza.',
-      pt: 'Os restos de algumas noites atrás fizeram um grande fedor.',
-      pl: 'Resztki sprzed kilku nocy zrobiły niezły smród.',
-      cs: 'Zbytky z několika nocí se dost smrdí.',
-      ja: '数泊前の残り物はかなり悪臭を放っています。',
-      sv: 'Rester från ett par nätter sedan har gjort en ganska stink.',
-      ko: '몇 박 전의 남은 음식은 꽤 악취를 냈습니다.',
-      ro: 'Resturile rămase de acum câteva nopți au făcut putoare.',
-      tl: 'Ang mga natira mula sa loob ng ilang gabi na ang nakalilipas ay naging isang baho.'
-    }
-  },
-
-  {
-    name       : {$$: 'Iron Pellet' },
-    description: {
-      en: 'Small metal ball, shiny and smooth with some dents on its surface.',
-      ru: 'Маленький металлический шар, блестящий и гладкий с вмятинами на поверхности.',
-      de: 'Kleine Metallkugel, glänzend und glatt, mit einigen Beulen auf der Oberfläche.',
-      fr: 'Petite boule métallique, brillante et lisse avec quelques bosses sur sa surface.',
-      nl: 'Kleine metalen bal, glanzend en glad met enkele deuken op het oppervlak.',
-      es: 'Pequeña bola de metal, brillante y lisa con algunas abolladuras en su superficie.',
-      hi: 'लोहे का छोटा गोला, चमकीला और चिकना, अपनी सतह पर कुछ गड्ढों के साथ।',
-      ht: 'Ti metal boul, klere ak lis ak kèk étidyan sou sifas li yo.',
-      el: 'Μικρή μεταλλική σφαίρα γυαλιστερή και λεία με κάποιες χτυπήματα στην επιφάνεια της.',
-      bg: 'Малка метална топка блестяща и гладка с няколко вдлъбнатини на повърхността.',
-      it: 'Piccola sfera metallica, lucida e liscia con alcune ammaccature sulla sua superficie.',
-      pt: 'Pequena bola de metal, brilhante e lisa, com algumas amolgadelas na superfície.',
-      pl: 'Mała metalowa kula, błyszcząca i gładka, z kilkoma wgnieceniami na powierzchni.',
-      cs: 'Malá kovová kulička, lesklá a hladká s některými otvory na povrchu.',
-      ja: '小さな金属製のボールは光沢があり滑らかで、表面にはへこみがあります。',
-      sv: 'Liten metallkula, glänsande och slät med några bulkar på ytan.',
-      ko: '작은 금속 공, 반짝 및 표면에 일부 움푹 함께 부드러운.',
-      ro: 'Bilă mică de metal, lucioasă și netedă, cu câteva lovituri la suprafață.',
-      tl: 'Maliit na metal ball, makintab at makinis na may ilang mga dents sa ibabaw nito.'
-    }
-  },
-
-  {
     name       : {$$: 'Crystal Globe' },
     description: {
       en: 'Rays of light get caught in this sphere, casting fine rainbows around you.',
@@ -196,31 +96,6 @@ export default [
       ko: '이 토지를 공포에 떨게하는 고대의 살인 사건은 마침내 죽임을 당했고, 당신은이 끔찍한 기념품을 청소할 수있었습니다.',
       ro: 'Un ciclop antic care teroriza aceste ținuturi a fost în sfârșit ucis, permițându-ți să sapi după acest suvenir sumbru.',
       tl: 'Ang mga sinaunang cyclops ng mga terorismo sa mga lupain ay sa wakas ay pinatay, na nagpapahintulot sa iyo na mag-scavenge ng mabangong souvenir na ito.'
-    }
-  },
-
-  {
-    name       : {$$: 'Frozen Snowball' },
-    description: {
-      en: 'Some mages use staffs, some books, you decided to use a frozen clump of snow.',
-      ru: 'Некоторые маги используют посох, некоторые книги, вы решили использовать комок снега.',
-      de: 'Einige Magier benutzen Stäbe, einige Bücher, du hast dich entschieden, ein gefrorenes Schneebrett zu benutzen.',
-      fr: 'Certains mages utilisent des bâtons, des livres, vous avez décidé d\'utiliser un amas de neige gelée.',
-      nl: 'Sommige magiërs gebruiken personeel, sommige boeken, sommige boeken, je hebt besloten om een bevroren klomp sneeuw te gebruiken.',
-      es: 'Algunos magos usan bastones, algunos libros, decidiste usar un montón de nieve congelada.',
-      hi: 'कुछ जादूगर छड़ी का इस्तमाल करते है, कुछ किताबों का, आपने बर्फ़ के ठोस गोले का इस्तमाल करने का निर्णय लिया।',
-      ht: 'Gen kèk maj sèvi ak baton, kèk liv, ou deside sèvi ak yon touf nan frizè nan nèj.',
-      el: 'Μερικοί μάγοι χρησιμοποιούν στελέχη μερικά βιβλία που αποφασίσατε να χρησιμοποιήσετε μια παγωμένη συστάδα χιονιού.',
-      bg: 'Някои магове използват щабове няколко книги, които сте решили да използвате замръзнал сняг.',
-      it: 'Alcuni maghi usano bastoni, alcuni libri, tu hai deciso di usare un ciuffo di neve ghiacciata.',
-      pt: 'Alguns magos usam cajados, alguns livros, você decidiu usar um monte de neve congelada.',
-      pl: 'Niektórzy magowie używają sztabów, inni książki, a ty zdecydowałeś się użyć zamarzniętej kępki śniegu.',
-      cs: 'Někteří mágové používají štáby, nějaké knihy, rozhodli jste se použít zamrzlý svazek sněhu.',
-      ja: 'いくつかの魔術師はあなたが雪の凍結した塊を使うことに決めた本をスタッフに使います。',
-      sv: 'Några mages använder staber, några böcker, du bestämde dig för att använda en frusen klump av snö.',
-      ko: '일부 마법사는 스태프를 사용하고 일부 책은 눈의 얼어 붙은 덩어리를 사용하기로 결정했습니다.',
-      ro: 'Unii magicieni folosesc toiage, unii cărți, tu ai decis să folosești un ciot înghețat de zăpadă.',
-      tl: 'Ang ilang mga mages ay gumagamit ng mga kawani, ang ilang mga libro, nagpasya kang gumamit ng frozen na kumpol ng niyebe.'
     }
   },
 
