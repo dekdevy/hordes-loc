@@ -219,7 +219,7 @@ export default {
     pl: 'Przedmiot zakupiony za $1 monet i wysłany do Twojego magazynu.',
     sv: 'Produkt som köpts för $1 mynt och skickas till din Stash',
     ht: 'Atik achte pou pyès monnen $1 epi li voye bay Stash ou',
-    it: 'Oggetto acquistato per 35235 monete e inviato al tuo Stash',
+    it: 'Oggetto acquistato per $1 monete e inviato al tuo Stash',
     hi: '$1 सिक्कों के लिए खरीदी गई वस्तु और आपके Stash को भेजी गई',
     tl: 'Ang item na binili para sa $1 barya at ipinadala sa iyong Stash',
     el: 'Στοιχείο που αγοράσατε για $1 νομίσματα και απεστάλητε στο Stash σας',
