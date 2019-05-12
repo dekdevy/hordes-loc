@@ -102,7 +102,7 @@ export default [
   {
     name       : {$$: 'Elven Band' },
     description: {
-      en: 'The elves made this ring to protect themselves from danger and succeeded in giving it away.',
+      en: 'The elves made this ring to protect themselves from danger.',
       ru: 'Эльфы сделали это кольцо, чтобы защитить себя от опасности, и умудрились потерять его',
       es: 'Los elfos hicieron este anillo para protegerse del peligro y lograron regalarlo.',
       de: 'Die Elfen bauten diesen Ring, um sich vor Gefahren zu schützen, und es gelang ihnen, ihn wegzugeben.',
