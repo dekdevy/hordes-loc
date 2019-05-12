@@ -293,7 +293,8 @@ export default [
       el: 'Με το κρανίο ενός δολοφονημένου θηρίου, αυτό το όπλο εμπνέει τρόμο σε όλους όσους τον κατακλύζουν.',
       bg: 'Оградено с черепа на убит звяр, това оръжие вдъхва терор на всички, които се изправят срещу него.',
       cs: 'Tato zbraň s lebkou zabitého zvířete vzbuzuje hrůzu ve všech, kteří proti ní stojí.',
-      ja: '殺された獣の頭蓋骨をトッピングしたこの武器は、それに立ち向かうすべての人々に恐怖を呼び起こします。'
+      ja: '殺された獣の頭蓋骨をトッピングしたこの武器は、それに立ち向かうすべての人々に恐怖を呼び起こします。',
+      ro: 'Acoperită cu craniul unei bestii ucise, această armă inspiră teroare în toți cei ce stau împotriva ei.'
     }
   },
 
