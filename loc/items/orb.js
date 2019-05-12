@@ -175,9 +175,9 @@ export default [
   },
 
   {
-    name       : {$$: 'Cyclope\'s Eye' },
+    name       : {$$: 'Cyclops\'s Eye' },
     description: {
-      en: 'The ancient cyclops terrorizing these lands was finally killed, allowing you to scavenge this grim souvenir.',
+      en: 'An ancient cyclops terrorizing these lands was finally killed, allowing you to scavenge this grim souvenir.',
       ru: 'Древний циклоп, терроризирующий эти земли был наконец убит, позволив вам получить этот мрачный сувенир.',
       de: 'Der alte Zyklop, der diese Länder terrorisiert hat, wurde schließlich getötet, so dass Sie dieses düstere Souvenir entsorgen können.',
       fr: 'Les anciens cyclopes qui terrorisaient ces terres ont finalement été tués, ce qui vous a permis de récupérer ce sinistre souvenir.',
