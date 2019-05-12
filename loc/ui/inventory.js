@@ -160,6 +160,7 @@ export default {
 
   spend: {
     en: 'You have spent $1 coins',
+    ru: 'Вы потратили $1 монет.',
     es: 'Has gastado 2 monedas',
     fr: 'Vous avez dépensé $1 pièces',
     de: 'Du hast $1 Münzen ausgegeben.',
