@@ -194,7 +194,7 @@ export default [
       ja: 'これらの土地を脅迫している古代サイクロプスはついに殺され、あなたはこの厳しいお土産を掃除することができました。',
       sv: 'De antika cyklops som terroriserar dessa länder blev äntligen dödade, så att du kunde scavenge denna dystra souvenir.',
       ko: '이 토지를 공포에 떨게하는 고대의 살인 사건은 마침내 죽임을 당했고, 당신은이 끔찍한 기념품을 청소할 수있었습니다.',
-      ro: 'Anticii ciclopi care terorizau aceste ținuturi au fost în sfârșit uciși, permițându-ți să sapi după acest suvenir sumbru.',
+      ro: 'Un ciclop antic care teroriza aceste ținuturi a fost în sfârșit ucis, permițându-ți să sapi după acest suvenir sumbru.',
       tl: 'Ang mga sinaunang cyclops ng mga terorismo sa mga lupain ay sa wakas ay pinatay, na nagpapahintulot sa iyo na mag-scavenge ng mabangong souvenir na ito.'
     }
   },
@@ -269,7 +269,8 @@ export default [
       el: 'Αινιγματική σμαραγδένια πράσινη σφαίρα, περιτυλιγμένη με ωραία χαρακτικά των οφιοειδών προφητειών που παρασύρουν τη φήμη και τον πλούτο στον γοητευμένο φορέα',
       bg: 'Енигматична изумруденозелена сфера, обгърната от изящни гравюри на серпентини, които привличат славата и богатството на своя омагьосан носител',
       cs: 'Tajemná smaragdově zelená koule, obklopená jemnými rytinami hadovitých proroctví, která lákají slávu a bohatství ke svému okouzlujícímu nositeli',
-      ja: '不思議なエメラルドグリーンの球体、その妖艶な持ち主に名声と富を惹きつける蛇紋岩の予言の細かい彫刻に包まれて'
+      ja: '不思議なエメラルドグリーンの球体、その妖艶な持ち主に名声と富を惹きつける蛇紋岩の予言の細かい彫刻に包まれて',
+      ro: 'Enigmatică sferă verde de smarald, învăluită în gravuri fine de profeții perfizi, atrage faimă și serendipitate purtătorului ei vrăjit.'
     }
   },
 
