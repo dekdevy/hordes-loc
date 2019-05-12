@@ -205,6 +205,22 @@ export default {
   },
 
   auctionbuy: {
-    en: 'Item purchased for $1 coins and sent to your Stash'
+    en: 'Item purchased for $1 coins and sent to your Stash',
+    ru: '',
+    es: 'Artículo comprado por 35235 monedas y enviado a su Stash',
+    fr: 'Article acheté pour $1 pièces et envoyé à votre Stash',
+    de: 'Artikel, der für $1 Münzen gekauft und an Ihr Versteck geschickt wurde.',
+    pt: 'Item comprado por $1 moedas e enviado para o seu Cesto',
+    nl: 'Item gekocht voor $1 munten en verzonden naar uw Stash',
+    pl: 'Przedmiot zakupiony za $1 monet i wysłany do Twojego magazynu.',
+    sv: 'Produkt som köpts för $1 mynt och skickas till din Stash',
+    ht: 'Atik achte pou pyès monnen $1 epi li voye bay Stash ou',
+    it: 'Oggetto acquistato per 35235 monete e inviato al tuo Stash',
+    hi: '$1 सिक्कों के लिए खरीदी गई वस्तु और आपके Stash को भेजी गई',
+    tl: 'Ang item na binili para sa $1 barya at ipinadala sa iyong Stash',
+    el: 'Στοιχείο που αγοράσατε για $1 νομίσματα και απεστάλητε στο Stash σας',
+    bg: 'Позиция, закупена за $1 монети и изпратена до вашия Stash',
+    cs: 'Zboží zakoupené za $1 mincí a zaslané do vašeho Stash',
+    ja: '$1 コインを購入し、Stash に送った商品'
   }
 }
