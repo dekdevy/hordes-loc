@@ -118,7 +118,7 @@ export default [
       cs: 'Elfové tento prsten vyzbrojili, aby se chránili před nebezpečím.',
       ja: 'エルフは危険から身を守るためにこの指輪を作った',
       ht: 'Luten yo te fè sa a bag pwoteje tèt yo kont danje.',
-      sv: 'Elven gjorde denna ring för att skydda sig mot fara.'
+      sv: 'Elven gjorde denna ring för att skydda sig mot fara.',
       ko: '엘프들은 위험으로부터 자신을 보호하기 위해이 반지를 만들었습니다.',
       ro: 'Elfii au făcut acest inel pentru a se proteja de pericole și.'
     }
