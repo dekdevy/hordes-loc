@@ -100,7 +100,7 @@ export default [
       el: 'Κομψή μανσέτα από τα χέρια του τελευταίου μαμούθ',
       bg: 'Елегантен маншет, направен от бивните на последния мамут.',
       ja: '最後のマンモスの牙から作られたエレガントなカフ。',
-      ro: 'Manșetă elegantă realizată din colții ultimului mamut.'
+      ro: 'Manșetă elegantă confecționată din colții ultimului mamut.'
     }
   },
 
@@ -126,7 +126,7 @@ export default [
       hi: 'हाथ पर भारी... पर सुरक्षा ज़रूर देता है।',
       cs: 'Těžká na paži ... stojí za to.',
       ja: 'あなたの腕に重い...保護に値する。',
-      ro: 'Grea pe braț... merită protecția.'
+      ro: 'Grea pe braț... dar merită protecția.'
     }
   },
 
@@ -231,7 +231,7 @@ export default [
       el: 'Οι αρχαίοι golems άφησαν υπολείμματα από το πέρασμα τους, τα οποία εσείς ασυνείδητα έχετε αποφασίσει να φορέσετε στο χέρι σας.',
       bg: 'Древните големи оставиха остатъци от своето минаване, които безскрупулно сте решили да носите на ръката си.',
       ja: '古代のゴーレムは彼らの追い越しの残骸を残しました、あなたは不注意にあなたの腕に身に着けることに決めました。',
-      ro: 'Golemii străvechi au lăsat rămășițele trecerii lor, pe care voi, fără scrupule, le-ați decis să le purtați pe braț.'
+      ro: 'Golemii străvechi au lăsat rămășițe în urma lor, pe care tu, fără scrupule, ai decis să le porți pe braț.'
     }
   },
 
