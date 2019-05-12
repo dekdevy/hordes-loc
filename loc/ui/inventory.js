@@ -202,5 +202,9 @@ export default {
     cs: 'Zveřejnili jste $1 na prodej',
     ja: 'あなたは販売のために $1 を投稿しました',
     ro: 'Ați postat $1 de vânzare'
+  },
+
+  auctionbuy: {
+    en: 'Item purchased for $1 coins and sent to your Stash'
   }
 }
