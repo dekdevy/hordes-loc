@@ -254,7 +254,7 @@ export default {
     ht: 'Volim SFX',
     ko: 'SFX 볼륨',
     ja: 'SFXボリューム',
-    tl: 'Dami ng SFX' 
+    tl: 'Dami ng SFX'
   },
 
   // ---- Chat
