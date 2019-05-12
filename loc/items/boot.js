@@ -253,7 +253,8 @@ export default [
       el: 'Κρύες μπότες σφυρηλατημένες χωρίς θερμότητα που σας επιτρέπουν να τρέχετε χωρίς εμπόδια',
       bg: 'Студените ботуши изковани без топлина, които ви позволяват да бягате без препъване',
       cs: 'Studené boty kované bez tepla, které vám umožní běžet bez úrazu',
-      ja: 'あなたはつまずくことなく実行することができます熱なしで鍛造コールドブーツ'
+      ja: 'あなたはつまずくことなく実行することができます熱なしで鍛造コールドブーツ',
+      ro: 'Cizmele reci ca gheața și forjate fără căldură îți permit să alergi fără să te împiedici.'
     }
   },
 
