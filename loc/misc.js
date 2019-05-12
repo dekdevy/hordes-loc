@@ -15,7 +15,8 @@ export default [
       sv: 'Tjockt furigt läder gör dig byxa när du drar den bakom dig.',
       hi: 'इस मोटे चमड़े को साथ ले जाते आप थक जाएंगे।',
       es: 'Cuero grueso y peludo que te hace jadear mientras lo arrastras detrás de ti.',
-      nl: 'Dik harig leer dat je laat puffen terwijl je het achter je aan sleept.'
+      nl: 'Dik harig leer dat je laat puffen terwijl je het achter je aan sleept.',
+      tl: 'Masyadong mabalahibo katad na ginagawa mo hila habang ikaw ay i-drag ito sa likod mo.'
     }
   },
 
@@ -35,7 +36,8 @@ export default [
       sv: 'Ett äpple om dagen håller monstrarna borta .... är det vad de säger?',
       hi: 'प्रतिदिन एक सेब खाने से राक्षस पास नहीं आते.... यही तो कहते हैं ना?',
       es: 'Una manzana al día mantiene alejados a los monstruos... ¿eso es lo que dicen?',
-      nl: 'Een appel per dag houdt de monsters weg......zeggen ze dat?'
+      nl: 'Een appel per dag houdt de monsters weg......zeggen ze dat?',
+      tl: 'Isang mansanas sa isang araw ay pinanatili ang mga monsters ang layo .... ay na kung ano ang sinasabi nila?'
     }
   },
 
@@ -55,7 +57,8 @@ export default [
       sv: 'Klibbig ögonglob som luktar av träsk.',
       hi: 'चिपचिपी आंख जिसमें से दल-दल सी गन्ध आती हैं।',
       es: 'Globo ocular grisáceo y pegajoso que huele a pantano.',
-      nl: 'Kleverige, naar moerasland ruikende grizzly ogen.'
+      nl: 'Kleverige, naar moerasland ruikende grizzly ogen.',
+      tl: 'Malagkit na kulay-abo na eyeball na pang-amoy ng swampland.'
     }
   },
 
@@ -75,7 +78,8 @@ export default [
       sv: 'En mäktig juvelkrona som tillhör de gamla kungarna i dessa länder.',
       hi: 'पौराणिक महाराजाओं का मणी जड़ित महान ताज।',
       es: 'Una poderosa corona de joyas que pertenece a los antiguos reyes de estas tierras.',
-      nl: 'Een machtige kroon met juwelen, behorend tot de oude koningen van deze landen.'
+      nl: 'Een machtige kroon met juwelen, behorend tot de oude koningen van deze landen.',
+      tl: 'Isang makapangyarihang jeweled crown na nauukol sa mga sinaunang hari ng mga lupaing ito.'
     }
   },
 
@@ -95,7 +99,8 @@ export default [
       sv: 'Djup, mörk lila sprut som tagits från den förbannade själen av ett illvilligt fantom.',
       hi: 'आत्नकी राक्षस की शापित आत्मा से लिया गया घना बैंगनी रसायन।',
       es: 'Mechón de color púrpura oscuro tomado del alma maldita de un fantasma malévolo.',
-      nl: 'Diep donkerpaars wispeltje uit de vervloekte ziel van een kwaadaardig spook.'
+      nl: 'Diep donkerpaars wispeltje uit de vervloekte ziel van een kwaadaardig spook.',
+      tl: 'Malalim na maitim na lilang wisp na kinuha mula sa nasumpaang kaluluwa ng isang masamang pakialam.'
     }
   },
 
@@ -115,7 +120,8 @@ export default [
       sv: 'Serrated och rostig, du undrar om det är något bra som ett vapen.',
       hi: 'ज़ंग से लैज़ और छितरों से भरी, आप इसे इस्तेमाल करने से पहले सोच ले।',
       es: 'Dentada y oxidada, te preguntas si sirve de algo como arma.',
-      nl: 'Gekarteld en verroest, vraag je je af of het een goed wapen is.'
+      nl: 'Gekarteld en verroest, vraag je je af of het een goed wapen is.',
+      tl: 'Nakasalot at kalawangin, nagtataka ka kung ito\'y isang magandang bilang isang sandata.'
     }
   },
 
@@ -134,7 +140,8 @@ export default [
       fr: 'Méfiez-vous de l\'oie sauvage. Il n\'aime pas les pokes.',
       sv: 'Akta dig för den feralgås. Det gillar inte pokes.',
       es: 'Cuidado con el ganso salvaje. No le gustan los pinchazos.',
-      nl: 'Pas op voor de wilde gans. Hij houdt niet van poppen.'
+      nl: 'Pas op voor de wilde gans. Hij houdt niet van poppen.',
+      tl: 'Mag-ingat sa mabangong gus. Hindi nito gusto pokes.'
     }
   },
 
@@ -153,7 +160,8 @@ export default [
       fr: 'Puissant cordage soyeux qui vaut plus que tout votre équipement.',
       sv: 'Kraftfull silkeslen sträng värt mer än alla dina redskap.',
       es: 'Potente cuerda de seda que vale más que todo tu equipo.',
-      nl: 'Krachtig zijdeachtig touw dat meer waard is dan al je spullen.'
+      nl: 'Krachtig zijdeachtig touw dat meer waard is dan al je spullen.',
+      tl: 'Makapangyarihang parang seda string nagkakahalaga ng higit sa lahat ng iyong gear.'
     }
   },
 
@@ -172,7 +180,8 @@ export default [
       fr: 'Aiguisé et blanc... tu t\'es déjà coupé.',
       sv: 'Skarp och vit ... du skär dig själv redan.',
       es: 'Afilado y blanco... ya te has cortado.',
-      nl: 'Scherp en wit.... je hebt jezelf al gesneden.'
+      nl: 'Scherp en wit.... je hebt jezelf al gesneden.',
+      tl: 'Biglang at puti ... pinutol mo na ang iyong sarili.'
     }
   },
 
@@ -180,7 +189,7 @@ export default [
     name: {$$: 'Sticky Slime' },
 
     description: {
-      en: 'Gooey slop, taken from God knows where.',
+      en: 'Thick slop, taken from God knows where.',
       bg: 'Кашеста кал, взета от един Господ знае къде.',
       ru: 'Густая слизь, взята непонятно откуда',
       de: 'Zähflüssiger Dreck, von Gott weiß wo genommen.',
@@ -191,7 +200,8 @@ export default [
       fr: 'De la boue gluante, prise à Dieu sait où.',
       sv: 'Motbjudande slim, taget från Gud, vet var.',
       es: 'Bazofia pegajosa, tomada de Dios sabe dónde.',
-      nl: 'Kleverig slijm, ontnomen van God weet waar.'
+      nl: 'Kleverig slijm, ontnomen van God weet waar.',
+      tl: 'Ang malagkit na slop, na kinuha mula sa Diyos ay alam kung saan.'
     }
   },
 
@@ -210,7 +220,8 @@ export default [
       fr: 'Feuille d\'or finement gravée représentant la haute royauté.',
       sv: 'Fint inristat guldblad som representerar hög royalty.',
       es: 'Hoja de oro finamente grabada que representa altos derechos de autor.',
-      nl: 'Fijn gegraveerd blad van goud met een hoog koninklijk gehalte.'
+      nl: 'Fijn gegraveerd blad van goud met een hoog koninklijk gehalte.',
+      tl: 'May pinong engraved dahon ng ginto na kumakatawan sa mataas na royalty.'
     }
   },
 
@@ -229,7 +240,8 @@ export default [
       fr: 'L\'ingrédient classique d\'un bouillon de sorcière.',
       sv: 'Den klassiska ingrediensen till en häxes buljong.',
       es: 'El ingrediente clásico del caldo de bruja.',
-      nl: 'Het klassieke ingrediënt van de bouillon van een heks.'
+      nl: 'Het klassieke ingrediënt van de bouillon van een heks.',
+      tl: 'Ang klasikong sahog sa sabaw ng bruha.'
     }
   },
 
@@ -248,7 +260,8 @@ export default [
       fr: 'Éclats d\'os et de moelle collés ensemble avec de la salive éventée.',
       sv: 'Splinter av ben och märg limmade ihop med gammal saliv.',
       es: 'Astillas de hueso y médula pegadas con saliva rancia.',
-      nl: 'Fragmenten been en merg aan elkaar gelijmd met oud speeksel.'
+      nl: 'Fragmenten been en merg aan elkaar gelijmd met oud speeksel.',
+      tl: 'Ang mga fragment ng buto at utak ay nakadikit kasama ng lipas na laway.'
     }
   },
 
@@ -267,7 +280,8 @@ export default [
       fr: 'Petit bol à ragoût émietté. Attention, c\'est inflammable.',
       sv: 'Liten flisad gryta skål. Var försiktig, det är brandfarligt.',
       es: 'Pequeña cazuela de estofado astillada. Cuidado, es inflamable.',
-      nl: 'Kleine gechipt stoofpotje. Voorzichtig, het is brandbaar.'
+      nl: 'Kleine gechipt stoofpotje. Voorzichtig, het is brandbaar.',
+      tl: 'Maliit na pingas na nilagang tapyas. Mag-ingat, ito ay nasusunog.'
     }
   },
 
@@ -286,7 +300,8 @@ export default [
       fr: 'Les Mages veulent toujours paraître sages, peut-être qu\'ils ont eux aussi réalisé cet oculaire mystique et élégant.',
       sv: 'Trollkarlar vill alltid verka kloka, kanske de också gjorde detta mystiska och eleganta okular.',
       es: 'Los magos siempre quieren parecer sabios, quizás ellos también hicieron este místico y elegante ocular.',
-      nl: 'Tovenaars willen altijd verstandig overkomen, misschien hebben ze ook wel dit mystieke en elegante oculair gemaakt.'
+      nl: 'Tovenaars willen altijd verstandig overkomen, misschien hebben ze ook wel dit mystieke en elegante oculair gemaakt.',
+      tl: 'Gusto ng mga mages na mukhang matalino, marahil ay ginawa rin nila ang mistiko at eleganteng eyepiece na ito.'
     }
   },
 
@@ -306,7 +321,8 @@ export default [
       sv: 'Oj, skarp.',
       hi: 'आह! नुकीला',
       es: 'Ouch, afilado.',
-      nl: 'Auw, scherp.'
+      nl: 'Auw, scherp.',
+      tl: 'Mahusay, matalim.'
     }
   },
 
@@ -322,11 +338,12 @@ export default [
       pt: 'Uma pequena pilha de areia extremamente fina. De onde você tirou esta...',
       it: 'Un piccolo mucchio di sabbia finissima. Dove si fa questo.....',
       pl: 'Mała sterta bardzo drobnego piasku. Gdzie wyrzucasz ten....',
-      fr: 'Un petit tas de sable extrêmement fin. Où est-ce que tu t\'en sors....',
+      fr: 'Un petit tas de sable extrêmement fin. Où est-ce que tu t\'en sors...',
       sv: 'En liten hög med extremt fin sand. Var gör du det här ...',
       hi: 'महीम रेत का छोटा सा ढ़ेर। इसे लेकर कहा चले आप...',
       es: 'Una pequeña pila de arena extremadamente fina. "¿Dónde pones esto...?',
-      nl: 'Een kleine stapel extreem fijn zand. Waar leg je dit....'
+      nl: 'Een kleine stapel extreem fijn zand. Waar leg je dit...',
+      tl: 'Ang isang maliit na tumpok ng lubhang pinong buhangin. Saan mo inilagay ito...'
     }
   },
 
@@ -346,7 +363,8 @@ export default [
       sv: 'En tuft av matt mattat hår. T\'var en tuff kamp för att få tag i detta.',
       hi: 'बालों क सड़ा हुआ गच्छा। इसे पाने के लिए बड़ा युद्ध लड़ा था।',
       es: 'Un mechón de pelo pútrido y enmarañado. Fue una dura batalla para conseguir esto.',
-      nl: 'Een plukje verrot gematteerd haar. Het was een zware strijd om dit te bemachtigen.'
+      nl: 'Een plukje verrot gematteerd haar. Het was een zware strijd om dit te bemachtigen.',
+      tl: 'Ang isang tuft ng putrid matted buhok. T\'ay isang mahigpit na labanan upang makuha ang mga ito.'
     }
   },
 
@@ -366,7 +384,8 @@ export default [
       sv: 'Motbjudande larver av en okänd insekt. Förhoppningsvis en liten en ...',
       hi: 'अन्जाने कीड़े का भद्धा डिंभट। शायद छोटा-सा है...',
       es: 'Larvas asquerosas de un insecto desconocido. Espero que uno pequeño...',
-      nl: 'Smerige larven van een onbekend insect. Hopelijk een kleintje....'
+      nl: 'Smerige larven van een onbekend insect. Hopelijk een kleintje...',
+      tl: 'Nakakasira ng larvae ng isang hindi kilalang insekto. Sana may isang maliit na ...'
     }
   },
 
@@ -386,7 +405,8 @@ export default [
       sv: 'Konstigt triangulärt fragment av obsidian. Kanske är det en del av en större struktur...',
       hi: 'औबसीडियन का अजीब त्रीकोणीय टुकड़ा। शायद किसी बड़े स्तम्भ का हिस्सा है।',
       es: 'Extraño fragmento triangular de obsidiana. Tal vez es parte de una estructura más grande...',
-      nl: 'Vreemd driehoekig fragment van obsidiaan. Misschien maakt het deel uit van een grotere structuur...'
+      nl: 'Vreemd driehoekig fragment van obsidiaan. Misschien maakt het deel uit van een grotere structuur...',
+      tl: 'Kakaibang tatsulok na fragment ng obsidian. Marahil ito ay bahagi ng isang mas malaking istraktura ...'
     }
   },
 
@@ -406,7 +426,8 @@ export default [
       sv: 'Mesmeriserande kristallin dråp bryter ljus invecklat med små små bollar på dig som du håller det upp till solen.',
       hi: 'खूबसुरत मणिभीय बूंद जिसे सूर्य के सामने रखने पर यह रौशनी को सटीक तरीके से घुमाटर आप पर रौशनी के छोटे गोले प्रर्दशित करता है।',
       es: 'Una fascinante gota de luz cristalina que refracta la luz de forma intrincada y proyecta pequeñas bolas de luz sobre ti mientras la sostienes hacia el sol.',
-      nl: 'Betoverende kristallijne druppelbrekende lichtbrekende lichtbolletjes die ingewikkeld kleine lichtbolletjes op je werpen terwijl je het tegen de zon in de gaten houdt.'
+      nl: 'Betoverende kristallijne druppelbrekende lichtbrekende lichtbolletjes die ingewikkeld kleine lichtbolletjes op je werpen terwijl je het tegen de zon in de gaten houdt.',
+      tl: 'Ang napakalakas na mala-kristal na droplet na refracting light ay intricately paghahagis ng maliliit na bola ng liwanag papunta sa iyo habang pinipigilan mo ito sa araw.'
     }
   },
 
@@ -426,7 +447,8 @@ export default [
       sv: 'Skarp gotisk pilhuvud, gjord av en mystisk metall som suger rädsla i dina ben.',
       hi: 'नुकीला गोथिक तीर, रहस्यमई धातु से बना जो आपकी हड्डीयो में खौफ भर देता है।',
       es: 'Aguda punta de flecha gótica, hecha de un metal místico que se filtra el miedo en tus huesos.',
-      nl: 'Scherpe gotische pijlpunt, gemaakt van een mystiek metaal dat angst in je botten sijpelt.'
+      nl: 'Scherpe gotische pijlpunt, gemaakt van een mystiek metaal dat angst in je botten sijpelt.',
+      tl: 'Biglang Goth ulo ng isang arrow, na ginawa mula sa isang mystical metal na seeps takot sa iyong mga buto.'
     }
   },
   {
@@ -445,7 +467,8 @@ export default [
       sv: 'Kasta lite in i ett lägereld och du är ute efter en otäck explosiv överraskning.',
       hi: 'ऐक चुटकी को आग में दाले और धमाकेदार जादू अनुभव करें।',
       es: 'Tira un poco en una fogata y te llevarás una desagradable sorpresa explosiva.',
-      nl: 'Gooi wat in een kampvuur en je staat voor een vervelende explosieve verrassing.'
+      nl: 'Gooi wat in een kampvuur en je staat voor een vervelende explosieve verrassing.',
+      tl: 'Ihagis ang ilan sa isang apoy sa kampo at ikaw ay nasa para sa isang pangit na eksplosibong sorpresa.'
     }
   },
 
@@ -465,7 +488,8 @@ export default [
       sv: 'Tunna torra kvistar, kommer att brinna fint i ett lägereld.',
       hi: 'छोटे सूखे तिनके, आग जलाने के लिए सबसे बढ़िया।',
       es: 'Varas finas y secas, se queman muy bien en una fogata.',
-      nl: 'Dunne droge twijgen, zullen mooi branden in een kampvuur.'
+      nl: 'Dunne droge twijgen, zullen mooi branden in een kampvuur.',
+      tl: 'Ang manipis na dry twigs, ay mag-burn ng mabuti sa isang apoy sa kampo.'
     }
   },
 
@@ -485,7 +509,8 @@ export default [
       sv: 'Den skuriga läderhuden från en albino python sliter sig genom skogarna i dessa dalar.',
       hi: 'घने जंगलों में रेंगने वाले सफेद सांप ने छोड़ा चमड़ा।',
       es: 'La piel de cuero de una pitón albina se desliza a través de los bosques de estos valles.',
-      nl: 'De afgeworpen leerachtige huid van een albinopython die zich een weg baant door de bossen van deze valleien.'
+      nl: 'De afgeworpen leerachtige huid van een albinopython die zich een weg baant door de bossen van deze valleien.',
+      tl: 'Ang malaglag na katad na balat mula sa isang alyino na python na lumilipad sa daan sa mga kagubatan ng mga libis na ito.'
     }
   }
 
