@@ -53,14 +53,14 @@ const factions = [
   bloodlust]
 
 // Npcs
-import auctioneer from './npcs/auctioneer.js'
+import merchant from './npcs/merchant.js'
 import conjurer from './npcs/conjurer.js'
 import stash from './npcs/stash.js'
 import trader from './npcs/trader.js'
 const npcs = {
   conjurer,
   trader,
-  auctioneer,
+  merchant,
   stash
 }
 
