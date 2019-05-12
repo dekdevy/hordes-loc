@@ -2,7 +2,7 @@ export default [
   {
     name       : {$$: 'Linen Quiver' },
     description: {
-      en: 'Soft, full of holes. Arrows keep falling out'
+      en: 'Soft, full of holes. Arrows keep falling out',
       ru: 'Мягкий, дырявый. Стрелы постоянно выпадают.',
       de: 'Weich, voller Löcher. Pfeile fallen immer wieder heraus.',
       es: 'Si, los calcetines también pueden ser una aljaba.',
@@ -41,7 +41,7 @@ export default [
   {
     name       : {$$: 'Reinforced Quiver' },
     description: {
-      en: 'Linen sack covered in stiff leather.'
+      en: 'Linen sack covered in stiff leather.',
       ru: 'Льняной мешочек обтянутый жесткой кожей.',
       de: 'Leinensack mit steifem Leder bezogen.',
       es: 'Una bolsa de lana con cuero.',
@@ -73,7 +73,7 @@ export default [
   {
     name       : {$$: 'Snake Quiver' },
     description: {
-      en: 'Every time you pull an arrow out, it hisses at you.'
+      en: 'Every time you pull an arrow out, it hisses at you.',
       ru: 'Каждый раз, когда вы вытаскиваете стрелу, она шипит на вас.',
       de: 'Jedes Mal, wenn du einen Pfeil herausziehst, zischt er dich an.',
       es: '¡Serpientes! ¿¡Por qué tenía que ser serpientes!?',
@@ -98,7 +98,7 @@ export default [
   {
     name       : {$$: 'Lotharien' },
     description: {
-      en: 'Elven quiver coated in shimmering diamond.'
+      en: 'Elven quiver coated in shimmering diamond.',
       ru: 'Эльфийский колчан, покрытый мерцающим бриллиантом.',
       de: 'Elfenköcher, beschichtet mit schimmerndem Diamanten.',
       es: 'Un carcaj cubrierto en diamante creado por los duendes.',
