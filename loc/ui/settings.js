@@ -231,7 +231,6 @@ export default {
     ko: '오디오',
     ja: 'オーディオ',
     tl: 'Audio'
-    
   },
 
   // "SFX Loudness" is more suitable in some cases
@@ -255,7 +254,7 @@ export default {
     ht: 'Volim SFX',
     ko: 'SFX 볼륨',
     ja: 'SFXボリューム',
-    tl: 'Dami ng SFX' 
+    tl: 'Dami ng SFX'
   },
 
   // ---- Chat
