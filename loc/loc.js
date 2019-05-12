@@ -26,6 +26,7 @@ import shield from './items/shield.js'
 import staff from './items/staff.js'
 import sword from './items/sword.js'
 import talisman from './items/talisman.js'
+import totem from './items/totem.js'
 const items = {
   armlet,
   bag,
@@ -42,7 +43,8 @@ const items = {
   shield,
   staff,
   sword,
-  talisman
+  talisman,
+  totem
 }
 
 // Factions
