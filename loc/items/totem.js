@@ -84,7 +84,7 @@ export default [
       pl: 'Orzeł, szlachetny i odważny, wyrzeźbiony w świętym drewnie starożytnych drzew.',
       fr: 'Un aigle, noble et vaillant, sculpté dans le bois sacré des arbres anciens.',
       es: 'Un águila, noble y valiente, tallada en la madera sagrada de los árboles antiguos.',
-      nl: 'Een adelaar, edel en dapper, gesneden uit het heilige bos van de oude bomen.', 
+      nl: 'Een adelaar, edel en dapper, gesneden uit het heilige bos van de oude bomen.',
       hi: 'पौराणिक पेड़ों की पवित्र लकड़ी से बनाया गया गरुड़, बहादुर और महान।'
     }
   },
@@ -99,8 +99,7 @@ export default [
       pl: 'Moc tajemniczych wodnych demonów podąża Twoimi śladami, prowadząc Cię po ciemnej ścieżce nieznanych cudów.',
       fr: 'Le pouvoir des mystérieux démons aqueux suit vos traces alors que vous vous engagez sur le chemin sombre des merveilles inconnues.',
       es: 'El poder de los misteriosos demonios acuosos sigue tus pasos mientras guías el camino por el oscuro sendero de las maravillas desconocidas.',
-      nl: 'De kracht van de mysterieuze waterige demonen volgt je in je voetsporen en leidt je langs het donkere pad van de onbekende wonderen.',
-      
+      nl: 'De kracht van de mysterieuze waterige demonen volgt je in je voetsporen en leidt je langs het donkere pad van de onbekende wonderen.'
     }
   },
 
