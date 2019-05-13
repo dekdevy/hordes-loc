@@ -9,21 +9,23 @@ export default [
       pl: 'Zwitek ziół związany cienkim kawałkiem przędzy.',
       fr: 'Une liasse d\'herbes liées entre elles par un mince morceau de laine.',
       es: 'Un fajo de hierbas atado con un fino trozo de hilo.',
-      nl: 'Een propje kruiden samengebonden door een dun stukje garen.'
+      nl: 'Een propje kruiden samengebonden door een dun stukje garen.',
+      hi: 'पतले धागे से बांधा हुआ जड़ी-बूटियों का गुच्छा।'
     }
   },
 
   {
     name       : {$$: 'Twigs of Earth' },
     description: {
-      en: 'Tangles thin twigs scratch your hands as you carry it around.',
+      en: 'Tangled thin twigs scratch your hands as you carry it around.',
       ro: 'Crenguțe subțiri încurcate te zgârie pe mâini în timp ce le cari cu tine.',
       pt: 'Os galhos finos coçam as mãos enquanto a carregas.',
       it: 'Tangoli sottili ramoscelli sottili si graffiano le mani mentre lo portate in giro.',
       pl: 'Plącze cienkie gałązki drapiące ręce, gdy się je nosi.',
       fr: 'Des brindilles fines et enchevêtrées vous griffent les mains pendant que vous le portez partout.',
       es: 'Las delgadas ramitas enredadas raspan tus manos mientras las llevas a todas partes.',
-      nl: 'De klitten van dunne twijgen krabben aan je handen terwijl je het rond draagt.'
+      nl: 'De klitten van dunne twijgen krabben aan je handen terwijl je het rond draagt.',
+      hi: 'उलझे हुए तिनके जो अपने हाथ में पकडने से आपके हाथों को खरोंचेंए।'
     }
   },
 
@@ -37,7 +39,8 @@ export default [
       pl: 'Osobliwe rzeźbienie w kamieniu, gładkie od funtów czasu...',
       fr: 'Une sculpture en pierre particulière, lisse aux martèlements du temps...',
       es: 'Una peculiar talla en piedra, lisa por los golpes del tiempo...',
-      nl: 'Een eigenaardig stenen snijwerk, glad van het bonzen van de tijd...'
+      nl: 'Een eigenaardig stenen snijwerk, glad van het bonzen van de tijd...',
+      hi: 'पत्थर पर की गई अजीब नक्काशी, जो समय के साथ चिकनी हो गई है।'
     }
   },
 
@@ -51,7 +54,8 @@ export default [
       pl: 'Starożytna kość, wyryta scenami bitwy i polowań.',
       fr: 'Un os ancien, gravé de scènes de bataille et de chasse.',
       es: 'Un hueso antiguo, grabado con escenas de batalla y caza.',
-      nl: 'Een oud bot, geëtst met scènes van strijd en jacht.'
+      nl: 'Een oud bot, geëtst met scènes van strijd en jacht.',
+      hi: 'एक प्राचीन हड्डी, जिस पर युद्ध के दृश्य की नक्काशी है।'
     }
   },
 
@@ -65,7 +69,8 @@ export default [
       pl: 'Czysty, biały marmurowy pręt otoczony miękką, żółtą poświatą wypełniający dłonie boskim, duchowym światłem.',
       fr: 'Bâton de marbre blanc pur enveloppé d\'une douce lueur jaune remplissant vos mains d\'une lumière spirituelle divine.',
       es: 'Vara de mármol blanco puro envuelta en un suave resplandor amarillo que llena tus manos de una luz espiritual divina.',
-      nl: 'Puur wit marmeren staafje in een zachte gele gloed die je handen vult met een goddelijk spiritueel licht.'
+      nl: 'Puur wit marmeren staafje in een zachte gele gloed die je handen vult met een goddelijk spiritueel licht.',
+      hi: 'मुलायम पीले सोने में बंद शुद्ध सफेद संगमरमर की छड़ी जो आपके हाथों में दिव्य रौशनी डालती है।'
     }
   },
 
@@ -79,7 +84,8 @@ export default [
       pl: 'Orzeł, szlachetny i odważny, wyrzeźbiony w świętym drewnie starożytnych drzew.',
       fr: 'Un aigle, noble et vaillant, sculpté dans le bois sacré des arbres anciens.',
       es: 'Un águila, noble y valiente, tallada en la madera sagrada de los árboles antiguos.',
-      nl: 'Een adelaar, edel en dapper, gesneden uit het heilige bos van de oude bomen.'
+      nl: 'Een adelaar, edel en dapper, gesneden uit het heilige bos van de oude bomen.', 
+      hi: 'पौराणिक पेड़ों की पवित्र लकड़ी से बनाया गया गरुड़, बहादुर और महान।'
     }
   },
 
@@ -93,7 +99,8 @@ export default [
       pl: 'Moc tajemniczych wodnych demonów podąża Twoimi śladami, prowadząc Cię po ciemnej ścieżce nieznanych cudów.',
       fr: 'Le pouvoir des mystérieux démons aqueux suit vos traces alors que vous vous engagez sur le chemin sombre des merveilles inconnues.',
       es: 'El poder de los misteriosos demonios acuosos sigue tus pasos mientras guías el camino por el oscuro sendero de las maravillas desconocidas.',
-      nl: 'De kracht van de mysterieuze waterige demonen volgt je in je voetsporen en leidt je langs het donkere pad van de onbekende wonderen.'
+      nl: 'De kracht van de mysterieuze waterige demonen volgt je in je voetsporen en leidt je langs het donkere pad van de onbekende wonderen.',
+      
     }
   },
 
