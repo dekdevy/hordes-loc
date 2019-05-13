@@ -396,7 +396,21 @@ export default {
     ru: 'Масштаб интерфейса',
     hi: 'अन्तराफलक का पैमाना',
     ro: 'Scala interfeţei',
-    pt: 'Escala de interface'
+    pt: 'Escala de interface',
+    es: 'Escala de interfaz',
+    fr: 'Balance d\'interface',
+    de: 'Schnittstellenwaage',
+    ko: '인터페이스 스케일',
+    nl: 'Interface schaal',
+    pl: 'Skala interfejsów',
+    sv: 'Gränssnittskalan',
+    ht: 'Echèl Entèfas',
+    it: 'Scala d\'interfaccia',
+    tl: 'Scale ng interface',
+    el: 'Διαβάθμιση κλίμακας',
+    bg: 'Интерфейсен мащаб',
+    cs: 'Měřítko rozhraní',
+    ja: 'インターフェース規模'
   },
 
   tutorial: {
