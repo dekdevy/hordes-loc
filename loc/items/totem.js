@@ -13,7 +13,8 @@ export default [
       hi: 'पतले धागे से बांधा हुआ जड़ी-बूटियों का गुच्छा।',
       ru: 'Травяная куча, связанная тонкой нитью.',
       bg: 'Пачка билки, вързани с тънка прежда.',
-      cs: 'Hromada bylinek svázaných tenkým kouskem příze.'
+      cs: 'Hromada bylinek svázaných tenkým kouskem příze.',
+      tl: 'Isang balumbon ng mga damo na tinalian ng isang manipis na piraso ng sinulid.'
     }
   },
 
@@ -31,7 +32,8 @@ export default [
       hi: 'उलझे हुए तिनके जो अपने हाथ में पकडने से आपके हाथों को खरोंचेंए।',
       ru: 'Запутанные тонкие веточки царапают ваши руки когда вы носите их с собой.',
       bg: 'Заплетени тънки клонки почесват ръцете ви, докато го носите наоколо.',
-      cs: 'Zamotané tenké větvičky poškrábat ruce, jak si nesete kolem.'
+      cs: 'Zamotané tenké větvičky poškrábat ruce, jak si nesete kolem.',
+      tl: 'Gusot ang manipis na mga sanga scratch ang iyong mga kamay bilang dalhin mo ito sa paligid.'
     }
   },
 
@@ -49,7 +51,8 @@ export default [
       hi: 'पत्थर पर की गई अजीब नक्काशी, जो समय के साथ चिकनी हो गई है।',
       ru: 'Странная вырезка из камня, гладкая от ударов времени.',
       bg: 'Особена каменна дърворезба, гладка от ударите на времето.',
-      cs: 'Zvláštní kamenné řezbářství, hladké z bušení času.'
+      cs: 'Zvláštní kamenné řezbářství, hladké z bušení času.',
+      tl: 'Ang isang kakaibang bato larawang inukit, makinis mula sa mga poundings ng oras.'
     }
   },
 
@@ -67,7 +70,8 @@ export default [
       hi: 'एक प्राचीन हड्डी, जिस पर युद्ध के दृश्य की नक्काशी है।',
       ru: 'Древняя кость, выгравированная сценами сражений и охоты.',
       bg: 'Древна кост, гравирана с сцени на битка и лов.',
-      cs: 'Starobylá kost, vyrytá scénami bitvy a lovu.'
+      cs: 'Starobylá kost, vyrytá scénami bitvy a lovu.',
+      tl: 'Isang sinaunang buto, na may mga tanawin ng labanan at pangangaso.'
     }
   },
 
@@ -85,7 +89,8 @@ export default [
       hi: 'मुलायम पीले सोने में बंद शुद्ध सफेद संगमरमर की छड़ी जो आपके हाथों में दिव्य रौशनी डालती है।',
       ru: 'Мраморная палочка из чистого белого мрамора, заключенная в мягкое желтое сияние, наполняет ваши руки божественным душевным светом.',
       bg: 'Чиста бяла мраморна пръчка, обгърната с мека жълта светлина, изпълваща ръцете ви с божествена духовна светлина.',
-      cs: 'Čistě bílá mramorová tyč zapouzdřená do měkké žluté záře vyplňující vaše ruce božským duchovním světlem.'
+      cs: 'Čistě bílá mramorová tyč zapouzdřená do měkké žluté záře vyplňující vaše ruce božským duchovním světlem.',
+      tl: 'Purong puting marmol baras encased sa isang malambot na dilaw glow pagpuno ng iyong mga kamay sa isang banal na espirituwal na liwanag.'
     }
   },
 
@@ -103,7 +108,8 @@ export default [
       hi: 'पौराणिक पेड़ों की पवित्र लकड़ी से बनाया गया गरुड़, बहादुर और महान।',
       ru: 'Благородный и доблестный орёл, вырезанный из священного дерева древних лесов.',
       bg: 'Орел, благороден и храбър, издълбан от святото дърво на древните дървета.',
-      cs: 'Orel, vznešený a statečný, vytesaný ze svatého dřeva starých stromů.'
+      cs: 'Orel, vznešený a statečný, vytesaný ze svatého dřeva starých stromů.',
+      tl: 'Isang agila, marangal at magiting, na inukit mula sa banal na kahoy ng sinaunang mga puno.'
     }
   },
 
@@ -120,7 +126,8 @@ export default [
       nl: 'De kracht van de mysterieuze waterige demonen volgt je in je voetsporen en leidt je langs het donkere pad van de onbekende wonderen.',
       ru: 'Сила таинственных водных демонов следует по вашим стопам, как вы направляетесь по темному пути неизвестных чудес.',
       bg: 'Силата на тайнствените водни демони върви по стъпките ти, докато водиш пътя по тъмния път на непознатите чудеса.',
-      cs: 'Síla tajemných vodních démonů následuje vaše kroky, když se vydáte cestou temnou cestou neznámých divů.'
+      cs: 'Síla tajemných vodních démonů následuje vaše kroky, když se vydáte cestou temnou cestou neznámých divů.',
+      tl: 'Ang kapangyarihan ng mahiwagang aquatic demons ay sumusunod sa iyong mga yapak habang pinapatnubayan mo ang daan sa madilim na landas ng di kilalang mga kababalaghan.'
     }
   },
 
@@ -137,7 +144,8 @@ export default [
       nl: 'Verscheurd uit de patronen van de dimensie, dompelt deze demonische totem de zwakke geesten van je vijanden onder in een wolk van afschuwelijke verwarring.',
       ru: 'Оторванный от узора измерения, этот демонический тотем поглощает слабые умы ваших врагов под облаком страшных галлюцинаций.',
       bg: 'Изтръгнат от моделите на измерението, този демоничен тотем потапя слабите умове на вашите врагове под облак от ужасни объркване.',
-      cs: 'Tento démonický totem, roztrhaný ze vzorů dimenze, ponoří křehké mysli svých nepřátel pod mrak hrozných zmatek.'
+      cs: 'Tento démonický totem, roztrhaný ze vzorů dimenze, ponoří křehké mysli svých nepřátel pod mrak hrozných zmatek.',
+      tl: 'Napunit mula sa mga pattern ng isang dimensyon, sinasakop ng demonyo totem na ito ang mga mahina ang isip ng iyong mga kaaway sa ilalim ng isang ulap ng malungkot na pagkalito.'
     }
   },
 
@@ -154,7 +162,8 @@ export default [
       nl: 'Een griezelig houtsnijwerk van een grimmige wolf die soms een zacht huilend gefluister werpt in het geruis van de donkere nacht.',
       ru: 'Жуткая вырезка мрачного волка, иногда шепчущего тихим войом в шорох темной ночи.',
       bg: 'Зловеща резба на мрачен вълк, който понякога хвърляше мек шепот в шепота на тъмната нощ.',
-      cs: 'Strašidelné řezbářství ponurého vlka, který někdy vrhal do šeru temné noci měkké vytí.'
+      cs: 'Strašidelné řezbářství ponurého vlka, který někdy vrhal do šeru temné noci měkké vytí.',
+      tl: 'Isang nakatatakot na larawang inukit ng isang mabangis na lobo kung minsan ay naghahain ng isang malambot na alulong-tulad ng ibulong sa mga murmurs ng madilim na gabi.'
     }
   },
 
@@ -171,7 +180,8 @@ export default [
       nl: 'Wind en geest gaan hand in hand en houden je gevangen in hun snelle pad door de diepe valleien van goddelijkheid en verlichting.',
       ru: 'Ветер и духи движутся вместе, захватывая вас на своем стремительном пути через глубокие долины божественности и просветления.',
       bg: 'Вятърът и духът вървят ръка за ръка, за да ви уловят по бързия път през дълбоките долини на божествеността и просветлението.',
-      cs: 'Vítr a duch jdou ruku v ruce, chytí vás do jejich rychlé cesty hlubokými údolími božství a osvícení.'
+      cs: 'Vítr a duch jdou ruku v ruce, chytí vás do jejich rychlé cesty hlubokými údolími božství a osvícení.',
+      tl: 'Ang hangin at espiritu ay nagpapatuloy, na tinutulak ka sa kanilang mabilis na landas sa pamamagitan ng malalim na mga lambak ng kabanalan at paliwanag.'
     }
   }
 
