@@ -7,7 +7,7 @@ export default {
     de: 'Okay',
     hi: 'ठीक',
     fr: 'D\'accord',    // TODO: shorten
-    es: 'Bien',   // TODO: shorten
+    es: 'Bien',
     tr: 'Tamam',
     nl: 'Okee',
     pt: 'Está bem.',    // TODO: shorten, no puncts
@@ -30,11 +30,11 @@ export default {
     hi: 'पिछला',
     fr: 'Retour',
     de: 'Zurück',
-    es: 'Atras', //TODO: shorten
+    es: 'Atras',
     nl: 'Terug',
     tr: 'Geri',
     pt: 'Voltar',
-    pl: 'Popierać',  // TODO: shorten
+    pl: 'Wstecz',
     ht: 'Retounen',  // TODO: shorten
     ko: '뒤로가기',   // TODO: shorten ?
     it: 'Dietro',
@@ -50,7 +50,7 @@ export default {
     en: 'Accept',
     sv: 'Acceptera',
     ru: 'Принять',
-    hi: 'स्वीकार करना',
+    hi: 'स्वीकार है',
     fr: 'Acceptez',
     de: 'Akzeptieren',
     es: 'Aceptar',
@@ -74,7 +74,7 @@ export default {
     en: 'Decline',
     sv: 'Nedgång',
     ru: 'Отказать',
-    hi: 'पतन',
+    hi: 'नहीं',
     fr: 'Déclin',
     de: 'Ablehnen',
     es: 'Disminución',

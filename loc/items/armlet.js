@@ -100,7 +100,7 @@ export default [
       el: 'Κομψή μανσέτα από τα χέρια του τελευταίου μαμούθ',
       bg: 'Елегантен маншет, направен от бивните на последния мамут.',
       ja: '最後のマンモスの牙から作られたエレガントなカフ。',
-      ro: 'Manșetă elegantă realizată din colții ultimului mamut.'
+      ro: 'Manșetă elegantă confecționată din colții ultimului mamut.'
     }
   },
 
@@ -126,7 +126,7 @@ export default [
       hi: 'हाथ पर भारी... पर सुरक्षा ज़रूर देता है।',
       cs: 'Těžká na paži ... stojí za to.',
       ja: 'あなたの腕に重い...保護に値する。',
-      ro: 'Grea pe braț... merită protecția.'
+      ro: 'Grea pe braț... dar merită protecția.'
     }
   },
 
@@ -212,26 +212,26 @@ export default [
   {
     name       : {$$: 'Golem Fragment' },
     description: {
-      en: 'The archaic guardians left remnants of their passing, which you unscrupulously have decided to wear on your arm.',
-      ru: 'Архаичные стражи оставили остатки своих похождений, которые вы бессовестно решили надеть на руку.',
-      es: 'Un fragmento de los servientes de los archimagos de la era pasada. Has decido pónertelo porque... razones.',
-      fr: 'Les gardiens archaïques ont laissé des restes de leur passage, que vous avez sans scrupule décidé de porter sur votre bras.',
-      de: 'Die archaischen Wächter hinterließen Überreste ihres Todes, die du skrupellos auf deinem Arm getragen hast.',
-      pt: 'Os guardiões arcaicos deixaram vestígios de sua passagem, que você, sem escrúpulos, decidiu usar em seu braço.',
-      ko: '고풍의 수호자들이 남겨간 흔적들, 당신이 부주의하게 당신의 팔에 끼기로 결정했습니다.',
-      nl: 'De archaïsche voogden lieten restanten van hun overlijden achter, die je zonder scrupules op je arm hebt gedragen.',
-      pl: 'Archaiczni strażnicy zostawili po sobie resztki swojego odejścia, które bez skrupułów zdecydowaliście się nosić na ramieniu.',
-      sv: 'De arkaiska förmyndarna lämnade resterna av deras passerar, som du skarpt har bestämt dig för att bära på din arm.',
-      tr: 'Arkaik korumalar gelip geçerken acımasızca koluna takmaya karar verdiğiniz kalıntılarını bıraktılar.',
-      tl: 'Ang mga archaic tagapag-alaga ay nag-iwan ng mga labi ng kanilang pagpasa kung saan ka nang walang pagpapasiya ay nagpasya na magsuot sa iyong braso.',
-      ht: 'Gad akakolojik kite sold yo nan avantur yo, ki ou vèrgoy deside mete sou men an.',
+      en: 'The ancient golems left remnants of their passing, which you unscrupulously have decided to wear on your arm.',
+      ru: 'Древние големы оставили остатки своих похождений, которые вы бессовестно решили надеть на руку.',
+      es: 'Un fragmento de los antiguos gólemns de la era pasada. Has decido pónertelo porque... razones.',
+      fr: 'Les géants anciens ont laissé des restes de leur passage, que vous avez sans scrupule décidé de porter sur votre bras.',
+      de: 'Die alten Golems hinterließen Überreste ihres Ablebens, die du skrupellos auf deinem Arm getragen hast.',
+      pt: 'Os antigos gigantes deixaram vestígios de sua passagem, que você, sem escrúpulos, decidiu usar em seu braço.',
+      ko: '고대의 골렘들은 남은 자들을 떠났고, 당신은 부주의 한 태도로 팔에 끼기로 결정했습니다.',
+      nl: 'De oude reuzen lieten restanten van hun overlijden achter, die je zonder scrupules op je arm hebt gedragen.',
+      pl: 'Starożytnych gigantów zostawili po sobie resztki swojego odejścia, które bez skrupułów zdecydowaliście się nosić na ramieniu.',
+      sv: 'De gamla golemerna lämnade resterna av deras passerar, som du skarpt har bestämt dig för att bära på din arm.',
+      tr: 'Eski golemler, acımasızca kolunuza takmaya karar verdiğiniz pasajlarının kalıntılarını bıraktılar.',
+      tl: 'Ang mga sinaunang golems ay iniwan ang mga labi ng kanilang pagpasa, na kung saan ikaw ay walang alinlangan ay nagpasiya na magsuot sa iyong braso.',
+      ht: 'Golems yo ansyen kite sold nan pase yo, ki ou san skripil te deside mete sou bra ou.',
       it: 'I guardiani arcaici hanno lasciato i resti del loro passaggio, che avete deciso senza scrupoli di indossare sul vostro braccio.',
-      hi: 'पौराणिक संरक्षकों ने अपने अवशेष छोड़ दिए, और आपके बेझिझक उठा लिऐ।',
-      cs: 'Archaičtí strážci zanechali zbytky svého prochodu, které jste bezohledně rozhodli nosit na paži.',
-      el: 'Οι αρχαίοι κηδεμόνες άφησαν υπολείμματα του πέρασματός τους τα οποία εσείς ασυνείδητα έχετε αποφασίσει να φορέσετε στο χέρι σας',
-      bg: 'Архаичните настойници са оставили остатъци от минаването си, които безскрупулно сте решили да носите на ръката си.',
-      ja: '古風な守護者たちは、あなたが不注意にあなたの腕に身に着けることに決めた彼らの通過の残骸を残しました。',
-      ro: 'Gardienii arhaici au lăsat rămășițe în urma lor, pe care ați decis să le purtați fără scrupule.'
+      hi: 'प्राचीन गोले ने उनके गुजरने के अवशेषों को छोड़ दिया, जिसे आपने अनजाने में अपनी बांह पर पहनने का फैसला किया है।',
+      cs: 'Starověcí golemové zanechali pozůstatky svého průchodu, které jste bezohledně rozhodli nosit na paži.',
+      el: 'Οι αρχαίοι golems άφησαν υπολείμματα από το πέρασμα τους, τα οποία εσείς ασυνείδητα έχετε αποφασίσει να φορέσετε στο χέρι σας.',
+      bg: 'Древните големи оставиха остатъци от своето минаване, които безскрупулно сте решили да носите на ръката си.',
+      ja: '古代のゴーレムは彼らの追い越しの残骸を残しました、あなたは不注意にあなたの腕に身に着けることに決めました。',
+      ro: 'Golemii străvechi au lăsat rămășițe în urma lor, pe care tu, fără scrupule, ai decis să le porți pe braț.'
     }
   },
 
