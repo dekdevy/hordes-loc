@@ -197,14 +197,14 @@ export default [
   { // no translations needed at the moment
     name       : {$$: 'Cain' },
     description: {
-      en: 'A treacherous and powerful black quiver which often loses of your arrows in the most dire of moments.',
+      en: 'A treacherous and powerful black quiver which often loses of your arrows in the most dire of moments.'
     }
   },
 
   { // no translations needed at the moment
     name       : {$$: 'Nefarious' },
     description: {
-      en: 'A dark quiver coated in deep, shimmering navy throws you into a chasm of peace as you pull out another cherished arrow...',
+      en: 'A dark quiver coated in deep, shimmering navy throws you into a chasm of peace as you pull out another cherished arrow...'
     }
   }
 
