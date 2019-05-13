@@ -28,6 +28,7 @@ export default [
     name       : {$$: 'Silken Pouch' },
     description: {
       en: 'Soft and smooth to the touch, yet sturdy enough for your arrows.',
+      ru: 'Мягкий и гладкий на ощупь, но достаточно прочный для стрел.',
       nl: 'Zacht en glad aanvoelend, maar stevig genoeg voor uw pijlen.'
     }
   },
@@ -36,6 +37,7 @@ export default [
     name       : {$$: 'Bone Rod' },
     description: {
       en: 'Hollowed out bone, serving well as a makeshift quiver.',
+      ru: 'Выдолбленный из кости, служит как временный колчан.',
       nl: 'Uitgeholde botten, die goed dienen als provisorische koker.'
     }
   },
@@ -69,7 +71,8 @@ export default [
     name       : {$$: 'Mithril Weavings' },
     description: {
       en: 'Finely crafted quiver made from a mysterious shimmering material.',
-      nl: 'Fijn gemaakt koker gemaakt van een mysterieus glinsterend materiaal.'
+      nl: 'Fijn gemaakt koker gemaakt van een mysterieus glinsterend materiaal.',
+      ru: 'Хорошо сделаный колчан произведённый из мистического блестящего материала.'
     }
   },
 
@@ -126,14 +129,16 @@ export default [
   {
     name       : {$$: 'Cataclysm' },
     description: {
-      en: 'A spectacular emerald green quiver filling your foes with guilt as they prepare to attack you.'
+      en: 'A spectacular emerald green quiver filling your foes with guilt as they prepare to attack you.',
+      ru: 'Великолепный изумрудно-зеленый колчан наполняющий врагов чувством вины, когда те готовятся напасть на вас.'
     }
   },
 
   {
     name       : {$$: 'Cain' },
     description: {
-      en: 'A treacherous black quiver which often lets hold of your arrows in the most dire of moments.'
+      en: 'A treacherous black quiver which often lets hold of your arrows in the most dire of moments.',
+      ru: 'Коварный колчан чёрного цвета, быстро подаёт вам стрелы во время опасных моментов.'
     }
   },
 
