@@ -204,7 +204,7 @@ export default [
   { // no translations needed at the moment
     name       : {$$: 'Nefarious' },
     description: {
-      en: 'A dark quiver coated in deep, shimmering navy throws you into a chasm of peace as you pull out another cherished arrow...'
+      en: 'A quiver is coated in a deep, shimmering navy material. Ancient stories state that such a quiver clears the mind of distractions during battle.'
     }
   }
 
