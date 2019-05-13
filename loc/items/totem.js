@@ -12,7 +12,8 @@ export default [
       nl: 'Een propje kruiden samengebonden door een dun stukje garen.',
       hi: 'पतले धागे से बांधा हुआ जड़ी-बूटियों का गुच्छा।',
       ru: 'Травяная куча, связанная тонкой нитью.',
-      bg: 'Пачка билки, вързани с тънка прежда.'
+      bg: 'Пачка билки, вързани с тънка прежда.',
+      cs: 'Hromada bylinek svázaných tenkým kouskem příze.'
     }
   },
 
@@ -29,24 +30,26 @@ export default [
       nl: 'De klitten van dunne twijgen krabben aan je handen terwijl je het rond draagt.',
       hi: 'उलझे हुए तिनके जो अपने हाथ में पकडने से आपके हाथों को खरोंचेंए।',
       ru: 'Запутанные тонкие веточки царапают ваши руки когда вы носите их с собой.',
-      bg: 'Заплетени тънки клонки почесват ръцете ви, докато го носите наоколо.'
+      bg: 'Заплетени тънки клонки почесват ръцете ви, докато го носите наоколо.',
+      cs: 'Zamotané tenké větvičky poškrábat ruce, jak si nesete kolem.'
     }
   },
 
   {
     name       : {$$: 'Spiritual Carving' },
     description: {
-      en: 'A peculiar stone carving, smooth from the poundings of time..',
-      ro: 'O sculptură de piatră ciudată, netezită de trecerea timpului..',
-      pt: 'Uma peculiar escultura em pedra, suave das batidas do tempo...',
-      it: 'Una particolare scultura in pietra, liscia dai colpi del tempo....',
-      pl: 'Osobliwe rzeźbienie w kamieniu, gładkie od funtów czasu...',
-      fr: 'Une sculpture en pierre particulière, lisse aux martèlements du temps...',
-      es: 'Una peculiar talla en piedra, lisa por los golpes del tiempo...',
-      nl: 'Een eigenaardig stenen snijwerk, glad van het bonzen van de tijd...',
+      en: 'A peculiar stone carving, smooth from the poundings of time.',
+      ro: 'O sculptură de piatră ciudată, netezită de trecerea timpului.',
+      pt: 'Uma peculiar escultura em pedra, suave das batidas do tempo.',
+      it: 'Una particolare scultura in pietra, liscia dai colpi del tempo.',
+      pl: 'Osobliwe rzeźbienie w kamieniu, gładkie od funtów czasu.',
+      fr: 'Une sculpture en pierre particulière, lisse aux martèlements du temps.',
+      es: 'Una peculiar talla en piedra, lisa por los golpes del tiempo.',
+      nl: 'Een eigenaardig stenen snijwerk, glad van het bonzen van de tijd.',
       hi: 'पत्थर पर की गई अजीब नक्काशी, जो समय के साथ चिकनी हो गई है।',
-      ru: 'Странная вырезка из камня, гладкая от ударов времени...',
-      bg: 'Особена каменна дърворезба, гладка от ударите на времето.'
+      ru: 'Странная вырезка из камня, гладкая от ударов времени.',
+      bg: 'Особена каменна дърворезба, гладка от ударите на времето.',
+      cs: 'Zvláštní kamenné řezbářství, hladké z bušení času.'
     }
   },
 
@@ -63,7 +66,8 @@ export default [
       nl: 'Een oud bot, geëtst met scènes van strijd en jacht.',
       hi: 'एक प्राचीन हड्डी, जिस पर युद्ध के दृश्य की नक्काशी है।',
       ru: 'Древняя кость, выгравированная сценами сражений и охоты.',
-      bg: 'Древна кост, гравирана с сцени на битка и лов.'
+      bg: 'Древна кост, гравирана с сцени на битка и лов.',
+      cs: 'Starobylá kost, vyrytá scénami bitvy a lovu.'
     }
   },
 
@@ -80,7 +84,8 @@ export default [
       nl: 'Puur wit marmeren staafje in een zachte gele gloed die je handen vult met een goddelijk spiritueel licht.',
       hi: 'मुलायम पीले सोने में बंद शुद्ध सफेद संगमरमर की छड़ी जो आपके हाथों में दिव्य रौशनी डालती है।',
       ru: 'Мраморная палочка из чистого белого мрамора, заключенная в мягкое желтое сияние, наполняет ваши руки божественным душевным светом.',
-      bg: 'Чиста бяла мраморна пръчка, обгърната с мека жълта светлина, изпълваща ръцете ви с божествена духовна светлина.'
+      bg: 'Чиста бяла мраморна пръчка, обгърната с мека жълта светлина, изпълваща ръцете ви с божествена духовна светлина.',
+      cs: 'Čistě bílá mramorová tyč zapouzdřená do měkké žluté záře vyplňující vaše ruce božským duchovním světlem.'
     }
   },
 
@@ -97,14 +102,15 @@ export default [
       nl: 'Een adelaar, edel en dapper, gesneden uit het heilige bos van de oude bomen.',
       hi: 'पौराणिक पेड़ों की पवित्र लकड़ी से बनाया गया गरुड़, बहादुर और महान।',
       ru: 'Благородный и доблестный орёл, вырезанный из священного дерева древних лесов.',
-      bg: 'Орел, благороден и храбър, издълбан от святото дърво на древните дървета.'
+      bg: 'Орел, благороден и храбър, издълбан от святото дърво на древните дървета.',
+      cs: 'Orel, vznešený a statečný, vytesaný ze svatého dřeva starých stromů.'
     }
   },
 
   {
     name       : {$$: 'Aqua' },
     description: {
-      en: 'The power of the mysterious aqueous demons follows your footsteps as you lead the way along the dark path of the unknown wonders.',
+      en: 'The power of mysterious aquatic demons follows your footsteps as you lead the way along the dark path of the unknown wonders.',
       ro: 'Puterea demonilor misterioși ai apei îți urmează pașii în timp ce tu mergi pe calea întunecată a minunilor necunoscute.',
       pt: 'O poder dos misteriosos demônios aquosos segue seus passos enquanto você lidera o caminho ao longo do caminho escuro das maravilhas desconhecidas.',
       it: 'Il potere dei misteriosi demoni acquatici segue le tue orme mentre ti guidi lungo il sentiero buio delle meraviglie sconosciute.',
@@ -113,23 +119,25 @@ export default [
       es: 'El poder de los misteriosos demonios acuosos sigue tus pasos mientras guías el camino por el oscuro sendero de las maravillas desconocidas.',
       nl: 'De kracht van de mysterieuze waterige demonen volgt je in je voetsporen en leidt je langs het donkere pad van de onbekende wonderen.',
       ru: 'Сила таинственных водных демонов следует по вашим стопам, как вы направляетесь по темному пути неизвестных чудес.',
-      bg: 'Силата на тайнствените водни демони върви по стъпките ти, докато водиш пътя по тъмния път на непознатите чудеса.'
+      bg: 'Силата на тайнствените водни демони върви по стъпките ти, докато водиш пътя по тъмния път на непознатите чудеса.',
+      cs: 'Síla tajemných vodních démonů následuje vaše kroky, když se vydáte cestou temnou cestou neznámých divů.'
     }
   },
 
   {
     name       : {$$: 'Carving of Dimensions' },
     description: {
-      en: 'Torn from the patterns of the dimension, this demonic totem submerges the frail minds of your foes under a cloud of ghastly hallucinations.',
+      en: 'Torn from the patterns of a dimension, this demonic totem submerges the frail minds of your foes under a cloud of ghastly confusion.',
       ro: 'Smuls din tiparele dimensiunii, acest totem demonic scufundă mințile fragile ale dușmanilor tăi într-un un nor de halucinații îngrozitoare.',
-      pt: 'Arrancado dos padrões da dimensão, este totem demoníaco submerge as mentes frágeis de seus inimigos sob uma nuvem de alucinações horríveis.',
-      it: 'Strappato dai modelli della dimensione, questo totem demoniaco sommerge le menti fragili dei vostri nemici sotto una nuvola di allucinazioni spettrali.',
-      pl: 'Wyrwany ze wzorów wymiaru, ten demoniczny totem zanurza wątłe umysły twoich wrogów pod chmurą upiornych halucynacji.',
-      fr: 'Déchiré des motifs de la dimension, ce totem démoniaque submerge les esprits frêles de vos ennemis sous un nuage d\'hallucinations atroces.',
-      es: 'Arrancado de los patrones de la dimensión, este tótem demoníaco sumerge las frágiles mentes de tus enemigos bajo una nube de horribles alucinaciones.',
-      nl: 'Verscheurd uit de patronen van de dimensie, dompelt deze demonische totem de zwakke geesten van je vijanden onder in een wolk van afschuwelijke hallucinaties.',
+      pt: 'Arrancado dos padrões da dimensão, este totem demoníaco submerge as mentes frágeis de seus inimigos sob uma nuvem de confusão horríveis.',
+      it: 'Strappato dai modelli della dimensione, questo totem demoniaco sommerge le menti fragili dei vostri nemici sotto una nuvola di confusione spettrali.',
+      pl: 'Wyrwany ze wzorów wymiaru, ten demoniczny totem zanurza wątłe umysły twoich wrogów pod chmurą upiornych dezorientacja.',
+      fr: 'Déchiré des motifs de la dimension, ce totem démoniaque submerge les esprits frêles de vos ennemis sous un nuage désarroi atroces.',
+      es: 'Arrancado de los patrones de la dimensión, este tótem demoníaco sumerge las frágiles mentes de tus enemigos bajo una nube de horribles desconcierto.',
+      nl: 'Verscheurd uit de patronen van de dimensie, dompelt deze demonische totem de zwakke geesten van je vijanden onder in een wolk van afschuwelijke verwarring.',
       ru: 'Оторванный от узора измерения, этот демонический тотем поглощает слабые умы ваших врагов под облаком страшных галлюцинаций.',
-      bg: 'Изтръгнат от моделите на измерението, този демоничен тотем потапя слабите умове на вашите врагове под облак от ужасни халюцинации.'
+      bg: 'Изтръгнат от моделите на измерението, този демоничен тотем потапя слабите умове на вашите врагове под облак от ужасни объркване.',
+      cs: 'Tento démonický totem, roztrhaný ze vzorů dimenze, ponoří křehké mysli svých nepřátel pod mrak hrozných zmatek.'
     }
   },
 
@@ -145,7 +153,8 @@ export default [
       es: 'Una espeluznante escultura de un lobo lúgubre que a veces lanza un suave susurro parecido a un aullido entre los murmullos de la noche oscura.',
       nl: 'Een griezelig houtsnijwerk van een grimmige wolf die soms een zacht huilend gefluister werpt in het geruis van de donkere nacht.',
       ru: 'Жуткая вырезка мрачного волка, иногда шепчущего тихим войом в шорох темной ночи.',
-      bg: 'Зловеща резба на мрачен вълк, който понякога хвърляше мек шепот в шепота на тъмната нощ.'
+      bg: 'Зловеща резба на мрачен вълк, който понякога хвърляше мек шепот в шепота на тъмната нощ.',
+      cs: 'Strašidelné řezbářství ponurého vlka, který někdy vrhal do šeru temné noci měkké vytí.'
     }
   },
 
@@ -161,7 +170,8 @@ export default [
       es: 'El viento y el espíritu van de la mano, atrapándolos en su rápido camino a través de los profundos valles de la divinidad y la iluminación.',
       nl: 'Wind en geest gaan hand in hand en houden je gevangen in hun snelle pad door de diepe valleien van goddelijkheid en verlichting.',
       ru: 'Ветер и духи движутся вместе, захватывая вас на своем стремительном пути через глубокие долины божественности и просветления.',
-      bg: 'Вятърът и духът вървят ръка за ръка, за да ви уловят по бързия път през дълбоките долини на божествеността и просветлението.'
+      bg: 'Вятърът и духът вървят ръка за ръка, за да ви уловят по бързия път през дълбоките долини на божествеността и просветлението.',
+      cs: 'Vítr a duch jdou ruku v ruce, chytí vás do jejich rychlé cesty hlubokými údolími božství a osvícení.'
     }
   }
 
