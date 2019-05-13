@@ -163,7 +163,8 @@ export default {
     pt: 'Mover para o esconderijo',
     it: 'Spostare a nascondiglio',
     pl: 'Przenieś się do skrytki.',
-    fr: 'Aller à la cachette'
+    fr: 'Aller à la cachette',
+    es: 'Moverse a escondite'
   },
 
   stashed: {
@@ -171,7 +172,8 @@ export default {
     pt: '$1 foi transferido para o seu esconderijo',
     it: '$1 e\' stato spostato nella tua scorta.',
     pl: '$1 został przeniesiony do twojego magazynu.',
-    fr: '$1 a été transféré dans votre planque'
+    fr: '$1 a été transféré dans votre planque',
+    es: '$1 ha sido movido a tu escondite'
   },
 
   spend: {
