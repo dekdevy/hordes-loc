@@ -197,14 +197,16 @@ export default [
   {
     name       : {$$: 'Cain' },
     description: {
-      en: 'Crumbling scrolls that are stained with blood read that chaos fills the mind of those that have been touched by arrows held in such a quiver'
+      en: 'Crumbling scrolls that are stained with blood read that chaos fills the mind of those that have been touched by arrows held in such a quiver',
+      pt: 'Pergaminhos desmoronando que estão manchados de sangue lido que o caos enche a mente daqueles que foram tocados por setas seguradas em tal aljava'
     }
   },
 
   {
     name       : {$$: 'Nefarious' },
     description: {
-      en: 'A quiver is coated in a deep, shimmering navy material. Ancient stories state that such a quiver clears the mind of distractions during battle.'
+      en: 'A quiver is coated in a deep, shimmering navy material. Ancient stories state that such a quiver clears the mind of distractions during battle.',
+      pt: 'Um tremor é revestido num material marinho profundo e cintilante. Histórias antigas afirmam que tal aljava limpa a mente das distrações durante a batalha.'
     }
   }
 
