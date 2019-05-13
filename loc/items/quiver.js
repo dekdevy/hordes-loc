@@ -27,14 +27,16 @@ export default [
   {
     name       : {$$: 'Silken Pouch' },
     description: {
-      en: ' Soft and smooth to the touch, yet sturdy enough for your arrows.'
+      en: 'Soft and smooth to the touch, yet sturdy enough for your arrows.',
+      nl: 'Zacht en glad aanvoelend, maar stevig genoeg voor uw pijlen.'
     }
   },
 
   {
     name       : {$$: 'Bone Rod' },
     description: {
-      en: 'Hollowed out bone, serving well as a makeshift quiver.'
+      en: 'Hollowed out bone, serving well as a makeshift quiver.',
+      nl: 'Uitgeholde botten, die goed dienen als provisorische koker.'
     }
   },
 
@@ -66,7 +68,8 @@ export default [
   {
     name       : {$$: 'Mithril Weavings' },
     description: {
-      en: 'Finely crafted quiver made from a mysterious shimmering material. '
+      en: 'Finely crafted quiver made from a mysterious shimmering material.',
+      nl: 'Fijn gemaakt koker gemaakt van een mysterieus glinsterend materiaal.'
     }
   },
 
