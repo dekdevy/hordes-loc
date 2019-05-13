@@ -10,7 +10,8 @@ export default [
       fr: 'Une liasse d\'herbes liées entre elles par un mince morceau de laine.',
       es: 'Un fajo de hierbas atado con un fino trozo de hilo.',
       nl: 'Een propje kruiden samengebonden door een dun stukje garen.',
-      hi: 'पतले धागे से बांधा हुआ जड़ी-बूटियों का गुच्छा।'
+      hi: 'पतले धागे से बांधा हुआ जड़ी-बूटियों का गुच्छा।',
+      ru: 'Травяная куча, связанная тонкой нитью.'
     }
   },
 
@@ -25,7 +26,8 @@ export default [
       fr: 'Des brindilles fines et enchevêtrées vous griffent les mains pendant que vous le portez partout.',
       es: 'Las delgadas ramitas enredadas raspan tus manos mientras las llevas a todas partes.',
       nl: 'De klitten van dunne twijgen krabben aan je handen terwijl je het rond draagt.',
-      hi: 'उलझे हुए तिनके जो अपने हाथ में पकडने से आपके हाथों को खरोंचेंए।'
+      hi: 'उलझे हुए तिनके जो अपने हाथ में पकडने से आपके हाथों को खरोंचेंए।',
+      ru: 'Запутанные тонкие веточки царапают ваши руки когда вы носите их с собой.'
     }
   },
 
@@ -40,7 +42,8 @@ export default [
       fr: 'Une sculpture en pierre particulière, lisse aux martèlements du temps...',
       es: 'Una peculiar talla en piedra, lisa por los golpes del tiempo...',
       nl: 'Een eigenaardig stenen snijwerk, glad van het bonzen van de tijd...',
-      hi: 'पत्थर पर की गई अजीब नक्काशी, जो समय के साथ चिकनी हो गई है।'
+      hi: 'पत्थर पर की गई अजीब नक्काशी, जो समय के साथ चिकनी हो गई है।',
+      ru: 'Странная вырезка из камня, гладкая от ударов времени....'
     }
   },
 
@@ -55,7 +58,8 @@ export default [
       fr: 'Un os ancien, gravé de scènes de bataille et de chasse.',
       es: 'Un hueso antiguo, grabado con escenas de batalla y caza.',
       nl: 'Een oud bot, geëtst met scènes van strijd en jacht.',
-      hi: 'एक प्राचीन हड्डी, जिस पर युद्ध के दृश्य की नक्काशी है।'
+      hi: 'एक प्राचीन हड्डी, जिस पर युद्ध के दृश्य की नक्काशी है।',
+      ru: 'Древняя кость, выгравированная сценами сражений и охоты.'
     }
   },
 
@@ -70,7 +74,8 @@ export default [
       fr: 'Bâton de marbre blanc pur enveloppé d\'une douce lueur jaune remplissant vos mains d\'une lumière spirituelle divine.',
       es: 'Vara de mármol blanco puro envuelta en un suave resplandor amarillo que llena tus manos de una luz espiritual divina.',
       nl: 'Puur wit marmeren staafje in een zachte gele gloed die je handen vult met een goddelijk spiritueel licht.',
-      hi: 'मुलायम पीले सोने में बंद शुद्ध सफेद संगमरमर की छड़ी जो आपके हाथों में दिव्य रौशनी डालती है।'
+      hi: 'मुलायम पीले सोने में बंद शुद्ध सफेद संगमरमर की छड़ी जो आपके हाथों में दिव्य रौशनी डालती है।',
+      ru: 'Мраморная палочка из чистого белого мрамора, заключенная в мягкое желтое сияние, наполняет ваши руки божественным душевным светом.'
     }
   },
 
@@ -85,12 +90,13 @@ export default [
       fr: 'Un aigle, noble et vaillant, sculpté dans le bois sacré des arbres anciens.',
       es: 'Un águila, noble y valiente, tallada en la madera sagrada de los árboles antiguos.',
       nl: 'Een adelaar, edel en dapper, gesneden uit het heilige bos van de oude bomen.',
-      hi: 'पौराणिक पेड़ों की पवित्र लकड़ी से बनाया गया गरुड़, बहादुर और महान।'
+      hi: 'पौराणिक पेड़ों की पवित्र लकड़ी से बनाया गया गरुड़, बहादुर और महान।',
+      ru: 'Благородный и доблестный орёл, вырезанный из священного дерева древних лесов.'
     }
   },
 
   {
-    name       : {$$: 'Aquatus' },
+    name       : {$$: 'Aqua' },
     description: {
       en: 'The power of the mysterious aqueous demons follows your footsteps as you lead the way along the dark path of the unknown wonders.',
       ro: 'Puterea demonilor misterioși ai apei îți urmează pașii în timp ce tu mergi pe calea întunecată a minunilor necunoscute.',
@@ -99,7 +105,8 @@ export default [
       pl: 'Moc tajemniczych wodnych demonów podąża Twoimi śladami, prowadząc Cię po ciemnej ścieżce nieznanych cudów.',
       fr: 'Le pouvoir des mystérieux démons aqueux suit vos traces alors que vous vous engagez sur le chemin sombre des merveilles inconnues.',
       es: 'El poder de los misteriosos demonios acuosos sigue tus pasos mientras guías el camino por el oscuro sendero de las maravillas desconocidas.',
-      nl: 'De kracht van de mysterieuze waterige demonen volgt je in je voetsporen en leidt je langs het donkere pad van de onbekende wonderen.'
+      nl: 'De kracht van de mysterieuze waterige demonen volgt je in je voetsporen en leidt je langs het donkere pad van de onbekende wonderen.',
+      ru: 'Сила таинственных водных демонов следует по вашим стопам, как вы направляетесь по темному пути неизвестных чудес.'
     }
   },
 
@@ -113,7 +120,8 @@ export default [
       pl: 'Wyrwany ze wzorów wymiaru, ten demoniczny totem zanurza wątłe umysły twoich wrogów pod chmurą upiornych halucynacji.',
       fr: 'Déchiré des motifs de la dimension, ce totem démoniaque submerge les esprits frêles de vos ennemis sous un nuage d\'hallucinations atroces.',
       es: 'Arrancado de los patrones de la dimensión, este tótem demoníaco sumerge las frágiles mentes de tus enemigos bajo una nube de horribles alucinaciones.',
-      nl: 'Verscheurd uit de patronen van de dimensie, dompelt deze demonische totem de zwakke geesten van je vijanden onder in een wolk van afschuwelijke hallucinaties.'
+      nl: 'Verscheurd uit de patronen van de dimensie, dompelt deze demonische totem de zwakke geesten van je vijanden onder in een wolk van afschuwelijke hallucinaties.',
+      ru: 'Оторванный от узора измерения, этот демонический тотем поглощает слабые умы ваших врагов под облаком страшных галлюцинаций.'
     }
   },
 
@@ -127,7 +135,8 @@ export default [
       pl: 'Niesamowite wyrzeźbienie ponurego wilka, który czasem rzuca miękki, jak gdyby szept w szmery ciemnej nocy.',
       fr: 'Sculpture sinistre d\'un loup lugubre qui murmure parfois à voix basse dans les murmures de la nuit sombre.',
       es: 'Una espeluznante escultura de un lobo lúgubre que a veces lanza un suave susurro parecido a un aullido entre los murmullos de la noche oscura.',
-      nl: 'Een griezelig houtsnijwerk van een grimmige wolf die soms een zacht huilend gefluister werpt in het geruis van de donkere nacht.'
+      nl: 'Een griezelig houtsnijwerk van een grimmige wolf die soms een zacht huilend gefluister werpt in het geruis van de donkere nacht.',
+      ru: 'Жуткая вырезка мрачного волка, иногда шепчущего тихим войом в шорох темной ночи.'
     }
   },
 
@@ -141,7 +150,8 @@ export default [
       pl: 'Wiatr i duch idą ręka w rękę, uwięzienia w ich szybkiej drodze przez głębokie doliny boskości i oświecenia.',
       fr: 'Le vent et l\'esprit vont de pair, vous piégant sur leur chemin rapide à travers les vallées profondes de la divinité et de l\'illumination.',
       es: 'El viento y el espíritu van de la mano, atrapándolos en su rápido camino a través de los profundos valles de la divinidad y la iluminación.',
-      nl: 'Wind en geest gaan hand in hand en houden je gevangen in hun snelle pad door de diepe valleien van goddelijkheid en verlichting.'
+      nl: 'Wind en geest gaan hand in hand en houden je gevangen in hun snelle pad door de diepe valleien van goddelijkheid en verlichting.',
+      ru: 'Ветер и духи движутся вместе, захватывая вас на своем стремительном пути через глубокие долины божественности и просветления.'
     }
   }
 
