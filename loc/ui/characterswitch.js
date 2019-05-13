@@ -4,7 +4,7 @@ export default {
     en: 'Log Out',
     ru: 'Выйти',
     hi: 'बाहर आए',
-    es: 'Salir', // TODO: shorten
+    es: 'Salir',
     de: 'Abmelden',
     fr: 'Déconnexion',
     ko: '로그 아웃',
@@ -16,7 +16,7 @@ export default {
     tl: 'Mag-log Out',
     tr: 'Çıkış Yap',
     nl: 'Uitloggen',
-    pt: 'Terminar sessão', // TODO: shorten
+    pt: 'Sair',
     pl: 'Wyloguj się',
     ht: 'Dekonekte',
     ro: 'Deconectare'
@@ -26,7 +26,7 @@ export default {
     en: 'Home',
     ru: 'Домой',
     hi: 'मुख्य स्क्रीन',
-    es: 'Casa', // TODO: shorten
+    es: 'Casa',
     de: 'Startseite',
     fr: 'Accueil',
     ko: '홈페이지',
@@ -38,7 +38,7 @@ export default {
     tl: 'Bahay',
     tr: 'Anasayfa',
     nl: 'Thuis',
-    pt: 'voltar para inicio', // TODO: shorten
+    pt: 'Início',
     pl: 'Strona główna',
     ht: 'Paj lakay',
     ro: 'Acasă'
