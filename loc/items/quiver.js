@@ -29,7 +29,13 @@ export default [
     description: {
       en: 'Soft and smooth to the touch, yet sturdy enough for your arrows.',
       ru: 'Мягкий и гладкий на ощупь, но достаточно прочный для стрел.',
-      nl: 'Zacht en glad aanvoelend, maar stevig genoeg voor uw pijlen.'
+      nl: 'Zacht en glad aanvoelend, maar stevig genoeg voor uw pijlen.',
+      de: 'Weich und glatt im Griff, aber dennoch robust genug für Ihre Pfeile.',
+      fr: 'Doux et lisse au toucher, mais assez robuste pour vos flèches.',
+      es: 'Suave y suave al tacto, pero lo suficientemente resistente para tus flechas.',
+      pt: 'Suave e suave ao toque, mas resistente o suficiente para suas flechas.',
+      it: 'Morbido e liscio al tatto, ma abbastanza robusto per le frecce.',
+      pl: 'Miękka i gładka w dotyku, a jednocześnie wystarczająco wytrzymała, aby można było używać strzałek.'
     }
   },
 
@@ -38,7 +44,13 @@ export default [
     description: {
       en: 'Hollowed out bone, serving well as a makeshift quiver.',
       ru: 'Выдолбленный из кости, служит как временный колчан.',
-      nl: 'Uitgeholde botten, die goed dienen als provisorische koker.'
+      nl: 'Uitgeholde botten, die goed dienen als provisorische koker.',
+      de: 'Ausgehöhlter Knochen, der gut als behelfsmäßiges Köcherchen dient.',
+      fr: 'Os creusé, servant bien de carquois de fortune.',
+      es: 'Hueso ahuecado, sirviendo bien como un temblor improvisado.',
+      pt: 'Osso oco, servindo bem como uma aljava improvisada.',
+      it: 'Osso scavato, che serve bene come faretra di fortuna.',
+      pl: 'Wydrążona kość, dobrze służąca jako prowizoryczny kołczan.'
     }
   },
 
@@ -72,7 +84,13 @@ export default [
     description: {
       en: 'Finely crafted quiver made from a mysterious shimmering material.',
       nl: 'Fijn gemaakt koker gemaakt van een mysterieus glinsterend materiaal.',
-      ru: 'Хорошо сделаный колчан произведённый из мистического блестящего материала.'
+      ru: 'Хорошо сделаный колчан произведённый из мистического блестящего материала.',
+      de: 'Fein gearbeiteter Köcher aus einem geheimnisvoll schimmernden Material.',
+      fr: 'Carquois finement fabriqué à partir d\'un mystérieux matériau scintillant.',
+      es: 'Un carcaj finamente hecho de un misterioso material resplandeciente.',
+      pt: 'Aljava finamente trabalhada feita de um misterioso material cintilante.',
+      it: 'Faretra finemente realizzata in un misterioso materiale scintillante.',
+      pl: 'Precyzyjnie wykonany kołczan wykonany z tajemniczego, błyszczącego materiału.'
     }
   },
 
@@ -130,7 +148,13 @@ export default [
     name       : {$$: 'Cataclysm' },
     description: {
       en: 'A spectacular emerald green quiver filling your foes with guilt as they prepare to attack you.',
-      ru: 'Великолепный изумрудно-зеленый колчан наполняющий врагов чувством вины, когда те готовятся напасть на вас.'
+      ru: 'Великолепный изумрудно-зеленый колчан наполняющий врагов чувством вины, когда те готовятся напасть на вас.',
+      de: 'Ein spektakulärer smaragdgrüner Köcher, der deine Feinde mit Schuldgefühlen erfüllt, während sie sich darauf vorbereiten, dich anzugreifen.',
+      fr: 'Un carquois vert émeraude spectaculaire qui remplit vos ennemis de culpabilité alors qu\'ils se préparent à vous attaquer.',
+      es: 'Un espectacular carcaj de color verde esmeralda llena de culpa a tus enemigos mientras se preparan para atacarte.',
+      pt: 'Um espetacular aljava verde esmeralda enchendo seus inimigos de culpa enquanto eles se preparam para atacar você.',
+      it: 'Una spettacolare faretra verde smeraldo che riempie i tuoi nemici di sensi di colpa mentre si preparano ad attaccarti.',
+      pl: 'Spektakularny szmaragdowo-zielony kołczan wypełniający twoich wrogów poczuciem winy, gdy przygotowują się do ataku.'
     }
   },
 
@@ -138,7 +162,13 @@ export default [
     name       : {$$: 'Cain' },
     description: {
       en: 'A treacherous black quiver which often lets hold of your arrows in the most dire of moments.',
-      ru: 'Коварный колчан чёрного цвета, быстро подаёт вам стрелы во время опасных моментов.'
+      ru: 'Коварный колчан чёрного цвета, быстро подаёт вам стрелы во время опасных моментов.',
+      de: 'Ein tückischer schwarzer Köcher, der deine Pfeile oft in den schlimmsten Momenten hält.',
+      fr: 'Un carquois noir traître qui laisse souvent tenir vos flèches dans les moments les plus sombres.',
+      es: 'Un temblor negro traicionero que a menudo deja agarrar las flechas en los momentos más difíciles.',
+      pt: 'Uma trepidante aljava negra que muitas vezes permite segurar as flechas nos momentos mais terríveis.',
+      it: 'Una faretra nera infida che spesso permette di tenere in mano le frecce nei momenti più terribili.',
+      pl: 'Zdradziecki czarny kołczan, który często pozwala trzymać strzały w najbardziej tragicznych momentach.'
     }
   },
 
@@ -146,7 +176,13 @@ export default [
     name       : {$$: 'Nefarious' },
     description: {
       en: 'A dark quiver coated in shimmering deep navy throws you into a chasm of peace as you pull out another cherished arrow...',
-      ru: 'Колчан покрытый мерцающим тёмным цветом глубин. Придаёт тебе полное спокойстви пока ты достаёшь очередную драгонценную стрелу...'
+      ru: 'Колчан покрытый мерцающим тёмным цветом глубин. Придаёт тебе полное спокойстви пока ты достаёшь очередную драгонценную стрелу...',
+      de: 'Ein dunkler Köcher, der mit einer schimmernden tiefen Marine überzogen ist, stürzt dich in eine Schlucht des Friedens, während du einen weiteren geschätzten Pfeil herausziehst.....',
+      fr: 'Un carquois sombre recouvert d\'une profonde marine scintillante vous jette dans un abîme de paix alors que vous sortez une autre flèche chérie....',
+      es: 'Un carcaj oscuro cubierto de reluciente y profunda marina te arroja a un abismo de paz mientras sacas otra preciada flecha....',
+      pt: 'Uma aljava escura revestida de uma marinha profunda e cintilante atira-te para um abismo de paz enquanto puxas outra flecha acarinhada...',
+      it: 'Una faretra scura rivestita di scintillante marina profonda ti getta in un baratro di pace, mentre tiri fuori un\'altra amata freccia.....',
+      pl: 'Ciemny kołczan pokryty błyszczącą, głęboką flotą wrzuca Cię w przepaść spokoju, gdy wyciągasz kolejną cenioną strzałę...'
     }
   }
 
