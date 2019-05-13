@@ -33,7 +33,7 @@ export default {
     de: 'Du hast $1 gesammelt.',
     ro: 'Ai luat $1',
     fr: 'Vous avez ramassé $1.',
-    ru: 'Ты поднял $1',
+    ru: 'Вы подобрали $1',
     hi: 'आपने $1 उठा लिया',
     bg: 'Взехте $1',
     cs: 'Zvedli jste $1',
@@ -78,7 +78,7 @@ export default {
     de: 'Dein Inventar ist voll.',
     ro: 'Inventarul tău este plin',
     fr: 'Votre inventaire est complet',
-    ru: 'Ваш инвентарь полон',
+    ru: 'В инвентаре нет места',
     hi: 'आपकी वस्तुसूचि भर गयी है',
     bg: 'Инвентара е пълен.',
     cs: 'Váš inventář je plný',
@@ -114,7 +114,7 @@ export default {
 
   drop: {
     en: 'Drop item',
-    ru: 'выбросить предмет',
+    ru: 'выбросить',
     hi: 'वस्तु गिरा दे',
     es: 'Posición de entrega',
     de: 'Gegenstand ablegen',
@@ -160,6 +160,7 @@ export default {
 
   stash: {
     en: 'Move to stash',
+    ru: 'Положить в сундук',
     pt: 'Mover para o esconderijo',
     it: 'Spostare a nascondiglio',
     pl: 'Przenieś się do skrytki.',
@@ -170,6 +171,7 @@ export default {
 
   stashed: {
     en: '$1 has been moved to your stash',
+    ru: '$1 Было перенесено в сундук',
     pt: '$1 foi transferido para o seu esconderijo',
     it: '$1 e\' stato spostato nella tua scorta.',
     pl: '$1 został przeniesiony do twojego magazynu.',
@@ -180,7 +182,7 @@ export default {
 
   spend: {
     en: 'You have spent $1 coins',
-    ru: 'Вы потратили $1 монет.',
+    ru: 'Вы потратили $1 монеты',
     es: 'Has gastado 2 monedas',
     fr: 'Vous avez dépensé $1 pièces',
     de: 'Du hast $1 Münzen ausgegeben.',
@@ -226,7 +228,7 @@ export default {
 
   auctionbuy: {
     en: 'Item purchased for $1 coins and sent to your Stash',
-    ru: 'Предмет, купленный за $1 и отправленный на ваш сундук',
+    ru: 'Предмет, купленный за $1, отправлен в ваш сундук',
     es: 'Artículo comprado por $1 monedas y enviado a su Stash',
     fr: 'Article acheté pour $1 pièces et envoyé à votre Stash',
     de: 'Artikel, der für $1 Münzen gekauft und an Ihr Versteck geschickt wurde.',
