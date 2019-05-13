@@ -203,7 +203,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Nefarious' },
+    name       : {$$: 'Vodhrai' },
     description: {
       en: 'A quiver is coated in a deep, shimmering navy material. Ancient stories state that such a quiver clears the mind of distractions during battle.',
       pt: 'Um tremor é revestido num material marinho profundo e cintilante. Histórias antigas afirmam que tal aljava limpa a mente das distrações durante a batalha.'
