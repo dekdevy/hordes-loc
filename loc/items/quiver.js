@@ -2,7 +2,7 @@ export default [
   {
     name       : {$$: 'Linen Quiver' },
     description: {
-      en: 'Soft, full of holes. Arrows keep falling out.',
+      en: 'Soft, full of holes. Arrows keep falling out',
       ru: 'Мягкий, дырявый. Стрелы постоянно выпадают.',
       de: 'Weich, voller Löcher. Pfeile fallen immer wieder heraus.',
       es: 'Si, los calcetines también pueden ser una aljaba.',
@@ -21,6 +21,20 @@ export default [
       sv: 'Mjuk, full av hål. Pilarna fortsätter att falla ut.',
       ko: '부드러운, 구멍 가득. 화살표는 계속 떨어지고 있습니다.',
       ro: 'Moale, plină de găuri. Săgețile continuă să cadă.'
+    }
+  },
+
+  {
+    name       : {$$: 'Silken Pouch' },
+    description: {
+      en: ' Soft and smooth to the touch, yet sturdy enough for your arrows.'
+    }
+  },
+
+  {
+    name       : {$$: 'Bone Rod' },
+    description: {
+      en: 'Hollowed out bone, serving well as a makeshift quiver.'
     }
   },
 
@@ -50,27 +64,34 @@ export default [
   },
 
   {
-    name       : {$$: 'Last Reserves' },
+    name       : {$$: 'Mithril Weavings' },
     description: {
-      en: 'Used when all else fails.',
-      ru: 'Используется, когда ничего не помогает.',
-      de: 'Wird verwendet, wenn alles andere fehlschlägt.',
-      es: 'Nunca se queda sin flechas.',
-      tl: 'Ginamit kapag nabigo ang lahat.',
-      bg: 'Използва се, когато всичко друго се провали.',
-      el: 'Χρησιμοποιείται όταν αποτύχουν όλα τα υπόλοιπα.',
-      fr: 'À utiliser lorsque tout le reste échoue.',
-      it: 'Usato quando tutto il resto fallisce.',
-      pt: 'Usado quando tudo o resto falha.',
-      hi: 'आख़री रास्ता यही है',
-      nl: 'Wordt gebruikt als al het andere faalt.',
-      pl: 'Używane, gdy wszystko inne zawodzi.',
-      ht: 'Itilize lè tout lòt bagay echwe.',
-      cs: 'Používá se, když všechno ostatní selže.',
-      ja: '他のすべてが失敗したときに使用されます。',
-      sv: 'Används när allt annat misslyckas.',
-      ko: '다른 모든 것이 실패 할 때 사용됩니다.',
-      ro: 'Folosit atunci când toate celelalte eșuează.'
+      en: 'Finely crafted quiver made from a mysterious shimmering material. '
+    }
+  },
+
+  {
+    name       : {$$: 'Snake Quiver' },
+    description: {
+      en: 'Every time you pull an arrow out, it hisses at you.',
+      ru: 'Каждый раз, когда вы вытаскиваете стрелу, она шипит на вас.',
+      de: 'Jedes Mal, wenn du einen Pfeil herausziehst, zischt er dich an.',
+      es: '¡Serpientes! ¿¡Por qué tenía que ser serpientes!?',
+      tl: 'Sa bawat oras na hilahin mo ang isang arrow out ito heses sa iyo.',
+      bg: 'Всеки път, когато издърпате стрела, тя изсъхва.',
+      el: 'Κάθε φορά που τραβάς ένα βέλος, σου σου σου λέει.',
+      fr: 'Un carquois fait en peau de serpent, pouvant supporter les plus puissantes flèches.',
+      it: 'Ogni volta che tiri fuori una freccia, ti sibila addosso.',
+      pt: 'Sempre que puxas uma flecha para fora, ela sibila para ti.',
+      hi: 'तीर निकालने पर साँप की तरह फूफकारती है।',
+      nl: 'Elke keer als je een pijl eruit trekt, sist het naar je.',
+      pl: 'Za każdym razem, gdy wyciągasz strzałę, syczysz na siebie.',
+      ht: 'Chak fwa ou rale yon flèch soti, li sifle nan ou.',
+      cs: 'Pokaždé, když vytáhnete šipku, zasyče na vás.',
+      ja: 'あなたが矢を引き出すたびにそれはあなたに向かっている。',
+      sv: 'Varje gång du drar en pil ut hissar den på dig.',
+      ko: '당신이 화살을 꺼낼 때마다, 그것은 당신에게 겁을줍니다.',
+      ro: 'De fiecare dată când scoți o săgeată, te sâsâie.'
     }
   },
 
@@ -100,27 +121,23 @@ export default [
   },
 
   {
-    name       : {$$: 'Snake Quiver' },
+    name       : {$$: 'Cataclysm' },
     description: {
-      en: 'Every time you pull an arrow out, it hisses at you.',
-      ru: 'Каждый раз, когда вы вытаскиваете стрелу, она шипит на вас.',
-      de: 'Jedes Mal, wenn du einen Pfeil herausziehst, zischt er dich an.',
-      es: '¡Serpientes! ¿¡Por qué tenía que ser serpientes!?',
-      tl: 'Sa bawat oras na hilahin mo ang isang arrow out ito heses sa iyo.',
-      bg: 'Всеки път, когато издърпате стрела, тя изсъхва.',
-      el: 'Κάθε φορά που τραβάς ένα βέλος, σου σου σου λέει.',
-      fr: 'Un carquois fait en peau de serpent, pouvant supporter les plus puissantes flèches.',
-      it: 'Ogni volta che tiri fuori una freccia, ti sibila addosso.',
-      pt: 'Sempre que puxas uma flecha para fora, ela sibila para ti.',
-      hi: 'तीर निकालने पर साँप की तरह फूफकारती है।',
-      nl: 'Elke keer als je een pijl eruit trekt, sist het naar je.',
-      pl: 'Za każdym razem, gdy wyciągasz strzałę, syczysz na siebie.',
-      ht: 'Chak fwa ou rale yon flèch soti, li sifle nan ou.',
-      cs: 'Pokaždé, když vytáhnete šipku, zasyče na vás.',
-      ja: 'あなたが矢を引き出すたびにそれはあなたに向かっている。',
-      sv: 'Varje gång du drar en pil ut hissar den på dig.',
-      ko: '당신이 화살을 꺼낼 때마다, 그것은 당신에게 겁을줍니다.',
-      ro: 'De fiecare dată când scoți o săgeată, te sâsâie.'
+      en: 'A spectacular emerald green quiver filling your foes with guilt as they prepare to attack you.'
+    }
+  },
+
+  {
+    name       : {$$: 'Cain' },
+    description: {
+      en: 'A treacherous black quiver which often lets hold of your arrows in the most dire of moments.'
+    }
+  },
+
+  {
+    name       : {$$: 'Nefarious' },
+    description: {
+      en: 'A dark quiver coated in shimmering deep navy throws you into a chasm of peace as you pull out another cherished arrow...'
     }
   }
 

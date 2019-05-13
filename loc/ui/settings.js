@@ -108,7 +108,13 @@ export default {
     el: 'Προβολή εύρους',
     bg: 'Преглед на обхвата',
     cs: 'Zobrazit rozsah',
-    hi: 'नज़र सीमा'
+    hi: 'नज़र सीमा',
+    fr: 'Plage d\'affichage',
+    tr: 'Görüş mesafesi',
+    ht: 'Je ranje',
+    ko: '범위보기',
+    ja: '表示範囲',
+    tl: 'Tingnan ang saklaw'
   },
 
   resolution: {
@@ -218,10 +224,16 @@ export default {
     el: 'Ήχος',
     bg: 'звуков',
     cs: 'Вук',
-    hi: 'आवाज़'
+    hi: 'आवाज़',
+    fr: 'Audio  ',
+    tr: 'Ses',
+    ht: 'Audio',
+    ko: '오디오',
+    ja: 'オーディオ',
+    tl: 'Audio'
   },
 
-  // "SFX Loudness" is better in some cases
+  // "SFX Loudness" is more suitable in some cases
   sfxvolume: {
     en: 'SFX Volume',
     ru: 'Громкость эффектов',
@@ -236,7 +248,13 @@ export default {
     el: 'Ενταση SFX',
     bg: 'гръмкостта SFX',
     cs: 'Objem SFX',
-    hi: 'इफैक्ट्स की आवाज़'
+    hi: 'इफैक्ट्स की आवाज़',
+    fr: 'SFX Sonie',
+    tr: 'SFX Ses Gücü',
+    ht: 'Volim SFX',
+    ko: 'SFX 볼륨',
+    ja: 'SFXボリューム',
+    tl: 'Dami ng SFX'
   },
 
   // ---- Chat
@@ -324,7 +342,13 @@ export default {
     el: 'Διεπαφή',
     bg: 'интерфейс',
     cs: 'Rozhraní',
-    hi: 'अन्तराफलक'
+    hi: 'अन्तराफलक',
+    fr: 'Interface',
+    tr: 'Arayüzey',
+    ht: 'Entèfas',
+    ko: '인터페이스',
+    ja: 'インタフェース',
+    tl: 'Interface'
   },
 
   language: {
@@ -341,7 +365,13 @@ export default {
     el: 'Γλώσσα',
     bg: 'език',
     cs: 'Jazyk',
-    hi: 'भाषा'
+    hi: 'भाषा',
+    fr: 'Langue',
+    tr: 'Dil',
+    ht: 'Lang',
+    ko: '언어',
+    ja: '言語',
+    tl: 'Wika'
   },
 
   invwidth: {
@@ -365,7 +395,8 @@ export default {
     en: 'Interface scale',
     ru: 'Масштаб интерфейса',
     hi: 'अन्तराफलक का पैमाना',
-    ro: 'Scala interfeţei'
+    ro: 'Scala interfeţei',
+    pt: 'Escala de interface'
   },
 
   tutorial: {

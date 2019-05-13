@@ -26,6 +26,7 @@ import shield from './items/shield.js'
 import staff from './items/staff.js'
 import sword from './items/sword.js'
 import talisman from './items/talisman.js'
+import totem from './items/totem.js'
 const items = {
   armlet,
   bag,
@@ -42,7 +43,8 @@ const items = {
   shield,
   staff,
   sword,
-  talisman
+  talisman,
+  totem
 }
 
 // Factions
@@ -53,13 +55,15 @@ const factions = [
   bloodlust]
 
 // Npcs
-import auctioneer from './npcs/auctioneer.js'
 import conjurer from './npcs/conjurer.js'
+import merchant from './npcs/merchant.js'
+import stash from './npcs/stash.js'
 import trader from './npcs/trader.js'
 const npcs = {
   conjurer,
   trader,
-  auctioneer
+  merchant,
+  stash
 }
 
 // User interface
