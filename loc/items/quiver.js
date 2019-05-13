@@ -203,7 +203,7 @@ export default [
   },
 
   {
- name       : {$$: 'Cain' },
+    name       : {$$: 'Cain' },
     description: {
       en: 'Crumbling scrolls that are stained with blood read that chaos fills the mind of those that have been touched by arrows held in such a quiver',
       pt: 'Pergaminhos desmoronando que estão manchados de sangue lido que o caos enche a mente daqueles que foram tocados por setas seguradas em tal aljava'
