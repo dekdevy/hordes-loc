@@ -145,7 +145,8 @@ export default [
   {
     name       : {$$: 'Nefarious' },
     description: {
-      en: 'A dark quiver coated in shimmering deep navy throws you into a chasm of peace as you pull out another cherished arrow...'
+      en: 'A dark quiver coated in shimmering deep navy throws you into a chasm of peace as you pull out another cherished arrow...',
+      ru: 'Колчан покрытый мерцающим тёмным цветом глубин. Придаёт тебе полное спокойстви пока ты достаёшь очередную драгонценную стрелу...'
     }
   }
 
