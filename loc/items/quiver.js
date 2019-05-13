@@ -198,15 +198,45 @@ export default [
     name       : {$$: 'Vodhrai' },
     description: {
       en: 'A quiver is coated in a deep, shimmering navy material. Ancient stories state that such a quiver clears the mind of distractions during battle.',
-      pt: 'Um tremor é revestido num material marinho profundo e cintilante. Histórias antigas afirmam que tal aljava limpa a mente das distrações durante a batalha.'
+      pt: 'Um tremor é revestido num material marinho profundo e cintilante. Histórias antigas afirmam que tal aljava limpa a mente das distrações durante a batalha.',
+      es: 'Un carcaj está recubierto de un material marino profundo y brillante. Historias antiguas afirman que tal carcajada despeja la mente de distracciones durante la batalla.',
+      fr: 'Un carquois est recouvert d\'une matière marine profonde et scintillante. Les histoires anciennes disent qu\'un tel carquois libère l\'esprit des distractions pendant les combats.',
+      de: 'Ein Köcher ist mit einem tiefen, schimmernden Marinematerial überzogen. Alte Geschichten besagen, dass ein solches Zittern den Geist von Ablenkungen im Kampf befreit.',
+      ko: '떨림은 깊고 반짝이는 해군 재료로 코팅됩니다. 고대의 이야기는 그러한 떨림이 전투 중 산만 함의 마음을 맑게한다고 말한다.',
+      nl: 'Een koker is gecoat in een diep, glinsterend marinemateriaal. Oude verhalen zeggen dat zo\'n koker de geest ontdoet van afleiding tijdens een gevecht.',
+      pl: 'Dzióbek jest pokryty głębokim, mieniącym się materiałem z marynarki wojennej. Starożytne historie mówią, że taki kołczan oczyszcza umysł z zakłóceń podczas walki.',
+      sv: 'En quiver är belagd i ett djupt, skimrande marinmaterial. Antika historier säger att en sådan dödare rensar sinnet av distraheringar under striden.',
+      ht: 'Yon flèch kouvwi nan yon gwo basen byen fon, chandèl materyèl marin. Istwa ansyen deklare ke tankou yon flèch netwaye lespri a nan distraksyon pandan batay.',
+      it: 'Una faretra è rivestita in un materiale navale profondo e scintillante. Antiche storie affermano che tale faretra libera la mente dalle distrazioni durante la battaglia.',
+      hi: 'एक तरकश एक गहरी, झिलमिलाता नौसेना सामग्री में लेपित है। प्राचीन कहानियों में कहा गया है कि इस तरह के एक तरकश लड़ाई के दौरान ध्यान भंग करने का मन साफ ​​करता है।',
+      tl: 'Ang isang engkanto ay pinahiran sa isang malalim, shimmering navy materyal. Sinasabi ng mga sinaunang istorya na ang ganitong pag-iikot ay nag-aalis ng isip ng mga kaguluhan sa panahon ng labanan.',
+      el: 'Ένα τρίχωμα είναι επικαλυμμένο σε ένα βαθύ, λαμπερό ναυτικό υλικό. Οι αρχαίες ιστορίες δηλώνουν ότι ένας τέτοιος φαύλος καθαρίζει το μυαλό των περισπασμών κατά τη διάρκεια της μάχης.',
+      bg: 'Колчанът е покрит с дълбок, блестящ материал. Древните истории заявяват, че такъв колчан изчиства ума на отвличанията по време на битка.',
+      cs: 'Toulec je potažen hlubokým, třpytivým námořnickým materiálem. Starověké příběhy říkají, že takový tulák vyčistí mysl rozptylování během bitvy.',
+      ja: '震えは深く、きらめく海軍材料でコーティングされています。古代の物語は、そのような震えが戦いの間に気晴らしの心をクリアすると述べています。'
     }
   },
 
   {
     name       : {$$: 'Cain' },
     description: {
-      en: 'Crumbling scrolls that are stained with blood read that chaos fills the mind of those that have been touched by arrows held in such a quiver',
-      pt: 'Pergaminhos desmoronando que estão manchados de sangue lido que o caos enche a mente daqueles que foram tocados por setas seguradas em tal aljava'
+      en: 'Crumbling scrolls that are stained with blood read that chaos fills the mind of those that have been touched by arrows held in such a quiver.',
+      pt: 'Pergaminhos desmoronando que estão manchados de sangue lido que o caos enche a mente daqueles que foram tocados por setas seguradas em tal aljava.',
+      es: 'Pergaminos que se desmoronan y están manchados de sangre leen que el caos llena la mente de aquellos que han sido tocados por flechas sostenidas en tal carcajada.',
+      fr: 'Des parchemins émiettés et tachés de sang lisent que le chaos remplit l\'esprit de ceux qui ont été touchés par les flèches contenues dans un tel carquois.',
+      de: 'Zerbröckelnde Schriftrollen, die mit Blut befleckt sind, lesen, dass das Chaos den Geist derer erfüllt, die von Pfeilen berührt wurden, die in einem solchen Köcher gehalten werden.',
+      ko: '피로 얼룩진 악화 된 두루마리는 혼돈이 그 떨림 속에 든 화살에 닿은 사람들의 마음을 채우는 것을 읽습니다.',
+      nl: 'Afbrokkelende krullen die bevlekt zijn met bloed lezen dat de chaos de geest vult van degenen die zijn aangeraakt door pijlen die in zo\'n koker worden gehouden',
+      pl: 'Kruszące się zwoje poplamione krwią czytają, że chaos wypełnia umysł tych, których dotknęły strzały trzymane w takim kołczanie.',
+      sv: 'Förnedrande rullar som är färgade med blod läser att kaos fyller tankarna hos dem som har blivit rörda av pilar som hålls i ett sådant peka',
+      ht: 'Tonbe woulo ki gen tache ak san li ke dezòd ranpli lespri a nan moun ki te manyen ak flèch ki te fèt nan yon tèlman fou',
+      it: 'Pergamene sbriciolanti che sono macchiate di sangue leggiamo che il caos riempie la mente di coloro che sono stati toccati da frecce tenute in una tale faretra',
+      hi: 'रक्त के साथ दागने वाले क्रम्बल स्क्रॉल पढ़ते हैं कि अराजकता उन लोगों के दिमाग को भर देती है जिन्हें इस तरह के तरकश में रखे गए तीर द्वारा छुआ गया है',
+      tl: 'Ang mabagsik na mga balumbon na nabaho sa dugo ay nagbabasa na ang mga kaguluhan ay pumupuno sa isip ng mga naantig sa mga arrow na gaganapin sa naturang isang paliwanagan',
+      el: 'Τραγανισμένοι κύλινδροι που είναι χρωματισμένοι με αίμα διαβάζουν ότι το χάος γεμίζει το μυαλό εκείνων που έχουν αγγιχτεί από τα βέλη που κρατιούνται σε ένα τέτοιο φαρέντο',
+      bg: 'Разрушаващи се свитъци, зацапани с кръв, че хаосът изпълва съзнанието на онези, които са били докоснати от стрели, държани в такъв колчан',
+      cs: 'Rozpadající se svitky, které jsou obarveny krví, čtou, že chaos naplňuje mysl těch, kteří se dotkli šípů v takovém toulci',
+      ja: '血で染まっている崩壊している巻物は、そのような矢筒の中に握られた矢によって触れられたそれらの心を混乱が満たすことを読みます'
     }
   }
 
