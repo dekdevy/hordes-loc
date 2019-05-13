@@ -27,14 +27,48 @@ export default [
   {
     name       : {$$: 'Silken Pouch' },
     description: {
-      en: ' Soft and smooth to the touch, yet sturdy enough for your arrows.'
+      en: 'Soft and smooth to the touch, yet sturdy enough for your arrows.',
+      ru: 'Мягкий и гладкий на ощупь, но достаточно прочный для стрел.',
+      nl: 'Zacht en glad aanvoelend, maar stevig genoeg voor uw pijlen.',
+      de: 'Weich und glatt im Griff, aber dennoch robust genug für Ihre Pfeile.',
+      fr: 'Doux et lisse au toucher, mais assez robuste pour vos flèches.',
+      es: 'Suave y suave al tacto, pero lo suficientemente resistente para tus flechas.',
+      pt: 'Suave e suave ao toque, mas resistente o suficiente para suas flechas.',
+      it: 'Morbido e liscio al tatto, ma abbastanza robusto per le frecce.',
+      pl: 'Miękka i gładka w dotyku, a jednocześnie wystarczająco wytrzymała, aby można było używać strzałek.',
+      ko: '부드럽고 촉감이 부드럽지만 아직 튼튼합니다.',
+      sv: 'Mjukt och smidigt, men robust nog för dina pilar.',
+      ht: 'Mou ak lis manyen an, ankò solid ase pou flèch ou yo.',
+      hi: 'स्पर्श करने के लिए नरम और चिकनी, फिर भी अपने तीरों के लिए पर्याप्त मजबूत।',
+      tl: 'Malambot at makinis sa pagpindot, ngunit matibay sapat para sa iyong mga arrow.',
+      el: 'Μαλακή και απαλή στην αφή, αλλά αρκετά ανθεκτική για τα βέλη σας.',
+      bg: 'Мека и гладка на допир, но достатъчно здрава за стрелите ви.',
+      cs: 'Měkká a hladká na dotek, ale dostatečně pevná pro vaše šípy.',
+      ja: 'やわらかく滑らかな肌触り、それでもあなたの矢には十分丈夫。'
     }
   },
 
   {
     name       : {$$: 'Bone Rod' },
     description: {
-      en: 'Hollowed out bone, serving well as a makeshift quiver.'
+      en: 'Hollowed out bone, serving well as a makeshift quiver.',
+      ru: 'Выдолбленный из кости, служит как временный колчан.',
+      nl: 'Uitgeholde botten, die goed dienen als provisorische koker.',
+      de: 'Ausgehöhlter Knochen, der gut als behelfsmäßiges Köcherchen dient.',
+      fr: 'Os creusé, servant bien de carquois de fortune.',
+      es: 'Hueso ahuecado, sirviendo bien como un temblor improvisado.',
+      pt: 'Osso oco, servindo bem como uma aljava improvisada.',
+      it: 'Osso scavato, che serve bene come faretra di fortuna.',
+      pl: 'Wydrążona kość, dobrze służąca jako prowizoryczny kołczan.',
+      ko: '임시 변통처럼 잘 어울리는 뼈가 있습니다.',
+      sv: 'Inhullat ben, som tjänar väl som ett fördröjt skott.',
+      ht: 'Kouvri soti zo, sèvi byen tankou yon flèch Fortin.',
+      hi: 'हड्डी बाहर खोखली, एक अस्थायी उत्तोलक के रूप में अच्छी तरह से सेवारत।',
+      tl: 'Nagtusok ng buto, na naghahain nang mabuti bilang isang pansamantalang paninigas.',
+      el: 'Χτυπούσε τα οστά, εξυπηρετώντας ωραίο.',
+      bg: 'Издълбана кост, служеща добре като импровизиран колчан.',
+      cs: 'Vypadla z kosti a sloužila jako provizorní toulce.',
+      ja: '骨をくりぬき、その場しのぎの震えとして役立ちます。'
     }
   },
 
@@ -66,7 +100,24 @@ export default [
   {
     name       : {$$: 'Mithril Weavings' },
     description: {
-      en: 'Finely crafted quiver made from a mysterious shimmering material. '
+      en: 'Finely crafted quiver made from a mysterious shimmering material.',
+      nl: 'Fijn gemaakt koker gemaakt van een mysterieus glinsterend materiaal.',
+      ru: 'Хорошо сделаный колчан произведённый из мистического блестящего материала.',
+      de: 'Fein gearbeiteter Köcher aus einem geheimnisvoll schimmernden Material.',
+      fr: 'Carquois finement fabriqué à partir d\'un mystérieux matériau scintillant.',
+      es: 'Un carcaj finamente hecho de un misterioso material resplandeciente.',
+      pt: 'Aljava finamente trabalhada feita de um misterioso material cintilante.',
+      it: 'Faretra finemente realizzata in un misterioso materiale scintillante.',
+      pl: 'Precyzyjnie wykonany kołczan wykonany z tajemniczego, błyszczącego materiału.',
+      ko: '신비한 반짝이는 소재로 만든 세 심하게 제작 된 떨림.',
+      sv: 'Finhantverkad quiver gjord av ett mystiskt glittrande material.',
+      ht: 'Tise byen fabrike flèch ki fèt ak yon materyèl misterye chatwayant.',
+      hi: 'रहस्यमय ढंग से टिमटिमाती हुई सामग्री से बना तरकश।',
+      tl: 'Ang pinong crafted quiver na ginawa mula sa isang mahiwagang shimmering na materyal.',
+      el: 'Λεπτώς φτιαγμένος από ένα μυστηριώδες γυαλιστερό υλικό.',
+      bg: 'Фино изработен колчан от мистериозен блестящ материал.',
+      cs: 'Jemně vytvořený toulec vyrobený z tajemného třpytivého materiálu.',
+      ja: '神秘的なきらめく材料で作られた細かく作られた震え。'
     }
   },
 
@@ -123,21 +174,37 @@ export default [
   {
     name       : {$$: 'Cataclysm' },
     description: {
-      en: 'A spectacular emerald green quiver filling your foes with guilt as they prepare to attack you.'
+      en: 'A spectacular emerald green quiver filling your foes with guilt as they prepare to attack you.',
+      ru: 'Великолепный изумрудно-зеленый колчан наполняющий врагов чувством вины, когда те готовятся напасть на вас.',
+      de: 'Ein spektakulärer smaragdgrüner Köcher, der deine Feinde mit Schuldgefühlen erfüllt, während sie sich darauf vorbereiten, dich anzugreifen.',
+      fr: 'Un carquois vert émeraude spectaculaire qui remplit vos ennemis de culpabilité alors qu\'ils se préparent à vous attaquer.',
+      es: 'Un espectacular carcaj de color verde esmeralda llena de culpa a tus enemigos mientras se preparan para atacarte.',
+      pt: 'Um espetacular aljava verde esmeralda enchendo seus inimigos de culpa enquanto eles se preparam para atacar você.',
+      it: 'Una spettacolare faretra verde smeraldo che riempie i tuoi nemici di sensi di colpa mentre si preparano ad attaccarti.',
+      pl: 'Spektakularny szmaragdowo-zielony kołczan wypełniający twoich wrogów poczuciem winy, gdy przygotowują się do ataku.',
+      ko: '그들이 당신을 공격 할 준비를 할 때 죄책감으로 당신의 원수를 채우는 환상적인 에메랄드 빛 떨림.',
+      sv: 'En spektakulär smaragdgrön quiver fyller dina fiender med skuld när de förbereder sig för att attackera dig.',
+      ht: 'Yon espektakilè emwòd vèt flèch ranpli lènmi ou yo ak koupab menm jan yo prepare al atake ou.',
+      hi: 'एक शानदार पन्ना हरी तरकश अपराध के साथ अपने दुश्मनों को भरने के रूप में वे आप पर हमला करने के लिए तैयार करते हैं।',
+      tl: 'Isang kamangha-manghang emerald green quiver na pinupuno ang iyong mga kaaway sa pagkakasala habang naghahanda sila sa pag-atake sa iyo.',
+      el: 'Ένας θεαματικός σμαραγδένιος πράσινος φανατικός που γεμίζει τους εχθρούς σας με ενοχή, καθώς ετοιμάζονται να σας επιτεθούν.',
+      bg: 'Впечатляващ смарагдово зелен колчан, изпълващ враговете ви с вина, докато се подготвят да ви атакуват.',
+      cs: 'Velkolepý smaragdově zelený toulec naplňující své nepřátele vinou, když se na vás připravují k útoku.',
+      ja: '彼らがあなたを攻撃する準備をしている時に壮観なエメラルドグリーンの槍があなたの敵を罪悪感で満たしています'
     }
   },
 
   {
     name       : {$$: 'Cain' },
     description: {
-      en: 'A treacherous black quiver which often lets hold of your arrows in the most dire of moments.'
+      en: 'Crumbling scrolls that are stained with blood read that chaos fills the mind of those that have been touched by arrows held in such a quiver'
     }
   },
 
   {
     name       : {$$: 'Nefarious' },
     description: {
-      en: 'A dark quiver coated in shimmering deep navy throws you into a chasm of peace as you pull out another cherished arrow...'
+      en: 'A quiver is coated in a deep, shimmering navy material. Ancient stories state that such a quiver clears the mind of distractions during battle.'
     }
   }
 

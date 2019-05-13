@@ -33,7 +33,7 @@ export default {
     de: 'Du hast $1 gesammelt.',
     ro: 'Ai luat $1',
     fr: 'Vous avez ramassé $1.',
-    ru: 'Ты поднял $1',
+    ru: 'Вы подобрали $1',
     hi: 'आपने $1 उठा लिया',
     bg: 'Взехте $1',
     cs: 'Zvedli jste $1',
@@ -78,7 +78,7 @@ export default {
     de: 'Dein Inventar ist voll.',
     ro: 'Inventarul tău este plin',
     fr: 'Votre inventaire est complet',
-    ru: 'Ваш инвентарь полон',
+    ru: 'В инвентаре нет места',
     hi: 'आपकी वस्तुसूचि भर गयी है',
     bg: 'Инвентара е пълен.',
     cs: 'Váš inventář je plný',
@@ -114,7 +114,7 @@ export default {
 
   drop: {
     en: 'Drop item',
-    ru: 'выбросить предмет',
+    ru: 'выбросить',
     hi: 'वस्तु गिरा दे',
     es: 'Posición de entrega',
     de: 'Gegenstand ablegen',
@@ -158,9 +158,31 @@ export default {
     ja: 'アイテムを使う'
   },
 
+  stash: {
+    en: 'Move to stash',
+    ru: 'Положить в сундук',
+    pt: 'Mover para o esconderijo',
+    it: 'Spostare a nascondiglio',
+    pl: 'Przenieś się do skrytki.',
+    fr: 'Aller à la cachette',
+    es: 'Moverse a escondite',
+    nl: 'Verhuizen naar opslagplaats'
+  },
+
+  stashed: {
+    en: '$1 has been moved to your stash',
+    ru: '$1 Было перенесено в сундук',
+    pt: '$1 foi transferido para o seu esconderijo',
+    it: '$1 e\' stato spostato nella tua scorta.',
+    pl: '$1 został przeniesiony do twojego magazynu.',
+    fr: '$1 a été transféré dans votre planque',
+    es: '$1 ha sido movido a tu escondite',
+    nl: '$1 is verplaatst naar je voorraad.'
+  },
+
   spend: {
     en: 'You have spent $1 coins',
-    ru: 'Вы потратили $1 монет.',
+    ru: 'Вы потратили $1 монеты',
     es: 'Has gastado 2 monedas',
     fr: 'Vous avez dépensé $1 pièces',
     de: 'Du hast $1 Münzen ausgegeben.',
@@ -205,6 +227,22 @@ export default {
   },
 
   auctionbuy: {
-    en: 'Item purchased for $1 coins and sent to your Stash'
+    en: 'Item purchased for $1 coins and sent to your Stash',
+    ru: 'Предмет, купленный за $1, отправлен в ваш сундук',
+    es: 'Artículo comprado por $1 monedas y enviado a su Stash',
+    fr: 'Article acheté pour $1 pièces et envoyé à votre Stash',
+    de: 'Artikel, der für $1 Münzen gekauft und an Ihr Versteck geschickt wurde.',
+    pt: 'Item comprado por $1 moedas e enviado para o seu Cesto',
+    nl: 'Item gekocht voor $1 munten en verzonden naar uw Stash',
+    pl: 'Przedmiot zakupiony za $1 monet i wysłany do Twojego magazynu.',
+    sv: 'Produkt som köpts för $1 mynt och skickas till din Stash',
+    ht: 'Atik achte pou pyès monnen $1 epi li voye bay Stash ou',
+    it: 'Oggetto acquistato per $1 monete e inviato al tuo Stash',
+    hi: '$1 सिक्कों के लिए खरीदी गई वस्तु और आपके Stash को भेजी गई',
+    tl: 'Ang item na binili para sa $1 barya at ipinadala sa iyong Stash',
+    el: 'Στοιχείο που αγοράσατε για $1 νομίσματα και απεστάλητε στο Stash σας',
+    bg: 'Позиция, закупена за $1 монети и изпратена до вашия Stash',
+    cs: 'Zboží zakoupené za $1 mincí a zaslané do vašeho Stash',
+    ja: '$1 コインを購入し、Stash に送った商品'
   }
 }

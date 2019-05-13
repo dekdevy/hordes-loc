@@ -17,7 +17,7 @@ export default {
       tr: 'Evet, eşyalarımı aç',
       ht: 'Wi, louvri magazen mwen an',
       it: 'Sì, apri la mia scorta',
-      hi: 'हां, मेरी कलई खोल दो',
+      hi: 'हां, मेरा स्टैश खोलें',
       tl: 'Oo, buksan mo ang aking itago',
       el: 'Ναι, ανοίξτε το δοχείο μου',
       bg: 'Да, отворете контейнера',

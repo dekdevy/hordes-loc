@@ -100,7 +100,7 @@ export default {
       sv: 'Nätverksfel',
       ru: 'Проблема с сетью',
       fr: 'Problème de réseau',
-      hi: 'नेट्वर्क में त्रुटि',
+      hi: 'नेट्वर्क में खराबी',
       es: 'Error de red',
       de: 'Netzwerkfehler',
       ko: '네트워크 오류',
