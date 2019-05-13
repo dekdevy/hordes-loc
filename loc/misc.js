@@ -139,7 +139,7 @@ export default [
       pl: 'Uważaj na dziką gęś. Nie lubi szturchnięć.',
       fr: 'Méfiez-vous de l\'oie sauvage. Il n\'aime pas les pokes.',
       sv: 'Akta dig för den feralgås. Det gillar inte pokes.',
-      es: 'Cuidado con el ganso salvaje. No le gustan los pinchazos.',
+      es: 'Cuidado con el ganso loco. No le gustan los picas.',
       nl: 'Pas op voor de wilde gans. Hij houdt niet van poppen.',
       tl: 'Mag-ingat sa mabangong gus. Hindi nito gusto pokes.'
     }
@@ -159,7 +159,7 @@ export default [
       pl: 'Potężny jedwabny sznurek wart więcej niż cały twój sprzęt.',
       fr: 'Puissant cordage soyeux qui vaut plus que tout votre équipement.',
       sv: 'Kraftfull silkeslen sträng värt mer än alla dina redskap.',
-      es: 'Potente cuerda de seda que vale más que todo tu equipo.',
+      es: 'Potente cuerda de seda que vale más que todo tu equipamiento.',
       nl: 'Krachtig zijdeachtig touw dat meer waard is dan al je spullen.',
       tl: 'Makapangyarihang parang seda string nagkakahalaga ng higit sa lahat ng iyong gear.'
     }
@@ -199,7 +199,7 @@ export default [
       pl: 'Lepki slop, zabrany od Boga wie gdzie.',
       fr: 'De la boue gluante, prise à Dieu sait où.',
       sv: 'Motbjudande slim, taget från Gud, vet var.',
-      es: 'Bazofia pegajosa, tomada de Dios sabe dónde.',
+      es: 'Una burbuja gruesa, que sólo Dios sabe dónde.',
       nl: 'Kleverig slijm, ontnomen van God weet waar.',
       tl: 'Ang malagkit na slop, na kinuha mula sa Diyos ay alam kung saan.'
     }
@@ -219,7 +219,7 @@ export default [
       pl: 'Drobno wygrawerowany liść złota reprezentujący wysoką rodzinę królewską.',
       fr: 'Feuille d\'or finement gravée représentant la haute royauté.',
       sv: 'Fint inristat guldblad som representerar hög royalty.',
-      es: 'Hoja de oro finamente grabada que representa altos derechos de autor.',
+      es: 'Hoja de oro finamente grabada que representa altos derechos de el rey.',
       nl: 'Fijn gegraveerd blad van goud met een hoog koninklijk gehalte.',
       tl: 'May pinong engraved dahon ng ginto na kumakatawan sa mataas na royalty.'
     }
@@ -279,7 +279,7 @@ export default [
       pl: 'Mała, rozdrobniona miska na gulasz. Ostrożnie, jest łatwopalny.',
       fr: 'Petit bol à ragoût émietté. Attention, c\'est inflammable.',
       sv: 'Liten flisad gryta skål. Var försiktig, det är brandfarligt.',
-      es: 'Pequeña cazuela de estofado astillada. Cuidado, es inflamable.',
+      es: 'Pequeña cazuela de estofado astillada. Cuidado, puede encienda en fuego.',
       nl: 'Kleine gechipt stoofpotje. Voorzichtig, het is brandbaar.',
       tl: 'Maliit na pingas na nilagang tapyas. Mag-ingat, ito ay nasusunog.'
     }
@@ -299,7 +299,7 @@ export default [
       pl: 'Magowie zawsze chcą wydawać się mądrymi, być może oni też zrobili ten mistyczny i elegancki okular.',
       fr: 'Les Mages veulent toujours paraître sages, peut-être qu\'ils ont eux aussi réalisé cet oculaire mystique et élégant.',
       sv: 'Trollkarlar vill alltid verka kloka, kanske de också gjorde detta mystiska och eleganta okular.',
-      es: 'Los magos siempre quieren parecer sabios, quizás ellos también hicieron este místico y elegante ocular.',
+      es: 'Los magos siempre quieren parecer inteligente, quizás ellos también hicieron este místico y elegante ocular.',
       nl: 'Tovenaars willen altijd verstandig overkomen, misschien hebben ze ook wel dit mystieke en elegante oculair gemaakt.',
       tl: 'Gusto ng mga mages na mukhang matalino, marahil ay ginawa rin nila ang mistiko at eleganteng eyepiece na ito.'
     }
@@ -320,7 +320,7 @@ export default [
       fr: 'Aïe, aiguisé.',
       sv: 'Oj, skarp.',
       hi: 'आह! नुकीला',
-      es: 'Ouch, afilado.',
+      es: 'Ay, me corté',
       nl: 'Auw, scherp.',
       tl: 'Mahusay, matalim.'
     }
@@ -341,7 +341,7 @@ export default [
       fr: 'Un petit tas de sable extrêmement fin. Où est-ce que tu t\'en sors...',
       sv: 'En liten hög med extremt fin sand. Var gör du det här ...',
       hi: 'महीम रेत का छोटा सा ढ़ेर। इसे लेकर कहा चले आप...',
-      es: 'Una pequeña pila de arena extremadamente fina. "¿Dónde pones esto...?',
+      es: 'Una pequeña montón de arena increíble fina. "¿Dónde pones esto...?',
       nl: 'Een kleine stapel extreem fijn zand. Waar leg je dit...',
       tl: 'Ang isang maliit na tumpok ng lubhang pinong buhangin. Saan mo inilagay ito...'
     }
@@ -362,7 +362,7 @@ export default [
       fr: 'Une touffe de cheveux putrides et mats. C\'était une dure bataille pour mettre la main dessus.',
       sv: 'En tuft av matt mattat hår. T\'var en tuff kamp för att få tag i detta.',
       hi: 'बालों क सड़ा हुआ गच्छा। इसे पाने के लिए बड़ा युद्ध लड़ा था।',
-      es: 'Un mechón de pelo pútrido y enmarañado. Fue una dura batalla para conseguir esto.',
+      es: 'Un mechón de pelo enredado y pútrido. Fue una dura batalla para conseguirlo.',
       nl: 'Een plukje verrot gematteerd haar. Het was een zware strijd om dit te bemachtigen.',
       tl: 'Ang isang tuft ng putrid matted buhok. T\'ay isang mahigpit na labanan upang makuha ang mga ito.'
     }
@@ -383,7 +383,7 @@ export default [
       fr: 'Larves dégoûtantes d\'un insecte inconnu. Espérons qu\'il s\'agit d\'une petite...',
       sv: 'Motbjudande larver av en okänd insekt. Förhoppningsvis en liten en ...',
       hi: 'अन्जाने कीड़े का भद्धा डिंभट। शायद छोटा-सा है...',
-      es: 'Larvas asquerosas de un insecto desconocido. Espero que uno pequeño...',
+      es: 'Larvas asquerosas de un insecto desconocido. Con suerte, uno pequeño...',
       nl: 'Smerige larven van een onbekend insect. Hopelijk een kleintje...',
       tl: 'Nakakasira ng larvae ng isang hindi kilalang insekto. Sana may isang maliit na ...'
     }
@@ -404,7 +404,7 @@ export default [
       fr: 'Étrange fragment triangulaire d\'obsidienne. Peut-être qu\'il fait partie d\'une structure plus grande...',
       sv: 'Konstigt triangulärt fragment av obsidian. Kanske är det en del av en större struktur...',
       hi: 'औबसीडियन का अजीब त्रीकोणीय टुकड़ा। शायद किसी बड़े स्तम्भ का हिस्सा है।',
-      es: 'Extraño fragmento triangular de obsidiana. Tal vez es parte de una estructura más grande...',
+      es: 'Extraño fragmento triangular de obsidiana. Tal vez es parte puede forma algo más grande...',
       nl: 'Vreemd driehoekig fragment van obsidiaan. Misschien maakt het deel uit van een grotere structuur...',
       tl: 'Kakaibang tatsulok na fragment ng obsidian. Marahil ito ay bahagi ng isang mas malaking istraktura ...'
     }
@@ -425,7 +425,7 @@ export default [
       fr: 'Gouttelettes cristallines fascinantes qui réfractent la lumière et projettent de minuscules boules de lumière sur vous lorsque vous la tenez au soleil.',
       sv: 'Mesmeriserande kristallin dråp bryter ljus invecklat med små små bollar på dig som du håller det upp till solen.',
       hi: 'खूबसुरत मणिभीय बूंद जिसे सूर्य के सामने रखने पर यह रौशनी को सटीक तरीके से घुमाटर आप पर रौशनी के छोटे गोले प्रर्दशित करता है।',
-      es: 'Una fascinante gota de luz cristalina que refracta la luz de forma intrincada y proyecta pequeñas bolas de luz sobre ti mientras la sostienes hacia el sol.',
+      es: 'Una fascinante gota de luz cristalina que refracta la luz forma intrincada y proyecta pequeñas bolas de luz sobre ti mientras la sostienes hacia el sol.',
       nl: 'Betoverende kristallijne druppelbrekende lichtbrekende lichtbolletjes die ingewikkeld kleine lichtbolletjes op je werpen terwijl je het tegen de zon in de gaten houdt.',
       tl: 'Ang napakalakas na mala-kristal na droplet na refracting light ay intricately paghahagis ng maliliit na bola ng liwanag papunta sa iyo habang pinipigilan mo ito sa araw.'
     }
@@ -446,7 +446,7 @@ export default [
       fr: 'Pointe de flèche gothique tranchante, faite d\'un métal mystique qui s\'infiltre profondément dans vos os.',
       sv: 'Skarp gotisk pilhuvud, gjord av en mystisk metall som suger rädsla i dina ben.',
       hi: 'नुकीला गोथिक तीर, रहस्यमई धातु से बना जो आपकी हड्डीयो में खौफ भर देता है।',
-      es: 'Aguda punta de flecha gótica, hecha de un metal místico que se filtra el miedo en tus huesos.',
+      es: 'Aguda y oscura punta de flecha, hecha de un misterioso metal que incrusta el miedo en tus huesos.',
       nl: 'Scherpe gotische pijlpunt, gemaakt van een mystiek metaal dat angst in je botten sijpelt.',
       tl: 'Biglang Goth ulo ng isang arrow, na ginawa mula sa isang mystical metal na seeps takot sa iyong mga buto.'
     }
@@ -466,7 +466,7 @@ export default [
       fr: 'Jettez-en dans un feu de camp et vous aurez une mauvaise surprise explosive.',
       sv: 'Kasta lite in i ett lägereld och du är ute efter en otäck explosiv överraskning.',
       hi: 'ऐक चुटकी को आग में दाले और धमाकेदार जादू अनुभव करें।',
-      es: 'Tira un poco en una fogata y te llevarás una desagradable sorpresa explosiva.',
+      es: 'Tira poco en la lumbre y te llevarás una feo sorpresa explosiva.',
       nl: 'Gooi wat in een kampvuur en je staat voor een vervelende explosieve verrassing.',
       tl: 'Ihagis ang ilan sa isang apoy sa kampo at ikaw ay nasa para sa isang pangit na eksplosibong sorpresa.'
     }
@@ -487,7 +487,7 @@ export default [
       fr: 'De fines brindilles sèches, brûleront bien dans un feu de camp.',
       sv: 'Tunna torra kvistar, kommer att brinna fint i ett lägereld.',
       hi: 'छोटे सूखे तिनके, आग जलाने के लिए सबसे बढ़िया।',
-      es: 'Varas finas y secas, se queman muy bien en una fogata.',
+      es: 'Ramas finas y secas, se queman muy bien en la lumbre.',
       nl: 'Dunne droge twijgen, zullen mooi branden in een kampvuur.',
       tl: 'Ang manipis na dry twigs, ay mag-burn ng mabuti sa isang apoy sa kampo.'
     }
