@@ -401,7 +401,7 @@ export default {
 
   tutorial: {
     en: 'tutorial',
-    ru: 'туториал',
+    ru: 'Обучение',
     hi: 'शिक्षण',
     es: 'tutorial',
     de: 'Tutorial',
@@ -424,7 +424,7 @@ export default {
 
   reset: {
     en: 'Reset tutorial',
-    ru: 'Начать туториал заново',
+    ru: 'Начать обучение заново',
     hi: 'शिक्षण रीसेट',
     es: 'Reiniciar tutorial',
     de: 'Tutorial zurücksetzen',
