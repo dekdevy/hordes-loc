@@ -194,14 +194,14 @@ export default [
     }
   },
 
-  { // no translations needed at the moment
+  {
     name       : {$$: 'Cain' },
     description: {
-      en: 'A treacherous and powerful black quiver which often loses of your arrows in the most dire of moments.'
+      en: 'Crumbling scrolls that are stained with blood read that chaos fills the mind of those that have been touched by arrows held in such a quiver'
     }
   },
 
-  { // no translations needed at the moment
+  {
     name       : {$$: 'Nefarious' },
     description: {
       en: 'A quiver is coated in a deep, shimmering navy material. Ancient stories state that such a quiver clears the mind of distractions during battle.'
