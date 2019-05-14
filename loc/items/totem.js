@@ -153,7 +153,8 @@ export default [
       bg: 'Изтръгнат от моделите на измерението, този демоничен тотем потапя слабите умове на вашите врагове под облак от ужасни объркване.',
       cs: 'Tento démonický totem, roztrhaný ze vzorů dimenze, ponoří křehké mysli svých nepřátel pod mrak hrozných zmatek.',
       tl: 'Napunit mula sa mga pattern ng isang dimensyon, sinasakop ng demonyo totem na ito ang mga mahina ang isip ng iyong mga kaaway sa ilalim ng isang ulap ng malungkot na pagkalito.',
-      sv: 'Sliten från mönstren av en dimension, dämpar denna demoniska totem svåra sinnen hos dina fiender under ett moln av hemsk förvirring.'
+      sv: 'Sliten från mönstren av en dimension, dämpar denna demoniska totem svåra sinnen hos dina fiender under ett moln av hemsk förvirring.',
+      hi: 'यथार्थ के पहलु से फाड कर निकाला हुआ, यह राक्षसी टोटैम आपके दुश्मनों के कमज़ोर मन को उलझन के भयंकर बादल में डुबा देता है।'
     }
   },
 
@@ -172,7 +173,8 @@ export default [
       bg: 'Зловеща резба на мрачен вълк, който понякога хвърляше мек шепот в шепота на тъмната нощ.',
       cs: 'Strašidelné řezbářství ponurého vlka, který někdy vrhal do šeru temné noci měkké vytí.',
       tl: 'Isang nakatatakot na larawang inukit ng isang mabangis na lobo kung minsan ay naghahain ng isang malambot na alulong-tulad ng ibulong sa mga murmurs ng madilim na gabi.',
-      sv: 'En kuslig snurra av en dyster varg som ibland kastar en mjuk, skurkliknande viskning i nattens murmurs.'
+      sv: 'En kuslig snurra av en dyster varg som ibland kastar en mjuk, skurkliknande viskning i nattens murmurs.',
+      hi: 'एक भयंकर भेड़िए की आत्माविषयक नक्काशी जो कभी कभी रात के घने अंधेरे में चीखने की आवाजें निकालता है।'
     }
   },
 
@@ -191,7 +193,8 @@ export default [
       bg: 'Вятърът и духът вървят ръка за ръка, за да ви уловят по бързия път през дълбоките долини на божествеността и просветлението.',
       cs: 'Vítr a duch jdou ruku v ruce, chytí vás do jejich rychlé cesty hlubokými údolími božství a osvícení.',
       tl: 'Ang hangin at espiritu ay nagpapatuloy, na tinutulak ka sa kanilang mabilis na landas sa pamamagitan ng malalim na mga lambak ng kabanalan at paliwanag.',
-      sv: 'Vind och ande går hand i hand och fångar dig i sin snabba väg genom gudomlighetens och upplysningens djupa dalar.'
+      sv: 'Vind och ande går hand i hand och fångar dig i sin snabba väg genom gudomlighetens och upplysningens djupa dalar.',
+      hi: 'प्राण और वायु हाथ में हाथ दे कर चलते हैं, मिलकर देवत्व और प्रबोधन की गहरी घाटियों के रास्तों में आपको फसा देते हैं।'
     }
   }
 
