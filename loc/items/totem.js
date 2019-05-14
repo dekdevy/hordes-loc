@@ -134,7 +134,8 @@ export default [
       bg: 'Силата на тайнствените водни демони върви по стъпките ти, докато водиш пътя по тъмния път на непознатите чудеса.',
       cs: 'Síla tajemných vodních démonů následuje vaše kroky, když se vydáte cestou temnou cestou neznámých divů.',
       tl: 'Ang kapangyarihan ng mahiwagang aquatic demons ay sumusunod sa iyong mga yapak habang pinapatnubayan mo ang daan sa madilim na landas ng di kilalang mga kababalaghan.',
-      sv: 'Kraften i mystiska vattenlevande demoner följer dina fotspår när du leder vägen längs den mörka vägen för de okända underverken.'
+      sv: 'Kraften i mystiska vattenlevande demoner följer dina fotspår när du leder vägen längs den mörka vägen för de okända underverken.',
+      hi: 'अंजाने खज़ाने के काले रास्ते पर चलते हुए रहस्यमई दरियाई राक्षसों की ताकतें आपका साथ देंगी।'
     }
   },
 
