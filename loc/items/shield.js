@@ -173,7 +173,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Guardian' },
+    name       : {$$: 'Cerberus' },
     description: {
       en: 'Tall, dark and heavy shield enveloping your unprotected body with the power of ancient guardians once residing in these valleys.',
       ru: 'Высокий, темный и тяжелый щит, обволакивающий ваше незащищенное тело силой древних стражников, когда-то живущих в этих долинах.',
