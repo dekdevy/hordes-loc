@@ -388,7 +388,9 @@ export default {
     el: 'Εύρος αποθέματος',
     bg: 'Ширина инвентаря',
     cs: 'Šířka inventáře',
-    hi: 'वस्तुसूची की चौड़ाई'
+    hi: 'वस्तुसूची की चौड़ाई',
+    fr: 'Largeur d\'inventaire',
+    tl: 'Lapad ng Imbentaryo'
   },
 
   uiscale: {
@@ -396,12 +398,26 @@ export default {
     ru: 'Масштаб интерфейса',
     hi: 'अन्तराफलक का पैमाना',
     ro: 'Scala interfeţei',
-    pt: 'Escala de interface'
+    pt: 'Escala de interface',
+    es: 'Escala de interfaz',
+    fr: 'Balance d\'interface',
+    de: 'Schnittstellenwaage',
+    ko: '인터페이스 스케일',
+    nl: 'Interface schaal',
+    pl: 'Skala interfejsów',
+    sv: 'Gränssnittskalan',
+    ht: 'Echèl Entèfas',
+    it: 'Scala d\'interfaccia',
+    tl: 'Scale ng interface',
+    el: 'Διαβάθμιση κλίμακας',
+    bg: 'Интерфейсен мащаб',
+    cs: 'Měřítko rozhraní',
+    ja: 'インターフェース規模'
   },
 
   tutorial: {
     en: 'tutorial',
-    ru: 'туториал',
+    ru: 'Обучение',
     hi: 'शिक्षण',
     es: 'tutorial',
     de: 'Tutorial',
@@ -424,7 +440,7 @@ export default {
 
   reset: {
     en: 'Reset tutorial',
-    ru: 'Начать туториал заново',
+    ru: 'Начать обучение заново',
     hi: 'शिक्षण रीसेट',
     es: 'Reiniciar tutorial',
     de: 'Tutorial zurücksetzen',
