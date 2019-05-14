@@ -388,7 +388,9 @@ export default {
     el: 'Εύρος αποθέματος',
     bg: 'Ширина инвентаря',
     cs: 'Šířka inventáře',
-    hi: 'वस्तुसूची की चौड़ाई'
+    hi: 'वस्तुसूची की चौड़ाई',
+    fr: 'Largeur d\'inventaire',
+    tl: 'Lapad ng Imbentaryo'
   },
 
   uiscale: {
