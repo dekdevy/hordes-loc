@@ -14,7 +14,8 @@ export default [
       ru: 'Травяная куча, связанная тонкой нитью.',
       bg: 'Пачка билки, вързани с тънка прежда.',
       cs: 'Hromada bylinek svázaných tenkým kouskem příze.',
-      tl: 'Isang balumbon ng mga damo na tinalian ng isang manipis na piraso ng sinulid.'
+      tl: 'Isang balumbon ng mga damo na tinalian ng isang manipis na piraso ng sinulid.',
+      sv: 'En lappa av örter bundet samman med en tunn bit garn.'
     }
   },
 
@@ -33,7 +34,8 @@ export default [
       ru: 'Запутанные тонкие веточки царапают ваши руки когда вы носите их с собой.',
       bg: 'Заплетени тънки клонки почесват ръцете ви, докато го носите наоколо.',
       cs: 'Zamotané tenké větvičky poškrábat ruce, jak si nesete kolem.',
-      tl: 'Gusot ang manipis na mga sanga scratch ang iyong mga kamay bilang dalhin mo ito sa paligid.'
+      tl: 'Gusot ang manipis na mga sanga scratch ang iyong mga kamay bilang dalhin mo ito sa paligid.',
+      sv: 'Tunna tunna tiggar kliar dina händer när du bär den runt.'
     }
   },
 
@@ -52,7 +54,8 @@ export default [
       ru: 'Странная вырезка из камня, гладкая от ударов времени.',
       bg: 'Особена каменна дърворезба, гладка от ударите на времето.',
       cs: 'Zvláštní kamenné řezbářství, hladké z bušení času.',
-      tl: 'Ang isang kakaibang bato larawang inukit, makinis mula sa mga poundings ng oras.'
+      tl: 'Ang isang kakaibang bato larawang inukit, makinis mula sa mga poundings ng oras.',
+      sv: 'En märklig stenhuggning, slät från tidens bultar'
     }
   },
 
@@ -71,7 +74,8 @@ export default [
       ru: 'Древняя кость, выгравированная сценами сражений и охоты.',
       bg: 'Древна кост, гравирана с сцени на битка и лов.',
       cs: 'Starobylá kost, vyrytá scénami bitvy a lovu.',
-      tl: 'Isang sinaunang buto, na may mga tanawin ng labanan at pangangaso.'
+      tl: 'Isang sinaunang buto, na may mga tanawin ng labanan at pangangaso.',
+      sv: 'Ett gammalt ben, etsat med scener av strid och jakt.'
     }
   },
 
@@ -90,14 +94,15 @@ export default [
       ru: 'Мраморная палочка из чистого белого мрамора, заключенная в мягкое желтое сияние, наполняет ваши руки божественным душевным светом.',
       bg: 'Чиста бяла мраморна пръчка, обгърната с мека жълта светлина, изпълваща ръцете ви с божествена духовна светлина.',
       cs: 'Čistě bílá mramorová tyč zapouzdřená do měkké žluté záře vyplňující vaše ruce božským duchovním světlem.',
-      tl: 'Purong puting marmol baras encased sa isang malambot na dilaw glow pagpuno ng iyong mga kamay sa isang banal na espirituwal na liwanag.'
+      tl: 'Purong puting marmol baras encased sa isang malambot na dilaw glow pagpuno ng iyong mga kamay sa isang banal na espirituwal na liwanag.',
+      sv: 'Ren vit marmorstång omslagen i en mjuk gul glöd som fyller dina händer med ett gudomligt andligt ljus.'
     }
   },
 
   {
     name       : {$$: 'Glade' },
     description: {
-      en: 'An eagle, noble and valiant, carved from the holy wood of the ancient trees.',
+      en: 'An eagle, noble and valiant, carved from the holy wood of an ancient tree.',
       ro: 'Un vultur, nobil și viteaz, sculptat din lemnul Sfânt al copacilor antici.',
       pt: 'Uma águia, nobre e valente, esculpida no bosque sagrado das árvores antigas',
       it: 'Un\'aquila, nobile e coraggiosa, scolpita nel legno sacro degli alberi secolari.',
@@ -109,7 +114,8 @@ export default [
       ru: 'Благородный и доблестный орёл, вырезанный из священного дерева древних лесов.',
       bg: 'Орел, благороден и храбър, издълбан от святото дърво на древните дървета.',
       cs: 'Orel, vznešený a statečný, vytesaný ze svatého dřeva starých stromů.',
-      tl: 'Isang agila, marangal at magiting, na inukit mula sa banal na kahoy ng sinaunang mga puno.'
+      tl: 'Isang agila, marangal at magiting, na inukit mula sa banal na kahoy ng sinaunang mga puno.',
+      sv: 'En örn, ädla och tapper, snidade från ett gammalt träds heliga trä.'
     }
   },
 
@@ -127,7 +133,8 @@ export default [
       ru: 'Сила таинственных водных демонов следует по вашим стопам, как вы направляетесь по темному пути неизвестных чудес.',
       bg: 'Силата на тайнствените водни демони върви по стъпките ти, докато водиш пътя по тъмния път на непознатите чудеса.',
       cs: 'Síla tajemných vodních démonů následuje vaše kroky, když se vydáte cestou temnou cestou neznámých divů.',
-      tl: 'Ang kapangyarihan ng mahiwagang aquatic demons ay sumusunod sa iyong mga yapak habang pinapatnubayan mo ang daan sa madilim na landas ng di kilalang mga kababalaghan.'
+      tl: 'Ang kapangyarihan ng mahiwagang aquatic demons ay sumusunod sa iyong mga yapak habang pinapatnubayan mo ang daan sa madilim na landas ng di kilalang mga kababalaghan.',
+      sv: 'Kraften i mystiska vattenlevande demoner följer dina fotspår när du leder vägen längs den mörka vägen för de okända underverken.'
     }
   },
 
@@ -145,14 +152,15 @@ export default [
       ru: 'Оторванный от узора измерения, этот демонический тотем поглощает слабые умы ваших врагов под облаком страшных галлюцинаций.',
       bg: 'Изтръгнат от моделите на измерението, този демоничен тотем потапя слабите умове на вашите врагове под облак от ужасни объркване.',
       cs: 'Tento démonický totem, roztrhaný ze vzorů dimenze, ponoří křehké mysli svých nepřátel pod mrak hrozných zmatek.',
-      tl: 'Napunit mula sa mga pattern ng isang dimensyon, sinasakop ng demonyo totem na ito ang mga mahina ang isip ng iyong mga kaaway sa ilalim ng isang ulap ng malungkot na pagkalito.'
+      tl: 'Napunit mula sa mga pattern ng isang dimensyon, sinasakop ng demonyo totem na ito ang mga mahina ang isip ng iyong mga kaaway sa ilalim ng isang ulap ng malungkot na pagkalito.',
+      sv: 'Sliten från mönstren av en dimension, dämpar denna demoniska totem svåra sinnen hos dina fiender under ett moln av hemsk förvirring.'
     }
   },
 
   {
     name       : {$$: 'Howl' },
     description: {
-      en: 'An eerie carving of a grim wolf sometimes casting a soft howl-like whisper into the murmurs of the dark night.',
+      en: 'An eerie carving of a grim wolf sometimes casting a soft howl-like whisper into the murmurs of the night.',
       ro: 'O sculptură sinistră a unui lup necruțător, ce uneori scoate un urlet moale ca o șoaptă în murmurul nopții întunecate.',
       pt: 'Uma escultura assustadora de um lobo sombrio às vezes lançando um sussurro suave como um uivo nos murmúrios da noite escura.',
       it: 'Un\'inquietante scultura di un lupo cupo che a volte getta un soffice ululato nei mormorii della notte oscura.',
@@ -163,7 +171,8 @@ export default [
       ru: 'Жуткая вырезка мрачного волка, иногда шепчущего тихим войом в шорох темной ночи.',
       bg: 'Зловеща резба на мрачен вълк, който понякога хвърляше мек шепот в шепота на тъмната нощ.',
       cs: 'Strašidelné řezbářství ponurého vlka, který někdy vrhal do šeru temné noci měkké vytí.',
-      tl: 'Isang nakatatakot na larawang inukit ng isang mabangis na lobo kung minsan ay naghahain ng isang malambot na alulong-tulad ng ibulong sa mga murmurs ng madilim na gabi.'
+      tl: 'Isang nakatatakot na larawang inukit ng isang mabangis na lobo kung minsan ay naghahain ng isang malambot na alulong-tulad ng ibulong sa mga murmurs ng madilim na gabi.',
+      sv: 'En kuslig snurra av en dyster varg som ibland kastar en mjuk, skurkliknande viskning i nattens murmurs.'
     }
   },
 
@@ -181,7 +190,8 @@ export default [
       ru: 'Ветер и духи движутся вместе, захватывая вас на своем стремительном пути через глубокие долины божественности и просветления.',
       bg: 'Вятърът и духът вървят ръка за ръка, за да ви уловят по бързия път през дълбоките долини на божествеността и просветлението.',
       cs: 'Vítr a duch jdou ruku v ruce, chytí vás do jejich rychlé cesty hlubokými údolími božství a osvícení.',
-      tl: 'Ang hangin at espiritu ay nagpapatuloy, na tinutulak ka sa kanilang mabilis na landas sa pamamagitan ng malalim na mga lambak ng kabanalan at paliwanag.'
+      tl: 'Ang hangin at espiritu ay nagpapatuloy, na tinutulak ka sa kanilang mabilis na landas sa pamamagitan ng malalim na mga lambak ng kabanalan at paliwanag.',
+      sv: 'Vind och ande går hand i hand och fångar dig i sin snabba väg genom gudomlighetens och upplysningens djupa dalar.'
     }
   }
 
