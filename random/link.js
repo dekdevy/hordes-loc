@@ -56,7 +56,7 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'grim', 'poised', 'rudimentary', 'emerald', 'eminent', 'famous', 'innocuous', 'engraved', 'engrossing', 'engulfing',
   'aquatic', 'hardcore', 'haughty', 'scornful', 'ingenius', 'parasitic', 'paroxysmal', 'parrying', 'problematic', 'sane',
   'swearing', 'swingeing', 'swinging', 'tangible', 'tawdry', 'thievish', 'prosaic', 'placid', 'oracular', 'omniscient', 'oniony',
-  'natty']
+  'natty', 'nerpharious']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
