@@ -160,13 +160,23 @@ export default {
 
   stash: {
     en: 'Move to stash',
+    de: 'In den Speicher verschieben',
     ru: 'Положить в сундук',
     pt: 'Mover para o esconderijo',
     it: 'Spostare a nascondiglio',
     pl: 'Przenieś się do skrytki.',
     fr: 'Aller à la cachette',
     es: 'Moverse a escondite',
-    nl: 'Verhuizen naar opslagplaats'
+    nl: 'Verhuizen naar opslagplaats',
+    ko: '은신처로 이동하십시오.',
+    sv: 'Flytta till stash',
+    ht: 'Deplase nan catcher',
+    hi: 'मूव करने जाएं',
+    tl: 'Ilipat sa itago',
+    el: 'Μετακίνηση στο stash',
+    bg: 'Преместване в скривалище',
+    cs: 'Přesuňte se na skrýš',
+    ja: '隠し場所に移動'
   },
 
   stashed: {
