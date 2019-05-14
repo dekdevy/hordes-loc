@@ -56,7 +56,7 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'grim', 'poised', 'rudimentary', 'emerald', 'eminent', 'famous', 'innocuous', 'engraved', 'engrossing', 'engulfing',
   'aquatic', 'hardcore', 'haughty', 'scornful', 'ingenius', 'parasitic', 'paroxysmal', 'parrying', 'problematic', 'sane',
   'swearing', 'swingeing', 'swinging', 'tangible', 'tawdry', 'thievish', 'prosaic', 'placid', 'oracular', 'omniscient', 'oniony',
-  'natty', 'nerpharious']
+  'natty', 'nerpharious', 'turgid', 'denatured', 'natural']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
@@ -126,7 +126,7 @@ const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', '
   'leading', 'ruling', 'command', 'integrity', 'humility', 'honour', 'virtue', 'completeness', 'unity', 'focus', 'training',
   'knowledge', 'restoration', 'refurbishment', 'disclosure', 'energy', 'violation', 'stringency', 'loath', 'fuss', 'megalomania',
   'danger', 'gallivanting', 'hibernation', 'horror', 'terror', 'eminence', 'shame', 'scorn', 'ingenuinity', 'paroxysm', 'satiety',
-  'placidity', 'phantasmagoria']
+  'placidity', 'phantasmagoria', 'euphoria']
 
 export const generate = ()=>{
   // generates a random party invite link name
