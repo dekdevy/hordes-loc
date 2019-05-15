@@ -25,7 +25,7 @@ export default [
     }
   },
 
-  { // T2 item
+  {
     name       : {$$: 'Rusty Ironsword' },
     description: {
       en: 'Not much better than a blunt piece of wood in my opinion.',
@@ -50,7 +50,7 @@ export default [
     }
   },
 
-  { // T3 item
+  {
     name       : {$$: 'Troll Blade' },
     description: {
       en: 'Am I being pranked?',
@@ -75,7 +75,7 @@ export default [
     }
   },
 
-  { // T4 item
+  {
     name       : {$$: 'Broadsword' },
     description: {
       en: 'Some knight dropped this. Probably unintentionally.',
@@ -100,7 +100,7 @@ export default [
     }
   },
 
-  { // T5 item. names are english only!
+  {
     name       : {$$: 'Longsword' },
     description: {
       en: 'Long? Yes. Deadly? Maybe. Just don\'t cut yourself.',
@@ -124,7 +124,7 @@ export default [
       ro: 'Lungă? Da. Mortală? Poate. Doar ai grijă să nu te tai.'
     }
   },
-  { // T6 item
+  {
     name       : {$$: 'Carved Bonesword' },
     description: {
       en: 'Crudely carved from the bones of an ancient behemoth.',
@@ -148,7 +148,7 @@ export default [
       ro: 'Sculptată grosolan din oasele unui monstru behemoth.'
     }
   },
-  { // T7 item
+  {
     name       : {$$: 'Greatsword' },
     description: {
       en: 'A sword so mighty that few can handle it. It\'s pretty heavy.',
@@ -172,7 +172,7 @@ export default [
       ro: 'O sabie atât de puternică încât puțini o pot mânui. E destul de grea.'
     }
   },
-  { // T8 item
+  {
     name       : {$$: 'Ghastly Scimitar' },
     description: {
       en: 'Diabolical curved blade. Even holding it makes you feel its dark essence.',
@@ -197,7 +197,7 @@ export default [
     }
   },
 
-  { // T9 item
+  {
     name       : {$$: 'Nullfire Sword' },
     description: {
       en: 'A cold-looking blade with a burning hot edge.',
@@ -222,7 +222,7 @@ export default [
     }
   },
 
-  { // T10 item
+  {
     name       : {$$: 'Knight\'s Greatsword' },
     description: {
       en: 'A blade wielded by only the most skillful knights.',
@@ -247,7 +247,7 @@ export default [
     }
   },
 
-  { // T11 item
+  {
     name       : {$$: 'King\'s Glaive' },
     description: {
       en: 'Cylindrical sword stolen from an ancient king. Cutting capability is questionable.',
@@ -272,7 +272,7 @@ export default [
     }
   },
 
-  { // T12 item
+  {
     name       : {$$: 'Void Blade' },
     description: {
       en: 'Powerful masterpiece brought from the abysses of the underworld.',
@@ -297,7 +297,7 @@ export default [
     }
   },
 
-  { // T13 item
+  {
     name       : {$$: 'Zerstörer' },
     description: {
       en: 'Mysterious pink sword. Engravings say "Mächtig Zerstörer".',
@@ -322,7 +322,7 @@ export default [
     }
   },
 
-  { // T14 item
+  {
     name       : {$$: 'Hearteater' },
     description: {
       en: 'Devours living tissue as it plunges its way into the thick muscle of your foes beating heart.',
@@ -347,32 +347,14 @@ export default [
     }
   },
 
-  { // T15 item
+  {
     name       : {$$: 'Demonedge' },
     description: {
-      en: 'It can cut demons, but not angels.',
-      ru: 'Oно может резать демонов, но не ангелов',
-      fr: 'Elle peut éxecuter les démons, mais pas les anges.',
-      es: 'Los santos los usaron en las guerras en los cielos.',
-      de: 'Es kann Dämonen besiegen, aber keine Engel.',
-      hi: 'राक्षसों को ख़त्म कर सकती है, देवताओं को नहीं।',
-      pt: 'Pode cortar demónios, mas não anjos.',
-      nl: 'Het kan demonen snijden, maar geen engelen.',
-      tl: 'Maaari itong magputol ng mga demonyo ngunit hindi mga anghel.',
-      bg: 'За убиване на демони, но не и ангели.',
-      el: 'Μπορεί να κόψει τους δαίμονες αλλά όχι τους αγγέλους.',
-      pl: 'Może ciąć demony, ale nie anioły.',
-      ht: 'Li ka koupe move lespri yo, men se pa zanj Bondye.',
-      it: 'Puo\' tagliare demoni, ma non angeli.',
-      cs: 'To může snížit démony, ale ne anděly.',
-      ja: 'それは悪魔をカットすることができますが、天使はカットできません。',
-      sv: 'Det kan klippa demoner, men inte änglar.',
-      ko: '악마를 잘라 낼 수는 있지만 천사는자를 수 없습니다.',
-      ro: 'Poate tăia demoni, dar nu și îngeri.'
+      en: 'A blade said to be broken in the past and forged anew by the fabled demons of these magnificent lands.'
     }
   },
 
-  { // T16 item
+  {
     name       : {$$: 'Excalibur' },
     description: {
       en: 'We were told it was pulled from stone. Still can\'t find the stone.',
@@ -397,7 +379,7 @@ export default [
     }
   },
 
-  { // T17 item
+  {
     name       : {$$: 'Harbringer' },
     description: {
       en: 'This weapon brings about the coming of a new age.',
