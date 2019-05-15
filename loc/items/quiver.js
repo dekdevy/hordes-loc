@@ -190,7 +190,8 @@ export default [
       el: 'Ένας θεαματικός σμαραγδένιος πράσινος φανατικός που γεμίζει τους εχθρούς σας με ενοχή, καθώς ετοιμάζονται να σας επιτεθούν.',
       bg: 'Впечатляващ смарагдово зелен колчан, изпълващ враговете ви с вина, докато се подготвят да ви атакуват.',
       cs: 'Velkolepý smaragdově zelený toulec naplňující své nepřátele vinou, když se na vás připravují k útoku.',
-      ja: '彼らがあなたを攻撃する準備をしている時に壮観なエメラルドグリーンの槍があなたの敵を罪悪感で満たしています'
+      ja: '彼らがあなたを攻撃する準備をしている時に壮観なエメラルドグリーンの槍があなたの敵を罪悪感で満たしています',
+      nl: 'Een spectaculaire smaragdgroene koker vult je vijanden met schuldgevoelens als ze zich voorbereiden om je aan te vallen.'
     }
   },
 

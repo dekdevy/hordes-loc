@@ -103,7 +103,7 @@ export default [
     name       : {$$: 'Darkmetal Pavis' },
     description: {
       en: 'Tall shield guarding your entire body. Only the most cunning of blows can evade its protection.',
-      ru: 'Высокий щит, защищая всё тело. Только самый хитрый из ударов могут уклониться от его защиты.',
+      ru: 'Высокий щит, защищая всё тело. Только самый хитрый из ударов может пробить его защиту.',
       es: 'Un escudo alto que protege todo tu cuerpo. Sólo los golpes más astutos pueden eludir su protección.',
       fr: 'Grand bouclier protégeant tout votre corps. Seul le plus rusé des coups peut échapper à sa protection.',
       de: 'Großer Schild, der deinen ganzen Körper schützt. Nur die gerissensten Schläge können sich ihrem Schutz entziehen.',
