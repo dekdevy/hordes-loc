@@ -71,6 +71,7 @@ export default {
 
   cancel: {
     en: 'Cancel',
+    ru: 'Отменить',
     nl: 'Annuleren'
   },
 
