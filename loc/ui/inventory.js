@@ -266,51 +266,62 @@ export default {
 
   waitunstash: {
     en: 'You have to wait until you can retreive this item',
-    de: 'Du musst noch etwas warten, bis du dieses Item nehmen kannst'
+    de: 'Du musst noch etwas warten, bis du dieses Item nehmen kannst',
+    ru: 'вы должны подождать перед тем как вы можете получить этот предмет'
   },
 
   withdraw: {
     en: 'Withdraw',
-    de: 'Abheben'
+    nl: 'Terugtrekken'
+    de: 'Abheben',
+    ru: 'Забрать'
   },
 
   search: {
     en: 'Search',
-    nl: 'Zoeken'
+    nl: 'Zoeken',
+    ru: 'Поиск',
+    de: 'Suche'
   },
 
   filtermine: {
     en: 'My items only',
     nl: 'Alleen mijn items',
     de: 'Nur meine Items'
+    ru: 'Только мои предметы'
   },
 
   buy: {
     en: 'Buy Item',
     nl: 'Item Kopen',
     de: 'Item kaufen'
+    ru: 'Купить предмет'
   },
 
   delist: {
     en: 'Delist Item',
     nl: 'Verwijderd Item',
     de: 'Verkauf abbrechen'
+    ru: 'исключить предмет'
   },
 
   price: {
     en: 'Price: ', // include the space and punctuation
     nl: 'Prijs: ',
-    de: 'Preis: '
+    de: 'Preis: ',
+    ru: 'Цена: '
   },
 
   fee: {
     en: 'Fee: ', // include the space and punctuation
     de: 'Gebühr: '
+    nl: 'Honorarium: '
   },
 
   dragitem: {
     en: 'Drag item into slot',
     nl: 'Slepen het item in de sleuf',
     de: 'Zieh ein Item hier rein'
+    ru: 'Перетащите предмет в слот'
   }
 }
