@@ -241,7 +241,12 @@ export default {
   auctioncancel: {
     en: 'Item delisted and sent to stash',
     nl: 'Item verwijderd en naar de stash verzonden',
-    de: 'Verkauf abgebrochen und Item in den Speicher geschickt'
+    de: 'Verkauf abgebrochen und Item in den Speicher geschickt',
+    pt: 'Item retirado da lista e enviado para o esconderijo',
+    it: 'Articolo cancellato e inviato a magazzino',
+    fr: 'L\'article a été retiré de la liste et envoyé à la planque.',
+    pl: 'Przedmiot usunięty z wykazu i wysłany do przechowania.',
+    es: 'Artículo retirado de la lista y enviado a esconder'
   },
 
   auctionbuy: {
