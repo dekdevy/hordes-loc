@@ -69,25 +69,25 @@ const npcs = {
 }
 
 // User interface
+import * as merchantui from './ui/merchant.js'
+import * as stashui from './ui/stash.js'
 import charmenu from './ui/charmenu.js'
 import chat from './ui/chat.js'
 import clan from './ui/clan.js'
 import general from './ui/general.js'
 import inventory from './ui/inventory.js'
-import merchant from './ui/mercchant.js'
 import party from './ui/party.js'
 import settings from './ui/settings.js'
-import stash from './ui/stash.js'
 import stats from './ui/stats.js'
 const ui = {
   charmenu,
   chat,
   clan,
   inventory,
-  merchant,
+  merchant: merchantui,
   settings,
   party,
-  stash,
+  stash   : stashui,
   stats,
   ...general }
 
