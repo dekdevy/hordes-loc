@@ -127,7 +127,13 @@ export default [
   {
     name       : {$$: 'Silken Adornment' },
     description: {
-      en: 'Shimmering silver fabric said to be made from the elegant hairs of elvish princesses'
+      en: 'Shimmering silver fabric said to be made from the elegant hairs of elvish princesses.',
+      pt: 'Tecido prateado cintilante que se diz ser feito a partir dos cabelos elegantes das princesas elfas.',
+      it: 'Lucentezza argento tessuto scintillante detto di essere fatto dai capelli eleganti di principesse elfiche.',
+      nl: 'Glinsterende zilveren stof die naar verluidt gemaakt is van de elegante haren van elvenprinsessen.',
+      pl: 'Błyszcząca srebrna tkanina podobno wykonana z eleganckich włosów elfickich księżniczek.',
+      fr: 'Tissu argent scintillant, dit-on, fait à partir des cheveux élégants des princesses elfiques.',
+      es: 'Tejido plateado brillante que se dice que está hecho de los elegantes cabellos de las princesas elvisas.'
     }
   },
 
