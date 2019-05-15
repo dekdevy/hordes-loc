@@ -190,7 +190,8 @@ export default [
       el: 'Ένας θεαματικός σμαραγδένιος πράσινος φανατικός που γεμίζει τους εχθρούς σας με ενοχή, καθώς ετοιμάζονται να σας επιτεθούν.',
       bg: 'Впечатляващ смарагдово зелен колчан, изпълващ враговете ви с вина, докато се подготвят да ви атакуват.',
       cs: 'Velkolepý smaragdově zelený toulec naplňující své nepřátele vinou, když se na vás připravují k útoku.',
-      ja: '彼らがあなたを攻撃する準備をしている時に壮観なエメラルドグリーンの槍があなたの敵を罪悪感で満たしています'
+      ja: '彼らがあなたを攻撃する準備をしている時に壮観なエメラルドグリーンの槍があなたの敵を罪悪感で満たしています',
+      nl: 'Een spectaculaire smaragdgroene koker vult je vijanden met schuldgevoelens als ze zich voorbereiden om je aan te vallen.'
     }
   },
 
@@ -198,6 +199,7 @@ export default [
     name       : {$$: 'Vodhrai' },
     description: {
       en: 'A quiver is coated in a deep, shimmering navy material. Ancient stories state that such a quiver clears the mind of distractions during battle.',
+      ru: 'Колчан покрыт в глубоком, мерцающем металле. Древние истории говорят, что, во время битвы, такой колчан очищает разум от отвлечения.',
       pt: 'Um tremor é revestido num material marinho profundo e cintilante. Histórias antigas afirmam que tal aljava limpa a mente das distrações durante a batalha.',
       es: 'Un carcaj está recubierto de un material marino profundo y brillante. Historias antiguas afirman que tal carcajada despeja la mente de distracciones durante la batalla.',
       fr: 'Un carquois est recouvert d\'une matière marine profonde et scintillante. Les histoires anciennes disent qu\'un tel carquois libère l\'esprit des distractions pendant les combats.',
@@ -221,6 +223,7 @@ export default [
     name       : {$$: 'Cain' },
     description: {
       en: 'Crumbling scrolls that are stained with blood read that chaos fills the mind of those that have been touched by arrows held in such a quiver.',
+      ru: 'Хрупкие свитки, испачканные кровью, говорят, что разумы тех, кто коснется стрел, находящихся в этом колчане, поселит хаос.',
       pt: 'Pergaminhos desmoronando que estão manchados de sangue lido que o caos enche a mente daqueles que foram tocados por setas seguradas em tal aljava.',
       es: 'Pergaminos que se desmoronan y están manchados de sangre leen que el caos llena la mente de aquellos que han sido tocados por flechas sostenidas en tal carcajada.',
       fr: 'Des parchemins émiettés et tachés de sang lisent que le chaos remplit l\'esprit de ceux qui ont été touchés par les flèches contenues dans un tel carquois.',
