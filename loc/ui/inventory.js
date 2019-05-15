@@ -189,7 +189,7 @@ export default {
     fr: '$1 a été transféré dans votre planque',
     es: '$1 ha sido movido a tu escondite',
     nl: '$1 is verplaatst naar je voorraad',
-    hi: '$1 को स्टैश में भेज दिया गया है'
+    hi: '$1 को स्टैश में भेज दिया गया है',
     tl: 'Ang $1 ay inilipat sa iyong itago'
   },
 
