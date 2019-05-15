@@ -190,6 +190,7 @@ export default {
     es: '$1 ha sido movido a tu escondite',
     nl: '$1 is verplaatst naar je voorraad',
     hi: '$1 को स्टैश में भेज दिया गया है'
+    tl: 'Ang $1 ay inilipat sa iyong itago'
   },
 
   spend: {
@@ -246,7 +247,8 @@ export default {
     it: 'Articolo cancellato e inviato a magazzino',
     fr: 'L\'article a été retiré de la liste et envoyé à la planque.',
     pl: 'Przedmiot usunięty z wykazu i wysłany do przechowania.',
-    es: 'Artículo retirado de la lista y enviado a esconder'
+    es: 'Artículo retirado de la lista y enviado a esconder',
+    tl: 'Inalis ang item at ipinadala sa itago'
   },
 
   auctionbuy: {
@@ -272,35 +274,40 @@ export default {
   waitunstash: {
     en: 'You have to wait until you can retreive this item',
     de: 'Du musst noch etwas warten, bis du dieses Item nehmen kannst',
-    ru: 'вы должны подождать перед тем как вы можете получить этот предмет'
+    ru: 'вы должны подождать перед тем как вы можете получить этот предмет',
+    tl: 'Kailangan mong maghintay hanggang sa maari mong ma-retreive ang item na ito'
   },
 
   withdraw: {
     en: 'Withdraw',
     nl: 'Terugtrekken'
     de: 'Abheben',
-    ru: 'Забрать'
+    ru: 'Забрать',
+    tl: 'Mag-withdraw'
   },
 
   search: {
     en: 'Search',
     nl: 'Zoeken',
     ru: 'Поиск',
-    de: 'Suche'
+    de: 'Suche',
+    tl: 'Paghahanap'
   },
 
   filtermine: {
     en: 'My items only',
     nl: 'Alleen mijn items',
     de: 'Nur meine Items'
-    ru: 'Только мои предметы'
+    ru: 'Только мои предметы',
+    tl: 'Aking mga item lamang'
   },
 
   buy: {
     en: 'Buy Item',
     nl: 'Item Kopen',
     de: 'Item kaufen'
-    ru: 'Купить предмет'
+    ru: 'Купить предмет',
+    tl: 'Bumili ng Item'
   },
 
   delist: {
@@ -308,6 +315,7 @@ export default {
     nl: 'Verwijderd Item',
     de: 'Verkauf abbrechen'
     ru: 'исключить предмет'
+    tl: 'ibukod ang item'
   },
 
   price: {
@@ -315,18 +323,22 @@ export default {
     nl: 'Prijs: ',
     de: 'Preis: ',
     ru: 'Цена: '
+    tl: 'Presyo: '
   },
 
   fee: {
     en: 'Fee: ', // include the space and punctuation
     de: 'Gebühr: '
-    nl: 'Honorarium: '
+    nl: 'Honorarium: ',
+    ru: 'Плата: ',
+    tl: 'Bayad: '
   },
 
   dragitem: {
     en: 'Drag item into slot',
     nl: 'Slepen het item in de sleuf',
     de: 'Zieh ein Item hier rein'
-    ru: 'Перетащите предмет в слот'
+    ru: 'Перетащите предмет в слот',
+    tl: 'I-drag ang item sa puwang'
   }
 }
