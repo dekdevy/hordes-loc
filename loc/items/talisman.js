@@ -125,28 +125,9 @@ export default [
   },
 
   {
-    name       : {$$: 'Silk Adornment' },
+    name       : {$$: 'Silken Adornment' },
     description: {
-      en: 'Shimmering silver fabric said to be stolen from Aphrodite herself.',
-      ru: 'Сияющая серебряная ткань, как говорят, была украдена у самой Афродиты.',
-      de: 'Schimmernder silberner Stoff soll von Aphrodite selbst gestohlen worden sein.',
-      nl: 'Glinsterende zilveren stof die gestolen zou zijn van Aphrodite zelf.',
-      es: 'Se dice que la tela de plata brillante fue robada a la propia Afrodita.',
-      fr: 'Le tissu d\'argent brillant aurait été volé à Aphrodite elle-même.',
-      ht: 'Se twal an ajan klere byen di ke yo te vòlè soti nan Epafrodit tèt li.',
-      it: 'Un tessuto argenteo scintillante che si dice sia stato rubato ad Afrodite stessa.',
-      pt: 'Tecido prateado cintilante disse que foi roubado da própria Afrodite.',
-      tl: 'Sinabi ni Shimmering na telang pilak na ninakaw mula kay Aphrodite.',
-      bg: 'Сияещата сребриста тъкан, говори се че е открадната от самата Афродита.',
-      el: 'Το λαμπερό ασημένιο ύφασμα λέγεται ότι κλέβεται από την ίδια την Αφροδίτη.',
-      pl: 'Błyszcząca srebrna tkanina mówi, że została skradziona samej Afrodycie.',
-      cs: 'Třpytivá stříbrná tkanina, která měla být ukradnuta od Afrodity sama.',
-      ja: 'きらめく銀の布はアフロディーテ自身から盗まれたと言われています。',
-      hi: 'स्वयम प्यार की देवी से चुराया गया चमचमाते चांदी का कपडा।',
-      sv: 'Skimrande silver tyg sägs vara stulen från Afrodite själv.',
-      ko: '아프로디테 자신으로부터 도난당한 은색 직물이 반짝 반짝 빛났다.',
-      ro: 'Se spune că materialul argintiu sclipitor a fost furat chiar de la Afrodita.'
-
+      en: 'Shimmering silver fabric said to be made from the elegant hairs of elvish princesses'
     }
   },
 
@@ -254,7 +235,7 @@ export default [
     name       : {$$: 'Myrso' },
     description: {
       en: 'The colour of sunset, it swarms images and projections into your conscience, telling you your next misfortune.',
-      ru: 'Цвет заката, Создает поток изображений и проекций в ваше сознание, предостерегающие вас от гредущих несчастий.',
+      ru: 'Цвет заката создает поток изображений и проекций в ваше сознание, предостерегающие вас от гредущих несчастий.',
       de: 'Die Farbe des Sonnenuntergangs, sie schwingt Bilder und Projektionen in dein Gewissen und erzählt dir dein nächstes Unglück.',
       nl: 'De kleur van zonsondergang, het zwermt beelden en projecties in je bewustzijn, vertellen je je volgende ongeluk.',
       es: 'El color del atardecer, inunda tu conciencia con imágenes y proyecciones que te cuentan tu próxima desgracia.',
