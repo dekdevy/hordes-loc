@@ -280,7 +280,7 @@ export default {
 
   withdraw: {
     en: 'Withdraw',
-    nl: 'Terugtrekken'
+    nl: 'Terugtrekken',
     de: 'Abheben',
     ru: 'Забрать',
     tl: 'Mag-withdraw'
@@ -297,7 +297,7 @@ export default {
   filtermine: {
     en: 'My items only',
     nl: 'Alleen mijn items',
-    de: 'Nur meine Items'
+    de: 'Nur meine Items',
     ru: 'Только мои предметы',
     tl: 'Aking mga item lamang'
   },
@@ -305,7 +305,7 @@ export default {
   buy: {
     en: 'Buy Item',
     nl: 'Item Kopen',
-    de: 'Item kaufen'
+    de: 'Item kaufen',
     ru: 'Купить предмет',
     tl: 'Bumili ng Item'
   },
@@ -313,8 +313,8 @@ export default {
   delist: {
     en: 'Delist Item',
     nl: 'Verwijderd Item',
-    de: 'Verkauf abbrechen'
-    ru: 'исключить предмет'
+    de: 'Verkauf abbrechen',
+    ru: 'исключить предмет',
     tl: 'ibukod ang item'
   },
 
@@ -322,13 +322,13 @@ export default {
     en: 'Price: ', // include the space and punctuation
     nl: 'Prijs: ',
     de: 'Preis: ',
-    ru: 'Цена: '
+    ru: 'Цена: ',
     tl: 'Presyo: '
   },
 
   fee: {
     en: 'Fee: ', // include the space and punctuation
-    de: 'Gebühr: '
+    de: 'Gebühr: ',
     nl: 'Honorarium: ',
     ru: 'Плата: ',
     tl: 'Bayad: '
@@ -337,7 +337,7 @@ export default {
   dragitem: {
     en: 'Drag item into slot',
     nl: 'Slepen het item in de sleuf',
-    de: 'Zieh ein Item hier rein'
+    de: 'Zieh ein Item hier rein',
     ru: 'Перетащите предмет в слот',
     tl: 'I-drag ang item sa puwang'
   }
