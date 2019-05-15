@@ -21,7 +21,7 @@ export default {
     es: 'Retirada',
     fr: 'Se retirer',
     pt: 'Retirar',
-    it, 'Ritirare',
+    it: 'Ritirare',
     pl: 'Wycofanie'
   },
 
