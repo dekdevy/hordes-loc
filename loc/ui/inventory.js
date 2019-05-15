@@ -156,6 +156,29 @@ export default {
     bg: 'Използвайте придмет',
     cs: 'Použijte přidmet',
     ja: 'アイテムを使う'
+  },
+
+  spend: {
+    en: 'You have spent $1 coins',
+    ru: 'Вы потратили $1 монеты',
+    es: 'Has gastado 2 monedas',
+    fr: 'Vous avez dépensé $1 pièces',
+    de: 'Du hast $1 Münzen ausgegeben',
+    pt: 'Você gastou $1 moedas',
+    ko: '$1 동전을 보냈습니다',
+    nl: 'U heeft $1 munten uitgegeven',
+    pl: 'Wydałeś $1 monety',
+    sv: 'Du har spenderat $1 mynt',
+    tr: '$1 madeni para harcadınız',
+    ht: 'Ou te pase $1 pyès monnen',
+    it: 'Hai speso $1 monete',
+    hi: 'आपने $1 सिक्के खर्च कर दिए हैं',
+    tl: 'Ginugol mo ang $1 barya',
+    el: 'Έχετε ξοδέψει $1 νομίσματα',
+    bg: 'Прекарали сте $1 монети',
+    cs: 'Strávili jste $1 mincí',
+    ja: 'あなたは $1 コインを使った',
+    ro: 'Ai cheltuit $1 de monede'
   }
 
 }
