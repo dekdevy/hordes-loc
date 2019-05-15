@@ -22,7 +22,7 @@ export default {
       ro: 'Salutări călător rătăcitor! Ți-ar plăcea să vinzi ceva?',
       tl: 'Pagbabati ng mga biyahero! Gusto mo bang magbenta ng isang bagay?'
     },
-    choices: {
+    choices: [{
       en: 'Yes, of course.',
       ru: 'Да, конечно.',
       es: 'Sí, por supuesto.',
@@ -43,6 +43,6 @@ export default {
       el: 'Ναι φυσικά.',
       ro: 'Da, desigur.',
       tl: 'Oo naman.'
-    }
+    }]
   }]
 }

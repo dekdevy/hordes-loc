@@ -350,7 +350,13 @@ export default [
   {
     name       : {$$: 'Demonedge' },
     description: {
-      en: 'A blade said to be broken in the past and forged anew by the fabled demons of these magnificent lands.'
+      en: 'A blade said to be broken in the past and forged anew by the fabled demons of these magnificent lands.',
+      pt: 'Uma lâmina disse que foi quebrada no passado e forjada de novo pelos demónios lendários destas magníficas terras.',
+      it: 'Una lama che si diceva essere rotta in passato e forgiata di nuovo dai demoni leggendari di queste magnifiche terre.',
+      nl: 'Een lemmet zou in het verleden gebroken zijn en opnieuw gesmeed zijn door de legendarische demonen van dit prachtige aanlanden.',
+      pl: 'Ostrze, które podobno zostało złamane w przeszłości i wykute na nowo przez legendarne demony tych wspaniałych ziem.',
+      fr: 'Une lame que l\'on disait cassée dans le passé et forgée à nouveau par les démons légendaires de ces magnifiques terres.',
+      es: 'Una espada que se dice que fue rota en el pasado y forjada de nuevo por los demonios legendarios de estas magníficas tierras.'
     }
   },
 
