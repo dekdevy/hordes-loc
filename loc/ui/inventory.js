@@ -241,6 +241,7 @@ export default {
 
   auctioncancel: {
     en: 'Item delisted and sent to stash',
+    ru: 'Предмет снят с продажи и перенесен в ваш сундук',
     nl: 'Item verwijderd en naar de stash verzonden',
     de: 'Verkauf abgebrochen und Item in den Speicher geschickt',
     pt: 'Item retirado da lista e enviado para o esconderijo',
@@ -274,7 +275,7 @@ export default {
   waitunstash: {
     en: 'You have to wait until you can retreive this item',
     de: 'Du musst noch etwas warten, bis du dieses Item nehmen kannst',
-    ru: 'вы должны подождать перед тем как вы можете получить этот предмет',
+    ru: 'Вы должны подождать перед тем как вы можете получить этот предмет',
     tl: 'Kailangan mong maghintay hanggang sa maari mong ma-retreive ang item na ito'
   },
 
