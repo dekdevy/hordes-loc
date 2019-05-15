@@ -18,7 +18,8 @@ export default [
       ja: 'それはすでに半分壊れていて、あなたはまだそれを使っていますか？',
       ht: 'Li deja mwatye kase epi ou toujou ap itilize li?',
       sv: 'Det är redan halvbruten och du använder det fortfarande?',
-      ko: '벌써 절반이 고장 났고 당신은 아직도 그것을 사용하고 있습니까?'
+      ko: '벌써 절반이 고장 났고 당신은 아직도 그것을 사용하고 있습니까?',
+      tr: 'Zaten yarısı kırık ve hala kullanıyor musun?'
     }
   },
 
@@ -41,7 +42,8 @@ export default [
       ja: '頭蓋骨ではなく、釘を打ってください。',
       ht: 'Sa a ta dwe rakle klou, pa kran.',
       sv: 'Detta bör hamra naglar, inte skallar.',
-      ko: '이것은 두개골이 아니라 망치질하는 손톱이어야합니다.'
+      ko: '이것은 두개골이 아니라 망치질하는 손톱이어야합니다.',
+      tr: 'Kafatasları değil çivileri çekiçlemek için kullanılmalıdır'
     }
   },
 
@@ -64,7 +66,8 @@ export default [
       ja: '壊れる寸前のさびた古いハンマー。',
       ht: 'Rusty martre fin vye granmoun, sou wout pou l kraze.',
       sv: 'Rustig gammal hammare, på gränsen till att bryta.',
-      ko: '오래 된 녹슨 망치, 깨고 직전.'
+      ko: '오래 된 녹슨 망치, 깨고 직전.',
+      tr: 'Paslı eski çekiç, kırma eşiğinde'
     }
   },
 
@@ -110,7 +113,8 @@ export default [
       ja: '頭蓋骨を洞窟に入れるために古代に使用された大きな武器。',
       ht: 'Gwo zam yo itilize nan tan lontan yo nan twou wòch nan kran.',
       sv: 'Stort vapen som använts i antiken för att grotta i skalle.',
-      ko: '두개골에 동굴을 넣기 위해 고대에 사용 된 대형 무기.'
+      ko: '두개골에 동굴을 넣기 위해 고대에 사용 된 대형 무기.',
+      tr: 'Eski zamanlarda kullanılan büyük silah. Kafataslarında mağara için kullanıldı'
     }
   },
 
@@ -133,7 +137,8 @@ export default [
       ja: '奇妙な棒状のバッシャー。原油らしく、ドルイド油のかすかな香りがする…',
       ht: 'Etranj baton ki tankou basher. Sanble brut ak emèt yon sant endispoze nan lwil drwid ...',
       sv: 'Konstigt stavliknande basher. Verkar rå och avger en svag lukt av druidoljor ...',
-      ko: '이상한 막대기 같은 지하실. 원유처럼 보이고 드루이드 오일의 희미한 냄새를 풍깁니다 ...'
+      ko: '이상한 막대기 같은 지하실. 원유처럼 보이고 드루이드 오일의 희미한 냄새를 풍깁니다 ...',
+      tr: 'Garip bir çubuk benzeri silah. İlkel görünüyor ve kokuyor büyücü yağlar'
     }
   },
 
@@ -156,8 +161,9 @@ export default [
       ja: '古代の小人たちはこの力強い構造を鍛造しました。暗くて致命的です。',
       ht: 'Nen ansyen fòje estrikti sa a vanyan sòlda. Nwa ak trè danjere.',
       sv: 'Forntida dvärgar smidade denna mäktiga struktur. Mörk och dödlig.',
-      ko: '고대의 드워프들은이 강력한 구조물을 만들었습니다. 어둡고 치명적입니다.'
-    }
+      ko: '고대의 드워프들은이 강력한 구조물을 만들었습니다. 어둡고 치명적입니다.',
+      tr: 'Antik Cüceler bu güçlü yeri inşa etti.  Karanlık ve ölümcül'
+    } 
   },
 
   {
@@ -179,7 +185,8 @@ export default [
       ja: '神々の目は、勇士に運をもたらし、そして臆病者に運命をもたらしている野郎に続く。',
       ht: 'Je bondye yo swiv jeran an, yo pote fòtin vanyan ak fayit pou lachte yo.',
       sv: 'Guds ögon följer wielder och ger förmögenhet till tapperhet och döm till feg.',
-      ko: '신의 눈은 수호자를 따라 가며 비겁한 용감한 운명에 운을 가져온다.'
+      ko: '신의 눈은 수호자를 따라 가며 비겁한 용감한 운명에 운을 가져온다.',
+      tr: 'Tanrıların gözleri taşıyıcıyı takip ediyor. bu cesur için iyi bir servet getiriyor, ve bir korkak doom getiriyor'
     }
   },
 
@@ -202,7 +209,8 @@ export default [
       ja: 'ドルイド僧が古代の性質の神々を犠牲にするために使用する聖なる道具。',
       ht: 'Zouti Sentespri itilize pa drwid yo fè sakrifis pou bondye yo nati ansyen.',
       sv: 'Heligt verktyg som används av druider för att göra offer till de gamla naturgudarna.',
-      ko: '드루이드가 고대 성전의 희생 제물을 만들기 위해 사용한 거룩한 도구.'
+      ko: '드루이드가 고대 성전의 희생 제물을 만들기 위해 사용한 거룩한 도구.',
+      tr: 'Kutsal aracı antik doğa tanrılara kurban yapmak için druidler tarafından kullanılan'
     }
   },
 
@@ -225,7 +233,8 @@ export default [
       ja: 'ドワーフの戦士によって使用されるヘビーバッシャー。暗くて重い未知の金属製。',
       ht: 'Lou basher itilize pa enne vanyan sòlda. Te fè nan yon metal unknown, nwa ak lou.',
       sv: 'Tung hammare som används av dvärgkrigare. Tillverkad av en okänd metall, mörk och tung.',
-      ko: '드워프 전사들이 사용하는 무거운 지하실. 알 수없는 금속으로 제작되었으며, 어둡고 무겁습니다.'
+      ko: '드워프 전사들이 사용하는 무거운 지하실. 알 수없는 금속으로 제작되었으며, 어둡고 무겁습니다.',
+`     tr: 'Cüce savaşçılar tarafından kullanılan ağır silah. Bilinmeyen bir metalden yapılmış, karanlık ve ağır'
     }
   },
 
@@ -248,7 +257,8 @@ export default [
       ja: '慈悲もなく熱殺さずに鍛造。',
       ht: 'Fòje san yo pa chalè, touye san pitye.',
       sv: 'Smidd utan värme, dödar utan barmhärtighet.',
-      ko: '열없이 위조 된, 자비없는 죽이기.'
+      ko: '열없이 위조 된, 자비없는 죽이기.',
+      tr: 'ısı olmadan oluşturulan ve acımasızca öldürür'
     }
   },
 
@@ -271,7 +281,8 @@ export default [
       ja: 'この武器を倒した巨大な敵の頭蓋骨を突破すると、それに対抗するすべての人に恐怖が呼び起こされます。',
       ht: 'Konpoze ak zo bwa tèt la nan yon lènmi lènmi mouri, zam sa a enspire pè nan tout moun ki kanpe kont li.',
       sv: 'Toppat med skallen av en dödad hävd fiende, inspirerar detta vapen terror i alla som står emot det.',
-      ko: '살해 된 대검의 적의 두개골을 얹은이 무기는 모든 사람에게 공포를 불러 일으킨다.'
+      ko: '살해 된 대검의 적의 두개골을 얹은이 무기는 모든 사람에게 공포를 불러 일으킨다.',
+      tr: 'En üstte ölü bir düşman devinin kafatası. Bu silah, ona karşı duran herkese terör estiriyor.'
     }
   },
 
@@ -295,6 +306,7 @@ export default [
       ht: 'Ka rantre nan zo bwa tèt fèb ou byen fasil. Oswa lènmi ou yo. Pwobableman ou menm si.',
       sv: 'Kan lätt tränga in i din svaga skalle. Eller dina fiender. Förmodligen din men.',
       ko: '당신의 연약한 두개골에 아주 쉽게 침투 할 수 있습니다. 또는 당신의 원수. 아마 당신 것.'
+     
     }
   },
 
