@@ -6,11 +6,11 @@ export default {
     ru: 'Окей',
     de: 'Okay',
     hi: 'ठीक',
-    fr: 'D\'accord',    // TODO: shorten
+    fr: 'Oui',
     es: 'Bien',
     tr: 'Tamam',
     nl: 'Okee',
-    pt: 'Está bem.',    // TODO: shorten, no puncts
+    pt: 'Claro.',
     pl: 'Dobrze.',      // TODO: shorten
     ht: 'Dakò',
     ko: '오케이',
@@ -70,7 +70,8 @@ export default {
   },
 
   cancel: {
-    en: 'Cancel'
+    en: 'Cancel',
+    nl: 'Annuleren'
   },
 
   decline: {
