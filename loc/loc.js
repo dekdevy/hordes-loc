@@ -84,10 +84,10 @@ const ui = {
   chat,
   clan,
   inventory,
-  merchant: merchantui,
+  merchant: merchantui.default,
   settings,
   party,
-  stash   : stashui,
+  stash   : stashui.default,
   stats,
   ...general }
 
