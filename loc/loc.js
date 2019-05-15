@@ -80,7 +80,6 @@ import party from './ui/party.js'
 import settings from './ui/settings.js'
 import stats from './ui/stats.js'
 const ui = {
-  auction,
   charmenu,
   chat,
   clan,
