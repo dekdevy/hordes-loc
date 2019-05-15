@@ -67,7 +67,10 @@ export default {
     el: 'Αποδέχομαι',
     tl: 'Tanggapin',
     ro: 'Acceptă'
+  },
 
+  cancel: {
+    en: 'Cancel'
   },
 
   decline: {

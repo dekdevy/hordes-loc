@@ -237,6 +237,10 @@ export default {
     ro: 'Ați postat $1 de vânzare'
   },
 
+  auctioncancel: {
+    en: 'Item delisted and sent to stash'
+  },
+
   auctionbuy: {
     en: 'Item purchased for $1 coins and sent to your Stash',
     ru: 'Предмет, купленный за $1, отправлен в ваш сундук',
@@ -255,5 +259,33 @@ export default {
     bg: 'Позиция, закупена за $1 монети и изпратена до вашия Stash',
     cs: 'Zboží zakoupené za $1 mincí a zaslané do vašeho Stash',
     ja: '$1 コインを購入し、Stash に送った商品'
+  },
+
+  search: {
+    en: 'Search'
+  },
+
+  filtermine: {
+    en: 'My items only'
+  },
+
+  buy: {
+    en: 'Buy Item'
+  },
+
+  delist: {
+    en: 'Delist Item'
+  },
+
+  price: {
+    en: 'Price: ' // include the space and punctuation
+  },
+
+  fee: {
+    en: 'Fee: ' // include the space and punctuation
+  },
+
+  dragitem: {
+    en: 'Drag item into slot'
   }
 }
