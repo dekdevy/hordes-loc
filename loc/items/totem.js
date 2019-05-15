@@ -178,7 +178,7 @@ export default [
       fr: 'Sculpture sinistre d\'un loup lugubre qui murmure parfois à voix basse dans les murmures de la nuit sombre.',
       es: 'Una espeluznante escultura de un lobo lúgubre que a veces lanza un suave susurro parecido a un aullido entre los murmullos de la noche oscura.',
       nl: 'Een griezelig houtsnijwerk van een grimmige wolf die soms een zacht huilend gefluister werpt in het geruis van de donkere nacht.',
-      ru: 'Жуткая вырезка мрачного волка, иногда шепчущего тихим воем в шорох темной ночи.',
+      ru: 'Жуткая вырезка мрачного волка, иногда шепчущего тихим воем в шорох ночи.',
       bg: 'Зловеща резба на мрачен вълк, който понякога хвърляше мек шепот в шепота на тъмната нощ.',
       cs: 'Strašidelné řezbářství ponurého vlka, který někdy vrhal do šeru temné noci měkké vytí.',
       tl: 'Isang nakatatakot na larawang inukit ng isang mabangis na lobo kung minsan ay naghahain ng isang malambot na alulong-tulad ng ibulong sa mga murmurs ng madilim na gabi.',
