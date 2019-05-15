@@ -171,7 +171,7 @@ export default {
     ko: '은신처로 이동하십시오.',
     sv: 'Flytta till stash',
     ht: 'Deplase nan catcher',
-    hi: 'मूव करने जाएं',
+    hi: 'स्टैश में भेजें',
     tl: 'Ilipat sa itago',
     el: 'Μετακίνηση στο stash',
     bg: 'Преместване в скривалище',
@@ -187,7 +187,8 @@ export default {
     pl: '$1 został przeniesiony do twojego magazynu.',
     fr: '$1 a été transféré dans votre planque',
     es: '$1 ha sido movido a tu escondite',
-    nl: '$1 is verplaatst naar je voorraad.'
+    nl: '$1 is verplaatst naar je voorraad.',
+    hi: '$1 को स्टैश में भेज दिया गया है'
   },
 
   spend: {
@@ -204,7 +205,7 @@ export default {
     tr: '$1 madeni para harcadınız',
     ht: 'Ou te pase $1 pyès monnen',
     it: 'Hai speso $1 monete',
-    hi: 'आपने $1 सिक्के खर्च किए हैं',
+    hi: 'आपने $1 सिक्के खर्च कर दिए हैं',
     tl: 'Ginugol mo ang $1 barya',
     el: 'Έχετε ξοδέψει $1 νομίσματα',
     bg: 'Прекарали сте $1 монети',
@@ -227,7 +228,7 @@ export default {
     tr: 'Satılık $1 gönderdiniz',
     ht: 'Ou te afiche $1 pou vann',
     it: 'Hai postato $1 in vendita',
-    hi: 'आपने बिक्री के लिए $1 पोस्ट किया है',
+    hi: 'आपने $1 को विक्रय के लिए उपलब्ध कर दिया है',
     tl: 'Nag-post ka ng $1 para sa pagbebenta',
     el: 'Έχετε δημοσιεύσει $1 προς πώληση',
     bg: 'Публикували сте $1 за продажба',
@@ -248,7 +249,7 @@ export default {
     sv: 'Produkt som köpts för $1 mynt och skickas till din Stash',
     ht: 'Atik achte pou pyès monnen $1 epi li voye bay Stash ou',
     it: 'Oggetto acquistato per $1 monete e inviato al tuo Stash',
-    hi: '$1 सिक्कों के लिए खरीदी गई वस्तु और आपके Stash को भेजी गई',
+    hi: '$1 के लिए अपने वस्तु खरीद लिया है और उसे आपके स्टैश में भेज दिया गया है',
     tl: 'Ang item na binili para sa $1 barya at ipinadala sa iyong Stash',
     el: 'Στοιχείο που αγοράσατε για $1 νομίσματα και απεστάλητε στο Stash σας',
     bg: 'Позиция, закупена за $1 монети и изпратена до вашия Stash',
