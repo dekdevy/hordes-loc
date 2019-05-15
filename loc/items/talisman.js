@@ -254,7 +254,7 @@ export default [
     name       : {$$: 'Myrso' },
     description: {
       en: 'The colour of sunset, it swarms images and projections into your conscience, telling you your next misfortune.',
-      ru: 'Цвет заката, Создает поток изображений и проекций в ваше сознание, предостерегающие вас от гредущих несчастий.',
+      ru: 'Цвет заката создает поток изображений и проекций в ваше сознание, предостерегающие вас от гредущих несчастий.',
       de: 'Die Farbe des Sonnenuntergangs, sie schwingt Bilder und Projektionen in dein Gewissen und erzählt dir dein nächstes Unglück.',
       nl: 'De kleur van zonsondergang, het zwermt beelden en projecties in je bewustzijn, vertellen je je volgende ongeluk.',
       es: 'El color del atardecer, inunda tu conciencia con imágenes y proyecciones que te cuentan tu próxima desgracia.',
