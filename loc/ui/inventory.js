@@ -311,6 +311,6 @@ export default {
   dragitem: {
     en: 'Drag item into slot',
     nl: 'Slepen het item in de sleuf',
-    de: 'Zieh ein Item in herein'
+    de: 'Zieh ein Item hier rein'
   }
 }
