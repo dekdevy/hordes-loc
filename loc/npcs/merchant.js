@@ -2,7 +2,7 @@ export default {
   interactions: [{
     text: {
       en: 'Greetings traveler! Would you like to see what items are for sale on the Market?',
-      ru: 'Приветствую путешественника! Хотели бы вы посмотреть, какие товары выставлены на продажу на рынке?',
+      ru: 'Приветствую путешественник! Хотели бы вы посмотреть, какие товары выставлены на продажу на рынке?',
       hi: 'अभिवादन यात्री! क्या आप देखना चाहेंगे कि बाजार में बिक्री के लिए कौन सी वस्तुएं हैं?',
       es: 'Saludos viajero! ¿Le gustaría ver qué artículos están a la venta en el mercado?',
       de: 'Grüße Reisender! Möchten Sie sehen, welche Artikel auf dem Markt zum Verkauf stehen?',
@@ -31,7 +31,7 @@ export default {
       es: 'Sí, muéstrame las subastas en venta.',
       nl: 'Ja, laat me de veilingen zien die te koop zijn',
       fr: 'Oui, montrez-moi les enchères à vendre.',
-      ru: 'Да, покажите мне предмети на продажу.',
+      ru: 'Да, покажите мне предметы на продажу.',
       el: 'Ναι, δείξτε μου τις δημοπρασίες προς πώληση.',
       tl: 'Oo, ipakita sa akin ang mga auction para mabili.',
       de: 'Ja, ich will die Gegenstände auf dem Markt sehen.',
