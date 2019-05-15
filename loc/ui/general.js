@@ -7,7 +7,7 @@ export default {
     de: 'Okay',
     hi: 'ठीक',
     fr: 'D\'accord',    // TODO: shorten
-    es: 'De acuerdo',   // TODO: shorten
+    es: 'Bien',
     tr: 'Tamam',
     nl: 'Okee',
     pt: 'Está bem.',    // TODO: shorten, no puncts
@@ -17,7 +17,10 @@ export default {
     it: 'Okay',
     cs: 'Dobře',
     ja: 'はい',
-    bg: 'Добре'
+    bg: 'Добре',
+    el: 'εντάξει',
+    tl: 'Sige',
+    ro: 'Okay'
   },
 
   back: {
@@ -27,24 +30,27 @@ export default {
     hi: 'पिछला',
     fr: 'Retour',
     de: 'Zurück',
-    es: 'Espalda', //TODO: shorten
+    es: 'Atras',
     nl: 'Terug',
     tr: 'Geri',
     pt: 'Voltar',
-    pl: 'Popierać',  // TODO: shorten
+    pl: 'Wstecz',
     ht: 'Retounen',  // TODO: shorten
     ko: '뒤로가기',   // TODO: shorten ?
     it: 'Dietro',
     cs: 'Zadní',
     ja: 'バック',
-    bg: 'Oбратно'
+    bg: 'Oбратно',
+    el: 'Πίσω',
+    tl: 'Bumalik',
+    ro: 'Înapoi'
   },
 
   accept: {
     en: 'Accept',
     sv: 'Acceptera',
-    ru: 'принять',
-    hi: 'स्वीकार करना',
+    ru: 'Принять',
+    hi: 'स्वीकार है',
     fr: 'Acceptez',
     de: 'Akzeptieren',
     es: 'Aceptar',
@@ -57,15 +63,18 @@ export default {
     it: 'Accettare',
     cs: 'Akceptovat',
     ja: '受け入れる',
-    bg: 'приемам'
+    bg: 'Приемам',
+    el: 'Αποδέχομαι',
+    tl: 'Tanggapin',
+    ro: 'Acceptă'
 
   },
 
   decline: {
     en: 'Decline',
     sv: 'Nedgång',
-    ru: 'отказать',
-    hi: 'पतन',
+    ru: 'Отказать',
+    hi: 'नहीं',
     fr: 'Déclin',
     de: 'Ablehnen',
     es: 'Disminución',
@@ -78,13 +87,16 @@ export default {
     it: 'Diminuzione',
     cs: 'Pokles',
     ja: '低下',
-    bg: 'упадък'
+    bg: 'Отказвам',
+    el: 'Πτώση',
+    tl: 'Tanggihan',
+    ro: 'Refuză'
   },
 
   close: {
     en: 'Close',
     sv: 'Stänga',
-    ru: 'закрит',
+    ru: 'Закрыть',
     hi: 'बंद करे',
     fr: 'Fermer',
     de: 'Schließen',
@@ -98,6 +110,9 @@ export default {
     it: 'Chiudi',
     cs: 'Zavřít',
     ja: '閉じる',
-    bg: 'Близо'
+    bg: 'Затвори',
+    el: 'Κοντά',
+    tl: 'Isara',
+    ro: 'Închide'
   }
 }

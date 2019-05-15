@@ -4,41 +4,43 @@ export default {
     en: 'Log Out',
     ru: 'Выйти',
     hi: 'बाहर आए',
-    es: 'Dejar Juego', // TODO: shorten
+    es: 'Salir',
     de: 'Abmelden',
     fr: 'Déconnexion',
     ko: '로그 아웃',
-    bg: 'Излез от профила', // TODO: shorten
+    bg: 'Изход',
     cs: 'Odhlásit se',
     el: 'Αποσυνδέση',
     ja: 'ログアウト',
     sv: 'Logga ut',
-    ph: 'Mag-log Out',
+    tl: 'Mag-log Out',
     tr: 'Çıkış Yap',
     nl: 'Uitloggen',
-    pt: 'Terminar sessão', // TODO: shorten
+    pt: 'Sair',
     pl: 'Wyloguj się',
-    ht: 'Dekonekte'
+    ht: 'Dekonekte',
+    ro: 'Deconectare'
   },
 
   home: {
     en: 'Home',
     ru: 'Домой',
     hi: 'मुख्य स्क्रीन',
-    es: 'Página Principal', // TODO: shorten
+    es: 'Casa',
     de: 'Startseite',
     fr: 'Accueil',
     ko: '홈페이지',
-    bl: 'У дома', // TODO: shorten
+    bg: 'Начало',
     cs: 'Domov',
     el: 'Αρχική σελίδα',
     ja: 'ホームページ',
     sv: 'Hemsida',
-    ph: 'Home page',
+    tl: 'Bahay',
     tr: 'Anasayfa',
     nl: 'Thuis',
-    pt: 'voltar para inicio', // TODO: shorten
+    pt: 'Início',
     pl: 'Strona główna',
-    ht: 'Paj lakay'
+    ht: 'Paj lakay',
+    ro: 'Acasă'
   }
 }

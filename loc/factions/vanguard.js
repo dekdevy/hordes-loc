@@ -6,7 +6,7 @@ export default {
   description: {
     en: 'The Vanguard horde seeks tradition, structure and order in society. Their Castle can be found in a lush green area around Guardstone.',
     sv: 'Vanguard söker tradition, struktur och ordning i samhället. Deras slott kan hittas i ett vackert grönt område omkring Guardstone.',
-    ru: 'Орда Vanguard соблюдает традиции, структуру и порядок в обществе. Их крепость может быть найдена в пышной зеленой зоне около Guardstone.',
+    ru: 'Орда Авангарда ищет традиции, структуру и порядок в обществе. Их крепость может быть найдена в пышной зеленой зоне около Камня Защиты.',
     es: 'Los valores del Vanguard son la tradición, la estructura y el orden de sociedad. Su Castillo se halla en el bosque exuberante de Guardstone.',
     hi: 'वैंगार्ड वंश समाज में परम्परा, संरचना और अनुक्रम चाहते है। उनका क़िला गुआर्डस्टोने के चारों ओर हरे भरे ईलाके में स्थित है।',
     de: 'Die Vanguard Horde sucht Tradition, Struktur und Ordnung in der Gesellschaft. Ihre Burg befindet sich in einer üppigen grünen Umgebung rund um Guardstone.',
@@ -17,10 +17,10 @@ export default {
     tr: 'Vanguard sürüsü, toplumda gelenek, yapı ve düzeni arar. Kaleleri, Muhafız Taşı çevresindeki yemyeşil bir alanda bulunur.',
     it: 'L\'orda di avanguardia cerca la tradizione, la struttura e l\'ordine nella società. Il loro castello può essere trovato in un\'area verde fertile intorno a Guardstone.',
     ht: 'Vanguard chèche tradisyon, estrikti ak lòd nan sosyete a. Ka chato yo ka jwenn nan yon zòn bèl vèt alantou Guardstone.',
-    ph: 'Ang Vanguard horde ay naglalayong istraktura ng istraktura at kaayusan sa lipunan. Ang kanilang Castle ay makikita sa luntiang luntiang lugar sa paligid ng Guardstone.',
+    tl: 'Ang Vanguard horde ay naglalayong istraktura ng istraktura at kaayusan sa lipunan. Ang kanilang Castle ay makikita sa luntiang luntiang lugar sa paligid ng Guardstone.',
     pl: 'Horde Vanguard seeks tradition, structure and order in society. Their castle is located in the lush greenery around Guardstone.',
     el: 'Η ορχήστρα Bloodlust εκτιμά την ελευθερία και την πίστη προσφέρει ένα χώρο για ατομικισμό ή ακόμα και χάος. Οι άμυνές τους βρίσκονται σε μια ερημική περιοχή που ονομάζεται Headless Landing. ',
-    bg: 'Ордата на кръвожадните ценности свобода и лоялност предлага място за индивидуализъм или дори хаос. Техните защити се намират в пустинен свят, наречен Безголовен кацане.',
+    bg: 'Ордата на Авангард търси традиция и ред в обществото. Замъкът им може да се намери в буйната зелена зона около Гардстоун.',
     cs: 'Vanguardská horda hledá tradici, strukturu a pořádek ve společnosti. Jejich hrad se nachází v bujné zelené oblasti kolem Guardstone.',
     ja: 'ヴァンガードの大群は社会における伝統の構造と秩序を求めています。彼らの城は、ガードストーン周辺の緑豊かな地域にあります。',
     ro: 'Facțiunea Vanguard caută tradiția, structura și ordinea în societate. Castelul lor poate fi găsit într-o zonă verde luxuriantă din jurul Guardstone.'

@@ -13,16 +13,17 @@ export default {
       de: 'Charakter auswählen',
       ko: '캐릭터 선택',
       tr: 'Karakter Seç',
-      bg: 'Изберете Символ',
+      bg: 'Изберете Герой',
       cs: 'Zvolte znak',
       el: 'Επιλέξτε χαρακτήρας',
       ja: 'キャラクターを選択',
-      ph: 'Piliin ang Character',
+      tl: 'Piliin ang Character',
       it: 'Seleziona carattere',
       pl: 'Wybierz postać',
-      nl: 'Selecteer karakter',
+      nl: 'Selecteer Karakter',
       pt: 'Selecionar Caractere',
-      ht: 'Chwazi karaktè'
+      ht: 'Chwazi karaktè',
+      ro: 'Selectează Caracterul'
     },
 
     create: {
@@ -30,21 +31,22 @@ export default {
       sv: 'Klicka för att skapa karaktär',
       ru: 'Нажмите, чтобы создать персонажа',
       hi: 'स्वरूप बानाने के लिए क्लिक करे',
-      es: 'Haga clic para crear un personaje',
+      es: 'Pulsar para crear un carácter',
       de: 'Klicken Sie hier, um einen Charakter zu erstellen.', // TODO: shorten
       fr: 'Cliquez pour créer le personnage',
       ko: '캐릭터를 만들려면 클릭하십시오',
       tr: 'Karakter yaratmak için tıkla',
-      bg: 'Кликнете, за да създадете знак',
+      bg: 'Кликнете, за да създадете герой',
       cs: 'Kliknutím vytvoříte znak',
       el: 'Κάντε κλικ για να δημιουργήσετε χαρακτήρα', // TODO: shorten
       ja: 'クリックしてキャラクターを作成',
-      ph: 'I-click upang lumikha ng character',
+      tl: 'I-click upang lumikha ng character',
       it: 'Clicca per creare il personaggio',
       pl: 'Kliknij, aby utworzyć postać',
       nl: 'Klik om karakter te creëren',
       pt: 'Clique para criar um personagem',
-      ht: 'Klike sou yo kreye karaktè'
+      ht: 'Klike sou yo kreye karaktè',
+      ro: 'Click pentru a crea un caracter'
     },
 
     enterWorld: {
@@ -61,12 +63,13 @@ export default {
       cs: 'Vstupte do světa',
       el: 'Εισάγετε τον κόσμο',
       ja: '世界に入る',
-      ph: 'Ipasok ang World',
+      tl: 'Ipasok ang World',
       it: 'Entra nel mondo',
       pl: 'Wejdź do świata',
       nl: 'Betreed de wereld',
       pt: 'Entre no mundo',
-      ht: 'Antre Lemonn'
+      ht: 'Antre Lemonn',
+      ro: 'Intră în lume'
     },
 
     emptySlot: {
@@ -83,12 +86,13 @@ export default {
       cs: 'Prázdný',
       el: 'Κενή υποδοχή', // TODO: shorten
       ja: '空きスロット',
-      ph: 'Bakanteng pwesto', // TODO: shorten
+      tl: 'Walang laman', // TODO: shorten
       it: 'Slot vuoto',
       pl: 'Pusty',
       nl: 'Leeg',
       pt: 'Vazio',
-      ht: 'Vide'
+      ht: 'Vide',
+      ro: 'Gol'
     },
 
     error: {
@@ -96,7 +100,7 @@ export default {
       sv: 'Nätverksfel',
       ru: 'Проблема с сетью',
       fr: 'Problème de réseau',
-      hi: 'नेट्वर्क में त्रुटि',
+      hi: 'नेट्वर्क में खराबी',
       es: 'Error de red',
       de: 'Netzwerkfehler',
       ko: '네트워크 오류',
@@ -105,12 +109,13 @@ export default {
       cs: 'Chyba sítě',
       el: 'Σφάλμα δικτύου',
       ja: 'ネットワークエラー',
-      ph: 'Error sa network',
+      tl: 'Error sa network',
       it: 'Errore di rete',
       pl: 'Błąd sieci',
       nl: 'Netwerkfout',
       pt: 'Erro de rede',
-      ht: 'Rezo erè'
+      ht: 'Rezo erè',
+      ro: 'Eroare de rețea'
     }
   },
 
@@ -122,20 +127,21 @@ export default {
       ru: 'Создание персонажа',
       fr: 'Création du personnage',
       hi: 'स्वरूप निर्माण',
-      es: 'Creación de personajes',
+      es: 'Creación de carácter',
       de: 'Charaktererstellung',
       ko: '캐릭터 생성',
       tr: 'Karakter yaratma',
-      bg: 'Създаване на символи',
+      bg: 'Създаване на герой',
       cs: 'Tvorba znaků',
       el: 'Δημιουργία χαρακτήρων',
       ja: 'キャラクター作成',
-      ph: 'Paglikha ng karakter',
+      tl: 'Paglikha ng karakter',
       it: 'Creazione del personaggio',
       pl: 'Tworzenie postaci',
       nl: 'Karakter creatie',
       pt: 'Criação de personagens',
-      ht: 'Kreyasyon karaktè'
+      ht: 'Kreyasyon karaktè',
+      ro: 'Creare de personaje'
     },
 
     pressIcon: {
@@ -144,7 +150,7 @@ export default {
       ru: 'Нажмите на иконку, чтобы увидеть краткое описание.',
       fr: 'Cliquez sur une icône pour une brève description',
       hi: 'संक्षिप्त विवरण के लिए तस्वीर पर क्लिक करे।',
-      es: 'Pulse un icono para obtener una breve descripción.',
+      es: 'Pulse un objecto para obtener una breve descripción.',
       de: 'Drücken Sie ein Symbol für eine Kurzbeschreibung.',
       ko: '간단한 설명을 보려면 아이콘을 누르십시오',
       tr: 'Kısa bir açıklama için bir ikona bas',
@@ -152,12 +158,13 @@ export default {
       cs: 'Pro stručný popis stiskněte ikonu',
       el: 'Πατήστε ένα εικονίδιο για μια σύντομη περιγραφή',
       ja: 'アイコンを押すと簡単な説明が表示されます',
-      ph: 'Pindutin ang isang icon para sa maikling paglalarawan',
+      tl: 'Pindutin ang isang icon para sa maikling paglalarawan',
       it: 'Premi unicona per una breve descrizione',
       pl: 'Naciśnij ikonę, aby uzyskać krótki opis',
-      nl: 'Druk op een pictogram voor een korte beschrijving.',
+      nl: 'Druk op een icoon voor een korte beschrijving.',
       pt: 'Pressione um ícone para uma breve descrição.',
-      ht: 'Peze yon icon pou yon deskripsyon tou kout.'
+      ht: 'Peze yon icon pou yon deskripsyon tou kout.',
+      ro: 'Apăsați o pictogramă pentru o scurtă descriere.'
     },
 
     selectClass: {
@@ -174,12 +181,13 @@ export default {
       cs: 'Vyberte třídu',
       el: 'Επιλέξτε μια τάξη',
       ja: 'クラスを選択',
-      ph: 'Pumili ng klase',
+      tl: 'Pumili ng klase',
       it: 'Seleziona una classe',
       pl: 'Wybierz klasę',
       nl: 'Selecteer een klasse',
       pt: 'Selecione uma classe',
-      ht: 'Chwazi yon klas'
+      ht: 'Chwazi yon klas',
+      ro: 'Alegeți o clasă'
     },
 
     selectFaction: {
@@ -188,7 +196,7 @@ export default {
       ru: 'Выберите фракцию',
       fr: 'Sélectionnez une faction',
       hi: 'वंश चुने',
-      es: 'Seleccione una facción',
+      es: 'Selecta una facción',
       de: 'Wählen Sie eine Fraktion aus',
       ko: '진영을 선택하십시오',
       tr: 'Bir grup seç',
@@ -196,12 +204,13 @@ export default {
       cs: 'Vyberte frakci',
       el: 'Επιλέξτε μια παράταξη',
       ja: '派閥を選択',
-      ph: 'Pumili ng isang pangkatin',
+      tl: 'Pumili ng isang pangkatin',
       it: 'Seleziona una fazione',
       pl: 'Wybierz frakcję',
-      nl: 'Selecteer een groepering',
+      nl: 'Selecteer een factie',
       pt: 'Selecione uma facção',
-      ht: 'Chwazi yon faksyon'
+      ht: 'Chwazi yon faksyon',
+      ro: 'Alegeți o facțiune'
     },
 
     enterName: {
@@ -210,7 +219,7 @@ export default {
       ru: 'Введите имя',
       fr: 'Entrez un nom',
       hi: 'नाम डाले',
-      es: 'Ponga nombre',
+      es: 'Ingresar un nombre',
       de: 'Geben Sie einen Namen ein', // TODO: shorten
       ko: '이름 입력',
       tr: 'Bir isim gir',
@@ -218,18 +227,19 @@ export default {
       cs: 'Zadejte název',
       el: 'Εισαγάγετε ένα όνομα', // TODO: shorten
       ja: '名前を入力してください',
-      ph: 'Magpasok ng isang pangalan', // TODO: shorten
+      tl: 'Magpasok ng isang pangalan', // TODO: shorten
       it: 'Inserisci un nome',
       pl: 'Wpisz imię',
       nl: 'Voer een naam in',
       pt: 'Digite um nome',
-      ht: 'Mete yon non'
+      ht: 'Mete yon non',
+      ro: 'Introduceți un nume'
     },
 
     nameReq: {
       en: 'Your name can only contain characters a-Z, and numbers 0-9, without any spaces. Up to 16 characters.',
       sv: 'Ditt namn kan bara använda sig karaktärerna a-Z, och nummer 0-9, utan mellanslag. Max 16 karaktärer.',
-      ru: 'Ваше имя может состоять только из латинского алфавита a-Z и цифр 0-9, без пробелов. До 16 символов.',
+      ru: 'Ваше имя может состоять только из букв латинского алфавита a-Z и цифр 0-9, без пробелов. Максимум 16 символов.',
       fr: 'Votre nom ne peut contenir que des caractères de a-Z, des chiffres de 0-9, sans aucune espace. Jusqu\'à 16 caractères.',
       hi: 'आपके नाम में केवल a-Z अक्षर और 0-9 अंक हो सकते है| अधिकतम 16 अक्षर।',
       es: 'Su nombre sólo puede contener los caracteres de la a-Z, y los números del 0 al 9, sin espacios. Hasta 16 caracteres.',
@@ -240,12 +250,13 @@ export default {
       cs: 'Vaše jméno může obsahovat pouze znaky a-Z a čísla 0-9, bez mezer. Až 16 znaků.',
       el: 'To όνομά σας μπορεί να περιέχει μόνο χαρακτήρες a-Z και αριθμούς 0-9, χωρίς κενά. Έως 16 χαρακτήρες.',
       ja: 'あなたの名前はスペースなしで文字a-Zと数字0-9を含むことができます。 16文字まで',
-      ph: 'Ang iyong pangalan ay maaari lamang maglaman ng mga character a-Z, at numero 0-9, nang walang anumang mga puwang. Hanggang sa 16 na mga character.',
+      tl: 'Ang iyong pangalan ay maaari lamang maglaman ng mga character a-Z, at numero 0-9, nang walang anumang mga puwang. Hanggang sa 16 na mga character.',
       it: '  Il tuo nome può contenere solo caratteri a-Z e numeri da 0 a 9, senza spazi. Fino a 16 caratteri.',
       pl: 'Twoje imię może zawierać tylko znaki a-Z i cyfry 0-9, bez spacji. Do 16 znaków.',
-      nl: 'Uw naam kan alleen tekens a-Z bevatten, en cijfers 0-9, zonder spaties. Tot 16 tekens.',
+      nl: 'Uw naam kan alleen de tekens a-Z bevatten, en cijfers 0-9, zonder spaties. Tot 16 tekens.',
       pt: 'Seu nome só pode conter caracteres a-Z, e números 0-9, sem espaços. Até 16 caracteres.',
-      ht: 'Non ou ka sèlman gen karaktè a-Z, ak nimewo 0-9, san okenn espas. Jiska 16 karaktè.'
+      ht: 'Non ou ka sèlman gen karaktè a-Z, ak nimewo 0-9, san okenn espas. Jiska 16 karaktè.',
+      ro: 'Numele tău poate conține doar caractere a-Z, și numere 0-9, fără spații. Până la 16 caractere.'
     }
   },
 
@@ -266,12 +277,13 @@ export default {
       cs: 'Smazat',
       el: 'Διαγράφω',
       ja: '削除する',
-      ph: 'Tanggalin',
+      tl: 'Tanggalin',
       it: 'Elimina',
       pl: 'Kasować',
-      nl: 'Verwijderen',
+      nl: 'Verwijder',
       pt: 'Eliminar',
-      ht: 'Efase'
+      ht: 'Efase',
+      ro: 'Șterge'
     },
 
     info: {
@@ -284,16 +296,17 @@ export default {
       fr: 'Pour supprimer, saisissez le nom du personnage. Votre personnage ne pourra pas être restauré.',
       ko: '삭제하려면 캐릭터의 이름을 입력하십시오. 당신의 캐릭터는 회복 될 수 없습니다.',
       tr: 'Silmek için karakterin adını yazın. Silinen karakter geri getirilemez.',
-      bg: 'За да изтриете, въведете името на символа. Вашият герой не може да бъде възстановен.',
+      bg: 'За да изтриете, въведете името на вашият герой. Вашият герой не може да бъде възстановен.',
       cs: 'Chcete-li odstranit, zadejte název znaku. Vaše postava nemůže být obnovena.',
       el: 'Για να διαγράψετε, πληκτρολογήστε το όνομα του χαρακτήρα. Ο χαρακτήρας σας δεν μπορεί να αποκατασταθεί.',
       ja: '削除するには、文字の名前を入力します。あなたの性格は回復できません。',
-      ph: 'Upang tanggalin, i-type ang pangalan ng character. Ang iyong karakter ay hindi maibabalik.',
+      tl: 'Upang tanggalin, i-type ang pangalan ng character. Ang iyong karakter ay hindi maibabalik.',
       it: 'Per cancellare, digita il nome del personaggio. Il tuo personaggio non può essere ripristinato.',
       pl: 'Aby usunąć, wpisz nazwę postaci. Twoja postać nie może zostać przywrócona.',
-      nl: 'Om te verwijderen, typt u de naam van het teken in. Je karakter kan niet worden hersteld.',
+      nl: 'Om te verwijderen typt u de naam van het karakter in. Uw karakter kan niet worden hersteld.',
       pt: 'Para apagar, digite o nome do personagem. Seu personagem não pode ser restaurado.',
-      ht: 'Efase, tape non karaktè a. Karaktè ou pa kapab retabli.'
+      ht: 'Efase, tape non karaktè a. Karaktè ou pa kapab retabli.',
+      ro: 'Pentru a șterge, tastați numele caracterului. Personajul tău nu va putea fi restaurat'
     },
 
     placeholder: {
@@ -310,12 +323,13 @@ export default {
       cs: 'Jsi si jistá?',
       el: 'Είσαι σίγουρος?',
       ja: '本気ですか？',
-      ph: 'Sigurado ka ba?',
+      tl: 'Sigurado ka ba?',
       it: 'Sei sicuro?',
       pl: 'Jesteś pewny?',
-      nl: 'Weet je het zeker?',
+      nl: 'Weet u het zeker?',
       pt: 'Tens a certeza?',
-      ht: 'Èske w sèten?'
+      ht: 'Èske w sèten?',
+      ro: 'Ești sigur?'
     }
   }
 }

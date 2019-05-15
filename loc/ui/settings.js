@@ -1,26 +1,29 @@
 export default {
 
-  settings: {
-    en: 'settings',
+  name: {
+    en: 'Settings',
     ru: 'Настройки',
     hi: 'सेटिंग्स',
-    es: 'configuración',
+    es: 'Configuración',
     de: 'Einstellungen',
-    fr: 'paramétrage',
-    nl: 'instellingen',
-    tr: 'ayarlar',
+    fr: 'Paramétrage',
+    nl: 'Instellingen',
+    tr: 'Ayarlar',
     pt: 'Ajustes',
-    pl: 'nastawy',
-    ht: 'ajisteman',
-    it: 'impostazioni',
+    pl: 'Nastawy',
+    ht: 'Ajisteman',
+    it: 'Impostazioni',
     ko: '설정',
-    cs: 'nastavení',
+    cs: 'Nastavení',
     ja: '設定',
-    sv: 'inställningar',
-    bg: 'настройки'
+    sv: 'Inställningar',
+    bg: 'настройки',
+    el: 'Ρυθμίσεις',
+    tl: 'Mga setting',
+    ro: 'Setări'
   },
 
-  // controls section of settings menu
+  // ---- Controls
   controls: {
     en: 'controls',
     ru: 'Управление',
@@ -38,7 +41,10 @@ export default {
     cs: 'řízení',
     ja: 'コントロール',
     sv: 'kontrollinstrument',
-    bg: 'контроли'
+    bg: 'контроли',
+    el: 'διακόπτης',
+    tl: 'mga kontrol',
+    ro: 'controale'
   },
 
   lockedcamera: {
@@ -58,27 +64,57 @@ export default {
     cs: 'Zamknutá kamera',
     ja: 'ロックカメラ',
     sv: 'Låst kamera',
-    bg: 'Заключена камера'
+    bg: 'Заключена камера',
+    el: 'Κλειδωμένη κάμερα',
+    tl: 'naka-lock na camera',
+    ro: 'Blochează camera'
   },
 
+  // ---- Graphics
   graphics: {
-    en: 'graphics',
+    en: 'Graphics',
     ru: 'Графика',
     hi: 'ग्राफ़िक्स',
-    es: 'gráficos',
-    de: 'Grafiken',
+    es: 'Gráficos',
+    de: 'Grafik',
     fr: 'schémas',
-    nl: 'grafischen',
-    tr: 'grafikler',
-    pt: 'gráficos',
-    pl: 'grafika',
-    ht: 'grafik',
-    it: 'grafica',
+    nl: 'Grafischen',
+    tr: 'Grafikler',
+    pt: 'Gráficos',
+    pl: 'Grafika',
+    ht: 'Grafik',
+    it: 'Grafica',
     ko: '제도법',
-    cs: 'grafika',
+    cs: 'Grafika',
     ja: 'グラフィックス',
-    sv: 'grafik',
-    bg: 'графики'
+    sv: 'Grafik',
+    bg: 'графика',
+    el: 'γραφικών',
+    tl: 'Grapika',
+    ro: 'Grafică'
+  },
+
+  viewrange: {
+    en: 'View range',
+    ru: 'Дальность прорисовки',
+    de: 'Sichtweite',
+    nl: 'Weergavebereik',
+    pt: 'Ver gama',
+    pl: 'Zakres widoków',
+    it: 'Visualizza la gamma',
+    ro: 'Câmp vizual',
+    es: 'Ver gama',
+    sv: 'Visa intervall',
+    el: 'Προβολή εύρους',
+    bg: 'Преглед на обхвата',
+    cs: 'Zobrazit rozsah',
+    hi: 'नज़र सीमा',
+    fr: 'Plage d\'affichage',
+    tr: 'Görüş mesafesi',
+    ht: 'Je ranje',
+    ko: '범위보기',
+    ja: '表示範囲',
+    tl: 'Tingnan ang saklaw'
   },
 
   resolution: {
@@ -98,7 +134,10 @@ export default {
     cs: 'Rozlišení',
     ja: '解決',
     sv: 'mötesbeslut',
-    bg: 'Резолюция'
+    bg: 'Резолюция',
+    el: 'Ανάλυση',
+    tl: 'Resolution',
+    ro: 'Rezoluție'
   },
 
   skilleffects: {
@@ -118,7 +157,10 @@ export default {
     cs: 'Dovednostní efekty',
     ja: 'スキル効果',
     sv: 'Färdighetseffekter',
-    bg: 'Ефекти на уменията'
+    bg: 'Ефекти',
+    el: 'Επιπτώσεις δεξιοτήτων',
+    tl: 'Mga epekto sa kasanayan',
+    ro: 'Efectele abilităților'
   },
 
   shadow: {
@@ -138,7 +180,10 @@ export default {
     cs: 'Kvalita stínu',
     ja: 'シャドウ品質',
     sv: 'Skuggkvalitet',
-    bg: 'Качество на сенките'
+    bg: 'Качество на сенките',
+    el: 'Ποιότητα σκιάς',
+    tl: 'Kalidad ng anino',
+    ro: 'Calitatea umbrelor'
   },
 
   grassamount: {
@@ -158,9 +203,61 @@ export default {
     cs: 'Množství trávy',
     ja: '草量',
     sv: 'Gräsbelopp',
-    bg: 'Kоличество трева'
+    bg: 'Kоличество трева',
+    el: 'Χόρτο ποσό',
+    tl: 'Damo halaga',
+    ro: 'Cantitatea de iarbă'
   },
 
+  // ---- Audio
+  audio: {
+    en: 'Audio',
+    ru: 'Звук',
+    de: 'Ton',
+    nl: 'Geluid',
+    pt: 'Áudio',
+    pl: 'Dźwięk',
+    it: 'Audio',
+    ro: 'Audio',
+    es: 'Audio',
+    sv: 'Audio',
+    el: 'Ήχος',
+    bg: 'звуков',
+    cs: 'Вук',
+    hi: 'आवाज़',
+    fr: 'Audio  ',
+    tr: 'Ses',
+    ht: 'Audio',
+    ko: '오디오',
+    ja: 'オーディオ',
+    tl: 'Audio'
+  },
+
+  // "SFX Loudness" is more suitable in some cases
+  sfxvolume: {
+    en: 'SFX Volume',
+    ru: 'Громкость эффектов',
+    de: 'SFX Lautstärke',
+    nl: 'SFX Harder',
+    pt: 'Volume de SFX',
+    pl: 'Objętość SFX',
+    it: 'Volume SFX',
+    ro: 'Volum SFX',
+    es: 'Volumen SFX',
+    sv: 'SFX Volym',
+    el: 'Ενταση SFX',
+    bg: 'гръмкостта SFX',
+    cs: 'Objem SFX',
+    hi: 'इफैक्ट्स की आवाज़',
+    fr: 'SFX Sonie',
+    tr: 'SFX Ses Gücü',
+    ht: 'Volim SFX',
+    ko: 'SFX 볼륨',
+    ja: 'SFXボリューム',
+    tl: 'Dami ng SFX'
+  },
+
+  // ---- Chat
   chat: {
     en: 'chat',
     ru: 'Чат',
@@ -178,7 +275,10 @@ export default {
     cs: 'chatu',
     ja: 'チャット',
     sv: 'chatt',
-    bg: 'чат'
+    bg: 'чат',
+    el: 'κουβέντα',
+    tl: 'chat',
+    ro: 'chat'
   },
 
   chatwidth: {
@@ -198,7 +298,10 @@ export default {
     cs: 'Šířka chatu',
     ja: 'チャット幅',
     sv: 'Chatt bredd',
-    bg: 'Ширина на чата'
+    bg: 'Ширина на чата',
+    el: 'πλάτος κουβέντα',
+    tl: 'lapad ng chat',
+    ro: 'Lățime chat'
   },
 
   chatheight: {
@@ -218,12 +321,103 @@ export default {
     cs: 'Výška chatu',
     ja: 'チャットの高さ',
     sv: 'Chathöjd',
-    bg: 'Височина на чата'
+    bg: 'Височина на чата',
+    el: 'ύψος κουβέντα',
+    tl: 'taas ng chat',
+    ro: 'Înălțime chat'
+  },
+
+  // ---- User interface
+  interface: {
+    en: 'Interface',
+    ru: 'Интерфейс',
+    de: 'Interface',
+    pt: 'interface',
+    pl: 'Interfejs',
+    nl: 'Interface',
+    it: 'interfaccia',
+    ro: 'Interfață',
+    es: 'Interactuar',
+    sv: 'Gränssnitt',
+    el: 'Διεπαφή',
+    bg: 'интерфейс',
+    cs: 'Rozhraní',
+    hi: 'अन्तराफलक',
+    fr: 'Interface',
+    tr: 'Arayüzey',
+    ht: 'Entèfas',
+    ko: '인터페이스',
+    ja: 'インタフェース',
+    tl: 'Interface'
+  },
+
+  language: {
+    en: 'Language',
+    ru: 'Язык',
+    de: 'Sprache',
+    nl: 'Taal',
+    pt: 'Idioma',
+    pl: 'Język',
+    it: 'Lingua',
+    ro: 'Limbă',
+    es: 'Idioma',
+    sv: 'Språk',
+    el: 'Γλώσσα',
+    bg: 'език',
+    cs: 'Jazyk',
+    hi: 'भाषा',
+    fr: 'Langue',
+    tr: 'Dil',
+    ht: 'Lang',
+    ko: '언어',
+    ja: '言語',
+    tl: 'Wika'
+  },
+
+  invwidth: {
+    en: 'Inventory width',
+    ru: 'Ширина инвентаря',
+    de: 'Inventar Breite',
+    nl: 'Inventarisbreedte',
+    pt: 'Largura do estoque',
+    pl: 'Szerokość inwentarza',
+    it: 'Larghezza dell\'inventario',
+    ro: 'Lățimea inventarului',
+    es: 'Ancho de inventario',
+    sv: 'Lager bredd',
+    el: 'Εύρος αποθέματος',
+    bg: 'Ширина инвентаря',
+    cs: 'Šířka inventáře',
+    hi: 'वस्तुसूची की चौड़ाई',
+    fr: 'Largeur d\'inventaire',
+    tl: 'Lapad ng Imbentaryo'
+  },
+
+  uiscale: {
+    en: 'Interface scale',
+    ru: 'Масштаб интерфейса',
+    hi: 'अन्तराफलक का पैमाना',
+    ro: 'Scala interfeţei',
+    pt: 'Escala de interface',
+    es: 'Escala de interfaz',
+    fr: 'Balance d\'interface',
+    de: 'Schnittstellenwaage',
+    ko: '인터페이스 스케일',
+    nl: 'Interface schaal',
+    pl: 'Skala interfejsów',
+    sv: 'Gränssnittskalan',
+    ht: 'Echèl Entèfas',
+    it: 'Scala d\'interfaccia',
+    tl: 'Scale ng interface',
+    el: 'Διαβάθμιση κλίμακας',
+    bg: 'Интерфейсен мащаб',
+    cs: 'Měřítko rozhraní',
+    ja: 'インターフェース規模'
   },
 
   tutorial: {
     en: 'tutorial',
-    ru: 'Учебник',
+    ru: 'Обучение',
     hi: 'शिक्षण',
     es: 'tutorial',
     de: 'Tutorial',
@@ -238,12 +432,15 @@ export default {
     cs: 'výuku',
     ja: 'チュートリアル',
     sv: 'handledning',
-    bg: 'настойнически'
+    bg: 'Учение',
+    el: 'φροντιστήριο',
+    tl: 'pagtuturo',
+    ro: 'tutorial'
   },
 
   reset: {
     en: 'Reset tutorial',
-    ru: 'Начать учебник заново',
+    ru: 'Начать обучение заново',
     hi: 'शिक्षण रीसेट',
     es: 'Reiniciar tutorial',
     de: 'Tutorial zurücksetzen',
@@ -258,6 +455,9 @@ export default {
     cs: 'Obnovit výuku',
     ja: 'チュートリアルをリセット',
     sv: 'Återställ handledningen',
-    bg: 'Нулиране на урока'
+    bg: 'Нулиране на урока',
+    el: 'επαναφορά φροντιστήριο',
+    tl: 'i-reset ang tutorial',
+    ro: 'Resetează tutorialul'
   }
 }

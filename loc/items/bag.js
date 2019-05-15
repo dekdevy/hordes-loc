@@ -3,7 +3,7 @@ export default [
     name       : {$$: 'Linen Pouch' },
     description: {
       en: 'Small little purse used by merchant\'s wives.',
-      ru: 'маленькая сумочка раньше использована женами купцов.',
+      ru: 'Маленькая сумочка, раньше использованая женами купцов.',
       de: 'Kleine kleine Geldbörse, die von den Ehefrauen der Händler benutzt wird.',
       es: 'Una bolsa linda utilizado por las esposas de comerciantes.',
       fr: 'De petites sacoches utilisées par les épouses des marchands.',
@@ -15,11 +15,11 @@ export default [
       el: 'Μικρό πορτοφόλι που χρησιμοποιείται από τις συζύγους των εμπόρων.',
       ja: '商人の妻によって使用される小さな小さな財布。',
       pl: 'Mała mała torebka używana przez kupców.',
-      ph: 'Maliit na maliit na pitaka na ginamit ng mga babaeng mangangalakal.',
+      tl: 'Maliit na maliit na pitaka na ginamit ng mga babaeng mangangalakal.',
       tr: 'Tüccarların eşleri tarafından kullanılan küçük minik çanta.',
       sv: 'Liten liten handväska som används av köpmännen.',
       ht: 'Valiz ti kras la itilize yo dwe itilize pa madanm yo nan komèsan yo.',
-      hi: 'छोटे छोटे व्यापारी की पत्नियों द्वारा प्रयोग किया जाता पर्स।',
+      hi: 'व्यपारीयो की पत्नीयों द्वारा इस्तमाल की जाने वाली पर्स।',
       ko: '상인의 아내가 사용하는 작은 지갑.',
       ro: 'O mică poșetă folosită de soțiile negustorilor.'
     }
@@ -41,11 +41,11 @@ export default [
       el: 'Η πόρπη αξίζει περισσότερο από το υπόλοιπο.',
       ja: 'バックルはそれ以外のものよりも価値があります。',
       pl: 'Klamra jest warta więcej niż reszta.',
-      ph: 'Ang buckle ay nagkakahalaga ng higit sa natitirang bahagi nito.',
+      tl: 'Ang buckle ay nagkakahalaga ng higit sa natitirang bahagi nito.',
       tr: 'Tokası geri kalanından daha değerli.',
       sv: 'Spännet är värt mer än resten av det.',
       ht: 'Bouk la vo pi plis pase nenpòt lòt bagay.',
-      hi: 'बकसुआ बाकी की तुलना में अधिक के लायक है।',
+      hi: 'इसका बकसुआ बाकी की पोटली से ज़्यादा कीमती है।',
       ko: '버클은 그 나머지 부분보다 더 가치가 있습니다.',
       ro: 'Catarama merită mai mult decât restul.'
     }
@@ -67,11 +67,11 @@ export default [
       el: 'Νίκαια μοβ σακίδιο για όλες τις ανάγκες σας.',
       ja: 'あなたのすべてのあなたの旅行の必要性のための素晴らしい紫色のリュックサック。',
       pl: 'Ładny fioletowy plecak dla wszystkich Twoich potrzeb podróży.',
-      ph: 'Nice purple rucksack para sa lahat ng iyong mga pangangailangan sa paglalakbay.',
+      tl: 'Nice purple rucksack para sa lahat ng iyong mga pangangailangan sa paglalakbay.',
       tr: 'Tüm seyahat ihtiyaçlarınız için güzel mor sırt çantası.',
       sv: 'Trevlig lila ryggsäck för alla dina resebehov.',
       ht: 'Valiz valiz bèl pou nenpòt ki vwayajè bezwen yo.',
-      hi: 'अपने सभी यात्रा की जरूरत के लिए अच्छा बैंगनी रूकसाक।',
+      hi: 'यात्रा में आपकी सारी जरूरतों के लिए एक अच्छा बैंगनी बस्ता।',
       ko: '모든 여행에 필요한 멋진 보라색 배낭.',
       ro: 'Un rucsac frumos violet pentru toate nevoile tale.'
     }
@@ -91,7 +91,7 @@ export default [
       tr: 'Elf okçular tarafından at sırtında kullanılan şık çanta.',
       pl: 'Elegancka torba używana przez elfów łuczników na koniu.',
       sv: 'Elegant bag used by river archers on horseback.',
-      ph: 'Elegant na bag na ginamit ng mga archival na elven sa likod ng kabayo.',
+      tl: 'Elegant na bag na ginamit ng mga archival na elven sa likod ng kabayo.',
       ht: 'Sak Elegant itilize pa kavalye elven sou cheval.',
       cs: 'Elegantní taška používá elfské lukostřelce na koni.',
       ja: '馬に乗ってエルフの射手が使用するエレガントなバッグ。',
@@ -117,7 +117,7 @@ export default [
       tr: 'Liken ipliklerinden dokunan bu çantanın yapımı gizemini koruyor.',
       pl: 'Tkany z nici porostów, konstrukcja tej torby pozostaje tajemnicą.',
       sv: 'Vävd av trådar av lavar, är byggandet av denna väska ett mysterium.',
-      ph: 'Habi mula sa mga thread ng lichen ang pagtatayo ng bag na ito ay nananatiling isang misteryo.',
+      tl: 'Habi mula sa mga thread ng lichen ang pagtatayo ng bag na ito ay nananatiling isang misteryo.',
       ht: 'Desen an sak sa a trikote soti nan fil likèn rete yon mistè.',
       cs: 'Tkané z nití lišejníků, konstrukce tohoto sáčku zůstává záhadou.',
       ja: '地衣類の糸から織られたこのバッグの構造は謎のままです。',
