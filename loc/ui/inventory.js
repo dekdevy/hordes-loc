@@ -261,6 +261,10 @@ export default {
     ja: '$1 コインを購入し、Stash に送った商品'
   },
 
+  waitunstash: {
+    en: 'You have to wait until you can retreive this item'
+  },
+
   search: {
     en: 'Search'
   },
