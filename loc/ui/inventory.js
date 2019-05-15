@@ -238,7 +238,8 @@ export default {
   },
 
   auctioncancel: {
-    en: 'Item delisted and sent to stash'
+    en: 'Item delisted and sent to stash',
+    nl: 'Item verwijderd en naar de inventaris verzonden'
   },
 
   auctionbuy: {
@@ -262,23 +263,28 @@ export default {
   },
 
   search: {
-    en: 'Search'
+    en: 'Search',
+    nl: 'Zoeken'
   },
 
   filtermine: {
-    en: 'My items only'
+    en: 'My items only',
+    nl: 'Alleen mijn items'
   },
 
   buy: {
-    en: 'Buy Item'
+    en: 'Buy Item',
+    nl: 'Product Kopen'
   },
 
   delist: {
-    en: 'Delist Item'
+    en: 'Delist Item',
+    nl: 'Verwijderd Item'
   },
 
   price: {
-    en: 'Price: ' // include the space and punctuation
+    en: 'Price: ', // include the space and punctuation
+    nl: 'Prijs: '
   },
 
   fee: {
@@ -286,6 +292,7 @@ export default {
   },
 
   dragitem: {
-    en: 'Drag item into slot'
+    en: 'Drag item into slot',
+    nl: 'Slepen het item in de sleuf'
   }
 }
