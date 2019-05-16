@@ -14,7 +14,8 @@ export default {
     el: 'Ψάξιμο',
     bg: 'Търсене',
     cs: 'Vyhledávání',
-    ht: 'Rechèch'
+    ht: 'Rechèch',
+    ko: '수색'
   },
 
   filtermine: {
@@ -31,7 +32,8 @@ export default {
     el: 'Τα στοιχεία μου μόνο',
     bg: 'Само моите елементи',
     cs: 'Pouze mé položky',
-    ht: 'Atik mwen sèlman'
+    ht: 'Atik mwen sèlman',
+    ko: '내 항목 만'
   },
 
   buy: {
@@ -48,7 +50,8 @@ export default {
     el: 'Αγοράστε στοιχείο',
     bg: 'Купете артикул',
     cs: 'Koupit předmět',
-    ht: 'Achte Atik'
+    ht: 'Achte Atik',
+    ko: '물건을 사다'
   },
 
   delist: {
@@ -65,7 +68,8 @@ export default {
     el: 'Διαγραφή στοιχείου',
     bg: 'Делист вещ',
     cs: 'Položka Delist',
-    ht: 'De-lis Atik'
+    ht: 'De-lis Atik',
+    ko: '항목 삭제'
   },
 
   price: {
@@ -82,7 +86,8 @@ export default {
     el: 'Τιμή: ',
     bg: 'Цена: ',
     cs: 'Cena: ',
-    ht: 'Pri: '
+    ht: 'Pri: ',
+    ko: '가격: '
   },
 
   fee: {
@@ -99,7 +104,8 @@ export default {
     el: 'Τέλη: ',
     bg: 'Такса: ',
     cs: 'Poplatek: '
-    ht: 'Frè: '
+    ht: 'Frè: ',
+    ko: '보수: '
   },
 
   dragitem: {
@@ -116,7 +122,8 @@ export default {
     el: 'Σύρετε το αντικείμενο σε υποδοχή',
     bg: 'Плъзнете предмет в слот',
     cs: 'Přetáhněte položku do slotu',
-    ht: 'Drag atik nan plas'
+    ht: 'Drag atik nan plas',
+    ko: '항목을 슬롯으로 드래그하십시오.'
   },
 
   auctionpost: {
@@ -157,7 +164,8 @@ export default {
     el: 'Το στοιχείο αποσυντεθεί και αποστέλλεται στο στήθος',
     bg: 'Предмет е изтрит и изпратен на скривалище',
     cs: 'Položka byla odstraněna a odeslána',
-    ht: 'Atik de-yo ki nan lis ak voye nan stash'
+    ht: 'Atik de-yo ki nan lis ak voye nan stash',
+    ko: '상장 폐지 된 물품'
   },
 
   auctionbuy: {
@@ -177,7 +185,8 @@ export default {
     el: 'Στοιχείο που αγοράσατε για $1 νομίσματα και απεστάλητε στο Stash σας',
     bg: 'Позиция, закупена за $1 монети и изпратена до вашия Stash',
     cs: 'Zboží zakoupené za $1 mincí a zaslané do vašeho Stash',
-    ja: '$1 コインを購入し、Stash に送った商品'
+    ja: '$1 枚のコインで購入し、あなたの隠し場所に送られるアイテム',
+    ko: '$1 동전으로 구입하여 은닉 한 물품'
   },
 
   sell: {
