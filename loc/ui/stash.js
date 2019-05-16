@@ -1,7 +1,7 @@
 export default {
 
   waitunstash: {
-    en: 'You have to wait until you can retreive this item.',
+    en: 'You have to wait until you can retrieve this item.',
     de: 'Du musst noch etwas warten, bis du dieses Item nehmen kannst.',
     ru: 'вы должны подождать перед тем как вы можете получить этот предмет',
     tl: 'Kailangan mong maghintay hanggang sa maari mong ma-retreive ang item na ito.',
@@ -10,7 +10,8 @@ export default {
     pl: 'Musisz poczekać, aż będziesz mógł odzyskać ten przedmiot.',
     fr: 'Vous devez attendre jusqu\'à ce que vous puissiez récupérer cet élément.',
     es: 'Tiene que esperar hasta que pueda recuperar este elemento.',
-    nl: 'Je moet wachten tot je dit item kan terugvinden.'
+    nl: 'Je moet wachten tot je dit item kan terugvinden.',
+    sv: 'Du måste vänta tills du kan hämta det här objektet.'
   },
 
   withdraw: {
@@ -23,7 +24,8 @@ export default {
     fr: 'Se retirer',
     pt: 'Retirar',
     it: 'Ritirare',
-    pl: 'Wycofanie'
+    pl: 'Wycofanie',
+    sv: 'Dra tillbaka'
   },
 
   stash: {
@@ -58,7 +60,8 @@ export default {
     es: '$1 ha sido movido a tu escondite',
     nl: '$1 is verplaatst naar je voorraad',
     hi: '$1 को स्टैश में भेज दिया गया है',
-    tl: 'Ang $1 ay inilipat sa iyong itago'
+    tl: 'Ang $1 ay inilipat sa iyong itago',
+    sv: '$1 har flyttats till din stash'
   }
 
 }
