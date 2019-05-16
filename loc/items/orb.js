@@ -21,8 +21,8 @@ export default [
       ko: '손에 작은 동물을 남기고 지구의 촉촉한 공.',
       ro: 'Bilă umedă de pământ, lasă mici creaturi în mână în urma ei.',
       tl: 'Bola ng lupa, umaalis sa likod ng maliliit na critters sa iyong kamay',
-      tr: 'Toprağın nemli topu, elinde küçük yaratıklar bırakır/'
-    }
+      tr: 'Toprağın nemli topu, elinde küçük yaratıklar bırakır'
+}
   },
 
   {
@@ -74,7 +74,7 @@ export default [
       ro: 'Raze de lumină sunt prinse în această sferă, eliberând curcubee fine în jurul tău.',
       tl: 'Ang mga sinag ng liwanag ay nahuli sa globo na ito, na naghahain ng magagandang mga rainbows sa paligid mo.',
       tr: 'Işık ışınları bu küreyi yakalanır, etrafınızda ince bir gökkuşağı belirir.'
-    }
+}
   },
 
   {
@@ -100,7 +100,7 @@ export default [
       ro: 'Un ciclop antic care teroriza aceste ținuturi a fost în sfârșit ucis, permițându-ți să sapi după acest suvenir sumbru.',
       tl: 'Ang mga sinaunang cyclops ng mga terorismo sa mga lupain ay sa wakas ay pinatay, na nagpapahintulot sa iyo na mag-scavenge ng mabangong souvenir na ito.',
       tr: 'Bu toprakları terörize eden eski bir tek gözlü canavar sonunda öldürüldü. bu korkunç küreye sahip olmanıza izin veren şey budur.'
-    }
+}
   },
 
   {
@@ -126,7 +126,7 @@ export default [
       ro: 'Strălucitoare și fermecătoare, această sferă misterioasă face aerul din jurul ei rece ca gheața.',
       tl: 'Malakas at kaakit-akit, ang misteryosong globo na ito ay gumagawa ng hangin sa paligid ng yelo na malamig.',
       tr: 'Parlak ve büyüleyici olan bu gizemli küre, etrafındaki havayı buz gibi soğuk yapar.'
-    }
+}
   },
 
   {
@@ -152,7 +152,7 @@ export default [
       ja: '不思議なエメラルドグリーンの球体、その妖艶な持ち主に名声と富を惹きつける蛇紋岩の予言の細かい彫刻に包まれて',
       ro: 'Enigmatică sferă verde de smarald, învăluită în gravuri fine de profeții perfizi, atrage faimă și serendipitate purtătorului ei vrăjit.',
       tr: 'Esrarengiz zümrüt yeşil küre. Serpantin kehanetlerinin ince gravürlerine sarılmış. şöhret ve serendipity taşıyıcısına getirmek.'
-    }
+}
   },
 
   {
@@ -178,7 +178,7 @@ export default [
       ro: 'Sferă transparentă cu tentă galbenă, dezvăluie pliuri infernale prinse de aura paranormală, înghițind mințile celor slabi cu planuri de otravă și crimă.',
       tl: 'Dilaw na globo, na inilalantad ang nakulong na mga infernal na pitch ng paranormal aura, na nilulukob ang isip ng mahihina sa mga plano ng lason at pagpatay.',
       tr: 'Şeffaf sarı küre. büyülü ruhlar ortaya çıkar, zayıf zihinleri ele geçirir, zehir ve cinayet düşüncelerini getirir.'
-    }
+}
   },
 
   {
@@ -204,7 +204,7 @@ export default [
       ro: 'Artefact albastru deschis, radiază valuri pulsante de lumină, alungând umbrele întunecate ale sufletelor demonice din calea ta spre glorie.',
       tl: 'Mapusyaw na asul na napiling artepakto, nagpapaikut-ikot ng mga pulsing alon ng liwanag, na naglalaho sa madilim na mga anino ng mga demonikong kaluluwa mula sa iyong landas patungo sa kaluwalhatian.',
       tr: 'Antik soluk mavi küre, yanıp sönen ışıklar şeytanları zafere giden yolunuzdan uzak tutar.'
-    }
+}
   },
 
   {
@@ -230,7 +230,7 @@ export default [
       ro: 'Carnea și sângele au infuzat această sferă cu sufletele celor uciși, creând o esență roșie întunecată încorporată în sine, oferindu-ți pofta fără precedent pentru sânge și luptă.',
       tl: 'Inihaw ng laman at dugo ang globo na ito sa mga kaluluwa ng pinatay, na lumilikha ng isang madilim na pulang kakanyahan na naka-embed sa sarili nito, na nagbibigay sa iyo ng walang kapararakan na kasamaan para sa dugo at labanan.',
       tr: 'et ve kan bu küreyi yarattı, ölülerin ruhlarıyla. Koyu kırmızı bir öz oluşturur, bu küre size kan ve savaş için bir iç arzu getiriyor.'
-    }
+}
   },
 
   {
@@ -256,7 +256,7 @@ export default [
       ro: 'Întunecată, mortală și demonică, o sferă încastrată în cratere mici, umplute cu pietre roșii-sângerii, țese foi de teroare în cei care ți se opun.',
       tl: 'Dark, deadly and demonic, an orb encased in small craters filled with blood-red gems, weaving sheets of terror into those who oppose you.',
       tr: 'Karanlık, ölümcül ve şeytani, kan kırmızısı taşlar ile dolu küçük kraterler kaplı bir küre, sana karşı olanlar içine terör çarşaf dokuma.'
-    }
+}
   }
 
 ]
