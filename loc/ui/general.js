@@ -79,7 +79,12 @@ export default {
     it: 'Annulla',
     pl: 'Odwołaj',
     de: 'Abbrechen',
-    ro: 'Anulează'
+    ro: 'Anulează',
+    el: 'Ματαίωση',
+    tl: 'Kanselahin',
+    bg: 'Отказ',
+    cs: 'Zrušení',
+    ht: 'Anile'
   },
 
   decline: {
