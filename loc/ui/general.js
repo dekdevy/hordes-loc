@@ -36,7 +36,7 @@ export default {
     pt: 'Voltar',
     pl: 'Wstecz',
     ht: 'Retounen',  // TODO: shorten
-    ko: '뒤로가기',   // TODO: shorten ?
+    ko: '뒤로',
     it: 'Dietro',
     cs: 'Zadní',
     ja: 'バック',
