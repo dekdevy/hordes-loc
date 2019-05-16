@@ -86,7 +86,9 @@ export default {
     cs: 'Zrušení',
     ht: 'Anile',
     ko: '취소',
-    ja: 'キャンセル'
+    ja: 'キャンセル',
+    hi: 'रद्द करना',
+    sv: 'Annullera'
   },
 
   decline: {
