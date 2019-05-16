@@ -12,7 +12,8 @@ export default {
     es: 'Buscar',
     pl: 'Wyszukiwanie',
     el: 'Ψάξιμο',
-    bg: 'Търсене'
+    bg: 'Търсене',
+    cs: 'Vyhledávání'
   },
 
   filtermine: {
@@ -27,7 +28,8 @@ export default {
     fr: 'Mes articles seulement',
     es: 'Sólo mis artículos',
     el: 'Τα στοιχεία μου μόνο',
-    bg: 'Само моите елементи'
+    bg: 'Само моите елементи',
+    cs: 'Pouze mé položky'
   },
 
   buy: {
@@ -42,7 +44,8 @@ export default {
     fr: 'Acheter l\'article',
     pl: 'Pozycja zakupu',
     el: 'Αγοράστε στοιχείο',
-    bg: 'Купете артикул'
+    bg: 'Купете артикул',
+    cs: 'Koupit předmět'
   },
 
   delist: {
@@ -57,7 +60,8 @@ export default {
     fr: 'Retirer l\'élément',
     es: 'Eliminar elemento',
     el: 'Διαγραφή στοιχείου',
-    bg: 'Делист вещ'
+    bg: 'Делист вещ',
+    cs: 'Položka Delist'
   },
 
   price: {
@@ -72,7 +76,8 @@ export default {
     pl: 'Cena: ',
     fr: 'Prix : ',
     el: 'Τιμή: ',
-    bg: 'Цена: '
+    bg: 'Цена: ',
+    cs: 'Cena: '
   },
 
   fee: {
@@ -86,8 +91,9 @@ export default {
     fr: 'Honoraires: ',
     es: 'Tarifa: ',
     pl: 'Opłata: ',
-    el: 'Τέλη',
-    bg: 'Такса: '
+    el: 'Τέλη: ',
+    bg: 'Такса: ',
+    cs: 'Poplatek: '
   },
 
   dragitem: {
@@ -102,7 +108,8 @@ export default {
     es: 'Arrastre el elemento a la ranura',
     fr: 'Glisser l\'élément dans la fente',
     el: 'Σύρετε το αντικείμενο σε υποδοχή',
-    bg: 'Плъзнете предмет в слот'
+    bg: 'Плъзнете предмет в слот',
+    cs: 'Přetáhněte položku do slotu'
   },
 
   auctionpost: {
@@ -140,7 +147,9 @@ export default {
     pl: 'Przedmiot usunięty z wykazu i wysłany do przechowania.',
     es: 'Artículo retirado de la lista y enviado a esconder',
     tl: 'Inalis ang item at ipinadala sa itago',
-    el: 'Το στοιχείο αποσυντεθεί και αποστέλλεται στο στήθος'
+    el: 'Το στοιχείο αποσυντεθεί και αποστέλλεται στο στήθος',
+    bg: 'Предмет е изтрит и изпратен на скривалище',
+    cs: 'Položka byla odstraněna a odeslána'
   },
 
   auctionbuy: {
