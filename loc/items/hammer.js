@@ -149,7 +149,7 @@ export default [
       sv: 'Konstigt stavliknande basher. Verkar rå och avger en svag lukt av druidoljor ...',
       ko: '이상한 막대기 같은 지하실. 원유처럼 보이고 드루이드 오일의 희미한 냄새를 풍깁니다 ...',
       ro: 'Ciudată bâtă. Pare brută și emite un miros slab de uleiuri druide...',
-      tl: 'Kakaibang baras martilyo. Mukhang krudo at nagpapalabas ng isang malabong amoy ng mga langis na druga ...', 
+      tl: 'Kakaibang baras martilyo. Mukhang krudo at nagpapalabas ng isang malabong amoy ng mga langis na druga ...',
       tr: 'Garip çubuk benzeri silah. Cadı yağları gibi kokuyor.'
     }
   },
