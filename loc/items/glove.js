@@ -21,8 +21,8 @@ export default [
       sv: 'Skinnband av läder som täcker dina svaga händer. Att dra på bågstången är mycket lättare för dig nu.',
       ko: '너의 미약 한 손을 감싸는 가죽 끈. 지금은 귀걸이를 당기는 것이 훨씬 쉽습니다.',
       ro: 'Curele de piele ce-ți acoperă mâinile slabe. Este mult mai ușor pentru tine acum să tragi de arc.',
-      tl: 'Mga strap ng katad na sumasaklaw sa iyong mga mahihinang kamay. Mas madali para sa iyo ang paghila ng bowstring ngayon.',
-       }
+      tl: 'Mga strap ng katad na sumasaklaw sa iyong mga mahihinang kamay. Mas madali para sa iyo ang paghila ng bowstring ngayon.'
+    }
   },
 
   {
@@ -74,7 +74,7 @@ export default [
       ko: '손가락이이 딱딱한 가죽 끈으로 간신히 움직일 수 있습니다.',
       ro: 'Degetele tale abia se pot mișca în aceste mănuși de piele rigide.',
       tl: 'Ang iyong mga daliri ay maaaring bahagyang lumipat sa mga matigas na mitts.'
-      }
+    }
   },
 
   {
@@ -100,7 +100,7 @@ export default [
       ko: '딸깍 소리가 나면 딸랑 딸랑 소리가납니다.',
       ro: 'Sunete zăngănitoare călătoresc cu tine în timp ce porți aceste mănuși.',
       tl: 'Ang pag-click sa mga tunog ay naglalakbay sa iyo habang nagsuot ka ng mga ito.'
- }
+    }
   },
 
   {
@@ -126,7 +126,7 @@ export default [
       ko: '소프트 아이언 장갑은 손안에 차가워졌지만 약간의 보호 기능을 제공합니다.',
       ro: 'Mănușile din fier moale oferă puțin mai multă protecție, deși mâinile tale sunt reci acum.',
       tl: 'Ang mga guwantes na soft-iron ay nagbibigay ng kaunting proteksyon, bagaman ang iyong mga kamay ay malamig na ngayon.'
-       }
+    }
   },
 
   {
@@ -152,7 +152,7 @@ export default [
       ko: '미지의 물질로 만들어지는 조형물 ... 빛난다.',
       ro: 'Mănuși făcute din material necunoscut... strălucește...',
       tl: 'Mitts na ginawa ng hindi kilalang materyal ... kumikislap ito ...'
-   }
+    }
   },
 
   {
@@ -178,7 +178,7 @@ export default [
       ko: '일부 전쟁 장군은 아마도 이것들을 떨어 뜨려야 만했을 것입니다 ... 아마도 우연히도.',
       ro: 'Un general de război trebuie să fi scăpat astea...probabil neintenționat.',
       tl: 'Ang ilan sa pangkalahatang digma ay dapat na bumaba sa mga ito ... malamang na hindi sinasadya din.'
-       }
+    }
   },
 
   {
@@ -204,7 +204,7 @@ export default [
       ko: '이 에메랄드 장갑을 착용하면 불이 당신 손에 닿지 않습니다.',
       ro: 'Focul nu se compară cu mâinile tale în timp ce porți aceste mănuși de smarald.',
       tl: 'Ang sunog ay hindi tugma para sa iyong mga kamay habang nagsusuot ka ng mga emerald mitts.'
-     }
+    }
   },
 
   {
@@ -282,7 +282,7 @@ export default [
       ko: '끝날 무렵 전사들이 찾던 장갑 ... 마침내 ... 찾았습니다.',
       ro: 'Mănuși căutate de războinici pentru ere în șir...în cele din urmă ... au fost găsite.',
       tl: 'Mga guwantes na hinahangad ng mga mandirigma para sa mga panahon sa katapusan ... sa wakas ... ito ay natagpuan.'
-   }
+    }
   },
 
   {
