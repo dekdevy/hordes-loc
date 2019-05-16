@@ -54,7 +54,7 @@ export default [
       ro: 'Ochi lipicios de ce miroase a mlaștină.',
       pt: 'Olho pegajoso a cheirar a pântano.',
       it: 'Bulbo oculare appiccicoso che puzza di palude.',
-      pl:  'Lepka gałka oczna pachnąca bagnem.',
+      pl: 'Lepka gałka oczna pachnąca bagnem.',
       fr: 'Oeil de collant qui sent le marécage.',
       sv: 'Klibbig ögonglob som luktar av träsk.',
       hi: 'चिपचिपी आंख जिसमें से दल-दल सी गन्ध आती हैं।',
