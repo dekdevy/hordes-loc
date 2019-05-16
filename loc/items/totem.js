@@ -53,7 +53,7 @@ export default [
       es: 'Una peculiar talla en piedra, lisa por los golpes del tiempo.',
       nl: 'Een eigenaardig stenen snijwerk, glad van het bonzen van de tijd.',
       hi: 'पत्थर पर की गई अजीब नक्काशी, जो समय के साथ चिकनी हो गई है।',
-      ru: 'Странная вырезка из камня, гладкая от ударов времени.',
+      ru: 'Странный, обточенный камень, гладкий из-за истечения времени.',
       bg: 'Особена каменна дърворезба, гладка от ударите на времето.',
       cs: 'Zvláštní kamenné řezbářství, hladké z bušení času.',
       tl: 'Ang isang kakaibang bato larawang inukit, makinis mula sa mga poundings ng oras.',

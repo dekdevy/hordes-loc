@@ -71,7 +71,14 @@ export default {
 
   cancel: {
     en: 'Cancel',
-    nl: 'Annuleren'
+    ru: 'Отменить',
+    nl: 'Annuleren',
+    fr: 'Annuler',
+    es: 'Cancelar',
+    pt: 'Cancelar',
+    it: 'Annulla',
+    pl: 'Odwołaj',
+    de: 'Abbrechen'
   },
 
   decline: {

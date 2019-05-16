@@ -55,6 +55,7 @@ const factions = [
   bloodlust]
 
 // Npcs
+import blacksmith from './npcs/blacksmith.js'
 import conjurer from './npcs/conjurer.js'
 import merchant from './npcs/merchant.js'
 import stash from './npcs/stash.js'
@@ -63,10 +64,13 @@ const npcs = {
   conjurer,
   trader,
   merchant,
-  stash
+  stash,
+  blacksmith
 }
 
 // User interface
+import * as merchantui from './ui/merchant.js'
+import * as stashui from './ui/stash.js'
 import charmenu from './ui/charmenu.js'
 import chat from './ui/chat.js'
 import clan from './ui/clan.js'
@@ -80,8 +84,10 @@ const ui = {
   chat,
   clan,
   inventory,
+  merchant: merchantui.default,
   settings,
   party,
+  stash   : stashui.default,
   stats,
   ...general }
 
