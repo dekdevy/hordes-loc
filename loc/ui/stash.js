@@ -9,7 +9,8 @@ export default {
     it: 'Devi aspettare di poter recuperare questo articolo.',
     pl: 'Musisz poczekać, aż będziesz mógł odzyskać ten przedmiot.',
     fr: 'Vous devez attendre jusqu\'à ce que vous puissiez récupérer cet élément.',
-    es: 'Tiene que esperar hasta que pueda recuperar este elemento.'
+    es: 'Tiene que esperar hasta que pueda recuperar este elemento.',
+    nl: 'Je moet wachten tot je dit item kan terugvinden.'
   },
 
   withdraw: {
