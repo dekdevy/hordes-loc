@@ -99,7 +99,6 @@ export default [
       tl: 'Isang sinaunang sandata na ninakaw mula sa mga mandarambong na mga orcs na naninirahan sa mga nakatagong lairs.',
       ro: 'O armă antică furată de la orcii jefuitori ce locuiesc în bârloguri ascunse.',
       tr: ' Gizli yerlerde gizlenmiş vahşi düşmanlardan alınan eski bir silah.'
-   
     }
   },
 
