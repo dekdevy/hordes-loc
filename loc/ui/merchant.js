@@ -15,7 +15,8 @@ export default {
     bg: 'Търсене',
     cs: 'Vyhledávání',
     ht: 'Rechèch',
-    ko: '수색'
+    ko: '수색',
+    ja: 'サーチ'
   },
 
   filtermine: {
@@ -33,7 +34,8 @@ export default {
     bg: 'Само моите елементи',
     cs: 'Pouze mé položky',
     ht: 'Atik mwen sèlman',
-    ko: '내 항목 만'
+    ko: '내 항목 만',
+    ja: '私の商品のみ'
   },
 
   buy: {
@@ -51,7 +53,8 @@ export default {
     bg: 'Купете артикул',
     cs: 'Koupit předmět',
     ht: 'Achte Atik',
-    ko: '물건을 사다'
+    ko: '물건을 사다',
+    ja: '商品を購入'
   },
 
   delist: {
@@ -69,7 +72,8 @@ export default {
     bg: 'Делист вещ',
     cs: 'Položka Delist',
     ht: 'De-lis Atik',
-    ko: '항목 삭제'
+    ko: '항목 삭제',
+    ja: 'アイテムを無効にする'
   },
 
   price: {
@@ -87,7 +91,9 @@ export default {
     bg: 'Цена: ',
     cs: 'Cena: ',
     ht: 'Pri: ',
-    ko: '가격: '
+    ko: '가격: ',
+    ja: '価格: ',
+    ro: 'Preț: '
   },
 
   fee: {
@@ -105,7 +111,9 @@ export default {
     bg: 'Такса: ',
     cs: 'Poplatek: ',
     ht: 'Frè: ',
-    ko: '보수: '
+    ko: '보수: ',
+    ja: '費用: ',
+    ro: 'Taxă: '
   },
 
   dragitem: {
@@ -123,7 +131,8 @@ export default {
     bg: 'Плъзнете предмет в слот',
     cs: 'Přetáhněte položku do slotu',
     ht: 'Drag atik nan plas',
-    ko: '항목을 슬롯으로 드래그하십시오.'
+    ko: '항목을 슬롯으로 드래그하십시오.',
+    ja: 'アイテムをスロットにドラッグ'
   },
 
   auctionpost: {
@@ -164,7 +173,8 @@ export default {
     bg: 'Предмет е изтрит и изпратен на скривалище',
     cs: 'Položka byla odstraněna a odeslána',
     ht: 'Atik de-yo ki nan lis ak voye nan stash',
-    ko: '상장 폐지 된 물품'
+    ko: '상장 폐지 된 물품',
+    ja: '上場廃止されたアイテム'
   },
 
   auctionbuy: {
