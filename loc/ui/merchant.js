@@ -95,6 +95,7 @@ export default {
 
   auctioncancel: {
     en: 'Item delisted and sent to stash',
+    ru: 'Предмет снят с продажи и положен в ваш сундук',
     nl: 'Item verwijderd en naar de stash verzonden',
     de: 'Verkauf abgebrochen und Item in den Speicher geschickt',
     pt: 'Item retirado da lista e enviado para o esconderijo',
