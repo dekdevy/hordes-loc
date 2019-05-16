@@ -146,8 +146,7 @@ export default {
     bg: 'Публикували сте $1 за продажба',
     cs: 'Zveřejnili jste $1 na prodej',
     ja: 'あなたは販売のために $1 を投稿しました',
-    ro: 'Ați postat $1 de vânzare',
-    el: 'Έχετε δημοσιεύσει $1 προς πώληση'
+    ro: 'Ați postat $1 de vânzare'
   },
 
   auctioncancel: {
