@@ -21,7 +21,8 @@ export default [
       sv: 'Skinnband av läder som täcker dina svaga händer. Att dra på bågstången är mycket lättare för dig nu.',
       ko: '너의 미약 한 손을 감싸는 가죽 끈. 지금은 귀걸이를 당기는 것이 훨씬 쉽습니다.',
       ro: 'Curele de piele ce-ți acoperă mâinile slabe. Este mult mai ușor pentru tine acum să tragi de arc.',
-      tl: 'Mga strap ng katad na sumasaklaw sa iyong mga mahihinang kamay. Mas madali para sa iyo ang paghila ng bowstring ngayon.'
+      tl: 'Mga strap ng katad na sumasaklaw sa iyong mga mahihinang kamay. Mas madali para sa iyo ang paghila ng bowstring ngayon.',
+      tr: 'Zayıf ellerinizi kaplayan deri kayışlar. Senin yay dize çekerek şimdi çok daha kolay.'
     }
   },
 
@@ -47,7 +48,8 @@ export default [
       sv: 'Spunnet garn från stulet får gör dessa varma handskar ett nöje att bära.',
       ko: '도난당한 양의 방적사가이 따뜻한 장갑을 착용하는 즐거움으로 만듭니다.',
       ro: 'Firele toarse de la o oaie furată face aceste mănuși o adevărată plăcere să le porți.',
-      tl: 'Ang sinulid na sinulid mula sa ninakaw na tupa ay gumagawa ng mga mainit na guwantes na kasiyahan sa pagsusuot.'
+      tl: 'Ang sinulid na sinulid mula sa ninakaw na tupa ay gumagawa ng mga mainit na guwantes na kasiyahan sa pagsusuot.',
+      tr: 'Çalınan koyunlardan bükülmüş iplik, bu sıcak eldivenleri giymek için bir zevk haline getirir.'
     }
   },
 
@@ -73,7 +75,8 @@ export default [
       sv: 'Dina fingrar kan knappt röra sig i dessa styva lädervästar.',
       ko: '손가락이이 딱딱한 가죽 끈으로 간신히 움직일 수 있습니다.',
       ro: 'Degetele tale abia se pot mișca în aceste mănuși de piele rigide.',
-      tl: 'Ang iyong mga daliri ay maaaring bahagyang lumipat sa mga matigas na mitts.'
+      tl: 'Ang iyong mga daliri ay maaaring bahagyang lumipat sa mga matigas na mitts.',
+      tr: 'Parmaklarınız bu sert deri eldivenlerde zorlukla hareket edebilir.'
     }
   },
 
@@ -99,7 +102,8 @@ export default [
       sv: 'Att klicka på ljud rör dig med dig när du bär dem.',
       ko: '딸깍 소리가 나면 딸랑 딸랑 소리가납니다.',
       ro: 'Sunete zăngănitoare călătoresc cu tine în timp ce porți aceste mănuși.',
-      tl: 'Ang pag-click sa mga tunog ay naglalakbay sa iyo habang nagsuot ka ng mga ito.'
+      tl: 'Ang pag-click sa mga tunog ay naglalakbay sa iyo habang nagsuot ka ng mga ito.',
+     tr: 'Onlarla seyahat ederken bir tıklama sesi var.'
     }
   },
 
@@ -125,7 +129,8 @@ export default [
       sv: 'Järnhandskar ger lite mer skydd, även om dina händer är kalla nu.',
       ko: '소프트 아이언 장갑은 손안에 차가워졌지만 약간의 보호 기능을 제공합니다.',
       ro: 'Mănușile din fier moale oferă puțin mai multă protecție, deși mâinile tale sunt reci acum.',
-      tl: 'Ang mga guwantes na soft-iron ay nagbibigay ng kaunting proteksyon, bagaman ang iyong mga kamay ay malamig na ngayon.'
+      tl: 'Ang mga guwantes na soft-iron ay nagbibigay ng kaunting proteksyon, bagaman ang iyong mga kamay ay malamig na ngayon.',
+      tr: 'Yumuşak demir eldiven size daha fazla koruma sağlar, ancak ellerinizi şimdi soğuk.'
     }
   },
 
@@ -151,7 +156,8 @@ export default [
       sv: 'Mitts gjorda av okänt material ... det lyser ...',
       ko: '미지의 물질로 만들어지는 조형물 ... 빛난다.',
       ro: 'Mănuși făcute din material necunoscut... strălucește...',
-      tl: 'Mitts na ginawa ng hindi kilalang materyal ... kumikislap ito ...'
+      tl: 'Mitts na ginawa ng hindi kilalang materyal ... kumikislap ito ...',
+      tr: 'Bilinmeyen bir malzemeden yapılmış eldivenleri...parlıyorlar...'
     }
   },
 
@@ -177,7 +183,8 @@ export default [
       sv: 'Vissa krigsmän måste ha tappat dessa ... förmodligen oavsiktligt.',
       ko: '일부 전쟁 장군은 아마도 이것들을 떨어 뜨려야 만했을 것입니다 ... 아마도 우연히도.',
       ro: 'Un general de război trebuie să fi scăpat astea...probabil neintenționat.',
-      tl: 'Ang ilan sa pangkalahatang digma ay dapat na bumaba sa mga ito ... malamang na hindi sinasadya din.'
+      tl: 'Ang ilan sa pangkalahatang digma ay dapat na bumaba sa mga ito ... malamang na hindi sinasadya din.',
+      tr: 'Bazı savaş generali bunları düşürmüş olmalı. Muhtemelen kasıtsız.'
     }
   },
 
@@ -203,7 +210,8 @@ export default [
       sv: 'Brand är ingen match för dina händer när du bär dessa smaragd vantar.',
       ko: '이 에메랄드 장갑을 착용하면 불이 당신 손에 닿지 않습니다.',
       ro: 'Focul nu se compară cu mâinile tale în timp ce porți aceste mănuși de smarald.',
-      tl: 'Ang sunog ay hindi tugma para sa iyong mga kamay habang nagsusuot ka ng mga emerald mitts.'
+      tl: 'Ang sunog ay hindi tugma para sa iyong mga kamay habang nagsusuot ka ng mga emerald mitts.',
+      tr: 'Yangın bu Zümrüt eldiven ile eller için hiçbir maç olduğunu'
     }
   },
 
@@ -229,7 +237,8 @@ export default [
       sv: 'Ge en falsk maktkänsla.',
       ko: '거짓된 힘을주십시오.',
       ro: 'Dau un fals sentiment de putere.',
-      tl: 'Magbigay ng maling kahulugan ng kapangyarihan.'
+      tl: 'Magbigay ng maling kahulugan ng kapangyarihan.',
+      tr: 'Yanlış bir güç hissi verir.'
     }
   },
 
@@ -255,7 +264,8 @@ export default [
       sv: 'Smidd utan värme, sliten utan rädsla.',
       ko: '열없이 단조, 두려움없이 착용.',
       ro: 'Forjate fără căldură, purtate fără frică.',
-      el: 'Σφυρήλατο χωρίς ζέστη, φοριέται χωρίς φόβο.'
+      el: 'Σφυρήλατο χωρίς ζέστη, φοριέται χωρίς φόβο.',
+      tr: 'Isı olmadan yapılmış ve korkmadan yıpranmış.'
     }
   },
 
@@ -281,7 +291,8 @@ export default [
       sv: 'Handskar eftersträvade av krigare för eroder i slutet ... äntligen ... det finns.',
       ko: '끝날 무렵 전사들이 찾던 장갑 ... 마침내 ... 찾았습니다.',
       ro: 'Mănuși căutate de războinici pentru ere în șir...în cele din urmă ... au fost găsite.',
-      tl: 'Mga guwantes na hinahangad ng mga mandirigma para sa mga panahon sa katapusan ... sa wakas ... ito ay natagpuan.'
+      tl: 'Mga guwantes na hinahangad ng mga mandirigma para sa mga panahon sa katapusan ... sa wakas ... ito ay natagpuan.',
+      tr: 'Savaşçılar yıllardır bu eldivenleri aradılar...sonunda... bulundu.'
     }
   },
 
@@ -307,7 +318,8 @@ export default [
       sv: 'Rykten säger att en röra från dessa handskar gör dina fiender till guld ... din hand är konstigt tung ...',
       ko: '소문에 의하면이 장갑에서 손을 대면 원수가 금으로 변합니다 ... 손이 이상하게 무거워 ...',
       ro: 'Zvonurile spun că o atingere a acestor mănuși transformă dușmanii tăi în aur...mâna ta este totuși straniu de grea...',
-      tl: 'Sinasabi ng mga alingawngaw na ang isang pindutin mula sa mga guwantes ay lumiliko ang iyong mga kaaway sa ginto ... ang iyong kamay ay strangely mabigat ...'
+      tl: 'Sinasabi ng mga alingawngaw na ang isang pindutin mula sa mga guwantes ay lumiliko ang iyong mga kaaway sa ginto ... ang iyong kamay ay strangely mabigat ...',
+      tr: 'Söylentiye göre, bu eldiven düşmanınıza dokunursa, altın haline dönüşecekler... elin garip bir şekilde ağır...'
     }
   },
 
@@ -333,7 +345,8 @@ export default [
       sv: 'Handskar så kraftfulla i sin natur att luften simmar som du vinkar i handen.',
       ko: '너의 손을 흔드는 것처럼 매우 공기가 반짝이는 그들의 본질적인 장갑.',
       ro: 'Mănuși atât de puternice în natura lor încât chiar și aerul strălucește în timp ce-ți miști mâna.',
-      tl: 'Ang mga guwantes ay napakalakas sa kanilang kalikasan na ang napaka-hangin na shimmers habang binabaluktot mo ang iyong kamay.'
+      tl: 'Ang mga guwantes ay napakalakas sa kanilang kalikasan na ang napaka-hangin na shimmers habang binabaluktot mo ang iyong kamay.',
+      tr: 'Eldivenler o kadar güçlüdür ki eliniz dalgalarken hava bile parlar.'
     }
   }
 
