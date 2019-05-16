@@ -84,7 +84,9 @@ export default {
     tl: 'Kanselahin',
     bg: 'Отказ',
     cs: 'Zrušení',
-    ht: 'Anile'
+    ht: 'Anile',
+    ko: '취소',
+    ja: 'キャンセル'
   },
 
   decline: {
