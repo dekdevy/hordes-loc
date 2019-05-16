@@ -10,7 +10,8 @@ export default {
     it: 'Ricerca',
     fr: 'Rechercher',
     es: 'Buscar',
-    pl: 'Wyszukiwanie'
+    pl: 'Wyszukiwanie',
+    el: 'Ψάξιμο'
   },
 
   filtermine: {
@@ -23,7 +24,8 @@ export default {
     it: 'Solo i miei articoli',
     pl: 'Tylko moje rzeczy',
     fr: 'Mes articles seulement',
-    es: 'Sólo mis artículos'
+    es: 'Sólo mis artículos',
+    el: 'Τα στοιχεία μου μόνο'
   },
 
   buy: {
@@ -36,7 +38,8 @@ export default {
     it: 'Comprare l\'articolo',
     es: 'Comprar artículo',
     fr: 'Acheter l\'article',
-    pl: 'Pozycja zakupu'
+    pl: 'Pozycja zakupu',
+    el: 'Αγοράστε στοιχείο'
   },
 
   delist: {
@@ -49,7 +52,8 @@ export default {
     it: 'Rimuovere l\'elemento',
     pl: 'Usuń element',
     fr: 'Retirer l\'élément',
-    es: 'Eliminar elemento'
+    es: 'Eliminar elemento',
+    el: 'Διαγραφή στοιχείου'
   },
 
   price: {
@@ -62,7 +66,8 @@ export default {
     it: 'Prezzo: ',
     es: 'Precio: ',
     pl: 'Cena: ',
-    fr: 'Prix : '
+    fr: 'Prix : ',
+    el: 'Τιμή: '
   },
 
   fee: {
@@ -75,7 +80,8 @@ export default {
     it: 'Tassa: ',
     fr: 'Honoraires: ',
     es: 'Tarifa: ',
-    pl: 'Opłata: '
+    pl: 'Opłata: ',
+    el: 'Τέλη'
   },
 
   dragitem: {
@@ -88,7 +94,8 @@ export default {
     it: 'Trascinare l\'elemento nella fessura',
     pl: 'Przeciągnij element do szczeliny czytnika',
     es: 'Arrastre el elemento a la ranura',
-    fr: 'Glisser l\'élément dans la fente'
+    fr: 'Glisser l\'élément dans la fente',
+    el: 'Σύρετε το αντικείμενο σε υποδοχή'
   },
 
   auctionpost: {
@@ -111,7 +118,8 @@ export default {
     bg: 'Публикували сте $1 за продажба',
     cs: 'Zveřejnili jste $1 na prodej',
     ja: 'あなたは販売のために $1 を投稿しました',
-    ro: 'Ați postat $1 de vânzare'
+    ro: 'Ați postat $1 de vânzare',
+    el: 'Έχετε δημοσιεύσει $1 προς πώληση'
   },
 
   auctioncancel: {
@@ -124,7 +132,8 @@ export default {
     fr: 'L\'article a été retiré de la liste et envoyé à la planque.',
     pl: 'Przedmiot usunięty z wykazu i wysłany do przechowania.',
     es: 'Artículo retirado de la lista y enviado a esconder',
-    tl: 'Inalis ang item at ipinadala sa itago'
+    tl: 'Inalis ang item at ipinadala sa itago',
+    el: 'Το στοιχείο αποσυντεθεί και αποστέλλεται στο στήθος'
   },
 
   auctionbuy: {
