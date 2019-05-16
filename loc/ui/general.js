@@ -78,7 +78,8 @@ export default {
     pt: 'Cancelar',
     it: 'Annulla',
     pl: 'Odwołaj',
-    de: 'Abbrechen'
+    de: 'Abbrechen',
+    ro: 'Anulează'
   },
 
   decline: {
