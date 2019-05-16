@@ -103,7 +103,7 @@ export default {
     pl: 'Opłata: ',
     el: 'Τέλη: ',
     bg: 'Такса: ',
-    cs: 'Poplatek: '
+    cs: 'Poplatek: ',
     ht: 'Frè: ',
     ko: '보수: '
   },
