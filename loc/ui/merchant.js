@@ -13,7 +13,8 @@ export default {
     pl: 'Wyszukiwanie',
     el: 'Ψάξιμο',
     bg: 'Търсене',
-    cs: 'Vyhledávání'
+    cs: 'Vyhledávání',
+    ht: 'Rechèch'
   },
 
   filtermine: {
@@ -29,7 +30,8 @@ export default {
     es: 'Sólo mis artículos',
     el: 'Τα στοιχεία μου μόνο',
     bg: 'Само моите елементи',
-    cs: 'Pouze mé položky'
+    cs: 'Pouze mé položky',
+    ht: 'Atik mwen sèlman'
   },
 
   buy: {
@@ -45,7 +47,8 @@ export default {
     pl: 'Pozycja zakupu',
     el: 'Αγοράστε στοιχείο',
     bg: 'Купете артикул',
-    cs: 'Koupit předmět'
+    cs: 'Koupit předmět',
+    ht: 'Achte Atik'
   },
 
   delist: {
@@ -61,7 +64,8 @@ export default {
     es: 'Eliminar elemento',
     el: 'Διαγραφή στοιχείου',
     bg: 'Делист вещ',
-    cs: 'Položka Delist'
+    cs: 'Položka Delist',
+    ht: 'De-lis Atik'
   },
 
   price: {
@@ -77,7 +81,8 @@ export default {
     fr: 'Prix : ',
     el: 'Τιμή: ',
     bg: 'Цена: ',
-    cs: 'Cena: '
+    cs: 'Cena: ',
+    ht: 'Pri: '
   },
 
   fee: {
@@ -94,6 +99,7 @@ export default {
     el: 'Τέλη: ',
     bg: 'Такса: ',
     cs: 'Poplatek: '
+    ht: 'Frè: '
   },
 
   dragitem: {
@@ -109,7 +115,8 @@ export default {
     fr: 'Glisser l\'élément dans la fente',
     el: 'Σύρετε το αντικείμενο σε υποδοχή',
     bg: 'Плъзнете предмет в слот',
-    cs: 'Přetáhněte položku do slotu'
+    cs: 'Přetáhněte položku do slotu',
+    ht: 'Drag atik nan plas'
   },
 
   auctionpost: {
@@ -149,7 +156,8 @@ export default {
     tl: 'Inalis ang item at ipinadala sa itago',
     el: 'Το στοιχείο αποσυντεθεί και αποστέλλεται στο στήθος',
     bg: 'Предмет е изтрит и изпратен на скривалище',
-    cs: 'Položka byla odstraněna a odeslána'
+    cs: 'Položka byla odstraněna a odeslána',
+    ht: 'Atik de-yo ki nan lis ak voye nan stash'
   },
 
   auctionbuy: {
