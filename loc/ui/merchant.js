@@ -10,13 +10,13 @@ export default {
     it: 'Ricerca',
     fr: 'Rechercher',
     es: 'Buscar',
-    pl: 'Wyszukiwanie',
+    : 'Wyszukiwanie',
     el: 'Ψάξιμο',
     bg: 'Търсене',
     cs: 'Vyhledávání',
     ht: 'Rechèch',
     ko: '수색',
-    ja: 'サーチ'
+    ro: 'Caută'
   },
 
   filtermine: {
@@ -35,7 +35,7 @@ export default {
     cs: 'Pouze mé položky',
     ht: 'Atik mwen sèlman',
     ko: '내 항목 만',
-    ja: '私の商品のみ'
+    ro: 'Doar Obiectele Mele'
   },
 
   buy: {
@@ -54,7 +54,7 @@ export default {
     cs: 'Koupit předmět',
     ht: 'Achte Atik',
     ko: '물건을 사다',
-    ja: '商品を購入'
+    ro: 'Cumpără Obiectul'
   },
 
   delist: {
@@ -73,7 +73,7 @@ export default {
     cs: 'Položka Delist',
     ht: 'De-lis Atik',
     ko: '항목 삭제',
-    ja: 'アイテムを無効にする'
+    ro: 'Scoate Obiectul'
   },
 
   price: {
@@ -92,7 +92,6 @@ export default {
     cs: 'Cena: ',
     ht: 'Pri: ',
     ko: '가격: ',
-    ja: '価格: ',
     ro: 'Preț: '
   },
 
@@ -112,7 +111,6 @@ export default {
     cs: 'Poplatek: ',
     ht: 'Frè: ',
     ko: '보수: ',
-    ja: '費用: ',
     ro: 'Taxă: '
   },
 
@@ -132,7 +130,7 @@ export default {
     cs: 'Přetáhněte položku do slotu',
     ht: 'Drag atik nan plas',
     ko: '항목을 슬롯으로 드래그하십시오.',
-    ja: 'アイテムをスロットにドラッグ'
+    ro: 'Pune obiectul la locul lui'
   },
 
   auctionpost: {
@@ -155,7 +153,7 @@ export default {
     bg: 'Публикували сте $1 за продажба',
     cs: 'Zveřejnili jste $1 na prodej',
     ja: 'あなたは販売のために $1 を投稿しました',
-    ro: 'Ați postat $1 de vânzare'
+    ro: 'Ai postat $1 pentru vânzare'
   },
 
   auctioncancel: {
@@ -174,7 +172,7 @@ export default {
     cs: 'Položka byla odstraněna a odeslána',
     ht: 'Atik de-yo ki nan lis ak voye nan stash',
     ko: '상장 폐지 된 물품',
-    ja: '上場廃止されたアイテム'
+    ro: 'Obiect delistat și pus la păstrare'
   },
 
   auctionbuy: {
@@ -195,7 +193,8 @@ export default {
     bg: 'Позиция, закупена за $1 монети и изпратена до вашия Stash',
     cs: 'Zboží zakoupené za $1 mincí a zaslané do vašeho Stash',
     ja: '$1 枚のコインで購入し、あなたの隠し場所に送られるアイテム',
-    ko: '$1 동전으로 구입하여 은닉 한 물품'
+    ko: '$1 동전으로 구입하여 은닉 한 물품',
+    ro: 'Obiect cumpărat pentru $1 monede și trimis în inventarul tău',
   },
 
   sell: {
@@ -217,7 +216,8 @@ export default {
     tl: 'Binebenta mo na $1 Para sa $2',
     ht: 'Ou te vann $1 pou $2',
     ko: '$1 에 $1 를 판매했습니다',
-    sv: 'Du har sålt $1 för $2'
+    sv: 'Du har sålt $1 för $2',
+    ro: 'Ai vândut $1 pentru $2.'
   }
 
 }
