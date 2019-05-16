@@ -7,7 +7,10 @@ export default {
     de: 'Suche',
     tl: 'Paghahanap',
     pt: 'Busca',
-    it: 'Ricerca'
+    it: 'Ricerca',
+    fr: 'Rechercher',
+    es: 'Buscar',
+    pl: 'Wyszukiwanie'
   },
 
   filtermine: {
@@ -17,7 +20,10 @@ export default {
     ru: 'Только мои предметы',
     tl: 'Aking mga item lamang',
     pt: 'Apenas os meus itens',
-    it: 'Solo i miei articoli'
+    it: 'Solo i miei articoli',
+    pl: 'Tylko moje rzeczy',
+    fr: 'Mes articles seulement',
+    es: 'Sólo mis artículos'
   },
 
   buy: {
@@ -27,7 +33,10 @@ export default {
     ru: 'Купить предмет',
     tl: 'Bumili ng Item',
     pt: 'Comprar item',
-    it: 'Comprare l\'articolo'
+    it: 'Comprare l\'articolo',
+    es: 'Comprar artículo',
+    fr: 'Acheter l\'article',
+    pl: 'Pozycja zakupu'
   },
 
   delist: {
@@ -37,7 +46,10 @@ export default {
     ru: 'исключить предмет',
     tl: 'ibukod ang item',
     pt: 'Item de exclusão',
-    it: 'Rimuovere l\'elemento'
+    it: 'Rimuovere l\'elemento',
+    pl: 'Usuń element',
+    fr: 'Retirer l\'élément',
+    es: 'Eliminar elemento'
   },
 
   price: {
@@ -47,7 +59,10 @@ export default {
     ru: 'Цена: ',
     tl: 'Presyo: ',
     pt: 'Preço: ',
-    it: 'Prezzo: '
+    it: 'Prezzo: ',
+    es: 'Precio: ',
+    pl: 'Cena: ',
+    fr: 'Prix : '
   },
 
   fee: {
@@ -57,7 +72,10 @@ export default {
     ru: 'Плата: ',
     tl: 'Bayad: ',
     pt: 'Taxa: ',
-    it: 'Tassa: '
+    it: 'Tassa: ',
+    fr: 'Honoraires: ',
+    es: 'Tarifa: ',
+    pl: 'Opłata: '
   },
 
   dragitem: {
@@ -67,7 +85,10 @@ export default {
     ru: 'Перетащите предмет в слот',
     tl: 'I-drag ang item sa puwang',
     pt: 'Arraste o item para a ranhura',
-    it: 'Trascinare l\'elemento nella fessura'
+    it: 'Trascinare l\'elemento nella fessura',
+    pl: 'Przeciągnij element do szczeliny czytnika',
+    es: 'Arrastre el elemento a la ranura',
+    fr: 'Glisser l\'élément dans la fente'
   },
 
   auctionpost: {
