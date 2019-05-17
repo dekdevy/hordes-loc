@@ -357,7 +357,15 @@ export default [
       nl: 'Een lemmet zou in het verleden gebroken zijn en opnieuw gesmeed zijn door de legendarische demonen van dit prachtige aanlanden.',
       pl: 'Ostrze, które podobno zostało złamane w przeszłości i wykute na nowo przez legendarne demony tych wspaniałych ziem.',
       fr: 'Une lame que l\'on disait cassée dans le passé et forgée à nouveau par les démons légendaires de ces magnifiques terres.',
-      es: 'Una espada que se dice que fue rota en el pasado y forjada de nuevo por los demonios legendarios de estas magníficas tierras.'
+      es: 'Una espada que se dice que fue rota en el pasado y forjada de nuevo por los demonios legendarios de estas magníficas tierras.',
+      bg: 'Острие, което се казвало, че е било разрушено в миналото и изковано отново от легендарните демони на тези великолепни земи.',
+      tl: 'Ang isang talim ay sinabi na pinaghiwa-hiwalay sa nakaraan at hinubog muli ng mga masayang demonyo ng mga kahanga-hangang lupain na ito',
+      cs: 'Čepel, která měla být v minulosti zlomena a znovu zformována legendárními démony těchto nádherných zemí.',
+      el: 'Μια λεπίδα που λέγεται ότι έχει σπάσει στο παρελθόν και σφυρηλατηθεί εκ νέου από τους θρυλικούς δαίμονες αυτών των μαγευτικών χωρών.',
+      ht: 'Yon lam te di ke yo dwe kase nan tan lontan an ak fòje yon lòt fwa pa move lespri yo selèb nan peyi sa yo manyifik.',
+      hi: 'एक ब्लेड ने कहा कि अतीत में तोड़ा जा सकता है और इन शानदार भूमि के सक्षम राक्षसों द्वारा जाली है।',
+      ko: '블레이드는 과거에 부서지고이 장엄한 땅의 전설적인 악마에 의해 새롭게 단련되었다고 말했습니다.',
+      ja: '刃は過去に壊れたと言われて、これらの壮大な土地の伝説的な悪魔によって新しく鍛造されました。'
     }
   },
 

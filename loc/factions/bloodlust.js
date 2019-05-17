@@ -3,7 +3,7 @@ export default {
     $$: 'Bloodlust'
   },
   description: {
-    en: 'The Bloodlust horde values freedom and loyalty, offers a place for individualism or even chaos. Their Defenses are located in a desert realm called Headless Landing.',
+    en: 'The Bloodlust horde values freedom and loyalty, offers a place for individualism or even chaos. Their defenses are located in a desert realm called Headless Landing.',
     sv: 'Bloodlust värderar frihet och lojalitet, erbjunder en plats för individualism men också kaos. Deras försvar hittas i ett öken kungarike vid namn Headless Landing.',
     ru: 'Орда Кровожадности ценит свободу и лояльность, предлагая место для индивидуализма или даже хаоса. Их оборона находится в пустынном мире, названном Обезглавленной Землей.',
     es: 'A la horda Bloodlust le importan la libertad y lealtad. Con su guarida situado en un desierto llamado Headless Landing, ofrecen el lugar perfecto para expresión y caos.',

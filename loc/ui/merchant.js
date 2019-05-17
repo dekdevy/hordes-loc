@@ -10,7 +10,14 @@ export default {
     it: 'Ricerca',
     fr: 'Rechercher',
     es: 'Buscar',
-    pl: 'Wyszukiwanie'
+    pl: 'Wyszukiwanie',
+    el: 'Ψάξιμο',
+    bg: 'Търсене',
+    cs: 'Vyhledávání',
+    ht: 'Rechèch',
+    ko: '수색',
+    ja: 'サーチ',
+    ro: 'Caută'
   },
 
   filtermine: {
@@ -23,7 +30,14 @@ export default {
     it: 'Solo i miei articoli',
     pl: 'Tylko moje rzeczy',
     fr: 'Mes articles seulement',
-    es: 'Sólo mis artículos'
+    es: 'Sólo mis artículos',
+    el: 'Τα στοιχεία μου μόνο',
+    bg: 'Само моите елементи',
+    cs: 'Pouze mé položky',
+    ht: 'Atik mwen sèlman',
+    ko: '내 항목 만',
+    ja: '私の商品のみ',
+    ro: 'Doar Obiectele Mele'
   },
 
   buy: {
@@ -36,7 +50,14 @@ export default {
     it: 'Comprare l\'articolo',
     es: 'Comprar artículo',
     fr: 'Acheter l\'article',
-    pl: 'Pozycja zakupu'
+    pl: 'Pozycja zakupu',
+    el: 'Αγοράστε στοιχείο',
+    bg: 'Купете артикул',
+    cs: 'Koupit předmět',
+    ht: 'Achte Atik',
+    ko: '물건을 사다',
+    ja: '商品を購入',
+    ro: 'Cumpără Obiectul'
   },
 
   delist: {
@@ -49,7 +70,14 @@ export default {
     it: 'Rimuovere l\'elemento',
     pl: 'Usuń element',
     fr: 'Retirer l\'élément',
-    es: 'Eliminar elemento'
+    es: 'Eliminar elemento',
+    el: 'Διαγραφή στοιχείου',
+    bg: 'Делист вещ',
+    cs: 'Položka Delist',
+    ht: 'De-lis Atik',
+    ko: '항목 삭제',
+    ja: 'アイテムを無効にする',
+    ro: 'Scoate Obiectul'
   },
 
   price: {
@@ -62,7 +90,14 @@ export default {
     it: 'Prezzo: ',
     es: 'Precio: ',
     pl: 'Cena: ',
-    fr: 'Prix : '
+    fr: 'Prix : ',
+    el: 'Τιμή: ',
+    bg: 'Цена: ',
+    cs: 'Cena: ',
+    ht: 'Pri: ',
+    ko: '가격: ',
+    ja: '価格: ',
+    ro: 'Preț: '
   },
 
   fee: {
@@ -75,7 +110,14 @@ export default {
     it: 'Tassa: ',
     fr: 'Honoraires: ',
     es: 'Tarifa: ',
-    pl: 'Opłata: '
+    pl: 'Opłata: ',
+    el: 'Τέλη: ',
+    bg: 'Такса: ',
+    cs: 'Poplatek: ',
+    ht: 'Frè: ',
+    ko: '보수: ',
+    ja: '費用: ',
+    ro: 'Taxă: '
   },
 
   dragitem: {
@@ -88,7 +130,14 @@ export default {
     it: 'Trascinare l\'elemento nella fessura',
     pl: 'Przeciągnij element do szczeliny czytnika',
     es: 'Arrastre el elemento a la ranura',
-    fr: 'Glisser l\'élément dans la fente'
+    fr: 'Glisser l\'élément dans la fente',
+    el: 'Σύρετε το αντικείμενο σε υποδοχή',
+    bg: 'Плъзнете предмет в слот',
+    cs: 'Přetáhněte položku do slotu',
+    ht: 'Drag atik nan plas',
+    ko: '항목을 슬롯으로 드래그하십시오.',
+    ja: 'アイテムをスロットにドラッグ',
+    ro: 'Pune obiectul la locul lui'
   },
 
   auctionpost: {
@@ -111,7 +160,7 @@ export default {
     bg: 'Публикували сте $1 за продажба',
     cs: 'Zveřejnili jste $1 na prodej',
     ja: 'あなたは販売のために $1 を投稿しました',
-    ro: 'Ați postat $1 de vânzare'
+    ro: 'Ai postat $1 pentru vânzare'
   },
 
   auctioncancel: {
@@ -124,7 +173,14 @@ export default {
     fr: 'L\'article a été retiré de la liste et envoyé à la planque.',
     pl: 'Przedmiot usunięty z wykazu i wysłany do przechowania.',
     es: 'Artículo retirado de la lista y enviado a esconder',
-    tl: 'Inalis ang item at ipinadala sa itago'
+    tl: 'Inalis ang item at ipinadala sa itago',
+    el: 'Το στοιχείο αποσυντεθεί και αποστέλλεται στο στήθος',
+    bg: 'Предмет е изтрит и изпратен на скривалище',
+    cs: 'Položka byla odstraněna a odeslána',
+    ht: 'Atik de-yo ki nan lis ak voye nan stash',
+    ko: '상장 폐지 된 물품',
+    ja: '上場廃止されたアイテム',
+    ro: 'Obiect delistat și pus la păstrare'
   },
 
   auctionbuy: {
@@ -144,7 +200,9 @@ export default {
     el: 'Στοιχείο που αγοράσατε για $1 νομίσματα και απεστάλητε στο Stash σας',
     bg: 'Позиция, закупена за $1 монети и изпратена до вашия Stash',
     cs: 'Zboží zakoupené za $1 mincí a zaslané do vašeho Stash',
-    ja: '$1 コインを購入し、Stash に送った商品'
+    ja: '$1 枚のコインで購入し、あなたの隠し場所に送られるアイテム',
+    ko: '$1 동전으로 구입하여 은닉 한 물품',
+    ro: 'Obiect cumpărat pentru $1 monede și trimis în inventarul tău'
   },
 
   sell: {

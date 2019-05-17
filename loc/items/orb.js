@@ -20,7 +20,8 @@ export default [
       sv: 'Fuktig boll av jorden, efterlämnar små kritor i handen.',
       ko: '손에 작은 동물을 남기고 지구의 촉촉한 공.',
       ro: 'Bilă umedă de pământ, lasă mici creaturi în mână în urma ei.',
-      tl: 'Bola ng lupa, umaalis sa likod ng maliliit na critters sa iyong kamay'
+      tl: 'Bola ng lupa, umaalis sa likod ng maliliit na critters sa iyong kamay',
+      tr: 'Toprağın nemli topu, elinde küçük yaratıklar bırakır'
     }
   },
 
@@ -45,7 +46,8 @@ export default [
       sv: 'En grotesk massa av ben som ger lycka till de vidskepliga.',
       ko: '미신에게 행운을 가져다주는 괴상한 덩어리의 뼈.',
       ro: 'O masă grotescă de oase ce aduce noroc superstițioșilor.',
-      tl: 'Ang isang nakakatakot na masa ng buto na nagdadala ng kapalaran sa mga mapamahiin'
+      tl: 'Ang isang nakakatakot na masa ng buto na nagdadala ng kapalaran sa mga mapamahiin',
+      tr: 'İğrenç bir kemik kütlesi. Batıl inançlara inananlara şans getirir.'
     }
   },
 
@@ -70,7 +72,8 @@ export default [
       sv: 'Lysstrålar fångas i denna sfär och kastar fina regnbågar runt dig.',
       ko: '빛의 광선이 당신 주위에 좋은 무지개를 주조,이 영역에 잡힐.',
       ro: 'Raze de lumină sunt prinse în această sferă, eliberând curcubee fine în jurul tău.',
-      tl: 'Ang mga sinag ng liwanag ay nahuli sa globo na ito, na naghahain ng magagandang mga rainbows sa paligid mo.'
+      tl: 'Ang mga sinag ng liwanag ay nahuli sa globo na ito, na naghahain ng magagandang mga rainbows sa paligid mo.',
+      tr: 'Işık ışınları bu küreyi yakalanır, etrafınızda ince bir gökkuşağı belirir.'
     }
   },
 
@@ -95,7 +98,8 @@ export default [
       sv: 'De antika cyklops som terroriserar dessa länder blev äntligen dödade, så att du kunde scavenge denna dystra souvenir.',
       ko: '이 토지를 공포에 떨게하는 고대의 살인 사건은 마침내 죽임을 당했고, 당신은이 끔찍한 기념품을 청소할 수있었습니다.',
       ro: 'Un ciclop antic care teroriza aceste ținuturi a fost în sfârșit ucis, permițându-ți să sapi după acest suvenir sumbru.',
-      tl: 'Ang mga sinaunang cyclops ng mga terorismo sa mga lupain ay sa wakas ay pinatay, na nagpapahintulot sa iyo na mag-scavenge ng mabangong souvenir na ito.'
+      tl: 'Ang mga sinaunang cyclops ng mga terorismo sa mga lupain ay sa wakas ay pinatay, na nagpapahintulot sa iyo na mag-scavenge ng mabangong souvenir na ito.',
+      tr: 'Bu toprakları terörize eden eski bir tek gözlü canavar sonunda öldürüldü. bu korkunç küreye sahip olmanıza izin veren şey budur.'
     }
   },
 
@@ -120,7 +124,8 @@ export default [
       sv: 'Lysande och charmig, denna mystiska sfär gör att luften är iskallig.',
       ko: '광택이 있고 매력적 인이 신비한 구가 얼음을 차갑게합니다.',
       ro: 'Strălucitoare și fermecătoare, această sferă misterioasă face aerul din jurul ei rece ca gheața.',
-      tl: 'Malakas at kaakit-akit, ang misteryosong globo na ito ay gumagawa ng hangin sa paligid ng yelo na malamig.'
+      tl: 'Malakas at kaakit-akit, ang misteryosong globo na ito ay gumagawa ng hangin sa paligid ng yelo na malamig.',
+      tr: 'Parlak ve büyüleyici olan bu gizemli küre, etrafındaki havayı buz gibi soğuk yapar.'
     }
   },
 
@@ -145,7 +150,8 @@ export default [
       bg: 'Енигматична изумруденозелена сфера, обгърната от изящни гравюри на серпентини, които привличат славата и богатството на своя омагьосан носител',
       cs: 'Tajemná smaragdově zelená koule, obklopená jemnými rytinami hadovitých proroctví, která lákají slávu a bohatství ke svému okouzlujícímu nositeli',
       ja: '不思議なエメラルドグリーンの球体、その妖艶な持ち主に名声と富を惹きつける蛇紋岩の予言の細かい彫刻に包まれて',
-      ro: 'Enigmatică sferă verde de smarald, învăluită în gravuri fine de profeții perfizi, atrage faimă și serendipitate purtătorului ei vrăjit.'
+      ro: 'Enigmatică sferă verde de smarald, învăluită în gravuri fine de profeții perfizi, atrage faimă și serendipitate purtătorului ei vrăjit.',
+      tr: 'Esrarengiz zümrüt yeşil küre. Serpantin kehanetlerinin ince gravürlerine sarılmış. şöhret ve serendipity taşıyıcısına getirmek.'
     }
   },
 
@@ -170,7 +176,8 @@ export default [
       sv: 'Genomskinlig gul tinkad orb, avslöjade fångade infernala plumer av paranormal aura, uppsluka de svagas sinnen med planer om gift och mord.',
       ko: '투명한 노란 물결 모양의 오브, 드러내는 극한의 기운이 담긴 깃털을 포착하여 약한 사람들의 마음을 독살과 살인의 계획으로 삼키고 있습니다.',
       ro: 'Sferă transparentă cu tentă galbenă, dezvăluie pliuri infernale prinse de aura paranormală, înghițind mințile celor slabi cu planuri de otravă și crimă.',
-      tl: 'Dilaw na globo, na inilalantad ang nakulong na mga infernal na pitch ng paranormal aura, na nilulukob ang isip ng mahihina sa mga plano ng lason at pagpatay.'
+      tl: 'Dilaw na globo, na inilalantad ang nakulong na mga infernal na pitch ng paranormal aura, na nilulukob ang isip ng mahihina sa mga plano ng lason at pagpatay.',
+      tr: 'Şeffaf sarı küre. büyülü ruhlar ortaya çıkar, zayıf zihinleri ele geçirir, zehir ve cinayet düşüncelerini getirir.'
     }
   },
 
@@ -195,7 +202,8 @@ export default [
       sv: 'Blåblå fasetterad artefakt, utstrålande pulserande ljusvågor, fördärva de mörka skuggorna av demoniska själar från din väg till ära.',
       ko: '옅은 파란색면 처리 된 유물, 빛의 파동을 발산하여 악마 영혼의 어두운 그림자를 당신의 길에서 영광으로 추방합니다.',
       ro: 'Artefact albastru deschis, radiază valuri pulsante de lumină, alungând umbrele întunecate ale sufletelor demonice din calea ta spre glorie.',
-      tl: 'Mapusyaw na asul na napiling artepakto, nagpapaikut-ikot ng mga pulsing alon ng liwanag, na naglalaho sa madilim na mga anino ng mga demonikong kaluluwa mula sa iyong landas patungo sa kaluwalhatian.'
+      tl: 'Mapusyaw na asul na napiling artepakto, nagpapaikut-ikot ng mga pulsing alon ng liwanag, na naglalaho sa madilim na mga anino ng mga demonikong kaluluwa mula sa iyong landas patungo sa kaluwalhatian.',
+      tr: 'Antik soluk mavi küre, yanıp sönen ışıklar şeytanları zafere giden yolunuzdan uzak tutar.'
     }
   },
 
@@ -220,7 +228,8 @@ export default [
       sv: 'Kött och blod infunderade denna orb med de dödas själar, vilket skapade en mörkröd essens inbäddad i sig, vilket ger dig en aldrig tidigare skådad lust för blod och kamp.',
       ko: '살과 피는이 오브을 살해 된 사람들의 영혼과 함께 주입 시키며, 진한 빨간색의 본질을 만들어 내고, 피와 전투를위한 전례없는 정욕을줍니다.',
       ro: 'Carnea și sângele au infuzat această sferă cu sufletele celor uciși, creând o esență roșie întunecată încorporată în sine, oferindu-ți pofta fără precedent pentru sânge și luptă.',
-      tl: 'Inihaw ng laman at dugo ang globo na ito sa mga kaluluwa ng pinatay, na lumilikha ng isang madilim na pulang kakanyahan na naka-embed sa sarili nito, na nagbibigay sa iyo ng walang kapararakan na kasamaan para sa dugo at labanan.'
+      tl: 'Inihaw ng laman at dugo ang globo na ito sa mga kaluluwa ng pinatay, na lumilikha ng isang madilim na pulang kakanyahan na naka-embed sa sarili nito, na nagbibigay sa iyo ng walang kapararakan na kasamaan para sa dugo at labanan.',
+      tr: 'et ve kan bu küreyi yarattı, ölülerin ruhlarıyla. Koyu kırmızı bir öz oluşturur, bu küre size kan ve savaş için bir iç arzu getiriyor.'
     }
   },
 
@@ -245,7 +254,8 @@ export default [
       sv: 'Mörk, dödlig och demonisk, en orb innesluten i små kratrar fyllda med blodröda pärlor, vävande skivor till dem som motsätter dig.',
       ko: '어둡고 치명적이며 귀신이 많은 작은 분화구에 갇혀있는 오브는 적혈구가 가득한 보석으로 가득 차며, 당신을 반대하는 사람들에게 공포의 장을 짠다.',
       ro: 'Întunecată, mortală și demonică, o sferă încastrată în cratere mici, umplute cu pietre roșii-sângerii, țese foi de teroare în cei care ți se opun.',
-      tl: 'Dark, deadly and demonic, an orb encased in small craters filled with blood-red gems, weaving sheets of terror into those who oppose you.'
+      tl: 'Dark, deadly and demonic, an orb encased in small craters filled with blood-red gems, weaving sheets of terror into those who oppose you.',
+      tr: 'Karanlık, ölümcül ve şeytani, kan kırmızısı taşlar ile dolu küçük kraterler kaplı bir küre, sana karşı olanlar içine terör çarşaf dokuma.'
     }
   }
 

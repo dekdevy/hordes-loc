@@ -20,7 +20,8 @@ export default [
       ja: '文字通り木の正方形の板。',
       sv: 'Bokstavligen en fyrkantig planka av trä.',
       ko: '말 그대로 나무의 정연한 판자.',
-      ro: 'Literalmente o scândură pătrată de lemn.'
+      ro: 'Literalmente o scândură pătrată de lemn.',
+      tr: 'Kelimenin tam anlamıyla bir kare ahşap parçası.'
     }
   },
 
@@ -45,7 +46,8 @@ export default [
       ja: '何人かの農夫はかわいい小さな盾を建設することに成功した。',
       sv: 'En del bonde har lyckats konstruera en söt liten sköld.',
       ko: '어떤 농부는 귀여운 작은 방패를 만들 수있었습니다.',
-      ro: 'Un fermier a reușit să construiască un scut mic drăguț.'
+      ro: 'Un fermier a reușit să construiască un scut mic drăguț.',
+      tr: 'Bazı çiftçi sevimli küçük bir kalkan yaptı.'
     }
   },
 
@@ -70,7 +72,8 @@ export default [
       ja: '青銅で満たされた製錬鉄の輪。その作成にぎこちない。',
       sv: 'Smältjärnsring fylld med brons. Spetsig i sin framställning.',
       ko: '철 고리 청동 가득합니다. 어색한 제작.',
-      ro: 'Inel de fier topit umplut cu bronz. Făcut superficial.'
+      ro: 'Inel de fier topit umplut cu bronz. Făcut superficial.',
+      tr: 'Bronz ile doldurulmuş eritilmiş demir halka. İyi yapılmış değil.'
     }
   },
 
@@ -95,7 +98,8 @@ export default [
       ja: '3つの頑丈な金属片で作られた複雑なシールド。頑丈。',
       sv: 'Invecklad sköld gjord av tre solida metallstycken. Kraftig.',
       ko: '세 개의 단단한 금속 조각으로 만들어진 복잡한 방패. 견고한.',
-      ro: 'Scut complicat făcut din trei piese de metal solid. Robust.'
+      ro: 'Scut complicat făcut din trei piese de metal solid. Robust.',
+      tr: 'Üç katı metal parçadan oluşan karmaşık Kalkan. Sağlam bir kalkan.'
     }
   },
 
@@ -119,7 +123,8 @@ export default [
       el: 'Υψηλή ασπίδα που προστατεύει ολόκληρο το σώμα σας. Μόνο τα πιο πονηρά χτυπήματα μπορούν να αποφύγουν την προστασία τους.',
       bg: 'Висок щит, който пази цялото ви тяло. Само най-хитър удар може да избегне защитата му.',
       cs: 'Vysoký štít chrání celé tělo. Pouze ta nejchytřejší rána se může vyhnout jeho ochraně.',
-      ja: '体全体を守る高いシールド。最も狡猾な一撃だけがその防御を回避することができます。'
+      ja: '体全体を守る高いシールド。最も狡猾な一撃だけがその防御を回避することができます。',
+      tr: 'Tüm vücudunuzu koruyan uzun Kalkan. Sadece en kurnaz darbeler korumasından kaçabilir.'
     }
   },
 
@@ -143,7 +148,8 @@ export default [
       el: 'Χρυσά και κίτρινα σχέδια καλύπτουν αυτή την ασπίδα, εμφανίζοντας την εξουσία και την εξουσία σας.',
       bg: 'Злато и жълто модели покриват този щит, показвайки вашата власт и сила.',
       cs: 'Zlaté a žluté vzory pokrývají tento štít a zobrazují vaši autoritu a moc.',
-      ja: '金と黄色の模様がこの盾を覆い、あなたの権威と力を表しています。'
+      ja: '金と黄色の模様がこの盾を覆い、あなたの権威と力を表しています。',
+      tr: 'Altın ve sarı desenler bu kalkanı örter, otoritenizi ve gücünüzü gösterir.'
     }
   },
 
@@ -168,7 +174,8 @@ export default [
       ja: '黒曜石とスチールから作られています。誰かがそれを黄色く塗ろうとしました。',
       sv: 'Tillverkad av obsidian och stål. Någon försökte att måla den gul.',
       ko: '흑요석과 강철로 만들었습니다. 누군가는 그것을 황당하게 노란 색으로 칠하려고했습니다.',
-      ro: 'Făcut din obsidian și oțel. Cineva neglijent a încercat să-l vopsească în galben.'
+      ro: 'Făcut din obsidian și oțel. Cineva neglijent a încercat să-l vopsească în galben.',
+      tr: 'Obsidyen ve çelikten yapılmıştır. Birisi sarı boyamak için kötü bir girişimde bulundu.'
     }
   },
 
@@ -192,7 +199,8 @@ export default [
       el: 'Υψηλή, σκοτεινή και βαριά ασπίδα που περιβάλλει το απροστάτευτο σώμα σας με τη δύναμη των αρχαίων θηρίων που κάποτε κατοικούσαν σε αυτές τις κοιλάδες.',
       bg: 'Висок, тъмен и тежък щит, обгръщащ незащитеното ви тяло със силата на древни зверове, които някога са пребивавали в тези долини.',
       cs: 'Vysoký, tmavý a těžký štít obklopující vaše nechráněné tělo silou dávných bestií kdysi sídlících v těchto údolích.',
-      ja: '背の高い、暗い、そして重い盾は、かつてこれらの谷に住んでいた古代の獣の力であなたの保護されていない体を包みます。'
+      ja: '背の高い、暗い、そして重い盾は、かつてこれらの谷に住んでいた古代の獣の力であなたの保護されていない体を包みます。',
+      tr: 'Uzun, karanlık ve ağır Kalkan. Korunmasız vücudunuz eski yaratıkların gücü ile kaplıdır.'
     }
   },
 
@@ -216,7 +224,8 @@ export default [
       el: 'Μια ασύνετη ασπίδα που χτυπά τα κακά σκέλη των σκιών πέρα ​​από τα εμπόδια των μυαλών των εχθρών σας για να αμαυρώσει τις αναμνήσεις τους.',
       bg: 'Зловещ щит, който хвърляше мръсни клони на сенки покрай бариерите на враговете ви, за да помрачи спомените им.',
       cs: 'Zlověstný štít vrhající hnusné prameny stínů kolem bariér vašich nepřátelských mozků, aby poskvrnil jejich vzpomínky.',
-      ja: '邪悪な盾があなたの敵の心の壁を越えて邪悪な影の鎖を落として彼らの記憶を傷つけます。'
+      ja: '邪悪な盾があなたの敵の心の壁を越えて邪悪な影の鎖を落として彼らの記憶を傷つけます。',
+      tr: 'Düşmana gölgeler getiren uğursuz bir kalkan. Düşmanınızın anılarını kaybetmesine neden olur.'
     }
   },
 
@@ -240,7 +249,8 @@ export default [
       el: 'Μία ισχυρή ασπίδα που εκπέμπει θεϊκό φως στους ευγενείς σας συμμάχους για να τους κατακλύσει σε κύματα ανδρείας.',
       bg: 'Могъщ щит, излъчващ божествена светлина към вашите благородни съюзници, за да ги погълне във вълни на храброст.',
       cs: 'Silný štít, který vyzařuje božské světlo svým šlechtickým spojencům, aby je zachvátili ve vlnách srdnatosti.',
-      ja: '強大な盾はあなたの高貴な同盟国に神の光を放射して彼らを勇気の波に包み込みます。'
+      ja: '強大な盾はあなたの高貴な同盟国に神の光を放射して彼らを勇気の波に包み込みます。',
+      tr: 'Cesur müttefiklerinize ilahi ışık yayan güçlü bir kalkan. Bu cesaret dalgaları ile onları kapsar.'
     }
   }
 

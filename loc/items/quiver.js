@@ -20,7 +20,8 @@ export default [
       ja: '柔らかい穴だらけ。矢印は抜け続けます。',
       sv: 'Mjuk, full av hål. Pilarna fortsätter att falla ut.',
       ko: '부드러운, 구멍 가득. 화살표는 계속 떨어지고 있습니다.',
-      ro: 'Moale, plină de găuri. Săgețile continuă să cadă.'
+      ro: 'Moale, plină de găuri. Săgețile continuă să cadă.',
+      tr: 'Yumuşak ve delik dolu. Oklar dışarı düşmeye devam ediyor.'
     }
   },
 
@@ -44,7 +45,8 @@ export default [
       el: 'Μαλακή και απαλή στην αφή, αλλά αρκετά ανθεκτική για τα βέλη σας.',
       bg: 'Мека и гладка на допир, но достатъчно здрава за стрелите ви.',
       cs: 'Měkká a hladká na dotek, ale dostatečně pevná pro vaše šípy.',
-      ja: 'やわらかく滑らかな肌触り、それでもあなたの矢には十分丈夫。'
+      ja: 'やわらかく滑らかな肌触り、それでもあなたの矢には十分丈夫。',
+      tr: 'Dokunmak için yumuşak ve pürüzsüz, ancak oklarınız için yeterince sağlam.'
     }
   },
 
@@ -68,7 +70,8 @@ export default [
       el: 'Χτυπούσε τα οστά, εξυπηρετώντας ωραίο.',
       bg: 'Издълбана кост, служеща добре като импровизиран колчан.',
       cs: 'Vypadla z kosti a sloužila jako provizorní toulce.',
-      ja: '骨をくりぬき、その場しのぎの震えとして役立ちます。'
+      ja: '骨をくりぬき、その場しのぎの震えとして役立ちます。',
+      tr: 'İçi boş kemik. el yapımı bir ok için iyi çalışıyor.'
     }
   },
 
@@ -93,7 +96,8 @@ export default [
       ja: 'リネンの袋は硬い革で覆われています。',
       sv: 'Linnesäck täckt av styvt läder.',
       ko: '리넨 자루는 뻣뻣한 가죽으로 덮여 있습니다.',
-      ro: 'Sac din in acoperit cu piele rigidă.'
+      ro: 'Sac din in acoperit cu piele rigidă.',
+      tr: 'Keten çuval sert deri kaplı.'
     }
   },
 
@@ -117,7 +121,8 @@ export default [
       el: 'Λεπτώς φτιαγμένος από ένα μυστηριώδες γυαλιστερό υλικό.',
       bg: 'Фино изработен колчан от мистериозен блестящ материал.',
       cs: 'Jemně vytvořený toulec vyrobený z tajemného třpytivého materiálu.',
-      ja: '神秘的なきらめく材料で作られた細かく作られた震え。'
+      ja: '神秘的なきらめく材料で作られた細かく作られた震え。',
+      tr: 'Gizemli parıldayan metalden yapılmış ince hazırlanmış ok'
     }
   },
 
@@ -142,7 +147,8 @@ export default [
       ja: 'あなたが矢を引き出すたびにそれはあなたに向かっている。',
       sv: 'Varje gång du drar en pil ut hissar den på dig.',
       ko: '당신이 화살을 꺼낼 때마다, 그것은 당신에게 겁을줍니다.',
-      ro: 'De fiecare dată când scoți o săgeată, te sâsâie.'
+      ro: 'De fiecare dată când scoți o săgeată, te sâsâie.',
+      tr: 'bir oku her çıkardığınızda, tıslama sesi duyarsınız.'
     }
   },
 
@@ -167,7 +173,8 @@ export default [
       ja: 'きらめくダイヤモンドでコーティングされたエルフの矢筒。',
       sv: 'Koger av älvor belagda i skimrande diamant.',
       ko: '엘프 떨림이 반짝이는 다이아몬드로 코팅되었습니다.',
-      ro: 'Tolbă a elfilor acoperită cu diamante sclipitoare.'
+      ro: 'Tolbă a elfilor acoperită cu diamante sclipitoare.',
+      tr: 'Parıldayan elmas ile kaplanmış Elfler tarafından yapılan ok'
     }
   },
 
@@ -191,7 +198,8 @@ export default [
       bg: 'Впечатляващ смарагдово зелен колчан, изпълващ враговете ви с вина, докато се подготвят да ви атакуват.',
       cs: 'Velkolepý smaragdově zelený toulec naplňující své nepřátele vinou, když se na vás připravují k útoku.',
       ja: '彼らがあなたを攻撃する準備をしている時に壮観なエメラルドグリーンの槍があなたの敵を罪悪感で満たしています',
-      nl: 'Een spectaculaire smaragdgroene koker vult je vijanden met schuldgevoelens als ze zich voorbereiden om je aan te vallen.'
+      nl: 'Een spectaculaire smaragdgroene koker vult je vijanden met schuldgevoelens als ze zich voorbereiden om je aan te vallen.',
+      tr: 'Size saldırmaya hazırlanırken düşmanlarınızı suçluluk duygusuyla dolduran muhteşem bir zümrüt yeşili ok'
     }
   },
 
@@ -215,7 +223,8 @@ export default [
       el: 'Ένα τρίχωμα είναι επικαλυμμένο σε ένα βαθύ, λαμπερό ναυτικό υλικό. Οι αρχαίες ιστορίες δηλώνουν ότι ένας τέτοιος φαύλος καθαρίζει το μυαλό των περισπασμών κατά τη διάρκεια της μάχης.',
       bg: 'Колчанът е покрит с дълбок, блестящ материал. Древните истории заявяват, че такъв колчан изчиства ума на отвличанията по време на битка.',
       cs: 'Toulec je potažen hlubokým, třpytivým námořnickým materiálem. Starověké příběhy říkají, že takový tulák vyčistí mysl rozptylování během bitvy.',
-      ja: '震えは深く、きらめく海軍材料でコーティングされています。古代の物語は、そのような震えが戦いの間に気晴らしの心をクリアすると述べています。'
+      ja: '震えは深く、きらめく海軍材料でコーティングされています。古代の物語は、そのような震えが戦いの間に気晴らしの心をクリアすると述べています。',
+      tr: 'Derin parıldayan donanma malzeme ile kaplı bir ok. Antik hikayeler, böyle bir okun savaş sırasında dikkat dağıtıcı zihni temizlediğini belirtir.'
     }
   },
 
@@ -239,7 +248,8 @@ export default [
       el: 'Τραγανισμένοι κύλινδροι που είναι χρωματισμένοι με αίμα διαβάζουν ότι το χάος γεμίζει το μυαλό εκείνων που έχουν αγγιχτεί από τα βέλη που κρατιούνται σε ένα τέτοιο φαρέντο',
       bg: 'Разрушаващи се свитъци, зацапани с кръв, че хаосът изпълва съзнанието на онези, които са били докоснати от стрели, държани в такъв колчан',
       cs: 'Rozpadající se svitky, které jsou obarveny krví, čtou, že chaos naplňuje mysl těch, kteří se dotkli šípů v takovém toulci',
-      ja: '血で染まっている崩壊している巻物は、そのような矢筒の中に握られた矢によって触れられたそれらの心を混乱が満たすことを読みます'
+      ja: '血で染まっている崩壊している巻物は、そのような矢筒の中に握られた矢によって触れられたそれらの心を混乱が満たすことを読みます',
+      tr: 'Kanla lekelenmiş tomurcuklanan parşömenler, kaosun bu oklarla tutulanların aklını doldurduğunu oku.'
     }
   }
 
