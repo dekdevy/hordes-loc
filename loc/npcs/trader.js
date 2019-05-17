@@ -44,5 +44,17 @@ export default {
       ro: 'Da, desigur.',
       tl: 'Oo naman.'
     }]
-  }]
+  }],
+
+  header: {
+    en: 'Sell your items'
+  },
+
+  info: { // TODO: this sentence needs to be improved
+    en: 'To sell an item, drag it from your inventory into this window, or right click it.'
+  },
+
+  price: { // TODO: maybe a better wording can be chosen here
+    en: 'Sale price:'
+  }
 }
