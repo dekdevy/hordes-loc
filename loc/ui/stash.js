@@ -31,7 +31,7 @@ export default {
     pt: 'Retirar',
     it: 'Ritirare',
     pl: 'Wycofanie',
-    sv: 'Dra tillbaka'
+    sv: 'Dra tillbaka',
     ro: 'Retrage'
   },
 
