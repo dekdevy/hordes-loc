@@ -112,6 +112,10 @@ export default {
     sv: 'Du har sålt $1'
   },
 
+  receive: {
+    en: 'You have received $1'
+  },
+
   drop: {
     en: 'Drop item',
     ru: 'выбросить',
