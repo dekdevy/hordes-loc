@@ -58,21 +58,9 @@ export default {
 
   info: { // TODO: this sentence needs to be improved
     en: 'To sell an item, drag it from your inventory into this window, or right click it.',
-    es: 'Para vender un artículo, arrástrelo desde su inventario a esta ventana o haga clic con el botón derecho del ratón.',
-    pt: 'Para vender um item, arraste-o do seu estoque para esta janela ou clique com o botão direito do mouse nele.',
-    it: 'Per vendere un articolo, trascinalo dal tuo inventario in questa finestra, oppure clicca con il tasto destro del mouse.',
-    pl: 'Aby sprzedać przedmiot, przeciągnij go z inwentarza do tego okna lub kliknij prawym przyciskiem myszy.',
-    nl: 'Om een item te verkopen, sleept u het uit uw voorraad naar dit venster, of klikt u er met de rechtermuisknop op.',
-    fr: 'Pour vendre un article, faites-le glisser de votre inventaire dans cette fenêtre, ou faites un clic droit dessus.'
   },
 
   price: { // TODO: maybe a better wording can be chosen here
     en: 'Sale price:',
-    fr: 'Prix de vente:',
-    es: 'Precio de venta:',
-    pt: 'Preço de venda:',
-    it: 'Prezzo di vendita:',
-    pl: 'Cena sprzedaży:',
-    nl: 'Verkoopprijs:',
   }
 }
