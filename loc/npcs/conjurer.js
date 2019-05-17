@@ -8,7 +8,8 @@ export default {
              leaving behind a pungent smell of sulfur. You glance at them in awe, and then at the peculiar robe-clad being in front of you. 
              His hood casts an abyss of shadows onto his face, yet his eyes blaze bright with an emerald shine. Strange...
              The shapes are now jagged letters, forming some words. You can barely make out what they say. "Where....wood"?
-             The mysterious fellow I seems to be i
+             The mysterious fellow  seems to be impatient. He points at his freshly made work and stares at you with an angry flash in his lustrous eyes.
+            "Where would...you like... to go?'
 
 
       en: 'Ah, I see you traveler. Weary and famished you look. We conjurers, too, roam these fine lands. Would you like me to take you to one?',
