@@ -1,7 +1,7 @@
 export default {
   interactions: [{
     text: {
-      en: '''And who might this be, you wonder. Another traveler? You stumble towards him, weary  from the long days of travel.
+      en: 'And who might this be, you wonder. Another traveler? You stumble towards him, weary  from the long days of travel.
              He doesn't greet you, but stares from behind the shadows of his hood. *Speak* you think to yourself,  dumbfounded.
              A mute? Strange, his robes are ragged and dishevelled. He takes out a hand from his deep navy robe pockets and waves it at the air,
              trailing his fingers in an intricate pattern. What is this? You've never seen a being like this before. Pale wispy shapes begin to appear in front of you,
