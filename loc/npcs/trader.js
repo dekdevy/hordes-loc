@@ -57,10 +57,10 @@ export default {
   },
 
   info: { // TODO: this sentence needs to be improved
-    en: 'To sell an item, drag it from your inventory into this window, or right click it.',
+    en: 'To sell an item, drag it from your inventory into this window, or right click it.'
   },
 
   price: { // TODO: maybe a better wording can be chosen here
-    en: 'Sale price:',
+    en: 'Sale price:'
   }
 }
