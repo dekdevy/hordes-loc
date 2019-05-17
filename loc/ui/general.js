@@ -36,7 +36,7 @@ export default {
     pt: 'Voltar',
     pl: 'Wstecz',
     ht: 'Retounen',  // TODO: shorten
-    ko: '뒤로가기',   // TODO: shorten ?
+    ko: '뒤로',
     it: 'Dietro',
     cs: 'Zadní',
     ja: 'バック',
@@ -72,7 +72,23 @@ export default {
   cancel: {
     en: 'Cancel',
     ru: 'Отменить',
-    nl: 'Annuleren'
+    nl: 'Annuleren',
+    fr: 'Annuler',
+    es: 'Cancelar',
+    pt: 'Cancelar',
+    it: 'Annulla',
+    pl: 'Odwołaj',
+    de: 'Abbrechen',
+    ro: 'Anulează',
+    el: 'Ματαίωση',
+    tl: 'Kanselahin',
+    bg: 'Отказ',
+    cs: 'Zrušení',
+    ht: 'Anile',
+    ko: '취소',
+    ja: 'キャンセル',
+    hi: 'रद्द करना',
+    sv: 'Annullera'
   },
 
   decline: {

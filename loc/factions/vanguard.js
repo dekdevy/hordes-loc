@@ -4,7 +4,7 @@ export default {
     $$: 'Vanguard'
   },
   description: {
-    en: 'The Vanguard horde seeks tradition, structure and order in society. Their Castle can be found in a lush green area around Guardstone.',
+    en: 'The Vanguard horde seeks tradition, structure and order in society. Their castle can be found in a lush green area around Guardstone.',
     sv: 'Vanguard söker tradition, struktur och ordning i samhället. Deras slott kan hittas i ett vackert grönt område omkring Guardstone.',
     ru: 'Орда Авангарда ищет традиции, структуру и порядок в обществе. Их крепость может быть найдена в пышной зеленой зоне около Камня Защиты.',
     es: 'Los valores del Vanguard son la tradición, la estructura y el orden de sociedad. Su Castillo se halla en el bosque exuberante de Guardstone.',
@@ -18,7 +18,7 @@ export default {
     it: 'L\'orda di avanguardia cerca la tradizione, la struttura e l\'ordine nella società. Il loro castello può essere trovato in un\'area verde fertile intorno a Guardstone.',
     ht: 'Vanguard chèche tradisyon, estrikti ak lòd nan sosyete a. Ka chato yo ka jwenn nan yon zòn bèl vèt alantou Guardstone.',
     tl: 'Ang Vanguard horde ay naglalayong istraktura ng istraktura at kaayusan sa lipunan. Ang kanilang Castle ay makikita sa luntiang luntiang lugar sa paligid ng Guardstone.',
-    pl: 'Horde Vanguard seeks tradition, structure and order in society. Their castle is located in the lush greenery around Guardstone.',
+    pl: 'Horda Vanguardów poszukuje tradycji, struktury i porządku w społeczeństwie.  Ich zamek można znaleźć w bujnej zieleni wokół Guardstone.',
     el: 'Η ορχήστρα Bloodlust εκτιμά την ελευθερία και την πίστη προσφέρει ένα χώρο για ατομικισμό ή ακόμα και χάος. Οι άμυνές τους βρίσκονται σε μια ερημική περιοχή που ονομάζεται Headless Landing. ',
     bg: 'Ордата на Авангард търси традиция и ред в обществото. Замъкът им може да се намери в буйната зелена зона около Гардстоун.',
     cs: 'Vanguardská horda hledá tradici, strukturu a pořádek ve společnosti. Jejich hrad se nachází v bujné zelené oblasti kolem Guardstone.',
