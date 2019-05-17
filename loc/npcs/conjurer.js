@@ -1,6 +1,18 @@
 export default {
   interactions: [{
     text: {
+      en: '''And who might this be, you wonder. Another traveler? You stumble towards him, weary  from the long days of travel.
+             He doesn't greet you, but stares from behind the shadows of his hood. *Speak* you think to yourself,  dumbfounded.
+             A mute? Strange, his robes are ragged and dishevelled. He takes out a hand from his deep navy robe pockets and waves it at the air,
+             trailing his fingers in an intricate pattern. What is this? You've never seen a being like this before. Pale wispy shapes begin to appear in front of you,
+             leaving behind a pungent smell of sulfur. You glance at them in awe, and then at the peculiar robe-clad being in front of you. 
+             His hood casts an abyss of shadows onto his face, yet his eyes blaze bright with an emerald shine. Strange...
+             The shapes are now jagged letters, forming some words. You can barely make out what they say. "Where....wood"?
+             The mysterious fellow I seems to be impatient. He points at his freshly made work and stares at you with an angry flash in his lustrous eyes.
+             "Where would...you like... to go?"'''
+ 
+
+
       en: 'Ah, I see you traveler. Weary and famished you look. We conjurers, too, roam these fine lands. Would you like me to take you to one?',
       ru: 'А, вижу тебя путешественник. Ты выглядишь  уставшим и голодным . Мы, волшебники, тоже путешествуем по этим прекрасным землям. Хочешь, я отведу тебя к одному из нас?',
       fr: 'Bonjour, je peux faire apparaître un portail vers les autres conjurers. Où voudriez-vous aller?',
