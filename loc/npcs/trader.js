@@ -48,7 +48,7 @@ export default {
 
   header: {
     en: 'Sell your items',
-    pt: 'Venda os seus artigos', 
+    pt: 'Venda os seus artigos',
     it: 'Vendi i tuoi articoli',
     nl: 'Verkoop uw artikelen',
     pl: 'Sprzedawaj swoje rzeczy',
