@@ -113,7 +113,8 @@ export default {
   },
 
   receive: {
-    en: 'You have received $1'
+    en: 'You have received $1',
+    ru: 'Вы получили $1'
   },
 
   drop: {
