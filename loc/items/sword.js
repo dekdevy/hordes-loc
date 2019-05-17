@@ -351,6 +351,7 @@ export default [
     name       : {$$: 'Demonedge' },
     description: {
       en: 'A blade said to be broken in the past and forged anew by the fabled demons of these magnificent lands.',
+      de: 'Der die Klinge in der Vergangenheit gebrochen werden und von den sagenumwobenen Dämonen mag diese Länder geschmiedet aufs Neue.',
       ru: 'Поговаривают, этот клинок  был сломан в прошлом и создан вновь легендарными демонами этих  великолепных земель.',
       pt: 'Uma lâmina disse que foi quebrada no passado e forjada de novo pelos demónios lendários destas magníficas terras.',
       it: 'Una lama che si diceva essere rotta in passato e forgiata di nuovo dai demoni leggendari di queste magnifiche terre.',
