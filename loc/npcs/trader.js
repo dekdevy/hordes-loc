@@ -47,13 +47,7 @@ export default {
   }],
 
   header: {
-    en: 'Sell your items',
-    pt: 'Venda os seus artigos',
-    it: 'Vendi i tuoi articoli',
-    nl: 'Verkoop uw artikelen',
-    pl: 'Sprzedawaj swoje rzeczy',
-    fr: 'Vendez vos articles',
-    es: 'Vende tus artículos'
+    en: 'Sell your items'
   },
 
   info: { // TODO: this sentence needs to be improved
