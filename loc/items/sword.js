@@ -21,7 +21,8 @@ export default [
       ja: '名前はそれをすべて言います。破片の注意が必要です。',
       sv: 'Namnet säger allt. Var försiktig med splinterna.',
       ko: '이름은 그것을 모두 말한다. 파편을 조심하십시오.',
-      ro: 'Numele spune totul. Ai grijă la așchii.'
+      ro: 'Numele spune totul. Ai grijă la așchii.',
+      tr: 'Adı her şeyi söylüyor. Dikkatli olun yoksa bir kıymık alırsınız.'
     }
   },
 
@@ -46,7 +47,8 @@ export default [
       ja: '私の意見では鈍い木の部分よりもずっと良くはありません。',
       sv: 'Inte mycket bättre än ett trubbigt träslag enligt min åsikt.',
       ko: '내 의견으로는 뭉툭한 나무 조각보다 낫지 않습니다.',
-      ro: 'Nu cu mult mai bun decât o bucată de lemn tocit, în opinia mea.'
+      ro: 'Nu cu mult mai bun decât o bucată de lemn tocit, în opinia mea.',
+      tr: 'Bence künt bir ahşap parçasından çok daha iyi değil'
     }
   },
 
@@ -71,7 +73,8 @@ export default [
       ja: '私はいたずらですか？',
       sv: 'Blir jag lurad?',
       ko: '내가 장난하는거야?',
-      ro: 'Asta e o glumă?'
+      ro: 'Asta e o glumă?',
+      tr: 'Bana şaka mı yapıyorsun'
     }
   },
 
@@ -96,7 +99,8 @@ export default [
       ja: 'いくつかの騎士はこれを落としました。意図的ではないと思われます。',
       sv: 'En del riddare släppte detta. Förmodligen oavsiktligt.',
       ko: '어떤 기사가 이것을 떨어 뜨 렸습니다. 아마도 우연히.',
-      ro: 'Un cavaler a scăpat asta. Probabil neintenționat.'
+      ro: 'Un cavaler a scăpat asta. Probabil neintenționat.',
+      tr: 'Bir şövalye bunu düşürdü. Muhtemelen kasıtsız'
     }
   },
 
@@ -121,7 +125,8 @@ export default [
       ja: '長いです？はい。致命的？多分。ただ自分を切らないでください。',
       sv: 'Lång? Ja. Dödligt? Kanske. Skär inte dig själv.',
       ko: '긴? 예. 치명적인? 아마도. 그냥 자르지 마.',
-      ro: 'Lungă? Da. Mortală? Poate. Doar ai grijă să nu te tai.'
+      ro: 'Lungă? Da. Mortală? Poate. Doar ai grijă să nu te tai.',
+      tr: 'uzun? evet. ölümcül? belki. Sadece kendini kesme.' 
     }
   },
   { // T6 item
@@ -145,7 +150,8 @@ export default [
       ja: '古代の巨獣の骨から粗く彫られています。',
       sv: 'Bruten skuren från benen av en gammal behemoth.',
       ko: '고대 거물의 뼈에서 날카롭게 새겨 져있다.',
-      ro: 'Sculptată grosolan din oasele unui monstru behemoth.'
+      ro: 'Sculptată grosolan din oasele unui monstru behemoth.',
+      tr: 'Antik bir yaratığın kemiğinden dikkatsizce oyulmuş'
     }
   },
   { // T7 item
@@ -169,7 +175,8 @@ export default [
       ja: '刀はとても強力で、それを扱うことができる人はほとんどいない。そのかなり重いです。',
       sv: 'Ett svärd så mäktigt att få kan hantera det. Det är ganska tungt.',
       ko: '몇 명만이 그것을 처리 할 수있는 강력한 칼. 꽤 무거워.',
-      ro: 'O sabie atât de puternică încât puțini o pot mânui. E destul de grea.'
+      ro: 'O sabie atât de puternică încât puțini o pot mânui. E destul de grea.',
+      tr: 'O kadar güçlü bir kılıç ki, sadece birkaçı halledebilir. Oldukça ağır.'
     }
   },
   { // T8 item
@@ -193,7 +200,8 @@ export default [
       ja: '悪魔のような湾曲した刃。それを持っていてもあなたはその暗い本質を感じさせます。',
       sv: 'Djävulskt krökt blad. Även hålla det får dig att känna sin mörka kärna.',
       ko: '악마 모양의 곡선 칼날. 그것을 들고 있어도 당신은 어둠의 본질을 느낄 수 있습니다.',
-      ro: 'Lamă curbată diabolic. Doar ținând-o poți să-i simți esența întunecată.'
+      ro: 'Lamă curbată diabolic. Doar ținând-o poți să-i simți esența întunecată.',
+      tr: 'koyu kavisli bıçak. Karanlık özünü sadece tutarak hissedebilirsiniz.'
     }
   },
 
@@ -218,7 +226,8 @@ export default [
       ja: '燃えるようなホットエッジを備えた寒さに見えるブレード',
       sv: 'Ett kallt blad med en brinnande het kant',
       ko: '불타는 뜨거운 가장자리가있는 차가운 모양의 날',
-      ro: 'O lamă cu aspect rece și o margine ce arde fierbinte.'
+      ro: 'O lamă cu aspect rece și o margine ce arde fierbinte.',
+      tr: 'Yanan sıcak kenarlı soğuk görünümlü bir bıçak'
     }
   },
 
@@ -243,7 +252,8 @@ export default [
       ja: '最も熟練した騎士だけが装備した刀身。',
       sv: 'Ett blad som varar av endast de mest skickliga riddarna.',
       ko: '가장 숙련 된 기사들만이 휘두르는 칼날.',
-      ro: 'O lamă mânuită doar de cei mai pricepuți cavaleri.'
+      ro: 'O lamă mânuită doar de cei mai pricepuți cavaleri.',
+      tr: 'Sadece en yetenekli şövalyeler tarafından kullanılan bir bıçak.'
     }
   },
 
@@ -268,7 +278,8 @@ export default [
       ja: '古代の王から盗まれた円筒形の刀。切断能力は疑問です。',
       sv: 'Cylindriskt svärd stulet från en gammal kung. Klippkapacitet är ifrågasättande.',
       ko: '고대의 왕이 원통형 칼을 훔쳤다. 절단 능력에 의문의 여지가 있습니다.',
-      ro: 'Sabie cilindrică furată de la un rege antic. Capabilitatea de tăiere este discutabilă.'
+      ro: 'Sabie cilindrică furată de la un rege antic. Capabilitatea de tăiere este discutabilă.',
+      tr: 'Eski bir kraldan çalınan silindirik kılıç. Bu kılıcın yeteneği belirsiz.'
     }
   },
 
@@ -293,7 +304,8 @@ export default [
       ja: '強力な傑作は、暗黒街の窮地からもたらされました。',
       sv: 'Kraftfullt mästerverk som tagits från underjordens avgrundar.',
       ko: '지하 세계의 무덤에서 가져온 강력한 걸작.',
-      ro: 'O capodoperă puternică adusă din abisurile lumii de dincolo.'
+      ro: 'O capodoperă puternică adusă din abisurile lumii de dincolo.',
+      tr: 'Yeraltı dünyasının uçurumlarından getirilen güçlü başyapıt'
     }
   },
 
@@ -318,7 +330,8 @@ export default [
       ja: '不思議なピンクの刀彫刻は「MächtigZerstörer」と言います。',
       sv: 'Mystiskt rosa svärd. Graveringar säger "Mächtig Zerstörer".',
       ko: '신비한 핑크색 칼. 조각은 "Mächtig Zerstörer""라고합니다.',
-      ro: 'Misterioasa sabie roz. Gravurile spun "Mächtig Zerstorer".'
+      ro: 'Misterioasa sabie roz. Gravurile spun "Mächtig Zerstorer".',
+      tr: 'Gizemli pembe kılıç. Kazınmış kelimeler "Mächtig Zerstörer.'
     }
   },
 
@@ -343,7 +356,8 @@ export default [
       ja: 'それは心臓を鼓動させるあなたの敵の厚い筋肉にその道を突入するにつれて生きている組織を貪ります。',
       sv: 'Förhinder levande vävnad som det pungar sig in i den tjocka muskeln av dina fiender som slår hjärta.',
       ko: '심장을 때리는 적의 두꺼운 근육 속으로 빠져들면서 조직을 파괴합니다.',
-      ro: 'Devorează țesutul viu în timp ce-și face loc în mușchiul gros al inimii bătânde a dușmanilor tăi.'
+      ro: 'Devorează țesutul viu în timp ce-și face loc în mușchiul gros al inimii bătânde a dușmanilor tăi.',
+      tr: 'Kılıç düşmanın kalbine girerken dokuları yok eder'
     }
   },
 
@@ -368,7 +382,8 @@ export default [
       ja: 'それは悪魔をカットすることができますが、天使はカットできません。',
       sv: 'Det kan klippa demoner, men inte änglar.',
       ko: '악마를 잘라 낼 수는 있지만 천사는자를 수 없습니다.',
-      ro: 'Poate tăia demoni, dar nu și îngeri.'
+      ro: 'Poate tăia demoni, dar nu și îngeri.',
+      tr: 'İblisleri kesebilir, ama melekler değil'
     }
   },
 
@@ -393,7 +408,8 @@ export default [
       ja: 'それは石から引き出されたと言われました。それでも、その石を見つけることはできません。',
       sv: 'Vi fick höra att det drogs från sten. Fortfarande kan inte hitta stenen.',
       ko: '우리는 돌에서 꺼냈다 고 들었다. 아직도 돌을 찾을 수 없습니다.',
-      ro: 'Ni s-a spus că a fost scoasă din piatră. Piatra încă nu a fost găsită.'
+      ro: 'Ni s-a spus că a fost scoasă din piatră. Piatra încă nu a fost găsită.'.
+      tr: 'Bu kılıcın bir taştan çekildiği söylendi, ama taşı bulamıyoruz.'
     }
   },
 
@@ -418,7 +434,8 @@ export default [
       ja: 'この武器は新しい時代の到来をもたらします。',
       sv: 'Detta vapen ger upphov till en ny ålder.',
       ko: '이 무기는 새로운 시대를 열어줍니다.',
-      ro: 'Această armă aduce începutul unei noi ere.'
+      ro: 'Această armă aduce începutul unei noi ere.',
+      tr: 'Bu silah yeni bir çağın şafağını getiriyor'
     }
   }
 
