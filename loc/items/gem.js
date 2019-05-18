@@ -265,7 +265,7 @@ export default [
       ru: 'Яркий зеленый свет иногда проливается из этого стеклянного камня, бросая проекции будущего для его владельца.',
       es: 'Las luces verdes vivo extienden a veces fuera de esta gema de cristal, proyecciones de fundición del futuro de los usuarios.',
       de: 'Strahlend grüne Lichter ragen gelegentlich aus diesem Glasjuwel heraus und werfen Projektionen der Zukunft der Träger hervor.',
-      fr: 'De brillantes lumières vertes s\'étendent parfois à l\'extérieur de ce joyau de verre, montrant les projections de l\'avenir de ceux qui le portent.,
+      fr: 'De brillantes lumières vertes s\'étendent parfois à l\'extérieur de ce joyau de verre, montrant les projections de l\'avenir de ceux qui le portent.',
       el: 'Φωτεινά πράσινα φώτα περιστασιακά εκτείνονται από αυτό το γυάλινο κόσμημα χυτεύοντας προβολές του μέλλοντος των χρηστών.',
       bg: 'Ярко зелени светлини понякога се разпростират от прожекциите за оцветяване на бъдещето на носителите.',
       tl: 'Ang mga maliliwanag na berdeng ilaw ay paminsan-minsang lumalabas sa mga ito sa pag-iimbak ng salamin na ito ng mga projection ng mga nagsuot ng hinaharap',
