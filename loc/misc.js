@@ -1,5 +1,29 @@
 export default [
   {
+    name: {$$: 'Ancient Manuscript'},
+
+    description: {
+      en: 'Old parchment with yellowed edges and folded corners, decorated with unfamiliar hieroglyphs and grim paintings.'
+    }
+  },
+
+  {
+    name: {$$: 'Pirate\'s Eyepatch'},
+
+    description: {
+      en: 'Black leather eyepatch stinking of tobacco and rum.'
+    }
+  },
+
+  {
+    name: {$$: 'Bear Claw'},
+
+    description: {
+      en: 'Grizzly claw of a large bear killed some time ago'
+    }
+  }
+
+  {
     name: {$$: 'Boar Hide'},
 
     description: {
