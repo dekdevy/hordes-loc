@@ -32,7 +32,7 @@ export default [
       ru: 'Подошвы сделанные из ткани, вероятно, порвутся через несколько часов.',
       de: 'Sohlen aus Stoff, werden wahrscheinlich nach ein paar Stunden reißen.',
       es: 'OI. Estos son calcetines. ¡Dame mis chanclas!',
-      fr: 'Les semelles en tissu se déchirent probablement au bout de quelques heures.',
+      fr: 'Des semelles en tissu, elles se déchireront probablement au bout de quelques heures.',
       it: 'Suole fatte di stoffa, probabilmente si strappano dopo qualche ora.',
       pt: 'Solas feitas de tecido, provavelmente rasgarão depois de algumas horas.',
       nl: 'Zolen van doek, zullen waarschijnlijk na een paar uur scheuren.',
