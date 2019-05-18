@@ -84,7 +84,7 @@ export default [
       ru: 'Очевидно, у создателя не хватает воображения, ведь он сделал сапоги из костей очень крупного существа ...',
       de: 'Offensichtlich phantasielos, machte der Hersteller Stiefel aus den Knochen einer sehr großen Kreatur...',
       es: 'Claramente sin imaginación, el zapatero uso los huesos de una criatura grande...',
-      fr: 'Manquant clairement d\'imagination, le fabricant a fabriqué des bottes à partir des os d\'une très grande créature....',
+      fr: 'Manquant clairement d\'imagination, le confectionné a fabriqué des bottes à partir des os d\'une très grande créature....',
       it: 'Chiaramente privo di immaginazione, l\'autore ha realizzato stivali dalle ossa di una creatura molto grande...',
       pt: 'Claramente sem imaginação, o fabricante fez botas a partir dos ossos de uma criatura muito grande...',
       nl: 'Duidelijk niet verbeeldingsvol, de maker maakte laarzen van de botten van een zeer groot wezen....',
