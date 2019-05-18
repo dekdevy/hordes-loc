@@ -23,7 +23,7 @@ export default [
       en: 'Monstrous claw of a large bear killed some time ago.',
       ru: 'Чудовищный коготь большого медведя, убитого некоторое время назад.'
     }
-  }
+  },
 
   {
     name: {$$: 'Boar Hide'},
