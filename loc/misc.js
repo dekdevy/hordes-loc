@@ -1,6 +1,6 @@
 export default [
   {
-    name: {$$: 'Boar Hide' },
+    name: {$$: 'Boar Hide'},
 
     description: {
       en: 'Thick furry leather making you pant as you drag it behind you.',
@@ -44,7 +44,7 @@ export default [
   },
 
   {
-    name: {$$: 'Ogre\'s Eye' },
+    name: {$$: 'Ogre\'s Eye'},
 
     description: {
       en: 'Sticky eyeball smelling of swampland.',
@@ -66,7 +66,7 @@ export default [
   },
 
   {
-    name: {$$: 'Broken Crown' },
+    name: {$$: 'Broken Crown'},
 
     description: {
       en: 'A mighty bejeweled crown belonging to the ancient kings of these lands.',
@@ -88,7 +88,7 @@ export default [
   },
 
   {
-    name: {$$: 'Wispy Reagent' },
+    name: {$$: 'Wispy Reagent'},
 
     description: {
       en: 'Deep dark purple wisp taken from the cursed soul of a malevolent phantom.',
@@ -110,7 +110,7 @@ export default [
   },
 
   {
-    name: {$$: 'Iron Spearhead' },
+    name: {$$: 'Iron Spearhead'},
 
     description: {
       en: 'Serrated and rusty, you wonder if it\'s any good as a weapon.',
@@ -132,7 +132,7 @@ export default [
   },
 
   {
-    name: {$$: 'Goose Feather' },
+    name: {$$: 'Goose Feather'},
 
     description: {
       en: 'Beware of the feral goose. It doesn\'t like pokes.',
@@ -153,7 +153,7 @@ export default [
   },
 
   {
-    name: {$$: 'Elegant Bowstring' },
+    name: {$$: 'Elegant Bowstring'},
 
     description: {
       en: 'Powerful silky string worth more than all your gear.',
@@ -174,7 +174,7 @@ export default [
   },
 
   {
-    name: {$$: 'Wolf Fang' },
+    name: {$$: 'Wolf Fang'},
 
     description: {
       en: 'Sharp and white... you cut yourself already.',
@@ -195,7 +195,7 @@ export default [
   },
 
   {
-    name: {$$: 'Sticky Slime' },
+    name: {$$: 'Sticky Slime'},
 
     description: {
       en: 'Thick slop, taken from God knows where.',
@@ -216,7 +216,7 @@ export default [
   },
 
   {
-    name: {$$: 'Golden Leaf' },
+    name: {$$: 'Golden Leaf'},
 
     description: {
       en: 'Finely engraved leaf of gold representing high royalty.',
@@ -237,7 +237,7 @@ export default [
   },
 
   {
-    name: {$$: 'Rabbit\'s Foot' },
+    name: {$$: 'Rabbit\'s Foot'},
 
     description: {
       en: 'The classic ingredient to a witch\'s broth.',
@@ -258,7 +258,7 @@ export default [
   },
 
   {
-    name: {$$: 'Chewed Bone' },
+    name: {$$: 'Chewed Bone'},
 
     description: {
       en: 'Splinters of bone and marrow glued together with stale saliva.',
@@ -279,7 +279,7 @@ export default [
   },
 
   {
-    name: {$$: 'Wooden Bowl' },
+    name: {$$: 'Wooden Bowl'},
 
     description: {
       en: 'Small chipped stew bowl. Careful, it\'s flammable.',
@@ -300,7 +300,7 @@ export default [
   },
 
   {
-    name: {$$: 'Golden Eyepiece' },
+    name: {$$: 'Golden Eyepiece'},
 
     description: {
       en: 'Mages always want to seem wise, perhaps they too made this mystical and elegant eyepiece.',
@@ -321,7 +321,7 @@ export default [
   },
 
   {
-    name: {$$: 'Cactus Spike' },
+    name: {$$: 'Cactus Spike'},
 
     description: {
       en: 'Ouch, sharp.',
@@ -343,7 +343,7 @@ export default [
   },
 
   {
-    name: {$$: 'Fine Sand' },
+    name: {$$: 'Fine Sand'},
 
     description: {
       en: 'A small pile of extremely fine sand. Where do you put this...',
@@ -365,7 +365,7 @@ export default [
   },
 
   {
-    name: {$$: 'Lich Hair' },
+    name: {$$: 'Lich Hair'},
 
     description: {
       en: 'A tuft of putrid matted hair. It was a tough battle to get hold of this.',
@@ -387,7 +387,7 @@ export default [
   },
 
   {
-    name: {$$: ' Pulpous Maggot' },
+    name: {$$: ' Pulpous Maggot'},
 
     description: {
       en: 'Disgusting larvae of an unknown insect. Hopefully a small one...',
@@ -409,7 +409,7 @@ export default [
   },
 
   {
-    name: {$$: 'Obsidian Shard' },
+    name: {$$: 'Obsidian Shard'},
 
     description: {
       en: 'Strange triangular fragment of obsidian. Perhaps it\'s part of a larger structure...',
@@ -431,7 +431,7 @@ export default [
   },
 
   {
-    name: {$$: 'Frozen Teardrop' },
+    name: {$$: 'Frozen Teardrop'},
 
     description: {
       en: 'Mesmerising crystalline droplet refracting the sun\'s rays and intricately casting tiny balls of light onto you as you hold it up to the sun.',
@@ -453,7 +453,7 @@ export default [
   },
 
   {
-    name: {$$: 'Darkmetal Arrowhead' },
+    name: {$$: 'Darkmetal Arrowhead'},
 
     description: {
       en: 'Sharp gothic arrowhead, made from a mystical metal which seeps fear into your bones.',
@@ -474,7 +474,7 @@ export default [
     }
   },
   {
-    name: {$$: 'Gunpowder' },
+    name: {$$: 'Gunpowder'},
 
     description: {
       en: 'Throw some into a campfire and you\'re in for a nasty explosive surprise.',
@@ -496,7 +496,7 @@ export default [
   },
 
   {
-    name: {$$: 'Kindling' },
+    name: {$$: 'Kindling'},
 
     description: {
       en: 'Thin dry twigs, will burn nicely in a campfire.',
@@ -518,7 +518,7 @@ export default [
   },
 
   {
-    name: {$$: 'Pale Snakeskin' },
+    name: {$$: 'Pale Snakeskin'},
 
     description: {
       en: 'The shed leathery skin from an albino python slithering its way through the forests of these valleys.',
