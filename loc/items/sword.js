@@ -126,7 +126,7 @@ export default [
       sv: 'Lång? Ja. Dödligt? Kanske. Skär inte dig själv.',
       ko: '긴? 예. 치명적인? 아마도. 그냥 자르지 마.',
       ro: 'Lungă? Da. Mortală? Poate. Doar ai grijă să nu te tai.',
-      tr: 'uzun? evet. ölümcül? belki. Sadece kendini kesme.' 
+      tr: 'Uzun? evet. ölümcül? belki. Sadece kendini kesme.'
     }
   },
   {
