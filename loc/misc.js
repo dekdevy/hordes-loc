@@ -9,7 +9,7 @@ export default [
       it: 'Vecchia pergamena con bordi gialli e angoli ripiegati, decorata con geroglifici sconosciuti e quadri cupi.',
       nl: 'Oud perkament met vergeelde randen en gevouwen hoeken, versierd met onbekende hiërogliefen en grimmige schilderijen.',
       pl: 'Stary pergamin o żółtych krawędziach i złożonych narożnikach, ozdobiony nieznanymi hieroglifami i ponurymi obrazami.',
-      fr: 'Ancien parchemin aux bords jaunis et aux coins pliés, décoré de hiéroglyphes inconnus et de sombres peintures.',
+      fr: 'Ancien parchemin aux bords jaunis et aux coins pliés, décoré de hiéroglyphes inconnus et de sombres peintures.'
     }
   },
 
@@ -22,7 +22,7 @@ export default [
       it: 'Occhio di pelle nera che puzza di tabacco e rum.',
       nl: 'Zwart lederen oculair dat stinkt naar tabak en rum.',
       pl: 'Czarny skórzany okular śmierdzący tytoniem i rumem.',
-      fr: 'Eyeepatch en cuir noir puant le tabac et le rhum.',
+      fr: 'Eyeepatch en cuir noir puant le tabac et le rhum.'
     }
   },
 
