@@ -100,7 +100,7 @@ export default [
       sv: 'En del riddare släppte detta. Förmodligen oavsiktligt.',
       ko: '어떤 기사가 이것을 떨어 뜨 렸습니다. 아마도 우연히.',
       ro: 'Un cavaler a scăpat asta. Probabil neintenționat.',
-      tr: 'Bir şövalye bunu düşürdü. Muhtemelen kasıtsız'
+      tr: 'Bir şövalye bunu düşürdü. Muhtemelen kasıtsız.'
     }
   },
 
