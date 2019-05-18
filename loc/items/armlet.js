@@ -136,7 +136,7 @@ export default [
       en: 'Dull metal bracer, handy for nighttime raiding.',
       ru: 'Тусклый металлический браслет, удобный для ночных рейдов.',
       es: 'Perfecto para correr en la noche, el color del metal está apagado.',
-      fr: 'Terne métal remontant, maniable pour les raids nocturnes',
+      fr: 'Brassard en métal terne, idéal pour les raids nocturnes.',
       de: 'Matte Metallarmschiene, praktisch für nächtliche Raubzüge.',
       pt: 'Braçadeira de metal aborrecida, útil para raides nocturnos.',
       ko: '무딘 금속 브레이 서, 야간의 습격에 편리합니다.',
