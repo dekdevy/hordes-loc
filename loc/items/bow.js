@@ -5,7 +5,7 @@ export default [
     description: {
       en: 'Almost lightweight. You can probably find something better around.',
       ru: 'Легкий лук. Скорее всего, вы сможете найти что-то получше .',
-      fr: 'Un vrai poid plume. Il y en à sûrement de meilleurs dans le coin.',
+      fr: 'Un vrai poids plume. Il y en à sûrement de meilleurs dans le coin.',
       de: 'Fast leicht. Du kannst wahrscheinlich etwas Besseres finden.',
       es: 'Casi ligero. Probablemente puedas encontrar algo mejor por aquí.',
       pt: 'Quase leve. Você pode provavelmente encontrar algo melhor ao redor.',
