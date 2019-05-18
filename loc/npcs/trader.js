@@ -55,6 +55,6 @@ export default {
   },
 
   price: { // TODO: maybe a better wording can be chosen here
-    en: 'Sale price:'
+    en: 'Selling price:'
   }
 }
