@@ -34,7 +34,7 @@ export default {
     pt: 'O papel dos xamãs é apoiar o grupo, curando o Tanque e oferecendo Buffs ofensivos ou Debuffs incapacitantes.',
     nl: 'De rol van de Sjamaan is om de groep te steunen door de Tank te helen en aanvallende Buffs of verlammende Debuffs aan te bieden.',
     tr: 'Şamanın rolü, Tankı iyileştirerek ve saldırgan Bufflar veya sakatlayan Debufflar sunarak grubu desteklemektir.',
-    hi: 'शमन की भूमिका टैंक का उपचार करके और आक्रामक बफ़रों की पेशकश करके या लक्ष्य की क्षमताओं के प्रभाव को कम करके समूह का समर्थन करना है।',
+    hi: 'शमन की भूमिका टैंक का उपचार करके और आक्रामक बफ़रों की पेशकश करके या लक्ष्य की क्षमताओं के प्रभाव को कम करके समूह का समर्थन करना है।.',
     it: 'Il ruolo dello sciamano è di sostenere il gruppo curando il carro armato e offrendo buff offensive o debuff paralizzanti.',
     ht: 'Wòl Chaman an se pou sipòte gwoup la pou geri tank la epi ofri ofwi ofansif oswa debouche kap kwape.',
     tl: 'Ang papel ng Shamans ay upang suportahan ang grupo sa pamamagitan ng pagpapagaling sa Tank at nag-aalok ng nakakasakit Buffs o balduhin Debuffs.',
