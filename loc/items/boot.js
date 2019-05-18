@@ -214,7 +214,7 @@ export default [
       ru: 'Беги быстро, как ветер... ну почти.',
       de: 'Laufen Sie so schnell wie der Wind... oder in der Nähe davon.',
       es: 'Con estos zapatos puedes ver el viento y llevarlo contigo.',
-      fr: 'Courir aussi vite que le vent... ou près de lui.',
+      fr: 'Courir aussi vite que le vent... ou presque.',
       it: 'Corri veloce come il vento... o vicino ad esso',
       pt: 'Corra tão rápido como o vento... ou perto dele.',
       nl: 'Ren zo snel als de wind.... of dichtbij.',
