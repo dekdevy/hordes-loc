@@ -4,7 +4,7 @@ export default [
 
     description: {
       en: 'Old parchment with yellowed edges and folded corners, decorated with unfamiliar hieroglyphs and grim paintings.',
-      ru: 'Старый рукопись с пожелтевшими краями и загнутыми углами, украшенный незнакомыми иероглифами и мрачными рисунками.',
+      ru: 'Старая рукопись с пожелтевшими краями и загнутыми углами украшена незнакомыми иероглифами и мрачными рисунками.',
       pt: 'Velho pergaminho com bordas amareladas e cantos dobrados, decorado com hieróglifos desconhecidos e pinturas sombrias.',
       it: 'Vecchia pergamena con bordi gialli e angoli ripiegati, decorata con geroglifici sconosciuti e quadri cupi.',
       nl: 'Oud perkament met vergeelde randen en gevouwen hoeken, versierd met onbekende hiërogliefen en grimmige schilderijen.',
@@ -19,6 +19,7 @@ export default [
 
     description: {
       en: 'Black leather eyepatch stinking of tobacco and rum.',
+      ru: 'Черная кожаная глазная повязка воняющая тобаком и ромом',
       pt: 'Olhal de couro preto fedendo a tabaco e rum.',
       it: 'Occhio di pelle nera che puzza di tabacco e rum.',
       nl: 'Zwart lederen oculair dat stinkt naar tabak en rum.',
