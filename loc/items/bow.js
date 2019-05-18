@@ -161,7 +161,7 @@ export default [
     description: {
       en: 'An expert bow of an elegant race.',
       ru: 'Искусный лук изящный расы',
-      fr: 'Un arc d\'expert venant d'une race élégante.',
+      fr: 'Un arc d\'expert venant d\'une race élégante.',
       de: 'Ein erfahrener Bogen eines eleganten Rennens.',
       es: 'Una reverencia experta de una raza olvidada.',
       pt: 'Um arco perito de uma raça elegante.',
