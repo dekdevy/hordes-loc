@@ -7,7 +7,7 @@ export default [
       hi: 'यह पहले से ही आधा टूट गया है और आप अभी भी इसे प्रयोग कर रहे हैं?',
       es: '¿Ya está medio roto y todavía lo estás usando?',
       de: 'Es ist bereits halb gebrochen und du benutzt es immer noch?',
-      fr: 'Il est déjà à moitié cassé et vous l\'utilisez toujours ?',
+      fr: 'Il est déjà à moitié cassé et vous l\'utilisez toujours?',
       pt: 'Já está meio partido e ainda estás a usá-lo?',
       nl: 'Het is al voor de helft gebroken en je gebruikt het nog steeds?',
       pl: 'Jest już w połowie zepsuty, a ty nadal go używasz?',
