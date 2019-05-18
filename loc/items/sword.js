@@ -48,7 +48,7 @@ export default [
       sv: 'Inte mycket bättre än ett trubbigt träslag enligt min åsikt.',
       ko: '내 의견으로는 뭉툭한 나무 조각보다 낫지 않습니다.',
       ro: 'Nu cu mult mai bun decât o bucată de lemn tocit, în opinia mea.',
-      tr: 'Bence künt bir ahşap parçasından çok daha iyi değil'
+      tr: 'Bence künt bir ahşap parçasından çok daha iyi değil.'
     }
   },
 
@@ -331,7 +331,7 @@ export default [
       sv: 'Mystiskt rosa svärd. Graveringar säger "Mächtig Zerstörer".',
       ko: '신비한 핑크색 칼. 조각은 "Mächtig Zerstörer""라고합니다.',
       ro: 'Misterioasa sabie roz. Gravurile spun "Mächtig Zerstorer".',
-      tr: 'Gizemli pembe kılıç. Kazınmış kelimeler "Mächtig Zerstörer.'
+      tr: 'Gizemli pembe kılıç. Kazınmış kelimeler "Mächtig Zerstörer".'
     }
   },
 
