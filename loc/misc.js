@@ -20,7 +20,8 @@ export default [
     name: {$$: 'Bear Claw'},
 
     description: {
-      en: 'Grizzly claw of a large bear killed some time ago'
+      en: 'Monstrous claw of a large bear killed some time ago.',
+      ru: 'Чудовищный коготь большого медведя, убитого некоторое время назад.'
     }
   }
 
