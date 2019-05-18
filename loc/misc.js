@@ -9,7 +9,8 @@ export default [
       it: 'Vecchia pergamena con bordi gialli e angoli ripiegati, decorata con geroglifici sconosciuti e quadri cupi.',
       nl: 'Oud perkament met vergeelde randen en gevouwen hoeken, versierd met onbekende hiërogliefen en grimmige schilderijen.',
       pl: 'Stary pergamin o żółtych krawędziach i złożonych narożnikach, ozdobiony nieznanymi hieroglifami i ponurymi obrazami.',
-      fr: 'Ancien parchemin aux bords jaunis et aux coins pliés, décoré de hiéroglyphes inconnus et de sombres peintures.'
+      fr: 'Ancien parchemin aux bords jaunis et aux coins pliés, décoré de hiéroglyphes inconnus et de sombres peintures.',
+      es: 'Hoja de pergamino envejecida con bordes amarillentos y esquinas dobladas, decorada con símbolos extraños y pinturas oscuras.'
     }
   },
 
@@ -22,7 +23,8 @@ export default [
       it: 'Occhio di pelle nera che puzza di tabacco e rum.',
       nl: 'Zwart lederen oculair dat stinkt naar tabak en rum.',
       pl: 'Czarny skórzany okular śmierdzący tytoniem i rumem.',
-      fr: 'Eyeepatch en cuir noir puant le tabac et le rhum.'
+      fr: 'Eyeepatch en cuir noir puant le tabac et le rhum.',
+      es: 'Un parche de cuero negro apesta a tabaco y ron.'
     }
   },
 
@@ -36,7 +38,8 @@ export default [
       it: 'Il mostruoso artiglio di un grande orso ucciso qualche tempo fa.',
       nl: 'Monsterlijke klauw van een grote beer die enige tijd geleden is gedood.',
       pl: 'Potworny szpon dużego niedźwiedzia zabity jakiś czas temu.',
-      fr: 'Monstrueuse griffe d\'un gros ours tué il y a quelque temps.'
+      fr: 'Monstrueuse griffe d\'un gros ours tué il y a quelque temps.',
+      es: 'Una garra monstruosa de un oso enorme que murió hace bastante tiempo.'
     }
   },
 
