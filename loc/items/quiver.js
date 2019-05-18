@@ -6,7 +6,7 @@ export default [
       ru: 'Мягкий, дырявый. Стрелы постоянно выпадают.',
       de: 'Weich, voller Löcher. Pfeile fallen immer wieder heraus.',
       es: 'Si, los calcetines también pueden ser una aljaba.',
-      fr: 'Un carquois en linge dont les flèches n\'arrêtent pas de tomber.',
+      fr: 'Un carquois plein de trouvs dont les flèches n\'arrêtent pas de tomber.',
       it: 'Morbido, pieno di buchi. Le frecce continuano a cadere.',
       pt: 'Suave, cheio de buracos. As setas continuam caindo.',
       tl: 'Malambot na puno ng mga butas. Ang mga arrow ay patuloy na bumagsak.',
