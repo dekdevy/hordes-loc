@@ -1,11 +1,11 @@
 export default {
   interactions: [{
     text: {
-      en: 'A sinister conjurer stands alone. His robes are ragged and dishevelled.\
+      en: 'A sinister conjurer stands alone. His dark robes are ragged and dishevelled.\
            He takes out a hand from his deep navy robe pockets and waves it at the air,\
            trailing his fingers in an intricate pattern. Pale wispy shapes begin to appear,\
            leaving behind a pungent smell of sulfur.\
-           His hood casts an abyss of shadows onto his face, yet his eyes blaze bright with an emerald shine.\
+           His hood casts an abyss of shadows onto his face, yet his eyes blaze bright with an fiery shine.\
            The shapes are now jagged letters, forming some words, barely distinguishable.\
            The mysterious being points at his freshly made work with an angry flash in his lustrous eyes.\
            "Where would...you like... to go?'
