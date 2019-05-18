@@ -188,7 +188,7 @@ export default [
       ru: 'Состоят из блочных кусков, наверное, очень неудобные.',
       de: 'Grob in seinem Aussehen, wahrscheinlich sehr unangenehm.',
       es: 'Macizo y fornido, prbablamente incómodo.',
-      fr: 'Block comme dans son design, probablement très inconfortable.',
+      fr: 'Son design semble grossier, probablement très inconfortable.',
       it: 'Chunky nel suo aspetto, probabilmente molto scomodo.',
       pt: 'Aparentemente volumoso, provavelmente muito desconfortável.',
       nl: 'Mollig in zijn uiterlijk, waarschijnlijk erg ongemakkelijk.',
