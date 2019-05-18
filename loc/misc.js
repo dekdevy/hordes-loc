@@ -4,7 +4,12 @@ export default [
 
     description: {
       en: 'Old parchment with yellowed edges and folded corners, decorated with unfamiliar hieroglyphs and grim paintings.',
-      ru: 'Старый рукопись с пожелтевшими краями и загнутыми углами, украшенный незнакомыми иероглифами и мрачными рисунками.'
+      ru: 'Старый рукопись с пожелтевшими краями и загнутыми углами, украшенный незнакомыми иероглифами и мрачными рисунками.',
+      pt: 'Velho pergaminho com bordas amareladas e cantos dobrados, decorado com hieróglifos desconhecidos e pinturas sombrias.',
+      it: 'Vecchia pergamena con bordi gialli e angoli ripiegati, decorata con geroglifici sconosciuti e quadri cupi.',
+      nl: 'Oud perkament met vergeelde randen en gevouwen hoeken, versierd met onbekende hiërogliefen en grimmige schilderijen.',
+      pl: 'Stary pergamin o żółtych krawędziach i złożonych narożnikach, ozdobiony nieznanymi hieroglifami i ponurymi obrazami.',
+      fr: 'Ancien parchemin aux bords jaunis et aux coins pliés, décoré de hiéroglyphes inconnus et de sombres peintures.'
     }
   },
 
@@ -12,7 +17,12 @@ export default [
     name: {$$: 'Pirate\'s Eyepatch'},
 
     description: {
-      en: 'Black leather eyepatch stinking of tobacco and rum.'
+      en: 'Black leather eyepatch stinking of tobacco and rum.',
+      pt: 'Olhal de couro preto fedendo a tabaco e rum.',
+      it: 'Occhio di pelle nera che puzza di tabacco e rum.',
+      nl: 'Zwart lederen oculair dat stinkt naar tabak en rum.',
+      pl: 'Czarny skórzany okular śmierdzący tytoniem i rumem.',
+      fr: 'Eyeepatch en cuir noir puant le tabac et le rhum.'
     }
   },
 
@@ -21,7 +31,12 @@ export default [
 
     description: {
       en: 'Monstrous claw of a large bear killed some time ago.',
-      ru: 'Чудовищный коготь большого медведя, убитого некоторое время назад.'
+      ru: 'Чудовищный коготь большого медведя, убитого некоторое время назад.',
+      pt: 'Uma garra monstruosa de um grande urso morto há algum tempo.',
+      it: 'Il mostruoso artiglio di un grande orso ucciso qualche tempo fa.',
+      nl: 'Monsterlijke klauw van een grote beer die enige tijd geleden is gedood.',
+      pl: 'Potworny szpon dużego niedźwiedzia zabity jakiś czas temu.',
+      fr: 'Monstrueuse griffe d\'un gros ours tué il y a quelque temps.'
     }
   },
 
