@@ -61,7 +61,7 @@ export default [
       nl: 'Het is zo gebogen dat het elk moment kan breken.',
       ro: 'A fost curbat atât de tare încât ar putea să cedeze în orice clipă.',
       pt: 'Este arco é curvado a tal ponto que provavelmente se partirá a qualquer momento.',
-      fr: 'Cet arc est courbé à un point tel qu\'il va probablement se briser à tout moment.',
+      fr: 'Cet arc est tellement courbé qu\'il pourrait se briser à tout moment.',
       de: 'Dieser Bogen ist so stark gebogen, dass er wahrscheinlich jeden Moment einrasten wird. ',
       es: 'Este arco está curvado hasta tal punto que probablemente se romperá en cualquier momento.',
       pl: 'Ten łuk jest zakrzywiony do tego stopnia, że prawdopodobnie w każdej chwili pęknie.',
@@ -83,7 +83,7 @@ export default [
     description: {
       en: 'Whoever left this on the ground probably didn\'t meet a nice end.',
       ru: 'Тот кто оставил его на земле, вероятно, встретил не хороший конец',
-      fr: 'Quiconque a échappé ceci par terre n\'a sûrement pas rencontré une fin heureuse.',
+      fr: 'Quiconque a laissé cet arc par terre n'a sûrement pas eu droit à une fin heureuse.',
       de: 'Wer das auf dem Boden gelassen hat, hat wahrscheinlich kein schönes Ende gefunden.',
       es: 'Quienquiera que haya dejado esto en el suelo probablemente no tuvo un buen final.',
       pt: 'Quem quer que tenha deixado isto no chão, provavelmente não teve um final agradável.',
