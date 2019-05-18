@@ -3,7 +3,8 @@ export default [
     name: {$$: 'Ancient Manuscript'},
 
     description: {
-      en: 'Old parchment with yellowed edges and folded corners, decorated with unfamiliar hieroglyphs and grim paintings.'
+      en: 'Old parchment with yellowed edges and folded corners, decorated with unfamiliar hieroglyphs and grim paintings.',
+      ru: 'Старый рукопись с пожелтевшими краями и загнутыми углами, украшенный незнакомыми иероглифами и мрачными рисунками.'
     }
   },
 
