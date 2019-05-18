@@ -51,7 +51,7 @@ export default {
   },
 
   info: { // TODO: this sentence needs to be improved
-    en: 'To sell an item, right or drag it into the trader window.'
+    en: 'To sell an item, right click it or drag it into the trader window.'
   },
 
   price: { // TODO: maybe a better wording can be chosen here
