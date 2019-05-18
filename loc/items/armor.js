@@ -189,7 +189,7 @@ export default [
       ru: 'Выкованный неизвестными магами, вы носите глубокий, темный и мощный нагрудник.',
       es: 'Forjado por magos desconocidos, llevas una placa de pecho profunda, oscura y poderosa.',
       de: 'Geschmiedet von unbekannten Magiern, trägst du einen tiefen, dunklen und kraftvollen Brustschild.',
-      fr: 'Forgé par des magiciens inconnus, vous portez un plastron d'un métal profond, sombre et puissant.',
+      fr: 'Forgé par des magiciens inconnus, vous portez un plastron d\'un métal profond, sombre et puissant.',
       pt: 'Forjado por mágicos desconhecidos, você usa uma couraça profunda, escura e poderosa.',
       nl: 'Gesmeed door onbekende tovenaars, draag je een diep, donker en krachtig borstplaatje.',
       hi: 'अज्ञात जादूगर द्वारा जाली, आप एक गहरी अंधेरे और शक्तिशाली chestplate पहनते हैं।',
