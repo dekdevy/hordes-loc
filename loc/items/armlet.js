@@ -32,7 +32,7 @@ export default [
       en: 'Skilled hands made an intricate job at making this homemade cuff.',
       ru: 'Опытные руки сделали сложную работу по изготовлению этих самодельных наручников',
       es: 'Pulsera avanzada de cuero.',
-      fr: 'Un peu plus avancé, pas beaucoup cependant',
+      fr: 'Des mains habiles ont fait un travail complexe pour fabriquer ce brassard fait maison.',
       de: 'Geschickte Hände machten einen komplizierten Job bei der Herstellung dieser selbstgemachten Manschette.',
       pt: 'Mãos habilidosas fizeram um trabalho complicado em fazer esta algema caseira.',
       ko: '숙련 된 손은이 집에서 복잡한 작업을통해 만든 수갑.',
