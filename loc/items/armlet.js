@@ -163,7 +163,7 @@ export default [
       en: 'Scaled bracer, makes your arm resemble that of a dragon.',
       ru: 'Чешуйчатый наруч, делает вашу руку похоже на лапу дракона.',
       es: 'Con brazos de dragones, puedes resistir todo.',
-      fr: 'Remontant en écailles, cela fait ressembler vos bras à ceux d\'un dragon.',
+      fr: 'Brassard en écailles, qui fait ressembler votre bras à celui d'un dragon.',
       de: 'Schuppiger Armschutz, lässt deine Arme an die eines Drachens erinnern.',
       pt: 'Braçadeira escamada, faz com que os teus braços se pareçam com os de um dragão.',
       ko: '스케일 된 브레이서는 팔을 용과 비슷하게 만듭니다.',
