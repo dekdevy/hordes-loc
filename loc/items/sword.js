@@ -405,7 +405,7 @@ export default [
       ja: 'それは石から引き出されたと言われました。それでも、その石を見つけることはできません。',
       sv: 'Vi fick höra att det drogs från sten. Fortfarande kan inte hitta stenen.',
       ko: '우리는 돌에서 꺼냈다 고 들었다. 아직도 돌을 찾을 수 없습니다.',
-      ro: 'Ni s-a spus că a fost scoasă din piatră. Piatra încă nu a fost găsită.'.
+      ro: 'Ni s-a spus că a fost scoasă din piatră. Piatra încă nu a fost găsită.',
       tr: 'Bu kılıcın bir taştan çekildiği söylendi, ama taşı bulamıyoruz.'
     }
   },
