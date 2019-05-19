@@ -80,8 +80,9 @@ export default {
     ro: 'Scoate Obiectul'
   },
 
+  // include the space and punctuation
   price: {
-    en: 'Price: ', // include the space and punctuation
+    en: 'Price: ',
     nl: 'Prijs: ',
     de: 'Preis: ',
     ru: 'Цена: ',
@@ -100,8 +101,9 @@ export default {
     ro: 'Preț: '
   },
 
+  // include the space and punctuation
   fee: {
-    en: 'Fee: ', // include the space and punctuation
+    en: 'Fee: ',
     de: 'Gebühr: ',
     nl: 'Honorarium: ',
     ru: 'Плата: ',
@@ -170,7 +172,7 @@ export default {
     de: 'Verkauf abgebrochen und Item in den Speicher geschickt',
     pt: 'Item retirado da lista e enviado para o esconderijo',
     it: 'Articolo cancellato e inviato a magazzino',
-    fr: 'L\'article a été retiré de la liste et envoyé à la planque.',
+    fr: 'Objet retiré des enchères et envoyé dans la planque',
     pl: 'Przedmiot usunięty z wykazu i wysłany do przechowania.',
     es: 'Artículo retirado de la lista y enviado a esconder',
     tl: 'Inalis ang item at ipinadala sa itago',
@@ -187,7 +189,7 @@ export default {
     en: 'Item purchased for $1 coins and sent to your Stash',
     ru: 'Предмет, купленный за $1, отправлен в ваш сундук',
     es: 'Artículo comprado por $1 monedas y enviado a su Stash',
-    fr: 'Article acheté pour $1 pièces et envoyé à votre Stash',
+    fr: 'Article acheté pour $1 pièces et envoyé dans votre planque',
     de: 'Artikel, der für $1 Münzen gekauft und an Ihr Versteck geschickt wurde',
     pt: 'Item comprado por $1 moedas e enviado para o seu Cesto',
     nl: 'Item gekocht voor $1 munten en verzonden naar uw Stash',
