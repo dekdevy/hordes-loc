@@ -104,7 +104,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Amary' },
+    name       : {$$: 'Amari' },
     description: {
       en: 'Lustrous blue artifact, exposed wispy white veins running along its spherical surface.',
       ru: 'Блестящий синий артефакт с белоснежными венами, протекающими по его сферической поверхности.',
@@ -207,7 +207,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Gloomy' },
+    name       : {$$: 'Gloom' },
     description: {
       en: 'Small, smooth and dark, this gem possesses treacherous traits as it slips from its wielders hands...',
       ru: 'Маленький, гладкий и темный, этот драгоценный камень обладает коварными чертами характера, как он выскальзывает из рук своих владельцев....',
@@ -233,7 +233,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Pluris' },
+    name       : {$$: 'Plurae' },
     description: {
       en: 'Spectacular saturated pink plumes rise from this faceted prismical gem. Your foes to stare at you with awe...',
       ru: 'Из этого граненого призматического камня поднимаются впечатляющие насыщенные розовые шлейфы. Твои враги с восхищением смотрят на тебя...',
