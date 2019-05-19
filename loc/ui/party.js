@@ -26,7 +26,7 @@ export default {
     tl: 'Party imbitahan',
     ro: 'Invitație la Party'
   },
-
+  // DO NOT translate Party
   kick: {
     en: 'Party kick',
     ru: 'Выгнать',
@@ -50,6 +50,7 @@ export default {
     ro: 'Lovitură de Party'
   },
 
+  // DO NOT translate Party
   leave: {
     en: 'Leave Party',
     it: 'andarsene Party',
@@ -73,6 +74,7 @@ export default {
     ro: 'Părăsește Party'
   },
 
+  // DO NOT translate Party
   create: {
     en: 'Create Party',
     ru: 'Создать Party',
@@ -96,6 +98,7 @@ export default {
     ro: 'Creează Party'
   },
 
+  // DO NOT translate Party
   onInvite: {
     en: '$1 has invited you to join their Party.',
     de: '$1 hat dich eingeladen, an ihrer Party teilzunehmen.',
@@ -166,6 +169,7 @@ export default {
     ro: 'Link-ul invitației'
   },
 
+  // DO NOT translate Party
   onLink: {
     en: 'Send this link to other players! This will allow them to join your Party.',
     ru: 'Отправьте эту ссылку другим игрокам! Это позволит им присоединиться к вашей Party.',
