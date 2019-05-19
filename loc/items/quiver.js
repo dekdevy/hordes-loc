@@ -28,7 +28,25 @@ export default [
   {
     name       : {$$: 'Rustic Quiver' },
     description: {
-      en: ''
+      en: 'Looks cheap and unreliable, yet sturdy enough for your arrows.',
+      ru: 'Выглядит дешевым и ненадежным, но достаточно прочный для стрел.',
+      nl: 'Ziet er goedkoop en onbetrouwbaar uit..., maar stevig genoeg voor uw pijlen.',
+      de: 'Sieht billig und unzuverlässig aus., aber dennoch robust genug für Ihre Pfeile.',
+      fr: 'Ça a l\'air bon marché et peu fiable., mais assez robuste pour vos flèches.',
+      es: 'Parece barato y poco fiable, pero lo suficientemente resistente para tus flechas.',
+      pt: 'Parece barato e não confiável, mas resistente o suficiente para suas flechas.',
+      it: 'Sembra a buon mercato e inaffidabile, ma abbastanza robusto per le frecce.',
+      pl: 'Wygląda tanio i niewiarygodnie., a jednocześnie wystarczająco wytrzymała, aby można było używać strzałek.',
+      ko: '싸고 믿을 수 없지만 당신의 화살만큼 튼튼한 것 같습니다.',
+      sv: 'Ser billigt och opålitligt ut, men robust nog för dina pilar.',
+      ht: 'Sanble bon mache ak enfidèl, ankò solid ase pou flèch ou yo.',
+      hi: 'सस्ता और अविश्वसनीय लगता है, फिर भी अपने तीरों के लिए पर्याप्त है।',
+      tl: 'Mukhang mura at hindi kapani-paniwala, ngunit matibay sapat para sa iyong mga arrow.',
+      el: 'Φαίνεται φτηνό και αναξιόπιστο, αλλά αρκετά ανθεκτική για τα βέλη σας.',
+      bg: 'Изглежда евтино и ненадеждно, но достатъчно здрава за стрелите ви.',
+      cs: 'Vypadá to levné a nespolehlivé, ale dostatečně pevná pro vaše šípy.',
+      ja: '安くて信頼できないように見えますが、あなたの矢には十分頑丈です。',
+      tr: 'Ucuz ve güvenilmez görünüyor, ancak oklarınız için yeterince sağlam.''
     }
   },
 
