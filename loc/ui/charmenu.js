@@ -7,7 +7,7 @@ export default {
       en: 'Select Character',
       sv: 'Välj Karaktär',
       ru: 'Выберите Персонажа',
-      fr: 'Sélectionnez un personnage', // TODO: shorten
+      fr: 'Sélectionnez le héros',
       hi: 'स्वरूप चुने',
       es: 'Seleccione Carácter',
       de: 'Charakter auswählen',
@@ -32,7 +32,7 @@ export default {
       ru: 'Нажмите, чтобы создать персонажа',
       hi: 'स्वरूप बानाने के लिए क्लिक करे',
       es: 'Pulsar para crear un carácter',
-      de: 'Klicken Sie hier, um einen Charakter zu erstellen.', // TODO: shorten
+      de: 'Klicken Sie, um einen Charakter zu erstellen', // TODO: shorten
       fr: 'Cliquez pour créer le personnage',
       ko: '캐릭터를 만들려면 클릭하십시오',
       tr: 'Karakter yaratmak için tıkla',
