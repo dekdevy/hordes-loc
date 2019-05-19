@@ -240,7 +240,7 @@ export default {
       en: 'Your name can only contain characters a-Z, and numbers 0-9, without any spaces. Up to 16 characters.',
       sv: 'Ditt namn kan bara använda sig karaktärerna a-Z, och nummer 0-9, utan mellanslag. Max 16 karaktärer.',
       ru: 'Ваше имя может состоять только из букв латинского алфавита a-Z и цифр 0-9, без пробелов. Максимум 16 символов.',
-      fr: 'Votre nom ne peut contenir que des caractères de a-Z, des chiffres de 0-9, sans aucune espace. Jusqu\'à 16 caractères.',
+      fr: 'Votre nom ne peut contenir que des caractères de A à Z, des chiffres entre 0 et 9, sans aucun espace, et jusqu\'à 16 caractères.',
       hi: 'आपके नाम में केवल a-Z अक्षर और 0-9 अंक हो सकते है| अधिकतम 16 अक्षर।',
       es: 'Su nombre sólo puede contener los caracteres de la a-Z, y los números del 0 al 9, sin espacios. Hasta 16 caracteres.',
       de: 'Dein Name darf nur die Zeichen a-Z und die Zahlen 0-9 ohne Leerzeichen enthalten. Bis zu 16 Zeichen.',
