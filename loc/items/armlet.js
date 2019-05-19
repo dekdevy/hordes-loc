@@ -1,111 +1,117 @@
 export default [
   {
-    name       : {$$: 'Simple Wristbands' },
+    name       : {$$: 'Simple Bracelet' },
     description: {
-      en: 'Cheap leather bands bought by an ambitious farmer.',
-      ru: 'Дешевые кожаные ремешки, купленный амбициозным фермером.',
+      en: 'Cheap leather band bought by an ambitious farmer.',
+      ru: 'Дешевый кожаный ремешок, купленный амбициозным фермером.',
       es: 'Pulsera de cuero hecho por unos racheros.',
-      fr: 'Bandes en cuir bon marché acheté par un agriculteur ambitieux.',
-      de: 'Billiges Lederbänder, das von einem ehrgeizigen Bauern gekauft wurde.',
-      pt: 'Bandas de couro barato comprada por um fazendeiro ambicioso.',
+      fr: 'Bracelet en cuir bon marché acheté par un agriculteur ambitieux.',
+      de: 'Billiges Lederband, das von einem ehrgeizigen Bauern gekauft wurde.',
+      pt: 'Banda de couro barato comprada por um fazendeiro ambicioso.',
       ko: '야심 찬 농부가 사들인 저렴한 가죽 밴드.',
-      nl: 'Goedkope lederen bands gekocht door een ambitieuze boer.',
-      pl: 'Tanie skórzane opaski kupiona przez ambitnego rolnika.',
-      sv: 'Billiga läderbander köpt av en ambitiös bonde.',
-      ht: 'Gwoupman kwi bon mache te achte pa yon kiltivatè anbisye.',
+      nl: 'Goedkope lederen band gekocht door een ambitieuze boer.',
+      pl: 'Tania skórzana opaska kupiona przez ambitnego rolnika.',
+      sv: 'Billiga läderband köpt av en ambitiös bonde.',
+      tr: 'Hırslı bir çiftçi tarafından satın alınan ucuz deri bant.',
+      ht: 'Cheap kwi kwi te achte pa yon kiltivatè anbisye.',
       it: 'Cinturino in pelle a buon mercato comprato da un ambizioso contadino.',
-      hi: 'एक महत्वाकांक्षी किसान द्वारा खरीदे गए सस्ते चमड़े के बैंड।',
-      tl: 'Murang katad na mga banda na binili ng isang ambitious magsasaka.',
-      el: 'Φτηνές δερμάτινες ζώνες που αγοράζονται από έναν φιλόδοξο αγρότη.',
-      bg: 'Евтини кожени ленти, купена от амбициозен фермер.',
+      hi: 'एक महत्वाकांक्षी किसान ने इस सस्ते चमड़े के पट्टे को खरीदा था।.',
+      tl: 'Murang katad na binili ng isang ambisyosong magsasaka.',
+      el: 'Φτηνές δερμάτινες μπάντες που αγοράστηκαν από έναν φιλόδοξο αγρότη.',
+      bg: 'Евтина кожена лента, купена от амбициозен фермер.',
       cs: 'Levné kožené kapely koupil ambiciózní farmář.',
       ja: '野心的な農民によって買われた安い革バンド。',
-      ro: 'Brățări de piele ieftină cumpărată de un fermier ambițios.'
+      ro: 'Curea de piele ieftină cumpărată de un fermier ambițios.'
 
     }
   },
 
   {
-    name       : {$$: 'Makeshift Armbands' },
+    name       : {$$: 'Makeshift Brace' },
     description: {
-      en: 'Skilled hands made an intricate job at making these homemade cuffs.',
+      en: 'Skilled hands made an intricate job at making this homemade cuff.',
       ru: 'Опытные руки сделали сложную работу по изготовлению этих самодельных наручников.',
-      es: 'Las manos expertas hicieron un trabajo complejo al hacer estos puños hechos en casa.',
+      es: 'Pulsera avanzada de cuero.',
       fr: 'Des mains habiles ont fait un travail complexe pour fabriquer ce brassard fait maison.',
-      de: 'Geschickte Hände machten einen komplizierten Job bei der Herstellung diese hausgemachten Manschetten.',
-      pt: 'Mãos habilidosas faziam um trabalho complicado ao fazer esses punhos caseiros.',
-      ko: '숙련 된 손은 수제 수갑을 만드는 데 복잡한 일을했습니다.',
-      nl: 'Bekwame handen maakten een ingewikkelde klus bij het maken van deze zelfgemaakte manchetten.',
-      pl: 'Wykwalifikowane ręce wykonały zawiłe zadanie przy wykonywaniu tych domowych mankietów.',
-      sv: 'Kunniga händer gjorde ett invecklat jobb för att göra dessa hemgjorda manschetter.',
-      tl: 'Ang mga skilled kamay ay gumawa ng isang masalimuot na trabaho sa paggawa ng mga homemade cuffs.',
-      ht: 'Men kalifye te fè yon travay konplike nan fè pwaye endijèn sa yo.',
-      it: 'Mani esperte hanno fatto un intricato lavoro nel realizzare questi polsini fatti in casa.',
-      hi: 'कुशल हाथों ने इन होममेड कफ बनाने में एक जटिल काम किया।',
-      cs: 'Kvalifikované ruce dělaly složitou práci při výrobě těchto domácích manžet.',
-      el: 'Τα εξειδικευμένα χέρια έκαναν μια περίπλοκη δουλειά στην κατασκευή αυτών των σπιτικών μανικιών.',
-      bg: 'Умели ръце направиха сложна работа, за да направят тези домашни маншети.',
-      ja: '熟練した手はこれらの自家製の袖口を作ることにおいて複雑な仕事をしました。'
+      de: 'Geschickte Hände machten einen komplizierten Job bei der Herstellung dieser selbstgemachten Manschette.',
+      pt: 'Mãos habilidosas fizeram um trabalho complicado em fazer esta algema caseira.',
+      ko: '숙련 된 손은이 집에서 복잡한 작업을통해 만든 수갑.',
+      nl: 'Bekwame handen maakten een ingewikkelde klus bij het maken van deze zelfgemaakte manchet.',
+      pl: 'Zręczne dłonie wykonały skomplikowanš robotę przy robieniu tego domowej roboty mankietu.',
+      sv: 'Kunniga händer gjorde ett invecklat jobb för att göra denna hemgjorda manschett.',
+      tl: 'Ang mga dalubhasang kamay ay gumawa ng isang masalimuot na trabaho sa paggawa ng gawang bahay na ito.',
+      tr: 'Nitelikli eller bu ev yapımı kolluk yapımında çetrefilli bir iş çıkardı.',
+      ht: 'Men ki gen eksperyans te fè travay di a pou fè manchèt sa a ki te endepandan.',
+      it: 'Mani esperte hanno fatto un intricato lavoro nel realizzare questo bracciale fatto in casa.',
+      hi: 'प्रविण हाथों ने इस घरेलू पट्टे को बड़ी सटीकता से बनाया।.',
+      cs: 'Kvalifikované ruce dělaly při výrobě domácí manžety složitou práci.',
+      el: 'Τα καλά χέρια έκαναν μια περίπλοκη δουλειά στο να φτιάξουν αυτή τη σπιτική μανσέτα',
+      bg: 'Умели ръце направиха сложна работа, за да направят този домашен маншет.',
+      ja: '熟練した手はこの自家製の袖口を作ることにおいて複雑な仕事をしました。',
+      ro: 'Niște mâini pricepute au făcut o muncă complicată în ceea ce privește această manșetă de casă.'
     }
   },
 
   {
-    name       : {$$: 'Leather Armlets' },
+    name       : {$$: 'Leather Armlet' },
     description: {
-      en: 'Stiff, make your arms sore.',
-      ru: 'Такие тугие, что твои руки начинают болеть.',
-      es: 'Rígido, haz que te duela el brazo.',
+      en: 'Stiff, makes your arm sore.',
+      ru: 'Такой тугой, что твоя рука начинает болеть.',
+      es: 'Mas cuero. Todo es cuero. Nesecitas una chaqueta de cuero para ser completo.',
       fr: 'Rigide, rend le bras douloureux.',
-      de: 'Steif, mach deinen Hände wund.',
+      de: 'Steif, macht deinen Arm wund.',
       pt: 'Rígido, dói-te o braço.',
-      ko: '딱딱하고 팔을 아프게하십시오.',
-      nl: 'Stijf, maak je arm pijnlijk.',
-      pl: 'Sztywniak, bolit cię cała ręka.',
-      sv: 'Styv, gör din vapen öm.',
+      ko: '딱딱하고, 쓰면 팔이 아프다.',
+      nl: 'Stijf, maakt je arm pijnlijk.',
+      pl: 'Sztywniak, boli cię cała ręka.',
+      sv: 'Stiff, gör din arm öm.',
       tl: 'Matigas ang ginagawa ng iyong braso.',
+      tr: 'Sert, kolunuzu ağrıtır.',
       ht: 'Sere sou tèlman bagay ke men ou kòmanse vin anfle.',
-      it: 'Rigido, ti fa male al braccios.',
-      hi: 'कठोर, अपनी बाहों को गाढ़ा करें।',
-      cs: 'Ztuhlé, dělá svou ruki bolavou.',
-      el: 'Σφίξτε τα χέρια σας.',
-      bg: 'Скръв, направи ръцете си възпалени.',
-      ja: '硬直して、腕を痛めます。'
+      it: 'Rigido, ti fa male al braccio.',
+      hi: 'सक्थ, आपका हाथ दुखने लगेगा।.',
+      cs: 'Ztuhlé, dělá svou ruku bolavou.',
+      el: 'Σκληρό κάνει το χέρι σας πληγή.',
+      bg: 'Скръбта прави ръката ви възпалена.',
+      ja: '硬直すると腕が痛くなります。',
+      ro: 'Rigid, îți inflamează brațul.'
     }
   },
 
   {
-    name       : {$$: 'Bone Bracelets' },
+    name       : {$$: 'Ivory Bracelet' },
     description: {
-      en: 'Elegant cuffs made from the tusks of the last mammoth.',
+      en: 'Elegant cuff made from the tusks of the last mammoth.',
       ru: 'Элегантные наручники, сделаные из бивней последнего мамонта.',
-      es: 'Un puños elegante creado con el comillo del elefante final.',
-      fr: 'Menottes élégant fait à partir des défenses du dernier mammouth.',
-      de: 'Elegante Manschetten aus den Stoßzähnen des letzten Mammuts.',
-      pt: 'Elegante algemas feito das presas do último mamute.',
-      ko: '마지막 매머드의 엄니부터 만들어진 우아한 커프스.',
-      nl: 'Elegante manchetten gemaakt van de slagtanden van de laatste mammoet.',
-      pl: 'Elegancki mankiety wykonany z kości ostatniego mamuta.',
-      sv: 'Elegant manschetter gjord av tusenskönor från den sista mammoten.',
-      tl: 'Elegante band na ginawa mula sa mga ngipin ng huling mammoth.',
-      ht: 'Elegant pwaye nan defans ki sot pase yo mamout la.',
-      it: 'Elegante polsini realizzato con le zanne dell ultimo mammut.',
-      hi: 'अंतिम मैमथ के टस्क से बने सुरुचिपूर्ण कफ।',
-      cs: 'Elegantní manžety vyrobená z kel posledního mamuta.',
-      el: 'Κομψές μανσέτες από τα χέρια του τελευταίου μαμούθ.',
-      bg: 'Елегантни маншети, направен от бивните на последния мамут.',
-      ja: '最後のマンモスの牙から作られたエレガントな袖口。',
+      es: 'Un pulsera elegante creado con el comillo del elefante final.',
+      fr: 'Bracelet élégant fait à partir des défenses du dernier mammouth.',
+      de: 'Elegante Manschette aus den Stoßzähnen des letzten Mammuts.',
+      pt: 'Elegante punho feito das presas do último mamute.',
+      ko: '마지막 맘모스의 엄니에서 만든 우아한 커프스.',
+      nl: 'Elegante manchet gemaakt van de slagtanden van de laatste mammoet.',
+      pl: 'Elegancki mankiet wykonany z kości ostatniego mamuta.',
+      sv: 'Elegant manschett gjord av tusenskönor från den sista mammoten.',
+      tl: 'Elegant na sampal na ginawa mula sa mga tusks ng huling mammoth.',
+      tr: 'Son mamutun dişlerinden yapılmış zarif manşet.',
+      ht: 'Elegant manchèt nan defans ki sot pase yo mamout la.',
+      it: 'Elegante polsino realizzato con le zanne dell ultimo mammut.',
+      hi: 'सुंदर बाज़ुबंद, आख़री विशाल हाथी के दांतों से बना।.',
+      cs: 'Elegantní manžeta vyrobená z kel posledního mamuta.',
+      el: 'Κομψή μανσέτα από τα χέρια του τελευταίου μαμούθ.',
+      bg: 'Елегантен маншет, направен от бивните на последния мамут.',
+      ja: '最後のマンモスの牙から作られたエレガントなカフ。',
       ro: 'Manșetă elegantă confecționată din colții ultimului mamut.'
     }
   },
 
   {
-    name       : {$$: 'Iron Vambraces' },
+    name       : {$$: 'Iron Vambrace' },
     description: {
-      en: 'Heavy on your arms... worth the protection.',
+      en: 'Heavy on your arm... worth the protection.',
       ru: 'Тяжёлые ... но дают хорошую защиту.',
       es: 'Pesado, pero vale la pena.',
       fr: 'Pèse lourd sur votre bras... ça en vaut la protection.',
-      de: 'Schwer auf dem Hände... den Schutz wert.',
+      de: 'Schwer auf dem Arm... den Schutz wert.',
       pt: 'Pesado no braço... vale a protecção.',
       ko: '팔에는 무겁지만... 보호가 그만한 가치가있다.',
       nl: 'Zwaar op je arm... de bescherming waard.',
@@ -116,7 +122,7 @@ export default [
       ht: 'Lou ... men vo defans yo.',
       it: 'Pesante sul braccio... vale la pena proteggerlo.',
       el: 'Βαρύ στο χέρι σου ... αξίζει την προστασία.',
-      bg: 'Тежка на ръце ти ... си струваше защитата.',
+      bg: 'Тежка на ръката ти ... си струваше защитата.',
       hi: 'हाथ पर भारी... पर सुरक्षा ज़रूर देता है।.',
       cs: 'Těžká na paži ... stojí za to.',
       ja: 'あなたの腕に重い...保護に値する。',
@@ -178,10 +184,10 @@ export default [
   },
 
   {
-    name       : {$$: 'Mirrored Armlets' },
+    name       : {$$: 'Mirrored Armlet' },
     description: {
-      en: 'Blind your foes with a magical shine off a devious magicians mirror...',
-      ru: 'Ослепляют ваших врагов блеском искривлённого магического зеркала...',
+      en: 'Blinds your foes with a magical shine off a devious magicians mirror...',
+      ru: 'Ослепляет ваших врагов блеском искривлённого магического зеркала...',
       es: 'Un espejo por su muñeca. Lo usas para cegar sus enemigos.',
       fr: 'Aveugle vos ennemis avec l\'éclat magique du miroir d\'un magicien sournois...',
       de: 'Blinds Ihre Feinde mit einem magischen Glanz von einem teuflischen Magierspiegel...',
@@ -204,7 +210,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Golem Fragments' },
+    name       : {$$: 'Golem Fragment' },
     description: {
       en: 'The ancient golems left remnants of their passing, which you unscrupulously have decided to wear on your arm.',
       ru: 'Древние големы оставили остатки своих похождений, которые вы бессовестно решили надеть на руку.',
@@ -230,7 +236,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Coldforged Bracers' },
+    name       : {$$: 'Coldforged Bracer' },
     description: {
       en: 'The deceptively light steel offers chilling protection against sneaky blows.',
       ru: 'Обманчиво легкая сталь предлагает охлаждающую защиту от подлых ударов.',
@@ -256,7 +262,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Blackstars' },
+    name       : {$$: 'Blackstar Gem' },
     description: {
       en: 'Stars are not often black, yet this fragment has a... deep... deep darkness.',
       ru: 'Звезды не часто черны, но этот фрагмент имеет... глубокую... глубокую тьму.',
@@ -282,7 +288,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Mobiuses' },
+    name       : {$$: 'Eternal Vambraces' },
     description: {
       en: 'Reforged, lost, found, stolen, hidden for eras without end.',
       ru: 'Перекован, потерян, найден, украден, спрятан на века без конца.',
@@ -308,7 +314,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Guardians' },
+    name       : {$$: 'Lost Guardian' },
     description: {
       en: 'This item was forged on a full moon when mysterious incantations were heard in the whispers of the dark. Some say that it was Anubis himself speaking with the dead.',
       ru: 'Этот предмет был выкован в полнолуние, когда в темноте раздавался шепот таинственных заклинаний. Некоторые говорят, что это был сам Анубис, говорящий с мертвыми.',

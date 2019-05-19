@@ -26,7 +26,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Ironbark Loop' },
+    name       : {$$: 'Ironbark Circlet' },
     description: {
       en: 'Not sure about the bark, but it\'s definitely made of iron.',
       ru: 'Не уверен насчет коры, но оно определенно сделано из железа.',
@@ -52,7 +52,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Brass Unity' },
+    name       : {$$: 'Brass Ringlet' },
     description: {
       en: 'Finally, a ring that is shiny.',
       ru: 'Наконец-то блестящее кольцо.',
@@ -104,7 +104,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Elven Heirloom' },
+    name       : {$$: 'Elven Band' },
     description: {
       en: 'A race of elegant elves constructed this fine ring to protect themselves from danger.',
       ru: 'Раса элегантных эльфов сделала это прекрасное кольцо, чтобы защитить их от опасностей.',
@@ -130,7 +130,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Imbued Union' },
+    name       : {$$: 'Imbued Circlet' },
     description: {
       en: 'Fits nicely, although the effects it gives are marginal.',
       ru: 'На руке cидит хорошо, хотя эффекты, которые он дает, незначительны.',
@@ -234,7 +234,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Ancient Signet' },
+    name       : {$$: 'Ancient Talisman' },
     description: {
       en: 'No written records exist to tell us about its origin...',
       ru: 'Не существует никаких письменных отчетов о его происхождении ...',
@@ -260,7 +260,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Reverence' },
+    name       : {$$: 'Hallowed Relic' },
     description: {
       en: 'Sacred artifact lost by holy druids.',
       ru: 'Священный артефакт, потерянный святыми друидами.',
@@ -282,13 +282,6 @@ export default [
       ko: '거룩한 드루이드가 잃어버린 신성한 유물.',
       ro: 'Artefact sacru, pierdut de sfinții druizii.',
       tr: 'Kutsal druidler tarafından kayıp kutsal eser.'
-    }
-  },
-
-  {
-    name       : {$$: 'Gyges'},
-    description: {
-      en: 'A ring capable of turning it\'s wearer invisible and motivate them for glory and fame.'
     }
   },
 
