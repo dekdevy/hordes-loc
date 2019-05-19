@@ -42,7 +42,7 @@ export default {
     pt: 'Mover para o esconderijo',
     it: 'Spostare a nascondiglio',
     pl: 'Przenieś się do skrytki',
-    fr: 'Aller à la cachette',
+    fr: 'Aller dans la planque',
     es: 'Moverse a escondite',
     nl: 'Verhuizen naar opslagplaats',
     ko: '은신처로 이동하십시오',
