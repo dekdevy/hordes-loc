@@ -138,7 +138,7 @@ export default [
       hi: 'कुछ ख़ास नहीं, बस एक लाश की हड्डी है।',
       es: 'El rey liche no necesitaba su fémur, así que lo usé para hacer una varita.',
       de: 'Nichts Besonderes an dieser Waffe, nur der Oberschenkelknochen eines Lichs.',
-      fr: 'Cette arme n\'a rien d\'extravagant, c\'est juste le fémur d'une liche.',
+      fr: 'Cette arme n\'a rien d\'extravagant, c\'est juste le fémur d\'une liche.',
       pt: 'Nada de especial nesta arma, apenas o fémur de um líquen.',
       nl: 'Niets bijzonders aan dit wapen, slechts het dijbeen van een lich.',
       tl: 'Walang magarbong tungkol sa sandata na ito ang femur ng isang lich.',
