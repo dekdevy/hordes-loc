@@ -288,7 +288,7 @@ export default [
   {
     name       : {$$: 'Gyges'},
     description: {
-      en: 'A ring said to be capable of turning it\'s wearer invisible and motivate them for glory and fame.'
+      en: 'A ring said to be capable of turning its wearer invisible and motivate them for glory and fame.'
     }
   },
 
