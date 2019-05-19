@@ -232,7 +232,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Knight\'s Greatsword' },
+    name       : {$$: 'Knight\'s Rapier'},
     description: {
       en: 'A blade wielded by only the most skillful knights.',
       ru: 'Клинок, которым владеют только самые умелые рыцари',
