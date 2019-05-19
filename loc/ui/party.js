@@ -12,7 +12,7 @@ export default {
     nl: 'uitnodigen Party',
     pl: 'zaproszenie Party',
     de: 'Party einladung',
-    fr: 'Invitation à une Party',
+    fr: 'Inviter à rejoindre une Party',
     ht: 'Party envite',
     es: 'Party Invita',
     tr: 'Party davet et',
@@ -26,6 +26,7 @@ export default {
     tl: 'Party imbitahan',
     ro: 'Invitație la Party'
   },
+
   // DO NOT translate Party
   kick: {
     en: 'Party kick',
@@ -35,7 +36,7 @@ export default {
     pl: 'Kop Party',
     es: 'Sacar del Party',
     de: 'Treten',
-    fr: 'Party coup de pied',
+    fr: 'Virer de la Party"',
     ht: 'Party Choute',
     nl: 'Paty uitgooien',
     tr: 'Party at',
@@ -58,7 +59,7 @@ export default {
     nl: 'verlof Party',
     pl: 'wyjechać Party',
     de: 'Party Verlassen',
-    fr: 'Party de départ',
+    fr: 'Quitter la Party',
     ht: 'Kite Party',
     ru: 'Выйти',
     es: 'Salir del Party',
@@ -202,7 +203,7 @@ export default {
     ru: 'Копировать в буфер',
     es: 'Copia a su Portapapele',
     de: 'In die Zwischenablage kopieren',
-    fr: 'Copier dans le presse',
+    fr: 'Copier le lien',
     tr: 'Bağlantıyı kopyala',
     nl: 'Kopieer naar klembord',
     it: 'Copia negli Appunti',
