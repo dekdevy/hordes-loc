@@ -48,14 +48,22 @@ export default {
 
   header: {
     en: 'Sell your items',
+    de: 'Verkaufen Sie Ihre Objekte',
+    sv: 'Sälj dina föremål',
+    it: 'Vendi i tuoi oggetti',
+    fr: 'Vendre vos objets'
     ru: 'Продай свои вещи',
     bg: 'Продайте предметите си',
     cs: 'Prodávejte své zboží',
     pl: 'Sprzedawaj swoje przedmioty'
   },
 
-  info: { // TODO: this sentence needs to be improved
-    en: 'To sell an item, right click it or drag it into the trader window.'
+  // The word "click" is not an official word in some languages, "press" would be a better variation
+  info: {
+    en: 'To sell an item, right click it or drag it into the trader window.',
+    ru: 'Чтобы продать предмет, нажмите его правой кнопкой мыши или перетащите в окно трейдера.',
+    bg: 'За да продадете вещ, щракнете с десния бутон върху него или го плъзнете в прозореца на търговеца.',
+    cs: 'Chcete-li položku prodat, klikněte na ni pravým tlačítkem myši nebo ji přetáhněte do okna obchodníka.'
   },
 
   price: { // TODO: maybe a better wording can be chosen here
