@@ -55,7 +55,7 @@ export default {
     it: 'Sussurro',
     es: 'Susurro',
     de: 'Flüstern',
-    fr: 'Chuchotement',
+    fr: 'Chuchoter',
     ko: '속삭임',
     tr: 'Fısıltı',
     nl: 'Fluisteren',
