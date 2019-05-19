@@ -31,7 +31,7 @@ export default [
     description: {
       en: 'Not much better than a blunt piece of wood in my opinion.',
       ru: 'Не намного лучше, чем тупой кусок дерева, на мой взгляд.',
-      fr: 'À peine meilleure qu\'un morceau de bois émoussé, en mon humble avis.',
+      fr: 'À peine meilleure qu\'un morceau de bois émoussé, à mon humble avis.',
       es: 'No mucho mejor que un trozo de madera en mi opinión.',
       de: 'Nicht viel besser als ein stumpfes Stück Holz, denke ich.',
       hi: 'ज्यादा मेरी राय में लकड़ी का एक टुकड़ा कुंद की तुलना में बेहतर।',
@@ -83,7 +83,7 @@ export default [
     description: {
       en: 'Some knight dropped this. Probably unintentionally.',
       ru: 'Какой-то рыцарь бросил это. Вероятно, непреднамеренно.',
-      fr: 'Un chevalier a échappé ceci. Probablement par accident.',
+      fr: 'Un chevalier a lâché cette épée. Probablement par accident.',
       es: 'Ey, finalmente, una espada real. Tal vez puede realmente ser útil.',
       de: 'Ein Ritter hat das fallen lassen. Wahrscheinlich unbeabsichtigt.',
       hi: 'किसी शूरवीर से गिर गयी। ग़लती से।',
@@ -109,7 +109,7 @@ export default [
     description: {
       en: 'Long? Yes. Deadly? Maybe. Just don\'t cut yourself.',
       ru: 'длинный? да. Смертельный? Может быть. Только не порежься.',
-      fr: 'Longue? Oui. Mortelle? Peut-être. Ne te coupes pas avec en la maniant.',
+      fr: 'Longue? Oui. Mortelle? Peut-être. Évite de te couper pas avec.',
       es: '¿Largo? Sí. ¿Mortal? Tal vez. No te cortes.',
       de: 'Lang? Ja. Tödlich? Vielleicht. Schneidet euch nur nicht selbst.',
       hi: 'लम्बी? हाँ। जानलेवा? शायद। बस ख़ुद को मत काट लेना।',
