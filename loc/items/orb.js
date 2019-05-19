@@ -102,7 +102,7 @@ export default [
   {
     name       : {$$: 'Baetylus\'s Eye' },
     description: {
-      en: ''
+      en: 'Item Description'
     }
   },
 
@@ -135,7 +135,7 @@ export default [
   {
     name       : {$$: 'Lich\'s Phylactery' },
     description: {
-      en: ''
+      en: 'Item Description'
     }
   }
 ]
