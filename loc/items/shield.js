@@ -131,11 +131,11 @@ export default [
   {
     name       : {$$: 'Spiked Warshield' },
     description: {
-      en: 'Gold and yellow patterns coat this shield, displaying your authority and power.',
-      ru: 'Золотые и желтые узоры покрывают этот щит, показывая ваш авторитет и силу.',
-      es: 'Patrones dorados y amarillos cubren este escudo, mostrando su autoridad y poder.',
-      fr: 'Des motifs dorés et jaunes recouvrent ce bouclier, démontrant votre autorité et votre pouvoir.',
-      de: 'Gold- und gelbe Muster umhüllen diesen Schild und zeigen deine Autorität und Macht.',
+patterns
+      en: 'Gold and yellow spikes coat this shield, displaying your authority and power.',
+      ru: 'Золотые и желтые шипы покрывают этот щит, показывая ваш авторитет и силу.',
+      fr: 'Des pics dorés et jaunes recouvrent ce bouclier, montrant votre autorité et votre puissance.',
+      de: 'Gold- und gelbe Spikes umhüllen diesen Schild und zeigen deine Autorität und Macht.',
       pt: 'Padrões dourados e amarelos revestem este escudo, mostrando sua autoridade e poder.',
       ko: '금색과 노란색 무늬가이 방패를 덮어 당신의 권위와 힘을 보여줍니다.',
       nl: 'Gouden en gele patronen bedekken dit schild en tonen je autoriteit en kracht.',
