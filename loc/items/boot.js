@@ -52,7 +52,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Leather Boots' },
+    name       : {$$: 'Leather Shoes' },
     description: {
       en: 'The soft leather is said to be stripped off wild boars roaming the eerie woods.',
       ru: 'Говорят, что мягкую кожу сняли с кабанов, бродящих по жутким лесам.',
@@ -78,7 +78,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Bone Greaves' },
+    name       : {$$: 'Bone Brogans' },
     description: {
       en: 'Clearly lacking in imagination, the maker made boots from the bones of a very large creature...',
       ru: 'Очевидно, у создателя не хватает воображения, ведь он сделал сапоги из костей очень крупного существа ...',
@@ -130,7 +130,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Patterned Greaves' },
+    name       : {$$: 'Shadow Shoes' },
     description: {
       en: 'A pleasant pattern made to paralyze your foes... wonder if it works.',
       ru: 'Приятный узор, созданный, чтобы парализовать ваших врагов... интересно, работает ли он',
@@ -259,7 +259,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Cloudrunner Treads' },
+    name       : {$$: 'Cloudrunners' },
     description: {
       en: 'Some say you can run on clouds with these. The few that have tried have already ascended.',
       ru: 'Некоторые говорят, что с этими ботинками можно бегать по облакам. Те немногие, кто пытался, уже вознеслись.',
@@ -285,7 +285,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Boots of Hermes' },
+    name       : {$$: 'Talaria' },
     description: {
       en: 'Ancient boots rumoured to be stolen from the feet of a messenger god.',
       ru: 'По слухам, древние сапоги были украдены с ног бога-вестника.',
@@ -311,7 +311,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Starshard Greaves' },
+    name       : {$$: 'Starshards' },
     description: {
       en: 'Stars were always considered to be almighty, now they\'re yours.',
       ru: 'Звезды всегда считались всемогущими, теперь они твои',
