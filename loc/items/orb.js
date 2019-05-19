@@ -107,6 +107,13 @@ export default [
   },
 
   {
+    name       : {$$: 'Benben Stone' },
+    description: {
+      en: 'Item Description'
+    }
+  },
+
+  {
     name       : {$$: 'Silthrim' },
     description: {
       en: 'Enigmatic emerald green sphere, enveloped in fine engravings of serpentine prophecies that entice fame and serendipity to its bewitched bearer.',
