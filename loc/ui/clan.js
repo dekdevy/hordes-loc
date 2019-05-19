@@ -24,7 +24,6 @@ export default {
   },
 
   leave: {
-Betray clan
     en: 'Leave Clan',
     ru: 'Покинуть Клан',
     fr: 'Quitter le clan',
