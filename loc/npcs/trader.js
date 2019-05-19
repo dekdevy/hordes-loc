@@ -66,7 +66,14 @@ export default {
     cs: 'Chcete-li položku prodat, klikněte na ni pravým tlačítkem myši nebo ji přetáhněte do okna obchodníka.'
   },
 
-  price: { // TODO: maybe a better wording can be chosen here
-    en: 'Selling price:'
+  // Include punctuation and space
+  price: {
+    en: 'Selling price: ',
+    ru: 'Цена продажи: ',
+    de: 'Verkaufspreis: ',
+    fr: 'Prix ​​de vente: ',
+    bg: 'Продажна цена: ',
+    cs: 'Prodejní cena: ',
+    pl: 'Cena sprzedaży: '
   }
 }
