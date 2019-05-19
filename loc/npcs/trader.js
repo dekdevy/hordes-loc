@@ -51,7 +51,7 @@ export default {
     de: 'Verkaufen Sie Ihre Objekte',
     sv: 'Sälj dina föremål',
     it: 'Vendi i tuoi oggetti',
-    fr: 'Vendre vos objets'
+    fr: 'Vendre vos objets',
     ru: 'Продай свои вещи',
     bg: 'Продайте предметите си',
     cs: 'Prodávejte své zboží',
