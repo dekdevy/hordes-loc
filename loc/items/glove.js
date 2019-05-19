@@ -130,7 +130,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Imbued Battlefists' },
+    name       : {$$: 'Imbued Gloves' },
     description: {
       en: 'Mitts made out of unknown material... it shines...',
       ru: 'Рукавицы, сделанные из неизвестного материала ... они сияют...',
@@ -208,7 +208,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Empowerment Gloves' },
+    name       : {$$: 'Gloves of Empowerment' },
     description: {
       en: 'Give a false sense of power.',
       ru: 'Дает ложное чувство силы.',
@@ -260,7 +260,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Eternals' },
+    name       : {$$: 'Eternal Gauntlets' },
     description: {
       en: 'Gloves sought by warriors for eras on end...at last...it is found.',
       ru: 'Перчатки разыскиваемые воинами на протяжении эпох... наконец... нашлись.',
@@ -286,7 +286,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Phrygians' },
+    name       : {$$: 'Gloves of Midas' },
     description: {
       en: 'Rumours say that a touch from these gloves turns your foes into gold...your hand is strangely heavy...',
       ru: 'Слухи говорят, что прикосновение этой перчаток превращает твоих врагов в золото... твоя рука странно тяжелая ...',
@@ -312,7 +312,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Titans' },
+    name       : {$$: 'Titans Mitts' },
     description: {
       en: 'Gloves so powerful in their nature that the very air shimmers as you wave your hand.',
       ru: 'Перчатки настолько мощные по своей природе, что сам воздух мерцает, когда вы машете рукой.',

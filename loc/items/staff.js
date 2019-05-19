@@ -339,7 +339,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Divine Staff' },
+    name       : {$$: 'Staff of Angelness' },
     description: {
       en: 'A staff stolen from the angels. They\'re still hunting for it.',
       ru: 'Посох, украденный у ангелов. Они все еще охотятся за ним.',

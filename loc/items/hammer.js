@@ -52,7 +52,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Primal Mace' },
+    name       : {$$: 'Rusty Flail' },
     description: {
       en: 'Rusty old hammer, on the verge of breaking.',
       ru: 'Ржавый старый молот, на грани поломки.',

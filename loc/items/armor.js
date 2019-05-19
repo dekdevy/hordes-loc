@@ -78,7 +78,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Leather Jerkin' },
+    name       : {$$: 'Quilted Leather' },
     description: {
       en: 'This fabric isn\'t much, but it might stop an arrow or two.',
       ru: 'Эта ткань не очень, но она может остановить стрелу или две.',
@@ -130,7 +130,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Sky Mail' },
+    name       : {$$: 'Sky Cloak' },
     description: {
       en: 'Rumours say its made from clouds...',
       ru: 'Слухи говорят, что она сделана из облаков...',
@@ -183,7 +183,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Runic Halfplate' },
+    name       : {$$: 'Obsidian Cloak' },
     description: {
       en: 'Forged by unknown magicians, you wear a deep, dark and powerful chestplate.',
       ru: 'Выкованный неизвестными магами, вы носите глубокий, темный и мощный нагрудник.',
@@ -209,7 +209,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Hellfire Fullplate' },
+    name       : {$$: 'Hellfire Cloak' },
     description: {
       en: 'Forged in unknown valleys, it provides protection for your weak, fleshy body.',
       ru: 'Выкованный в неизвестных долинах, он обеспечивает защиту вашему слабому, мясистому телу.',
