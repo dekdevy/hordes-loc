@@ -262,7 +262,7 @@ export default [
     description: {
       en: 'Cylindrical sword stolen from an ancient king. Cutting capability is questionable.',
       ru: 'Цилиндрический меч украден у древнего короля. Возможность разрезки сомнительна.',
-      fr: 'pée cylindrique volée à un ancien roi. Sa capacité à trancher reste à débattre.,
+      fr: 'Epée cylindrique volée à un ancien roi. Sa capacité à trancher reste à débattre.,
       es: 'Espada cilíndrica robada a un antiguo rey. La capacidad de corte es cuestionable.',
       de: 'Zylindrisches Schwert, das einem alten König gestohlen wurde. Die Schneidfähigkeit ist fragwürdig.',
       hi: 'गोल तलवार एक प्राचीन राजा से चुरायी हुई। काटने की क्षमता पर संदेह है।',
