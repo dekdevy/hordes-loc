@@ -130,7 +130,7 @@ export default [
     }
   },
   {
-    name       : {$$: 'Carved Bonesword' },
+    name       : {$$: 'Gladius' },
     description: {
       en: 'Crudely carved from the bones of an ancient behemoth.',
       ru: 'Грубо вырезанный из кости древнего чудища',
@@ -180,7 +180,7 @@ export default [
     }
   },
   {
-    name       : {$$: 'Ghastly Scimitar' },
+    name       : {$$: 'Nullfire Sword' },
     description: {
       en: 'Diabolical curved blade. Even holding it makes you feel its dark essence.',
       ru: 'Дьявольское изогнутое лезвие. Когда вы его держите, вы чувствуете его темную сущность.',
@@ -206,7 +206,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Nullfire Sword' },
+    name       : {$$: 'Ghastly Scimitar' },
     description: {
       en: 'A cold-looking blade with a burning hot edge.',
       ru: 'Холодный клинок с горячим краем',
