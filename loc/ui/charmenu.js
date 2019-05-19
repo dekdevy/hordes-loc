@@ -84,9 +84,9 @@ export default {
       tr: 'Boş',
       bg: 'Празен',
       cs: 'Prázdný',
-      el: 'Κενή υποδοχή', // TODO: shorten
+      el: 'Αδειάζω',
       ja: '空きスロット',
-      tl: 'Walang laman', // TODO: shorten
+      tl: 'Wala',
       it: 'Slot vuoto',
       pl: 'Pusty',
       nl: 'Leeg',
@@ -225,9 +225,9 @@ export default {
       tr: 'Bir isim gir',
       bg: 'Въведете име',
       cs: 'Zadejte název',
-      el: 'Εισαγάγετε ένα όνομα', // TODO: shorten
+      el: 'Γράψτε ένα όνομα',
       ja: '名前を入力してください',
-      tl: 'Magpasok ng isang pangalan', // TODO: shorten
+      tl: 'Ilagay ang pangalan',
       it: 'Inserisci un nome',
       pl: 'Wpisz imię',
       nl: 'Voer een naam in',
