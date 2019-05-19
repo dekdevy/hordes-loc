@@ -6,7 +6,7 @@ export default [
       ru: 'Маленькая сумочка, раньше использованая женами купцов.',
       de: 'Kleine kleine Geldbörse, die von den Ehefrauen der Händler benutzt wird.',
       es: 'Una bolsa linda utilizado por las esposas de comerciantes.',
-      fr: 'De petites sacoches utilisées par les épouses des marchands.',
+      fr: 'Petite sacoche utilisée par les épouses des marchands.',
       pt: 'Pequena bolsa usada pelas esposas dos comerciantes.',
       it: 'Piccola borsetta usata dalle mogli dei mercanti.',
       nl: 'Klein tasje gebruikt door vrouwen van kooplieden.',

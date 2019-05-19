@@ -47,7 +47,11 @@ export default {
   }],
 
   header: {
-    en: 'Sell your items'
+    en: 'Sell your items',
+    ru: 'Продай свои вещи',
+    bg: 'Продайте предметите си',
+    cs: 'Prodávejte své zboží',
+    pl: 'Sprzedawaj swoje przedmioty'
   },
 
   info: { // TODO: this sentence needs to be improved

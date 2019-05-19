@@ -7,7 +7,7 @@ export default {
       en: 'Select Character',
       sv: 'Välj Karaktär',
       ru: 'Выберите Персонажа',
-      fr: 'Sélectionnez un personnage', // TODO: shorten
+      fr: 'Sélectionnez le héros',
       hi: 'स्वरूप चुने',
       es: 'Seleccione Carácter',
       de: 'Charakter auswählen',
@@ -32,7 +32,7 @@ export default {
       ru: 'Нажмите, чтобы создать персонажа',
       hi: 'स्वरूप बानाने के लिए क्लिक करे',
       es: 'Pulsar para crear un carácter',
-      de: 'Klicken Sie hier, um einen Charakter zu erstellen.', // TODO: shorten
+      de: 'Klicken Sie, um einen Charakter zu erstellen', // TODO: shorten
       fr: 'Cliquez pour créer le personnage',
       ko: '캐릭터를 만들려면 클릭하십시오',
       tr: 'Karakter yaratmak için tıkla',
@@ -84,9 +84,9 @@ export default {
       tr: 'Boş',
       bg: 'Празен',
       cs: 'Prázdný',
-      el: 'Κενή υποδοχή', // TODO: shorten
+      el: 'Αδειάζω',
       ja: '空きスロット',
-      tl: 'Walang laman', // TODO: shorten
+      tl: 'Wala',
       it: 'Slot vuoto',
       pl: 'Pusty',
       nl: 'Leeg',
@@ -225,9 +225,9 @@ export default {
       tr: 'Bir isim gir',
       bg: 'Въведете име',
       cs: 'Zadejte název',
-      el: 'Εισαγάγετε ένα όνομα', // TODO: shorten
+      el: 'Γράψτε ένα όνομα',
       ja: '名前を入力してください',
-      tl: 'Magpasok ng isang pangalan', // TODO: shorten
+      tl: 'Ilagay ang pangalan',
       it: 'Inserisci un nome',
       pl: 'Wpisz imię',
       nl: 'Voer een naam in',

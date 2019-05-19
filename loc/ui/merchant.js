@@ -90,7 +90,7 @@ export default {
     it: 'Prezzo: ',
     es: 'Precio: ',
     pl: 'Cena: ',
-    fr: 'Prix : ',
+    fr: 'Prix: ',
     el: 'Τιμή: ',
     bg: 'Цена: ',
     cs: 'Cena: ',
