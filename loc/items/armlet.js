@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {$$: 'Simple Bracelet' },
+    name       : {$$: 'Simple Wristbands' },
     description: {
       en: 'Cheap leather band bought by an ambitious farmer.',
       ru: 'Дешевый кожаный ремешок, купленный амбициозным фермером.',
@@ -27,7 +27,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Makeshift Brace' },
+    name       : {$$: 'Makeshift Armbands' },
     description: {
       en: 'Skilled hands made an intricate job at making this homemade cuff.',
       ru: 'Опытные руки сделали сложную работу по изготовлению этих самодельных наручников.',
@@ -53,7 +53,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Leather Armlet' },
+    name       : {$$: 'Leather Armlets' },
     description: {
       en: 'Stiff, makes your arm sore.',
       ru: 'Такой тугой, что твоя рука начинает болеть.',
@@ -79,7 +79,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Ivory Bracelet' },
+    name       : {$$: 'Bone Bracelets' },
     description: {
       en: 'Elegant cuff made from the tusks of the last mammoth.',
       ru: 'Элегантные наручники, сделаные из бивней последнего мамонта.',
@@ -105,7 +105,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Iron Vambrace' },
+    name       : {$$: 'Iron Vambraces' },
     description: {
       en: 'Heavy on your arm... worth the protection.',
       ru: 'Тяжёлые ... но дают хорошую защиту.',
@@ -184,7 +184,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Mirrored Armlet' },
+    name       : {$$: 'Mirrored Armlets' },
     description: {
       en: 'Blinds your foes with a magical shine off a devious magicians mirror...',
       ru: 'Ослепляет ваших врагов блеском искривлённого магического зеркала...',
@@ -210,7 +210,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Golem Fragment' },
+    name       : {$$: 'Golem Fragments' },
     description: {
       en: 'The ancient golems left remnants of their passing, which you unscrupulously have decided to wear on your arm.',
       ru: 'Древние големы оставили остатки своих похождений, которые вы бессовестно решили надеть на руку.',
@@ -236,7 +236,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Coldforged Bracer' },
+    name       : {$$: 'Coldforged Bracers' },
     description: {
       en: 'The deceptively light steel offers chilling protection against sneaky blows.',
       ru: 'Обманчиво легкая сталь предлагает охлаждающую защиту от подлых ударов.',
@@ -262,7 +262,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Blackstar Gem' },
+    name       : {$$: 'Blackstars' },
     description: {
       en: 'Stars are not often black, yet this fragment has a... deep... deep darkness.',
       ru: 'Звезды не часто черны, но этот фрагмент имеет... глубокую... глубокую тьму.',
@@ -288,7 +288,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Eternal Vambraces' },
+    name       : {$$: 'Mobiuses' },
     description: {
       en: 'Reforged, lost, found, stolen, hidden for eras without end.',
       ru: 'Перекован, потерян, найден, украден, спрятан на века без конца.',
@@ -314,7 +314,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Lost Guardian' },
+    name       : {$$: 'Guardians' },
     description: {
       en: 'This item was forged on a full moon when mysterious incantations were heard in the whispers of the dark. Some say that it was Anubis himself speaking with the dead.',
       ru: 'Этот предмет был выкован в полнолуние, когда в темноте раздавался шепот таинственных заклинаний. Некоторые говорят, что это был сам Анубис, говорящий с мертвыми.',
