@@ -8,7 +8,7 @@ export default {
       ru: 'Да, открой мой сундук',
       pt: 'Sim, abre o meu esconderijo',
       es: 'Si, abre mi alijo',
-      fr: 'Oui, ouvre mon coffre',
+      fr: 'Oui, ouvre ma planque',
       de: 'Ja, öffne mein Versteck',
       ko: '네, 내 숨긴 장을여십시오.',
       nl: 'Ja, open mijn voorraad',
