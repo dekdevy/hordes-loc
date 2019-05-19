@@ -424,7 +424,7 @@ export default [
       hi: 'एक हथियार, इतना गुप्त की जिन गिने चुने लोगों ने इसे धारण किया है, उन्होंने सब कुछ तबाह कर दिया।',
       es: 'Se dicen que nadie se queda vivo para contar de este varita, pero... ¿de dónde viene las historias?',
       de: 'Diese Waffe ist so geheimnisvoll, dass die wenigen, die sie führen, alle getötet haben, die von ihr wissen.',
-      fr: 'Cette arme est si secrète que les quelques personnes qui la manie ont tué tous ceux qui la connaissent.',
+      fr: 'Cette arme est si secrète que les quelques personnes qui la manient ont tué tous ceux qui étaient au courant de son existence.',
       pt: 'Esta arma é tão secreta que os poucos que a empunham mataram todos os que a conhecem.',
       nl: 'Dit wapen is zo geheimzinnig dat de paar die het dragen iedereen gedood hebben die er vanaf weten.',
       tl: 'Ang sandata na ito ay sobrang lihim na ang ilan na gumagamit nito ay pumatay ng lahat ng alam nito.',
