@@ -26,32 +26,6 @@ export default [
   },
 
   {
-    name       : {$$: 'Old Bulwark' },
-    description: {
-      en: 'Some farmer has managed to construct a cute little shield.',
-      ru: 'Какому-то фермеру удалось создать милый маленький щит.',
-      es: 'Algún granjero ha conseguido construir un bonito escudo.',
-      de: 'Einem Landwirt ist es gelungen, einen süßen kleinen Schild zu bauen.',
-      fr: 'Un fermier a réussi à construire un joli petit bouclier.',
-      hi: 'किसी किसान के एक छोटी सी ढाल बना ही ली।',
-      it: 'Qualche contadino è riuscito a costruire un piccolo scudo carino.',
-      pt: 'Algum agricultor conseguiu construir um pequeno e bonito escudo.',
-      nl: 'Sommige boeren zijn erin geslaagd om een schattig schildje te bouwen.',
-      tl: 'Ang ilang magsasaka ay nakapagtatag ng isang nakatutuwang maliit na kalasag.',
-      bg: 'Някои фермери са успели да построят сладък малък щит.',
-      el: 'Κάποιος αγρότης κατάφερε να κατασκευάσει μια χαριτωμένη μικρή ασπίδα.',
-      pl: 'Jednemu z rolników udało się zbudować ładną małą tarczę.',
-      ht: 'Gen kèk kiltivatè jere yo konstwi yon bèl plak pwotèj ti kras.',
-      cs: 'Složitý štít vyrobený ze tří kovových kusů. Solidní.',
-      ja: '何人かの農夫はかわいい小さな盾を建設することに成功した。',
-      sv: 'En del bonde har lyckats konstruera en söt liten sköld.',
-      ko: '어떤 농부는 귀여운 작은 방패를 만들 수있었습니다.',
-      ro: 'Un fermier a reușit să construiască un scut mic drăguț.',
-      tr: 'Bazı çiftçi sevimli küçük bir kalkan yaptı.'
-    }
-  },
-
-  {
     name       : {$$: 'Buckler' },
     description: {
       en: 'Smelted iron ring filled with bronze. Flimsy in its making.',
@@ -74,6 +48,32 @@ export default [
       ko: '철 고리 청동 가득합니다. 어색한 제작.',
       ro: 'Inel de fier topit umplut cu bronz. Făcut superficial.',
       tr: 'Bronz ile doldurulmuş eritilmiş demir halka. İyi yapılmış değil.'
+    }
+  },
+
+  {
+    name       : {$$: 'Old Bulwark' },
+    description: {
+      en: 'Some farmer has managed to construct a cute little shield.',
+      ru: 'Какому-то фермеру удалось создать милый маленький щит.',
+      es: 'Algún granjero ha conseguido construir un bonito escudo.',
+      de: 'Einem Landwirt ist es gelungen, einen süßen kleinen Schild zu bauen.',
+      fr: 'Un fermier a réussi à construire un joli petit bouclier.',
+      hi: 'किसी किसान के एक छोटी सी ढाल बना ही ली।',
+      it: 'Qualche contadino è riuscito a costruire un piccolo scudo carino.',
+      pt: 'Algum agricultor conseguiu construir um pequeno e bonito escudo.',
+      nl: 'Sommige boeren zijn erin geslaagd om een schattig schildje te bouwen.',
+      tl: 'Ang ilang magsasaka ay nakapagtatag ng isang nakatutuwang maliit na kalasag.',
+      bg: 'Някои фермери са успели да построят сладък малък щит.',
+      el: 'Κάποιος αγρότης κατάφερε να κατασκευάσει μια χαριτωμένη μικρή ασπίδα.',
+      pl: 'Jednemu z rolników udało się zbudować ładną małą tarczę.',
+      ht: 'Gen kèk kiltivatè jere yo konstwi yon bèl plak pwotèj ti kras.',
+      cs: 'Složitý štít vyrobený ze tří kovových kusů. Solidní.',
+      ja: '何人かの農夫はかわいい小さな盾を建設することに成功した。',
+      sv: 'En del bonde har lyckats konstruera en söt liten sköld.',
+      ko: '어떤 농부는 귀여운 작은 방패를 만들 수있었습니다.',
+      ro: 'Un fermier a reușit să construiască un scut mic drăguț.',
+      tr: 'Bazı çiftçi sevimli küçük bir kalkan yaptı.'
     }
   },
 
@@ -104,7 +104,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Darkmetal Pavis' },
+    name       : {$$: 'Darkmetal Shield' },
     description: {
       en: 'Tall shield guarding your entire body. Only the most cunning of blows can evade its protection.',
       ru: 'Высокий щит, защищая всё тело. Только самый хитрый из ударов может пробить его защиту.',
@@ -129,7 +129,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Royal Guard' },
+    name       : {$$: 'Spiked Warshield' },
     description: {
       en: 'Gold and yellow patterns coat this shield, displaying your authority and power.',
       ru: 'Золотые и желтые узоры покрывают этот щит, показывая ваш авторитет и силу.',
@@ -154,7 +154,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Protectron' },
+    name       : {$$: 'Protecteron' },
     description: {
       en: 'Made from obsidian and steel. Someone sloppily attempted to paint it yellow.',
       ru: 'Изготовлен из обсидиана и стали. Кто-то небрежно попытался покрасить его в желтый цвет.',
@@ -180,7 +180,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Cerberus' },
+    name       : {$$: 'Svalinn' },
     description: {
       en: 'Tall, dark and heavy shield enveloping your unprotected body with the power of ancient beasts once residing in these valleys.',
       ru: 'Высокий, темный и тяжелый щит, обволакивающий ваше незащищенное тело силой древних зверей, когда-то живущих в этих долинах.',
@@ -205,7 +205,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Vilzorg' },
+    name       : {$$: 'Ancile' },
     description: {
       en: 'A sinister shield casting vile strands of shadows past the barriers of your foes mind to tarnish their memories.',
       ru: 'Зловещий щит, бросающий жуткие нити теней мимо барьеров ума ваших врагов, чтобы запятнать их воспоминания.',
@@ -230,7 +230,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Rubio' },
+    name       : {$$: 'Aegis' },
     description: {
       en: 'A mighty shield radiating divine light to your noble allies to engulf them in waves of valor.',
       ru: 'Могучий щит, излучающий божественный свет вашим благородным союзникам, чтобы поглотить их волнами храбрости.',
