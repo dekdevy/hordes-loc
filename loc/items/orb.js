@@ -1,29 +1,4 @@
 export default [
-  {
-    name       : {$$: 'Soil Clump' },
-    description: {
-      en: 'Moist ball of earth, leaving behind tiny critters in your hand.',
-      ru: 'Влажный комок земли, оставляющий в твоей руке крошечных тварей.',
-      de: 'Feuchter Erdball, der winzige Lebewesen in der Hand hinterlässt.',
-      fr: 'Boule de terre humide qui laisse de minuscules bestioles dans votre main.',
-      nl: 'Vochtige bal van de aarde, met achterlating van kleine beestjes in je hand.',
-      es: 'Una bola de tierra húmeda, dejando pequeñas criaturas en tu mano.',
-      hi: 'पृथ्वी का नम गोला, जिस में से छोटे कीड़े आपके हाथ पे गिरते रहेंगे।',
-      ht: 'Mouye boul sou latè, kite dèyè yon ti ensèk nan men ou.',
-      it: 'Una palla di terra umida, lasciando piccole creature in mano.',
-      pt: 'Bola húmida de terra, deixando para trás pequenas criaturas na mão.',
-      el: 'Υγρή σφαίρα γης που αφήνει πίσω τα μικροσκοπικά σκεύη στο χέρι σας.',
-      bg: 'Влажна топка на земята оставя след себе си малки същества в ръката си.',
-      pl: 'Wilgotna kula ziemi, zostawiająca w ręku malutkie stwory.',
-      cs: 'Vlhký míč země, zanechávající v ruce malé zvířátka.',
-      ja: 'あなたの手の中に小さな生き物を残して湿った地球の玉。',
-      sv: 'Fuktig boll av jorden, efterlämnar små kritor i handen.',
-      ko: '손에 작은 동물을 남기고 지구의 촉촉한 공.',
-      ro: 'Bilă umedă de pământ, lasă mici creaturi în mână în urma ei.',
-      tl: 'Bola ng lupa, umaalis sa likod ng maliliit na critters sa iyong kamay',
-      tr: 'Toprağın nemli topu, elinde küçük yaratıklar bırakır'
-    }
-  },
 
   {
     name       : {$$: 'Rat Skull' },
@@ -78,6 +53,22 @@ export default [
   },
 
   {
+    name       : {$$: 'Seer\'s Stone' },
+    description: {
+      en: 'Item Description'
+    }
+  },
+
+
+
+  }
+    name       : {$$: 'Philosopher\’s Stone' },
+    description: {
+      en: 'Item description'
+    }
+  },
+
+  {
     name       : {$$: 'Cyclops\'s Eye' },
     description: {
       en: 'An ancient cyclops terrorizing these lands was finally killed, allowing you to scavenge this grim souvenir.',
@@ -104,28 +95,16 @@ export default [
   },
 
   {
-    name       : {$$: 'Zauberer' },
+    name       : {$$: 'Nüwa\'s Rondure' },
     description: {
-      en: 'Lustrous and charming, this mysterious sphere makes the air around it ice-cold.',
-      ru: 'Блестящая и очаровательная, эта мистическая сфера делает воздух ледяным вокруг нее.',
-      de: 'Schimmernd und charmant, lässt diese mysteriöse Kugel die Luft um sie herum eiskalt werden.',
-      fr: 'Lustrée et charmante, cette sphère mystérieuse rend l\'air autour d\'elle glacial.',
-      nl: 'Deze mysterieuze en charmante sfeer maakt de lucht er omheen ijskoud.',
-      es: 'Brillante y encantadora, esta misteriosa esfera hace que el aire que la rodea se enfríe.',
-      bg: 'Блестяща и очарователна тази мистериозна сфера прави въздуха около него леден.',
-      el: 'Φωτεινή και γοητευτική αυτή η μυστήρια σφαίρα κάνει τον αέρα γύρω από το παγωμένο.',
-      hi: 'चमकदार और आकर्षक, ये रहस्यमयी गोला अपने आस पास की हवा को बर्फ़ की तरह ठंडा करता है।',
-      ht: 'Klere ak bon, esfè sa a misterye fè lè a bò kote l \'glas-frèt.',
-      it: 'Lustrosa e affascinante, questa misteriosa sfera rende l\'aria intorno ad essa gelida.',
-      pt: 'Lustrosa e encantadora, esta esfera misteriosa faz com que o ar à sua volta fique gelado.',
-      pl: 'Tajemnicza i czarująca, tajemnicza kula sprawia, że powietrze wokół niej jest lodowato zimne.',
-      cs: 'Tato záhadná koule, živá a okouzlující, vytváří vzduch kolem ní ledově studený.',
-      ja: '艶やかで魅力的なこの不思議な球体は、周囲の空気を氷冷します。',
-      sv: 'Lysande och charmig, denna mystiska sfär gör att luften är iskallig.',
-      ko: '광택이 있고 매력적 인이 신비한 구가 얼음을 차갑게합니다.',
-      ro: 'Strălucitoare și fermecătoare, această sferă misterioasă face aerul din jurul ei rece ca gheața.',
-      tl: 'Malakas at kaakit-akit, ang misteryosong globo na ito ay gumagawa ng hangin sa paligid ng yelo na malamig.',
-      tr: 'Parlak ve büyüleyici olan bu gizemli küre, etrafındaki havayı buz gibi soğuk yapar.'
+      en: 'Item Description'
+    }
+  },
+
+  {
+    name       : {$$: 'Baetylus\'s Eye' },
+    description: {
+      en: ''
     }
   },
 
@@ -155,108 +134,11 @@ export default [
     }
   },
 
-  {
-    name       : {$$: 'Alviarin' },
-    description: {
-      en: 'Transparent yellow tinged orb, revealing trapped infernal plumes of paranormal aura, engulfing the minds of the weak with plans of poison and murder.',
-      ru: 'Прозрачная желтая оттененная сфера, раскрывающая застрявшие адские шлейфы паранормальной ауры. Поглощающает слабые умы провоцируя их совершать отравления и убийства.',
-      de: 'Transparente, gelb gefärbte Kugel, die gefangene infernalische Federn paranormaler Aura enthüllt, die den Geist der Schwachen mit Plänen von Gift und Mord umhüllen.',
-      fr: 'Orbe transparent teinté de jaune, révélant des plumes infernales piégées dans une aura paranormale, engloutissant les esprits des faibles dans des envies d\'empoisonnement et de meurtre.',
-      nl: 'Transparante geel getinte bol, die de gevangen helse pluimen van paranormale aura onthult en de geesten van de zwakken overspoelt met plannen van vergif en moord.',
-      es: 'Órbita teñida de amarillo transparente, revelando plumas infernales atrapadas de aura paranormal, envolviendo las mentes de los débiles con planes de veneno y asesinato.',
-      bg: 'Прозрачно жълто кълбо, което разкрива затворени адски струи паранормална аура, поглъщащи умовете на слабите с планове за отрова и убийство.',
-      el: 'Διαφανές κίτρινο tinged σφαίρα που αποκαλύπτει παγιδευμένες κακοήθεις μάζες παραφυσικής αύρας που κατακλύζουν τα μυαλά των αδύναμων με σχέδια δηλητηρίασης και δολοφονίας.',
-      hi: 'पारदर्शी पीला गोला, असाशारन और रशसी चमक प्रत्यक्ष करता है, साथ ही कमज़ोरों के मन को ज़हर और हत्या की योजनाओं से खा जाता है।',
-      ht: 'Transparan jòn tente orb, revele plume bloke dyabolik nan aura paranormal, anglouti lespri yo nan fèb la ak plan nan pwazon ak touye moun.',
-      it: 'Globo giallo trasparente tinto di giallo, rivelando pennacchi infernali intrappolati di aura paranormale, inghiottendo le menti dei deboli con piani di veleno e omicidio.',
-      pt: 'Orb transparente amarelo tingido, revelando plumas infernais aprisionadas de aura paranormal, envolvendo as mentes dos fracos com planos de veneno e assassinato.',
-      pl: 'Przezroczysty, żółto zabarwiony kula, odsłaniający uwięzione piekielne pióropusze aury paranormalnej, pochłaniający umysły słabych planami trucizny i morderstwa.',
-      cs: 'Průhledná žlutá bledá koule, která odhaluje uvězněné pekelné šmouhy paranormální aury, pohltí mysli slabých s plány jedu a vraždy.',
-      ja: '毒と殺人の計画で弱者の心を飲み込んでいる超常的なオーラの閉じ込められた地獄の羽毛を明らかにしている透明な黄色がかったオーブ。',
-      sv: 'Genomskinlig gul tinkad orb, avslöjade fångade infernala plumer av paranormal aura, uppsluka de svagas sinnen med planer om gift och mord.',
-      ko: '투명한 노란 물결 모양의 오브, 드러내는 극한의 기운이 담긴 깃털을 포착하여 약한 사람들의 마음을 독살과 살인의 계획으로 삼키고 있습니다.',
-      ro: 'Sferă transparentă cu tentă galbenă, dezvăluie pliuri infernale prinse de aura paranormală, înghițind mințile celor slabi cu planuri de otravă și crimă.',
-      tl: 'Dilaw na globo, na inilalantad ang nakulong na mga infernal na pitch ng paranormal aura, na nilulukob ang isip ng mahihina sa mga plano ng lason at pagpatay.',
-      tr: 'Şeffaf sarı küre. büyülü ruhlar ortaya çıkar, zayıf zihinleri ele geçirir, zehir ve cinayet düşüncelerini getirir.'
-    }
-  },
 
   {
-    name       : {$$: 'Glaedr' },
+    name       : {$$: 'Lich\'s Phylactery' },
     description: {
-      en: 'Pale blue faceted artifact, radiating pulsing waves of light, banishing the dark shadows of demonic souls from your path to glory.',
-      ru: 'Артефакт бледно-голубого оттенка, излучающий пульсирующие лучи света, изгоняющий темные тени демонических душ с вашего пути к славе.',
-      de: 'Hellblaues facettiertes Artefakt, das pulsierende Lichtwellen ausstrahlt und die dunklen Schatten dämonischer Seelen von deinem Weg zur Herrlichkeit vertreibt.',
-      fr: 'Artefact bleu pâle à facettes, rayonnant d\'ondes pulsantes de lumière, bannissant les ombres noires des âmes démoniaques de votre chemin vers la gloire.',
-      nl: 'Lichtblauw gefacetteerde artefacten, die pulserende lichtgolven uitstralen en de donkere schaduwen van demonische zielen van je pad naar glorie verbannen.',
-      es: 'Artefacto de color azul pálido con facetas, que irradia pulsantes ondas de luz, desterrando las sombras oscuras de las almas demoníacas de tu camino hacia la gloria.',
-      bg: 'Бледосин фасетен артефакт, излъчващ пулсиращи вълни светлина, прогонващи тъмните сенки на демоничните души от пътя ви към славата.',
-      el: 'Ανοιχτό μπλε πολύπλευρο τεχνούργημα που ακτινοβολεί παλλόμενα κύματα φωτός που εξαφανίζουν τις σκοτεινές σκιές των δαιμονικών ψυχών από το μονοπάτι προς τη δόξα σας.',
-      hi: 'फीका नीला गोला, जो ताक़तवर किरने भेजता है, आपके प्रताप के रास्ते में आने वाले राक्षसी आत्माओं की छांव को नस्ट कर देता है।',
-      ht: 'Pale ble fatra asosye, gaye vag enpilsyon nan limyè, banan lonbraj yo fè nwa nan nanm dyabolik soti nan chemen ou nan tout bèl pouvwa.',
-      it: 'Artefatto sfaccettato blu pallido, che irradia onde pulsanti di luce, allontanando le ombre scure delle anime demoniache dal tuo cammino verso la gloria.',
-      pt: 'Artefato facetado azul pálido, irradiando ondas pulsantes de luz, banindo as sombras escuras das almas demoníacas do seu caminho para a glória.',
-      pl: 'Jasnoniebieski, fasetowany artefakt, promieniujące pulsujące fale światła, wygnanie ciemnych cieni demonicznych dusz z Twojej drogi do chwały.',
-      cs: 'Světle modrý fasetový artefakt, vyzařující pulzující vlny světla, vyhánějící temné stíny démonických duší z cesty ke slávě.',
-      ja: 'あなたの道から栄光への道から悪魔の魂の暗い影を追い払う光の脈動波を放射している淡いブルーの多面的なアーティファクト。',
-      sv: 'Blåblå fasetterad artefakt, utstrålande pulserande ljusvågor, fördärva de mörka skuggorna av demoniska själar från din väg till ära.',
-      ko: '옅은 파란색면 처리 된 유물, 빛의 파동을 발산하여 악마 영혼의 어두운 그림자를 당신의 길에서 영광으로 추방합니다.',
-      ro: 'Artefact albastru deschis, radiază valuri pulsante de lumină, alungând umbrele întunecate ale sufletelor demonice din calea ta spre glorie.',
-      tl: 'Mapusyaw na asul na napiling artepakto, nagpapaikut-ikot ng mga pulsing alon ng liwanag, na naglalaho sa madilim na mga anino ng mga demonikong kaluluwa mula sa iyong landas patungo sa kaluwalhatian.',
-      tr: 'Antik soluk mavi küre, yanıp sönen ışıklar şeytanları zafere giden yolunuzdan uzak tutar.'
-    }
-  },
-
-  {
-    name       : {$$: 'Mordhr' },
-    description: {
-      en: 'Flesh and blood infused this orb with the souls of the slain, creating a dark red essence embedded in itself, granting you unprecedented lust for blood and battle.',
-      ru: 'Плоть и кровь наполнили этот шар душами убитых, создавая темно-красную сущность, заложенную в себе, даря вам беспрецедентную жажду крови и сражений.',
-      de: 'Fleisch und Blut durchdrangen diese Kugel mit den Seelen der Erschlagenen und schufen eine dunkelrote Essenz, die in sich selbst eingebettet ist und Ihnen eine beispiellose Lust auf Blut und Kampf schenkt.',
-      fr: 'La chair et le sang ont rempli cet orbe avec les âmes des morts, créant une essence rouge foncé incrustée en elle-même, vous accordant une envie sans précédent pour le sang et la bataille.',
-      nl: 'Vlees en bloed heeft deze bol doordrenkt met de zielen van de gedode mensen, waardoor een donkerrode essentie in zichzelf is ingebed, waardoor je een ongekende lust voor bloed en strijd krijgt.',
-      es: 'La carne y la sangre infundieron en este orbe las almas de los muertos, creando una esencia roja oscura incrustada en sí misma, otorgándote un deseo sin precedentes de sangre y batalla.',
-      bg: 'Плътта и кръвта вливаха тази кълбо с душите на убитите, създавайки тъмночервена същност, вградена в себе си, която ви дава безпрецедентна похот за кръв и битка.',
-      el: 'Η σάρκα και το αίμα έλιναν αυτό το σφαιρίδιο με τις ψυχές των δολοφονηθέντων δημιουργώντας μια σκοτεινή κόκκινη ουσία ενσωματωμένη στην ίδια σου δίνοντάς σου άνευ προηγουμένου λαχτάρα για το αίμα και τη μάχη.',
-      hi: 'माँस और ख़ून ने इस गोले को मृत की आत्माओं से भर दिया, अपने अंदर एक गहरा लाम तत्व जोड़ दिया, जो आपको ख़ून और युद्ध का अभूतपूर्व मोह प्रदान करता है।',
-      ht: 'Kò ak san enfuze orb sa a ak nanm yo nan touye yo, kreye yon sans wouj fonse entegre nan tèt li, ki akòde ou lanvi san parèy pou san ak batay.',
-      it: 'La carne e il sangue hanno infuso questo globo con le anime degli uccisi, creando un\'essenza rosso scuro incastonata in se stessa, che ti garantisce una lussuria senza precedenti per il sangue e la battaglia.',
-      pt: 'Carne e sangue infundiram este globo com as almas dos mortos, criando uma essência vermelha escura embutida em si mesma, concedendo a você uma luxúria sem precedentes por sangue e batalha.',
-      pl: 'Ciało i krew nasyciły tę kulę duszami zabitych, tworząc ciemnoczerwoną, osadzoną w sobie ciemną esencję, dając ci bezprecedensową żądzę krwi i walki.',
-      cs: 'Tělo a krev naplnily tuto kouli duší zabitých a vytvořily v sobě tmavě červenou esenci, která vám přinesla bezprecedentní touhu po krvi a bitvě.',
-      ja: '肉と血が殺人の魂でこの球体を注入し、それ自体に埋め込まれた濃い赤のエッセンスを作り出し、血と戦いに対する前例のない欲望をあなたに与えました。',
-      sv: 'Kött och blod infunderade denna orb med de dödas själar, vilket skapade en mörkröd essens inbäddad i sig, vilket ger dig en aldrig tidigare skådad lust för blod och kamp.',
-      ko: '살과 피는이 오브을 살해 된 사람들의 영혼과 함께 주입 시키며, 진한 빨간색의 본질을 만들어 내고, 피와 전투를위한 전례없는 정욕을줍니다.',
-      ro: 'Carnea și sângele au infuzat această sferă cu sufletele celor uciși, creând o esență roșie întunecată încorporată în sine, oferindu-ți pofta fără precedent pentru sânge și luptă.',
-      tl: 'Inihaw ng laman at dugo ang globo na ito sa mga kaluluwa ng pinatay, na lumilikha ng isang madilim na pulang kakanyahan na naka-embed sa sarili nito, na nagbibigay sa iyo ng walang kapararakan na kasamaan para sa dugo at labanan.',
-      tr: 'et ve kan bu küreyi yarattı, ölülerin ruhlarıyla. Koyu kırmızı bir öz oluşturur, bu küre size kan ve savaş için bir iç arzu getiriyor.'
-    }
-  },
-
-  {
-    name       : {$$: 'Darthrai' },
-    description: {
-      en: 'Dark, deadly and demonic, an orb encased in small craters filled with blood-red gems, weaving sheets of terror into those who oppose you.',
-      ru: 'Темная, смертоносная и демоническая, сфера облицованая маленькими кратерами, заполненными кроваво-красными драгоценными камнями, вплетает ужас в тех, кто против вас.',
-      de: 'Dunkel, tödlich und dämonisch, eine Kugel, die von kleinen Kratern voller blutroter Edelsteine umgeben ist, die Schreckensblätter in diejenigen einweben, die sich dir widersetzen.',
-      fr: 'Sombre, mortel et démoniaque, un globe encastré dans de petits cratères remplis de pierres précieuses rouge sang, tissant des feuilles de terreur en ceux qui vous opposent.',
-      nl: 'Donker, dodelijk en duivels, een orb, omgeven door kleine kraters gevuld met bloedrode edelstenen, die met schrik weven vellen van terreur in degenen die zich tegen je verzetten.',
-      es: 'Oscura, mortífera y demoníaca, un orbe encajonado en pequeños cráteres llenos de gemas rojas de sangre, tejiendo superficie de terror en aquellos que se oponen a ti.',
-      bg: 'Тъмна смъртоносна и демонична кълбо, затворена в малки кратери, пълни с кървавочервени скъпоценни камъни, преплитащи терористични листове в онези, които ви противопоставят.',
-      el: 'Σκοτεινή και δαιμονική σφαίρα που περιβάλλεται από μικρούς κρατήρες γεμάτους με αιματηρούς κόκκινους πολύτιμους λίθους που τσακίζουν φύλλα τρόμου σε όσους σας αντιτάσσονται.',
-      hi: 'गहरा, जानलेवा और राक्षसी, ख़ूनी मनियो से भरे छोटे गड्ढों में बंद गोला, आपके दुश्मनो में आतंक की लहरे भर देता है।',
-      ht: 'Nwa, mòtèl ak dyabolik, yon orb antoure nan kratèr ti plen ak Meservey san-wouj, resi dra sou pè nan moun ki opoze ou.',
-      it: 'Oscuro, mortale e demoniaco, un globo racchiuso in piccoli crateri pieni di gemme rosso sangue, intrecciando fogli di terrore in coloro che vi si oppongono.',
-      pt: 'Escuro, mortal e demoníaco, um globo envolto em pequenas crateras cheias de gemas vermelhas de sangue, tecendo folhas de terror naqueles que se opõem a ti.',
-      pl: 'Mroczna, zabójcza i demoniczna kula otoczona małymi kraterami wypełnionymi krwistoczerwonymi klejnotami, wplatająca prześcieradła terroru w tych, którzy ci się sprzeciwiają.',
-      cs: 'Temné, smrtící a démonické, koule obklopená malými krátery naplněnými krvavě červenými drahokamy, tkalcovými hrůzou do těch, kteří jsou proti vám.',
-      ja: '暗く致命的で悪魔のような小さなクレーターに包まれた玉が、あなたに対抗する者たちに、一枚の恐怖を織り交ぜた血のような宝石で満たされています。',
-      sv: 'Mörk, dödlig och demonisk, en orb innesluten i små kratrar fyllda med blodröda pärlor, vävande skivor till dem som motsätter dig.',
-      ko: '어둡고 치명적이며 귀신이 많은 작은 분화구에 갇혀있는 오브는 적혈구가 가득한 보석으로 가득 차며, 당신을 반대하는 사람들에게 공포의 장을 짠다.',
-      ro: 'Întunecată, mortală și demonică, o sferă încastrată în cratere mici, umplute cu pietre roșii-sângerii, țese foi de teroare în cei care ți se opun.',
-      tl: 'Dark, deadly and demonic, an orb encased in small craters filled with blood-red gems, weaving sheets of terror into those who oppose you.',
-      tr: 'Karanlık, ölümcül ve şeytani, kan kırmızısı taşlar ile dolu küçük kraterler kaplı bir küre, sana karşı olanlar içine terör çarşaf dokuma.'
+      en: ''
     }
   }
-
 ]
