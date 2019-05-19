@@ -46,7 +46,7 @@ export default [
       bg: 'Изглежда евтино и ненадеждно, но достатъчно здрава за стрелите ви.',
       cs: 'Vypadá to levné a nespolehlivé, ale dostatečně pevná pro vaše šípy.',
       ja: '安くて信頼できないように見えますが、あなたの矢には十分頑丈です。',
-      tr: 'Ucuz ve güvenilmez görünüyor, ancak oklarınız için yeterince sağlam.''
+      tr: 'Ucuz ve güvenilmez görünüyor, ancak oklarınız için yeterince sağlam.'
     }
   },
 

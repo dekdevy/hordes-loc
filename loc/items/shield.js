@@ -131,7 +131,6 @@ export default [
   {
     name       : {$$: 'Spiked Warshield' },
     description: {
-patterns
       en: 'Gold and yellow spikes coat this shield, displaying your authority and power.',
       ru: 'Золотые и желтые шипы покрывают этот щит, показывая ваш авторитет и силу.',
       fr: 'Des pics dorés et jaunes recouvrent ce bouclier, montrant votre autorité et votre puissance.',

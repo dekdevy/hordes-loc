@@ -59,10 +59,8 @@ export default [
     }
   },
 
-
-
-  }
-    name       : {$$: 'Philosopher\’s Stone' },
+  {
+    name       : {$$: 'Philosopher\'s Stone' },
     description: {
       en: 'Item description'
     }
@@ -133,7 +131,6 @@ export default [
       tr: 'Esrarengiz zümrüt yeşil küre. Serpantin kehanetlerinin ince gravürlerine sarılmış. şöhret ve serendipity taşıyıcısına getirmek.'
     }
   },
-
 
   {
     name       : {$$: 'Lich\'s Phylactery' },

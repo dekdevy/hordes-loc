@@ -400,7 +400,7 @@ export default {
     ro: 'Scala interfeţei',
     pt: 'Escala de interface',
     es: 'Escala de interfaz',
-    fr: 'Taille de l'interface',
+    fr: 'Taille de l\'interface',
     de: 'Schnittstellenwaage',
     ko: '인터페이스 스케일',
     nl: 'Interface schaal',
