@@ -3,7 +3,7 @@ export default {
   waitunstash: {
     en: 'You have to wait until you can retrieve this item.',
     de: 'Du musst noch etwas warten, bis du dieses Item nehmen kannst.',
-    ru: 'вы должны подождать перед тем как вы можете получить этот предмет',
+    ru: 'Вы должны подождать перед тем как вы можете получить этот предмет',
     tl: 'Kailangan mong maghintay hanggang sa maari mong ma-retreive ang item na ito.',
     pt: 'Você tem que esperar até que você possa recuperar este item.',
     it: 'Devi aspettare di poter recuperare questo articolo.',
@@ -12,7 +12,7 @@ export default {
     es: 'Tiene que esperar hasta que pueda recuperar este elemento.',
     nl: 'Je moet wachten tot je dit item kan terugvinden.',
     sv: 'Du måste vänta tills du kan hämta det här objektet.',
-    bg: 'Трябва да изчакате, докато изтеглите този елемент.',
+    bg: 'Трябва да изчакате докато изтеглите този елемент.',
     cs: 'Musíte počkat, dokud tuto položku nelze načíst.',
     ko: '이 항목을 가져올 때까지 기다려야합니다.',
     ja: 'このアイテムを取得できるようになるまで待つ必要があります。',
@@ -37,7 +37,7 @@ export default {
 
   stash: {
     en: 'Move to stash',
-    de: 'In den Speicher verschieben',
+    de: 'Bewegung zur Brust',
     ru: 'Положить в сундук',
     pt: 'Mover para o esconderijo',
     it: 'Spostare a nascondiglio',
