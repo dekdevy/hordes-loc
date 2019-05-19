@@ -130,7 +130,7 @@ export default [
   {
     name       : {$$: 'Dragonhide Cynosure' },
     description: {
-      en: ''
+      en: 'Item Description'
     }
   },
 
