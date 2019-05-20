@@ -9,7 +9,7 @@ export default [
 
   {
     name       : {$$: 'Wolf\'s Collar'},
-    description
+    description: {
       en: 'Item Description'
     }
   },
