@@ -26,6 +26,32 @@ export default [
   },
 
   {
+    name       : {$$: 'Buckler' },
+    description: {
+      en: 'Smelted iron ring filled with bronze. Flimsy in its making.',
+      ru: 'Плавленый железный круг залитый бронзой. Довольно хлипкий.',
+      es: 'Anillo de hierro fundido relleno de bronce. Frágil en su fabricación.',
+      de: 'Geschmolzener Eisenring mit Bronzefüllung. Flimsy in seiner Entstehung.',
+      fr: 'Un cercle en fonte de fer rempli de bronze. Frêle dans sa fabrication.',
+      tl: 'Nalikom na singsing na bakal na puno ng tanso. Mahina sa paggawa nito.',
+      bg: 'Излята желязна пръстен с бронз. Слаб в своето създаване.',
+      el: 'Σφυρήλατο σίδερο δαχτυλίδι γεμάτο με χαλκό. Αδύνατο να το κάνει.',
+      it: 'Anello in ferro fuso riempito di bronzo. Flimsy nella sua realizzazione.',
+      pt: 'Anel de ferro fundido cheio de bronze. Frágil na sua confecção.',
+      hi: 'लोहा पिघलकर पीतल से भरी हुई। ठीक से नहीं बनी है।',
+      nl: 'Gesmolten ijzeren ring gevuld met brons. Mager in zijn samenstelling.',
+      pl: 'Wytopiony żelazny pierścień wypełniony brązem. Cienki w wykonaniu.',
+      ht: 'Boule bag fè plen ak kwiv. Kannfeuy nan fè li yo.',
+      cs: 'Některému farmáři se podařilo postavit roztomilý malý štít.',
+      ja: '青銅で満たされた製錬鉄の輪。その作成にぎこちない。',
+      sv: 'Smältjärnsring fylld med brons. Spetsig i sin framställning.',
+      ko: '철 고리 청동 가득합니다. 어색한 제작.',
+      ro: 'Inel de fier topit umplut cu bronz. Făcut superficial.',
+      tr: 'Bronz ile doldurulmuş eritilmiş demir halka. İyi yapılmış değil.'
+    }
+  },
+
+  {
     name       : {$$: 'Old Bulwark' },
     description: {
       en: 'Some farmer has managed to construct a cute little shield.',
@@ -48,32 +74,6 @@ export default [
       ko: '어떤 농부는 귀여운 작은 방패를 만들 수있었습니다.',
       ro: 'Un fermier a reușit să construiască un scut mic drăguț.',
       tr: 'Bazı çiftçi sevimli küçük bir kalkan yaptı.'
-    }
-  },
-
-  {
-    name       : {$$: 'Buckler' },
-    description: {
-      en: 'Smelted iron ring filled with bronze. Flimsy in its making.',
-      ru: 'Плавленый железный круг залитый бронзой. Довольно хлипкий.',
-      es: 'Anillo de hierro fundido relleno de bronce. Frágil en su fabricación.',
-      de: 'Geschmolzener Eisenring mit Bronzefüllung. Flimsy in seiner Entstehung.',
-      fr: 'Bague en fonte de fer remplie de bronze. Frêle dans sa fabrication.',
-      tl: 'Nalikom na singsing na bakal na puno ng tanso. Mahina sa paggawa nito.',
-      bg: 'Излята желязна пръстен с бронз. Слаб в своето създаване.',
-      el: 'Σφυρήλατο σίδερο δαχτυλίδι γεμάτο με χαλκό. Αδύνατο να το κάνει.',
-      it: 'Anello in ferro fuso riempito di bronzo. Flimsy nella sua realizzazione.',
-      pt: 'Anel de ferro fundido cheio de bronze. Frágil na sua confecção.',
-      hi: 'लोहा पिघलकर पीतल से भरी हुई। ठीक से नहीं बनी है।',
-      nl: 'Gesmolten ijzeren ring gevuld met brons. Mager in zijn samenstelling.',
-      pl: 'Wytopiony żelazny pierścień wypełniony brązem. Cienki w wykonaniu.',
-      ht: 'Boule bag fè plen ak kwiv. Kannfeuy nan fè li yo.',
-      cs: 'Některému farmáři se podařilo postavit roztomilý malý štít.',
-      ja: '青銅で満たされた製錬鉄の輪。その作成にぎこちない。',
-      sv: 'Smältjärnsring fylld med brons. Spetsig i sin framställning.',
-      ko: '철 고리 청동 가득합니다. 어색한 제작.',
-      ro: 'Inel de fier topit umplut cu bronz. Făcut superficial.',
-      tr: 'Bronz ile doldurulmuş eritilmiş demir halka. İyi yapılmış değil.'
     }
   },
 
@@ -104,7 +104,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Darkmetal Pavis' },
+    name       : {$$: 'Darkmetal Shield' },
     description: {
       en: 'Tall shield guarding your entire body. Only the most cunning of blows can evade its protection.',
       ru: 'Высокий щит, защищая всё тело. Только самый хитрый из ударов может пробить его защиту.',
@@ -129,13 +129,12 @@ export default [
   },
 
   {
-    name       : {$$: 'Royal Guard' },
+    name       : {$$: 'Spiked Warshield' },
     description: {
-      en: 'Gold and yellow patterns coat this shield, displaying your authority and power.',
-      ru: 'Золотые и желтые узоры покрывают этот щит, показывая ваш авторитет и силу.',
-      es: 'Patrones dorados y amarillos cubren este escudo, mostrando su autoridad y poder.',
-      fr: 'Des motifs dorés et jaunes recouvrent ce bouclier, démontrant votre autorité et votre pouvoir.',
-      de: 'Gold- und gelbe Muster umhüllen diesen Schild und zeigen deine Autorität und Macht.',
+      en: 'Gold and yellow spikes coat this shield, displaying your authority and power.',
+      ru: 'Золотые и желтые шипы покрывают этот щит, показывая ваш авторитет и силу.',
+      fr: 'Des pics dorés et jaunes recouvrent ce bouclier, montrant votre autorité et votre puissance.',
+      de: 'Gold- und gelbe Spikes umhüllen diesen Schild und zeigen deine Autorität und Macht.',
       pt: 'Padrões dourados e amarelos revestem este escudo, mostrando sua autoridade e poder.',
       ko: '금색과 노란색 무늬가이 방패를 덮어 당신의 권위와 힘을 보여줍니다.',
       nl: 'Gouden en gele patronen bedekken dit schild en tonen je autoriteit en kracht.',
@@ -154,7 +153,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Protectron' },
+    name       : {$$: 'Protecteron' },
     description: {
       en: 'Made from obsidian and steel. Someone sloppily attempted to paint it yellow.',
       ru: 'Изготовлен из обсидиана и стали. Кто-то небрежно попытался покрасить его в желтый цвет.',
@@ -180,12 +179,12 @@ export default [
   },
 
   {
-    name       : {$$: 'Cerberus' },
+    name       : {$$: 'Svalinn' },
     description: {
       en: 'Tall, dark and heavy shield enveloping your unprotected body with the power of ancient beasts once residing in these valleys.',
       ru: 'Высокий, темный и тяжелый щит, обволакивающий ваше незащищенное тело силой древних зверей, когда-то живущих в этих долинах.',
       es: 'Alto, oscuro y pesado escudo que envuelve tu cuerpo desprotegido con el poder de los antiguos fieras que alguna vez residieron en estos valles.',
-      fr: 'Grand, sombre et lourd bouclier enveloppant votre corps non protégé avec le pouvoir des anciens bêtes qui résidaient autrefois dans ces vallées.',
+      fr: 'Grand, sombre et lourd bouclier enveloppant votre corps non protégé avec le pouvoir des bêtes anciennes qui résidaient autrefois dans ces vallées.',
       de: 'Hoher, dunkler und schwerer Schild, der Ihren ungeschützten Körper mit der Kraft alter Tiere umhüllt, die einst in diesen Tälern lebten.',
       pt: 'Escudo alto, escuro e pesado que envolve o seu corpo desprotegido com o poder de antigos bestas que outrora residiam nestes vales.',
       ko: '한때이 골짜기에 있었던 고대 짐승의 힘으로 무방비 상태의 몸을 감싼 크고 짙은 무거운 방패.',
@@ -205,12 +204,12 @@ export default [
   },
 
   {
-    name       : {$$: 'Vilzorg' },
+    name       : {$$: 'Ancile' },
     description: {
       en: 'A sinister shield casting vile strands of shadows past the barriers of your foes mind to tarnish their memories.',
       ru: 'Зловещий щит, бросающий жуткие нити теней мимо барьеров ума ваших врагов, чтобы запятнать их воспоминания.',
       es: 'Un siniestro escudo que arroja viles hebras de sombras a través de las barreras de la mente de tus enemigos para empañar sus recuerdos.',
-      fr: 'Un sinistre bouclier qui projette des ombres viles sur les barrières de l\'esprit de vos ennemis pour ternir leurs souvenirs.',
+      fr: 'Un sinistre bouclier qui projette de viles ombres au delà des barrières de l\'esprit de vos ennemis pour ternir leurs souvenirs.',
       de: 'Ein finsterer Schild wirft abscheuliche Schattensträhnen vorbei an den Barrieren deines Feinden, um ihre Erinnerungen zu trüben.',
       pt: 'Um escudo sinistro que lança vil fios de sombras que ultrapassam as barreiras da mente dos teus inimigos para manchar as suas memórias.',
       ko: '적의 장벽을 지나서 사악한 방패가 그림자를 드리 우며 그들의 기억을 손상시킵니다.',
@@ -230,12 +229,12 @@ export default [
   },
 
   {
-    name       : {$$: 'Rubio' },
+    name       : {$$: 'Aegis' },
     description: {
       en: 'A mighty shield radiating divine light to your noble allies to engulf them in waves of valor.',
       ru: 'Могучий щит, излучающий божественный свет вашим благородным союзникам, чтобы поглотить их волнами храбрости.',
       es: 'Un poderoso escudo que irradia luz divina a tus nobles aliados para envolverlos en olas de valor.',
-      fr: 'Un puissant bouclier rayonnant la lumière divine à vos nobles alliés pour les engloutir dans des vagues de vaillance.',
+      fr: 'Un puissant bouclier rayonnant de la lumière divine vers vos nobles alliés pour les engloutir dans des vagues de vaillance',
       de: 'Ein mächtiger Schild, der göttliches Licht auf deine edlen Verbündeten ausstrahlt, um sie in Wellen der Tapferkeit zu versenken.',
       pt: 'Um poderoso escudo que irradia luz divina aos seus nobres aliados para os envolver em ondas de valor.',
       ko: '고귀한 동맹국에 신성한 빛을 발산하는 강력한 방패가 그들을 용맹 한 물결에 잠기 게합니다.',

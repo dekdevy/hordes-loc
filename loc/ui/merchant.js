@@ -8,7 +8,7 @@ export default {
     tl: 'Paghahanap',
     pt: 'Busca',
     it: 'Ricerca',
-    fr: 'Rechercher',
+    fr: 'Recherche',
     es: 'Buscar',
     pl: 'Wyszukiwanie',
     el: 'Ψάξιμο',
@@ -29,7 +29,7 @@ export default {
     pt: 'Apenas os meus itens',
     it: 'Solo i miei articoli',
     pl: 'Tylko moje rzeczy',
-    fr: 'Mes articles seulement',
+    fr: 'Uniquement mes objets',
     es: 'Sólo mis artículos',
     el: 'Τα στοιχεία μου μόνο',
     bg: 'Само моите елементи',
@@ -49,7 +49,7 @@ export default {
     pt: 'Comprar item',
     it: 'Comprare l\'articolo',
     es: 'Comprar artículo',
-    fr: 'Acheter l\'article',
+    fr: 'Acheter l\'objet',
     pl: 'Pozycja zakupu',
     el: 'Αγοράστε στοιχείο',
     bg: 'Купете артикул',
@@ -69,7 +69,7 @@ export default {
     pt: 'Item de exclusão',
     it: 'Rimuovere l\'elemento',
     pl: 'Usuń element',
-    fr: 'Retirer l\'élément',
+    fr: 'Enlever l\'objet des enchères',
     es: 'Eliminar elemento',
     el: 'Διαγραφή στοιχείου',
     bg: 'Делист вещ',
@@ -80,8 +80,9 @@ export default {
     ro: 'Scoate Obiectul'
   },
 
+  // include the space and punctuation
   price: {
-    en: 'Price: ', // include the space and punctuation
+    en: 'Price: ',
     nl: 'Prijs: ',
     de: 'Preis: ',
     ru: 'Цена: ',
@@ -90,7 +91,7 @@ export default {
     it: 'Prezzo: ',
     es: 'Precio: ',
     pl: 'Cena: ',
-    fr: 'Prix : ',
+    fr: 'Prix: ',
     el: 'Τιμή: ',
     bg: 'Цена: ',
     cs: 'Cena: ',
@@ -100,15 +101,16 @@ export default {
     ro: 'Preț: '
   },
 
+  // include the space and punctuation
   fee: {
-    en: 'Fee: ', // include the space and punctuation
+    en: 'Fee: ',
     de: 'Gebühr: ',
     nl: 'Honorarium: ',
     ru: 'Плата: ',
     tl: 'Bayad: ',
     pt: 'Taxa: ',
     it: 'Tassa: ',
-    fr: 'Honoraires: ',
+    fr: 'Frais de vente: ',
     es: 'Tarifa: ',
     pl: 'Opłata: ',
     el: 'Τέλη: ',
@@ -130,7 +132,7 @@ export default {
     it: 'Trascinare l\'elemento nella fessura',
     pl: 'Przeciągnij element do szczeliny czytnika',
     es: 'Arrastre el elemento a la ranura',
-    fr: 'Glisser l\'élément dans la fente',
+    fr: 'Glisser l\'objet dans l\'emplacement',
     el: 'Σύρετε το αντικείμενο σε υποδοχή',
     bg: 'Плъзнете предмет в слот',
     cs: 'Přetáhněte položku do slotu',
@@ -170,7 +172,7 @@ export default {
     de: 'Verkauf abgebrochen und Item in den Speicher geschickt',
     pt: 'Item retirado da lista e enviado para o esconderijo',
     it: 'Articolo cancellato e inviato a magazzino',
-    fr: 'L\'article a été retiré de la liste et envoyé à la planque.',
+    fr: 'Objet retiré des enchères et envoyé dans la planque',
     pl: 'Przedmiot usunięty z wykazu i wysłany do przechowania.',
     es: 'Artículo retirado de la lista y enviado a esconder',
     tl: 'Inalis ang item at ipinadala sa itago',
@@ -187,7 +189,7 @@ export default {
     en: 'Item purchased for $1 coins and sent to your Stash',
     ru: 'Предмет, купленный за $1, отправлен в ваш сундук',
     es: 'Artículo comprado por $1 monedas y enviado a su Stash',
-    fr: 'Article acheté pour $1 pièces et envoyé à votre Stash',
+    fr: 'Article acheté pour $1 pièces et envoyé dans votre planque',
     de: 'Artikel, der für $1 Münzen gekauft und an Ihr Versteck geschickt wurde',
     pt: 'Item comprado por $1 moedas e enviado para o seu Cesto',
     nl: 'Item gekocht voor $1 munten en verzonden naar uw Stash',

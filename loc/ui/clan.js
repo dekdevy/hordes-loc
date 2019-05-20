@@ -3,9 +3,9 @@ export default {
   manager: {
     en: 'Clan Manager',
     ru: 'Клан Менеджер',
-    fr: 'Gestionnaire du clan', // TODO: shorten
+    fr: 'Gérer le clan',
     hi: 'दल प्रबंधक',
-    es: 'Clan Gerente', // TODO: shorten
+    es: 'Clan Gerente',
     de: 'Clan-Manager',
     tr: 'Klan Yönetimi',
     bg: 'Кланови опции',
@@ -28,17 +28,17 @@ export default {
     ru: 'Покинуть Клан',
     fr: 'Quitter le clan',
     hi: 'दल छोड़े',
-    es: 'Salir Clan', // TODO: shorten
+    es: 'Salir Clan',
     de: 'Clan verlassen',
     tr: 'Klandan Ayrıl',
     bg: 'Напусни клан',
     cs: 'Opustit klan',
-    el: 'Αφήστε τη Clan',
-    it: 'Abbandona il clan', // TODO: shorten
+    el: 'Αφήστε τη Φυλή',
+    it: 'Tradire il clan',
     ja: 'クランを脱退',
     pl: 'Opuść Klan',
     pt: 'Saia do clã',
-    tl: 'Iwanan mo ang grupo', // TODO: shorten
+    tl: 'Iwanan ang lahi',
     sv: 'Lämna Clan',
     ht: 'Kite Clan',
     nl: 'Verlofclan',
@@ -95,7 +95,7 @@ export default {
   createinfo: {
     en: 'To create a clan you need',
     ru: 'Для создания клана вам нужно',
-    fr: 'Pour créer un clan, on requiert',
+    fr: 'Pour créer un clan, vous avez besoin de',
     hi: 'दल बनाने के लिए आपको ज़रूरत है',
     es: 'Para crear un clan, necesita',
     de: 'Um einen Clan zu erstellen, brauchst du',
@@ -120,7 +120,7 @@ export default {
     ru: 'имя клана',
     fr: 'Nom du clan',
     hi: 'दल का नाम',
-    es: 'Clan nombre', // TODO: shorten
+    es: 'Clan nombre',
     de: 'Clan-Name',
     tr: 'Klan adı',
     bg: 'Име на клана',
@@ -130,7 +130,7 @@ export default {
     ja: '氏名',
     pl: 'Nazwa klanu',
     pt: 'Nome do clã',
-    tl: 'Pangalan ng isang lipi', // TODO: shorten
+    tl: 'Pangalan ng clan', // TODO: shorten
     sv: 'Klan namn',
     ht: 'Non klan',
     nl: 'Clannaam',
@@ -143,12 +143,12 @@ export default {
     ru: 'Тег клана',
     fr: 'Tag du clan',
     hi: 'दल टैग',
-    es: 'Clan seña', // TODO: shorten
+    es: 'Clan seña',
     de: 'Clan-Tag',
     tr: 'Klan etiketi',
     bg: 'Таг на клана',
     cs: 'Den klanů',
-    el: 'Ημέρα του γάμου', // TODO: shorten
+    el: 'Ετικέτα Φυλή',
     it: 'Clan tag',
     ja: '族の日',
     pl: 'Dzień klanu',

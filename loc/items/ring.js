@@ -7,7 +7,7 @@ export default [
       es: 'No lo mires o se caerá a pedazos.',
       de: 'Sieh es dir nicht an, sonst fällt es auseinander.',
       hi: 'इसकी तरफ़ देखना मत। टूट जाएगा।',
-      fr: 'Un regard seulement et elle risque de se briser en miettes.',
+      fr: 'Ne la regarde pas ou elle va tomber en morceaux.',
       pt: 'Não olhes para ele ou vai desmoronar-se.',
       nl: 'Kijk er niet naar, anders valt het uit elkaar.',
       tl: 'Huwag tumingin sa ito o ito ay mahulog bukod.',
@@ -26,14 +26,14 @@ export default [
   },
 
   {
-    name       : {$$: 'Ironbark Circlet' },
+    name       : {$$: 'Ironbark Loop' },
     description: {
       en: 'Not sure about the bark, but it\'s definitely made of iron.',
       ru: 'Не уверен насчет коры, но оно определенно сделано из железа.',
       es: 'No estoy seguro de la corteza, pero definitivamente es de hierro.',
-      de: 'Nicht sicher über die Rinde, aber sно оно определена зделана из железы\'est du fer.',
+      de: 'Nicht sicher über die Rinde, aber sно оно определена зделана из железы.',
       hi: 'चाल का तो पता नहीं पर ये लोहे का ज़रूर बना है।',
-      fr: 'Bague rudimentaire faite de bois surnommé «écorce de fer».',
+      fr: 'Pas convaincu que ça soit de l\'écorce, par contre c\'est sûr que c\'est fait de fer.',
       pt: 'Não tenho a certeza sobre a casca, mas é definitivamente feita de ferro.',
       nl: 'Niet zeker van de schors, maar het is zeker van ijzer.',
       tl: 'Hindi sigurado ang tungkol sa bark ngunit tiyak na ginawa ito ng bakal.',
@@ -52,7 +52,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Brass Ringlet' },
+    name       : {$$: 'Brass Unity' },
     description: {
       en: 'Finally, a ring that is shiny.',
       ru: 'Наконец-то блестящее кольцо.',
@@ -104,12 +104,12 @@ export default [
   },
 
   {
-    name       : {$$: 'Elven Band' },
+    name       : {$$: 'Elven Heirloom' },
     description: {
       en: 'A race of elegant elves constructed this fine ring to protect themselves from danger.',
       ru: 'Раса элегантных эльфов сделала это прекрасное кольцо, чтобы защитить их от опасностей.',
       es: 'Una raza de elfos elegantes construyó este anillo fino para protegerse del peligro.',
-      fr: 'Une race d\'elfes élégants a construit cette fine bague pour se protéger du danger.',
+      fr: 'Une race d\'elfes élégants a construit cette belle bague pour se protéger du danger',
       de: 'Eine Rasse von eleganten Elfen konstruierte diesen feinen Ring, um sich vor Gefahren zu schützen.',
       pt: 'Uma raça de duendes elegantes construiu este fino anel para se protegerem do perigo.',
       ko: '우아한 엘프들의 경주가이 미세한 고리를 만들어 위험으로부터 자신을 보호합니다.',
@@ -130,10 +130,10 @@ export default [
   },
 
   {
-    name       : {$$: 'Imbued Circlet' },
+    name       : {$$: 'Imbued Union' },
     description: {
       en: 'Fits nicely, although the effects it gives are marginal.',
-      ru: 'На руке cидит хорошо, хотя эффекты, которые он дает, незначительны.',
+      ru: 'На руке сидит хорошо, хотя эффекты, которые он дает, незначительны.',
       es: 'Encaja bien, aunque los efectos que produce son marginales.',
       de: 'Passt gut, auch wenn die Wirkung gering ist.',
       hi: 'सही बैठती है, भले ही इसकी शक्तियाँ कुछ ख़ास नहीं।',
@@ -189,7 +189,7 @@ export default [
       es: 'Esmeraldas por todos lados para que te sientas rico.',
       de: 'Smaragde auf allen Seiten, damit Sie sich reich fühlen.',
       hi: 'इसके चारों ओर क़ीमती पत्थर जड़े है, जिनसे आप धनी महसूस करे।',
-      fr: 'Incrustée d\'émeraudes pour vous faire sentir riche.',
+      fr: 'Incrustée d\'émeraudes pour vous faire vous sentir riche.',
       pt: 'Esmeraldas de todos os lados para te fazer sentir rico.',
       nl: 'Smaragden aan alle kanten om je rijk te laten voelen.',
       tl: 'Ang mga esmeralda sa lahat ng panig ay nagpapasaya sa iyo.',
@@ -234,7 +234,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Ancient Talisman' },
+    name       : {$$: 'Ancient Signet' },
     description: {
       en: 'No written records exist to tell us about its origin...',
       ru: 'Не существует никаких письменных отчетов о его происхождении ...',
@@ -260,7 +260,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Hallowed Relic' },
+    name       : {$$: 'Reverence' },
     description: {
       en: 'Sacred artifact lost by holy druids.',
       ru: 'Священный артефакт, потерянный святыми друидами.',
@@ -286,27 +286,35 @@ export default [
   },
 
   {
+    name       : {$$: 'Gyges'},
+    description: {
+      en: 'A ring said to be capable of turning its wearer invisible and motivate them for everlasting glory.',
+      ru: 'Кольцо, которое, как говорят, способно сделать его владельца невидимым и мотивировать его на вечную славу.'
+    }
+  },
+
+  {
     name       : {$$: 'Peacekeeper' },
     description: {
       en: 'Keeper of peace...not sure about that, but it might keep you alive...',
       ru: 'Хранитель мира... не уверен в этом, но оно может помочь остаться в живых...',
       es: 'Guardián de la paz... no estoy seguro de eso, pero podría mantenerte vivo.',
       de: 'Hüter des Friedens... nicht sicher, aber vielleicht hält dich das am Leben.',
-      hi: 'शांति की रखवाली...इसकी गैरंटी तो नहीं, पर आपको ज़िंदा रख पाएगी शायद....',
-      fr: 'Gardien de la paix... pas sûr de cela, mais elle saura vous garder en vie.',
+      hi: 'शांति की रखवाली...इसकी गैरंटी तो नहीं, पर आपको ज़िंदा रख पाएगी शायद...',
+      fr: 'Gardien de la paix... pas sûr de cela, mais elle saura sûrement vous garder en vie.',
       pt: 'Guardião da paz... não tenho a certeza disso, mas pode mantê-lo vivo...',
-      nl: 'Bewaarder van de vrede....niet zeker, maar het kan je in leven houden...',
-      tl: 'Tagapangalaga ng kapayapaan .... hindi sigurado tungkol sa bagay na iyon ngunit maaaring panatilihing buhay ka ....',
-      bg: 'Пазител на мира .... не съм сигурен в това, но може да те запази жив ....',
-      el: 'Φύλακας της ειρήνης ... δεν είμαι σίγουρος γι \'αυτό αλλά μπορεί να σας κρατήσει ζωντανό ...',
-      pl: 'Strażnik spokoju...nie jestem tego pewien, ale może to utrzyma cię przy życiu...',
-      it: 'Custode di pace...non ne sono sicuro, ma potrebbe tenervi in vita...',
+      nl: 'Bewaarder van de vrede... niet zeker, maar het kan je in leven houden...',
+      tl: 'Tagapangalaga ng kapayapaan... hindi sigurado tungkol sa bagay na iyon ngunit maaaring panatilihing buhay ka...',
+      bg: 'Пазител на мира... не съм сигурен в това, но може да те запази жив...',
+      el: 'Φύλακας της ειρήνης... δεν είμαι σίγουρος γι \'αυτό αλλά μπορεί να σας κρατήσει ζωντανό ...',
+      pl: 'Strażnik spokoju... nie jestem tego pewien, ale może to utrzyma cię przy życiu...',
+      it: 'Custode di pace... non ne sono sicuro, ma potrebbe tenervi in vita...',
       cs: 'Strážce míru ... není si tím jistý, ale může vás udržet naživu.',
-      ja: '平和の番人....それについてはよくわからないが、それはあなたを生かし続けるかもしれない……',
-      ht: 'Gadyen lapè ... pa sèten sou sa, men li ta ka kenbe ou vivan ...',
-      sv: 'Fredsbevarare ... inte säker på det, men det kan hålla dig vid liv ...',
-      ko: '평화를 지키기 위해 ... 확실하지는 않지만, 당신을 살릴 수 있습니다.',
-      ro: 'Păstrător al păcii...nu sunt sigur de asta, dar s-ar putea să te țină în viață...',
+      ja: '平和の番人... それについてはよくわからないが、それはあなたを生かし続けるかもしれない...',
+      ht: 'Gadyen lapè... pa sèten sou sa, men li ta ka kenbe ou vivan...',
+      sv: 'Fredsbevarare... inte säker på det, men det kan hålla dig vid liv...',
+      ko: '평화를 지키기 위해... 확실하지는 않지만, 당신을 살릴 수 있습니다.',
+      ro: 'Păstrător al păcii... nu sunt sigur de asta, dar s-ar putea să te țină în viață...',
       tr: 'Bu barış bekçisi olması gerekiyordu... bundan emin değilim, ama seni hayatta tutabilir.'
     }
   }

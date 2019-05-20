@@ -32,7 +32,7 @@ export default [
       ru: 'Подошвы сделанные из ткани, вероятно, порвутся через несколько часов.',
       de: 'Sohlen aus Stoff, werden wahrscheinlich nach ein paar Stunden reißen.',
       es: 'OI. Estos son calcetines. ¡Dame mis chanclas!',
-      fr: 'Les semelles en tissu se déchirent probablement au bout de quelques heures.',
+      fr: 'Des semelles en tissu, elles se déchireront probablement au bout de quelques heures.',
       it: 'Suole fatte di stoffa, probabilmente si strappano dopo qualche ora.',
       pt: 'Solas feitas de tecido, provavelmente rasgarão depois de algumas horas.',
       nl: 'Zolen van doek, zullen waarschijnlijk na een paar uur scheuren.',
@@ -52,7 +52,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Leather Boots' },
+    name       : {$$: 'Leather Shoes' },
     description: {
       en: 'The soft leather is said to be stripped off wild boars roaming the eerie woods.',
       ru: 'Говорят, что мягкую кожу сняли с кабанов, бродящих по жутким лесам.',
@@ -78,13 +78,13 @@ export default [
   },
 
   {
-    name       : {$$: 'Bone Greaves' },
+    name       : {$$: 'Bone Brogans' },
     description: {
       en: 'Clearly lacking in imagination, the maker made boots from the bones of a very large creature...',
       ru: 'Очевидно, у создателя не хватает воображения, ведь он сделал сапоги из костей очень крупного существа ...',
       de: 'Offensichtlich phantasielos, machte der Hersteller Stiefel aus den Knochen einer sehr großen Kreatur...',
       es: 'Claramente sin imaginación, el zapatero uso los huesos de una criatura grande...',
-      fr: 'Manquant clairement d\'imagination, le fabricant a fabriqué des bottes à partir des os d\'une très grande créature....',
+      fr: 'Manquant clairement d\'imagination, le confectionné a fabriqué des bottes à partir des os d\'une très grande créature....',
       it: 'Chiaramente privo di immaginazione, l\'autore ha realizzato stivali dalle ossa di una creatura molto grande...',
       pt: 'Claramente sem imaginação, o fabricante fez botas a partir dos ossos de uma criatura muito grande...',
       nl: 'Duidelijk niet verbeeldingsvol, de maker maakte laarzen van de botten van een zeer groot wezen....',
@@ -130,7 +130,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Patterned Greaves' },
+    name       : {$$: 'Shadow Shoes' },
     description: {
       en: 'A pleasant pattern made to paralyze your foes... wonder if it works.',
       ru: 'Приятный узор, созданный, чтобы парализовать ваших врагов... интересно, работает ли он',
@@ -188,7 +188,7 @@ export default [
       ru: 'Состоят из блочных кусков, наверное, очень неудобные.',
       de: 'Grob in seinem Aussehen, wahrscheinlich sehr unangenehm.',
       es: 'Macizo y fornido, prbablamente incómodo.',
-      fr: 'Block comme dans son design, probablement très inconfortable.',
+      fr: 'Son design semble grossier, probablement très inconfortable.',
       it: 'Chunky nel suo aspetto, probabilmente molto scomodo.',
       pt: 'Aparentemente volumoso, provavelmente muito desconfortável.',
       nl: 'Mollig in zijn uiterlijk, waarschijnlijk erg ongemakkelijk.',
@@ -214,7 +214,7 @@ export default [
       ru: 'Беги быстро, как ветер... ну почти.',
       de: 'Laufen Sie so schnell wie der Wind... oder in der Nähe davon.',
       es: 'Con estos zapatos puedes ver el viento y llevarlo contigo.',
-      fr: 'Courir aussi vite que le vent... ou près de lui.',
+      fr: 'Courir aussi vite que le vent... ou presque.',
       it: 'Corri veloce come il vento... o vicino ad esso',
       pt: 'Corra tão rápido como o vento... ou perto dele.',
       nl: 'Ren zo snel als de wind.... of dichtbij.',
@@ -259,13 +259,13 @@ export default [
   },
 
   {
-    name       : {$$: 'Cloudrunner Treads' },
+    name       : {$$: 'Cloudrunners' },
     description: {
       en: 'Some say you can run on clouds with these. The few that have tried have already ascended.',
       ru: 'Некоторые говорят, что с этими ботинками можно бегать по облакам. Те немногие, кто пытался, уже вознеслись.',
       de: 'Einige sagen, dass man damit auf Wolken laufen kann. Die wenigen, die es versucht haben, sind bereits aufgestiegen.',
       es: '¡Corre por las nubes con las nuevas Air Miguels!',
-      fr: 'Certains disent qu\'on peut courir sur les nuages avec ça. Les quelques personnes qui ont essayé ont déjà fait l\'ascension.',
+      fr: 'Certains disent qu\'on peut courir sur les nuages avec elles. Les quelques personnes qui ont essayé y sont déjà montés.',
       it: 'C\'è chi dice che con queste si può correre sulle nuvole. I pochi che hanno provato sono già saliti.',
       pt: 'Alguns dizem que se pode correr em nuvens com isto. Os poucos que tentaram já ascenderam.',
       nl: 'Sommigen zeggen dat je hiermee op wolken kunt lopen. De weinigen die het geprobeerd hebben zijn al opgestegen.',
@@ -285,7 +285,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Boots of Hermes' },
+    name       : {$$: 'Talaria' },
     description: {
       en: 'Ancient boots rumoured to be stolen from the feet of a messenger god.',
       ru: 'По слухам, древние сапоги были украдены с ног бога-вестника.',
@@ -311,13 +311,13 @@ export default [
   },
 
   {
-    name       : {$$: 'Starshard Greaves' },
+    name       : {$$: 'Starshards' },
     description: {
       en: 'Stars were always considered to be almighty, now they\'re yours.',
       ru: 'Звезды всегда считались всемогущими, теперь они твои',
       de: 'Sterne wurden immer als allmächtig angesehen, jetzt gehören sie dir.',
       es: 'Las armas mas peligrosas del universo, chanclas imbuido con la ira y furia de una madre cariñosa.',
-      fr: 'Les étoiles ont toujours été considérées comme tout-puissant, maintenant elles sont à toi.',
+      fr: 'Les étoiles ont toujours été considérées comme toutes-puissantes, maintenant elles t\'appartiennent.',
       it: 'Le stelle sono sempre state considerate onnipotenti, ora sono tue.',
       pt: 'As estrelas sempre foram consideradas todo-poderosas, agora são tuas.',
       nl: 'Sterren werden altijd beschouwd als almachtig, nu zijn ze van jou.',

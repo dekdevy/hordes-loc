@@ -19,7 +19,7 @@ export default {
     ht: 'Vanguard chèche tradisyon, estrikti ak lòd nan sosyete a. Ka chato yo ka jwenn nan yon zòn bèl vèt alantou Guardstone.',
     tl: 'Ang Vanguard horde ay naglalayong istraktura ng istraktura at kaayusan sa lipunan. Ang kanilang Castle ay makikita sa luntiang luntiang lugar sa paligid ng Guardstone.',
     pl: 'Horda Vanguardów poszukuje tradycji, struktury i porządku w społeczeństwie.  Ich zamek można znaleźć w bujnej zieleni wokół Guardstone.',
-    el: 'Η ορχήστρα Bloodlust εκτιμά την ελευθερία και την πίστη προσφέρει ένα χώρο για ατομικισμό ή ακόμα και χάος. Οι άμυνές τους βρίσκονται σε μια ερημική περιοχή που ονομάζεται Headless Landing. ',
+    el: 'Η ορχήστρα Bloodlust εκτιμά την ελευθερία και την πίστη προσφέρει ένα χώρο για ατομικισμό ή ακόμα και χάος. Οι άμυνές τους βρίσκονται σε μια ερημική περιοχή που ονομάζεται Headless Landing.',
     bg: 'Ордата на Авангард търси традиция и ред в обществото. Замъкът им може да се намери в буйната зелена зона около Гардстоун.',
     cs: 'Vanguardská horda hledá tradici, strukturu a pořádek ve společnosti. Jejich hrad se nachází v bujné zelené oblasti kolem Guardstone.',
     ja: 'ヴァンガードの大群は社会における伝統の構造と秩序を求めています。彼らの城は、ガードストーン周辺の緑豊かな地域にあります。',

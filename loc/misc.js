@@ -1,6 +1,51 @@
 export default [
   {
-    name: {$$: 'Boar Hide' },
+    name: {$$: 'Ancient Manuscript'},
+
+    description: {
+      en: 'Old parchment with yellowed edges and folded corners, decorated with unfamiliar hieroglyphs and grim paintings.',
+      ru: 'Старая рукопись с пожелтевшими краями и загнутыми углами украшена незнакомыми иероглифами и мрачными рисунками.',
+      pt: 'Velho pergaminho com bordas amareladas e cantos dobrados, decorado com hieróglifos desconhecidos e pinturas sombrias.',
+      it: 'Vecchia pergamena con bordi gialli e angoli ripiegati, decorata con geroglifici sconosciuti e quadri cupi.',
+      nl: 'Oud perkament met vergeelde randen en gevouwen hoeken, versierd met onbekende hiërogliefen en grimmige schilderijen.',
+      pl: 'Stary pergamin o żółtych krawędziach i złożonych narożnikach, ozdobiony nieznanymi hieroglifami i ponurymi obrazami.',
+      fr: 'Ancien parchemin aux bords jaunis et aux coins pliés, décoré de hiéroglyphes inconnus et de sombres peintures.',
+      es: 'Hoja de pergamino envejecida con bordes amarillentos y esquinas dobladas, decorada con símbolos extraños y pinturas oscuras.'
+    }
+  },
+
+  {
+    name: {$$: 'Pirate\'s Eyepatch'},
+
+    description: {
+      en: 'Black leather eyepatch stinking of tobacco and rum.',
+      ru: 'Черная кожаная глазная повязка воняющая тобаком и ромом',
+      pt: 'Olhal de couro preto fedendo a tabaco e rum.',
+      it: 'Occhio di pelle nera che puzza di tabacco e rum.',
+      nl: 'Zwart lederen oculair dat stinkt naar tabak en rum.',
+      pl: 'Czarny skórzany okular śmierdzący tytoniem i rumem.',
+      fr: 'Eyeepatch en cuir noir puant le tabac et le rhum.',
+      es: 'Un parche de cuero negro apesta a tabaco y ron.'
+    }
+  },
+
+  {
+    name: {$$: 'Bear Claw'},
+
+    description: {
+      en: 'Monstrous claw of a large bear killed some time ago.',
+      ru: 'Чудовищный коготь большого медведя, убитого некоторое время назад.',
+      pt: 'Uma garra monstruosa de um grande urso morto há algum tempo.',
+      it: 'Il mostruoso artiglio di un grande orso ucciso qualche tempo fa.',
+      nl: 'Monsterlijke klauw van een grote beer die enige tijd geleden is gedood.',
+      pl: 'Potworny szpon dużego niedźwiedzia zabity jakiś czas temu.',
+      fr: 'Monstrueuse griffe d\'un gros ours tué il y a quelque temps.',
+      es: 'Una garra monstruosa de un oso enorme que murió hace bastante tiempo.'
+    }
+  },
+
+  {
+    name: {$$: 'Boar Hide'},
 
     description: {
       en: 'Thick furry leather making you pant as you drag it behind you.',
@@ -44,7 +89,7 @@ export default [
   },
 
   {
-    name: {$$: 'Ogre\'s Eye' },
+    name: {$$: 'Ogre\'s Eye'},
 
     description: {
       en: 'Sticky eyeball smelling of swampland.',
@@ -55,7 +100,7 @@ export default [
       pt: 'Olho pegajoso a cheirar a pântano.',
       it: 'Bulbo oculare appiccicoso che puzza di palude.',
       pl: 'Lepka gałka oczna pachnąca bagnem.',
-      fr: 'Oeil de collant qui sent le marécage.',
+      fr: 'Un oeil de grizzli collant qui a une odeur de marécage.',
       sv: 'Klibbig ögonglob som luktar av träsk.',
       hi: 'चिपचिपी आंख जिसमें से दल-दल सी गन्ध आती हैं।',
       es: 'Globo ocular grisáceo y pegajoso que huele a pantano.',
@@ -66,7 +111,7 @@ export default [
   },
 
   {
-    name: {$$: 'Broken Crown' },
+    name: {$$: 'Broken Crown'},
 
     description: {
       en: 'A mighty bejeweled crown belonging to the ancient kings of these lands.',
@@ -88,7 +133,7 @@ export default [
   },
 
   {
-    name: {$$: 'Wispy Reagent' },
+    name: {$$: 'Wispy Reagent'},
 
     description: {
       en: 'Deep dark purple wisp taken from the cursed soul of a malevolent phantom.',
@@ -110,7 +155,7 @@ export default [
   },
 
   {
-    name: {$$: 'Iron Spearhead' },
+    name: {$$: 'Iron Spearhead'},
 
     description: {
       en: 'Serrated and rusty, you wonder if it\'s any good as a weapon.',
@@ -132,7 +177,7 @@ export default [
   },
 
   {
-    name: {$$: 'Goose Feather' },
+    name: {$$: 'Goose Feather'},
 
     description: {
       en: 'Beware of the feral goose. It doesn\'t like pokes.',
@@ -143,7 +188,7 @@ export default [
       pt: 'Cuidado com o ganso selvagem. Não gosta de picaretas.',
       it: 'Attenzione all\'oca selvatica. Non gli piacciono le punture.',
       pl: 'Uważaj na dziką gęś. Nie lubi szturchnięć.',
-      fr: 'Méfiez-vous de l\'oie sauvage. Il n\'aime pas les pokes.',
+      fr: 'Méfiez-vous de l\'oie sauvage. Elle n\'aime pas qu\'on la bouscule.',
       sv: 'Akta dig för den feralgås. Det gillar inte pokes.',
       es: 'Cuidado con el ganso loco. No le gustan los picas.',
       nl: 'Pas op voor de wilde gans. Hij houdt niet van poppen.',
@@ -153,7 +198,7 @@ export default [
   },
 
   {
-    name: {$$: 'Elegant Bowstring' },
+    name: {$$: 'Elegant Bowstring'},
 
     description: {
       en: 'Powerful silky string worth more than all your gear.',
@@ -174,7 +219,7 @@ export default [
   },
 
   {
-    name: {$$: 'Wolf Fang' },
+    name: {$$: 'Wolf Fang'},
 
     description: {
       en: 'Sharp and white... you cut yourself already.',
@@ -185,7 +230,7 @@ export default [
       pt: 'Afiado e branco... já te cortaste.',
       it: 'Affilato e bianco... ti sei gia\' tagliato.',
       pl: 'Ostre i białe... Już się skaleczyłeś.',
-      fr: 'Aiguisé et blanc... tu t\'es déjà coupé.',
+      fr: 'Aiguisé et blanc... et voilà tu t\'es coupé.',
       sv: 'Skarp och vit... du skär dig själv redan.',
       es: 'Afilado y blanco... ya te has cortado.',
       nl: 'Scherp en wit.... je hebt jezelf al gesneden.',
@@ -195,7 +240,7 @@ export default [
   },
 
   {
-    name: {$$: 'Sticky Slime' },
+    name: {$$: 'Sticky Slime'},
 
     description: {
       en: 'Thick slop, taken from God knows where.',
@@ -206,7 +251,7 @@ export default [
       pt: 'Uma porcaria nojenta, tirada de sabe Deus onde.',
       it: 'Una pentola appiccicosa, portata da Dio solo sa dove.',
       pl: 'Lepki slop, zabrany od Boga wie gdzie.',
-      fr: 'De la boue gluante, prise à Dieu sait où.',
+      fr: 'De la boue gluante, prise Dieu sait où.',
       sv: 'Motbjudande slim, taget från Gud, vet var.',
       es: 'Una burbuja gruesa, que sólo Dios sabe dónde.',
       nl: 'Kleverig slijm, ontnomen van God weet waar.',
@@ -216,7 +261,7 @@ export default [
   },
 
   {
-    name: {$$: 'Golden Leaf' },
+    name: {$$: 'Golden Leaf'},
 
     description: {
       en: 'Finely engraved leaf of gold representing high royalty.',
@@ -237,7 +282,7 @@ export default [
   },
 
   {
-    name: {$$: 'Rabbit\'s Foot' },
+    name: {$$: 'Rabbit\'s Foot'},
 
     description: {
       en: 'The classic ingredient to a witch\'s broth.',
@@ -258,7 +303,7 @@ export default [
   },
 
   {
-    name: {$$: 'Chewed Bone' },
+    name: {$$: 'Chewed Bone'},
 
     description: {
       en: 'Splinters of bone and marrow glued together with stale saliva.',
@@ -269,7 +314,7 @@ export default [
       pt: 'Lascas de ossos e medula coladas com saliva velha.',
       it: 'Schegge di ossa e midollo incollate insieme alla saliva stantia.',
       pl: 'Odłamki kości i szpiku przyklejone do stęchłej śliny.',
-      fr: 'Éclats d\'os et de moelle collés ensemble avec de la salive éventée.',
+      fr: 'Éclats d\'os et de moelle collés ensemble avec de la salive séchée.',
       sv: 'Splinter av ben och märg limmade ihop med gammal saliv.',
       es: 'Astillas de hueso y médula pegadas con saliva rancia.',
       nl: 'Fragmenten been en merg aan elkaar gelijmd met oud speeksel.',
@@ -279,7 +324,7 @@ export default [
   },
 
   {
-    name: {$$: 'Wooden Bowl' },
+    name: {$$: 'Wooden Bowl'},
 
     description: {
       en: 'Small chipped stew bowl. Careful, it\'s flammable.',
@@ -300,7 +345,7 @@ export default [
   },
 
   {
-    name: {$$: 'Golden Eyepiece' },
+    name: {$$: 'Golden Eyepiece'},
 
     description: {
       en: 'Mages always want to seem wise, perhaps they too made this mystical and elegant eyepiece.',
@@ -311,7 +356,7 @@ export default [
       pt: 'Os magos sempre querem parecer sábios, talvez eles também tenham feito essa ocular mística e elegante.',
       it: 'I maghi vogliono sempre sembrare saggi, forse anche loro hanno realizzato questo mistico ed elegante oculare.',
       pl: 'Magowie zawsze chcą wydawać się mądrymi, być może oni też zrobili ten mistyczny i elegancki okular.',
-      fr: 'Les Mages veulent toujours paraître sages, peut-être qu\'ils ont eux aussi réalisé cet oculaire mystique et élégant.',
+      fr: 'Les Mages veulent toujours paraître sages, peut-être qu\'ils ont eux aussi fabriqué cet oculaire mystique et élégant.',
       sv: 'Trollkarlar vill alltid verka kloka, kanske de också gjorde detta mystiska och eleganta okular.',
       es: 'Los magos siempre quieren parecer inteligente, quizás ellos también hicieron este místico y elegante ocular.',
       nl: 'Tovenaars willen altijd verstandig overkomen, misschien hebben ze ook wel dit mystieke en elegante oculair gemaakt.',
@@ -321,7 +366,7 @@ export default [
   },
 
   {
-    name: {$$: 'Cactus Spike' },
+    name: {$$: 'Cactus Spike'},
 
     description: {
       en: 'Ouch, sharp.',
@@ -332,7 +377,7 @@ export default [
       pt: 'Ai, afiado.',
       it: 'Ahi, tagliente.',
       pl: 'Ałć, ostry.',
-      fr: 'Aïe, aiguisé.',
+      fr: 'Aïe, ça pique.',
       sv: 'Oj, skarp.',
       hi: 'आह! नुकीला',
       es: 'Ay, me corté',
@@ -343,7 +388,7 @@ export default [
   },
 
   {
-    name: {$$: 'Fine Sand' },
+    name: {$$: 'Fine Sand'},
 
     description: {
       en: 'A small pile of extremely fine sand. Where do you put this...',
@@ -354,7 +399,7 @@ export default [
       pt: 'Uma pequena pilha de areia extremamente fina. De onde você tirou esta...',
       it: 'Un piccolo mucchio di sabbia finissima. Dove si fa questo.....',
       pl: 'Mała sterta bardzo drobnego piasku. Gdzie wyrzucasz ten....',
-      fr: 'Un petit tas de sable extrêmement fin. Où est-ce que tu t\'en sors...',
+      fr: 'Un petit tas de sable extrêmement fin. Où est-ce qu\'on peut bien le mettre...',
       sv: 'En liten hög med extremt fin sand. Var gör du det här ...',
       hi: 'महीम रेत का छोटा सा ढ़ेर। इसे लेकर कहा चले आप...',
       es: 'Una pequeña montón de arena increíble fina. "¿Dónde pones esto...?',
@@ -365,7 +410,7 @@ export default [
   },
 
   {
-    name: {$$: 'Lich Hair' },
+    name: {$$: 'Lich Hair'},
 
     description: {
       en: 'A tuft of putrid matted hair. It was a tough battle to get hold of this.',
@@ -387,7 +432,7 @@ export default [
   },
 
   {
-    name: {$$: ' Pulpous Maggot' },
+    name: {$$: ' Pulpous Maggot'},
 
     description: {
       en: 'Disgusting larvae of an unknown insect. Hopefully a small one...',
@@ -409,7 +454,7 @@ export default [
   },
 
   {
-    name: {$$: 'Obsidian Shard' },
+    name: {$$: 'Obsidian Shard'},
 
     description: {
       en: 'Strange triangular fragment of obsidian. Perhaps it\'s part of a larger structure...',
@@ -431,7 +476,7 @@ export default [
   },
 
   {
-    name: {$$: 'Frozen Teardrop' },
+    name: {$$: 'Frozen Teardrop'},
 
     description: {
       en: 'Mesmerising crystalline droplet refracting the sun\'s rays and intricately casting tiny balls of light onto you as you hold it up to the sun.',
@@ -453,7 +498,7 @@ export default [
   },
 
   {
-    name: {$$: 'Darkmetal Arrowhead' },
+    name: {$$: 'Darkmetal Arrowhead'},
 
     description: {
       en: 'Sharp gothic arrowhead, made from a mystical metal which seeps fear into your bones.',
@@ -464,7 +509,7 @@ export default [
       pt: 'Ponta de seta gótica afiada, feita de um metal místico que se infiltra nos teus ossos.',
       it: 'Affilata punta di freccia gotica, fatta di un metallo mistico che penetra nelle ossa.',
       pl: 'Ostry gotycki grot strzałki, wykonany z mistycznego metalu, który przesącza się drogo do kości.',
-      fr: 'Pointe de flèche gothique tranchante, faite d\'un métal mystique qui s\'infiltre profondément dans vos os.',
+      fr: 'Pointe de flèche gothique tranchante, faite d\'un métal mystique qui vous glace le sang.',
       sv: 'Skarp gotisk pilhuvud, gjord av en mystisk metall som suger rädsla i dina ben.',
       hi: 'नुकीला गोथिक तीर, रहस्यमई धातु से बना जो आपकी हड्डीयो में खौफ भर देता है।',
       es: 'Aguda y oscura punta de flecha, hecha de un misterioso metal que incrusta el miedo en tus huesos.',
@@ -474,7 +519,7 @@ export default [
     }
   },
   {
-    name: {$$: 'Gunpowder' },
+    name: {$$: 'Gunpowder'},
 
     description: {
       en: 'Throw some into a campfire and you\'re in for a nasty explosive surprise.',
@@ -496,7 +541,7 @@ export default [
   },
 
   {
-    name: {$$: 'Kindling' },
+    name: {$$: 'Kindling'},
 
     description: {
       en: 'Thin dry twigs, will burn nicely in a campfire.',
@@ -507,7 +552,7 @@ export default [
       pt: 'Galhos finos e secos, arderão bem numa fogueira.',
       it: 'Sottili ed asciutti ramoscelli, bruceranno bene in un falò.',
       pl: 'Cieniutkie suche gałązki, ładnie spalą się w ognisku.',
-      fr: 'De fines brindilles sèches, brûleront bien dans un feu de camp.',
+      fr: 'De fines brindilles sèches, elles brûleront bien dans un feu de camp.',
       sv: 'Tunna torra kvistar, kommer att brinna fint i ett lägereld.',
       hi: 'छोटे सूखे तिनके, आग जलाने के लिए सबसे बढ़िया।',
       es: 'Ramas finas y secas, se queman muy bien en la lumbre.',
@@ -518,7 +563,7 @@ export default [
   },
 
   {
-    name: {$$: 'Pale Snakeskin' },
+    name: {$$: 'Pale Snakeskin'},
 
     description: {
       en: 'The shed leathery skin from an albino python slithering its way through the forests of these valleys.',

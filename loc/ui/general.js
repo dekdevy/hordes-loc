@@ -10,8 +10,8 @@ export default {
     es: 'Bien',
     tr: 'Tamam',
     nl: 'Okee',
-    pt: 'Claro.',
-    pl: 'Dobrze.',      // TODO: shorten
+    pt: 'Claro',
+    pl: 'Dobrze',
     ht: 'Dakò',
     ko: '오케이',
     it: 'Okay',
@@ -35,7 +35,7 @@ export default {
     tr: 'Geri',
     pt: 'Voltar',
     pl: 'Wstecz',
-    ht: 'Retounen',  // TODO: shorten
+    ht: 'Tounen',
     ko: '뒤로',
     it: 'Dietro',
     cs: 'Zadní',

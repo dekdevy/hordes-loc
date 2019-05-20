@@ -7,7 +7,7 @@ export default {
       en: 'Select Character',
       sv: 'Välj Karaktär',
       ru: 'Выберите Персонажа',
-      fr: 'Sélectionnez un personnage', // TODO: shorten
+      fr: 'Sélectionnez le héros',
       hi: 'स्वरूप चुने',
       es: 'Seleccione Carácter',
       de: 'Charakter auswählen',
@@ -32,13 +32,13 @@ export default {
       ru: 'Нажмите, чтобы создать персонажа',
       hi: 'स्वरूप बानाने के लिए क्लिक करे',
       es: 'Pulsar para crear un carácter',
-      de: 'Klicken Sie hier, um einen Charakter zu erstellen.', // TODO: shorten
+      de: 'Klicke, um einen Charakter zu machen', // TODO: shorten
       fr: 'Cliquez pour créer le personnage',
       ko: '캐릭터를 만들려면 클릭하십시오',
       tr: 'Karakter yaratmak için tıkla',
       bg: 'Кликнете, за да създадете герой',
       cs: 'Kliknutím vytvoříte znak',
-      el: 'Κάντε κλικ για να δημιουργήσετε χαρακτήρα', // TODO: shorten
+      el: 'Κάντε κλικ για να κάνετε χαρακτήρα',
       ja: 'クリックしてキャラクターを作成',
       tl: 'I-click upang lumikha ng character',
       it: 'Clicca per creare il personaggio',
@@ -84,9 +84,9 @@ export default {
       tr: 'Boş',
       bg: 'Празен',
       cs: 'Prázdný',
-      el: 'Κενή υποδοχή', // TODO: shorten
+      el: 'Αδειάζω',
       ja: '空きスロット',
-      tl: 'Walang laman', // TODO: shorten
+      tl: 'Wala',
       it: 'Slot vuoto',
       pl: 'Pusty',
       nl: 'Leeg',
@@ -225,9 +225,9 @@ export default {
       tr: 'Bir isim gir',
       bg: 'Въведете име',
       cs: 'Zadejte název',
-      el: 'Εισαγάγετε ένα όνομα', // TODO: shorten
+      el: 'Γράψτε ένα όνομα',
       ja: '名前を入力してください',
-      tl: 'Magpasok ng isang pangalan', // TODO: shorten
+      tl: 'Ilagay ang pangalan',
       it: 'Inserisci un nome',
       pl: 'Wpisz imię',
       nl: 'Voer een naam in',
@@ -240,7 +240,7 @@ export default {
       en: 'Your name can only contain characters a-Z, and numbers 0-9, without any spaces. Up to 16 characters.',
       sv: 'Ditt namn kan bara använda sig karaktärerna a-Z, och nummer 0-9, utan mellanslag. Max 16 karaktärer.',
       ru: 'Ваше имя может состоять только из букв латинского алфавита a-Z и цифр 0-9, без пробелов. Максимум 16 символов.',
-      fr: 'Votre nom ne peut contenir que des caractères de a-Z, des chiffres de 0-9, sans aucune espace. Jusqu\'à 16 caractères.',
+      fr: 'Votre nom ne peut contenir que des caractères de A à Z, des chiffres entre 0 et 9, sans aucun espace, et jusqu\'à 16 caractères.',
       hi: 'आपके नाम में केवल a-Z अक्षर और 0-9 अंक हो सकते है| अधिकतम 16 अक्षर।',
       es: 'Su nombre sólo puede contener los caracteres de la a-Z, y los números del 0 al 9, sin espacios. Hasta 16 caracteres.',
       de: 'Dein Name darf nur die Zeichen a-Z und die Zahlen 0-9 ohne Leerzeichen enthalten. Bis zu 16 Zeichen.',
