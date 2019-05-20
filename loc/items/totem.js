@@ -1,3 +1,4 @@
+// Do not add in or make up descriptions, they will be done so soon
 export default [
   {
     name       : {$$: 'Dream Feathers'},
