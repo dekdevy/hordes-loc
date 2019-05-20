@@ -66,7 +66,7 @@ export default [
   {
     name       : {$$: 'Sangoma\'s Bones'},
     description: {
-      en: ''
+      en: 'Item Description'
     }
   }
 
