@@ -103,7 +103,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Robin\'s Choice' },
+    name       : {$$: 'Lazarus\'s Revenge' },
     description: {
       en: 'Finely crafted quiver made from a mysterious shimmering material.',
       nl: 'Fijn gemaakt koker gemaakt van een mysterieus glinsterend materiaal.',
