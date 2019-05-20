@@ -85,7 +85,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Dragon's Periapt'},
+    name       : {$$: 'Dragon\'s Periapt'},
     description: {
       en: 'Item Description'
     }
