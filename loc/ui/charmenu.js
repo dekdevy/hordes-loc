@@ -32,13 +32,13 @@ export default {
       ru: 'Нажмите, чтобы создать персонажа',
       hi: 'स्वरूप बानाने के लिए क्लिक करे',
       es: 'Pulsar para crear un carácter',
-      de: 'Klicken Sie, um einen Charakter zu erstellen', // TODO: shorten
+      de: 'Klicke, um einen Charakter zu machen', // TODO: shorten
       fr: 'Cliquez pour créer le personnage',
       ko: '캐릭터를 만들려면 클릭하십시오',
       tr: 'Karakter yaratmak için tıkla',
       bg: 'Кликнете, за да създадете герой',
       cs: 'Kliknutím vytvoříte znak',
-      el: 'Κάντε κλικ για να δημιουργήσετε χαρακτήρα', // TODO: shorten
+      el: 'Κάντε κλικ για να κάνετε χαρακτήρα',
       ja: 'クリックしてキャラクターを作成',
       tl: 'I-click upang lumikha ng character',
       it: 'Clicca per creare il personaggio',
