@@ -61,7 +61,8 @@ export default {
   },
 
   post: {
-    en: 'Post Item'
+    en: 'Post Item',
+    nl: 'Plaatsen Voorwerp'
   },
 
   delist: {
