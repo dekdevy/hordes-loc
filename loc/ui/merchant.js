@@ -60,6 +60,10 @@ export default {
     ro: 'Cumpără Obiectul'
   },
 
+  post: {
+    en: 'Post Item'
+  },
+
   delist: {
     en: 'Delist Item',
     nl: 'Verwijderd Item',
