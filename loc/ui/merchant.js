@@ -77,7 +77,7 @@ export default {
     hi: 'वस्तु भेजें',
     tl: 'Ipadala ang Bagay',
     el: 'Στείλετε Αντικειμένου',
-    bg: 'Изпрати Предмет,
+    bg: 'Изпрати Предмет',
     cs: 'Poslat Předmět',
     ja: 'オブジェクトを送信'
   },
