@@ -22,7 +22,7 @@ export default {
 
   filtermine: {
     en: 'My items only',
-    nl: 'Alleen mijn items',
+    nl: 'Alleen mijn Voorwerpen',
     de: 'Nur meine Items',
     ru: 'Только мои предметы',
     tl: 'Aking mga item lamang',
@@ -30,11 +30,11 @@ export default {
     it: 'Solo i miei articoli',
     pl: 'Tylko moje rzeczy',
     fr: 'Uniquement mes objets',
-    es: 'Sólo mis artículos',
+    es: 'Sólo mis Objetos',
     el: 'Τα στοιχεία μου μόνο',
     bg: 'Само моите елементи',
     cs: 'Pouze mé položky',
-    ht: 'Atik mwen sèlman',
+    ht: 'Objè mwen sèlman',
     ko: '내 항목 만',
     ja: '私の商品のみ',
     ro: 'Doar Obiectele Mele'
@@ -42,19 +42,19 @@ export default {
 
   buy: {
     en: 'Buy Item',
-    nl: 'Item Kopen',
+    nl: 'Voorwerp Kopen',
     de: 'Item kaufen',
     ru: 'Купить предмет',
     tl: 'Bumili ng Item',
-    pt: 'Comprar item',
-    it: 'Comprare l\'articolo',
-    es: 'Comprar artículo',
+    pt: 'Comprar Objeto',
+    it: 'Comprare l'oggetto',
+    es: 'Comprar Objeto',
     fr: 'Acheter l\'objet',
-    pl: 'Pozycja zakupu',
-    el: 'Αγοράστε στοιχείο',
-    bg: 'Купете артикул',
+    pl: 'Obiekt zakupu',
+    el: 'Αγοράστε Αντικείμενο',
+    bg: 'Купете предмет',
     cs: 'Koupit předmět',
-    ht: 'Achte Atik',
+    ht: 'Achte Objè',
     ko: '물건을 사다',
     ja: '商品を購入',
     ro: 'Cumpără Obiectul'
@@ -62,30 +62,47 @@ export default {
 
   post: {
     en: 'Post Item',
-    nl: 'Plaatsen Voorwerp'
+    ru: 'Отправить предмет'
+    nl: 'Plaatsen Voorwerp',
+    es: 'Enviar Objeto',
+    fr: 'Soumettre l\'objet',
+    de: 'Item senden',
+    pt: 'Enviar Objeto'
+    ko: '개체 보내기',
+    pl: 'Prześlij Obiekt',
+    sv: 'Skicka objekt',
+    tr: 'Nesne Gönder',
+    ht: 'Voye objè',
+    it: 'Invia l'oggetto',
+    hi: 'वस्तु भेजें',
+    tl: 'Ipadala ang Bagay',
+    el: 'Στείλετε Αντικειμένου',
+    bg: 'Изпрати предмет ,
+    cs: 'Poslat předmět',
+    ja: 'オブジェクトを送信'
   },
 
   delist: {
     en: 'Delist Item',
-    nl: 'Verwijderd Item',
+    nl: 'Verwijderd Voorwerp',
     de: 'Verkauf abbrechen',
-    ru: 'исключить предмет',
-    tl: 'ibukod ang item',
-    pt: 'Item de exclusão',
-    it: 'Rimuovere l\'elemento',
-    pl: 'Usuń element',
+    ru: 'Исключить предмет',
+    tl: 'Ibukod ang item',
+    pt: 'Objeto de exclusão',
+    it: 'Rimuovere l'oggetto',
+    pl: 'Usuń Obiekt',
     fr: 'Enlever l\'objet des enchères',
     es: 'Eliminar elemento',
     el: 'Διαγραφή στοιχείου',
-    bg: 'Делист вещ',
+    bg: 'Изключване на предмет',
     cs: 'Položka Delist',
-    ht: 'De-lis Atik',
+    ht: 'De-lis Objè',
     ko: '항목 삭제',
     ja: 'アイテムを無効にする',
     ro: 'Scoate Obiectul'
   },
 
-  // include the space and punctuation
+  // Include the space and punctuation
   price: {
     en: 'Price: ',
     nl: 'Prijs: ',
@@ -106,7 +123,7 @@ export default {
     ro: 'Preț: '
   },
 
-  // include the space and punctuation
+  // Include the space and punctuation
   fee: {
     en: 'Fee: ',
     de: 'Gebühr: ',
@@ -129,19 +146,19 @@ export default {
 
   dragitem: {
     en: 'Drag item into slot',
-    nl: 'Slepen het item in de sleuf',
+    nl: 'Slepen het voorwerp in de sleuf',
     de: 'Zieh ein Item hier rein',
     ru: 'Перетащите предмет в слот',
     tl: 'I-drag ang item sa puwang',
-    pt: 'Arraste o item para a ranhura',
-    it: 'Trascinare l\'elemento nella fessura',
-    pl: 'Przeciągnij element do szczeliny czytnika',
-    es: 'Arrastre el elemento a la ranura',
+    pt: 'Arraste o objeto para a ranhura',
+    it: 'Trascinare l'oggetto nella fessura',
+    pl: 'Przeciągnij obiekt do szczeliny czytnika',
+    es: 'Arrastre el objeto a la ranura',
     fr: 'Glisser l\'objet dans l\'emplacement',
     el: 'Σύρετε το αντικείμενο σε υποδοχή',
     bg: 'Плъзнете предмет в слот',
     cs: 'Přetáhněte položku do slotu',
-    ht: 'Drag atik nan plas',
+    ht: 'Drag objè nan plas',
     ko: '항목을 슬롯으로 드래그하십시오.',
     ja: 'アイテムをスロットにドラッグ',
     ro: 'Pune obiectul la locul lui'
@@ -152,7 +169,7 @@ export default {
     es: 'Ha contabilizado $1 para la venta',
     fr: 'Vous avez mis $1 en vente',
     de: 'Sie haben $1 zum Verkauf angeboten',
-    pt: 'Você postou $1 para venda',
+    pt: 'Você enviei $1 para venda',
     ru: 'Вы выставили $1 на продажу',
     ko: '판매용으로 $1 를 게시했습니다',
     nl: 'U heeft $1 te koop aangeboden',
@@ -160,7 +177,7 @@ export default {
     sv: 'Du har skrivit $1 till salu',
     tr: 'Satılık $1 gönderdiniz',
     ht: 'Ou te afiche $1 pou vann',
-    it: 'Hai postato $1 in vendita',
+    it: 'Hai inviato $1 in vendita',
     hi: 'आपने $1 को विक्रय के लिए उपलब्ध कर दिया है',
     tl: 'Nag-post ka ng $1 para sa pagbebenta',
     el: 'Έχετε δημοσιεύσει $1 προς πώληση',
