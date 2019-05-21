@@ -103,7 +103,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Demon\'s Heart' },
+    name       : {$$: 'Lazarus\'s Revenge' },
     description: {
       en: 'Finely crafted quiver made from a mysterious shimmering material.',
       nl: 'Fijn gemaakt koker gemaakt van een mysterieus glinsterend materiaal.',
@@ -161,7 +161,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Cataclysm' },
+    name       : {$$: 'Treant\'s Gift' },
     description: {
       en: 'A spectacular emerald green quiver filling your foes with guilt as they prepare to attack you.',
       ru: 'Великолепный изумрудно-зеленый колчан наполняющий врагов чувством вины, когда те готовятся напасть на вас.',
@@ -211,7 +211,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Cain' },
+    name       : {$$: 'Pompeii' },
     description: {
       en: 'Crumbling scrolls that are stained with blood read that chaos fills the mind of those that have been touched by arrows held in such a quiver.',
       ru: 'Хрупкие свитки, испачканные кровью, говорят, что разумы тех, кто коснется стрел, находящихся в этом колчане, поселит хаос.',
