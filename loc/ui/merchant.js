@@ -32,7 +32,7 @@ export default {
     fr: 'Uniquement mes objets',
     es: 'Sólo mis Objetos',
     el: 'Τα στοιχεία μου μόνο',
-    bg: 'Само моите елементи',
+    bg: 'Само моите предмети',
     cs: 'Pouze mé položky',
     ht: 'Objè mwen sèlman',
     ko: '내 항목 만',
