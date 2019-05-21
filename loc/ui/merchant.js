@@ -73,7 +73,7 @@ export default {
     sv: 'Skicka objekt',
     tr: 'Nesne Gönder',
     ht: 'Voye Objè',
-    it: 'Invia L'oggetto',
+    it: 'Invia L\'oggetto',
     hi: 'वस्तु भेजें',
     tl: 'Ipadala ang Bagay',
     el: 'Στείλετε Αντικειμένου',
