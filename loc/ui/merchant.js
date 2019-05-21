@@ -22,7 +22,7 @@ export default {
 
   filtermine: {
     en: 'My items only',
-    nl: 'Alleen mijn Voorwerpen',
+    nl: 'Alleen mijn voorwerpen',
     de: 'Nur meine Items',
     ru: 'Только мои предметы',
     tl: 'Aking mga item lamang',
@@ -37,7 +37,7 @@ export default {
     ht: 'Objè mwen sèlman',
     ko: '내 항목 만',
     ja: '私の商品のみ',
-    ro: 'Doar Obiectele Mele'
+    ro: 'Doar obiectele mele'
   },
 
   buy: {
@@ -62,39 +62,39 @@ export default {
 
   post: {
     en: 'Post Item',
-    ru: 'Отправить предмет',
+    ru: 'Отправить Предмет',
     nl: 'Plaatsen Voorwerp',
     es: 'Enviar Objeto',
-    fr: 'Soumettre l\'objet',
+    fr: 'Soumettre L\'objet',
     de: 'Item senden',
     pt: 'Enviar Objeto',
     ko: '개체 보내기',
     pl: 'Prześlij Obiekt',
     sv: 'Skicka objekt',
     tr: 'Nesne Gönder',
-    ht: 'Voye objè',
-    it: 'Invia l'oggetto',
+    ht: 'Voye Objè',
+    it: 'Invia L'oggetto',
     hi: 'वस्तु भेजें',
     tl: 'Ipadala ang Bagay',
     el: 'Στείλετε Αντικειμένου',
-    bg: 'Изпрати предмет,
-    cs: 'Poslat předmět',
+    bg: 'Изпрати Предмет,
+    cs: 'Poslat Předmět',
     ja: 'オブジェクトを送信'
   },
 
   delist: {
     en: 'Delist Item',
     nl: 'Verwijderd Voorwerp',
-    de: 'Verkauf abbrechen',
-    ru: 'Исключить предмет',
-    tl: 'Ibukod ang item',
-    pt: 'Objeto de exclusão',
-    it: 'Rimuovere l'oggetto',
+    de: 'Verkauf Abbrechen',
+    ru: 'Исключить Предмет',
+    tl: 'Ibukod ang Item',
+    pt: 'Objeto de Exclusão',
+    it: 'Rimuovere L\'oggetto',
     pl: 'Usuń Obiekt',
     fr: 'Enlever l\'objet des enchères',
-    es: 'Eliminar elemento',
+    es: 'Eliminar Objeto',
     el: 'Διαγραφή στοιχείου',
-    bg: 'Изключване на предмет',
+    bg: 'Изключване на Предмет',
     cs: 'Položka Delist',
     ht: 'De-lis Objè',
     ko: '항목 삭제',
