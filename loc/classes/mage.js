@@ -21,7 +21,7 @@ export default {
     bg: 'Магьосник',
     ja: 'メイジ',
     ro: 'Magician',
-    da: 'Troldmænd'
+    da: 'Troldmand'
   },
 
   // Class description, visible during character creation
