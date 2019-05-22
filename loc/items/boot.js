@@ -82,7 +82,7 @@ export default [
     description: {
       en: 'Clearly lacking in imagination, the maker made boots from the bones of a very large creature...',
       ru: 'Очевидно, у создателя не хватает воображения, ведь он сделал сапоги из костей очень крупного существа ...',
-      de: 'Offensichtlich phantasielos, machte der Hersteller Stiefel aus den Knochen einer sehr großen Kreatur...',
+      de: 'Offensichtlich fantasielos machte der Hersteller Stiefel aus den Knochen einer sehr großen Kreatur...',
       es: 'Claramente sin imaginación, el zapatero uso los huesos de una criatura grande...',
       fr: 'Manquant clairement d\'imagination, le confectionné a fabriqué des bottes à partir des os d\'une très grande créature....',
       it: 'Chiaramente privo di immaginazione, l\'autore ha realizzato stivali dalle ossa di una creatura molto grande...',
@@ -186,7 +186,7 @@ export default [
     description: {
       en: 'Chunky in its looks, probably very uncomfortable.',
       ru: 'Состоят из блочных кусков, наверное, очень неудобные.',
-      de: 'Grob in seinem Aussehen, wahrscheinlich sehr unangenehm.',
+      de: 'Grob in ihrem Aussehen, wahrscheinlich sehr unangenehm.',
       es: 'Macizo y fornido, prbablamente incómodo.',
       fr: 'Son design semble grossier, probablement très inconfortable.',
       it: 'Chunky nel suo aspetto, probabilmente molto scomodo.',
@@ -240,7 +240,7 @@ export default [
       ru: 'Холодные ботинки выкованы без тепла, которые позволяют бегать без спотыканий.',
       es: 'Botas frías forjadas sin calor que permiten correr sin tropezar.',
       fr: 'Bottes froides forgées sans chaleur qui vous permettent de courir sans trébucher',
-      de: 'Kalte, ohne Hitze geschmiedeten Stiefel, die es Ihnen ermöglichen, ohne Stolpern zu laufen.',
+      de: 'Kalte, ohne Hitze geschmiedete Stiefel, die es Ihnen ermöglichen, ohne Stolpern zu laufen.',
       pt: 'Botas frias forjadas sem calor que lhe permitem correr sem tropeçar',
       ko: '비틀 거리지 않고 달릴 수있는 열없이 단조 된 콜드 부츠',
       nl: 'Koude laarzen gesmeed zonder warmte waardoor u zonder struikelen kunt lopen',
