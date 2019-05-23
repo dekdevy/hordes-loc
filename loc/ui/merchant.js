@@ -17,7 +17,8 @@ export default {
     ht: 'Rechèch',
     ko: '수색',
     ja: 'サーチ',
-    ro: 'Caută'
+    ro: 'Caută',
+    da: 'Søg'
   },
 
   filtermine: {
@@ -120,7 +121,8 @@ export default {
     ht: 'Pri: ',
     ko: '가격: ',
     ja: '価格: ',
-    ro: 'Preț: '
+    ro: 'Preț: ',
+    da: 'Pris: '
   },
 
   // Include the space and punctuation
