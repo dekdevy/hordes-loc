@@ -4,7 +4,7 @@ export default [
     description: {
       en: 'Small little purse used by merchant\'s wives.',
       ru: 'Маленькая сумочка, раньше использованая женами купцов.',
-      de: 'Kleine kleine Geldbörse, die von den Ehefrauen der Händler benutzt wird.',
+      de: 'Kleine, kleine Geldbörse, die von den Ehefrauen der Händler benutzt wird.',
       es: 'Una bolsa linda utilizado por las esposas de comerciantes.',
       fr: 'Petite sacoche utilisée par les épouses des marchands.',
       pt: 'Pequena bolsa usada pelas esposas dos comerciantes.',

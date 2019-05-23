@@ -20,8 +20,10 @@ export default {
     cs: 'Lukostřelec',
     el: 'Τοξότης',
     bg: 'Стрелец',
-    ja: '射手'
+    ja: '射手',
+    da: 'Bueskytte'
   },
+
   // Class description, visible during character creation
   description: {
     en: 'Archers deal high single target damage and bursty Area of Effect damage. A good archer will always keep their distance and snipe enemies from afar.',
@@ -31,7 +33,7 @@ export default {
     es: 'Los arqueros hacen daño increíble con sus flechas y pueden disparar muchos flechos a una vez con daño explosivo. La estregia mejor es evitar los enemigos y atacar a lo lejos',
     fr: 'Les archers peuvent infliger  des dégâts élevés sur une cible précise et des dégâts de zone importants. Un bon archer garde toujours ses distances et élimine ses ennemis de loin.',
     pt: 'Arqueiros causam danos altos a um único alvo e danos na Área de Efeito. Um bom arqueiro sempre manterá sua distância e snipe inimigos de longe.',
-    de: 'Bogenschützen verursachen hohen einzelzielschaden und Berstenden Wirkungsbereich. Ein guter Bogenschütze wird immer Abstand halten und Feinde aus der Ferne schießen.',
+    de: 'Bogenschützen verursachen hohen Einzelzielschaden und Berstenden Wirkungsbereich. Ein guter Bogenschütze wird immer Abstand halten und Feinde aus der Ferne bekämpfen.',
     nl: 'Boogschutters veroorzaken hoge schade op een enkel doelwit en op een groter gebied middels frequente schoten. Een goede boogschutter zal altijd zijn afstand bewaren en vijanden vanuit de verte beschieten.',
     tr: 'Okçular tekli hedefe yüksek zarar verir ve aralıklı alan etkili hasar verir. İyi bir okçu her zaman mesafesini korur ve hedeflerini uzaktan avlar.',
     hi: 'धनुरधारी उच्च एकल लक्ष्य क्षति और प्रभाव क्षति के त्वरित क्षत्रुऔ से निपटते हैं। एक अच्छा धनुरधारी हमेशा अपनी दूरी बनाए रखेगा और दुश्मनों को दूर से ही मार देगा।',
@@ -43,6 +45,7 @@ export default {
     cs: 'Lukostřelci se vypořádávají s vysokým poškozením jediného cíle a zničením. Dobrý lukostřelec bude vždy držet jejich vzdálenost a ostřelovat nepřátele z dálky.',
     el: 'Οι τοξότες ασχολούνται με υψηλές ζημιές στο στόχο και τις ζημιές που προκαλούν την περιοχή της επίδρασης. Ένας καλός τοξότης θα κρατήσει πάντα την απόσταση τους και θα καταστρέψει τους εχθρούς από μακριά. ',
     bg: 'Стрелците се справят с висока щета на целта и разрушаващи атаки по многобройни цели. Добрият стрелец винаги ще държи дистанцията си от врагове.',
-    ja: '射手は高い単一ターゲットダメージと突発的なエリアダメージを与えます優れた射手は常に距離を保ち、遠くから敵を狙撃します。'
+    ja: '射手は高い単一ターゲットダメージと突発的なエリアダメージを与えます優れた射手は常に距離を保ち、遠くから敵を狙撃します。',
+    da: 'Bueskytter beskæftiger sig med højt enkelt målsskader og burste områder med effekt skader. En god bueskytter vil altid holde afstanden og snipe fjender langt væk.'
   }
 }

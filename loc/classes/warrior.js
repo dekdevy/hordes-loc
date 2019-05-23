@@ -20,14 +20,15 @@ export default {
     ja: '戦士',
     el: 'Πολεμιστής',
     bg: 'Войн',
-    ro: 'Războinic'
+    ro: 'Războinic',
+    da: 'Kriger'
   },
   // Class description, visible during character creation
   description: {
     en: 'Warriors are built to tank more monsters than any other class by having high defense through equipment (Shields) and strong defensive buffs.',
-    sv: 'Krigare är byggda för att tåla mer skada än alla andra klasser genom högt försvar från sin utrustning (Sköld) och starka försvars Buffar.',
+    sv: 'Krigare är byggda för att tåla mer skada än alla andra klasser genom högt försvar från sin utrustning (Sköld) och starka försvars buffar.',
     ru: 'Воины построены для того, чтобы танковать больше монстров чем любой другой класс, имея хорошую защиту с помощью снаряжения (Щита) и сильных защитных усилений.',
-    de: 'Krieger sind so gebaut, dass sie mehrere Monster auf einmal aushalten können, da sie eine hohe Verteidigung rate durch Ausrüstung (Schilde) und starke defensive buffs haben.',
+    de: 'Krieger sind so gebaut, dass sie mehrere Monster auf einmal aushalten können, da sie eine hohe Verteidigungrate durch Ausrüstung (Schilde) und starke defensive Buffs haben.',
     es: 'Guerreros son los tanques de la guerra, Guerreros luchan para el honor y gloria de la batalla. Ellos pueden aguantar un gran cantidad de daño de todo los otro clases con sus escudos y buffs de defensa.',
     fr: 'Les guerriers sont conçus pour encaisser plus de monstres que n\'importe quelle autre classe en ayant une défense élevée grâce à leurs équipements (boucliers) et des buffs défensifs puissants.',
     hi: 'सर्वश्रेष्ठ रक्षा उपकरण और ताक़तवर कवच के उपयोग से सारी श्रेणियो में योधा सबसे अधिक मार रोक सकते हैं।',
@@ -43,6 +44,7 @@ export default {
     ja: '戦士は装備品（Shields）と強力な防御バフを通して高い防御力を持つことによって他のどのクラスよりも多くのモンスターを戦うために建てられました。',
     el: 'Οι πολεμιστές είναι κατασκευασμένοι για να δεξαμενώνουν περισσότερα τέρατα από οποιαδήποτε άλλη τάξη έχοντας υψηλή άμυνα μέσω εξοπλισμού (Shields) και ισχυρών αμυντικών buffs.',
     bg: 'Воините са построени да задържат повече чудовища от всеки друг клас, като имат висока защита чрез оборудване (Щитове) и силни защитни способности.',
-    ro: 'Războinicii sunt făcuți pentru a atrage mai mulți monștrii decât orice altă clasă, având o defensivă foarte ridicată datorită echipamentului (scuturi) și buff-uri defensive puternice.'
+    ro: 'Războinicii sunt făcuți pentru a atrage mai mulți monștrii decât orice altă clasă, având o defensivă foarte ridicată datorită echipamentului (scuturi) și buff-uri defensive puternice.',
+    da: 'Krigere er bygget til at tanke flere monstre end nogen anden klasse ved at have højt forsvar via udstyr (skjolde) og stærke defensive buffs.'
   }
 }
