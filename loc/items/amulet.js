@@ -129,5 +129,4 @@ fallen adventurers that have ever owned it. Without exception, every adventurer 
 has transcended into legend.'
     }
   }
-
 ]
