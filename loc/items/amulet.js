@@ -9,8 +9,7 @@ export default [
   {
     name       : {$$: 'Wolf\'s Collar'},
     description: {
-      en: 'Collars to keep wolves in servitude are made from a thick leather. Some of them still have chain links connected, but all wolf collars are sturdy. Some collars are imbued with spiritual 
-protection'
+      en: 'Collars to keep wolves in servitude are made from a thick leather. Some of them still have chain links connected, but all wolf collars are sturdy. Some collars are imbued with spiritual protection'
     }
   },
 
