@@ -26,7 +26,7 @@ export default {
   // Class description, visible during character creation
   description: {
     en: 'Warriors are built to tank more monsters than any other class by having high defense through equipment (Shields) and strong defensive buffs.',
-    sv: 'Krigare är byggda för att tåla mer skada än alla andra klasser genom högt försvar från sin utrustning (Sköld) och starka försvars buffar.',
+    sv: 'Krigarnas stryktåliga utrustning (Sköldar) och starka försvarsbuffar gör att de tål mer än någon annan klass.',
     ru: 'Воины построены для того, чтобы танковать больше монстров чем любой другой класс, имея хорошую защиту с помощью снаряжения (Щита) и сильных защитных усилений.',
     de: 'Krieger sind so gebaut, dass sie mehrere Monster auf einmal aushalten können, da sie eine hohe Verteidigungrate durch Ausrüstung (Schilde) und starke defensive Buffs haben.',
     es: 'Guerreros son los tanques de la guerra, Guerreros luchan para el honor y gloria de la batalla. Ellos pueden aguantar un gran cantidad de daño de todo los otro clases con sus escudos y buffs de defensa.',
