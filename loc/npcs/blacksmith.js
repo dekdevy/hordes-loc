@@ -1,8 +1,7 @@
 export default {
   interactions: [{
-    // we should stop starting every npc interaction with "greetings traveler" and make them a bit more iteresting & longer.
     text: {
-      en: 'blacksmith greeting text'
+      en: 'Upgrading is risky without additional special items like a Blacksmith's Blessed Hammer, which can prevent items from breaking during upgrades. Without the hammer, we will be taking a risk. So what can I upgrade for you today?'
     },
     choices: [{
       en: 'blacksmith open interaction'
