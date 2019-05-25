@@ -252,11 +252,11 @@ export default [
       it: 'Strano... il personale sembra... triangolare...',
       cs: 'Podivné ... personál se zdá ... trojúhelníkový ...',
       ja: '奇妙な...スタッフは...三角形のようです...',
-      ht: 'Etranj ... anplwaye a sanble ... triyangilè ...',
-      sv: 'Konstigt ... personalen verkar ... triangulär ...',
-      ko: '이상합니다 ... 직원들은 ... 삼각형 인 것 같습니다 ...',
+      ht: 'Etranj ... anplwaye a sanble... triyangilè...',
+      sv: 'Konstigt ... personalen verkar... triangulär...',
+      ko: '이상합니다 ... 직원들은 ... 삼각형 인 것 같습니다...',
       ro: 'Straniu... toiagul pare... triunghiular...',
-      tr: 'Garip...bu görünüyor...üçgen şeklinde.'
+      tr: 'Garip... bu görünüyor... üçgen şeklinde.'
     }
   },
 
