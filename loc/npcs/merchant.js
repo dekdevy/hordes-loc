@@ -1,7 +1,7 @@
 export default {
   interactions: [{
     text: {
-      en: 'Well, look what we have here! No, that equipment won’t do, will it? Take a look at the open market! Rumours are spreading; I’ve heard of Warcry Scrolls that can teleport a friend to your position. Let\’s just keep that between us, okay?'
+      en: 'Well, look what we have here! No, that equipment won’t do, will it? Take a look at the open market! Rumours are spreading; I’ve heard of Warcry Scrolls that can teleport a friend to your position. Let’s just keep that between us, okay?'
     },
 
     choices: [{
