@@ -6,8 +6,8 @@ import warrior from './classes/warrior.js'
 const classes = [
   warrior,
   mage,
-  shaman,
-  archer ]
+  archer,
+  shaman]
 
 // Items
 import amulet from './items/amulet.js'
