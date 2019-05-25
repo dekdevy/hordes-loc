@@ -1,26 +1,9 @@
 export default {
   interactions: [{
     text: {
-      en: 'Greetings traveler! Would you like to see what items are for sale on the Market?',
-      ru: 'Приветствую путешественник! Хотели бы вы посмотреть, какие товары выставлены на продажу на рынке?',
-      hi: 'अभिवादन यात्री! क्या आप देखना चाहेंगे कि बाजार में बिक्री के लिए कौन सी वस्तुएं हैं?',
-      es: 'Saludos viajero! ¿Le gustaría ver qué artículos están a la venta en el mercado?',
-      de: 'Grüße Reisender! Möchten Sie sehen, welche Artikel auf dem Markt zum Verkauf stehen?',
-      fr: 'Salutations voyageur ! Souhaitez-vous voir quels articles sont en vente sur le Marché ?',
-      nl: 'Gegroet de reiziger! Wilt u zien welke artikelen te koop zijn op de Markt?',
-      tr: 'Selamlar gezgin! Piyasada hangi ürünlerin satıldığını görmek ister Misiniz?',
-      pt: 'Saudações viajante! Gostaria de ver que artigos estão à venda no Mercado?',
-      pl: 'Pozdrawiam podróżnika! Chcesz zobaczyć, jakie przedmioty są na sprzedaż na Rynku?',
-      ht: 'Bonjou vwayajè! Èske ou ta renmen wè ki sa atik yo se pou vann sou Mache a?',
-      it: 'Saluti viaggiatore! Vuoi vedere quali sono gli articoli in vendita sul Mercato?',
-      ko: '인사 여행자! 마켓에서 판매 할 품목을보고 싶습니까?',
-      cs: 'Zdravím cestovatele! Chcete vidět, které položky jsou na trhu k Dispozici?',
-      ja: 'あいさつ旅行者！あなたはどの商品がマーケットで販売されているのか知りたいですか？',
-      sv: 'Hälsningar resenär! Vill du se vilka föremål som är till salu på Marknaden?',
-      bg: 'Поздрави пътник! Искате ли да видите какви елементи се продават на Пазара?',
-      el: 'Χαιρετισμός ταξιδιώτης! Θέλετε να δείτε ποια είδη πωλούνται στην Αγορά;',
-      tl: 'Biyaheng traveler! Gusto mo bang makita kung anong mga item ang ibebenta sa Merkado?'
+      en: 'Well, look what we have here! No, that equipment won’t do, will it? Take a look at the open market! Rumors are spreading; I’ve heard of Warcry Scrolls that can teleport a friend to your position. Let’s just keep that between us, okay?'
     },
+
     choices: [{
       en: 'Yes, show me the items for sale.',
       pt: 'Sim, mostra-me os leilões à venda.',
