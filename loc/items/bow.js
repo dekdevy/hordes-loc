@@ -38,7 +38,7 @@ export default [
       nl: 'Je voelt je minder bekwaam door dit in je handen te houden.',
       pl: 'Czujesz się mniej wykwalifikowany, trzymając to w swoich rękach.',
       it: 'Ti senti meno abile solo tenendoti questo tra le mani.',
-      sv: 'Bara att hålla den i händerna får dig att känna dig oduglig.'
+      sv: 'Bara att hålla den i händerna får dig att känna dig oduglig.',
       ht: 'Ou santi ou mwens kalifye jis pa kenbe sa a nan men ou.',
       tr: 'Sadece tutmakla bile insan kendini yeteneksiz hissediyor, öyle bir yay.',
       hi: 'इसे हाथ में पकड़ते हीं आप नासमझ महसूस करेंगे।',
