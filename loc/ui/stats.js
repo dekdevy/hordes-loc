@@ -91,6 +91,10 @@ export default {
 
     {
       en: 'Bag Slots'
+    },
+
+    {
+      en: 'Stat points'
     }
   ]
 }
