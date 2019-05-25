@@ -11,7 +11,7 @@ export default {
     fr: 'Vous devez attendre jusqu\'à ce que vous puissiez récupérer cet objet"',
     es: 'Tiene que esperar hasta que pueda recuperar este elemento.',
     nl: 'Je moet wachten tot je dit item kan terugvinden.',
-    sv: 'Du måste vänta tills du kan hämta det här objektet.',
+    sv: 'Du måste vänta innan du kan hämta det här föremålet.',
     bg: 'Трябва да изчакате докато изтеглите този елемент.',
     cs: 'Musíte počkat, dokud tuto položku nelze načíst.',
     ko: '이 항목을 가져올 때까지 기다려야합니다.',
@@ -31,7 +31,7 @@ export default {
     pt: 'Retirar',
     it: 'Ritirare',
     pl: 'Wycofanie',
-    sv: 'Dra tillbaka',
+    sv: 'Retirera',
     ro: 'Retrage'
   },
 
