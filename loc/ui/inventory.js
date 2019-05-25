@@ -147,6 +147,10 @@ export default {
     ro: 'Aruncă obiectul'
   },
 
+  equip: {
+    en: 'Equip item'
+  },
+
   use: {
     en: 'Use item',
     ru: 'Использовать',

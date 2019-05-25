@@ -9,19 +9,19 @@ export default {
 
   array: [
     {
-      en: 'Health'
+      en: 'HP'
     },
 
     {
-      en: 'Mana'
+      en: 'MP'
     },
 
     {
-      en: 'Health reg./5s'
+      en: 'HP reg./5s'
     },
 
     {
-      en: 'Mana reg./5s'
+      en: 'MP reg./5s'
     },
 
     {
