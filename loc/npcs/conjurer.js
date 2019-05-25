@@ -1,7 +1,7 @@
 export default {
   interactions: [{
     text: {
-      en: 'Have you heard of the Crystal Shards that were discovered recently? Adventurers can use them to travel directly to distant realms. I don\’t have any Crystal Shards, but I can send you to some places since mystic forces converge at this nexus. Which realm is your desired destination?'
+      en: 'Have you heard of the Crystal Shards that were discovered recently? Adventurers can use them to travel directly to distant realms. I don’t have any Crystal Shards, but I can send you to some places since mystic forces converge at this nexus. Which realm is your desired destination?'
     },
     choices: [{
       en: 'Please bring me to $1.',
