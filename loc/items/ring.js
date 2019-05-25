@@ -18,7 +18,7 @@ export default [
       cs: 'Nedívej se na to, nebo se rozpadne.',
       ja: 'それを見てはいけないか、それはバラバラになります。',
       ht: 'Pa gade li oswa li pral tonbe apa.',
-      sv: 'Om du så mycket som sneglar på det här bandet så lär det falla i bitar.",
+      sv: 'Om du så mycket som sneglar på det här bandet så lär det falla i bitar.',
       ko: '그것을 보지 않거나 떨어져 나옵니다.',
       ro: 'Nu te uita la el sau se va destrăma.',
       tr: 'Bu yüzüğe bakma, yoksa paramparça olur.'
