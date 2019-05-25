@@ -23,7 +23,7 @@ export default [
   {
     name       : {$$: 'Werewolf\'s Claw'},
     description: {
-      en: 'Fearsome werewolf claws that were left behind on the bodies of victims were anointed with mystic oils and instilled with spiritual fortitude through meditation. The creators of these amulets hoped that these spiritual protections would one day be used for revenge. Eagle’s Talon: When a talon was found, it was considered a gift from the sacred birds'
+      en: 'Fearsome werewolf claws that were left behind on the bodies of victims were anointed with mystic oils and instilled with spiritual fortitude through meditation. The creators of these amulets hoped that these spiritual protections would one day be used for revenge.'
     }
   },
 
