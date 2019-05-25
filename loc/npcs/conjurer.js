@@ -1,14 +1,7 @@
 export default {
   interactions: [{
     text: {
-      en: 'A sinister conjurer stands alone. His dark robes are ragged and dishevelled.\
-           He takes out a hand from his deep navy robe pockets and waves it at the air,\
-           trailing his fingers in an intricate pattern. Pale wispy shapes begin to appear,\
-           leaving behind a pungent smell of sulfur.\
-           His hood casts an abyss of shadows onto his face, yet his eyes blaze bright with an fiery shine.\
-           The shapes are now jagged letters, forming some words, barely distinguishable.\
-           The mysterious being points at his freshly made work with an angry flash in his lustrous eyes.\
-           "Where would...you like... to go?'
+      en: 'Have you heard of the Crystal Shards that were discovered recently? Adventurers can use them to travel directly to distant realms. I don\’t have any Crystal Shards, but I can send you to some places since mystic forces converge at this nexus. Which realm is your desired destination? '
     },
     choices: [{
       en: 'Please bring me to $1.',
