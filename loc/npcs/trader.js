@@ -1,27 +1,9 @@
 export default {
   interactions: [{
     text: {
-      en: 'Greetings wandering traveler! Would you like to sell something?',
-      ru: 'Приветствую путник! Хочешь продать что-нибудь?',
-      es: 'Saludos viajero errante! ¿Quieres vender algo?',
-      de: 'Grüße wandernder Reisender! Möchtest du etwas verkaufen?',
-      fr: 'Salutations voyageur errant! Vous voulez vendre quelque chose?',
-      it: 'Viaggiatore errante di saluti! gradite vendere qualcosa?',
-      ht: 'Bonjou vwayajè! Vle vann yon bagay?',
-      pl: 'Pozdrowienia dla wędrownych podróżników! Chcesz coś sprzedać??',
-      nl: 'Gegroet zwervende reiziger! Wilt u iets verkopen?',
-      pt: 'Saudações, viajante errante! Gostaria de vender alguma coisa?',
-      cs: 'Pozdravy putování cestovatel!  Chcete něco prodat?',
-      ja: '旅人をさまよう挨拶！何か売りたいですか？',
-      hi: 'नमस्ते यात्री! क्या आप कुछ बेचना चाहते है?',
-      tr: 'Hoş geldin dolaşan gezgin! Bir şeyler satmak ister misin?',
-      sv: 'Hälsningar vandrande resenären! Vill du sälja något?',
-      ko: '안녕 방랑 여행자! 뭔가 팔고 싶니?',
-      bg: 'Поздрави пътешественико! Искате ли да продадете нещо?',
-      el: 'Χαιρετισμοί περιπλανώμενος ταξιδιώτης!  Θα θέλατε να πουλήσετε κάτι',
-      ro: 'Salutări călător rătăcitor! Ți-ar plăcea să vinzi ceva?',
-      tl: 'Pagbabati ng mga biyahero! Gusto mo bang magbenta ng isang bagay?'
+      en: 'Welcome to the best goods around! You aren’t going to find a better deal than what I have for you; however, I hear that there is a special shop with fantastic items unlike anything I’ve ever seen. In the meanwhile, I have some spare coins and spare goods. What are you offering?'
     },
+
     choices: [{
       en: 'Yes, of course.',
       ru: 'Да, конечно.',
