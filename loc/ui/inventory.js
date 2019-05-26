@@ -101,7 +101,7 @@ export default {
     ro: 'Ai vândut $1',
     fr: 'Vous avez vendu $1',
     ru: 'Вы продали $1',
-    hi: 'आपने $1 के लिए ',
+    hi: 'आपने $1 बेच दिया',
     bg: 'Продадохте $1',
     cs: 'Prodali jste $1 ',
     el: 'Πουλήσατε $1',
@@ -117,11 +117,12 @@ export default {
     de: 'Du hast $1 erhalten.',
     ru: 'Вы получили $1',
     fr: 'Vous avez reçu 1',
-    nl: 'Je hebt 1 dollar ontvangen...',
+    nl: 'Je hebt 1 dollar ontvangen.',
     pl: 'Otrzymałeś 1 dolara.',
     pt: 'Você recebeu $1',
     es: 'Usted ha recibido $1',
-    it: 'Hai ricevuto $1'
+    it: 'Hai ricevuto $1',
+    hi: 'आपको $1 प्राप्त हुआ है'
   },
 
   drop: {
@@ -148,7 +149,8 @@ export default {
   },
 
   equip: {
-    en: 'Equip item'
+    en: 'Equip item',
+    hi: 'वस्तु पहन लें'
   },
 
   use: {
