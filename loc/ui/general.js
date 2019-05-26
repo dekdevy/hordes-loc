@@ -87,7 +87,7 @@ export default {
     ht: 'Anile',
     ko: '취소',
     ja: 'キャンセル',
-    hi: 'रद्द करना',
+    hi: 'कैंसल',
     sv: 'Annullera'
   },
 
@@ -95,7 +95,7 @@ export default {
     en: 'Decline',
     sv: 'Nedgång',
     ru: 'Отказать',
-    hi: 'नहीं',
+    hi: 'मना करें',
     fr: 'Déclin',
     de: 'Ablehnen',
     es: 'Disminución',
