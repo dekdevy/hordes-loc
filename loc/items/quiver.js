@@ -26,57 +26,58 @@ export default [
   },
 
   {
-    name       : {$$: 'Silken Pouch' },
+    name       : {$$: 'Rustic Quiver' },
     description: {
-      en: 'Soft and smooth to the touch, yet sturdy enough for your arrows.',
-      ru: 'Мягкий и гладкий на ощупь, но достаточно прочный для стрел.',
-      nl: 'Zacht en glad aanvoelend, maar stevig genoeg voor uw pijlen.',
-      de: 'Weich und glatt im Griff, aber dennoch robust genug für Ihre Pfeile.',
-      fr: 'Doux et lisse au toucher, mais assez robuste pour vos flèches.',
-      es: 'Suave y suave al tacto, pero lo suficientemente resistente para tus flechas.',
-      pt: 'Suave e suave ao toque, mas resistente o suficiente para suas flechas.',
-      it: 'Morbido e liscio al tatto, ma abbastanza robusto per le frecce.',
-      pl: 'Miękka i gładka w dotyku, a jednocześnie wystarczająco wytrzymała, aby można było używać strzałek.',
-      ko: '부드럽고 촉감이 부드럽지만 아직 튼튼합니다.',
-      sv: 'Mjukt och smidigt, men robust nog för dina pilar.',
-      ht: 'Mou ak lis manyen an, ankò solid ase pou flèch ou yo.',
-      hi: 'स्पर्श करने के लिए नरम और चिकनी, फिर भी अपने तीरों के लिए पर्याप्त मजबूत।',
-      tl: 'Malambot at makinis sa pagpindot, ngunit matibay sapat para sa iyong mga arrow.',
-      el: 'Μαλακή και απαλή στην αφή, αλλά αρκετά ανθεκτική για τα βέλη σας.',
-      bg: 'Мека и гладка на допир, но достатъчно здрава за стрелите ви.',
-      cs: 'Měkká a hladká na dotek, ale dostatečně pevná pro vaše šípy.',
-      ja: 'やわらかく滑らかな肌触り、それでもあなたの矢には十分丈夫。',
-      tr: 'Dokunmak için yumuşak ve pürüzsüz, ancak oklarınız için yeterince sağlam.'
+      en: 'Looks cheap and unreliable, yet sturdy enough for your arrows.',
+      ru: 'Выглядит дешевым и ненадежным, но достаточно прочный для стрел.',
+      nl: 'Ziet er goedkoop en onbetrouwbaar uit..., maar stevig genoeg voor uw pijlen.',
+      de: 'Sieht billig und unzuverlässig aus., aber dennoch robust genug für Ihre Pfeile.',
+      fr: 'Ça a l\'air bon marché et peu fiable., mais assez robuste pour vos flèches.',
+      es: 'Parece barato y poco fiable, pero lo suficientemente resistente para tus flechas.',
+      pt: 'Parece barato e não confiável, mas resistente o suficiente para suas flechas.',
+      it: 'Sembra a buon mercato e inaffidabile, ma abbastanza robusto per le frecce.',
+      pl: 'Wygląda tanio i niewiarygodnie., a jednocześnie wystarczająco wytrzymała, aby można było używać strzałek.',
+      ko: '싸고 믿을 수 없지만 당신의 화살만큼 튼튼한 것 같습니다.',
+      sv: 'Ser billigt och opålitligt ut, men robust nog för dina pilar.',
+      ht: 'Sanble bon mache ak enfidèl, ankò solid ase pou flèch ou yo.',
+      hi: 'सस्ता और अविश्वसनीय लगता है, फिर भी अपने तीरों के लिए पर्याप्त है।',
+      tl: 'Mukhang mura at hindi kapani-paniwala, ngunit matibay sapat para sa iyong mga arrow.',
+      el: 'Φαίνεται φτηνό και αναξιόπιστο, αλλά αρκετά ανθεκτική για τα βέλη σας.',
+      bg: 'Изглежда евтино и ненадеждно, но достатъчно здрава за стрелите ви.',
+      cs: 'Vypadá to levné a nespolehlivé, ale dostatečně pevná pro vaše šípy.',
+      ja: '安くて信頼できないように見えますが、あなたの矢には十分頑丈です。',
+      tr: 'Ucuz ve güvenilmez görünüyor, ancak oklarınız için yeterince sağlam.'
     }
   },
 
   {
-    name       : {$$: 'Bone Rod' },
+    name       : {$$: 'Snakeskin Quiver' },
     description: {
-      en: 'Hollowed out bone, serving well as a makeshift quiver.',
-      ru: 'Выдолбленный из кости, служит как временный колчан.',
-      nl: 'Uitgeholde botten, die goed dienen als provisorische koker.',
-      de: 'Ausgehöhlter Knochen, der gut als behelfsmäßiges Köcherchen dient.',
-      fr: 'Os creusé qui fait un bon carquois de fortune',
-      es: 'Hueso ahuecado, sirviendo bien como un temblor improvisado.',
-      pt: 'Osso oco, servindo bem como uma aljava improvisada.',
-      it: 'Osso scavato, che serve bene come faretra di fortuna.',
-      pl: 'Wydrążona kość, dobrze służąca jako prowizoryczny kołczan.',
-      ko: '임시 변통처럼 잘 어울리는 뼈가 있습니다.',
-      sv: 'Inhullat ben, som tjänar väl som ett fördröjt skott.',
-      ht: 'Kouvri soti zo, sèvi byen tankou yon flèch Fortin.',
-      hi: 'हड्डी बाहर खोखली, एक अस्थायी उत्तोलक के रूप में अच्छी तरह से सेवारत।',
-      tl: 'Nagtusok ng buto, na naghahain nang mabuti bilang isang pansamantalang paninigas.',
-      el: 'Χτυπούσε τα οστά, εξυπηρετώντας ωραίο.',
-      bg: 'Издълбана кост, служеща добре като импровизиран колчан.',
-      cs: 'Vypadla z kosti a sloužila jako provizorní toulce.',
-      ja: '骨をくりぬき、その場しのぎの震えとして役立ちます。',
-      tr: 'İçi boş kemik. el yapımı bir ok için iyi çalışıyor.'
+      en: 'Every time you pull an arrow out, it hisses at you.',
+      ru: 'Каждый раз, когда вы вытаскиваете стрелу, она шипит на вас.',
+      de: 'Jedes Mal, wenn du einen Pfeil herausziehst, zischt er dich an.',
+      es: '¡Serpientes! ¿¡Por qué tenía que ser serpientes!?',
+      tl: 'Sa bawat oras na hilahin mo ang isang arrow out ito heses sa iyo.',
+      bg: 'Всеки път, когато издърпате стрела, тя изсъхва.',
+      el: 'Κάθε φορά που τραβάς ένα βέλος, σου σου σου λέει.',
+      fr: 'Chaque fois que vous tirez une flèche de ce carquois, il hisse tel un serpent.',
+      it: 'Ogni volta che tiri fuori una freccia, ti sibila addosso.',
+      pt: 'Sempre que puxas uma flecha para fora, ela sibila para ti.',
+      hi: 'तीर निकालने पर साँप की तरह फूफकारती है।',
+      nl: 'Elke keer als je een pijl eruit trekt, sist het naar je.',
+      pl: 'Za każdym razem, gdy wyciągasz strzałę, syczysz na siebie.',
+      ht: 'Chak fwa ou rale yon flèch soti, li sifle nan ou.',
+      cs: 'Pokaždé, když vytáhnete šipku, zasyče na vás.',
+      ja: 'あなたが矢を引き出すたびにそれはあなたに向かっている。',
+      sv: 'Varje gång du drar en pil ut hissar den på dig.',
+      ko: '당신이 화살을 꺼낼 때마다, 그것은 당신에게 겁을줍니다.',
+      ro: 'De fiecare dată când scoți o săgeată, te sâsâie.',
+      tr: 'bir oku her çıkardığınızda, tıslama sesi duyarsınız.'
     }
   },
 
   {
-    name       : {$$: 'Reinforced Quiver' },
+    name       : {$$: 'Reinforced Examplar' },
     description: {
       en: 'Linen sack covered in stiff leather.',
       ru: 'Льняной мешочек обтянутый жесткой кожей.',
@@ -102,7 +103,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Mithril Weavings' },
+    name       : {$$: 'Lazarus\'s Revenge' },
     description: {
       en: 'Finely crafted quiver made from a mysterious shimmering material.',
       nl: 'Fijn gemaakt koker gemaakt van een mysterieus glinsterend materiaal.',
@@ -127,28 +128,9 @@ export default [
   },
 
   {
-    name       : {$$: 'Snake Quiver' },
+    name       : {$$: 'Dragonhide Cynosure' },
     description: {
-      en: 'Every time you pull an arrow out, it hisses at you.',
-      ru: 'Каждый раз, когда вы вытаскиваете стрелу, она шипит на вас.',
-      de: 'Jedes Mal, wenn du einen Pfeil herausziehst, zischt er dich an.',
-      es: '¡Serpientes! ¿¡Por qué tenía que ser serpientes!?',
-      tl: 'Sa bawat oras na hilahin mo ang isang arrow out ito heses sa iyo.',
-      bg: 'Всеки път, когато издърпате стрела, тя изсъхва.',
-      el: 'Κάθε φορά που τραβάς ένα βέλος, σου σου σου λέει.',
-      fr: 'Chaque fois que vous tirez une flèche de ce carquois, il hisse tel un serpent.',
-      it: 'Ogni volta che tiri fuori una freccia, ti sibila addosso.',
-      pt: 'Sempre que puxas uma flecha para fora, ela sibila para ti.',
-      hi: 'तीर निकालने पर साँप की तरह फूफकारती है।',
-      nl: 'Elke keer als je een pijl eruit trekt, sist het naar je.',
-      pl: 'Za każdym razem, gdy wyciągasz strzałę, syczysz na siebie.',
-      ht: 'Chak fwa ou rale yon flèch soti, li sifle nan ou.',
-      cs: 'Pokaždé, když vytáhnete šipku, zasyče na vás.',
-      ja: 'あなたが矢を引き出すたびにそれはあなたに向かっている。',
-      sv: 'Varje gång du drar en pil ut hissar den på dig.',
-      ko: '당신이 화살을 꺼낼 때마다, 그것은 당신에게 겁을줍니다.',
-      ro: 'De fiecare dată când scoți o săgeată, te sâsâie.',
-      tr: 'bir oku her çıkardığınızda, tıslama sesi duyarsınız.'
+      en: 'Item Description'
     }
   },
 
@@ -179,7 +161,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Cataclysm' },
+    name       : {$$: 'Treant\'s Gift' },
     description: {
       en: 'A spectacular emerald green quiver filling your foes with guilt as they prepare to attack you.',
       ru: 'Великолепный изумрудно-зеленый колчан наполняющий врагов чувством вины, когда те готовятся напасть на вас.',
@@ -229,7 +211,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Cain' },
+    name       : {$$: 'Pompeii' },
     description: {
       en: 'Crumbling scrolls that are stained with blood read that chaos fills the mind of those that have been touched by arrows held in such a quiver.',
       ru: 'Хрупкие свитки, испачканные кровью, говорят, что разумы тех, кто коснется стрел, находящихся в этом колчане, поселит хаос.',

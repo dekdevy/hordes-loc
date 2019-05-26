@@ -6,10 +6,11 @@ import warrior from './classes/warrior.js'
 const classes = [
   warrior,
   mage,
-  shaman,
-  archer ]
+  archer,
+  shaman]
 
 // Items
+import amulet from './items/amulet.js'
 import armlet from './items/armlet.js'
 import armor from './items/armor.js'
 import bag from './items/bag.js'
@@ -25,9 +26,9 @@ import rune from './items/rune.js'
 import shield from './items/shield.js'
 import staff from './items/staff.js'
 import sword from './items/sword.js'
-import talisman from './items/talisman.js'
 import totem from './items/totem.js'
 const items = {
+  amulet,
   armlet,
   bag,
   boot,
@@ -43,7 +44,6 @@ const items = {
   shield,
   staff,
   sword,
-  talisman,
   totem
 }
 

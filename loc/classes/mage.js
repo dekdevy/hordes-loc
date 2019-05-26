@@ -20,13 +20,15 @@ export default {
     el: 'Mage',
     bg: 'Магьосник',
     ja: 'メイジ',
-    ro: 'Magician'
+    ro: 'Magician',
+    da: 'Troldmand'
   },
+
   // Class description, visible during character creation
   description: {
     en: 'Mages deal very heavy large scale Area of Effect damage, while also providing utility through slowing targets with their ice based magic.',
     ru: 'Маги наносят большой урон по области, а так же приносят пользу благодаря замедлению целей своей магией льда.',
-    sv: 'Magiker gör mycket hög areal skada och har även hjälp av sin is baserade magi för att kunna göra sina motståndare långsamma.',
+    sv: 'Magiker åsamkar förödande areell skada och kan även sakta ned motståndare med sin ismagi.',
     de: 'Magier verursachen sehr großen Flächenschaden und sind gleichzeitig nützlich, da sie Ziele mit ihrer auf Eis basierenden Magie verlangsamen.',
     es: 'Los magos usan los poderes del invierno para ralentizar y hacer daño massivo a los sus enemigos.',
     hi: 'जादूगर बड़े स्तर पर एक गोल ईलाके में ज़ोरदार क्षति पहुँचा सकते है और साथ ही साथ अपने बर्फ़ीले जादू से दुश्मनो को धीमे भी कर सकते है।',
@@ -43,6 +45,7 @@ export default {
     el: 'Οι Mages ασχολούνται με πολύ βαρύς μεγάλης κλίμακας ζημιές Περιοχή Εφέ ενώ παράλληλα παρέχουν χρησιμότητα μέσω της επιβράδυνσης των στόχων με τη μαγεία που βασίζεται στον πάγο.',
     bg: 'Маговете се занимават с много силни магии за щета по многобройни цели, като същевременно осигуряват помощ чрез забавяне на целите с помощта на ледената си магия.',
     ja: '魔術師は、非常に重い大規模な効果領域ダメージを与えながら、氷をベースにした魔法でターゲットを減速させることで有用性も提供します。',
-    ro: 'Magicienii cauzează daune considerabile la scară largă, fiind în același timp folositori prin încetinirea țintelor cu ajutorul magiei lor pe bază de gheață.'
+    ro: 'Magicienii cauzează daune considerabile la scară largă, fiind în același timp folositori prin încetinirea țintelor cu ajutorul magiei lor pe bază de gheață.',
+    da: 'Troldmænd skader i stor grad meget areal skade mens de også gør nytte ved at sænke farten på monstre ved at bruge is-baseret magi.'
   }
 }

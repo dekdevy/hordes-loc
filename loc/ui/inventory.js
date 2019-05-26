@@ -77,7 +77,7 @@ export default {
     pl: 'Twój inwentarz jest pełny',
     de: 'Dein Inventar ist voll',
     ro: 'Inventarul tău este plin',
-    fr: 'Votre inventaire est complet',
+    fr: 'Votre inventaire est plein',
     ru: 'В инвентаре нет места',
     hi: 'आपकी वस्तुसूचि भर गयी है',
     bg: 'Инвентара е пълен',
@@ -101,7 +101,7 @@ export default {
     ro: 'Ai vândut $1',
     fr: 'Vous avez vendu $1',
     ru: 'Вы продали $1',
-    hi: 'आपने $1 के लिए ',
+    hi: 'आपने $1 बेच दिया',
     bg: 'Продадохте $1',
     cs: 'Prodali jste $1 ',
     el: 'Πουλήσατε $1',
@@ -113,7 +113,16 @@ export default {
   },
 
   receive: {
-    en: 'You have received $1'
+    en: 'You have received $1',
+    de: 'Du hast $1 erhalten.',
+    ru: 'Вы получили $1',
+    fr: 'Vous avez reçu 1',
+    nl: 'Je hebt 1 dollar ontvangen.',
+    pl: 'Otrzymałeś 1 dolara.',
+    pt: 'Você recebeu $1',
+    es: 'Usted ha recibido $1',
+    it: 'Hai ricevuto $1',
+    hi: 'आपको $1 प्राप्त हुआ है'
   },
 
   drop: {
@@ -122,7 +131,7 @@ export default {
     hi: 'वस्तु गिरा दे',
     es: 'Posición de entrega',
     de: 'Item ablegen',
-    fr: 'Déposer un article',
+    fr: 'Déposer l\'objet',
     nl: 'Laat vallen',
     pt: 'Item de gota',
     tr: 'Öğe bırak',
@@ -137,6 +146,11 @@ export default {
     ko: '아이템 놓기',
     sv: 'Släpp objektet',
     ro: 'Aruncă obiectul'
+  },
+
+  equip: {
+    en: 'Equip item',
+    hi: 'वस्तु पहन लें'
   },
 
   use: {

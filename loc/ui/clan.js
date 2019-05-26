@@ -95,7 +95,7 @@ export default {
   createinfo: {
     en: 'To create a clan you need',
     ru: 'Для создания клана вам нужно',
-    fr: 'Pour créer un clan, on requiert',
+    fr: 'Pour créer un clan, vous avez besoin de',
     hi: 'दल बनाने के लिए आपको ज़रूरत है',
     es: 'Para crear un clan, necesita',
     de: 'Um einen Clan zu erstellen, brauchst du',
