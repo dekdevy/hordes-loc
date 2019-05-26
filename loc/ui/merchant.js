@@ -227,7 +227,6 @@ export default {
     sv: 'Produkt som köpts för $1 mynt och skickas till din stash',
     ht: 'Atik achte pou pyès monnen $1 epi li voye bay stash ou',
     it: 'Oggetto acquistato per $1 monete e inviato al tuo stash',
-    hi: '$1 के लिए अपने वस्तु खरीद लिया है और उसे आपके स्टैश में भेज दिया गया है',
     tl: 'Ang item na binili para sa $1 barya at ipinadala sa iyong stash',
     el: 'Στοιχείο που αγοράσατε για $1 νομίσματα και απεστάλητε στο στήθος σας',
     bg: 'Позиция, закупена за $1 монети и изпратена до вашия stash',
