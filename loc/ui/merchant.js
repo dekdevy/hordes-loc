@@ -17,7 +17,8 @@ export default {
     ht: 'Rechèch',
     ko: '수색',
     ja: 'サーチ',
-    ro: 'Caută'
+    ro: 'Caută',
+    hi: 'खोजे'
   },
 
   filtermine: {
@@ -37,7 +38,8 @@ export default {
     ht: 'Objè mwen sèlman',
     ko: '내 항목 만',
     ja: '私の商品のみ',
-    ro: 'Doar obiectele mele'
+    ro: 'Doar obiectele mele',
+    hi: 'मेरी वस्तुएं'
   },
 
   buy: {
@@ -57,7 +59,8 @@ export default {
     ht: 'Achte Objè',
     ko: '물건을 사다',
     ja: '商品を購入',
-    ro: 'Cumpără Obiectul'
+    ro: 'Cumpără Obiectul',
+    hi: 'वस्तु खरीदे'
   },
 
   post: {
@@ -74,7 +77,7 @@ export default {
     tr: 'Nesne Gönder',
     ht: 'Voye Objè',
     it: 'Invia L\'oggetto',
-    hi: 'वस्तु भेजें',
+    hi: 'बाज़ार में डालें',
     tl: 'Ipadala ang Bagay',
     el: 'Στείλετε Αντικειμένου',
     bg: 'Изпрати Предмет',
@@ -99,7 +102,8 @@ export default {
     ht: 'De-lis Objè',
     ko: '항목 삭제',
     ja: 'アイテムを無効にする',
-    ro: 'Scoate Obiectul'
+    ro: 'Scoate Obiectul',
+    hi: 'बाज़ार से हटाएं'
   },
 
   // Include the space and punctuation
@@ -120,7 +124,8 @@ export default {
     ht: 'Pri: ',
     ko: '가격: ',
     ja: '価格: ',
-    ro: 'Preț: '
+    ro: 'Preț: ',
+    hi: 'कीमत: '
   },
 
   // Include the space and punctuation
@@ -141,7 +146,8 @@ export default {
     ht: 'Frè: ',
     ko: '보수: ',
     ja: '費用: ',
-    ro: 'Taxă: '
+    ro: 'Taxă: ',
+    hi: 'कीमत: '
   },
 
   dragitem: {
@@ -161,7 +167,8 @@ export default {
     ht: 'Drag objè nan plas',
     ko: '항목을 슬롯으로 드래그하십시오.',
     ja: 'アイテムをスロットにドラッグ',
-    ro: 'Pune obiectul la locul lui'
+    ro: 'Pune obiectul la locul lui',
+    hi: 'वस्तु खीच कर खांचे में डाल दे'
   },
 
   auctionpost: {
@@ -204,7 +211,8 @@ export default {
     ht: 'Atik de-yo ki nan lis ak voye nan stash',
     ko: '상장 폐지 된 물품',
     ja: '上場廃止されたアイテム',
-    ro: 'Obiect delistat și pus la păstrare'
+    ro: 'Obiect delistat și pus la păstrare',
+    hi: 'वस्तु को बाज़ार से हटाकर आपके स्टैश में भेज दिया गया है'
   },
 
   auctionbuy: {
@@ -226,7 +234,8 @@ export default {
     cs: 'Zboží zakoupené za $1 mincí a zaslané do vašeho stash',
     ja: '$1 枚のコインで購入し、あなたの隠し場所に送られるアイテム',
     ko: '$1 동전으로 구입하여 은닉 한 물품',
-    ro: 'Obiect cumpărat pentru $1 monede și trimis în inventarul tău'
+    ro: 'Obiect cumpărat pentru $1 monede și trimis în inventarul tău',
+    hi: 'अपने $1 सिक्कों में वस्तु खरीद ली है और उसे आपके स्टैश में भेज दिया गया है'
   },
 
   sell: {
@@ -240,7 +249,7 @@ export default {
     ro: 'Ai vândut $1 pentru $2',
     fr: 'Vous avez vendu $1 pour $2',
     ru: 'Вы продали $1 за $2',
-    hi: 'आपने $1 के लिए $2 बेच दिया है',
+    hi: 'आपने $2 को $1 के लिए बेच दिया',
     bg: 'Продадохте $1 за $2',
     cs: 'Prodali jste $1 pro $2',
     el: 'Πουλήσατε $1 για $2',
