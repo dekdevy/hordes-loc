@@ -19,7 +19,7 @@ export default [
     name       : {$$: 'Bone Necklace'},
     description: {
       en: 'This necklace consists of bone fragments from a variety of strong creatures. Each bone necklace varies in protection based on the origin of the bones.',
-      ru: 'Это ожерелье состоит из фрагментов костей разных сильных существ. Каждое костное ожерелье имеет разную степень защиты в зависимости от происхождения костей.'
+      ru: 'Это ожерелье состоит из фрагментов костей разных сильных существ. Каждое костное ожерелье имеет разную степень защиты по зависимости от происхождения костей.'
     }
   },
 
