@@ -46,7 +46,8 @@ export default [
       bg: 'Изглежда евтино и ненадеждно, но достатъчно здрава за стрелите ви.',
       cs: 'Vypadá to levné a nespolehlivé, ale dostatečně pevná pro vaše šípy.',
       ja: '安くて信頼できないように見えますが、あなたの矢には十分頑丈です。',
-      tr: 'Ucuz ve güvenilmez görünüyor, ancak oklarınız için yeterince sağlam.'
+      tr: 'Ucuz ve güvenilmez görünüyor, ancak oklarınız için yeterince sağlam.',
+      ro: 'Pare ieftin și nedemn de încredere, dar destul de robust pentru săgețile tale.'
     }
   },
 
@@ -123,7 +124,8 @@ export default [
       bg: 'Фино изработен колчан от мистериозен блестящ материал.',
       cs: 'Jemně vytvořený toulec vyrobený z tajemného třpytivého materiálu.',
       ja: '神秘的なきらめく材料で作られた細かく作られた震え。',
-      tr: 'Gizemli parıldayan metalden yapılmış ince hazırlanmış ok'
+      tr: 'Gizemli parıldayan metalden yapılmış ince hazırlanmış ok',
+      ro: 'O tolbă fină făcută dintr-un material strălucitor și misterios.'
     }
   },
 
@@ -181,7 +183,8 @@ export default [
       cs: 'Velkolepý smaragdově zelený toulec naplňující své nepřátele vinou, když se na vás připravují k útoku.',
       ja: '彼らがあなたを攻撃する準備をしている時に壮観なエメラルドグリーンの槍があなたの敵を罪悪感で満たしています',
       nl: 'Een spectaculaire smaragdgroene koker vult je vijanden met schuldgevoelens als ze zich voorbereiden om je aan te vallen.',
-      tr: 'Size saldırmaya hazırlanırken düşmanlarınızı suçluluk duygusuyla dolduran muhteşem bir zümrüt yeşili ok'
+      tr: 'Size saldırmaya hazırlanırken düşmanlarınızı suçluluk duygusuyla dolduran muhteşem bir zümrüt yeşili ok',
+      ro: 'Tolba de un verde smarald spectaculos îți umple dușmanii cu vinovăție în timp ce se pregătesc să te atace.'
     }
   },
 
@@ -206,7 +209,8 @@ export default [
       bg: 'Колчанът е покрит с дълбок, блестящ материал. Древните истории заявяват, че такъв колчан изчиства ума на отвличанията по време на битка.',
       cs: 'Toulec je potažen hlubokým, třpytivým námořnickým materiálem. Starověké příběhy říkají, že takový tulák vyčistí mysl rozptylování během bitvy.',
       ja: '震えは深く、きらめく海軍材料でコーティングされています。古代の物語は、そのような震えが戦いの間に気晴らしの心をクリアすると述べています。',
-      tr: 'Derin parıldayan donanma malzeme ile kaplı bir ok. Antik hikayeler, böyle bir okun savaş sırasında dikkat dağıtıcı zihni temizlediğini belirtir.'
+      tr: 'Derin parıldayan donanma malzeme ile kaplı bir ok. Antik hikayeler, böyle bir okun savaş sırasında dikkat dağıtıcı zihni temizlediğini belirtir.',
+      ro: 'O tolbă acoperită într-un material marinăresc adânc și sclipitor. Poveștile antice spun că o astfel de tolbă golește mintea de distrageri în timpul luptei.'
     }
   },
 
@@ -231,7 +235,8 @@ export default [
       bg: 'Разрушаващи се свитъци, зацапани с кръв, че хаосът изпълва съзнанието на онези, които са били докоснати от стрели, държани в такъв колчан',
       cs: 'Rozpadající se svitky, které jsou obarveny krví, čtou, že chaos naplňuje mysl těch, kteří se dotkli šípů v takovém toulci',
       ja: '血で染まっている崩壊している巻物は、そのような矢筒の中に握られた矢によって触れられたそれらの心を混乱が満たすことを読みます',
-      tr: 'Kanla lekelenmiş tomurcuklanan parşömenler, kaosun bu oklarla tutulanların aklını doldurduğunu oku.'
+      tr: 'Kanla lekelenmiş tomurcuklanan parşömenler, kaosun bu oklarla tutulanların aklını doldurduğunu oku.',
+      ro: 'Pergamentele sfărâmicioase care sunt pătate de sânge citesc că haosul umple mintea celor care au fost atinși de săgețile ținute într-o astfel de tolbă.'
     }
   }
 
