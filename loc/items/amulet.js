@@ -3,7 +3,7 @@ export default [
     name       : {$$: 'Rotten Talisman'},
     description: {
       en: 'Burned ingredients have been twisted and tied together to form an amulet of meager protection. Creating simple amulets like this has been a common survival tactic since ancient times.',
-      ru: 'Сгоревшие ингредиенты были скручены и связаны между собой, образуя амулет слабой защиты. Создание таких простых амулетов было обычной тактикой выживания в древние времена'
+      ru: 'Выжженные скрученные материалы образуют амулет слабой защиты. Создание  таких простых амулетов было популярно в тактиках выживания с древних времен.'
     }
   },
 
