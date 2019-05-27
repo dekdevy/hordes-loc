@@ -3,7 +3,7 @@ export default [
     name       : {$$: 'Rotten Talisman'},
     description: {
       en: 'Burned ingredients have been twisted and tied together to form an amulet of meager protection. Creating simple amulets like this has been a common survival tactic since ancient times.',
-      ru: 'Сгоревшие ингредиенты были скручены и связаны между собой, образуя амулет слабой защиты. Создание таких простых амулетов было обычной тактикой выживания в древние времена'
+      ru: 'Выжженные скрученные материалы образуют амулет слабой защиты. Создание  таких простых амулетов было популярно в тактиках выживания с древних времен.'
     }
   },
 
@@ -19,7 +19,7 @@ export default [
     name       : {$$: 'Bone Necklace'},
     description: {
       en: 'This necklace consists of bone fragments from a variety of strong creatures. Each bone necklace varies in protection based on the origin of the bones.',
-      ru: 'Это ожерелье состоит из фрагментов костей разных сильных существ. Каждое костное ожерелье имеет разную степень защиты в зависимости от происхождения костей.'
+      ru: 'Это ожерелье состоит из фрагментов костей разных сильных существ. Каждое костное ожерелье имеет разную степень защиты по зависимости от происхождения костей.'
     }
   },
 

@@ -10,7 +10,8 @@ export default [
       nl: 'Oud perkament met vergeelde randen en gevouwen hoeken, versierd met onbekende hiërogliefen en grimmige schilderijen.',
       pl: 'Stary pergamin o żółtych krawędziach i złożonych narożnikach, ozdobiony nieznanymi hieroglifami i ponurymi obrazami.',
       fr: 'Ancien parchemin aux bords jaunis et aux coins pliés, décoré de hiéroglyphes inconnus et de sombres peintures.',
-      es: 'Hoja de pergamino envejecida con bordes amarillentos y esquinas dobladas, decorada con símbolos extraños y pinturas oscuras.'
+      es: 'Hoja de pergamino envejecida con bordes amarillentos y esquinas dobladas, decorada con símbolos extraños y pinturas oscuras.',
+      ro: 'Pergament vechi cu margini îngălbenite și colțuri îndoite, decorat cu hieroglife nefamiliare și picturi sumbre.'
     }
   },
 
@@ -25,7 +26,8 @@ export default [
       nl: 'Zwart lederen oculair dat stinkt naar tabak en rum.',
       pl: 'Czarny skórzany okular śmierdzący tytoniem i rumem.',
       fr: 'Eyeepatch en cuir noir puant le tabac et le rhum.',
-      es: 'Un parche de cuero negro apesta a tabaco y ron.'
+      es: 'Un parche de cuero negro apesta a tabaco y ron.',
+      ro: 'Petic negru de piele ce miroase a tutun și rom.'
     }
   },
 
@@ -40,7 +42,8 @@ export default [
       nl: 'Monsterlijke klauw van een grote beer die enige tijd geleden is gedood.',
       pl: 'Potworny szpon dużego niedźwiedzia zabity jakiś czas temu.',
       fr: 'Monstrueuse griffe d\'un gros ours tué il y a quelque temps.',
-      es: 'Una garra monstruosa de un oso enorme que murió hace bastante tiempo.'
+      es: 'Una garra monstruosa de un oso enorme que murió hace bastante tiempo.',
+      ro: 'Gheara monstruoasă a unui urs uriaș ce a fost ucis cu ceva timp în urmă.'
     }
   },
 

@@ -45,7 +45,8 @@ export default [
       cs: 'Kvalifikované ruce dělaly složitou práci při výrobě těchto domácích manžet.',
       el: 'Τα εξειδικευμένα χέρια έκαναν μια περίπλοκη δουλειά στην κατασκευή αυτών των σπιτικών μανικιών.',
       bg: 'Умели ръце направиха сложна работа, за да направят тези домашни маншети.',
-      ja: '熟練した手はこれらの自家製の袖口を作ることにおいて複雑な仕事をしました。'
+      ja: '熟練した手はこれらの自家製の袖口を作ることにおいて複雑な仕事をしました。',
+      ro: 'Niște mâini dibace au făcut o muncă complicată pentru realizarea acestor manșete de casă.'
     }
   },
 
@@ -69,7 +70,8 @@ export default [
       cs: 'Ztuhlé, dělá svou ruki bolavou.',
       el: 'Σφίξτε τα χέρια σας.',
       bg: 'Скръв, направи ръцете си възпалени.',
-      ja: '硬直して、腕を痛めます。'
+      ja: '硬直して、腕を痛めます。',
+      ro: 'Rigid, îți inflamează brațele.'
     }
   },
 
