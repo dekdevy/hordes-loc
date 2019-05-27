@@ -150,6 +150,7 @@ export default {
 
   equip: {
     en: 'Equip item',
+    ru: 'Надеть предмет',
     hi: 'वस्तु पहन लें'
   },
 
