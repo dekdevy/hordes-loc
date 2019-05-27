@@ -3,7 +3,8 @@ export default {
     text: {
       en: 'Welcome to the best goods around! You aren’t going to find a better deal than what I have for you; however, I hear that there is a special shop with fantastic items unlike anything I’ve ever seen. In the meanwhile, I have some spare coins and spare goods. What are you offering?',
       da: 'Velkommen til de bedste varer i området! Du vil ikke finde en bedre handel end hvad jeg har for dig; men, jeg hører, at der er en speciel butik med fantastiske ting, ting som jeg ikke selv kunne forestille mig. I mellemtiden har jeg nogle ekstra mønter og ting til overs. Hvad har du at byde med?',
-      ru: 'Добро пожаловать! Здесь лучшие товары в округе! Вы не найдете предложений лучше, чем то, что у меня есть для вас, однако, я слышал, что есть специальный магазин с фантастическими предметами, не похожими ни на что, что я когда-либо видел. Пока, у меня есть лишние монеты и лишние товары. Что вы предлагаете?'
+      ru: 'Добро пожаловать! Здесь лучшие товары в округе! Вы не найдете предложений лучше, чем то, что у меня есть для вас, однако, я слышал, что есть специальный магазин с фантастическими предметами, не похожими ни на что, что я когда-либо видел. Пока, у меня есть лишние монеты и лишние товары. Что вы предлагаете?',
+      sv: 'Välkommen till affären med de bästa grejerna i stan! Du kommer inte att hitta bättre erbjudanden! Dock så har jag hört talas om en specialaffär med helt fantastiska föremål, vars make jag aldrig skådat. Aja, jag har några mynt och föremål över. Vad har du att erbjuda?'
     },
 
     choices: [{
