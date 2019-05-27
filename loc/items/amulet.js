@@ -34,7 +34,8 @@ export default [
   {
     name       : {$$: 'Eagle\'s Talon'},
     description: {
-      en: 'When a talon was found, it was considered a gift from the sacred birds in the mountains. The monks in the mountains used the talons to produce spiritual amulets to protect themselves from invaders during battle.'
+      en: 'When a talon was found, it was considered a gift from the sacred birds in the mountains. The monks in the mountains used the talons to produce spiritual amulets to protect themselves from invaders during battle.',
+      ru: 'Когда был найден коготь, его считали даром священных птиц живущих в горах. Монахи в горах использовали эти когти для изготовления духовных амулетов, чтобы защитить себя от захватчиков во время битвы.'
     }
   },
 
