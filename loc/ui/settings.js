@@ -259,26 +259,26 @@ export default {
 
   // ---- Chat
   chat: {
-    en: 'chat',
+    en: 'Chat',
     ru: 'Чат',
     hi: 'चैट',
     es: 'Chat',
     de: 'Chat',
-    fr: 'chat',
+    fr: 'Chat',
     nl: 'praten',
     tr: 'sohbet',
     pt: 'bate-papo',
     pl: 'pogawędka',
-    ht: 'chat',
-    it: 'chiacchierata',
+    ht: 'Chat',
+    it: 'Chiacchierata',
     ko: '잡담',
-    cs: 'chatu',
+    cs: 'Chatu',
     ja: 'チャット',
-    sv: 'chatt',
+    sv: 'Chatt',
     bg: 'чат',
     el: 'κουβέντα',
-    tl: 'chat',
-    ro: 'chat'
+    tl: 'Chat',
+    ro: 'Chat'
   },
 
   chatwidth: {
