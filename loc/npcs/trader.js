@@ -1,7 +1,8 @@
 export default {
   interactions: [{
     text: {
-      en: 'Welcome to the best goods around! You aren’t going to find a better deal than what I have for you; however, I hear that there is a special shop with fantastic items unlike anything I’ve ever seen. In the meanwhile, I have some spare coins and spare goods. What are you offering?'
+      en: 'Welcome to the best goods around! You aren’t going to find a better deal than what I have for you; however, I hear that there is a special shop with fantastic items unlike anything I’ve ever seen. In the meanwhile, I have some spare coins and spare goods. What are you offering?',
+      da: 'Velkommen til de bedste varer i området! Du vil ikke finde en bedre handel end hvad jeg har for dig; men, jeg hører, at der er en speciel butik med fantastiske ting, ting som jeg ikke selv kunne forestille mig. I mellemtiden har jeg nogle ekstra mønter og ting til overs. Hvad har du at byde med?'
     },
 
     choices: [{
