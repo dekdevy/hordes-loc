@@ -3,7 +3,7 @@ export default [
     name       : {$$: 'Rotten Talisman'},
     description: {
       en: 'Burned ingredients have been twisted and tied together to form an amulet of meager protection. Creating simple amulets like this has been a common survival tactic since ancient times.',
-      ru: 'Выжженные скрученные материалы образуют амулет слабой защиты. Создание  таких простых амулетов было популярно в тактиках выживания с древних времен.'
+      ru: 'Выжженные скрученные материалы из леса образуют амулет слабой защиты. Создание  таких простых амулетов было популярно в тактиках выживания с древних времен.'
     }
   },
 
@@ -34,7 +34,8 @@ export default [
   {
     name       : {$$: 'Eagle\'s Talon'},
     description: {
-      en: 'When a talon was found, it was considered a gift from the sacred birds in the mountain. The monks in the mountains used the talons to produce spiritual amulets to protect themselves from invaders during battle.'
+      en: 'When a talon was found, it was considered a gift from the sacred birds in the mountains. The monks in the mountains used the talons to produce spiritual amulets to protect themselves from invaders during battle.',
+      ru: 'Когда был найден коготь, его считали даром священных птиц живущих в горах. Монахи в горах использовали эти когти для изготовления духовных амулетов, чтобы защитить себя от захватчиков во время битвы.'
     }
   },
 
