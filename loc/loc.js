@@ -14,6 +14,7 @@ import amulet from './items/amulet.js'
 import armlet from './items/armlet.js'
 import armor from './items/armor.js'
 import bag from './items/bag.js'
+import book from './items/book.js'
 import boot from './items/boot.js'
 import bow from './items/bow.js'
 import glove from './items/glove.js'
@@ -31,6 +32,7 @@ const items = {
   amulet,
   armlet,
   bag,
+  book,
   boot,
   bow,
   armor,
