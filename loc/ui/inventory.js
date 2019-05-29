@@ -133,7 +133,7 @@ export default {
     de: 'Item ablegen',
     fr: 'Déposer l\'objet',
     nl: 'Laat vallen',
-    pt: 'Item de gota',
+    pt: 'Soltar item',
     tr: 'Öğe bırak',
     it: 'Elemento di goccia',
     pl: 'Pozycja zrzutowa',
@@ -152,7 +152,8 @@ export default {
     en: 'Equip item',
     ru: 'Надеть предмет',
     hi: 'वस्तु पहन लें',
-    es: 'Equipar objeto'
+    es: 'Equipar objeto',
+    pt: 'Equipar item'
   },
 
   use: {
