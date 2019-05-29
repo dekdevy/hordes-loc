@@ -1,67 +1,60 @@
 export default {
-
-  showall: {
-    en: 'Show All',
-    ru: 'Пок. Все',
-    hi: 'सब दिखाए',
-    es: 'Todo',
-    de: 'Alle anzeigen',
-    fr: 'Montrer tous/toutes',
-    ko: '모두 보이기'
+  whisper: {
+    en: 'Whisper',
+    ru: 'Шептать',
+    hi: 'फुसफुसाऐ',
+    it: 'Sussurro',
+    es: 'Susurro',
+    de: 'Flüstern',
+    fr: 'Chuchoter',
+    ko: '속삭임',
+    tr: 'Fısıltı',
+    nl: 'Fluisteren',
+    pt: 'Sussurro',
+    pl: 'Szept',
+    ht: 'Chichote',
+    cs: 'Šepot',
+    ja: 'ささやく',
+    sv: 'Viska',
+    bg: 'Шепни',
+    el: 'Ψίθυρος',
+    tl: 'Bulong',
+    ro: 'Șoaptă'
   },
 
-  showclan: {
-    en: 'Show Clan',
-    ru: 'Пок. Клан',
-    hi: 'दल से दिखाए',
-    es: 'Mostrar Clan',
-    de: 'Show-Clan',
-    fr: 'Afficher le clan',
-    ko: '클랜 보이기'
-  },
-
-  showsystem: {
-    en: 'Show System',
-    ru: 'Пок. Систему',
-    hi: 'सिस्टम से दिखाए',
-    es: 'Mostrar sistema',
-    de: 'System anzeigen',
-    fr: 'Afficher le système',
-    ko: '시스템 보이기'
-  },
-
-  loot: {
-    en: 'Loot',
-    ru: 'Добыча',
-    hi: 'लूट',
-    es: 'Botín',
-    de: 'Beute',
-    fr: 'Pillage',
-    ko: '전리품'
-  },
-
-  exp: {
-    en: 'exp',
-    ru: 'опыт',
-    hi: 'ऐक्सपी',
-    es: 'exp'
-  },
-
-  pvp: {
-    en: 'PvP',
-    ru: 'ипи',
-    hi: 'पिविपी',
-    es: 'PvP'
-  },
-
-  // translations not needed
-  twitter: {
-    en: 'TW'
-  },
-
-  // translations not needed
-  discord: {
-    en: 'Discord'
-  }
-
+  types: [ // dont translate until beta testing
+    {
+      en: 'Exp gain'
+    },
+    {
+      en: 'Target change'
+    },
+    {
+      en: 'Cast'
+    },
+    {
+      en: 'Damage'
+    },
+    {
+      en: 'Heal'
+    },
+    {
+      en: 'Death'
+    },
+    {
+      en: 'Level up'
+    },
+    {
+      en: 'Item'
+    },
+    {
+      en: 'Auction'
+    },
+    {
+      en: 'Pick gold'
+    },
+    {
+      en: 'Spend gold'
+    }
+  ]
 }

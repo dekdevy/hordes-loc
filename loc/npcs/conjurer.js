@@ -1,20 +1,32 @@
 export default {
   interactions: [{
     text: {
-      // This is not a final text, just a placeholder, probably not worth translating yet
-      en: 'Ah, I see you traveler. Weary and famished you look. We conjurers, too, roam these fine lands. Would you like me to take you to one?',
-      ru: 'А, вижу, путешественник. Ты выглядишь уставшим и голодным. Мы, волшебники, тоже бродим по этим прекрасным землям. Хочешь, я отвезу тебя k одному?',
-      fr: 'Bonjour, je peux faire apparaître un portail vers les autres conjurers. Où voudriez-vous aller?',
-      es: 'Ah, te veo viajero. Pareces cansado y hambriento. Nosotros, los hechiceros, también, deambulamos por estas bellas tierras. ¿Quieres que te lleve a uno?',
-      de: 'Ah, ich sehe dich als Reisenden. Müd und ausgehungert siehst du aus. Auch wir Zauberer durchstreifen diese schönen Ländereien. Möchtest du, dass ich dich zu einem bringe?'
+      en: 'Have you heard of the Crystal Shards that were discovered recently? Adventurers can use them to travel directly to distant realms. I don\'t have any Crystal Shards, but I can send you to some places since mystic forces converge at this nexus. Which realm is your desired destination?',
+      ru: 'Вы слышали о Crystal Shards, которые были недавно обнаружены? Искатели приключений могут использовать их для перемещения сразу в дальние регионы. У меня нет никаких Crystal Shards, но я могу переместить вас в любое место, так как здесь сходятся мистические силы. Какую зону вы желаете посетить?',
+      sv: 'Har du hört talas om de Crystal Shards som upptäcktes nyligen? Äventyrare kan använda dem för att resa till fjärran riken. Jag har inga Crystal Shards, men jag kan skicka dig till vissa platser eftersom mystiska krafter samlas i denna nexus. Vilken värld vill du resa till?'
     },
+
     choices: [{
       en: 'Please bring me to $1.',
-      ru: 'Пожалуйста, принеси мне k $1.',
+      ru: 'Пожалуйста, отведи меня к $1.',
       fr: 'Apportez-moi vers le 1$, s\'il-vous plaît.',
-      hi: 'हम दूसरे स्थानो का द्वार खोल सकते। कहा जाना चाहते हो तुम?',
-      de: 'Bitte bring mich auf $1.',
-      es: 'Por favor, lléveme a $1.'
+      hi: 'कृपया मुझे $1 ले चलें।',
+      de: 'Bitte bring mich zu $1.',
+      es: 'Por favor, lléveme a $1.',
+      it: 'Portimi prego a $1',
+      ht: 'Tanpri, pote m \' $ 1.',
+      pl: 'Proszę, przyprowadź mnie do $1.',
+      nl: 'Breng me alsjeblieft naar $1.',
+      pt: 'Por favor, entregar me $1.',
+      cs: 'Přiveďte mě na $1.',
+      ja: '私を $1 の元に連れて行って',
+      tr: 'Lütfen bana $1 getir.',
+      sv: 'Ta med mig till $1.',
+      ko: '나를 $1 에 데려다주세요.',
+      bg: 'Моля, закарайте ме до $ 1.',
+      el: 'Παρακαλώ με φέρτε σε $ 1.',
+      ro: 'Te rog, du-mă la $1.',
+      tl: 'Mangyaring dalhin ako sa $1'
     }]
   }]
 }
