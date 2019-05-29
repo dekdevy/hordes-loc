@@ -26,7 +26,7 @@ export default {
   pick: {
     en: 'You have picked up $1',
     nl: 'Je hebt opgepikt $1',
-    es: 'Usted ha recogido $1',
+    es: 'Ha recogido $1',
     pt: 'Você pegou $1',
     it: 'Hai preso $1',
     pl: 'Odebrałeś $1',
@@ -49,7 +49,7 @@ export default {
     en: 'You threw away $1',
     ru: 'Вы выбросили $1',
     ro: 'Ai aruncat $1',
-    es: 'Tiraste a la basura el $1',
+    es: 'Tiró en la basura el $1',
     fr: 'Vous avez jeté $1',
     de: 'Du hast $1 weggeworfen',
     pt: 'Deitaste fora a $1',
@@ -93,7 +93,7 @@ export default {
   sell: { // TODO: these are likely broken in many places
     en: 'You have sold $1',
     nl: 'U heeft verkocht $1',
-    es: 'Usted ha vendido $1',
+    es: 'Ha vendido $1',
     pt: 'Você vendeu $1',
     it: 'Hai venduto $1',
     pl: 'Sprzedałeś $1',
@@ -129,7 +129,7 @@ export default {
     en: 'Drop item',
     ru: 'выбросить',
     hi: 'वस्तु गिरा दे',
-    es: 'Posición de entrega',
+    es: 'Dejar caer objeto',
     de: 'Item ablegen',
     fr: 'Déposer l\'objet',
     nl: 'Laat vallen',
@@ -151,7 +151,8 @@ export default {
   equip: {
     en: 'Equip item',
     ru: 'Надеть предмет',
-    hi: 'वस्तु पहन लें'
+    hi: 'वस्तु पहन लें',
+    es: 'Equipar objeto'
   },
 
   use: {
@@ -159,7 +160,7 @@ export default {
     ru: 'Использовать',
     hi: 'इस्तमाल करे',
     ro: 'Utilizează',
-    es: 'Utilizar posición',
+    es: 'Utilizar objeto',
     fr: 'Utiliser l\'article',
     de: 'Item verwenden',
     pt: 'Usar item',
@@ -180,7 +181,7 @@ export default {
   spend: {
     en: 'You have spent $1 coins',
     ru: 'Вы потратили $1 монеты',
-    es: 'Has gastado 2 monedas',
+    es: 'Ha gastado $1 monedas',
     fr: 'Vous avez dépensé $1 pièces',
     de: 'Du hast $1 Münzen ausgegeben',
     pt: 'Você gastou $1 moedas',
