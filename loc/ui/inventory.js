@@ -152,7 +152,8 @@ export default {
     en: 'Equip item',
     ru: 'Надеть предмет',
     hi: 'वस्तु पहन लें',
-    es: 'Equipar objeto'
+    es: 'Equipar objeto',
+    pt: 'Equipar item'
   },
 
   use: {
