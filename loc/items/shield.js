@@ -148,7 +148,8 @@ export default [
       bg: 'Злато и жълто модели покриват този щит, показвайки вашата власт и сила.',
       cs: 'Zlaté a žluté vzory pokrývají tento štít a zobrazují vaši autoritu a moc.',
       ja: '金と黄色の模様がこの盾を覆い、あなたの権威と力を表しています。',
-      tr: 'Altın ve sarı desenler bu kalkanı örter, otoritenizi ve gücünüzü gösterir.'
+      tr: 'Altın ve sarı desenler bu kalkanı örter, otoritenizi ve gücünüzü gösterir.',
+      es: 'Spinas de oro y amarillo cubren este escudo, mostrando su poder y autoridad.'
     }
   },
 

@@ -4,7 +4,7 @@ export default [
     description: {
       en: 'Cheap leather bands bought by an ambitious farmer.',
       ru: 'Дешевые кожаные ремешки, купленный амбициозным фермером.',
-      es: 'Pulsera de cuero hecho por unos racheros.',
+      es: 'Pulsera de cuero hecho por unos rancheros.',
       fr: 'Bandes en cuir bon marché acheté par un agriculteur ambitieux.',
       de: 'Billige Lederbänder, welche von einem ehrgeizigen Bauern gekauft wurde.',
       pt: 'Bandas de couro barato comprada por um fazendeiro ambicioso.',
@@ -80,7 +80,7 @@ export default [
     description: {
       en: 'Elegant cuffs made from the tusks of the last mammoth.',
       ru: 'Элегантные наручники, сделаные из бивней последнего мамонта.',
-      es: 'Un puños elegante creado con el comillo del elefante final.',
+      es: 'Unos puños elegantes creados con el comillo del elefante final.',
       fr: 'Menottes élégant fait à partir des défenses du dernier mammouth.',
       de: 'Elegante Manschetten aus den Stoßzähnen des letzten Mammuts.',
       pt: 'Elegante algemas feito das presas do último mamute.',
