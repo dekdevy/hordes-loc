@@ -1,4 +1,5 @@
 // --- DO NOT TRANSLATE UNTIL END OF BETA AND SKILLS HAVE BEEN DESIGNED ---
+// --- these are all trashy placeholders ---
 export default [{
   name: {$$: 'Melee attack'},
 
@@ -11,5 +12,12 @@ export default [{
 
   description: {
     en: 'Slash your enemy, striking with extra force.'
+  }
+},
+{
+  name: {$$: 'Bulwark'},
+
+  description: {
+    en: 'Enhance your shields block chance.'
   }
 }]
