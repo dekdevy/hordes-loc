@@ -133,7 +133,7 @@ export default {
     de: 'Item ablegen',
     fr: 'Déposer l\'objet',
     nl: 'Laat vallen',
-    pt: 'Item de gota',
+    pt: 'Soltar item',
     tr: 'Öğe bırak',
     it: 'Elemento di goccia',
     pl: 'Pozycja zrzutowa',
