@@ -70,7 +70,12 @@ export default [
       ru: 'Когда был найден коготь, его считали даром священных птиц живущих в горах. Монахи в горах использовали эти когти для изготовления духовных амулетов, чтобы защитить себя от захватчиков во время битвы.',
       hi: 'जब भी गरुड़ का नाख़ून मिलता था, उसे पहाड़ों के पावन पंचियो का टौफ़ा माना जाता था। पहाड़ों पर रहने वाले भिक्षुकों ने अपनी सुरक्षा के लिए इन नाखूनों से आत्मिक ताबीज़ बनाए थे।',
       de: 'Als eine Kralle gefunden wurde, galt sie als Geschenk der heiligen Vögel in den Bergen. Die Mönche in den Bergen benutzten die Krallen, um spirituelle Amulette herzustellen, um sich im Kampf vor Eindringlingen zu schützen.',
-      it: 'Quando è stato trovato un artiglio, è stato considerato un dono degli uccelli sacri in montagna. I monaci in montagna usavano gli artigli per produrre amuleti spirituali per proteggersi dagli invasori durante la battaglia.'
+      it: 'Quando è stato trovato un artiglio, è stato considerato un dono degli uccelli sacri in montagna. I monaci in montagna usavano gli artigli per produrre amuleti spirituali per proteggersi dagli invasori durante la battaglia.',
+      fr: 'Lorsqu\'une griffe a été trouvée, elle était considérée comme un cadeau des oiseaux sacrés dans les montagnes. Les moines dans les montagnes utilisaient les serres pour produire des amulettes spirituelles afin de se protéger des envahisseurs pendant les combats.',
+      es: 'Cuando se encontró una garra, se consideró un regalo de los pájaros sagrados de las montañas. Los monjes en las montañas usaban las garras para producir amuletos espirituales para protegerse de los invasores durante la batalla.',
+      pt: 'Quando uma garra foi encontrada, foi considerada um presente dos pássaros sagrados nas montanhas. Os monges nas montanhas usavam as garras para produzir amuletos espirituais para se protegerem dos invasores durante a batalha.',
+      nl: 'Toen een klauw werd gevonden, werd het beschouwd als een geschenk van de heilige vogels in de bergen. De monniken in de bergen gebruikten de klauwen om spirituele amuletten te maken om zich te beschermen tegen indringers tijdens de strijd.',
+      pl: 'Kiedy znaleziono talon, był on uważany za dar od świętych ptaków w górach. Mnisi w górach wykorzystywali szpony do produkcji duchowych amuletów, aby chronić się przed najeźdźcami w czasie bitwy.'
     }
   },
 
