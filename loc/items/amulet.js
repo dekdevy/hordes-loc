@@ -38,7 +38,7 @@ export default [
       ru: 'Это ожерелье состоит из фрагментов костей разных сильных существ. Каждое костное ожерелье имеет разную степень защиты по зависимости от происхождения костей.',
       hi: 'इस माला में अलग अलग ताक़तवर प्रणीयो की हद्दीयो के टुकड़े है। हर माला की शक्ति उसकी हद्दीयो के मूल पर निर्भर करती है।',
       de: 'Diese Halskette besteht aus Knochenfragmenten von einer Vielzahl starker Kreaturen. Jede Knochenkette variiert in ihrem Schutz je nach Herkunft der Knochen.',
-      it: 'Questa collana è composta da frammenti ossei provenienti da una varietà di creature forti. Ogni collana ossea varia in protezione in base all'origine delle ossa.'
+      it: 'Questa collana è composta da frammenti ossei provenienti da una varietà di creature forti. Ogni collana ossea varia in protezione in base all\'origine delle ossa.'
     }
   },
 
