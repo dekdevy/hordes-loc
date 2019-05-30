@@ -203,7 +203,7 @@ export default {
     it: 'Articolo cancellato e inviato a magazzino',
     fr: 'Objet retiré des enchères et envoyé dans la planque',
     pl: 'Przedmiot usunięty z wykazu i wysłany do przechowania.',
-    es: 'Artículo retirado de la lista y enviado a su escondite',
+    es: 'Artículo retirado de la lista y enviado a su alijo',
     tl: 'Inalis ang item at ipinadala sa itago',
     el: 'Το στοιχείο αποσυντεθεί και αποστέλλεται στο στήθος',
     bg: 'Предмет се изтегля от продажба и се поставя в гърдите',
@@ -218,7 +218,7 @@ export default {
   auctionbuy: {
     en: 'Item purchased for $1 coins and sent to your stash',
     ru: 'Предмет, купленный за $1, отправлен в ваш сундук',
-    es: 'Artículo comprado por $1 monedas y enviado a su escondite',
+    es: 'Artículo comprado por $1 monedas y enviado a su alijo',
     fr: 'Article acheté pour $1 pièces et envoyé dans votre planque',
     de: 'Artikel, der für $1 Münzen gekauft und an Ihr Versteck geschickt wurde',
     pt: 'Item comprado por $1 moedas e enviado para o seu Cesto',

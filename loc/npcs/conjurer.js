@@ -3,7 +3,8 @@ export default {
     text: {
       en: 'Have you heard of the Crystal Shards that were discovered recently? Adventurers can use them to travel directly to distant realms. I don\'t have any Crystal Shards, but I can send you to some places since mystic forces converge at this nexus. Which realm is your desired destination?',
       ru: 'Вы слышали о Crystal Shards, которые были недавно обнаружены? Искатели приключений могут использовать их для перемещения сразу в дальние регионы. У меня нет никаких Crystal Shards, но я могу переместить вас в любое место, так как здесь сходятся мистические силы. Какую зону вы желаете посетить?',
-      sv: 'Har du hört talas om de Crystal Shards som upptäcktes nyligen? Äventyrare kan använda dem för att resa till fjärran riken. Jag har inga Crystal Shards, men jag kan skicka dig till vissa platser eftersom mystiska krafter samlas i denna nexus. Vilken värld vill du resa till?'
+      sv: 'Har du hört talas om de Crystal Shards som upptäcktes nyligen? Äventyrare kan använda dem för att resa till fjärran riken. Jag har inga Crystal Shards, men jag kan skicka dig till vissa platser eftersom mystiska krafter samlas i denna nexus. Vilken värld vill du resa till?',
+      es: '¿Ha oído de los Crystal Shards que estaban descubierto recientemente? Los aventureros pueden usarlos para viajar directamente a tierras lejanas. No tengo ningún Crytal Shard, pero te puedo enviar a algunos lugares porque hay fuerzas místicas convergentes aquí en este nexo. ¿Adónde quiere ir?'
     },
 
     choices: [{
