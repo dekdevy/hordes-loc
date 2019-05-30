@@ -162,7 +162,12 @@ export default [
       en: 'Ancient kings had powerful ankh symbols made to protect them in the afterlife. Grave robbers have stolen many of these amulets and sold them to both people and monsters. Each ankh has an eerie glow that belies its true power.',
       ru: 'Древние цари имели мощные аньхские символы, созданные для их защиты в загробной жизни. Грабители могил украли многие из этих амулетов и продали их как людям, так и монстрам. У каждого анка есть жуткое сияние, которое неверно отражает его истинную силу.',
       de: 'Alte Könige hatten mächtige Ankh-Symbole, um sie im Jenseits zu schützen. Grabräuber haben viele dieser Amulette gestohlen und an Menschen und Monster verkauft. Jedes Ankh hat ein unheimliches Glühen, das seine wahre Kraft widerlegt.',
-      it: 'Gli antichi re avevano potenti simboli ankh fatti per proteggerli nell\'aldilà. I ladri di tombe hanno rubato molti di questi amuleti e li hanno venduti sia a persone che a mostri. Ogni ankh ha un bagliore inquietante che smentisce il suo vero potere.'
+      it: 'Gli antichi re avevano potenti simboli ankh fatti per proteggerli nell\'aldilà. I ladri di tombe hanno rubato molti di questi amuleti e li hanno venduti sia a persone che a mostri. Ogni ankh ha un bagliore inquietante che smentisce il suo vero potere.',
+      fr: 'Les anciens rois avaient de puissants symboles ankh faits pour les protéger dans l\'au-delà. Les pilleurs de tombes ont volé beaucoup de ces amulettes et les ont vendues à la fois aux gens et aux monstres. Chaque ankh a une lueur étrange qui dément sa vraie puissance.',
+      es: 'Los reyes antiguos tenían poderosos símbolos ankh hechos para protegerlos en la otra vida. Los ladrones de tumbas han robado muchos de estos amuletos y los han vendido tanto a personas como a monstruos. Cada ankh tiene un brillo espeluznante que desmiente su verdadero poder.',
+      pt: 'Os reis antigos tinham símbolos ankh poderosos feitos para os proteger na vida após a morte. Ladrões de sepulturas roubaram muitos desses amuletos e os venderam para pessoas e monstros. Cada ankh tem um brilho estranho que desmente o seu verdadeiro poder.',
+      nl: 'Oude koningen lieten krachtige ankh-symbolen maken om hen te beschermen in het hiernamaals. Gravenrovers hebben veel van deze amuletten gestolen en verkocht aan zowel mensen als monsters. Elke ankh heeft een griezelige gloed die zijn ware kracht verloochent.',
+      pl: 'Starożytni królowie mieli potężne symbole ankh, które miały chronić ich w życiu pozagrobowym. Rabusie grobów ukradli wiele z tych amuletów i sprzedali je zarówno ludziom, jak i potworom. Każdy ankh ma niesamowitą poświatę, która zaprzecza jego prawdziwej mocy.'
     }
   },
 
