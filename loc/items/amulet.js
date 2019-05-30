@@ -207,7 +207,12 @@ export default [
       en: 'This amulet contains a gem from the crown worn by a famous king. The edges of this amulet are ruthlessly sharp and partially smeared with a mysterious substance.',
       ru: 'Этот амулет содержит драгоценный камень из короны, которую носил знаменитый король. Края этого амулета безжалостно остры и частично смазаны таинственным веществом.',
       de: 'Dieses Amulett enthält einen Edelstein von der Krone eines berühmten Königs. Die Kanten dieses Amuletts sind rücksichtslos scharf und teilweise mit einer geheimnisvollen Substanz beschmiert.',
-      it: 'Questo amuleto contiene una gemma della corona indossata da un famoso re. I bordi di questo amuleto sono spietati e parzialmente spalmati di una sostanza misteriosa.'
+      it: 'Questo amuleto contiene una gemma della corona indossata da un famoso re. I bordi di questo amuleto sono spietati e parzialmente spalmati di una sostanza misteriosa.',
+      fr: 'Cette amulette contient une pierre précieuse de la couronne portée par un roi célèbre. Les bords de cette amulette sont impitoyablement tranchants et partiellement couverts d\'une substance mystérieuse.',
+      es: 'Este amuleto contiene una gema de la corona usada por un famoso rey. Los bordes de este amuleto son despiadadamente afilados y parcialmente embadurnados con una sustancia misteriosa.',
+      pt: 'Este amuleto contém uma jóia da coroa usada por um rei famoso. As bordas deste amuleto são impiedosamente afiadas e parcialmente manchadas com uma substância misteriosa.',
+      nl: 'Dit amulet bevat een juweel uit de kroon van een beroemde koning. De randen van dit amulet zijn genadeloos scherp en deels besmeurd met een mysterieuze substantie.',
+      pl: 'Ten amulet zawiera klejnot z korony noszonej przez słynnego króla. Krawędzie tego amuletu są bezwzględnie ostre i częściowo rozmazane tajemniczą substancją.'
     }
   },
 
