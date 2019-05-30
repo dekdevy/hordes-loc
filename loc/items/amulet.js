@@ -102,7 +102,12 @@ export default [
       ru: 'Странные осколки, добытые с гор, были усилены мистиками и превращены в амулеты, чтобы обеспечить защиту и вызвать страх.',
       hi: 'पहाडो से खने अजीब टुकड़ों को सूफीयों ने प्रवृत्त करकर अपनी सुरक्षा के लिए उनके ताबीज़ बना लिए।',
       de: 'Seltsame Scherben, die aus den Bergen abgebaut wurden, wurden von Mystikern verstärkt und zu Amuletten geformt, um Schutz zu bieten und Angst zu erzeugen.',
-      it: 'Strani frammenti estratti dalle montagne sono stati valorizzati dai mistici e trasformati in amuleti per fornire protezione e causare paura.'
+      it: 'Strani frammenti estratti dalle montagne sono stati valorizzati dai mistici e trasformati in amuleti per fornire protezione e causare paura.',
+      fr: 'D\'étranges tessons extraits des montagnes ont été mis en valeur par des mystiques et formés en amulettes afin de fournir une protection et de provoquer la peur.',
+      es: 'Extraños fragmentos extraídos de las montañas fueron enriquecidos por los místicos y formados en amuletos con el fin de proporcionar protección y causar miedo.',
+      pt: 'Estranhos fragmentos extraídos das montanhas foram realçados por místicos e formados em amuletos, a fim de proporcionar proteção e causar medo.',
+      nl: 'Vreemde scherven uit de bergen werden versterkt door mystici en gevormd tot amuletten om bescherming te bieden en angst te zaaien.',
+      pl: 'Dziwne odłamki wydobyte z gór zostały wzmocnione przez mistyków i uformowane w amulety, aby zapewnić ochronę i wywołać strach.'
     }
   },
 
@@ -112,7 +117,12 @@ export default [
       en: 'Warring theocracies created divine omega symbols as a means for protection. These symbols were used to deter attacks, given as protective gifts, and presented to potential religious followers.',
       ru: 'Воюющие теократии создали божественные символы Омеги как средство защиты. Эти символы использовались для прекращения нападений в качестве защитных подарков и вручались потенциальным последователям религии.',
       de: 'Durch kriegerische Theokratien entstanden göttliche Omega-Symbole als Mittel zum Schutz. Diese Symbole wurden zur Abschreckung von Angriffen verwendet, als Schutzgeschenk gegeben und potenziellen religiösen Anhängern präsentiert.',
-      it: 'Le teocrazie in guerra hanno creato simboli omega divini come mezzo di protezione. Questi simboli sono stati usati per scoraggiare gli attacchi, dati come doni di protezione, e presentati a potenziali seguaci religiosi.'
+      it: 'Le teocrazie in guerra hanno creato simboli omega divini come mezzo di protezione. Questi simboli sono stati usati per scoraggiare gli attacchi, dati come doni di protezione, e presentati a potenziali seguaci religiosi.',
+      fr: 'Les théocraties belligérantes ont créé des symboles oméga divins comme moyen de protection. Ces symboles ont été utilisés pour décourager les attaques, offerts en cadeau de protection et présentés à d\éventuels adeptes religieux.',
+      es: 'Las teocracias en guerra crearon símbolos omega divinos como medio de protección. Estos símbolos se usaban para disuadir los ataques, se daban como regalos de protección y se presentaban a los posibles seguidores religiosos.',
+      pt: 'As teocracias beligerantes criaram símbolos ómega divinos como meio de protecção. Estes símbolos foram usados para dissuadir ataques, dados como presentes protectores, e apresentados a potenciais seguidores religiosos.',
+      nl: 'Oorlogstheocratieën creëerden goddelijke omegasymbolen als een middel voor bescherming. Deze symbolen werden gebruikt om aanvallen af te schrikken, gegeven als beschermende geschenken, en werden aan potentiële religieuze volgelingen gepresenteerd.',
+      pl: 'Walczące teokracje stworzyły boskie symbole omegi jako środek ochrony. Symbole te służyły do odstraszania ataków, były dawane jako dary ochronne i przedstawiane potencjalnym wyznawcom religijnym.'
     }
   },
 
