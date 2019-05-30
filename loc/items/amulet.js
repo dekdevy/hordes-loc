@@ -48,7 +48,8 @@ export default [
     name       : {$$: 'Shadow Scarab'},
     description: {
       en: 'Ancient desert people collected special stones and shaped them into scarabs with strange, dark magic. Many important people in that ancient civilization wore these amulets for stature and protection.',
-      ru: 'Древние люди пустыни собирали специальные камни и превращали их в скарабеев со странной, темной магией. Многие важные люди в древней цивилизации носили эти амулеты для укрепления и защиты.'
+      ru: 'Древние люди пустыни собирали специальные камни и превращали их в скарабеев со странной, темной магией. Многие важные люди в древней цивилизации носили эти амулеты для укрепления и защиты.',
+      hi: 'रेगिस्तान के पुराने लोग विशेष पत्थर जमा करकर अपने काले जादू से उन्हें पवित्र भृग का आकार देते थे। उस ज़माने के बड़े लोग अपनी सुरक्षा के लिए इन ताबीज़ो को पहनते थे।'
     }
   },
 
@@ -56,7 +57,8 @@ export default [
     name       : {$$: 'Mystic Shard'},
     description: {
       en: 'Strange shards mined from the mountains were enhanced by mystics and formed into amulets in order to provide protection and cause fear.',
-      ru: 'Странные осколки, добытые с гор, были усилены мистиками и превращены в амулеты, чтобы обеспечить защиту и вызвать страх.'
+      ru: 'Странные осколки, добытые с гор, были усилены мистиками и превращены в амулеты, чтобы обеспечить защиту и вызвать страх.',
+      hi: 'पहाडो से खने अजीब टुकड़ों को सूफीयों ने प्रवृत्त करकर अपनी सुरक्षा के लिए उनके ताबीज़ बना लिए।'
     }
   },
 
