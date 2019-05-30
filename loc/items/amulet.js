@@ -22,7 +22,12 @@ export default [
       ru: 'Ошейники для содержания волков в подчинении, изготовлены из толстой кожи. Некоторые из них все еще соединены звеньями цепи, но все ошейники прочны. Некоторые из них пронизаны духовной защитой.',
       hi: 'भेड़ियों को भृत्यभाव रखने के लिए मोटी चमड़ी के पट्टे इस्तमाल किए जाते है। कुछ पट्टों पर अभी भी सांकल लगे हुए है, पर सारे पट्टे तगड़े है। कुछ पट्टे आत्मिक सुरक्षा से रंजित है।',
       de: 'Halsbänder, um Wölfe in Knechtschaft zu halten, sind aus einem dicken Leder gefertigt. Einige von ihnen haben noch Kettenglieder verbunden, aber alle Wolfshalsbänder sind robust. Einige Halsbänder sind mit spirituellem Schutz versehen.',
-      it: 'I collari per tenere i lupi in servitù sono fatti di cuoio spesso. Alcuni di loro hanno ancora le maglie della catena collegate, ma tutti i collari di lupo sono robusti. Alcuni collari sono impregnati di protezione spirituale.'
+      it: 'I collari per tenere i lupi in servitù sono fatti di cuoio spesso. Alcuni di loro hanno ancora le maglie della catena collegate, ma tutti i collari di lupo sono robusti. Alcuni collari sono impregnati di protezione spirituale.',
+      fr: 'Les colliers pour garder les loups en servitude sont faits d\'un cuir épais. Certains d\'entre eux ont encore des maillons de chaîne reliés, mais tous les colliers de loup sont robustes. Certains colliers sont imprégnés de protection spirituelle.',
+      es: 'Los collares para mantener a los lobos en servidumbre están hechos de cuero grueso. Algunos de ellos todavía tienen eslabones de cadena conectados, pero todos los collares de lobo son robustos. Algunos cuellos están imbuidos de protección espiritual.',
+      pt: 'Colares para manter os lobos na servidão são feitos de um couro grosso. Alguns deles ainda têm elos de cadeia conectados, mas todos os colares de lobos são robustos. Alguns colares estão imbuídos de proteção espiritual.',
+      nl: 'Kragen om wolven in slavernij te houden zijn gemaakt van dik leer. Sommige hebben nog steeds kettingschakels, maar alle wolvenkragen zijn stevig. Sommige kragen zijn doordrenkt met spirituele bescherming.',
+      pl: 'Obroże do trzymania wilków w niewoli wykonane są z grubej skóry. Niektóre z nich mają jeszcze ogniwa łańcucha połączone, ale wszystkie obroże wilków są wytrzymałe. Niektóre obroże są przesiąknięte ochroną duchową.'
     }
   },
 
