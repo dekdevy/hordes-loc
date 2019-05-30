@@ -179,10 +179,10 @@ export default [
       de: 'Verdrehte Stücke des riesigen World Tree, Yggdrasil wurden zu Amuletten der heiligsten Art verarbeitet. Saft sickert aus dem Amulett und wird vom Körper aufgenommen, um zusätzlichen Schutz zu bieten',
       it: 'Pezzi attorcigliati dell\'enorme World Tree, Yggdrasil, sono stati trasformati in amuleti del genere più sacro. La linfa fuoriesce dall\'amuleto e viene assorbita dal corpo per una protezione extra.',
       fr: 'Des morceaux tordus de l\'énorme World Tree, Yggdrasil, ont été transformés en amulettes du genre le plus sacré. La sève s\'écoule de l\'amulette et est absorbée par le corps pour une protection supplémentaire.',
-      es: 'Piezas retorcidas del enorme Árbol del Mundo, Yggdrasil, fueron convertidas en amuletos del tipo más sagrado. La savia se filtra fuera del amuleto y es absorbida por el cuerpo para mayor protección".',
-      pt: 'Peças torcidas da enorme árvore do mundo, Yggdrasil, foram transformadas em amuletos do tipo mais sagrado. A seiva escorre do amuleto e é absorvida pelo corpo para proteção extra".',
-      nl: 'Gedraaide stukken van de enorme Wereldboom, Yggdrasil, werden tot amuletten van de heiligste soort gemaakt. Sap sijpelt uit het amulet en wordt door het lichaam geabsorbeerd voor extra bescherming'.',
-      pl: 'Skręcone kawałki ogromnego World Tree, Yggdrasil, zostały zrobione w amulety najświętszego rodzaju. Sok wydostaje się z amuletu i jest wchłaniany przez ciało dla dodatkowej ochrony".'
+      es: 'Piezas retorcidas del enorme Árbol del Mundo, Yggdrasil, fueron convertidas en amuletos del tipo más sagrado. La savia se filtra fuera del amuleto y es absorbida por el cuerpo para mayor protección.',
+      pt: 'Peças torcidas da enorme árvore do mundo, Yggdrasil, foram transformadas em amuletos do tipo mais sagrado. A seiva escorre do amuleto e é absorvida pelo corpo para proteção extra.',
+      nl: 'Gedraaide stukken van de enorme World Tree, Yggdrasil, werden tot amuletten van de heiligste soort gemaakt. Sap sijpelt uit het amulet en wordt door het lichaam geabsorbeerd voor extra bescherming',
+      pl: 'Skręcone kawałki ogromnego World Tree, Yggdrasil, zostały zrobione w amulety najświętszego rodzaju. Sok wydostaje się z amuletu i jest wchłaniany przez ciało dla dodatkowej ochrony.'
     }
   },
 
