@@ -150,7 +150,7 @@ export default {
       ru: 'Нажмите на иконку, чтобы увидеть краткое описание.',
       fr: 'Cliquez sur une icône pour une brève description',
       hi: 'संक्षिप्त विवरण के लिए तस्वीर पर क्लिक करे।',
-      es: 'Pulse un objecto para obtener una breve descripción.',
+      es: 'Pulse un icono para obtener una breve descripción.',
       de: 'Drücken Sie ein Symbol für eine Kurzbeschreibung.',
       ko: '간단한 설명을 보려면 아이콘을 누르십시오',
       tr: 'Kısa bir açıklama için bir ikona bas',
@@ -219,7 +219,7 @@ export default {
       ru: 'Введите имя',
       fr: 'Entrez un nom',
       hi: 'नाम डाले',
-      es: 'Ingresar un nombre',
+      es: 'Ingresa un nombre',
       de: 'Geben Sie einen Namen ein', // TODO: shorten
       ko: '이름 입력',
       tr: 'Bir isim gir',
