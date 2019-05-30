@@ -86,7 +86,12 @@ export default [
       ru: 'Древние люди пустыни собирали специальные камни и превращали их в скарабеев со странной, темной магией. Многие важные люди в древней цивилизации носили эти амулеты для укрепления и защиты.',
       hi: 'रेगिस्तान के पुराने लोग विशेष पत्थर जमा करकर अपने काले जादू से उन्हें पवित्र भृग का आकार देते थे। उस ज़माने के बड़े लोग अपनी सुरक्षा के लिए इन ताबीज़ो को पहनते थे।',
       de: 'Alte Wüstenvölker sammelten spezielle Steine und formten sie zu Skarabäen mit seltsamer, dunkler Magie. Viele wichtige Menschen in dieser alten Zivilisation trugen diese Amulette zur Statur und zum Schutz.',
-      it: 'Gli antichi abitanti del deserto raccoglievano pietre speciali e le modellavano in scarabei con una strana magia nera. Molti personaggi importanti di quell\'antica civiltà indossavano questi amuleti per la loro statura e protezione.'
+      it: 'Gli antichi abitanti del deserto raccoglievano pietre speciali e le modellavano in scarabei con una strana magia nera. Molti personaggi importanti di quell\'antica civiltà indossavano questi amuleti per la loro statura e protezione.',
+      fr: 'Les anciens habitants du désert ramassaient des pierres spéciales et les façonnaient en scarabées avec une magie étrange et sombre. Beaucoup de personnes importantes dans cette ancienne civilisation portaient ces amulettes pour leur stature et leur protection.',
+      es: 'Los antiguos pobladores del desierto recolectaban piedras especiales y las moldeaban en escarabajos con una magia extraña y oscura. Muchas personas importantes en esa antigua civilización usaban estos amuletos para la estatura y la protección.',
+      pt: 'Antigos desertores do deserto recolheram pedras especiais e moldaram-nas em escaravelhos com magia negra estranha. Muitas pessoas importantes nessa antiga civilização usavam esses amuletos para proteção e estatura.',
+      nl: 'Oude woestijnmensen verzamelden speciale stenen en vormden deze tot scarabeeën met vreemde, donkere magie. Veel belangrijke mensen in die oude beschaving droegen deze amuletten voor gestalte en bescherming.',
+      pl: 'Starożytni pustynni ludzie zbierali specjalne kamienie i kształtowali je w skarabeusze z dziwną, ciemną magią. Wielu ważnych ludzi w tej starożytnej cywilizacji nosiło te amulety dla osiągnięcia odpowiedniej rangi i ochrony.'
     }
   },
 
