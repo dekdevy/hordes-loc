@@ -132,7 +132,12 @@ export default [
       en: 'This amulet has a strange set of overlapping discs that taps into natural energies and amplifies the natural protection of the wearer. Many magic users strive to learn the secrets of these amulets so that they can be reproduced.',
       ru: 'Этот амулет имеет странный набор перекрывающихся дисков, которые подключаются к природным энергиям и усиливают естественную защиту владельца. Многие магические пользователи стремятся узнать секреты этих амулетов, чтобы их можно было воспроизвести.',
       de: 'Dieses Amulett hat einen seltsamen Satz überlappender Scheiben, die natürliche Energien anzapfen und den natürlichen Schutz des Trägers verstärken. Viele magische Nutzer sind bestrebt, die Geheimnisse dieser Amulette zu ergründen, damit sie reproduziert werden können.',
-      it: 'Questo amuleto ha una strana serie di dischi sovrapposti che attinge alle energie naturali e amplifica la protezione naturale di chi lo indossa. Molti utenti magici si sforzano di imparare i segreti di questi amuleti per poterli riprodurre.'
+      it: 'Questo amuleto ha una strana serie di dischi sovrapposti che attinge alle energie naturali e amplifica la protezione naturale di chi lo indossa. Molti utenti magici si sforzano di imparare i segreti di questi amuleti per poterli riprodurre.',
+      fr: 'Cette amulette possède un étrange jeu de disques qui se chevauchent, qui puisent dans les énergies naturelles et amplifient la protection naturelle de celui qui la porte. Beaucoup d\'utilisateurs de magie s\'efforcent d\'apprendre les secrets de ces amulettes afin qu\'elles puissent être reproduites.',
+      es: 'Este amuleto tiene un extraño conjunto de discos superpuestos que aprovechan las energías naturales y amplifican la protección natural del usuario. Muchos usuarios de magia se esfuerzan por aprender los secretos de estos amuletos para que puedan ser reproducidos.',
+      pt: 'Este amuleto tem um estranho conjunto de discos sobrepostos que aproveitam as energias naturais e amplificam a protecção natural do utilizador. Muitos usuários de magia se esforçam para aprender os segredos destes amuletos para que eles possam ser reproduzidos.',
+      nl: 'Dit amulet heeft een vreemde set van overlappende schijven die natuurlijke energieën aanspreken en de natuurlijke bescherming van de drager versterken. Veel magische gebruikers streven ernaar om de geheimen van deze amuletten te leren kennen, zodat ze kunnen worden gereproduceerd.',
+      pl: 'Ten amulet ma dziwny zestaw nakładających się na siebie krążków, które wpasowują się w naturalne energie i wzmacniają naturalną ochronę użytkownika. Wielu magicznych użytkowników stara się poznać sekrety tych amuletów, aby można je było odtworzyć.'
     }
   },
 
