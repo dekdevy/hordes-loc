@@ -147,7 +147,12 @@ export default [
       en: 'Metal strands weave in and out of each other, producing electric arcs and giving the appearance of a living amulet. Scholars speculate that these amulets came from a realm that disappeared, but no one seems sure.',
       ru: 'Металлические пряди вплетаются друг в друга, создавая электрическую дугу и создавая видимость живого амулета. Ученые предполагают, что эти амулеты пришли из мира, который исчез, но никто не уверен.',
       de: 'Metallstränge verweben sich ineinander und auseinander, erzeugen Lichtbögen und wirken wie ein lebendiges Amulett. Wissenschaftler spekulieren, dass diese Amulette aus einem verschwundenen Reich stammten, aber niemand scheint sicher zu sein.',
-      it: 'I fili di metallo si intrecciano l\'uno nell\'altro, producendo archi elettrici e dando l\'aspetto di un amuleto vivente. Gli studiosi ipotizzano che questi amuleti provengano da un regno scomparso, ma nessuno sembra sicuro.'
+      it: 'I fili di metallo si intrecciano l\'uno nell\'altro, producendo archi elettrici e dando l\'aspetto di un amuleto vivente. Gli studiosi ipotizzano che questi amuleti provengano da un regno scomparso, ma nessuno sembra sicuro.',
+      fr: 'Les torons métalliques s\'entrelacent et s\'entremêlent, produisant des arcs électriques et donnant l\'apparence d\'une amulette vivante. Les érudits spéculent que ces amulettes proviennent d\'un royaume qui a disparu, mais personne ne semble sûr.',
+      es: 'Los hilos metálicos se entrelazan entre sí, produciendo arcos eléctricos y dando la apariencia de un amuleto vivo. Los estudiosos especulan que estos amuletos provenían de un reino que desapareció, pero nadie parece estar seguro.',
+      pt: 'Fios de metal tecem uns com os outros, produzindo arcos elétricos e dando a aparência de um amuleto vivo. Os estudiosos especulam que esses amuletos vieram de um reino que desapareceu, mas ninguém parece certo.',
+      nl: 'Metalen strengen weven in en uit elkaar, waardoor elektrische bogen ontstaan en het uiterlijk van een levend amulet ontstaat. Geleerden speculeren dat deze amuletten afkomstig zijn uit een verdwenen rijk, maar niemand lijkt er zeker van te zijn.',
+      pl: 'Metalowe pasma wplatają się w siebie i z siebie, tworząc łuki elektryczne i nadając wygląd żywego amuletu. Uczeni spekulują, że te amulety pochodziły z królestwa, które zniknęło, ale nikt nie wydaje się pewien.'
     }
   },
 
