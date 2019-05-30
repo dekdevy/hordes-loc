@@ -107,7 +107,7 @@ export default {
     ko: '쇠퇴',
     it: 'Diminuzione',
     cs: 'Pokles',
-    ja: '低下',
+    ja: '断る',
     bg: 'Отказвам',
     el: 'Πτώση',
     tl: 'Tanggihan',
