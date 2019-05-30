@@ -49,10 +49,10 @@ export default {
     ru: 'Чтобы продать предмет, нажмите его правой кнопкой мыши или перетащите в окно трейдера.',
     bg: 'За да продадете вещ, щракнете с десния бутон върху него или го плъзнете в прозореца на търговеца.',
     cs: 'Chcete-li položku prodat, klikněte na ni pravým tlačítkem myši nebo ji přetáhněte do okna obchodníka.',
-    pt: 'Para vender um item, clique com o botão direito do mouse ou arraste-o para a janela de negociação.',
-    it: 'Per vendere un punto, clicca con il tasto destro del mouse o trascinalo nella finestra del trader.',
+    pt: 'Para vender um item, clique direito ou arraste-o para a janela de negociação.',
+    it: 'Per vendere un punto, clicca destro o trascinalo nella finestra del trader.',
     pl: 'Aby sprzedać przedmiot, kliknij go prawym przyciskiem myszy lub przeciągnij do okna inwestora.',
-    es: 'Para vender un artículo, haga clic con el botón derecho del ratón o arrástrelo a la ventana del operador.'
+    es: 'Para vender un artículo, haga clic derecho o arrástrelo a la ventana del operador.'
   },
 
   // Include punctuation and space
