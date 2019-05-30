@@ -105,23 +105,27 @@ export default [
   {
     name       : {$$: 'Dragon\'s Periapt'},
     description: {
-      en: 'This amulet contains elder dragon magic that was bestowed upon young dragons; these amulets gave young dragons a better chance of survival into adolescence. Once the young dragons became old and large enough to survive on their own, the chain broke and the amulet was lost.'
+      en: 'This amulet contains elder dragon magic that was bestowed upon young dragons; these amulets gave young dragons a better chance of survival into adolescence. Once the young dragons became old and large enough to survive on their own, the chain broke and the amulet was lost.',
+      de: 'Dieses Amulett enthält ältere Drachenmagie, die jungen Drachen verliehen wurde; diese Amulette gaben jungen Drachen eine bessere Überlebenschance bis in die Pubertät. Als die jungen Drachen alt und groß genug wurden, um alleine zu überleben, brach die Kette und das Amulett war verloren.',
+      ru: 'Этот амулет содержит магию древних драконов, которая досталась молодым драконам. Эти амулеты дали драконам больше шансов на выживание в подростковом возрасте. Как только молодые драконы повзрослели и стали достаточно большими, чтобы выжить самостоятельно, цепь разорвалась, и амулет был утерян.'
     }
   },
 
   {
     name       : {$$: 'Lionheart'},
-    // The king is not alive in this case, use past tense for translating
     description: {
       en: 'This amulet contains a gem from the crown worn by a famous king. The edges of this amulet are ruthlessly sharp and partially smeared with a mysterious substance.',
-      ru: 'Этот амулет содержит драгоценный камень из короны, которую носил знаменитый король. Края этого амулета безжалостно остры и частично смазаны таинственным веществом.'
+      ru: 'Этот амулет содержит драгоценный камень из короны, которую носил знаменитый король. Края этого амулета безжалостно остры и частично смазаны таинственным веществом.',
+      de: 'Dieses Amulett enthält einen Edelstein von der Krone eines berühmten Königs. Die Kanten dieses Amuletts sind rücksichtslos scharf und teilweise mit einer geheimnisvollen Substanz beschmiert.'
     }
   },
 
   {
     name       : {$$: 'Phoenix'},
     description: {
-      en: 'The centre of this amulet of phoenix feathers contains a small amount of ashes from all of the fallen adventurers that have ever owned it. Without exception, every adventurer to use such an amulet has transcended into legend.'
+      en: 'The centre of this amulet of phoenix feathers contains a small amount of ashes from all of the fallen adventurers that have ever owned it. Without exception, every adventurer to use such an amulet has transcended into legend.',
+      de: 'Das Zentrum dieses Amuletts aus Phönixfedern enthält eine kleine Menge Asche von allen gefallenen Abenteurern, die es je besessen haben. Ausnahmslos jeder Abenteurer, der ein solches Amulett benutzt, ist zur Legende geworden.',
+      ru: 'В центре этого амулета из перьев феникса находится небольшое количество пепла от всех падших искателей приключений, которые когда-либо владели им. Без исключения, каждый искатель приключений, использующий такой амулет, превратился в легенду.'
     }
   }
 ]
