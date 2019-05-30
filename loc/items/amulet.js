@@ -222,7 +222,12 @@ export default [
       en: 'The centre of this amulet of phoenix feathers contains a small amount of ashes from all of the fallen adventurers that have ever owned it. Without exception, every adventurer to use such an amulet has transcended into legend.',
       de: 'Das Zentrum dieses Amuletts aus Phönixfedern enthält eine kleine Menge Asche von allen gefallenen Abenteurern, die es je besessen haben. Ausnahmslos jeder Abenteurer, der ein solches Amulett benutzt, ist zur Legende geworden.',
       ru: 'В центре этого амулета из перьев феникса находится небольшое количество пепла от всех падших искателей приключений, которые когда-либо владели им. Без исключения, каждый искатель приключений, использующий такой амулет, превратился в легенду.',
-      it: 'Il centro di questo amuleto di piume di fenice contiene una piccola quantità di cenere di tutti gli avventurieri caduti che l\'hanno mai posseduta. Senza eccezioni, ogni avventuriero che utilizza un tale amuleto è diventato leggenda.'
+      it: 'Il centro di questo amuleto di piume di fenice contiene una piccola quantità di cenere di tutti gli avventurieri caduti che l\'hanno mai posseduta. Senza eccezioni, ogni avventuriero che utilizza un tale amuleto è diventato leggenda.',
+      fr: 'Le centre de cette amulette de plumes de phénix contient une petite quantité de cendres de tous les aventuriers tombés au champ d\'honneur qui l\'ont jamais possédée. Tous les aventuriers, sans exception, à utiliser une telle amulette ont transcendé en légende.',
+      es: 'El centro de este amuleto de plumas de fénix contiene una pequeña cantidad de cenizas de todos los aventureros caídos que lo han poseído. Sin excepción, cada aventurero que utiliza un amuleto de este tipo ha trascendido a la leyenda.',
+      pt: 'O centro deste amuleto de penas de fênix contém uma pequena quantidade de cinzas de todos os aventureiros caídos que já o possuíram. Sem exceção, todo aventureiro que usa um amuleto assim transcendeu para a lenda.',
+      nl: 'Het centrum van dit amulet van feniks veren bevat een kleine hoeveelheid as van alle gevallen avonturiers die er ooit eigenaar van zijn geweest. Zonder uitzondering is elke avonturier die zo\'n amulet gebruikt, zonder uitzondering een legende geworden.',
+      pl: 'W centrum tego amuletu piór feniksa znajduje się niewielka ilość popiołów od wszystkich poległych poszukiwaczy przygód, którzy kiedykolwiek je posiadali. Bez wyjątku, każdy poszukiwacz przygód używający takiego amuletu przerodził się w legendę.'
     }
   }
 ]
