@@ -11,7 +11,8 @@ export default [
       es: 'Los ingredientes quemados han sido retorcidos y atados para formar un amuleto de escasa protección. La creación de amuletos simples como este ha sido una táctica común de supervivencia desde la antigüedad.',
       pt: 'Os ingredientes queimados foram torcidos e amarrados para formar um amuleto de pouca proteção. Criar amuletos simples como este tem sido uma tática de sobrevivência comum desde tempos antigos.',
       nl: 'Verbrande ingrediënten zijn gedraaid en samengebonden tot een amulet van magere bescherming. Het creëren van eenvoudige amuletten zoals deze is al sinds de oudheid een veel voorkomende overlevingstactiek.',
-      pl: 'Spalone składniki zostały skręcone i związane ze sobą, tworząc amulet skromnej ochrony. Tworzenie prostych amuletów, takich jak ten, było powszechną taktyką przetrwania od czasów starożytnych.'
+      pl: 'Spalone składniki zostały skręcone i związane ze sobą, tworząc amulet skromnej ochrony. Tworzenie prostych amuletów, takich jak ten, było powszechną taktyką przetrwania od czasów starożytnych.',
+      da: 'Brændte ingredienser er blevet snoet og bundet sammen for at danne en amulet med beskeden beskyttelse.  Oprettelse af simple amuletter som dette har været en fælles overlevelsestaktik siden oldtiden.'
     }
   },
 
@@ -27,7 +28,8 @@ export default [
       es: 'Los collares para mantener a los lobos en servidumbre están hechos de cuero grueso. Algunos de ellos todavía tienen eslabones de cadena conectados, pero todos los collares de lobo son robustos. Algunos cuellos están imbuidos de protección espiritual.',
       pt: 'Colares para manter os lobos na servidão são feitos de um couro grosso. Alguns deles ainda têm elos de cadeia conectados, mas todos os colares de lobos são robustos. Alguns colares estão imbuídos de proteção espiritual.',
       nl: 'Kragen om wolven in slavernij te houden zijn gemaakt van dik leer. Sommige hebben nog steeds kettingschakels, maar alle wolvenkragen zijn stevig. Sommige kragen zijn doordrenkt met spirituele bescherming.',
-      pl: 'Obroże do trzymania wilków w niewoli wykonane są z grubej skóry. Niektóre z nich mają jeszcze ogniwa łańcucha połączone, ale wszystkie obroże wilków są wytrzymałe. Niektóre obroże są przesiąknięte ochroną duchową.'
+      pl: 'Obroże do trzymania wilków w niewoli wykonane są z grubej skóry. Niektóre z nich mają jeszcze ogniwa łańcucha połączone, ale wszystkie obroże wilków są wytrzymałe. Niektóre obroże są przesiąknięte ochroną duchową.',
+      da: 'Kraver til at holde ulve i servitude er lavet af et tykt læder.  Nogle af dem har stadig kædeforbindelser tilsluttet, men alle ulve kraver er robuste.  Nogle krave er gennemsyret af åndelig beskyttelse.'
     }
   },
 
@@ -43,7 +45,8 @@ export default [
       es: 'Este collar consiste en fragmentos de hueso de una variedad de criaturas fuertes. Cada collar de hueso varía en protección según el origen de los huesos.',
       pt: 'Este colar consiste em fragmentos de ossos de uma variedade de criaturas fortes. Cada colar de osso varia em proteção com base na origem dos ossos.',
       nl: 'Deze ketting bestaat uit botfragmenten van verschillende sterke wezens. Elke bottenketting varieert in bescherming afhankelijk van de oorsprong van de botten.',
-      pl: 'Naszyjnik ten składa się z fragmentów kości różnych silnych stworzeń. Każdy naszyjnik kostny różni się ochroną w zależności od pochodzenia kości.'
+      pl: 'Naszyjnik ten składa się z fragmentów kości różnych silnych stworzeń. Każdy naszyjnik kostny różni się ochroną w zależności od pochodzenia kości.',
+      da: 'Denne halskæde består af knoglefragmenter fra en række stærke skabninger.  Hver knoglehalskæde varierer i beskyttelse baseret på knoglernes oprindelse.'
     }
   },
 
@@ -59,7 +62,8 @@ export default [
       es: 'Temerosas garras de hombre lobo que fueron dejadas atrás en los cuerpos de las víctimas fueron ungidas con aceites místicos e infundidas con fortaleza espiritual a través de la meditación. Los creadores de estos amuletos esperaban que estas protecciones espirituales se utilizaran algún día para la venganza.',
       pt: 'Garras de lobisomem que foram deixadas nos corpos das vítimas foram ungidas com óleos místicos e incutidas com força espiritual através da meditação. Os criadores desses amuletos esperavam que um dia essas proteções espirituais fossem usadas para vingança.',
       nl: 'Angstaanjagende weerwolfklauwen die op de lichamen van de slachtoffers werden achtergelaten, werden gezalfd met mystieke oliën en door middel van meditatie met geestelijke standvastigheid bijgebracht. De makers van deze amuletten hoopten dat deze geestelijke bescherming op een dag gebruikt zou worden voor wraak.',
-      pl: 'Straszne wilkołaki, które pozostały na ciałach ofiar, zostały namaszczone mistycznymi olejami i zaszczepione duchowym męstwem poprzez medytację. Twórcy tych amuletów mieli nadzieję, że te duchowe zabezpieczenia zostaną kiedyś wykorzystane do zemsty.'
+      pl: 'Straszne wilkołaki, które pozostały na ciałach ofiar, zostały namaszczone mistycznymi olejami i zaszczepione duchowym męstwem poprzez medytację. Twórcy tych amuletów mieli nadzieję, że te duchowe zabezpieczenia zostaną kiedyś wykorzystane do zemsty.',
+      da: 'Frygtelige varulvsklør, der blev efterladt på ofre, blev salvet med mystiske olier og indviet med åndelig styrke gennem meditation.  Skaberne af disse amuletter håbede, at disse åndelige beskyttelser en dag ville blive brugt til hævn.'
     }
   },
 
@@ -75,7 +79,8 @@ export default [
       es: 'Cuando se encontró una garra, se consideró un regalo de los pájaros sagrados de las montañas. Los monjes en las montañas usaban las garras para producir amuletos espirituales para protegerse de los invasores durante la batalla.',
       pt: 'Quando uma garra foi encontrada, foi considerada um presente dos pássaros sagrados nas montanhas. Os monges nas montanhas usavam as garras para produzir amuletos espirituais para se protegerem dos invasores durante a batalha.',
       nl: 'Toen een klauw werd gevonden, werd het beschouwd als een geschenk van de heilige vogels in de bergen. De monniken in de bergen gebruikten de klauwen om spirituele amuletten te maken om zich te beschermen tegen indringers tijdens de strijd.',
-      pl: 'Kiedy znaleziono talon, był on uważany za dar od świętych ptaków w górach. Mnisi w górach wykorzystywali szpony do produkcji duchowych amuletów, aby chronić się przed najeźdźcami w czasie bitwy.'
+      pl: 'Kiedy znaleziono talon, był on uważany za dar od świętych ptaków w górach. Mnisi w górach wykorzystywali szpony do produkcji duchowych amuletów, aby chronić się przed najeźdźcami w czasie bitwy.',
+      da: 'Da en talon blev fundet, blev det betragtet som en gave fra de hellige fugle i bjergene.  Munkene i bjergene brugte talonerne til at producere åndelige amuletter for at beskytte sig mod invadere under kamp.'
     }
   },
 
@@ -91,7 +96,8 @@ export default [
       es: 'Los antiguos pobladores del desierto recolectaban piedras especiales y las moldeaban en escarabajos con una magia extraña y oscura. Muchas personas importantes en esa antigua civilización usaban estos amuletos para la estatura y la protección.',
       pt: 'Antigos desertores do deserto recolheram pedras especiais e moldaram-nas em escaravelhos com magia negra estranha. Muitas pessoas importantes nessa antiga civilização usavam esses amuletos para proteção e estatura.',
       nl: 'Oude woestijnmensen verzamelden speciale stenen en vormden deze tot scarabeeën met vreemde, donkere magie. Veel belangrijke mensen in die oude beschaving droegen deze amuletten voor gestalte en bescherming.',
-      pl: 'Starożytni pustynni ludzie zbierali specjalne kamienie i kształtowali je w skarabeusze z dziwną, ciemną magią. Wielu ważnych ludzi w tej starożytnej cywilizacji nosiło te amulety dla osiągnięcia odpowiedniej rangi i ochrony.'
+      pl: 'Starożytni pustynni ludzie zbierali specjalne kamienie i kształtowali je w skarabeusze z dziwną, ciemną magią. Wielu ważnych ludzi w tej starożytnej cywilizacji nosiło te amulety dla osiągnięcia odpowiedniej rangi i ochrony.',
+      da: 'Gamle ørkenfolk indsamlede specielle sten og formede dem til scarabs med mærkelig, mørk magi.  Mange vigtige mennesker i den gamle civilisation havde disse amuletter for statur og beskyttelse.'
     }
   },
 
@@ -107,7 +113,8 @@ export default [
       es: 'Extraños fragmentos extraídos de las montañas fueron enriquecidos por los místicos y formados en amuletos con el fin de proporcionar protección y causar miedo.',
       pt: 'Estranhos fragmentos extraídos das montanhas foram realçados por místicos e formados em amuletos, a fim de proporcionar proteção e causar medo.',
       nl: 'Vreemde scherven uit de bergen werden versterkt door mystici en gevormd tot amuletten om bescherming te bieden en angst te zaaien.',
-      pl: 'Dziwne odłamki wydobyte z gór zostały wzmocnione przez mistyków i uformowane w amulety, aby zapewnić ochronę i wywołać strach.'
+      pl: 'Dziwne odłamki wydobyte z gór zostały wzmocnione przez mistyków i uformowane w amulety, aby zapewnić ochronę i wywołać strach.',
+      da: 'Mærkelige skærder udvindes fra bjergene blev forstærket af mystikere og dannet til amuletter for at give beskyttelse og forårsage frygt.'
     }
   },
 
@@ -122,7 +129,8 @@ export default [
       es: 'Las teocracias en guerra crearon símbolos omega divinos como medio de protección. Estos símbolos se usaban para disuadir los ataques, se daban como regalos de protección y se presentaban a los posibles seguidores religiosos.',
       pt: 'As teocracias beligerantes criaram símbolos ómega divinos como meio de protecção. Estes símbolos foram usados para dissuadir ataques, dados como presentes protectores, e apresentados a potenciais seguidores religiosos.',
       nl: 'Oorlogstheocratieën creëerden goddelijke omegasymbolen als een middel voor bescherming. Deze symbolen werden gebruikt om aanvallen af te schrikken, gegeven als beschermende geschenken, en werden aan potentiële religieuze volgelingen gepresenteerd.',
-      pl: 'Walczące teokracje stworzyły boskie symbole omegi jako środek ochrony. Symbole te służyły do odstraszania ataków, były dawane jako dary ochronne i przedstawiane potencjalnym wyznawcom religijnym.'
+      pl: 'Walczące teokracje stworzyły boskie symbole omegi jako środek ochrony. Symbole te służyły do odstraszania ataków, były dawane jako dary ochronne i przedstawiane potencjalnym wyznawcom religijnym.',
+      da: 'Warring theocracies skabte guddommelige omega symboler som et middel til beskyttelse.  Disse symboler blev brugt til at afskrække angreb, givet som beskyttende gaver og præsenteret for potentielle religiøse tilhængere.'
     }
   },
 
@@ -137,7 +145,8 @@ export default [
       es: 'Este amuleto tiene un extraño conjunto de discos superpuestos que aprovechan las energías naturales y amplifican la protección natural del usuario. Muchos usuarios de magia se esfuerzan por aprender los secretos de estos amuletos para que puedan ser reproducidos.',
       pt: 'Este amuleto tem um estranho conjunto de discos sobrepostos que aproveitam as energias naturais e amplificam a protecção natural do utilizador. Muitos usuários de magia se esforçam para aprender os segredos destes amuletos para que eles possam ser reproduzidos.',
       nl: 'Dit amulet heeft een vreemde set van overlappende schijven die natuurlijke energieën aanspreken en de natuurlijke bescherming van de drager versterken. Veel magische gebruikers streven ernaar om de geheimen van deze amuletten te leren kennen, zodat ze kunnen worden gereproduceerd.',
-      pl: 'Ten amulet ma dziwny zestaw nakładających się na siebie krążków, które wpasowują się w naturalne energie i wzmacniają naturalną ochronę użytkownika. Wielu magicznych użytkowników stara się poznać sekrety tych amuletów, aby można je było odtworzyć.'
+      pl: 'Ten amulet ma dziwny zestaw nakładających się na siebie krążków, które wpasowują się w naturalne energie i wzmacniają naturalną ochronę użytkownika. Wielu magicznych użytkowników stara się poznać sekrety tych amuletów, aby można je było odtworzyć.',
+      da: 'Denne amulet har et mærkeligt sæt af overlappende diske, der knækker i naturlige energier og forstærker bærers naturlige beskyttelse.  Mange magiske brugere forsøger at lære hemmelighederne af disse amuletter, så de kan gengives.'
     }
   },
 
@@ -152,7 +161,8 @@ export default [
       es: 'Los hilos metálicos se entrelazan entre sí, produciendo arcos eléctricos y dando la apariencia de un amuleto vivo. Los estudiosos especulan que estos amuletos provenían de un reino que desapareció, pero nadie parece estar seguro.',
       pt: 'Fios de metal tecem uns com os outros, produzindo arcos elétricos e dando a aparência de um amuleto vivo. Os estudiosos especulam que esses amuletos vieram de um reino que desapareceu, mas ninguém parece certo.',
       nl: 'Metalen strengen weven in en uit elkaar, waardoor elektrische bogen ontstaan en het uiterlijk van een levend amulet ontstaat. Geleerden speculeren dat deze amuletten afkomstig zijn uit een verdwenen rijk, maar niemand lijkt er zeker van te zijn.',
-      pl: 'Metalowe pasma wplatają się w siebie i z siebie, tworząc łuki elektryczne i nadając wygląd żywego amuletu. Uczeni spekulują, że te amulety pochodziły z królestwa, które zniknęło, ale nikt nie wydaje się pewien.'
+      pl: 'Metalowe pasma wplatają się w siebie i z siebie, tworząc łuki elektryczne i nadając wygląd żywego amuletu. Uczeni spekulują, że te amulety pochodziły z królestwa, które zniknęło, ale nikt nie wydaje się pewien.',
+      da: 'Metal tråde væv ind og ud af hinanden, der producerer elektriske buer og giver udseendet af en levende amulet.  Forskere spekulerer på, at disse amuletter kom fra et rige, der forsvandt, men ingen synes sikkert.'
     }
   },
 
@@ -167,7 +177,8 @@ export default [
       es: 'Los reyes antiguos tenían poderosos símbolos ankh hechos para protegerlos en la otra vida. Los ladrones de tumbas han robado muchos de estos amuletos y los han vendido tanto a personas como a monstruos. Cada ankh tiene un brillo espeluznante que desmiente su verdadero poder.',
       pt: 'Os reis antigos tinham símbolos ankh poderosos feitos para os proteger na vida após a morte. Ladrões de sepulturas roubaram muitos desses amuletos e os venderam para pessoas e monstros. Cada ankh tem um brilho estranho que desmente o seu verdadeiro poder.',
       nl: 'Oude koningen lieten krachtige ankh-symbolen maken om hen te beschermen in het hiernamaals. Gravenrovers hebben veel van deze amuletten gestolen en verkocht aan zowel mensen als monsters. Elke ankh heeft een griezelige gloed die zijn ware kracht verloochent.',
-      pl: 'Starożytni królowie mieli potężne symbole ankh, które miały chronić ich w życiu pozagrobowym. Rabusie grobów ukradli wiele z tych amuletów i sprzedali je zarówno ludziom, jak i potworom. Każdy ankh ma niesamowitą poświatę, która zaprzecza jego prawdziwej mocy.'
+      pl: 'Starożytni królowie mieli potężne symbole ankh, które miały chronić ich w życiu pozagrobowym. Rabusie grobów ukradli wiele z tych amuletów i sprzedali je zarówno ludziom, jak i potworom. Każdy ankh ma niesamowitą poświatę, która zaprzecza jego prawdziwej mocy.',
+      da: 'Gamle konger havde stærke ankh symboler til at beskytte dem i efterlivet.  Grave røvere har stjålet mange af disse amuletter og solgt dem til både mennesker og monstre.  Hver ankh har en uhyggelig glød, der belyser sin sande magt.'
     }
   },
 
