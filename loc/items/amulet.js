@@ -225,7 +225,8 @@ export default [
       es: 'Este amuleto contiene una gema de la corona usada por un famoso rey. Los bordes de este amuleto son despiadadamente afilados y parcialmente embadurnados con una sustancia misteriosa.',
       pt: 'Este amuleto contém uma jóia da coroa usada por um rei famoso. As bordas deste amuleto são impiedosamente afiadas e parcialmente manchadas com uma substância misteriosa.',
       nl: 'Dit amulet bevat een juweel uit de kroon van een beroemde koning. De randen van dit amulet zijn genadeloos scherp en deels besmeurd met een mysterieuze substantie.',
-      pl: 'Ten amulet zawiera klejnot z korony noszonej przez słynnego króla. Krawędzie tego amuletu są bezwzględnie ostre i częściowo rozmazane tajemniczą substancją.'
+      pl: 'Ten amulet zawiera klejnot z korony noszonej przez słynnego króla. Krawędzie tego amuletu są bezwzględnie ostre i częściowo rozmazane tajemniczą substancją.',
+      da: 'Denne amulet indeholder en perle fra kronen båret af en berømt konge.  Kanterne af denne amulet er hensynsløst skarpe og delvist smurt med et mystisk stof.'
     }
   },
 
@@ -240,7 +241,8 @@ export default [
       es: 'El centro de este amuleto de plumas de fénix contiene una pequeña cantidad de cenizas de todos los aventureros caídos que lo han poseído. Sin excepción, cada aventurero que utiliza un amuleto de este tipo ha trascendido a la leyenda.',
       pt: 'O centro deste amuleto de penas de fênix contém uma pequena quantidade de cinzas de todos os aventureiros caídos que já o possuíram. Sem exceção, todo aventureiro que usa um amuleto assim transcendeu para a lenda.',
       nl: 'Het centrum van dit amulet van feniks veren bevat een kleine hoeveelheid as van alle gevallen avonturiers die er ooit eigenaar van zijn geweest. Zonder uitzondering is elke avonturier die zo\'n amulet gebruikt, zonder uitzondering een legende geworden.',
-      pl: 'W centrum tego amuletu piór feniksa znajduje się niewielka ilość popiołów od wszystkich poległych poszukiwaczy przygód, którzy kiedykolwiek je posiadali. Bez wyjątku, każdy poszukiwacz przygód używający takiego amuletu przerodził się w legendę.'
+      pl: 'W centrum tego amuletu piór feniksa znajduje się niewielka ilość popiołów od wszystkich poległych poszukiwaczy przygód, którzy kiedykolwiek je posiadali. Bez wyjątku, każdy poszukiwacz przygód używający takiego amuletu przerodził się w legendę.',
+      da: 'Centret af denne amulet af phoenix fjer indeholder en lille mængde aske fra alle de faldne eventyrere, der nogensinde har ejet det.  Uden undtagelse er alle eventyrere til at bruge en sådan amulet overgået til legenden.'
     }
   }
 ]
