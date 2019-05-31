@@ -8,7 +8,6 @@ export default {
     sv: 'Vanguard-horden eftersträvar ett ordnat och traditionsdrivet samhälle. Deras slott ligger i ett frodigt område kring Guardstone.',
     ru: 'Орда Vanguard ищет традиции, структуру и порядок в обществе. Их крепость может быть найдена в пышной зеленой зоне около Guardstone.',
     es: 'Los valores del Vanguard son la tradición, la estructura y el orden de sociedad. Su Castillo se halla en el bosque exuberante de Guardstone.',
-    hi: 'The VANGUD horde seeks tradition, structure and order in society. Their castle can be found in a lush green area around GUARDSTKND.',
     hi: 'Vanguard गिरोह समाज में परंपरा, संरचना और व्यवस्था चाहता है।  उनका महल Guardstonr के आसपास हरे-भरे क्षेत्र में पाया जा सकता है।'
     de: 'Die Vanguard Horde sucht Tradition, Struktur und Ordnung in der Gesellschaft. Ihre Burg befindet sich in einer üppigen grünen Umgebung rund um Guardstone.',
     fr: 'La faction des Vanguard respecte la tradition, la structure et l\'ordre dans la société. Leur palais se trouve dans une zone verdoyante autour de Guardstone.',
@@ -21,7 +20,7 @@ export default {
     tl: 'Ang Vanguard horde ay naglalayong istraktura ng istraktura at kaayusan sa lipunan. Ang kanilang Castle ay makikita sa luntiang luntiang lugar sa paligid ng Guardstone.',
     pl: 'Horda Vanguard poszukuje tradycji, struktury i porządku w społeczeństwie.  Ich zamek można znaleźć w bujnej zieleni wokół Guardstone.',
     el: 'Η ορδή της Vanguard αναζητά την παράδοση, τη δομή και την τάξη στην κοινωνία.  Το κάστρο τους βρίσκεται σε μια καταπράσινη περιοχή γύρω από το Guardstone.',
-    bg: 'Ордата на Vanguard търси традиция и ред в обществото. Замъкът им може да се намери в буйната зелена зона около Гардстоун.',
+    bg: 'Ордата на Vanguard търси традиция и ред в обществото. Замъкът им може да се намери в буйната зелена зона около Guardstone.',
     cs: 'Vanguard horda hledá tradici, strukturu a pořádek ve společnosti. Jejich hrad se nachází v bujné zelené oblasti kolem Guardstone.',
     ja: 'Vanguardの大群は、社会における伝統、構造、そして秩序を求めています。 彼らの城はGuardstone周辺の緑豊かな地域にあります。',
     ro: 'Facțiunea Vanguard caută tradiția, structura și ordinea în societate. Castelul lor poate fi găsit într-o zonă verde luxuriantă din jurul Guardstone.'
