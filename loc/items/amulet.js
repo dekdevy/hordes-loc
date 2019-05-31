@@ -194,7 +194,7 @@ export default [
       pt: 'Peças torcidas da enorme árvore do mundo, Yggdrasil, foram transformadas em amuletos do tipo mais sagrado. A seiva escorre do amuleto e é absorvida pelo corpo para proteção extra.',
       nl: 'Gedraaide stukken van de enorme World Tree, Yggdrasil, werden tot amuletten van de heiligste soort gemaakt. Sap sijpelt uit het amulet en wordt door het lichaam geabsorbeerd voor extra bescherming',
       pl: 'Skręcone kawałki ogromnego World Tree, Yggdrasil, zostały zrobione w amulety najświętszego rodzaju. Sok wydostaje się z amuletu i jest wchłaniany przez ciało dla dodatkowej ochrony.',
-      da: 'Twisted stykker af det enorme World Tree, Yggdrasil, blev lavet til amuletter af den mest hellige art.  Sap suger ud af amuleten og absorberes af kroppen for ekstra beskyttelse. ''
+      da: 'Twisted stykker af det enorme World Tree, Yggdrasil, blev lavet til amuletter af den mest hellige art. Sap suger ud af amuleten og absorberes af kroppen for ekstra beskyttelse.'
     }
   },
 
