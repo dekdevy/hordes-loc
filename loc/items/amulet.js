@@ -193,7 +193,8 @@ export default [
       es: 'Piezas retorcidas del enorme Árbol del Mundo, Yggdrasil, fueron convertidas en amuletos del tipo más sagrado. La savia se filtra fuera del amuleto y es absorbida por el cuerpo para mayor protección.',
       pt: 'Peças torcidas da enorme árvore do mundo, Yggdrasil, foram transformadas em amuletos do tipo mais sagrado. A seiva escorre do amuleto e é absorvida pelo corpo para proteção extra.',
       nl: 'Gedraaide stukken van de enorme World Tree, Yggdrasil, werden tot amuletten van de heiligste soort gemaakt. Sap sijpelt uit het amulet en wordt door het lichaam geabsorbeerd voor extra bescherming',
-      pl: 'Skręcone kawałki ogromnego World Tree, Yggdrasil, zostały zrobione w amulety najświętszego rodzaju. Sok wydostaje się z amuletu i jest wchłaniany przez ciało dla dodatkowej ochrony.'
+      pl: 'Skręcone kawałki ogromnego World Tree, Yggdrasil, zostały zrobione w amulety najświętszego rodzaju. Sok wydostaje się z amuletu i jest wchłaniany przez ciało dla dodatkowej ochrony.',
+      da: 'Twisted stykker af det enorme World Tree, Yggdrasil, blev lavet til amuletter af den mest hellige art.  Sap suger ud af amuleten og absorberes af kroppen for ekstra beskyttelse. ''
     }
   },
 
@@ -208,7 +209,8 @@ export default [
       es: 'Este amuleto contiene la magia del dragón mayor que se le otorgó a los dragones jóvenes; estos amuletos les dieron a los dragones jóvenes una mejor oportunidad de sobrevivir hasta la adolescencia. Una vez que los jóvenes dragones se hicieron viejos y lo suficientemente grandes para sobrevivir por sí mismos, la cadena se rompió y el amuleto se perdió.',
       pt: 'Esse amuleto contém magia de dragão mais velho, que foi outorgada aos jovens dragões; esses amuletos deram aos jovens dragões uma chance maior de sobrevivência na adolescência. Uma vez que os jovens dragões tornaram-se velhos e grandes o suficiente para sobreviver por si próprios, a corrente rompeu-se e o amuleto perdeu-se.',
       nl: 'Dit amulet bevat oudere drakenmagie die aan jonge draken werd geschonken; deze amuletten gaven jonge draken een betere kans om tot in hun puberteit te overleven. Toen de jonge draken oud en groot genoeg waren om in hun eentje te overleven, brak de ketting en ging het amulet verloren.',
-      pl: 'Ten amulet zawiera starszą magię smoka, którą obdarzono młode smoki; te amulety dały młodym smokom większe szanse na przetrwanie w okresie dojrzewania. Kiedy młode smoki osiągnęły wiek i rozmiary wystarczające do przetrwania na własną rękę, łańcuch zerwał się i amulet został utracony.'
+      pl: 'Ten amulet zawiera starszą magię smoka, którą obdarzono młode smoki; te amulety dały młodym smokom większe szanse na przetrwanie w okresie dojrzewania. Kiedy młode smoki osiągnęły wiek i rozmiary wystarczające do przetrwania na własną rękę, łańcuch zerwał się i amulet został utracony.',
+      da: 'Denne amulet indeholder ældre dragon magi, der blev givet til unge drager;  disse amuletter gav unge drager en bedre chance for overlevelse i ungdomsårene.  Når de unge drager blev gamle og store nok til at overleve på egen hånd, brød kæden og amuletten gik tabt.'
     }
   },
 
