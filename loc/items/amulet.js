@@ -210,7 +210,15 @@ export default [
       pt: 'Este amuleto tem um estranho conjunto de discos sobrepostos que aproveitam as energias naturais e amplificam a protecção natural do utilizador. Muitos usuários de magia se esforçam para aprender os segredos destes amuletos para que eles possam ser reproduzidos.',
       nl: 'Dit amulet heeft een vreemde set van overlappende schijven die natuurlijke energieën aanspreken en de natuurlijke bescherming van de drager versterken. Veel magische gebruikers streven ernaar om de geheimen van deze amuletten te leren kennen, zodat ze kunnen worden gereproduceerd.',
       pl: 'Ten amulet ma dziwny zestaw nakładających się na siebie krążków, które wpasowują się w naturalne energie i wzmacniają naturalną ochronę użytkownika. Wielu magicznych użytkowników stara się poznać sekrety tych amuletów, aby można je było odtworzyć.',
-      da: 'Denne amulet har et mærkeligt sæt af overlappende diske, der knækker i naturlige energier og forstærker bærers naturlige beskyttelse.  Mange magiske brugere forsøger at lære hemmelighederne af disse amuletter, så de kan gengives.'
+      da: 'Denne amulet har et mærkeligt sæt af overlappende diske, der knækker i naturlige energier og forstærker bærers naturlige beskyttelse.  Mange magiske brugere forsøger at lære hemmelighederne af disse amuletter, så de kan gengives.',
+      tl: 'Ang anting-anting na ito ay may isang kakaibang hanay ng mga magkakapatong na disc na taps sa likas na energies at amplifies ang natural na proteksyon ng tagapagsuot. Maraming mga gumagamit ng magic na nagsisikap na matutunan ang mga lihim ng mga amulet na ito upang maipakilala sila.',
+      bg: 'Този амулет има странен набор от припокриващи се дискове, които се включват в естествените енергии и усилват естествената защита на ползвателя. Много магически потребители се стремят да научат тайните на тези амулети, така че да могат да бъдат възпроизведени.',
+      el: 'Αυτό το φυλαχτό έχει ένα περίεργο σύνολο επικαλυπτόμενων δίσκων που βυθίζει τις φυσικές ενέργειες και ενισχύει τη φυσική προστασία του χρήστη. Πολλοί μαγικοί χρήστες προσπαθούν να μάθουν τα μυστικά αυτών των φυλαχτών έτσι ώστε να μπορούν να αναπαραχθούν.',
+      cs: 'Tento amulet má podivnou sadu překrývajících se disků, které se dostávají do přirozených energií a zesilují přirozenou ochranu nositele. Mnoho uživatelů kouzel se snaží naučit tajemství těchto amuletů tak, aby mohly být reprodukovány.',
+      ja: 'このお守りは、自然なエネルギーを活用し、着用者の自然な保護を増幅する奇妙な重なり合うディスクのセットを持っています。多くの魔法の使用者はそれらが再生されることができるようにこれらのお守りの秘密を学ぶことに努めます。',
+      ht: 'Sa a Hamlet gen yon seri etranj nan sipèpoze disk ki wobinè nan enèji natirèl ak anplifye pwoteksyon natirèl la nan utilisateurs la. Anpil itilizatè majik fè efò yo aprann sekrè yo nan Hamlet sa yo pou ke yo ka repwodwi.',
+      sv: 'Denna amulett har en konstig uppsättning överlappande skivor som kranar i naturliga energier och förstärker bärarens naturliga skydd. Många magiska användare strävar efter att lära sig dessa amulets hemligheter så att de kan reproduceras.',
+      ko: '이 부적은 자연 에너지를 활용하고 착용자의 자연 보호를 증폭시키는 이상한 세트의 중복 디스크를 가지고 있습니다. 많은 마술 사용자는이 부적의 비밀을 배우기 위해 노력합니다.'
     }
   },
 
