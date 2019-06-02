@@ -20,7 +20,8 @@ export default {
     bg: 'Добре',
     el: 'εντάξει',
     tl: 'Sige',
-    ro: 'Okay'
+    ro: 'Okay',
+    da: 'Okay'
   },
 
   back: {
@@ -43,7 +44,8 @@ export default {
     bg: 'Oбратно',
     el: 'Πίσω',
     tl: 'Bumalik',
-    ro: 'Înapoi'
+    ro: 'Înapoi',
+    da: 'Tilbage'
   },
 
   accept: {
@@ -66,7 +68,8 @@ export default {
     bg: 'Приемам',
     el: 'Αποδέχομαι',
     tl: 'Tanggapin',
-    ro: 'Acceptă'
+    ro: 'Acceptă',
+    da: 'Acceptere'
   },
 
   cancel: {
@@ -88,7 +91,8 @@ export default {
     ko: '취소',
     ja: 'キャンセル',
     hi: 'कैंसल',
-    sv: 'Annullera'
+    sv: 'Annullera',
+    da: 'Afbestille'
   },
 
   decline: {
@@ -99,7 +103,7 @@ export default {
     fr: 'Déclin',
     de: 'Ablehnen',
     es: 'Rechazar',
-    nl: 'Afwijzen',
+    nl: 'Afwijzen',. 
     tr: 'Düşüş',
     pt: 'Declínio',
     pl: 'Upadek',
@@ -111,7 +115,8 @@ export default {
     bg: 'Отказвам',
     el: 'Πτώση',
     tl: 'Tanggihan',
-    ro: 'Refuză'
+    ro: 'Refuză',
+    da: 'Nedgang'
   },
 
   close: {
@@ -134,6 +139,7 @@ export default {
     bg: 'Затвори',
     el: 'Κοντά',
     tl: 'Isara',
-    ro: 'Închide'
+    ro: 'Închide',
+    da: 'Luk'
   }
 }
