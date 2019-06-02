@@ -21,7 +21,7 @@ export default [
       sv: 'Skinnband av läder som täcker dina svaga händer. Att dra på bågstången är mycket lättare för dig nu.',
       ko: '너의 미약 한 손을 감싸는 가죽 끈. 지금은 귀걸이를 당기는 것이 훨씬 쉽습니다.',
       ro: 'Curele de piele ce-ți acoperă mâinile slabe. Este mult mai ușor pentru tine acum să tragi de arc.',
-      tl: 'Mga strap ng katad na sumasaklaw sa iyong mga mahihinang kamay. Mas madali para sa iyo ang paghila ng bowstring ngayon.'
+      tl: 'Mga strap ng katad na sumasaklaw sa iyong mga mahihinang kamay. Mas madali para sa iyo ang paghila ng busog na string ngayon.'
     }
   },
 
