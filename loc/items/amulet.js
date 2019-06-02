@@ -234,7 +234,15 @@ export default [
       pt: 'Fios de metal tecem uns com os outros, produzindo arcos elétricos e dando a aparência de um amuleto vivo. Os estudiosos especulam que esses amuletos vieram de um reino que desapareceu, mas ninguém parece certo.',
       nl: 'Metalen strengen weven in en uit elkaar, waardoor elektrische bogen ontstaan en het uiterlijk van een levend amulet ontstaat. Geleerden speculeren dat deze amuletten afkomstig zijn uit een verdwenen rijk, maar niemand lijkt er zeker van te zijn.',
       pl: 'Metalowe pasma wplatają się w siebie i z siebie, tworząc łuki elektryczne i nadając wygląd żywego amuletu. Uczeni spekulują, że te amulety pochodziły z królestwa, które zniknęło, ale nikt nie wydaje się pewien.',
-      da: 'Metal tråde væv ind og ud af hinanden, der producerer elektriske buer og giver udseendet af en levende amulet.  Forskere spekulerer på, at disse amuletter kom fra et rige, der forsvandt, men ingen synes sikkert.'
+      da: 'Metal tråde væv ind og ud af hinanden, der producerer elektriske buer og giver udseendet af en levende amulet.  Forskere spekulerer på, at disse amuletter kom fra et rige, der forsvandt, men ingen synes sikkert.',
+      tl: 'Ang mga hibla ng metal ay humahabi sa bawat isa, na gumagawa ng mga electric arc at nagbibigay ng hitsura ng isang buhay na anting-anting. Inakala ng mga iskolar na ang mga amulet na ito ay nagmula sa isang lupain na nawala, ngunit walang sinuman ang tiyak.',
+      bg: 'Металните нишки се тъкат и излизат един от друг, произвеждайки електрически дъги и придаващи външен вид на жив амулет. Учените предполагат, че тези амулети са дошли от област, която е изчезнала, но никой не е сигурен.',
+      el: 'Μεταλλικά σκέλη υφαίνουν μέσα και έξω από το ένα το άλλο, παράγουν ηλεκτρικά τόξα και δίνουν την εμφάνιση μιας ζωντανής φυλακτό. Οι μελετητές υποθέτουν ότι αυτά τα φυλαχτά προέρχονται από έναν τομέα που εξαφανίστηκε, αλλά κανείς δεν φαίνεται σίγουρος.',
+      cs: 'Kovové prameny se navzájem spojují a vytvářejí elektrické oblouky a dávají vzhled živého amuletu. Učenci spekulují, že tyto amulety pocházely z oblasti, která zmizela, ale nikdo se nezdá být jistý.',
+      ja: '金属の撚り糸が互いに出入りして織り合い、電気アークを発生させ、生きているお守りのように見えます。学者たちは、これらのお守りは消えた領域から来たと推測していますが、誰も確信していないようです。',
+      ht: 'Fil metal yo mare nan ak soti nan chak lòt, pwodwi ark elektrik ak bay aparans nan yon Hamlet vivan. Scholars espekile ke sa yo Hamlet te soti nan yon domèn ki disparèt, men pesonn pa sanble asire w.',
+      sv: 'Metallfibrer väver in och ut ur varandra, producerar bågar och ger utseendet av en levande amulett. Forskare spekulerar på att dessa amuletter kom från en rike som försvann, men ingen verkar säker.',
+      ko: '금속 가닥은 전기 아크를 생성하고 살아있는 부적을 드러내면서 서로 끼우거나 엮습니다. 학자들은이 부적들이 사라진 영역에서 왔다고 추측하지만 아무도 확신하지 못합니다.'
     }
   },
 
