@@ -1,26 +1,27 @@
 export default {
 
   name: {
-    en: 'inventory',
-    ru: 'инвентарь',
+    en: 'Inventory',
+    ru: 'Инвентарь',
     hi: 'वस्तुसूची',
-    es: 'inventario',
+    es: 'Inventario',
     de: 'Inventar',
-    fr: 'inventaire',
-    nl: 'inventaris',
-    pt: 'inventário',
-    tr: 'enventer',
-    it: 'inventario',
+    fr: 'Inventaire',
+    nl: 'Inventaris',
+    pt: 'Inventário',
+    tr: 'Enventer',
+    it: 'Inventario',
     pl: 'Inwentarz',
-    bg: 'инвентар',
-    cs: 'inventář',
-    el: 'αποθήκη',
+    bg: 'Инвентар',
+    cs: 'Inventář',
+    el: 'Αποθήκευση',
     ja: '在庫',
-    tl: 'imbentaryo',
-    ht: 'envantè',
+    tl: 'Imbentaryo',
+    ht: 'Envantè',
     ko: '목록',
-    sv: 'inventarium',
-    ro: 'inventar'
+    sv: 'Inventarium',
+    ro: 'inventar',
+    da: 'Opbevaring'
   },
 
   pick: {
@@ -42,7 +43,8 @@ export default {
     tl: 'Kinuha mo na $1',
     ht: 'Ou ranmase $1',
     ko: '당신은 $1 를 선택했습니다',
-    sv: 'Du har plockat upp $1'
+    sv: 'Du har plockat upp $1',
+    da: 'Du har hentet $1'
   },
 
   throw: {
@@ -65,7 +67,8 @@ export default {
     el: 'Πέσατε $1',
     bg: 'Изхвърлихте $1',
     cs: 'Odhodil jsi $1',
-    ja: 'あなたは捨てました$1'
+    ja: 'あなたは捨てました $1',
+    da: 'Du smed $1 væk'
   },
 
   full: {
@@ -87,7 +90,8 @@ export default {
     tl: 'Ang iyong imbentaryo ay puno',
     ht: 'Envantè ou plen',
     ko: '인벤토리가 가득 찼습니다',
-    sv: 'Din inventering är full'
+    sv: 'Din inventering är full',
+    da: 'Dit lager er fuldt'
   },
 
   sell: { // TODO: these are likely broken in many places
@@ -109,7 +113,8 @@ export default {
     tl: 'Binebenta mo na $1',
     ht: 'Ou te vann $1',
     ko: '$1 에',
-    sv: 'Du har sålt $1'
+    sv: 'Du har sålt $1',
+    da: 'Du har solgt $1'
   },
 
   receive: {
@@ -122,7 +127,9 @@ export default {
     pt: 'Você recebeu $1',
     es: 'Usted ha recibido $1',
     it: 'Hai ricevuto $1',
-    hi: 'आपको $1 प्राप्त हुआ है'
+    hi: 'आपको $1 प्राप्त हुआ है',
+    da: 'Du har modtaget $1',
+    sv: 'Du har fått $1'
   },
 
   drop: {
@@ -137,7 +144,7 @@ export default {
     tr: 'Öğe bırak',
     it: 'Elemento di goccia',
     pl: 'Pozycja zrzutowa',
-    bg: 'Пуснете елемент',
+    bg: 'Пуснете придмет',
     cs: 'Položka Drop',
     el: 'Βάλτε στοιχείο',
     ja: 'ドロップアイテム',
@@ -145,7 +152,8 @@ export default {
     ht: 'Drop atik la',
     ko: '아이템 놓기',
     sv: 'Släpp objektet',
-    ro: 'Aruncă obiectul'
+    ro: 'Aruncă obiectul',
+    da: 'Slet objektet'
   },
 
   equip: {
@@ -153,7 +161,18 @@ export default {
     ru: 'Надеть предмет',
     hi: 'वस्तु पहन लें',
     es: 'Equipar objeto',
-    pt: 'Equipar item'
+    pt: 'Equipar item',
+    pl: 'Wyposaż obiekt',
+    it: 'Equipaggiare l\'oggetto',
+    el: 'Εξοπλισμός αντικειμένου',
+    bg: 'Оборудвайте придмет',
+    cs: 'Vybavit položku',
+    tl: 'Magbigay ng item',
+    ht: 'Ekip atik la',
+    ja: '装備アイテム',
+    ko: '장비 아이템',
+    sv: 'Utrusta föremål',
+    da: 'Udstyr genstand'
   },
 
   use: {
@@ -176,7 +195,8 @@ export default {
     el: 'Χρησιμοποιήστε το στοιχείο',
     bg: 'Използвайте придмет',
     cs: 'Použijte přidmet',
-    ja: 'アイテムを使う'
+    ja: 'アイテムを使う',
+    da: 'Brug genstand'
   },
 
   spend: {
@@ -199,7 +219,7 @@ export default {
     bg: 'Прекарали сте $1 монети',
     cs: 'Strávili jste $1 mincí',
     ja: 'あなたは $1 コインを使った',
-    ro: 'Ai cheltuit $1 de monede'
+    ro: 'Ai cheltuit $1 de monede',
+    da: 'Du har brugt $1 mønter'
   }
-
 }
