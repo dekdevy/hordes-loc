@@ -330,7 +330,15 @@ export default [
       pt: 'Este amuleto contém uma jóia da coroa usada por um rei famoso. As bordas deste amuleto são impiedosamente afiadas e parcialmente manchadas com uma substância misteriosa.',
       nl: 'Dit amulet bevat een juweel uit de kroon van een beroemde koning. De randen van dit amulet zijn genadeloos scherp en deels besmeurd met een mysterieuze substantie.',
       pl: 'Ten amulet zawiera klejnot z korony noszonej przez słynnego króla. Krawędzie tego amuletu są bezwzględnie ostre i częściowo rozmazane tajemniczą substancją.',
-      da: 'Denne amulet indeholder en perle fra kronen båret af en berømt konge.  Kanterne af denne amulet er hensynsløst skarpe og delvist smurt med et mystisk stof.'
+      da: 'Denne amulet indeholder en perle fra kronen båret af en berømt konge. Kanterne af denne amulet er hensynsløst skarpe og delvist smurt med et mystisk stof.',
+      tl: 'Ang anting-anting na ito ay naglalaman ng isang perlas mula sa korona na isinusuot ng isang sikat na hari. Ang mga gilid ng anting-anting na ito ay walang kapararakan at bahagyang na-smear na may mahiwagang sangkap.',
+      bg: 'Този амулет съдържа скъпоценен камък от короната, носен от известен крал. Ръбовете на този амулет са безмилостно остри и частично намазани с мистериозна субстанция.',
+      el: 'Αυτό το φυλακτό περιέχει ένα στολίδι από το στέμμα που φορούσε ένας διάσημος βασιλιάς. Οι άκρες αυτού του φυλακτή είναι αμείλικτα αιχμηρές και μερικώς λερωμένες με μια μυστηριώδη ουσία.',
+      cs: 'Tento amulet obsahuje klenot z koruny, kterou nosí slavný král. Okraje tohoto amuletu jsou nemilosrdně ostré a částečně rozmazané tajemnou látkou.',
+      ja: 'このお守りには、有名な王が着ている王冠の宝石が含まれています。このお守りの縁は容赦なくシャープで、不思議な物質で部分的に塗りつぶされています。',
+      ht: 'Sa a Hamlet gen yon GEM soti nan kouwòn lan chire pa yon wa pi popilè. Bor yo nan Hamlet sa a yo pitye byen file ak pasyèlman andwi ak yon sibstans ki sou misterye.',
+      sv: 'Denna amulett innehåller en pärla från kronan som bärs av en berömd kung. Kanterna på denna amulett är hänsynslöst skarpa och delvis utsmyckade med en mystisk substans.',
+      ko: '이 부적에는 유명한 왕이 착용 한 왕관의 보석이 들어 있습니다. 이 부적의 가장자리는 무자비하게 날카 롭고 부분적으로 신비한 물질로 얼룩 져 있습니다.'
     }
   },
 
