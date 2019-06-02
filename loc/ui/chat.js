@@ -19,7 +19,8 @@ export default {
     bg: 'Шепни',
     el: 'Ψίθυρος',
     tl: 'Bulong',
-    ro: 'Șoaptă'
+    ro: 'Șoaptă',
+    da: 'Hvisk'
   },
 
   types: [ // dont translate until beta testing
