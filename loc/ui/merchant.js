@@ -197,7 +197,8 @@ export default {
     bg: 'Публикували сте $1 за продажба',
     cs: 'Zveřejnili jste $1 na prodej',
     ja: 'あなたは販売のために $1 を投稿しました',
-    ro: 'Ai postat $1 pentru vânzare'
+    ro: 'Ai postat $1 pentru vânzare',
+    da: 'Du har indsendt $1 til salg'
   },
 
   auctioncancel: {
@@ -218,7 +219,8 @@ export default {
     ko: '상장 폐지 된 물품',
     ja: '上場廃止されたアイテム',
     ro: 'Obiect delistat și pus la păstrare',
-    hi: 'वस्तु को बाज़ार से हटाकर आपके स्टैश में भेज दिया गया है'
+    hi: 'वस्तु को बाज़ार से हटाकर आपके स्टैश में भेज दिया गया है',
+    da: 'Genstand afnoteret og sendt til stash'
   },
 
   auctionbuy: {
@@ -240,7 +242,8 @@ export default {
     ja: '$1 枚のコインで購入し、あなたの隠し場所に送られるアイテム',
     ko: '$1 동전으로 구입하여 은닉 한 물품',
     ro: 'Obiect cumpărat pentru $1 monede și trimis în inventarul tău',
-    hi: 'अपने $1 सिक्कों में वस्तु खरीद ली है और उसे आपके स्टैश में भेज दिया गया है'
+    hi: 'अपने $1 सिक्कों में वस्तु खरीद ली है और उसे आपके स्टैश में भेज दिया गया है',
+    da: 'Vare købt til $1 mønter og sendt til din stash'
   },
 
   sell: {
