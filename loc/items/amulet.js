@@ -258,7 +258,15 @@ export default [
       pt: 'Os reis antigos tinham símbolos ankh poderosos feitos para os proteger na vida após a morte. Ladrões de sepulturas roubaram muitos desses amuletos e os venderam para pessoas e monstros. Cada ankh tem um brilho estranho que desmente o seu verdadeiro poder.',
       nl: 'Oude koningen lieten krachtige ankh-symbolen maken om hen te beschermen in het hiernamaals. Gravenrovers hebben veel van deze amuletten gestolen en verkocht aan zowel mensen als monsters. Elke ankh heeft een griezelige gloed die zijn ware kracht verloochent.',
       pl: 'Starożytni królowie mieli potężne symbole ankh, które miały chronić ich w życiu pozagrobowym. Rabusie grobów ukradli wiele z tych amuletów i sprzedali je zarówno ludziom, jak i potworom. Każdy ankh ma niesamowitą poświatę, która zaprzecza jego prawdziwej mocy.',
-      da: 'Gamle konger havde stærke ankh symboler til at beskytte dem i efterlivet.  Grave røvere har stjålet mange af disse amuletter og solgt dem til både mennesker og monstre.  Hver ankh har en uhyggelig glød, der belyser sin sande magt.'
+      da: 'Gamle konger havde stærke ankh symboler til at beskytte dem i efterlivet. Grave røvere har stjålet mange af disse amuletter og solgt dem til både mennesker og monstre.  Hver ankh har en uhyggelig glød, der belyser sin sande magt.',
+      tl: 'Ang sinaunang mga hari ay may malakas na simbolo ng ank upang protektahan sila sa kabilang buhay. Ang mga magnanakaw sa libingan ay ninakaw ang marami sa mga amulet na ito at ibinebenta ito sa parehong mga tao at monsters. Ang bawat ankh ay may isang nakapangingilabot na glow na tumanggi sa totoong kapangyarihan nito.',
+      bg: 'Древните царе имали мощни символи на анк, направени, за да ги защитят в задгробния живот. Гробните разбойници са откраднали много от тези амулети и са ги продали на хора и чудовища. Всеки анкх има зловещ блясък, който нарушава истинската му сила.',
+      el: 'Οι αρχαίοι βασιλιάδες είχαν ισχυρά σύμβολα ankh που φτιάχτηκαν για να τα προστατεύσουν στη μετά θάνατον ζωή. Οι τάφοι ληστές έχουν κλέψει πολλά από αυτά τα φυλαχτά και τα έχουν πουλήσει τόσο σε ανθρώπους όσο και σε τέρατα. Κάθε ankh έχει μια μυστηριώδη λάμψη που αμαυρώνει την πραγματική του δύναμη.',
+      cs: 'Starověcí králové měli silné ankh symboly, aby je ochránili v posmrtném životě. Hroboví lupiči ukradli mnoho z těchto amuletů a prodali je lidem i příšerám. Každý ankh má děsivý záře, která je v rozporu s jeho skutečnou silou.',
+      ja: '古代の王は、来世で彼らを守るために作られた強力なアンクのシンボルを持っていました。墓の強盗はこれらのお守りの多くを盗んで、それらを人々とモンスターの両方に売った。それぞれの足首には、その真の力を裏切る不気味な輝きがあります。',
+      ht: 'Wa ansyen te gen ankh senbòl pwisan fè pwoteje yo nan dla a. Vòlè grav yo te vòlè anpil nan Hamlet sa yo ak vann yo bay tou de moun ak monstr. Chak ankh gen yon lumière etranj ki belies pouvwa vre li yo.',
+      sv: 'Forntida kungar hade kraftfulla ankh symboler gjorda för att skydda dem i efterlivet. Grav rånare har stulit många av dessa amuletter och sålt dem till både människor och monster. Varje ankh har en kuslig glöd som belyser sin sanna kraft.',
+      ko: '고대 왕은 내세에서 그들을 보호하기 위해 강력한 상징을 만들었습니다. 무덤 도둑들은이 부적을 많이 훔쳐서 사람들과 괴물 모두에게 팔았습니다. 각 ankh에는 그것의 진실한 힘을 속이는 섬뜩한 놀이있다.'
     }
   },
 
