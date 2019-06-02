@@ -162,7 +162,15 @@ export default [
       pt: 'Estranhos fragmentos extraídos das montanhas foram realçados por místicos e formados em amuletos, a fim de proporcionar proteção e causar medo.',
       nl: 'Vreemde scherven uit de bergen werden versterkt door mystici en gevormd tot amuletten om bescherming te bieden en angst te zaaien.',
       pl: 'Dziwne odłamki wydobyte z gór zostały wzmocnione przez mistyków i uformowane w amulety, aby zapewnić ochronę i wywołać strach.',
-      da: 'Mærkelige skærder udvindes fra bjergene blev forstærket af mystikere og dannet til amuletter for at give beskyttelse og forårsage frygt.'
+      da: 'Mærkelige skærder udvindes fra bjergene blev forstærket af mystikere og dannet til amuletter for at give beskyttelse og forårsage frygt.',
+      tl: 'Ang mga kakaibang shard na nakuha mula sa mga bundok ay pinahusay ng mga mystics at nabuo sa mga amulet upang magbigay ng proteksyon at maging sanhi ng takot.',
+      bg: 'Странни парчета, добити от планините, бяха подсилени от мистици и оформени в амулети, за да осигурят защита и да предизвикат страх.',
+      el: 'Τα παράξενα θραύσματα που εξορύσσονται από τα βουνά ενισχύθηκαν από τους μυστικιστές και σχηματίστηκαν σε φυλαχτά για να παράσχουν προστασία και να προκαλέσουν φόβο.',
+      cs: 'Podivné střepy těžené z hor byly umocněny mystiky a formovány do amuletů, aby poskytly ochranu a způsobily strach.',
+      ja: '山から採掘された奇妙な破片は神秘主義によって強化され、保護を提供し、恐れを引き起こすためにお守りに形作られました。',
+      ht: 'Dekorasyon etranj mine soti nan mòn yo te ranfòse pa mistik ak fòme nan Hamlet yo nan lòd yo bay pwoteksyon ak kòz pè.',
+      sv: 'Många sköldar som minas från bergen förhöjdes av mystiker och formades till amuletter för att ge skydd och orsaka rädsla.',
+      ko: '산에서 채광 한 이상한 조각들은 보호를 제공하고 두려움을 유발하기 위해 신비 주의자들에 의해 강화되어 부적으로 형성되었습니다.'
     }
   },
 
