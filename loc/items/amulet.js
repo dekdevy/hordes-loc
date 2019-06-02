@@ -38,7 +38,16 @@ export default [
       pt: 'Colares para manter os lobos na servidão são feitos de um couro grosso. Alguns deles ainda têm elos de cadeia conectados, mas todos os colares de lobos são robustos. Alguns colares estão imbuídos de proteção espiritual.',
       nl: 'Kragen om wolven in slavernij te houden zijn gemaakt van dik leer. Sommige hebben nog steeds kettingschakels, maar alle wolvenkragen zijn stevig. Sommige kragen zijn doordrenkt met spirituele bescherming.',
       pl: 'Obroże do trzymania wilków w niewoli wykonane są z grubej skóry. Niektóre z nich mają jeszcze ogniwa łańcucha połączone, ale wszystkie obroże wilków są wytrzymałe. Niektóre obroże są przesiąknięte ochroną duchową.',
-      da: 'Kraver til at holde ulve i servitude er lavet af et tykt læder.  Nogle af dem har stadig kædeforbindelser tilsluttet, men alle ulve kraver er robuste.  Nogle krave er gennemsyret af åndelig beskyttelse.'
+      da: 'Kraver til at holde ulve i servitude er lavet af et tykt læder.  Nogle af dem har stadig kædeforbindelser tilsluttet, men alle ulve kraver er robuste.  Nogle krave er gennemsyret af åndelig beskyttelse.',
+      hi: 'भेड़ियों को सेवाभाव में रखने के लिए खंभे एक मोटे चमड़े से बनाए जाते हैं। उनमें से कुछ में अभी भी चेन लिंक जुड़े हुए हैं, लेकिन सभी भेड़िया कॉलर मजबूत हैं। कुछ कॉलर आध्यात्मिक संरक्षण से जुड़े हैं।',
+      tl: 'Ang mga kuwintas upang panatilihin ang mga wolves sa pagkaalipin ay ginawa mula sa isang makapal na katad. Ang ilan sa kanila ay mayroon pa ring mga chain link na nakakonekta, ngunit ang lahat ng lobo collars ay matibay. Ang ilang mga collars ay puno ng espirituwal na proteksyon.',
+      bg: 'Нашийници, които държат вълци в робство, са изработени от дебела кожа. Някои от тях все още имат свързани вериги, но всички вълчани яки са здрави. Някои яки са пропити с духовна защита.',
+      el: 'Τα περιλαίμια για να κρατήσουν τους λύκους σε υποτέλεια είναι κατασκευασμένα από ένα παχύ δέρμα. Μερικοί από αυτούς εξακολουθούν να έχουν συνδέσεις αλυσίδας, αλλά όλα τα περιλαίμια λύκων είναι εύρωστα. Ορισμένα περιλαίμια είναι εμποτισμένα με πνευματική προστασία.',
+      cs: 'Obojky k udržení vlků v otroctví jsou vyrobeny z tlusté kůže. Některé z nich jsou stále spojeny řetězy, ale všechny vlčí límce jsou pevné. Některé obojky jsou naplněny duchovní ochranou.',
+      ja: 'オオカミを奴隷状態に保つためのつばは、厚い革で作られています。それらの中にはまだチェーンリンクが接続されているものもありますが、すべてのオオカミ首輪は頑丈です。いくつかの襟は精神的な保護が染み込んでいます。',
+      ht: 'Kolye pou kenbe chen mawon nan esklavaj yo te fè soti nan yon kwi epè. Kèk nan yo toujou gen lyen chèn ki konekte, men tout kolye bèt yo solid. Gen kèk kolye anprint ak pwoteksyon espirityèl.',
+      sv: 'Krage för att hålla vargarna i tjänstgöring är gjorda av ett tjockt läder. Vissa av dem har fortfarande kedjelänkar anslutna, men alla vargkrafter är robusta. Vissa halsband är prydda med andligt skydd.',
+      ko: '늑대를 노예 상태로 유지할 수있는 고리는 두꺼운 가죽으로 만듭니다. 그들 중 일부는 여전히 연결 고리가 연결되어 있지만 모든 늑대 고리는 견고합니다. 일부 고리는 영적 보호를받습니다.'
     }
   },
 
