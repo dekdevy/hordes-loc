@@ -373,7 +373,8 @@ export default [
       cs: 'Zabije tak krásně, jak to vypadá.',
       ja: '見た目と同じくらい美しく殺します。',
       ro: 'Ucide la fel de frumos cum și arată.',
-      ko: '외형만큼 아름답게 적을 죽깁니다.'
+      ko: '외형만큼 아름답게 적을 죽깁니다.',
+      da: ''
     }
   },
 
@@ -399,7 +400,8 @@ export default [
       cs: 'Obklopen hroznou aurou. Vítr fouká ve směru, kterým je zamíříte.',
       ja: 'ひどいオーラに囲まれています。風はあなたがそれを目指す方向に吹きます。',
       ro: 'Este înconjurat de o aură îngrozitoare. Vântul suflă în direcția în care țintești.',
-      ko: '무시 무시한 분위기로 둘러싸여 있습니다. 바람은 당신이 정하는 방향으로 불어납니다.'
+      ko: '무시 무시한 분위기로 둘러싸여 있습니다. 바람은 당신이 정하는 방향으로 불어납니다.',
+      da: 'Omgivet af en forfærdelig aura. Vinden blæser i retningen du målretter mod.'
     }
   },
 
@@ -425,7 +427,8 @@ export default [
       cs: 'Tak děsivé, že jen málokdo má odvahu držet to.',
       ja: 'それを保持するための勇気を持っている人はほとんどいないので怖い。',
       ro: 'Atât de înfricoșător că puțini au curajul să-l țină.',
-      ko: '너무 무섭기 때문에 그것을 잡을 용기가 있는자는 거의 없습니다.'
+      ko: '너무 무섭기 때문에 그것을 잡을 용기가 있는자는 거의 없습니다.',
+      da: 'Så skræmmende, at få har modet til at holde det.'
     }
   },
 
@@ -451,7 +454,8 @@ export default [
       cs: 'Vloženi s prvotním vztekem, vaši nepřátelé se třesou při pohledu na tuto zbraň. Pew je poslední věc, kterou kdy slyší.',
       ja: 'この武器を見てあなたの敵は震え上がります。ピューピューは彼らが今までに聞くことになる最後のものです。',
       ro: 'Cuprins de o furie primordială, dușmanii tăi tremură la vederea acestei arme. Pew pew e ultimul lucru pe care-l vor auzi vreodată.',
-      ko: '원시적 인 분노덕분의, 적들은 이 무기를 보기만해도 겁의질려 떫니다. 이 활을 소는 것이 적들이 마지막으로 듣게될 소리입니다.'
+      ko: '원시적 인 분노덕분의, 적들은 이 무기를 보기만해도 겁의질려 떫니다. 이 활을 소는 것이 적들이 마지막으로 듣게될 소리입니다.',
+      da: 'Embedet med et primært vrede, dine fjender ryster ved synet af dette våben. Pew pew er det sidste, de nogensinde vil høre.'
     }
   }
 
