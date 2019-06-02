@@ -12,7 +12,16 @@ export default [
       pt: 'Os ingredientes queimados foram torcidos e amarrados para formar um amuleto de pouca proteção. Criar amuletos simples como este tem sido uma tática de sobrevivência comum desde tempos antigos.',
       nl: 'Verbrande ingrediënten zijn gedraaid en samengebonden tot een amulet van magere bescherming. Het creëren van eenvoudige amuletten zoals deze is al sinds de oudheid een veel voorkomende overlevingstactiek.',
       pl: 'Spalone składniki zostały skręcone i związane ze sobą, tworząc amulet skromnej ochrony. Tworzenie prostych amuletów, takich jak ten, było powszechną taktyką przetrwania od czasów starożytnych.',
-      da: 'Brændte ingredienser er blevet snoet og bundet sammen for at danne en amulet med beskeden beskyttelse.  Oprettelse af simple amuletter som dette har været en fælles overlevelsestaktik siden oldtiden.'
+      da: 'Brændte ingredienser er blevet snoet og bundet sammen for at danne en amulet med beskeden beskyttelse.  Oprettelse af simple amuletter som dette har været en fælles overlevelsestaktik siden oldtiden.',
+      hi: 'जले हुए अवयवों को एक साथ मिलाया जाता है और उन्हें एक दूसरे से जोड़ा जाता है, जिससे सुरक्षा कवच बनाया जाता है। इस तरह से सरल ताबीज बनाना प्राचीन काल से एक आम अस्तित्व की रणनीति है।',
+      tl: 'Ang mga nasusunog na sangkap ay na-twisted at nakatali upang bumuo ng isang anting-anting ng manipis na proteksyon. Ang paglikha ng simpleng mga anting-anting tulad nito ay naging pangkaraniwang taktika ng kaligtasan mula pa noong sinaunang panahon.',
+      bg: 'Изгорели съставки са изкривени и обвързани, за да образуват амулет от оскъдна защита. Създаването на прости амулети като това е била обща тактика за оцеляване от древни времена.',
+      el: 'Τα καμένα συστατικά έχουν περιστραφεί και δεμένα μεταξύ τους για να σχηματίσουν ένα φυλαχτό απόλυτης προστασίας. Η δημιουργία απλών φυλαχτών όπως αυτή ήταν μια κοινή τακτική επιβίωσης από τους αρχαίους χρόνους.',
+      cs: 'Spálené přísady byly zkrouceny a svázány dohromady, aby vytvořily amulet chudé ochrany. Vytváření jednoduchých amuletů, jako je tento, je běžnou taktikou přežití od starověku.',
+      ja: '燃やされた成分はひねられて、一緒に結ばれて弱い保護のお守りを形成しました。このような単純なお守りを作ることは、古くからの一般的な生存戦略です。',
+      ht: 'Engredyan boule yo te trese ak mare ansanm yo fòme yon Hamlet nan pwoteksyon mèg. Kreye Hamlet senp tankou sa a te yon taktik siviv komen depi tan lontan.',
+      sv: 'Brända ingredienser har vridits och binds ihop för att bilda en amulett av mager skydd. Att skapa enkla amuletter som detta har varit en vanlig överlevnadstaktik sedan antiken.',
+      ko: '타 버린 성분들이 꼬여서 묶여서 약한 보호 장치가되었습니다. 이와 같은 단순한 부적을 만드는 것은 고대부터 일반적인 생존 전술이었습니다.'
     }
   },
 
