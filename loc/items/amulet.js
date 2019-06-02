@@ -90,7 +90,16 @@ export default [
       pt: 'Garras de lobisomem que foram deixadas nos corpos das vítimas foram ungidas com óleos místicos e incutidas com força espiritual através da meditação. Os criadores desses amuletos esperavam que um dia essas proteções espirituais fossem usadas para vingança.',
       nl: 'Angstaanjagende weerwolfklauwen die op de lichamen van de slachtoffers werden achtergelaten, werden gezalfd met mystieke oliën en door middel van meditatie met geestelijke standvastigheid bijgebracht. De makers van deze amuletten hoopten dat deze geestelijke bescherming op een dag gebruikt zou worden voor wraak.',
       pl: 'Straszne wilkołaki, które pozostały na ciałach ofiar, zostały namaszczone mistycznymi olejami i zaszczepione duchowym męstwem poprzez medytację. Twórcy tych amuletów mieli nadzieję, że te duchowe zabezpieczenia zostaną kiedyś wykorzystane do zemsty.',
-      da: 'Frygtelige varulvsklør, der blev efterladt på ofre, blev salvet med mystiske olier og indviet med åndelig styrke gennem meditation.  Skaberne af disse amuletter håbede, at disse åndelige beskyttelser en dag ville blive brugt til hævn.'
+      da: 'Frygtelige varulvsklør, der blev efterladt på ofre, blev salvet med mystiske olier og indviet med åndelig styrke gennem meditation.  Skaberne af disse amuletter håbede, at disse åndelige beskyttelser en dag ville blive brugt til hævn.',
+      hi: 'भयभीत वेयरवोल्फ पंजे जो पीड़ितों के शरीर पर पीछे रह गए थे, उन्हें रहस्यवादी तेलों से अभिषिक्त किया गया था और ध्यान के माध्यम से आध्यात्मिक भाग्य के साथ स्थापित किया गया था। इन ताबीजों के रचनाकारों ने आशा व्यक्त की कि इन आध्यात्मिक सुरक्षाओं का उपयोग एक दिन बदला लेने के लिए किया जाएगा।',
+      tl: 'Ang mga takot na mga claw na lobo na naiwan sa mga bangkay ng mga biktima ay pinahiran ng mga mistiko na langis at sinanay ng espirituwal na tibay sa pamamagitan ng pagmumuni-muni. Inaasahan ng mga tagalikha ng mga amulet na ang mga espirituwal na proteksyon na ito ay isang araw na magagamit para sa paghihiganti.',
+      bg: 'Огромните нокти на върколаци, оставени на телата на жертвите, бяха помазани с мистични масла и внушили духовна сила чрез медитация. Създателите на тези амулети се надяваха, че тези духовни защити един ден ще бъдат използвани за отмъщение.',
+      el: 'Φοβισμένοι νυχτοί νυχτοί που έμειναν πίσω στα σώματα των θυμάτων, χρίστηκαν με μυστικιστικά έλαια και ενσταλάχτηκαν με πνευματική δύναμη μέσω διαλογισμού. Οι δημιουργοί αυτών των φυλαχτών ελπίζουν ότι αυτές οι πνευματικές προστασίες θα χρησιμοποιήθηκαν μια μέρα για εκδίκηση.',
+      cs: 'Hrůzostrašné vlkodlačí drápy, které zůstaly na tělech obětí, byly pomazány mystickými oleji a vštěpovány duchovní pevností meditací. Tvůrci těchto amuletů doufali, že tyto duchovní ochrany budou jednoho dne použity k pomstě.',
+      ja: '犠牲者の体に残された恐ろしい狼の爪は、神秘的な油で油を注がれて、瞑想を通して精神的な強さで点滴されました。これらのお守りのクリエイターは、これらの精神的な保護がいつか復讐のために使われることを望みました。',
+      ht: 'Grif lougawou ki te rete dèyè sou kò moun ki viktim yo te wenn ak lwil mistik e yo te enstale avèk lapenn espirityèl nan meditasyon. Créateur yo nan Hamlet sa yo te espere ke pwoteksyon sa yo espirityèl ta yon sèl jou a dwe itilize pou tire revanj.',
+      sv: 'Fruktansvärda varulvsklor som lämnades på offrens kroppar smorde med mystiska oljor och inleddes med andlig kraft genom meditation. Skaparna av dessa amuletter hoppades att dessa andliga skydd skulle en dag användas för hämnd.',
+      ko: '희생 된 사람들의 몸에 남겨진 두려운 늑대 인간 발톱은 신비한 기름으로 기름을 바르고 명상을 통해 영적 불굴의 정신으로 불타 올랐습니다. 이 부적의 창시자는이 영적 보호가 언젠가 복수로 사용되기를 바랐습니다.'
     }
   },
 
