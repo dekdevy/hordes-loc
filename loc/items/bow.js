@@ -22,7 +22,8 @@ export default [
       bg: 'Почти лек. Вероятно можете да намерите нещо по-добро наоколо.',
       ja: 'ほぼ軽量です。あなたはおそらくもっと良いものを見つけることができるでしょう。',
       ro: 'Ușor ca o pană. Probabil poți găsi ceva mai bun în jur.',
-      ko: '거의 가볍다. 아마도 주위에 더 나은 것을 찾을 수 있습니다.'
+      ko: '거의 가볍다. 아마도 주위에 더 나은 것을 찾을 수 있습니다.',
+      da: 'Næsten letvægt. Du kan sikkert finde noget bedre rundt.'
     }
   },
 
@@ -48,7 +49,8 @@ export default [
       bg: 'Чувствате се по-малко квалифицирани само ако държите това в ръцете си.',
       ja: 'これを手に持つだけでは、上手くいけないと感じます。',
       ro: 'Te simți mai puțin experimentat doar ținând acesta în mâinile tale.',
-      ko: '이것을 손에 쥐기만해도 실력이 주는 겄갓습니다.'
+      ko: '이것을 손에 쥐기만해도 실력이 주는 겄갓습니다.',
+      da: 'Du føler dig mindre dygtige bare ved at holde dette i dine hænder.'
     }
   },
 
@@ -74,7 +76,8 @@ export default [
       tr: 'Bu yay, muhtemelen herhangi bir anda kopacak şekilde kavislenir.',
       cs: 'Tento luk je zakřivený do takové míry, že se v každém okamžiku pravděpodobně zaklapne.',
       ja: 'この弓はそれがおそらくいつでもスナップするような程度に湾曲しています。',
-      ko: '이 활은 언제나 스냅 될 정도까지 구부러져 있습니다.'
+      ko: '이 활은 언제나 스냅 될 정도까지 구부러져 있습니다.',
+      da: 'Denne bue er buet i en sådan grad, at den sikkert vil snappe til enhver tid.'
     }
   },
 
@@ -100,7 +103,8 @@ export default [
       cs: 'Ten, kdo tohle na zemi opustil, pravděpodobně neuskutečnil pěkný konec.',
       ja: 'これを地面に置いたままにしておいた人は誰もがうまく行かなかったでしょう。',
       ro: 'Oricine l-ar fi lăsat pe pământ, probabil că nu a avut un sfârșit frumos.',
-      ko: '이것을 남긴 사람은 아마도 안좋은 끝을 만난 것 같습니다.'
+      ko: '이것을 남긴 사람은 아마도 안좋은 끝을 만난 것 같습니다.',
+      da: 'Den, der forlod dette på jorden, opfyldte sandsynligvis ikke en god ende.'
     }
   },
 
@@ -126,7 +130,8 @@ export default [
       bg: 'По-напреднало оръжие. Много хубаво е да се погледне.',
       ja: 'より高度な武器見てとてもうれしいです。',
       ro: 'O armă mai avansată. Destul de frumoasă la înfățișare.',
-      ko: '더 발전된 무기. 보기도 좃습니다.'
+      ko: '더 발전된 무기. 보기도 좃습니다.',
+      da: 'Et mere avanceret våben. Ganske rart at se på.'
     }
   },
 
@@ -152,7 +157,8 @@ export default [
       cs: 'Dej dohromady s kostmi ... někoho?',
       ja: '〜誰かの骨と一緒に？',
       ro: 'Făcut din oasele... cuiva?',
-      ko: '뼈로 만들어진 활… 누구의 뼈일가?'
+      ko: '뼈로 만들어진 활… 누구의 뼈일가?',
+      da: 'Sammen med knoglerne af ... nogen?'
     }
   },
 
@@ -178,7 +184,8 @@ export default [
       cs: 'Odborný luk elegantní závodu.',
       ja: '優雅なレースの巧妙な弓。',
       ro: 'Un arc expert al unei curse elegante.',
-      ko: '우아한 레이스의 전문가 활입니다.'
+      ko: '우아한 레이스의 전문가 활입니다.',
+      da: 'En ekspertbue af en elegant race.'
     }
   },
 
@@ -204,7 +211,8 @@ export default [
       cs: 'Hrubý, ale účinný. Čerpá svou sílu z malého lístku, který je k němu připojen.',
       ja: '粗いが効果的。それに付いている小さな葉から力を引き出します。',
       ro: 'Crud, dar eficient. Își trage puterea din frunzulița atașată pe el.',
-      ko: '조잡하지만 효과적입니다. 그것에 붙어있는 작은 잎에서 그것의 힘을 당긴다.'
+      ko: '조잡하지만 효과적입니다. 그것에 붙어있는 작은 잎에서 그것의 힘을 당긴다.',
+      da: 'Rå, men effektiv. Træk sin kraft fra det lille blad fastgjort til det.'
     }
   },
 
@@ -230,7 +238,8 @@ export default [
       cs: 'Spálí nepřítele s nejjemnějším červeným zbarvením.',
       ja: '最も辛い赤色の着色で敵を焼き払います。',
       ro: 'Arde inamicul cu cea mai intensă culoare de roșu.',
-      ko: '뜨거운 붉은 색으로 적을 태운다.'
+      ko: '뜨거운 붉은 색으로 적을 태운다.',
+      da: 'Brænder fjenden med den spicieste af rød farve.'
     }
   },
 
@@ -256,7 +265,8 @@ export default [
       cs: 'Luk běžně používaný nízkohodnotnými královskými lukostřelci. Směsi ve vegetaci.',
       ja: '低位の王室弓兵によく使われる弓。植生とよく調和しています。',
       ro: 'Un arc folosit în mod obișnuit de arcașii regali de rang inferior. Se amestecă bine cu vegetația.',
-      ko: '왕궁에 낮은 등급의 자주 스는 활. 식물과 잘 어울립니다.'
+      ko: '낮은 등급의 왕궁에 자주 사용되는 활. 식물과 잘 어울립니다.',
+      da: 'En bue, der almindeligvis anvendes af lavrangerede kongelige bueskytter. Blander godt med vegetationen.'
     }
   },
 
@@ -282,7 +292,8 @@ export default [
       cs: 'Mistrovsky vytvořený bandity z hlavních měst.',
       ja: '首都の盗賊によって巧妙に作られました。',
       ro: 'Meșteșugit de bandiții capitalelor.',
-      ko: '도시 산적들에 의해 훌륭하게 제작되었습니다.'
+      ko: '도시 산적들에 의해 훌륭하게 제작되었습니다.',
+      da: 'Mesterligt udformet af banditernes banditter.'
     }
   },
 
@@ -308,7 +319,8 @@ export default [
       cs: 'Vzácný luk používaný v největších válkách. Střelba z vás dělá pocit, že se nebe zhroutí.',
       ja: '最も偉大な戦争で使われる珍しい弓。それを撮影すると、天が崩壊するように感じるでしょう。',
       ro: 'Un arc rar, folosit în cele mai mari războaie. Să tragi te face să simți că cerurile se vor prăbuși.',
-      ko: '가장 큰 전쟁에서 사용 된 희귀 한 활. 그것을 쏘면 하늘이 무너지는 것처럼 느껴집니다.'
+      ko: '가장 큰 전쟁에서 사용 된 희귀 한 활. 그것을 쏘면 하늘이 무너지는 것처럼 느껴집니다.',
+      da: 'En sjælden bue, der bruges i de største krige. Skydning det får dig til at føle, at himlen vil kollapse.'
     }
   },
 
@@ -334,7 +346,8 @@ export default [
       cs: 'Co je to? Je to led? Svět se nikdy nedozví ...',
       ja: 'それは何ですか？氷ですか？世界は知らないかもしれません...',
       ro: 'Ce e asta? Gheață? Lumea s-ar putea să nu afle niciodată.',
-      ko: '이게 뭐지? 얼음일까? 세상은 결코 알지 못할 것입니다 ...'
+      ko: '이게 뭐지? 얼음일까? 세상은 결코 알지 못할 것입니다 ...',
+      da: 'Hvad er det? Er det is? Verden kan aldrig vide ..'
     }
   },
 
