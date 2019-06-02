@@ -106,7 +106,8 @@ export default {
     ko: '항목 삭제',
     ja: 'アイテムを無効にする',
     ro: 'Scoate Obiectul',
-    hi: 'बाज़ार से हटाएं'
+    hi: 'बाज़ार से हटाएं',
+    da: 'Fjern element fra liste'
   },
 
   // Include the space and punctuation
