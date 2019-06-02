@@ -116,7 +116,16 @@ export default [
       pt: 'Quando uma garra foi encontrada, foi considerada um presente dos pássaros sagrados nas montanhas. Os monges nas montanhas usavam as garras para produzir amuletos espirituais para se protegerem dos invasores durante a batalha.',
       nl: 'Toen een klauw werd gevonden, werd het beschouwd als een geschenk van de heilige vogels in de bergen. De monniken in de bergen gebruikten de klauwen om spirituele amuletten te maken om zich te beschermen tegen indringers tijdens de strijd.',
       pl: 'Kiedy znaleziono talon, był on uważany za dar od świętych ptaków w górach. Mnisi w górach wykorzystywali szpony do produkcji duchowych amuletów, aby chronić się przed najeźdźcami w czasie bitwy.',
-      da: 'Da en talon blev fundet, blev det betragtet som en gave fra de hellige fugle i bjergene.  Munkene i bjergene brugte talonerne til at producere åndelige amuletter for at beskytte sig mod invadere under kamp.'
+      da: 'Da en talon blev fundet, blev det betragtet som en gave fra de hellige fugle i bjergene. Munkene i bjergene brugte talonerne til at producere åndelige amuletter for at beskytte sig mod invadere under kamp.',
+      hi: 'जब एक ताल मिला, तो इसे पहाड़ों में पवित्र पक्षियों से एक उपहार माना जाता था। पहाड़ों में भिक्षुओं ने लड़ाई के दौरान खुद को आक्रमणकारियों से बचाने के लिए आध्यात्मिक ताबीज का उत्पादन करने के लिए तालिकाओं का उपयोग किया।',
+      tl: 'Kapag ang isang talon ay natagpuan, ito ay itinuturing na isang regalo mula sa sagradong mga ibon sa mga bundok. Ginamit ng mga monghe sa mga bundok ang mga talon upang makagawa ng espirituwal na mga amulet upang protektahan ang kanilang sarili mula sa mga manlulupig sa panahon ng labanan.',
+      bg: 'Когато е намерен талон, той се счита за подарък от свещените птици в планините. Монасите в планините използвали ноктите, за да произвеждат духовни амулети, за да се предпазят от нашественици по време на битка.',
+      el: 'Όταν βρέθηκε ένα τάλλον, θεωρήθηκε δώρο από τα ιερά πουλιά στα βουνά. Οι μοναχοί στα βουνά χρησιμοποίησαν τα αυλάκια για να παράγουν πνευματικά φυλακτά για να προστατευθούν από τους εισβολείς κατά τη διάρκεια της μάχης.',
+      cs: 'Když byl nalezen talon, byl považován za dar od posvátných ptáků v horách. Mniši v horách používali drápy k produkci duchovních amuletů, aby se chránili před útočníky během bitvy.',
+      ja: 'タロンが見つかったとき、それは山の中の神聖な鳥からの贈り物と考えられていました。山の僧侶たちは、戦いの間に侵入者から身を守るために、綱を使って精神的なお守りを作りました。',
+      ht: 'Lè yon talon te jwenn, li te konsidere kòm yon kado nan zwazo yo sakre nan mòn yo. Relijyeu yo nan mòn yo te itilize talon yo pou pwodwi Hamlet espirityèl yo pou pwoteje tèt yo kont anvayisè yo pandan batay la.',
+      sv: 'När en talon hittades, ansågs den vara en gåva från de heliga fåglarna i bergen. Munkarna i bergen använde talonerna för att producera andliga amuletter för att skydda sig från invaderare under striden.',
+      ko: '탈론이 발견되었을 때, 그것은 산속에있는 신성한 새들의 선물로 간주되었습니다. 산 속 승려들은 전투 중에 침략자들로부터 스스로를 보호 할 수있는 영적인 부적을 만들기 위해 발톱을 사용했습니다.'
     }
   },
 
