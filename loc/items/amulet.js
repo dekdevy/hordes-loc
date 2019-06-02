@@ -186,7 +186,15 @@ export default [
       pt: 'As teocracias beligerantes criaram símbolos ómega divinos como meio de protecção. Estes símbolos foram usados para dissuadir ataques, dados como presentes protectores, e apresentados a potenciais seguidores religiosos.',
       nl: 'Oorlogstheocratieën creëerden goddelijke omegasymbolen als een middel voor bescherming. Deze symbolen werden gebruikt om aanvallen af te schrikken, gegeven als beschermende geschenken, en werden aan potentiële religieuze volgelingen gepresenteerd.',
       pl: 'Walczące teokracje stworzyły boskie symbole omegi jako środek ochrony. Symbole te służyły do odstraszania ataków, były dawane jako dary ochronne i przedstawiane potencjalnym wyznawcom religijnym.',
-      da: 'Warring theocracies skabte guddommelige omega symboler som et middel til beskyttelse.  Disse symboler blev brugt til at afskrække angreb, givet som beskyttende gaver og præsenteret for potentielle religiøse tilhængere.'
+      da: 'Warring theocracies skabte guddommelige omega symboler som et middel til beskyttelse.  Disse symboler blev brugt til at afskrække angreb, givet som beskyttende gaver og præsenteret for potentielle religiøse tilhængere.',
+      tl: 'Naglalabanan ang mga theocracies na lumikha ng mga simbolo ng Diyos omega bilang isang paraan para sa proteksyon. Ang mga simbolo na ito ay ginamit upang pigilin ang mga pag-atake, na ibinigay bilang mga proteksiyon na regalo, at iniharap sa mga potensyal na tagasunod ng relihiyon.',
+      bg: 'Воюващите теокрации създадоха божествени омега символи като средство за защита. Тези символи са използвани за възпиране на атаки, дадени като защитни подаръци, и представени на потенциалните религиозни последователи.',
+      el: 'Οι αγωνιστικές θεωρίες δημιούργησαν θεία σύμβολα ωμέγα ως μέσο προστασίας. Αυτά τα σύμβολα χρησιμοποιήθηκαν για να αποτρέψουν τις επιθέσεις, που δόθηκαν ως προστατευτικά δώρα και παρουσιάστηκαν σε δυνητικούς θρησκευτικούς οπαδούς.',
+      cs: 'Bojující teokracie vytvořily božské symboly omega jako prostředek ochrany. Tyto symboly sloužily k tomu, aby zabránily útokům, které byly dány jako ochranné dary, a byly prezentovány potenciálním náboženským následovníkům.',
+      ja: '神学者たちと戦うことで、保護の手段として神聖なオメガシンボルが生まれました。これらのシンボルは、保護的な贈り物として与えられた攻撃を阻止するために使用され、潜在的な宗教的信者に提示されました。',
+      ht: 'Teokrasi lagè yo te kreye senbòl omega diven kòm yon mwayen pou pwoteksyon. Senbòl sa yo te itilize pou dekouraje atak, yo te bay kòm kado pwoteksyon, ak prezante bay potansyèl disip relijye yo.',
+      sv: 'Warring theocracies skapade gudomliga omega symboler som ett medel för skydd. Dessa symboler användes för att avskräcka attacker, ges som skyddande presenter och presenterades för potentiella religiösa anhängare.',
+      ko: '신성한 오메가 상징을 보호하기위한 수단으로 창조했다. 이 상징은 방어적인 선물로 주어진 공격을 막고 잠재적 인 종교 추종자에게 선물로 사용되었습니다.'
     }
   },
 
