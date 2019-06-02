@@ -293,7 +293,9 @@ export default [
       el: 'Τα στριμμένα κομμάτια του τεράστιου World Tree, Yggdrasil, έγιναν σε φυλακτά του πιο ιερού είδους. Το Sap βγαίνει από το φυλακτό και απορροφάται από το σώμα για επιπλέον προστασία.',
       cs: 'Kroucené kousky obrovského World Tree, Yggdrasil, byly vyrobeny z amulet nejposvátnějšího druhu. Sap vyteče z amuletu a je absorbován tělem pro extra ochranu.',
       ht: 'Moso twisted nan men nan World Tree, Yggdrasil, yo te fè nan Hamlet nan kalite ki pi sakre. Sape epwizans soti nan Hamlet la epi kò a absòbe li pou pwoteksyon siplemantè.',
-      sv: 'Twisted bitar av det enorma World Tree, Yggdrasil, gjordes till amuletter av den mest heliga sorten. Sap suger ut ur amuletten och absorberas av kroppen för extra skydd.'
+      sv: 'Twisted bitar av det enorma World Tree, Yggdrasil, gjordes till amuletter av den mest heliga sorten. Sap suger ut ur amuletten och absorberas av kroppen för extra skydd.',
+      ko: '거대한 World Tree의 뒤틀린 조각 Yggdrasil은 가장 신성한 종류의 부적으로 만들어졌습니다. 수액은 부적에서 스며 나오고 신체에 흡수되어 추가적인 보호를받습니다.',
+      ja: '巨大なWorld Tree、Yggdrasilのツイストピースは、最も神聖な種類のお守りになりました。樹液はお守りからしみ出て、余分な保護のために体に吸収されます。'
     }
   },
 
