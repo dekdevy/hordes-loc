@@ -9,18 +9,19 @@ export default {
     de: 'Clan-Manager',
     tr: 'Klan Yönetimi',
     bg: 'Кланови опции',
-    cs: 'Clan Manager',
+    cs: 'Správa Klanu',
     el: 'Clan Manager',
-    it: 'Clan Manager',
+    it: 'Gestisci il clan',
     ja: 'クランマネージャー',
     pl: 'Menedżer klanu',
     pt: 'Gerente do Clã',
     tl: 'Clan Manager',
     sv: 'Clan Manager',
     ht: 'Manadjè klan',
-    nl: 'Clanmanager',
+    nl: 'Beheer Clan',
     ko: '씨족 메뉴',
-    ro: 'Clan Manager'
+    ro: 'Clan Manager',
+    da: 'Administrer Clan'
   },
 
   leave: {
@@ -43,7 +44,8 @@ export default {
     ht: 'Kite Clan',
     nl: 'Verlofclan',
     ko: '씨족 을 나가기',
-    ro: 'Părăsește clanul'
+    ro: 'Părăsește clanul',
+    da: 'Forlad Clan'
   },
 
   heading: {
@@ -66,7 +68,8 @@ export default {
     ht: 'Clan',
     nl: 'Clan',
     ko: '씨족',
-    ro: 'Clan'
+    ro: 'Clan',
+    da: 'Klan'
   },
 
   createheading: {
@@ -89,7 +92,8 @@ export default {
     ht: 'Kreye Clan',
     nl: 'Creërenclan',
     ko: '씨족 을 만들기',
-    ro: 'Creează un clan'
+    ro: 'Creează un clan',
+    da: 'Opret Clan'
   },
 
   createinfo: {
