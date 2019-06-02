@@ -301,7 +301,23 @@ export default [
     description: {
       en: 'A ring said to be capable of turning its wearer invisible and motivate them for everlasting glory.',
       ru: 'Кольцо, которое, как говорят, способно сделать его владельца невидимым и мотивировать его на вечную славу.',
-      da: 'En ring sagde at være i stand til at vende sin bærer usynlig og motivere dem til evig herlighed'
+      es: 'Un anillo que se dice es capaz de volver invisible a su portador y los motiva para la gloria eterna.',
+      de: 'Ein Ring soll in der Lage sein, seinen Träger unsichtbar zu machen und ihn zu ewigem Ruhm zu motivieren.',
+      hi: 'एक अंगूठी ने अपने पहनने वाले को अदृश्य करने में सक्षम होने के लिए कहा और उन्हें हमेशा की महिमा के लिए प्रेरित किया।',
+      fr: 'Un anneau dit être capable de rendre son porteur invisible et de le motiver pour la gloire éternelle.',
+      pt: 'Um anel disse ser capaz de transformar seu portador invisível e motivá-los para a glória eterna.',
+      nl: 'Een ring die naar verluidt in staat is om de drager onzichtbaar te maken en hen te motiveren voor eeuwige glorie.',
+      tl: 'Ang isang singsing ay nagsabi na may kakayahang gawing hindi nakikita ang tagapagsuot nito at mag-udyok sa kanila para sa walang hanggang kaluwalhatian.',
+      bg: 'Пръстен, за който се казва, че е способен да превърне своя невидим и да ги мотивира за вечна слава.',
+      el: 'Ένα δαχτυλίδι λέγεται ότι είναι ικανό να μετατρέψει τον φορέα του αόρατο και να τον παρακινήσει για αιώνια δόξα.',
+      pl: 'Pierścień, o którym mówi się, że potrafi zmienić swojego noszącego w niewidzialny i zmotywować go do wiecznej chwały.',
+      it: 'Un anello che si dice sia in grado di rendere invisibile chi lo indossa e motivarlo per la gloria eterna.',
+      cs: 'Prsten řekl, že je schopný otočit svého nositele neviditelným a motivovat je k věčné slávě.',
+      ja: '指輪は身に着けている人を見えなくし、永遠の栄光に動機付けることができると言われています。',
+      ht: 'Yon bag te di yo dwe kapab vire utilisateurs li yo envizib ak motive yo pou tout bèl pouvwa p\'ap janm fini an.',
+      sv: 'En ring sa att kunna ändra sin bärare osynlig och motivera dem för evigt ära.',
+      ko: '반지는 착용자를 보이지 않게하고 영원한 영광을 위해 그들을 자극 할 수 있다고 말했습니다.',
+      da: 'En ring sagde at være i stand til at vende sin bærer usynlig og motivere dem til evig herlighed.',
     }
   },
 
