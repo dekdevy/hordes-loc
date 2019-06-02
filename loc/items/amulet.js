@@ -137,7 +137,15 @@ export default [
       pt: 'Antigos desertores do deserto recolheram pedras especiais e moldaram-nas em escaravelhos com magia negra estranha. Muitas pessoas importantes nessa antiga civilização usavam esses amuletos para proteção e estatura.',
       nl: 'Oude woestijnmensen verzamelden speciale stenen en vormden deze tot scarabeeën met vreemde, donkere magie. Veel belangrijke mensen in die oude beschaving droegen deze amuletten voor gestalte en bescherming.',
       pl: 'Starożytni pustynni ludzie zbierali specjalne kamienie i kształtowali je w skarabeusze z dziwną, ciemną magią. Wielu ważnych ludzi w tej starożytnej cywilizacji nosiło te amulety dla osiągnięcia odpowiedniej rangi i ochrony.',
-      da: 'Gamle ørkenfolk indsamlede specielle sten og formede dem til scarabs med mærkelig, mørk magi.  Mange vigtige mennesker i den gamle civilisation havde disse amuletter for statur og beskyttelse.'
+      da: 'Gamle ørkenfolk indsamlede specielle sten og formede dem til scarabs med mærkelig, mørk magi. Mange vigtige mennesker i den gamle civilisation havde disse amuletter for statur og beskyttelse.',
+      tl: 'Ang mga sinaunang mga tao sa disyerto ay nagtipon ng mga espesyal na bato at binubuo ang mga ito sa mga scarab na may kakaibang, madilim na salamangka. Maraming mga mahahalagang tao sa sinaunang sibilisasyon ang nagsuot ng mga amulet na ito para sa tangkad at proteksyon.',
+      bg: 'Древните пустини събирали специални камъни и ги оформяли в скарабеи със странна, тъмна магия. Много важни хора в тази древна цивилизация носеха тези амулети за ръст и защита.',
+      el: 'Οι αρχαίοι έρημοι συγκέντρωσαν ειδικές πέτρες και τους μορφοποίησαν σε σκαραβίδες με περίεργη, σκοτεινή μαγεία. Πολλοί σημαντικοί άνθρωποι σε αυτόν τον αρχαίο πολιτισμό φορούσαν αυτά τα φυλακτά για το ανάστημα και την προστασία.',
+      cs: 'Starověcí lidé pouště sbírali speciální kameny a tvarovali je do scarabů s podivnou, temnou magií. Mnoho důležitých lidí v této starověké civilizaci nosilo tyto amulety pro postavení a ochranu.',
+      ja: '古代の砂漠の人々は特別な石を集めて、奇妙な、暗い魔法でスカラベにそれらを形作りました。その古代文明の多くの重要な人々は身長と保護のためにこれらのお守りを身に着けていました。',
+      ht: 'Moun dezè ansyen yo kolekte wòch espesyal ak ki gen fòm yo nan skarabe ak etranj, majik nwa. Anpil moun enpòtan nan sivilizasyon ansyen sa a te mete Hamlet sa yo pou wo ak pwoteksyon.',
+      sv: 'Forntida öknen samlade speciella stenar och formade dem i scarabs med konstig, mörk magi. Många viktiga människor i den antika civilisationen hade dessa amuletter för statur och skydd.',
+      ko: '고대 사막 사람들은 특별한 돌을 모아 이상하고 어두운 마술로 풍뎅이 모양으로 만들었습니다. 그 고대 문명의 많은 사람들이 키와 보호를 위해이 부적을 입었습니다.'
     }
   },
 
