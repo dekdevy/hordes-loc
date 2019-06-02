@@ -354,7 +354,15 @@ export default [
       pt: 'O centro deste amuleto de penas de fênix contém uma pequena quantidade de cinzas de todos os aventureiros caídos que já o possuíram. Sem exceção, todo aventureiro que usa um amuleto assim transcendeu para a lenda.',
       nl: 'Het centrum van dit amulet van feniks veren bevat een kleine hoeveelheid as van alle gevallen avonturiers die er ooit eigenaar van zijn geweest. Zonder uitzondering is elke avonturier die zo\'n amulet gebruikt, zonder uitzondering een legende geworden.',
       pl: 'W centrum tego amuletu piór feniksa znajduje się niewielka ilość popiołów od wszystkich poległych poszukiwaczy przygód, którzy kiedykolwiek je posiadali. Bez wyjątku, każdy poszukiwacz przygód używający takiego amuletu przerodził się w legendę.',
-      da: 'Centret af denne amulet af phoenix fjer indeholder en lille mængde aske fra alle de faldne eventyrere, der nogensinde har ejet det.  Uden undtagelse er alle eventyrere til at bruge en sådan amulet overgået til legenden.'
+      da: 'Centret af denne amulet af phoenix fjer indeholder en lille mængde aske fra alle de faldne eventyrere, der nogensinde har ejet det.  Uden undtagelse er alle eventyrere til at bruge en sådan amulet overgået til legenden.',
+      tl: 'Ang gitna ng ganitong amulet ng phoenix feathers ay naglalaman ng isang maliit na halaga ng abo mula sa lahat ng mga bumagsak na adventurers na kailanman pag-aari ito. Walang kataliwasan, ang bawat adventurer na gagamit ng gayong anting-anting ay lumipat sa alamat.',
+      bg: 'Центърът на този амулет от фениксови пера съдържа малко количество пепел от всички паднали авантюристи, които някога са го притежавали. Без изключение всеки авантюрист, който използва такъв амулет, се е превърнал в легенда.',
+      el: 'Το κέντρο αυτού του φυλακίου των φτερών του Φοίνικας περιέχει μια μικρή ποσότητα τέφρας από όλους τους πεσμένους περιπετειώδεις που την έχουν ανήκει ποτέ. Χωρίς εξαίρεση, κάθε τυχοδιώκτης που χρησιμοποίησε ένα τέτοιο φυλαχτό έχει υπερβεί το μύθο.',
+      cs: 'Centrum tohoto amuletu phoenixského peří obsahuje malé množství popela ze všech padlých dobrodruhů, kteří ho vlastnili. Bez výjimky, každý dobrodruh používat takový amulet překročil legendu.',
+      ja: 'フェニックスの羽のこのお守りの中心には、これまでにそれを所有したことのあるすべての倒れた冒険者たちからの少量の灰が含まれています。例外なく、そのようなお守りを使うすべての冒険者は伝説に超越しました。',
+      ht: 'Sant la nan Hamlet sa a nan plim Phoenix gen yon ti kantite sann ki soti nan tout avanturyé yo tonbe ki te janm posede li. San okenn eksepsyon, tout avanturyé te itilize tankou yon Hamlet transkadi nan lejand.',
+      sv: 'Centrum av denna amulett av Phoenixfjädrar innehåller en liten mängd askor från alla fallna äventyrare som någonsin har ägt den. Utan undantag har varje äventyrare att använda en sådan amulett övergått till legenden.',
+      ko: '피닉스 깃털이 부적의 중심에는 이제까지 그것을 소유 한 모든 타락한 모험가들의 소량의 재가 포함되어 있습니다. 예외없이 모든 모험가는 그런 부적을 사용하여 전설을 뛰어 넘었습니다.'
     }
   }
 ]
