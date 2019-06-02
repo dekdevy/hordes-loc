@@ -21,7 +21,8 @@ export default [
       bg: 'Поне ти носиш нещо на тези крака.',
       hi: 'काम से काम आप ने अपने पैरों पर कुछ तो पहना है।',
       ko: '적어도 너는 그 발에 무언가를 신었다.',
-      ro: 'Cel puțin poți purta ceva în picioare.'
+      ro: 'Cel puțin poți purta ceva în picioare.',
+      da: 'I det mindste har du noget på disse fødder.'
     }
   },
 
@@ -47,7 +48,8 @@ export default [
       bg: 'Подметките, направени от плат, вероятно ще се разкъсат след няколко часа.',
       hi: 'इसके तले कपड़े के बने है, थोड़ी डर में फट जाएँगे।',
       ko: '옷감으로 만든 신, 몇 시간 후에 찢어 질 것입니다.',
-      ro: 'Talpa din pânză, probabil se va rupe după câteva ore.'
+      ro: 'Talpa din pânză, probabil se va rupe după câteva ore.',
+      da: 'Soles lavet af klud vil sandsynligvis rive efter et par timer.'
     }
   },
 
@@ -73,7 +75,8 @@ export default [
       ja: '柔らかい革は不気味な森を歩き回っているイノシシを剥ぎ取られると言われています。',
       hi: 'इसका नरम चमड़े को डरावने जंगलो में रहने वाले जंगली सूअरो से लिए गया है। ',
       ko: '부드러운 가죽은 섬뜩한 숲을 돌아 다니는 야생 멧돼지에서 벗겨졌다.',
-      ro: 'Se zvonește că pielea moale a fost dezbrăcată de mistreții ce se plimbau prin pădurea stranie.'
+      ro: 'Se zvonește că pielea moale a fost dezbrăcată de mistreții ce se plimbau prin pădurea stranie.',
+      da: 'Det bløde læder siges at være fjernet fra vildsvin, der roaming de uhyggelige skove.'
     }
   },
 
@@ -99,7 +102,8 @@ export default [
       el: 'Σαφώς λείπει από τη φαντασία ο κατασκευαστής έκανε μπότες από τα οστά ενός πολύ μεγάλου πλάσματος ...',
       bg: 'Очевидно без въображение, производителят е направил ботуши от костите на много голямо същество ...',
       ko: '분명히 상상력이 부족한이 제작자는 매우 큰 생물의 뼈에서 부츠를 만들었습니다...',
-      ro: 'În mod evident lipsit de imaginație, producătorul a făcut cizmele din oasele unei creaturi foarte mari ...'
+      ro: 'În mod evident lipsit de imaginație, producătorul a făcut cizmele din oasele unei creaturi foarte mari ...',
+      da: 'Klart mangler fantasi, skaberen lavede støvler fra knoglerne i et meget stort væsen ...'
     }
   },
 
@@ -125,7 +129,8 @@ export default [
       ja: '神秘的な鱗があなたの履物の外側を覆い、太陽の光を捉えます。',
       hi: 'रहस्यमय शल्क आपके जूतों को ढकते है, जो धूप में प्रकाश को पकड़ते है।',
       ko: '신비한 비늘은 신발의 바깥을 덮고 태양 빛을 따라 잡습니다.',
-      ro: 'Solzi misterioși acoperă exteriorul încălțămintelor tale, atrăgând priviri când stau în soare.'
+      ro: 'Solzi misterioși acoperă exteriorul încălțămintelor tale, atrăgând priviri când stau în soare.',
+      da: 'Mystiske skalaer dækker ydersiden af ​​dit fodtøj og fanger glares i solen.'
     }
   },
 
@@ -151,7 +156,8 @@ export default [
       el: 'Ένα ευχάριστο σχέδιο για να παραλύσει τους εχθρούς σας ... αναρωτιέται αν λειτουργεί.',
       bg: 'Приятна картина, направена да парализира враговете ви ... чудя се дали работи.',
       ko: '적을 마비시키는 유쾌한 패턴이있다... 되는지는 모르겠다.',
-      ro: 'Un model plăcut făcut pentru a paraliza inamicii... mă întreab dacă funcționează.'
+      ro: 'Un model plăcut făcut pentru a paraliza inamicii... mă întreab dacă funcționează.',
+      da: 'Et behageligt mønster lavet til at lamme dine fjender ... spekulerer på, om det virker.'
     }
   },
 
@@ -177,7 +183,8 @@ export default [
       el: 'Λαμβανόταν από βετεράνους πολέμου που σαφώς δεν βρήκαν αρκετή προστασία από αυτά τα χοντρά σχοινιά.',
       bg: 'Взети от ветерани от войната, които очевидно не са намерили достатъчно защита от тези пръжки.',
       ko: '분명히이 부츠에서 충분한 보호를 찾지 못한 전쟁 참전 용사에게서 가져온 것입니다.',
-      ro: 'Luate de la veterani de război care, evident, nu au găsit suficientă protecție în aceste cizme.'
+      ro: 'Luate de la veterani de război care, evident, nu au găsit suficientă protecție în aceste cizme.',
+      da: 'Taget fra krigsveteraner, der klart ikke fandt tilstrækkelig beskyttelse af disse greve.'
     }
   },
 
@@ -203,7 +210,8 @@ export default [
       el: 'Χοντροκομμένο στην εμφάνισή του μάλλον πολύ άβολα.',
       bg: 'Корена си изглежда вероятно много неприятно.',
       ko: '그 모습이 거칠고, 아마도 매우 불편합니다.',
-      ro: 'Arată îndesate, probabil foarte inconfortabile'
+      ro: 'Arată îndesate, probabil foarte inconfortabile',
+      da: 'Chunky i sit udseende, sandsynligvis meget ubehageligt.'
     }
   },
 
@@ -229,7 +237,8 @@ export default [
       ja: '風と同じくらい速く走るか、またはそれに近づける。',
       hi: 'हवा के साथ चलिए... या उससे थोड़ा पीछे।',
       ko: '바람처럼 빨리 달릴 수 있습니다... 그것에 가깝습니다.',
-      ro: 'Fugi rapid ca și vântul... sau aproape ca el.'
+      ro: 'Fugi rapid ca și vântul... sau aproape ca el.',
+      da: 'Kør så hurtigt som vinden ... eller tæt på den.'
     }
   },
 
@@ -254,7 +263,8 @@ export default [
       bg: 'Студените ботуши изковани без топлина, които ви позволяват да бягате без препъване',
       cs: 'Studené boty kované bez tepla, které vám umožní běžet bez úrazu',
       ja: 'あなたはつまずくことなく実行することができます熱なしで鍛造コールドブーツ',
-      ro: 'Cizmele reci ca gheața și forjate fără căldură îți permit să alergi fără să te împiedici.'
+      ro: 'Cizmele reci ca gheața și forjate fără căldură îți permit să alergi fără să te împiedici.',
+      da: 'Isnende kold støvler smedet uden varme, som giver dig mulighed for at løbe uden at snuble.'
     }
   },
 
@@ -280,7 +290,8 @@ export default [
       bg: 'Някои казват, че с тях може да тичате на облаци. Малцината, които са се опитали, вече са се възнесли.',
       ht: 'Yon lòt ankò: ou ka kouri sou nwaj yo ak tout bagay sa. Twa ki te eseye fè deja est.',
       ko: '어떤 사람들은 이장화로 구름 위에서 뛰어 다닐 수 있다고 말한다. 시도한 몇명은 하늘나라로 갔다.',
-      ro: 'Câțiva oameni spun că poți alerga pe nori cu acestea. Puținii care au incercat s-au înălțat deja.'
+      ro: 'Câțiva oameni spun că poți alerga pe nori cu acestea. Puținii care au incercat s-au înălțat deja.',
+      da: 'Nogle siger, at du kan køre på skyer med disse. De få, der har forsøgt, har allerede steget op.'
     }
   },
 
@@ -306,7 +317,8 @@ export default [
       bg: 'Древните ботуши, за които се говори, че са откраднати от краката на бог-посланик.',
       ko: '고대의 부츠는 전령 신의 발에서 도난 당했다고 소문이났다.',
       ht: 'Bòt ansyen yo rimè yo dwe vòlè nan pye yo nan yon bondye mesaje.',
-      ro: 'Bocanci antici, zvoniți a fi furați de la picioarele unui zeu mesager.'
+      ro: 'Bocanci antici, zvoniți a fi furați de la picioarele unui zeu mesager.',
+      da: 'Gamle støvler rygter sig for at blive stjålet fra en messengerguds fødder.'
     }
   },
 
@@ -332,7 +344,8 @@ export default [
       bg: 'Звездите винаги са били считани за всемогъщи, сега са ваши.',
       ht: 'Zetwal te toujou konsidere tout, koulye a, y\' ap ye.',
       ko: '별은 언제나 전능자로 여겨졌습니다, 이제 당신의 것입니다.',
-      ro: 'Stelele au fost întotdeauna considerate a fi atotputernice, acum sunt ale tale.'
+      ro: 'Stelele au fost întotdeauna considerate a fi atotputernice, acum sunt ale tale.',
+      da: 'Stjerner blev altid betragtet som almægtige, nu er de dine.'
     }
   }
 
