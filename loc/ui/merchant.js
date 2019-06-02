@@ -18,7 +18,8 @@ export default {
     ko: '수색',
     ja: 'サーチ',
     ro: 'Caută',
-    hi: 'खोजे'
+    hi: 'खोजे',
+    da: 'Søg'
   },
 
   filtermine: {
@@ -39,7 +40,8 @@ export default {
     ko: '내 항목 만',
     ja: '私の商品のみ',
     ro: 'Doar obiectele mele',
-    hi: 'मेरी वस्तुएं'
+    hi: 'मेरी वस्तुएं',
+    da: 'Kun mine genstand'
   },
 
   buy: {
@@ -60,7 +62,8 @@ export default {
     ko: '물건을 사다',
     ja: '商品を購入',
     ro: 'Cumpără Obiectul',
-    hi: 'वस्तु खरीदे'
+    hi: 'वस्तु खरीदे',
+    da: 'Køb genstand'
   },
 
   post: {
@@ -125,7 +128,8 @@ export default {
     ko: '가격: ',
     ja: '価格: ',
     ro: 'Preț: ',
-    hi: 'कीमत: '
+    hi: 'कीमत: ',
+    da: 'Pris:'
   },
 
   // Include the space and punctuation
@@ -147,7 +151,8 @@ export default {
     ko: '보수: ',
     ja: '費用: ',
     ro: 'Taxă: ',
-    hi: 'कीमत: '
+    hi: 'कीमत: ',
+    da: 'Skat: '
   },
 
   dragitem: {
@@ -168,7 +173,8 @@ export default {
     ko: '항목을 슬롯으로 드래그하십시오.',
     ja: 'アイテムをスロットにドラッグ',
     ro: 'Pune obiectul la locul lui',
-    hi: 'वस्तु खीच कर खांचे में डाल दे'
+    hi: 'वस्तु खीच कर खांचे में डाल दे',
+    da: 'Træk genstand i slot'
   },
 
   auctionpost: {
