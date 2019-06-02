@@ -262,7 +262,8 @@ export default {
     tl: 'Binebenta mo na $1 Para sa $2',
     ht: 'Ou te vann $1 pou $2',
     ko: '$1 에 $1 를 판매했습니다',
-    sv: 'Du har sålt $1 för $2'
+    sv: 'Du har sålt $1 för $2',
+    da: 'Du har solgt $1 til $2'
   }
 
 }
