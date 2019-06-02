@@ -64,7 +64,16 @@ export default [
       pt: 'Este colar consiste em fragmentos de ossos de uma variedade de criaturas fortes. Cada colar de osso varia em proteção com base na origem dos ossos.',
       nl: 'Deze ketting bestaat uit botfragmenten van verschillende sterke wezens. Elke bottenketting varieert in bescherming afhankelijk van de oorsprong van de botten.',
       pl: 'Naszyjnik ten składa się z fragmentów kości różnych silnych stworzeń. Każdy naszyjnik kostny różni się ochroną w zależności od pochodzenia kości.',
-      da: 'Denne halskæde består af knoglefragmenter fra en række stærke skabninger.  Hver knoglehalskæde varierer i beskyttelse baseret på knoglernes oprindelse.'
+      da: 'Denne halskæde består af knoglefragmenter fra en række stærke skabninger. Hver knoglehalskæde varierer i beskyttelse baseret på knoglernes oprindelse.',
+      hi: 'इस हार में विभिन्न प्रकार के मजबूत प्राणियों से हड्डी के टुकड़े होते हैं। प्रत्येक हड्डी का हार हड्डियों की उत्पत्ति के आधार पर सुरक्षा में भिन्न होता है।',
+      tl: 'Ang kuwintas na ito ay binubuo ng mga buto ng buto mula sa iba\'t ibang malalakas na nilalang. Ang bawat kuwintas ng buto ay nag-iiba sa proteksyon batay sa pinagmulan ng mga buto.',
+      bg: 'Тази огърлица се състои от костни фрагменти от различни силни същества. Всяка костна огърлица варира в зависимост от произхода на костите.',
+      el: 'Αυτό το κολιέ αποτελείται από θραύσματα οστών από μια ποικιλία ισχυρών πλασμάτων. Κάθε κολιέ οστού ποικίλλει ανάλογα με την προστασία που βασίζεται στην προέλευση των οστών.',
+      cs: 'Tento náhrdelník se skládá z kostních fragmentů z různých silných tvorů. Každý kostní náhrdelník se liší v ochraně na základě původu kostí.',
+      ja: 'このネックレスは、さまざまな強い生き物からの骨片で構成されています。それぞれの骨のネックレスは骨の起源に基づいて保護が異なります。',
+      ht: 'Kolye sa a konsiste de fragman zo ki sòti nan yon varyete de bèt fò. Chak kolye zo varye nan pwoteksyon ki baze sou orijin zo yo.',
+      sv: 'Detta halsband består av benfragment från en rad starka varelser. Varje benhalsband varierar i skydd baserat på benens ursprung.',
+      ko: '이 목걸이는 다양한 강력한 생물의 뼈 조각으로 구성되어 있습니다. 각 뼈 목걸이는 뼈의 기원에 따라 보호가 다릅니다.'
     }
   },
 
