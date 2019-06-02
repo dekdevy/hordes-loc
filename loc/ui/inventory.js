@@ -153,7 +153,7 @@ export default {
     ko: '아이템 놓기',
     sv: 'Släpp objektet',
     ro: 'Aruncă obiectul',
-    da: 'Slet objektet'
+    da: 'Slet genstand'
   },
 
   equip: {
