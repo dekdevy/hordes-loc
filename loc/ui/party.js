@@ -19,12 +19,13 @@ export default {
     cs: 'Pozvat Party',
     ja: 'Party への招待',
     hi: 'Party में आमंत्रण',
-    sv: 'Party inbjudan',
+    sv: 'Party Inbjudan',
     ko: 'Party 초대',
     bg: 'Покана за Party',
     el: 'Πρόσκληση Party',
-    tl: 'Party imbitahan',
-    ro: 'Invitație la Party'
+    tl: 'Party Imbitahan',
+    ro: 'Invitație la Party',
+    da: 'Invitere til Party'
   },
 
   // DO NOT translate Party
@@ -48,7 +49,8 @@ export default {
     bg: 'Изритай от Party',
     el: 'λάκτισμα party',
     tl: 'Party sipa',
-    ro: 'Lovitură de Party'
+    ro: 'Lovitură de Party',
+    da: 'Kick ud af Party'
   },
 
   // DO NOT translate Party
@@ -72,7 +74,8 @@ export default {
     bg: 'Излизане от Party',
     el: 'Αφήστε Party',
     tl: 'Iwanan ang Party',
-    ro: 'Părăsește Party'
+    ro: 'Părăsește Party',
+    da: 'Forlad Party'
   },
 
   // DO NOT translate Party
@@ -96,7 +99,8 @@ export default {
     bg: 'Създаване на Party',
     el: 'Δημιουργία Party',
     tl: 'Lumikha ng Party',
-    ro: 'Creează Party'
+    ro: 'Creează Party',
+    da: 'Opret Party'
   },
 
   // DO NOT translate Party
