@@ -72,7 +72,7 @@ export default {
     nl: 'Plaatsen Voorwerp',
     es: 'Enviar Objeto',
     fr: 'Soumettre L\'objet',
-    de: 'Item senden',
+    de: 'Item Senden',
     pt: 'Enviar Objeto',
     ko: '개체 보내기',
     pl: 'Prześlij Obiekt',
@@ -85,7 +85,8 @@ export default {
     el: 'Στείλετε Αντικειμένου',
     bg: 'Изпрати Предмет',
     cs: 'Poslat Předmět',
-    ja: 'オブジェクトを送信'
+    ja: 'オブジェクトを送信',
+    da: 'Send Genstand'
   },
 
   delist: {
