@@ -103,7 +103,7 @@ export default {
     fr: 'Déclin',
     de: 'Ablehnen',
     es: 'Rechazar',
-    nl: 'Afwijzen',. 
+    nl: 'Afwijzen',
     tr: 'Düşüş',
     pt: 'Declínio',
     pl: 'Upadek',
