@@ -21,7 +21,8 @@ export default [
       sv: 'Bokstavligen en fyrkantig planka av trä.',
       ko: '말 그대로 나무의 정연한 판자.',
       ro: 'Literalmente o scândură pătrată de lemn.',
-      tr: 'Kelimenin tam anlamıyla bir kare ahşap parçası.'
+      tr: 'Kelimenin tam anlamıyla bir kare ahşap parçası.',
+      da: 'Bogstaveligt talt en firkantet skovl af træ.'
     }
   },
 
@@ -47,7 +48,8 @@ export default [
       sv: 'Smältjärnsring fylld med brons. Spetsig i sin framställning.',
       ko: '철 고리 청동 가득합니다. 어색한 제작.',
       ro: 'Inel de fier topit umplut cu bronz. Făcut superficial.',
-      tr: 'Bronz ile doldurulmuş eritilmiş demir halka. İyi yapılmış değil.'
+      tr: 'Bronz ile doldurulmuş eritilmiş demir halka. İyi yapılmış değil.',
+      da: 'Smeltet jernring fyldt med bronze. Svimlende i sin fremstilling.'
     }
   },
 
@@ -73,7 +75,8 @@ export default [
       sv: 'En del bonde har lyckats konstruera en söt liten sköld.',
       ko: '어떤 농부는 귀여운 작은 방패를 만들 수있었습니다.',
       ro: 'Un fermier a reușit să construiască un scut mic drăguț.',
-      tr: 'Bazı çiftçi sevimli küçük bir kalkan yaptı.'
+      tr: 'Bazı çiftçi sevimli küçük bir kalkan yaptı.',
+      da: 'Nogle landmænd har formået at konstruere et sødt lille skjold.'
     }
   },
 
@@ -99,7 +102,8 @@ export default [
       sv: 'Invecklad sköld gjord av tre solida metallstycken. Kraftig.',
       ko: '세 개의 단단한 금속 조각으로 만들어진 복잡한 방패. 견고한.',
       ro: 'Scut complicat făcut din trei piese de metal solid. Robust.',
-      tr: 'Üç katı metal parçadan oluşan karmaşık Kalkan. Sağlam bir kalkan.'
+      tr: 'Üç katı metal parçadan oluşan karmaşık Kalkan. Sağlam bir kalkan.',
+      da: 'Indviklet skjold lavet af tre faste metalstykker. Robust.'
     }
   },
 
@@ -124,7 +128,8 @@ export default [
       bg: 'Висок щит, който пази цялото ви тяло. Само най-хитър удар може да избегне защитата му.',
       cs: 'Vysoký štít chrání celé tělo. Pouze ta nejchytřejší rána se může vyhnout jeho ochraně.',
       ja: '体全体を守る高いシールド。最も狡猾な一撃だけがその防御を回避することができます。',
-      tr: 'Tüm vücudunuzu koruyan uzun Kalkan. Sadece en kurnaz darbeler korumasından kaçabilir.'
+      tr: 'Tüm vücudunuzu koruyan uzun Kalkan. Sadece en kurnaz darbeler korumasından kaçabilir.',
+      da: 'Langt skærm bevogter hele din krop. Kun de mest snedige af slag kan undgå sin beskyttelse.'
     }
   },
 
@@ -149,7 +154,8 @@ export default [
       cs: 'Zlaté a žluté vzory pokrývají tento štít a zobrazují vaši autoritu a moc.',
       ja: '金と黄色の模様がこの盾を覆い、あなたの権威と力を表しています。',
       tr: 'Altın ve sarı desenler bu kalkanı örter, otoritenizi ve gücünüzü gösterir.',
-      es: 'Spinas de oro y amarillo cubren este escudo, mostrando su poder y autoridad.'
+      es: 'Spinas de oro y amarillo cubren este escudo, mostrando su poder y autoridad.',
+      da: 'Guld og gule spikes belægge dette skjold, der viser din autoritet og magt.'
     }
   },
 
@@ -175,7 +181,8 @@ export default [
       sv: 'Tillverkad av obsidian och stål. Någon försökte att måla den gul.',
       ko: '흑요석과 강철로 만들었습니다. 누군가는 그것을 황당하게 노란 색으로 칠하려고했습니다.',
       ro: 'Făcut din obsidian și oțel. Cineva neglijent a încercat să-l vopsească în galben.',
-      tr: 'Obsidyen ve çelikten yapılmıştır. Birisi sarı boyamak için kötü bir girişimde bulundu.'
+      tr: 'Obsidyen ve çelikten yapılmıştır. Birisi sarı boyamak için kötü bir girişimde bulundu.',
+      da: 'Lavet af obsidian og stål. Nogen slog forsøget på at male den gul.'
     }
   },
 
@@ -200,7 +207,8 @@ export default [
       bg: 'Висок, тъмен и тежък щит, обгръщащ незащитеното ви тяло със силата на древни зверове, които някога са пребивавали в тези долини.',
       cs: 'Vysoký, tmavý a těžký štít obklopující vaše nechráněné tělo silou dávných bestií kdysi sídlících v těchto údolích.',
       ja: '背の高い、暗い、そして重い盾は、かつてこれらの谷に住んでいた古代の獣の力であなたの保護されていない体を包みます。',
-      tr: 'Uzun, karanlık ve ağır Kalkan. Korunmasız vücudunuz eski yaratıkların gücü ile kaplıdır.'
+      tr: 'Uzun, karanlık ve ağır Kalkan. Korunmasız vücudunuz eski yaratıkların gücü ile kaplıdır.',
+      da: 'Langt, mørkt og tungt skjold, der omslutter din ubeskyttede krop med magt fra gamle dyr, der engang er bosiddende i disse dale.'
     }
   },
 
@@ -225,7 +233,8 @@ export default [
       bg: 'Зловещ щит, който хвърляше мръсни клони на сенки покрай бариерите на враговете ви, за да помрачи спомените им.',
       cs: 'Zlověstný štít vrhající hnusné prameny stínů kolem bariér vašich nepřátelských mozků, aby poskvrnil jejich vzpomínky.',
       ja: '邪悪な盾があなたの敵の心の壁を越えて邪悪な影の鎖を落として彼らの記憶を傷つけます。',
-      tr: 'Düşmana gölgeler getiren uğursuz bir kalkan. Düşmanınızın anılarını kaybetmesine neden olur.'
+      tr: 'Düşmana gölgeler getiren uğursuz bir kalkan. Düşmanınızın anılarını kaybetmesine neden olur.',
+      da: 'Et uhyggeligt skjold, som støder på skyggefulde tråde, går forbi dine fjenders sindssygdomme for at smitte deres minder.'
     }
   },
 
@@ -250,7 +259,8 @@ export default [
       bg: 'Могъщ щит, излъчващ божествена светлина към вашите благородни съюзници, за да ги погълне във вълни на храброст.',
       cs: 'Silný štít, který vyzařuje božské světlo svým šlechtickým spojencům, aby je zachvátili ve vlnách srdnatosti.',
       ja: '強大な盾はあなたの高貴な同盟国に神の光を放射して彼らを勇気の波に包み込みます。',
-      tr: 'Cesur müttefiklerinize ilahi ışık yayan güçlü bir kalkan. Bu cesaret dalgaları ile onları kapsar.'
+      tr: 'Cesur müttefiklerinize ilahi ışık yayan güçlü bir kalkan. Bu cesaret dalgaları ile onları kapsar.',
+      da: 'Et mægtigt skild udstråler guddommeligt lys til dine ædle allierede for at opsluge dem i bølger af værdighed.'
     }
   }
 
