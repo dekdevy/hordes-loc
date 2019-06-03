@@ -21,7 +21,8 @@ export default [
       ht: 'Ti ak byen file, sa a pandye fèy bwa grate ti kras sou po ou pandan batay.',
       sv: 'Liten och skarp, denna hängsmycke lämnar grunda skrapar på din hud under striden.',
       ko: '작고 날카로운이 펜던트는 전투 중에 피부에 얕은 긁힌 자국을 남깁니다.',
-      ro: 'Mic și ascuțit, acest pandantiv lasă zgârieturi superficiale pe piele în timpul luptei.'
+      ro: 'Mic și ascuțit, acest pandantiv lasă zgârieturi superficiale pe piele în timpul luptei.',
+      da: 'Lille og skarp, dette vedhæng efterlader overfladisk skraber på din hud under kamp.'
     }
   },
 
@@ -47,7 +48,8 @@ export default [
       ht: 'Wouj disk ki gen fòm wòch gri ak etranj grave ekri dris encasing li.',
       sv: 'Grov skivformad grå sten med konstiga druidiska gravyrer som omsluter den.',
       ko: '거친 디스크 모양의 회색 돌에 이상한 사제 조각이 들어 있습니다.',
-      ro: 'Piatră cenușie în formă de disc, ce are niște gravuri druidice ciudate încrustate în ea.'
+      ro: 'Piatră cenușie în formă de disc, ce are niște gravuri druidice ciudate încrustate în ea.',
+      da: 'Grov skiveformet grå sten med mærkelige druidiske graveringer, der omslutter den.'
     }
   },
 
@@ -73,7 +75,8 @@ export default [
       ht: 'Pwisan Talisman transparan an vè ak yon tenti koulè wouj violèt endispoze ki montre ou mond lan nan yon limyè trist.',
       sv: 'Kraftfull transparent glas talisman med en svag lila nyans som visar dig världen i ett melankolskt ljus.',
       ko: '우울한 보라색 색조와 함께 강력한 투명 유리 부적은 당신에게 우울한 빛으로 세계를 보여줍니다.',
-      ro: 'Talismanul puternic din sticlă transparentă, cu nuanță violet slabă, îți arată lumea într-o lumină melancolică.'
+      ro: 'Talismanul puternic din sticlă transparentă, cu nuanță violet slabă, îți arată lumea într-o lumină melancolică.',
+      da: 'Kraftig gennemsigtig glas talisman med en svag lilla farvetone, der viser dig verden i et melankolsk lys.'
     }
   },
 
@@ -99,7 +102,8 @@ export default [
       ht: 'Gwo lous desaturasyon, emèt sant odè ou mete li nan kou ou.',
       sv: 'Brun desaturerad pärla som ger utspända dofter när du bär den runt nacken.',
       ko: '당신의 목에 착용하면 부패한 냄새가 나는 갈색 불포화 보석.',
-      ro: 'Bijuterie maro desaturată, emite mirosuri putrede în timp ce o porți la gât.'
+      ro: 'Bijuterie maro desaturată, emite mirosuri putrede în timp ce o porți la gât.',
+      da: 'Brun desatureret perle, der udsender uhyggelige dufte som du bærer den rundt om halsen.'
     }
   },
 
@@ -125,7 +129,8 @@ export default [
       ht: 'Lustrous asosye ble, ekspoze wispy venn blan kouri ansanm sifas esferik li yo.',
       sv: 'Ljusblå artefakt, exponerade vita vita vener som löper längs sin sfäriska yta.',
       ko: '광택있는 푸른 유물, 구형 표면을 따라 달려 드는 희미한 흰 정맥.',
-      ro: 'Artefactul albastru lucios, expune vene albe subțiri aflate de-a lungul suprafeței sale sferice.'
+      ro: 'Artefactul albastru lucios, expune vene albe subțiri aflate de-a lungul suprafeței sale sferice.',
+      da: 'Strålende blå artefakt, eksponerede, hvide hvide årer, der løber langs sin sfæriske overflade.'
     }
   },
 
@@ -151,7 +156,8 @@ export default [
       ht: 'Radyan jeyan tankou vè ki tankou revele sekrè kache lenmi ou.',
       sv: 'Strål ande Titian glasliknande pärla avslöjar din fiende gömda hemligheter.',
       ko: '적의 숨겨진 비밀을 드러내는 빛나는 타이탄 유리 같은 보석.',
-      ro: 'O bijuterie strălucitoare de titian care dezvăluie secretele ascunse ale dușmanului tău.'
+      ro: 'O bijuterie strălucitoare de titian care dezvăluie secretele ascunse ale dușmanului tău.',
+      da: 'Strålende titian glasagtige perle afslørende din fjende er skjulte hemmeligheder.'
     }
   },
 
@@ -176,7 +182,8 @@ export default [
       ht: 'Gwo wòch sa a wouj ki fèmen nan gwo twou san fon fant nwa bay lènmi ou yo yon sans jalouzi.',
       sv: 'Denna stora röda sten som är innesluten i avgrunds mörka sprickor ger dina fiender en känsla av svartsjuka.',
       ko: '어두운 붉은 균열에 둘러싸인 웅장한 빨간 돌은 당신의 원수에게 질투심을 부여합니다.',
-      ro: 'Această enormă piatră roșie înconjurată de fisuri negre abisale, oferă dușmanilor tăi un sentiment de gelozie.'
+      ro: 'Această enormă piatră roșie înconjurată de fisuri negre abisale, oferă dușmanilor tăi un sentiment de gelozie.',,
+      da: 'Denne store røde perle indesluttet i afgrund mørke fissurer giver dine fjender en følelse af jalousi.'
     }
   },
 
@@ -202,7 +209,8 @@ export default [
       ht: 'Byen file lizyè vèt trape mousseux limyè nan solèy, li fè yon bèl ak vi trè danjere.',
       sv: 'De skarpa gröna kanterna får glittrande ljus i solen, vilket gör en vacker och dödlig syn.',
       ko: '날카로운 초록색 가장자리가 태양 빛을 반사하여 아름답고 치명적인 시력을 선사합니다.',
-      ro: 'Marginile verzi ascuțite prind o lumină strălucitoare în soare, făcând o priveliște frumoasă și mortală.'
+      ro: 'Marginile verzi ascuțite prind o lumină strălucitoare în soare, făcând o priveliște frumoasă și mortală.',
+      da: 'De skarpe grønne kanter får glittende lys i solen, hvilket gør et smukt og dødeligt syn.'
     }
   },
 
@@ -228,7 +236,8 @@ export default [
       ht: 'Ti, dous ak fènwa, gem sa a possède trè perfides ke li bons anba men wielders li...',
       sv: 'Små, släta och mörka, den här pärlan har förrädiska egenskaper som den glider ut från sina handtagshänder...',
       ko: '작고 매끄럽고 어두운이 보석은 손에 들고있는 손에서 미끄러지 듯 위험한 특성을 가지고 있습니다...',
-      ro: 'Mică, netedă și întunecată, această nestemată are trăsături înșelătoare ce o fac să alunece din mâinile proprietarilor săi...'
+      ro: 'Mică, netedă și întunecată, această nestemată are trăsături înșelătoare ce o fac să alunece din mâinile proprietarilor săi...',
+      da: 'Små, glatte og mørke, denne perle besidder forræderiske træk, da det glider fra sine håndtagers hænder ...'
     }
   },
 
@@ -254,7 +263,8 @@ export default [
       ht: 'Gwo saturée plumes penk monte soti nan prismical gem à sa a. Lènmi ou gade nan je ou ak eskente...',
       sv: 'Spektakulära mättade rosa plumes stiger från denna fasetterade prismiska pärla. Dina fiender att stirra på dig med vördnad ...',
       ko: '환상적인 포화 분홍색 깃털은이 면면체의 보석으로 유명합니다. 너의 대적이 경외심으로 너를 응시하는 ...',
-      ro: 'Pene roz spectaculos saturate se ridică din această bijuterie prismică. Dușmanii tăi să se holbeze la tine cu venerație...'
+      ro: 'Pene roz spectaculos saturate se ridică din această bijuterie prismică. Dușmanii tăi să se holbeze la tine cu venerație...',
+      da: 'Spektakulære mættede lyserøde plumer stiger fra denne facetterede prismiske perle. Dine fjender til at stirre på dig med ærefrygt ...'
     }
   },
 
@@ -280,7 +290,8 @@ export default [
       ht: 'Tenyen dènye limyè green Okazyonèlman pon nan gem vè sa a, al depoze vòt pwojèksyon yo nan pwochen porteurs.',
       sv: 'Ljusgröna lampor spänner ibland ut ur den här glasstenen, framkallning av bärarens framtid.',
       ko: '밝은 녹색 불빛이 때때로이 유리 쥬얼리에서 튀어 나와 착용자의 미래를 예측합니다.',
-      ro: 'Lumini verzi strălucitoare ies ocazional din această bijuterie de sticlă, arătând proiecții despre viitorul purtătorilor.'
+      ro: 'Lumini verzi strălucitoare ies ocazional din această bijuterie de sticlă, arătând proiecții despre viitorul purtătorilor.',
+      da: 'Lys grønne lys spænder lejlighedsvist ud af denne glas perle, støber fremskrivninger af wearers fremtid.'
     }
   }
 ]
