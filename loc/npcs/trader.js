@@ -85,7 +85,7 @@ export default {
     en: 'Selling price: ',
     ru: 'Цена продажи: ',
     de: 'Verkaufspreis: ',
-    fr: 'Prix ​​de vente: ',
+    fr: 'Prix de vente: ',
     bg: 'Продажна цена: ',
     cs: 'Prodejní cena: ',
     pl: 'Cena sprzedaży: ',
