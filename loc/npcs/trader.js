@@ -18,26 +18,26 @@ export default {
     },
 
     choices: [{
-      en: 'Yes, of course.',
-      ru: 'Да, конечно.',
-      es: 'Sí, por supuesto.',
-      de: 'Ja, natürlich.',
-      fr: 'Oui, bien sûr.',
-      it: 'Sì, naturalmente.',
-      ht: 'Wi nan kou.',
-      pl: 'Tak, oczywiście.',
-      nl: 'Ja, natuurlijk.',
-      pt: 'Sim, claro que.',
-      cs: 'Ano, samozřejmě.',
-      ja: 'はい、もちろん。',
+      en: 'Yes, of course',
+      ru: 'Да, конечно',
+      es: 'Sí, por supuesto',
+      de: 'Ja, natürlich',
+      fr: 'Oui, bien sûr',
+      it: 'Sì, naturalmente',
+      ht: 'Wi nan kou',
+      pl: 'Tak, oczywiście',
+      nl: 'Ja, natuurlijk',
+      pt: 'Sim, claro que',
+      cs: 'Ano, samozřejmě',
+      ja: 'はい、もちろん',
       hi: 'हां बिल्कुल।',
-      tr: 'Evet, tabii ki.',
-      sv: 'Ja självklart.',
-      ko: '예, 물론입니다.',
-      bg: 'Да разбира се.',
-      el: 'Ναι φυσικά.',
-      ro: 'Da, desigur.',
-      tl: 'Oo naman.'
+      tr: 'Evet, tabii ki',
+      sv: 'Ja självklart',
+      ko: '예, 물론입니다',
+      bg: 'Да разбира се',
+      el: 'Ναι φυσικά',
+      ro: 'Da, desigur',
+      tl: 'Oo naman'
     }]
   }],
 
@@ -51,7 +51,14 @@ export default {
     bg: 'Продайте предметите си',
     cs: 'Prodávejte své zboží',
     pl: 'Sprzedawaj swoje przedmioty',
-    es: 'Vende sus ítemes'
+    es: 'Vende sus ítemes',
+    hi: 'अपने आइटम बेचें',
+    ko: '상품 판매',
+    tr: 'Eşyalarını sat',
+    ht: 'Vann atik ou yo',
+    tl: 'Ibenta ang iyong mga item',
+    ja: 'あなたの商品を売る',
+    el: 'Πουλήστε τα στοιχεία σας'
   },
 
   // The word "click" is not an official word in some languages, "press" would be a better variation
@@ -63,7 +70,14 @@ export default {
     pt: 'Para vender um item, clique direito ou arraste-o para a janela de negociação.',
     it: 'Per vendere un punto, clicca destro o trascinalo nella finestra del trader.',
     pl: 'Aby sprzedać przedmiot, kliknij go prawym przyciskiem myszy lub przeciągnij do okna inwestora.',
-    es: 'Para vender un artículo, haga clic derecho o arrástrelo a la ventana del operador.'
+    es: 'Para vender un artículo, haga clic derecho o arrástrelo a la ventana del operador.',
+    hi: 'किसी आइटम को बेचने के लिए, उसे राइट क्लिक करें या उसे ट्रेडर विंडो में खींचें।',
+    ko: '항목을 판매하려면 항목을 마우스 오른쪽 단추로 클릭하거나 상인 창으로 끌어다 놓으십시오.',
+    tr: 'Bir öğeyi satmak için sağ tıklayın veya tüccar penceresine sürükleyin.',
+    ht: 'Vann yon atik, klike sou li dwat oswa trennen l nan fenèt machann vann.',
+    tl: 'Upang magbenta ng isang item, i-right click ito o i-drag ito sa window ng negosyante.',
+    ja: 'アイテムを売るには、アイテムを右クリックするか、またはトレーダーウィンドウにドラッグします。',
+    el: 'Για να πουλήσετε ένα στοιχείο, κάντε δεξί κλικ ή σύρετέ το στο παράθυρο του εμπόρου.'
   },
 
   // Include punctuation and space
