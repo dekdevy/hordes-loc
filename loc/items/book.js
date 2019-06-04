@@ -20,4 +20,11 @@ export default [{
   description: {
     en: 'Enhance your shields block chance.'
   }
+},
+{
+  name: {$$: 'Crescent Swipe'},
+
+  description: {
+    en: 'Swiftly swing your sword around you, damaging enemies within a radius.'
+  }
 }]
