@@ -14,7 +14,8 @@ export default {
       tl: 'Maligayang pagdating sa pinakamahusay na mga kalakal sa paligid! Hindi ka makakahanap ng isang mas mahusay na deal kaysa sa kung ano ang mayroon ako para sa iyo; Gayunpaman, naririnig ko na mayroong isang espesyal na tindahan na may hindi kapani-paniwala na mga bagay na hindi katulad ng anumang nakita ko kailanman. Samantala, mayroon akong mga ekstrang barya at ekstrang paninda. Ano ang iyong inaalok?',
       ja: '周りの最高の商品へようこそ！あなたは私があなたのために持っているものより良い取引を見つけるつもりはありません。しかし、私が今まで見たことのないものとは違って、素晴らしいアイテムが並ぶ特別な店があると聞きます。その間に、予備のコインと予備の商品があります。何を提供していますか？',
       el: 'Καλώς ήρθατε στα καλύτερα αγαθά γύρω! Δεν πρόκειται να βρείτε μια καλύτερη συμφωνία από ό, τι έχω για σας. Ωστόσο, ακούω ότι υπάρχει ένα ειδικό κατάστημα με φανταστικά αντικείμενα σε αντίθεση με οτιδήποτε έχω δει ποτέ. Εν τω μεταξύ, έχω κάποια εφεδρικά νομίσματα και εφεδρικά αγαθά. Τι προσφέρετε;',
-      bg: 'Добре дошли в най-добрите стоки наоколо! Вие няма да намерите по-добра сделка от това, което имам за вас; обаче чувам, че има специален магазин с фантастични артикули, за разлика от всичко, което някога съм виждал. Междувременно имам резервни монети и резервни стоки. Какво предлагате?'
+      bg: 'Добре дошли в най-добрите стоки наоколо! Вие няма да намерите по-добра сделка от това, което имам за вас; обаче чувам, че има специален магазин с фантастични артикули, за разлика от всичко, което някога съм виждал. Междувременно имам резервни монети и резервни стоки. Какво предлагате?',
+      de: 'Willkommen bei den besten Waren, die es gibt! Du wirst kein besseres Angebot finden als das, was ich für dich habe; aber ich höre, dass es einen speziellen Laden mit fantastischen Gegenständen gibt, wie ich sie noch nie gesehen habe. In der Zwischenzeit habe ich einige Ersatzmünzen und Ersatzwaren. Was bieten Sie an?'
     },
 
     choices: [{
