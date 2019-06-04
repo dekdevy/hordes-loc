@@ -89,6 +89,13 @@ export default {
     bg: 'Продажна цена: ',
     cs: 'Prodejní cena: ',
     pl: 'Cena sprzedaży: ',
-    es: 'Precio de venta: '
+    es: 'Precio de venta: ',
+    hi: 'विक्रय मूल्य:',
+    ko: '판매 가격:',
+    tr: 'Satış fiyatı:',
+    ht: 'Vann pri:',
+    tl: 'Pagbebenta ng presyo:',
+    ja: '販売価格：',
+    el: 'Τιμή πωλήσεως:',
   }
 }
