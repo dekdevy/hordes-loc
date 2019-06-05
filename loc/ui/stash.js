@@ -66,7 +66,8 @@ export default {
     bg: 'Преместване в скривалище',
     cs: 'Přesuňte se na skrýš',
     ja: '隠し場所に移動',
-    ro: 'Mută în ascunzătoare.'
+    ro: 'Mută în ascunzătoare.',
+    da: 'Flyt til stash'
   },
 
   stashed: {
