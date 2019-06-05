@@ -37,7 +37,8 @@ export default {
       bg: 'Да, покажи ми нещата за продажба..',
       cs: 'Ano, ukaž mi věci na prodej.',
       ja: 'はい、商品を見せてください。',
-      sv: 'Ja, visa mig objekten till salu.'
+      sv: 'Ja, visa mig objekten till salu.',
+      da: 'Ja, vis mig varerne til salg.'
     }]
   }]
 }
