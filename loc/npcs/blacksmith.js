@@ -16,8 +16,12 @@ export default {
       ja: 'Blacksmith\'s Blessed Hammer のような追加の特別な項目がないとアップグレードは危険です。これにより、アップグレード中に項目が壊れるのを防ぐことができます。ハンマーがなければ、私たちは危険を冒します。それで、私は今日あなたのために何をアップグレードすることができますか？',
       el: 'Η αναβάθμιση είναι επικίνδυνη χωρίς πρόσθετα ειδικά στοιχεία, όπως ένα Blacksmith\'s Blessed Hammer, το οποίο μπορεί να αποτρέψει την σπάσιμο των αντικειμένων κατά τις αναβαθμίσεις. Χωρίς το σφυρί, θα διακινδυνεύσουμε. Τι μπορώ να αναβαθμίσω σήμερα;',
       bg: 'Надстройването е рисковано без допълнителни специални елементи като Blacksmith\'s Blessed Hammer, което може да попречи на елементите да се счупят по време на надстройките. Без чука ще рискуваме. И така, какво мога да направя за вас днес?',
-      hi: 'अपग्रेड करना OMG जैसी अतिरिक्त विशेष वस्तुओं के बिना जोखिम भरा है, जो आइटम को अपग्रेड के दौरान टूटने से रोक सकता है। हथौड़ा के बिना, हम एक जोखिम ले रहे होंगे। तो आज मैं आपके लिए क्या अपग्रेड कर सकता हूं?'
+      hi: 'अपग्रेड करना OMG जैसी अतिरिक्त विशेष वस्तुओं के बिना जोखिम भरा है, जो आइटम को अपग्रेड के दौरान टूटने से रोक सकता है। हथौड़ा के बिना, हम एक जोखिम ले रहे होंगे। तो आज मैं आपके लिए क्या अपग्रेड कर सकता हूं?',
+      de: 'Ein Upgrade ist riskant ohne zusätzliche Spezialgegenstände wie den Blacksmith\'s Blessed Hammer, der verhindern kann, dass Gegenstände während des Upgrades brechen. Ohne den Hammer gehen wir ein Risiko ein. Was kann ich also heute für dich upgraden?',
+      pt: 'A atualização é arriscada sem itens especiais adicionais como a Blacksmith\'s Blessed Hammer, que pode impedir que os itens quebrem durante as atualizações. Sem o martelo, estaremos correndo um risco. Então, o que posso atualizar para você hoje?',
+      it: 'L\'aggiornamento è rischioso senza ulteriori oggetti speciali come un Blacksmith\'s Blessed Hammer, che può impedire la rottura degli oggetti durante gli aggiornamenti. Senza il martello, correremo un rischio. Quindi, cosa posso aggiornare per voi oggi?'
     },
+
     choices: [{
       en: 'blacksmith open interaction'
     }]
