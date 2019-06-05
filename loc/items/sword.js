@@ -395,7 +395,8 @@ export default [
       hi: 'एक तलवार जो अतीत में कभी टूट गई थी, उसे इस महान धरती के मायावी राक्षसों ने नये से बनाया।',
       ko: '블레이드는 과거에 부서지고이 장엄한 땅의 전설적인 악마에 의해 새롭게 단련되었다고 말했습니다.',
       ja: '刃は過去に壊れたと言われて、これらの壮大な土地の伝説的な悪魔によって新しく鍛造されました。',
-      da: 'Et blad sagde at være brudt i fortiden og smedet på ny af de fantastiske dommere i disse storslåede lande.'
+      da: 'Et blad sagde at være brudt i fortiden og smedet på ny af de fantastiske dommere i disse storslåede lande.',
+      sv: 'Ett blad sägs vara brutet i det förflutna och smidda igen av de fantastiska demonerna i dessa magnifika länder.'
     }
   },
 
