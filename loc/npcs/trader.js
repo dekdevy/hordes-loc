@@ -43,7 +43,8 @@ export default {
       bg: 'Да разбира се',
       el: 'Ναι φυσικά',
       ro: 'Da, desigur',
-      tl: 'Oo naman'
+      tl: 'Oo naman',
+      da: 'Ja selvfølgelig'
     }]
   }],
 
