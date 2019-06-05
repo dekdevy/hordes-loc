@@ -32,7 +32,16 @@ export default {
     it: 'Ritirare',
     pl: 'Wycofanie',
     sv: 'Retirera',
-    ro: 'Retrage'
+    ro: 'Retrage',
+    hi: 'निकालना',
+    ko: '빼다',
+    tr: 'Çekil',
+    ht: 'Retire',
+    cs: 'Ustoupit',
+    ja: '撤回',
+    el: 'Αποσύρω',
+    bg: 'Теглене',
+    da: 'Træk'
   },
 
   stash: {
