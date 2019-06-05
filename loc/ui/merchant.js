@@ -270,5 +270,4 @@ export default {
     sv: 'Du har sålt $1 för $2',
     da: 'Du har solgt $1 til $2'
   }
-
 }
