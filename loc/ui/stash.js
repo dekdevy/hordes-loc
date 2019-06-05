@@ -79,7 +79,13 @@ export default {
     hi: '$1 को स्टैश में भेज दिया गया है',
     tl: 'Ang $1 ay inilipat sa iyong itago',
     sv: '$1 har flyttats till din stash',
-    ro: '$1 a fost mutat în ascunzătoare'
+    ro: '$1 a fost mutat în ascunzătoare',
+    ht: '$1 te deplase nan catcher ou',
+    cs: '$1 byl přesunut na vaši skrýš',
+    ja: '$1 はあなたの隠し場所に移動しました',
+    el: '$1 έχει μεταφερθεί στη θέση σας',
+    bg: '$1 е преместен в скривалището ви',
+    da: '$1 er flyttet til din stash'
   }
 
 }
