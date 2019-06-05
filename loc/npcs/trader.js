@@ -97,6 +97,12 @@ export default {
     ht: 'Vann pri: ',
     tl: 'Pagbebenta ng presyo: ',
     ja: '販売価格： ',
-    el: 'Τιμή πωλήσεως: '
+    el: 'Τιμή πωλήσεως: ',
+    sv: 'Säljande pris: ',
+    pt: 'Preço de venda: ',
+    nl: 'Verkoopprijs: ',
+    ro: 'Prețul de vânzare: ',
+    it: 'Prezzo di vendita: ',
+    da: 'Salgspris: '
   }
 }
