@@ -14,7 +14,12 @@ export default {
       tl: 'Well, tingnan kung ano ang mayroon kami dito! Hindi, ang kagamitan na hindi gagawin, gagawin ba ito? Tingnan ang bukas na merkado! Ang mga alingawngaw ay kumakalat; Narinig ko ang Warcry Scrolls na maaaring mag-teleport ng isang kaibigan sa iyong posisyon. Itabi lang natin sa pagitan natin, okay?',
       ja: 'さて、ここにあるものを見てください！いいえ、その機器はしませんか。公開市場を見てください。噂が広まっています。友人をあなたの位置にテレポートできるWarcry Scrollsについて聞いたことがあります。私たちの間でそれを保ちましょう、大丈夫ですか？',
       el: 'Λοιπόν, κοιτάξτε τι έχουμε εδώ! Όχι, ο εξοπλισμός δεν θα κάνει, έτσι; Ρίξτε μια ματιά στην ανοιχτή αγορά! Οι φήμες εξαπλώνονται. Έχω ακούσει για το Warcry Scrolls που μπορεί να τηλεφωνήσει έναν φίλο στη θέση σας. Ας κρατήσουμε αυτό μεταξύ μας, εντάξει;',
-      bg: 'Е, вижте какво имаме тук! Не, това оборудване няма да го направи, нали? Обърнете внимание на свободния пазар! Слуховете се разпространяват; Чувал съм за Warcry Scrolls, който може да телепортира приятел във вашата позиция. Нека да запазим това между нас, нали?'
+      bg: 'Е, вижте какво имаме тук! Не, това оборудване няма да го направи, нали? Обърнете внимание на свободния пазар! Слуховете се разпространяват; Чувал съм за Warcry Scrolls, който може да телепортира приятел във вашата позиция. Нека да запазим това между нас, нали?',
+      de: 'Nun, schau, was wir hier haben! Nein, diese Ausrüstung reicht nicht aus, oder? Werfen Sie einen Blick auf den freien Markt! Gerüchte verbreiten sich; ich habe von Warcry Scrolls gehört, das einen Freund zu deiner Position teleportieren kann. Lasst uns das einfach unter uns behalten, okay?',
+      es: '¡Bueno, mira lo que tenemos aquí! No, ese equipo no servirá, ¿verdad? Echa un vistazo al mercado abierto! Los rumores se extienden; he oído hablar de Warcry Scrolls que puede teletransportar a un amigo a tu posición. Mantengamos eso entre nosotros, ¿de acuerdo?',
+      fr: 'Eh bien, regardez ce que nous avons là ! Non, cet équipement ne fera pas l\'affaire, n\'est-ce pas ? Jetez un coup d\'œil au marché libre! Les rumeurs se répandent ; j\'ai entendu parler de Warcry Scrolls qui peut téléporter un ami à votre position. Gardons ça entre nous, d\'accord ?',
+      pt: 'Bem, olha o que temos aqui! Não, esse equipamento não serve, pois não? Dê uma olhada no mercado aberto! Rumores estão se espalhando; eu ouvi falar de Warcry Scrolls que pode teleportar um amigo para sua posição. Vamos manter isso entre nós, ok?',
+      it: 'Beh, guarda cosa abbiamo qui! No, quell\'attrezzatura non va bene, vero? Date un\'occhiata al mercato aperto! Le voci si stanno diffondendo; ho sentito parlare di Warcry Scrolls che può teletrasportarti un amico alla tua posizione. Facciamo in modo che tra di noi, ok?'
     },
 
     choices: [{
