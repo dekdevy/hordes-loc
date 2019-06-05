@@ -129,7 +129,15 @@ export default {
     it: 'Hai ricevuto $1',
     hi: 'आपको $1 प्राप्त हुआ है',
     da: 'Du har modtaget $1',
-    sv: 'Du har fått $1'
+    sv: 'Du har fått $1',
+    ko: '$1 를 받았습니다.',
+    ht: 'Ou te resevwa $1',
+    cs: 'Obdrželi jste $1',
+    tl: 'Nakatanggap ka ng $1',
+    ja: '$1 を受け取りました',
+    el: 'Έχετε λάβει $1',
+    bg: 'Получихте $1',
+    ro: 'Ați primit $1'
   },
 
   drop: {
