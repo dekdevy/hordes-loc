@@ -15,7 +15,8 @@ export default {
       tl: 'Ang pag-upgrade ay mapanganib nang walang karagdagang mga espesyal na item tulad ng isang Blacksmith\'s Blessed Hammer, na maaaring maiwasan ang mga item mula sa pagsira sa panahon ng pag-upgrade. Kung wala ang martilyo, magkakaroon kami ng panganib. Kaya ano ang maaari kong mag-upgrade para sa iyo ngayon?',
       ja: 'Blacksmith\'s Blessed Hammer のような追加の特別な項目がないとアップグレードは危険です。これにより、アップグレード中に項目が壊れるのを防ぐことができます。ハンマーがなければ、私たちは危険を冒します。それで、私は今日あなたのために何をアップグレードすることができますか？',
       el: 'Η αναβάθμιση είναι επικίνδυνη χωρίς πρόσθετα ειδικά στοιχεία, όπως ένα Blacksmith\'s Blessed Hammer, το οποίο μπορεί να αποτρέψει την σπάσιμο των αντικειμένων κατά τις αναβαθμίσεις. Χωρίς το σφυρί, θα διακινδυνεύσουμε. Τι μπορώ να αναβαθμίσω σήμερα;',
-      bg: 'Надстройването е рисковано без допълнителни специални елементи като Blacksmith\'s Blessed Hammer, което може да попречи на елементите да се счупят по време на надстройките. Без чука ще рискуваме. И така, какво мога да направя за вас днес?'
+      bg: 'Надстройването е рисковано без допълнителни специални елементи като Blacksmith\'s Blessed Hammer, което може да попречи на елементите да се счупят по време на надстройките. Без чука ще рискуваме. И така, какво мога да направя за вас днес?',
+      hi: 'अपग्रेड करना OMG जैसी अतिरिक्त विशेष वस्तुओं के बिना जोखिम भरा है, जो आइटम को अपग्रेड के दौरान टूटने से रोक सकता है। हथौड़ा के बिना, हम एक जोखिम ले रहे होंगे। तो आज मैं आपके लिए क्या अपग्रेड कर सकता हूं?'
     },
     choices: [{
       en: 'blacksmith open interaction'
