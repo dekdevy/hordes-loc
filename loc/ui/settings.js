@@ -20,7 +20,8 @@ export default {
     bg: 'настройки',
     el: 'Ρυθμίσεις',
     tl: 'Mga setting',
-    ro: 'Setări'
+    ro: 'Setări',
+    da: 'Indstillinger'
   },
 
   // ---- Controls
@@ -44,7 +45,8 @@ export default {
     bg: 'Контроли',
     el: 'διακόπτης',
     tl: 'Mga kontrol',
-    ro: 'Controale'
+    ro: 'Controale',
+    da: 'Controls'
   },
 
   lockedcamera: {
@@ -67,7 +69,8 @@ export default {
     bg: 'Заключена камера',
     el: 'Κλειδωμένη κάμερα',
     tl: 'naka-lock na camera',
-    ro: 'Blochează camera'
+    ro: 'Blochează camera',
+    da: 'Låst kamera'
   },
 
   // ---- Graphics
@@ -91,7 +94,8 @@ export default {
     bg: 'графика',
     el: 'γραφικών',
     tl: 'Grapika',
-    ro: 'Grafică'
+    ro: 'Grafică',
+    da: 'Grafik'
   },
 
   viewrange: {
@@ -114,7 +118,8 @@ export default {
     ht: 'Je ranje',
     ko: '범위보기',
     ja: '表示範囲',
-    tl: 'Tingnan ang saklaw'
+    tl: 'Tingnan ang saklaw',
+    da: 'View Range'
   },
 
   resolution: {
@@ -137,7 +142,8 @@ export default {
     bg: 'Резолюция',
     el: 'Ανάλυση',
     tl: 'Resolution',
-    ro: 'Rezoluție'
+    ro: 'Rezoluție',
+    da: 'Løsning'
   },
 
   skilleffects: {
@@ -160,7 +166,8 @@ export default {
     bg: 'Ефекти',
     el: 'Επιπτώσεις δεξιοτήτων',
     tl: 'Mga epekto sa kasanayan',
-    ro: 'Efectele abilităților'
+    ro: 'Efectele abilităților',
+    da: 'Færdighedseffekter'
   },
 
   shadow: {
@@ -183,7 +190,8 @@ export default {
     bg: 'Качество на сенките',
     el: 'Ποιότητα σκιάς',
     tl: 'Kalidad ng anino',
-    ro: 'Calitatea umbrelor'
+    ro: 'Calitatea umbrelor',
+    da: 'Skygge kvalitet'
   },
 
   grassamount: {
@@ -206,7 +214,8 @@ export default {
     bg: 'Kоличество трева',
     el: 'Χόρτο ποσό',
     tl: 'Damo halaga',
-    ro: 'Cantitatea de iarbă'
+    ro: 'Cantitatea de iarbă',
+    da: 'Græsbeløb'
   },
 
   // ---- Audio
@@ -230,7 +239,8 @@ export default {
     ht: 'Audio',
     ko: '오디오',
     ja: 'オーディオ',
-    tl: 'Audio'
+    tl: 'Audio',
+    da: 'Lyd'
   },
 
   // "SFX Loudness" is more suitable in some cases
@@ -254,7 +264,8 @@ export default {
     ht: 'Volim SFX',
     ko: 'SFX 볼륨',
     ja: 'SFXボリューム',
-    tl: 'Dami ng SFX'
+    tl: 'Dami ng SFX',
+    da: 'SFX Volume'
   },
 
   // ---- Chat
@@ -278,7 +289,8 @@ export default {
     bg: 'чат',
     el: 'κουβέντα',
     tl: 'Chat',
-    ro: 'Chat'
+    ro: 'Chat',
+    da: 'Snak'
   },
 
   chatwidth: {
@@ -301,7 +313,8 @@ export default {
     bg: 'Ширина на чата',
     el: 'πλάτος κουβέντα',
     tl: 'lapad ng chat',
-    ro: 'Lățime chat'
+    ro: 'Lățime chat',
+    da: 'Chat bredde'
   },
 
   chatheight: {
@@ -324,7 +337,8 @@ export default {
     bg: 'Височина на чата',
     el: 'ύψος κουβέντα',
     tl: 'taas ng chat',
-    ro: 'Înălțime chat'
+    ro: 'Înălțime chat',
+    da: 'Chat højde'
   },
 
   // ---- User interface
@@ -348,7 +362,8 @@ export default {
     ht: 'Entèfas',
     ko: '인터페이스',
     ja: 'インタフェース',
-    tl: 'Interface'
+    tl: 'Interface',
+    da: 'Interface'
   },
 
   language: {
@@ -371,7 +386,8 @@ export default {
     ht: 'Lang',
     ko: '언어',
     ja: '言語',
-    tl: 'Wika'
+    tl: 'Wika',
+    da: 'Sprog'
   },
 
   invwidth: {
@@ -390,7 +406,8 @@ export default {
     cs: 'Šířka inventáře',
     hi: 'वस्तुसूची की चौड़ाई',
     fr: 'Largeur de l\'inventaire',
-    tl: 'Lapad ng Imbentaryo'
+    tl: 'Lapad ng Imbentaryo',
+    da: 'Lagerbredde'
   },
 
   uiscale: {
@@ -412,7 +429,8 @@ export default {
     el: 'Διαβάθμιση κλίμακας',
     bg: 'Интерфейсен мащаб',
     cs: 'Měřítko rozhraní',
-    ja: 'インターフェース規模'
+    ja: 'インターフェース規模',
+    da: 'Interface skala'
   },
 
   tutorial: {
@@ -435,7 +453,8 @@ export default {
     bg: 'Учение',
     el: 'φροντιστήριο',
     tl: 'Pagtuturo',
-    ro: 'Tutorial'
+    ro: 'Tutorial',
+    da: 'Tutorial'
   },
 
   reset: {
@@ -458,6 +477,7 @@ export default {
     bg: 'Нулиране на урока',
     el: 'επαναφορά φροντιστήριο',
     tl: 'i-reset ang tutorial',
-    ro: 'Resetează tutorialul'
+    ro: 'Resetează tutorialul',
+    da: 'Reset tutorial'
   }
 }
