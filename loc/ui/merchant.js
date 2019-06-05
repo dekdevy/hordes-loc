@@ -18,7 +18,8 @@ export default {
     ko: '수색',
     ja: 'サーチ',
     ro: 'Caută',
-    hi: 'खोजे'
+    hi: 'खोजे',
+    da: 'Søg'
   },
 
   filtermine: {
@@ -39,7 +40,8 @@ export default {
     ko: '내 항목 만',
     ja: '私の商品のみ',
     ro: 'Doar obiectele mele',
-    hi: 'मेरी वस्तुएं'
+    hi: 'मेरी वस्तुएं',
+    da: 'Kun mine genstand'
   },
 
   buy: {
@@ -60,7 +62,8 @@ export default {
     ko: '물건을 사다',
     ja: '商品を購入',
     ro: 'Cumpără Obiectul',
-    hi: 'वस्तु खरीदे'
+    hi: 'वस्तु खरीदे',
+    da: 'Køb genstand'
   },
 
   post: {
@@ -69,7 +72,7 @@ export default {
     nl: 'Plaatsen Voorwerp',
     es: 'Enviar Objeto',
     fr: 'Soumettre L\'objet',
-    de: 'Item senden',
+    de: 'Item Senden',
     pt: 'Enviar Objeto',
     ko: '개체 보내기',
     pl: 'Prześlij Obiekt',
@@ -82,7 +85,8 @@ export default {
     el: 'Στείλετε Αντικειμένου',
     bg: 'Изпрати Предмет',
     cs: 'Poslat Předmět',
-    ja: 'オブジェクトを送信'
+    ja: 'オブジェクトを送信',
+    da: 'Send Genstand'
   },
 
   delist: {
@@ -103,7 +107,8 @@ export default {
     ko: '항목 삭제',
     ja: 'アイテムを無効にする',
     ro: 'Scoate Obiectul',
-    hi: 'बाज़ार से हटाएं'
+    hi: 'बाज़ार से हटाएं',
+    da: 'Fjern element fra liste'
   },
 
   // Include the space and punctuation
@@ -125,7 +130,8 @@ export default {
     ko: '가격: ',
     ja: '価格: ',
     ro: 'Preț: ',
-    hi: 'कीमत: '
+    hi: 'कीमत: ',
+    da: 'Pris:'
   },
 
   // Include the space and punctuation
@@ -147,7 +153,8 @@ export default {
     ko: '보수: ',
     ja: '費用: ',
     ro: 'Taxă: ',
-    hi: 'कीमत: '
+    hi: 'कीमत: ',
+    da: 'Skat: '
   },
 
   dragitem: {
@@ -168,7 +175,8 @@ export default {
     ko: '항목을 슬롯으로 드래그하십시오.',
     ja: 'アイテムをスロットにドラッグ',
     ro: 'Pune obiectul la locul lui',
-    hi: 'वस्तु खीच कर खांचे में डाल दे'
+    hi: 'वस्तु खीच कर खांचे में डाल दे',
+    da: 'Træk genstand i slot'
   },
 
   auctionpost: {
@@ -191,7 +199,8 @@ export default {
     bg: 'Публикували сте $1 за продажба',
     cs: 'Zveřejnili jste $1 na prodej',
     ja: 'あなたは販売のために $1 を投稿しました',
-    ro: 'Ai postat $1 pentru vânzare'
+    ro: 'Ai postat $1 pentru vânzare',
+    da: 'Du har indsendt $1 til salg'
   },
 
   auctioncancel: {
@@ -203,7 +212,7 @@ export default {
     it: 'Articolo cancellato e inviato a magazzino',
     fr: 'Objet retiré des enchères et envoyé dans la planque',
     pl: 'Przedmiot usunięty z wykazu i wysłany do przechowania.',
-    es: 'Artículo retirado de la lista y enviado a esconder',
+    es: 'Artículo retirado de la lista y enviado a su alijo',
     tl: 'Inalis ang item at ipinadala sa itago',
     el: 'Το στοιχείο αποσυντεθεί και αποστέλλεται στο στήθος',
     bg: 'Предмет се изтегля от продажба и се поставя в гърдите',
@@ -212,13 +221,14 @@ export default {
     ko: '상장 폐지 된 물품',
     ja: '上場廃止されたアイテム',
     ro: 'Obiect delistat și pus la păstrare',
-    hi: 'वस्तु को बाज़ार से हटाकर आपके स्टैश में भेज दिया गया है'
+    hi: 'वस्तु को बाज़ार से हटाकर आपके स्टैश में भेज दिया गया है',
+    da: 'Genstand afnoteret og sendt til stash'
   },
 
   auctionbuy: {
     en: 'Item purchased for $1 coins and sent to your stash',
     ru: 'Предмет, купленный за $1, отправлен в ваш сундук',
-    es: 'Artículo comprado por $1 monedas y enviado a su stash',
+    es: 'Artículo comprado por $1 monedas y enviado a su alijo',
     fr: 'Article acheté pour $1 pièces et envoyé dans votre planque',
     de: 'Artikel, der für $1 Münzen gekauft und an Ihr Versteck geschickt wurde',
     pt: 'Item comprado por $1 moedas e enviado para o seu Cesto',
@@ -234,13 +244,14 @@ export default {
     ja: '$1 枚のコインで購入し、あなたの隠し場所に送られるアイテム',
     ko: '$1 동전으로 구입하여 은닉 한 물품',
     ro: 'Obiect cumpărat pentru $1 monede și trimis în inventarul tău',
-    hi: 'अपने $1 सिक्कों में वस्तु खरीद ली है और उसे आपके स्टैश में भेज दिया गया है'
+    hi: 'अपने $1 सिक्कों में वस्तु खरीद ली है और उसे आपके स्टैश में भेज दिया गया है',
+    da: 'Vare købt til $1 mønter og sendt til din stash'
   },
 
   sell: {
     en: 'You have sold $1 for $2',
     nl: 'U heeft verkocht $1 aan $2',
-    es: 'Usted ha vendido $1 por $2',
+    es: 'Ha vendido $1 por $2',
     pt: 'Você vendeu $1 por $2',
     it: 'Hai venduto $1 per $2',
     pl: 'Sprzedałeś $1 za $2',
@@ -256,7 +267,8 @@ export default {
     tl: 'Binebenta mo na $1 Para sa $2',
     ht: 'Ou te vann $1 pou $2',
     ko: '$1 에 $1 를 판매했습니다',
-    sv: 'Du har sålt $1 för $2'
+    sv: 'Du har sålt $1 för $2',
+    da: 'Du har solgt $1 til $2'
   }
 
 }

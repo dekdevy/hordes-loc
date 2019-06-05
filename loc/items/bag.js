@@ -21,7 +21,8 @@ export default [
       ht: 'Valiz ti kras la itilize yo dwe itilize pa madanm yo nan komèsan yo.',
       hi: 'व्यपारीयो की पत्नीयों द्वारा इस्तमाल की जाने वाली पर्स।',
       ko: '상인의 아내가 사용하는 작은 지갑.',
-      ro: 'O mică poșetă folosită de soțiile negustorilor.'
+      ro: 'O mică poșetă folosită de soțiile negustorilor.',
+      da: 'Lille lille taske, der bruges af købmandens hustruer.'
     }
   },
 
@@ -47,7 +48,8 @@ export default [
       ht: 'Bouk la vo pi plis pase nenpòt lòt bagay.',
       hi: 'इसका बकसुआ बाकी की पोटली से ज़्यादा कीमती है।',
       ko: '버클은 그 나머지 부분보다 더 가치가 있습니다.',
-      ro: 'Catarama merită mai mult decât restul.'
+      ro: 'Catarama merită mai mult decât restul.',
+      da: 'Spænde er mere værd end resten af ​​det.'
     }
   },
 
@@ -73,7 +75,8 @@ export default [
       ht: 'Valiz valiz bèl pou nenpòt ki vwayajè bezwen yo.',
       hi: 'यात्रा में आपकी सारी जरूरतों के लिए एक अच्छा बैंगनी बस्ता।',
       ko: '모든 여행에 필요한 멋진 보라색 배낭.',
-      ro: 'Un rucsac frumos violet pentru toate nevoile tale.'
+      ro: 'Un rucsac frumos violet pentru toate nevoile tale.',
+      da: 'Nice lilla rygsæk til alle dine rejsebehov.'
     }
   },
 
@@ -99,7 +102,8 @@ export default [
       ko: '엘프 궁수들이 말을 타고 사용하는 우아한 가방.',
       el: 'Κομψή τσάντα που χρησιμοποιείται από ελκυστικούς τοξότες με άλογο.',
       bg: 'Елегантна чанта, използвана от елфски стрелци на кон.',
-      ro: 'O geantă elegantă folosită de arcașii elfi pe cai.'
+      ro: 'O geantă elegantă folosită de arcașii elfi pe cai.',
+      da: 'Elegant taske brugt af elven bueskytter på hesteryg.'
     }
   },
 
@@ -125,7 +129,8 @@ export default [
       ko: '지의 스레드에서 짜여진,이 가방의 건설은 수수께끼로 남아 있습니다.',
       el: 'Υφαντό από νήματα από λειχήνες η κατασκευή αυτής της τσάντας παραμένει μυστήριο.',
       bg: 'Изработен от нишки от лихен, конструкцията на тази чанта остава загадка.',
-      ro: 'Țesută din fire de licheni, construcția acestui sac rămâne un mister.'
+      ro: 'Țesută din fire de licheni, construcția acestui sac rămâne un mister.',
+      da: 'Vævet af tråde af lav, er opbygningen af ​​denne taske et mysterium.'
     }
   }
 

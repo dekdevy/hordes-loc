@@ -14,17 +14,18 @@ export default {
     de: 'Party einladung',
     fr: 'Inviter à rejoindre une Party',
     ht: 'Party envite',
-    es: 'Party Invita',
+    es: 'Invitación a Party',
     tr: 'Party davet et',
     cs: 'Pozvat Party',
     ja: 'Party への招待',
     hi: 'Party में आमंत्रण',
-    sv: 'Party inbjudan',
+    sv: 'Party Inbjudan',
     ko: 'Party 초대',
     bg: 'Покана за Party',
     el: 'Πρόσκληση Party',
-    tl: 'Party imbitahan',
-    ro: 'Invitație la Party'
+    tl: 'Party Imbitahan',
+    ro: 'Invitație la Party',
+    da: 'Invitere til Party'
   },
 
   // DO NOT translate Party
@@ -48,7 +49,8 @@ export default {
     bg: 'Изритай от Party',
     el: 'λάκτισμα party',
     tl: 'Party sipa',
-    ro: 'Lovitură de Party'
+    ro: 'Lovitură de Party',
+    da: 'Kick ud af Party'
   },
 
   // DO NOT translate Party
@@ -72,7 +74,8 @@ export default {
     bg: 'Излизане от Party',
     el: 'Αφήστε Party',
     tl: 'Iwanan ang Party',
-    ro: 'Părăsește Party'
+    ro: 'Părăsește Party',
+    da: 'Forlad Party'
   },
 
   // DO NOT translate Party
@@ -86,7 +89,7 @@ export default {
     de: 'Party Erstellen',
     fr: 'Créer une Party',
     ht: 'Kreye Party',
-    es: 'Crear Party',
+    es: 'Crear un Party',
     tr: 'Party oluştur',
     cs: 'Vytvořit Party',
     ja: 'Partyを作成',
@@ -96,7 +99,8 @@ export default {
     bg: 'Създаване на Party',
     el: 'Δημιουργία Party',
     tl: 'Lumikha ng Party',
-    ro: 'Creează Party'
+    ro: 'Creează Party',
+    da: 'Opret Party'
   },
 
   // DO NOT translate Party
@@ -155,7 +159,7 @@ export default {
     de: 'Einladungslink',
     ru: 'Пригласительная ссылка',
     nl: 'Uitnodigingslink',
-    es: 'Invitación enlace',
+    es: 'Enlace de invitación ',
     tr: 'Davet linki',
     pt: 'Link para o convite',
     pl: 'Link zaproszenia',
@@ -181,7 +185,7 @@ export default {
     it: 'Invia questo link ad altri giocatori! Questo permetterà loro di unirsi alla tua Party.',
     de: 'Sende diesen Link an andere Spieler! Dies wird es ihnen ermöglichen, sich deiner Party anzuschließen.',
     nl: 'Stuur deze link naar andere spelers! Dit zal hen in staat stellen om zich aan te sluiten bij je Party.',
-    es: '¡Envíta este enlace a otros jugadores! Esto los permitirá a juntar en to Party.',
+    es: '¡Envía este enlace a otros jugadores! Esto los permitirá a juntar en tu Party.',
     tr: 'Bu bağlantıyı diğer oyunculara gönder! Bu onların Party katılmasını sağlayacak.',
     cs: 'Pošlete tento odkaz ostatním hráčům!  To jim umožní připojit se k vaší Party.',
     ja: '他のプレイヤーにこのリンクを送ってください！これにより、彼らはあなたのPartyに参加することができます。',
@@ -201,7 +205,7 @@ export default {
     */
     en: 'Copy to Clipboard',
     ru: 'Копировать в буфер',
-    es: 'Copia a su Portapapele',
+    es: 'Copia a su Portapapeles',
     de: 'In die Zwischenablage kopieren',
     fr: 'Copier le lien',
     tr: 'Bağlantıyı kopyala',

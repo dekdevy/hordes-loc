@@ -20,7 +20,7 @@ module.exports = {
     }],
     'newline-per-chained-call': 'error',
     'no-useless-return': 'error',
-    'max-len': ['error', { 'code': 80, 'comments':150, 'tabWidth':2, 'ignoreStrings':true, 'ignoreTemplateLiterals':true }],
+    'max-len': ['error', { 'code': 80, 'comments':200, 'tabWidth':2, 'ignoreStrings':true, 'ignoreTemplateLiterals':true }],
     'no-var': 'error',
     'prefer-const': 'error',
     'no-unused-vars': ['error', { 'args': 'none' }],

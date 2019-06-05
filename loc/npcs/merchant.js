@@ -1,7 +1,9 @@
 export default {
   interactions: [{
     text: {
-      en: 'Well, look what we have here! No, that equipment won’t do, will it? Take a look at the open market! Rumours are spreading; I’ve heard of Warcry Scrolls that can teleport a friend to your position. Let’s just keep that between us, okay?'
+      en: 'Well, look what we have here! No, that equipment won’t do, will it? Take a look at the open market! Rumours are spreading; I’ve heard of Warcry Scrolls that can teleport a friend to your position. Let’s just keep that between us, okay?',
+      ru: 'Ну что ж, посмотрим что у нас тут! Ваша экипировка никуда не годится, не так ли? Взгляните на мою распродажу! Ходят слухи; я слышал о Warcry Scrolls, которые могут телепортировать вашего друга к вам. Только между нами, хорошо?',
+      sv: 'Men, vad har vi här då! Nej, den utrustningen duger nog inte. Sök på den öppna marknaden. Rykten sprids; jag har hört talas om Warcry Scrolls som kan teleportera en vän till din position. Det stannar mellan oss, okej?'
     },
 
     choices: [{

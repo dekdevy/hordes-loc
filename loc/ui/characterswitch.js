@@ -19,7 +19,8 @@ export default {
     pt: 'Sair',
     pl: 'Wyloguj się',
     ht: 'Dekonekte',
-    ro: 'Deconectare'
+    ro: 'Deconectare',
+    da: 'Afslut'
   },
 
   home: {
@@ -41,6 +42,7 @@ export default {
     pt: 'Início',
     pl: 'Domu',
     ht: 'Paj lakay',
-    ro: 'Acasă'
+    ro: 'Acasă',
+    da: 'Gå hjem'
   }
 }
