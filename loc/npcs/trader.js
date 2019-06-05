@@ -65,7 +65,10 @@ export default {
     ht: 'Vann atik ou yo',
     tl: 'Ibenta ang iyong mga item',
     ja: 'あなたの商品を売る',
-    el: 'Πουλήστε τα στοιχεία σας'
+    el: 'Πουλήστε τα στοιχεία σας',
+    pt: 'Vender seus itens',
+    nl: 'Verkoop je items',
+    da: 'Sælg dine varer'
   },
 
   info: {
