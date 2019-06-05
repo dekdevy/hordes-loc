@@ -42,7 +42,8 @@ export default {
       bg: 'Моля, закарайте ме до $ 1.',
       el: 'Παρακαλώ με φέρτε σε $ 1.',
       ro: 'Te rog, du-mă la $1.',
-      tl: 'Mangyaring dalhin ako sa $1'
+      tl: 'Mangyaring dalhin ako sa $1',
+      da: 'Tag mig med til $1'
     }]
   }]
 }
