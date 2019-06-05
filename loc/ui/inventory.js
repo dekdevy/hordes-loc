@@ -180,7 +180,10 @@ export default {
     ja: '装備アイテム',
     ko: '장비 아이템',
     sv: 'Utrusta föremål',
-    da: 'Udstyr genstand'
+    da: 'Udstyr genstand',
+    de: 'Statten Sie Ihren Items aus.',
+    fr: 'Equipez votre item',
+    nl: 'Rust uw item uit'
   },
 
   use: {
