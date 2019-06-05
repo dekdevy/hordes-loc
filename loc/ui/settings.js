@@ -119,7 +119,7 @@ export default {
     ko: '범위보기',
     ja: '表示範囲',
     tl: 'Tingnan ang saklaw',
-    da: 'View Range'
+    da: 'Omfang af synet'
   },
 
   resolution: {
@@ -243,7 +243,6 @@ export default {
     da: 'Lyd'
   },
 
-  // "SFX Loudness" is more suitable in some cases
   sfxvolume: {
     en: 'SFX Volume',
     ru: 'Громкость эффектов',
@@ -265,7 +264,7 @@ export default {
     ko: 'SFX 볼륨',
     ja: 'SFXボリューム',
     tl: 'Dami ng SFX',
-    da: 'SFX Volume'
+    da: 'Volumen af SFX'
   },
 
   // ---- Chat
@@ -290,7 +289,7 @@ export default {
     el: 'κουβέντα',
     tl: 'Chat',
     ro: 'Chat',
-    da: 'Snak'
+    da: 'Chat'
   },
 
   chatwidth: {
@@ -363,7 +362,7 @@ export default {
     ko: '인터페이스',
     ja: 'インタフェース',
     tl: 'Interface',
-    da: 'Interface'
+    da: 'Grænseflade'
   },
 
   language: {
@@ -430,7 +429,7 @@ export default {
     bg: 'Интерфейсен мащаб',
     cs: 'Měřítko rozhraní',
     ja: 'インターフェース規模',
-    da: 'Interface skala'
+    da: 'Grænseflade skala'
   },
 
   tutorial: {
@@ -478,6 +477,6 @@ export default {
     el: 'επαναφορά φροντιστήριο',
     tl: 'i-reset ang tutorial',
     ro: 'Resetează tutorialul',
-    da: 'Reset tutorial'
+    da: 'Nulstil tutorial'
   }
 }
