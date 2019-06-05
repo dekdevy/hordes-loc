@@ -62,7 +62,6 @@ export default {
     el: 'Πουλήστε τα στοιχεία σας'
   },
 
-  // The word "click" is not an official word in some languages, "press" would be a better variation
   info: {
     en: 'To sell an item, right click it or drag it into the trader window.',
     ru: 'Чтобы продать предмет, нажмите его правой кнопкой мыши или перетащите в окно трейдера.',
@@ -78,7 +77,12 @@ export default {
     ht: 'Vann yon atik, klike sou li dwat oswa trennen l nan fenèt machann vann.',
     tl: 'Upang magbenta ng isang item, i-right click ito o i-drag ito sa window ng negosyante.',
     ja: 'アイテムを売るには、アイテムを右クリックするか、またはトレーダーウィンドウにドラッグします。',
-    el: 'Για να πουλήσετε ένα στοιχείο, κάντε δεξί κλικ ή σύρετέ το στο παράθυρο του εμπόρου.'
+    el: 'Για να πουλήσετε ένα στοιχείο, κάντε δεξί κλικ ή σύρετέ το στο παράθυρο του εμπόρου.',
+    de: 'Um einen Gegenstand zu verkaufen, klicken Sie ihn mit der rechten Maustaste an oder ziehen Sie ihn in das Händlerfenster.',
+    sv: 'För att sälja ett objekt högerklickar du på det eller drar det i handelsfönstret.',
+    fr: 'Pour vendre un objet, cliquez dessus avec le bouton droit de la souris ou faites-le glisser dans la fenêtre du commerçant.',
+    nl: 'Om een artikel te verkopen, klik er met de rechtermuisknop op of sleep het naar het handelaarsvenster.',
+    da: 'For at sælge et emne skal du højreklikke på det eller trække det i handlervinduet.'
   },
 
   // Include punctuation and space
