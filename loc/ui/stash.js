@@ -17,7 +17,10 @@ export default {
     ko: '이 항목을 가져올 때까지 기다려야합니다.',
     ja: 'このアイテムを取得できるようになるまで待つ必要があります。',
     hi: 'आपको इस आइटम को पुनः प्राप्त करने तक इंतजार करना होगा।',
-    ro: 'Trebuie să aștepți până să poți recupera acest obiect.'
+    ro: 'Trebuie să aștepți până să poți recupera acest obiect.',
+    ht: 'Ou dwe rete jiskaske ou ka rekipere atik sa a.',
+    el: 'Πρέπει να παρακολουθείτε μέχρι να μπορείτε να ανακτήσετε αυτό το στοιχείο.',
+    da: 'Du skal til, indtil du kan hente denne vare.'
   },
 
   withdraw: {
