@@ -3,7 +3,18 @@ export default {
     text: {
       en: 'Well, look what we have here! No, that equipment won’t do, will it? Take a look at the open market! Rumours are spreading; I’ve heard of Warcry Scrolls that can teleport a friend to your position. Let’s just keep that between us, okay?',
       ru: 'Ну что ж, посмотрим что у нас тут! Ваша экипировка никуда не годится, не так ли? Взгляните на мою распродажу! Ходят слухи; я слышал о Warcry Scrolls, которые могут телепортировать вашего друга к вам. Только между нами, хорошо?',
-      sv: 'Men, vad har vi här då! Nej, den utrustningen duger nog inte. Sök på den öppna marknaden. Rykten sprids; jag har hört talas om Warcry Scrolls som kan teleportera en vän till din position. Det stannar mellan oss, okej?'
+      sv: 'Men, vad har vi här då! Nej, den utrustningen duger nog inte. Sök på den öppna marknaden. Rykten sprids; jag har hört talas om Warcry Scrolls som kan teleportera en vän till din position. Det stannar mellan oss, okej?',
+      da: 'Nå, se hvad vi har her! Nej, det udstyr vil det ikke gøre, vil det? Tag et kig på det åbne marked! Rygerne spredes; Jeg har hørt om Warcry Scrolls, der kan teleportere en ven til din position. Lad os bare holde det mellem os, okay?',
+      hi: 'अच्छा, देखो हमारे यहाँ क्या है! नहीं, यह उपकरण नहीं करेगा, क्या यह होगा? खुले बाजार पर एक नजर! अफवाहें फैल रही हैं; मैंने Warcry Scrolls के बारे में सुना है जो आपके स्थान पर किसी मित्र को टेलीपोर्ट कर सकता है। चलो बस हमारे बीच रखें, ठीक है?',
+      ko: '글쎄, 우리가 여기있는 걸 봐! 아니, 그 장비는하지 않을거야, 그렇지? 공개 시장을 한번보세요! 소문이 퍼지고있다. 친구를 당신의 위치로 텔레포트시킬 수있는 와르시 Warcry Scrolls에 대해 들었습니다. 우리 사이에 그걸 지키자. 알았지?',
+      nl: 'Wel, kijk wat we hier hebben! Nee, dat apparaat doet het niet, toch? Bekijk de open markt! Geruchten verspreiden zich; Ik heb gehoord van Warcry Scrolls dat een vriend kan teleporteren naar jouw positie. Laten we dat gewoon tussen ons houden, oké?',
+      ht: 'Oke, gade sa nou genyen isit la! Non, ekipman sa a pa pral fè, èske li pral? Gade sou mache lib la! Rimè ap gaye; Mwen tande pale de Warcry Scrolls ki ka teleporte yon zanmi nan pozisyon ou. Ann jis kenbe sa ant nou, oke?',
+      pl: 'Popatrz, co tu mamy! Nie, ten sprzęt nie będzie, prawda? Spójrz na otwarty rynek! Pogłoski się rozprzestrzeniają; Słyszałem o Warcry Scrolls, który może teleportować przyjaciela na twoją pozycję. Zatrzymajmy to między nami, dobrze?',
+      cs: 'Podívej, co tu máme! Ne, to vybavení nebude, že? Podívejte se na otevřený trh! Šíří se zvěsti; Slyšel jsem o společnosti Warcry Scrolls, která může teleportovat přítele do vaší pozice. Udržujme to mezi námi, dobře?',
+      tl: 'Well, tingnan kung ano ang mayroon kami dito! Hindi, ang kagamitan na hindi gagawin, gagawin ba ito? Tingnan ang bukas na merkado! Ang mga alingawngaw ay kumakalat; Narinig ko ang Warcry Scrolls na maaaring mag-teleport ng isang kaibigan sa iyong posisyon. Itabi lang natin sa pagitan natin, okay?',
+      ja: 'さて、ここにあるものを見てください！いいえ、その機器はしませんか。公開市場を見てください。噂が広まっています。友人をあなたの位置にテレポートできるWarcry Scrollsについて聞いたことがあります。私たちの間でそれを保ちましょう、大丈夫ですか？',
+      el: 'Λοιπόν, κοιτάξτε τι έχουμε εδώ! Όχι, ο εξοπλισμός δεν θα κάνει, έτσι; Ρίξτε μια ματιά στην ανοιχτή αγορά! Οι φήμες εξαπλώνονται. Έχω ακούσει για το Warcry Scrolls που μπορεί να τηλεφωνήσει έναν φίλο στη θέση σας. Ας κρατήσουμε αυτό μεταξύ μας, εντάξει;',
+      bg: 'Е, вижте какво имаме тук! Не, това оборудване няма да го направи, нали? Обърнете внимание на свободния пазар! Слуховете се разпространяват; Чувал съм за Warcry Scrolls, който може да телепортира приятел във вашата позиция. Нека да запазим това между нас, нали?'
     },
 
     choices: [{
