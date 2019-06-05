@@ -88,7 +88,8 @@ export default {
     ja: '$1 はあなたの隠し場所に移動しました',
     el: '$1 έχει μεταφερθεί στη θέση σας',
     bg: '$1 е преместен в скривалището ви',
-    da: '$1 er flyttet til din stash'
+    da: '$1 er flyttet til din stash',
+    ko: '$1 가 숨겨지기로 옮겼습니다.'
   }
 
 }
