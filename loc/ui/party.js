@@ -217,15 +217,16 @@ export default {
     it: 'Copia negli Appunti',
     pt: 'Copiar para Área de transferência',
     pl: 'Skopiować do schowka.',
-    cs: 'Zkopírovat do schránky',
+    cs: 'Kopírovat do vyrovnávací paměti',
     ja: 'クリップボードにコピー',
     hi: 'क्लिपबोर्ड पर कॉपी करें',
-    ht: 'Kopi nan clipboard',
+    ht: 'Kopi nan tanpon',
     sv: 'Kopiera till Urklipp',
     ko: '클립 보드에 복사',
-    bg: 'Копирай',
+    bg: 'Копиране в буфер',
     el: 'Αντιγραφή στο πρόχειρο',
     tl: 'Kopyahin sa clipboard',
-    ro: 'Copiați în clipboard'
+    ro: 'Copiați în clipboard',
+    da: 'Kopier til buffer'
   }
 }
