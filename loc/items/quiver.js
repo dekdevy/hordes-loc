@@ -2,7 +2,7 @@ export default [
   {
     name       : {$$: 'Linen Quiver' },
     description: {
-      en: 'Soft, full of holes. Arrows keep falling out',
+      en: 'Soft, full of holes. Arrows keep falling out.',
       ru: 'Мягкий, дырявый. Стрелы постоянно выпадают.',
       de: 'Weich, voller Löcher. Pfeile fallen immer wieder heraus.',
       es: 'Si, los calcetines también pueden ser una aljaba.',
