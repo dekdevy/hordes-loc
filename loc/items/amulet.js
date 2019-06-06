@@ -20,7 +20,8 @@ export default [
       ja: '燃やされた成分はひねられて、一緒に結ばれて弱い保護のお守りを形成しました。このような単純なお守りを作ることは、古くからの一般的な生存戦略です。',
       ht: 'Engredyan boule yo te trese ak mare ansanm yo fòme yon Hamlet nan pwoteksyon mèg. Kreye Hamlet senp tankou sa a te yon taktik siviv komen depi tan lontan.',
       sv: 'Brända ingredienser har vridits och binds ihop för att bilda en amulett av mager skydd. Att skapa enkla amuletter som detta har varit en vanlig överlevnadstaktik sedan antiken.',
-      ko: '타 버린 성분들이 꼬여서 묶여서 약한 보호 장치가되었습니다. 이와 같은 단순한 부적을 만드는 것은 고대부터 일반적인 생존 전술이었습니다.'
+      ko: '타 버린 성분들이 꼬여서 묶여서 약한 보호 장치가되었습니다. 이와 같은 단순한 부적을 만드는 것은 고대부터 일반적인 생존 전술이었습니다.',
+      ro: 'Ingrediente arse au fost răsucite și îmbinate împreună pentru a forma o amuletă de protecție slabă. Crearea unor amulete simple ca aceasta a fost o tactică comună de supraviețuire încă din antichitate.'
     }
   },
 
@@ -45,7 +46,8 @@ export default [
       ja: 'オオカミを奴隷状態に保つためのつばは、厚い革で作られています。それらの中にはまだチェーンリンクが接続されているものもありますが、すべてのオオカミ首輪は頑丈です。いくつかの襟は精神的な保護が染み込んでいます。',
       ht: 'Kolye pou kenbe chen mawon nan esklavaj yo te fè soti nan yon kwi epè. Kèk nan yo toujou gen lyen chèn ki konekte, men tout kolye bèt yo solid. Gen kèk kolye anprint ak pwoteksyon espirityèl.',
       sv: 'Krage för att hålla vargarna i tjänstgöring är gjorda av ett tjockt läder. Vissa av dem har fortfarande kedjelänkar anslutna, men alla vargkrafter är robusta. Vissa halsband är prydda med andligt skydd.',
-      ko: '늑대를 노예 상태로 유지할 수있는 고리는 두꺼운 가죽으로 만듭니다. 그들 중 일부는 여전히 연결 고리가 연결되어 있지만 모든 늑대 고리는 견고합니다. 일부 고리는 영적 보호를받습니다.'
+      ko: '늑대를 노예 상태로 유지할 수있는 고리는 두꺼운 가죽으로 만듭니다. 그들 중 일부는 여전히 연결 고리가 연결되어 있지만 모든 늑대 고리는 견고합니다. 일부 고리는 영적 보호를받습니다.',
+      ro: 'Zgărzile pentru a ține lupii în servitute sunt făcute dintr-o piele groasă. Unele dintre ele încă mai au lanțuri atașate de ele, dar toate gulerele pentru lupi sunt robuste. Unele zgărzi sunt îmbibate cu protecție spirituală.'
     }
   },
 
@@ -70,7 +72,8 @@ export default [
       ja: 'このネックレスは、さまざまな強い生き物からの骨片で構成されています。それぞれの骨のネックレスは骨の起源に基づいて保護が異なります。',
       ht: 'Kolye sa a konsiste de fragman zo ki sòti nan yon varyete de bèt fò. Chak kolye zo varye nan pwoteksyon ki baze sou orijin zo yo.',
       sv: 'Detta halsband består av benfragment från en rad starka varelser. Varje benhalsband varierar i skydd baserat på benens ursprung.',
-      ko: '이 목걸이는 다양한 강력한 생물의 뼈 조각으로 구성되어 있습니다. 각 뼈 목걸이는 뼈의 기원에 따라 보호가 다릅니다.'
+      ko: '이 목걸이는 다양한 강력한 생물의 뼈 조각으로 구성되어 있습니다. 각 뼈 목걸이는 뼈의 기원에 따라 보호가 다릅니다.',
+      ro: 'Acest colier este compus din fragmente de oase a unei varietate de creaturi puternice. Fiecare colier de os variază în funcție de originea oaselor.'
     }
   },
 
@@ -95,7 +98,8 @@ export default [
       ja: '犠牲者の体に残された恐ろしい狼の爪は、神秘的な油で油を注がれて、瞑想を通して精神的な強さで点滴されました。これらのお守りのクリエイターは、これらの精神的な保護がいつか復讐のために使われることを望みました。',
       ht: 'Grif lougawou ki te rete dèyè sou kò moun ki viktim yo te wenn ak lwil mistik e yo te enstale avèk lapenn espirityèl nan meditasyon. Créateur yo nan Hamlet sa yo te espere ke pwoteksyon sa yo espirityèl ta yon sèl jou a dwe itilize pou tire revanj.',
       sv: 'Fruktansvärda varulvsklor som lämnades på offrens kroppar smorde med mystiska oljor och inleddes med andlig kraft genom meditation. Skaparna av dessa amuletter hoppades att dessa andliga skydd skulle en dag användas för hämnd.',
-      ko: '희생 된 사람들의 몸에 남겨진 두려운 늑대 인간 발톱은 신비한 기름으로 기름을 바르고 명상을 통해 영적 불굴의 정신으로 불타 올랐습니다. 이 부적의 창시자는이 영적 보호가 언젠가 복수로 사용되기를 바랐습니다.'
+      ko: '희생 된 사람들의 몸에 남겨진 두려운 늑대 인간 발톱은 신비한 기름으로 기름을 바르고 명상을 통해 영적 불굴의 정신으로 불타 올랐습니다. 이 부적의 창시자는이 영적 보호가 언젠가 복수로 사용되기를 바랐습니다.',
+      ro: 'Ghearele unui vârcolac temut care au fost lăsate în urmă pe corpurile victimelor, au fost unse cu uleiuri mistice și insuflate cu tărie spirituală ob; prin meditație. Creatorii acestor amulete au sperat că aceste protecții spirituale vor fi folosite într-o zi pentru răzbunare.'
     }
   },
 
@@ -120,7 +124,8 @@ export default [
       ja: 'タロンが見つかったとき、それは山の中の神聖な鳥からの贈り物と考えられていました。山の僧侶たちは、戦いの間に侵入者から身を守るために、綱を使って精神的なお守りを作りました。',
       ht: 'Lè yon talon te jwenn, li te konsidere kòm yon kado nan zwazo yo sakre nan mòn yo. Relijyeu yo nan mòn yo te itilize talon yo pou pwodwi Hamlet espirityèl yo pou pwoteje tèt yo kont anvayisè yo pandan batay la.',
       sv: 'När en talon hittades, ansågs den vara en gåva från de heliga fåglarna i bergen. Munkarna i bergen använde talonerna för att producera andliga amuletter för att skydda sig från invaderare under striden.',
-      ko: '탈론이 발견되었을 때, 그것은 산속에있는 신성한 새들의 선물로 간주되었습니다. 산 속 승려들은 전투 중에 침략자들로부터 스스로를 보호 할 수있는 영적인 부적을 만들기 위해 발톱을 사용했습니다.'
+      ko: '탈론이 발견되었을 때, 그것은 산속에있는 신성한 새들의 선물로 간주되었습니다. 산 속 승려들은 전투 중에 침략자들로부터 스스로를 보호 할 수있는 영적인 부적을 만들기 위해 발톱을 사용했습니다.',
+      ro: 'Când a fost găsită o ghiară, a fost considerată un dar de la păsările sacre din munți. Călugării din munți au folosit gheare pentru a produce amulete spirituale pentru a se proteja de invadatori în timpul bătăliilor.'
     }
   },
 
@@ -145,7 +150,8 @@ export default [
       ja: '古代の砂漠の人々は特別な石を集めて、奇妙な、暗い魔法でスカラベにそれらを形作りました。その古代文明の多くの重要な人々は身長と保護のためにこれらのお守りを身に着けていました。',
       ht: 'Moun dezè ansyen yo kolekte wòch espesyal ak ki gen fòm yo nan skarabe ak etranj, majik nwa. Anpil moun enpòtan nan sivilizasyon ansyen sa a te mete Hamlet sa yo pou wo ak pwoteksyon.',
       sv: 'Forntida öknen samlade speciella stenar och formade dem i scarabs med konstig, mörk magi. Många viktiga människor i den antika civilisationen hade dessa amuletter för statur och skydd.',
-      ko: '고대 사막 사람들은 특별한 돌을 모아 이상하고 어두운 마술로 풍뎅이 모양으로 만들었습니다. 그 고대 문명의 많은 사람들이 키와 보호를 위해이 부적을 입었습니다.'
+      ko: '고대 사막 사람들은 특별한 돌을 모아 이상하고 어두운 마술로 풍뎅이 모양으로 만들었습니다. 그 고대 문명의 많은 사람들이 키와 보호를 위해이 부적을 입었습니다.',
+      ro: 'Oamenii antici ai deșertului au adunat pietre speciale și le-au încrustat în scarabei cu ajutorul unei magii negre, puternice.  Mulți oameni importanți din acea civilizație antică purtau aceste amulete pentru statură și protecție.'
     }
   },
 
@@ -170,7 +176,8 @@ export default [
       ja: '山から採掘された奇妙な破片は神秘主義によって強化され、保護を提供し、恐れを引き起こすためにお守りに形作られました。',
       ht: 'Dekorasyon etranj mine soti nan mòn yo te ranfòse pa mistik ak fòme nan Hamlet yo nan lòd yo bay pwoteksyon ak kòz pè.',
       sv: 'Många sköldar som minas från bergen förhöjdes av mystiker och formades till amuletter för att ge skydd och orsaka rädsla.',
-      ko: '산에서 채광 한 이상한 조각들은 보호를 제공하고 두려움을 유발하기 위해 신비 주의자들에 의해 강화되어 부적으로 형성되었습니다.'
+      ko: '산에서 채광 한 이상한 조각들은 보호를 제공하고 두려움을 유발하기 위해 신비 주의자들에 의해 강화되어 부적으로 형성되었습니다.',
+      ro: 'Cioburi stranii minate din munți au fost întărite de mistici și transformate în amulete pentru a oferi protecție și a provoca frică.'
     }
   },
 
@@ -195,7 +202,8 @@ export default [
       ja: '神学者たちと戦うことで、保護の手段として神聖なオメガシンボルが生まれました。これらのシンボルは、保護的な贈り物として与えられた攻撃を阻止するために使用され、潜在的な宗教的信者に提示されました。',
       ht: 'Teokrasi lagè yo te kreye senbòl omega diven kòm yon mwayen pou pwoteksyon. Senbòl sa yo te itilize pou dekouraje atak, yo te bay kòm kado pwoteksyon, ak prezante bay potansyèl disip relijye yo.',
       sv: 'Warring theocracies skapade gudomliga omega symboler som ett medel för skydd. Dessa symboler användes för att avskräcka attacker, ges som skyddande presenter och presenterades för potentiella religiösa anhängare.',
-      ko: '신성한 오메가 상징을 보호하기위한 수단으로 창조했다. 이 상징은 방어적인 선물로 주어진 공격을 막고 잠재적 인 종교 추종자에게 선물로 사용되었습니다.'
+      ko: '신성한 오메가 상징을 보호하기위한 수단으로 창조했다. 이 상징은 방어적인 선물로 주어진 공격을 막고 잠재적 인 종교 추종자에게 선물로 사용되었습니다.',
+      ro: 'Teocrațiile de razboi au creat simboluri omega divine, ca un mijloc de protecție. Aceste simboluri au fost folosite pentru a descuraja atacurile, date ca daruri de protecție, și prezentate potențialilor adepți religioși.'
     }
   },
 
@@ -220,7 +228,8 @@ export default [
       ja: 'このお守りは、自然なエネルギーを活用し、着用者の自然な保護を増幅する奇妙な重なり合うディスクのセットを持っています。多くの魔法の使用者はそれらが再生されることができるようにこれらのお守りの秘密を学ぶことに努めます。',
       ht: 'Sa a Hamlet gen yon seri etranj nan sipèpoze disk ki wobinè nan enèji natirèl ak anplifye pwoteksyon natirèl la nan utilisateurs la. Anpil itilizatè majik fè efò yo aprann sekrè yo nan Hamlet sa yo pou ke yo ka repwodwi.',
       sv: 'Denna amulett har en konstig uppsättning överlappande skivor som kranar i naturliga energier och förstärker bärarens naturliga skydd. Många magiska användare strävar efter att lära sig dessa amulets hemligheter så att de kan reproduceras.',
-      ko: '이 부적은 자연 에너지를 활용하고 착용자의 자연 보호를 증폭시키는 이상한 세트의 중복 디스크를 가지고 있습니다. 많은 마술 사용자는이 부적의 비밀을 배우기 위해 노력합니다.'
+      ko: '이 부적은 자연 에너지를 활용하고 착용자의 자연 보호를 증폭시키는 이상한 세트의 중복 디스크를 가지고 있습니다. 많은 마술 사용자는이 부적의 비밀을 배우기 위해 노력합니다.',
+      ro: 'Această amuletă are un set ciudat de discuri ce se suprapun și care se conectează la energiile naturale astfel amplificând protecția naturală a purtătorului. Mulți utilizatori de magie se străduiesc să învețe secretele acestor amulete, astfel încât acestea să poată fi reproduse.'
     }
   },
 
@@ -245,7 +254,8 @@ export default [
       ja: '金属の撚り糸が互いに出入りして織り合い、電気アークを発生させ、生きているお守りのように見えます。学者たちは、これらのお守りは消えた領域から来たと推測していますが、誰も確信していないようです。',
       ht: 'Fil metal yo mare nan ak soti nan chak lòt, pwodwi ark elektrik ak bay aparans nan yon Hamlet vivan. Scholars espekile ke sa yo Hamlet te soti nan yon domèn ki disparèt, men pesonn pa sanble asire w.',
       sv: 'Metallfibrer väver in och ut ur varandra, producerar bågar och ger utseendet av en levande amulett. Forskare spekulerar på att dessa amuletter kom från en rike som försvann, men ingen verkar säker.',
-      ko: '금속 가닥은 전기 아크를 생성하고 살아있는 부적을 드러내면서 서로 끼우거나 엮습니다. 학자들은이 부적들이 사라진 영역에서 왔다고 추측하지만 아무도 확신하지 못합니다.'
+      ko: '금속 가닥은 전기 아크를 생성하고 살아있는 부적을 드러내면서 서로 끼우거나 엮습니다. 학자들은이 부적들이 사라진 영역에서 왔다고 추측하지만 아무도 확신하지 못합니다.',
+      ro: 'Firele de metal se împletesc între ele, producând arcuri electrice și dându-i amuletei un aspect viu. Savanții speculează că aceste amulete provin dintr-un tărâm care a dispărut, dar nimeni nu pare sigur de asta.'
     }
   },
 
@@ -270,7 +280,8 @@ export default [
       ja: '古代の王は、来世で彼らを守るために作られた強力なアンクのシンボルを持っていました。墓の強盗はこれらのお守りの多くを盗んで、それらを人々とモンスターの両方に売った。それぞれの足首には、その真の力を裏切る不気味な輝きがあります。',
       ht: 'Wa ansyen te gen ankh senbòl pwisan fè pwoteje yo nan dla a. Vòlè grav yo te vòlè anpil nan Hamlet sa yo ak vann yo bay tou de moun ak monstr. Chak ankh gen yon lumière etranj ki belies pouvwa vre li yo.',
       sv: 'Forntida kungar hade kraftfulla ankh symboler gjorda för att skydda dem i efterlivet. Grav rånare har stulit många av dessa amuletter och sålt dem till både människor och monster. Varje ankh har en kuslig glöd som belyser sin sanna kraft.',
-      ko: '고대 왕은 내세에서 그들을 보호하기 위해 강력한 상징을 만들었습니다. 무덤 도둑들은이 부적을 많이 훔쳐서 사람들과 괴물 모두에게 팔았습니다. 각 ankh에는 그것의 진실한 힘을 속이는 섬뜩한 놀이있다.'
+      ko: '고대 왕은 내세에서 그들을 보호하기 위해 강력한 상징을 만들었습니다. 무덤 도둑들은이 부적을 많이 훔쳐서 사람들과 괴물 모두에게 팔았습니다. 각 ankh에는 그것의 진실한 힘을 속이는 섬뜩한 놀이있다.',
+      ro: 'Regii antici aveau simboluri ankh puternice făcute pentru a-i proteja în viața de apoi. Jefuitorii de morminte au furat multe dintre aceste amulete și le-au vândut atât oamenilor cât și Monștrilor. Fiecare ankh are o strălucire sinistră care-i contrazice adevărata putere.'
     }
   },
 
@@ -295,7 +306,8 @@ export default [
       ht: 'Moso twisted nan men nan World Tree, Yggdrasil, yo te fè nan Hamlet nan kalite ki pi sakre. Sape epwizans soti nan Hamlet la epi kò a absòbe li pou pwoteksyon siplemantè.',
       sv: 'Twisted bitar av det enorma World Tree, Yggdrasil, gjordes till amuletter av den mest heliga sorten. Sap suger ut ur amuletten och absorberas av kroppen för extra skydd.',
       ko: '거대한 World Tree의 뒤틀린 조각 Yggdrasil은 가장 신성한 종류의 부적으로 만들어졌습니다. 수액은 부적에서 스며 나오고 신체에 흡수되어 추가적인 보호를받습니다.',
-      ja: '巨大なWorld Tree、Yggdrasilのツイストピースは、最も神聖な種類のお守りになりました。樹液はお守りからしみ出て、余分な保護のために体に吸収されます。'
+      ja: '巨大なWorld Tree、Yggdrasilのツイストピースは、最も神聖な種類のお守りになりました。樹液はお守りからしみ出て、余分な保護のために体に吸収されます。',
+      ro: 'Bucăți sucite din enormul copac al lumii, Yggdrasil, au fost transformate în amulete de cel mai sacru fel. Seva iese din amuletă și este absorbită de corp pentru protecție suplimentară.'
     }
   },
 
@@ -320,7 +332,8 @@ export default [
       ja: 'このお守りは若いドラゴンに授けられた年長のドラゴンの魔法を含みます。これらのお守りは若いドラゴンに青年期への生存のより良い機会を与えました。若い竜が一人で生き残るのに十分大きく古くなったとき、鎖は壊れ、お守りは失われました。',
       ht: 'Sa a Hamlet gen majik dragon ansyen ki te sitèlman sou dragon jèn; Hamlet sa yo te bay jenn dragon yon pi bon chans pou yo siviv nan adolesans. Yon fwa dragon yo jenn te vin fin vye granmoun ak gwo ase yo siviv sou pwòp yo, chèn lan te kraze ak Hamlet a te pèdi.',
       sv: 'Denna amulett innehåller äldre dragonmagi som gavs till unga drakar; Dessa amuletter gav unga drakar en bättre chans att överleva till ungdomar. När de unga draken blev gamla och tillräckligt stora för att överleva på egen hand, gick kedjan och amuletten försvann.',
-      ko: '이 부적에는 어린 드래곤에게 수여 된 엘더 드래곤 마술이 들어 있습니다. 이 부적들은 어린 용들이 사춘기 동안 더 나은 생존 기회를 갖게했습니다. 어린 용들이 오래되고 커져서 생존 할 수있게되면 체인이 끊어져 부적이 사라졌습니다.'
+      ko: '이 부적에는 어린 드래곤에게 수여 된 엘더 드래곤 마술이 들어 있습니다. 이 부적들은 어린 용들이 사춘기 동안 더 나은 생존 기회를 갖게했습니다. 어린 용들이 오래되고 커져서 생존 할 수있게되면 체인이 끊어져 부적이 사라졌습니다.',
+      ro: 'Această amuletă conține magia Dragonului cel Bătrân care a fost acordată dragonilor tineri; aceste amulete au oferit dragonilor tineri o șansă mai bună de supraviețuire în adolescență. Odată ce dragonii tineri au devenit bătrâni și suficient de mari pentru a supraviețui pe cont propriu, lanțul s-a rupt și amuleta s-a pierdut.'
     }
   },
 
@@ -345,7 +358,8 @@ export default [
       ja: 'このお守りには、有名な王が着ている王冠の宝石が含まれています。このお守りの縁は容赦なくシャープで、不思議な物質で部分的に塗りつぶされています。',
       ht: 'Sa a Hamlet gen yon GEM soti nan kouwòn lan chire pa yon wa pi popilè. Bor yo nan Hamlet sa a yo pitye byen file ak pasyèlman andwi ak yon sibstans ki sou misterye.',
       sv: 'Denna amulett innehåller en pärla från kronan som bärs av en berömd kung. Kanterna på denna amulett är hänsynslöst skarpa och delvis utsmyckade med en mystisk substans.',
-      ko: '이 부적에는 유명한 왕이 착용 한 왕관의 보석이 들어 있습니다. 이 부적의 가장자리는 무자비하게 날카 롭고 부분적으로 신비한 물질로 얼룩 져 있습니다.'
+      ko: '이 부적에는 유명한 왕이 착용 한 왕관의 보석이 들어 있습니다. 이 부적의 가장자리는 무자비하게 날카 롭고 부분적으로 신비한 물질로 얼룩 져 있습니다.',
+      ro: 'This amulet contains a gem from the crown worn by a famous king. The edges of this amulet are ruthlessly sharp and partially smeared with a mysterious substance.'
     }
   },
 
@@ -370,7 +384,8 @@ export default [
       ja: 'フェニックスの羽のこのお守りの中心には、これまでにそれを所有したことのあるすべての倒れた冒険者たちからの少量の灰が含まれています。例外なく、そのようなお守りを使うすべての冒険者は伝説に超越しました。',
       ht: 'Sant la nan Hamlet sa a nan plim Phoenix gen yon ti kantite sann ki soti nan tout avanturyé yo tonbe ki te janm posede li. San okenn eksepsyon, tout avanturyé te itilize tankou yon Hamlet transkadi nan lejand.',
       sv: 'Centrum av denna amulett av Phoenixfjädrar innehåller en liten mängd askor från alla fallna äventyrare som någonsin har ägt den. Utan undantag har varje äventyrare att använda en sådan amulett övergått till legenden.',
-      ko: '피닉스 깃털이 부적의 중심에는 이제까지 그것을 소유 한 모든 타락한 모험가들의 소량의 재가 포함되어 있습니다. 예외없이 모든 모험가는 그런 부적을 사용하여 전설을 뛰어 넘었습니다.'
+      ko: '피닉스 깃털이 부적의 중심에는 이제까지 그것을 소유 한 모든 타락한 모험가들의 소량의 재가 포함되어 있습니다. 예외없이 모든 모험가는 그런 부적을 사용하여 전설을 뛰어 넘었습니다.',
+      ro: 'Centrul acestei amulete din pene Phoenix conține o cantitate mică de cenușă din partea tuturor aventurierilor căzuți care i-au deținut vreodată. Fără excepție, fiecare aventurier care a folosit o astfel de amuletă a depășit legenda.'
     }
   }
 ]
