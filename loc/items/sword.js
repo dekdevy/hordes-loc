@@ -269,7 +269,7 @@ export default [
 
   {
     name       : {$$: 'King\'s Glaive' },
-    description: { 
+    description: {
       en: 'A blade wielded by only the most skillful knights.',
       ru: 'Клинок, которым владеют только самые умелые рыцари',
       es: 'Una espada blandida sólo por los caballeros más hábiles.',
