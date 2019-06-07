@@ -243,33 +243,6 @@ export default [
   {
     name       : {$$: 'Knight\'s Rapier'},
     description: {
-      en: 'A blade wielded by only the most skillful knights.',
-      ru: 'Клинок, которым владеют только самые умелые рыцари',
-      es: 'Una espada blandida sólo por los caballeros más hábiles.',
-      fr: 'Une lame maniée par les plus grands chevaliers.',
-      de: 'Eine Klinge, die nur von den geschicktesten Rittern geführt wird.',
-      hi: 'सबसे कुशल योद्धा ही इसे चला सकते है।',
-      pt: 'Uma lâmina empunhada apenas pelos cavaleiros mais habilidosos.',
-      nl: 'Een zwaard dat alleen door de meest bekwame ridders wordt gedragen.',
-      tl: 'Ang isang talim na ginagamit lamang ng mga pinaka-mahusay na Knights.',
-      bg: 'Острие, притежавано само от най-умелите рицари.',
-      el: 'Μια λεπίδα που κυριαρχεί μόνο από τους πιο επιδέξιους ιππότες.',
-      pl: 'Ostrze, którym posługują się tylko najbardziej uzdolnieni rycerze.',
-      ht: 'Yon lam itilize nan sèlman kavalye yo ki pi abil.',
-      it: 'Una lama impugnata solo dai cavalieri più abili.',
-      cs: 'Čepel ovládaná jen nejkvalifikovanějšími rytíři.',
-      ja: '最も熟練した騎士だけが装備した刀身。',
-      sv: 'Ett blad som varar av endast de mest skickliga riddarna.',
-      ko: '가장 숙련 된 기사들만이 휘두르는 칼날.',
-      ro: 'O lamă mânuită doar de cei mai pricepuți cavaleri.',
-      tr: 'Sadece en yetenekli şövalyeler tarafından kullanılan bir bıçak.',
-      da: 'Et kniv varet af kun de mest dygtige riddere.'
-    }
-  },
-
-  {
-    name       : {$$: 'King\'s Glaive' },
-    description: {
       en: 'Cylindrical sword stolen from an ancient king. Cutting capability is questionable.',
       ru: 'Цилиндрический меч украден у древнего короля. Возможность разрезки сомнительна.',
       fr: 'Epée cylindrique volée à un ancien roi. Sa capacité à trancher reste à débattre.',
@@ -291,6 +264,33 @@ export default [
       ro: 'Sabie cilindrică furată de la un rege antic. Capabilitatea de tăiere este discutabilă.',
       tr: 'Eski bir kraldan çalınan silindirik kılıç. Bu kılıcın yeteneği belirsiz.',
       da: 'Cylindrisk sværd stjålet fra en gammel konge. Klippeevne er tvivlsom.'
+    }
+  },
+
+  {
+    name       : {$$: 'King\'s Glaive' },
+    description: { 
+      en: 'A blade wielded by only the most skillful knights.',
+      ru: 'Клинок, которым владеют только самые умелые рыцари',
+      es: 'Una espada blandida sólo por los caballeros más hábiles.',
+      fr: 'Une lame maniée par les plus grands chevaliers.',
+      de: 'Eine Klinge, die nur von den geschicktesten Rittern geführt wird.',
+      hi: 'सबसे कुशल योद्धा ही इसे चला सकते है।',
+      pt: 'Uma lâmina empunhada apenas pelos cavaleiros mais habilidosos.',
+      nl: 'Een zwaard dat alleen door de meest bekwame ridders wordt gedragen.',
+      tl: 'Ang isang talim na ginagamit lamang ng mga pinaka-mahusay na Knights.',
+      bg: 'Острие, притежавано само от най-умелите рицари.',
+      el: 'Μια λεπίδα που κυριαρχεί μόνο από τους πιο επιδέξιους ιππότες.',
+      pl: 'Ostrze, którym posługują się tylko najbardziej uzdolnieni rycerze.',
+      ht: 'Yon lam itilize nan sèlman kavalye yo ki pi abil.',
+      it: 'Una lama impugnata solo dai cavalieri più abili.',
+      cs: 'Čepel ovládaná jen nejkvalifikovanějšími rytíři.',
+      ja: '最も熟練した騎士だけが装備した刀身。',
+      sv: 'Ett blad som varar av endast de mest skickliga riddarna.',
+      ko: '가장 숙련 된 기사들만이 휘두르는 칼날.',
+      ro: 'O lamă mânuită doar de cei mai pricepuți cavaleri.',
+      tr: 'Sadece en yetenekli şövalyeler tarafından kullanılan bir bıçak.',
+      da: 'Et kniv varet af kun de mest dygtige riddere.'
     }
   },
 
