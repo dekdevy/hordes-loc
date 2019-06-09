@@ -63,7 +63,7 @@ export default {
     ht: 'Achte Objè',
     ko: '물건을 사다',
     ja: '商品を購入',
-    ro: 'Cumpără Obiectul',
+    ro: 'Cumpără obiectul',
     hi: 'वस्तु खरीदे',
     da: 'Køb genstand',
     sv: 'Köp föremål'
@@ -89,7 +89,8 @@ export default {
     bg: 'Изпрати Предмет',
     cs: 'Poslat Předmět',
     ja: 'オブジェクトを送信',
-    da: 'Send Genstand'
+    da: 'Send Genstand',
+    ro: 'Postează obiectul'
   },
 
   delist: {
@@ -109,7 +110,7 @@ export default {
     ht: 'De-lis Objè',
     ko: '항목 삭제',
     ja: 'アイテムを無効にする',
-    ro: 'Scoate Obiectul',
+    ro: 'Scoate obiectul',
     hi: 'बाज़ार से हटाएं',
     da: 'Fjern element fra liste',
     sv: 'Delista-objektet'
