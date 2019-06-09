@@ -20,7 +20,8 @@ export default {
       pt: 'Bem-vindos aos melhores produtos! Você não vai encontrar um negócio melhor do que o que eu tenho para você, no entanto, eu ouço que há uma loja especial com itens fantásticos ao contrário de qualquer coisa que eu já vi. Enquanto isso, eu tenho algumas moedas de reposição e bens de reposição. O que você está oferecendo?',
       nl: 'Welkom bij de beste goederen die er zijn! U zult geen betere deal vinden dan wat ik voor u heb, maar ik hoor dat er een speciale winkel is met fantastische artikelen die anders zijn dan wat ik ooit heb gezien. Intussen heb ik nog wat reserve munten en reserve goederen. Wat biedt u aan?',
       it: 'Benvenuti ai migliori prodotti in circolazione! Non troverete un\'offerta migliore di quella che ho per voi; tuttavia, ho sentito dire che c\'è un negozio speciale con articoli fantastici come non ho mai visto. Nel frattempo, ho delle monete e dei prodotti di ricambio. Che cosa offrite?',
-      pl: 'Witamy w najlepszych towarach w okolicy! Nie znajdziesz lepszej oferty niż ta, którą dla ciebie mam, ale słyszę, że istnieje specjalny sklep z fantastycznymi przedmiotami, w przeciwieństwie do czegokolwiek, co kiedykolwiek widziałem. W międzyczasie mam zapasowe monety i zapasowe towary. Co oferujesz?'
+      pl: 'Witamy w najlepszych towarach w okolicy! Nie znajdziesz lepszej oferty niż ta, którą dla ciebie mam, ale słyszę, że istnieje specjalny sklep z fantastycznymi przedmiotami, w przeciwieństwie do czegokolwiek, co kiedykolwiek widziałem. W międzyczasie mam zapasowe monety i zapasowe towary. Co oferujesz?',
+      ro: 'Bine ai venit la cele mai bune obiecte din împrejurimi! Nu vei găsi o afacere mai bună decât ceea ce am eu pentru tine; cu toate acestea, am auzit că există un magazin special cu elemente fantastice, diferite de orice am văzut vreodată. Între timp, am niște monede și bunuri de rezervă. Ce oferi?'
     },
 
     choices: [{
@@ -68,7 +69,8 @@ export default {
     el: 'Πουλήστε τα στοιχεία σας',
     pt: 'Vender seus itens',
     nl: 'Verkoop je items',
-    da: 'Sælg dine varer'
+    da: 'Sælg dine varer',
+    ro: 'Vinde-ți obiectele.'
   },
 
   info: {
@@ -91,7 +93,8 @@ export default {
     sv: 'För att sälja ett objekt högerklickar du på det eller drar det i handelsfönstret.',
     fr: 'Pour vendre un objet, cliquez dessus avec le bouton droit de la souris ou faites-le glisser dans la fenêtre du commerçant.',
     nl: 'Om een artikel te verkopen, klik er met de rechtermuisknop op of sleep het naar het handelaarsvenster.',
-    da: 'For at sælge et emne skal du højreklikke på det eller trække det i handlervinduet.'
+    da: 'For at sælge et emne skal du højreklikke på det eller trække det i handlervinduet.',
+    ro: 'Pentru a vinde un element, faceți clic-dreapta sau trageți-l în fereastra comerciantului.'
   },
 
   // Include punctuation and space
