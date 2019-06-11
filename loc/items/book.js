@@ -27,4 +27,11 @@ export default [{
   description: {
     en: 'Swiftly swing your sword around you, damaging enemies within a radius.'
   }
+},
+{
+  name: {$$: 'Ice bolt'},
+
+  description: {
+    en: 'Fires a missile of frost towards your enemy.'
+  }
 }]
