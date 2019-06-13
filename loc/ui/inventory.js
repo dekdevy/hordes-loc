@@ -183,7 +183,8 @@ export default {
     da: 'Udstyr genstand',
     de: 'Statten Sie Ihren Items aus.',
     fr: 'Equipez votre item',
-    nl: 'Rust uw item uit'
+    nl: 'Rust uw item uit',
+    ro: 'Echipează obiectul'
   },
 
   use: {
