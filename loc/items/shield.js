@@ -129,7 +129,8 @@ export default [
       cs: 'Vysoký štít chrání celé tělo. Pouze ta nejchytřejší rána se může vyhnout jeho ochraně.',
       ja: '体全体を守る高いシールド。最も狡猾な一撃だけがその防御を回避することができます。',
       tr: 'Tüm vücudunuzu koruyan uzun Kalkan. Sadece en kurnaz darbeler korumasından kaçabilir.',
-      da: 'Langt skærm bevogter hele din krop. Kun de mest snedige af slag kan undgå sin beskyttelse.'
+      da: 'Langt skærm bevogter hele din krop. Kun de mest snedige af slag kan undgå sin beskyttelse.',
+      ro: 'Scut înalt ce-ți păzește tot corpul. Doar cea mai vicleană lovitură poate scăpa de protecția lui.'
     }
   },
 
@@ -155,7 +156,8 @@ export default [
       el: 'Τα ασημένια καρφιά καλύπτουν αυτή την ασπίδα, επιδεικνύοντας την εξουσία και την εξουσία σας',
       ja: '銀のスパイクがこの盾を覆い、あなたの権威と力を示しています',
       tr: 'Gümüş çiviler bu kalkanı kaplar, otoritesini ve gücünü gösterir',
-      es: 'Picos de plata cubren este escudo, mostrando tu autoridad y poder.'
+      es: 'Picos de plata cubren este escudo, mostrando tu autoridad y poder.',
+      ro: 'Țepi de argint acoperă acest scut, etalându-ți autoritatea și puterea.'
     }
   },
 
@@ -208,7 +210,8 @@ export default [
       cs: 'Vysoký, tmavý a těžký štít obklopující vaše nechráněné tělo silou dávných bestií kdysi sídlících v těchto údolích.',
       ja: '背の高い、暗い、そして重い盾は、かつてこれらの谷に住んでいた古代の獣の力であなたの保護されていない体を包みます。',
       tr: 'Uzun, karanlık ve ağır Kalkan. Korunmasız vücudunuz eski yaratıkların gücü ile kaplıdır.',
-      da: 'Langt, mørkt og tungt skjold, der omslutter din ubeskyttede krop med magt fra gamle dyr, der engang er bosiddende i disse dale.'
+      da: 'Langt, mørkt og tungt skjold, der omslutter din ubeskyttede krop med magt fra gamle dyr, der engang er bosiddende i disse dale.',
+      ro: 'Un scut înalt, întunecat și greu, ce-ți învăluie corpul neprotejat cu puterea fiarelor străvechi care au locuit odată în aceste văi.'
     }
   },
 
@@ -234,7 +237,8 @@ export default [
       cs: 'Zlověstný štít vrhající hnusné prameny stínů kolem bariér vašich nepřátelských mozků, aby poskvrnil jejich vzpomínky.',
       ja: '邪悪な盾があなたの敵の心の壁を越えて邪悪な影の鎖を落として彼らの記憶を傷つけます。',
       tr: 'Düşmana gölgeler getiren uğursuz bir kalkan. Düşmanınızın anılarını kaybetmesine neden olur.',
-      da: 'Et uhyggeligt skjold, som støder på skyggefulde tråde, går forbi dine fjenders sindssygdomme for at smitte deres minder.'
+      da: 'Et uhyggeligt skjold, som støder på skyggefulde tråde, går forbi dine fjenders sindssygdomme for at smitte deres minder.',
+      ro: 'Un scut sinistru ce aruncă șuvițe malefice de umbre dincolo de barierele minții dușmanilor tăi pentru a le păta amintirile.'
     }
   },
 
@@ -260,7 +264,8 @@ export default [
       cs: 'Silný štít, který vyzařuje božské světlo svým šlechtickým spojencům, aby je zachvátili ve vlnách srdnatosti.',
       ja: '強大な盾はあなたの高貴な同盟国に神の光を放射して彼らを勇気の波に包み込みます。',
       tr: 'Cesur müttefiklerinize ilahi ışık yayan güçlü bir kalkan. Bu cesaret dalgaları ile onları kapsar.',
-      da: 'Et mægtigt skild udstråler guddommeligt lys til dine ædle allierede for at opsluge dem i bølger af værdighed.'
+      da: 'Et mægtigt skild udstråler guddommeligt lys til dine ædle allierede for at opsluge dem i bølger af værdighed.',
+      ro: 'Un scut puternic ce radiază lumină divină către nobilii tăi aliați pentru a-i învălui în valuri de vitejie.'
     }
   }
 
