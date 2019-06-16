@@ -24,14 +24,17 @@ export default {
   },
 
   pickUp: {
-    en: 'You have picked up $1'
+    en: 'You have picked up $1',
+    ru: 'Вы подобрали $1'
   },
 
   full: {
-    en: 'Your inventory is full'
+    en: 'Your inventory is full',
+    ru: 'Ваш инвентарь полон'
   },
 
   sell: {
-    en: 'You have sold $1 for $2'
+    en: 'You have sold $1 for $2',
+    ru: 'Вы продали $1 за $2'
   }
 }
