@@ -3,7 +3,7 @@ export default {
     en: 'You have died',
     ru: 'Ты умер',
     hi: 'आप मर चुके हैं',
-    es: 'Te has muerto',
+    es: 'Has muerto',
     de: 'Du bist gestorben',
     fr: 'Vous êtes morts',
     ko: '너 죽었다',
