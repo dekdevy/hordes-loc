@@ -64,6 +64,6 @@ export default {
     pl: 'Wskrześ',
     ht: 'Resisite',
     ro: 'Înviați',
-    da: 'Genoplive',
+    da: 'Genoplive'
   }
 }
