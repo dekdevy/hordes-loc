@@ -2,7 +2,7 @@ export default [
   {
     name       : {$$: 'Linen Quiver' },
     description: {
-      en: 'Soft, full of holes. Arrows keep falling out',
+      en: 'Soft, full of holes. Arrows keep falling out.',
       ru: 'Мягкий, дырявый. Стрелы постоянно выпадают.',
       de: 'Weich, voller Löcher. Pfeile fallen immer wieder heraus.',
       es: 'Si, los calcetines también pueden ser una aljaba.',
@@ -21,7 +21,8 @@ export default [
       sv: 'Mjuk, full av hål. Pilarna fortsätter att falla ut.',
       ko: '부드러운, 구멍 가득. 화살표는 계속 떨어지고 있습니다.',
       ro: 'Moale, plină de găuri. Săgețile continuă să cadă.',
-      tr: 'Yumuşak ve delik dolu. Oklar dışarı düşmeye devam ediyor.'
+      tr: 'Yumuşak ve delik dolu. Oklar dışarı düşmeye devam ediyor.',
+      da: 'Blød, fuld af huller. Pile fortsætter med at falde.'
     }
   },
 
@@ -47,7 +48,8 @@ export default [
       cs: 'Vypadá to levné a nespolehlivé, ale dostatečně pevná pro vaše šípy.',
       ja: '安くて信頼できないように見えますが、あなたの矢には十分頑丈です。',
       tr: 'Ucuz ve güvenilmez görünüyor, ancak oklarınız için yeterince sağlam.',
-      ro: 'Pare ieftin și nedemn de încredere, dar destul de robust pentru săgețile tale.'
+      ro: 'Pare ieftin și nedemn de încredere, dar destul de robust pentru săgețile tale.',
+      da: 'Ser billig og upålidelig, men robust nok til dine pile.'
     }
   },
 
@@ -73,7 +75,8 @@ export default [
       sv: 'Varje gång du drar en pil ut hissar den på dig.',
       ko: '당신이 화살을 꺼낼 때마다, 그것은 당신에게 겁을줍니다.',
       ro: 'De fiecare dată când scoți o săgeată, te sâsâie.',
-      tr: 'bir oku her çıkardığınızda, tıslama sesi duyarsınız.'
+      tr: 'bir oku her çıkardığınızda, tıslama sesi duyarsınız.',
+      da: 'Hver gang du trækker en pil ud, hyser den på dig.'
     }
   },
 
@@ -99,7 +102,8 @@ export default [
       sv: 'Linnesäck täckt av styvt läder.',
       ko: '리넨 자루는 뻣뻣한 가죽으로 덮여 있습니다.',
       ro: 'Sac din in acoperit cu piele rigidă.',
-      tr: 'Keten çuval sert deri kaplı.'
+      tr: 'Keten çuval sert deri kaplı.',
+      da: 'Linnesække dækket af stiv læder.'
     }
   },
 
@@ -125,7 +129,8 @@ export default [
       cs: 'Jemně vytvořený toulec vyrobený z tajemného třpytivého materiálu.',
       ja: '神秘的なきらめく材料で作られた細かく作られた震え。',
       tr: 'Gizemli parıldayan metalden yapılmış ince hazırlanmış ok',
-      ro: 'O tolbă fină făcută dintr-un material strălucitor și misterios.'
+      ro: 'O tolbă fină făcută dintr-un material strălucitor și misterios.',
+      da: ''
     }
   },
 
@@ -158,7 +163,8 @@ export default [
       sv: 'Koger av älvor belagda i skimrande diamant.',
       ko: '엘프 떨림이 반짝이는 다이아몬드로 코팅되었습니다.',
       ro: 'Tolbă a elfilor acoperită cu diamante sclipitoare.',
-      tr: 'Parıldayan elmas ile kaplanmış Elfler tarafından yapılan ok'
+      tr: 'Parıldayan elmas ile kaplanmış Elfler tarafından yapılan ok',
+      da: 'flammer af elver overtrukket i glitrende diamant.'
     }
   },
 
@@ -184,7 +190,8 @@ export default [
       ja: '彼らがあなたを攻撃する準備をしている時に壮観なエメラルドグリーンの槍があなたの敵を罪悪感で満たしています',
       nl: 'Een spectaculaire smaragdgroene koker vult je vijanden met schuldgevoelens als ze zich voorbereiden om je aan te vallen.',
       tr: 'Size saldırmaya hazırlanırken düşmanlarınızı suçluluk duygusuyla dolduran muhteşem bir zümrüt yeşili ok',
-      ro: 'Tolba de un verde smarald spectaculos îți umple dușmanii cu vinovăție în timp ce se pregătesc să te atace.'
+      ro: 'Tolba de un verde smarald spectaculos îți umple dușmanii cu vinovăție în timp ce se pregătesc să te atace.',
+      da: 'En spektakulær smaragdgrøn kvæler fylder dine fjender med skyld, da de forbereder sig på at angribe dig.'
     }
   },
 
@@ -210,7 +217,8 @@ export default [
       cs: 'Toulec je potažen hlubokým, třpytivým námořnickým materiálem. Starověké příběhy říkají, že takový tulák vyčistí mysl rozptylování během bitvy.',
       ja: '震えは深く、きらめく海軍材料でコーティングされています。古代の物語は、そのような震えが戦いの間に気晴らしの心をクリアすると述べています。',
       tr: 'Derin parıldayan donanma malzeme ile kaplı bir ok. Antik hikayeler, böyle bir okun savaş sırasında dikkat dağıtıcı zihni temizlediğini belirtir.',
-      ro: 'O tolbă acoperită într-un material marinăresc adânc și sclipitor. Poveștile antice spun că o astfel de tolbă golește mintea de distrageri în timpul luptei.'
+      ro: 'O tolbă acoperită într-un material marinăresc adânc și sclipitor. Poveștile antice spun că o astfel de tolbă golește mintea de distrageri în timpul luptei.',
+      da: 'En kvæler er belagt i et dybt skinnende marinemateriale. Gamle historier siger, at en sådan kvæler rydder tankerne om distraktioner under kamp.'
     }
   },
 
@@ -236,7 +244,8 @@ export default [
       cs: 'Rozpadající se svitky, které jsou obarveny krví, čtou, že chaos naplňuje mysl těch, kteří se dotkli šípů v takovém toulci',
       ja: '血で染まっている崩壊している巻物は、そのような矢筒の中に握られた矢によって触れられたそれらの心を混乱が満たすことを読みます',
       tr: 'Kanla lekelenmiş tomurcuklanan parşömenler, kaosun bu oklarla tutulanların aklını doldurduğunu oku.',
-      ro: 'Pergamentele sfărâmicioase care sunt pătate de sânge citesc că haosul umple mintea celor care au fost atinși de săgețile ținute într-o astfel de tolbă.'
+      ro: 'Pergamentele sfărâmicioase care sunt pătate de sânge citesc că haosul umple mintea celor care au fost atinși de săgețile ținute într-o astfel de tolbă.',
+      da: 'Smuldrende ruller, der er farvet med blod, læser, at kaos fylder tankerne hos dem, der er blevet rørt ved hjælp af pile, der holdes i en sådan kvæler.'
     }
   }
 

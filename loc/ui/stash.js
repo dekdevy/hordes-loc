@@ -17,7 +17,10 @@ export default {
     ko: '이 항목을 가져올 때까지 기다려야합니다.',
     ja: 'このアイテムを取得できるようになるまで待つ必要があります。',
     hi: 'आपको इस आइटम को पुनः प्राप्त करने तक इंतजार करना होगा।',
-    ro: 'Trebuie să aștepți până să poți recupera acest obiect.'
+    ro: 'Trebuie să aștepți până să poți recupera acest obiect.',
+    ht: 'Ou dwe rete jiskaske ou ka rekipere atik sa a.',
+    el: 'Πρέπει να παρακολουθείτε μέχρι να μπορείτε να ανακτήσετε αυτό το στοιχείο.',
+    da: 'Du skal til, indtil du kan hente denne vare.'
   },
 
   withdraw: {
@@ -32,7 +35,16 @@ export default {
     it: 'Ritirare',
     pl: 'Wycofanie',
     sv: 'Retirera',
-    ro: 'Retrage'
+    ro: 'Retrage',
+    hi: 'निकालना',
+    ko: '빼다',
+    tr: 'Çekil',
+    ht: 'Retire',
+    cs: 'Ustoupit',
+    ja: '撤回',
+    el: 'Αποσύρω',
+    bg: 'Теглене',
+    da: 'Træk'
   },
 
   stash: {
@@ -54,7 +66,8 @@ export default {
     bg: 'Преместване в скривалище',
     cs: 'Přesuňte se na skrýš',
     ja: '隠し場所に移動',
-    ro: 'Mută în ascunzătoare.'
+    ro: 'Mută în ascunzătoare.',
+    da: 'Flyt til stash'
   },
 
   stashed: {
@@ -70,7 +83,14 @@ export default {
     hi: '$1 को स्टैश में भेज दिया गया है',
     tl: 'Ang $1 ay inilipat sa iyong itago',
     sv: '$1 har flyttats till din stash',
-    ro: '$1 a fost mutat în ascunzătoare'
+    ro: '$1 a fost mutat în ascunzătoare',
+    ht: '$1 te deplase nan catcher ou',
+    cs: '$1 byl přesunut na vaši skrýš',
+    ja: '$1 はあなたの隠し場所に移動しました',
+    el: '$1 έχει μεταφερθεί στη θέση σας',
+    bg: '$1 е преместен в скривалището ви',
+    da: '$1 er flyttet til din stash',
+    ko: '$1 가 숨겨지기로 옮겼습니다.'
   }
 
 }

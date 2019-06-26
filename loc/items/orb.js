@@ -22,7 +22,8 @@ export default [
       ko: '미신에게 행운을 가져다주는 괴상한 덩어리의 뼈.',
       ro: 'O masă grotescă de oase ce aduce noroc superstițioșilor.',
       tl: 'Ang isang nakakatakot na masa ng buto na nagdadala ng kapalaran sa mga mapamahiin',
-      tr: 'İğrenç bir kemik kütlesi. Batıl inançlara inananlara şans getirir.'
+      tr: 'İğrenç bir kemik kütlesi. Batıl inançlara inananlara şans getirir.',
+      da: 'En grotesk masse af ben, der bringer held til de overtroiske.'
     }
   },
 
@@ -48,7 +49,8 @@ export default [
       ko: '빛의 광선이 당신 주위에 좋은 무지개를 주조,이 영역에 잡힐.',
       ro: 'Raze de lumină sunt prinse în această sferă, eliberând curcubee fine în jurul tău.',
       tl: 'Ang mga sinag ng liwanag ay nahuli sa globo na ito, na naghahain ng magagandang mga rainbows sa paligid mo.',
-      tr: 'Işık ışınları bu küreyi yakalanır, etrafınızda ince bir gökkuşağı belirir.'
+      tr: 'Işık ışınları bu küreyi yakalanır, etrafınızda ince bir gökkuşağı belirir.',
+      da: 'Lysstråler bliver fanget i denne kugle og støder fint regnbuer omkring dig.'
     }
   },
 
@@ -88,7 +90,8 @@ export default [
       ko: '이 토지를 공포에 떨게하는 고대의 살인 사건은 마침내 죽임을 당했고, 당신은이 끔찍한 기념품을 청소할 수있었습니다.',
       ro: 'Un ciclop antic care teroriza aceste ținuturi a fost în sfârșit ucis, permițându-ți să sapi după acest suvenir sumbru.',
       tl: 'Ang mga sinaunang cyclops ng mga terorismo sa mga lupain ay sa wakas ay pinatay, na nagpapahintulot sa iyo na mag-scavenge ng mabangong souvenir na ito.',
-      tr: 'Bu toprakları terörize eden eski bir tek gözlü canavar sonunda öldürüldü. bu korkunç küreye sahip olmanıza izin veren şey budur.'
+      tr: 'Bu toprakları terörize eden eski bir tek gözlü canavar sonunda öldürüldü. bu korkunç küreye sahip olmanıza izin veren şey budur.',
+      da: 'En gammel cyclops, der terroriserede disse lande, blev endelig dræbt, så du kunne scavenge denne dystre souvenir.'
     }
   },
 
@@ -135,7 +138,8 @@ export default [
       cs: 'Tajemná smaragdově zelená koule, obklopená jemnými rytinami hadovitých proroctví, která lákají slávu a bohatství ke svému okouzlujícímu nositeli',
       ja: '不思議なエメラルドグリーンの球体、その妖艶な持ち主に名声と富を惹きつける蛇紋岩の予言の細かい彫刻に包まれて',
       ro: 'Enigmatică sferă verde de smarald, învăluită în gravuri fine de profeții perfizi, atrage faimă și serendipitate purtătorului ei vrăjit.',
-      tr: 'Esrarengiz zümrüt yeşil küre. Serpantin kehanetlerinin ince gravürlerine sarılmış. şöhret ve serendipity taşıyıcısına getirmek.'
+      tr: 'Esrarengiz zümrüt yeşil küre. Serpantin kehanetlerinin ince gravürlerine sarılmış. şöhret ve serendipity taşıyıcısına getirmek.',
+      da: 'Enigmatisk smaragdgrøn sfære, indhyllet i fine graveringer af serpentin profetier, der lokker berømmelse og serendipity til sin fortryllede bærer.'
     }
   },
 

@@ -76,6 +76,7 @@ import * as stashui from './ui/stash.js'
 import charmenu from './ui/charmenu.js'
 import chat from './ui/chat.js'
 import clan from './ui/clan.js'
+import death from './ui/death.js'
 import general from './ui/general.js'
 import inventory from './ui/inventory.js'
 import party from './ui/party.js'
@@ -91,6 +92,7 @@ const ui = {
   party,
   stash   : stashui.default,
   stats,
+  death,
   ...general }
 
 export default {

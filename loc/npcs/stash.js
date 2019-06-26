@@ -23,7 +23,8 @@ export default {
       bg: 'Да, отворете контейнера',
       cs: 'Ano, otevřete můj kontejner',
       ja: 'はい、コンテナを開けます',
-      ro: 'Da, deschide-mi containerul'
+      ro: 'Da, deschide-mi containerul',
+      da: 'Ja, åben min stash.'
     }]
   }]
 }

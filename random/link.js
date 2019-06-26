@@ -56,7 +56,8 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'grim', 'poised', 'rudimentary', 'emerald', 'eminent', 'famous', 'innocuous', 'engraved', 'engrossing', 'engulfing',
   'aquatic', 'hardcore', 'haughty', 'scornful', 'ingenius', 'parasitic', 'paroxysmal', 'parrying', 'problematic', 'sane',
   'swearing', 'swingeing', 'swinging', 'tangible', 'tawdry', 'thievish', 'prosaic', 'placid', 'oracular', 'omniscient', 'oniony',
-  'natty', 'nerpharious', 'turgid', 'denatured', 'natural', 'bad', 'good']
+  'natty', 'nepharious', 'turgid', 'denatured', 'natural', 'bad', 'good', 'devilish', 'poisonous', 'quirky', 'regal',
+  'remarkable', 'scaly', 'icy', 'snowy', 'spherical', 'massive']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
@@ -100,7 +101,7 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'asteroid', 'planet', 'galley', 'galaxy', 'megalomaniac', 'melee', 'maraud', 'marauder', 'spike', 'cavalry', 'pike', 'misanthopist',
   'boa', 'battleship', 'battlement', 'axe', 'stave', 'hieroglyph', 'jackpot', 'jester', 'motherland', 'father', 'mother', 'treaty',
   'oath', 'gang', 'empress', 'peasant', 'elixir', 'haar', 'backpack', 'merchant', 'conjurer', 'pariah', 'pickpocket', 'phalanx',
-  'oracle', 'onion']
+  'oracle', 'onion', 'utopia', 'monarchy']
 
 const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', 'misfortune', 'rage', 'joy',
   'leveling', 'vengance', 'resurrection', 'mastery', 'loss', 'flames', 'fire', 'frost', 'glory', 'war', 'sprinting',
