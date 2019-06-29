@@ -36,7 +36,7 @@ export default [
       es: 'No mucho mejor que un trozo de madera en mi opinión.',
       de: 'Nicht viel besser als ein stumpfes Stück Holz, denke ich.',
       hi: 'मरी राय में यह लकड़ी के कुंद टुकड़े से बेहतर नहीं है।',
-      pt: 'Não muito melhor do que um pedaço de madeira na minha opinião.',
+      pt: 'Não é muito melhor do que um pedaço de madeira na minha opinião.',
       nl: 'Niet veel beter dan een stomp stuk hout naar mijn mening.',
       tl: 'Hindi mas mahusay kaysa sa isang mapurol piraso ng kahoy sa aking opinyon.',
       bg: 'По мое мнение не е много по-добре от едно парче дърво.',
