@@ -1,6 +1,6 @@
 export default [
   { // T1 item name. names are english only!
-    name       : {$$: 'Drifwood Shortbow' },
+    name       : {$$: 'Driftwood Shortbow' },
     // Item description
     description: {
       en: 'Almost lightweight. You can probably find something better around.',

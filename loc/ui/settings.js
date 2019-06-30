@@ -406,7 +406,10 @@ export default {
     hi: 'वस्तुसूची की चौड़ाई',
     fr: 'Largeur de l\'inventaire',
     tl: 'Lapad ng Imbentaryo',
-    da: 'Lagerbredde'
+    da: 'Lagerbredde',
+    ko: '인벤토리 너비',
+    ht: 'Lajè Envantè',
+    ja: '在庫の幅'
   },
 
   uiscale: {

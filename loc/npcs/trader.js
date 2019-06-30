@@ -15,7 +15,13 @@ export default {
       ja: '周りの最高の商品へようこそ！あなたは私があなたのために持っているものより良い取引を見つけるつもりはありません。しかし、私が今まで見たことのないものとは違って、素晴らしいアイテムが並ぶ特別な店があると聞きます。その間に、予備のコインと予備の商品があります。何を提供していますか？',
       el: 'Καλώς ήρθατε στα καλύτερα αγαθά γύρω! Δεν πρόκειται να βρείτε μια καλύτερη συμφωνία από ό, τι έχω για σας. Ωστόσο, ακούω ότι υπάρχει ένα ειδικό κατάστημα με φανταστικά αντικείμενα σε αντίθεση με οτιδήποτε έχω δει ποτέ. Εν τω μεταξύ, έχω κάποια εφεδρικά νομίσματα και εφεδρικά αγαθά. Τι προσφέρετε;',
       bg: 'Добре дошли в най-добрите стоки наоколо! Вие няма да намерите по-добра сделка от това, което имам за вас; обаче чувам, че има специален магазин с фантастични артикули, за разлика от всичко, което някога съм виждал. Междувременно имам резервни монети и резервни стоки. Какво предлагате?',
-      de: 'Willkommen bei den besten Waren, die es gibt! Du wirst kein besseres Angebot finden als das, was ich für dich habe; aber ich höre, dass es einen speziellen Laden mit fantastischen Gegenständen gibt, wie ich sie noch nie gesehen habe. In der Zwischenzeit habe ich einige Ersatzmünzen und Ersatzwaren. Was bieten Sie an?'
+      de: 'Willkommen bei den besten Waren, die es gibt! Du wirst kein besseres Angebot finden als das, was ich für dich habe; aber ich höre, dass es einen speziellen Laden mit fantastischen Gegenständen gibt, wie ich sie noch nie gesehen habe. In der Zwischenzeit habe ich einige Ersatzmünzen und Ersatzwaren. Was bieten Sie an?',
+      fr: 'Bienvenue dans le meilleur de la marchandise ! Vous ne trouverez pas de meilleure affaire que ce que j\'ai pour vous ; cependant, j\'ai entendu dire qu\'il y a un magasin spécial avec des articles fantastiques comme je n\'en ai jamais vu. En attendant, j\'ai des pièces et des biens de rechange. Qu\'est-ce que vous offrez ?',
+      pt: 'Bem-vindos aos melhores produtos! Você não vai encontrar um negócio melhor do que o que eu tenho para você, no entanto, eu ouço que há uma loja especial com itens fantásticos ao contrário de qualquer coisa que eu já vi. Enquanto isso, eu tenho algumas moedas de reposição e bens de reposição. O que você está oferecendo?',
+      nl: 'Welkom bij de beste goederen die er zijn! U zult geen betere deal vinden dan wat ik voor u heb, maar ik hoor dat er een speciale winkel is met fantastische artikelen die anders zijn dan wat ik ooit heb gezien. Intussen heb ik nog wat reserve munten en reserve goederen. Wat biedt u aan?',
+      it: 'Benvenuti ai migliori prodotti in circolazione! Non troverete un\'offerta migliore di quella che ho per voi; tuttavia, ho sentito dire che c\'è un negozio speciale con articoli fantastici come non ho mai visto. Nel frattempo, ho delle monete e dei prodotti di ricambio. Che cosa offrite?',
+      pl: 'Witamy w najlepszych towarach w okolicy! Nie znajdziesz lepszej oferty niż ta, którą dla ciebie mam, ale słyszę, że istnieje specjalny sklep z fantastycznymi przedmiotami, w przeciwieństwie do czegokolwiek, co kiedykolwiek widziałem. W międzyczasie mam zapasowe monety i zapasowe towary. Co oferujesz?',
+      ro: 'Bine ai venit la cele mai bune obiecte din împrejurimi! Nu vei găsi o afacere mai bună decât ceea ce am eu pentru tine; cu toate acestea, am auzit că există un magazin special cu elemente fantastice, diferite de orice am văzut vreodată. Între timp, am niște monede și bunuri de rezervă. Ce oferi?'
     },
 
     choices: [{
@@ -38,7 +44,8 @@ export default {
       bg: 'Да разбира се',
       el: 'Ναι φυσικά',
       ro: 'Da, desigur',
-      tl: 'Oo naman'
+      tl: 'Oo naman',
+      da: 'Ja selvfølgelig'
     }]
   }],
 
@@ -59,13 +66,16 @@ export default {
     ht: 'Vann atik ou yo',
     tl: 'Ibenta ang iyong mga item',
     ja: 'あなたの商品を売る',
-    el: 'Πουλήστε τα στοιχεία σας'
+    el: 'Πουλήστε τα στοιχεία σας',
+    pt: 'Vender seus itens',
+    nl: 'Verkoop je items',
+    da: 'Sælg dine varer',
+    ro: 'Vinde-ți obiectele.'
   },
 
-  // The word "click" is not an official word in some languages, "press" would be a better variation
   info: {
     en: 'To sell an item, right click it or drag it into the trader window.',
-    ru: 'Чтобы продать предмет, нажмите его правой кнопкой мыши или перетащите в окно трейдера.',
+    ru: 'Чтобы продать предмет, нажмите на него правой кнопкой мыши или перетащите в окно торговца.',
     bg: 'За да продадете вещ, щракнете с десния бутон върху него или го плъзнете в прозореца на търговеца.',
     cs: 'Chcete-li položku prodat, klikněte na ni pravým tlačítkem myši nebo ji přetáhněte do okna obchodníka.',
     pt: 'Para vender um item, clique direito ou arraste-o para a janela de negociação.',
@@ -78,7 +88,13 @@ export default {
     ht: 'Vann yon atik, klike sou li dwat oswa trennen l nan fenèt machann vann.',
     tl: 'Upang magbenta ng isang item, i-right click ito o i-drag ito sa window ng negosyante.',
     ja: 'アイテムを売るには、アイテムを右クリックするか、またはトレーダーウィンドウにドラッグします。',
-    el: 'Για να πουλήσετε ένα στοιχείο, κάντε δεξί κλικ ή σύρετέ το στο παράθυρο του εμπόρου.'
+    el: 'Για να πουλήσετε ένα στοιχείο, κάντε δεξί κλικ ή σύρετέ το στο παράθυρο του εμπόρου.',
+    de: 'Um einen Gegenstand zu verkaufen, klicken Sie ihn mit der rechten Maustaste an oder ziehen Sie ihn in das Händlerfenster.',
+    sv: 'För att sälja ett objekt högerklickar du på det eller drar det i handelsfönstret.',
+    fr: 'Pour vendre un objet, cliquez dessus avec le bouton droit de la souris ou faites-le glisser dans la fenêtre du commerçant.',
+    nl: 'Om een artikel te verkopen, klik er met de rechtermuisknop op of sleep het naar het handelaarsvenster.',
+    da: 'For at sælge et emne skal du højreklikke på det eller trække det i handlervinduet.',
+    ro: 'Pentru a vinde un element, faceți clic-dreapta sau trageți-l în fereastra comerciantului.'
   },
 
   // Include punctuation and space
@@ -97,6 +113,12 @@ export default {
     ht: 'Vann pri: ',
     tl: 'Pagbebenta ng presyo: ',
     ja: '販売価格： ',
-    el: 'Τιμή πωλήσεως: '
+    el: 'Τιμή πωλήσεως: ',
+    sv: 'Säljande pris: ',
+    pt: 'Preço de venda: ',
+    nl: 'Verkoopprijs: ',
+    ro: 'Prețul de vânzare: ',
+    it: 'Prezzo di vendita: ',
+    da: 'Salgspris: '
   }
 }

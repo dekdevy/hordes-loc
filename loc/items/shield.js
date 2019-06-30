@@ -129,33 +129,35 @@ export default [
       cs: 'Vysoký štít chrání celé tělo. Pouze ta nejchytřejší rána se může vyhnout jeho ochraně.',
       ja: '体全体を守る高いシールド。最も狡猾な一撃だけがその防御を回避することができます。',
       tr: 'Tüm vücudunuzu koruyan uzun Kalkan. Sadece en kurnaz darbeler korumasından kaçabilir.',
-      da: 'Langt skærm bevogter hele din krop. Kun de mest snedige af slag kan undgå sin beskyttelse.'
+      da: 'Langt skærm bevogter hele din krop. Kun de mest snedige af slag kan undgå sin beskyttelse.',
+      ro: 'Scut înalt ce-ți păzește tot corpul. Doar cea mai vicleană lovitură poate scăpa de protecția lui.'
     }
   },
 
   {
     name       : {$$: 'Spiked Warshield' },
     description: {
-      en: 'Gold and yellow spikes coat this shield, displaying your authority and power.',
-      ru: 'Золотые и желтые шипы покрывают этот щит, показывая ваш авторитет и силу.',
-      fr: 'Des pics dorés et jaunes recouvrent ce bouclier, montrant votre autorité et votre puissance.',
-      de: 'Gold- und gelbe Spikes umhüllen diesen Schild und zeigen deine Autorität und Macht.',
-      pt: 'Padrões dourados e amarelos revestem este escudo, mostrando sua autoridade e poder.',
-      ko: '금색과 노란색 무늬가이 방패를 덮어 당신의 권위와 힘을 보여줍니다.',
-      nl: 'Gouden en gele patronen bedekken dit schild en tonen je autoriteit en kracht.',
-      pl: 'Złote i żółte wzory pokrywają tę tarczę, pokazując twój autorytet i moc.',
-      sv: 'Guld och gult mönster täcker denna skärm, visar din myndighet och kraft.',
-      ht: 'Lò ak modèl jòn kouvri plak pwotèj sa a, montre otorite ou ak pouvwa.',
-      it: 'Modelli in oro e giallo ricoprono questo scudo, mostrando la tua autorità e il tuo potere.',
-      hi: 'सोना और पीला पैटर्न इस ढाल को कोट करते हैं, जो आपके अधिकार और शक्ति को प्रदर्शित करते हैं।',
-      tl: 'Ang ginto at dilaw na mga pattern ay sumisipsip ng kalasag na ito, na nagpapakita ng iyong kapangyarihan at kapangyarihan.',
-      el: 'Χρυσά και κίτρινα σχέδια καλύπτουν αυτή την ασπίδα, εμφανίζοντας την εξουσία και την εξουσία σας.',
-      bg: 'Злато и жълто модели покриват този щит, показвайки вашата власт и сила.',
-      cs: 'Zlaté a žluté vzory pokrývají tento štít a zobrazují vaši autoritu a moc.',
-      ja: '金と黄色の模様がこの盾を覆い、あなたの権威と力を表しています。',
-      tr: 'Altın ve sarı desenler bu kalkanı örter, otoritenizi ve gücünüzü gösterir.',
-      es: 'Spinas de oro y amarillo cubren este escudo, mostrando su poder y autoridad.',
-      da: 'Guld og gule spikes belægge dette skjold, der viser din autoritet og magt.'
+      en: 'Silver spikes coat this shield, displaying your authority and power.',
+      ru: 'Серебряные покрывают этот щит, показывая ваш авторитет и силу.',
+      fr: 'Des pics d\'argent recouvrent ce bouclier, montrant votre autorité et votre puissance.',
+      de: 'Silberne Stacheln umhüllen diesen Schild und zeigen deine Autorität und Macht.',
+      pt: 'Padrões prata revestem este escudo, mostrando sua autoridade e poder.',
+      nl: 'Zilveren patronen bedekken dit schild en tonen je autoriteit en kracht.',
+      pl: 'Srebrne kolce pokrywają tę tarczę, pokazując twój autorytet i moc.',
+      sv: 'Silverpinnar täcker denna skärm, visar din myndighet och kraft.',
+      bg: 'Сребърен шип покриват този щит, показвайки вашата власт и сила.',
+      cs: 'Silver vzory pokrývají tento štít a zobrazují vaši autoritu a moc.',
+      da: 'Sølvpiger belægge dette skjold, der viser din autoritet og magt.',
+      ko: '은빛 스파이크가이 방패를 덮어 당신의 권위와 힘을 보여줍니다.',
+      ht: 'Silver Spikes rad plak pwotèj sa a, montre otorite ou ak pouvwa',
+      it: 'Spighe d\'argento rivestono questo scudo, mostrando la tua autorità e il tuo potere',
+      hi: 'सिल्वर स्पाइक्स आपके अधिकार और शक्ति को प्रदर्शित करते हुए इस शील्ड को कोट करते हैं',
+      tl: 'Ang spike ng pilak ay sumisipsip ng kalasag na ito, na nagpapakita ng iyong awtoridad at kapangyarihan',
+      el: 'Τα ασημένια καρφιά καλύπτουν αυτή την ασπίδα, επιδεικνύοντας την εξουσία και την εξουσία σας',
+      ja: '銀のスパイクがこの盾を覆い、あなたの権威と力を示しています',
+      tr: 'Gümüş çiviler bu kalkanı kaplar, otoritesini ve gücünü gösterir',
+      es: 'Picos de plata cubren este escudo, mostrando tu autoridad y poder.',
+      ro: 'Țepi de argint acoperă acest scut, etalându-ți autoritatea și puterea.'
     }
   },
 
@@ -208,7 +210,8 @@ export default [
       cs: 'Vysoký, tmavý a těžký štít obklopující vaše nechráněné tělo silou dávných bestií kdysi sídlících v těchto údolích.',
       ja: '背の高い、暗い、そして重い盾は、かつてこれらの谷に住んでいた古代の獣の力であなたの保護されていない体を包みます。',
       tr: 'Uzun, karanlık ve ağır Kalkan. Korunmasız vücudunuz eski yaratıkların gücü ile kaplıdır.',
-      da: 'Langt, mørkt og tungt skjold, der omslutter din ubeskyttede krop med magt fra gamle dyr, der engang er bosiddende i disse dale.'
+      da: 'Langt, mørkt og tungt skjold, der omslutter din ubeskyttede krop med magt fra gamle dyr, der engang er bosiddende i disse dale.',
+      ro: 'Un scut înalt, întunecat și greu, ce-ți învăluie corpul neprotejat cu puterea fiarelor străvechi care au locuit odată în aceste văi.'
     }
   },
 
@@ -234,7 +237,8 @@ export default [
       cs: 'Zlověstný štít vrhající hnusné prameny stínů kolem bariér vašich nepřátelských mozků, aby poskvrnil jejich vzpomínky.',
       ja: '邪悪な盾があなたの敵の心の壁を越えて邪悪な影の鎖を落として彼らの記憶を傷つけます。',
       tr: 'Düşmana gölgeler getiren uğursuz bir kalkan. Düşmanınızın anılarını kaybetmesine neden olur.',
-      da: 'Et uhyggeligt skjold, som støder på skyggefulde tråde, går forbi dine fjenders sindssygdomme for at smitte deres minder.'
+      da: 'Et uhyggeligt skjold, som støder på skyggefulde tråde, går forbi dine fjenders sindssygdomme for at smitte deres minder.',
+      ro: 'Un scut sinistru ce aruncă șuvițe malefice de umbre dincolo de barierele minții dușmanilor tăi pentru a le păta amintirile.'
     }
   },
 
@@ -260,7 +264,8 @@ export default [
       cs: 'Silný štít, který vyzařuje božské světlo svým šlechtickým spojencům, aby je zachvátili ve vlnách srdnatosti.',
       ja: '強大な盾はあなたの高貴な同盟国に神の光を放射して彼らを勇気の波に包み込みます。',
       tr: 'Cesur müttefiklerinize ilahi ışık yayan güçlü bir kalkan. Bu cesaret dalgaları ile onları kapsar.',
-      da: 'Et mægtigt skild udstråler guddommeligt lys til dine ædle allierede for at opsluge dem i bølger af værdighed.'
+      da: 'Et mægtigt skild udstråler guddommeligt lys til dine ædle allierede for at opsluge dem i bølger af værdighed.',
+      ro: 'Un scut puternic ce radiază lumină divină către nobilii tăi aliați pentru a-i învălui în valuri de vitejie.'
     }
   }
 

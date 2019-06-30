@@ -102,7 +102,8 @@ export default [
       tl: 'Isang sinaunang sandata na ninakaw mula sa mga mandarambong na mga orcs na naninirahan sa mga nakatagong lairs.',
       ro: 'O armă antică furată de la orcii jefuitori ce locuiesc în bârloguri ascunse.',
       tr: ' Gizli yerlerde gizlenmiş vahşi düşmanlardan alınan eski bir silah.',
-      da: 'Et gammelt våben stjålet fra marauding orker bosiddende i skjulte lairs.'
+      da: 'Et gammelt våben stjålet fra marauding orker bosiddende i skjulte lairs.',
+      bg: 'Древно оръжие, откраднато от мародерски орки, живеещи в скрити леговища.'
     }
   },
 

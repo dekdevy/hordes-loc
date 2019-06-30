@@ -129,7 +129,15 @@ export default {
     it: 'Hai ricevuto $1',
     hi: 'आपको $1 प्राप्त हुआ है',
     da: 'Du har modtaget $1',
-    sv: 'Du har fått $1'
+    sv: 'Du har fått $1',
+    ko: '$1 를 받았습니다.',
+    ht: 'Ou te resevwa $1',
+    cs: 'Obdrželi jste $1',
+    tl: 'Nakatanggap ka ng $1',
+    ja: '$1 を受け取りました',
+    el: 'Έχετε λάβει $1',
+    bg: 'Получихте $1',
+    ro: 'Ați primit $1'
   },
 
   drop: {
@@ -172,7 +180,11 @@ export default {
     ja: '装備アイテム',
     ko: '장비 아이템',
     sv: 'Utrusta föremål',
-    da: 'Udstyr genstand'
+    da: 'Udstyr genstand',
+    de: 'Statten Sie Ihren Items aus.',
+    fr: 'Equipez votre item',
+    nl: 'Rust uw item uit',
+    ro: 'Echipează obiectul'
   },
 
   use: {

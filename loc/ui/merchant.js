@@ -19,7 +19,8 @@ export default {
     ja: 'サーチ',
     ro: 'Caută',
     hi: 'खोजे',
-    da: 'Søg'
+    da: 'Søg',
+    sv: 'Sök'
   },
 
   filtermine: {
@@ -41,7 +42,8 @@ export default {
     ja: '私の商品のみ',
     ro: 'Doar obiectele mele',
     hi: 'मेरी वस्तुएं',
-    da: 'Kun mine genstand'
+    da: 'Kun mine genstand',
+    sv: 'Endast mina föremål'
   },
 
   buy: {
@@ -61,9 +63,10 @@ export default {
     ht: 'Achte Objè',
     ko: '물건을 사다',
     ja: '商品を購入',
-    ro: 'Cumpără Obiectul',
+    ro: 'Cumpără obiectul',
     hi: 'वस्तु खरीदे',
-    da: 'Køb genstand'
+    da: 'Køb genstand',
+    sv: 'Köp föremål'
   },
 
   post: {
@@ -86,7 +89,8 @@ export default {
     bg: 'Изпрати Предмет',
     cs: 'Poslat Předmět',
     ja: 'オブジェクトを送信',
-    da: 'Send Genstand'
+    da: 'Send Genstand',
+    ro: 'Postează obiectul'
   },
 
   delist: {
@@ -106,9 +110,10 @@ export default {
     ht: 'De-lis Objè',
     ko: '항목 삭제',
     ja: 'アイテムを無効にする',
-    ro: 'Scoate Obiectul',
+    ro: 'Scoate obiectul',
     hi: 'बाज़ार से हटाएं',
-    da: 'Fjern element fra liste'
+    da: 'Fjern element fra liste',
+    sv: 'Delista-objektet'
   },
 
   // Include the space and punctuation
@@ -131,7 +136,8 @@ export default {
     ja: '価格: ',
     ro: 'Preț: ',
     hi: 'कीमत: ',
-    da: 'Pris:'
+    da: 'Pris: ',
+    sv: 'Pris: '
   },
 
   // Include the space and punctuation
@@ -154,7 +160,8 @@ export default {
     ja: '費用: ',
     ro: 'Taxă: ',
     hi: 'कीमत: ',
-    da: 'Skat: '
+    da: 'Skat: ',
+    sv: 'Avgift'
   },
 
   dragitem: {
@@ -176,7 +183,8 @@ export default {
     ja: 'アイテムをスロットにドラッグ',
     ro: 'Pune obiectul la locul lui',
     hi: 'वस्तु खीच कर खांचे में डाल दे',
-    da: 'Træk genstand i slot'
+    da: 'Træk genstand i slot',
+    sv: 'Dra objektet till platsen'
   },
 
   auctionpost: {
@@ -205,7 +213,7 @@ export default {
 
   auctioncancel: {
     en: 'Item delisted and sent to stash',
-    ru: 'Предмет снят с продажи и положен в ваш сундук',
+    ru: 'Предмет снят с продажи и отправлен в ваш сундук',
     nl: 'Item verwijderd en naar de stash verzonden',
     de: 'Verkauf abgebrochen und Item in den Speicher geschickt',
     pt: 'Item retirado da lista e enviado para o esconderijo',
@@ -222,7 +230,8 @@ export default {
     ja: '上場廃止されたアイテム',
     ro: 'Obiect delistat și pus la păstrare',
     hi: 'वस्तु को बाज़ार से हटाकर आपके स्टैश में भेज दिया गया है',
-    da: 'Genstand afnoteret og sendt til stash'
+    da: 'Genstand afnoteret og sendt til stash',
+    sv: 'Föremål listades och skickades till stash'
   },
 
   auctionbuy: {
@@ -270,5 +279,4 @@ export default {
     sv: 'Du har sålt $1 för $2',
     da: 'Du har solgt $1 til $2'
   }
-
 }

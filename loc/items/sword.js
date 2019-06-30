@@ -36,7 +36,7 @@ export default [
       es: 'No mucho mejor que un trozo de madera en mi opinión.',
       de: 'Nicht viel besser als ein stumpfes Stück Holz, denke ich.',
       hi: 'मरी राय में यह लकड़ी के कुंद टुकड़े से बेहतर नहीं है।',
-      pt: 'Não muito melhor do que um pedaço de madeira na minha opinião.',
+      pt: 'Não é muito melhor do que um pedaço de madeira na minha opinião.',
       nl: 'Niet veel beter dan een stomp stuk hout naar mijn mening.',
       tl: 'Hindi mas mahusay kaysa sa isang mapurol piraso ng kahoy sa aking opinyon.',
       bg: 'По мое мнение не е много по-добре от едно парче дърво.',
@@ -243,33 +243,6 @@ export default [
   {
     name       : {$$: 'Knight\'s Rapier'},
     description: {
-      en: 'A blade wielded by only the most skillful knights.',
-      ru: 'Клинок, которым владеют только самые умелые рыцари',
-      es: 'Una espada blandida sólo por los caballeros más hábiles.',
-      fr: 'Une lame maniée par les plus grands chevaliers.',
-      de: 'Eine Klinge, die nur von den geschicktesten Rittern geführt wird.',
-      hi: 'सबसे कुशल योद्धा ही इसे चला सकते है।',
-      pt: 'Uma lâmina empunhada apenas pelos cavaleiros mais habilidosos.',
-      nl: 'Een zwaard dat alleen door de meest bekwame ridders wordt gedragen.',
-      tl: 'Ang isang talim na ginagamit lamang ng mga pinaka-mahusay na Knights.',
-      bg: 'Острие, притежавано само от най-умелите рицари.',
-      el: 'Μια λεπίδα που κυριαρχεί μόνο από τους πιο επιδέξιους ιππότες.',
-      pl: 'Ostrze, którym posługują się tylko najbardziej uzdolnieni rycerze.',
-      ht: 'Yon lam itilize nan sèlman kavalye yo ki pi abil.',
-      it: 'Una lama impugnata solo dai cavalieri più abili.',
-      cs: 'Čepel ovládaná jen nejkvalifikovanějšími rytíři.',
-      ja: '最も熟練した騎士だけが装備した刀身。',
-      sv: 'Ett blad som varar av endast de mest skickliga riddarna.',
-      ko: '가장 숙련 된 기사들만이 휘두르는 칼날.',
-      ro: 'O lamă mânuită doar de cei mai pricepuți cavaleri.',
-      tr: 'Sadece en yetenekli şövalyeler tarafından kullanılan bir bıçak.',
-      da: 'Et kniv varet af kun de mest dygtige riddere.'
-    }
-  },
-
-  {
-    name       : {$$: 'King\'s Glaive' },
-    description: {
       en: 'Cylindrical sword stolen from an ancient king. Cutting capability is questionable.',
       ru: 'Цилиндрический меч украден у древнего короля. Возможность разрезки сомнительна.',
       fr: 'Epée cylindrique volée à un ancien roi. Sa capacité à trancher reste à débattre.',
@@ -291,6 +264,33 @@ export default [
       ro: 'Sabie cilindrică furată de la un rege antic. Capabilitatea de tăiere este discutabilă.',
       tr: 'Eski bir kraldan çalınan silindirik kılıç. Bu kılıcın yeteneği belirsiz.',
       da: 'Cylindrisk sværd stjålet fra en gammel konge. Klippeevne er tvivlsom.'
+    }
+  },
+
+  {
+    name       : {$$: 'King\'s Glaive' },
+    description: {
+      en: 'A blade wielded by only the most skillful knights.',
+      ru: 'Клинок, которым владеют только самые умелые рыцари',
+      es: 'Una espada blandida sólo por los caballeros más hábiles.',
+      fr: 'Une lame maniée par les plus grands chevaliers.',
+      de: 'Eine Klinge, die nur von den geschicktesten Rittern geführt wird.',
+      hi: 'सबसे कुशल योद्धा ही इसे चला सकते है।',
+      pt: 'Uma lâmina empunhada apenas pelos cavaleiros mais habilidosos.',
+      nl: 'Een zwaard dat alleen door de meest bekwame ridders wordt gedragen.',
+      tl: 'Ang isang talim na ginagamit lamang ng mga pinaka-mahusay na Knights.',
+      bg: 'Острие, притежавано само от най-умелите рицари.',
+      el: 'Μια λεπίδα που κυριαρχεί μόνο από τους πιο επιδέξιους ιππότες.',
+      pl: 'Ostrze, którym posługują się tylko najbardziej uzdolnieni rycerze.',
+      ht: 'Yon lam itilize nan sèlman kavalye yo ki pi abil.',
+      it: 'Una lama impugnata solo dai cavalieri più abili.',
+      cs: 'Čepel ovládaná jen nejkvalifikovanějšími rytíři.',
+      ja: '最も熟練した騎士だけが装備した刀身。',
+      sv: 'Ett blad som varar av endast de mest skickliga riddarna.',
+      ko: '가장 숙련 된 기사들만이 휘두르는 칼날.',
+      ro: 'O lamă mânuită doar de cei mai pricepuți cavaleri.',
+      tr: 'Sadece en yetenekli şövalyeler tarafından kullanılan bir bıçak.',
+      da: 'Et kniv varet af kun de mest dygtige riddere.'
     }
   },
 
@@ -395,7 +395,9 @@ export default [
       hi: 'एक तलवार जो अतीत में कभी टूट गई थी, उसे इस महान धरती के मायावी राक्षसों ने नये से बनाया।',
       ko: '블레이드는 과거에 부서지고이 장엄한 땅의 전설적인 악마에 의해 새롭게 단련되었다고 말했습니다.',
       ja: '刃は過去に壊れたと言われて、これらの壮大な土地の伝説的な悪魔によって新しく鍛造されました。',
-      da: 'Et blad sagde at være brudt i fortiden og smedet på ny af de fantastiske dommere i disse storslåede lande.'
+      da: 'Et blad sagde at være brudt i fortiden og smedet på ny af de fantastiske dommere i disse storslåede lande.',
+      sv: 'Ett blad sägs vara brutet i det förflutna och smidda igen av de fantastiska demonerna i dessa magnifika länder.',
+      ro: 'O lamă ce se spune că ar fi fost ruptă în trecut și făurită din nou de către demonii legendari ai acestor tărâmuri magnifice.'
     }
   },
 
