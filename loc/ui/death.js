@@ -4,6 +4,7 @@ export default {
     ru: 'Ты умер',
     hi: 'आप मर चुके हैं',
     es: 'Has muerto',
+    it: 'Sei morto',
     de: 'Du bist gestorben',
     fr: 'Vous êtes morts',
     ko: '너 죽었다',
@@ -27,6 +28,7 @@ export default {
     ru: 'Нажмите кнопку, чтобы воскреснуть у ближайшего фокусника.',
     hi: 'निकटतम संयोजक पर पुनर्जीवित होने के लिए बटन दबाएं।',
     es: 'Presiona el botón para ser resucitado en el mago más cercano.',
+    it: 'Premere il pulsante per essere resuscitato dal mago più vicino.',
     de: 'Drücke die Taste, die beim nächsten Zauberer wieder auferstehen soll.',
     fr: 'Appuyez sur le bouton pour être ressuscité chez le prestidigitateur le plus proche.',
     ko: '버튼을 눌러 가장 가까운 conjurer에게 부활 시키십시오.',
@@ -45,11 +47,13 @@ export default {
     da: 'Tryk på knappen for at blive opstandet hos nærmeste konjurer.'
   },
 
+  // 'Ressurect' used in many translations
   respawn: {
-    en: 'Resurrect',
+    en: 'Respawn',
     ru: 'Воскресить',
     hi: 'अपने आप को जीवित करें',
     es: 'Resucítate',
+    it: 'Risorgere',
     de: 'Erwecke dich wieder',
     fr: 'Ressuscitez',
     ko: '자신을 부활 시키십시오.',

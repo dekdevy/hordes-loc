@@ -34,4 +34,11 @@ export default [{
   description: {
     en: 'Fires a missile of frost towards your enemy.'
   }
+},
+{
+  name: {$$: 'Ranged attack'},
+
+  description: {
+    en: 'Automatically attack your enemy at a distance.'
+  }
 }]
