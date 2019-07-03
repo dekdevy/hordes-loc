@@ -7,7 +7,9 @@ const classes = [
   warrior,
   mage,
   archer,
-  shaman]
+  shaman,
+  { name: {$$:'NPC'} }, // someone can create elaborate files for this if they want
+  { name: {$$:'Monster'} },]  // e.g. classes/monster.js and implement like the other classes
 
 // Items
 import amulet from './items/amulet.js'
@@ -54,7 +56,8 @@ import bloodlust from './factions/bloodlust.js'
 import vanguard from './factions/vanguard.js'
 const factions = [
   vanguard,
-  bloodlust]
+  bloodlust,
+  { name: {$$:'Neutral'} }]
 
 // Npcs
 import blacksmith from './npcs/blacksmith.js'
