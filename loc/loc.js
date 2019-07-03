@@ -8,8 +8,8 @@ const classes = [
   mage,
   archer,
   shaman,
-  { name: {$$: 'NPC'} }, // someone can create elaborate files for this if they want
-  { name: {$$: 'Monster'} }]  // e.g. classes/monster.js and implement like the other classes
+  { name: {$$: 'NPC'} },
+  { name: {$$: 'Monster'} }]
 
 // Items
 import amulet from './items/amulet.js'
