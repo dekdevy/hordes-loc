@@ -56,6 +56,9 @@ export default {
     },
     {
       en: 'Spend gold'
-    }
+    },
+    {
+      en: 'Fame gain'
+    },
   ]
 }
