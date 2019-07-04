@@ -3,13 +3,15 @@ import archer from './classes/archer.js'
 import mage from './classes/mage.js'
 import shaman from './classes/shaman.js'
 import warrior from './classes/warrior.js'
+import npc from './classes/npc.js'
+import monster from './classes/monster.js'
 const classes = [
   warrior,
   mage,
   archer,
   shaman,
-  { name: {$$: 'NPC'} },
-  { name: {$$: 'Monster'} }]
+  npc,
+  monster]
 
 // Items
 import amulet from './items/amulet.js'

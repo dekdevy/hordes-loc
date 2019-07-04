@@ -90,7 +90,15 @@ export default {
     },
 
     {
+      en: 'Item Find'
+    },
+
+    {
       en: 'Bag Slots'
+    },
+
+    {
+      en: 'Fame'
     },
 
     {
