@@ -145,7 +145,8 @@ export default {
     pt: 'nas proximidades',
     pl: 'w pobliżu',
     ro: 'din apropiere',
-    da: 'i nærheden'
+    da: 'i nærheden',
+    ja: 'あなたの近くに'
   },
 
   link: {
