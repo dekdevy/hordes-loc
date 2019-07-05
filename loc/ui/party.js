@@ -132,6 +132,7 @@ export default {
   nearby: {
     en: 'nearby',
     ru: 'поблизости',
+    de: 'in der Nähe',
     es: 'cercanas',
     fr: 'proximité',
     bg: 'наблизо',
