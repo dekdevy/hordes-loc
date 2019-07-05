@@ -1,10 +1,10 @@
 // classes are exported as array since the game typically stores class as integer
 import archer from './classes/archer.js'
 import mage from './classes/mage.js'
+import monster from './classes/monster.js'
+import npc from './classes/npc.js'
 import shaman from './classes/shaman.js'
 import warrior from './classes/warrior.js'
-import npc from './classes/npc.js'
-import monster from './classes/monster.js'
 const classes = [
   warrior,
   mage,
