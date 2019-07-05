@@ -128,29 +128,9 @@ export default {
     da: '$1 har inviteret dig til at deltage i deres Party.'
   },
 
-  // members, as in "12 members in party"
-  members: {
-    en: 'Members',
-    de: 'Mitglieder',
-    hi: 'सदस्य',
-    it: 'Membri',
-    pl: 'Członkowie',
-    pt: 'Membros',
-    fr: 'Membres',
-    ru: 'Члены',
-    nl: 'Leden',
-    es: 'Miembros',
-    tr: 'Üye',
-    cs: 'Členové',
-    ja: 'メンバー',
-    ht: 'Manm yo',
-    sv: 'Medlemmar',
-    ko: '회원',
-    bg: 'члена',
-    el: 'Μέλη',
-    tl: 'Mga Miyembro',
-    ro: 'Membrii',
-    da: 'Medlemmer'
+  // nearby, as in "12 members nearby"
+  nearby: {
+    en: 'nearby'
   },
 
   link: {
