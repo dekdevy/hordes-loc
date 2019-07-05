@@ -130,7 +130,21 @@ export default {
 
   // nearby, as in "12 members nearby"
   nearby: {
-    en: 'nearby'
+    en: 'nearby',
+    ru: 'поблизости',
+    es: 'cercanas',
+    fr: 'proximité',
+    bg: 'наблизо',
+    cs: 'v okolí',
+    el: 'κοντά',
+    sv: 'i närheten',
+    tl: 'na partido',
+    tr: 'Yakında',
+    nl: 'in de buurt',
+    pt: 'nas proximidades',
+    pl: 'w pobliżu',
+    ro: 'din apropiere',
+    da: 'i nærheden'
   },
 
   link: {
