@@ -146,7 +146,9 @@ export default {
     pl: 'w pobliżu',
     ro: 'din apropiere',
     da: 'i nærheden',
-    ja: 'あなたの近くに'
+    ja: 'あなたの近くに',
+    hi: 'आपके करीब',
+    ht: 'tou pre ou'
   },
 
   link: {
