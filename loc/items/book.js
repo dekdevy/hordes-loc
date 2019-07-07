@@ -42,6 +42,13 @@ export default [{
     en: 'Automatically attack your enemy at a distance.'
   }
 },
+{
+  name: {$$: 'Mend'},
+
+  description: {
+    en: 'Heal a friendly target over a short duration.'
+  }
+},
 
 // From here on are buff descriptions, these are not actually available
 // as books in the game, but included here as a localization shortcut
