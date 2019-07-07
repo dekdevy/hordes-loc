@@ -111,6 +111,6 @@ export default {
 
     {
       en: '% Increased Damage'
-    } 
+    }
   ]
 }
