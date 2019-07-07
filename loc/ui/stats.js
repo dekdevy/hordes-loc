@@ -42,11 +42,11 @@ export default {
     },
 
     {
-      en: 'HP reg./5s'
+      en: 'HP Reg./5s'
     },
 
     {
-      en: 'MP reg./5s'
+      en: 'MP Reg./5s'
     },
 
     {
