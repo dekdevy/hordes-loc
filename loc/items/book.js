@@ -1,7 +1,7 @@
 // --- DO NOT TRANSLATE UNTIL END OF BETA AND SKILLS HAVE BEEN DESIGNED ---
 // --- these are all trashy placeholders ---
 export default [{
-  name: {$$: 'Melee attack'},
+  name: {$$: 'Auto attack'},
 
   description: {
     en: 'Perform automatic melee attacks with your weapon.'
@@ -18,7 +18,7 @@ export default [{
   name: {$$: 'Bulwark'},
 
   description: {
-    en: 'Enhance your shields block chance.'
+    en: 'Increase your block chance temporarily, while raising your damage for each successful block.' // descriptions are coming from the buffs
   }
 },
 {
@@ -36,9 +36,26 @@ export default [{
   }
 },
 {
-  name: {$$: 'Ranged attack'},
+  name: {$$: 'Auto attack'},
 
   description: {
     en: 'Automatically attack your enemy at a distance.'
+  }
+},
+
+// From here on are buff descriptions, these are not actually available
+// as books in the game, but included here as a localization shortcut
+{
+  name: {$$: 'Bulwarks Protection'},
+
+  description: {
+    en: 'Increase your block chance temporarily. While active, each successful block grants one stack of Bulwarks Resolve.'
+  }
+},
+{
+  name: {$$: 'Bulwarks Resolve'},
+
+  description: {
+    en: 'Increases your damage for each stack currently active.'
   }
 }]

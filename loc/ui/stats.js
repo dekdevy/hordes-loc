@@ -78,7 +78,7 @@ export default {
     },
 
     {
-      en: 'Move speed'
+      en: 'Move Speed'
     },
 
     {
@@ -102,7 +102,15 @@ export default {
     },
 
     {
-      en: 'Stat points'
-    }
+      en: 'Stat Points'
+    },
+
+    {
+      en: 'Skill Points'
+    },
+
+    {
+      en: '% Increased Damage'
+    } 
   ]
 }
