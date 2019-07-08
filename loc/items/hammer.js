@@ -382,7 +382,7 @@ export default [
     description: {
       en: 'Deadly and uncontrollable, this celestial hammer etches terror in its purest form into those unfortunate ones who have caught sight of it.',
       ru: 'Смертоносный и неконтролируемый, этот небесный молот в чистейшей форме протравливает ужас в тех несчастных, кто его увидел.',
-      hi: 'घातक और बेकाबू, यह स्वर्गीय हथौड़ा अपने शुद्ध रूप में उन दुर्भाग्यपूर्ण लोगों में आतंक बोता है जिन्होंने इसे देखा।',
+      hi: 'घातक और बेकाबू, यह स्वर्गीय हथौड़ा आतंक के सबसे शुद्द रूप को उन दुर्भाग्य लोगों के बसा देता है जिन्होंने इसे देख लिया।',
       es: 'Mortal e incontrolable, este martillo celestial graba el terror en su forma más pura en aquellos desafortunados que lo han visto.',
       el: 'Κάποιοι λένε ότι από τους νάνοι οι άλλοι λένε από τους ξωτικούς ... η αλήθεια δεν έχει αποκαλυφθεί ακόμα.',
       bg: 'Някои казват, че направените от джуджета други казват от елфи ... истината все още не е разкрита.',
@@ -409,7 +409,7 @@ export default [
     description: {
       en: 'Does it have the power to end worlds? Few can say. If it does, we will not live long enough to learn of it.',
       ru: 'Есть ли у него сила, чтобы положить конец мирам? Мало кто может сказать. Если это произойдет, нас уже не будет в живых, чтобы узнать об этом.',
-      hi: 'यह शक्ति दुनिया समाप्त करने के लिए है? कुछ कह सकते हैं। यदि ऐसा है, हम लंबे इसके बारे में जानने के लिए पर्याप्त नहीं रह जाएगा।',
+      hi: 'क्या इसमें दुनिया ख़त्म करने की शक्ति है? कुछ ही कह सकते है। यदि है, तो हम इसके बारे में जानने लायक़ लम्बा नहीं जिएँगे।',
       es: '¿Tiene el poder de acabar con los mundos? Pocos pueden decirlo. Si lo hace, no viviremos lo suficiente para aprenderlo.',
       de: 'Hat sie die Macht, Welten zu beenden? Nur wenige können das sagen. Wenn dies der Fall ist, werden wir nicht lange genug leben, um davon zu erfahren.',
       el: 'Έχει τη δύναμη να τερματίσει τους κόσμους; Λίγοι μπορούν να πουν. Αν το κάνει, δεν θα ζήσουμε αρκετά για να μάθουμε γι \'αυτό.',
@@ -436,7 +436,7 @@ export default [
     description: {
       en: 'A mysterious magician soaked many intricate charms into this weapon, bringing ghastly thoughts and dreams to its wielder.',
       ru: 'Таинственный волшебник впитал множество замысловатых чар на этом оружии, принося ужасные мысли и мечты его обладателю.',
-      hi: 'एक रहस्यमय जादूगर इस हथियार के रूप में कई जटिल आकर्षण लथपथ, अपने मेजबान के लिए भयंकर विचारों और सपनों को लाते हैं।',
+      hi: 'एक रहस्यमयी जादूगर ने इस हथियार में ऐसे जटिल जादू निचोड़े के इसे चलने वाले को भयंकर ख़याल और ख़्वाब आते है।',
       es: 'Un mago misterioso empapó muchos encantos intrincados en esta arma, trayendo pensamientos y sueños espantosos a su portador.',
       el: 'Ένας μυστηριώδης μάγος μουσκεύει πολλές πολύπλοκες γοητείες σε αυτό το όπλο που φέρνει φρικιαστικές σκέψεις και όνειρα στο πονηρό του.',
       bg: 'Тайнственият магьосник накисна много сложни прелести в това оръжие, довеждайки ужасни мисли и мечти до неговия водач.',
