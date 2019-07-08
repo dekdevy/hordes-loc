@@ -1,13 +1,17 @@
 // classes are exported as array since the game typically stores class as integer
 import archer from './classes/archer.js'
 import mage from './classes/mage.js'
+import monster from './classes/monster.js'
+import npc from './classes/npc.js'
 import shaman from './classes/shaman.js'
 import warrior from './classes/warrior.js'
 const classes = [
   warrior,
   mage,
   archer,
-  shaman]
+  shaman,
+  npc,
+  monster]
 
 // Items
 import amulet from './items/amulet.js'
@@ -54,7 +58,8 @@ import bloodlust from './factions/bloodlust.js'
 import vanguard from './factions/vanguard.js'
 const factions = [
   vanguard,
-  bloodlust]
+  bloodlust,
+  { name: {$$: 'Neutral'} }]
 
 // Npcs
 import blacksmith from './npcs/blacksmith.js'
@@ -76,6 +81,7 @@ import * as stashui from './ui/stash.js'
 import charmenu from './ui/charmenu.js'
 import chat from './ui/chat.js'
 import clan from './ui/clan.js'
+import death from './ui/death.js'
 import general from './ui/general.js'
 import inventory from './ui/inventory.js'
 import party from './ui/party.js'
@@ -91,6 +97,7 @@ const ui = {
   party,
   stash   : stashui.default,
   stats,
+  death,
   ...general }
 
 export default {

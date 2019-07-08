@@ -21,7 +21,8 @@ export default [
       sv: 'Vapen smidd av den största smeden av hela landet. Det var åtminstone det vi sa till Timmy.',
       ko: '모든 땅의 가장 큰 대장장이가 만든 무기. 적어도 우리가 티미에게 말한 것입니다.',
       ro: 'Armă făurită de cel mai bun fierar din țară. Cel puțin asta i-am spus micuțului Timmy.',
-      tr: 'Bu topraklarda en iyi Demirci tarafından yapılan bir silah. En azından küçük Timmy\'ye böyle söyledik.'
+      tr: 'Bu topraklarda en iyi Demirci tarafından yapılan bir silah. En azından küçük Timmy\'ye böyle söyledik.',
+      da: 'Våben smedet af den største smed af hele landet. Det var i hvert fald det, vi fortalte lille Timmy.'
     }
   },
 
@@ -47,7 +48,8 @@ export default [
       sv: 'Desperata situationer kräver desperata åtgärder.',
       ko: '필사적 인 상황에서는 필사적 인 조치가 필요합니다.',
       ro: 'Situațiile disperate cer măsuri disperate.',
-      tr: 'Umutsuz durumlar umutsuz önlemler için çağrı.'
+      tr: 'Umutsuz durumlar umutsuz önlemler için çağrı.',
+      da: 'Desperate situationer kræver desperate foranstaltninger.'
     }
   },
 
@@ -73,7 +75,8 @@ export default [
       sv: 'Smutsig kvast stulen från en mage. Gnarled och benig.',
       ko: '지저분한 빗자루가 마법사에게서 도난당했습니다. 뼈 아프다.',
       ro: 'Coadă de Mătură uzată furată de la un mag. Noduros și osos.',
-      tr: 'Bir büyücüden çalınan çok yıpranmış bir süpürge çubuğu. kaba ve kemikli.'
+      tr: 'Bir büyücüden çalınan çok yıpranmış bir süpürge çubuğu. kaba ve kemikli.',
+      da: 'Beskidt pind af en kost, stjålet fra en mage. Gnarled og benet.'
     }
   },
 
@@ -99,8 +102,8 @@ export default [
       sv: 'En trollstav som klipps från en gammal eks grenar. Infunderad med djup kraft.',
       ko: '고대 참나무의 가지에서 잘라 지팡이. 깊은 힘이 스며 들었습니다',
       ro: 'O baghetă tăiată din ramurile unui stejar antic. Infuzată cu o putere profundă.',
-      tr: 'Eski bir meşe dalından kesilmiş bir değnek. Bu asanın derin gücü var.'
-
+      tr: 'Eski bir meşe dalından kesilmiş bir değnek. Bu asanın derin gücü var.',
+      da: 'En tavle skåret fra grene af en gammel eg. Infunderet med dyb magt.'
     }
   },
 
@@ -126,7 +129,8 @@ export default [
       sv: 'Mystiskt vapen glödande med en mystisk väsen.',
       ko: '신비한 본질로 빛나는 신비한 무기',
       ro: 'Armă mistică ce strălucește cu o esență misterioasă.',
-      tr: 'Gizemli bir özü ile parlayan mistik silah.'
+      tr: 'Gizemli bir özü ile parlayan mistik silah.',
+      da: 'Mystisk våben glødende med en mystisk essens.'
     }
   },
 
@@ -152,7 +156,8 @@ export default [
       sv: 'Inget fancy om det här vapnet, bara lårbenets lår.',
       ko: '이 무기에 대해 환상적인 것은 없으며, 리치의 대퇴골에 불과합니다.',
       ro: 'Nimic extravagant la această armă, doar femurul unui lich.',
-      tr: 'Bu silah hakkında hiçbir şey fantezi. Sadece ölü bir canavardan bir kemik.'
+      tr: 'Bu silah hakkında hiçbir şey fantezi. Sadece ölü bir canavardan bir kemik.',
+      da: 'Intet fancy om dette våben, bare lårbenenes lår.'
     }
   },
 
@@ -178,7 +183,8 @@ export default [
       sv: 'Lång stång med en skimrande blå pärla på kronan.',
       ko: '그것의 크라운에 반짝임 파란 보석을 가진 긴 막대.',
       ro: 'Un toiag lung cu o bijuterie albastră sclipitoare pusă pe coroană.',
-      tr: 'Taç üzerinde parıldayan mavi bir mücevher ile uzun çubuk.'
+      tr: 'Taç üzerinde parıldayan mavi bir mücevher ile uzun çubuk.',
+      da: 'Intet fancy om dette våben, bare lårbenenes lår.'
     }
   },
 
@@ -204,7 +210,8 @@ export default [
       sv: 'Mörk lila personal. Ganska mystisk när det gäller att göra, men ändå trevligt att titta på.',
       ko: '어두운 보라색 직원. 그것의 만드는 것에있는 확실히 신비한, 그러나 보는 것은 좋다.',
       ro: 'Toiag purpuriu închis. Destul de misterios în fabricare, dar e frumos să te uiți la el.',
-      tr: 'Koyu mor. Yapımında oldukça gizemli, henüz bakmak güzel.'
+      tr: 'Koyu mor. Yapımında oldukça gizemli, henüz bakmak güzel.',
+      da: 'Mørk lilla personale. Helt mystisk i sin fremstilling, men godt at se på.'
     }
   },
 
@@ -230,7 +237,8 @@ export default [
       sv: 'Konstruerad från smaragder som stulits från bergsdvärgarna.',
       ko: '산 드워프에서 도난당한 에메랄드로 만들어졌습니다.',
       ro: 'Construit din smaralde furate de la piticii de munte.',
-      tr: 'Dağ cücelerinden çalınan zümrütlerden inşa edilmiştir.'
+      tr: 'Dağ cücelerinden çalınan zümrütlerden inşa edilmiştir.',
+      da: 'Konstrueret fra smaragder stjålet fra bjergdværgerne.'
     }
   },
 
@@ -256,7 +264,8 @@ export default [
       sv: 'Konstigt ... personalen verkar... triangulär...',
       ko: '이상합니다 ... 직원들은 ... 삼각형 인 것 같습니다...',
       ro: 'Straniu... toiagul pare... triunghiular...',
-      tr: 'Garip... bu görünüyor... üçgen şeklinde.'
+      tr: 'Garip... bu görünüyor... üçgen şeklinde...',
+      da: 'Mærkeligt ... personalet synes ... trekantede ...'
     }
   },
 
@@ -282,7 +291,8 @@ export default [
       sv: 'Excentrisk stång med en ljusblå sten inbäddad inuti ...',
       ko: '내부에 옅은 푸른 색 돌이 달린 괴상한 막대가 ...',
       ro: 'Un toiag excentric cu o piatră albastră pală încorporată înăuntru...',
-      tr: 'İçinde gömülü soluk mavi taşlı eksantrik çubuk.'
+      tr: 'İçinde gömülü soluk mavi taşlı eksantrik çubuk.',
+      da: 'Ekscentrisk stang med en lyseblå sten indlejret indeni ...'
     }
   },
 
@@ -308,7 +318,8 @@ export default [
       sv: 'Konstruerad av okända smeden som bor i fableda dalar.',
       ko: '전설적인 계곡에 거주하는 알려지지 않은 대장장이들에 의해 건축되었습니다.',
       ro: 'Construit de fierari necunoscuți ce locuiesc în văi legendare.',
-      tr: 'Efsanevi vadilerde yaşayan bilinmeyen demirciler tarafından inşa edilmiştir.'
+      tr: 'Efsanevi vadilerde yaşayan bilinmeyen demirciler tarafından inşa edilmiştir.',
+      da: 'Konstrueret af ukendte smedere, der bor i fabelagtige dale.'
     }
   },
 
@@ -334,7 +345,8 @@ export default [
       sv: 'Dess skönhet kallar till dig ... att döda ... för att erövra ...',
       ko: '그 아름다움은 당신을 부른다 ... 죽이기 위해서 ... 정복하기 위해 ...',
       ro: 'Frumusețea lui te cheamă... pentru a ucide... pentru a cuceri...',
-      tr: 'Güzelliği size sesleniyor...öldürmek...fethetmek...'
+      tr: 'Güzelliği size sesleniyor...öldürmek...fethetmek...',
+      da: 'Dens skønhed opfordrer til dig ... at dræbe ... for at erobre ...'
     }
   },
 
@@ -360,7 +372,8 @@ export default [
       sv: 'En personal som stulits från änglarna. De letar fortfarande efter det.',
       ko: '직원이 천사들로부터 도난당했습니다. 그들은 아직도 그것을 찾고 있습니다.',
       ro: 'Un toiag furat de la îngeri. Încă îl mai caută.',
-      tr: 'Meleklerden çalındı. Hala onu arıyorlar.'
+      tr: 'Meleklerden çalındı. Hala onu arıyorlar.',
+      da: 'Et personale stjålet fra englene. De er stadig på jagt efter det.'
     }
   },
 
@@ -386,7 +399,8 @@ export default [
       sv: 'Rå i sitt utseende, men mäktigt i sitt hjärta ...',
       ko: '그것의보기에있는 조잡한, 그러나 그것의 심혼에 강 대한 ...',
       ro: 'Crud în aspectul său, dar puternic în inima sa...',
-      tr: 'İlkel görünüyor, ama güçlü bir kalbi var.'
+      tr: 'İlkel görünüyor, ama güçlü bir kalbi var.',
+      da: 'Rå i sit udseende, men alligevel mægtig i sit hjerte ...'
     }
   },
 
@@ -412,7 +426,8 @@ export default [
       sv: 'Vi får höra det är kärnan är från hjärtat av en häxa. Ingen har hittat liket. Eller personalen själv.',
       ko: '우리는 그것이 핵심이 마녀의 심장에서 온 것이라고 말합니다. 아무도 시체를 발견하지 못했습니다. 또는 직원 자체.',
       ro: 'Ni s-a spus că nucleul provine din inima unei vrăjitoare. Nimeni nu a găsit cadavrul. Sau toiagul în sine.',
-      tr: 'Çekirdeğin bir cadının kalbinden geldiğini söylüyorlar. Cesedi kimse bulamadı.'
+      tr: 'Çekirdeğin bir cadının kalbinden geldiğini söylüyorlar. Cesedi kimse bulamadı.',
+      da: 'Vi får at vide, at kernen er fra hjertet af en heks. Ingen har fundet liget. Eller personalet selv.'
     }
   },
 
@@ -438,7 +453,8 @@ export default [
       sv: 'Detta vapen är så hemligt att de få som använder det har dödat allt som känner till det.',
       ko: '이 무기는 너무 비밀 스럽기 때문에 그것을 사용하는 소수만이 알고있는 모든 것을 죽였습니다.',
       ro: 'Această armă este atât de secretoasă încât puținii care o posedă au ucis tot ce se știa despre ea.',
-      tr: 'Çok gizli. Bunu çok az kişi kullandı ve onu kullananlar, yolundaki her şeyi öldürdüler.'
+      tr: 'Çok gizli. Bunu çok az kişi kullandı ve onu kullananlar, yolundaki her şeyi öldürdüler.',
+      da: 'Dette våben er så hemmelighedsfuldt, at de få, der bruger det, har dræbt alt, hvad der kender til det.'
     }
   }
 

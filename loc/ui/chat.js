@@ -19,15 +19,16 @@ export default {
     bg: 'Шепни',
     el: 'Ψίθυρος',
     tl: 'Bulong',
-    ro: 'Șoaptă'
+    ro: 'Șoaptă',
+    da: 'Hvisk'
   },
 
   types: [ // dont translate until beta testing
     {
-      en: 'Exp gain'
+      en: 'Exp Gain'
     },
     {
-      en: 'Target change'
+      en: 'Target Change'
     },
     {
       en: 'Cast'
@@ -42,7 +43,7 @@ export default {
       en: 'Death'
     },
     {
-      en: 'Level up'
+      en: 'Level Up'
     },
     {
       en: 'Item'
@@ -51,10 +52,13 @@ export default {
       en: 'Auction'
     },
     {
-      en: 'Pick gold'
+      en: 'Pick Gold'
     },
     {
-      en: 'Spend gold'
+      en: 'Spend Gold'
+    },
+    {
+      en: 'Fame Gain'
     }
   ]
 }

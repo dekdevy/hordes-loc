@@ -19,12 +19,13 @@ export default {
     cs: 'Pozvat Party',
     ja: 'Party への招待',
     hi: 'Party में आमंत्रण',
-    sv: 'Party inbjudan',
+    sv: 'Party Inbjudan',
     ko: 'Party 초대',
     bg: 'Покана за Party',
     el: 'Πρόσκληση Party',
-    tl: 'Party imbitahan',
-    ro: 'Invitație la Party'
+    tl: 'Party Imbitahan',
+    ro: 'Invitație la Party',
+    da: 'Invitere til Party'
   },
 
   // DO NOT translate Party
@@ -48,7 +49,8 @@ export default {
     bg: 'Изритай от Party',
     el: 'λάκτισμα party',
     tl: 'Party sipa',
-    ro: 'Lovitură de Party'
+    ro: 'Lovitură de Party',
+    da: 'Kick ud af Party'
   },
 
   // DO NOT translate Party
@@ -72,7 +74,8 @@ export default {
     bg: 'Излизане от Party',
     el: 'Αφήστε Party',
     tl: 'Iwanan ang Party',
-    ro: 'Părăsește Party'
+    ro: 'Părăsește Party',
+    da: 'Forlad Party'
   },
 
   // DO NOT translate Party
@@ -96,7 +99,8 @@ export default {
     bg: 'Създаване на Party',
     el: 'Δημιουργία Party',
     tl: 'Lumikha ng Party',
-    ro: 'Creează Party'
+    ro: 'Creează Party',
+    da: 'Opret Party'
   },
 
   // DO NOT translate Party
@@ -120,31 +124,31 @@ export default {
     bg: '$1 ви покани да се присъедините към Party.',
     el: 'Το $1 σας έχει προσκαλέσει να συμμετάσχετε στο Party τους.',
     tl: 'Inanyayahan ka ng $1 na sumali sa kanilang Party.',
-    ro: '$1 te-a invitat să te alături Party-ului'
+    ro: '$1 te-a invitat să te alături Party-ului',
+    da: '$1 har inviteret dig til at deltage i deres Party.'
   },
 
-  // members, as in "12 members in party"
-  members: {
-    en: 'Members',
-    de: 'Mitglieder',
-    hi: 'सदस्य',
-    it: 'Membri',
-    pl: 'Członkowie',
-    pt: 'Membros',
-    fr: 'Membres',
-    ru: 'Члены',
-    nl: 'Leden',
-    es: 'Miembros',
-    tr: 'Üye',
-    cs: 'Členové',
-    ja: 'メンバー',
-    ht: 'Manm yo',
-    sv: 'Medlemmar',
-    ko: '회원',
-    bg: 'члена',
-    el: 'Μέλη',
-    tl: 'Mga Miyembro',
-    ro: 'Membrii'
+  // nearby, as in "12 members nearby"
+  nearby: {
+    en: 'nearby',
+    ru: 'поблизости',
+    de: 'in der Nähe',
+    es: 'cercanas',
+    fr: 'proximité',
+    bg: 'наблизо',
+    cs: 'v okolí',
+    el: 'κοντά',
+    sv: 'i närheten',
+    tl: 'na partido',
+    tr: 'Yakında',
+    nl: 'in de buurt',
+    pt: 'nas proximidades',
+    pl: 'w pobliżu',
+    ro: 'din apropiere',
+    da: 'i nærheden',
+    ja: 'あなたの近くに',
+    hi: 'आपके करीब',
+    ht: 'tou pre ou'
   },
 
   link: {
@@ -167,7 +171,8 @@ export default {
     bg: 'Линк за покана',
     el: 'Σύνδεσμος πρόσκλησης',
     tl: 'Link ng Imbitasyon',
-    ro: 'Link-ul invitației'
+    ro: 'Link-ul invitației',
+    da: 'Invitation Link'
   },
 
   // DO NOT translate Party
@@ -191,7 +196,8 @@ export default {
     bg: 'Изпратете този линк на други играчи! Това ще им позволи да се присъединят към вашата Party.',
     el: 'Στείλτε αυτό το σύνδεσμο σε άλλους παίκτες! Αυτό θα τους επιτρέψει να ενταχθούν στο Party σας.',
     tl: 'Ipadala ang link na ito sa ibang mga manlalaro! Ito ay magpapahintulot sa kanila na sumali sa iyong Party.',
-    ro: 'Trimi-te acest link altor jucători! Le va permite să se alăture Party-ului tău.'
+    ro: 'Trimi-te acest link altor jucători! Le va permite să se alăture Party-ului tău.',
+    da: 'Send dette link til andre spillere! Dette vil give dem mulighed for at deltage i din Party.'
   },
 
   copyLink: {
@@ -209,15 +215,16 @@ export default {
     it: 'Copia negli Appunti',
     pt: 'Copiar para Área de transferência',
     pl: 'Skopiować do schowka.',
-    cs: 'Zkopírovat do schránky',
+    cs: 'Kopírovat do vyrovnávací paměti',
     ja: 'クリップボードにコピー',
     hi: 'क्लिपबोर्ड पर कॉपी करें',
-    ht: 'Kopi nan clipboard',
+    ht: 'Kopi nan tanpon',
     sv: 'Kopiera till Urklipp',
     ko: '클립 보드에 복사',
-    bg: 'Копирай',
+    bg: 'Копиране в буфер',
     el: 'Αντιγραφή στο πρόχειρο',
     tl: 'Kopyahin sa clipboard',
-    ro: 'Copiați în clipboard'
+    ro: 'Copiați în clipboard',
+    da: 'Kopier til buffer'
   }
 }
