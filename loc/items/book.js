@@ -71,4 +71,11 @@ export default [{
   description: {
     en: 'Increases your damage for each stack currently active.'
   }
+},
+{
+  name: {$$: 'Revitalization'},
+
+  description: {
+    en: 'Heals over time with increased power per stack.'
+  }
 }]
