@@ -56,26 +56,34 @@ export default [{
     en: 'Heal a friendly target over a short duration.'
   }
 },
+{
+  name: {$$: 'Bloodline'},
+
+  description: {
+    en: 'You inherited special abilities through your ancestry and family traditions, granting you extra benefits from certain stats.'
+  }
+}
 // From here on are buff descriptions, these are not actually available
 // as books in the game, but included here as a localization shortcut
-{
-  name: {$$: 'Bulwarks Protection'},
-
-  description: {
-    en: 'Increase your block chance temporarily. While active, each successful block grants one stack of Bulwarks Resolve.'
-  }
-},
-{
-  name: {$$: 'Bulwarks Resolve'},
-
-  description: {
-    en: 'Increases your damage for each stack currently active.'
-  }
-},
-{
-  name: {$$: 'Revitalization'},
-
-  description: {
-    en: 'Heals over time with increased power per stack.'
-  }
-}]
+// {
+//   name: {$$: 'Bulwarks Protection'}
+// },
+// {
+//   name: {$$: 'Bulwarks Resolve'}
+// },
+// {
+//   name: {$$: 'Revitalization'}
+// },
+// {
+//   name: {$$: 'Spec Warrior'}
+// },
+// {
+//   name: {$$: 'Spec Mage'}
+// },
+// {
+//   name: {$$: 'Spec Archer'}
+// },
+// {
+//   name: {$$: 'Spec Shaman'}
+// }
+]
