@@ -62,6 +62,13 @@ export default [{
   description: {
     en: 'You inherited special abilities through your ancestry and family traditions, granting you extra benefits from certain stats.'
   }
+},
+{
+  name: {$$: 'Precise Shot'},
+
+  description: {
+    en: 'A carefully aimed, high damage shot.'
+  }
 }
 // From here on are buff descriptions, these are not actually available
 // as books in the game, but included here as a localization shortcut
