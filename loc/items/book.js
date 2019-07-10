@@ -53,7 +53,7 @@ export default [{
   name: {$$: 'Revitalize'},
 
   description: {
-    en: 'Heal a friendly target over a short duration.'
+    en: 'Heal a friendly target over a short duration, stacking up to 3 times while also increasing the power of your Mend.'
   }
 },
 {
