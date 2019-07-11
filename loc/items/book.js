@@ -76,6 +76,13 @@ export default [{
   description: {
     en: 'Your Precise Shots will jump to additional targets while active.'
   }
+},
+{
+  name: {$$: 'Invigorate'},
+
+  description: {
+    en: 'You temporarily gain Haste and your Precise Shots regenerate mana on hit.'
+  }
 }
 // From here on are buff descriptions, these are not actually available
 // as books in the game, but included here as a localization shortcut
