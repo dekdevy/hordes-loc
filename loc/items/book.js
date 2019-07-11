@@ -69,6 +69,13 @@ export default [{
   description: {
     en: 'A carefully aimed, high damage shot.'
   }
+},
+{
+  name: {$$: 'Serpent Arrows'},
+
+  description: {
+    en: 'Your Precise Shots will jump to additional targets while active.'
+  }
 }
 // From here on are buff descriptions, these are not actually available
 // as books in the game, but included here as a localization shortcut
