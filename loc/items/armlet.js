@@ -107,26 +107,26 @@ export default [
     name       : {$$: 'Iron Vambraces' },
     description: {
       en: 'Heavy on your arms... worth the protection.',
-      ru: 'Тяжёлые ... но дают хорошую защиту.',
+      ru: 'Тяжёлые... но дают хорошую защиту.',
       es: 'Pesado, pero vale la pena.',
       fr: 'Pèse lourd sur votre bras... ça en vaut la protection.',
       de: 'Schwer auf den Händen... den Schutz wert.',
       pt: 'Pesado no braço...mas vale a pena a protecção.',
       ko: '팔에는 무겁지만... 보호가 그만한 가치가있다.',
       nl: 'Zwaar op je arm... de bescherming waard.',
-      pl: 'Ciężko na twojej ręce.... warte ochrony.',
+      pl: 'Ciężko na twojej ręce... warte ochrony.',
       sv: 'Tung på armen ... värt skydd.',
       tl: 'Malakas sa iyong braso ... nagkakahalaga ng proteksyon.',
       tr: 'Kolunda ağır durur... koruma için değer.',
-      ht: 'Lou ... men vo defans yo.',
+      ht: 'Lou... men vo defans yo.',
       it: 'Pesante sul braccio... vale la pena proteggerlo.',
-      el: 'Βαρύ στο χέρι σου ... αξίζει την προστασία.',
-      bg: 'Тежка на ръце ти ... си струваше защитата.',
+      el: 'Βαρύ στο χέρι σου... αξίζει την προστασία.',
+      bg: 'Тежка на ръце ти... си струваше защитата.',
       hi: 'हाथ पर भारी... पर सुरक्षा ज़रूर देता है।.',
       cs: 'Těžká na paži ... stojí za to.',
       ja: 'あなたの腕に重い...保護に値する。',
       ro: 'Grea pe braț... dar merită protecția.',
-      da: 'Tung på dine arme ... værd at beskytte.'
+      da: 'Tung på dine arme... værd at beskytte.'
     }
   },
 
