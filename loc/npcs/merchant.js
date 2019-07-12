@@ -18,14 +18,14 @@ export default {
       de: 'Nun, schau, was wir hier haben! Nein, diese Ausrüstung reicht nicht aus, oder? Werfen Sie einen Blick auf den freien Markt! Gerüchte verbreiten sich; ich habe von Warcry Scrolls gehört, das einen Freund zu deiner Position teleportieren kann. Lasst uns das einfach unter uns behalten, okay?',
       es: '¡Bueno, mira lo que tenemos aquí! No, ese equipo no servirá, ¿verdad? Echa un vistazo al mercado abierto! Los rumores se extienden; he oído hablar de Warcry Scrolls que puede teletransportar a un amigo a tu posición. Mantengamos eso entre nosotros, ¿de acuerdo?',
       fr: 'Eh bien, regardez ce que nous avons là ! Non, cet équipement ne fera pas l\'affaire, n\'est-ce pas ? Jetez un coup d\'œil au marché libre! Les rumeurs se répandent ; j\'ai entendu parler de Warcry Scrolls qui peut téléporter un ami à votre position. Gardons ça entre nous, d\'accord ?',
-      pt: 'Bem, olha o que temos aqui! Não, esse equipamento não serve, pois não? Dê uma olhada no mercado aberto! Rumores estão se espalhando; eu ouvi falar de Warcry Scrolls que pode teleportar um amigo para sua posição. Vamos manter isso entre nós, ok?',
+      pt: 'Bem, olha só o que temos aqui! Não, esse equipamento não serve, pois não? Dê uma olhada no mercado aberto! Rumores estão se espalhando; eu ouvi falar sobre Warcry Scrolls que podem teleportar um amigo para a sua posição. Vamos manter isso entre nós, ok?',
       it: 'Beh, guarda cosa abbiamo qui! No, quell\'attrezzatura non va bene, vero? Date un\'occhiata al mercato aperto! Le voci si stanno diffondendo; ho sentito parlare di Warcry Scrolls che può teletrasportarti un amico alla tua posizione. Facciamo in modo che tra di noi, ok?',
       ro: 'Ei bine, uite ce avem aici! Nu, echipamentul nu e bun, așa-i? Aruncă o privire la piața liberă! Zvonurile se răspândesc, am auzit de pergamente de război care pot teleporta un prieten la poziția ta. Dar asta să rămână între noi, bine?'
     },
 
     choices: [{
       en: 'Yes, show me the items for sale.',
-      pt: 'Sim, mostra-me os leilões à venda.',
+      pt: 'Sim, mostra-me os items que estão à venda.',
       it: 'Sì, mostrami le aste in vendita.',
       ro: 'Da, arată-mi ce lucruri sunt de vânzare.',
       hi: 'जी हा, विक्रीय के लिए उपलब्ध चीज़े दिखाएं।',

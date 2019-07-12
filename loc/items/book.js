@@ -53,29 +53,58 @@ export default [{
   name: {$$: 'Revitalize'},
 
   description: {
-    en: 'Heal a friendly target over a short duration.'
+    en: 'Heal a friendly target over a short duration, stacking up to 3 times while also increasing the power of your Mend.'
   }
 },
+{
+  name: {$$: 'Bloodline'},
+
+  description: {
+    en: 'You inherited special abilities through your ancestry and family traditions, granting you extra benefits from certain stats.'
+  }
+},
+{
+  name: {$$: 'Precise Shot'},
+
+  description: {
+    en: 'A carefully aimed, high damage shot.'
+  }
+},
+{
+  name: {$$: 'Serpent Arrows'},
+
+  description: {
+    en: 'Your Precise Shots will jump to additional targets while active.'
+  }
+},
+{
+  name: {$$: 'Invigorate'},
+
+  description: {
+    en: 'You temporarily gain Haste and your Precise Shots regenerate mana on hit.'
+  }
+}
 // From here on are buff descriptions, these are not actually available
 // as books in the game, but included here as a localization shortcut
-{
-  name: {$$: 'Bulwarks Protection'},
-
-  description: {
-    en: 'Increase your block chance temporarily. While active, each successful block grants one stack of Bulwarks Resolve.'
-  }
-},
-{
-  name: {$$: 'Bulwarks Resolve'},
-
-  description: {
-    en: 'Increases your damage for each stack currently active.'
-  }
-},
-{
-  name: {$$: 'Revitalization'},
-
-  description: {
-    en: 'Heals over time with increased power per stack.'
-  }
-}]
+// {
+//   name: {$$: 'Bulwarks Protection'}
+// },
+// {
+//   name: {$$: 'Bulwarks Resolve'}
+// },
+// {
+//   name: {$$: 'Revitalization'}
+// },
+// {
+//   name: {$$: 'Spec Warrior'}
+// },
+// {
+//   name: {$$: 'Spec Mage'}
+// },
+// {
+//   name: {$$: 'Spec Archer'}
+// },
+// {
+//   name: {$$: 'Spec Shaman'}
+// }
+]
