@@ -342,7 +342,7 @@ export default [
       el: 'Αυτό το στοιχείο ήταν σφυρηλατημένο σε πανσέληνο όταν ακούστηκαν μυστηριώδεις φωνές με τους ψίθυρους του σκοτάδι. Κάποιοι λένε ότι ο ίδιος ο Anubis μίλησε με τους νεκρούς.',
       bg: 'Този предмет беше изкован на пълнолуние, когато се чуваха тайнствени заклинания в шепота на тъмнината. Някои казват, че самият Анубис говори с мъртвите.',
       ro: 'Acest obiect a fost făurit sub lună plină când incantații misterioase au fost auzite în șoaptele nopții. Câțiva oameni spun că a fost chiar Anubis vorbind cu morții.',
-      da: 'Denne genstand blev smedet på en fuldmåne, da mystiske incantations blev hørt i mørket hvisker.  Nogle siger, at det var Anubis selv, der talte med de døde.'
+      da: 'Denne genstand blev smedet på en fuldmåne, da mystiske incantations blev hørt i mørket hvisker. Nogle siger, at det var Anubis selv, der talte med de døde.'
     }
   }
 

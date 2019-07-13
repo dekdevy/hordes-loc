@@ -292,7 +292,7 @@ export default [
       sv: 'Rykten säger att bäraren är odödlig. Tyvärr kan denna rustning endast hittas på de dödas lik.',
       ko: '소문은 착용자가 불멸하다고 말한다. 불행히도이 갑옷은 살해 된 시체에서만 발견 할 수 있습니다.',
       ro: 'Zvonurile spun că purtătorul este nemuritor. Din păcate, această armură poate fi găsită doar pe cadavrele celor uciși.',
-      da: 'Rygerne siger, at bæreren er udødelig.  Desværre er denne rustning kun fundet på lig af de dræbte.'
+      da: 'Rygerne siger, at bæreren er udødelig. Desværre er denne rustning kun fundet på lig af de dræbte.'
     }
   }
 
