@@ -40,7 +40,7 @@ export default {
       ko: '예, 판매용 제품을 보여주세요.',
       tr: 'Evet, bana satılık eşyaları göster.',
       ht: 'Wi, montre mwen atik yo pou vann.',
-      bg: 'Да, покажи ми нещата за продажба..',
+      bg: 'Да, покажи ми нещата за продажба.',
       cs: 'Ano, ukaž mi věci na prodej.',
       ja: 'はい、商品を見せてください。',
       sv: 'Ja, visa mig objekten till salu.',

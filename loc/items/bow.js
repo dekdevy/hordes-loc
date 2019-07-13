@@ -64,7 +64,7 @@ export default [
       ro: 'A fost curbat atât de tare încât ar putea să cedeze în orice clipă.',
       pt: 'Este arco é curvado a tal ponto que provavelmente se partirá a qualquer momento.',
       fr: 'Cet arc est tellement courbé qu\'il pourrait se briser à tout moment.',
-      de: 'Dieser Bogen ist so stark gebogen, dass er wahrscheinlich jeden Moment einrasten wird. ',
+      de: 'Dieser Bogen ist so stark gebogen, dass er wahrscheinlich jeden Moment einrasten wird.',
       es: 'Este arco está curvado hasta tal punto que probablemente se romperá en cualquier momento.',
       pl: 'Ten łuk jest zakrzywiony do tego stopnia, że prawdopodobnie w każdej chwili pęknie.',
       it: 'Questo arco è curvo a tal punto che probabilmente si spezzerà in qualsiasi momento.',
