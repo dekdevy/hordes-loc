@@ -220,7 +220,7 @@ export default [
     name       : {$$: 'Iron Piercer' },
     description: {
       en: 'Burns away the enemy with the spiciest of red coloring.',
-      ru: 'Сжигает противника своим  ярко-красным окрасом.',
+      ru: 'Сжигает противника своим ярко-красным окрасом.',
       de: 'Verbrennt den Feind mit der schärfsten roten Farbe.',
       es: 'Quema al enemigo con la coloración roja más picante.',
       fr: 'Brûle ses ennemis avec la coloration rouge la plus prononcée.',
