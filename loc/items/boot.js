@@ -73,7 +73,7 @@ export default [
       bg: 'За меката кожа се казва, че е съблечена от диви свине, прекосяващи зловещите гори.',
       cs: 'Říká se, že měkká kůže je zbavena divokých prasat roamingu děsivých lesů.',
       ja: '柔らかい革は不気味な森を歩き回っているイノシシを剥ぎ取られると言われています。',
-      hi: 'इसका नरम चमड़े को डरावने जंगलो में रहने वाले जंगली सूअरो से लिए गया है। ',
+      hi: 'इसका नरम चमड़े को डरावने जंगलो में रहने वाले जंगली सूअरो से लिए गया है।',
       ko: '부드러운 가죽은 섬뜩한 숲을 돌아 다니는 야생 멧돼지에서 벗겨졌다.',
       ro: 'Se zvonește că pielea moale a fost dezbrăcată de mistreții ce se plimbau prin pădurea stranie.',
       da: 'Det bløde læder siges at være fjernet fra vildsvin, der roaming de uhyggelige skove.'

@@ -47,7 +47,7 @@ export default {
     da: 'Tryk på knappen for at blive opstandet hos nærmeste konjurer.'
   },
 
-  // 'Ressurect' used in many translations
+  // 'Resurrect' used in many translations
   respawn: {
     en: 'Respawn',
     ru: 'Воскресить',

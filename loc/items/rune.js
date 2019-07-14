@@ -59,7 +59,7 @@ export default [
       en: 'Powerful transparent glass talisman with a faint purple tint showing you the world in a melancholic light.',
       es: 'Poderoso talismán de cristal transparente, de color púrpura pálido que muestra el mundo en una luz melancólica.',
       ru: 'Мощный прозрачный стеклянный талисман. Его бледно-фиолетовый оттенок показывает мир в меланхолическом свете.',
-      de: 'Kraftvoller transparenter Glas-Talisman, schwacher Violett-Ton zeigt Ihnen die Welt in einem melancholischen Licht. ',
+      de: 'Kraftvoller transparenter Glas-Talisman, schwacher Violett-Ton zeigt Ihnen die Welt in einem melancholischen Licht.',
       fr: 'Puissant talisman en verre transparent, légèrement teinté de violet, qui montre le monde dans une lumière mélancolique.',
       nl: 'Krachtige transparante glazen talisman, een vage paarse tint laat je de wereld zien in een melancholisch licht.',
       pl: 'Mocny przezroczysty szklany talizman z lekkim fioletowym zabarwieniem ukazującym świat w melancholijnym świetle.',

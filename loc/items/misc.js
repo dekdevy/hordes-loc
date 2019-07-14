@@ -427,7 +427,7 @@ export default [
   //     en: 'A tuft of putrid matted hair. It was a tough battle to get hold of this.',
   //     bg: 'Шепа мазна загнила коса. Трудна битка беше за да се докопа.',
   //     ru: 'Пучок запутаных и ванючих волос. Трудная битва была, чтобы его достать.',
-  //     de: 'Ein Büschel verfaulter, verfilzter Haare. Es war ein harter Kampf, um dies zu erreichen. ',
+  //     de: 'Ein Büschel verfaulter, verfilzter Haare. Es war ein harter Kampf, um dies zu erreichen.',
   //     ro: 'Un smoc de păr putrezit. Am dus o luptă grea să pot pune mâna pe asta.',
   //     pt: 'Um tufo de pêlos pútridos emaranhados. Foi uma batalha difícil para pegar isso.',
   //     it: 'Un ciuffo di capelli opachi e putridi. E\' stata una battaglia difficile da vincere.',
