@@ -21,7 +21,7 @@ export default {
       it: 'Seleziona carattere',
       pl: 'Wybierz postać',
       nl: 'Selecteer Karakter',
-      pt: 'Selecionar personagem',
+      pt: 'Selecione um personagem',
       ht: 'Chwazi karaktè',
       ro: 'Selectează Caracterul',
       da: 'Vælg tegn'
@@ -264,7 +264,7 @@ export default {
       it: '  Il tuo nome può contenere solo caratteri a-Z e numeri da 0 a 9, senza spazi. Fino a 16 caratteri.',
       pl: 'Twoje imię może zawierać tylko znaki a-Z i cyfry 0-9, bez spacji. Do 16 znaków.',
       nl: 'Uw naam kan alleen de tekens a-Z bevatten, en cijfers 0-9, zonder spaties. Tot 16 tekens.',
-      pt: 'Seu nome só pode conter caracteres a-Z, e números 0-9, sem espaços. Até 16 caracteres.',
+      pt: 'O seu nome só pode conter caracteres de a-Z, e números 0-9, sem espaços. Até 16 caracteres.',
       ht: 'Non ou ka sèlman gen karaktè a-Z, ak nimewo 0-9, san okenn espas. Jiska 16 karaktè.',
       ro: 'Numele tău poate conține doar caractere a-Z, și numere 0-9, fără spații. Până la 16 caractere.',
       da: 'Dit navn kan kun indeholde tegn a-Z og tal 0-9 uden mellemrum.  Op til 16 tegn.'
