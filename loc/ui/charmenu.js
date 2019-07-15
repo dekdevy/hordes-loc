@@ -102,14 +102,14 @@ export default {
     error: {
       en: 'Network Error',
       sv: 'Nätverksfel',
-      ru: 'Проблема с сетью',
+      ru: 'Проблема с Сетью',
       fr: 'Problème de Réseau',
       hi: 'नेट्वर्क में खराबी',
       es: 'Error de Red',
       de: 'Netzwerkfehler',
       ko: '네트워크 오류',
       tr: 'Ağ Hatası',
-      bg: 'Мрежова грешка',
+      bg: 'Мрежова Грешка',
       cs: 'Chyba Sítě',
       el: 'Σφάλμα δικτύου',
       ja: 'ネットワークエラー',
@@ -129,15 +129,15 @@ export default {
     title: {
       en: 'Character Creation',
       sv: 'Skapa Karaktär',
-      ru: 'Создание персонажа',
+      ru: 'Создание Персонажа',
       fr: 'Création du Personnage',
       hi: 'स्वरूप निर्माण',
       es: 'Creación de Carácter',
       de: 'Charaktererstellung',
       ko: '캐릭터 생성',
       tr: 'Karakter Yaratma',
-      bg: 'Създаване на герой',
-      cs: 'Tvorba znaků',
+      bg: 'Създаване на Герой',
+      cs: 'Tvorba Znaků',
       el: 'Δημιουργία χαρακτήρων',
       ja: 'キャラクター作成',
       tl: 'Paglikha ng Karakter',
@@ -177,7 +177,7 @@ export default {
     selectClass: {
       en: 'Select a Class',
       sv: 'Välj en Klass',
-      ru: 'Выберите класс',
+      ru: 'Выберите Класс',
       hi: 'श्रेणी चुने',
       es: 'Seleccione una Clase',
       de: 'Wählen Sie eine Klasse',
@@ -261,13 +261,13 @@ export default {
       el: 'To όνομά σας μπορεί να περιέχει μόνο χαρακτήρες a-Z και αριθμούς 0-9, χωρίς κενά. Έως 16 χαρακτήρες.',
       ja: 'あなたの名前はスペースなしで文字a-Zと数字0-9を含むことができます。 16文字まで',
       tl: 'Ang iyong pangalan ay maaari lamang maglaman ng mga character a-Z, at numero 0-9, nang walang anumang mga puwang. Hanggang sa 16 na mga character.',
-      it: '  Il tuo nome può contenere solo caratteri a-Z e numeri da 0 a 9, senza spazi. Fino a 16 caratteri.',
+      it: 'Il tuo nome può contenere solo caratteri a-Z e numeri da 0 a 9, senza spazi. Fino a 16 caratteri.',
       pl: 'Twoje imię może zawierać tylko znaki a-Z i cyfry 0-9, bez spacji. Do 16 znaków.',
       nl: 'Uw naam kan alleen de tekens a-Z bevatten, en cijfers 0-9, zonder spaties. Tot 16 tekens.',
       pt: 'O seu nome só pode conter caracteres de a-Z, e números 0-9, sem espaços. Até 16 caracteres.',
       ht: 'Non ou ka sèlman gen karaktè a-Z, ak nimewo 0-9, san okenn espas. Jiska 16 karaktè.',
       ro: 'Numele tău poate conține doar caractere a-Z, și numere 0-9, fără spații. Până la 16 caractere.',
-      da: 'Dit navn kan kun indeholde tegn a-Z og tal 0-9 uden mellemrum.  Op til 16 tegn.'
+      da: 'Dit navn kan kun indeholde tegn a-Z og tal 0-9 uden mellemrum. Op til 16 tegn.'
     }
   },
 
@@ -319,7 +319,7 @@ export default {
       pt: 'Para apagar, digite o nome do personagem. Seu personagem não pode ser restaurado.',
       ht: 'Efase, tape non karaktè a. Karaktè ou pa kapab retabli.',
       ro: 'Pentru a șterge, tastați numele caracterului. Personajul tău nu va putea fi restaurat',
-      da: 'For at slette skal du indtaste tegnets navn.  Din karakter kan ikke gendannes.'
+      da: 'For at slette skal du indtaste tegnets navn. Din karakter kan ikke gendannes.'
     },
 
     placeholder: {

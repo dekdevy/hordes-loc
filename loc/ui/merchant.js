@@ -161,7 +161,7 @@ export default {
     ro: 'Taxă: ',
     hi: 'कीमत: ',
     da: 'Skat: ',
-    sv: 'Avgift'
+    sv: 'Avgift: '
   },
 
   dragitem: {

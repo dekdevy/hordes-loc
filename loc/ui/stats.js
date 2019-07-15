@@ -42,11 +42,11 @@ export default {
     },
 
     {
-      en: 'HP reg./5s'
+      en: 'HP Reg./5s'
     },
 
     {
-      en: 'MP reg./5s'
+      en: 'MP Reg./5s'
     },
 
     {
@@ -78,7 +78,7 @@ export default {
     },
 
     {
-      en: 'Move speed'
+      en: 'Move Speed'
     },
 
     {
@@ -90,11 +90,27 @@ export default {
     },
 
     {
+      en: 'Item Find'
+    },
+
+    {
       en: 'Bag Slots'
     },
 
     {
-      en: 'Stat points'
+      en: 'Fame'
+    },
+
+    {
+      en: 'Stat Points'
+    },
+
+    {
+      en: 'Skill Points'
+    },
+
+    {
+      en: '% Increased Damage'
     }
   ]
 }

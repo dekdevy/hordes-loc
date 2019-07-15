@@ -4,7 +4,7 @@ export default [
     description: {
       en: 'It\'s already half broken and you are still using it?',
       ru: 'Он уже наполовину сломан, и вы все еще его используете?',
-      hi: 'यह पहले से ही आधा टूट गया है और आप अभी भी इसे प्रयोग कर रहे हैं?',
+      hi: 'यह पहले से ही आधा टूट गया है और आप अभी भी इसका प्रयोग कर रहे हैं?',
       es: '¿Ya está medio roto y todavía lo estás usando?',
       de: 'Es ist bereits halb gebrochen und du benutzt es immer noch?',
       fr: 'Il est déjà à moitié cassé et vous l\'utilisez toujours?',
@@ -31,7 +31,7 @@ export default [
     description: {
       en: 'This should be hammering nails, not skulls.',
       ru: 'Это должны быть гвозди, а не черепа.',
-      hi: 'यह चोट नाखून, नहीं खोपड़ी होना चाहिए।',
+      hi: 'इससे कील ठोकते है, खोपड़ी नहीं।',
       es: 'Esto debería estar clavando clavos, no cráneos.',
       de: 'Das sollten hämmernde Nägel sein, nicht Schädel.',
       el: 'Αυτό πρέπει να σφυρηλατεί τα νύχια και όχι τα κρανία.',
@@ -58,7 +58,7 @@ export default [
     description: {
       en: 'Rusty old hammer, on the verge of breaking.',
       ru: 'Ржавый старый молот, на грани поломки.',
-      hi: 'रस्टी वर्ष हथौड़ा, तोड़ने के कगार पर।',
+      hi: 'ज़ंग लगा पुराना हथौड़ा, बस टूटेने ही वाला है।',
       es: 'Un viejo martillo oxidado, a punto de romperse.',
       de: 'Rostiger alter Hammer, kurz davor, zu brechen.',
       el: 'Σκουριασμένο παλιό σφυρί στα πρόθυρα θραύσης.',
@@ -122,7 +122,7 @@ export default [
       sv: 'Stort vapen som använts för länge sedan för att förstöra skalle.',
       ht: 'Gwo zam yo itilize depi lontan pou detwi kran yo.',
       it: 'Grande arma usata molto tempo fa per distruggere i teschi.',
-      hi: 'खोपड़ी को नष्ट करने के लिए बहुत पहले इस्तेमाल किया गया बड़ा हथियार।',
+      hi: 'खोपड़ी को नष्ट करने के लिए बनाया गया पौराणिक हथियार।',
       tl: 'Malaking sandata na ginamit nang matagal na ang nakalipas upang sirain ang mga skull.',
       el: 'Μεγάλο όπλο που χρησιμοποιήθηκε εδώ και πολύ καιρό για να καταστρέψει τα κρανία.',
       bg: 'Голямо оръжие, използвано отдавна, за да унищожи черепите.',
@@ -139,7 +139,7 @@ export default [
     description: {
       en: 'Strange rod-like basher. Seems crude and emits a faint smell of druid oils...',
       ru: 'Странная стержнеобразная дубинка. Кажется грубой и источает слабый запах друидских масел...',
-      hi: 'अजीब छड़ी की तरह basher। कच्चे तेल लगता है और ड्र्यूड तेलों की एक बेहोश गंध का उत्सर्जन करता है...',
+      hi: 'अजीब छड़ी जैसा हथौड़ा। अनगद लगता है और पवित्र पूरोतिहो के तेल की गंध छोड़ता है।',
       es: 'Extraño golpeador en forma de varilla. Parece crudo y emite un ligero olor a aceite de druida...',
       el: 'Παράξενη ράβδο τύπου basher. Φαίνεται ακατέργαστο και εκπέμπει μια αμυδρή μυρωδιά δευτεροπαθών ελαίων ...',
       bg: 'Странен барометър. Изглежда суров и излъчва слаб мирис на друидни масла ...',
@@ -166,7 +166,7 @@ export default [
     description: {
       en: 'Ancient dwarves forged this mighty structure. Dark and deadly.',
       ru: 'Древние дворфы создали эту могущественную булаву. Темная и смертельная.',
-      hi: 'प्राचीन बौने इस शक्तिशाली संरचना का निर्माण किया। डार्क और घातक।',
+      hi: 'प्राचीन बौनो ने इस शक्तिशाली संरचना का निर्माण किया। काला और घातक।',
       es: 'Los enanos antiguos forjaron esta poderosa estructura. Oscura y mortal.',
       de: 'Alte Zwerge schmiedeten diese mächtige Struktur. Dunkel und tödlich.',
       fr: 'Les nains anciens ont forgé cette puissante structure. Sombre et mortel.',
@@ -220,7 +220,7 @@ export default [
     description: {
       en: 'Holy tool used by druids to make sacrifices to the ancient nature gods.',
       ru: 'Святой инструмент, используемый друидами, чтобы приносить жертвы древним богам природы.',
-      hi: 'पवित्र पुरोहित द्वारा प्रयोग किया जाता प्राचीन प्रकृति देवताओं को बलिदान करने के लिए उपकरण।',
+      hi: 'पवित्र पुरोहितो द्वारा प्रकृति देवताओं को बलिदान चढ़ाने के लिए प्रयोग किया जाने वाला प्राचीन उपकरण।',
       es: 'Herramienta sagrada usada por los druidas para hacer sacrificios al gran dios, Yggdrasil.',
       el: 'Άγιο εργαλείο που χρησιμοποιείται από druids για να κάνει θυσίες στους αρχαίους θεούς της φύσης.',
       bg: 'Свещен инструмент, използван от друидите за жертвоприношения на древните богове.',
@@ -247,7 +247,7 @@ export default [
     description: {
       en: 'Heavy basher used by dwarven warriors. Made of an unknown metal, dark and heavy.',
       ru: 'Тяжелая дубинка, используемая дворфами-воинами. Изготовлена из неизвестного металла, темная и тяжелая.',
-      hi: 'भारी बौना योद्धाओं द्वारा प्रयोग किया जाता basher। एक अज्ञात धातु, काले और भारी से बना।',
+      hi: 'बौने योद्धाओं द्वारा इस्तमाल किया गया भारी हथौड़ा। अनजान धातु से बना हुआ, कला और भारी।',
       es: 'Golpeador pesado usado por los guerreros enanos. Hecho de un metal desconocido, oscuro y pesado.',
       de: 'Schwerer Schläger, der von Zwergenkrieger benutzt wird. Hergestellt aus einem unbekannten Metall, dunkel und schwer.',
       fr: 'Une arme lourde utilisée par les guerriers nains. Fait d\'un métal inconnu, sombre et lourd.',
@@ -284,7 +284,7 @@ export default [
       sv: 'En mäktig hammare smidd utan värme och dödar allt det kan utan barmhärtighet.',
       ht: 'Yon mato vanyan fòje san chalè touye anyen li kapab san pitye.',
       it: 'Un potente martello forgiato senza calore che uccide tutto ciò che può senza pietà.',
-      hi: 'एक शक्तिशाली हथौड़ा गर्मी के बिना जाली है जो दया के बिना कुछ भी कर सकता है।',
+      hi: 'आग के बिना बनाया हुआ यह शक्तिशाली हथौड़ा बिना दया के सब ख़त्म कर देता है।',
       tl: 'Ang isang makapangyarihang martilyo na huwad na walang init na pagpatay sa anumang bagay na magagawa nito nang walang awa.',
       el: 'Ένα ισχυρό σφυρί σφυρήλατο χωρίς ζέστη να σκοτώνει οτιδήποτε μπορεί χωρίς έλεος.',
       bg: 'Мощен чук, изкован без топлина, убиващ всичко, което може, без милост.',
@@ -301,7 +301,7 @@ export default [
     description: {
       en: 'Topped with the skull of a slain beast, this weapon inspires terror in all who stand against it.',
       ru: 'Это оружие, увенчанное черепом чудища, внушает ужас всем, кто противостоит ему.',
-      hi: 'मारे गए जानवर की खोपड़ी के साथ शीर्ष पर, यह हथियार उन सभी में आतंक को प्रेरित करता है जो इसके खिलाफ खड़े होते हैं।',
+      hi: 'मारे गए राक्षस की खोपड़ी से बनाया गया, यह हथियार अपने विरोधिदो में आतंक को प्रेरित करता है।',
       es: 'Cubierta con el cráneo de un enemigo bestia, esta arma inspira terror en todos los que se oponen a ella.',
       de: 'Diese Waffe, die mit dem Schädel eines getöteten Tieres überzogen ist, weckt Schrecken bei allen, die sich dagegen stellen.',
       fr: 'Surmontée du crâne d\'une bête tuée, cette arme inspire la terreur à tous ceux qui s\'y confrontent.',
@@ -328,7 +328,7 @@ export default [
     description: {
       en: 'Can penetrate your feeble skull quite easily. Or your foes. Probably yours though.',
       ru: 'Может легко проникнуть в ваш слабый череп. Или в твоих врагов. Хотя вероятнее в ваш.',
-      hi: 'काफी आसानी से अपने कमजोर खोपड़ी घुसना कर सकते हैं। या अपने दुश्मनों। शायद तुम्हारा हालांकि।',
+      hi: 'आपके कमज़ोर खोपड़ी में बड़ी आसानी से घुस सकता है। या फिर दुश्मन की। शायद आपकी ही।',
       es: 'Cubierta con el cráneo de un enemigo gigante asesinado, esta arma inspira terror en todos los que se oponen a ella.',
       de: 'Mit dem Schädel eines getöteten Riesenfeindes überzogen, inspiriert diese Waffe Schrecken bei allen, die sich dagegen stellen.',
       fr: 'Peut détruire votre faible crâne plutôt facilement. Ou celui de vos ennemis. Plutôt le vôtre, en fait.',
@@ -355,7 +355,7 @@ export default [
     description: {
       en: 'Nothing kind about this cruel weapon.',
       ru: 'Ничего доброго в этом жестоком оружии.',
-      hi: 'कुछ भी नहीं प्रकार के बारे में इस क्रूर हथियार।',
+      hi: 'इस निर्दयी हथियार में कोई मेहरबानी नहीं है।',
       es: 'Esta arma cruel no tiene nada de amable.',
       bg: 'Нищо подобно за това жестоко оръжие.',
       de: 'Nichts Besonderes an dieser grausamen Waffe.',
@@ -382,7 +382,7 @@ export default [
     description: {
       en: 'Deadly and uncontrollable, this celestial hammer etches terror in its purest form into those unfortunate ones who have caught sight of it.',
       ru: 'Смертоносный и неконтролируемый, этот небесный молот в чистейшей форме протравливает ужас в тех несчастных, кто его увидел.',
-      hi: 'घातक और बेकाबू, यह स्वर्गीय हथौड़ा अपने शुद्ध रूप में उन दुर्भाग्यपूर्ण लोगों में आतंक बोता है जिन्होंने इसे देखा।',
+      hi: 'घातक और बेकाबू, यह स्वर्गीय हथौड़ा आतंक के सबसे शुद्द रूप को उन दुर्भाग्य लोगों के बसा देता है जिन्होंने इसे देख लिया।',
       es: 'Mortal e incontrolable, este martillo celestial graba el terror en su forma más pura en aquellos desafortunados que lo han visto.',
       el: 'Κάποιοι λένε ότι από τους νάνοι οι άλλοι λένε από τους ξωτικούς ... η αλήθεια δεν έχει αποκαλυφθεί ακόμα.',
       bg: 'Някои казват, че направените от джуджета други казват от елфи ... истината все още не е разкрита.',
@@ -409,7 +409,7 @@ export default [
     description: {
       en: 'Does it have the power to end worlds? Few can say. If it does, we will not live long enough to learn of it.',
       ru: 'Есть ли у него сила, чтобы положить конец мирам? Мало кто может сказать. Если это произойдет, нас уже не будет в живых, чтобы узнать об этом.',
-      hi: 'यह शक्ति दुनिया समाप्त करने के लिए है? कुछ कह सकते हैं। यदि ऐसा है, हम लंबे इसके बारे में जानने के लिए पर्याप्त नहीं रह जाएगा।',
+      hi: 'क्या इसमें दुनिया ख़त्म करने की शक्ति है? कुछ ही कह सकते है। यदि है, तो हम इसके बारे में जानने लायक़ लम्बा नहीं जिएँगे।',
       es: '¿Tiene el poder de acabar con los mundos? Pocos pueden decirlo. Si lo hace, no viviremos lo suficiente para aprenderlo.',
       de: 'Hat sie die Macht, Welten zu beenden? Nur wenige können das sagen. Wenn dies der Fall ist, werden wir nicht lange genug leben, um davon zu erfahren.',
       el: 'Έχει τη δύναμη να τερματίσει τους κόσμους; Λίγοι μπορούν να πουν. Αν το κάνει, δεν θα ζήσουμε αρκετά για να μάθουμε γι \'αυτό.',
@@ -436,7 +436,7 @@ export default [
     description: {
       en: 'A mysterious magician soaked many intricate charms into this weapon, bringing ghastly thoughts and dreams to its wielder.',
       ru: 'Таинственный волшебник впитал множество замысловатых чар на этом оружии, принося ужасные мысли и мечты его обладателю.',
-      hi: 'एक रहस्यमय जादूगर इस हथियार के रूप में कई जटिल आकर्षण लथपथ, अपने मेजबान के लिए भयंकर विचारों और सपनों को लाते हैं।',
+      hi: 'एक रहस्यमयी जादूगर ने इस हथियार में ऐसे जटिल जादू निचोड़े के इसे चलने वाले को भयंकर ख़याल और ख़्वाब आते है।',
       es: 'Un mago misterioso empapó muchos encantos intrincados en esta arma, trayendo pensamientos y sueños espantosos a su portador.',
       el: 'Ένας μυστηριώδης μάγος μουσκεύει πολλές πολύπλοκες γοητείες σε αυτό το όπλο που φέρνει φρικιαστικές σκέψεις και όνειρα στο πονηρό του.',
       bg: 'Тайнственият магьосник накисна много сложни прелести в това оръжие, довеждайки ужасни мисли и мечти до неговия водач.',

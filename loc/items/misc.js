@@ -193,7 +193,7 @@ export default [
   //   description: {
   //     en: 'Beware of the feral goose. It doesn\'t like pokes.',
   //     bg: 'Внимавай с диавата патица, не обича да я закачат.',
-  //     ru: 'Остерегайтесь дикого гуся.  Он не любит когда в него тыкают.',
+  //     ru: 'Остерегайтесь дикого гуся. Он не любит когда в него тыкают.',
   //     de: 'Hüte dich vor der wilden Gans. Es mag keine Stöße.',
   //     ro: 'Ferește-te de gâsca sălbatică. Nu-i plac ciupiturile.',
   //     pt: 'Cuidado com o ganso selvagem. Não gosta de picaretas.',
@@ -204,7 +204,7 @@ export default [
   //     es: 'Cuidado con el ganso loco. No le gustan los picas.',
   //     nl: 'Pas op voor de wilde gans. Hij houdt niet van poppen.',
   //     tl: 'Mag-ingat sa mabangong gus. Hindi nito gusto pokes.',
-  //     cs: 'Dejte si pozor na divokou husu.  Není to jako pokes.'
+  //     cs: 'Dejte si pozor na divokou husu. Není to jako pokes.'
   //   }
   // },
 
@@ -348,10 +348,10 @@ export default [
   //     pl: 'Mała, rozdrobniona miska na gulasz. Ostrożnie, jest łatwopalny.',
   //     fr: 'Petit bol à ragoût émietté. Attention, c\'est inflammable.',
   //     sv: 'Liten flisad gryta skål. Var försiktig, det är brandfarligt.',
-  //     es: 'Pequeña cazuela de estofado astillada. Cuidado, puede encienda en fuego.',
+  //     es: 'Pequeña cazuela astillada de estofado. Cuidado, puede encienda en fuego.',
   //     nl: 'Kleine gechipt stoofpotje. Voorzichtig, het is brandbaar.',
   //     tl: 'Maliit na pingas na nilagang tapyas. Mag-ingat, ito ay nasusunog.',
-  //     cs: 'Malá štípaná dušená mísa.  Pozor, je to hořlavý.'
+  //     cs: 'Malá štípaná dušená mísa. Pozor, je to hořlavý.'
   //   }
   // },
 
@@ -427,7 +427,7 @@ export default [
   //     en: 'A tuft of putrid matted hair. It was a tough battle to get hold of this.',
   //     bg: 'Шепа мазна загнила коса. Трудна битка беше за да се докопа.',
   //     ru: 'Пучок запутаных и ванючих волос. Трудная битва была, чтобы его достать.',
-  //     de: 'Ein Büschel verfaulter, verfilzter Haare. Es war ein harter Kampf, um dies zu erreichen. ',
+  //     de: 'Ein Büschel verfaulter, verfilzter Haare. Es war ein harter Kampf, um dies zu erreichen.',
   //     ro: 'Un smoc de păr putrezit. Am dus o luptă grea să pot pune mâna pe asta.',
   //     pt: 'Um tufo de pêlos pútridos emaranhados. Foi uma batalha difícil para pegar isso.',
   //     it: 'Un ciuffo di capelli opachi e putridi. E\' stata una battaglia difficile da vincere.',
@@ -438,7 +438,7 @@ export default [
   //     es: 'Un mechón de pelo enredado y pútrido. Fue una dura batalla para conseguirlo.',
   //     nl: 'Een plukje verrot gematteerd haar. Het was een zware strijd om dit te bemachtigen.',
   //     tl: 'Ang isang tuft ng putrid matted buhok. T\'ay isang mahigpit na labanan upang makuha ang mga ito.',
-  //     cs: 'Chomáč hnilobných matných vlasů.  Tohle byla těžká bitva'
+  //     cs: 'Chomáč hnilobných matných vlasů. Tohle byla těžká bitva'
   //   }
   // },
 
@@ -460,7 +460,7 @@ export default [
   //     es: 'Larvas asquerosas de un insecto desconocido. Con suerte, uno pequeño...',
   //     nl: 'Smerige larven van een onbekend insect. Hopelijk een kleintje...',
   //     tl: 'Nakakasira ng larvae ng isang hindi kilalang insekto. Sana may isang maliit na ...',
-  //     cs: 'Nechutné larvy neznámého hmyzu.  Doufejme, že ten malý ...'
+  //     cs: 'Nechutné larvy neznámého hmyzu. Doufejme, že ten malý ...'
   //   }
   // },
 
@@ -470,7 +470,7 @@ export default [
   //   description: {
   //     en: 'Strange triangular fragment of obsidian. Perhaps it\'s part of a larger structure...',
   //     bg: 'Странен триъгълен фрагмент от ожсидиан. Вероятно е част от по голяма структура...',
-  //     ru: 'Странный треугольный фрагмент обсидиана.  Возможно, это часть большей структуры ...',
+  //     ru: 'Странный треугольный фрагмент обсидиана. Возможно, это часть большей структуры ...',
   //     de: 'Seltsames dreieckiges Fragment des Obsidians. Vielleicht ist es Teil einer größeren Struktur....',
   //     ro: 'Un ciudat fragment triunghiular din obsidian. Poate face parte dintr-o structură mai mare...',
   //     pt: 'Estranho fragmento triangular de obsidiana. Talvez seja parte de uma estrutura maior...',

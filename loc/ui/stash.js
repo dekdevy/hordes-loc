@@ -78,7 +78,7 @@ export default {
     it: '$1 e\' stato spostato nella tua scorta',
     pl: '$1 został przeniesiony do twojego magazynu',
     fr: '$1 a été transféré dans votre planque',
-    es: '$1 ha sido movido a su alijo',
+    es: '$1 ha sido movido al alijo',
     nl: '$1 is verplaatst naar je voorraad',
     hi: '$1 को स्टैश में भेज दिया गया है',
     tl: 'Ang $1 ay inilipat sa iyong itago',

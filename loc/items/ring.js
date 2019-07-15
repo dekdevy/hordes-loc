@@ -297,7 +297,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Gyges'},
+    name       : {$$: 'Gyges' },
     description: {
       en: 'A ring said to be capable of turning its wearer invisible and motivate them for everlasting glory.',
       ru: 'Кольцо, которое, как говорят, способно сделать его владельца невидимым и мотивировать его на вечную славу.',

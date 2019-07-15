@@ -234,7 +234,7 @@ export default {
     bg: 'звуков',
     cs: 'Вук',
     hi: 'आवाज़',
-    fr: 'Audio  ',
+    fr: 'Audio',
     tr: 'Ses',
     ht: 'Audio',
     ko: '오디오',
