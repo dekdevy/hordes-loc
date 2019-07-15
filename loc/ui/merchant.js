@@ -26,7 +26,7 @@ export default {
   filtermine: {
     en: 'My items only',
     nl: 'Alleen mijn voorwerpen',
-    de: 'Nur meine Items',
+    de: 'Nur meine items',
     ru: 'Только мои предметы',
     tl: 'Aking mga item lamang',
     pt: 'Apenas os meus itens',
@@ -49,24 +49,24 @@ export default {
   buy: {
     en: 'Buy Item',
     nl: 'Voorwerp Kopen',
-    de: 'Item kaufen',
+    de: 'Item Kaufen',
     ru: 'Купить предмет',
     tl: 'Bumili ng Item',
-    pt: 'Comprar item',
-    it: 'Comprare l\'oggetto',
+    pt: 'Comprar Item',
+    it: 'Comprare L\'oggetto',
     es: 'Comprar Objeto',
-    fr: 'Acheter l\'objet',
-    pl: 'Obiekt zakupu',
+    fr: 'Acheter L\'objet',
+    pl: 'Obiekt Zakupu',
     el: 'Αγοράστε Αντικείμενο',
     bg: 'Купете предмет',
-    cs: 'Koupit předmět',
+    cs: 'Koupit Předmět',
     ht: 'Achte Objè',
     ko: '물건을 사다',
     ja: '商品を購入',
-    ro: 'Cumpără obiectul',
+    ro: 'Cumpără Obiectul',
     hi: 'वस्तु खरीदे',
-    da: 'Køb genstand',
-    sv: 'Köp föremål'
+    da: 'Køb Genstand',
+    sv: 'Köp Föremål'
   },
 
   post: {
@@ -90,7 +90,7 @@ export default {
     cs: 'Poslat Předmět',
     ja: 'オブジェクトを送信',
     da: 'Send Genstand',
-    ro: 'Postează obiectul'
+    ro: 'Postează Obiectul'
   },
 
   delist: {
@@ -110,10 +110,10 @@ export default {
     ht: 'De-lis Objè',
     ko: '항목 삭제',
     ja: 'アイテムを無効にする',
-    ro: 'Scoate obiectul',
+    ro: 'Scoate Obiectul',
     hi: 'बाज़ार से हटाएं',
-    da: 'Fjern element fra liste',
-    sv: 'Delista-objektet'
+    da: 'Fjern Genstand fra liste',
+    sv: 'Delista-Objektet'
   },
 
   // Include the space and punctuation
