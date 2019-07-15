@@ -129,19 +129,19 @@ export default {
     de: 'Clan-Name',
     tr: 'Klan Adı',
     bg: 'Име на Клана',
-    cs: 'Klanové jméno',
+    cs: 'Klanové Jméno',
     el: 'Όνομα Φίλου',
-    it: 'Nome del clan',
+    it: 'Nome del Clan',
     ja: '氏名',
     pl: 'Nazwa Кlanu',
-    pt: 'Nome do clã',
+    pt: 'Nome do Clã',
     tl: 'Pangalan ng clan', // TODO: shorten
-    sv: 'Klan namn',
+    sv: 'Klan Namn',
     ht: 'Non Кlan',
     nl: 'Clannaam',
     ko: '씨족 이름',
     ro: 'Numele Clanului',
-    da: 'Klan navn'
+    da: 'Klan Navn'
   },
 
   createtag: {
@@ -155,7 +155,7 @@ export default {
     bg: 'Таг на Клана',
     cs: 'Den Кlanů',
     el: 'Ετικέτα Φυλή',
-    it: 'Clan Tag',
+    it: 'Tag di Clan',
     ja: '族の日',
     pl: 'Dzień Кlanu',
     pt: 'Dia do Clã',
@@ -182,7 +182,7 @@ export default {
     it: 'Creare',
     ja: '作成する',
     pl: 'Stwórz',
-    pt: 'Crio',
+    pt: 'Criar',
     tl: 'Lumikha',
     sv: 'Skapa',
     ht: 'Kreye',

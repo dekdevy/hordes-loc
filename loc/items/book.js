@@ -83,6 +83,13 @@ export default [{
   description: {
     en: 'You temporarily gain Haste and your Precise Shots regenerate mana on hit.'
   }
+},
+{
+  name: {$$: 'Decay'},
+
+  description: {
+    en: 'Curse your enemy with a spell of decay, dealing damage over time.'
+  }
 }
 // From here on are buff descriptions, these are not actually available
 // as books in the game, but included here as a localization shortcut
