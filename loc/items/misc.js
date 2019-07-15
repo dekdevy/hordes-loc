@@ -222,7 +222,7 @@ export default [
   //     pl: 'Potężny jedwabny sznurek wart więcej niż cały twój sprzęt.',
   //     fr: 'Puissant cordage soyeux qui vaut plus que tout votre équipement.',
   //     sv: 'Kraftfull silkeslen sträng värt mer än alla dina redskap.',
-  //     es: 'Potente cuerda de seda que vale más que todo tu equipamiento.',
+  //     es: 'Potente cuerda de seda que vale más que todo tu equipo.',
   //     nl: 'Krachtig zijdeachtig touw dat meer waard is dan al je spullen.',
   //     tl: 'Makapangyarihang parang seda string nagkakahalaga ng higit sa lahat ng iyong gear.',
   //     cs: 'Silná hedvábná šňůra v hodnotě více než všechny vaše vybavení.'
@@ -285,7 +285,7 @@ export default [
   //     pl: 'Drobno wygrawerowany liść złota reprezentujący wysoką rodzinę królewską.',
   //     fr: 'Feuille d\'or finement gravée représentant la haute royauté.',
   //     sv: 'Fint inristat guldblad som representerar hög royalty.',
-  //     es: 'Hoja de oro finamente grabada que representa altos derechos de el rey.',
+  //     es: 'Hoja de oro finamente grabada que representa altos derechos del rey.',
   //     nl: 'Fijn gegraveerd blad van goud met een hoog koninklijk gehalte.',
   //     tl: 'May pinong engraved dahon ng ginto na kumakatawan sa mataas na royalty.',
   //     cs: 'Jemně ryté listy zlata představující vysoké honoráře.'
@@ -306,7 +306,7 @@ export default [
   //     pl: 'Klasyczny składnik bulionu czarownic.',
   //     fr: 'L\'ingrédient classique d\'un bouillon de sorcière.',
   //     sv: 'Den klassiska ingrediensen till en häxes buljong.',
-  //     es: 'El ingrediente clásico del caldo de bruja.',
+  //     es: 'El ingrediente clásico por un caldo de bruja.',
   //     nl: 'Het klassieke ingrediënt van de bouillon van een heks.',
   //     tl: 'Ang klasikong sahog sa sabaw ng bruha.',
   //     cs: 'Klasická přísada do vývaru čarodějnice.'
@@ -435,7 +435,7 @@ export default [
   //     fr: 'Une touffe de cheveux putrides et mats. C\'était une dure bataille pour mettre la main dessus.',
   //     sv: 'En tuft av matt mattat hår. T\'var en tuff kamp för att få tag i detta.',
   //     hi: 'बालों क सड़ा हुआ गच्छा। इसे पाने के लिए बड़ा युद्ध लड़ा था।',
-  //     es: 'Un mechón de pelo enredado y pútrido. Fue una dura batalla para conseguirlo.',
+  //     es: 'Un mechón de pelo enredado y pútrido. Fue una batalla dura para conseguirlo.',
   //     nl: 'Een plukje verrot gematteerd haar. Het was een zware strijd om dit te bemachtigen.',
   //     tl: 'Ang isang tuft ng putrid matted buhok. T\'ay isang mahigpit na labanan upang makuha ang mga ito.',
   //     cs: 'Chomáč hnilobných matných vlasů. Tohle byla těžká bitva'
@@ -457,7 +457,7 @@ export default [
   //     fr: 'Larves dégoûtantes d\'un insecte inconnu. Espérons qu\'il s\'agit d\'une petite...',
   //     sv: 'Motbjudande larver av en okänd insekt. Förhoppningsvis en liten en ...',
   //     hi: 'अन्जाने कीड़े का भद्धा डिंभट। शायद छोटा-सा है...',
-  //     es: 'Larvas asquerosas de un insecto desconocido. Con suerte, uno pequeño...',
+  //     es: 'Larvas asquerosas de un insecto desconocido. Con suerte, un pequeño...',
   //     nl: 'Smerige larven van een onbekend insect. Hopelijk een kleintje...',
   //     tl: 'Nakakasira ng larvae ng isang hindi kilalang insekto. Sana may isang maliit na ...',
   //     cs: 'Nechutné larvy neznámého hmyzu. Doufejme, že ten malý ...'
@@ -544,7 +544,7 @@ export default [
   //     fr: 'Jettez-en dans un feu de camp et vous aurez une mauvaise surprise explosive.',
   //     sv: 'Kasta lite in i ett lägereld och du är ute efter en otäck explosiv överraskning.',
   //     hi: 'ऐक चुटकी को आग में दाले और धमाकेदार जादू अनुभव करें।',
-  //     es: 'Tira poco en la lumbre y te llevarás una feo sorpresa explosiva.',
+  //     es: 'Tira un poco en la lumbre y te llevarás una fea sorpresa explosiva.',
   //     nl: 'Gooi wat in een kampvuur en je staat voor een vervelende explosieve verrassing.',
   //     tl: 'Ihagis ang ilan sa isang apoy sa kampo at ikaw ay nasa para sa isang pangit na eksplosibong sorpresa.',
   //     cs: 'Vyhoďte nějaké do táboráku a vy jste v nepříjemném výbušném překvapení.'
