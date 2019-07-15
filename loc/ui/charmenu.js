@@ -21,7 +21,7 @@ export default {
       it: 'Seleziona carattere',
       pl: 'Wybierz postać',
       nl: 'Selecteer Karakter',
-      pt: 'Selecionar Caractere',
+      pt: 'Selecionar personagem',
       ht: 'Chwazi karaktè',
       ro: 'Selectează Caracterul',
       da: 'Vælg tegn'
@@ -69,7 +69,7 @@ export default {
       it: 'Entra nel mondo',
       pl: 'Wejdź do świata',
       nl: 'Betreed de wereld',
-      pt: 'Entre no mundo',
+      pt: 'Entrar no mundo',
       ht: 'Antre Lemonn',
       ro: 'Intră în lume',
       da: 'Indtast verden'
