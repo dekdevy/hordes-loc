@@ -21,7 +21,8 @@ export default {
     el: 'Τοξότης',
     bg: 'Стрелец',
     ja: '射手',
-    da: 'Bueskytte'
+    da: 'Bueskytte',
+    zh: '弓箭手'
   },
 
   // Class description, visible during character creation
@@ -46,6 +47,7 @@ export default {
     el: 'Οι τοξότες ασχολούνται με υψηλές ζημιές στο στόχο και τις ζημιές που προκαλούν την περιοχή της επίδρασης. Ένας καλός τοξότης θα κρατήσει πάντα την απόσταση τους και θα καταστρέψει τους εχθρούς από μακριά.',
     bg: 'Стрелците се справят с висока щета на целта и разрушаващи атаки по многобройни цели. Добрият стрелец винаги ще държи дистанцията си от врагове.',
     ja: '射手は高い単一ターゲットダメージと突発的なエリアダメージを与えます優れた射手は常に距離を保ち、遠くから敵を狙撃します。',
-    da: 'Bueskytter beskæftiger sig med højt enkelt målsskader og burste områder med effekt skader. En god bueskytter vil altid holde afstanden og snipe fjender langt væk.'
+    da: 'Bueskytter beskæftiger sig med højt enkelt målsskader og burste områder med effekt skader. En god bueskytter vil altid holde afstanden og snipe fjender langt væk.',
+    zh: '弓箭手造成高傷害對單一目標而也有爆發區域傷害。 一個專業的弓箭手很會保持距離，並遠距離狙擊敵人。'
   }
 }
