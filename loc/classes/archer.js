@@ -30,7 +30,7 @@ export default {
     en: 'Archers deal high single target damage and bursty Area of Effect damage. A good archer will always keep their distance and snipe enemies from afar.',
     sv: 'Bågskytten gör stor skada på enskilda enheter, och även stor areell skada. En god bågskytt prickskjuter alltid sina fiender på avstånd.',
     ru: 'Лучники наносят высокий урон по одиночной цели и взрывной урон по области. Хороший лучник всегда будет держать дистанцию и отстреливать врагов издалека.',
-    ko: '궁수는 높은 단일 타겟 데미지와 버스트 에어리어 피해를줍니다. 좋은 궁수는 먼 거리에서 항상 적을 공격합니다.',
+    ko: '궁수는 높은 단일 타겟 데미지와 버스트 에어리어 피해를줍니다. 좋은 궁수는 먼 거리에서 항상 적을 도일 당합니다.',
     es: 'Los arqueros hacen daño increíble con sus flechas y pueden disparar muchos flechos a una vez con daño explosivo. La estregia mejor es evitar los enemigos y atacar a lo lejos',
     fr: 'Les archers peuvent infliger des dégâts élevés sur une cible précise et des dégâts de zone importants. Un bon archer garde toujours ses distances et élimine ses ennemis de loin.',
     pt: 'Arqueiros causam danos altos a um único alvo e danos na sua Área de Efeito. Um bom arqueiro sempre manterá sua distância e dispara sobre os inimigos de longe.',
