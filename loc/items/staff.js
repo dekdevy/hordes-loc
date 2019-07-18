@@ -437,7 +437,7 @@ export default [
       en: 'This weapon is so secretive that the few who wield it have killed all that know of it.',
       ru: 'Это оружие настолько скрытно, что те, кто владеют им, убили всех, кто о нем знает.',
       hi: 'एक हथियार, इतना गुप्त की जिन गिने चुने लोगों ने इसे धारण किया है, उन्होंने सब कुछ तबाह कर दिया।',
-      es: 'Se dicen que nadie se queda vivo para contar de este varita, pero... ¿de dónde viene las historias?',
+      es: 'Se dicen que nadie se queda vivo para contar de este varita, pero... ¿de dónde vienen las historias?',
       de: 'Diese Waffe ist so geheimnisvoll, dass die wenigen, die sie führen, alle getötet haben, die von ihr wissen.',
       fr: 'Cette arme est si secrète que les quelques personnes qui la manient ont tué tous ceux qui étaient au courant de son existence.',
       pt: 'Esta arma é tão secreta que os poucos que a empunham mataram todos os que a conhecem.',

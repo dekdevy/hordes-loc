@@ -107,7 +107,7 @@ export default {
     ru: 'Вы продали $1',
     hi: 'आपने $1 बेच दिया',
     bg: 'Продадохте $1',
-    cs: 'Prodali jste $1 ',
+    cs: 'Prodali jste $1',
     el: 'Πουλήσατε $1',
     ja: 'あなたは売りました $1',
     tl: 'Binebenta mo na $1',

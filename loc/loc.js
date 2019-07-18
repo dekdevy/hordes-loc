@@ -1,6 +1,8 @@
 // classes are exported as array since the game typically stores class as integer
 import archer from './classes/archer.js'
 import mage from './classes/mage.js'
+import monster from './classes/monster.js'
+import npc from './classes/npc.js'
 import shaman from './classes/shaman.js'
 import warrior from './classes/warrior.js'
 const classes = [
@@ -8,8 +10,8 @@ const classes = [
   mage,
   archer,
   shaman,
-  { name: {$$:'NPC'} }, // someone can create elaborate files for this if they want
-  { name: {$$:'Monster'} },]  // e.g. classes/monster.js and implement like the other classes
+  npc,
+  monster]
 
 // Items
 import amulet from './items/amulet.js'
@@ -57,7 +59,7 @@ import vanguard from './factions/vanguard.js'
 const factions = [
   vanguard,
   bloodlust,
-  { name: {$$:'Neutral'} }]
+  { name: {$$: 'Neutral'} }]
 
 // Npcs
 import blacksmith from './npcs/blacksmith.js'

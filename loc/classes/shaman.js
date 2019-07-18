@@ -21,7 +21,8 @@ export default {
     el: 'Shaman',
     bg: 'Шаман',
     ro: 'Șaman',
-    da: 'Shaman'
+    da: 'Shaman',
+    zh: '薩滿'
   },
   // Class description, visible during character creation
   description: {
@@ -29,7 +30,7 @@ export default {
     sv: 'Schamanens uppgift är att hjälpa gruppen genom att hela Tanken och tillhandahålla offensiva Buffs och förlamande Debuffs.',
     ru: 'Шаманы играют роль поддержки группы, излечивая Танка и преподнося усиливающие бонусы или наносящие урон отрицательные эффекты.',
     de: 'Die Rolle der Schamanen besteht darin, die Gruppe zu unterstützen, indem sie den Tank heilen und offensive Buffs anbieten oder Debuffs verteilen.',
-    es: 'El papel del chamán es apoyar todo el equipo, curar el tanque y ofrecer Buffs ofensivos o Debuffs paralizantes.',
+    es: 'El trabajo del chamán es apoyar todo el equipo, curar el tanque y ofrecer Buffs ofensivos o Debuffs paralizantes.',
     fr: 'Le rôle des chamans est de soutenir le groupe en guérissant le tank et en offrant des buffs offensifs ou des Débuffs ralentissants.',
     ko: '샤먼의 역할은 탱크를 치유하고 공세적 인 버프 또는 맹독적인 디버프를 제공하여 그룹을 지원하는 것입니다.',
     pt: 'O papel dos xamãs é apoiar o grupo, curando o Tanque e oferecendo Buffs ofensivos ou Debuffs incapacitantes.',
@@ -45,6 +46,7 @@ export default {
     el: 'Ο ρόλος του Σαμάνος είναι να στηρίξει την ομάδα θεραπεύοντας την δεξαμενή και προσφέροντας επιθετικά Buffs ή παγιδευτικά Debuffs.',
     bg: 'Ролята на шаманите е да подкрепят групата, като лекуват танковете и предлагат бъфове и де-бъфове.',
     ro: 'Rolul șamanului este de a sprijini grupul prin vindecarea Tancului și de a oferi Buff-uri de ofensiva sau Debuff-uri de paralizare.',
-    da: 'Shamans rolle er at hjælpe gruppen ved at helbrede Tanken og tilbyde offensive Buffs eller lammende Debuffs.'
+    da: 'Shamans rolle er at hjælpe gruppen ved at helbrede Tanken og tilbyde offensive Buffs eller lammende Debuffs.',
+    zh: '薩滿的角色是通過治療坦克和使用進攻性的buff或削弱Debuff來支持隊伍。'
   }
 }

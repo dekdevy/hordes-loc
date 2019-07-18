@@ -1,12 +1,46 @@
 export default [
   {
-    name: {$$: 'Healing Potion'},
+    name: {$$: 'Small HP Potion'},
 
     description: {
-      en: 'A tiny potion containing a red liquid, healing you as you drink it.'
+      en: 'A potion containing a red liquid, healing you as you drink it.'
+    }
+  },
+  {
+    name: {$$: 'Small MP Potion'},
+
+    description: {
+      en: 'A potion containing a blue liquid, recovering mana as you drink it.'
+    }
+  },
+  {
+    name: {$$: 'Medium HP Potion'},
+
+    description: {
+      en: 'A potion containing a red liquid, healing you as you drink it.'
+    }
+  },
+  {
+    name: {$$: 'Medium MP Potion'},
+
+    description: {
+      en: 'A potion containing a blue liquid, recovering mana as you drink it.'
+    }
+  },
+  {
+    name: {$$: 'Large HP Potion'},
+
+    description: {
+      en: 'A potion containing a red liquid, healing you as you drink it.'
+    }
+  },
+  {
+    name: {$$: 'Large MP Potion'},
+
+    description: {
+      en: 'A potion containing a blue liquid, recovering mana as you drink it.'
     }
   }
-
   // {
   //   name: {$$: 'Ancient Manuscript'},
 
@@ -152,7 +186,7 @@ export default [
   //     ru: 'Глубокий темно-фиолетовый пучок, взятый из проклятой души злобного призрака',
   //     de: 'Tiefdunkelviolettes Wispern aus der verfluchten Seele eines bösartigen Phantoms.',
   //     ro: 'Ghem de un purpuriu închis ca noaptea, luat din sufletul blestemat al unei fantome malefice.',
-  //     pt: 'Deep dark purple wisp taken from the cursed soul of a malevolent phantom.',
+  //     pt: 'Fiapo roxo escuro e profundo retirado da alma amaldiçoada de um fantasma malévolo.',
   //     it: 'Un profondo vampiro viola scuro preso dall\'anima maledetta di un malvagio fantasma.',
   //     pl: 'Głęboki ciemnofioletowy ognik wyjęty z przeklętej duszy złowrogiego fantoma.',
   //     fr: 'Une mèche d\'un pourpre foncé profond provenant de l\'âme maudite d\'un fantôme malveillant.',
@@ -193,7 +227,7 @@ export default [
   //   description: {
   //     en: 'Beware of the feral goose. It doesn\'t like pokes.',
   //     bg: 'Внимавай с диавата патица, не обича да я закачат.',
-  //     ru: 'Остерегайтесь дикого гуся.  Он не любит когда в него тыкают.',
+  //     ru: 'Остерегайтесь дикого гуся. Он не любит когда в него тыкают.',
   //     de: 'Hüte dich vor der wilden Gans. Es mag keine Stöße.',
   //     ro: 'Ferește-te de gâsca sălbatică. Nu-i plac ciupiturile.',
   //     pt: 'Cuidado com o ganso selvagem. Não gosta de picaretas.',
@@ -204,7 +238,7 @@ export default [
   //     es: 'Cuidado con el ganso loco. No le gustan los picas.',
   //     nl: 'Pas op voor de wilde gans. Hij houdt niet van poppen.',
   //     tl: 'Mag-ingat sa mabangong gus. Hindi nito gusto pokes.',
-  //     cs: 'Dejte si pozor na divokou husu.  Není to jako pokes.'
+  //     cs: 'Dejte si pozor na divokou husu. Není to jako pokes.'
   //   }
   // },
 
@@ -222,7 +256,7 @@ export default [
   //     pl: 'Potężny jedwabny sznurek wart więcej niż cały twój sprzęt.',
   //     fr: 'Puissant cordage soyeux qui vaut plus que tout votre équipement.',
   //     sv: 'Kraftfull silkeslen sträng värt mer än alla dina redskap.',
-  //     es: 'Potente cuerda de seda que vale más que todo tu equipamiento.',
+  //     es: 'Potente cuerda de seda que vale más que todo tu equipo.',
   //     nl: 'Krachtig zijdeachtig touw dat meer waard is dan al je spullen.',
   //     tl: 'Makapangyarihang parang seda string nagkakahalaga ng higit sa lahat ng iyong gear.',
   //     cs: 'Silná hedvábná šňůra v hodnotě více než všechny vaše vybavení.'
@@ -280,12 +314,12 @@ export default [
   //     ru: 'Мелко гравированный лист золота, символизирующий высокую королевскую власть',
   //     de: 'Fein graviertes Blatt aus Gold, das eine hohe Lizenzgebühr darstellt.',
   //     ro: 'Frunze de aur fin gravate reprezentând regalitate de rang mare.',
-  //     pt: 'Folha de ouro finamente gravada representando alta realeza.',
+  //     pt: 'Folha de ouro finamente gravada representando a alta realeza.',
   //     it: 'Foglia d\'oro finemente incisa che rappresenta l\'alta regalità.',
   //     pl: 'Drobno wygrawerowany liść złota reprezentujący wysoką rodzinę królewską.',
   //     fr: 'Feuille d\'or finement gravée représentant la haute royauté.',
   //     sv: 'Fint inristat guldblad som representerar hög royalty.',
-  //     es: 'Hoja de oro finamente grabada que representa altos derechos de el rey.',
+  //     es: 'Hoja de oro finamente grabada que representa altos derechos del rey.',
   //     nl: 'Fijn gegraveerd blad van goud met een hoog koninklijk gehalte.',
   //     tl: 'May pinong engraved dahon ng ginto na kumakatawan sa mataas na royalty.',
   //     cs: 'Jemně ryté listy zlata představující vysoké honoráře.'
@@ -306,7 +340,7 @@ export default [
   //     pl: 'Klasyczny składnik bulionu czarownic.',
   //     fr: 'L\'ingrédient classique d\'un bouillon de sorcière.',
   //     sv: 'Den klassiska ingrediensen till en häxes buljong.',
-  //     es: 'El ingrediente clásico del caldo de bruja.',
+  //     es: 'El ingrediente clásico por un caldo de bruja.',
   //     nl: 'Het klassieke ingrediënt van de bouillon van een heks.',
   //     tl: 'Ang klasikong sahog sa sabaw ng bruha.',
   //     cs: 'Klasická přísada do vývaru čarodějnice.'
@@ -348,10 +382,10 @@ export default [
   //     pl: 'Mała, rozdrobniona miska na gulasz. Ostrożnie, jest łatwopalny.',
   //     fr: 'Petit bol à ragoût émietté. Attention, c\'est inflammable.',
   //     sv: 'Liten flisad gryta skål. Var försiktig, det är brandfarligt.',
-  //     es: 'Pequeña cazuela de estofado astillada. Cuidado, puede encienda en fuego.',
+  //     es: 'Pequeña cazuela astillada de estofado. Cuidado, puede encienda en fuego.',
   //     nl: 'Kleine gechipt stoofpotje. Voorzichtig, het is brandbaar.',
   //     tl: 'Maliit na pingas na nilagang tapyas. Mag-ingat, ito ay nasusunog.',
-  //     cs: 'Malá štípaná dušená mísa.  Pozor, je to hořlavý.'
+  //     cs: 'Malá štípaná dušená mísa. Pozor, je to hořlavý.'
   //   }
   // },
 
@@ -427,7 +461,7 @@ export default [
   //     en: 'A tuft of putrid matted hair. It was a tough battle to get hold of this.',
   //     bg: 'Шепа мазна загнила коса. Трудна битка беше за да се докопа.',
   //     ru: 'Пучок запутаных и ванючих волос. Трудная битва была, чтобы его достать.',
-  //     de: 'Ein Büschel verfaulter, verfilzter Haare. Es war ein harter Kampf, um dies zu erreichen. ',
+  //     de: 'Ein Büschel verfaulter, verfilzter Haare. Es war ein harter Kampf, um dies zu erreichen.',
   //     ro: 'Un smoc de păr putrezit. Am dus o luptă grea să pot pune mâna pe asta.',
   //     pt: 'Um tufo de pêlos pútridos emaranhados. Foi uma batalha difícil para pegar isso.',
   //     it: 'Un ciuffo di capelli opachi e putridi. E\' stata una battaglia difficile da vincere.',
@@ -435,10 +469,10 @@ export default [
   //     fr: 'Une touffe de cheveux putrides et mats. C\'était une dure bataille pour mettre la main dessus.',
   //     sv: 'En tuft av matt mattat hår. T\'var en tuff kamp för att få tag i detta.',
   //     hi: 'बालों क सड़ा हुआ गच्छा। इसे पाने के लिए बड़ा युद्ध लड़ा था।',
-  //     es: 'Un mechón de pelo enredado y pútrido. Fue una dura batalla para conseguirlo.',
+  //     es: 'Un mechón de pelo enredado y pútrido. Fue una batalla dura para conseguirlo.',
   //     nl: 'Een plukje verrot gematteerd haar. Het was een zware strijd om dit te bemachtigen.',
   //     tl: 'Ang isang tuft ng putrid matted buhok. T\'ay isang mahigpit na labanan upang makuha ang mga ito.',
-  //     cs: 'Chomáč hnilobných matných vlasů.  Tohle byla těžká bitva'
+  //     cs: 'Chomáč hnilobných matných vlasů. Tohle byla těžká bitva'
   //   }
   // },
 
@@ -457,10 +491,10 @@ export default [
   //     fr: 'Larves dégoûtantes d\'un insecte inconnu. Espérons qu\'il s\'agit d\'une petite...',
   //     sv: 'Motbjudande larver av en okänd insekt. Förhoppningsvis en liten en ...',
   //     hi: 'अन्जाने कीड़े का भद्धा डिंभट। शायद छोटा-सा है...',
-  //     es: 'Larvas asquerosas de un insecto desconocido. Con suerte, uno pequeño...',
+  //     es: 'Larvas asquerosas de un insecto desconocido. Con suerte, un pequeño...',
   //     nl: 'Smerige larven van een onbekend insect. Hopelijk een kleintje...',
   //     tl: 'Nakakasira ng larvae ng isang hindi kilalang insekto. Sana may isang maliit na ...',
-  //     cs: 'Nechutné larvy neznámého hmyzu.  Doufejme, že ten malý ...'
+  //     cs: 'Nechutné larvy neznámého hmyzu. Doufejme, že ten malý ...'
   //   }
   // },
 
@@ -470,7 +504,7 @@ export default [
   //   description: {
   //     en: 'Strange triangular fragment of obsidian. Perhaps it\'s part of a larger structure...',
   //     bg: 'Странен триъгълен фрагмент от ожсидиан. Вероятно е част от по голяма структура...',
-  //     ru: 'Странный треугольный фрагмент обсидиана.  Возможно, это часть большей структуры ...',
+  //     ru: 'Странный треугольный фрагмент обсидиана. Возможно, это часть большей структуры ...',
   //     de: 'Seltsames dreieckiges Fragment des Obsidians. Vielleicht ist es Teil einer größeren Struktur....',
   //     ro: 'Un ciudat fragment triunghiular din obsidian. Poate face parte dintr-o structură mai mare...',
   //     pt: 'Estranho fragmento triangular de obsidiana. Talvez seja parte de uma estrutura maior...',
@@ -544,7 +578,7 @@ export default [
   //     fr: 'Jettez-en dans un feu de camp et vous aurez une mauvaise surprise explosive.',
   //     sv: 'Kasta lite in i ett lägereld och du är ute efter en otäck explosiv överraskning.',
   //     hi: 'ऐक चुटकी को आग में दाले और धमाकेदार जादू अनुभव करें।',
-  //     es: 'Tira poco en la lumbre y te llevarás una feo sorpresa explosiva.',
+  //     es: 'Tira un poco en la lumbre y te llevarás una fea sorpresa explosiva.',
   //     nl: 'Gooi wat in een kampvuur en je staat voor een vervelende explosieve verrassing.',
   //     tl: 'Ihagis ang ilan sa isang apoy sa kampo at ikaw ay nasa para sa isang pangit na eksplosibong sorpresa.',
   //     cs: 'Vyhoďte nějaké do táboráku a vy jste v nepříjemném výbušném překvapení.'

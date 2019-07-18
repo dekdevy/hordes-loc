@@ -2,7 +2,7 @@ export default {
   interactions: [{
     text: {
       en: 'Have you heard of the Crystal Shards that were discovered recently? Adventurers can use them to travel directly to distant realms. I don\'t have any Crystal Shards, but I can send you to some places since mystic forces converge at this nexus. Which realm is your desired destination?',
-      ru: 'Вы слышали о Crystal Shards, которые были недавно обнаружены? Искатели приключений могут использовать их для перемещения сразу в дальние регионы. У меня нет никаких Crystal Shards, но я могу переместить вас в любое место, так как здесь сходятся мистические силы. Какую зону вы желаете посетить?',
+      ru: 'Вы слышали о Crystal Shards, которые были недавно обнаружены? Искатели приключений могут использовать их для перемещения сразу в дальние регионы. У меня сейчас нет никаких Crystal Shards, но я могу переместить вас в любое место, так как здесь сходятся мистические силы на этом нексусе. Какую зону вы желаете посетить?',
       sv: 'Har du hört talas om de Crystal Shards som upptäcktes nyligen? Äventyrare kan använda dem för att resa till fjärran riken. Jag har inga Crystal Shards, men jag kan skicka dig till vissa platser eftersom mystiska krafter samlas i denna nexus. Vilken värld vill du resa till?',
       es: '¿Ha oído de los Crystal Shards que estaban descubierto recientemente? Los aventureros pueden usarlos para viajar directamente a tierras lejanas. No tengo ningún Crytal Shard, pero te puedo enviar a algunos lugares porque hay fuerzas místicas convergentes aquí en este nexo. ¿Adónde quiere ir?',
       da: 'Har du hørt om Crystal Shards, der blev opdaget for nylig? Eventyrere kan bruge dem til at rejse direkte til fjerne verdener. Jeg har ikke nogen Crystal Shards, men jeg kan sende dig til nogle steder, da mystiske styrker konvergerer i denne sammenhæng. Hvilket rige er din ønskede bestemmelsessted?',
@@ -17,7 +17,7 @@ export default {
       el: 'Έχετε ακούσει για το Crystal Shards που ανακαλύφθηκαν πρόσφατα; Οι τυχοδιώκτες μπορούν να τις χρησιμοποιήσουν για να ταξιδέψουν απευθείας σε μακρινά σφαίρα. Δεν έχω κανένα Crystal Shards, αλλά μπορώ να σας στείλω σε μερικά μέρη αφού οι μυστικές δυνάμεις συγκλίνουν σε αυτό το σύνδεσμο. Ποιος τομέας είναι ο επιθυμητός προορισμός σας;',
       bg: 'Чували ли сте за Crystal Shards, които бяха открити наскоро? Авантюристите могат да ги използват, за да пътуват директно до далечни сфери. Нямам Crystal Shards, но мога да ви изпратя на някои места, тъй като мистичните сили се събират в тази връзка. Коя област е вашата желана дестинация?',
       de: 'Haben Sie von dem Crystal Shards gehört, das kürzlich entdeckt wurde? Abenteurer können sie nutzen, um direkt in ferne Gebiete zu reisen. Ich habe kein Crystal Shards, aber ich kann dich an einige Orte schicken, da mystische Kräfte in diesem Nexus zusammenkommen. Welcher Bereich ist dein gewünschtes Ziel?',
-      pt: 'Já ouviu falar do Crystal Shards que foi descoberto recentemente? Os aventureiros podem usá-los para viajar directamente para reinos distantes. Eu não tenho nenhum Crystal Shards, mas posso enviar você a alguns lugares já que forças místicas convergem neste nexo. Qual é o seu destino desejado?',
+      pt: 'Já ouviu falar dos Crystal Shards que foram descobertos recentemente? Os aventureiros podem usá-los para viajar diretamente para reinos distantes. Eu não tenho nenhum Crystal Shard, mas posso enviar você a alguns lugares já que forças místicas convergem neste nexo. Qual é o seu destino desejado?',
       it: 'Ha sentito parlare dei Crystal Shards che sono stati scoperti di recente? Gli avventurieri possono usarli per viaggiare direttamente in regni lontani. Non ho nessun Crystal Shards, ma posso mandarvi in alcuni luoghi, dato che le forze mistiche convergono in questo nesso. Quale regno è la destinazione desiderata?',
       fr: 'Avez-vous entendu parler des Crystal Shards qui ont été découvertes récemment ? Les aventuriers peuvent les utiliser pour voyager directement vers des royaumes lointains. Je n\'ai pas de Crystal Shards, mais je peux vous envoyer à certains endroits puisque les forces mystiques convergent vers ce lien. Quel domaine est votre destination préférée ?',
       ro: 'Ai auzit de acele Crystal Shards care au fost descoperite recent? Aventurierii le pot folosi pentru a călători direct în tărâmuri îndepărtate. Nu am deloc Crystal Shards, dar te pot trimite în unele locuri din moment ce forțele mistice converg la acest nex. Care tărâm reprezintă destinația dorită?'
@@ -34,7 +34,7 @@ export default {
       ht: 'Tanpri, pote m \' $ 1.',
       pl: 'Proszę, przyprowadź mnie do $1.',
       nl: 'Breng me alsjeblieft naar $1.',
-      pt: 'Por favor, entregar me $1.',
+      pt: 'Por favor, leve-me até $1.',
       cs: 'Přiveďte mě na $1.',
       ja: '私を $1 の元に連れて行って',
       tr: 'Lütfen bana $1 getir.',

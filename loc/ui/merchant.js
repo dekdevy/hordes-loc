@@ -6,7 +6,7 @@ export default {
     ru: 'Поиск',
     de: 'Suche',
     tl: 'Paghahanap',
-    pt: 'Busca',
+    pt: 'Pesquisar',
     it: 'Ricerca',
     fr: 'Recherche',
     es: 'Buscar',
@@ -26,7 +26,7 @@ export default {
   filtermine: {
     en: 'My items only',
     nl: 'Alleen mijn voorwerpen',
-    de: 'Nur meine Items',
+    de: 'Nur meine items',
     ru: 'Только мои предметы',
     tl: 'Aking mga item lamang',
     pt: 'Apenas os meus itens',
@@ -49,24 +49,24 @@ export default {
   buy: {
     en: 'Buy Item',
     nl: 'Voorwerp Kopen',
-    de: 'Item kaufen',
+    de: 'Item Kaufen',
     ru: 'Купить предмет',
     tl: 'Bumili ng Item',
-    pt: 'Comprar Objeto',
-    it: 'Comprare l\'oggetto',
+    pt: 'Comprar Item',
+    it: 'Comprare L\'oggetto',
     es: 'Comprar Objeto',
-    fr: 'Acheter l\'objet',
-    pl: 'Obiekt zakupu',
+    fr: 'Acheter L\'objet',
+    pl: 'Obiekt Zakupu',
     el: 'Αγοράστε Αντικείμενο',
     bg: 'Купете предмет',
-    cs: 'Koupit předmět',
+    cs: 'Koupit Předmět',
     ht: 'Achte Objè',
     ko: '물건을 사다',
     ja: '商品を購入',
-    ro: 'Cumpără obiectul',
+    ro: 'Cumpără Obiectul',
     hi: 'वस्तु खरीदे',
-    da: 'Køb genstand',
-    sv: 'Köp föremål'
+    da: 'Køb Genstand',
+    sv: 'Köp Föremål'
   },
 
   post: {
@@ -90,7 +90,7 @@ export default {
     cs: 'Poslat Předmět',
     ja: 'オブジェクトを送信',
     da: 'Send Genstand',
-    ro: 'Postează obiectul'
+    ro: 'Postează Obiectul'
   },
 
   delist: {
@@ -110,10 +110,10 @@ export default {
     ht: 'De-lis Objè',
     ko: '항목 삭제',
     ja: 'アイテムを無効にする',
-    ro: 'Scoate obiectul',
+    ro: 'Scoate Obiectul',
     hi: 'बाज़ार से हटाएं',
-    da: 'Fjern element fra liste',
-    sv: 'Delista-objektet'
+    da: 'Fjern Genstand fra liste',
+    sv: 'Delista-Objektet'
   },
 
   // Include the space and punctuation
@@ -161,7 +161,7 @@ export default {
     ro: 'Taxă: ',
     hi: 'कीमत: ',
     da: 'Skat: ',
-    sv: 'Avgift'
+    sv: 'Avgift: '
   },
 
   dragitem: {
@@ -170,7 +170,7 @@ export default {
     de: 'Zieh ein Item hier rein',
     ru: 'Перетащите предмет в слот',
     tl: 'I-drag ang item sa puwang',
-    pt: 'Arraste o objeto para a ranhura',
+    pt: 'Arraste o item para o slot',
     it: 'Trascinare l\'oggetto nella fessura',
     pl: 'Przeciągnij obiekt do szczeliny czytnika',
     es: 'Arrastre el objeto a la ranura',
@@ -192,7 +192,7 @@ export default {
     es: 'Ha contabilizado $1 para la venta',
     fr: 'Vous avez mis $1 en vente',
     de: 'Sie haben $1 zum Verkauf angeboten',
-    pt: 'Você enviei $1 para venda',
+    pt: 'Você colocou $1 para venda',
     ru: 'Вы выставили $1 на продажу',
     ko: '판매용으로 $1 를 게시했습니다',
     nl: 'U heeft $1 te koop aangeboden',
@@ -216,7 +216,7 @@ export default {
     ru: 'Предмет снят с продажи и отправлен в ваш сундук',
     nl: 'Item verwijderd en naar de stash verzonden',
     de: 'Verkauf abgebrochen und Item in den Speicher geschickt',
-    pt: 'Item retirado da lista e enviado para o esconderijo',
+    pt: 'Item retirado da lista e enviado para o baú',
     it: 'Articolo cancellato e inviato a magazzino',
     fr: 'Objet retiré des enchères et envoyé dans la planque',
     pl: 'Przedmiot usunięty z wykazu i wysłany do przechowania.',
@@ -240,7 +240,7 @@ export default {
     es: 'Artículo comprado por $1 monedas y enviado a su alijo',
     fr: 'Article acheté pour $1 pièces et envoyé dans votre planque',
     de: 'Artikel, der für $1 Münzen gekauft und an Ihr Versteck geschickt wurde',
-    pt: 'Item comprado por $1 moedas e enviado para o seu Cesto',
+    pt: 'Item comprado por $1 moedas e enviado para o seu baú',
     nl: 'Item gekocht voor $1 munten en verzonden naar uw ztash',
     pl: 'Przedmiot zakupiony za $1 monet i wysłany do Twojego magazynu',
     sv: 'Produkt som köpts för $1 mynt och skickas till din stash',
