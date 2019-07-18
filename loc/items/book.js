@@ -97,6 +97,13 @@ export default [{
   description: {
     en: 'You and your party members generate extra mana passively.'
   }
+},
+{
+  name: {$$: 'Ice Nova'},
+
+  description: {
+    en: 'Emit a nova of ice around you, damaging and freezing enemies.'
+  }
 }
 // From here on are buff descriptions, these are not actually available
 // as books in the game, but included here as a localization shortcut
