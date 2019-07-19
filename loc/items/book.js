@@ -32,7 +32,7 @@ export default [{
   name: {$$: 'Ice bolt'},
 
   description: {
-    en: 'Fires a missile of frost towards your enemy.'
+    en: 'Fires a missile of frost towards your enemy. Reduces the cooldown of Icicle upon hitting critically by 2 seconds.'
   }
 },
 {
@@ -99,10 +99,17 @@ export default [{
   }
 },
 {
-  name: {$$: 'Ice Nova'},
+  name: {$$: 'Chilling Radiance'},
 
   description: {
-    en: 'Emit a nova of ice around you, damaging and freezing enemies.'
+    en: 'Emit a chilling shockwave ice around you, damaging and freezing enemies. Increases the critical hit chance of some of your spells.'
+  }
+},
+{
+  name: {$$: 'Icicle'},
+
+  description: {
+    en: 'A large frozen icicle dealing massive damage. If Icicle hits critically, enemies in a radius around the target are hit with Ice bolt missiles for 50% of the damage.'
   }
 }
 // From here on are buff descriptions, these are not actually available
