@@ -20,6 +20,7 @@ export default {
     el: 'Τέρας',
     bg: 'Чудовище',
     ro: 'Monstru',
-    da: 'Uhyre'
+    da: 'Uhyre',
+    zh: '妖怪'
   }
 }
