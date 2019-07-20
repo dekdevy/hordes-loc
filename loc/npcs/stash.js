@@ -24,7 +24,8 @@ export default {
       cs: 'Ano, otevřete můj kontejner',
       ja: 'はい、コンテナを開けます',
       ro: 'Da, deschide-mi containerul',
-      da: 'Ja, åben min stash.'
+      da: 'Ja, åben min stash.',
+      zh: '是的，打開我的藏庫'
     }]
   }]
 }
