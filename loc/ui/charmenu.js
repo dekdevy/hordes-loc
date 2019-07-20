@@ -24,7 +24,8 @@ export default {
       pt: 'Selecione um Personagem',
       ht: 'Chwazi Karaktè',
       ro: 'Selectează Caracterul',
-      da: 'Vælg Tegn'
+      da: 'Vælg Tegn',
+      zh: '選人物'
     },
 
     create: {
@@ -48,7 +49,8 @@ export default {
       pt: 'Clique para criar um personagem',
       ht: 'Klike sou yo kreye karaktè',
       ro: 'Click pentru a crea un caracter',
-      da: 'Klik for at vælge helt'
+      da: 'Klik for at vælge helt',
+      zh: '點擊以創建角色'
     },
 
     enterWorld: {
@@ -72,7 +74,8 @@ export default {
       pt: 'Entrar no Mundo',
       ht: 'Antre Lemonn',
       ro: 'Intră în Lume',
-      da: 'Indtast Verden'
+      da: 'Indtast Verden',
+      zh: '進入世界'
     },
 
     emptySlot: {
@@ -96,7 +99,8 @@ export default {
       pt: 'Vazio',
       ht: 'Vide',
       ro: 'Gol',
-      da: 'Tom'
+      da: 'Tom',
+      zh: '空的'
     },
 
     error: {
@@ -120,7 +124,8 @@ export default {
       pt: 'Erro de Rede',
       ht: 'Rezo Erè',
       ro: 'Eroare de Rețea',
-      da: 'Netværksfejl'
+      da: 'Netværksfejl',
+      zh: '網絡錯誤'
     }
   },
 
@@ -147,7 +152,8 @@ export default {
       pt: 'Criação de Personagens',
       ht: 'Kreyasyon Karaktè',
       ro: 'Creare de Personaje',
-      da: 'Oprettelse af Helt'
+      da: 'Oprettelse af Helt',
+      zh: '角色創造'
     },
 
     pressIcon: {
@@ -171,7 +177,8 @@ export default {
       pt: 'Pressione um ícone para uma breve descrição.',
       ht: 'Peze yon icon pou yon deskripsyon tou kout.',
       ro: 'Apăsați o pictogramă pentru o scurtă descriere.',
-      da: 'Tryk på et ikon for en kort beskrivelse.'
+      da: 'Tryk på et ikon for en kort beskrivelse.',
+      zh: '按圖標可獲得簡要說明。'
     },
 
     selectClass: {
@@ -195,7 +202,8 @@ export default {
       pt: 'Selecione uma Classe',
       ht: 'Chwazi yon Klas',
       ro: 'Alegeți o Clasă',
-      da: 'Vælg en Klasse'
+      da: 'Vælg en Klasse',
+      zh: '選擇角色職業'
     },
 
     selectFaction: {
@@ -219,7 +227,8 @@ export default {
       pt: 'Selecione uma Facção',
       ht: 'Chwazi yon Faksyon',
       ro: 'Alegeți o Facțiune',
-      da: 'Vælg en Fraktion'
+      da: 'Vælg en Fraktion',
+      zh: '選擇派系'
     },
 
     enterName: {
@@ -243,7 +252,8 @@ export default {
       pt: 'Digite um nome',
       ht: 'Mete yon non',
       ro: 'Introduceți un nume',
-      da: 'Indtast et navn'
+      da: 'Indtast et navn',
+      zh: '選擇名稱'
     },
 
     nameReq: {
@@ -267,7 +277,8 @@ export default {
       pt: 'O seu nome só pode conter caracteres de a-Z, e números 0-9, sem espaços. Até 16 caracteres.',
       ht: 'Non ou ka sèlman gen karaktè a-Z, ak nimewo 0-9, san okenn espas. Jiska 16 karaktè.',
       ro: 'Numele tău poate conține doar caractere a-Z, și numere 0-9, fără spații. Până la 16 caractere.',
-      da: 'Dit navn kan kun indeholde tegn a-Z og tal 0-9 uden mellemrum. Op til 16 tegn.'
+      da: 'Dit navn kan kun indeholde tegn a-Z og tal 0-9 uden mellemrum. Op til 16 tegn.',
+      zh: '你的名字只能包含字符a-Z和數字0-9，不能包含任何空格。 最多16個字符。'
     }
   },
 
@@ -295,7 +306,8 @@ export default {
       pt: 'Eliminar',
       ht: 'Efase',
       ro: 'Șterge',
-      da: 'Slet'
+      da: 'Slet',
+      zh: '刪除'
     },
 
     info: {
@@ -319,7 +331,8 @@ export default {
       pt: 'Para apagar, digite o nome do personagem. Seu personagem não pode ser restaurado.',
       ht: 'Efase, tape non karaktè a. Karaktè ou pa kapab retabli.',
       ro: 'Pentru a șterge, tastați numele caracterului. Personajul tău nu va putea fi restaurat',
-      da: 'For at slette skal du indtaste tegnets navn. Din karakter kan ikke gendannes.'
+      da: 'For at slette skal du indtaste tegnets navn. Din karakter kan ikke gendannes.',
+      zh: '要刪除，請鍵入角色的名稱。 你的角色無法恢復。'
     },
 
     placeholder: {
@@ -343,7 +356,8 @@ export default {
       pt: 'Tens a certeza?',
       ht: 'Èske w sèten?',
       ro: 'Ești sigur?',
-      da: 'Er du sikker?'
+      da: 'Er du sikker?',
+      zh: '你確定嗎？'
     }
   }
 }
