@@ -20,7 +20,8 @@ export default {
     el: 'Ψίθυρος',
     tl: 'Bulong',
     ro: 'Șoaptă',
-    da: 'Hvisk'
+    da: 'Hvisk',
+    zh: '耳語'
   },
 
   types: [ // dont translate until beta testing
