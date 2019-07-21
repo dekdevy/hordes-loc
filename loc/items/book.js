@@ -106,10 +106,10 @@ export default [{
   }
 },
 {
-  name: {$$: 'Icicle'},
+  name: {$$: 'Icicle Orb'},
 
   description: {
-    en: 'A large frozen icicle dealing massive damage. If Icicle hits critically, enemies in a radius around the target are hit with Ice bolt missiles for 50% of the damage.'
+    en: 'Summon a large orb, ejecting icicles hitting all enemies in its path.'
   }
 }
 // From here on are buff descriptions, these are not actually available
