@@ -102,7 +102,7 @@ export default [{
   name: {$$: 'Chilling Radiance'},
 
   description: {
-    en: 'Emit a chilling shockwave ice around you, damaging and freezing enemies. Increases the critical hit chance of some of your spells.'
+    en: 'Emit a chilling shockwave of ice around you, damaging and freezing enemies. Increases the critical hit chance of some of your spells.'
   }
 },
 {
