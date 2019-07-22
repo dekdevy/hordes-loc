@@ -111,28 +111,12 @@ export default [{
   description: {
     en: 'Summon a large orb, ejecting icicles hitting all enemies in its path.'
   }
+},
+{
+  name: {$$: 'Hypothermic Frenzy'},
+
+  description: {
+    en: 'You temporarily gain Haste and all your damage output is increased.'
+  }
 }
-// From here on are buff descriptions, these are not actually available
-// as books in the game, but included here as a localization shortcut
-// {
-//   name: {$$: 'Bulwarks Protection'}
-// },
-// {
-//   name: {$$: 'Bulwarks Resolve'}
-// },
-// {
-//   name: {$$: 'Revitalization'}
-// },
-// {
-//   name: {$$: 'Spec Warrior'}
-// },
-// {
-//   name: {$$: 'Spec Mage'}
-// },
-// {
-//   name: {$$: 'Spec Archer'}
-// },
-// {
-//   name: {$$: 'Spec Shaman'}
-// }
 ]
