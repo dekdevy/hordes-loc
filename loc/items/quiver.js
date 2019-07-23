@@ -81,7 +81,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Reinforced Examplar' },
+    name       : {$$: 'Reinforced Exemplar' },
     description: {
       en: 'Linen sack covered in stiff leather.',
       ru: 'Льняной мешочек обтянутый жесткой кожей.',
