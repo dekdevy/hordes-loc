@@ -55,7 +55,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Curved shortbow'},
+    name       : {$$: 'Curved Shortbow'},
     description: {
       en: 'This bow is curved to such an extent that it will probably snap at any moment.',
       ru: 'Лук настолько изогнут, что кажется будто он сейчас треснет.',
