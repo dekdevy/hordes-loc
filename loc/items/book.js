@@ -123,7 +123,7 @@ export default [{
   name: {$$: 'Colossal Reconstruction'},
 
   description: {
-    en: 'You are healed each time you block an attack.'
+    en: 'While active you are healed each time you block an attack.'
   }
 },
 {
