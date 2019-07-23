@@ -118,5 +118,19 @@ export default [{
   description: {
     en: 'You temporarily gain Haste and all your damage output is increased.'
   }
+},
+{
+  name: {$$: 'Colossal Reconstruction'},
+
+  description: {
+    en: 'You are healed each time you block an attack.'
+  }
+},
+{
+  name: {$$: 'Centrifugal Laceration'},
+
+  description: {
+    en: 'Your Crescent Swipe lacerates enemies, causing them to bleed for additional damage.'
+  }
 }
 ]
