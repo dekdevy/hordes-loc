@@ -130,7 +130,77 @@ export default [{
   name: {$$: 'Centrifugal Laceration'},
 
   description: {
-    en: 'Your Crescent Swipe lacerates enemies, causing them to bleed for additional damage.'
+    en: 'Your Crescent Swipe lacerates enemies, causing them to bleed for additional Damage.'
+  }
+},
+{
+  name: {$$: 'Warcry'},
+
+  description: {
+    en: 'You and your party members deal additional Damage temporarily.'
+  }
+},
+{
+  name: {$$: 'Courage'},
+
+  description: {
+    en: 'You and your party members gain additional Defense temporarily.'
+  }
+},
+{
+  name: {$$: 'Armor Reinforcement'},
+
+  description: {
+    en: 'Passively increase your Defense.'
+  }
+},
+{
+  name: {$$: 'Arctic Aura'},
+
+  description: {
+    en: 'You and your party members gain additional Crit% temporarily.'
+  }
+},
+{
+  name: {$$: 'Arcane Concentration'},
+
+  description: {
+    en: 'Passively increase your Haste.'
+  }
+},
+{
+  name: {$$: 'Enchantment'},
+
+  description: {
+    en: 'Increase your targets Damage temporarily.'
+  }
+},
+{
+  name: {$$: 'Temporal Dilation'},
+
+  description: {
+    en: 'You and your party members gain additional Haste temporarily.'
+  }
+},
+{
+  name: {$$: 'Cranial Punctures'},
+
+  description: {
+    en: 'Passively increase your Crit%.'
+  }
+},
+{
+  name: {$$: 'Pathfinding'},
+
+  description: {
+    en: 'You and your party members gain additional Movement Speed temporarily.'
+  }
+},
+{
+  name: {$$: 'Canine Howl'},
+
+  description: {
+    en: 'Increase your targets Haste temporarily.'
   }
 }
 ]
