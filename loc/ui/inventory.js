@@ -249,7 +249,7 @@ export default {
     tr: 'Öldün ve $1 madeni para kaybettin',
     ht: 'Ou te mouri ak pèdi $1 pyès monnen',
     it: 'Sei morto e perso $1 monete',
-    hi: 'आप मारे गए और 252525 सिक्के खो गए',
+    hi: 'आप मारे गए और $1 सिक्के खो गए',
     tl: 'Namatay ka at nawala ang $1 barya',
     el: 'Πέθανε και έχασες $1 νομίσματα',
     bg: 'Ти умря и загуби $1 монети',
