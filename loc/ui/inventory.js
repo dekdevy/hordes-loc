@@ -233,5 +233,9 @@ export default {
     ja: 'あなたは $1 コインを使った',
     ro: 'Ai cheltuit $1 de monede',
     da: 'Du har brugt $1 mønter'
+  },
+
+  death: {
+    en: 'You died and lost $1 coins'
   }
 }
