@@ -22,6 +22,7 @@ export default {
     sv: 'Inventarium',
     ro: 'inventar',
     da: 'Opbevaring'
+    zh: '库存'
   },
 
   pick: {
@@ -45,6 +46,7 @@ export default {
     ko: '당신은 $1 를 선택했습니다',
     sv: 'Du har plockat upp $1',
     da: 'Du har hentet $1'
+    zh: '你捡到了 $1'
   },
 
   throw: {
@@ -69,6 +71,7 @@ export default {
     cs: 'Odhodil jsi $1',
     ja: 'あなたは捨てました $1',
     da: 'Du smed $1 væk'
+    zh: '你丢了 $1'
   },
 
   full: {
@@ -92,6 +95,7 @@ export default {
     ko: '인벤토리가 가득 찼습니다',
     sv: 'Din inventering är full',
     da: 'Dit lager er fuldt'
+    zh: '你的库存满了'
   },
 
   sell: { // TODO: these are likely broken in many places
@@ -115,6 +119,7 @@ export default {
     ko: '$1 에',
     sv: 'Du har sålt $1',
     da: 'Du har solgt $1'
+    zh: '你卖了 $1'
   },
 
   receive: {
@@ -138,6 +143,7 @@ export default {
     el: 'Έχετε λάβει $1',
     bg: 'Получихте $1',
     ro: 'Ați primit $1'
+    zh: '你收到 $1'
   },
 
   drop: {
@@ -162,6 +168,7 @@ export default {
     sv: 'Släpp objektet',
     ro: 'Aruncă obiectul',
     da: 'Slet genstand'
+    zh: '丢装备'
   },
 
   equip: {
@@ -185,6 +192,7 @@ export default {
     fr: 'Equipez votre item',
     nl: 'Rust uw item uit',
     ro: 'Echipează obiectul'
+    zh: '上装备'
   },
 
   use: {
@@ -209,6 +217,7 @@ export default {
     cs: 'Použijte přidmet',
     ja: 'アイテムを使う',
     da: 'Brug genstand'
+    zh: '用物品'
   },
 
   spend: {
@@ -233,9 +242,11 @@ export default {
     ja: 'あなたは $1 コインを使った',
     ro: 'Ai cheltuit $1 de monede',
     da: 'Du har brugt $1 mønter'
+    zh: '你花了 $1'
   },
 
   death: {
     en: 'You died and lost $1 coins'
+    zh: '你死了，掉了 $1'
   }
 }
