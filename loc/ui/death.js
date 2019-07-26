@@ -46,6 +46,7 @@ export default {
     ht: 'Peze bouton an pou li resisite nan aparèy ki pi pre a.',
     ro: 'Apăsați butonul pentru a fi înviat la cea mai apropiată conjurer.',
     da: 'Tryk på knappen for at blive opstandet hos nærmeste konjurer.'
+    zh: '按下按钮可以找最近的魔术师处复活'
   },
 
   // 'Resurrect' used in many translations
