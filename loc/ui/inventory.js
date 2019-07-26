@@ -236,6 +236,26 @@ export default {
   },
 
   death: {
-    en: 'You died and lost $1 coins'
+    en: 'You died and lost $1 coins',
+    ru: 'Вы умерли и потеряли $1 монет',
+    es: 'Moriste y perdiste $1 monedas',
+    fr: 'Vous êtes mort et perdu $1 pièces',
+    de: 'Du bist gestorben und hast $1 Münzen verloren',
+    pt: 'Você morreu e perdeu $1 moedas',
+    ko: '$1 개의 동전을 잃고 잃어 버렸습니다.',
+    nl: 'Je stierf en verloor $1 munten',
+    pl: 'Zginąłeś i straciłeś $1 monet',
+    sv: 'Du dog och tappade $1 mynt',
+    tr: 'Öldün ve $1 madeni para kaybettin',
+    ht: 'Ou te mouri ak pèdi $1 pyès monnen',
+    it: 'Sei morto e perso $1 monete',
+    hi: 'आप मारे गए और 252525 सिक्के खो गए',
+    tl: 'Namatay ka at nawala ang $1 barya',
+    el: 'Πέθανε και έχασες $1 νομίσματα',
+    bg: 'Ти умря и загуби $1 монети',
+    cs: 'Zemřeli jste a ztratili jste $1 mincí',
+    ja: 'あなたは死んで $1 コインを失った',
+    ro: 'Ai murit și ai pierdut $1 de monede',
+    da: 'Du døde og mistede $1 mønter'
   }
 }
