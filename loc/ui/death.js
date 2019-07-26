@@ -21,6 +21,7 @@ export default {
     ht: 'Ou te mouri',
     ro: 'Tu ai murit',
     da: 'Du er død'
+    zh: '你死了'
   },
 
   deathmsg: {
@@ -69,5 +70,6 @@ export default {
     ht: 'Resisite',
     ro: 'Înviați',
     da: 'Genoplive'
+    zh: '复活'
   }
 }
