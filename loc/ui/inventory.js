@@ -21,7 +21,7 @@ export default {
     ko: '목록',
     sv: 'Inventarium',
     ro: 'inventar',
-    da: 'Opbevaring'
+    da: 'Opbevaring',
     zh: '库存'
   },
 
@@ -45,7 +45,7 @@ export default {
     ht: 'Ou ranmase $1',
     ko: '당신은 $1 를 선택했습니다',
     sv: 'Du har plockat upp $1',
-    da: 'Du har hentet $1'
+    da: 'Du har hentet $1',
     zh: '你捡到了 $1'
   },
 
@@ -70,7 +70,7 @@ export default {
     bg: 'Изхвърлихте $1',
     cs: 'Odhodil jsi $1',
     ja: 'あなたは捨てました $1',
-    da: 'Du smed $1 væk'
+    da: 'Du smed $1 væk',
     zh: '你丢了 $1'
   },
 
@@ -94,7 +94,7 @@ export default {
     ht: 'Envantè ou plen',
     ko: '인벤토리가 가득 찼습니다',
     sv: 'Din inventering är full',
-    da: 'Dit lager er fuldt'
+    da: 'Dit lager er fuldt',
     zh: '你的库存满了'
   },
 
@@ -118,7 +118,7 @@ export default {
     ht: 'Ou te vann $1',
     ko: '$1 에',
     sv: 'Du har sålt $1',
-    da: 'Du har solgt $1'
+    da: 'Du har solgt $1',
     zh: '你卖了 $1'
   },
 
@@ -142,7 +142,7 @@ export default {
     ja: '$1 を受け取りました',
     el: 'Έχετε λάβει $1',
     bg: 'Получихте $1',
-    ro: 'Ați primit $1'
+    ro: 'Ați primit $1',
     zh: '你收到 $1'
   },
 
@@ -167,7 +167,7 @@ export default {
     ko: '아이템 놓기',
     sv: 'Släpp objektet',
     ro: 'Aruncă obiectul',
-    da: 'Slet genstand'
+    da: 'Slet genstand',
     zh: '丢装备'
   },
 
@@ -191,7 +191,7 @@ export default {
     de: 'Statten Sie Ihren Items aus.',
     fr: 'Equipez votre item',
     nl: 'Rust uw item uit',
-    ro: 'Echipează obiectul'
+    ro: 'Echipează obiectul',
     zh: '上装备'
   },
 
@@ -216,7 +216,7 @@ export default {
     bg: 'Използвайте придмет',
     cs: 'Použijte přidmet',
     ja: 'アイテムを使う',
-    da: 'Brug genstand'
+    da: 'Brug genstand',
     zh: '用物品'
   },
 
@@ -241,12 +241,32 @@ export default {
     cs: 'Strávili jste $1 mincí',
     ja: 'あなたは $1 コインを使った',
     ro: 'Ai cheltuit $1 de monede',
-    da: 'Du har brugt $1 mønter'
+    da: 'Du har brugt $1 mønter',
     zh: '你花了 $1'
   },
 
   death: {
-    en: 'You died and lost $1 coins'
+    en: 'You died and lost $1 coins',
+    ru: 'Вы умерли и потеряли $1 монет',
+    es: 'Moriste y perdiste $1 monedas',
+    fr: 'Vous êtes mort et perdu $1 pièces',
+    de: 'Du bist gestorben und hast $1 Münzen verloren',
+    pt: 'Você morreu e perdeu $1 moedas',
+    ko: '$1 개의 동전을 잃고 잃어 버렸습니다.',
+    nl: 'Je stierf en verloor $1 munten',
+    pl: 'Zginąłeś i straciłeś $1 monet',
+    sv: 'Du dog och tappade $1 mynt',
+    tr: 'Öldün ve $1 madeni para kaybettin',
+    ht: 'Ou te mouri ak pèdi $1 pyès monnen',
+    it: 'Sei morto e perso $1 monete',
+    hi: 'आप मारे गए और $1 सिक्के खो दिए',
+    tl: 'Namatay ka at nawala ang $1 barya',
+    el: 'Πέθανε και έχασες $1 νομίσματα',
+    bg: 'Ти умря и загуби $1 монети',
+    cs: 'Zemřeli jste a ztratili jste $1 mincí',
+    ja: 'あなたは死んで $1 コインを失った',
+    ro: 'Ai murit și ai pierdut $1 de monede',
+    da: 'Du døde og mistede $1 mønter',
     zh: '你死了，掉了 $1'
   }
 }
