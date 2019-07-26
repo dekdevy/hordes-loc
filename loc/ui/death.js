@@ -40,7 +40,7 @@ export default {
     sv: 'Tryck på knappen för att återuppstå vid närmaste konjurer.',
     tl: 'Pindutin ang pindutan upang mabuhay na muli sa pinakamalapit na salamangkero.',
     tr: 'En yakın hokkabazda diriltilmek için düğmeye basın.',
-    nl: 'Druk op de knop om op te staan ??bij de dichtstbijzijnde goochelaar.',
+    nl: 'Druk op de knop om op te staan bij de dichtstbijzijnde goochelaar.',
     pt: 'Pressione o botão para ser ressuscitado no conjurador mais próximo.',
     pl: 'Naciśnij przycisk, aby zostać wskrzeszony u najbliższego zaklinacza.',
     ht: 'Peze bouton an pou li resisite nan aparèy ki pi pre a.',
