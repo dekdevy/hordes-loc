@@ -21,7 +21,8 @@ export default {
     el: 'Ρυθμίσεις',
     tl: 'Mga setting',
     ro: 'Setări',
-    da: 'Indstillinger'
+    da: 'Indstillinger',
+    zh: '设置'
   },
 
   // ---- Controls
@@ -46,7 +47,8 @@ export default {
     el: 'διακόπτης',
     tl: 'Mga kontrol',
     ro: 'Controale',
-    da: 'Controls'
+    da: 'Controls',
+    zh: '控制'
   },
 
   lockedcamera: {
@@ -70,7 +72,8 @@ export default {
     el: 'Κλειδωμένη κάμερα',
     tl: 'naka-lock na camera',
     ro: 'Blochează camera',
-    da: 'Låst kamera'
+    da: 'Låst kamera',
+    zh: '锁定相机'
   },
 
   // ---- Graphics
@@ -95,7 +98,8 @@ export default {
     el: 'γραφικών',
     tl: 'Grapika',
     ro: 'Grafică',
-    da: 'Grafik'
+    da: 'Grafik',
+    zh: '图像'
   },
 
   viewrange: {
@@ -119,7 +123,8 @@ export default {
     ko: '범위보기',
     ja: '表示範囲',
     tl: 'Tingnan ang saklaw',
-    da: 'Omfang af synet'
+    da: 'Omfang af synet',
+    zh: '远景范围'
   },
 
   resolution: {
@@ -143,7 +148,8 @@ export default {
     el: 'Ανάλυση',
     tl: 'Resolution',
     ro: 'Rezoluție',
-    da: 'Løsning'
+    da: 'Løsning',
+    zh: '解析度'
   },
 
   skilleffects: {
@@ -167,7 +173,8 @@ export default {
     el: 'Επιπτώσεις δεξιοτήτων',
     tl: 'Mga epekto sa kasanayan',
     ro: 'Efectele abilităților',
-    da: 'Færdighedseffekter'
+    da: 'Færdighedseffekter',
+    zh: '技能影响'
   },
 
   shadow: {
@@ -191,7 +198,7 @@ export default {
     el: 'Ποιότητα σκιάς',
     tl: 'Kalidad ng anino',
     ro: 'Calitatea umbrelor',
-    da: 'Skygge kvalitet'
+    da: 'Skygge kvalitet',
   },
 
   grassamount: {
@@ -240,7 +247,8 @@ export default {
     ko: '오디오',
     ja: 'オーディオ',
     tl: 'Audio',
-    da: 'Lyd'
+    da: 'Lyd',
+    zh: '音频'
   },
 
   sfxvolume: {
