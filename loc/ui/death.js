@@ -20,7 +20,7 @@ export default {
     pl: 'Umarłeś',
     ht: 'Ou te mouri',
     ro: 'Tu ai murit',
-    da: 'Du er død'
+    da: 'Du er død',
     zh: '你死了'
   },
 
@@ -45,7 +45,7 @@ export default {
     pl: 'Naciśnij przycisk, aby zostać wskrzeszony u najbliższego zaklinacza.',
     ht: 'Peze bouton an pou li resisite nan aparèy ki pi pre a.',
     ro: 'Apăsați butonul pentru a fi înviat la cea mai apropiată conjurer.',
-    da: 'Tryk på knappen for at blive opstandet hos nærmeste konjurer.'
+    da: 'Tryk på knappen for at blive opstandet hos nærmeste konjurer.',
     zh: '按下按钮可以找最近的魔术师处复活'
   },
 
@@ -70,7 +70,7 @@ export default {
     pl: 'Wskrześ',
     ht: 'Resisite',
     ro: 'Înviați',
-    da: 'Genoplive'
+    da: 'Genoplive',
     zh: '复活'
   }
 }
