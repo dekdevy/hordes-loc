@@ -45,6 +45,7 @@ export default {
     hi: 'मेरी वस्तुएं',
     da: 'Kun mine genstand',
     sv: 'Endast mina föremål',
+    zh: '只要我的装备'
   },
 
   buy: {
