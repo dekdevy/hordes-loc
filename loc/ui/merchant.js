@@ -166,7 +166,7 @@ export default {
     hi: 'कीमत: ',
     da: 'Skat: ',
     sv: 'Avgift: ',
-    zh: '费用'
+    zh: '费用: '
   },
 
   dragitem: {
