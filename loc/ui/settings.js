@@ -198,7 +198,7 @@ export default {
     el: 'Ποιότητα σκιάς',
     tl: 'Kalidad ng anino',
     ro: 'Calitatea umbrelor',
-    da: 'Skygge kvalitet',
+    da: 'Skygge kvalitet'
   },
 
   grassamount: {
