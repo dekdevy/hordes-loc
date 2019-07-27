@@ -22,7 +22,8 @@ export default [
       hi: 'व्यपारीयो की पत्नीयों द्वारा इस्तमाल की जाने वाली पर्स।',
       ko: '상인의 아내가 사용하는 작은 지갑.',
       ro: 'O mică poșetă folosită de soțiile negustorilor.',
-      da: 'Lille lille taske, der bruges af købmandens hustruer.'
+      da: 'Lille lille taske, der bruges af købmandens hustruer.',
+      zh: '商人妻子用过的小钱包。'
     }
   },
 
@@ -49,7 +50,8 @@ export default [
       hi: 'इसका बकसुआ बाकी की पोटली से ज़्यादा कीमती है।',
       ko: '버클은 그 나머지 부분보다 더 가치가 있습니다.',
       ro: 'Catarama merită mai mult decât restul.',
-      da: 'Spænde er mere værd end resten af ​​det.'
+      da: 'Spænde er mere værd end resten af ​​det.',
+      zh: '扣比其他的更有价值。'
     }
   },
 
@@ -76,7 +78,8 @@ export default [
       hi: 'यात्रा में आपकी सारी जरूरतों के लिए एक अच्छा बैंगनी बस्ता।',
       ko: '모든 여행에 필요한 멋진 보라색 배낭.',
       ro: 'Un rucsac frumos violet pentru toate nevoile tale.',
-      da: 'Nice lilla rygsæk til alle dine rejsebehov.'
+      da: 'Nice lilla rygsæk til alle dine rejsebehov.',
+      zh: '能满足您所有旅行需求的漂亮的紫色帆布背包。'
     }
   },
 
@@ -103,7 +106,8 @@ export default [
       el: 'Κομψή τσάντα που χρησιμοποιείται από ελκυστικούς τοξότες με άλογο.',
       bg: 'Елегантна чанта, използвана от елфски стрелци на кон.',
       ro: 'O geantă elegantă folosită de arcașii elfi pe cai.',
-      da: 'Elegant taske brugt af elven bueskytter på hesteryg.'
+      da: 'Elegant taske brugt af elven bueskytter på hesteryg.',
+      zh: 'Elven弓箭手马背上时候用过的优雅的包。'
     }
   },
 
@@ -130,7 +134,9 @@ export default [
       el: 'Υφαντό από νήματα από λειχήνες η κατασκευή αυτής της τσάντας παραμένει μυστήριο.',
       bg: 'Изработен от нишки от лихен, конструкцията на тази чанта остава загадка.',
       ro: 'Țesută din fire de licheni, construcția acestui sac rămâne un mister.',
-      da: 'Vævet af tråde af lav, er opbygningen af ​​denne taske et mysterium.'
+      da: 'Vævet af tråde af lav, er opbygningen af ​​denne taske et mysterium.',
+      zh: '由地衣制成，这款包包的构造仍然是一个谜。'
+      // still a little weird but idk
     }
   }
 
