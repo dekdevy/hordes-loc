@@ -134,14 +134,14 @@ export default [{
   }
 },
 {
-  name: {$$: 'Warcry'},
+  name: {$$: 'Unholy Warcry'},
 
   description: {
     en: 'You and your party members deal additional Damage temporarily.'
   }
 },
 {
-  name: {$$: 'Courage'},
+  name: {$$: 'Crusader\'s Courage'},
 
   description: {
     en: 'You and your party members gain additional Defense temporarily.'
