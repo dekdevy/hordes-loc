@@ -190,7 +190,6 @@ export default {
     hi: 'वस्तु खीच कर खांचे में डाल दे',
     da: 'Træk genstand i slot',
     sv: 'Dra objektet till platsen'
-    // TheClone would have a more accurate translation for this.
   },
 
   auctionpost: {
