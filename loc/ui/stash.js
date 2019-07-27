@@ -21,7 +21,7 @@ export default {
     ht: 'Ou dwe rete jiskaske ou ka rekipere atik sa a.',
     el: 'Πρέπει να παρακολουθείτε μέχρι να μπορείτε να ανακτήσετε αυτό το στοιχείο.',
     da: 'Du skal til, indtil du kan hente denne vare.',
-    zh: '您必须等到可以取回这个东西'
+    zh: '您必须等到可以取回这个装备'
   },
 
   withdraw: {
