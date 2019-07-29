@@ -21,7 +21,8 @@ export default {
     el: 'Shaman',
     bg: 'Шаман',
     ro: 'Șaman',
-    da: 'Shaman'
+    da: 'Shaman',
+    zh: '薩滿'
   },
   // Class description, visible during character creation
   description: {
@@ -45,6 +46,7 @@ export default {
     el: 'Ο ρόλος του Σαμάνος είναι να στηρίξει την ομάδα θεραπεύοντας την δεξαμενή και προσφέροντας επιθετικά Buffs ή παγιδευτικά Debuffs.',
     bg: 'Ролята на шаманите е да подкрепят групата, като лекуват танковете и предлагат бъфове и де-бъфове.',
     ro: 'Rolul șamanului este de a sprijini grupul prin vindecarea Tancului și de a oferi Buff-uri de ofensiva sau Debuff-uri de paralizare.',
-    da: 'Shamans rolle er at hjælpe gruppen ved at helbrede Tanken og tilbyde offensive Buffs eller lammende Debuffs.'
+    da: 'Shamans rolle er at hjælpe gruppen ved at helbrede Tanken og tilbyde offensive Buffs eller lammende Debuffs.',
+    zh: '薩滿的角色是通過治療坦克和使用進攻性的buff或削弱Debuff來支持隊伍。'
   }
 }

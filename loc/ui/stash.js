@@ -5,7 +5,7 @@ export default {
     de: 'Du musst noch etwas warten, bis du dieses Item nehmen kannst.',
     ru: 'Вы должны подождать перед тем как вы можете получить этот предмет',
     tl: 'Kailangan mong maghintay hanggang sa maari mong ma-retreive ang item na ito.',
-    pt: 'Você tem que esperar até que você possa recuperar este item.',
+    pt: 'Você tem de esperar até que possa recuperar este item.',
     it: 'Devi aspettare di poter recuperare questo articolo.',
     pl: 'Musisz poczekać, aż będziesz mógł odzyskać ten przedmiot.',
     fr: 'Vous devez attendre jusqu\'à ce que vous puissiez récupérer cet objet"',
@@ -20,7 +20,8 @@ export default {
     ro: 'Trebuie să aștepți până să poți recupera acest obiect.',
     ht: 'Ou dwe rete jiskaske ou ka rekipere atik sa a.',
     el: 'Πρέπει να παρακολουθείτε μέχρι να μπορείτε να ανακτήσετε αυτό το στοιχείο.',
-    da: 'Du skal til, indtil du kan hente denne vare.'
+    da: 'Du skal til, indtil du kan hente denne vare.',
+    zh: '您必须等到可以取回这个装备'
   },
 
   withdraw: {
@@ -44,14 +45,15 @@ export default {
     ja: '撤回',
     el: 'Αποσύρω',
     bg: 'Теглене',
-    da: 'Træk'
+    da: 'Træk',
+    zh: '退出'
   },
 
   stash: {
     en: 'Move to stash',
     de: 'Bewegung zur Brust',
     ru: 'Положить в сундук',
-    pt: 'Mover para o esconderijo',
+    pt: 'Mover para o baú',
     it: 'Spostare a nascondiglio',
     pl: 'Przenieś się do skrytki',
     fr: 'Aller dans la planque',
@@ -67,14 +69,15 @@ export default {
     cs: 'Přesuňte se na skrýš',
     ja: '隠し場所に移動',
     ro: 'Mută în ascunzătoare.',
-    da: 'Flyt til stash'
+    da: 'Flyt til stash',
+    zh: '转到保管'
   },
 
   stashed: {
     en: '$1 has been moved to your stash',
     de: '$1 wurde in deinen Speicher verschoben',
     ru: '$1 Было перенесено в сундук',
-    pt: '$1 foi transferido para o seu esconderijo',
+    pt: '$1 foi transferido para o seu baú',
     it: '$1 e\' stato spostato nella tua scorta',
     pl: '$1 został przeniesiony do twojego magazynu',
     fr: '$1 a été transféré dans votre planque',
@@ -90,7 +93,8 @@ export default {
     el: '$1 έχει μεταφερθεί στη θέση σας',
     bg: '$1 е преместен в скривалището ви',
     da: '$1 er flyttet til din stash',
-    ko: '$1 가 숨겨지기로 옮겼습니다.'
+    ko: '$1 가 숨겨지기로 옮겼습니다.',
+    zh: '$1 被转移到了你的保管'
   }
 
 }

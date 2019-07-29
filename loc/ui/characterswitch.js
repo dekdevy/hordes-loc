@@ -20,7 +20,8 @@ export default {
     pl: 'Wyloguj się',
     ht: 'Dekonekte',
     ro: 'Deconectare',
-    da: 'Afslut'
+    da: 'Afslut',
+    zh: '登出'
   },
 
   home: {
@@ -43,6 +44,7 @@ export default {
     pl: 'Domu',
     ht: 'Paj lakay',
     ro: 'Acasă',
-    da: 'Gå hjem'
+    da: 'Gå hjem',
+    zh: '主頁'
   }
 }

@@ -21,7 +21,8 @@ export default {
     el: 'Πολεμιστής',
     bg: 'Войн',
     ro: 'Războinic',
-    da: 'Kriger'
+    da: 'Kriger',
+    zh: '戰士'
   },
   // Class description, visible during character creation
   description: {
@@ -45,6 +46,7 @@ export default {
     el: 'Οι πολεμιστές είναι κατασκευασμένοι για να δεξαμενώνουν περισσότερα τέρατα από οποιαδήποτε άλλη τάξη έχοντας υψηλή άμυνα μέσω εξοπλισμού (Ασπίδες) και ισχυρών αμυντικών buffs.',
     bg: 'Воините са построени да задържат повече чудовища от всеки друг клас, като имат висока защита чрез оборудване (Щитове) и силни защитни способности.',
     ro: 'Războinicii sunt făcuți pentru a atrage mai mulți monștrii decât orice altă clasă, având o defensivă foarte ridicată datorită echipamentului (Scuturi) și buff-uri defensive puternice.',
-    da: 'Krigere er bygget til at tanke flere monstre end nogen anden klasse ved at have højt forsvar via udstyr (Skjolde) og stærke defensive buffs.'
+    da: 'Krigere er bygget til at tanke flere monstre end nogen anden klasse ved at have højt forsvar via udstyr (Skjolde) og stærke defensive buffs.',
+    zh: '通過裝備（盾牌）和強大的防守增益效果，戰士可以坦克比其他任何角色職業更多的怪物。'
   }
 }

@@ -124,7 +124,7 @@ export default [
       es: 'Enigmática esfera verde esmeralda, envuelta en finos grabados de profecías serpenteantes que atraen la fama y la serendipia a su portador embrujado.',
       fr: 'Sphère énigmatique vert émeraude, enveloppée de fines gravures de prophéties serpentines qui attirent la gloire et la sérendipité à son porteur ensorcelé.',
       de: 'Rätselhafte smaragdgrüne Kugel, umhüllt von feinen Gravuren serpentinischer Prophezeiungen, die Ruhm und Glücksfall zu ihrem verhexten Träger verleiten.',
-      pt: 'Esfera verde esmeralda enigmática, envolvida em gravuras finas de profecias serpentinas que seduzem a fama e a serendipicidade ao seu portador enfeitiçado.',
+      pt: 'Esfera verde de esmeralda enigmática, envolvida em gravuras finas de profecias serpentinas que seduzem a fama e a serendipicidade ao seu portador enfeitiçado.',
       ko: '수수께끼 같은 에메랄드 색의 녹색 구체로, 뱀 모양의 예언의 조각으로 감싸여 있고,',
       nl: 'Enigmatische smaragdgroene bol, gehuld in fijne gravures van kronkelige profetieën die roem en serendipiteit verleiden tot zijn betoverde drager.',
       pl: 'Enigmatyczna szmaragdowa zielona kula, otoczona drobnymi rycinami przepowiedni serpentynowych, które zwabiły sławę i zaczarowały jej nosiciela.',

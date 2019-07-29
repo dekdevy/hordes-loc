@@ -21,7 +21,8 @@ export default {
     nl: 'Beheer Clan',
     ko: '씨족 메뉴',
     ro: 'Clan Manager',
-    da: 'Administrer Clan'
+    da: 'Administrer Clan',
+    zh: '公會經理'
   },
 
   leave: {
@@ -45,7 +46,8 @@ export default {
     nl: 'Verlofclan',
     ko: '씨족 을 나가기',
     ro: 'Părăsește Clanul',
-    da: 'Forlad Clan'
+    da: 'Forlad Clan',
+    zh: '離開公會'
   },
 
   heading: {
@@ -69,7 +71,8 @@ export default {
     nl: 'Clan',
     ko: '씨족',
     ro: 'Clan',
-    da: 'Klan'
+    da: 'Klan',
+    zh: '公會'
   },
 
   createheading: {
@@ -93,7 +96,8 @@ export default {
     nl: 'Creërenclan',
     ko: '씨족 을 만들기',
     ro: 'Creează un Clan',
-    da: 'Opret Clan'
+    da: 'Opret Clan',
+    zh: '創建公會'
   },
 
   createinfo: {
@@ -117,7 +121,8 @@ export default {
     nl: 'Om een clan te creëren heb je het volgende nodig: ',
     ko: '당신이 필요로하는 클랜을 만들려면: ',
     ro: 'Pentru a crea un clan, ai nevoie de: ',
-    da: 'At oprette en klan, du har brug for: '
+    da: 'At oprette en klan, du har brug for: ',
+    zh: '要創建一個公會你需要：'
   },
 
   createname: {
@@ -141,31 +146,33 @@ export default {
     nl: 'Clannaam',
     ko: '씨족 이름',
     ro: 'Numele Clanului',
-    da: 'Klan Navn'
+    da: 'Klan Navn',
+    zh: '公會名稱'
   },
 
   createtag: {
     en: 'Clan Tag',
-    ru: 'Тег Клана',
+    ru: 'Tag Клана',
     fr: 'Tag du Clan',
-    hi: 'दल टैग',
-    es: 'Clan Etiqueta',
+    hi: 'दल Tag',
+    es: 'Clan Tag',
     de: 'Clan-Tag',
-    tr: 'Klan Etiketi',
-    bg: 'Таг на Клана',
-    cs: 'Den Кlanů',
-    el: 'Ετικέτα Φυλή',
+    tr: 'Klan Tag',
+    bg: 'Tag на Клана',
+    cs: 'Tag Кlanů',
+    el: 'Tag Φυλή',
     it: 'Tag di Clan',
-    ja: '族の日',
-    pl: 'Dzień Кlanu',
-    pt: 'Dia do Clã',
-    tl: 'Araw ng Lahi',
-    sv: 'Klanmärke',
+    ja: '族 Tag',
+    pl: 'Tag Кlanu',
+    pt: 'Tag do Clã',
+    tl: 'Clan Tag',
+    sv: 'Klan Tag',
     ht: 'Tag Кlan',
-    nl: 'Clanlabel',
-    ko: '씨족 꼬리표',
+    nl: 'Clan Tag',
+    ko: '씨족 Tag',
     ro: 'Clan Tag',
-    da: 'Klanmærke'
+    da: 'Klan Tag',
+    zh: '公會標籤'
   },
 
   createbutton: {
@@ -189,6 +196,7 @@ export default {
     nl: 'Creëren',
     ko: '만들기',
     ro: 'Creează',
-    da: 'Skab'
+    da: 'Skab',
+    zh: '創建'
   }
 }

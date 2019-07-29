@@ -9,7 +9,7 @@ export default {
     fr: 'Paramètres',
     nl: 'Instellingen',
     tr: 'Ayarlar',
-    pt: 'Ajustes',
+    pt: 'Configurações',
     pl: 'Nastawy',
     ht: 'Ajisteman',
     it: 'Impostazioni',
@@ -21,7 +21,8 @@ export default {
     el: 'Ρυθμίσεις',
     tl: 'Mga setting',
     ro: 'Setări',
-    da: 'Indstillinger'
+    da: 'Indstillinger',
+    zh: '设置'
   },
 
   // ---- Controls
@@ -34,7 +35,7 @@ export default {
     fr: 'Commandes',
     tr: 'Kontroller',
     nl: 'Bediening',
-    pt: 'Controles',
+    pt: 'Controlos',
     pl: 'Sterownica',
     ht: 'kontwòl yo',
     it: 'Regolazione',
@@ -46,7 +47,8 @@ export default {
     el: 'διακόπτης',
     tl: 'Mga kontrol',
     ro: 'Controale',
-    da: 'Controls'
+    da: 'Controls',
+    zh: '控制'
   },
 
   lockedcamera: {
@@ -58,7 +60,7 @@ export default {
     fr: 'Caméra verrouillée',
     tr: 'Kilitli kamera',
     nl: 'Gesloten camera',
-    pt: 'câmera bloqueada',
+    pt: 'Câmera bloqueada',
     pl: 'Zamknięta kamera',
     ht: 'Kamera fèmen',
     it: 'telecamera bloccata',
@@ -70,7 +72,8 @@ export default {
     el: 'Κλειδωμένη κάμερα',
     tl: 'naka-lock na camera',
     ro: 'Blochează camera',
-    da: 'Låst kamera'
+    da: 'Låst kamera',
+    zh: '锁定相机'
   },
 
   // ---- Graphics
@@ -95,7 +98,8 @@ export default {
     el: 'γραφικών',
     tl: 'Grapika',
     ro: 'Grafică',
-    da: 'Grafik'
+    da: 'Grafik',
+    zh: '图像'
   },
 
   viewrange: {
@@ -103,7 +107,7 @@ export default {
     ru: 'Дальность прорисовки',
     de: 'Sichtweite',
     nl: 'Weergavebereik',
-    pt: 'Distancia de visión',
+    pt: 'Distância de visão',
     pl: 'Zakres widoków',
     it: 'Visualizza la gamma',
     ro: 'Câmp vizual',
@@ -119,7 +123,8 @@ export default {
     ko: '범위보기',
     ja: '表示範囲',
     tl: 'Tingnan ang saklaw',
-    da: 'Omfang af synet'
+    da: 'Omfang af synet',
+    zh: '远景范围'
   },
 
   resolution: {
@@ -143,7 +148,8 @@ export default {
     el: 'Ανάλυση',
     tl: 'Resolution',
     ro: 'Rezoluție',
-    da: 'Løsning'
+    da: 'Løsning',
+    zh: '解析度'
   },
 
   skilleffects: {
@@ -167,7 +173,8 @@ export default {
     el: 'Επιπτώσεις δεξιοτήτων',
     tl: 'Mga epekto sa kasanayan',
     ro: 'Efectele abilităților',
-    da: 'Færdighedseffekter'
+    da: 'Færdighedseffekter',
+    zh: '技能影响'
   },
 
   shadow: {
@@ -203,7 +210,7 @@ export default {
     fr: 'Quantité d\'herbe',
     nl: 'Grasbedrag',
     tr: 'Çim miktarı',
-    pt: 'Quantidade de grama',
+    pt: 'Quantidade de ervas',
     pl: 'Ilość trawy',
     ht: 'Zèb kantite lajan',
     it: 'Quantità d\'erba',
@@ -240,7 +247,8 @@ export default {
     ko: '오디오',
     ja: 'オーディオ',
     tl: 'Audio',
-    da: 'Lyd'
+    da: 'Lyd',
+    zh: '音频'
   },
 
   sfxvolume: {
@@ -277,7 +285,7 @@ export default {
     fr: 'Chat',
     nl: 'praten',
     tr: 'sohbet',
-    pt: 'bate-papo',
+    pt: 'Chat',
     pl: 'pogawędka',
     ht: 'Chat',
     it: 'Chiacchierata',
@@ -345,7 +353,7 @@ export default {
     en: 'Interface',
     ru: 'Интерфейс',
     de: 'Interface',
-    pt: 'interface',
+    pt: 'Interface',
     pl: 'Interfejs',
     nl: 'Interface',
     it: 'interfaccia',
@@ -394,7 +402,7 @@ export default {
     ru: 'Ширина инвентаря',
     de: 'Inventar Breite',
     nl: 'Inventarisbreedte',
-    pt: 'Largura do estoque',
+    pt: 'Largura do inventário',
     pl: 'Szerokość inwentarza',
     it: 'Larghezza dell\'inventario',
     ro: 'Lățimea inventarului',
@@ -468,7 +476,7 @@ export default {
     fr: 'Réinitialiser le tutoriel',
     nl: 'Gereset les',
     tr: 'Öğreticiyi sıfırla',
-    pt: 'tutorial de reset',
+    pt: 'Recomeçar o tutorial',
     pl: 'resetowanie samouczka',
     ht: 'Reset tutorial',
     it: 'Ripristina tutorial',

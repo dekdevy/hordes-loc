@@ -32,7 +32,7 @@ export default [{
   name: {$$: 'Ice bolt'},
 
   description: {
-    en: 'Fires a missile of frost towards your enemy.'
+    en: 'Fires a missile of frost towards your enemy. Reduces the cooldown of Icicle upon hitting critically by 2 seconds.'
   }
 },
 {
@@ -90,28 +90,117 @@ export default [{
   description: {
     en: 'Curse your enemy with a spell of decay, dealing damage over time.'
   }
+},
+{
+  name: {$$: 'Mimir\'s Well'},
+
+  description: {
+    en: 'You and your party members generate extra mana passively.'
+  }
+},
+{
+  name: {$$: 'Chilling Radiance'},
+
+  description: {
+    en: 'Emit a chilling shockwave of ice around you, damaging and freezing enemies. Increases the critical hit chance of some of your spells.'
+  }
+},
+{
+  name: {$$: 'Icicle Orb'},
+
+  description: {
+    en: 'Summon a large orb, ejecting icicles hitting all enemies in its path.'
+  }
+},
+{
+  name: {$$: 'Hypothermic Frenzy'},
+
+  description: {
+    en: 'You temporarily gain Haste and all your damage output is increased.'
+  }
+},
+{
+  name: {$$: 'Colossal Reconstruction'},
+
+  description: {
+    en: 'While active you are healed each time you block an attack.'
+  }
+},
+{
+  name: {$$: 'Centrifugal Laceration'},
+
+  description: {
+    en: 'Your Crescent Swipe lacerates enemies, causing them to bleed for additional Damage.'
+  }
+},
+{
+  name: {$$: 'Unholy Warcry'},
+
+  description: {
+    en: 'You and your party members deal additional Damage temporarily.'
+  }
+},
+{
+  name: {$$: 'Crusader\'s Courage'},
+
+  description: {
+    en: 'You and your party members gain additional Defense temporarily.'
+  }
+},
+{
+  name: {$$: 'Armor Reinforcement'},
+
+  description: {
+    en: 'Passively increase your Defense.'
+  }
+},
+{
+  name: {$$: 'Arctic Aura'},
+
+  description: {
+    en: 'You and your party members gain additional Crit% temporarily.'
+  }
+},
+{
+  name: {$$: 'Arcane Concentration'},
+
+  description: {
+    en: 'Passively increase your Haste.'
+  }
+},
+{
+  name: {$$: 'Enchantment'},
+
+  description: {
+    en: 'Increase your targets Damage temporarily.'
+  }
+},
+{
+  name: {$$: 'Temporal Dilation'},
+
+  description: {
+    en: 'You and your party members gain additional Haste temporarily.'
+  }
+},
+{
+  name: {$$: 'Cranial Punctures'},
+
+  description: {
+    en: 'Passively increase your Crit%.'
+  }
+},
+{
+  name: {$$: 'Pathfinding'},
+
+  description: {
+    en: 'You and your party members gain additional Movement Speed temporarily.'
+  }
+},
+{
+  name: {$$: 'Canine Howl'},
+
+  description: {
+    en: 'Increase your targets Haste temporarily.'
+  }
 }
-// From here on are buff descriptions, these are not actually available
-// as books in the game, but included here as a localization shortcut
-// {
-//   name: {$$: 'Bulwarks Protection'}
-// },
-// {
-//   name: {$$: 'Bulwarks Resolve'}
-// },
-// {
-//   name: {$$: 'Revitalization'}
-// },
-// {
-//   name: {$$: 'Spec Warrior'}
-// },
-// {
-//   name: {$$: 'Spec Mage'}
-// },
-// {
-//   name: {$$: 'Spec Archer'}
-// },
-// {
-//   name: {$$: 'Spec Shaman'}
-// }
 ]

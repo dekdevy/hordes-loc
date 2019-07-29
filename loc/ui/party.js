@@ -8,7 +8,7 @@ export default {
     en: 'Party invite',
     ru: 'Пригласить в party',
     it: 'invito Party',
-    pt: 'convidar Party',
+    pt: 'Convidar para a Party',
     nl: 'uitnodigen Party',
     pl: 'zaproszenie Party',
     de: 'Party einladung',
@@ -25,7 +25,8 @@ export default {
     el: 'Πρόσκληση Party',
     tl: 'Party Imbitahan',
     ro: 'Invitație la Party',
-    da: 'Invitere til Party'
+    da: 'Invitere til Party',
+    zh: '邀请加入 Party'
   },
 
   // DO NOT translate Party
@@ -33,7 +34,7 @@ export default {
     en: 'Party kick',
     ru: 'Выгнать',
     it: 'Calcione Party',
-    pt: 'chute Party',
+    pt: 'Expulsar da Party',
     pl: 'Kop Party',
     es: 'Sacar del Party',
     de: 'Treten',
@@ -50,14 +51,15 @@ export default {
     el: 'λάκτισμα party',
     tl: 'Party sipa',
     ro: 'Lovitură de Party',
-    da: 'Kick ud af Party'
+    da: 'Kick ud af Party',
+    zh: '踢出 Party'
   },
 
   // DO NOT translate Party
   leave: {
     en: 'Leave Party',
     it: 'andarsene Party',
-    pt: 'sair Party',
+    pt: 'Sair da Party',
     nl: 'verlof Party',
     pl: 'wyjechać Party',
     de: 'Party Verlassen',
@@ -75,7 +77,8 @@ export default {
     el: 'Αφήστε Party',
     tl: 'Iwanan ang Party',
     ro: 'Părăsește Party',
-    da: 'Forlad Party'
+    da: 'Forlad Party',
+    zh: '离开 Party'
   },
 
   // DO NOT translate Party
@@ -100,7 +103,8 @@ export default {
     el: 'Δημιουργία Party',
     tl: 'Lumikha ng Party',
     ro: 'Creează Party',
-    da: 'Opret Party'
+    da: 'Opret Party',
+    zh: '创建 Party'
   },
 
   // DO NOT translate Party
@@ -114,7 +118,7 @@ export default {
     nl: '$1 heeft je uitgenodigd vergezel hun Party.',
     tr: '$1 seni Party davet etti.',
     it: '$1 ti ha invitato a unirti alla loro Party.',
-    pt: 'O $1 convidou-te para te juntares à Party deles.',
+    pt: '$1 convidou-te para te juntares à Party deles.',
     pl: '$1 zaprosiło cię do przyłączenia się do ich partii.',
     cs: '$1 vás pozval, abyste se připojili k jejich Party.',
     ja: '$ 1があなたを彼らのPartyに招待しています。',
@@ -125,7 +129,8 @@ export default {
     el: 'Το $1 σας έχει προσκαλέσει να συμμετάσχετε στο Party τους.',
     tl: 'Inanyayahan ka ng $1 na sumali sa kanilang Party.',
     ro: '$1 te-a invitat să te alături Party-ului',
-    da: '$1 har inviteret dig til at deltage i deres Party.'
+    da: '$1 har inviteret dig til at deltage i deres Party.',
+    zh: '$1 邀请你加入他们的 Party.'
   },
 
   // nearby, as in "12 members nearby"
@@ -136,19 +141,20 @@ export default {
     es: 'cercanas',
     fr: 'proximité',
     bg: 'наблизо',
-    cs: 'v okolí',
+    cs: 'okolí',
     el: 'κοντά',
-    sv: 'i närheten',
-    tl: 'na partido',
+    sv: 'närheten',
+    tl: 'partido',
     tr: 'Yakında',
     nl: 'in de buurt',
     pt: 'nas proximidades',
-    pl: 'w pobliżu',
+    pl: 'pobliżu',
     ro: 'din apropiere',
-    da: 'i nærheden',
+    da: 'nærheden',
     ja: 'あなたの近くに',
     hi: 'आपके करीब',
-    ht: 'tou pre ou'
+    ht: 'tou pre ou',
+    zh: '在附近'
   },
 
   link: {
@@ -213,7 +219,7 @@ export default {
     tr: 'Bağlantıyı kopyala',
     nl: 'Kopieer naar klembord',
     it: 'Copia negli Appunti',
-    pt: 'Copiar para Área de transferência',
+    pt: 'Copiar para a Área de transferência',
     pl: 'Skopiować do schowka.',
     cs: 'Kopírovat do vyrovnávací paměti',
     ja: 'クリップボードにコピー',
