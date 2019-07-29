@@ -193,7 +193,7 @@ export default [
     description: {
       en: 'Tall, dark and heavy shield enveloping your unprotected body with the power of ancient beasts once residing in these valleys.',
       ru: 'Высокий, темный и тяжелый щит, обволакивающий ваше незащищенное тело силой древних зверей, когда-то живущих в этих долинах.',
-      es: 'Alto, oscuro y pesado escudo que envuelve tu cuerpo desprotegido con el poder de los antiguos fieras que alguna vez residieron en estos valles.',
+      es: 'Excudo alto, oscuro y pesado que envuelve tu cuerpo desprotegido con el poder de los antiguos fieras que alguna vez residieron en estos valles.',
       fr: 'Grand, sombre et lourd bouclier enveloppant votre corps non protégé avec le pouvoir des bêtes anciennes qui résidaient autrefois dans ces vallées.',
       de: 'Hoher, dunkler und schwerer Schild, der Ihren ungeschützten Körper mit der Kraft alter Tiere umhüllt, die einst in diesen Tälern lebten.',
       pt: 'Escudo alto, escuro e pesado que envolve o seu corpo desprotegido com o poder de antigos bestas que outrora residiam nestes vales.',
@@ -220,7 +220,7 @@ export default [
     description: {
       en: 'A sinister shield casting vile strands of shadows past the barriers of your foes mind to tarnish their memories.',
       ru: 'Зловещий щит, бросающий жуткие нити теней мимо барьеров ума ваших врагов, чтобы запятнать их воспоминания.',
-      es: 'Un siniestro escudo que arroja viles hebras de sombras a través de las barreras de la mente de tus enemigos para empañar sus recuerdos.',
+      es: 'Un escudo siniestro que arroja viles hebras de sombras a través de las barreras de la mente de tus enemigos para empañar sus recuerdos.',
       fr: 'Un sinistre bouclier qui projette de viles ombres au delà des barrières de l\'esprit de vos ennemis pour ternir leurs souvenirs.',
       de: 'Ein finsterer Schild wirft abscheuliche Schattensträhnen vorbei an den Barrieren deines Feinden, um ihre Erinnerungen zu trüben.',
       pt: 'Um escudo sinistro que lança vil fios de sombras que ultrapassam as barreiras da mente dos teus inimigos para manchar as suas memórias.',
@@ -247,7 +247,7 @@ export default [
     description: {
       en: 'A mighty shield radiating divine light to your noble allies to engulf them in waves of valor.',
       ru: 'Могучий щит, излучающий божественный свет вашим благородным союзникам, чтобы поглотить их волнами храбрости.',
-      es: 'Un poderoso escudo que irradia luz divina a tus nobles aliados para envolverlos en olas de valor.',
+      es: 'Un escudo poderoso que irradia luz divina a tus nobles aliados para envolverlos en olas de valor.',
       fr: 'Un puissant bouclier rayonnant de la lumière divine vers vos nobles alliés pour les engloutir dans des vagues de vaillance',
       de: 'Ein mächtiger Schild, der göttliches Licht auf deine edlen Verbündeten ausstrahlt, um sie in Wellen der Tapferkeit zu versenken.',
       pt: 'Um poderoso escudo que irradia luz divina aos seus nobres aliados para os envolver em ondas de valor.',
