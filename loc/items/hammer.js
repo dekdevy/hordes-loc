@@ -52,6 +52,7 @@ export default [
       tr: 'Kafatasları değil çivileri çekiçlemek için kullanılmalıdır',
       da: 'Dette burde være hammering negle, ikke kranier.',
       zh: '这应该是钉锤，而不是头骨。'
+      // still in progress
     }
   },
 
