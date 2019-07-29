@@ -22,7 +22,8 @@ export default [
       ro: 'E deja pe jumătate rupt și tu încă îl mai folosești?',
       tl: 'Ito ay kalahati na sira at ginagamit mo pa rin ito?',
       tr: 'Zaten yarısı bozuk ve hala kullanıyor musun?',
-      da: 'Det er allerede halvt brudt, og bruger du stadig det?'
+      da: 'Det er allerede halvt brudt, og bruger du stadig det?',
+      zh: '已经被打破了一半，而你还在使用?'
     }
   },
 
@@ -49,7 +50,8 @@ export default [
       ro: 'Acest lucru ar trebui să fie ciocan pentru cuie, nu cranii.',
       tl: 'Ito ay dapat na pagmamartilyo mga kuko, hindi skulls.',
       tr: 'Kafatasları değil çivileri çekiçlemek için kullanılmalıdır',
-      da: 'Dette burde være hammering negle, ikke kranier.'
+      da: 'Dette burde være hammering negle, ikke kranier.',
+      zh: '这应该是钉锤，而不是头骨。'
     }
   },
 
