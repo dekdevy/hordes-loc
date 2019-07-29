@@ -5,7 +5,7 @@ export default [
     description: {
       en: 'Name says it all. Careful of the splinters.',
       ru: 'Имя говорит само за себя. Остерегайтесь заноз.',
-      es: 'La receta de fabricación es dos bloques de madera y un palo.',
+      es: 'El nombre se dice todo. Ten cuidado de las astillas.',
       de: 'Der Name sagt alles. Vorsicht mit den Splittern.',
       fr: 'Le nom en dit long. Attention aux échardes.',
       hi: 'नाम ही काफ़ी है। छितरों से बचे।',
@@ -59,7 +59,7 @@ export default [
     description: {
       en: 'Am I being pranked?',
       ru: 'Меня тролят?',
-      es: 'Los trolls usaron solo fe y bromas para hacer daño con sus armas ge guerra.',
+      es: '¿Estoy siendo bromado?',
       de: 'Werde ich verarscht?',
       fr: 'Suis-je victime d\'une farce?',
       hi: 'मज़ाक़ कर रहो हो?',
@@ -87,7 +87,7 @@ export default [
       en: 'Some knight dropped this. Probably unintentionally.',
       ru: 'Какой-то рыцарь бросил это. Вероятно, непреднамеренно.',
       fr: 'Un chevalier a lâché cette épée. Probablement par accident.',
-      es: 'Ey, finalmente, una espada real. Tal vez puede realmente ser útil.',
+      es: 'Un caballero la dejó caer. Probablemente por accidente',
       de: 'Ein Ritter hat das fallen lassen. Wahrscheinlich unbeabsichtigt.',
       hi: 'किसी शूरवीर से गिर गयी। ग़लती से।',
       pt: 'Um cavaleiro qualquer deixou cair isto. Provavelmente não intencionalmente.',
@@ -165,7 +165,7 @@ export default [
     description: {
       en: 'A sword so mighty that few can handle it. It\'s pretty heavy.',
       ru: 'Меч такой могущественный, что немногие могут с ним справиться. Довольно тяжелый.',
-      es: 'Bastante pesado y bastante bien.',
+      es: 'Una espada tan grande que la mayoría no puede usarla. Es muy pesada',
       de: 'Ein Schwert, das so mächtig ist, dass nur wenige damit umgehen können. Es ist ziemlich schwer.',
       fr: 'Une épée si puissante que peu de gens peuvent la manier. Elle est assez lourde.',
       hi: 'एक तलवार इतनी महान, कुछ ही लोग इसे नियंत्रित कर सकते है। काफ़ी भारी है।',
@@ -327,7 +327,7 @@ export default [
       en: 'Mysterious pink sword. Engravings say "Mächtig Zerstörer".',
       ru: 'Таинственный розовый меч. Гравюры говорят "Mächtig Zerstörer".',
       fr: 'Une mystérieuse épée rose. Sur les gravures, nous pouvons lire: «Mächtig Zerstörer».',
-      es: '¡Es rosa! Los grabados dicen "Mächtig Zerstörer".',
+      es: 'Una misteriosa espada rosa. Los grabados dicen "Mächtig Zerstörer".',
       de: 'Ein mysteriöses rosa Schwert. Gravuren sagen "Mächtig Zerstörer".',
       hi: 'रहस्यमयी गुलाबी तलवार। इस पर की गयी नक्काशी कहती है "मैशतिग ज़ेर्सटोरर। "',
       pt: 'Espada rosa misteriosa. As gravuras dizem "Mächtig Zerstörer".',
@@ -433,7 +433,7 @@ export default [
     description: {
       en: 'This weapon brings about the coming of a new age.',
       ru: 'Это оружие вызывает наступление новой эры.',
-      es: 'Un arma elegante para una era más civilizada.',
+      es: 'Esta espada trae la llegada de una nueva era.',
       de: 'Diese Waffe bringt das Kommen eines neuen Zeitalters mit sich.',
       fr: 'Cette arme provoque l\'avènement d\'une nouvelle ère.',
       hi: 'होने वाली है नए युग की शुरुआत।',
