@@ -274,7 +274,7 @@ export default [
       en: 'Some say you can run on clouds with these. The few that have tried have already ascended.',
       ru: 'Некоторые говорят, что с этими ботинками можно бегать по облакам. Те немногие, кто пытался, уже вознеслись.',
       de: 'Einige sagen, dass man damit auf Wolken laufen kann. Die wenigen, die es versucht haben, sind bereits aufgestiegen.',
-      es: 'Se dice que puede correr en nubas con estos. Los pocos que trataban ya han ascendido.',
+      es: 'Se dice que puede correr en nubes con estos. Los pocos que trataban ya han ascendido.',
       fr: 'Certains disent qu\'on peut courir sur les nuages avec elles. Les quelques personnes qui ont essayé y sont déjà montés.',
       it: 'C\'è chi dice che con queste si può correre sulle nuvole. I pochi che hanno provato sono già saliti.',
       pt: 'Alguns dizem que se pode correr em nuvens com isto. Os poucos que tentaram já ascenderam.',
