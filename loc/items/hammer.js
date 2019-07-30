@@ -51,8 +51,7 @@ export default [
       tl: 'Ito ay dapat na pagmamartilyo mga kuko, hindi skulls.',
       tr: 'Kafatasları değil çivileri çekiçlemek için kullanılmalıdır',
       da: 'Dette burde være hammering negle, ikke kranier.',
-      zh: '这应该是钉锤，而不是头骨。'
-      // still in progress
+      zh: '这是锤钉子，不是锤头骨。'
     }
   },
 
@@ -79,7 +78,8 @@ export default [
       ro: 'Ciocan vechi și ruginit, pe punctul de a se rupe.',
       tl: 'Masungit na lumang martilyo, sa gilid ng paglabag.',
       tr: 'Paslı eski çekiç, kırma eşiğinde',
-      da: 'Rusten gammel hammer, på randen af ​​at bryde.'
+      da: 'Rusten gammel hammer, på randen af ​​at bryde.',
+      zh: '生锈的旧锤子，濒临破碎。'
     }
   },
 
