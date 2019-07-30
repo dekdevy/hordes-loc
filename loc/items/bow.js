@@ -169,7 +169,7 @@ export default [
       ru: 'Искусный лук изящный расы',
       fr: 'Un arc d\'expert venant d\'une race élégante.',
       de: 'Ein erfahrener Bogen eines eleganten Rennens.',
-      es: 'Una reverencia experta de una raza olvidada.',
+      es: 'Un arco experta de una raza elegante.',
       pt: 'Um arco perito de uma raça elegante.',
       nl: 'Een deskundige boog van een verfijnd race.',
       pl: 'Ekspercki łuk elegancki rasy.',
