@@ -125,5 +125,9 @@ export default {
     it: 'Prezzo di vendita: ',
     da: 'Salgspris: ',
     zh: '售價：'
+  },
+
+  buy: {
+    en: 'Are you interested in anything? Click an item to buy it.'
   }
 }
