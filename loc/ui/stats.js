@@ -114,6 +114,10 @@ export default {
     },
 
     {
+      en: '% Increased Aggro Generation'
+    },
+
+    {
       en: '% Movement Speed Reduction'
     }
   ]

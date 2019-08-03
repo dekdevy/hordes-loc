@@ -93,7 +93,7 @@ export default {
     ja: 'アイテムを売るには、アイテムを右クリックするか、またはトレーダーウィンドウにドラッグします。',
     el: 'Για να πουλήσετε ένα στοιχείο, κάντε δεξί κλικ ή σύρετέ το στο παράθυρο του εμπόρου.',
     de: 'Um einen Gegenstand zu verkaufen, klicken Sie ihn mit der rechten Maustaste an oder ziehen Sie ihn in das Händlerfenster.',
-    sv: 'För att sälja ett objekt högerklickar du på det eller drar det i handelsfönstret.',
+    sv: 'För att sälja ett sak högerklickar du på det eller drar det i handelsfönstret.',
     fr: 'Pour vendre un objet, cliquez dessus avec le bouton droit de la souris ou faites-le glisser dans la fenêtre du commerçant.',
     nl: 'Om een artikel te verkopen, klik er met de rechtermuisknop op of sleep het naar het handelaarsvenster.',
     da: 'For at sælge et emne skal du højreklikke på det eller trække det i handlervinduet.',
@@ -125,5 +125,27 @@ export default {
     it: 'Prezzo di vendita: ',
     da: 'Salgspris: ',
     zh: '售價：'
+  },
+
+  buy: {
+    en: 'Are you interested in anything? Click an item to buy it.',
+    de: 'Interessierst du dich für etwas? Klicken Sie auf einen Gegenstand, um ihn zu kaufen.',
+    ru: 'Вам что-нибудь интересно? Кликните на предмет, чтобы купить его.',
+    es: '¿Estás interesado en algo? Haga clic en un artículo para comprarlo.',
+    fr: 'Quelque chose vous intéresse ? Cliquez sur un article pour l\'acheter.',
+    pt: 'Estás interessado em alguma coisa? Clique num item para comprá-lo.',
+    nl: 'Bent u in iets geïnteresseerd? Klik op een item om het te kopen.',
+    it: 'Sei interessato a qualcosa? Clicca su un oggetto per comprarlo.',
+    pl: 'Interesuje cię coś? Kliknij przedmiot, aby go kupić.',
+    sv: 'Är du intresserad av något? Klicka på en sak för att köpa den.',
+    ko: '관심이 있습니까? 항목을 클릭하여 구입하십시오.',
+    hi: 'क्या आप किसी चीज में रुचि रखते हैं? इसे खरीदने के लिए किसी आइटम पर क्लिक करें।',
+    ht: 'Èske w enterese nan anyen? Klike sou yon atik pou achte l.',
+    tl: 'Interesado ka ba sa anumang bagay? Mag-click sa isang bagay upang bilhin ito.',
+    cs: 'Zajímá vás něco? Kliknutím na předmět ji koupíte.',
+    el: 'Ενδιαφέρεστε για οτιδήποτε; Κάντε κλικ σε ένα στοιχείο για να το αγοράσετε.',
+    bg: 'Интересувате ли се от нещо? Кликнете върху бележка, за да го купите.',
+    ja: '何か興味がありますか？購入するにはアイテムをクリックしてください。',
+    da: 'Er du interesseret i noget? Klik på en genstand for at købe den.'
   }
 }
