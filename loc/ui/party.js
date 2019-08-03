@@ -25,7 +25,8 @@ export default {
     el: 'Πρόσκληση Party',
     tl: 'Party Imbitahan',
     ro: 'Invitație la Party',
-    da: 'Invitere til Party'
+    da: 'Invitere til Party',
+    zh: '邀请加入 Party'
   },
 
   // DO NOT translate Party
@@ -50,7 +51,8 @@ export default {
     el: 'λάκτισμα party',
     tl: 'Party sipa',
     ro: 'Lovitură de Party',
-    da: 'Kick ud af Party'
+    da: 'Kick ud af Party',
+    zh: '踢出 Party'
   },
 
   // DO NOT translate Party
@@ -75,7 +77,8 @@ export default {
     el: 'Αφήστε Party',
     tl: 'Iwanan ang Party',
     ro: 'Părăsește Party',
-    da: 'Forlad Party'
+    da: 'Forlad Party',
+    zh: '离开 Party'
   },
 
   // DO NOT translate Party
@@ -100,7 +103,8 @@ export default {
     el: 'Δημιουργία Party',
     tl: 'Lumikha ng Party',
     ro: 'Creează Party',
-    da: 'Opret Party'
+    da: 'Opret Party',
+    zh: '创建 Party'
   },
 
   // DO NOT translate Party
@@ -125,7 +129,8 @@ export default {
     el: 'Το $1 σας έχει προσκαλέσει να συμμετάσχετε στο Party τους.',
     tl: 'Inanyayahan ka ng $1 na sumali sa kanilang Party.',
     ro: '$1 te-a invitat să te alături Party-ului',
-    da: '$1 har inviteret dig til at deltage i deres Party.'
+    da: '$1 har inviteret dig til at deltage i deres Party.',
+    zh: '$1 邀请你加入他们的 Party.'
   },
 
   // nearby, as in "12 members nearby"
@@ -148,7 +153,8 @@ export default {
     da: 'nærheden',
     ja: 'あなたの近くに',
     hi: 'आपके करीब',
-    ht: 'tou pre ou'
+    ht: 'tou pre ou',
+    zh: '在附近'
   },
 
   link: {

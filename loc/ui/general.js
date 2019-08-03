@@ -21,7 +21,8 @@ export default {
     el: 'εντάξει',
     tl: 'Sige',
     ro: 'Okay',
-    da: 'Okay'
+    da: 'Okay',
+    zh: '好的'
   },
 
   back: {
@@ -45,7 +46,8 @@ export default {
     el: 'Πίσω',
     tl: 'Bumalik',
     ro: 'Înapoi',
-    da: 'Tilbage'
+    da: 'Tilbage',
+    zh: '回'
   },
 
   accept: {
@@ -69,7 +71,8 @@ export default {
     el: 'Αποδέχομαι',
     tl: 'Tanggapin',
     ro: 'Acceptă',
-    da: 'Acceptere'
+    da: 'Acceptere',
+    zh: '允许'
   },
 
   cancel: {
@@ -92,7 +95,8 @@ export default {
     ja: 'キャンセル',
     hi: 'कैंसल',
     sv: 'Annullera',
-    da: 'Afbestille'
+    da: 'Afbestille',
+    zh: '取消'
   },
 
   decline: {
@@ -116,7 +120,8 @@ export default {
     el: 'Πτώση',
     tl: 'Tanggihan',
     ro: 'Refuză',
-    da: 'Nedgang'
+    da: 'Nedgang',
+    zh: '拒绝'
   },
 
   close: {
@@ -140,6 +145,7 @@ export default {
     el: 'Κοντά',
     tl: 'Isara',
     ro: 'Închide',
-    da: 'Luk'
+    da: 'Luk',
+    zh: '关'
   }
 }

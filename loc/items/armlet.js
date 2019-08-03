@@ -4,7 +4,7 @@ export default [
     description: {
       en: 'Cheap leather bands bought by an ambitious farmer.',
       ru: 'Дешевые кожаные ремешки, купленный амбициозным фермером.',
-      es: 'Pulsera de cuero hecho por unos rancheros.',
+      es: 'Bandas de cuero baratas, compradas por un granjero ambicioso.',
       fr: 'Bandes en cuir bon marché acheté par un agriculteur ambitieux.',
       de: 'Billige Lederbänder, welche von einem ehrgeizigen Bauern gekauft wurde.',
       pt: 'Bandas de couro barato comprada por um fazendeiro ambicioso.',
@@ -82,7 +82,7 @@ export default [
     description: {
       en: 'Elegant cuffs made from the tusks of the last mammoth.',
       ru: 'Элегантные наручники, сделаные из бивней последнего мамонта.',
-      es: 'Unos puños elegantes creados con el comillo del elefante final.',
+      es: 'Unos puños elegantes creados con el comillo del mamut final.',
       fr: 'Menottes élégant fait à partir des défenses du dernier mammouth.',
       de: 'Elegante Manschetten aus den Stoßzähnen des letzten Mammuts.',
       pt: 'Elegantes algemas feitas das presas do último mamute.',
@@ -108,7 +108,7 @@ export default [
     description: {
       en: 'Heavy on your arms... worth the protection.',
       ru: 'Тяжёлые... но дают хорошую защиту.',
-      es: 'Pesado, pero vale la pena.',
+      es: 'Pesado en sus brazos... pero vale la protección.',
       fr: 'Pèse lourd sur votre bras... ça en vaut la protection.',
       de: 'Schwer auf den Händen... den Schutz wert.',
       pt: 'Pesado no braço...mas vale a pena a protecção.',
@@ -162,7 +162,7 @@ export default [
     description: {
       en: 'Scaled bracer, makes your arm resemble that of a dragon.',
       ru: 'Чешуйчатый наруч, делает вашу руку похоже на лапу дракона.',
-      es: 'Con brazos de dragones, puedes resistir todo.',
+      es: 'Muñequera escamosa, hace que su brazo aperece como un dragón.',
       fr: 'Brassard en écailles, qui fait ressembler votre bras à celui d\'un dragon.',
       de: 'Schuppiger Armschutz, lässt deine Arme an die eines Drachens erinnern.',
       pt: 'Braçadeira escamada, faz com que os teus braços se pareçam com os de um dragão.',
@@ -180,7 +180,7 @@ export default [
       bg: 'Мащабирането на ръката ви прилича на тази на дракон.',
       ja: '縮れたブレースはあなたの腕をドラゴンのそれに似せます。',
       ro: 'Manșetă acoperită cu solzi, îți face brațul să semene cu al unui dragon.',
-      da: 'Skalet bracer, gør din arm lig den af ​​en drage.'
+      da: 'Skalet bracer, gør din arm lig den af en drage.'
     }
   },
 
@@ -189,7 +189,7 @@ export default [
     description: {
       en: 'Blind your foes with a magical shine off a devious magicians mirror...',
       ru: 'Ослепляют ваших врагов блеском искривлённого магического зеркала...',
-      es: 'Un espejo por su muñeca. Lo usas para cegar sus enemigos.',
+      es: 'Cega a sus enemigos con un brillo mágico de un espejo de mago astuto...',
       fr: 'Aveugle vos ennemis avec l\'éclat magique du miroir d\'un magicien sournois...',
       de: 'Blendet deine Feinde mit einem magischen Glanz von einem teuflischen Magierspiegel...',
       pt: 'Cega os teus inimigos com um brilho mágico de um espelho de um feiticeiro diabólico...',
@@ -216,7 +216,7 @@ export default [
     description: {
       en: 'The ancient golems left remnants of their passing, which you unscrupulously have decided to wear on your arm.',
       ru: 'Древние големы оставили остатки своих похождений, которые вы бессовестно решили надеть на руку.',
-      es: 'Un fragmento de los antiguos gólemns de la era pasada. Has decido pónertelo porque... razones.',
+      es: 'Los golems antiguos dejaron restos de su paso, que sin escrúpulos ha decido llevar en su brazo.',
       fr: 'Les géants anciens ont laissé des restes de leur passage, que vous avez sans scrupule décidé de porter sur votre bras.',
       de: 'Die alten Golems hinterließen Überreste ihres Ablebens, die du skrupellos auf deinem Arm getragen hast.',
       pt: 'Os antigos gigantes deixaram vestígios de sua passagem, que você, sem escrúpulos, decidiu usar em seu braço.',
@@ -270,7 +270,7 @@ export default [
     description: {
       en: 'Stars are not often black, yet this fragment has a... deep... deep darkness.',
       ru: 'Звезды не часто черны, но этот фрагмент имеет... глубокую... глубокую тьму.',
-      es: 'Completamente hecho con piezas de estrellas de neutrón: denso, duro, poderoso.',
+      es: 'Normalmente, las estrellas no son negras, pero eso trozo tiene un intenso... intenso... oscuridad.',
       fr: 'Les étoiles ne sont pas souvent noires, mais ce fragment a une... très... très profonde obscurité.',
       de: 'Sterne sind nicht oft schwarz, aber dieses Fragment hat eine... tiefe... tiefe... tiefe Dunkelheit.',
       pt: 'As estrelas não são normalmente negras, mas este fragmento tem uma... profunda... profunda escuridão.',

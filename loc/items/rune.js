@@ -68,7 +68,7 @@ export default [
       tl: 'Makapangyarihang transparent na salamin na anting-anting na may malabong lilang tint na nagpapakita sa iyo ng mundo sa isang mapanglaw na liwanag.',
       pt: 'Poderoso talismã de vidro transparente com uma leve tonalidade púrpura que mostra o mundo numa luz melancólica.',
       it: 'Potente talismano in vetro trasparente con una tenue tinta viola che mostra il mondo in una luce malinconica.',
-      hi: 'to be filled',
+      hi: 'एक आकर्षक बैंगनी रंग के साथ शक्तिशाली और पारदर्शी ग्लास तावीज़ आपको एक उदास रोशनी में दुनिया दिखा रहा है।',
       cs: 'Výkonný transparentní skleněný talisman se slabým fialovým odstínem, který vám ukazuje svět v melancholickém světle.',
       ja: '憂鬱な光の中であなたに世界を見せるかすかな紫の色合いを持つ強力な透明なガラスお守り。',
       tr: 'Melankolik ışıkta dünyayı gösteren soluk mor renk tonu ile güçlü şeffaf cam tılsım.',

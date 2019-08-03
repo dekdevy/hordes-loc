@@ -23,6 +23,7 @@ export default {
     cs: 'Horda Bloodlust hodnotí svobodu a loajalitu, nabízí místo pro individualismus nebo dokonce chaos. Jejich Obrany jsou umístěny v pouštní říši nazvané Headless Landing.',
     ja: 'Bloodlustの大群は自由と忠誠心を重んじ、個人主義あるいは混乱さえもの場所を提供します。 彼らの防御はHeadless Landingと呼ばれる砂漠の王国にあります。',
     ro: 'Facțiunea Bloodlust valorizează libertatea și loialitatea, oferă un loc pentru individualism sau chiar haos. Apărările lor sunt situate într-o regiune a deșertului numită Headless Landing.',
-    da: 'Blodlust horde værdsætter frihed og loyalitet, giver plads til individualisme eller endda kaos. Deres forsvar er placeret i et ørkenområde kaldet Headless Landing.'
+    da: 'Blodlust horde værdsætter frihed og loyalitet, giver plads til individualisme eller endda kaos. Deres forsvar er placeret i et ørkenområde kaldet Headless Landing.',
+    zh: 'Bloodlust部落重視自由和忠誠，提供個人主義甚至混亂。 他們的防禦位在一個名為Headless Landing的沙漠。'
   }
 }

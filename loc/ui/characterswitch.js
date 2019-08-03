@@ -20,14 +20,15 @@ export default {
     pl: 'Wyloguj się',
     ht: 'Dekonekte',
     ro: 'Deconectare',
-    da: 'Afslut'
+    da: 'Afslut',
+    zh: '登出'
   },
 
   home: {
     en: 'Home',
     ru: 'Домой',
     hi: 'मुख्य स्क्रीन',
-    es: 'Casa',
+    es: 'Inicio',
     de: 'Startseite',
     fr: 'Accueil',
     ko: '홈페이지',
@@ -43,6 +44,7 @@ export default {
     pl: 'Domu',
     ht: 'Paj lakay',
     ro: 'Acasă',
-    da: 'Gå hjem'
+    da: 'Gå hjem',
+    zh: '主頁'
   }
 }

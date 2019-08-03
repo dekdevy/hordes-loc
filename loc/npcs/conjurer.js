@@ -20,7 +20,8 @@ export default {
       pt: 'Já ouviu falar dos Crystal Shards que foram descobertos recentemente? Os aventureiros podem usá-los para viajar diretamente para reinos distantes. Eu não tenho nenhum Crystal Shard, mas posso enviar você a alguns lugares já que forças místicas convergem neste nexo. Qual é o seu destino desejado?',
       it: 'Ha sentito parlare dei Crystal Shards che sono stati scoperti di recente? Gli avventurieri possono usarli per viaggiare direttamente in regni lontani. Non ho nessun Crystal Shards, ma posso mandarvi in alcuni luoghi, dato che le forze mistiche convergono in questo nesso. Quale regno è la destinazione desiderata?',
       fr: 'Avez-vous entendu parler des Crystal Shards qui ont été découvertes récemment ? Les aventuriers peuvent les utiliser pour voyager directement vers des royaumes lointains. Je n\'ai pas de Crystal Shards, mais je peux vous envoyer à certains endroits puisque les forces mystiques convergent vers ce lien. Quel domaine est votre destination préférée ?',
-      ro: 'Ai auzit de acele Crystal Shards care au fost descoperite recent? Aventurierii le pot folosi pentru a călători direct în tărâmuri îndepărtate. Nu am deloc Crystal Shards, dar te pot trimite în unele locuri din moment ce forțele mistice converg la acest nex. Care tărâm reprezintă destinația dorită?'
+      ro: 'Ai auzit de acele Crystal Shards care au fost descoperite recent? Aventurierii le pot folosi pentru a călători direct în tărâmuri îndepărtate. Nu am deloc Crystal Shards, dar te pot trimite în unele locuri din moment ce forțele mistice converg la acest nex. Care tărâm reprezintă destinația dorită?',
+      zh: '你聽說過最近發現的Crystal Shards嗎？ 冒險者可以使用它們直接前往遙遠的國度。 我沒有任何Crystal Shards，但我可以把你送到一些地方，因為神秘的力量聚集在這個地點。 哪個領域是您想要的目的地？'
     },
 
     choices: [{
@@ -44,7 +45,8 @@ export default {
       el: 'Παρακαλώ με φέρτε σε $ 1.',
       ro: 'Te rog, du-mă la $1.',
       tl: 'Mangyaring dalhin ako sa $1',
-      da: 'Tag mig med til $1'
+      da: 'Tag mig med til $1',
+      zh: '請帶我去$1。'
     }]
   }]
 }

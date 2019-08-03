@@ -22,7 +22,8 @@ export default [
       ro: 'E deja pe jumătate rupt și tu încă îl mai folosești?',
       tl: 'Ito ay kalahati na sira at ginagamit mo pa rin ito?',
       tr: 'Zaten yarısı bozuk ve hala kullanıyor musun?',
-      da: 'Det er allerede halvt brudt, og bruger du stadig det?'
+      da: 'Det er allerede halvt brudt, og bruger du stadig det?',
+      zh: '已经被打破了一半，而你还在使用?'
     }
   },
 
@@ -49,7 +50,8 @@ export default [
       ro: 'Acest lucru ar trebui să fie ciocan pentru cuie, nu cranii.',
       tl: 'Ito ay dapat na pagmamartilyo mga kuko, hindi skulls.',
       tr: 'Kafatasları değil çivileri çekiçlemek için kullanılmalıdır',
-      da: 'Dette burde være hammering negle, ikke kranier.'
+      da: 'Dette burde være hammering negle, ikke kranier.',
+      zh: '这是锤钉子，不是锤头骨。'
     }
   },
 
@@ -76,7 +78,8 @@ export default [
       ro: 'Ciocan vechi și ruginit, pe punctul de a se rupe.',
       tl: 'Masungit na lumang martilyo, sa gilid ng paglabag.',
       tr: 'Paslı eski çekiç, kırma eşiğinde',
-      da: 'Rusten gammel hammer, på randen af ​​at bryde.'
+      da: 'Rusten gammel hammer, på randen af ​​at bryde.',
+      zh: '生锈的旧锤子，濒临破碎。'
     }
   },
 
@@ -302,7 +305,7 @@ export default [
       en: 'Topped with the skull of a slain beast, this weapon inspires terror in all who stand against it.',
       ru: 'Это оружие, увенчанное черепом чудища, внушает ужас всем, кто противостоит ему.',
       hi: 'मारे गए राक्षस की खोपड़ी से बनाया गया, यह हथियार अपने विरोधिदो में आतंक को प्रेरित करता है।',
-      es: 'Cubierta con el cráneo de un enemigo bestia, esta arma inspira terror en todos los que se oponen a ella.',
+      es: 'Cubierta con el cráneo de una bestia muerte, esta arma inspira terror en todos los que se oponen.',
       de: 'Diese Waffe, die mit dem Schädel eines getöteten Tieres überzogen ist, weckt Schrecken bei allen, die sich dagegen stellen.',
       fr: 'Surmontée du crâne d\'une bête tuée, cette arme inspire la terreur à tous ceux qui s\'y confrontent.',
       pt: 'Coberta com o crânio de uma besta morta, esta arma inspira terror em todos os que estão contra ela.',
@@ -329,7 +332,7 @@ export default [
       en: 'Can penetrate your feeble skull quite easily. Or your foes. Probably yours though.',
       ru: 'Может легко проникнуть в ваш слабый череп. Или в твоих врагов. Хотя вероятнее в ваш.',
       hi: 'आपके कमज़ोर खोपड़ी में बड़ी आसानी से घुस सकता है। या फिर दुश्मन की। शायद आपकी ही।',
-      es: 'Cubierta con el cráneo de un enemigo gigante asesinado, esta arma inspira terror en todos los que se oponen a ella.',
+      es: 'Puede penetrar su cráneo débil facilamente. O el cranéo de sus enemigos. Pero probalamente la suya.',
       de: 'Mit dem Schädel eines getöteten Riesenfeindes überzogen, inspiriert diese Waffe Schrecken bei allen, die sich dagegen stellen.',
       fr: 'Peut détruire votre faible crâne plutôt facilement. Ou celui de vos ennemis. Plutôt le vôtre, en fait.',
       bg: 'Може лесно да проникне във вашия слаб череп. Или вашите врагове. Вероятно е твой.',

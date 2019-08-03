@@ -20,7 +20,8 @@ export default {
     ro: 'Caută',
     hi: 'खोजे',
     da: 'Søg',
-    sv: 'Sök'
+    sv: 'Sök',
+    zh: '搜索'
   },
 
   filtermine: {
@@ -43,7 +44,8 @@ export default {
     ro: 'Doar obiectele mele',
     hi: 'मेरी वस्तुएं',
     da: 'Kun mine genstand',
-    sv: 'Endast mina föremål'
+    sv: 'Endast mina föremål',
+    zh: '只要我的装备'
   },
 
   buy: {
@@ -66,7 +68,8 @@ export default {
     ro: 'Cumpără Obiectul',
     hi: 'वस्तु खरीदे',
     da: 'Køb Genstand',
-    sv: 'Köp Föremål'
+    sv: 'Köp Föremål',
+    zh: '买装备'
   },
 
   post: {
@@ -137,7 +140,8 @@ export default {
     ro: 'Preț: ',
     hi: 'कीमत: ',
     da: 'Pris: ',
-    sv: 'Pris: '
+    sv: 'Pris: ',
+    zh: '价格: '
   },
 
   // Include the space and punctuation
@@ -161,7 +165,8 @@ export default {
     ro: 'Taxă: ',
     hi: 'कीमत: ',
     da: 'Skat: ',
-    sv: 'Avgift: '
+    sv: 'Avgift: ',
+    zh: '费用: '
   },
 
   dragitem: {

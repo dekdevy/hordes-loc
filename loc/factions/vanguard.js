@@ -25,6 +25,7 @@ export default {
     cs: 'Vanguard horda hledá tradici, strukturu a pořádek ve společnosti. Jejich hrad se nachází v bujné zelené oblasti kolem Guardstone.',
     ja: 'Vanguardの大群は、社会における伝統、構造、そして秩序を求めています。 彼らの城はGuardstone周辺の緑豊かな地域にあります。',
     ro: 'Facțiunea Vanguard caută tradiția, structura și ordinea în societate. Castelul lor poate fi găsit într-o zonă verde luxuriantă din jurul Guardstone.',
-    da: 'Vanguard Horde søger tradition, struktur og orden i samfundet. Deres slot kan findes i et frodigt grønt område omkring Guardstone.'
+    da: 'Vanguard Horde søger tradition, struktur og orden i samfundet. Deres slot kan findes i et frodigt grønt område omkring Guardstone.',
+    zh: 'Vanguard部落尋求社會的傳統，結構和秩序。 他們的城堡在Guardstone周圍鬱鬱蔥蔥的綠色區域。'
   }
 }
