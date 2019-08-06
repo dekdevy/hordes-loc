@@ -4,7 +4,7 @@ export default [
     description: {
       en: 'Cheap leather bands bought by an ambitious farmer.',
       ru: 'Дешевые кожаные ремешки, купленный амбициозным фермером.',
-      es: 'Bandas de cuero baratas, compradas por un granjero ambicioso.',
+      es: 'Bandas de cuero baratas, compradas por un agricultor ambicioso.',
       fr: 'Bandes en cuir bon marché acheté par un agriculteur ambitieux.',
       de: 'Billige Lederbänder, welche von einem ehrgeizigen Bauern gekauft wurde.',
       pt: 'Bandas de couro barato comprada por um fazendeiro ambicioso.',
@@ -73,7 +73,8 @@ export default [
       bg: 'Скръв, направи ръцете си възпалени.',
       ja: '硬直して、腕を痛めます。',
       ro: 'Rigid, îți inflamează brațele.',
-      da: 'Stiv, gør dine arme ømme.'
+      da: 'Stiv, gør dine arme ømme.',
+      es: 'rigido, duelen los brazos.'
     }
   },
 
