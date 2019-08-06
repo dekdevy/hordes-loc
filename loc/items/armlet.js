@@ -324,7 +324,7 @@ export default [
     description: {
       en: 'This item was forged on a full moon when mysterious incantations were heard in the whispers of the dark. Some say that it was Anubis himself speaking with the dead.',
       ru: 'Этот предмет был выкован в полнолуние, когда в темноте раздавался шепот таинственных заклинаний. Некоторые говорят, что это был сам Анубис, говорящий с мертвыми.',
-      es: 'Forjado durante la plenilunia cuando incantaciones misteriosas fueron oído en los susurros de la oscurridad. Algunos dicen que era Anuvis mismo hablando con la muerte.',
+      es: 'Este artículo fue forjado en luna llena cuando se escucharon encantamientos misteriosos en los susurros de la oscuridad. Algunos dicen que fue Anubis mismo quien habló con los muertos.',
       fr: 'Cet objet a été forgé lors d\'une pleine lune quand des incantations mystérieuses ont été entendues dans les murmures de l\'obscurité. Certains disent que c\'était Anubis lui-même parlant avec les morts',
       de: 'Dieser Gegenstand wurde bei Vollmond geschmiedet, als im Flüstern der Dunkelheit mysteriöse Beschwörungen zu hören waren. Einige sagen, dass es Anubis selbst war, der mit den Toten sprach.',
       pt: 'Este item foi forjado numa lua cheia quando encantamentos misteriosos foram ouvidos nos sussurros da escuridão. Alguns dizem que foi o próprio Anubis falando com os mortos.',
