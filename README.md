@@ -52,10 +52,12 @@ export default {
   // The class name
   name: {
     en: 'Archer'
+    es: 'Arquero
   },
   // Class description, visible during character creation
   description: {
     en: 'Archers deal high single target damage and bursty ...',
+    es: 'Los arqueros infligen un alto daño a un solo objetivo y explosiones ...'
   }
 }
 ```
@@ -66,7 +68,8 @@ To add a translation, simply add a [ISO639-2 Language code](http://www.lingoes.n
   // The class name
   name: {
     en: 'Archer',
-    de: 'Jäger'
+    de: 'Jäger',
+    es: 'Arquero'
   }
   ```
 We do not have to add a German translation for the `descriptions` string. It is perfectly fine if the translations are incomplete, as the build system will automatically resolve the translations to English.
