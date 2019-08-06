@@ -35,7 +35,11 @@ const syllables = ['heim', 'tuk', 'ta', 'lor', 'bok', 'le', 'me', 'ka', 'na', 'p
   'big', 'large', 'tiny', 'mas', 'min', 'scope', 'sig', 'harp', 'beth', 'esda', 'arq', 'nubis', 'bis', 'asdo', 'jan', 'jam',
   'bun', 'past', 'paste', 'try', 'hard', 'soft', 'smooth', 'rough', 'druid', 'cleric', 'hunt', 'hunter', 'wiz', 'wizard', 'woz', 'sage',
   'sag', 'marg', 'mer', 'mere', 'meag', 'meal', 'brek', 'brak', 'bral', 'fair', 'ain', 'mont', 'gah', 'med', 'dray', 'an', 'mhor',
-  'nek', 'kar', 'sark', 'bound', 'bo', 'ork', 'mark', 'raw', 'dork', 'deku', 'fin', 'pas', 'loc', 'rev', 'dmi', 'ove']
+  'nek', 'kar', 'sark', 'bound', 'bo', 'ork', 'mark', 'raw', 'dork', 'deku', 'fin', 'pas', 'loc', 'rev', 'dmi', 'ove', 'tea' ,'water',
+  'death', 'orange', 'gurl', 'skillz', 'aris', 'scorpion', 'good', 'instinct', 'alpha', 'heart', 'ice', 'hot', 'king', 'slave', 'slime',
+  'expert', 'faster', 'slow', 'Strength', 'iron', 'metal', 'rekt', 'end', 'power', 'hero', 'beast', 'ranger', 'explorer', 'trick', 'spirit',
+   'dark', 'soul', 'lamp', 'apocalypse', 'demon', 'nice', 'cute', 'crazy', 'adan', 'eva', 'diabolical', 'mercy', 'chaos', 'troll', 'huge', 
+   'giant'                
 
 export const generate = (minSyl = 2, maxSyl = 6, maxLen = 8)=>{
   // generates a random name with a variable max length / syllable amount
