@@ -32,7 +32,7 @@ export default [{
   name: {$$: 'Ice bolt'},
 
   description: {
-    en: 'Fires a missile of frost towards your enemy. Reduces the cooldown of Icicle upon hitting critically by 2 seconds.'
+    en: 'Fires a missile of frost towards your enemy. Reduces the cooldown of Icicle Orb by 5 seconds.'
   }
 },
 {
