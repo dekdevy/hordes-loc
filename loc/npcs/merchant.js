@@ -1,5 +1,6 @@
 export default {
   interactions: [{
+    // Do NOT translate "Warcry Scrolls".
     text: {
       en: 'Well, look what we have here! No, that equipment won’t do, will it? Take a look at the open market! Rumours are spreading; I’ve heard of Warcry Scrolls that can teleport a friend to your position. Let’s just keep that between us, okay?',
       ru: 'Ну что ж, посмотрим что у нас тут! Ваша экипировка никуда не годится, не так ли? Взгляните на мою распродажу! Ходят слухи; я слышал о Warcry Scrolls, которые могут телепортировать вашего друга к вам. Только между нами, хорошо?',
@@ -31,7 +32,7 @@ export default {
       ro: 'Da, arată-mi ce lucruri sunt de vânzare.',
       hi: 'जी हा, विक्रीय के लिए उपलब्ध चीज़े दिखाएं।',
       pl: 'Tak, pokaż mi aukcje na sprzedaż.',
-      es: 'Sí, muéstrame las subastas en venta.',
+      es: 'Sí, muéstrame los articulos en venta.',
       nl: 'Ja, laat me de veilingen zien die te koop zijn',
       fr: 'Oui, montrez-moi les enchères à vendre.',
       ru: 'Да, покажите мне предметы на продажу.',

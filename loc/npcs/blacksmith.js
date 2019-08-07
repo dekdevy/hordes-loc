@@ -1,5 +1,6 @@
 export default {
   interactions: [{
+    // Do NOT translate "Blacksmith's Blessed Hammer".
     text: {
       en: 'Upgrading is risky without additional special items like a Blacksmith’s Blessed Hammer, which can prevent items from breaking during upgrades. Without the hammer, we will be taking a risk. So what can I upgrade for you today?',
       ru: 'Без дополнительных инструментов улучшение рискованно. Blacksmith\'s Blessed Hammer может предотвратить поломку предметов во время улучшение. Без молотка мы рискуем. Так что же я могу улучшить для тебя сегодня?',

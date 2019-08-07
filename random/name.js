@@ -1,7 +1,8 @@
 import { rndArray, rndi } from 'core/math/rnd.js'
 
-// Syllables used for random player/monster name generation
-// this is not part of the localization, but you can add syllables here
+// Syllables used for random player/monster name generation.
+// These are not part of the localisation, no more syllables are needed.
+
 const syllables = ['heim', 'tuk', 'ta', 'lor', 'bok', 'le', 'me', 'ka', 'na', 'pink', 'dumb', 'fizz', 'glink', 'bing',
   'vang', 'blood', 'shield', 'dagger', 'rog', 'thun', 'gar', 'nag', 'grul', 'oth', 'uz', 'muk', 'hammer', 'staff', 'bold',
   'brave', 'any', 'gal', 'funk', 'gold', 'rock', 'metal', 'flash', 'rand', 'wise', 'smart', 'cozy', 'little', 'bam',
