@@ -8,7 +8,7 @@ export default {
   description: {
     en: 'The Vanguard horde seeks tradition, structure and order in society. Their castle can be found in a lush green area around Guardstone.',
     sv: 'Vanguard-horden eftersträvar ett ordnat och traditionsdrivet samhälle. Deras slott ligger i ett frodigt område kring Guardstone.',
-    ru: 'Орда Vanguard ищет традиции, структуру и порядок в обществе. Их крепость может быть найдена в пышной зеленой зоне около Guardstone.',
+    ru: 'Орда Vanguard стремится к традиции, структуру и порядок в обществе. Их крепость может быть найдена в пышной зеленой зоне около Guardstone.',
     es: 'La horda Vanguard busca la tradición, la estructura y el orden en la sociedad. Su castillo se puede encontrar en una desarrollada área verde alrededor de Guardstone.',
     hi: 'Vanguard गिरोह समाज में परंपरा, संरचना और व्यवस्था चाहता है। उनका महल Guardstonr के आसपास हरे-भरे क्षेत्र में पाया जा सकता है।',
     de: 'Die Vanguard Horde sucht Tradition, Struktur und Ordnung in der Gesellschaft. Ihre Burg befindet sich in einer üppigen grünen Umgebung rund um Guardstone.',
