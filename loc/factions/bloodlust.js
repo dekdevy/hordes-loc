@@ -2,6 +2,8 @@ export default {
   name: { // English only
     $$: 'Bloodlust'
   },
+
+  // Do NOT translate "Bloodlust" or "Headless Landing".
   description: {
     en: 'The Bloodlust horde values freedom and loyalty, offers a place for individualism or even chaos. Their defenses are located in a desert realm called Headless Landing.',
     sv: 'Bloodlust-horden värdesätter frihet och lojalitet och erbjuder utrymme för individualism eller t.o.m. kaos. Deras fäste ligger i ett ökenrike kallat Headless Landing.',
