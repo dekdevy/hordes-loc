@@ -1,5 +1,6 @@
 export default {
-  name: { // English only
+  // English only.
+  name: {
     $$: 'Bloodlust'
   },
 
