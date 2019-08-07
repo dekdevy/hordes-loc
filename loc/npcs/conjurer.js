@@ -1,5 +1,6 @@
 export default {
   interactions: [{
+    // Do NOT translate "Crystal Shards".
     text: {
       en: 'Have you heard of the Crystal Shards that were discovered recently? Adventurers can use them to travel directly to distant realms. I don\'t have any Crystal Shards, but I can send you to some places since mystic forces converge at this nexus. Which realm is your desired destination?',
       ru: 'Вы слышали о Crystal Shards, которые были недавно обнаружены? Искатели приключений могут использовать их для перемещения сразу в дальние регионы. У меня сейчас нет никаких Crystal Shards, но я могу переместить вас в любое место, так как здесь сходятся мистические силы на этом нексусе. Какую зону вы желаете посетить?',
