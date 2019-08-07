@@ -1,7 +1,8 @@
 import { rndArray } from 'core/math/rnd.js'
 
-// Words for the random party link generator
-// the format is "adjective + noun + of + goal"
+// Words for the random party link generator.
+// The format is "adjective + noun + of + goal".
+
 const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous', 'insane', 'rusty', 'smelly',
   'hilarious', 'sad', 'burning', 'rotten', 'smelly', 'frozen', 'fresh', 'fast', 'slow', 'mean', 'smart', 'cold',
   'broken', 'refurbished', 'repaired', 'spooky', 'shiny', 'glowing', 'dead', 'furious', 'glorious', 'impish',
