@@ -4,6 +4,7 @@ export default {
     $$: 'Vanguard'
   },
 
+  // Do NOT translate "Vanguard" or "Guardstone".
   description: {
     en: 'The Vanguard horde seeks tradition, structure and order in society. Their castle can be found in a lush green area around Guardstone.',
     sv: 'Vanguard-horden eftersträvar ett ordnat och traditionsdrivet samhälle. Deras slott ligger i ett frodigt område kring Guardstone.',
