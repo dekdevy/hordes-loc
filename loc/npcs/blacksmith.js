@@ -29,7 +29,7 @@ export default {
       en: 'Yes, I have some items', 
       ru: 'Да, у меня есть кое-какие вещи.',
       de: 'Ja, ich habe ein paar Sachen.',
-      fr: 'Oui, j\'ai quelques articles.',
+      fr: 'Oui, j\'ai quelques objets.',
       it: 'Sì, ho degli oggetti.',
       pt: 'Sim, eu tenho alguns items.',
       nl: 'Ja, ik heb wat spullen.',
@@ -40,7 +40,7 @@ export default {
       tl: 'Oo, mayroon akong ilang mga item',
       cs: 'Ano, mám nějaké věci',
       el: 'Ναι, έχω κάποια στοιχεία',
-      bg: 'Да, имам някои елементи',
+      bg: 'Да, имам някои предмети',
       ja: 'はい、いくつかのアイテムがあります',
       da: 'Ja, jeg har nogle ting'
     }]
