@@ -27,6 +27,26 @@ export default {
 
     choices: [{
       en: 'blacksmith open interaction'
+      ru: 'Взаимодействовать с кузнецом'
+      fr: 'Interagir avec le forgeron'
+      da: 'Interagere med smeden'
+      sv: 'Interagera med smeden'
+      es: 'Interactúa con el herrero'
+      ko: '대장장이와 상호 작용'
+      nl: 'Interactie met de smid'
+      ht: 'kominike avèk fòj a'
+      pl: 'wchodzić w interakcje z kowalem'
+      cs: 'komunikovat s kovářem'
+      tl: 'makipag-ugnay sa panday'
+      ja: '鍛冶屋と対話する'
+      el: 'αλληλεπιδρούν με τον σιδερά'
+      bg: 'взаимодействат с ковача'
+      hi: 'लोहार के साथ बातचीत'
+      de: 'interagiere mit dem Schmied'
+      pt: 'interaja com o ferreiro'
+      it: 'interagire con il fabbro'
+      ro: 'interacționează cu fierarul'
+      zh: '与铁匠互动'
     }]
   }]
 }
