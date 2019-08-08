@@ -33,7 +33,16 @@ export default {
       it: 'Sì, ho degli oggetti.',
       pt: 'Sim, eu tenho alguns items.',
       nl: 'Ja, ik heb wat spullen.',
-      pl: 'Tak, mam kilka rzeczy.'
+      pl: 'Tak, mam kilka rzeczy.',
+      sv: 'Ja, jag har några artiklar',
+      hi: 'हां, मेरे पास कुछ आइटम हैं',
+      ht: 'Wi, mwen gen kèk atik',
+      tl: 'Oo, mayroon akong ilang mga item',
+      cs: 'Ano, mám nějaké věci',
+      el: 'Ναι, έχω κάποια στοιχεία',
+      bg: 'Да, имам някои елементи',
+      ja: 'はい、いくつかのアイテムがあります',
+      da: 'Ja, jeg har nogle ting'
     }]
   }]
 }
