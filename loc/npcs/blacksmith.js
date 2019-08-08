@@ -26,6 +26,7 @@ export default {
     },
 
     choices: [{
+      // This is a placeholder, do NOT translate.
       en: 'blacksmith open interaction'
     }]
   }]
