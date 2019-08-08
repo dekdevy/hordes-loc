@@ -24,8 +24,8 @@ Resources for first timers and git beginners
 
 For your first translations, please fork the repo and submit a pull request that way. If everything looks good, you will be added as a contributor. 
 
-Make sure to read the comments and take them seriously. Do not translate placeholder texts. Do not translate unique names. If you are unsure, cross check with other translations to see whether a word is translated or not. For example, words like *party*, *clan*, *item* will generally not be translated in order to make sure players can communicate effectively.
-**Please make sure you add a description of your changes or additions in your PR description, otherwise we will likely ignore it. If you change single words, please describe why.**
+Make sure to read the comments and take them seriously. Do not translate placeholder texts. Do not translate unique names. If you are unsure, cross check with other translations to see whether a word is translated or not. For example, words like *party*, *clan* or *item* will generally not be translated to make sure players can communicate effectively on universal concepts within the game.
+**Please make sure to add thorough descriptions of your changes in the PR text, otherwise we will likely ignore or close your PR.**
 
 New languages and translations are always welcome, so feel free to PR. The build system automatically detects new language types, and exports new files for each language type. Any language types are welcome.
 In order to contribute translations, simply add them to the respective files in the `loc/` directory.
