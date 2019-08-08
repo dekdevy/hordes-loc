@@ -30,7 +30,7 @@ export default {
     ru: 'Покинуть Клан',
     fr: 'Quitter le Clan',
     hi: 'दल छोड़े',
-    es: 'Salir de Clan',
+    es: 'Salir del Clan',
     de: 'Clan Verlassen',
     tr: 'Klandan Ayrıl',
     bg: 'Напусни Клан',
