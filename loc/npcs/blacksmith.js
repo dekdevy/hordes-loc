@@ -42,7 +42,8 @@ export default {
       el: 'Ναι, έχω κάποια στοιχεία',
       bg: 'Да, имам някои предмети',
       ja: 'はい、いくつかのアイテムがあります',
-      da: 'Ja, jeg har nogle ting'
+      da: 'Ja, jeg har nogle ting',
+      tr: 'Evet, bazı eşyalarım var'
     }]
   }]
 }
