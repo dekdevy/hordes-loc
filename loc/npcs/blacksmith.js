@@ -43,7 +43,8 @@ export default {
       bg: 'Да, имам някои предмети',
       ja: 'はい、いくつかのアイテムがあります',
       da: 'Ja, jeg har nogle ting',
-      tr: 'Evet, bazı eşyalarım var'
+      tr: 'Evet, bazı eşyalarım var',
+      ko: '예, 몇 가지 품목이 있습니다'
     }]
   }]
 }
