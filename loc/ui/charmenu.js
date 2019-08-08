@@ -33,7 +33,7 @@ export default {
       sv: 'Klicka för att skapa karaktär',
       ru: 'Нажмите, чтобы создать персонажа',
       hi: 'स्वरूप बानाने के लिए क्लिक करे',
-      es: 'Pulsar para crear un carácter',
+      es: 'Haga clic para crear un carácter',
       de: 'Klicke, um einen Charakter zu machen', // TODO: shorten
       fr: 'Cliquez pour créer le personnage',
       ko: '캐릭터를 만들려면 클릭하십시오',
