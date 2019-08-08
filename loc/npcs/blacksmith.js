@@ -26,8 +26,14 @@ export default {
     },
 
     choices: [{
-      // This is a placeholder, do NOT translate.
-      en: 'blacksmith open interaction'
+      en: 'Yes, I have some items', 
+      ru: 'Да, у меня есть кое-какие вещи.',
+      de: 'Ja, ich habe ein paar Sachen.',
+      fr: 'Oui, j\'ai quelques articles.',
+      it: 'Sì, ho degli oggetti.',
+      pt: 'Sim, eu tenho alguns items.',
+      nl: 'Ja, ik heb wat spullen.',
+      pl: 'Tak, mam kilka rzeczy.'
     }]
   }]
 }
