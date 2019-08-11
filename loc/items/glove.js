@@ -5,7 +5,7 @@ export default [
       en: 'Straps of leather covering your feeble hands. Pulling the bowstring is much easier for you now.',
       ru: 'Ремешки из кожи покрывают ваши слабые руки. Натягивать тетиву теперь намного проще.',
       de: 'Lederbänder, die Ihre schwachen Hände bedecken. Das Ziehen der Bogensehne ist für dich jetzt viel einfacher.',
-      es: 'Correas de cuero cubrir tus débiles manos. Estirar de la cuerda es más fácil para ti ahora.',
+      es: 'Correas de cuero que cubren tus débiles manos. Estirar de la cuerda es más fácil para ti ahora.',
       pt: 'Correias de couro a cobrir as tuas mãos fracas. Puxar a corda de arco é muito mais fácil para você agora.',
       nl: 'Riemen van leer die uw zwakke handen bedekken. Het is nu veel gemakkelijker voor u om aan de strikkoord te trekken.',
       pl: 'Paski skórzane przykrywające słabe dłonie. Pociągnięcie sznurka jest teraz znacznie łatwiejsze dla Ciebie.',
