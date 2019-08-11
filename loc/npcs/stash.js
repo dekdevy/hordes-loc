@@ -1,7 +1,7 @@
 export default {
   interactions: [{
     text: {
-      en: 'Stash explanation text'
+      en: 'Yes, I\m a talking chest, I can see the question forming on your lips already. Many years have I served royal families, storing their priceless gems and jewels, only to be placed in this rugged campsite to cater for your petty needs. Anyhow, throw in what you need stored and I\'ll oversee its protection. Make sure you have some nice insurance though, I can\'t guarantee what state you\'ll get the items back in.'
     },
     choices: [{
       en: 'Yes, open my stash',
