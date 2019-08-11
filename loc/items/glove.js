@@ -249,7 +249,7 @@ export default [
       ru: 'Кованые без огня, ношенные без страха.',
       de: 'Ohne Hitze geschmiedet, ohne Angst getragen.',
       es: 'Forjados sin calor, llevados sin miedo.',
-      pt: 'Forjado sem calor, usado sem medo.',
+      pt: 'Forjados sem calor, usado sem medo.',
       nl: 'Gesmeed zonder warmte, gedragen zonder angst.',
       pl: 'Kute bez ciepła, noszone bez strachu.',
       tl: 'Peke na walang init pagod na walang takot.',
