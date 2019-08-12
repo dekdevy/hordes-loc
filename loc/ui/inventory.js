@@ -220,6 +220,14 @@ export default {
     zh: '用物品'
   },
 
+  splithalf: {
+    en: 'Split half'
+  },
+
+  splitone: {
+    en: 'Split one'
+  },
+
   spend: {
     en: 'You have spent $1 coins',
     ru: 'Вы потратили $1 монеты',
