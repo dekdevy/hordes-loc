@@ -2,7 +2,7 @@ export default {
   interactions: [{
     // Do NOT translate "Blacksmith's Blessed Hammer".
     text: {
-      en: 'Upgrading is risky without additional special items like a Blacksmith’s Blessed Hammer, which can prevent items from breaking during upgrades. Without the hammer, we will be taking a risk. So, surely you have something that I can upgrade for you today?',
+      en: 'Upgrading is risky without additional special items like a Blacksmith\'s Blessed Hammer, which can prevent items from breaking during upgrades. Without the hammer, we will be taking a risk. So, surely you have something that I can upgrade for you today?',
       ru: 'Без дополнительных инструментов улучшение рискованно. Blacksmith\'s Blessed Hammer может предотвратить поломку предметов во время улучшение. Без молотка мы рискуем. Итак, у вас есть что-то, что я могу улучшить для вас сегодня?',
       fr: 'C\'est dangereux d\'améliorer ton équipement sans objets spéciaux, comme un Blacksmith\'s Blessed Hammer, qui peut éviter ton équipement de casser pendant que tu les améliorations. Sans l\'Hammer, tu cours un risque.Donc, vous avez sûrement quelque chose que je peux améliorer pour vous?',
       da: 'At opgradere er risikabelt uden specielle ting som Blacksmith\'s Blessed Hammer, som kan forhindre ting i at gå i stykker under opgraderinger. Uden hammeren tager vi en risiko. Så har du bestemt noget, jeg kan forbedre dig?',
@@ -26,7 +26,7 @@ export default {
     },
 
     choices: [{
-      en: 'Yes, I have some items',
+      en: 'Yes, I have some items.',
       ru: 'Да, у меня есть кое-какие вещи.',
       de: 'Ja, ich habe ein paar Sachen.',
       fr: 'Oui, j\'ai quelques objets.',
@@ -34,16 +34,16 @@ export default {
       pt: 'Sim, eu tenho alguns items.',
       nl: 'Ja, ik heb wat spullen.',
       pl: 'Tak, mam kilka rzeczy.',
-      sv: 'Ja, jag har några artiklar',
+      sv: 'Ja, jag har några artiklar.',
       hi: 'हां, मेरे पास कुछ आइटम हैं',
-      ht: 'Wi, mwen gen kèk atik',
-      tl: 'Oo, mayroon akong ilang mga item',
-      cs: 'Ano, mám nějaké věci',
-      el: 'Ναι, έχω κάποια στοιχεία',
-      bg: 'Да, имам някои предмети',
-      ja: 'はい、いくつかのアイテムがあります',
-      da: 'Ja, jeg har nogle ting',
-      tr: 'Evet, bazı eşyalarım var',
+      ht: 'Wi, mwen gen kèk atik.',
+      tl: 'Oo, mayroon akong ilang mga item.',
+      cs: 'Ano, mám nějaké věci.',
+      el: 'Ναι, έχω κάποια στοιχεία.',
+      bg: 'Да, имам някои предмети.',
+      ja: 'はい、いくつかのアイテムがあります 。',
+      da: 'Ja, jeg har nogle ting.',
+      tr: 'Evet, bazı eşyalarım var.',
       ko: '예, 몇 가지 품목이 있습니다'
     }]
   }]
