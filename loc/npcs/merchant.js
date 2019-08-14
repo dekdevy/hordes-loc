@@ -33,7 +33,7 @@ export default {
       hi: 'जी हा, विक्रीय के लिए उपलब्ध चीज़े दिखाएं।',
       pl: 'Tak, pokaż mi aukcje na sprzedaż.',
       es: 'Sí, muéstrame los articulos en venta.',
-      nl: 'Ja, laat me de veilingen zien die te koop zijn',
+      nl: 'Ja, laat me de veilingen zien die te koop zijn.',
       fr: 'Oui, montrez-moi les enchères à vendre.',
       ru: 'Да, покажите мне предметы на продажу.',
       el: 'Ναι, δείξτε μου τις δημοπρασίες προς πώληση.',
