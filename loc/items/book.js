@@ -11,7 +11,7 @@ export default [{
   name: {$$: 'Slash'},
 
   description: {
-    en: 'Slash your enemy, striking with extra force.'
+    en: 'Slash your enemy, striking with extra force. Heals you for 10% of the damage done.'
   }
 },
 {
