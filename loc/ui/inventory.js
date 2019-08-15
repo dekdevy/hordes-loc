@@ -222,12 +222,14 @@ export default {
 
   splithalf: {
     en: 'Split half',
-    ru: 'Разделить пополам'
+    ru: 'Разделить пополам',
+    bg: 'Разделете наполовина'
   },
 
   splitone: {
     en: 'Split one',
-    ru: 'Отделить один'
+    ru: 'Отделить один',
+    bg: 'Отделете един'
   },
 
   spend: {
