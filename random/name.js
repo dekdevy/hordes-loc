@@ -1,7 +1,7 @@
 import { rndArray, rndi } from 'core/math/rnd.js'
 
 // Syllables used for random player/monster name generation.
-// These are not part of the localisation, no more syllables are needed.
+// These are not part of the localisation Please keep the total amount of syllables at 300.
 
 const syllables = ['bow', 'hamm', 'sword', 'staff', 'doom', 'flesh', 'eye', 'soul', 'claw', 'lynx', 'vang', 'blood',
   'lust', 'wing', 'night', 'gem', 'rune', 'dhai', 'morgh', 'craft', 'owl', 'reap', 'glob', 'ice','flame', 'blade',
