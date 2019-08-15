@@ -41,7 +41,7 @@ export default {
       cs: 'Ano, mám nějaké věci.',
       el: 'Ναι, έχω κάποια στοιχεία.',
       bg: 'Да, имам някои предмети.',
-      ja: 'はい、いくつかのアイテムがあります 。',
+      ja: 'はい、いくつかのアイテムがあります。',
       da: 'Ja, jeg har nogle ting.',
       tr: 'Evet, bazı eşyalarım var.',
       ko: '예, 몇 가지 품목이 있습니다'
