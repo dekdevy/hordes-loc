@@ -7,7 +7,7 @@ const syllables = ['bow', 'hammer', 'sword', 'staff', 'doom', 'flesh', 'eye', 's
   'lust', 'wing', 'strong', 'gem', 'rune', 'dhai', 'morgh', 'craft', 'owl', 'reap', 'glob', 'ice','flame', 'blade',
   'ash', 'fang', 'scar', 'life', 'smith', 'drakh', 'bat', 'kar', 'daug', 'ghal', 'bird', 'myth', 'dead', 'myr', 'sau',
   'uth', 'urg', 'our', 'rof', 'azo', 'naul', 'shauz', 'olg', 'rol', 'reol', 'piol', 'cua', 'lumo', 'thual', 'saew', 'lith',
-  'lanc', 'heim', 'dall', 'heif', 'heria', 'milui', 'amlug', 'ber', 'dae', 'erth', 'feira', 'dema', 'khon', 'xhan', 'xhi',
+  'lanc', 'heim', 'dall', 'heif', 'heria', 'milui', 'amlug', 'ber', 'dhaye', 'erth', 'feira', 'dema', 'khon', 'xhan', 'xhi',
   'godh', 'rhor', 'cili', 'lenda', 'aist', 'nyel', 'nye', 'zal', 'zog', 'bhol', 'zul', 'dana', 'gun', 'arc', 'orb', 'trog',
    'vaz', 'zedh', 'zee', 'veba']
 
