@@ -202,5 +202,12 @@ export default [{
   description: {
     en: 'Increase your targets Haste temporarily.'
   }
+},
+{
+  name: {$$: 'Poison Arrows'},
+
+  description: {
+    en: 'Your Precise Shot applies a poisonous Debuff on hit.'
+  }
 }
 ]
