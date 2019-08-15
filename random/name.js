@@ -4,7 +4,7 @@ import { rndArray, rndi } from 'core/math/rnd.js'
 // These are not part of the localisation, no more syllables are needed.
 
 const syllables = ['bow', 'hamm', 'sword', 'staff', 'doom', 'flesh', 'eye', 'soul', 'claw', 'lynx', 'vang', 'blood',
-  'lust', 'wing', 'strong', 'gem', 'rune', 'dhai', 'morgh', 'craft', 'owl', 'reap', 'glob', 'ice','flame', 'blade',
+  'lust', 'wing', 'night', 'gem', 'rune', 'dhai', 'morgh', 'craft', 'owl', 'reap', 'glob', 'ice','flame', 'blade',
   'ash', 'fang', 'scar', 'life', 'smith', 'drakh', 'bat', 'kar', 'daug', 'ghal', 'bird', 'myth', 'dead', 'myr', 'sau',
   'uth', 'urg', 'our', 'rof', 'azo', 'naul', 'shauz', 'olg', 'rol', 'reol', 'piol', 'cua', 'lumo', 'thual', 'saew', 'lith',
   'lanc', 'heim', 'dall', 'heif', 'heria', 'milui', 'amlug', 'ber', 'dhaye', 'erth', 'feira', 'dema', 'khon', 'xhan', 'xhi',
@@ -12,10 +12,15 @@ const syllables = ['bow', 'hamm', 'sword', 'staff', 'doom', 'flesh', 'eye', 'sou
   'vaz', 'zedh', 'zee', 'veba', 'storm', 'scare', 'zoti', 'nuk', 'zak', 'knod', 'stink', 'skin', 'hek', 'luim', 'hex'
   'woe', 'hong', 'vugz', 'zug', 'rift', 'rage', 'meph', 'max', 'gold', 'merc', 'zon', 'zvon', 'veda', 'fade', 'war', 'bound',
   'ant', 'aol', 'eal', 'xio', 'daz', 'gog', 'vat', 'heis', 'pain', 'vigo', 'ior', 'nyth', 'mydra', 'illae', 'ira', 'ida',
-  'ali', 'yera', 'dusk', 'dawn', 'swift', 'luna', 'lance', 'raven', 'wild', 'tarre', 'yae', 'yia', 'jaed', 'cyra', 'light',
+  'ali', 'yera', 'dusk', 'dawn', 'swift', 'luna', 'lance', 'raven', 'wild', 'yae', 'yia', 'jaed', 'cyra', 'light', 'vesla',
   'veni', 'tear', 'lach', 'bloch', 'utta', 'sys', 'frie', 'fire', 'kwyl', 'gax', 'qish', 'grel', 'eevo', 'kash', 'gaz',
   'iqri', 'ezni', 'uku', 'lozz', 'gnee', 'jui', 'drae', 'nai', 'eua', 'ravar', 'bain', 'bane', 'wokai', 'kohm', 'demo',
-  'sil', 'stag', 'elys', 'sia', 'rhya', 'rynn', 'fael', 'fyn', 'lirai']
+  'sil', 'stag', 'elys', 'sia', 'rhya', 'rynn', 'fael', 'fyn', 'lirai', 'ciea', 'chai', 'earl', 'baro', 'volo', 'riel',
+  'dryn', 'rai', 'daar', 'sea', 'star', 'amber', 'bloom', 'syl', 'lenai', 'lead', 'rya', 'tarre', 'adrae', 'rius', 'niye',
+  'fyre', 'daria', 'iraei', 'lase', 'mane', 'thera', 'dania', 'fog', 'dola', 'mydi', 'fai', 'lynn', 'lair', 'iyl', 'irius',
+  'arido', 'lere', 'teria', 'vias', 'bais', 'rismo', 'ues', 'bith', 'raes', 'lieu', 'aucto', 'laude', 'deus', 'vitro',
+  'tusso', 'vephie', 'mulae', 'qen', 'cill', 'tryl', 'vonth', 'morja', 'teu', 'thyn', 'taug', 'taur', 'gias', 'caen',
+  'ieze', 'brieu', 'tae', 'borne', 'selta', 'sill', 'phyre', 'theia']
 
 export const generate = (minSyl = 2, maxSyl = 6, maxLen = 8)=>{
   // generates a random name with a variable max length / syllable amount
