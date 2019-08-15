@@ -11,7 +11,10 @@ const syllables = ['bow', 'hamm', 'sword', 'staff', 'doom', 'flesh', 'eye', 'sou
   'godh', 'rhor', 'cili', 'lenda', 'aist', 'nyel', 'nye', 'zal', 'zog', 'bhol', 'zul', 'dana', 'gun', 'arc', 'orb', 'trog',
   'vaz', 'zedh', 'zee', 'veba', 'storm', 'scare', 'zoti', 'nuk', 'zak', 'knod', 'stink', 'skin', 'hek', 'luim', 'hex'
   'woe', 'hong', 'vugz', 'zug', 'rift', 'rage', 'meph', 'max', 'gold', 'merc', 'zon', 'zvon', 'veda', 'fade', 'war', 'bound',
-  'ant', 'aol', 'eal']
+  'ant', 'aol', 'eal', 'xio', 'daz', 'gog', 'vat', 'heis', 'pain', 'vigo', 'ior', 'nyth', 'mydra', 'illae', 'ira', 'ida',
+  'ali', 'yera', 'dusk', 'dawn', 'swift', 'luna', 'lance', 'raven', 'wild', 'tarre', 'yae', 'yia', 'jaed', 'cyra', 'light',
+  'veni', 'tear', 'lach', 'bloch', 'utta', 'sys', 'frie', 'fire', 'kwyl', 'gax', 'qish', 'grel', 'eevo', 'kash', 'gaz',
+  'iqri', 'ezni', 'uku', 'lozz', 'gnee']
 
 export const generate = (minSyl = 2, maxSyl = 6, maxLen = 8)=>{
   // generates a random name with a variable max length / syllable amount
