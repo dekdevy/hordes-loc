@@ -52,28 +52,28 @@ export default {
   }],
 
   header: {
-    en: 'Sell your items',
-    de: 'Verkaufen Sie Ihre Objekte',
-    sv: 'Sälj dina föremål',
-    it: 'Vendi i tuoi oggetti',
-    fr: 'Vendre vos objets',
-    ru: 'Продать свои вещи',
-    bg: 'Продайте предметите си',
-    cs: 'Prodávejte své zboží',
-    pl: 'Sprzedawaj swoje przedmioty',
-    es: 'Vende tus articulos',
+    en: 'Sell your items.',
+    de: 'Verkaufen Sie Ihre Objekte.',
+    sv: 'Sälj dina föremål.',
+    it: 'Vendi i tuoi oggetti.',
+    fr: 'Vendre vos objets.',
+    ru: 'Продать свои вещи.',
+    bg: 'Продайте предметите си.',
+    cs: 'Prodávejte své zboží.',
+    pl: 'Sprzedawaj swoje przedmioty.',
+    es: 'Vende tus articulos.',
     hi: 'अपने आइटम बेचें',
     ko: '상품 판매',
-    tr: 'Eşyalarını sat',
-    ht: 'Vann atik ou yo',
-    tl: 'Ibenta ang iyong mga item',
-    ja: 'あなたの商品を売る',
-    el: 'Πουλήστε τα στοιχεία σας',
-    pt: 'Venda os seus itens',
-    nl: 'Verkoop je items',
-    da: 'Sælg dine varer',
+    tr: 'Eşyalarını sat.',
+    ht: 'Vann atik ou yo.',
+    tl: 'Ibenta ang iyong mga item.',
+    ja: 'あなたの商品を売る。',
+    el: 'Πουλήστε τα στοιχεία σας.',
+    pt: 'Venda os seus itens.',
+    nl: 'Verkoop je items.',
+    da: 'Sælg dine varer.',
     ro: 'Vinde-ți obiectele.',
-    zh: '賣你的物品'
+    zh: '賣你的物品。'
   },
 
   info: {
@@ -124,7 +124,7 @@ export default {
     ro: 'Prețul de vânzare: ',
     it: 'Prezzo di vendita: ',
     da: 'Salgspris: ',
-    zh: '售價：'
+    zh: '售價： '
   },
 
   buy: {
