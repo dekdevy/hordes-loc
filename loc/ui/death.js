@@ -1,27 +1,27 @@
 export default {
   death: {
-    en: 'You have died',
-    ru: 'Ты умер',
+    en: 'You have died.',
+    ru: 'Вы умер.',
     hi: 'आप मर चुके हैं',
-    es: 'Has muerto',
-    it: 'Sei morto',
-    de: 'Du bist gestorben',
-    fr: 'Vous êtes morts',
-    ko: '너 죽었다',
-    bg: 'Ти си умрял',
-    cs: 'Zemřel jsi',
-    el: 'Έχεις πεθάνει',
-    ja: 'あなたは死んだ',
-    sv: 'Du har dött',
-    tl: 'Namatay ka na',
-    tr: 'Öldün',
-    nl: 'Je bent gestorven',
-    pt: 'Você morreu',
-    pl: 'Umarłeś',
-    ht: 'Ou te mouri',
-    ro: 'Tu ai murit',
-    da: 'Du er død',
-    zh: '你死了'
+    es: 'Has muerto.',
+    it: 'Sei morto.',
+    de: 'Du bist gestorben.',
+    fr: 'Vous êtes morts.',
+    ko: '당신은 죽었습니다',
+    bg: 'Ти си умрял.',
+    cs: 'Zemřel jsi.',
+    el: 'Έχεις πεθάνει.',
+    ja: 'あなたは死んだ。',
+    sv: 'Du har dött.',
+    tl: 'Namatay ka na.',
+    tr: 'Öldün.',
+    nl: 'Je bent gestorven.',
+    pt: 'Você morreu.',
+    pl: 'Umarłeś.',
+    ht: 'Ou te mouri.',
+    ro: 'Tu ai murit.',
+    da: 'Du er død.',
+    zh: '你死了。'
   },
 
   deathmsg: {
@@ -49,10 +49,10 @@ export default {
     zh: '按下按钮可以找最近的魔术师处复活'
   },
 
-  // 'Resurrect' used in many translations
+  // 'Resurrect' is used in many translations/languages.
   respawn: {
     en: 'Respawn',
-    ru: 'Воскресить',
+    ru: 'Воскреснуть',
     hi: 'अपने आप को जीवित करें',
     es: 'Resucítate',
     it: 'Risorgere',

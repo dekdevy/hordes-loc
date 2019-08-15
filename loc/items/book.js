@@ -11,7 +11,7 @@ export default [{
   name: {$$: 'Slash'},
 
   description: {
-    en: 'Slash your enemy, striking with extra force.'
+    en: 'Slash your enemy, striking with extra force. Heals you for 10% of the damage done.'
   }
 },
 {
@@ -32,7 +32,7 @@ export default [{
   name: {$$: 'Ice bolt'},
 
   description: {
-    en: 'Fires a missile of frost towards your enemy. Reduces the cooldown of Icicle upon hitting critically by 2 seconds.'
+    en: 'Fires a missile of frost towards your enemy. Reduces the cooldown of Icicle Orb by 2 seconds.'
   }
 },
 {

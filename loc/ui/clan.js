@@ -100,6 +100,7 @@ export default {
     zh: '創建公會'
   },
 
+  // Exact punctuation as in the English description is to added to the translations.
   createinfo: {
     en: 'To create a clan you need: ',
     ru: 'Для создания клана вам нужно: ',
@@ -122,7 +123,7 @@ export default {
     ko: '당신이 필요로하는 클랜을 만들려면: ',
     ro: 'Pentru a crea un clan, ai nevoie de: ',
     da: 'At oprette en klan, du har brug for: ',
-    zh: '要創建一個公會你需要：'
+    zh: '要創建一個公會你需要： '
   },
 
   createname: {

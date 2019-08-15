@@ -287,6 +287,7 @@ export default [
 
   {
     name       : {$$: 'Yggdrasil Pendant'},
+    // Do NOT translate "World Tree" or "Yggdrasil" .
     description: {
       en: 'Twisted pieces of the enormous World Tree, Yggdrasil, were made into amulets of the most sacred kind. Sap seeps out of the amulet and is absorbed by the body for extra protection.',
       ru: 'Крученые части огромного World Tree, Yggdrasil, были сделаны в амулеты самого священного вида. Сок просачивается из амулета и поглощается телом для дополнительной защиты.',

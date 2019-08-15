@@ -22,7 +22,10 @@ Resources for first timers and git beginners
 
 ## Contributing
 
-For your first translations, please fork the repo and submit a pull request that way. If everything looks good, you will be added as a contributor.
+For your first translations, please fork the repo and submit a pull request that way. If everything looks good, you will be added as a contributor. 
+
+Make sure to read the comments and take them seriously. Do not translate placeholder texts. Do not translate unique names. If you are unsure, cross check with other translations to see whether a word is translated or not. For example, words like *party*, *clan* or *item* will generally not be translated to make sure players can communicate effectively on universal concepts within the game.
+**Please make sure to add thorough descriptions of your changes in the PR (Pull Request) text, otherwise we will likely ignore or close your PR.**
 
 New languages and translations are always welcome, so feel free to PR. The build system automatically detects new language types, and exports new files for each language type. Any language types are welcome.
 In order to contribute translations, simply add them to the respective files in the `loc/` directory.
@@ -61,7 +64,7 @@ export default {
 ```
 All strings are contained in objects that hold translations for any amount of languages. The default language will generally be `en`for English, but any language can be added. In this case, we can see the Archers name being held in the `name: { ... } `Object, and the English translation is already present.
 
-To add a translation, simply add a [ISO639-2 Language code](http://www.lingoes.net/en/translator/langcode.htm) (``en, de, fr...``) with your translation. For example, to add a German translation for the Archers name:
+To add a translation, simply add a [ISO639-2 Language code](http://www.lingoes.net/en/translator/langcode.htm) (``en, de, fr...``) with your translation. For example, to add a German translation for the Archer's name:
 ```js
   // The class name
   name: {
@@ -69,5 +72,5 @@ To add a translation, simply add a [ISO639-2 Language code](http://www.lingoes.n
     de: 'Jäger'
   }
   ```
-We do not have to add a German translation for the `descriptions` string. It is perfectly fine if the translations are incomplete, as the build system will automatically resolve the translations to English.
+We do not have to add a German translation for the `descriptions` string (You can if you want to, of course). It is perfectly fine if the translations are incomplete, as the build system will automatically resolve the translations to English.
 Commit, lint and PR, and the translation will be available in game. 

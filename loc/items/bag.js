@@ -117,7 +117,7 @@ export default [
       en: 'Woven from threads of lichen, the construction of this bag remains a mystery.',
       ru: 'Сплетенная из нитей лишайника конструкция этой сумки остается загадкой.',
       de: 'Gewebt aus Flechtenfäden, die Konstruktion dieser Tasche bleibt ein Geheimnis.',
-      es: 'Tejido de hilos de liquens, nadie entiende cómo se mantiene unido.',
+      es: 'Tejido de hilos de liquens, la construcción de esta bolsa sigue siendo un misterio.',
       fr: 'Tissé avec des fils de lichen, la confection de ce sac reste un mystère.',
       pt: 'Tecida com fios de líquen, a construção deste saco permanece um mistério.',
       it: 'Tessuto da fili di lichene, la costruzione di questa borsa rimane un mistero.',
@@ -136,7 +136,6 @@ export default [
       ro: 'Țesută din fire de licheni, construcția acestui sac rămâne un mister.',
       da: 'Vævet af tråde af lav, er opbygningen af ​​denne taske et mysterium.',
       zh: '由地衣制成，这款包包的构造仍然是一个谜。'
-      // still a little weird but idk
     }
   }
 
