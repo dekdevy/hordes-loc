@@ -1,7 +1,7 @@
 export default {
   death: {
     en: 'You have died.',
-    ru: 'Ты умер.',
+    ru: 'Вы умер.',
     hi: 'आप मर चुके हैं',
     es: 'Has muerto.',
     it: 'Sei morto.',
