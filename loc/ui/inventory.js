@@ -221,12 +221,12 @@ export default {
   },
 
   splithalf: {
-    en: 'Take half',
+    en: 'Split half',
     bg: 'Разполови'
   },
 
   splitone: {
-    en: 'Take one',
+    en: 'Split one',
     bg: 'Вземи един'
   },
 
