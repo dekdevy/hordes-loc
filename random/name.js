@@ -20,7 +20,10 @@ const syllables = ['bow', 'hamm', 'sword', 'staff', 'doom', 'flesh', 'eye', 'sou
   'fyre', 'daria', 'iraei', 'lase', 'mane', 'thera', 'dania', 'fog', 'dola', 'mydi', 'fai', 'lynn', 'lair', 'iyl', 'irius',
   'arido', 'lere', 'teria', 'vias', 'bais', 'rismo', 'ues', 'bith', 'raes', 'lieu', 'aucto', 'laude', 'deus', 'vitro',
   'tusso', 'vephie', 'mulae', 'qen', 'cill', 'tryl', 'vonth', 'morja', 'teu', 'thyn', 'taug', 'taur', 'gias', 'caen',
-  'ieze', 'brieu', 'tae', 'borne', 'selta', 'sill', 'phyre', 'theia']
+  'ieze', 'brieu', 'tae', 'borne', 'selta', 'sill', 'phyre', 'theia', 'thuen', 'maer', 'lys', 'esdye', 'niroi', 'cye',
+  'arje', 'stris', 'andro', 'dae', 'lae', 'duirn', 'rienn', 'dysra', 'than', 'tilre', 'laeth', 'ilye', 'gaia', 'dya',
+  'lanai', 'thras', 'dhar', 'raeth', 'ylla', 'raer', 'dryr', 'vaen', 'morl', 'miell', 'gley', 'iedra', 'pheia', 'dre',
+  'phae', 'thye', 'ruth', 'mir', 'sauth']
 
 export const generate = (minSyl = 2, maxSyl = 6, maxLen = 8)=>{
   // generates a random name with a variable max length / syllable amount
