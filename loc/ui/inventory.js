@@ -221,11 +221,13 @@ export default {
   },
 
   splithalf: {
-    en: 'Split half'
+    en: 'Split half',
+    ru: 'Разделить пополам'
   },
 
   splitone: {
-    en: 'Split one'
+    en: 'Split one',
+    ru: 'Отделить один'
   },
 
   spend: {
