@@ -52,7 +52,7 @@ export default {
   // 'Resurrect' is used in many translations/languages.
   respawn: {
     en: 'Respawn',
-    ru: 'Воскресить',
+    ru: 'Воскреснуть',
     hi: 'अपने आप को जीवित करें',
     es: 'Resucítate',
     it: 'Risorgere',
