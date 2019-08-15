@@ -7,7 +7,7 @@ export default {
     it: 'Sei morto',
     de: 'Du bist gestorben',
     fr: 'Vous êtes morts',
-    ko: '너 죽었다',
+    ko: '당신은 죽었습니다',
     bg: 'Ти си умрял',
     cs: 'Zemřel jsi',
     el: 'Έχεις πεθάνει',
