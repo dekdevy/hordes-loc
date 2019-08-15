@@ -6,7 +6,10 @@ import { rndArray, rndi } from 'core/math/rnd.js'
 const syllables = ['bow', 'hammer', 'sword', 'staff', 'doom', 'flesh', 'eye', 'soul', 'claw', 'lynx', 'vang', 'blood',
   'lust', 'wing', 'strong', 'gem', 'rune', 'dhai', 'morgh', 'craft', 'owl', 'reap', 'glob', 'ice','flame', 'blade',
   'ash', 'fang', 'scar', 'life', 'smith', 'drakh', 'bat', 'kar', 'daug', 'ghal', 'bird', 'myth', 'dead', 'myr', 'sau',
-  'uth', 'urg', 'our', 'rof', 'azo', 'naul', 'shauz', 'olg', 'rol', 'reol', 'piol', 'cua', 'lumo', 'thual']
+  'uth', 'urg', 'our', 'rof', 'azo', 'naul', 'shauz', 'olg', 'rol', 'reol', 'piol', 'cua', 'lumo', 'thual', 'saew', 'lith',
+  'lanc', 'heim', 'dall', 'heif', 'heria', 'milui', 'amlug', 'ber', 'dae', 'erth', 'feira', 'dema', 'khon', 'xhan', 'xhi',
+  'godh', 'rhor', 'cili', 'lenda', 'aist', 'nyel', 'nye', 'zal', 'zog', 'bhol', 'zul', 'dana', 'gun', 'arc', 'orb', 'trog',
+   'vaz', 'zedh', 'zee', 'veba']
 
 export const generate = (minSyl = 2, maxSyl = 6, maxLen = 8)=>{
   // generates a random name with a variable max length / syllable amount
