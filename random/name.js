@@ -3,8 +3,8 @@ import { rndArray, rndi } from 'core/math/rnd.js'
 // Syllables used for random player/monster name generation.
 // These are not part of the localisation Please keep the total amount of syllables at 300.
 
-const syllables = ['bow', 'hamm', 'sword', 'staff', 'doom', 'flesh', 'eye', 'soul', 'claw', 'lynx', 'vang', 'blood',
-  'lust', 'wing', 'night', 'gem', 'rune', 'dhai', 'morgh', 'craft', 'owl', 'reap', 'glob', 'ice','flame', 'blade',
+const syllables = ['bow', 'zauth', 'delra', 'staff', 'doom', 'flesh', 'eye', 'soul', 'claw', 'lynx', 'vang', 'blood',
+  'lust', 'wing', 'night', 'gem', 'rune', 'dhai', 'morgh', 'craft', 'owl', 'reap', 'glow', 'ice','flame', 'blade',
   'ash', 'fang', 'scar', 'life', 'smith', 'drakh', 'bat', 'kar', 'daug', 'ghal', 'bird', 'myth', 'dead', 'myr', 'sau',
   'uth', 'urg', 'our', 'rof', 'azo', 'naul', 'shauz', 'olg', 'rol', 'reol', 'piol', 'cua', 'lumo', 'thual', 'saew', 'lith',
   'lanc', 'heim', 'dall', 'heif', 'heria', 'milui', 'amlug', 'ber', 'dhaye', 'erth', 'feira', 'dema', 'khon', 'xhan', 'xhi',
