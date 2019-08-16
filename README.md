@@ -22,7 +22,7 @@ New languages and translations are always welcome, so feel free to make a PR. An
 In order to contribute translations, simply add them to the respective files in the `loc/` directory.
 Make sure to check the [Travis test](https://travis-ci.org/dekdevy/hordes-loc) results after you make a Pull Request to correct any errors that may pop up. Join [our Discord](https://discord.gg/E45UzeY) if you need help.
 
-If you want to check the status of any translation, simply go to [this link](https://travis-ci.org/dekdevy/hordes-loc), which informs us about translation status.
+If you want to check the status of any translation, simply go to [this link](https://travis-ci.org/dekdevy/hordes-loc), which informs us about translation status of all the languages.
 ```bash
 Detecting loc types...
   Found languages en, de
