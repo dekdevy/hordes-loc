@@ -1,19 +1,10 @@
 # hordes-loc
 [![Build Status](https://travis-ci.org/dekdevy/hordes-loc.svg?branch=master)](https://travis-ci.org/dekdevy/hordes-loc)
 
-Community driven text and localization repo for the browser game Hordes.io. This is a library of strings for all in-game texts, user interface labels, game-lore, item names & descriptions, etc.  
+Community driven text and localisation repository for the browser game Hordes.io. This is a library of strings for all in-game text, user interface labels, game lore, item descriptions, etc.  
 
 This repository is a public submodule of the [beta.hordes.io](https://beta.hordes.io) sourcecode, containing a build script to compile files found in `loc/` into individual language specific `.json` files. Translations for any respective language do not have to be complete, as the build script will fall  back to other translations (generally English) for any strings that have not been translated for the language type.
 
-## Usage
-Installation. Building requires `Node.js` & `NPM`: [nodejs.org](https://nodejs.org/)
-```bash
-npm install
-```
-Building the generator file, then compiling the languages into `dist/`
-```bash
-npm run generate
-```
 Resources for first timers and git beginners
 * [DeepL Translator](https://www.deepl.com/en/translator) - Our preferred translator
 * [Language codes](http://www.lingoes.net/en/translator/langcode.htm) - Pick language codes from here when introducing a new language. Ignore post-dash
@@ -22,16 +13,16 @@ Resources for first timers and git beginners
 
 ## Contributing
 
-For your first translations, please fork the repo and submit a pull request that way. If everything looks good, you will be added as a contributor. 
+For your first translations, please fork the repository and start editing files that way. If everything looks good, your edits will be merged into the main repository. 
 
-Make sure to read the comments and take them seriously. Do not translate placeholder texts. Do not translate unique names. If you are unsure, cross check with other translations to see whether a word is translated or not. For example, words like *party*, *clan* or *item* will generally not be translated to make sure players can communicate effectively on universal concepts within the game.
-**Please make sure to add thorough descriptions of your changes in the PR (Pull Request) text, otherwise we will likely ignore or close your PR.**
+Make sure to read the comments and take them seriously. Do not translate placeholder texts. Do not translate unique names. If you are unsure, cross check with other translations to see whether a word is translated or not. For example, words like *party*, *clan* or uniqe names like *Yggdrasil* will generally not be translated to make sure players can communicate effectively regarding the fundamental concepts of the game.
+**Please make sure to add thorough descriptions of your changes in the PR (Pull Request) and Commit descriptions, otherwise we will likely ignore or close your PR.**
 
-New languages and translations are always welcome, so feel free to PR. The build system automatically detects new language types, and exports new files for each language type. Any language types are welcome.
+New languages and translations are always welcome, so feel free to make a PR. Any language types are welcome.
 In order to contribute translations, simply add them to the respective files in the `loc/` directory.
-Make sure to lint your code before committing (`npm run lint`). Join [our Discord](https://discord.gg/E45UzeY) if you need help.
+Make sure to check the [Travis test](https://travis-ci.org/dekdevy/hordes-loc) results after you make a Pull Request to correct any errors that may pop up. Join [our Discord](https://discord.gg/E45UzeY) if you need help.
 
-If you want to check the status of any translation, simply run the build script, which informs us about translation status.
+If you want to check the status of any translation, simply go to [this link](https://travis-ci.org/dekdevy/hordes-loc), which informs us about translation status.
 ```bash
 Detecting loc types...
   Found languages en, de
@@ -42,7 +33,7 @@ Exporting...
   en -> en.json
   de -> de.json
 ```
-If you want to check which languages are missing in a file, navigate to the file name after running the build script, which informs us about missing languages in a file.
+If you want to check which languages are missing in a file, navigate to the file name in [this link](https://travis-ci.org/dekdevy/hordes-loc), which informs us about missing languages in a file.
 ```bash
 Finding missing translations...
    classes archer description → [ru, tr, es]
@@ -72,5 +63,7 @@ To add a translation, simply add a [ISO639-2 Language code](http://www.lingoes.n
     de: 'Jäger'
   }
   ```
-We do not have to add a German translation for the `descriptions` string (You can if you want to, of course). It is perfectly fine if the translations are incomplete, as the build system will automatically resolve the translations to English.
-Commit, lint and PR, and the translation will be available in game. 
+We do not have to add a German translation for the `descriptions` string (You can if you want to, of course). It is perfectly fine if the translations are incomplete, as the build system will automatically resolve the incomplete translations to English.
+Once you finished your translation, scroll down to the bottom of the page to find a button named `Commit changes`. Leave the option below as `Commit directly to the master branch` and click the button.
+Now that you're done comitting the translation, go to your fork's main page and click the button `New pull request`, add in a name for your Pull Request and click `Create Pull Request`.
+If everything went fine, your translations will be available in the game.
