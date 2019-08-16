@@ -13,7 +13,7 @@ const syllables = ['helm', 'stone', 'delra', 'void', 'doom', 'flesh', 'eye', 'so
   'woe', 'hong', 'vugz', 'zug', 'rift', 'rage', 'meph', 'max', 'gold', 'merc', 'zon', 'zvon', 'veda', 'fade', 'war', 'bound',
   'metal', 'aol', 'eal', 'xio', 'daz', 'gog', 'vat', 'heis', 'pain', 'vigo', 'ior', 'nyth', 'mydra', 'illae', 'ira', 'ida',
   'harp', 'yera', 'dusk', 'dawn', 'swift', 'luna', 'lance', 'so', 'battle', 'yae', 'yia', 'jaed', 'cyra', 'light', 'vesla',
-  'veni', 'tear', 'lach', 'bloch', 'utta', 'sys', 'frie', 'fire', 'kwyl', 'gax', 'qish', 'grel', 'eevo', 'kash', 'gaz',
+  'veni', 'tear', 'lach', 'bloch', 'utta', 'sys', 'far', 'troll', 'kwyl', 'gax', 'qish', 'grel', 'eevo', 'kash', 'gaz',
   'iqri', 'ezni', 'uku', 'lozz', 'gnee', 'jui', 'drae', 'nai', 'eua', 'ravar', 'bain', 'bane', 'wokai', 'kohm', 'demo',
   'sil', 'stag', 'elys', 'sia', 'rhya', 'rynn', 'fael', 'fyn', 'lirai', 'ciea', 'chai', 'earl', 'baro', 'volo', 'riel',
   'dryn', 'rai', 'daar', 'sea', 'star', 'amber', 'bloom', 'syl', 'lenai', 'lead', 'rya', 'tarre', 'adrae', 'rius', 'niye',
