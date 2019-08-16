@@ -3,13 +3,13 @@
 
 Community driven text and localisation repository for the browser game Hordes.io. This is a library of strings for all in-game text, user interface labels, game lore, item descriptions, etc.  
 
-This repository is a public submodule of the [beta.hordes.io](https://beta.hordes.io) sourcecode, containing a build script to compile files found in `loc/` into individual language specific `.json` files. Translations for any respective language do not have to be complete, as the build script will fall  back to other translations (generally English) for any strings that have not been translated for the language type.
+This repository is a public submodule of the [beta.hordes.io](https://beta.hordes.io) sourcecode, containing a build script to compile files found in `loc/` into individual language specific `.json` files. Translations for any respective language do not have to be complete, as the build script will fall  back to the original English text for any strings that have not been translated for the language.
 
-Resources for first timers and git beginners
-* [DeepL Translator](https://www.deepl.com/en/translator) - Our preferred translator
-* [Language codes](http://www.lingoes.net/en/translator/langcode.htm) - Pick language codes from here when introducing a new language. Ignore post-dash
+Resources for first timers and GitHub beginners
+* [DeepL Translator](https://www.deepl.com/en/translator) - Our preferred translator.
+* [Language codes](http://www.lingoes.net/en/translator/langcode.htm) - Pick language codes from here when introducing a new language. Ignore post-dash text.
 * [GitHub video tutorial](https://www.youtube.com/watch?v=0fKg7e37bQE), [GitHub guides](https://guides.github.com/)
-* [Tutorial on updating your fork](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser) - Bringing your repository up to the master's state
+* [Tutorial on updating your fork](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser) - Updating your repository to match the master's state.
 
 ## Contributing
 
