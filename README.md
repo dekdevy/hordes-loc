@@ -3,7 +3,7 @@
 
 Community driven text and localisation repository for the browser game Hordes.io. This is a library of strings for all in-game text, user interface labels, game lore, item descriptions, etc.  
 
-This repository is a public submodule of the [beta.hordes.io](https://beta.hordes.io) sourcecode, containing a build script to compile files found in `loc/` into individual language specific `.json` files (here are the [Russian](https://beta.hordes.io/assets/loc/ru.json) and [German](https://beta.hordes.io/assets/loc/de.json) files for an example). Translations for any respective language do not have to be complete, as the build script substitute the original English text for any strings that have not been translated for the language.
+This repository is a public submodule of the [beta.hordes.io](https://beta.hordes.io) sourcecode, containing a build script to compile files found in `loc/` into individual language specific `.json` files (here are the [Russian](https://beta.hordes.io/assets/loc/ru.json) and [German](https://beta.hordes.io/assets/loc/de.json) files for an example). Translations for any respective language do not have to be complete, as the build script will substitute the original English text for any strings that have not been translated for the language.
 
 Resources for first timers and GitHub beginners
 * [DeepL Translator](https://www.deepl.com/en/translator) - Our preferred translator.
