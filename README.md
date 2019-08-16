@@ -29,9 +29,11 @@ Detecting loc types...
 Compiling...
   en -> 8/8 (100%)
   de -> 5/8 (62%)
+  ru -> 4/8 (50%)
 Exporting...
   en -> en.json
   de -> de.json
+  ru -> ru.json
 ```
 If you want to check which languages are missing in a file, navigate to the file name in [this link](https://travis-ci.org/dekdevy/hordes-loc), which informs us about missing languages in a file.
 ```bash
