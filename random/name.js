@@ -18,7 +18,7 @@ const syllables = ['helm', 'stone', 'delra', 'void', 'doom', 'flesh', 'eye', 'so
   'sil', 'stag', 'elys', 'sia', 'rhya', 'rynn', 'fael', 'fyn', 'lirai', 'ciea', 'chai', 'earl', 'baro', 'volo', 'riel',
   'dryn', 'rai', 'daar', 'sea', 'star', 'amber', 'bloom', 'syl', 'lenai', 'lead', 'rya', 'tarre', 'ghob', 'rius', 'niye',
   'fyre', 'daria', 'iraei', 'lase', 'mane', 'thera', 'dania', 'fog', 'dola', 'mydi', 'fai', 'lynn', 'lair', 'iyl', 'irius',
-  'arido', 'lere', 'teria', 'vias', 'bais', 'rismo', 'ues', 'bith', 'raes', 'lieu', 'aucto', 'laude', 'deus', 'vitro',
+  'arido', 'lere', 'teria', 'vias', 'bais', 'rismo', 'ues', 'bith', 'raes', 'lieu', 'arrow', 'laude', 'deus', 'vitro',
   'tusso', 'vephie', 'mulae', 'qen', 'cill', 'tryl', 'vonth', 'morja', 'teu', 'thyn', 'taug', 'taur', 'gias', 'caen',
   'ieze', 'brieu', 'tae', 'borne', 'selta', 'sill', 'phyre', 'theia', 'thuen', 'maer', 'lys', 'marrow', 'niroi', 'cye',
   'arje', 'stris', 'andro', 'dae', 'lae', 'duirn', 'rienn', 'dysra', 'than', 'tilre', 'laeth', 'ilye', 'gaia', 'dya',
