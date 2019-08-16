@@ -47,7 +47,9 @@ const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', '
   'radiation', 'raiding', 'marauding', 'strength', 'perception', 'endurance', 'charisma', 'intelligence', 'boredom',
   'blocking', 'haste', 'speed', 'stamina', 'health', 'mana', 'immortality', 'evasion', 'regeneration', 'defense',
   'movement', 'accuracy', 'finding', 'dexterity', 'energy', 'solitude', 'heroism', 'alchemy', 'hope', 'embrassment',
-  'heresy', 'drifting', 'slipping', 'stumbling', 'falling', 'swordsmanship']
+  'heresy', 'drifting', 'slipping', 'stumbling', 'falling', 'swordsmanship', 'bravery', 'slavery', 'crime', 'advice',
+  'enlightenment', 'cowardice', 'blasphemy', 'ridiculing', 'hysteria', 'trolling', 'corruption', 'forging', 'skill',
+  'survival', 'creativity', 'fame', 'wealth', 'prosperity', 'fighting', 'marriage', 'friendship', 'shame', 'scorn']
 
 export const generate = ()=>{
   // generates a random party invite link name
