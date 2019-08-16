@@ -18,7 +18,7 @@ const adjectives = ['epic', 'rare', 'uncommon', 'common', 'trashy', 'magical', '
   'corrupted', 'tarnished', 'paranormal', 'decaying', 'soothing', 'smiling', 'butchering', 'smoking', 'advanced',
   'spritual', 'godly', 'truthful', 'untruthful', 'pixelated', 'sinful', 'snarling', 'grunting', 'timid',
   'polished', 'round', 'hexed', 'charming', 'hairy', 'berserk', 'failing', 'disgraceful', 'ultimate', 'mischievous',
-  'white', 'resurrecting',, 'disguised', 'demonic', 'ragged', 'stinging', 'noisy',
+  'white', 'resurrecting', 'disguised', 'demonic', 'ragged', 'stinging', 'noisy',
   'overpowered', 'murderous', 'victorious', 'violent', 'bloody', 'immortal', 
   'lone', 'invisible', 'infecting', 'disfunctional', 'slicing', 'shaggy',
   'piercing', 'poking', 'lazy', 'hot', 'warm', 'abusive', 'acrobatic', 'accursed', 'bewitched', 'seething', 
