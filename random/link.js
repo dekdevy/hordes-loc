@@ -4,21 +4,21 @@ import { rndArray } from 'core/math/rnd.js'
 // The format is "adjective + noun + of + goal".
 
 const adjectives = ['epic', 'rare', 'uncommon', 'common', 'trashy', 'magical', 'mystical', 'rusty', 'insane',
-  'smelly', 'hilarious', 'sad', 'depressed', 'frozen', 'dusty', 'nepharious','swinging', 'parrying', 'cheap',
-  'broken', 'repaired', 'spooky', 'glowing', 'furious', 'thunderous', 'glorious', 'swearing', 'magnificent', 
+  'smelly', 'hilarious', 'sad', 'depressed', 'frozen', 'dusty', 'nepharious', 'swinging', 'parrying', 'cheap',
+  'broken', 'repaired', 'spooky', 'glowing', 'furious', 'thunderous', 'glorious', 'swearing', 'magnificent',
   'shiny', 'orcish', 'elven', 'dwarven', 'human', 'terrifying', 'radiant', 'sparkling', 'bloodhungry', 'abandoned',
   'valiant', 'royal', 'legendary', 'divine', 'gloomy', 'scaly', 'massive', 'awkward', 'hideous', 'diamond',
   'funny', 'mighty', 'wild', 'hallowed', 'heavy', 'sly', 'sneaky', 'stretchy', 'slippery', 'emerald', 'famous',
-  'young', 'ancient', 'elderly', 'poetic', 'oily', 'ageing', 'noble', 'bleeding', 'crude', 'ghastly', 'grim', 
-  'growing', 'vile', 'disgusting', 'holy', 'radioactive', 'speedy', 'bright', 'possessed', 'teleporting', 'supreme', 
+  'young', 'ancient', 'elderly', 'poetic', 'oily', 'ageing', 'noble', 'bleeding', 'crude', 'ghastly', 'grim',
+  'growing', 'vile', 'disgusting', 'holy', 'radioactive', 'speedy', 'bright', 'possessed', 'teleporting', 'supreme',
   'augmeneted', 'embarrassing', 'cruel', 'cunning', 'glamorous', 'intricate', 'imperial', 'lethal', 'sturdy',
   'jolly', 'religious', 'drunk', 'elite', 'charismatic', 'agile', 'strong', 'stealthy', 'deadly', 'flying', 'brave',
   'corrupted', 'decaying', 'soothing', 'smiling', 'butchering', 'smoking', 'spritual', 'godly', 'pixelated', 'grunting',
   'hairy', 'berserk', 'mischievous', 'resurrecting', 'ragged', 'stinging', 'noisy', 'beautiful', 'sleeping', 'powerful',
-  'overpowered', 'murderous', 'victorious', 'violent', 'bloody', 'immortal','invisible', 'slicing', 'dangerous',
+  'overpowered', 'murderous', 'victorious', 'violent', 'bloody', 'immortal', 'invisible', 'slicing', 'dangerous',
   'piercing', 'poking', 'lazy', 'hot', 'warm', 'abusive', 'acrobatic', 'accursed', 'bewitched', 'seething', 'gorgeous',
   'pale', 'singing', 'whispering', 'revolting', 'ripe', 'romantic', 'catastrophic', 'mad', 'stinking', 'puzzling',
-  'sleek', 'skulking', 'smacking', 'spellbound', 'explosive', 'fantastic', 'hazardous', 'praying','frosted', 'peaceful',
+  'sleek', 'skulking', 'smacking', 'spellbound', 'explosive', 'fantastic', 'hazardous', 'praying', 'frosted', 'peaceful',
   'loud', 'evil', 'silken', 'humorous', 'medieval', 'metal', 'unlucky', 'chaotic', 'hollow', 'naive', 'swift', 'oozing',
   'stingy', 'tipsy', 'priceless', 'tribal', 'slav', 'fake', 'coldforged', 'lavish']
 
@@ -36,7 +36,7 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'voyage', 'odyssey', 'stronghold', 'fork', 'blight', 'book', 'script', 'scroll', 'leather', 'feather', 'spear',
   'assault', 'throne', 'mockingbird', 'bowman', 'raider', 'scout', 'officer', 'lieutenant', 'general', 'armourer',
   'ninja', 'assassin', 'tea', 'demon', 'angel', 'tooth', 'song', 'storm', 'warbow', 'missionary', 'prophet', 'tavern',
-  'skirmish', 'mutant', 'warlock','beer', 'hurricane', 'salamander', 'hostage', 'bandit', 'outlaw', 'blacksmith',
+  'skirmish', 'mutant', 'warlock', 'beer', 'hurricane', 'salamander', 'hostage', 'bandit', 'outlaw', 'blacksmith',
   'earthquake', 'chainmail', 'cobbler', 'servant', 'loot', 'sabre', 'scythe', 'squire', 'journeyman', 'dragon',
   'gnome', 'zombie', 'pickpocket', 'fletcher', 'vampire', 'usurper', 'blade', 'wind', 'raven', 'key', 'trapdoor',
   'portcullis', 'vulture', 'era', 'hound', 'hobgoblin']
