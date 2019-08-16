@@ -420,29 +420,6 @@ export default {
     ja: '在庫の幅'
   },
 
-  uiscale: {
-    en: 'Interface scale',
-    ru: 'Масштаб интерфейса',
-    hi: 'अन्तराफलक का पैमाना',
-    ro: 'Scala interfeţei',
-    pt: 'Escala de interface',
-    es: 'Escala de interfaz',
-    fr: 'Taille de l\'interface',
-    de: 'Schnittstellenwaage',
-    ko: '인터페이스 스케일',
-    nl: 'Interface schaal',
-    pl: 'Skala interfejsów',
-    sv: 'Gränssnittskala',
-    ht: 'Echèl Entèfas',
-    it: 'Scala d\'interfaccia',
-    tl: 'Scale ng interface',
-    el: 'Διαβάθμιση κλίμακας',
-    bg: 'Интерфейсен мащаб',
-    cs: 'Měřítko rozhraní',
-    ja: 'インターフェース規模',
-    da: 'Grænseflade skala'
-  },
-
   tutorial: {
     en: 'Tutorial',
     ru: 'Обучение',

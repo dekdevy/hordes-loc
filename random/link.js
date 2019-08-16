@@ -52,7 +52,7 @@ const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', '
   'heresy', 'drifting', 'slipping', 'stumbling', 'falling', 'swordsmanship', 'bravery', 'slavery', 'crime', 'advice',
   'enlightenment', 'cowardice', 'blasphemy', 'ridiculing', 'hysteria', 'trolling', 'corruption', 'forging', 'skill',
   'survival', 'creativity', 'fame', 'wealth', 'prosperity', 'fighting', 'marriage', 'friendship', 'shame', 'scorn',
-  'magic', 'might', 'guidance', 'cruelty', 'kindness', 'youth', 'elderness', 'poetry', 'lust', 'bowmanship', 'valor',
+  'magic', 'might', 'guidance', 'cruelty', 'kindness', 'youth', 'elderness', 'poetry', 'lust', 'bowmanship', 'valour',
   'vengeance', 'experience', 'dominance', 'bliss', 'vanishing', 'success', 'failure', 'positivity', 'negativity',
   'virtue', 'honour', 'foolishness', 'focusing', 'theft']
 
