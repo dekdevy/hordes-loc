@@ -31,7 +31,7 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'shadow', 'ghoul', 'pirate', 'slime', 'ogre', 'dwarf', 'cream', 'abyss', 'bowmaster', 'swordsmaster', 'thief',
   'elf', 'rock', 'water', 'juice', 'ocean', 'skull', 'organ', 'ocarina', 'legend', 'tree', 'seagull', 'albatross',
   'squid', 'platypus', 'shield', 'plan', 'band', 'cult', 'universe', 'fist', 'chest', 'shard', 'flame', 'campfire',
-  'country', 'wasteland', 'behemoth', 'lich', 'gavel', 'club', 'morningstar', 'heart', 'diamond', 'manuscript',
+  'country', 'wasteland', 'behemoth', 'lich', 'gavel', 'club', 'morningstar', 'heart', 'tauren', 'manuscript',
   'pearl', 'ruby', 'python', 'nugget', 'obsidian', 'ghost', 'gauntlet', 'greave', 'bracer', 'slingshot', 'sun',
   'voyage', 'odyssey', 'creed', 'fork', 'blight', 'book', 'script', 'scroll', 'leather', 'feather', 'spear', 'fletcher',
   'future', 'throne', 'mockingbird', 'bowman', 'raider', 'scout', 'officer', 'lieutenant', 'general', 'armourer', 'tools',
