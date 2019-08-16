@@ -24,7 +24,7 @@ const adjectives = ['epic', 'rare', 'uncommon', 'common', 'trashy', 'magical', '
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'venom', 'snake', 'literature', 'seed', 'fortress', 'lair', 'river', 'star',
-  'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
+  'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle', 'flesh', 'food', 'relic',
   'town', 'smith', 'craftsman', 'bow', 'wolf', 'pear', 'orge', 'goblin', 'orc', 'skeleton', 'spider', 'boar', 'bone',
   'raid', 'group', 'party', 'owl', 'sparrow', 'crocodile', 'god', 'ant', 'lion', 'treasure', 'gem', 'adventure',
   'crown', 'swamp', 'forest', 'breakfast', 'meal', 'shaman', 'winter', 'summer', 'spring', 'gold', 'legacy', 'sea',
@@ -37,8 +37,7 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'future', 'throne', 'mockingbird', 'bowman', 'raider', 'scout', 'officer', 'lieutenant', 'general', 'armourer', 'tools',
   'ninja', 'assassin', 'tea', 'demon', 'angel', 'tooth', 'song', 'storm', 'warbow', 'missionary', 'prophet', 'tavern',
   'skirmish', 'mutant', 'abomination','beer', 'hurricane', 'salamander', 'hostage', 'bandit', 'outlaw', 'blacksmith',
-  'earthquake', 'chainmail', 'machine', 'servant', 'loot', 'sabre', 'scythe', 'squire', 'journeyman', 'dragon',
-  'relic', 'flesh', 'food']
+  'earthquake', 'chainmail', 'machine', 'servant', 'loot', 'sabre', 'scythe', 'squire', 'journeyman', 'dragon']
 
 const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', 'misfortune', 'rage', 'joy',
   'leveling', 'vengance', 'resurrection', 'mastery', 'loss', 'flames', 'fire', 'frost', 'glory', 'war', 'sprinting',
