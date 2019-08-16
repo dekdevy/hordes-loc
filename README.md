@@ -15,7 +15,7 @@ Resources for first timers and GitHub beginners
 
 For your first translations, please fork the repository and start editing files that way. If everything looks good, your edits will be merged into the main repository. 
 
-Make sure to read the comments and take them seriously. Do not translate placeholder texts. Do not translate unique names. If you are unsure, cross check with other translations to see whether a word is translated or not. For example, words like *party*, *clan* or uniqe names like *Yggdrasil* will generally not be translated to make sure players can communicate effectively regarding the fundamental concepts of the game.
+Make sure to read the comments and take them seriously. Do not translate placeholder texts. Do not translate unique names. If you are unsure, cross-check with other translations to see whether a word is translated or not. For example, words like *party*, *clan* or uniqe names like *Yggdrasil* will generally not be translated to make sure players can communicate effectively regarding  fundamental concepts of the game.
 **Please make sure to add thorough descriptions of your changes in the PR (Pull Request) and Commit descriptions, otherwise we will likely ignore or close your PR.**
 
 New languages and translations are always welcome, so feel free to make a PR. Any language types are welcome.
