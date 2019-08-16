@@ -40,9 +40,14 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'earthquake', 'chainmail', 'blacksmith', 'servant', 'loot', 'sabre', 'scythe', 'squire', 'journeyman', 'dragon',
   'gnome', 'zombie', 'pickpocket', 'fletcher']
 
-const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', 'misfortune', 'rage', 'joy',
+const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', 'misfortune', 'rage', 'joy', 'doom',
   'leveling', 'vengance', 'resurrection', 'mastery', 'loss', 'flames', 'fire', 'frost', 'glory', 'war', 'sprinting',
-  'doom', 'love', 'archery', 'hunting', 'peace', 'failure', 'success', 'victory', 'denial', 'agility', 'despair']
+  'love', 'archery', 'hunting', 'peace', 'failure', 'success', 'victory', 'denial', 'agility', 'despair', 'ice',
+  'protection', 'cookery', 'herbalism', 'leatherworking', 'woodworking', 'literacy', 'moisturisation', 'knowledge',
+  'radiation', 'raiding', 'marauding', 'strength', 'perception', 'endurance', 'charisma', 'intelligence', 'boredom',
+  'blocking', 'haste', 'speed', 'stamina', 'health', 'mana', 'immortality', 'evasion', 'regeneration', 'defense',
+  'movement', 'accuracy', 'finding', 'dexterity', 'energy', 'solitude', 'heroism', 'alchemy', 'hope', 'embrassment',
+  'heresy', 'drifting', 'slipping', 'stumbling', 'falling', 'swordsmanship']
 
 export const generate = ()=>{
   // generates a random party invite link name
