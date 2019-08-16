@@ -37,12 +37,12 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'assault', 'throne', 'mockingbird', 'bowman', 'raider', 'scout', 'officer', 'lieutenant', 'general', 'armourer',
   'ninja', 'assassin', 'tea', 'demon', 'angel', 'tooth', 'song', 'storm', 'warbow', 'missionary', 'prophet', 'tavern',
   'skirmish', 'mutant', 'warlock','beer', 'hurricane', 'salamander', 'hostage', 'bandit', 'outlaw', 'blacksmith',
-  'earthquake', 'chainmail', 'blacksmith', 'servant', 'loot', 'sabre', 'scythe', 'squire', 'journeyman', 'dragon',
+  'earthquake', 'chainmail', 'cobbler', 'servant', 'loot', 'sabre', 'scythe', 'squire', 'journeyman', 'dragon',
   'gnome', 'zombie', 'pickpocket', 'fletcher']
 
 const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', 'misfortune', 'rage', 'joy', 'doom',
   'leveling', 'vengance', 'resurrection', 'mastery', 'loss', 'flames', 'fire', 'frost', 'glory', 'war', 'sprinting',
-  'love', 'archery', 'hunting', 'peace', 'failure', 'success', 'victory', 'denial', 'agility', 'despair', 'ice',
+  'love', 'archery', 'hunting', 'peace', 'depression', 'binding', 'victory', 'denial', 'agility', 'despair', 'ice',
   'protection', 'cookery', 'herbalism', 'leatherworking', 'woodworking', 'literacy', 'moisturisation', 'knowledge',
   'radiation', 'raiding', 'marauding', 'strength', 'perception', 'endurance', 'charisma', 'intelligence', 'boredom',
   'blocking', 'haste', 'speed', 'stamina', 'health', 'mana', 'immortality', 'evasion', 'regeneration', 'defense',
