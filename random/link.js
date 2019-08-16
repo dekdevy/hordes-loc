@@ -24,11 +24,10 @@ const adjectives = ['epic', 'rare', 'uncommon', 'common', 'trashy', 'magical', '
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'venom', 'snake', 'literature', 'seed', 'fortress', 'lair', 'river', 'star',
-  'sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn', 'sea',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
   'town', 'smith', 'craftsman', 'bow', 'wolf', 'pear', 'orge', 'goblin', 'orc', 'skeleton', 'spider', 'boar', 'bone',
   'raid', 'group', 'party', 'owl', 'sparrow', 'crocodile', 'god', 'ant', 'lion', 'treasure', 'gem', 'adventure',
-  'crown', 'swamp', 'forest', 'breakfast', 'meal', 'shaman', 'winter', 'summer', 'spring', 'gold', 'legacy',
+  'crown', 'swamp', 'forest', 'breakfast', 'meal', 'shaman', 'winter', 'summer', 'spring', 'gold', 'legacy', 'sea',
   'shadow', 'ghoul', 'pirate', 'slime', 'ogre', 'dwarf', 'cream', 'abyss', 'bowmaster', 'swordsmaster', 'thief',
   'elf', 'rock', 'water', 'juice', 'ocean', 'skull', 'organ', 'ocarina', 'legend', 'tree', 'seagull', 'albatross',
   'squid', 'platypus', 'shield', 'plan', 'band', 'cult', 'universe', 'fist', 'chest', 'shard', 'flame', 'campfire',
