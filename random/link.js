@@ -38,7 +38,8 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'ninja', 'assassin', 'tea', 'demon', 'angel', 'tooth', 'song', 'storm', 'warbow', 'missionary', 'prophet', 'tavern',
   'skirmish', 'mutant', 'warlock','beer', 'hurricane', 'salamander', 'hostage', 'bandit', 'outlaw', 'blacksmith',
   'earthquake', 'chainmail', 'cobbler', 'servant', 'loot', 'sabre', 'scythe', 'squire', 'journeyman', 'dragon',
-  'gnome', 'zombie', 'pickpocket', 'fletcher']
+  'gnome', 'zombie', 'pickpocket', 'fletcher', 'vampire', 'usurper', 'blade', 'wind', 'raven', 'key', 'trapdoor',
+  'portcullis', 'vulture', 'era', 'hound', 'hobgoblin']
 
 const goals = ['slaying', 'wisdom', 'destruction', 'death', 'healing', 'luck', 'misfortune', 'rage', 'joy', 'doom',
   'leveling', 'vengance', 'resurrection', 'mastery', 'loss', 'flames', 'fire', 'frost', 'glory', 'war', 'sprinting',
