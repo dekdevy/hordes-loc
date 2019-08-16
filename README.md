@@ -45,21 +45,24 @@ Lets say we want to add a German translation to some of the strings for the Arch
 export default {
   // The class name
   name: {
-    en: 'Archer'
+    en: 'Archer',
+    ru: 'Лучник'
   },
   // Class description, visible during character creation
   description: {
-    en: 'Archers deal high single target damage and bursty ...',
+    en: 'Archers deal high single target damage and bursty...',
+    ru: 'Лучники наносят высокий урон по одиночной цели и...'
   }
 }
 ```
-All strings are contained in objects that hold translations for any amount of languages. The default language will generally be `en`for English, but any language can be added. In this case, we can see the Archers name being held in the `name: { ... } `Object, and the English translation is already present.
+All strings are contained in objects that hold translations for any amount of languages. The default language will generally be `en`for English, but any language can be added. In this case, we can see the Archers name being held in the `name: { ... } `object, and the Russian translation is already present, along with the original English text.
 
 To add a translation, simply add a [ISO639-2 Language code](http://www.lingoes.net/en/translator/langcode.htm) (``en, de, fr...``) with your translation. For example, to add a German translation for the Archer's name:
 ```js
   // The class name
   name: {
     en: 'Archer',
+    ru: 'Лучник',
     de: 'Jäger'
   }
   ```
