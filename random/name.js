@@ -5,7 +5,7 @@ import { rndArray, rndi } from 'core/math/rnd.js'
 
 const syllables = ['helm', 'stone', 'delra', 'void', 'doom', 'flesh', 'eye', 'soul', 'claw', 'lynx', 'vang', 'blood',
   'lust', 'wing', 'night', 'dread', 'rune', 'dhai', 'morgh', 'craft', 'owl', 'reap', 'glow', 'ice', 'flame', 'blade',
-  'ash', 'fang', 'scar', 'life', 'smith', 'drakh', 'bat', 'kar', 'daug', 'ghal', 'bird', 'myth', 'dead', 'myr', 'sau',
+  'ash', 'fang', 'scar', 'life', 'smith', 'drakh', 'bat', 'kar', 'daug', 'ghal', 'bird', 'myth', 'qua', 'myr', 'sau',
   'uth', 'urg', 'our', 'rof', 'azo', 'naul', 'shauz', 'olg', 'rol', 'reol', 'piol', 'cua', 'lumo', 'thual', 'saew', 'lith',
   'lanc', 'heim', 'dall', 'heif', 'heria', 'milui', 'amlug', 'ber', 'dhaye', 'erth', 'feira', 'dema', 'khon', 'xhan', 'xhi',
   'godh', 'rhor', 'cili', 'lenda', 'aist', 'nyel', 'nye', 'zal', 'zog', 'bhol', 'zul', 'dana', 'gun', 'arc', 'orb', 'trog',
