@@ -16,7 +16,7 @@ const syllables = ['helm', 'stone', 'delra', 'void', 'doom', 'flesh', 'eye', 'so
   'veni', 'tear', 'lach', 'bloch', 'utta', 'sys', 'far', 'troll', 'kwyl', 'gax', 'qish', 'grel', 'eevo', 'kash', 'gaz',
   'iqra', 'ezni', 'uku', 'lozz', 'gnee', 'jui', 'drae', 'nai', 'eua', 'ravar', 'bain', 'bane', 'moss', 'kohm', 'demo',
   'sil', 'stag', 'elys', 'sia', 'rhya', 'rynn', 'fael', 'fyn', 'lirai', 'ciea', 'chai', 'earl', 'baro', 'volo', 'riel',
-  'dryn', 'rai', 'daar', 'sea', 'star', 'amber', 'bloom', 'syl', 'lenai', 'lead', 'rya', 'tarre', 'adrae', 'rius', 'niye',
+  'dryn', 'rai', 'daar', 'sea', 'star', 'amber', 'bloom', 'syl', 'lenai', 'lead', 'rya', 'tarre', 'ghob', 'rius', 'niye',
   'fyre', 'daria', 'iraei', 'lase', 'mane', 'thera', 'dania', 'fog', 'dola', 'mydi', 'fai', 'lynn', 'lair', 'iyl', 'irius',
   'arido', 'lere', 'teria', 'vias', 'bais', 'rismo', 'ues', 'bith', 'raes', 'lieu', 'aucto', 'laude', 'deus', 'vitro',
   'tusso', 'vephie', 'mulae', 'qen', 'cill', 'tryl', 'vonth', 'morja', 'teu', 'thyn', 'taug', 'taur', 'gias', 'caen',
