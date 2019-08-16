@@ -7,7 +7,7 @@ const adjectives = ['epic', 'rare', 'uncommon', 'common', 'trashy', 'magical', '
   'smelly', 'moisturising', 'hilarious', 'sad', 'depressing', 'frozen', 'fresh', 'fast', 'slow', 'mean', 'nice', 'cold',
   'hot', 'broken', 'refurbished', 'repaired', 'spooky', 'glowing', 'dying', 'furious', 'thunderous', 'glorious', 'impish',
   'shiny', 'orcish', 'elven', 'dwarven', 'human', 'ghoulish', 'ghostly', 'terrifying', 'radiant', 'sparkling', 'wet',
-  'valiant']
+  'valiant', 'brilliant']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff']
