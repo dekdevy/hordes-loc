@@ -3,9 +3,9 @@ import { rndArray } from 'core/math/rnd.js'
 // Words for the random party link generator.
 // The format is "adjective + noun + of + goal".
 
-const adjectives = ['epic', 'rare', 'uncommon', 'common', 'trashy', 'magical', 'poisining', 'mystical', 'rusty', 'insane',
-  'smelly', 'moisturising', 'hilarious', 'sad', 'depressing', 'frozen',
-  'broken', 'refurbished', 'repaired', 'spooky', 'glowing', 'dying', 'furious', 'thunderous', 'glorious', 'impish',
+const adjectives = ['epic', 'rare', 'uncommon', 'common', 'trashy', 'magical', 'mystical', 'rusty', 'insane',
+  'smelly', 'hilarious', 'sad', 'depressed', 'frozen', 'dusty',
+  'broken', 'repaired', 'spooky', 'glowing', 'furious', 'thunderous', 'glorious',
   'shiny', 'orcish', 'elven', 'dwarven', 'human', 'terrifying', 'radiant', 'sparkling',
   'valiant', 'brilliant', 'royal', 'legendary', 'divine', 'gloomy',
   'funny', 'mighty', 'wild', 'hallowed', 'heavy', 'sly', 'sneaky', 'stretchy', 'slippery',
@@ -17,17 +17,14 @@ const adjectives = ['epic', 'rare', 'uncommon', 'common', 'trashy', 'magical', '
   'polished', 'charming', 'hairy', 'berserk', 'mischievous', 'resurrecting', 'disguised', 'ragged', 'stinging', 'noisy',
   'overpowered', 'murderous', 'victorious', 'violent', 'bloody', 'immortal','invisible', 'slicing',
   'piercing', 'poking', 'lazy', 'hot', 'warm', 'abusive', 'acrobatic', 'accursed', 'bewitched', 'seething', 
-  'pale', 'singing', 'whispering', 'revolting', 'ripe', 'romantic', 
+  'pale', 'singing', 'whispering', 'revolting', 'ripe', 'romantic', 'catastrophic', 'mad', 'stinking', 'puzzling'
   'sleek', 'skulking', 'smacking', 'spellbound', 'explosive', 'fantastic', 'hazardous', 'praying','frosted',
-  'lame', 'loud', 'evil', 'blissful', 'vampiric', 'silk', 'yelping', 'humorous', 'medieval', 'hypnotic', 'metal', 'unlucky',
-  'chaotic', 'hollow', 'naive', 'swift', 'oozing', 'catastrophic',
-  'ratty', 'stingy', 'tipsy', 'priceless', 'satanic', 'tribal', 'thieving', 'albino', 'alien', 'slav', 'fake',
-  'coldforged', 'lavish', 'abandoned', 'gorgeous', 'dusty',
-  'cheap', 'expensive', 'benevolent', 'flourishing', 'supreme', 'superior',
+  'loud', 'evil', 'silken', 'humorous', 'medieval', 'metal', 'unlucky', 'chaotic', 'hollow', 'naive', 'swift', 'oozing',
+  'stingy', 'tipsy', 'priceless', 'tribal', 'thieving', 'slav', 'fake', 'coldforged', 'lavish', 'abandoned', 'gorgeous',
+  'cheap', 'expensive', 'benevolent', 'flourishing', 'supreme', 'superior', 'woody', 'peaceful'
   'diamond', 'magnificent', 'bloodhungry', 'tearing', 'bursting', 'furry', 'powerful', 'dangerous', 'awkward',
-  'beautiful', 'sleeping', 'hideous', 'awful', 'humble', 'itchy', 'grim', 'emerald', 'famous',
-  'swearing', 'swinging', 'oniony', 'parrying', 'nepharious', 'scaly', 'icy', 'snowy', 'spherical', 'massive',
-  'dark', 'woody', 'peaceful', 'mad', 'stinking', 'puzzling']
+  'beautiful', 'sleeping', 'hideous', 'awful', 'humble', 'itchy', 'grim', 'emerald', 'famous', 'dark'
+  'swearing', 'swinging', 'oniony', 'parrying', 'nepharious', 'scaly', 'icy', 'snowy', 'spherical', 'massive']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'venom']
