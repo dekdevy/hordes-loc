@@ -38,7 +38,7 @@ Exporting...
 If you want to check which languages are missing in a file, navigate to the file name in [this link](https://travis-ci.org/dekdevy/hordes-loc), which informs us about missing languages in a file.
 ```bash
 Finding missing translations...
-   classes archer description → [ru, tr, es]
+   classes archer description → [de, tr, es]
 ```
 ### Examples
 Lets say we want to add a German translation to some of the strings for the Archer class. We navigate to `loc/classes/archer.js`, and find: 
