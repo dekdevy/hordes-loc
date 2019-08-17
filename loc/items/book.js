@@ -209,5 +209,12 @@ export default [{
   description: {
     en: 'Your Precise Shot applies a poisonous Debuff on hit.'
   }
+},
+{
+  name: {$$: 'Healing Totem'},
+
+  description: {
+    en: 'Place a totem on the ground healing your entire party temporarily.'
+  }
 }
 ]
