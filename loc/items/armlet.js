@@ -270,7 +270,7 @@ export default [
     description: {
       en: 'Stars are not often black, yet this fragment has a... deep... deep darkness.',
       ru: 'Звезды не часто черны, но этот фрагмент имеет... глубокую... глубокую тьму.',
-      es: 'Normalmente, las estrellas no son negras, pero eso trozo tiene un intenso... intenso... oscuridad.',
+      es: 'Normalmente, las estrellas no son negras, pero eso trozo tiene una intensa... intensa... oscuridad.',
       fr: 'Les étoiles ne sont pas souvent noires, mais ce fragment a une... très... très profonde obscurité.',
       de: 'Sterne sind nicht oft schwarz, aber dieses Fragment hat eine... tiefe... tiefe... tiefe Dunkelheit.',
       pt: 'As estrelas não são normalmente negras, mas este fragmento tem uma... profunda... profunda escuridão.',
