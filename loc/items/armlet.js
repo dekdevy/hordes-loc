@@ -216,7 +216,7 @@ export default [
     description: {
       en: 'The ancient golems left remnants of their passing, which you unscrupulously have decided to wear on your arm.',
       ru: 'Древние големы оставили остатки своих похождений, которые вы бессовестно решили надеть на руку.',
-      es: 'Los golems antiguos dejaron restos de su paso, que sin escrúpulos ha decido llevar en su brazo.',
+      es: 'Los golems antiguos dejaron restos de su paso, que sin escrúpulos ha decidido llevar en su brazo.',
       fr: 'Les géants anciens ont laissé des restes de leur passage, que vous avez sans scrupule décidé de porter sur votre bras.',
       de: 'Die alten Golems hinterließen Überreste ihres Ablebens, die du skrupellos auf deinem Arm getragen hast.',
       pt: 'Os antigos gigantes deixaram vestígios de sua passagem, que você, sem escrúpulos, decidiu usar em seu braço.',
