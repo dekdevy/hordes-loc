@@ -82,7 +82,7 @@ export default [
     description: {
       en: 'Elegant cuffs made from the tusks of the last mammoth.',
       ru: 'Элегантные наручники, сделаные из бивней последнего мамонта.',
-      es: 'Unos puños elegantes creados con el comillo del mamut final.',
+      es: 'Unos puños elegantes creados con el colmillo del mamut final.',
       fr: 'Menottes élégant fait à partir des défenses du dernier mammouth.',
       de: 'Elegante Manschetten aus den Stoßzähnen des letzten Mammuts.',
       pt: 'Elegantes algemas feitas das presas do último mamute.',
