@@ -429,7 +429,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Harbringer' },
+    name       : {$$: 'Harbinger' },
     description: {
       en: 'This weapon brings about the coming of a new age.',
       ru: 'Это оружие вызывает наступление новой эры.',
