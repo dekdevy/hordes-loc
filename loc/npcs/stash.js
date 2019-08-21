@@ -1,8 +1,8 @@
 export default {
   interactions: [{
     text: {
-      en: 'Yes, I\'m a talking chest, I can see the question forming on your lips already. Many years have I served royal families, storing their priceless gems and jewels, only for me to be placed in this filthy campsite to cater for your petty needs. Anyhow, throw in what you need stored and I\'ll oversee its protection. Make sure you have some nice insurance though, I can\'t guarantee what state you\'ll get the items back in.',
-      ru: 'Да, я говорящий сундук, я уже вижу как вопрос формируется на ваших губах. Много лет я служил королевским семьям, хранил их бесценные драгоценности, только для того, чтобы меня отправили в этот грязный лагерь для удовлетворения ваших мелочных потребностей. Как бы то ни было, бросай то, что тебе нужно сохранить, и я буду следить за этим. Убедитесь, что у вас есть хорошая страховка, потому что я не могу гарантировать, в каком состоянии вы получите вещи обратно.'
+      en: 'Yes, I\'m a talking chest, I can see the question forming on your lips already. Many years have I served royal families, storing their priceless gems and jewels, only for me to be placed in this filthy campsite to cater for your petty needs. Anyhow, would you like me to offer you my services? Make sure you have some nice insurance though, I can\'t guarantee what state you\'ll get the items back in.',
+      ru: 'Да, я говорящий сундук, я уже вижу как вопрос формируется на ваших губах. Много лет я служил королевским семьям, хранил их бесценные драгоценности, только для того, чтобы меня отправили в этот грязный лагерь для удовлетворения ваших мелочных потребностей. Как бы то ни было, Вы хотите, чтобы я предложил вам свои услуги? Убедитесь, что у вас есть хорошая страховка, потому что я не могу гарантировать, в каком состоянии вы получите вещи обратно.'
     },
 
     choices: [{
