@@ -25,7 +25,7 @@ const adjectives = ['epic', 'rare', 'uncommon', 'common', 'trashy', 'magical', '
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'venom', 'snake', 'literature', 'seed', 'fortress', 'lair', 'river', 'star',
-  'bear', 'banana', 'apple', 'boots', 'armour', 'helmet', 'tower', 'forge', 'castle', 'flesh', 'food', 'relic',
+  'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle', 'flesh', 'food', 'relic',
   'town', 'smith', 'craftsman', 'bow', 'wolf', 'pear', 'orge', 'goblin', 'orc', 'skeleton', 'spider', 'boar', 'bone',
   'raid', 'group', 'party', 'owl', 'sparrow', 'crocodile', 'god', 'ant', 'lion', 'treasure', 'gem', 'adventure',
   'crown', 'swamp', 'forest', 'breakfast', 'meal', 'shaman', 'winter', 'summer', 'spring', 'gold', 'legacy', 'sea',
@@ -35,7 +35,7 @@ const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'arche
   'country', 'wasteland', 'behemoth', 'lich', 'gavel', 'club', 'morningstar', 'heart', 'tauren', 'manuscript',
   'pearl', 'ruby', 'python', 'nugget', 'obsidian', 'ghost', 'gauntlet', 'greaves', 'bracer', 'slingshot', 'sun',
   'voyage', 'odyssey', 'stronghold', 'fork', 'blight', 'book', 'script', 'scroll', 'leather', 'feather', 'spear',
-  'assault', 'throne', 'mockingbird', 'bowman', 'raider', 'scout', 'officer', 'lieutenant', 'general', 'armourer',
+  'assault', 'throne', 'mockingbird', 'bowman', 'raider', 'scout', 'officer', 'lieutenant', 'general', 'armorer',
   'ninja', 'assassin', 'tea', 'demon', 'angel', 'tooth', 'song', 'storm', 'warbow', 'missionary', 'prophet', 'tavern',
   'skirmish', 'mutant', 'warlock', 'beer', 'hurricane', 'salamander', 'hostage', 'bandit', 'outlaw', 'blacksmith',
   'earthquake', 'chainmail', 'cobbler', 'servant', 'loot', 'sabre', 'scythe', 'squire', 'journeyman', 'dragon',
