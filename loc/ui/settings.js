@@ -152,6 +152,10 @@ export default {
     zh: '解析度'
   },
 
+  postprocessing: {
+    en: 'Post-processing'
+  }
+
   skilleffects: {
     en: 'Skill effects',
     ru: 'Эффекты навыков',
