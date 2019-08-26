@@ -154,7 +154,7 @@ export default {
 
   postprocessing: {
     en: 'Post-processing'
-  }
+  },
 
   skilleffects: {
     en: 'Skill effects',
