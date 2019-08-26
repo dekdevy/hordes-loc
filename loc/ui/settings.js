@@ -153,7 +153,9 @@ export default {
   },
 
   postprocessing: {
-    en: 'Post-processing'
+    en: 'Post-processing',
+    de: 'Nachbearbeitung',
+    ru: 'Постобработка'
   },
 
   skilleffects: {
