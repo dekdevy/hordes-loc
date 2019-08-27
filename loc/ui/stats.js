@@ -1,4 +1,7 @@
-// Dont translate any of these for now, i need to figure out best lengths first
+// - - - IMPORTANT - - - 
+// Please use typical RPG translations. Look into DND if unsure. MP / HP and the likes are very likely untouched in most languages
+// ** DO NOT MAKE TRANSLATIONS 1-2 CHARS LONGER THAN THE ENGLISH VERSION OR THE PR WILL BE DECLINED **
+
 export default {
 
   misc: {
@@ -50,11 +53,11 @@ export default {
     },
 
     {
-      en: 'Min Damage'
+      en: 'Min Dmg.'
     },
 
     {
-      en: 'Max Damage'
+      en: 'Max Dmg.'
     },
 
     {
@@ -78,7 +81,7 @@ export default {
     },
 
     {
-      en: 'Move Speed'
+      en: 'Move Spd.'
     },
 
     {
@@ -86,7 +89,7 @@ export default {
     },
 
     {
-      en: 'Attack Speed'
+      en: 'Attack Spd.'
     },
 
     {
@@ -110,7 +113,7 @@ export default {
     },
 
     {
-      en: '% Increased Damage'
+      en: '% Increased Dmg.'
     },
 
     {
@@ -118,7 +121,7 @@ export default {
     },
 
     {
-      en: '% Movement Speed Reduction'
+      en: '% Movement Spd. Reduction'
     }
   ]
 }
