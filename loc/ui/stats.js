@@ -1,4 +1,4 @@
-// - - - IMPORTANT - - - 
+// - - - IMPORTANT - - -
 // Please use typical RPG translations. Look into DND if unsure. MP / HP and the likes are very likely untouched in most languages
 // ** DO NOT MAKE TRANSLATIONS 1-2 CHARS LONGER THAN THE ENGLISH VERSION OR THE PR WILL BE DECLINED **
 
