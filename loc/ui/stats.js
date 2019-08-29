@@ -43,24 +43,19 @@ export default {
     },
 
     {
-      en: 'HP',
-      fr: 'PV'
+      $$: 'HP'
     },
 
     {
-      en: 'MP',
-      fr: 'MP'
+      $$: 'MP'
     },
 
     {
-      en: 'HP Reg./5s',
-      fr: 'Pv Reg./5s'
+      $$: 'HP Reg./5s'
     },
 
     {
-      en: 'MP Reg./5s',
-      fr: 'MP Reg./5s'
-
+      $$: 'MP Reg./5s'
     },
 
     {
