@@ -43,22 +43,6 @@ export default {
     },
 
     {
-      $$: 'HP'
-    },
-
-    {
-      $$: 'MP'
-    },
-
-    {
-      $$: 'HP Reg./5s'
-    },
-
-    {
-      $$: 'MP Reg./5s'
-    },
-
-    {
       en: 'Min Dmg.'
     },
 
@@ -133,6 +117,22 @@ export default {
     {
       en: '% Movement Spd. Reduction',
       fr: '% Vitesse réduction'
+    },
+
+    {
+      $$: 'HP'
+    },
+
+    {
+      $$: 'MP'
+    },
+
+    {
+      $$: 'HP Reg./5s'
+    },
+
+    {
+      $$: 'MP Reg./5s'
     }
   ]
 }
