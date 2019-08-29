@@ -6,22 +6,26 @@ export default {
 
   misc: {
     damage: {
-      en: 'Damage'
+      en: 'Damage',
+      fr: 'Dégat'
     }
   },
 
   array: [
 
     {
-      en: 'Strength'
+      en: 'Strength',
+      fr: 'Force'
     },
 
     {
-      en: 'Stamina'
+      en: 'Stamina',
+      fr: 'Ténacité'
     },
 
     {
-      en: 'Dexterity'
+      en: 'Dexterity',
+      fr: 'Dextérité'
     },
 
     {
@@ -29,27 +33,34 @@ export default {
     },
 
     {
-      en: 'Wisdom'
+      en: 'Wisdom',
+      fr: 'Sagesse'
     },
 
     {
-      en: 'Luck'
+      en: 'Luck',
+      fr: 'Chance'
     },
 
     {
-      en: 'HP'
+      en: 'HP',
+      fr: 'PV'
     },
 
     {
-      en: 'MP'
+      en: 'MP',
+      fr: 'MP'
     },
 
     {
-      en: 'HP Reg./5s'
+      en: 'HP Reg./5s',
+      fr: 'Pv Reg./5s'
     },
 
     {
-      en: 'MP Reg./5s'
+      en: 'MP Reg./5s',
+      fr: 'MP Reg./5s'
+
     },
 
     {
@@ -61,7 +72,8 @@ export default {
     },
 
     {
-      en: 'Defense'
+      en: 'Defense',
+      fr: 'Défense'
     },
 
     {
@@ -73,7 +85,8 @@ export default {
     },
 
     {
-      en: 'Accuracy'
+      en: 'Accuracy',
+      fr: 'Précision'
     },
 
     {
@@ -81,7 +94,8 @@ export default {
     },
 
     {
-      en: 'Move Spd.'
+      en: 'Move Spd.',
+      fr: 'Vitesse'
     },
 
     {
@@ -113,7 +127,8 @@ export default {
     },
 
     {
-      en: '% Increased Dmg.'
+      en: '% Increased Dmg.',
+      fr: '% Dégat Augmenté'
     },
 
     {
@@ -121,7 +136,8 @@ export default {
     },
 
     {
-      en: '% Movement Spd. Reduction'
+      en: '% Movement Spd. Reduction',
+      fr: '% Vitesse réduction'
     }
   ]
 }
