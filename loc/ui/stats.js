@@ -24,7 +24,7 @@ export default {
       en: 'Stamina',
       fr: 'Ténacité',
       ru: 'Стойкость'
-    },
+    }, 
 
     {
       en: 'Dexterity',
@@ -81,12 +81,12 @@ export default {
 
     {
       en: 'Block'
-//    ru: 'Блокировка'
+      // ru: 'Блокировка'
     },
 
     {
       en: 'Evade'
-//    ru: 'Уклонение'
+      // ru: 'Уклонение'
     },
 
     {
@@ -111,7 +111,7 @@ export default {
 
     {
       en: 'Attack Spd.'
-//    ru: 'Скорость атаки'
+     // ru: 'Скорость атаки'
     },
 
     {
@@ -120,7 +120,7 @@ export default {
 
     {
       en: 'Bag Slots'
-//    ru: 'Слоты в сумки'
+      // ru: 'Слоты в сумки'
     },
 
     {
@@ -141,7 +141,7 @@ export default {
     {
       en: '% Increased Dmg.',
       fr: '% Dégat Augmenté'
-//    ru: '% Увеличенного урона'
+      // ru: '% Увеличенного урона'
     },
 
     {
