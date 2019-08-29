@@ -34,7 +34,7 @@ export default {
 
     {
       en: 'Wisdom',
-      fr: 'Sagesse' 
+      fr: 'Sagesse'
     },
 
     {
