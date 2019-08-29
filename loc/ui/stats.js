@@ -7,7 +7,7 @@ export default {
   misc: {
     damage: {
       en: 'Damage',
-      fr: 'Dégat'
+      fr: 'Dommage'
     }
   },
 
