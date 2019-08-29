@@ -7,7 +7,8 @@ export default {
   misc: {
     damage: {
       en: 'Damage',
-      fr: 'Dommage'
+      fr: 'Dommage',
+      ru: 'Урон'
     }
   },
 
@@ -15,31 +16,37 @@ export default {
 
     {
       en: 'Strength',
-      fr: 'Force'
+      fr: 'Force',
+      ru: 'Сила'
     },
 
     {
       en: 'Stamina',
-      fr: 'Ténacité'
+      fr: 'Ténacité',
+      ru: 'Стойкость'
     },
 
     {
       en: 'Dexterity',
-      fr: 'Dextérité'
+      fr: 'Dextérité',
+      ru: 'Ловкость'
     },
 
     {
-      en: 'Intelligence'
+      en: 'Intelligence',
+      ru: 'Интеллект'
     },
 
     {
       en: 'Wisdom',
-      fr: 'Sagesse'
+      fr: 'Sagesse',
+      ru: 'Мудрость'
     },
 
     {
       en: 'Luck',
-      fr: 'Chance'
+      fr: 'Chance',
+      ru: 'Удача'
     },
 
     {
@@ -68,20 +75,24 @@ export default {
 
     {
       en: 'Defense',
-      fr: 'Défense'
+      fr: 'Défense',
+      ru: 'Защита'
     },
 
     {
       en: 'Block'
+//    ru: 'Блокировка'
     },
 
     {
       en: 'Evade'
+//    ru: 'Уклонение'
     },
 
     {
       en: 'Accuracy',
-      fr: 'Précision'
+      fr: 'Précision',
+      ru: 'Точность'
     },
 
     {
@@ -90,7 +101,8 @@ export default {
 
     {
       en: 'Move Spd.',
-      fr: 'Vitesse'
+      fr: 'Vitesse',
+      ru: 'Скорость'
     },
 
     {
@@ -99,6 +111,7 @@ export default {
 
     {
       en: 'Attack Spd.'
+//    ru: 'Скорость атаки'
     },
 
     {
@@ -107,23 +120,28 @@ export default {
 
     {
       en: 'Bag Slots'
+//    ru: 'Слоты в сумки'
     },
 
     {
-      en: 'Fame'
+      en: 'Fame',
+      ru: 'Слава'
     },
 
     {
-      en: 'Stat Points'
+      en: 'Stat Points',
+      ru: 'Очки статоб'
     },
 
     {
-      en: 'Skill Points'
+      en: 'Skill Points',
+      ru: 'Очки скилов'
     },
 
     {
       en: '% Increased Dmg.',
       fr: '% Dégat Augmenté'
+//    ru: '% Увеличенного урона'
     },
 
     {
@@ -132,7 +150,8 @@ export default {
 
     {
       en: '% Movement Spd. Reduction',
-      fr: '% Vitesse réduction'
+      fr: '% Vitesse réduction',
+      ru: '% Cнижения скорости движения'
     }
   ]
 }
