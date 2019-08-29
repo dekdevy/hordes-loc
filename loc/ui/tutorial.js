@@ -1,3 +1,4 @@
+// Work in progress, do not translate
 export default {
   msg: [
     {en: 'Welcome! Press W A S D or ⭠ ⭢ ⭡ ⭣ to move.'},
@@ -21,7 +22,7 @@ export default {
     {en: 'You have leveled up and earned stat points. Open your character panel again.'},
     {en: 'Stat points can be used to increase your primary stats. Hover over the buttons to preview their effects, then use your stat points.'},
     {en: 'Next, we will teach you how to learn new skills. First, level up until you unlock a new skill.'},
-    {en: 'A new skill is available. You need to use skillbooks to learn new spells. Walk back and talk to the trader.'},
+    {en: 'A new skill is available. You need to use books to learn new skills. Walk back and talk to the trader.'},
     {en: 'The trader will sell books for Lv. 1 skills. Find the skill you unlocked and buy the book for it.'},
     {en: 'Once you have the book, open your inventory, right-click the book and press "use item" to learn it.'},
     {en: 'Skillful. Open your skill panel (K) to see an overview of your skills.'},
