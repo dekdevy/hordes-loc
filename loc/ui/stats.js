@@ -34,7 +34,7 @@ export default {
 
     {
       en: 'Wisdom',
-      fr: 'Sagesse' 
+      fr: 'Sagesse'
     },
 
     {
@@ -127,7 +127,8 @@ export default {
     },
 
     {
-      en: '% Increased Dmg.'
+      en: '% Increased Dmg.',
+      fr: '% Dégat Augmenté'
     },
 
     {
