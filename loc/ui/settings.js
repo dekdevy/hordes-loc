@@ -476,6 +476,7 @@ export default {
 
   disabletutorial: {
     en: 'Disable tutorial',
-    ru: 'Отключить обучения'
+    ru: 'Отключить обучения',
+    tr: 'Öğreticiyi kapat'
   }
 }
