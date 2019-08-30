@@ -20,8 +20,8 @@ export default {
       nl: 'Welkom bij de beste goederen die er zijn! U zult geen betere deal vinden dan wat ik voor u heb, maar ik hoor dat er een speciale winkel is met fantastische artikelen die anders zijn dan wat ik ooit heb gezien. Intussen heb ik nog wat reserve munten en reserve goederen. Wilt u iets verkopen?',
       it: 'Benvenuti ai migliori prodotti in circolazione! Non troverete un\'offerta migliore di quella che ho per voi; tuttavia, ho sentito dire che c\'è un negozio speciale con articoli fantastici come non ho mai visto. Nel frattempo, ho delle monete e dei prodotti di ricambio. Volete vendere qualcosa',
       pl: 'Witamy w najlepszych towarach w okolicy! Nie znajdziesz lepszej oferty niż ta, którą dla ciebie mam, ale słyszę, że istnieje specjalny sklep z fantastycznymi przedmiotami, w przeciwieństwie do czegokolwiek, co kiedykolwiek widziałem. W międzyczasie mam zapasowe monety i zapasowe towary. Czy lubisz coś sprzedawać?',
-      ro: 'Bine ai venit la cele mai bune obiecte din împrejurimi! Nu vei găsi o afacere mai bună decât ceea ce am eu pentru tine; cu toate acestea, am auzit că există un magazin special cu elemente fantastice, diferite de orice am văzut vreodată. Între timp, am niște monede și bunuri de rezervă. Aveți ceva de vândut?',
-      zh: '歡迎來到各地最好的商品！ 你不會找到比我給你更好的交易; 然而，我聽說有一個特別的商店，有很棒的物品，不像我見過的任何東西。 與此同時，我有一些備用硬幣和備用貨物。 你還有什麼賣的嗎？'
+      ro: 'Bine ai venit la cele mai bune obiecte din împrejurimi! Nu vei găsi o afacere mai bună decât ceea ce am eu pentru tine; cu toate acestea, am auzit că există un magazin special cu elemente fantastice, diferite de orice am văzut vreodată. Între timp, am niște monede și bunuri de rezervă. Îți place să vinzi ceva?',
+      zh: '歡迎來到各地最好的商品！ 你不會找到比我給你更好的交易; 然而，我聽說有一個特別的商店，有很棒的物品，不像我見過的任何東西。 與此同時，我有一些備用硬幣和備用貨物。 你喜歡賣什麼東西嗎？'
     },
 
     choices: [{
