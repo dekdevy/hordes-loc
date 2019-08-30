@@ -111,7 +111,7 @@ export default {
 
     {
       en: 'Attack Spd.'
-     // ru: 'Скорость атаки'
+      // ru: 'Скорость атаки'
     },
 
     {
