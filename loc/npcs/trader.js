@@ -1,7 +1,7 @@
 export default {
   interactions: [{
     text: {
-      en: 'Welcome to the best goods around! You aren’t going to find a better deal than what I have for you; however, I hear that there is a special shop with fantastic items unlike anything I’ve ever seen. In the meanwhile, I have some spare coins and spare goods. Do have anything to sell?',
+      en: 'Welcome to the best goods around! You aren’t going to find a better deal than what I have for you; however, I hear that there is a special shop with fantastic items unlike anything I’ve ever seen. In the meanwhile, I have some spare coins and spare goods. Do you have anything to sell?',
       da: 'Velkommen til de bedste varer i området! Du vil ikke finde en bedre handel end hvad jeg har for dig; men, jeg hører, at der er en speciel butik med fantastiske ting, ting som jeg ikke selv kunne forestille mig. I mellemtiden har jeg nogle ekstra mønter og ting til overs. Har du noget at sælge?',
       ru: 'Добро пожаловать! Здесь лучшие товары в округе! Вы не найдете предложений лучше, чем то, что у меня есть для вас, однако, я слышал, что есть специальный магазин с фантастическими предметами, не похожими ни на что, что я когда-либо видел. Пока, у меня есть лишние монеты и лишние товары. У вас есть что продавать?',
       sv: 'Välkommen till affären med de bästa grejerna i stan! Du kommer inte att hitta bättre erbjudanden! Dock så har jag hört talas om en specialaffär med helt fantastiska föremål, vars make aldrig skådats . Aja, jag har några mynt och föremål över. Har du något att sälja?',
