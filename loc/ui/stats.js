@@ -24,7 +24,7 @@ export default {
       en: 'Stamina',
       fr: 'Ténacité',
       ru: 'Стойкость'
-    }, 
+    },
 
     {
       en: 'Dexterity',
