@@ -450,7 +450,7 @@ export default {
     da: 'Tutorial'
   },
 
-  reset: {
+  resettutorial: {
     en: 'Reset tutorial',
     ru: 'Начать обучение заново',
     hi: 'शिक्षण रीसेट',
@@ -472,5 +472,9 @@ export default {
     tl: 'i-reset ang tutorial',
     ro: 'Resetează tutorialul',
     da: 'Nulstil tutorial'
+  },
+
+  disabletutorial: {
+    en: 'Disable tutorial'
   }
 }
