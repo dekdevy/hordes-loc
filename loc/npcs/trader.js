@@ -145,6 +145,7 @@ export default {
     bg: 'Интересувате ли се от нещо? Кликнете върху бележка, за да го купите.',
     ja: '何か興味がありますか？購入するにはアイテムをクリックしてください。',
     da: 'Er du interesseret i noget? Klik på en genstand for at købe den.',
-    zh: '你对什么感兴趣吗？点击商品即可购买。'
+    zh: '你对什么感兴趣吗？点击商品即可购买。',
+    tr: 'İlginizi çeken bir şeyler var mı? Bir eşyayı almak isterseniz üstüne tıklayın.'
   }
 }
