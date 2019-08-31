@@ -21,7 +21,8 @@ export default [
       cs: 'Levné kožené kapely koupil ambiciózní farmář.',
       ja: '野心的な農民によって買われた安い革バンド。',
       ro: 'Brățări de piele ieftină cumpărată de un fermier ambițios.',
-      da: 'Billige læderbånd købt af en ambitiøs landmand.'
+      da: 'Billige læderbånd købt af en ambitiøs landmand.',
+      tr: 'Azimli bir çiftçi tarafından alınmış ucuz deri şeritler.'
     }
   },
 
