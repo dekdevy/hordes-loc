@@ -183,7 +183,8 @@ export default [
       sv: 'Denna stora röda sten som är innesluten i avgrunds mörka sprickor ger dina fiender en känsla av svartsjuka.',
       ko: '어두운 붉은 균열에 둘러싸인 웅장한 빨간 돌은 당신의 원수에게 질투심을 부여합니다.',
       ro: 'Această enormă piatră roșie înconjurată de fisuri negre abisale, oferă dușmanilor tăi un sentiment de gelozie.',
-      da: 'Denne store røde perle indesluttet i afgrund mørke fissurer giver dine fjender en følelse af jalousi.'
+      da: 'Denne store røde perle indesluttet i afgrund mørke fissurer giver dine fjender en følelse af jalousi.',
+      tr: 'Bu etrafı karanlık hiçlik çatlakları ile çevrelenmiş büyük kırmızı mücevher düşmanlarını kıskandırır.'
     }
   },
 
