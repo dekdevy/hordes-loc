@@ -48,7 +48,8 @@ export default [
       bg: 'Умели ръце направиха сложна работа, за да направят тези домашни маншети.',
       ja: '熟練した手はこれらの自家製の袖口を作ることにおいて複雑な仕事をしました。',
       ro: 'Niște mâini dibace au făcut o muncă complicată pentru realizarea acestor manșete de casă.',
-      da: 'Færdige hænder gjorde et indviklet job ved at lave disse hjemmelavede manchetter.'
+      da: 'Færdige hænder gjorde et indviklet job ved at lave disse hjemmelavede manchetter.',
+      tr: 'Bu ev yapımı bileklikler marifetli eller tarafından özenle yapıldı.'
     }
   },
 
