@@ -45,7 +45,8 @@ export default {
       ro: 'Da, desigur.',
       tl: 'Oo naman.',
       da: 'Ja selvfølgelig.',
-      zh: '是，當然。'
+      zh: '是，當然。',
+      tr: 'Elbette.'
     }]
   }],
 
