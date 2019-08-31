@@ -125,7 +125,7 @@ export default {
     },
 
     {
-      en: 'Fame',,
+      en: 'Fame',
       ru: 'Слава'
     },
 
