@@ -11,7 +11,7 @@ export default {
     {en: 'Perfect! Keep it up and deal with the monster!'},
     {en: 'Nice job. You have been rewarded with experience points.'},
     {en: 'Collect enough experience points and you will level up.'},
-    {en: 'You can press SHIFT to scan the ground for items. Find an item! (not gold)'},
+    {en: 'Monsters can leave items and gold on the ground. Find an item! (Not gold)'},
     {en: 'You have picked up an item. Open your inventory (B) to see it.'},
     {en: 'Congratulations. You have opened the inventory. This is a special moment. Here is your item.'},
     {en: 'Find a piece of equipment you can wear, right click it, and press "Equip item".'},
