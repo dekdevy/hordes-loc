@@ -397,7 +397,8 @@ export default [
       ja: '刃は過去に壊れたと言われて、これらの壮大な土地の伝説的な悪魔によって新しく鍛造されました。',
       da: 'Et blad sagde at være brudt i fortiden og smedet på ny af de fantastiske dommere i disse storslåede lande.',
       sv: 'Ett blad sägs vara brutet i det förflutna och smidda igen av de fantastiska demonerna i dessa magnifika länder.',
-      ro: 'O lamă ce se spune că ar fi fost ruptă în trecut și făurită din nou de către demonii legendari ai acestor tărâmuri magnifice.'
+      ro: 'O lamă ce se spune că ar fi fost ruptă în trecut și făurită din nou de către demonii legendari ai acestor tărâmuri magnifice.',
+      tr: 'Söylenilene göre bu kılıç geçmişte kırılmış ve bu görkemli diyarların efsanelerinde adı geçen iblisler tarafından tekrar dövülmüş.'
     }
   },
 
