@@ -95,7 +95,8 @@ export default {
     nl: 'Om een artikel te verkopen, klik er met de rechtermuisknop op of sleep het naar het handelaarsvenster.',
     da: 'For at sælge et emne skal du højreklikke på det eller trække det i handlervinduet.',
     ro: 'Pentru a vinde un element, faceți clic-dreapta sau trageți-l în fereastra comerciantului.',
-    zh: '要賣物品，按右鍵在物品上或拖它到交易窗口中。'
+    zh: '要賣物品，按右鍵在物品上或拖它到交易窗口中。',
+    tr: 'Bir eşyayı satmak için Shift\'e basılı tutarak eşyaya sağ tıklayın veya eşyayı takas penceresine sürükleyip bırakın.'
   },
 
   // Include punctuation and space
