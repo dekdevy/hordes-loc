@@ -81,7 +81,7 @@ export default {
 
     {
       en: 'Block'
-      // ru: 'Блокировка'
+      ru: 'Блок'
     },
 
     {
@@ -96,7 +96,8 @@ export default {
     },
 
     {
-      en: 'Critical'
+      en: 'Critical',
+      ru: 'Крит. шанс'
     },
 
     {
@@ -111,7 +112,7 @@ export default {
 
     {
       en: 'Attack Spd.'
-      // ru: 'Скорость атаки'
+      ru: 'Скорость атк.'
     },
 
     {
@@ -130,22 +131,23 @@ export default {
 
     {
       en: 'Stat Points',
-      ru: 'Очки статоб'
+      ru: 'Очки статов'
     },
 
     {
       en: 'Skill Points',
-      ru: 'Очки скилов'
+      ru: 'Очки умений'
     },
 
     {
       en: '% Increased Dmg.',
       fr: '% Dégat Augmenté'
-      // ru: '% Увеличенного урона'
+      ru: '% Увеличения урона'
     },
 
     {
-      en: '% Increased Aggro Generation'
+      en: '% Increased Aggro Generation',
+      ru: '% Увеличения агрессии'
     },
 
     {
