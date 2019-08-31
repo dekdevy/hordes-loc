@@ -80,7 +80,7 @@ export default {
     },
 
     {
-      en: 'Block'
+      en: 'Block',
       ru: 'Блок'
     },
 
@@ -111,7 +111,7 @@ export default {
     },
 
     {
-      en: 'Attack Spd.'
+      en: 'Attack Spd.',
       ru: 'Скорость атк.'
     },
 
@@ -125,7 +125,7 @@ export default {
     },
 
     {
-      en: 'Fame',
+      en: 'Fame',,
       ru: 'Слава'
     },
 
@@ -141,7 +141,7 @@ export default {
 
     {
       en: '% Increased Dmg.',
-      fr: '% Dégat Augmenté'
+      fr: '% Dégat Augmenté',
       ru: '% Увеличения урона'
     },
 
