@@ -318,7 +318,8 @@ export default [
       sv: 'En ring sa att kunna ändra sin bärare osynlig och motivera dem för evigt ära.',
       ko: '반지는 착용자를 보이지 않게하고 영원한 영광을 위해 그들을 자극 할 수 있다고 말했습니다.',
       da: 'En ring sagde at være i stand til at vende sin bærer usynlig og motivere dem til evig herlighed.',
-      ro: 'Se spune că inelul este capabil să-și facă purtătorul invizibil și să-l motiveze pentru glorie veșnică.'
+      ro: 'Se spune că inelul este capabil să-și facă purtătorul invizibil și să-l motiveze pentru glorie veșnică.',
+      tr: 'Söylenilene göre takan kişiyi görünmez yapabilen ve sonsuz zafer için motive edebilen bir yüzük.'
     }
   },
 
