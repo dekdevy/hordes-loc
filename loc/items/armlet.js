@@ -75,7 +75,8 @@ export default [
       bg: 'Скръв, направи ръцете си възпалени.',
       ja: '硬直して、腕を痛めます。',
       ro: 'Rigid, îți inflamează brațele.',
-      da: 'Stiv, gør dine arme ømme.'
+      da: 'Stiv, gør dine arme ømme.',
+      tr: 'Sert, kollarını acıtabilir.'
     }
   },
 
