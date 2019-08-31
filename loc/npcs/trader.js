@@ -99,7 +99,7 @@ export default {
     tr: 'Bir eşyayı satmak için Shift\'e basılı tutarak eşyaya sağ tıklayın veya eşyayı takas penceresine sürükleyip bırakın.'
   },
 
-  // Include punctuation and space
+  // Include punctuation and space.
   price: {
     en: 'Selling price: ',
     ru: 'Цена продажи: ',
@@ -121,7 +121,8 @@ export default {
     ro: 'Prețul de vânzare: ',
     it: 'Prezzo di vendita: ',
     da: 'Salgspris: ',
-    zh: '售價： '
+    zh: '售價： ',
+    tr: 'Satış ücreti: '
   },
 
   buy: {
