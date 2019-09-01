@@ -101,7 +101,8 @@ export default [
       ht: 'Grif lougawou ki te rete dèyè sou kò moun ki viktim yo te wenn ak lwil mistik e yo te enstale avèk lapenn espirityèl nan meditasyon. Créateur yo nan Hamlet sa yo te espere ke pwoteksyon sa yo espirityèl ta yon sèl jou a dwe itilize pou tire revanj.',
       sv: 'Fruktansvärda varulvsklor som lämnades på offrens kroppar smorde med mystiska oljor och inleddes med andlig kraft genom meditation. Skaparna av dessa amuletter hoppades att dessa andliga skydd skulle en dag användas för hämnd.',
       ko: '희생 된 사람들의 몸에 남겨진 두려운 늑대 인간 발톱은 신비한 기름으로 기름을 바르고 명상을 통해 영적 불굴의 정신으로 불타 올랐습니다. 이 부적의 창시자는이 영적 보호가 언젠가 복수로 사용되기를 바랐습니다.',
-      ro: 'Ghearele unui vârcolac temut care au fost lăsate în urmă pe corpurile victimelor, au fost unse cu uleiuri mistice și insuflate cu tărie spirituală ob; prin meditație. Creatorii acestor amulete au sperat că aceste protecții spirituale vor fi folosite într-o zi pentru răzbunare.'
+      ro: 'Ghearele unui vârcolac temut care au fost lăsate în urmă pe corpurile victimelor, au fost unse cu uleiuri mistice și insuflate cu tărie spirituală ob; prin meditație. Creatorii acestor amulete au sperat că aceste protecții spirituale vor fi folosite într-o zi pentru răzbunare.',
+      tr: 'Kurt adamın kurbanlarının vücutlarında kalan bu korkunç pençeler, mistik yağlar ile mesh edilmiş ve meditasyon yoluyla içlerine ruhani metanet aşılanmış. Bu muskaları yapanlar, aşılanan ruhani korumanın bir gün kurt adamdan intikam almak için kullanılabileceğini ummuşlar.'
     }
   },
 
