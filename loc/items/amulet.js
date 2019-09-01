@@ -75,7 +75,8 @@ export default [
       ht: 'Kolye sa a konsiste de fragman zo ki sòti nan yon varyete de bèt fò. Chak kolye zo varye nan pwoteksyon ki baze sou orijin zo yo.',
       sv: 'Detta halsband består av benfragment från en rad starka varelser. Varje benhalsband varierar i skydd baserat på benens ursprung.',
       ko: '이 목걸이는 다양한 강력한 생물의 뼈 조각으로 구성되어 있습니다. 각 뼈 목걸이는 뼈의 기원에 따라 보호가 다릅니다.',
-      ro: 'Acest colier este compus din fragmente de oase a unei varietate de creaturi puternice. Fiecare colier de os variază în funcție de originea oaselor.'
+      ro: 'Acest colier este compus din fragmente de oase a unei varietate de creaturi puternice. Fiecare colier de os variază în funcție de originea oaselor.',
+      tr: 'Bu kolye çeşitli güçlü yaratıkların kemik parçalarından oluşmakta. Her kemik kolyenin koruma gücü onu oluşturan kemiklerin nereden elde edildiğine bağlı olarak değişiklik gösterir.'
     }
   },
 
