@@ -48,7 +48,8 @@ export default [
       ht: 'Kolye pou kenbe chen mawon nan esklavaj yo te fè soti nan yon kwi epè. Kèk nan yo toujou gen lyen chèn ki konekte, men tout kolye bèt yo solid. Gen kèk kolye anprint ak pwoteksyon espirityèl.',
       sv: 'Krage för att hålla vargarna i tjänstgöring är gjorda av ett tjockt läder. Vissa av dem har fortfarande kedjelänkar anslutna, men alla vargkrafter är robusta. Vissa halsband är prydda med andligt skydd.',
       ko: '늑대를 노예 상태로 유지할 수있는 고리는 두꺼운 가죽으로 만듭니다. 그들 중 일부는 여전히 연결 고리가 연결되어 있지만 모든 늑대 고리는 견고합니다. 일부 고리는 영적 보호를받습니다.',
-      ro: 'Zgărzile pentru a ține lupii în servitute sunt făcute dintr-o piele groasă. Unele dintre ele încă mai au lanțuri atașate de ele, dar toate gulerele pentru lupi sunt robuste. Unele zgărzi sunt îmbibate cu protecție spirituală.'
+      ro: 'Zgărzile pentru a ține lupii în servitute sunt făcute dintr-o piele groasă. Unele dintre ele încă mai au lanțuri atașate de ele, dar toate gulerele pentru lupi sunt robuste. Unele zgărzi sunt îmbibate cu protecție spirituală.',
+      tr: 'Kalın bir deriden, kurtların itaat etmesi için yapılmış tasmalar. Bazılarının zincirleri hâlâ bağlı ama tüm tasmalar sağlam. Hatta bazıları ruhani koruma ile dolu.'
     }
   },
 
