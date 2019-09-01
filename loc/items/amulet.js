@@ -129,7 +129,8 @@ export default [
       ht: 'Lè yon talon te jwenn, li te konsidere kòm yon kado nan zwazo yo sakre nan mòn yo. Relijyeu yo nan mòn yo te itilize talon yo pou pwodwi Hamlet espirityèl yo pou pwoteje tèt yo kont anvayisè yo pandan batay la.',
       sv: 'När en talon hittades, ansågs den vara en gåva från de heliga fåglarna i bergen. Munkarna i bergen använde talonerna för att producera andliga amuletter för att skydda sig från invaderare under striden.',
       ko: '탈론이 발견되었을 때, 그것은 산속에있는 신성한 새들의 선물로 간주되었습니다. 산 속 승려들은 전투 중에 침략자들로부터 스스로를 보호 할 수있는 영적인 부적을 만들기 위해 발톱을 사용했습니다.',
-      ro: 'Când a fost găsită o ghiară, a fost considerată un dar de la păsările sacre din munți. Călugării din munți au folosit gheare pentru a produce amulete spirituale pentru a se proteja de invadatori în timpul bătăliilor.'
+      ro: 'Când a fost găsită o ghiară, a fost considerată un dar de la păsările sacre din munți. Călugării din munți au folosit gheare pentru a produce amulete spirituale pentru a se proteja de invadatori în timpul bătăliilor.',
+      tr: 'Bir pençe bulunduğunda, onun dağlardaki kutsal kuşlardan bir hediye olduğu düşünüldü. Dağlardaki rahipler, savaş esnasında kendilerini işgalcilerden korumak için bu pençeleri kullanarak ruhani muskalar yaptılar.'
     }
   },
 
