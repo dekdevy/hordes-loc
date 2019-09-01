@@ -21,7 +21,8 @@ export default [
       ht: 'Engredyan boule yo te trese ak mare ansanm yo fòme yon Hamlet nan pwoteksyon mèg. Kreye Hamlet senp tankou sa a te yon taktik siviv komen depi tan lontan.',
       sv: 'Brända ingredienser har vridits och binds ihop för att bilda en amulett av mager skydd. Att skapa enkla amuletter som detta har varit en vanlig överlevnadstaktik sedan antiken.',
       ko: '타 버린 성분들이 꼬여서 묶여서 약한 보호 장치가되었습니다. 이와 같은 단순한 부적을 만드는 것은 고대부터 일반적인 생존 전술이었습니다.',
-      ro: 'Ingrediente arse au fost răsucite și îmbinate împreună pentru a forma o amuletă de protecție slabă. Crearea unor amulete simple ca aceasta a fost o tactică comună de supraviețuire încă din antichitate.'
+      ro: 'Ingrediente arse au fost răsucite și îmbinate împreună pentru a forma o amuletă de protecție slabă. Crearea unor amulete simple ca aceasta a fost o tactică comună de supraviețuire încă din antichitate.',
+      tr: 'Yakılan malzemeler bu az korumaya sahip muskayı oluşturmak için büküldü ve bir araya getirildi. Bunun gibi basit muskalar yapmak çok eski zamanlardan beri alışılagelmiş bir hayatta kalma taktiğidir.'
     }
   },
 
