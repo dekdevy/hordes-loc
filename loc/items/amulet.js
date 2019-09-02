@@ -156,7 +156,8 @@ export default [
       ht: 'Moun dezè ansyen yo kolekte wòch espesyal ak ki gen fòm yo nan skarabe ak etranj, majik nwa. Anpil moun enpòtan nan sivilizasyon ansyen sa a te mete Hamlet sa yo pou wo ak pwoteksyon.',
       sv: 'Forntida öknen samlade speciella stenar och formade dem i scarabs med konstig, mörk magi. Många viktiga människor i den antika civilisationen hade dessa amuletter för statur och skydd.',
       ko: '고대 사막 사람들은 특별한 돌을 모아 이상하고 어두운 마술로 풍뎅이 모양으로 만들었습니다. 그 고대 문명의 많은 사람들이 키와 보호를 위해이 부적을 입었습니다.',
-      ro: 'Oamenii antici ai deșertului au adunat pietre speciale și le-au încrustat în scarabei cu ajutorul unei magii negre, puternice. Mulți oameni importanți din acea civilizație antică purtau aceste amulete pentru statură și protecție.'
+      ro: 'Oamenii antici ai deșertului au adunat pietre speciale și le-au încrustat în scarabei cu ajutorul unei magii negre, puternice. Mulți oameni importanți din acea civilizație antică purtau aceste amulete pentru statură și protecție.',
+      tr: 'Antik zamanlarda çölde yaşayan insanlar özel taşlar toplayıp onlara gizemli, değişik bir büyüyle böcek oyması şeklini verirlerdi. Bu antik uygarlıklarda önemli kişiler, bu muskaları itibar ve korunma amacıyla takarlardı.'
     }
   },
 
