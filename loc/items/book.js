@@ -216,5 +216,12 @@ export default [{
   description: {
     en: 'Place a totem on the ground healing your entire party temporarily.'
   }
+},
+{
+  name: {$$: 'Swift Shot'},
+
+  description: {
+    en: 'Fire a swift shot with no casting time, marking your target for additional damage.'
+  }
 }
 ]
