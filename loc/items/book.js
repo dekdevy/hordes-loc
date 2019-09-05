@@ -223,5 +223,12 @@ export default [{
   description: {
     en: 'Fire a swift shot with no casting time, marking your target for additional damage.'
   }
+},
+{
+  name: {$$: 'Teleport'},
+
+  description: {
+    en: 'Instantly teleport into the direction you are facing.'
+  }
 }
 ]
