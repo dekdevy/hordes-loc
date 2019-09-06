@@ -122,7 +122,7 @@ export default [
       pt: 'Tecida com fios de líquen, a construção deste saco permanece um mistério.',
       it: 'Tessuto da fili di lichene, la costruzione di questa borsa rimane un mistero.',
       nl: 'Geweven van korstmosdraden, de constructie van deze tas blijft een mysterie.',
-      tr: 'Liken ipliklerinden dokunmuş bu çantanın yapılışı hâlâ gizemini koruyor.',
+      tr: 'Liken ipliklerinden dokunmuş bu çantanın yapılışı ise hâlâ gizemini koruyor.',
       pl: 'Tkany z nici porostów, konstrukcja tej torby pozostaje tajemnicą.',
       sv: 'Vävd av trådar av lavar, är byggandet av denna väska ett mysterium.',
       tl: 'Habi mula sa mga thread ng lichen ang pagtatayo ng bag na ito ay nananatiling isang misteryo.',
