@@ -1,5 +1,5 @@
 export default [
-  { // T1 item name. names are english only!
+  { // Item name. Names are English only!
     name       : {$$: 'Driftwood Shortbow' },
     // Item description
     description: {
@@ -181,7 +181,7 @@ export default [
       hi: 'एक सुरुचिपूर्ण दौड़ का एक विशेषज्ञ धनुष।',
       el: 'Ένας ειδικός τόξο μιας κομψής φυλής.',
       bg: 'Един експертен поклон на елегантен раса.',
-      cs: 'Odborný luk elegantní závodu.',
+      cs: 'Odborný luk elegantní druh.',
       ja: '優雅なレースの巧妙な弓。',
       ro: 'Un arc expert al unei curse elegante.',
       ko: '우아한 레이스의 전문가 활입니다.',
