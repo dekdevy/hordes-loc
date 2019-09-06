@@ -230,5 +230,11 @@ export default [{
   description: {
     en: 'Instantly teleport into the direction you are facing.'
   }
+},
+{
+  name: {$$: 'Charge'},
+  description: {
+    en: 'Charge towards your target while also stunning it. Stun duration increases with charge distance.'
+  }
 }
 ]
