@@ -237,5 +237,12 @@ export default [{
   description: {
     en: 'Charge towards your target while also stunning it. Stun duration increases with charge distance.'
   }
+},
+{
+  name: {$$: 'Taunt'},
+
+  description: {
+    en: 'Taunt surrounding enemies, forcing them to target and move towards you for a brief moment. Interrupts spell casts and resets aggro for all monsters.'
+  }
 }
 ]
