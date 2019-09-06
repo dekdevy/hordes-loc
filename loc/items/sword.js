@@ -22,7 +22,7 @@ export default [
       sv: 'Namnet säger allt. Var försiktig med splinterna.',
       ko: '이름은 그것을 모두 말한다. 파편을 조심하십시오.',
       ro: 'Numele spune totul. Ai grijă la așchii.',
-      tr: 'Adı her şeyi söylüyor. Dikkatli olun yoksa bir kıymık alırsınız.',
+      tr: 'Adı her şeyi söylüyor. Dikkatli olun yoksa kıymık batabilir.',
       da: 'Navnet siger alt. Pas på splinterne.'
     }
   },
