@@ -1,7 +1,7 @@
 export default [
   { // Item name. Names are English only!
     name       : {$$: 'Driftwood Shortbow' },
-    // Item description
+    // Item description.
     description: {
       en: 'Almost lightweight. You can probably find something better around.',
       ru: 'Легкий лук. Скорее всего, вы сможете найти что-то получше .',
@@ -239,7 +239,8 @@ export default [
       ja: '最も辛い赤色の着色で敵を焼き払います。',
       ro: 'Arde inamicul cu cea mai intensă culoare de roșu.',
       ko: '뜨거운 붉은 색으로 적을 태운다.',
-      da: 'Brænder fjenden med den spicieste af rød farve.'
+      da: 'Brænder fjenden med den spicieste af rød farve.',
+      tr: 'Düşmanlarını kırmızı parlak bir ışıkla yakar.'
     }
   },
 
