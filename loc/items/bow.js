@@ -172,7 +172,7 @@ export default [
       es: 'Un arco experta de una raza elegante.',
       pt: 'Um arco perito de uma raça elegante.',
       nl: 'Een deskundige boog van een verfijnd geslacht.',
-      pl: 'Ekspercki łuk elegancki rasy.',
+      pl: 'Ekspercki łuk elegancki ród.',
       it: 'Un arco esperto di una razza signorile.',
       tl: 'Isang dalubhasang bow ng isang eleganteng lahi.',
       sv: 'En expertbuga av en sirlig ras.',
