@@ -17,7 +17,7 @@ export default {
     cs: 'Nastavení',
     ja: '設定',
     sv: 'Inställningar',
-    bg: 'настройки',
+    bg: 'Настройки',
     el: 'Ρυθμίσεις',
     tl: 'Mga setting',
     ro: 'Setări',
@@ -37,7 +37,7 @@ export default {
     nl: 'Bediening',
     pt: 'Controlos',
     pl: 'Sterownica',
-    ht: 'kontwòl yo',
+    ht: 'Kontwòl yo',
     it: 'Regolazione',
     ko: '통제 수단',
     cs: 'Řízení',
@@ -63,14 +63,14 @@ export default {
     pt: 'Câmera bloqueada',
     pl: 'Zamknięta kamera',
     ht: 'Kamera fèmen',
-    it: 'telecamera bloccata',
+    it: 'Telecamera bloccata',
     ko: '잠긴 카메라',
     cs: 'Zamknutá kamera',
     ja: 'ロックカメラ',
     sv: 'Låst kamera',
     bg: 'Заключена камера',
     el: 'Κλειδωμένη κάμερα',
-    tl: 'naka-lock na camera',
+    tl: 'Naka-lock na camera',
     ro: 'Blochează camera',
     da: 'Låst kamera',
     zh: '锁定相机'
@@ -83,7 +83,7 @@ export default {
     hi: 'ग्राफ़िक्स',
     es: 'Gráficos',
     de: 'Grafik',
-    fr: 'schémas',
+    fr: 'Graphiques',
     nl: 'Grafischen',
     tr: 'Grafikler',
     pt: 'Gráficos',
@@ -94,8 +94,8 @@ export default {
     cs: 'Grafika',
     ja: 'グラフィックス',
     sv: 'Grafik',
-    bg: 'графика',
-    el: 'γραφικών',
+    bg: 'Графика',
+    el: 'Γραφικών',
     tl: 'Grapika',
     ro: 'Grafică',
     da: 'Grafik',
@@ -139,7 +139,7 @@ export default {
     pt: 'Resolução',
     pl: 'Rozdzielczość',
     ht: 'Rezolisyon an',
-    it: 'delibera',
+    it: 'Delibera',
     ko: '게임의 해상도',
     cs: 'Rozlišení',
     ja: '解決',
@@ -150,6 +150,13 @@ export default {
     ro: 'Rezoluție',
     da: 'Løsning',
     zh: '解析度'
+  },
+
+  postprocessing: {
+    en: 'Post-processing',
+    de: 'Nachbearbeitung',
+    ru: 'Постобработка',
+    tr: 'Detaylandırma'
   },
 
   skilleffects: {
@@ -164,7 +171,7 @@ export default {
     pt: 'Efeitos de habilidade',
     pl: 'Efekty umiejętności',
     ht: 'Efè Konpetans',
-    it: 'effetti di abilità',
+    it: 'Effetti di abilità',
     ko: '기술 효과',
     cs: 'Dovednostní efekty',
     ja: 'スキル効果',
@@ -282,7 +289,7 @@ export default {
     hi: 'चैट',
     es: 'Chat',
     de: 'Chat',
-    fr: 'Chat',
+    fr: 'Tchat',
     nl: 'praten',
     tr: 'sohbet',
     pt: 'Chat',
@@ -306,7 +313,7 @@ export default {
     hi: 'चैट की चौडाई',
     es: 'Ancho del chat',
     de: 'Chatbreite',
-    fr: 'Largeur du chat',
+    fr: 'Largeur du tchat',
     nl: 'Chatbreedte',
     tr: 'Chat genişliği',
     pt: 'Largura do chat',
@@ -330,7 +337,7 @@ export default {
     hi: 'चैट की लम्बाई',
     es: 'Altura del chat',
     de: 'Chathöhe',
-    fr: 'Hauteur de chat',
+    fr: 'Hauteur du tchat',
     nl: 'Chathoogte',
     tr: 'Chat yükskliği',
     pt: 'Altura do chat',
@@ -444,7 +451,7 @@ export default {
     da: 'Tutorial'
   },
 
-  reset: {
+  resettutorial: {
     en: 'Reset tutorial',
     ru: 'Начать обучение заново',
     hi: 'शिक्षण रीसेट',
@@ -466,5 +473,11 @@ export default {
     tl: 'i-reset ang tutorial',
     ro: 'Resetează tutorialul',
     da: 'Nulstil tutorial'
+  },
+
+  disabletutorial: {
+    en: 'Disable tutorial',
+    ru: 'Отключить обучения',
+    tr: 'Öğreticiyi kapat'
   }
 }

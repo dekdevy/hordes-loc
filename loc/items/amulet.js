@@ -21,7 +21,8 @@ export default [
       ht: 'Engredyan boule yo te trese ak mare ansanm yo fòme yon Hamlet nan pwoteksyon mèg. Kreye Hamlet senp tankou sa a te yon taktik siviv komen depi tan lontan.',
       sv: 'Brända ingredienser har vridits och binds ihop för att bilda en amulett av mager skydd. Att skapa enkla amuletter som detta har varit en vanlig överlevnadstaktik sedan antiken.',
       ko: '타 버린 성분들이 꼬여서 묶여서 약한 보호 장치가되었습니다. 이와 같은 단순한 부적을 만드는 것은 고대부터 일반적인 생존 전술이었습니다.',
-      ro: 'Ingrediente arse au fost răsucite și îmbinate împreună pentru a forma o amuletă de protecție slabă. Crearea unor amulete simple ca aceasta a fost o tactică comună de supraviețuire încă din antichitate.'
+      ro: 'Ingrediente arse au fost răsucite și îmbinate împreună pentru a forma o amuletă de protecție slabă. Crearea unor amulete simple ca aceasta a fost o tactică comună de supraviețuire încă din antichitate.',
+      tr: 'Yakılan malzemeler bu az korumaya sahip muskayı oluşturmak için büküldü ve bir araya getirildi. Bunun gibi basit muskalar yapmak çok eski zamanlardan beri alışılagelmiş bir hayatta kalma taktiğidir.'
     }
   },
 
@@ -47,7 +48,8 @@ export default [
       ht: 'Kolye pou kenbe chen mawon nan esklavaj yo te fè soti nan yon kwi epè. Kèk nan yo toujou gen lyen chèn ki konekte, men tout kolye bèt yo solid. Gen kèk kolye anprint ak pwoteksyon espirityèl.',
       sv: 'Krage för att hålla vargarna i tjänstgöring är gjorda av ett tjockt läder. Vissa av dem har fortfarande kedjelänkar anslutna, men alla vargkrafter är robusta. Vissa halsband är prydda med andligt skydd.',
       ko: '늑대를 노예 상태로 유지할 수있는 고리는 두꺼운 가죽으로 만듭니다. 그들 중 일부는 여전히 연결 고리가 연결되어 있지만 모든 늑대 고리는 견고합니다. 일부 고리는 영적 보호를받습니다.',
-      ro: 'Zgărzile pentru a ține lupii în servitute sunt făcute dintr-o piele groasă. Unele dintre ele încă mai au lanțuri atașate de ele, dar toate gulerele pentru lupi sunt robuste. Unele zgărzi sunt îmbibate cu protecție spirituală.'
+      ro: 'Zgărzile pentru a ține lupii în servitute sunt făcute dintr-o piele groasă. Unele dintre ele încă mai au lanțuri atașate de ele, dar toate gulerele pentru lupi sunt robuste. Unele zgărzi sunt îmbibate cu protecție spirituală.',
+      tr: 'Kalın bir deriden, kurtların itaat etmesi için yapılmış tasmalar. Bazılarının zincirleri hâlâ bağlı ama tüm tasmalar sağlam. Hatta bazıları ruhani koruma ile dolu.'
     }
   },
 
@@ -73,7 +75,8 @@ export default [
       ht: 'Kolye sa a konsiste de fragman zo ki sòti nan yon varyete de bèt fò. Chak kolye zo varye nan pwoteksyon ki baze sou orijin zo yo.',
       sv: 'Detta halsband består av benfragment från en rad starka varelser. Varje benhalsband varierar i skydd baserat på benens ursprung.',
       ko: '이 목걸이는 다양한 강력한 생물의 뼈 조각으로 구성되어 있습니다. 각 뼈 목걸이는 뼈의 기원에 따라 보호가 다릅니다.',
-      ro: 'Acest colier este compus din fragmente de oase a unei varietate de creaturi puternice. Fiecare colier de os variază în funcție de originea oaselor.'
+      ro: 'Acest colier este compus din fragmente de oase a unei varietate de creaturi puternice. Fiecare colier de os variază în funcție de originea oaselor.',
+      tr: 'Bu kolye çeşitli güçlü yaratıkların kemik parçalarından oluşmakta. Her kemik kolyenin koruma gücü onu oluşturan kemiklerin nereden elde edildiğine bağlı olarak değişiklik gösterir.'
     }
   },
 
@@ -99,7 +102,8 @@ export default [
       ht: 'Grif lougawou ki te rete dèyè sou kò moun ki viktim yo te wenn ak lwil mistik e yo te enstale avèk lapenn espirityèl nan meditasyon. Créateur yo nan Hamlet sa yo te espere ke pwoteksyon sa yo espirityèl ta yon sèl jou a dwe itilize pou tire revanj.',
       sv: 'Fruktansvärda varulvsklor som lämnades på offrens kroppar smorde med mystiska oljor och inleddes med andlig kraft genom meditation. Skaparna av dessa amuletter hoppades att dessa andliga skydd skulle en dag användas för hämnd.',
       ko: '희생 된 사람들의 몸에 남겨진 두려운 늑대 인간 발톱은 신비한 기름으로 기름을 바르고 명상을 통해 영적 불굴의 정신으로 불타 올랐습니다. 이 부적의 창시자는이 영적 보호가 언젠가 복수로 사용되기를 바랐습니다.',
-      ro: 'Ghearele unui vârcolac temut care au fost lăsate în urmă pe corpurile victimelor, au fost unse cu uleiuri mistice și insuflate cu tărie spirituală ob; prin meditație. Creatorii acestor amulete au sperat că aceste protecții spirituale vor fi folosite într-o zi pentru răzbunare.'
+      ro: 'Ghearele unui vârcolac temut care au fost lăsate în urmă pe corpurile victimelor, au fost unse cu uleiuri mistice și insuflate cu tărie spirituală ob; prin meditație. Creatorii acestor amulete au sperat că aceste protecții spirituale vor fi folosite într-o zi pentru răzbunare.',
+      tr: 'Kurt adamın kurbanlarının vücutlarında kalan bu korkunç pençeler, mistik yağlar ile mesh edilmiş ve meditasyon yoluyla içlerine ruhani metanet aşılanmış. Bu muskaları yapanlar, aşılanan ruhani korumanın bir gün kurt adamdan intikam almak için kullanılabileceğini ummuşlar.'
     }
   },
 
@@ -125,7 +129,8 @@ export default [
       ht: 'Lè yon talon te jwenn, li te konsidere kòm yon kado nan zwazo yo sakre nan mòn yo. Relijyeu yo nan mòn yo te itilize talon yo pou pwodwi Hamlet espirityèl yo pou pwoteje tèt yo kont anvayisè yo pandan batay la.',
       sv: 'När en talon hittades, ansågs den vara en gåva från de heliga fåglarna i bergen. Munkarna i bergen använde talonerna för att producera andliga amuletter för att skydda sig från invaderare under striden.',
       ko: '탈론이 발견되었을 때, 그것은 산속에있는 신성한 새들의 선물로 간주되었습니다. 산 속 승려들은 전투 중에 침략자들로부터 스스로를 보호 할 수있는 영적인 부적을 만들기 위해 발톱을 사용했습니다.',
-      ro: 'Când a fost găsită o ghiară, a fost considerată un dar de la păsările sacre din munți. Călugării din munți au folosit gheare pentru a produce amulete spirituale pentru a se proteja de invadatori în timpul bătăliilor.'
+      ro: 'Când a fost găsită o ghiară, a fost considerată un dar de la păsările sacre din munți. Călugării din munți au folosit gheare pentru a produce amulete spirituale pentru a se proteja de invadatori în timpul bătăliilor.',
+      tr: 'Eskiden bir pençe bulunduğunda, onun dağlardaki kutsal kuşlardan bir hediye olduğu düşünülürdü. Dağlardaki rahipler, savaş esnasında kendilerini işgalcilerden korumak için bu pençeleri kullanarak ruhani muskalar yaptılar.'
     }
   },
 
@@ -151,7 +156,8 @@ export default [
       ht: 'Moun dezè ansyen yo kolekte wòch espesyal ak ki gen fòm yo nan skarabe ak etranj, majik nwa. Anpil moun enpòtan nan sivilizasyon ansyen sa a te mete Hamlet sa yo pou wo ak pwoteksyon.',
       sv: 'Forntida öknen samlade speciella stenar och formade dem i scarabs med konstig, mörk magi. Många viktiga människor i den antika civilisationen hade dessa amuletter för statur och skydd.',
       ko: '고대 사막 사람들은 특별한 돌을 모아 이상하고 어두운 마술로 풍뎅이 모양으로 만들었습니다. 그 고대 문명의 많은 사람들이 키와 보호를 위해이 부적을 입었습니다.',
-      ro: 'Oamenii antici ai deșertului au adunat pietre speciale și le-au încrustat în scarabei cu ajutorul unei magii negre, puternice. Mulți oameni importanți din acea civilizație antică purtau aceste amulete pentru statură și protecție.'
+      ro: 'Oamenii antici ai deșertului au adunat pietre speciale și le-au încrustat în scarabei cu ajutorul unei magii negre, puternice. Mulți oameni importanți din acea civilizație antică purtau aceste amulete pentru statură și protecție.',
+      tr: 'Antik zamanlarda çölde yaşayan insanlar özel taşlar toplayıp onlara gizemli, değişik bir büyüyle böcek oyması şeklini verirlerdi. Bu antik uygarlıklarda önemli kişiler, bu muskaları itibar ve korunma amacıyla takarlardı.'
     }
   },
 
@@ -177,7 +183,8 @@ export default [
       ht: 'Dekorasyon etranj mine soti nan mòn yo te ranfòse pa mistik ak fòme nan Hamlet yo nan lòd yo bay pwoteksyon ak kòz pè.',
       sv: 'Många sköldar som minas från bergen förhöjdes av mystiker och formades till amuletter för att ge skydd och orsaka rädsla.',
       ko: '산에서 채광 한 이상한 조각들은 보호를 제공하고 두려움을 유발하기 위해 신비 주의자들에 의해 강화되어 부적으로 형성되었습니다.',
-      ro: 'Cioburi stranii minate din munți au fost întărite de mistici și transformate în amulete pentru a oferi protecție și a provoca frică.'
+      ro: 'Cioburi stranii minate din munți au fost întărite de mistici și transformate în amulete pentru a oferi protecție și a provoca frică.',
+      tr: 'Dağlardan kazılarak çıkarılmış bu garip parçalar, koruma sağlaması ve düşmanlara korku vermesi amacıyla ruhların sadık inananları tarafından efsunlanmış ve muskalar hâline getirilmiş.'
     }
   },
 
@@ -360,7 +367,7 @@ export default [
       ht: 'Sa a Hamlet gen yon GEM soti nan kouwòn lan chire pa yon wa pi popilè. Bor yo nan Hamlet sa a yo pitye byen file ak pasyèlman andwi ak yon sibstans ki sou misterye.',
       sv: 'Denna amulett innehåller en pärla från kronan som bärs av en berömd kung. Kanterna på denna amulett är hänsynslöst skarpa och delvis utsmyckade med en mystisk substans.',
       ko: '이 부적에는 유명한 왕이 착용 한 왕관의 보석이 들어 있습니다. 이 부적의 가장자리는 무자비하게 날카 롭고 부분적으로 신비한 물질로 얼룩 져 있습니다.',
-      ro: 'This amulet contains a gem from the crown worn by a famous king. The edges of this amulet are ruthlessly sharp and partially smeared with a mysterious substance.'
+      tr: 'Bu muska, ünlü bir kralın tacından bir mücevher barındırıyor. Bu muskanın keskin kenarlarının bazı yerleri gizli bir maddeye bulanmış.'
     }
   },
 

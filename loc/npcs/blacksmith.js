@@ -4,7 +4,7 @@ export default {
     text: {
       en: 'Upgrading is risky without additional special items like a Blacksmith\'s Blessed Hammer, which can prevent items from breaking during upgrades. Without the hammer, we will be taking a risk. So, surely you have something that I can upgrade for you today?',
       ru: 'Без дополнительных инструментов улучшение рискованно. Blacksmith\'s Blessed Hammer может предотвратить поломку предметов во время улучшение. Без молотка мы рискуем. Итак, у вас есть что-то, что я могу улучшить для вас сегодня?',
-      fr: 'C\'est dangereux d\'améliorer ton équipement sans objets spéciaux, comme un Blacksmith\'s Blessed Hammer, qui peut éviter ton équipement de casser pendant que tu les améliorations. Sans l\'Hammer, tu cours un risque.Donc, vous avez sûrement quelque chose que je peux améliorer pour vous?',
+      fr: 'Améliorer vos items est risqué sans l\'aide d\'un autre item special, tel que le Blacksmith\'s Blessed Hammer, qui les empèche de briser durant leurs amélioration. Sans l\'Hammer, nous prenons un risque. Bon, avez-vous quelque chose que je pourrais améliorer pour vous aujourd\'hui?',
       da: 'At opgradere er risikabelt uden specielle ting som Blacksmith\'s Blessed Hammer, som kan forhindre ting i at gå i stykker under opgraderinger. Uden hammeren tager vi en risiko. Så har du bestemt noget, jeg kan forbedre dig?',
       sv: 'Att uppgradera är riskabelt utan ytterligare specialföremål, som en Blacksmith\'s Blessed Hammer, som kan skydda föremål från att gå sönder när de uppgraderas. Utan hammaren så äventyrar du grejer. Så har du säkert något jag kan förbättra för dig?',
       es: 'Es peligroso upgradear sin algunos objectos especiales como un Blacksmith\'s Blessed Hammer, el cual puede impedir el quebramiento de sus ítemes durante los mejoramientos. Sin usar este martillo, encontrará algunos riesgos. Entonces, ¿tienes algo que pueda mejorar para ti?',
@@ -22,14 +22,15 @@ export default {
       pt: 'A atualização é arriscada sem itens especiais adicionais como a Blacksmith\'s Blessed Hammer, que pode impedir que os itens quebrem durante as atualizações. Sem o martelo, estaremos correndo um risco. Então, tens alguma coisa que eu possa realçar para ti?',
       it: 'L\'aggiornamento è rischioso senza ulteriori oggetti speciali come un Blacksmith\'s Blessed Hammer, che può impedire la rottura degli oggetti durante gli aggiornamenti. Senza il martello, correremo un rischio. Allora, hai sicuramente qualcosa che posso migliorare per te?',
       ro: 'Forjarea este riscantă fără alte elemente speciale, cum ar fi ciocanul binecuvântat al unui fierar, care poate împiedica spargerea unor obiecte în timpul actualizării lor. Fără ciocan, ne vom asuma un risc. Deci, sigur aveți ceva pe care îl pot îmbunătăți?',
-      zh: '如果在升級時沒有使用額外的特殊物品，如Blacksmith’s Blessed Hammer，升級是有危險的，它可以防止物品在升級過程中破裂。 沒有錘子，我們將承擔風險。那麼，我今天能為你升級一些東西嗎？'
+      zh: '如果在升級時沒有使用額外的特殊物品，如Blacksmith’s Blessed Hammer，升級是有危險的，它可以防止物品在升級過程中破裂。 沒有錘子，我們將承擔風險。那麼，我今天能為你升級一些東西嗎？',
+      tr: 'Blacksmith\'s Blessed Hammer gibi, eşyaları geliştirirken onların kırılmasını önleyen ek özel eşyalar kullanmadan geliştirme yapmak risklidir. Çekiç olmadan, eşyanızın kırılma riski var. Neyse, bugün sizin için geliştirebileceğim bir şeyleriniz var mı?'
     },
 
     choices: [{
       en: 'Yes, I have some items.',
       ru: 'Да, у меня есть кое-какие вещи.',
       de: 'Ja, ich habe ein paar Sachen.',
-      fr: 'Oui, j\'ai quelques objets.',
+      fr: 'Oui, j\'ai quelques items.',
       it: 'Sì, ho degli oggetti.',
       pt: 'Sim, eu tenho alguns items.',
       nl: 'Ja, ik heb wat spullen.',

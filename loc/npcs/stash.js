@@ -1,8 +1,11 @@
 export default {
   interactions: [{
     text: {
-      en: 'Yes, I\'m a talking chest, I can see the question forming on your lips already. Many years have I served royal families, storing their priceless gems and jewels, only for me to be placed in this filthy campsite to cater for your petty needs. Anyhow, throw in what you need stored and I\'ll oversee its protection. Make sure you have some nice insurance though, I can\'t guarantee what state you\'ll get the items back in.',
-      ru: 'Да, я говорящий сундук, я уже вижу как вопрос формируется на ваших губах. Много лет я служил королевским семьям, хранил их бесценные драгоценности, только для того, чтобы меня отправили в этот грязный лагерь для удовлетворения ваших мелочных потребностей. Как бы то ни было, бросай то, что тебе нужно сохранить, и я буду следить за этим. Убедитесь, что у вас есть хорошая страховка, потому что я не могу гарантировать, в каком состоянии вы получите вещи обратно.'
+      en: 'Yes, I\'m a talking chest, I can see the question forming on your lips already. Many years have I served royal families, storing their priceless gems and jewels, only for me to be placed in this filthy campsite to cater for your petty needs. Anyhow, would you like me to offer you my services?',
+      ru: 'Да, я говорящий сундук, я уже вижу как вопрос формируется на ваших губах. Много лет я служил королевским семьям, хранил их бесценные драгоценности, только для того, чтобы меня отправили в этот грязный лагерь для удовлетворения ваших мелочных потребностей. Как бы то ни было, вы хотите, чтобы я предложил вам свои услуги? ',
+      pt: 'Sim, eu sou um baú falante, eu já consigo ver as perguntas a surgirem nos teus lábios. Durante muitos anos servi famílias da nobreza, armazenando as suas magníficas gemas e jóias de valores inimagináveis, para que eu seja colocado neste nojento acampamento para satisfazer as tuas insignificantes nesse idades. De qualquer forma, gostarias que eu te oferecesse os meus serviços?',
+      fr: 'Bon, je t\'arrête tout de suite. Oui, je suis un coffre qui parle. J\'ai servi pendant de longues années les familles royales, entreposant leurs inestimables bijoux et joyaux, pour ensuite me placer dans ce campement crasseux afin de répondre à vos capricieux besoins. Bon, trêve de mondanités, souhaitez-vous que je vous offre mes services?',
+      tr: 'Evet, ben bir konuşan sandığım, görüyorum ki bunun hakkında soru soracaksın. Sadece bu pis kamp alanında senin küçük ihtiyaçlarını karşılamak için yıllarca kraliyet ailelerine hizmet ettim, onların paha biçilemez mücevherlerini ve değerli taşlarını sakladım. Neyse, size hizmetlerimi sunmamı ister misiniz?'
     },
 
     choices: [{

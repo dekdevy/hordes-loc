@@ -21,7 +21,8 @@ export default [
       cs: 'Levné kožené kapely koupil ambiciózní farmář.',
       ja: '野心的な農民によって買われた安い革バンド。',
       ro: 'Brățări de piele ieftină cumpărată de un fermier ambițios.',
-      da: 'Billige læderbånd købt af en ambitiøs landmand.'
+      da: 'Billige læderbånd købt af en ambitiøs landmand.',
+      tr: 'Azimli bir çiftçi tarafından alınmış ucuz deri şeritler.'
     }
   },
 
@@ -47,7 +48,8 @@ export default [
       bg: 'Умели ръце направиха сложна работа, за да направят тези домашни маншети.',
       ja: '熟練した手はこれらの自家製の袖口を作ることにおいて複雑な仕事をしました。',
       ro: 'Niște mâini dibace au făcut o muncă complicată pentru realizarea acestor manșete de casă.',
-      da: 'Færdige hænder gjorde et indviklet job ved at lave disse hjemmelavede manchetter.'
+      da: 'Færdige hænder gjorde et indviklet job ved at lave disse hjemmelavede manchetter.',
+      tr: 'Bu ev yapımı bileklikler marifetli eller tarafından özenle yapıldı.'
     }
   },
 
@@ -73,7 +75,8 @@ export default [
       bg: 'Скръв, направи ръцете си възпалени.',
       ja: '硬直して、腕を痛めます。',
       ro: 'Rigid, îți inflamează brațele.',
-      da: 'Stiv, gør dine arme ømme.'
+      da: 'Stiv, gør dine arme ømme.',
+      tr: 'Sert, kollarını acıtabilir.'
     }
   },
 
@@ -82,7 +85,7 @@ export default [
     description: {
       en: 'Elegant cuffs made from the tusks of the last mammoth.',
       ru: 'Элегантные наручники, сделаные из бивней последнего мамонта.',
-      es: 'Unos puños elegantes creados con el comillo del mamut final.',
+      es: 'Unos puños elegantes creados con el colmillo del mamut final.',
       fr: 'Menottes élégant fait à partir des défenses du dernier mammouth.',
       de: 'Elegante Manschetten aus den Stoßzähnen des letzten Mammuts.',
       pt: 'Elegantes algemas feitas das presas do último mamute.',
@@ -216,7 +219,7 @@ export default [
     description: {
       en: 'The ancient golems left remnants of their passing, which you unscrupulously have decided to wear on your arm.',
       ru: 'Древние големы оставили остатки своих похождений, которые вы бессовестно решили надеть на руку.',
-      es: 'Los golems antiguos dejaron restos de su paso, que sin escrúpulos ha decido llevar en su brazo.',
+      es: 'Los golems antiguos dejaron restos de su paso, que sin escrúpulos ha decidido llevar en su brazo.',
       fr: 'Les géants anciens ont laissé des restes de leur passage, que vous avez sans scrupule décidé de porter sur votre bras.',
       de: 'Die alten Golems hinterließen Überreste ihres Ablebens, die du skrupellos auf deinem Arm getragen hast.',
       pt: 'Os antigos gigantes deixaram vestígios de sua passagem, que você, sem escrúpulos, decidiu usar em seu braço.',
@@ -270,7 +273,7 @@ export default [
     description: {
       en: 'Stars are not often black, yet this fragment has a... deep... deep darkness.',
       ru: 'Звезды не часто черны, но этот фрагмент имеет... глубокую... глубокую тьму.',
-      es: 'Normalmente, las estrellas no son negras, pero eso trozo tiene un intenso... intenso... oscuridad.',
+      es: 'Normalmente, las estrellas no son negras, pero eso trozo tiene una intensa... intensa... oscuridad.',
       fr: 'Les étoiles ne sont pas souvent noires, mais ce fragment a une... très... très profonde obscurité.',
       de: 'Sterne sind nicht oft schwarz, aber dieses Fragment hat eine... tiefe... tiefe... tiefe Dunkelheit.',
       pt: 'As estrelas não são normalmente negras, mas este fragmento tem uma... profunda... profunda escuridão.',

@@ -1,84 +1,109 @@
-// Dont translate any of these for now, i need to figure out best lengths first
+// - - - IMPORTANT - - -
+// Please use typical RPG translations. Look into DND if unsure. MP / HP and the likes are very likely untouched in most languages
+// ** DO NOT MAKE TRANSLATIONS 1-2 CHARS LONGER THAN THE ENGLISH VERSION OR THE PR WILL BE DECLINED **
+
 export default {
 
   misc: {
     damage: {
-      en: 'Damage'
+      en: 'Damage',
+      fr: 'Dommage',
+      ru: 'Урон'
     }
   },
 
   array: [
 
     {
-      en: 'Strength'
+      en: 'Strength',
+      fr: 'Force',
+      ru: 'Сила'
     },
 
     {
-      en: 'Stamina'
+      en: 'Stamina',
+      fr: 'Ténacité',
+      ru: 'Стойкость'
     },
 
     {
-      en: 'Dexterity'
+      en: 'Dexterity',
+      fr: 'Dextérité',
+      ru: 'Ловкость'
     },
 
     {
-      en: 'Intelligence'
+      en: 'Intelligence',
+      ru: 'Интеллект'
     },
 
     {
-      en: 'Wisdom'
+      en: 'Wisdom',
+      fr: 'Sagesse',
+      ru: 'Мудрость'
     },
 
     {
-      en: 'Luck'
+      en: 'Luck',
+      fr: 'Chance',
+      ru: 'Удача'
     },
 
     {
-      en: 'HP'
+      $$: 'HP'
     },
 
     {
-      en: 'MP'
+      $$: 'MP'
     },
 
     {
-      en: 'HP Reg./5s'
+      $$: 'HP Reg./5s'
     },
 
     {
-      en: 'MP Reg./5s'
+      $$: 'MP Reg./5s'
     },
 
     {
-      en: 'Min Damage'
+      en: 'Min Dmg.'
     },
 
     {
-      en: 'Max Damage'
+      en: 'Max Dmg.'
     },
 
     {
-      en: 'Defense'
+      en: 'Defense',
+      fr: 'Défense',
+      ru: 'Защита'
     },
 
     {
-      en: 'Block'
+      en: 'Block',
+      ru: 'Блок'
     },
 
     {
       en: 'Evade'
+      // ru: 'Уклонение'
     },
 
     {
-      en: 'Accuracy'
+      en: 'Accuracy',
+      fr: 'Précision',
+      ru: 'Точность'
     },
 
     {
-      en: 'Critical'
+      en: 'Critical',
+      ru: 'Крит. шанс'
     },
 
     {
-      en: 'Move Speed'
+      en: 'Move Spd.',
+      fr: 'Vitesse',
+      ru: 'Скорость'
     },
 
     {
@@ -86,7 +111,8 @@ export default {
     },
 
     {
-      en: 'Attack Speed'
+      en: 'Attack Spd.',
+      ru: 'Скорость атк.'
     },
 
     {
@@ -95,30 +121,39 @@ export default {
 
     {
       en: 'Bag Slots'
+      // ru: 'Слоты в сумки'
     },
 
     {
-      en: 'Fame'
+      en: 'Fame',
+      ru: 'Слава'
     },
 
     {
-      en: 'Stat Points'
+      en: 'Stat Points',
+      ru: 'Очки статов'
     },
 
     {
-      en: 'Skill Points'
+      en: 'Skill Points',
+      ru: 'Очки умений'
     },
 
     {
-      en: '% Increased Damage'
+      en: '% Increased Dmg.',
+      fr: '% Dégat Augmenté',
+      ru: '% Увеличения урона'
     },
 
     {
-      en: '% Increased Aggro Generation'
+      en: '% Increased Aggro Generation',
+      ru: '% Увеличения агрессии'
     },
 
     {
-      en: '% Movement Speed Reduction'
+      en: '% Movement Spd. Reduction',
+      fr: '% Vitesse réduction',
+      ru: '% Cнижения скорости движения'
     }
   ]
 }

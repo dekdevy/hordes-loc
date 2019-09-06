@@ -209,5 +209,33 @@ export default [{
   description: {
     en: 'Your Precise Shot applies a poisonous Debuff on hit.'
   }
+},
+{
+  name: {$$: 'Healing Totem'},
+
+  description: {
+    en: 'Place a totem on the ground healing your entire party temporarily.'
+  }
+},
+{
+  name: {$$: 'Swift Shot'},
+
+  description: {
+    en: 'Fire a swift shot with no casting time, marking your target for additional damage.'
+  }
+},
+{
+  name: {$$: 'Teleport'},
+
+  description: {
+    en: 'Instantly teleport into the direction you are facing.'
+  }
+},
+{
+  name: {$$: 'Charge'},
+
+  description: {
+    en: 'Charge towards your target while also stunning it. Stun duration increases with charge distance.'
+  }
 }
 ]

@@ -68,7 +68,7 @@ To add a translation, simply add a [ISO639-2 Language code](http://www.lingoes.n
     de: 'Jäger'
   }
   ```
-We do not have to add a German translation for the `descriptions` string (You can if you want to, of course). It is perfectly fine if the translations are incomplete, as the build system will automatically resolve the incomplete translations to English.
+We do not have to add a German translation for the `description` string (You can if you want to, of course). It is perfectly fine if the translations are incomplete, as the build system will automatically resolve the incomplete translations to English.
 Once you finished your translation, scroll down to the bottom of the page to find a button named `Commit changes`. Leave the option below as `Commit directly to the master branch` and click the button.
 Now that you're done comitting the translation, go to your fork's main page and click the button `New pull request`, add in a name for your Pull Request and click `Create Pull Request`.
 If everything went fine, your translations will be available in the game.
