@@ -183,7 +183,7 @@ export default [
       bg: 'Един експертен поклон на елегантен раса.',
       cs: 'Odborný luk elegantní druh.',
       ja: '優雅なレースの巧妙な弓。',
-      ro: 'Un arc expert al unei curse elegante.',
+      ro: 'Un arc expert al unei rasă elegante.',
       ko: '우아한 레이스의 전문가 활입니다.',
       da: 'En ekspertbue af en elegant race.'
     }
