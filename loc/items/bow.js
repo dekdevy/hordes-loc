@@ -1,5 +1,5 @@
 export default [
-  { // T1 item name. names are english only!
+  { // Item name. Names are English only!
     name       : {$$: 'Driftwood Shortbow' },
     // Item description
     description: {
@@ -171,9 +171,9 @@ export default [
       de: 'Ein erfahrener Bogen eines eleganten Rennens.',
       es: 'Un arco experta de una raza elegante.',
       pt: 'Um arco perito de uma raça elegante.',
-      nl: 'Een deskundige boog van een verfijnd race.',
-      pl: 'Ekspercki łuk elegancki rasy.',
-      it: 'Un arco esperto di una razza signorile.',
+      nl: 'Een deskundige boog van een verfijnd geslacht.',
+      pl: 'Ekspercki łuk elegancki ród.',
+      it: 'Un arco esperto di una gente signorile.',
       tl: 'Isang dalubhasang bow ng isang eleganteng lahi.',
       sv: 'En expertbuga av en sirlig ras.',
       ht: 'Yon banza ekspè nan yon ras ki elegan.',
@@ -181,9 +181,9 @@ export default [
       hi: 'एक सुरुचिपूर्ण दौड़ का एक विशेषज्ञ धनुष।',
       el: 'Ένας ειδικός τόξο μιας κομψής φυλής.',
       bg: 'Един експертен поклон на елегантен раса.',
-      cs: 'Odborný luk elegantní závodu.',
+      cs: 'Odborný luk elegantní druh.',
       ja: '優雅なレースの巧妙な弓。',
-      ro: 'Un arc expert al unei curse elegante.',
+      ro: 'Un arc expert al unei rasă elegante.',
       ko: '우아한 레이스의 전문가 활입니다.',
       da: 'En ekspertbue af en elegant race.'
     }
