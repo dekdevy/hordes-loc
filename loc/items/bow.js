@@ -157,7 +157,7 @@ export default [
       cs: 'Dej dohromady s kostmi... někoho?',
       ja: '〜誰かの骨と一緒に？',
       ro: 'Făcut din oasele... cuiva?',
-      ko: '뼈로 만들어진 활… 누구의 뼈일가?',
+      ko: '뼈로 만들어진 활... 누구의 뼈일가?',
       da: 'Sammen med knoglerne af... nogen?'
     }
   },
