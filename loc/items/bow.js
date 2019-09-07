@@ -233,7 +233,6 @@ export default [
       ht: 'Burns lwen lènmi an ak spiciest nan koloran wouj.',
       el: 'Εξαφανίζει τον εχθρό με το πιό spicyest του κόκκινου χρωματισμού.',
       bg: 'Изгаря врага с най-блестящия червен цвят.',
-      tr: 'Düşmanı kırmızı renkteki boya ile yakar.',
       hi: 'मसालेदार लाल रंग से दुश्मनों को राख कर देता है।',
       cs: 'Spálí nepřítele s nejjemnějším červeným zbarvením.',
       ja: '最も辛い赤色の着色で敵を焼き払います。',
