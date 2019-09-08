@@ -253,7 +253,7 @@ export default [
       pt: 'Botas frias forjadas sem calor que lhe permitem correr sem tropeçar',
       ko: '비틀 거리지 않고 달릴 수있는 열없이 단조 된 콜드 부츠',
       nl: 'Koude laarzen gesmeed zonder warmte waardoor u zonder struikelen kunt lopen',
-      tr: 'Isı kullanılmadan dövülerek yapılan bu buz gibi soğuk botlar, tökezlemeden koşmanı sağlayacak.',
+      tr: 'Ateş kullanılmadan işlenmiş bu buz gibi soğuk botlar, tökezlemeden koşmanı sağlayacak.',
       pl: 'Zimne buty kute na gorąco, które umożliwiają bieganie bez potykania się.',
       sv: 'Kall stövlar smidda utan värme vilket gör att du kan springa utan att snubbla',
       ht: 'Bòt frèt fòje san chalè ki pèmèt ou kouri san yo pa bite',
