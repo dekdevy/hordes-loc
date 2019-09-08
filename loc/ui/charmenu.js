@@ -1,7 +1,6 @@
 export default {
 
   // Character selection
-
   select: {
     title: {
       en: 'Select Character',
@@ -191,7 +190,7 @@ export default {
       fr: 'Sélectionnez une Classe',
       ko: '클래스 선택',
       tr: 'Bir sınıf Seç',
-      bg: 'Изберете клас',
+      bg: 'Изберете Клас',
       cs: 'Vyberte Třídu',
       el: 'Επιλέξτε μια τάξη',
       ja: 'クラスを選択',
@@ -216,11 +215,11 @@ export default {
       de: 'Wählen Sie eine Fraktion aus',
       ko: '진영을 선택하십시오',
       tr: 'Bir Grup seç',
-      bg: 'Изберете фракция',
+      bg: 'Изберете Фракция',
       cs: 'Vyberte Frakci',
       el: 'Επιλέξτε μια παράταξη',
       ja: '派閥を選択',
-      tl: 'Pumili ng isang pangkatin',
+      tl: 'Pumili ng isang Pangkatin',
       it: 'Seleziona una Fazione',
       pl: 'Wybierz Frakcję',
       nl: 'Selecteer een Factie',
