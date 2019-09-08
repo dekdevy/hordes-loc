@@ -39,7 +39,7 @@ export default {
     {en: 'Okay. One, final last thing, I promise. See that cogwheel button in the upper right corner? The game settings.'},
     {en: 'You can change many things here, such as the language, or reducing the graphics.'},
     {en: 'Alright, close the settings again.'},
-    {en: 'Thats it. You did it. You finally are ready to slay. Your faction depends on you.'},
+    {en: 'That\'s it. You did it. You finally are ready to slay. Your faction depends on you.'},
     {en: 'Good luck, champion. I\'ll be back.'}
   ]
 }
