@@ -126,7 +126,7 @@ export default [
       tl: 'Ang isang lahi ng mga eleganteng elves ay nagtayo ng pinong singsing upang protektahan ang kanilang sarili mula sa panganib.',
       el: 'Μια φυλή κομψών ξωτικών κατασκευάζει αυτό το ωραίο δαχτυλίδι για να προστατευθεί από τον κίνδυνο.',
       bg: 'Състезание от елегантни елфи изгради този фин пръстен, за да се предпази от опасност.',
-      cs: 'Závod elegantních elfů vytvořil tento jemný prsten, aby se chránil před nebezpečím.',
+      cs: 'Druh elegantních elfů vytvořil tento jemný prsten, aby se chránil před nebezpečím.',
       ja: '優雅なエルフのレースは危険から身を守るためにこの素晴らしい指輪を作りました。',
       ro: 'O rasă de elfi eleganți a construit acest inel frumos pentru a se proteja de pericole.',
       tr: 'Zarif elflerden bir ırk, kendilerini tehlikeden korumak için bu güzel yüzüğü işledi.',
