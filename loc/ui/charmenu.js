@@ -265,9 +265,7 @@ export default {
       es: 'Su nombre sólo puede contener los caracteres de la a-Z, y los números del 0 al 9, sin espacios. Entre 3 y 16 caracteres.',
       de: 'Dein Name darf nur die Zeichen a-Z und die Zahlen 0-9 ohne Leerzeichen enthalten. Zwischen 3 und 16 Zeichen.',
       ko: '이름에는 공백없이 a-Z와 0-9의 문자 만 사용할 수 있습니다. 최대 16 자.',
-
-      // "Up to 16 characters" not edited to "Between 3 and 16 characters" yet.
-      tr: 'İsminiz boşluk bırakmadan yalnızca a-Z karakterlerini ve 0-9 arasındaki sayıları içerebilir. 16 karaktere kadar.',
+      tr: 'İsminiz boşluk bırakmadan yalnızca a-Z karakterlerini ve 0-9 arasındaki sayıları içerebilir. 3-16 karakter arasında',
       bg: 'Вашето име може да съдържа само знаци a-Z и цифри 0-9, без никакви интервали. Между 3 и 16 знака.',
       cs: 'Vaše jméno může obsahovat pouze znaky a-Z a čísla 0-9, bez mezer. Mezi 3 a 16 znaky.',
       el: 'To όνομά σας μπορεί να περιέχει μόνο χαρακτήρες a-Z και αριθμούς 0-9, χωρίς κενά. Μεταξύ 3 και 16 χαρακτήρων.',
