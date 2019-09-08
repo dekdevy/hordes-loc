@@ -288,7 +288,7 @@ export default {
 
   // Character deletion
   delete: {
-    // It places the characters name after the string, e.g. 'Delete Battlebubbles'
+    // The character's name is placed after this string, e.g. 'Delete Battlebubbles'
     title: {
       en: 'Delete',
       sv: 'Radera',
