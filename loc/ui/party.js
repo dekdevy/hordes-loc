@@ -38,7 +38,7 @@ export default {
     pl: 'Kop Party',
     es: 'Sacar del Party',
     de: 'Treten',
-    fr: 'Virer de la Party"',
+    fr: 'Virer de la Party',
     ht: 'Party Choute',
     nl: 'Paty Uitgooien',
     tr: 'Party\'den at',
