@@ -16,7 +16,7 @@ export default {
     ko: 'Vanguardの大群は、社会における伝統、構造、そして秩序を求めています。 彼らの城はGuardstone周辺の緑豊かな地域にあります。',
     pt: 'A horda Vanguarda procura tradições, estruturas e ordem na sociedade. O seu Castelo pode ser encontrado em uma área verde exuberante ao redor de Guardstone.',
     nl: 'De Vanguard horde zoekt traditie, structuur en orde in de samenleving. Hun kasteel bevindt zich in een weelderig groen gebied rond Guardstone.',
-    tr: 'Vanguard sürüsü, toplumda gelenek, yapı ve düzeni arar. Kaleleri, Muhafız Taşı çevresindeki yemyeşil bir alanda bulunur.',
+    tr: 'Vanguard sürüsü, toplumda gelenek, yapı ve düzeni arar. Kaleleri, Guardstone çevresindeki yemyeşil bir alanda bulunur.',
     it: 'L\'orda di Vanguard cerca la tradizione, la struttura e l\'ordine nella società. Il loro castello può essere trovato in un\'area verde fertile intorno a Guardstone.',
     ht: 'Vanguard chèche tradisyon, estrikti ak lòd nan sosyete a. Ka chato yo ka jwenn nan yon zòn bèl vèt alantou Guardstone.',
     tl: 'Ang Vanguard horde ay naglalayong istraktura ng istraktura at kaayusan sa lipunan. Ang kanilang Castle ay makikita sa luntiang luntiang lugar sa paligid ng Guardstone.',
