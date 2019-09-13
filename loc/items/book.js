@@ -18,7 +18,7 @@ export default [{
   name: {$$: 'Bulwark'},
 
   description: {
-    en: 'Increase your block chance temporarily, while raising your damage for each successful block.' // descriptions are coming from the buffs
+    en: 'Increase your block chance, while raising your damage for each successful block.' // descriptions are coming from the buffs
   }
 },
 {
@@ -81,7 +81,7 @@ export default [{
   name: {$$: 'Invigorate'},
 
   description: {
-    en: 'You temporarily gain Haste and your Precise Shots regenerate mana on hit.'
+    en: 'You gain Haste and your Precise Shots regenerate mana on hit.'
   }
 },
 {
@@ -116,7 +116,7 @@ export default [{
   name: {$$: 'Hypothermic Frenzy'},
 
   description: {
-    en: 'You temporarily gain Haste and all your damage output is increased.'
+    en: 'You gain Haste and all your damage output is increased.'
   }
 },
 {
@@ -137,14 +137,14 @@ export default [{
   name: {$$: 'Unholy Warcry'},
 
   description: {
-    en: 'You and your party members deal additional Damage temporarily.'
+    en: 'You and your party members deal additional Damage.'
   }
 },
 {
   name: {$$: 'Crusader\'s Courage'},
 
   description: {
-    en: 'You and your party members gain additional Defense temporarily.'
+    en: 'You and your party members gain additional Defense.'
   }
 },
 {
@@ -158,7 +158,7 @@ export default [{
   name: {$$: 'Arctic Aura'},
 
   description: {
-    en: 'You and your party members gain additional Crit% temporarily.'
+    en: 'You and your party members gain additional Crit%.'
   }
 },
 {
@@ -172,14 +172,14 @@ export default [{
   name: {$$: 'Enchantment'},
 
   description: {
-    en: 'Increase your targets Damage temporarily.'
+    en: 'Increase your targets Damage.'
   }
 },
 {
   name: {$$: 'Temporal Dilation'},
 
   description: {
-    en: 'You and your party members gain additional Haste temporarily.'
+    en: 'You and your party members gain additional Haste.'
   }
 },
 {
@@ -193,7 +193,7 @@ export default [{
   name: {$$: 'Pathfinding'},
 
   description: {
-    en: 'You and your party members gain additional Movement Speed temporarily.'
+    en: 'You and your party members gain additional Movement Speed.'
   }
 },
 {
@@ -214,7 +214,7 @@ export default [{
   name: {$$: 'Healing Totem'},
 
   description: {
-    en: 'Place a totem on the ground healing your entire party temporarily.'
+    en: 'Place a totem on the ground healing your entire party.'
   }
 },
 {
@@ -256,7 +256,14 @@ export default [{
   name: {$$: 'Spirit Animal'},
 
   description: {
-    en: 'Transform into your spirit animal, allowing you to move faster. All spellcasting will cancel this effect.'
+    en: 'Turn into your spirit animal for additional movementspeed, removing all movement impairing effects active at the point of the transformation. All spellcasting will cancel this effect.'
+  }
+},
+{
+  name: {$$: 'Agonize'},
+
+  description: {
+    en: 'Turns your target into a zombie, interrupting all spellcasting and slowing movement for the duration.'
   }
 }
 ]
