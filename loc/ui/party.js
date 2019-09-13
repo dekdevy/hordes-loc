@@ -232,5 +232,13 @@ export default {
     tl: 'Kopyahin sa clipboard',
     ro: 'Copiați în clipboard',
     da: 'Kopier til buffer'
+  },
+
+  summon: {
+    en: 'Summon'
+  },
+
+  onSummon: {
+    en: '$1 is offering to summon you to their location.'
   }
 }
