@@ -200,7 +200,7 @@ export default [{
   name: {$$: 'Canine Howl'},
 
   description: {
-    en: 'Increase your targets Haste temporarily.'
+    en: 'You and your entire party enrages with haste, causing you to attack faster.'
   }
 },
 {
