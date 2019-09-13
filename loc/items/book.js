@@ -265,5 +265,12 @@ export default [{
   description: {
     en: 'Turns your target into a zombie, interrupting all spellcasting and slowing movement for the duration.'
   }
+},
+{
+  name: {$$: 'Snipe'},
+
+  description: {
+    en: 'Your next Precise Shot deals increased damage.'
+  }
 }
 ]
