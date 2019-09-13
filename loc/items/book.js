@@ -251,5 +251,12 @@ export default [{
   description: {
     en: 'Summon your party members, allowing them to instantly teleport towards you.'
   }
+},
+{
+  name: {$$: 'Spirit Animal'},
+
+  description: {
+    en: 'Transform into your spirit animal, allowing you to move faster. All spellcasting will cancel this effect.'
+  }
 }
 ]
