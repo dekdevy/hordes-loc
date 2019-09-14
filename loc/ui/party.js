@@ -273,8 +273,8 @@ export default {
   },
 
   removeAssistant: {
-    en: 'Remove Assistant',
-    ru: 'Убрать Ассистента',
+    en: 'Demote Assistant',
+    ru: 'Уволить Ассистента',
     cs: 'Odebrat Vedoucí',
     pt: 'Remover Assistente',
     es: 'Quitar Asistente',
