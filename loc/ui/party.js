@@ -236,7 +236,9 @@ export default {
 
   summon: {
     en: 'Summon',
-    ru: 'Вызвать'
+    ru: 'Вызвать',
+    cs: 'Svolej',
+    pt: 'Invokar'
   },
 
   onSummon: {
