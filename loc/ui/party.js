@@ -248,7 +248,8 @@ export default {
     ru: '$1 предлагает пригласить вас к себе.',
     pt: '$1 está a oferecer invocar te na localização dele.',
     es: '$1 está ofreciendo invocarte en su ubicación.',
-    pl: '$1 proponuje, że zaprosi cię do siebie.'
+    pl: '$1 proponuje, że zaprosi cię do siebie.',
+    tr: '$1 seni yanına çağırıyor'
   },
 
   giveAssistant: {
@@ -257,7 +258,8 @@ export default {
     cs: 'Povýšte na Pomocník',
     pt: 'Promover para Assistente',
     es: 'Asciende a Asistente',
-    pl: 'Promuj na Asystenta'
+    pl: 'Promuj na Asystenta',
+    tr: 'Asistanlığa Terfi Ettir'
   },
 
   giveLeader: {
@@ -266,7 +268,8 @@ export default {
     cs: 'Povýšte na Vedoucí',
     pt: 'Promover para Líder',
     es: 'Asciende a Líder',
-    pl: 'Promuj na Lider'
+    pl: 'Promuj na Lider',
+    tr: 'Liderliğe Terfi Ettir'
   },
 
   removeAssistant: {
@@ -275,6 +278,7 @@ export default {
     cs: 'Odebrat Vedoucí',
     pt: 'Remover Assistente',
     es: 'Quitar Asistente',
-    pl: 'Usunąć Asystenta'
+    pl: 'Usunąć Asystenta',
+    tr: 'Asistanlıktan Çıkar'
   }
 }
