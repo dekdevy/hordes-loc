@@ -1,7 +1,7 @@
 export default {
 
   /* ! Note: !
-    Do not translate the word "Party", to ensure consistent player communication
+    Do not translate the word "Party" to ensure consistent player communication
   */
 
   invite: {
@@ -29,7 +29,7 @@ export default {
     zh: '邀请加入 Party'
   },
 
-  // DO NOT translate Party
+  // DO NOT translate "Party"
   kick: {
     en: 'Party kick',
     ru: 'Выгнать',
@@ -55,7 +55,7 @@ export default {
     zh: '踢出 Party'
   },
 
-  // DO NOT translate Party
+  // DO NOT translate "Party"
   leave: {
     en: 'Leave Party',
     it: 'Andarsene Party',
@@ -81,7 +81,7 @@ export default {
     zh: '离开 Party'
   },
 
-  // DO NOT translate Party
+  // DO NOT translate "Party"
   create: {
     en: 'Create Party',
     ru: 'Создать Party',
@@ -107,7 +107,7 @@ export default {
     zh: '创建 Party'
   },
 
-  // DO NOT translate Party
+  // DO NOT translate "Party"
   onInvite: {
     en: '$1 has invited you to join their Party.',
     de: '$1 hat dich eingeladen, an ihrer Party teilzunehmen.',
@@ -181,7 +181,7 @@ export default {
     da: 'Invitation Link'
   },
 
-  // DO NOT translate Party
+  // DO NOT translate "Party"
   onLink: {
     en: 'Send this link to other players! This will allow them to join your Party.',
     ru: 'Отправьте эту ссылку другим игрокам! Это позволит им присоединиться к вашей Party.',
@@ -235,11 +235,13 @@ export default {
   },
 
   summon: {
-    en: 'Summon'
+    en: 'Summon',
+    ru: 'Вызвать'
   },
 
   onSummon: {
-    en: '$1 is offering to summon you to their location.'
+    en: '$1 is offering to summon you to their location.',
+    ru: '$1 предлагает пригласить вас к себе'
   },
 
   giveAssistant: {
@@ -247,7 +249,8 @@ export default {
   },
 
   giveLeader: {
-    en: 'Promote to Leader'
+    en: 'Promote to Leader',
+    ru: 'Повысить до Лидера'
   },
 
   removeAssistant: {
