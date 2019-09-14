@@ -245,26 +245,30 @@ export default {
   onSummon: {
     en: '$1 is offering to summon you to their location.',
     ru: '$1 предлагает пригласить вас к себе.',
-    pt: '$1 está a oferecer invocar te na localização dele.'
+    pt: '$1 está a oferecer invocar te na localização dele.',
+    es: '$1 está ofreciendo invocarte en su ubicación.'
   },
 
   giveAssistant: {
     en: 'Promote to Assistant',
     ru: 'Повысить до Ассистента',
     cs: 'Povýšte na Pomocník',
-    pt: 'Promover para Assistente'
+    pt: 'Promover para Assistente',
+    es: 'Asciende a Asistente'
   },
 
   giveLeader: {
     en: 'Promote to Leader',
     ru: 'Повысить до Лидера',
     cs: 'Povýšte na Vedoucí',
-    pt: 'Promover para Líder'
+    pt: 'Promover para Líder',
+    es: 'Asciende a Líder'
   },
 
   removeAssistant: {
     en: 'Remove Assistant',
     ru: 'Убрать Ассистента',
-    pt: 'Remover Assistente'
+    pt: 'Remover Assistente',
+    es: 'Quitar Asistente'
   }
 }
