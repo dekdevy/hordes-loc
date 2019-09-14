@@ -249,7 +249,7 @@ export default {
     pt: '$1 está a oferecer invocar te na localização dele.',
     es: '$1 está ofreciendo invocarte en su ubicación.',
     pl: '$1 proponuje, że zaprosi cię do siebie.',
-    tr: '$1 seni yanına çağırıyor'
+    tr: '$1 seni yanına çağırıyor.'
   },
 
   giveAssistant: {
