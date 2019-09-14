@@ -246,12 +246,14 @@ export default {
 
   giveAssistant: {
     en: 'Promote to Assistant',
-    ru: 'Повысить до Помощника'
+    ru: 'Повысить до Помощника',
+    cs: 'Povýšte na Pomocník'
   },
 
   giveLeader: {
     en: 'Promote to Leader',
-    ru: 'Повысить до Лидера'
+    ru: 'Повысить до Лидера',
+    cs: 'Povýšte na Leader'
   },
 
   removeAssistant: {
