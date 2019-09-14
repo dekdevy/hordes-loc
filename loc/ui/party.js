@@ -6,7 +6,7 @@ export default {
 
   invite: {
     en: 'Party invite',
-    ru: 'Пригласить в party',
+    ru: 'Пригласить в Party',
     it: 'Invito Party',
     pt: 'Convidar para a Party',
     nl: 'Uitnodigen Party',
@@ -257,7 +257,8 @@ export default {
   giveLeader: {
     en: 'Promote to Leader',
     ru: 'Повысить до Лидера',
-    cs: 'Povýšte na Vedoucí'
+    cs: 'Povýšte na Vedoucí',
+    pt: 'Promover para Líder'
   },
 
   removeAssistant: {
