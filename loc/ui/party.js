@@ -239,14 +239,16 @@ export default {
     ru: 'Вызвать',
     cs: 'Svolej',
     pt: 'Invokar',
-    es: 'Invokar'
+    es: 'Invokar',
+    pl: 'Wezwać'
   },
 
   onSummon: {
     en: '$1 is offering to summon you to their location.',
     ru: '$1 предлагает пригласить вас к себе.',
     pt: '$1 está a oferecer invocar te na localização dele.',
-    es: '$1 está ofreciendo invocarte en su ubicación.'
+    es: '$1 está ofreciendo invocarte en su ubicación.',
+    pl: '$1 proponuje, że zaprosi cię do siebie.'
   },
 
   giveAssistant: {
@@ -254,7 +256,8 @@ export default {
     ru: 'Повысить до Ассистента',
     cs: 'Povýšte na Pomocník',
     pt: 'Promover para Assistente',
-    es: 'Asciende a Asistente'
+    es: 'Asciende a Asistente',
+    pl: 'Promuj na Asystenta'
   },
 
   giveLeader: {
@@ -262,7 +265,8 @@ export default {
     ru: 'Повысить до Лидера',
     cs: 'Povýšte na Vedoucí',
     pt: 'Promover para Líder',
-    es: 'Asciende a Líder'
+    es: 'Asciende a Líder',
+    pl: 'Promuj na Lider'
   },
 
   removeAssistant: {
@@ -270,6 +274,7 @@ export default {
     ru: 'Убрать Ассистента',
     cs: 'Odebrat Vedoucí',
     pt: 'Remover Assistente',
-    es: 'Quitar Asistente'
+    es: 'Quitar Asistente',
+    pl: 'Usunąć Asystenta'
   }
 }
