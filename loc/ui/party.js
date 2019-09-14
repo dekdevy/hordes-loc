@@ -240,5 +240,17 @@ export default {
 
   onSummon: {
     en: '$1 is offering to summon you to their location.'
+  },
+
+  giveAssistant: {
+    en: 'Promote to Assistant'
+  },
+
+  giveLeader: {
+    en: 'Promote to Leader'
+  },
+
+  removeAssistant: {
+    en: 'Remove Assistant'
   }
 }
