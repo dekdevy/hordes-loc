@@ -241,7 +241,8 @@ export default {
 
   onSummon: {
     en: '$1 is offering to summon you to their location.',
-    ru: '$1 предлагает пригласить вас к себе'
+    ru: '$1 предлагает пригласить вас к себе',
+    pt: '$1 está a oferecer invocar te na localização dele'
   },
 
   giveAssistant: {
