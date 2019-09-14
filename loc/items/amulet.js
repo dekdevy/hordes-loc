@@ -294,7 +294,7 @@ export default [
 
   {
     name       : {$$: 'Yggdrasil Pendant'},
-    // Do NOT translate "World Tree" or "Yggdrasil" .
+    // Do NOT translate "World Tree" or "Yggdrasil".
     description: {
       en: 'Twisted pieces of the enormous World Tree, Yggdrasil, were made into amulets of the most sacred kind. Sap seeps out of the amulet and is absorbed by the body for extra protection.',
       ru: 'Крученые части огромного World Tree, Yggdrasil, были сделаны в амулеты самого священного вида. Сок просачивается из амулета и поглощается телом для дополнительной защиты.',
@@ -374,7 +374,7 @@ export default [
   {
     name       : {$$: 'Phoenix'},
     description: {
-      en: 'The centre of this amulet of phoenix feathers contains a small amount of ashes from all of the fallen adventurers that have ever owned it. Without exception, every adventurer to use such an amulet has transcended into legend.',
+      en: 'The center of this amulet of phoenix feathers contains a small amount of ashes from all of the fallen adventurers that have ever owned it. Without exception, every adventurer to use such an amulet has transcended into legend.',
       de: 'Das Zentrum dieses Amuletts aus Phönixfedern enthält eine kleine Menge Asche von allen gefallenen Abenteurern, die es je besessen haben. Ausnahmslos jeder Abenteurer, der ein solches Amulett benutzt, ist zur Legende geworden.',
       ru: 'В центре этого амулета из перьев феникса находится небольшое количество пепла от всех падших искателей приключений, которые когда-либо владели им. Без исключения, каждый искатель приключений, использующий такой амулет, превратился в легенду.',
       it: 'Il centro di questo amuleto di piume di fenice contiene una piccola quantità di cenere di tutti gli avventurieri caduti che l\'hanno mai posseduta. Senza eccezioni, ogni avventuriero che utilizza un tale amuleto è diventato leggenda.',
