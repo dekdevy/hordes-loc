@@ -154,13 +154,13 @@ export default {
 
     {
       en: 'Stat Points',
-      ru: 'Очки статов',
+      ru: 'Очки статов'
       // fr: 'Points de Stat'
     },
 
     {
       en: 'Skill Points',
-      ru: 'Очки умений',
+      ru: 'Очки умений'
       // fr: 'Points de Skill'
     },
 
