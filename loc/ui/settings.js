@@ -32,7 +32,7 @@ export default {
     hi: 'नियंत्रण',
     es: 'Controles',
     de: 'Kontrollen',
-    fr: 'Commandes',
+    fr: 'Contrôles',
     tr: 'Kontroller',
     nl: 'Bediening',
     pt: 'Controlos',
@@ -156,7 +156,8 @@ export default {
     en: 'Post-processing',
     de: 'Nachbearbeitung',
     ru: 'Постобработка',
-    tr: 'Detaylandırma'
+    tr: 'Detaylandırma',
+    fr: 'Post-traitement
   },
 
   skilleffects: {
@@ -165,7 +166,7 @@ export default {
     hi: 'स्किल दिखावट',
     es: 'Efectos de habilidades',
     de: 'Fertigkeitseffekte',
-    fr: 'Effets de compétences',
+    fr: 'Effets de habiletés',
     nl: 'Vaardigheidseffecten',
     tr: 'Yetenek efektleri',
     pt: 'Efeitos de habilidade',
@@ -478,6 +479,7 @@ export default {
   disabletutorial: {
     en: 'Disable tutorial',
     ru: 'Отключить обучения',
-    tr: 'Öğreticiyi kapat'
+    tr: 'Öğreticiyi kapat',
+    fr: 'Désactiver le tutoriel'
   }
 }
