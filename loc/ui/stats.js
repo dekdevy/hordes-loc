@@ -67,11 +67,13 @@ export default {
     },
 
     {
-      en: 'Min Dmg.'
+      en: 'Min Dmg.',
+      ru: 'Мин Ур.'
     },
 
     {
-      en: 'Max Dmg.'
+      en: 'Max Dmg.',
+      ru: 'Макс Ур.'
     },
 
     {
