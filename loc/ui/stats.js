@@ -7,7 +7,7 @@ export default {
   misc: {
     damage: {
       en: 'Damage',
-      fr: 'Dommage',
+      fr: 'Dégats',
       ru: 'Урон'
     }
   },
@@ -22,7 +22,7 @@ export default {
 
     {
       en: 'Stamina',
-      fr: 'Ténacité',
+      fr: 'Résistance',
       ru: 'Стойкость'
     },
 
@@ -34,7 +34,8 @@ export default {
 
     {
       en: 'Intelligence',
-      ru: 'Интеллект'
+      ru: 'Интеллект',
+      fr: 'Intelligence'
     },
 
     {
@@ -81,7 +82,9 @@ export default {
 
     {
       en: 'Block',
-      ru: 'Блок'
+      ru: 'Блок',
+      fr: 'Bloque'
+
     },
 
     {
@@ -97,7 +100,8 @@ export default {
 
     {
       en: 'Critical',
-      ru: 'Крит. шанс'
+      ru: 'Крит. шанс',
+      fr: 'Coup Crit.'
     },
 
     {
@@ -112,11 +116,13 @@ export default {
 
     {
       en: 'Attack Spd.',
-      ru: 'Скорость атк.'
+      ru: 'Скорость атк.',
+      //fr: 'Vit. d\'attq'
     },
 
     {
-      en: 'Item Find'
+      en: 'Item Find',
+      //fr: 'Rchr d\'items'
     },
 
     {
@@ -126,17 +132,20 @@ export default {
 
     {
       en: 'Fame',
-      ru: 'Слава'
+      ru: 'Слава',
+      fr: 'Gloire'
     },
 
     {
       en: 'Stat Points',
-      ru: 'Очки статов'
+      ru: 'Очки статов',
+      fr: 'Points de Stat'
     },
 
     {
       en: 'Skill Points',
-      ru: 'Очки умений'
+      ru: 'Очки умений',
+      fr: 'Points de Skill'
     },
 
     {
@@ -147,7 +156,8 @@ export default {
 
     {
       en: '% Increased Aggro Generation',
-      ru: '% Увеличения агрессии'
+      ru: '% Увеличения агрессии',
+      fr: '% Agressivité augmentée'
     },
 
     {
