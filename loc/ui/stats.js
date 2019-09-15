@@ -146,7 +146,8 @@ export default {
 
     {
       en: 'Bag Slots',
-      ru: 'Слоты Сумки'
+      ru: 'Слоты Сумки',
+      pt: 'Espaço'
     },
 
     {
@@ -165,19 +166,22 @@ export default {
     {
       en: 'Skill Points',
       ru: 'Очки умений'
+      // pt: 'Pontos de atributo'
       // fr: 'Points de Skill'
     },
 
     {
       en: '% Increased Dmg.',
       fr: '% Dégat Augmenté',
-      ru: '% Увеличения Урона'
+      ru: '% Увеличения Урона',
+      pt: '% Dano Aumentado'
     },
 
     {
       en: '% Increased Aggro Generation',
       ru: '% Увеличения Агрессии',
-      fr: '% Agressivité Augmentée'
+      fr: '% Agressivité Augmentée',
+      pt: '% Aggro Gerado'
     },
 
     {
