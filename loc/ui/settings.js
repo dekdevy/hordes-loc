@@ -157,7 +157,7 @@ export default {
     de: 'Nachbearbeitung',
     ru: 'Постобработка',
     tr: 'Detaylandırma',
-    fr: 'Post-traitement
+    fr: 'Post-traitement'
   },
 
   skilleffects: {
