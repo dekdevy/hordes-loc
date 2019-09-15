@@ -33,7 +33,7 @@ export default {
       en: 'Dexterity',
       fr: 'Dextérité',
       ru: 'Ловкость',
-      pt: 'Destreza'
+      pt: 'Agilidade'
     },
 
     {
@@ -130,7 +130,7 @@ export default {
     {
       en: 'Haste',
       ru: 'Скор.',
-      pt: 'Agilidade'
+      // pt: 'Aceleração'
     },
 
     {
