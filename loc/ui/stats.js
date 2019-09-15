@@ -117,12 +117,12 @@ export default {
     {
       en: 'Attack Spd.',
       ru: 'Скорость атк.',
-      //fr: 'Vit. d\'attq'
+      fr: 'Vit. d\'attq'
     },
 
     {
       en: 'Item Find',
-      //fr: 'Rchr d\'items'
+      // fr: 'Rchr d\'items'
     },
 
     {
