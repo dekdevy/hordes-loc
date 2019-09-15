@@ -47,6 +47,6 @@ export default {
     bg: 'Воините са построени да задържат повече чудовища от всеки друг клас, като имат висока защита чрез оборудване (Щитове) и силни защитни способности.',
     ro: 'Războinicii sunt făcuți pentru a atrage mai mulți monștrii decât orice altă clasă, având o defensivă foarte ridicată datorită echipamentului (Scuturi) și buff-uri defensive puternice.',
     da: 'Krigere er bygget til at tanke flere monstre end nogen anden klasse ved at have højt forsvar via udstyr (Skjolde) og stærke defensive buffs.',
-    zh: '通過裝備（盾牌）和強大的防守增益效果，戰士可以坦克比其他任何角色職業更多的怪物。'
+    zh: '通過裝備（盾牌）和強大的防守增益效果，戰士可以打敗比其他角色更多的怪物。'
   }
 }

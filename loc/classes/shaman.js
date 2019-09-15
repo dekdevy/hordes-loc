@@ -47,6 +47,6 @@ export default {
     bg: 'Ролята на шаманите е да подкрепят групата, като лекуват танковете и предлагат бъфове и де-бъфове.',
     ro: 'Rolul șamanului este de a sprijini grupul prin vindecarea Tancului și de a oferi Buff-uri de ofensiva sau Debuff-uri de paralizare.',
     da: 'Shamans rolle er at hjælpe gruppen ved at helbrede Tanken og tilbyde offensive Buffs eller lammende Debuffs.',
-    zh: '薩滿的角色是通過治療坦克和使用進攻性的buff或削弱Debuff來支持隊伍。'
+    zh: '薩滿的定位是通過治療坦克和使用增益buff或減益Debuff來支援隊伍。'
   }
 }
