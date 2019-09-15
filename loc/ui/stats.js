@@ -109,7 +109,7 @@ export default {
     {
       en: 'Move Spd.',
       fr: 'Vitesse',
-      ru: 'Скор. Двеж.'
+      ru: 'Скор. Двж.'
     },
 
     {
@@ -130,7 +130,7 @@ export default {
 
     {
       en: 'Bag Slots'
-      ru: 'Слоты сумки'
+      ru: 'Слоты Сумки'
     },
 
     {
