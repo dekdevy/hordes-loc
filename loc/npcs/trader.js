@@ -21,7 +21,7 @@ export default {
       it: 'Benvenuti ai migliori prodotti in circolazione! Non troverete un\'offerta migliore di quella che ho per voi; tuttavia, ho sentito dire che c\'è un negozio speciale con articoli fantastici come non ho mai visto. Nel frattempo, ho delle monete e dei prodotti di ricambio. Volete vendere qualcosa',
       pl: 'Witamy w najlepszych towarach w okolicy! Nie znajdziesz lepszej oferty niż ta, którą dla ciebie mam, ale słyszę, że istnieje specjalny sklep z fantastycznymi przedmiotami, w przeciwieństwie do czegokolwiek, co kiedykolwiek widziałem. W międzyczasie mam zapasowe monety i zapasowe towary. Czy lubisz coś sprzedawać?',
       ro: 'Bine ai venit la cele mai bune obiecte din împrejurimi! Nu vei găsi o afacere mai bună decât ceea ce am eu pentru tine; cu toate acestea, am auzit că există un magazin special cu elemente fantastice, diferite de orice am văzut vreodată. Între timp, am niște monede și bunuri de rezervă. Îți place să vinzi ceva?',
-      zh: '歡迎來到各地最好的商品！ 你不會找到比我給你更好的交易; 然而，我聽說有一個特別的商店，有很棒的物品，不像我見過的任何東西。 與此同時，我有一些備用硬幣和備用貨物。 你喜歡賣什麼東西嗎？'
+      zh: '歡迎來到各地最好的商品！ 你不會找到比我給你更好的交易; 然而，我聽說有一個特別的商店，有很棒的物品，不像我見過的任何東西。 與此同時，我有一些備用硬幣和備用貨物。 你想要賣些什麼嗎？'
     },
 
     choices: [{
@@ -71,7 +71,7 @@ export default {
     nl: 'Verkoop je items.',
     da: 'Sælg dine varer.',
     ro: 'Vinde-ți obiectele.',
-    zh: '賣你的物品。'
+    zh: '賣出你的物品。'
   },
 
   info: {
@@ -95,7 +95,7 @@ export default {
     nl: 'Om een artikel te verkopen, klik er met de rechtermuisknop op of sleep het naar het handelaarsvenster.',
     da: 'For at sælge et emne skal du højreklikke på det eller trække det i handlervinduet.',
     ro: 'Pentru a vinde un element, faceți clic-dreapta sau trageți-l în fereastra comerciantului.',
-    zh: '要賣物品，按右鍵在物品上或拖它到交易窗口中。',
+    zh: '要賣物品，在物品上按右鍵或把它拖入到交易窗口中。',
     tr: 'Bir eşyayı satmak için Shift\'e basılı tutarak eşyaya sağ tıklayın veya eşyayı takas penceresine sürükleyip bırakın.'
   },
 
@@ -121,7 +121,7 @@ export default {
     ro: 'Prețul de vânzare: ',
     it: 'Prezzo di vendita: ',
     da: 'Salgspris: ',
-    zh: '售價： ',
+    zh: '售價：',
     tr: 'Satış ücreti: '
   },
 
@@ -145,7 +145,7 @@ export default {
     bg: 'Интересувате ли се от нещо? Кликнете върху бележка, за да го купите.',
     ja: '何か興味がありますか？購入するにはアイテムをクリックしてください。',
     da: 'Er du interesseret i noget? Klik på en genstand for at købe den.',
-    zh: '你对什么感兴趣吗？点击商品即可购买。',
+    zh: '有感興趣的東西嗎？点击商品即可購買。',
     tr: 'İlginizi çeken bir şeyler var mı? Bir eşyayı almak isterseniz üstüne tıklayın.'
   }
 }
