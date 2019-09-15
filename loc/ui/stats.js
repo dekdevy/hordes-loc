@@ -68,12 +68,12 @@ export default {
 
     {
       en: 'Min Dmg.',
-      ru: 'Мин Ур.'
+      ru: 'Мин Урн.'
     },
 
     {
       en: 'Max Dmg.',
-      ru: 'Макс Ур.'
+      ru: 'Макс Урн.'
     },
 
     {
