@@ -124,7 +124,7 @@ export default {
       en: 'Move Spd.',
       fr: 'Vitesse',
       ru: 'Скор. Двж.',
-      pt: 'Rapidez'
+      pt: 'Velocidade'
     },
 
     {
