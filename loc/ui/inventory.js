@@ -126,7 +126,7 @@ export default {
     en: 'You have received $1',
     de: 'Du hast $1 erhalten.',
     ru: 'Вы получили $1.',
-    fr: 'Vous avez reçu 1.',
+    fr: 'Vous avez reçu $1.',
     nl: 'Je hebt 1 dollar ontvangen.',
     pl: 'Otrzymałeś 1 dolara.',
     pt: 'Você recebeu $1.',
@@ -152,7 +152,7 @@ export default {
     hi: 'वस्तु गिरा दे',
     es: 'Dejar caer objeto',
     de: 'Item ablegen',
-    fr: 'Déposer l\'objet',
+    fr: 'Déposer l\'item',
     nl: 'Laat vallen',
     pt: 'Soltar item',
     tr: 'Öğe bırak',
@@ -189,7 +189,7 @@ export default {
     sv: 'Utrusta föremål',
     da: 'Udstyr genstand',
     de: 'Statten Sie Ihren Items aus.',
-    fr: 'Equipez votre item',
+    fr: 'Equipez l\'item',
     nl: 'Rust uw item uit',
     ro: 'Echipează obiectul',
     zh: '上装备'
@@ -201,7 +201,7 @@ export default {
     hi: 'इस्तमाल करे',
     ro: 'Utilizează',
     es: 'Utilizar objeto',
-    fr: 'Utiliser l\'article',
+    fr: 'Utiliser l\'item',
     de: 'Item verwenden',
     pt: 'Usar item',
     ko: '항목 사용',
@@ -223,13 +223,15 @@ export default {
   splithalf: {
     en: 'Split half',
     ru: 'Разделить пополам',
-    bg: 'Разполови'
+    bg: 'Разполови',
+    fr: 'Partager en deux'
   },
 
   splitone: {
     en: 'Split one',
     ru: 'Отделить один',
-    bg: 'Вземи един'
+    bg: 'Вземи един',
+    fr: 'Retirer un item'
   },
 
   spend: {
@@ -261,7 +263,7 @@ export default {
     en: 'You died and lost $1 coins.',
     ru: 'Вы умерли и потеряли $1 монет.',
     es: 'Moriste y perdiste $1 monedas.',
-    fr: 'Vous êtes mort et perdu $1 pièces.',
+    fr: 'Vous êtes mort et avez perdu $1 pièces.',
     de: 'Du bist gestorben und hast $1 Münzen verloren.',
     pt: 'Você morreu e perdeu $1 moedas.',
     ko: '$1 개의 동전을 잃고 잃어 버렸습니다',
