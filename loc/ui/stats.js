@@ -109,11 +109,12 @@ export default {
     {
       en: 'Move Spd.',
       fr: 'Vitesse',
-      ru: 'Скорость'
+      ru: 'Скор. Двеж.'
     },
 
     {
-      en: 'Haste'
+      en: 'Haste',
+      ru: 'Скор.'
     },
 
     {
@@ -129,7 +130,7 @@ export default {
 
     {
       en: 'Bag Slots'
-      // ru: 'Слоты в сумки'
+      ru: 'Слоты сумки'
     },
 
     {
@@ -141,31 +142,31 @@ export default {
     {
       en: 'Stat Points',
       ru: 'Очки статов',
-      fr: 'Points de Stat'
+      // fr: 'Points de Stat'
     },
 
     {
       en: 'Skill Points',
       ru: 'Очки умений',
-      fr: 'Points de Skill'
+      // fr: 'Points de Skill'
     },
 
     {
       en: '% Increased Dmg.',
       fr: '% Dégat Augmenté',
-      ru: '% Увеличения урона'
+      ru: '% Увеличения Урона'
     },
 
     {
       en: '% Increased Aggro Generation',
-      ru: '% Увеличения агрессии',
-      fr: '% Agressivité augmentée'
+      ru: '% Увеличения Агрессии',
+      fr: '% Agressivité Augmentée'
     },
 
     {
       en: '% Movement Spd. Reduction',
-      fr: '% Vitesse réduction',
-      ru: '% Cнижения скорости движения'
+      fr: '% Vitesse Réduction',
+      ru: '% Cнижения Скор. Движения'
     }
   ]
 }
