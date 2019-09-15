@@ -1,7 +1,7 @@
 // - - - IMPORTANT - - -
 // Please use typical RPG translations. Look into DND if unsure. MP / HP and the likes are very likely untouched in most languages
 // ** DO NOT MAKE TRANSLATIONS 1-2 CHARS LONGER THAN THE ENGLISH VERSION OR THE PR WILL BE DECLINED **
-
+// Commented out stat translations are those which are too long and need to be shortened.
 export default {
 
   misc: {
@@ -160,14 +160,14 @@ export default {
 
     {
       en: 'Stat Points',
-      ru: 'Очки статов'
+      ru: 'Очки Статов'
       // fr: 'Points de Stat'
     },
 
     {
       en: 'Skill Points',
-      ru: 'Очки умений'
-      // pt: 'Pontos de atributo'
+      ru: 'Очки Умений'
+      // pt: 'Pontos de Atributo'
       // fr: 'Points de Skill'
     },
 
