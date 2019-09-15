@@ -129,7 +129,7 @@ export default {
     },
 
     {
-      en: 'Bag Slots'
+      en: 'Bag Slots',
       ru: 'Слоты Сумки'
     },
 
