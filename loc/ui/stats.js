@@ -116,18 +116,21 @@ export default {
     {
       en: 'Critical',
       ru: 'Крит. шанс',
-      fr: 'Coup Crit.'
+      fr: 'Coup Crit.',
+      pt: 'Crítico'
     },
 
     {
       en: 'Move Spd.',
       fr: 'Vitesse',
-      ru: 'Скор. Двж.'
+      ru: 'Скор. Двж.',
+      pt: 'Rapidez'
     },
 
     {
       en: 'Haste',
-      ru: 'Скор.'
+      ru: 'Скор.',
+      pt: 'Agilidade'
     },
 
     {
@@ -149,7 +152,8 @@ export default {
     {
       en: 'Fame',
       ru: 'Слава',
-      fr: 'Gloire'
+      fr: 'Gloire',
+      pt: 'Fama'
     },
 
     {
