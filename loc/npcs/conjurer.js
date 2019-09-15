@@ -29,7 +29,7 @@ export default {
     choices: [{
       en: 'Please bring me to $1.',
       ru: 'Пожалуйста, отведи меня к $1.',
-      fr: 'Apportez-moi vers le 1$, s\'il-vous plaît.',
+      fr: 'S\'il-vous plaît, apportez-moi vers 1$',
       hi: 'कृपया मुझे $1 ले चलें।',
       de: 'Bitte bring mich zu $1.',
       es: 'Por favor, lléveme a $1.',
