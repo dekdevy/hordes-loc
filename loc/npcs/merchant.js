@@ -22,7 +22,7 @@ export default {
       pt: 'Bem, olha só o que temos aqui! Não, esse equipamento não serve, pois não? Dê uma olhada no mercado aberto! Rumores estão se espalhando; eu ouvi falar sobre Warcry Scrolls que podem teleportar um amigo para a sua posição. Vamos manter isso entre nós, ok?',
       it: 'Beh, guarda cosa abbiamo qui! No, quell\'attrezzatura non va bene, vero? Date un\'occhiata al mercato aperto! Le voci si stanno diffondendo; ho sentito parlare di Warcry Scrolls che può teletrasportarti un amico alla tua posizione. Facciamo in modo che tra di noi, ok?',
       ro: 'Ei bine, uite ce avem aici! Nu, echipamentul nu e bun, așa-i? Aruncă o privire la piața liberă! Zvonurile se răspândesc, am auzit de pergamente de război care pot teleporta un prieten la poziția ta. Dar asta să rămână între noi, bine?',
-      zh: '來啊！看看我們這裡有什麼！ 不，那個裝備不行，對不對？ 看看開放市場！ 謠言正在蔓延; 聽說Warcry Scrolls可以把朋友傳送到你的位置。 我們保持那件事在我們之間的秘密，好嗎？'
+      zh: '來啊！看看我們這裡有什麼！ 不，那個裝備不行，對不對？ 看看開放市場！ 謠言正在蔓延; 聽說Warcry Scrolls可以把朋友傳送到你的位置。 不要讓第三個人知道這件事，好嗎？'
     },
 
     choices: [{
@@ -47,7 +47,7 @@ export default {
       ja: 'はい、商品を見せてください。',
       sv: 'Ja, visa mig objekten till salu.',
       da: 'Ja, vis mig varerne til salg.',
-      zh: '是的，給我看待售物品。'
+      zh: '好的，給我看看待售物品。'
     }]
   }]
 }
