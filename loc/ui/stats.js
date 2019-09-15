@@ -95,7 +95,7 @@ export default {
     {
       en: 'Block',
       ru: 'Блок',
-      fr: 'Bloque',
+      fr: 'Bloque'
       // pt: 'Bloqueio'
 
     },
