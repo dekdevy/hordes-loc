@@ -8,7 +8,8 @@ export default {
     damage: {
       en: 'Damage',
       fr: 'Dégats',
-      ru: 'Урон'
+      ru: 'Урон',
+      pt: 'Dano'
     }
   },
 
@@ -17,37 +18,43 @@ export default {
     {
       en: 'Strength',
       fr: 'Force',
-      ru: 'Сила'
+      ru: 'Сила',
+      pt: 'Força'
     },
 
     {
       en: 'Stamina',
       fr: 'Résistance',
-      ru: 'Стойкость'
+      ru: 'Стойкость',
+      pt: 'Vigor'
     },
 
     {
       en: 'Dexterity',
       fr: 'Dextérité',
-      ru: 'Ловкость'
+      ru: 'Ловкость',
+      pt: 'Destreza'
     },
 
     {
       en: 'Intelligence',
       ru: 'Интеллект',
-      fr: 'Intelligence'
+      fr: 'Intelligence',
+      pt: 'Inteligência'
     },
 
     {
       en: 'Wisdom',
       fr: 'Sagesse',
-      ru: 'Мудрость'
+      ru: 'Мудрость',
+      pt: 'Sabedoria'
     },
 
     {
       en: 'Luck',
       fr: 'Chance',
-      ru: 'Удача'
+      ru: 'Удача',
+      pt: 'Sorte'
     },
 
     {
@@ -68,36 +75,42 @@ export default {
 
     {
       en: 'Min Dmg.',
-      ru: 'Мин Урн.'
+      ru: 'Мин Урн.',
+      pt: 'Dano Mín'
     },
 
     {
       en: 'Max Dmg.',
-      ru: 'Макс Урн.'
+      ru: 'Макс Урн.',
+      pt: 'Dano Máx'
     },
 
     {
       en: 'Defense',
       fr: 'Défense',
-      ru: 'Защита'
+      ru: 'Защита',
+      pt: 'Defesa'
     },
 
     {
       en: 'Block',
       ru: 'Блок',
-      fr: 'Bloque'
+      fr: 'Bloque',
+      // pt: 'Bloqueio'
 
     },
 
     {
-      en: 'Evade'
+      en: 'Evade',
+      pt: 'Evasão'
       // ru: 'Уклонение'
     },
 
     {
       en: 'Accuracy',
       fr: 'Précision',
-      ru: 'Точность'
+      ru: 'Точность',
+      pt: 'Precisão'
     },
 
     {
