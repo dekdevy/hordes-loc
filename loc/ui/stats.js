@@ -121,7 +121,7 @@ export default {
     },
 
     {
-      en: 'Item Find',
+      en: 'Item Find'
       // fr: 'Rchr d\'items'
     },
 
