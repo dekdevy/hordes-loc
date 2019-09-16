@@ -46,7 +46,7 @@ export default {
     {
       en: 'Wisdom',
       fr: 'Sagesse',
-      ru: 'Мудрость',
+      ru: 'Мудрость'
       // pt: 'Sabedoria'
     },
 
