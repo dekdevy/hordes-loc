@@ -128,8 +128,8 @@ export default {
     },
 
     {
-      en: 'Haste',
-      ru: 'Скор.',
+      en: 'Haste'
+      // ru: 'Быстрота',
       // pt: 'Aceleração'
     },
 
