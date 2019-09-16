@@ -137,7 +137,7 @@ export default {
       en: 'Attack Spd.',
       ru: 'Скорость Атк.',
       fr: 'Vit. d\'attq',
-      pt: 'Rapidez Atq.
+      pt: 'Rapidez Atq.'
     },
 
     {
