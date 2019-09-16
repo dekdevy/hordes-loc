@@ -148,7 +148,7 @@ export default {
 
   drop: {
     en: 'Drop item',
-    ru: 'выбросить',
+    ru: 'Выбросить',
     hi: 'वस्तु गिरा दे',
     es: 'Dejar caer objeto',
     de: 'Item ablegen',
