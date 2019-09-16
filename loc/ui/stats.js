@@ -115,7 +115,7 @@ export default {
 
     {
       en: 'Critical',
-      ru: 'Крит. шанс',
+      ru: 'Крит. Шанс',
       fr: 'Coup Crit.',
       pt: 'Crítico'
     },
@@ -123,7 +123,7 @@ export default {
     {
       en: 'Move Spd.',
       fr: 'Vitesse',
-      ru: 'Скор. Двж.',
+      ru: 'Скорость',
       pt: 'Velocidade'
     },
 
