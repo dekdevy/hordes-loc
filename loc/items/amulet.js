@@ -30,7 +30,7 @@ export default [
     name       : {$$: 'Wolf\'s Collar'},
     description: {
       en: 'Collars to keep wolves in servitude are made from a thick leather. Some of them still have chain links connected, but all wolf collars are sturdy. Some collars are imbued with spiritual protection.',
-      ru: 'Ошейники для содержания волков в подчинении, изготовлены из толстой кожи. Некоторые из них все еще соединены звеньями цепи, но все ошейники прочны. Некоторые из них пронизаны духовной защитой.',
+      ru: 'Ошейники для содержания диких волков сделаны из толстой кожи. Остатки цепей все еще весят вокруг некоторых из них, но они всё же ещё очень прочный. Духовную защиту иногда можно найти в этих ошейниках.',
       hi: 'भेड़ियों को भृत्यभाव रखने के लिए मोटी चमड़ी के पट्टे इस्तमाल किए जाते है। कुछ पट्टों पर अभी भी सांकल लगे हुए है, पर सारे पट्टे तगड़े है। कुछ पट्टे आत्मिक सुरक्षा से रंजित है।',
       de: 'Halsbänder, um Wölfe in Knechtschaft zu halten, sind aus einem dicken Leder gefertigt. Einige von ihnen haben noch Kettenglieder verbunden, aber alle Wolfshalsbänder sind robust. Einige Halsbänder sind mit spirituellem Schutz versehen.',
       it: 'I collari per tenere i lupi in servitù sono fatti di cuoio spesso. Alcuni di loro hanno ancora le maglie della catena collegate, ma tutti i collari di lupo sono robusti. Alcuni collari sono impregnati di protezione spirituale.',
