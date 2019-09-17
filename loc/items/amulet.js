@@ -84,7 +84,7 @@ export default [
     name       : {$$: 'Werewolf\'s Claw'},
     description: {
       en: 'Fearsome werewolf claws that were left behind on the bodies of victims were anointed with mystic oils and instilled with spiritual fortitude through meditation. The creators of these amulets hoped that these spiritual protections would one day be used for revenge.',
-      ru: 'Опасные когти оборотня, оставленные на телах погибших, были пропитаны мистическими маслами и привиты духовной стойкостью через медитацию. Создатели этих амулетов надеялись, что однажды эти духовные обережения будут использованы для мести.',
+      ru: 'Грозный когти оборотня, оставленные на телах убитых жертв, были пропитаны мистическими маслами и усилены духовной защитой через медитацию. Создатели этих амулетов надеялись, что однажды эти улучшения будут использованы для мести.',
       hi: 'ख़तरनाक भेड़िए के पंजे जो शिकारों के शरीरों में रह गए थे, रहस्यमयी तेलों से उनका अभिषेक करकर और ध्यान लगाकर आत्मिक सहन-शक्ति से इन्हें भर दिया गया। इस ताबीज़ के निर्माता चाहते थे की इसकी सुरक्षा एक दिन बदले के लिए इस्तमाल होगी।',
       de: 'Furchterregende Werwolfkrallen, die auf den Körpern der Opfer zurückgelassen wurden, wurden mit mystischen Ölen gesalbt und durch Meditation mit geistiger Kraft erfüllt. Die Schöpfer dieser Amulette hofften, dass diese geistigen Schutzmaßnahmen eines Tages zur Rache eingesetzt werden würden.',
       it: 'Temibili artigli di lupo mannaro che sono stati lasciati sui corpi delle vittime sono stati unti con oli mistici e instillato con forza spirituale attraverso la meditazione. I creatori di questi amuleti speravano che un giorno queste protezioni spirituali sarebbero state usate per vendetta.',
