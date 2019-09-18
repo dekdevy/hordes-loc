@@ -111,7 +111,7 @@ export default [
     name       : {$$: 'Eagle\'s Talon'},
     description: {
       en: 'When a talon was found, it was considered a gift from the sacred birds in the mountains. The monks in the mountains used the talons to produce spiritual amulets to protect themselves from invaders during battle.',
-      ru: 'Когда был найден коготь, его считали даром священных птиц живущих в горах. Монахи в горах использовали эти когти для изготовления духовных амулетов, чтобы защитить себя от захватчиков во время битвы.',
+      ru: 'Когда был найден коготь, его считали даром священных орлов живущих в горах. Монахи живущей на склонах гор использовали такие когти для сделки духовных амулетов, чтобы от захватчиков во время битвы.',
       hi: 'जब भी गरुड़ का नाख़ून मिलता था, उसे पहाड़ों के पावन पंचियो का टौफ़ा माना जाता था। पहाड़ों पर रहने वाले भिक्षुकों ने अपनी सुरक्षा के लिए इन नाखूनों से आत्मिक ताबीज़ बनाए थे।',
       de: 'Als eine Kralle gefunden wurde, galt sie als Geschenk der heiligen Vögel in den Bergen. Die Mönche in den Bergen benutzten die Krallen, um spirituelle Amulette herzustellen, um sich im Kampf vor Eindringlingen zu schützen.',
       it: 'Quando è stato trovato un artiglio, è stato considerato un dono degli uccelli sacri in montagna. I monaci in montagna usavano gli artigli per produrre amuleti spirituali per proteggersi dagli invasori durante la battaglia.',
