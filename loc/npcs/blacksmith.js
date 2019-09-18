@@ -3,7 +3,7 @@ export default {
     // Do NOT translate "Blacksmith's Blessed Hammer".
     text: {
       en: 'Upgrading is risky without additional special items like a Blacksmith\'s Blessed Hammer, which can prevent items from breaking during upgrades. Without the hammer, we will be taking a risk. So, surely you have something that I can upgrade for you today?',
-      ru: 'Стараться улучшить предметы без специальных инструментов как Blacksmith's Blessed Hammer рискованно. Такой молот может превратить поломку во время улучшения предметов. Без молотка, мы будем рисковать вашими деньгами и предметами. Ну, есть у вас что-то то что вы хотите улучшить для вас?',
+      ru: 'Стараться улучшить предметы без специальных инструментов как Blacksmith\'s Blessed Hammer рискованно. Такой молот может превратить поломку во время улучшения предметов. Без молотка, мы будем рисковать вашими деньгами и предметами. Ну, есть у вас что-то то что вы хотите улучшить для вас?',
       fr: 'Améliorer vos items est risqué sans l\'aide d\'un autre item special, tel que le Blacksmith\'s Blessed Hammer, qui les empèche de briser durant leurs amélioration. Sans l\'Hammer, nous prenons un risque. Bon, avez-vous quelque chose que je pourrais améliorer pour vous aujourd\'hui?',
       da: 'At opgradere er risikabelt uden specielle ting som Blacksmith\'s Blessed Hammer, som kan forhindre ting i at gå i stykker under opgraderinger. Uden hammeren tager vi en risiko. Så har du bestemt noget, jeg kan forbedre dig?',
       sv: 'Att uppgradera är riskabelt utan ytterligare specialföremål, som en Blacksmith\'s Blessed Hammer, som kan skydda föremål från att gå sönder när de uppgraderas. Utan hammaren så äventyrar du grejer. Så har du säkert något jag kan förbättra för dig?',
