@@ -20,13 +20,15 @@ export default {
       fr: 'Force',
       ru: 'Сила',
       pt: 'Força'
+      // tr: 'Dayanıklılık'
     },
 
     {
       en: 'Stamina',
       fr: 'Résistance',
       ru: 'Стойкость',
-      pt: 'Vigor'
+      pt: 'Vigor',
+      tr: 'Direnç'
     },
 
     {
