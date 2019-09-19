@@ -1,30 +1,5 @@
 export default {
 
-  manager: {
-    en: 'Clan Manager',
-    ru: 'Клан Менеджер',
-    fr: 'Gérer le Clan',
-    hi: 'दल प्रबंधक',
-    es: 'Clan Gerente',
-    de: 'Clan-Manager',
-    tr: 'Klan Yönetimi',
-    bg: 'Кланови Опции',
-    cs: 'Správa Klanu',
-    el: 'Clan Manager',
-    it: 'Gestisci il Clan',
-    ja: 'クランマネージャー',
-    pl: 'Menedżer Klanu',
-    pt: 'Gerente do Clã',
-    tl: 'Clan Manager',
-    sv: 'Clan Manager',
-    ht: 'Manadjè Klan',
-    nl: 'Beheer Clan',
-    ko: '씨족 메뉴',
-    ro: 'Clan Manager',
-    da: 'Administrer Clan',
-    zh: '公會經理'
-  },
-
   leave: {
     en: 'Leave Clan',
     ru: 'Покинуть Клан',
@@ -100,32 +75,6 @@ export default {
     zh: '創建公會'
   },
 
-  // Exact punctuation as in the English description is to added to the translations.
-  createinfo: {
-    en: 'To create a clan you need: ',
-    ru: 'Для создания клана вам нужно: ',
-    fr: 'Pour créer un clan, vous avez besoin de: ',
-    hi: 'दल बनाने के लिए आपको ज़रूरत है: ',
-    es: 'Para crear un clan, necesita: ',
-    de: 'Um einen Clan zu erstellen, brauchst du: ',
-    tr: 'Klan oluşturmak için ihtiyacın olan: ',
-    bg: 'За да създатае клан ви травбва: ',
-    cs: 'Chcete-li vytvořit klan, který potřebujete: ',
-    el: 'Για να δημιουργήσετε μια οικογένεια που χρειάζεστε: ',
-    it: 'Per creare un clan che ti serve: ',
-    ja: 'クランを作成するにはあなたが必要です: ',
-    pl: 'Aby stworzyć potrzebny klan: ',
-    pt: 'Para criar um clã você precisa: ',
-    tl: 'Upang lumikha ng isang lahi na kailangan mo: ',
-    sv: 'För att skapa en klan behöver du: ',
-    ht: 'Pou kreye yon klan ou bezwen: ',
-    nl: 'Om een clan te creëren heb je het volgende nodig: ',
-    ko: '당신이 필요로하는 클랜을 만들려면: ',
-    ro: 'Pentru a crea un clan, ai nevoie de: ',
-    da: 'At oprette en klan, du har brug for: ',
-    zh: '要創建一個公會你需要： '
-  },
-
   createname: {
     en: 'Clan Name',
     ru: 'Имя Клана',
@@ -199,5 +148,12 @@ export default {
     ro: 'Creează',
     da: 'Skab',
     zh: '創建'
-  }
+  },
+
+  roles: [
+    { en: 'Member' },
+    { en: 'Assistant' },
+    { en: 'Officer' },
+    { en: 'Owner' }
+  ]
 }
