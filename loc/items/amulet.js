@@ -138,7 +138,7 @@ export default [
     name       : {$$: 'Shadow Scarab'},
     description: {
       en: 'Ancient desert people collected special stones and shaped them into scarabs with strange, dark magic. Many important people in that ancient civilization wore these amulets for stature and protection.',
-      ru: 'Древние люди пустыни собирали специальные камни и превращали их в скарабеев со странной, темной магией. Многие важные люди в древней цивилизации носили эти амулеты для укрепления и защиты.',
+      ru: 'Древние кочевники из пустынь собирали специальные камни и превращали их в скарабеев с темной магией. Многие важные люди в древней цивилизации носили эти амулеты для защиты и авторитета.',
       hi: 'रेगिस्तान के पुराने लोग विशेष पत्थर जमा करकर अपने काले जादू से उन्हें पवित्र भृग का आकार देते थे। उस ज़माने के बड़े लोग अपनी सुरक्षा के लिए इन ताबीज़ो को पहनते थे।',
       de: 'Alte Wüstenvölker sammelten spezielle Steine und formten sie zu Skarabäen mit seltsamer, dunkler Magie. Viele wichtige Menschen in dieser alten Zivilisation trugen diese Amulette zur Statur und zum Schutz.',
       it: 'Gli antichi abitanti del deserto raccoglievano pietre speciali e le modellavano in scarabei con una strana magia nera. Molti personaggi importanti di quell\'antica civiltà indossavano questi amuleti per la loro statura e protezione.',
