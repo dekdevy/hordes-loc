@@ -3,7 +3,7 @@ export default {
     // Do NOT translate "Warcry Scrolls".
     text: {
       en: 'Well, look what we have here! No, that equipment won’t do, will it? Take a look at the open market! Rumors are spreading; I’ve heard of Warcry Scrolls that can teleport a friend to your position. Let’s just keep that between us, okay?',
-      ru: 'Ну что ж, посмотрим что у нас тут! Ваша экипировка никуда не годится, не так ли? Взгляните на мою распродажу! Ходят слухи; я слышал о Warcry Scrolls, которые могут телепортировать вашего друга к вам. Только между нами, хорошо?',
+      ru: 'Ну что ж, посмотрим что у нас тут есть! Не, эти предметы никуда не годятся, не так ли? Взгляните на рынок! Ходят слухи, о мощных Warcry Scrolls, которые позволяют вам телепортировать вашех напарников к себе. Только давай оставим ето между нами, ладно?',
       sv: 'Men, vad har vi här då! Nej, den utrustningen duger nog inte. Sök på den öppna marknaden. Rykten sprids; jag har hört talas om Warcry Scrolls som kan teleportera en vän till din position. Det stannar mellan oss, okej?',
       da: 'Nå, se hvad vi har her! Nej, det udstyr vil det ikke gøre, vil det? Tag et kig på det åbne marked! Rygerne spredes; Jeg har hørt om Warcry Scrolls, der kan teleportere en ven til din position. Lad os bare holde det mellem os, okay?',
       hi: 'अच्छा, देखो हमारे यहाँ क्या है! नहीं, यह उपकरण नहीं करेगा, क्या यह होगा? खुले बाजार पर एक नजर! अफवाहें फैल रही हैं; मैंने Warcry Scrolls के बारे में सुना है जो आपके स्थान पर किसी मित्र को टेलीपोर्ट कर सकता है। चलो बस हमारे बीच रखें, ठीक है?',

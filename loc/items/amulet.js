@@ -111,7 +111,7 @@ export default [
     name       : {$$: 'Eagle\'s Talon'},
     description: {
       en: 'When a talon was found, it was considered a gift from the sacred birds in the mountains. The monks in the mountains used the talons to produce spiritual amulets to protect themselves from invaders during battle.',
-      ru: 'Когда был найден коготь, его считали даром священных птиц живущих в горах. Монахи в горах использовали эти когти для изготовления духовных амулетов, чтобы защитить себя от захватчиков во время битвы.',
+      ru: 'Когда был найден коготь, его считали даром священных орлов живущих в горах. Монахи живущей на склонах гор использовали такие когти для сделки духовных амулетов, чтобы от захватчиков во время битвы.',
       hi: 'जब भी गरुड़ का नाख़ून मिलता था, उसे पहाड़ों के पावन पंचियो का टौफ़ा माना जाता था। पहाड़ों पर रहने वाले भिक्षुकों ने अपनी सुरक्षा के लिए इन नाखूनों से आत्मिक ताबीज़ बनाए थे।',
       de: 'Als eine Kralle gefunden wurde, galt sie als Geschenk der heiligen Vögel in den Bergen. Die Mönche in den Bergen benutzten die Krallen, um spirituelle Amulette herzustellen, um sich im Kampf vor Eindringlingen zu schützen.',
       it: 'Quando è stato trovato un artiglio, è stato considerato un dono degli uccelli sacri in montagna. I monaci in montagna usavano gli artigli per produrre amuleti spirituali per proteggersi dagli invasori durante la battaglia.',
@@ -138,7 +138,7 @@ export default [
     name       : {$$: 'Shadow Scarab'},
     description: {
       en: 'Ancient desert people collected special stones and shaped them into scarabs with strange, dark magic. Many important people in that ancient civilization wore these amulets for stature and protection.',
-      ru: 'Древние люди пустыни собирали специальные камни и превращали их в скарабеев со странной, темной магией. Многие важные люди в древней цивилизации носили эти амулеты для укрепления и защиты.',
+      ru: 'Древние кочевники из пустынь собирали специальные камни и превращали их в скарабеев с темной магией. Многие важные люди в древней цивилизации носили эти амулеты для защиты и авторитета.',
       hi: 'रेगिस्तान के पुराने लोग विशेष पत्थर जमा करकर अपने काले जादू से उन्हें पवित्र भृग का आकार देते थे। उस ज़माने के बड़े लोग अपनी सुरक्षा के लिए इन ताबीज़ो को पहनते थे।',
       de: 'Alte Wüstenvölker sammelten spezielle Steine und formten sie zu Skarabäen mit seltsamer, dunkler Magie. Viele wichtige Menschen in dieser alten Zivilisation trugen diese Amulette zur Statur und zum Schutz.',
       it: 'Gli antichi abitanti del deserto raccoglievano pietre speciali e le modellavano in scarabei con una strana magia nera. Molti personaggi importanti di quell\'antica civiltà indossavano questi amuleti per la loro statura e protezione.',
@@ -165,7 +165,7 @@ export default [
     name       : {$$: 'Mystic Shard'},
     description: {
       en: 'Strange shards mined from the mountains were enhanced by mystics and formed into amulets in order to provide protection and cause fear.',
-      ru: 'Странные осколки, добытые с гор, были усилены мистиками и превращены в амулеты, чтобы обеспечить защиту и вызвать страх.',
+      ru: 'Странные осколки неизвестного матиреала добытих в горах были заколдованы мистиками и превращены в амулеты, чтобы обеспечить защиту и вызвать страх в врагах',
       hi: 'पहाडो से खने अजीब टुकड़ों को सूफीयों ने प्रवृत्त करकर अपनी सुरक्षा के लिए उनके ताबीज़ बना लिए।',
       de: 'Seltsame Scherben, die aus den Bergen abgebaut wurden, wurden von Mystikern verstärkt und zu Amuletten geformt, um Schutz zu bieten und Angst zu erzeugen.',
       it: 'Strani frammenti estratti dalle montagne sono stati valorizzati dai mistici e trasformati in amuleti per fornire protezione e causare paura.',
