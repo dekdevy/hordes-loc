@@ -165,7 +165,7 @@ export default [
     name       : {$$: 'Mystic Shard'},
     description: {
       en: 'Strange shards mined from the mountains were enhanced by mystics and formed into amulets in order to provide protection and cause fear.',
-      ru: 'Странные осколки, добытые с гор, были усилены мистиками и превращены в амулеты, чтобы обеспечить защиту и вызвать страх.',
+      ru: 'Странные осколки неизвестного матиреала добытих в горах были заколдованы мистиками и превращены в амулеты, чтобы обеспечить защиту и вызвать страх в врагах',
       hi: 'पहाडो से खने अजीब टुकड़ों को सूफीयों ने प्रवृत्त करकर अपनी सुरक्षा के लिए उनके ताबीज़ बना लिए।',
       de: 'Seltsame Scherben, die aus den Bergen abgebaut wurden, wurden von Mystikern verstärkt und zu Amuletten geformt, um Schutz zu bieten und Angst zu erzeugen.',
       it: 'Strani frammenti estratti dalle montagne sono stati valorizzati dai mistici e trasformati in amuleti per fornire protezione e causare paura.',
