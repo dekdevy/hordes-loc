@@ -1,4 +1,8 @@
 export default {
+    
+  invite: {
+    en: 'Clan invite'
+  },
 
   leave: {
     en: 'Leave Clan',
