@@ -98,14 +98,14 @@ export default {
       en: 'Block',
       ru: 'Блок',
       fr: 'Bloque'
-      // pt: 'Bloqueio'
+      pt: 'Bloquе.'
 
     },
 
     {
       en: 'Evade',
       pt: 'Evasão'
-      // ru: 'Уклонение'
+      ru: 'Уклон.'
     },
 
     {
@@ -131,7 +131,7 @@ export default {
 
     {
       en: 'Haste'
-      // ru: 'Быстрота',
+      ru: 'Быстр.',
       // pt: 'Aceleração'
     },
 
