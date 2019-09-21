@@ -97,14 +97,14 @@ export default {
     {
       en: 'Block',
       ru: 'Блок',
-      fr: 'Bloque'
+      fr: 'Bloque',
       pt: 'Bloquе.'
 
     },
 
     {
       en: 'Evade',
-      pt: 'Evasão'
+      pt: 'Evasão',
       ru: 'Уклон.'
     },
 
