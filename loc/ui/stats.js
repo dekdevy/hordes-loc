@@ -130,8 +130,8 @@ export default {
     },
 
     {
-      en: 'Haste'
-      ru: 'Быстр.',
+      en: 'Haste',
+      ru: 'Быстр.'
       // pt: 'Aceleração'
     },
 
