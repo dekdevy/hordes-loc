@@ -192,7 +192,7 @@ export default [
     name       : {$$: 'Omega Medallion'},
     description: {
       en: 'Warring theocracies created divine omega symbols as a means for protection. These symbols were used to deter attacks, given as protective gifts, and presented to potential religious followers.',
-      ru: 'Воюющие теократии создали божественные символы Омеги как средство защиты. Эти символы использовались для прекращения нападений в качестве защитных подарков и вручались потенциальным последователям религии.',
+      ru: 'Воюющие теократии создали символы омеги на амулетах как средство божественные защиты. Эти символы были использованы для защиты от атак и как священные подарки для потенциальных последователям религии.',
       hi: 'युद्धरत धर्मशास्त्रों ने सुरक्षा के लिए एक साधन के रूप में दिव्य ओमेगा प्रतीकों का निर्माण किया। इन प्रतीकों का उपयोग हमलों को रोकने के लिए किया गया था, सुरक्षात्मक उपहार के रूप में दिया गया था, और संभावित धार्मिक अनुयायियों को प्रस्तुत किया गया था।',
       de: 'Durch kriegerische Theokratien entstanden göttliche Omega-Symbole als Mittel zum Schutz. Diese Symbole wurden zur Abschreckung von Angriffen verwendet, als Schutzgeschenk gegeben und potenziellen religiösen Anhängern präsentiert.',
       it: 'Le teocrazie in guerra hanno creato simboli omega divini come mezzo di protezione. Questi simboli sono stati usati per scoraggiare gli attacchi, dati come doni di protezione, e presentati a potenziali seguaci religiosi.',
