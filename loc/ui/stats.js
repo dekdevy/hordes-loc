@@ -191,7 +191,7 @@ export default {
       en: '% Movement Spd. Reduction',
       fr: '% Vitesse Réduction',
       ru: '% Cнижения Скор. Движения',
-      pt: 'Redução de Velocidade'
+      pt: '% Redução de Velocidade'
     }
   ]
 }
