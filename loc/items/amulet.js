@@ -270,7 +270,7 @@ export default [
     name       : {$$: 'Ankh'},
     description: {
       en: 'Ancient kings had powerful ankh symbols made to protect them in the afterlife. Grave robbers have stolen many of these amulets and sold them to both people and monsters. Each ankh has an eerie glow that belies its true power.',
-      ru: 'Древние цари имели мощные аньхские символы, созданные для их защиты в загробной жизни. Грабители могил украли многие из этих амулетов и продали их как людям, так и монстрам. У каждого анка есть жуткое сияние, которое неверно отражает его истинную силу.',
+      ru: 'Древние цари имели мощные аньхские символы, созданные для того чтобы защитить их в загробной жизни. Грабители могил украли многие из этих амулетов и продали их как людям, так и монстрам. У каждого анка есть жуткое сияние, которое отражает его истинную силу.',
       de: 'Alte Könige hatten mächtige Ankh-Symbole, um sie im Jenseits zu schützen. Grabräuber haben viele dieser Amulette gestohlen und an Menschen und Monster verkauft. Jedes Ankh hat ein unheimliches Glühen, das seine wahre Kraft widerlegt.',
       it: 'Gli antichi re avevano potenti simboli ankh fatti per proteggerli nell\'aldilà. I ladri di tombe hanno rubato molti di questi amuleti e li hanno venduti sia a persone che a mostri. Ogni ankh ha un bagliore inquietante che smentisce il suo vero potere.',
       fr: 'Les anciens rois avaient de puissants symboles ankh faits pour les protéger dans l\'au-delà. Les pilleurs de tombes ont volé beaucoup de ces amulettes et les ont vendues à la fois aux gens et aux monstres. Chaque ankh a une lueur étrange qui dément sa vraie puissance.',
