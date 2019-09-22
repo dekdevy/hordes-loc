@@ -80,14 +80,14 @@ export default {
       en: 'Min Dmg.',
       ru: 'Мин Урн.',
       pt: 'Dano Mín',
-      fr: 'Min Dgt'
+      fr: 'Min Dmg.'
     },
 
     {
       en: 'Max Dmg.',
       ru: 'Макс Урн.',
       pt: 'Dano Máx',
-      fr: 'Max Dgt'
+      fr: 'Max Dmg.'
     },
 
     {
