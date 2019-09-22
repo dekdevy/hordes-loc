@@ -2,6 +2,7 @@
 // Please use typical RPG translations. Look into DND if unsure. MP / HP and the likes are very likely untouched in most languages
 // ** DO NOT MAKE TRANSLATIONS 1-2 CHARS LONGER THAN THE ENGLISH VERSION OR THE PR WILL BE DECLINED **
 // Commented out stat translations are those which are too long and need to be shortened.
+
 export default {
 
   misc: {
@@ -78,13 +79,15 @@ export default {
     {
       en: 'Min Dmg.',
       ru: 'Мин Урн.',
-      pt: 'Dano Mín'
+      pt: 'Dano Mín',
+      fr: 'Min Dgt'
     },
 
     {
       en: 'Max Dmg.',
       ru: 'Макс Урн.',
-      pt: 'Dano Máx'
+      pt: 'Dano Máx',
+      fr: 'Max Dgt'
     },
 
     {
