@@ -349,7 +349,7 @@ export default [
     name       : {$$: 'Lionheart'},
     description: {
       en: 'This amulet contains a gem from the crown worn by a famous king. The edges of this amulet are ruthlessly sharp and partially smeared with a mysterious substance.',
-      ru: 'Этот амулет содержит драгоценный камень из короны, которую носил знаменитый король. Края этого амулета безжалостно остры и частично смазаны таинственным веществом.',
+      ru: 'Этот амулет содержит драгоценный камень из короны, которую когда-то носил знаменитый король. Края этого амулета безжалостно остры и частично смазаны таинственным веществом.',
       de: 'Dieses Amulett enthält einen Edelstein von der Krone eines berühmten Königs. Die Kanten dieses Amuletts sind rücksichtslos scharf und teilweise mit einer geheimnisvollen Substanz beschmiert.',
       it: 'Questo amuleto contiene una gemma della corona indossata da un famoso re. I bordi di questo amuleto sono spietati e parzialmente spalmati di una sostanza misteriosa.',
       fr: 'Cette amulette contient une pierre précieuse de la couronne portée par un roi célèbre. Les bords de cette amulette sont impitoyablement tranchants et partiellement couverts d\'une substance mystérieuse.',
