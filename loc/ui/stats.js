@@ -150,7 +150,8 @@ export default {
     {
       en: 'Bag Slots',
       ru: 'Слоты Сумки',
-      pt: 'Espaço'
+      pt: 'Espaço',
+      fr: 'Espace Sac'
     },
 
     {
