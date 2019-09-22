@@ -138,7 +138,7 @@ export default {
     {
       en: 'Attack Spd.',
       ru: 'Скорость Атк.',
-      fr: 'Vit. d\'attq',
+      fr: 'Vit. Attq',
       pt: 'Rapidez Atq.'
     },
 
@@ -163,14 +163,14 @@ export default {
     {
       en: 'Stat Points',
       ru: 'Очки Статов'
-      // fr: 'Points de Stat'
+      fr: 'Points Stat'
     },
 
     {
       en: 'Skill Points',
-      ru: 'Очки Умений'
+      ru: 'Очки Умений',
+      fr: 'Points Comp.'
       // pt: 'Pontos de Atributo'
-      // fr: 'Points de Skill'
     },
 
     {
