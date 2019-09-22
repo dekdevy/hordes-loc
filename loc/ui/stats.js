@@ -135,7 +135,7 @@ export default {
     {
       en: 'Haste',
       ru: 'Быстр.'
-      // pt: 'Aceleração'
+      pt: 'Aclrç.'
     },
 
     {
@@ -174,7 +174,7 @@ export default {
       en: 'Skill Points',
       ru: 'Очки Умений',
       fr: 'Points Comp.'
-      // pt: 'Pontos de Atributo'
+      pt: 'Pontos de Atr.'
     },
 
     {
