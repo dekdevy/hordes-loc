@@ -26,21 +26,25 @@ export default {
 
   types: [ // dont translate until beta testing
     {
-      en: 'Exp Gain'
+      en: 'Exp Gain',
+      ru: 'Прибыль Опыта'
     },
     {
-      en: 'Target Change'
+      en: 'Target Change',
+      ru: 'Смена Цели'
     },
     {
       en: 'Cast'
     },
     {
       en: 'Damage',
-      ru: 'Урон'
+      ru: 'Урон',
+      fr: 'Damage'
     },
     {
       en: 'Heal',
-      ru: 'Исцеления'
+      ru: 'Исцеления',
+      fr: 'Heal'
     },
     {
       en: 'Death',
@@ -48,11 +52,13 @@ export default {
     },
     {
       en: 'Level Up',
-      ru: 'Повышения Уровня'
+      ru: 'Повышения Уровня',
+      fr: 'Level Up'
     },
     {
       en: 'Item',
-      ru: 'Предмет'
+      ru: 'Предмет',
+      fr: 'Item'
     },
     {
       en: 'Auction',
