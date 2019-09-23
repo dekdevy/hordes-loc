@@ -179,7 +179,7 @@ export default {
 
     {
       en: '% Increased Dmg.',
-      fr: '% Dégat Augmenté',
+      fr: '% Dmg Améliorés',
       ru: '% Увеличения Урона',
       pt: '% Dano Aumentado'
     },
@@ -187,7 +187,7 @@ export default {
     {
       en: '% Increased Aggro Generation',
       ru: '% Увеличения Агрессии',
-      fr: '% Agressivité Augmentée',
+      fr: '% Génération d'aggro Améliorée',
       pt: '% Aggro Gerado'
     },
 
