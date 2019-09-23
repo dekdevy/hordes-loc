@@ -134,7 +134,8 @@ export default {
       en: 'Critical',
       ru: 'Крит. Шанс',
       fr: 'Critique',
-      pt: 'Crítico'
+      pt: 'Crítico',
+      tr: 'Kritik'
     },
 
     {
@@ -148,7 +149,8 @@ export default {
       en: 'Haste',
       ru: 'Быстр.',
       pt: 'Rapidez',
-      fr: 'Célérité'
+      fr: 'Célérité',
+      tr: 'Çabukluk'
     },
 
     {
