@@ -21,7 +21,7 @@ export default {
       fr: 'Force',
       ru: 'Сила',
       pt: 'Força'
-      // tr: 'Dayanıklılık'
+      tr: 'Dayankl.'
     },
 
     {
