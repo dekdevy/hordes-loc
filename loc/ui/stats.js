@@ -36,7 +36,8 @@ export default {
       en: 'Dexterity',
       fr: 'Dextérité',
       ru: 'Ловкость',
-      pt: 'Agilidade'
+      pt: 'Agilidade',
+      tr: 'Çeviklik`
     },
 
     {
