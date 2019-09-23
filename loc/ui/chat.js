@@ -24,7 +24,7 @@ export default {
     zh: '耳語'
   },
 
-  types: [ // dont translate until beta testing
+  types: [
     {
       en: 'Exp Gain',
       ru: 'Прибыль Опыта'
