@@ -49,7 +49,7 @@ export default {
     {
       en: 'Wisdom',
       fr: 'Sagesse',
-      ru: 'Мудрость'
+      ru: 'Мудрость',
       pt: 'Sabdr.'
     },
 
@@ -134,7 +134,7 @@ export default {
 
     {
       en: 'Haste',
-      ru: 'Быстр.'
+      ru: 'Быстр.',
       pt: 'Aclrç.'
     },
 
@@ -146,8 +146,8 @@ export default {
     },
 
     {
-      en: 'Item Find'
-      // fr: 'Rchr d\'items'
+      en: 'Item Find',
+      fr: 'Rchr Items'
     },
 
     {
@@ -166,14 +166,14 @@ export default {
 
     {
       en: 'Stat Points',
-      ru: 'Очки Статов'
+      ru: 'Очки Статов',
       fr: 'Points Stat'
     },
 
     {
       en: 'Skill Points',
       ru: 'Очки Умений',
-      fr: 'Points Comp.'
+      fr: 'Points Comp.',
       pt: 'Pontos de Atr.'
     },
 
