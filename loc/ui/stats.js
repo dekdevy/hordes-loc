@@ -38,7 +38,7 @@ export default {
       fr: 'Dextérité',
       ru: 'Ловкость',
       pt: 'Agilidade',
-      tr: 'Çeviklik`
+      tr: 'Çeviklik'
     },
 
     {
