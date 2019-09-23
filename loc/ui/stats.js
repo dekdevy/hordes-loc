@@ -10,7 +10,8 @@ export default {
       en: 'Damage',
       fr: 'Dégats',
       ru: 'Урон',
-      pt: 'Dano'
+      pt: 'Dano',
+      tr: 'Hasar'
     }
   },
 
@@ -52,7 +53,8 @@ export default {
       en: 'Wisdom',
       fr: 'Sagesse',
       ru: 'Мудрость',
-      pt: 'Sabdr.'
+      pt: 'Sabdr.',
+      tr: 'Bilgelik'
     },
 
     {
@@ -105,7 +107,7 @@ export default {
     {
       en: 'Block',
       ru: 'Блок',
-      fr: 'Bloque',
+      fr: 'Parade',
       pt: 'Bloquе.'
 
     },
@@ -113,7 +115,8 @@ export default {
     {
       en: 'Evade',
       pt: 'Evasão',
-      ru: 'Уклон.'
+      ru: 'Уклоне.',
+      fr: 'Esquive'
     },
 
     {
