@@ -26,7 +26,7 @@ export default {
 
     {
       en: 'Stamina',
-      fr: 'Résistance',
+      fr: 'Endurance',
       ru: 'Стойкость',
       pt: 'Vigor',
       tr: 'Direnç'
