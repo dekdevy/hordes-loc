@@ -44,7 +44,8 @@ export default {
       en: 'Intelligence',
       ru: 'Интеллект',
       fr: 'Intelligence',
-      pt: 'Inteligência'
+      pt: 'Inteligência',
+      tr: 'Zekâ'
     },
 
     {
@@ -58,7 +59,8 @@ export default {
       en: 'Luck',
       fr: 'Chance',
       ru: 'Удача',
-      pt: 'Sorte'
+      pt: 'Sorte',
+      tr: 'Şans'
     },
 
     {
@@ -81,14 +83,16 @@ export default {
       en: 'Min Dmg.',
       ru: 'Мин Урн.',
       pt: 'Dano Mín',
-      fr: 'Min Dmg.'
+      fr: 'Min Dmg.',
+      tr: 'Min Hasar'
     },
 
     {
       en: 'Max Dmg.',
       ru: 'Макс Урн.',
       pt: 'Dano Máx',
-      fr: 'Max Dmg.'
+      fr: 'Max Dmg.',
+      tr: 'Max Hasar'
     },
 
     {
