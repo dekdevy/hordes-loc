@@ -101,14 +101,16 @@ export default {
       en: 'Defense',
       fr: 'Défense',
       ru: 'Защита',
-      pt: 'Defesa'
+      pt: 'Defesa',
+      tr: 'Defans'
     },
 
     {
       en: 'Block',
       ru: 'Блок',
       fr: 'Parade',
-      pt: 'Bloquе.'
+      pt: 'Bloquе.',
+      tr: 'Blok'
 
     },
 
@@ -116,14 +118,16 @@ export default {
       en: 'Evade',
       pt: 'Evasão',
       ru: 'Уклоне.',
-      fr: 'Esquive'
+      fr: 'Esquive',
+      tr: 'Kaçınma'
     },
 
     {
       en: 'Accuracy',
       fr: 'Précision',
       ru: 'Точность',
-      pt: 'Precisão'
+      pt: 'Precisão',
+      tr: 'Hedef Alma'
     },
 
     {
@@ -143,7 +147,8 @@ export default {
     {
       en: 'Haste',
       ru: 'Быстр.',
-      pt: 'Rapidez'
+      pt: 'Rapidez',
+      fr: 'Célérité'
     },
 
     {
@@ -155,6 +160,7 @@ export default {
 
     {
       en: 'Item Find',
+      ru: 'Колич. прд.',
       fr: 'Trouvaille'
     },
 
