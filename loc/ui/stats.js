@@ -21,7 +21,7 @@ export default {
       en: 'Strength',
       fr: 'Force',
       ru: 'Сила',
-      pt: 'Força'
+      pt: 'Força',
       tr: 'Dayankl.'
     },
 
