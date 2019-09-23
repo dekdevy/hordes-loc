@@ -195,7 +195,7 @@ export default {
     {
       en: '% Increased Aggro Generation',
       ru: '% Увеличения Агрессии',
-      fr: '% Génération d'aggro Améliorée',
+      fr: '% Génération d\'aggro Améliorée',
       pt: '% Aggro Gerado'
     },
 
