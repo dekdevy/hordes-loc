@@ -143,7 +143,7 @@ export default {
     {
       en: 'Haste',
       ru: 'Быстр.',
-      pt: 'Aclrç.'
+      pt: 'Rapidez'
     },
 
     {
