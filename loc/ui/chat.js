@@ -35,31 +35,39 @@ export default {
       en: 'Cast'
     },
     {
-      en: 'Damage'
+      en: 'Damage',
+      ru: 'Урон'
     },
     {
-      en: 'Heal'
+      en: 'Heal',
+      ru: 'Исцеления'
     },
     {
-      en: 'Death'
+      en: 'Death',
+      ru: 'Смерть'
     },
     {
       en: 'Level Up'
     },
     {
-      en: 'Item'
+      en: 'Item',
+      ru: 'Предмет'
     },
     {
-      en: 'Auction'
+      en: 'Auction',
+      ru: 'Аукцион'
     },
     {
-      en: 'Pick Gold'
+      en: 'Pick Gold',
+      ru: 'Собранное Золото'
     },
     {
-      en: 'Spend Gold'
+      en: 'Spend Gold',
+      ru: 'Потраченное Золото'
     },
     {
-      en: 'Fame Gain'
+      en: 'Fame Gain',
+      ru: 'Прибыль Славы'
     }
   ]
 }
