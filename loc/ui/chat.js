@@ -47,7 +47,8 @@ export default {
       ru: 'Смерть'
     },
     {
-      en: 'Level Up'
+      en: 'Level Up',
+      ru: 'Повышения Уровня'
     },
     {
       en: 'Item',
