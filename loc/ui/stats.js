@@ -147,7 +147,7 @@ export default {
 
     {
       en: 'Item Find',
-      fr: 'Rchr Items'
+      fr: 'Trouvaille'
     },
 
     {
