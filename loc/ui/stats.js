@@ -8,7 +8,7 @@ export default {
   misc: {
     damage: {
       en: 'Damage',
-      fr: 'Dégats',
+      fr: 'Damage',
       ru: 'Урон',
       pt: 'Dano',
       tr: 'Hasar'
