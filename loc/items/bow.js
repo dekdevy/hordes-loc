@@ -373,8 +373,7 @@ export default [
       cs: 'Zabije tak krásně, jak to vypadá.',
       ja: '見た目と同じくらい美しく殺します。',
       ro: 'Ucide la fel de frumos cum și arată.',
-      ko: '외형만큼 아름답게 적을 죽깁니다.',
-      da: ''
+      ko: '외형만큼 아름답게 적을 죽깁니다.'
     }
   },
 
