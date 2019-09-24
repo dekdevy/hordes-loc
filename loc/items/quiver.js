@@ -129,8 +129,7 @@ export default [
       cs: 'Jemně vytvořený toulec vyrobený z tajemného třpytivého materiálu.',
       ja: '神秘的なきらめく材料で作られた細かく作られた震え。',
       tr: 'Gizemli parıldayan metalden yapılmış ince hazırlanmış ok',
-      ro: 'O tolbă fină făcută dintr-un material strălucitor și misterios.',
-      da: ''
+      ro: 'O tolbă fină făcută dintr-un material strălucitor și misterios.'
     }
   },
 
