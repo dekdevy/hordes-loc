@@ -162,7 +162,7 @@ export default {
 
     {
       en: 'Item Find',
-      ru: 'Колич. прд.',
+      ru: 'Выпадение',
       fr: 'Trouvaille'
     },
 
