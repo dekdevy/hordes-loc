@@ -57,7 +57,7 @@ export default {
     },
     {
       en: 'Item',
-      ru: 'Предмет',
+      ru: 'Предметы',
       fr: 'Item'
     },
     {
