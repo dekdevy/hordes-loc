@@ -244,7 +244,7 @@ export default [
     name       : {$$: 'Tempest Carcanet'},
     description: {
       en: 'Metal strands weave in and out of each other, producing electric arcs and giving the appearance of a living amulet. Scholars speculate that these amulets came from a realm that disappeared, but no one seems sure.',
-      ru: 'Металлические пряди вплетаются друг в друга, создавая электрическую дугу и создавая видимость живого амулета. Ученые предполагают, что эти амулеты пришли из мира, который исчез, но никто не уверен.',
+      ru: 'Металлические пряди вплетаются друг в друга, создавая электрическую дугу дая видимость живого амулета. ученые предпологают что эти амулеты пришли из одново из неизвестных миров, которые им еще предстоит раскрыть.',
       de: 'Metallstränge verweben sich ineinander und auseinander, erzeugen Lichtbögen und wirken wie ein lebendiges Amulett. Wissenschaftler spekulieren, dass diese Amulette aus einem verschwundenen Reich stammten, aber niemand scheint sicher zu sein.',
       it: 'I fili di metallo si intrecciano l\'uno nell\'altro, producendo archi elettrici e dando l\'aspetto di un amuleto vivente. Gli studiosi ipotizzano che questi amuleti provengano da un regno scomparso, ma nessuno sembra sicuro.',
       fr: 'Les torons métalliques s\'entrelacent et s\'entremêlent, produisant des arcs électriques et donnant l\'apparence d\'une amulette vivante. Les érudits spéculent que ces amulettes proviennent d\'un royaume qui a disparu, mais personne ne semble sûr.',
