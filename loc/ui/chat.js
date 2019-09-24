@@ -56,9 +56,9 @@ export default {
       fr: 'Level Up'
     },
     {
-      en: 'Item',
+      en: 'Items',
       ru: 'Предметы',
-      fr: 'Item'
+      fr: 'Items'
     },
     {
       en: 'Auction',
@@ -69,7 +69,7 @@ export default {
       ru: 'Собранное Золото'
     },
     {
-      en: 'Spend Gold',
+      en: 'Spent Gold',
       ru: 'Потраченное Золото'
     },
     {
