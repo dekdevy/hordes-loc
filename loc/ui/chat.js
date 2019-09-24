@@ -27,14 +27,18 @@ export default {
   types: [
     {
       en: 'Exp Gain',
-      ru: 'Прибыль Опыта'
+      ru: 'Прибыль Опыта',
+      fr: 'Gain d\'XP
     },
     {
       en: 'Target Change',
-      ru: 'Смена Цели'
+      ru: 'Смена Цели',
+      fr: 'Changement de Cible'
     },
     {
-      en: 'Cast'
+      en: 'Cast',
+      ru: 'Каст'
+      fr: 'Cast'
     },
     {
       en: 'Damage',
@@ -48,7 +52,8 @@ export default {
     },
     {
       en: 'Death',
-      ru: 'Смерть'
+      ru: 'Смерть',
+      fr: 'Death'
     },
     {
       en: 'Level Up',
@@ -62,15 +67,18 @@ export default {
     },
     {
       en: 'Auction',
-      ru: 'Аукцион'
+      ru: 'Аукцион',
+      fr: 'Enchères'
     },
     {
       en: 'Pick Gold',
-      ru: 'Собранное Золото'
+      ru: 'Собранное Золото',
+      fr: 'Gold Ramassé'
     },
     {
       en: 'Spent Gold',
-      ru: 'Потраченное Золото'
+      ru: 'Потраченное Золото',
+      fr: 'Gold Utilisé
     },
     {
       en: 'Fame Gain',
