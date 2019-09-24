@@ -117,7 +117,7 @@ export default {
     {
       en: 'Evade',
       pt: 'Evasão',
-      ru: 'Уклоне.',
+      ru: 'Уклон.',
       fr: 'Esquive',
       tr: 'Kaçınma'
     },
