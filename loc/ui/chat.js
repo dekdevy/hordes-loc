@@ -78,7 +78,7 @@ export default {
     {
       en: 'Spent Gold',
       ru: 'Потраченное Золото',
-      fr: 'Gold Utilisé
+      fr: 'Gold Utilisé'
     },
     {
       en: 'Fame Gain',
