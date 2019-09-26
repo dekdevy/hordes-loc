@@ -28,7 +28,7 @@ export default {
     {
       en: 'Exp Gain',
       ru: 'Прибыль Опыта',
-      fr: 'Gain D\'xp'
+      fr: 'Gain d\'xp'
     },
     {
       en: 'Target Change',
@@ -37,7 +37,7 @@ export default {
     },
     {
       en: 'Cast',
-      ru: 'Каст'
+      ru: 'Каст',
       fr: 'Cast'
     },
     {
@@ -82,7 +82,8 @@ export default {
     },
     {
       en: 'Fame Gain',
-      ru: 'Прибыль Славы'
+      ru: 'Прибыль Славы',
+      fr: 'Gain de Gloire'
     }
   ]
 }
