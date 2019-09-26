@@ -28,7 +28,7 @@ export default {
     {
       en: 'Exp Gain',
       ru: 'Прибыль Опыта',
-      fr: 'Gain d\'XP
+      fr: 'Gain D\'xp'
     },
     {
       en: 'Target Change',
