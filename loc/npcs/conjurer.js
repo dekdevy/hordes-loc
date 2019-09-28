@@ -24,7 +24,7 @@ export default {
       ro: 'Ai auzit de acele Crystal Shards care au fost descoperite recent? Aventurierii le pot folosi pentru a călători direct în tărâmuri îndepărtate. Nu am deloc Crystal Shards, dar te pot trimite în unele locuri din moment ce forțele mistice converg la acest nex. Care tărâm reprezintă destinația dorită?',
       zh: '你聽說過最近發現的Crystal Shards嗎？ 冒險者可以使用它們直接前往遙遠的國度。 我沒有任何Crystal Shards，但我可以把你送到一些地方，因為神秘的力量聚集在這個地點。 哪個領域是您想要的目的地？',
       tr: 'Yeni keşfedilen Crystal Shards\'ı duydunuz mu? Maceracılar onları uzak diyarlara direkt olarak gitmek için kullanıyorlar. Bende hiç Crystal Shards yok fakat bu noktada toplanan mistik güç ile sizi bir yerlere ışınlayabilirim. Nereye gitmek istersiniz?',
-      hu: 'Hallottál már a Crystal Shards-ról, ami nemrég lett felfedezve? Ezzel egy pillanat alatt egy távoli birodalomban találhatod magad. Nálam sajnos nem találsz ilyen kristályokat, de ha van nállad akkor én eltudlak küldeni téged egy másik birodalomba, ugyanis ebben a pontban egy misztikus erő koncentrálódik. Hova szeretnél utazni?'
+      hu: 'Hallottál már a Crystal Shards-ról, ami nemrég lett felfedezve? Ezzel egy pillanat alatt egy távoli birodalomban találhatod magad. Nálam sajnos nem találsz ilyen kristályokat, de ha van nálad akkor én el tudlak küldeni téged egy másik birodalomba, ugyanis ebben a pontban egy misztikus erő koncentrálódik. Hova szeretnél utazni?'
     },
 
     choices: [{
