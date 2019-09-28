@@ -23,7 +23,7 @@ export default {
       it: 'Beh, guarda cosa abbiamo qui! No, quell\'attrezzatura non va bene, vero? Date un\'occhiata al mercato aperto! Le voci si stanno diffondendo; ho sentito parlare di Warcry Scrolls che può teletrasportarti un amico alla tua posizione. Facciamo in modo che tra di noi, ok?',
       ro: 'Ei bine, uite ce avem aici! Nu, echipamentul nu e bun, așa-i? Aruncă o privire la piața liberă! Zvonurile se răspândesc, am auzit de pergamente de război care pot teleporta un prieten la poziția ta. Dar asta să rămână între noi, bine?',
       zh: '來啊！看看我們這裡有什麼！ 不，那個裝備不行，對不對？ 看看開放市場！ 謠言正在蔓延; 聽說Warcry Scrolls可以把朋友傳送到你的位置。 不要讓第三個人知道這件事，好嗎？',
-      hu: 'Lám kit látnak szemeim! Nem, az a felszerelés nem lesz elég jó, vagy még is? Vess egy pillantást erre a vásárra! A pletykák terjednek; Hallottam egy ilyen Warcry Scrolls nevezetű tárgyról, ami az egyik barátodat hozzád tudja teleportálni. Ez maradjon a mi kis titkunk rendben?'
+      hu: 'Lám kit látnak szemeim! Nem, az a felszerelés nem lesz elég jó, vagy mégis? Vess egy pillantást erre a vásárra! A pletykák terjednek; Hallottam egy ilyen Warcry Scrolls nevezetű tárgyról, ami az egyik barátodat hozzád tudja teleportálni. Ez maradjon a mi kis titkunk rendben?'
     },
 
     choices: [{
