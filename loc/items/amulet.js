@@ -210,7 +210,8 @@ export default [
       ht: 'Teokrasi lagè yo te kreye senbòl omega diven kòm yon mwayen pou pwoteksyon. Senbòl sa yo te itilize pou dekouraje atak, yo te bay kòm kado pwoteksyon, ak prezante bay potansyèl disip relijye yo.',
       sv: 'Warring theocracies skapade gudomliga omega symboler som ett medel för skydd. Dessa symboler användes för att avskräcka attacker, ges som skyddande presenter och presenterades för potentiella religiösa anhängare.',
       ko: '신성한 오메가 상징을 보호하기위한 수단으로 창조했다. 이 상징은 방어적인 선물로 주어진 공격을 막고 잠재적 인 종교 추종자에게 선물로 사용되었습니다.',
-      ro: 'Teocrațiile de razboi au creat simboluri omega divine, ca un mijloc de protecție. Aceste simboluri au fost folosite pentru a descuraja atacurile, date ca daruri de protecție, și prezentate potențialilor adepți religioși.'
+      ro: 'Teocrațiile de razboi au creat simboluri omega divine, ca un mijloc de protecție. Aceste simboluri au fost folosite pentru a descuraja atacurile, date ca daruri de protecție, și prezentate potențialilor adepți religioși.',
+      tr: 'Savaş teorileri koruma adına ilahi omega sembollerini yarattı. Koruyucu hediye olarak verilmiş bu semboller saldırıları caydırmak için kullanıldı ve potansiyel müritlerine sunuldu.'
     }
   },
 
@@ -236,7 +237,8 @@ export default [
       ht: 'Sa a Hamlet gen yon seri etranj nan sipèpoze disk ki wobinè nan enèji natirèl ak anplifye pwoteksyon natirèl la nan utilisateurs la. Anpil itilizatè majik fè efò yo aprann sekrè yo nan Hamlet sa yo pou ke yo ka repwodwi.',
       sv: 'Denna amulett har en konstig uppsättning överlappande skivor som kranar i naturliga energier och förstärker bärarens naturliga skydd. Många magiska användare strävar efter att lära sig dessa amulets hemligheter så att de kan reproduceras.',
       ko: '이 부적은 자연 에너지를 활용하고 착용자의 자연 보호를 증폭시키는 이상한 세트의 중복 디스크를 가지고 있습니다. 많은 마술 사용자는이 부적의 비밀을 배우기 위해 노력합니다.',
-      ro: 'Această amuletă are un set ciudat de discuri ce se suprapun și care se conectează la energiile naturale astfel amplificând protecția naturală a purtătorului. Mulți utilizatori de magie se străduiesc să învețe secretele acestor amulete, astfel încât acestea să poată fi reproduse.'
+      ro: 'Această amuletă are un set ciudat de discuri ce se suprapun și care se conectează la energiile naturale astfel amplificând protecția naturală a purtătorului. Mulți utilizatori de magie se străduiesc să învețe secretele acestor amulete, astfel încât acestea să poată fi reproduse.',
+      tr: 'Bu garip muska üst üste dizilmiş doğanın enerjisi ile bağlı olan disklerden oluşmuştur ve doğal korumayı arttırır. Pek çok büyü/sihir kullanıcısı muskanın gizli kalmış bilgilerini elde etmeye çalıştı ki çoğaltılabilsin.'
     }
   },
 
@@ -262,7 +264,8 @@ export default [
       ht: 'Fil metal yo mare nan ak soti nan chak lòt, pwodwi ark elektrik ak bay aparans nan yon Hamlet vivan. Scholars espekile ke sa yo Hamlet te soti nan yon domèn ki disparèt, men pesonn pa sanble asire w.',
       sv: 'Metallfibrer väver in och ut ur varandra, producerar bågar och ger utseendet av en levande amulett. Forskare spekulerar på att dessa amuletter kom från en rike som försvann, men ingen verkar säker.',
       ko: '금속 가닥은 전기 아크를 생성하고 살아있는 부적을 드러내면서 서로 끼우거나 엮습니다. 학자들은이 부적들이 사라진 영역에서 왔다고 추측하지만 아무도 확신하지 못합니다.',
-      ro: 'Firele de metal se împletesc între ele, producând arcuri electrice și dându-i amuletei un aspect viu. Savanții speculează că aceste amulete provin dintr-un tărâm care a dispărut, dar nimeni nu pare sigur de asta.'
+      ro: 'Firele de metal se împletesc între ele, producând arcuri electrice și dându-i amuletei un aspect viu. Savanții speculează că aceste amulete provin dintr-un tărâm care a dispărut, dar nimeni nu pare sigur de asta.',
+      tr: 'Metal teller birbiri içine giriyor, elektrik arkları üretmek ona yaşayan muska görünümü kazandırıyor. Araştırmacıların tahminine göre bu muska başka diyarlardan gelmiş olmalı ama hiçbiri kendinden emin değil.'
     }
   },
 
@@ -288,7 +291,8 @@ export default [
       ht: 'Wa ansyen te gen ankh senbòl pwisan fè pwoteje yo nan dla a. Vòlè grav yo te vòlè anpil nan Hamlet sa yo ak vann yo bay tou de moun ak monstr. Chak ankh gen yon lumière etranj ki belies pouvwa vre li yo.',
       sv: 'Forntida kungar hade kraftfulla ankh symboler gjorda för att skydda dem i efterlivet. Grav rånare har stulit många av dessa amuletter och sålt dem till både människor och monster. Varje ankh har en kuslig glöd som belyser sin sanna kraft.',
       ko: '고대 왕은 내세에서 그들을 보호하기 위해 강력한 상징을 만들었습니다. 무덤 도둑들은이 부적을 많이 훔쳐서 사람들과 괴물 모두에게 팔았습니다. 각 ankh에는 그것의 진실한 힘을 속이는 섬뜩한 놀이있다.',
-      ro: 'Regii antici aveau simboluri ankh puternice făcute pentru a-i proteja în viața de apoi. Jefuitorii de morminte au furat multe dintre aceste amulete și le-au vândut atât oamenilor cât și Monștrilor. Fiecare ankh are o strălucire sinistră care-i contrazice adevărata putere.'
+      ro: 'Regii antici aveau simboluri ankh puternice făcute pentru a-i proteja în viața de apoi. Jefuitorii de morminte au furat multe dintre aceste amulete și le-au vândut atât oamenilor cât și Monștrilor. Fiecare ankh are o strălucire sinistră care-i contrazice adevărata putere.',
+      tr: 'Eski krallar onları öbür dünyada koruması için yapılmış güçlü ankh sembollere sahiptiler. Mezar hırsızları bu muskaların birçoğunu yağmalayıp insan canavar fark etmeksizin sattılar. Her bir ankh sembolü ürkütücü bir parıltıya sahipti, bu gerçek güçtü.'
     }
   },
 
@@ -315,7 +319,8 @@ export default [
       sv: 'Twisted bitar av det enorma World Tree, Yggdrasil, gjordes till amuletter av den mest heliga sorten. Sap suger ut ur amuletten och absorberas av kroppen för extra skydd.',
       ko: '거대한 World Tree의 뒤틀린 조각 Yggdrasil은 가장 신성한 종류의 부적으로 만들어졌습니다. 수액은 부적에서 스며 나오고 신체에 흡수되어 추가적인 보호를받습니다.',
       ja: '巨大なWorld Tree、Yggdrasilのツイストピースは、最も神聖な種類のお守りになりました。樹液はお守りからしみ出て、余分な保護のために体に吸収されます。',
-      ro: 'Bucăți sucite din enormul copac al lumii, Yggdrasil, au fost transformate în amulete de cel mai sacru fel. Seva iese din amuletă și este absorbită de corp pentru protecție suplimentară.'
+      ro: 'Bucăți sucite din enormul copac al lumii, Yggdrasil, au fost transformate în amulete de cel mai sacru fel. Seva iese din amuletă și este absorbită de corp pentru protecție suplimentară.',
+      tr: 'Devasa Dünya Ağacı\'nın kıvrık parçaları, Yggdrasil, en kutsal tür muska haline getirildi. Muskadan sızan bitkinin özü vücut tarafından emilip fazladan koruma sağlar.'
     }
   },
 
@@ -341,7 +346,8 @@ export default [
       ht: 'Sa a Hamlet gen majik dragon ansyen ki te sitèlman sou dragon jèn; Hamlet sa yo te bay jenn dragon yon pi bon chans pou yo siviv nan adolesans. Yon fwa dragon yo jenn te vin fin vye granmoun ak gwo ase yo siviv sou pwòp yo, chèn lan te kraze ak Hamlet a te pèdi.',
       sv: 'Denna amulett innehåller äldre dragonmagi som gavs till unga drakar; Dessa amuletter gav unga drakar en bättre chans att överleva till ungdomar. När de unga draken blev gamla och tillräckligt stora för att överleva på egen hand, gick kedjan och amuletten försvann.',
       ko: '이 부적에는 어린 드래곤에게 수여 된 엘더 드래곤 마술이 들어 있습니다. 이 부적들은 어린 용들이 사춘기 동안 더 나은 생존 기회를 갖게했습니다. 어린 용들이 오래되고 커져서 생존 할 수있게되면 체인이 끊어져 부적이 사라졌습니다.',
-      ro: 'Această amuletă conține magia Dragonului cel Bătrân care a fost acordată dragonilor tineri; aceste amulete au oferit dragonilor tineri o șansă mai bună de supraviețuire în adolescență. Odată ce dragonii tineri au devenit bătrâni și suficient de mari pentru a supraviețui pe cont propriu, lanțul s-a rupt și amuleta s-a pierdut.'
+      ro: 'Această amuletă conține magia Dragonului cel Bătrân care a fost acordată dragonilor tineri; aceste amulete au oferit dragonilor tineri o șansă mai bună de supraviețuire în adolescență. Odată ce dragonii tineri au devenit bătrâni și suficient de mari pentru a supraviețui pe cont propriu, lanțul s-a rupt și amuleta s-a pierdut.',
+      tr: 'Bu muska genç ejderhalara verilen kadim ejderha büyüsü içeriyor; bu muska büyüme çağındaki ejderhalara hayatta kalmalarını sağlamak için armağan edildi. Genç ejderhalar erişkinliğe ulaştığında zincir kopuverdi ve muska kayboldu.'
     }
   },
 
@@ -367,7 +373,7 @@ export default [
       ht: 'Sa a Hamlet gen yon GEM soti nan kouwòn lan chire pa yon wa pi popilè. Bor yo nan Hamlet sa a yo pitye byen file ak pasyèlman andwi ak yon sibstans ki sou misterye.',
       sv: 'Denna amulett innehåller en pärla från kronan som bärs av en berömd kung. Kanterna på denna amulett är hänsynslöst skarpa och delvis utsmyckade med en mystisk substans.',
       ko: '이 부적에는 유명한 왕이 착용 한 왕관의 보석이 들어 있습니다. 이 부적의 가장자리는 무자비하게 날카 롭고 부분적으로 신비한 물질로 얼룩 져 있습니다.',
-      tr: 'Bu muska, ünlü bir kralın tacından bir mücevher barındırıyor. Bu muskanın keskin kenarlarının bazı yerleri gizli bir maddeye bulanmış.'
+      tr: 'Bu muska, ünlü bir kral tarafından giyilen yıpranmış bir taçtan elde edilmiş bir mücevher içermektedir. Bu muskanın kenarları acımasızca keskindir ve kenarlarının bir kısmı az da olsa gizemli bir madde ile bulanmıştır.'
     }
   },
 
@@ -393,7 +399,8 @@ export default [
       ht: 'Sant la nan Hamlet sa a nan plim Phoenix gen yon ti kantite sann ki soti nan tout avanturyé yo tonbe ki te janm posede li. San okenn eksepsyon, tout avanturyé te itilize tankou yon Hamlet transkadi nan lejand.',
       sv: 'Centrum av denna amulett av Phoenixfjädrar innehåller en liten mängd askor från alla fallna äventyrare som någonsin har ägt den. Utan undantag har varje äventyrare att använda en sådan amulett övergått till legenden.',
       ko: '피닉스 깃털이 부적의 중심에는 이제까지 그것을 소유 한 모든 타락한 모험가들의 소량의 재가 포함되어 있습니다. 예외없이 모든 모험가는 그런 부적을 사용하여 전설을 뛰어 넘었습니다.',
-      ro: 'Centrul acestei amulete din pene Phoenix conține o cantitate mică de cenușă din partea tuturor aventurierilor căzuți care i-au deținut vreodată. Fără excepție, fiecare aventurier care a folosit o astfel de amuletă a depășit legenda.'
+      ro: 'Centrul acestei amulete din pene Phoenix conține o cantitate mică de cenușă din partea tuturor aventurierilor căzuți care i-au deținut vreodată. Fără excepție, fiecare aventurier care a folosit o astfel de amuletă a depășit legenda.',
+      tr: 'Bu muskanın ortasında bu küçük anka kuşu tüyü tüm düşmüş maceracılardan çıkan küllerden bir miktar içermektedir. Şüphesiz ki bunu kullanan maceracı efsanelere konu oldu.'
     }
   }
 ]
