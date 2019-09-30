@@ -28,62 +28,74 @@ export default {
     {
       en: 'Exp Gain',
       ru: 'Прибыль Опыта',
-      fr: 'Gain d\'xp'
+      fr: 'Gain d\'xp',
+      es: 'Exp ganado'
     },
     {
       en: 'Target Change',
       ru: 'Смена Цели',
-      fr: 'Changement de Cible'
+      fr: 'Changement de Cible',
+      es: 'Cambia objetivo'
     },
     {
       en: 'Cast',
       ru: 'Каст',
-      fr: 'Cast'
+      fr: 'Cast',
+      es: 'Convocar'
     },
     {
       en: 'Damage',
       ru: 'Урон',
-      fr: 'Damage'
+      fr: 'Damage',
+      es: 'Daño'
     },
     {
       en: 'Heal',
       ru: 'Исцеления',
-      fr: 'Heal'
+      fr: 'Heal',
+      es: 'Curar'
     },
     {
       en: 'Death',
       ru: 'Смерть',
-      fr: 'Death'
+      fr: 'Death',
+      es: 'Muerto'
     },
     {
       en: 'Level Up',
       ru: 'Повышения Уровня',
-      fr: 'Level Up'
+      fr: 'Level Up',
+      es: 'Subir nivel'
     },
     {
       en: 'Items',
       ru: 'Предметы',
-      fr: 'Items'
+      fr: 'Items',
+      es: 'Items'
     },
     {
       en: 'Auction',
       ru: 'Аукцион',
-      fr: 'Enchères'
+      fr: 'Enchères',
+      es: 'Subasta'
     },
     {
       en: 'Pick Gold',
       ru: 'Собранное Золото',
-      fr: 'Gold Ramassé'
+      fr: 'Gold Ramassé',
+      es: 'Oro agarrado'
     },
     {
       en: 'Spent Gold',
       ru: 'Потраченное Золото',
-      fr: 'Gold Utilisé'
+      fr: 'Gold Utilisé',
+      es: 'Oro gastado'
     },
     {
       en: 'Fame Gain',
       ru: 'Прибыль Славы',
-      fr: 'Gain de Gloire'
+      fr: 'Gain de Gloire',
+      es: 'Fama ganada'
     }
   ]
 }
