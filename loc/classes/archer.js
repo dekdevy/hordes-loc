@@ -23,7 +23,7 @@ export default {
     ja: '射手',
     da: 'Bueskytte',
     zh: '弓箭手',
-    haw: 'ʻāpopo',
+    haw: 'ʻāpopo'
   },
 
   // Class description, visible during character creation
