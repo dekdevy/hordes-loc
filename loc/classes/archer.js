@@ -23,7 +23,7 @@ export default {
     ja: '射手',
     da: 'Bueskytte',
     zh: '弓箭手',
-   haw: 'ʻāpopo'
+    haw: 'ʻāpopo'
   },
 
   // Class description, visible during character creation
@@ -50,6 +50,6 @@ export default {
     ja: '射手は高い単一ターゲットダメージと突発的なエリアダメージを与えます優れた射手は常に距離を保ち、遠くから敵を狙撃します。',
     da: 'Bueskytter beskæftiger sig med højt enkelt målsskader og burste områder med effekt skader. En god bueskytter vil altid holde afstanden og snipe fjender langt væk.',
     zh: '弓箭手會對單一目標造成高額傷害而且也有著爆發區域傷害。 一個專業的弓箭手會與敵人保持距離，並在遠處進行狙擊。',
-   haw: 'Nā mea hopu lawelawe kiʻekiʻe loa okahi kūʻai hana ʻino a veʻe Mālama o Hoʻohui hana ʻino. A maikaʻi loa ʻāpopo e malama mau ia ko lakou mamao a kāhea nā ʻenemi mai kahi mamao aku.',
+    haw: 'Nā mea hopu lawelawe kiʻekiʻe loa okahi kūʻai hana ʻino a veʻe Mālama o Hoʻohui hana ʻino. A maikaʻi loa ʻāpopo e malama mau ia ko lakou mamao a kāhea nā ʻenemi mai kahi mamao aku.',
   }
 }
