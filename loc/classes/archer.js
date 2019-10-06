@@ -28,7 +28,7 @@ export default {
 
   // Class description, visible during character creation
   description: {
-    en: 'Archers deal high single target damage and burst Area of Effect damage. A good archer will always keep their distance and snipe enemies from afar.',
+    en: 'Archers deal high single target damage and bursty Area of Effect damage. A good archer will always keep their distance and snipe enemies from afar.',
     sv: 'Bågskytten gör stor skada på enskilda enheter, och även stor areell skada. En god bågskytt prickskjuter alltid sina fiender på avstånd.',
     ru: 'Лучники наносят высокий урон по одиночной цели и взрывной урон по области. Хороший лучник всегда будет держать дистанцию и отстреливать врагов издалека.',
     ko: '궁수는 높은 단일 타겟 데미지와 버스트 에어리어 피해를줍니다. 좋은 궁수는 먼 거리에서 항상 적을 도일 당합니다.',
@@ -50,6 +50,6 @@ export default {
     ja: '射手は高い単一ターゲットダメージと突発的なエリアダメージを与えます優れた射手は常に距離を保ち、遠くから敵を狙撃します。',
     da: 'Bueskytter beskæftiger sig med højt enkelt målsskader og burste områder med effekt skader. En god bueskytter vil altid holde afstanden og snipe fjender langt væk.',
     zh: '弓箭手會對單一目標造成高額傷害而且也有著爆發區域傷害。 一個專業的弓箭手會與敵人保持距離，並在遠處進行狙擊。',
-    haw: 'nā mea hopu lawelawe kiʻekiʻe loa okahi kūʻai hana ʻino a veʻe Mālama o Hoʻohui hana ʻino. A maikaʻi loa ʻāpopo e malama mau ia ko lakou mamao a kāhea nā ʻenemi mai kahi mamao aku.',
+    haw: 'Nā mea hopu lawelawe kiʻekiʻe loa okahi kūʻai hana ʻino a veʻe Mālama o Hoʻohui hana ʻino. A maikaʻi loa ʻāpopo e malama mau ia ko lakou mamao a kāhea nā ʻenemi mai kahi mamao aku.',
   }
 }
