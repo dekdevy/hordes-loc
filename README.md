@@ -7,7 +7,7 @@ This repository is a public submodule of the [beta.hordes.io](https://beta.horde
 
 Resources for first timers and GitHub beginners
 * [DeepL Translator](https://www.deepl.com/en/translator) - Our preferred translator.
-* [Language codes](http://www.lingoes.net/en/translator/langcode.htm) - Pick language codes from here when introducing a new language. Ignore post-dash text.
+* [Language codes](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry) - Pick language codes from here when introducing a new language. Ignore post-dash text.
 * [GitHub video tutorial](https://www.youtube.com/watch?v=0fKg7e37bQE), [GitHub guides](https://guides.github.com/)
 * [Tutorial on updating your fork](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser) - Updating your repository to match the master's state.
 
