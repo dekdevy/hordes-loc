@@ -22,7 +22,7 @@ export default {
     tl: 'Ang Vanguard horde ay naglalayong istraktura ng istraktura at kaayusan sa lipunan. Ang kanilang Castle ay makikita sa luntiang luntiang lugar sa paligid ng Guardstone.',
     pl: 'Horda Vanguard poszukuje tradycji, struktury i porządku w społeczeństwie. Ich zamek można znaleźć w bujnej zieleni wokół Guardstone.',
     el: 'Η ορδή της Vanguard αναζητά την παράδοση, τη δομή και την τάξη στην κοινωνία. Το κάστρο τους βρίσκεται σε μια καταπράσινη περιοχή γύρω από το Guardstone.',
-    bg: 'Ордата на Vanguard търси традиция и ред в обществото. Замъкът им може да се намери в буйната зелена зона около Guardstone.',
+    bg: 'Ордата на Vanguard се стреми към традициите и реда в обществото. Замъкът им може да се намери в буйната зелена зона около Guardstone.',
     cs: 'Vanguard horda hledá tradici, strukturu a pořádek ve společnosti. Jejich hrad se nachází v bujné zelené oblasti kolem Guardstone.',
     ja: 'Vanguardの大群は、社会における伝統、構造、そして秩序を求めています。 彼らの城はGuardstone周辺の緑豊かな地域にあります。',
     ro: 'Facțiunea Vanguard caută tradiția, structura și ordinea în societate. Castelul lor poate fi găsit într-o zonă verde luxuriantă din jurul Guardstone.',
