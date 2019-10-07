@@ -22,7 +22,7 @@ export default {
     pl: 'Horda Bloodlust ceni sobie wolność i lojalność, oferuje miejsce dla indywidualizmu, a nawet chaosu. Ich obrona znajduje się w pustynnym królestwie zwanym Headless Landing.',
     ht: 'Branch fanmi an Bloodlust gen ladan valè a nan libète ak lwayote. Li ofri yon kote pou endividyalis e menm dezòd. Defans yo sitiye nan yon peyi dezè ki rele Landing.',
     el: 'Η ορδή Bloodlust εκτιμά την ελευθερία και την πίστη, προσφέρει ένα χώρο για ατομικισμό ή και χάος. Οι άμυνές τους βρίσκονται σε μια ερημική περιοχή αποκαλούμενη Headless Landing.',
-    bg: 'Ордата на Bloodlust ценни свобода и лоялност, предлага място за индивидуализъм или дори хаос. Техните защити се намират в пустинния свят, наречен Headless Landing.',
+    bg: 'Ордата на Bloodlust цени свободата и лоялността, предлага място за индивидуализъм или дори хаос. Техните защити се намират в пустинния свят, наречен Headless Landing.',
     cs: 'Horda Bloodlust hodnotí svobodu a loajalitu, nabízí místo pro individualismus nebo dokonce chaos. Jejich Obrany jsou umístěny v pouštní říši nazvané Headless Landing.',
     ja: 'Bloodlustの大群は自由と忠誠心を重んじ、個人主義あるいは混乱さえもの場所を提供します。 彼らの防御はHeadless Landingと呼ばれる砂漠の王国にあります。',
     ro: 'Facțiunea Bloodlust valorizează libertatea și loialitatea, oferă un loc pentru individualism sau chiar haos. Apărările lor sunt situate într-o regiune a deșertului numită Headless Landing.',
