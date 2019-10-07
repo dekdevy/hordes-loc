@@ -59,7 +59,7 @@ export default {
 ```
 All strings are contained in objects that hold translations for any amount of languages. The default language will generally be `en`for English, but any language can be added. In this case, we can see the Archers name being held in the `name: { ... } `object, and the Russian translation is already present, along with the original English text.
 
-To add a translation, simply add a [ISO639-2 Language code](http://www.lingoes.net/en/translator/langcode.htm) (``en, de, fr...``) with your translation. For example, to add a German translation for the Archer's name:
+To add a translation, simply add a [language code](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry (``en, de, fr...``) with your translation. For example, to add a German translation for the Archer's name:
 ```js
   // The class name
   name: {
