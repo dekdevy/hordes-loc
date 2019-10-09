@@ -51,6 +51,10 @@ export default {
     zh: '控制'
   },
 
+  pointerlock: {
+    en: 'Hide mouse during rotation'
+  },
+
   lockedcamera: {
     en: 'Locked camera',
     ru: 'Заблокированная камера',
