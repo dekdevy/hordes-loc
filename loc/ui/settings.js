@@ -51,6 +51,10 @@ export default {
     zh: '控制'
   },
 
+  keybindings: {
+    en: 'Key bindings'
+  },
+
   pointerlock: {
     en: 'Hide mouse during rotation'
   },
@@ -189,52 +193,24 @@ export default {
     zh: '技能影响'
   },
 
-  shadow: {
-    en: 'Shadow quality',
-    ru: 'Качество тени',
-    hi: 'परछाईं क्वालिटी',
-    es: 'Calidad de sombra',
-    de: 'Schattenqualität',
-    fr: 'Qualité des ombres',
-    nl: 'Schaduwkwaliteit',
-    tr: 'Gölge kalitesi',
-    pt: 'Qualidade de sombras',
-    pl: 'Jakość cienia',
-    ht: 'Kalite lonbraj',
-    it: 'Qualità dell\'ombra',
-    ko: '그림자',
-    cs: 'Kvalita stínu',
-    ja: 'シャドウ品質',
-    sv: 'Skuggkvalitet',
-    bg: 'Качество на сенките',
-    el: 'Ποιότητα σκιάς',
-    tl: 'Kalidad ng anino',
-    ro: 'Calitatea umbrelor',
-    da: 'Skygge kvalitet'
+  shadows: {
+    en: 'Shadows'
   },
 
-  grassamount: {
-    en: 'Grass amount',
-    ru: 'Количество травы',
-    hi: 'घास की मात्रा',
-    es: 'Cantidad de pasto',
-    de: 'Grasmenge',
-    fr: 'Quantité d\'herbe',
-    nl: 'Grasbedrag',
-    tr: 'Çim miktarı',
-    pt: 'Quantidade de ervas',
-    pl: 'Ilość trawy',
-    ht: 'Zèb kantite lajan',
-    it: 'Quantità d\'erba',
-    ko: '잔디 양',
-    cs: 'Množství trávy',
-    ja: '草量',
-    sv: 'Gräsmängd',
-    bg: 'Kоличество трева',
-    el: 'Χόρτο ποσό',
-    tl: 'Damo halaga',
-    ro: 'Cantitatea de iarbă',
-    da: 'Græsbeløb'
+  ssao: {
+    en: 'Ambient Occlusion'
+  },
+
+  grass: {
+    en: 'Grass'
+  },
+
+  clouds: {
+    en: 'Clouds'
+  },
+
+  particles: {
+    en: 'Particles'
   },
 
   // ---- Audio
@@ -312,52 +288,12 @@ export default {
     da: 'Chat'
   },
 
-  chatwidth: {
-    en: 'Chat width',
-    ru: 'Ширина чата',
-    hi: 'चैट की चौडाई',
-    es: 'Ancho del chat',
-    de: 'Chatbreite',
-    fr: 'Largeur du chat',
-    nl: 'Chatbreedte',
-    tr: 'Chat genişliği',
-    pt: 'Largura do chat',
-    pl: 'Szerokość rozmowy',
-    ht: 'Lajè chat',
-    it: 'Larghezza della chat',
-    ko: '잡담 폭',
-    cs: 'Šířka chatu',
-    ja: 'チャット幅',
-    sv: 'Chatt-bredd',
-    bg: 'Ширина на чата',
-    el: 'πλάτος κουβέντα',
-    tl: 'lapad ng chat',
-    ro: 'Lățime chat',
-    da: 'Chat bredde'
+  chatbubbles: {
+    en: 'Show chat bubbles'
   },
 
-  chatheight: {
-    en: 'Chat height',
-    ru: 'Высота чата',
-    hi: 'चैट की लम्बाई',
-    es: 'Altura del chat',
-    de: 'Chathöhe',
-    fr: 'Hauteur du chat',
-    nl: 'Chathoogte',
-    tr: 'Chat yükskliği',
-    pt: 'Altura do chat',
-    pl: 'Wysokość rozmowy',
-    ht: 'Wotè chat',
-    it: 'Altezza della chat',
-    ko: '잡담 노피',
-    cs: 'Výška chatu',
-    ja: 'チャットの高さ',
-    sv: 'Chatt-höjd',
-    bg: 'Височина на чата',
-    el: 'ύψος κουβέντα',
-    tl: 'taas ng chat',
-    ro: 'Înălțime chat',
-    da: 'Chat højde'
+  combatlog: {
+    en: 'Combat log'
   },
 
   // ---- User interface
