@@ -272,5 +272,12 @@ export default [{
   description: {
     en: 'Your next Precise Shot deals increased damage.'
   }
+},
+{
+  name: {$$: 'Mount Riding'},
+
+  description: {
+    en: 'Allows you to ride ground mounts.'
+  }
 }
 ]
