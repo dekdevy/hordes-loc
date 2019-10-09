@@ -213,6 +213,10 @@ export default {
     en: 'Particles'
   },
 
+  detailprops: {
+    en: 'Detail props'
+  },
+
   // ---- Audio
   audio: {
     en: 'Audio',
