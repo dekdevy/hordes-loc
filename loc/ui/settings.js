@@ -56,7 +56,8 @@ export default {
   },
 
   pointerlock: {
-    en: 'Hide mouse during rotation'
+    en: 'Hide mouse during rotation',
+    ru: 'Скрыть мышь во время вращения' 
   },
 
   lockedcamera: {
@@ -194,7 +195,8 @@ export default {
   },
 
   shadows: {
-    en: 'Shadows'
+    en: 'Shadows',
+    ru: 'Тени'
   },
 
   ssao: {
@@ -202,19 +204,23 @@ export default {
   },
 
   grass: {
-    en: 'Grass'
+    en: 'Grass',
+    ru: 'Трава'
   },
 
   clouds: {
-    en: 'Clouds'
+    en: 'Clouds',
+    ru: 'Облака'
   },
 
   particles: {
-    en: 'Particles'
+    en: 'Particles',
+    ru: 'Частицы'
   },
 
   detailprops: {
-    en: 'Detail props'
+    en: 'Detail props',
+    ru: 'Детали пропов'
   },
 
   // ---- Audio
