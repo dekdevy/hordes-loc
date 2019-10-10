@@ -134,7 +134,8 @@ export default [
       sv: 'När en talon hittades, ansågs den vara en gåva från de heliga fåglarna i bergen. Munkarna i bergen använde talonerna för att producera andliga amuletter för att skydda sig från invaderare under striden.',
       ko: '탈론이 발견되었을 때, 그것은 산속에있는 신성한 새들의 선물로 간주되었습니다. 산 속 승려들은 전투 중에 침략자들로부터 스스로를 보호 할 수있는 영적인 부적을 만들기 위해 발톱을 사용했습니다.',
       ro: 'Când a fost găsită o ghiară, a fost considerată un dar de la păsările sacre din munți. Călugării din munți au folosit gheare pentru a produce amulete spirituale pentru a se proteja de invadatori în timpul bătăliilor.',
-      tr: 'Eskiden bir pençe bulunduğunda, onun dağlardaki kutsal kuşlardan bir hediye olduğu düşünülürdü. Dağlardaki rahipler, savaş esnasında kendilerini işgalcilerden korumak için bu pençeleri kullanarak ruhani muskalar yaptılar.'
+      tr: 'Eskiden bir pençe bulunduğunda, onun dağlardaki kutsal kuşlardan bir hediye olduğu düşünülürdü. Dağlardaki rahipler, savaş esnasında kendilerini işgalcilerden korumak için bu pençeleri kullanarak ruhani muskalar yaptılar.',
+      hu: 'Amikor a vadászok egy ilyen karmot találnak, úgy hiszik, hogy a hegyek szent madarainak ajándéka hullott elébük. A szirtfokon élő szerzetesek a karmokból amuletteket készítettek, hogy védekezhessenek a megszállóik ellen.'
     }
   },
 
@@ -161,7 +162,8 @@ export default [
       sv: 'Forntida öknen samlade speciella stenar och formade dem i scarabs med konstig, mörk magi. Många viktiga människor i den antika civilisationen hade dessa amuletter för statur och skydd.',
       ko: '고대 사막 사람들은 특별한 돌을 모아 이상하고 어두운 마술로 풍뎅이 모양으로 만들었습니다. 그 고대 문명의 많은 사람들이 키와 보호를 위해이 부적을 입었습니다.',
       ro: 'Oamenii antici ai deșertului au adunat pietre speciale și le-au încrustat în scarabei cu ajutorul unei magii negre, puternice. Mulți oameni importanți din acea civilizație antică purtau aceste amulete pentru statură și protecție.',
-      tr: 'Antik zamanlarda çölde yaşayan insanlar özel taşlar toplayıp onlara gizemli, değişik bir büyüyle böcek oyması şeklini verirlerdi. Bu antik uygarlıklarda önemli kişiler, bu muskaları itibar ve korunma amacıyla takarlardı.'
+      tr: 'Antik zamanlarda çölde yaşayan insanlar özel taşlar toplayıp onlara gizemli, değişik bir büyüyle böcek oyması şeklini verirlerdi. Bu antik uygarlıklarda önemli kişiler, bu muskaları itibar ve korunma amacıyla takarlardı.',
+      hu: 'Sötét, különös mágia volt az amivel a sivatagi népek a köveket scarabeusokká faragták. Az ősidők jelentős személyei ezeket védelmükért, de drágaságukért is viselték.'
     }
   },
 
