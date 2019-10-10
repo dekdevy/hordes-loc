@@ -24,6 +24,7 @@ import bow from './items/bow.js'
 import glove from './items/glove.js'
 import hammer from './items/hammer.js'
 import misc from './items/misc.js'
+import mount from './items/mount.js'
 import orb from './items/orb.js'
 import quiver from './items/quiver.js'
 import ring from './items/ring.js'
@@ -50,6 +51,7 @@ const items = {
   shield,
   staff,
   sword,
+  mount,
   totem
 }
 
