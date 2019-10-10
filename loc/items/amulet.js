@@ -78,7 +78,8 @@ export default [
       sv: 'Detta halsband består av benfragment från en rad starka varelser. Varje benhalsband varierar i skydd baserat på benens ursprung.',
       ko: '이 목걸이는 다양한 강력한 생물의 뼈 조각으로 구성되어 있습니다. 각 뼈 목걸이는 뼈의 기원에 따라 보호가 다릅니다.',
       ro: 'Acest colier este compus din fragmente de oase a unei varietate de creaturi puternice. Fiecare colier de os variază în funcție de originea oaselor.',
-      tr: 'Bu kolye çeşitli güçlü yaratıkların kemik parçalarından oluşmakta. Her kemik kolyenin koruma gücü onu oluşturan kemiklerin nereden elde edildiğine bağlı olarak değişiklik gösterir.'
+      tr: 'Bu kolye çeşitli güçlü yaratıkların kemik parçalarından oluşmakta. Her kemik kolyenin koruma gücü onu oluşturan kemiklerin nereden elde edildiğine bağlı olarak değişiklik gösterir.',
+      hu: 'Ez a nyaklánc különböző pusztító  bestiák csontszilánkjaiból lett összeállítva. Minden nyaklánc védőereje azon alapul, hogy milyen szörnyetegek csontját használták fel hozzá.'
     }
   },
 
@@ -105,7 +106,8 @@ export default [
       sv: 'Fruktansvärda varulvsklor som lämnades på offrens kroppar smorde med mystiska oljor och inleddes med andlig kraft genom meditation. Skaparna av dessa amuletter hoppades att dessa andliga skydd skulle en dag användas för hämnd.',
       ko: '희생 된 사람들의 몸에 남겨진 두려운 늑대 인간 발톱은 신비한 기름으로 기름을 바르고 명상을 통해 영적 불굴의 정신으로 불타 올랐습니다. 이 부적의 창시자는이 영적 보호가 언젠가 복수로 사용되기를 바랐습니다.',
       ro: 'Ghearele unui vârcolac temut care au fost lăsate în urmă pe corpurile victimelor, au fost unse cu uleiuri mistice și insuflate cu tărie spirituală ob; prin meditație. Creatorii acestor amulete au sperat că aceste protecții spirituale vor fi folosite într-o zi pentru răzbunare.',
-      tr: 'Kurt adamın kurbanlarının vücutlarında kalan bu korkunç pençeler, mistik yağlar ile mesh edilmiş ve meditasyon yoluyla içlerine ruhani metanet aşılanmış. Bu muskaları yapanlar, aşılanan ruhani korumanın bir gün kurt adamdan intikam almak için kullanılabileceğini ummuşlar.'
+      tr: 'Kurt adamın kurbanlarının vücutlarında kalan bu korkunç pençeler, mistik yağlar ile mesh edilmiş ve meditasyon yoluyla içlerine ruhani metanet aşılanmış. Bu muskaları yapanlar, aşılanan ruhani korumanın bir gün kurt adamdan intikam almak için kullanılabileceğini ummuşlar.',
+      hu: 'A vérszomjas farkasemberek még az áldozatokon hátrahagyott karmait misztikus olajokkal és hosszú meditációval kovácsolták egybe. Azt remélték, hogy egy napon ezek az eszközök a bosszú fegyvereivé válhatnak.'
     }
   },
 
