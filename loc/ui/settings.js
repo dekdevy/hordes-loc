@@ -256,7 +256,7 @@ export default {
 
   sfxvolume: {
     en: 'SFX Volume',
-    ru: 'Громкость эффектов',
+    ru: 'Громкость Эффектов',
     de: 'SFX Lautstärke',
     nl: 'SFX Harder',
     pt: 'Volume de SFX',
