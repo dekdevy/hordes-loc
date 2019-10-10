@@ -52,7 +52,8 @@ export default {
   },
 
   keybindings: {
-    en: 'Key bindings'
+    en: 'Key bindings',
+    ru: 'Привязки клавиш'
   },
 
   pointerlock: {
@@ -170,26 +171,26 @@ export default {
   },
 
   skilleffects: {
-    en: 'Skill effects',
-    ru: 'Эффекты навыков',
+    en: 'Skill Effects',
+    ru: 'Эффекты Навыков',
     hi: 'स्किल दिखावट',
-    es: 'Efectos de habilidades',
+    es: 'Efectos de Habilidades',
     de: 'Fertigkeitseffekte',
-    fr: 'Effets de habiletés',
+    fr: 'Effets de Habiletés',
     nl: 'Vaardigheidseffecten',
-    tr: 'Yetenek efektleri',
-    pt: 'Efeitos de habilidade',
-    pl: 'Efekty umiejętności',
+    tr: 'Yetenek Efektleri',
+    pt: 'Efeitos de Habilidade',
+    pl: 'Efekty Umiejętności',
     ht: 'Efè Konpetans',
-    it: 'Effetti di abilità',
+    it: 'Effetti di Abilità',
     ko: '기술 효과',
-    cs: 'Dovednostní efekty',
+    cs: 'Dovednostní Efekty',
     ja: 'スキル効果',
     sv: 'Färdighetseffekter',
     bg: 'Ефекти',
     el: 'Επιπτώσεις δεξιοτήτων',
     tl: 'Mga epekto sa kasanayan',
-    ro: 'Efectele abilităților',
+    ro: 'Efectele Abilităților',
     da: 'Færdighedseffekter',
     zh: '技能影响'
   },
@@ -202,7 +203,7 @@ export default {
 
   ssao: {
     en: 'Ambient Occlusion',
-    fr: 'Occlusion ambiante'
+    fr: 'Occlusion Ambiante'
   },
 
   grass: {
@@ -310,7 +311,7 @@ export default {
   },
 
   combatlog: {
-    en: 'Combat log'
+    en: 'Combat Log'
   },
 
   // ---- User interface
