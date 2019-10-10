@@ -326,7 +326,8 @@ export default [
       sv: 'Twisted bitar av det enorma World Tree, Yggdrasil, gjordes till amuletter av den mest heliga sorten. Sap suger ut ur amuletten och absorberas av kroppen för extra skydd.',
       ko: '거대한 World Tree의 뒤틀린 조각 Yggdrasil은 가장 신성한 종류의 부적으로 만들어졌습니다. 수액은 부적에서 스며 나오고 신체에 흡수되어 추가적인 보호를받습니다.',
       ja: '巨大なWorld Tree、Yggdrasilのツイストピースは、最も神聖な種類のお守りになりました。樹液はお守りからしみ出て、余分な保護のために体に吸収されます。',
-      ro: 'Bucăți sucite din enormul copac al lumii, Yggdrasil, au fost transformate în amulete de cel mai sacru fel. Seva iese din amuletă și este absorbită de corp pentru protecție suplimentară.'
+      ro: 'Bucăți sucite din enormul copac al lumii, Yggdrasil, au fost transformate în amulete de cel mai sacru fel. Seva iese din amuletă și este absorbită de corp pentru protecție suplimentară.',
+      hu: 'Az ős világfa, Yggdrasil szétszóródott darabkáit rég összegyűjtötték a legnagyobb mágusok, hogy kiaknázhassák végtelen erejüket. Az eredmények a birodalmak legszentebb amulettjei lettek,  amik mágikus gyökerekkel fonódnak egybe a testtel, hogy a titáni egyesülésben a megszázszorozzák a test erejét. A tiszta életerő, amely ezekből a fantasztikus szilánkokból áramlik, képes teljesen megfiatalítani a megfáradt szellemet és lelket egyaránt.'
     }
   },
 
@@ -352,7 +353,8 @@ export default [
       ht: 'Sa a Hamlet gen majik dragon ansyen ki te sitèlman sou dragon jèn; Hamlet sa yo te bay jenn dragon yon pi bon chans pou yo siviv nan adolesans. Yon fwa dragon yo jenn te vin fin vye granmoun ak gwo ase yo siviv sou pwòp yo, chèn lan te kraze ak Hamlet a te pèdi.',
       sv: 'Denna amulett innehåller äldre dragonmagi som gavs till unga drakar; Dessa amuletter gav unga drakar en bättre chans att överleva till ungdomar. När de unga draken blev gamla och tillräckligt stora för att överleva på egen hand, gick kedjan och amuletten försvann.',
       ko: '이 부적에는 어린 드래곤에게 수여 된 엘더 드래곤 마술이 들어 있습니다. 이 부적들은 어린 용들이 사춘기 동안 더 나은 생존 기회를 갖게했습니다. 어린 용들이 오래되고 커져서 생존 할 수있게되면 체인이 끊어져 부적이 사라졌습니다.',
-      ro: 'Această amuletă conține magia Dragonului cel Bătrân care a fost acordată dragonilor tineri; aceste amulete au oferit dragonilor tineri o șansă mai bună de supraviețuire în adolescență. Odată ce dragonii tineri au devenit bătrâni și suficient de mari pentru a supraviețui pe cont propriu, lanțul s-a rupt și amuleta s-a pierdut.'
+      ro: 'Această amuletă conține magia Dragonului cel Bătrân care a fost acordată dragonilor tineri; aceste amulete au oferit dragonilor tineri o șansă mai bună de supraviețuire în adolescență. Odată ce dragonii tineri au devenit bătrâni și suficient de mari pentru a supraviețui pe cont propriu, lanțul s-a rupt și amuleta s-a pierdut.',
+      hu: 'Ezek az amulettek a sárkányősök mágiáját őrzik, amit a fiatalabbaknak kívántak átadni egykoron. Ez az óriási hatalom akkor a fiókáknak adott erőt az első szárnycsapásokhoz; amikor gyilkos terrorjukat már maguk is képesek voltak a világra zúdítani, az amulett letört, és lezuhat a halandók közé. Ma gyakran csillannak meg ezek sárkányölő hősök mellén.'
     }
   },
 
@@ -378,7 +380,8 @@ export default [
       ht: 'Sa a Hamlet gen yon GEM soti nan kouwòn lan chire pa yon wa pi popilè. Bor yo nan Hamlet sa a yo pitye byen file ak pasyèlman andwi ak yon sibstans ki sou misterye.',
       sv: 'Denna amulett innehåller en pärla från kronan som bärs av en berömd kung. Kanterna på denna amulett är hänsynslöst skarpa och delvis utsmyckade med en mystisk substans.',
       ko: '이 부적에는 유명한 왕이 착용 한 왕관의 보석이 들어 있습니다. 이 부적의 가장자리는 무자비하게 날카 롭고 부분적으로 신비한 물질로 얼룩 져 있습니다.',
-      tr: 'Bu muska, ünlü bir kralın tacından bir mücevher barındırıyor. Bu muskanın keskin kenarlarının bazı yerleri gizli bir maddeye bulanmış.'
+      tr: 'Bu muska, ünlü bir kralın tacından bir mücevher barındırıyor. Bu muskanın keskin kenarlarının bazı yerleri gizli bir maddeye bulanmış.',
+      hu: 'Ez az amulett egy bukott király koronájából kitört ékkövet őriz magában. A kristály pereme végtelenül éles és a művészien megmunkált formák egy ismeretlen szubsztanciát rejtenek magukban.'
     }
   },
 
@@ -404,7 +407,8 @@ export default [
       ht: 'Sant la nan Hamlet sa a nan plim Phoenix gen yon ti kantite sann ki soti nan tout avanturyé yo tonbe ki te janm posede li. San okenn eksepsyon, tout avanturyé te itilize tankou yon Hamlet transkadi nan lejand.',
       sv: 'Centrum av denna amulett av Phoenixfjädrar innehåller en liten mängd askor från alla fallna äventyrare som någonsin har ägt den. Utan undantag har varje äventyrare att använda en sådan amulett övergått till legenden.',
       ko: '피닉스 깃털이 부적의 중심에는 이제까지 그것을 소유 한 모든 타락한 모험가들의 소량의 재가 포함되어 있습니다. 예외없이 모든 모험가는 그런 부적을 사용하여 전설을 뛰어 넘었습니다.',
-      ro: 'Centrul acestei amulete din pene Phoenix conține o cantitate mică de cenușă din partea tuturor aventurierilor căzuți care i-au deținut vreodată. Fără excepție, fiecare aventurier care a folosit o astfel de amuletă a depășit legenda.'
+      ro: 'Centrul acestei amulete din pene Phoenix conține o cantitate mică de cenușă din partea tuturor aventurierilor căzuți care i-au deținut vreodată. Fără excepție, fiecare aventurier care a folosit o astfel de amuletă a depășit legenda.',
+      hu: 'A legendák tűzmadarának tollai övezik azoknak a hamvait, akik egykor viselték azt, de az amulett ereje képtelen volt megvédeni őket végzetüktől. Kivétel nélkül, minden kalandor, aki képes volt használni ezt az eszközt, egy Legendaként él tovább a mennyek éteri csarnokában.'
     }
   }
 ]
