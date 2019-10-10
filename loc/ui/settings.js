@@ -196,26 +196,31 @@ export default {
 
   shadows: {
     en: 'Shadows',
-    ru: 'Тени'
+    ru: 'Тени',
+    fr: 'Ombres'
   },
 
   ssao: {
-    en: 'Ambient Occlusion'
+    en: 'Ambient Occlusion',
+    fr: 'Occlusion ambiante'
   },
 
   grass: {
     en: 'Grass',
-    ru: 'Трава'
+    ru: 'Трава',
+    fr: 'Herbe'
   },
 
   clouds: {
     en: 'Clouds',
-    ru: 'Облака'
+    ru: 'Облака',
+    fr: 'Nuages'
   },
 
   particles: {
     en: 'Particles',
-    ru: 'Частицы'
+    ru: 'Частицы',
+    fr: 'Particules'
   },
 
   detailprops: {
