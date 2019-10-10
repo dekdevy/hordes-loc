@@ -304,7 +304,8 @@ export default {
   },
 
   chatbubbles: {
-    en: 'Show chat bubbles'
+    en: 'Show chat bubbles',
+    ru: 'Показавать чат пузеры'
   },
 
   combatlog: {
