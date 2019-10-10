@@ -190,7 +190,8 @@ export default [
       sv: 'Många sköldar som minas från bergen förhöjdes av mystiker och formades till amuletter för att ge skydd och orsaka rädsla.',
       ko: '산에서 채광 한 이상한 조각들은 보호를 제공하고 두려움을 유발하기 위해 신비 주의자들에 의해 강화되어 부적으로 형성되었습니다.',
       ro: 'Cioburi stranii minate din munți au fost întărite de mistici și transformate în amulete pentru a oferi protecție și a provoca frică.',
-      tr: 'Dağlardan kazılarak çıkarılmış bu garip parçalar, koruma sağlaması ve düşmanlara korku vermesi amacıyla ruhların sadık inananları tarafından efsunlanmış ve muskalar hâline getirilmiş.'
+      tr: 'Dağlardan kazılarak çıkarılmış bu garip parçalar, koruma sağlaması ve düşmanlara korku vermesi amacıyla ruhların sadık inananları tarafından efsunlanmış ve muskalar hâline getirilmiş.',
+      hu: 'A bányák fekete mélyéről felhozott kristályok hamar a misztikusok munkapadjára kerültek. Ők, akik felismerték a bennük tomboló erőt, fáradtságos munkával amulettekké formálták ezeket a szilánkokat, amik ma a viselőben reményt, ellenségeiben félelmet keltenek.'
     }
   },
 
@@ -216,7 +217,8 @@ export default [
       ht: 'Teokrasi lagè yo te kreye senbòl omega diven kòm yon mwayen pou pwoteksyon. Senbòl sa yo te itilize pou dekouraje atak, yo te bay kòm kado pwoteksyon, ak prezante bay potansyèl disip relijye yo.',
       sv: 'Warring theocracies skapade gudomliga omega symboler som ett medel för skydd. Dessa symboler användes för att avskräcka attacker, ges som skyddande presenter och presenterades för potentiella religiösa anhängare.',
       ko: '신성한 오메가 상징을 보호하기위한 수단으로 창조했다. 이 상징은 방어적인 선물로 주어진 공격을 막고 잠재적 인 종교 추종자에게 선물로 사용되었습니다.',
-      ro: 'Teocrațiile de razboi au creat simboluri omega divine, ca un mijloc de protecție. Aceste simboluri au fost folosite pentru a descuraja atacurile, date ca daruri de protecție, și prezentate potențialilor adepți religioși.'
+      ro: 'Teocrațiile de razboi au creat simboluri omega divine, ca un mijloc de protecție. Aceste simboluri au fost folosite pentru a descuraja atacurile, date ca daruri de protecție, și prezentate potențialilor adepți religioși.',
+      hu: 'Isteni népek éteri köreiben teremtették meg az örök Omega szimbólumot, a védelem jelét és annak tökéletes megnyilatkozását. Ezek a hieroglifák képesek elsorvasztani a csapások erejét, sőt, vannak akik a egész hitüket ilyen tárgyakba vetik, miután mennyei ajándékként hullott eléjük.'
     }
   },
 
@@ -242,7 +244,8 @@ export default [
       ht: 'Sa a Hamlet gen yon seri etranj nan sipèpoze disk ki wobinè nan enèji natirèl ak anplifye pwoteksyon natirèl la nan utilisateurs la. Anpil itilizatè majik fè efò yo aprann sekrè yo nan Hamlet sa yo pou ke yo ka repwodwi.',
       sv: 'Denna amulett har en konstig uppsättning överlappande skivor som kranar i naturliga energier och förstärker bärarens naturliga skydd. Många magiska användare strävar efter att lära sig dessa amulets hemligheter så att de kan reproduceras.',
       ko: '이 부적은 자연 에너지를 활용하고 착용자의 자연 보호를 증폭시키는 이상한 세트의 중복 디스크를 가지고 있습니다. 많은 마술 사용자는이 부적의 비밀을 배우기 위해 노력합니다.',
-      ro: 'Această amuletă are un set ciudat de discuri ce se suprapun și care se conectează la energiile naturale astfel amplificând protecția naturală a purtătorului. Mulți utilizatori de magie se străduiesc să învețe secretele acestor amulete, astfel încât acestea să poată fi reproduse.'
+      ro: 'Această amuletă are un set ciudat de discuri ce se suprapun și care se conectează la energiile naturale astfel amplificând protecția naturală a purtătorului. Mulți utilizatori de magie se străduiesc să învețe secretele acestor amulete, astfel încât acestea să poată fi reproduse.',
+      hu: 'Egymást fedő és beburkoló lapok alkotják ezt az amulettet, ami a természet erőihez nyúlva biztosítja viselőjének a védelmet. Mágusok százai munkálkodnak azon, hogy megérthessék hogyan működnek ezek az eszközök, hogy egy napon talán ők is létrehozhassanak egyet.'
     }
   },
 
@@ -268,7 +271,8 @@ export default [
       ht: 'Fil metal yo mare nan ak soti nan chak lòt, pwodwi ark elektrik ak bay aparans nan yon Hamlet vivan. Scholars espekile ke sa yo Hamlet te soti nan yon domèn ki disparèt, men pesonn pa sanble asire w.',
       sv: 'Metallfibrer väver in och ut ur varandra, producerar bågar och ger utseendet av en levande amulett. Forskare spekulerar på att dessa amuletter kom från en rike som försvann, men ingen verkar säker.',
       ko: '금속 가닥은 전기 아크를 생성하고 살아있는 부적을 드러내면서 서로 끼우거나 엮습니다. 학자들은이 부적들이 사라진 영역에서 왔다고 추측하지만 아무도 확신하지 못합니다.',
-      ro: 'Firele de metal se împletesc între ele, producând arcuri electrice și dându-i amuletei un aspect viu. Savanții speculează că aceste amulete provin dintr-un tărâm care a dispărut, dar nimeni nu pare sigur de asta.'
+      ro: 'Firele de metal se împletesc între ele, producând arcuri electrice și dându-i amuletei un aspect viu. Savanții speculează că aceste amulete provin dintr-un tărâm care a dispărut, dar nimeni nu pare sigur de asta.',
+      hu: 'Acélcsomók áramlanak vad gomolygásban, elektromos szikrák ezreit létrehozva, amely már-már egy élő amulett látszatát kelti. Számos varázsló vallja azt a nézetet, hogy ezek a tárgyak egy véglegesen elpusztult világból maradtak ránk. Van aki mennyei ajándéknak tudja be ezeket a csudálatos eszközöket.'
     }
   },
 
@@ -294,7 +298,8 @@ export default [
       ht: 'Wa ansyen te gen ankh senbòl pwisan fè pwoteje yo nan dla a. Vòlè grav yo te vòlè anpil nan Hamlet sa yo ak vann yo bay tou de moun ak monstr. Chak ankh gen yon lumière etranj ki belies pouvwa vre li yo.',
       sv: 'Forntida kungar hade kraftfulla ankh symboler gjorda för att skydda dem i efterlivet. Grav rånare har stulit många av dessa amuletter och sålt dem till både människor och monster. Varje ankh har en kuslig glöd som belyser sin sanna kraft.',
       ko: '고대 왕은 내세에서 그들을 보호하기 위해 강력한 상징을 만들었습니다. 무덤 도둑들은이 부적을 많이 훔쳐서 사람들과 괴물 모두에게 팔았습니다. 각 ankh에는 그것의 진실한 힘을 속이는 섬뜩한 놀이있다.',
-      ro: 'Regii antici aveau simboluri ankh puternice făcute pentru a-i proteja în viața de apoi. Jefuitorii de morminte au furat multe dintre aceste amulete și le-au vândut atât oamenilor cât și Monștrilor. Fiecare ankh are o strălucire sinistră care-i contrazice adevărata putere.'
+      ro: 'Regii antici aveau simboluri ankh puternice făcute pentru a-i proteja în viața de apoi. Jefuitorii de morminte au furat multe dintre aceste amulete și le-au vândut atât oamenilor cât și Monștrilor. Fiecare ankh are o strălucire sinistră care-i contrazice adevărata putere.',
+      hu: 'A régmúlt királyai mind bírtak az Ankh szimbólumokkal, hogy a túlvilágon is védelmet élvezhessenek. A sírrablók falkái hozták fel később ezeket sötét sírkamrákból, hogy a feketepiacon nevetséges áron megszabadulhassanak tőlük, legyenek a vásárlók emberek vagy szörnyek. A kereszt közepén táncoló tündérfényben rejlik az Ankh igazi ereje.'
     }
   },
 
