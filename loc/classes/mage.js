@@ -50,6 +50,6 @@ export default {
     ro: 'Magicienii cauzează daune considerabile la scară largă, fiind în același timp folositori prin încetinirea țintelor cu ajutorul magiei lor pe bază de gheață.',
     da: 'Troldmænd skader i stor grad meget areal skade mens de også gør nytte ved at sænke farten på monstre ved at bruge is-baseret magi.',
     zh: '魔法師會釋放大範圍的區域傷害，同時還會利用冰屬性魔法減慢目標。',
-    hu: 'A Mágusok tudnak egy nagy területen belül pusztítani, de támogatást is nyújthatnak, ha ellenségeiket fagymágiával lelassítják.'
+    hu: 'Magiërs geven zeer zware, grootschalige schade op een groot oppervlak, terwijl ze ook tegenstanders kunnen bevriezen met hun ijs gebaseerde magie'
   }
 }
