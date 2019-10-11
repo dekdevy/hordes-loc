@@ -66,7 +66,7 @@ export default {
     sv: 'Återuppliva',
     tl: 'Buhayin Mo ang Iyong Sarili',
     nl: 'Wederopstand',
-    pt: 'Ressuscite',
+    pt: 'Ressuscitar',
     pl: 'Wskrześ',
     ht: 'Resisite',
     ro: 'Înviați',
