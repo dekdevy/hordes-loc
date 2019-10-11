@@ -54,7 +54,7 @@ export default {
   keybindings: {
     en: 'Key bindings',
     ru: 'Привязки клавиш',
-    pt: 'Combinações de teclas',
+    pt: 'Combinações de teclas'
   },
 
   pointerlock: {
@@ -208,7 +208,7 @@ export default {
   ssao: {
     en: 'Ambient Occlusion',
     fr: 'Occlusion Ambiante',
-    pt: 'Oclusão Ambiental',
+    pt: 'Oclusão Ambiental'
   },
 
   grass: {
@@ -233,8 +233,7 @@ export default {
   },
 
   detailprops: {
-    en: 'Detail props',
-    ru: 'Детали пропов'
+    en: 'Detail props'
   },
 
   // ---- Audio
