@@ -39,7 +39,7 @@ export default {
   },
   partyMemberInvite: {
     en: '$1 has been invited by $2 to join your party.',
-    ru: '$1 пригласил $2 вступить в вашу Party.'.
+    ru: '$1 пригласил $2 вступить в вашу Party.'
   },
   partyMemberJoin: {
     en: '$1 has joined your party.',
