@@ -53,7 +53,7 @@ export default {
       en: 'Wisdom',
       fr: 'Sagesse',
       ru: 'Мудрость',
-      pt: 'Sabedoria.',
+      pt: 'Sabdr.',
       tr: 'Bilgelik'
     },
 
