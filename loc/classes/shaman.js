@@ -10,7 +10,7 @@ export default {
     ko: '샤먼',
     pt: 'Xamã',
     tr: 'Şaman',
-    nl: 'Sjamaan',
+    nl: 'Sjaman',
     hi: 'शमन',
     it: 'Sciamano',
     ht: 'Chaman',
