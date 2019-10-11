@@ -31,12 +31,12 @@ export default {
   },
   clanKickOther: {
     en: '$1 was kicked from your clan.',
-    ru: '$1 Боб был выгнан из вашего клана.',
+    ru: '$1 был выгнан из вашего клана.',
     pt: '$1 foi expulso do teu clã.'
   },
   clanKickYou: {
     en: 'You were kicked from your clan.',
-    ru: '$1 выгнали из вашего клана.',
+    ru: 'вы были изгнаны из вашего клана.',
     pt: 'Você foi expulso do clã.'
   },
   partyMemberInvite: {
@@ -92,7 +92,7 @@ export default {
   online: {
     en: '$1 has come online.',
     ru: '$1 сейчас онлайн.',
-    pt:  '$1 está online.'
+    pt: '$1 está online.'
   },
   offline: {
     en: '$1 has gone offline.',
