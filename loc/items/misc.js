@@ -235,7 +235,7 @@ export default [
   //     pl: 'Uważaj na dziką gęś. Nie lubi szturchnięć.',
   //     fr: 'Méfiez-vous de l\'oie sauvage. Elle n\'aime pas qu\'on la bouscule.',
   //     sv: 'Akta dig för den feralgås. Det gillar inte pokes.',
-  //     es: 'Cuidado con el ganso loco. No le gustan los picas.',
+  //     es: 'Cuidado con el ganso loco. No le gustan los golpes.',
   //     nl: 'Pas op voor de wilde gans. Hij houdt niet van poppen.',
   //     tl: 'Mag-ingat sa mabangong gus. Hindi nito gusto pokes.',
   //     cs: 'Dejte si pozor na divokou husu. Není to jako pokes.'
@@ -447,7 +447,7 @@ export default [
   //     fr: 'Un petit tas de sable extrêmement fin. Où est-ce qu\'on peut bien le mettre...',
   //     sv: 'En liten hög med extremt fin sand. Var gör du det här ...',
   //     hi: 'महीम रेत का छोटा सा ढ़ेर। इसे लेकर कहा चले आप...',
-  //     es: 'Una pequeña montón de arena increíble fina. "¿Dónde pones esto...?',
+  //     es: 'Un pequeño montón de arena increíblemente fina. "¿Dónde pones esto...?',
   //     nl: 'Een kleine stapel extreem fijn zand. Waar leg je dit...',
   //     tl: 'Ang isang maliit na tumpok ng lubhang pinong buhangin. Saan mo inilagay ito...',
   //     cs: 'Malá hromada velmi jemného písku. Kam to dáš ...'
