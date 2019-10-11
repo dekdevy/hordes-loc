@@ -49,7 +49,8 @@ export default {
       ro: 'Te rog, du-mă la $1.',
       tl: 'Mangyaring dalhin ako sa $1.',
       da: 'Tag mig med til $1',
-      zh: '請帶我去$1。'
+      zh: '請帶我去$1。',
+      hu: '$1 volna a célom.'
     }]
   }]
 }
