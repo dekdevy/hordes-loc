@@ -14,7 +14,7 @@ export default {
     it: 'Tradire il Clan',
     ja: 'クランを脱退',
     pl: 'Opuść Klan',
-    pt: 'Saia do Clã',
+    pt: 'Sair do Clã',
     tl: 'Iwanan ang Lahi',
     sv: 'Lämna Clan',
     ht: 'Kite Clan',
