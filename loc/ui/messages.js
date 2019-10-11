@@ -1,27 +1,33 @@
 export default {
   clanMemberJoin: {
     en: '$1 has joined your clan.',
-    ru: '$1 вступил в ваш клан.'
+    ru: '$1 вступил в ваш клан.',
+    pt: '$1 entrou no teu clã'
   },
   clanMemberInvite: {
     en: '$1 has been invited to your clan.',
-    ru: '$1 был приглашен в ваш клан.'
+    ru: '$1 был приглашен в ваш клан.',
+    pt: '$1 foi convidado para o teu clã.'
   },
   clanMemberLeave: {
     en: '$1 has left your clan.',
-    ru: '$1 покинул ваш клан.'
+    ru: '$1 покинул ваш клан.',
+    pt: '$1 saiu do teu clã.'
   },
   clanMemberApply: {
     en: '$1 has applied to join your clan.',
-    ru: '$1 подал заявку на вступление в ваш клан.'
+    ru: '$1 подал заявку на вступление в ваш клан.',
+    pt: '$1 solicitou para entrar no teu clã.'
   },
   clanMemberRolePromote: {
     en: '$1 was promoted in clan role.',
-    ru: '$1 был повышен в должности клана.'
+    ru: '$1 был повышен в должности клана.',
+    pt: '$1 foi promovido na função do clã.'
   },
   clanMemberRoleDemote: {
     en: '$1 was demoted in clan role.',
-    ru: '$1 был понижен в должности клана.'
+    ru: '$1 был понижен в должности клана.',
+    pt: '$1 foi rebaixado na função do clã.'
   },
   clanKickOther: {
     en: '$1 was kicked from your clan.',
