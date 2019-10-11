@@ -53,12 +53,14 @@ export default {
 
   keybindings: {
     en: 'Key bindings',
-    ru: 'Привязки клавиш'
+    ru: 'Привязки клавиш',
+    pt: 'Combinações de teclas'
   },
 
   pointerlock: {
     en: 'Hide mouse during rotation',
-    ru: 'Скрыть мышь во время вращения'
+    ru: 'Скрыть мышь во время вращения',
+    pt: 'Ocultar o rato durante a rotação.'
   },
 
   lockedcamera: {
@@ -167,7 +169,8 @@ export default {
     de: 'Nachbearbeitung',
     ru: 'Постобработка',
     tr: 'Detaylandırma',
-    fr: 'Post-traitement'
+    fr: 'Post-traitement',
+    pt: 'Pós-processamento.'
   },
 
   skilleffects: {
@@ -198,35 +201,39 @@ export default {
   shadows: {
     en: 'Shadows',
     ru: 'Тени',
-    fr: 'Ombres'
+    fr: 'Ombres',
+    pt: 'Sombras'
   },
 
   ssao: {
     en: 'Ambient Occlusion',
-    fr: 'Occlusion Ambiante'
+    fr: 'Occlusion Ambiante',
+    pt: 'Oclusão Ambiental'
   },
 
   grass: {
     en: 'Grass',
     ru: 'Трава',
-    fr: 'Herbe'
+    fr: 'Herbe',
+    pt: 'Grama'
   },
 
   clouds: {
     en: 'Clouds',
     ru: 'Облака',
-    fr: 'Nuages'
+    fr: 'Nuages',
+    pt: 'Nuvens'
   },
 
   particles: {
     en: 'Particles',
     ru: 'Частицы',
-    fr: 'Particules'
+    fr: 'Particules',
+    pt: 'Partículas'
   },
 
   detailprops: {
-    en: 'Detail props',
-    ru: 'Детали пропов'
+    en: 'Detail props'
   },
 
   // ---- Audio
@@ -307,7 +314,8 @@ export default {
   chatbubbles: {
     en: 'Show chat bubbles',
     ru: 'Показавать чат пузеры',
-    fr: 'Afficher les bulles de chat'
+    fr: 'Afficher les bulles de chat',
+    pt: 'Mostrar bolhas de chat'
   },
 
   combatlog: {
@@ -438,6 +446,7 @@ export default {
     en: 'Disable tutorial',
     ru: 'Отключить обучения',
     tr: 'Öğreticiyi kapat',
-    fr: 'Désactiver le tutoriel'
+    fr: 'Désactiver le tutoriel',
+    pt: 'Desativar o Tutorial'
   }
 }
