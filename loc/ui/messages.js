@@ -70,7 +70,7 @@ export default {
     ru: '$1 выгнал вас из Party.'
   },
   partyKickOther: {
-    en: '$1 was kicked from your party by $2.'
+    en: '$1 was kicked from your party by $2.',
     ru: '$2 выгнал $1 из Party.'
   },
   auctionSold: {
