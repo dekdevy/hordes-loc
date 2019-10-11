@@ -157,7 +157,8 @@ export default {
       ht: 'Kreyasyon Karaktè',
       ro: 'Creare de Personaje',
       da: 'Oprettelse af Helt',
-      zh: '角色創造'
+      zh: '角色創造',
+      hu: 'Karakter Létrehozás'
     },
 
     pressIcon: {
@@ -182,7 +183,8 @@ export default {
       ht: 'Peze yon icon pou yon deskripsyon tou kout.',
       ro: 'Apăsați o pictogramă pentru o scurtă descriere.',
       da: 'Tryk på et ikon for en kort beskrivelse.',
-      zh: '按圖標可獲得簡要說明。'
+      zh: '按圖標可獲得簡要說明。',
+      hu: 'Kattints a címerre egy rövid leírásért.'
     },
 
     selectClass: {
@@ -207,7 +209,8 @@ export default {
       ht: 'Chwazi yon Klas',
       ro: 'Alegeți o Clasă',
       da: 'Vælg en Klasse',
-      zh: '選擇角色職業'
+      zh: '選擇角色職業',
+      hu: 'Válassz egy kasztot'
     },
 
     selectFaction: {
@@ -232,7 +235,8 @@ export default {
       ht: 'Chwazi yon Faksyon',
       ro: 'Alegeți o Facțiune',
       da: 'Vælg en Fraktion',
-      zh: '選擇派系'
+      zh: '選擇派系',
+      hu: 'Válassz egy szövetséget'
     },
 
     enterName: {
@@ -257,7 +261,8 @@ export default {
       ht: 'Mete yon non',
       ro: 'Introduceți un nume',
       da: 'Indtast et navn',
-      zh: '選擇名稱'
+      zh: '選擇名稱',
+      hu: 'Add meg a karaktered nevét' // TODO: shorten
     },
 
     nameReq: {
@@ -282,6 +287,7 @@ export default {
       ht: 'Non ou ka sèlman gen karaktè a-Z, ak nimewo 0-9, san okenn espas. Ant 3 ak 16 karaktè.',
       ro: 'Numele tău poate conține doar caractere a-Z, și numere 0-9, fără spații. Între 3 și 16 caractere.',
       da: 'Dit navn kan kun indeholde tegn a-Z og tal 0-9 uden mellemrum. Mellem 3 og 16 karakterer.',
+      hu: 'A nevedben betűk A-tól Z-ig, és számok 0-tól 9-ig, lehetnek csak, szünetek nélkül. 3 és 16 karakter között.'
 
       // "Up to 16 characters" not edited to "Between 3 and 16 characters" yet.
       zh: '你的名字只能包含字符a-Z和數字0-9，不能包含任何空格。 最多16個字符。'
@@ -313,7 +319,8 @@ export default {
       ht: 'Efase',
       ro: 'Șterge',
       da: 'Slet',
-      zh: '刪除'
+      zh: '刪除',
+      hu: 'Törlés'
     },
 
     info: {
@@ -338,7 +345,8 @@ export default {
       ht: 'Efase, tape non karaktè a. Karaktè ou pa kapab retabli.',
       ro: 'Pentru a șterge, tastați numele caracterului. Personajul tău nu va putea fi restaurat',
       da: 'For at slette skal du indtaste tegnets navn. Din karakter kan ikke gendannes.',
-      zh: '要刪除，請鍵入角色的名稱。 你的角色無法恢復。'
+      zh: '要刪除，請鍵入角色的名稱。 你的角色無法恢復。',
+      hu: 'Add meg a karaktered nevét a törléshez. Ezek után már nem lehet visszaállítani.'
     },
 
     placeholder: {
@@ -363,7 +371,8 @@ export default {
       ht: 'Èske w sèten?',
       ro: 'Ești sigur?',
       da: 'Er du sikker?',
-      zh: '你確定嗎？'
+      zh: '你確定嗎？',
+      hu: 'Biztos vagy benne?'
     }
   }
 }
