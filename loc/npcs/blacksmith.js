@@ -47,7 +47,8 @@ export default {
       da: 'Ja, jeg har nogle ting.',
       tr: 'Evet, bazı eşyalarım var.',
       ko: '예, 몇 가지 품목이 있습니다',
-      zh: '是的，我有一些道具要升級。'
+      zh: '是的，我有一些道具要升級。',
+      hu: 'Volna pár tárgyam.'
     }]
   }]
 }
