@@ -16,7 +16,7 @@ export default {
     tl: 'Mag-log Out',
     tr: 'Çıkış Yap',
     nl: 'Uitloggen',
-    pt: 'Sair',
+    pt: 'Terminar Sessão',
     pl: 'Wyloguj się',
     ht: 'Dekonekte',
     ro: 'Deconectare',
