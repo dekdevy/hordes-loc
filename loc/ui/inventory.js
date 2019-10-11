@@ -224,14 +224,16 @@ export default {
     en: 'Split half',
     ru: 'Разделить пополам',
     bg: 'Разполови',
-    fr: 'Partager en deux'
+    fr: 'Partager en deux',
+    pt: 'Dividir ao meio'
   },
 
   splitone: {
     en: 'Split one',
     ru: 'Отделить один',
     bg: 'Вземи един',
-    fr: 'Retirer un item'
+    fr: 'Retirer un item',
+    pt: 'Retirar um'
   },
 
   spend: {
