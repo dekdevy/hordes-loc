@@ -48,7 +48,8 @@ export default {
       ja: 'はい、商品を見せてください。',
       sv: 'Ja, visa mig objekten till salu.',
       da: 'Ja, vis mig varerne til salg.',
-      zh: '好的，給我看看待售物品。'
+      zh: '好的，給我看看待售物品。',
+      hu: 'Igen, mutassa meg a portékáit.'
     }]
   }]
 }
