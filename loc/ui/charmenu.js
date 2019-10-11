@@ -287,7 +287,7 @@ export default {
       ht: 'Non ou ka sèlman gen karaktè a-Z, ak nimewo 0-9, san okenn espas. Ant 3 ak 16 karaktè.',
       ro: 'Numele tău poate conține doar caractere a-Z, și numere 0-9, fără spații. Între 3 și 16 caractere.',
       da: 'Dit navn kan kun indeholde tegn a-Z og tal 0-9 uden mellemrum. Mellem 3 og 16 karakterer.',
-      hu: 'A nevedben betűk A-tól Z-ig, és számok 0-tól 9-ig, lehetnek csak, szünetek nélkül. 3 és 16 karakter között.'
+      hu: 'A nevedben betűk A-tól Z-ig, és számok 0-tól 9-ig, lehetnek csak, szünetek nélkül. 3 és 16 karakter között.',
 
       // "Up to 16 characters" not edited to "Between 3 and 16 characters" yet.
       zh: '你的名字只能包含字符a-Z和數字0-9，不能包含任何空格。 最多16個字符。'
