@@ -22,7 +22,8 @@ export default {
     ja: 'メイジ',
     ro: 'Magician',
     da: 'Troldmand',
-    zh: '魔法師'
+    zh: '魔法師',
+    hu: 'Mágus'
   },
 
   // Class description, visible during character creation
@@ -48,6 +49,7 @@ export default {
     ja: '魔術師は、非常に重い大規模な効果領域ダメージを与えながら、氷をベースにした魔法でターゲットを減速させることで有用性も提供します。',
     ro: 'Magicienii cauzează daune considerabile la scară largă, fiind în același timp folositori prin încetinirea țintelor cu ajutorul magiei lor pe bază de gheață.',
     da: 'Troldmænd skader i stor grad meget areal skade mens de også gør nytte ved at sænke farten på monstre ved at bruge is-baseret magi.',
-    zh: '魔法師會釋放大範圍的區域傷害，同時還會利用冰屬性魔法減慢目標。'
+    zh: '魔法師會釋放大範圍的區域傷害，同時還會利用冰屬性魔法減慢目標。',
+    hu: 'A Mágusok tudnak egy nagy területen belül pusztítani, de támogatást is nyújthatnak, ha ellenségeiket fagymágiával lelassítják.'
   }
 }
