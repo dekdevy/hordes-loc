@@ -24,7 +24,8 @@ export default {
       ht: 'Chwazi Karaktè',
       ro: 'Selectează Caracterul',
       da: 'Vælg Tegn',
-      zh: '選人物'
+      zh: '選人物',
+      hu: 'Válassz karaktert'
     },
 
     create: {
@@ -49,7 +50,8 @@ export default {
       ht: 'Klike sou yo kreye karaktè',
       ro: 'Click pentru a crea un caracter',
       da: 'Klik for at vælge helt',
-      zh: '點擊以創建角色'
+      zh: '點擊以創建角色',
+      hu: 'Kattints karakter létrehozásához'
     },
 
     enterWorld: {
@@ -74,7 +76,8 @@ export default {
       ht: 'Antre Lemonn',
       ro: 'Intră în Lume',
       da: 'Indtast Verden',
-      zh: '進入世界'
+      zh: '進入世界',
+      hu: 'Belépés a világba'
     },
 
     emptySlot: {
@@ -99,7 +102,8 @@ export default {
       ht: 'Vide',
       ro: 'Gol',
       da: 'Tom',
-      zh: '空的'
+      zh: '空的',
+      hu: 'Üres'
     },
 
     error: {
@@ -124,7 +128,8 @@ export default {
       ht: 'Rezo Erè',
       ro: 'Eroare de Rețea',
       da: 'Netværksfejl',
-      zh: '網絡錯誤'
+      zh: '網絡錯誤',
+      hu: 'Hálózati Hiba'
     }
   },
 
