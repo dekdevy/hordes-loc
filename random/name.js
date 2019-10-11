@@ -24,7 +24,7 @@ const syllables = ['helm', 'stone', 'delra', 'void', 'doom', 'flesh', 'eye', 'so
   'arje', 'stris', 'andro', 'dae', 'lae', 'duirn', 'rienn', 'dysra', 'than', 'tilre', 'laeth', 'ilye', 'gaia', 'dya',
   'orc', 'thras', 'dhar', 'raeth', 'ylla', 'raer', 'dryr', 'vaen', 'morl', 'mell', 'gley', 'idra', 'pheia', 'dre',
   'phae', 'thye', 'ruth', 'mir', 'sauth', 'hammer', 'bow', 'spear', 'wind', 'raven', 'cape', 'ghost', 'deer', 'mage',
-  'glass', 'wolf', 'shade', 'stag', 'grim', 'wise', 'scum', 'bubble', 'skull', 'bone', 'blood']
+  'glass', 'wolf', 'shade', 'stag', 'grim', 'wise', 'scum', 'bubble', 'skull', 'bone', 'blood', 'evil', 'good', 'eternal', 'madness']
 
 export const generate = (minSyl = 2, maxSyl = 6, maxLen = 8)=>{
   // generates a random name with a variable max length / syllable amount
