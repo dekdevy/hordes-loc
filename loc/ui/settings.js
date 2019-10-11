@@ -316,7 +316,6 @@ export default {
     ru: 'Показавать чат пузеры',
     fr: 'Afficher les bulles de chat',
     pt: 'Mostrar bolhas de chat'
-    
   },
 
   combatlog: {
