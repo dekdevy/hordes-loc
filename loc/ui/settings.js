@@ -58,7 +58,7 @@ export default {
 
   pointerlock: {
     en: 'Hide mouse during rotation',
-    ru: 'Скрыть мышь во время вращения' 
+    ru: 'Скрыть мышь во время вращения'
   },
 
   lockedcamera: {
