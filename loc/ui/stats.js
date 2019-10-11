@@ -37,7 +37,7 @@ export default {
       en: 'Dexterity',
       fr: 'Dextérité',
       ru: 'Ловкость',
-      pt: 'Agilidade',
+      pt: 'Destreza',
       tr: 'Çeviklik'
     },
 
@@ -163,7 +163,8 @@ export default {
     {
       en: 'Item Find',
       ru: 'Выпадение',
-      fr: 'Trouvaille'
+      fr: 'Trouvaille',
+      pt: 'Encontrar Item'
     },
 
     {
@@ -183,14 +184,15 @@ export default {
     {
       en: 'Stat Points',
       ru: 'Очки Статов',
-      fr: 'Points Stat'
+      fr: 'Points Stat',
+      pt: 'Pontos de Stat'
     },
 
     {
       en: 'Skill Points',
       ru: 'Очки Умений',
       fr: 'Points Comp.',
-      pt: 'Pontos de Atr.'
+      pt: 'Pontos de Hab.'
     },
 
     {
