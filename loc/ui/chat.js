@@ -31,6 +31,7 @@ export default {
       fr: 'Gain d\'xp',
       es: 'Exp ganado',
       pt: 'Exp Ganho'
+      tr: 'Exp Kazanımı'
     },
     {
       en: 'Target Change',
@@ -52,6 +53,7 @@ export default {
       fr: 'Damage',
       es: 'Daño',
       pt: 'Dano'
+      tr: 'Hasar'
     },
     {
       en: 'Heal',
@@ -59,6 +61,7 @@ export default {
       fr: 'Heal',
       es: 'Curar',
       pt: 'Curar'
+      tr: 'İyileşme'
     },
     {
       en: 'Death',
@@ -66,6 +69,7 @@ export default {
       fr: 'Death',
       es: 'Muerto',
       pt: 'Morte'
+      tr: 'Ölüm'
     },
     {
       en: 'Level Up',
@@ -108,6 +112,7 @@ export default {
       fr: 'Gain de Gloire',
       es: 'Fama ganada',
       pt: 'Fama ganha'
+      tr: 'Şöhret Kazancı'
     }
   ]
 }
