@@ -30,7 +30,7 @@ export default {
       ru: 'Прибыль Опыта',
       fr: 'Gain d\'xp',
       es: 'Exp ganado',
-      pt: 'Exp Ganho'
+      pt: 'Exp Ganho',
       tr: 'Exp Kazanımı'
     },
     {
@@ -52,7 +52,7 @@ export default {
       ru: 'Урон',
       fr: 'Damage',
       es: 'Daño',
-      pt: 'Dano'
+      pt: 'Dano',
       tr: 'Hasar'
     },
     {
@@ -60,7 +60,7 @@ export default {
       ru: 'Исцеления',
       fr: 'Heal',
       es: 'Curar',
-      pt: 'Curar'
+      pt: 'Curar',
       tr: 'İyileşme'
     },
     {
@@ -68,7 +68,7 @@ export default {
       ru: 'Смерть',
       fr: 'Death',
       es: 'Muerto',
-      pt: 'Morte'
+      pt: 'Morte',
       tr: 'Ölüm'
     },
     {
@@ -111,7 +111,7 @@ export default {
       ru: 'Прибыль Славы',
       fr: 'Gain de Gloire',
       es: 'Fama ganada',
-      pt: 'Fama ganha'
+      pt: 'Fama ganha',
       tr: 'Şöhret Kazancı'
     }
   ]
