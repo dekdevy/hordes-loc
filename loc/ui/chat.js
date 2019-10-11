@@ -29,73 +29,85 @@ export default {
       en: 'Exp Gain',
       ru: 'Прибыль Опыта',
       fr: 'Gain d\'xp',
-      es: 'Exp ganado'
+      es: 'Exp ganado',
+      pt: 'Exp Ganho'
     },
     {
       en: 'Target Change',
       ru: 'Смена Цели',
       fr: 'Changement de Cible',
-      es: 'Cambia objetivo'
+      es: 'Cambia objetivo',
+      pt: 'Mudança de Alvo'
     },
     {
       en: 'Cast',
       ru: 'Каст',
       fr: 'Cast',
-      es: 'Convocar'
+      es: 'Convocar',
+      pt: 'Lançar'
     },
     {
       en: 'Damage',
       ru: 'Урон',
       fr: 'Damage',
-      es: 'Daño'
+      es: 'Daño',
+      pt: 'Dano'
     },
     {
       en: 'Heal',
       ru: 'Исцеления',
       fr: 'Heal',
-      es: 'Curar'
+      es: 'Curar',
+      pt: 'Curar'
     },
     {
       en: 'Death',
       ru: 'Смерть',
       fr: 'Death',
-      es: 'Muerto'
+      es: 'Muerto',
+      pt: 'Morte'
     },
     {
       en: 'Level Up',
       ru: 'Повышения Уровня',
       fr: 'Level Up',
-      es: 'Subir nivel'
+      es: 'Subir nivel',
+      pt: 'Subir de nível'
     },
     {
       en: 'Items',
       ru: 'Предметы',
       fr: 'Items',
-      es: 'Items'
+      es: 'Items',
+      pt: 'Items'
     },
     {
       en: 'Auction',
       ru: 'Аукцион',
       fr: 'Enchères',
-      es: 'Subasta'
+      es: 'Subasta',
+      pt: 'Leilão'
     },
     {
       en: 'Pick Gold',
       ru: 'Собранное Золото',
       fr: 'Gold Ramassé',
-      es: 'Oro agarrado'
+      es: 'Oro agarrado',
+      pt: 'Pegar Ouro'
     },
     {
       en: 'Spent Gold',
       ru: 'Потраченное Золото',
       fr: 'Gold Utilisé',
-      es: 'Oro gastado'
+      es: 'Oro gastado',
+      pt: 'Ouro gasto'
     },
     {
       en: 'Fame Gain',
       ru: 'Прибыль Славы',
       fr: 'Gain de Gloire',
-      es: 'Fama ganada'
+      es: 'Fama ganada',
+      pt: 'Fama ganha'
     }
   ]
 }
