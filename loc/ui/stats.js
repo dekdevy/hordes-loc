@@ -186,7 +186,6 @@ export default {
       ru: 'Очки Статов',
       fr: 'Points Stat',
       pt: 'Pontos de Stat'
-      
     },
 
     {
