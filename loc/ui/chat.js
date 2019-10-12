@@ -66,7 +66,7 @@ export default {
       es: 'Curar',
       pt: 'Curar',
       tr: 'İyileşme',
-      nl: 'Genezen:
+      nl: 'Genezen'
     },
     {
       en: 'Death',
