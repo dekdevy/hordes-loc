@@ -71,7 +71,7 @@ export default {
     ja: 'あなたの商品を売る。',
     el: 'Πουλήστε τα στοιχεία σας.',
     pt: 'Venda os seus itens.',
-    nl: 'Verkoop je items.',
+    nl: 'Verkoop je waren.',
     da: 'Sælg dine varer.',
     ro: 'Vinde-ți obiectele.',
     zh: '賣出你的物品。',
@@ -154,6 +154,6 @@ export default {
     da: 'Er du interesseret i noget? Klik på en genstand for at købe den.',
     zh: '有感興趣的東西嗎？点击商品即可購買。',
     tr: 'İlginizi çeken bir şeyler var mı? Bir eşyayı almak isterseniz üstüne tıklayın.',
-    hu: 'Találtál valamit, amit érdekesnek találsz? Kattints egy tárgyra hogy megvásárold.'
+    hu: 'Látsz valamit, amit érdekesnek találsz? Kattints egy tárgyra hogy megvásárold.'
   }
 }

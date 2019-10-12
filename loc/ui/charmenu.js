@@ -262,7 +262,7 @@ export default {
       ro: 'Introduceți un nume',
       da: 'Indtast et navn',
       zh: '選擇名稱',
-      hu: 'Add meg a karaktered nevét' // TODO: shorten
+      hu: 'Add meg a hősöd nevét'
     },
 
     nameReq: {
@@ -272,7 +272,7 @@ export default {
       fr: 'Votre nom ne peut contenir que des caractères de A à Z, des chiffres entre 0 et 9, sans aucun espace, et entre 3 et 16 caractères.',
       hi: 'आपके नाम में केवल a-Z अक्षर और 0-9 अंक हो सकते है| 3 और 16 वर्णों के बीच।',
       es: 'Su nombre sólo puede contener los caracteres de la a-Z, y los números del 0 al 9, sin espacios. Entre 3 y 16 caracteres.',
-      de: 'Dein Name darf nur die Zeichen a-Z und die Zahlen 0-9 ohne Leerzeichen enthalten. Zwischen 3 und 16 Zeichen.',
+      de: 'Dein Name darf nur die Buchstaben a-Z und die Zahlen 0-9 ohne Leerzeichen enthalten. Zwischen 3 und 16 Buchstaben.',
       ko: '이름에는 공백없이 a-Z와 0-9의 문자 만 사용할 수 있습니다. 최대 16 자.',
       tr: 'İsminiz boşluk bırakmadan, en az 3 ve en fazla 16 karakter barındıracak şekilde, yalnızca a-Z karakterlerini ve 0-9 arasındaki sayıları içerebilir.',
       bg: 'Вашето име може да съдържа само знаци a-Z и цифри 0-9, без никакви интервали. Между 3 и 16 знака.',
@@ -282,7 +282,7 @@ export default {
       tl: 'Ang iyong pangalan ay maaari lamang maglaman ng mga character a-Z, at numero 0-9, nang walang anumang mga puwang. Sa pagitan ng 3 at 16 na character.',
       it: 'Il tuo nome può contenere solo caratteri a-Z e numeri da 0 a 9, senza spazi. Tra 3 e 16 caratteri.',
       pl: 'Twoje imię może zawierać tylko znaki a-Z i cyfry 0-9, bez spacji. Od 3 do 16 znaków.',
-      nl: 'Uw naam kan alleen de tekens a-Z bevatten, en cijfers 0-9, zonder spaties. Tussen 3 en 16 tekens.',
+      nl: 'Uw naam kan alleen de letters a-Z bevatten, en cijfers 0-9, zonder spaties. Tussen 3 en 16 tekens.',
       pt: 'O seu nome só pode conter caracteres de a-Z, e números 0-9, sem espaços. Entre 3 e 16 caracteres.',
       ht: 'Non ou ka sèlman gen karaktè a-Z, ak nimewo 0-9, san okenn espas. Ant 3 ak 16 karaktè.',
       ro: 'Numele tău poate conține doar caractere a-Z, și numere 0-9, fără spații. Între 3 și 16 caractere.',

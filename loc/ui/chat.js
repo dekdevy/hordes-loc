@@ -31,7 +31,8 @@ export default {
       fr: 'Gain d\'xp',
       es: 'Exp ganado',
       pt: 'Exp Ganho',
-      tr: 'Exp Kazanımı'
+      tr: 'Exp Kazanımı',
+      nl: 'Exp Gekregen'
     },
     {
       en: 'Target Change',
@@ -39,6 +40,7 @@ export default {
       fr: 'Changement de Cible',
       es: 'Cambia objetivo',
       pt: 'Mudança de Alvo',
+      nl: 'Verander Doelwit',
       tr: 'Hedef Değişikliği'
     },
     {
@@ -46,7 +48,8 @@ export default {
       ru: 'Каст',
       fr: 'Cast',
       es: 'Convocar',
-      pt: 'Lançar'
+      pt: 'Lançar',
+      nl: 'Uitspreken'
     },
     {
       en: 'Damage',
@@ -54,7 +57,8 @@ export default {
       fr: 'Damage',
       es: 'Daño',
       pt: 'Dano',
-      tr: 'Hasar'
+      tr: 'Hasar',
+      nl: 'Schade'
     },
     {
       en: 'Heal',
@@ -62,7 +66,8 @@ export default {
       fr: 'Heal',
       es: 'Curar',
       pt: 'Curar',
-      tr: 'İyileşme'
+      tr: 'İyileşme',
+      nl: 'Genezen:
     },
     {
       en: 'Death',
@@ -70,14 +75,16 @@ export default {
       fr: 'Death',
       es: 'Muerto',
       pt: 'Morte',
-      tr: 'Ölüm'
+      tr: 'Ölüm',
+      nl: 'Dood'
     },
     {
       en: 'Level Up',
       ru: 'Повышения Уровня',
       fr: 'Level Up',
       es: 'Subir nivel',
-      pt: 'Subir de nível'
+      pt: 'Subir de nível',
+      nl: 'Level Omhoog'
     },
     {
       en: 'Items',
@@ -85,14 +92,16 @@ export default {
       fr: 'Items',
       es: 'Items',
       pt: 'Items',
-      tr: 'Öğeler'
+      nl: 'Voorwerpen',
+      nl: 'Voorwerpen'
     },
     {
       en: 'Auction',
       ru: 'Аукцион',
       fr: 'Enchères',
       es: 'Subasta',
-      pt: 'Leilão'
+      pt: 'Leilão',
+      nl: 'Veiling'
     },
     {
       en: 'Pick Gold',
@@ -100,6 +109,7 @@ export default {
       fr: 'Gold Ramassé',
       es: 'Oro agarrado',
       pt: 'Pegar Ouro',
+      nl: 'Goud Oprapen',
       tr: 'Altın Al'
     },
     {
@@ -108,6 +118,7 @@ export default {
       fr: 'Gold Utilisé',
       es: 'Oro gastado',
       pt: 'Ouro gasto',
+      nl: 'Goud Besteden',
       tr: 'Altın Harca'
     },
     {
@@ -116,7 +127,8 @@ export default {
       fr: 'Gain de Gloire',
       es: 'Fama ganada',
       pt: 'Fama ganha',
-      tr: 'Şöhret Kazancı'
+      tr: 'Şöhret Kazancı',
+      nl: 'Beroemdheid Gekregen'
     }
   ]
 }
