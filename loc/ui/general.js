@@ -153,6 +153,6 @@ export default {
     ro: 'Închide',
     da: 'Luk',
     zh: '关',
-    hu: 'Bezárás 
+    hu: 'Bezárás'
   }
 }
