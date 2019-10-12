@@ -262,7 +262,7 @@ export default {
       ro: 'Introduceți un nume',
       da: 'Indtast et navn',
       zh: '選擇名稱',
-      hu: 'Add meg a karaktered nevét' // TODO: shorten
+      hu: 'Add meg a hősöd nevét'
     },
 
     nameReq: {
