@@ -11,7 +11,7 @@ export default {
       nl: 'Ja, ik ben een pratende kist, ik kan nou al een vraag op je lippen zien vormen. Vele jaren heb ik voor royale families gewerkt, hun onbetaalbare edelstenen en juwelen bewaren, alleen om op deze campplaats gegooid te worden voor jullie mooie benodigdheden. hoe dan ook, kan ik jou mijn diensten aanbieden?'
     },
 
-   // Do not translate "Stash".
+    // Do not translate "Stash".
     choices: [{
       en: 'Yes, open my Stash.',
       ru: 'Да, открой мой Stash.',
