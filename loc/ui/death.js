@@ -21,7 +21,8 @@ export default {
     ht: 'Ou te mouri.',
     ro: 'Tu ai murit.',
     da: 'Du er død.',
-    zh: '你死了。'
+    zh: '你死了。',
+    hu: 'Meghaltál'
   },
 
   deathmsg: {
@@ -46,7 +47,8 @@ export default {
     ht: 'Peze bouton an pou li resisite nan aparèy ki pi pre a.',
     ro: 'Apăsați butonul pentru a fi înviat la cea mai apropiată conjurer.',
     da: 'Tryk på knappen for at blive opstandet hos nærmeste konjurer.',
-    zh: '按下按钮可以找最近的魔术师处复活'
+    zh: '按下按钮可以找最近的魔术师处复活',
+    hu: 'Nyomd meg a gombot hogy felgyógyítsanak a legközelebbi Conjurernél'
   },
 
   // 'Resurrect' is used in many translations/languages.
@@ -71,6 +73,7 @@ export default {
     ht: 'Resisite',
     ro: 'Înviați',
     da: 'Genoplive',
-    zh: '复活'
+    zh: '复活',
+    hu: 'Feltámadás'
   }
 }
