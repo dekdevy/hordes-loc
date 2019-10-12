@@ -54,6 +54,7 @@ export default {
   keybindings: {
     en: 'Key bindings',
     ru: 'Привязки клавиш',
+    pt: 'Combinações de teclas',
     tr: 'Tuş atamaları'
   },
 
@@ -202,6 +203,7 @@ export default {
     en: 'Shadows',
     ru: 'Тени',
     fr: 'Ombres',
+    pt: 'Sombras',
     tr: 'Gölgeler'
   },
 
@@ -215,6 +217,7 @@ export default {
     en: 'Grass',
     ru: 'Трава',
     fr: 'Herbe',
+    pt: 'Grama',
     tr: 'Çimen'
   },
 
@@ -222,6 +225,7 @@ export default {
     en: 'Clouds',
     ru: 'Облака',
     fr: 'Nuages',
+    pt: 'Nuvens',
     tr: 'Bulutlar'
   },
 
@@ -229,6 +233,7 @@ export default {
     en: 'Particles',
     ru: 'Частицы',
     fr: 'Particules',
+    pt: 'Partículas',
     tr: 'Parçacıklar'
   },
 
@@ -315,6 +320,7 @@ export default {
     en: 'Show chat bubbles',
     ru: 'Показавать чат пузеры',
     fr: 'Afficher les bulles de chat',
+    pt: 'Mostrar bolhas de chat',
     tr: 'Sohbet balonlarını göster'
   },
 

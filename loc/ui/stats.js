@@ -167,7 +167,7 @@ export default {
       ru: 'Выпадение',
       fr: 'Trouvaille',
       pt: 'Encontrar Item',
-      tr: 'Çğe Bulma'
+      tr: 'öğe Bulma'
     },
 
     {
@@ -175,7 +175,7 @@ export default {
       ru: 'Слоты Сумки',
       pt: 'Espaço',
       fr: 'Espace Sac',
-      tr: 'Çanta Yuvaları'
+      tr: 'Çanta Yuvası'
     },
 
     {
@@ -191,7 +191,7 @@ export default {
       ru: 'Очки Статов',
       fr: 'Points Stat',
       pt: 'Pontos de Stat',
-      tr: 'Statü Puanları'
+      tr: 'Statü Puan.'
     },
 
     {
@@ -199,7 +199,7 @@ export default {
       ru: 'Очки Умений',
       fr: 'Points Comp.',
       pt: 'Pontos de Hab.',
-      tr: 'Yetenek Puanları'
+      tr: 'Yetenek Puan.'
     },
 
     {
