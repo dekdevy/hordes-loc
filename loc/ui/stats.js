@@ -22,7 +22,7 @@ export default {
       fr: 'Force',
       ru: 'Сила',
       pt: 'Força',
-      tr: 'Dayankl.'
+      tr: 'Güç'
     },
 
     {
@@ -86,7 +86,7 @@ export default {
       ru: 'Мин Урн.',
       pt: 'Dano Mín',
       fr: 'Min Dmg.',
-      tr: 'Min Hasar'
+      tr: 'Min. Hasar'
     },
 
     {
@@ -94,7 +94,7 @@ export default {
       ru: 'Макс Урн.',
       pt: 'Dano Máx',
       fr: 'Max Dmg.',
-      tr: 'Max Hasar'
+      tr: 'Max. Hasar'
     },
 
     {
@@ -142,7 +142,8 @@ export default {
       en: 'Move Spd.',
       fr: 'Vit. Mouv.',
       ru: 'Скорость',
-      pt: 'Velocidade'
+      pt: 'Velocidade',
+      tr: 'Hareket Hızı'
     },
 
     {
@@ -157,63 +158,72 @@ export default {
       en: 'Attack Spd.',
       ru: 'Скорость Атк.',
       fr: 'Vit. Attq',
-      pt: 'Rapidez Atq.'
+      pt: 'Rapidez Atq.',
+      tr: 'Saldırı Hızı'
     },
 
     {
       en: 'Item Find',
       ru: 'Выпадение',
       fr: 'Trouvaille',
-      pt: 'Encontrar Item'
+      pt: 'Encontrar Item',
+      tr: 'Çğe Bulma'
     },
 
     {
       en: 'Bag Slots',
       ru: 'Слоты Сумки',
       pt: 'Espaço',
-      fr: 'Espace Sac'
+      fr: 'Espace Sac',
+      tr: 'Çanta Yuvaları'
     },
 
     {
       en: 'Fame',
       ru: 'Слава',
       fr: 'Gloire',
-      pt: 'Fama'
+      pt: 'Fama',
+      tr: 'Şöhret'
     },
 
     {
       en: 'Stat Points',
       ru: 'Очки Статов',
       fr: 'Points Stat',
-      pt: 'Pontos de Stat'
+      pt: 'Pontos de Stat',
+      tr: 'Statü Puanları'
     },
 
     {
       en: 'Skill Points',
       ru: 'Очки Умений',
       fr: 'Points Comp.',
-      pt: 'Pontos de Hab.'
+      pt: 'Pontos de Hab.',
+      tr: 'Yetenek Puanları'
     },
 
     {
       en: '% Increased Dmg.',
       fr: '% Dmg Améliorés',
       ru: '% Увеличения Урона',
-      pt: '% Dano Aumentado'
+      pt: '% Dano Aumentado',
+      tr: '% Hasar Artışı'
     },
 
     {
       en: '% Increased Aggro Generation',
       ru: '% Увеличения Агрессии',
       fr: '% Génération d\'aggro Améliorée',
-      pt: '% Aggro Gerado'
+      pt: '% Aggro Gerado',
+      tr: '% Aggro Üretim Artışı'
     },
 
     {
       en: '% Movement Spd. Reduction',
       fr: '% Réduction Vit. Mouv.',
       ru: '% Cнижения Скор. Движения',
-      pt: '% Redução de Velocidade'
+      pt: '% Redução de Velocidade',
+      tr: '% Hareket Hızı İndirgeme'
     }
   ]
 }
