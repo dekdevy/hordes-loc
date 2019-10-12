@@ -240,7 +240,8 @@ export default {
     cs: 'Svolej',
     pt: 'Invokar',
     es: 'Invokar',
-    pl: 'Wezwać'
+    pl: 'Wezwać',
+    tr: 'Çağrı'
   },
 
   onSummon: {
