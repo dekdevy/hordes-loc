@@ -38,7 +38,8 @@ export default {
       ru: 'Смена Цели',
       fr: 'Changement de Cible',
       es: 'Cambia objetivo',
-      pt: 'Mudança de Alvo'
+      pt: 'Mudança de Alvo',
+      tr: 'Hedef Değişikliği'
     },
     {
       en: 'Cast',
@@ -83,7 +84,8 @@ export default {
       ru: 'Предметы',
       fr: 'Items',
       es: 'Items',
-      pt: 'Items'
+      pt: 'Items',
+      tr: 'Öğeler'
     },
     {
       en: 'Auction',
@@ -97,14 +99,16 @@ export default {
       ru: 'Собранное Золото',
       fr: 'Gold Ramassé',
       es: 'Oro agarrado',
-      pt: 'Pegar Ouro'
+      pt: 'Pegar Ouro',
+      tr: 'Altın Al'
     },
     {
       en: 'Spent Gold',
       ru: 'Потраченное Золото',
       fr: 'Gold Utilisé',
       es: 'Oro gastado',
-      pt: 'Ouro gasto'
+      pt: 'Ouro gasto',
+      tr: 'Altın Harca'
     },
     {
       en: 'Fame Gain',
