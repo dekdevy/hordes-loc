@@ -22,7 +22,8 @@ export default {
     sv: 'Inventarium',
     ro: 'inventar',
     da: 'Opbevaring',
-    zh: '库存'
+    zh: '库存',
+    hu: 'Hátizsák'
   },
 
   pick: {
@@ -95,7 +96,8 @@ export default {
     ko: '인벤토리가 가득 찼습니다',
     sv: 'Din inventering är full.',
     da: 'Dit lager er fuldt.',
-    zh: '你的库存满了。'
+    zh: '你的库存满了。',
+    hu: 'A hátizsákod tele van.'
   },
 
   sell: { // TODO: these are likely broken in many places
@@ -168,7 +170,8 @@ export default {
     sv: 'Släpp objektet',
     ro: 'Aruncă obiectul',
     da: 'Slet genstand',
-    zh: '丢装备'
+    zh: '丢装备',
+    hu: 'Tárgy eldobása'
   },
 
   equip: {
@@ -192,7 +195,8 @@ export default {
     fr: 'Equipez l\'item',
     nl: 'Rust uw item uit',
     ro: 'Echipează obiectul',
-    zh: '上装备'
+    zh: '上装备',
+    hu: 'Felfegyverkezés'
   },
 
   use: {
@@ -217,7 +221,8 @@ export default {
     cs: 'Použijte přidmet',
     ja: 'アイテムを使う',
     da: 'Brug genstand',
-    zh: '用物品'
+    zh: '用物品',
+    hu: 'Használat'
   },
 
   splithalf: {
@@ -225,7 +230,8 @@ export default {
     ru: 'Разделить пополам',
     bg: 'Разполови',
     fr: 'Partager en deux',
-    pt: 'Dividir ao meio'
+    pt: 'Dividir ao meio',
+    hu: 'Kettéosztás'
   },
 
   splitone: {
@@ -233,7 +239,8 @@ export default {
     ru: 'Отделить один',
     bg: 'Вземи един',
     fr: 'Retirer un item',
-    pt: 'Retirar um'
+    pt: 'Retirar um',
+    hu: 'Egy elvétele'
   },
 
   spend: {
@@ -258,7 +265,8 @@ export default {
     ja: 'あなたは$1コインを使った。',
     ro: 'Ai cheltuit $1 de monede.',
     da: 'Du har brugt $1 mønter.',
-    zh: '你花了$1。'
+    zh: '你花了$1。',
+    hu: 'Elköltöttél $1 aranyat'
   },
 
   death: {
