@@ -62,7 +62,8 @@ export default {
     en: 'Hide mouse during rotation',
     ru: 'Скрыть мышь во время вращения',
     pt: 'Ocultar o rato durante a rotação.',
-    fr: 'Cacher la souris pendant les rotations'
+    fr: 'Cacher la souris pendant les rotations',
+    nl: 'Verstop rechter muis knop tijdens rotatie'
   },
 
   lockedcamera: {
@@ -148,7 +149,7 @@ export default {
     es: 'Resolución',
     de: 'Auflösung',
     fr: 'Résolution',
-    nl: 'Resolution',
+    nl: 'Resolutie',
     tr: 'Çözünürlük',
     pt: 'Resolução',
     pl: 'Rozdzielczość',
@@ -172,7 +173,8 @@ export default {
     ru: 'Постобработка',
     tr: 'Detaylandırma',
     fr: 'Post-traitement',
-    pt: 'Pós-processamento.'
+    pt: 'Pós-processamento.',
+    nl: 'Nawerking'
   },
 
   skilleffects: {
@@ -204,7 +206,8 @@ export default {
     en: 'Shadows',
     ru: 'Тени',
     fr: 'Ombres',
-    pt: 'Sombras'
+    pt: 'Sombras',
+    nl: 'Schaduwen
   },
 
   ssao: {
@@ -217,14 +220,16 @@ export default {
     en: 'Grass',
     ru: 'Трава',
     fr: 'Herbe',
-    pt: 'Grama'
+    pt: 'Grama',
+    nl: 'Gras'
   },
 
   clouds: {
     en: 'Clouds',
     ru: 'Облака',
     fr: 'Nuages',
-    pt: 'Nuvens'
+    pt: 'Nuvens',
+    nl: 'Wolken'
   },
 
   particles: {
