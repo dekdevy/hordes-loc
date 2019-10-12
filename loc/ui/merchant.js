@@ -245,7 +245,8 @@ export default {
     ro: 'Obiect delistat și pus la păstrare',
     hi: 'वस्तु को बाज़ार से हटाकर आपके स्टैश में भेज दिया गया है',
     da: 'Genstand afnoteret og sendt til stash',
-    sv: 'Föremål listades och skickades till stash'
+    sv: 'Föremål listades och skickades till stash',
+    hu: 'A tárgyat nem vásárolták meg, és a Stash fiókodba került.'
   },
 
   auctionbuy: {
@@ -268,7 +269,8 @@ export default {
     ko: '$1 동전으로 구입하여 은닉 한 물품',
     ro: 'Obiect cumpărat pentru $1 monede și trimis în inventarul tău',
     hi: 'अपने $1 सिक्कों में वस्तु खरीद ली है और उसे आपके स्टैश में भेज दिया गया है',
-    da: 'Vare købt til $1 mønter og sendt til din stash'
+    da: 'Vare købt til $1 mønter og sendt til din stash',
+    hu: 'A tárgyat megvásárolták $1 áron, ami a Stash fiókodba került.'
   },
 
   sell: {
@@ -291,6 +293,7 @@ export default {
     ht: 'Ou te vann $1 pou $2',
     ko: '$1 에 $1 를 판매했습니다',
     sv: 'Du har sålt $1 för $2',
-    da: 'Du har solgt $1 til $2'
+    da: 'Du har solgt $1 til $2',
+    hu: 'Eladtad: $1, $2 áron.'
   }
 }
