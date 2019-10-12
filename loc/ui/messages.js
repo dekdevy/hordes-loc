@@ -48,17 +48,20 @@ export default {
   partyMemberInvite: {
     en: '$1 has been invited by $2 to join your party.',
     ru: '$1 пригласил $2 вступить в вашу Party.',
-    pt: '$1 foi convidado por $2 para se juntar à tua party.'
+    pt: '$1 foi convidado por $2 para se juntar à tua party.',
+    tr: '$1 party\'nize davet edildi.'
   },
   partyMemberJoin: {
     en: '$1 has joined your party.',
     ru: '$1 вступил в вашу Party.',
-    pt: '$1 juntou-se à sua party.'
+    pt: '$1 juntou-se à sua party.',
+    tr: '$1 party\'nize katıldı.'
   },
   partyMemberLeave: {
     en: '$1 has left your party.',
     ru: '$1 вышел из Party.',
-    pt: '$1 saiu da sua party.'
+    pt: '$1 saiu da sua party.',
+    tr: '$1 party\'nizden ayrıldı.'
   },
   partyInvitationDecline: {
     en: '$1 has declined to join your party.',
@@ -78,22 +81,26 @@ export default {
   partyInviteLink: {
     en: '$1 has created a party invitation link: $2.',
     ru: '$1 создал линк Party приглашения: $2.',
-    pt: '$1 criou um link de convite da party: $2.'
+    pt: '$1 criou um link de convite da party: $2.',
+    tr: '$1 party davet linki oluşturdu : $2.'
   },
   partyKickYou: {
     en: 'You have been kicked from the party by $1.',
     ru: '$1 выгнал вас из Party.',
-    pt: 'Você foi expulso da party pelo $1.'
+    pt: 'Você foi expulso da party pelo $1.',
+    tr: '$1 tarafından party\'den atıldınız.'
   },
   partyKickOther: {
     en: '$1 was kicked from your party by $2.',
     ru: '$2 выгнал $1 из Party.',
-    pt: '$1 foi expulso da sua party pelo $2.'
+    pt: '$1 foi expulso da sua party pelo $2.',
+    tr: '$1 $2 tarafından party\'den atıldı.'
   },
   auctionSold: {
     en: 'Your merchant auction has been sold and $1 coins have been sent to your stash.',
     ru: 'Ваш торговый аукцион был продан, и в ваш сундук было отправлено $1 монет.',
-    pt: 'O seu leilão do mercado foi vendido e $1 moedas foram enviadas para o seu baú.'
+    pt: 'O seu leilão do mercado foi vendido e $1 moedas foram enviadas para o seu baú.',
+    tr: 'Pazara koyduğunuz ürün satıldı ve $1 madeni para deponuza gönderildi.'
   },
   online: {
     en: '$1 has come online.',
