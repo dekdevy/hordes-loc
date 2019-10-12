@@ -1,19 +1,27 @@
 export default {
   clanMemberJoin: {
     en: '$1 has joined your clan.',
-    tr: '$1 klanınıza katıldı.'
+    tr: '$1 klanınıza katıldı.',
+    ru: '$1 вступил в ваш клан.',
+    pt: '$1 entrou no teu clã'
   },
   clanMemberInvite: {
     en: '$1 has been invited to your clan.',
-    tr: '$1 klanınıza davet edildi.'
+    tr: '$1 klanınıza davet edildi.',
+    ru: '$1 был приглашен в ваш клан.',
+    pt: '$1 foi convidado para o teu clã.'
   },
   clanMemberLeave: {
     en: '$1 has left your clan.',
-    tr: '$1 klanınızdan ayrıldı.'
+    tr: '$1 klanınızdan ayrıldı.',
+    ru: '$1 покинул ваш клан.',
+    pt: '$1 saiu do teu clã.'
   },
   clanMemberApply: {
     en: '$1 has applied to join your clan.',
-    tr: '$1 klanınıza katılmak için başvurdu.'
+    tr: '$1 klanınıza katılmak için başvurdu.',
+    ru: '$1 подал заявку на вступление в ваш клан.',
+    pt: '$1 solicitou para entrar no teu clã.'
   },
   clanMemberRolePromote: {
     en: '$1 was promoted in clan role.',
@@ -27,11 +35,15 @@ export default {
   },
   clanKickOther: {
     en: '$1 was kicked from your clan.',
-    tr: '$1 klanınızdan atıldı.'
+    tr: '$1 klanınızdan atıldı.',
+    ru: '$1 был выгнан из вашего клана.',
+    pt: '$1 foi expulso do teu clã.'
   },
   clanKickYou: {
     en: 'You were kicked from your clan.',
-    tr: 'Klanınızdan atıldınız.'
+    tr: 'Klanınızdan atıldınız.',
+    ru: 'вы были изгнаны из вашего клана.',
+    pt: 'Você foi expulso do clã.'
   },
   partyMemberInvite: {
     en: '$1 has been invited by $2 to join your party.',
@@ -85,10 +97,14 @@ export default {
   },
   online: {
     en: '$1 has come online.',
-    tr: '$1 çevrimiçi oldu.'
+    tr: '$1 çevrimiçi oldu.',
+    ru: '$1 сейчас онлайн.',
+    pt: '$1 está online.'
   },
   offline: {
     en: '$1 has gone offline.',
-    tr: '$1 çevrimdışı oldu.'
+    tr: '$1 çevrimdışı oldu.',
+    ru: '$1 сейчас офлайн.',
+    pt: '$1 ficou offline.'
   }
 }
