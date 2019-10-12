@@ -9,7 +9,7 @@ export default {
     fr: 'Inventaire',
     nl: 'Inventaris',
     pt: 'Inventário',
-    tr: 'Enventer',
+    tr: 'Envanter',
     it: 'Inventario',
     pl: 'Inwentarz',
     bg: 'Инвентар',
@@ -46,7 +46,8 @@ export default {
     ko: '당신은 $1 를 선택했습니다',
     sv: 'Du har plockat upp $1.',
     da: 'Du har hentet $1.',
-    zh: '你捡到了$1。'
+    zh: '你捡到了$1。',
+    tr: '$1 \'i aldın' 
   },
 
   throw: {
@@ -95,7 +96,8 @@ export default {
     ko: '인벤토리가 가득 찼습니다',
     sv: 'Din inventering är full.',
     da: 'Dit lager er fuldt.',
-    zh: '你的库存满了。'
+    zh: '你的库存满了。',
+    tr: 'Envanterin Dolu'
   },
 
   sell: { // TODO: these are likely broken in many places
@@ -119,7 +121,8 @@ export default {
     ko: '$1 에',
     sv: 'Du har sålt $1.',
     da: 'Du har solgt $1.',
-    zh: '你卖了 $1。'
+    zh: '你卖了 $1。',
+    tr: '$1 Sattın'
   },
 
   receive: {
@@ -155,7 +158,7 @@ export default {
     fr: 'Déposer l\'item',
     nl: 'Laat vallen',
     pt: 'Soltar item',
-    tr: 'Öğe bırak',
+    tr: 'Öğeyi bırak',
     it: 'Elemento di goccia',
     pl: 'Pozycja zrzutowa',
     bg: 'Пуснете придмет',
@@ -192,7 +195,8 @@ export default {
     fr: 'Equipez l\'item',
     nl: 'Rust uw item uit',
     ro: 'Echipează obiectul',
-    zh: '上装备'
+    zh: '上装备',
+    tr: 'Öğeyi Donat'
   },
 
   use: {
@@ -208,7 +212,7 @@ export default {
     nl: 'Gebruik item',
     pl: 'Pozycja użytkowa',
     sv: 'Använd sak',
-    tr: 'Öğe kullan',
+    tr: 'Öğeyi kullan',
     ht: 'Sèvi ak atik la',
     it: 'Utilizzare la voce',
     tl: 'Gamitin ang item',
@@ -225,7 +229,8 @@ export default {
     ru: 'Разделить пополам',
     bg: 'Разполови',
     fr: 'Partager en deux',
-    pt: 'Dividir ao meio'
+    pt: 'Dividir ao meio',
+    tr: 'İkiye böl'
   },
 
   splitone: {
@@ -233,7 +238,8 @@ export default {
     ru: 'Отделить один',
     bg: 'Вземи един',
     fr: 'Retirer un item',
-    pt: 'Retirar um'
+    pt: 'Retirar um',
+    tr: 'Bire böl'
   },
 
   spend: {
