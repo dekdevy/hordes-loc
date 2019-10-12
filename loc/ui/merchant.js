@@ -21,7 +21,8 @@ export default {
     hi: 'खोजे',
     da: 'Søg',
     sv: 'Sök',
-    zh: '搜索'
+    zh: '搜索',
+    hu: 'Keresés'
   },
 
   filtermine: {
@@ -45,7 +46,8 @@ export default {
     hi: 'मेरी वस्तुएं',
     da: 'Kun mine genstand',
     sv: 'Endast mina föremål',
-    zh: '只要我的装备'
+    zh: '只要我的装备',
+    hu: 'Csak az én tárgyaim'
   },
 
   buy: {
@@ -69,7 +71,8 @@ export default {
     hi: 'वस्तु खरीदे',
     da: 'Køb Genstand',
     sv: 'Köp Föremål',
-    zh: '买装备'
+    zh: '买装备',
+    hu: 'Vásárlás'
   },
 
   post: {
@@ -93,7 +96,8 @@ export default {
     cs: 'Poslat Předmět',
     ja: 'オブジェクトを送信',
     da: 'Send Genstand',
-    ro: 'Postează Obiectul'
+    ro: 'Postează Obiectul',
+    hu: 'Tárgy kirakása'
   },
 
   delist: {
@@ -116,7 +120,8 @@ export default {
     ro: 'Scoate Obiectul',
     hi: 'बाज़ार से हटाएं',
     da: 'Fjern Genstand fra liste',
-    sv: 'Delista-Objektet'
+    sv: 'Delista-Objektet',
+    hu: 'Tárgy visszavétele'
   },
 
   // Include the space and punctuation
@@ -141,7 +146,8 @@ export default {
     hi: 'कीमत: ',
     da: 'Pris: ',
     sv: 'Pris: ',
-    zh: '价格: '
+    zh: '价格: ',
+    hu: 'Ár: '
   },
 
   // Include the space and punctuation
@@ -166,7 +172,8 @@ export default {
     hi: 'कीमत: ',
     da: 'Skat: ',
     sv: 'Avgift: ',
-    zh: '费用: '
+    zh: '费用: ',
+    hu: 'Költség: '
   },
 
   dragitem: {
@@ -189,7 +196,8 @@ export default {
     ro: 'Pune obiectul la locul lui',
     hi: 'वस्तु खीच कर खांचे में डाल दे',
     da: 'Træk genstand i slot',
-    sv: 'Dra objektet till platsen'
+    sv: 'Dra objektet till platsen',
+    hu: 'Húzd a tárgyat az ablakba'
   },
 
   auctionpost: {
@@ -213,7 +221,8 @@ export default {
     cs: 'Zveřejnili jste $1 na prodej',
     ja: 'あなたは販売のために $1 を投稿しました',
     ro: 'Ai postat $1 pentru vânzare',
-    da: 'Du har indsendt $1 til salg'
+    da: 'Du har indsendt $1 til salg',
+    hu: 'Eladásra bocsátottad: $1'
   },
 
   auctioncancel: {
