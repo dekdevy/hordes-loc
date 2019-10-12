@@ -157,9 +157,9 @@ export default {
   },
 
   roles: [
-    { en: 'Member' },
-    { en: 'Assistant' },
-    { en: 'Officer' },
-    { en: 'Owner' }
+    { $$: 'Member' },
+    { $$: 'Assistant' },
+    { $$: 'Officer' },
+    { $$: 'Owner' }
   ]
 }
