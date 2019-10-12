@@ -21,7 +21,8 @@ export default {
     ht: 'Ou dwe rete jiskaske ou ka rekipere atik sa a.',
     el: 'Πρέπει να παρακολουθείτε μέχρι να μπορείτε να ανακτήσετε αυτό το στοιχείο.',
     da: 'Du skal til, indtil du kan hente denne vare.',
-    zh: '您必须等到可以取回这个装备。'
+    zh: '您必须等到可以取回这个装备。',
+    tr: 'Öğeyi alana kadar beklemelisiniz.'
   },
 
   withdraw: {
@@ -39,7 +40,7 @@ export default {
     ro: 'Retrage',
     hi: 'निकालना',
     ko: '빼다',
-    tr: 'Çekil',
+    tr: 'Çek',
     ht: 'Retire',
     cs: 'Ustoupit',
     ja: '撤回',
@@ -70,7 +71,8 @@ export default {
     ja: '隠し場所に移動',
     ro: 'Mută în ascunzătoare.',
     da: 'Flyt til stash',
-    zh: '转到保管'
+    zh: '转到保管',
+    tr: 'Depoya taşı'
   },
 
   stashed: {
@@ -94,7 +96,8 @@ export default {
     bg: '$1 е преместен в скривалището ви.',
     da: '$1 er flyttet til din stash.',
     ko: '$1 가 숨겨지기로 옮겼습니다.',
-    zh: '$1 被转移到了你的保管'
+    zh: '$1 被转移到了你的保管',
+    tr: '$1 deponuza taşındı'
   }
 
 }
