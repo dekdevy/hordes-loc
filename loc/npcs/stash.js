@@ -11,30 +11,31 @@ export default {
       nl: 'Ja, ik ben een pratende kist, ik kan nou al een vraag op je lippen zien vormen. Vele jaren heb ik voor royale families gewerkt, hun onbetaalbare edelstenen en juwelen bewaren, alleen om op deze campplaats gegooid te worden voor jullie mooie benodigdheden. hoe dan ook, kan ik jou mijn diensten aanbieden?'
     },
 
+   // Do not translate "Stash".
     choices: [{
-      en: 'Yes, open my stash.',
-      ru: 'Да, открой мой сундук.',
-      pt: 'Sim, abre o meu esconderijo.',
-      es: 'Si, abre mi alijo.',
-      fr: 'Oui, ouvre ma planque.',
-      de: 'Ja, öffne mein Versteck.',
+      en: 'Yes, open my Stash.',
+      ru: 'Да, открой мой Stash.',
+      pt: 'Sim, abre o meu Stash.',
+      es: 'Si, abre mi Stash.',
+      fr: 'Oui, ouvre ma Stash.',
+      de: 'Ja, öffne mein Stash.',
       ko: '네, 내 숨긴 장을여십시오.',
-      nl: 'Ja, open mijn voorraad.',
-      pl: 'Tak, otwórz mój schowek.',
-      sv: 'Ja, öppna min stash.',
-      tr: 'Evet, eşyalarımı aç.',
-      ht: 'Wi, louvri magazen mwen an.',
-      it: 'Sì, apri la mia scorta.',
+      nl: 'Ja, open mijn Stash.',
+      pl: 'Tak, otwórz mój Stash.',
+      sv: 'Ja, öppna min Stash.',
+      tr: 'Evet, Stash aç.',
+      ht: 'Wi, louvri Stash mwen an.',
+      it: 'Sì, apri la mia Stash.',
       hi: 'हां, मेरा स्टैश खोलें',
-      tl: 'Oo, buksan mo ang aking itago.',
+      tl: 'Oo, buksan mo ang aking Stash.',
       el: 'Ναι, ανοίξτε το δοχείο μου.',
-      bg: 'Да, отворете контейнера.',
-      cs: 'Ano, otevřete můj kontejner.',
+      bg: 'Да, отворете Stash.',
+      cs: 'Ano, otevřete můj Stash.',
       ja: 'はい、コンテナを開けます。',
-      ro: 'Da, deschide-mi containerul.',
-      da: 'Ja, åben min stash.',
+      ro: 'Da, deschide-mi Stash.',
+      da: 'Ja, åben min Stash.',
       zh: '是的，打開我的倉庫。',
-      hu: 'Rendben, tárd elém a fiókomat.'
+      hu: 'Rendben, tárd elém a Stash.'
     }]
   }]
 }
