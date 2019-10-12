@@ -11,7 +11,8 @@ export default {
       fr: 'Damage',
       ru: 'Урон',
       pt: 'Dano',
-      tr: 'Hasar'
+      tr: 'Hasar',
+      es: 'Daño'
     }
   },
 
@@ -22,7 +23,8 @@ export default {
       fr: 'Force',
       ru: 'Сила',
       pt: 'Força',
-      tr: 'Dayankl.'
+      tr: 'Dayankl',
+      es: 'Fuerza'
     },
 
     {
@@ -30,7 +32,8 @@ export default {
       fr: 'Endurance',
       ru: 'Стойкость',
       pt: 'Vigor',
-      tr: 'Direnç'
+      tr: 'Direnç',
+      es: 'Aguante'
     },
 
     {
@@ -38,7 +41,8 @@ export default {
       fr: 'Dextérité',
       ru: 'Ловкость',
       pt: 'Destreza',
-      tr: 'Çeviklik'
+      tr: 'Çeviklik',
+      es: 'Destreza'
     },
 
     {
@@ -46,7 +50,8 @@ export default {
       ru: 'Интеллект',
       fr: 'Intelligence',
       pt: 'Inteligência',
-      tr: 'Zekâ'
+      tr: 'Zekâ',
+      es: 'Inteligencia'
     },
 
     {
@@ -54,7 +59,8 @@ export default {
       fr: 'Sagesse',
       ru: 'Мудрость',
       pt: 'Sabdr.',
-      tr: 'Bilgelik'
+      tr: 'Bilgelik',
+      es: 'Sabiduría'
     },
 
     {
@@ -62,7 +68,8 @@ export default {
       fr: 'Chance',
       ru: 'Удача',
       pt: 'Sorte',
-      tr: 'Şans'
+      tr: 'Şans',
+      es: 'Suerte'
     },
 
     {
@@ -86,7 +93,8 @@ export default {
       ru: 'Мин Урн.',
       pt: 'Dano Mín',
       fr: 'Min Dmg.',
-      tr: 'Min Hasar'
+      tr: 'Min Hasar',
+      es: 'Min Daño.'
     },
 
     {
@@ -94,7 +102,8 @@ export default {
       ru: 'Макс Урн.',
       pt: 'Dano Máx',
       fr: 'Max Dmg.',
-      tr: 'Max Hasar'
+      tr: 'Max Hasar',
+      es: 'Max Daño.'
     },
 
     {
@@ -102,7 +111,8 @@ export default {
       fr: 'Défense',
       ru: 'Защита',
       pt: 'Defesa',
-      tr: 'Defans'
+      tr: 'Defans',
+      es: 'Defensa'
     },
 
     {
@@ -110,7 +120,8 @@ export default {
       ru: 'Блок',
       fr: 'Parade',
       pt: 'Bloquе.',
-      tr: 'Blok'
+      tr: 'Blok',
+      es: 'Bloqueo'
 
     },
 
@@ -119,7 +130,8 @@ export default {
       pt: 'Evasão',
       ru: 'Уклон.',
       fr: 'Esquive',
-      tr: 'Kaçınma'
+      tr: 'Kaçınma',
+      es: 'Evadir'
     },
 
     {
@@ -127,7 +139,8 @@ export default {
       fr: 'Précision',
       ru: 'Точность',
       pt: 'Precisão',
-      tr: 'Hedef Alma'
+      tr: 'Hedef Alma',
+      es: 'Exactitud'
     },
 
     {
@@ -135,14 +148,16 @@ export default {
       ru: 'Крит. Шанс',
       fr: 'Critique',
       pt: 'Crítico',
-      tr: 'Kritik'
+      tr: 'Kritik',
+      es: 'Crítico'
     },
 
     {
       en: 'Move Spd.',
       fr: 'Vit. Mouv.',
       ru: 'Скорость',
-      pt: 'Velocidade'
+      pt: 'Velocidade',
+      es: 'Mov Rapido.'
     },
 
     {
@@ -150,70 +165,80 @@ export default {
       ru: 'Быстр.',
       pt: 'Rapidez',
       fr: 'Célérité',
-      tr: 'Çabukluk'
+      tr: 'Çabukluk',
+      es: 'Prisa'
     },
 
     {
       en: 'Attack Spd.',
       ru: 'Скорость Атк.',
       fr: 'Vit. Attq',
-      pt: 'Rapidez Atq.'
+      pt: 'Rapidez Atq.',
+      es: 'Atacar Rapido.'
     },
 
     {
       en: 'Item Find',
       ru: 'Выпадение',
       fr: 'Trouvaille',
-      pt: 'Encontrar Item'
+      pt: 'Encontrar Item',
+      es: 'Encontrar Item'
     },
 
     {
       en: 'Bag Slots',
       ru: 'Слоты Сумки',
       pt: 'Espaço',
-      fr: 'Espace Sac'
+      fr: 'Espace Sac',
+      es: 'Ranura de Bolsa'
     },
 
     {
       en: 'Fame',
       ru: 'Слава',
       fr: 'Gloire',
-      pt: 'Fama'
+      pt: 'Fama',
+      es: 'Fama'
     },
 
     {
       en: 'Stat Points',
       ru: 'Очки Статов',
       fr: 'Points Stat',
-      pt: 'Pontos de Stat'
+      pt: 'Pontos de Stat',
+      es: 'Puntos de Stad'
     },
 
     {
       en: 'Skill Points',
       ru: 'Очки Умений',
       fr: 'Points Comp.',
-      pt: 'Pontos de Hab.'
+      pt: 'Pontos de Hab.',
+      es: 'Puntos de Habilidad'
     },
 
     {
       en: '% Increased Dmg.',
       fr: '% Dmg Améliorés',
       ru: '% Увеличения Урона',
-      pt: '% Dano Aumentado'
+      pt: '% Dano Aumentado',
+      es: '% Daño Aumentado'
     },
 
     {
       en: '% Increased Aggro Generation',
       ru: '% Увеличения Агрессии',
       fr: '% Génération d\'aggro Améliorée',
-      pt: '% Aggro Gerado'
+      pt: '% Aggro Gerado',
+      es: '% Aumento de la Generación de Aggro'
     },
 
     {
       en: '% Movement Spd. Reduction',
       fr: '% Réduction Vit. Mouv.',
       ru: '% Cнижения Скор. Движения',
-      pt: '% Redução de Velocidade'
+      pt: '% Redução de Velocidade',
+      es: '% Velocidad de Movimiento. Reducción'
     }
   ]
 }
