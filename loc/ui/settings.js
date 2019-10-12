@@ -240,7 +240,8 @@ export default {
   },
 
   detailprops: {
-    en: 'Detail props'
+    en: 'Detail props',
+    nl: 'Detail Voorwerpen'
   },
 
   // ---- Audio
