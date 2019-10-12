@@ -6,7 +6,8 @@ export default {
       pt: 'Sim, eu sou um baú falante, eu já consigo ver as perguntas a surgirem nos teus lábios. Durante muitos anos servi famílias da nobreza, armazenando as suas magníficas gemas e jóias de valores inimagináveis, para que eu seja colocado neste nojento acampamento para satisfazer as tuas insignificantes nesse idades. De qualquer forma, gostarias que eu te oferecesse os meus serviços?',
       fr: 'Bon, je t\'arrête tout de suite. Oui, je suis un coffre qui parle. J\'ai servi pendant de longues années les familles royales, entreposant leurs inestimables bijoux et joyaux, pour ensuite me placer dans ce campement crasseux afin de répondre à vos capricieux besoins. Bon, trêve de mondanités, souhaitez-vous que je vous offre mes services?',
       tr: 'Evet, ben bir konuşan sandığım, görüyorum ki bunun hakkında soru soracaksın. Sadece bu pis kamp alanında senin küçük ihtiyaçlarını karşılamak için yıllarca kraliyet ailelerine hizmet ettim, onların paha biçilemez mücevherlerini ve değerli taşlarını sakladım. Neyse, size hizmetlerimi sunmamı ister misiniz?',
-      zh: '是的，我是一個會說話的金庫，我知道你已經有很多問題要問了。我已經侍奉皇家很多年了，儲存他們無價的金銀財寶，也只有我被放在了這個骯髒的營地裡來為你們服務。總之，你要我為你提供服務嗎？'
+      zh: '是的，我是一個會說話的金庫，我知道你已經有很多問題要問了。我已經侍奉皇家很多年了，儲存他們無價的金銀財寶，也只有我被放在了這個骯髒的營地裡來為你們服務。總之，你要我為你提供服務嗎？',
+      hu: 'Igen, én egy beszélő láda vagyok. Ne, hidd, hogy nem látom az ajkaidon formálódó kérdést. Sok éve még királyi családoknak szolgáltam, én tároltam a temérdek aranyukat, a csillogó gyöngyöket, a fényes kristályokat, és mindezt csakis azért, hogy idedobjanak ebbe a szutykos táborba, és teljesítsem jöttment kalandorok fenséges óhajait. Egyszóval, fölajánlhatom neked szolgálataimat?'
     },
 
     choices: [{
@@ -31,7 +32,8 @@ export default {
       ja: 'はい、コンテナを開けます。',
       ro: 'Da, deschide-mi containerul.',
       da: 'Ja, åben min stash.',
-      zh: '是的，打開我的倉庫。'
+      zh: '是的，打開我的倉庫。',
+      hu: 'Rendben, tárd elém a fiókomat.'
     }]
   }]
 }

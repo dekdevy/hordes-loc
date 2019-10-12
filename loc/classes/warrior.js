@@ -22,7 +22,8 @@ export default {
     bg: 'Войн',
     ro: 'Războinic',
     da: 'Kriger',
-    zh: '戰士'
+    zh: '戰士',
+    hu: 'Harcos'
   },
   // Class description, visible during character creation
   description: {
@@ -35,7 +36,7 @@ export default {
     hi: 'सर्वश्रेष्ठ रक्षा उपकरण और ताक़तवर कवच के उपयोग से सारी श्रेणियो में योधा सबसे अधिक मार रोक सकते हैं।',
     ko: '전사들은 장비 (방패)와 강력한 방어 숙련자를 통해 높은 방어력을 가짐으로써 다른 클래스보다 더 많은 몬스터를 견딜수 있습니다.',
     pt: 'Os guerreiros são feitos de forma a resistir a mais monstros do que qualquer outra classe, tendo alta defesa através de equipamentos (Escudos) e fortes buffs defensivos.',
-    nl: 'Krijgers zijn gebouwd nemenmeer schade dan enige andere klasse door het hebben van hoge verdediging door middel van apparatuur (Schilden) en sterke defensieve status.',
+    nl: 'Krijgers zijn bedoeld om meer schade op te vangen dan enig andere klasse via middel van bepaalde verdedigingsuitrusting (Schilden) en sterke defensieve betoveringen.',
     tl: 'Ang mga Warrior ay binuo upang tangke ng higit pang mga monsters kaysa sa anumang iba pang mga klase sa pamamagitan ng pagkakaroon ng mataas na pagtatanggol sa pamamagitan ng kagamitan (Shields) at malakas na defensive buffs.',
     tr: 'Savaşçılar güçlü defansif ekipmanları (Kalkanlar) ve defansif güçlendirmeleri ile canavarları diğer sınıflardan daha çok üstüne çeker.',
     it: 'I Guerrieri sono costruiti per accumulare più mostri di qualsiasi altra classe, avendo un\'alta difesa tramite equipaggiamento (Scudi) e forti abilità difensive.',
@@ -47,6 +48,7 @@ export default {
     bg: 'Воините са построени да задържат повече чудовища от всеки друг клас, като имат висока защита чрез оборудване (Щитове) и силни защитни способности.',
     ro: 'Războinicii sunt făcuți pentru a atrage mai mulți monștrii decât orice altă clasă, având o defensivă foarte ridicată datorită echipamentului (Scuturi) și buff-uri defensive puternice.',
     da: 'Krigere er bygget til at tanke flere monstre end nogen anden klasse ved at have højt forsvar via udstyr (Skjolde) og stærke defensive buffs.',
-    zh: '通過裝備（盾牌）和強大的防守增益效果，戰士可以打敗比其他角色更多的怪物。'
+    zh: '通過裝備（盾牌）和強大的防守增益效果，戰士可以打敗比其他角色更多的怪物。',
+    hu: 'A harcosok hatalmas védekező képességükre és erejükre támaszkodva magukra vállalhatják a közelharcot számos ellenséggel, hogy a csapatjuk többi tagja zavartalanul használhassa mágiáját.'
   }
 }

@@ -59,7 +59,8 @@ export default {
 
   pointerlock: {
     en: 'Hide mouse during rotation',
-    ru: 'Скрыть мышь во время вращения'
+    ru: 'Скрыть мышь во время вращения',
+    pt: 'Ocultar o rato durante a rotação.'
   },
 
   lockedcamera: {
@@ -168,7 +169,8 @@ export default {
     de: 'Nachbearbeitung',
     ru: 'Постобработка',
     tr: 'Detaylandırma',
-    fr: 'Post-traitement'
+    fr: 'Post-traitement',
+    pt: 'Pós-processamento.'
   },
 
   skilleffects: {
@@ -205,7 +207,8 @@ export default {
 
   ssao: {
     en: 'Ambient Occlusion',
-    fr: 'Occlusion Ambiante'
+    fr: 'Occlusion Ambiante',
+    pt: 'Oclusão Ambiental'
   },
 
   grass: {
@@ -230,8 +233,7 @@ export default {
   },
 
   detailprops: {
-    en: 'Detail props',
-    ru: 'Детали пропов'
+    en: 'Detail props'
   },
 
   // ---- Audio
@@ -445,6 +447,7 @@ export default {
     en: 'Disable tutorial',
     ru: 'Отключить обучения',
     tr: 'Öğreticiyi kapat',
-    fr: 'Désactiver le tutoriel'
+    fr: 'Désactiver le tutoriel',
+    pt: 'Desativar o Tutorial'
   }
 }

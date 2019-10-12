@@ -21,7 +21,8 @@ export default {
     ht: 'Dekonekte',
     ro: 'Deconectare',
     da: 'Afslut',
-    zh: '登出'
+    zh: '登出',
+    hu: 'Kijelentkezés'
   },
 
   home: {
@@ -45,6 +46,7 @@ export default {
     ht: 'Paj lakay',
     ro: 'Acasă',
     da: 'Gå hjem',
-    zh: '主頁'
+    zh: '主頁',
+    hu: 'Főoldal'
   }
 }

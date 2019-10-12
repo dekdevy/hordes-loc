@@ -47,7 +47,8 @@ export default {
       tl: 'Oo naman.',
       da: 'Ja selvfølgelig.',
       zh: '是，當然。',
-      tr: 'Elbette.'
+      tr: 'Elbette.',
+      hu: 'Persze, csak természetesen.'
     }]
   }],
 
@@ -72,7 +73,8 @@ export default {
     nl: 'Verkoop je items.',
     da: 'Sælg dine varer.',
     ro: 'Vinde-ți obiectele.',
-    zh: '賣出你的物品。'
+    zh: '賣出你的物品。',
+    hu: 'Itt add el az árudat.'
   },
 
   info: {
@@ -97,7 +99,8 @@ export default {
     da: 'For at sælge et emne skal du højreklikke på det eller trække det i handlervinduet.',
     ro: 'Pentru a vinde un element, faceți clic-dreapta sau trageți-l în fereastra comerciantului.',
     zh: '要賣物品，在物品上按右鍵或把它拖入到交易窗口中。',
-    tr: 'Bir eşyayı satmak için Shift\'e basılı tutarak eşyaya sağ tıklayın veya eşyayı takas penceresine sürükleyip bırakın.'
+    tr: 'Bir eşyayı satmak için Shift\'e basılı tutarak eşyaya sağ tıklayın veya eşyayı takas penceresine sürükleyip bırakın.',
+    hu: 'Hogy eladj egy tárgyat, shift+jobbkattints rá, majd húzd ide a Trader ablakba.'
   },
 
   // Include punctuation and space.
@@ -122,8 +125,9 @@ export default {
     ro: 'Prețul de vânzare: ',
     it: 'Prezzo di vendita: ',
     da: 'Salgspris: ',
-    zh: '售價：',
-    tr: 'Satış ücreti: '
+    zh: '售價： ',
+    tr: 'Satış ücreti: ',
+    hu: 'Eladási ár: '
   },
 
   buy: {
@@ -147,6 +151,7 @@ export default {
     ja: '何か興味がありますか？購入するにはアイテムをクリックしてください。',
     da: 'Er du interesseret i noget? Klik på en genstand for at købe den.',
     zh: '有感興趣的東西嗎？点击商品即可購買。',
-    tr: 'İlginizi çeken bir şeyler var mı? Bir eşyayı almak isterseniz üstüne tıklayın.'
+    tr: 'İlginizi çeken bir şeyler var mı? Bir eşyayı almak isterseniz üstüne tıklayın.',
+    hu: 'Találtál valamit, amit érdekesnek találsz? Kattints egy tárgyra hogy megvásárold.'
   }
 }
