@@ -54,13 +54,15 @@ export default {
   keybindings: {
     en: 'Key bindings',
     ru: 'Привязки клавиш',
-    pt: 'Combinações de teclas'
+    pt: 'Combinações de teclas',
+    fr: 'Assignation des touches'
   },
 
   pointerlock: {
     en: 'Hide mouse during rotation',
     ru: 'Скрыть мышь во время вращения',
-    pt: 'Ocultar o rato durante a rotação.'
+    pt: 'Ocultar o rato durante a rotação.',
+    fr: 'Cacher la souris pendant les rotations'
   },
 
   lockedcamera: {
