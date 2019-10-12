@@ -53,7 +53,8 @@ export default {
 
   keybindings: {
     en: 'Key bindings',
-    ru: 'Привязки клавиш'
+    ru: 'Привязки клавиш',
+    tr: 'Tuş atamaları'
   },
 
   pointerlock: {
@@ -198,7 +199,8 @@ export default {
   shadows: {
     en: 'Shadows',
     ru: 'Тени',
-    fr: 'Ombres'
+    fr: 'Ombres',
+    tr: 'Gölgeler'
   },
 
   ssao: {
@@ -209,19 +211,22 @@ export default {
   grass: {
     en: 'Grass',
     ru: 'Трава',
-    fr: 'Herbe'
+    fr: 'Herbe',
+    tr: 'Çimen'
   },
 
   clouds: {
     en: 'Clouds',
     ru: 'Облака',
-    fr: 'Nuages'
+    fr: 'Nuages',
+    tr: 'Bulutlar'
   },
 
   particles: {
     en: 'Particles',
     ru: 'Частицы',
-    fr: 'Particules'
+    fr: 'Particules',
+    tr: 'Parçacıklar'
   },
 
   detailprops: {
@@ -288,7 +293,7 @@ export default {
     de: 'Chat',
     fr: 'Chat',
     nl: 'praten',
-    tr: 'sohbet',
+    tr: 'Sohbet',
     pt: 'Chat',
     pl: 'pogawędka',
     ht: 'Chat',
@@ -307,7 +312,8 @@ export default {
   chatbubbles: {
     en: 'Show chat bubbles',
     ru: 'Показавать чат пузеры',
-    fr: 'Afficher les bulles de chat'
+    fr: 'Afficher les bulles de chat',
+    tr: 'Sohbet balonlarını göster'
   },
 
   combatlog: {
@@ -331,7 +337,7 @@ export default {
     cs: 'Rozhraní',
     hi: 'अन्तराफलक',
     fr: 'Interface',
-    tr: 'Arayüzey',
+    tr: 'Arayüz',
     ht: 'Entèfas',
     ko: '인터페이스',
     ja: 'インタフェース',
@@ -383,7 +389,8 @@ export default {
     da: 'Lagerbredde',
     ko: '인벤토리 너비',
     ht: 'Lajè Envantè',
-    ja: '在庫の幅'
+    ja: '在庫の幅',
+    tr: 'Envanter genişliği'
   },
 
   tutorial: {
