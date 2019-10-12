@@ -46,7 +46,8 @@ export default {
     ko: '당신은 $1 를 선택했습니다',
     sv: 'Du har plockat upp $1.',
     da: 'Du har hentet $1.',
-    zh: '你捡到了$1。'
+    zh: '你捡到了$1。',
+    tr: '$1 Aldın'
   },
 
   throw: {
