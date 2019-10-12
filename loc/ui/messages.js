@@ -50,37 +50,44 @@ export default {
   partyMemberInvite: {
     en: '$1 has been invited by $2 to join your party.',
     ru: '$1 пригласил $2 вступить в вашу Party.',
-    pt: '$1 foi convidado por $2 para se juntar à tua party.'
+    pt: '$1 foi convidado por $2 para se juntar à tua party.',
+    hu: '$2 a portyádba meghívta: $1.'
   },
   partyMemberJoin: {
     en: '$1 has joined your party.',
     ru: '$1 вступил в вашу Party.',
-    pt: '$1 juntou-se à sua party.'
+    pt: '$1 juntou-se à sua party.',
+    hu: '$1  belépett a portyádba.'
   },
   partyMemberLeave: {
     en: '$1 has left your party.',
     ru: '$1 вышел из Party.',
-    pt: '$1 saiu da sua party.'
+    pt: '$1 saiu da sua party.',
+    hu: '$1 elhagyta a portyádat.'
   },
   partyInvitationDecline: {
     en: '$1 has declined to join your party.',
     ru: '$1 отказался вступать в вашу Party.',
-    pt: '$1 rejeitou juntar-se à sua party.'
+    pt: '$1 rejeitou juntar-se à sua party.',
+    hu: '$1 elutasította a meghívást a portyádba.'
   },
   partyMemberPromote: {
     en: '$1 has been promoted in party role.',
     ru: '$1 был повышен в должности Party.',
-    pt: '$1 foi promovido na função da party.'
+    pt: '$1 foi promovido na função da party.',
+    hu: '$1 előléptetéshez jutott a portyádban.'
   },
   partyMemberDemote: {
     en: '$1 has been demoted in party role.',
     ru: '$1 был понижен в должности Party',
-    pt: '$1 foi rebaixado na função da party.'
+    pt: '$1 foi rebaixado na função da party.',
+    hu: '$1 viselkedése visszabuktatásához vezetett.'
   },
   partyInviteLink: {
     en: '$1 has created a party invitation link: $2.',
     ru: '$1 создал линк Party приглашения: $2.',
-    pt: '$1 criou um link de convite da party: $2.'
+    pt: '$1 criou um link de convite da party: $2.',
+    hu: '$1 létrehozta a következő portyameghívó linket: $2.'
   },
   partyKickYou: {
     en: 'You have been kicked from the party by $1.',
@@ -90,21 +97,25 @@ export default {
   partyKickOther: {
     en: '$1 was kicked from your party by $2.',
     ru: '$2 выгнал $1 из Party.',
-    pt: '$1 foi expulso da sua party pelo $2.'
+    pt: '$1 foi expulso da sua party pelo $2.',
+    hu: '$1 kirúgott a portyádból.'
   },
   auctionSold: {
     en: 'Your merchant auction has been sold and $1 coins have been sent to your stash.',
     ru: 'Ваш торговый аукцион был продан, и в ваш сундук было отправлено $1 монет.',
-    pt: 'O seu leilão do mercado foi vendido e $1 moedas foram enviadas para o seu baú.'
+    pt: 'O seu leilão do mercado foi vendido e $1 moedas foram enviadas para o seu baú.',
+    hu: 'A Merchantnál feladott aukciódat eladták $1 aranyért, ami a Stash fiókodba került.'
   },
   online: {
     en: '$1 has come online.',
     ru: '$1 сейчас онлайн.',
-    pt: '$1 está online.'
+    pt: '$1 está online.',
+    hu: '$1 belépett a játékba.'
   },
   offline: {
     en: '$1 has gone offline.',
     ru: '$1 сейчас офлайн.',
-    pt: '$1 ficou offline.'
+    pt: '$1 ficou offline.',
+    hu: '$1 kilépett a játékból.'
   }
 }
