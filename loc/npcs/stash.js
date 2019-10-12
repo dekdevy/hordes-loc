@@ -9,6 +9,7 @@ export default {
       zh: '是的，我是一個會說話的金庫，我知道你已經有很多問題要問了。我已經侍奉皇家很多年了，儲存他們無價的金銀財寶，也只有我被放在了這個骯髒的營地裡來為你們服務。總之，你要我為你提供服務嗎？',
       hu: 'Igen, én egy beszélő láda vagyok. Ne, hidd, hogy nem látom az ajkaidon formálódó kérdést. Sok éve még királyi családoknak szolgáltam, én tároltam a temérdek aranyukat, a csillogó gyöngyöket, a fényes kristályokat, és mindezt csakis azért, hogy idedobjanak ebbe a szutykos táborba, és teljesítsem jöttment kalandorok fenséges óhajait. Egyszóval, fölajánlhatom neked szolgálataimat?',
       nl: 'Ja, ik ben een pratende kist, ik kan nou al een vraag op je lippen zien vormen. Vele jaren heb ik voor royale families gewerkt, hun onbetaalbare edelstenen en juwelen bewaren, alleen om op deze campplaats gegooid te worden voor jullie mooie benodigdheden. hoe dan ook, kan ik jou mijn diensten aanbieden?'
+      es: 'Sí, Soy un cofre parlante, ya puedo ver la pregunta formándose en tus labios. Muchos años he servido a familias reales, almacenando sus gemas y joyas invaluables, solo para que me coloquen en este sucio campamento para atender sus pequeñas necesidades. De todos modos, ¿quieres que te ofrezca mis servicios?',
     },
 
     // Do not translate "Stash".
