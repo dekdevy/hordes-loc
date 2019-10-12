@@ -75,7 +75,7 @@ export default {
     da: 'Sælg dine varer.',
     ro: 'Vinde-ți obiectele.',
     zh: '賣出你的物品。',
-    hu: 'Itt add el az árudat.'
+    hu: 'Itt add el az árudat.',
     tr: 'Eşyalarını sat'
   },
 
