@@ -47,7 +47,8 @@ export default {
     ko: '당신은 $1 를 선택했습니다',
     sv: 'Du har plockat upp $1.',
     da: 'Du har hentet $1.',
-    zh: '你捡到了$1。'
+    zh: '你捡到了$1。',
+    hu: 'Fölvetted: $1'
   },
 
   throw: {
@@ -72,7 +73,8 @@ export default {
     cs: 'Odhodil jsi $1.',
     ja: 'あなたは捨てました $1。',
     da: 'Du smed $1 væk.',
-    zh: '你丢了$1。'
+    zh: '你丢了$1。',
+    hu: 'Eldobtad: $1'
   },
 
   full: {
@@ -121,7 +123,8 @@ export default {
     ko: '$1 에',
     sv: 'Du har sålt $1.',
     da: 'Du har solgt $1.',
-    zh: '你卖了 $1。'
+    zh: '你卖了 $1。',
+    hu: 'Eladtad: $1'
   },
 
   receive: {
@@ -145,7 +148,8 @@ export default {
     el: 'Έχετε λάβει $1.',
     bg: 'Получихте $1.',
     ro: 'Ați primit $1.',
-    zh: '你收到 $1。'
+    zh: '你收到 $1。',
+    hu: 'Kaptál: $1'
   },
 
   drop: {
@@ -291,6 +295,7 @@ export default {
     ja: 'あなたは死んで $1 コインを失った。',
     ro: 'Ai murit și ai pierdut $1 de monede.',
     da: 'Du døde og mistede $1 mønter.',
-    zh: '你死了，掉了 $1。'
+    zh: '你死了，掉了 $1。',
+    hu: 'Meghaltál és elvesztetted: $1'
   }
 }
