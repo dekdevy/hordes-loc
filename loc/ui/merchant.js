@@ -21,7 +21,8 @@ export default {
     hi: 'खोजे',
     da: 'Søg',
     sv: 'Sök',
-    zh: '搜索'
+    zh: '搜索',
+    tr: 'Ara'
   },
 
   filtermine: {
@@ -45,7 +46,8 @@ export default {
     hi: 'मेरी वस्तुएं',
     da: 'Kun mine genstand',
     sv: 'Endast mina föremål',
-    zh: '只要我的装备'
+    zh: '只要我的装备',
+    tr: 'Sadece benim öğelerim'
   },
 
   buy: {
@@ -69,7 +71,8 @@ export default {
     hi: 'वस्तु खरीदे',
     da: 'Køb Genstand',
     sv: 'Köp Föremål',
-    zh: '买装备'
+    zh: '买装备',
+    tr: 'Öğe Satın al'
   },
 
   post: {
@@ -83,7 +86,7 @@ export default {
     ko: '개체 보내기',
     pl: 'Prześlij Obiekt',
     sv: 'Skicka objekt',
-    tr: 'Nesne Gönder',
+    tr: 'Öğe Gönder',
     ht: 'Voye Objè',
     it: 'Invia L\'oggetto',
     hi: 'बाज़ार में डालें',
@@ -116,7 +119,8 @@ export default {
     ro: 'Scoate Obiectul',
     hi: 'बाज़ार से हटाएं',
     da: 'Fjern Genstand fra liste',
-    sv: 'Delista-Objektet'
+    sv: 'Delista-Objektet',
+    tr: 'Öğeyi listeden çıkar'
   },
 
   // Include the space and punctuation
@@ -141,7 +145,8 @@ export default {
     hi: 'कीमत: ',
     da: 'Pris: ',
     sv: 'Pris: ',
-    zh: '价格: '
+    zh: '价格: ',
+    tr: 'Fiyat: '
   },
 
   // Include the space and punctuation
@@ -189,7 +194,8 @@ export default {
     ro: 'Pune obiectul la locul lui',
     hi: 'वस्तु खीच कर खांचे में डाल दे',
     da: 'Træk genstand i slot',
-    sv: 'Dra objektet till platsen'
+    sv: 'Dra objektet till platsen',
+    tr: 'Öğeyi yuvaya sürükleyin'
   },
 
   auctionpost: {
@@ -236,7 +242,8 @@ export default {
     ro: 'Obiect delistat și pus la păstrare',
     hi: 'वस्तु को बाज़ार से हटाकर आपके स्टैश में भेज दिया गया है',
     da: 'Genstand afnoteret og sendt til stash',
-    sv: 'Föremål listades och skickades till stash'
+    sv: 'Föremål listades och skickades till stash',
+    tr: 'Öğe listeden kaldırıldı ve depoya gönderildi'
   },
 
   auctionbuy: {
@@ -259,7 +266,8 @@ export default {
     ko: '$1 동전으로 구입하여 은닉 한 물품',
     ro: 'Obiect cumpărat pentru $1 monede și trimis în inventarul tău',
     hi: 'अपने $1 सिक्कों में वस्तु खरीद ली है और उसे आपके स्टैश में भेज दिया गया है',
-    da: 'Vare købt til $1 mønter og sendt til din stash'
+    da: 'Vare købt til $1 mønter og sendt til din stash',
+    tr: 'Öğe $1 madeni para ile satın alındı ve depoya gönderildi'
   },
 
   sell: {
@@ -282,6 +290,7 @@ export default {
     ht: 'Ou te vann $1 pou $2',
     ko: '$1 에 $1 를 판매했습니다',
     sv: 'Du har sålt $1 för $2',
-    da: 'Du har solgt $1 til $2'
+    da: 'Du har solgt $1 til $2',
+    tr: '$2 karşılığında $1 sattınız'
   }
 }
