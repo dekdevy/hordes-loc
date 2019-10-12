@@ -225,6 +225,7 @@ export default {
     hu: 'Eladásra bocsátottad: $1'
   },
 
+  // Do not translate "Stash".
   auctioncancel: {
     en: 'Item delisted and sent to Stash',
     ru: 'Предмет снят с продажи и отправлен в ваш Stash',
@@ -249,6 +250,7 @@ export default {
     hu: 'A tárgyat nem vásárolták meg, és a Stash fiókodba került.'
   },
 
+  // Do not translate "Stash".
   auctionbuy: {
     en: 'Item purchased for $1 coins and sent to your Stash',
     ru: 'Предмет, купленный за $1, отправлен в ваш Stash',
