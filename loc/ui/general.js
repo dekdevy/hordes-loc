@@ -22,7 +22,8 @@ export default {
     tl: 'Sige',
     ro: 'Okay',
     da: 'Okay',
-    zh: '好的'
+    zh: '好的',
+    hu: 'Rendben'
   },
 
   back: {
@@ -47,7 +48,8 @@ export default {
     tl: 'Bumalik',
     ro: 'Înapoi',
     da: 'Tilbage',
-    zh: '回'
+    zh: '回',
+    hu: 'Vissza'
   },
 
   accept: {
@@ -72,7 +74,8 @@ export default {
     tl: 'Tanggapin',
     ro: 'Acceptă',
     da: 'Acceptere',
-    zh: '允许'
+    zh: '允许',
+    hu: 'Elfogadás'
   },
 
   cancel: {
@@ -97,7 +100,8 @@ export default {
     hi: 'कैंसल',
     sv: 'Annullera',
     da: 'Afbestille',
-    zh: '取消'
+    zh: '取消',
+    hu: 'Mégsem'
   },
 
   decline: {
@@ -122,7 +126,8 @@ export default {
     tl: 'Tanggihan',
     ro: 'Refuză',
     da: 'Nedgang',
-    zh: '拒绝'
+    zh: '拒绝',
+    hu: 'Elutasítás'
   },
 
   close: {
@@ -147,6 +152,7 @@ export default {
     tl: 'Isara',
     ro: 'Închide',
     da: 'Luk',
-    zh: '关'
+    zh: '关',
+    hu: 'Bezárás 
   }
 }
