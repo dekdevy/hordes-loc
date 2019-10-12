@@ -70,7 +70,7 @@ export default {
     ja: 'あなたの商品を売る。',
     el: 'Πουλήστε τα στοιχεία σας.',
     pt: 'Venda os seus itens.',
-    nl: 'Verkoop je items.',
+    nl: 'Verkoop je waren.',
     da: 'Sælg dine varer.',
     ro: 'Vinde-ți obiectele.',
     zh: '賣出你的物品。',
