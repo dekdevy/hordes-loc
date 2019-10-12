@@ -71,6 +71,7 @@ export default {
     ht: 'Resisite',
     ro: 'Înviați',
     da: 'Genoplive',
-    zh: '复活'
+    zh: '复活',
+    tr: 'Diril'
   }
 }
