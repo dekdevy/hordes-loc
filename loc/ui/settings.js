@@ -207,7 +207,7 @@ export default {
     ru: 'Тени',
     fr: 'Ombres',
     pt: 'Sombras',
-    nl: 'Schaduwen
+    nl: 'Schaduwen'
   },
 
   ssao: {
