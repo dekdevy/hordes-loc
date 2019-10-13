@@ -26,29 +26,9 @@ export default {
     },
 
     choices: [{
-      en: 'Yes, of course.',
-      ru: 'Да, конечно.',
-      es: 'Sí, por supuesto.',
-      de: 'Ja, natürlich.',
-      fr: 'Oui, bien sûr.',
-      it: 'Sì, naturalmente.',
-      ht: 'Wi nan kou.',
-      pl: 'Tak, oczywiście.',
-      nl: 'Ja, natuurlijk.',
-      pt: 'Sim, claro.',
-      cs: 'Ano, samozřejmě.',
-      ja: 'はい、もちろん。',
-      hi: 'हां बिल्कुल।',
-      sv: 'Ja självklart.',
-      ko: '예, 물론입니다.',
-      bg: 'Да разбира се.',
-      el: 'Ναι φυσικά.',
-      ro: 'Da, desigur.',
-      tl: 'Oo naman.',
-      da: 'Ja selvfølgelig.',
-      zh: '是，當然。',
-      tr: 'Elbette.',
-      hu: 'Persze, csak természetesen.'
+      en: 'Show me your wares.'
+    }, {
+      en: 'Reset my stat points ( $1 coins).'
     }]
   }],
 
