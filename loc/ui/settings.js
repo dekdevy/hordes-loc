@@ -500,7 +500,8 @@ export default {
     ru: 'Режим низкого качества',
     hu: 'Alacsony minőségű mód',
     pt: 'Modo de qualidade baixa',
-    fr: 'Mode basse qualité'
+    fr: 'Mode basse qualité',
+    nl: 'Lage kwaliteit modus'
   },
 
   mapshowmonsters: {
@@ -508,6 +509,7 @@ export default {
     ru: 'Показывать монстров',
     hu: 'Szörnyek mutatása',
     pt: 'Mostrar monstros',
-    fr: 'Afficher les monstres'
+    fr: 'Afficher les monstres',
+    nl: 'Laat monsters zien'
   }
 }
