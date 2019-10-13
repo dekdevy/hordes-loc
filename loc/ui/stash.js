@@ -21,7 +21,8 @@ export default {
     ht: 'Ou dwe rete jiskaske ou ka rekipere atik sa a.',
     el: 'Πρέπει να παρακολουθείτε μέχρι να μπορείτε να ανακτήσετε αυτό το στοιχείο.',
     da: 'Du skal til, indtil du kan hente denne vare.',
-    zh: '您必须等到可以取回这个装备。'
+    zh: '您必须等到可以取回这个装备。',
+    hu: 'Várnod kell még hogy visszaszerezhesd ezt a tárgyat.'
   },
 
   withdraw: {
@@ -46,7 +47,8 @@ export default {
     el: 'Αποσύρω',
     bg: 'Теглене',
     da: 'Træk',
-    zh: '退出'
+    zh: '退出',
+    hu: 'Pénz Kivétele'
   },
 
   // Do not translate "Stash".
@@ -71,7 +73,8 @@ export default {
     ja: '隠し場所に移動',
     ro: 'Mută în Stash.',
     da: 'Flyt til Stash',
-    zh: '转到保管'
+    zh: '转到保管',
+    hu: 'Stash küldés'
   },
 
   // Do not translate "Stash".
@@ -96,7 +99,8 @@ export default {
     bg: '$1 е преместен в Stash ви.',
     da: '$1 er flyttet til din Stash.',
     ko: '$1 가 숨겨지기로 옮겼습니다.',
-    zh: '$1 被转移到了你的保管'
+    zh: '$1 被转移到了你的保管',
+    hu: 'A Stash fiókodba került: $1'
   }
 
 }
