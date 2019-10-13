@@ -10,7 +10,8 @@ export default {
       hu: 'Statpontok újraszervezése ( $g$1 ).',
       pt: 'Reinicie os meus pontos de stat ( $g$1 ).',
       fr: 'Réinitialisez mes points d\'aptitudes ( $g$1 ).',
-      nl: 'Reset mijn status punten ( $g$1 ).'
+      nl: 'Reset mijn status punten ( $g$1 ).',
+      es: 'Restablecer mis puntos de estadísticas ( $g$1 ).'
     }]
   }]
 }
