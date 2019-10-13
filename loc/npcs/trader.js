@@ -32,7 +32,8 @@ export default {
     }, {
       en: 'Reset my stat points ( $1 coins).',
       ru: 'Сброс мои очки статов ( $1 монет).',
-      hu: 'Statpontok újraszervezése ( $1 arany).'
+      hu: 'Statpontok újraszervezése ( $1 arany).',
+      pt: 'Reinicie os meus pontos de stat ( $1 moedas).'
     }]
   }],
 
