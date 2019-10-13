@@ -11,7 +11,8 @@ export default {
       fr: 'Damage',
       ru: 'Урон',
       pt: 'Dano',
-      tr: 'Hasar'
+      tr: 'Hasar',
+      hu: 'Sebzés'
     }
   },
 
@@ -22,7 +23,8 @@ export default {
       fr: 'Force',
       ru: 'Сила',
       pt: 'Força',
-      tr: 'Dayankl.'
+      tr: 'Dayankl.',
+      hu: 'Erő'
     },
 
     {
@@ -31,6 +33,7 @@ export default {
       ru: 'Стойкость',
       pt: 'Vigor',
       tr: 'Direnç'
+      // hu: 'Állóképesség'
     },
 
     {
@@ -39,6 +42,7 @@ export default {
       ru: 'Ловкость',
       pt: 'Destreza',
       tr: 'Çeviklik'
+      // hu: 'Mozgékonyság'
     },
 
     {
@@ -46,7 +50,8 @@ export default {
       ru: 'Интеллект',
       fr: 'Intelligence',
       pt: 'Inteligência',
-      tr: 'Zekâ'
+      tr: 'Zekâ',
+      hu: 'Intelligencia'
     },
 
     {
@@ -55,6 +60,7 @@ export default {
       ru: 'Мудрость',
       pt: 'Sabdr.',
       tr: 'Bilgelik'
+      // hu: 'Bölcsesség'
     },
 
     {
@@ -62,7 +68,8 @@ export default {
       fr: 'Chance',
       ru: 'Удача',
       pt: 'Sorte',
-      tr: 'Şans'
+      tr: 'Şans'z
+      // hu: 'Szerencse'
     },
 
     {
@@ -86,7 +93,8 @@ export default {
       ru: 'Мин Урн.',
       pt: 'Dano Mín',
       fr: 'Min Dmg.',
-      tr: 'Min Hasar'
+      tr: 'Min Hasar',
+      hu: 'Leg. Sebz.'
     },
 
     {
@@ -94,7 +102,8 @@ export default {
       ru: 'Макс Урн.',
       pt: 'Dano Máx',
       fr: 'Max Dmg.',
-      tr: 'Max Hasar'
+      tr: 'Max Hasar',
+      hu: 'Max. Sebz.'
     },
 
     {
@@ -102,7 +111,8 @@ export default {
       fr: 'Défense',
       ru: 'Защита',
       pt: 'Defesa',
-      tr: 'Defans'
+      tr: 'Defans',
+      hu: ''
     },
 
     {
@@ -110,7 +120,8 @@ export default {
       ru: 'Блок',
       fr: 'Parade',
       pt: 'Bloquе.',
-      tr: 'Blok'
+      tr: 'Blok',
+      hu: 'Védés'
 
     },
 
@@ -120,6 +131,7 @@ export default {
       ru: 'Уклон.',
       fr: 'Esquive',
       tr: 'Kaçınma'
+      // hu: 'Elkerülés'
     },
 
     {
@@ -127,7 +139,8 @@ export default {
       fr: 'Précision',
       ru: 'Точность',
       pt: 'Precisão',
-      tr: 'Hedef Alma'
+      tr: 'Hedef Alma',
+      hu: 'Pontosság'
     },
 
     {
@@ -135,7 +148,8 @@ export default {
       ru: 'Крит. Шанс',
       fr: 'Critique',
       pt: 'Crítico',
-      tr: 'Kritik'
+      tr: 'Kritik',
+      hu: 'Kritikus'
     },
 
     {
@@ -143,6 +157,7 @@ export default {
       fr: 'Vit. Mouv.',
       ru: 'Скорость',
       pt: 'Velocidade'
+      // hu: 'Mozgási Seb.'
     },
 
     {
@@ -150,14 +165,16 @@ export default {
       ru: 'Быстр.',
       pt: 'Rapidez',
       fr: 'Célérité',
-      tr: 'Çabukluk'
+      tr: 'Çabukluk',
+      hu: 'Sietség'
     },
 
     {
       en: 'Attack Spd.',
       ru: 'Скорость Атк.',
       fr: 'Vit. Attq',
-      pt: 'Rapidez Atq.'
+      pt: 'Rapidez Atq.',
+      hu: 'Támadási Seb.'
     },
 
     {
@@ -165,27 +182,31 @@ export default {
       ru: 'Выпадение',
       fr: 'Trouvaille',
       pt: 'Enctr. Item'
+      // hu: 'Tárgy Találás'
     },
 
     {
       en: 'Bag Slots',
       ru: 'Слоты Сумки',
       pt: 'Espaço',
-      fr: 'Espace Sac'
+      fr: 'Espace Sac',
+      hu: 'Hátizsák'
     },
 
     {
       en: 'Fame',
       ru: 'Слава',
       fr: 'Gloire',
-      pt: 'Fama'
+      pt: 'Fama',
+      hu: 'Hírnév'
     },
 
     {
       en: 'Stat Points',
       ru: 'Очки Статов',
       fr: 'Points Stat',
-      pt: 'Pontos de Stat'
+      pt: 'Pontos de Stat',
+      hu: 'Stat Pontok'
     },
 
     {
@@ -193,27 +214,31 @@ export default {
       ru: 'Очки Умений',
       fr: 'Points Comp.',
       pt: 'Pontos de Hab.'
+      // hu: 'Képesség Pontok'
     },
 
     {
       en: '% Increased Dmg.',
       fr: '% Dmg Améliorés',
       ru: '% Увеличения Урона',
-      pt: '% Dano Aumentado'
+      pt: '% Dano Aumentado',
+      hu: '% Megnövelt Sebz.'
     },
 
     {
       en: '% Increased Aggro Generation',
       ru: '% Увеличения Агрессии',
       fr: '% Génération d\'aggro Améliorée',
-      pt: '% Aggro Gerado'
+      pt: '% Aggro Gerado',
+      hu: '% Megnövelt Aggro Képzés'
     },
 
     {
       en: '% Movement Spd. Reduction',
       fr: '% Réduction Vit. Mouv.',
       ru: '% Cнижения Скор. Движения',
-      pt: '% Redução de Velocidade'
+      pt: '% Redução de Velocidade',
+      hu: '% Mozgási Seb. Csökkentés'
     }
   ]
 }
