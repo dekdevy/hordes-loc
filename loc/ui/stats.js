@@ -174,7 +174,7 @@ export default {
       ru: 'Скорость Атк.',
       fr: 'Vit. Attq',
       pt: 'Rapidez Atq.',
-      es: 'Atacar Rapido.'
+      es: 'Atacar Rápido.'
     },
 
     {
@@ -206,7 +206,7 @@ export default {
       ru: 'Очки Статов',
       fr: 'Points Stat',
       pt: 'Pontos de Stat',
-      es: 'Puntos de Stad'
+      es: 'Puntos Stad'
     },
 
     {
@@ -214,7 +214,7 @@ export default {
       ru: 'Очки Умений',
       fr: 'Points Comp.',
       pt: 'Pontos de Hab.',
-      es: 'Puntos de Habilidad'
+      es: 'Puntos Hábiles'
     },
 
     {
@@ -230,7 +230,7 @@ export default {
       ru: '% Увеличения Агрессии',
       fr: '% Génération d\'aggro Améliorée',
       pt: '% Aggro Gerado',
-      es: '% Aumento de la Generación de Aggro'
+      es: '% Aumento a Generación Aggro'
     },
 
     {
@@ -238,7 +238,7 @@ export default {
       fr: '% Réduction Vit. Mouv.',
       ru: '% Cнижения Скор. Движения',
       pt: '% Redução de Velocidade',
-      es: '% Velocidad de Movimiento. Reducción'
+      es: '% Movimiento Rápido. Reducción'
     }
   ]
 }
