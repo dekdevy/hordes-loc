@@ -67,11 +67,13 @@ const factions = [
 import blacksmith from './npcs/blacksmith.js'
 import conjurer from './npcs/conjurer.js'
 import merchant from './npcs/merchant.js'
+import sage from './npcs/sage.js'
 import stash from './npcs/stash.js'
 import trader from './npcs/trader.js'
 const npcs = {
   conjurer,
   trader,
+  sage,
   merchant,
   stash,
   blacksmith
