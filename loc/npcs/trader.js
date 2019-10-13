@@ -27,10 +27,13 @@ export default {
 
     choices: [{
       en: 'Show me your wares.',
-      ru: 'Покажи мне свои товары.'
+      ru: 'Покажи мне свои товары.',
+      hu: 'Mutasd az áruidat'
     }, {
       en: 'Reset my stat points ( $g$1 ).',
-      ru: 'Сброс мои очки статов ( $g$1 ).'
+      ru: 'Сброс мои очки статов ( $g$1 ).',
+      hu: 'Statpontok újraszervezése ( $g$1 ).',
+      pt: 'Reinicie os meus pontos de stat ( $g$1 ).'
     }]
   }],
 
