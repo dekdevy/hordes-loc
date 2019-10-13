@@ -55,7 +55,8 @@ export default {
     en: 'Key bindings',
     ru: 'Привязки клавиш',
     pt: 'Combinações de teclas',
-    fr: 'Assignation des touches'
+    fr: 'Assignation des touches',
+    nl: 'Knop verbindingen'
   },
 
   pointerlock: {
@@ -213,7 +214,8 @@ export default {
   ssao: {
     en: 'Ambient Occlusion',
     fr: 'Occlusion Ambiante',
-    pt: 'Oclusão Ambiental'
+    pt: 'Oclusão Ambiental',
+    nl: 'Omgevingsocclusie'
   },
 
   grass: {
@@ -236,7 +238,8 @@ export default {
     en: 'Particles',
     ru: 'Частицы',
     fr: 'Particules',
-    pt: 'Partículas'
+    pt: 'Partículas',
+    nl: 'Deeltjes'
   },
 
   detailprops: {
@@ -274,7 +277,7 @@ export default {
     en: 'SFX Volume',
     ru: 'Громкость Эффектов',
     de: 'SFX Lautstärke',
-    nl: 'SFX Harder',
+    nl: 'SFX Volume',
     pt: 'Volume de SFX',
     pl: 'Objętość SFX',
     it: 'Volume SFX',
@@ -302,7 +305,7 @@ export default {
     es: 'Chat',
     de: 'Chat',
     fr: 'Chat',
-    nl: 'praten',
+    nl: 'Chat',
     tr: 'sohbet',
     pt: 'Chat',
     pl: 'pogawędka',
@@ -323,11 +326,13 @@ export default {
     en: 'Show chat bubbles',
     ru: 'Показавать чат пузеры',
     fr: 'Afficher les bulles de chat',
-    pt: 'Mostrar bolhas de chat'
+    pt: 'Mostrar bolhas de chat',
+    nl: 'Laat chat bubbels zien'
   },
 
   combatlog: {
-    en: 'Combat Log'
+    en: 'Combat Log',
+    nl: 'Gevechts log
   },
 
   // ---- User interface
@@ -447,7 +452,8 @@ export default {
     el: 'επαναφορά φροντιστήριο',
     tl: 'i-reset ang tutorial',
     ro: 'Resetează tutorialul',
-    da: 'Nulstil tutorial'
+    da: 'Nulstil tutorial',
+    nl: 'Reset handleiding
   },
 
   disabletutorial: {
@@ -455,6 +461,7 @@ export default {
     ru: 'Отключить обучения',
     tr: 'Öğreticiyi kapat',
     fr: 'Désactiver le tutoriel',
-    pt: 'Desativar o Tutorial'
+    pt: 'Desativar o tutorial',
+    nl: 'Handleiding uitschakelen'
   }
 }
