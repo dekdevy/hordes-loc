@@ -228,7 +228,7 @@ export default {
     fr: 'Occlusion Ambiante',
     pt: 'Oclusão Ambiental',
     nl: 'Omgevingsocclusie',
-    hu: 'Környezet okklúzió',
+    hu: 'Környezet okklúzió'
   },
 
   grass: {
@@ -466,7 +466,7 @@ export default {
     es: 'Reiniciar tutorial',
     de: 'Tutorial zurücksetzen',
     fr: 'Réinitialiser le tutoriel',
-    nl: 'Gereset les',
+    nl: 'Reset handleiding',
     tr: 'Öğreticiyi sıfırla',
     pt: 'Recomeçar o tutorial',
     pl: 'resetowanie samouczka',
@@ -481,7 +481,6 @@ export default {
     tl: 'i-reset ang tutorial',
     ro: 'Resetează tutorialul',
     da: 'Nulstil tutorial',
-    nl: 'Reset handleiding',
     hu: 'Bemutató újrakezdése'
   },
 
