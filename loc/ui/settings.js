@@ -345,7 +345,7 @@ export default {
 
   combatlog: {
     en: 'Combat Log',
-    nl: 'Gevechts log
+    nl: 'Gevechts log'
   },
 
   // ---- User interface
