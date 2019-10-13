@@ -33,7 +33,7 @@ export default {
       ru: 'Стойкость',
       pt: 'Vigor',
       tr: 'Direnç'
-      // hu: 'Állóképesség'
+      hu: 'Vitalitás'
     },
 
     {
@@ -42,7 +42,7 @@ export default {
       ru: 'Ловкость',
       pt: 'Destreza',
       tr: 'Çeviklik'
-      // hu: 'Mozgékonyság'
+      hu: 'Fürgeség'
     },
 
     {
@@ -60,7 +60,7 @@ export default {
       ru: 'Мудрость',
       pt: 'Sabdr.',
       tr: 'Bilgelik'
-      // hu: 'Bölcsesség'
+      hu: 'Bölcslt.'
     },
 
     {
@@ -69,7 +69,7 @@ export default {
       ru: 'Удача',
       pt: 'Sorte',
       tr: 'Şans'
-      // hu: 'Szerencse'
+      hu: 'Esély'
     },
 
     {
@@ -112,7 +112,7 @@ export default {
       ru: 'Защита',
       pt: 'Defesa',
       tr: 'Defans',
-      hu: ''
+      hu: 'Védelem'
     },
 
     {
@@ -121,7 +121,7 @@ export default {
       fr: 'Parade',
       pt: 'Bloquе.',
       tr: 'Blok',
-      hu: 'Védés'
+      hu: 'Blokk'
 
     },
 
@@ -131,7 +131,7 @@ export default {
       ru: 'Уклон.',
       fr: 'Esquive',
       tr: 'Kaçınma'
-      // hu: 'Elkerülés'
+      hu: 'Kitérés'
     },
 
     {
@@ -157,7 +157,7 @@ export default {
       fr: 'Vit. Mouv.',
       ru: 'Скорость',
       pt: 'Velocidade'
-      // hu: 'Mozgási Seb.'
+      hu: 'Mozgás'
     },
 
     {
@@ -182,7 +182,7 @@ export default {
       ru: 'Выпадение',
       fr: 'Trouvaille',
       pt: 'Enctr. Item'
-      // hu: 'Tárgy Találás'
+      hu: 'Tárgylelés'
     },
 
     {
