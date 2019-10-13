@@ -497,11 +497,13 @@ export default {
   // ---- map
   maplowqual: {
     en: 'Low quality mode',
-    ru: 'Режим низкого качества'
+    ru: 'Режим низкого качества',
+    hu: 'Alacsony minőségű mód'
   },
 
   mapshowmonsters: {
     en: 'Show monsters',
-    ru: 'Показывать монстров'
+    ru: 'Показывать монстров',
+    hu: 'Szörnyek mutatása'
   }
 }
