@@ -236,7 +236,8 @@ export default {
     ru: 'Трава',
     fr: 'Herbe',
     pt: 'Grama',
-    nl: 'Gras'
+    nl: 'Gras',
+    hu: 'Fű'
   },
 
   clouds: {
@@ -244,7 +245,8 @@ export default {
     ru: 'Облака',
     fr: 'Nuages',
     pt: 'Nuvens',
-    nl: 'Wolken'
+    nl: 'Wolken',
+    hu: 'Felhők'
   },
 
   particles: {
@@ -252,12 +254,15 @@ export default {
     ru: 'Частицы',
     fr: 'Particules',
     pt: 'Partículas',
-    nl: 'Deeltjes'
+    nl: 'Deeltjes',
+    hu: 'Effekt-részecskék'
   },
 
   detailprops: {
     en: 'Detail props',
-    nl: 'Detail Voorwerpen'
+    ru: 'Детальные пропи',
+    nl: 'Detail Voorwerpen',
+    hu: 'Részletes objektumok'
   },
 
   // ---- Audio
@@ -283,7 +288,8 @@ export default {
     ja: 'オーディオ',
     tl: 'Audio',
     da: 'Lyd',
-    zh: '音频'
+    zh: '音频',
+    hu: 'Hang'
   },
 
   sfxvolume: {
@@ -307,7 +313,8 @@ export default {
     ko: 'SFX 볼륨',
     ja: 'SFXボリューム',
     tl: 'Dami ng SFX',
-    da: 'Volumen af SFX'
+    da: 'Volumen af SFX',
+    hu: 'SFX-hangerő '
   },
 
   // ---- Chat
@@ -332,7 +339,8 @@ export default {
     el: 'κουβέντα',
     tl: 'Chat',
     ro: 'Chat',
-    da: 'Chat'
+    da: 'Chat',
+    hu: 'Cset'
   },
 
   chatbubbles: {
@@ -340,12 +348,15 @@ export default {
     ru: 'Показавать чат пузеры',
     fr: 'Afficher les bulles de chat',
     pt: 'Mostrar bolhas de chat',
-    nl: 'Laat chat bubbels zien'
+    nl: 'Laat chat bubbels zien',
+    hu: 'Csetbuborékok mutatása'
   },
 
   combatlog: {
     en: 'Combat Log',
-    nl: 'Gevechts log'
+    ru: 'Боевой лог',
+    nl: 'Gevechts log',
+    hu: 'Harci kisnapló'
   },
 
   // ---- User interface
@@ -370,7 +381,8 @@ export default {
     ko: '인터페이스',
     ja: 'インタフェース',
     tl: 'Interface',
-    da: 'Grænseflade'
+    da: 'Grænseflade',
+    hu: 'Felület'
   },
 
   language: {
@@ -394,7 +406,8 @@ export default {
     ko: '언어',
     ja: '言語',
     tl: 'Wika',
-    da: 'Sprog'
+    da: 'Sprog',
+    hu: 'Nyelv'
   },
 
   invwidth: {
@@ -417,7 +430,8 @@ export default {
     da: 'Lagerbredde',
     ko: '인벤토리 너비',
     ht: 'Lajè Envantè',
-    ja: '在庫の幅'
+    ja: '在庫の幅',
+    hu: 'Hátizsák szélesség'
   },
 
   tutorial: {
@@ -441,7 +455,8 @@ export default {
     el: 'φροντιστήριο',
     tl: 'Pagtuturo',
     ro: 'Tutorial',
-    da: 'Tutorial'
+    da: 'Tutorial',
+    hu: 'Bemutató'
   },
 
   resettutorial: {
@@ -466,7 +481,8 @@ export default {
     tl: 'i-reset ang tutorial',
     ro: 'Resetează tutorialul',
     da: 'Nulstil tutorial',
-    nl: 'Reset handleiding
+    nl: 'Reset handleiding',
+    hu: 'Bemutató újrakezdése'
   },
 
   disabletutorial: {
@@ -475,6 +491,7 @@ export default {
     tr: 'Öğreticiyi kapat',
     fr: 'Désactiver le tutoriel',
     pt: 'Desativar o tutorial',
-    nl: 'Handleiding uitschakelen'
+    nl: 'Handleiding uitschakelen',
+    hu: 'Bemutató elrejtése'
   }
 }
