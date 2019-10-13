@@ -29,12 +29,14 @@ export default {
       en: 'Show me your wares.',
       ru: 'Покажи мне свои товары.',
       hu: 'Mutasd az áruidat',
-      pt: 'Mostra-me os teus produtos.'
+      pt: 'Mostra-me os teus produtos.',
+      fr: 'Montrez moi vos articles'
     }, {
       en: 'Reset my stat points ( $g$1 ).',
       ru: 'Сброс мои очки статов ( $g$1 ).',
       hu: 'Statpontok újraszervezése ( $g$1 ).',
-      pt: 'Reinicie os meus pontos de stat ( $g$1 ).'
+      pt: 'Reinicie os meus pontos de stat ( $g$1 ).',
+      fr: 'Réinitialisez mes points d\'aptitudes ( $g$1 ).'
     }]
   }],
 
