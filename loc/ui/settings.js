@@ -496,10 +496,12 @@ export default {
 
   // ---- map
   maplowqual: {
-    en: 'Low quality mode'
+    en: 'Low quality mode',
+    ru: 'Режим низкого качества'
   },
 
   mapshowmonsters: {
-    en: 'Show monsters'
+    en: 'Show monsters',
+    ru: 'Показывать монстров'
   }
 }
