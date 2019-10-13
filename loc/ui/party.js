@@ -26,7 +26,8 @@ export default {
     tl: 'Party imbitahan',
     ro: 'Invitație la Party',
     da: 'Invitere til Party',
-    zh: '邀请加入 Party'
+    zh: '邀请加入 Party',
+    hu: 'Party meghívás'
   },
 
   // DO NOT translate "Party"
@@ -52,7 +53,8 @@ export default {
     tl: 'Party sipa',
     ro: 'Lovitură de Party',
     da: 'Kick ud af Party',
-    zh: '踢出 Party'
+    zh: '踢出 Party',
+    hu: 'Kirúgás a Party'
   },
 
   // DO NOT translate "Party"
@@ -78,7 +80,8 @@ export default {
     tl: 'Iwanan ang Party',
     ro: 'Părăsește Party',
     da: 'Forlad Party',
-    zh: '离开 Party'
+    zh: '离开 Party',
+    hu: 'Party Elhagyása'
   },
 
   // DO NOT translate "Party"
@@ -104,7 +107,8 @@ export default {
     tl: 'Lumikha ng Party',
     ro: 'Creează Party',
     da: 'Opret Party',
-    zh: '创建 Party'
+    zh: '创建 Party',
+    hu: 'Party Alapítása'
   },
 
   // DO NOT translate "Party"
@@ -130,7 +134,8 @@ export default {
     tl: 'Inanyayahan ka ng $1 na sumali sa kanilang Party.',
     ro: '$1 te-a invitat să te alături Party-ului',
     da: '$1 har inviteret dig til at deltage i deres Party.',
-    zh: '$1 邀请你加入他们的 Party.'
+    zh: '$1 邀请你加入他们的 Party.',
+    hu: '$1 meghívott hogy csatlakozz a Party.'
   },
 
   // nearby, as in "12 members nearby"
@@ -154,7 +159,8 @@ export default {
     ja: 'あなたの近くに',
     hi: 'आपके करीब',
     ht: 'tou pre ou',
-    zh: '在附近'
+    zh: '在附近',
+    hu: 'a közelben'
   },
 
   link: {
@@ -178,7 +184,8 @@ export default {
     el: 'Σύνδεσμος πρόσκλησης',
     tl: 'Link ng Imbitasyon',
     ro: 'Link-ul invitației',
-    da: 'Invitation Link'
+    da: 'Invitation Link',
+    hu: 'Portyameghívó link'
   },
 
   // DO NOT translate "Party"
@@ -203,7 +210,8 @@ export default {
     el: 'Στείλτε αυτό το σύνδεσμο σε άλλους παίκτες! Αυτό θα τους επιτρέψει να ενταχθούν στο Party σας.',
     tl: 'Ipadala ang link na ito sa ibang mga manlalaro! Ito ay magpapahintulot sa kanila na sumali sa iyong Party.',
     ro: 'Trimi-te acest link altor jucători! Le va permite să se alăture Party-ului tău.',
-    da: 'Send dette link til andre spillere! Dette vil give dem mulighed for at deltage i din Party.'
+    da: 'Send dette link til andre spillere! Dette vil give dem mulighed for at deltage i din Party.',
+    hu: 'Küldd el ezt más játékosoknak, hogy beléphessenek a Party.'
   },
 
   copyLink: {
@@ -231,7 +239,8 @@ export default {
     el: 'Αντιγραφή στο πρόχειρο',
     tl: 'Kopyahin sa clipboard',
     ro: 'Copiați în clipboard',
-    da: 'Kopier til buffer'
+    da: 'Kopier til buffer',
+    hu: 'Másold a vágólapra'
   },
 
   summon: {
@@ -240,7 +249,9 @@ export default {
     cs: 'Svolej',
     pt: 'Invokar',
     es: 'Invokar',
-    pl: 'Wezwać'
+    pl: 'Wezwać',
+    fr: 'Convoquer',
+    hu: 'Idézés'
   },
 
   onSummon: {
@@ -249,36 +260,43 @@ export default {
     pt: '$1 está a oferecer invocar te na localização dele.',
     es: '$1 está ofreciendo invocarte en su ubicación.',
     pl: '$1 proponuje, że zaprosi cię do siebie.',
-    tr: '$1 seni yanına çağırıyor.'
+    tr: '$1 seni yanına çağırıyor.',
+    hu: '$1 felajánlotta hogy magához idéz.'
   },
 
+  // Do not translate "Assistant".
   giveAssistant: {
     en: 'Promote to Assistant',
-    ru: 'Повысить до Ассистента',
-    cs: 'Povýšte na Pomocník',
-    pt: 'Promover para Assistente',
-    es: 'Asciende a Asistente',
-    pl: 'Promuj na Asystenta',
-    tr: 'Asistanlığa Terfi Ettir'
+    ru: 'Повысить до Assistant',
+    cs: 'Povýšte na Assistant',
+    pt: 'Promover para Assistant',
+    es: 'Asciende a Assistant',
+    pl: 'Promuj na Assistant',
+    tr: 'Assistant Terfi Ettir',
+    hu: 'Előléptetés Assistant'
   },
 
+  // Do not translate "Leader".
   giveLeader: {
     en: 'Promote to Leader',
-    ru: 'Повысить до Лидера',
-    cs: 'Povýšte na Vedoucí',
-    pt: 'Promover para Líder',
-    es: 'Asciende a Líder',
-    pl: 'Promuj na Lider',
-    tr: 'Liderliğe Terfi Ettir'
+    ru: 'Повысить до Leader',
+    cs: 'Povýšte na Leader',
+    pt: 'Promover para Leader',
+    es: 'Asciende a Leader',
+    pl: 'Promuj na Leader',
+    tr: 'Leader Terfi Ettir',
+    hu: 'Előléptetés Leader'
   },
 
+  // Do not translate"Assistant".
   removeAssistant: {
     en: 'Demote Assistant',
-    ru: 'Уволить Ассистента',
-    cs: 'Odebrat Vedoucí',
-    pt: 'Remover Assistente',
-    es: 'Quitar Asistente',
-    pl: 'Usunąć Asystenta',
-    tr: 'Asistanlıktan Çıkar'
+    ru: 'Уволить Assistant',
+    cs: 'Odebrat Assistant',
+    pt: 'Remover Assistant',
+    es: 'Quitar Assistant',
+    pl: 'Usunąć Assistant',
+    tr: 'Assistant Çıkar',
+    hu: 'Assistant Visszabuktatása'
   }
 }
