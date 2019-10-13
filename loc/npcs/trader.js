@@ -29,8 +29,8 @@ export default {
       en: 'Show me your wares.',
       ru: 'Покажи мне свои товары.'
     }, {
-      en: 'Reset my stat points ( $1 coins).',
-      ru: 'Сброс мои очки статов ( $1 монет).'
+      en: 'Reset my stat points ( $g$1 ).',
+      ru: 'Сброс мои очки статов ( $g$1 ).'
     }]
   }],
 
