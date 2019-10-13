@@ -22,7 +22,8 @@ export default {
     tl: 'Mga setting',
     ro: 'Setări',
     da: 'Indstillinger',
-    zh: '设置'
+    zh: '设置',
+    hu: 'Beállítások'
   },
 
   // ---- Controls
@@ -48,7 +49,8 @@ export default {
     tl: 'Mga kontrol',
     ro: 'Controale',
     da: 'Controls',
-    zh: '控制'
+    zh: '控制',
+    hu: 'Irányítás'
   },
 
   keybindings: {
@@ -56,7 +58,8 @@ export default {
     ru: 'Привязки клавиш',
     pt: 'Combinações de teclas',
     fr: 'Assignation des touches',
-    nl: 'Knop verbindingen'
+    nl: 'Knop verbindingen',
+    hu: 'Billentyűparancsok'
   },
 
   pointerlock: {
@@ -64,7 +67,8 @@ export default {
     ru: 'Скрыть мышь во время вращения',
     pt: 'Ocultar o rato durante a rotação.',
     fr: 'Cacher la souris pendant les rotations',
-    nl: 'Verstop rechter muis knop tijdens rotatie'
+    nl: 'Verstop rechter muis knop tijdens rotatie',
+    hu: 'Egérmutató elrejtése forgáskor'
   },
 
   lockedcamera: {
@@ -89,7 +93,8 @@ export default {
     tl: 'Naka-lock na camera',
     ro: 'Blochează camera',
     da: 'Låst kamera',
-    zh: '锁定相机'
+    zh: '锁定相机',
+    hu: 'Lezárt kamera'
   },
 
   // ---- Graphics
@@ -115,7 +120,8 @@ export default {
     tl: 'Grapika',
     ro: 'Grafică',
     da: 'Grafik',
-    zh: '图像'
+    zh: '图像',
+    hu: 'Grafika'
   },
 
   viewrange: {
@@ -140,7 +146,8 @@ export default {
     ja: '表示範囲',
     tl: 'Tingnan ang saklaw',
     da: 'Omfang af synet',
-    zh: '远景范围'
+    zh: '远景范围',
+    hu: 'Látótávolság'
   },
 
   resolution: {
@@ -165,7 +172,8 @@ export default {
     tl: 'Resolution',
     ro: 'Rezoluție',
     da: 'Løsning',
-    zh: '解析度'
+    zh: '解析度',
+    hu: 'Felbontás'
   },
 
   postprocessing: {
@@ -175,7 +183,8 @@ export default {
     tr: 'Detaylandırma',
     fr: 'Post-traitement',
     pt: 'Pós-processamento.',
-    nl: 'Nawerking'
+    nl: 'Nawerking',
+    hu: 'Elő-tömörítés'
   },
 
   skilleffects: {
@@ -200,7 +209,8 @@ export default {
     tl: 'Mga epekto sa kasanayan',
     ro: 'Efectele Abilităților',
     da: 'Færdighedseffekter',
-    zh: '技能影响'
+    zh: '技能影响',
+    hu: 'Képesség effektusok'
   },
 
   shadows: {
@@ -208,14 +218,17 @@ export default {
     ru: 'Тени',
     fr: 'Ombres',
     pt: 'Sombras',
-    nl: 'Schaduwen'
+    nl: 'Schaduwen',
+    hu: 'Árnyékok'
   },
 
   ssao: {
     en: 'Ambient Occlusion',
+    ru: 'Окружающая Окклюзия',
     fr: 'Occlusion Ambiante',
     pt: 'Oclusão Ambiental',
-    nl: 'Omgevingsocclusie'
+    nl: 'Omgevingsocclusie',
+    hu: 'Környezet okklúzió',
   },
 
   grass: {
