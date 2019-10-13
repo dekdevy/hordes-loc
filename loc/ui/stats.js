@@ -164,7 +164,7 @@ export default {
       en: 'Item Find',
       ru: 'Выпадение',
       fr: 'Trouvaille',
-      pt: 'Encontrar Item'
+      pt: 'Enctr. Item'
     },
 
     {
