@@ -68,7 +68,7 @@ export default {
       fr: 'Chance',
       ru: 'Удача',
       pt: 'Sorte',
-      tr: 'Şans'z
+      tr: 'Şans'
       // hu: 'Szerencse'
     },
 
