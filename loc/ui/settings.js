@@ -492,5 +492,14 @@ export default {
     pt: 'Desativar o tutorial',
     nl: 'Handleiding uitschakelen',
     hu: 'Bemutató elrejtése'
+  },
+
+  // ---- map
+  maplowqual: {
+    en: 'Low quality mode'
+  },
+
+  mapshowmonsters: {
+    en: 'Show monsters'
   }
 }
