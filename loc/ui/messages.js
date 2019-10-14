@@ -57,7 +57,7 @@ export default {
     en: '$1 has joined your party.',
     ru: '$1 вступил в вашу Party.',
     pt: '$1 juntou-se à sua party.',
-    hu: '$1  belépett a portyádba.'
+    hu: '$1 belépett a portyádba.'
   },
   partyMemberLeave: {
     en: '$1 has left your party.',
