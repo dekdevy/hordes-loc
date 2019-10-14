@@ -32,7 +32,7 @@ export default {
       fr: 'Endurance',
       ru: 'Стойкость',
       pt: 'Vigor',
-      tr: 'Direnç'
+      tr: 'Direnç',
       hu: 'Vitalitás'
     },
 
@@ -41,7 +41,7 @@ export default {
       fr: 'Dextérité',
       ru: 'Ловкость',
       pt: 'Destreza',
-      tr: 'Çeviklik'
+      tr: 'Çeviklik',
       hu: 'Fürgeség'
     },
 
@@ -59,7 +59,7 @@ export default {
       fr: 'Sagesse',
       ru: 'Мудрость',
       pt: 'Sabdr.',
-      tr: 'Bilgelik'
+      tr: 'Bilgelik',
       hu: 'Bölcslt.'
     },
 
@@ -68,7 +68,7 @@ export default {
       fr: 'Chance',
       ru: 'Удача',
       pt: 'Sorte',
-      tr: 'Şans'
+      tr: 'Şans',
       hu: 'Esély'
     },
 
@@ -130,7 +130,7 @@ export default {
       pt: 'Evasão',
       ru: 'Уклон.',
       fr: 'Esquive',
-      tr: 'Kaçınma'
+      tr: 'Kaçınma',
       hu: 'Kitérés'
     },
 
@@ -156,7 +156,7 @@ export default {
       en: 'Move Spd.',
       fr: 'Vit. Mouv.',
       ru: 'Скорость',
-      pt: 'Velocidade'
+      pt: 'Velocidade',
       hu: 'Mozgás'
     },
 
@@ -181,7 +181,7 @@ export default {
       en: 'Item Find',
       ru: 'Выпадение',
       fr: 'Trouvaille',
-      pt: 'Enctr. Item'
+      pt: 'Enctr. Item',
       hu: 'Tárgylelés'
     },
 
