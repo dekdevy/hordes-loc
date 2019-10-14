@@ -135,7 +135,7 @@ export default {
     ro: '$1 te-a invitat să te alături Party-ului',
     da: '$1 har inviteret dig til at deltage i deres Party.',
     zh: '$1 邀请你加入他们的 Party.',
-    hu: '$1 meghívott hogy csatlakozz a Party.'
+    hu: '$1 meghívott a Party.'
   },
 
   // nearby, as in "12 members nearby"
