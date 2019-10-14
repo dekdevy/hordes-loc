@@ -92,7 +92,7 @@ export default {
   partyKickYou: {
     en: 'You have been kicked from the party by $1.',
     ru: '$1 выгнал вас из Party.',
-    pt: 'Você foi expulso da Party pelo $1.'
+    pt: 'Você foi expulso da Party pelo $1.',
     hu: '$1 kirúgott a Partydból.'
   },
   partyKickOther: {
@@ -102,10 +102,10 @@ export default {
     hu: '$1 kirúgott a Partydból.'
   },
   auctionSold: {
-    en: 'Your merchant auction has been sold and $g$1 have been sent to your stash.',
-    ru: 'Ваш торговый аукцион был продан, и в ваш сундук было отправлено $g$1.', // coin equivalent needs to be removed
-    pt: 'O seu leilão do mercado foi vendido e $g$1 moedas foram enviadas para o seu baú.',
-    hu: 'A Merchantnál feladott aukciódat eladták $g$1 aranyért, ami a Stash fiókodba került.'
+    en: 'Your merchant auction has been sold and $g$1 have been sent to your Stash.',
+    ru: 'Ваш торговый аукцион был продан, и в ваш сундук было отправлено $g$1.',
+    pt: 'O seu leilão do mercado foi vendido e $g$1 foram enviadas para o seu Stash.',
+    hu: 'A Merchantnál feladott aukciódat eladták $g$1 aranyért, ami a Stash fiókodba került.' // coin equivalent needs to be removed
   },
   online: {
     en: '$1 has come online.',
