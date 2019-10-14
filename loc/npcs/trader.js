@@ -83,7 +83,7 @@ export default {
     ro: 'Pentru a vinde un element, faceți clic-dreapta sau trageți-l în fereastra comerciantului.',
     zh: '要賣物品，在物品上按右鍵或把它拖入到交易窗口中。',
     tr: 'Bir eşyayı satmak için Shift\'e basılı tutarak eşyaya sağ tıklayın veya eşyayı takas penceresine sürükleyip bırakın.',
-    hu: 'Hogy eladj egy tárgyat, shift+jobbkattints rá, vagy húzd ide a Trader ablakba.'
+    hu: 'Hogy eladj egy tárgyat, shift + jobbkattints rá, vagy húzd ide a Trader ablakba.'
   },
 
   // Include punctuation and space.
