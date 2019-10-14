@@ -22,7 +22,7 @@ export default {
       pl: 'Witamy w najlepszych towarach w okolicy! Nie znajdziesz lepszej oferty niż ta, którą dla ciebie mam, ale słyszę, że istnieje specjalny sklep z fantastycznymi przedmiotami, w przeciwieństwie do czegokolwiek, co kiedykolwiek widziałem. W międzyczasie mam zapasowe monety i zapasowe towary. Czy lubisz coś sprzedawać?',
       ro: 'Bine ai venit la cele mai bune obiecte din împrejurimi! Nu vei găsi o afacere mai bună decât ceea ce am eu pentru tine; cu toate acestea, am auzit că există un magazin special cu elemente fantastice, diferite de orice am văzut vreodată. Între timp, am niște monede și bunuri de rezervă. Îți place să vinzi ceva?',
       zh: '歡迎來到各地最好的商品！ 你不會找到比我給你更好的交易; 然而，我聽說有一個特別的商店，有很棒的物品，不像我見過的任何東西。 與此同時，我有一些備用硬幣和備用貨物。 你想要賣些什麼嗎？',
-      hu: 'Üdvözlöm! Itt találja a legjobb árukat a környéken! Ennél jobb üzletet sehol máshol nem fog látni a világon, de úgy halottam, hogy van egy nagyon különleges bolt olyan tárgyakkal, amilyeneket én még soha életemben nem láttam. De addig is, nálam találsz némi pénzt és egy kevés tartalék árut. Szeretnél bármit is eladni?'
+      hu: 'Üdvözlöm! Itt találja a legjobb árukat a környéken! Ennél jobb üzletet sehol máshol nem fog látni a világon, de úgy halottam, hogy létezik egy nagyon különleges bazár olyan tárgyakkal, amilyeneket én még soha életemben nem láttam. De addig is, nálam találsz némi pénzt és egy kevés tartalék árut. Szeretnél bármit is eladni?'
     },
 
     choices: [{
@@ -83,7 +83,7 @@ export default {
     ro: 'Pentru a vinde un element, faceți clic-dreapta sau trageți-l în fereastra comerciantului.',
     zh: '要賣物品，在物品上按右鍵或把它拖入到交易窗口中。',
     tr: 'Bir eşyayı satmak için Shift\'e basılı tutarak eşyaya sağ tıklayın veya eşyayı takas penceresine sürükleyip bırakın.',
-    hu: 'Hogy eladj egy tárgyat, shift+jobbkattints rá, majd húzd ide a Trader ablakba.'
+    hu: 'Hogy eladj egy tárgyat, shift + jobbkattints rá, vagy húzd ide a Trader ablakba.'
   },
 
   // Include punctuation and space.
