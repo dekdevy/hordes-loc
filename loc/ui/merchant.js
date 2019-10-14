@@ -97,7 +97,7 @@ export default {
     ja: 'オブジェクトを送信',
     da: 'Send Genstand',
     ro: 'Postează Obiectul',
-    hu: 'Tárgy kirakása'
+    hu: 'Áruba bocsátás'
   },
 
   delist: {
