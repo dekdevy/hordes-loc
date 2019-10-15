@@ -54,7 +54,7 @@ export default {
     ro: 'Lovitură de Party',
     da: 'Kick ud af Party',
     zh: '踢出 Party',
-    hu: 'Kirúgás a Partyból'
+    hu: 'Kirúgás a Partydból'
   },
 
   // DO NOT translate "Party"
