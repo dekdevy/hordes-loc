@@ -105,7 +105,7 @@ export default {
     en: 'Your merchant auction has been sold and $g$1 have been sent to your Stash.',
     ru: 'Ваш торговый аукцион был продан, и в ваш сундук было отправлено $g$1.',
     pt: 'O seu leilão do mercado foi vendido e $g$1 foram enviadas para o seu Stash.',
-    hu: 'A Merchantnál feladott aukciódat eladták ennyiért: $g$1. Ez a Stash fiókodba került.' // coin equivalent needs to be removed
+    hu: 'A Merchantnál feladott aukciódat eladták ennyiért: $g$1. Ez a Stash fiókodba került.'
   },
   online: {
     en: '$1 has come online.',
