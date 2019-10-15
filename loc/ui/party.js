@@ -54,7 +54,7 @@ export default {
     ro: 'Lovitură de Party',
     da: 'Kick ud af Party',
     zh: '踢出 Party',
-    hu: 'Kirúgás a Party'
+    hu: 'Kirúgás a Partyból'
   },
 
   // DO NOT translate "Party"
@@ -135,7 +135,7 @@ export default {
     ro: '$1 te-a invitat să te alături Party-ului',
     da: '$1 har inviteret dig til at deltage i deres Party.',
     zh: '$1 邀请你加入他们的 Party.',
-    hu: '$1 meghívott a Party.'
+    hu: '$1 meghívott a Partyjába.'
   },
 
   // nearby, as in "12 members nearby"
@@ -185,7 +185,7 @@ export default {
     tl: 'Link ng Imbitasyon',
     ro: 'Link-ul invitației',
     da: 'Invitation Link',
-    hu: 'Portyameghívó link'
+    hu: 'Partymeghívó link'
   },
 
   // DO NOT translate "Party"
@@ -211,7 +211,7 @@ export default {
     tl: 'Ipadala ang link na ito sa ibang mga manlalaro! Ito ay magpapahintulot sa kanila na sumali sa iyong Party.',
     ro: 'Trimi-te acest link altor jucători! Le va permite să se alăture Party-ului tău.',
     da: 'Send dette link til andre spillere! Dette vil give dem mulighed for at deltage i din Party.',
-    hu: 'Küldd el ezt más játékosoknak, hogy beléphessenek a Party.'
+    hu: 'Küldd el ezt más játékosoknak, hogy beléphessenek a Partydba.'
   },
 
   copyLink: {
@@ -273,7 +273,7 @@ export default {
     es: 'Asciende a Assistant',
     pl: 'Promuj na Assistant',
     tr: 'Assistant Terfi Ettir',
-    hu: 'Előléptetés Assistant'
+    hu: 'Előléptetés Assistanttá'
   },
 
   // Do not translate "Leader".
@@ -285,7 +285,7 @@ export default {
     es: 'Asciende a Leader',
     pl: 'Promuj na Leader',
     tr: 'Leader Terfi Ettir',
-    hu: 'Előléptetés Leader'
+    hu: 'Előléptetés Leaderré'
   },
 
   // Do not translate"Assistant".
