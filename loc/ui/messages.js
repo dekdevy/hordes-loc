@@ -99,7 +99,7 @@ export default {
     en: '$1 was kicked from your party by $2.',
     ru: '$2 выгнал $1 из Party.',
     pt: '$1 foi expulso da sua party pelo $2.',
-    hu: '$1 kirúgott a Partydból.'
+    hu: '$2 kirúgta a Partydból: $1.'
   },
   auctionSold: {
     en: 'Your merchant auction has been sold and $g$1 have been sent to your Stash.',
