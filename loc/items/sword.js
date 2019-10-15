@@ -5,7 +5,7 @@ export default [
     description: {
       en: 'Name says it all. Careful of the splinters.',
       ru: 'Имя говорит само за себя. Остерегайтесь заноз.',
-      es: 'El nombre se dice todo. Ten cuidado de las astillas.',
+      es: 'El nombre lo dice todo. Ten cuidado de las astillas.',
       de: 'Der Name sagt alles. Vorsicht mit den Splittern.',
       fr: 'Le nom en dit long. Attention aux échardes.',
       hi: 'नाम ही काफ़ी है। छितरों से बचे।',
@@ -33,7 +33,7 @@ export default [
       en: 'Not much better than a blunt piece of wood in my opinion.',
       ru: 'Не намного лучше, чем тупой кусок дерева, на мой взгляд.',
       fr: 'À peine meilleure qu\'un morceau de bois émoussé, à mon humble avis.',
-      es: 'No mucho mejor que un trozo de madera en mi opinión.',
+      es: 'No es mucho mejor que un trozo de madera en mi opinión.',
       de: 'Nicht viel besser als ein stumpfes Stück Holz, denke ich.',
       hi: 'मरी राय में यह लकड़ी के कुंद टुकड़े से बेहतर नहीं है।',
       pt: 'Não é muito melhor do que um pedaço de madeira na minha opinião.',
