@@ -59,7 +59,8 @@ export default {
     pt: 'Combinações de teclas',
     fr: 'Assignation des touches',
     nl: 'Knop verbindingen',
-    hu: 'Billentyűparancsok'
+    hu: 'Billentyűparancsok',
+    es: 'Atajos de teclado'
   },
 
   pointerlock: {
@@ -68,7 +69,8 @@ export default {
     pt: 'Ocultar o rato durante a rotação.',
     fr: 'Cacher la souris pendant les rotations',
     nl: 'Verstop rechter muis knop tijdens rotatie',
-    hu: 'Egérmutató elrejtése forgáskor'
+    hu: 'Egérmutató elrejtése forgáskor',
+    es: 'Ocultar el mouse durante la rotación'
   },
 
   lockedcamera: {
@@ -133,7 +135,7 @@ export default {
     pl: 'Zakres widoków',
     it: 'Visualizza la gamma',
     ro: 'Câmp vizual',
-    es: 'Ver gama',
+    es: 'Ver rango',
     sv: 'Visa intervall',
     el: 'Προβολή εύρους',
     bg: 'Преглед на обхвата',
@@ -184,7 +186,8 @@ export default {
     fr: 'Post-traitement',
     pt: 'Pós-processamento.',
     nl: 'Nawerking',
-    hu: 'Elő-tömörítés'
+    hu: 'Elő-tömörítés',
+    es: 'Publicar-procesamiento'
   },
 
   skilleffects: {
@@ -228,7 +231,8 @@ export default {
     fr: 'Occlusion Ambiante',
     pt: 'Oclusão Ambiental',
     nl: 'Omgevingsocclusie',
-    hu: 'Környezet okklúzió'
+    hu: 'Környezet okklúzió',
+    es: 'Oclusión Ambiental'
   },
 
   grass: {
@@ -237,7 +241,8 @@ export default {
     fr: 'Herbe',
     pt: 'Grama',
     nl: 'Gras',
-    hu: 'Fű'
+    hu: 'Fű',
+    es: 'Hierba'
   },
 
   clouds: {
@@ -246,7 +251,8 @@ export default {
     fr: 'Nuages',
     pt: 'Nuvens',
     nl: 'Wolken',
-    hu: 'Felhők'
+    hu: 'Felhők',
+    es: 'Nubes'
   },
 
   particles: {
@@ -255,14 +261,16 @@ export default {
     fr: 'Particules',
     pt: 'Partículas',
     nl: 'Deeltjes',
-    hu: 'Effekt-részecskék'
+    hu: 'Effekt-részecskék',
+    es: 'Partículas'
   },
 
   detailprops: {
     en: 'Detail props',
     ru: 'Детальные пропи',
     nl: 'Detail Voorwerpen',
-    hu: 'Részletes objektumok'
+    hu: 'Részletes objektumok',    
+    es: 'Accesorios de detalle'
   },
 
   // ---- Audio
@@ -356,7 +364,8 @@ export default {
     en: 'Combat Log',
     ru: 'Боевой лог',
     nl: 'Gevechts log',
-    hu: 'Harci kisnapló'
+    hu: 'Harci kisnapló',
+    es: 'Registro de combate'
   },
 
   // ---- User interface
@@ -491,7 +500,8 @@ export default {
     fr: 'Désactiver le tutoriel',
     pt: 'Desativar o tutorial',
     nl: 'Handleiding uitschakelen',
-    hu: 'Bemutató elrejtése'
+    hu: 'Bemutató elrejtése',
+    es: 'Desactivar tutorial'
   },
 
   // ---- map
@@ -501,7 +511,8 @@ export default {
     hu: 'Alacsony minőségű mód',
     pt: 'Modo de qualidade baixa',
     fr: 'Mode basse qualité',
-    nl: 'Lage kwaliteit modus'
+    nl: 'Lage kwaliteit modus',
+    es: 'Modo de baja calidad'
   },
 
   mapshowmonsters: {
@@ -510,6 +521,7 @@ export default {
     hu: 'Szörnyek mutatása',
     pt: 'Mostrar monstros',
     fr: 'Afficher les monstres',
-    nl: 'Laat monsters zien'
+    nl: 'Laat monsters zien',
+    es: 'Mostrar monstruos'
   }
 }
