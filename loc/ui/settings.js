@@ -269,7 +269,7 @@ export default {
     en: 'Detail props',
     ru: 'Детальные пропи',
     nl: 'Detail Voorwerpen',
-    hu: 'Részletes objektumok',    
+    hu: 'Részletes objektumok',
     es: 'Accesorios de detalle'
   },
 
