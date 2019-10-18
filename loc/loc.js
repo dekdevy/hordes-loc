@@ -24,6 +24,7 @@ import bow from './items/bow.js'
 import glove from './items/glove.js'
 import hammer from './items/hammer.js'
 import misc from './items/misc.js'
+import mount from './items/mount.js'
 import orb from './items/orb.js'
 import quiver from './items/quiver.js'
 import ring from './items/ring.js'
@@ -50,6 +51,7 @@ const items = {
   shield,
   staff,
   sword,
+  mount,
   totem
 }
 
@@ -65,11 +67,13 @@ const factions = [
 import blacksmith from './npcs/blacksmith.js'
 import conjurer from './npcs/conjurer.js'
 import merchant from './npcs/merchant.js'
+import sage from './npcs/sage.js'
 import stash from './npcs/stash.js'
 import trader from './npcs/trader.js'
 const npcs = {
   conjurer,
   trader,
+  sage,
   merchant,
   stash,
   blacksmith
@@ -84,9 +88,11 @@ import clan from './ui/clan.js'
 import death from './ui/death.js'
 import general from './ui/general.js'
 import inventory from './ui/inventory.js'
+import messages from './ui/messages.js'
 import party from './ui/party.js'
 import settings from './ui/settings.js'
 import stats from './ui/stats.js'
+import tutorial from './ui/tutorial.js'
 const ui = {
   charmenu,
   chat,
@@ -98,6 +104,8 @@ const ui = {
   stash   : stashui.default,
   stats,
   death,
+  tutorial,
+  messages,
   ...general }
 
 export default {

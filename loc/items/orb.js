@@ -22,7 +22,7 @@ export default [
       ko: '미신에게 행운을 가져다주는 괴상한 덩어리의 뼈.',
       ro: 'O masă grotescă de oase ce aduce noroc superstițioșilor.',
       tl: 'Ang isang nakakatakot na masa ng buto na nagdadala ng kapalaran sa mga mapamahiin',
-      tr: 'İğrenç bir kemik kütlesi. Batıl inançlara inananlara şans getirir.',
+      tr: 'Garip bir kemik kütlesi. Batıl inançlara inananlara şans getirir.',
       da: 'En grotesk masse af ben, der bringer held til de overtroiske.'
     }
   },
@@ -49,7 +49,7 @@ export default [
       ko: '빛의 광선이 당신 주위에 좋은 무지개를 주조,이 영역에 잡힐.',
       ro: 'Raze de lumină sunt prinse în această sferă, eliberând curcubee fine în jurul tău.',
       tl: 'Ang mga sinag ng liwanag ay nahuli sa globo na ito, na naghahain ng magagandang mga rainbows sa paligid mo.',
-      tr: 'Işık ışınları bu küreyi yakalanır, etrafınızda ince bir gökkuşağı belirir.',
+      tr: 'Işık ışınları yakalanıp bu küreye konuldu, etrafınızda hoş gözüken bir gökkuşağı oluşturur.',
       da: 'Lysstråler bliver fanget i denne kugle og støder fint regnbuer omkring dig.'
     }
   },
@@ -124,7 +124,7 @@ export default [
       es: 'Enigmática esfera verde esmeralda, envuelta en finos grabados de profecías serpenteantes que atraen la fama y la serendipia a su portador embrujado.',
       fr: 'Sphère énigmatique vert émeraude, enveloppée de fines gravures de prophéties serpentines qui attirent la gloire et la sérendipité à son porteur ensorcelé.',
       de: 'Rätselhafte smaragdgrüne Kugel, umhüllt von feinen Gravuren serpentinischer Prophezeiungen, die Ruhm und Glücksfall zu ihrem verhexten Träger verleiten.',
-      pt: 'Esfera verde esmeralda enigmática, envolvida em gravuras finas de profecias serpentinas que seduzem a fama e a serendipicidade ao seu portador enfeitiçado.',
+      pt: 'Esfera verde de esmeralda enigmática, envolvida em gravuras finas de profecias serpentinas que seduzem a fama e a serendipicidade ao seu portador enfeitiçado.',
       ko: '수수께끼 같은 에메랄드 색의 녹색 구체로, 뱀 모양의 예언의 조각으로 감싸여 있고,',
       nl: 'Enigmatische smaragdgroene bol, gehuld in fijne gravures van kronkelige profetieën die roem en serendipiteit verleiden tot zijn betoverde drager.',
       pl: 'Enigmatyczna szmaragdowa zielona kula, otoczona drobnymi rycinami przepowiedni serpentynowych, które zwabiły sławę i zaczarowały jej nosiciela.',

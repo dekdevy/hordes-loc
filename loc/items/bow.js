@@ -1,7 +1,7 @@
 export default [
-  { // T1 item name. names are english only!
+  { // Item name. Names are English only!
     name       : {$$: 'Driftwood Shortbow' },
-    // Item description
+    // Item description.
     description: {
       en: 'Almost lightweight. You can probably find something better around.',
       ru: 'Легкий лук. Скорее всего, вы сможете найти что-то получше .',
@@ -15,7 +15,7 @@ export default [
       sv: 'Inte så tung. Du kan nog hitta nåt bättre.',
       tl: 'Halos magaan. Maaari mong mahanap ang isang bagay na mas mahusay sa paligid.',
       ht: 'Prèske lejè. Ou ka pwobableman jwenn yon bagay pi byen alantou.',
-      tr: 'Hafifsiklet bir şey. Muhtemelen etrafta daha iyi bir şeyler bulabilirsin.',
+      tr: 'Neredeyse tüy kadar hafif. Muhtemelen etrafta daha iyi bir şeyler bulabilirsin.',
       hi: 'लगभग हल्का। आस पास आप इससे बहतर चीज़ धून्ध सकते हैं।',
       cs: 'Téměř lehká. Asi můžete najít něco lepšího.',
       el: 'Σχεδόν ελαφρύς. Μπορεί πιθανώς να βρείτε κάτι καλύτερο γύρω.',
@@ -55,7 +55,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Curved shortbow'},
+    name       : {$$: 'Curved Shortbow'},
     description: {
       en: 'This bow is curved to such an extent that it will probably snap at any moment.',
       ru: 'Лук настолько изогнут, что кажется будто он сейчас треснет.',
@@ -64,7 +64,7 @@ export default [
       ro: 'A fost curbat atât de tare încât ar putea să cedeze în orice clipă.',
       pt: 'Este arco é curvado a tal ponto que provavelmente se partirá a qualquer momento.',
       fr: 'Cet arc est tellement courbé qu\'il pourrait se briser à tout moment.',
-      de: 'Dieser Bogen ist so stark gebogen, dass er wahrscheinlich jeden Moment einrasten wird. ',
+      de: 'Dieser Bogen ist so stark gebogen, dass er wahrscheinlich jeden Moment einrasten wird.',
       es: 'Este arco está curvado hasta tal punto que probablemente se romperá en cualquier momento.',
       pl: 'Ten łuk jest zakrzywiony do tego stopnia, że prawdopodobnie w każdej chwili pęknie.',
       it: 'Questo arco è curvo a tal punto che probabilmente si spezzerà in qualsiasi momento.',
@@ -73,7 +73,7 @@ export default [
       el: 'Αυτό το τόξο είναι καμπύλο σε τέτοιο βαθμό που πιθανότατα θα σπάσει ανά πάσα στιγμή.',
       tl: 'Ang busog na ito ay may kurbatang sa isang lawak na ito ay maaaring snap sa anumang sandali.',
       bg: 'Този лък е извит до такава степен, че вероятно ще се скъса във всеки момент.',
-      tr: 'Bu yay, muhtemelen herhangi bir anda kopacak şekilde kavislenir.',
+      tr: 'Bu yay, muhtemelen herhangi bir anda kopacak şekilde bükülmüş.',
       cs: 'Tento luk je zakřivený do takové míry, že se v každém okamžiku pravděpodobně zaklapne.',
       ja: 'この弓はそれがおそらくいつでもスナップするような程度に湾曲しています。',
       ko: '이 활은 언제나 스냅 될 정도까지 구부러져 있습니다.',
@@ -122,7 +122,7 @@ export default [
       it: 'Un\'arma più avanzata. Piuttosto bello da guardare.',
       sv: 'Ett mer avancerat vapen. Ganska trevligt att se på.',
       ht: 'Yon zam ki pi avanse. Byen bèl gade.',
-      tr: 'Daha gelişmiş bir silah. Bakması da oldukça güzel hissediyor.',
+      tr: 'Daha gelişmiş bir silah. Bakması bile oldukça güzel hissettiriyor.',
       tl: 'Isang mas advanced na armas. Masyadong maganda ang pagtingin.',
       hi: 'एक उन्नत हथियार। दिखने में काफी अच्छा।',
       cs: 'Pokročilejší zbraň. Docela hezké se na to podívat.',
@@ -152,12 +152,12 @@ export default [
       el: 'Συνδυάστε με τα οστά του... κάποιον;',
       bg: 'Заедно с костите на някой?',
       ht: 'Mete ansanm ak zo yo nan... yon moun?',
-      tr: 'Kemikler birleştirilerek yapılmış... insan kemikleri?',
+      tr: 'Şeylerin kemikleri birleştirilerek yapılmış... insanların?',
       hi: 'किस इनसान की हड्डीयो से बना है?',
       cs: 'Dej dohromady s kostmi... někoho?',
       ja: '〜誰かの骨と一緒に？',
       ro: 'Făcut din oasele... cuiva?',
-      ko: '뼈로 만들어진 활… 누구의 뼈일가?',
+      ko: '뼈로 만들어진 활... 누구의 뼈일가?',
       da: 'Sammen med knoglerne af... nogen?'
     }
   },
@@ -169,21 +169,21 @@ export default [
       ru: 'Искусный лук изящный расы',
       fr: 'Un arc d\'expert venant d\'une race élégante.',
       de: 'Ein erfahrener Bogen eines eleganten Rennens.',
-      es: 'Una reverencia experta de una raza olvidada.',
+      es: 'Un arco experto de una raza elegante.',
       pt: 'Um arco perito de uma raça elegante.',
-      nl: 'Een deskundige boog van een verfijnd race.',
-      pl: 'Ekspercki łuk elegancki rasy.',
-      it: 'Un arco esperto di una razza signorile.',
+      nl: 'Een deskundige boog van een verfijnd geslacht.',
+      pl: 'Ekspercki łuk elegancki ród.',
+      it: 'Un arco esperto di una gente signorile.',
       tl: 'Isang dalubhasang bow ng isang eleganteng lahi.',
       sv: 'En expertbuga av en sirlig ras.',
       ht: 'Yon banza ekspè nan yon ras ki elegan.',
-      tr: 'Zarif bir yarışın uzman yayı.',
+      tr: 'Zarif bir ırkın uzman yayı.',
       hi: 'एक सुरुचिपूर्ण दौड़ का एक विशेषज्ञ धनुष।',
       el: 'Ένας ειδικός τόξο μιας κομψής φυλής.',
       bg: 'Един експертен поклон на елегантен раса.',
-      cs: 'Odborný luk elegantní závodu.',
+      cs: 'Odborný luk elegantní druh.',
       ja: '優雅なレースの巧妙な弓。',
-      ro: 'Un arc expert al unei curse elegante.',
+      ro: 'Un arc expert al unei rasă elegante.',
       ko: '우아한 레이스의 전문가 활입니다.',
       da: 'En ekspertbue af en elegant race.'
     }
@@ -206,7 +206,7 @@ export default [
       bg: 'Сурови, но ефективни. Извлича силата си от малкия лист, прикрепен към него.',
       sv: 'Primitiv, men effektiv. Får sin kraft från ett litet fastsatt blad.',
       ht: 'Brut, men efikas. Trase pouvwa li soti nan fèy la ti tache ak li.',
-      tr: 'Kaba, ama etkili. Gücünü, kendisine bağlı küçük yapraktan alır.',
+      tr: 'İlkel, ama etkili. Gücünü, kendisine bağlı küçük yapraktan alıyor.',
       hi: 'अनगढ़, लेकिन प्रभावशाली। अपने उपर उगने वाली छोटी पत्ती इसे शक्ती देती हैं।',
       cs: 'Hrubý, ale účinný. Čerpá svou sílu z malého lístku, který je k němu připojen.',
       ja: '粗いが効果的。それに付いている小さな葉から力を引き出します。',
@@ -220,7 +220,7 @@ export default [
     name       : {$$: 'Iron Piercer' },
     description: {
       en: 'Burns away the enemy with the spiciest of red coloring.',
-      ru: 'Сжигает противника своим  ярко-красным окрасом.',
+      ru: 'Сжигает противника своим ярко-красным окрасом.',
       de: 'Verbrennt den Feind mit der schärfsten roten Farbe.',
       es: 'Quema al enemigo con la coloración roja más picante.',
       fr: 'Brûle ses ennemis avec la coloration rouge la plus prononcée.',
@@ -233,13 +233,13 @@ export default [
       ht: 'Burns lwen lènmi an ak spiciest nan koloran wouj.',
       el: 'Εξαφανίζει τον εχθρό με το πιό spicyest του κόκκινου χρωματισμού.',
       bg: 'Изгаря врага с най-блестящия червен цвят.',
-      tr: 'Düşmanı kırmızı renkteki boya ile yakar.',
       hi: 'मसालेदार लाल रंग से दुश्मनों को राख कर देता है।',
       cs: 'Spálí nepřítele s nejjemnějším červeným zbarvením.',
       ja: '最も辛い赤色の着色で敵を焼き払います。',
       ro: 'Arde inamicul cu cea mai intensă culoare de roșu.',
       ko: '뜨거운 붉은 색으로 적을 태운다.',
-      da: 'Brænder fjenden med den spicieste af rød farve.'
+      da: 'Brænder fjenden med den spicieste af rød farve.',
+      tr: 'Düşmanlarını kırmızı parlak bir ışıkla yakar.'
     }
   },
 
@@ -260,7 +260,7 @@ export default [
       ht: 'Yon banza souvan itilize pa banza klase wa archers. Melanje nan byen ak vejetasyon,',
       el: 'Ένα τόξο που χρησιμοποιείται συνήθως από τους χαμηλού βαθμού βασιλικούς τοξότες. Συνδυάζεται καλά με τη βλάστηση.',
       bg: 'Лук, който често се използва от ниско разположените кралски стрелци. Съчетава се добре с растителността.',
-      tr: 'Genel olarak düşük rütbeli kraliyet okçular tarafından kullanılan bir yay. Bitki örtüsü ile iyi karışır.',
+      tr: 'Genel olarak düşük rütbeli kraliyet okçuları tarafından kullanılan bir yay. Bitki örtüsü sayesinde iyi kamufle olur.',
       hi: 'राजकीय सिपाहियों द्वारा इस्तेमाल किए जाने वाला धनुष, पेड़ पत्तीयों में आसानी से छिप जाता है।',
       cs: 'Luk běžně používaný nízkohodnotnými královskými lukostřelci. Směsi ve vegetaci.',
       ja: '低位の王室弓兵によく使われる弓。植生とよく調和しています。',
@@ -314,7 +314,7 @@ export default [
       ht: 'Yon banza ra ki te itilize nan pi gran nan lagè. Fiziyad li fè ou santi ou tankou syèl la pral tonbe plat atè.',
       el: 'Ένα σπάνιο τόξο που χρησιμοποιείται στα μεγαλύτερα των πολέμων. Σκοποβολή σας κάνει να νιώσετε ότι οι ουρανοί θα καταρρεύσουν.',
       bg: 'Рядък лък, използван в най-великите войни. Стрелбата го кара да се чувстваш като небето ще се срути.',
-      tr: 'En büyük savaşlarda kullanılan nadir bir yay. Onu çekince sanki yer gök yıkılacak gibi hissediyor.',
+      tr: 'En büyük savaşlarda kullanılan bu nadir yayı çekince sanki yer gök yıkılacak gibi hissettiriyor.',
       hi: 'सबसे महान युद्ध में इस्तेमाल किया गया दुर्लभ धनुष। इसे चलाने से लगता है कि स्वर्ग टूट कर गिर जाएगा।',
       cs: 'Vzácný luk používaný v největších válkách. Střelba z vás dělá pocit, že se nebe zhroutí.',
       ja: '最も偉大な戦争で使われる珍しい弓。それを撮影すると、天が崩壊するように感じるでしょう。',
@@ -368,13 +368,12 @@ export default [
       bg: 'Убива толкова красиво, колкото изглежда.',
       sv: 'Dödar så vackert som det ser ut.',
       ht: 'Touye bèl jan li sanble.',
-      tr: 'Göründüğü kadar güzel de öldürür.',
+      tr: 'Güzel göründüğü kadar güzel öldürür de.',
       hi: 'जितना खूबसूरत दिखता है उतनी ही खूबसूरती से मारता है।',
       cs: 'Zabije tak krásně, jak to vypadá.',
       ja: '見た目と同じくらい美しく殺します。',
       ro: 'Ucide la fel de frumos cum și arată.',
-      ko: '외형만큼 아름답게 적을 죽깁니다.',
-      da: ''
+      ko: '외형만큼 아름답게 적을 죽깁니다.'
     }
   },
 
@@ -395,7 +394,7 @@ export default [
       ht: 'Antoure pa yon Aura efreyan. Van an soufle nan direksyon ou vize li.',
       el: 'Περιβάλλεται από μια φρικτή αύρα. Ο άνεμος φυσά προς την κατεύθυνση που εσείς σκοπεύετε.',
       bg: 'Заобиколен от ужасна аура. Вятърът духа в посоката, в която го насочвате.',
-      tr: 'Kasvetli bir havayla çevrili. Rüzgar, hedeflediğiniz yönde esiyor.',
+      tr: 'Kasvetli bir havayla çevrili. Rüzgar, bu yayı çevirdiğiniz yöne doğru eser.',
       hi: 'एक भयंकर आभा से घिरा। जिस दिशा में इसे चलाएंगे, हवा उस हि दिशा में चलती है।',
       cs: 'Obklopen hroznou aurou. Vítr fouká ve směru, kterým je zamíříte.',
       ja: 'ひどいオーラに囲まれています。風はあなたがそれを目指す方向に吹きます。',
@@ -422,7 +421,7 @@ export default [
       ht: 'Se konsa, pè ke kèk gen kouraz yo kenbe li.',
       el: 'Τόσο τρομακτικό που λίγοι έχουν τα κότσια να το κρατήσουν.',
       bg: 'Толкова страшно, че малцина имат смелостта да го държат.',
-      tr: 'O kadar korkunç ki onu tutmak cesaret ister.',
+      tr: 'O kadar korkunç ki çok az kişi onu tutacak cesarete sahip.',
       hi: 'इतना डरावना की कुछ ही इसे उठाने की हिम्मत जुटा पाए हैं।',
       cs: 'Tak děsivé, že jen málokdo má odvahu držet to.',
       ja: 'それを保持するための勇気を持っている人はほとんどいないので怖い。',
@@ -438,7 +437,7 @@ export default [
       en: 'Embedded with a primal rage, your foes tremble at the sight of this weapon. Pew pew is the last thing they will ever hear.',
       ru: 'Насыщенный первобытной яростью, ваши противники дрожат при виде этого оружия. Пиу Пиу - последнее, что они услышат.',
       de: 'Eingebettet in eine urtümliche Wut, zittern deine Feinde beim Anblick dieser Waffe. Kirchenbank ist das Letzte, was sie je hören werden.',
-      es: 'Envueltos en una furia primigenia, tus enemigos tiemblan al ver esta arma. Pew Pew Pew es lo último que oirán.',
+      es: 'Envueltos en una furia primigenia, tus enemigos tiemblan al ver esta arma. Pew Pew es lo último que oirán.',
       fr: 'Enfermés dans une rage primitive, vos ennemis tremblent à la vue de cette arme. Pew pew pew est la dernière chose qu\'ils n\'entendront jamais.',
       pt: 'Embutido em uma raiva primária, seus inimigos tremem ao ver esta arma. O banco de bancos é a última coisa que eles vão ouvir.',
       nl: 'Ingebed in een oerwoede, beven je vijanden bij het zien van dit wapen. Pew pew is het laatste wat ze ooit zullen horen.',

@@ -10,7 +10,7 @@ export default {
     ko: '샤먼',
     pt: 'Xamã',
     tr: 'Şaman',
-    nl: 'Sjamaan',
+    nl: 'Sjaman',
     hi: 'शमन',
     it: 'Sciamano',
     ht: 'Chaman',
@@ -21,7 +21,9 @@ export default {
     el: 'Shaman',
     bg: 'Шаман',
     ro: 'Șaman',
-    da: 'Shaman'
+    da: 'Shaman',
+    zh: '薩滿',
+    hu: 'Táltos'
   },
   // Class description, visible during character creation
   description: {
@@ -33,7 +35,7 @@ export default {
     fr: 'Le rôle des chamans est de soutenir le groupe en guérissant le tank et en offrant des buffs offensifs ou des Débuffs ralentissants.',
     ko: '샤먼의 역할은 탱크를 치유하고 공세적 인 버프 또는 맹독적인 디버프를 제공하여 그룹을 지원하는 것입니다.',
     pt: 'O papel dos xamãs é apoiar o grupo, curando o Tanque e oferecendo Buffs ofensivos ou Debuffs incapacitantes.',
-    nl: 'De rol van de Sjamaan is om de groep te steunen door de Tank te helen en aanvallende Buffs of verlammende Debuffs aan te bieden.',
+    nl: 'De rol van de Sjaman is om de groep te steunen door de Tank te helen en aanvallende betoveringen of verlammende vloeken te sturen naar de vijand',
     tr: 'Şamanın rolü, Tankı iyileştirerek ve saldırgan Bufflar veya sakatlayan Debufflar sunarak grubu desteklemektir.',
     hi: 'शमन की भूमिका टैंक का उपचार करके और आक्रामक बफ़रों की पेशकश करके या लक्ष्य की क्षमताओं के प्रभाव को कम करके समूह का समर्थन करना है।.',
     it: 'Il ruolo dello sciamano è di sostenere il gruppo curando il carro armato e offrendo buff offensive o debuff paralizzanti.',
@@ -45,6 +47,8 @@ export default {
     el: 'Ο ρόλος του Σαμάνος είναι να στηρίξει την ομάδα θεραπεύοντας την δεξαμενή και προσφέροντας επιθετικά Buffs ή παγιδευτικά Debuffs.',
     bg: 'Ролята на шаманите е да подкрепят групата, като лекуват танковете и предлагат бъфове и де-бъфове.',
     ro: 'Rolul șamanului este de a sprijini grupul prin vindecarea Tancului și de a oferi Buff-uri de ofensiva sau Debuff-uri de paralizare.',
-    da: 'Shamans rolle er at hjælpe gruppen ved at helbrede Tanken og tilbyde offensive Buffs eller lammende Debuffs.'
+    da: 'Shamans rolle er at hjælpe gruppen ved at helbrede Tanken og tilbyde offensive Buffs eller lammende Debuffs.',
+    zh: '薩滿的定位是通過治療坦克和使用增益buff或減益Debuff來支援隊伍。',
+    hu: 'A táltosok feladata a csapat támogatása, mégpedig gyógyítóerejük segítségével, amit legjobb a sebzést felfogó harcosokra irányítaniuk. Egy táltos képes csapatára különböző áldásokat, ellenfeleire pedig átkokat szórni.'
   }
 }

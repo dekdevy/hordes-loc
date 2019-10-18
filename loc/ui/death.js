@@ -1,26 +1,28 @@
 export default {
   death: {
-    en: 'You have died',
-    ru: 'Ты умер',
+    en: 'You have died.',
+    ru: 'Вы умерли.',
     hi: 'आप मर चुके हैं',
-    es: 'Has muerto',
-    it: 'Sei morto',
-    de: 'Du bist gestorben',
-    fr: 'Vous êtes morts',
-    ko: '너 죽었다',
-    bg: 'Ти си умрял',
-    cs: 'Zemřel jsi',
-    el: 'Έχεις πεθάνει',
-    ja: 'あなたは死んだ',
-    sv: 'Du har dött',
-    tl: 'Namatay ka na',
-    tr: 'Öldün',
-    nl: 'Je bent gestorven',
-    pt: 'Você morreu',
-    pl: 'Umarłeś',
-    ht: 'Ou te mouri',
-    ro: 'Tu ai murit',
-    da: 'Du er død'
+    es: 'Has muerto.',
+    it: 'Sei morto.',
+    de: 'Du bist gestorben.',
+    fr: 'Vous êtes morts.',
+    ko: '당신은 죽었습니다',
+    bg: 'Ти си умрял.',
+    cs: 'Zemřel jsi.',
+    el: 'Έχεις πεθάνει.',
+    ja: 'あなたは死んだ。',
+    sv: 'Du har dött.',
+    tl: 'Namatay ka na.',
+    tr: 'Öldün.',
+    nl: 'Je bent gestorven.',
+    pt: 'Você morreu.',
+    pl: 'Umarłeś.',
+    ht: 'Ou te mouri.',
+    ro: 'Tu ai murit.',
+    da: 'Du er død.',
+    zh: '你死了。',
+    hu: 'Meghaltál'
   },
 
   deathmsg: {
@@ -39,18 +41,20 @@ export default {
     sv: 'Tryck på knappen för att återuppstå vid närmaste konjurer.',
     tl: 'Pindutin ang pindutan upang mabuhay na muli sa pinakamalapit na salamangkero.',
     tr: 'En yakın hokkabazda diriltilmek için düğmeye basın.',
-    nl: 'Druk op de knop om op te staan ​​bij de dichtstbijzijnde goochelaar.',
+    nl: 'Druk op de knop om op te staan bij de dichtstbijzijnde goochelaar.',
     pt: 'Pressione o botão para ser ressuscitado no conjurador mais próximo.',
     pl: 'Naciśnij przycisk, aby zostać wskrzeszony u najbliższego zaklinacza.',
     ht: 'Peze bouton an pou li resisite nan aparèy ki pi pre a.',
     ro: 'Apăsați butonul pentru a fi înviat la cea mai apropiată conjurer.',
-    da: 'Tryk på knappen for at blive opstandet hos nærmeste konjurer.'
+    da: 'Tryk på knappen for at blive opstandet hos nærmeste konjurer.',
+    zh: '按下按钮可以找最近的魔术师处复活',
+    hu: 'Nyomd meg a gombot hogy felgyógyítsanak a legközelebbi Conjurernél'
   },
 
-  // 'Ressurect' used in many translations
+  // 'Resurrect' is used in many translations/languages.
   respawn: {
     en: 'Respawn',
-    ru: 'Воскресить',
+    ru: 'Воскреснуть',
     hi: 'अपने आप को जीवित करें',
     es: 'Resucítate',
     it: 'Risorgere',
@@ -64,10 +68,12 @@ export default {
     sv: 'Återuppliva',
     tl: 'Buhayin Mo ang Iyong Sarili',
     nl: 'Wederopstand',
-    pt: 'Ressuscite',
+    pt: 'Ressuscitar',
     pl: 'Wskrześ',
     ht: 'Resisite',
     ro: 'Înviați',
-    da: 'Genoplive'
+    da: 'Genoplive',
+    zh: '复活',
+    hu: 'Feltámadás'
   }
 }

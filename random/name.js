@@ -1,41 +1,30 @@
 import { rndArray, rndi } from 'core/math/rnd.js'
 
-// Syllables used for random player/monster name generation
-// this is not part of the localization, but you can add syllables here
-const syllables = ['heim', 'tuk', 'ta', 'lor', 'bok', 'le', 'me', 'ka', 'na', 'pink', 'dumb', 'fizz', 'glink', 'bing',
-  'vang', 'blood', 'shield', 'dagger', 'rog', 'thun', 'gar', 'nag', 'grul', 'oth', 'uz', 'muk', 'hammer', 'staff', 'bold',
-  'brave', 'any', 'gal', 'funk', 'gold', 'rock', 'metal', 'flash', 'rand', 'wise', 'smart', 'cozy', 'little', 'bam',
-  'pam', 'na', 'crit', 'din', 'vale', 'feather', 'head', 'dong', 'wong', 'lock', 'shot', 'sing', 'wing', 'wood', 'es', 'mes',
-  'las', 'tas', 'bas', 'was', 'oda', 'int', 'set', 'jo', 'io', 'li', 'pi', 'meme', 'bird', 'fish', 'grass', 'moss', 'tree',
-  'frost', 'goth', 'fire', 'water', 'bon', 'blue', 'red', 'green', 'black', 'white', 'shadow', 'trash', 'coin', 'swift', 'sand',
-  'sky', 'bone', 'skull', 'terror', 'row', 'win', 'dan', 'ty', 'balt', 'ric', 'ul', 'thril', 'da', 'usa', 'lem', 'fist', 'hex',
-  'craft', 'sorc', 'mage', 'rune', 'chant', 'hymn', 'skill', 'ist', 'ent', 'murk', 'gor', 'tor', 'zor', 'hor', 'loz', 'ni',
-  'si', 'so', 'sa', 'ta', 'ga', 'ma', 'pa', 'melon', 'nana', 'zuk', 'apple', 'bow', 'arrow', 'dirk', 'lance', 'dice', 'dex', 'bard',
-  'haste', 'good', 'feat', 'rage', 'throw', 'doom', 'lord', 'low', 'high', 'slow', 'quick', 'bad', 'sad', 'fun', 'skele',
-  'marrow', 'ham', 'lom', 'rin', 'lan', 'mum', 'dad', 'pope', 'god', 'xen', 'xan', 'max', 'lax', 'nax', 'sick', 'gore',
-  'brood', 'gift', 'tox', 'ugly', 'beaut', 'hot', 'armor', 'smith', 'son', 'maid', 'owl', 'hog', 'tog', 'boat', 'boot',
-  'move', 'glass', 'deer', 'war', 'spider', 'shatter', 'mag', 'dim', 'blight', 'spell', 'wand', 'dream', 'step', 'mist',
-  'counter', 'flesh', 'true', 'dead', 'eye', 'force', 'death', 'life', 'demi', 'stun', 'word', 'sight', 'false', 'blade',
-  'troll', 'orc', 'thunder', 'slap', 'strike', 'toll', 'fear', 'pup', 'mad', 'hay', 'wire', 'bot', 'heal', 'far', 'tar',
-  'stone', 'soul', 'pain', 'glib', 'glob', 'myth', 'drakar', 'breaker', 'lust', 'tack', 'stopper', 'hink', 'hunk', 'rot',
-  'corpse', 'ash', 'fang', 'skin', 'cold', 'immer', 'ice', 'doctor', 'meph', 'isto', 'dia', 'blo', 'baal', 'battle', 'bubble',
-  'bat', 'crack', 'drool', 'stink', 'beard', 'grim', 'dry', 'shave', 'hate', 'love', 'scum', 'master', 'crusher', 'spawn',
-  'meat', 'face', 'silver', 'claw', 'dal', 'sword', 'myr', 'reaper', 'drall', 'al', 'basher', 'fade', 'dark', 'gray',
-  'less', 'ghoul', 'gol', 'dragh', 'dread', 'wasp', 'wrought', 'dhai', 'ghar', 'ghob', 'gho', 'ko', 'ghraem', 'kno',
-  'lurk', 'half', 'tak', 'thak', 'shay', 'ol', 'lam', 'dil', 'echo', 'trim', 'cop', 'mond', 'or', 'fect', 'lee', 'ho', 'zone',
-  'zon', 'verse', 'uni', 'lix', 'lynx', 'bix', 'six', 'mix', 'hix', 'rub', 'rubi', 'cub', 'cube', 'heis', 'er', 'eer', 'se', 'om',
-  'mi', 'xia', 'xio', 'khar', 'khan', 'isp', 'asc', 'ics', 'ger', 'ette', 'gill', 'gile', 'py', 'vek', 'vare', 'alper', 'kana',
-  'ajon', 'sar', 'ex', 'teur', 'hob', 'sau', 'sav', 'ron', 'del', 'ecce', 'tric', 'aud', 'odd', 'carn', 'cain', 'and', 'al', 'ness',
-  'mess', 'orb', 'arth', 'tos', 'app', 'aol', 'walk', 'man', 'nal', 'char', 'void', 'long', 'short', 'sin', 'cos', 'cod', 'tan',
-  'accu', 'rate', 'pow', 'end', 'cha', 'agi', 'ai', 'stre', 'per', 'xep', 'string', 'lu', 'luck', 'hue', 'dio', 'medle', 'neo', 'drift',
-  'hell', 'dom', 'spot', 'hu', 'dibble', 'dabble', 'pop', 'pim', 'ama', 'light', 'heat', 'qua', 'mech', 'radio', 'rad',
-  'rads', 'stim', 'pak', 'scorp', 'mire', 'spart', 'mutt', 'io', 'cans', 'ole', 'ian', 'reek', 'off', 'guard', 'van', 'scrub', 'sign',
-  'road', 'awe', 'way', 'ant', 'woe', 'grief', 'active', 'ultra', 'mega', 'multi', 'mill', 'cent', 'nano', 'micro', 'fore', 'foe', 'ever',
-  'zel', 'away', 'rio', 'sec', 'cas', 'mor', 'vank', 'vakh', 'ject', 'rej', 're', 'xyl', 'phlo', 'flow', 'len', 'size', 'small',
-  'big', 'large', 'tiny', 'mas', 'min', 'scope', 'sig', 'harp', 'beth', 'esda', 'arq', 'nubis', 'bis', 'asdo', 'jan', 'jam',
-  'bun', 'past', 'paste', 'try', 'hard', 'soft', 'smooth', 'rough', 'druid', 'cleric', 'hunt', 'hunter', 'wiz', 'wizard', 'woz', 'sage',
-  'sag', 'marg', 'mer', 'mere', 'meag', 'meal', 'brek', 'brak', 'bral', 'fair', 'ain', 'mont', 'gah', 'med', 'dray', 'an', 'mhor',
-  'nek', 'kar', 'sark', 'bound', 'bo', 'ork', 'mark', 'raw', 'dork', 'deku', 'fin', 'pas', 'loc', 'rev', 'dmi', 'ove']
+// Syllables used for random player/monster name generation.
+// These are not part of the localisation. Please keep the total number of syllables at 320.
+
+const syllables = ['helm', 'stone', 'delra', 'void', 'doom', 'flesh', 'eye', 'soul', 'claw', 'lynx', 'vang', 'ugly',
+  'lust', 'wing', 'night', 'dread', 'rune', 'dhai', 'morgh', 'craft', 'owl', 'reap', 'glow', 'ice', 'flame', 'blade',
+  'ash', 'fang', 'scar', 'life', 'smith', 'drakh', 'bat', 'kar', 'daug', 'ghal', 'bird', 'myth', 'qua', 'myr', 'sau',
+  'uth', 'urg', 'our', 'rof', 'azo', 'naul', 'shauz', 'olg', 'rol', 'reol', 'piol', 'cua', 'lumo', 'thual', 'saew', 'lith',
+  'lanc', 'heim', 'dall', 'heif', 'heria', 'milui', 'amlug', 'ber', 'dhaye', 'erth', 'feira', 'dema', 'khon', 'xhan', 'xhi',
+  'godh', 'rhor', 'cili', 'lenda', 'aist', 'nyel', 'nye', 'zal', 'zog', 'bhol', 'zul', 'dana', 'gun', 'arc', 'orb', 'trog',
+  'vaz', 'zedh', 'zee', 'veba', 'storm', 'scare', 'zoti', 'nuk', 'zak', 'knod', 'stink', 'skin', 'hek', 'luim', 'hex',
+  'woe', 'hong', 'vugz', 'zug', 'rift', 'rage', 'meph', 'max', 'gold', 'merc', 'zon', 'zvon', 'veda', 'fade', 'war', 'bound',
+  'metal', 'aol', 'eal', 'xio', 'daz', 'gog', 'vat', 'heis', 'pain', 'vigo', 'ior', 'nyth', 'mydra', 'illae', 'ira', 'ida',
+  'harp', 'yera', 'dusk', 'dawn', 'swift', 'luna', 'lance', 'so', 'battle', 'yae', 'yia', 'jaed', 'cyra', 'light', 'vesla',
+  'veni', 'tear', 'lach', 'bloch', 'utta', 'sys', 'far', 'troll', 'kwyl', 'gax', 'qish', 'grel', 'eevo', 'kash', 'gaz',
+  'iqra', 'ezni', 'uku', 'lozz', 'gnee', 'jui', 'drae', 'nai', 'eua', 'ravar', 'bain', 'bane', 'moss', 'kom', 'demo',
+  'sil', 'stag', 'elys', 'sia', 'rhya', 'rynn', 'fael', 'fyn', 'lirai', 'ciea', 'chai', 'earl', 'baro', 'volo', 'riel',
+  'dryn', 'rai', 'daar', 'sea', 'star', 'amber', 'bloom', 'syl', 'lenai', 'lead', 'rya', 'tarre', 'ghob', 'rius', 'niye',
+  'fyre', 'daria', 'iraei', 'lase', 'mane', 'thera', 'dania', 'fog', 'dola', 'mydi', 'fai', 'lynn', 'lair', 'iyl', 'irius',
+  'arido', 'lere', 'teria', 'vias', 'bais', 'rismo', 'ues', 'bith', 'raes', 'lieu', 'arrow', 'laude', 'deus', 'vitro',
+  'tusso', 'vephie', 'mulae', 'qen', 'cill', 'tryl', 'vonth', 'morja', 'teu', 'thyn', 'taug', 'taur', 'gias', 'caen',
+  'ieze', 'brieu', 'tae', 'borne', 'selta', 'sill', 'phyre', 'theia', 'thuen', 'maer', 'lys', 'marrow', 'niroi', 'cye',
+  'arje', 'stris', 'andro', 'dae', 'lae', 'duirn', 'rienn', 'dysra', 'than', 'tilre', 'laeth', 'ilye', 'gaia', 'dya',
+  'orc', 'thras', 'dhar', 'raeth', 'ylla', 'raer', 'dryr', 'vaen', 'morl', 'mell', 'gley', 'idra', 'pheia', 'dre',
+  'phae', 'thye', 'ruth', 'mir', 'sauth', 'hammer', 'bow', 'spear', 'wind', 'raven', 'cape', 'ghost', 'deer', 'mage',
+  'glass', 'wolf', 'shade', 'stag', 'grim', 'wise', 'scum', 'bubble', 'skull', 'bone', 'blood']
 
 export const generate = (minSyl = 2, maxSyl = 6, maxLen = 8)=>{
   // generates a random name with a variable max length / syllable amount

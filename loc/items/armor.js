@@ -2,8 +2,8 @@ export default [
   {
     name       : {$$: 'Potato Sack' },
     description: {
-      en: 'Sack stiff with starch making you feel dirty and disheveled.',
-      ru: 'Грубый накрахмаленный мешок заставляет чувствовать вас грязным и взъерошенным.',
+      en: 'Sack stiff with starch, making you feel dirty and disheveled.',
+      ru: 'Грубый накрахмаленный мешок, заставляет чувствовать вас грязным и взъерошенным.',
       es: 'Saco rígido con almidón que te hace sentir sucio y despeinado.',
       de: 'Sack steif mit Stärke, so dass Sie sich schmutzig und zerzaust fühlen.',
       fr: 'Sac rigide avec de l\'amidon qui vous donne l\'impression d\'être sale et ébouriffé.',
@@ -144,7 +144,7 @@ export default [
       fr: 'Les rumeurs disent que ce manteau est fait à partir des nuages...',
       pt: 'Os rumores dizem que é feito de nuvens...',
       tl: 'Sinasabi ng mga alingawngaw na ginawa mula sa mga ulap ...',
-      nl: 'Geruchten zeggen dat het gemaakt is van wolken... ',
+      nl: 'Geruchten zeggen dat het gemaakt is van wolken...',
       hi: 'अफवाहें इसकी बादलों से बना कहते हैं ...',
       pl: 'Plotki mówią, że zrobione z chmur...',
       it: 'Voci dicono che è fatto di nuvole...',
@@ -152,7 +152,7 @@ export default [
       bg: 'Слуховете казват, че са направени от облаци...',
       ht: 'Rimè di ke li te fè soti nan nyaj...',
       tr: 'Buluttan yapıldığına dair dedikodular var...',
-      cs: 'Pověsti říkají, že jsou vyrobeny z mraků..,',
+      cs: 'Pověsti říkají, že jsou vyrobeny z mraků...',
       ja: 'うわさは雲から作られたと言う...',
       sv: 'Rykten säger att den är gjord av moln...',
       ko: '소문은 구름으로 만든다고 ...',
@@ -166,7 +166,7 @@ export default [
     description: {
       en: 'The wearer blends in nicely with the shadows... or so the thieves think.',
       ru: 'Носитель отлично сливается с тенью... или так думают воры.',
-      es: 'El portador se mezcla bien entre las sombras... o eso piensan los ladrones.',
+      es: 'El portador se mezcla bien entre las sombras... o es lo que piensan los ladrones.',
       de: 'Der Träger fügt sich gut in den Schatten ein.... so denken die Diebe.',
       fr: 'Le porteur se fond bien dans l\'ombre... c\'est du moins ce que pensent les voleurs.',
       pt: 'O utilizador mistura-se bem com as sombras... ou assim pensam os ladrões.',
@@ -292,7 +292,7 @@ export default [
       sv: 'Rykten säger att bäraren är odödlig. Tyvärr kan denna rustning endast hittas på de dödas lik.',
       ko: '소문은 착용자가 불멸하다고 말한다. 불행히도이 갑옷은 살해 된 시체에서만 발견 할 수 있습니다.',
       ro: 'Zvonurile spun că purtătorul este nemuritor. Din păcate, această armură poate fi găsită doar pe cadavrele celor uciși.',
-      da: 'Rygerne siger, at bæreren er udødelig.  Desværre er denne rustning kun fundet på lig af de dræbte.'
+      da: 'Rygerne siger, at bæreren er udødelig. Desværre er denne rustning kun fundet på lig af de dræbte.'
     }
   }
 

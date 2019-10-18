@@ -59,7 +59,7 @@ export default [
       en: 'Powerful transparent glass talisman with a faint purple tint showing you the world in a melancholic light.',
       es: 'Poderoso talismán de cristal transparente, de color púrpura pálido que muestra el mundo en una luz melancólica.',
       ru: 'Мощный прозрачный стеклянный талисман. Его бледно-фиолетовый оттенок показывает мир в меланхолическом свете.',
-      de: 'Kraftvoller transparenter Glas-Talisman, schwacher Violett-Ton zeigt Ihnen die Welt in einem melancholischen Licht. ',
+      de: 'Kraftvoller transparenter Glas-Talisman, schwacher Violett-Ton zeigt Ihnen die Welt in einem melancholischen Licht.',
       fr: 'Puissant talisman en verre transparent, légèrement teinté de violet, qui montre le monde dans une lumière mélancolique.',
       nl: 'Krachtige transparante glazen talisman, een vage paarse tint laat je de wereld zien in een melancholisch licht.',
       pl: 'Mocny przezroczysty szklany talizman z lekkim fioletowym zabarwieniem ukazującym świat w melancholijnym świetle.',
@@ -68,7 +68,7 @@ export default [
       tl: 'Makapangyarihang transparent na salamin na anting-anting na may malabong lilang tint na nagpapakita sa iyo ng mundo sa isang mapanglaw na liwanag.',
       pt: 'Poderoso talismã de vidro transparente com uma leve tonalidade púrpura que mostra o mundo numa luz melancólica.',
       it: 'Potente talismano in vetro trasparente con una tenue tinta viola che mostra il mondo in una luce malinconica.',
-      hi: 'to be filled',
+      hi: 'एक आकर्षक बैंगनी रंग के साथ शक्तिशाली और पारदर्शी ग्लास तावीज़ आपको एक उदास रोशनी में दुनिया दिखा रहा है।',
       cs: 'Výkonný transparentní skleněný talisman se slabým fialovým odstínem, který vám ukazuje svět v melancholickém světle.',
       ja: '憂鬱な光の中であなたに世界を見せるかすかな紫の色合いを持つ強力な透明なガラスお守り。',
       tr: 'Melankolik ışıkta dünyayı gösteren soluk mor renk tonu ile güçlü şeffaf cam tılsım.',
@@ -183,7 +183,8 @@ export default [
       sv: 'Denna stora röda sten som är innesluten i avgrunds mörka sprickor ger dina fiender en känsla av svartsjuka.',
       ko: '어두운 붉은 균열에 둘러싸인 웅장한 빨간 돌은 당신의 원수에게 질투심을 부여합니다.',
       ro: 'Această enormă piatră roșie înconjurată de fisuri negre abisale, oferă dușmanilor tăi un sentiment de gelozie.',
-      da: 'Denne store røde perle indesluttet i afgrund mørke fissurer giver dine fjender en følelse af jalousi.'
+      da: 'Denne store røde perle indesluttet i afgrund mørke fissurer giver dine fjender en følelse af jalousi.',
+      tr: 'Bu etrafı karanlık hiçlik çatlakları ile çevrelenmiş büyük kırmızı mücevher düşmanlarını kıskandırır.'
     }
   },
 
@@ -271,7 +272,7 @@ export default [
   {
     name       : {$$: 'Aeter' },
     description: {
-      en: 'Bright green lights occasionally span out of this glass gem, casting projections of the wearers future.',
+      en: 'Bright green lights occasionally span out of this glass gem, casting projections of the wearer\'s future.',
       ru: 'Яркий зеленый свет иногда проливается из этого стеклянного камня, бросая проекции будущего для его владельца.',
       es: 'Las luces verdes vivo extienden a veces fuera de esta gema de cristal, proyecciones de fundición del futuro de los usuarios.',
       de: 'Strahlend grüne Lichter ragen gelegentlich aus diesem Glasjuwel heraus und werfen Projektionen der Zukunft der Träger hervor.',

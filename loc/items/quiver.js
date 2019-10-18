@@ -5,7 +5,7 @@ export default [
       en: 'Soft, full of holes. Arrows keep falling out.',
       ru: 'Мягкий, дырявый. Стрелы постоянно выпадают.',
       de: 'Weich, voller Löcher. Pfeile fallen immer wieder heraus.',
-      es: 'Si, los calcetines también pueden ser una aljaba.',
+      es: 'Suave, lleno de huecos. Las flechas siguen cayendo.',
       fr: 'Un carquois plein de trouvs dont les flèches n\'arrêtent pas de tomber.',
       it: 'Morbido, pieno di buchi. Le frecce continuano a cadere.',
       pt: 'Suave, cheio de buracos. As setas continuam caindo.',
@@ -35,7 +35,7 @@ export default [
       de: 'Sieht billig und unzuverlässig aus., aber dennoch robust genug für Ihre Pfeile.',
       fr: 'Ça a l\'air bon marché et peu fiable., mais assez robuste pour vos flèches.',
       es: 'Parece barato y poco fiable, pero lo suficientemente resistente para tus flechas.',
-      pt: 'Parece barato e não confiável, mas resistente o suficiente para suas flechas.',
+      pt: 'Parece barato e não confiável, mas resistente o suficiente para as suas flechas.',
       it: 'Sembra a buon mercato e inaffidabile, ma abbastanza robusto per le frecce.',
       pl: 'Wygląda tanio i niewiarygodnie., a jednocześnie wystarczająco wytrzymała, aby można było używać strzałek.',
       ko: '싸고 믿을 수 없지만 당신의 화살만큼 튼튼한 것 같습니다.',
@@ -59,7 +59,7 @@ export default [
       en: 'Every time you pull an arrow out, it hisses at you.',
       ru: 'Каждый раз, когда вы вытаскиваете стрелу, она шипит на вас.',
       de: 'Jedes Mal, wenn du einen Pfeil herausziehst, zischt er dich an.',
-      es: '¡Serpientes! ¿¡Por qué tenía que ser serpientes!?',
+      es: 'Cada vez que toma una flecha, el carcaj se sisea.',
       tl: 'Sa bawat oras na hilahin mo ang isang arrow out ito heses sa iyo.',
       bg: 'Всеки път, когато издърпате стрела, тя изсъхва.',
       el: 'Κάθε φορά που τραβάς ένα βέλος, σου σου σου λέει.',
@@ -81,12 +81,12 @@ export default [
   },
 
   {
-    name       : {$$: 'Reinforced Examplar' },
+    name       : {$$: 'Reinforced Exemplar' },
     description: {
       en: 'Linen sack covered in stiff leather.',
       ru: 'Льняной мешочек обтянутый жесткой кожей.',
       de: 'Leinensack mit steifem Leder bezogen.',
-      es: 'Una bolsa de lana con cuero.',
+      es: 'Un saco de lino cubierto de cuero rígido.',
       fr: 'Sac en lin recouvert de cuir rigide.',
       tl: 'Linyang lino na sakop sa matigas na katad.',
       bg: 'Спално бельо, покрито с твърда кожа.',
@@ -129,8 +129,7 @@ export default [
       cs: 'Jemně vytvořený toulec vyrobený z tajemného třpytivého materiálu.',
       ja: '神秘的なきらめく材料で作られた細かく作られた震え。',
       tr: 'Gizemli parıldayan metalden yapılmış ince hazırlanmış ok',
-      ro: 'O tolbă fină făcută dintr-un material strălucitor și misterios.',
-      da: ''
+      ro: 'O tolbă fină făcută dintr-un material strălucitor și misterios.'
     }
   },
 
@@ -153,7 +152,7 @@ export default [
       bg: 'Елфическия колчан, покрит с блестящ диамант.',
       el: 'Ελβετικό τρίχας επικαλυμμένο με λαμπερό διαμάντι.',
       it: 'Faretra elfica rivestita di diamante luccicante.',
-      pt: 'Aljava elfica revestida com diamante cintilante.',
+      pt: 'Aljava elfica revestida com diamantes cintilantes.',
       hi: 'एल्वेन पोटली, हीरों से जड़ी।',
       nl: 'Elven koker gecoat in glinsterende diamant.',
       pl: 'Elficki kołczan pokryty błyszczącym diamentem.',
@@ -176,7 +175,7 @@ export default [
       de: 'Ein spektakulärer smaragdgrüner Köcher, der deine Feinde mit Schuldgefühlen erfüllt, während sie sich darauf vorbereiten, dich anzugreifen.',
       fr: 'Un carquois vert émeraude spectaculaire qui remplit vos ennemis de culpabilité alors qu\'ils se préparent à vous attaquer.',
       es: 'Un espectacular carcaj de color verde esmeralda llena de culpa a tus enemigos mientras se preparan para atacarte.',
-      pt: 'Um espetacular aljava verde esmeralda enchendo seus inimigos de culpa enquanto eles se preparam para atacar você.',
+      pt: 'Uma espetacular aljava verde-esmeralda que enche os seus inimigos de culpa enquanto eles se preparam para atacar você.',
       it: 'Una spettacolare faretra verde smeraldo che riempie i tuoi nemici di sensi di colpa mentre si preparano ad attaccarti.',
       pl: 'Spektakularny szmaragdowo-zielony kołczan wypełniający twoich wrogów poczuciem winy, gdy przygotowują się do ataku.',
       ko: '그들이 당신을 공격 할 준비를 할 때 죄책감으로 당신의 원수를 채우는 환상적인 에메랄드 빛 떨림.',
@@ -200,7 +199,7 @@ export default [
     description: {
       en: 'A quiver is coated in a deep, shimmering navy material. Ancient stories state that such a quiver clears the mind of distractions during battle.',
       ru: 'Колчан покрыт в глубоком, мерцающем металле. Древние истории говорят, что, во время битвы, такой колчан очищает разум от отвлечения.',
-      pt: 'Um tremor é revestido num material marinho profundo e cintilante. Histórias antigas afirmam que tal aljava limpa a mente das distrações durante a batalha.',
+      pt: 'Uma aljava é revestida num material marinho profundo e cintilante. Histórias antigas afirmam que tal aljava limpa a mente das distrações durante a batalha.',
       es: 'Un carcaj está recubierto de un material marino profundo y brillante. Historias antiguas afirman que tal carcajada despeja la mente de distracciones durante la batalla.',
       fr: 'Un carquois recouvert d\'une matière marine profonde et scintillante. Les histoires anciennes disent qu\'un tel carquois libère l\'esprit des distractions pendant les combats.',
       de: 'Ein Köcher ist mit einem tiefen, schimmernden Marinematerial überzogen. Alte Geschichten besagen, dass ein solches Zittern den Geist von Ablenkungen im Kampf befreit.',
@@ -227,7 +226,7 @@ export default [
     description: {
       en: 'Crumbling scrolls that are stained with blood read that chaos fills the mind of those that have been touched by arrows held in such a quiver.',
       ru: 'Хрупкие свитки, испачканные кровью, говорят, что разумы тех, кто коснется стрел, находящихся в этом колчане, поселит хаос.',
-      pt: 'Pergaminhos desmoronando que estão manchados de sangue lido que o caos enche a mente daqueles que foram tocados por setas seguradas em tal aljava.',
+      pt: 'Pergaminhos desmoronando que estão manchados de sangue lido que faz o caos encher a mente daqueles que foram tocados por setas seguradas em tal aljava.',
       es: 'Pergaminos que se desmoronan y están manchados de sangre leen que el caos llena la mente de aquellos que han sido tocados por flechas sostenidas en tal carcajada.',
       fr: 'Des parchemins émiettés et tachés de sang disent que le chaos remplit l\'esprit de ceux qui ont été touchés par les flèches contenues dans un tel carquois.',
       de: 'Zerbröckelnde Schriftrollen, die mit Blut befleckt sind, lesen, dass das Chaos den Geist derer erfüllt, die von Pfeilen berührt wurden, die in einem solchen Köcher gehalten werden.',

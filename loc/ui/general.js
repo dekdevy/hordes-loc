@@ -6,7 +6,7 @@ export default {
     ru: 'Окей',
     de: 'Okay',
     hi: 'ठीक',
-    fr: 'Oui',
+    fr: 'OK',
     es: 'Bien',
     tr: 'Tamam',
     nl: 'Okee',
@@ -21,7 +21,9 @@ export default {
     el: 'εντάξει',
     tl: 'Sige',
     ro: 'Okay',
-    da: 'Okay'
+    da: 'Okay',
+    zh: '好的',
+    hu: 'Rendben'
   },
 
   back: {
@@ -45,7 +47,9 @@ export default {
     el: 'Πίσω',
     tl: 'Bumalik',
     ro: 'Înapoi',
-    da: 'Tilbage'
+    da: 'Tilbage',
+    zh: '回',
+    hu: 'Vissza'
   },
 
   accept: {
@@ -53,11 +57,11 @@ export default {
     sv: 'Acceptera',
     ru: 'Принять',
     hi: 'स्वीकार है',
-    fr: 'Acceptez',
+    fr: 'Accepter',
     de: 'Akzeptieren',
     es: 'Aceptar',
     nl: 'Aanvaarden',
-    tr: 'Kabul etmek',
+    tr: 'Kabul Et',
     pt: 'Aceitar',
     pl: 'Zaakceptować',
     ht: 'Aksepte',
@@ -69,13 +73,16 @@ export default {
     el: 'Αποδέχομαι',
     tl: 'Tanggapin',
     ro: 'Acceptă',
-    da: 'Acceptere'
+    da: 'Acceptere',
+    zh: '允许',
+    hu: 'Elfogadás'
   },
 
   cancel: {
     en: 'Cancel',
     ru: 'Отменить',
     nl: 'Annuleren',
+    tr: 'İptal Et',
     fr: 'Annuler',
     es: 'Cancelar',
     pt: 'Cancelar',
@@ -92,7 +99,9 @@ export default {
     ja: 'キャンセル',
     hi: 'कैंसल',
     sv: 'Annullera',
-    da: 'Afbestille'
+    da: 'Afbestille',
+    zh: '取消',
+    hu: 'Mégsem'
   },
 
   decline: {
@@ -100,12 +109,12 @@ export default {
     sv: 'Nedgång',
     ru: 'Отказать',
     hi: 'मना करें',
-    fr: 'Déclin',
+    fr: 'Refuser',
     de: 'Ablehnen',
     es: 'Rechazar',
     nl: 'Afwijzen',
-    tr: 'Düşüş',
-    pt: 'Declínio',
+    tr: 'Reddet',
+    pt: 'Rejeitar',
     pl: 'Upadek',
     ht: 'Refize',
     ko: '쇠퇴',
@@ -116,7 +125,9 @@ export default {
     el: 'Πτώση',
     tl: 'Tanggihan',
     ro: 'Refuză',
-    da: 'Nedgang'
+    da: 'Nedgang',
+    zh: '拒绝',
+    hu: 'Elutasítás'
   },
 
   close: {
@@ -129,7 +140,7 @@ export default {
     es: 'Cerrar',
     nl: 'Dichtbij',
     tr: 'Kapat',
-    pt: 'Perto',
+    pt: 'Fechar',
     pl: 'Blisko',
     ht: 'Close',
     ko: '닫기',
@@ -140,6 +151,8 @@ export default {
     el: 'Κοντά',
     tl: 'Isara',
     ro: 'Închide',
-    da: 'Luk'
+    da: 'Luk',
+    zh: '关',
+    hu: 'Bezárás'
   }
 }

@@ -5,7 +5,7 @@ export default [
     description: {
       en: 'Name says it all. Careful of the splinters.',
       ru: 'Имя говорит само за себя. Остерегайтесь заноз.',
-      es: 'La receta de fabricación es dos bloques de madera y un palo.',
+      es: 'El nombre lo dice todo. Ten cuidado de las astillas.',
       de: 'Der Name sagt alles. Vorsicht mit den Splittern.',
       fr: 'Le nom en dit long. Attention aux échardes.',
       hi: 'नाम ही काफ़ी है। छितरों से बचे।',
@@ -16,13 +16,13 @@ export default [
       nl: 'De naam zegt het allemaal. Voorzichtig met de splinters.',
       pl: 'Imię mówi wszystko. Uważaj na drzazgi.',
       ht: 'Non di li tout. Atansyon ak ekla yo.',
-      it: 'Il nome dice tutto.  Attento alle schegge.',
+      it: 'Il nome dice tutto. Attento alle schegge.',
       cs: 'Jméno říká všechno. Pozor na třísky.',
       ja: '名前はそれをすべて言います。破片の注意が必要です。',
       sv: 'Namnet säger allt. Var försiktig med splinterna.',
       ko: '이름은 그것을 모두 말한다. 파편을 조심하십시오.',
       ro: 'Numele spune totul. Ai grijă la așchii.',
-      tr: 'Adı her şeyi söylüyor. Dikkatli olun yoksa bir kıymık alırsınız.',
+      tr: 'Adı her şeyi söylüyor. Dikkatli olun yoksa kıymık batabilir.',
       da: 'Navnet siger alt. Pas på splinterne.'
     }
   },
@@ -33,7 +33,7 @@ export default [
       en: 'Not much better than a blunt piece of wood in my opinion.',
       ru: 'Не намного лучше, чем тупой кусок дерева, на мой взгляд.',
       fr: 'À peine meilleure qu\'un morceau de bois émoussé, à mon humble avis.',
-      es: 'No mucho mejor que un trozo de madera en mi opinión.',
+      es: 'No es mucho mejor que un trozo de madera en mi opinión.',
       de: 'Nicht viel besser als ein stumpfes Stück Holz, denke ich.',
       hi: 'मरी राय में यह लकड़ी के कुंद टुकड़े से बेहतर नहीं है।',
       pt: 'Não é muito melhor do que um pedaço de madeira na minha opinião.',
@@ -49,7 +49,7 @@ export default [
       sv: 'Inte mycket bättre än ett trubbigt träslag enligt min åsikt.',
       ko: '내 의견으로는 뭉툭한 나무 조각보다 낫지 않습니다.',
       ro: 'Nu cu mult mai bun decât o bucată de lemn tocit, în opinia mea.',
-      tr: 'Bence künt bir ahşap parçasından çok daha iyi değil.',
+      tr: 'Bence körelmiş bir ahşap parçasından çok da iyi değil.',
       da: 'Ikke meget bedre end et stumt stykke træ efter min mening.'
     }
   },
@@ -59,7 +59,7 @@ export default [
     description: {
       en: 'Am I being pranked?',
       ru: 'Меня тролят?',
-      es: 'Los trolls usaron solo fe y bromas para hacer daño con sus armas ge guerra.',
+      es: '¿Estoy siendo bromado?',
       de: 'Werde ich verarscht?',
       fr: 'Suis-je victime d\'une farce?',
       hi: 'मज़ाक़ कर रहो हो?',
@@ -76,7 +76,7 @@ export default [
       sv: 'Blir jag lurad?',
       ko: '내가 장난하는거야?',
       ro: 'Asta e o glumă?',
-      tr: 'Bana şaka mı yapıyorsun',
+      tr: 'Trolleniyor muyum?',
       da: 'Bliver jeg trollet?'
     }
   },
@@ -87,7 +87,7 @@ export default [
       en: 'Some knight dropped this. Probably unintentionally.',
       ru: 'Какой-то рыцарь бросил это. Вероятно, непреднамеренно.',
       fr: 'Un chevalier a lâché cette épée. Probablement par accident.',
-      es: 'Ey, finalmente, una espada real. Tal vez puede realmente ser útil.',
+      es: 'Un caballero la dejó caer. Probablemente por accidente',
       de: 'Ein Ritter hat das fallen lassen. Wahrscheinlich unbeabsichtigt.',
       hi: 'किसी शूरवीर से गिर गयी। ग़लती से।',
       pt: 'Um cavaleiro qualquer deixou cair isto. Provavelmente não intencionalmente.',
@@ -103,7 +103,7 @@ export default [
       sv: 'En del riddare släppte detta. Förmodligen oavsiktligt.',
       ko: '어떤 기사가 이것을 떨어 뜨 렸습니다. 아마도 우연히.',
       ro: 'Un cavaler a scăpat asta. Probabil neintenționat.',
-      tr: 'Bir şövalye bunu düşürdü. Muhtemelen kasıtsız.',
+      tr: 'Bir şövalye bunu düşürdü. Muhtemelen bilerek değil.',
       da: 'Nogle ridder faldt dette. Sandsynligvis utilsigtet.'
     }
   },
@@ -130,7 +130,7 @@ export default [
       sv: 'Lång? Ja. Dödligt? Kanske. Skär inte dig själv.',
       ko: '긴? 예. 치명적인? 아마도. 그냥 자르지 마.',
       ro: 'Lungă? Da. Mortală? Poate. Doar ai grijă să nu te tai.',
-      tr: 'Uzun? evet. ölümcül? belki. Sadece kendini kesme.',
+      tr: 'Uzun? Evet. Ölümcül? Belki. Sadece kendini kesme.',
       da: 'Lang? Ja. Dødelig? Måske. Skær bare ikke dig selv.'
     }
   },
@@ -156,7 +156,7 @@ export default [
       sv: 'Bruten skuren från benen av en gammal behemoth.',
       ko: '고대 거물의 뼈에서 날카롭게 새겨 져있다.',
       ro: 'Sculptată grosolan din oasele unui monstru behemoth.',
-      tr: 'Antik bir yaratığın kemiğinden dikkatsizce oyulmuş',
+      tr: 'Antik bir yaratığın kemiğinden kabaca oyulmuş.',
       da: 'Grovt skåret ud af knoglerne i en gammel behemoth.'
     }
   },
@@ -165,7 +165,7 @@ export default [
     description: {
       en: 'A sword so mighty that few can handle it. It\'s pretty heavy.',
       ru: 'Меч такой могущественный, что немногие могут с ним справиться. Довольно тяжелый.',
-      es: 'Bastante pesado y bastante bien.',
+      es: 'Una espada tan grande que la mayoría no puede usarla. Es muy pesada',
       de: 'Ein Schwert, das so mächtig ist, dass nur wenige damit umgehen können. Es ist ziemlich schwer.',
       fr: 'Une épée si puissante que peu de gens peuvent la manier. Elle est assez lourde.',
       hi: 'एक तलवार इतनी महान, कुछ ही लोग इसे नियंत्रित कर सकते है। काफ़ी भारी है।',
@@ -182,7 +182,7 @@ export default [
       sv: 'Ett svärd så mäktigt att få kan hantera det. Det är ganska tungt.',
       ko: '몇 명만이 그것을 처리 할 수있는 강력한 칼. 꽤 무거워.',
       ro: 'O sabie atât de puternică încât puțini o pot mânui. E destul de grea.',
-      tr: 'O kadar güçlü bir kılıç ki, sadece birkaçı halledebilir. Oldukça ağır.',
+      tr: 'O kadar güçlü bir kılıç ki, sadece bazı kişiler kullanabilir. Oldukça ağır.',
       da: 'Et sværd så mægtigt, at få kan klare det. Det er ret tungt.'
     }
   },
@@ -208,7 +208,7 @@ export default [
       sv: 'Djävulskt krökt blad. Även hålla det får dig att känna sin mörka kärna.',
       ko: '악마 모양의 곡선 칼날. 그것을 들고 있어도 당신은 어둠의 본질을 느낄 수 있습니다.',
       ro: 'Lamă curbată diabolic. Doar ținând-o poți să-i simți esența întunecată.',
-      tr: 'koyu kavisli bıçak. Karanlık özünü sadece tutarak hissedebilirsiniz.',
+      tr: 'Kavisli şeytani kılıç. Karanlık özünü sadece tutarak bile hissedebilirsiniz.',
       da: 'Diabolisk buet blad. Selv at holde det får dig til at føle sin mørke essens.'
     }
   },
@@ -235,7 +235,7 @@ export default [
       sv: 'Ett kallt blad med en brinnande het kant',
       ko: '불타는 뜨거운 가장자리가있는 차가운 모양의 날',
       ro: 'O lamă cu aspect rece și o margine ce arde fierbinte.',
-      tr: 'Yanan sıcak kenarlı soğuk görünümlü bir bıçak',
+      tr: 'Yanan, sıcak kenarlı, soğuk görünümlü bir kılıç.',
       da: 'Et koldt klinge med en brændende varm kant.'
     }
   },
@@ -256,13 +256,13 @@ export default [
       el: 'Κυλινδρικό σπαθί κλεμμένο από αρχαίο βασιλιά. Η ικανότητα κοπής είναι αμφισβητήσιμη.',
       pl: 'Cylindryczny miecz skradziony starożytnemu królowi. Zdolność cięcia jest wątpliwa.',
       ht: 'Silendrik nepe yo vòlè li soti nan yon wa ansyen. Koupe kapasite se dout.',
-      it: 'Spada cilindrica rubata da un antico re.  La capacità di taglio è discutibile.',
+      it: 'Spada cilindrica rubata da un antico re. La capacità di taglio è discutibile.',
       cs: 'Válcový meč ukradl starému králi. Schopnost řezání je sporná.',
       ja: '古代の王から盗まれた円筒形の刀。切断能力は疑問です。',
       sv: 'Cylindriskt svärd stulet från en gammal kung. Klippkapacitet är ifrågasättande.',
       ko: '고대의 왕이 원통형 칼을 훔쳤다. 절단 능력에 의문의 여지가 있습니다.',
       ro: 'Sabie cilindrică furată de la un rege antic. Capabilitatea de tăiere este discutabilă.',
-      tr: 'Eski bir kraldan çalınan silindirik kılıç. Bu kılıcın yeteneği belirsiz.',
+      tr: 'Eski bir kraldan çalınan silindirik kılıç. Keskinliği tartışılabilir.',
       da: 'Cylindrisk sværd stjålet fra en gammel konge. Klippeevne er tvivlsom.'
     }
   },
@@ -289,7 +289,7 @@ export default [
       sv: 'Ett blad som varar av endast de mest skickliga riddarna.',
       ko: '가장 숙련 된 기사들만이 휘두르는 칼날.',
       ro: 'O lamă mânuită doar de cei mai pricepuți cavaleri.',
-      tr: 'Sadece en yetenekli şövalyeler tarafından kullanılan bir bıçak.',
+      tr: 'Sadece en yetenekli şövalyeler tarafından kullanılan bir kılıç.',
       da: 'Et kniv varet af kun de mest dygtige riddere.'
     }
   },
@@ -316,7 +316,7 @@ export default [
       sv: 'Kraftfullt mästerverk som tagits från underjordens avgrundar.',
       ko: '지하 세계의 무덤에서 가져온 강력한 걸작.',
       ro: 'O capodoperă puternică adusă din abisurile lumii de dincolo.',
-      tr: 'Yeraltı dünyasının uçurumlarından getirilen güçlü başyapıt',
+      tr: 'Yeraltı dünyasının çatlaklarından getirilen güçlü bir başyapıt.',
       da: 'Kraftigt mesterværk bragt fra undergrundens afgrund.'
     }
   },
@@ -327,7 +327,7 @@ export default [
       en: 'Mysterious pink sword. Engravings say "Mächtig Zerstörer".',
       ru: 'Таинственный розовый меч. Гравюры говорят "Mächtig Zerstörer".',
       fr: 'Une mystérieuse épée rose. Sur les gravures, nous pouvons lire: «Mächtig Zerstörer».',
-      es: '¡Es rosa! Los grabados dicen "Mächtig Zerstörer".',
+      es: 'Una misteriosa espada rosa. Los grabados dicen "Mächtig Zerstörer".',
       de: 'Ein mysteriöses rosa Schwert. Gravuren sagen "Mächtig Zerstörer".',
       hi: 'रहस्यमयी गुलाबी तलवार। इस पर की गयी नक्काशी कहती है "मैशतिग ज़ेर्सटोरर। "',
       pt: 'Espada rosa misteriosa. As gravuras dizem "Mächtig Zerstörer".',
@@ -337,13 +337,13 @@ export default [
       el: 'Μυστηριώδες ροζ σπαθί. Χαρακτικά λένε "Mächtig Zerstörer".',
       pl: 'Tajemniczy różowy miecz. Ryciny mówią, że "Mächtig Zerstörer".',
       ht: 'Misterye nepe woz. Gravure di "Mächtig Zerstörer".',
-      it: 'Misteriosa spada rosa.  Incisioni di "Mächtig Zerstörer".',
+      it: 'Misteriosa spada rosa. Incisioni di "Mächtig Zerstörer".',
       cs: 'Tajemný růžový meč. Rytiny říkají "Mächtig Zerstörer".',
       ja: '不思議なピンクの刀彫刻は「MächtigZerstörer」と言います。',
       sv: 'Mystiskt rosa svärd. Graveringar säger "Mächtig Zerstörer".',
       ko: '신비한 핑크색 칼. 조각은 "Mächtig Zerstörer""라고합니다.',
       ro: 'Misterioasa sabie roz. Gravurile spun "Mächtig Zerstorer".',
-      tr: 'Gizemli pembe kılıç. Kazınmış kelimeler "Mächtig Zerstörer".',
+      tr: 'Gizemli, pembe bir kılıç. Kazınmış kelimeler: "Mächtig Zerstörer".',
       da: 'Mystisk rosa sværd. Graveringer siger "Mächtig Zerstörer".'
     }
   },
@@ -370,7 +370,7 @@ export default [
       sv: 'Förhinder levande vävnad som det pungar sig in i den tjocka muskeln av dina fiender som slår hjärta.',
       ko: '심장을 때리는 적의 두꺼운 근육 속으로 빠져들면서 조직을 파괴합니다.',
       ro: 'Devorează țesutul viu în timp ce-și face loc în mușchiul gros al inimii bătânde a dușmanilor tăi.',
-      tr: 'Kılıç düşmanın kalbine girerken dokuları yok eder',
+      tr: 'Bu kılıç düşmanın kalbine girerken dokuları yok eder.',
       da: 'Uddanner levende væv, da det plunges vej ind i dine fjenders tykke muskel, der slår hjerte.'
     }
   },
@@ -380,7 +380,7 @@ export default [
     description: {
       en: 'A blade said to be broken in the past and forged anew by the fabled demons of these magnificent lands.',
       de: 'Der die Klinge in der Vergangenheit gebrochen werden und von den sagenumwobenen Dämonen mag diese Länder geschmiedet aufs Neue.',
-      ru: 'Поговаривают, этот клинок  был сломан в прошлом и создан вновь легендарными демонами этих  великолепных земель.',
+      ru: 'Поговаривают, этот клинок был сломан в прошлом и создан вновь легендарными демонами этих великолепных земель.',
       pt: 'Uma lâmina que foi quebrada no passado e forjada de novo pelos demónios lendários destas magníficas terras.',
       it: 'Una lama che si diceva essere rotta in passato e forgiata di nuovo dai demoni leggendari di queste magnifiche terre.',
       nl: 'Een lemmet zou in het verleden gebroken zijn en opnieuw gesmeed zijn door de legendarische demonen van dit prachtige aanlanden.',
@@ -397,7 +397,8 @@ export default [
       ja: '刃は過去に壊れたと言われて、これらの壮大な土地の伝説的な悪魔によって新しく鍛造されました。',
       da: 'Et blad sagde at være brudt i fortiden og smedet på ny af de fantastiske dommere i disse storslåede lande.',
       sv: 'Ett blad sägs vara brutet i det förflutna och smidda igen av de fantastiska demonerna i dessa magnifika länder.',
-      ro: 'O lamă ce se spune că ar fi fost ruptă în trecut și făurită din nou de către demonii legendari ai acestor tărâmuri magnifice.'
+      ro: 'O lamă ce se spune că ar fi fost ruptă în trecut și făurită din nou de către demonii legendari ai acestor tărâmuri magnifice.',
+      tr: 'Söylenilene göre bu kılıç geçmişte kırılmış ve bu görkemli diyarların efsanelerinde adı geçen iblisler tarafından tekrar dövülmüş.'
     }
   },
 
@@ -423,17 +424,17 @@ export default [
       sv: 'Vi fick höra att det drogs från sten. Fortfarande kan inte hitta stenen.',
       ko: '우리는 돌에서 꺼냈다 고 들었다. 아직도 돌을 찾을 수 없습니다.',
       ro: 'Ni s-a spus că a fost scoasă din piatră. Piatra încă nu a fost găsită.',
-      tr: 'Bu kılıcın bir taştan çekildiği söylendi, ama taşı bulamıyoruz.',
+      tr: 'Bu kılıcın bir taştan çekildiği söylendi. Ama taşı bulamıyoruz.',
       da: 'Vi fik at vide, at det blev trukket fra sten. Stadig kan ikke finde stenen.'
     }
   },
 
   {
-    name       : {$$: 'Harbringer' },
+    name       : {$$: 'Harbinger' },
     description: {
       en: 'This weapon brings about the coming of a new age.',
       ru: 'Это оружие вызывает наступление новой эры.',
-      es: 'Un arma elegante para una era más civilizada.',
+      es: 'Esta espada trae la llegada de una nueva era.',
       de: 'Diese Waffe bringt das Kommen eines neuen Zeitalters mit sich.',
       fr: 'Cette arme provoque l\'avènement d\'une nouvelle ère.',
       hi: 'होने वाली है नए युग की शुरुआत।',
@@ -450,7 +451,7 @@ export default [
       sv: 'Detta vapen ger upphov till en ny ålder.',
       ko: '이 무기는 새로운 시대를 열어줍니다.',
       ro: 'Această armă aduce începutul unei noi ere.',
-      tr: 'Bu silah yeni bir çağın şafağını getiriyor',
+      tr: 'Bu silah yeni bir çağın şafağını getiriyor.',
       da: 'Dette våben giver anledning til en ny tids alder.'
     }
   }

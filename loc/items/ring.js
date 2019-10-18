@@ -21,7 +21,7 @@ export default [
       sv: 'Om du så mycket som sneglar på det här bandet så lär det falla i bitar.',
       ko: '그것을 보지 않거나 떨어져 나옵니다.',
       ro: 'Nu te uita la el sau se va destrăma.',
-      tr: 'Bu yüzüğe bakma, yoksa paramparça olur.',
+      tr: 'O kadar narin ki baktığın zaman bile paramparça olur.',
       da: 'Kig ikke på det, eller det vil falde fra hinanden.'
     }
   },
@@ -48,7 +48,7 @@ export default [
       sv: 'Osäker när det gäller barken, men den är helt klart gjord av järn.',
       ko: '나무 껍질에 대해서는 잘 모르겠지만 철분으로 만들어졌습니다.',
       ro: 'Nu sunt sigur despre coajă, dar este cu sigurață făcut din fier.',
-      tr: 'Kabuk hakkında emin değil, ama kesinlikle demirden yapılmış.',
+      tr: 'Kabuk hakkında emin değilim ama kesinlikle demirden yapılmış.',
       da: 'Ikke sikker på barken, men det er helt klart lavet af jern.'
     }
   },
@@ -75,7 +75,7 @@ export default [
       sv: 'Äntligen, en skinande ring.',
       ko: '마지막으로, 빛나는 반지.',
       ro: 'În sfârșit, un inel care strălucește.',
-      tr: 'Sonunda, Parlayan bir yüzük',
+      tr: 'Sonunda, parlayan bir yüzük.',
       da: 'Endelig en ring, der er skinnende.'
     }
   },
@@ -102,7 +102,7 @@ export default [
       ko: '어젯밤의 남은 음식으로 만든 반지.',
       ht: 'Yon bag te fè nan rès rezèv yè swa a.',
       ro: 'Un inel făcut din resturile de aseară.',
-      tr: 'Son gece akşam yemeğinden kemiklerden yapılmış bir yüzük.',
+      tr: 'Dün akşamki yemeğin artıklarından yapılmış bir yüzük.',
       da: 'En ring lavet fra sidste natrester.'
     }
   },
@@ -115,7 +115,7 @@ export default [
       es: 'Una raza de elfos elegantes construyó este anillo fino para protegerse del peligro.',
       fr: 'Une race d\'elfes élégants a construit cette belle bague pour se protéger du danger',
       de: 'Eine Rasse von eleganten Elfen konstruierte diesen feinen Ring, um sich vor Gefahren zu schützen.',
-      pt: 'Uma raça de duendes elegantes construiu este fino anel para se protegerem do perigo.',
+      pt: 'Uma raça de elfos elegantes construiu este requintado anel para se protegerem do perigo.',
       ko: '우아한 엘프들의 경주가이 미세한 고리를 만들어 위험으로부터 자신을 보호합니다.',
       nl: 'Een ras van elegante elfen bouwde deze mooie ring om zichzelf te beschermen tegen gevaar.',
       pl: 'Rasa eleganckich elfów zbudowała ten piękny pierścionek, aby chronić się przed niebezpieczeństwem.',
@@ -126,10 +126,10 @@ export default [
       tl: 'Ang isang lahi ng mga eleganteng elves ay nagtayo ng pinong singsing upang protektahan ang kanilang sarili mula sa panganib.',
       el: 'Μια φυλή κομψών ξωτικών κατασκευάζει αυτό το ωραίο δαχτυλίδι για να προστατευθεί από τον κίνδυνο.',
       bg: 'Състезание от елегантни елфи изгради този фин пръстен, за да се предпази от опасност.',
-      cs: 'Závod elegantních elfů vytvořil tento jemný prsten, aby se chránil před nebezpečím.',
+      cs: 'Druh elegantních elfů vytvořil tento jemný prsten, aby se chránil před nebezpečím.',
       ja: '優雅なエルフのレースは危険から身を守るためにこの素晴らしい指輪を作りました。',
       ro: 'O rasă de elfi eleganți a construit acest inel frumos pentru a se proteja de pericole.',
-      tr: 'Zarif elflerin bir yarışı, kendilerini tehlikeden korumak için bu güzel yüzüğü inşa etti.',
+      tr: 'Zarif elflerden bir ırk, kendilerini tehlikeden korumak için bu güzel yüzüğü işledi.',
       da: 'En rave af elegante alver konstruerede denne fine ring for at beskytte sig mod fare'
     }
   },
@@ -156,7 +156,7 @@ export default [
       sv: 'Passar fint, även om effekterna är marginella.',
       ko: '멋지게 잘 맞습니다. 효과는 거의 없습니다.',
       ro: 'Se potrivește bine, cu toate că efectele pe care le dă sunt marginale.',
-      tr: 'Verdiği etkiler marjinal olmasına rağmen güzel uyuyor',
+      tr: 'Parmağına tam uyuyor ama sağladığı efektler marjinal.',
       da: 'Passer pænt, selvom de effekter det giver er marginale'
     }
   },
@@ -173,7 +173,7 @@ export default [
       tl: 'Walang nakakaalam kung ito ay nagkakahalaga ng paglagay.',
       bg: 'Никой не знае дали си струва да се облече.',
       el: 'Κανείς δεν ξέρει αν αξίζει να το κάνουμε.',
-      pt: 'Ninguém sabe se vale a pena vestir.',
+      pt: 'Ninguém sabe se vale a pena vesti-lo.',
       nl: 'Niemand weet of het de moeite waard is om aan te trekken.',
       pl: 'Nikt nie wie, czy warto to założyć.',
       it: 'Nessuno sa se vale la pena di indossarlo.',
@@ -183,7 +183,7 @@ export default [
       sv: 'Ingen vet om den är värd att ta på sig.',
       ko: '아무 가치도 없다면 아무도 몰라요.',
       ro: 'Nimeni nu știe dacă merită să-l pui pe deget.',
-      tr: 'Kimse giymeye değer olup olmadığını bilmiyor.',
+      tr: 'Kimse parmağına takmaya değer olup olmadığını bilmiyor.',
       da: 'Ingen ved, om det er værd at sætte på.'
     }
   },
@@ -197,7 +197,7 @@ export default [
       de: 'Smaragde auf allen Seiten, damit Sie sich reich fühlen.',
       hi: 'इसके चारों ओर क़ीमती पत्थर जड़े है, जिनसे आप धनी महसूस करे।',
       fr: 'Incrustée d\'émeraudes pour vous faire vous sentir riche.',
-      pt: 'Esmeraldas de todos os lados para te fazer sentir rico.',
+      pt: 'Esmeraldas em todos os lados para te fazer sentir rico.',
       nl: 'Smaragden aan alle kanten om je rijk te laten voelen.',
       tl: 'Ang mga esmeralda sa lahat ng panig ay nagpapasaya sa iyo.',
       bg: 'Изумруди от всички страни, за да се почувствате богати.',
@@ -210,7 +210,7 @@ export default [
       sv: 'Smaragder på alla sidor för att få dig att känna dig rik.',
       ko: '너를 부자로 만드는 에메랄드.',
       ro: 'Are smaralde în toate părțile pentru a te face să te simți bogat.',
-      tr: 'Bu yüzüğü çevreleyen zümrütler sizi zengin hissettirecek.',
+      tr: 'Etrafındaki zümrütler sizi zengin hissettirecek.',
       da: 'Smaragder på alle sider for at få dig til at føle dig rig.'
     }
   },
@@ -237,7 +237,7 @@ export default [
       sv: 'Kunde den tala så skulle det troligen klaga över att vara triangulär.',
       ko: '말할 수 있다면 아마도 삼각형에 대해 불평 할 것입니다.',
       ro: 'Dacă ar putea vorbi, probabil s-ar plânge că e triunghiular.',
-      tr: 'Bu yüzük konuşabilirse, Üçgen şekli hakkında şikayet ederdi.',
+      tr: 'Bu yüzük konuşabilseydi, muhtemelen üçgen şekli hakkında şikayet ederdi.',
       da: 'Hvis det kunne tale, ville det nok klage over at være trekantet.'
     }
   },
@@ -264,7 +264,7 @@ export default [
       sv: 'Dess ursprung är höljt i dunkel',
       ko: '원산지에 대해 알려주는 기록이 없습니다 ...',
       ro: 'Nu există înregistrări scrise care să ne spună despre originea lui...',
-      tr: 'Bize kökeni hakkında bilgi vermek için yazılı bir kayıt yok...',
+      tr: 'Kökeni hakkında bilgi veren yazılı bir kaynak yok...',
       da: 'Der findes ingen skriftlige optegnelser for at fortælle os om dets oprindelse ...'
     }
   },
@@ -291,13 +291,13 @@ export default [
       sv: 'Helgad artefakt mist av heliga druider.',
       ko: '거룩한 드루이드가 잃어버린 신성한 유물.',
       ro: 'Artefact sacru, pierdut de sfinții druizii.',
-      tr: 'Kutsal druidler tarafından kayıp kutsal eser.',
+      tr: 'Kutsal druidlerin kayıp kutsal eseri.',
       da: 'Sacred artefact tabt af hellige druider'
     }
   },
 
   {
-    name       : {$$: 'Gyges'},
+    name       : {$$: 'Gyges' },
     description: {
       en: 'A ring said to be capable of turning its wearer invisible and motivate them for everlasting glory.',
       ru: 'Кольцо, которое, как говорят, способно сделать его владельца невидимым и мотивировать его на вечную славу.',
@@ -305,7 +305,7 @@ export default [
       de: 'Ein Ring soll in der Lage sein, seinen Träger unsichtbar zu machen und ihn zu ewigem Ruhm zu motivieren.',
       hi: 'एक अंगूठी ने अपने पहनने वाले को अदृश्य करने में सक्षम होने के लिए कहा और उन्हें हमेशा की महिमा के लिए प्रेरित किया।',
       fr: 'Un anneau dit être capable de rendre son porteur invisible et de le motiver pour la gloire éternelle.',
-      pt: 'Um anel disse ser capaz de transformar seu portador invisível e motivá-los para a glória eterna.',
+      pt: 'Um anel dito ser capaz de transformar seu portador invisível e motivá-los para a glória eterna.',
       nl: 'Een ring die naar verluidt in staat is om de drager onzichtbaar te maken en hen te motiveren voor eeuwige glorie.',
       tl: 'Ang isang singsing ay nagsabi na may kakayahang gawing hindi nakikita ang tagapagsuot nito at mag-udyok sa kanila para sa walang hanggang kaluwalhatian.',
       bg: 'Пръстен, за който се казва, че е способен да превърне своя невидим и да ги мотивира за вечна слава.',
@@ -318,7 +318,8 @@ export default [
       sv: 'En ring sa att kunna ändra sin bärare osynlig och motivera dem för evigt ära.',
       ko: '반지는 착용자를 보이지 않게하고 영원한 영광을 위해 그들을 자극 할 수 있다고 말했습니다.',
       da: 'En ring sagde at være i stand til at vende sin bærer usynlig og motivere dem til evig herlighed.',
-      ro: 'Se spune că inelul este capabil să-și facă purtătorul invizibil și să-l motiveze pentru glorie veșnică.'
+      ro: 'Se spune că inelul este capabil să-și facă purtătorul invizibil și să-l motiveze pentru glorie veșnică.',
+      tr: 'Söylenilene göre takan kişiyi görünmez yapabilen ve sonsuz zafer için motive edebilen bir yüzük.'
     }
   },
 
@@ -344,7 +345,7 @@ export default [
       sv: 'Fredsbevarare... inte så säker på det, men den kan hålla dig vid liv...',
       ko: '평화를 지키기 위해... 확실하지는 않지만, 당신을 살릴 수 있습니다.',
       ro: 'Păstrător al păcii... nu sunt sigur de asta, dar s-ar putea să te țină în viață...',
-      tr: 'Bu barış bekçisi olması gerekiyordu... bundan emin değilim, ama seni hayatta tutabilir.',
+      tr: 'Barış bekçisi... bundan emin değilim ama seni hayatta tutabilir.',
       da: 'Fredens bevogter ... ikke sikker på det, men det kan holde dig i live'
     }
   }

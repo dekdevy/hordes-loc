@@ -4,12 +4,12 @@ export default [
     description: {
       en: 'Cheap leather bands bought by an ambitious farmer.',
       ru: 'Дешевые кожаные ремешки, купленный амбициозным фермером.',
-      es: 'Pulsera de cuero hecho por unos rancheros.',
+      es: 'Bandas de cuero baratas, compradas por un granjero ambicioso.',
       fr: 'Bandes en cuir bon marché acheté par un agriculteur ambitieux.',
       de: 'Billige Lederbänder, welche von einem ehrgeizigen Bauern gekauft wurde.',
       pt: 'Bandas de couro barato comprada por um fazendeiro ambicioso.',
       ko: '야심 찬 농부가 사들인 저렴한 가죽 밴드.',
-      nl: 'Goedkope lederen bands gekocht door een ambitieuze boer.',
+      nl: 'Goedkope leren bandjes gekocht door een ambitieuze boer.',
       pl: 'Tanie skórzane opaski kupiona przez ambitnego rolnika.',
       sv: 'Billiga läderband köpta av en ärelysten bonde.',
       ht: 'Gwoupman kwi bon mache te achte pa yon kiltivatè anbisye.',
@@ -21,7 +21,8 @@ export default [
       cs: 'Levné kožené kapely koupil ambiciózní farmář.',
       ja: '野心的な農民によって買われた安い革バンド。',
       ro: 'Brățări de piele ieftină cumpărată de un fermier ambițios.',
-      da: 'Billige læderbånd købt af en ambitiøs landmand.'
+      da: 'Billige læderbånd købt af en ambitiøs landmand.',
+      tr: 'Azimli bir çiftçi tarafından alınmış ucuz deri şeritler.'
     }
   },
 
@@ -35,7 +36,7 @@ export default [
       de: 'Geschickte Hände machten einen komplizierten Job bei der Herstellung dieser hausgemachten Manschetten.',
       pt: 'Mãos habilidosas faziam um trabalho complicado ao fazer esses punhos caseiros.',
       ko: '숙련 된 손은 수제 수갑을 만드는 데 복잡한 일을했습니다.',
-      nl: 'Bekwame handen maakten een ingewikkelde klus bij het maken van deze zelfgemaakte manchetten.',
+      nl: 'Ervaren handen maakten met een ingewikkelde klus deze zelfgemaakte armbanden.',
       pl: 'Wykwalifikowane ręce wykonały zawiłe zadanie przy wykonywaniu tych domowych mankietów.',
       sv: 'Skickligt hantverk ligger bakom dessa hemmagjorda armskydd.',
       tl: 'Ang mga skilled kamay ay gumawa ng isang masalimuot na trabaho sa paggawa ng mga homemade cuffs.',
@@ -47,7 +48,8 @@ export default [
       bg: 'Умели ръце направиха сложна работа, за да направят тези домашни маншети.',
       ja: '熟練した手はこれらの自家製の袖口を作ることにおいて複雑な仕事をしました。',
       ro: 'Niște mâini dibace au făcut o muncă complicată pentru realizarea acestor manșete de casă.',
-      da: 'Færdige hænder gjorde et indviklet job ved at lave disse hjemmelavede manchetter.'
+      da: 'Færdige hænder gjorde et indviklet job ved at lave disse hjemmelavede manchetter.',
+      tr: 'Bu ev yapımı bileklikler marifetli eller tarafından özenle yapıldı.'
     }
   },
 
@@ -61,7 +63,7 @@ export default [
       de: 'Fest, mach deinen Hände wund.',
       pt: 'Rígido, dói-te no braço.',
       ko: '딱딱하고 팔을 아프게하십시오.',
-      nl: 'Stijf, maak je arm pijnlijk.',
+      nl: 'Stijf, doet je armen pijn.',
       pl: 'Sztywniak, bolit cię cała ręka.',
       sv: 'Styv, gör din vapen öm.',
       tl: 'Matigas ang ginagawa ng iyong braso.',
@@ -73,7 +75,8 @@ export default [
       bg: 'Скръв, направи ръцете си възпалени.',
       ja: '硬直して、腕を痛めます。',
       ro: 'Rigid, îți inflamează brațele.',
-      da: 'Stiv, gør dine arme ømme.'
+      da: 'Stiv, gør dine arme ømme.',
+      tr: 'Sert, kollarını acıtabilir.'
     }
   },
 
@@ -82,12 +85,12 @@ export default [
     description: {
       en: 'Elegant cuffs made from the tusks of the last mammoth.',
       ru: 'Элегантные наручники, сделаные из бивней последнего мамонта.',
-      es: 'Unos puños elegantes creados con el comillo del elefante final.',
+      es: 'Unos puños elegantes creados con el colmillo del mamut final.',
       fr: 'Menottes élégant fait à partir des défenses du dernier mammouth.',
       de: 'Elegante Manschetten aus den Stoßzähnen des letzten Mammuts.',
       pt: 'Elegantes algemas feitas das presas do último mamute.',
       ko: '마지막 매머드의 엄니부터 만들어진 우아한 커프스.',
-      nl: 'Elegante manchetten gemaakt van de slagtanden van de laatste mammoet.',
+      nl: 'Elegante armbanden gemaakt van de slagtanden van de laatste mammoet.',
       pl: 'Elegancki mankiety wykonany z kości ostatniego mamuta.',
       sv: 'Elegant manschetter gjord av tusenskönor från den sista mammoten.',
       tl: 'Elegante band na ginawa mula sa mga ngipin ng huling mammoth.',
@@ -108,12 +111,12 @@ export default [
     description: {
       en: 'Heavy on your arms... worth the protection.',
       ru: 'Тяжёлые... но дают хорошую защиту.',
-      es: 'Pesado, pero vale la pena.',
+      es: 'Pesado en sus brazos... pero vale la protección.',
       fr: 'Pèse lourd sur votre bras... ça en vaut la protection.',
       de: 'Schwer auf den Händen... den Schutz wert.',
       pt: 'Pesado no braço...mas vale a pena a protecção.',
       ko: '팔에는 무겁지만... 보호가 그만한 가치가있다.',
-      nl: 'Zwaar op je arm... de bescherming waard.',
+      nl: 'Zwaar op je armen... de bescherming waard.',
       pl: 'Ciężko na twojej ręce... warte ochrony.',
       sv: 'Tung på armen ... värt skydd.',
       tl: 'Malakas sa iyong braso ... nagkakahalaga ng proteksyon.',
@@ -140,7 +143,7 @@ export default [
       de: 'Matte Metallarmschiene, praktisch für nächtliche Raubzüge.',
       pt: 'Braçadeira de metal aborrecida, útil para raides nocturnos.',
       ko: '무딘 금속 브레이 서, 야간의 습격에 편리합니다.',
-      nl: 'Dof metalen bracer, handig voor nachtelijke overvallen.',
+      nl: 'Doffe metalen polsbeschermers, handig voor nachtelijke overvallen.',
       sv: 'Dull metall bracer, praktisk för natten raiding.',
       tr: 'Donuk metal tutucu, gece baskını için kullanışlı.',
       pl: 'Nudny metalowy biustonosz, przydatny podczas nocnych nalotów.',
@@ -162,12 +165,12 @@ export default [
     description: {
       en: 'Scaled bracer, makes your arm resemble that of a dragon.',
       ru: 'Чешуйчатый наруч, делает вашу руку похоже на лапу дракона.',
-      es: 'Con brazos de dragones, puedes resistir todo.',
+      es: 'Muñequera escamosa, hace que su brazo aperece como un dragón.',
       fr: 'Brassard en écailles, qui fait ressembler votre bras à celui d\'un dragon.',
       de: 'Schuppiger Armschutz, lässt deine Arme an die eines Drachens erinnern.',
       pt: 'Braçadeira escamada, faz com que os teus braços se pareçam com os de um dragão.',
       ko: '스케일 된 브레이서는 팔을 용과 비슷하게 만듭니다.',
-      nl: 'Geschaald bracer, maakt je armen lijken op die van een draak.',
+      nl: 'Schubbige polsbeschermers, laat je armen lijken op die van een draak.',
       pl: 'Skalowany aparat ortodontyczny, sprawia, że twoje ramiona przypominajš smoka.',
       sv: 'Skalad bracer, gör att dina armar liknar den hos en drake.',
       tl: 'Ang pinaliit na bracer ay gumagawa ng iyong braso na katulad ng isang dragon.',
@@ -180,7 +183,7 @@ export default [
       bg: 'Мащабирането на ръката ви прилича на тази на дракон.',
       ja: '縮れたブレースはあなたの腕をドラゴンのそれに似せます。',
       ro: 'Manșetă acoperită cu solzi, îți face brațul să semene cu al unui dragon.',
-      da: 'Skalet bracer, gør din arm lig den af ​​en drage.'
+      da: 'Skalet bracer, gør din arm lig den af en drage.'
     }
   },
 
@@ -189,12 +192,12 @@ export default [
     description: {
       en: 'Blind your foes with a magical shine off a devious magicians mirror...',
       ru: 'Ослепляют ваших врагов блеском искривлённого магического зеркала...',
-      es: 'Un espejo por su muñeca. Lo usas para cegar sus enemigos.',
+      es: 'Cega a sus enemigos con un brillo mágico de un espejo de mago astuto...',
       fr: 'Aveugle vos ennemis avec l\'éclat magique du miroir d\'un magicien sournois...',
       de: 'Blendet deine Feinde mit einem magischen Glanz von einem teuflischen Magierspiegel...',
       pt: 'Cega os teus inimigos com um brilho mágico de um espelho de um feiticeiro diabólico...',
       ko: '마법사애 거울이 부터있는 팔찌. 적의눈을 부시게 한다.',
-      nl: 'Verblindt je vijanden met een magische glans van een slinkse goochelspiegel...',
+      nl: 'Verblind je vijanden met een magische glans weerkaatsend vanaf een kronkelende spiegel...',
       pl: 'Oślepia wrogów magicznym blaskiem od zdradzieckiego lusterka magów...',
       tl: 'Blinds iyong mga foes sa isang mahiwagang shine off ang isang palihis salamin magicians ...',
       sv: 'Blindar dina fiender med en magisk glans av en djävulsk trollkarlspegel...',
@@ -216,12 +219,12 @@ export default [
     description: {
       en: 'The ancient golems left remnants of their passing, which you unscrupulously have decided to wear on your arm.',
       ru: 'Древние големы оставили остатки своих похождений, которые вы бессовестно решили надеть на руку.',
-      es: 'Un fragmento de los antiguos gólemns de la era pasada. Has decido pónertelo porque... razones.',
+      es: 'Los golems antiguos dejaron restos de su paso, que sin escrúpulos ha decidido llevar en su brazo.',
       fr: 'Les géants anciens ont laissé des restes de leur passage, que vous avez sans scrupule décidé de porter sur votre bras.',
       de: 'Die alten Golems hinterließen Überreste ihres Ablebens, die du skrupellos auf deinem Arm getragen hast.',
       pt: 'Os antigos gigantes deixaram vestígios de sua passagem, que você, sem escrúpulos, decidiu usar em seu braço.',
       ko: '고대의 골렘들은 남은 자들을 떠났고, 당신은 부주의 한 태도로 팔에 끼기로 결정했습니다.',
-      nl: 'De oude reuzen lieten restanten van hun overlijden achter, die je zonder scrupules op je arm hebt gedragen.',
+      nl: 'De oude reuzen lieten restanten van hun overlijden achter, die je gewetenloos op je arm hebt gedragen.',
       pl: 'Starożytnych gigantów zostawili po sobie resztki swojego odejścia, które bez skrupułów zdecydowaliście się nosić na ramieniu.',
       sv: 'De gamla golemerna lämnade resterna av deras passerar, som du skarpt har bestämt dig för att bära på din arm.',
       tr: 'Eski golemler, acımasızca kolunuza takmaya karar verdiğiniz pasajlarının kalıntılarını bıraktılar.',
@@ -249,7 +252,7 @@ export default [
       pt: 'O aço enganosamente leve oferece proteção contra golpes furtivos.',
       ko: '믿을 수 없을만큼 가벼운 강철은 비열한 타격에 대한 차가운 보호를 제공합니다.',
       tl: 'Ang deceptively light steel ay nag-aalok ng pagpapanatiling proteksyon laban sa malupit na mga suntok.',
-      nl: 'Het bedrieglijk lichte staal biedt koele bescherming tegen stiekeme klappen.',
+      nl: 'Het bedriegelijke lichte staal biedt koele bescherming tegen stiekeme klappen.',
       pl: 'Zwodniczo lekka stal oferuje ochronę przed podstępnymi uderzeniami.',
       sv: 'Det bedrägligt lätta stålet ger kylande skydd mot smutsiga slag.',
       tr: 'Aldatıcı hafif çelik, sinsi darbelere karşı soğutma koruması sunar.',
@@ -270,13 +273,13 @@ export default [
     description: {
       en: 'Stars are not often black, yet this fragment has a... deep... deep darkness.',
       ru: 'Звезды не часто черны, но этот фрагмент имеет... глубокую... глубокую тьму.',
-      es: 'Completamente hecho con piezas de estrellas de neutrón: denso, duro, poderoso.',
+      es: 'Normalmente, las estrellas no son negras, pero eso trozo tiene una intensa... intensa... oscuridad.',
       fr: 'Les étoiles ne sont pas souvent noires, mais ce fragment a une... très... très profonde obscurité.',
       de: 'Sterne sind nicht oft schwarz, aber dieses Fragment hat eine... tiefe... tiefe... tiefe Dunkelheit.',
       pt: 'As estrelas não são normalmente negras, mas este fragmento tem uma... profunda... profunda escuridão.',
       ko: '별은 종종 검은 색이 아니지만이 조각은 깊고... 또깊은 어둠이 있습니다.',
       tl: 'Ang mga bituin ay hindi madalas na itim ngunit ang fragment na ito ay may ... malalim ... malalim na kadiliman.',
-      nl: 'Sterren zijn niet vaak zwart, maar toch heeft dit fragment een... diepe... diepe duisternis.',
+      nl: 'Sterren zijn niet vaak zwart, maar toch heeft dit stukje een... diepe... diepe duisternis.',
       pl: 'Gwiazdy nie są często czarne, ale ten fragment ma... głęboką... głęboką ciemność.',
       sv: 'Tjärnor är inte ofta svarta, men detta fragment har en... djup... djup mörker.',
       tr: 'Yıldızlar genellikle siyah değildir, ancak bu parçanın derin ... derin bir karanlığı vardır.',
@@ -324,12 +327,12 @@ export default [
     description: {
       en: 'This item was forged on a full moon when mysterious incantations were heard in the whispers of the dark. Some say that it was Anubis himself speaking with the dead.',
       ru: 'Этот предмет был выкован в полнолуние, когда в темноте раздавался шепот таинственных заклинаний. Некоторые говорят, что это был сам Анубис, говорящий с мертвыми.',
-      es: 'Forjado durante la plenilunia cuando incantaciones misteriosas fueron oído en los susurros de la oscurridad. Algunos dicen que era Anuvis mismo hablando con la muerte.',
+      es: 'Este artículo fue forjado en luna llena cuando se escucharon encantamientos misteriosos en los susurros de la oscuridad. Algunos dicen que fue Anubis mismo quien habló con los muertos.',
       fr: 'Cet objet a été forgé lors d\'une pleine lune quand des incantations mystérieuses ont été entendues dans les murmures de l\'obscurité. Certains disent que c\'était Anubis lui-même parlant avec les morts',
       de: 'Dieser Gegenstand wurde bei Vollmond geschmiedet, als im Flüstern der Dunkelheit mysteriöse Beschwörungen zu hören waren. Einige sagen, dass es Anubis selbst war, der mit den Toten sprach.',
       pt: 'Este item foi forjado numa lua cheia quando encantamentos misteriosos foram ouvidos nos sussurros da escuridão. Alguns dizem que foi o próprio Anubis falando com os mortos.',
       ko: '이 아이템은 어둠의 속삭임에서 신비한 주문을 들었을 때 보름달에 위조되었습니다. 어떤 사람들은 아누비스 자신이 죽은 자들과 이야기했다고합니다.',
-      nl: 'Dit voorwerp werd gesmeed op volle maan toen mysterieuze bezweringen in het gefluister van de duisternis werden gehoord. Sommigen zeggen dat het Anubis zelf was die met de doden sprak.',
+      nl: 'Dit voorwerp werd gesmeden bij volle maan toen er mysterieuze bezweringen gehoord werden in het gefluister van de duisternis. Sommige zeggen dat het Anibus zelf was die met de doden sprak.',
       pl: 'Ten przedmiot został wykuty w czasie pełni księżyca, gdy w szeptach ciemności usłyszano tajemnicze zaklęcia. Niektórzy mówią, że to sam Anubis mówił ze zmarłymi.',
       sv: 'Det här objektet smiddes på en fullmåne när mystiska incantations hördes i mörkets viskningar. Vissa säger att det var Anubis själv som talade med de döda.',
       tr: 'Bu eşya, karanlığın fısıltılarında gizemli sihirli sözler duyulduğunda, dolunayda dövüldü. Bazıları bunun ölülerle konuşan Anubis\'in kendisi olduğunu söylüyor.',
@@ -342,7 +345,7 @@ export default [
       el: 'Αυτό το στοιχείο ήταν σφυρηλατημένο σε πανσέληνο όταν ακούστηκαν μυστηριώδεις φωνές με τους ψίθυρους του σκοτάδι. Κάποιοι λένε ότι ο ίδιος ο Anubis μίλησε με τους νεκρούς.',
       bg: 'Този предмет беше изкован на пълнолуние, когато се чуваха тайнствени заклинания в шепота на тъмнината. Някои казват, че самият Анубис говори с мъртвите.',
       ro: 'Acest obiect a fost făurit sub lună plină când incantații misterioase au fost auzite în șoaptele nopții. Câțiva oameni spun că a fost chiar Anubis vorbind cu morții.',
-      da: 'Denne genstand blev smedet på en fuldmåne, da mystiske incantations blev hørt i mørket hvisker.  Nogle siger, at det var Anubis selv, der talte med de døde.'
+      da: 'Denne genstand blev smedet på en fuldmåne, da mystiske incantations blev hørt i mørket hvisker. Nogle siger, at det var Anubis selv, der talte med de døde.'
     }
   }
 
