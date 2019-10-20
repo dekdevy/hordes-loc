@@ -67,7 +67,7 @@ export default [{
   name: {$$: 'Precise Shot'},
 
   description: {
-    en: 'A carefully aimed, high damage shot.'
+    en: 'A carefully aimed, high damage shot. Increases the damage of your next Swift Shots.'
   }
 },
 {
@@ -81,7 +81,7 @@ export default [{
   name: {$$: 'Invigorate'},
 
   description: {
-    en: 'You gain Haste and your Precise Shots regenerate mana on hit.'
+    en: 'Instantly heals you and increases your damage temporarily.'
   }
 },
 {
@@ -221,7 +221,7 @@ export default [{
   name: {$$: 'Swift Shot'},
 
   description: {
-    en: 'Fire a swift shot with no casting time, marking your target for additional damage.'
+    en: 'Fire a swift shot with no casting time.'
   }
 },
 {
@@ -267,10 +267,10 @@ export default [{
   }
 },
 {
-  name: {$$: 'Snipe'},
+  name: {$$: 'Dash'},
 
   description: {
-    en: 'Your next Precise Shot deals increased damage.'
+    en: 'You dash into your current direction, instantly resetting the cooldown of Precise Shot. Your next Precise Shot is an instant cast.'
   }
 },
 {
