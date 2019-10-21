@@ -101,7 +101,8 @@ export default {
       pt: 'Dano Mín',
       fr: 'Min Dmg.',
       tr: 'Min Hasar',
-      hu: 'Leg. Sebz.'
+      hu: 'Leg. Sebz.',
+      zh: '最少傷害'
     },
 
     {
@@ -110,7 +111,8 @@ export default {
       pt: 'Dano Máx',
       fr: 'Max Dmg.',
       tr: 'Max Hasar',
-      hu: 'Max. Sebz.'
+      hu: 'Max. Sebz.',
+      zh: '最大傷害'
     },
 
     {
@@ -119,7 +121,8 @@ export default {
       ru: 'Защита',
       pt: 'Defesa',
       tr: 'Defans',
-      hu: 'Védelem'
+      hu: 'Védelem',
+      zh: '防禦'
     },
 
     {
@@ -128,7 +131,8 @@ export default {
       fr: 'Parade',
       pt: 'Bloquе.',
       tr: 'Blok',
-      hu: 'Blokk'
+      hu: 'Blokk',
+      zh: '擋'
 
     },
 
@@ -138,7 +142,8 @@ export default {
       ru: 'Уклон.',
       fr: 'Esquive',
       tr: 'Kaçınma',
-      hu: 'Kitérés'
+      hu: 'Kitérés',
+      zh: '躲避'
     },
 
     {
@@ -147,7 +152,8 @@ export default {
       ru: 'Точность',
       pt: 'Precisão',
       tr: 'Hedef Alma',
-      hu: 'Pontosság'
+      hu: 'Pontosság',
+      zh: '準確性'
     },
 
     {
@@ -156,7 +162,8 @@ export default {
       fr: 'Critique',
       pt: 'Crítico',
       tr: 'Kritik',
-      hu: 'Kritikus'
+      hu: 'Kritikus',
+      zh: '危急'
     },
 
     {
@@ -164,7 +171,8 @@ export default {
       fr: 'Vit. Mouv.',
       ru: 'Скорость',
       pt: 'Velocidade',
-      hu: 'Mozgás'
+      hu: 'Mozgás',
+      zh: '移動速度'
     },
 
     {
@@ -173,7 +181,8 @@ export default {
       pt: 'Rapidez',
       fr: 'Célérité',
       tr: 'Çabukluk',
-      hu: 'Sietség'
+      hu: 'Sietség',
+      zh: '匆忙'
     },
 
     {
@@ -181,7 +190,8 @@ export default {
       ru: 'Скорость Атк.',
       fr: 'Vit. Attq',
       pt: 'Rapidez Atq.',
-      hu: 'Támadási Seb.'
+      hu: 'Támadási Seb.',
+      zh: '攻擊速度'
     },
 
     {
@@ -189,7 +199,8 @@ export default {
       ru: 'Выпадение',
       fr: 'Trouvaille',
       pt: 'Enctr. Item',
-      hu: 'Tárgylelés'
+      hu: 'Tárgylelés',
+      zh: '裝備查找'
     },
 
     {
@@ -197,7 +208,8 @@ export default {
       ru: 'Слоты Сумки',
       pt: 'Espaço',
       fr: 'Espace Sac',
-      hu: 'Hátizsák'
+      hu: 'Hátizsák',
+      zh: '袋槽'
     },
 
     {
@@ -205,7 +217,8 @@ export default {
       ru: 'Слава',
       fr: 'Gloire',
       pt: 'Fama',
-      hu: 'Hírnév'
+      hu: 'Hírnév',
+      zh: '聲譽'
     },
 
     {
@@ -213,15 +226,17 @@ export default {
       ru: 'Очки Статов',
       fr: 'Points Stat',
       pt: 'Pontos de Stat',
-      hu: 'Stat Pontok'
+      hu: 'Stat Pontok',
+      zh: '屬性點'
     },
 
     {
       en: 'Skill Points',
       ru: 'Очки Умений',
       fr: 'Points Comp.',
-      pt: 'Pontos de Hab.'
-      // hu: 'Képesség Pontok'
+      pt: 'Pontos de Hab.',
+      hu: 'Képesség Pontok',
+      zh: '技能點'
     },
 
     {
@@ -229,7 +244,8 @@ export default {
       fr: '% Dmg Améliorés',
       ru: '% Увеличения Урона',
       pt: '% Dano Aumentado',
-      hu: '% Megnövelt Sebz.'
+      hu: '% Megnövelt Sebz.',
+      zh: '%傷害增加'
     },
 
     {
@@ -237,7 +253,8 @@ export default {
       ru: '% Увеличения Агрессии',
       fr: '% Génération d\'aggro Améliorée',
       pt: '% Aggro Gerado',
-      hu: '% Megnövelt Aggro Képzés'
+      hu: '% Megnövelt Aggro Képzés',
+      zh: '%增加挑衅'
     },
 
     {
@@ -245,7 +262,8 @@ export default {
       fr: '% Réduction Vit. Mouv.',
       ru: '% Cнижения Скор. Движения',
       pt: '% Redução de Velocidade',
-      hu: '% Mozgási Seb. Csökkentés'
+      hu: '% Mozgási Seb. Csökkentés',
+      zh: '%移動速度降低'
     }
   ]
 }
