@@ -12,7 +12,8 @@ export default {
       ru: 'Урон',
       pt: 'Dano',
       tr: 'Hasar',
-      hu: 'Sebzés'
+      hu: 'Sebzés',
+      zh: '傷害'
     }
   },
 
@@ -24,7 +25,8 @@ export default {
       ru: 'Сила',
       pt: 'Força',
       tr: 'Dayankl.',
-      hu: 'Erő'
+      hu: 'Erő',
+      zh: '力量'
     },
 
     {
@@ -33,7 +35,8 @@ export default {
       ru: 'Стойкость',
       pt: 'Vigor',
       tr: 'Direnç',
-      hu: 'Vitalitás'
+      hu: 'Vitalitás',
+      zh: '耐力'
     },
 
     {
@@ -42,7 +45,8 @@ export default {
       ru: 'Ловкость',
       pt: 'Destreza',
       tr: 'Çeviklik',
-      hu: 'Fürgeség'
+      hu: 'Fürgeség',
+      zh: '靈巧'
     },
 
     {
@@ -51,7 +55,8 @@ export default {
       fr: 'Intelligence',
       pt: 'Inteligência',
       tr: 'Zekâ',
-      hu: 'Intelligencia'
+      hu: 'Intelligencia',
+      zh: '智力'
     },
 
     {
@@ -60,7 +65,8 @@ export default {
       ru: 'Мудрость',
       pt: 'Sabdr.',
       tr: 'Bilgelik',
-      hu: 'Bölcslt.'
+      hu: 'Bölcslt.',
+      zh: '智慧'
     },
 
     {
@@ -69,7 +75,8 @@ export default {
       ru: 'Удача',
       pt: 'Sorte',
       tr: 'Şans',
-      hu: 'Esély'
+      hu: 'Esély',
+      zh: '運氣:
     },
 
     {
