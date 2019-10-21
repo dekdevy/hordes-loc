@@ -226,7 +226,7 @@ export default {
       ru: 'Очки Статов',
       fr: 'Points Stat',
       pt: 'Pontos de Stat',
-      hu: 'Stat Pontok',
+      hu: 'Stat Pntk',
       zh: '屬性點'
     },
 
@@ -235,7 +235,7 @@ export default {
       ru: 'Очки Умений',
       fr: 'Points Comp.',
       pt: 'Pontos de Hab.',
-      hu: 'Képesség Pontok',
+      hu: 'Képesség Pntk',
       zh: '技能點'
     },
 
