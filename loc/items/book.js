@@ -81,7 +81,7 @@ export default [{
   name: {$$: 'Invigorate'},
 
   description: {
-    en: 'Instantly heals you and increases your damage temporarily.'
+    en: 'Instantly recovers MP and increases your damage temporarily.'
   }
 },
 {
