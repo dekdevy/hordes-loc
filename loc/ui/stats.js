@@ -76,7 +76,7 @@ export default {
       pt: 'Sorte',
       tr: 'Şans',
       hu: 'Esély',
-      zh: '運氣:
+      zh: '運氣'
     },
 
     {
