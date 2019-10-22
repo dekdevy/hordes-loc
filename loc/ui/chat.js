@@ -21,8 +21,8 @@ export default {
     tl: 'Bulong',
     ro: 'Șoaptă',
     da: 'Hvisk',
-    zh: '耳語',
-    hu: 'Suttogás'
+    hu: 'Suttogás',
+    zh: '耳語'
   },
 
   types: [
@@ -34,7 +34,8 @@ export default {
       pt: 'Exp Ganho',
       tr: 'Exp Kazanımı',
       nl: 'Exp Gekregen',
-      hu: 'EXP Jutalom'
+      hu: 'EXP Jutalom',
+      zh: 'Exp 獲得'
     },
     {
       en: 'Target Change',
@@ -43,7 +44,8 @@ export default {
       es: 'Cambia objetivo',
       pt: 'Mudança de Alvo',
       nl: 'Verander Doelwit',
-      hu: 'Célpont Megváltoztatása'
+      hu: 'Célpont Megváltoztatása',
+      zh: '目標變更'
     },
     {
       en: 'Cast',
@@ -52,7 +54,8 @@ export default {
       es: 'Convocar',
       pt: 'Lançar',
       nl: 'Uitspreken',
-      hu: 'Előhívás'
+      hu: 'Előhívás',
+      zh: '施法'
     },
     {
       en: 'Damage',
@@ -62,7 +65,8 @@ export default {
       pt: 'Dano',
       tr: 'Hasar',
       nl: 'Schade',
-      hu: 'Sebzés'
+      hu: 'Sebzés',
+      zh: '傷害'
     },
     {
       en: 'Heal',
@@ -72,7 +76,8 @@ export default {
       pt: 'Curar',
       tr: 'İyileşme',
       nl: 'Genezen',
-      hu: 'Gyógyítás'
+      hu: 'Gyógyítás',
+      zh: '補血'
     },
     {
       en: 'Death',
@@ -82,7 +87,8 @@ export default {
       pt: 'Morte',
       tr: 'Ölüm',
       nl: 'Dood',
-      hu: 'Halál'
+      hu: 'Halál',
+      zh: '死亡'
     },
     {
       en: 'Level Up',
@@ -91,7 +97,8 @@ export default {
       es: 'Subir nivel',
       pt: 'Subir de nível',
       nl: 'Level Omhoog',
-      hu: 'Szintlépés'
+      hu: 'Szintlépés',
+      zh: '升等'
     },
     {
       en: 'Items',
@@ -100,7 +107,8 @@ export default {
       es: 'Items',
       pt: 'Items',
       nl: 'Voorwerpen',
-      hu: 'Tárgyak'
+      hu: 'Tárgyak',
+      zh: '升等'
     },
     {
       en: 'Auction',
@@ -109,7 +117,8 @@ export default {
       es: 'Subasta',
       pt: 'Leilão',
       nl: 'Veiling',
-      hu: 'Aukció'
+      hu: 'Aukció',
+      zh: '拍賣'
     },
     {
       en: 'Pick Gold',
@@ -118,7 +127,8 @@ export default {
       es: 'Oro agarrado',
       pt: 'Pegar Ouro',
       nl: 'Goud Oprapen',
-      hu: 'Felvett Arany'
+      hu: 'Felvett Arany',
+      zh: '採金'
     },
     {
       en: 'Spent Gold',
@@ -127,7 +137,8 @@ export default {
       es: 'Oro gastado',
       pt: 'Ouro gasto',
       nl: 'Goud Besteden',
-      hu: 'Elköltött Arany'
+      hu: 'Elköltött Arany',
+      zh: '花金'
     },
     {
       en: 'Fame Gain',
@@ -137,7 +148,8 @@ export default {
       pt: 'Fama ganha',
       tr: 'Şöhret Kazancı',
       nl: 'Beroemdheid Gekregen',
-      hu: 'Dicsőség Jutalom'
+      hu: 'Dicsőség Jutalom',
+      zh: '獲得聲譽'
     }
   ]
 }
