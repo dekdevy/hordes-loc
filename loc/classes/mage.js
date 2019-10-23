@@ -32,7 +32,7 @@ export default {
     ru: 'Маги наносят большой урон по области, а так же приносят пользу благодаря замедлению целей своей магией льда.',
     sv: 'Magiker åsamkar förödande areell skada och kan även sakta ned motståndare med sin ismagi.',
     de: 'Magier verursachen sehr großen Flächenschaden und sind gleichzeitig nützlich, da sie Ziele mit ihrer auf Eis basierenden Magie verlangsamen.',
-    es: 'Los magos usan los poderes del invierno para ralentizar y hacer daño massivo a los sus enemigos.',
+    es: 'Los magos usan los poderes del invierno para ralentizar y hacer daño massivo a los enemigos.',
     hi: 'जादूगर बड़े स्तर पर एक गोल ईलाके में ज़ोरदार क्षति पहुँचा सकते है और साथ ही साथ अपने बर्फ़ीले जादू से दुश्मनो को धीमे भी कर सकते है।',
     fr: 'Les Mages infligent de très lourds dégâts à grande échelle grâce à leurs dégâts de zone tout en pouvant être utiles en ralentissant les cibles grâce à leur magie de glace.',
     ko: '마법사는 매우 큰 무거운 대 면적의 효과 피해를 처리하는 동시에 얼음 기반의 마법으로 대상의 속도를 늦추어 유틸리티를 제공합니다.',
