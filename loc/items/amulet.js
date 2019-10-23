@@ -308,7 +308,7 @@ export default [
     // Do NOT translate "World Tree" or "Yggdrasil".
     description: {
       en: 'Twisted pieces of the enormous World Tree, Yggdrasil, were made into amulets of the most sacred kind. Sap seeps out of the amulet and is absorbed by the body for extra protection.',
-      ru: ' Скрученные части огромного World Tree, Yggdrasil, были сделаны в амулеты самого священного вида. Сок просачивается из амулета и поглощается телом для дополнительной защиты.',
+      ru: 'Скрученные части огромного World Tree, Yggdrasil, были сделаны в амулеты самого священного вида. Сок просачивается из амулета и поглощается телом для дополнительной защиты.',
       de: 'Verdrehte Stücke des riesigen World Tree, Yggdrasil wurden zu Amuletten der heiligsten Art verarbeitet. Saft sickert aus dem Amulett und wird vom Körper aufgenommen, um zusätzlichen Schutz zu bieten',
       it: 'Pezzi attorcigliati dell\'enorme World Tree, Yggdrasil, sono stati trasformati in amuleti del genere più sacro. La linfa fuoriesce dall\'amuleto e viene assorbita dal corpo per una protezione extra.',
       fr: 'Des morceaux tordus de l\'énorme World Tree, Yggdrasil, ont été transformés en amulettes du genre le plus sacré. La sève s\'écoule de l\'amulette et est absorbée par le corps pour une protection supplémentaire.',
