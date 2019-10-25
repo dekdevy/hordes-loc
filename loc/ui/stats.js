@@ -137,26 +137,6 @@ export default {
     },
 
     {
-      en: 'Evade',
-      pt: 'Evasão',
-      ru: 'Уклон.',
-      fr: 'Esquive',
-      tr: 'Kaçınma',
-      hu: 'Kitérés',
-      zh: '躲避'
-    },
-
-    {
-      en: 'Accuracy',
-      fr: 'Précision',
-      ru: 'Точность',
-      pt: 'Precisão',
-      tr: 'Hedef Alma',
-      hu: 'Pontosság',
-      zh: '準確性'
-    },
-
-    {
       en: 'Critical',
       ru: 'Крит. Шанс',
       fr: 'Critique',
