@@ -67,7 +67,7 @@ export default [{
   name: {$$: 'Precise Shot'},
 
   description: {
-    en: 'A carefully aimed, high damage shot. Increases the damage of your next Swift Shots.'
+    en: 'A carefully aimed, high damage shot. Increases the damage of your next Swift Shots and allows them to be cast instantly.'
   }
 },
 {
