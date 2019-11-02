@@ -162,10 +162,10 @@ export default [{
   }
 },
 {
-  name: {$$: 'Arcane Concentration'},
+  name: {$$: 'Ice Shield'},
 
   description: {
-    en: 'Passively increase your Haste.'
+    en: 'Protects you against the next incoming attacks.'
   }
 },
 {
