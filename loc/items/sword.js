@@ -241,7 +241,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Knight\'s Rapier'},
+    name       : {$$: 'Knight\'s Greatsword'},
     description: {
       en: 'Cylindrical sword stolen from an ancient king. Cutting capability is questionable.',
       ru: 'Цилиндрический меч украден у древнего короля. Возможность разрезки сомнительна.',
@@ -268,7 +268,7 @@ export default [
   },
 
   {
-    name       : {$$: 'King\'s Glaive' },
+    name       : {$$: 'King\'s Rapier' },
     description: {
       en: 'A blade wielded by only the most skillful knights.',
       ru: 'Клинок, которым владеют только самые умелые рыцари',
