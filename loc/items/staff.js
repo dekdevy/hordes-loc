@@ -162,7 +162,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Encrusted Wand' },
+    name       : {$$: 'Encrusted Rod' },
     description: {
       en: 'Long rod with a shimmering blue gem on its crown.',
       ru: 'Длинная палочка с синим мерцающим драгоценным камнем на короне.',
