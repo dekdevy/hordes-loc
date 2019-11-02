@@ -188,7 +188,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Mirrored Armlets' },
+    name       : {$$: 'Mirror Armlets' },
     description: {
       en: 'Blind your foes with a magical shine off a devious magicians mirror...',
       ru: 'Ослепляют ваших врагов блеском искривлённого магического зеркала...',
