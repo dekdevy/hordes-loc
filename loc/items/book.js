@@ -207,7 +207,7 @@ export default [{
   name: {$$: 'Poison Arrows'},
 
   description: {
-    en: 'Your Precise Shot applies a poisonous Debuff on hit.'
+    en: 'Your Precise Shot applies a poisonous Debuff on hit, damaging and slowing your enemies.'
   }
 },
 {
