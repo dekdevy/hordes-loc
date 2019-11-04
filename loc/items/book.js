@@ -221,7 +221,7 @@ export default [{
   name: {$$: 'Swift Shot'},
 
   description: {
-    en: 'Fire a swift shot with no casting time.'
+    en: 'Fire a Swift Shot which can be enhanced by casting a Precise Shot prior to it.'
   }
 },
 {
