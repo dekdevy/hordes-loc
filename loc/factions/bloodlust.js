@@ -7,7 +7,6 @@ export default {
   // Do NOT translate "Bloodlust" or "Headless Landing".
   description: {
     en: 'The Bloodlust horde values freedom and loyalty, offers a place for individualism or even chaos. Their defenses are located in a desert realm called Headless Landing.',
-    sv: 'Bloodlust-horden värdesätter frihet och lojalitet och erbjuder utrymme för individualism eller t.o.m. kaos. Deras fäste ligger i ett ökenrike kallat Headless Landing.',
     ru: 'Орда Bloodlust ценит свободу и лояльность, предлагая место для индивидуализма или даже хаоса. Их оборона находится в пустынном королевстве, названном Headless Landing.',
     es: 'La horda Bloodlust valora la libertad y lealtad, ofrece un lugar para el individualismo o incluso el caos. Sus defensas están ubicadas en un reino del desierto llamado Headless Landing.',
     fr: 'La faction des Bloodlust valorise la liberté et la loyauté. Elle offre une place à l\'individualisme et même au chaos. Leurs défenses sont situées dans un royaume désertique appelé Headless Landing.',
@@ -17,16 +16,7 @@ export default {
     pt: 'A horda do Bloodlust valoriza a liberdade e a lealdade, oferece um lugar para o individualismo ou até mesmo o caos. Suas defesas estão localizadas em um deserto chamado Headless Landing.',
     nl: 'De Bloodlust horde waardeert vrijheid en loyaliteit, biedt een plaats voor individualisme of zelfs chaos. Hun verdediging bevindt zich in een woestijngebied dat Headless Landing heet.',
     tr: 'Bloodlust topluluğu özgürlüğe ve sadakate önem verir, bireyciliğe ve hatta kaosa yer verir. Savunmaları, Headless Landing denilen bir çöl aleminde bulunur.',
-    it: 'L\'orda degli Bloodlust dà estrema importanza alla lealtà ed alla libertà, ed offre un posto ad individualisti e caotici. La loro roccaforte è situata in un regno desertico chiamato Headless Landing.',
-    tl: 'Ang halaga ng Bloodlust kuyog ay nag-aalok ng kalayaan at katapatan ay nag-aalok ng isang lugar para sa individualism o kahit kaguluhan. Ang kanilang mga panlaban ay matatagpuan sa isang rehiyong disyerto na tinatawag na Headless Landing.',
-    pl: 'Horda Bloodlust ceni sobie wolność i lojalność, oferuje miejsce dla indywidualizmu, a nawet chaosu. Ich obrona znajduje się w pustynnym królestwie zwanym Headless Landing.',
-    ht: 'Branch fanmi an Bloodlust gen ladan valè a nan libète ak lwayote. Li ofri yon kote pou endividyalis e menm dezòd. Defans yo sitiye nan yon peyi dezè ki rele Landing.',
-    el: 'Η ορδή Bloodlust εκτιμά την ελευθερία και την πίστη, προσφέρει ένα χώρο για ατομικισμό ή και χάος. Οι άμυνές τους βρίσκονται σε μια ερημική περιοχή αποκαλούμενη Headless Landing.',
-    bg: 'Ордата на Bloodlust цени свободата и лоялността, предлага място за индивидуализъм или дори хаос. Техните защити се намират в пустинния свят, наречен Headless Landing.',
-    cs: 'Horda Bloodlust hodnotí svobodu a loajalitu, nabízí místo pro individualismus nebo dokonce chaos. Jejich Obrany jsou umístěny v pouštní říši nazvané Headless Landing.',
-    ja: 'Bloodlustの大群は自由と忠誠心を重んじ、個人主義あるいは混乱さえもの場所を提供します。 彼らの防御はHeadless Landingと呼ばれる砂漠の王国にあります。',
     ro: 'Facțiunea Bloodlust valorizează libertatea și loialitatea, oferă un loc pentru individualism sau chiar haos. Apărările lor sunt situate într-o regiune a deșertului numită Headless Landing.',
-    da: 'Bloodlust horde værdsætter frihed og loyalitet, giver plads til individualisme eller endda kaos. Deres forsvar er placeret i et ørkenområde kaldet Headless Landing.',
     zh: 'Bloodlust部落重視自由和忠誠，提供個人主義甚至混亂。 他們的防禦位在一個名為Headless Landing的沙漠。',
     hu: 'A Bloodlust hordái a szabadságra és a hűségre esküdtek fel. A táboraik mindig szabad helyet adnak az egyéni akaratnak, a becsvágynak, ami gyakran káoszba torkollik. A védelmi állásaikat a Headless Landing sivatagában verték fel.'
   }
