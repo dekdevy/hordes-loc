@@ -13,7 +13,7 @@ export default {
     hi: 'Vanguard गिरोह समाज में परंपरा, संरचना और व्यवस्था चाहता है। उनका महल Guardstone के आसपास हरे-भरे क्षेत्र में पाया जा सकता है।',
     de: 'Die Vanguard Horde sucht Tradition, Struktur und Ordnung in der Gesellschaft. Ihre Burg befindet sich in einer üppigen grünen Umgebung rund um Guardstone.',
     fr: 'La faction des Vanguard respecte la tradition, la structure et l\'ordre dans la société. Leur palais se trouve dans une zone verdoyante autour de Guardstone.',
-    ko: 'Vanguardの大群は、社会における伝統、構造、そして秩序を求めています。 彼らの城はGuardstone周辺の緑豊かな地域にあります。',
+    ko: 'Vanguard 호드는 사회에서 전통, 구조 및 질서를 추구합니다. 그들의 성 \'Guardstone\'은 주변의 무성한 녹지에서 찾을 수 있습니다.',
     pt: 'A horda Vanguarda procura tradições, estruturas e ordem na sociedade. O seu Castelo pode ser encontrado em uma área verde exuberante ao redor de Guardstone.',
     nl: 'De Vanguard horde zoekt traditie, structuur en orde in de samenleving. Hun kasteel bevindt zich in een weelderig groen gebied rond Guardstone.',
     tr: 'Vanguard topluluğu, toplumda gelenek, yapı ve düzeni arar. Kaleleri, Guardstone çevresindeki yemyeşil bir alanda bulunur.',
