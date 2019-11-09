@@ -138,7 +138,8 @@ export default [
       nl: 'Oorlogstheocratieën creëerden goddelijke omegasymbolen als een middel voor bescherming. Deze symbolen werden gebruikt om aanvallen af te schrikken, gegeven als beschermende geschenken, en werden aan potentiële religieuze volgelingen gepresenteerd.',
       ko: '신성한 오메가 상징을 보호하기위한 수단으로 창조했다. 이 상징은 방어적인 선물로 주어진 공격을 막고 잠재적 인 종교 추종자에게 선물로 사용되었습니다.',
       ro: 'Teocrațiile de razboi au creat simboluri omega divine, ca un mijloc de protecție. Aceste simboluri au fost folosite pentru a descuraja atacurile, date ca daruri de protecție, și prezentate potențialilor adepți religioși.',
-      hu: 'Isteni népek éteri köreiben teremtették meg az örök Omega szimbólumot, a védelem jelét és annak tökéletes megnyilatkozását. Ezek a hieroglifák képesek elsorvasztani a csapások erejét, sőt, vannak akik a egész hitüket ilyen tárgyakba vetik, miután mennyei ajándékként hullott eléjük.'
+      hu: 'Isteni népek éteri köreiben teremtették meg az örök Omega szimbólumot, a védelem jelét és annak tökéletes megnyilatkozását. Ezek a hieroglifák képesek elsorvasztani a csapások erejét, sőt, vannak akik a egész hitüket ilyen tárgyakba vetik, miután mennyei ajándékként hullott eléjük.',
+      tr: 'Savaşabilen din adamları koruma sağlaması amacıyla bu ilahi omega sembollerini oluşturdu. Koruyucu bir hediye olarak verilmiş bu semboller saldırıları savuşturmak için kullanıldı ve potansiyel müritlerine sunuldu.'
     }
   },
 
@@ -155,7 +156,8 @@ export default [
       hi: 'इस ताबीज में अतिव्यापी डिस्क का एक अजीब सेट है जो प्राकृतिक ऊर्जा में टैप करता है और पहनने वाले की प्राकृतिक सुरक्षा को बढ़ाता है। कई जादू उपयोगकर्ता इन ताबीज के रहस्यों को जानने का प्रयास करते हैं ताकि उन्हें पुन: पेश किया जा सके।',
       ko: '이 부적은 자연 에너지를 활용하고 착용자의 자연 보호를 증폭시키는 이상한 세트의 중복 디스크를 가지고 있습니다. 많은 마술 사용자는이 부적의 비밀을 배우기 위해 노력합니다.',
       ro: 'Această amuletă are un set ciudat de discuri ce se suprapun și care se conectează la energiile naturale astfel amplificând protecția naturală a purtătorului. Mulți utilizatori de magie se străduiesc să învețe secretele acestor amulete, astfel încât acestea să poată fi reproduse.',
-      hu: 'Egymást fedő és beburkoló lapok alkotják ezt az amulettet, ami a természet erőihez nyúlva biztosítja viselőjének a védelmet. Mágusok százai munkálkodnak azon, hogy megérthessék hogyan működnek ezek az eszközök, hogy egy napon talán ők is létrehozhassanak egyet.'
+      hu: 'Egymást fedő és beburkoló lapok alkotják ezt az amulettet, ami a természet erőihez nyúlva biztosítja viselőjének a védelmet. Mágusok százai munkálkodnak azon, hogy megérthessék hogyan működnek ezek az eszközök, hogy egy napon talán ők is létrehozhassanak egyet.',
+      tr: 'Bu muska üst üste dizilmiş ve doğanın enerjisiyle bağlı olan garip disklerden oluşuyor. Pek çok büyü kullanıcısı, bu muskanın sırrını çözmeye çalıştı ki çoğaltılabilsin.'
     }
   },
 
