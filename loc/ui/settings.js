@@ -60,7 +60,8 @@ export default {
     fr: 'Assignation des touches',
     nl: 'Knop verbindingen',
     hu: 'Billentyűparancsok',
-    es: 'Atajos de teclado'
+    es: 'Atajos de teclado',
+    zh: '鍵盤設定'
   },
 
   pointerlock: {
@@ -70,7 +71,8 @@ export default {
     fr: 'Cacher la souris pendant les rotations',
     nl: 'Verstop rechter muis knop tijdens rotatie',
     hu: 'Egérmutató elrejtése forgáskor',
-    es: 'Ocultar el mouse durante la rotación'
+    es: 'Ocultar el mouse durante la rotación',
+    zh: '旋轉中隱藏滑鼠'
   },
 
   lockedcamera: {
@@ -222,7 +224,8 @@ export default {
     fr: 'Ombres',
     pt: 'Sombras',
     nl: 'Schaduwen',
-    hu: 'Árnyékok'
+    hu: 'Árnyékok',
+    zh: '影子'
   },
 
   ssao: {
@@ -242,7 +245,8 @@ export default {
     pt: 'Grama',
     nl: 'Gras',
     hu: 'Fű',
-    es: 'Hierba'
+    es: 'Hierba',
+    zh: '草'
   },
 
   clouds: {
@@ -252,7 +256,8 @@ export default {
     pt: 'Nuvens',
     nl: 'Wolken',
     hu: 'Felhők',
-    es: 'Nubes'
+    es: 'Nubes',
+    zh: '云'
   },
 
   particles: {
@@ -262,7 +267,8 @@ export default {
     pt: 'Partículas',
     nl: 'Deeltjes',
     hu: 'Effekt-részecskék',
-    es: 'Partículas'
+    es: 'Partículas',
+    zh: '粒子'
   },
 
   detailprops: {
@@ -270,7 +276,8 @@ export default {
     ru: 'Детальные пропи',
     nl: 'Detail Voorwerpen',
     hu: 'Részletes objektumok',
-    es: 'Accesorios de detalle'
+    es: 'Accesorios de detalle',
+    zh: '細節道具'
   },
 
   // ---- Audio
@@ -348,7 +355,8 @@ export default {
     tl: 'Chat',
     ro: 'Chat',
     da: 'Chat',
-    hu: 'Cset'
+    hu: 'Cset',
+    zh: '聊天室'
   },
 
   chatbubbles: {
@@ -357,7 +365,8 @@ export default {
     fr: 'Afficher les bulles de chat',
     pt: 'Mostrar bolhas de chat',
     nl: 'Laat chat bubbels zien',
-    hu: 'Csetbuborékok mutatása'
+    hu: 'Csetbuborékok mutatása',
+    zh: '顯示聊天氣泡'
   },
 
   combatlog: {
@@ -365,7 +374,8 @@ export default {
     ru: 'Боевой лог',
     nl: 'Gevechts log',
     hu: 'Harci kisnapló',
-    es: 'Registro de combate'
+    es: 'Registro de combate',
+    zh: '戰鬥表'
   },
 
   // ---- User interface
@@ -391,7 +401,8 @@ export default {
     ja: 'インタフェース',
     tl: 'Interface',
     da: 'Grænseflade',
-    hu: 'Felület'
+    hu: 'Felület',
+    zh: '界面'
   },
 
   language: {
@@ -416,7 +427,8 @@ export default {
     ja: '言語',
     tl: 'Wika',
     da: 'Sprog',
-    hu: 'Nyelv'
+    hu: 'Nyelv',
+    zh: '語言'
   },
 
   invwidth: {
@@ -465,7 +477,8 @@ export default {
     tl: 'Pagtuturo',
     ro: 'Tutorial',
     da: 'Tutorial',
-    hu: 'Bemutató'
+    hu: 'Bemutató',
+    zh: '講解'
   },
 
   resettutorial: {
@@ -490,7 +503,8 @@ export default {
     tl: 'i-reset ang tutorial',
     ro: 'Resetează tutorialul',
     da: 'Nulstil tutorial',
-    hu: 'Bemutató újrakezdése'
+    hu: 'Bemutató újrakezdése',
+    zh: '重置講解'
   },
 
   disabletutorial: {
@@ -501,7 +515,8 @@ export default {
     pt: 'Desativar o tutorial',
     nl: 'Handleiding uitschakelen',
     hu: 'Bemutató elrejtése',
-    es: 'Desactivar tutorial'
+    es: 'Desactivar tutorial',
+    zh: '禁用講解'
   },
 
   // ---- map
@@ -512,7 +527,8 @@ export default {
     pt: 'Modo de qualidade baixa',
     fr: 'Mode basse qualité',
     nl: 'Lage kwaliteit modus',
-    es: 'Modo de baja calidad'
+    es: 'Modo de baja calidad',
+    zh: '低畫質模式'
   },
 
   mapshowmonsters: {
@@ -522,6 +538,7 @@ export default {
     pt: 'Mostrar monstros',
     fr: 'Afficher les monstres',
     nl: 'Laat monsters zien',
-    es: 'Mostrar monstruos'
+    es: 'Mostrar monstruos',
+    zh: '顯示怪物'
   }
 }
