@@ -28,7 +28,7 @@ export default {
   filtermine: {
     en: 'My items only',
     nl: 'Alleen mijn voorwerpen',
-    de: 'Nur meine Gegenstände',
+    de: 'Nur meine Items',
     ru: 'Только мои предметы',
     tl: 'Aking mga item lamang',
     pt: 'Apenas os meus itens',
