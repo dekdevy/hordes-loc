@@ -195,7 +195,7 @@ export default {
     ko: '장비 아이템',
     sv: 'Utrusta föremål',
     da: 'Udstyr genstand',
-    de: 'Statten Sie Ihren Items aus.',
+    de: 'Item ausrüsten',
     fr: 'Equipez l\'item',
     nl: 'Rust uw item uit',
     ro: 'Echipează obiectul',
