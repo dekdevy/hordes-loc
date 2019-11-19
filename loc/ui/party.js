@@ -298,5 +298,13 @@ export default {
     pl: 'Usunąć Assistant',
     tr: 'Assistant Çıkar',
     hu: 'Assistant Visszabuktatása'
+  },
+
+  startQueue: {
+    en: 'Queue'
+  },
+
+  stopQueue: {
+    en: 'Leave Queue'
   }
 }
