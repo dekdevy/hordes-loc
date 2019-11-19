@@ -32,7 +32,7 @@ export default {
     ru: 'Управление',
     hi: 'नियंत्रण',
     es: 'Controles',
-    de: 'Kontrollen',
+    de: 'Tastenbelegung',
     fr: 'Contrôles',
     tr: 'Kontroller',
     nl: 'Bediening',
@@ -55,6 +55,7 @@ export default {
 
   keybindings: {
     en: 'Key bindings',
+    de: 'Tastenbelegung',
     ru: 'Привязки клавиш',
     pt: 'Combinações de teclas',
     fr: 'Assignation des touches',
@@ -66,6 +67,7 @@ export default {
 
   pointerlock: {
     en: 'Hide mouse during rotation',
+    de: 'Maus verstecken während rotierung',
     ru: 'Скрыть мышь во время вращения',
     pt: 'Ocultar o rato durante a rotação.',
     fr: 'Cacher la souris pendant les rotations',
@@ -221,6 +223,7 @@ export default {
   shadows: {
     en: 'Shadows',
     ru: 'Тени',
+    de: 'Schatten',
     fr: 'Ombres',
     pt: 'Sombras',
     nl: 'Schaduwen',
@@ -240,6 +243,7 @@ export default {
 
   grass: {
     en: 'Grass',
+    de: 'Gras',
     ru: 'Трава',
     fr: 'Herbe',
     pt: 'Grama',
@@ -251,6 +255,7 @@ export default {
 
   clouds: {
     en: 'Clouds',
+    de: 'Wolken',
     ru: 'Облака',
     fr: 'Nuages',
     pt: 'Nuvens',
@@ -262,6 +267,7 @@ export default {
 
   particles: {
     en: 'Particles',
+    de: 'Partikel',
     ru: 'Частицы',
     fr: 'Particules',
     pt: 'Partículas',
@@ -273,6 +279,7 @@ export default {
 
   detailprops: {
     en: 'Detail props',
+    de: 'Requisiten',
     ru: 'Детальные пропи',
     nl: 'Detail Voorwerpen',
     hu: 'Részletes objektumok',
@@ -361,6 +368,7 @@ export default {
 
   chatbubbles: {
     en: 'Show chat bubbles',
+    de: 'Chatblasen anzeigen',
     ru: 'Показавать чат пузеры',
     fr: 'Afficher les bulles de chat',
     pt: 'Mostrar bolhas de chat',
@@ -371,6 +379,7 @@ export default {
 
   combatlog: {
     en: 'Combat Log',
+    de: 'Chatnachrichten',
     ru: 'Боевой лог',
     nl: 'Gevechts log',
     hu: 'Harci kisnapló',
@@ -382,7 +391,7 @@ export default {
   interface: {
     en: 'Interface',
     ru: 'Интерфейс',
-    de: 'Interface',
+    de: 'Anzeige',
     pt: 'Interface',
     pl: 'Interfejs',
     nl: 'Interface',
@@ -509,6 +518,7 @@ export default {
 
   disabletutorial: {
     en: 'Disable tutorial',
+    de: 'Tutorial bendeen',
     ru: 'Отключить обучения',
     tr: 'Öğreticiyi kapat',
     fr: 'Désactiver le tutoriel',
@@ -522,6 +532,7 @@ export default {
   // ---- map
   maplowqual: {
     en: 'Low quality mode',
+    de: 'Niedrige Qualität',
     ru: 'Режим низкого качества',
     hu: 'Alacsony minőségű mód',
     pt: 'Modo de qualidade baixa',

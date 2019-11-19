@@ -194,6 +194,7 @@ export default {
 
     {
       en: 'Fame',
+      de: 'Ruhm',
       ru: 'Слава',
       fr: 'Gloire',
       pt: 'Fama',

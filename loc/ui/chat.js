@@ -29,6 +29,7 @@ export default {
     {
       en: 'Exp Gain',
       ru: 'Прибыль Опыта',
+      de: 'Exp erhalten',
       fr: 'Gain d\'xp',
       es: 'Exp ganado',
       pt: 'Exp Ganho',
@@ -39,6 +40,7 @@ export default {
     },
     {
       en: 'Target Change',
+      de: 'Ziel gewechselt',
       ru: 'Смена Цели',
       fr: 'Changement de Cible',
       es: 'Cambia objetivo',
@@ -49,6 +51,7 @@ export default {
     },
     {
       en: 'Cast',
+      de: 'Zauber',
       ru: 'Каст',
       fr: 'Cast',
       es: 'Convocar',
@@ -59,6 +62,7 @@ export default {
     },
     {
       en: 'Damage',
+      de: 'Schaden',
       ru: 'Урон',
       fr: 'Damage',
       es: 'Daño',
@@ -72,6 +76,7 @@ export default {
       en: 'Heal',
       ru: 'Исцеления',
       fr: 'Heal',
+      de: 'Heilung',
       es: 'Curar',
       pt: 'Curar',
       tr: 'İyileşme',
@@ -81,6 +86,7 @@ export default {
     },
     {
       en: 'Death',
+      de: 'Tod',
       ru: 'Смерть',
       fr: 'Death',
       es: 'Muerto',
@@ -92,6 +98,7 @@ export default {
     },
     {
       en: 'Level Up',
+      de: 'Level aufgestiegen',
       ru: 'Повышения Уровня',
       fr: 'Level Up',
       es: 'Subir nivel',
@@ -102,6 +109,7 @@ export default {
     },
     {
       en: 'Items',
+      de: 'Gegenstände',
       ru: 'Предметы',
       fr: 'Items',
       es: 'Items',
@@ -112,6 +120,7 @@ export default {
     },
     {
       en: 'Auction',
+      de: 'Auktion',
       ru: 'Аукцион',
       fr: 'Enchères',
       es: 'Subasta',
@@ -122,6 +131,7 @@ export default {
     },
     {
       en: 'Pick Gold',
+      de: 'Gold aufgehoben',
       ru: 'Собранное Золото',
       fr: 'Gold Ramassé',
       es: 'Oro agarrado',
@@ -132,6 +142,7 @@ export default {
     },
     {
       en: 'Spent Gold',
+      de: 'Gold ausgegeben',
       ru: 'Потраченное Золото',
       fr: 'Gold Utilisé',
       es: 'Oro gastado',
@@ -142,6 +153,7 @@ export default {
     },
     {
       en: 'Fame Gain',
+      de: 'Ruhm erhalten',
       ru: 'Прибыль Славы',
       fr: 'Gain de Gloire',
       es: 'Fama ganada',

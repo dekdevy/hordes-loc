@@ -37,7 +37,7 @@ export default {
 
   header: {
     en: 'Sell your items.',
-    de: 'Verkaufen Sie Ihre Objekte.',
+    de: 'Verkaufen Sie Ihre Gegenstände.',
     sv: 'Sälj dina föremål.',
     it: 'Vendi i tuoi oggetti.',
     fr: 'Vendre vos objets.',
