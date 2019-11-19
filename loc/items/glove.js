@@ -31,7 +31,7 @@ export default [
     description: {
       en: 'Spun yarn from stolen sheep makes these warm gloves a pleasure to wear.',
       ru: 'Пряжа из шерсти украденных овец делает эти теплые перчатки приятными.',
-      de: 'Gesponnenes Garn aus gestohlenen Schafen macht diese warmen Handschuhe zu einem wahren Vergnügen.',
+      de: 'Gesponnenes Garn gestohlen von einem Schaf, diese warmen Handschuhe sind ein wahres Vergnügen.',
       es: 'El hilo hilado de oveja robada hace que estos guantes cálidos sean un placer de llevar.',
       pt: 'O fio fiado de ovelhas roubadas torna estas luvas quentes um prazer de usar.',
       nl: 'Gesponnen garen van gestolen schapen maakt deze warme handschoenen een genot om te dragen.',

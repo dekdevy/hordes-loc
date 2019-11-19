@@ -4,7 +4,7 @@ export default [
     description: {
       en: 'At least you\'re wearing something on those feet.',
       ru: 'По крайней мере, вы хоть что-то носите на своих ногах.',
-      de: 'Zumindest trägst du etwas auf diesen Füßen.',
+      de: 'Zumindest trägst du etwas an den Füßen.',
       es: 'Al menos llevas algo en los pies.',
       fr: 'Au moins, tu portes quelque chose sur tes pieds.',
       it: 'Almeno tu indossi qualcosa su quei piedi.',
@@ -31,7 +31,7 @@ export default [
     description: {
       en: 'Soles made from cloth, will probably tear after a few hours.',
       ru: 'Подошвы сделанные из ткани, вероятно, порвутся через несколько часов.',
-      de: 'Sohlen aus Stoff, werden wahrscheinlich nach ein paar Stunden reißen.',
+      de: 'Sohlen aus Stoff, wahrscheinlich reißen sie nach ein paar Stunden.',
       es: 'Suelas hechas de tela, probalamente rasgarán después de unas horas.',
       fr: 'Des semelles en tissu, elles se déchireront probablement au bout de quelques heures.',
       it: 'Suole fatte di stoffa, probabilmente si strappano dopo qualche ora.',
@@ -58,7 +58,7 @@ export default [
     description: {
       en: 'The soft leather is said to be stripped off wild boars roaming the eerie woods.',
       ru: 'Говорят, что мягкую кожу сняли с кабанов, бродящих по жутким лесам.',
-      de: 'Das weiche Leder soll von Wildschweinen befreit worden sein, die durch die unheimlichen Wälder streifen.',
+      de: 'Das weiche Leder soll von Wildschweinen stammen, die durch die unheimlichen Wälder streifen.',
       es: 'Se dice que el cuero suave es despojado de los jabalíes que deambulan por los espeluznantes bosques.',
       it: 'Si dice che la morbida pelle sia stata rimossa dai cinghiali che vagano nei boschi inquietanti.',
       fr: 'On dit que le cuir souple est dépouillé des sangliers qui errent dans les bois étranges.',
@@ -85,7 +85,7 @@ export default [
     description: {
       en: 'Clearly lacking in imagination, the maker made boots from the bones of a very large creature...',
       ru: 'Очевидно, у создателя не хватает воображения, ведь он сделал сапоги из костей очень крупного существа ...',
-      de: 'Offensichtlich fantasielos machte der Hersteller Stiefel aus den Knochen einer sehr großen Kreatur...',
+      de: 'Offensichtlich fantasielos aus den Knochen einer sehr großen Kreatur hergestellt ...',
       es: 'Claramente sin imaginación, el zapatero uso los huesos de una criatura grande...',
       fr: 'Manquant clairement d\'imagination, le confectionné a fabriqué des bottes à partir des os d\'une très grande créature....',
       it: 'Chiaramente privo di immaginazione, l\'autore ha realizzato stivali dalle ossa di una creatura molto grande...',
@@ -112,7 +112,7 @@ export default [
     description: {
       en: 'Mysterious scales cover the outside of your footwear, catching glares in the sun.',
       ru: 'Загадочная чешуя покрывает внешнюю сторону обуви, улавливая блики на солнце.',
-      de: 'Mysteriöse Schuppen bedecken die Außenseite Ihres Schuhwerks und fangen grelle Blicke in der Sonne auf.',
+      de: 'Mysteriöse Schuppen bedecken die Außenseite des Schuhwerks, sie glänzen in der Sonne.',
       es: 'Escamas misteriosas cubren la parte exterior del calzado, atrapando los reflejos del sol.',
       it: 'Scaglie misteriose coprono l\'esterno delle vostre calzature, catturando i riflessi del sole.',
       fr: 'De mystérieuses écailles recouvrent l\'extérieur de vos chaussures et attirent les regards au soleil.',
@@ -139,7 +139,7 @@ export default [
     description: {
       en: 'A pleasant pattern made to paralyze your foes... wonder if it works.',
       ru: 'Приятный узор, созданный, чтобы парализовать ваших врагов... интересно, работает ли он',
-      de: 'Ein angenehmes Muster, das gemacht wurde, um deine Feinde zu lähmen... frage dich, ob es funktioniert.',
+      de: 'Ein angenehmes Muster, das gemacht wurde um deine Feinde zu lähmen... fraglich ob es funktioniert.',
       es: 'Un diseño agradable para paralizar a sus enemigos... no sé si funciona.',
       fr: 'Un motif agréable fait pour paralyser vos ennemis... vous vous demandez si ça marche.',
       it: 'Un piacevole motivo fatto per paralizzare i tuoi nemici... chiedo se funziona',
@@ -274,7 +274,7 @@ export default [
     description: {
       en: 'Some say you can run on clouds with these. The few that have tried have already ascended.',
       ru: 'Некоторые говорят, что с этими ботинками можно бегать по облакам. Те немногие, кто пытался, уже вознеслись.',
-      de: 'Einige sagen, dass man damit auf Wolken laufen kann. Die wenigen, die es versucht haben, sind bereits aufgestiegen.',
+      de: 'Einige sagen, dass man damit auf Wolken laufen kann. Die wenigsten die es versucht haben, sind bereits aufgestiegen.',
       es: 'Se dice que puede correr en nubes con estos. Los pocos que trataban ya han ascendido.',
       fr: 'Certains disent qu\'on peut courir sur les nuages avec elles. Les quelques personnes qui ont essayé y sont déjà montés.',
       it: 'C\'è chi dice che con queste si può correre sulle nuvole. I pochi che hanno provato sono già saliti.',
@@ -301,7 +301,7 @@ export default [
     description: {
       en: 'Ancient boots rumoured to be stolen from the feet of a messenger god.',
       ru: 'По слухам, древние сапоги были украдены с ног бога-вестника.',
-      de: 'Alte Stiefel sollen aus den Füßen des Kuriergottes gestohlen worden sein.',
+      de: 'Alte Stiefel sie sollen von den Füßen des Kuriergottes gestohlen worden sein.',
       es: 'Se rumorea que las botas antiguas fueron robadas de los pies de un dios mensajero.',
       fr: 'Des bottes anciennes qui auraient été volées aux pieds d\'un dieu messager.',
       tl: 'Ang sinaunang bota na rumored na ninakaw mula sa mga paa ng diyos ng sugo ng.',
