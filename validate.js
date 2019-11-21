@@ -3,7 +3,7 @@ let infractions = 0
 const validate = (data, type) => {
 
   // check for < > and &
-  const regex = /[<>&]/g
+  const regex = /(?!<\/*kbd)[<&]/g
 
   // perform the regex match
   const matches = data.match(regex)
