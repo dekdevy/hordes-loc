@@ -245,6 +245,10 @@ export default {
       pt: '% Redução de Velocidade',
       hu: '% Mozgási Seb. Csökkentés',
       zh: '%移動速度降低'
+    },
+
+    {
+      en: 'Healing Reduction'
     }
   ]
 }
