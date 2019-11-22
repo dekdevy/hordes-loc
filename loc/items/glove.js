@@ -31,7 +31,7 @@ export default [
     description: {
       en: 'Spun yarn from stolen sheep makes these warm gloves a pleasure to wear.',
       ru: 'Пряжа из шерсти украденных овец делает эти теплые перчатки приятными.',
-      de: 'Gesponnenes Garn aus gestohlenen Schafen macht diese warmen Handschuhe zu einem wahren Vergnügen.',
+      de: 'Gesponnenes Garn gestohlen von einem Schaf, diese warmen Handschuhe sind ein wahres Vergnügen.',
       es: 'El hilo hilado de oveja robada hace que estos guantes cálidos sean un placer de llevar.',
       pt: 'O fio fiado de ovelhas roubadas torna estas luvas quentes um prazer de usar.',
       nl: 'Gesponnen garen van gestolen schapen maakt deze warme handschoenen een genot om te dragen.',
@@ -85,7 +85,7 @@ export default [
     description: {
       en: 'Clicking sounds travel with you as you wear these.',
       ru: 'Клацающие звуки путешествуют с вами когда вы носите эти перчатки.',
-      de: 'Klackende Geräusche reisen mit, während Sie diese tragen.',
+      de: 'Klackende Geräusche begleiten sie, während ihrer Benutzung.',
       es: 'Los sonidos de agarrotamiento viajan con usted mientras los usa.',
       pt: 'Os sons de Clacking viajam contigo enquanto usas isto.',
       nl: 'Kletterende geluiden reizen met je mee terwijl je deze draagt.',
@@ -139,7 +139,7 @@ export default [
     description: {
       en: 'Mitts made out of unknown material... it shines...',
       ru: 'Рукавицы, сделанные из неизвестного материала... они сияют...',
-      de: 'Handschuhe aus unbekanntem Material... sie leuchten...',
+      de: 'Handschuhe aus einem unbekanntem Material... sie leuchten...',
       es: 'Guantes de material desconocido... brilla...',
       pt: 'Luvas feitas de material desconhecido... brilha...',
       nl: 'Wanten gemaakt van onbekend materiaal... het schittert...',
@@ -166,7 +166,7 @@ export default [
     description: {
       en: 'Some war general must have dropped these...probably unintentionally too.',
       ru: 'Какой-то военный генерал, должно быть, уронил их... возможно, нечаянно.',
-      de: 'Ein Kriegsgeneral muss diese... wahrscheinlich auch unbeabsichtigt fallen gelassen haben.',
+      de: 'Ein Kriegsgeneral muss sie wahrscheinlich unbeabsichtigt fallen gelassen haben.',
       es: 'Algún general de guerra debe haberlos tirado... probablemente sin querer.',
       pt: 'Algum general de guerra deve ter deixado cair estas luvas... provavelmente também não intencionalmente.',
       nl: 'Een of andere oorlogsgeneraal moet deze... waarschijnlijk ook onbedoeld hebben laten vallen.',
@@ -220,7 +220,7 @@ export default [
     description: {
       en: 'Give a false sense of power.',
       ru: 'Дает ложное чувство силы.',
-      de: 'Gibt ein falsches Gefühl von Macht.',
+      de: 'Gibt ein fälschliches Gefühl von Macht.',
       es: 'Da una falsa sensación de poder.',
       pt: 'Dá uma falsa sensação de poder.',
       nl: 'Geeft een vals gevoel van macht.',
@@ -274,7 +274,7 @@ export default [
     description: {
       en: 'Gloves sought by warriors for eras on end...at last...it is found.',
       ru: 'Перчатки разыскиваемые воинами на протяжении эпох... наконец... нашлись.',
-      de: 'Handschuhe, die von Kriegern für Epochen am Ende gesucht wurden... endlich... es wird gefunden.',
+      de: 'Handschuhe, die am Ende der Epoche von Kriegern gesucht wurden... endlich... sie wurden gefunden.',
       es: 'Guantes buscados por los guerreros para las eras... al fin... se encuentra.',
       pt: 'Luvas procuradas por guerreiros por eras em fim... finalmente...é encontrado.',
       nl: 'Handschoenen gezocht door krijgers voor tijdperken....eindelijk... het is gevonden.',
@@ -301,7 +301,7 @@ export default [
     description: {
       en: 'Rumours say that a touch from these gloves turns your foes into gold...your hand is strangely heavy...',
       ru: 'Слухи говорят, что прикосновение этой перчаток превращает твоих врагов в золото... твоя рука странно тяжелая...',
-      de: 'Gerüchten zufolge verwandelt eine Berührung dieser Handschuhe deine Feinde in Gold... deine Hand ist seltsam schwer...',
+      de: 'Gerüchten zufolge verwandelt eine Berührung dieser Handschuhe deine Feinde in Gold... deine Hand wirkt seltsam schwer...',
       es: 'Los rumores dicen que un toque de estos guantes convierte a tus enemigos en oro... tu mano es extrañamente pesada...',
       pt: 'Rumores dizem que um toque dessas luvas transforma seus inimigos em ouro... sua mão é estranhamente pesada...',
       nl: 'De geruchten gaan dat een aanraking van deze handschoenen je vijanden in goud verandert... je hand is vreemd zwaar....',
@@ -328,7 +328,7 @@ export default [
     description: {
       en: 'Gloves so powerful in their nature that the very air shimmers as you wave your hand.',
       ru: 'Перчатки настолько мощные по своей природе, что сам воздух мерцает, когда вы машете рукой.',
-      de: 'Handschuhe, die in ihrer Natur so kraftvoll sind, dass die Luft schimmert, wenn man mit der Hand wedelt.',
+      de: 'Handschuhe, die in ihrer Natur so kraftvoll sind, dass deine Hände in der Luft schimmern. ',
       es: 'Guantes tan poderosos en su naturaleza que el mismo aire brilla al agitar la mano.',
       el: 'Γάντια τόσο δυνατά στη φύση τους, που ο αέρας ακουμπά καθώς κυλάς το χέρι σου.',
       bg: 'Ръкавици толкова мощни по своята същност, че самото въздух трепери, докато махате ръката си.',

@@ -4,7 +4,7 @@ export default [
     description: {
       en: 'Small little purse used by merchant\'s wives.',
       ru: 'Маленькая сумочка, раньше использованая женами купцов.',
-      de: 'Kleine, kleine Geldbörse, die von den Ehefrauen der Händler benutzt wird.',
+      de: 'Kleine Geldbörse, die von den Ehefrauen der Händler benutzt werden.',
       es: 'Una bolsa linda utilizado por las esposas de comerciantes.',
       fr: 'Petite sacoche utilisée par les épouses des marchands.',
       pt: 'Pequena bolsa usada pelas esposas dos comerciantes.',
@@ -60,7 +60,7 @@ export default [
     description: {
       en: 'Nice purple rucksack for all your traveling needs.',
       ru: 'Хороший фиолетовый рюкзак для любых нужд путешественника.',
-      de: 'Schöner lilafarbener Rucksack für alle Ihre Reisebedürfnisse.',
+      de: 'Schöner lilafarbener Rucksack für all Ihre Reisebedürfnisse.',
       es: 'Una mochila morada por todos las necesidades de viajar.',
       fr: 'Un joli sac-à-dos mauve pour tous vos besoins de voyage.',
       pt: 'Bela mochila roxa para todas as suas necessidades de viagem.',
@@ -88,7 +88,7 @@ export default [
     description: {
       en: 'Elegant bag used by elven archers on horseback.',
       ru: 'Элегантная сумка, используемая эльфийскими лучниками на лошадях.',
-      de: 'Elegante Tasche, die von Elfenbogenschützen zu Pferd verwendet wird.',
+      de: 'Elegante Tasche, die von Elfenbogenschützen zum satteln des Pferdes verwendet wird.',
       es: 'Una bolsa elegante, llevado por arqueros montando a caballo.',
       fr: 'Un sac élégant utilisé par les archers elfiques à cheval.',
       pt: 'Elegante saco usado por arqueiros elfos a cavalo.',
