@@ -263,7 +263,7 @@ export default [{
   name: {$$: 'Agonize'},
 
   description: {
-    en: 'Turns your target into a zombie, interrupting all spellcasting and slowing movement for the duration.'
+    en: 'Turns your target into a zombie, interrupting all actions, slowing it down, and reducing received healing for the duration.'
   }
 },
 {
