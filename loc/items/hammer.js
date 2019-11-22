@@ -34,7 +34,7 @@ export default [
       ru: 'Это должны быть гвозди, а не черепа.',
       hi: 'इससे कील ठोकते है, खोपड़ी नहीं।',
       es: 'Esto debería estar clavando clavos, no cráneos.',
-      de: 'Das sollten Nägel hämmern, nicht Schädel.',
+      de: 'Der sollte Nägel hämmern, nicht Schädel.',
       el: 'Αυτό πρέπει να σφυρηλατεί τα νύχια και όχι τα κρανία.',
       bg: 'Това трябва да бъде чукане на нокти, а не черепи.',
       fr: 'Ça devrait enfoncer des clous, pas des crânes.',

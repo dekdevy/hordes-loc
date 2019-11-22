@@ -301,10 +301,12 @@ export default {
   },
 
   startQueue: {
-    en: 'Queue'
+    en: 'Queue',
+    de: 'Suche'
   },
 
   stopQueue: {
-    en: 'Leave Queue'
+    en: 'Leave Queue',
+    de: 'Suche verlassen'
   }
 }
