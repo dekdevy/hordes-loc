@@ -22,6 +22,7 @@ export default [
       ja: '野心的な農民によって買われた安い革バンド。',
       ro: 'Brățări de piele ieftină cumpărată de un fermier ambițios.',
       da: 'Billige læderbånd købt af en ambitiøs landmand.',
+      hu: 'Egy nagyravágyó gazdálkodó vásárolta ezeket a karvédőket.',
       tr: 'Azimli bir çiftçi tarafından alınmış ucuz deri şeritler.'
     }
   },
@@ -49,6 +50,7 @@ export default [
       ja: '熟練した手はこれらの自家製の袖口を作ることにおいて複雑な仕事をしました。',
       ro: 'Niște mâini dibace au făcut o muncă complicată pentru realizarea acestor manșete de casă.',
       da: 'Færdige hænder gjorde et indviklet job ved at lave disse hjemmelavede manchetter.',
+      hu: 'Serény kezek kemény munkájával készültek ezek a bőrlapok.',
       tr: 'Bu ev yapımı bileklikler marifetli eller tarafından özenle yapıldı.'
     }
   },
@@ -76,6 +78,7 @@ export default [
       ja: '硬直して、腕を痛めます。',
       ro: 'Rigid, îți inflamează brațele.',
       da: 'Stiv, gør dine arme ømme.',
+      hu: 'Szoros, elzsibbaszthatja a karod.',
       tr: 'Sert, kollarını acıtabilir.'
     }
   },
@@ -102,6 +105,7 @@ export default [
       bg: 'Елегантни маншети, направен от бивните на последния мамут.',
       ja: '最後のマンモスの牙から作られたエレガントな袖口。',
       ro: 'Manșetă elegantă confecționată din colții ultimului mamut.',
+      hu: 'Elegáns páncélt faragtak az utolsó mammutok ritka agyarából.',
       da: 'Elegante manchetter lavet af tommelfingeren fra den sidste mammut.'
     }
   },
@@ -129,6 +133,7 @@ export default [
       cs: 'Těžká na paži ... stojí za to.',
       ja: 'あなたの腕に重い...保護に値する。',
       ro: 'Grea pe braț... dar merită protecția.',
+      hu: 'Lehúzza a karod... megéri a védelmet.',
       da: 'Tung på dine arme... værd at beskytte.'
     }
   },
@@ -156,6 +161,7 @@ export default [
       bg: 'Тъпа метална четка, удобна за нощно нападение.',
       ja: '夜間の襲撃に便利な鈍い金属製の装具。',
       ro: 'Manșetă anostă din metal, la îndemână pentru raidurile pe timp de noapte.',
+      hu: 'Nehézkes karvas, mégis hasznos éjszakai portyáknál.',
       da: 'Kedelig metal bracer, praktisk til nat-time raiding.'
     }
   },
@@ -183,6 +189,7 @@ export default [
       bg: 'Мащабирането на ръката ви прилича на тази на дракон.',
       ja: '縮れたブレースはあなたの腕をドラゴンのそれに似せます。',
       ro: 'Manșetă acoperită cu solzi, îți face brațul să semene cu al unui dragon.',
+      hu: 'Pikkelyes karvédő, melytől olyanná válik a karod, mint egy sárkányé.',
       da: 'Skalet bracer, gør din arm lig den af en drage.'
     }
   },
@@ -210,6 +217,7 @@ export default [
       bg: 'Заслепява враговете си с магически блясък, отблъскващ отвратителен магьосник...',
       ja: '馬鹿げた魔術師の鏡からあなたの敵を魔法のように輝かせて盲目にします...',
       ro: 'Orbește adversarii cu o strălucire magică a unei oglinzi deviante a magicienilor.',
+      hu: 'Vakítsd meg áldozataidat a tükrökről visszaverődő fény sugaraival!',
       da: 'Blind dine fjender med en magisk glans ud af et uhyggeligt tryllekunstner spejl ...'
     }
   },
@@ -237,6 +245,7 @@ export default [
       bg: 'Древните големи оставиха остатъци от своето минаване, които безскрупулно сте решили да носите на ръката си.',
       ja: '古代のゴーレムは彼らの追い越しの残骸を残しました、あなたは不注意にあなたの腕に身に着けることに決めました。',
       ro: 'Golemii străvechi au lăsat rămășițe în urma lor, pe care tu, fără scrupule, ai decis să le porți pe braț.',
+      hu: 'Az ősi gólemek itthahyták maguk után egyes darabjaikat, amelyeket te vértnek kívánsz most használni.',
       da: 'De gamle golems forlod resterne af deres forbigående, som du uforskammeligt har besluttet at bære på din arm.'
     }
   },
@@ -264,6 +273,7 @@ export default [
       bg: 'Измамно леката стомана предлага охлаждаща защита срещу подъл удар.',
       ja: '一見軽い鋼は卑劣な打撃に対する低温保護を提供します。',
       ro: 'Oțelul înșelător de ușor oferă protecție revigorantă împotriva loviturilor viclene.',
+      hu: 'A megtévesztően könnyű acél még a legalattomosabb döfésektől is megóv téged.',
       da: 'Det bedragerisk lette stål giver chillende beskyttelse imod snigende slag.'
     }
   },
@@ -291,6 +301,7 @@ export default [
       bg: 'Звездите често не са черни, но този фрагмент има... дълбока... дълбока тъмнина.',
       ja: '多くの場合、星は黒ではありませんが、この断片は...濃い...濃い暗さを持っています。',
       ro: 'Stelele nu sunt deseori negre, totuși acest fragment are o... adâncă... adâncă întunecime.',
+      hu: 'A csillagok ritkán feketék, és ez a csillag nagyon... mélyen.. sötét.',
       da: 'Stjerner er ikke ofte svarte, men dette fragment har et ... dybt ... dybt mørke.'
     }
   },
@@ -318,6 +329,7 @@ export default [
       ja: '失われた遺失物は、終わりのない時代に隠されて盗まれました。',
       sv: 'Smidda, förlorade, hittade, stol, gömd för eroder utan slut.',
       ro: 'Refăurite, pierdute, găsite, furate, ascunse pentru ere fără sfârșit.',
+      hu: 'Újrakovácsolták, eltűnt, megtalálták, ellopták, rejtve már évezredek óta.',
       da: 'Reforged, lost, fundet, stjålet, skjult for epoker uden ende.'
     }
   },
@@ -345,6 +357,7 @@ export default [
       el: 'Αυτό το στοιχείο ήταν σφυρηλατημένο σε πανσέληνο όταν ακούστηκαν μυστηριώδεις φωνές με τους ψίθυρους του σκοτάδι. Κάποιοι λένε ότι ο ίδιος ο Anubis μίλησε με τους νεκρούς.',
       bg: 'Този предмет беше изкован на пълнолуние, когато се чуваха тайнствени заклинания в шепота на тъмнината. Някои казват, че самият Анубис говори с мъртвите.',
       ro: 'Acest obiect a fost făurit sub lună plină când incantații misterioase au fost auzite în șoaptele nopții. Câțiva oameni spun că a fost chiar Anubis vorbind cu morții.',
+      hu: 'Ezt a tárgyat teliholdkor készítették, amikor velőtrázó énekeket és a sötétség suttogásait lehetett hallani. Néhányak szerint maga Anubis beszélt a holtakkal.',
       da: 'Denne genstand blev smedet på en fuldmåne, da mystiske incantations blev hørt i mørket hvisker. Nogle siger, at det var Anubis selv, der talte med de døde.'
     }
   }
