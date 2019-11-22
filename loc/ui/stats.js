@@ -248,7 +248,8 @@ export default {
     },
 
     {
-      en: 'Healing Reduction'
+      en: 'Healing Reduction',
+      de: 'Heilungsreduktion'
     }
   ]
 }
