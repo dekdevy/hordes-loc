@@ -85,7 +85,7 @@ export default [
     description: {
       en: 'Clicking sounds travel with you as you wear these.',
       ru: 'Клацающие звуки путешествуют с вами когда вы носите эти перчатки.',
-      de: 'Klackende Geräusche begleiten sie, während ihrer Benutzung.',
+      de: 'Klackende Geräusche begleiten sie während ihrer Benutzung.',
       es: 'Los sonidos de agarrotamiento viajan con usted mientras los usa.',
       pt: 'Os sons de Clacking viajam contigo enquanto usas isto.',
       nl: 'Kletterende geluiden reizen met je mee terwijl je deze draagt.',
