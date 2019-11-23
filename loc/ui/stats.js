@@ -157,7 +157,7 @@ export default {
 
     {
       en: 'Haste',
-      ru: 'Быстр.',
+      ru: 'Ск.Умен',
       pt: 'Rapidez',
       fr: 'Célérité',
       tr: 'Çabukluk',
