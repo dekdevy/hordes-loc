@@ -77,16 +77,16 @@ export default [
   },
 
   {
-    name       : {$$: 'Skyfire Warbow' },
+    name       : {$$: 'Hellfire Warbow' },
     description: {
-      en: 'This bow was bathed in the flames of a phoenix and cooled in the night sky. Bows created in this way are sometimes imbued with extra magical characteristics from phoenix fire.'
+      en: ' Bows such as this were made from hellfires that are provided by devilish creatures. These kinds of bows are rare because of the ultimate price required for such wicked transactions and acquisitions.'
     }
   },
 
   {
-    name       : {$$: 'Hellfire Warbow' },
+    name       : {$$: 'Skyfire Warbow' },
     description: {
-      en: ' Bows such as this were made from hellfires that are provided by devilish creatures. These kinds of bows are rare because of the ultimate price required for such wicked transactions and acquisitions.'
+      en: 'This bow was bathed in the flames of a phoenix and cooled in the night sky. Bows created in this way are sometimes imbued with extra magical characteristics from phoenix fire.'
     }
   },
 

@@ -77,16 +77,16 @@ export default [
   },
 
   {
-    name       : {$$: 'Amboss' },
+    name       : {$$: 'Skullshatterer' },
     description: {
-      en: 'These hammers are known for breaking anvil heads during the process of forging. They are rarely created and typically fetch a substantial price.'
+      en: 'Skullshatterer hammers were originally created to combat the undead. The hammers that remain are often considered prized possessions by many clerics and sacred beings.'
     }
   },
 
   {
-    name       : {$$: 'Skullshatterer' },
+    name       : {$$: 'Amboss' },
     description: {
-      en: 'Skullshatterer hammers were originally created to combat the undead. The hammers that remain are often considered prized possessions by many clerics and sacred beings.'
+      en: 'These hammers are known for breaking anvil heads during the process of forging. They are rarely created and typically fetch a substantial price.'
     }
   },
 

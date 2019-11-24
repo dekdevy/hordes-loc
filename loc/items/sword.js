@@ -45,10 +45,11 @@ export default [
       en: 'This massive sword is designed to increase damage potential specifically for war. An adventurer that wears or uses a weapon such as this leaves no doubt about their goals and profession.'
     }
   },
+
   {
-    name       : {$$: 'Nullfire Sword' },
+    name       : {$$: 'Templar Greatsword'},
     description: {
-      en: ' Nullfire Swords are made by mortals from ice that is only found in the Underworld. Originally, this kind of sword was made to combat devils and demons during the first Great War; however, Nullfire Swords were crafted by flawed processes and were therefore unable to repel the devils and demons completely.'
+      en: 'These are weapons that once belonged to the knights of fallen kingdoms. Powerful kingdoms once existed before massive wars obliterated them from the landscape; the knights wielding these greatswords maintained their chivalrous duties long after their kingdoms turned to dust.'
     }
   },
 
@@ -60,9 +61,9 @@ export default [
   },
 
   {
-    name       : {$$: 'Knight\'s Greatsword'},
+    name       : {$$: 'Nullfire Sword' },
     description: {
-      en: 'These are weapons that once belonged to the knights of fallen kingdoms. Powerful kingdoms once existed before massive wars obliterated them from the landscape; the knights wielding these greatswords maintained their chivalrous duties long after their kingdoms turned to dust.'
+      en: ' Nullfire Swords are made by mortals from ice that is only found in the Underworld. Originally, this kind of sword was made to combat devils and demons during the first Great War; however, Nullfire Swords were crafted by flawed processes and were therefore unable to repel the devils and demons completely.'
     }
   },
 
