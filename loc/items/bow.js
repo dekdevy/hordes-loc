@@ -1,7 +1,6 @@
 export default [
-  { // Item name. Names are English only!
+  {
     name       : {$$: 'Driftwood Shortbow' },
-    // Item description.
     description: {
       en: 'ItemDescription'
     }
@@ -29,7 +28,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Long Bow' },
+    name       : {$$: 'Longbow' },
     description: {
       en: 'ItemDescription'
     }
