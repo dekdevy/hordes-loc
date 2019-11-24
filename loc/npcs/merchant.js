@@ -21,7 +21,6 @@ export default {
       pt: 'Sim, mostra-me os items que estão à venda.',
       ro: 'Da, arată-mi ce lucruri sunt de vânzare.',
       hi: 'जी हा, विक्रीय के लिए उपलब्ध चीज़े दिखाएं।',
-      pl: 'Tak, pokaż mi aukcje na sprzedaż.',
       es: 'Sí, muéstrame los articulos en venta.',
       nl: 'Ja, laat me de veilingen zien die te koop zijn.',
       fr: 'Oui, montrez-moi les enchères à vendre.',
