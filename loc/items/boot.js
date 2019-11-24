@@ -16,7 +16,7 @@ export default [
   {
     name       : {$$: 'Leather Shoes' },
     description: {
-      en: 'Leather shoes are created with fine craftsmanship for moderate battle durability.
+      en: 'Leather shoes are created with fine craftsmanship for moderate battle durability.'
     }
   },
 
