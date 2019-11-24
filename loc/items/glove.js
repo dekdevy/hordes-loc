@@ -37,7 +37,7 @@ export default [
   {
     name       : {$$: 'Imbued Battlefists' },
     description: {
-      en: ' Mage guilds often create experimental gloves such as this to increase magic power against monster factions. Some experimental gloves are adorned with runes that were copied from ancient sources.
+      en: 'Mage guilds often create experimental gloves such as this to increase magic power against monster factions. Some experimental gloves are adorned with runes that were copied from ancient sources.'
     }
   },
 
