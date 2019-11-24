@@ -3,6 +3,7 @@ export default [
     name       : {$$: 'Simple Wristbands' },
     description: {
       en: 'These wristbands are leather strips that are wrapped in a simple formation.',
+      de: 'Diese Armbänder bestehen aus Lederriemen und sind in Formation gewickelt.',
       ru: 'Эти браслеты сделаны из кожаных полосок, которые были завернуты в простую форму'
     }
   },
@@ -11,6 +12,7 @@ export default [
     name       : {$$: 'Makeshift Armbands' },
     description: {
       en: 'These armbands were created hastily. The rough battle markings on the sides of the leather do not inspire confidence of the previous owner\'s survival.',
+      de: 'Diese Armbänder wurden schnell gefertigt. Die Kampfspuren am Leder sagen nichts gutes über die Überlebenschanchen des Vorbesitzers aus.',
       ru: 'Эти браслеты были созданы поспешно. Грубая боевая разметка по бокам кожи не внушает уверенности в выживании предыдущего владельца.'
     }
   },
@@ -20,6 +22,7 @@ export default [
     description: {
       // Do NOT translate "Markay\'ak".
       en: 'Tough leather has been painstakingly crafted into fine armlets. On the side of the leather is the craftsman\'s signature: "Markay\'ak".',
+      de: 'Hartes Leder wurde sorgfältig zu Armbinden gefertigt, im Leder ist ein Name eingraviert "Markay\'ak".',
       ru: 'Жесткая кожа была тщательно обработана в виде тонких браслетов. На боковой стороне кожи стоит подпись ремесленника: "Markay\'ak"'
     }
   },
@@ -27,6 +30,7 @@ export default [
   {
     name       : {$$: 'Bone Bracelets' },
     description: {
+      de: 'Knochen-Armbänder die aus dicken Monsterknochen gefertigt wurden,',
       en: 'This type of bracelet is ornately crafted with thick monster bones. Many superstitious traditions claim that the wearer of such bracelets become permeated with the deceased monster\'s power; however, others claim that the reuse of bones prevents monsters from resurrecting.',
       ru: 'Такой тип браслета сделан из толстых костей, принадлежащих мертвым монстрам. Многие суеверные традиции утверждают, что обладатель таких браслетов пронизан властью умершего монстра, однако другие утверждают, что повторное использование костей предотвращает воскрешение монстров.'
     }
