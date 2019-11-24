@@ -174,7 +174,7 @@ export default [
       hi: 'धातु की किस्में एक दूसरे से अंदर और बाहर बुनाई करती हैं, बिजली के आर्क्स का उत्पादन करती हैं और एक जीवित ताबीज का रूप देती हैं। विद्वानों का अनुमान है कि ये ताबीज एक ऐसे दायरे से आते हैं जो गायब हो गया, लेकिन किसी को भी यकीन नहीं होता।',
       ko: '금속 가닥은 전기 아크를 생성하고 살아있는 부적을 드러내면서 서로 끼우거나 엮습니다. 학자들은이 부적들이 사라진 영역에서 왔다고 추측하지만 아무도 확신하지 못합니다.',
       ro: 'Firele de metal se împletesc între ele, producând arcuri electrice și dându-i amuletei un aspect viu. Savanții speculează că aceste amulete provin dintr-un tărâm care a dispărut, dar nimeni nu pare sigur de asta.',
-      hu: 'Acélcsomók áramlanak vad gomolygásban, elektromos szikrák ezreit létrehozva, amely már-már egy élő amulett látszatát kelti. Számos varázsló vallja azt a nézetet, hogy ezek a tárgyak egy véglegesen elpusztult világból maradtak ránk. Van aki mennyei ajándéknak tudja be ezeket a csudálatos eszközöket.'.
+      hu: 'Acélcsomók áramlanak vad gomolygásban, elektromos szikrák ezreit létrehozva, amely már-már egy élő amulett látszatát kelti. Számos varázsló vallja azt a nézetet, hogy ezek a tárgyak egy véglegesen elpusztult világból maradtak ránk. Van aki mennyei ajándéknak tudja be ezeket a csudálatos eszközöket.',
       tr: 'İç içe geçmiş metal teller ve ürettiği elektrik arkları bu muskaya canlıymış gibi bir görünüm kazandırıyor. Alimlerin görüşüne göre bu muska yok olan başka bir diyardan gelmiş, ama kimse bu konuda emin değil.'
     }
   },
