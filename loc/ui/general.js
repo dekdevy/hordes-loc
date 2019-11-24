@@ -59,7 +59,6 @@ export default {
     de: 'Abbrechen',
     ro: 'Anulează',
     ko: '취소',
-    ja: 'キャンセル',
     hi: 'कैंसल',
     zh: '取消',
     hu: 'Mégsem'
