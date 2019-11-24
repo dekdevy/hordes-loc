@@ -21,7 +21,6 @@ export default {
     de: 'Nur meine Items',
     ru: 'Только мои предметы',
     pt: 'Apenas os meus itens',
-    pl: 'Tylko moje rzeczy',
     fr: 'Uniquement mes objets',
     es: 'Sólo mis objetos',
     ko: '내 항목들 만',
