@@ -206,14 +206,14 @@ export default {
 
   startQueue: {
     en: 'Queue',
-    ru: 'Войти в очередь'
+    ru: 'Войти в очередь',
     de: 'Suche',
     tr: 'Sıraya Gir'
   },
 
   stopQueue: {
     en: 'Leave Queue',
-    ru: 'Выйти из очереди'
+    ru: 'Выйти из очереди',
     de: 'Suche verlassen',
     tr: 'Sıradan Çık'
   }
