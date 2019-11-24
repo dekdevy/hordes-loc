@@ -210,7 +210,6 @@ export default [
       nl: 'Gedraaide stukken van de enorme World Tree, Yggdrasil, werden tot amuletten van de heiligste soort gemaakt. Sap sijpelt uit het amulet en wordt door het lichaam geabsorbeerd voor extra bescherming',
       hi: 'विशाल World Tree, Yggdrasil के मुड़ टुकड़े, सबसे पवित्र प्रकार के ताबीज में बनाए गए थे। सैप ताबीज से बाहर निकलता है और अतिरिक्त सुरक्षा के लिए शरीर द्वारा अवशोषित होता है।',
       ko: '거대한 World Tree의 뒤틀린 조각 Yggdrasil은 가장 신성한 종류의 부적으로 만들어졌습니다. 수액은 부적에서 스며 나오고 신체에 흡수되어 추가적인 보호를받습니다.',
-      ja: '巨大なWorld Tree、Yggdrasilのツイストピースは、最も神聖な種類のお守りになりました。樹液はお守りからしみ出て、余分な保護のために体に吸収されます。',
       ro: 'Bucăți sucite din enormul copac al lumii, Yggdrasil, au fost transformate în amulete de cel mai sacru fel. Seva iese din amuletă și este absorbită de corp pentru protecție suplimentară.',
       hu: 'Az ős világfa, Yggdrasil szétszóródott darabkáit rég összegyűjtötték a legnagyobb mágusok, hogy kiaknázhassák végtelen erejüket. Az eredmények a birodalmak legszentebb amulettjei lettek,  amik mágikus gyökerekkel fonódnak egybe a testtel, hogy a titáni egyesülésben a megszázszorozzák a test erejét. A tiszta életerő, amely ezekből a fantasztikus szilánkokból áramlik, képes teljesen megfiatalítani a megfáradt szellemet és lelket egyaránt.',
       tr: 'Devasa Dünya Ağacı\'nın yani Yggdrasil\'in kıvrık parçaları en kutsal türden bir muska hâline getirildi. Muskadan sızan bitki özü vücut taradından emilip fazladan koruma sağlar.'
