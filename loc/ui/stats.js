@@ -157,7 +157,7 @@ export default {
 
     {
       en: 'Haste',
-      ru: 'Быстр.',
+      ru: 'Ск.Умен',
       pt: 'Rapidez',
       fr: 'Célérité',
       tr: 'Çabukluk',
@@ -245,6 +245,11 @@ export default {
       pt: '% Redução de Velocidade',
       hu: '% Mozgási Seb. Csökkentés',
       zh: '%移動速度降低'
+    },
+
+    {
+      en: 'Healing Reduction',
+      de: 'Heilungsreduktion'
     }
   ]
 }

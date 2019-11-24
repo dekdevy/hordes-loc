@@ -95,7 +95,7 @@ export default [{
   name: {$$: 'Mimir\'s Well'},
 
   description: {
-    en: 'You and your party members generate extra mana passively.'
+    en: 'You and your party members quickly regenerate mana over a short period of time.'
   }
 },
 {
@@ -263,7 +263,7 @@ export default [{
   name: {$$: 'Agonize'},
 
   description: {
-    en: 'Turns your target into a zombie, interrupting all spellcasting and slowing movement for the duration.'
+    en: 'Turns your target into a zombie, interrupting all actions, slowing it down, and reducing received healing for the duration.'
   }
 },
 {

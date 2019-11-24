@@ -166,7 +166,7 @@ export default [
     description: {
       en: 'Metal strands weave in and out of each other, producing electric arcs and giving the appearance of a living amulet. Scholars speculate that these amulets came from a realm that disappeared, but no one seems sure.',
       ru: 'Металлические пряди вплетаются друг в друга, создавая электрическую дугу дая видимость живого амулета. ученые предпологают что эти амулеты пришли из одново из неизвестных миров, которые им еще предстоит раскрыть.',
-      de: 'Metallstränge verweben sich ineinander und auseinander, erzeugen Lichtbögen und wirken wie ein lebendiges Amulett. Wissenschaftler spekulieren, dass diese Amulette aus einem verschwundenen Reich stammten, aber niemand scheint sicher zu sein.',
+      de: 'Metallstränge verweben sich ineinander und auseinander, erzeugen Lichtbögen und wirken wie ein lebendiges Amulett. Wissenschaftler spekulieren, dass diese Amulette aus einem verschwundenen Reich stammt, aber niemand scheint sich sicher zu sein.',
       fr: 'Les torons métalliques s\'entrelacent et s\'entremêlent, produisant des arcs électriques et donnant l\'apparence d\'une amulette vivante. Les érudits spéculent que ces amulettes proviennent d\'un royaume qui a disparu, mais personne ne semble sûr.',
       es: 'Los hilos metálicos se entrelazan entre sí, produciendo arcos eléctricos y dando la apariencia de un amuleto vivo. Los estudiosos especulan que estos amuletos provenían de un reino que desapareció, pero nadie parece estar seguro.',
       pt: 'Fios de metal tecem uns com os outros, produzindo arcos elétricos e dando a aparência de um amuleto vivo. Os estudiosos especulam que esses amuletos vieram de um reino que desapareceu, mas ninguém sabe ao certo.',

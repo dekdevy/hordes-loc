@@ -114,7 +114,7 @@ export default {
     ru: 'Пригласительная ссылка',
     nl: 'Uitnodigingslink',
     es: 'Enlace de invitación ',
-    tr: 'Davet linki',
+    tr: 'Davet bağlantısı',
     pt: 'Link para o convite',
     ko: '초대 링크',
     ro: 'Link-ul invitației',
@@ -181,7 +181,7 @@ export default {
     ru: 'Повысить до Assistant',
     pt: 'Promover para Assistant',
     es: 'Asciende a Assistant',
-    tr: 'Assistant Terfi Ettir',
+    tr: 'Assistant\'a Terfi Ettir',
     hu: 'Előléptetés Assistanttá'
   },
 
@@ -191,7 +191,7 @@ export default {
     ru: 'Повысить до Leader',
     pt: 'Promover para Leader',
     es: 'Asciende a Leader',
-    tr: 'Leader Terfi Ettir',
+    tr: 'Leader\'e Terfi Ettir',
     hu: 'Előléptetés Leaderré'
   },
 
@@ -201,15 +201,19 @@ export default {
     ru: 'Уволить Assistant',
     pt: 'Remover Assistant',
     es: 'Quitar Assistant',
-    tr: 'Assistant Çıkar',
+    tr: 'Assistant\'lıktan Çıkar',
     hu: 'Assistant Visszabuktatása'
   },
 
   startQueue: {
-    en: 'Queue'
+    en: 'Queue',
+    de: 'Suche',
+    tr: 'Sıraya Gir'
   },
 
   stopQueue: {
-    en: 'Leave Queue'
+    en: 'Leave Queue',
+    de: 'Suche verlassen',
+    tr: 'Sıradan Çık'
   }
 }
