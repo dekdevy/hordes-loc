@@ -129,7 +129,6 @@ export default {
       nl: 'Selecteer een Klasse',
       pt: 'Selecione uma Classe',
       ro: 'Alegeți o Clasă',
-      da: 'Vælg en Klasse',
       zh: '選擇角色職業',
       hu: 'Válassz egy kasztot'
     },
