@@ -2,7 +2,7 @@ export default [
   {
     name       : {$$: 'Simple Wristbands' },
     description: {
-      en: ' These wristbands are leather strips that are wrapped in a simple formation.'
+      en: 'These wristbands are leather strips that are wrapped in a simple formation.'
     }
   },
 
