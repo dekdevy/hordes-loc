@@ -95,7 +95,7 @@ export default [{
   name: {$$: 'Mimir\'s Well'},
 
   description: {
-    en: 'You and your party members generate extra mana passively.'
+    en: 'You and your party members quickly regenerate mana over a short period of time.'
   }
 },
 {

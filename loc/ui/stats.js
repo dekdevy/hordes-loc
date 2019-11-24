@@ -8,6 +8,7 @@ export default {
   misc: {
     damage: {
       en: 'Damage',
+      de: 'Schaden',
       fr: 'Damage',
       ru: 'Урон',
       pt: 'Dano',
@@ -21,6 +22,7 @@ export default {
 
     {
       en: 'Strength',
+      de: 'Stärke',
       fr: 'Force',
       ru: 'Сила',
       pt: 'Força',
@@ -31,6 +33,7 @@ export default {
 
     {
       en: 'Stamina',
+      de: 'Ausdauer',
       fr: 'Endurance',
       ru: 'Стойкость',
       pt: 'Vigor',
@@ -41,6 +44,7 @@ export default {
 
     {
       en: 'Dexterity',
+      de: 'Geschick',
       fr: 'Dextérité',
       ru: 'Ловкость',
       pt: 'Destreza',
@@ -51,6 +55,7 @@ export default {
 
     {
       en: 'Intelligence',
+      de: 'Intelligenz',
       ru: 'Интеллект',
       fr: 'Intelligence',
       pt: 'Inteligência',
@@ -61,6 +66,7 @@ export default {
 
     {
       en: 'Wisdom',
+      de: 'Weisheit',
       fr: 'Sagesse',
       ru: 'Мудрость',
       pt: 'Sabdr.',
@@ -71,6 +77,7 @@ export default {
 
     {
       en: 'Luck',
+      de: 'Glück',
       fr: 'Chance',
       ru: 'Удача',
       pt: 'Sorte',
@@ -97,6 +104,7 @@ export default {
 
     {
       en: 'Min Dmg.',
+      de: 'Min Schaden.',
       ru: 'Мин Урн.',
       pt: 'Dano Mín',
       fr: 'Min Dmg.',
@@ -107,6 +115,7 @@ export default {
 
     {
       en: 'Max Dmg.',
+      de: 'Max Schaden.',
       ru: 'Макс Урн.',
       pt: 'Dano Máx',
       fr: 'Max Dmg.',
@@ -117,6 +126,7 @@ export default {
 
     {
       en: 'Defense',
+      de: 'Verteidigung',
       fr: 'Défense',
       ru: 'Защита',
       pt: 'Defesa',
@@ -127,6 +137,7 @@ export default {
 
     {
       en: 'Block',
+      de: 'Block',
       ru: 'Блок',
       fr: 'Parade',
       pt: 'Bloquе.',
@@ -138,6 +149,7 @@ export default {
 
     {
       en: 'Critical',
+      de: 'Kritisch',
       ru: 'Крит. Шанс',
       fr: 'Critique',
       pt: 'Crítico',
@@ -148,6 +160,7 @@ export default {
 
     {
       en: 'Move Spd.',
+      de: 'Geschwindigkeit.',
       fr: 'Vit. Mouv.',
       ru: 'Скорость',
       pt: 'Velocidade',
@@ -157,6 +170,7 @@ export default {
 
     {
       en: 'Haste',
+      de: 'Eile',
       ru: 'Быстр.',
       pt: 'Rapidez',
       fr: 'Célérité',
@@ -167,6 +181,7 @@ export default {
 
     {
       en: 'Attack Spd.',
+      de: 'Angriffs Geschw.',
       ru: 'Скорость Атк.',
       fr: 'Vit. Attq',
       pt: 'Rapidez Atq.',
@@ -176,6 +191,7 @@ export default {
 
     {
       en: 'Item Find',
+      de: 'Item finden',
       ru: 'Выпадение',
       fr: 'Trouvaille',
       pt: 'Enctr. Item',
@@ -185,6 +201,7 @@ export default {
 
     {
       en: 'Bag Slots',
+      de: 'Inventar Plätze',
       ru: 'Слоты Сумки',
       pt: 'Espaço',
       fr: 'Espace Sac',
@@ -204,6 +221,7 @@ export default {
 
     {
       en: 'Stat Points',
+      de: 'Statistik Punkte',
       ru: 'Очки Статов',
       fr: 'Points Stat',
       pt: 'Pontos de Stat',
@@ -213,6 +231,7 @@ export default {
 
     {
       en: 'Skill Points',
+      de: 'Skill Puinkte',
       ru: 'Очки Умений',
       fr: 'Points Comp.',
       pt: 'Pontos de Hab.',
@@ -222,6 +241,7 @@ export default {
 
     {
       en: '% Increased Dmg.',
+      de: '% Höherer Schaden.',
       fr: '% Dmg Améliorés',
       ru: '% Увеличения Урона',
       pt: '% Dano Aumentado',
@@ -231,6 +251,7 @@ export default {
 
     {
       en: '% Increased Aggro Generation',
+      de: '% Höhere Aggro Generation',
       ru: '% Увеличения Агрессии',
       fr: '% Génération d\'aggro Améliorée',
       pt: '% Aggro Gerado',
@@ -240,6 +261,7 @@ export default {
 
     {
       en: '% Movement Spd. Reduction',
+      de: '% Geschwindigkeits Reduzierung',
       fr: '% Réduction Vit. Mouv.',
       ru: '% Cнижения Скор. Движения',
       pt: '% Redução de Velocidade',
