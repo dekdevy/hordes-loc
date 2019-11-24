@@ -248,8 +248,7 @@ export default [
       hi: 'This amulet contains a gem from the crown worn by a famous king. The edges of this amulet are ruthlessly sharp and partially smeared with a mysterious substance.',
       ko: '이 부적에는 유명한 왕이 착용 한 왕관의 보석이 들어 있습니다. 이 부적의 가장자리는 무자비하게 날카 롭고 부분적으로 신비한 물질로 얼룩 져 있습니다.',
       tr: 'Bu muska, ünlü bir kralın tacından bir mücevher barındırıyor. Bu muskanın keskin kenarlarının bazı yerleri gizli bir maddeye bulanmış.',
-      hu: 'Ez az amulett egy bukott király koronájából kitört ékkövet őriz magában. A kristály pereme végtelenül éles és a művészien megmunkált formák egy ismeretlen szubsztanciát rejtenek magukban.',
-      tr: 'Bu muskada, ünlü bir kralın tacından bir mücevher var. Kenarları acımasızca keskin ve bu kenarlarının bazı yerleri gizli bir maddeye bulanmış.'
+      hu: 'Ez az amulett egy bukott király koronájából kitört ékkövet őriz magában. A kristály pereme végtelenül éles és a művészien megmunkált formák egy ismeretlen szubsztanciát rejtenek magukban.'
     }
   },
 
