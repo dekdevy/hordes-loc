@@ -2,111 +2,91 @@ export default [
   {
     name       : {$$: 'Sandals' },
     description: {
-      en: 'ItemDescription'
+      en: 'This footwear is primarily made for comfort rather than running.'
     }
   },
 
   {
     name       : {$$: 'Cloth Footpads' },
     description: {
-      en: 'ItemDescription'
+      en: 'These footpads are wrapped in a makeshift material to increase running stability.'
     }
   },
 
   {
     name       : {$$: 'Leather Shoes' },
     description: {
-      en: 'The soft leather is said to be stripped off wild boars roaming the eerie woods.',
-      ru: 'Говорят, что мягкую кожу сняли с кабанов, бродящих по жутким лесам.',
-      de: 'Das weiche Leder soll von Wildschweinen befreit worden sein, die durch die unheimlichen Wälder streifen.',
-      es: 'Se dice que el cuero suave es despojado de los jabalíes que deambulan por los espeluznantes bosques.',
-      it: 'Si dice che la morbida pelle sia stata rimossa dai cinghiali che vagano nei boschi inquietanti.',
-      fr: 'On dit que le cuir souple est dépouillé des sangliers qui errent dans les bois étranges.',
-      pt: 'Diz-se que o couro macio é arrancado dos javalis selvagens que vagueiam pelos bosques sinistros.',
-      nl: 'Het zachte leer zou gestript zijn van wilde zwijnen die door de griezelige bossen zwerven.',
-      tr: 'Bu yumuşak derinin, ürkütücü ormanda dolaşan yaban domuzlarından yüzüldüğü söyleniyor.',
-      pl: 'Mówi się, że miękka skóra jest rozebrana z dzika wędrującego po przerażających lasach.',
-      sv: 'Det mjuka läderet sägs vara avskilt från vildsvin som roaming de kusliga skogen.',
-      tl: 'Ang malambot na katad ay sinasabing hinubaran ng mga ligaw na baboy na nakasisilaw sa nakatatakot na mga kahoy.',
-      ht: 'li te di kwi mou yo dwe wete nan sangliye sovaj vagan bwa yo etranj.',
-      el: 'Το μαλακό δέρμα λέγεται ότι απογυμνώνεται από αγριόχοιρους περιαγώνοντας το απόκοσμο δάσος.',
-      bg: 'За меката кожа се казва, че е съблечена от диви свине, прекосяващи зловещите гори.',
-      cs: 'Říká se, že měkká kůže je zbavena divokých prasat roamingu děsivých lesů.',
-      ja: '柔らかい革は不気味な森を歩き回っているイノシシを剥ぎ取られると言われています。',
-      hi: 'इसका नरम चमड़े को डरावने जंगलो में रहने वाले जंगली सूअरो से लिए गया है।',
-      ko: '부드러운 가죽은 섬뜩한 숲을 돌아 다니는 야생 멧돼지에서 벗겨졌다.',
-      ro: 'Se zvonește că pielea moale a fost dezbrăcată de mistreții ce se plimbau prin pădurea stranie.',
-      da: 'Det bløde læder siges at være fjernet fra vildsvin, der roaming de uhyggelige skove.'
+      en: 'Leather shoes are created with fine craftsmanship for moderate battle durability.
     }
   },
 
   {
     name       : {$$: 'Bone Brogans' },
     description: {
-      en: 'ItemDescription'
+      en: 'The monster bones used in the creation of footwear such as this seem to enhance movement speed, but whether the enhancement is through magic or the lightness of the material is not known.'
     }
   },
 
   {
     name       : {$$: 'Scaled Treads' },
     description: {
-      en: 'ItemDescription'
+      en: 'This footwear is carefully crafted with monster scales that are both light and robust for battle.'
     }
   },
 
   {
     name       : {$$: 'Shadow Shoes' },
     description: {
-      en: 'ItemDescription'
+      en: ' Enchanted shoes such as this push the wearer\'s feet with shadow magic to augment speed.'
     }
   },
 
   {
     name       : {$$: 'Wartorn Boots' },
     description: {
-      en: 'ItemDescription'
+      en: 'These boots are crafted from sturdy iron and have been used in many wars.'
     }
   },
 
   {
     name       : {$$: 'Imbued Treads' },
     description: {
-      en: 'ItemDescription'
+      en: ' Footwear such as this is etched with runes that increase the wearer’s speed. However, scholars are hesitant about the use of these runes since their true purpose and nature is unclear.'
     }
   },
 
   {
     name       : {$$: 'Skyswift Boots' },
     description: {
-      en: 'ItemDescription'
+      en: ' Elvish magic is assisted by wind spirits to create Skyswift Boots. Although Elves are very close to nature, even they know little about the reclusive wind spirits.'
     }
   },
 
   {
     name       : {$$: 'Coldforged Greaves' },
     description: {
-      en: 'ItemDescription'
+      en: 'These boots are forged without heat and with enchanted hammers to keep the innate properties of the special metal. This rare metal is most often found in the mountains.'
     }
   },
 
   {
     name       : {$$: 'Cloudrunners' },
     description: {
-      en: 'ItemDescription'
+      en: 'These boots are created by monster craftsmen with the help of sky spirits. Some monster factions have a close connection with sky spirits and nature; however, monsters do not frequently talk about this relationship.'
     }
   },
 
   {
     name       : {$$: 'Talaria' },
     description: {
-      en: 'ItemDescription'
+      en: 'These boots are named after a famous relic legend. The namesake of these boots were supposedly the fast footwear of a famous deity, but no one seems to know where the story originates.'
     }
   },
 
   {
     name       : {$$: 'Starshards' },
     description: {
-      en: 'ItemDescription'
+      en: 'This footwear is composed of meteorite pieces. Black meteorites were found during a terrible catastrophe where fire rained down from the sky and destroyed much of the landscape.'
     }
   }
 
