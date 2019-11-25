@@ -3,7 +3,7 @@ export default [
     name       : {$$: 'Driftwood Shortbow' },
     description: {
       en: 'This bow is a makeshift creation. Wood is not a plentiful resource in some regions, so denizens sometimes use the materials on hand to create weapons such as this.',
-      ru: 'Этот лук - самодельное конструкция. Древесина не является богатым ресурсом в некоторых регионах, поэтому жители иногда используют имеющиеся материалы для создания такого оружия, как это.'
+      ru: 'Этот лук - самоделка. Древесина не является богатым ресурсом в некоторых регионах, поэтому жители иногда используют имеющиеся материалы для создания такого оружия, как это.'
     }
   },
 
@@ -27,7 +27,7 @@ export default [
     name       : {$$: 'Adventurer\'s Shortbow' },
     description: {
       en: 'This type of bow is a standard weapon of choice for adventurers.',
-      ru: 'Этот тип лука является стандартным оружием выбора для искателей путешественников.'
+      ru: 'Этот тип лука является стандартным выбором оружия для искателей приключений.'
     }
   },
 
@@ -35,7 +35,7 @@ export default [
     name       : {$$: 'Longbow' },
     description: {
       en: 'Longbows are designed to be weapons of war.',
-      ru: 'Этот лук задуман как оружие войны.'
+      ru: 'Длинный лук задуман как оружие войны.'
     }
   },
 
@@ -43,7 +43,7 @@ export default [
     name       : {$$: 'Bone Bow' },
     description: {
       en: 'This bow is crafted from monster bones to produce extra resilience and power.',
-      ru: 'Этот лук сделан из чудовищных костей для обеспечения дополнительной упругости и силы.'
+      ru: 'Этот лук сделан из костей монстров для обеспечения дополнительной упругости и силы.'
     }
   },
 
@@ -51,7 +51,7 @@ export default [
     name       : {$$: 'Elven Bow' },
     description: {
       en: 'Elvish craftsmen put exquisite care in their bows during the crafting process, and Elvish archers have a proud reputation during times of war for a reason.',
-      ru: 'Эльфийские мастера проявляют исключительную осторожность во время изготовления своих луков. Эльфийские лучники имеют восхитительнаю репутацию во время боя.'
+      ru: 'Эльфийские мастера проявляют исключительную осторожность во время изготовления своих луков. Эльфийские лучники имеют восхитительную военную репутацию.'
     }
   },
 
@@ -75,7 +75,7 @@ export default [
     name       : {$$: 'Silver Recurve' },
     description: {
       en: 'This bow design is more mechanically efficient than the longbow. The unique pattern of decorative silver is a testament to the craftsmanship required to make such a fine bow.',
-      ru: 'Эта конструкция лука более эффективна с механической точки зрения, чем длинный лук. Уникальный узор из декоративного серебра является свидетельством мастерства, необходимого для изготовления такого вылечаятвинова лука.'
+      ru: 'Эта конструкция лука более эффективна с механической точки зрения, чем длинный лук. Уникальный узор из декоративного серебра является свидетельством мастерства, необходимого для изготовления такого величественного лука.'
     }
   },
 
@@ -83,7 +83,7 @@ export default [
     name       : {$$: 'Assassin\'s Bow' },
     description: {
       en: 'Bows such as this were previously owned by assassins that made modifications to drastically increase efficiency. Assassins regularly modify their weapons to reach optimal performance.',
-      ru: 'Такие луки раньше принадлежали убийцам, которые вносили изменения для резкого повышения эффективности. Убийцы регулярно модифицируют свое оружие для достижения оптимальных результатов.'
+      ru: 'Такие луки раньше принадлежали ассасинам , которые вносили изменения для резкого повышения эффективности. Ассасины регулярно модифицируют свое оружие для достижения оптимальных результатов.'
     }
   },
 
@@ -91,7 +91,7 @@ export default [
     name       : {$$: 'Hellfire Warbow' },
     description: {
       en: 'Bows such as this were made from hellfires that are provided by devilish creatures. These kinds of bows are rare because of the ultimate price required for such wicked transactions and acquisitions.',
-      ru: 'Такие луки были сделаны из адского огня, который обеспечивают дьявольские существа. Луки, как этот, встречаются редко из-за конечной цены, необходимой для таких злонамеренных сделок и приобретений.'
+      ru: 'Такие луки были сделаны из адского пламени, которое создают дьявольские существа. Луки, как этот, встречается редко из-за конечной цены, необходимой для таких злонамеренных сделок и приобретений.'
     }
   },
 
@@ -99,7 +99,7 @@ export default [
     name       : {$$: 'Skyfire Warbow' },
     description: {
       en: 'This bow was bathed in the flames of a phoenix and cooled in the night sky. Bows created in this way are sometimes imbued with extra magical characteristics from phoenix fire.',
-      ru: 'Этот лук раскален в пламя феникса и охлажден в ночном небе. Созданные таким образом, луки иногда наделяются дополнительными магическими свойствами от огня фениксов.'
+      ru: 'Этот лук раскален в пламени феникса и охлажден в ночном небе. Созданные таким образом луки иногда наделяются дополнительными магическими свойствами от огня фениксов.'
     }
   },
 
@@ -107,7 +107,7 @@ export default [
     name       : {$$: 'Widowmaker' },
     description: {
       en: 'Widowmakers are living bows that bond with the user. Powerful monsters use a mystic process to create widowmakers; the resulting weapon can be remarkably jealous and entice the user not to use any other weapon by destroying foes with vast depths of battle experience.',
-      ru: 'Эту луки живые конструкции, которые привязаны к пользователю. Мощные чудовища используют загадочный процесс создания этих луков; полученное оружие может вызывать удивительную ревность и побуждать пользователя не применять никакое другое оружие, уничтожая противников с огромным боевым опытом.'
+      ru: 'Widowmakers - живые луки, которые привязаны к обладателю. Мощные монстры используют загадочный процесс создания этих луков; полученное оружие имеет удивительную ревность и побуждает обладателя не применять никакое другое оружие, уничтожая противников с огромным боевым опытом.'
     }
   },
 
@@ -123,7 +123,7 @@ export default [
     name       : {$$: 'Scarebow' },
     description: {
       en: 'This malevolent bow eats the dreams and nightmares of the wielder. This living bow offers no loyalty and demand sacrifices in the form of battle victims.',
-      ru: 'Этот злобный лук съедает сны и кошмары владелеца. Этот живой лук не предлагает верности и требует требует жертв в виде солдат противоборствующих армий.'
+      ru: 'Этот злобный лук съедает сны и кошмары владелеца. Этот живой лук не предлагает верности и требует жертв в виде солдат противоборствующих армий.'
     }
   },
 
@@ -131,7 +131,7 @@ export default [
     name       : {$$: 'Fury' },
     description: {
       en: 'When a great tragedy befalls an entire civilization, the spirits of enraged victims pour their anger into a weapon to wreak vengeance upon the world. This weapon is only known as "Fury."',
-      ru: 'Когда целая цивилизация переживает великую трагедию, духи разгневанных жертв изливают свой гнев в оружие, чтобы отомстить миру. Это оружие известно только как "Fury".'
+      ru: 'Когда целая цивилизация переживает великую трагедию, духи разгневанных жертв изливают свою злость в оружие, чтобы отомстить миру. Это оружие известно только как "Fury".'
     }
   }
 
