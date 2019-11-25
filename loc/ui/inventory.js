@@ -62,7 +62,7 @@ export default {
     hu: 'A hátizsákod tele van.'
   },
 
-  sell: { // TODO: these are likely broken in many places
+  sell: {
     en: 'You have sold $1.',
     nl: 'U heeft verkocht $1.',
     es: 'Ha vendido $1.',
