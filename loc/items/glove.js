@@ -59,7 +59,7 @@ export default [
     name       : {$$: 'Fiery Handguards' },
     description: {
       en: 'These are experimental gloves created by fire mages that used techniques and methods taught by fire elementals.',
-      ru: 'Это экспериментальные перчатки, созданные огняными магами, использующими методы и приемы, которым обучают элементы огня.'
+      ru: 'Это экспериментальные перчатки, созданные огненными магами, использующими методы и приемы, которым обучают элементы огня.'
     }
   },
 
@@ -91,7 +91,7 @@ export default [
     name       : {$$: 'Phrygians' },
     description: {
       en: 'Phrygians were developed by a long-lost civilization destroyed by war. Most of the ruins of these lost cities contained fantastic treasures that have long since been plundered.',
-      ru: 'Эти магуществиные перчатки были созданы давно потерянной цивилизацией, уничтоженной войной. Большинство руин этих потерянных городов содержали огромные сокровище, которые уже давно были разграблены.'
+      ru: 'Эти могущественные перчатки были созданы давно потерянной цивилизацией, уничтоженной войной. Большинство руин этих потерянных городов содержали огромные сокровища, которые уже давно были разграблены.'
     }
   },
 
@@ -99,7 +99,7 @@ export default [
     name       : {$$: 'Titans' },
     description: {
       en: 'Powerful armor such as this was necessary to slay titanic monster overlords that tried to take control of the realms after the initial formation of the Great Barrier. The Great Barrier was created to protect the realms from dark and forgotten enemies that rivaled the power of deities.',
-      ru: 'Мощные доспехи, подобные этих, были необходимы для уничтожения надзирателей титанических монстров, которые пытались захватить контроль над царствами первоначального образования "The Great Barrier". Этот барьер был создан для защиты царств от темных и забытых врагов, которые соперничали с силой богов.'
+      ru: 'Мощные доспехи, подобные этим, были необходимы для уничтожения надзирателей титанических монстров, которые пытались захватить контроль над царствами первоначального образования "The Great Barrier". Этот барьер был создан для защиты царств от темных и забытых врагов, которые соперничали с силой богов.'
     }
   }
 
