@@ -64,7 +64,7 @@ export default {
     en: 'Delist Item',
     nl: 'Verwijderd Voorwerp',
     de: 'Verkauf Abbrechen',
-    ru: 'Исключить Предмет',
+    ru: 'Забрать Предмет',
     pt: 'Excluir Objeto',
     fr: 'Enlever l\'objet des enchères',
     es: 'Eliminar Objeto',
