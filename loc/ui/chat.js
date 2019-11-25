@@ -18,7 +18,7 @@ export default {
   types: [
     {
       en: 'Exp Gain',
-      ru: 'Прибыль Опыта',
+      ru: 'Получение Опыта',
       de: 'Exp erhalten',
       fr: 'Gain d\'xp',
       es: 'Exp ganado',
@@ -64,7 +64,7 @@ export default {
     },
     {
       en: 'Heal',
-      ru: 'Исцеления',
+      ru: 'Исцеление',
       fr: 'Heal',
       de: 'Heilung',
       es: 'Curar',
@@ -144,7 +144,7 @@ export default {
     {
       en: 'Fame Gain',
       de: 'Ruhm erhalten',
-      ru: 'Прибыль Славы',
+      ru: 'Получение Славы',
       fr: 'Gain de Gloire',
       es: 'Fama ganada',
       pt: 'Fama ganha',
