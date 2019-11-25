@@ -35,7 +35,7 @@ export default [
     name       : {$$: 'Scaled Treads' },
     description: {
       en: 'This footwear is carefully crafted with monster scales that are both light and robust for battle.',
-      ru: 'Эта обувь тщательно изготовлена с использованием чешуек монстров, которые одновременно легки и прочны в бою.',
+      ru: 'Эта обувь тщательно изготовлена с использованием чешуек монстров, которые одновременно легки и прочны в бою.'
     }
   },
 
