@@ -42,7 +42,7 @@ export default {
 
   info: {
     en: 'To sell an item, shift-right-click it or drag it into the trader window.',
-    ru: 'Чтобы продать вещь, нажмите на него правой кнопкой мыши или перетащите в окно торговца.',
+    ru: 'Чтобы продать вещь, нажмите на неё правой кнопкой мыши или перетащите в окно торговца.',
     pt: 'Para vender um item, clique direito ou arraste-o para a janela de negociação.',
     es: 'Para vender un artículo, haga clic derecho o arrástrelo a la ventana del comerciante.',
     hi: 'किसी आइटम को बेचने के लिए, उसे राइट क्लिक करें या उसे ट्रेडर विंडो में खींचें।',
