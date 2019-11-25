@@ -197,7 +197,7 @@ export default {
   // Do not translate"Assistant".
   removeAssistant: {
     en: 'Demote Assistant',
-    ru: 'Уволить Assistant',
+    ru: 'Убрать Assistant',
     pt: 'Remover Assistant',
     es: 'Quitar Assistant',
     tr: 'Assistant\'lıktan Çıkar',
@@ -206,14 +206,14 @@ export default {
 
   startQueue: {
     en: 'Queue',
-    ru: 'Войти в очередь',
+    ru: 'Войти в Очередь',
     de: 'Suche',
     tr: 'Sıraya Gir'
   },
 
   stopQueue: {
     en: 'Leave Queue',
-    ru: 'Выйти из очереди',
+    ru: 'Выйти из Очереди',
     de: 'Suche verlassen',
     tr: 'Sıradan Çık'
   }
