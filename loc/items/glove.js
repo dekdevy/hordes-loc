@@ -2,7 +2,8 @@ export default [
   {
     name       : {$$: 'Hand Wraps' },
     description: {
-      en: 'This cloth is commonly used to lightly protect the hands and reduce vibration.'
+      en: 'This cloth is commonly used to lightly protect the hands and reduce vibration.',
+      ru: 'Эта ткань обычно используется для легкой защиты рук и снижения вибрации.'
     }
   },
 
