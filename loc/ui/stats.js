@@ -176,7 +176,7 @@ export default {
 
     {
       en: 'Item Find',
-      ru: 'Выпадение',
+      ru: 'Кол.Пред.',
       fr: 'Trouvaille',
       pt: 'Enctr. Item',
       hu: 'Tárgylelés',
@@ -204,7 +204,7 @@ export default {
 
     {
       en: 'Stat Points',
-      ru: 'Очки Статов',
+      ru: 'Очки Хар-ик',
       fr: 'Points Stat',
       pt: 'Pontos de Stat',
       hu: 'Stat Pntk',
