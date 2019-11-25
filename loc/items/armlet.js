@@ -84,7 +84,7 @@ export default [
     name       : {$$: 'Blackstars' },
     description: {
       en: 'These bracers were created by blacksmiths that hammered metal found within black meteorites. So far, the greatest concentration of black meteorites was found after a cataclysm that followed the Second Great War.',
-      ru: 'Эти браслеты были созданы кузнецами, которые ковали металл, найденный в черных метеоритах. До сих пор наибольшая концентрация черных метеоритов была обнаружена после катаклизма, последовавшего за Second Great War.'
+      ru: 'Эти браслеты были созданы кузнецами, которые ковали металл, найденный в черных метеоритах. До сих пор наибольшая концентрация черных метеоритов была обнаружена после катаклизма, последовавшего за "The Second Great War".'
     }
   },
 
