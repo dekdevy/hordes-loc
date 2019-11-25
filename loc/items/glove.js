@@ -10,14 +10,16 @@ export default [
   {
     name       : {$$: 'Cloth Mitts' },
     description: {
-      en: 'Cloth mitts are made from the finest Elvish cloth.'
+      en: 'Cloth mitts are made from the finest Elvish cloth.',
+      ru: 'Такие варежки сделаны из лучшей эльфийской ткани.'
     }
   },
 
   {
     name       : {$$: 'Leather Gloves' },
     description: {
-      en: 'These gloves are crafted with tough and hardened leather.'
+      en: 'These gloves are crafted with tough and hardened leather.',
+      ru: 'Эти перчатки сделаны из прочной кожи.'
     }
   },
 
