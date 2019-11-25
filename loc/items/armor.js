@@ -83,7 +83,7 @@ export default [
     name       : {$$: 'Deathless' },
     description: {
       en: 'Deathless armors were created by the first kings and leaders as a means to prevent mortal wounds during the First Great War. True to the legend, those kings and leaders did not perish in battle; instead, they were each assassinated in their sleep and their armors were stolen. The forging techniques were lost to time, but massive fortunes were clearly necessary for the process.',
-      ru: 'Такие доспехи были созданы первыми царями и вождями, чтобы предотвратить смертельные ранения во время First Great War. По преданию легенды, эти цари и вожди не погибли в бою, а были убиты во сне, и их доспехи были украдены. Методы ковки были потеряны со временем, но для этого процесса явно требовались огромные силы и жертвы.'
+      ru: 'Такие доспехи были созданы первыми царями и вождями, чтобы предотвратить смертельные ранения во время "The First Great War". По преданию легенды, эти цари и вожди не погибли в бою, а были убиты во сне, и их доспехи были украдены. Методы ковки были потеряны со временем, но для этого процесса явно требовались огромные силы и жертвы.'
     }
   }
 
