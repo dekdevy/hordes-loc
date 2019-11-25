@@ -11,7 +11,7 @@ export default [
     name       : {$$: 'Adventurer\'s Rucksack' },
     description: {
       en: 'This rugged sack is crafted from sturdy fabrics to hold more equipment than a linen pouch.',
-      ru: 'Этот прочный мешок сделан из прочных тканей и может держать в себя больше вещей, чем Linen Pouch.'
+      ru: 'Этот прочный мешок сделан из крепких тканей и может содержать в себе больше вещей, чем Linen Pouch.'
     }
   },
 
@@ -35,7 +35,7 @@ export default [
     name       : {$$: 'Moss Enigma' },
     description: {
       en: 'Bags such as this are a gift from nature to secret druid societies. Unfortunately, monsters have disposed of many druids over time and have stolen these sacred bags.',
-      ru: 'Такие сумки являются подарком от природы тайным друидным обществам. К сожалению, монстры со временем избавлялись от многих друидов и украли эти священные сумки.'
+      ru: 'Такие сумки являются подарком от природы тайным обществом друидов. К сожалению, монстры со временем избавлялись от многих друидов и украли эти священные сумки.'
     }
   }
 
