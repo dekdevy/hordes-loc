@@ -19,7 +19,7 @@ export default [
     name       : {$$: 'Adventurer\'s Tunic' },
     description: {
       en: 'This tunic is crafted from robust fabrics that are designed to withstand wilderness survival. Some traditions involve giving tunics as gifts to adventurers that are deemed worthy by an organization.',
-      ru: 'Эта туника изготовлена из прочных тканей, которые разработаны, чтобы противостоять выживанию в дикой природе. Некоторые традиции включают в себя вручение туник в качестве подарка приключеникам, которые организация считает достойными.'
+      ru: 'Эта туника изготовлена из прочных тканей, которые разработаны, чтобы противостоять выживанию в дикой природе. Некоторые традиции включают в себя вручение туник в качестве подарка искателям приключений, которые организация считает достойными.'
     }
   },
 
@@ -27,7 +27,7 @@ export default [
     name       : {$$: 'Leather Jerkin' },
     description: {
       en: 'This leather armor is a common choice for traveling adventurers. The trend of wearing leather jerkins originated around Yggdrasil when dangerous creatures began to lurk in the nearby jungles.',
-      ru: 'Эта кожаная броня является общим выбором для путешественников. Тенденция ношения кожаных джеркинов возникла вокруг Yggdrasil, когда в близлежащих джунглях начали таиться опасные существа.'
+      ru: 'Эта коженая броня является общим выбором для путешественников. Тенденция ношения козлиной кожи возникла вокруг Yggdrasil, когда в близлежащих джунглях начали таиться опасные существа.'
     }
   },
 
@@ -35,7 +35,7 @@ export default [
     name       : {$$: 'Scaled Chestguard' },
     description: {
       en: 'This armor is made of monster scales that were found on the ground. Monster scales are often crafted into respectable armor whenever metal is in short supply.',
-      ru: 'Эта броня сделана из чудовищных чешуек, которые были найдены на земле. Чудовищные чешуя часто изготавливаются в респектабельные доспехи, когда металла не хватает.'
+      ru: 'Эта броня сделана из чешуек монстров, которые были найдены на земле. Чешуя монстров часто изготавливается в респектабельные доспехи, когда не хватает металла.'
     }
   },
 
@@ -59,7 +59,7 @@ export default [
     name       : {$$: 'Runic Halfplate' },
     description: {
       en: 'Magic runes were etched into this armor to provide additional protection. Some scholars believe the runes on all runic halfplate armors are meant to interact together in some larger, undiscovered ritual.',
-      ru: 'Волшебные руны были выгравированы на этой броне, чтобы обеспечить дополнительную защиту. Некоторые ученые полагают, что руны на всех доспехов предназначены для взаимодействия в более крупных, нераскрытых ритуалах.'
+      ru: 'Волшебные руны были выгравированы на этой броне, чтобы обеспечить дополнительную защиту. Некоторые ученые полагают, что руны на всех доспехах предназначены для взаимодействия в более крупных, нераскрытых ритуалах.'
     }
   },
 
@@ -67,7 +67,7 @@ export default [
     name       : {$$: 'Hellfire Fullplate' },
     description: {
       en: 'Supernatural infernos were used in the making of this armor. Great sacrifices were made to appease the demands of devilish creatures so that a few blacksmiths could forge with the strange flames.',
-      ru: 'При изготовлении этих доспехов использовались сверхъестественные пламя. Крупные жертвы были принесены, для того чтобы успокоить требования дьявольских существ, чтобы несколько кузнецов могли ковать с этим странным огнем.'
+      ru: 'При изготовлении этих доспехов использовались сверхъестественное пламя. Крупные жертвы были принесены, для того чтобы успокоить требования дьявольских существ, чтобы несколько кузнецов могли ковать с этим странным огнем.'
     }
   },
 
@@ -75,7 +75,7 @@ export default [
     name       : {$$: 'Soulkeeper' },
     description: {
       en: 'Ancient legends say that each Soulkeeper armor harbors a soul that willingly sacrificed itself to enhance the armor’s protective power. In harder times, individuals made great sacrifices to ensure the survival of their clans and families.',
-      ru: 'Древние легенды гласят, что в каждом доспехи хранится душа, которая добровольно пожертвовала собой, чтобы усилить защитную силу доспеха. В более трудные времена люди идут на большие жертвы, чтобы обеспечить выживание своих кланов и семей.'
+      ru: 'Древние легенды гласят, что в каждом доспехе хранится душа, которая добровольно пожертвовала собой, чтобы усилить защитную силу доспеха. В более трудные времена люди идут на большие жертвы, чтобы обеспечить выживание своих кланов и семей.'
     }
   },
 
