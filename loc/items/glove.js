@@ -83,7 +83,7 @@ export default [
     name       : {$$: 'Eternals' },
     description: {
       en: 'An elder race of immortals wore this armor and established great empires. The race disappeared suddenly and mysteriously, but some of their armor was left behind.',
-      ru: 'Старейшая раса бессмертных носила эту броню и учредила великие империи. Раса внезапно и загадочно исчезла, но часть их доспехов осталась позади.'
+      ru: 'Старейшая раса бессмертных носила эту броню и учредила великие империи. Раса внезапно и загадочно исчезла, но часть их доспехов осталась.'
     }
   },
 
