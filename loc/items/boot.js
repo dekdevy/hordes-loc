@@ -11,7 +11,7 @@ export default [
     name       : {$$: 'Cloth Footpads' },
     description: {
       en: 'These footpads are wrapped in a makeshift material to increase running stability.',
-      ru: 'Эта обувь обернута грубом материалом для повышения устойчивости бега.'
+      ru: 'Эта обувь обернута грубым материалом для повышения стабильности бега.'
     }
   },
 
@@ -27,7 +27,7 @@ export default [
     name       : {$$: 'Bone Brogans' },
     description: {
       en: 'The monster bones used in the creation of footwear such as this seem to enhance movement speed, but whether the enhancement is through magic or the lightness of the material is not known.',
-      ru: 'Кости монстров, используемые при изготовлении обуви, похоже, увеличивают скорость передвижения, но вопрос в том, происходит ли это с помощью магии или легкость материала, остается неизвестным.'
+      ru: 'При изготовлении обуви использовались кости монстров, похоже, увеличивают скорость передвижения, но вопрос в том, происходит ли это с помощью магии или из-за легкости материала, остается неизвестным.'
     }
   },
 
@@ -35,7 +35,7 @@ export default [
     name       : {$$: 'Scaled Treads' },
     description: {
       en: 'This footwear is carefully crafted with monster scales that are both light and robust for battle.',
-      ru: 'Эта обувь тщательно изготовлена с использованием чудовищных чешуек, которые одновременно легки и прочны в бою.'
+      ru: 'Эта обувь тщательно изготовлена с использованием чешуек монстров, которые одновременно легки и прочны в бою.',
     }
   },
 
@@ -51,7 +51,7 @@ export default [
     name       : {$$: 'Wartorn Boots' },
     description: {
       en: 'These boots are crafted from sturdy iron and have been used in many wars.',
-      ru: 'Эти ботинки изготовлены из прочной железы и использовались во многих войнах.'
+      ru: 'Эти ботинки изготовлены из прочного железа и использовались во многих войнах.'
     }
   },
 
@@ -67,7 +67,7 @@ export default [
     name       : {$$: 'Skyswift Boots' },
     description: {
       en: 'Elvish magic is assisted by wind spirits to create Skyswift Boots. Although Elves are very close to nature, even they know little about the reclusive wind spirits.',
-      ru: 'Эльфийская магия создаёт такие ботинки при помощи духовых ветров. Хотя эльфы очень близки к природе, даже они мало знают о духах ветра.'
+      ru: 'Эльфийская магия создаёт такие ботинки при помощи духов ветра. Хоть эльфы и очень близки к природе, но даже они мало знают о духах ветра.'
     }
   },
 
