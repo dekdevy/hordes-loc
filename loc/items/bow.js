@@ -130,7 +130,7 @@ export default [
   {
     name       : {$$: 'Fury' },
     description: {
-      en: 'When a great tragedy befalls an entire civilization, the spirits of enraged victims pour their anger into a weapon to wreak vengeance upon the world. This weapon is only known as ”Fury.”',
+      en: 'When a great tragedy befalls an entire civilization, the spirits of enraged victims pour their anger into a weapon to wreak vengeance upon the world. This weapon is only known as "Fury."',
       ru: 'Когда целая цивилизация переживает великую трагедию, духи разгневанных жертв изливают свой гнев в оружие, чтобы отомстить миру. Это оружие известно только как "Fury".'
     }
   }
