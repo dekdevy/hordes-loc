@@ -51,7 +51,7 @@ export default [
     name       : {$$: 'Wartorn Mitts' },
     description: {
       en: 'This armor was battle-tested during the Third Great War. Although these mitts are old, armor of this quality was once necessary for survival.',
-      ru: 'Эта броня прошла боевые испытания во время Third Great War. Хотя эти перчатки старые, броня такого качества когда-то была необходима для выживания.'
+      ru: 'Эта броня прошла боевые испытания во время "The Third Great War". Хотя эти перчатки старые, броня такого качества когда-то была необходима для выживания.'
     }
   },
 
