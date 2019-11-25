@@ -158,7 +158,7 @@ export default {
 
   summon: {
     en: 'Summon',
-    ru: 'Вызвать',
+    ru: 'Призвать',
     pt: 'Invokar',
     es: 'Invokar',
     fr: 'Convoquer',
