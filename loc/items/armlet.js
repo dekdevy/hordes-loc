@@ -60,7 +60,7 @@ export default [
     name       : {$$: 'Mirror Armlets' },
     description: {
       en: 'Mirrored armlets are made by exceptional blacksmiths with the skills necessary to make reflective armor for damage reduction. This protective quality inspired many Elvish wizards to often experiment on mirrored armlets.',
-      ru: 'Зеркальные браслеты изготавливаются чрезвычайно опытными кузнецами, обладающими навыками, необходимыми для изготовления брони для снижения урона. Это защитное качество вдохновило многих эльфийских волшебников часто экспериментировать на зеркальных браслетов.'
+      ru: 'Зеркальные браслеты изготавливаются чрезвычайно опытными кузнецами, обладающими навыками, необходимыми для изготовления брони для снижения урона. Это защитное качество вдохновило многих эльфийских волшебников часто экспериментировать на зеркальных браслетах.'
     }
   },
 
@@ -100,7 +100,7 @@ export default [
     name       : {$$: 'Guardians' },
     description: {
       en: 'Some legends say that these bracers only appear when the realms need a guardian. History shows that terrible tragedies occur shortly thereafter whenever these bracers are found; as such, their appearances are often seen as bad omens.',
-      ru: 'Некоторые легенды гласят, что эти браслеты появляются только тогда, когда королевства нуждаются в страже. История показывает, что ужасные трагедии происходят вскоре после этого, когда эти браслеты обнаруживаются; как таковые, их появление часто рассматривается как плохое предзнаменование.'
+      ru: 'Некоторые легенды гласят, что эти браслеты появляются только тогда, когда королевства нуждаются в страже. История показывает, что ужасные трагедии происходят вскоре после этого, когда эти браслеты обнаруживаются; как таковое, их появление часто рассматривается как плохое предзнаменование.'
     }
   }
 
