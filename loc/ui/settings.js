@@ -280,7 +280,7 @@ export default {
   combatlog: {
     en: 'Combat Log',
     de: 'Chatnachrichten',
-    ru: 'Боевой лог',
+    ru: 'Лог Боя',
     nl: 'Gevechts log',
     hu: 'Harci kisnapló',
     es: 'Registro de combate',
@@ -369,7 +369,7 @@ export default {
   disabletutorial: {
     en: 'Disable tutorial',
     de: 'Tutorial bendeen',
-    ru: 'Отключить обучения',
+    ru: 'Отключить обучение',
     tr: 'Öğreticiyi kapat',
     fr: 'Désactiver le tutoriel',
     pt: 'Desativar o tutorial',
