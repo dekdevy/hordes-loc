@@ -74,7 +74,8 @@ export default [
   {
     name       : {$$: 'Aegis' },
     description: {
-      en: 'The divine paint on this shield is animated and can imbue a worthy user with fantastic powers. Some observers believe that the blinking eye allows the mysterious and divine painter to see the world.'
+      en: 'The divine paint on this shield is animated and can imbue a worthy user with fantastic powers. Some observers believe that the blinking eye allows the mysterious and divine painter to see the world.',
+      ru: 'Божественная краска на этом щите анимирована и может наделять достойного человека фантастическими способностями. Некоторые считают, что мигающий глаз позволяет таинственному и божественному художнику видеть мир.'
     }
   }
 
