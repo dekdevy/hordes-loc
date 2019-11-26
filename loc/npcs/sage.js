@@ -1,7 +1,8 @@
 export default {
   interactions: [{
     text: {
-      en: 'Burdened minds are filled with opinions aplenty; a cup can be quite useful if first found empty. How may I help you on your path toward enlightenment?'
+      en: 'Burdened minds are filled with opinions aplenty; a cup can be quite useful if first found empty. How may I help you on your path toward enlightenment?',
+      ru: 'Загруженные умы полны мнений; чаша может оказаться весьма полезной, если впервые обнаружить ее пустой. Как я могу помочь тебе на пути к просветлению?'
     },
 
     choices: [{
