@@ -1,7 +1,7 @@
 export default {
   interactions: [{
     text: {
-      en: 'As you can see, I am extremely busy. Let\'s get this over with, so I can continue staring at the clouds.'
+      en: 'Burdened minds are filled with opinions aplenty; a cup can be quite useful if first found empty. How may I help you on your path toward enlightenment?'
     },
 
     choices: [{
