@@ -2,7 +2,7 @@ export default [
   {
     name       : {$$: 'Broken Twig' },
     description: {
-      en: ' Sticks and broken twigs are used by apprentice mages for educational purposes.'
+      en: 'Sticks and broken twigs are used by apprentice mages for educational purposes.'
     }
   },
 
@@ -16,7 +16,7 @@ export default [
   {
     name       : {$$: 'Gnarled Broomstick' },
     description: {
-      en: 'ome of the oldest trees are used to create Gnarled Broomsticks. These weapons produce spells to sweep enemies off the battlefield.'
+      en: 'Some of the oldest trees are used to create Gnarled Broomsticks. These weapons produce spells to sweep enemies off the battlefield.'
     }
   },
 
