@@ -27,7 +27,8 @@ export default [
   {
     name       : {$$: 'Philosopher\'s Stone' },
     description: {
-      en: 'Rumors about immortality and transmutation inspired magic users to experiment and create stones such as this. These orbs became useful in augmenting magical power despite the experimental results falling short of the original intentions.'
+      en: 'Rumors about immortality and transmutation inspired magic users to experiment and create stones such as this. These orbs became useful in augmenting magical power despite the experimental results falling short of the original intentions.',
+      ru: 'Слухи о бессмертии и трансмутации вдохновляли волшебников экспериментировать и создавать такие камни. Эти шары стали полезны для увеличения магической силы, несмотря на экспериментальные результаты, не соответствующие первоначальным намерениям.'
     }
   },
 
