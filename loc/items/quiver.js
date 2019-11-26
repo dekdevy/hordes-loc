@@ -26,8 +26,8 @@ export default [
   {
     name       : {$$: 'Reinforced Exemplar' },
     description: {
-      en: 'The exquisite craftsmanship of Markay’ak resulted in the creation of Reinforced Exemplars. Quivers such as this are often a testament to the pride of any professional archer.',
-      ru: 'Изысканное мастерство Markay\’ak привело к созданию Reinforced Exemplars. Колчаны, подобные этому, часто являются свидетельством гордости любого профессионального лучника.'
+      en: 'The exquisite craftsmanship of Markay\'ak resulted in the creation of Reinforced Exemplars. Quivers such as this are often a testament to the pride of any professional archer.',
+      ru: 'Изысканное мастерство Markay\'ak привело к созданию Reinforced Exemplars. Колчаны, подобные этому, часто являются свидетельством гордости любого профессионального лучника.'
     }
   },
 
