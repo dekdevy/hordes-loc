@@ -84,7 +84,7 @@ export default [
   {
     name       : {$$: 'Coldforged Bracers' },
     description: {
-      en: 'Bracers such as this are comprised of a rare metal found in the mountains. Blacksmiths use enchanted hammers to forge the bracers without heat in order to retain the magicenhancing properties of the metal.',
+      en: 'Bracers such as this are comprised of a rare metal found in the mountains. Blacksmiths use enchanted hammers to forge the bracers without heat in order to retain the magic-enhancing properties of the metal.',
       hu: 'A csuklóvértek mint ezek egy ritka hegyi fémet tartalmaznak. A kovácsok bűvölt kalapáccsal hozzák létre őket hevítés nélkül, hogy megőrizzék a fém csodálatos képességeit.',
       ru: 'Такие браслеты состоят из редкого металла, встречающегося в горах. Кузнецы используют заколдованные молотки для ковки браслетов без нагрева, чтобы сохранить магические свойства металла.'
     }
