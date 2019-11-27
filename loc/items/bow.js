@@ -122,7 +122,7 @@ export default [
   {
     name       : {$$: 'Scarebow' },
     description: {
-      en: 'This malevolent bow eats the dreams and nightmares of the wielder. This living bow offers no loyalty and demand sacrifices in the form of battle victims.',
+      en: 'This malevolent bow eats the dreams and nightmares of the wielder. This living bow offers no loyalty and demands sacrifices in the form of battle victims.',
       ru: 'Этот злобный лук съедает сны и кошмары владелеца. Этот живой лук не предлагает верности и требует жертв в виде солдат противоборствующих армий.'
     }
   },
