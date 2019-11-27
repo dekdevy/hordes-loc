@@ -31,7 +31,7 @@ export default [
     name       : {$$: 'Bone Bracelets' },
     description: {
       en: 'This type of bracelet is ornately crafted with thick monster bones. Many superstitious traditions claim that the wearer of such bracelets become permeated with the deceased monster\'s power; however, others claim that the reuse of bones prevents monsters from resurrecting.',
-      en: 'Ez a fajta csuklóvédő díszesen faragott, vastag csontokból áll. A babonás népek úgy hiszik, ilyen csuklóvértek viselője bírni fog az elpusztított bestia erejével; mások úgy vélik, a csontok felhasználása megakadályozza a szörnyeteget újjászületésében.',
+      hu: 'Ez a fajta csuklóvédő díszesen faragott, vastag csontokból áll. A babonás népek úgy hiszik, ilyen csuklóvértek viselője bírni fog az elpusztított bestia erejével; mások úgy vélik, a csontok felhasználása megakadályozza a szörnyeteget újjászületésében.',
       ru: 'Такой тип браслета сделан из толстых костей, принадлежащих мертвым монстрам. Многие суеверные традиции утверждают, что обладатель таких браслетов пронизан властью умершего монстра, однако другие утверждают, что повторное использование костей предотвращает воскрешение монстров.'
     }
   },
