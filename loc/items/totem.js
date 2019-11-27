@@ -17,7 +17,7 @@ export default [
   {
     name       : {$$: 'Glowing Chicken'},
     description: {
-      en: 'This is a vessel that emanates magic originating from nature'
+      en: 'This is a vessel that emanates magic originating from nature.'
     }
   },
 
