@@ -66,7 +66,7 @@ export default [
   {
     name       : {$$: 'Ancile' },
     description: {
-      en: 'This sacred shield is wrapped in legend and rumors. One ancient scroll tells how the shield created false copies of the user to confuse opponents. Another scroll alternatively explains that the shield was modeled after the very shield wielded by a deity',
+      en: 'This sacred shield is wrapped in legend and rumors. One ancient scroll tells how the shield created false copies of the user to confuse opponents. Another scroll alternatively explains that the shield was modeled after the very shield wielded by a deity.',
       ru: 'Этот священный щит окружён легендами и слухами. Один древний свиток рассказывает о том, как щит создавал ложные копии война, чтобы запутать противников. Другой свиток объясняет, что щит был смоделирован по образцу того самого щита, которым обладало божество.'
     }
   },
