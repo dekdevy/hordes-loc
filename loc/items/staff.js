@@ -9,7 +9,7 @@ export default [
   {
     name       : {$$: 'Cracked Stick' },
     description: {
-      en: 'This is a damaged battlestaff that still has some use for beginning magic users'
+      en: 'This is a damaged battlestaff that still has some use for beginning magic users.'
     }
   },
 
