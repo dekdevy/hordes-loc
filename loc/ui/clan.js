@@ -97,9 +97,9 @@ export default {
   },
 
   roles: [
-    { $$: 'Member' }, // Игрок
-    { $$: 'Assistant' }, // Помошник
-    { $$: 'Officer' }, // Офицер
+    { $$: 'Member' },
+    { $$: 'Assistant' },
+    { $$: 'Officer' },
     { $$: 'Owner' } // Глава клана
   ]
 }
