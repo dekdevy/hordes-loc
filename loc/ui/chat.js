@@ -1,7 +1,7 @@
 export default {
   whisper: {
     en: 'Whisper',
-    ru: 'Личное сообщение',
+    ru: 'Шептать',
     hi: 'फुसफुसाऐ',
     es: 'Susurro',
     de: 'Flüstern',
