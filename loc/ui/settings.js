@@ -48,7 +48,7 @@ export default {
   pointerlock: {
     en: 'Hide mouse during rotation',
     de: 'Maus verstecken während rotierung',
-    ru: 'Скрыть мышь во время вращения',
+    ru: 'Скрыть мышь во время вращения камеры',
     pt: 'Ocultar o rato durante a rotação.',
     fr: 'Cacher la souris pendant les rotations',
     nl: 'Verstop rechter muis knop tijdens rotatie',
@@ -136,7 +136,7 @@ export default {
 
   skilleffects: {
     en: 'Skill Effects',
-    ru: 'Эффекты Навыков',
+    ru: 'Визуальные эффекты навыков',
     hi: 'स्किल दिखावट',
     es: 'Efectos de Habilidades',
     de: 'Fertigkeitseffekte',
@@ -163,7 +163,7 @@ export default {
 
   ssao: {
     en: 'Ambient Occlusion',
-    ru: 'Окружающая Окклюзия',
+    ru: 'Окружающая окклюзия',
     fr: 'Occlusion Ambiante',
     pt: 'Oclusão Ambiental',
     nl: 'Omgevingsocclusie',
@@ -210,7 +210,7 @@ export default {
   detailprops: {
     en: 'Detail props',
     de: 'Requisiten',
-    ru: 'Детальные пропи',
+    ru: 'Детализация',
     nl: 'Detail Voorwerpen',
     hu: 'Részletes objektumok',
     es: 'Accesorios de detalle',
@@ -236,7 +236,7 @@ export default {
 
   sfxvolume: {
     en: 'SFX Volume',
-    ru: 'Громкость Эффектов',
+    ru: 'Громкость спецэффектов',
     de: 'SFX Lautstärke',
     nl: 'SFX Volume',
     pt: 'Volume de SFX',
@@ -269,7 +269,7 @@ export default {
   chatbubbles: {
     en: 'Show chat bubbles',
     de: 'Chatblasen anzeigen',
-    ru: 'Показавать чат пузеры',
+    ru: 'Показавать сообщения над игроком',
     fr: 'Afficher les bulles de chat',
     pt: 'Mostrar bolhas de chat',
     nl: 'Laat chat bubbels zien',
@@ -280,7 +280,7 @@ export default {
   combatlog: {
     en: 'Combat Log',
     de: 'Chatnachrichten',
-    ru: 'Лог Боя',
+    ru: 'Лог боя',
     nl: 'Gevechts log',
     hu: 'Harci kisnapló',
     es: 'Registro de combate',
@@ -352,7 +352,7 @@ export default {
 
   resettutorial: {
     en: 'Reset tutorial',
-    ru: 'Начать обучение заново',
+    ru: 'Начать обучение снова',
     hi: 'शिक्षण रीसेट',
     es: 'Reiniciar tutorial',
     de: 'Tutorial zurücksetzen',
