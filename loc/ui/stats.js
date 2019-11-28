@@ -97,7 +97,7 @@ export default {
 
     {
       en: 'Min Dmg.',
-      ru: 'Мин. Урон.',
+      ru: 'Мин. урон.',
       pt: 'Dano Mín',
       fr: 'Min Dmg.',
       tr: 'Min Hasar',
@@ -107,7 +107,7 @@ export default {
 
     {
       en: 'Max Dmg.',
-      ru: 'Макс. Урон.',
+      ru: 'Макс. урон.',
       pt: 'Dano Máx',
       fr: 'Max Dmg.',
       tr: 'Max Hasar',
@@ -176,7 +176,7 @@ export default {
 
     {
       en: 'Item Find',
-      ru: 'Поиск Пред.',
+      ru: 'Поиск пред.',
       fr: 'Trouvaille',
       pt: 'Enctr. Item',
       hu: 'Tárgylelés',
