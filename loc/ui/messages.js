@@ -2,7 +2,7 @@ export default {
   clanMemberJoin: {
     en: '$1 has joined your clan.',
     de: '$1 ist deinem Clan beigetreten.',
-    ru: 'Встречайте нового игрока! $1 вступил в ваш клан.',
+    ru: '$1 вступил в ваш клан.',
     pt: '$1 entrou no teu clã',
     hu: '$1 belépett a klánodba.'
   },
