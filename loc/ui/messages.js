@@ -30,7 +30,7 @@ export default {
   clanMemberRolePromote: {
     en: '$1 was promoted in clan role.',
     de: '$1 hat eine Clan Beförderung erhalten.',
-    ru: 'Соклановец $1 был повышен на новую должность.',
+    ru: 'Игрок $1 был повышен на новую должность.',
     pt: '$1 foi promovido na função do clã.',
     hu: '$1 előléptetéshez jutott a klánodban.'
   },
