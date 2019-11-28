@@ -51,7 +51,7 @@ export default {
   stashed: {
     en: '$1 has been moved to your Stash.',
     de: '$1 wurde in deinen Stash verschoben.',
-    ru: '$1 Было перенесено в Stash.',
+    ru: '$1 было добавлено в Stash.',
     pt: '$1 foi transferido para o seu Stash.',
     fr: '$1 a été transféré dans votre Stash.',
     es: '$1 ha sido movido al Stash.',
