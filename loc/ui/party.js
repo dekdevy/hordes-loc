@@ -23,7 +23,7 @@ export default {
   // DO NOT translate "Party"
   kick: {
     en: 'Party kick',
-    ru: 'Выгнать',
+    ru: 'Исключить из Party',
     pt: 'Expulsar da Party',
     es: 'Sacar del Party',
     de: 'Treten',
@@ -45,7 +45,7 @@ export default {
     nl: 'Verlof Party',
     de: 'Party Verlassen',
     fr: 'Quitter la Party',
-    ru: 'Выйти',
+    ru: 'Покинуть Party',
     es: 'Salir del Party',
     tr: 'Party\'den ayrıl',
     hi: 'Party छोड़ दे',
@@ -78,7 +78,7 @@ export default {
     en: '$1 has invited you to join their Party.',
     de: '$1 hat dich eingeladen, an ihrer Party teilzunehmen.',
     fr: '$1 vous invite à vous joindre à leur Party.',
-    ru: '$1 пригласил вас в Party',
+    ru: 'Игрок $1 пригласил вас в Party',
     es: '$1 te ha invitado a juntar a su Party.',
     nl: '$1 heeft je uitgenodigd vergezel hun Party.',
     tr: '$1 seni Party\'sine davet etti.',
@@ -93,7 +93,7 @@ export default {
   // nearby, as in "12 members nearby"
   nearby: {
     en: 'nearby',
-    ru: 'поблизости',
+    ru: 'рядом',
     de: 'in der Nähe',
     es: 'cercanas',
     fr: 'proximité',
@@ -143,7 +143,7 @@ export default {
       has their own version of expressing this. Google it if you are unsure :)
     */
     en: 'Copy to clipboard',
-    ru: 'Копировать в буфер',
+    ru: 'Копировать в буфер обмена', // clipboard is буфер обмена
     es: 'Copia a su portapapeles',
     de: 'In die Zwischenablage kopieren',
     fr: 'Copier le lien',
@@ -167,7 +167,7 @@ export default {
 
   onSummon: {
     en: '$1 is offering to summon you to their location.',
-    ru: '$1 предлагает пригласить вас к себе.',
+    ru: 'Игрок $1 хочет призвать вас к себе.',
     pt: '$1 está a oferecer invocar te na localização dele.',
     es: '$1 está ofreciendo invocarte en su ubicación.',
     tr: '$1 seni yanına çağırıyor.',
@@ -206,14 +206,14 @@ export default {
 
   startQueue: {
     en: 'Queue',
-    ru: 'Войти в Очередь',
+    ru: 'Войти в очередь',
     de: 'Suche',
     tr: 'Sıraya Gir'
   },
 
   stopQueue: {
     en: 'Leave Queue',
-    ru: 'Выйти из Очереди',
+    ru: 'Выйти из очереди',
     de: 'Suche verlassen',
     tr: 'Sıradan Çık'
   }
