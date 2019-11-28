@@ -143,7 +143,7 @@ export default {
       has their own version of expressing this. Google it if you are unsure :)
     */
     en: 'Copy to clipboard',
-    ru: 'Копировать в буфер обмена', // clipboard is буфер обмена
+    ru: 'Копировать в буфер обмена',
     es: 'Copia a su portapapeles',
     de: 'In die Zwischenablage kopieren',
     fr: 'Copier le lien',
