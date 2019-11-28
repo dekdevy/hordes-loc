@@ -97,7 +97,7 @@ export default {
 
     {
       en: 'Min Dmg.',
-      ru: 'Мин Урн.',
+      ru: 'Мин. Урон.',
       pt: 'Dano Mín',
       fr: 'Min Dmg.',
       tr: 'Min Hasar',
@@ -107,7 +107,7 @@ export default {
 
     {
       en: 'Max Dmg.',
-      ru: 'Макс Урн.',
+      ru: 'Макс. Урон.',
       pt: 'Dano Máx',
       fr: 'Max Dmg.',
       tr: 'Max Hasar',
@@ -138,7 +138,7 @@ export default {
 
     {
       en: 'Critical',
-      ru: 'Крит. Шанс',
+      ru: 'Крит',
       fr: 'Critique',
       pt: 'Crítico',
       tr: 'Kritik',
@@ -176,7 +176,7 @@ export default {
 
     {
       en: 'Item Find',
-      ru: 'Кол.Пред.',
+      ru: 'Поиск пред.',
       fr: 'Trouvaille',
       pt: 'Enctr. Item',
       hu: 'Tárgylelés',
@@ -185,7 +185,7 @@ export default {
 
     {
       en: 'Bag Slots',
-      ru: 'Слоты Сумки',
+      ru: 'Слоты сумки',
       pt: 'Espaço',
       fr: 'Espace Sac',
       hu: 'Hátizsák',
@@ -213,7 +213,7 @@ export default {
 
     {
       en: 'Skill Points',
-      ru: 'Очки Умений',
+      ru: 'Очки умений',
       fr: 'Points Comp.',
       pt: 'Pontos de Hab.',
       hu: 'Képesség Pntk',
@@ -223,7 +223,7 @@ export default {
     {
       en: '% Increased Dmg.',
       fr: '% Dmg Améliorés',
-      ru: '% Увеличения Урона',
+      ru: '% Увеличения урона',
       pt: '% Dano Aumentado',
       hu: '% Megnövelt Sebz.',
       zh: '%傷害增加'
@@ -231,7 +231,7 @@ export default {
 
     {
       en: '% Increased Aggro Generation',
-      ru: '% Увеличения Агрессии',
+      ru: '% Увеличения агрессии',
       fr: '% Génération d\'aggro Améliorée',
       pt: '% Aggro Gerado',
       hu: '% Megnövelt Aggro Képzés',
@@ -241,7 +241,7 @@ export default {
     {
       en: '% Movement Spd. Reduction',
       fr: '% Réduction Vit. Mouv.',
-      ru: '% Cнижения Скор. Движения',
+      ru: '% Cнижения скор. движения',
       pt: '% Redução de Velocidade',
       hu: '% Mozgási Seb. Csökkentés',
       zh: '%移動速度降低'
@@ -249,7 +249,8 @@ export default {
 
     {
       en: 'Healing Reduction',
-      de: 'Heilungsreduktion'
+      de: 'Heilungsreduktion',
+      ru: 'Снижение восст. HP'
     }
   ]
 }
