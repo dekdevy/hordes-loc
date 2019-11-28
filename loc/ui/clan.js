@@ -100,6 +100,6 @@ export default {
     { $$: 'Member' },
     { $$: 'Assistant' },
     { $$: 'Officer' },
-    { $$: 'Owner' } // Глава клана
+    { $$: 'Owner' }
   ]
 }
