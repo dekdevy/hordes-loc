@@ -2,7 +2,7 @@ export default {
   // Simple basic UI elements that pop up everywhere
   ok: {
     en: 'Okay',
-    ru: 'Окей',
+    ru: 'Хорошо',
     de: 'Okay',
     hi: 'ठीक',
     fr: 'OK',
@@ -50,7 +50,7 @@ export default {
 
   cancel: {
     en: 'Cancel',
-    ru: 'Отменить',
+    ru: 'Отмена',
     nl: 'Annuleren',
     tr: 'İptal Et',
     fr: 'Annuler',
