@@ -7,7 +7,7 @@ export default {
     hu: '$1 belépett a klánodba.'
   },
   clanMemberInvite: {
-    en: '$1 has been invited to your clan.',
+    en: 'A clan invitation has been sent to $1.',
     de: '$1 wurde in deinen Clan eingeladen.',
     ru: 'Выслано приглашение игроку $1 для вступления в ваш клан.',
     pt: '$1 foi convidado para o teu clã.',
