@@ -2,7 +2,7 @@ export default {
 
   leave: {
     en: 'Leave Clan',
-    ru: 'Покинуть Клан',
+    ru: 'Выйти из клана',
     fr: 'Quitter le Clan',
     hi: 'दल छोड़े',
     es: 'Salir de Clan',
@@ -34,7 +34,7 @@ export default {
 
   createheading: {
     en: 'Create Clan',
-    ru: 'Создать Клан',
+    ru: 'Создать клан',
     fr: 'Créer un Clan',
     hi: 'दल बनाए',
     es: 'Crear un Clan',
@@ -50,7 +50,7 @@ export default {
 
   createname: {
     en: 'Clan Name',
-    ru: 'Имя Клана',
+    ru: 'Название клана',
     fr: 'Nom du Clan',
     hi: 'दल का नाम',
     es: 'Nombre del Clan',
@@ -66,7 +66,7 @@ export default {
 
   createtag: {
     en: 'Clan Tag',
-    ru: 'Tag Клана',
+    ru: 'Аббревиатура клана',
     fr: 'Tag du Clan',
     hi: 'दल Tag',
     es: 'Clan Tag',
@@ -97,9 +97,9 @@ export default {
   },
 
   roles: [
-    { $$: 'Member' },
-    { $$: 'Assistant' },
-    { $$: 'Officer' },
-    { $$: 'Owner' }
+    { $$: 'Member' }, // Игрок
+    { $$: 'Assistant' }, // Помошник
+    { $$: 'Officer' }, // Офицер
+    { $$: 'Owner' } // Глава клана
   ]
 }
