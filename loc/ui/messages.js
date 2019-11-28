@@ -37,14 +37,14 @@ export default {
   clanMemberRoleDemote: {
     en: '$1 was demoted in clan role.',
     de: '$1 hat eine Clan degradierung erhalten.',
-    ru: 'Соклановец $1 был понижен в должности.',
+    ru: 'Игрок $1 был понижен в должности.',
     pt: '$1 foi rebaixado na função do clã.',
     hu: '$1 viselkedése visszabuktatásához vezetett.'
   },
   clanKickOther: {
     en: '$1 was kicked from your clan.',
     de: '$1 wurde aus dem Clan geworfen.',
-    ru: 'Соклановец $1 был исключен из вашего клана.',
+    ru: 'Игрок $1 был исключен из вашего клана.',
     pt: '$1 foi expulso do teu clã.',
     hu: 'A klánodból kirúgták: $1.'
   },
