@@ -176,7 +176,7 @@ export default {
 
     {
       en: 'Item Find',
-      ru: 'Поиск пред.',
+      ru: 'Поиск Пред.',
       fr: 'Trouvaille',
       pt: 'Enctr. Item',
       hu: 'Tárgylelés',
