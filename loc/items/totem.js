@@ -1,4 +1,3 @@
-// Do not add in or make up descriptions, they will be done so soon
 export default [
   {
     name       : {$$: 'Dream Feathers'},
@@ -17,7 +16,7 @@ export default [
   {
     name       : {$$: 'Glowing Chicken'},
     description: {
-      en: 'This is a vessel that emanates magic originating from nature'
+      en: 'This is a vessel that emanates magic originating from nature.'
     }
   },
 

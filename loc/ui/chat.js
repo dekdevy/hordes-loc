@@ -18,7 +18,7 @@ export default {
   types: [
     {
       en: 'Exp Gain',
-      ru: 'Получение Опыта',
+      ru: 'Получение опыта',
       de: 'Exp erhalten',
       fr: 'Gain d\'xp',
       es: 'Exp ganado',
@@ -31,7 +31,7 @@ export default {
     {
       en: 'Target Change',
       de: 'Ziel gewechselt',
-      ru: 'Смена Цели',
+      ru: 'Смена цели',
       fr: 'Changement de Cible',
       es: 'Cambia objetivo',
       pt: 'Mudança de Alvo',
@@ -42,7 +42,7 @@ export default {
     {
       en: 'Cast',
       de: 'Zauber',
-      ru: 'Каст',
+      ru: 'Произношение заклинаний',
       fr: 'Cast',
       es: 'Convocar',
       pt: 'Lançar',
@@ -89,7 +89,7 @@ export default {
     {
       en: 'Level Up',
       de: 'Level aufgestiegen',
-      ru: 'Повышения Уровня',
+      ru: 'Повышения уровня',
       fr: 'Level Up',
       es: 'Subir nivel',
       pt: 'Subir de nível',
@@ -122,7 +122,7 @@ export default {
     {
       en: 'Pick Gold',
       de: 'Gold aufgehoben',
-      ru: 'Собранное Золото',
+      ru: 'Сбор золота',
       fr: 'Gold Ramassé',
       es: 'Oro agarrado',
       pt: 'Pegar Ouro',
@@ -133,7 +133,7 @@ export default {
     {
       en: 'Spent Gold',
       de: 'Gold ausgegeben',
-      ru: 'Потраченное Золото',
+      ru: 'Трата золота',
       fr: 'Gold Utilisé',
       es: 'Oro gastado',
       pt: 'Ouro gasto',
@@ -144,7 +144,7 @@ export default {
     {
       en: 'Fame Gain',
       de: 'Ruhm erhalten',
-      ru: 'Получение Славы',
+      ru: 'Получение славы',
       fr: 'Gain de Gloire',
       es: 'Fama ganada',
       pt: 'Fama ganha',

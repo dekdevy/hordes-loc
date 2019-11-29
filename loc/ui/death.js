@@ -17,7 +17,7 @@ export default {
 
   deathmsg: {
     en: 'Press the button to be resurrected at the nearest conjurer.',
-    ru: 'Нажмите кнопку, чтобы воскреснуть у ближайшего фокусника.',
+    ru: 'Нажмите кнопку, чтобы воскреснуть у ближайшего Заклинателя.',
     hi: 'निकटतम संयोजक पर पुनर्जीवित होने के लिए बटन दबाएं।',
     es: 'Presiona el botón para ser resucitado en el mago más cercano.',
     de: 'Drücke den Wiederbeleben Knopf, um im nächsten Dorf zu starten.',

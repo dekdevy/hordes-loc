@@ -66,7 +66,7 @@ export default [
   {
     name       : {$$: 'Ancile' },
     description: {
-      en: 'This sacred shield is wrapped in legend and rumors. One ancient scroll tells how the shield created false copies of the user to confuse opponents. Another scroll alternatively explains that the shield was modeled after the very shield wielded by a deity',
+      en: 'This sacred shield is wrapped in legend and rumors. One ancient scroll tells how the shield created false copies of the user to confuse opponents. Another scroll alternatively explains that the shield was modeled after the very shield wielded by a deity.',
       ru: 'Этот священный щит окружён легендами и слухами. Один древний свиток рассказывает о том, как щит создавал ложные копии война, чтобы запутать противников. Другой свиток объясняет, что щит был смоделирован по образцу того самого щита, которым обладало божество.'
     }
   },
@@ -74,7 +74,8 @@ export default [
   {
     name       : {$$: 'Aegis' },
     description: {
-      en: 'The divine paint on this shield is animated and can imbue a worthy user with fantastic powers. Some observers believe that the blinking eye allows the mysterious and divine painter to see the world.'
+      en: 'The divine paint on this shield is animated and can imbue a worthy user with fantastic powers. Some observers believe that the blinking eye allows the mysterious and divine painter to see the world.',
+      ru: 'Божественная краска на этом щите анимирована и может наделять достойного человека фантастическими способностями. Некоторые считают, что мигающий глаз позволяет таинственному и божественному художнику видеть мир.'
     }
   }
 

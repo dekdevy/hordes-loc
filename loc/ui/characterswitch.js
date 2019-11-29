@@ -20,7 +20,7 @@ export default {
 
   home: {
     en: 'Home',
-    ru: 'Домой',
+    ru: 'Главная страница',
     hi: 'मुख्य स्क्रीन',
     es: 'Inicio',
     de: 'Startseite',

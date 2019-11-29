@@ -94,7 +94,7 @@ export default {
 
   drop: {
     en: 'Drop item',
-    ru: 'Выбросить',
+    ru: 'Выбросить предмет',
     hi: 'वस्तु गिरा दे',
     es: 'Dejar caer objeto',
     de: 'Item ablegen',
@@ -110,7 +110,7 @@ export default {
 
   equip: {
     en: 'Equip item',
-    ru: 'Надеть вещь',
+    ru: 'Экипировать снаряжение',
     hi: 'वस्तु पहन लें',
     es: 'Equipar objeto',
     pt: 'Equipar item',

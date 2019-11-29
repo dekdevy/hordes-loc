@@ -4,7 +4,7 @@ export default {
   select: {
     title: {
       en: 'Select Character',
-      ru: 'Выберите Персонажа',
+      ru: 'Выберите персонажа',
       fr: 'Sélectionnez le Personnage',
       hi: 'स्वरूप चुने',
       es: 'Seleccione Carácter',
@@ -68,7 +68,7 @@ export default {
 
     error: {
       en: 'Network Error',
-      ru: 'Проблема с Сетью',
+      ru: 'Проблема с сетью',
       fr: 'Problème de Connexion',
       hi: 'नेट्वर्क में खराबी',
       es: 'Error de Red',
@@ -87,7 +87,7 @@ export default {
   create: {
     title: {
       en: 'Character Creation',
-      ru: 'Создание Персонажа',
+      ru: 'Создание персонажа',
       fr: 'Création du Personnage',
       hi: 'स्वरूप निर्माण',
       es: 'Creación de Carácter',
@@ -119,7 +119,7 @@ export default {
 
     selectClass: {
       en: 'Select a Class',
-      ru: 'Выберите Класс',
+      ru: 'Выберите класс',
       hi: 'श्रेणी चुने',
       es: 'Seleccione una Clase',
       de: 'Wählen Sie eine Klasse',
@@ -202,7 +202,7 @@ export default {
 
     info: {
       en: 'To delete, type the character\'s name. Your character can not be restored.',
-      ru: 'Чтобы удалить, введите имя персонажа. Ваш персонаж не может быть восстановлен.',
+      ru: 'Чтобы удалить, введите имя персонажа. После удаления данного персонажа не возможно будет восстановить.',
       hi: 'मिटाने के लिए अपने स्वरुप का नाम दाले। आपका स्वरूप पुनर नहीं मिल पाएगा।',
       es: 'Para eliminar, escriba el nombre del carácter. Tu carácter no puede ser restaurado.',
       de: 'Geben Sie zum Löschen deines character\'s den Namen ein. Dein Charakter kann nicht wiederhergestellt werden.',
