@@ -65,7 +65,7 @@ export default {
       ru: 'Мудрость',
       pt: 'Sabdr.',
       tr: 'Bilgelik',
-      hu: 'Bölcslt.',
+      hu: 'Bölcs.',
       zh: '智慧'
     },
 
@@ -101,7 +101,7 @@ export default {
       pt: 'Dano Mín',
       fr: 'Min Dmg.',
       tr: 'Min Hasar',
-      hu: 'Leg. Sebz.',
+      hu: 'Min. Sebz.',
       zh: '最少傷害'
     },
 
@@ -250,6 +250,7 @@ export default {
     {
       en: 'Healing Reduction',
       de: 'Heilungsreduktion',
+      hu: 'Gyógyításcsökkentés',
       ru: 'Снижение восст. HP'
     }
   ]
