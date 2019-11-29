@@ -90,6 +90,9 @@ export default {
     pt: '$1 foi promovido na função da party.',
     hu: '$1 előléptetéshez jutott a Partydban.'
   },
+  partyMemberFound: {
+    en: 'Found $1 new party members.'
+  },
   partyMemberDemote: {
     en: '$1 has been demoted in party role.',
     de: '$1 wurde in der Party degradiert.',
@@ -117,6 +120,12 @@ export default {
     ru: '$2 выгнал $1 из Party.',
     pt: '$1 foi expulso da sua party pelo $2.',
     hu: '$2 kirúgta a Partydból: $1.'
+  },
+  partyQueueStart: {
+    en: 'Your party has started queue type: $1.'
+  },
+  partyQueueStop: {
+    en: 'Your party has stopped queue type: $1.'
   },
   auctionSold: {
     en: 'Your merchant auction has been sold and $g$1 has been sent to your Stash.',

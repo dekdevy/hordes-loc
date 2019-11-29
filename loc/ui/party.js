@@ -90,21 +90,6 @@ export default {
     hu: '$1 meghívott a Partyjába.'
   },
 
-  // nearby, as in "12 members nearby"
-  nearby: {
-    en: 'nearby',
-    ru: 'поблизости',
-    de: 'in der Nähe',
-    es: 'cercanas',
-    fr: 'proximité',
-    tr: 'yakında',
-    nl: 'in de buurt',
-    pt: 'nas proximidades',
-    ro: 'din apropiere',
-    hi: 'आपके करीब',
-    zh: '在附近',
-    hu: 'a közelben'
-  },
 
   link: {
     en: 'Invitation link',
