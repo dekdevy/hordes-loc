@@ -208,6 +208,7 @@ export default {
     en: 'Queue',
     ru: 'Войти в очередь',
     de: 'Suche',
+    hu: 'Jelentkezés',
     tr: 'Sıraya Gir'
   },
 
@@ -215,6 +216,7 @@ export default {
     en: 'Leave Queue',
     ru: 'Выйти из очереди',
     de: 'Suche verlassen',
+    hu: 'Várólista elhagyása',
     tr: 'Sıradan Çık'
   }
 }
