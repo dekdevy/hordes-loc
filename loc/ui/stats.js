@@ -250,7 +250,7 @@ export default {
     {
       en: 'Healing Reduction',
       de: 'Heilungsreduktion',
-      en: 'Gyógyításcsökkentés',
+      hu: 'Gyógyításcsökkentés',
       ru: 'Снижение восст. HP'
     }
   ]
