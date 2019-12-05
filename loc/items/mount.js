@@ -3,63 +3,105 @@ export default [
     name: {$$: 'Grubling'},
 
     description: {
-      en: 'A tamed grub.'
+      en: ' '
     }
   },
   {
     name: {$$: 'Spider'},
 
     description: {
-      en: 'A domesticated spider.'
+      en: ' '
     }
   },
   {
     name: {$$: 'Leafspider'},
 
     description: {
-      en: 'A domesticated spider.'
+      en: ' '
     }
   },
   {
     name: {$$: 'Ruby Crawler'},
 
     description: {
-      en: 'A domesticated spider.'
+      en: ' '
     }
   },
   {
     name: {$$: 'Tick'},
 
     description: {
-      en: 'A domesticated spider.'
+      en: ' '
     }
   },
   {
     name: {$$: 'Shadowstrider'},
 
     description: {
-      en: 'Roaming the shadows.'
+      en: ' '
     }
   },
   {
     name: {$$: 'Pebbles'},
 
     description: {
-      en: 'These rocks have a soul.'
+      en: ' '
     }
   },
   {
     name: {$$: 'Ember Pebbles'},
 
     description: {
-      en: 'Extremely hot rocks.'
+      en: ' '
     }
   },
   {
     name: {$$: 'Ether Wyrm'},
 
     description: {
-      en: 'Peaceful, transcendental creature.'
+      en: ' '
+    }
+  },
+  {
+    name: {$$: 'Shadow Wyrm'},
+
+    description: {
+      en: ' '
+    }
+  },
+  {
+    name: {$$: 'Sand Scarab'},
+
+    description: {
+      en: ' '
+    }
+  },
+  {
+    name: {$$: 'Golden Scarab'},
+
+    description: {
+      en: ' '
+    }
+  },
+  {
+    name: {$$: 'Flaming Skullspider'},
+
+    description: {
+      en: ' '
+    }
+  },
+  {
+    name: {$$: 'Blacksmiths Grub'},
+
+    description: {
+      en: ' '
+    }
+  },
+  {
+    name: {$$: 'Arctic Grub'},
+
+    description: {
+      en: ' '
     }
   }
 ]
