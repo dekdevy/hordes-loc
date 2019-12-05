@@ -98,7 +98,7 @@ export default [
     }
   },
   {
-    name: {$$: 'Arctic Grub'},
+    name: {$$: 'Snowball'},
 
     description: {
       en: ' '
