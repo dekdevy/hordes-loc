@@ -111,7 +111,7 @@ export default [
     name       : {$$: 'Starshards' },
     description: {
       en: 'This footwear is composed of meteorite pieces. Black meteorites were found during a terrible catastrophe where fire rained down from the sky and destroyed much of the landscape.',
-      en: 'Ezt a lábbelit meteoritszilánkok alkotják. Fekete kövek a borzalmas katasztrófák során kerülnek a földre, amikor az égbolt meggyullad, és a kénköves pokol elszabadul mindenfelé.',
+      hu: 'Ezt a lábbelit meteoritszilánkok alkotják. Fekete kövek a borzalmas katasztrófák során kerülnek a földre, amikor az égbolt meggyullad, és a kénköves pokol elszabadul mindenfelé.',
       ru: 'Эта обувь состоит из осколков метеорита. Черные метеориты были обнаружены во время страшной катастрофы, когда огонь падал с небес и уничтожил большую часть ландшафта.'
     }
   }
