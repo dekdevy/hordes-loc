@@ -66,7 +66,7 @@ export default [
     name       : {$$: 'Ancient Bow' },
     description: {
       en: 'Ancient bows are exceptional weapons that were designed by forgotten master craftsmen. These bows are often passed from one generation to another.',
-      en: 'Az ősi íjak még vándorló ősmagyar törzsek keze munkái. Nemzedékről nemzedékre, apáról fiúra szálltak a fegyverek, és a készítésük titkai egyaránt.',
+      hu: 'Az ősi íjak még vándorló ősmagyar törzsek keze munkái. Nemzedékről nemzedékre, apáról fiúra szálltak a fegyverek, és a készítésük titkai egyaránt.',
       ru: 'Древние луки, как этот, исключительное оружие, созданное забытыми мастерами. Эти луки часто передаются из поколения в поколение как фамильная ценность.'
     }
   },
