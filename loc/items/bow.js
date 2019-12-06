@@ -39,7 +39,7 @@ export default [
     name       : {$$: 'Longbow' },
     description: {
       en: 'Longbows are designed to be weapons of war.',
-      en: 'A hosszúíjakat egyetlen célra szerkesztették, mégpedig háborúra.',
+      hu: 'A hosszúíjakat egyetlen célra szerkesztették, mégpedig háborúra.',
       ru: 'Длинный лук задуман как оружие войны.'
     }
   },
@@ -57,7 +57,7 @@ export default [
     name       : {$$: 'Elven Bow' },
     description: {
       en: 'Elvish craftsmen put exquisite care in their bows during the crafting process, and Elvish archers have a proud reputation during times of war for a reason.',
-      en: 'Az Elf mesteremberek kivételes gondot fektetnek az íjaikba, és az íjászaik mindig kitüntetik magukat a harci időszakokban, mégpedig nem akármiért.',
+      hu: 'Az Elf mesteremberek kivételes gondot fektetnek az íjaikba, és az íjászaik mindig kitüntetik magukat a harci időszakokban, mégpedig nem akármiért.',
       ru: 'Эльфийские мастера проявляют исключительную осторожность во время изготовления своих луков. Эльфийские лучники имеют восхитительную военную репутацию.'
     }
   },
