@@ -143,7 +143,7 @@ export default [
       de: 'Grob geschnitten aus den Knochen eines alten Riesen.',
       fr: 'Sculptée grossièrement dans les os d\'un monstre ancien.',
       hi: 'प्राचीन बेहेमोथ की हड्डियों से तराशी हुई।',
-      pt: 'Esculpido grosseiramente nos ossos de um antigo beemote.',
+      pt: 'Esculpido grosseiramente nos ossos de um antigo gigante.',
       nl: 'Ruw gesneden uit de botten van een oude kolos.',
       tl: 'Crudely inukit mula sa mga buto ng isang sinaunang behemoth.',
       bg: 'Грубо издълбани от костите на древен гигант.',
