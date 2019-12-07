@@ -248,7 +248,9 @@ export default {
     ko: 'SFX 볼륨',
     hu: 'SFX-hangerő '
   },
-
+  musicvolume: {
+    en: 'Music Volume'
+  },
   // ---- Chat
   chat: {
     en: 'Chat',
