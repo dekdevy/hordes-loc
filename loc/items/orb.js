@@ -41,7 +41,7 @@ export default [
       it: 'Raggi di luce si impigliano in questa sfera, gettando intorno a voi sottili arcobaleni.',
       el: 'Οι ακτίνες του φωτός πιάνονται σ \'αυτή τη σφαίρα και ρίχνουν τα περίτεχνα ουράνια γύρω σας.',
       bg: 'Лъчите на светлината се хванат в тази сфера, хвърлящи дъги около вас.',
-      pt: 'Raios de luz são apanhados nesta esfera, lançando finos arco-íris à tua volta.',
+      pt: 'Raios de luz são apanhados nesta esfera, lançando finos arco-íris à sua volta.',
       pl: 'Promienie światła zostają złapane w tej sferze, rzucając wokół ciebie drobne tęcze.',
       cs: 'V této sféře se zachytí paprsky světla, které kolem vás vrhají jemné duhy.',
       ja: 'この球体に光の光線が当たると、周囲に細かい虹が投げかけられます。',
