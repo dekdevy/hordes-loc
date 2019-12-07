@@ -88,7 +88,7 @@ export default [
       es: 'Este tejido no es mucho, pero puede detener una flecha o dos.',
       de: 'Dieser Stoff ist nicht viel, aber er könnte einen oder zwei Pfeile aufhalten.',
       fr: 'Ce tissu n\'est pas grand-chose, mais il pourrait arrêter une flèche ou deux.',
-      pt: 'Este tecido não é lá grande coisa, mas pode parar uma flecha ou duas.',
+      pt: 'Este fabrico não é lá grande coisa, mas pode parar uma flecha ou duas.',
       nl: 'Deze stof is niet veel, maar het zou een paar pijlen kunnen stoppen.',
       tl: 'Ang tela na ito ay hindi magkano ngunit maaaring itigil ang isang arrow o dalawa.',
       hi: 'यह कपड़े बहुत ज्यादा नहीं है, लेकिन यह एक तीर या दो बंद हो सकता है।',
