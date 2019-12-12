@@ -92,7 +92,7 @@ export default {
   },
   partyMemberFound: {
     en: 'Found $1 new party members.',
-    de '$1 neue Party-Mitglieder gefunden.'
+    de: '$1 neue Party-Mitglieder gefunden.'
   },
   partyMemberDemote: {
     en: '$1 has been demoted in party role.',
