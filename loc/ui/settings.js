@@ -47,7 +47,7 @@ export default {
 
   pointerlock: {
     en: 'Hide mouse during rotation',
-    de: 'Maus verstecken während rotierung',
+    de: 'Maus bei Rotation verstecken',
     ru: 'Скрыть мышь во время вращения камеры',
     pt: 'Ocultar o rato durante a rotação.',
     fr: 'Cacher la souris pendant les rotations',
@@ -62,7 +62,7 @@ export default {
     ru: 'Заблокированная камера',
     hi: 'कैमरा लॉक',
     es: 'Cámara fija',
-    de: 'Gesperrte Kamera',
+    de: 'Kamera-Sperre',
     fr: 'Caméra verrouillée',
     tr: 'Kilitli kamera',
     nl: 'Gesloten camera',
@@ -168,7 +168,8 @@ export default {
     pt: 'Oclusão Ambiental',
     nl: 'Omgevingsocclusie',
     hu: 'Környezet okklúzió',
-    es: 'Oclusión Ambiental'
+    es: 'Oclusión Ambiental',
+    de: 'Umgebungsverdeckung' // Very technical, but right term
   },
 
   grass: {
@@ -209,7 +210,7 @@ export default {
 
   detailprops: {
     en: 'Detail props',
-    de: 'Requisiten',
+    de: 'Details',
     ru: 'Детализация',
     nl: 'Detail Voorwerpen',
     hu: 'Részletes objektumok',
@@ -237,7 +238,7 @@ export default {
   sfxvolume: {
     en: 'SFX Volume',
     ru: 'Громкость спецэффектов',
-    de: 'SFX Lautstärke',
+    de: 'Effekt-Lautstärke',
     nl: 'SFX Volume',
     pt: 'Volume de SFX',
     ro: 'Volum SFX',
@@ -249,7 +250,8 @@ export default {
     hu: 'SFX-hangerő '
   },
   musicvolume: {
-    en: 'Music Volume'
+    en: 'Music Volume',
+    de: 'Musik-Lautstärke'
   },
   // ---- Chat
   chat: {
@@ -270,7 +272,7 @@ export default {
 
   chatbubbles: {
     en: 'Show chat bubbles',
-    de: 'Chatblasen anzeigen',
+    de: 'Sprechblasen anzeigen',
     ru: 'Показавать сообщения над игроком',
     fr: 'Afficher les bulles de chat',
     pt: 'Mostrar bolhas de chat',
@@ -281,7 +283,7 @@ export default {
 
   combatlog: {
     en: 'Combat Log',
-    de: 'Chatnachrichten',
+    de: 'Kampf-Log',
     ru: 'Лог боя',
     nl: 'Gevechts log',
     hu: 'Harci kisnapló',
@@ -293,7 +295,7 @@ export default {
   interface: {
     en: 'Interface',
     ru: 'Интерфейс',
-    de: 'Anzeige',
+    de: 'Oberfläche',
     pt: 'Interface',
     nl: 'Interface',
     ro: 'Interfață',
@@ -325,7 +327,7 @@ export default {
   invwidth: {
     en: 'Inventory width',
     ru: 'Ширина инвентаря',
-    de: 'Inventar Breite',
+    de: 'Inventar-Breite',
     nl: 'Inventarisbreedte',
     pt: 'Largura do inventário',
     ro: 'Lățimea inventarului',
@@ -370,7 +372,7 @@ export default {
 
   disabletutorial: {
     en: 'Disable tutorial',
-    de: 'Tutorial bendeen',
+    de: 'Tutorial beenden',
     ru: 'Отключить обучение',
     tr: 'Öğreticiyi kapat',
     fr: 'Désactiver le tutoriel',
@@ -402,6 +404,7 @@ export default {
     fr: 'Afficher les monstres',
     nl: 'Laat monsters zien',
     es: 'Mostrar monstruos',
-    zh: '顯示怪物'
+    zh: '顯示怪物',
+    de: 'Monster sichtbar'
   }
 }
