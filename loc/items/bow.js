@@ -55,7 +55,7 @@ export default [
       en: 'This bow is crafted from monster bones to produce extra resilience and power.',
       hu: 'Ez az íj csontokból áll, hogy magas szintű rugalmasságot és erőt biztosítson.',
       ru: 'Этот лук сделан из костей монстров для обеспечения дополнительной упругости и силы.',
-      de: 'Dieser Bogen wurde aus Monster-Knochen hergestellt um sehr belastbar und stark zu sein.' 
+      de: 'Dieser Bogen wurde aus Monster-Knochen hergestellt um sehr belastbar und stark zu sein.'
     }
   },
 
@@ -95,7 +95,7 @@ export default [
       en: 'This bow design is more mechanically efficient than the longbow. The unique pattern of decorative silver is a testament to the craftsmanship required to make such a fine bow.',
       hu: 'Ez az íjforma sokkal hatékonyabb, mint a hosszúíj. A dístítő ezüst különleges mintája tanúbizonsága annak a mesteri tudásnak, ami képes volt egy ilyen fegyver elkészítésére.',
       ru: 'Эта конструкция лука более эффективна с механической точки зрения, чем длинный лук. Уникальный узор из декоративного серебра является свидетельством мастерства, необходимого для изготовления такого величественного лука.',
-      de: 'Das Design dieses Bogens ist effizienter als das eines Langbogens. Das einmalige dekorative Silbermuster ist ein Zeugnis der Handwerkskunst, die für einen solchen Bogen benötigt wird.' 
+      de: 'Das Design dieses Bogens ist effizienter als das eines Langbogens. Das einmalige dekorative Silbermuster ist ein Zeugnis der Handwerkskunst, die für einen solchen Bogen benötigt wird.'
     }
   },
 
