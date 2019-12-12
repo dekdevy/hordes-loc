@@ -24,7 +24,7 @@ export default {
     {en: 'A new skill is available. You need to use books to learn new skills.'},
     {en: 'Collect some items and coins. You need 32 coins for your first book. You can sell items to the trader as well.'},
     {en: 'You have enough coins. Talk to the trader in your base and buy your new book by right clicking it.'},
-    {en: 'Once you have the book, open your inventory, right-click the book and press <kbd>use item</kbd> to learn it.'},
+    {en: 'Once you have the book, open your inventory, right-click the book and press <kbd>Learn skill</kbd> to learn it.'},
     {en: 'Skillful. Open your skill panel (<kbd>K</kbd>) to see an overview of your skills.'},
     {en: 'Here you can see your skills. Hover over them for additional information.'},
     {en: 'You can click and drag a skill icon into your skillbar. We already did it for you, but try it anyways!'},
