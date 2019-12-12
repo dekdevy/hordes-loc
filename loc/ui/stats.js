@@ -13,7 +13,8 @@ export default {
       pt: 'Dano',
       tr: 'Hasar',
       hu: 'Sebzés',
-      zh: '傷害'
+      zh: '傷害',
+      de: 'Schaden'
     }
   },
 
@@ -26,7 +27,8 @@ export default {
       pt: 'Força',
       tr: 'Dayankl.',
       hu: 'Erő',
-      zh: '力量'
+      zh: '力量',
+      de: 'Stärke'
     },
 
     {
@@ -36,7 +38,8 @@ export default {
       pt: 'Vigor',
       tr: 'Direnç',
       hu: 'Vitalitás',
-      zh: '耐力'
+      zh: '耐力',
+      de: 'Stamina' // might be Ausdauer instead. Not sure how its used in-game
     },
 
     {
@@ -46,7 +49,8 @@ export default {
       pt: 'Destreza',
       tr: 'Çeviklik',
       hu: 'Fürgeség',
-      zh: '靈巧'
+      zh: '靈巧',
+      de: 'Flinkheit'
     },
 
     {
@@ -56,7 +60,8 @@ export default {
       pt: 'Inteligência',
       tr: 'Zekâ',
       hu: 'Intelligencia',
-      zh: '智力'
+      zh: '智力',
+      de: 'Intelligenz'
     },
 
     {
@@ -66,7 +71,8 @@ export default {
       pt: 'Sabdr.',
       tr: 'Bilgelik',
       hu: 'Bölcs.',
-      zh: '智慧'
+      zh: '智慧',
+      de: 'Weisheit'
     },
 
     {
@@ -76,7 +82,8 @@ export default {
       pt: 'Sorte',
       tr: 'Şans',
       hu: 'Esély',
-      zh: '運氣'
+      zh: '運氣',
+      de: 'Glück'
     },
 
     {
@@ -103,6 +110,7 @@ export default {
       tr: 'Min Hasar',
       hu: 'Min. Sebz.',
       zh: '最少傷害'
+      // de: 'Min. Schaden'
     },
 
     {
@@ -113,6 +121,7 @@ export default {
       tr: 'Max Hasar',
       hu: 'Max. Sebz.',
       zh: '最大傷害'
+      // de: 'Max. Schaden'
     },
 
     {
@@ -122,7 +131,8 @@ export default {
       pt: 'Defesa',
       tr: 'Defans',
       hu: 'Védelem',
-      zh: '防禦'
+      zh: '防禦',
+      de: 'Abwehr'
     },
 
     {
@@ -133,6 +143,7 @@ export default {
       tr: 'Blok',
       hu: 'Blokk',
       zh: '擋'
+      // de: 'Schutz'
 
     },
 
@@ -143,7 +154,8 @@ export default {
       pt: 'Crítico',
       tr: 'Kritik',
       hu: 'Kritikus',
-      zh: '危急'
+      zh: '危急',
+      de: 'Kritisch'
     },
 
     {
@@ -153,6 +165,7 @@ export default {
       pt: 'Velocidade',
       hu: 'Mozgás',
       zh: '移動速度'
+      // de: 'Geschwindigkeit'
     },
 
     {
@@ -162,7 +175,8 @@ export default {
       fr: 'Célérité',
       tr: 'Çabukluk',
       hu: 'Sietség',
-      zh: '匆忙'
+      zh: '匆忙',
+      de: 'Eile'
     },
 
     {
@@ -172,6 +186,7 @@ export default {
       pt: 'Rapidez Atq.',
       hu: 'Támadási Seb.',
       zh: '攻擊速度'
+      // de: 'Angriffsgeschwindigkeit'
     },
 
     {
@@ -180,7 +195,8 @@ export default {
       fr: 'Trouvaille',
       pt: 'Enctr. Item',
       hu: 'Tárgylelés',
-      zh: '裝備查找'
+      zh: '裝備查找',
+      de: 'Item-Suche'
     },
 
     {
@@ -190,6 +206,7 @@ export default {
       fr: 'Espace Sac',
       hu: 'Hátizsák',
       zh: '袋槽'
+      // de: 'Taschenplätze'
     },
 
     {
@@ -208,7 +225,8 @@ export default {
       fr: 'Points Stat',
       pt: 'Pontos de Stat',
       hu: 'Stat Pntk',
-      zh: '屬性點'
+      zh: '屬性點',
+      de: 'Stat-Punkte'
     },
 
     {
@@ -217,7 +235,8 @@ export default {
       fr: 'Points Comp.',
       pt: 'Pontos de Hab.',
       hu: 'Képesség Pntk',
-      zh: '技能點'
+      zh: '技能點',
+      de: 'Skill-Punkte'
     },
 
     {
@@ -226,7 +245,8 @@ export default {
       ru: '% Увеличения урона',
       pt: '% Dano Aumentado',
       hu: '% Megnövelt Sebz.',
-      zh: '%傷害增加'
+      zh: '%傷害增加',
+      de: '% erhöhten Schaden'
     },
 
     {
