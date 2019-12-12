@@ -56,7 +56,7 @@ export default [
       en: 'These steel bracers are marked with small runes that imbue extra protection. Imbued bracers are somewhat rare since the creation method of the runes are a secret.',
       hu: 'Az acél vértek rúnákkal vannak ellátva a teljes védelemért. Ilyen elbűvölt alkarvédők elég ritkák lettek, amióta a rúnák titkát elfeledték.',
       ru: 'Эти стальные браслеты отмечены мелкими рунами, которые обеспечивают дополнительную защиту. Такие браслеты встречаются редко, так как метод создания рун является секретным.',
-      fr: 'Ces brassards en acier sont marqués de petites runes qui leur confèrent une protection supplémentaire. Les brassard imprégnés sont quelque peu rares puisque la méthode de création des runes est un secret.',
+      fr: 'Ces brassards en acier sont marqués de petites runes qui leur confèrent une protection supplémentaire. Les brassard imprégnés sont quelque peu rares puisque la méthode de création des runes est un secret.'
     }
   },
 
@@ -66,7 +66,7 @@ export default [
       en: 'These cuffs were forged with a special fire that can only be created through magic. In the past, fire elementals taught only a few special blacksmiths the secret to forging ember cuffs.',
       hu: 'Ezek a csuklóvértek egy ritka tűzzel lettek kovácsolva, mégpedig mágia segítségével. Régen a tűz elem szellemei csak kevés kiválasztottat avattak be a borostyánkő titkaiba.',
       ru: 'Эти браслеты были выкованы специальным огнем, который может быть создан только с помощью магии. В прошлом, огненные элементали научили только нескольких кузнецов секрету изготовления этих браслетов.',
-      fr: 'Ces menottes ont été forgées avec un feu spécial qui ne peut être créé que par magie. Autrefois, les élémentaires de feu n\'enseignaient qu\'à quelques forgerons spéciaux le secret de la forge des menottes de braise.',
+      fr: 'Ces menottes ont été forgées avec un feu spécial qui ne peut être créé que par magie. Autrefois, les élémentaires de feu n\'enseignaient qu\'à quelques forgerons spéciaux le secret de la forge des menottes de braise.'
     }
   },
 
