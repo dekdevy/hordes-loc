@@ -9,7 +9,8 @@ export default {
       zh: '是的，我是一個會說話的金庫，我知道你已經有很多問題要問了。我已經侍奉皇家很多年了，儲存他們無價的金銀財寶，也只有我被放在了這個骯髒的營地裡來為你們服務。總之，你要我為你提供服務嗎？',
       hu: 'Igen, én egy beszélő láda vagyok. Ne kérdezd! Sok éve még királyi családoknak szolgáltam, én tároltam a temérdek aranyukat, a fényes kristályokat, és mindezt azért, hogy idedobjanak ebbe a táborba, és teljesítsem jöttment kalandorok fenséges óhajait. Fölajánlhatom neked szolgálataimat?',
       nl: 'Ja, ik ben een pratende kist, ik kan nou al een vraag op je lippen zien vormen. Vele jaren heb ik voor royale families gewerkt, hun onbetaalbare edelstenen en juwelen bewaren, alleen om op deze campplaats gegooid te worden voor jullie mooie benodigdheden. hoe dan ook, kan ik jou mijn diensten aanbieden?',
-      es: 'Sí, Soy un cofre parlante, ya puedo ver la pregunta formándose en tus labios. Muchos años he servido a familias reales, almacenando sus gemas y joyas invaluables, solo para que me coloquen en este sucio campamento para atender sus pequeñas necesidades. De todos modos, ¿quieres que te ofrezca mis servicios?'
+      es: 'Sí, Soy un cofre parlante, ya puedo ver la pregunta formándose en tus labios. Muchos años he servido a familias reales, almacenando sus gemas y joyas invaluables, solo para que me coloquen en este sucio campamento para atender sus pequeñas necesidades. De todos modos, ¿quieres que te ofrezca mis servicios?',
+      de: 'Ich kann die Frage schon auf deinen Lippen sehen: Ja, ich bin eine sprechende Kiste. Für viele Jahre habe ich königlichen Familien gedient, ihre unbezahlbaren Juwelen und Edelsteine aufbewahrt, nur um jetzt in diesem furchtbaren Lager zu landen und deine niederen Bedürfnisse zu erfüllen. Egal, möchtest du meine Dienste in Anspruch nehmen?'
     },
 
     // Do not translate "Stash".
@@ -19,7 +20,7 @@ export default {
       pt: 'Sim, abre o meu Stash.',
       es: 'Si, abre mi Stash.',
       fr: 'Oui, ouvre ma Stash.',
-      de: 'Ja, öffne mein Stash.',
+      de: 'Ja, öffne meinen Stash.',
       ko: '네, 내 숨긴 장을여십시오.',
       nl: 'Ja, open mijn Stash.',
       tr: 'Evet, Stash aç.',
