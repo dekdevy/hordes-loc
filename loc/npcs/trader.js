@@ -21,13 +21,14 @@ export default {
       hu: 'Mutasd az áruidat',
       pt: 'Mostra-me os teus produtos.',
       fr: 'Montrez moi vos articles',
-      nl: 'Laat mij uw waren zien'
+      nl: 'Laat mij uw waren zien',
+      de: 'Zeig mir deine Waren.'
     }]
   }],
 
   header: {
     en: 'Sell your items.',
-    de: 'Verkaufen Sie Ihre Gegenstände.',
+    de: 'Verkaufe deine Gegenstände',
     fr: 'Vendre vos objets.',
     ru: 'Продать свои вещи.',
     es: 'Vende tus articulos.',
@@ -47,7 +48,7 @@ export default {
     es: 'Para vender un artículo, haga clic derecho o arrástrelo a la ventana del comerciante.',
     hi: 'किसी आइटम को बेचने के लिए, उसे राइट क्लिक करें या उसे ट्रेडर विंडो में खींचें।',
     ko: '항목을 판매하려면 항목을 마우스 오른쪽 단추로 클릭하거나 상인 창으로 끌어다 놓으십시오.',
-    de: 'Um einen Gegenstand zu verkaufen, klicken Sie ihn mit der rechten Maustaste an oder ziehen Sie ihn in das Händlerfenster.',
+    de: 'Um einen Gegenstand zu verkaufen, klicke ihn mit der rechten Maustaste an oder ziehe ihn in das Händlerfenster.',
     fr: 'Pour vendre un objet, cliquez dessus avec le bouton droit de la souris ou faites-le glisser dans la fenêtre du commerçant.',
     nl: 'Om een artikel te verkopen, klik er met de rechtermuisknop op of sleep het naar het handelaarsvenster.',
     ro: 'Pentru a vinde un element, faceți clic-dreapta sau trageți-l în fereastra comerciantului.',
@@ -75,7 +76,7 @@ export default {
 
   buy: {
     en: 'Are you interested in anything? Click an item to buy it.',
-    de: 'Interessierst du dich für etwas? Klicken Sie auf einen Gegenstand, um ihn zu kaufen.',
+    de: 'Interessierst du dich für etwas? Klicke auf einen Gegenstand, um ihn zu kaufen.',
     ru: 'Вам что-нибудь интересно? Кликните на предмет, чтобы купить его.',
     es: '¿Estás interesado en algo? Haga clic en un artículo para comprarlo.',
     fr: 'Quelque chose vous intéresse ? Cliquez sur un article pour l\'acheter.',

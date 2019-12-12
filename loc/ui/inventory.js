@@ -21,7 +21,7 @@ export default {
     nl: 'Je hebt opgepikt $1.',
     es: 'Ha recogido $1.',
     pt: 'Você pegou $1.',
-    de: 'Du hast $1 gesammelt.',
+    de: 'Du hast $1 aufgesammelt.',
     ro: 'Ai luat $1.',
     fr: 'Vous avez ramassé $1.',
     ru: 'Вы подобрали $1.',
@@ -97,7 +97,7 @@ export default {
     ru: 'Выбросить предмет',
     hi: 'वस्तु गिरा दे',
     es: 'Dejar caer objeto',
-    de: 'Item ablegen',
+    de: 'Item droppen',
     fr: 'Déposer l\'item',
     nl: 'Laat vallen',
     pt: 'Soltar item',
@@ -144,7 +144,8 @@ export default {
     ru: 'Разделить пополам',
     fr: 'Partager en deux',
     pt: 'Dividir ao meio',
-    hu: 'Kettéosztás'
+    hu: 'Kettéosztás',
+    de: 'Halbieren'
   },
 
   splitone: {
@@ -152,7 +153,8 @@ export default {
     ru: 'Отделить один',
     fr: 'Retirer un item',
     pt: 'Retirar um',
-    hu: 'Egy elvétele'
+    hu: 'Egy elvétele',
+    de: 'Vereinzeln'
   },
 
   spend: {

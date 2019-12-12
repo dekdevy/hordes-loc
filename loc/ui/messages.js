@@ -29,14 +29,14 @@ export default {
   },
   clanMemberRolePromote: {
     en: '$1 was promoted in clan role.',
-    de: '$1 hat eine Clan Beförderung erhalten.',
+    de: '$1 hat eine Clan-Beförderung erhalten.',
     ru: 'Игрок $1 был повышен на новую должность.',
     pt: '$1 foi promovido na função do clã.',
     hu: '$1 előléptetéshez jutott a klánodban.'
   },
   clanMemberRoleDemote: {
     en: '$1 was demoted in clan role.',
-    de: '$1 hat eine Clan degradierung erhalten.',
+    de: '$1 hat eine Clan-Degradierung erhalten.',
     ru: 'Игрок $1 был понижен в должности.',
     pt: '$1 foi rebaixado na função do clã.',
     hu: '$1 viselkedése visszabuktatásához vezetett.'
@@ -57,7 +57,7 @@ export default {
   },
   partyMemberInvite: {
     en: '$1 has been invited by $2 to join your party.',
-    de: '$1 wurde von $2 eingeladen um deiner Party beizutreten.',
+    de: '$1 wurde von $2 eingeladen deiner Party beizutreten.',
     ru: '$1 пригласил $2 вступить в вашу Party.',
     pt: '$1 foi convidado por $2 para se juntar à tua party.',
     hu: '$2 a Partydba meghívta: $1.'
@@ -78,7 +78,7 @@ export default {
   },
   partyInvitationDecline: {
     en: '$1 has declined to join your party.',
-    de: '$1 hat abgelehnt deiner Party beizutreten.',
+    de: '$1 hat abgelehnt, deiner Party beizutreten.',
     ru: 'Игрок $1 отказался вступать в вашу Party.',
     pt: '$1 rejeitou juntar-se à sua party.',
     hu: '$1 elutasította a meghívást a Partydba.'
@@ -91,7 +91,8 @@ export default {
     hu: '$1 előléptetéshez jutott a Partydban.'
   },
   partyMemberFound: {
-    en: 'Found $1 new party members.'
+    en: 'Found $1 new party members.',
+    de: '$1 neue Party-Mitglieder gefunden.'
   },
   partyMemberDemote: {
     en: '$1 has been demoted in party role.',
@@ -122,14 +123,16 @@ export default {
     hu: '$2 kirúgta a Partydból: $1.'
   },
   partyQueueStart: {
-    en: 'Your party has started queue type: $1.'
+    en: 'Your party has started queue type: $1.',
+    de: 'Party-Warteschlange gestartet: $1.'
   },
   partyQueueStop: {
-    en: 'Your party has stopped queue type: $1.'
+    en: 'Your party has stopped queue type: $1.',
+    de: 'Party-Warteschlange gestoppt: $1.'
   },
   auctionSold: {
     en: 'Your merchant auction has been sold and $g$1 has been sent to your Stash.',
-    de: 'Dein Angebot im Auktionshaus wurde erfolgreich verkauft und $g$1 wurden in deine Truhe gelegt.',
+    de: 'Dein Angebot im Auktionshaus wurde erfolgreich verkauft und $g$1 wurden in deinen Stash gelegt.',
     ru: 'Ваш лот был продан на аукционе. В Stash добавлено: $g$1.',
     pt: 'O seu leilão do mercado foi vendido e $g$1 foram enviadas para o seu Stash.',
     hu: 'A Merchantnál feladott aukciódat eladták ennyiért: $g$1. Ez a Stash fiókodba került.'

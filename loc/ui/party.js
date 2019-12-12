@@ -9,7 +9,7 @@ export default {
     ru: 'Пригласить в Party',
     pt: 'Convidar para a Party',
     nl: 'Uitnodigen Party',
-    de: 'Party einladung',
+    de: 'Party-Einladung',
     fr: 'Inviter à rejoindre une Party',
     es: 'Invitación a Party',
     tr: 'Party\'ye davet et',
@@ -26,7 +26,7 @@ export default {
     ru: 'Исключить из Party',
     pt: 'Expulsar da Party',
     es: 'Sacar del Party',
-    de: 'Treten',
+    de: 'Aus Party werfen',
     fr: 'Virer de la Party',
     nl: 'Paty Uitgooien',
     tr: 'Party\'den at',
@@ -43,7 +43,7 @@ export default {
     it: 'Andarsene Party',
     pt: 'Sair da Party',
     nl: 'Verlof Party',
-    de: 'Party Verlassen',
+    de: 'Party verlassen',
     fr: 'Quitter la Party',
     ru: 'Покинуть Party',
     es: 'Salir del Party',
@@ -76,7 +76,7 @@ export default {
   // DO NOT translate "Party"
   onInvite: {
     en: '$1 has invited you to join their Party.',
-    de: '$1 hat dich eingeladen, an ihrer Party teilzunehmen.',
+    de: '$1 hat dich eingeladen, einer Party beizutreten',
     fr: '$1 vous invite à vous joindre à leur Party.',
     ru: 'Игрок $1 пригласил вас в Party',
     es: '$1 te ha invitado a juntar a su Party.',
@@ -146,7 +146,8 @@ export default {
     pt: 'Invokar',
     es: 'Invokar',
     fr: 'Convoquer',
-    hu: 'Idézés'
+    hu: 'Idézés',
+    de: 'Beschwören'
   },
 
   onSummon: {
@@ -155,7 +156,8 @@ export default {
     pt: '$1 está a oferecer invocar te na localização dele.',
     es: '$1 está ofreciendo invocarte en su ubicación.',
     tr: '$1 seni yanına çağırıyor.',
-    hu: '$1 felajánlotta hogy magához idéz.'
+    hu: '$1 felajánlotta hogy magához idéz.',
+    de: '$1 möchte dich zu seiner Position beschwören.'
   },
 
   // Do not translate "Assistant".
@@ -165,7 +167,8 @@ export default {
     pt: 'Promover para Assistant',
     es: 'Asciende a Assistant',
     tr: 'Assistant\'a Terfi Ettir',
-    hu: 'Előléptetés Assistanttá'
+    hu: 'Előléptetés Assistanttá',
+    de: 'Zu Assistant ernennen'
   },
 
   // Do not translate "Leader".
@@ -175,7 +178,8 @@ export default {
     pt: 'Promover para Leader',
     es: 'Asciende a Leader',
     tr: 'Leader\'e Terfi Ettir',
-    hu: 'Előléptetés Leaderré'
+    hu: 'Előléptetés Leaderré',
+    de: 'Zu Leader ernennen'
   },
 
   // Do not translate"Assistant".
@@ -185,13 +189,14 @@ export default {
     pt: 'Remover Assistant',
     es: 'Quitar Assistant',
     tr: 'Assistant\'lıktan Çıkar',
-    hu: 'Assistant Visszabuktatása'
+    hu: 'Assistant Visszabuktatása',
+    de: 'Assistant degradieren.'
   },
 
   startQueue: {
     en: 'Queue',
     ru: 'Войти в очередь',
-    de: 'Suche',
+    de: 'Warteschlange',
     hu: 'Jelentkezés',
     tr: 'Sıraya Gir'
   },
@@ -199,7 +204,7 @@ export default {
   stopQueue: {
     en: 'Leave Queue',
     ru: 'Выйти из очереди',
-    de: 'Suche verlassen',
+    de: 'Warteschlange verlassen',
     hu: 'Várólista elhagyása',
     tr: 'Sıradan Çık'
   }

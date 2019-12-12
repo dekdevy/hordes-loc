@@ -20,7 +20,7 @@ export default {
     ru: 'Нажмите кнопку, чтобы воскреснуть у ближайшего Заклинателя.',
     hi: 'निकटतम संयोजक पर पुनर्जीवित होने के लिए बटन दबाएं।',
     es: 'Presiona el botón para ser resucitado en el mago más cercano.',
-    de: 'Drücke den Wiederbeleben Knopf, um im nächsten Dorf zu starten.',
+    de: 'Drücke den Knopf, um beim nächsten Beschwörer wiederbelebt zu werden.',
     fr: 'Appuyez sur le bouton pour être ressuscité chez le prestidigitateur le plus proche.',
     ko: '버튼을 눌러 가장 가까운 conjurer에게 부활 시키십시오.',
     tr: 'En yakın hokkabazda diriltilmek için düğmeye basın.',

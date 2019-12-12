@@ -2,7 +2,7 @@ export default {
 
   waitunstash: {
     en: 'You have to wait until you can retrieve this item.',
-    de: 'Du musst noch etwas warten, bis du dieses Item nehmen kannst.',
+    de: 'Du musst noch etwas warten, bis du dieses Item entnehmen kannst.',
     ru: 'Вы должны подождать перед тем как вы можете получить этот предмет.',
     pt: 'Você tem de esperar até que possa recuperar este item.',
     fr: 'Vous devez attendre jusqu\'à ce que vous puissiez récupérer cet objet',
@@ -34,7 +34,7 @@ export default {
   // Do not translate "Stash".
   stash: {
     en: 'Move to Stash',
-    de: 'Bewegung zur Stash',
+    de: 'In Stash verschieben',
     ru: 'Положить в Stash',
     pt: 'Mover para o baú',
     fr: 'Aller dans la Stash',
