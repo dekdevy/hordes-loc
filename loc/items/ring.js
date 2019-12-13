@@ -4,6 +4,7 @@ export default [
     description: {
       en: 'This strange band allows a small part of the wearer’s life essence to be stored.',
       ru: 'Эта странная повязка позволяет хранить небольшую часть жизни владельца.'
+	  de: 'Dieses seltsame Band ermöglicht es, einen kleinen Teil der Lebensessenz des Trägers zu speichern.'
     }
   },
 
@@ -12,6 +13,7 @@ export default [
     description: {
       en: 'This ring is made from a special wood that is as tough as iron. Ironbark is often used as an alternative to metal.',
       ru: 'Это кольцо изготовлено из специальной древесины, прочной как железо. Железная кора часто используется в качестве альтернативы металлу.'
+	  de: 'Dieser Ring ist aus einem speziellen Holz gefertigt, das so hart wie Eisen ist. Eisenrinde wird oft als Alternative zu Metall verwendet.'
     }
   },
 
@@ -36,6 +38,7 @@ export default [
     description: {
       en: 'Rings are often handed down from generation to generation in the Elvish tradition.',
       ru: 'В эльфийской традиции кольца часто передаются из поколения в поколение.'
+	  de: 'Ringe werden in der elfischen Tradition oft von Generation zu Generation weitergegeben.'
     }
   },
 
@@ -44,6 +47,7 @@ export default [
     description: {
       en: 'This ring has tiny runes carved into the inner band. Some historians believe these rings were the last effort of a lost kingdom to fortify its population from disease.',
       ru: 'Крошечные руны вырезаны на внутренней части кольца. Некоторые историки считают, что эти кольца были последними попытками потерянного королевства укрепить здоровье своего населения от болезней.'
+	  de: 'Dieser Ring hat winzige Runen, die in das innere Band geschnitzt sind. Einige Historiker glauben, dass diese Ringe die letzten Bemühungen eines verlorenen Königreichs waren, seine Bevölkerung vor Krankheiten zu schützen.'
     }
   },
 
