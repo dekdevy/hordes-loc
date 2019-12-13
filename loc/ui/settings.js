@@ -216,7 +216,7 @@ export default {
     hu: 'Részletes objektumok',
     es: 'Accesorios de detalle',
     zh: '細節道具',
-    fr: 'Détails des objets'
+    fr: 'Objets détaillés'
   },
 
   // ---- Audio
