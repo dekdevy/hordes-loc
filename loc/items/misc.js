@@ -4,7 +4,7 @@ export default [
 
     description: {
       en: 'A potion containing a red liquid, healing you as you drink it.',
-      de: 'Ein Trank der eine rote Flüssigkeit enthält, die dich heilt.'
+      de: 'Ein kleiner Trank mit roter Flüssigkeit, der dich nach dem Trinken heilt.'
     }
   },
   {
@@ -12,7 +12,7 @@ export default [
 
     description: {
       en: 'A potion containing a blue liquid, recovering mana as you drink it.',
-      de: 'Ein Trank der eine blaue Flüssigkeit enthält, die Mana wiederherstellt.'
+      de: 'Ein kleiner Trank mit blauer Flüssigkeit, der nach dem Trinken Mana wiederherstellt.'
     }
   },
   {
@@ -20,7 +20,7 @@ export default [
 
     description: {
       en: 'A potion containing a red liquid, healing you as you drink it.',
-      de: 'Ein Trank der eine rote Flüssigkeit enthält, die dich heilt.'
+      de: 'Ein mittelgroßer Trank mit roter Flüssigkeit, der dich nach dem Trinken heilt.'
     }
   },
   {
@@ -28,7 +28,7 @@ export default [
 
     description: {
       en: 'A potion containing a blue liquid, recovering mana as you drink it.',
-      de: 'Ein Trank der eine blaue Flüssigkeit enthält, die Mana wiederherstellt.'
+      de: 'Ein mittelgroßer Trank mit blauer Flüssigkeit, der nach dem Trinken Mana wiederherstellt.'
     }
   },
   {
@@ -36,7 +36,7 @@ export default [
 
     description: {
       en: 'A potion containing a red liquid, healing you as you drink it.',
-      de: 'Ein Trank der eine rote Flüssigkeit enthält, die dich heilt.'
+      de: 'Ein großer Trank mit roter Flüssigkeit, der dich nach dem Trinken heilt.'
     }
   },
   {
@@ -44,7 +44,7 @@ export default [
 
     description: {
       en: 'A potion containing a blue liquid, recovering mana as you drink it.',
-      de: 'Ein Trank der eine blaue Flüssigkeit enthält, die Mana wiederherstellt.'
+      de: 'Ein großer Trank mit blauer Flüssigkeit, der nach dem Trinken Mana wiederherstellt.'
     }
   }
 ]
