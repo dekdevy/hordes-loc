@@ -19,7 +19,7 @@ export default {
   pick: {
     en: 'You have picked up $1.',
     nl: 'Je hebt opgepikt $1.',
-    es: 'Ha recogido $1.',
+    es: 'Has recogido $1.',
     pt: 'Você pegou $1.',
     de: 'Du hast $1 aufgesammelt.',
     ro: 'Ai luat $1.',
@@ -35,7 +35,7 @@ export default {
     en: 'You threw away $1.',
     ru: 'Вы выбросили $1.',
     ro: 'Ai aruncat $1.',
-    es: 'Ha tirado $1.',
+    es: 'Has tirado $1.',
     fr: 'Vous avez jeté $1.',
     de: 'Du hast $1 weggeworfen.',
     pt: 'Deitaste fora a $1.',
@@ -65,7 +65,7 @@ export default {
   sell: {
     en: 'You have sold $1.',
     nl: 'U heeft verkocht $1.',
-    es: 'Ha vendido $1.',
+    es: 'Has vendido $1.',
     pt: 'Você vendeu $1.',
     de: 'Du hast $1 verkauft.',
     ro: 'Ai vândut $1.',
@@ -84,7 +84,7 @@ export default {
     fr: 'Vous avez reçu $1.',
     nl: 'Je hebt 1 dollar ontvangen.',
     pt: 'Você recebeu $1.',
-    es: 'Ha recibido $1.',
+    es: 'Has recibido $1.',
     hi: 'आपको $1 प्राप्त हुआ है',
     ko: '$1 를 받았습니다',
     ro: 'Ați primit $1.',
@@ -96,7 +96,7 @@ export default {
     en: 'Drop item',
     ru: 'Выбросить предмет',
     hi: 'वस्तु गिरा दे',
-    es: 'Dejar caer objeto',
+    es: 'Dejar caer item',
     de: 'Item droppen',
     fr: 'Déposer l\'item',
     nl: 'Laat vallen',
@@ -112,7 +112,7 @@ export default {
     en: 'Equip item',
     ru: 'Экипировать снаряжение',
     hi: 'वस्तु पहन लें',
-    es: 'Equipar objeto',
+    es: 'Equipar item',
     pt: 'Equipar item',
     ko: '장비 아이템',
     de: 'Item ausrüsten',
@@ -128,7 +128,7 @@ export default {
     ru: 'Использовать',
     hi: 'इस्तमाल करे',
     ro: 'Utilizează',
-    es: 'Utilizar objeto',
+    es: 'Usar item',
     fr: 'Utiliser l\'item',
     de: 'Item verwenden',
     pt: 'Usar item',
@@ -145,7 +145,8 @@ export default {
     fr: 'Partager en deux',
     pt: 'Dividir ao meio',
     hu: 'Kettéosztás',
-    de: 'Halbieren'
+    de: 'Halbieren',
+    es: 'Separar a la mitad'
   },
 
   splitone: {
@@ -154,13 +155,14 @@ export default {
     fr: 'Retirer un item',
     pt: 'Retirar um',
     hu: 'Egy elvétele',
-    de: 'Vereinzeln'
+    de: 'Vereinzeln',
+    es: 'Separar uno'
   },
 
   spend: {
     en: 'You have spent $g$1.',
     ru: 'Вы потратили $g$1.',
-    es: 'Ha gastado $g$1.',
+    es: 'Has gastado $g$1.',
     fr: 'Vous avez dépensé $g$1.',
     de: 'Du hast $g$1 ausgegeben.',
     pt: 'Você gastou $g$1.',

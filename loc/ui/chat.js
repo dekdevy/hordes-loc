@@ -44,7 +44,7 @@ export default {
       de: 'Zauber',
       ru: 'Произношение заклинаний',
       fr: 'Cast',
-      es: 'Convocar',
+      es: 'Invocar',
       pt: 'Lançar',
       nl: 'Uitspreken',
       hu: 'Előhívás',
