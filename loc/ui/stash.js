@@ -31,6 +31,10 @@ export default {
     hu: 'Pénz Kivétele'
   },
 
+  deposit: {
+    en: 'Deposit'
+  },
+
   // Do not translate "Stash".
   stash: {
     en: 'Move to Stash',
