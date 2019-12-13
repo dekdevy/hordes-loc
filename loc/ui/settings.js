@@ -99,7 +99,7 @@ export default {
     ro: 'Câmp vizual',
     es: 'Ver rango',
     hi: 'नज़र सीमा',
-    fr: 'Champ de vision',
+    fr: 'Distance d\'affichage',
     tr: 'Görüş mesafesi',
     ko: '범위보기',
     zh: '远景范围',
@@ -140,7 +140,7 @@ export default {
     hi: 'स्किल दिखावट',
     es: 'Efectos de Habilidades',
     de: 'Fertigkeitseffekte',
-    fr: 'Effets de Habiletés',
+    fr: 'Effets des Compétences',
     nl: 'Vaardigheidseffecten',
     tr: 'Yetenek Efektleri',
     pt: 'Efeitos de Habilidade',
@@ -215,7 +215,8 @@ export default {
     nl: 'Detail Voorwerpen',
     hu: 'Részletes objektumok',
     es: 'Accesorios de detalle',
-    zh: '細節道具'
+    zh: '細節道具',
+    fr: 'Objets détaillés'
   },
 
   // ---- Audio
@@ -251,7 +252,8 @@ export default {
   },
   musicvolume: {
     en: 'Music Volume',
-    de: 'Musik-Lautstärke'
+    de: 'Musik-Lautstärke',
+    fr: 'Volume des Musiques'
   },
   // ---- Chat
   chat: {
@@ -288,7 +290,8 @@ export default {
     nl: 'Gevechts log',
     hu: 'Harci kisnapló',
     es: 'Registro de combate',
-    zh: '戰鬥表'
+    zh: '戰鬥表',
+    fr: 'Journal de Combat'
   },
 
   // ---- User interface
