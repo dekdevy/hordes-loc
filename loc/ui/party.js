@@ -76,7 +76,7 @@ export default {
   // DO NOT translate "Party"
   onInvite: {
     en: '$1 has invited you to join their Party.',
-    de: '$1 hat dich eingeladen, einer Party beizutreten',
+    de: '$1 hat dich eingeladen, einer Party beizutreten.',
     fr: '$1 vous invite à vous joindre à leur Party.',
     ru: 'Игрок $1 пригласил вас в Party',
     es: '$1 te ha invitado a juntar a su Party.',
@@ -168,7 +168,7 @@ export default {
     es: 'Asciende a Assistant',
     tr: 'Assistant\'a Terfi Ettir',
     hu: 'Előléptetés Assistanttá',
-    de: 'Zu Assistant ernennen'
+    de: 'Zu Assistant befördern'
   },
 
   // Do not translate "Leader".
@@ -179,7 +179,7 @@ export default {
     es: 'Asciende a Leader',
     tr: 'Leader\'e Terfi Ettir',
     hu: 'Előléptetés Leaderré',
-    de: 'Zu Leader ernennen'
+    de: 'Zu Leader befördern'
   },
 
   // Do not translate"Assistant".
