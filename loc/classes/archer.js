@@ -20,7 +20,7 @@ export default {
   description: {
     en: 'Archers deal high single target damage and bursty Area of Effect damage. A good archer will always keep their distance and snipe enemies from afar.',
     ru: 'Лучники наносят высокий урон по одиночной цели и взрывной урон по области. Хороший лучник всегда будет держать дистанцию и отстреливать врагов издалека.',
-    es: 'Los arqueros hacen daño increíble con sus flechas y pueden disparar muchos flechos a una vez con daño explosivo. La estregia mejor es evitar los enemigos y atacar a lo lejos.',
+    es: 'Los arqueros hacen un alto daño a un solo objetivo y daño en ráfaga con efectos en área. Un buen arquero siempre mantendrá su distancia y disparará a sus enemigos desde lejos.',
     fr: 'Les archers peuvent infliger des dégâts élevés sur une cible précise et des dégâts de zone importants. Un bon archer garde toujours ses distances et élimine ses ennemis de loin.',
     ko: '궁수는 높은 단일 타겟 데미지와 버스트 에어리어 피해를줍니다. 좋은 궁수는 먼 거리에서 항상 적을 도일 당합니다.',
     hi: 'धनुरधारी उच्च एकल लक्ष्य क्षति और प्रभाव क्षति के त्वरित क्षत्रुऔ से निपटते हैं। एक अच्छा धनुरधारी हमेशा अपनी दूरी बनाए रखेगा और दुश्मनों को दूर से ही मार देगा।',
