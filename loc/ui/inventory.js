@@ -97,7 +97,7 @@ export default {
     ru: 'Выбросить предмет',
     hi: 'वस्तु गिरा दे',
     es: 'Dejar caer objeto',
-    de: 'Item droppen',
+    de: 'Gegenstand ablegen',
     fr: 'Déposer l\'item',
     nl: 'Laat vallen',
     pt: 'Soltar item',
@@ -115,7 +115,7 @@ export default {
     es: 'Equipar objeto',
     pt: 'Equipar item',
     ko: '장비 아이템',
-    de: 'Item ausrüsten',
+    de: 'Gegenstand ausrüsten',
     fr: 'Equipez l\'item',
     nl: 'Rust uw item uit',
     ro: 'Echipează obiectul',
@@ -130,7 +130,7 @@ export default {
     ro: 'Utilizează',
     es: 'Utilizar objeto',
     fr: 'Utiliser l\'item',
-    de: 'Item verwenden',
+    de: 'Gegenstand verwenden',
     pt: 'Usar item',
     ko: '항목 사용',
     nl: 'Gebruik item',
@@ -154,7 +154,6 @@ export default {
     fr: 'Retirer un item',
     pt: 'Retirar um',
     hu: 'Egy elvétele',
-    de: 'Vereinzeln'
   },
 
   spend: {
