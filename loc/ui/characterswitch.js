@@ -4,7 +4,7 @@ export default {
     en: 'Log Out',
     ru: 'Выйти',
     hi: 'बाहर आए',
-    es: 'Cerrar Sesion',
+    es: 'Cerrar Sesión',
     de: 'Abmelden',
     fr: 'Déconnexion',
     ko: '로그 아웃',

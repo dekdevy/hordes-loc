@@ -122,7 +122,7 @@ export default {
 
   auctionpost: {
     en: 'You have posted $1 for sale',
-    es: 'Ha contabilizado $1 para la venta',
+    es: 'Ha colocado $1 para la vender',
     fr: 'Vous avez mis $1 en vente',
     de: 'Du hast $1 zum Verkauf angeboten',
     pt: 'Você colocou $1 para leilão',

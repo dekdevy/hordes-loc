@@ -5,7 +5,7 @@ export default {
     ru: 'Выйти из клана',
     fr: 'Quitter le Clan',
     hi: 'दल छोड़े',
-    es: 'Salir de Clan',
+    es: 'Salir del Clan',
     de: 'Clan verlassen',
     tr: 'Klandan Ayrıl',
     pt: 'Sair do Clã',
