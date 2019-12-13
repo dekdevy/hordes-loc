@@ -405,6 +405,6 @@ export default {
     nl: 'Laat monsters zien',
     es: 'Mostrar monstruos',
     zh: '顯示怪物',
-    de: 'Monster sichtbar'
+    de: 'Monster anzeigen'
   }
 }
