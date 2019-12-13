@@ -39,7 +39,7 @@ export default {
       tr: 'Direnç',
       hu: 'Vitalitás',
       zh: '耐力',
-      de: 'Stamina' // might be Ausdauer instead. Not sure how its used in-game
+      de: 'Ausdauer'
     },
 
     {
@@ -50,7 +50,7 @@ export default {
       tr: 'Çeviklik',
       hu: 'Fürgeség',
       zh: '靈巧',
-      de: 'Flinkheit'
+      de: 'Geschicklichkeit'
     },
 
     {
@@ -110,7 +110,7 @@ export default {
       tr: 'Min Hasar',
       hu: 'Min. Sebz.',
       zh: '最少傷害'
-      // de: 'Min. Schaden'
+      de: 'Min. Schaden'
     },
 
     {
@@ -121,7 +121,7 @@ export default {
       tr: 'Max Hasar',
       hu: 'Max. Sebz.',
       zh: '最大傷害'
-      // de: 'Max. Schaden'
+      de: 'Max. Schaden'
     },
 
     {
@@ -132,7 +132,7 @@ export default {
       tr: 'Defans',
       hu: 'Védelem',
       zh: '防禦',
-      de: 'Abwehr'
+      de: 'Verteidigung'
     },
 
     {
@@ -186,7 +186,7 @@ export default {
       pt: 'Rapidez Atq.',
       hu: 'Támadási Seb.',
       zh: '攻擊速度'
-      // de: 'Angriffsgeschwindigkeit'
+      de: 'Angriffsgeschwindigkeit'
     },
 
     {
@@ -246,7 +246,7 @@ export default {
       pt: '% Dano Aumentado',
       hu: '% Megnövelt Sebz.',
       zh: '%傷害增加',
-      de: '% erhöhten Schaden'
+      de: '% erhöhter Schaden'
     },
 
     {
@@ -265,6 +265,7 @@ export default {
       pt: '% Redução de Velocidade',
       hu: '% Mozgási Seb. Csökkentés',
       zh: '%移動速度降低'
+	  de: '% verminderte Laufgeschwindigkeit'
     },
 
     {
