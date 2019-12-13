@@ -22,7 +22,7 @@ export default {
   },
   clanMemberApply: {
     en: '$1 has applied to join your clan.',
-    de: '$1 hat sich bei deinem Clan beworben',
+    de: '$1 hat sich bei deinem Clan beworben.',
     ru: 'Игрок $1 подал заявку на вступление в ваш клан.',
     pt: '$1 solicitou para entrar no teu clã.',
     hu: '$1 jelentkezett a klánodba.'
@@ -50,85 +50,85 @@ export default {
   },
   clanKickYou: {
     en: 'You were kicked from your clan.',
-    de: 'Du wurdest aus deinem Clan geworfen',
+    de: 'Du wurdest aus deinem Clan geworfen.',
     ru: 'Вы были исключены из вашего клана.',
     pt: 'Você foi expulso do clã.',
     hu: 'Kirúgtak a klánodból.'
   },
   partyMemberInvite: {
     en: '$1 has been invited by $2 to join your party.',
-    de: '$1 wurde von $2 eingeladen deiner Party beizutreten.',
+    de: '$1 wurde von $2 eingeladen um deiner Gruppe beizutreten.',
     ru: '$1 пригласил $2 вступить в вашу Party.',
     pt: '$1 foi convidado por $2 para se juntar à tua party.',
     hu: '$2 a Partydba meghívta: $1.'
   },
   partyMemberJoin: {
     en: '$1 has joined your party.',
-    de: '$1 ist deiner Party beigetreten.',
+    de: '$1 ist deiner Gruppe beigetreten.',
     ru: 'Игрок $1 вступил в вашу Party.',
     pt: '$1 juntou-se à sua party.',
     hu: '$1 belépett a Partydba.'
   },
   partyMemberLeave: {
     en: '$1 has left your party.',
-    de: '$1 hat deine Party verlassen',
+    de: '$1 hat deine Gruppe verlassen.',
     ru: 'Игрок $1 вышел из Party.',
     pt: '$1 saiu da sua party.',
     hu: '$1 elhagyta a Partydat.'
   },
   partyInvitationDecline: {
     en: '$1 has declined to join your party.',
-    de: '$1 hat abgelehnt, deiner Party beizutreten.',
+    de: '$1 hat abgelehnt, deiner Gruppe beizutreten.',
     ru: 'Игрок $1 отказался вступать в вашу Party.',
     pt: '$1 rejeitou juntar-se à sua party.',
     hu: '$1 elutasította a meghívást a Partydba.'
   },
   partyMemberPromote: {
     en: '$1 has been promoted in party role.',
-    de: '$1 wurde in der Party befördert.',
+    de: '$1 wurde in der Gruppe befördert.',
     ru: 'Игрок $1 был повышен в должности Party.',
     pt: '$1 foi promovido na função da party.',
     hu: '$1 előléptetéshez jutott a Partydban.'
   },
   partyMemberFound: {
     en: 'Found $1 new party members.',
-    de: '$1 neue Party-Mitglieder gefunden.'
+    de: '$1 neue Gruppen-Mitglieder gefunden.'
   },
   partyMemberDemote: {
     en: '$1 has been demoted in party role.',
-    de: '$1 wurde in der Party degradiert.',
+    de: '$1 wurde in der Gruppe degradiert.',
     ru: 'Игрок $1 был понижен в должности Party',
     pt: '$1 foi rebaixado na função da party.',
     hu: '$1 viselkedése visszabuktatásához vezetett.'
   },
   partyInviteLink: {
     en: '$1 has created a party invitation link: $2.',
-    de: '$1 hat einen Einladungslink für die Party erstellt.',
+    de: '$1 hat einen Einladungslink für die Gruppe erstellt.',
     ru: 'Игрок $1 создал ссылку для присоединения к вашей Party: $2.',
     pt: '$1 criou um link de convite da party: $2.',
     hu: '$1 létrehozta a következő Partymeghívó linket: $2.'
   },
   partyKickYou: {
     en: 'You have been kicked from the party by $1.',
-    de: 'Du wurdest von $1 aus deiner Party geworfen.',
+    de: 'Du wurdest von $1 aus der Gruppe geworfen.',
     ru: '$1 исключил вас из Party.',
     pt: 'Você foi expulso da Party pelo $1.',
     hu: '$1 kirúgott a Partydból.'
   },
   partyKickOther: {
     en: '$1 was kicked from your party by $2.',
-    de: '$1 wurde von $2 aus der Party entfernt.',
+    de: '$1 wurde von $2 aus der Gruppe entfernt.',
     ru: '$2 исключил $1 из Party.',
     pt: '$1 foi expulso da sua party pelo $2.',
     hu: '$2 kirúgta a Partydból: $1.'
   },
   partyQueueStart: {
     en: 'Your party has started queue type: $1.',
-    de: 'Party-Warteschlange gestartet: $1.'
+    de: 'Gruppen-Warteschlange gestartet: $1.'
   },
   partyQueueStop: {
     en: 'Your party has stopped queue type: $1.',
-    de: 'Party-Warteschlange gestoppt: $1.'
+    de: 'Gruppen-Warteschlange gestoppt: $1.'
   },
   auctionSold: {
     en: 'Your merchant auction has been sold and $g$1 has been sent to your Stash.',
