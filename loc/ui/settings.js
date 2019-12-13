@@ -4,7 +4,7 @@ export default {
     en: 'Settings',
     ru: 'Настройки',
     hi: 'सेटिंग्स',
-    es: 'Configuración',
+    es: 'Configuraciones',
     de: 'Einstellungen',
     fr: 'Paramètres',
     nl: 'Instellingen',
@@ -97,7 +97,7 @@ export default {
     nl: 'Weergavebereik',
     pt: 'Distância de visão',
     ro: 'Câmp vizual',
-    es: 'Ver rango',
+    es: 'Rango de visión',
     hi: 'नज़र सीमा',
     fr: 'Distance d\'affichage',
     tr: 'Görüş mesafesi',
@@ -131,7 +131,7 @@ export default {
     pt: 'Pós-processamento.',
     nl: 'Nawerking',
     hu: 'Elő-tömörítés',
-    es: 'Publicar-procesamiento'
+    es: 'Post-procesamiento'
   },
 
   skilleffects: {
@@ -158,7 +158,8 @@ export default {
     pt: 'Sombras',
     nl: 'Schaduwen',
     hu: 'Árnyékok',
-    zh: '影子'
+    zh: '影子',
+    es: 'Sombras'
   },
 
   ssao: {
@@ -214,7 +215,7 @@ export default {
     ru: 'Детализация',
     nl: 'Detail Voorwerpen',
     hu: 'Részletes objektumok',
-    es: 'Accesorios de detalle',
+    es: 'Detalle de accesorios',
     zh: '細節道具',
     fr: 'Objets détaillés'
   },
@@ -253,7 +254,8 @@ export default {
   musicvolume: {
     en: 'Music Volume',
     de: 'Musik-Lautstärke',
-    fr: 'Volume des Musiques'
+    fr: 'Volume des Musiques',
+    es: 'Volumen de música'
   },
   // ---- Chat
   chat: {
@@ -280,7 +282,8 @@ export default {
     pt: 'Mostrar bolhas de chat',
     nl: 'Laat chat bubbels zien',
     hu: 'Csetbuborékok mutatása',
-    zh: '顯示聊天氣泡'
+    zh: '顯示聊天氣泡',
+    es: 'Mostrar burbujas de chat'
   },
 
   combatlog: {
@@ -334,7 +337,7 @@ export default {
     nl: 'Inventarisbreedte',
     pt: 'Largura do inventário',
     ro: 'Lățimea inventarului',
-    es: 'Ancho de inventario',
+    es: 'Ancho del inventario',
     hi: 'वस्तुसूची की चौड़ाई',
     fr: 'Largeur de l\'inventaire',
     ko: '인벤토리 너비',
