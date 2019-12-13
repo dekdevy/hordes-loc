@@ -25,7 +25,7 @@ export default {
     ko: '궁수는 높은 단일 타겟 데미지와 버스트 에어리어 피해를줍니다. 좋은 궁수는 먼 거리에서 항상 적을 도일 당합니다.',
     hi: 'धनुरधारी उच्च एकल लक्ष्य क्षति और प्रभाव क्षति के त्वरित क्षत्रुऔ से निपटते हैं। एक अच्छा धनुरधारी हमेशा अपनी दूरी बनाए रखेगा और दुश्मनों को दूर से ही मार देगा।',
     pt: 'Arqueiros causam danos altos a um único alvo e danos na sua Área de Efeito. Um bom arqueiro sempre manterá sua distância e dispara sobre os inimigos de longe.',
-    de: 'Bogenschützen verursachen hohen Einzelzielschaden und Berstenden Wirkungsbereich. Ein guter Bogenschütze wird immer Abstand halten und Feinde aus der Ferne bekämpfen.',
+    de: 'Bogenschützen verursachen hohen Einzelzielschaden und kurzen starken AoE-Schaden. Ein guter Bogenschütze wird immer Abstand halten und Feinde aus der Ferne bekämpfen.',
     nl: 'Boogschutters veroorzaken hoge schade op een enkel doelwit en op een groter gebied middels frequente schoten. Een goede boogschutter zal altijd zijn afstand bewaren en vijanden vanuit de verte beschieten.',
     tr: 'Okçular tekli hedefe yüksek zarar verir ve aralıklı alan etkili hasar verir. İyi bir okçu her zaman mesafesini korur ve hedeflerini uzaktan avlar.',
     ro: 'Arcașii cauzează daune mari unei ținte unice și au o arie de acțiune largă. Un arcaș bun va menține mereu o distanță considerabilă față de inamici și îi va ataca de la distanță.',
