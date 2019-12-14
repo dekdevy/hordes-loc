@@ -25,7 +25,7 @@ export default {
     en: 'Party kick',
     ru: 'Исключить из Party',
     pt: 'Expulsar da Party',
-    es: 'Sacar del Party',
+    es: 'Sacar de la Party',
     de: 'Aus Party werfen',
     fr: 'Virer de la Party',
     nl: 'Paty Uitgooien',
@@ -46,7 +46,7 @@ export default {
     de: 'Party verlassen',
     fr: 'Quitter la Party',
     ru: 'Покинуть Party',
-    es: 'Salir del Party',
+    es: 'Salir de la Party',
     tr: 'Party\'den ayrıl',
     hi: 'Party छोड़ दे',
     ko: 'Party 나가기',
@@ -64,7 +64,7 @@ export default {
     de: 'Party erstellen',
     fr: 'Créer une Party',
     ht: 'Kreye Party',
-    es: 'Crear un Party',
+    es: 'Crear Party',
     tr: 'Party oluştur',
     hi: 'नई Party बनाए',
     ko: 'Party 만들기',
@@ -79,7 +79,7 @@ export default {
     de: '$1 hat dich eingeladen, einer Party beizutreten',
     fr: '$1 vous invite à vous joindre à leur Party.',
     ru: 'Игрок $1 пригласил вас в Party',
-    es: '$1 te ha invitado a juntar a su Party.',
+    es: '$1 te ha invitado a unirte a su Party.',
     nl: '$1 heeft je uitgenodigd vergezel hun Party.',
     tr: '$1 seni Party\'sine davet etti.',
     pt: '$1 convidou-te para te juntares à Party deles.',
@@ -114,7 +114,7 @@ export default {
     pt: 'Envie este link para outros jogadores! Isto permitirá que eles se juntem à sua Party.',
     de: 'Sende diesen Link an andere Spieler! Dies wird es ihnen ermöglichen, sich deiner Party anzuschließen.',
     nl: 'Stuur deze link naar andere spelers! Dit zal hen in staat stellen om zich aan te sluiten bij je Party.',
-    es: '¡Envía este enlace a otros jugadores! Esto los permitirá a juntar en tu Party.',
+    es: '¡Envía este enlace a otros jugadores! Esto les permitirá unirse a tu Party.',
     tr: 'Bu bağlantıyı diğer oyunculara gönder! Bu onların Party\'ne katılmasını sağlayacak.',
     ko: '이 링크를 다른 플레이어에게 보내십시오! 그러면 party 에 가입 할 수 있습니다.',
     ro: 'Trimi-te acest link altor jucători! Le va permite să se alăture Party-ului tău.',
@@ -128,7 +128,7 @@ export default {
     */
     en: 'Copy to clipboard',
     ru: 'Копировать в буфер обмена',
-    es: 'Copia a su portapapeles',
+    es: 'Copiar al portapapeles',
     de: 'In die Zwischenablage kopieren',
     fr: 'Copier le lien',
     tr: 'Bağlantıyı kopyala',
@@ -144,7 +144,7 @@ export default {
     en: 'Summon',
     ru: 'Призвать',
     pt: 'Invokar',
-    es: 'Invokar',
+    es: 'Invocar',
     fr: 'Convoquer',
     hu: 'Idézés',
     de: 'Beschwören'
@@ -165,7 +165,7 @@ export default {
     en: 'Promote to Assistant',
     ru: 'Повысить до Assistant',
     pt: 'Promover para Assistant',
-    es: 'Asciende a Assistant',
+    es: 'Promover a Assistant',
     tr: 'Assistant\'a Terfi Ettir',
     hu: 'Előléptetés Assistanttá',
     de: 'Zu Assistant ernennen'
@@ -176,7 +176,7 @@ export default {
     en: 'Promote to Leader',
     ru: 'Повысить до Leader',
     pt: 'Promover para Leader',
-    es: 'Asciende a Leader',
+    es: 'Promover a Leader',
     tr: 'Leader\'e Terfi Ettir',
     hu: 'Előléptetés Leaderré',
     de: 'Zu Leader ernennen'
@@ -187,7 +187,7 @@ export default {
     en: 'Demote Assistant',
     ru: 'Убрать Assistant',
     pt: 'Remover Assistant',
-    es: 'Quitar Assistant',
+    es: 'Remover Assistant',
     tr: 'Assistant\'lıktan Çıkar',
     hu: 'Assistant Visszabuktatása',
     de: 'Assistant degradieren.'
@@ -198,7 +198,8 @@ export default {
     ru: 'Войти в очередь',
     de: 'Warteschlange',
     hu: 'Jelentkezés',
-    tr: 'Sıraya Gir'
+    tr: 'Sıraya Gir',
+    es: 'Entrar a la Cola'
   },
 
   stopQueue: {
@@ -206,6 +207,7 @@ export default {
     ru: 'Выйти из очереди',
     de: 'Warteschlange verlassen',
     hu: 'Várólista elhagyása',
-    tr: 'Sıradan Çık'
+    tr: 'Sıradan Çık',
+    es: 'Salir de la Cola'
   }
 }

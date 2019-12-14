@@ -6,7 +6,7 @@ export default {
     ru: 'Вы должны подождать перед тем как вы можете получить этот предмет.',
     pt: 'Você tem de esperar até que possa recuperar este item.',
     fr: 'Vous devez attendre jusqu\'à ce que vous puissiez récupérer cet objet',
-    es: 'Tiene que esperar hasta que pueda recuperar este elemento.',
+    es: 'Tiene que esperar hasta que pueda recuperar este item.',
     nl: 'Je moet wachten tot je dit item kan terugvinden.',
     ko: '이 항목을 가져올 때까지 기다려야합니다.',
     hi: 'आपको इस आइटम को पुनः प्राप्त करने तक इंतजार करना होगा।',
@@ -31,6 +31,10 @@ export default {
     hu: 'Pénz Kivétele'
   },
 
+  deposit: {
+    en: 'Deposit'
+  },
+
   // Do not translate "Stash".
   stash: {
     en: 'Move to Stash',
@@ -38,7 +42,7 @@ export default {
     ru: 'Положить в Stash',
     pt: 'Mover para o baú',
     fr: 'Aller dans la Stash',
-    es: 'Mover a su Stash',
+    es: 'Mover al Stash',
     nl: 'Verhuizen naar Stash',
     ko: '은신처로 이동하십시오',
     hi: 'स्टैश में भेजें',
@@ -54,7 +58,7 @@ export default {
     ru: '$1 было добавлено в Stash.',
     pt: '$1 foi transferido para o seu Stash.',
     fr: '$1 a été transféré dans votre Stash.',
-    es: '$1 ha sido movido al Stash.',
+    es: '$1 se ha transferido al Stash.',
     nl: '$1 is verplaatst naar je Stash.',
     hi: '$1 को स्टैश में भेज दिया गया है',
     ro: '$1 a fost mutat în Stash.',

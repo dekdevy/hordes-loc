@@ -122,7 +122,7 @@ export default {
 
   auctionpost: {
     en: 'You have posted $1 for sale',
-    es: 'Ha contabilizado $1 para la venta',
+    es: 'Has colocado $1 para la vender',
     fr: 'Vous avez mis $1 en vente',
     de: 'Du hast $1 zum Verkauf angeboten',
     pt: 'Você colocou $1 para leilão',
@@ -155,7 +155,7 @@ export default {
   auctionbuy: {
     en: 'Item purchased for $g$1 and sent to your Stash',
     ru: 'Лот, купленный за $g$1 и отправлен в ваш Stash',
-    es: 'Artículo comprado por $g$1 y enviado a su Stash',
+    es: 'Item comprado por $g$1 y enviado a su Stash',
     fr: 'Article acheté pour $g$1 et envoyé dans votre Stash',
     de: 'Item für $g$1 gekauft und an Stash geschickt',
     pt: 'Item comprado por $g$1 e enviado para o seu Stash',
@@ -169,7 +169,7 @@ export default {
   sell: {
     en: 'You have sold $1 for $2',
     nl: 'U heeft verkocht $1 aan $2',
-    es: 'Ha vendido $1 por $2',
+    es: 'Has vendido $1 por $2',
     pt: 'Você vendeu $1 por $2',
     de: 'Du hast $1 für $2 verkauft',
     ro: 'Ai vândut $1 pentru $2',
