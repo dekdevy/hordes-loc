@@ -10,7 +10,7 @@ export default {
     ru: 'Орда Bloodlust ценит свободу и лояльность, предлагая место для индивидуализма или даже хаоса. Их оборона находится в пустынном королевстве, названном Headless Landing.',
     es: 'La horda Bloodlust valora la libertad y lealtad, ofrece un lugar para el individualismo o incluso el caos. Sus defensas están ubicadas en un reino del desierto llamado Headless Landing.',
     fr: 'La faction des Bloodlust valorise la liberté et la loyauté. Elle offre une place à l\'individualisme et même au chaos. Leurs défenses sont situées dans un royaume désertique appelé Headless Landing.',
-    de: 'Die Horde der Bloodlust schätzt Freiheit und Loyalität, bietet einen Ort für Individualismus oder gar Chaos. Ihre Verteidigung befindet sich in einem Wüstenreich namens Headless Landing.',
+    de: 'Die Horde der Bloodlust schätzt Freiheit und Loyalität, bietet einen Ort für Individualismus oder gar Chaos. Ihre Befestigungen befinden sich in einem Wüstenreich namens Headless Landing.',
     hi: 'Bloodlust भीड़ स्वतंत्रता और वफादारी को महत्व देती है, व्यक्तिवाद या यहां तक कि अराजकता के लिए एक स्थान प्रदान करती है। उनका बचाव एक रेगिस्तानी क्षेत्र में स्थित है जिसे Headless Landing कहा जाता है।',
     ko: 'Bloodlust 자유와 충성도를 중요시하며 개인주의 또는 혼란을위한 장소를 제공합니다. 그들의 방위는 Headless Landing 라는 사막 영역에 있습니다.',
     pt: 'A horda do Bloodlust valoriza a liberdade e a lealdade, oferece um lugar para o individualismo ou até mesmo o caos. Suas defesas estão localizadas em um deserto chamado Headless Landing.',
