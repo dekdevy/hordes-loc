@@ -344,6 +344,14 @@ export default {
     hu: 'Hátizsák szélesség'
   },
 
+  stashwidth: {
+    en: 'Stash width'
+  },
+
+  stashheight: {
+    en: 'Stash height'
+  },
+
   tutorial: {
     en: 'Tutorial',
     ru: 'Обучение',
