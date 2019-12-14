@@ -345,11 +345,13 @@ export default {
   },
 
   stashwidth: {
-    en: 'Stash width'
+    en: 'Stash width',
+    hu: 'Stash szélesség'
   },
 
   stashheight: {
-    en: 'Stash height'
+    en: 'Stash height',
+    hu: 'Stash magasság'
   },
 
   tutorial: {
