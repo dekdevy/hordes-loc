@@ -58,7 +58,7 @@ export default [
     description: {
       en: 'Arcane rings are the magical experiments of intermediate mages. Some rings are crafted and enchanted to substantially enhance magic-casting abilities.',
       ru: 'Arcane Ring- это магические эксперименты промежуточных магов. Некоторые кольца изготовлены и зачарованы, чтобы существенно повысить магические способности.',
-      de: 'Arkane Ringe sind die magischen Experimente von fortgeschrittenen Magiern. Einige Ringe wurden hergestellt, um die Magie-Fähigkeiten signifikant zu erhöhen.' 
+      de: 'Arkane Ringe sind die magischen Experimente von fortgeschrittenen Magiern. Einige Ringe wurden hergestellt, um die Magie-Fähigkeiten signifikant zu erhöhen.'
     }
   },
 
