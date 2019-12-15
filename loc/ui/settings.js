@@ -46,19 +46,23 @@ export default {
   },
 
   camera: {
-    en: 'Camera'
+    en: 'Camera',
+    de: 'Kamera'
   },
 
   mousesensitivity: {
-    en: 'Sensitivity'
+    en: 'Sensitivity',
+    de: 'Empfindlichkeit'
   },
 
   invertmousex: {
-    en: 'Invert horizontally'
+    en: 'Invert horizontally',
+    de: 'X-Achse umkehren'
   },
 
   invertmousey: {
-    en: 'Invert vertically'
+    en: 'Invert vertically',
+    de: 'Y-Achse umkehren'
   },
 
   pointerlock: {
@@ -362,12 +366,14 @@ export default {
 
   stashwidth: {
     en: 'Stash width',
-    hu: 'Stash szélesség'
+    hu: 'Stash szélesség',
+    de: 'Stash-Breite'
   },
 
   stashheight: {
     en: 'Stash height',
-    hu: 'Stash magasság'
+    hu: 'Stash magasság',
+    de: 'Stash-Höhe'
   },
 
   tutorial: {
@@ -404,7 +410,7 @@ export default {
 
   disabletutorial: {
     en: 'Disable tutorial',
-    de: 'Tutorial beenden',
+    de: 'Tutorial deaktivieren',
     ru: 'Отключить обучение',
     tr: 'Öğreticiyi kapat',
     fr: 'Désactiver le tutoriel',
