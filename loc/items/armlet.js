@@ -29,7 +29,7 @@ export default [
       hu: 'A cserzett bőrt fáradtságos munkával formálták alkarvédőkké. A páncél oldalán ott a bőrműves névjegye: "Markay\'ak".',
       ru: 'Жесткая кожа была тщательно обработана в виде тонких браслетов. На боковой стороне кожи стоит подпись ремесленника: "Markay\'ak"',
       fr: 'Le cuir robuste a été méticuleusement travaillé pour en faire des bracelets de qualité. Sur le côté du cuir se trouve la signature de l\'artisan : "Markay\'ak".',
-      es: 'Cuero resistente que ha sido minuciosamente hecho a mano en finos brazaletes. Al costado del cuero está la firma del artesano: "Markay\'ak".'
+      es: 'Cuero resistente que ha sido cuidadosamente hecho a mano en finos brazaletes. Al costado del cuero está la firma del artesano: "Markay\'ak".'
     }
   },
 
