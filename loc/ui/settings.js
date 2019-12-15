@@ -45,6 +45,22 @@ export default {
     zh: '鍵盤設定'
   },
 
+  camera: {
+    en: 'Camera'
+  },
+
+  mousesensitivity: {
+    en: 'Sensitivity'
+  },
+
+  invertmousex: {
+    en: 'Invert horizontally'
+  },
+
+  invertmousey: {
+    en: 'Invert vertically'
+  },
+
   pointerlock: {
     en: 'Hide mouse during rotation',
     de: 'Maus bei Rotation verstecken',
