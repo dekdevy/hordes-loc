@@ -12,7 +12,8 @@ export default {
       nl: 'Welkom bij de beste goederen die er zijn! U zult geen betere deal vinden dan wat ik voor u heb, maar ik hoor dat er een speciale winkel is met fantastische artikelen die anders zijn dan wat ik ooit heb gezien. Intussen heb ik nog wat reserve munten en reserve goederen. Wilt u iets verkopen?',
       ro: 'Bine ai venit la cele mai bune obiecte din împrejurimi! Nu vei găsi o afacere mai bună decât ceea ce am eu pentru tine; cu toate acestea, am auzit că există un magazin special cu elemente fantastice, diferite de orice am văzut vreodată. Între timp, am niște monede și bunuri de rezervă. Îți place să vinzi ceva?',
       zh: '歡迎來到各地最好的商品！ 你不會找到比我給你更好的交易; 然而，我聽說有一個特別的商店，有很棒的物品，不像我見過的任何東西。 與此同時，我有一些備用硬幣和備用貨物。 你想要賣些什麼嗎？',
-      hu: 'Üdvözlöm! Itt találja a legjobb árukat a környéken! Ennél jobb üzletet sehol nem fog látni a világon, bár úgy halottam, hogy létezik egy nagyon különleges bazár olyan tárgyakkal, amilyeneket én még soha nem láttam. De addig is, nálam találsz egy kevés tartalék árut. Szeretnél bármit is eladni?'
+      hu: 'Üdvözlöm! Itt találja a legjobb árukat a környéken! Ennél jobb üzletet sehol nem fog látni a világon, bár úgy halottam, hogy létezik egy nagyon különleges bazár olyan tárgyakkal, amilyeneket én még soha nem láttam. De addig is, nálam találsz egy kevés tartalék árut. Szeretnél bármit is eladni?',
+      pl: 'Witamy wśród najlepszych towarów w okolicy! Nie znajdziesz lepszej oferty niż to, co mam dla ciebie; dochodzą mnie słuchy, że istnieje specjalny sklep z fantastycznymi przedmiotami, niepodobnymi do niczego, co kiedykolwiek widziałem na oczy. Tymczasem mam trochę monet i towarów na zbyciu. Czy chciałbyś coś sprzedać?'
     },
 
     choices: [{
@@ -22,7 +23,8 @@ export default {
       pt: 'Mostra-me os teus produtos.',
       fr: 'Montrez moi vos articles',
       nl: 'Laat mij uw waren zien',
-      de: 'Zeig mir deine Waren.'
+      de: 'Zeig mir deine Waren.',
+      pl: 'Pokaż mi swoje towary.'
     }]
   }],
 
@@ -38,7 +40,8 @@ export default {
     nl: 'Verkoop je waren.',
     ro: 'Vinde-ți obiectele.',
     zh: '賣出你的物品。',
-    hu: 'Itt add el az árudat.'
+    hu: 'Itt add el az árudat.',
+    pl: 'Sprzedaj swoje przedmioty.'
   },
 
   info: {
@@ -54,7 +57,8 @@ export default {
     ro: 'Pentru a vinde un element, faceți clic-dreapta sau trageți-l în fereastra comerciantului.',
     zh: '要賣物品，在物品上按右鍵或把它拖入到交易窗口中。',
     tr: 'Bir eşyayı satmak için Shift\'e basılı tutarak eşyaya sağ tıklayın veya eşyayı takas penceresine sürükleyip bırakın.',
-    hu: 'Hogy eladj egy tárgyat, shift + jobbkattints rá, vagy húzd ide a Trader ablakba.'
+    hu: 'Hogy eladj egy tárgyat, shift + jobbkattints rá, vagy húzd ide a Trader ablakba.',
+    pl: 'Aby sprzedać przedmiot, kliknij shift+prawy przycisk myszy na przedmiot lub przenieś przedmiot na okienko kupcy.'
   },
 
   // Include punctuation and space.
@@ -71,7 +75,8 @@ export default {
     ro: 'Prețul de vânzare: ',
     zh: '售價： ',
     tr: 'Satış ücreti: ',
-    hu: 'Eladási ár: '
+    hu: 'Eladási ár: ',
+    pl: 'Cena sprzedaży: '
   },
 
   buy: {
@@ -86,6 +91,7 @@ export default {
     hi: 'क्या आप किसी चीज में रुचि रखते हैं? इसे खरीदने के लिए किसी आइटम पर क्लिक करें।',
     zh: '有感興趣的東西嗎？点击商品即可購買。',
     tr: 'İlginizi çeken bir şeyler var mı? Bir eşyayı almak isterseniz üstüne tıklayın.',
-    hu: 'Látsz valamit, amit érdekesnek találsz? Kattints egy tárgyra hogy megvásárold.'
+    hu: 'Látsz valamit, amit érdekesnek találsz? Kattints egy tárgyra hogy megvásárold.',
+    pl: 'Jesteś czymś zainteresowany? Kliknij na przedmiot aby go kupić.'
   }
 }
