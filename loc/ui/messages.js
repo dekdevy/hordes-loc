@@ -174,7 +174,7 @@ export default {
     pt: '$1 foi expulso da sua party pelo $2.',
     hu: '$2 kirúgta a Partydból: $1.',
     fr: '$1 a été expulsé de votre party par $2.',
-    pl: '$1 został usunięty z party przez $2.
+    pl: '$1 został usunięty z party przez $2.'
   },
   partyQueueStart: {
     en: 'Your party has started queue type: $1.',
