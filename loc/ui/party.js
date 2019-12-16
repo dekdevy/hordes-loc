@@ -55,7 +55,7 @@ export default {
     ro: 'Părăsește Party',
     zh: '离开 Party',
     hu: 'Party Elhagyása',
-    pl: 'Opuść Party
+    pl: 'Opuść Party'
   },
 
   // DO NOT translate "Party"
