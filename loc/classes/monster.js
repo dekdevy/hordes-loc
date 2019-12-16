@@ -12,6 +12,7 @@ export default {
     nl: 'Monster',
     ro: 'Monstru',
     zh: '怪物',
-    hu: 'Szörnyeteg'
+    hu: 'Szörnyeteg',
+    pl: 'Potwór'
   }
 }

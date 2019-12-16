@@ -13,7 +13,8 @@ export default {
     nl: 'Krijger',
     ro: 'Războinic',
     zh: '戰士',
-    hu: 'Harcos'
+    hu: 'Harcos',
+    pl: 'Wojownik'
   },
   // Class description, visible during character creation
   description: {
@@ -29,6 +30,7 @@ export default {
     tr: 'Savaşçılar güçlü defansif ekipmanları (Kalkanlar) ve defansif güçlendirmeleri ile canavarları diğer sınıflardan daha çok üstüne çeker.',
     ro: 'Războinicii sunt făcuți pentru a atrage mai mulți monștrii decât orice altă clasă, având o defensivă foarte ridicată datorită echipamentului (Scuturi) și buff-uri defensive puternice.',
     zh: '通過裝備（盾牌）和強大的防守增益效果，戰士可以打敗比其他角色更多的怪物。',
-    hu: 'A harcosok hatalmas védekező képességükre és erejükre támaszkodva magukra vállalhatják a közelharcot számos ellenséggel, hogy a csapatjuk többi tagja zavartalanul használhassa mágiáját.'
+    hu: 'A harcosok hatalmas védekező képességükre és erejükre támaszkodva magukra vállalhatják a közelharcot számos ellenséggel, hogy a csapatjuk többi tagja zavartalanul használhassa mágiáját.',
+    pl: 'Wojownicy są stworzeni aby tankować więcej potworów niż jakakolwiek inna klasa, a to dzięki wysokiej obronie i pomocy wyposażenia (tarcze) oraz silnych buffów obronnych.'
   }
 }
