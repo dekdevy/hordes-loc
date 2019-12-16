@@ -328,7 +328,7 @@ export default {
     hu: 'Csetbuborékok mutatása',
     zh: '顯示聊天氣泡',
     es: 'Mostrar burbujas de chat',
-    pl: 'Chmurki czatu
+    pl: 'Chmurki czatu'
   },
 
   combatlog: {
