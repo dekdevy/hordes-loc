@@ -12,7 +12,8 @@ export default {
     hi: 'आपको इस आइटम को पुनः प्राप्त करने तक इंतजार करना होगा।',
     ro: 'Trebuie să aștepți până să poți recupera acest obiect.',
     zh: '您必须等到可以取回这个装备。',
-    hu: 'Várnod kell még hogy visszaszerezhesd ezt a tárgyat.'
+    hu: 'Várnod kell még hogy visszaszerezhesd ezt a tárgyat.',
+    pl: 'Musisz poczekać zanim podniesiesz ten przedmiot.'
   },
 
   withdraw: {
@@ -28,11 +29,13 @@ export default {
     ko: '빼다',
     tr: 'Çekil',
     zh: '退出',
-    hu: 'Pénz Kivétele'
+    hu: 'Pénz Kivétele',
+    pl: 'Podejmij'
   },
 
   deposit: {
-    en: 'Deposit'
+    en: 'Deposit',
+    pl: 'Depozyt'
   },
 
   // Do not translate "Stash".
@@ -48,7 +51,8 @@ export default {
     hi: 'स्टैश में भेजें',
     ro: 'Mută în Stash.',
     zh: '转到保管',
-    hu: 'Stash küldés'
+    hu: 'Stash küldés',
+    pl: 'Przenieś do Stash'
   },
 
   // Do not translate "Stash".
@@ -64,7 +68,8 @@ export default {
     ro: '$1 a fost mutat în Stash.',
     ko: '$1 가 숨겨지기로 옮겼습니다.',
     zh: '$1 被转移到了你的保管',
-    hu: 'A Stash fiókodba került: $1'
+    hu: 'A Stash fiókodba került: $1',
+    pl: '$1 został przeniesiony do Stash'
   }
 
 }
