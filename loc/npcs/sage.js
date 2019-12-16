@@ -17,7 +17,7 @@ export default {
       nl: 'Reset mijn status punten ( $g$1 ).',
       es: 'Restablecer mis puntos de estadísticas ( $g$1 ).',
       de: 'Setze meine Stat-Punkte zurück. ( $g$1 ).',
-      pl: ''Zresetuj moje statystyki ( $g$1 ).'
+      pl: 'Zresetuj moje statystyki' ( $g$1 ).'
     }]
   }]
 }
