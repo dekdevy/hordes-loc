@@ -299,7 +299,7 @@ export default {
       pt: '% Aggro Gerado',
       hu: '% Megnövelt Aggro Képzés',
       zh: '%增加挑衅',
-      pl: '% Zwiększone generowanie aggro.
+      pl: '% Zwiększone generowanie aggro.'
     },
 
     {
