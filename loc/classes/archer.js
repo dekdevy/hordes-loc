@@ -35,3 +35,4 @@ export default {
     pl: 'Łucznicy zadają wysokie obrażenia pojedyńczym celom i duże obrażenia obszarowe. Dobry łucznik będzie zawsze trzymał dystans i strzelał do wrogów z daleka.'
   }
 }
+dff
