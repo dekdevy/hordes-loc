@@ -13,7 +13,8 @@ export default {
     nl: 'Magiër',
     ro: 'Magician',
     zh: '魔法師',
-    hu: 'Mágus'
+    hu: 'Mágus',
+    pl: 'Mag'
   },
 
   // Class description, visible during character creation
@@ -30,6 +31,7 @@ export default {
     tr: 'Büyücüler ağır alan etkili hasar verirken buz büyüleriyle hedeflerini yavaşlatır.',
     ro: 'Magicienii cauzează daune considerabile la scară largă, fiind în același timp folositori prin încetinirea țintelor cu ajutorul magiei lor pe bază de gheață.',
     zh: '魔法師會釋放大範圍的區域傷害，同時還會利用冰屬性魔法減慢目標。',
-    hu: 'A Mágusok tudnak egy nagy területen belül pusztítani, de támogatást is nyújthatnak, ha ellenségeiket fagymágiával lelassítják.'
+    hu: 'A Mágusok tudnak egy nagy területen belül pusztítani, de támogatást is nyújthatnak, ha ellenségeiket fagymágiával lelassítják.',
+    pl: 'Magowie zadają bardzo duże obrażenia obszarowe na dużą skalę, zapewniając jednocześnie użyteczność poprzez spowalnianie celów magią lodu.'
   }
 }
