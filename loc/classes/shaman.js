@@ -13,7 +13,8 @@ export default {
     hi: 'शमन',
     ro: 'Șaman',
     zh: '薩滿',
-    hu: 'Táltos'
+    hu: 'Táltos',
+    pl: 'Szaman'
   },
   // Class description, visible during character creation
   description: {
@@ -29,6 +30,7 @@ export default {
     hi: 'शमन की भूमिका टैंक का उपचार करके और आक्रामक बफ़रों की पेशकश करके या लक्ष्य की क्षमताओं के प्रभाव को कम करके समूह का समर्थन करना है।.',
     ro: 'Rolul șamanului este de a sprijini grupul prin vindecarea Tancului și de a oferi Buff-uri de ofensiva sau Debuff-uri de paralizare.',
     zh: '薩滿的定位是通過治療坦克和使用增益buff或減益Debuff來支援隊伍。',
-    hu: 'A táltosok feladata a csapat támogatása, mégpedig gyógyítóerejük segítségével, amit legjobb a sebzést felfogó harcosokra irányítaniuk. Egy táltos képes csapatára különböző áldásokat, ellenfeleire pedig átkokat szórni.'
+    hu: 'A táltosok feladata a csapat támogatása, mégpedig gyógyítóerejük segítségével, amit legjobb a sebzést felfogó harcosokra irányítaniuk. Egy táltos képes csapatára különböző áldásokat, ellenfeleire pedig átkokat szórni.',
+    pl: 'Rolą szamana jest wsparcie grupy poprzez leczenie tanka i oferowanie ofensywnych buffów lub nakładanie okaleczających debuffów.'
   }
 }

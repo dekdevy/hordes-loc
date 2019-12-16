@@ -12,7 +12,8 @@ export default {
     pt: 'Sussurro',
     ro: 'Șoaptă',
     hu: 'Suttogás',
-    zh: '耳語'
+    zh: '耳語',
+    pl: 'Szept'
   },
 
   types: [
@@ -26,7 +27,8 @@ export default {
       tr: 'Exp Kazanımı',
       nl: 'Exp Gekregen',
       hu: 'EXP Jutalom',
-      zh: 'Exp 獲得'
+      zh: 'Exp 獲得',
+      pl: 'Zdobywanie Doświadczenia'
     },
     {
       en: 'Target Change',
@@ -37,7 +39,8 @@ export default {
       pt: 'Mudança de Alvo',
       nl: 'Verander Doelwit',
       hu: 'Célpont Megváltoztatása',
-      zh: '目標變更'
+      zh: '目標變更',
+      pl: 'Zmiana celu'
     },
     {
       en: 'Cast',
@@ -48,7 +51,8 @@ export default {
       pt: 'Lançar',
       nl: 'Uitspreken',
       hu: 'Előhívás',
-      zh: '施法'
+      zh: '施法',
+      pl: 'Rzucenie czaru'
     },
     {
       en: 'Damage',
@@ -60,7 +64,8 @@ export default {
       tr: 'Hasar',
       nl: 'Schade',
       hu: 'Sebzés',
-      zh: '傷害'
+      zh: '傷害',
+      pl: 'Obrażenia'
     },
     {
       en: 'Heal',
@@ -72,7 +77,8 @@ export default {
       tr: 'İyileşme',
       nl: 'Genezen',
       hu: 'Gyógyítás',
-      zh: '補血'
+      zh: '補血',
+      pl: 'Leczenie'
     },
     {
       en: 'Death',
@@ -84,7 +90,8 @@ export default {
       tr: 'Ölüm',
       nl: 'Dood',
       hu: 'Halál',
-      zh: '死亡'
+      zh: '死亡',
+      pl: 'śmierć'
     },
     {
       en: 'Level Up',
@@ -95,7 +102,8 @@ export default {
       pt: 'Subir de nível',
       nl: 'Level Omhoog',
       hu: 'Szintlépés',
-      zh: '升等'
+      zh: '升等',
+      pl: 'Zdobyto poziom'
     },
     {
       en: 'Items',
@@ -106,7 +114,8 @@ export default {
       pt: 'Items',
       nl: 'Voorwerpen',
       hu: 'Tárgyak',
-      zh: '升等'
+      zh: '升等',
+      pl: 'Przedmioty'
     },
     {
       en: 'Auction',
@@ -117,7 +126,8 @@ export default {
       pt: 'Leilão',
       nl: 'Veiling',
       hu: 'Aukció',
-      zh: '拍賣'
+      zh: '拍賣',
+      pl: 'Aukcja'
     },
     {
       en: 'Pick Gold',
@@ -128,7 +138,8 @@ export default {
       pt: 'Pegar Ouro',
       nl: 'Goud Oprapen',
       hu: 'Felvett Arany',
-      zh: '採金'
+      zh: '採金',
+      pl: 'Zbierz złoto'
     },
     {
       en: 'Spent Gold',
@@ -139,7 +150,8 @@ export default {
       pt: 'Ouro gasto',
       nl: 'Goud Besteden',
       hu: 'Elköltött Arany',
-      zh: '花金'
+      zh: '花金',
+      pl: 'Wydane złoto'
     },
     {
       en: 'Fame Gain',
@@ -151,7 +163,8 @@ export default {
       tr: 'Şöhret Kazancı',
       nl: 'Beroemdheid Gekregen',
       hu: 'Dicsőség Jutalom',
-      zh: '獲得聲譽'
+      zh: '獲得聲譽',
+      pl: 'Zdobyta Sława'
     }
   ]
 }

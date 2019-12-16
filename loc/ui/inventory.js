@@ -13,7 +13,8 @@ export default {
     ko: '목록',
     ro: 'inventar',
     zh: '库存',
-    hu: 'Hátizsák'
+    hu: 'Hátizsák',
+    pl: 'Ekwipunek'
   },
 
   pick: {
@@ -28,7 +29,8 @@ export default {
     hi: 'आपने $1 उठा लिया',
     ko: '당신은 $1 를 선택했습니다',
     zh: '你捡到了$1。',
-    hu: 'Fölvetted: $1'
+    hu: 'Fölvetted: $1',
+    pl: 'Podniesiono $1.'
   },
 
   throw: {
@@ -44,7 +46,8 @@ export default {
     tr: '$1 \'i attın.',
     hi: 'आपने $1 को फेंक दिया',
     zh: '你丢了$1。',
-    hu: 'Eldobtad: $1'
+    hu: 'Eldobtad: $1',
+    pl: 'Wyrzucono: $1.'
   },
 
   full: {
@@ -59,7 +62,8 @@ export default {
     hi: 'आपकी वस्तुसूचि भर गयी है',
     ko: '인벤토리가 가득 찼습니다',
     zh: '你的库存满了。',
-    hu: 'A hátizsákod tele van.'
+    hu: 'A hátizsákod tele van.',
+    pl: 'Twój ekwipunek jest pełen.'
   },
 
   sell: {
@@ -74,7 +78,8 @@ export default {
     hi: 'आपने $1 बेच दिया',
     ko: '$1 에',
     zh: '你卖了 $1。',
-    hu: 'Eladtad: $1'
+    hu: 'Eladtad: $1',
+    pl: 'Sprzedano $1.'
   },
 
   receive: {
@@ -89,7 +94,8 @@ export default {
     ko: '$1 를 받았습니다',
     ro: 'Ați primit $1.',
     zh: '你收到 $1。',
-    hu: 'Kaptál: $1'
+    hu: 'Kaptál: $1',
+    pl: 'Otrzymano $1.'
   },
 
   drop: {
@@ -105,7 +111,8 @@ export default {
     ko: '아이템 놓기',
     ro: 'Aruncă obiectul',
     zh: '丢装备',
-    hu: 'Tárgy eldobása'
+    hu: 'Tárgy eldobása',
+    pl: 'Wyrzuć przedmiot'
   },
 
   equip: {
@@ -120,7 +127,8 @@ export default {
     nl: 'Rust uw item uit',
     ro: 'Echipează obiectul',
     zh: '上装备',
-    hu: 'Felfegyverkezés'
+    hu: 'Felfegyverkezés',
+    pl: 'Wyposaż przedmiot'
   },
 
   use: {
@@ -136,7 +144,8 @@ export default {
     nl: 'Gebruik item',
     tr: 'Öğe kullan',
     zh: '用物品',
-    hu: 'Használat'
+    hu: 'Használat',
+    pl: 'Użyj przedmiot'
   },
 
   splithalf: {
@@ -146,7 +155,8 @@ export default {
     pt: 'Dividir ao meio',
     hu: 'Kettéosztás',
     de: 'Halbieren',
-    es: 'Separar a la mitad'
+    es: 'Separar a la mitad',
+    pl: 'Rozdziel na pół'
   },
 
   splitone: {
@@ -156,7 +166,8 @@ export default {
     pt: 'Retirar um',
     hu: 'Egy elvétele',
     de: 'Vereinzeln',
-    es: 'Separar uno'
+    es: 'Separar uno',
+    pl: 'Wydziel jeden'
   },
 
   spend: {
@@ -172,7 +183,8 @@ export default {
     hi: 'आपने $g$1 सिक्के खर्च कर दिए हैं',
     ro: 'Ai cheltuit $g$1.',
     zh: '你花了$g$1。',
-    hu: 'Elköltöttél $g$1'
+    hu: 'Elköltöttél $g$1',
+    pl: 'Wydano $g$1.'
   },
 
   death: {
@@ -188,6 +200,7 @@ export default {
     hi: 'आप मारे गए और $g$1 सिक्के खो दिए',
     ro: 'Ai murit și ai pierdut $g$1.',
     zh: '你死了，掉了 $g$1。',
-    hu: 'Meghaltál és elvesztetted: $g$1'
+    hu: 'Meghaltál és elvesztetted: $g$1',
+    pl: 'Podczas śmierci stracono $g$1.'
   }
 }

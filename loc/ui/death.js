@@ -12,7 +12,8 @@ export default {
     pt: 'Você morreu.',
     ro: 'Tu ai murit.',
     zh: '你死了。',
-    hu: 'Meghaltál'
+    hu: 'Meghaltál',
+    pl: 'Zginąłeś'
   },
 
   deathmsg: {
@@ -28,7 +29,8 @@ export default {
     pt: 'Pressione o botão para ser ressuscitado no conjurador mais próximo.',
     ro: 'Apăsați butonul pentru a fi înviat la cea mai apropiată conjurer.',
     zh: '按下按钮可以找最近的魔术师处复活',
-    hu: 'Nyomd meg a gombot hogy felgyógyítsanak a legközelebbi Conjurernél'
+    hu: 'Nyomd meg a gombot hogy felgyógyítsanak a legközelebbi Conjurernél',
+    pl: 'Wciśnij przycisk aby zostać wskrzeszonym przy najbliższym Conjurer'
   },
 
   // 'Resurrect' is used in many translations/languages.
@@ -44,6 +46,7 @@ export default {
     pt: 'Ressuscitar',
     ro: 'Înviați',
     zh: '复活',
-    hu: 'Feltámadás'
+    hu: 'Feltámadás',
+    pl: 'Respawn'
   }
 }
