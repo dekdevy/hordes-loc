@@ -18,6 +18,7 @@ export default {
     tr: 'Bloodlust topluluğu özgürlüğe ve sadakate önem verir, bireyciliğe ve hatta kaosa yer verir. Savunmaları, Headless Landing denilen bir çöl aleminde bulunur.',
     ro: 'Facțiunea Bloodlust valorizează libertatea și loialitatea, oferă un loc pentru individualism sau chiar haos. Apărările lor sunt situate într-o regiune a deșertului numită Headless Landing.',
     zh: 'Bloodlust部落重視自由和忠誠，提供個人主義甚至混亂。 他們的防禦位在一個名為Headless Landing的沙漠。',
-    hu: 'A Bloodlust hordái a szabadságra és a hűségre esküdtek fel. A táboraik mindig szabad helyet adnak az egyéni akaratnak, a becsvágynak, ami gyakran káoszba torkollik. A védelmi állásaikat a Headless Landing sivatagában verték fel.'
+    hu: 'A Bloodlust hordái a szabadságra és a hűségre esküdtek fel. A táboraik mindig szabad helyet adnak az egyéni akaratnak, a becsvágynak, ami gyakran káoszba torkollik. A védelmi állásaikat a Headless Landing sivatagában verték fel.',
+    pl: 'Horda Bloodlust ceni sobie wolność i lojalność oferując miejsce dla indywidualizmu, a nawet chaosu. Ich defensywy znajdują się w pustynnej krainie Headless Landing.'
   }
 }
