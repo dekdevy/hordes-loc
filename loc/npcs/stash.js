@@ -10,7 +10,8 @@ export default {
       hu: 'Igen, én egy beszélő láda vagyok. Ne kérdezd! Sok éve még királyi családoknak szolgáltam, én tároltam a temérdek aranyukat, a fényes kristályokat, és mindezt azért, hogy idedobjanak ebbe a táborba, és teljesítsem jöttment kalandorok fenséges óhajait. Fölajánlhatom neked szolgálataimat?',
       nl: 'Ja, ik ben een pratende kist, ik kan nou al een vraag op je lippen zien vormen. Vele jaren heb ik voor royale families gewerkt, hun onbetaalbare edelstenen en juwelen bewaren, alleen om op deze campplaats gegooid te worden voor jullie mooie benodigdheden. hoe dan ook, kan ik jou mijn diensten aanbieden?',
       es: 'Sí, Soy un cofre parlante, ya puedo ver la pregunta formándose en tus labios. Muchos años he servido a familias reales, almacenando sus gemas y joyas invaluables, solo para que me coloquen en este sucio campamento para atender sus pequeñas necesidades. De todos modos, ¿quieres que te ofrezca mis servicios?',
-      de: 'Ich kann die Frage schon auf deinen Lippen sehen: Ja, ich bin eine sprechende Kiste. Für viele Jahre habe ich königlichen Familien gedient, ihre unbezahlbaren Juwelen und Edelsteine aufbewahrt, nur um jetzt in diesem furchtbaren Lager zu landen und deine niederen Bedürfnisse zu erfüllen. Egal, möchtest du meine Dienste in Anspruch nehmen?'
+      de: 'Ich kann die Frage schon auf deinen Lippen sehen: Ja, ich bin eine sprechende Kiste. Für viele Jahre habe ich königlichen Familien gedient, ihre unbezahlbaren Juwelen und Edelsteine aufbewahrt, nur um jetzt in diesem furchtbaren Lager zu landen und deine niederen Bedürfnisse zu erfüllen. Egal, möchtest du meine Dienste in Anspruch nehmen?',
+      pl: 'Tak, jestem gadającą skrzynią, już widzę pytania formujące się na twoich ustach. Od wielu lat służę rodzinom królewskim, przechowując ich bezcenne klejnoty i drogocenności, tylko po to, żeby umieścić mnie w tym brudnym obozowisku bym zaspokajała twoje śmieszne potrzeby. Cóż, czy chciałbyś abym zaoferowała ci moje usługi?'
     },
 
     // Do not translate "Stash".
@@ -27,7 +28,8 @@ export default {
       hi: 'हां, मेरा स्टैश खोलें',
       ro: 'Da, deschide-mi Stash.',
       zh: '是的，打開我的倉庫。',
-      hu: 'Rendben, tárd elém a Stasht.'
+      hu: 'Rendben, tárd elém a Stasht.',
+      pl: 'Tak, otwórz mój Stash.'
     }]
   }]
 }
