@@ -17,7 +17,8 @@ export default {
     ko: 'Party 초대',
     ro: 'Invitație la Party',
     zh: '邀请加入 Party',
-    hu: 'Party meghívás'
+    hu: 'Party meghívás',
+    pl: 'Zaproszenie do party'
   },
 
   // DO NOT translate "Party"
@@ -34,7 +35,8 @@ export default {
     ko: 'Party 킥',
     ro: 'Lovitură de Party',
     zh: '踢出 Party',
-    hu: 'Kirúgás a Partydból'
+    hu: 'Kirúgás a Partydból',
+    pl: 'Wyrzucenie z Party'
   },
 
   // DO NOT translate "Party"
@@ -52,7 +54,8 @@ export default {
     ko: 'Party 나가기',
     ro: 'Părăsește Party',
     zh: '离开 Party',
-    hu: 'Party Elhagyása'
+    hu: 'Party Elhagyása',
+    pl: 'Opuść Party
   },
 
   // DO NOT translate "Party"
@@ -70,7 +73,8 @@ export default {
     ko: 'Party 만들기',
     ro: 'Creează Party',
     zh: '创建 Party',
-    hu: 'Party Alapítása'
+    hu: 'Party Alapítása',
+    pl: 'Stwórz Party'
   },
 
   // DO NOT translate "Party"
@@ -87,7 +91,8 @@ export default {
     ko: '$1 님이 Party 에 가입하도록 초대했습니다.',
     ro: '$1 te-a invitat să te alături Party-ului',
     zh: '$1 邀请你加入他们的 Party.',
-    hu: '$1 meghívott a Partyjába.'
+    hu: '$1 meghívott a Partyjába.',
+    pl: '$1 zaprosił cię do Party.'
   },
 
   link: {
@@ -102,7 +107,8 @@ export default {
     pt: 'Link para o convite',
     ko: '초대 링크',
     ro: 'Link-ul invitației',
-    hu: 'Partymeghívó link'
+    hu: 'Partymeghívó link',
+    pl: 'Link do zaproszenia'
   },
 
   // DO NOT translate "Party"
@@ -118,7 +124,8 @@ export default {
     tr: 'Bu bağlantıyı diğer oyunculara gönder! Bu onların Party\'ne katılmasını sağlayacak.',
     ko: '이 링크를 다른 플레이어에게 보내십시오! 그러면 party 에 가입 할 수 있습니다.',
     ro: 'Trimi-te acest link altor jucători! Le va permite să se alăture Party-ului tău.',
-    hu: 'Küldd el ezt más játékosoknak, hogy beléphessenek a Partydba.'
+    hu: 'Küldd el ezt más játékosoknak, hogy beléphessenek a Partydba.',
+    pl: 'Wyślij ten link do innych graczy! Pozwoli im to na dołączenie do twojego Party.'
   },
 
   copyLink: {
@@ -137,7 +144,8 @@ export default {
     hi: 'क्लिपबोर्ड पर कॉपी करें',
     ko: '클립 보드에 복사',
     ro: 'Copiați în clipboard',
-    hu: 'Másold a vágólapra'
+    hu: 'Másold a vágólapra',
+    pl: 'Kopiuj do schowka'
   },
 
   summon: {
@@ -147,7 +155,8 @@ export default {
     es: 'Invocar',
     fr: 'Convoquer',
     hu: 'Idézés',
-    de: 'Beschwören'
+    de: 'Beschwören',
+    pl: 'Przyzwij'
   },
 
   onSummon: {
@@ -157,7 +166,8 @@ export default {
     es: '$1 está ofreciendo invocarte en su ubicación.',
     tr: '$1 seni yanına çağırıyor.',
     hu: '$1 felajánlotta hogy magához idéz.',
-    de: '$1 möchte dich zu seiner Position beschwören.'
+    de: '$1 möchte dich zu seiner Position beschwören.',
+    pl: '$1 chce przyzwać cię do swojej lokacji.'
   },
 
   // Do not translate "Assistant".
@@ -168,7 +178,8 @@ export default {
     es: 'Promover a Assistant',
     tr: 'Assistant\'a Terfi Ettir',
     hu: 'Előléptetés Assistanttá',
-    de: 'Zu Assistant ernennen'
+    de: 'Zu Assistant ernennen',
+    pl: 'Promuj na Assistant.'
   },
 
   // Do not translate "Leader".
@@ -179,7 +190,8 @@ export default {
     es: 'Promover a Leader',
     tr: 'Leader\'e Terfi Ettir',
     hu: 'Előléptetés Leaderré',
-    de: 'Zu Leader ernennen'
+    de: 'Zu Leader ernennen',
+    pl: 'Promuj na Leader'
   },
 
   // Do not translate"Assistant".
@@ -190,7 +202,8 @@ export default {
     es: 'Remover Assistant',
     tr: 'Assistant\'lıktan Çıkar',
     hu: 'Assistant Visszabuktatása',
-    de: 'Assistant degradieren.'
+    de: 'Assistant degradieren.',
+    pl: 'Degraduj na Assistant'
   },
 
   startQueue: {
@@ -199,7 +212,8 @@ export default {
     de: 'Warteschlange',
     hu: 'Jelentkezés',
     tr: 'Sıraya Gir',
-    es: 'Entrar a la Cola'
+    es: 'Entrar a la Cola',
+    pl: 'Kolejkuj'
   },
 
   stopQueue: {
@@ -208,6 +222,7 @@ export default {
     de: 'Warteschlange verlassen',
     hu: 'Várólista elhagyása',
     tr: 'Sıradan Çık',
-    es: 'Salir de la Cola'
+    es: 'Salir de la Cola',
+    pl: 'Opuść kolejkowanie'
   }
 }
