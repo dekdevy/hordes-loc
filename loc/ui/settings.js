@@ -341,7 +341,6 @@ export default {
     zh: '戰鬥表',
     fr: 'Journal de Combat',
     pl: 'Log Walki'
-    
   },
 
   // ---- User interface
