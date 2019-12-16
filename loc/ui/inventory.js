@@ -47,7 +47,7 @@ export default {
     hi: 'आपने $1 को फेंक दिया',
     zh: '你丢了$1。',
     hu: 'Eldobtad: $1',
-    pl: 'Wyrzucono: $1.
+    pl: 'Wyrzucono: $1.'
   },
 
   full: {
