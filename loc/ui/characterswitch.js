@@ -31,6 +31,7 @@ export default {
     pt: 'Início',
     ro: 'Acasă',
     zh: '主頁',
-    hu: 'Főoldal'
+    hu: 'Főoldal',
+    pl: 'Start'
   }
 }

@@ -13,7 +13,8 @@ export default {
     ko: '씨족 을 나가기',
     ro: 'Părăsește Clanul',
     zh: '離開公會',
-    hu: 'Klán Elhagyása'
+    hu: 'Klán Elhagyása',
+    pl: 'Opuść Klan'
   },
 
   heading: {
@@ -29,7 +30,8 @@ export default {
     ko: '씨족',
     ro: 'Clan',
     zh: '公會',
-    hu: 'Klán'
+    hu: 'Klán',
+    pl: 'Klan'
   },
 
   createheading: {
@@ -45,7 +47,8 @@ export default {
     ko: '씨족 을 만들기',
     ro: 'Creează un Clan',
     zh: '創建公會',
-    hu: 'Klán Létrehozása'
+    hu: 'Klán Létrehozása',
+    pl: 'Stwórz Klan'
   },
 
   createname: {
@@ -61,7 +64,8 @@ export default {
     ko: '씨족 이름',
     ro: 'Numele Clanului',
     zh: '公會名稱',
-    hu: 'Klán Neve'
+    hu: 'Klán Neve',
+    pl: 'Nazwa Klanu'
   },
 
   createtag: {
@@ -77,7 +81,8 @@ export default {
     ko: '씨족 Tag',
     ro: 'Clan Tag',
     zh: '公會標籤',
-    hu: 'Klán Címkéje'
+    hu: 'Klán Címkéje',
+    pl: 'Tag Klanu'
   },
 
   createbutton: {
@@ -93,7 +98,8 @@ export default {
     ko: '만들기',
     ro: 'Creează',
     zh: '創建',
-    hu: 'Létrehozás'
+    hu: 'Létrehozás',
+    pl: 'Stwórz'
   },
 
   roles: [
