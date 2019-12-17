@@ -30,7 +30,7 @@ export default {
 
   header: {
     en: 'Sell your items.',
-    de: 'Verkaufe deine Gegenstände',
+    de: 'Verkaufe deine Items.',
     fr: 'Vendre vos objets.',
     ru: 'Продать свои вещи.',
     es: 'Vende tus articulos.',
@@ -51,7 +51,7 @@ export default {
     es: 'Para vender un artículo, haga clic derecho o arrástrelo a la ventana del comerciante.',
     hi: 'किसी आइटम को बेचने के लिए, उसे राइट क्लिक करें या उसे ट्रेडर विंडो में खींचें।',
     ko: '항목을 판매하려면 항목을 마우스 오른쪽 단추로 클릭하거나 상인 창으로 끌어다 놓으십시오.',
-    de: 'Um einen Gegenstand zu verkaufen, klicke ihn mit der rechten Maustaste an oder ziehe ihn in das Händlerfenster.',
+    de: 'Um ein Item zu verkaufen, klicke es mit der rechten Maustaste an, oder ziehe es in das Händlerfenster.',
     fr: 'Pour vendre un objet, cliquez dessus avec le bouton droit de la souris ou faites-le glisser dans la fenêtre du commerçant.',
     nl: 'Om een artikel te verkopen, klik er met de rechtermuisknop op of sleep het naar het handelaarsvenster.',
     ro: 'Pentru a vinde un element, faceți clic-dreapta sau trageți-l în fereastra comerciantului.',
