@@ -103,7 +103,7 @@ export default {
     ru: 'Выбросить предмет',
     hi: 'वस्तु गिरा दे',
     es: 'Dejar caer item',
-    de: 'Item droppen',
+    de: 'Item fallen lassen',
     fr: 'Déposer l\'item',
     nl: 'Laat vallen',
     pt: 'Soltar item',
@@ -138,7 +138,7 @@ export default {
     ro: 'Utilizează',
     es: 'Usar item',
     fr: 'Utiliser l\'item',
-    de: 'Item verwenden',
+    de: 'Item benutzen',
     pt: 'Usar item',
     ko: '항목 사용',
     nl: 'Gebruik item',
@@ -154,7 +154,7 @@ export default {
     fr: 'Partager en deux',
     pt: 'Dividir ao meio',
     hu: 'Kettéosztás',
-    de: 'Halbieren',
+    de: 'Stapel teilen',
     es: 'Separar a la mitad',
     pl: 'Rozdziel na pół'
   },
@@ -165,7 +165,7 @@ export default {
     fr: 'Retirer un item',
     pt: 'Retirar um',
     hu: 'Egy elvétele',
-    de: 'Vereinzeln',
+    de: 'Vereinzeln',  //Not a good translation
     es: 'Separar uno',
     pl: 'Wydziel jeden'
   },

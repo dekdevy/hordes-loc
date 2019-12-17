@@ -181,7 +181,7 @@ export default {
       fr: 'Votre nom ne peut contenir que des caractères de A à Z, des chiffres entre 0 et 9, sans aucun espace, et entre 3 et 16 caractères.',
       hi: 'आपके नाम में केवल a-Z अक्षर और 0-9 अंक हो सकते है| 3 और 16 वर्णों के बीच।',
       es: 'Su nombre sólo puede contener los caracteres de la a-Z, y los números del 0 al 9, sin espacios. Entre 3 y 16 caracteres.',
-      de: 'Dein Name darf nur die Buchstaben a-Z und die Zahlen 0-9 ohne Leerzeichen enthalten. 3 bis 16 Zeichen.',
+      de: 'Dein Name darf nur die Buchstaben a-Z und die Zahlen 0-9 ohne Leerzeichen enthalten und muss 3 bis 16 Zeichen lang sein.',
       ko: '이름에는 공백없이 a-Z와 0-9의 문자 만 사용할 수 있습니다. 최대 16 자.',
       tr: 'İsminiz boşluk bırakmadan, en az 3 ve en fazla 16 karakter barındıracak şekilde, yalnızca a-Z karakterlerini ve 0-9 arasındaki sayıları içerebilir.',
       nl: 'Uw naam kan alleen de letters a-Z bevatten, en cijfers 0-9, zonder spaties. Tussen 3 en 16 tekens.',
