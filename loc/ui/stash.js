@@ -35,7 +35,8 @@ export default {
 
   deposit: {
     en: 'Deposit',
-    pl: 'Depozyt'
+    pl: 'Depozyt',
+    de: 'Hinterlegen'
   },
 
   // Do not translate "Stash".
