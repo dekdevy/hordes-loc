@@ -31,7 +31,7 @@ export default {
   },
   clanMemberApply: {
     en: '$1 has applied to join your clan.',
-    de: '$1 hat sich bei deinem Clan beworben',
+    de: '$1 hat sich bei deinem Clan beworben.',
     ru: 'Игрок $1 подал заявку на вступление в ваш клан.',
     es: '$1 ha solicitado entrar a tu clan.',
     pt: '$1 solicitou para entrar no teu clã.',
@@ -71,7 +71,7 @@ export default {
   },
   clanKickYou: {
     en: 'You were kicked from your clan.',
-    de: 'Du wurdest aus deinem Clan geworfen',
+    de: 'Du wurdest aus deinem Clan geworfen.',
     ru: 'Вы были исключены из вашего клана.',
     es: 'Ha sido expulsado del clan.',
     pt: 'Você foi expulso do clã.',
@@ -101,7 +101,7 @@ export default {
   },
   partyMemberLeave: {
     en: '$1 has left your party.',
-    de: '$1 hat deine Party verlassen',
+    de: '$1 hat deine Party verlassen.',
     ru: 'Игрок $1 вышел из Party.',
     es: '$1 ha abandonado tu party.',
     pt: '$1 saiu da sua party.',
