@@ -35,7 +35,7 @@ export default [
       en: 'This leather armor is a common choice for traveling adventurers. The trend of wearing leather jerkins originated around Yggdrasil when dangerous creatures began to lurk in the nearby jungles.',
       hu: 'Ez a bőrvért a nagy utazók legnagyobb kedveltje. A használatuk akkor terjedt el, amikor a Yggdrasil körüli esőerdőkbe veszedelmes bestiák áramlottak be.',
       ru: 'Эта коженая броня является общим выбором для путешественников. Тенденция ношения козлиной кожи возникла вокруг Yggdrasil, когда в близлежащих джунглях начали таиться опасные существа.',
-      de: 'Diese Lederrüstung ist eine beliebte Wahl für reisende Abenteurer. Der Trend zum Tragen von Leder-Rucksäcken entstand um Yggdrasil herum, als gefährliche Kreaturen im nahen Dschungel zu lauern begannen.'
+      de: 'Diese Lederrüstung ist eine beliebte Wahl für reisende Abenteurer. Der Trend zum Tragen von Leder-Rucksäcken entstand um Yggdrasil herum, als gefährliche Kreaturen im nahen Dschungel zu lauerten.'
     }
   },
 
@@ -45,7 +45,7 @@ export default [
       en: 'This armor is made of monster scales that were found on the ground. Monster scales are often crafted into respectable armor whenever metal is in short supply.',
       hu: 'Ezt a páncélt pikkelyek alkotják, amik vérmes szörnyetegekről estek a földre. A pikkelyeket gyakran gyűjtik páncélba, fémszegénység idején.',
       ru: 'Эта броня сделана из чешуек монстров, которые были найдены на земле. Чешуя монстров часто изготавливается в респектабельные доспехи, когда не хватает металла.',
-      de: 'Diese Rüstung besteht aus Monsterschuppen, die auf dem Boden gefunden wurden. Monsterschuppen werden oft in respektable Rüstungen gefertig, wenn Metall knapp ist.'
+      de: 'Diese Rüstung besteht aus Monsterschuppen, die auf dem Boden gefunden wurden. Monsterschuppen werden oft zu respektable Rüstungen gefertig, wenn Metall knapp ist.'
     }
   },
 
@@ -55,7 +55,7 @@ export default [
       en: 'Light Elvish metals are used to create divine chainmails. Old legends say that the first sky mails were originally created from discarded armor pieces once worn by divine creatures.',
       hu: 'A könnyű Elf fémek áldott láncingek kovácsolására kiválóan alkalmasak. Egyesek szerint az első áldott ingek eredetileg szentek eldobott páncélszilánkjaiból álltak.',
       ru: 'Легкие эльфийские металлы используются для создания божественных кольчуг. Старые легенды гласят, что первые небесные кольчуги изначально создавались из частей брони, которые когда-то носили божественные создания.',
-      de: 'Leichte elfische Metalle werden verwendet, um göttliche Kettenhemden zu erzeugen. Alte Legenden sagen, dass die ersten Himmelhemden ursprünglich aus weggeworfenen Rüstungsteilen entstanden sind, die früher von göttlichen Kreaturen getragen wurden.'
+      de: 'Leichte elfische Metalle werden verwendet, um göttliche Kettenhemden herzustellen. Alte Legenden sagen, dass die ersten Sky Hemds ursprünglich aus weggeworfenen Rüstungsteilen entstanden sind, die früher von göttlichen Kreaturen getragen wurden.'
     }
   },
 
@@ -65,7 +65,7 @@ export default [
       en: 'This cloak summons small shadows that envelop the wearer during battle to enhance protection. Cloaks such as these are crafted with strange shadow magic and then alchemically enhanced in secret ways.',
       hu: 'Ez a köpeny kis árnyakat varázsol elő, amik elfedik a viselőjét, hogy megvédjék a csatákban. Ilyen köpönyegek különös árnyékmágiával készülnek, azután pedig titkos alkímiával bűvölik el őket.',
       ru: 'Этот плащ вызывает небольшие тени, которые окружают хозяйна во время боя, чтобы усилить защиту. Такие плащи создаются с помощью странной теневой магии, а затем тайно обогащаются алхимическим путем.',
-      de: 'Dieser Umhang beschwört kleine Schatten, die den Träger im Kampf umgeben, um den Schutz zu erhöhen. Solche Mäntel werden mit seltsamer Schattenmagie gefertigt und anschließend auf geheimnisvolle Weise alchemistisch aufgewertet.'
+      de: 'Dieser Umhang beschwört kleine Schatten, welche den Träger im Kampf umgeben, um den Schutz zu erhöhen. Solche Mäntel werden mit sonderbarer Schattenmagie gefertigt und anschließend auf geheimnisvolle Weise alchemistisch aufgewertet.'
     }
   },
 
@@ -95,7 +95,7 @@ export default [
       en: 'Ancient legends say that each Soulkeeper armor harbors a soul that willingly sacrificed itself to enhance the armor’s protective power. In harder times, individuals made great sacrifices to ensure the survival of their clans and families.',
       hu: 'Az Ősi Legendák szerint a Lélekőrző páncél magához vonzza a lelket, amely feláldozta magát, hogy megnövelje a vért erejét. Nehéz időkben sokan ezt az áldozatot hozták, hogy biztosítsák klánjuk, törzsük, vagy családjuk túlélését.',
       ru: 'Древние легенды гласят, что в каждом доспехе хранится душа, которая добровольно пожертвовала собой, чтобы усилить защитную силу доспеха. В более трудные времена люди идут на большие жертвы, чтобы обеспечить выживание своих кланов и семей.',
-      de: 'Alte Legenden sagen, dass jede Seelenhüterrüstung eine Seele beherbergt, die sich bereitwillig geopfert hat, um die Schutzfunktion der Rüstung zu verstärken. In schwierigeren Zeiten brachten Einzelpersonen große Opfer dar, um das Überleben ihrer Stämme und Familien zu sichern.'
+      de: 'Alte Legenden sagen, dass jede Soulkeeper-Rüstung eine Seele beherbergt, die sich bereitwillig geopfert hat, um die Schutzfunktion der Rüstung zu verstärken. In schwierigeren Zeiten brachten Einzelne große Opfer dar, um das Überleben ihrer Stämme und Familien zu sichern.'
     }
   },
 
@@ -105,7 +105,7 @@ export default [
       en: 'Deathless armors were created by the first kings and leaders as a means to prevent mortal wounds during the First Great War. True to the legend, those kings and leaders did not perish in battle; instead, they were each assassinated in their sleep and their armors were stolen. The forging techniques were lost to time, but massive fortunes were clearly necessary for the process.',
       hu: 'Ezek a vértek ősi császárok készíttették kovácsaikkal, hogy megvédjék magukat a halandó sebektől a Nagy Háború során. A legenda szerint, azok az uralkodók nem harcban estek el; az ágyukban ölték meg őket bérgyilkosok, akik lehúzták róluk előtte a vértet. A kovácsolási módszer ismeretlen, de annyi bizonyos, hogy óriási vagyon volt szügséges hozzá.',
       ru: 'Такие доспехи были созданы первыми царями и вождями, чтобы предотвратить смертельные ранения во время "The First Great War". По преданию легенды, эти цари и вожди не погибли в бою, а были убиты во сне, и их доспехи были украдены. Методы ковки были потеряны со временем, но для этого процесса явно требовались огромные силы и жертвы.',
-      de: 'Die unsterblichen Rüstungen wurden von den ersten Königen und Anführern geschaffen, um tödliche Wunden während des Ersten Weltkriegs zu verhindern. Der Legende nach starben diese Könige und Anführer nicht im Kampf, sondern wurden jeweils im Schlaf ermordet und ihre Rüstungen gestohlen. Die Schmiedetechniken gingen mit der Zeit verloren, aber ein riesiges Vermögen war für den Herstellungsprozess offensichtlich notwendig.'
+      de: 'Die Deathless-Rüstungen wurden von den ersten Königen und Anführern geschaffen, um tödliche Wunden während des ersten großen Krieg zu heilen. Der Legende nach starben diese Könige und Anführer nicht im Kampf, sondern wurden jeweils im Schlaf ermordet und ihrer Rüstungen bestohlen. Die Schmiedetechniken gingen mit der Zeit verloren, aber ein riesiges Vermögen war für den Herstellungsprozess offensichtlich notwendig.'
     }
   }
 
