@@ -102,7 +102,7 @@ export default [
     name       : {$$: 'Infernal Staff' },
     description: {
       en: 'This staff is made of Underwood that underwent a magical tempering process using Underworld Flames. Although the staffs were undoubtedly crafted by mortal hands, the method to obtain Underworld Flames seems to be a secret lost to time.',
-      pl: 'Laska ta wykonana jest z Podszycia, które przeszło magiczny proces utwardzania przy użyciu Płomieni Podziemia. Chociaż laska została bez wątpienia wykonana przez śmiertelne ręce, metoda zdobywania Płomieni Podziemia wydaje się być tajemnicą zagubioną w czasie.',
+      pl: 'Laska ta wykonana jest z Podszycia, które przeszło magiczny proces utwardzania przy użyciu Płomieni Podziemia. Chociaż laska została bez wątpienia wykonana przez śmiertelne ręce, metoda zdobywania Płomieni Podziemia wydaje się być tajemnicą zagubioną w czasie.'
     }
   },
 
