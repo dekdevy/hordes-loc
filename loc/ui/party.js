@@ -178,7 +178,7 @@ export default {
     es: 'Promover a Assistant',
     tr: 'Assistant\'a Terfi Ettir',
     hu: 'Előléptetés Assistanttá',
-    de: 'Zu Assistant ernennen',
+    de: 'Zum Assistant befördern',
     pl: 'Promuj na Assistant.'
   },
 
@@ -190,7 +190,7 @@ export default {
     es: 'Promover a Leader',
     tr: 'Leader\'e Terfi Ettir',
     hu: 'Előléptetés Leaderré',
-    de: 'Zu Leader ernennen',
+    de: 'Zum Leader befördern',
     pl: 'Promuj na Leader'
   },
 
@@ -202,7 +202,7 @@ export default {
     es: 'Remover Assistant',
     tr: 'Assistant\'lıktan Çıkar',
     hu: 'Assistant Visszabuktatása',
-    de: 'Assistant degradieren.',
+    de: 'Assistant degradieren',
     pl: 'Degraduj na Assistant'
   },
 
