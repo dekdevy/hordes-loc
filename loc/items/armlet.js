@@ -6,7 +6,8 @@ export default [
       hu: 'Ezek a csuklóvédők bőrszalagok, melyek egyetlen csíkba lettek tekerve.',
       ru: 'Эти браслеты сделаны из кожаных полосок, которые были завернуты в простую форму',
       fr: 'Ces bracelets sont des lanières de cuir qui sont enveloppées dans une formation simple.',
-      es: 'Estas pulseras son de tiras de cuero que están envueltas en una formación simple.'
+      es: 'Estas pulseras son de tiras de cuero que están envueltas en una formación simple.',
+      de: 'Diese Armbänder sind Lederstreifen, die in einer einfachen Anordnung gewickelt sind.'
     }
   },
 
@@ -17,7 +18,8 @@ export default [
       hu: 'Ezeket a karvédőket sietve készítették. A durva küzdelem jelei a bőrön nem éppen az előző tulajdonos túléléséről árulkodnak.',
       ru: 'Эти браслеты были созданы поспешно. Грубая боевая разметка по бокам кожи не внушает уверенности в выживании предыдущего владельца.',
       fr: 'Ces brassards ont été créés à la va-vite. Les marques de combat rugueuses sur les côtés du cuir n\'inspirent pas confiance en la survie de l\'ancien propriétaire.',
-      es: 'Estos brazaletes fueron creados precipitadamente. Las marcas de las brutales batallas a los costados del cuero no inspiran confianza de la supervivencia de su dueño anterior.'
+      es: 'Estos brazaletes fueron creados precipitadamente. Las marcas de las brutales batallas a los costados del cuero no inspiran confianza de la supervivencia de su dueño anterior.',
+      de: 'Diese Armbänder wurden in kürzester Zeit erstellt. Die rauen Schlachtmarkierungen an den Seiten des Leders wecken kein Vertrauen in das Überleben des Vorbesitzers.'
     }
   },
 
@@ -29,7 +31,8 @@ export default [
       hu: 'A cserzett bőrt fáradtságos munkával formálták alkarvédőkké. A páncél oldalán ott a bőrműves névjegye: "Markay\'ak".',
       ru: 'Жесткая кожа была тщательно обработана в виде тонких браслетов. На боковой стороне кожи стоит подпись ремесленника: "Markay\'ak"',
       fr: 'Le cuir robuste a été méticuleusement travaillé pour en faire des bracelets de qualité. Sur le côté du cuir se trouve la signature de l\'artisan : "Markay\'ak".',
-      es: 'Cuero resistente que ha sido cuidadosamente hecho a mano en finos brazaletes. Al costado del cuero está la firma del artesano: "Markay\'ak".'
+      es: 'Cuero resistente que ha sido cuidadosamente hecho a mano en finos brazaletes. Al costado del cuero está la firma del artesano: "Markay\'ak".',
+      de: 'Strapazierfähiges Leder wurde sorgfältig zu feinen Armbändern verarbeitet. Auf der Seite des Leders befindet sich die Handschrift des Handwerkers: "Markay\'ak".'
     }
   },
 
@@ -40,7 +43,8 @@ export default [
       hu: 'Ez a fajta csuklóvédő díszesen faragott, vastag csontokból áll. A babonás népek úgy hiszik, ilyen csuklóvértek viselője bírni fog az elpusztított bestia erejével; mások úgy vélik, a csontok felhasználása megakadályozza a szörnyeteget újjászületésében.',
       ru: 'Такой тип браслета сделан из толстых костей, принадлежащих мертвым монстрам. Многие суеверные традиции утверждают, что обладатель таких браслетов пронизан властью умершего монстра, однако другие утверждают, что повторное использование костей предотвращает воскрешение монстров.',
       fr: 'Ce type de bracelet est orné d\'os de monstres épais. De nombreuses traditions superstitieuses prétendent que le porteur de ces bracelets s\'imprègne du pouvoir du monstre décédé ; cependant, d\'autres prétendent que la réutilisation des os empêche les monstres de ressusciter.',
-      es: 'Este tipo de brazalete está adornado a mano con huesos gruesos de monstruo. Muchas tradiciones supersticiosas afirman que el portador de dichos brazaletes se impregnará con el poder del monstruo fallecido; Sin embargo, otros afirman que la reutilización de huesos impide que los monstruos resuciten.'
+      es: 'Este tipo de brazalete está adornado a mano con huesos gruesos de monstruo. Muchas tradiciones supersticiosas afirman que el portador de dichos brazaletes se impregnará con el poder del monstruo fallecido; Sin embargo, otros afirman que la reutilización de huesos impide que los monstruos resuciten.',
+      de: 'Diese Art von Armband ist kunstvoll mit dicken Monsterknochen verziert. Viele abergläubische Traditionen behaupten, dass der Träger solcher Armbänder von der Macht des verstorbenen Monsters durchdrungen wird. Andere behaupten jedoch, dass die Wiederverwendung von Knochen das Wiederaufleben von Monstern verhindert.'
     }
   },
 
@@ -51,7 +55,8 @@ export default [
       hu: 'Ez a fajta alkarvért messze elterjedt a háborúban, és ez hírnevet is csinált neki. A karomnyomok többnyire felszínesek a vason.',
       ru: 'Такой тип железных доспехов широко использовался на войне и остается грязным. Следы от когтей на металле, кажется, в основном поверхностные.',
       fr: 'Ce type d\'armure de fer a été très utilisé en temps de guerre et reste encrassé. Les marques de griffes sur le métal semblent être superficielles.',
-      es: 'Este tipo de armadura de hierro ha sido usada mucho en guerra y permanece sucia. La marcas de garras en el metal parecen ser mayoritariamente superficial.'
+      es: 'Este tipo de armadura de hierro ha sido usada mucho en guerra y permanece sucia. La marcas de garras en el metal parecen ser mayoritariamente superficial.',
+      de: 'Diese Art von Eisenrüstung wurde im Krieg häufig verwendet und ist bis heute schmutzig. Die Kratzer auf dem Metall scheinen meist oberflächlich zu sein.'
     }
   },
 
@@ -62,7 +67,8 @@ export default [
       hu: 'Az acél vértek rúnákkal vannak ellátva a teljes védelemért. Ilyen elbűvölt alkarvédők elég ritkák lettek, amióta a rúnák titkát elfeledték.',
       ru: 'Эти стальные браслеты отмечены мелкими рунами, которые обеспечивают дополнительную защиту. Такие браслеты встречаются редко, так как метод создания рун является секретным.',
       fr: 'Ces brassards en acier sont marqués de petites runes qui leur confèrent une protection supplémentaire. Les brassard imprégnés sont quelque peu rares puisque la méthode de création des runes est un secret.',
-      es: 'Estos brazales de acero están marcados con pequeñas runas que imbuyen protección adicional. Los brazales imbuidos son algo raros ya que el método de creación de las runas es un secreto.'
+      es: 'Estos brazales de acero están marcados con pequeñas runas que imbuyen protección adicional. Los brazales imbuidos son algo raros ya que el método de creación de las runas es un secreto.',
+      de: 'Diese Stahlarmschienen sind mit kleinen Runen versehen, die zusätzlichen Schutz bieten. Eingebettete Armschienen sind etwas seltener, da die Erstellungsmethode der Runen ein Geheimnis ist.'
     }
   },
 
