@@ -41,7 +41,7 @@ export default [
       en: 'Longswords are primarily identified by their longer grip rather than the longer blade. Bladesmiths have used a variety of materials and levels of skill, producing a wide variety of results.',
       de: 'Langschwerter erkennt man primär an ihrem längeren Griff. Schwertschmiede unterschiedlicher Fähigkeiten nutzen eine große Anzahl verschiedener Materialien zur Herstellung, was zu sehr unterschiedlichen Ergebnissen führt.',
       pl: 'Długie miecze są przede wszystkim rozpoznawane przez ich dłuższy chwyt, a nie przez dłuższe ostrze. Kowale stosowali różnorodne materiały i poziomy umiejętności, co skutkowało różnorodnymi rezultatami.'
-}
+    }
   },
   {
     name       : {$$: 'Gladius' },
@@ -57,7 +57,7 @@ export default [
       en: 'This massive sword is designed to increase damage potential specifically for war. An adventurer that wears or uses a weapon such as this leaves no doubt about their goals and profession.',
       de: 'Dieses riesige Schwert wurde speziell für den Krieg und hohen möglichen Schaden entwickelt. Ein Abenteurer, der eine solche Waffe nutzt lässt keine Zweifel an seiner Absicht oder seinem Beruf.',
       pl: 'Ten potężny miecz został zaprojektowany w celu zwiększenia potencjału zadawania obrażeń podczas wojny. Poszukiwacz przygód, który nosi lub używa takiej broni, nie pozostawia wątpliwości co do swoich celów i zawodu.'
-}
+    }
   },
 
   {
