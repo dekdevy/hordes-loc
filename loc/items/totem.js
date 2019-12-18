@@ -50,7 +50,7 @@ export default [
       en: 'This is one of the many magical crickets that were once owned by the emperors and empresses of Tiger\'s Teeth. To ward against assassinations, magical crickets enhanced the supernatural power of the royalty that carried them.',
       de: 'Dies ist eine der vielen magischen Grillen, die einst den Kaisern von Tiger\'s Teeth gehörten. Um gegen Attentate vorzugehen, verstärkten magische Grillen die übernatürliche Macht des Herrschers, der sie trug.',
       pl: 'Jest to jeden z wielu magicznych świerszczy, które niegdyś były własnością cesarzy i imperiów Zębów Tygrysa. Aby przeciwdziałać zabójstwom, magiczne świerszcze zwiększały nadnaturalną moc królewskiej rodziny, która je niosła.'
-         }
+    }
   },
 
   {
