@@ -79,7 +79,8 @@ export default [
       hu: 'Ezek a csuklóvértek egy ritka tűzzel lettek kovácsolva, mégpedig mágia segítségével. Régen a tűz elem szellemei csak kevés kiválasztottat avattak be a borostyánkő titkaiba.',
       ru: 'Эти браслеты были выкованы специальным огнем, который может быть создан только с помощью магии. В прошлом, огненные элементали научили только нескольких кузнецов секрету изготовления этих браслетов.',
       fr: 'Ces menottes ont été forgées avec un feu spécial qui ne peut être créé que par magie. Autrefois, les élémentaires de feu n\'enseignaient qu\'à quelques forgerons spéciaux le secret de la forge des menottes de braise.',
-      es: 'Estas esposas fueron forjadas con un fuego especial que solo pueden ser creados a través de magia. En el pasado, los elementales de fuego solo enseñaban a unos pocos herreros especiales el secreto de forjar esposas de ascuas.'
+      es: 'Estas esposas fueron forjadas con un fuego especial que solo pueden ser creados a través de magia. En el pasado, los elementales de fuego solo enseñaban a unos pocos herreros especiales el secreto de forjar esposas de ascuas.',
+      de: 'Diese Manschetten wurden mit einem speziellen Feuer geschmiedet, das nur durch Magie erzeugt werden kann. In der Vergangenheit lehrten Feuerelementarier nur wenige spezielle Schmiede das Geheimnis des Schmiedens von Glimmerfesseln.'
     }
   },
 
@@ -90,7 +91,8 @@ export default [
       hu: 'A tükrözött karvérteket különleges képességű kovácsok készítették, akik képesek voltak a támadást visszaverő acél létrehozására. Ez a védelem sok Elf varázslót arra késztetett, hogy kísérletezzenek a tükrös karvértekkel.',
       ru: 'Зеркальные браслеты изготавливаются чрезвычайно опытными кузнецами, обладающими навыками, необходимыми для изготовления брони для снижения урона. Это защитное качество вдохновило многих эльфийских волшебников часто экспериментировать на зеркальных браслетах.',
       fr: 'Les bracelets en miroir sont fabriqués par des forgerons exceptionnels possédant les compétences nécessaires pour fabriquer des armures réfléchissantes pour réduire les dégâts. Cette qualité protectrice a inspiré de nombreux sorciers Elfiques à expérimenter souvent sur des bracelets en miroir.',
-      es: 'Los brazaletes espejados están hechos por herreros excepcionales con las habilidades necesarias para hacer armadura reflectante para reducir del daño. Esta cualidad protectora inspiró a muchos magos élficos a experimentar a menudo en brazaletes espejados.'
+      es: 'Los brazaletes espejados están hechos por herreros excepcionales con las habilidades necesarias para hacer armadura reflectante para reducir del daño. Esta cualidad protectora inspiró a muchos magos élficos a experimentar a menudo en brazaletes espejados.',
+      de: 'Gespiegelte Armbänder werden von ausgezeichneten Schmieden hergestellt, die über die notwendigen Fähigkeiten verfügen reflektierende Rüstungen zur Schadensreduzierung herzustellen. Diese schützende Eigenschaft inspirierte viele elfische Zauberer dazu, oft an verspiegelten Armbändern zu experimentieren.'
     }
   },
 
@@ -101,7 +103,8 @@ export default [
       hu: 'A Gólem szilánkok fáradságosan lettek összeillesztve egy mágus-kovács csoport által. Minden párját ezeknek a csuklóvédőknek napok százain át készítették kőgólemek holttesteiből.',
       ru: 'Фрагменты големов тщательно собираются небольшой группой кузнецов, использующих магию. Каждая пара фрагментов голема изготавливается в течение нескольких сотен дней с использованием шелухи големов.',
       fr: 'Les fragments de Golem sont minutieusement assemblés par une petite équipe de forgerons magiciens. Chaque paire de fragments de golem est fabriquée sur plusieurs centaines de jours à l\'aide de coques de golems de roche.',
-      es: 'Los fragmentos de golem están cuidadosamente ensamblados por un pequeño equipo de herreros que usan magia. Cada par de fragmentos de golems son elaborados durante cientos de días usando la cascara de los golems de roca.'
+      es: 'Los fragmentos de golem están cuidadosamente ensamblados por un pequeño equipo de herreros que usan magia. Cada par de fragmentos de golems son elaborados durante cientos de días usando la cascara de los golems de roca.',
+      de: 'Golem-Fragmente werden von einem kleinen Team von Magie-Schmieden sorgfältig zusammengestellt. Jedes Paar von Golem-Fragmenten wird über mehrere hundert Tage hinweg aus den Schalen von Felsengolems hergestellt.'
     }
   },
 
@@ -112,7 +115,8 @@ export default [
       hu: 'A csuklóvértek mint ezek egy ritka hegyi fémet tartalmaznak. A kovácsok bűvölt kalapáccsal hozzák létre őket hevítés nélkül, hogy megőrizzék a fém csodálatos képességeit.',
       ru: 'Такие браслеты состоят из редкого металла, встречающегося в горах. Кузнецы используют заколдованные молотки для ковки браслетов без нагрева, чтобы сохранить магические свойства металла.',
       fr: 'De tels brassard sont composés d\'un métal rare que l\'on trouve dans les montagnes. Les forgerons utilisent des marteaux enchanteurs pour forger les brassards sans chaleur afin de conserver les propriétés magiques du métal.',
-      es: 'Los brazaletes como este se componen de un metal raro que se encuentra en las montañas. Los herreros usan martillos encantados para forjar los brazaletes sin calor para retener las propiedades mágicas del metal.'
+      es: 'Los brazaletes como este se componen de un metal raro que se encuentra en las montañas. Los herreros usan martillos encantados para forjar los brazaletes sin calor para retener las propiedades mágicas del metal.',
+      de: 'Solche Armschienen bestehen aus einem seltenen Metall, das in den Bergen gefunden wird. Schmiede verwenden verzauberte Hämmer, mit denen sie die Armschienen ohne Hitze schmieden, um die magieverstärkenden Eigenschaften des Metalls zu erhalten.'
     }
   },
 
@@ -123,7 +127,8 @@ export default [
       hu: 'Ezeket a karvédőket fekete meteorkövekből kalapálták ki. Eddig a legnagyobb mennyiségben fekete meteoritot azután a kataklizma után találtak, ami a Második Nagy Háborút követte.',
       ru: 'Эти браслеты были созданы кузнецами, которые ковали металл, найденный в черных метеоритах. До сих пор наибольшая концентрация черных метеоритов была обнаружена после катаклизма, последовавшего за "The Second Great War".',
       fr: 'Ces brassards ont été créés par des forgerons qui martelaient le métal trouvé dans les météorites noires. Jusqu\'à présent, la plus grande concentration de météorites noires a été trouvée après un cataclysme qui a suivi la Seconde Grande Guerre.',
-      es: 'Estos brazaletes fueron creados por herreros que martillaron metales encontrados en meteoritos negros. Hasta ahora, la mayor concentración de meteoritos negros se encontró despues de un cataclismo que desencadenó en la Segunda Gran Guerra.'
+      es: 'Estos brazaletes fueron creados por herreros que martillaron metales encontrados en meteoritos negros. Hasta ahora, la mayor concentración de meteoritos negros se encontró despues de un cataclismo que desencadenó en la Segunda Gran Guerra.',
+      de: 'Diese Armschienen wurden von Schmieden hergestellt, die Metall aus schwarzen Meteoriten verwendeten. Die bisher größte Konzentration an schwarzen Meteoriten wurde in der Folgezeit einer Katastrophe nach dem Zweiten Weltkrieg gefunden.'
     }
   },
 
@@ -134,7 +139,8 @@ export default [
       hu: 'Nagyravágyástól az őrületbe vezetett varázslók fedezték fel a dimenzionális mágiát, és formáltak vértet, amely túllép bármely elképzelhető védelmen. Egy különös formára volt szükség, hogy fenntartsák ezt a képességet.',
       ru: 'Амбициозные волшебники на грани безумия открыли для себя секреты размерной магии и сформировали браслеты, выходящие за рамки обычной магической защиты. Эти ненормальные браслеты требовали специальной формы для поддержания своих свойств.',
       fr: 'Des sorciers ambitieux au bord de la folie ont découvert les secrets de la magie dimensionnelle et ont formé des brassards qui transcendent la protection magique normale. Ces brassards anormaux nécessitaient une forme spéciale pour conserver leurs propriétés.',
-      es: 'Los magos ambiciosos al borde de la locura descubrieron secretos de la magia dimencional y formaron brazaletes que trascienden la protección de magia normal. Estos brazaletes anormales requieren una forma especial para mantener sus propiedades.'
+      es: 'Los magos ambiciosos al borde de la locura descubrieron secretos de la magia dimencional y formaron brazaletes que trascienden la protección de magia normal. Estos brazaletes anormales requieren una forma especial para mantener sus propiedades.',
+      de: 'Ambitionierte Zauberer am Rande des Wahnsinns entdeckten Geheimnisse der Dimensionsmagie und formten Armschienen, die über den normalen magischen Schutz hinausgehen. Diese unnatürlichen Armschienen erforderten eine spezielle Form, um ihre Eigenschaften zu erhalten.'
     }
   },
 
@@ -145,7 +151,8 @@ export default [
       hu: 'A Legendák szerint ott tűnnek föl ezek, ahol védelmezőre van szükség. Ám a történelem bebizonyította, hogy iszonyatos tragédiák következnek be, ha ilyet találnak. Így hát a feltűnésüket gyakran rossz előjelként látják.',
       ru: 'Некоторые легенды гласят, что эти браслеты появляются только тогда, когда королевства нуждаются в страже. История показывает, что ужасные трагедии происходят вскоре после этого, когда эти браслеты обнаруживаются; как таковое, их появление часто рассматривается как плохое предзнаменование.',
       fr: 'Certaines légendes disent que ces brassards n\'apparaissent que lorsque les royaumes ont besoin d\'un gardien. L\'histoire montre que de terribles tragédies surviennent peu de temps après chaque fois que l\'on découvre ces brassards ; en tant que tel, leurs apparences sont souvent considérées comme de mauvais présages.',
-      es: 'Algunas leyendas dicen que estos brazaletes solo aparecen cuando el reino necesita un guardian. La historia demuestra que terribles tragedias ocurren poco despues cuando estos brazaletes son encontrados; Como tal, sus apariciones a menudo se concideran malos presagios.'
+      es: 'Algunas leyendas dicen que estos brazaletes solo aparecen cuando el reino necesita un guardian. La historia demuestra que terribles tragedias ocurren poco despues cuando estos brazaletes son encontrados; Como tal, sus apariciones a menudo se concideran malos presagios.',
+      de: 'Einige Legenden sagen, dass diese Armschienen nur dann erscheinen, wenn die Königreiche einen Wächter brauchen. Die Geschichte zeigt, dass sich kurz darauf bei der Entdeckung dieser Armschienen schreckliche Tragödien ereignen. So werden ihre Erscheinungen oft als schlechte Omen angesehen.'
     }
   }
 
