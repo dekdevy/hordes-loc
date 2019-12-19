@@ -321,8 +321,7 @@ export default {
       hu: 'Gyógyításcsökkentés',
       ru: 'Снижение восст. HP',
       es: 'Reducción de cura',
-      pl: 'Ograniczenie leczenia',
-      de: 'Heilungsreduzierung'
+      pl: 'Ograniczenie leczenia'
     }
   ]
 }
