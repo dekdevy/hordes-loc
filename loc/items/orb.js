@@ -66,7 +66,7 @@ export default [
       en: 'Objects like this were created from meteorites and misused as holy symbols. Although they are no longer used as holy symbols, Baetylus’s Eyes radiate substantial magical power.',
       hu: 'Az ehhez hasonló eszközök meteoritokból származnak, és egykor ereklyeképp tisztelték őket. Bár mára nem díszítik falusi templomok oltárait, Betíleusz Szeme emberfeletti erőt sugároz.',
       ru: 'Подобные объекты были созданы из метеоритов и использовались как священные символы. Хотя они больше не используются в качестве священных символов, Baetylus\'s Eyes излучают значительную магическую силу.',
-      de: 'Solche Gegenstände wurden aus Meteoriten erschaffen und als heilige Symbole missbraucht. Obwohl sie nicht mehr als heilige Symbole verwendet werden, strahlen Baetylus' Augen eine enorme magische Kraft aus.'
+      de: 'Solche Gegenstände wurden aus Meteoriten erschaffen und als heilige Symbole missbraucht. Obwohl sie nicht mehr als heilige Symbole verwendet werden, strahlen Baetylus Augen eine enorme magische Kraft aus.'
     }
   },
 
