@@ -45,7 +45,7 @@ export default {
       hu: 'Vitalitás',
       zh: '耐力',
       pl: 'Stamina',
-      de: 'Stamina' // might be Ausdauer instead. Not sure how its used in-game
+      de: 'Ausdauer'
     },
 
     {
@@ -57,7 +57,7 @@ export default {
       tr: 'Çeviklik',
       hu: 'Fürgeség',
       zh: '靈巧',
-      de: 'Flinkheit',
+      de: 'Geschick',
       pl: 'Zręczność'
     },
 
@@ -125,8 +125,8 @@ export default {
       tr: 'Min Hasar',
       hu: 'Min. Sebz.',
       zh: '最少傷害',
-      pl: 'Min. Obr.'
-      // de: 'Min. Schaden'
+      pl: 'Min. Obr.',
+      de: 'Min. Schaden'
     },
 
     {
@@ -138,8 +138,8 @@ export default {
       tr: 'Max Hasar',
       hu: 'Max. Sebz.',
       zh: '最大傷害',
-      pl: 'Max. Obr.'
-      // de: 'Max. Schaden'
+      pl: 'Max. Obr.',
+      de: 'Max. Schaden'
     },
 
     {
@@ -163,8 +163,8 @@ export default {
       tr: 'Blok',
       hu: 'Blokk',
       zh: '擋',
-      pl: 'Blok'
-      // de: 'Schutz'
+      pl: 'Blok',
+      de: 'Blocken'
       //es: 'Bloqueo'
 
     },
@@ -215,8 +215,8 @@ export default {
       pt: 'Rapidez Atq.',
       hu: 'Támadási Seb.',
       zh: '攻擊速度',
-      pl: 'Szybkość ataku'
-      // de: 'Angriffsgeschwindigkeit'
+      pl: 'Szybkość ataku',
+      de: 'Angriffsgeschwindigkeit'
     },
 
     {
@@ -238,14 +238,14 @@ export default {
       fr: 'Espace Sac',
       hu: 'Hátizsák',
       zh: '袋槽',
-      pl: 'Miejsce w ekw.'
-      // de: 'Taschenplätze'
+      pl: 'Miejsce w ekw.',
+      de: 'Taschenplätze'
       // es: 'Espacios de inventario'
     },
 
     {
       en: 'Fame',
-      de: 'Ruhm',
+      de: 'Ruf',
       ru: 'Слава',
       fr: 'Gloire',
       es: 'Fama',
@@ -299,7 +299,8 @@ export default {
       pt: '% Aggro Gerado',
       hu: '% Megnövelt Aggro Képzés',
       zh: '%增加挑衅',
-      pl: '% Zwiększone generowanie aggro.'
+      pl: '% Zwiększone generowanie aggro.',
+      de: '% erhöht Aggro Generierung' //better word for Aggro?
     },
 
     {
@@ -310,7 +311,8 @@ export default {
       pt: '% Redução de Velocidade',
       hu: '% Mozgási Seb. Csökkentés',
       zh: '%移動速度降低',
-      pl: '% Redukcja prędkości ruchu'
+      pl: '% Redukcja prędkości ruchu',
+      de: '% verminderte Laufgeschwindigkeit'
     },
 
     {
@@ -319,7 +321,8 @@ export default {
       hu: 'Gyógyításcsökkentés',
       ru: 'Снижение восст. HP',
       es: 'Reducción de cura',
-      pl: 'Ograniczenie leczenia'
+      pl: 'Ograniczenie leczenia',
+      de: 'Heilungsreduzierung'
     }
   ]
 }
