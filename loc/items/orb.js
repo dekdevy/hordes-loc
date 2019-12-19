@@ -96,7 +96,7 @@ export default [
       en: 'A lich’s phylactery contains the soul of a powerful undead creature. Older phylacteries come with powerful enchantments to protect the wearer — and the soul contained within.',
       hu: 'A Boszorkánymester fülaktériuma egy élőholt teremtmény lelkét őrzi magában. Az idősebb fülaktériumok erősebb varázserővel védik a viselőt, és a bezárt lelket egyaránt.',
       ru: 'Филактерия лича содержит душу могущественного существа-нежити. Старые филактерии обладают мощным завораживающим действием для защиты владельца и души, содержащейся в них.',
-      fr: 'Die Pflanzenzucht eines Lichs enthält die Seele einer mächtigen untoten Kreatur. Ältere Pflanzenarten haben mächtige Verzauberungen, um den Träger und die darin enthaltene Seele zu schützen.'
+      de: 'Die Pflanzenzucht eines Lichs enthält die Seele einer mächtigen untoten Kreatur. Ältere Pflanzenarten haben mächtige Verzauberungen, um den Träger und die darin enthaltene Seele zu schützen.'
     }
   }
 ]
