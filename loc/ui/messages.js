@@ -191,7 +191,7 @@ export default {
     es: 'Tu party ha parado la fila tipo: $1.',
     pl: 'Twoje party zakończyło kolejkowanie w typie: $1.'
   },
-  partyLootQueueResole: {
+  partyLootQueueResolve: {
     en: '$1 received item of $2% quality.'
   },
   auctionSold: {
