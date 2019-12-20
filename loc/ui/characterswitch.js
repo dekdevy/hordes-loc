@@ -3,6 +3,7 @@ export default {
   logout: {
     en: 'Log Out',
     ru: 'Выйти',
+    bg: 'Изход',
     hi: 'बाहर आए',
     es: 'Cerrar Sesión',
     de: 'Abmelden',
