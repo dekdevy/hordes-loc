@@ -3,6 +3,7 @@ export default {
   name: {
     en: 'Archer',
     ru: 'Лучник',
+    bg: 'Стрелец',
     es: 'Arquero',
     fr: 'Archer',
     ko: '궁수',
