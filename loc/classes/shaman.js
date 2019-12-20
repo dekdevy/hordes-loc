@@ -4,6 +4,7 @@ export default {
     en: 'Shaman',
     de: 'Schamane',
     ru: 'Шаман',
+    bg: 'Шаман',
     fr: 'Chaman',
     es: 'Chamán',
     ko: '샤먼',
