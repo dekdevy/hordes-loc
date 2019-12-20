@@ -3,6 +3,7 @@ export default {
   name: {
     en: 'Mage',
     ru: 'Маг',
+    bg: 'Магьосник'
     de: 'Magier',
     es: 'Mago',
     fr: 'Mage',
