@@ -5,7 +5,7 @@ export default [
     description: {
       en: 'A potion containing a red liquid, healing you as you drink it.',
       hu: 'Ez az üveg vörös folyadékot tartalmaz, ami enyhíti a fájdalmad.',
-      de: 'Ein Trank der eine rote Flüssigkeit enthält, die dich heilt.'
+      de: 'Ein kleiner Trank, der eine rote Flüssigkeit beinhaltet und dich heilt, während du ihn trinkst.'
     }
   },
   {
@@ -14,7 +14,7 @@ export default [
     description: {
       en: 'A potion containing a blue liquid, recovering mana as you drink it.',
       hu: 'Ez az üveg azúr folyadékot tartalmaz, ami felfrissíti a manádat.',
-      de: 'Ein Trank der eine blaue Flüssigkeit enthält, die Mana wiederherstellt.'
+      de: 'Ein kleiner Trank, der eine blaue Flüssigkeit beinhaltet und dein Mana wiederherstellt, während du ihn trinkst.'
     }
   },
   {
@@ -23,7 +23,7 @@ export default [
     description: {
       en: 'A potion containing a red liquid, healing you as you drink it.',
       hu: 'Ez az üveg vörös folyadékot tartalmaz, ami enyhíti a fájdalmad.',
-      de: 'Ein Trank der eine rote Flüssigkeit enthält, die dich heilt.'
+      de: 'Ein mittlerer Trank, der eine rote Flüssigkeit beinhaltet und dich heilt, während du ihn trinkst.'
     }
   },
   {
@@ -32,7 +32,7 @@ export default [
     description: {
       en: 'A potion containing a blue liquid, recovering mana as you drink it.',
       hu: 'Ez az üveg azúr folyadékot tartalmaz, ami felfrissíti a manádat.',
-      de: 'Ein Trank der eine blaue Flüssigkeit enthält, die Mana wiederherstellt.'
+      de: 'Ein mittlerer Trank, der eine blaue Flüssigkeit beinhaltet und dein Mana wiederherstellt, während du ihn trinkst.'
     }
   },
   {
@@ -41,7 +41,7 @@ export default [
     description: {
       en: 'A potion containing a red liquid, healing you as you drink it.',
       hu: 'Ez az üveg vörös folyadékot tartalmaz, ami enyhíti a fájdalmad.',
-      de: 'Ein Trank der eine rote Flüssigkeit enthält, die dich heilt.'
+      de: 'Ein großer Trank, der eine rote Flüssigkeit beinhaltet und dich heilt, während du ihn trinkst.'
     }
   },
   {
@@ -50,7 +50,7 @@ export default [
     description: {
       en: 'A potion containing a blue liquid, recovering mana as you drink it.',
       hu: 'Ez az üveg azúr folyadékot tartalmaz, ami felfrissíti a manádat.',
-      de: 'Ein Trank der eine blaue Flüssigkeit enthält, die Mana wiederherstellt.'
+      de: 'Ein großer Trank, der eine blaue Flüssigkeit beinhaltet und dein Mana wiederherstellt, während du ihn trinkst.'
     }
   }
 ]

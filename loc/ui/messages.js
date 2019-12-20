@@ -27,7 +27,8 @@ export default {
     pt: '$1 saiu do teu clã.',
     hu: '$1 elhagyta a klánodat.',
     fr: '$1 a quitté votre clan.',
-    pl: '$1 opuścił twój klan.'
+    pl: '$1 opuścił twój klan.',
+    zh: '$1 离开你的氏族.'
   },
   clanMemberApply: {
     en: '$1 has applied to join your clan.',
