@@ -1,6 +1,7 @@
 export default {
   // The class name
   name: {
+    bg: 'Стрелец',
     en: 'Archer',
     ru: 'Лучник',
     es: 'Arquero',
