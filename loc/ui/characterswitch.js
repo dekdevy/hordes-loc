@@ -22,6 +22,7 @@ export default {
   home: {
     en: 'Home',
     ru: 'Главная страница',
+    bg: 'Главна страница',
     hi: 'मुख्य स्क्रीन',
     es: 'Inicio',
     de: 'Startseite',
