@@ -1,7 +1,6 @@
 export default {
   // The class name
   name: {
-    bg: 'Стрелец',
     en: 'Archer',
     ru: 'Лучник',
     es: 'Arquero',
@@ -15,7 +14,8 @@ export default {
     ro: 'Arcaș',
     zh: '弓箭手',
     hu: 'Vadász',
-    pl: 'Łucznik'
+    pl: 'Łucznik',
+    bg: 'Стрелец'
   },
 
   // Class description, visible during character creation
