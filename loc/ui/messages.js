@@ -191,6 +191,10 @@ export default {
     es: 'Tu party ha parado la fila tipo: $1.',
     pl: 'Twoje party zakończyło kolejkowanie w typie: $1.'
   },
+  partyLootQueueResolve: {
+    en: '$1 received item of $2% quality.',
+    de: '$1 erhielt Item mit $2% Qualität.'
+  },
   auctionSold: {
     en: 'Your merchant auction has been sold and $g$1 has been sent to your Stash.',
     de: 'Dein Angebot im Auktionshaus wurde erfolgreich verkauft und $g$1 wurden in deinen Stash gelegt.',

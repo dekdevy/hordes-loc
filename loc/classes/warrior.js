@@ -4,6 +4,7 @@ export default {
     en: 'Warrior',
     de: 'Krieger',
     ru: 'Воин',
+    bg: 'Воин',
     es: 'Guerrero',
     fr: 'Guerrier',
     hi: 'योधा',
