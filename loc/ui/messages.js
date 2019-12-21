@@ -192,7 +192,7 @@ export default {
     pl: 'Twoje party zakończyło kolejkowanie w typie: $1.'
   },
   partyLootQueueResolve: {
-    en: '$1 received item of $2% quality.'
+    en: '$1 received $2 $3 $4.'
   },
   auctionSold: {
     en: 'Your merchant auction has been sold and $g$1 has been sent to your Stash.',
