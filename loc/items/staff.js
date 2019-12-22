@@ -63,6 +63,7 @@ export default [
     name       : {$$: 'Encrusted Rod' },
     description: {
       en: 'This rod is encrusted with gems that store magical power.',
+      ru: 'Эта палочка инкрустирована драгоценными камнями, хранящими магическую силу.',
       pl: 'Ta wędka jest inkrustowana klejnotami, które przechowują w sobie magiczną moc.',
       de: 'Dieser Stab ist mit Edelsteinen besetzt, die magische Kräfte speichern.'
     }
@@ -71,7 +72,8 @@ export default [
   {
     name       : {$$: 'Imbued Staff' },
     description: {
-      en: 'The etched runes on this staff faintly glow when spells are cast. Although several mage guilds clearly believe that the runes augment spell casting, the true nature of the runes is unknown.',
+      en: 'The etched runes on this staff faintly glow when spells are cast. Although several mage guilds clearly believe that the runes augment spell casting, the true nature of the runes is unknown.',,
+      ru: 'Выгравированные руны на этом посохе слабо светятся при произнесении заклинаний. Хотя некоторые гильдии магов ясно полагают, что руны усиливают заклинание, истинная природа рун неизвестна.',
       pl: 'Wytrawione runy na kiju świecą delikatnie, gdy rzucane są czary. Chociaż kilka gildii magów wierzy, że rzucanie zaklęć zwiększa siłę run, ich prawdziwa natura jest nieznana.',
       de: 'Die geätzten Runen auf diesem Stab leuchten schwach, wenn Zauber gewirkt werden. Obwohl mehrere Magiergilden eindeutig glauben, dass die Runen den Zauberwirkungsprozess verstärken, ist die wahre Natur der Runen unbekannt.'
     }
@@ -81,6 +83,7 @@ export default [
     name       : {$$: 'Emerald Staff' },
     description: {
       en: 'This staff uses an enchanted stone to channel and focus magical energies. The process of finding such a special emerald, along with the expensive enchanting process, makes this staff somewhat difficult to craft.',
+      ru: 'Этот посох использует волшебный камень, чтобы направить и сфокусировать магические энергии. Процесс поиска такого особенного изумруда, вместе с дорогим волшебным процессом, делает этот посох несколько сложным в изготовлении.',
       pl: 'Ten kostur używa zaczarowanego kamienia do ukierunkowywania i skupiania magicznych energii. Proces znajdowania takiego specjalnego szmaragdu, wraz z kosztownym procesem zaklęć, sprawia, że ten kostur jest skomplikowany do wytworzenia.',
       de: 'Dieser Stab verwendet einen verzauberten Stein, um magische Energien zu kanalisieren und zu bündeln. Der Weg einen so besonderen Smaragd zu finden und der teure Zauberprozess machen es schwierig, diesen Stab herzustellen.'
     }
@@ -99,6 +102,7 @@ export default [
     name       : {$$: 'Frozen Greatstaff' },
     description: {
       en: 'The Frozen Greatstaff is made by mortals with ice found only in the Underworld. Although the construction methods are flawed, the results can still be quite powerful.',
+      ru: 'Frozen Greatstaff сделан смертными со льдом, найденным только в Подземном мире. Несмотря на то, что методы строительства несовершенны, результаты все же могут быть весьма весомыми.',
       pl: 'Frozen Greatstaff jest wytwarzany przez śmiertelników z lodu, który występuje tylko w Zaświatach. Mimo, iż metody tworzenia pozostawiają wiele do życzenia, wyniki mogą być dość obiecujące.',
       de: 'Der gefrorene Großstab wurde von Sterblichen aus Eis hergestellt, welches nur in der Unterwelt zu finden ist. Auch wenn die Konstruktionsmethoden fehlerhaft sind, können die Ergebnisse dennoch recht überzeugend sein.'
     }
