@@ -72,7 +72,7 @@ export default [
   {
     name       : {$$: 'Imbued Staff' },
     description: {
-      en: 'The etched runes on this staff faintly glow when spells are cast. Although several mage guilds clearly believe that the runes augment spell casting, the true nature of the runes is unknown.',,
+      en: 'The etched runes on this staff faintly glow when spells are cast. Although several mage guilds clearly believe that the runes augment spell casting, the true nature of the runes is unknown.',
       ru: 'Выгравированные руны на этом посохе слабо светятся при произнесении заклинаний. Хотя некоторые гильдии магов ясно полагают, что руны усиливают заклинание, истинная природа рун неизвестна.',
       pl: 'Wytrawione runy na kiju świecą delikatnie, gdy rzucane są czary. Chociaż kilka gildii magów wierzy, że rzucanie zaklęć zwiększa siłę run, ich prawdziwa natura jest nieznana.',
       de: 'Die geätzten Runen auf diesem Stab leuchten schwach, wenn Zauber gewirkt werden. Obwohl mehrere Magiergilden eindeutig glauben, dass die Runen den Zauberwirkungsprozess verstärken, ist die wahre Natur der Runen unbekannt.'
