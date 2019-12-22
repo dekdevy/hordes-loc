@@ -92,9 +92,10 @@ export default [
   {
     name       : {$$: 'Sapphire Staff' },
     description: {
-      en: 'This staff is made of Dragonwood and uses stones that were originally dragon gifts. The residual traces of draconic power contained in the stones compound magic’s potency.',
+      en: 'This staff is made of Dragonwood and uses stones that were originally dragon gifts. The residual traces of draconic power contained in the stones compound magic\'s potency.',
+      ru: 'Этот посох изготовлен из Dragonwood и использует камни, которые изначально были подарками дракона. Остаточные следы драконовской силы, содержащиеся в камнях, соединяют магическую силу.',
       pl: 'Ta laska wykonana jest z Dragonwood i używa kamieni, które niegdyś były smoczymi prezentami. Resztki smoczej mocy zawarte w kamieniach potęgują moc magii użytkownika.',
-      de: 'Dieser Stab besteht aus Drachenholz und verwendet Steine, die ursprünglich Drachengeschenke waren. Die in den Steinen enthaltenen Spuren drakonischer Kraft verstärken die Kraft der Magie.'
+      de: 'Dieser Stab besteht aus Dragonwood und verwendet Steine, die ursprünglich Drachengeschenke waren. Die in den Steinen enthaltenen Spuren drakonischer Kraft verstärken die Kraft der Magie.'
     }
   },
 
@@ -112,7 +113,7 @@ export default [
     name       : {$$: 'Infernal Staff' },
     description: {
       en: 'This staff is made of Underwood that underwent a magical tempering process using Underworld Flames. Although the staffs were undoubtedly crafted by mortal hands, the method to obtain Underworld Flames seems to be a secret lost to time.',
-      ru: 'Этот посох сделан из Underwood, который подвергся волшебному процессу темперирования с использованием Underworld Flames. Несмотря на то, что посохи, несомненно, были сделаны смертными руками, метод получения Underworld Flames кажется тайной, потерянной во времени.'
+      ru: 'Этот посох сделан из Underwood, который подвергся волшебному процессу темперирования с использованием Underworld Flames. Несмотря на то, что посохи, несомненно, были сделаны смертными руками, метод получения Underworld Flames кажется тайной, потерянной во времени.',
       pl: 'Laska ta wykonana jest z Underwood, które przeszło magiczny proces utwardzania przy użyciu Underworld Flamds. Chociaż laska została bez wątpienia wykonana przez śmiertelne ręce, metoda zdobywania Płomieni Podziemia wydaje się być tajemnicą zagubioną w czasie.',
       de: 'Dieser Stab ist aus Underwood gefertigt, das einem magischen Temperierungsprozess mit Hilfe von Unterweltflammen unterzogen wurde. Obwohl die Stäbe zweifellos von sterblichen Händen hergestellt wurden, scheint die Methode zur Gewinnung der Unterweltflammen ein mit der Zeit verlorenes Geheimnis zu sein.'
     }
@@ -122,7 +123,7 @@ export default [
     name       : {$$: 'Hellfire Greatstaff' },
     description: {
       en: 'Hellfire Greatstaffs are constructed with hellfires provided by mischievous devils. Although the process to create a staff such as this is mysterious, the price exacted by the devils involved is not.',
-      ru: 'Hellfire Greatstaff построен с помощью адских огней, предоставленных озорными дьяволами. Несмотря на то, что процесс создания такого посоха загадочен, цена, взимаемая дьяволами, не является таковой'
+      ru: 'Hellfire Greatstaff построен с помощью адских огней, предоставленных озорными дьяволами. Несмотря на то, что процесс создания такого посоха загадочен, цена, взимаемая дьяволами, не является таковой',
       pl: 'Piekielne Kostury Bojowe są zbudowane z piekielnych ognisk dostarczanych przez psotne diabły. Choć proces tworzenia takiej laski jest tajemniczy, cena pobierana przez zaangażowane diabły jest dość znana.',
       de: 'Der Stab werden mit Höllenfeuer gebaut, die von schelmischen Teufeln erzeugt werden. Obwohl der Prozess zur Schaffung eines solchen Stabes mysteriös ist, ist es nicht der Preis, der von den beteiligten Teufeln verlangt wird.'
     }
@@ -142,7 +143,7 @@ export default [
     name       : {$$: 'Crystal Core' },
     description: {
       en: 'This strange staff utilizes crystals from the Realm of Madness in order to enhance wild magics in nature. The crystals are the central component of this staff.',
-      ru: 'Этот странный посох использует кристаллы из Realm of Madness, чтобы усилить дикую магию в природе. Кристаллы - центральный компонент этого посоха.'
+      ru: 'Этот странный посох использует кристаллы из Realm of Madness, чтобы усилить дикую магию в природе. Кристаллы - центральный компонент этого посоха.',
       pl: 'Ta dziwna laska wykorzystuje kryształy z Realm of Madness w celu wzmocnienia dzikiej magii w przyrodzie. Kryształy są głównym składnikiem tej laski.',
       de: 'Dieser seltsame Stab nutzt Kristalle aus dem Realm of Madness, um die wilde Magie in der Natur zu verstärken. Die Kristalle sind der zentrale Bestandteil dieses Stabes.'
     }
@@ -152,7 +153,7 @@ export default [
     name       : {$$: 'Witch\'s Heart' },
     description: {
       en: 'The heart of an elder witch powers this staff\'s magic. Forbidden powers reanimated the beating heart, which causes the staff to symbolically embody a representation of the undead.',
-      ru: 'Сердце старшей ведьмы питает волшебство этого посоха. Запретные силы оживляют бьющееся сердце, что заставляет посох символически воплощать изображение мертвых.'
+      ru: 'Сердце старшей ведьмы питает волшебство этого посоха. Запретные силы оживляют бьющееся сердце, что заставляет посох символически воплощать изображение мертвых.',
       pl: 'Serce starszej wiedźmy napędza magię tego kostura. Zakazane moce ożywiły bijące serce, co powoduje, że laska symbolicznie ucieleśnia nieumarłych.',
       de: 'Das Herz einer ältesten Hexe verleiht der Magie dieses Stabes Kraft. Verbotene Kräfte belebten das schlagende Herz wieder, was dazu führt, dass der Stab symbolisch eine Darstellung der Untoten verkörpert.'
     }
@@ -161,9 +162,10 @@ export default [
   {
     name       : {$$: 'Deathweaver' },
     description: {
-      en: 'Deathweavers are relics that have survived the creation of the great barrier. These strange staffs are not of this world.',
-      pl: 'Tkacze Śmierci to relikwie, które przetrwały powstanie wielkiej bariery. Te dziwne laski są nie z tego świata.',
-      de: 'Todesweber sind Relikte, die die Entstehung der großen Barriere überlebt haben. Diese seltsamen Stäbe sind nicht von dieser Welt.'
+      en: 'Deathweavers are relics that have survived the creation of the Great Barrier. These strange staffs are not of this world.',
+      ru: 'Deathweavers - это реликвии, пережившие создание Great Barrier. Эти странные посохи не из этого мира.',
+      pl: 'Deathweavers to relikwie, które przetrwały powstanie Great Barrier. Te dziwne laski są nie z tego świata.',
+      de: 'Deathweavers sind Relikte, die die Entstehung der großen Barriere überlebt haben. Diese seltsamen Stäbe sind nicht von dieser Welt.'
     }
   }
 
