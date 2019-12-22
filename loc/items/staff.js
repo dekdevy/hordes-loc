@@ -104,7 +104,7 @@ export default [
       en: 'The Frozen Greatstaff is made by mortals with ice found only in the Underworld. Although the construction methods are flawed, the results can still be quite powerful.',
       ru: 'Frozen Greatstaff сделан смертными со льдом, найденным только в Подземном мире. Несмотря на то, что методы строительства несовершенны, результаты все же могут быть весьма весомыми.',
       pl: 'Frozen Greatstaff jest wytwarzany przez śmiertelników z lodu, który występuje tylko w Zaświatach. Mimo, iż metody tworzenia pozostawiają wiele do życzenia, wyniki mogą być dość obiecujące.',
-      de: 'Der gefrorene Großstab wurde von Sterblichen aus Eis hergestellt, welches nur in der Unterwelt zu finden ist. Auch wenn die Konstruktionsmethoden fehlerhaft sind, können die Ergebnisse dennoch recht überzeugend sein.'
+      de: 'Der Stab wurde von Sterblichen aus Eis hergestellt, welches nur in der Unterwelt zu finden ist. Auch wenn die Konstruktionsmethoden fehlerhaft sind, können die Ergebnisse dennoch recht überzeugend sein.'
     }
   },
 
@@ -112,8 +112,9 @@ export default [
     name       : {$$: 'Infernal Staff' },
     description: {
       en: 'This staff is made of Underwood that underwent a magical tempering process using Underworld Flames. Although the staffs were undoubtedly crafted by mortal hands, the method to obtain Underworld Flames seems to be a secret lost to time.',
-      pl: 'Laska ta wykonana jest z Podszycia, które przeszło magiczny proces utwardzania przy użyciu Płomieni Podziemia. Chociaż laska została bez wątpienia wykonana przez śmiertelne ręce, metoda zdobywania Płomieni Podziemia wydaje się być tajemnicą zagubioną w czasie.',
-      de: 'Dieser Stab ist aus Unterholz gefertigt, das einem magischen Temperierungsprozess mit Hilfe von Unterweltflammen unterzogen wurde. Obwohl die Stäbe zweifellos von sterblichen Händen hergestellt wurden, scheint die Methode zur Gewinnung der Unterweltflammen ein mit der Zeit verlorenes Geheimnis zu sein.'
+      ru: 'Этот посох сделан из Underwood, который подвергся волшебному процессу темперирования с использованием Underworld Flames. Несмотря на то, что посохи, несомненно, были сделаны смертными руками, метод получения Underworld Flames кажется тайной, потерянной во времени.'
+      pl: 'Laska ta wykonana jest z Underwood, które przeszło magiczny proces utwardzania przy użyciu Underworld Flamds. Chociaż laska została bez wątpienia wykonana przez śmiertelne ręce, metoda zdobywania Płomieni Podziemia wydaje się być tajemnicą zagubioną w czasie.',
+      de: 'Dieser Stab ist aus Underwood gefertigt, das einem magischen Temperierungsprozess mit Hilfe von Unterweltflammen unterzogen wurde. Obwohl die Stäbe zweifellos von sterblichen Händen hergestellt wurden, scheint die Methode zur Gewinnung der Unterweltflammen ein mit der Zeit verlorenes Geheimnis zu sein.'
     }
   },
 
@@ -121,8 +122,9 @@ export default [
     name       : {$$: 'Hellfire Greatstaff' },
     description: {
       en: 'Hellfire Greatstaffs are constructed with hellfires provided by mischievous devils. Although the process to create a staff such as this is mysterious, the price exacted by the devils involved is not.',
+      ru: 'Hellfire Greatstaff построен с помощью адских огней, предоставленных озорными дьяволами. Несмотря на то, что процесс создания такого посоха загадочен, цена, взимаемая дьяволами, не является таковой'
       pl: 'Piekielne Kostury Bojowe są zbudowane z piekielnych ognisk dostarczanych przez psotne diabły. Choć proces tworzenia takiej laski jest tajemniczy, cena pobierana przez zaangażowane diabły jest dość znana.',
-      de: 'Höllenfeuer Großstäbe werden mit Höllenfeuer gebaut, die von schelmischen Teufeln erzeugt werden. Obwohl der Prozess zur Schaffung eines solchen Stabes mysteriös ist, ist es nicht der Preis, der von den beteiligten Teufeln verlangt wird.'
+      de: 'Der Stab werden mit Höllenfeuer gebaut, die von schelmischen Teufeln erzeugt werden. Obwohl der Prozess zur Schaffung eines solchen Stabes mysteriös ist, ist es nicht der Preis, der von den beteiligten Teufeln verlangt wird.'
     }
   },
 
@@ -130,6 +132,7 @@ export default [
     name       : {$$: 'Divine Staff' },
     description: {
       en: 'This kind of staff is modeled from ancient texts. Part of the crafting process requires hundreds of devout beings to request blessings upon the staff by specific deities.',
+      ru: 'Этот вид посоха смоделирован по древним текстам. Часть процесса изготовления требует, чтобы сотни благочестивых существ попросили благословения посоха от определенных божеств.',
       pl: 'Ten rodzaj kostura wzorowany jest na starożytnych tekstach. Część procesu rzemieślniczego wymaga setek pobożnych istot, które proszą o wzmocnienie kostura poprzez boskie błogosławieństwa.',
       de: 'Diese Art von Stab ist nach dem Vorbild alter Texte gestaltet. Ein Teil des Herstellungsprozesses erfordert Hunderte von frommen Wesen, um Segnungen für den Stab durch bestimmte Gottheiten zu erbitten.'
     }
@@ -139,15 +142,17 @@ export default [
     name       : {$$: 'Crystal Core' },
     description: {
       en: 'This strange staff utilizes crystals from the Realm of Madness in order to enhance wild magics in nature. The crystals are the central component of this staff.',
-      pl: 'Ta dziwna laska wykorzystuje kryształy z Królestwa Szaleństwa w celu wzmocnienia dzikiej magii w przyrodzie. Kryształy są głównym składnikiem tej laski.',
-      de: 'Dieser seltsame Stab nutzt Kristalle aus dem Reich des Wahnsinns, um die wilde Magie in der Natur zu verstärken. Die Kristalle sind der zentrale Bestandteil dieses Stabes.'
+      ru: 'Этот странный посох использует кристаллы из Realm of Madness, чтобы усилить дикую магию в природе. Кристаллы - центральный компонент этого посоха.'
+      pl: 'Ta dziwna laska wykorzystuje kryształy z Realm of Madness w celu wzmocnienia dzikiej magii w przyrodzie. Kryształy są głównym składnikiem tej laski.',
+      de: 'Dieser seltsame Stab nutzt Kristalle aus dem Realm of Madness, um die wilde Magie in der Natur zu verstärken. Die Kristalle sind der zentrale Bestandteil dieses Stabes.'
     }
   },
 
   {
     name       : {$$: 'Witch\'s Heart' },
     description: {
-      en: 'The heart of an elder witch powers this staff’s magic. Forbidden powers reanimated the beating heart, which causes the staff to symbolically embody a representation of the undead.',
+      en: 'The heart of an elder witch powers this staff\'s magic. Forbidden powers reanimated the beating heart, which causes the staff to symbolically embody a representation of the undead.',
+      ru: 'Сердце старшей ведьмы питает волшебство этого посоха. Запретные силы оживляют бьющееся сердце, что заставляет посох символически воплощать изображение мертвых.'
       pl: 'Serce starszej wiedźmy napędza magię tego kostura. Zakazane moce ożywiły bijące serce, co powoduje, że laska symbolicznie ucieleśnia nieumarłych.',
       de: 'Das Herz einer ältesten Hexe verleiht der Magie dieses Stabes Kraft. Verbotene Kräfte belebten das schlagende Herz wieder, was dazu führt, dass der Stab symbolisch eine Darstellung der Untoten verkörpert.'
     }
