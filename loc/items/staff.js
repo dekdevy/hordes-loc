@@ -3,6 +3,7 @@ export default [
     name       : {$$: 'Broken Twig' },
     description: {
       en: 'Sticks and broken twigs are used by apprentice mages for educational purposes.',
+      ru: 'Палки и сломанные веточки используются молодыми магами в образовательных целях.',
       pl: 'Kije i połamane gałązki są używane przez aspirujących magów do celów edukacyjnych.',
       de: 'Stöcke und abgebrochene Zweige werden von Lehrlingsmagiern zu Ausbildungszwecken verwendet.'
     }
@@ -11,7 +12,8 @@ export default [
   {
     name       : {$$: 'Cracked Stick' },
     description: {
-      en: 'This is a damaged battlestaff that still has some use for beginning magic users.',
+      en: 'This is a damaged battlestaff that still has some use for beginning magic users.',,
+      ru: 'Это поврежденный боевой посох, который все еще имеет некоторое применение для начинающих магов.',
       pl: 'Jest to zniszczony kostur bojowy, który wciąż jest przydatny dla początkujących użytkowników magii.',
       de: 'Dies ist ein beschädigter Kampfstab, der immer noch einen gewissen Nutzen für Anfänger von Magie hat.'
     }
@@ -20,7 +22,8 @@ export default [
   {
     name       : {$$: 'Gnarled Broomstick' },
     description: {
-      en: 'Some of the oldest trees are used to create Gnarled Broomsticks. These weapons produce spells to sweep enemies off the battlefield.',
+      en: 'Some of the oldest trees are used to create Gnarled Broomsticks. These weapons produce spells to sweep enemies off the battlefield.',,
+      ru: 'Некоторые из старейших деревьев используются для создания Gnarled Broomticks. Это оружие производит заклинания, способные сметать врагов с поля боя.',
       pl: 'Niektóre z najstarszych drzew służą do tworzenia sękatych mioteł. Broń ta wytwarza zaklęcia, które dosłownie zmiatają wrogów z pola walki.',
       de: 'Einige der ältesten Bäume werden verwendet, um knorrige Besenstiele herzustellen. Diese Waffen produzieren Zauber, um Feinde vom Schlachtfeld zu fegen.'
     }
@@ -30,6 +33,7 @@ export default [
     name       : {$$: 'Oak Staff' },
     description: {
       en: 'This is a sturdy oak weapon for casting intermediate magic.',
+      ru: 'Это крепкое дубовое оружие для использования простой магии.',
       pl: 'To solidna broń dębowa do rzucania magii.',
       de: 'Dies ist eine robuste Eichenwaffe für den Einsatz von Zwischenmagie.'
     }
@@ -38,8 +42,9 @@ export default [
   {
     name       : {$$: 'Mystic Wand' },
     description: {
-      en: 'This wand is a gift from the Mystics that is embedded with strange shards that enhance magical power.',
-      pl: 'Ta różdżka jest darem od Mistyka. Ma w sobie osadzone dziwne odłamki, które zwiększają magiczną moc.',
+      en: 'This wand is a gift from the mystics that is embedded with strange shards that enhance magical power.',
+      ru: 'Эта палочка - подарок Мистиков, в который вкраплены странные осколки, усиливающие магическую силу.',
+      pl: 'Ta różdżka jest darem od mistyka. Ma w sobie osadzone dziwne odłamki, które zwiększają magiczną moc.',
       de: 'Dieser Zauberstab ist ein Geschenk der Mystiker. Dieser ist mit seltsamen Scherben eingebettet, welche die magischen Kräfte verstärken.'
     }
   },
@@ -48,6 +53,7 @@ export default [
     name       : {$$: 'Bone Staff' },
     description: {
       en: 'This is made from the bones of monster mages to augment magical power.',
+      ru: 'Это сделано из костей магов-монстров для усиления магической силы.',
       pl: 'Zrobione z kości magów-potworów, co pozwala zwiększyć magiczną moc.',
       de: 'Dieser ist aus den Knochen von Monstermagiern hergestellt, um die Zauberkraft zu verstärken.'
     }
