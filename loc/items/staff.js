@@ -12,7 +12,7 @@ export default [
   {
     name       : {$$: 'Cracked Stick' },
     description: {
-      en: 'This is a damaged battlestaff that still has some use for beginning magic users.',,
+      en: 'This is a damaged battlestaff that still has some use for beginning magic users.',
       ru: 'Это поврежденный боевой посох, который все еще имеет некоторое применение для начинающих магов.',
       pl: 'Jest to zniszczony kostur bojowy, który wciąż jest przydatny dla początkujących użytkowników magii.',
       de: 'Dies ist ein beschädigter Kampfstab, der immer noch einen gewissen Nutzen für Anfänger von Magie hat.'
