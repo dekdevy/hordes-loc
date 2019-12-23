@@ -22,7 +22,7 @@ export default [
   {
     name       : {$$: 'Gnarled Broomstick' },
     description: {
-      en: 'Some of the oldest trees are used to create Gnarled Broomsticks. These weapons produce spells to sweep enemies off the battlefield.',,
+      en: 'Some of the oldest trees are used to create Gnarled Broomsticks. These weapons produce spells to sweep enemies off the battlefield.',
       ru: 'Некоторые из старейших деревьев используются для создания Gnarled Broomticks. Это оружие производит заклинания, способные сметать врагов с поля боя.',
       pl: 'Niektóre z najstarszych drzew służą do tworzenia sękatych mioteł. Broń ta wytwarza zaklęcia, które dosłownie zmiatają wrogów z pola walki.',
       de: 'Einige der ältesten Bäume werden verwendet, um knorrige Besenstiele herzustellen. Diese Waffen produzieren Zauber, um Feinde vom Schlachtfeld zu fegen.'
