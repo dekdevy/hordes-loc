@@ -3,6 +3,7 @@ export default [
     name       : {$$: 'Wooden Sword' },
     description: {
       en: 'These swords are often made of ironbark to last longer than regular wood.',
+      ru: 'Такие мечи часто изготавливают из очень твердой древесины, чтобы они прослужили дольше, чем мечи из обычного дерева.',
       de: 'Diese Schwerter werden oft aus Eisenholz hergestellt, um länger als normales Holz zu halten.',
       pl: 'Miecze te są często wykonane z żelaznej kory, aby przetrwać dłużej niż zwykłe drewno.'
     }
@@ -12,6 +13,7 @@ export default [
     name       : {$$: 'Rusty Ironsword' },
     description: {
       en: 'Swords such as this have seen many battles and are typically handed down from a warrior to an apprentice.',
+      ru: 'Такие мечи видели много сражений и обычно передаются от воина ученику.',
       de: 'Schwerter wie dieses haben schon viele Schlachten gesehen und werden üblicherweise von Krieger zu Lehrling weitergegeben.',
       pl: 'Miecze takie jak ten widziały wiele bitew i zwykle są przekazywane od wojownika do ucznia.'
     }
@@ -21,6 +23,7 @@ export default [
     name       : {$$: 'Troll Blade' },
     description: {
       en: 'This is a worthy weapon wielded by trolls and their tribes. Trolls often attack neighboring territories to either expand their own or force back invaders.',
+      ru: 'Это достойное оружие, которым владеют тролли и их племена. Тролли часто нападают на соседние территории, чтобы либо расширить свои границы, либо отбросить назад захватчиков.',
       de: 'Dies ist eine wertige Waffe, geschwungen von Trollen und ihren Stämmen. Trolle attackieren oft ihre Nachbarn, um ihr eigenes Gebiet zu erweitern oder Eindringlinge zurückzuschlagen.',
       pl: 'To godna broń, którą posługują się trolle i ich plemiona. Trolle często atakują sąsiednie terytoria, aby poszerzyć swoje tereny lub zmusić najeźdźców do odwrotu.'
     }
@@ -30,6 +33,7 @@ export default [
     name       : {$$: 'Broadsword' },
     description: {
       en: 'The broadsword is a standard weapon among soldiers and warriors on the battlefield.',
+      ru: 'Палаш является стандартным оружием среди солдат и воинов на поле боя.',
       de: 'Dieses Breitschwert ist die Standard-Waffe von Soldaten und Kriegern auf dem Schlachtfeld.',
       pl: 'Pałasz jest standardową bronią wśród żołnierzy i wojowników na polu bitwy.'
     }
