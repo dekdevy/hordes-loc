@@ -3,6 +3,7 @@ export default [
     name       : {$$: 'Dream Feathers'},
     description: {
       en: 'These feathers absorb the dreams and nightmares of those that sleep near it. The dreams and nightmares are stored and reused in the form of magic.',
+      ru: 'Эти перья впитывают сны и кошмары тех, кто спит рядом с ними. Сны и кошмары хранятся и повторно используются в форме магии.',
       de: 'Diese Federn absorbieren die Träume und Alpträume derjenigen, die in ihrer Nähe schlafen. Diese werden gespeichert und in Form von Magie wiederverwendet.',
       pl: 'Te pióra absorbują marzenia i koszmary tych, którzy śpią w pobliżu. Marzenia i koszmary są przechowywane i ponownie wykorzystywane w formie magii.'
     }
@@ -12,6 +13,7 @@ export default [
     name       : {$$: 'Voodoo Doll'},
     description: {
       en: 'A supernatural creature bound to this doll fuels magical power available to the user.',
+      ru: 'Сверхъестественное существо, соединенное с этой куклой, подпитывает магическую силу, доступную пользователю.',
       de: 'Ein an diese Puppe gebundenes übernatürliches Wesen verstärkt die magischen Kräfte, die dem Benutzer zur Verfügung stehen.',
       pl: 'Supernaturalna istota powiązana z tą lalką wzmacnia jej użytkownika potęgą magii.'
     }
@@ -21,6 +23,7 @@ export default [
     name       : {$$: 'Glowing Chicken'},
     description: {
       en: 'This is a vessel that emanates magic originating from nature.',
+      ru: 'Это сосуд, который излучает магию, исходящую из природы.',
       de: 'Dies ist ein Gefäß, das Naturmagie ausstrahlt.',
       pl: 'To łącze eminujące magią pochodzącą z natury.'
     }
@@ -30,6 +33,7 @@ export default [
     name       : {$$: 'Divine Beads'},
     description: {
       en: 'These beads were carried by holy priests as a means to store divine power and count their blessings. Some of the divine power still resides within each bead.',
+      ru: 'Эти бусины носили святые священники, чтобы хранить божественную силу и считать их благословения. Часть божественной силы все еще находится в каждом бусине.',
       de: 'Diese Perlen wurden von heiligen Priestern getragen, um die göttliche Kraft zu speichern und ihren Segen zu zählen. Ein Teil der göttlichen Kraft befindet sich noch in jeder Perle.',
       pl: 'Te perły były noszone przez świętych kapłanów jako środek do gromadzenia boskiej mocy i liczenia ich błogosławieństw. Część boskiej mocy wciąż znajduje się w każdej perle.'
     }
@@ -39,6 +43,7 @@ export default [
     name       : {$$: 'Templar\'s Resolve'},
     description: {
       en: 'When defeated templars fail a divine task, they pour spiritual devotion into a personal totem such as this to aid the side of good.',
+      ru: 'Когда побеждённые темплары не справляются с божественной задачей, они изливают духовную преданность в личный тотем, подобный этому, чтобы помочь добру.',
       de: 'Wenn besiegte Tempelritter eine göttliche Aufgabe nicht erfüllen, gießen sie spirituelle Hingabe in ein persönliches Totem wie dieses, um das Gute zu unterstützen.',
       pl: 'Kiedy pokonani templariusze nie wypełniają boskiego zadania, wlewają duchowe oddanie do osobistego totemu, takiego jak ten, aby pomóc stronie dobra.'
     }
