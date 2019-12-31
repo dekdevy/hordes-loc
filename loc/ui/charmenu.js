@@ -164,7 +164,7 @@ export default {
       fr: 'Entrez un nom',
       hi: 'नाम डाले',
       es: 'Ingresa un nombre',
-      de: 'Gib einen Namen ein', // TODO: shorten
+      de: 'Gib einen Namen ein',
       ko: '이름 입력',
       tr: 'Bir isim gir',
       nl: 'Voer een naam in',
