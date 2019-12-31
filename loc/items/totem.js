@@ -53,8 +53,9 @@ export default [
     name       : {$$: 'Holy Cricket'},
     description: {
       en: 'This is one of the many magical crickets that were once owned by the emperors and empresses of Tiger\'s Teeth. To ward against assassinations, magical crickets enhanced the supernatural power of the royalty that carried them.',
+      ru: '"Это один из многих волшебных сверчков, которые когда-то принадлежали императорам и императрицам Tiger\'s Teeth. Чтобы защититься от убийств, волшебные сверчки усиливали сверхъестественную силу королевской крови, которая их носила.',
       de: 'Dies ist eine der vielen magischen Grillen, die einst den Kaisern von Tiger\'s Teeth gehörten. Um gegen Attentate vorzugehen, verstärkten magische Grillen die übernatürliche Macht des Herrschers, der sie trug.',
-      pl: 'Jest to jeden z wielu magicznych świerszczy, które niegdyś były własnością cesarzy i imperiów Zębów Tygrysa. Aby przeciwdziałać zabójstwom, magiczne świerszcze zwiększały nadnaturalną moc królewskiej rodziny, która je niosła.'
+      pl: 'Jest to jeden z wielu magicznych świerszczy, które niegdyś były własnością cesarzy i imperiów Tiger\'s Teeth. Aby przeciwdziałać zabójstwom, magiczne świerszcze zwiększały nadnaturalną moc królewskiej rodziny, która je niosła.'
     }
   },
 
@@ -62,6 +63,7 @@ export default [
     name       : {$$: 'Laughing Skulls'},
     description: {
       en: 'This is a prison with supernatural creatures that are unwillingly bound together. They generate substantial magical power with their unnatural laughter.',
+      ru: 'Это тюрьма со сверхъестественными существами, которые невольно связаны друг с другом". Они генерируют значительную магическую силу своим неестественным смехом.',
       de: 'Dies ist ein Gefängnis gefüllt mit übernatürlichen Kreaturen, die unfreiwillig verbunden sind. Sie erzeugen mit ihrem unnatürlichen Lachen eine beträchtliche magische Kraft.',
       pl: 'To więzienie z nadprzyrodzonymi stworzeniami, które niechętnie się ze sobą wiążą. Generują pokaźną magiczną moc swoim nienaturalnym śmiechem.'
     }
@@ -71,6 +73,7 @@ export default [
     name       : {$$: 'Hive Mind'},
     description: {
       en: 'A collective of supernatural minds that focus their magical power and bestow it upon the user of their totem. The Hive Mind believes that all creatures must submit to their power and tries to convince the user to join them.',
+      ru: 'Коллектив сверхъестественных умов, которые фокусируют свою магическую силу и дарят ее пользователю своего тотема. Hive Mind считает, что все существа должны подчиняться своей силе и пытается убедить пользователя присоединиться к ним.',
       de: 'Ein Kollektiv übernatürlicher Geister, das seine magische Kraft konzentriert und sie dem Nutzer verleiht. Das Hive Mind glaubt, dass sich alle Kreaturen seiner Macht unterwerfen müssen und versucht, den Benutzer davon zu überzeugen sich anzuschließen.',
       pl: 'Zbiór nadprzyrodzonych umysłów, które skupiają swoją magiczną moc i obdarzają nią użytkownika swojego totemu. Hive Mind wierzy, że wszystkie stworzenia muszą poddać się swojej mocy i próbuje przekonać użytkownika, aby do nich dołączył.'
     }
@@ -79,9 +82,10 @@ export default [
   {
     name       : {$$: 'Nganga\'s Serpent'},
     description: {
-      en: 'This is an avatar of a supernatural creature. Some scholars say that Nganga’s Serpent is given to those that are chosen and deemed worthy for greatness; however, other scholars suggest that this is another means by which deities try to control and manipulate mortals.',
-      de: 'Dies ist ein Avatar einer übernatürlichen Kreatur. Einige Gelehrte sagen, dass die Schlange von Nganga denen gegeben wird, die für Großes bestimmt und für würdig befunden werden; andere sagen, dass dies ein weiteres Mittel ist mit dem Götter versuchen, Sterbliche zu manipulieren.',
-      pl: 'To jest avatar nadprzyrodzonego stworzenia. Niektórzy uczeni twierdzą, że Wąż Nganga jest dany tym, którzy zostali wybrani i uznani za godnych wielkości; jednakże inni uczeni sugerują, że jest to kolejny sposób, w jaki bóstwa próbują kontrolować śmiertelników i nimi manipulować.'
+      en: 'This is an avatar of a supernatural creature. Some scholars say that Nganga\'s Serpent is given to those that are chosen and deemed worthy for greatness; however, other scholars suggest that this is another means by which deities try to control and manipulate mortals.',
+      ru: 'Это аватара сверхъестественного существа. Некоторые ученые утверждают, что Nganga\'s Serpent дается тем, кто избран и считается достойным величия; однако другие ученые предполагают, что это еще одно средство, с помощью которого боги пытаются контролировать смертных и манипулировать ими.',
+      de: 'Dies ist ein Avatar einer übernatürlichen Kreatur. Einige Gelehrte sagen, dass die Nganga\'s Serpent denen gegeben wird, die für Großes bestimmt und für würdig befunden werden; andere sagen, dass dies ein weiteres Mittel ist mit dem Götter versuchen, Sterbliche zu manipulieren.',
+      pl: 'To jest avatar nadprzyrodzonego stworzenia. Niektórzy uczeni twierdzą, że Nganga\'s Serpent jest dany tym, którzy zostali wybrani i uznani za godnych wielkości; jednakże inni uczeni sugerują, że jest to kolejny sposób, w jaki bóstwa próbują kontrolować śmiertelników i nimi manipulować.'
     }
   },
 
@@ -89,6 +93,7 @@ export default [
     name       : {$$: 'Sangoma\'s Bones'},
     description: {
       en: 'These ancient bones are said to be small fragments of a forgotten monster deity. The bones radiate power beyond imagination.',
+      ru: 'Говорят, что эти древние кости - маленькие фрагменты забытого монстра-бога. Кости излучают силу, превосходящую воображение.',
       de: 'Diese alten Knochen sollen kleine Fragmente einer vergessenen Monstergottheit sein. Die Knochen unvorstellbare Kraft aus.',
       pl: 'Mówi się, że te starożytne kości to małe fragmenty zapomnianego bóstwa potworów. Kości promieniują mocą poza wyobraźnią.'
     }
