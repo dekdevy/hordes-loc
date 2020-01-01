@@ -33,8 +33,10 @@ export default {
     pl: 'Podejmij'
   },
 
+  // Translate the verb, rather than the noun.
   deposit: {
     en: 'Deposit',
+    ru: 'Депозировать',
     pl: 'Depozyt',
     de: 'Hinterlegen'
   },
