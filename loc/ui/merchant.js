@@ -13,8 +13,7 @@ export default {
     hi: 'खोजे',
     zh: '搜索',
     hu: 'Keresés',
-    pl: 'Szukaj',
-    sv: 'Sök'
+    pl: 'Szukaj'
   },
 
   filtermine: {
@@ -30,8 +29,7 @@ export default {
     hi: 'मेरी वस्तुएं',
     zh: '只要我的装备',
     hu: 'Csak az én tárgyaim',
-    pl: 'Tylko moje przedmioty',
-    sv: 'Endast mina föremål'
+    pl: 'Tylko moje przedmioty'
   },
 
   buy: {
