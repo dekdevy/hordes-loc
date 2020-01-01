@@ -78,7 +78,7 @@ export default {
       en: 'Wisdom',
       fr: 'Sagesse',
       ru: 'Мудрость',
-      es: 'Sabidur.',
+      es: 'Sabiduria.',
       pt: 'Sabdr.',
       tr: 'Bilgelik',
       hu: 'Bölcs.',
@@ -239,8 +239,9 @@ export default {
       hu: 'Hátizsák',
       zh: '袋槽',
       pl: 'Miejsce w ekw.',
-      de: 'Taschenplätze'
-      // es: 'Espacios de inventario'
+      de: 'Taschenplätze',
+      es: 'Ranuras para bolsas'
+      
     },
 
     {
