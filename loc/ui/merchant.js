@@ -45,8 +45,7 @@ export default {
     hi: 'वस्तु खरीदे',
     zh: '买装备',
     hu: 'Vásárlás',
-    pl: 'Kup przedmiot',
-    sv: 'Köp Föremål'
+    pl: 'Kup przedmiot'
   },
 
   post: {
@@ -62,8 +61,7 @@ export default {
     hi: 'बाज़ार में डालें',
     ro: 'Postează Obiectul',
     hu: 'Áruba bocsátás',
-    pl: 'Wystaw przedmiot',
-    sv: 'Publicera Föremål'
+    pl: 'Wystaw przedmiot'
   },
 
   delist: {
@@ -78,8 +76,7 @@ export default {
     ro: 'Scoate Obiectul',
     hi: 'बाज़ार से हटाएं',
     hu: 'Tárgy visszavétele',
-    pl: 'Usuń przedmiot',
-    sv: 'Avlista Föremål'
+    pl: 'Usuń przedmiot'
   },
 
   // Include the space and punctuation
@@ -96,8 +93,7 @@ export default {
     hi: 'कीमत: ',
     zh: '价格: ',
     hu: 'Ár: ',
-    pl: 'Cena: ',
-    sv: 'Pris: '
+    pl: 'Cena: '
   },
 
   // Include the space and punctuation
@@ -114,8 +110,7 @@ export default {
     hi: 'कीमत: ',
     zh: '费用: ',
     hu: 'Költség: ',
-    pl: 'Koszt: ',
-    sv: 'Avgift: '
+    pl: 'Koszt: '
   },
 
   dragitem: {
@@ -146,8 +141,7 @@ export default {
     hi: 'आपने $1 को विक्रय के लिए उपलब्ध कर दिया है',
     ro: 'Ai postat $1 pentru vânzare',
     hu: 'Eladásra bocsátottad: $1',
-    pl: 'Wystawiono $1 na sprzedaż',
-    sv: 'Du har lagt ut $1 till salu'
+    pl: 'Wystawiono $1 na sprzedaż'
   },
 
   // Do not translate "Stash".
@@ -163,8 +157,7 @@ export default {
     ro: 'Obiect delistat și pus la Stash',
     hi: 'वस्तु को बाज़ार से हटाकर आपके स्टैश में भेज दिया गया है',
     hu: 'A tárgyat nem vásárolták meg, és a Stash fiókodba került.',
-    pl: 'Przedmiot usunięty i wysłany do Stash',
-    sv: 'Föremål avlistat och skickat till Stash'
+    pl: 'Przedmiot usunięty i wysłany do Stash'
   },
 
   // Do not translate "Stash".
@@ -180,8 +173,7 @@ export default {
     ro: 'Obiect cumpărat pentru $g$1 și trimis în Stash tău',
     hi: 'अपने $g$1 सिक्कों में वस्तु खरीद ली है और उसे आपके स्टैश में भेज दिया गया है',
     hu: 'A tárgyat megvásárolták $g$1 áron, ami a Stash fiókodba került.',
-    pl: 'Przemiot kupiono za $g$1 i wysłano do twojego Stash',
-    sv: 'Föremål köpt för $g$1 och skickades till din Stash'
+    pl: 'Przemiot kupiono za $g$1 i wysłano do twojego Stash'
   },
 
   sell: {
@@ -196,7 +188,6 @@ export default {
     hi: 'आपने $2 को $1 के लिए बेच दिया',
     ko: '$1 에 $1 를 판매했습니다',
     hu: 'Eladtad: $1, $2 áron.',
-    pl: 'Sprzedano $1 za $2.',
-    sv: 'Du har sålt $1 för $2'
+    pl: 'Sprzedano $1 za $2.'
   }
 }
