@@ -42,7 +42,6 @@ export default {
   // DO NOT translate "Party"
   leave: {
     en: 'Leave Party',
-    it: 'Andarsene Party',
     pt: 'Sair da Party',
     nl: 'Verlof Party',
     de: 'Party verlassen',
@@ -66,7 +65,6 @@ export default {
     nl: 'Een Party creëren',
     de: 'Party erstellen',
     fr: 'Créer une Party',
-    ht: 'Kreye Party',
     es: 'Crear Party',
     tr: 'Party oluştur',
     hi: 'नई Party बनाए',
