@@ -164,8 +164,8 @@ export default {
       hu: 'Blokk',
       zh: '擋',
       pl: 'Blok',
-      de: 'Blocken'
-      //es: 'Bloqueo'
+      de: 'Blocken',
+      es: 'Bloqueo'
 
     },
 
@@ -215,8 +215,8 @@ export default {
       pt: 'Rapidez Atq.',
       hu: 'Támadási Seb.',
       zh: '攻擊速度',
-      pl: 'Szybkość ataku',
-      de: 'Angriffsgeschwindigkeit'
+      pl: 'Szybkość ataku'
+      // de: 'Angriffsgeschwindigkeit'
     },
 
     {
