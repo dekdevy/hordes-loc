@@ -156,7 +156,6 @@ export default {
     ko: '상장 폐지 된 물품',
     ro: 'Obiect delistat și pus la Stash',
     hi: 'वस्तु को बाज़ार से हटाकर आपके स्टैश में भेज दिया गया है',
-    sv: 'Föremål listades och skickades till Stash',
     hu: 'A tárgyat nem vásárolták meg, és a Stash fiókodba került.',
     pl: 'Przedmiot usunięty i wysłany do Stash'
   },

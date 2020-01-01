@@ -24,7 +24,7 @@ export default {
       ru: 'Нажмите, чтобы создать персонажа',
       hi: 'स्वरूप बानाने के लिए क्लिक करे',
       es: 'Pulsar para crear un personaje',
-      de: 'Klicke, um Charakter zu erstellen', // TODO: shorten
+      de: 'Klicke, um Charakter zu erstellen',
       fr: 'Cliquez pour créer le personnage',
       ko: '캐릭터를 만들려면 클릭하십시오',
       tr: 'Karakter oluşturmak için tıkla',
@@ -164,7 +164,7 @@ export default {
       fr: 'Entrez un nom',
       hi: 'नाम डाले',
       es: 'Ingresa un nombre',
-      de: 'Gib einen Namen ein', // TODO: shorten
+      de: 'Gib einen Namen ein',
       ko: '이름 입력',
       tr: 'Bir isim gir',
       nl: 'Voer een naam in',

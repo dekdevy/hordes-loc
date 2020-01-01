@@ -3,6 +3,7 @@ export default {
     en: 'Monster',
     de: 'Monster',
     ru: 'Монстр',
+    bg: 'Чудовище',
     es: 'Monstruo',
     fr: 'Monstre',
     hi: 'राक्षस',

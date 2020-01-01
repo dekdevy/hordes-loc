@@ -26,7 +26,7 @@ export default {
     en: 'Party kick',
     ru: 'Исключить из Party',
     pt: 'Expulsar da Party',
-    es: 'Sacar de la Party',
+    es: 'Expulsar de la Party',
     de: 'Aus Party werfen',
     fr: 'Virer de la Party',
     nl: 'Paty Uitgooien',
@@ -42,7 +42,6 @@ export default {
   // DO NOT translate "Party"
   leave: {
     en: 'Leave Party',
-    it: 'Andarsene Party',
     pt: 'Sair da Party',
     nl: 'Verlof Party',
     de: 'Party verlassen',
@@ -66,7 +65,6 @@ export default {
     nl: 'Een Party creëren',
     de: 'Party erstellen',
     fr: 'Créer une Party',
-    ht: 'Kreye Party',
     es: 'Crear Party',
     tr: 'Party oluştur',
     hi: 'नई Party बनाए',
@@ -163,7 +161,7 @@ export default {
     en: '$1 is offering to summon you to their location.',
     ru: 'Игрок $1 хочет призвать вас к себе.',
     pt: '$1 está a oferecer invocar te na localização dele.',
-    es: '$1 está ofreciendo invocarte en su ubicación.',
+    es: '$1 está ofreciendo invocarte a su ubicación.',
     tr: '$1 seni yanına çağırıyor.',
     hu: '$1 felajánlotta hogy magához idéz.',
     de: '$1 möchte dich zu seiner Position beschwören.',

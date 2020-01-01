@@ -51,24 +51,28 @@ export default {
   camera: {
     en: 'Camera',
     de: 'Kamera',
+    ru: 'Камера',
     pl: 'Kamera'
   },
 
   mousesensitivity: {
     en: 'Sensitivity',
     de: 'Empfindlichkeit',
+    ru: 'Чувствительность',
     pl: 'Czułość'
   },
 
   invertmousex: {
     en: 'Invert horizontally',
     de: 'X-Achse umkehren',
+    ru: 'Инвертировать горизонтально',
     pl: 'Inwersja pozioma'
   },
 
   invertmousey: {
     en: 'Invert vertically',
     de: 'Y-Achse umkehren',
+    ru: 'Инвертировать вертикально',
     pl: 'Inwersja pionowa'
   },
 
@@ -296,6 +300,7 @@ export default {
   musicvolume: {
     en: 'Music Volume',
     de: 'Musik-Lautstärke',
+    ru: 'Громкость музыки',
     fr: 'Volume des Musiques',
     es: 'Volumen de música',
     pl: 'Poziom muzyki'
@@ -393,15 +398,19 @@ export default {
     pl: 'Szerokość ekwipunku'
   },
 
+  // Do NOT translate "Stash"
   stashwidth: {
     en: 'Stash width',
+    ru: 'Ширина Stash',
     hu: 'Stash szélesség',
     de: 'Stash-Breite',
-    pl: 'szerokość Stash'
+    pl: 'Szerokość Stash'
   },
 
+  // Do NOT translate "Stash"
   stashheight: {
     en: 'Stash height',
+    ru: 'Высота Stash',
     hu: 'Stash magasság',
     de: 'Stash-Höhe',
     pl: 'Wysokość Stash'
