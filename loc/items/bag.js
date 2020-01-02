@@ -18,7 +18,8 @@ export default [
       ru: 'Этот прочный мешок сделан из крепких тканей и может содержать в себе больше вещей, чем Linen Pouch.',
       hu: 'Ez a gyűrött zsák erős anyagból van, hogy több felszerelést bírjon el egy erszénynél.',
       tr: 'Bu engebeli çanta, bir Linen Pouch\'tan daha fazla ekipman taşıyabilmesi için sağlam kumaşlardan yapıldı.',
-      de: 'Dieser robuste Sack ist aus stabilen Stoffen gefertigt, um mehr Ausrüstung aufzunehmen als ein Leinenbeutel.'
+      de: 'Dieser robuste Sack ist aus stabilen Stoffen gefertigt, um mehr Ausrüstung aufzunehmen als ein Leinenbeutel.',
+      es: 'Este saco está hecho de telas resistentes para sostener más equipo que una bolsa de lino.'
     }
   },
 
@@ -29,8 +30,7 @@ export default [
       ru: 'Этот прочный мешок сделан из шкур монстров и предлагает респектабельный инвентарь.',
       hu: 'Ez a robosztus hátizsákot szörnyetegek bőréből készítették, és bőséges tárolóhelyet nyújt.',
       tr: 'Canavar kalıntılarından yapılmış bu sağlam çanta gayet büyük bir envanter sağlıyor.',
-      de: 'Dieser robuste Sack ist aus Monsterhaut gefertigt und erlaubt ein ansehnliches Inventar.',
-      es: 'Este saco está hecho de telas resistentes para sostener más equipo que una bolsa de lino.
+      de: 'Dieser robuste Sack ist aus Monsterhaut gefertigt und erlaubt ein ansehnliches Inventar.'
     }
   },
 
