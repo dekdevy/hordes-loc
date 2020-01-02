@@ -15,8 +15,10 @@ export default {
     ro: 'Șaman',
     zh: '薩滿',
     hu: 'Táltos',
-    pl: 'Szaman'
+    pl: 'Szaman',
+    bn: 'ওঝা'
   },
+
   // Class description, visible during character creation
   description: {
     en: 'The Shaman\'s role is to support the group by healing the Tank and offering offensive Buffs or crippling Debuffs.',
@@ -32,6 +34,7 @@ export default {
     ro: 'Rolul șamanului este de a sprijini grupul prin vindecarea Tancului și de a oferi Buff-uri de ofensiva sau Debuff-uri de paralizare.',
     zh: '薩滿的定位是通過治療坦克和使用增益buff或減益Debuff來支援隊伍。',
     hu: 'A táltosok feladata a csapat támogatása, mégpedig gyógyítóerejük segítségével, amit legjobb a sebzést felfogó harcosokra irányítaniuk. Egy táltos képes csapatára különböző áldásokat, ellenfeleire pedig átkokat szórni.',
-    pl: 'Rolą szamana jest wsparcie grupy poprzez leczenie tanka i oferowanie ofensywnych buffów lub nakładanie okaleczających debuffów.'
+    pl: 'Rolą szamana jest wsparcie grupy poprzez leczenie tanka i oferowanie ofensywnych buffów lub nakładanie okaleczających debuffów.',
+    bn: 'যোদ্ধারা অন্য যেকোনো শ্রেণী থেকে বেশী শত্রু যখম করতে পারে তাদের সরঞ্জামের (ঢাল) ও শক্তিশালী বাফের থেকে পাওয়া উচ্চমাত্রার প্রতিরক্ষা ব্যাবস্থার ফলে।'
   }
 }
