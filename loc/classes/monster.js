@@ -14,6 +14,7 @@ export default {
     ro: 'Monstru',
     zh: '怪物',
     hu: 'Szörnyeteg',
-    pl: 'Potwór'
+    pl: 'Potwór',
+    bn: 'দানব'
   }
 }
