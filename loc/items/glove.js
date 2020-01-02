@@ -49,7 +49,7 @@ export default [
       hu: 'A vas gaunlétákat olyan kovácsmesterek készítették, akik már emberötők óta dolgoznak a vassal.',
       ru: 'Эти рукавицы изготавливаются мастерами, десятилетиями работавшими с металлом.',
       de: 'Eisenhandschuhe werden von Meisterhandwerkern hergestellt, die jahrzehntelang mit Metall gearbeitet haben.',
-      es 'Los guanteletes de hierro están hechos por maestros artesanos que han pasado décadas trabajando con metal.'
+      es: 'Guanteletes de hierro están hechos por maestros artesanos que han pasado décadas trabajando con metal.'
     }
   },
 
@@ -59,8 +59,7 @@ export default [
       en: 'Mage guilds often create experimental gloves such as this to increase magic power against monster factions. Some experimental gloves are adorned with runes that were copied from ancient sources.',
       hu: 'A mágusrendek a szörnyetegek szövetségei elleni csatákra gyakran bűvölnek ilyen erős kesztyűket. Néhányat rúnákkal láttak el, egyesek pedig ősi tervrajzok alapján vannak megalkotva.',
       ru: 'Магические гильдии часто создают такие экспериментальные перчатки, как эти, чтобы увеличить магическую силу против фракций монстров. Некоторые экспериментальные перчатки украшены рунами, которые были скопированы из древних источников.',
-      de: 'Magiergilden entwerfen oft experimentelle Handschuhe wie diesen, um die magische Kraft gegen Monsterfraktionen zu erhöhen. Einige experimentelle Handschuhe sind mit Runen verziert, die aus alten Quellen stammen.',
-      es: 'Los gremios de magos a menudo crean guantes experimentales como este para aumentar el poder mágico contra las facciones de monstruos. Algunos experimentales.'
+      de: 'Magiergilden entwerfen oft experimentelle Handschuhe wie diesen, um die magische Kraft gegen Monsterfraktionen zu erhöhen. Einige experimentelle Handschuhe sind mit Runen verziert, die aus alten Quellen stammen.'
     }
   },
 
