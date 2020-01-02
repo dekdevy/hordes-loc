@@ -279,5 +279,12 @@ export default [{
   description: {
     en: 'Allows you to ride ground mounts.'
   }
+},
+{
+  name: {$$: 'Conjurers Recall'},
+
+  description: {
+    en: 'Teleport to the nearest Conjurer.'
+  }
 }
 ]
