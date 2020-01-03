@@ -23,14 +23,12 @@ export default {
       es: 'Si, abre mi Stash.',
       fr: 'Oui, ouvre ma Stash.',
       de: 'Ja, öffne meinen Stash.',
-      ko: '네, 내 숨긴 장을여십시오.',
       nl: 'Ja, open mijn Stash.',
       tr: 'Evet, Stash aç.',
-      hi: 'हां, मेरा स्टैश खोलें',
       ro: 'Da, deschide-mi Stash.',
-      zh: '是的，打開我的倉庫。',
       hu: 'Rendben, tárd elém a Stasht.',
-      pl: 'Tak, otwórz mój Stash.'
+      pl: 'Tak, otwórz mój Stash.',
+      bn: 'হ্যাঁ, আমার Stash খুলুন'
     }]
   }]
 }
