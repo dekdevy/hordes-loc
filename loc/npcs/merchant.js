@@ -14,7 +14,8 @@ export default {
       ro: 'Ei bine, uite ce avem aici! Nu, echipamentul nu e bun, așa-i? Aruncă o privire la piața liberă! Zvonurile se răspândesc, am auzit de pergamente de război care pot teleporta un prieten la poziția ta. Dar asta să rămână între noi, bine?',
       zh: '來啊！看看我們這裡有什麼！ 不，那個裝備不行，對不對？ 看看開放市場！ 謠言正在蔓延; 聽說Warcry Scrolls可以把朋友傳送到你的位置。 不要讓第三個人知道這件事，好嗎？',
       hu: 'Lám kit látnak szemeim! Nem, az a felszerelés nem lesz elég jó, vagy mégis? Vess egy pillantást erre a vásárra! A pletykák terjednek; Hallottam egy ilyen Warcry Scrolls nevezetű tárgyról, ami az egyik barátodat hozzád tudja teleportálni. Ez maradjon a mi kis titkunk rendben?',
-      pl: 'Zobacz, cóż my tutaj mamy! Nie, ten sprzęt nie nada się, prawda? Spójrz na otwarty rynek! Plotki się rozprzestrzeniają; Słyszałem o Warcry Scrolls, które mogą teleportować sojuszników do ciebie. Ale niech to zostanie między nami, dobrze?'
+      pl: 'Zobacz, cóż my tutaj mamy! Nie, ten sprzęt nie nada się, prawda? Spójrz na otwarty rynek! Plotki się rozprzestrzeniają; Słyszałem o Warcry Scrolls, które mogą teleportować sojuszników do ciebie. Ale niech to zostanie między nami, dobrze?',
+      bn: 'আচ্ছা, দেখুন আমাদের এখানে কি আছে! না, ওই সরঞ্জামগুলি দিয়ে কিছু হবে না, তাই না? খোলা বাজারে একবার দেখুন! গুজব ছড়াচ্ছে;আমি Warcry Scrolls এর কথা শুনেছি যা আপনার একজন বন্ধুকে আপনার অবস্থানে টেলিপোর্ট করতে পারে। আসুন এটা আমাদের মধ্যেই রাখি, ঠিক আছে?'
     },
 
     choices: [{
@@ -31,7 +32,8 @@ export default {
       tr: 'Evet, bana satılık eşyaları göster.',
       zh: '好的，給我看看待售物品。',
       hu: 'Igen, mutassa meg a portékáit.',
-      pl: 'Tak, pokaż mi przedmioty na sprzedaż.'
+      pl: 'Tak, pokaż mi przedmioty na sprzedaż.',
+      bn: 'হ্যাঁ, আমাকে বিক্রয়ের জন্য আইটেমগুলি প্রদর্শন করুন।'
     }]
   }]
 }
