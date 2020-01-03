@@ -14,7 +14,8 @@ export default {
       zh: '如果在升級時沒有使用額外的特殊物品，如Blacksmith’s Blessed Hammer，升級是有危險的，它可以防止物品在升級過程中破裂。如果沒有錘子，我們將承擔風險。那麼，我今天能為你升級一些東西嗎？',
       tr: 'Blacksmith\'s Blessed Hammer gibi, eşyaları geliştirirken onların kırılmasını önleyen ek özel eşyalar kullanmadan geliştirme yapmak risklidir. Çekiç olmadan, eşyanızın kırılma riski var. Neyse, bugün sizin için geliştirebileceğim bir şeyleriniz var mı?',
       hu: 'A fejlesztés elég veszélyes lehet a Blacksmith\'s Blessed Hammer nélkül, ez a kalapács megvédi a tárgyaidat nehogy eltörjenek fejlesztés közben. A kalapács nélkül vállalod a felelősséget, hogy akár eltörhet a tárgyad vagy elveszik a pénzed. Szeretnél bármit is fejleszteni?',
-      pl: 'Ulepszanie jest ryzykownej bez dodatkowych przedmiotów takich jak Blacksmith\'s Blessed Hammer, który może zapobiec zniszczeniu przedmiotów podczas ulepszeń. Bez młota podejmujesz ryzyko. Więc...z pewnością masz coś, co mógłbym dla ciebie dziś ulepszyć?'
+      pl: 'Ulepszanie jest ryzykownej bez dodatkowych przedmiotów takich jak Blacksmith\'s Blessed Hammer, który może zapobiec zniszczeniu przedmiotów podczas ulepszeń. Bez młota podejmujesz ryzyko. Więc...z pewnością masz coś, co mógłbym dla ciebie dziś ulepszyć?',
+      bn: 'Blacksmith\'s Blessed Hammer এর মতো অতিরিক্ত বিশেষ আইটেম ব্যতীত আপগ্রেড করা ঝুঁকিপূর্ণ, এটি আপগ্রেডের সময় আইটেমগুলি ভাঙ্গা থেকে রোধ করতে পারে। এই হাতুড়িটি ছাড়া, আমরা একটি ঝুঁকি গ্রহণ করছি। সুতরাং, আপনার কাছে কি এমন কিছু আছে যা আমি আজ আপনার জন্য আপগ্রেড করতে পারি?'
     },
 
     choices: [{
@@ -30,7 +31,8 @@ export default {
       ko: '예, 몇 가지 품목이 있습니다',
       zh: '是的，我有一些道具要升級。',
       hu: 'Volna pár tárgyam.',
-      pl: 'Tak, mam pewne przedmioty.'
+      pl: 'Tak, mam pewne przedmioty.',
+      bn: 'হ্যাঁ, আমার কিছু জিনিস আছে'
     }]
   }]
 }
