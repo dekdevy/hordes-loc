@@ -101,7 +101,7 @@ export default [
     description: {
       en: 'Golem fragments are painstakingly assembled by a small team of magic-using blacksmiths. Every pair of golem fragments is crafted over several hundred days using the husks of rock golems.',
       hu: 'A Gólem szilánkok fáradságosan lettek összeillesztve egy mágus-kovács csoport által. Minden párját ezeknek a csuklóvédőknek napok százain át készítették kőgólemek holttesteiből.',
-      ru: 'Фрагменты големов тщательно собираются небольшой группой кузнецов, использующих магию. Каждая пара фрагментов голема изготавливается в течение нескольких сотен дней с использованием шелухи големов.',
+      ru: '"Фрагменты големов" тщательно собираются небольшой группой кузнецов, использующих магию. Каждая пара фрагментов голема изготавливается в течение нескольких сотен дней с использованием шелухи големов.',
       fr: 'Les fragments de Golem sont minutieusement assemblés par une petite équipe de forgerons magiciens. Chaque paire de fragments de golem est fabriquée sur plusieurs centaines de jours à l\'aide de coques de golems de roche.',
       es: 'Los fragmentos de golem están cuidadosamente ensamblados por un pequeño equipo de herreros que usan magia. Cada par de fragmentos de golems son elaborados durante cientos de días usando la cascara de los golems de roca.',
       de: 'Golem-Fragmente werden von einem kleinen Team von Magie-Schmieden sorgfältig zusammengestellt. Jedes Paar von Golem-Fragmenten wird über mehrere hundert Tage hinweg aus den Schalen von Felsengolems hergestellt.'
