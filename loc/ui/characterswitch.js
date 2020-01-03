@@ -16,7 +16,8 @@ export default {
     ht: 'Dekonekte',
     ro: 'Deconectare',
     zh: '登出',
-    hu: 'Kijelentkezés'
+    hu: 'Kijelentkezés',
+    bn: 'লগ আউট'
   },
 
   home: {
@@ -34,6 +35,7 @@ export default {
     ro: 'Acasă',
     zh: '主頁',
     hu: 'Főoldal',
-    pl: 'Start'
+    pl: 'Start',
+    bn: 'মূল স্ক্রীন
   }
 }
