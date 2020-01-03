@@ -121,11 +121,12 @@ export default [
   {
     name       : {$$: 'Phrygians' },
     description: {
+      // Do NOT translate "Phrygians".
       en: 'Phrygians were developed by a long-lost civilization destroyed by war. Most of the ruins of these lost cities contained fantastic treasures that have long since been plundered.',
-      hu: 'A Frűgiánusok egy rég elpusztított faj csudálatos termékei. Az elveszett városaik romjai fantasztikus kincseket rejtettek, mik sokáig felfedezetlenül maradtak, amíg ki nem fosztották őket.',
+      hu: 'A Phrygians egy rég elpusztított faj csudálatos termékei. Az elveszett városaik romjai fantasztikus kincseket rejtettek, mik sokáig felfedezetlenül maradtak, amíg ki nem fosztották őket.',
       ru: 'Эти могущественные перчатки были созданы давно потерянной цивилизацией, уничтоженной войной. Большинство руин этих потерянных городов содержали огромные сокровища, которые уже давно были разграблены.',
-      de: 'Die Phryger wurden von einer längst verlorenen Zivilisation erschaffen, die durch den Krieg zerstört wurde. Die meisten Ruinen der zerstörten Städte enthielten fantastische Schätze, die schon lange geplündert wurden.',
-      es: 'Los frigios fueron desarrollados por una civilización perdida hace mucho tiempo destruida por la guerra. La mayoría de las ruinas de estas ciudades perdidas contenían tesoros fantásticos que hace mucho tiempo fueron saqueados.'
+      de: 'Die Phrygians wurden von einer längst verlorenen Zivilisation erschaffen, die durch den Krieg zerstört wurde. Die meisten Ruinen der zerstörten Städte enthielten fantastische Schätze, die schon lange geplündert wurden.',
+      es: 'Phrygians fueron desarrollados por una civilización perdida hace mucho tiempo destruida por la guerra. La mayoría de las ruinas de estas ciudades perdidas contenían tesoros fantásticos que hace mucho tiempo fueron saqueados.'
     }
   },
 
