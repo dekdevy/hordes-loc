@@ -5,7 +5,8 @@ export default {
       hu: 'A megtisztított tudatokban lehetőségek végtelenje rejlik; egy üres csésze csupán akkor hasznos, ha teljesen üres. Hogy segélhetlek a megvilágosodás felé?',
       ru: 'Загруженные умы полны мнений; чаша может оказаться весьма полезной, если впервые обнаружить ее пустой. Как я могу помочь тебе на пути к просветлению?',
       de: 'Belastete Gemüter sind reichlich mit Ansichten gefüllt. Ein Becher kann sehr nützlich sein, wenn er leer ist. Wie kann ich dir auf deinem Weg zur Erleuchtung helfen?',
-      pl: 'Zamyślone umysły pełne są opinii; kubek może być bardzo przydatny gdy początkowo będzie pusty. Jak mogę ci pomóc na drodze do oświecenia?'
+      pl: 'Zamyślone umysły pełne są opinii; kubek może być bardzo przydatny gdy początkowo będzie pusty. Jak mogę ci pomóc na drodze do oświecenia?',
+      bn: 'খাঁটি মনের অন্তহীন সম্ভবনা থাকে; খালি পেয়ালা কেবল তখনই ব্যবহার করা যায় যখন তা সম্পূর্ণ খালি থাকে। আপনাকে আলোকিত পথের অভিমুখে যেতে আমি কিভাবে সাহায্য করতে পারি?'
     },
 
     choices: [{
@@ -17,7 +18,8 @@ export default {
       nl: 'Reset mijn status punten ( $g$1 ).',
       es: 'Restablecer mis puntos de estadísticas ( $g$1 ).',
       de: 'Setze meine Stat-Punkte zurück. ( $g$1 ).',
-      pl: 'Zresetuj moje statystyki ( $g$1 ).'
+      pl: 'Zresetuj moje statystyki ( $g$1 ).',
+      bn: 'আমার চরিত্রগত পয়েন্ট রিসেট করুন ( $g$1 )'
     }]
   }]
 }
