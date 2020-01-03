@@ -72,7 +72,7 @@ export default [
   {
     name       : {$$: 'Imbued Treads' },
     description: {
-      en: 'Footwear such as this is etched with runes that increase the wearer’s speed. However, scholars are hesitant about the use of these runes since their true purpose and nature is unclear.',
+      en: 'Footwear such as this is etched with runes that increase the wearer\'s speed. However, scholars are hesitant about the use of these runes since their true purpose and nature is unclear.',
       hu: 'Az ilyen bocskorokat rúnákkal erősítették meg, amik megnövelik a viselő mozgékonyságát. Ám a mágus társaságok óvakodnak ezektől, mondván, a rúnák mibenléte és működése ismeretlen számukra.',
       ru: 'Обувь, подобная этой, выгравирована рунами, которые увеличивают скорость владелеца. Однако ученые неуверенные по поводу использования этих рун, поскольку их истинное назначение и природа неясны.',
       de: 'Schuhe wie dieses sind mit Runen verziert, welche die Geschwindigkeit des Trägers erhöhen. Gelehrte zögern jedoch bei der Verwendung dieser Runen, da ihr wahrer Zweck und ihre Natur unklar ist.'
