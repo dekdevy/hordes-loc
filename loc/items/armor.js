@@ -101,6 +101,7 @@ export default [
   {
     name       : {$$: 'Soulkeeper' },
     description: {
+      // Do NOT translate "Soulkeeper" directly. Leave it in English, or substitute the word for "armor piece" or "chestplate" if needed.
       en: 'Ancient legends say that each Soulkeeper armor harbors a soul that willingly sacrificed itself to enhance the armor’s protective power. In harder times, individuals made great sacrifices to ensure the survival of their clans and families.',
       hu: 'Az Ősi Legendák szerint a Lélekőrző páncél magához vonzza a lelket, amely feláldozta magát, hogy megnövelje a vért erejét. Nehéz időkben sokan ezt az áldozatot hozták, hogy biztosítsák klánjuk, törzsük, vagy családjuk túlélését.',
       ru: 'Древние легенды гласят, что в каждом доспехе хранится душа, которая добровольно пожертвовала собой, чтобы усилить защитную силу доспеха. В более трудные времена люди идут на большие жертвы, чтобы обеспечить выживание своих кланов и семей.',
@@ -112,11 +113,12 @@ export default [
   {
     name       : {$$: 'Deathless' },
     description: {
+      // Do NOT translate "Deathless" directly. Leave it in English, or substitute it for "armor piece" or "chestplate" if needed.
       en: 'Deathless armors were created by the first kings and leaders as a means to prevent mortal wounds during the First Great War. True to the legend, those kings and leaders did not perish in battle; instead, they were each assassinated in their sleep and their armors were stolen. The forging techniques were lost to time, but massive fortunes were clearly necessary for the process.',
       hu: 'Ezek a vértek ősi császárok készíttették kovácsaikkal, hogy megvédjék magukat a halandó sebektől a Nagy Háború során. A legenda szerint, azok az uralkodók nem harcban estek el; az ágyukban ölték meg őket bérgyilkosok, akik lehúzták róluk előtte a vértet. A kovácsolási módszer ismeretlen, de annyi bizonyos, hogy óriási vagyon volt szügséges hozzá.',
       ru: 'Такие доспехи были созданы первыми царями и вождями, чтобы предотвратить смертельные ранения во время "The First Great War". По преданию легенды, эти цари и вожди не погибли в бою, а были убиты во сне, и их доспехи были украдены. Методы ковки были потеряны со временем, но для этого процесса явно требовались огромные силы и жертвы.',
       de: 'Die Deathless-Rüstungen wurden von den ersten Königen und Anführern geschaffen, um tödliche Wunden während des ersten großen Krieg zu heilen. Der Legende nach starben diese Könige und Anführer nicht im Kampf, sondern wurden jeweils im Schlaf ermordet und ihrer Rüstungen bestohlen. Die Schmiedetechniken gingen mit der Zeit verloren, aber ein riesiges Vermögen war für den Herstellungsprozess offensichtlich notwendig.',
-      es: 'Las armaduras inmortales fueron creadas por los primeros reyes y líderes como un medio para prevenir heridas mortales durante la Primera Gran Guerra. Fiel a la leyenda, esos reyes y líderes no perecieron en la batalla; en cambio, fueron asesinados mientras dormían y sus armaduras fueron robadas. Las técnicas de forja se perdieron con el tiempo, pero las fortunas masivas fueron claramente necesarias para el proceso.'
+      es: 'Las Deathless fueron creadas por los primeros reyes y líderes como un medio para prevenir heridas mortales durante la Primera Gran Guerra. Fiel a la leyenda, esos reyes y líderes no perecieron en la batalla; en cambio, fueron asesinados mientras dormían y sus armaduras fueron robadas. Las técnicas de forja se perdieron con el tiempo, pero las fortunas masivas fueron claramente necesarias para el proceso.'
     }
   }
 
