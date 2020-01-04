@@ -281,7 +281,7 @@ export default [{
   }
 },
 {
-  name: {$$: 'Conjurers Recall'},
+  name: {$$: 'Conjurer\'s Recall'},
 
   description: {
     en: 'Teleport to the nearest Conjurer.'
