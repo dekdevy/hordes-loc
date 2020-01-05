@@ -24,7 +24,7 @@ export default {
     en: 'Mages deal very heavy large scale Area of Effect damage, while also providing utility through slowing targets with their ice based magic.',
     ru: 'Маги наносят большой урон по области, а так же приносят пользу благодаря замедлению целей своей магией льда.',
     de: 'Magier verursachen sehr großen Flächenschaden und sind gleichzeitig nützlich, da sie Ziele mit ihrer auf Eis basierenden Magie verlangsamen.',
-    es: 'Los magos son capaces de causar un gran daño en área mientras proveen utilidad mediante la ralentización de sus enemigos a través de su magia basada en hielo.', 
+    es: 'Los magos son capaces de causar un gran daño en área mientras proveen utilidad mediante la ralentización de sus enemigos a través de su magia basada en hielo.',
     fr: 'Les Mages infligent de très lourds dégâts à grande échelle grâce à leurs dégâts de zone tout en pouvant être utiles en ralentissant les cibles grâce à leur magie de glace.',
     ko: '마법사는 매우 큰 무거운 대 면적의 효과 피해를 처리하는 동시에 얼음 기반의 마법으로 대상의 속도를 늦추어 유틸리티를 제공합니다.',
     hi: 'जादूगर बड़े स्तर पर एक गोल ईलाके में ज़ोरदार क्षति पहुँचा सकते है और साथ ही साथ अपने बर्फ़ीले जादू से दुश्मनो को धीमे भी कर सकते है।',
