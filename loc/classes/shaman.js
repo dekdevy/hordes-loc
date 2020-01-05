@@ -24,7 +24,7 @@ export default {
     en: 'The Shaman\'s role is to support the group by healing the Tank and offering offensive Buffs or crippling Debuffs.',
     ru: 'Шаманы играют роль поддержки группы, излечивая Танка и преподнося усиливающие бонусы или наносящие урон отрицательные эффекты.',
     de: 'Die Rolle der Schamanen besteht darin, die Gruppe zu unterstützen, indem sie den Tank heilen und offensive Buffs anbieten oder Debuffs verteilen.',
-    es: 'El rol del chamán es apoyar todo el equipo, curar el tanque y ofrecer Buffs ofensivos o Debuffs paralizantes.',
+    es: 'El rol del Chamán es el de apoyar al equipo a través de las curaciones al tanque y ofreciendo Buffs(ventajas) ofensivos o Debuffs(desventajas) paralizantes.',
     fr: 'Le rôle des chamans est de soutenir le groupe en guérissant le tank et en offrant des buffs offensifs ou des Débuffs ralentissants.',
     ko: '샤먼의 역할은 탱크를 치유하고 공세적 인 버프 또는 맹독적인 디버프를 제공하여 그룹을 지원하는 것입니다.',
     pt: 'O papel dos xamãs é apoiar o grupo, curando o Tanque e oferecendo Buffs ofensivos ou Debuffs incapacitantes.',
