@@ -31,6 +31,7 @@ export default [
       hu: 'Ez a robosztus hátizsákot szörnyetegek bőréből készítették, és bőséges tárolóhelyet nyújt.',
       tr: 'Canavar kalıntılarından yapılmış bu sağlam çanta gayet büyük bir envanter sağlıyor.',
       de: 'Dieser robuste Sack ist aus Monsterhaut gefertigt und erlaubt ein ansehnliches Inventar.'
+      es: 'Este saco robusto está hecho a base de pieles de monstruo y permite un inventario respetable'
     }
   },
 
@@ -54,7 +55,7 @@ export default [
       hu: 'Az ilyen hátizsákokat remeteközösségek adományaiként kapták a hősök. Sajnos, a szörnyetegek addig háborgatták az erdei bölcseket, míg szert nem tettek a táskákra.',
       tr: 'Bunun gibi çantalar, gizli rahip topluluklarından doğal bir armağandır. Ne yazık ki, canavarlar birçok rahipten kurtulup bu kutsal çantaları çalmışlardır.',
       de: 'Taschen wie diese sind ein Geschenk der Natur an geheime Druidengesellschaften. Leider haben Monster im Laufe der Zeit viele Druiden entsorgt und die heiligen Taschen gestohlen.',
-      es: 'Bolsas como estas son un regalo de la naturaleza para sociedades secretas de druidas. Desafortunadamente, los monstruos han eliminado muchas druidas con el tiempo y han robado estas bolsas sagradas.'
+      es: 'Bolsas como estas son un regalo de la naturaleza para las sociedades secretas de druidas. Desafortunadamente, los monstruos han eliminado muchos druidas con el tiempo y han robado estas bolsas sagradas.'
     }
   }
 
