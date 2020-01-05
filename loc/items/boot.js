@@ -27,7 +27,7 @@ export default [
       en: 'Leather shoes are created with fine craftsmanship for moderate battle durability.',
       hu: 'Az erős bőr megfelelő megmunkálás után akár harci védelmet is nyújthat.',
       ru: 'Эта кожаная обувь сделана с тонким мастерством для умеренной боевой прочности.',
-      de: 'Lederschuhe werden mit feiner Handwerkskunst für eine mäßige Haltbarkeit im Kampf hergestellt.'
+      de: 'Lederschuhe werden mit feiner Handwerkskunst für eine mäßige Haltbarkeit im Kampf hergestellt.',
       es: 'Los Leather Shoes son creados con gran destreza para la durabilidad moderada en batalla'
     }
   },
