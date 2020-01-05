@@ -93,7 +93,8 @@ export default [
       en: 'Elvish magic is assisted by wind spirits to create Skyswift Boots. Although Elves are very close to nature, even they know little about the reclusive wind spirits.',
       hu: 'Az Elf mágia a szelek szellemeivel összefogva fonja az Égsebes Csizmákat. Habár az Elfek igen közel állanak efféle jószágokhoz, elég keveset tudnak a haragos viharszellemről.',
       ru: 'Эльфийская магия создаёт такие ботинки при помощи духов ветра. Хоть эльфы и очень близки к природе, но даже они мало знают о духах ветра.',
-      de: 'Die elfische Magie wird von Windgeistern unterstützt, um Skyswift Boots zu erstellen. Obwohl die Elfen sehr naturverbunden sind, wissen selbst sie wenig über die zurückgezogenen Windgeister.'
+      de: 'Die elfische Magie wird von Windgeistern unterstützt, um Skyswift Boots zu erstellen. Obwohl die Elfen sehr naturverbunden sind, wissen selbst sie wenig über die zurückgezogenen Windgeister.',
+      es: 'La magia Élfica es asistida por los espíritus del viento para crear las Skyswift Boots. Aunque los Elfos son muy cercanos a la naturaleza, incluso ellos saben algo acerca de los solitarios espíritus del viento.'
     }
   },
 
