@@ -127,7 +127,7 @@ export default [
       hu: 'Egy híres leganda után nevezték el a csizmákat. A lábbelik névadója egy ismert istenség gyors saruja volt, de azt senki nem tudja, honnan származik a történet, és ki is volt ez az istenség.',
       ru: 'Эти ботинки названы в честь знаменитой реликтовой легенды. Тезка этих ботинок предположительно была быстрой обувью знаменитого божества, но, похоже, никто не знает, откуда взялась эта история.',
       de: 'Diese Schuhe sind nach einer berühmten Reliktlegende benannt. Der Namensgeber dieser Stiefel war angeblich das schnelle Schuhwerk einer berühmten Gottheit, aber niemand scheint zu wissen, woher die Geschichte kommt.',
-      es: 'Estas botas han sido nombradas como una famosa y legendaria reliquia. El homónimo de estas botas fue supuestamente el calzado veloz de una deidad famosa, pero parece que nadie sabe dónde se ha originado la historia.' 
+      es: 'Estas botas han sido nombradas como una famosa y legendaria reliquia. El homónimo de estas botas fue supuestamente el calzado veloz de una deidad famosa, pero parece que nadie sabe dónde se ha originado la historia.'
     }
   },
 
