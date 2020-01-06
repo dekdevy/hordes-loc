@@ -16,7 +16,8 @@ export default {
     zh: '魔法師',
     hu: 'Mágus',
     pl: 'Mag',
-    bn: 'যাদুকর'
+    bn: 'যাদুকর',
+    vi: 'Pháp sư'
   },
 
   // Class description, visible during character creation
@@ -35,6 +36,7 @@ export default {
     zh: '魔法師會釋放大範圍的區域傷害，同時還會利用冰屬性魔法減慢目標。',
     hu: 'A Mágusok tudnak egy nagy területen belül pusztítani, de támogatást is nyújthatnak, ha ellenségeiket fagymágiával lelassítják.',
     pl: 'Magowie zadają bardzo duże obrażenia obszarowe na dużą skalę, zapewniając jednocześnie użyteczność poprzez spowalnianie celów magią lodu.',
-    bn: 'যাদুকরেরা বড় মাপের এলাকায় ক্ষতিসাধন করতে পারে, একইসাথে তারা তাদের শত্রুদের বরফপূর্ণ যাদু দ্বারা ধীরগতিসম্পন্ন করতে পারে।'
+    bn: 'যাদুকরেরা বড় মাপের এলাকায় ক্ষতিসাধন করতে পারে, একইসাথে তারা তাদের শত্রুদের বরফপূর্ণ যাদু দ্বারা ধীরগতিসম্পন্ন করতে পারে।',
+    vi: 'Pháp sư gây sát thương trên một vùng rộng lớn, đồng thời cũng rất hữu dụng thông qua việc gây làm chậm các mục tiêu bằng các phép thuật băng của họ'
   }
 }
