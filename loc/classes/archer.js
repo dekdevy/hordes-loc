@@ -16,7 +16,8 @@ export default {
     hu: 'Vadász',
     pl: 'Łucznik',
     bg: 'Стрелец',
-    bn: 'ধনু'
+    bn: 'ধনু',
+    vi: 'Cung thủ'
   },
 
   // Class description, visible during character creation
@@ -35,6 +36,7 @@ export default {
     zh: '弓箭手會對單一目標造成高額傷害而且也有著爆發區域傷害。 一個專業的弓箭手會與敵人保持距離，並在遠處進行狙擊。',
     hu: 'A vadászok kiválóan képesek koncentrálni erejüket egyetlen célpontra, és darabosan több ellenfélre is kifejthetik hatásukat. Egy jó lövész mindig távolságot tart, és a nyilait a távolból zúdítja áldozatára.',
     pl: 'Łucznicy zadają wysokie obrażenia pojedyńczym celom i duże obrażenia obszarowe. Dobry łucznik będzie zawsze trzymał dystans i strzelał do wrogów z daleka.',
-    bn: 'তীরন্দাজরা একটি নির্দিষ্ট লক্ষ্যবস্তুকে আঘাত করে এবং বিপুল পরিমাণ ক্ষতিসাধন করে। একজন ভালো তীরন্দাজ যথেষ্ট দূরত্ব বজায় রেখে শত্রুদের আক্রমণ করে।'
+    bn: 'তীরন্দাজরা একটি নির্দিষ্ট লক্ষ্যবস্তুকে আঘাত করে এবং বিপুল পরিমাণ ক্ষতিসাধন করে। একজন ভালো তীরন্দাজ যথেষ্ট দূরত্ব বজায় রেখে শত্রুদের আক্রমণ করে।',
+    vi: 'Cung thủ gấy sát thương đơn mục tiêu cao và gây sát thương diện rộng. Một cung thủ tốt phải biết giữ khoảng cách và bẳn tỉa kẻ địch từ xa'
   }
 }
