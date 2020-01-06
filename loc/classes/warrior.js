@@ -16,7 +16,8 @@ export default {
     zh: '戰士',
     hu: 'Harcos',
     pl: 'Wojownik',
-    bn: 'যোদ্ধা'
+    bn: 'যোদ্ধা',
+    vi: 'Chiến binh'
   },
   // Class description, visible during character creation
   description: {
@@ -34,6 +35,7 @@ export default {
     zh: '通過裝備（盾牌）和強大的防守增益效果，戰士可以打敗比其他角色更多的怪物。',
     hu: 'A harcosok hatalmas védekező képességükre és erejükre támaszkodva magukra vállalhatják a közelharcot számos ellenséggel, hogy a csapatjuk többi tagja zavartalanul használhassa mágiáját.',
     pl: 'Wojownicy są stworzeni aby tankować więcej potworów niż jakakolwiek inna klasa, a to dzięki wysokiej obronie i pomocy wyposażenia (tarcze) oraz silnych buffów obronnych.',
-    bn: 'যোদ্ধারা অন্য যেকোনো শ্রেণী থেকে বেশী শত্রু যখম করতে পারে তাদের সরঞ্জামের (ঢাল) ও শক্তিশালী বাফের থেকে পাওয়া উচ্চমাত্রার প্রতিরক্ষা ব্যাবস্থার ফলে।'
+    bn: 'যোদ্ধারা অন্য যেকোনো শ্রেণী থেকে বেশী শত্রু যখম করতে পারে তাদের সরঞ্জামের (ঢাল) ও শক্তিশালী বাফের থেকে পাওয়া উচ্চমাত্রার প্রতিরক্ষা ব্যাবস্থার ফলে।',
+    vi: 'Chiến binh được xây dựng để chống chịu trước nhiều quái vật hơn các lớp nhân vật khác bởi vì có sức phòng thủ cao thông qua các trang bị (Khiên) và các buff phòng thủ mạnh mẽ'
   }
 }
