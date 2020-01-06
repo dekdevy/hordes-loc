@@ -190,7 +190,7 @@ export default {
       zh: '獲得聲譽',
       pl: 'Zdobyta Sława',
       bn: 'Fame লাভ',
-      vi: 'Danh vọng nhận được;
+      vi: 'Danh vọng nhận được'
     }
   ]
 }
