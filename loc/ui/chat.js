@@ -14,7 +14,8 @@ export default {
     hu: 'Suttogás',
     zh: '耳語',
     pl: 'Szept',
-    bn: 'ফিসফিসানি'
+    bn: 'ফিসফিসানি',
+    vi: 'Thì thầm'
   },
 
   types: [
@@ -30,7 +31,8 @@ export default {
       hu: 'EXP Jutalom',
       zh: 'Exp 獲得',
       pl: 'Zdobywanie Doświadczenia',
-      bn: 'Exp লাভ'
+      bn: 'Exp লাভ',
+      vi: 'Kinh nghiệm nhận được'
     },
     {
       en: 'Target Change',
@@ -43,7 +45,8 @@ export default {
       hu: 'Célpont Megváltoztatása',
       zh: '目標變更',
       pl: 'Zmiana celu',
-      bn: 'লক্ষ্য পরিবর্তন'
+      bn: 'লক্ষ্য পরিবর্তন',
+      vi: 'Mục tiêu thay đổi'
     },
     {
       en: 'Cast',
@@ -56,7 +59,8 @@ export default {
       hu: 'Előhívás',
       zh: '施法',
       pl: 'Rzucenie czaru',
-      bn: 'নিক্ষেপ'
+      bn: 'নিক্ষেপ',
+      vi: 'Thi triển'
     },
     {
       en: 'Damage',
@@ -70,7 +74,8 @@ export default {
       hu: 'Sebzés',
       zh: '傷害',
       pl: 'Obrażenia',
-      bn: 'ক্ষতি'
+      bn: 'ক্ষতি',
+      vi: 'Sát thương'
     },
     {
       en: 'Heal',
@@ -84,7 +89,8 @@ export default {
       hu: 'Gyógyítás',
       zh: '補血',
       pl: 'Leczenie',
-      bn: 'চিকিৎসা'
+      bn: 'চিকিৎসা',
+      vi: 'Hồi máu'
     },
     {
       en: 'Death',
@@ -98,7 +104,8 @@ export default {
       hu: 'Halál',
       zh: '死亡',
       pl: 'śmierć',
-      bn: 'মৃত্যু'
+      bn: 'মৃত্যু',
+      vi: 'Chết'
     },
     {
       en: 'Level Up',
@@ -111,7 +118,8 @@ export default {
       hu: 'Szintlépés',
       zh: '升等',
       pl: 'Zdobyto poziom',
-      bn: 'লেভেল আপ'
+      bn: 'লেভেল আপ',
+      vi: 'Lên cấp'
     },
     {
       en: 'Items',
@@ -124,7 +132,8 @@ export default {
       hu: 'Tárgyak',
       zh: '升等',
       pl: 'Przedmioty',
-      bn: 'আইটেমস'
+      bn: 'আইটেমস',
+      vi: 'Vật phẩm'
     },
     {
       en: 'Auction',
@@ -137,7 +146,8 @@ export default {
       hu: 'Aukció',
       zh: '拍賣',
       pl: 'Aukcja',
-      bn: 'নিলাম'
+      bn: 'নিলাম',
+      vi: 'Nhà đấu giá'
     },
     {
       en: 'Pick Gold',
@@ -150,7 +160,8 @@ export default {
       hu: 'Felvett Arany',
       zh: '採金',
       pl: 'Zbierz złoto',
-      bn: 'টাকা তোলা'
+      bn: 'টাকা তোলা',
+      vi: 'Nhặt vàng'
     },
     {
       en: 'Spent Gold',
@@ -163,7 +174,8 @@ export default {
       hu: 'Elköltött Arany',
       zh: '花金',
       pl: 'Wydane złoto',
-      bn: 'টাকা ব্যয় করা'
+      bn: 'টাকা ব্যয় করা',
+      vi: 'Vàng đã dùng'
     },
     {
       en: 'Fame Gain',
@@ -177,7 +189,8 @@ export default {
       hu: 'Dicsőség Jutalom',
       zh: '獲得聲譽',
       pl: 'Zdobyta Sława',
-      bn: 'Fame লাভ'
+      bn: 'Fame লাভ',
+      vi: 'Danh vọng nhận được'
     }
   ]
 }

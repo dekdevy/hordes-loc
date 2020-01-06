@@ -13,7 +13,8 @@ export default {
     ro: 'Trebuie să aștepți până să poți recupera acest obiect.',
     zh: '您必须等到可以取回这个装备。',
     hu: 'Várnod kell még hogy visszaszerezhesd ezt a tárgyat.',
-    pl: 'Musisz poczekać zanim podniesiesz ten przedmiot.'
+    pl: 'Musisz poczekać zanim podniesiesz ten przedmiot.',
+    vi: 'Bạn phải đợi cho đến khi bạn có thể lấy lại vật phẩm này.'
   },
 
   withdraw: {
@@ -30,7 +31,8 @@ export default {
     tr: 'Çekil',
     zh: '退出',
     hu: 'Pénz Kivétele',
-    pl: 'Podejmij'
+    pl: 'Podejmij',
+    vi: 'Rút tiền'
   },
 
   // Translate the verb, rather than the noun.
@@ -38,7 +40,8 @@ export default {
     en: 'Deposit',
     ru: 'Депозировать',
     pl: 'Depozyt',
-    de: 'Hinterlegen'
+    de: 'Hinterlegen',
+    vi: 'Gửi tiền'
   },
 
   // Do not translate "Stash".
@@ -55,7 +58,8 @@ export default {
     ro: 'Mută în Stash.',
     zh: '转到保管',
     hu: 'Stash küldés',
-    pl: 'Przenieś do Stash'
+    pl: 'Przenieś do Stash',
+    vi: 'Di chuyển vào Stash'
   },
 
   // Do not translate "Stash".
@@ -72,7 +76,8 @@ export default {
     ko: '$1 가 숨겨지기로 옮겼습니다.',
     zh: '$1 被转移到了你的保管',
     hu: 'A Stash fiókodba került: $1',
-    pl: '$1 został przeniesiony do Stash'
+    pl: '$1 został przeniesiony do Stash',
+    vi: '$1 đã được đưa ra khỏi Stash.'
   }
 
 }

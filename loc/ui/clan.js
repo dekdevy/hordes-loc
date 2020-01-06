@@ -15,7 +15,8 @@ export default {
     zh: '離開公會',
     hu: 'Klán Elhagyása',
     pl: 'Opuść Klan',
-    bn: 'ক্ল্যান ছাড়ুন'
+    bn: 'ক্ল্যান ছাড়ুন',
+    vi: 'Rời khỏi bang'
   },
 
   heading: {
@@ -33,7 +34,8 @@ export default {
     zh: '公會',
     hu: 'Klán',
     pl: 'Klan',
-    bn: 'ক্ল্যান'
+    bn: 'ক্ল্যান',
+    vi: 'Bang'
   },
 
   createheading: {
@@ -51,7 +53,8 @@ export default {
     zh: '創建公會',
     hu: 'Klán Létrehozása',
     pl: 'Stwórz Klan',
-    bn: 'ক্ল্যান তৈরি করুন'
+    bn: 'ক্ল্যান তৈরি করুন',
+    vi: 'Tạo bang'
   },
 
   createname: {
@@ -69,7 +72,8 @@ export default {
     zh: '公會名稱',
     hu: 'Klán Neve',
     pl: 'Nazwa Klanu',
-    bn: 'ক্ল্যানের নাম'
+    bn: 'ক্ল্যানের নাম',
+    vi: 'Tên bang'
   },
 
   createtag: {
@@ -87,7 +91,8 @@ export default {
     zh: '公會標籤',
     hu: 'Klán Címkéje',
     pl: 'Tag Klanu',
-    bn: 'ক্ল্যান ট্যাগ'
+    bn: 'ক্ল্যান ট্যাগ',
+    vi: 'Thẻ bang'
   },
 
   createbutton: {
@@ -105,7 +110,8 @@ export default {
     zh: '創建',
     hu: 'Létrehozás',
     pl: 'Stwórz',
-    bn: 'তৈরি করুন'
+    bn: 'তৈরি করুন',
+    vi: 'Tạo'
   },
 
   roles: [

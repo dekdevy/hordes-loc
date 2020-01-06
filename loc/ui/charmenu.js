@@ -17,7 +17,8 @@ export default {
       zh: '選人物',
       hu: 'Válassz karaktert',
       pl: 'Wybierz Postać',
-      bn: 'চরিত্র বাছাই করুন'
+      bn: 'চরিত্র বাছাই করুন',
+      vi: 'Lựa chọn nhân vật'
     },
 
     create: {
@@ -35,7 +36,8 @@ export default {
       zh: '點擊以創建角色',
       hu: 'Kattints karakter létrehozásához',
       pl: 'Klijnij aby stworzyć postać',
-      bn: 'চরিত্র তৈরি করতে ক্লিক করুন'
+      bn: 'চরিত্র তৈরি করতে ক্লিক করুন',
+      vi: 'Nhấn để tạo nhân vật'
     },
 
     enterWorld: {
@@ -53,7 +55,8 @@ export default {
       zh: '進入世界',
       hu: 'Belépés a világba',
       pl: 'Wejdź do świata',
-      bn: 'প্রবেশ করুন'
+      bn: 'প্রবেশ করুন',
+      vi: 'Tiến vào Thế giới'
     },
 
     emptySlot: {
@@ -71,7 +74,8 @@ export default {
       zh: '空的',
       hu: 'Üres',
       pl: 'Pusty',
-      bn: 'খালি'
+      bn: 'খালি',
+      vi: 'Trống'
     },
 
     error: {
@@ -89,7 +93,8 @@ export default {
       zh: '網絡錯誤',
       hu: 'Hálózati Hiba',
       pl: 'Problem z siecią',
-      bn: 'নেটওয়ার্কে সমস্যা'
+      bn: 'নেটওয়ার্কে সমস্যা',
+      vi: 'Lỗi kết nối mạng'
     }
   },
 
@@ -110,7 +115,8 @@ export default {
       zh: '角色創造',
       hu: 'Karakter Létrehozás',
       pl: 'Tworzenie Postaci',
-      bn: 'চরিত্র নির্মাণ'
+      bn: 'চরিত্র নির্মাণ',
+      vi: 'Tạo nhân vật'
     },
 
     pressIcon: {
@@ -128,7 +134,8 @@ export default {
       zh: '按圖標可獲得簡要說明。',
       hu: 'Kattints a címerre egy rövid leírásért.',
       pl: 'Kliknij ikonę aby wyświetlić krótki opis.',
-      bn: 'সংক্ষিপ্ত বিবরণের জন্য ছবিতে ক্লিক করুন।'
+      bn: 'সংক্ষিপ্ত বিবরণের জন্য ছবিতে ক্লিক করুন।',
+      vi: 'Nhấn biểu tượng để xem mô tả ngắn gọn'
     },
 
     selectClass: {
@@ -146,7 +153,8 @@ export default {
       zh: '選擇角色職業',
       hu: 'Válassz egy kasztot',
       pl: 'Wybierz klasę',
-      bn: 'শ্রেণী বাছাই করুন'
+      bn: 'শ্রেণী বাছাই করুন',
+      vi: 'Lựa chọn Lớp nhân vật'
     },
 
     selectFaction: {
@@ -164,7 +172,8 @@ export default {
       zh: '選擇派系',
       hu: 'Válassz egy szövetséget',
       pl: 'Wybierz frakcję',
-      bn: 'দল বাছাই করুন'
+      bn: 'দল বাছাই করুন',
+      vi: 'Lựa chọn phe phái'
     },
 
     enterName: {
@@ -182,7 +191,8 @@ export default {
       zh: '選擇名稱',
       hu: 'Add meg a hősöd nevét',
       pl: 'Wprowadź imię',
-      bn: 'নাম লিখুন'
+      bn: 'নাম লিখুন',
+      vi: 'Nhập tên'
     },
 
     nameReq: {
@@ -199,7 +209,8 @@ export default {
       ro: 'Numele tău poate conține doar caractere a-Z, și numere 0-9, fără spații. Între 3 și 16 caractere.',
       hu: 'A nevedben betűk a-tól Z-ig, és számok 0-tól 9-ig, lehetnek csak, szünetek nélkül. 3 és 16 karakter között.',
       pl: 'Imię musi zawierać tylko litery a-Z oraz numery 0-9, bez spacji. Od 3 do 16 znaków.',
-      bn: 'আপনার বাছাই করা নামে শুধু a-Z অক্ষর এবং 0-9 সংখ্যা ব্যবহার করা যাবে, কোনো স্পেস ছাড়া 3 থেকে 16  অক্ষরের মাঝে লিখতে হবে।'
+      bn: 'আপনার বাছাই করা নামে শুধু a-Z অক্ষর এবং 0-9 সংখ্যা ব্যবহার করা যাবে, কোনো স্পেস ছাড়া 3 থেকে 16  অক্ষরের মাঝে লিখতে হবে।',
+      vi: 'Tên của bạn chỉ chứ các ký tự từ a-z, và số từ 0-9, không bao gồm khoảng trắng. Độ dài từ 3 đến 16 kí tự.'
     }
   },
 
@@ -221,7 +232,8 @@ export default {
       zh: '刪除',
       hu: 'Törlés',
       pl: 'Usuń',
-      bn: 'মুছে ফেলুন'
+      bn: 'মুছে ফেলুন',
+      vi: 'Xóa'
     },
 
     info: {
@@ -239,7 +251,8 @@ export default {
       zh: '要刪除，請鍵入角色的名稱。 你的角色無法恢復。',
       hu: 'Add meg a karaktered nevét a törléshez. Ezek után már nem lehet visszaállítani.',
       pl: 'Aby usunąć, wpisz imię postaci. Przywrócenie postaci nie będzie możliwe.',
-      bn: 'মুছে ফেলতে, চরিত্রের নামটি টাইপ করুন। আপনার মুছে ফেলা চরিত্রটি পুনরুদ্ধার করা সম্ভব না।'
+      bn: 'মুছে ফেলতে, চরিত্রের নামটি টাইপ করুন। আপনার মুছে ফেলা চরিত্রটি পুনরুদ্ধার করা সম্ভব না।',
+      vi: 'Để xóa, gõ tên nhân vật. Nhân vật của bạn không thể phục hồi.'
     },
 
     placeholder: {
@@ -257,7 +270,8 @@ export default {
       zh: '你確定嗎？',
       hu: 'Biztos vagy benne?',
       pl: 'Na pewno?',
-      bn: 'আপনি কি নিশ্চিত?'
+      bn: 'আপনি কি নিশ্চিত?',
+      vi: 'Bạn có chắc chứ?'
     }
   }
 }

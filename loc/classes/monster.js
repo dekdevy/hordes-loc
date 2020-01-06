@@ -15,6 +15,7 @@ export default {
     zh: '怪物',
     hu: 'Szörnyeteg',
     pl: 'Potwór',
-    bn: 'দানব'
+    bn: 'দানব',
+    vi: 'Quái vật'
   }
 }

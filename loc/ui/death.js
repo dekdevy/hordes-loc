@@ -14,7 +14,8 @@ export default {
     zh: '你死了。',
     hu: 'Meghaltál',
     pl: 'Zginąłeś',
-    bn: 'আপনি মারা গেছেন'
+    bn: 'আপনি মারা গেছেন',
+    vi: 'Bạn đã chết'
   },
 
   deathmsg: {
@@ -32,7 +33,8 @@ export default {
     zh: '按下按钮可以找最近的魔术师处复活',
     hu: 'Nyomd meg a gombot hogy felgyógyítsanak a legközelebbi Conjurernél',
     pl: 'Wciśnij przycisk aby zostać wskrzeszonym przy najbliższym Conjurer',
-    bn: 'নিকটতম কনজিউরারে পুনরুত্থিত হতে বাটনে চাপুন'
+    bn: 'নিকটতম কনজিউরারে পুনরুত্থিত হতে বাটনে চাপুন',
+    vi: 'Nhấn nút để hồi sinh tại điểm gần nhất'
   },
 
   // 'Resurrect' is used in many translations/languages.
@@ -50,6 +52,7 @@ export default {
     zh: '复活',
     hu: 'Feltámadás',
     pl: 'Respawn',
-    bn: 'পুনর্জীবন'
+    bn: 'পুনর্জীবন',
+    vi: 'Hồi sinh'
   }
 }
