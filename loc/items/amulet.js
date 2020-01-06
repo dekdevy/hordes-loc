@@ -13,7 +13,8 @@ export default [
       ko: '타 버린 성분들이 꼬여서 묶여서 약한 보호 장치가되었습니다. 이와 같은 단순한 부적을 만드는 것은 고대부터 일반적인 생존 전술이었습니다.',
       ro: 'Ingrediente arse au fost răsucite și îmbinate împreună pentru a forma o amuletă de protecție slabă. Crearea unor amulete simple ca aceasta a fost o tactică comună de supraviețuire încă din antichitate.',
       tr: 'Yakılan malzemeler bu az korumaya sahip muskayı oluşturmak için büküldü ve bir araya getirildi. Bunun gibi basit muskalar yapmak çok eski zamanlardan beri alışılagelmiş bir hayatta kalma taktiğidir.',
-      hu: 'Égetett anyagokat bűvölve készítik a mágusok eme kisebb amuletteket. Nagy veszély idején nélkülözhetetlen túlélő eszközök.'
+      hu: 'Égetett anyagokat bűvölve készítik a mágusok eme kisebb amuletteket. Nagy veszély idején nélkülözhetetlen túlélő eszközök.',
+      vi: 'Các nguyên liệu bị đốt cháy đã được xoắn và gắn lại với nhau tạo thành một bùa hộ mệnh đơn giản. Chế tạo bùa hộ mệnh đơn giản như thế này là đã là một cách sinh tồn từ thời cổ đại.'
     }
   },
 
@@ -31,7 +32,8 @@ export default [
       ko: '늑대를 노예 상태로 유지할 수있는 고리는 두꺼운 가죽으로 만듭니다. 그들 중 일부는 여전히 연결 고리가 연결되어 있지만 모든 늑대 고리는 견고합니다. 일부 고리는 영적 보호를받습니다.',
       ro: 'Zgărzile pentru a ține lupii în servitute sunt făcute dintr-o piele groasă. Unele dintre ele încă mai au lanțuri atașate de ele, dar toate gulerele pentru lupi sunt robuste. Unele zgărzi sunt îmbibate cu protecție spirituală.',
       tr: 'Kalın bir deriden, kurtların itaat etmesi için yapılmış tasmalar. Bazılarının zincirleri hâlâ bağlı ama tüm tasmalar sağlam. Hatta bazıları ruhani koruma ile dolu.',
-      hu: 'Vastag bőrből készültek ezek a nyakörvek, hogy rabságban tarthassák a legszilajabb farkasokat is. Egyes darabokról még mindig láncok lógnak, és néhányat elbűvöltek védelmi varázslatokkal.'
+      hu: 'Vastag bőrből készültek ezek a nyakörvek, hogy rabságban tarthassák a legszilajabb farkasokat is. Egyes darabokról még mindig láncok lógnak, és néhányat elbűvöltek védelmi varázslatokkal.',
+      vi: 'Vòng cổ được làm từ da sói. Một vài chúng vẫn còn các kết nối với nhau, tuy nhiên tất cả vòng cổ sói đều cứng cáp. Một số vòng cổ được thấm nhuần sự bảo vệ tâm linh.'
     }
   },
 
@@ -49,7 +51,8 @@ export default [
       ko: '이 목걸이는 다양한 강력한 생물의 뼈 조각으로 구성되어 있습니다. 각 뼈 목걸이는 뼈의 기원에 따라 보호가 다릅니다.',
       ro: 'Acest colier este compus din fragmente de oase a unei varietate de creaturi puternice. Fiecare colier de os variază în funcție de originea oaselor.',
       tr: 'Bu kolye çeşitli güçlü yaratıkların kemik parçalarından oluşmakta. Her kemik kolyenin koruma gücü onu oluşturan kemiklerin nereden elde edildiğine bağlı olarak değişiklik gösterir.',
-      hu: 'Ez a nyaklánc különböző pusztító bestiák csontszilánkjaiból lett összeállítva. Minden nyaklánc védőereje azon alapul, hogy milyen szörnyetegek csontját használták fel.'
+      hu: 'Ez a nyaklánc különböző pusztító bestiák csontszilánkjaiból lett összeállítva. Minden nyaklánc védőereje azon alapul, hogy milyen szörnyetegek csontját használták fel.',
+      vi: 'Vòng cổ này bao gồm các mảnh xương từ nhiều sinh vật mạnh mẽ. Mỗi vòng cổ xương có sự bảo vệ khác nhau dựa trên nguồn gốc bộ xương.'
     }
   },
 
@@ -67,7 +70,8 @@ export default [
       ko: '희생 된 사람들의 몸에 남겨진 두려운 늑대 인간 발톱은 신비한 기름으로 기름을 바르고 명상을 통해 영적 불굴의 정신으로 불타 올랐습니다. 이 부적의 창시자는이 영적 보호가 언젠가 복수로 사용되기를 바랐습니다.',
       ro: 'Ghearele unui vârcolac temut care au fost lăsate în urmă pe corpurile victimelor, au fost unse cu uleiuri mistice și insuflate cu tărie spirituală ob; prin meditație. Creatorii acestor amulete au sperat că aceste protecții spirituale vor fi folosite într-o zi pentru răzbunare.',
       tr: 'Kurt adamın kurbanlarının vücutlarında kalan bu korkunç pençeler, mistik yağlar ile mesh edilmiş ve meditasyon yoluyla içlerine ruhani metanet aşılanmış. Bu muskaları yapanlar, aşılanan ruhani korumanın bir gün kurt adamdan intikam almak için kullanılabileceğini ummuşlar.',
-      hu: 'A farkasemberek még az áldozatokon hátrahagyott karmait misztikus olajokkal és hosszú meditációval kovácsolták egybe. Azt remélték, hogy egy napon ezek az eszközök a bosszú fegyvereivé válhatnak.'
+      hu: 'A farkasemberek még az áldozatokon hátrahagyott karmait misztikus olajokkal és hosszú meditációval kovácsolták egybe. Azt remélték, hogy egy napon ezek az eszközök a bosszú fegyvereivé válhatnak.',
+      vi: 'Những móng vuốt người sói đáng sợ bị bỏ lại trên cơ thể của các nạn nhân đã được bôi bằng dầu thần bí và thấm nhuần tinh thần thông qua thiền định. Những người tạo ra những lá bùa hộ mệnh này hy vọng rằng một ngày nào đó những sự bảo vệ tâm linh này sẽ được sử dụng để trả thù.'
     }
   },
 
@@ -85,7 +89,8 @@ export default [
       ko: '탈론이 발견되었을 때, 그것은 산속에있는 신성한 새들의 선물로 간주되었습니다. 산 속 승려들은 전투 중에 침략자들로부터 스스로를 보호 할 수있는 영적인 부적을 만들기 위해 발톱을 사용했습니다.',
       ro: 'Când a fost găsită o ghiară, a fost considerată un dar de la păsările sacre din munți. Călugării din munți au folosit gheare pentru a produce amulete spirituale pentru a se proteja de invadatori în timpul bătăliilor.',
       tr: 'Eskiden bir pençe bulunduğunda, onun dağlardaki kutsal kuşlardan bir hediye olduğu düşünülürdü. Dağlardaki rahipler, savaş esnasında kendilerini işgalcilerden korumak için bu pençeleri kullanarak ruhani muskalar yaptılar.',
-      hu: 'Amikor a vadászok egy ilyen karmot találnak, úgy hiszik, hogy a hegyek szent madarainak ajándéka hullott elébük. A szirtfokon élő szerzetesek a karmokból amuletteket készítettek, hogy védekezhessenek a megszállóikkal szemben.'
+      hu: 'Amikor a vadászok egy ilyen karmot találnak, úgy hiszik, hogy a hegyek szent madarainak ajándéka hullott elébük. A szirtfokon élő szerzetesek a karmokból amuletteket készítettek, hogy védekezhessenek a megszállóikkal szemben.',
+      vi: 'Khi một móng vuốt được tìm thấy, nó được coi là một món quà từ những con chim linh thiêng trên núi. Các nhà sư trên các vùng núi đã sử dụng móng vuốt để tạo ra bùa hộ mệnh để bảo vệ bản thân khỏi những kẻ xâm lược trong trận chiến.'
     }
   },
 
@@ -103,7 +108,8 @@ export default [
       ko: '고대 사막 사람들은 특별한 돌을 모아 이상하고 어두운 마술로 풍뎅이 모양으로 만들었습니다. 그 고대 문명의 많은 사람들이 키와 보호를 위해이 부적을 입었습니다.',
       ro: 'Oamenii antici ai deșertului au adunat pietre speciale și le-au încrustat în scarabei cu ajutorul unei magii negre, puternice. Mulți oameni importanți din acea civilizație antică purtau aceste amulete pentru statură și protecție.',
       tr: 'Antik zamanlarda çölde yaşayan insanlar özel taşlar toplayıp onlara gizemli, değişik bir büyüyle böcek oyması şeklini verirlerdi. Bu antik uygarlıklarda önemli kişiler, bu muskaları itibar ve korunma amacıyla takarlardı.',
-      hu: 'Sötét, különös mágia volt az amivel a sivatagi népek a köveket scarabeusokká faragták. Az ősidők jelentős személyei ezeket védelmükért, de drágaságukért is viselték.'
+      hu: 'Sötét, különös mágia volt az amivel a sivatagi népek a köveket scarabeusokká faragták. Az ősidők jelentős személyei ezeket védelmükért, de drágaságukért is viselték.',
+      vi: 'Người dân sa mạc cổ đại đã thu thập những viên đá đặc biệt và định hình chúng thành những chiếc khăn với phép thuật kỳ lạ, đen tối. Nhiều người quan trọng trong nền văn minh cổ đại đó đã đeo những chiếc bùa hộ mệnh này để có tầm vóc và sự bảo vệ.'
     }
   },
 
@@ -121,7 +127,8 @@ export default [
       ko: '산에서 채광 한 이상한 조각들은 보호를 제공하고 두려움을 유발하기 위해 신비 주의자들에 의해 강화되어 부적으로 형성되었습니다.',
       ro: 'Cioburi stranii minate din munți au fost întărite de mistici și transformate în amulete pentru a oferi protecție și a provoca frică.',
       tr: 'Dağlardan kazılarak çıkarılmış bu garip parçalar, koruma sağlaması ve düşmanlara korku vermesi amacıyla ruhların sadık inananları tarafından efsunlanmış ve muskalar hâline getirilmiş.',
-      hu: 'A bányák mélyéről felhozott kristályok hamar a misztikusok munkapadjaira kerültek. Ők, akik felismerték a bennük tomboló erőt, fáradtságos munkával amulettekké formálták ezeket a szilánkokat.'
+      hu: 'A bányák mélyéről felhozott kristályok hamar a misztikusok munkapadjaira kerültek. Ők, akik felismerték a bennük tomboló erőt, fáradtságos munkával amulettekké formálták ezeket a szilánkokat.',
+      vi: 'Những mảnh vỡ kỳ lạ được khai thác từ các ngọn núi đã được những người huyền bí tăng cường và tạo thành bùa hộ mệnh để bảo vệ và gây ra nỗi sợ hãi.'
     }
   },
 
@@ -139,7 +146,8 @@ export default [
       ko: '신성한 오메가 상징을 보호하기위한 수단으로 창조했다. 이 상징은 방어적인 선물로 주어진 공격을 막고 잠재적 인 종교 추종자에게 선물로 사용되었습니다.',
       ro: 'Teocrațiile de razboi au creat simboluri omega divine, ca un mijloc de protecție. Aceste simboluri au fost folosite pentru a descuraja atacurile, date ca daruri de protecție, și prezentate potențialilor adepți religioși.',
       hu: 'Isteni népek teremtették meg az örök Omega szimbólumot, a védelem jelét és annak tökéletes megnyilatkozását. Ezek a hieroglifák képesek elsorvasztani a csapások erejét. Néhol szent tárgyakként tisztelik ezeket.',
-      tr: 'Savaşabilen din adamları koruma sağlaması amacıyla bu ilahi omega sembollerini oluşturdu. Koruyucu bir hediye olarak verilmiş bu semboller saldırıları savuşturmak için kullanıldı ve potansiyel müritlerine sunuldu.'
+      tr: 'Savaşabilen din adamları koruma sağlaması amacıyla bu ilahi omega sembollerini oluşturdu. Koruyucu bir hediye olarak verilmiş bu semboller saldırıları savuşturmak için kullanıldı ve potansiyel müritlerine sunuldu.',
+      vi: 'Chiến tranh thần quyền đã tạo ra các biểu tượng omega thần thánh như một phương tiện để bảo vệ. Những biểu tượng này được sử dụng để chống lại các đòn tấn công, được tặng làm quà bảo vệ và được trao cho các tín đồ tôn giáo ngoan đạo.'
     }
   },
 
@@ -157,7 +165,8 @@ export default [
       ko: '이 부적은 자연 에너지를 활용하고 착용자의 자연 보호를 증폭시키는 이상한 세트의 중복 디스크를 가지고 있습니다. 많은 마술 사용자는이 부적의 비밀을 배우기 위해 노력합니다.',
       ro: 'Această amuletă are un set ciudat de discuri ce se suprapun și care se conectează la energiile naturale astfel amplificând protecția naturală a purtătorului. Mulți utilizatori de magie se străduiesc să învețe secretele acestor amulete, astfel încât acestea să poată fi reproduse.',
       hu: 'Egymást fedő és beburkoló lapok alkotják ezt az amulettet, ami a természet erőihez nyúlva biztosítja viselőjének a védelmet. Mágusok százai munkálkodnak azon, hogy megérthessék hogyan működnek ezek az eszközök, hogy egy napon talán ők is létrehozhassanak egyet.',
-      tr: 'Bu muska üst üste dizilmiş ve doğanın enerjisiyle bağlı olan garip disklerden oluşuyor. Pek çok büyü kullanıcısı, bu muskanın sırrını çözmeye çalıştı ki çoğaltılabilsin.'
+      tr: 'Bu muska üst üste dizilmiş ve doğanın enerjisiyle bağlı olan garip disklerden oluşuyor. Pek çok büyü kullanıcısı, bu muskanın sırrını çözmeye çalıştı ki çoğaltılabilsin.',
+      vi: 'Bùa hộ mệnh này có một bộ đĩa chồng chéo kỳ lạ chạm vào năng lượng tự nhiên và khuếch đại sự bảo vệ của người đeo. Nhiều người sử dụng phép thuật cố gắng tìm hiểu bí mật của những chiếc bùa hộ mệnh này để chúng có thể sao chép chúng.'
     }
   },
 
@@ -175,7 +184,8 @@ export default [
       ko: '금속 가닥은 전기 아크를 생성하고 살아있는 부적을 드러내면서 서로 끼우거나 엮습니다. 학자들은이 부적들이 사라진 영역에서 왔다고 추측하지만 아무도 확신하지 못합니다.',
       ro: 'Firele de metal se împletesc între ele, producând arcuri electrice și dându-i amuletei un aspect viu. Savanții speculează că aceste amulete provin dintr-un tărâm care a dispărut, dar nimeni nu pare sigur de asta.',
       hu: 'Acélcsomók áramlanak vad gomolygásban, elektromos szikrák ezreit létrehozva, amely már-már egy élő amulett látszatát kelti. Számos varázsló vallja azt a nézetet, hogy ezek a tárgyak egy véglegesen elpusztult világból maradtak ránk.',
-      tr: 'İç içe geçmiş metal teller ve ürettiği elektrik arkları bu muskaya canlıymış gibi bir görünüm kazandırıyor. Alimlerin görüşüne göre bu muska yok olan başka bir diyardan gelmiş, ama kimse bu konuda emin değil.'
+      tr: 'İç içe geçmiş metal teller ve ürettiği elektrik arkları bu muskaya canlıymış gibi bir görünüm kazandırıyor. Alimlerin görüşüne göre bu muska yok olan başka bir diyardan gelmiş, ama kimse bu konuda emin değil.',
+      vi: 'Các sợi kim loại được đan với nhau, tạo ra các vòng điện từ và mang lại dáng vẻ của một lá bùa hộ mệnh. Các học giả suy đoán rằng những bùa hộ mệnh này đến từ một cõi đã biến mất, nhưng dường như không ai chắc chắn.'
     }
   },
 
@@ -193,7 +203,8 @@ export default [
       ko: '고대 왕은 내세에서 그들을 보호하기 위해 강력한 상징을 만들었습니다. 무덤 도둑들은이 부적을 많이 훔쳐서 사람들과 괴물 모두에게 팔았습니다. 각 ankh에는 그것의 진실한 힘을 속이는 섬뜩한 놀이있다.',
       ro: 'Regii antici aveau simboluri ankh puternice făcute pentru a-i proteja în viața de apoi. Jefuitorii de morminte au furat multe dintre aceste amulete și le-au vândut atât oamenilor cât și Monștrilor. Fiecare ankh are o strălucire sinistră care-i contrazice adevărata putere.',
       hu: 'A régmúlt királyai mind bírtak az Ankh szimbólumokkal, hogy a túlvilágon is védelmet élvezhessenek. A sírrablók falkái hozták fel később ezeket a sírkamrákból, hogy a feketepiacon eladják embernek vagy szörnynek. A kereszt közepén táncoló tündérfényben rejlik az Ankh ereje.',
-      tr: 'Eski krallar kendilerini öbür dünyada koruması için bu güçlü ankh sembollerini oluşturdular. Mezar hırsızları bu muskaların birçoğunu yağmalayıp insanlara ve canavarlara sattılar. Her bir ankh sembolü ürkütücü bir parıltıya sahip, işte bu gerçek güç.'
+      tr: 'Eski krallar kendilerini öbür dünyada koruması için bu güçlü ankh sembollerini oluşturdular. Mezar hırsızları bu muskaların birçoğunu yağmalayıp insanlara ve canavarlara sattılar. Her bir ankh sembolü ürkütücü bir parıltıya sahip, işte bu gerçek güç.',
+      vi: 'Các vị vua cổ đại có những biểu tượng ankh mạnh mẽ được tạo ra để bảo vệ họ ở thế giới bên kia. Những kẻ trộm mộ đã đánh cắp nhiều bùa hộ mệnh này và bán chúng cho cả người và quái vật. Mỗi ankh có một ánh sáng kỳ lạ tin rằng sức mạnh thực sự của nó.'
     }
   },
 
@@ -212,7 +223,8 @@ export default [
       ko: '거대한 World Tree의 뒤틀린 조각 Yggdrasil은 가장 신성한 종류의 부적으로 만들어졌습니다. 수액은 부적에서 스며 나오고 신체에 흡수되어 추가적인 보호를받습니다.',
       ro: 'Bucăți sucite din enormul copac al lumii, Yggdrasil, au fost transformate în amulete de cel mai sacru fel. Seva iese din amuletă și este absorbită de corp pentru protecție suplimentară.',
       hu: 'Yggdrasil szétszóródott darabkáit rég összegyűjtötték a legnagyobb mágusok, hogy kiaknázhassák azokat. Az amulettek mágikus gyökerekkel fonódnak egybe a viselővel, hogy megszázszorozzák a test erejét.',
-      tr: 'Devasa Dünya Ağacı\'nın yani Yggdrasil\'in kıvrık parçaları en kutsal türden bir muska hâline getirildi. Muskadan sızan bitki özü vücut taradından emilip fazladan koruma sağlar.'
+      tr: 'Devasa Dünya Ağacı\'nın yani Yggdrasil\'in kıvrık parçaları en kutsal türden bir muska hâline getirildi. Muskadan sızan bitki özü vücut taradından emilip fazladan koruma sağlar.',
+      vi: 'Những mảnh xoắn của World Tree, Yggdrasil, được chế tạo thành những chiếc bùa hộ mệnh thuộc loại linh thiêng nhất. Nhựa cây được thấm ra khỏi bùa hộ mệnh và được cơ thể hấp thụ để nhận được sự bảo vệ.'
     }
   },
 
@@ -230,7 +242,8 @@ export default [
       ko: '이 부적에는 어린 드래곤에게 수여 된 엘더 드래곤 마술이 들어 있습니다. 이 부적들은 어린 용들이 사춘기 동안 더 나은 생존 기회를 갖게했습니다. 어린 용들이 오래되고 커져서 생존 할 수있게되면 체인이 끊어져 부적이 사라졌습니다.',
       ro: 'Această amuletă conține magia Dragonului cel Bătrân care a fost acordată dragonilor tineri; aceste amulete au oferit dragonilor tineri o șansă mai bună de supraviețuire în adolescență. Odată ce dragonii tineri au devenit bătrâni și suficient de mari pentru a supraviețui pe cont propriu, lanțul s-a rupt și amuleta s-a pierdut.',
       hu: 'Ezek az amulettek a sárkányősök mágiáját őrzik, amit a fiatalabbaknak kívántak átadni egykoron. Ez az óriási hatalom akkor a fiókáknak adott erőt az első szárnycsapásokhoz; amikor gyilkos terrorjukat már maguk is képesek voltak a világra zúdítani, az amulett letört, és lezuhat a halandók közé.',
-      tr: 'Bu muska, genç ejderhalara verilen kadim ejderha büyüsü içeriyor. Büyüme çağındaki ejderhalara hayatta kalmalarını sağlamak için armağan edildi. Genç ejderhalar, kendilerini savunabilecek kadar olgunlaştığında ve büyüdüğünde zincir kopuverdi ve muska kayboldu.'
+      tr: 'Bu muska, genç ejderhalara verilen kadim ejderha büyüsü içeriyor. Büyüme çağındaki ejderhalara hayatta kalmalarını sağlamak için armağan edildi. Genç ejderhalar, kendilerini savunabilecek kadar olgunlaştığında ve büyüdüğünde zincir kopuverdi ve muska kayboldu.',
+      vi: 'Bùa hộ mệnh này chứa ma thuật của những con rồng già ban cho những con rồng trẻ; những lá bùa hộ mệnh này đã cho những con rồng trẻ cơ hội sống sót tốt hơn vào tuổi thiếu niên. Một khi những con rồng trẻ trở nên già và đủ lớn để tự mình sống sót, chuỗi bị phá vỡ và bùa hộ mệnh bị mất.'
     }
   },
 
@@ -247,7 +260,8 @@ export default [
       hi: 'This amulet contains a gem from the crown worn by a famous king. The edges of this amulet are ruthlessly sharp and partially smeared with a mysterious substance.',
       ko: '이 부적에는 유명한 왕이 착용 한 왕관의 보석이 들어 있습니다. 이 부적의 가장자리는 무자비하게 날카 롭고 부분적으로 신비한 물질로 얼룩 져 있습니다.',
       tr: 'Bu muska, ünlü bir kralın tacından bir mücevher barındırıyor. Bu muskanın keskin kenarlarının bazı yerleri gizli bir maddeye bulanmış.',
-      hu: 'Ez az amulett egy bukott király koronájából kitört ékkövet őriz magában. A kristály pereme végtelenül éles, és a művészien megmunkált formák egy ismeretlen szubsztanciát rejtenek magukban.'
+      hu: 'Ez az amulett egy bukott király koronájából kitört ékkövet őriz magában. A kristály pereme végtelenül éles, és a művészien megmunkált formák egy ismeretlen szubsztanciát rejtenek magukban.',
+      vi: 'Bùa hộ mệnh này chứa một viên đá quý từ vương miện được đeo bởi một vị vua nổi tiếng. Các góc cạnh của bùa hộ mệnh này sắc nét một cách tàn nhẫn và bị vấy bẩn một phần với một chất bí ẩn'
     }
   },
 
@@ -265,7 +279,8 @@ export default [
       ko: '피닉스 깃털이 부적의 중심에는 이제까지 그것을 소유 한 모든 타락한 모험가들의 소량의 재가 포함되어 있습니다. 예외없이 모든 모험가는 그런 부적을 사용하여 전설을 뛰어 넘었습니다.',
       ro: 'Centrul acestei amulete din pene Phoenix conține o cantitate mică de cenușă din partea tuturor aventurierilor căzuți care i-au deținut vreodată. Fără excepție, fiecare aventurier care a folosit o astfel de amuletă a depășit legenda.',
       hu: 'A legendák tűzmadarának tollai övezik azoknak a hamvait, akik egykor viselték azt, de az amulett ereje képtelen volt megvédeni őket végzetüktől. Minden kalandor, aki képes volt használni ezt az eszközt, egy Legendaként él tovább a mennyek csarnokában.',
-      tr: 'Anka kuşunun tüylerinden oluşan bu muskanın merkezinde, bu muskayı takan ölmüş maceracıların külleri var. Böyle bir muskayı takan istisnasız her maceracı, bu efsanenin bir parçası olmuş.'
+      tr: 'Anka kuşunun tüylerinden oluşan bu muskanın merkezinde, bu muskayı takan ölmüş maceracıların külleri var. Böyle bir muskayı takan istisnasız her maceracı, bu efsanenin bir parçası olmuş.',
+      vi: 'Trung tâm của bùa hộ mệnh lông phượng này chứa một lượng tro nhỏ từ tất cả các nhà thám hiểm đã ngã xuống đã từng sở hữu nó. Không ngoại lệ, mọi nhà thám hiểm sử dụng một lá bùa như vậy đã trở thành huyền thoại.'
     }
   }
 ]
