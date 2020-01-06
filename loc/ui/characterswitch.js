@@ -36,6 +36,6 @@ export default {
     zh: '主頁',
     hu: 'Főoldal',
     pl: 'Start',
-    bn: 'মূল স্ক্রীন
+    bn: 'মূল স্ক্রীন'
   }
 }

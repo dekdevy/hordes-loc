@@ -14,7 +14,8 @@ export default {
     ro: 'Okay',
     zh: '好的',
     hu: 'Rendben',
-    pl: 'OK'
+    pl: 'OK',
+    bn: 'ঠিক আছে'
   },
 
   back: {
@@ -31,7 +32,8 @@ export default {
     ro: 'Înapoi',
     zh: '回',
     hu: 'Vissza',
-    pl: 'Cofnij'
+    pl: 'Cofnij',
+    bn: 'আগে'
   },
 
   accept: {
@@ -48,7 +50,8 @@ export default {
     ro: 'Acceptă',
     zh: '允许',
     hu: 'Elfogadás',
-    pl: 'Akceptuj'
+    pl: 'Akceptuj',
+    bn: 'গ্রায্য'
   },
 
   cancel: {
@@ -65,7 +68,8 @@ export default {
     hi: 'कैंसल',
     zh: '取消',
     hu: 'Mégsem',
-    pl: 'Anuluj'
+    pl: 'Anuluj',
+    bn: 'বাতিল'
   },
 
   decline: {
@@ -82,7 +86,8 @@ export default {
     ro: 'Refuză',
     zh: '拒绝',
     hu: 'Elutasítás',
-    pl: 'Anuluj'
+    pl: 'Anuluj',
+    bn: 'অগ্রায্য'
   },
 
   close: {
@@ -99,6 +104,7 @@ export default {
     ro: 'Închide',
     zh: '关',
     hu: 'Bezárás',
-    pl: 'Zamknij'
+    pl: 'Zamknij',
+    bn: 'বন্ধ'
   }
 }
