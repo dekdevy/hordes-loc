@@ -17,7 +17,8 @@ export default {
     ro: 'Deconectare',
     zh: '登出',
     hu: 'Kijelentkezés',
-    bn: 'লগ আউট'
+    bn: 'লগ আউট',
+    vi: 'Đăng xuất'
   },
 
   home: {
@@ -36,6 +37,7 @@ export default {
     zh: '主頁',
     hu: 'Főoldal',
     pl: 'Start',
-    bn: 'মূল স্ক্রীন'
+    bn: 'মূল স্ক্রীন',
+    vi: 'Trang chủ'
   }
 }
