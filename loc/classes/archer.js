@@ -37,6 +37,6 @@ export default {
     hu: 'A vadászok kiválóan képesek koncentrálni erejüket egyetlen célpontra, és darabosan több ellenfélre is kifejthetik hatásukat. Egy jó lövész mindig távolságot tart, és a nyilait a távolból zúdítja áldozatára.',
     pl: 'Łucznicy zadają wysokie obrażenia pojedyńczym celom i duże obrażenia obszarowe. Dobry łucznik będzie zawsze trzymał dystans i strzelał do wrogów z daleka.',
     bn: 'তীরন্দাজরা একটি নির্দিষ্ট লক্ষ্যবস্তুকে আঘাত করে এবং বিপুল পরিমাণ ক্ষতিসাধন করে। একজন ভালো তীরন্দাজ যথেষ্ট দূরত্ব বজায় রেখে শত্রুদের আক্রমণ করে।',
-    vi: 'Cung thủ gấy sát thương đơn mục tiêu cao và gây sát thương diện rộng. Một cung thủ tốt phải biết giữ khoảng cách và bẳn tỉa kẻ địch từ xa'
+    vi: 'Cung thủ gây sát thương đơn mục tiêu cao và gây sát thương diện rộng. Một cung thủ tốt phải biết giữ khoảng cách và bẳn tỉa kẻ địch từ xa'
   }
 }
