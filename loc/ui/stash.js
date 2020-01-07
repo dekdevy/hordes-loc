@@ -40,7 +40,7 @@ export default {
     en: 'Deposit',
     ru: 'Депозировать',
     pl: 'Depozyt',
-    de: 'Hinterlegen',
+    de: 'Einzahlen',
     vi: 'Gửi tiền'
   },
 
