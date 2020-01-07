@@ -175,7 +175,7 @@ export default {
     fr: 'Retirer un item',
     pt: 'Retirar um',
     hu: 'Egy elvétele',
-    de: 'Vereinzeln',  //Not a good translation
+    de: 'Aufteilen',  //Not a good translation
     es: 'Separar uno',
     pl: 'Wydziel jeden',
     vi: 'Tách làm một'
