@@ -203,7 +203,7 @@ export default {
       zh: '移動速度',
       pl: 'Prędkość ruchu',
       vi: 'Tốc độ di chuyển'
-      // de: 'Geschwindigkeit'
+      // de: 'Bewegungsgeschwindigkeit'
     },
 
     {
@@ -215,7 +215,7 @@ export default {
       tr: 'Çabukluk',
       hu: 'Sietség',
       zh: '匆忙',
-      de: 'Eile',
+      de: 'Tempo',
       pl: 'Szybkość',
       vi: 'Mau lẹ'
     },
