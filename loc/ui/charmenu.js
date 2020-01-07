@@ -26,7 +26,7 @@ export default {
       ru: 'Нажмите, чтобы создать персонажа',
       hi: 'स्वरूप बानाने के लिए क्लिक करे',
       es: 'Pulsar para crear un personaje',
-      de: 'Klicke, um Charakter zu erstellen',
+      de: 'Klicke, um einen Charakter zu erstellen',
       fr: 'Cliquez pour créer le personnage',
       ko: '캐릭터를 만들려면 클릭하십시오',
       tr: 'Karakter oluşturmak için tıkla',
