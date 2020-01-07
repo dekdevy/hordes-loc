@@ -112,7 +112,7 @@ export default {
   },
   partyMemberLeave: {
     en: '$1 has left your party.',
-    de: '$1 hat deine Party verlassen.',
+    de: '$1 hat die Party verlassen.',
     ru: 'Игрок $1 вышел из Party.',
     es: '$1 ha abandonado tu party.',
     pt: '$1 saiu da sua party.',
