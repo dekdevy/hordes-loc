@@ -6,7 +6,7 @@ export default [
       ru: 'Этот мешок сделан из нежной ткани. Мешки, подобные этому, часто принадлежат простым людям для перевозки своих вещей.',
       hu: 'Ez az erszény minőségi szövetből van. A köznép többnyire ilyenekben hordozza kisebb-nagyobb értékeit.',
       tr: 'Bu torba narin bir kumaştan yapıldı. Bunun gibi torbalar, sıradan insanlar tarafından eşyalarını taşımak için sıklıkla kullanılır.',
-      de: 'Dieser Beutel ist aus feinem Stoff gefertigt. Beutel wie dieser werden oft von normalen Leutem zum Transport ihres Besitzes genutzt.',
+      de: 'Dieser Beutel ist aus feinem Stoff gefertigt. Beutel wie dieser werden oft von normalen Leuten zum Transport ihres Besitzes genutzt.',
       es: 'Esta bolsa está hecha de una tela delicada. Las bolsas como esta a menudo son propiedad de personas comunes para llevar sus pertenencias.'
     }
   },
