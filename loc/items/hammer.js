@@ -39,7 +39,7 @@ export default [
       hu: 'Ez az orkok kedvelt eszköze csatára és kihallgatásokra.',
       ru: 'Это предпочтительный инструмент орков для допросов и ведения боя.',
       de: 'Dies ist das bevorzugte Werkzeug eines Orks für Verhöre und Kämpfe.',
-      vi: 'Đây là một công cụ ưa thích của Orc để tra khảo và chiến đấu,
+      vi: 'Đây là một công cụ ưa thích của Orc để tra khảo và chiến đấu'
     }
   },
 
