@@ -202,8 +202,8 @@ export default {
       hu: 'Mozgás',
       zh: '移動速度',
       pl: 'Prędkość ruchu',
-      vi: 'Tốc độ di chuyển'
-      // de: 'Bewegungsgeschwindigkeit'
+      vi: 'Tốc độ di chuyển',
+      de: 'Bewegungstempo'
     },
 
     {
@@ -229,8 +229,8 @@ export default {
       hu: 'Támadási Seb.',
       zh: '攻擊速度',
       pl: 'Szybkość ataku',
-      vi: 'Tốc độ đánh'
-      // de: 'Angriffsgeschwindigkeit'
+      vi: 'Tốc độ đánh',
+      de: 'Angriffstempo'
     },
 
     {
