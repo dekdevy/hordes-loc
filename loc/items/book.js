@@ -11,7 +11,7 @@ export default [{
   name: {$$: 'Slash'},
 
   description: {
-    en: 'Slash your enemy, striking with extra force. Heals you for 10% of the damage done.'
+    en: 'Slash your enemy, striking with extra force. Heals you for 5% of the damage done.'
   }
 },
 {
@@ -278,6 +278,13 @@ export default [{
 
   description: {
     en: 'Allows you to ride ground mounts.'
+  }
+},
+{
+  name: {$$: 'Conjurer\'s Recall'},
+
+  description: {
+    en: 'Teleport to the nearest Conjurer.'
   }
 }
 ]

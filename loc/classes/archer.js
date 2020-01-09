@@ -14,14 +14,17 @@ export default {
     ro: 'Arcaș',
     zh: '弓箭手',
     hu: 'Vadász',
-    pl: 'Łucznik'
+    pl: 'Łucznik',
+    bg: 'Стрелец',
+    bn: 'ধনু',
+    vi: 'Cung thủ'
   },
 
   // Class description, visible during character creation
   description: {
     en: 'Archers deal high single target damage and bursty Area of Effect damage. A good archer will always keep their distance and snipe enemies from afar.',
     ru: 'Лучники наносят высокий урон по одиночной цели и взрывной урон по области. Хороший лучник всегда будет держать дистанцию и отстреливать врагов издалека.',
-    es: 'Los arqueros hacen un alto daño a un solo objetivo y daño en ráfaga con efectos en área. Un buen arquero siempre mantendrá su distancia y disparará a sus enemigos desde lejos.',
+    es: 'Los arqueros tienen un gran daño a un solo objetivo y también poseen un explosivo daño en área. Un buen arquero siempre mantendrá su distancia y disparará a sus enemigos desde lejos.',
     fr: 'Les archers peuvent infliger des dégâts élevés sur une cible précise et des dégâts de zone importants. Un bon archer garde toujours ses distances et élimine ses ennemis de loin.',
     ko: '궁수는 높은 단일 타겟 데미지와 버스트 에어리어 피해를줍니다. 좋은 궁수는 먼 거리에서 항상 적을 도일 당합니다.',
     hi: 'धनुरधारी उच्च एकल लक्ष्य क्षति और प्रभाव क्षति के त्वरित क्षत्रुऔ से निपटते हैं। एक अच्छा धनुरधारी हमेशा अपनी दूरी बनाए रखेगा और दुश्मनों को दूर से ही मार देगा।',
@@ -32,6 +35,8 @@ export default {
     ro: 'Arcașii cauzează daune mari unei ținte unice și au o arie de acțiune largă. Un arcaș bun va menține mereu o distanță considerabilă față de inamici și îi va ataca de la distanță.',
     zh: '弓箭手會對單一目標造成高額傷害而且也有著爆發區域傷害。 一個專業的弓箭手會與敵人保持距離，並在遠處進行狙擊。',
     hu: 'A vadászok kiválóan képesek koncentrálni erejüket egyetlen célpontra, és darabosan több ellenfélre is kifejthetik hatásukat. Egy jó lövész mindig távolságot tart, és a nyilait a távolból zúdítja áldozatára.',
-    pl: 'Łucznicy zadają wysokie obrażenia pojedyńczym celom i duże obrażenia obszarowe. Dobry łucznik będzie zawsze trzymał dystans i strzelał do wrogów z daleka.'
+    pl: 'Łucznicy zadają wysokie obrażenia pojedyńczym celom i duże obrażenia obszarowe. Dobry łucznik będzie zawsze trzymał dystans i strzelał do wrogów z daleka.',
+    bn: 'তীরন্দাজরা একটি নির্দিষ্ট লক্ষ্যবস্তুকে আঘাত করে এবং বিপুল পরিমাণ ক্ষতিসাধন করে। একজন ভালো তীরন্দাজ যথেষ্ট দূরত্ব বজায় রেখে শত্রুদের আক্রমণ করে।',
+    vi: 'Cung thủ gây sát thương đơn mục tiêu cao và gây sát thương diện rộng. Một cung thủ tốt phải biết giữ khoảng cách và bẳn tỉa kẻ địch từ xa'
   }
 }

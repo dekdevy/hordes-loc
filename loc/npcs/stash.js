@@ -11,7 +11,8 @@ export default {
       nl: 'Ja, ik ben een pratende kist, ik kan nou al een vraag op je lippen zien vormen. Vele jaren heb ik voor royale families gewerkt, hun onbetaalbare edelstenen en juwelen bewaren, alleen om op deze campplaats gegooid te worden voor jullie mooie benodigdheden. hoe dan ook, kan ik jou mijn diensten aanbieden?',
       es: 'Sí, Soy un cofre parlante, ya puedo ver la pregunta formándose en tus labios. Muchos años he servido a familias reales, almacenando sus gemas y joyas invaluables, solo para que me coloquen en este sucio campamento para atender sus pequeñas necesidades. De todos modos, ¿quieres que te ofrezca mis servicios?',
       de: 'Ich kann die Frage schon auf deinen Lippen sehen: Ja, ich bin eine sprechende Kiste. Für viele Jahre habe ich königlichen Familien gedient, ihre unbezahlbaren Juwelen und Edelsteine aufbewahrt, nur um jetzt in diesem furchtbaren Lager zu landen und deine niederen Bedürfnisse zu erfüllen. Egal, möchtest du meine Dienste in Anspruch nehmen?',
-      pl: 'Tak, jestem gadającą skrzynią, już widzę pytania formujące się na twoich ustach. Od wielu lat służę rodzinom królewskim, przechowując ich bezcenne klejnoty i drogocenności, tylko po to, żeby umieścić mnie w tym brudnym obozowisku bym zaspokajała twoje śmieszne potrzeby. Cóż, czy chciałbyś abym zaoferowała ci moje usługi?'
+      pl: 'Tak, jestem gadającą skrzynią, już widzę pytania formujące się na twoich ustach. Od wielu lat służę rodzinom królewskim, przechowując ich bezcenne klejnoty i drogocenności, tylko po to, żeby umieścić mnie w tym brudnym obozowisku bym zaspokajała twoje śmieszne potrzeby. Cóż, czy chciałbyś abym zaoferowała ci moje usługi?',
+      bn: 'হ্যাঁ, আমি কথা বলা বাক্স, আমি ইতিমধ্যে আপনার ঠোঁটে থাকা প্রশ্নটি দেখতে পাচ্ছি। আমি বহু বছর রাজপরিবারের সেবা করেছি, তাদের অমূল্য রত্ন ও জহরত সংরক্ষণ করেছি, কেবলমাত্র নিজেদের ক্ষুদ্র প্রয়োজনগুলি পূরণ করার জন্য আমাকে এই নোংরা শিবিরে রাখা হয়েছে। যাইহোক, আপনি কি চান আমি আপনাকে আমার পরিষেবাগুলি অফার করি?'
     },
 
     // Do not translate "Stash".
@@ -22,14 +23,12 @@ export default {
       es: 'Si, abre mi Stash.',
       fr: 'Oui, ouvre ma Stash.',
       de: 'Ja, öffne meinen Stash.',
-      ko: '네, 내 숨긴 장을여십시오.',
       nl: 'Ja, open mijn Stash.',
       tr: 'Evet, Stash aç.',
-      hi: 'हां, मेरा स्टैश खोलें',
       ro: 'Da, deschide-mi Stash.',
-      zh: '是的，打開我的倉庫。',
       hu: 'Rendben, tárd elém a Stasht.',
-      pl: 'Tak, otwórz mój Stash.'
+      pl: 'Tak, otwórz mój Stash.',
+      bn: 'হ্যাঁ, আমার Stash খুলুন'
     }]
   }]
 }

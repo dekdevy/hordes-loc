@@ -15,7 +15,9 @@ export default {
       zh: '你聽說過最近發現的Crystal Shards嗎？ 冒險者可以使用它們直接前往遙遠的國度。 我沒有任何Crystal Shards，但我可以把你送到一些地方，因為神秘的力量聚集在這個地點。 哪個領域是您想要的目的地？',
       tr: 'Yeni keşfedilen Crystal Shards\'ı duydunuz mu? Maceracılar onları uzak diyarlara direkt olarak gitmek için kullanıyorlar. Bende hiç Crystal Shards yok fakat bu noktada toplanan mistik güç ile sizi bir yerlere ışınlayabilirim. Nereye gitmek istersiniz?',
       hu: 'Hallottál már a Crystal Shards-ról, ami nemrég lett felfedezve? Ezzel egy pillanat alatt egy távoli birodalomban találhatod magad. Nálam sajnos nem találsz ilyen kristályokat, de ha van nálad akkor én el tudlak küldeni téged egy másik birodalomba, ugyanis ebben a pontban egy misztikus erő koncentrálódik. Hova szeretnél utazni?',
-      pl: 'Czy słyszałeś o Crystal Shards, które zostały niedawno odkryte? Poszukiwacze przygód mogą z nich skorzystać, aby podróżować bezpośrednio do odległych krain. Nie mam żadnych Crystal Shards, ale mogę wysłać cię do niektórych miejsc, jako że mistyczne siły zbiegają się w tym miejscu. Które królestwo jest celem twej podróży?'
+      pl: 'Czy słyszałeś o Crystal Shards, które zostały niedawno odkryte? Poszukiwacze przygód mogą z nich skorzystać, aby podróżować bezpośrednio do odległych krain. Nie mam żadnych Crystal Shards, ale mogę wysłać cię do niektórych miejsc, jako że mistyczne siły zbiegają się w tym miejscu. Które królestwo jest celem twej podróży?',
+      bn: 'আপনি কি Crystal Shards সম্পর্কে শুনেছেন যা সম্প্রতি আবিষ্কার হয়েছে? অ্যাডভেঞ্চারাররা এগুলি সরাসরি দূরবর্তী অঞ্চলে ভ্রমণ করতে ব্যবহার করতে পারেন। আমার কাছে কোনো Crystal Shards নেই, তবে আমি আপনাকে কয়েকটি জায়গায় পাঠাতে পারি যেহেতু এই বিন্দুতে রহস্যময় শক্তি একত্রিত হয়। আপনার কাঙ্ক্ষিত গন্তব্য কোন অঞ্চল?',
+      vi: 'Bạn có từng nghe đến Crystal Shards vừa được phát hiện gần đây? Các nhà thám hiểm có thể sử dụng chúng để đi trực tiếp đến các nơi xa xôi. Tôi không có Crystal Shards nào, nhưng tôi có thể đưa bạn đến một số nơi kể từ khi các thế lực thần bí hội tụ tại nơi này. Vùng nào là đích đến mong muốn của bạn?'
     },
 
     choices: [{
@@ -32,7 +34,9 @@ export default {
       ro: 'Te rog, du-mă la $1.',
       zh: '請帶我去$1。',
       hu: '$1 volna a célom.',
-      pl: 'Proszę, zabierz mnie do $1.'
+      pl: 'Proszę, zabierz mnie do $1.',
+      bn: 'দয়া করে আমাকে $1 এ নিয়ে যান।',
+      vi: 'Vui lòng mang cho tôi $1'
     }]
   }]
 }

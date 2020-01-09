@@ -91,7 +91,7 @@ export default [
     }
   },
   {
-    name: {$$: 'Blacksmiths Grub'},
+    name: {$$: 'Blacksmith\'s Grub'},
 
     description: {
       en: ' '

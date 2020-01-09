@@ -4,6 +4,7 @@ export default {
     en: 'Shaman',
     de: 'Schamane',
     ru: 'Шаман',
+    bg: 'Шаман',
     fr: 'Chaman',
     es: 'Chamán',
     ko: '샤먼',
@@ -14,14 +15,17 @@ export default {
     ro: 'Șaman',
     zh: '薩滿',
     hu: 'Táltos',
-    pl: 'Szaman'
+    pl: 'Szaman',
+    bn: 'ওঝা',
+    vi: 'Vu thuật sư'
   },
+
   // Class description, visible during character creation
   description: {
     en: 'The Shaman\'s role is to support the group by healing the Tank and offering offensive Buffs or crippling Debuffs.',
     ru: 'Шаманы играют роль поддержки группы, излечивая Танка и преподнося усиливающие бонусы или наносящие урон отрицательные эффекты.',
     de: 'Die Rolle der Schamanen besteht darin, die Gruppe zu unterstützen, indem sie den Tank heilen und offensive Buffs anbieten oder Debuffs verteilen.',
-    es: 'El rol del chamán es apoyar todo el equipo, curar el tanque y ofrecer Buffs ofensivos o Debuffs paralizantes.',
+    es: 'El rol del Chamán es el de apoyar al equipo a través de las curaciones al tanque y ofreciendo Buffs(ventajas) ofensivos o Debuffs(desventajas) paralizantes.',
     fr: 'Le rôle des chamans est de soutenir le groupe en guérissant le tank et en offrant des buffs offensifs ou des Débuffs ralentissants.',
     ko: '샤먼의 역할은 탱크를 치유하고 공세적 인 버프 또는 맹독적인 디버프를 제공하여 그룹을 지원하는 것입니다.',
     pt: 'O papel dos xamãs é apoiar o grupo, curando o Tanque e oferecendo Buffs ofensivos ou Debuffs incapacitantes.',
@@ -31,6 +35,8 @@ export default {
     ro: 'Rolul șamanului este de a sprijini grupul prin vindecarea Tancului și de a oferi Buff-uri de ofensiva sau Debuff-uri de paralizare.',
     zh: '薩滿的定位是通過治療坦克和使用增益buff或減益Debuff來支援隊伍。',
     hu: 'A táltosok feladata a csapat támogatása, mégpedig gyógyítóerejük segítségével, amit legjobb a sebzést felfogó harcosokra irányítaniuk. Egy táltos képes csapatára különböző áldásokat, ellenfeleire pedig átkokat szórni.',
-    pl: 'Rolą szamana jest wsparcie grupy poprzez leczenie tanka i oferowanie ofensywnych buffów lub nakładanie okaleczających debuffów.'
+    pl: 'Rolą szamana jest wsparcie grupy poprzez leczenie tanka i oferowanie ofensywnych buffów lub nakładanie okaleczających debuffów.',
+    bn: 'ওঝার কাজ হলো ট্যাঙ্কদের নিরাময় করার মাধ্যমে পুরো দল কে সাহায্য করা এবং আক্রমণাত্মক বাফ অথবা বিপজ্জনক ডিবাফ সরবরাহ করা।',
+    vi: 'Vu thuật sư có vai trò hỗ trợ trong nhóm bằng cách hồi máu và cung cấp các Buff tấn công hoặc Debuff gây tê liệt'
   }
 }

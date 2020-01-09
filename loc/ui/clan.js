@@ -14,7 +14,9 @@ export default {
     ro: 'Părăsește Clanul',
     zh: '離開公會',
     hu: 'Klán Elhagyása',
-    pl: 'Opuść Klan'
+    pl: 'Opuść Klan',
+    bn: 'ক্ল্যান ছাড়ুন',
+    vi: 'Rời khỏi bang'
   },
 
   heading: {
@@ -31,7 +33,9 @@ export default {
     ro: 'Clan',
     zh: '公會',
     hu: 'Klán',
-    pl: 'Klan'
+    pl: 'Klan',
+    bn: 'ক্ল্যান',
+    vi: 'Bang'
   },
 
   createheading: {
@@ -48,7 +52,9 @@ export default {
     ro: 'Creează un Clan',
     zh: '創建公會',
     hu: 'Klán Létrehozása',
-    pl: 'Stwórz Klan'
+    pl: 'Stwórz Klan',
+    bn: 'ক্ল্যান তৈরি করুন',
+    vi: 'Tạo bang'
   },
 
   createname: {
@@ -65,7 +71,9 @@ export default {
     ro: 'Numele Clanului',
     zh: '公會名稱',
     hu: 'Klán Neve',
-    pl: 'Nazwa Klanu'
+    pl: 'Nazwa Klanu',
+    bn: 'ক্ল্যানের নাম',
+    vi: 'Tên bang'
   },
 
   createtag: {
@@ -82,7 +90,9 @@ export default {
     ro: 'Clan Tag',
     zh: '公會標籤',
     hu: 'Klán Címkéje',
-    pl: 'Tag Klanu'
+    pl: 'Tag Klanu',
+    bn: 'ক্ল্যান ট্যাগ',
+    vi: 'Thẻ bang'
   },
 
   createbutton: {
@@ -99,7 +109,9 @@ export default {
     ro: 'Creează',
     zh: '創建',
     hu: 'Létrehozás',
-    pl: 'Stwórz'
+    pl: 'Stwórz',
+    bn: 'তৈরি করুন',
+    vi: 'Tạo'
   },
 
   roles: [

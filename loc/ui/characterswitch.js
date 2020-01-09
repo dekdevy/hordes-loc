@@ -3,6 +3,7 @@ export default {
   logout: {
     en: 'Log Out',
     ru: 'Выйти',
+    bg: 'Изход',
     hi: 'बाहर आए',
     es: 'Cerrar Sesión',
     de: 'Abmelden',
@@ -15,12 +16,15 @@ export default {
     ht: 'Dekonekte',
     ro: 'Deconectare',
     zh: '登出',
-    hu: 'Kijelentkezés'
+    hu: 'Kijelentkezés',
+    bn: 'লগ আউট',
+    vi: 'Đăng xuất'
   },
 
   home: {
     en: 'Home',
     ru: 'Главная страница',
+    bg: 'Главна страница',
     hi: 'मुख्य स्क्रीन',
     es: 'Inicio',
     de: 'Startseite',
@@ -32,6 +36,8 @@ export default {
     ro: 'Acasă',
     zh: '主頁',
     hu: 'Főoldal',
-    pl: 'Start'
+    pl: 'Start',
+    bn: 'মূল স্ক্রীন',
+    vi: 'Trang chủ'
   }
 }

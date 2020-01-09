@@ -3,6 +3,7 @@ export default {
     en: 'Monster',
     de: 'Monster',
     ru: 'Монстр',
+    bg: 'Чудовище',
     es: 'Monstruo',
     fr: 'Monstre',
     hi: 'राक्षस',
@@ -13,6 +14,8 @@ export default {
     ro: 'Monstru',
     zh: '怪物',
     hu: 'Szörnyeteg',
-    pl: 'Potwór'
+    pl: 'Potwór',
+    bn: 'দানব',
+    vi: 'Quái vật'
   }
 }

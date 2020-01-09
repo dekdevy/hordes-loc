@@ -13,7 +13,9 @@ export default {
     ro: 'Șoaptă',
     hu: 'Suttogás',
     zh: '耳語',
-    pl: 'Szept'
+    pl: 'Szept',
+    bn: 'ফিসফিসানি',
+    vi: 'Thì thầm'
   },
 
   types: [
@@ -28,7 +30,9 @@ export default {
       nl: 'Exp Gekregen',
       hu: 'EXP Jutalom',
       zh: 'Exp 獲得',
-      pl: 'Zdobywanie Doświadczenia'
+      pl: 'Zdobywanie Doświadczenia',
+      bn: 'Exp লাভ',
+      vi: 'Kinh nghiệm nhận được'
     },
     {
       en: 'Target Change',
@@ -40,7 +44,9 @@ export default {
       nl: 'Verander Doelwit',
       hu: 'Célpont Megváltoztatása',
       zh: '目標變更',
-      pl: 'Zmiana celu'
+      pl: 'Zmiana celu',
+      bn: 'লক্ষ্য পরিবর্তন',
+      vi: 'Mục tiêu thay đổi'
     },
     {
       en: 'Cast',
@@ -52,7 +58,9 @@ export default {
       nl: 'Uitspreken',
       hu: 'Előhívás',
       zh: '施法',
-      pl: 'Rzucenie czaru'
+      pl: 'Rzucenie czaru',
+      bn: 'নিক্ষেপ',
+      vi: 'Thi triển'
     },
     {
       en: 'Damage',
@@ -65,7 +73,9 @@ export default {
       nl: 'Schade',
       hu: 'Sebzés',
       zh: '傷害',
-      pl: 'Obrażenia'
+      pl: 'Obrażenia',
+      bn: 'ক্ষতি',
+      vi: 'Sát thương'
     },
     {
       en: 'Heal',
@@ -78,7 +88,9 @@ export default {
       nl: 'Genezen',
       hu: 'Gyógyítás',
       zh: '補血',
-      pl: 'Leczenie'
+      pl: 'Leczenie',
+      bn: 'চিকিৎসা',
+      vi: 'Hồi máu'
     },
     {
       en: 'Death',
@@ -91,7 +103,9 @@ export default {
       nl: 'Dood',
       hu: 'Halál',
       zh: '死亡',
-      pl: 'śmierć'
+      pl: 'śmierć',
+      bn: 'মৃত্যু',
+      vi: 'Chết'
     },
     {
       en: 'Level Up',
@@ -103,7 +117,9 @@ export default {
       nl: 'Level Omhoog',
       hu: 'Szintlépés',
       zh: '升等',
-      pl: 'Zdobyto poziom'
+      pl: 'Zdobyto poziom',
+      bn: 'লেভেল আপ',
+      vi: 'Lên cấp'
     },
     {
       en: 'Items',
@@ -115,7 +131,9 @@ export default {
       nl: 'Voorwerpen',
       hu: 'Tárgyak',
       zh: '升等',
-      pl: 'Przedmioty'
+      pl: 'Przedmioty',
+      bn: 'আইটেমস',
+      vi: 'Vật phẩm'
     },
     {
       en: 'Auction',
@@ -127,7 +145,9 @@ export default {
       nl: 'Veiling',
       hu: 'Aukció',
       zh: '拍賣',
-      pl: 'Aukcja'
+      pl: 'Aukcja',
+      bn: 'নিলাম',
+      vi: 'Nhà đấu giá'
     },
     {
       en: 'Pick Gold',
@@ -139,7 +159,9 @@ export default {
       nl: 'Goud Oprapen',
       hu: 'Felvett Arany',
       zh: '採金',
-      pl: 'Zbierz złoto'
+      pl: 'Zbierz złoto',
+      bn: 'টাকা তোলা',
+      vi: 'Nhặt vàng'
     },
     {
       en: 'Spent Gold',
@@ -151,7 +173,9 @@ export default {
       nl: 'Goud Besteden',
       hu: 'Elköltött Arany',
       zh: '花金',
-      pl: 'Wydane złoto'
+      pl: 'Wydane złoto',
+      bn: 'টাকা ব্যয় করা',
+      vi: 'Vàng đã dùng'
     },
     {
       en: 'Fame Gain',
@@ -164,7 +188,9 @@ export default {
       nl: 'Beroemdheid Gekregen',
       hu: 'Dicsőség Jutalom',
       zh: '獲得聲譽',
-      pl: 'Zdobyta Sława'
+      pl: 'Zdobyta Sława',
+      bn: 'Fame লাভ',
+      vi: 'Danh vọng nhận được'
     }
   ]
 }
