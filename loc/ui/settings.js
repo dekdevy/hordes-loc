@@ -24,7 +24,7 @@ export default {
     ru: 'Управление',
     hi: 'नियंत्रण',
     es: 'Controles',
-    de: 'Tastenbelegung',
+    de: 'Steuerung',
     fr: 'Contrôles',
     tr: 'Kontroller',
     nl: 'Bediening',
