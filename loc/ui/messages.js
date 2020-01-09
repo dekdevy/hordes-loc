@@ -214,7 +214,8 @@ export default {
   partyLootQueueResolve: {
     en: '$1 received $2 $3 $4.',
     ru: '$1 получил $2 $3 $4.',
-    vi: '$1 nhận được $2 $3 $4.'
+    vi: '$1 nhận được $2 $3 $4.',
+    de: '$1 erhielt $2 $3 $4.'
   },
   auctionSold: {
     en: 'Your merchant auction has been sold and $g$1 has been sent to your Stash.',
