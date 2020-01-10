@@ -6,7 +6,8 @@ export default [
       hu: 'Ez a ruházat nem csak melegít, hanem a rezgéstől is védi a kéz csontjait.',
       ru: 'Эта ткань обычно используется для легкой защиты рук и снижения вибрации.',
       de: 'Dieses Gewebe wird häufig verwendet, um die Hände leicht zu schützen und Vibrationen zu reduzieren.',
-      vi: 'Tấm vải này thường được sử dụng để bảo vệ tay và giảm rung lắc'
+      vi: 'Tấm vải này thường được sử dụng để bảo vệ tay và giảm rung lắc',
+      es: 'Esta ropa es comúnmente usada para proteger ligeramente las manos y reducir vibraciones.'
     }
   },
 
@@ -65,7 +66,8 @@ export default [
       hu: 'A mágusrendek a szörnyetegek szövetségei elleni csatákra gyakran bűvölnek ilyen erős kesztyűket. Néhányat rúnákkal láttak el, egyesek pedig ősi tervrajzok alapján vannak megalkotva.',
       ru: 'Магические гильдии часто создают такие экспериментальные перчатки, как эти, чтобы увеличить магическую силу против фракций монстров. Некоторые экспериментальные перчатки украшены рунами, которые были скопированы из древних источников.',
       de: 'Magiergilden entwerfen oft experimentelle Handschuhe wie diesen, um die magische Kraft gegen Monsterfraktionen zu erhöhen. Einige experimentelle Handschuhe sind mit Runen verziert, die aus alten Quellen stammen.',
-      vi: 'Hội pháp sư thường tạo ra những chiếc găng tay thử nghiệm như thế này để tăng sức mạnh ma thuật chống lại phe quái vật. Một số găng tay thử nghiệm được trang trí bằng cỗ ngữ được sao chép từ các nguồn cổ xưa.'
+      vi: 'Hội pháp sư thường tạo ra những chiếc găng tay thử nghiệm như thế này để tăng sức mạnh ma thuật chống lại phe quái vật. Một số găng tay thử nghiệm được trang trí bằng cỗ ngữ được sao chép từ các nguồn cổ xưa.',
+      es: 'Los gremios de magos a menudo crean guantes experimentales como este para incrementar poder mágico contra las facciones de monstruos. Algunos guantes experimentales están adornados con runas que fueron copiados de fuentes antiguas.'
     }
   },
 
