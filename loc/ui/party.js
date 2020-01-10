@@ -174,6 +174,7 @@ export default {
     tr: '$1 seni yanına çağırıyor.',
     hu: '$1 felajánlotta hogy magához idéz.',
     de: '$1 möchte dich zu seiner Position beschwören.',
+    fr: '$1 vous propose de vous invoquer à leur emplacement.',
     pl: '$1 chce przyzwać cię do swojej lokacji.',
     vi: '$1 đang triệu hồi bạn đế vị trí của họ.'
   },
@@ -187,6 +188,7 @@ export default {
     tr: 'Assistant\'a Terfi Ettir',
     hu: 'Előléptetés Assistanttá',
     de: 'Zum Assistant befördern',
+    fr: 'Promouvoir Assistant',
     pl: 'Promuj na Assistant.',
     vi: 'Thăng chức lên Assistant'
   },
@@ -200,6 +202,7 @@ export default {
     tr: 'Leader\'e Terfi Ettir',
     hu: 'Előléptetés Leaderré',
     de: 'Zum Leader befördern',
+    fr: 'Promouvoir Leader',
     pl: 'Promuj na Leader',
     vi: 'Thăng chức lên Leader'
   },
@@ -213,6 +216,7 @@ export default {
     tr: 'Assistant\'lıktan Çıkar',
     hu: 'Assistant Visszabuktatása',
     de: 'Assistant degradieren',
+    fr: 'Rétrograder Assistant',
     pl: 'Degraduj na Assistant',
     vi: 'Giáng chức xuống Assitant'
   },
