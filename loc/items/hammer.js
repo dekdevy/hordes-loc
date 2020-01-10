@@ -6,7 +6,8 @@ export default [
       hu: 'Ez az egyszerű szerszám szántóvetők keze munkája.',
       ru: 'Это временное оружие, которое часто создают фермеры.',
       de: 'Dies ist eine provisorische Waffe, die oft von Bauern hergestellt wird.',
-      vi: 'Đây là một vũ khí tạm thời thường được tạo ra bởi nông dân'
+      vi: 'Đây là một vũ khí tạm thời thường được tạo ra bởi nông dân',
+      es: 'Esta es un arma improvisada que a menudo es creada por los granjeros.'
     }
   },
 
@@ -17,7 +18,8 @@ export default [
       hu: 'Ez a pöröly az ácsok eszköze, de amikor az ellenség megmássza a falakat, és a családok a barlangokba menekülnek, a hősöknek felér ez a leghatalmasabb pallosokkal.',
       ru: 'Этот молоток, обычно используется для столярных работ; однако деревянные молоточки по необходимости часто используются для борьбы, когда ресурсов и материалов не хватает.',
       de: 'Dies ist ein Hammer, der normalerweise für die Tischlerei verwendet wird. Holzhämmer werden jedoch oft im Kampf eingesetzt, wenn Rohstoffe und Materialien knapp sind.',
-      vi: 'Đây là một cái vồ thường được sử dụng làm mộc; tuy nhiên, vồ gỗ thường được sử dụng để chiến đáua khi tài nguyên và vật liệu khan hiếm.'
+      vi: 'Đây là một cái vồ thường được sử dụng làm mộc; tuy nhiên, vồ gỗ thường được sử dụng để chiến đáua khi tài nguyên và vật liệu khan hiếm.',
+      es: 'Este es un mazo normalmente usado para carpintería; sin embargo, los mazos de madera a menudo se usan para combatir por necesidad cuando los recursos y materiales son escasos.'
     }
   },
 
@@ -28,7 +30,8 @@ export default [
       hu: 'Ezekre a kipróbált ormótlan bunkókra számos legenda fonódott, de a hatékonyságuk csökkent a történelem századai során.',
       ru: 'Первоклассные булавы проходят боевые испытания и на них накапливаются легенды, однако их эффективность со временем снижается.',
       de: 'Urstreitkolben sind kampferprobt und haben Legenden, die auf sie gewirkt haben. Ihre Wirksamkeit hat jedoch mit der Zeit abgenommen.',
-      vi: 'Chùy nguyên thủy được thử nghiệm chiến đấu và có những huyền thoại chất đống trên chúng; tuy nhiên, hiệu quả của chúng đã giảm dần theo thời gian'
+      vi: 'Chùy nguyên thủy được thử nghiệm chiến đấu và có những huyền thoại chất đống trên chúng; tuy nhiên, hiệu quả của chúng đã giảm dần theo thời gian',
+      es: 'Las Primal maces son probadas en batalla y tienen leyendas sobre ellas; sin embargo, su efectividad ha disminuido con el tiempo.'
     }
   },
 
@@ -39,7 +42,8 @@ export default [
       hu: 'Ez az orkok kedvelt eszköze csatára és kihallgatásokra.',
       ru: 'Это предпочтительный инструмент орков для допросов и ведения боя.',
       de: 'Dies ist das bevorzugte Werkzeug eines Orks für Verhöre und Kämpfe.',
-      vi: 'Đây là một công cụ ưa thích của Orc để tra khảo và chiến đấu'
+      vi: 'Đây là một công cụ ưa thích của Orc để tra khảo và chiến đấu',
+      es: 'Esta es la herramienta preferida de los orcos para los interrogatorios y las batallas.'
     }
   },
 
@@ -50,7 +54,8 @@ export default [
       hu: 'A nehéz pőrölyök háborúra és tetszelgésre készültek a jóképű tiszteknek.',
       ru: 'Тяжелые булавы созданы для войны, вторжений и харизмы.',
       de: 'Schwere Keulen sind für Krieg, Überfall und Charisma geschaffen.',
-      vi: 'Các chùy nặng được tạo ra cho chiến trận, xâm lược và dụ hoặc'
+      vi: 'Các chùy nặng được tạo ra cho chiến trận, xâm lược và dụ hoặc',
+      es: 'Las mazas pesadas están hechas para la guerra, la infiltración y el carisma.'
     }
   },
 
@@ -61,7 +66,8 @@ export default [
       hu: 'A vasbuzogányok általában mesteremberek munkái, például a híres Markay\'ak is efféléket készít. Szinte mindíg otthagyják a jelzésüket a vason, a büszkeség jelképeként.',
       ru: 'Железные башеры обычно изготавливаются опытными мастерами, такими как монстр Markay\'ak. Ремесленники почти всегда оставляют свой след на железе как символ гордости.',
       de: 'Eisenschläger werden typischerweise von erfahrenen Handwerkern wie dem Monster Markay\'ak hergestellt. Handwerker hinterlassen fast immer ihre Spuren auf dem Eisen als Symbol des Stolzes.',
-      vi: 'Bashers sắt thường được thực hiện bởi các thợ thủ công chuyên gia như quái vật Markay\'ak. Thợ thủ công hầu như luôn để lại dấu ấn của mình trên tấm sắt như một biểu tượng của niềm tự hào.'
+      vi: 'Bashers sắt thường được thực hiện bởi các thợ thủ công chuyên gia như quái vật Markay\'ak. Thợ thủ công hầu như luôn để lại dấu ấn của mình trên tấm sắt như một biểu tượng của niềm tự hào.',
+      es: 'Los Iron bashers son hechos típicamente por artesanos expertos como el monstruo Markay \'ak. Los artesanos casi siempre dejan su marca en el hierro como símbolo de orgullo.'
     }
   },
 
@@ -72,7 +78,8 @@ export default [
       hu: 'Ezek a kalapácsok kivételes fémből készültek, ami elnyeli a színeket, de a tulajdonságokat is. A varázslat titkai szörnyeteg kovácsoktól származik, és később terjedt el.',
       ru: 'Эти булавы сделаны из специального металла, который имеет различные цвета и свойства. Секреты этого тёмного металла были украдены у монстров-ремесленников и популяризованы.',
       de: 'Diese Mauls werden aus einem speziellen Metall hergestellt, das unterschiedliche Farben und Eigenschaften aufweist. Die Geheimnisse dieses Dunkelmetalls wurden von Monster-Handwerkern gestohlen und verbreitet.',
-      vi: 'Những chùy lớn được làm bằng một kim loại đặc biệt có màu sắc và tính chất riêng biệt. Các bí mật của Vật chất tối này đã bị đánh cắp từ các thợ thủ công quái vật và trở nên phổ biến.'
+      vi: 'Những chùy lớn được làm bằng một kim loại đặc biệt có màu sắc và tính chất riêng biệt. Các bí mật của Vật chất tối này đã bị đánh cắp từ các thợ thủ công quái vật và trở nên phổ biến.',
+      es: 'Estos mazos están hechos con un metal especial que tiene distintos colores y propiedades. Los secretos de este metal oscuro fueron robados de monstruos artesanos y popularizados.'
     }
   },
 
