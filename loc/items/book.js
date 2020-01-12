@@ -235,7 +235,7 @@ export default [{
   name: {$$: 'Charge'},
 
   description: {
-    en: 'Charge towards your target while also stunning it. Stun duration increases with charge distance.'
+    en: 'Charge towards any target while also stunning it (if hostile). Stun duration increases with charge distance.'
   }
 },
 {
