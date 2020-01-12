@@ -130,7 +130,7 @@ export default [{
   name: {$$: 'Centrifugal Laceration'},
 
   description: {
-    en: 'Your Crescent Swipe lacerates enemies, causing them to bleed for additional Damage.'
+    en: 'Your Crescent Swipe lacerates enemies, causing them to bleed for additional Damage. Stacks up to 3 times.'
   }
 },
 {
