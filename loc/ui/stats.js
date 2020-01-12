@@ -343,6 +343,7 @@ export default {
       hu: 'Gyógyításcsökkentés',
       ru: 'Снижение восст. HP',
       es: 'Reducción de cura',
+      fr: 'Réduction de soin',
       pl: 'Ograniczenie leczenia',
       vi: 'Giảm hồi máu'
     }

@@ -24,7 +24,7 @@ export default {
     ru: 'Управление',
     hi: 'नियंत्रण',
     es: 'Controles',
-    de: 'Tastenbelegung',
+    de: 'Steuerung',
     fr: 'Contrôles',
     tr: 'Kontroller',
     nl: 'Bediening',
@@ -54,6 +54,7 @@ export default {
   camera: {
     en: 'Camera',
     de: 'Kamera',
+    fr: 'Caméra',
     ru: 'Камера',
     pl: 'Kamera'
   },
@@ -61,6 +62,7 @@ export default {
   mousesensitivity: {
     en: 'Sensitivity',
     de: 'Empfindlichkeit',
+    fr: 'Sensibilité',
     ru: 'Чувствительность',
     pl: 'Czułość',
     vi: 'Độ nhạy chuột'
@@ -69,6 +71,7 @@ export default {
   invertmousex: {
     en: 'Invert horizontally',
     de: 'X-Achse umkehren',
+    fr: 'Inverser horizontalement',
     ru: 'Инвертировать горизонтально',
     pl: 'Inwersja pozioma',
     vi: 'Đảo ngược theo chiều ngang'
@@ -77,6 +80,7 @@ export default {
   invertmousey: {
     en: 'Invert vertically',
     de: 'Y-Achse umkehren',
+    fr: 'Inverser verticalement',
     ru: 'Инвертировать вертикально',
     pl: 'Inwersja pionowa',
     vi: 'Đảo ngược theo chiều dọc'
@@ -430,6 +434,7 @@ export default {
   stashwidth: {
     en: 'Stash width',
     ru: 'Ширина Stash',
+    fr: 'Largeur de Stash',
     hu: 'Stash szélesség',
     de: 'Stash-Breite',
     pl: 'Szerokość Stash',
@@ -440,6 +445,7 @@ export default {
   stashheight: {
     en: 'Stash height',
     ru: 'Высота Stash',
+    fr: 'Hauteur de Stash',
     hu: 'Stash magasság',
     de: 'Stash-Höhe',
     pl: 'Wysokość Stash',

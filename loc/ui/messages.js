@@ -214,6 +214,7 @@ export default {
   partyLootQueueResolve: {
     en: '$1 received $2 $3 $4.',
     ru: '$1 получил $2 $3 $4.',
+    fr: '$1 à reçu $2 $3 $4.',
     vi: '$1 nhận được $2 $3 $4.',
     de: '$1 erhielt $2 $3 $4.'
   },
