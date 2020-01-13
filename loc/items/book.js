@@ -291,7 +291,7 @@ export default [{
   name: {$$: 'Tempering'},
 
   description: {
-    en: 'You slow down as your armor hardens. Removes all movement impairing effects after 2 seconds. If you are incapacitated, your Charge Cooldown is reset and you gain 20 Movement Speed for 3 seconds.'
+    en: 'Your armor cools down for 2 seconds. Then, if you are incapacitated: all control impairing effects are removed, your Charge cooldown is reset and you gain 20 Movement Speed for 3 seconds.'
   }
 }
 ]
