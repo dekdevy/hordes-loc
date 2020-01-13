@@ -211,7 +211,7 @@ export default {
       ru: 'Ск.Умен',
       es: 'Rapidez',
       pt: 'Rapidez',
-      fr: 'Célérité',
+      fr: 'Hâte',
       tr: 'Çabukluk',
       hu: 'Sietség',
       zh: '匆忙',
