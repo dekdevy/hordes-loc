@@ -4,7 +4,7 @@ export default {
     text: {
       en: 'Have you heard of the Crystal Shards that were discovered recently? Adventurers can use them to travel directly to distant realms. I don\'t have any Crystal Shards, but I can send you to some places since mystic forces converge at this nexus. Which realm is your desired destination?',
       ru: 'Вы слышали о Crystal Shards, которые были недавно обнаружены? Путешественники могут использовать их для мнгновенава перемещения от мира до мира. У меня сейчас нету этих Shards, но я могу переместить вас в любое место, так как на этом нексусе сходятся мистические силы. В какой мир вы хотите попасть?',
-      es: 'Has oído hablar de los Crystal Shards que se descubrieron recientemente? Los aventureros pueden usarlos para viajar directamente a reinos distantes. No tengo Crystal Shards,pero puedo enviarte a algunos lugares ya que las fuerzas místicas convergen en este nexo. ¿Qué reino es tu destino deseado?',
+      es: '¿Has oído hablar de los Crystal Shards que se descubrieron recientemente? Los aventureros pueden usarlos para viajar directamente a reinos distantes. No tengo Crystal Shards,pero puedo enviarte a algunos lugares ya que las fuerzas místicas convergen en este nexo. ¿Qué reino es tu destino deseado?',
       hi: 'क्या आपने हाल ही में खोजे गए Crystal Shards के बारे में सुना है? एडवेंचरर उन्हें दूर के स्थानों की यात्रा करने के लिए सीधे उपयोग कर सकते हैं। मेरे पास कोई Crystal Shards नहीं है, लेकिन मैं आपको कुछ स्थानों पर भेज सकता हूं क्योंकि रहस्यवादी ताकतें इस सांठगांठ पर धर्मान्तरित होती हैं। आपका पसंदीदा स्थान कौन सा है?',
       ko: '최근에 발견 된 Crystal Shards에 대해 들어 보셨습니까? 모험가들은 그들을 사용하여 먼 지역으로 직접 여행 할 수 있습니다. Crystal Shards가 없지만 신비주의 세력이이 관계에 수렴했기 때문에 나를 몇 군데에 보낼 수 있습니다. 원하는 영역은 어느 영역입니까?',
       nl: 'Heb je gehoord van de Crystal Shards die recentelijk zijn ontdekt? Avonturiers kunnen ze gebruiken om rechtstreeks naar verre rijken te reizen. Ik heb geen Crystal Shards, maar ik kan je naar sommige plaatsen sturen, omdat mystieke krachten samenkomen op deze nexus. Welk rijk is jouw gewenste bestemming?',
@@ -26,7 +26,7 @@ export default {
       fr: 'S\'il-vous plaît, apportez-moi vers $1',
       hi: 'कृपया मुझे $1 ले चलें।',
       de: 'Bitte bring mich zu $1.',
-      es: 'Por favor, lléveme a $1.',
+      es: 'Por favor, llévame a $1.',
       nl: 'Breng me alsjeblieft naar $1.',
       pt: 'Por favor, leve-me até $1.',
       tr: 'Lütfen bana $1 getir.',
