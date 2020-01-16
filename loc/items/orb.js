@@ -8,7 +8,7 @@ export default [
       ru: 'Это череп крысы - полезный инструмент для начинающих магов. Иногда маги экспериментируют с костями долгоживущих существ, чтобы создать фокусирующийся сосуд.',
       de: 'Dieser Rattenschädel ist ein nützliches Hilfsmittel für beginnende Magier. Magier experimentieren manchmal mit den Knochen von längst toten Kreaturen, um ein Fokussiergefäß zu erzeugen.',
       vi: 'Hộp sọ chuột này là một công cụ hữu ích cho các pháp sư tập sự. Các pháp sư đôi khi thử nghiệm trên xương của các sinh vật đã chết để tạo ra một lọ tập trung.',
-      es: 'Este rat skull es una herramienta útil para los magos principiantes. Los magos a veces experimentan sobre huesos de criaturas muertas de hace mucho tiempo para producir un recipiente de enfoque.'
+      es: 'Esta calavera de rata es una herramienta útil para los magos principiantes. Los magos a veces experimentan sobre huesos de criaturas muertas de hace mucho tiempo para producir un recipiente de enfoque.'
     }
   },
 
@@ -116,7 +116,7 @@ export default [
       ru: 'Филактерия лича содержит душу могущественного существа-нежити. Старые филактерии обладают мощным завораживающим действием для защиты владельца и души, содержащейся в них.',
       de: 'Die Pflanzenzucht eines Lichs enthält die Seele einer mächtigen untoten Kreatur. Ältere Pflanzenarten haben mächtige Verzauberungen, um den Träger und die darin enthaltene Seele zu schützen.',
       vi: 'Một hộp đựng kinh của lich chứa linh hồn của một sinh vật bất tử mạnh mẽ. Các hộp đựng kinh cũ đi kèm với phù phép mạnh mẽ để bảo vệ người mang - và linh hồn chứa đựng bên trong.',
-      es: 'La lich’s phylactery contiene el alma de una poderosa criatura no muerta. Las phylacteries más antiguas tienen encantamientos poderosos para proteger al usuario, y al alma que contiene.'
+      es: 'La filacteria del Lich contiene el alma de una poderosa criatura no muerta. Las filacterias más antiguas tienen encantamientos poderosos para proteger al usuario, y al alma que contiene.'
     }
   }
 ]
