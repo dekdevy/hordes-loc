@@ -21,7 +21,7 @@ export default {
 
     choices: [{
       en: 'Yes, I have some items.',
-      es: 'Sí, tengo algunos items.',
+      es: 'Sí, tengo algunos objetos.',
       ru: 'Да, у меня есть кое-какие вещи.',
       de: 'Ja, ich habe ein paar Items.',
       fr: 'Oui, j\'ai quelques items.',
