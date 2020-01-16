@@ -22,7 +22,7 @@ export default {
     en: 'Press the button to be resurrected at the nearest conjurer.',
     ru: 'Нажмите кнопку, чтобы воскреснуть у ближайшего Заклинателя.',
     hi: 'निकटतम संयोजक पर पुनर्जीवित होने के लिए बटन दबाएं।',
-    es: 'Presiona el botón para ser resucitado en el conjurador más cercano.',
+    es: 'Presiona este botón para ser resucitado en el invocador más cercano.',
     de: 'Drücke den Knopf, um beim nächsten Beschwörer wiederbelebt zu werden.',
     fr: 'Appuyez sur le bouton pour être ressuscité chez le prestidigitateur le plus proche.',
     ko: '버튼을 눌러 가장 가까운 conjurer에게 부활 시키십시오.',
