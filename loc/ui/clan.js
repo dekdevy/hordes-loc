@@ -81,7 +81,7 @@ export default {
     ru: 'Аббревиатура клана',
     fr: 'Tag du Clan',
     hi: 'दल Tag',
-    es: 'Clan Tag',
+    es: 'Etiqueta del Clan',
     de: 'Clan-Tag',
     tr: 'Klan Tag\'ı',
     pt: 'Tag do Clã',
