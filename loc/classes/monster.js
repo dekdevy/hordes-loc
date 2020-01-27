@@ -9,6 +9,7 @@ export default {
     hi: 'राक्षस',
     ko: '괴물',
     pt: 'Monstro',
+    pt-BR: 'Monstro',
     tr: 'Canavar',
     nl: 'Monster',
     ro: 'Monstru',
