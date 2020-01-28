@@ -32,7 +32,6 @@ export default {
     hu: '$1 elhagyta a klánodat.',
     fr: '$1 a quitté votre clan.',
     pl: '$1 opuścił twój klan.',
-    zh: '$1 离开你的氏族.',
     vi: '$1 đã rời khỏi Bang.',
     zh: '$1 離開了你的公會。'
   },
@@ -251,7 +250,7 @@ export default {
     pl: 'Twoja aukcja u kupca została sprzedana i $g$1 zostało wysłane do twojego Stash.',
     vi: 'Vật phẩm đấu giá của bạn đã được bán và $g$1 đã được gửi vào Hòm đồ của bạn.',
     zh: '你的商家拍賣售出，$g$1 送到你的金庫。'
-    
+
   },
   online: {
     en: '$1 has come online.',
