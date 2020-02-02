@@ -293,5 +293,12 @@ export default [{
   description: {
     en: 'You slow down for 2 seconds. Then, if you are incapacitated: all control impairing effects are removed, your Charge cooldown is reset and you gain 20 Movement Speed for 3 seconds.'
   }
+},
+{
+  name: {$$: 'Plaguespreader'},
+
+  description: {
+    en: 'Spreads your active decay debuffs.'
+  }
 }
 ]
