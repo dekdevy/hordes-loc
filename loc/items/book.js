@@ -295,10 +295,17 @@ export default [{
   }
 },
 {
+  name: {$$: 'Incubation'},
+
+  description: {
+    en: 'Incubate your target with a virus. At the end of the duration it explodes, dealing 300% increasedd damage to nearby targets and infecting them with Decay.'
+  }
+},
+{
   name: {$$: 'Plaguespreader'},
 
   description: {
-    en: 'Spreads your active decay debuffs.'
+    en: 'Every time you kill an enemy, your Incubation cooldown is decreased by 2 seconds and you gain increased Wisdom temporarily.'
   }
 }
 ]
