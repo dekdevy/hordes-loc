@@ -298,7 +298,7 @@ export default [{
   name: {$$: 'Incubation'},
 
   description: {
-    en: 'Incubate your target with a virus. At the end of the duration it explodes, dealing 300% increasedd damage to nearby targets and infecting them with Decay.'
+    en: 'Incubate your target with a virus. At the end of the duration it explodes, dealing 300% damage to nearby targets and infecting them with Decay.'
   }
 },
 {
