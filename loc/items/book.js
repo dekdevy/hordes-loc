@@ -88,7 +88,7 @@ export default [{
   name: {$$: 'Decay'},
 
   description: {
-    en: 'Curse your enemy with a spell of decay, dealing damage over time.'
+    en: 'Curse your enemy with a spell of decay, dealing initial damage and additional damage over time.'
   }
 },
 {
@@ -295,17 +295,17 @@ export default [{
   }
 },
 {
-  name: {$$: 'Incubation'},
+  name: {$$: 'Soul Harvest'},
 
   description: {
-    en: 'Incubate your target with a virus. At the end of the duration it explodes, dealing 300% damage to nearby targets and infecting them with Decay.'
+    en: 'Reap the souls of nearby enemies affected by Decay, dealing damage and granting you mana for each harvested soul.'
   }
 },
 {
   name: {$$: 'Plaguespreader'},
 
   description: {
-    en: 'Every time you kill an enemy, your Incubation cooldown is decreased by 2 seconds and you gain increased Wisdom temporarily.'
+    en: 'Decay deals damage and jumps to a nearby enemy if the current target is already affected by Decay. Additionally, casting Decay grants you Haste for a short duration.'
   }
 }
 ]
