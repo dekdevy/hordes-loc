@@ -8,7 +8,7 @@ export default [
       fr: 'Ces bracelets sont des lanières de cuir qui sont enveloppées dans une formation simple.',
       es: 'Estas pulseras estan hechas de tiras de cuero que están envueltas en una formación simple.',
       de: 'Diese Armbänder sind Lederstreifen, die in einer einfachen Anordnung gewickelt sind.',
-      vi: 'Những vòng tay này là những miếng da được bọc thành một hình đơn giản.'
+      vi: 'Những vòng tay này là những miếng da được bọc thành một hình đơn giản.',
       nl: 'Dit armbanden zijn leren stroken die verwikkeld zijn in een simpele formatie.'
     }
   },
@@ -22,7 +22,7 @@ export default [
       fr: 'Ces brassards ont été créés à la va-vite. Les marques de combat rugueuses sur les côtés du cuir n\'inspirent pas confiance en la survie de l\'ancien propriétaire.',
       es: 'Estos brazaletes fueron creados precipitadamente. Las marcas de las brutales batallas a los lados del cuero no inspiran confianza sobre la supervivencia de su dueño anterior.',
       de: 'Diese Armbänder wurden in kürzester Zeit erstellt. Die rauen Schlachtmarkierungen an den Seiten des Leders wecken kein Vertrauen in das Überleben des Vorbesitzers.',
-      vi: 'Những chiếc băng tay này được tạo ra một cách vội vã. Các vết tích chiến đấu trên các mặt da không tạo sự tự tin về sự sống sót của chủ sở hữu trước đó.'
+      vi: 'Những chiếc băng tay này được tạo ra một cách vội vã. Các vết tích chiến đấu trên các mặt da không tạo sự tự tin về sự sống sót của chủ sở hữu trước đó.',
       nl: 'Deze armbanden waren haastig gecreëerd. De ruwe gevecht tekens op de zijkanten van het leer inspireren niet het zelfvertrouwen van de vorige eigenaars overleven.'
     }
   },
@@ -52,9 +52,7 @@ export default [
       es: 'Este tipo de brazalete está adornado a mano con huesos de monstruo gruesos. Muchas tradiciones supersticiosas afirman que el portador de dichos brazaletes se impregnará con el poder del monstruo fallecido; Sin embargo, otros afirman que la reutilización de huesos impide que los monstruos resuciten.',
       de: 'Diese Art von Armband ist kunstvoll mit dicken Monsterknochen verziert. Viele abergläubische Traditionen behaupten, dass der Träger solcher Armbänder von der Macht des verstorbenen Monsters durchdrungen wird. Andere behaupten jedoch, dass die Wiederverwendung von Knochen das Wiederaufleben von Monstern verhindert.',
       vi: 'Loại vòng tay này được chế tạo công phu với xương quái vật dày. Nhiều truyền thống mê tín cho rằng người đeo những chiếc vòng như vậy trở nên thấm đẫm sức mạnh của quái vật đã chết; tuy nhiên, những người khác cho rằng việc tái sử dụng xương sẽ ngăn quái vật hồi sinh.',
-      nl: 'Dit type armbanden is sierlijk vervaardigd met dikke monsterbotten. Velen bijgelovige tradities beweren dat de drager van zulke armbanden doorgedrongen worden met de krachten van het 
-overleden monster; maar, anderen beweren dat het hergebruiken van botten voorkomt dat 
-monsters weer oprakelen.'
+      nl: 'Dit type armbanden is sierlijk vervaardigd met dikke monsterbotten. Velen bijgelovige tradities beweren dat de drager van zulke armbanden doorgedrongen worden met de krachten van het overleden monster; maar, anderen beweren dat het hergebruiken van botten voorkomt dat monsters weer oprakelen.'
     }
   },
 
@@ -96,8 +94,7 @@ monsters weer oprakelen.'
       es: 'Estas esposas fueron forjadas con un fuego especial que solo pueden ser creados a través de la magia. En el pasado, los elementales de fuego solo enseñaban a unos pocos herreros especiales el secreto de forjar esposas de ascuas.',
       de: 'Diese Manschetten wurden mit einem speziellen Feuer geschmiedet, das nur durch Magie erzeugt werden kann. In der Vergangenheit lehrten Feuerelementarier nur wenige spezielle Schmiede das Geheimnis des Schmiedens von Glimmerfesseln.',
       vi: 'Những chiếc còng này được rèn bằng một ngọn lửa đặc biệt chỉ có thể được tạo ra thông qua phép thuật. Trong quá khứ, các nguyên tố lửa chỉ dạy cho một vài thợ rèn đặc biệt bí mật để rèn còng này.',
-      nl: 'Deze manchetten waren gesmeed met een speciaal vuur die alleen gecreëerd kunnen worden door magie. In het verleden, vuur elementalen leerden alleen een paar speciale hoefsmeden het geheim 
-van hoe je de ember cuffs moet smeden.'
+      nl: 'Deze manchetten waren gesmeed met een speciaal vuur die alleen gecreëerd kunnen worden door magie. In het verleden, vuur elementalen leerden alleen een paar speciale hoefsmeden het geheim van hoe je de ember cuffs moet smeden.'
     }
   },
 
@@ -111,8 +108,7 @@ van hoe je de ember cuffs moet smeden.'
       es: 'Los brazaletes espejados están hechos por herreros excepcionales con las habilidades necesarias para hacer armadura reflectante que reduce el daño. Esta cualidad protectora inspiró a muchos magos élficos a experimentar a menudo en brazaletes espejados.',
       de: 'Gespiegelte Armbänder werden von ausgezeichneten Schmieden hergestellt, die über die notwendigen Fähigkeiten verfügen reflektierende Rüstungen zur Schadensreduzierung herzustellen. Diese schützende Eigenschaft inspirierte viele elfische Zauberer dazu, oft an verspiegelten Armbändern zu experimentieren.',
       vi: 'Vòng tay phản chiếu được chế tạo bởi thợ rèn đặc biệt với các kỹ năng cần thiết để chế tạo áo giáp phản chiếu để giảm sát thương. Chất lượng bảo vệ này đã truyền cảm hứng cho nhiều pháp sư Elvish thường thử nghiệm trên các vòng tay được phản chiếu.',
-      nl: 'Mirror armlets zijn gemaakt door buitengewone hoefsmeden met de vaardigheid noodzakelijk om reflecterende harnassen te maken voor schade vermindering. Deze beschermende kwaliteit 
-inspireerde vele elven tovenaars om vaak te experimenteren op mirror armlets.'
+      nl: 'Mirror armlets zijn gemaakt door buitengewone hoefsmeden met de vaardigheid noodzakelijk om reflecterende harnassen te maken voor schade vermindering. Deze beschermende kwaliteit inspireerde vele elven tovenaars om vaak te experimenteren op mirror armlets.'
     }
   },
 
@@ -126,8 +122,7 @@ inspireerde vele elven tovenaars om vaak te experimenteren op mirror armlets.'
       es: 'Los fragmentos de golem están cuidadosamente ensamblados por un pequeño equipo de herreros usuarios de magia. Cada par de fragmentos de golems son elaborados durante cientos de días usando la cáscara de los golems de roca.',
       de: 'Golem-Fragmente werden von einem kleinen Team von Magie-Schmieden sorgfältig zusammengestellt. Jedes Paar von Golem-Fragmenten wird über mehrere hundert Tage hinweg aus den Schalen von Felsengolems hergestellt.',
       vi: 'Các mảnh của Người đá được lắp ráp một cách tỉ mỉ bởi một nhóm nhỏ thợ rèn sử dụng ma thuật. Mỗi cặp mảnh golem được tạo ra trong vài trăm ngày bằng cách sử dụng vỏ của người đá.',
-      nl: 'Golem fragments zijn nauw in elkaar gezet door een kleine team van magie-gebruikende hoefsmeden. Elk paar golem fragments zijn gemaakt over honderden dagen met gebruik van de 
-omhulsels van rots golems.'
+      nl: 'Golem fragments zijn nauw in elkaar gezet door een kleine team van magie-gebruikende hoefsmeden. Elk paar golem fragments zijn gemaakt over honderden dagen met gebruik van de omhulsels van rots golems.'
     }
   },
 
@@ -141,8 +136,7 @@ omhulsels van rots golems.'
       es: 'Los brazaletes como este se componen de un metal raro que se encuentra en las montañas. Los herreros usan martillos encantados para forjar los brazaletes sin calor y así retener las propiedades mágicas del metal.',
       de: 'Solche Armschienen bestehen aus einem seltenen Metall, das in den Bergen gefunden wird. Schmiede verwenden verzauberte Hämmer, mit denen sie die Armschienen ohne Hitze schmieden, um die magieverstärkenden Eigenschaften des Metalls zu erhalten.',
       vi: 'Những bao tay như thế này bao gồm một kim loại quý hiếm được tìm thấy ở vùng núi. Thợ rèn sử dụng búa mê hoặc để rèn các bao tay mà không cần nhiệt để giữ lại các đặc tính tăng cường ma thuật của kim loại.',
-      nl: 'Armbanden zoals deze zijn gemaakt uit zeldzame metalen gevonden in de bergen. Hoefsmeden gebruiken betoverde hamers om de armbanden te smeden zonder hitte zodat de magie 
-verbeteringen op het metaal blijft.'
+      nl: 'Armbanden zoals deze zijn gemaakt uit zeldzame metalen gevonden in de bergen. Hoefsmeden gebruiken betoverde hamers om de armbanden te smeden zonder hitte zodat de magie verbeteringen op het metaal blijft.'
     }
   },
 
@@ -170,8 +164,7 @@ verbeteringen op het metaal blijft.'
       es: 'Los magos ambiciosos al borde de la locura descubrieron secretos de la magia dimensional y formaron brazaletes que trascienden la protección de magia normal. Estos brazaletes anormales requieren una forma especial para mantener sus propiedades.',
       de: 'Ambitionierte Zauberer am Rande des Wahnsinns entdeckten Geheimnisse der Dimensionsmagie und formten Armschienen, die über den normalen magischen Schutz hinausgehen. Diese unnatürlichen Armschienen erforderten eine spezielle Form, um ihre Eigenschaften zu erhalten.',
       vi: 'Những phù thủy đầy tham vọng bên cạnh sự điên rồ đã phát hiện ra những bí mật đối với ma thuật không gian và tạo nên những bao tay vượt qua sự bảo vệ ma thuật thông thường. Những bao tay bất thường đòi hỏi một hình dạng đặc biệt để duy trì đặc tính của chúng.',
-      nl: 'Ambitieuze tovenaren op het randje van complete gestoordheid ontdekten geheimen tot dimensionale magie en vormden armbanden die normale magische bescherming overstijgen. Deze 
-abnormale armbanden vereisen een speciale vorm om hun eigendommen te behouden.'
+      nl: 'Ambitieuze tovenaren op het randje van complete gestoordheid ontdekten geheimen tot dimensionale magie en vormden armbanden die normale magische bescherming overstijgen. Deze abnormale armbanden vereisen een speciale vorm om hun eigendommen te behouden.'
     }
   },
 
@@ -185,8 +178,7 @@ abnormale armbanden vereisen een speciale vorm om hun eigendommen te behouden.'
       es: 'Algunas leyendas dicen que estos brazaletes solo aparecen cuando el reino necesita un guardian. La historia demuestra que terribles tragedias ocurren al poco tiempo de que estos brazaletes son encontrados; Como tal, sus apariciones a menudo presagian un mal augurio.',
       de: 'Einige Legenden sagen, dass diese Armschienen nur dann erscheinen, wenn die Königreiche einen Wächter brauchen. Die Geschichte zeigt, dass sich kurz darauf bei der Entdeckung dieser Armschienen schreckliche Tragödien ereignen. So werden ihre Erscheinungen oft als schlechte Omen angesehen.',
       vi: 'Một số truyền thuyết nói rằng những chiếc bao tay này chỉ xuất hiện khi các vương quốc cần một người bảo vệ. Lịch sử cho thấy những thảm kịch khủng khiếp xảy ra ngay sau đó bất cứ khi nào những chiếc bao tay này được tìm thấy; như vậy, sự xuất hiện của chúng thường được coi là điềm xấu.',
-      nl: 'Sommige legendes zeggen dat deze armbanden alleen tevoorschijn komen wanneer de rijken een wachter nodig hebben. Geschiedenis toont dat vreselijke tragedies gebeuren kort nadat deze 
-armbanden gevonden zijn; dus hun verschijningen worden vaak gezien als slechte voortekens.'
+      nl: 'Sommige legendes zeggen dat deze armbanden alleen tevoorschijn komen wanneer de rijken een wachter nodig hebben. Geschiedenis toont dat vreselijke tragedies gebeuren kort nadat deze armbanden gevonden zijn; dus hun verschijningen worden vaak gezien als slechte voortekens.'
     }
   }
 
