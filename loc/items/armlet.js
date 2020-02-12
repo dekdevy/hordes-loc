@@ -156,9 +156,7 @@ verbeteringen op het metaal blijft.'
       es: 'Estos brazaletes fueron creados por herreros que martillaron metales encontrados en meteoritos negros. Hasta ahora, la mayor concentración de meteoritos negros se encontró despues de un cataclismo que desencadenó en la Segunda Gran Guerra.',
       de: 'Diese Armschienen wurden von Schmieden hergestellt, die Metall aus schwarzen Meteoriten verwendeten. Die bisher größte Konzentration an schwarzen Meteoriten wurde in der Folgezeit einer Katastrophe nach dem Zweiten Weltkrieg gefunden.',
       vi: 'Những chiếc bao tay này được tạo ra bởi những người thợ rèn chế tạo từ kim loại tìm thấy trong các thiên thạch đen. Cho đến nay, nơi tập trung lớn nhất của các thiên thạch đen đã được tìm thấy sau một trận đại hồng thủy sau Đại chiến thứ hai.',
-      nl: 'Deze armbanden werden gemaakt door hoefsmeden die hebben gehamerd op metaal gevonden in 
-zwarte meteotieten. Tot nu toe, de grootste concentratie van zwarte meteoren waren gevonden na 
-een natuurramp die de tweede grootte oorlog volgde.'
+      nl: 'Deze armbanden werden gemaakt door hoefsmeden die hebben gehamerd op metaal gevonden in zwarte meteotieten. Tot nu toe, de grootste concentratie van zwarte meteoren waren gevonden na een natuurramp die de tweede grootte oorlog volgde.'
     }
   },
 
@@ -171,7 +169,9 @@ een natuurramp die de tweede grootte oorlog volgde.'
       fr: 'Des sorciers ambitieux au bord de la folie ont découvert les secrets de la magie dimensionnelle et ont formé des brassards qui transcendent la protection magique normale. Ces brassards anormaux nécessitaient une forme spéciale pour conserver leurs propriétés.',
       es: 'Los magos ambiciosos al borde de la locura descubrieron secretos de la magia dimensional y formaron brazaletes que trascienden la protección de magia normal. Estos brazaletes anormales requieren una forma especial para mantener sus propiedades.',
       de: 'Ambitionierte Zauberer am Rande des Wahnsinns entdeckten Geheimnisse der Dimensionsmagie und formten Armschienen, die über den normalen magischen Schutz hinausgehen. Diese unnatürlichen Armschienen erforderten eine spezielle Form, um ihre Eigenschaften zu erhalten.',
-      vi: 'Những phù thủy đầy tham vọng bên cạnh sự điên rồ đã phát hiện ra những bí mật đối với ma thuật không gian và tạo nên những bao tay vượt qua sự bảo vệ ma thuật thông thường. Những bao tay bất thường đòi hỏi một hình dạng đặc biệt để duy trì đặc tính của chúng.'
+      vi: 'Những phù thủy đầy tham vọng bên cạnh sự điên rồ đã phát hiện ra những bí mật đối với ma thuật không gian và tạo nên những bao tay vượt qua sự bảo vệ ma thuật thông thường. Những bao tay bất thường đòi hỏi một hình dạng đặc biệt để duy trì đặc tính của chúng.',
+      nl: 'Ambitieuze tovenaren op het randje van complete gestoordheid ontdekten geheimen tot dimensionale magie en vormden armbanden die normale magische bescherming overstijgen. Deze 
+abnormale armbanden vereisen een speciale vorm om hun eigendommen te behouden.'
     }
   },
 
@@ -184,7 +184,9 @@ een natuurramp die de tweede grootte oorlog volgde.'
       fr: 'Certaines légendes disent que ces brassards n\'apparaissent que lorsque les royaumes ont besoin d\'un gardien. L\'histoire montre que de terribles tragédies surviennent peu de temps après chaque fois que l\'on découvre ces brassards ; en tant que tel, leurs apparences sont souvent considérées comme de mauvais présages.',
       es: 'Algunas leyendas dicen que estos brazaletes solo aparecen cuando el reino necesita un guardian. La historia demuestra que terribles tragedias ocurren al poco tiempo de que estos brazaletes son encontrados; Como tal, sus apariciones a menudo presagian un mal augurio.',
       de: 'Einige Legenden sagen, dass diese Armschienen nur dann erscheinen, wenn die Königreiche einen Wächter brauchen. Die Geschichte zeigt, dass sich kurz darauf bei der Entdeckung dieser Armschienen schreckliche Tragödien ereignen. So werden ihre Erscheinungen oft als schlechte Omen angesehen.',
-      vi: 'Một số truyền thuyết nói rằng những chiếc bao tay này chỉ xuất hiện khi các vương quốc cần một người bảo vệ. Lịch sử cho thấy những thảm kịch khủng khiếp xảy ra ngay sau đó bất cứ khi nào những chiếc bao tay này được tìm thấy; như vậy, sự xuất hiện của chúng thường được coi là điềm xấu.'
+      vi: 'Một số truyền thuyết nói rằng những chiếc bao tay này chỉ xuất hiện khi các vương quốc cần một người bảo vệ. Lịch sử cho thấy những thảm kịch khủng khiếp xảy ra ngay sau đó bất cứ khi nào những chiếc bao tay này được tìm thấy; như vậy, sự xuất hiện của chúng thường được coi là điềm xấu.',
+      nl: 'Sommige legendes zeggen dat deze armbanden alleen tevoorschijn komen wanneer de rijken een wachter nodig hebben. Geschiedenis toont dat vreselijke tragedies gebeuren kort nadat deze 
+armbanden gevonden zijn; dus hun verschijningen worden vaak gezien als slechte voortekens.'
     }
   }
 
