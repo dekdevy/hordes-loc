@@ -307,5 +307,12 @@ export default [{
   description: {
     en: 'Decay deals damage and jumps to a nearby enemy if the current target is already affected by Decay. Additionally, casting Decay grants you Haste for a short duration.'
   }
+},
+{
+  name: {$$: 'Soul'}, // this is not a usable spell but a side-effect of soul-harvest
+
+  description: {
+    en: 'The harvested soul.'
+  }
 }
 ]
