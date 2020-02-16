@@ -15,9 +15,9 @@ export default {
       tr: 'Hasar',
       hu: 'Sebzés',
       zh: '傷害',
-      de: 'Schaden',
-      pl: 'Obrażenia',
-      vi: 'Sát thương'
+      de: 'Schaden'
+//      pl: 'Obrażenia'
+//      vi: 'Sát thương'
     }
   },
 
@@ -89,8 +89,8 @@ export default {
       hu: 'Bölcs.',
       zh: '智慧',
       de: 'Weisheit',
-      pl: 'Mądrość',
-      vi: 'Thông thái'
+      pl: 'Mądrość'
+//      vi: 'Thông thái'
     },
 
     {
@@ -103,7 +103,7 @@ export default {
       hu: 'Esély',
       zh: '運氣',
       de: 'Glück',
-      pl: 'Szczęście',
+//      pl: 'Szczęście',
       vi: 'May mắn'
     },
 
@@ -133,8 +133,8 @@ export default {
       hu: 'Min. Sebz.',
       zh: '最少傷害',
       pl: 'Min. Obr.',
-      de: 'Min. Schaden',
-      vi: 'Sát thương nhỏ nhất'
+      de: 'Min. Schaden'
+//      vi: 'Sát thương nhỏ nhất'
     },
 
     {
@@ -147,8 +147,8 @@ export default {
       hu: 'Max. Sebz.',
       zh: '最大傷害',
       pl: 'Max. Obr.',
-      de: 'Max. Schaden',
-      vi: 'Sát thương lớn nhất'
+      de: 'Max. Schaden'
+//      vi: 'Sát thương lớn nhất'
     },
 
     {
@@ -200,10 +200,10 @@ export default {
       es: 'Vel. Mov.',
       pt: 'Velocidade',
       hu: 'Mozgás',
-      zh: '移動速度',
-      pl: 'Prędkość ruchu',
-      vi: 'Tốc độ di chuyển',
-      de: 'Bewegungstempo'
+      zh: '移動速度'
+//      pl: 'Prędkość ruchu',
+//      vi: 'Tốc độ di chuyển',
+//      de: 'Bewegungstempo'
     },
 
     {
@@ -241,9 +241,9 @@ export default {
       pt: 'Enctr. Item',
       hu: 'Tárgylelés',
       zh: '裝備查找',
-      de: 'Item-Suche',
-      pl: 'Wyszukiwanie przedmiotu',
-      vi: 'Tỉ lệ tìm vật phẩm'
+      de: 'Item-Suche'
+//      pl: 'Wyszukiwanie przedmiotu',
+//      vi: 'Tỉ lệ tìm vật phẩm'
     },
 
     {
@@ -268,8 +268,8 @@ export default {
       pt: 'Fama',
       hu: 'Hírnév',
       zh: '聲譽',
-      pl: 'Sława',
-      vi: 'Danh vọng'
+      pl: 'Sława'
+//      vi: 'Danh vọng'
     },
 
     {
@@ -281,7 +281,7 @@ export default {
       hu: 'Stat Pntk',
       zh: '屬性點',
       de: 'Stat-Punkte',
-      pl: 'Punkty Statystyk',
+//      pl: 'Punkty Statystyk',
       vi: 'Điểm tiềm năng'
     },
 
@@ -307,7 +307,7 @@ export default {
       hu: '% Megnövelt Sebz.',
       zh: '%傷害增加',
       de: '% erhöhten Schaden',
-      pl: '% Zwiększone obrażenia',
+//      pl: '% Zwiększone obrażenia',
       vi: '% Tăng sát thương'
     },
 
@@ -320,7 +320,7 @@ export default {
       hu: '% Megnövelt Aggro Képzés',
       zh: '%增加挑衅',
       pl: '% Zwiększone generowanie aggro.',
-      de: '% erhöht Aggro Generierung', //better word for Aggro?
+      de: '% erhöht Aggro Generierung',
       vi: '% Tăng hồi Aggro'
     },
 
@@ -333,7 +333,7 @@ export default {
       hu: '% Mozgási Seb. Csökkentés',
       zh: '%移動速度降低',
       pl: '% Redukcja prędkości ruchu',
-      de: '% verminderte Laufgeschwindigkeit',
+//      de: '% verminderte Laufgeschwindigkeit',
       vi: '% Giảm tốc độ di chuyển'
     },
 
@@ -344,7 +344,7 @@ export default {
       ru: 'Снижение восст. HP',
       es: 'Reducción de cura',
       fr: 'Réduction de soin',
-      pl: 'Ograniczenie leczenia',
+//      pl: 'Ograniczenie leczenia',
       vi: 'Giảm hồi máu'
     }
   ]
