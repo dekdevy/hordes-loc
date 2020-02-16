@@ -89,6 +89,7 @@ import chat from './ui/chat.js'
 import clan from './ui/clan.js'
 import death from './ui/death.js'
 import general from './ui/general.js'
+import hiddenskills from './ui/hiddenskills.js'
 import inventory from './ui/inventory.js'
 import messages from './ui/messages.js'
 import party from './ui/party.js'
@@ -108,6 +109,7 @@ const ui = {
   death,
   tutorial,
   messages,
+  hiddenskills,
   ...general }
 
 export default {
