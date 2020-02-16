@@ -95,7 +95,7 @@ export default {
     vi: 'Bạn đã bị đá ra khỏi Bang.',
     zh: '你被公會踢出了。'
   },
-  partyMemberInvite: {
+  partyMemberInvite: { // Do not translate "party".
     en: '$1 has been invited by $2 to join your party.',
     de: '$1 wurde von $2 eingeladen deiner Party beizutreten.',
     ru: '$1 пригласил $2 вступить в вашу Party.',
@@ -107,7 +107,7 @@ export default {
     vi: '$1 đã được $2 mời gia nhập Party.',
     zh: '$2 邀請 $1 加入您的 Party。'
   },
-  partyMemberJoin: {
+  partyMemberJoin: { // Do not translate "party".
     en: '$1 has joined your party.',
     de: '$1 ist deiner Party beigetreten.',
     ru: 'Игрок $1 вступил в вашу Party.',
@@ -119,7 +119,7 @@ export default {
     vi: '$1 đã tham gia Party.',
     zh: '$1 加入了你的 Party。'
   },
-  partyMemberLeave: {
+  partyMemberLeave: { // Do not translate "party".
     en: '$1 has left your party.',
     de: '$1 hat die Party verlassen.',
     ru: 'Игрок $1 вышел из Party.',
@@ -131,7 +131,7 @@ export default {
     vi: '$1 đã rời khỏi Party.',
     zh: '$1 離開了你的 Party。'
   },
-  partyInvitationDecline: {
+  partyInvitationDecline: { // Do not translate "party".
     en: '$1 has declined to join your party.',
     de: '$1 hat abgelehnt, deiner Party beizutreten.',
     ru: 'Игрок $1 отказался вступать в вашу Party.',
@@ -143,7 +143,7 @@ export default {
     vi: '$1 đã từ chối gia nhập Party.',
     zh: '$1 拒絕參加你的 Party。'
   },
-  partyMemberPromote: {
+  partyMemberPromote: { // Do not translate "party".
     en: '$1 has been promoted in party role.',
     de: '$1 wurde in der Party befördert.',
     ru: 'Игрок $1 был повышен в должности Party.',
@@ -155,7 +155,7 @@ export default {
     vi: '$1 đã được thăng chức trong đội.',
     zh: '$1 Party 角色被提升。'
   },
-  partyMemberFound: {
+  partyMemberFound: { // Do not translate "party".
     en: 'Found $1 new party members.',
     de: '$1 neue Party-Mitglieder gefunden.',
     ru: 'Найдено 2 новых игрока для Party.',
@@ -165,7 +165,7 @@ export default {
     vi: 'Tìm thấy $1 thành viên mới trong party.',
     zh: '找到 $1 新的 Party 成員。'
   },
-  partyMemberDemote: {
+  partyMemberDemote: { // Do not translate "party".
     en: '$1 has been demoted in party role.',
     de: '$1 wurde in der Party degradiert.',
     ru: 'Игрок $1 был понижен в должности Party',
@@ -189,7 +189,7 @@ export default {
     vi: '$1 đã tạo liên kết mời tổ Party: $2.',
     zh: '$1 創建了一個 Party 邀請連結：$2。'
   },
-  partyKickYou: {
+  partyKickYou: { // Do not translate "party".
     en: 'You have been kicked from the party by $1.',
     de: 'Du wurdest von $1 aus deiner Party geworfen.',
     ru: '$1 исключил вас из Party.',
@@ -201,7 +201,7 @@ export default {
     vi: 'Bạn đã bị đá ra khỏi Party $1.',
     zh: '你被 $1 從 Party 踢了。'
   },
-  partyKickOther: {
+  partyKickOther: { // Do not translate "party".
     en: '$1 was kicked from your party by $2.',
     de: '$1 wurde von $2 aus der Party entfernt.',
     ru: '$2 исключил $1 из Party.',
@@ -213,7 +213,7 @@ export default {
     vi: '$1 đã bị đá ra khỏi Party $2.',
     zh: '$1 被 $2 踢出你的 Party。'
   },
-  partyQueueStart: {
+  partyQueueStart: { // Do not translate "party".
     en: 'Your party has started queue type: $1.',
     de: 'Party-Warteschlange gestartet: $1.',
     ru: 'Ваша Party начала тип очереди: $1.',
@@ -223,7 +223,7 @@ export default {
     vi: 'Đội của bạn bắt đầu hàng đợi kiểu: $1.',
     zh: '你的 Party 開始隊列類型：$1。'
   },
-  partyQueueStop: {
+  partyQueueStop: { // Do not translate "party".
     en: 'Your party has stopped queue type: $1.',
     de: 'Party-Warteschlange gestoppt: $1.',
     ru: 'Ваша Party остановила тип очереди: $1.',
