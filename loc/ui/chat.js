@@ -16,6 +16,7 @@ export default {
     pl: 'Szept',
     bn: 'ফিসফিসানি',
     vi: 'Thì thầm'
+    cs: 'Šepot'
   },
 
   types: [
@@ -33,6 +34,7 @@ export default {
       pl: 'Zdobywanie Doświadczenia',
       bn: 'Exp লাভ',
       vi: 'Kinh nghiệm nhận được'
+      cs: 'Získání zkušeností'
     },
     {
       en: 'Target Change',
@@ -47,6 +49,7 @@ export default {
       pl: 'Zmiana celu',
       bn: 'লক্ষ্য পরিবর্তন',
       vi: 'Mục tiêu thay đổi'
+      cs: 'Změna cíle'
     },
     {
       en: 'Cast',
@@ -61,6 +64,7 @@ export default {
       pl: 'Rzucenie czaru',
       bn: 'নিক্ষেপ',
       vi: 'Thi triển'
+      cs: 'Čarování'
     },
     {
       en: 'Damage',
@@ -76,6 +80,7 @@ export default {
       pl: 'Obrażenia',
       bn: 'ক্ষতি',
       vi: 'Sát thương'
+      cs: 'Poškození'
     },
     {
       en: 'Heal',
@@ -91,6 +96,7 @@ export default {
       pl: 'Leczenie',
       bn: 'চিকিৎসা',
       vi: 'Hồi máu'
+      cs: 'Vyléčení'
     },
     {
       en: 'Death',
@@ -106,6 +112,7 @@ export default {
       pl: 'śmierć',
       bn: 'মৃত্যু',
       vi: 'Chết'
+      cs: 'Smrt'
     },
     {
       en: 'Level Up',
@@ -120,6 +127,7 @@ export default {
       pl: 'Zdobyto poziom',
       bn: 'লেভেল আপ',
       vi: 'Lên cấp'
+      cs: 'Zvýšení úrovně'
     },
     {
       en: 'Items',
@@ -134,6 +142,7 @@ export default {
       pl: 'Przedmioty',
       bn: 'আইটেমস',
       vi: 'Vật phẩm'
+      cs: 'Předměty'
     },
     {
       en: 'Auction',
@@ -148,6 +157,7 @@ export default {
       pl: 'Aukcja',
       bn: 'নিলাম',
       vi: 'Nhà đấu giá'
+      cs: 'Předměty'
     },
     {
       en: 'Pick Gold',
@@ -162,6 +172,7 @@ export default {
       pl: 'Zbierz złoto',
       bn: 'টাকা তোলা',
       vi: 'Nhặt vàng'
+      cs: 'Zvednout zlato'
     },
     {
       en: 'Spent Gold',
@@ -176,6 +187,7 @@ export default {
       pl: 'Wydane złoto',
       bn: 'টাকা ব্যয় করা',
       vi: 'Vàng đã dùng'
+      cs: 'Utratit zlato'
     },
     {
       en: 'Fame Gain',
@@ -191,6 +203,7 @@ export default {
       pl: 'Zdobyta Sława',
       bn: 'Fame লাভ',
       vi: 'Danh vọng nhận được'
+      cs: 'Získání slávy'
     }
   ]
 }
