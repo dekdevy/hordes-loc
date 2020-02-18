@@ -19,6 +19,7 @@ export default {
       pl: 'Wybierz Postać',
       bn: 'চরিত্র বাছাই করুন',
       vi: 'Lựa chọn nhân vật'
+      cs: 'Vyber postavu'
     },
 
     create: {
@@ -38,6 +39,7 @@ export default {
       pl: 'Klijnij aby stworzyć postać',
       bn: 'চরিত্র তৈরি করতে ক্লিক করুন',
       vi: 'Nhấn để tạo nhân vật'
+      cs: 'Klikni zde pro vytvoření postavy'
     },
 
     enterWorld: {
@@ -57,6 +59,7 @@ export default {
       pl: 'Wejdź do świata',
       bn: 'প্রবেশ করুন',
       vi: 'Tiến vào Thế giới'
+      cs: 'Vstoupit do světa'
     },
 
     emptySlot: {
@@ -76,6 +79,7 @@ export default {
       pl: 'Pusty',
       bn: 'খালি',
       vi: 'Trống'
+      cs: 'Prázdný slot'
     },
 
     error: {
@@ -95,6 +99,7 @@ export default {
       pl: 'Problem z siecią',
       bn: 'নেটওয়ার্কে সমস্যা',
       vi: 'Lỗi kết nối mạng'
+      cs: 'Network Error'
     }
   },
 
@@ -117,6 +122,7 @@ export default {
       pl: 'Tworzenie Postaci',
       bn: 'চরিত্র নির্মাণ',
       vi: 'Tạo nhân vật'
+      cs: 'Vytváření postavy'
     },
 
     pressIcon: {
@@ -136,6 +142,7 @@ export default {
       pl: 'Kliknij ikonę aby wyświetlić krótki opis.',
       bn: 'সংক্ষিপ্ত বিবরণের জন্য ছবিতে ক্লিক করুন।',
       vi: 'Nhấn biểu tượng để xem mô tả ngắn gọn'
+      cs: 'Klikni na ikonu pro stručný popis.'
     },
 
     selectClass: {
@@ -155,6 +162,7 @@ export default {
       pl: 'Wybierz klasę',
       bn: 'শ্রেণী বাছাই করুন',
       vi: 'Lựa chọn Lớp nhân vật'
+      cs: 'Zvolit povolání'
     },
 
     selectFaction: {
@@ -174,6 +182,7 @@ export default {
       pl: 'Wybierz frakcję',
       bn: 'দল বাছাই করুন',
       vi: 'Lựa chọn phe phái'
+      cs: 'Zvolit frakci'
     },
 
     enterName: {
@@ -193,6 +202,7 @@ export default {
       pl: 'Wprowadź imię',
       bn: 'নাম লিখুন',
       vi: 'Nhập tên'
+      cs: 'Zadej jméno'
     },
 
     nameReq: {
@@ -211,6 +221,7 @@ export default {
       pl: 'Imię musi zawierać tylko litery a-Z oraz numery 0-9, bez spacji. Od 3 do 16 znaków.',
       bn: 'আপনার বাছাই করা নামে শুধু a-Z অক্ষর এবং 0-9 সংখ্যা ব্যবহার করা যাবে, কোনো স্পেস ছাড়া 3 থেকে 16  অক্ষরের মাঝে লিখতে হবে।',
       vi: 'Tên của bạn chỉ chứ các ký tự từ a-z, và số từ 0-9, không bao gồm khoảng trắng. Độ dài từ 3 đến 16 kí tự.'
+      cs: 'Tvoje jméno může obsahovat pouze znaky a-Z a číslice 0-9, bez meze. Jméno musí být v rozsahu 3 až 16 písmen.'
     }
   },
 
@@ -234,6 +245,7 @@ export default {
       pl: 'Usuń',
       bn: 'মুছে ফেলুন',
       vi: 'Xóa'
+      cs: 'Smazat'
     },
 
     info: {
@@ -253,6 +265,7 @@ export default {
       pl: 'Aby usunąć, wpisz imię postaci. Przywrócenie postaci nie będzie możliwe.',
       bn: 'মুছে ফেলতে, চরিত্রের নামটি টাইপ করুন। আপনার মুছে ফেলা চরিত্রটি পুনরুদ্ধার করা সম্ভব না।',
       vi: 'Để xóa, gõ tên nhân vật. Nhân vật của bạn không thể phục hồi.'
+      cs: 'Pro smazaní napiš jméno tvé postavy. Tvoje postava již nemůže být obnovena.'
     },
 
     placeholder: {
@@ -272,6 +285,7 @@ export default {
       pl: 'Na pewno?',
       bn: 'আপনি কি নিশ্চিত?',
       vi: 'Bạn có chắc chứ?'
+      cs: 'Jsi si jistý?'
     }
   }
 }
