@@ -17,5 +17,6 @@ export default {
     pl: 'Potwór',
     bn: 'দানব',
     vi: 'Quái vật'
+    cs: 'Příšera'
   }
 }
