@@ -18,6 +18,7 @@ export default {
     pl: 'Wojownik',
     bn: 'যোদ্ধা',
     vi: 'Chiến binh'
+    cs: 'Válečník'
   },
   // Class description, visible during character creation
   description: {
@@ -37,5 +38,6 @@ export default {
     pl: 'Wojownicy są stworzeni aby tankować więcej potworów niż jakakolwiek inna klasa, a to dzięki wysokiej obronie i pomocy wyposażenia (tarcze) oraz silnych buffów obronnych.',
     bn: 'যোদ্ধারা অন্য যেকোনো শ্রেণী থেকে বেশী শত্রু যখম করতে পারে তাদের সরঞ্জামের (ঢাল) ও শক্তিশালী বাফের থেকে পাওয়া উচ্চমাত্রার প্রতিরক্ষা ব্যাবস্থার ফলে।',
     vi: 'Chiến binh được xây dựng để chống chịu trước nhiều quái vật hơn các lớp nhân vật khác bởi vì có sức phòng thủ cao thông qua các trang bị (Khiên) và các buff phòng thủ mạnh mẽ'
+    cs: 'Válečníci jsou stavěni aby odolali více příšerám než ostatní povolání. Mají velice velkou obranu zkrze štít a obranné buffy.'
   }
 }
