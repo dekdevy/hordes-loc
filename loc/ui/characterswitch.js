@@ -8,7 +8,7 @@ export default {
     es: 'Cerrar Sesión',
     de: 'Abmelden',
     fr: 'Déconnexion',
-    ko: '로그 아웃',
+    ko: '로그아웃',
     tr: 'Çıkış Yap',
     nl: 'Uitloggen',
     pt: 'Terminar Sessão',
