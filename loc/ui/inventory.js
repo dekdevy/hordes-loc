@@ -162,7 +162,7 @@ export default {
     ru: 'Разделить пополам',
     fr: 'Partager en deux',
     pt: 'Dividir ao meio',
-    ko: '반으로 나누기'
+    ko: '반으로 나누기',
     hu: 'Kettéosztás',
     de: 'Stapel teilen',
     es: 'Partir a la mitad',
@@ -175,7 +175,7 @@ export default {
     ru: 'Отделить один',
     fr: 'Retirer un item',
     pt: 'Retirar um',
-    ko: '하나만 선택'
+    ko: '하나만 선택',
     hu: 'Egy elvétele',
     de: 'Aufteilen',
     es: 'Separar uno',
