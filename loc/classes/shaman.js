@@ -18,6 +18,7 @@ export default {
     pl: 'Szaman',
     bn: 'ওঝা',
     vi: 'Vu thuật sư'
+    cs: 'Šaman'
   },
 
   // Class description, visible during character creation
@@ -38,5 +39,6 @@ export default {
     pl: 'Rolą szamana jest wsparcie grupy poprzez leczenie tanka i oferowanie ofensywnych buffów lub nakładanie okaleczających debuffów.',
     bn: 'ওঝার কাজ হলো ট্যাঙ্কদের নিরাময় করার মাধ্যমে পুরো দল কে সাহায্য করা এবং আক্রমণাত্মক বাফ অথবা বিপজ্জনক ডিবাফ সরবরাহ করা।',
     vi: 'Vu thuật sư có vai trò hỗ trợ trong nhóm bằng cách hồi máu và cung cấp các Buff tấn công hoặc Debuff gây tê liệt'
+    cs: 'Šaman je podpůrná role, která poskytuje skupině léčení, převážně Tankovi. Zároveň poskytuje ofenzivní Buffy či zpomalovací Debuffy.'
   }
 }
