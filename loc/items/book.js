@@ -29,10 +29,10 @@ export default [{
   }
 },
 {
-  name: {$$: 'Ice bolt'},
+  name: {$$: 'Ice Bolt'},
 
   description: {
-    en: 'Fires a missile of frost towards your enemy. Reduces the cooldown of Icicle Orb by 0.5 seconds. Freezes targets for up to 4 stacks, at which they will be stunned and take 50% increased damage.'
+    en: 'Fires a missile of frost towards your enemy. Reduces the cooldown of Icicle Orb by 0.5 seconds. Freezes targets for up to 4 stacks, at which they will be stunned and take 50% increased damage. Gains one instant cast every 5 seconds.'
   }
 },
 {
