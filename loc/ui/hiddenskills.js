@@ -15,5 +15,8 @@ export default {
   },
   104: {
     name: {$$: 'Returning Soul'}
+  },
+  105: {
+    name: {$$: 'Use Trinket'}
   }
 }
