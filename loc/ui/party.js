@@ -29,7 +29,7 @@ export default {
     pt: 'Expulsar da Party',
     es: 'Expulsar de la Party',
     de: 'Aus Party werfen',
-    fr: 'Virer de la Party',
+    fr: 'Expulser de la Party',
     nl: 'Paty Uitgooien',
     tr: 'Party\'den at',
     hi: 'Party से निकाले',
@@ -159,7 +159,7 @@ export default {
     ru: 'Призвать',
     pt: 'Invokar',
     es: 'Invocar',
-    fr: 'Convoquer',
+    fr: 'Invoquer',
     hu: 'Idézés',
     de: 'Beschwören',
     pl: 'Przyzwij',
@@ -227,6 +227,7 @@ export default {
     de: 'Warteschlange',
     hu: 'Jelentkezés',
     tr: 'Sıraya Gir',
+    fr: 'Rejoindre la file',
     es: 'Entrar a la Cola',
     pl: 'Kolejkuj',
     vi: 'Hàng đợi'
@@ -238,6 +239,7 @@ export default {
     de: 'Warteschlange verlassen',
     hu: 'Várólista elhagyása',
     tr: 'Sıradan Çık',
+    fr: 'Quitter la file',
     es: 'Salir de la Cola',
     pl: 'Opuść kolejkowanie',
     vi: 'Rời hàng đợi'
