@@ -43,7 +43,7 @@ export default {
     enterWorld: {
       en: 'Enter World',
       ru: 'Войти в мир',
-      fr: 'Entrer le Monde',
+      fr: 'Entrer dans le Monde',
       hi: 'प्रवेश करे',
       es: 'Entrar al Mundo',
       de: 'Welt betreten',
