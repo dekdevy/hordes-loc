@@ -51,7 +51,7 @@ export default {
     de: 'In Stash verschieben',
     ru: 'Положить в Stash',
     pt: 'Mover para o baú',
-    fr: 'Aller dans la Stash',
+    fr: 'Mettre dans la Stash',
     es: 'Mover al Stash',
     nl: 'Verhuizen naar Stash',
     ko: '은신처로 이동하십시오',
