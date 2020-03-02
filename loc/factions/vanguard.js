@@ -21,7 +21,7 @@ export default {
     hu: 'A Vanguard hordái a rendet és a szervezettséget kívánják megvalósítani, és erősen tisztelik a hagyományt. A büszke kastélyuk Guardstone buja zöld erdelyében húzódik meg.',
     pl: 'Horda Vanguard poszukuje tradycji, struktury i porządku w społeczeństwie. Ich zamek znajduje się na zielonych włościach wokół Guardstone.',
     bn: 'Vanguard সৈন্যদল সমাজে ঐতিহ্য, কাঠামো এবং শৃঙ্খলা তালাশ করে। তাদের দুর্গ Guardstone এর চারপাশে একটি ঘন সবুজ অঞ্চলে পাওয়া যেতে পারে।',
-    vi: 'Bộ lạc Vanguard tìm kiếm sự truyền thống, cấu trúc và trật tự trong xã hội. Lâu đài của họ có thể được tìm thấy trên một vùng xanh tươi tại Guardstone.'
+    vi: 'Bộ lạc Vanguard tìm kiếm sự truyền thống, cấu trúc và trật tự trong xã hội. Lâu đài của họ có thể được tìm thấy trên một vùng xanh tươi tại Guardstone.',
     cs: 'Vanguard je horda, která lpí na tradicích,struktuře a pořádku ve společnosti. Jejich hrad můžeme najít v bujných zelených lokacích kolem Guardstone.'
   }
 }
