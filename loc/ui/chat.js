@@ -15,7 +15,7 @@ export default {
     zh: '耳語',
     pl: 'Szept',
     bn: 'ফিসফিসানি',
-    vi: 'Thì thầm'
+    vi: 'Thì thầm',
     cs: 'Šepot'
   },
 
