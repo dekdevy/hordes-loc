@@ -134,7 +134,7 @@ export default [
       ro: 'Cioburi stranii minate din munți au fost întărite de mistici și transformate în amulete pentru a oferi protecție și a provoca frică.',
       tr: 'Dağlardan kazılarak çıkarılmış bu garip parçalar, koruma sağlaması ve düşmanlara korku vermesi amacıyla ruhların sadık inananları tarafından efsunlanmış ve muskalar hâline getirilmiş.',
       hu: 'A bányák mélyéről felhozott kristályok hamar a misztikusok munkapadjaira kerültek. Ők, akik felismerték a bennük tomboló erőt, fáradtságos munkával amulettekké formálták ezeket a szilánkokat.',
-      vi: 'Những mảnh vỡ kỳ lạ được khai thác từ các ngọn núi đã được những người huyền bí tăng cường và tạo thành bùa hộ mệnh để bảo vệ và gây ra nỗi sợ hãi.'
+      vi: 'Những mảnh vỡ kỳ lạ được khai thác từ các ngọn núi đã được những người huyền bí tăng cường và tạo thành bùa hộ mệnh để bảo vệ và gây ra nỗi sợ hãi.',
       cs: 'Tyto záhadné úlomeky z hor byly očarovány mystiky a vyformovány do amuletu aby poskytoval ochranu a způsoboval strach.'
     }
   },
