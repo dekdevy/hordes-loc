@@ -15,7 +15,8 @@ export default {
     zh: '耳語',
     pl: 'Szept',
     bn: 'ফিসফিসানি',
-    vi: 'Thì thầm'
+    vi: 'Thì thầm',
+    cs: 'Šepot'
   },
 
   types: [
@@ -32,7 +33,8 @@ export default {
       zh: 'Exp 獲得',
       pl: 'Zdobywanie Doświadczenia',
       bn: 'Exp লাভ',
-      vi: 'Kinh nghiệm nhận được'
+      vi: 'Kinh nghiệm nhận được',
+      cs: 'Získání zkušeností'
     },
     {
       en: 'Target Change',
@@ -46,7 +48,8 @@ export default {
       zh: '目標變更',
       pl: 'Zmiana celu',
       bn: 'লক্ষ্য পরিবর্তন',
-      vi: 'Mục tiêu thay đổi'
+      vi: 'Mục tiêu thay đổi',
+      cs: 'Změna cíle'
     },
     {
       en: 'Cast',
@@ -60,7 +63,8 @@ export default {
       zh: '施法',
       pl: 'Rzucenie czaru',
       bn: 'নিক্ষেপ',
-      vi: 'Thi triển'
+      vi: 'Thi triển',
+      cs: 'Čarování'
     },
     {
       en: 'Damage',
@@ -75,7 +79,8 @@ export default {
       zh: '傷害',
       pl: 'Obrażenia',
       bn: 'ক্ষতি',
-      vi: 'Sát thương'
+      vi: 'Sát thương',
+      cs: 'Poškození'
     },
     {
       en: 'Heal',
@@ -90,7 +95,8 @@ export default {
       zh: '補血',
       pl: 'Leczenie',
       bn: 'চিকিৎসা',
-      vi: 'Hồi máu'
+      vi: 'Hồi máu',
+      cs: 'Vyléčení'
     },
     {
       en: 'Death',
@@ -105,7 +111,8 @@ export default {
       zh: '死亡',
       pl: 'śmierć',
       bn: 'মৃত্যু',
-      vi: 'Chết'
+      vi: 'Chết',
+      cs: 'Smrt'
     },
     {
       en: 'Level Up',
@@ -119,7 +126,8 @@ export default {
       zh: '升等',
       pl: 'Zdobyto poziom',
       bn: 'লেভেল আপ',
-      vi: 'Lên cấp'
+      vi: 'Lên cấp',
+      cs: 'Zvýšení úrovně'
     },
     {
       en: 'Items',
@@ -133,7 +141,8 @@ export default {
       zh: '升等',
       pl: 'Przedmioty',
       bn: 'আইটেমস',
-      vi: 'Vật phẩm'
+      vi: 'Vật phẩm',
+      cs: 'Předměty'
     },
     {
       en: 'Auction',
@@ -147,7 +156,8 @@ export default {
       zh: '拍賣',
       pl: 'Aukcja',
       bn: 'নিলাম',
-      vi: 'Nhà đấu giá'
+      vi: 'Nhà đấu giá',
+      cs: 'Předměty'
     },
     {
       en: 'Pick Gold',
@@ -161,7 +171,8 @@ export default {
       zh: '採金',
       pl: 'Zbierz złoto',
       bn: 'টাকা তোলা',
-      vi: 'Nhặt vàng'
+      vi: 'Nhặt vàng',
+      cs: 'Zvednout zlato'
     },
     {
       en: 'Spent Gold',
@@ -175,7 +186,8 @@ export default {
       zh: '花金',
       pl: 'Wydane złoto',
       bn: 'টাকা ব্যয় করা',
-      vi: 'Vàng đã dùng'
+      vi: 'Vàng đã dùng',
+      cs: 'Utratit zlato'
     },
     {
       en: 'Fame Gain',
@@ -190,7 +202,8 @@ export default {
       zh: '獲得聲譽',
       pl: 'Zdobyta Sława',
       bn: 'Fame লাভ',
-      vi: 'Danh vọng nhận được'
+      vi: 'Danh vọng nhận được',
+      cs: 'Získání slávy'
     }
   ]
 }

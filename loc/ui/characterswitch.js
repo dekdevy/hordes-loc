@@ -18,7 +18,8 @@ export default {
     zh: '登出',
     hu: 'Kijelentkezés',
     bn: 'লগ আউট',
-    vi: 'Đăng xuất'
+    vi: 'Đăng xuất',
+    cs: 'Odhlásit se'
   },
 
   home: {
@@ -38,6 +39,7 @@ export default {
     hu: 'Főoldal',
     pl: 'Start',
     bn: 'মূল স্ক্রীন',
-    vi: 'Trang chủ'
+    vi: 'Trang chủ',
+    cs: 'Domů'
   }
 }
