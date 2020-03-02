@@ -21,7 +21,7 @@ export default {
     hu: 'A Bloodlust hordái a szabadságra és a hűségre esküdtek fel. A táboraik mindig szabad helyet adnak az egyéni akaratnak, a becsvágynak, ami gyakran káoszba torkollik. A védelmi állásaikat a Headless Landing sivatagában verték fel.',
     pl: 'Horda Bloodlust ceni sobie wolność i lojalność oferując miejsce dla indywidualizmu, a nawet chaosu. Ich defensywy znajdują się w pustynnej krainie Headless Landing.',
     bn: ' Bloodlust স্বাধীনতা এবং আনুগত্যকে মূল্য দেয়, ব্যক্তিবাদ বা এমনকি নৈরাজ্যবাদীদের জন্যও তারা স্থান প্রস্তাব করে। তাদের মূল ঘাটি মরুভূমির মাঝে Headless Landing নামক স্থানে অবস্থিত।',
-    vi: 'Bộ lạc Bloodlust coi trọng sự tự do và lòng trung thành, tôn sùng chủ nghĩa cá nhân hoặc thậm chí hỗn loạn. Tuyến phòng thủ của họ nằm trong một vùng sa mạc gọi là Headless Landing',
+    vi: 'Bộ lạc Bloodlust coi trọng sự tự do và lòng trung thành, tôn sùng chủ nghĩa cá nhân hoặc thậm chí hỗn loạn. Tuyến phòng thủ của họ nằm trong một vùng sa mạc gọi là Headless Landing.',
     cs: 'Bloodlust je horda, která si váží svobody a loajality. Nabízí místo pro individualismus nebo chaos. Jejich obrana je umístěná v písečném podnebí zvaném Headless Landing.'
   }
 }
