@@ -19,7 +19,7 @@ export default {
     bn: 'যাদুকর',
     vi: 'Pháp sư',
     cs: 'Mág'
-    rs: 'Čarobnjak'
+    sr: 'Čarobnjak'
   },
 
   // Class description, visible during character creation
@@ -41,5 +41,6 @@ export default {
     bn: 'যাদুকরেরা বড় মাপের এলাকায় ক্ষতিসাধন করতে পারে, একইসাথে তারা তাদের শত্রুদের বরফপূর্ণ যাদু দ্বারা ধীরগতিসম্পন্ন করতে পারে।',
     vi: 'Pháp sư gây sát thương trên một vùng rộng lớn, đồng thời cũng rất hữu dụng thông qua việc gây làm chậm các mục tiêu bằng các phép thuật băng của họ.',
     cs: 'Mágové dávají velké AoE poškození mezitím co nabízí zpomalení nepřátel s jejich ledovou magií.'
+    sr: 'Čarobnjaci nanose veliku štetu u velikoj meri u svom području dejstva, i istovremeno pružajući korist usporavajući mete svojom magijom koja se zasniva na ledu.'
   }
 }
