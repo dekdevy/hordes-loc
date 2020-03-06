@@ -18,5 +18,6 @@ export default {
     bn: 'দানব',
     vi: 'Quái vật',
     cs: 'Příšera'
+    sr: 'Čudovište'
   }
 }
