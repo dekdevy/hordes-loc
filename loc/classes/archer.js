@@ -19,7 +19,7 @@ export default {
     bn: 'ধনু',
     vi: 'Cung thủ',
     cs: 'Lučišník'
-    sr: 'Strelac',
+    sr-Latn: 'Strelac',
   },
 
   // Class description, visible during character creation
