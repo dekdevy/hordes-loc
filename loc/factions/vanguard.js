@@ -23,6 +23,6 @@ export default {
     bn: 'Vanguard সৈন্যদল সমাজে ঐতিহ্য, কাঠামো এবং শৃঙ্খলা তালাশ করে। তাদের দুর্গ Guardstone এর চারপাশে একটি ঘন সবুজ অঞ্চলে পাওয়া যেতে পারে।',
     vi: 'Bộ lạc Vanguard tìm kiếm sự truyền thống, cấu trúc và trật tự trong xã hội. Lâu đài của họ có thể được tìm thấy trên một vùng xanh tươi tại Guardstone.',
     cs: 'Vanguard je horda, která lpí na tradicích,struktuře a pořádku ve společnosti. Jejich hrad můžeme najít v bujných zelených lokacích kolem Guardstone.'
-    sr-Latn: 'Vanguard je horda koja zahteva tradiciju, strukturu i red u društvu. Njihov zamak se može pronaći u bujno zelenoj oblasti u blizini Guardstone-a.',
+    srLatn: 'Vanguard je horda koja zahteva tradiciju, strukturu i red u društvu. Njihov zamak se može pronaći u bujno zelenoj oblasti u blizini Guardstone-a.',
   }
 }
