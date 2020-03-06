@@ -19,6 +19,7 @@ export default {
     bn: 'যাদুকর',
     vi: 'Pháp sư',
     cs: 'Mág'
+    rs: 'Čarobnjak'
   },
 
   // Class description, visible during character creation
