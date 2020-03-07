@@ -181,7 +181,7 @@ export default {
       pl: 'Zbierz złoto',
       bn: 'টাকা তোলা',
       vi: 'Nhặt vàng',
-      cs: 'Zvednout zlato'
+      cs: 'Zvednout zlato',
       sr: 'Pokupi zlato'
     },
     {
@@ -197,7 +197,7 @@ export default {
       pl: 'Wydane złoto',
       bn: 'টাকা ব্যয় করা',
       vi: 'Vàng đã dùng',
-      cs: 'Utratit zlato'
+      cs: 'Utratit zlato',
       sr: 'Potrošeno zlato'
     },
     {
