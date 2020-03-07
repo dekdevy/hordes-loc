@@ -84,7 +84,6 @@ export default {
       vi: 'Trống',
       cs: 'Prázdný slot',
       sr: 'Prazno'
-      
     },
 
     error: {
