@@ -59,7 +59,7 @@ export default {
     zh: '离开 Party',
     hu: 'Party Elhagyása',
     pl: 'Opuść Party',
-    vi: 'Rời khỏi Party'
+    vi: 'Rời khỏi Party',
     sr: 'Napusti party'
   },
 
