@@ -36,7 +36,7 @@ export default {
     hu: 'Klán',
     pl: 'Klan',
     bn: 'ক্ল্যান',
-    vi: 'Bang'
+    vi: 'Bang',
     sr: 'Klan'
   },
 
@@ -117,7 +117,7 @@ export default {
     pl: 'Stwórz',
     bn: 'তৈরি করুন',
     vi: 'Tạo',
-    sr: 'Kreiraj',
+    sr: 'Kreiraj'
   },
 
   roles: [
