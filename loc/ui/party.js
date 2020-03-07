@@ -19,7 +19,8 @@ export default {
     zh: '邀请加入 Party',
     hu: 'Party meghívás',
     pl: 'Zaproszenie do party',
-    vi: 'Lời mời Party'
+    vi: 'Lời mời Party',
+    sr: 'Pozivnica za party'
   },
 
   // DO NOT translate "Party"
@@ -39,6 +40,7 @@ export default {
     hu: 'Kirúgás a Partydból',
     pl: 'Wyrzucenie z Party',
     vi: 'Đá ra khỏi Party'
+    sr: 'Kick iz party-ja'
   },
 
   // DO NOT translate "Party"
@@ -58,6 +60,7 @@ export default {
     hu: 'Party Elhagyása',
     pl: 'Opuść Party',
     vi: 'Rời khỏi Party'
+    sr: 'Napusti party'
   },
 
   // DO NOT translate "Party"
@@ -76,7 +79,8 @@ export default {
     zh: '创建 Party',
     hu: 'Party Alapítása',
     pl: 'Stwórz Party',
-    vi: 'Tạo Party'
+    vi: 'Tạo Party',
+    sr: 'Kreiraj party'
   },
 
   // DO NOT translate "Party"
@@ -95,7 +99,8 @@ export default {
     zh: '$1 邀请你加入他们的 Party.',
     hu: '$1 meghívott a Partyjába.',
     pl: '$1 zaprosił cię do Party.',
-    vi: '$1 đã mời bạn vào Party của họ'
+    vi: '$1 đã mời bạn vào Party của họ',
+    sr: '$1 te je pozvao da se pridružiš njihovom party-ju.'
   },
 
   link: {
@@ -112,7 +117,8 @@ export default {
     ro: 'Link-ul invitației',
     hu: 'Partymeghívó link',
     pl: 'Link do zaproszenia',
-    vi: 'Liên kết mời'
+    vi: 'Liên kết mời',
+    sr: 'Pozivnica'
   },
 
   // DO NOT translate "Party"
