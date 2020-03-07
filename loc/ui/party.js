@@ -39,7 +39,7 @@ export default {
     zh: '踢出 Party',
     hu: 'Kirúgás a Partydból',
     pl: 'Wyrzucenie z Party',
-    vi: 'Đá ra khỏi Party'
+    vi: 'Đá ra khỏi Party',
     sr: 'Izbacivanje iz party-ja'
   },
 
