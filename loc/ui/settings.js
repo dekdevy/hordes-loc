@@ -477,7 +477,7 @@ export default {
     hu: 'Stash magasság',
     de: 'Stash-Höhe',
     pl: 'Wysokość Stash',
-    vi: 'Độ rộng Stash', 
+    vi: 'Độ rộng Stash',
     sr: 'Visina Stash-a'
   },
 
