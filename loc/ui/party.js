@@ -231,7 +231,7 @@ export default {
     fr: 'Rétrograder Assistant',
     pl: 'Degraduj na Assistant',
     vi: 'Giáng chức xuống Assitant',
-    sr: 'Unazadi Assistant-a' 
+    sr: 'Unazadi Assistant-a'
   },
 
   startQueue: {
