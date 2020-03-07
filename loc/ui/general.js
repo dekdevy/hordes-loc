@@ -16,7 +16,8 @@ export default {
     hu: 'Rendben',
     pl: 'OK',
     bn: 'ঠিক আছে',
-    vi: 'Đồng ý'
+    vi: 'Đồng ý',
+    sr: 'Okej'
   },
 
   back: {
@@ -35,7 +36,8 @@ export default {
     hu: 'Vissza',
     pl: 'Cofnij',
     bn: 'আগে',
-    vi: 'Trở về'
+    vi: 'Trở về',
+    sr: 'Nazad'
   },
 
   accept: {
@@ -54,7 +56,8 @@ export default {
     hu: 'Elfogadás',
     pl: 'Akceptuj',
     bn: 'গ্রায্য',
-    vi: 'Chấp nhận'
+    vi: 'Chấp nhận',
+    sr: 'Prihvati'
   },
 
   cancel: {
@@ -73,7 +76,8 @@ export default {
     hu: 'Mégsem',
     pl: 'Anuluj',
     bn: 'বাতিল',
-    vi: 'Hủy bỏ'
+    vi: 'Hủy bỏ',
+    sr: 'Otkaži'
   },
 
   decline: {
@@ -92,7 +96,8 @@ export default {
     hu: 'Elutasítás',
     pl: 'Anuluj',
     bn: 'অগ্রায্য',
-    vi: 'Từ chối'
+    vi: 'Từ chối',
+    sr: 'Odbij'
   },
 
   close: {
@@ -111,6 +116,7 @@ export default {
     hu: 'Bezárás',
     pl: 'Zamknij',
     bn: 'বন্ধ',
-    vi: 'Đóng'
+    vi: 'Đóng',
+    sr: 'Zatvori'
   }
 }
