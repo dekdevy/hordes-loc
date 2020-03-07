@@ -41,7 +41,7 @@ export default {
     pl: 'Start',
     bn: 'মূল স্ক্রীন',
     vi: 'Trang chủ',
-    cs: 'Domů'
+    cs: 'Domů',
     sr: 'Početna'
   }
 }
