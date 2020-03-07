@@ -52,7 +52,7 @@ export default {
       bn: 'লক্ষ্য পরিবর্তন',
       vi: 'Mục tiêu thay đổi',
       cs: 'Změna cíle',
-      sr: 'Promena mete' 
+      sr: 'Promena mete'
     },
     {
       en: 'Cast',
