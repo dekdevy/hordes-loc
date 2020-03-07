@@ -288,7 +288,7 @@ export default {
     es: 'Partículas',
     zh: '粒子',
     pl: 'Cząsteczki',
-    vi: 'Hạt chi tiết',
+    vi: 'Hạt chi tiết'
   },
 
   detailprops: {
