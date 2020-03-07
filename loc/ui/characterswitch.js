@@ -19,7 +19,8 @@ export default {
     hu: 'Kijelentkezés',
     bn: 'লগ আউট',
     vi: 'Đăng xuất',
-    cs: 'Odhlásit se'
+    cs: 'Odhlásit se',
+    sr: 'Odjavi se'
   },
 
   home: {
@@ -40,6 +41,7 @@ export default {
     pl: 'Start',
     bn: 'মূল স্ক্রীন',
     vi: 'Trang chủ',
-    cs: 'Domů'
+    cs: 'Domů',
+    sr: 'Početna'
   }
 }

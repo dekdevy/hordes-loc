@@ -16,7 +16,8 @@ export default {
     pl: 'Szept',
     bn: 'ফিসফিসানি',
     vi: 'Thì thầm',
-    cs: 'Šepot'
+    cs: 'Šepot',
+    sr: 'Šapući'
   },
 
   types: [
@@ -34,7 +35,8 @@ export default {
       pl: 'Zdobywanie Doświadczenia',
       bn: 'Exp লাভ',
       vi: 'Kinh nghiệm nhận được',
-      cs: 'Získání zkušeností'
+      cs: 'Získání zkušeností',
+      sr: 'EXP Dobitak'
     },
     {
       en: 'Target Change',
@@ -49,7 +51,8 @@ export default {
       pl: 'Zmiana celu',
       bn: 'লক্ষ্য পরিবর্তন',
       vi: 'Mục tiêu thay đổi',
-      cs: 'Změna cíle'
+      cs: 'Změna cíle',
+      sr: 'Promena mete'
     },
     {
       en: 'Cast',
@@ -80,7 +83,8 @@ export default {
       pl: 'Obrażenia',
       bn: 'ক্ষতি',
       vi: 'Sát thương',
-      cs: 'Poškození'
+      cs: 'Poškození',
+      sr: 'Šteta'
     },
     {
       en: 'Heal',
@@ -96,7 +100,8 @@ export default {
       pl: 'Leczenie',
       bn: 'চিকিৎসা',
       vi: 'Hồi máu',
-      cs: 'Vyléčení'
+      cs: 'Vyléčení',
+      sr: 'Heal'
     },
     {
       en: 'Death',
@@ -112,7 +117,8 @@ export default {
       pl: 'śmierć',
       bn: 'মৃত্যু',
       vi: 'Chết',
-      cs: 'Smrt'
+      cs: 'Smrt',
+      sr: 'Smrt'
     },
     {
       en: 'Level Up',
@@ -127,7 +133,8 @@ export default {
       pl: 'Zdobyto poziom',
       bn: 'লেভেল আপ',
       vi: 'Lên cấp',
-      cs: 'Zvýšení úrovně'
+      cs: 'Zvýšení úrovně',
+      sr: 'Novi nivo'
     },
     {
       en: 'Items',
@@ -142,7 +149,8 @@ export default {
       pl: 'Przedmioty',
       bn: 'আইটেমস',
       vi: 'Vật phẩm',
-      cs: 'Předměty'
+      cs: 'Předměty',
+      sr: 'Predmeti'
     },
     {
       en: 'Auction',
@@ -157,7 +165,8 @@ export default {
       pl: 'Aukcja',
       bn: 'নিলাম',
       vi: 'Nhà đấu giá',
-      cs: 'Předměty'
+      cs: 'Předměty',
+      sr: 'Aukcija'
     },
     {
       en: 'Pick Gold',
@@ -172,7 +181,8 @@ export default {
       pl: 'Zbierz złoto',
       bn: 'টাকা তোলা',
       vi: 'Nhặt vàng',
-      cs: 'Zvednout zlato'
+      cs: 'Zvednout zlato',
+      sr: 'Pokupi zlato'
     },
     {
       en: 'Spent Gold',
@@ -187,7 +197,8 @@ export default {
       pl: 'Wydane złoto',
       bn: 'টাকা ব্যয় করা',
       vi: 'Vàng đã dùng',
-      cs: 'Utratit zlato'
+      cs: 'Utratit zlato',
+      sr: 'Potrošeno zlato'
     },
     {
       en: 'Fame Gain',

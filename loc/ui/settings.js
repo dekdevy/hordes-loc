@@ -15,7 +15,8 @@ export default {
     zh: '设置',
     hu: 'Beállítások',
     pl: 'Ustawienia',
-    vi: 'Cài đặt'
+    vi: 'Cài đặt',
+    sr: 'Podešavanja'
   },
 
   // ---- Controls
@@ -34,7 +35,8 @@ export default {
     zh: '控制',
     hu: 'Irányítás',
     pl: 'Sterowanie',
-    vi: 'Điều khiển'
+    vi: 'Điều khiển',
+    sr: 'Kontrole'
   },
 
   keybindings: {
@@ -57,7 +59,8 @@ export default {
     de: 'Kamera',
     fr: 'Caméra',
     ru: 'Камера',
-    pl: 'Kamera'
+    pl: 'Kamera',
+    sr: 'Kamera'
   },
 
   mousesensitivity: {
@@ -67,7 +70,8 @@ export default {
     fr: 'Sensibilité',
     ru: 'Чувствительность',
     pl: 'Czułość',
-    vi: 'Độ nhạy chuột'
+    vi: 'Độ nhạy chuột',
+    sr: 'Senzitivnost'
   },
 
   invertmousex: {
@@ -77,7 +81,8 @@ export default {
     fr: 'Inverser horizontalement',
     ru: 'Инвертировать горизонтально',
     pl: 'Inwersja pozioma',
-    vi: 'Đảo ngược theo chiều ngang'
+    vi: 'Đảo ngược theo chiều ngang',
+    sr: 'Obrni horizontalno'
   },
 
   invertmousey: {
@@ -87,7 +92,8 @@ export default {
     fr: 'Inverser verticalement',
     ru: 'Инвертировать вертикально',
     pl: 'Inwersja pionowa',
-    vi: 'Đảo ngược theo chiều dọc'
+    vi: 'Đảo ngược theo chiều dọc',
+    sr: 'Obrni vertikalno'
   },
 
   pointerlock: {
@@ -101,7 +107,8 @@ export default {
     es: 'Ocultar el puntero durante la rotación',
     zh: '旋轉中隱藏滑鼠',
     pl: 'Schowaj myszkę podczas obrotu',
-    vi: 'Ẩn chuột khi xoay'
+    vi: 'Ẩn chuột khi xoay',
+    sr: 'Sakrij miš tokom rotacije'
   },
 
   lockedcamera: {
@@ -119,7 +126,8 @@ export default {
     zh: '锁定相机',
     hu: 'Lezárt kamera',
     pl: 'Zablokowana kamera',
-    vi: 'Khóa Camera'
+    vi: 'Khóa Camera',
+    sr: 'Fiksna kamera'
   },
 
   // ---- Graphics
@@ -138,7 +146,8 @@ export default {
     zh: '图像',
     hu: 'Grafika',
     pl: 'Grafika',
-    vi: 'Đồ họa'
+    vi: 'Đồ họa',
+    sr: 'Grafika'
   },
 
   viewrange: {
@@ -174,7 +183,8 @@ export default {
     zh: '解析度',
     hu: 'Felbontás',
     pl: 'Rozdzielczość',
-    vi: 'Độ phân giải'
+    vi: 'Độ phân giải',
+    sr: 'Rezolucija'
   },
 
   postprocessing: {
@@ -220,7 +230,8 @@ export default {
     zh: '影子',
     es: 'Sombras',
     pl: 'Cienie',
-    vi: 'Đổ bóng'
+    vi: 'Đổ bóng',
+    sr: 'Senke'
   },
 
   ssao: {
@@ -247,7 +258,8 @@ export default {
     es: 'Hierba',
     zh: '草',
     pl: 'Trawa',
-    vi: 'Cây cỏ'
+    vi: 'Cây cỏ',
+    sr: 'Trava'
   },
 
   clouds: {
@@ -261,7 +273,8 @@ export default {
     es: 'Nubes',
     zh: '云',
     pl: 'Chmury',
-    vi: 'Mây'
+    vi: 'Mây',
+    sr: 'Oblaci'
   },
 
   particles: {
@@ -307,7 +320,8 @@ export default {
     zh: '音频',
     hu: 'Hang',
     pl: 'Audio',
-    vi: 'Âm thanh'
+    vi: 'Âm thanh',
+    sr: 'Zvuk'
   },
 
   sfxvolume: {
@@ -324,7 +338,8 @@ export default {
     ko: 'SFX 볼륨',
     hu: 'SFX-hangerő ',
     pl: 'Poziom dźwięków',
-    vi: 'Âm lượng SFX'
+    vi: 'Âm lượng SFX',
+    sr: 'SFX glasnoća'
   },
   musicvolume: {
     en: 'Music Volume',
@@ -333,7 +348,8 @@ export default {
     fr: 'Volume des Musiques',
     es: 'Volumen de la música',
     pl: 'Poziom muzyki',
-    vi: 'Âm lượng nhạc'
+    vi: 'Âm lượng nhạc',
+    sr: 'Glasnoća muzike'
   },
   // ---- Chat
   chat: {
@@ -351,7 +367,8 @@ export default {
     hu: 'Cset',
     zh: '聊天室',
     pl: 'Czat',
-    vi: 'Chat'
+    vi: 'Chat',
+    sr: 'Chat'
   },
 
   chatbubbles: {
@@ -365,7 +382,8 @@ export default {
     zh: '顯示聊天氣泡',
     es: 'Mostrar burbujas de chat',
     pl: 'Chmurki czatu',
-    vi: 'Hiển thị bong bóng chat'
+    vi: 'Hiển thị bong bóng chat',
+    sr: 'Prikazuj chat bubbles-e'
   },
 
   combatlog: {
@@ -397,7 +415,8 @@ export default {
     hu: 'Felület',
     zh: '界面',
     pl: 'Interfejs',
-    vi: 'Giao diện'
+    vi: 'Giao diện',
+    sr: 'Interfejs'
   },
 
   language: {
@@ -415,7 +434,8 @@ export default {
     hu: 'Nyelv',
     zh: '語言',
     pl: 'Język',
-    vi: 'Ngôn ngữ'
+    vi: 'Ngôn ngữ',
+    sr: 'Jezik'
   },
 
   invwidth: {
@@ -431,7 +451,8 @@ export default {
     ko: '인벤토리 너비',
     hu: 'Hátizsák szélesség',
     pl: 'Szerokość ekwipunku',
-    vi: 'Độ dài hành trang'
+    vi: 'Độ dài hành trang',
+    sr: 'Širina inventara'
   },
 
   // Do NOT translate "Stash"
@@ -443,7 +464,8 @@ export default {
     hu: 'Stash szélesség',
     de: 'Stash-Breite',
     pl: 'Szerokość Stash',
-    vi: 'Độ dài Stash'
+    vi: 'Độ dài Stash',
+    sr: 'Širina Stash-a'
   },
 
   // Do NOT translate "Stash"
@@ -455,7 +477,8 @@ export default {
     hu: 'Stash magasság',
     de: 'Stash-Höhe',
     pl: 'Wysokość Stash',
-    vi: 'Độ rộng Stash'
+    vi: 'Độ rộng Stash',
+    sr: 'Visina Stash-a'
   },
 
   tutorial: {
@@ -473,7 +496,8 @@ export default {
     hu: 'Bemutató',
     zh: '講解',
     pl: 'Samouczek',
-    vi: 'Hướng dẫn'
+    vi: 'Hướng dẫn',
+    sr: 'Tutorijal'
   },
 
   resettutorial: {
@@ -491,7 +515,8 @@ export default {
     hu: 'Bemutató újrakezdése',
     zh: '重置講解',
     pl: 'Zresetuj samouczek',
-    vi: 'Cài đặt lại hướng dẫn'
+    vi: 'Cài đặt lại hướng dẫn',
+    sr: 'Resetuj tutorijal'
   },
 
   disabletutorial: {
@@ -506,7 +531,8 @@ export default {
     es: 'Deshabilitar el tutorial',
     zh: '禁用講解',
     pl: 'Wyłącz samouczek',
-    vi: 'Vô hiệu hóa hướng dẫn'
+    vi: 'Vô hiệu hóa hướng dẫn',
+    sr: 'Isključi tutorijal'
   },
 
   // ---- map
@@ -521,7 +547,8 @@ export default {
     es: 'Modo de baja calidad',
     zh: '低畫質模式',
     pl: 'Niska jakość',
-    vi: 'Chế độ chất lượng thấp'
+    vi: 'Chế độ chất lượng thấp',
+    sr: 'Mod lošijeg kvaliteta'
   },
 
   mapshowmonsters: {
@@ -535,6 +562,7 @@ export default {
     zh: '顯示怪物',
     de: 'Monster sichtbar',
     pl: 'Widoczność potworów',
-    vi: 'Hiển thị quái vật'
+    vi: 'Hiển thị quái vật',
+    sr: 'Prikazuj čudovišta'
   }
 }

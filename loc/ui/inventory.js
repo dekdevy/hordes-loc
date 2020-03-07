@@ -15,7 +15,8 @@ export default {
     zh: '库存',
     hu: 'Hátizsák',
     pl: 'Ekwipunek',
-    vi: 'Hành trang'
+    vi: 'Hành trang',
+    sr: 'Inventar'
   },
 
   pick: {
@@ -32,7 +33,8 @@ export default {
     zh: '你捡到了$1。',
     hu: 'Fölvetted: $1',
     pl: 'Podniesiono $1.',
-    vi: 'Bạn nhặt được $1.'
+    vi: 'Bạn nhặt được $1.',
+    sr: 'Pokupio si $1.'
   },
 
   throw: {

@@ -19,7 +19,8 @@ export default {
     zh: '邀请加入 Party',
     hu: 'Party meghívás',
     pl: 'Zaproszenie do party',
-    vi: 'Lời mời Party'
+    vi: 'Lời mời Party',
+    sr: 'Pozivnica za party'
   },
 
   // DO NOT translate "Party"
@@ -38,7 +39,8 @@ export default {
     zh: '踢出 Party',
     hu: 'Kirúgás a Partydból',
     pl: 'Wyrzucenie z Party',
-    vi: 'Đá ra khỏi Party'
+    vi: 'Đá ra khỏi Party',
+    sr: 'Izbacivanje iz party-ja'
   },
 
   // DO NOT translate "Party"
@@ -57,7 +59,8 @@ export default {
     zh: '离开 Party',
     hu: 'Party Elhagyása',
     pl: 'Opuść Party',
-    vi: 'Rời khỏi Party'
+    vi: 'Rời khỏi Party',
+    sr: 'Napusti party'
   },
 
   // DO NOT translate "Party"
@@ -76,7 +79,8 @@ export default {
     zh: '创建 Party',
     hu: 'Party Alapítása',
     pl: 'Stwórz Party',
-    vi: 'Tạo Party'
+    vi: 'Tạo Party',
+    sr: 'Kreiraj party'
   },
 
   // DO NOT translate "Party"
@@ -95,7 +99,8 @@ export default {
     zh: '$1 邀请你加入他们的 Party.',
     hu: '$1 meghívott a Partyjába.',
     pl: '$1 zaprosił cię do Party.',
-    vi: '$1 đã mời bạn vào Party của họ'
+    vi: '$1 đã mời bạn vào Party của họ',
+    sr: '$1 te je pozvao/la da se pridružiš party-ju.'
   },
 
   link: {
@@ -112,7 +117,8 @@ export default {
     ro: 'Link-ul invitației',
     hu: 'Partymeghívó link',
     pl: 'Link do zaproszenia',
-    vi: 'Liên kết mời'
+    vi: 'Liên kết mời',
+    sr: 'Pozivnica'
   },
 
   // DO NOT translate "Party"
@@ -130,7 +136,8 @@ export default {
     ro: 'Trimi-te acest link altor jucători! Le va permite să se alăture Party-ului tău.',
     hu: 'Küldd el ezt más játékosoknak, hogy beléphessenek a Partydba.',
     pl: 'Wyślij ten link do innych graczy! Pozwoli im to na dołączenie do twojego Party.',
-    vi: 'Gửi kết nối đến người khác! Điều này cho phép bạn vào Party của bạn'
+    vi: 'Gửi kết nối đến người khác! Điều này cho phép bạn vào Party của bạn',
+    sr: 'Pošalji ovaj link ostalim igračima! To će im omugućiti da se pridruže tvom party-ju.'
   },
 
   copyLink: {
@@ -151,7 +158,8 @@ export default {
     ro: 'Copiați în clipboard',
     hu: 'Másold a vágólapra',
     pl: 'Kopiuj do schowka',
-    vi: 'Sao chép vào bảng tạm'
+    vi: 'Sao chép vào bảng tạm',
+    sr: 'Kopiraj u prviremenu memoriju'
   },
 
   summon: {
@@ -163,7 +171,8 @@ export default {
     hu: 'Idézés',
     de: 'Beschwören',
     pl: 'Przyzwij',
-    vi: 'Triệu hồi'
+    vi: 'Triệu hồi',
+    sr: 'Prizovi'
   },
 
   onSummon: {
@@ -176,7 +185,8 @@ export default {
     de: '$1 möchte dich zu seiner Position beschwören.',
     fr: '$1 vous propose de vous invoquer à leur emplacement.',
     pl: '$1 chce przyzwać cię do swojej lokacji.',
-    vi: '$1 đang triệu hồi bạn đế vị trí của họ.'
+    vi: '$1 đang triệu hồi bạn đế vị trí của họ.',
+    sr: '$1 nudi da te prizove na njegovu/njenu lokaciju.'
   },
 
   // Do not translate "Assistant".
@@ -190,7 +200,8 @@ export default {
     de: 'Zum Assistant befördern',
     fr: 'Promouvoir Assistant',
     pl: 'Promuj na Assistant.',
-    vi: 'Thăng chức lên Assistant'
+    vi: 'Thăng chức lên Assistant',
+    sr: 'Unapredi u Assistant-a'
   },
 
   // Do not translate "Leader".
@@ -204,7 +215,8 @@ export default {
     de: 'Zum Leader befördern',
     fr: 'Promouvoir Leader',
     pl: 'Promuj na Leader',
-    vi: 'Thăng chức lên Leader'
+    vi: 'Thăng chức lên Leader',
+    sr: 'Unapredi u Leader-a'
   },
 
   // Do not translate"Assistant".
@@ -218,7 +230,8 @@ export default {
     de: 'Assistant degradieren',
     fr: 'Rétrograder Assistant',
     pl: 'Degraduj na Assistant',
-    vi: 'Giáng chức xuống Assitant'
+    vi: 'Giáng chức xuống Assitant',
+    sr: 'Unazadi Assistant-a'
   },
 
   startQueue: {
@@ -230,7 +243,8 @@ export default {
     fr: 'Rejoindre la file',
     es: 'Entrar a la Cola',
     pl: 'Kolejkuj',
-    vi: 'Hàng đợi'
+    vi: 'Hàng đợi',
+    sr: 'Red'
   },
 
   stopQueue: {
@@ -242,6 +256,7 @@ export default {
     fr: 'Quitter la file',
     es: 'Salir de la Cola',
     pl: 'Opuść kolejkowanie',
-    vi: 'Rời hàng đợi'
+    vi: 'Rời hàng đợi',
+    sr: 'Napusti red'
   }
 }
