@@ -20,6 +20,7 @@ export default {
     vi: 'Pháp sư',
     cs: 'Mág',
     sr: 'Čarobnjak'
+    it: 'Mago'
   },
 
   // Class description, visible during character creation
@@ -42,5 +43,6 @@ export default {
     vi: 'Pháp sư gây sát thương trên một vùng rộng lớn, đồng thời cũng rất hữu dụng thông qua việc gây làm chậm các mục tiêu bằng các phép thuật băng của họ.',
     cs: 'Mágové dávají velké AoE poškození mezitím co nabízí zpomalení nepřátel s jejich ledovou magií.',
     sr: 'Čarobnjaci nanose veliku štetu u velikoj meri u svom području dejstva, i istovremeno pružaju pomoć usporavajući mete svojom magijom mraza.'
+    it: 'I Maghi infliggono enormi danni ad area, e assicurano una grande utilità rallentando i bersagli con i loro incantesimi glaciali'
   }
 }
