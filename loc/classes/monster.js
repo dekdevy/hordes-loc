@@ -19,5 +19,6 @@ export default {
     vi: 'Quái vật',
     cs: 'Příšera',
     sr: 'Čudovište'
+    it: 'Mostro'
   }
 }
