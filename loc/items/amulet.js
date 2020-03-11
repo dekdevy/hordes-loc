@@ -37,7 +37,7 @@ export default [
       hu: 'Vastag bőrből készültek ezek a nyakörvek, hogy rabságban tarthassák a legszilajabb farkasokat is. Egyes darabokról még mindig láncok lógnak, és néhányat elbűvöltek védelmi varázslatokkal.',
       vi: 'Vòng cổ được làm từ da sói. Một vài chúng vẫn còn các kết nối với nhau, tuy nhiên tất cả vòng cổ sói đều cứng cáp. Một số vòng cổ được thấm nhuần sự bảo vệ tâm linh.',
       cs: 'Límec, který drží vlky v otrocví, je vyrobený z tlusté kůže. Některé z nich mají na sobě ještě obojky, ale všechny vlčí límce jsou solidní. Některé límce jsou naplněné duchovní protekcí.',
-      it: 'I Collari per mantenere i lupi fedeli sono fatti da una pelle spessa. Alcuni di essi hanno ancora delle maglie di catena attaccate, ma tutti i collari per lupi sono robusti. Alcuni collari sono imbevuti di una protezione spirituale.' 
+      it: 'I Collari per mantenere i lupi fedeli sono fatti da una pelle spessa. Alcuni di essi hanno ancora delle maglie di catena attaccate, ma tutti i collari per lupi sono robusti. Alcuni collari sono imbevuti di una protezione spirituale.'
     }
   },
 
@@ -142,7 +142,7 @@ export default [
       hu: 'A bányák mélyéről felhozott kristályok hamar a misztikusok munkapadjaira kerültek. Ők, akik felismerték a bennük tomboló erőt, fáradtságos munkával amulettekké formálták ezeket a szilánkokat.',
       vi: 'Những mảnh vỡ kỳ lạ được khai thác từ các ngọn núi đã được những người huyền bí tăng cường và tạo thành bùa hộ mệnh để bảo vệ và gây ra nỗi sợ hãi.',
       cs: 'Tyto záhadné úlomeky z hor byly očarovány mystiky a vyformovány do amuletu aby poskytoval ochranu a způsoboval strach.',
-      it: 'Strani frammenti estratti dalle montagne che venivano incantati dai mistici e modellati in amuleti per ottenere protezione e causare paura. '
+      it: 'Strani frammenti estratti dalle montagne che venivano incantati dai mistici e modellati in amuleti per ottenere protezione e causare paura.'
     }
   },
 
@@ -248,7 +248,7 @@ export default [
       tr: 'Devasa Dünya Ağacı\'nın yani Yggdrasil\'in kıvrık parçaları en kutsal türden bir muska hâline getirildi. Muskadan sızan bitki özü vücut taradından emilip fazladan koruma sağlar.',
       vi: 'Những mảnh xoắn của World Tree, Yggdrasil, được chế tạo thành những chiếc bùa hộ mệnh thuộc loại linh thiêng nhất. Nhựa cây được thấm ra khỏi bùa hộ mệnh và được cơ thể hấp thụ để nhận được sự bảo vệ.',
       cs: 'Zamotané kusy obrovského World Tree, Yggdrasil, byly přidány do těch nejposvátnějších amuletů. Míza, která prosakuje skrz amulet je absorbována tělem pro lepší ochranu.',
-      it: 'Pezzi attorcigliati dell\'enorme World Tree, Yggdrasil, furono utilizzati per creare amuleti del tipo più sacro. La linfa filtra fuori dall\'amuleto e viene assorbita dal corpo per una protezione extra. '
+      it: 'Pezzi attorcigliati dell\'enorme World Tree, Yggdrasil, furono utilizzati per creare amuleti del tipo più sacro. La linfa filtra fuori dall\'amuleto e viene assorbita dal corpo per una protezione extra.'
     }
   },
 
