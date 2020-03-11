@@ -120,7 +120,7 @@ export default [
     name       : {$$: 'Pompeii' },
     description: {
       en: 'This quiver was once found near the ruins of an entire civilization. There are no surviving records about the quiver in the region from this time period.',
-      fr: 'Ce carquois fut une fois trouvé près des ruines d\'une civilisation entière. Il n\'y a aucun enregistrement restant parlant du carquois dans la région à partir de cette période.',      
+      fr: 'Ce carquois fut une fois trouvé près des ruines d\'une civilisation entière. Il n\'y a aucun enregistrement restant parlant du carquois dans la région à partir de cette période.',
       hu: 'Ez a tegez egy ősi civilizáció egyetlen hagyatéka. Nincsenek emlékeink, se feljegyzéseink az ekkor használt tegezekről, érdekes módon.',
       ru: 'Этот колчан однажды был обнаружен рядом с руинами целой цивилизации. Нет сохранившихся записей о колчане в регионе за этот период времени.',
       de: 'Dieser Köcher wurde einst in der Nähe der Ruinen einer Zivilisation gefunden. Es gibt keine erhaltenen Aufzeichnungen über den Köcher aus diesem Zeitraum.',
