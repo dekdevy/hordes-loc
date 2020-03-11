@@ -16,7 +16,7 @@ export default [
       hu: 'Égetett anyagokat bűvölve készítik a mágusok eme kisebb amuletteket. Nagy veszély idején nélkülözhetetlen túlélő eszközök.',
       vi: 'Các nguyên liệu bị đốt cháy đã được xoắn và gắn lại với nhau tạo thành một bùa hộ mệnh đơn giản. Chế tạo bùa hộ mệnh đơn giản như thế này là đã là một cách sinh tồn từ thời cổ đại.',
       cs: 'Ohořelé ingredience byly zkrouceny a smotány dohromady aby vytvořily amulet nuzné protekce. Vytvořit jednoduchý amulet jako je tento se považuje za běžnou taktiku pro přežití už od pradávna.',
-      it: 'Ingredienti bruciati sono stati attorcigliati e legati tra loro per formare un amuleto che dona una lieve protezione. Creare amuleti semplici come questo è sempre stata una pratica di sopravvivenza comune fin dai tempi antichi
+      it: 'Ingredienti bruciati sono stati attorcigliati e legati tra loro per formare un amuleto che dona una lieve protezione. Creare amuleti semplici come questo è sempre stata una pratica di sopravvivenza comune fin dai tempi antichi.'
     }
   },
 
@@ -37,7 +37,7 @@ export default [
       hu: 'Vastag bőrből készültek ezek a nyakörvek, hogy rabságban tarthassák a legszilajabb farkasokat is. Egyes darabokról még mindig láncok lógnak, és néhányat elbűvöltek védelmi varázslatokkal.',
       vi: 'Vòng cổ được làm từ da sói. Một vài chúng vẫn còn các kết nối với nhau, tuy nhiên tất cả vòng cổ sói đều cứng cáp. Một số vòng cổ được thấm nhuần sự bảo vệ tâm linh.',
       cs: 'Límec, který drží vlky v otrocví, je vyrobený z tlusté kůže. Některé z nich mají na sobě ještě obojky, ale všechny vlčí límce jsou solidní. Některé límce jsou naplněné duchovní protekcí.',
-      it: 'I Collari per mantenere i lupi fedeli sono fatti da una pelle spessa. Alcuni di essi hanno ancora delle maglie di catena attaccate, ma tutti i collari per lupi sono robusti. Alcuni collari sono imbevuti di una protezione spirituale 
+      it: 'I Collari per mantenere i lupi fedeli sono fatti da una pelle spessa. Alcuni di essi hanno ancora delle maglie di catena attaccate, ma tutti i collari per lupi sono robusti. Alcuni collari sono imbevuti di una protezione spirituale.' 
     }
   },
 
@@ -58,7 +58,7 @@ export default [
       hu: 'Ez a nyaklánc különböző pusztító bestiák csontszilánkjaiból lett összeállítva. Minden nyaklánc védőereje azon alapul, hogy milyen szörnyetegek csontját használták fel.',
       vi: 'Vòng cổ này bao gồm các mảnh xương từ nhiều sinh vật mạnh mẽ. Mỗi vòng cổ xương có sự bảo vệ khác nhau dựa trên nguồn gốc bộ xương.',
       cs: 'Tento náhrdelník je tvořen z zlomků kostí z různých silných tvorů. Každý kostěný náhrdelník se liší protekcí na základě původu kostí.',
-      it: 'Questa collana è formata da frammenti di ossa provenienti da varie forti creature. Ogni collana di ossa varia in protezione basandosi sulla origine delle ossa'
+      it: 'Questa collana è formata da frammenti di ossa provenienti da varie forti creature. Ogni collana di ossa varia in protezione basandosi sulla origine delle ossa.'
     }
   },
 
@@ -79,7 +79,7 @@ export default [
       hu: 'A farkasemberek még az áldozatokon hátrahagyott karmait misztikus olajokkal és hosszú meditációval kovácsolták egybe. Azt remélték, hogy egy napon ezek az eszközök a bosszú fegyvereivé válhatnak.',
       vi: 'Những móng vuốt người sói đáng sợ bị bỏ lại trên cơ thể của các nạn nhân đã được bôi bằng dầu thần bí và thấm nhuần tinh thần thông qua thiền định. Những người tạo ra những lá bùa hộ mệnh này hy vọng rằng một ngày nào đó những sự bảo vệ tâm linh này sẽ được sử dụng để trả thù.',
       cs: 'Strachuplné vlkodlačí drápy, které byly zanechány na jejich obětech, byly pomazány mystickými oleji a vštípeny do nich duchovní statečnost zkrz meditaci. Stvořitelé tohoto amuletu doufají, že tato duchovní protekce jednoho dne bude použita na pomstu.',
-      it: 'Gli artigli di un terribile lupo mannaro lasciati sui corpi delle vittime vengono unti con oli mistici e infusi con una forza d\'animo attraverso la meditazione. I creatori di questi amuleti speravano che queste protezioni spirituali venissero un giorno usate per vendicarsi
+      it: 'Gli artigli di un terribile lupo mannaro lasciati sui corpi delle vittime vengono unti con oli mistici e infusi con una forza d\'animo attraverso la meditazione. I creatori di questi amuleti speravano che queste protezioni spirituali venissero un giorno usate per vendicarsi.'
     }
   },
 
@@ -100,7 +100,7 @@ export default [
       hu: 'Amikor a vadászok egy ilyen karmot találnak, úgy hiszik, hogy a hegyek szent madarainak ajándéka hullott elébük. A szirtfokon élő szerzetesek a karmokból amuletteket készítettek, hogy védekezhessenek a megszállóikkal szemben.',
       vi: 'Khi một móng vuốt được tìm thấy, nó được coi là một món quà từ những con chim linh thiêng trên núi. Các nhà sư trên các vùng núi đã sử dụng móng vuốt để tạo ra bùa hộ mệnh để bảo vệ bản thân khỏi những kẻ xâm lược trong trận chiến.',
       cs: 'Když byl tento dráp nalezen, byl považován za dar od posvatných ptáků v horách. Mniši v horách požívali tento dráp aby vyprodukovali duchovní amulet pro svou vlastní ochranu od nájezdníků během souboje.',
-      it: 'Quando un artiglio veniva trovato, esso era considerato un dono dagli uccelli sacri delle montagne. I monaci delle montagne usavano gli artigli per produrre amuleti spirituali per proteggersi dagli invasori durante le battaglie'
+      it: 'Quando un artiglio veniva trovato, esso era considerato un dono dagli uccelli sacri delle montagne. I monaci delle montagne usavano gli artigli per produrre amuleti spirituali per proteggersi dagli invasori durante le battaglie.'
     }
   },
 
@@ -121,7 +121,7 @@ export default [
       hu: 'Sötét, különös mágia volt az amivel a sivatagi népek a köveket scarabeusokká faragták. Az ősidők jelentős személyei ezeket védelmükért, de drágaságukért is viselték.',
       vi: 'Người dân sa mạc cổ đại đã thu thập những viên đá đặc biệt và định hình chúng thành những chiếc khăn với phép thuật kỳ lạ, đen tối. Nhiều người quan trọng trong nền văn minh cổ đại đó đã đeo những chiếc bùa hộ mệnh này để có tầm vóc và sự bảo vệ.',
       cs: 'Prastaří obivatelé pouště sezbírali specíální kameny a vytvarovali je do skarabů s zvláštní temnou magií. Spousta duležitých lidí v této starodávné civilizaci nosili tento amulet pro vzrůst a ochranu.',
-      it: 'Le popolazioni antiche del deserto raccoglievano pietre speciali e le modellavano a forma di scarabeo con una strana magia nera. Molte persone importanti in queste antiche civiltà indossavano questi amuleti per essere protetti'
+      it: 'Le popolazioni antiche del deserto raccoglievano pietre speciali e le modellavano a forma di scarabeo con una strana magia nera. Molte persone importanti in queste antiche civiltà indossavano questi amuleti per essere protetti.'
     }
   },
 
