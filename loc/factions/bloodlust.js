@@ -24,6 +24,6 @@ export default {
     vi: 'Bộ lạc Bloodlust coi trọng sự tự do và lòng trung thành, tôn sùng chủ nghĩa cá nhân hoặc thậm chí hỗn loạn. Tuyến phòng thủ của họ nằm trong một vùng sa mạc gọi là Headless Landing.',
     cs: 'Bloodlust je horda, která si váží svobody a loajality. Nabízí místo pro individualismus nebo chaos. Jejich obrana je umístěná v písečném podnebí zvaném Headless Landing.',
     sr: 'Bloodlust je horda koja vrednuje slobodu i lojalnost, nudi mesto za individualizam ili čak haos. Njihova odbrana se nalazi u pustinjskoj oblasti, nazvanoj Headless Landing.',
-    it: 'I valori della Bloodlust sono libertà e lealtà, offrendo un posto per essere individuali oppure caotici. I loro avamposti sono situati in una landa deserta chiamata Headless Landing'
+    it: 'I valori della Bloodlust sono libertà e lealtà, offrendo un posto per essere individuali oppure caotici. I loro avamposti sono situati in una landa deserta chiamata Headless Landing.'
   }
 }
