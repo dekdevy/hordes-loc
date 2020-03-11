@@ -43,6 +43,6 @@ export default {
     vi: 'Cung thủ gây sát thương đơn mục tiêu cao và gây sát thương diện rộng. Một cung thủ tốt phải biết giữ khoảng cách và bẳn tỉa kẻ địch từ xa.',
     cs: 'Lučišník dává vysoké poškození na jednoho hráče a AoE poškození v rychlých intervalech. Dobrý lučišník si vždy bude držet odstup a bude střílet nepřátele z povzdálí.',
     sr: 'Lovci su izuzetno sposobni da koncentrišu svoju moć na jednu metu i mogu da deluju na više protivnika delimično. Dobar strelac uvek će držati distancu i pucati neprijatelje iz daleka.',
-    it: 'Gli Arcieri infliggono un danno elevato ad un singolo bersaglio e un danno esplosivo ad area. Un buon arciere mantiene sempre le distanze e colpisce i nemici da lontano'
+    it: 'Gli Arcieri infliggono un danno elevato ad un singolo bersaglio e un danno esplosivo ad area. Un buon arciere mantiene sempre le distanze e colpisce i nemici da lontano.'
   }
 }
