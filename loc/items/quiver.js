@@ -128,5 +128,4 @@ export default [
       es: 'Este quiver fue encontrado una vez cerca de las ruinas de una civilización entera. No hay registro de sobrevivientes sobre el quiver en la región desde este período de tiempo.'
     }
   }
-
 ]
