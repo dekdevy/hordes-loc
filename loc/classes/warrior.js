@@ -42,7 +42,7 @@ export default {
     vi: 'Chiến binh được xây dựng để chống chịu trước nhiều quái vật hơn các lớp nhân vật khác bởi vì có sức phòng thủ cao thông qua các trang bị (Khiên) và các buff phòng thủ mạnh mẽ.',
     cs: 'Válečníci jsou stavěni aby odolali více příšerám než ostatní povolání. Mají velice velkou obranu zkrze štít a obranné buffy.',
     sr: 'Oslanjajući se na svoju ogromnu odbranu i snagu, ratnici se mogu uključiti u borbu protiv brojnih neprijatelja, tako da ostali članovi njegovog tima mogu neometano koristiti magiju.',
-    it: 'I Guerrieri sono creati per tankare più mostri rispetto alle altri classi avendo una difesa alta grazie a scudi e forti buff difensivi'
+    it: 'I Guerrieri sono creati per tankare più mostri rispetto alle altri classi avendo una difesa alta grazie a scudi e forti buff difensivi.'
 
   }
 }
