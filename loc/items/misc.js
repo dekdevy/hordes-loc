@@ -9,7 +9,8 @@ export default [
       de: 'Ein kleiner Trank, der eine rote Flüssigkeit beinhaltet und dich heilt, während du ihn trinkst.',
       vi: 'Một lọ thuốc chứa chất lỏng màu đỏ, chữa lành cho bạn khi bạn uống nó',
       fr: 'Un flacon de potion contenant un liquide rouge, vous guérissant quand vous le buvez.',
-      es: 'Un frasco de poción que contiene un líquido rojo que te cura mientras lo bebes.'
+      es: 'Un frasco de poción que contiene un líquido rojo que te cura mientras lo bebes.',
+      it: 'Una pozione che contiene un liquido rosso che ti cura quando lo bevi.'
     }
   },
   {
@@ -22,7 +23,8 @@ export default [
       de: 'Ein kleiner Trank, der eine blaue Flüssigkeit beinhaltet und dein Mana wiederherstellt, während du ihn trinkst.',
       vi: 'Một lọ thuốc chứa chất lỏng màu xanh, hồi mana khi bạn uống nó.',
       fr: 'Un flacon de potion contenant un liquide bleu, régénérant votre mana quand vous le buvez.',
-      es: 'Un frasco de poción que contiene un líquido azul, recupera maná mientras lo bebes.'
+      es: 'Un frasco de poción que contiene un líquido azul, recupera maná mientras lo bebes.',
+      it: 'Una pozione che contiene un liquido blu, recuperando mana quando lo bevi.'
     }
   },
   {
@@ -35,7 +37,8 @@ export default [
       de: 'Ein mittlerer Trank, der eine rote Flüssigkeit beinhaltet und dich heilt, während du ihn trinkst.',
       vi: 'Một lọ thuốc chứa chất lỏng màu đỏ, chữa lành cho bạn khi bạn uống nó',
       fr: 'Un flacon de potion contenant un liquide rouge, vous guérissant quand vous le buvez.',
-      es: 'Un frasco de poción que contiene un líquido rojo que te cura mientras lo bebes.'
+      es: 'Un frasco de poción que contiene un líquido rojo que te cura mientras lo bebes.',
+      it: 'Una pozione che contiene un liquido rosso che ti cura quando lo bevi.'
     }
   },
   {
@@ -48,7 +51,8 @@ export default [
       de: 'Ein mittlerer Trank, der eine blaue Flüssigkeit beinhaltet und dein Mana wiederherstellt, während du ihn trinkst.',
       vi: 'Một lọ thuốc chứa chất lỏng màu xanh, hồi mana khi bạn uống nó.',
       fr: 'Un flacon de potion contenant un liquide bleu, régénérant votre mana quand vous le buvez.',
-      es: 'Un frasco de poción que contiene un líquido azul, recupera maná mientras lo bebes.'
+      es: 'Un frasco de poción que contiene un líquido azul, recupera maná mientras lo bebes.',
+      it: 'Una pozione che contiene un liquido blu, recuperando mana quando lo bevi.'
     }
   },
   {
@@ -61,7 +65,8 @@ export default [
       de: 'Ein großer Trank, der eine rote Flüssigkeit beinhaltet und dich heilt, während du ihn trinkst.',
       vi: 'Một lọ thuốc chứa chất lỏng màu đỏ, chữa lành cho bạn khi bạn uống nó',
       fr: 'Un flacon de potion contenant un liquide rouge, vous guérissant quand vous le buvez.',
-      es: 'Un frasco de poción que contiene un líquido rojo que te cura mientras lo bebes.'
+      es: 'Un frasco de poción que contiene un líquido rojo que te cura mientras lo bebes.',
+      it: 'Una pozione che contiene un liquido rosso che ti cura quando lo bevi.'
     }
   },
   {
@@ -74,7 +79,8 @@ export default [
       de: 'Ein großer Trank, der eine blaue Flüssigkeit beinhaltet und dein Mana wiederherstellt, während du ihn trinkst.',
       vi: 'Một lọ thuốc chứa chất lỏng màu xanh, hồi mana khi bạn uống nó.',
       fr: 'Un flacon de potion contenant un liquide bleu, régénérant votre mana quand vous le buvez.',
-      es: 'Un frasco de poción que contiene un líquido azul, recupera maná mientras lo bebes.'
+      es: 'Un frasco de poción que contiene un líquido azul, recupera maná mientras lo bebes.',
+      it: 'Una pozione che contiene un liquido blu, recuperando mana quando lo bevi.'
     }
   }
 ]
