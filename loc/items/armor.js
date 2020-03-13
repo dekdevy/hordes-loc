@@ -10,7 +10,7 @@ export default [
       es: 'Este es un material sorprendentemente resistente que puede ser usado como ropa de protección. La naturaleza improvisada de este material es obvia, muchos aventureros eligen remplazar el Potato Sack tan rápido como sea posible.',
       vi: 'Đây là một vật liệu đầy sức mạnh đáng ngạc nhiên có thể được sử dụng như một giáp bảo vệ. Bản chất của vật liệu này là rõ ràng, vì vậy nhiều nhà thám hiểm chọn thay thế bao tải khoai tây càng nhanh càng tốt.',
       nl: 'Dit is een verassend stevig materiaal dat gebruikt kan worden als een beschermend kledingstuk. De in elkaar gezette natuur van dit materiaal is duidelijk, dus vele avonturiers kiezen ervoor om de "potato sack" zo snel mogelijk te vervangen.',
-      it : 'È un materiale sorprendentemente robusto che può essere usato come veste protettiva. La natura improvvisata di questo materiale è ovvia, quindi molti avventurieri scelgono di sostituire il sacco di patate il più velocemente possibile.'
+      it: 'È un materiale sorprendentemente robusto che può essere usato come veste protettiva. La natura improvvisata di questo materiale è ovvia, quindi molti avventurieri scelgono di sostituire il sacco di patate il più velocemente possibile.'
     }
   },
 
