@@ -2,7 +2,7 @@ export default [
   {
     name       : {$$: 'Test'},
     description: {
-      en: 'Test trinket.'
+      en: 'Test charm.'
     }
   }
 ]
