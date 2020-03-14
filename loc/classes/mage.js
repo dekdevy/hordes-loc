@@ -19,7 +19,8 @@ export default {
     bn: 'যাদুকর',
     vi: 'Pháp sư',
     cs: 'Mág',
-    sr: 'Čarobnjak'
+    sr: 'Čarobnjak',
+    it: 'Mago'
   },
 
   // Class description, visible during character creation
@@ -41,6 +42,7 @@ export default {
     bn: 'যাদুকরেরা বড় মাপের এলাকায় ক্ষতিসাধন করতে পারে, একইসাথে তারা তাদের শত্রুদের বরফপূর্ণ যাদু দ্বারা ধীরগতিসম্পন্ন করতে পারে।',
     vi: 'Pháp sư gây sát thương trên một vùng rộng lớn, đồng thời cũng rất hữu dụng thông qua việc gây làm chậm các mục tiêu bằng các phép thuật băng của họ.',
     cs: 'Mágové dávají velké AoE poškození mezitím co nabízí zpomalení nepřátel s jejich ledovou magií.',
-    sr: 'Čarobnjaci nanose veliku štetu u velikoj meri u svom području dejstva, i istovremeno pružaju pomoć usporavajući mete svojom magijom mraza.'
+    sr: 'Čarobnjaci nanose veliku štetu u velikoj meri u svom području dejstva, i istovremeno pružaju pomoć usporavajući mete svojom magijom mraza.',
+    it: 'I Maghi infliggono enormi danni ad area, e assicurano una grande utilità rallentando i bersagli con i loro incantesimi glaciali.'
   }
 }
