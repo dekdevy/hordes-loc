@@ -22,6 +22,7 @@ import book from './items/book.js'
 import boot from './items/boot.js'
 import bow from './items/bow.js'
 import box from './items/box.js'
+import charm from './items/charm.js'
 import glove from './items/glove.js'
 import hammer from './items/hammer.js'
 import misc from './items/misc.js'
@@ -34,7 +35,6 @@ import shield from './items/shield.js'
 import staff from './items/staff.js'
 import sword from './items/sword.js'
 import totem from './items/totem.js'
-import trinket from './items/trinket.js'
 const items = {
   amulet,
   armlet,
@@ -56,7 +56,7 @@ const items = {
   mount,
   totem,
   box,
-  trinket
+  charm
 }
 
 // Factions
