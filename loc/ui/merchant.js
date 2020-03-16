@@ -181,20 +181,20 @@ export default {
 
   // Do not translate "Stash".
   auctionbuy: {
-    en: 'Item purchased for $g$1 and sent to your Stash',
-    ru: 'Лот, купленный за $g$1 и отправлен в ваш Stash',
-    es: 'Objeto comprado por $g$1 y enviado a tu Stash',
-    fr: 'Article acheté pour $g$1 et envoyé dans votre Stash',
-    de: 'Item für $g$1 gekauft und an Stash geschickt',
-    pt: 'Item comprado por $g$1 e enviado para o seu Stash',
-    nl: 'Item gekocht voor $g$1 en verzonden naar uw Stash',
-    ko: '$g$1 동전으로 구입하여 은닉 한 물품',
-    ro: 'Obiect cumpărat pentru $g$1 și trimis în Stash tău',
-    hi: 'अपने $g$1 सिक्कों में वस्तु खरीद ली है और उसे आपके स्टैश में भेज दिया गया है',
-    hu: 'A tárgyat megvásárolták $g$1 áron, ami a Stash fiókodba került.',
-    pl: 'Przemiot kupiono za $g$1 i wysłano do twojego Stash',
-    vi: 'Vật phẩm đã mua cho $g$1 và gửi vào Hòm đồ',
-    sr: 'Predmet je kupljen po ceni od $g$1 i stavljen je u tvoj Stash.'
+    en: 'Item purchased for $1 and sent to your Stash',
+    ru: 'Лот, купленный за $1 и отправлен в ваш Stash',
+    es: 'Objeto comprado por $1 y enviado a tu Stash',
+    fr: 'Article acheté pour $1 et envoyé dans votre Stash',
+    de: 'Item für $1 gekauft und an Stash geschickt',
+    pt: 'Item comprado por $1 e enviado para o seu Stash',
+    nl: 'Item gekocht voor $1 en verzonden naar uw Stash',
+    ko: '$1 동전으로 구입하여 은닉 한 물품',
+    ro: 'Obiect cumpărat pentru $1 și trimis în Stash tău',
+    hi: 'अपने $1 सिक्कों में वस्तु खरीद ली है और उसे आपके स्टैश में भेज दिया गया है',
+    hu: 'A tárgyat megvásárolták $1 áron, ami a Stash fiókodba került.',
+    pl: 'Przemiot kupiono za $1 i wysłano do twojego Stash',
+    vi: 'Vật phẩm đã mua cho $1 và gửi vào Hòm đồ',
+    sr: 'Predmet je kupljen po ceni od $1 i stavljen je u tvoj Stash.'
   },
 
   sell: {
