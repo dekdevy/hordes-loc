@@ -273,6 +273,11 @@ export default {
     },
 
     {
+      en: 'Rating'
+      // vi: 'Danh vọng'
+    },
+
+    {
       en: 'Stat Points',
       ru: 'Очки Хар-ик',
       fr: 'Points Stat',
