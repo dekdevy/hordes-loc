@@ -217,5 +217,11 @@ export default {
     hu: 'Meghaltál és elvesztetted: $1',
     pl: 'Podczas śmierci stracono $1.',
     vi: 'Bạn đã chết và mất $1'
-  }
+  },
+
+  bindlevel: [
+    {en: 'Tradable'},
+    {en: 'Account bound'},
+    {en: 'Character bound'}
+  ]
 }
