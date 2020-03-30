@@ -75,7 +75,7 @@ export default [
       es: 'Bolsas como estas son un regalo de la naturaleza para las sociedades secretas de druidas. Desafortunadamente, los monstruos han eliminado muchos druidas con el tiempo y han robado estas bolsas sagradas.',
       vi: 'Những chiếc túi như thế này là một món quà từ thiên nhiên cho các bộ tộc druid bí mật. Thật không may, quái vật đã vứt bỏ nhiều druid theo thời gian và đã đánh cắp những chiếc túi thiêng liêng này.',
       nl: 'Tassen zoals deze zijn cadeaus van de natuur aan geheime druïde samenlevingen. Jammer genoeg, monsters hebben vele druïdes opgeruimd na een tijdje en hebben deze heilige tassen gestolen.',
-      it: 'Zaini come questi sono un dono della natura alle società segrete dei druidi. Sfortunatamente, i mostri con il passare del tempo hanno ucciso molti druidi e hanno rubato queste sacre sacche.
+      it: 'Zaini come questi sono un dono della natura alle società segrete dei druidi. Sfortunatamente, i mostri con il passare del tempo hanno ucciso molti druidi e hanno rubato queste sacre sacche.'
     }
   }
 
