@@ -79,7 +79,7 @@ export default [
       fr: 'Des chaussures enchantées comme celle-ci poussent les pieds du porteur avec une magie de l\'ombre pour augmenter sa vitesse.',
       es: 'Zapatos encantados como estos empujan a los pies del usuario con magia de las sombras para aumentar la velocidad.',
       vi: 'Những đôi giày được phù phép như thế này tăng tốc đôi chân của người mang bằng ma thuật bóng tối để tăng tốc độ.',
-      it: 'Scarpe incantate come questa spingono i piedi di chi la indossa con la magia dell'ombra per aumentare la velocità.'
+      it: 'Scarpe incantate come questa spingono i piedi di chi la indossa con la magia dell\'ombra per aumentare la velocità.'
     }
   },
 
