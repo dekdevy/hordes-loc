@@ -6,7 +6,8 @@ export default [
       ru: 'Такие мечи часто изготавливают из очень твердой древесины, чтобы они прослужили дольше, чем мечи из обычного дерева.',
       de: 'Diese Schwerter werden oft aus Eisenholz hergestellt, um länger als normales Holz zu halten.',
       pl: 'Miecze te są często wykonane z żelaznej kory, aby przetrwać dłużej niż zwykłe drewno.',
-      vi: 'Những thanh kiếm này thường được làm bằng sắt để tồn tại lâu hơn gỗ thông thường.'
+      vi: 'Những thanh kiếm này thường được làm bằng sắt để tồn tại lâu hơn gỗ thông thường.',
+      it: 'Queste spade sono spesso realizzate con la corteccia di ferro per durare più a lungo del normale legno.'
     }
   },
 
@@ -17,7 +18,8 @@ export default [
       ru: 'Такие мечи видели много сражений и обычно передаются от воина ученику.',
       de: 'Schwerter wie dieses haben schon viele Schlachten gesehen und werden üblicherweise von Krieger zu Lehrling weitergegeben.',
       pl: 'Miecze takie jak ten widziały wiele bitew i zwykle są przekazywane od wojownika do ucznia.',
-      vi: 'Những thanh kiếm như thế này đã chứng kiến nhiều trận chiến và thường được truyền lại từ một chiến binh cho người học việc.'
+      vi: 'Những thanh kiếm như thế này đã chứng kiến nhiều trận chiến và thường được truyền lại từ một chiến binh cho người học việc.',
+      it: 'Spade come questa hanno visto molte battaglie e in genere vengono tramandate da un guerriero a un apprendista.'
     }
   },
 
@@ -28,7 +30,8 @@ export default [
       ru: 'Это достойное оружие, которым владеют тролли и их племена. Тролли часто нападают на соседние территории, чтобы либо расширить свои границы, либо отбросить назад захватчиков.',
       de: 'Dies ist eine wertige Waffe, geschwungen von Trollen und ihren Stämmen. Trolle attackieren oft ihre Nachbarn, um ihr eigenes Gebiet zu erweitern oder Eindringlinge zurückzuschlagen.',
       pl: 'To godna broń, którą posługują się trolle i ich plemiona. Trolle często atakują sąsiednie terytoria, aby poszerzyć swoje tereny lub zmusić najeźdźców do odwrotu.',
-      vi: 'Đây là một vũ khí xứng đáng được sử dụng bởi các trolls và bộ lạc của họ. Trolls thường tấn công các lãnh thổ lân cận để mở rộng cuộc xâm lược của chính chúng hoặc buộc quân xâm lược trở lại.'
+      vi: 'Đây là một vũ khí xứng đáng được sử dụng bởi các trolls và bộ lạc của họ. Trolls thường tấn công các lãnh thổ lân cận để mở rộng cuộc xâm lược của chính chúng hoặc buộc quân xâm lược trở lại.',
+      it: 'Questa è un\'arma degna bandita dai troll e dalle loro tribù. I troll attaccano spesso i territori vicini per espandere i propri o respingere gli invasori.'
     }
   },
 
@@ -39,7 +42,8 @@ export default [
       ru: 'Палаш является стандартным оружием среди солдат и воинов на поле боя.',
       de: 'Dieses Breitschwert ist die Standard-Waffe von Soldaten und Kriegern auf dem Schlachtfeld.',
       pl: 'Pałasz jest standardową bronią wśród żołnierzy i wojowników na polu bitwy.',
-      vi: 'Broadsword là vũ khí tiêu chuẩn của các binh sĩ và chiến binh trên chiến trường'
+      vi: 'Broadsword là vũ khí tiêu chuẩn của các binh sĩ và chiến binh trên chiến trường',
+      it: 'Il Broadsword è un\'arma standard tra soldati e guerrieri sul campo di battaglia.'
     }
   },
 
@@ -50,7 +54,8 @@ export default [
       ru: 'Длинный меч в первую очередь определяется более длинным рукояткой, а не длинным лезвием. Кузнецы использовали различные материалы и уровни мастерства, что давало самые разнообразные результаты.',
       de: 'Langschwerter erkennt man primär an ihrem längeren Griff. Schwertschmiede unterschiedlicher Fähigkeiten nutzen eine große Anzahl verschiedener Materialien zur Herstellung, was zu sehr unterschiedlichen Ergebnissen führt.',
       pl: 'Długie miecze są przede wszystkim rozpoznawane przez ich dłuższy chwyt, a nie przez dłuższe ostrze. Kowale stosowali różnorodne materiały i poziomy umiejętności, co skutkowało różnorodnymi rezultatami.',
-      vi: 'Longswords chủ yếu được xác định bởi chuôi dài hơn thay vì lưỡi dài hơn. Thợ rèn đã sử dụng nhiều loại vật liệu và cấp độ kỹ năng, tạo ra nhiều kết quả khác nhau.'
+      vi: 'Longswords chủ yếu được xác định bởi chuôi dài hơn thay vì lưỡi dài hơn. Thợ rèn đã sử dụng nhiều loại vật liệu và cấp độ kỹ năng, tạo ra nhiều kết quả khác nhau.',
+      it: 'I Longswords sono principalmente identificati dalla loro presa più lunga piuttosto che dalla lama più lunga. I Bladesmiths hanno utilizzato una varietà di materiali e livelli di abilità, producendo un\'ampia varietà di risultati.'
     }
   },
   {
@@ -60,7 +65,8 @@ export default [
       ru: 'Разработанное для боя, это оружие соответствует ожиданиям внутри Колизея.',
       de: 'Für den Kampf entwickelt erfüllt diese Waffe die Erwartungen im Kolosseum.',
       pl: 'Zaprojektowana do walki, broń spełniała oczekiwania w Koloseum.',
-      vi: 'Được thiết kế để chiến đấu, vũ khí này thực hiện theo mong đợi bên trong Đấu trường.'
+      vi: 'Được thiết kế để chiến đấu, vũ khí này thực hiện theo mong đợi bên trong Đấu trường.',
+      it: 'Progettata per il combattimento, quest\'arma si comporta secondo le aspettative all\'interno del Colosseo.'
     }
   },
   {
@@ -70,7 +76,8 @@ export default [
       ru: 'Этот мощный меч предназначен для увеличения потенциального урона специально для войны. Путешественники, который носит или использует такое оружие, не оставляет сомнений в своих целях и профессии.',
       de: 'Dieses riesige Schwert wurde speziell für den Krieg und hohen möglichen Schaden entwickelt. Ein Abenteurer, der eine solche Waffe nutzt lässt keine Zweifel an seiner Absicht oder seinem Beruf.',
       pl: 'Ten potężny miecz został zaprojektowany w celu zwiększenia potencjału zadawania obrażeń podczas wojny. Poszukiwacz przygód, który nosi lub używa takiej broni, nie pozostawia wątpliwości co do swoich celów i zawodu.',
-      vi: 'Thanh kiếm khổng lồ này được thiết kế để tăng khả năng gây sát thương đặc biệt cho chiến trận. Một nhà thám hiểm đeo hoặc sử dụng vũ khí như thế này không nghi ngờ gì về mục tiêu và nghề nghiệp của họ.'
+      vi: 'Thanh kiếm khổng lồ này được thiết kế để tăng khả năng gây sát thương đặc biệt cho chiến trận. Một nhà thám hiểm đeo hoặc sử dụng vũ khí như thế này không nghi ngờ gì về mục tiêu và nghề nghiệp của họ.',
+      it: 'Questa enorme spada è progettata per aumentare il potenziale di danno specifico per la guerra. Un avventuriero che indossa o usa un\'arma come questa non lascia dubbi sui propri obiettivi e sulla propria professione.'
     }
   },
 
@@ -81,7 +88,8 @@ export default [
       ru: 'Это оружие когда-то принадлежало рыцарям упавших королевств. Могущественные царства когда-то существовали до того, как массовые войны уничтожили их с ландшафта; рыцари, владеющие этими великими мечами, сохраняли свои рыцарские обязанности еще долгое время после того, как их царства превратились в пыль.',
       de: 'Diese Waffen gehörten einst den Rittern eines gefallenen Königreiches. Mächtige Königreiche existierten vor langer Zeit, bevor große Kriege sie vernichteten. Die Ritter die diese Waffen trugen behielten ihre ritterlichen Pflichten lange Zeit bei, nachdem ihre Königreiche zu Staub wurden.',
       pl: 'Są to bronie, które kiedyś należały do rycerzy upadłych królestw. Potężne królestwa istniały niegdyś, zanim potężne wojny zmiotły je z krajobrazu; rycerze władający tymi wielkimi mieczami zachowali swoje rycerskie obowiązki długo po tym, jak ich królestwa zamieniły się w proch.',
-      vi: 'Đây là những vũ khí từng thuộc về các hiệp sĩ của các vương quốc đã sụp đổ. Các vương quốc hùng mạnh từng tồn tại trước khi các cuộc chiến tranh lớn xóa sổ chúng khỏi thế giới; các hiệp sĩ mang những thanh kiếm vĩ đại này duy trì nhiệm vụ của họ rất lâu sau khi vương quốc của họ biến thành cát bụi.'
+      vi: 'Đây là những vũ khí từng thuộc về các hiệp sĩ của các vương quốc đã sụp đổ. Các vương quốc hùng mạnh từng tồn tại trước khi các cuộc chiến tranh lớn xóa sổ chúng khỏi thế giới; các hiệp sĩ mang những thanh kiếm vĩ đại này duy trì nhiệm vụ của họ rất lâu sau khi vương quốc của họ biến thành cát bụi.',
+      it: 'Queste sono armi che un tempo appartenevano ai cavalieri dei regni caduti. Regni potenti un tempo esistevano prima che enormi guerre li cancellassero dal paesaggio; i cavalieri che brandivano queste spadone mantennero i loro doveri cavallereschi molto tempo dopo che i loro regni si trasformarono in polvere.'
     }
   },
 
@@ -92,7 +100,8 @@ export default [
       ru: 'Эти мечи сделаны неживыми монстрами. Неестественная техника изготовления такого оружия остается неизвестной.',
       de: 'Diese Schwerter wurden von untoten Monstern hergestellt. Welche unnatürliche Methode zur Herstellung genutzt wird ist unbekannt.',
       pl: 'Miecze te są wytwarzane przez nieumarłe potwory. Nienaturalna technika wytwarzania broni takiej jak ta pozostaje tajemnicą.',
-      vi: 'Những thanh kiếm này được chế tạo bởi những con quái vật bất tử. Kỹ thuật chế tạo không tự nhiên để sản xuất vũ khí như thế này vẫn chưa được biết đến.'
+      vi: 'Những thanh kiếm này được chế tạo bởi những con quái vật bất tử. Kỹ thuật chế tạo không tự nhiên để sản xuất vũ khí như thế này vẫn chưa được biết đến.',
+      it: 'Queste spade sono costruite da mostri non morti. La tecnica di fabbricazione innaturale per produrre armi come questa rimane sconosciuta.'
     }
   },
 
@@ -103,7 +112,8 @@ export default [
       ru: 'Nullfire мечи изготавливаются смертными из льда, который можно найти только в Подземном мире. Первоначально этот вид меча был сделан для борьбы с дьяволами и демонами во время первой Великой Войны, однако, мечи Nullfire были изготовлены по несовершенным процессам и поэтому не могли полностью оттолкнуть дьяволов и демонов.',
       de: 'Nullfire-Schwerter werden von Sterblichen aus Eis hergestellt, welches nur in der Unterwelt vorkommt. Ursprüngliche wurden diese Schwerter zur Bekämpfung von Teufeln und Dämonen im ersten großen Krieg hergestellt. Jedoch war der Herstellungsprozess fehlerhaft und die Schwerter waren nicht in der Lage, die Teufel und Dämonen endgültig zurückzuschlagen.',
       pl: 'Miecze Nullfire są wytwarzane przez śmiertelników z lodu, który występuje tylko w Zaświatach. Pierwotnie ten rodzaj miecza został stworzony do walki z diabłami i demonami podczas pierwszej Wielkiej Wojny; jednak Miecze Nullfire zostały wytworzone przez wadliwe procesy i dlatego nie były w stanie całkowicie odeprzeć diabłów i demonów.',
-      vi: 'Nullfire Swords được tạo ra bởi những người chết từ băng chỉ có trong Địa ngục. Ban đầu, loại kiếm này được tạo ra để chiến đấu với quỷ và quái vật trong Đại chiến đầu tiên; tuy nhiên, Nullfire Swords được chế tạo bởi các quy trình thiếu sót và do đó không thể đẩy lùi quỷ và quái vật hoàn toàn.'
+      vi: 'Nullfire Swords được tạo ra bởi những người chết từ băng chỉ có trong Địa ngục. Ban đầu, loại kiếm này được tạo ra để chiến đấu với quỷ và quái vật trong Đại chiến đầu tiên; tuy nhiên, Nullfire Swords được chế tạo bởi các quy trình thiếu sót và do đó không thể đẩy lùi quỷ và quái vật hoàn toàn.',
+      it: 'Le Spade Nullfire sono fatte da mortali di ghiaccio che si trovano solo negli Inferi. In origine, questo tipo di spada fu fatta per combattere diavoli e demoni durante la prima Grande Guerra; tuttavia, Nullfire Swords è stata realizzata con processi imperfetti e pertanto non è stata in grado di respingere completamente diavoli e demoni.'
     }
   },
 
@@ -114,7 +124,8 @@ export default [
       ru: 'В царствах, где война постоянная, королевские семьи часто тратят огромные суммы золота на создание одного из лучших мечей, которые можно купить за деньги для личного пользования. К сожалению, одни эти безупречные клинки не могут остановить вторжение армий, которы могут захватить королевство.',
       de: 'In Reichen endlosen Krieges, Könighäuser geben oft riesige Mengen an Gold aus, um das beste Schwert das man mit Geld kaufen kann für ihren persönlichen Gebrauch herzustellen. Unglücklicherweise können diese makellosen Schwerten alleine keine Armee stoppen.',
       pl: 'W królestwach, w których trwa wojna, członkowie rodziny królewskiej często wydają ogromne ilości złota, aby stworzyć jedno z najlepszych ostrzy, które można kupić na własny użytek. Niestety, te nieskazitelne ostrza same w sobie nie mogą powstrzymać inwazji armii przed przejęciem królestwa.',
-      vi: 'Trong các vương quốc nơi chiến tranh là tất yếu, hoàng gia thường dành số lượng lớn vàng để tạo ra một trong những lưỡi kiếm tốt nhất mà tiền có thể mua cho sử dụng cá nhân của họ. Thật không may, những lưỡi kiếm nguyên sơ này không thể ngăn chặn quân đội xâm chiếm vương quốc.'
+      vi: 'Trong các vương quốc nơi chiến tranh là tất yếu, hoàng gia thường dành số lượng lớn vàng để tạo ra một trong những lưỡi kiếm tốt nhất mà tiền có thể mua cho sử dụng cá nhân của họ. Thật không may, những lưỡi kiếm nguyên sơ này không thể ngăn chặn quân đội xâm chiếm vương quốc.',
+      it: 'Nei regni in cui la guerra è costante, la sovranità spesso spende enormi quantità di oro per creare una delle migliori lame che il denaro può comprare per il loro uso personale. Sfortunatamente, queste lame incontaminate da sole non possono smettere di invadere gli eserciti dalla conquista di un regno.'
     }
   },
 
@@ -125,7 +136,8 @@ export default [
       ru: 'Это оружие было передано смертным тайной группой чудовищ призраков. Позже эти "дары" были обнаружены как средство манипулирования смертными через магическую коррупцию. Несмотря на очевидную неудачу этого мастер-плана, мощные мечи все еще можно найти.',
       de: 'Diese Waffen wurden von einer geheimnisvollen Gruppe von Geist-Monstern an Sterbliche vergeben. Später wurde entdeckt das diese "Geschenke" ihre Besitzer durch magische Korruption manipulierten. Trotz des augenscheinlichen Scheiterns dieses Plans können die mächtigen Schwerter noch gefunden werden.',
       pl: 'Broń ta została podarowana śmiertelnym przez skrytą grupę upiornych potworów. Owe „dary” odkryto później jako sposób manipulowania śmiertelnymi przedsięwzięciami poprzez magiczne zniszczenie. Pomimo pozornej porażki, wciąż można znaleźć te potężne miecze.',
-      vi: 'Những vũ khí này đã được trao cho người phàm bởi một nhóm quái vật bí mật. Những "món quà" này sau đó được phát hiện là một phương tiện để thao túng những nỗ lực sinh tử thông qua tha hóa ma thuật. Mặc dù thất bại rõ ràng của kế hoạch tổng thể này, những thanh kiếm mạnh mẽ vẫn có thể được tìm thấy.'
+      vi: 'Những vũ khí này đã được trao cho người phàm bởi một nhóm quái vật bí mật. Những "món quà" này sau đó được phát hiện là một phương tiện để thao túng những nỗ lực sinh tử thông qua tha hóa ma thuật. Mặc dù thất bại rõ ràng của kế hoạch tổng thể này, những thanh kiếm mạnh mẽ vẫn có thể được tìm thấy.',
+      it: 'Queste armi furono date ai mortali da un gruppo segreto di mostri fantasmi. Questi "doni" furono in seguito scoperti come mezzo per manipolare gli sforzi mortali attraverso la corruzione magica. Nonostante l\'apparente fallimento di questo piano generale, è ancora possibile trovare potenti spade.'
     }
   },
 
@@ -136,7 +148,8 @@ export default [
       ru: 'Многие ученые говорят, что это оружие было создано, чтобы уничтожить древнюю и могущественную расу, но ни создатели, ни их противники не остались.',
       de: 'Viele Gelehrte behaupten das diese Waffen erschaffen wurden um eine uralte und mächtige Rasse zu zerstören, jedoch gibt es keine Spur von dieser oder ihren Gegnern.',
       pl: 'Wielu uczonych twierdzi, że ta broń została stworzona w celu zniszczenia starożytnej i potężnej rasy, ale ani twórcy, ani ich przeciwnicy nie żyją.',
-      vi: 'Nhiều học giả nói rằng những vũ khí này được tạo ra để tiêu diệt một chủng tộc cổ xưa và hùng mạnh, nhưng cả những người sáng tạo lẫn đối thủ của họ vẫn không tồn tại.'
+      vi: 'Nhiều học giả nói rằng những vũ khí này được tạo ra để tiêu diệt một chủng tộc cổ xưa và hùng mạnh, nhưng cả những người sáng tạo lẫn đối thủ của họ vẫn không tồn tại.',
+      it: 'Molti studiosi affermano che queste armi sono state create per distruggere una razza antica e potente, ma non rimangono né i creatori né i loro avversari.'
     }
   },
 
@@ -147,7 +160,8 @@ export default [
       ru: 'Это оружие буквально монстр. Эти существа связывают себя с пользователем, чтобы увеличить боевую экспозицию, что дает больше возможностей существам питать и поддерживать себя.',
       de: 'Diese Waffe ist wortwörtlich ein Monster. Diese Kreaturen verbinden sich mit dem Träger, um die Kampfbereitschaft zu erhöhen, was den Kreaturen größere Möglichkeiten bietet, sich zu ernähren und zu erhalten.',
       pl: 'Ta broń jest dosłownie potworem. Stworzenia te łączą się z użytkownikiem, aby zwiększyć ich ekspozycję w walce, co przekłada się na większe możliwości kreatur oraz ich żywienie.',
-      vi: 'Vũ khí này đúng nghĩa là một con quái vật. Những sinh vật này liên kết với người dùng để tăng khả năng tiếp xúc chiến đấu, điều này mang đến cơ hội lớn hơn cho các sinh vật nuôi sống và duy trì bản thân.'
+      vi: 'Vũ khí này đúng nghĩa là một con quái vật. Những sinh vật này liên kết với người dùng để tăng khả năng tiếp xúc chiến đấu, điều này mang đến cơ hội lớn hơn cho các sinh vật nuôi sống và duy trì bản thân.',
+      it: 'Quest\'arma è letteralmente un mostro. Queste creature si legano con l\'utente per aumentare l\'esposizione al combattimento, il che fornisce maggiori opportunità alle creature di nutrirsi e mantenersi.'
     }
   },
 
@@ -158,7 +172,8 @@ export default [
       ru: 'Demonedges были введены в царства демонами и дьяволами, которые начали Первую Великую Войну. Это оружие кованое адским огнем и не изготовлено смертными руками.',
       de: 'Demonedges wurden von den Dämonen und Teufeln, die den ersten großen Krieg begannen, in die Reiche gebracht. Diese Waffen werden von nicht-menschlichen Händen in Höllenfeuer hergestellt.',
       pl: 'Demonedges zostały przywiezione do królestwa przez demony i diabły, które rozpoczęły pierwszą wielką wojnę. Broń ta wykuta jest w ogniu piekielnym i nie jest wytwarzana przez śmiertelne ręce.',
-      vi: 'Demonedges được đưa vào vương quốc bởi những con quỷ và quái vật bắt đầu Đại chiến thứ nhất. Những vũ khí này được rèn bằng lửa địa ngục và không được chế tạo bởi bàn tay trần thế.'
+      vi: 'Demonedges được đưa vào vương quốc bởi những con quỷ và quái vật bắt đầu Đại chiến thứ nhất. Những vũ khí này được rèn bằng lửa địa ngục và không được chế tạo bởi bàn tay trần thế.',
+      it: 'I Demonedges furono portati nei regni dai demoni e dai diavoli che iniziarono la prima grande guerra. Queste armi sono forgiate con il fuoco dell\'inferno e non sono fabbricate da mani mortali.'
     }
   },
 
@@ -169,7 +184,8 @@ export default [
       ru: 'Некоторые из самых божественных воинов и преданных паладинов в истории использовали такое оружие. Легенды, навеянные именами воинов, исторически вдохновляли и мотивировали поколения воинов и королей.',
       de: 'Einige der göttlichsten Krieger und engagiertesten Paladine der Geschichte benutzten eine solche Waffe. Legenden dieser Helden haben Generationen von Kämpfern und Königen inspiriert und motiviert.',
       pl: 'Niektórzy z najbardziej boskich wojowników i oddanych paladynów w historii używali takiej broni. Legendy o imionach posiadaczy inspirowały i motywowały pokolenia wojowników i królów.',
-      vi: 'Một số chiến binh thần thánh nhất và các paladin trong lịch sử đã sử dụng một vũ khí như thế này. Các huyền thoại được đặt theo tên của những người sử dụng đã truyền cảm hứng và thúc đẩy các thế hệ chiến binh và vua.'
+      vi: 'Một số chiến binh thần thánh nhất và các paladin trong lịch sử đã sử dụng một vũ khí như thế này. Các huyền thoại được đặt theo tên của những người sử dụng đã truyền cảm hứng và thúc đẩy các thế hệ chiến binh và vua.',
+      it: 'Alcuni dei guerrieri più divini e paladini dedicati della storia hanno usato un\'arma come questa. Le leggende che si accumulano sui nomi dei cacciatori hanno storicamente ispirato e motivato generazioni di combattenti e re.'
     }
   },
 
@@ -180,7 +196,8 @@ export default [
       ru: 'Это оружие почти всегда считается плохим предзнаменованием и предвестником гибели, когда его находят. Некоторые ученые считают, что это оружие падает через барьерные трещины и может быть изготовлено только за пределами царств.',
       de: 'Diese Waffe wird fast immer als schlechtes Omen und Verdammnisbringer angesehen, wenn sie gefunden wird. Einige Gelehrte glauben, dass diese Waffe durch Barrierespalten fällt und nur außerhalb der Reiche hergestellt werden kann.',
       pl: 'Broń ta jest prawie zawsze uważana za zły omen i zwiastun zagłady, zwłaszcza gdy zostanie znaleziona. Niektórzy uczeni uważają, że broń taka spada przez szczeliny barierowe i może być wykonana jedynie poza królestwem.',
-      vi: 'Vũ khí này hầu như luôn được coi là điềm xấu và mang đến sự diệt vong khi nó được tìm thấy. Một số học giả tin rằng vũ khí này đến từ một khe nứt và chỉ có thể được chế tạo bên ngoài vùng đất.'
+      vi: 'Vũ khí này hầu như luôn được coi là điềm xấu và mang đến sự diệt vong khi nó được tìm thấy. Một số học giả tin rằng vũ khí này đến từ một khe nứt và chỉ có thể được chế tạo bên ngoài vùng đất.',
+      it: 'Quest \'arma è quasi sempre considerata un cattivo presagio e portatore di sventura quando viene trovata. Alcuni studiosi ritengono che quest\'arma cada attraverso fessure di barriera e possa essere fabbricata solo al di fuori dei regni.'
     }
   }
 
