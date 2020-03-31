@@ -9,25 +9,25 @@ export default [
   {
     name       : {$$: 'Hardened Egg'},
     description: {
-      en: 'Hardened Egg lore.'
+      en: 'Fossilized monster eggs are often interpreted as symbols of longevity. However, no written records of these creatures exist beyond recent times.'
     }
   },
   {
     name       : {$$: 'Tattooed Skull'},
     description: {
-      en: 'Charm 3 lore.'
+      en: 'Orc tribes often keep the skulls of worthy foes as a sign of respect. This skull is adorned with tattoos that symbolize the power the foe had during life.'
     }
   },
   {
     name       : {$$: 'Ship Pennant'},
     description: {
-      en: 'Charm 4 lore.'
+      en: 'Flags flown from the tops of warships were called pennants. This ship pennant was among the wrecked warships that first traveled to Headless Landing.'
     }
   },
   {
     name       : {$$: 'Blue Marble'},
     description: {
-      en: 'Charm 5 lore.'
+      en: 'Mages created alternative methods of mana acquisition during times of scarcity. This marble was created during the Arcane Crisis, a time when mana networks were under extreme stress.'
     }
   }
 ]
