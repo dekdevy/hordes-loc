@@ -8,7 +8,8 @@ export default [
       ru: 'Это временное оружие, которое часто создают фермеры.',
       de: 'Dies ist eine provisorische Waffe, die oft von Bauern hergestellt wird.',
       vi: 'Đây là một vũ khí tạm thời thường được tạo ra bởi nông dân',
-      es: 'Esta es un arma improvisada que a menudo es creada por los granjeros.'
+      es: 'Esta es un arma improvisada que a menudo es creada por los granjeros.',
+      it: 'Questa è un\'arma improvvisata che viene spesso creata dagli agricoltori.'
     }
   },
 
@@ -21,7 +22,8 @@ export default [
       ru: 'Этот молоток, обычно используется для столярных работ; однако деревянные молоточки по необходимости часто используются для борьбы, когда ресурсов и материалов не хватает.',
       de: 'Dies ist ein Hammer, der normalerweise für die Tischlerei verwendet wird. Holzhämmer werden jedoch oft im Kampf eingesetzt, wenn Rohstoffe und Materialien knapp sind.',
       vi: 'Đây là một cái vồ thường được sử dụng làm mộc; tuy nhiên, vồ gỗ thường được sử dụng để chiến đáua khi tài nguyên và vật liệu khan hiếm.',
-      es: 'Este es un mazo normalmente usado para carpintería; sin embargo, los mazos de madera a menudo se usan para combatir por necesidad cuando los recursos y materiales son escasos.'
+      es: 'Este es un mazo normalmente usado para carpintería; sin embargo, los mazos de madera a menudo se usan para combatir por necesidad cuando los recursos y materiales son escasos.',
+      it: 'Questo è un martello normalmente usato per la carpenteria; tuttavia, le mazze di legno sono spesso usate per combattere per necessità quando risorse e materiali sono scarsi.'
     }
   },
 
@@ -34,7 +36,8 @@ export default [
       ru: 'Первоклассные булавы проходят боевые испытания и на них накапливаются легенды, однако их эффективность со временем снижается.',
       de: 'Urstreitkolben sind kampferprobt und haben Legenden, die auf sie gewirkt haben. Ihre Wirksamkeit hat jedoch mit der Zeit abgenommen.',
       vi: 'Chùy nguyên thủy được thử nghiệm chiến đấu và có những huyền thoại chất đống trên chúng; tuy nhiên, hiệu quả của chúng đã giảm dần theo thời gian',
-      es: 'Las Primal maces son probadas en batalla y tienen leyendas sobre ellas; sin embargo, su efectividad ha disminuido con el tiempo.'
+      es: 'Las Primal maces son probadas en batalla y tienen leyendas sobre ellas; sin embargo, su efectividad ha disminuido con el tiempo.',
+      it: 'Le mazze primordiali sono testate in battaglia e hanno delle leggende ammucchiate; tuttavia, la loro efficacia è diminuita nel tempo.'
     }
   },
 
@@ -47,7 +50,8 @@ export default [
       ru: 'Это предпочтительный инструмент орков для допросов и ведения боя.',
       de: 'Dies ist das bevorzugte Werkzeug eines Orks für Verhöre und Kämpfe.',
       vi: 'Đây là một công cụ ưa thích của Orc để tra khảo và chiến đấu',
-      es: 'Esta es la herramienta preferida de los orcos para los interrogatorios y las batallas.'
+      es: 'Esta es la herramienta preferida de los orcos para los interrogatorios y las batallas.',
+      it: 'Questo è lo strumento preferito dagli orchi per gli interrogatori e le battaglie.'
     }
   },
 
@@ -60,7 +64,8 @@ export default [
       ru: 'Тяжелые булавы созданы для войны, вторжений и харизмы.',
       de: 'Schwere Keulen sind für Krieg, Überfall und Charisma geschaffen.',
       vi: 'Các chùy nặng được tạo ra cho chiến trận, xâm lược và dụ hoặc',
-      es: 'Las mazas pesadas están hechas para la guerra, la infiltración y el carisma.'
+      es: 'Las mazas pesadas están hechas para la guerra, la infiltración y el carisma.',
+      it: 'Mazze pesanti sono fatte per la guerra, l\'infiltrazione e il carisma.'
     }
   },
 
@@ -73,7 +78,8 @@ export default [
       ru: 'Железные башеры обычно изготавливаются опытными мастерами, такими как монстр Markay\'ak. Ремесленники почти всегда оставляют свой след на железе как символ гордости.',
       de: 'Eisenschläger werden typischerweise von erfahrenen Handwerkern wie dem Monster Markay\'ak hergestellt. Handwerker hinterlassen fast immer ihre Spuren auf dem Eisen als Symbol des Stolzes.',
       vi: 'Bashers sắt thường được thực hiện bởi các thợ thủ công chuyên gia như quái vật Markay\'ak. Thợ thủ công hầu như luôn để lại dấu ấn của mình trên tấm sắt như một biểu tượng của niềm tự hào.',
-      es: 'Los Iron bashers son hechos típicamente por artesanos expertos como el monstruo Markay \'ak. Los artesanos casi siempre dejan su marca en el hierro como símbolo de orgullo.'
+      es: 'Los Iron bashers son hechos típicamente por artesanos expertos como el monstruo Markay \'ak. Los artesanos casi siempre dejan su marca en el hierro como símbolo de orgullo.',
+      it: 'I basher di ferro sono in genere realizzati da esperti artigiani come il mostro Markay \'ak. Gli artigiani lasciano quasi sempre il segno sul ferro come simbolo di orgoglio.'
     }
   },
 
@@ -86,7 +92,8 @@ export default [
       ru: 'Эти булавы сделаны из специального металла, который имеет различные цвета и свойства. Секреты этого тёмного металла были украдены у монстров-ремесленников и популяризованы.',
       de: 'Diese Mauls werden aus einem speziellen Metall hergestellt, das unterschiedliche Farben und Eigenschaften aufweist. Die Geheimnisse dieses Dunkelmetalls wurden von Monster-Handwerkern gestohlen und verbreitet.',
       vi: 'Những chùy lớn được làm bằng một kim loại đặc biệt có màu sắc và tính chất riêng biệt. Các bí mật của Vật chất tối này đã bị đánh cắp từ các thợ thủ công quái vật và trở nên phổ biến.',
-      es: 'Estos mazos están hechos con un metal especial que tiene distintos colores y propiedades. Los secretos de este metal oscuro fueron robados de monstruos artesanos y popularizados.'
+      es: 'Estos mazos están hechos con un metal especial que tiene distintos colores y propiedades. Los secretos de este metal oscuro fueron robados de monstruos artesanos y popularizados.',
+      it: 'Questi mauls sono realizzati con un metallo speciale che ha colori e proprietà distinti. I segreti di questo metallo scuro furono rubati da artigiani mostruosi e resi popolari.'
     }
   },
 
@@ -99,7 +106,8 @@ export default [
       ru: 'Эти молоты благословлены церковью. Божественные молоты иногда приобретают силу благодаря преданности, достижениям и самопожертвованию предыдущих владельцев.',
       de: 'Diese Hämmer werden von einer Kirche gesegnet. Göttliche Hämmer erwerben manchmal Macht durch die Hingabe, Errungenschaft und Opferung früherer Besitzer.',
       vi: 'Những búa nhỏ này được ban phước bởi một nhà thờ. Thần linh đôi khi có được sức mạnh thông qua sự tận tâm, thành tích và sự hy sinh của chủ sở hữu trước đó.',
-      es: 'Estos martillos son bendecidos por una iglesia. Los Divine gavels a veces adquieren poder a través de la devoción, el logro y el sacrificio de los propietarios anteriores.'
+      es: 'Estos martillos son bendecidos por una iglesia. Los Divine gavels a veces adquieren poder a través de la devoción, el logro y el sacrificio de los propietarios anteriores.',
+      it: 'Questi martelletti sono benedetti da una chiesa. I martelletti divini a volte acquisiscono potere attraverso la devozione, la realizzazione e il sacrificio dei precedenti proprietari.'
     }
   },
 
@@ -112,7 +120,8 @@ export default [
       ru: 'Такие молоты часто создаются известными кузнецами, такими как Markay\'ak, с помощью священников - религиозных монстров. Священные молоты иногда наделены святыми способностями.',
       de: 'Hämmer wie dieser werden oft von berühmten Schmieden wie Markay\'ak mit Hilfe von religiösen Monsterpriestern hergestellt. Heilige Hämmer sind manchmal mit heiligen Kräften versehen.',
       vi: 'Những chiếc búa như thế này thường được tạo ra bởi những thợ rèn nổi tiếng như Markay\'ak với sự giúp đỡ của các linh mục quái vật. Búa thần thánh đôi khi được ban cho sức mạnh thiêng liêng.',
-      es: 'Los martillos como este a menudo son creados por herreros famosos como Markay\'ak con la ayuda de sacerdotes religiosos monstruos. Los Hallowed hammers a veces están dotados de poderes sagrados.'
+      es: 'Los martillos como este a menudo son creados por herreros famosos como Markay\'ak con la ayuda de sacerdotes religiosos monstruos. Los Hallowed hammers a veces están dotados de poderes sagrados.',
+      it: 'Martelli come questo sono spesso creati da famosi fabbri come Markay\'ak con l\'aiuto di mostri religiosi. I martelli sacri sono talvolta dotati di poteri sacri.'
     }
   },
 
@@ -125,7 +134,8 @@ export default [
       ru: 'Булавы гномов достаточно прочны и мощны, чтобы сохранять жизни гномов в шахтах и на земле. Гномы кузнецы имеют огромный опыт изготовления булав.',
       de: 'Die Mauls der Zwerge sind robust und stark genug, um dem Leben der Zwerge in den Minen und auf der Oberfläche standzuhalten. Zwergenschmiede haben große Erfahrung in der Herstellung von Hämmern.',
       vi: 'Dwarven mauls đủ mạnh và đủ dai để chống chọi với cuộc sống của Dwarven trong hầm mỏ và mặt đất. Thợ rèn người lùn có kinh nghiệm rộng lớn trong việc làm búa.',
-      es: 'Los Dwarven mauls son lo suficientemente robustos y poderosos como para resistir la vida de los enanos en las minas y el suelo. Los herreros enanos tienen una vasta experiencia en la fabricación de martillos.'
+      es: 'Los Dwarven mauls son lo suficientemente robustos y poderosos como para resistir la vida de los enanos en las minas y el suelo. Los herreros enanos tienen una vasta experiencia en la fabricación de martillos.',
+      it: 'I maul nanici sono abbastanza robusti e potenti da resistere alla vita nanica nelle miniere e nel terreno. I fabbri nani hanno una vasta esperienza nella fabbricazione di martelli.'
     }
   },
 
@@ -138,7 +148,8 @@ export default [
       ru: 'Эти молотки изготавливаются из специального металла и куются без нагрева. Процесс ковки без нагрева позволяет сохранить врожденные свойства специального металла.',
       de: 'Diese Hämmer sind aus einem speziellen Metall gefertigt und ohne Hitze geschmiedet. Der Prozess des Schmiedens ohne Hitze lässt die inneren Eigenschaften des speziellen Metalls bestehen.',
       vi: 'Những búa nhỏ này được làm từ một kim loại đặc biệt và được rèn mà không cần nhiệt. Quá trình rèn mà không cần nhiệt cho phép các đặc tính bẩm sinh của kim loại đặc biệt vẫn còn.',
-      es: 'Estos mazos están hechos de un metal especial y forjados sin calor. El proceso de forjado sin calor permite que permanezcan las propiedades innatas del metal especial.'
+      es: 'Estos mazos están hechos de un metal especial y forjados sin calor. El proceso de forjado sin calor permite que permanezcan las propiedades innatas del metal especial.',
+      it: 'Questi martelletti sono realizzati in un metallo speciale e forgiati senza calore. Il processo di forgiatura senza calore consente alle proprietà innate del metallo speciale di rimanere.'
     }
   },
 
@@ -151,7 +162,8 @@ export default [
       ru: 'Первоначально эти молоты использовались для разбивания черепов и борьбы с нежитью. Оставшиеся молоты часто считаются ценным достоянием для многих священнослужителей и святых.',
       de: 'Skullshatterer Hämmer wurden ursprünglich zur Bekämpfung der Untoten entwickelt. Die verbleibenden Hämmer werden von vielen Geistlichen und Heiligen oft als wertvoller Besitz angesehen.',
       vi: 'Búa Skullshatterer ban đầu được tạo ra để chống lại xác sống. Những cái búa còn lại thường được coi là tài sản quý giá của nhiều giáo sĩ và những sinh vật linh thiêng.',
-      es: 'Los martillos Skullshatterer fueron creados originalmente para combatir a los muertos vivientes. Los martillos que quedan a menudo son considerados posesiones preciadas por muchos clérigos y seres sagrados.'
+      es: 'Los martillos Skullshatterer fueron creados originalmente para combatir a los muertos vivientes. Los martillos que quedan a menudo son considerados posesiones preciadas por muchos clérigos y seres sagrados.',
+      it: 'I martelli Skullshatterer furono originariamente creati per combattere i non morti. I martelli che restano sono spesso considerati beni preziosi da molti chierici ed esseri sacri.'
     }
   },
 
@@ -164,7 +176,8 @@ export default [
       ru: 'Эти молоты известны тем, что они ломают поверхность наковальни в процессе ковки. Они редко создаются и, как правило, имеют существенную цену.',
       de: 'Diese Hämmer sind dafür bekannt, dass sie während des Schmiedeprozesses Ambossköpfe zerbrechen. Sie werden selten hergestellt und erzielen in der Regel einen hohen Preis.',
       vi: 'Những cái búa này được biết đến với việc phá vỡ đầu đe trong quá trình rèn. Chúng hiếm khi được tạo ra và thường có một mức giá đáng kể.',
-      es: 'Estos martillos son conocidos por romper cabezas de yunque durante el proceso de forja. Raramente se crean y generalmente alcanzan un precio considerable.'
+      es: 'Estos martillos son conocidos por romper cabezas de yunque durante el proceso de forja. Raramente se crean y generalmente alcanzan un precio considerable.',
+      it: 'Questi martelli sono noti per rompere le teste dell\'incudine durante il processo di forgiatura. Sono creati raramente e in genere richiedono un prezzo considerevole.'
     }
   },
 
@@ -177,7 +190,8 @@ export default [
       ru: 'Духовные мастера часто распространяют весть о своей духовности различными способами. Этот молот обладает способностью так или иначе дарить врагам дар мира.',
       de: 'Spirituelle Meister verbreiten oft die Botschaft ihrer Geistigkeit auf vielfältige Weise. Dieser Hammer hat die Kraft, Feinden das Geschenk des Friedens zu geben - auf die eine oder andere Weise.',
       vi: 'Các bậc thầy tâm linh thường truyền bá thông điệp về tâm linh của họ theo nhiều cách khác nhau. Cây búa này có sức mạnh ban tặng món quà hòa bình cho kẻ thù - bằng cách này hay cách khác.',
-      es: 'Los maestros espirituales a menudo difunden el mensaje de su espiritualidad de varias maneras. Este martillo tiene el poder de dar el regalo de la paz a los enemigos, de una forma u otra.'
+      es: 'Los maestros espirituales a menudo difunden el mensaje de su espiritualidad de varias maneras. Este martillo tiene el poder de dar el regalo de la paz a los enemigos, de una forma u otra.',
+      it: 'I maestri spirituali spesso diffondono il messaggio della loro spiritualità in vari modi. Questo martello ha il potere di dare il dono della pace ai nemici - in un modo o nell\'altro.'
     }
   },
 
@@ -190,7 +204,8 @@ export default [
       ru: 'Эти молоты принадлежали Титанам-повелителям и использовались ими после первоначального образования "Great Barrier". Эти титаны разрушили землю и некоторое время правили королевством.',
       de: 'Diese Hämmer wurden nach der ersten Errichtung der großen Barriere von titanischen Monsteroberherren besessen und benutzt. Diese Titanen zerstörten das Land und beherrschten die Reiche für eine bestimmte Zeit.',
       vi: 'Những chiếc búa này được sở hữu và sử dụng bởi các lãnh chúa quái vật titanic sau khi hình thành ban đầu của Great Barrier. Những người khổng lồ này đã phá hủy đất đai và cai trị các vương quốc trong một thời gian',
-      es: 'Estos martillos fueron poseídos y utilizados por los señores de los monstruos titánicos después de la formación inicial de la Gran Barrera. Estos titanes destruyeron la tierra y gobernaron los reinos por un tiempo.'
+      es: 'Estos martillos fueron poseídos y utilizados por los señores de los monstruos titánicos después de la formación inicial de la Gran Barrera. Estos titanes destruyeron la tierra y gobernaron los reinos por un tiempo.',
+      it: 'Questi martelli erano usati e di proprietà dei signori dei mostri titanici dopo la formazione iniziale della Grande Barriera. Questi titani distrussero la terra e governarono i regni per un po\'.'
     }
   },
 
@@ -203,7 +218,8 @@ export default [
       ru: 'По словам историков, этот молот, как говорят, однажды вызвал землетрясение, достаточно мощное, чтобы свергнуть город.',
       de: 'Nach Angaben von Historikern soll dieser Hammer einmal ein Erdbeben verursacht haben, das massiv genug war, um eine Stadt zu stürzen.',
       vi: 'Theo các nhà sử học, cây búa này được cho là đã từng gây ra một trận động đất đủ lớn để lật đổ một thành phố.',
-      es: 'Según los historiadores, se dice que este martillo causó un terremoto lo suficientemente grande como para derribar una ciudad.'
+      es: 'Según los historiadores, se dice que este martillo causó un terremoto lo suficientemente grande como para derribar una ciudad.',
+      it: 'Secondo gli storici, questo martello avrebbe causato una volta un terremoto abbastanza grande da rovesciare una città.'
     }
   },
 
@@ -216,7 +232,8 @@ export default [
       ru: 'Древняя легенда гласит, что странный молот упал через трещину "Great Barrie" в царства; молотки, подобные этому, просто не относятся к этому миру.',
       de: 'Eine alte Legende besagt, dass ein seltsamer Hammer durch eine Spalte der großen Barriere in die Reiche fiel. Solche Hämmer sind einfach nicht von dieser Welt.',
       vi: 'Một truyền thuyết cổ xưa cho rằng một cây búa kỳ lạ rơi qua khe nứt Great Barrier vào cõi âm; những cái búa như thế này đơn giản không phải của thế giới này',
-      es: 'Una antigua leyenda dice que un extraño martillo cayó a través de una fisura de la Gran Barrera en los reinos; martillos como este simplemente no son de este mundo.'
+      es: 'Una antigua leyenda dice que un extraño martillo cayó a través de una fisura de la Gran Barrera en los reinos; martillos como este simplemente no son de este mundo.',
+      it: 'Un\'antica leggenda afferma che uno strano martello cadde attraverso una fenditura della Grande Barriera nei regni; martelli come questo non sono semplicemente di questo mondo.'
     }
   }
 
