@@ -9,7 +9,8 @@ export default [
       ru: 'Это череп крысы - полезный инструмент для начинающих магов. Иногда маги экспериментируют с костями долгоживущих существ, чтобы создать фокусирующийся сосуд.',
       de: 'Dieser Rattenschädel ist ein nützliches Hilfsmittel für beginnende Magier. Magier experimentieren manchmal mit den Knochen von längst toten Kreaturen, um ein Fokussiergefäß zu erzeugen.',
       vi: 'Hộp sọ chuột này là một công cụ hữu ích cho các pháp sư tập sự. Các pháp sư đôi khi thử nghiệm trên xương của các sinh vật đã chết để tạo ra một lọ tập trung.',
-      es: 'Esta calavera de rata es una herramienta útil para los magos principiantes. Los magos a veces experimentan sobre huesos de criaturas muertas de hace mucho tiempo para producir un recipiente de enfoque.'
+      es: 'Esta calavera de rata es una herramienta útil para los magos principiantes. Los magos a veces experimentan sobre huesos de criaturas muertas de hace mucho tiempo para producir un recipiente de enfoque.',
+      it: 'Questo teschio di ratto è uno strumento utile per iniziare maghi. I maghi a volte sperimentano le ossa di creature morte da lungo tempo per produrre un vaso focalizzante.'
     }
   },
 
@@ -22,7 +23,8 @@ export default [
       ru: 'Эти сферы используются для различных магических задач. Это классический инструмент для волшебников.',
       de: 'Diese Kugeln werden für eine Vielzahl von magischen Aufgaben verwendet. Dies ist ein klassisches Hilfsmittel für magische Anwender.',
       vi: 'Những quả cầu này được sử dụng cho một loạt các tác vụ ma thuật. Đây là một thiết bị cổ điển cho người dùng ma thuật.',
-      es: 'Estos globos se utilizan para una variedad de tareas mágicas. Este es un dispositivo clásico para usuarios de magia.'
+      es: 'Estos globos se utilizan para una variedad de tareas mágicas. Este es un dispositivo clásico para usuarios de magia.',
+      it: 'Questi globi sono usati per una varietà di compiti magici. Questo è un dispositivo classico per utenti magici.'
     }
   },
 
@@ -35,7 +37,8 @@ export default [
       ru: 'Внутренняя магия этих камней позволяет мудрецам защитить себя во время охоты и других провидческих действий.',
       de: 'Die innere Magie dieser Steine erlaubt es Weisen, sich während des Scrying und anderer Seheraktivitäten zu schützen.',
       vi: 'Phép thuật bên trong của những viên đá này cho phép những người đàn ông khôn ngoan tự bảo vệ mình trong quá trình tiên tri và các hoạt động tiên kiến khác.',
-      es: 'La magia interna de estas piedras les permite a los sabios protegerse durante la observación y otras actividades videntes.'
+      es: 'La magia interna de estas piedras les permite a los sabios protegerse durante la observación y otras actividades videntes.',
+      it: 'La magia interna di queste pietre consente agli uomini saggi di proteggersi durante la chiaroveggenza e le altre attività dei veggenti.'
     }
   },
 
@@ -48,7 +51,8 @@ export default [
       ru: 'Слухи о бессмертии и трансмутации вдохновляли волшебников экспериментировать и создавать такие камни. Эти шары стали полезны для увеличения магической силы, несмотря на экспериментальные результаты, не соответствующие первоначальным намерениям.',
       de: 'Gerüchte über Unsterblichkeit und Transmutation inspirierten magische Benutzer zum Experimentieren und Gestalten solcher Steine. Diese Kugeln wurden zur Verstärkung der magischen Kraft verwendet, obwohl die experimentellen Ergebnisse nicht den ursprünglichen Absichten entsprachen.',
       vi: 'Tin đồn về sự bất tử và biến đổi đã truyền cảm hứng cho những người sử dụng phép thuật thử nghiệm và tạo ra những viên đá như thế này. Những quả cầu này trở nên hữu ích trong việc tăng sức mạnh ma thuật mặc dù kết quả thử nghiệm không đạt được mục đích ban đầu.',
-      es: 'Los rumores sobre la inmortalidad y la transmutación inspiraron a los usuarios de magia a experimentar y crear piedras como esta. Estos orbes se volvieron útiles para aumentar el poder mágico a pesar de que los resultados experimentales no alcanzaron las intenciones originales.'
+      es: 'Los rumores sobre la inmortalidad y la transmutación inspiraron a los usuarios de magia a experimentar y crear piedras como esta. Estos orbes se volvieron útiles para aumentar el poder mágico a pesar de que los resultados experimentales no alcanzaron las intenciones originales.',
+      it: 'Le voci sull\'immortalità e la trasmutazione hanno ispirato gli utenti di magia a sperimentare e creare pietre come questa. Queste sfere sono diventate utili per aumentare il potere magico nonostante i risultati sperimentali non siano stati all\'altezza delle intenzioni originali.'
     }
   },
 
@@ -61,7 +65,8 @@ export default [
       ru: 'Это фантастический магический компонент, который легко очаровывает. Такие удобные предметы, как этот, часто имеют врожденные силы и часто встречаются в товарах у торговцев.',
       de: 'Dies ist eine fantastische magische Komponente, die leicht zu verzaubern ist. Nützliche Gegenstände wie diese haben oft natürliche Kräfte und sind häufig in Handelssendungen zwischen Händlern zu finden.',
       vi: 'Đây là một thành phần ma thuật tuyệt vời mà dễ dàng bị phù phép. Các mặt hàng tiện dụng như thế này thường đi kèm với sức mạnh bẩm sinh và thường có thể được tìm thấy trong các lô hàng thương mại giữa các thương nhân.',
-      es: 'Este es un componente mágico fantástico que se encanta fácilmente. Los artículos útiles como este a menudo vienen con poderes innatos y con frecuencia se pueden encontrar en envíos comerciales entre comerciantes.'
+      es: 'Este es un componente mágico fantástico que se encanta fácilmente. Los artículos útiles como este a menudo vienen con poderes innatos y con frecuencia se pueden encontrar en envíos comerciales entre comerciantes.',
+      it: 'Questa è una fantastica componente magica che è facilmente incantata. Oggetti utili come questo spesso hanno poteri innati e spesso si trovano nelle spedizioni commerciali tra mercanti.'
     }
   },
 
@@ -74,7 +79,8 @@ export default [
       ru: 'Этот мощный магический объект часто используется для управления стихией и внушает страх в сердцах врагов. Nüwa\'s, легендарный волшебник из фракции монстров, создал множество подобных предметов.',
       de: 'Dieses mächtige magische Gegenstand wird oft verwendet, um die Elemente zu kontrollieren und Angst in den Herzen der Feinde zu wecken. Nüwa, ein legendärer magischer Benutzer aus einer Monsterfraktion, fertigte viele solcher Gegenstände an.',
       vi: 'Vật thể ma thuật mạnh mẽ này thường được sử dụng để kiểm soát các yếu tố và truyền cảm hứng sợ hãi trong trái tim của kẻ thù. Nüwa, một người sử dụng phép thuật huyền thoại từ một nhóm quái vật, đã tạo ra nhiều vật thể như thế này',
-      es: 'Este poderoso objeto mágico se usa a menudo para controlar los elementos e inspirar miedo en los corazones de los enemigos. Nüwa, un legendario usuario de magia de una facción de monstruos, hizo muchos objetos como este.'
+      es: 'Este poderoso objeto mágico se usa a menudo para controlar los elementos e inspirar miedo en los corazones de los enemigos. Nüwa, un legendario usuario de magia de una facción de monstruos, hizo muchos objetos como este.',
+      it: 'Questo potente oggetto magico viene spesso utilizzato per controllare gli elementi e ispirare la paura nel cuore dei nemici. Nüwa, un leggendario utente magico di una fazione mostruosa, realizzò molti oggetti come questo.'
     }
   },
 
@@ -87,7 +93,8 @@ export default [
       ru: 'Подобные объекты были созданы из метеоритов и использовались как священные символы. Хотя они больше не используются в качестве священных символов, Baetylus\'s Eyes излучают значительную магическую силу.',
       de: 'Solche Gegenstände wurden aus Meteoriten erschaffen und als heilige Symbole missbraucht. Obwohl sie nicht mehr als heilige Symbole verwendet werden, strahlen Baetylus Augen eine enorme magische Kraft aus.',
       vi: 'Những vật thể như thế này được tạo ra từ thiên thạch và bị lạm dụng làm biểu tượng thánh. Mặc dù chúng không còn được sử dụng làm biểu tượng thánh, Baetylus’s Eyes tỏa ra sức mạnh ma thuật đáng kể.',
-      es: 'Objetos como este fueron creados a partir de meteoritos y mal utilizados como símbolos sagrados. Aunque ya no se usan como símbolos sagrados, los Baetylus’s Eyes irradian un poder mágico sustancial.'
+      es: 'Objetos como este fueron creados a partir de meteoritos y mal utilizados como símbolos sagrados. Aunque ya no se usan como símbolos sagrados, los Baetylus’s Eyes irradian un poder mágico sustancial.',
+      it: 'Oggetti come questo sono stati creati da meteoriti e abusati come simboli sacri. Sebbene non siano più usati come simboli sacri, gli Occhi di Baetylus irradiano un notevole potere magico.'
     }
   },
 
@@ -100,7 +107,8 @@ export default [
       ru: 'Benben Камни были установлены на вершине пирамид древней, мертвой расы. Камни впитали в себя тысячелетнюю солнечную энергию, которая, как говорят, была подарком солнечного божества.',
       de: 'Benben Steine wurden auf die Pyramiden einer alten, toten Spezies gelegt. Die Steine absorbierten Tausende von Jahren Sonnenenergie, die als Geschenk einer Sonnengottheit galt.',
       vi: 'Benben Stones được đặt trên đỉnh các kim tự tháp của một chủng tộc cổ xưa, đã chết. Những viên đá hấp thụ hàng ngàn năm năng lượng mặt trời, được cho là một món quà từ một vị thần mặt trời.',
-      es: 'Las Benben Stones se colocaron encima de las pirámides de una antigua raza muerta. Las piedras absorbieron miles de años de energía solar, que se decía que era un regalo de una deidad solar.'
+      es: 'Las Benben Stones se colocaron encima de las pirámides de una antigua raza muerta. Las piedras absorbieron miles de años de energía solar, que se decía que era un regalo de una deidad solar.',
+      it: 'Le pietre di Benben furono poste in cima alle piramidi di un\'antica razza morta. Le pietre hanno assorbito energia solare per migliaia di anni, che si diceva fosse un dono di una divinità solare.'
     }
   },
 
@@ -113,7 +121,8 @@ export default [
       ru: 'Древние змеиные камни, подобные этому, были найдены на забытых алтарях внутри древних руин. Ученые говорят, что камни, вероятно, использовались для поклонения божеству змеи, но тексты, найденные в руинах, еще не были успешно переведены.',
       de: 'Solche alten Schlangensteine wurden auf längst vergessenen Altären in alten Ruinen gefunden. Wissenschaftler sagen, dass die Steine wahrscheinlich bei der Anbetung einer Schlangengottheit verwendet wurden. Die in den Ruinen gefundenen Texte sind jedoch noch nicht vollständig übersetzt worden.',
       vi: 'Những viên đá rắn cổ như thế này được tìm thấy trên những bàn thờ bị lãng quên bên trong những tàn tích cổ đại. Các học giả nói rằng những viên đá có thể được sử dụng để thờ một vị thần rắn, nhưng các văn bản tìm thấy trong đống đổ nát vẫn chưa được dịch thành công.',
-      es: 'Las piedras de serpiente antiguas como esta se encontraron en altares olvidados dentro de ruinas antiguas. Los estudiosos dicen que las piedras probablemente se usaron para adorar a una deidad serpiente, pero los textos encontrados en las ruinas aún no se han traducido con éxito.'
+      es: 'Las piedras de serpiente antiguas como esta se encontraron en altares olvidados dentro de ruinas antiguas. Los estudiosos dicen que las piedras probablemente se usaron para adorar a una deidad serpiente, pero los textos encontrados en las ruinas aún no se han traducido con éxito.',
+      it: 'Antiche pietre di serpente come questa sono state trovate su altari dimenticati all\'interno di antiche rovine. Gli studiosi affermano che le pietre furono probabilmente utilizzate per adorare una divinità serpente, ma i testi trovati nelle rovine non sono stati ancora tradotti con successo.'
     }
   },
 
@@ -126,7 +135,8 @@ export default [
       ru: 'Филактерия лича содержит душу могущественного существа-нежити. Старые филактерии обладают мощным завораживающим действием для защиты владельца и души, содержащейся в них.',
       de: 'Die Pflanzenzucht eines Lichs enthält die Seele einer mächtigen untoten Kreatur. Ältere Pflanzenarten haben mächtige Verzauberungen, um den Träger und die darin enthaltene Seele zu schützen.',
       vi: 'Một hộp đựng kinh của lich chứa linh hồn của một sinh vật bất tử mạnh mẽ. Các hộp đựng kinh cũ đi kèm với phù phép mạnh mẽ để bảo vệ người mang - và linh hồn chứa đựng bên trong.',
-      es: 'La filacteria del Lich contiene el alma de una poderosa criatura no muerta. Las filacterias más antiguas tienen encantamientos poderosos para proteger al usuario, y al alma que contiene.'
+      es: 'La filacteria del Lich contiene el alma de una poderosa criatura no muerta. Las filacterias más antiguas tienen encantamientos poderosos para proteger al usuario, y al alma que contiene.',
+      it: 'Il filatterio di un lich contiene l\'anima di una potente creatura non morta. I filatteri più vecchi sono dotati di potenti incantesimi per proteggere chi lo indossa e l\'anima contenuta all\'interno.'
     }
   }
 ]
