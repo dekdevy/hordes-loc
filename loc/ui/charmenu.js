@@ -20,7 +20,8 @@ export default {
       bn: 'চরিত্র বাছাই করুন',
       vi: 'Lựa chọn nhân vật',
       cs: 'Vyber postavu',
-      sr: 'Odaberi igrača'
+      sr: 'Odaberi igrača',
+      it: 'Seleziona il personaggio'
     },
 
     create: {
@@ -41,7 +42,8 @@ export default {
       bn: 'চরিত্র তৈরি করতে ক্লিক করুন',
       vi: 'Nhấn để tạo nhân vật',
       cs: 'Klikni zde pro vytvoření postavy',
-      sr: 'Klikni da kreiraš igrača'
+      sr: 'Klikni da kreiraš igrača',
+      it: 'Clicca per creare il personaggio'
     },
 
     enterWorld: {
@@ -62,7 +64,8 @@ export default {
       bn: 'প্রবেশ করুন',
       vi: 'Tiến vào Thế giới',
       cs: 'Vstoupit do světa',
-      sr: 'Uđi u svet'
+      sr: 'Uđi u svet',
+      it: 'Entra nel mondo'
     },
 
     emptySlot: {
@@ -83,7 +86,8 @@ export default {
       bn: 'খালি',
       vi: 'Trống',
       cs: 'Prázdný slot',
-      sr: 'Prazno'
+      sr: 'Prazno',
+      it: 'vuoto'
     },
 
     error: {
@@ -104,7 +108,8 @@ export default {
       bn: 'নেটওয়ার্কে সমস্যা',
       vi: 'Lỗi kết nối mạng',
       cs: 'Network Error',
-      sr: 'Greška pri konekciji'
+      sr: 'Greška pri konekciji',
+      it: 'Errore di rete'
     }
   },
 
@@ -128,7 +133,8 @@ export default {
       bn: 'চরিত্র নির্মাণ',
       vi: 'Tạo nhân vật',
       cs: 'Vytváření postavy',
-      sr: 'Kreiranje igrača'
+      sr: 'Kreiranje igrača',
+      it: 'Creazione del personaggio'
     },
 
     pressIcon: {
@@ -149,7 +155,8 @@ export default {
       bn: 'সংক্ষিপ্ত বিবরণের জন্য ছবিতে ক্লিক করুন।',
       vi: 'Nhấn biểu tượng để xem mô tả ngắn gọn.',
       cs: 'Klikni na ikonu pro stručný popis.',
-      sr: 'Pritisni na ikonu za kratak opis.'
+      sr: 'Pritisni na ikonu za kratak opis.',
+      it: 'Premi un\'icona per una breve descrizione.'
     },
 
     selectClass: {
@@ -170,7 +177,8 @@ export default {
       bn: 'শ্রেণী বাছাই করুন',
       vi: 'Lựa chọn Lớp nhân vật',
       cs: 'Zvolit povolání',
-      sr: 'Odaberi klasu'
+      sr: 'Odaberi klasu',
+      it: 'Seleziona una Classe'
     },
 
     selectFaction: {
@@ -191,7 +199,8 @@ export default {
       bn: 'দল বাছাই করুন',
       vi: 'Lựa chọn phe phái',
       cs: 'Zvolit frakci',
-      sr: 'Odaberi fakciju'
+      sr: 'Odaberi fakciju',
+      it: 'Seleziona una Fazione'
     },
 
     enterName: {
@@ -212,7 +221,8 @@ export default {
       bn: 'নাম লিখুন',
       vi: 'Nhập tên',
       cs: 'Zadej jméno',
-      sr: 'Unesi jedno ime'
+      sr: 'Unesi jedno ime',
+      it: 'Inserisci un nome'
     },
 
     nameReq: {
@@ -232,7 +242,8 @@ export default {
       bn: 'আপনার বাছাই করা নামে শুধু a-Z অক্ষর এবং 0-9 সংখ্যা ব্যবহার করা যাবে, কোনো স্পেস ছাড়া 3 থেকে 16  অক্ষরের মাঝে লিখতে হবে।',
       vi: 'Tên của bạn chỉ chứ các ký tự từ a-z, và số từ 0-9, không bao gồm khoảng trắng. Độ dài từ 3 đến 16 kí tự.',
       cs: 'Tvoje jméno může obsahovat pouze znaky a-Z a číslice 0-9, bez meze. Jméno musí být v rozsahu 3 až 16 písmen.',
-      sr: 'Ime sme samo da ima slova od a do Z, i brojeve od 0 do 9, bez razmaka. Ime može sadržati između 3 i 16 karaktera.'
+      sr: 'Ime sme samo da ima slova od a do Z, i brojeve od 0 do 9, bez razmaka. Ime može sadržati između 3 i 16 karaktera.',
+      it: 'Il tuo nome può contenere solo caratteri a-Z, e numeri 0-9, senza spazi. Tra 3 e 16 caratteri'
     }
   },
 
@@ -257,7 +268,8 @@ export default {
       bn: 'মুছে ফেলুন',
       vi: 'Xóa',
       cs: 'Smazat',
-      sr: 'Izbrisati'
+      sr: 'Izbrisati',
+      it: 'Rimuovi'
     },
 
     info: {
@@ -278,7 +290,8 @@ export default {
       bn: 'মুছে ফেলতে, চরিত্রের নামটি টাইপ করুন। আপনার মুছে ফেলা চরিত্রটি পুনরুদ্ধার করা সম্ভব না।',
       vi: 'Để xóa, gõ tên nhân vật. Nhân vật của bạn không thể phục hồi.',
       cs: 'Pro smazaní napiš jméno tvé postavy. Tvoje postava již nemůže být obnovena.',
-      sr: 'Da izbrišeš igrača, unesi njegove ime. Igrač neće moći biti vraćen.'
+      sr: 'Da izbrišeš igrača, unesi njegove ime. Igrač neće moći biti vraćen.',
+      it: 'Per cancellare, digita il nome del personaggio. Il tuo personaggio non può essere ripristinato.'
     },
 
     placeholder: {
@@ -299,7 +312,8 @@ export default {
       bn: 'আপনি কি নিশ্চিত?',
       vi: 'Bạn có chắc chứ?',
       cs: 'Jsi si jistý?',
-      sr: 'Da li si siguran?'
+      sr: 'Da li si siguran?',
+      it: 'Sei sicuro?'
     }
   }
 }
