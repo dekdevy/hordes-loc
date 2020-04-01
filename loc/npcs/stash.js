@@ -12,7 +12,8 @@ export default {
       es: 'Sí, Soy un cofre parlante, ya puedo ver la pregunta formándose en tus labios. Durante muchos años he servido a familias reales, almacenando sus gemas y joyas incalculables, solo para que me coloquen en este sucio campamento para atender sus pequeñas necesidades. De todos modos, ¿quieres que te ofrezca mis servicios?',
       de: 'Ich kann die Frage schon auf deinen Lippen sehen: Ja, ich bin eine sprechende Kiste. Für viele Jahre habe ich königlichen Familien gedient, ihre unbezahlbaren Juwelen und Edelsteine aufbewahrt, nur um jetzt in diesem furchtbaren Lager zu landen und deine niederen Bedürfnisse zu erfüllen. Egal, möchtest du meine Dienste in Anspruch nehmen?',
       pl: 'Tak, jestem gadającą skrzynią, już widzę pytania formujące się na twoich ustach. Od wielu lat służę rodzinom królewskim, przechowując ich bezcenne klejnoty i drogocenności, tylko po to, żeby umieścić mnie w tym brudnym obozowisku bym zaspokajała twoje śmieszne potrzeby. Cóż, czy chciałbyś abym zaoferowała ci moje usługi?',
-      bn: 'হ্যাঁ, আমি কথা বলা বাক্স, আমি ইতিমধ্যে আপনার ঠোঁটে থাকা প্রশ্নটি দেখতে পাচ্ছি। আমি বহু বছর রাজপরিবারের সেবা করেছি, তাদের অমূল্য রত্ন ও জহরত সংরক্ষণ করেছি, কেবলমাত্র নিজেদের ক্ষুদ্র প্রয়োজনগুলি পূরণ করার জন্য আমাকে এই নোংরা শিবিরে রাখা হয়েছে। যাইহোক, আপনি কি চান আমি আপনাকে আমার পরিষেবাগুলি অফার করি?'
+      bn: 'হ্যাঁ, আমি কথা বলা বাক্স, আমি ইতিমধ্যে আপনার ঠোঁটে থাকা প্রশ্নটি দেখতে পাচ্ছি। আমি বহু বছর রাজপরিবারের সেবা করেছি, তাদের অমূল্য রত্ন ও জহরত সংরক্ষণ করেছি, কেবলমাত্র নিজেদের ক্ষুদ্র প্রয়োজনগুলি পূরণ করার জন্য আমাকে এই নোংরা শিবিরে রাখা হয়েছে। যাইহোক, আপনি কি চান আমি আপনাকে আমার পরিষেবাগুলি অফার করি?',
+      it: 'Sì, sono una cassa parlante, posso già vedere la domanda formarsi sulle tue labbra. Per molti anni ho servito famiglie reali, conservando le loro inestimabili gemme e gioielli, solo per me essere collocato in questo sudicio campeggio per soddisfare le vostre esigenze meschine. Ad ogni modo, vorresti che ti offrissi i miei servizi?'
     },
 
     // Do not translate "Stash".
@@ -28,7 +29,8 @@ export default {
       ro: 'Da, deschide-mi Stash.',
       hu: 'Rendben, tárd elém a Stasht.',
       pl: 'Tak, otwórz mój Stash.',
-      bn: 'হ্যাঁ, আমার Stash খুলুন'
+      bn: 'হ্যাঁ, আমার Stash খুলুন',
+      it: 'Sì, apri il mio Stash.'
     }]
   }]
 }
