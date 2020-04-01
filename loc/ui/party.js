@@ -20,7 +20,8 @@ export default {
     hu: 'Party meghívás',
     pl: 'Zaproszenie do party',
     vi: 'Lời mời Party',
-    sr: 'Pozivnica za party'
+    sr: 'Pozivnica za party',
+    it: 'Invito al party.'
   },
 
   // DO NOT translate "Party"
@@ -40,7 +41,8 @@ export default {
     hu: 'Kirúgás a Partydból',
     pl: 'Wyrzucenie z Party',
     vi: 'Đá ra khỏi Party',
-    sr: 'Izbacivanje iz party-ja'
+    sr: 'Izbacivanje iz party-ja',
+    it: 'Cacciare dal party'
   },
 
   // DO NOT translate "Party"
@@ -60,7 +62,8 @@ export default {
     hu: 'Party Elhagyása',
     pl: 'Opuść Party',
     vi: 'Rời khỏi Party',
-    sr: 'Napusti party'
+    sr: 'Napusti party',
+    it: 'Lasciare il party'
   },
 
   // DO NOT translate "Party"
@@ -80,7 +83,8 @@ export default {
     hu: 'Party Alapítása',
     pl: 'Stwórz Party',
     vi: 'Tạo Party',
-    sr: 'Kreiraj party'
+    sr: 'Kreiraj party',
+    it: 'Creare il party'
   },
 
   // DO NOT translate "Party"
@@ -100,7 +104,8 @@ export default {
     hu: '$1 meghívott a Partyjába.',
     pl: '$1 zaprosił cię do Party.',
     vi: '$1 đã mời bạn vào Party của họ',
-    sr: '$1 te je pozvao/la da se pridružiš party-ju.'
+    sr: '$1 te je pozvao/la da se pridružiš party-ju.',
+    it: '$1 ti ha inviato ad entrare nel suo party.'
   },
 
   link: {
@@ -118,7 +123,8 @@ export default {
     hu: 'Partymeghívó link',
     pl: 'Link do zaproszenia',
     vi: 'Liên kết mời',
-    sr: 'Pozivnica'
+    sr: 'Pozivnica',
+    it: 'Link di invito'
   },
 
   // DO NOT translate "Party"
@@ -137,7 +143,8 @@ export default {
     hu: 'Küldd el ezt más játékosoknak, hogy beléphessenek a Partydba.',
     pl: 'Wyślij ten link do innych graczy! Pozwoli im to na dołączenie do twojego Party.',
     vi: 'Gửi kết nối đến người khác! Điều này cho phép bạn vào Party của bạn',
-    sr: 'Pošalji ovaj link ostalim igračima! To će im omugućiti da se pridruže tvom party-ju.'
+    sr: 'Pošalji ovaj link ostalim igračima! To će im omugućiti da se pridruže tvom party-ju.',
+    it: 'Invia questo link ad altri giocatori! Ciò consentirà loro di unirsi al tuo Party.'
   },
 
   copyLink: {
@@ -159,7 +166,8 @@ export default {
     hu: 'Másold a vágólapra',
     pl: 'Kopiuj do schowka',
     vi: 'Sao chép vào bảng tạm',
-    sr: 'Kopiraj u prviremenu memoriju'
+    sr: 'Kopiraj u prviremenu memoriju',
+    it: 'Copia negli appunti'
   },
 
   summon: {
@@ -172,7 +180,8 @@ export default {
     de: 'Beschwören',
     pl: 'Przyzwij',
     vi: 'Triệu hồi',
-    sr: 'Prizovi'
+    sr: 'Prizovi',
+    it: 'Evoca'
   },
 
   onSummon: {
@@ -186,7 +195,8 @@ export default {
     fr: '$1 vous propose de vous invoquer à leur emplacement.',
     pl: '$1 chce przyzwać cię do swojej lokacji.',
     vi: '$1 đang triệu hồi bạn đế vị trí của họ.',
-    sr: '$1 nudi da te prizove na njegovu/njenu lokaciju.'
+    sr: '$1 nudi da te prizove na njegovu/njenu lokaciju.',
+    it: '$1 si offre di evocarti nella loro posizione.'
   },
 
   // Do not translate "Assistant".
@@ -201,7 +211,8 @@ export default {
     fr: 'Promouvoir Assistant',
     pl: 'Promuj na Assistant.',
     vi: 'Thăng chức lên Assistant',
-    sr: 'Unapredi u Assistant-a'
+    sr: 'Unapredi u Assistant-a',
+    it: 'Promuovi ad Assistant'
   },
 
   // Do not translate "Leader".
@@ -216,7 +227,8 @@ export default {
     fr: 'Promouvoir Leader',
     pl: 'Promuj na Leader',
     vi: 'Thăng chức lên Leader',
-    sr: 'Unapredi u Leader-a'
+    sr: 'Unapredi u Leader-a',
+    it: 'Promuovi a Leader'
   },
 
   // Do not translate"Assistant".
@@ -231,7 +243,8 @@ export default {
     fr: 'Rétrograder Assistant',
     pl: 'Degraduj na Assistant',
     vi: 'Giáng chức xuống Assitant',
-    sr: 'Unazadi Assistant-a'
+    sr: 'Unazadi Assistant-a',
+    it: 'Retrocesso ad Assistant'
   },
 
   startQueue: {
@@ -244,7 +257,8 @@ export default {
     es: 'Entrar a la Cola',
     pl: 'Kolejkuj',
     vi: 'Hàng đợi',
-    sr: 'Red'
+    sr: 'Red',
+    it: 'Coda'
   },
 
   stopQueue: {
@@ -257,6 +271,7 @@ export default {
     es: 'Salir de la Cola',
     pl: 'Opuść kolejkowanie',
     vi: 'Rời hàng đợi',
-    sr: 'Napusti red'
+    sr: 'Napusti red',
+    it: 'Esci dalla Coda'
   }
 }
