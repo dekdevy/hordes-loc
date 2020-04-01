@@ -17,7 +17,8 @@ export default {
     pl: 'OK',
     bn: 'ঠিক আছে',
     vi: 'Đồng ý',
-    sr: 'Okej'
+    sr: 'Okej',
+    it: 'Ok'
   },
 
   back: {
@@ -37,7 +38,8 @@ export default {
     pl: 'Cofnij',
     bn: 'আগে',
     vi: 'Trở về',
-    sr: 'Nazad'
+    sr: 'Nazad',
+    it: 'Indietro'
   },
 
   accept: {
@@ -57,7 +59,8 @@ export default {
     pl: 'Akceptuj',
     bn: 'গ্রায্য',
     vi: 'Chấp nhận',
-    sr: 'Prihvati'
+    sr: 'Prihvati',
+    it: 'Accetta'
   },
 
   cancel: {
@@ -77,7 +80,8 @@ export default {
     pl: 'Anuluj',
     bn: 'বাতিল',
     vi: 'Hủy bỏ',
-    sr: 'Otkaži'
+    sr: 'Otkaži',
+    it: 'Annullare'
   },
 
   decline: {
@@ -97,7 +101,8 @@ export default {
     pl: 'Anuluj',
     bn: 'অগ্রায্য',
     vi: 'Từ chối',
-    sr: 'Odbij'
+    sr: 'Odbij',
+    it: 'Declina'
   },
 
   close: {
@@ -117,6 +122,7 @@ export default {
     pl: 'Zamknij',
     bn: 'বন্ধ',
     vi: 'Đóng',
-    sr: 'Zatvori'
+    sr: 'Zatvori',
+    it: 'Chiudi'
   }
 }
