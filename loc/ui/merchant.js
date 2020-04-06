@@ -15,7 +15,8 @@ export default {
     hu: 'Keresés',
     pl: 'Szukaj',
     vi: 'Tìm kiếm',
-    sr: 'Pretraga'
+    sr: 'Pretraga',
+    it: 'Cerca'
   },
 
   filtermine: {
@@ -33,7 +34,8 @@ export default {
     hu: 'Csak az én tárgyaim',
     pl: 'Tylko moje przedmioty',
     vi: 'Chỉ trang bị của tôi',
-    sr: 'Samo moji predmeti'
+    sr: 'Samo moji predmeti',
+    it: 'Solo i miei oggetti'
   },
 
   buy: {
@@ -50,7 +52,8 @@ export default {
     zh: '买装备',
     hu: 'Vásárlás',
     pl: 'Kup przedmiot',
-    vi: 'Kupi'
+    vi: 'Kupi',
+    it: 'Compra Oggetto'
   },
 
   post: {
@@ -68,7 +71,8 @@ export default {
     hu: 'Áruba bocsátás',
     pl: 'Wystaw przedmiot',
     vi: 'Đăng vật phẩm',
-    sr: 'Postavi predmet'
+    sr: 'Postavi predmet',
+    it: 'Pubblica oggetto'
   },
 
   delist: {
@@ -85,7 +89,8 @@ export default {
     hu: 'Tárgy visszavétele',
     pl: 'Usuń przedmiot',
     vi: 'Xóa vật phẩm khỏi danh sách',
-    sr: 'Skloni predmet'
+    sr: 'Skloni predmet',
+    it: 'Ritira l\'oggetto'
   },
 
   // Include the space and punctuation
@@ -104,7 +109,8 @@ export default {
     hu: 'Ár: ',
     pl: 'Cena: ',
     vi: 'Giá: ',
-    sr: 'Cena: '
+    sr: 'Cena: ',
+    it: 'Prezzo: '
   },
 
   // Include the space and punctuation
@@ -123,7 +129,8 @@ export default {
     hu: 'Költség: ',
     pl: 'Koszt: ',
     vi: 'Phí',
-    sr: 'Taksa:  '
+    sr: 'Taksa:  ',
+    it: 'Tassa: '
   },
 
   dragitem: {
@@ -140,7 +147,8 @@ export default {
     hu: 'Húzd a tárgyat az ablakba',
     pl: 'Przenieś przedmiot w slot',
     vi: 'Kéo thả vật phẩm vào ô',
-    sr: 'Prevuci predmet u slot'
+    sr: 'Prevuci predmet u slot',
+    it: 'Trascina l\'oggetto nello slot'
   },
 
   auctionpost: {
@@ -158,7 +166,8 @@ export default {
     hu: 'Eladásra bocsátottad: $1',
     pl: 'Wystawiono $1 na sprzedaż',
     vi: 'Bạn vừa đăng $1 để bán.',
-    sr: 'Postavio si $1 na prodaju.'
+    sr: 'Postavio si $1 na prodaju.',
+    it: 'Hai pubblicato $1 in vendita'
   },
 
   // Do not translate "Stash".
@@ -176,7 +185,8 @@ export default {
     hu: 'A tárgyat nem vásárolták meg, és a Stash fiókodba került.',
     pl: 'Przedmiot usunięty i wysłany do Stash',
     vi: 'Vật phẩm được gỡ khỏi danh sách và gửi vào Hòm đồ',
-    sr: 'Predmet je sklonjen i stavljen u tvoj Stash.'
+    sr: 'Predmet je sklonjen i stavljen u tvoj Stash.',
+    it: 'Oggeto rimosso e inviato nel tuo Stash'
   },
 
   // Do not translate "Stash".
@@ -194,7 +204,8 @@ export default {
     hu: 'A tárgyat megvásárolták $1 áron, ami a Stash fiókodba került.',
     pl: 'Przemiot kupiono za $1 i wysłano do twojego Stash',
     vi: 'Vật phẩm đã mua cho $1 và gửi vào Hòm đồ',
-    sr: 'Predmet je kupljen po ceni od $1 i stavljen je u tvoj Stash.'
+    sr: 'Predmet je kupljen po ceni od $1 i stavljen je u tvoj Stash.',
+    it: 'Oggetto comprato per $1 e inviato nel tuo Stash'
   },
 
   sell: {
@@ -211,6 +222,7 @@ export default {
     hu: 'Eladtad: $1, $2 áron.',
     pl: 'Sprzedano $1 za $2.',
     vi: 'Bạn đã bán $1 được $2',
-    sr: 'Prodao si $1 za $2'
+    sr: 'Prodao si $1 za $2',
+    it: 'Hai venduto $1 per $2'
   }
 }

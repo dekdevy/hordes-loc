@@ -15,7 +15,8 @@ export default {
       hu: 'Üdvözlöm! Itt találja a legjobb árukat a környéken! Ennél jobb üzletet sehol nem fog látni a világon, bár úgy halottam, hogy létezik egy nagyon különleges bazár olyan tárgyakkal, amilyeneket én még soha nem láttam. De addig is, nálam találsz egy kevés tartalék árut. Szeretnél bármit is eladni?',
       pl: 'Witamy wśród najlepszych towarów w okolicy! Nie znajdziesz lepszej oferty niż to, co mam dla ciebie; dochodzą mnie słuchy, że istnieje specjalny sklep z fantastycznymi przedmiotami, niepodobnymi do niczego, co kiedykolwiek widziałem na oczy. Tymczasem mam trochę monet i towarów na zbyciu. Czy chciałbyś coś sprzedać?',
       bn: 'এখানাকার সেরা পণ্যের জন্য আপনাকে স্বাগতম! আপনার সাথে আমি যেই চুক্তি করছি তা আর কোথাও খুঁজে পাবেন না; যাইহোক, আমি শুনেছি যে এমন একটি বিশেষ দোকান রয়েছে যেখানে এমন চমৎকার উপকরণ রয়েছে যা কিনা আমি এখন পর্যন্ত যা দেখেছি তার কোনটির মতই না। ইতিমধ্যে, আমার কাছে কিছু অতিরিক্ত কয়েন এবং অতিরিক্ত উপকরণ রয়েছে। আপনি কিছু বিক্রি করতে চান?',
-      vi: 'Chào mừng đến với hàng hóa tốt nhất gần đây! Bạn sẽ không tìm thấy một thỏa thuận tốt hơn những gì tôi có cho bạn; tuy nhiên, tôi nghe nói rằng có một cửa hàng đặc biệt với các mặt hàng tuyệt vời không giống như bất cứ thứ gì tôi đã từng thấy. Trong khi đó, tôi có một số tiền và hàng dự phòng. Bạn có muốn bán gì không?'
+      vi: 'Chào mừng đến với hàng hóa tốt nhất gần đây! Bạn sẽ không tìm thấy một thỏa thuận tốt hơn những gì tôi có cho bạn; tuy nhiên, tôi nghe nói rằng có một cửa hàng đặc biệt với các mặt hàng tuyệt vời không giống như bất cứ thứ gì tôi đã từng thấy. Trong khi đó, tôi có một số tiền và hàng dự phòng. Bạn có muốn bán gì không?',
+      it: 'Benvenuto nel miglior negozio di prodotti in circolazione! Non troverai un affare migliore di quello che ho per te; tuttavia, ho sentito che esiste un negozio speciale con articoli fantastici a differenza di qualsiasi cosa io abbia mai visto. Nel frattempo, ho delle monete e dei pezzi di ricambio. Vuoi vendere qualcosa?'
     },
 
     choices: [{
@@ -29,7 +30,8 @@ export default {
       de: 'Zeig mir deine Waren.',
       pl: 'Pokaż mi swoje towary.',
       bn: 'আপনার দ্রব্যসামগ্রী আমাকে দেখান।',
-      vi: 'Cho tôi xem gian hàng của bạn.'
+      vi: 'Cho tôi xem gian hàng của bạn.',
+      it: 'Mostrami le tue merci.'
     }]
   }],
 
@@ -48,7 +50,8 @@ export default {
     hu: 'Itt add el az árudat.',
     pl: 'Sprzedaj swoje przedmioty.',
     bn: 'আপনার আইটেম বিক্রয় করুন',
-    vi: 'Bán vật phẩm của bạn.'
+    vi: 'Bán vật phẩm của bạn.',
+    it: 'Vendi i tuoi articoli.'
   },
 
   info: {
@@ -67,7 +70,8 @@ export default {
     hu: 'Hogy eladj egy tárgyat, shift + jobbkattints rá, vagy húzd ide a Trader ablakba.',
     pl: 'Aby sprzedać przedmiot, kliknij shift+prawy przycisk myszy na przedmiot lub przenieś przedmiot na okienko kupcy.',
     bn: 'আইটেম বিক্রি করতে রাইট বাটনে ক্লিক করুন অথবা আইটেমটিকে ট্রেডারের উইন্ডোতে টেনে আনুন।',
-    vi: 'Để bán vật phẩm, nhấn shift-chuột phải hoặc kéo thả vào cửa sổ giao dịch.'
+    vi: 'Để bán vật phẩm, nhấn shift-chuột phải hoặc kéo thả vào cửa sổ giao dịch.',
+    it: 'Per vendere un oggetto, fai clic con il tasto destro del mouse o trascinalo nella finestra del commerciante.'
   },
 
   // Include punctuation and space.
@@ -87,7 +91,8 @@ export default {
     hu: 'Eladási ár: ',
     pl: 'Cena sprzedaży: ',
     bn: 'বিক্রয় মূল্য: ',
-    vi: 'Giá bán: '
+    vi: 'Giá bán: ',
+    it: 'Prezzo di vendita: '
   },
 
   buy: {
@@ -105,6 +110,7 @@ export default {
     hu: 'Látsz valamit, amit érdekesnek találsz? Kattints egy tárgyra hogy megvásárold.',
     pl: 'Jesteś czymś zainteresowany? Kliknij na przedmiot aby go kupić.',
     bn: 'আপনি কি কিছু কিনতে আগ্রহী? কোনো আইটেম কিনতে চাইলে তাতে ক্লিক করুন।',
-    vi: 'Bạn có hứng thú với cái gì không? Nhấn vào vật phẩm để mua nó.'
+    vi: 'Bạn có hứng thú với cái gì không? Nhấn vào vật phẩm để mua nó.',
+    it: 'Sei interessato a qualcosa? Fai clic su un articolo per acquistarlo.'
   }
 }

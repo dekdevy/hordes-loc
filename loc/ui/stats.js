@@ -15,9 +15,10 @@ export default {
       tr: 'Hasar',
       hu: 'Sebzés',
       zh: '傷害',
-      de: 'Schaden'
+      de: 'Schaden',
       // pl: 'Obrażenia'
       // vi: 'Sát thương'
+      it: 'Danno'
     }
   },
 
@@ -34,7 +35,8 @@ export default {
       zh: '力量',
       de: 'Stärke',
       pl: 'Siła',
-      vi: 'Sức mạnh'
+      vi: 'Sức mạnh',
+      it: 'Forza'
     },
 
     {
@@ -48,7 +50,8 @@ export default {
       zh: '耐力',
       pl: 'Stamina',
       de: 'Ausdauer',
-      vi: 'Thể lực'
+      vi: 'Thể lực',
+      it: 'Resistenza'
     },
 
     {
@@ -62,7 +65,8 @@ export default {
       zh: '靈巧',
       de: 'Geschick',
       pl: 'Zręczność',
-      vi: 'Nhanh nhẹn'
+      vi: 'Nhanh nhẹn',
+      it: 'Destrezza'
     },
 
     {
@@ -76,7 +80,8 @@ export default {
       zh: '智力',
       de: 'Intelligenz',
       pl: 'Inteligencja',
-      vi: 'Thông minh'
+      vi: 'Thông minh',
+      it: 'Intelligenza'
     },
 
     {
@@ -89,8 +94,9 @@ export default {
       hu: 'Bölcs.',
       zh: '智慧',
       de: 'Weisheit',
-      pl: 'Mądrość'
+      pl: 'Mądrość',
       // vi: 'Thông thái'
+      it: 'Saggezza'
     },
 
     {
@@ -103,8 +109,9 @@ export default {
       hu: 'Esély',
       zh: '運氣',
       de: 'Glück',
-      vi: 'May mắn'
+      vi: 'May mắn',
       // pl: 'Szczęście'
+      it: 'Fortuna'
     },
 
     {
@@ -133,8 +140,9 @@ export default {
       hu: 'Min. Sebz.',
       zh: '最少傷害',
       pl: 'Min. Obr.',
-      de: 'Min. Schaden'
+      de: 'Min. Schaden',
       // vi: 'Sát thương nhỏ nhất'
+      it: 'Danno Min'
     },
 
     {
@@ -147,8 +155,9 @@ export default {
       hu: 'Max. Sebz.',
       zh: '最大傷害',
       pl: 'Max. Obr.',
-      de: 'Max. Schaden'
+      de: 'Max. Schaden',
       // vi: 'Sát thương lớn nhất'
+      it: 'Danno Max'
     },
 
     {
@@ -162,7 +171,8 @@ export default {
       zh: '防禦',
       de: 'Abwehr',
       pl: 'Obrona',
-      vi: 'Phòng thủ'
+      vi: 'Phòng thủ',
+      it: 'Difesa'
     },
 
     {
@@ -176,7 +186,8 @@ export default {
       pl: 'Blok',
       de: 'Blocken',
       es: 'Bloqueo',
-      vi: 'Đỡ đòn'
+      vi: 'Đỡ đòn',
+      it: 'Blocco'
     },
 
     {
@@ -190,7 +201,8 @@ export default {
       zh: '危急',
       de: 'Kritisch',
       pl: 'Krytyczne',
-      vi: 'Chí mạng'
+      vi: 'Chí mạng',
+      it: 'Critico'
     },
 
     {
@@ -200,10 +212,11 @@ export default {
       es: 'Vel. Mov.',
       pt: 'Velocidade',
       hu: 'Mozgás',
-      zh: '移動速度'
+      zh: '移動速度',
       // pl: 'Prędkość ruchu',
       // vi: 'Tốc độ di chuyển',
       // de: 'Bewegungstempo'
+      it: 'Velocità'
     },
 
     {
@@ -217,7 +230,8 @@ export default {
       zh: '匆忙',
       de: 'Tempo',
       pl: 'Szybkość',
-      vi: 'Mau lẹ'
+      vi: 'Mau lẹ',
+      it: 'Rapidità'
     },
 
     {
@@ -230,7 +244,8 @@ export default {
       zh: '攻擊速度',
       pl: 'Szybkość ataku',
       vi: 'Tốc độ đánh',
-      de: 'Angriffstempo'
+      de: 'Angriffstempo',
+      it: 'Velocità Att.'
     },
 
     {
@@ -241,9 +256,10 @@ export default {
       pt: 'Enctr. Item',
       hu: 'Tárgylelés',
       zh: '裝備查找',
-      de: 'Item-Suche'
+      de: 'Item-Suche',
       // pl: 'Wyszukiwanie przedmiotu',
       // vi: 'Tỉ lệ tìm vật phẩm'
+      it: 'Ritrovamento'
     },
 
     {
@@ -255,8 +271,9 @@ export default {
       zh: '袋槽',
       pl: 'Miejsce w ekw.',
       de: 'Taschenplätze',
-      vi: 'Ô túi'
+      vi: 'Ô túi',
       // es: 'Espacios de inventario'
+      it: 'Slots Zaino'
     },
 
     {
@@ -268,8 +285,9 @@ export default {
       pt: 'Fama',
       hu: 'Hírnév',
       zh: '聲譽',
-      pl: 'Sława'
+      pl: 'Sława',
       // vi: 'Danh vọng'
+      it: 'Fama'
     },
 
     {
@@ -286,8 +304,9 @@ export default {
       hu: 'Stat Pntk',
       zh: '屬性點',
       de: 'Stat-Punkte',
-      vi: 'Điểm tiềm năng'
+      vi: 'Điểm tiềm năng',
       // pl: 'Punkty Statystyk'
+      it: 'Punti stat'
     },
 
     {
@@ -300,7 +319,8 @@ export default {
       zh: '技能點',
       de: 'Skill-Punkte',
       pl: 'Punkty Umiej.',
-      vi: 'Điểm kỹ năng'
+      vi: 'Điểm kỹ năng',
+      it: 'Punti Skill'
     },
 
     {
@@ -312,7 +332,8 @@ export default {
       hu: '% Megnövelt Sebz.',
       zh: '%傷害增加',
       de: '% erhöhten Schaden',
-      vi: '% Tăng sát thương'
+      vi: '% Tăng sát thương',
+      it: '% Danno Incrementato'
       // pl: '% Zwiększone obrażenia'
     },
 
@@ -326,7 +347,8 @@ export default {
       zh: '%增加挑衅',
       pl: '% Zwiększone generowanie aggro.',
       de: '% erhöht Aggro Generierung',
-      vi: '% Tăng hồi Aggro'
+      vi: '% Tăng hồi Aggro',
+      it: '% Generazione Aggro Incrementato'
     },
 
     {
@@ -338,7 +360,8 @@ export default {
       hu: '% Mozgási Seb. Csökkentés',
       zh: '%移動速度降低',
       pl: '% Redukcja prędkości ruchu',
-      vi: '% Giảm tốc độ di chuyển'
+      vi: '% Giảm tốc độ di chuyển',
+      it: '% Riduzione Velocità'
       // de: '% verminderte Laufgeschwindigkeit'
     },
 
@@ -349,7 +372,8 @@ export default {
       ru: 'Снижение восст. HP',
       es: 'Reducción de cura',
       fr: 'Réduction de soin',
-      vi: 'Giảm hồi máu'
+      vi: 'Giảm hồi máu',
+      it: 'Riduzione Cure'
       // pl: 'Ograniczenie leczenia'
     }
   ]

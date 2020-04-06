@@ -16,7 +16,8 @@ export default {
     hu: 'Hátizsák',
     pl: 'Ekwipunek',
     vi: 'Hành trang',
-    sr: 'Inventar'
+    sr: 'Inventar',
+    it: 'Inventario'
   },
 
   pick: {
@@ -34,7 +35,8 @@ export default {
     hu: 'Fölvetted: $1',
     pl: 'Podniesiono $1.',
     vi: 'Bạn nhặt được $1.',
-    sr: 'Pokupio si $1.'
+    sr: 'Pokupio si $1.',
+    it: 'Hai raccolto $1.'
   },
 
   throw: {
@@ -52,7 +54,8 @@ export default {
     zh: '你丢了$1。',
     hu: 'Eldobtad: $1',
     pl: 'Wyrzucono: $1.',
-    vi: 'Bạn đã vứt đi $1.'
+    vi: 'Bạn đã vứt đi $1.',
+    it: 'Hai gettato via $1.'
   },
 
   full: {
@@ -69,7 +72,8 @@ export default {
     zh: '你的库存满了。',
     hu: 'A hátizsákod tele van.',
     pl: 'Twój ekwipunek jest pełen.',
-    vi: 'Hành trang của bạn đã đầy'
+    vi: 'Hành trang của bạn đã đầy',
+    it: "Il tuo inventario è pieno."
   },
 
   sell: {
@@ -86,7 +90,8 @@ export default {
     zh: '你卖了 $1。',
     hu: 'Eladtad: $1',
     pl: 'Sprzedano $1.',
-    vi: 'Bạn đã bán $1.'
+    vi: 'Bạn đã bán $1.',
+    it: 'Hai venduto $1.'
   },
 
   receive: {
@@ -103,7 +108,8 @@ export default {
     zh: '你收到 $1。',
     hu: 'Kaptál: $1',
     pl: 'Otrzymano $1.',
-    vi: 'Bạn vừa nhận được $1.'
+    vi: 'Bạn vừa nhận được $1.',
+    it: 'Hai ricevuto $1.'
   },
 
   drop: {
@@ -121,7 +127,8 @@ export default {
     zh: '丢装备',
     hu: 'Tárgy eldobása',
     pl: 'Wyrzuć przedmiot',
-    vi: 'Vứt vật phẩm'
+    vi: 'Vứt vật phẩm',
+    it: 'Rilascia l\'oggetto'
   },
 
   equip: {
@@ -138,7 +145,8 @@ export default {
     zh: '上装备',
     hu: 'Felfegyverkezés',
     pl: 'Wyposaż przedmiot',
-    vi: 'Trang bị vật phẩm'
+    vi: 'Trang bị vật phẩm',
+    it: 'Equipaggia l\'oggetto'
   },
 
   use: {
@@ -156,7 +164,8 @@ export default {
     zh: '用物品',
     hu: 'Használat',
     pl: 'Użyj przedmiot',
-    vi: 'Sử dụng vật phẩm'
+    vi: 'Sử dụng vật phẩm',
+    it: 'Usa l\'oggetto'
   },
 
   splithalf: {
@@ -168,7 +177,8 @@ export default {
     de: 'Stapel teilen',
     es: 'Partir a la mitad',
     pl: 'Rozdziel na pół',
-    vi: 'Chia đôi'
+    vi: 'Chia đôi',
+    it: 'Dividi a metà'
   },
 
   splitone: {
@@ -180,7 +190,8 @@ export default {
     de: 'Aufteilen',
     es: 'Separar uno',
     pl: 'Wydziel jeden',
-    vi: 'Tách làm một'
+    vi: 'Tách làm một',
+    it: 'Dividine uno'
   },
 
   spend: {
@@ -198,7 +209,8 @@ export default {
     zh: '你花了$1。',
     hu: 'Elköltöttél $1',
     pl: 'Wydano $1.',
-    vi: 'Bạn đã dành $1'
+    vi: 'Bạn đã dành $1',
+    it: 'Hai speso $1'
   },
 
   death: {
@@ -216,7 +228,8 @@ export default {
     zh: '你死了，掉了 $1。',
     hu: 'Meghaltál és elvesztetted: $1',
     pl: 'Podczas śmierci stracono $1.',
-    vi: 'Bạn đã chết và mất $1'
+    vi: 'Bạn đã chết và mất $1',
+    it: 'Sei morto e hai perso $1'
   },
 
   bindlevel: [

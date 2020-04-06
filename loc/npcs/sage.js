@@ -9,7 +9,8 @@ export default {
       fr: 'Les esprits accablés sont remplis d\'opinions en abondance; une coupe peut être très utile si elle est d\'abord trouvée vide. Comment puis-je vous aider sur votre chemin vers l\'illumination?',
       pl: 'Zamyślone umysły pełne są opinii; kubek może być bardzo przydatny gdy początkowo będzie pusty. Jak mogę ci pomóc na drodze do oświecenia?',
       bn: 'খাঁটি মনের অন্তহীন সম্ভবনা থাকে; খালি পেয়ালা কেবল তখনই ব্যবহার করা যায় যখন তা সম্পূর্ণ খালি থাকে। আপনাকে আলোকিত পথের অভিমুখে যেতে আমি কিভাবে সাহায্য করতে পারি?',
-      vi: 'Tâm trí thuần khiết có những khả năng vô tận; Một cốc rỗng chỉ có thể được sử dụng khi nó hoàn toàn trống rỗng. Làm thế nào tôi có thể giúp bạn đi đến con đường giác ngộ?'
+      vi: 'Tâm trí thuần khiết có những khả năng vô tận; Một cốc rỗng chỉ có thể được sử dụng khi nó hoàn toàn trống rỗng. Làm thế nào tôi có thể giúp bạn đi đến con đường giác ngộ?',
+      it: 'Le menti oppresse sono piene di opinioni in abbondanza; una tazza può essere molto utile se prima viene trovata vuota. Come posso aiutarti nel tuo cammino verso l\'illuminazione?'
     },
 
     choices: [{
@@ -23,7 +24,8 @@ export default {
       de: 'Setze meine Stat-Punkte zurück. ( $g$1 ).',
       pl: 'Zresetuj moje statystyki ( $g$1 ).',
       bn: 'আমার চরিত্রগত পয়েন্ট রিসেট করুন ( $g$1 )',
-      vi: 'Cài đặt lại điểm tiềm năng ( $g$1 ).'
+      vi: 'Cài đặt lại điểm tiềm năng ( $g$1 ).',
+      it: 'Ripristina i miei punti status ( $g$1 )'
     }]
   }]
 }

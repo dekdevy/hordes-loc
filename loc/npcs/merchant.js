@@ -16,7 +16,8 @@ export default {
       hu: 'Lám kit látnak szemeim! Nem, az a felszerelés nem lesz elég jó, vagy mégis? Vess egy pillantást erre a vásárra! A pletykák terjednek; Hallottam egy ilyen Warcry Scrolls nevezetű tárgyról, ami az egyik barátodat hozzád tudja teleportálni. Ez maradjon a mi kis titkunk rendben?',
       pl: 'Zobacz, cóż my tutaj mamy! Nie, ten sprzęt nie nada się, prawda? Spójrz na otwarty rynek! Plotki się rozprzestrzeniają; Słyszałem o Warcry Scrolls, które mogą teleportować sojuszników do ciebie. Ale niech to zostanie między nami, dobrze?',
       bn: 'আচ্ছা, দেখুন আমাদের এখানে কি আছে! না, ওই সরঞ্জামগুলি দিয়ে কিছু হবে না, তাই না? খোলা বাজারে একবার দেখুন! গুজব ছড়াচ্ছে;আমি Warcry Scrolls এর কথা শুনেছি যা আপনার একজন বন্ধুকে আপনার অবস্থানে টেলিপোর্ট করতে পারে। আসুন এটা আমাদের মধ্যেই রাখি, ঠিক আছে?',
-      vi: 'Này, hãy nhìn chúng ta có gì ở đây! Không, trang bị đó không phải như vậy, phải không? Hãy nhìn vào chợ! Tin đồn đang lan rộng; Tôi đã nghe nói về Warcry Scrolls có thể dịch chuyển tức thời một người bạn đến vị trí của bạn. Hãy giữ điều này cho chúng ta, được chứ.'
+      vi: 'Này, hãy nhìn chúng ta có gì ở đây! Không, trang bị đó không phải như vậy, phải không? Hãy nhìn vào chợ! Tin đồn đang lan rộng; Tôi đã nghe nói về Warcry Scrolls có thể dịch chuyển tức thời một người bạn đến vị trí của bạn. Hãy giữ điều này cho chúng ta, được chứ.',
+      it: 'Bene, guarda cosa abbiamo qui! No, quell\'attrezzatura non lo farà, vero? Dai un\'occhiata al mercato aperto! Le voci si stanno diffondendo; Ho sentito di Warcry Scrolls che può teletrasportare un amico nella tua posizione. Teniamolo tra di noi, ok?'
     },
 
     choices: [{
@@ -35,7 +36,8 @@ export default {
       hu: 'Igen, mutassa meg a portékáit.',
       pl: 'Tak, pokaż mi przedmioty na sprzedaż.',
       bn: 'হ্যাঁ, আমাকে বিক্রয়ের জন্য আইটেমগুলি প্রদর্শন করুন।',
-      vi: 'Vâng, hãy cho tôi xem vật phẩm được bán'
+      vi: 'Vâng, hãy cho tôi xem vật phẩm được bán',
+      it: 'Si, mostrami gli articoli in vendita.'
     }]
   }]
 }
