@@ -11,7 +11,7 @@ export default [
     name       : {$$: 'Hardened Egg'},
     description: {
       en: 'Fossilized monster eggs are often interpreted as symbols of longevity. However, no written records of these creatures exist beyond recent times.',
-      Ru: 'Окаменевшие яйца монстров часто интерпретируются как символы долголетия. Однако письменных записей об этих существах больше не существует.'
+      ru: 'Окаменевшие яйца монстров часто интерпретируются как символы долголетия. Однако письменных записей об этих существах больше не существует.'
     }
   },
   {
