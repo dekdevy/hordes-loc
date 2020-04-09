@@ -73,7 +73,7 @@ export default {
     hu: 'A hátizsákod tele van.',
     pl: 'Twój ekwipunek jest pełen.',
     vi: 'Hành trang của bạn đã đầy',
-    it: "Il tuo inventario è pieno."
+    it: 'Il tuo inventario è pieno'
   },
 
   sell: {
