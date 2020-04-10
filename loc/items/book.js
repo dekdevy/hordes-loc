@@ -242,7 +242,7 @@ export default [{
   name: {$$: 'Taunt'},
 
   description: {
-    en: 'Taunt surrounding enemies, forcing them to target and move towards you for a brief moment. Interrupts spell casts and resets aggro for all monsters.'
+    en: 'Taunt surrounding enemies, forcing them to move towards you for a brief moment. Interrupts spell casts and resets aggro for all monsters.'
   }
 },
 {
