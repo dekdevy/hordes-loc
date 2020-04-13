@@ -76,7 +76,7 @@ export default {
     it: 'Il tuo inventario è pieno'
   },
 
-  sell: {
+  sold: {
     en: 'You have sold $1.',
     nl: 'U heeft verkocht $1.',
     es: 'Has vendido $1.',
@@ -166,6 +166,10 @@ export default {
     pl: 'Użyj przedmiot',
     vi: 'Sử dụng vật phẩm',
     it: 'Usa l\'oggetto'
+  },
+
+  sell: {
+    en: 'Sell item'
   },
 
   splithalf: {
