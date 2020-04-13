@@ -53,7 +53,7 @@ export default {
 
   // Do not translate "Stash".
   stash: {
-    en: 'Move to Stash',
+    en: 'Stash item',
     de: 'In Stash verschieben',
     ru: 'Положить в Stash',
     pt: 'Mover para o baú',
