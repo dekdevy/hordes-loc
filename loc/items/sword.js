@@ -8,6 +8,7 @@ export default [
       pl: 'Miecze te są często wykonane z żelaznej kory, aby przetrwać dłużej niż zwykłe drewno.',
       vi: 'Những thanh kiếm này thường được làm bằng sắt để tồn tại lâu hơn gỗ thông thường.',
       it: 'Queste spade sono spesso realizzate con la corteccia di ferro per durare più a lungo del normale legno.'
+      sr: 'Ови мачеви су често направљени од гвоздене коре да би трајали дуже од обичног дрвета.',
     }
   },
 
@@ -20,6 +21,7 @@ export default [
       pl: 'Miecze takie jak ten widziały wiele bitew i zwykle są przekazywane od wojownika do ucznia.',
       vi: 'Những thanh kiếm như thế này đã chứng kiến nhiều trận chiến và thường được truyền lại từ một chiến binh cho người học việc.',
       it: 'Spade come questa hanno visto molte battaglie e in genere vengono tramandate da un guerriero a un apprendista.'
+      sr: 'Мачеви попут ових, видели су многе битке и обично се предају од ратника до шегрта.',
     }
   },
 
@@ -32,6 +34,7 @@ export default [
       pl: 'To godna broń, którą posługują się trolle i ich plemiona. Trolle często atakują sąsiednie terytoria, aby poszerzyć swoje tereny lub zmusić najeźdźców do odwrotu.',
       vi: 'Đây là một vũ khí xứng đáng được sử dụng bởi các trolls và bộ lạc của họ. Trolls thường tấn công các lãnh thổ lân cận để mở rộng cuộc xâm lược của chính chúng hoặc buộc quân xâm lược trở lại.',
       it: 'Questa è un\'arma degna bandita dai troll e dalle loro tribù. I troll attaccano spesso i territori vicini per espandere i propri o respingere gli invasori.'
+      sr: 'Ово је достојно оружје којим се располажу тролови и њихова племена. Тролови често нападају суседне територије како би проширили своје или како би присилили окупаторе',
     }
   },
 
