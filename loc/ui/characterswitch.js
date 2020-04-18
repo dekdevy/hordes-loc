@@ -20,7 +20,7 @@ export default {
     bn: 'লগ আউট',
     vi: 'Đăng xuất',
     cs: 'Odhlásit se',
-    sr: 'Odjavi se',
+    sr: 'Одјави се',
     it: 'Disconnetti'
   },
 
@@ -43,7 +43,7 @@ export default {
     bn: 'মূল স্ক্রীন',
     vi: 'Trang chủ',
     cs: 'Domů',
-    sr: 'Početna',
+    sr: 'Почетна',
     it: 'Inizio'
   }
 }
