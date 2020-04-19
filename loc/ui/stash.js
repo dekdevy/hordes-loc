@@ -15,7 +15,7 @@ export default {
     hu: 'Várnod kell még hogy visszaszerezhesd ezt a tárgyat.',
     pl: 'Musisz poczekać zanim podniesiesz ten przedmiot.',
     vi: 'Bạn phải đợi cho đến khi bạn có thể lấy lại vật phẩm này.',
-    sr: 'Moraš sačekati pre nego što možeš preuzeti ovaj predmet.',
+    sr: 'Мораш сачекати пре него што можеш преузети овај предмет.',
     it: 'Devi aspettare fino a quando non puoi recuperare questo elemento.'
   },
 
@@ -35,7 +35,7 @@ export default {
     hu: 'Pénz Kivétele',
     pl: 'Podejmij',
     vi: 'Rút tiền',
-    sr: 'Povlačenje novca',
+    sr: 'Повлачење новца',
     it: 'Preleva'
   },
 
@@ -47,7 +47,7 @@ export default {
     de: 'Einzahlen',
     fr: 'Déposer',
     vi: 'Gửi tiền',
-    sr: 'Uplati',
+    sr: 'Уплати',
     it: 'Deposita'
   },
 
@@ -67,7 +67,7 @@ export default {
     hu: 'Stash küldés',
     pl: 'Przenieś do Stash',
     vi: 'Di chuyển vào Stash',
-    sr: 'Stavi u Stash',
+    sr: 'Стави у Stash',
     it: 'Invia allo Stash'
   },
 
@@ -87,7 +87,7 @@ export default {
     hu: 'A Stash fiókodba került: $1',
     pl: '$1 został przeniesiony do Stash',
     vi: '$1 đã được đưa ra khỏi Stash.',
-    sr: '$1 je stavljen u tvoj Stash.',
+    sr: '$1 је стављен у твој Stash.',
     it: '$1 è stato spostato nel tuo Stash'
   }
 
