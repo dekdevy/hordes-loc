@@ -19,6 +19,7 @@ export default {
       // pl: 'Obrażenia'
       // vi: 'Sát thương'
       it: 'Danno'
+      sr: 'Штета',
     }
   },
 
@@ -37,6 +38,7 @@ export default {
       pl: 'Siła',
       vi: 'Sức mạnh',
       it: 'Forza'
+      sr: 'Снага',
     },
 
     {
@@ -52,6 +54,7 @@ export default {
       de: 'Ausdauer',
       vi: 'Thể lực',
       it: 'Resistenza'
+      sr: 'Стамина',
     },
 
     {
@@ -67,6 +70,7 @@ export default {
       pl: 'Zręczność',
       vi: 'Nhanh nhẹn',
       it: 'Destrezza'
+      sr: 'Спретност',
     },
 
     {
@@ -82,6 +86,7 @@ export default {
       pl: 'Inteligencja',
       vi: 'Thông minh',
       it: 'Intelligenza'
+      sr: 'Интелигенција',
     },
 
     {
@@ -97,6 +102,7 @@ export default {
       pl: 'Mądrość',
       // vi: 'Thông thái'
       it: 'Saggezza'
+      sr: 'Мудрост',
     },
 
     {
@@ -112,6 +118,7 @@ export default {
       vi: 'May mắn',
       // pl: 'Szczęście'
       it: 'Fortuna'
+      sr: 'Срећа',
     },
 
     {
@@ -143,6 +150,7 @@ export default {
       de: 'Min. Schaden',
       // vi: 'Sát thương nhỏ nhất'
       it: 'Danno Min'
+      sr: 'Min. штета',
     },
 
     {
@@ -158,6 +166,7 @@ export default {
       de: 'Max. Schaden',
       // vi: 'Sát thương lớn nhất'
       it: 'Danno Max'
+      sr: 'Max. штета',
     },
 
     {
@@ -173,6 +182,7 @@ export default {
       pl: 'Obrona',
       vi: 'Phòng thủ',
       it: 'Difesa'
+      sr: 'Одбрана',
     },
 
     {
@@ -188,6 +198,7 @@ export default {
       es: 'Bloqueo',
       vi: 'Đỡ đòn',
       it: 'Blocco'
+      sr: 'Блок',
     },
 
     {
@@ -203,6 +214,7 @@ export default {
       pl: 'Krytyczne',
       vi: 'Chí mạng',
       it: 'Critico'
+      sr: 'Критичан',
     },
 
     {
@@ -217,6 +229,7 @@ export default {
       // vi: 'Tốc độ di chuyển',
       // de: 'Bewegungstempo'
       it: 'Velocità'
+      sr: 'Брз. крет.',
     },
 
     {
@@ -232,6 +245,7 @@ export default {
       pl: 'Szybkość',
       vi: 'Mau lẹ',
       it: 'Rapidità'
+      sr: 'Журба',
     },
 
     {
@@ -246,6 +260,7 @@ export default {
       vi: 'Tốc độ đánh',
       de: 'Angriffstempo',
       it: 'Velocità Att.'
+      sr: 'Брз. напада',
     },
 
     {
@@ -260,6 +275,7 @@ export default {
       // pl: 'Wyszukiwanie przedmiotu',
       // vi: 'Tỉ lệ tìm vật phẩm'
       it: 'Ritrovamento'
+      sr: 'Прон. пред.',
     },
 
     {
@@ -274,6 +290,7 @@ export default {
       vi: 'Ô túi',
       // es: 'Espacios de inventario'
       it: 'Slots Zaino'
+      r: 'Места у тор.',
     },
 
     {
@@ -288,6 +305,7 @@ export default {
       pl: 'Sława',
       // vi: 'Danh vọng'
       it: 'Fama'
+      sr: 'Слава'
     },
 
     {
@@ -307,6 +325,7 @@ export default {
       vi: 'Điểm tiềm năng',
       // pl: 'Punkty Statystyk'
       it: 'Punti stat'
+      sr: 'Поени за стат.'
     },
 
     {
@@ -321,6 +340,7 @@ export default {
       pl: 'Punkty Umiej.',
       vi: 'Điểm kỹ năng',
       it: 'Punti Skill'
+      sr: 'Поени за веш.',
     },
 
     {
@@ -334,6 +354,7 @@ export default {
       de: '% erhöhten Schaden',
       vi: '% Tăng sát thương',
       it: '% Danno Incrementato'
+      sr: '% Повећања штете',
       // pl: '% Zwiększone obrażenia'
     },
 
@@ -349,6 +370,7 @@ export default {
       de: '% erhöht Aggro Generierung',
       vi: '% Tăng hồi Aggro',
       it: '% Generazione Aggro Incrementato'
+      sr: '% Повећања агресије',
     },
 
     {
@@ -363,6 +385,7 @@ export default {
       vi: '% Giảm tốc độ di chuyển',
       it: '% Riduzione Velocità'
       // de: '% verminderte Laufgeschwindigkeit'
+      sr: '% Смањења брз. кретања',
     },
 
     {
@@ -375,6 +398,7 @@ export default {
       vi: 'Giảm hồi máu',
       it: 'Riduzione Cure'
       // pl: 'Ograniczenie leczenia'
+      sr: 'Умањење лечења',
     }
   ]
 }
