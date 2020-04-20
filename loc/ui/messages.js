@@ -10,7 +10,7 @@ export default {
     pl: '$1 dołączył do twojego klanu.',
     vi: '$1 đã vào Bang.',
     zh: '$1 加入了你的公會。',
-    sr: '$1 se pridružio tvom klanu.',
+    sr: '$1 се придружио твом клану.',
     it: '$1 è entrato nel tuo clan.'
   },
   clanMemberInvite: {
@@ -24,7 +24,7 @@ export default {
     pl: 'Wysłano zaproszenie do klanu do $1.',
     vi: 'Lời mời vào bang đã được gửi đến $1.',
     zh: '公會邀請發送至 $1。',
-    sr: 'Pozivnica za klan je poslata $1.',
+    sr: 'Позивница за клан је послата $1.',
     it: 'Un invito al clan è stato inviato a $1.'
   },
   clanMemberLeave: {
@@ -38,7 +38,7 @@ export default {
     pl: '$1 opuścił twój klan.',
     vi: '$1 đã rời khỏi Bang.',
     zh: '$1 離開了你的公會。',
-    sr: '$1 je napustio tvoj klan.',
+    sr: '$1 је напустио твој клан.',
     it: '$1 è uscito dal tuo clan.'
   },
   clanMemberApply: {
@@ -52,7 +52,7 @@ export default {
     pl: '$1 aplikował aby dołączyć do twojego klanu.',
     vi: '$1 đã chấp nhận vào Bang của bạn.',
     zh: '$1 申請加入你的公會。',
-    sr: '$1 želi da se pridruži tvom klanu. ',
+    sr: '$1 жели да се придружи твом клану.',
     it: '$1 ha fatto domanda per unirsi al clan.'
   },
   clanMemberRolePromote: {
@@ -66,7 +66,7 @@ export default {
     pl: '$1 otrzymał awans w klanie.',
     vi: '$1 đã được thăng chức.',
     zh: '$1 公會角色被提升。',
-    sr: 'Klan role od $1 je unapređen.',
+    sr: 'Клан роле од $1 је унапређен.',
     it: '$1 è stato promosso nel ruolo di clan.'
   },
   clanMemberRoleDemote: {
@@ -81,6 +81,7 @@ export default {
     vi: '$1 đã bị giáng chức.',
     zh: '$1 公會角色被降級。',
     it: '$1 è stato degradato a ruolo di clan.'
+    sr: 'Клан роле од $1 је демотиран.'
   },
   clanKickOther: {
     en: '$1 was kicked from your clan.',
@@ -93,7 +94,7 @@ export default {
     pl: 'Wyrzucono $1 z klanu.',
     vi: '$1 đã bị đá ra khỏi Bang.',
     zh: '$1 被公會踢出了。',
-    sr: '$1 je izbačen iz tvog klana.',
+    sr: '$1 је избачен из твог клана.',
     it: '$1 è stato cacciato dal tuo clan.'
   },
   clanKickYou: {
@@ -107,7 +108,7 @@ export default {
     pl: 'Wyrzucono cię z klanu.',
     vi: 'Bạn đã bị đá ra khỏi Bang.',
     zh: '你被公會踢出了。',
-    sr: 'Izbačen si iz svog klana.',
+    sr: 'Избачен си из свог клана.',
     it: 'Sei stato cacciato dal tuo clan.'
   },
   partyMemberInvite: { // Do not translate "party".
