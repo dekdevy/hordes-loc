@@ -81,7 +81,7 @@ export default {
     vi: '$1 đã bị giáng chức.',
     zh: '$1 公會角色被降級。',
     it: '$1 è stato degradato a ruolo di clan.'
-    sr: 'Клан роле од $1 је демотиран.',
+    sr: 'Клан роле од $1 је демотиран.'
   },
   clanKickOther: {
     en: '$1 was kicked from your clan.',
