@@ -19,7 +19,7 @@ export default {
       // pl: 'Obrażenia'
       // vi: 'Sát thương'
       it: 'Danno',
-      sr: 'Штета',
+      sr: 'Штета'
     }
   },
 
@@ -38,7 +38,7 @@ export default {
       pl: 'Siła',
       vi: 'Sức mạnh',
       it: 'Forza',
-      sr: 'Снага',
+      sr: 'Снага'
     },
 
     {
@@ -54,7 +54,7 @@ export default {
       de: 'Ausdauer',
       vi: 'Thể lực',
       it: 'Resistenza',
-      sr: 'Стамина',
+      sr: 'Стамина'
     },
 
     {
@@ -70,7 +70,7 @@ export default {
       pl: 'Zręczność',
       vi: 'Nhanh nhẹn',
       it: 'Destrezza',
-      sr: 'Спретност',
+      sr: 'Спретност'
     },
 
     {
@@ -86,7 +86,7 @@ export default {
       pl: 'Inteligencja',
       vi: 'Thông minh',
       it: 'Intelligenza',
-      sr: 'Интелигенција',
+      sr: 'Интелигенција'
     },
 
     {
@@ -102,7 +102,7 @@ export default {
       pl: 'Mądrość',
       // vi: 'Thông thái'
       it: 'Saggezza',
-      sr: 'Мудрост',
+      sr: 'Мудрост'
     },
 
     {
@@ -118,7 +118,7 @@ export default {
       vi: 'May mắn',
       // pl: 'Szczęście'
       it: 'Fortuna',
-      sr: 'Срећа',
+      sr: 'Срећа'
     },
 
     {
@@ -150,7 +150,7 @@ export default {
       de: 'Min. Schaden',
       // vi: 'Sát thương nhỏ nhất'
       it: 'Danno Min',
-      sr: 'Min. штета',
+      sr: 'Min. штета'
     },
 
     {
@@ -166,7 +166,7 @@ export default {
       de: 'Max. Schaden',
       // vi: 'Sát thương lớn nhất'
       it: 'Danno Max',
-      sr: 'Max. штета',
+      sr: 'Max. штета'
     },
 
     {
@@ -182,7 +182,7 @@ export default {
       pl: 'Obrona',
       vi: 'Phòng thủ',
       it: 'Difesa',
-      sr: 'Одбрана',
+      sr: 'Одбрана'
     },
 
     {
@@ -198,7 +198,7 @@ export default {
       es: 'Bloqueo',
       vi: 'Đỡ đòn',
       it: 'Blocco',
-      sr: 'Блок',
+      sr: 'Блок'
     },
 
     {
@@ -214,7 +214,7 @@ export default {
       pl: 'Krytyczne',
       vi: 'Chí mạng',
       it: 'Critico',
-      sr: 'Критичан',
+      sr: 'Критичан'
     },
 
     {
@@ -229,7 +229,7 @@ export default {
       // vi: 'Tốc độ di chuyển',
       // de: 'Bewegungstempo'
       it: 'Velocità',
-      sr: 'Брз. крет.',
+      sr: 'Брз. крет.'
     },
 
     {
@@ -245,7 +245,7 @@ export default {
       pl: 'Szybkość',
       vi: 'Mau lẹ',
       it: 'Rapidità',
-      sr: 'Журба',
+      sr: 'Журба'
     },
 
     {
@@ -260,7 +260,7 @@ export default {
       vi: 'Tốc độ đánh',
       de: 'Angriffstempo',
       it: 'Velocità Att.',
-      sr: 'Брз. напада',
+      sr: 'Брз. напада'
     },
 
     {
@@ -273,9 +273,9 @@ export default {
       zh: '裝備查找',
       de: 'Item-Suche',
       // pl: 'Wyszukiwanie przedmiotu',
-      // vi: 'Tỉ lệ tìm vật phẩm'
+      // vi: 'Tỉ lệ tìm vật phẩm',
       it: 'Ritrovamento',
-      sr: 'Прон. пред.',
+      sr: 'Прон. пред.'
     },
 
     {
@@ -288,9 +288,9 @@ export default {
       pl: 'Miejsce w ekw.',
       de: 'Taschenplätze',
       vi: 'Ô túi',
-      // es: 'Espacios de inventario'
+      // es: 'Espacios de inventario',
       it: 'Slots Zaino',
-      r: 'Места у тор.',
+      r: 'Места у тор.'
     },
 
     {
@@ -303,7 +303,7 @@ export default {
       hu: 'Hírnév',
       zh: '聲譽',
       pl: 'Sława',
-      // vi: 'Danh vọng'
+      // vi: 'Danh vọng',
       it: 'Fama',
       sr: 'Слава'
     },
@@ -323,7 +323,7 @@ export default {
       zh: '屬性點',
       de: 'Stat-Punkte',
       vi: 'Điểm tiềm năng',
-      // pl: 'Punkty Statystyk'
+      // pl: 'Punkty Statystyk',
       it: 'Punti stat',
       sr: 'Поени за стат.'
     },
@@ -340,7 +340,7 @@ export default {
       pl: 'Punkty Umiej.',
       vi: 'Điểm kỹ năng',
       it: 'Punti Skill',
-      sr: 'Поени за веш.',
+      sr: 'Поени за веш.'
     },
 
     {
@@ -370,7 +370,7 @@ export default {
       de: '% erhöht Aggro Generierung',
       vi: '% Tăng hồi Aggro',
       it: '% Generazione Aggro Incrementato',
-      sr: '% Повећања агресије',
+      sr: '% Повећања агресије'
     },
 
     {
@@ -384,7 +384,7 @@ export default {
       pl: '% Redukcja prędkości ruchu',
       vi: '% Giảm tốc độ di chuyển',
       it: '% Riduzione Velocità',
-      // de: '% verminderte Laufgeschwindigkeit'
+      // de: '% verminderte Laufgeschwindigkeit',
       sr: '% Смањења брз. кретања'
     },
 
@@ -397,7 +397,7 @@ export default {
       fr: 'Réduction de soin',
       vi: 'Giảm hồi máu',
       it: 'Riduzione Cure',
-      // pl: 'Ograniczenie leczenia'
+      // pl: 'Ograniczenie leczenia',
       sr: 'Умањење лечења'
     }
   ]
