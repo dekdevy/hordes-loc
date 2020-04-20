@@ -17,7 +17,7 @@ export default {
     pl: 'Opuść Klan',
     bn: 'ক্ল্যান ছাড়ুন',
     vi: 'Rời khỏi bang',
-    sr: 'Napusti klan',
+    sr: 'Напусти клан',
     it: 'Lascia il clan'
   },
 
@@ -38,7 +38,7 @@ export default {
     pl: 'Klan',
     bn: 'ক্ল্যান',
     vi: 'Bang',
-    sr: 'Klan',
+    sr: 'Клан',
     it: 'Clan'
   },
 
@@ -59,7 +59,7 @@ export default {
     pl: 'Stwórz Klan',
     bn: 'ক্ল্যান তৈরি করুন',
     vi: 'Tạo bang',
-    sr: 'Kreiraj klan',
+    sr: 'Креирај клан',
     it: 'Crea un Clan'
   },
 
@@ -80,7 +80,7 @@ export default {
     pl: 'Nazwa Klanu',
     bn: 'ক্ল্যানের নাম',
     vi: 'Tên bang',
-    sr: 'Naziv klana',
+    sr: 'Назив клана',
     it: 'Nome del Clan'
   },
 
@@ -101,7 +101,7 @@ export default {
     pl: 'Tag Klanu',
     bn: 'ক্ল্যান ট্যাগ',
     vi: 'Thẻ bang',
-    sr: 'Klan tag',
+    sr: 'Клан Таг',
     it: 'Tag del Clan'
   },
 
@@ -122,7 +122,7 @@ export default {
     pl: 'Stwórz',
     bn: 'তৈরি করুন',
     vi: 'Tạo',
-    sr: 'Kreiraj',
+    sr: 'Креирај',
     it: 'Crea'
   },
 
