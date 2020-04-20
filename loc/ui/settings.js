@@ -53,7 +53,7 @@ export default {
     zh: '鍵盤設定',
     pl: 'Ustawienia klawiszy',
     vi: 'Gán phím',
-    it: 'Configurazione tasti'
+    it: 'Configurazione tasti',
     sr: 'Конфигурација контрола'
   },
 
@@ -177,7 +177,7 @@ export default {
     hu: 'Látótávolság',
     pl: 'Zasięg widzenia',
     vi: 'Khoảng cách nhìn',
-    it: 'Distanza visiva'
+    it: 'Distanza visiva',
     sr: 'Дистанца погледа'
   },
 
@@ -213,7 +213,7 @@ export default {
     es: 'Post-procesamiento',
     pl: 'Post-processing',
     vi: 'Hậu xử lý',
-    it: 'Post-processing'
+    it: 'Post-processing',
     sr: 'Пост обрада'
   },
 
@@ -233,7 +233,7 @@ export default {
     hu: 'Képesség effektusok',
     pl: 'Efekty umiejętności',
     vi: 'Hiệu ứng kỹ năng',
-    it: 'Effetti delle Skills'
+    it: 'Effetti delle Skills',
     sr: 'Ефекти вештина'
   },
 
@@ -264,7 +264,7 @@ export default {
     pl: 'Okluzja otoczenia',
     de: 'Umgebungsverdeckung', // Very technical, but right term
     vi: 'Môi trường xung quanh',
-    it: 'Occlusione Ambientale'
+    it: 'Occlusione Ambientale',
     sr: 'Оклузија околине'
   },
 
@@ -312,7 +312,7 @@ export default {
     zh: '粒子',
     pl: 'Cząsteczki',
     vi: 'Hạt chi tiết',
-    it: 'Particelle'
+    it: 'Particelle',
     sr: 'Ефекти'
   },
 
@@ -327,7 +327,7 @@ export default {
     fr: 'Objets détaillés',
     pl: 'Szczegóły',
     vi: 'Chi tiết',
-    it: 'Dettagli'
+    it: 'Dettagli',
     sr: 'Детаљи предмета'
   },
 
@@ -429,7 +429,7 @@ export default {
     fr: 'Journal de Combat',
     pl: 'Log Walki',
     vi: 'Nhật ký combat',
-    it: 'registro dei combattimenti'
+    it: 'registro dei combattimenti',
     sr: 'Борбени чет'
   },
 
