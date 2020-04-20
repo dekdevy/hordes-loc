@@ -17,7 +17,7 @@ export default {
     bn: 'ফিসফিসানি',
     vi: 'Thì thầm',
     cs: 'Šepot',
-    sr: 'Šapući',
+    sr: 'Шапући',
     it: 'Sussurro'
   },
 
@@ -37,7 +37,7 @@ export default {
       bn: 'Exp লাভ',
       vi: 'Kinh nghiệm nhận được',
       cs: 'Získání zkušeností',
-      sr: 'EXP Dobitak',
+      sr: 'EXP Добитак',
       it: 'Guadagno di Exp'
     },
     {
@@ -54,7 +54,7 @@ export default {
       bn: 'লক্ষ্য পরিবর্তন',
       vi: 'Mục tiêu thay đổi',
       cs: 'Změna cíle',
-      sr: 'Promena mete',
+      sr: 'Промена мете',
       it: 'Cambio di Target'
     },
     {
@@ -71,6 +71,7 @@ export default {
       bn: 'নিক্ষেপ',
       vi: 'Thi triển',
       cs: 'Čarování',
+      sr: 'Бацити',
       it: 'Invocare'
     },
     {
@@ -88,7 +89,7 @@ export default {
       bn: 'ক্ষতি',
       vi: 'Sát thương',
       cs: 'Poškození',
-      sr: 'Šteta',
+      sr: 'Штета',
       it: 'Danno'
     },
     {
@@ -106,7 +107,7 @@ export default {
       bn: 'চিকিৎসা',
       vi: 'Hồi máu',
       cs: 'Vyléčení',
-      sr: 'Heal',
+      sr: 'Оздравити',
       it: 'Cura'
     },
     {
@@ -124,7 +125,7 @@ export default {
       bn: 'মৃত্যু',
       vi: 'Chết',
       cs: 'Smrt',
-      sr: 'Smrt',
+      sr: 'Смрт',
       it: 'Morte'
     },
     {
@@ -141,7 +142,7 @@ export default {
       bn: 'লেভেল আপ',
       vi: 'Lên cấp',
       cs: 'Zvýšení úrovně',
-      sr: 'Novi nivo',
+      sr: 'Нови ниво',
       it: 'Nuovo Livello'
     },
     {
@@ -158,7 +159,7 @@ export default {
       bn: 'আইটেমস',
       vi: 'Vật phẩm',
       cs: 'Předměty',
-      sr: 'Predmeti',
+      sr: 'Предмети',
       it: 'Oggetti'
     },
     {
@@ -175,7 +176,7 @@ export default {
       bn: 'নিলাম',
       vi: 'Nhà đấu giá',
       cs: 'Předměty',
-      sr: 'Aukcija',
+      sr: 'Аукција',
       it: 'Vendita all \'asta'
     },
     {
@@ -192,7 +193,7 @@ export default {
       bn: 'টাকা তোলা',
       vi: 'Nhặt vàng',
       cs: 'Zvednout zlato',
-      sr: 'Pokupi zlato',
+      sr: 'Покупи злато',
       it: 'Colleziona l\'oro'
     },
     {
@@ -209,7 +210,7 @@ export default {
       bn: 'টাকা ব্যয় করা',
       vi: 'Vàng đã dùng',
       cs: 'Utratit zlato',
-      sr: 'Potrošeno zlato',
+      sr: 'Потрошено злато',
       it: 'Spendi l\'oro'
     },
     {
@@ -227,6 +228,7 @@ export default {
       bn: 'Fame লাভ',
       vi: 'Danh vọng nhận được',
       cs: 'Získání slávy',
+      sr: 'Добитак славе',
       it: 'Guadagno della Fama'
     }
   ]
