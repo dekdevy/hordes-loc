@@ -17,7 +17,7 @@ export default {
     pl: 'OK',
     bn: 'ঠিক আছে',
     vi: 'Đồng ý',
-    sr: 'Okej',
+    sr: 'Добро',
     it: 'Ok'
   },
 
@@ -38,7 +38,7 @@ export default {
     pl: 'Cofnij',
     bn: 'আগে',
     vi: 'Trở về',
-    sr: 'Nazad',
+    sr: 'Назад',
     it: 'Indietro'
   },
 
@@ -59,7 +59,7 @@ export default {
     pl: 'Akceptuj',
     bn: 'গ্রায্য',
     vi: 'Chấp nhận',
-    sr: 'Prihvati',
+    sr: 'Прихвати',
     it: 'Accetta'
   },
 
@@ -80,7 +80,7 @@ export default {
     pl: 'Anuluj',
     bn: 'বাতিল',
     vi: 'Hủy bỏ',
-    sr: 'Otkaži',
+    sr: 'Откажи',
     it: 'Annullare'
   },
 
@@ -101,7 +101,7 @@ export default {
     pl: 'Anuluj',
     bn: 'অগ্রায্য',
     vi: 'Từ chối',
-    sr: 'Odbij',
+    sr: 'Одбиј',
     it: 'Declina'
   },
 
@@ -122,7 +122,7 @@ export default {
     pl: 'Zamknij',
     bn: 'বন্ধ',
     vi: 'Đóng',
-    sr: 'Zatvori',
+    sr: 'Затвори',
     it: 'Chiudi'
   }
 }
