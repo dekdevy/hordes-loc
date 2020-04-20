@@ -54,7 +54,7 @@ export default {
     pl: 'Ustawienia klawiszy',
     vi: 'Gán phím',
     it: 'Configurazione tasti'
-    sr: 'Конфигурација контрола',
+    sr: 'Конфигурација контрола'
   },
 
   camera: {
@@ -178,7 +178,7 @@ export default {
     pl: 'Zasięg widzenia',
     vi: 'Khoảng cách nhìn',
     it: 'Distanza visiva'
-    sr: 'Дистанца погледа',
+    sr: 'Дистанца погледа'
   },
 
   resolution: {
@@ -214,7 +214,7 @@ export default {
     pl: 'Post-processing',
     vi: 'Hậu xử lý',
     it: 'Post-processing'
-    sr: 'Пост обрада',
+    sr: 'Пост обрада'
   },
 
   skilleffects: {
@@ -234,7 +234,7 @@ export default {
     pl: 'Efekty umiejętności',
     vi: 'Hiệu ứng kỹ năng',
     it: 'Effetti delle Skills'
-    sr: 'Ефекти вештина',
+    sr: 'Ефекти вештина'
   },
 
   shadows: {
@@ -265,7 +265,7 @@ export default {
     de: 'Umgebungsverdeckung', // Very technical, but right term
     vi: 'Môi trường xung quanh',
     it: 'Occlusione Ambientale'
-    sr: 'Оклузија околине',
+    sr: 'Оклузија околине'
   },
 
   grass: {
@@ -313,7 +313,7 @@ export default {
     pl: 'Cząsteczki',
     vi: 'Hạt chi tiết',
     it: 'Particelle'
-    sr: 'Ефекти',
+    sr: 'Ефекти'
   },
 
   detailprops: {
@@ -328,7 +328,7 @@ export default {
     pl: 'Szczegóły',
     vi: 'Chi tiết',
     it: 'Dettagli'
-    sr: 'Детаљи предмета',
+    sr: 'Детаљи предмета'
   },
 
   // ---- Audio
