@@ -53,7 +53,7 @@ export default {
     hu: 'Vásárlás',
     pl: 'Kup przedmiot',
     vi: 'Kupi',
-    it: 'Compra Oggetto'
+    it: 'Compra Oggetto',
     sr: 'Купи предмет',
   },
 
@@ -129,8 +129,8 @@ export default {
     zh: '费用: ',
     hu: 'Költség: ',
     pl: 'Koszt: ',
-    vi: 'Phí',
-    sr: 'такса:  ',
+    vi: 'Phí: ',
+    sr: 'такса: ',
     it: 'Tassa: '
   },
 
