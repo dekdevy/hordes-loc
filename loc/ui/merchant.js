@@ -54,7 +54,7 @@ export default {
     pl: 'Kup przedmiot',
     vi: 'Kupi',
     it: 'Compra Oggetto',
-    sr: 'Купи предмет',
+    sr: 'Купи предмет'
   },
 
   post: {
@@ -130,7 +130,7 @@ export default {
     hu: 'Költség: ',
     pl: 'Koszt: ',
     vi: 'Phí: ',
-    sr: 'такса: ',
+    sr: 'Такса: ',
     it: 'Tassa: '
   },
 
