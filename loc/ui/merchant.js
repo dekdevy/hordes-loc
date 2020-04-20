@@ -15,7 +15,7 @@ export default {
     hu: 'Keresés',
     pl: 'Szukaj',
     vi: 'Tìm kiếm',
-    sr: 'Pretraga',
+    sr: 'Претрага',
     it: 'Cerca'
   },
 
@@ -34,7 +34,7 @@ export default {
     hu: 'Csak az én tárgyaim',
     pl: 'Tylko moje przedmioty',
     vi: 'Chỉ trang bị của tôi',
-    sr: 'Samo moji predmeti',
+    sr: 'Само моји предмети',
     it: 'Solo i miei oggetti'
   },
 
@@ -54,6 +54,7 @@ export default {
     pl: 'Kup przedmiot',
     vi: 'Kupi',
     it: 'Compra Oggetto'
+    sr: 'Купи предмет',
   },
 
   post: {
@@ -71,7 +72,7 @@ export default {
     hu: 'Áruba bocsátás',
     pl: 'Wystaw przedmiot',
     vi: 'Đăng vật phẩm',
-    sr: 'Postavi predmet',
+    sr: 'Постави предмет',
     it: 'Pubblica oggetto'
   },
 
@@ -89,7 +90,7 @@ export default {
     hu: 'Tárgy visszavétele',
     pl: 'Usuń przedmiot',
     vi: 'Xóa vật phẩm khỏi danh sách',
-    sr: 'Skloni predmet',
+    sr: 'Склони предмет',
     it: 'Ritira l\'oggetto'
   },
 
@@ -109,7 +110,7 @@ export default {
     hu: 'Ár: ',
     pl: 'Cena: ',
     vi: 'Giá: ',
-    sr: 'Cena: ',
+    sr: 'Цена: ',
     it: 'Prezzo: '
   },
 
@@ -129,7 +130,7 @@ export default {
     hu: 'Költség: ',
     pl: 'Koszt: ',
     vi: 'Phí',
-    sr: 'Taksa:  ',
+    sr: 'такса:  ',
     it: 'Tassa: '
   },
 
@@ -147,7 +148,7 @@ export default {
     hu: 'Húzd a tárgyat az ablakba',
     pl: 'Przenieś przedmiot w slot',
     vi: 'Kéo thả vật phẩm vào ô',
-    sr: 'Prevuci predmet u slot',
+    sr: 'Превуци предмет у слот',
     it: 'Trascina l\'oggetto nello slot'
   },
 
@@ -166,7 +167,7 @@ export default {
     hu: 'Eladásra bocsátottad: $1',
     pl: 'Wystawiono $1 na sprzedaż',
     vi: 'Bạn vừa đăng $1 để bán.',
-    sr: 'Postavio si $1 na prodaju.',
+    sr: 'Поставио си $1 на продају.',
     it: 'Hai pubblicato $1 in vendita'
   },
 
@@ -185,7 +186,7 @@ export default {
     hu: 'A tárgyat nem vásárolták meg, és a Stash fiókodba került.',
     pl: 'Przedmiot usunięty i wysłany do Stash',
     vi: 'Vật phẩm được gỡ khỏi danh sách và gửi vào Hòm đồ',
-    sr: 'Predmet je sklonjen i stavljen u tvoj Stash.',
+    sr: 'Предмет је склоњен и стављен у твој Stash.',
     it: 'Oggeto rimosso e inviato nel tuo Stash'
   },
 
@@ -204,7 +205,7 @@ export default {
     hu: 'A tárgyat megvásárolták $1 áron, ami a Stash fiókodba került.',
     pl: 'Przemiot kupiono za $1 i wysłano do twojego Stash',
     vi: 'Vật phẩm đã mua cho $1 và gửi vào Hòm đồ',
-    sr: 'Predmet je kupljen po ceni od $1 i stavljen je u tvoj Stash.',
+    sr: 'Предмет је купљен по цени од $1 и стављен је у твој Stash.',
     it: 'Oggetto comprato per $1 e inviato nel tuo Stash'
   },
 
@@ -222,7 +223,7 @@ export default {
     hu: 'Eladtad: $1, $2 áron.',
     pl: 'Sprzedano $1 za $2.',
     vi: 'Bạn đã bán $1 được $2',
-    sr: 'Prodao si $1 za $2',
+    sr: 'Продао си $1 за $2',
     it: 'Hai venduto $1 per $2'
   }
 }
