@@ -56,7 +56,7 @@ export default {
     pl: 'Wyrzucono: $1.',
     vi: 'Bạn đã vứt đi $1.',
     it: 'Hai gettato via $1.'
-    sr: 'Бацио си $1.',
+    sr: 'Бацио си $1.'
   },
 
   full: {
@@ -75,7 +75,7 @@ export default {
     pl: 'Twój ekwipunek jest pełen.',
     vi: 'Hành trang của bạn đã đầy',
     it: 'Il tuo inventario è pieno'
-    sr: 'Твој инвентар је пун.',
+    sr: 'Твој инвентар је пун.'
   },
 
   sold: {
@@ -94,7 +94,7 @@ export default {
     pl: 'Sprzedano $1.',
     vi: 'Bạn đã bán $1.',
     it: 'Hai venduto $1.'
-    sr: 'Продао си $1.',
+    sr: 'Продао си $1.'
   },
 
   receive: {
@@ -113,7 +113,7 @@ export default {
     pl: 'Otrzymano $1.',
     vi: 'Bạn vừa nhận được $1.',
     it: 'Hai ricevuto $1.'
-    sr: 'Добио си $1.',
+    sr: 'Добио си $1.'
   },
 
   drop: {
@@ -133,7 +133,7 @@ export default {
     pl: 'Wyrzuć przedmiot',
     vi: 'Vứt vật phẩm',
     it: 'Rilascia l\'oggetto'
-    sr: 'Баци предмет',
+    sr: 'Баци предмет'
   },
 
   equip: {
@@ -152,7 +152,7 @@ export default {
     pl: 'Wyposaż przedmiot',
     vi: 'Trang bị vật phẩm',
     it: 'Equipaggia l\'oggetto'
-    sr: 'Опреми предмет',
+    sr: 'Опреми предмет'
   },
 
   use: {
@@ -172,11 +172,12 @@ export default {
     pl: 'Użyj przedmiot',
     vi: 'Sử dụng vật phẩm',
     it: 'Usa l\'oggetto'
-    sr: 'Употреби предмет',
+    sr: 'Употреби предмет'
   },
 
   sell: {
-    en: 'Sell item'
+    en: 'Sell item',
+    ru: 'Продать предмет'
   },
 
   splithalf: {
@@ -190,7 +191,7 @@ export default {
     pl: 'Rozdziel na pół',
     vi: 'Chia đôi',
     it: 'Dividi a metà'
-    sr: 'Поделити на пола',
+    sr: 'Поделити на пола'
   },
 
   splitone: {
@@ -204,7 +205,7 @@ export default {
     pl: 'Wydziel jeden',
     vi: 'Tách làm một',
     it: 'Dividine uno'
-    sr: 'Поделити један',
+    sr: 'Поделити један'
   },
 
   spend: {
@@ -224,7 +225,7 @@ export default {
     pl: 'Wydano $1.',
     vi: 'Bạn đã dành $1',
     it: 'Hai speso $1'
-    sr: 'Ти си потрошио $1.',
+    sr: 'Ти си потрошио $1.'
   },
 
   death: {
@@ -244,7 +245,7 @@ export default {
     pl: 'Podczas śmierci stracono $1.',
     vi: 'Bạn đã chết và mất $1',
     it: 'Sei morto e hai perso $1'
-    sr: 'Преминули сте и изгубили $1.',
+    sr: 'Преминули сте и изгубили $1.'
   },
 
   bindlevel: [
