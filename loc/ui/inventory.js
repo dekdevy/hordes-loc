@@ -55,7 +55,7 @@ export default {
     hu: 'Eldobtad: $1',
     pl: 'Wyrzucono: $1.',
     vi: 'Bạn đã vứt đi $1.',
-    it: 'Hai gettato via $1.'
+    it: 'Hai gettato via $1.',
     sr: 'Бацио си $1.'
   },
 
@@ -74,7 +74,7 @@ export default {
     hu: 'A hátizsákod tele van.',
     pl: 'Twój ekwipunek jest pełen.',
     vi: 'Hành trang của bạn đã đầy',
-    it: 'Il tuo inventario è pieno'
+    it: 'Il tuo inventario è pieno',
     sr: 'Твој инвентар је пун.'
   },
 
@@ -93,7 +93,7 @@ export default {
     hu: 'Eladtad: $1',
     pl: 'Sprzedano $1.',
     vi: 'Bạn đã bán $1.',
-    it: 'Hai venduto $1.'
+    it: 'Hai venduto $1.',
     sr: 'Продао си $1.'
   },
 
@@ -112,7 +112,7 @@ export default {
     hu: 'Kaptál: $1',
     pl: 'Otrzymano $1.',
     vi: 'Bạn vừa nhận được $1.',
-    it: 'Hai ricevuto $1.'
+    it: 'Hai ricevuto $1.',
     sr: 'Добио си $1.'
   },
 
@@ -132,7 +132,7 @@ export default {
     hu: 'Tárgy eldobása',
     pl: 'Wyrzuć przedmiot',
     vi: 'Vứt vật phẩm',
-    it: 'Rilascia l\'oggetto'
+    it: 'Rilascia l\'oggetto',
     sr: 'Баци предмет'
   },
 
@@ -151,7 +151,7 @@ export default {
     hu: 'Felfegyverkezés',
     pl: 'Wyposaż przedmiot',
     vi: 'Trang bị vật phẩm',
-    it: 'Equipaggia l\'oggetto'
+    it: 'Equipaggia l\'oggetto',
     sr: 'Опреми предмет'
   },
 
@@ -171,7 +171,7 @@ export default {
     hu: 'Használat',
     pl: 'Użyj przedmiot',
     vi: 'Sử dụng vật phẩm',
-    it: 'Usa l\'oggetto'
+    it: 'Usa l\'oggetto',
     sr: 'Употреби предмет'
   },
 
@@ -190,7 +190,7 @@ export default {
     es: 'Partir a la mitad',
     pl: 'Rozdziel na pół',
     vi: 'Chia đôi',
-    it: 'Dividi a metà'
+    it: 'Dividi a metà',
     sr: 'Поделити на пола'
   },
 
@@ -204,7 +204,7 @@ export default {
     es: 'Separar uno',
     pl: 'Wydziel jeden',
     vi: 'Tách làm một',
-    it: 'Dividine uno'
+    it: 'Dividine uno',
     sr: 'Поделити један'
   },
 
@@ -224,7 +224,7 @@ export default {
     hu: 'Elköltöttél $1',
     pl: 'Wydano $1.',
     vi: 'Bạn đã dành $1',
-    it: 'Hai speso $1'
+    it: 'Hai speso $1',
     sr: 'Ти си потрошио $1.'
   },
 
@@ -244,7 +244,7 @@ export default {
     hu: 'Meghaltál és elvesztetted: $1',
     pl: 'Podczas śmierci stracono $1.',
     vi: 'Bạn đã chết và mất $1',
-    it: 'Sei morto e hai perso $1'
+    it: 'Sei morto e hai perso $1',
     sr: 'Преминули сте и изгубили $1.'
   },
 
