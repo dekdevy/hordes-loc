@@ -31,14 +31,14 @@ export default {
     tr: 'En yakın hokkabazda diriltilmek için düğmeye basın.',
     nl: 'Druk op de knop om op te staan bij de dichtstbijzijnde goochelaar.',
     pt: 'Pressione o botão para ser ressuscitado no conjurador mais próximo.',
-    ro: 'Apăsați butonul pentru a fi înviat la cea mai apropiată conjurer.',
+    ro: 'Apăsați butonul pentru a fi înviat la cea mai apropiată Conjurer.',
     zh: '按下按钮可以找最近的魔术师处复活',
     hu: 'Nyomd meg a gombot hogy felgyógyítsanak a legközelebbi Conjurernél',
     pl: 'Wciśnij przycisk aby zostać wskrzeszonym przy najbliższym Conjurer',
     bn: 'নিকটতম কনজিউরারে পুনরুত্থিত হতে বাটনে চাপুন',
     vi: 'Nhấn nút để hồi sinh tại điểm gần nhất',
-    sr: 'Притисните дугме да би сте васкрсли до најблизег conjurer-a.',
-    it: 'Premi il pulsante per risorgere dal conjurer più vicino.'
+    sr: 'Притисните дугме да би сте васкрсли до најблизег Conjurer-a.',
+    it: 'Premi il pulsante per risorgere dal Conjurer più vicino.'
   },
 
   // 'Resurrect' is used in many translations/languages.
