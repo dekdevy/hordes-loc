@@ -290,7 +290,7 @@ export default {
       vi: 'Ô túi',
       // es: 'Espacios de inventario',
       it: 'Slots Zaino',
-      r: 'Места у тор.'
+      sr: 'Места у тор.'
     },
 
     {
