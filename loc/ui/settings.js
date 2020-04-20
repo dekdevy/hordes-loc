@@ -573,7 +573,7 @@ export default {
     zh: '禁用講解',
     pl: 'Wyłącz samouczek',
     vi: 'Vô hiệu hóa hướng dẫn',
-    sr: 'Искључи туторијал'',
+    sr: 'Искључи туторијал',
     it: 'Disabilita il tutorial'
   },
 
