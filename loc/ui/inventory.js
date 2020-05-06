@@ -175,6 +175,10 @@ export default {
     sr: 'Употреби предмет'
   },
 
+  copyitemid: {
+    en: 'Copy item ID'
+  },
+
   sell: {
     en: 'Sell item',
     ru: 'Продать предмет'
