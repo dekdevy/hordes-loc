@@ -370,6 +370,9 @@ export default {
     sr: 'SFX гласноћа',
     it: 'SFX Volume'
   },
+  ambiencevolume: {
+    en: 'Ambience Volume'
+  },
   musicvolume: {
     en: 'Music Volume',
     de: 'Musik-Lautstärke',
