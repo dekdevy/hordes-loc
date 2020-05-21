@@ -253,8 +253,8 @@ export default {
   },
 
   bindlevel: [
-    {en: 'Tradable'},
-    {en: 'Account bound'},
-    {en: 'Character bound'}
+    {$$: 'Tradable'},
+    {$$: 'Account bound'},
+    {$$: 'Character bound'}
   ]
 }
