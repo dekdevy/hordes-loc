@@ -262,7 +262,7 @@ export default {
     hu: 'Környezet okklúzió',
     es: 'Oclusión Ambiental',
     pl: 'Okluzja otoczenia',
-    de: 'Umgebungsverdeckung', // Very technical, but right term
+    de: 'Umgebungsverdeckung',
     vi: 'Môi trường xung quanh',
     it: 'Occlusione Ambientale',
     sr: 'Оклузија околине'
@@ -371,7 +371,8 @@ export default {
     it: 'SFX Volume'
   },
   ambiencevolume: {
-    en: 'Ambience Volume'
+    en: 'Ambience Volume',
+    ru: 'Громкость окружения'
   },
   musicvolume: {
     en: 'Music Volume',
