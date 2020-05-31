@@ -1,6 +1,7 @@
 export default {
   whisper: {
     en: 'Whisper',
+    el: 'Ψίθυρος',
     ru: 'Шептать',
     hi: 'फुसफुसाऐ',
     es: 'Susurro',
@@ -24,6 +25,7 @@ export default {
   types: [
     {
       en: 'Exp Gain',
+      el: 'Απόκτηση εμπειρίας',
       ru: 'Получение опыта',
       de: 'Exp erhalten',
       fr: 'Gain d\'xp',
@@ -42,6 +44,7 @@ export default {
     },
     {
       en: 'Target Change',
+      el: 'Αλλαγή στόχου',
       de: 'Ziel gewechselt',
       ru: 'Смена цели',
       fr: 'Changement de Cible',
@@ -59,6 +62,7 @@ export default {
     },
     {
       en: 'Cast',
+      el: 'Χτυπήματα',
       de: 'Zauber',
       ru: 'Произношение заклинаний',
       fr: 'Cast',
@@ -76,6 +80,7 @@ export default {
     },
     {
       en: 'Damage',
+      el: 'Ζημιά',
       de: 'Schaden',
       ru: 'Урон',
       fr: 'Damage',
@@ -94,6 +99,7 @@ export default {
     },
     {
       en: 'Heal',
+      el: 'Γιατριά',
       ru: 'Исцеление',
       fr: 'Heal',
       de: 'Heilung',
@@ -112,6 +118,7 @@ export default {
     },
     {
       en: 'Death',
+      el: 'Θάνατος',
       de: 'Tod',
       ru: 'Смерть',
       fr: 'Death',
@@ -130,6 +137,7 @@ export default {
     },
     {
       en: 'Level Up',
+      el: 'Απόκτηση επιπέδου',
       de: 'Level aufgestiegen',
       ru: 'Повышения уровня',
       fr: 'Level Up',
@@ -147,6 +155,7 @@ export default {
     },
     {
       en: 'Items',
+      el: 'Αντικείμενα',
       de: 'Gegenstände',
       ru: 'Предметы',
       fr: 'Items',
@@ -164,6 +173,7 @@ export default {
     },
     {
       en: 'Auction',
+      el: 'Δημοπρασία',
       de: 'Auktion',
       ru: 'Аукцион',
       fr: 'Enchères',
@@ -181,6 +191,7 @@ export default {
     },
     {
       en: 'Pick Gold',
+      el: 'Απόκτηση χρυσού',
       de: 'Gold aufgehoben',
       ru: 'Сбор золота',
       fr: 'Gold Ramassé',
@@ -198,6 +209,7 @@ export default {
     },
     {
       en: 'Spent Gold',
+      el: 'Ξόδεμα χρυσού',
       de: 'Gold ausgegeben',
       ru: 'Трата золота',
       fr: 'Gold Utilisé',
@@ -215,6 +227,7 @@ export default {
     },
     {
       en: 'Fame Gain',
+      el: 'Απόκτηση φήμης',
       de: 'Ruhm erhalten',
       ru: 'Получение славы',
       fr: 'Gain de Gloire',

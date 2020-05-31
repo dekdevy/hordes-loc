@@ -2,6 +2,7 @@ export default {
   // The class name
   name: {
     en: 'Shaman',
+    el: 'Σαμάνος',
     de: 'Schamane',
     ru: 'Шаман',
     bg: 'Шаман',
@@ -26,6 +27,7 @@ export default {
   // Class description, visible during character creation
   description: {
     en: 'The Shaman\'s role is to support the group by healing the Tank and offering offensive Buffs or crippling Debuffs.',
+    el: 'Ο ρόλος του Σαμάνου είναι να υποστηρίζει την ομάδα με το να γιατρεύει το Tank και να προσφέρει επιθετικά δυναμωτικά ξόρκια για τους συμμάχους ή αποδυναμοτικά ξόρκια για τους εχθρούς.',
     ru: 'Шаманы играют роль поддержки группы, излечивая Танка и преподнося усиливающие бонусы или наносящие урон отрицательные эффекты.',
     de: 'Die Rolle der Schamanen besteht darin, die Gruppe zu unterstützen, indem sie den Tank heilen und offensive Buffs anbieten oder Debuffs verteilen.',
     es: 'El rol del Chamán es el de apoyar al equipo a través de las curaciones al tanque y ofreciendo Buffs(ventajas) ofensivos o Debuffs(desventajas) paralizantes.',

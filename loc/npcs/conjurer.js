@@ -3,6 +3,7 @@ export default {
     // Do NOT translate "Crystal Shards".
     text: {
       en: 'Have you heard of the Crystal Shards that were discovered recently? Adventurers can use them to travel directly to distant realms. I don\'t have any Crystal Shards, but I can send you to some places since mystic forces converge at this nexus. Which realm is your desired destination?',
+      el: 'Έχεις ακούσει για τα Crystal Shards που ανακαλύφθηκαν πρόσφατα; Οι τυχοδιώκτες μπορούν να τα χρησιμοποιήσουν για να ταξιδέψουν απευθείας σε μακρινά βασίλεια. Δεν έχω Crystal Shards, αλλά μπορώ να σε στείλω σε μερικά μέρη επειδή μυστικές δυνάμεις συγκλίνουν σε αυτό το πλέγμα. Σε ποιο βασίλειο θέλεις να μεταβείς;',
       ru: 'Вы слышали о Crystal Shards, которые были недавно обнаружены? Путешественники могут использовать их для мнгновенава перемещения от мира до мира. У меня сейчас нету этих Shards, но я могу переместить вас в любое место, так как на этом нексусе сходятся мистические силы. В какой мир вы хотите попасть?',
       es: '¿Has oído hablar de los Crystal Shards que se descubrieron recientemente? Los aventureros pueden usarlos para viajar directamente a reinos distantes. No tengo Crystal Shards,pero puedo enviarte a algunos lugares ya que las fuerzas místicas convergen en este nexo. ¿Qué reino es tu destino deseado?',
       hi: 'क्या आपने हाल ही में खोजे गए Crystal Shards के बारे में सुना है? एडवेंचरर उन्हें दूर के स्थानों की यात्रा करने के लिए सीधे उपयोग कर सकते हैं। मेरे पास कोई Crystal Shards नहीं है, लेकिन मैं आपको कुछ स्थानों पर भेज सकता हूं क्योंकि रहस्यवादी ताकतें इस सांठगांठ पर धर्मान्तरित होती हैं। आपका पसंदीदा स्थान कौन सा है?',
@@ -23,6 +24,7 @@ export default {
 
     choices: [{
       en: 'Please bring me to $1.',
+      el: 'Σε παρακαλώ μετέφερέ με στο $1.',
       ru: 'Пожалуйста, отведи меня к $1.',
       fr: 'S\'il-vous plaît, apportez-moi vers $1',
       hi: 'कृपया मुझे $1 ले चलें।',

@@ -6,6 +6,7 @@ export default {
 
   invite: {
     en: 'Party invite',
+    el: 'Πρόσκληση στο party',
     ru: 'Пригласить в Party',
     pt: 'Convidar para a Party',
     nl: 'Uitnodigen Party',
@@ -27,6 +28,7 @@ export default {
   // DO NOT translate "Party"
   kick: {
     en: 'Party kick',
+    el: 'Εκδίωξη από το party',
     ru: 'Исключить из Party',
     pt: 'Expulsar da Party',
     es: 'Expulsar de la Party',
@@ -48,6 +50,7 @@ export default {
   // DO NOT translate "Party"
   leave: {
     en: 'Leave Party',
+    el: 'Φύγετε από το party',
     pt: 'Sair da Party',
     nl: 'Verlof Party',
     de: 'Party verlassen',
@@ -69,6 +72,7 @@ export default {
   // DO NOT translate "Party"
   create: {
     en: 'Create Party',
+    el: 'Δημιουργία party',
     ru: 'Создать Party',
     pt: 'Criar Party',
     nl: 'Een Party creëren',
@@ -90,6 +94,7 @@ export default {
   // DO NOT translate "Party"
   onInvite: {
     en: '$1 has invited you to join their Party.',
+    el: 'Ο παίκτης $1 σε έχει προσκαλέσει στο party του.',
     de: '$1 hat dich eingeladen, einer Party beizutreten',
     fr: '$1 vous invite à vous joindre à leur Party.',
     ru: 'Игрок $1 пригласил вас в Party',
@@ -110,6 +115,7 @@ export default {
 
   link: {
     en: 'Invitation link',
+    el: 'Σύνδεσμος πρόσκλησης',
     hi: 'आमंत्रण लिंक',
     fr: 'Lien d\'invitation',
     de: 'Einladungslink',
@@ -130,6 +136,7 @@ export default {
   // DO NOT translate "Party"
   onLink: {
     en: 'Send this link to other players! This will allow them to join your Party.',
+    el: 'Στείλετε αυτό τον σύνδεσμο σε άλλους παίκτες! Έτσι θα μπορέσουν να προσχωρήσουν στο party σας.',
     ru: 'Отправьте эту ссылку другим игрокам! Это позволит им присоединиться к вашей Party.',
     fr: 'Envoyez ce lien à d\'autres joueurs ! Cela leur permettra de se joindre à votre Party.',
     hi: 'इस लिंक को अन्य खिलाड़ियों को भेजें! इससे वे आपके Part में शामिल हो सकेंगे।',
@@ -153,6 +160,7 @@ export default {
       has their own version of expressing this. Google it if you are unsure :)
     */
     en: 'Copy to clipboard',
+    el: 'Αντιγραφή',
     ru: 'Копировать в буфер обмена',
     es: 'Copiar al portapapeles',
     de: 'In die Zwischenablage kopieren',
@@ -172,6 +180,7 @@ export default {
 
   summon: {
     en: 'Summon',
+    el: 'Κάλεσμα',
     ru: 'Призвать',
     pt: 'Invokar',
     es: 'Invocar',
@@ -186,6 +195,7 @@ export default {
 
   onSummon: {
     en: '$1 is offering to summon you to their location.',
+    el: 'Ο παίκτης $1 σας καλεί στην τοποθεσία του.',
     ru: 'Игрок $1 хочет призвать вас к себе.',
     pt: '$1 está a oferecer invocar te na localização dele.',
     es: '$1 está ofreciendo invocarte a su ubicación.',
@@ -202,6 +212,7 @@ export default {
   // Do not translate "Assistant".
   giveAssistant: {
     en: 'Promote to Assistant',
+    el: 'Προαγωγή σε Assistant',
     ru: 'Повысить до Assistant',
     pt: 'Promover para Assistant',
     es: 'Promover a Assistant',
@@ -218,6 +229,7 @@ export default {
   // Do not translate "Leader".
   giveLeader: {
     en: 'Promote to Leader',
+    el: 'Προαγωγή σε Leader',
     ru: 'Повысить до Leader',
     pt: 'Promover para Leader',
     es: 'Promover a Leader',
@@ -234,6 +246,7 @@ export default {
   // Do not translate"Assistant".
   removeAssistant: {
     en: 'Demote Assistant',
+    el: 'Υποβιβασμός σε Assistant',
     ru: 'Убрать Assistant',
     pt: 'Remover Assistant',
     es: 'Remover Assistant',
@@ -249,6 +262,7 @@ export default {
 
   startQueue: {
     en: 'Queue',
+    el: 'Αναζήτηση',
     ru: 'Войти в очередь',
     de: 'Warteschlange',
     hu: 'Jelentkezés',
@@ -263,6 +277,7 @@ export default {
 
   stopQueue: {
     en: 'Leave Queue',
+    el: 'Παύση αναζήτησης',
     ru: 'Выйти из очереди',
     de: 'Warteschlange verlassen',
     hu: 'Várólista elhagyása',

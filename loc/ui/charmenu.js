@@ -4,6 +4,7 @@ export default {
   select: {
     title: {
       en: 'Select Character',
+      el: 'Επιλογή Χαρακτήρα',
       ru: 'Выберите персонажа',
       fr: 'Sélectionnez le Personnage',
       hi: 'स्वरूप चुने',
@@ -26,6 +27,7 @@ export default {
 
     create: {
       en: 'Click to create character',
+      el: 'Κάνε κλίκ για να επιλέξεις χαρακτήρα',
       ru: 'Нажмите, чтобы создать персонажа',
       hi: 'स्वरूप बानाने के लिए क्लिक करे',
       es: 'Pulsa aquí para crear un personaje',
@@ -48,6 +50,7 @@ export default {
 
     enterWorld: {
       en: 'Enter World',
+      el: 'Είσοδος στον κόσμο',
       ru: 'Войти в мир',
       fr: 'Entrer dans le Monde',
       hi: 'प्रवेश करे',
@@ -70,6 +73,7 @@ export default {
 
     emptySlot: {
       en: 'Empty',
+      el: 'Κενό',
       ru: 'Пусто',
       hi: 'रिक्त',
       es: 'Vacío',
@@ -92,6 +96,7 @@ export default {
 
     error: {
       en: 'Network Error',
+      el: 'Σφάλμα δικτύου',
       ru: 'Проблема с сетью',
       fr: 'Problème de Connexion',
       hi: 'नेट्वर्क में खराबी',
@@ -117,6 +122,7 @@ export default {
   create: {
     title: {
       en: 'Character Creation',
+      el: 'Δημιουργία Χαρακτήρα',
       ru: 'Создание персонажа',
       fr: 'Création du Personnage',
       hi: 'स्वरूप निर्माण',
@@ -139,6 +145,7 @@ export default {
 
     pressIcon: {
       en: 'Press an icon for a brief description.',
+      el: 'Πατήστε ένα εικονίδιο για μια σύντομη περιγραφή.',
       ru: 'Нажмите на иконку, чтобы увидеть краткое описание.',
       fr: 'Cliquez sur une icône pour une brève description.',
       hi: 'संक्षिप्त विवरण के लिए तस्वीर पर क्लिक करे।',
@@ -161,6 +168,7 @@ export default {
 
     selectClass: {
       en: 'Select a Class',
+      el: 'Επιλογή Κλάσης',
       ru: 'Выберите класс',
       hi: 'श्रेणी चुने',
       es: 'Selecciona una Clase',
@@ -183,6 +191,7 @@ export default {
 
     selectFaction: {
       en: 'Select a Faction',
+      el: 'Επιλογή Φατρίας',
       ru: 'Выберите фракцию',
       fr: 'Sélectionnez une Faction',
       hi: 'वंश चुने',
@@ -205,6 +214,7 @@ export default {
 
     enterName: {
       en: 'Enter a name',
+      el: 'Εισάγετε ένα όνομα',
       ru: 'Введите имя',
       fr: 'Entrez un nom',
       hi: 'नाम डाले',
@@ -227,6 +237,7 @@ export default {
 
     nameReq: {
       en: 'Your name can only contain characters a-Z, and numbers 0-9, without any spaces. Between 3 and 16 characters.',
+      el: 'Το όνομά σας μπορεί να περιέχει μόνο χαρακτήρες a-Z και ψηφία 0-9 χωρίς κενά, και να είναι μεταξύ 3 και 16 χαρακτήρων.',
       ru: 'Ваше имя может состоять только из букв латинского алфавита a-Z и цифр 0-9, без пробелов. От 3 до 16 символов.',
       fr: 'Votre nom ne peut contenir que des caractères de a à Z, des chiffres entre 0 et 9, sans aucun espace, et entre 3 et 16 caractères.',
       hi: 'आपके नाम में केवल a-Z अक्षर और 0-9 अंक हो सकते है| 3 और 16 वर्णों के बीच।',
@@ -252,6 +263,7 @@ export default {
     // The character's name is placed after this string, e.g. 'Delete Battlebubbles'
     title: {
       en: 'Delete',
+      el: 'Διαγραφή',
       ru: 'Удалить',
       hi: 'मिटा दे',
       es: 'Borrar',
@@ -274,6 +286,7 @@ export default {
 
     info: {
       en: 'To delete, type the character\'s name. Your character can not be restored.',
+      el: 'Για να διαγράψετε, πληκτρολογήστε το όνομα του χαρακτήρα. Ο χαρακτήρας σας δεν θα μπορέσει να ανακτηθεί εάν συνεχίσετε.',
       ru: 'Чтобы удалить, введите имя персонажа. После удаления данного персонажа не возможно будет восстановить.',
       hi: 'मिटाने के लिए अपने स्वरुप का नाम दाले। आपका स्वरूप पुनर नहीं मिल पाएगा।',
       es: 'Para eliminar, escribe el nombre del personaje. Tu personaje no podrá ser restaurado.',
@@ -296,6 +309,7 @@ export default {
 
     placeholder: {
       en: 'Are you sure?',
+      el: 'Είστε σίγουροι;',
       ru: 'Вы уверены?',
       fr: 'Êtes-vous sûr?',
       hi: 'पक्की तौर पर?',

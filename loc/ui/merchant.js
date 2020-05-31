@@ -2,6 +2,7 @@ export default {
 
   search: {
     en: 'Search',
+    el: 'Αναζήτηση',
     nl: 'Zoeken',
     ru: 'Поиск',
     de: 'Suche',
@@ -21,6 +22,7 @@ export default {
 
   filtermine: {
     en: 'My items only',
+    el: 'Μόνο τα αντικείμενά μου',
     nl: 'Alleen mijn voorwerpen',
     de: 'Nur meine Items',
     ru: 'Только мои лоты',
@@ -40,6 +42,7 @@ export default {
 
   buy: {
     en: 'Buy Item',
+    el: 'Αγορά αντικειμένου',
     nl: 'Voorwerp Kopen',
     de: 'Item kaufen',
     ru: 'Купить лот',
@@ -59,6 +62,7 @@ export default {
 
   post: {
     en: 'Post Item',
+    el: 'Δημοσίευση αντικειμένου',
     ru: 'Выставить лот',
     nl: 'Plaatsen Voorwerp',
     es: 'Publicar Objeto',
@@ -78,6 +82,7 @@ export default {
 
   delist: {
     en: 'Delist Item',
+    el: 'Αποδημοσίευση αντικειμένου',
     nl: 'Verwijderd Voorwerp',
     de: 'Verkauf abbrechen',
     ru: 'Снять с продажи',
@@ -97,6 +102,7 @@ export default {
   // Include the space and punctuation
   price: {
     en: 'Price: ',
+    el: 'Τιμή: ',
     nl: 'Prijs: ',
     de: 'Preis: ',
     ru: 'Цена: ',
@@ -117,6 +123,7 @@ export default {
   // Include the space and punctuation
   fee: {
     en: 'Fee: ',
+    el: 'Τέλη: ',
     de: 'Gebühr: ',
     nl: 'Honorarium: ',
     ru: 'Сбор за выставление лота: ',
@@ -136,6 +143,7 @@ export default {
 
   dragitem: {
     en: 'Drag item into slot',
+    el: 'Σύρε το αντικείμενο στη θέση',
     nl: 'Slepen het voorwerp in de sleuf',
     de: 'Ziehe ein Item hier hin',
     ru: 'Перетащите предмет в слот',
@@ -154,6 +162,7 @@ export default {
 
   auctionpost: {
     en: 'You have posted $1 for sale',
+    el: 'Έχεις δημοσιεύσει το $1 προς πώληση',
     es: 'Has publicado $1 para vender',
     fr: 'Vous avez mis $1 en vente',
     de: 'Du hast $1 zum Verkauf angeboten',
@@ -174,6 +183,7 @@ export default {
   // Do not translate "Stash".
   auctioncancel: {
     en: 'Item delisted and sent to Stash',
+    el: 'Το αντικείμενο έχει αποδημοσιευθεί και σταλεί στο Stash',
     ru: 'Лот снят с продажи и отправлен в ваш Stash',
     nl: 'Item verwijderd en naar de Stash verzonden',
     de: 'Verkauf abgebrochen und Item in den Stash gesendet',
@@ -193,6 +203,7 @@ export default {
   // Do not translate "Stash".
   auctionbuy: {
     en: 'Item purchased for $1 and sent to your Stash',
+    el: 'Το αντικείμενο αγοράσθηκε για $1 και εστάλη στο Stash',
     ru: 'Лот, купленный за $1 и отправлен в ваш Stash',
     es: 'Objeto comprado por $1 y enviado a tu Stash',
     fr: 'Article acheté pour $1 et envoyé dans votre Stash',
@@ -211,6 +222,7 @@ export default {
 
   sell: {
     en: 'You have sold $1 for $2',
+    el: 'Πούλησες το $1 για $2',
     nl: 'U heeft verkocht $1 aan $2',
     es: 'Has vendido $1 por $2',
     pt: 'Você vendeu $1 por $2',

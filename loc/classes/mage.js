@@ -2,6 +2,7 @@ export default {
   // The class name
   name: {
     en: 'Mage',
+    el: 'Μάγος',
     ru: 'Маг',
     bg: 'Mагьосник',
     de: 'Magier',
@@ -26,6 +27,7 @@ export default {
   // Class description, visible during character creation
   description: {
     en: 'Mages deal very heavy large scale Area of Effect damage, while also providing utility through slowing targets with their ice based magic.',
+    el: 'Οι μάγοι κάνουν πολύ μεγάλη ζημιά σε πολλούς στόχους ταυτόχρονα, και παράλληλα παρέχουν βοηθητικά ξόρκια που ανακόπτουν την ταχύτητα των εχθρών με μαγεία πάγου',
     ru: 'Маги наносят большой урон по области, а так же приносят пользу благодаря замедлению целей своей магией льда.',
     de: 'Magier verursachen sehr großen Flächenschaden und sind gleichzeitig nützlich, da sie Ziele mit ihrer auf Eis basierenden Magie verlangsamen.',
     es: 'Los magos son capaces de causar un gran daño en área mientras proveen utilidad mediante la ralentización de sus enemigos a través de su magia basada en hielo.',

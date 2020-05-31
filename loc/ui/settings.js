@@ -2,6 +2,7 @@ export default {
 
   name: {
     en: 'Settings',
+    el: 'Ρυθμίσεις',
     ru: 'Настройки',
     hi: 'सेटिंग्स',
     es: 'Configuración',
@@ -23,6 +24,7 @@ export default {
   // ---- Controls
   controls: {
     en: 'Controls',
+    el: 'Controls',
     ru: 'Управление',
     hi: 'नियंत्रण',
     es: 'Controles',
@@ -43,6 +45,7 @@ export default {
 
   keybindings: {
     en: 'Key bindings',
+    el: 'Πλήκτρα',
     de: 'Tastenbelegung',
     ru: 'Привязки клавиш',
     pt: 'Combinações de teclas',
@@ -59,6 +62,7 @@ export default {
 
   camera: {
     en: 'Camera',
+    el: 'Κάμερα',
     es: 'Cámara',
     de: 'Kamera',
     fr: 'Caméra',
@@ -70,6 +74,7 @@ export default {
 
   mousesensitivity: {
     en: 'Sensitivity',
+    el: 'Ευαισθησία',
     es: 'Sensibilidad',
     de: 'Empfindlichkeit',
     fr: 'Sensibilité',
@@ -82,6 +87,7 @@ export default {
 
   invertmousex: {
     en: 'Invert horizontally',
+    el: 'Οριζόντια αντιστροφή',
     es: 'Invertir horizontalmente',
     de: 'X-Achse umkehren',
     fr: 'Inverser horizontalement',
@@ -94,6 +100,7 @@ export default {
 
   invertmousey: {
     en: 'Invert vertically',
+    el: 'Κάθετη αντιστροφή',
     es: 'Invertir verticalmente',
     de: 'Y-Achse umkehren',
     fr: 'Inverser verticalement',
@@ -106,6 +113,7 @@ export default {
 
   pointerlock: {
     en: 'Hide mouse during rotation',
+    el: 'Απόκρυψη ποντικιού κατά την περιστροφή',
     de: 'Maus bei Rotation verstecken',
     ru: 'Скрыть мышь во время вращения камеры',
     pt: 'Ocultar o rato durante a rotação.',
@@ -122,6 +130,7 @@ export default {
 
   lockedcamera: {
     en: 'Locked camera',
+    el: 'Κλειδωμένη κάμερα',
     ru: 'Заблокированная камера',
     hi: 'कैमरा लॉक',
     es: 'Cámara fija',
@@ -143,6 +152,7 @@ export default {
   // ---- Graphics
   graphics: {
     en: 'Graphics',
+    el: 'Γραφικά',
     ru: 'Графика',
     hi: 'ग्राफ़िक्स',
     es: 'Gráficos',
@@ -163,6 +173,7 @@ export default {
 
   viewrange: {
     en: 'View range',
+    el: 'Απόσταση θέασης',
     ru: 'Дальность прорисовки',
     de: 'Sichtweite',
     nl: 'Weergavebereik',
@@ -183,6 +194,7 @@ export default {
 
   resolution: {
     en: 'Resolution',
+    el: 'Ανάλυση',
     ru: 'Разрешение',
     hi: 'रेसोलूशन',
     es: 'Resolución',
@@ -203,6 +215,7 @@ export default {
 
   postprocessing: {
     en: 'Post-processing',
+    el: 'Post-processing',
     de: 'Nachbearbeitung',
     ru: 'Постобработка',
     tr: 'Detaylandırma',
@@ -219,6 +232,7 @@ export default {
 
   skilleffects: {
     en: 'Skill Effects',
+    el: 'Εφέ Ξορκιών',
     ru: 'Визуальные эффекты навыков',
     hi: 'स्किल दिखावट',
     es: 'Efectos de Habilidades',
@@ -239,6 +253,7 @@ export default {
 
   shadows: {
     en: 'Shadows',
+    el: 'Σκιές',
     ru: 'Тени',
     de: 'Schatten',
     fr: 'Ombres',
@@ -255,6 +270,7 @@ export default {
 
   ssao: {
     en: 'Ambient Occlusion',
+    el: 'Ambient Occlusion',
     ru: 'Окружающая окклюзия',
     fr: 'Occlusion Ambiante',
     pt: 'Oclusão Ambiental',
@@ -270,6 +286,7 @@ export default {
 
   grass: {
     en: 'Grass',
+    el: 'Γρασίδι',
     de: 'Gras',
     ru: 'Трава',
     fr: 'Herbe',
@@ -286,6 +303,7 @@ export default {
 
   clouds: {
     en: 'Clouds',
+    en: 'Σύννεφα',
     de: 'Wolken',
     ru: 'Облака',
     fr: 'Nuages',
@@ -302,6 +320,7 @@ export default {
 
   particles: {
     en: 'Particles',
+    el: 'Particles',
     de: 'Partikel',
     ru: 'Частицы',
     fr: 'Particules',
@@ -318,6 +337,7 @@ export default {
 
   detailprops: {
     en: 'Detail props',
+    el: 'Λεπτομέρειες',
     de: 'Details',
     ru: 'Детализация',
     nl: 'Detail Voorwerpen',
@@ -334,6 +354,7 @@ export default {
   // ---- Audio
   audio: {
     en: 'Audio',
+    el: 'Ήχος',
     ru: 'Звук',
     de: 'Ton',
     nl: 'Geluid',
@@ -354,6 +375,7 @@ export default {
 
   sfxvolume: {
     en: 'SFX Volume',
+    el: 'Ένταση SFX',
     ru: 'Громкость спецэффектов',
     de: 'Effekt-Lautstärke',
     nl: 'SFX Volume',
@@ -372,10 +394,12 @@ export default {
   },
   ambiencevolume: {
     en: 'Ambience Volume',
+    el: 'Ένταση ατμόσφαιρας',
     ru: 'Громкость окружения'
   },
   musicvolume: {
     en: 'Music Volume',
+    el: 'Ένταση μουσικής',
     de: 'Musik-Lautstärke',
     ru: 'Громкость музыки',
     fr: 'Volume des Musiques',
@@ -388,6 +412,7 @@ export default {
   // ---- Chat
   chat: {
     en: 'Chat',
+    el: 'Συνομιλία',
     ru: 'Чат',
     hi: 'चैट',
     es: 'Chat',
@@ -408,6 +433,7 @@ export default {
 
   chatbubbles: {
     en: 'Show chat bubbles',
+    el: 'Εμφάνιση φουσκών συνομιλίας',
     de: 'Sprechblasen anzeigen',
     ru: 'Показавать сообщения над игроком',
     fr: 'Afficher les bulles de chat',
@@ -424,6 +450,7 @@ export default {
 
   combatlog: {
     en: 'Combat Log',
+    el: 'Καταγραφή μάχης',
     de: 'Kampf-Log',
     ru: 'Лог боя',
     nl: 'Gevechts log',
@@ -440,6 +467,7 @@ export default {
   // ---- User interface
   interface: {
     en: 'Interface',
+    el: 'Διεπαφή',
     ru: 'Интерфейс',
     de: 'Oberfläche',
     pt: 'Interface',
@@ -460,6 +488,7 @@ export default {
 
   language: {
     en: 'Language',
+    el: 'Γλώσσα',
     ru: 'Язык',
     de: 'Sprache',
     nl: 'Taal',
@@ -480,6 +509,7 @@ export default {
 
   invwidth: {
     en: 'Inventory width',
+    el: 'Πλάτος τσάντας',
     ru: 'Ширина инвентаря',
     de: 'Inventar-Breite',
     nl: 'Inventarisbreedte',
@@ -499,6 +529,7 @@ export default {
   // Do NOT translate "Stash"
   stashwidth: {
     en: 'Stash width',
+    el: 'Πλάτος Stash',
     es: 'Ancho del Stash',
     ru: 'Ширина Stash',
     fr: 'Largeur de Stash',
@@ -513,6 +544,7 @@ export default {
   // Do NOT translate "Stash"
   stashheight: {
     en: 'Stash height',
+    el: 'Ύψος Stash',
     es: 'Capacidad del stash',
     ru: 'Высота Stash',
     fr: 'Hauteur de Stash',
@@ -526,6 +558,7 @@ export default {
 
   tutorial: {
     en: 'Tutorial',
+    el: 'Οδηγός για αρχάριους',
     ru: 'Обучение',
     hi: 'शिक्षण',
     es: 'Tutorial',
@@ -546,6 +579,7 @@ export default {
 
   resettutorial: {
     en: 'Reset tutorial',
+    el: 'Μηδενισμός οδηγού για αρχάριους',
     ru: 'Начать обучение снова',
     hi: 'शिक्षण रीसेट',
     es: 'Reiniciar el tutorial',
@@ -566,6 +600,7 @@ export default {
 
   disabletutorial: {
     en: 'Disable tutorial',
+    el: 'Απενεργοποίηση οδηγού για αρχάριους',
     de: 'Tutorial deaktivieren',
     ru: 'Отключить обучение',
     tr: 'Öğreticiyi kapat',
@@ -584,6 +619,7 @@ export default {
   // ---- map
   maplowqual: {
     en: 'Low quality mode',
+    el: 'Λειτουργία χαμηλής ποιότητας',
     de: 'Niedrige Qualität',
     ru: 'Режим низкого качества',
     hu: 'Alacsony minőségű mód',
@@ -600,6 +636,7 @@ export default {
 
   mapshowmonsters: {
     en: 'Show monsters',
+    el: 'Εμφάνιση τεράτων',
     ru: 'Показывать монстров',
     hu: 'Szörnyek mutatása',
     pt: 'Mostrar monstros',

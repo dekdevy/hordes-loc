@@ -2,6 +2,7 @@ export default {
 
   waitunstash: {
     en: 'You have to wait until you can retrieve this item.',
+    el: 'Πρέπει να περιμένετε για να ανακτήσετε αυτό το αντικείμενο.',
     de: 'Du musst noch etwas warten, bis du dieses Item entnehmen kannst.',
     ru: 'Вы должны подождать перед тем как вы можете получить этот предмет.',
     pt: 'Você tem de esperar até que possa recuperar este item.',
@@ -21,6 +22,7 @@ export default {
 
   withdraw: {
     en: 'Withdraw',
+    el: 'Ανάκτηση',
     nl: 'Terugtrekken',
     de: 'Abheben',
     ru: 'Забрать',
@@ -42,6 +44,7 @@ export default {
   // Translate the verb, rather than the noun.
   deposit: {
     en: 'Deposit',
+    el: 'Κατάθεση',
     ru: 'Депозировать',
     pl: 'Depozyt',
     de: 'Einzahlen',
@@ -54,6 +57,7 @@ export default {
   // Do not translate "Stash".
   stash: {
     en: 'Stash item',
+    el: 'Αποθήκευση στο Stash',
     de: 'In Stash verschieben',
     ru: 'Положить в Stash',
     pt: 'Mover para o baú',
@@ -74,6 +78,7 @@ export default {
   // Do not translate "Stash".
   stashed: {
     en: '$1 has been moved to your Stash.',
+    el: 'Το $1 έχει μεταφερθεί στο Stash.',
     de: '$1 wurde in deinen Stash verschoben.',
     ru: '$1 было добавлено в Stash.',
     pt: '$1 foi transferido para o seu Stash.',

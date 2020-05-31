@@ -1,6 +1,7 @@
 export default {
   clanMemberJoin: {
     en: '$1 has joined your clan.',
+    el: 'Ο παίκτης $1 προσχώρησε στην φατρία σου.',
     de: '$1 ist deinem Clan beigetreten.',
     ru: '$1 вступил в ваш клан.',
     es: '$1 se ha unido a tu clan.',
@@ -15,6 +16,7 @@ export default {
   },
   clanMemberInvite: {
     en: 'A clan invitation has been sent to $1.',
+    el: 'Εστάλη η πρόσκληση φατρίας στον παίκτη $1.',
     de: '$1 wurde in deinen Clan eingeladen.',
     ru: 'Выслано приглашение игроку $1 для вступления в ваш клан.',
     es: 'Se ha enviado una invitación del clan a $1.',
@@ -29,6 +31,7 @@ export default {
   },
   clanMemberLeave: {
     en: '$1 has left your clan.',
+    el: 'Ο παίκτης $1 έχει αποχωρήσει από την φατρία σου.',
     de: '$1 ist aus deinem Clan ausgetreten.',
     ru: 'Игрок $1 покинул ваш клан.',
     es: '$1 ha abandonado tu clan.',
@@ -43,6 +46,7 @@ export default {
   },
   clanMemberApply: {
     en: '$1 has applied to join your clan.',
+    el: 'Ο παίκτης $1 έχει κάνει αίτηση για να προσχωρήσει στην φατρία σου.',
     de: '$1 hat sich bei deinem Clan beworben.',
     ru: 'Игрок $1 подал заявку на вступление в ваш клан.',
     es: '$1 ha solicitado entrar a tu clan.',
@@ -57,6 +61,7 @@ export default {
   },
   clanMemberRolePromote: {
     en: '$1 was promoted in clan role.',
+    el: 'Ο παίκτης $1 προάχθηκε.',
     de: '$1 hat eine Clan-Beförderung erhalten.',
     ru: 'Игрок $1 был повышен на новую должность.',
     es: '$1 fue promovido en el rol del clan.',
@@ -71,6 +76,7 @@ export default {
   },
   clanMemberRoleDemote: {
     en: '$1 was demoted in clan role.',
+    el: 'Ο παίκτης $1 υποβιβάστηκε.',
     de: '$1 hat eine Clan-Degradierung erhalten.',
     ru: 'Игрок $1 был понижен в должности.',
     es: '$1 fue rebajado en el rol del clan.',
@@ -85,6 +91,7 @@ export default {
   },
   clanKickOther: {
     en: '$1 was kicked from your clan.',
+    el: 'Ο παίκτης $1 εκδιώχθηκε από την φατρία σου.',
     de: '$1 wurde aus dem Clan geworfen.',
     ru: 'Игрок $1 был исключен из вашего клана.',
     es: '$1 fue expulsado de tu clan.',
@@ -99,6 +106,7 @@ export default {
   },
   clanKickYou: {
     en: 'You were kicked from your clan.',
+    el: 'Εκδιώχθηκες από την φατρία σου.',
     de: 'Du wurdest aus deinem Clan geworfen.',
     ru: 'Вы были исключены из вашего клана.',
     es: 'Ha sido expulsado del clan.',
@@ -113,6 +121,7 @@ export default {
   },
   partyMemberInvite: { // Do not translate "party".
     en: '$1 has been invited by $2 to join your party.',
+    el: 'Ο παίκτης $1 έχει προσκληθεί από τον $2 στο party.',
     de: '$1 wurde von $2 eingeladen deiner Party beizutreten.',
     ru: '$1 пригласил $2 вступить в вашу Party.',
     es: '$1 ha sido invitado por $2 a unirse a tu Party.',
@@ -127,6 +136,7 @@ export default {
   },
   partyMemberJoin: { // Do not translate "party".
     en: '$1 has joined your party.',
+    el: 'Ο παίκτης $1 προσχώρησε στο party.',
     de: '$1 ist deiner Party beigetreten.',
     ru: 'Игрок $1 вступил в вашу Party.',
     es: '$1 se ha unido a tu Party.',
@@ -141,6 +151,7 @@ export default {
   },
   partyMemberLeave: { // Do not translate "party".
     en: '$1 has left your party.',
+    el: 'Ο παίκτης $1 αποχώρησε από το party.',
     de: '$1 hat die Party verlassen.',
     ru: 'Игрок $1 вышел из Party.',
     es: '$1 ha abandonado tu Party.',
@@ -155,6 +166,7 @@ export default {
   },
   partyInvitationDecline: { // Do not translate "party".
     en: '$1 has declined to join your party.',
+    el: 'Ο παίκτης $1 απέρριψε την πρόσκληση για το party.',
     de: '$1 hat abgelehnt, deiner Party beizutreten.',
     ru: 'Игрок $1 отказался вступать в вашу Party.',
     es: '$1 ha rechazado unirse a tu Party.',
@@ -169,6 +181,7 @@ export default {
   },
   partyMemberPromote: { // Do not translate "party".
     en: '$1 has been promoted in party role.',
+    el: 'Ο παίκτης $1 έχει προαχθεί στο party.',
     de: '$1 wurde in der Party befördert.',
     ru: 'Игрок $1 был повышен в должности Party.',
     es: '$1 ha sido promovido en el rol del Party.',
@@ -183,6 +196,7 @@ export default {
   },
   partyMemberFound: { // Do not translate "party".
     en: 'Found $1 new party members.',
+    el: 'Βρέθηκαν $1 νέα μέλη party.',
     de: '$1 neue Party-Mitglieder gefunden.',
     ru: 'Найдено 2 новых игрока для Party.',
     fr: '$1 nouveaux équipiers trouvés.',
@@ -195,6 +209,7 @@ export default {
   },
   partyMemberDemote: { // Do not translate "party".
     en: '$1 has been demoted in party role.',
+    el: 'Ο παίκτης $1 έχει υποβιβασθεί στο party.',
     de: '$1 wurde in der Party degradiert.',
     ru: 'Игрок $1 был понижен в должности Party',
     es: '$1 ha sido rebajado en el rol del Party.',
@@ -209,6 +224,7 @@ export default {
   },
   partyInviteLink: {
     en: '$1 has created a party invitation link: $2.',
+    el: 'Ο παίκτης $1 έχει δημιουργήσει ένα σύνδεσμο πρόσκλησης στο party: $2.',
     de: '$1 hat einen Einladungslink für die Party erstellt.',
     ru: 'Игрок $1 создал ссылку для присоединения к вашей Party: $2.',
     es: '$1 ha creado un link de invitación al Party: $2.',
@@ -223,6 +239,7 @@ export default {
   },
   partyKickYou: { // Do not translate "party".
     en: 'You have been kicked from the party by $1.',
+    el: 'Εκδιώχθηκες από το party από τον παίκτη $1.',
     de: 'Du wurdest von $1 aus deiner Party geworfen.',
     ru: '$1 исключил вас из Party.',
     es: 'Has sido expulsado del Party por $1.',
@@ -237,6 +254,7 @@ export default {
   },
   partyKickOther: { // Do not translate "party".
     en: '$1 was kicked from your party by $2.',
+    el: 'Ο παίκτης $1 εκδιώθηκε από το party από τον παίκτη $2.',
     de: '$1 wurde von $2 aus der Party entfernt.',
     ru: '$2 исключил $1 из Party.',
     es: '$1 fue expulsado de tu Party por $2.',
@@ -251,6 +269,7 @@ export default {
   },
   partyQueueStart: { // Do not translate "party".
     en: 'Your party has started queue type: $1.',
+    el: 'Το party σου ψάχνει για: $1.',
     de: 'Party-Warteschlange gestartet: $1.',
     ru: 'Ваша Party начала тип очереди: $1.',
     fr: 'Votre party a rejoint la file d\'attente de type: $1.',
@@ -262,6 +281,7 @@ export default {
   },
   partyQueueStop: { // Do not translate "party".
     en: 'Your party has stopped queue type: $1.',
+    el: 'Το party σου δεν ψάχνει πια για: $1.',
     de: 'Party-Warteschlange gestoppt: $1.',
     ru: 'Ваша Party остановила тип очереди: $1.',
     fr: 'Votre party a quitté la file d\'attente de type: $1',
@@ -273,6 +293,7 @@ export default {
   },
   partyLootQueueResolve: {
     en: '$1 received $2 $3 $4.',
+    el: '$1 έλαβε $2 $3 $4.',
     es: '$1 recibió $2 $3 $4.',
     ru: '$1 получил $2 $3 $4.',
     fr: '$1 à reçu $2 $3 $4.',
@@ -284,6 +305,7 @@ export default {
   },
   auctionSold: {
     en: 'Your merchant auction has been sold and $g$1 has been sent to your Stash.',
+    el: 'Η δημοπρασία σου έχει πωληθεί και $g$1 έχουν αποσταλεί στο Stash.',
     de: 'Dein Angebot im Auktionshaus wurde erfolgreich verkauft und $g$1 wurden in deinen Stash gelegt.',
     ru: 'Ваш лот был продан на аукционе. В Stash добавлено: $g$1.',
     es: 'Tu subasta mercantil ha sido vendida y $g$1 ha sido enviado a tu Stash.',
@@ -299,6 +321,7 @@ export default {
   },
   online: {
     en: '$1 has come online.',
+    el: 'Ο παίκτης $1 συνδέθηκε.',
     de: '$1 ist nun Online',
     ru: '$1 в игре.',
     es: '$1 está online.',
@@ -313,6 +336,7 @@ export default {
   },
   offline: {
     en: '$1 has gone offline.',
+    el: 'Ο παίκτης $1 αποσυνδέθηκε.',
     de: '$1 ist nun Offline.',
     ru: '$1 вышел из игры.',
     es: '$1 está offline.',

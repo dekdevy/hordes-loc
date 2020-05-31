@@ -2,6 +2,7 @@ export default {
   interactions: [{
     text: {
       en: 'Burdened minds are filled with opinions aplenty; a cup can be quite useful if first found empty. How may I help you on your path toward enlightenment?',
+      el: 'Τα φορτωμένα μυαλά έιναι γεμάτα με άφθονες γνώμες. Ένα κύπελλο μπορεί να είναι πολύ χρήσιμο εάν βρεθεί άδειο. Πώς μπορώ να βοηθήσω στο μονοπάτι σου προς την φώτιση;',
       hu: 'A megtisztított tudatokban lehetőségek végtelenje rejlik; egy üres csésze csupán akkor hasznos, ha teljesen üres. Hogy segélhetlek a megvilágosodás felé?',
       es: 'Las mentes cargadas están llenas de opiniones en abundancia; una taza puede ser algo útil si primero se encuentra vacía. ¿Cómo puedo ayudarte en tu camino a través de la iluminación?',
       ru: 'Загруженные умы полны мнений; чаша может оказаться весьма полезной, если впервые обнаружить ее пустой. Как я могу помочь тебе на пути к просветлению?',
@@ -15,6 +16,7 @@ export default {
 
     choices: [{
       en: 'Reset my stat points ( $g$1 ).',
+      el: 'Επανέφερε τους πόντους του στατιστικού ( $g$1 ).',
       ru: 'Сбрось мои очки характеристик( $g$1 ).',
       hu: 'Statpont újraszervezés ( $g$1 ).',
       pt: 'Reinicie os meus pontos de stat ( $g$1 ).',
