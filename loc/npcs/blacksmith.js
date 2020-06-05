@@ -3,6 +3,7 @@ export default {
     // Do NOT translate "Blacksmith's Blessed Hammer".
     text: {
       en: 'Upgrading is risky without additional special items like a Blacksmith\'s Blessed Hammer, which can prevent items from breaking during upgrades. Without the hammer, we will be taking a risk. So, surely you have something that I can upgrade for you today?',
+      el: 'Η αναβάθμιση είναι επικίνδυνη χωρίς ειδικά αντικείμενα όπως το Blacksmith\'s Blessed Hammer, το οποίο μπορεί να εμποδίσει τα αντικείμενα να σπάσουν κατα την αναβάθμιση. Χωρίς το Hammer, θα πρέπει να πάρουμε ένα ρίσκο. Οπότε, έχεις κάτι σήμερα που μπορώ να σου αναβαθμίσω;',
       ru: 'Стараться улучшить предметы без специальных инструментов как Blacksmith\'s Blessed Hammer рискованно. Такой молот может превратить поломку во время улучшения предметов. Без молотка, мы будем рисковать вашими деньгами и предметами. Ну, есть у вас что-то то что вы хотите улучшить?',
       fr: 'Améliorer vos items est risqué sans l\'aide d\'un autre item special, tel que le Blacksmith\'s Blessed Hammer, qui les empèche de briser durant leurs amélioration. Sans l\'Hammer, nous prenons un risque. Bon, avez-vous quelque chose que je pourrais améliorer pour vous aujourd\'hui?',
       es: 'Es peligroso upgradear sin algunos objectos especiales como un Blacksmith\'s Blessed Hammer, el cual puede impedir el quebramiento de sus ítemes durante los mejoramientos. Sin usar este martillo, encontrará algunos riesgos. Entonces, ¿tienes algo que pueda mejorar para ti?',
@@ -22,6 +23,7 @@ export default {
 
     choices: [{
       en: 'Yes, I have some items.',
+      el: 'Ναι, έχω κάποια αντικείμενα.',
       es: 'Sí, tengo algunos objetos.',
       ru: 'Да, у меня есть кое-какие вещи.',
       de: 'Ja, ich habe ein paar Items.',

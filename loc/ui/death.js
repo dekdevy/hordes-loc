@@ -1,6 +1,7 @@
 export default {
   death: {
     en: 'You have died.',
+    el: 'Έχεις πεθάνει',
     ru: 'Вы умерли.',
     hi: 'आप मर चुके हैं',
     es: 'Has muerto.',
@@ -22,6 +23,7 @@ export default {
 
   deathmsg: {
     en: 'Press the button to be resurrected at the nearest conjurer.',
+    el: 'Πάτησε το κουμπί για να αναστηθείς στον κοντινότερο Θαυματοποιό.',
     ru: 'Нажмите кнопку, чтобы воскреснуть у ближайшего Заклинателя.',
     hi: 'निकटतम संयोजक पर पुनर्जीवित होने के लिए बटन दबाएं।',
     es: 'Presiona este botón para ser resucitado en el invocador más cercano.',
@@ -44,6 +46,7 @@ export default {
   // 'Resurrect' is used in many translations/languages.
   respawn: {
     en: 'Respawn',
+    el: 'Ανάστηση',
     ru: 'Воскреснуть',
     hi: 'अपने आप को जीवित करें',
     es: 'Resucitar',

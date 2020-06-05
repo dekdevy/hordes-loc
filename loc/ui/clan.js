@@ -2,6 +2,7 @@ export default {
 
   leave: {
     en: 'Leave Clan',
+    el: 'Έξοδος από τη Φατρία',
     ru: 'Выйти из клана',
     fr: 'Quitter le Clan',
     hi: 'दल छोड़े',
@@ -23,6 +24,7 @@ export default {
 
   heading: {
     en: 'Clan',
+    el: 'Φατρία',
     ru: 'Клан',
     fr: 'Clan',
     hi: 'दल',
@@ -44,6 +46,7 @@ export default {
 
   createheading: {
     en: 'Create Clan',
+    el: 'Δημιουργία Φατρίας',
     ru: 'Создать клан',
     fr: 'Créer un Clan',
     hi: 'दल बनाए',
@@ -65,6 +68,7 @@ export default {
 
   createname: {
     en: 'Clan Name',
+    el: 'Όνομα Φατρίας',
     ru: 'Название клана',
     fr: 'Nom du Clan',
     hi: 'दल का नाम',
@@ -86,6 +90,7 @@ export default {
 
   createtag: {
     en: 'Clan Tag',
+    el: 'Ετικέτα φατρίας',
     ru: 'Аббревиатура клана',
     fr: 'Tag du Clan',
     hi: 'दल Tag',
@@ -107,6 +112,7 @@ export default {
 
   createbutton: {
     en: 'Create',
+    el: 'Δημιουργία',
     ru: 'Создать',
     fr: 'Créer',
     hi: 'निर्माण करे',

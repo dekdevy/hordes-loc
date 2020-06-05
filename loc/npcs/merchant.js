@@ -3,6 +3,7 @@ export default {
     // Do NOT translate "Warcry Scrolls".
     text: {
       en: 'Well, look what we have here! No, that equipment won’t do, will it? Take a look at the open market! Rumors are spreading; I’ve heard of Warcry Scrolls that can teleport a friend to your position. Let’s just keep that between us, okay?',
+      el: 'Κοίτα τι έχουμε εδώ! Όχι, αυτός ο εξοπλισμός δεν σου κάνει, έτσι δεν είναι; Ρίξε μια ματιά στην αγορά μας! Οι φήμες διαδίδονται: Έχω ακούσει για Warcry Scrolls που μπορούν να μεταφέρουν ένα φίλο στην τοποθεσία σου. Αλλά ας το κρατήσουμε αυτό μεταξύ μας, εντάξει;',
       ru: 'Ну что ж, посмотрим что у нас тут есть! Не, эти предметы никуда не годятся, не так ли? Взгляните на рынок! Ходят слухи, о мощных Warcry Scrolls, которые позволяют вам телепортировать ваших напарников к себе. Только давай оставим ето между нами, ладно?',
       hi: 'अच्छा, देखो हमारे यहाँ क्या है! नहीं, यह उपकरण नहीं करेगा, क्या यह होगा? खुले बाजार पर एक नजर! अफवाहें फैल रही हैं; मैंने Warcry Scrolls के बारे में सुना है जो आपके स्थान पर किसी मित्र को टेलीपोर्ट कर सकता है। चलो बस हमारे बीच रखें, ठीक है?',
       ko: '글쎄, 우리가 여기있는 걸 봐! 아니, 그 장비는하지 않을거야, 그렇지? 공개 시장을 한번보세요! 소문이 퍼지고있다. 친구를 당신의 위치로 텔레포트시킬 수있는 와르시 Warcry Scrolls에 대해 들었습니다. 우리 사이에 그걸 지키자. 알았지?',
@@ -22,6 +23,7 @@ export default {
 
     choices: [{
       en: 'Yes, show me the items for sale.',
+      el: 'Ναι, δείξε μου τα αντικείμενα προς πώληση.',
       pt: 'Sim, mostra-me os items que estão à venda.',
       ro: 'Da, arată-mi ce lucruri sunt de vânzare.',
       hi: 'जी हा, विक्रीय के लिए उपलब्ध चीज़े दिखाएं।',

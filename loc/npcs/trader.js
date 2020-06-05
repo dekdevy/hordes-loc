@@ -2,6 +2,7 @@ export default {
   interactions: [{
     text: {
       en: 'Welcome to the best goods around! You aren’t going to find a better deal than what I have for you; however, I hear that there is a special shop with fantastic items unlike anything I’ve ever seen. In the meanwhile, I have some spare coins and spare goods. Would you like to sell anything?',
+      el: 'Καλώς όρισες στα καλύτερα αγαθά! Δεν θα βρείς καλύτερες προσφορές από αυτές που θα σου δώσω. Όμως, άκουσα ότι υπάρχει ένα ειδικό κατάστημα με φανταστικά αντικείμενα που δεν έχω ξαναδεί. Εν τω μεταξύ, έχω μερικά περισσευάμενα νομίσματα και αγαθά. Θα ήθελες να πουλήσει κάτι;',
       ru: 'Добро пожаловать! Тут вы найдете лучшие товары на этом миру! Хоть у меня и есть отличный товар, я слыхал о магазине с таинственными и мощными предметами, такие который я не когда не видел в своё жизни. Ну, а пока, у меня есть немного денег и немного товара, вы хотите что-то продать или купить?',
       es: '¡Bienvenido a los mejores productos! No vas a encontrar una oferta mejor que la que tengo para ti; Sin embargo, escuché que hay una tienda especial con artículos fantásticos diferentes a todo lo que he visto. Mientras tanto, tengo algunas monedas de repuesto y productos de repuesto. ¿Te gustaría vender algo?',
       hi: 'चारों ओर सबसे अच्छा सामान के लिए आपका स्वागत है! मेरे पास आपके लिए जो कुछ भी है, उससे बेहतर सौदा खोजने के लिए आप नहीं जा रहे हैं; हालाँकि, मैं सुनता हूँ कि कुछ भी नहीं देखा है के विपरीत शानदार वस्तुओं के साथ एक विशेष दुकान है। इस बीच, मेरे पास कुछ अतिरिक्त सिक्के और अतिरिक्त सामान हैं। क्या आप कुछ भी बेचना चाहेंगे?',
@@ -21,6 +22,7 @@ export default {
 
     choices: [{
       en: 'Show me your wares.',
+      el: 'Δείξε μου τα αγαθά σου.',
       es: 'Enseñame tus productos',
       ru: 'Покажи мне свои товары.',
       hu: 'Mutasd az áruidat',
@@ -37,6 +39,7 @@ export default {
 
   header: {
     en: 'Sell your items.',
+    el: 'Πούλησε τα αντικείμενά σου.',
     de: 'Verkaufe deine Items.',
     fr: 'Vendre vos objets.',
     ru: 'Продать свои вещи.',
@@ -56,6 +59,7 @@ export default {
 
   info: {
     en: 'To sell an item, shift-right-click it or drag it into the trader window.',
+    el: 'Για να πουλήσεις ένα αντικείμενο, κάνε shift-δεξί-click επάνω του ή σύρε το στο παράθυρο του εμπόρου.',
     ru: 'Чтобы продать вещь, нажмите на неё правой кнопкой мыши или перетащите в окно торговца.',
     pt: 'Para vender um item, clique direito ou arraste-o para a janela de negociação.',
     es: 'Para vender un objeto, haz clic derecho o arrástralo a la ventana del comerciante.',
@@ -77,6 +81,7 @@ export default {
   // Include punctuation and space.
   price: {
     en: 'Selling price: ',
+    el: 'Τιμή πώλησης: ',
     ru: 'Цена продажи: ',
     de: 'Verkaufspreis: ',
     fr: 'Prix de vente: ',
@@ -97,6 +102,7 @@ export default {
 
   buy: {
     en: 'Are you interested in anything? Click an item to buy it.',
+    el: 'Σε ενδιαφέρει κάτι; Κάνε κλίκ στο αντικείμενο για να το αγοράσεις.',
     de: 'Interessierst du dich für etwas? Klicke auf einen Gegenstand, um ihn zu kaufen.',
     ru: 'Вам что-нибудь интересно? Кликните на предмет, чтобы купить его.',
     es: '¿Estás interesado en algo? Haz clic en un objeto para comprarlo.',

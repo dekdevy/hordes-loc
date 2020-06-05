@@ -8,6 +8,7 @@ export default {
   misc: {
     damage: {
       en: 'Damage',
+      el: 'Ζημιά',
       fr: 'Damage',
       ru: 'Урон',
       es: 'Daño',
@@ -27,6 +28,7 @@ export default {
 
     {
       en: 'Strength',
+      el: 'Δύναμη',
       fr: 'Force',
       ru: 'Сила',
       es: 'Fuerza',
@@ -43,6 +45,7 @@ export default {
 
     {
       en: 'Stamina',
+      el: 'Αντοχή',
       fr: 'Endurance',
       ru: 'Стойкость',
       es: 'Aguante',
@@ -59,6 +62,7 @@ export default {
 
     {
       en: 'Dexterity',
+      el: 'Επιδεξιότητα',
       fr: 'Dextérité',
       ru: 'Ловкость',
       es: 'Destreza',
@@ -75,6 +79,7 @@ export default {
 
     {
       en: 'Intelligence',
+      el: 'Εξυπνάδα',
       ru: 'Интеллект',
       fr: 'Intelligence',
       es: 'Inteligencia',
@@ -91,6 +96,7 @@ export default {
 
     {
       en: 'Wisdom',
+      el: 'Ευφυία',
       fr: 'Sagesse',
       ru: 'Мудрость',
       es: 'Sabidur.',
@@ -107,6 +113,7 @@ export default {
 
     {
       en: 'Luck',
+      el: 'Τύχη',
       fr: 'Chance',
       ru: 'Удача',
       es: 'Suerte',
@@ -139,6 +146,7 @@ export default {
 
     {
       en: 'Min Dmg.',
+      en: 'Ελάχιστη Ζημιά',
       ru: 'Мин. урон.',
       es: 'Daño Min',
       pt: 'Dano Mín',
@@ -155,6 +163,7 @@ export default {
 
     {
       en: 'Max Dmg.',
+      en: 'Μέγιστη Ζημία',
       ru: 'Макс. урон.',
       es: 'Daño Max',
       pt: 'Dano Máx',
@@ -171,6 +180,7 @@ export default {
 
     {
       en: 'Defense',
+      el: 'Άμυνα',
       fr: 'Défense',
       ru: 'Защита',
       es: 'Defensa',
@@ -187,6 +197,7 @@ export default {
 
     {
       en: 'Block',
+      el: 'Μπλοκάρισμα',
       ru: 'Блок',
       fr: 'Parade',
       pt: 'Bloquе.',
@@ -203,6 +214,7 @@ export default {
 
     {
       en: 'Critical',
+      en: 'Καίριο Χτύπημα',
       ru: 'Крит',
       fr: 'Critique',
       es: 'Crítico',
@@ -219,6 +231,7 @@ export default {
 
     {
       en: 'Move Spd.',
+      el: 'Ταχύτητα Κίνησης',
       fr: 'Vit. Mouv.',
       ru: 'Скорость',
       es: 'Vel. Mov.',
@@ -234,6 +247,7 @@ export default {
 
     {
       en: 'Haste',
+      el: 'Φούρια',
       ru: 'Ск.Умен',
       es: 'Rapidez',
       pt: 'Rapidez',
@@ -250,6 +264,7 @@ export default {
 
     {
       en: 'Attack Spd.',
+      el: 'Ταχύτητα Επίθεσης',
       ru: 'Скорость Атк.',
       fr: 'Vit. Attq',
       es: 'Vel. Ataque',
@@ -265,6 +280,7 @@ export default {
 
     {
       en: 'Item Find',
+      el: 'Εύρεση Αντικειμένων',
       ru: 'Поиск пред.',
       fr: 'Trouvaille',
       es: 'hallar item',
@@ -280,6 +296,7 @@ export default {
 
     {
       en: 'Bag Slots',
+      el: 'Θέσεις τσάντας',
       ru: 'Слоты сумки',
       pt: 'Espaço',
       fr: 'Espace Sac',
@@ -295,6 +312,7 @@ export default {
 
     {
       en: 'Fame',
+      el: 'Φήμη',
       de: 'Ruf',
       ru: 'Слава',
       fr: 'Gloire',
@@ -310,11 +328,13 @@ export default {
 
     {
       en: 'Rating',
+      el: 'Εκτίμηση',
       ru: 'Рейтинг'
     },
 
     {
       en: 'Stat Points',
+      el: 'Πόντοι Στατιστικών',
       ru: 'Очки Хар-ик',
       fr: 'Points Stat',
       es: 'Puntos de stat',
@@ -330,6 +350,7 @@ export default {
 
     {
       en: 'Skill Points',
+      el: 'Πόντοι Ικανοτήτων',
       ru: 'Очки умений',
       fr: 'Points Comp.',
       es: 'Puntos de Hab.',
@@ -345,6 +366,7 @@ export default {
 
     {
       en: '% Increased Dmg.',
+      el: '% Επιπλέον Ζημιά',
       fr: '% Dmg Améliorés',
       ru: '% Увеличения урона',
       es: '% Daño Aumentado',
@@ -360,6 +382,7 @@ export default {
 
     {
       en: '% Increased Aggro Generation',
+      el: '% Επιπλέον Aggro',
       ru: '% Увеличения агрессии',
       fr: '% Génération d\'aggro Améliorée',
       es: '% Aumento de Aggro generado',
@@ -375,6 +398,7 @@ export default {
 
     {
       en: '% Movement Spd. Reduction',
+      el: '% Ελάττωση Ταχύτητας Κίνησης',
       fr: '% Réduction Vit. Mouv.',
       ru: '% Cнижения скор. движения',
       es: '% Reducción de Vel. Mov.',
@@ -390,6 +414,7 @@ export default {
 
     {
       en: 'Healing Reduction',
+      el: 'Ελάττωση Γιατρειάς',
       de: 'Heilungsreduktion',
       hu: 'Gyógyításcsökkentés',
       ru: 'Снижение восст. HP',

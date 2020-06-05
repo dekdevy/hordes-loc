@@ -2,6 +2,7 @@ export default {
 
   name: {
     en: 'Inventory',
+    el: 'Τσάντα',
     ru: 'Инвентарь',
     hi: 'वस्तुसूची',
     es: 'Inventario',
@@ -22,6 +23,7 @@ export default {
 
   pick: {
     en: 'You have picked up $1.',
+    el: 'Απόκτησες το $1.',
     nl: 'Je hebt opgepikt $1.',
     es: 'Has recogido $1.',
     pt: 'Você pegou $1.',
@@ -41,6 +43,7 @@ export default {
 
   throw: {
     en: 'You threw away $1.',
+    el: 'Πέταξες το $1.',
     ru: 'Вы выбросили $1.',
     ro: 'Ai aruncat $1.',
     es: 'Has tirado $1.',
@@ -61,6 +64,7 @@ export default {
 
   full: {
     en: 'Your inventory is full.',
+    el: 'Η τσάντα σου είναι γεμάτη.',
     nl: 'Uw inventaris is vol.',
     es: 'Tu inventario está lleno.',
     pt: 'O seu inventário está cheio.',
@@ -80,6 +84,7 @@ export default {
 
   sold: {
     en: 'You have sold $1.',
+    el: 'Πούλησες το $1.',
     nl: 'U heeft verkocht $1.',
     es: 'Has vendido $1.',
     pt: 'Você vendeu $1.',
@@ -99,6 +104,7 @@ export default {
 
   receive: {
     en: 'You have received $1',
+    el: 'Έχεις λάβει $1',
     de: 'Du hast $1 erhalten.',
     ru: 'Вы получили $1.',
     fr: 'Vous avez reçu $1.',
@@ -118,6 +124,7 @@ export default {
 
   drop: {
     en: 'Drop item',
+    el: 'Πέταμα αντικειμένου',
     ru: 'Выбросить предмет',
     hi: 'वस्तु गिरा दे',
     es: 'Tirar objeto',
@@ -138,6 +145,7 @@ export default {
 
   equip: {
     en: 'Equip item',
+    el: 'Εξόπλιση αντικειμένου',
     ru: 'Экипировать снаряжение',
     hi: 'वस्तु पहन लें',
     es: 'Equipar objeto',
@@ -157,6 +165,7 @@ export default {
 
   use: {
     en: 'Use item',
+    el: 'Χρήση αντικειμένου',
     ru: 'Использовать',
     hi: 'इस्तमाल करे',
     ro: 'Utilizează',
@@ -176,16 +185,19 @@ export default {
   },
 
   copyitemid: {
-    en: 'Copy item ID'
+    en: 'Copy item ID',
+    el: 'Αντιγραφή ID αντικειμένου',
   },
 
   sell: {
     en: 'Sell item',
+    el: 'Πώληση αντικειμένου',
     ru: 'Продать предмет'
   },
 
   splithalf: {
     en: 'Split half',
+    el: 'Χωρισμός στο μισό',
     ru: 'Разделить пополам',
     fr: 'Partager en deux',
     pt: 'Dividir ao meio',
@@ -200,6 +212,7 @@ export default {
 
   splitone: {
     en: 'Split one',
+    el: 'Διαχωρισμός ενός',
     ru: 'Отделить один',
     fr: 'Retirer un item',
     pt: 'Retirar um',
@@ -214,6 +227,7 @@ export default {
 
   spend: {
     en: 'You have spent $1.',
+    el: 'Έχεις ξόδέξει $1.',
     ru: 'Вы потратили $1.',
     es: 'Has gastado $1.',
     fr: 'Vous avez dépensé $1.',
@@ -234,6 +248,7 @@ export default {
 
   death: {
     en: 'You died and lost $1.',
+    el: 'Πέθανες και έχασες $1.',
     ru: 'Вы умерли и потеряли $1.',
     es: 'Has muerto y perdiste $1.',
     fr: 'Vous êtes mort et avez perdu $1.',

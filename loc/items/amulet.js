@@ -3,6 +3,7 @@ export default [
     name       : {$$: 'Rotten Talisman'},
     description: {
       en: 'Burned ingredients have been twisted and tied together to form an amulet of meager protection. Creating simple amulets like this has been a common survival tactic since ancient times.',
+      el: 'Καμμένα συστατικά έχουν δεθεί μαζί για να δημιουργήσουν ένα φυλακτό μικρής προστασίας. Η δημιουργία απλών φυλακτών όπως αυτό έχει υπάρξει μια συνηθισμένη τακτική από τους αρχαίους χρόνους.',
       ru: 'Материалы собраны в лесу были сожженны и скрученные чтобы создать амулет слабой защиты. Такое искусство было популярной тактикой выжевания в древние времена.',
       hi: 'जले पदार्थों को तोड़ मरोड़ कर इस्स ताबीज़ को बनाया है। ऐसे ताबीज़ बनाना प्राचीन समय से ज़िंदा रहने की आम युक्ति रही है।',
       de: 'Verbrannte Zutaten wurden verdreht und zu einem Amulett des mageren Schutzes zusammengebunden. Die Herstellung einfacher Amulette wie dieses ist seit der Antike eine gängige Überlebenstaktik.',
@@ -24,6 +25,7 @@ export default [
     name       : {$$: 'Wolf\'s Collar'},
     description: {
       en: 'Collars to keep wolves in servitude are made from a thick leather. Some of them still have chain links connected, but all wolf collars are sturdy. Some collars are imbued with spiritual protection.',
+      el: 'Τα κολλάρα που κρατούν τους λύκους στη δουλεία φτιάχνονται από παχύ δέρμα. Κάποια από αυτά έχουν ακόμη κρίκους, αλλά όλα τα κολλάρα λύκων είναι στιβαρά. Κάποια κολλάρα έχουν εμποτιστεί με πνευματική προστασία.',
       ru: 'Ошейники для упряжки диких волков сделаны из толстой кожи. На некоторых из них всё ещё висят обрывки цепей, но они всё ещё очень прочные. Некоторые ошейники пропитаны духовной защитой.',
       hi: 'भेड़ियों को भृत्यभाव रखने के लिए मोटी चमड़ी के पट्टे इस्तमाल किए जाते है। कुछ पट्टों पर अभी भी सांकल लगे हुए है, पर सारे पट्टे तगड़े है। कुछ पट्टे आत्मिक सुरक्षा से रंजित है।',
       de: 'Halsbänder, um Wölfe in Knechtschaft zu halten, sind aus einem dicken Leder gefertigt. Einige von ihnen haben noch Kettenglieder verbunden, aber alle Wolfshalsbänder sind robust. Einige Halsbänder sind mit spirituellem Schutz versehen.',
@@ -45,6 +47,7 @@ export default [
     name       : {$$: 'Bone Necklace'},
     description: {
       en: 'This necklace consists of bone fragments from a variety of strong creatures. Each bone necklace varies in protection based on the origin of the bones.',
+      el: 'Αυτό το μενταγιόν αποτελείται από κομμάτια κοκκάλων από μια ποικιλία τρομερών τεράτων. Κάθε μενταγιόν διαφέρει στην προστασία ανάλογα με την προέλευση των κοκκάλων.',
       ru: 'Это ожерелье сделано из фрагментов костей разных сильных существ. Каждое костное ожерелье имеет разную степень защиты в зависимости от происхождения костей.',
       hi: 'इस माला में अलग अलग ताक़तवर प्रणीयो की हद्दीयो के टुकड़े है। हर माला की शक्ति उसकी हद्दीयो के मूल पर निर्भर करती है।',
       de: 'Diese Halskette besteht aus Knochenfragmenten von einer Vielzahl starker Kreaturen. Jede Knochenkette variiert in ihrem Schutz je nach Herkunft der Knochen.',

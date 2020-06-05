@@ -2,6 +2,7 @@ export default {
   // Simple basic UI elements that pop up everywhere
   ok: {
     en: 'Okay',
+    el: 'ΟΚ',
     ru: 'Хорошо',
     de: 'Okay',
     hi: 'ठीक',
@@ -23,6 +24,7 @@ export default {
 
   back: {
     en: 'Back',
+    el: 'Πίσω',
     ru: 'Назад',
     hi: 'पिछला',
     fr: 'Retour',
@@ -44,6 +46,7 @@ export default {
 
   accept: {
     en: 'Accept',
+    el: 'Αποδοχή',
     ru: 'Принять',
     hi: 'स्वीकार है',
     fr: 'Accepter',
@@ -65,6 +68,7 @@ export default {
 
   cancel: {
     en: 'Cancel',
+    el: 'Ακύρωση',
     ru: 'Отмена',
     nl: 'Annuleren',
     tr: 'İptal Et',
@@ -86,6 +90,7 @@ export default {
 
   decline: {
     en: 'Decline',
+    el: 'Απόρριψη',
     ru: 'Отказать',
     hi: 'मना करें',
     fr: 'Refuser',
@@ -107,6 +112,7 @@ export default {
 
   close: {
     en: 'Close',
+    el: 'Κλείσιμο',
     ru: 'Закрыть',
     hi: 'बंद करे',
     fr: 'Fermer',

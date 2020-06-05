@@ -2,6 +2,7 @@ export default {
   // The class name
   name: {
     en: 'Warrior',
+    el: 'Πολεμιστής',
     de: 'Krieger',
     ru: 'Воин',
     bg: 'Воин',
@@ -25,6 +26,7 @@ export default {
   // Class description, visible during character creation
   description: {
     en: 'Warriors are built to tank more monsters than any other class by having high defense through equipment (Shields) and strong defensive buffs.',
+    el: 'Οι πολεμιστές μπορούν να έχουν τον ρόλο του Tank επειδή έχουν υψηλή άμυνα μέσω του εξοπλισμού τους (Ασπίδες) και δυνατά αμυντικά ξόρκια.',
     ru: 'Воины созданы для того, чтобы танковать больше монстров чем любой другой класс, имея хорошую защиту с помощью снаряжения (Щита) и сильных защитных усилений.',
     de: 'Krieger sind so gebaut, dass sie mehrere Monster auf einmal aushalten können, da sie eine hohe Verteidigung durch Ausrüstung (Schilde) und starke defensive Buffs haben.',
     es: 'Los guerreros están hechos para resistir más daño de los monstruos que cualquier otra clase mediante su gran defensa, su equipamiento (escudos) y sus fuertes Buffs(ventajas) defensivos.',

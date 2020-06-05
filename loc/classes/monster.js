@@ -1,6 +1,7 @@
 export default {
   name: {
     en: 'Monster',
+    el: 'Τέρας',
     de: 'Monster',
     ru: 'Монстр',
     bg: 'Чудовище',
