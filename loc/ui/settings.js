@@ -303,7 +303,7 @@ export default {
 
   clouds: {
     en: 'Clouds',
-    en: 'Σύννεφα',
+    el: 'Σύννεφα',
     de: 'Wolken',
     ru: 'Облака',
     fr: 'Nuages',
