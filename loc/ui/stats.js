@@ -146,7 +146,7 @@ export default {
 
     {
       en: 'Min Dmg.',
-      en: 'Ελάχιστη Ζημιά',
+      el: 'Ελάχιστη Ζημιά',
       ru: 'Мин. урон.',
       es: 'Daño Min',
       pt: 'Dano Mín',
@@ -163,7 +163,7 @@ export default {
 
     {
       en: 'Max Dmg.',
-      en: 'Μέγιστη Ζημία',
+      el: 'Μέγιστη Ζημία',
       ru: 'Макс. урон.',
       es: 'Daño Max',
       pt: 'Dano Máx',
@@ -214,7 +214,7 @@ export default {
 
     {
       en: 'Critical',
-      en: 'Καίριο Χτύπημα',
+      el: 'Καίριο Χτύπημα',
       ru: 'Крит',
       fr: 'Critique',
       es: 'Crítico',
