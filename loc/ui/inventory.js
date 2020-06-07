@@ -186,7 +186,8 @@ export default {
 
   copyitemid: {
     en: 'Copy item ID',
-    el: 'Αντιγραφή ID αντικειμένου',
+    ru: 'Скопировать ID предмета',
+    el: 'Αντιγραφή ID αντικειμένου'
   },
 
   sell: {
