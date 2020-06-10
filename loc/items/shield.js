@@ -7,7 +7,7 @@ export default [
       de: 'Dies ist ein provisorischer Schild, der anscheinend aus der Not heraus entstanden ist.',
       vi: 'Đây là một lá chắn tạm thời dường như được sản xuất khi không cần thiết.',
       it: 'Questo è uno scudo di fortuna che sembra essere stato prodotto per necessità.',
-      es 'Este es un escudo improvisado que parece haberse producido por necesidad.'
+      es: 'Este es un escudo improvisado que parece haberse producido por necesidad.'
     }
   },
 
