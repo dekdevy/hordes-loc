@@ -23,7 +23,7 @@ export default {
     choices: [{
       en: 'Show me your wares.',
       el: 'Δείξε μου τα αγαθά σου.',
-      es: 'Enseñame tus productos',
+      es: 'Muéstrame tus productos',
       ru: 'Покажи мне свои товары.',
       hu: 'Mutasd az áruidat',
       pt: 'Mostra-me os teus produtos.',
