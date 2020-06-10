@@ -63,7 +63,7 @@ export default [
       pl: 'Długie miecze są przede wszystkim rozpoznawane przez ich dłuższy chwyt, a nie przez dłuższe ostrze. Kowale stosowali różnorodne materiały i poziomy umiejętności, co skutkowało różnorodnymi rezultatami.',
       vi: 'Longswords chủ yếu được xác định bởi chuôi dài hơn thay vì lưỡi dài hơn. Thợ rèn đã sử dụng nhiều loại vật liệu và cấp độ kỹ năng, tạo ra nhiều kết quả khác nhau.',
       it: 'I Longswords sono principalmente identificati dalla loro presa più lunga piuttosto che dalla lama più lunga. I Bladesmiths hanno utilizzato una varietà di materiali e livelli di abilità, producendo un\'ampia varietà di risultati.',
-      'Las Longswords se identifican principalmente por su empuñadura más larga, en lugar de una hoja más larga. Los Bladesmiths usaron una variedad de materiales y niveles de habilidad, produciendo una amplia variedad de resultados.'
+      es: 'Las Longswords se identifican principalmente por su empuñadura más larga, en lugar de una hoja más larga. Los Bladesmiths usaron una variedad de materiales y niveles de habilidad, produciendo una amplia variedad de resultados.'
     }
   },
   {
