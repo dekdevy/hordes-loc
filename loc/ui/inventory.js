@@ -42,7 +42,8 @@ export default {
     tl: 'Kinuha mo na $1',
     ht: 'Ou ranmase $1',
     ko: '당신은 $1 를 선택했습니다',
-    sv: 'Du har plockat upp $1'
+    sv: 'Du har plockat upp $1',
+    tr: 'Yerden $1 aldın'
   },
 
   throw: {
@@ -65,7 +66,8 @@ export default {
     el: 'Πέσατε $1',
     bg: 'Изхвърлихте $1',
     cs: 'Odhodil jsi $1',
-    ja: 'あなたは捨てました$1'
+    ja: 'あなたは捨てました$1',
+    tr: '$1 attın'
   },
 
   full: {
@@ -87,7 +89,8 @@ export default {
     tl: 'Ang iyong imbentaryo ay puno',
     ht: 'Envantè ou plen',
     ko: '인벤토리가 가득 찼습니다',
-    sv: 'Din inventering är full'
+    sv: 'Din inventering är full',
+    tr: 'Enterterin dolu'
   },
 
   sell: { // TODO: these are likely broken in many places
@@ -109,7 +112,8 @@ export default {
     tl: 'Binebenta mo na $1',
     ht: 'Ou te vann $1',
     ko: '$1 에',
-    sv: 'Du har sålt $1'
+    sv: 'Du har sålt $1',
+    tr: '$1 satıldı'
   },
 
   receive: {
@@ -122,7 +126,8 @@ export default {
     pt: 'Você recebeu $1',
     es: 'Usted ha recibido $1',
     it: 'Hai ricevuto $1',
-    hi: 'आपको $1 प्राप्त हुआ है'
+    hi: 'आपको $1 प्राप्त हुआ है',
+    tr: '$1 elde ettin'
   },
 
   drop: {
@@ -152,6 +157,7 @@ export default {
     en: 'Equip item',
     ru: 'Надеть предмет',
     hi: 'वस्तु पहन लें'
+    tr: 'Eşyayı tak'
   },
 
   use: {
@@ -167,7 +173,7 @@ export default {
     nl: 'Gebruik item',
     pl: 'Pozycja użytkowa',
     sv: 'Använd sak',
-    tr: 'Öğe kullan',
+    tr: 'Eşyayı kullanı',
     ht: 'Sèvi ak atik la',
     it: 'Utilizzare la voce',
     tl: 'Gamitin ang item',

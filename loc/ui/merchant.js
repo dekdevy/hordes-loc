@@ -18,7 +18,8 @@ export default {
     ko: '수색',
     ja: 'サーチ',
     ro: 'Caută',
-    hi: 'खोजे'
+    hi: 'खोजे',
+    tr: 'Ara'
   },
 
   filtermine: {
@@ -39,7 +40,8 @@ export default {
     ko: '내 항목 만',
     ja: '私の商品のみ',
     ro: 'Doar obiectele mele',
-    hi: 'मेरी वस्तुएं'
+    hi: 'मेरी वस्तुएं',
+    tr: 'Sadece benim eşyalarım'
   },
 
   buy: {
@@ -60,7 +62,8 @@ export default {
     ko: '물건을 사다',
     ja: '商品を購入',
     ro: 'Cumpără Obiectul',
-    hi: 'वस्तु खरीदे'
+    hi: 'वस्तु खरीदे',
+    tr: 'Eşya Satın Al',
   },
 
   post: {
@@ -74,7 +77,7 @@ export default {
     ko: '개체 보내기',
     pl: 'Prześlij Obiekt',
     sv: 'Skicka objekt',
-    tr: 'Nesne Gönder',
+    tr: 'Eşya Gönder',
     ht: 'Voye Objè',
     it: 'Invia L\'oggetto',
     hi: 'बाज़ार में डालें',
@@ -103,7 +106,8 @@ export default {
     ko: '항목 삭제',
     ja: 'アイテムを無効にする',
     ro: 'Scoate Obiectul',
-    hi: 'बाज़ार से हटाएं'
+    hi: 'बाज़ार से हटाएं',
+    tr: 'Eşyayı listeden çıkar'
   },
 
   // Include the space and punctuation
@@ -125,7 +129,8 @@ export default {
     ko: '가격: ',
     ja: '価格: ',
     ro: 'Preț: ',
-    hi: 'कीमत: '
+    hi: 'कीमत: ',
+    tr: 'Fiyat: ',
   },
 
   // Include the space and punctuation
@@ -147,7 +152,8 @@ export default {
     ko: '보수: ',
     ja: '費用: ',
     ro: 'Taxă: ',
-    hi: 'कीमत: '
+    hi: 'कीमत: ',
+    tr: 'Ücret: '
   },
 
   dragitem: {
@@ -168,7 +174,8 @@ export default {
     ko: '항목을 슬롯으로 드래그하십시오.',
     ja: 'アイテムをスロットにドラッグ',
     ro: 'Pune obiectul la locul lui',
-    hi: 'वस्तु खीच कर खांचे में डाल दे'
+    hi: 'वस्तु खीच कर खांचे में डाल दे',
+    tr: 'Eşyayı alana sürükle',
   },
 
   auctionpost: {
@@ -182,7 +189,7 @@ export default {
     nl: 'U heeft $1 te koop aangeboden',
     pl: 'Wysłałeś $1 na sprzedaż',
     sv: 'Du har skrivit $1 till salu',
-    tr: 'Satılık $1 gönderdiniz',
+    tr: '$1 satmak için gönderdiniz',
     ht: 'Ou te afiche $1 pou vann',
     it: 'Hai inviato $1 in vendita',
     hi: 'आपने $1 को विक्रय के लिए उपलब्ध कर दिया है',
@@ -212,7 +219,8 @@ export default {
     ko: '상장 폐지 된 물품',
     ja: '上場廃止されたアイテム',
     ro: 'Obiect delistat și pus la păstrare',
-    hi: 'वस्तु को बाज़ार से हटाकर आपके स्टैश में भेज दिया गया है'
+    hi: 'वस्तु को बाज़ार से हटाकर आपके स्टैश में भेज दिया गया है',
+    tr: 'Eşya satıştan çıkarıldı ve depoya gönderildi'
   },
 
   auctionbuy: {
@@ -234,7 +242,8 @@ export default {
     ja: '$1 枚のコインで購入し、あなたの隠し場所に送られるアイテム',
     ko: '$1 동전으로 구입하여 은닉 한 물품',
     ro: 'Obiect cumpărat pentru $1 monede și trimis în inventarul tău',
-    hi: 'अपने $1 सिक्कों में वस्तु खरीद ली है और उसे आपके स्टैश में भेज दिया गया है'
+    hi: 'अपने $1 सिक्कों में वस्तु खरीद ली है और उसे आपके स्टैश में भेज दिया गया है',
+    tr: 'Eşya $1 tutarına satın alındı ve depoya gönderildi '
   },
 
   sell: {
@@ -256,7 +265,8 @@ export default {
     tl: 'Binebenta mo na $1 Para sa $2',
     ht: 'Ou te vann $1 pou $2',
     ko: '$1 에 $1 를 판매했습니다',
-    sv: 'Du har sålt $1 för $2'
+    sv: 'Du har sålt $1 för $2',
+    tr: '$1 eşyasını $2 tutarına sattın'
   }
 
 }

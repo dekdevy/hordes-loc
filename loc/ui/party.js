@@ -135,7 +135,7 @@ export default {
     ru: 'Члены',
     nl: 'Leden',
     es: 'Miembros',
-    tr: 'Üye',
+    tr: 'Üyeler',
     cs: 'Členové',
     ja: 'メンバー',
     ht: 'Manm yo',

@@ -55,7 +55,7 @@ export default {
     de: 'Akzeptieren',
     es: 'Aceptar',
     nl: 'Aanvaarden',
-    tr: 'Kabul etmek',
+    tr: 'Kabul et',
     pt: 'Aceitar',
     pl: 'Zaakceptować',
     ht: 'Aksepte',
@@ -88,7 +88,8 @@ export default {
     ko: '취소',
     ja: 'キャンセル',
     hi: 'कैंसल',
-    sv: 'Annullera'
+    sv: 'Annullera',
+    tr: 'İptal'
   },
 
   decline: {
@@ -100,7 +101,7 @@ export default {
     de: 'Ablehnen',
     es: 'Disminución',
     nl: 'Afwijzen',
-    tr: 'Düşüş',
+    tr: 'Reddet',
     pt: 'Declínio',
     pl: 'Upadek',
     ht: 'Refize',

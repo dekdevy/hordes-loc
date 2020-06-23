@@ -17,7 +17,8 @@ export default {
     ko: '이 항목을 가져올 때까지 기다려야합니다.',
     ja: 'このアイテムを取得できるようになるまで待つ必要があります。',
     hi: 'आपको इस आइटम को पुनः प्राप्त करने तक इंतजार करना होगा।',
-    ro: 'Trebuie să aștepți până să poți recupera acest obiect.'
+    ro: 'Trebuie să aștepți până să poți recupera acest obiect.',
+    tr: 'Bu eşyayı almak için beklemek zorundasın'
   },
 
   withdraw: {
@@ -32,7 +33,8 @@ export default {
     it: 'Ritirare',
     pl: 'Wycofanie',
     sv: 'Retirera',
-    ro: 'Retrage'
+    ro: 'Retrage',
+    tr: 'Çekil',
   },
 
   stash: {
@@ -54,7 +56,8 @@ export default {
     bg: 'Преместване в скривалище',
     cs: 'Přesuňte se na skrýš',
     ja: '隠し場所に移動',
-    ro: 'Mută în ascunzătoare.'
+    ro: 'Mută în ascunzătoare.',
+    tr: 'Depoya taşı'
   },
 
   stashed: {
@@ -70,7 +73,8 @@ export default {
     hi: '$1 को स्टैश में भेज दिया गया है',
     tl: 'Ang $1 ay inilipat sa iyong itago',
     sv: '$1 har flyttats till din stash',
-    ro: '$1 a fost mutat în ascunzătoare'
+    ro: '$1 a fost mutat în ascunzătoare',
+    tr: '$1 depoya taşındı',
   }
 
 }

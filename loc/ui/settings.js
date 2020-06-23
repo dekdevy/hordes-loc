@@ -250,7 +250,7 @@ export default {
     cs: 'Objem SFX',
     hi: 'इफैक्ट्स की आवाज़',
     fr: 'Volume des effets sonores',
-    tr: 'SFX Ses Gücü',
+    tr: 'Ses Efekt Gücü',
     ht: 'Volim SFX',
     ko: 'SFX 볼륨',
     ja: 'SFXボリューム',
@@ -289,7 +289,7 @@ export default {
     de: 'Chatbreite',
     fr: 'Largeur du chat',
     nl: 'Chatbreedte',
-    tr: 'Chat genişliği',
+    tr: 'Sohbet genişliği',
     pt: 'Largura do chat',
     pl: 'Szerokość rozmowy',
     ht: 'Lajè chat',
@@ -312,7 +312,7 @@ export default {
     de: 'Chathöhe',
     fr: 'Hauteur de chat',
     nl: 'Chathoogte',
-    tr: 'Chat yükskliği',
+    tr: 'Sohbet yükskliği',
     pt: 'Altura do chat',
     pl: 'Wysokość rozmowy',
     ht: 'Wotè chat',
@@ -344,7 +344,7 @@ export default {
     cs: 'Rozhraní',
     hi: 'अन्तराफलक',
     fr: 'Interface',
-    tr: 'Arayüzey',
+    tr: 'Arayüz',
     ht: 'Entèfas',
     ko: '인터페이스',
     ja: 'インタフェース',
@@ -390,7 +390,8 @@ export default {
     cs: 'Šířka inventáře',
     hi: 'वस्तुसूची की चौड़ाई',
     fr: 'Largeur de l\'inventaire',
-    tl: 'Lapad ng Imbentaryo'
+    tl: 'Lapad ng Imbentaryo',
+    tr: 'Eşyalar yüksekliği',
   },
 
   uiscale: {
@@ -412,7 +413,8 @@ export default {
     el: 'Διαβάθμιση κλίμακας',
     bg: 'Интерфейсен мащаб',
     cs: 'Měřítko rozhraní',
-    ja: 'インターフェース規模'
+    ja: 'インターフェース規模',
+    tr: 'Arayüz boyutu'
   },
 
   tutorial: {
