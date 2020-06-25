@@ -57,7 +57,7 @@ export default {
     de: 'Flüstern',
     fr: 'Chuchoter',
     ko: '속삭임',
-    tr: 'Fısıltı',
+    tr: 'Fısılda',
     nl: 'Fluisteren',
     pt: 'Sussurro',
     pl: 'Szept',
