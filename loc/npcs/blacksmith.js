@@ -4,7 +4,7 @@ export default {
     text: {
       en: 'Upgrading is risky without additional special items like a Blacksmith\'s Blessed Hammer, which can prevent items from breaking during upgrades. Without the hammer, we will be taking a risk. So, surely you have something that I can upgrade for you today?',
       el: 'Η αναβάθμιση είναι επικίνδυνη χωρίς ειδικά αντικείμενα όπως το Blacksmith\'s Blessed Hammer, το οποίο μπορεί να εμποδίσει τα αντικείμενα να σπάσουν κατα την αναβάθμιση. Χωρίς το Hammer, θα πρέπει να πάρουμε ένα ρίσκο. Οπότε, έχεις κάτι σήμερα που μπορώ να σου αναβαθμίσω;',
-      ru: 'Стараться улучшить предметы без специальных инструментов как Blacksmith\'s Blessed Hammer рискованно. Такой молот может превратить поломку во время улучшения предметов. Без молотка, мы будем рисковать вашими деньгами и предметами. Ну, есть у вас что-то то что вы хотите улучшить?',
+      ru: 'Стараться улучшить предметы без специальных инструментов как Blacksmith\'s Blessed Hammer рискованно. Такой молот может предотвратить поломку во время улучшения предметов. Без молота, мы будем рисковать вашими деньгами и предметами. Ну, есть у вас что-то что вы хотите улучшить?',
       fr: 'Améliorer vos items est risqué sans l\'aide d\'un autre item special, tel que le Blacksmith\'s Blessed Hammer, qui les empèche de briser durant leurs amélioration. Sans l\'Hammer, nous prenons un risque. Bon, avez-vous quelque chose que je pourrais améliorer pour vous aujourd\'hui?',
       es: 'Es peligroso mejorar sin algunos objetos especiales como un Blacksmith\'s Blessed Hammer, el cual puede impedir que se rompan sus objetos durante la mejora. Sin el martillo, habrá riesgos. Entonces, ¿tienes algo que pueda mejorar para ti?',
       ko: 'Blacksmith\'s Blessed Hammer 과 같은 추가 항목이 없어도 업그레이드가 위험하므로 업그레이드하는 동안 항목이 손상되는 것을 방지 할 수 있습니다. 망치가 없으면 우리는 위험을 감수 할 것입니다. 내가 확실히 당신을 위해 향상시킬 수있는 것이 있습니까?',
@@ -25,7 +25,7 @@ export default {
       en: 'Yes, I have some items.',
       el: 'Ναι, έχω κάποια αντικείμενα.',
       es: 'Sí, tengo algunos objetos.',
-      ru: 'Да, у меня есть кое-какие вещи.',
+      ru: 'Да, у меня есть кое-какие предметы.',
       de: 'Ja, ich habe ein paar Items.',
       fr: 'Oui, j\'ai quelques items.',
       pt: 'Sim, eu tenho alguns items.',
