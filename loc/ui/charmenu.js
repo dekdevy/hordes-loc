@@ -5,7 +5,7 @@ export default {
     title: {
       en: 'Select Character',
       el: 'Επιλογή Χαρακτήρα',
-      ru: 'Выберите персонажа',
+      ru: 'Выберите героя',
       fr: 'Sélectionnez le Personnage',
       hi: 'स्वरूप चुने',
       es: 'Selecciona un Personaje',
@@ -28,7 +28,7 @@ export default {
     create: {
       en: 'Click to create character',
       el: 'Κάνε κλίκ για να επιλέξεις χαρακτήρα',
-      ru: 'Нажмите, чтобы создать персонажа',
+      ru: 'Нажмите, чтобы создать героя',
       hi: 'स्वरूप बानाने के लिए क्लिक करे',
       es: 'Pulsa aquí para crear un personaje',
       de: 'Klicke, um einen Charakter zu erstellen',
@@ -123,7 +123,7 @@ export default {
     title: {
       en: 'Character Creation',
       el: 'Δημιουργία Χαρακτήρα',
-      ru: 'Создание персонажа',
+      ru: 'Создание героя',
       fr: 'Création du Personnage',
       hi: 'स्वरूप निर्माण',
       es: 'Creación de Personaje',
@@ -287,7 +287,7 @@ export default {
     info: {
       en: 'To delete, type the character\'s name. Your character can not be restored.',
       el: 'Για να διαγράψετε, πληκτρολογήστε το όνομα του χαρακτήρα. Ο χαρακτήρας σας δεν θα μπορέσει να ανακτηθεί εάν συνεχίσετε.',
-      ru: 'Чтобы удалить, введите имя персонажа. После удаления данного персонажа не возможно будет восстановить.',
+      ru: 'Чтобы удалить, введите имя героя. После удаления данного героя, восстановление невозможно',
       hi: 'मिटाने के लिए अपने स्वरुप का नाम दाले। आपका स्वरूप पुनर नहीं मिल पाएगा।',
       es: 'Para eliminar, escribe el nombre del personaje. Tu personaje no podrá ser restaurado.',
       de: 'Gib zum Löschen deines Charakters seinen Namen ein. Dein Charakter kann nicht wiederhergestellt werden.',
