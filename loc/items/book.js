@@ -256,7 +256,7 @@ export default [{
   name: {$$: 'Spirit Animal'},
 
   description: {
-    en: 'Turn into your spirit animal for additional movementspeed, removing all movement impairing effects active at the point of the transformation. All spellcasting will cancel this effect.'
+    en: 'Turn into your spirit animal for additional movement speed, removing all movement impairing effects active at the point of the transformation. All spellcasting will cancel this effect.'
   }
 },
 {
