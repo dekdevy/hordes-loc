@@ -8,6 +8,7 @@ export default {
   misc: {
     damage: {
       en: 'Damage',
+      el: 'Ζημιά',
       fr: 'Damage',
       ru: 'Урон',
       es: 'Daño',
@@ -16,7 +17,10 @@ export default {
       hu: 'Sebzés',
       zh: '傷害',
       de: 'Schaden',
-      pl: 'Obrażenia'
+      // pl: 'Obrażenia'
+      // vi: 'Sát thương'
+      it: 'Danno',
+      sr: 'Штета'
     }
   },
 
@@ -24,6 +28,7 @@ export default {
 
     {
       en: 'Strength',
+      el: 'Δύναμη',
       fr: 'Force',
       ru: 'Сила',
       es: 'Fuerza',
@@ -32,11 +37,15 @@ export default {
       hu: 'Erő',
       zh: '力量',
       de: 'Stärke',
-      pl: 'Siła'
+      pl: 'Siła',
+      vi: 'Sức mạnh',
+      it: 'Forza',
+      sr: 'Снага'
     },
 
     {
       en: 'Stamina',
+      el: 'Αντοχή',
       fr: 'Endurance',
       ru: 'Стойкость',
       es: 'Aguante',
@@ -45,11 +54,15 @@ export default {
       hu: 'Vitalitás',
       zh: '耐力',
       pl: 'Stamina',
-      de: 'Ausdauer'
+      de: 'Ausdauer',
+      vi: 'Thể lực',
+      it: 'Resistenza',
+      sr: 'Стамина'
     },
 
     {
       en: 'Dexterity',
+      el: 'Επιδεξιότητα',
       fr: 'Dextérité',
       ru: 'Ловкость',
       es: 'Destreza',
@@ -58,11 +71,15 @@ export default {
       hu: 'Fürgeség',
       zh: '靈巧',
       de: 'Geschick',
-      pl: 'Zręczność'
+      pl: 'Zręczność',
+      vi: 'Nhanh nhẹn',
+      it: 'Destrezza',
+      sr: 'Спретност'
     },
 
     {
       en: 'Intelligence',
+      el: 'Εξυπνάδα',
       ru: 'Интеллект',
       fr: 'Intelligence',
       es: 'Inteligencia',
@@ -71,11 +88,15 @@ export default {
       hu: 'Intelligencia',
       zh: '智力',
       de: 'Intelligenz',
-      pl: 'Inteligencja'
+      pl: 'Inteligencja',
+      vi: 'Thông minh',
+      it: 'Intelligenza',
+      sr: 'Интелигенција'
     },
 
     {
       en: 'Wisdom',
+      el: 'Ευφυία',
       fr: 'Sagesse',
       ru: 'Мудрость',
       es: 'Sabidur.',
@@ -84,11 +105,15 @@ export default {
       hu: 'Bölcs.',
       zh: '智慧',
       de: 'Weisheit',
-      pl: 'Mądrość'
+      pl: 'Mądrość',
+      // vi: 'Thông thái'
+      it: 'Saggezza',
+      sr: 'Мудрост'
     },
 
     {
       en: 'Luck',
+      el: 'Τύχη',
       fr: 'Chance',
       ru: 'Удача',
       es: 'Suerte',
@@ -97,7 +122,10 @@ export default {
       hu: 'Esély',
       zh: '運氣',
       de: 'Glück',
-      pl: 'Szczęście'
+      vi: 'May mắn',
+      // pl: 'Szczęście'
+      it: 'Fortuna',
+      sr: 'Срећа'
     },
 
     {
@@ -118,6 +146,7 @@ export default {
 
     {
       en: 'Min Dmg.',
+      el: 'Ελάχιστη Ζημιά',
       ru: 'Мин. урон.',
       es: 'Daño Min',
       pt: 'Dano Mín',
@@ -126,11 +155,15 @@ export default {
       hu: 'Min. Sebz.',
       zh: '最少傷害',
       pl: 'Min. Obr.',
-      de: 'Min. Schaden'
+      de: 'Min. Schaden',
+      // vi: 'Sát thương nhỏ nhất'
+      it: 'Danno Min',
+      sr: 'Min. штета'
     },
 
     {
       en: 'Max Dmg.',
+      el: 'Μέγιστη Ζημία',
       ru: 'Макс. урон.',
       es: 'Daño Max',
       pt: 'Dano Máx',
@@ -139,11 +172,15 @@ export default {
       hu: 'Max. Sebz.',
       zh: '最大傷害',
       pl: 'Max. Obr.',
-      de: 'Max. Schaden'
+      de: 'Max. Schaden',
+      // vi: 'Sát thương lớn nhất'
+      it: 'Danno Max',
+      sr: 'Max. штета'
     },
 
     {
       en: 'Defense',
+      el: 'Άμυνα',
       fr: 'Défense',
       ru: 'Защита',
       es: 'Defensa',
@@ -152,11 +189,15 @@ export default {
       hu: 'Védelem',
       zh: '防禦',
       de: 'Abwehr',
-      pl: 'Obrona'
+      pl: 'Obrona',
+      vi: 'Phòng thủ',
+      it: 'Difesa',
+      sr: 'Одбрана'
     },
 
     {
       en: 'Block',
+      el: 'Μπλοκάρισμα',
       ru: 'Блок',
       fr: 'Parade',
       pt: 'Bloquе.',
@@ -165,12 +206,15 @@ export default {
       zh: '擋',
       pl: 'Blok',
       de: 'Blocken',
-      es: 'Bloqueo'
-
+      es: 'Bloqueo',
+      vi: 'Đỡ đòn',
+      it: 'Blocco',
+      sr: 'Блок'
     },
 
     {
       en: 'Critical',
+      el: 'Καίριο Χτύπημα',
       ru: 'Крит',
       fr: 'Critique',
       es: 'Crítico',
@@ -179,48 +223,64 @@ export default {
       hu: 'Kritikus',
       zh: '危急',
       de: 'Kritisch',
-      pl: 'Krytyczne'
+      pl: 'Krytyczne',
+      vi: 'Chí mạng',
+      it: 'Critico',
+      sr: 'Критичан'
     },
 
     {
       en: 'Move Spd.',
+      el: 'Ταχύτητα Κίνησης',
       fr: 'Vit. Mouv.',
       ru: 'Скорость',
       es: 'Vel. Mov.',
       pt: 'Velocidade',
       hu: 'Mozgás',
       zh: '移動速度',
-      pl: 'Prędkość ruchu'
-      // de: 'Geschwindigkeit'
+      // pl: 'Prędkość ruchu',
+      // vi: 'Tốc độ di chuyển',
+      // de: 'Bewegungstempo'
+      it: 'Velocità',
+      sr: 'Брз. крет.'
     },
 
     {
       en: 'Haste',
+      el: 'Φούρια',
       ru: 'Ск.Умен',
       es: 'Rapidez',
       pt: 'Rapidez',
-      fr: 'Célérité',
+      fr: 'Hâte',
       tr: 'Çabukluk',
       hu: 'Sietség',
       zh: '匆忙',
-      de: 'Eile',
-      pl: 'Szybkość'
+      de: 'Tempo',
+      pl: 'Szybkość',
+      vi: 'Mau lẹ',
+      it: 'Rapidità',
+      sr: 'Журба'
     },
 
     {
       en: 'Attack Spd.',
+      el: 'Ταχύτητα Επίθεσης',
       ru: 'Скорость Атк.',
       fr: 'Vit. Attq',
       es: 'Vel. Ataque',
       pt: 'Rapidez Atq.',
       hu: 'Támadási Seb.',
       zh: '攻擊速度',
-      pl: 'Szybkość ataku'
-      // de: 'Angriffsgeschwindigkeit'
+      pl: 'Szybkość ataku',
+      vi: 'Tốc độ đánh',
+      de: 'Angriffstempo',
+      it: 'Velocità Att.',
+      sr: 'Брз. напада'
     },
 
     {
       en: 'Item Find',
+      el: 'Εύρεση Αντικειμένων',
       ru: 'Поиск пред.',
       fr: 'Trouvaille',
       es: 'hallar item',
@@ -228,23 +288,31 @@ export default {
       hu: 'Tárgylelés',
       zh: '裝備查找',
       de: 'Item-Suche',
-      pl: 'Wyszukiwanie przedmiotu'
+      // pl: 'Wyszukiwanie przedmiotu',
+      // vi: 'Tỉ lệ tìm vật phẩm',
+      it: 'Ritrovamento',
+      sr: 'Прон. пред.'
     },
 
     {
       en: 'Bag Slots',
+      el: 'Θέσεις τσάντας',
       ru: 'Слоты сумки',
       pt: 'Espaço',
       fr: 'Espace Sac',
       hu: 'Hátizsák',
       zh: '袋槽',
       pl: 'Miejsce w ekw.',
-      de: 'Taschenplätze'
-      // es: 'Espacios de inventario'
+      de: 'Taschenplätze',
+      vi: 'Ô túi',
+      // es: 'Espacios de inventario',
+      it: 'Slots Zaino',
+      sr: 'Места у тор.'
     },
 
     {
       en: 'Fame',
+      el: 'Φήμη',
       de: 'Ruf',
       ru: 'Слава',
       fr: 'Gloire',
@@ -252,11 +320,21 @@ export default {
       pt: 'Fama',
       hu: 'Hírnév',
       zh: '聲譽',
-      pl: 'Sława'
+      pl: 'Sława',
+      // vi: 'Danh vọng',
+      it: 'Fama',
+      sr: 'Слава'
+    },
+
+    {
+      en: 'Rating',
+      el: 'Εκτίμηση',
+      ru: 'Рейтинг'
     },
 
     {
       en: 'Stat Points',
+      el: 'Πόντοι Στατιστικών',
       ru: 'Очки Хар-ик',
       fr: 'Points Stat',
       es: 'Puntos de stat',
@@ -264,11 +342,15 @@ export default {
       hu: 'Stat Pntk',
       zh: '屬性點',
       de: 'Stat-Punkte',
-      pl: 'Punkty Statystyk'
+      vi: 'Điểm tiềm năng',
+      // pl: 'Punkty Statystyk',
+      it: 'Punti stat',
+      sr: 'Поени за стат.'
     },
 
     {
       en: 'Skill Points',
+      el: 'Πόντοι Ικανοτήτων',
       ru: 'Очки умений',
       fr: 'Points Comp.',
       es: 'Puntos de Hab.',
@@ -276,11 +358,15 @@ export default {
       hu: 'Képesség Pntk',
       zh: '技能點',
       de: 'Skill-Punkte',
-      pl: 'Punkty Umiej.'
+      pl: 'Punkty Umiej.',
+      vi: 'Điểm kỹ năng',
+      it: 'Punti Skill',
+      sr: 'Поени за веш.'
     },
 
     {
       en: '% Increased Dmg.',
+      el: '% Επιπλέον Ζημιά',
       fr: '% Dmg Améliorés',
       ru: '% Увеличения урона',
       es: '% Daño Aumentado',
@@ -288,11 +374,15 @@ export default {
       hu: '% Megnövelt Sebz.',
       zh: '%傷害增加',
       de: '% erhöhten Schaden',
-      pl: '% Zwiększone obrażenia'
+      vi: '% Tăng sát thương',
+      it: '% Danno Incrementato',
+      sr: '% Повећања штете'
+      // pl: '% Zwiększone obrażenia'
     },
 
     {
       en: '% Increased Aggro Generation',
+      el: '% Επιπλέον Aggro',
       ru: '% Увеличения агрессии',
       fr: '% Génération d\'aggro Améliorée',
       es: '% Aumento de Aggro generado',
@@ -300,11 +390,15 @@ export default {
       hu: '% Megnövelt Aggro Képzés',
       zh: '%增加挑衅',
       pl: '% Zwiększone generowanie aggro.',
-      de: '% erhöht Aggro Generierung' //better word for Aggro?
+      de: '% erhöht Aggro Generierung',
+      vi: '% Tăng hồi Aggro',
+      it: '% Generazione Aggro Incrementato',
+      sr: '% Повећања агресије'
     },
 
     {
       en: '% Movement Spd. Reduction',
+      el: '% Ελάττωση Ταχύτητας Κίνησης',
       fr: '% Réduction Vit. Mouv.',
       ru: '% Cнижения скор. движения',
       es: '% Reducción de Vel. Mov.',
@@ -312,16 +406,24 @@ export default {
       hu: '% Mozgási Seb. Csökkentés',
       zh: '%移動速度降低',
       pl: '% Redukcja prędkości ruchu',
-      de: '% verminderte Laufgeschwindigkeit'
+      vi: '% Giảm tốc độ di chuyển',
+      it: '% Riduzione Velocità',
+      // de: '% verminderte Laufgeschwindigkeit',
+      sr: '% Смањења брз. кретања'
     },
 
     {
       en: 'Healing Reduction',
+      el: 'Ελάττωση Γιατρειάς',
       de: 'Heilungsreduktion',
       hu: 'Gyógyításcsökkentés',
       ru: 'Снижение восст. HP',
       es: 'Reducción de cura',
-      pl: 'Ograniczenie leczenia'
+      fr: 'Réduction de soin',
+      vi: 'Giảm hồi máu',
+      it: 'Riduzione Cure',
+      // pl: 'Ograniczenie leczenia',
+      sr: 'Умањење лечења'
     }
   ]
 }

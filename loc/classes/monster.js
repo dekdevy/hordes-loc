@@ -1,6 +1,7 @@
 export default {
   name: {
     en: 'Monster',
+    el: 'Τέρας',
     de: 'Monster',
     ru: 'Монстр',
     bg: 'Чудовище',
@@ -14,6 +15,11 @@ export default {
     ro: 'Monstru',
     zh: '怪物',
     hu: 'Szörnyeteg',
-    pl: 'Potwór'
+    pl: 'Potwór',
+    bn: 'দানব',
+    vi: 'Quái vật',
+    cs: 'Příšera',
+    sr: 'Чудовиште',
+    it: 'Mostro'
   }
 }

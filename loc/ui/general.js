@@ -2,6 +2,7 @@ export default {
   // Simple basic UI elements that pop up everywhere
   ok: {
     en: 'Okay',
+    el: 'ΟΚ',
     ru: 'Хорошо',
     de: 'Okay',
     hi: 'ठीक',
@@ -14,11 +15,16 @@ export default {
     ro: 'Okay',
     zh: '好的',
     hu: 'Rendben',
-    pl: 'OK'
+    pl: 'OK',
+    bn: 'ঠিক আছে',
+    vi: 'Đồng ý',
+    sr: 'Добро',
+    it: 'Ok'
   },
 
   back: {
     en: 'Back',
+    el: 'Πίσω',
     ru: 'Назад',
     hi: 'पिछला',
     fr: 'Retour',
@@ -31,11 +37,16 @@ export default {
     ro: 'Înapoi',
     zh: '回',
     hu: 'Vissza',
-    pl: 'Cofnij'
+    pl: 'Cofnij',
+    bn: 'আগে',
+    vi: 'Trở về',
+    sr: 'Назад',
+    it: 'Indietro'
   },
 
   accept: {
     en: 'Accept',
+    el: 'Αποδοχή',
     ru: 'Принять',
     hi: 'स्वीकार है',
     fr: 'Accepter',
@@ -48,11 +59,16 @@ export default {
     ro: 'Acceptă',
     zh: '允许',
     hu: 'Elfogadás',
-    pl: 'Akceptuj'
+    pl: 'Akceptuj',
+    bn: 'গ্রায্য',
+    vi: 'Chấp nhận',
+    sr: 'Прихвати',
+    it: 'Accetta'
   },
 
   cancel: {
     en: 'Cancel',
+    el: 'Ακύρωση',
     ru: 'Отмена',
     nl: 'Annuleren',
     tr: 'İptal Et',
@@ -65,11 +81,16 @@ export default {
     hi: 'कैंसल',
     zh: '取消',
     hu: 'Mégsem',
-    pl: 'Anuluj'
+    pl: 'Anuluj',
+    bn: 'বাতিল',
+    vi: 'Hủy bỏ',
+    sr: 'Откажи',
+    it: 'Annullare'
   },
 
   decline: {
     en: 'Decline',
+    el: 'Απόρριψη',
     ru: 'Отказать',
     hi: 'मना करें',
     fr: 'Refuser',
@@ -82,11 +103,16 @@ export default {
     ro: 'Refuză',
     zh: '拒绝',
     hu: 'Elutasítás',
-    pl: 'Anuluj'
+    pl: 'Anuluj',
+    bn: 'অগ্রায্য',
+    vi: 'Từ chối',
+    sr: 'Одбиј',
+    it: 'Declina'
   },
 
   close: {
     en: 'Close',
+    el: 'Κλείσιμο',
     ru: 'Закрыть',
     hi: 'बंद करे',
     fr: 'Fermer',
@@ -99,6 +125,10 @@ export default {
     ro: 'Închide',
     zh: '关',
     hu: 'Bezárás',
-    pl: 'Zamknij'
+    pl: 'Zamknij',
+    bn: 'বন্ধ',
+    vi: 'Đóng',
+    sr: 'Затвори',
+    it: 'Chiudi'
   }
 }

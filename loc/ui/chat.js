@@ -1,6 +1,7 @@
 export default {
   whisper: {
     en: 'Whisper',
+    el: 'Ψίθυρος',
     ru: 'Шептать',
     hi: 'फुसफुसाऐ',
     es: 'Susurro',
@@ -13,25 +14,37 @@ export default {
     ro: 'Șoaptă',
     hu: 'Suttogás',
     zh: '耳語',
-    pl: 'Szept'
+    pl: 'Szept',
+    bn: 'ফিসফিসানি',
+    vi: 'Thì thầm',
+    cs: 'Šepot',
+    sr: 'Шапући',
+    it: 'Sussurro'
   },
 
   types: [
     {
       en: 'Exp Gain',
+      el: 'Απόκτηση εμπειρίας',
       ru: 'Получение опыта',
       de: 'Exp erhalten',
       fr: 'Gain d\'xp',
-      es: 'Exp ganado',
+      es: 'Exp ganada',
       pt: 'Exp Ganho',
       tr: 'Exp Kazanımı',
       nl: 'Exp Gekregen',
       hu: 'EXP Jutalom',
       zh: 'Exp 獲得',
-      pl: 'Zdobywanie Doświadczenia'
+      pl: 'Zdobywanie Doświadczenia',
+      bn: 'Exp লাভ',
+      vi: 'Kinh nghiệm nhận được',
+      cs: 'Získání zkušeností',
+      sr: 'EXP Добитак',
+      it: 'Guadagno di Exp'
     },
     {
       en: 'Target Change',
+      el: 'Αλλαγή στόχου',
       de: 'Ziel gewechselt',
       ru: 'Смена цели',
       fr: 'Changement de Cible',
@@ -40,10 +53,16 @@ export default {
       nl: 'Verander Doelwit',
       hu: 'Célpont Megváltoztatása',
       zh: '目標變更',
-      pl: 'Zmiana celu'
+      pl: 'Zmiana celu',
+      bn: 'লক্ষ্য পরিবর্তন',
+      vi: 'Mục tiêu thay đổi',
+      cs: 'Změna cíle',
+      sr: 'Промена мете',
+      it: 'Cambio di Target'
     },
     {
       en: 'Cast',
+      el: 'Χτυπήματα',
       de: 'Zauber',
       ru: 'Произношение заклинаний',
       fr: 'Cast',
@@ -52,10 +71,16 @@ export default {
       nl: 'Uitspreken',
       hu: 'Előhívás',
       zh: '施法',
-      pl: 'Rzucenie czaru'
+      pl: 'Rzucenie czaru',
+      bn: 'নিক্ষেপ',
+      vi: 'Thi triển',
+      cs: 'Čarování',
+      sr: 'Бацити',
+      it: 'Invocare'
     },
     {
       en: 'Damage',
+      el: 'Ζημιά',
       de: 'Schaden',
       ru: 'Урон',
       fr: 'Damage',
@@ -65,10 +90,16 @@ export default {
       nl: 'Schade',
       hu: 'Sebzés',
       zh: '傷害',
-      pl: 'Obrażenia'
+      pl: 'Obrażenia',
+      bn: 'ক্ষতি',
+      vi: 'Sát thương',
+      cs: 'Poškození',
+      sr: 'Штета',
+      it: 'Danno'
     },
     {
       en: 'Heal',
+      el: 'Γιατριά',
       ru: 'Исцеление',
       fr: 'Heal',
       de: 'Heilung',
@@ -78,10 +109,16 @@ export default {
       nl: 'Genezen',
       hu: 'Gyógyítás',
       zh: '補血',
-      pl: 'Leczenie'
+      pl: 'Leczenie',
+      bn: 'চিকিৎসা',
+      vi: 'Hồi máu',
+      cs: 'Vyléčení',
+      sr: 'Оздравити',
+      it: 'Cura'
     },
     {
       en: 'Death',
+      el: 'Θάνατος',
       de: 'Tod',
       ru: 'Смерть',
       fr: 'Death',
@@ -91,34 +128,52 @@ export default {
       nl: 'Dood',
       hu: 'Halál',
       zh: '死亡',
-      pl: 'śmierć'
+      pl: 'śmierć',
+      bn: 'মৃত্যু',
+      vi: 'Chết',
+      cs: 'Smrt',
+      sr: 'Смрт',
+      it: 'Morte'
     },
     {
       en: 'Level Up',
+      el: 'Απόκτηση επιπέδου',
       de: 'Level aufgestiegen',
       ru: 'Повышения уровня',
       fr: 'Level Up',
-      es: 'Nivel subido',
+      es: 'Nivel Incrementado',
       pt: 'Subir de nível',
       nl: 'Level Omhoog',
       hu: 'Szintlépés',
       zh: '升等',
-      pl: 'Zdobyto poziom'
+      pl: 'Zdobyto poziom',
+      bn: 'লেভেল আপ',
+      vi: 'Lên cấp',
+      cs: 'Zvýšení úrovně',
+      sr: 'Нови ниво',
+      it: 'Nuovo Livello'
     },
     {
       en: 'Items',
+      el: 'Αντικείμενα',
       de: 'Gegenstände',
       ru: 'Предметы',
       fr: 'Items',
-      es: 'Items',
+      es: 'Objetos',
       pt: 'Items',
       nl: 'Voorwerpen',
       hu: 'Tárgyak',
       zh: '升等',
-      pl: 'Przedmioty'
+      pl: 'Przedmioty',
+      bn: 'আইটেমস',
+      vi: 'Vật phẩm',
+      cs: 'Předměty',
+      sr: 'Предмети',
+      it: 'Oggetti'
     },
     {
       en: 'Auction',
+      el: 'Δημοπρασία',
       de: 'Auktion',
       ru: 'Аукцион',
       fr: 'Enchères',
@@ -127,22 +182,34 @@ export default {
       nl: 'Veiling',
       hu: 'Aukció',
       zh: '拍賣',
-      pl: 'Aukcja'
+      pl: 'Aukcja',
+      bn: 'নিলাম',
+      vi: 'Nhà đấu giá',
+      cs: 'Předměty',
+      sr: 'Аукција',
+      it: 'Vendita all \'asta'
     },
     {
       en: 'Pick Gold',
+      el: 'Απόκτηση χρυσού',
       de: 'Gold aufgehoben',
       ru: 'Сбор золота',
       fr: 'Gold Ramassé',
-      es: 'Oro recogido',
+      es: 'Recoger Oro',
       pt: 'Pegar Ouro',
       nl: 'Goud Oprapen',
       hu: 'Felvett Arany',
       zh: '採金',
-      pl: 'Zbierz złoto'
+      pl: 'Zbierz złoto',
+      bn: 'টাকা তোলা',
+      vi: 'Nhặt vàng',
+      cs: 'Zvednout zlato',
+      sr: 'Покупи злато',
+      it: 'Colleziona l\'oro'
     },
     {
       en: 'Spent Gold',
+      el: 'Ξόδεμα χρυσού',
       de: 'Gold ausgegeben',
       ru: 'Трата золота',
       fr: 'Gold Utilisé',
@@ -151,10 +218,16 @@ export default {
       nl: 'Goud Besteden',
       hu: 'Elköltött Arany',
       zh: '花金',
-      pl: 'Wydane złoto'
+      pl: 'Wydane złoto',
+      bn: 'টাকা ব্যয় করা',
+      vi: 'Vàng đã dùng',
+      cs: 'Utratit zlato',
+      sr: 'Потрошено злато',
+      it: 'Spendi l\'oro'
     },
     {
       en: 'Fame Gain',
+      el: 'Απόκτηση φήμης',
       de: 'Ruhm erhalten',
       ru: 'Получение славы',
       fr: 'Gain de Gloire',
@@ -164,7 +237,12 @@ export default {
       nl: 'Beroemdheid Gekregen',
       hu: 'Dicsőség Jutalom',
       zh: '獲得聲譽',
-      pl: 'Zdobyta Sława'
+      pl: 'Zdobyta Sława',
+      bn: 'Fame লাভ',
+      vi: 'Danh vọng nhận được',
+      cs: 'Získání slávy',
+      sr: 'Добитак славе',
+      it: 'Guadagno della Fama'
     }
   ]
 }

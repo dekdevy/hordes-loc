@@ -2,6 +2,7 @@ export default {
 
   search: {
     en: 'Search',
+    el: 'Αναζήτηση',
     nl: 'Zoeken',
     ru: 'Поиск',
     de: 'Suche',
@@ -13,11 +14,15 @@ export default {
     hi: 'खोजे',
     zh: '搜索',
     hu: 'Keresés',
-    pl: 'Szukaj'
+    pl: 'Szukaj',
+    vi: 'Tìm kiếm',
+    sr: 'Претрага',
+    it: 'Cerca'
   },
 
   filtermine: {
     en: 'My items only',
+    el: 'Μόνο τα αντικείμενά μου',
     nl: 'Alleen mijn voorwerpen',
     de: 'Nur meine Items',
     ru: 'Только мои лоты',
@@ -29,11 +34,15 @@ export default {
     hi: 'मेरी वस्तुएं',
     zh: '只要我的装备',
     hu: 'Csak az én tárgyaim',
-    pl: 'Tylko moje przedmioty'
+    pl: 'Tylko moje przedmioty',
+    vi: 'Chỉ trang bị của tôi',
+    sr: 'Само моји предмети',
+    it: 'Solo i miei oggetti'
   },
 
   buy: {
     en: 'Buy Item',
+    el: 'Αγορά αντικειμένου',
     nl: 'Voorwerp Kopen',
     de: 'Item kaufen',
     ru: 'Купить лот',
@@ -45,14 +54,18 @@ export default {
     hi: 'वस्तु खरीदे',
     zh: '买装备',
     hu: 'Vásárlás',
-    pl: 'Kup przedmiot'
+    pl: 'Kup przedmiot',
+    vi: 'Kupi',
+    it: 'Compra Oggetto',
+    sr: 'Купи предмет'
   },
 
   post: {
     en: 'Post Item',
+    el: 'Δημοσίευση αντικειμένου',
     ru: 'Выставить лот',
     nl: 'Plaatsen Voorwerp',
-    es: 'Enviar Objeto',
+    es: 'Publicar Objeto',
     fr: 'Soumettre L\'objet',
     de: 'Item versenden',
     pt: 'Publicar Item',
@@ -61,27 +74,35 @@ export default {
     hi: 'बाज़ार में डालें',
     ro: 'Postează Obiectul',
     hu: 'Áruba bocsátás',
-    pl: 'Wystaw przedmiot'
+    pl: 'Wystaw przedmiot',
+    vi: 'Đăng vật phẩm',
+    sr: 'Постави предмет',
+    it: 'Pubblica oggetto'
   },
 
   delist: {
     en: 'Delist Item',
+    el: 'Αποδημοσίευση αντικειμένου',
     nl: 'Verwijderd Voorwerp',
     de: 'Verkauf abbrechen',
     ru: 'Снять с продажи',
     pt: 'Excluir Objeto',
     fr: 'Enlever l\'objet des enchères',
-    es: 'Eliminar Objeto',
+    es: 'Retirar Objeto',
     ko: '항목 삭제',
     ro: 'Scoate Obiectul',
     hi: 'बाज़ार से हटाएं',
     hu: 'Tárgy visszavétele',
-    pl: 'Usuń przedmiot'
+    pl: 'Usuń przedmiot',
+    vi: 'Xóa vật phẩm khỏi danh sách',
+    sr: 'Склони предмет',
+    it: 'Ritira l\'oggetto'
   },
 
   // Include the space and punctuation
   price: {
     en: 'Price: ',
+    el: 'Τιμή: ',
     nl: 'Prijs: ',
     de: 'Preis: ',
     ru: 'Цена: ',
@@ -93,12 +114,16 @@ export default {
     hi: 'कीमत: ',
     zh: '价格: ',
     hu: 'Ár: ',
-    pl: 'Cena: '
+    pl: 'Cena: ',
+    vi: 'Giá: ',
+    sr: 'Цена: ',
+    it: 'Prezzo: '
   },
 
   // Include the space and punctuation
   fee: {
     en: 'Fee: ',
+    el: 'Τέλη: ',
     de: 'Gebühr: ',
     nl: 'Honorarium: ',
     ru: 'Сбор за выставление лота: ',
@@ -110,27 +135,35 @@ export default {
     hi: 'कीमत: ',
     zh: '费用: ',
     hu: 'Költség: ',
-    pl: 'Koszt: '
+    pl: 'Koszt: ',
+    vi: 'Phí: ',
+    sr: 'Такса: ',
+    it: 'Tassa: '
   },
 
   dragitem: {
     en: 'Drag item into slot',
+    el: 'Σύρε το αντικείμενο στη θέση',
     nl: 'Slepen het voorwerp in de sleuf',
     de: 'Ziehe ein Item hier hin',
     ru: 'Перетащите предмет в слот',
     pt: 'Arraste o item para o slot',
-    es: 'Arrastre el objeto a la ranura',
+    es: 'Arrastra el objeto a la ranura',
     fr: 'Glisser l\'objet dans l\'emplacement',
     ko: '항목을 슬롯으로 드래그하십시오.',
     ro: 'Pune obiectul la locul lui',
     hi: 'वस्तु खीच कर खांचे में डाल दे',
     hu: 'Húzd a tárgyat az ablakba',
-    pl: 'Przenieś przedmiot w slot'
+    pl: 'Przenieś przedmiot w slot',
+    vi: 'Kéo thả vật phẩm vào ô',
+    sr: 'Превуци предмет у слот',
+    it: 'Trascina l\'oggetto nello slot'
   },
 
   auctionpost: {
     en: 'You have posted $1 for sale',
-    es: 'Has colocado $1 para la vender',
+    el: 'Έχεις δημοσιεύσει το $1 προς πώληση',
+    es: 'Has publicado $1 para vender',
     fr: 'Vous avez mis $1 en vente',
     de: 'Du hast $1 zum Verkauf angeboten',
     pt: 'Você colocou $1 para leilão',
@@ -141,43 +174,55 @@ export default {
     hi: 'आपने $1 को विक्रय के लिए उपलब्ध कर दिया है',
     ro: 'Ai postat $1 pentru vânzare',
     hu: 'Eladásra bocsátottad: $1',
-    pl: 'Wystawiono $1 na sprzedaż'
+    pl: 'Wystawiono $1 na sprzedaż',
+    vi: 'Bạn vừa đăng $1 để bán.',
+    sr: 'Поставио си $1 на продају.',
+    it: 'Hai pubblicato $1 in vendita'
   },
 
   // Do not translate "Stash".
   auctioncancel: {
     en: 'Item delisted and sent to Stash',
+    el: 'Το αντικείμενο έχει αποδημοσιευθεί και σταλεί στο Stash',
     ru: 'Лот снят с продажи и отправлен в ваш Stash',
     nl: 'Item verwijderd en naar de Stash verzonden',
     de: 'Verkauf abgebrochen und Item in den Stash gesendet',
     pt: 'Item retirado do leilão e enviado para o Stash',
     fr: 'Objet retiré des enchères et envoyé dans la Stash',
-    es: 'Artículo retirado de la lista y enviado a su Stash',
+    es: 'Artículo retirado de la lista y enviado a tu Stash',
     ko: '상장 폐지 된 물품',
     ro: 'Obiect delistat și pus la Stash',
     hi: 'वस्तु को बाज़ार से हटाकर आपके स्टैश में भेज दिया गया है',
     hu: 'A tárgyat nem vásárolták meg, és a Stash fiókodba került.',
-    pl: 'Przedmiot usunięty i wysłany do Stash'
+    pl: 'Przedmiot usunięty i wysłany do Stash',
+    vi: 'Vật phẩm được gỡ khỏi danh sách và gửi vào Hòm đồ',
+    sr: 'Предмет је склоњен и стављен у твој Stash.',
+    it: 'Oggeto rimosso e inviato nel tuo Stash'
   },
 
   // Do not translate "Stash".
   auctionbuy: {
-    en: 'Item purchased for $g$1 and sent to your Stash',
-    ru: 'Лот, купленный за $g$1 и отправлен в ваш Stash',
-    es: 'Item comprado por $g$1 y enviado a su Stash',
-    fr: 'Article acheté pour $g$1 et envoyé dans votre Stash',
-    de: 'Item für $g$1 gekauft und an Stash geschickt',
-    pt: 'Item comprado por $g$1 e enviado para o seu Stash',
-    nl: 'Item gekocht voor $g$1 en verzonden naar uw Stash',
-    ko: '$g$1 동전으로 구입하여 은닉 한 물품',
-    ro: 'Obiect cumpărat pentru $g$1 și trimis în Stash tău',
-    hi: 'अपने $g$1 सिक्कों में वस्तु खरीद ली है और उसे आपके स्टैश में भेज दिया गया है',
-    hu: 'A tárgyat megvásárolták $g$1 áron, ami a Stash fiókodba került.',
-    pl: 'Przemiot kupiono za $g$1 i wysłano do twojego Stash'
+    en: 'Item purchased for $1 and sent to your Stash',
+    el: 'Το αντικείμενο αγοράσθηκε για $1 και εστάλη στο Stash',
+    ru: 'Лот, купленный за $1 и отправлен в ваш Stash',
+    es: 'Objeto comprado por $1 y enviado a tu Stash',
+    fr: 'Article acheté pour $1 et envoyé dans votre Stash',
+    de: 'Item für $1 gekauft und an Stash geschickt',
+    pt: 'Item comprado por $1 e enviado para o seu Stash',
+    nl: 'Item gekocht voor $1 en verzonden naar uw Stash',
+    ko: '$1 동전으로 구입하여 은닉 한 물품',
+    ro: 'Obiect cumpărat pentru $1 și trimis în Stash tău',
+    hi: 'अपने $1 सिक्कों में वस्तु खरीद ली है और उसे आपके स्टैश में भेज दिया गया है',
+    hu: 'A tárgyat megvásárolták $1 áron, ami a Stash fiókodba került.',
+    pl: 'Przemiot kupiono za $1 i wysłano do twojego Stash',
+    vi: 'Vật phẩm đã mua cho $1 và gửi vào Hòm đồ',
+    sr: 'Предмет је купљен по цени од $1 и стављен је у твој Stash.',
+    it: 'Oggetto comprato per $1 e inviato nel tuo Stash'
   },
 
   sell: {
     en: 'You have sold $1 for $2',
+    el: 'Πούλησες το $1 για $2',
     nl: 'U heeft verkocht $1 aan $2',
     es: 'Has vendido $1 por $2',
     pt: 'Você vendeu $1 por $2',
@@ -188,6 +233,9 @@ export default {
     hi: 'आपने $2 को $1 के लिए बेच दिया',
     ko: '$1 에 $1 를 판매했습니다',
     hu: 'Eladtad: $1, $2 áron.',
-    pl: 'Sprzedano $1 za $2.'
+    pl: 'Sprzedano $1 za $2.',
+    vi: 'Bạn đã bán $1 được $2',
+    sr: 'Продао си $1 за $2',
+    it: 'Hai venduto $1 per $2'
   }
 }

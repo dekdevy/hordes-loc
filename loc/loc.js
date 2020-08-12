@@ -22,6 +22,7 @@ import book from './items/book.js'
 import boot from './items/boot.js'
 import bow from './items/bow.js'
 import box from './items/box.js'
+import charm from './items/charm.js'
 import glove from './items/glove.js'
 import hammer from './items/hammer.js'
 import misc from './items/misc.js'
@@ -54,7 +55,8 @@ const items = {
   sword,
   mount,
   totem,
-  box
+  box,
+  charm
 }
 
 // Factions
@@ -89,6 +91,7 @@ import chat from './ui/chat.js'
 import clan from './ui/clan.js'
 import death from './ui/death.js'
 import general from './ui/general.js'
+import hiddenskills from './ui/hiddenskills.js'
 import inventory from './ui/inventory.js'
 import messages from './ui/messages.js'
 import party from './ui/party.js'
@@ -108,6 +111,7 @@ const ui = {
   death,
   tutorial,
   messages,
+  hiddenskills,
   ...general }
 
 export default {
