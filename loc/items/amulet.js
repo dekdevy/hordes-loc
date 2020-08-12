@@ -26,7 +26,7 @@ export default [
     description: {
       en: 'Collars to keep wolves in servitude are made from a thick leather. Some of them still have chain links connected, but all wolf collars are sturdy. Some collars are imbued with spiritual protection.',
       el: 'Τα κολλάρα που κρατούν τους λύκους στη δουλεία φτιάχνονται από παχύ δέρμα. Κάποια από αυτά έχουν ακόμη κρίκους, αλλά όλα τα κολλάρα λύκων είναι στιβαρά. Κάποια κολλάρα έχουν εμποτιστεί με πνευματική προστασία.',
-      ru: 'Ошейники для упряжки диких волков сделаны из толстой кожи. На некоторых из них всё ещё висят обрывки цепей, но они всё ещё очень прочные. Некоторые ошейники пропитаны духовной защитой.',
+      ru: 'Ошейники для упряжки диких волков сделаны из толстой кожи. На некоторых из них всё ещё висят обрывки цепей, но все они очень прочные. Некоторые ошейники пропитаны духовной защитой.',
       hi: 'भेड़ियों को भृत्यभाव रखने के लिए मोटी चमड़ी के पट्टे इस्तमाल किए जाते है। कुछ पट्टों पर अभी भी सांकल लगे हुए है, पर सारे पट्टे तगड़े है। कुछ पट्टे आत्मिक सुरक्षा से रंजित है।',
       de: 'Halsbänder, um Wölfe in Knechtschaft zu halten, sind aus einem dicken Leder gefertigt. Einige von ihnen haben noch Kettenglieder verbunden, aber alle Wolfshalsbänder sind robust. Einige Halsbänder sind mit spirituellem Schutz versehen.',
       fr: 'Les colliers pour garder les loups en servitude sont faits d\'un cuir épais. Certains d\'entre eux ont encore des maillons de chaîne reliés, mais tous les colliers de loup sont robustes. Certains colliers sont imprégnés de protection spirituelle.',
