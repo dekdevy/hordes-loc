@@ -21,5 +21,6 @@ export default {
     cs: 'Příšera',
     sr: 'Чудовиште',
     it: 'Mostro'
+    id: 'Monster'
   }
 }
