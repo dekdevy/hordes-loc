@@ -365,6 +365,10 @@ export default {
     },
 
     {
+      en: 'Gear Score'
+    },
+
+    {
       en: '% Increased Dmg.',
       el: '% Επιπλέον Ζημιά',
       fr: '% Dmg Améliorés',
