@@ -365,7 +365,7 @@ export default {
     },
 
     {
-      en: 'Gear Score'
+      $$: 'Gear Score'
     },
 
     {
