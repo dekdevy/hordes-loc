@@ -20,6 +20,7 @@ export default {
     vi: 'Quái vật',
     cs: 'Příšera',
     sr: 'Чудовиште',
-    it: 'Mostro'
+    it: 'Mostro',
+    id: 'Monster'
   }
 }
