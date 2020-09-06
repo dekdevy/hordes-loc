@@ -10,7 +10,8 @@ export default [
       es: 'Este es un material sorprendentemente resistente que puede ser usado como ropa de protección. La naturaleza improvisada de este material es obvia, muchos aventureros eligen remplazar el Potato Sack tan rápido como sea posible.',
       vi: 'Đây là một vật liệu đầy sức mạnh đáng ngạc nhiên có thể được sử dụng như một giáp bảo vệ. Bản chất của vật liệu này là rõ ràng, vì vậy nhiều nhà thám hiểm chọn thay thế bao tải khoai tây càng nhanh càng tốt.',
       nl: 'Dit is een verassend stevig materiaal dat gebruikt kan worden als een beschermend kledingstuk. De in elkaar gezette natuur van dit materiaal is duidelijk, dus vele avonturiers kiezen ervoor om de "potato sack" zo snel mogelijk te vervangen.',
-      it: 'È un materiale sorprendentemente robusto che può essere usato come veste protettiva. La natura improvvisata di questo materiale è ovvia, quindi molti avventurieri scelgono di sostituire il sacco di patate il più velocemente possibile.'
+      it: 'È un materiale sorprendentemente robusto che può essere usato come veste protettiva. La natura improvvisata di questo materiale è ovvia, quindi molti avventurieri scelgono di sostituire il sacco di patate il più velocemente possibile.',
+      ro: 'Acesta este un material surprinzător de ferm dacă poate fi folosit drept haină de protecție. Natura improvizată a materialului e atât de evidentă, încât mulți aventurieri aleg să înlocuiască acest sac de cartofi cât mai repede cu putință.'
     }
   },
 
@@ -25,7 +26,8 @@ export default [
       es: 'Esta prenda es una reliquia familiar que ha sido heredada de una generación aventurera a otra.',
       vi: 'Bộ quần áo này là một vật gia truyền được truyền từ thế hệ này sang thế hệ khác.',
       nl: 'Dit kledingstuk is een familie-erfstuk dat is doorgegeven aan de ene avonturiersgeneratie tot de andere.',
-      it: 'Questo indumento è un cimelio di famiglia passato da una generazione avventuriera ad un\'altra.'
+      it: 'Questo indumento è un cimelio di famiglia passato da una generazione avventuriera ad un\'altra.',
+      ro: 'Această haină este o moștenire de familie ce a fost pasată în generații de la un aventurier la altul.'
     }
   },
 
@@ -40,7 +42,8 @@ export default [
       es: 'Esta túnica está hecha a mano con telas robustas que fueron diseñadas para resistir la supervivencia en la naturaleza. Algunas tradiciones acostumbran a dar túnicas como regalos a aventureros que son considerados dignos por su organización.',
       vi: 'Áo này được chế tạo từ các loại vải mạnh mẽ được thiết kế để có thể sống sót ngoài tự nhiên. Một số giáo hội coi việc tặng chiếc áo này cho các nhà thám hiểm là một nghi thức truyền thống.',
       nl: 'Dit tuniek is gemaakt uit stevige stoffen die ontworpen zijn voor het weerstaan van het wildernis overleven. ',
-      it: 'Questa tunica è stata fabbricata usando materiali robusti ideali per la resistenza alla sopravvivenza nella natura selvaggia. Molte tradizioni comprendono il donare le tuniche come regalo agli avventurieri che sembravano considerati degni da un consiglio.'
+      it: 'Questa tunica è stata fabbricata usando materiali robusti ideali per la resistenza alla sopravvivenza nella natura selvaggia. Molte tradizioni comprendono il donare le tuniche come regalo agli avventurieri che sembravano considerati degni da un consiglio.',
+      ro: 'Această tunică este fabricată dintr-un material robust și este făcută pentru a rezista supraviețuirii în sălbăticie. Câteva tradiții implică dăruirea de tunici drept cadou pentru aventurierii desemnați vretnici de o organizație.'
     }
   },
 
@@ -55,7 +58,8 @@ export default [
       es: 'Esta armadura de cuero es una opción común para los aventureros que viajan. La tendencia de usar estos Leather Jerkins se originó alrededor de Yggdrasil cuando peligrosas criaturas comenzaron a acechar en las selvas cercanas.',
       vi: 'Áo giáp da này là một lựa chọn phổ biến cho các nhà thám hiểm du hành. Xu hướng mặc đồ da có nguồn gốc từ Yggdrasil khi những sinh vật nguy hiểm bắt đầu ẩn nấp trong những khu rừng gần đó.',
       nl: 'Dit leren harnas is een vaak voorkomende keuze voor avonturiers. De trend van het dragen van "leather jerkins" is ontstaan rond Yggdrasil toen er gevaarlijke wezens begonnen rond te kruipen in de nabije jungles.',
-      it: 'Questa armatura di pelle è una scelta comune per gli avventurieri erranti. La tendenza di indossare questi farsetti in pelle ha origine intorno a Yggdrasil, quando le creature pericolose iniziarono ad appostarsi nelle giungle vicine.'
+      it: 'Questa armatura di pelle è una scelta comune per gli avventurieri erranti. La tendenza di indossare questi farsetti in pelle ha origine intorno a Yggdrasil, quando le creature pericolose iniziarono ad appostarsi nelle giungle vicine.',
+      ro: 'Această armură din piele reprezintă o alegere comună pentru călătorii aventurieri. Tendința purtării gecilor de piele provine din jurul lui Yggdrasil, pe când creaturile periculoase au început să mișune în junglele din apropiere.'
     }
   },
 
@@ -70,7 +74,8 @@ export default [
       es: 'Esta armadura está hecha de escamas de monstruos que se encontraron en el suelo. Las escamas de montruo amenudo se forjaban y transformaban en armaduras respetables cuando el metal es escaso.',
       vi: 'Bộ giáp này được làm từ vảy quái vật được tìm thấy trên mặt đất. Vảy quái vật thường được chế tạo thành áo giáp mỗi khi thiếu kim loại.',
       nl: 'Dit harnas is gemaakt van monsterschubben die gevonden waren op de grond. Monsterschubben worden vaak gehandhaafd tot fatsoenlijke harnassen wanneer er een tekort was aan metaal. ',
-      it: 'Questa armatura è costruita usando scaglie di mostro trovate per terra. le scaglie di mostro sono spesso utilizzate per costruire armature rispettabili quando il metallo scarseggia.'
+      it: 'Questa armatura è costruita usando scaglie di mostro trovate per terra. le scaglie di mostro sono spesso utilizzate per costruire armature rispettabili quando il metallo scarseggia.',
+      ro: 'Armura aceasta este fabricată din solzi de monstru ce au fost găsiți pe pământ. Solzii de monstru sunt deseori prefăcuți în respectabile armuri ori de câte ori nu se mai găsește metal.'
     }
   },
 
@@ -85,7 +90,8 @@ export default [
       es: 'Los metales ligeros élficos se usan para crear cotas de malla divinas. Las viejas leyendas dicen que las primeras Sky Mails fueron creados a partir de piezas de armadura desechadas que alguna vez fueron usadas por criaturas divinas.',
       vi: 'Kim loại Elvish nhẹ được sử dụng để tạo ra áo giáp lưới thần thánh. Truyền thuyết xưa nói rằng những giáp lưới đầu tiên được tạo ra từ những mảnh áo giáp bị vứt bỏ từng được mặc bởi các sinh vật thần thánh.',
       nl: 'Lichte tover-metalen worden gebruikt om hemelse maliënkolders te maken. Oude legendes zeggen dat de eerste “Sky Mails” gemaakt waren van weggegooide harnas-onderdelen die ooit werden gedraagd door goddelijke wezens',
-      it: 'I metalli leggeri Elvish sono usati per creare maglie metalliche divine. Antiche leggende dicono che i primi Sky Mails furono originariamente creati da parti di armature buttate ed un tempo indossate dalle creature divine.'
+      it: 'I metalli leggeri Elvish sono usati per creare maglie metalliche divine. Antiche leggende dicono che i primi Sky Mails furono originariamente creati da parti di armature buttate ed un tempo indossate dalle creature divine.',
+      ro: 'Metalul ușor al elfilor este utilizat pentru a crea zale divine. Legende vechi spun că primele zale au fost original create din bucăți de armură aruncată, cândva folosită de creaturi divine.'
     }
   },
 
@@ -100,7 +106,8 @@ export default [
       es: 'Esta capa invoca pequeñas sombras que envuelven al portador durante batalla para mejorar la protección. Las capas como estas son hechas a mano con una extraña sombra mágica y luego se la mejora con alquimia de forma secreta.',
       vi: 'Chiếc áo choàng này triệu hồi những bóng ma xung quanh người mặc trong trận chiến để tăng cường bảo vệ. Những chiếc áo choàng như thế này được chế tạo bằng ma thuật bóng tối kỳ lạ và sau đó được tăng cường hóa học theo những cách bí mật',
       nl: 'Deze mantel roept kleine schaduwen die de dragen tijdens gevecht omhullen om bescherming te verbeteren. Mantels zoals deze zijn gehandhaafd met rare schaduw magie en dan verbeterd op geheime manieren door alchemie.',
-      it: 'Questo mantello evoca piccole ombre che avviluppano l\'indossatore durante le battaglie per aumentare la protezione. I mantelli come questo sono fabbricati con una strana magia oscura e successivamente potenziati con tecniche segrete.'
+      it: 'Questo mantello evoca piccole ombre che avviluppano l\'indossatore durante le battaglie per aumentare la protezione. I mantelli come questo sono fabbricati con una strana magia oscura e successivamente potenziati con tecniche segrete.',
+      ro: 'Această mantie invocă umbre mici care înfășoară purtătorul în timpul bătăliilor pentru a spori protecția. Astfel de mantii sunt fabricate folosind bizara magie a umbrelor, iar apoi alchemic sunt fermecate pe căi misterioase.'
     }
   },
 
@@ -115,7 +122,8 @@ export default [
       es: 'Runas mágicas fueron grabadas en esta armadura para proporcionar protección adicional. Algunos estudiosos creen que las runas en este tipo de armaduras rúnicas están destinadas a interactuar juntas en algún ritual más grande y aún por descubrir.',
       vi: 'Cổ ngữ ma thuật đã được khắc vào bộ giáp này để cung cấp thêm sự bảo vệ. Một số học giả tin rằng các cổ ngữ trên tất cả các áo giáp dùng để tương tác với nhau trong một số nghi lễ lớn hơn, chưa được khám phá.',
       nl: 'Magische runes waren in dit harnas gestopt om extra bescherming te leveren. Sommige scholieren geloven dat de runes op alle "Runic Halfplate" harnassen bedoeld zijn om op elkaar in te werken in een of ander groter onontdekt ritueel.',
-      it: 'Magiche rune sono state attaccate in questa armatura per ottenere protezione addizionale. Molti scolari credono che le rune su tutte le armature di questo tipo interagiscano tra loro in qualche grande e segreto rituale.'
+      it: 'Magiche rune sono state attaccate in questa armatura per ottenere protezione addizionale. Molti scolari credono che le rune su tutte le armature di questo tipo interagiscano tra loro in qualche grande e segreto rituale.',
+      ro: 'Rune magice au fost gravate în această armură pentru a oferi un surplus de protecție. Câțiva savanți cred că runele de pe toate aceste armuri sunt menite să interacționeze unele cu celelalte într-un ritual mai larg, nedescoperit.'
     }
   },
 
@@ -130,7 +138,8 @@ export default [
       es: 'Se usaron llamas sobrenaturales en la fabricación de esta armadura. Se hicieron grandes sacrificios para apaciguar las demandas de las criaturas diabólicas de forma que así, algunos herreros pudieran forjar a través de estas extrañas llamas.',
       vi: 'Một ngọn lửa siêu nhiên đã được sử dụng trong việc chế tạo áo giáp này. Những sự hiến tế to lớn đã được thực hiện để xoa dịu những yêu cầu của các sinh vật quỷ dữ để một vài thợ rèn có thể rèn được ngọn lửa kỳ lạ.',
       nl: 'Supernatuurlijke infernos waren gebruikt voor het maken van dit harnas. Grote offers werden gemaakt om de eisen van duivelse wezens te voldoen zodat een paar hoefsmeden kunnen smeden met de rare vlammen.',
-      it: 'Gli inferni sovrannaturali furono usati nella creazione di questa armatura. Grandi sacrifici furono fatti per appacificare le creature demoniache affinché alcuni fabbri potessero forgiare con le strane fiamme.'
+      it: 'Gli inferni sovrannaturali furono usati nella creazione di questa armatura. Grandi sacrifici furono fatti per appacificare le creature demoniache affinché alcuni fabbri potessero forgiare con le strane fiamme.',
+      ro: 'Focuri infernale supernaturale au fost folosite la forjarea acestei armuri. Mari sacrificii au fost făcute pentru a potoli cererile creaturilor diavolești, doar pentru ca câțiva fierari să poată forja cu niște flăcări stranii.'
     }
   },
 
@@ -146,7 +155,8 @@ export default [
       es: 'Las leyendas antiguas dicen que cada armadura de Soulkeeper alberga un alma que se sacrificó voluntariamente para mejorar el poder protector de la armadura. En tiempos difíciles, los individuos hicieron grandes sacrificios para asegurar la supervivencia de sus clanes y familias.',
       vi: 'Truyền thuyết cổ xưa nói rằng mỗi bộ giáp Soulkeeper chứa một linh hồn sẵn sàng hy sinh bản thân để tăng cường sức mạnh bảo vệ của bộ giáp. Trong thời kỳ gian khó, các thành viên đã hy sinh rất nhiều để đảm bảo sự sống còn của gia tộc và gia đình của họ.',
       nl: 'Eeuwenoude legendes zeggen dat elke "Soulkeeper" harnas een ziel bevat die met opzet zichzelf opofferde om de bescherming van het harnas te verbeteren. In moeilijke tijden maakten individuelen grote om de overleving van hun clans en families te verzekeren.',
-      it: 'Antiche leggende raccontano che ogni armatura Soulkeeper ospiti un\'anima che volentieri si sacrificò per aumentare il potere protettivo dell\'armatura. In tempi duri, gi individui fecero grandi sacrifici per assicurare la sopravvivenza dei loro clan e famiglie.'
+      it: 'Antiche leggende raccontano che ogni armatura Soulkeeper ospiti un\'anima che volentieri si sacrificò per aumentare il potere protettivo dell\'armatura. In tempi duri, gi individui fecero grandi sacrifici per assicurare la sopravvivenza dei loro clan e famiglie.',
+      ro: 'Legende stăvechi spun că fiecare armură Soulkeeper adăpostește un suflet care s-a sacrificat de bună voie pentru a spori puterea protectivă a armurii. În timpuri mai grele, câțiva indivizi au făcut sacrificii pentru a se asigura de supraviețuirea clanurilor și familiilor lor.'
     }
   },
 
@@ -162,7 +172,8 @@ export default [
       es: 'Las Deathless fueron creadas por los primeros reyes y líderes como un medio para prevenir heridas mortales durante la Primera Gran Guerra. Fiel a la leyenda, esos reyes y líderes no perecieron en la batalla; en cambio, fueron asesinados mientras dormían y sus armaduras fueron robadas. Las técnicas de forja se perdieron con el tiempo, pero fortunas masivas fueron claramente necesarias para el proceso.',
       vi: 'Áo giáp Deathless được tạo ra bởi các vị vua và nhà lãnh đạo đầu tiên như một phương tiện để ngăn chặn vết thương chí mạng trong Đại chiến thứ nhất. Đúng như truyền thuyết, những vị vua và nhà lãnh đạo đã không bị diệt vong trong trận chiến; thay vào đó, họ từng bị ám sát khi ngủ và áo giáp của họ đã bị đánh cắp. Các kỹ thuật rèn đã bị mất theo thời gian, nhưng vận may khổng lồ rõ ràng là cần thiết cho quá trình này.',
       nl: '"Deathless" harnassen waren gemaakt door de eerste koningen en leiders om dodelijke wonden te vorkomen tijdens de "First Great War." waar volgens de legende, die koningen en leiders stierven niet in gevecht; daarentegen, zij werden vermoord in hun slaap en hun harnassen werden gestolen. De smeed technieken waren verloren door de tijd heen, maar gigantische fortuinen waren overduidelijk nodig voor het proces.',
-      it: 'Le armature Deathless furono create dai primi re e leader per salvarsi dalle ferite mortali durante la Prima Guerra Mondiale. Secondo la leggenda, questi re e leader non perirono durante le battaglie; al contrario, loro furono assassinati durante il sonno e le loro armature vennero rubate. Le tecniche per forgiarle sono andate perdute, ma una gran dose di fortuna era chiaramente necessaria per il processo.'
+      it: 'Le armature Deathless furono create dai primi re e leader per salvarsi dalle ferite mortali durante la Prima Guerra Mondiale. Secondo la leggenda, questi re e leader non perirono durante le battaglie; al contrario, loro furono assassinati durante il sonno e le loro armature vennero rubate. Le tecniche per forgiarle sono andate perdute, ma una gran dose di fortuna era chiaramente necessaria per il processo.',
+      ro: 'Armurile Deathless au fost create de primii regi și lideri ca un mijloc de prevenire a rănilor mortale din timpul "The First Great War". Fidel legendei, acei regi și lideri nu au murit în bătălie; în loc, fiecare dintre ei au fost uciși în somn iar armurile au fost furate. Tehnicile de forjare s-au pierdut în timp, dar averi masive au fost cu siguranță necesare pentru procesul de creație.'
     }
   }
 
