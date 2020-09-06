@@ -10,7 +10,8 @@ export default [
       es: 'Enviado desde las regiones inexploradas de Faivel. El contenido de esta jaula no se puede inspeccionar hasta que se abra.',
       pl: 'Wysyłane z niezbadanych regionów Faivel. Zawartość tej klatki nie może być sprawdzana aż do momentu jej otwarcia',
       vi: 'Vận chuyển từ các khu vực chưa được khám phá của Faivel. Bên trong của rương này không thể được kiểm tra cho đến khi mở ra.',
-      it: 'Spedito dalle regioni inesplorate di Faivel. Il contenuto di questa gabbia non può essere ispezionato fino all\'apertura.'
+      it: 'Spedito dalle regioni inesplorate di Faivel. Il contenuto di questa gabbia non può essere ispezionato fino all\'apertura.',
+      ro: 'Expediată din regiunile neexplorate din Faivel. Conținuturile acestei cuști nu pot fi inspectate până la deschidere.'
     }
   }
 ]
