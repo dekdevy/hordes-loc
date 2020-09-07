@@ -4,98 +4,112 @@ export default [{
   name: {$$: 'Auto attack'},
 
   description: {
-    en: 'Perform automatic melee attacks with your weapon.'
+    en: 'Perform automatic melee attacks with your weapon.',
+    ru: 'Выполняйте автоматические атаки в ближнем бою с помощью оружия.'
   }
 },
 {
   name: {$$: 'Slash'},
 
   description: {
-    en: 'Slash your enemy, striking with extra force. Heals you for 5% of the damage done.'
+    en: 'Slash your enemy, striking with extra force. Heals you for 5% of the damage done.',
+    ru: 'Режь врага, нанося удар с дополнительной силой. Исцеляет вас за 5% от нанесенного урона.'
   }
 },
 {
   name: {$$: 'Bulwark'},
 
   description: {
-    en: 'Increase your block chance, while raising your damage for each successful block.' // descriptions are coming from the buffs
+    en: 'Increase your block chance, while raising your damage for each successful block.', // descriptions are coming from the buffs
+    ru: 'Увеличьте шанс блока, одновременно повышая урон для каждого успешного блока.'
   }
 },
 {
   name: {$$: 'Crescent Swipe'},
 
   description: {
-    en: 'Swiftly swing your sword around you, damaging enemies within a radius.'
+    en: 'Swiftly swing your sword around you, damaging enemies within a radius.',
+    ru: 'Быстро размахивайте мечом вокруг себя, нанося урон врагам в радиусе.'
   }
 },
 {
   name: {$$: 'Ice Bolt'},
 
   description: {
-    en: 'Fires a missile of frost towards your enemy. Reduces the cooldown of Icicle Orb by 0.5 seconds. Freezes targets for up to 5 stacks, at which they will be stunned and take 50% increased damage. Gains one instant cast every 7 seconds.'
+    en: 'Fires a missile of frost towards your enemy. Reduces the cooldown of Icicle Orb by 0.5 seconds. Freezes targets for up to 5 stacks, at which they will be stunned and take 50% increased damage. Gains one instant cast every 7 seconds.',
+    ru: 'Стреляет ракетой мороза в сторону врага. Уменьшает время охлаждения сосудистой сферы на 0,5 секунды. Замораживает цели до 5 стопок, при которых они будут оглушены и получат 50% увеличенного урона.Получает одно мгновенное заклинание каждые 7 секунд.'
   }
 },
 {
   name: {$$: 'Auto attack'},
 
   description: {
-    en: 'Automatically attack your enemy at a distance.'
+    en: 'Automatically attack your enemy at a distance.',
+    ru: 'Автоматически атакуйте врага на расстоянии.'
   }
 },
 {
   name: {$$: 'Mend'},
 
   description: {
-    en: 'Heal a friendly target. Amount is increased for each stack of Revitalize.'
+    en: 'Heal a friendly target. Amount is increased for each stack of Revitalize.',
+    ru: 'Исцелить дружелюбную цель. Количество увеличивается за каждую стопку Revtialize.'
   }
 },
 {
   name: {$$: 'Revitalize'},
 
   description: {
-    en: 'Heal a friendly target over a short duration, stacking up to 3 times while also increasing the power of your Mend.'
+    en: 'Heal a friendly target over a short duration, stacking up to 3 times while also increasing the power of your Mend.',
+    ru: 'Исцелить дружелюбную цель в течение короткого времени, укладываясь до 3 раз, при этом увеличивая силу Mend.'
   }
 },
 {
   name: {$$: 'Bloodline'},
 
   description: {
-    en: 'You inherited special abilities through your ancestry and family traditions, granting you extra benefits from certain stats.'
+    en: 'You inherited special abilities through your ancestry and family traditions, granting you extra benefits from certain stats.',
+    ru: 'Вы унаследовали особые способности благодаря своим предкам и семейным традициям, предоставляя вам дополнительные преимущества от определенных характеристик.'
   }
 },
 {
   name: {$$: 'Precise Shot'},
 
   description: {
-    en: 'A carefully aimed, high damage shot. Increases the damage of your next Swift Shots and allows them to be cast instantly.'
+    en: 'A carefully aimed, high damage shot. Increases the damage of your next Swift Shots and allows them to be cast instantly.',
+    ru: 'Тщательно прицельный выстрел с высоким уроном. Увеличивает урон от следующих выстрелов Swift и позволяет их мгновенно выстрелить.'
   }
 },
 {
   name: {$$: 'Serpent Arrows'},
 
   description: {
-    en: 'Your Precise Shots will jump to additional targets while active.'
+    en: 'Your Precise Shots will jump to additional targets while active.',
+    ru: 'Ваши Precise Shhots будут перепрыгивать на дополнительные цели, пока это заклинание активно.'
   }
 },
 {
   name: {$$: 'Invigorate'},
 
   description: {
-    en: 'Instantly recovers MP and increases your damage temporarily.'
+    en: 'Instantly recovers MP and increases your damage temporarily.',
+    ru: 'Мгновенно восстанавливает MP и временно увеличивает урон.'
   }
 },
 {
   name: {$$: 'Decay'},
 
   description: {
-    en: 'Curse your enemy with a spell of decay, dealing initial damage and additional damage over time.'
+    en: 'Curse your enemy with a spell of decay, dealing initial damage and additional damage over time.',
+    ru: 'Проклинайте врага заклинанием Decay, нанося ему начальный урон и дополнительный урон с течением времени.'
   }
 },
 {
   name: {$$: 'Mimir\'s Well'},
 
   description: {
-    en: 'You and your party members quickly regenerate mana over a short period of time.'
+    en: 'You and your party members quickly regenerate mana over a short period of time.',
+    ru: 'Вы и члены вашей партии быстро восстанавливаете ману за короткий период времени.'
   }
 },
 {
