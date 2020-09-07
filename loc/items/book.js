@@ -1,5 +1,3 @@
-// --- DO NOT TRANSLATE UNTIL END OF BETA AND SKILLS HAVE BEEN DESIGNED ---
-// --- these are all trashy placeholders ---
 export default [{
   name: {$$: 'Auto attack'},
 
@@ -37,7 +35,7 @@ export default [{
 
   description: {
     en: 'Fires a missile of frost towards your enemy. Reduces the cooldown of Icicle Orb by 0.5 seconds. Freezes targets for up to 5 stacks, at which they will be stunned and take 50% increased damage. Gains one instant cast every 7 seconds.',
-    ru: 'Стреляет ракетой мороза в сторону врага. Уменьшает время охлаждения сосудистой сферы на 0,5 секунды. Замораживает цели до 5 стопок, при которых они будут оглушены и получат 50% увеличенного урона.Получает одно мгновенное заклинание каждые 7 секунд.'
+    ru: 'Стреляет ракетой мороза в сторону врага. Уменьшает время перезагрузки Icicle Orb на 0,5 секунды. Замораживает цели до 5 стопок, при которых они будут оглушены и получат 50% увеличенного урона.Получает одно мгновенное заклинание каждые 7 секунд.'
   }
 },
 {
@@ -116,175 +114,200 @@ export default [{
   name: {$$: 'Chilling Radiance'},
 
   description: {
-    en: 'Emit a chilling shockwave of ice around you, damaging and freezing enemies. Increases the critical hit chance of some of your spells.'
+    en: 'Emit a chilling shockwave of ice around you, damaging and freezing enemies. Increases the critical hit chance of some of your spells.',
+    ru: 'Излучайте ледяную ударную волну вокруг вас, повреждая и замерзая врагов. Увеличивает шанс критического удара по некоторым из ваших заклинаний.'
   }
 },
 {
   name: {$$: 'Icicle Orb'},
 
   description: {
-    en: 'Summon a large orb, ejecting icicles hitting all enemies in its path.'
+    en: 'Summon a large orb, ejecting icicles hitting all enemies in its path.',
+    ru: 'Вызывайте большой шар, выбрасывая сосульки, ударяя всех врагов на своем пути.'
   }
 },
 {
   name: {$$: 'Hypothermic Frenzy'},
 
   description: {
-    en: 'You gain Haste and all your damage output is increased. Resets the cooldown of Icicle Orb.'
+    en: 'You gain Haste and all your damage output is increased. Resets the cooldown of Icicle Orb.',
+    ru: 'Вы получаете Haste и все ваши повреждения продукции увеличивается. Сбрасывает перезагрузку Icicle Orb.'
   }
 },
 {
   name: {$$: 'Colossal Reconstruction'},
 
   description: {
-    en: 'While active you are healed each time you block an attack.'
+    en: 'While active you are healed each time you block an attack.',
+    ru: 'В активном состоянии вы исцеляетесь каждый раз, когда блокируете атаку.'
   }
 },
 {
   name: {$$: 'Centrifugal Laceration'},
 
   description: {
-    en: 'Your Crescent Swipe lacerates enemies, causing them to bleed for additional Damage. Stacks up to 3 times.'
+    en: 'Your Crescent Swipe lacerates enemies, causing them to bleed for additional Damage. Stacks up to 3 times.',
+    ru: 'Ваш Crescent Swipe рвет врагов, заставляя их истекать кровью для дополнительного урона. Складывается до 3-х раз.'
   }
 },
 {
   name: {$$: 'Unholy Warcry'},
 
   description: {
-    en: 'You and your party members deal additional Damage.'
+    en: 'You and your party members deal additional Damage.',
+    ru: 'Вы и члены вашей party наносите дополнительный ущерб.'
   }
 },
 {
   name: {$$: 'Crusader\'s Courage'},
 
   description: {
-    en: 'You and your party members gain additional Defense.'
+    en: 'You and your party members gain additional Defense.',
+    ru: 'Вы и члены вашей party получаете дополнительную защиту.'
   }
 },
 {
   name: {$$: 'Armor Reinforcement'},
 
   description: {
-    en: 'Passively increase your Defense.'
+    en: 'Passively increase your Defense.',
+    ru: 'Пассивно увеличивайте свою защиту.'
   }
 },
 {
   name: {$$: 'Arctic Aura'},
 
   description: {
-    en: 'You and your party members gain additional Crit%.'
+    en: 'You and your party members gain additional Crit %.',
+    ru: 'Вы и члены вашей party получаете дополнительный Крит %'
   }
 },
 {
   name: {$$: 'Ice Shield'},
 
   description: {
-    en: 'Protects you against the next incoming attacks.'
+    en: 'Protects you against the next incoming attacks.',
+    ru: 'Защищает вас от следующих атак.'
   }
 },
 {
   name: {$$: 'Enchantment'},
 
   description: {
-    en: 'Increase your targets Damage.'
+    en: 'Increase your target\'s Damage.',
+    ru: 'Увеличивайте урон вашей цели.'
   }
 },
 {
   name: {$$: 'Temporal Dilation'},
 
   description: {
-    en: 'You and your party members gain additional Haste.'
+    en: 'You and your party members gain additional Haste.',
+    ru: 'Вы и члены вашей party получаете дополнительный Haste.'
   }
 },
 {
   name: {$$: 'Cranial Punctures'},
 
   description: {
-    en: 'Passively increase your Crit%.'
+    en: 'Passively increase your Crit %.',
+    ru: 'Пассивно увеличьте свой Крит %.'
   }
 },
 {
   name: {$$: 'Pathfinding'},
 
   description: {
-    en: 'You and your party members gain additional Movement Speed.'
+    en: 'You and your party members gain additional Movement Speed.',
+    ru: 'Вы и члены вашей party получаете дополнительный Movement Speed'
   }
 },
 {
   name: {$$: 'Canine Howl'},
 
   description: {
-    en: 'You and your entire party enrages with haste, causing you to attack faster.'
+    en: 'You and your party members become enraged with Haste, enabling you to attack faster.',
+    ru: 'Вы и члены вашей party получаете значительно больше Haste, что позволяет вам атаковать быстрее.'
   }
 },
 {
   name: {$$: 'Poison Arrows'},
 
   description: {
-    en: 'Your Precise Shot applies a poisonous Debuff on hit, damaging and slowing your enemies.'
+    en: 'Your Precise Shot applies a poisonous Debuff on hit, damaging and slowing your enemies.',
+    ru: 'Ваши Precise Shots наносит ядовитый дебафф при ударе, повреждая и замедляя врагов.'
   }
 },
 {
   name: {$$: 'Healing Totem'},
 
   description: {
-    en: 'Place a totem on the ground healing your entire party.'
+    en: 'Place a totem on the ground, healing your entire party.',
+    ru: 'Положите тотем на землю, исцеляя всю вашу Party.'
   }
 },
 {
   name: {$$: 'Swift Shot'},
 
   description: {
-    en: 'Fire a Swift Shot which can be enhanced by casting a Precise Shot prior to it.'
+    en: 'Fire a Swift Shot which can be enhanced by casting a Precise Shot prior to it.',
+    ru: 'Сделайте Swift Shot, который можно усилить, сделав перед этим Precise Shot.'
   }
 },
 {
   name: {$$: 'Teleport'},
 
   description: {
-    en: 'Instantly teleport into the direction you are facing.'
+    en: 'Instantly teleport into the direction you are facing.',
+    ru: 'Мгновенно телепортируйтесь в направлении, в котором вы смотрите.'
   }
 },
 {
   name: {$$: 'Charge'},
 
   description: {
-    en: 'Charge towards any target while also stunning it (if hostile). Stun duration increases with charge distance.'
+    en: 'Charge towards any target while also stunning it (if hostile). Stun duration increases with charge distance.',
+    ru: 'Бегите к любой цели, одновременно оглушая ее (если она враждебная). Длительность оглушения увеличивается с увеличением расстояния до цели.'
   }
 },
 {
   name: {$$: 'Taunt'},
 
   description: {
-    en: 'Taunt surrounding enemies, forcing them to move towards you for a brief moment. Interrupts spell casts and resets aggro for all monsters.'
+    en: 'Taunt surrounding enemies, forcing them to move towards you for a brief moment. Interrupts spell casts and resets aggro for all monsters.',
+    ru: 'Вы заставляете окружающих врагов двигаться к вам на короткое время. Прерывает произнесение заклинаний и сбрасывает агрессию для всех монстров.'
   }
 },
 {
   name: {$$: 'Summon'},
 
   description: {
-    en: 'Summon your party members, allowing them to instantly teleport towards you.'
+    en: 'Summon your party members, allowing them to instantly teleport towards you.',
+    ru: 'Вызывайте членов своей party, позволяя им мгновенно телепортироваться к вам.'
   }
 },
 {
   name: {$$: 'Spirit Animal'},
 
   description: {
-    en: 'Turn into your spirit animal for additional movement speed, removing all movement impairing effects active at the point of the transformation. All spellcasting will cancel this effect.'
+    en: 'Turn into your spirit animal for additional movement speed, removing all movement impairing effects active at the point of the transformation. All spellcasting will cancel this effect.',
+    ru: 'Превратитесь в ваше духовное животное для дополнительного Movement Speed, удаляя все движения ухудшающие эффекты, активные в точке трансформации. Любое заклинание отменит этот эффект.'
   }
 },
 {
   name: {$$: 'Agonize'},
 
   description: {
-    en: 'Turns your target into a zombie, interrupting all actions, slowing it down, and reducing received healing for the duration.'
+    en: 'Turns your target into a zombie, interrupting all actions, slowing it down, and reducing received healing for the duration.',
+    ru: 'Превращает вашу цель в зомби, прерывая все действия, замедляя его и уменьшая полученное исцеление на время.'
   }
 },
 {
   name: {$$: 'Dash'},
 
   description: {
-    en: 'You dash into your current direction, instantly resetting the cooldown of Precise Shot. Your next Precise Shot is an instant cast.'
+    en: 'You dash into your current direction, instantly resetting the cooldown of Precise Shot. Your next Precise Shot is an instant cast.',
+    ru: 'Вы быстро двигаетесь в вашем текущем направлении, мгновенно сбросив перезагрузку Precise Shot. Ваш следующий Prec - мгновенный.'
   }
 },
 {
@@ -298,35 +321,40 @@ export default [{
   name: {$$: 'Conjurer\'s Recall'},
 
   description: {
-    en: 'Teleport to the nearest Conjurer.'
+    en: 'Teleport to the nearest Conjurer.',
+    ru: 'Телепортируйтесь к Conjurer'
   }
 },
 {
   name: {$$: 'Tempering'},
 
   description: {
-    en: 'You slow down for 2 seconds. Then, if you are incapacitated: all control impairing effects are removed, your Charge cooldown is reset and you gain 20 Movement Speed for 3 seconds.'
+    en: 'You slow down for 2 seconds. Then, if you are incapacitated: all control impairing effects are removed, your Charge cooldown is reset and you gain 20 Movement Speed for 3 seconds.',
+    ru: 'Вы замедляетесь на 2 секунды. Затем, если вы оглушены: все эффекты, нарушающие движение, удаляются, ваш Charge перезаряжается, и вы получаете 20 Movement Speed на 3 секунды.'
   }
 },
 {
   name: {$$: 'Soul Harvest'},
 
   description: {
-    en: 'Reap the souls of nearby enemies affected by Decay, dealing damage and granting you mana for each harvested soul.'
+    en: 'Reap the souls of nearby enemies affected by Decay, dealing damage and granting you mana for each harvested soul.',
+    ru: 'Пожинайте души близлежащих врагов, пострадавших от Decay, нанося им урон и даря вам ману на каждую собранную душу.'
   }
 },
 {
   name: {$$: 'Plaguespreader'},
 
   description: {
-    en: 'Decay deals damage and jumps to a nearby enemy if the current target is already affected by Decay. Additionally, casting Decay grants you Haste for a short duration.'
+    en: 'Decay deals damage and jumps to a nearby enemy if the current target is already affected by Decay. Additionally, casting Decay grants you Haste for a short duration.',
+    ru: 'Decay наносит урон и перепрыгивает на ближайшего врага, если первая цель уже подвержена действию Decay. Кроме того, использование Decay дает дополнительную Haste на короткое время.'
   }
 },
 {
   name: {$$: 'Soul'}, // this is not a usable spell but a side-effect of soul-harvest
 
   description: {
-    en: 'The harvested soul.'
+    en: 'The harvested soul.',
+    ru: 'Собранная душа.'
   }
 }
 ]
