@@ -88,7 +88,7 @@ export default [
   {
     name       : {$$: 'Imbued Bracers' },
     description: {
-      en: 'These steel bracers are marked with small runes that imbue extra protection. Imbued bracers are somewhat rare since the creation method of the runes are a secret.',
+      en: 'These steel bracers are marked with small runes that imbue extra protection. Imbued bracers are somewhat rare since the creation method of the runes is a secret.',
       hu: 'Az acél vértek rúnákkal vannak ellátva a teljes védelemért. Ilyen elbűvölt alkarvédők elég ritkák lettek, amióta a rúnák titkát elfeledték.',
       ru: 'Эти стальные браслеты отмечены мелкими рунами, которые обеспечивают дополнительную защиту. Такие браслеты встречаются редко, так как метод создания рун является секретным.',
       fr: 'Ces brassards en acier sont marqués de petites runes qui leur confèrent une protection supplémentaire. Les brassard imprégnés sont quelque peu rares puisque la méthode de création des runes est un secret.',
