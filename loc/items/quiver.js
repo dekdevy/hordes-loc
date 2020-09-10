@@ -9,7 +9,8 @@ export default [
       de: 'Dieser massenhaft produzierte Köcher besteht aus Elfenleinen für extra Komfort.',
       vi: 'Ống đựng tên này được làm bằng vải lanh Elvish để thêm thoải mái.',
       es: 'Este quiver producido en masa está hecho con lino élfico para mayor comodidad',
-      it: 'Questa faretra prodotta in serie è realizzata con lino elfico per un maggiore comfort.'
+      it: 'Questa faretra prodotta in serie è realizzata con lino elfico per un maggiore comfort.',
+      ro: 'Acest tip de tolbă produsă în masă este făcută cu pânză de-a Elfilor pentru extra comfort.'
     }
   },
 
@@ -23,7 +24,8 @@ export default [
       de: 'Rustikale Köcher sind verlässlich und kampferprobt. Diese Köcher werden oft an lernende Bogenschützen vergeben.',
       vi: 'Rustic Quivers là đáng tin cậy và thử nghiệm chiến đấu. Những ống tên này thường được chuyển cho các cung thủ tập sự khi họ tiến bộ.',
       es: 'Las Rustic Quivers son confiables y probadas en batalla. Estos quivers se transmiten a los arqueros aprendices a medida que avanzan.',
-      it: 'Le faretra rustiche sono affidabili e testate in battaglia. Queste faretre vengono spesso trasmesse agli arcieri apprendisti mentre progrediscono.'
+      it: 'Le faretra rustiche sono affidabili e testate in battaglia. Queste faretre vengono spesso trasmesse agli arcieri apprendisti mentre progrediscono.',
+      ro: 'Tolbere rustice sunt de încredere și testate în bătălie. Aceste tolbe sunt deseori pasate arcașilor începători pe măsură ce progresează.'
     }
   },
 
@@ -37,7 +39,8 @@ export default [
       de: 'Diese Köcher werden aus den Schlangenschuppen spezieller Monster hergestellt. Typischerweiwird die Schlangenhaut eingesammelt nachdem riesige Schlangen sich gehäutet haben, andere Methoden wären ein hohes Risiko.',
       vi: 'Những ống tên này được làm từ vảy rắn từ những con quái vật đặc biệt. Thông thường, da rắn được tìm thấy sau khi những con se rắn khổng lồ lột da; để thử một bộ sưu tập da rắn nếu không sẽ có nguy cơ cao.',
       es: 'Estos quivers estan hechos de escamas de serpiente de monstruos especiales. Por lo general, las pieles de serpiente se encuentran después de que las serpientes gigantes hayan mudado su piel; de lo contrario, la recolección de la piel sería un gran riesgo.',
-      it: 'Queste faretre sono fatte con scaglie di serpenti di mostri speciali. In genere, le pelli di serpente si trovano dopo che i serpenti giganti hanno perso la pelle; tentare una collezione di pelle di serpente altrimenti sarebbe un rischio elevato.'
+      it: 'Queste faretre sono fatte con scaglie di serpenti di mostri speciali. In genere, le pelli di serpente si trovano dopo che i serpenti giganti hanno perso la pelle; tentare una collezione di pelle di serpente altrimenti sarebbe un rischio elevato.',
+      ro: 'Aceste tolbe sunt făcute din solzi de șarpe proveniți de la monștrii speciali. În mod normal, pieile de șarpe sunt găsite după ce șerpii giganți își lepădează pielea; asta pentru atunci când încerci să strângi piele altfel ar fi un risc prea mare.'
     }
   },
 
@@ -51,7 +54,8 @@ export default [
       de: 'Die exquisite Handwerkskunst von Markay\'ak führte zur Entwicklung von verstärkten Exemplaren. Solche Köcher sind oft ein Zeichen des Stolzes für jeden professionellen Bogenschützen.',
       vi: 'Sự khéo léo tinh tế của Markay\'ak đã dẫn đến việc tạo ra các Reinforced Exemplars. Những ống tên như thế này thường là một minh chứng cho niềm tự hào của bất kỳ cung thủ chuyên nghiệp nào.',
       es: 'La exquisita artesanía de Markay\'ak resultó en la creación de Reinforced Exemplars. Estos Quivers son a menudo un testamento del orgullo de cualquier arquero profesional.',
-      it: 'Lo squisito artigianato di Markay\'ak ha portato alla creazione di esemplari rinforzati. Faretra come questa sono spesso una testimonianza dell\'orgoglio di ogni arciere professionista.'
+      it: 'Lo squisito artigianato di Markay\'ak ha portato alla creazione di esemplari rinforzati. Faretra come questa sono spesso una testimonianza dell\'orgoglio di ogni arciere professionista.',
+      ro: 'Măiestria rafinată a lui Markay\'ak a rezultat în crearea "Reinforced Exemplar". Astfel de tolbe sunt deseori o dovadă a mândriei oricărui arcaș profesional.'
     }
   },
 
@@ -65,7 +69,8 @@ export default [
       de: 'Ein Unsterblicher einer alten Rasse schuf Köcher mit einer unmenschlichen Kraft, um seine Rache an der Welt zu manifestieren.',
       vi: 'Một người bất tử từ một chủng tộc lớn cổ xưa đã tạo ra những kẻ nguyền rủa với một sức mạnh phi nhân tính để thể hiện sự trả thù của mình đối với thế giới.',
       es: 'Un inmortal de una raza mayor creó temblores con un poder inhumano para manifestar su venganza sobre el mundo.',
-      it: 'Un immortale di una razza anziana ha creato faretre con un potere disumano per manifestare la sua vendetta sul mondo.'
+      it: 'Un immortale di una razza anziana ha creato faretre con un potere disumano per manifestare la sua vendetta sul mondo.',
+      ro: 'Un nemuritor dintr-o rasă străveche a creat tolbe cu o putere inumană pentru a manifesa răzbunarea sa asupra lumii.'
     }
   },
 
@@ -79,7 +84,8 @@ export default [
       de: 'Dieser Köcher besteht aus Drachenschuppen, die auf dem Boden gefunden wurden. Drachenschuppen sind ein sehr schwieriges Handwerksmaterial, so dass nur die besten Handwerker sie nutzen können.',
       vi: 'Ống tên này được làm bằng vảy rồng được tìm thấy trên mặt đất. c, vì vậy chỉ những thợ thủ công giỏi nhất mới có thể sử dụng chúng.',
       es: 'Este quiver está hecho de escamas de dragón que se encuentran en el suelo. Las escamas de dragón son un material de fabricación muy difícil, por lo que sólo los mejores artesanos pueden usarlas.',
-      it: 'Questa faretra è composta da squame di drago trovate sul terreno. Le squame di drago sono un materiale di fabbricazione molto difficile, quindi solo i migliori artigiani possono usarle.'
+      it: 'Questa faretra è composta da squame di drago trovate sul terreno. Le squame di drago sono un materiale di fabbricazione molto difficile, quindi solo i migliori artigiani possono usarle.',
+      ro: 'Această tolbă este creată din solzi de dragon găsiți pe pământ. Solzii de dragon sunt un material cu care se lucrează greu, așa că doar cei mai muni meșteri îi pot folosi.'
     }
   },
 
@@ -93,7 +99,8 @@ export default [
       de: 'Lothariens sind Köcher, die nach einem Volk benannt sind, das aus der Welt getilgt wurde. Das Volk der Lotharien kämpfte gegen angrenzende Territorien um den Erwerb von Macht, während es diese Köcher benutzte.',
       vi: 'Lothariens là những ống tên được đặt theo tên của một bộ tộc bị biến mất. Người Lotharien đã chiến đấu với các vùng lãnh thổ xung quanh để giành quyền lực trong khi sử dụng những người bỏ cuộc này.',
       es: 'Los Lothariens son quivers que llevan el nombre de un pueblo que ya no existe. La gente de Lotharien luchó contra los territorios circundantes para adquirir poder mientras usaban estos quivers.',
-      it: 'Le lothariens sono faretre che prendono il nome da un popolo guastato dalla vita. Il popolo Lotario combatté contro i territori circostanti per l\'acquisizione di potere mentre utilizzava queste faretre.'
+      it: 'Le lothariens sono faretre che prendono il nome da un popolo guastato dalla vita. Il popolo Lotario combatté contro i territori circostanti per l\'acquisizione di potere mentre utilizzava queste faretre.',
+      ro: 'Lothariens sunt niște tolbe care sunt numite după ce un popor s-a războit până la dispariție. Oamenii Lotharien s-au luptat în jurul teritoriilor pentru a dobândi putere, în timp ce au folosit aceste tolbe.'
     }
   },
 
@@ -107,7 +114,8 @@ export default [
       de: 'Dieser Köcher ist ein Geschenk aus dem Wald als Mittel der Naturgeister, um ihre gestohlene Kraft, ihr Territorium und ihren Respekt zurückzugewinnen.',
       vi: 'Ống tên này là một món quà từ khu rừng như một phương tiện cho các linh hồn tự nhiên để lấy lại quyền lực, lãnh thổ và sự tôn trọng bị đánh cắp của họ',
       es: 'Este quiver es un regalo del bosque como un medio para que los espíritus de la naturaleza reclamen su poder, territorio y respeto robados.',
-      it: 'Questa faretra è un dono della foresta come mezzo per gli spiriti della natura per recuperare il potere, il territorio e il rispetto rubati.'
+      it: 'Questa faretra è un dono della foresta come mezzo per gli spiriti della natura per recuperare il potere, il territorio e il rispetto rubati.',
+      ro: 'Această tolbă este un cadou al pădurii ca o metodă a spiritelor naturii de a-și redobândi puterea furată, teritoriul, și respectul.'
     }
   },
 
@@ -121,7 +129,8 @@ export default [
       de: 'Die Vodhrai sind die Verkörperung von Rache, Wut, Groll, Zorn und Entschlossenheit. Die ungewöhnlich starken Emotionen dieses lebenden Köcher könnten dazu dienen, den Besitzer zu verderben.',
       vi: 'Vodhrai là hiện thân của sự báo thù, giận dữ, phẫn nộ và quyết tâm. Những cảm xúc mạnh mẽ khác thường từ người run rẩy sống này có thể phục vụ cho người dùng tha hóa.',
       es: 'Los Vodhrai son la encarnación de la venganza, la cólera, la ira y la determinación. Las emociones inusualmente fuertes de este estremecimiento vivo podrían servir para corromper al portador.',
-      it: 'I Vodhrai sono l\'incarnazione di vendetta, rabbia, ira e determinazione. Le emozioni insolitamente forti di questa faretra vivente potrebbero servire a corrompere l\'utente.'
+      it: 'I Vodhrai sono l\'incarnazione di vendetta, rabbia, ira e determinazione. Le emozioni insolitamente forti di questa faretra vivente potrebbero servire a corrompere l\'utente.',
+      ro: 'Vodhrai sunt întruchiparea revanșei, furiei, mâniei, și a determinării. Emoțiile neobișnuit de puternice care provin de la aceasă tolbă vie ar putea servi la a-l corupe pe utilizator.'
     }
   },
 
@@ -135,7 +144,8 @@ export default [
       de: 'Dieser Köcher wurde einst in der Nähe der Ruinen einer Zivilisation gefunden. Es gibt keine erhaltenen Aufzeichnungen über den Köcher aus diesem Zeitraum.',
       vi: 'Ống tên này đã từng được tìm thấy gần tàn tích của cả một nền văn minh. Không có hồ sơ còn tồn tại về rung chuyển trong khu vực kể từ thời gian này.',
       es: 'Este quiver fue encontrado una vez cerca de las ruinas de una civilización entera. No hay registro de sobrevivientes sobre el quiver en la región desde este período de tiempo.',
-      it: 'Questa faretra fu trovata una volta vicino alle rovine di un\'intera civiltà. Non sono stati registrati sopravvissuti da questa faretra nella regione da questo periodo di tempo.'
+      it: 'Questa faretra fu trovata una volta vicino alle rovine di un\'intera civiltà. Non sono stati registrati sopravvissuti da questa faretra nella regione da questo periodo di tempo.',
+      ro: 'Această tolbă a fost cândva găsită aproape de ruinele unei civilizații întregi. Nu există dovezi care au supraviețuit în legătură cu tolba în regiunea din această perioadă de timp.'
     }
   }
 
