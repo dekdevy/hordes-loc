@@ -309,10 +309,10 @@ export default [{
   }
 },
 {
-  name: {$$: 'Soul'}, // this is not a usable spell but a side-effect of soul-harvest
+  name: {$$: 'Flamepits'}, // this is only used by bosses
 
   description: {
-    en: 'The harvested soul.'
+    en: 'Lights the ground below enemies on fire' // not needed
   }
 }
 ]
