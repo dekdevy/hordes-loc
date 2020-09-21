@@ -314,7 +314,7 @@ export default [{
   name: {$$: 'Mount Riding'},
 
   description: {
-    en: 'Allows you to ride ground mounts.'
+    en: 'Allows you to ride ground mounts. Mounts are bound to your account.'
   }
 },
 {
