@@ -187,13 +187,15 @@ export default {
   copyitemid: {
     en: 'Copy item ID',
     ru: 'Скопировать ID предмета',
-    el: 'Αντιγραφή ID αντικειμένου'
+    el: 'Αντιγραφή ID αντικειμένου',
+    hu: 'Azonosító másolása'
   },
 
   sell: {
     en: 'Sell item',
     el: 'Πώληση αντικειμένου',
-    ru: 'Продать предмет'
+    ru: 'Продать предмет',
+    hu: 'Eladás'
   },
 
   splithalf: {

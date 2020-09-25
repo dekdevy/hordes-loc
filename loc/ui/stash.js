@@ -51,7 +51,8 @@ export default {
     fr: 'Déposer',
     vi: 'Gửi tiền',
     sr: 'Уплати',
-    it: 'Deposita'
+    it: 'Deposita',
+    hu: 'Betesz'
   },
 
   // Do not translate "Stash".

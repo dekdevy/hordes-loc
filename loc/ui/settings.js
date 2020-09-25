@@ -69,7 +69,8 @@ export default {
     ru: 'Камера',
     pl: 'Kamera',
     sr: 'Камера',
-    it: 'Telecamera'
+    it: 'Telecamera',
+    hu: 'Kamera'
   },
 
   mousesensitivity: {
@@ -82,7 +83,8 @@ export default {
     pl: 'Czułość',
     vi: 'Độ nhạy chuột',
     sr: 'Сензитивност',
-    it: 'Sensibilità'
+    it: 'Sensibilità',
+    hu: 'Érzékenység'
   },
 
   invertmousex: {
@@ -95,7 +97,8 @@ export default {
     pl: 'Inwersja pozioma',
     vi: 'Đảo ngược theo chiều ngang',
     sr: 'Обрни хоризонтално',
-    it: 'Inverti orizzontalmente'
+    it: 'Inverti orizzontalmente',
+    hu: 'Vízszintes tükrözés'
   },
 
   invertmousey: {
@@ -108,7 +111,8 @@ export default {
     pl: 'Inwersja pionowa',
     vi: 'Đảo ngược theo chiều dọc',
     sr: 'Обрни вертикално',
-    it: 'Inverti verticalmente'
+    it: 'Inverti verticalmente',
+    hu: 'Függőleges tükrözés'
   },
 
   pointerlock: {
@@ -125,7 +129,8 @@ export default {
     pl: 'Schowaj myszkę podczas obrotu',
     vi: 'Ẩn chuột khi xoay',
     sr: 'Сакриј миш током ротације',
-    it: 'Nascondi il mouse durante le rotazioni'
+    it: 'Nascondi il mouse durante le rotazioni',
+    hu: 'Egérmutató elrejtése mozgatás közben'
   },
 
   lockedcamera: {
@@ -386,7 +391,7 @@ export default {
     fr: 'Volume des effets sonores',
     tr: 'SFX Ses Gücü',
     ko: 'SFX 볼륨',
-    hu: 'SFX-hangerő ',
+    hu: 'Effektek hangereje',
     pl: 'Poziom dźwięków',
     vi: 'Âm lượng SFX',
     sr: 'SFX гласноћа',
@@ -395,7 +400,8 @@ export default {
   ambiencevolume: {
     en: 'Ambience Volume',
     el: 'Ένταση ατμόσφαιρας',
-    ru: 'Громкость окружения'
+    ru: 'Громкость окружения',
+    hu: 'Környezet hangereje'
   },
   musicvolume: {
     en: 'Music Volume',
@@ -407,7 +413,8 @@ export default {
     pl: 'Poziom muzyki',
     vi: 'Âm lượng nhạc',
     sr: 'Гласноћа музике',
-    it: 'Volume Musica'
+    it: 'Volume Musica',
+    hu: 'Zene hangereje'
   },
   // ---- Chat
   chat: {

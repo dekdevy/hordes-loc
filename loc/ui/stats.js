@@ -329,7 +329,8 @@ export default {
     {
       en: 'Rating',
       el: 'Εκτίμηση',
-      ru: 'Рейтинг'
+      ru: 'Рейтинг',
+      hu: 'Értékelés'
     },
 
     {
