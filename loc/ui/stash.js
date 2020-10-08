@@ -34,7 +34,7 @@ export default {
     ko: '빼다',
     tr: 'Çekil',
     zh: '退出',
-    hu: 'Pénz Kivétele',
+    hu: 'Kivesz',
     pl: 'Podejmij',
     vi: 'Rút tiền',
     sr: 'Повлачење новца',
@@ -51,7 +51,8 @@ export default {
     fr: 'Déposer',
     vi: 'Gửi tiền',
     sr: 'Уплати',
-    it: 'Deposita'
+    it: 'Deposita',
+    hu: 'Betesz'
   },
 
   // Do not translate "Stash".
@@ -68,7 +69,7 @@ export default {
     hi: 'स्टैश में भेजें',
     ro: 'Mută în Stash.',
     zh: '转到保管',
-    hu: 'Stash küldés',
+    hu: 'Stash-be rak',
     pl: 'Przenieś do Stash',
     vi: 'Di chuyển vào Stash',
     sr: 'Стави у Stash',
@@ -89,7 +90,7 @@ export default {
     ro: '$1 a fost mutat în Stash.',
     ko: '$1 가 숨겨지기로 옮겼습니다.',
     zh: '$1 被转移到了你的保管',
-    hu: 'A Stash fiókodba került: $1',
+    hu: 'A Stash-edbe került: $1',
     pl: '$1 został przeniesiony do Stash',
     vi: '$1 đã được đưa ra khỏi Stash.',
     sr: '$1 је стављен у твој Stash.',

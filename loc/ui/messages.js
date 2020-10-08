@@ -205,7 +205,8 @@ export default {
     vi: 'Tìm thấy $1 thành viên mới trong party.',
     zh: '找到 $1 新的 Party 成員。',
     sr: 'Pronađen/o $1 novih party membera.',
-    it: 'Trovato $1 nuovo membro del party.'
+    it: 'Trovato $1 nuovo membro del party.',
+    hu: '$1 új Party társ lett találva'
   },
   partyMemberDemote: { // Do not translate "party".
     en: '$1 has been demoted in party role.',
@@ -277,7 +278,8 @@ export default {
     pl: 'Twoje party rozpoczęło kolejkowanie w typie: $1.',
     vi: 'Đội của bạn bắt đầu hàng đợi kiểu: $1.',
     zh: '你的 Party 開始隊列類型：$1。',
-    it: 'Il tuo party ha iniziato la coda: $1.'
+    it: 'Il tuo party ha iniziato la coda: $1.',
+    hu: 'A party sorrendi típusa mostantól: $1.'
   },
   partyQueueStop: { // Do not translate "party".
     en: 'Your party has stopped queue type: $1.',
@@ -289,7 +291,8 @@ export default {
     pl: 'Twoje party zakończyło kolejkowanie w typie: $1.',
     vi: 'Đội của bạn đã dừng hàng đợi kiểu: $1.',
     zh: '你的 Party 停止隊列類型：$1。',
-    it: 'Il tuo party ha fermato la coda: $1.'
+    it: 'Il tuo party ha fermato la coda: $1.',
+    hu: 'A party abbahagyta a köv. sorrendet: $1.'
   },
   partyLootQueueResolve: {
     en: '$1 received $2 $3 $4.',
@@ -301,7 +304,8 @@ export default {
     de: '$1 erhielt $2 $3 $4.',
     zh: '$1 收到 $2 $3 $4。',
     sr: '$1 je dobio $2 $3 $4',
-    it: '$1 ha ricevuto $2 $3 $4.'
+    it: '$1 ha ricevuto $2 $3 $4.',
+    hu: '$1 kapott $2 $3 $4.'
   },
   auctionSold: {
     en: 'Your merchant auction has been sold and $g$1 has been sent to your Stash.',
