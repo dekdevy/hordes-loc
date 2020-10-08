@@ -129,8 +129,7 @@ export default {
     pl: 'Schowaj myszkę podczas obrotu',
     vi: 'Ẩn chuột khi xoay',
     sr: 'Сакриј миш током ротације',
-    it: 'Nascondi il mouse durante le rotazioni',
-    hu: 'Egérmutató elrejtése mozgatás közben'
+    it: 'Nascondi il mouse durante le rotazioni'
   },
 
   lockedcamera: {
