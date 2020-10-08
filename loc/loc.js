@@ -95,6 +95,7 @@ import hiddenskills from './ui/hiddenskills.js'
 import inventory from './ui/inventory.js'
 import messages from './ui/messages.js'
 import party from './ui/party.js'
+import report from './ui/report.js'
 import settings from './ui/settings.js'
 import stats from './ui/stats.js'
 import tutorial from './ui/tutorial.js'
@@ -112,6 +113,7 @@ const ui = {
   tutorial,
   messages,
   hiddenskills,
+  report,
   ...general }
 
 export default {
