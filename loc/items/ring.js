@@ -1,6 +1,6 @@
 export default [
   {
-    name: { $$: 'Woven Band' },
+    name       : { $$: 'Woven Band' },
     description: {
       en: 'This strange band allows a small part of the wearer’s life essence to be stored.',
       fr: 'Cette bague étrange permet de stocker une petite partie de l\'essence de vie du porteur.',
@@ -9,12 +9,13 @@ export default [
       vi: 'Nhẫn kỳ lạ này cho phép một phần nhỏ tinh chất sự sống của người mang được lưu trữ.',
       it: 'Questa strana fascia consente di conservare una piccola parte dell\'essenza vitale di chi la indossa.',
       es: 'Esta extraña banda permite almacenar una pequeña parte de la esencia vital del usuario.',
-      ro: 'Acest cerc bizar permite ca o mică parte din esența vitală a purtătorului să fie stocată.'
+      ro: 'Acest cerc bizar permite ca o mică parte din esența vitală a purtătorului să fie stocată.',
+      pt: 'Esta faixa estranha permite que uma pequena parte da essência da vida do usuário seja armazenada.'
     }
   },
 
   {
-    name: { $$: 'Ironbark Loop' },
+    name       : { $$: 'Ironbark Loop' },
     description: {
       en: 'This ring is made from a special wood that is as tough as iron. Ironbark is often used as an alternative to metal.',
       fr: 'Cette bague est fabriquée à partir d\'un bois spécial aussi résistant que le fer. L\'Ironbark est souvent utilisé comme une alternative au métal.',
@@ -29,7 +30,7 @@ export default [
   },
 
   {
-    name: { $$: 'Brass Unity' },
+    name       : { $$: 'Brass Unity' },
     description: {
       en: 'Two kingdoms that were joined by royal marriage had their armies wear these rings as a symbol of the newly allied nations.',
       fr: 'Deux royaumes qui furent fusionnés par le mariage royal ont vu leurs armées porter ces anneaux comme symbole des nations nouvellement alliées.',
@@ -44,7 +45,7 @@ export default [
   },
 
   {
-    name: { $$: 'Hollowed Bone' },
+    name       : { $$: 'Hollowed Bone' },
     description: {
       en: 'This ring is made from the bones of a monster husk. Monster bone can be used as a sturdy material when no other resources are available.',
       fr: 'Cet anneau est fabriqué à partir des os d\'une coquille de monstre. L\'os de monstre peut être utilisé comme matériau solide lorsqu\'aucune autre ressource n\'est disponible.',
@@ -59,7 +60,7 @@ export default [
   },
 
   {
-    name: { $$: 'Elven Heirloom' },
+    name       : { $$: 'Elven Heirloom' },
     description: {
       en: 'Rings are often handed down from generation to generation in the Elvish tradition.',
       fr: 'Les bagues sont souvent transmises de génération en génération dans la tradition elfique.',
@@ -74,7 +75,7 @@ export default [
   },
 
   {
-    name: { $$: 'Imbued Union' },
+    name       : { $$: 'Imbued Union' },
     description: {
       en: 'This ring has tiny runes carved into the inner band. Some historians believe these rings were the last effort of a lost kingdom to fortify its population from disease.',
       fr: 'Cet anneau a de minuscules runes gravées dans la bande intérieure. Certains historiens pensent que ces anneaux ont été le dernier effort d\'un royaume perdu pour fortifier sa population des maladies.',
@@ -89,7 +90,7 @@ export default [
   },
 
   {
-    name: { $$: 'Arcane Ring' },
+    name       : { $$: 'Arcane Ring' },
     description: {
       en: 'Arcane rings are the magical experiments of intermediate mages. Some rings are crafted and enchanted to substantially enhance magic-casting abilities.',
       fr: 'Les anneaux des arcanes sont les expériences magiques des mages intermédiaires. Certains anneaux sont fabriqués et enchantés pour améliorer considérablement les capacités de lancement des sorts magiques.',
@@ -104,7 +105,7 @@ export default [
   },
 
   {
-    name: { $$: 'Emerald Band' },
+    name       : { $$: 'Emerald Band' },
     description: {
       en: 'These rings once belonged to the “Cult of the Emerald Spiders,” a gang of bandits that were among the first to ride spiders.',
       fr: 'Ces anneaux appartenaient autrefois au "Culte des araignées d\'émeraude", un gang de bandits qui ont été parmi les premiers à chevaucher des araignées.',
@@ -119,7 +120,7 @@ export default [
   },
 
   {
-    name: { $$: 'Infernal Ring' },
+    name       : { $$: 'Infernal Ring' },
     description: {
       en: 'Infernal rings are gifts from devilish creatures. They entice the wearer to desire more power. This desire is often followed by ill-advised offers by more devils.',
       fr: 'Les anneaux infernaux sont des cadeaux de créatures diaboliques. Ils incitent le porteur à désirer plus de puissance. Ce désir est souvent suivi par des offres mal avisées de plusieurs autres de démons.',
@@ -134,7 +135,7 @@ export default [
   },
 
   {
-    name: { $$: 'Ancient Signet' },
+    name       : { $$: 'Ancient Signet' },
     description: {
       en: 'Nature spirits originally gave these rings as gifts of appreciation to primal monsters. Many of these rings have been stolen or lost over thousands of years.',
       fr: 'Les esprits de la nature ont à l\'origine donné ces anneaux en guise de reconnaissance aux monstres primitifs. Beaucoup de ces bagues ont été volées ou perdues au cours de milliers d\'années.',
@@ -149,7 +150,7 @@ export default [
   },
 
   {
-    name: { $$: 'Reverence' },
+    name       : { $$: 'Reverence' },
     description: {
       en: 'Many religious factions claim that individuals wearing this ring have the favor of a deity; however, the specific deity is not known. Many religious figureheads believe that the divine anonymity is intentional.',
       fr: 'De nombreuses factions religieuses affirment que les personnes portant cette bague ont la faveur d\'une divinité; cependant, la divinité spécifique n\'est pas connue. De nombreuses personnalités religieuses croient que cet anonymat est intentionnel.',
@@ -159,12 +160,12 @@ export default [
       it: 'Molte fazioni religiose affermano che alle persone che indossano questo anello viene concesso il favore di una divinità; tuttavia, la divinità specifica non è nota. Molte figure religiose credono che l\'anonimato divino sia intenzionale.',
       es: 'Muchas facciones religiosas afirman que las personas que usan este anillo tienen el favor de una deidad; sin embargo, la deidad específica no se conoce. Muchos mascarones religiosos creen que el anonimato divino es intencional.',
       ro: 'Multe facțiuni religioase afirmă faptul că persoanele care poartă acest inel sunt favorite de o zeitate; însă, zeitatea specifică nu este cunoscută. Multe figuri religioase cred că anonimitatea divină este inenționată.',
-      pt: 'Muitas facções religiosas afirmam que os indivíduos que usam este anel têm o favor de uma divindade; no entanto, a divindade específica não é conhecida. Muitas figuras religiosas acreditam que o anonimato divino é intencional.',
+      pt: 'Muitas facções religiosas afirmam que os indivíduos que usam este anel têm o favor de uma divindade; no entanto, a divindade específica não é conhecida. Muitas figuras religiosas acreditam que o anonimato divino é intencional.'
     }
   },
 
   {
-    name: { $$: 'Gyges' },
+    name       : { $$: 'Gyges' },
     description: {
       en: 'Ancient scrolls claim that these legendary rings make the wearer nearly invincible. The scrolls also mention stories of wearers becoming corrupt and profoundly unhappy.',
       fr: 'Les parchemins antiques affirment que ces anneaux légendaires rendent le porteur presque invincible. Les parchemins mentionnent également des histoires de porteurs devenant corrompus et profondément mécontents.',
@@ -179,7 +180,7 @@ export default [
   },
 
   {
-    name: { $$: 'Peacekeeper' },
+    name       : { $$: 'Peacekeeper' },
     description: {
       en: 'Once every age, a Peacekeeper is found and marks the wearer as a special protector of the realms. In a past age, the bearer of the Peacekeeper failed and the Third Great War began.',
       fr: 'Une fois par ère, un Peacekeeper est trouvé et marque le porteur comme un protecteur spécial des royaumes. Dans un âge passé, le porteur du Peacekeeper a échoué et la Troisième Grande Guerre a commencé.',
