@@ -188,14 +188,16 @@ export default {
     en: 'Copy item ID',
     ru: 'Скопировать ID предмета',
     el: 'Αντιγραφή ID αντικειμένου',
-    hu: 'Azonosító másolása'
+    hu: 'Azonosító másolása',
+    pt: 'Copiar ID do item'
   },
 
   sell: {
     en: 'Sell item',
     el: 'Πώληση αντικειμένου',
     ru: 'Продать предмет',
-    hu: 'Eladás'
+    hu: 'Eladás',
+    pt: 'Vender item'
   },
 
   splithalf: {

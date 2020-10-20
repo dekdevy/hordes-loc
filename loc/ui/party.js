@@ -272,7 +272,8 @@ export default {
     pl: 'Kolejkuj',
     vi: 'Hàng đợi',
     sr: 'Red',
-    it: 'Coda'
+    it: 'Coda',
+    pt: 'Na fila'
   },
 
   stopQueue: {
@@ -287,6 +288,7 @@ export default {
     pl: 'Opuść kolejkowanie',
     vi: 'Rời hàng đợi',
     sr: 'Napusti red',
-    it: 'Esci dalla Coda'
+    it: 'Esci dalla Coda',
+    pt: 'Sair da fila'
   }
 }
