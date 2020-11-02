@@ -98,6 +98,7 @@ import party from './ui/party.js'
 import report from './ui/report.js'
 import settings from './ui/settings.js'
 import stats from './ui/stats.js'
+import title from './ui/title.js'
 import tutorial from './ui/tutorial.js'
 const ui = {
   charmenu,
@@ -111,6 +112,7 @@ const ui = {
   stats,
   death,
   tutorial,
+  title,
   messages,
   hiddenskills,
   report,
