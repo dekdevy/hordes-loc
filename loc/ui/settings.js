@@ -70,7 +70,8 @@ export default {
     pl: 'Kamera',
     sr: 'Камера',
     it: 'Telecamera',
-    hu: 'Kamera'
+    hu: 'Kamera',
+    pt: 'Câmera'
   },
 
   mousesensitivity: {
@@ -84,7 +85,8 @@ export default {
     vi: 'Độ nhạy chuột',
     sr: 'Сензитивност',
     it: 'Sensibilità',
-    hu: 'Érzékenység'
+    hu: 'Érzékenység',
+    pt: 'Sensibilidade'
   },
 
   invertmousex: {
@@ -98,7 +100,8 @@ export default {
     vi: 'Đảo ngược theo chiều ngang',
     sr: 'Обрни хоризонтално',
     it: 'Inverti orizzontalmente',
-    hu: 'Vízszintes tükrözés'
+    hu: 'Vízszintes tükrözés',
+    pt: 'Inverter horizontalmente'
   },
 
   invertmousey: {
@@ -112,7 +115,8 @@ export default {
     vi: 'Đảo ngược theo chiều dọc',
     sr: 'Обрни вертикално',
     it: 'Inverti verticalmente',
-    hu: 'Függőleges tükrözés'
+    hu: 'Függőleges tükrözés',
+    pt: 'Inverter verticalmente'
   },
 
   pointerlock: {
@@ -352,7 +356,8 @@ export default {
     pl: 'Szczegóły',
     vi: 'Chi tiết',
     it: 'Dettagli',
-    sr: 'Детаљи предмета'
+    sr: 'Детаљи предмета',
+    pt: 'Detalhes das props.'
   },
 
   // ---- Audio
@@ -400,7 +405,8 @@ export default {
     en: 'Ambience Volume',
     el: 'Ένταση ατμόσφαιρας',
     ru: 'Громкость окружения',
-    hu: 'Környezet hangereje'
+    hu: 'Környezet hangereje',
+    pt: 'Som ambiente'
   },
   musicvolume: {
     en: 'Music Volume',
@@ -413,7 +419,8 @@ export default {
     vi: 'Âm lượng nhạc',
     sr: 'Гласноћа музике',
     it: 'Volume Musica',
-    hu: 'Zene hangereje'
+    hu: 'Zene hangereje',
+    pt: 'Volume da música'
   },
   // ---- Chat
   chat: {
@@ -467,7 +474,8 @@ export default {
     pl: 'Log Walki',
     vi: 'Nhật ký combat',
     it: 'registro dei combattimenti',
-    sr: 'Борбени чет'
+    sr: 'Борбени чет',
+    pt: 'Log de combate'
   },
 
   // ---- User interface
@@ -544,7 +552,8 @@ export default {
     pl: 'Szerokość Stash',
     vi: 'Độ dài Stash',
     sr: 'Ширина Stash-а',
-    it: 'Larghezza Stash'
+    it: 'Larghezza Stash',
+    pt: 'Tamanho do baú'
   },
 
   // Do NOT translate "Stash"
@@ -559,7 +568,8 @@ export default {
     pl: 'Wysokość Stash',
     vi: 'Độ rộng Stash',
     sr: 'Висина Stash-а',
-    it: 'Altezza Stash'
+    it: 'Altezza Stash',
+    pt: 'Altura do baú'
   },
 
   tutorial: {
