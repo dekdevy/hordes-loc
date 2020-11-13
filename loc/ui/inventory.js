@@ -60,7 +60,7 @@ export default {
     pl: 'Wyrzucono: $1.',
     vi: 'Bạn đã vứt đi $1.',
     it: 'Hai gettato via $1.',
-    sr: 'Бацио си $1.'
+    sr: 'Бацио си $1.',
     tr: 'Yere $1 attın.'
   },
 
@@ -123,7 +123,7 @@ export default {
     pl: 'Otrzymano $1.',
     vi: 'Bạn vừa nhận được $1.',
     it: 'Hai ricevuto $1.',
-    sr: 'Добио си $1.'
+    sr: 'Добио си $1.',
     tr: '$1 elde ettin.'
   },
 
