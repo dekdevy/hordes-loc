@@ -20,7 +20,7 @@ export default {
       vi: 'Nâng cấp vật phẩm luôn có sự rủi ro nếu không có vật phẩm đặc biệt như Blacksmith\'s Blessed Hammer, có thể ngăn các vật phẩm bị hủy trong quá trình nâng cấp. Không có búa, chúng ta sẽ mạo hiểm. Vì vậy, chắc chắn bạn có một cái gì đó mà tôi có thể nâng cấp cho bạn ngày hôm nay.',
       it: 'L\'aggiornamento è rischioso senza ulteriori oggetti speciali come un Blacksmith\'s Blessed Hammer, che può impedire agli oggetti di rompersi durante gli aggiornamenti. Senza il martello, correremo un rischio. Quindi sicuramente hai qualcosa che posso aggiornare per te oggi?'
     },
-
+ 
     choices: [{
       en: 'Yes, I have some items.',
       el: 'Ναι, έχω κάποια αντικείμενα.',
@@ -38,7 +38,7 @@ export default {
       pl: 'Tak, mam pewne przedmioty.',
       bn: 'হ্যাঁ, আমার কিছু জিনিস আছে',
       vi: 'Đúng vậy, tôi có vài vật phẩm',
-      it: 'Si, ho qualche oggetto'
+      it: 'Si, ho qualche oggetto',
     }]
   }]
 }
