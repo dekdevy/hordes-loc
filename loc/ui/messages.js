@@ -12,7 +12,8 @@ export default {
     vi: '$1 đã vào Bang.',
     zh: '$1 加入了你的公會。',
     sr: '$1 се придружио твом клану.',
-    it: '$1 è entrato nel tuo clan.'
+    it: '$1 è entrato nel tuo clan.',
+    tr: '$1 klanına katıldı.'
   },
   clanMemberInvite: {
     en: 'A clan invitation has been sent to $1.',
@@ -27,7 +28,8 @@ export default {
     vi: 'Lời mời vào bang đã được gửi đến $1.',
     zh: '公會邀請發送至 $1。',
     sr: 'Позивница за клан је послата $1.',
-    it: 'Un invito al clan è stato inviato a $1.'
+    it: 'Un invito al clan è stato inviato a $1.',
+    tr: '$1 oyuncusuna bir klan isteği gönderildi'
   },
   clanMemberLeave: {
     en: '$1 has left your clan.',
@@ -42,7 +44,8 @@ export default {
     vi: '$1 đã rời khỏi Bang.',
     zh: '$1 離開了你的公會。',
     sr: '$1 је напустио твој клан.',
-    it: '$1 è uscito dal tuo clan.'
+    it: '$1 è uscito dal tuo clan.',
+    tr: '$1 klanından ayrıldı.'
   },
   clanMemberApply: {
     en: '$1 has applied to join your clan.',
@@ -57,7 +60,8 @@ export default {
     vi: '$1 đã chấp nhận vào Bang của bạn.',
     zh: '$1 申請加入你的公會。',
     sr: '$1 жели да се придружи твом клану.',
-    it: '$1 ha fatto domanda per unirsi al clan.'
+    it: '$1 ha fatto domanda per unirsi al clan.',
+    tr: '$1 klanına katılma isteği gönderdi.'
   },
   clanMemberRolePromote: {
     en: '$1 was promoted in clan role.',
@@ -72,7 +76,8 @@ export default {
     vi: '$1 đã được thăng chức.',
     zh: '$1 公會角色被提升。',
     sr: 'Клан роле од $1 је унапређен.',
-    it: '$1 è stato promosso nel ruolo di clan.'
+    it: '$1 è stato promosso nel ruolo di clan.',
+    tr: '$1 klanda terfi edildi.'
   },
   clanMemberRoleDemote: {
     en: '$1 was demoted in clan role.',
@@ -87,7 +92,8 @@ export default {
     vi: '$1 đã bị giáng chức.',
     zh: '$1 公會角色被降級。',
     it: '$1 è stato degradato a ruolo di clan.',
-    sr: 'Клан роле од $1 је демотиран.'
+    sr: 'Клан роле од $1 је демотиран.',
+    tr: '$1 klan rütbesi düşürüldü.'
   },
   clanKickOther: {
     en: '$1 was kicked from your clan.',
@@ -102,7 +108,8 @@ export default {
     vi: '$1 đã bị đá ra khỏi Bang.',
     zh: '$1 被公會踢出了。',
     sr: '$1 је избачен из твог клана.',
-    it: '$1 è stato cacciato dal tuo clan.'
+    it: '$1 è stato cacciato dal tuo clan.',
+    tr: '$1 klanından atıldı.'
   },
   clanKickYou: {
     en: 'You were kicked from your clan.',
@@ -117,7 +124,8 @@ export default {
     vi: 'Bạn đã bị đá ra khỏi Bang.',
     zh: '你被公會踢出了。',
     sr: 'Избачен си из свог клана.',
-    it: 'Sei stato cacciato dal tuo clan.'
+    it: 'Sei stato cacciato dal tuo clan.',
+    tr: 'Klandan atıldın.'
   },
   partyMemberInvite: { // Do not translate "party".
     en: '$1 has been invited by $2 to join your party.',
@@ -132,7 +140,8 @@ export default {
     vi: '$1 đã được $2 mời gia nhập Party.',
     zh: '$2 邀請 $1 加入您的 Party。',
     sr: '$2 je pozvao $1 da se pridruži tvojoj party.',
-    it: '$1 è stato invitato da $2 ad entrare nel tuo party.'
+    it: '$1 è stato invitato da $2 ad entrare nel tuo party.',
+    tr: '$1, partye katılmak için $2 tarafından davet edildi'
   },
   partyMemberJoin: { // Do not translate "party".
     en: '$1 has joined your party.',
@@ -147,7 +156,8 @@ export default {
     vi: '$1 đã tham gia Party.',
     zh: '$1 加入了你的 Party。',
     sr: '$1 se pridružio tvojoj party.',
-    it: '$1 è entrato nel tuo party.'
+    it: '$1 è entrato nel tuo party.',
+    tr: '$1 partye katıldı.'
   },
   partyMemberLeave: { // Do not translate "party".
     en: '$1 has left your party.',
@@ -162,7 +172,8 @@ export default {
     vi: '$1 đã rời khỏi Party.',
     zh: '$1 離開了你的 Party。',
     sr: '$1 je napustio tvoj party.',
-    it: '$1 è uscito dal tuo party.'
+    it: '$1 è uscito dal tuo party.',
+    tr: '$1 partyden ayrıldı.'
   },
   partyInvitationDecline: { // Do not translate "party".
     en: '$1 has declined to join your party.',
@@ -177,7 +188,8 @@ export default {
     vi: '$1 đã từ chối gia nhập Party.',
     zh: '$1 拒絕參加你的 Party。',
     sr: '$1 je odbio da se pridruži tvojoj party.',
-    it: '$1 ha rifiutato di unirsi nel tuo party.'
+    it: '$1 ha rifiutato di unirsi nel tuo party.',
+    tr: '$1 partye katılma isteğini reddetti.'
   },
   partyMemberPromote: { // Do not translate "party".
     en: '$1 has been promoted in party role.',
@@ -192,7 +204,8 @@ export default {
     vi: '$1 đã được thăng chức trong đội.',
     zh: '$1 Party 角色被提升。',
     sr: 'Party role od $1 je unapređen.',
-    it: '$1 è stato promosso a ruolo del party.'
+    it: '$1 è stato promosso a ruolo del party.',
+    tr: '$1 partyde terfi edildi.'
   },
   partyMemberFound: { // Do not translate "party".
     en: 'Found $1 new party members.',
@@ -207,7 +220,8 @@ export default {
     sr: 'Pronađen/o $1 novih party membera.',
     it: 'Trovato $1 nuovo membro del party.',
     hu: '$1 új Party társ lett találva',
-    pt: 'Encontrado $1 novo(s) membro(s) dans party'
+    pt: 'Encontrado $1 novo(s) membro(s) dans party',
+    tr: '$1 yeni party üyesi bulundu.'
   },
   partyMemberDemote: { // Do not translate "party".
     en: '$1 has been demoted in party role.',
@@ -222,7 +236,8 @@ export default {
     vi: '$1 đã bị giáng chức trong Party.',
     zh: '$1 Party 角色被降級。',
     sr: 'Party role od $1 je unazađen.',
-    it: '$1 è stato retrocesso nel ruolo del party.'
+    it: '$1 è stato retrocesso nel ruolo del party.',
+    tr: '$1 üyesinin party rolü düşürüldü.'
   },
   partyInviteLink: {
     en: '$1 has created a party invitation link: $2.',
@@ -237,7 +252,8 @@ export default {
     vi: '$1 đã tạo liên kết mời tổ Party: $2.',
     zh: '$1 創建了一個 Party 邀請連結：$2。',
     sr: '$1 je kreirao pozivnicu za party: $2.',
-    it: '$1 ha creato un invito al party con link: $2.'
+    it: '$1 ha creato un invito al party con link: $2.',
+    tr: '$1 bir party davet bağlantısı oluşturdu: $2.'
   },
   partyKickYou: { // Do not translate "party".
     en: 'You have been kicked from the party by $1.',
@@ -252,7 +268,8 @@ export default {
     vi: 'Bạn đã bị đá ra khỏi Party $1.',
     zh: '你被 $1 從 Party 踢了。',
     sr: '$1 te je izbacio iz party-ja.',
-    it: 'Sei stato cacciato dal party da $2.'
+    it: 'Sei stato cacciato dal party da $2.',
+    tr: '$1 tarafından partyden atıldın.'
   },
   partyKickOther: { // Do not translate "party".
     en: '$1 was kicked from your party by $2.',
@@ -267,7 +284,8 @@ export default {
     vi: '$1 đã bị đá ra khỏi Party $2.',
     zh: '$1 被 $2 踢出你的 Party。',
     sr: '$2 je izbacio $1 iz party-ja.',
-    it: '$1 è stato cacciato dal tuo party da $2.'
+    it: '$1 è stato cacciato dal tuo party da $2.',
+    tr: '$1, partyden $2 tarafından atıldı.'
   },
   partyQueueStart: { // Do not translate "party".
     en: 'Your party has started queue type: $1.',
@@ -281,7 +299,8 @@ export default {
     zh: '你的 Party 開始隊列類型：$1。',
     it: 'Il tuo party ha iniziato la coda: $1.',
     hu: 'A party sorrendi típusa mostantól: $1.',
-    pt: 'Sua party foi iniciada com o tipo da fila: $1'
+    pt: 'Sua party foi iniciada com o tipo da fila: $1',
+    tr: 'Partynizin başlayan sıra türü: $1'
   },
   partyQueueStop: { // Do not translate "party".
     en: 'Your party has stopped queue type: $1.',
@@ -295,7 +314,8 @@ export default {
     zh: '你的 Party 停止隊列類型：$1。',
     it: 'Il tuo party ha fermato la coda: $1.',
     hu: 'A party abbahagyta a köv. sorrendet: $1.',
-    pt: 'Sua party foi interrompida com o tipo da fila: $1'
+    pt: 'Sua party foi interrompida com o tipo da fila: $1',
+    tr: 'Partynizin biten sıra türü: $1'
   },
   partyLootQueueResolve: {
     en: '$1 received $2 $3 $4.',
@@ -309,7 +329,8 @@ export default {
     sr: '$1 je dobio $2 $3 $4',
     it: '$1 ha ricevuto $2 $3 $4.',
     hu: '$1 kapott $2 $3 $4.',
-    pt: '$1 recebeu $2 $3 $4'
+    pt: '$1 recebeu $2 $3 $4',
+    tr: '$1, $2 $3 $4 elde etti.'
   },
   auctionSold: {
     en: 'Your merchant auction has been sold and $g$1 has been sent to your Stash.',
@@ -324,7 +345,8 @@ export default {
     vi: 'Vật phẩm đấu giá của bạn đã được bán và $g$1 đã được gửi vào Hòm đồ của bạn.',
     zh: '你的商家拍賣售出，$g$1 送到你的金庫。',
     sr: 'Tvoja aukcija je završena i $g$1 je poslat u tvoj Stash.',
-    it: 'Il tuo oggetto messo all\'asta è stata venduto e $g$1 è stato inviato al tuo Stash.'
+    it: 'Il tuo oggetto messo all\'asta è stata venduto e $g$1 è stato inviato al tuo Stash.',
+    tr: 'Açık arttırmadaki eşyanız satıldı ve $g$1 Stashe gönderildi.'
 
   },
   online: {
@@ -340,7 +362,8 @@ export default {
     vi: '$1 đã lên mạng',
     zh: '$1 上線了。',
     sr: '$1 je sada online.',
-    it: '$1 è online.'
+    it: '$1 è online.',
+    tr: '$1 çevrimiçi oldu.'
   },
   offline: {
     en: '$1 has gone offline.',
@@ -355,6 +378,7 @@ export default {
     vi: '$1 đã rời mạng',
     zh: '$1 離線了。',
     sr: '$1 je sada offline.',
-    it: '$1 è andato offline.'
+    it: '$1 è andato offline.',
+    tr: '$1 çevrimdışı oldu.'
   }
 }

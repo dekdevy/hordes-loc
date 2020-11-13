@@ -242,7 +242,8 @@ export default {
       // vi: 'Tốc độ di chuyển',
       // de: 'Bewegungstempo'
       it: 'Velocità',
-      sr: 'Брз. крет.'
+      sr: 'Брз. крет.',
+      tr: 'Hareket '
     },
 
     {
@@ -252,7 +253,7 @@ export default {
       es: 'Rapidez',
       pt: 'Rapidez',
       fr: 'Hâte',
-      tr: 'Çabukluk',
+      tr: 'Sürat',
       hu: 'Gyorsaság',
       zh: '匆忙',
       de: 'Tempo',
@@ -275,7 +276,8 @@ export default {
       vi: 'Tốc độ đánh',
       de: 'Angriffstempo',
       it: 'Velocità Att.',
-      sr: 'Брз. напада'
+      sr: 'Брз. напада',
+      tr: 'Saldırı Hızı'
     },
 
     {
@@ -291,7 +293,8 @@ export default {
       // pl: 'Wyszukiwanie przedmiotu',
       // vi: 'Tỉ lệ tìm vật phẩm',
       it: 'Ritrovamento',
-      sr: 'Прон. пред.'
+      sr: 'Прон. пред.',
+      tr: 'Eşya Bulma'
     },
 
     {
@@ -307,7 +310,8 @@ export default {
       vi: 'Ô túi',
       // es: 'Espacios de inventario',
       it: 'Slots Zaino',
-      sr: 'Места у тор.'
+      sr: 'Места у тор.',
+      tr: 'Çanta Yuvaları'
     },
 
     {
@@ -323,14 +327,16 @@ export default {
       pl: 'Sława',
       // vi: 'Danh vọng',
       it: 'Fama',
-      sr: 'Слава'
+      sr: 'Слава',
+      tr: 'Ün'
     },
 
     {
       en: 'Rating',
       el: 'Εκτίμηση',
       ru: 'Рейтинг',
-      hu: 'Értékelés'
+      hu: 'Értékelés',
+      tr: 'Değerlendirme'
     },
 
     {
@@ -346,7 +352,8 @@ export default {
       vi: 'Điểm tiềm năng',
       // pl: 'Punkty Statystyk',
       it: 'Punti stat',
-      sr: 'Поени за стат.'
+      sr: 'Поени за стат.',
+      tr: 'İstatistik Puanları '
     },
 
     {
@@ -362,7 +369,8 @@ export default {
       pl: 'Punkty Umiej.',
       vi: 'Điểm kỹ năng',
       it: 'Punti Skill',
-      sr: 'Поени за веш.'
+      sr: 'Поени за веш.',
+      tr: 'Beceri Puanları'
     },
 
     {
@@ -381,8 +389,9 @@ export default {
       de: '% erhöhten Schaden',
       vi: '% Tăng sát thương',
       it: '% Danno Incrementato',
-      sr: '% Повећања штете'
-      // pl: '% Zwiększone obrażenia'
+      sr: '% Повећања штете',
+      // pl: '% Zwiększone obrażenia',
+      tr: '% Artan Hasar'
     },
 
     {
@@ -398,7 +407,8 @@ export default {
       de: '% erhöht Aggro Generierung',
       vi: '% Tăng hồi Aggro',
       it: '% Generazione Aggro Incrementato',
-      sr: '% Повећања агресије'
+      sr: '% Повећања агресије',
+      tr: '% Artan Kızdırma ÜRetimi'
     },
 
     {
@@ -414,7 +424,8 @@ export default {
       vi: '% Giảm tốc độ di chuyển',
       it: '% Riduzione Velocità',
       // de: '% verminderte Laufgeschwindigkeit',
-      sr: '% Смањења брз. кретања'
+      sr: '% Смањења брз. кретања',
+      tr: '% Hareket Hızı Düşürme'
     },
 
     {
@@ -428,7 +439,8 @@ export default {
       vi: 'Giảm hồi máu',
       it: 'Riduzione Cure',
       // pl: 'Ograniczenie leczenia',
-      sr: 'Умањење лечења'
+      sr: 'Умањење лечења',
+      tr: 'İyileştirme Düşürme'
     }
   ]
 }

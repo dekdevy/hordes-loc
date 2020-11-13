@@ -13,7 +13,7 @@ export default [
       nl: 'Dit armbanden zijn leren stroken die verwikkeld zijn in een simpele formatie.',
       it: 'Questi polsini sono formati da strisce di pelle avvolte semplicemente.',
       ro: 'Aceste manșete sunt realizate din fâșii de piele îmbinate într-un mod natural.',
-      tr: 'These wristbands are leather strips that are wrapped in a simple formation.'
+      tr: 'Bu bileklikler, basit bir formasyonla sarılmış deri şeritlerdir.'
     }
   },
 
