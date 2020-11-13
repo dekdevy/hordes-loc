@@ -17,7 +17,8 @@ export default {
     pl: 'Musisz poczekać zanim podniesiesz ten przedmiot.',
     vi: 'Bạn phải đợi cho đến khi bạn có thể lấy lại vật phẩm này.',
     sr: 'Мораш сачекати пре него што можеш преузети овај предмет.',
-    it: 'Devi aspettare fino a quando non puoi recuperare questo elemento.'
+    it: 'Devi aspettare fino a quando non puoi recuperare questo elemento.',
+    tr: 'Bu öğeyi alabilmek için beklemelisin.'
   },
 
   withdraw: {
@@ -53,7 +54,8 @@ export default {
     sr: 'Уплати',
     it: 'Deposita',
     hu: 'Betesz',
-    pt: 'Depósito'
+    pt: 'Depósito',
+    tr: 'Yatır',
   },
 
   // Do not translate "Stash".
@@ -74,7 +76,8 @@ export default {
     pl: 'Przenieś do Stash',
     vi: 'Di chuyển vào Stash',
     sr: 'Стави у Stash',
-    it: 'Invia allo Stash'
+    it: 'Invia allo Stash',
+    tr: 'Eşyayı Stashle'
   },
 
   // Do not translate "Stash".
@@ -95,7 +98,8 @@ export default {
     pl: '$1 został przeniesiony do Stash',
     vi: '$1 đã được đưa ra khỏi Stash.',
     sr: '$1 је стављен у твој Stash.',
-    it: '$1 è stato spostato nel tuo Stash'
+    it: '$1 è stato spostato nel tuo Stash',
+    tr: '$1, Stashe taşındı.'
   }
 
 }

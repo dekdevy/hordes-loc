@@ -57,7 +57,8 @@ export default {
     pl: 'Ustawienia klawiszy',
     vi: 'Gán phím',
     it: 'Configurazione tasti',
-    sr: 'Конфигурација контрола'
+    sr: 'Конфигурација контрола',
+    tr: 'Tuş atamaları'
   },
 
   camera: {
@@ -71,7 +72,8 @@ export default {
     sr: 'Камера',
     it: 'Telecamera',
     hu: 'Kamera',
-    pt: 'Câmera'
+    pt: 'Câmera',
+    tr: 'Kamera'
   },
 
   mousesensitivity: {
@@ -86,7 +88,8 @@ export default {
     sr: 'Сензитивност',
     it: 'Sensibilità',
     hu: 'Érzékenység',
-    pt: 'Sensibilidade'
+    pt: 'Sensibilidade',
+    tr: 'Hassasiyet'
   },
 
   invertmousex: {
@@ -101,7 +104,8 @@ export default {
     sr: 'Обрни хоризонтално',
     it: 'Inverti orizzontalmente',
     hu: 'Vízszintes tükrözés',
-    pt: 'Inverter horizontalmente'
+    pt: 'Inverter horizontalmente',
+    tr: 'Yatay ters çevir'
   },
 
   invertmousey: {
@@ -116,7 +120,8 @@ export default {
     sr: 'Обрни вертикално',
     it: 'Inverti verticalmente',
     hu: 'Függőleges tükrözés',
-    pt: 'Inverter verticalmente'
+    pt: 'Inverter verticalmente',
+    tr: 'Dikey ters çevir'
   },
 
   pointerlock: {
@@ -133,7 +138,8 @@ export default {
     pl: 'Schowaj myszkę podczas obrotu',
     vi: 'Ẩn chuột khi xoay',
     sr: 'Сакриј миш током ротације',
-    it: 'Nascondi il mouse durante le rotazioni'
+    it: 'Nascondi il mouse durante le rotazioni',
+    tr: 'Döndürme sırasında fareyi gizle'
   },
 
   lockedcamera: {
@@ -273,7 +279,8 @@ export default {
     pl: 'Cienie',
     vi: 'Đổ bóng',
     sr: 'Сенке',
-    it: 'Ombre'
+    it: 'Ombre',
+    tr: 'Gölgeler'
   },
 
   ssao: {
@@ -289,7 +296,8 @@ export default {
     de: 'Umgebungsverdeckung',
     vi: 'Môi trường xung quanh',
     it: 'Occlusione Ambientale',
-    sr: 'Оклузија околине'
+    sr: 'Оклузија околине',
+    tr: 'Çevresel Perdeleme'
   },
 
   grass: {
@@ -306,7 +314,8 @@ export default {
     pl: 'Trawa',
     vi: 'Cây cỏ',
     sr: 'Трава',
-    it: 'Erba'
+    it: 'Erba',
+    tr: 'Çim'
   },
 
   clouds: {
@@ -323,7 +332,8 @@ export default {
     pl: 'Chmury',
     vi: 'Mây',
     sr: 'Облаци',
-    it: 'Nuvole'
+    it: 'Nuvole',
+    tr: 'Çimler'
   },
 
   particles: {
@@ -340,7 +350,8 @@ export default {
     pl: 'Cząsteczki',
     vi: 'Hạt chi tiết',
     it: 'Particelle',
-    sr: 'Ефекти'
+    sr: 'Ефекти',
+    tr: 'Parçacıklar'
   },
 
   detailprops: {
@@ -357,7 +368,8 @@ export default {
     vi: 'Chi tiết',
     it: 'Dettagli',
     sr: 'Детаљи предмета',
-    pt: 'Detalhes das props.'
+    pt: 'Detalhes das props.',
+    tr: 'Nesne detayları'
   },
 
   // ---- Audio
@@ -406,7 +418,8 @@ export default {
     el: 'Ένταση ατμόσφαιρας',
     ru: 'Громкость окружения',
     hu: 'Környezet hangereje',
-    pt: 'Som ambiente'
+    pt: 'Som ambiente',
+    tr: 'Ambiyans sesi'
   },
   musicvolume: {
     en: 'Music Volume',
@@ -420,7 +433,8 @@ export default {
     sr: 'Гласноћа музике',
     it: 'Volume Musica',
     hu: 'Zene hangereje',
-    pt: 'Volume da música'
+    pt: 'Volume da música',
+    tr: 'Müzik sesi'
   },
   // ---- Chat
   chat: {
@@ -458,7 +472,8 @@ export default {
     pl: 'Chmurki czatu',
     vi: 'Hiển thị bong bóng chat',
     sr: 'Прикажи чет',
-    it: 'Mostra le chat bubbles'
+    it: 'Mostra le chat bubbles',
+    tr: 'Sohbet balonlarını göster'
   },
 
   combatlog: {
@@ -475,7 +490,8 @@ export default {
     vi: 'Nhật ký combat',
     it: 'registro dei combattimenti',
     sr: 'Борбени чет',
-    pt: 'Log de combate'
+    pt: 'Log de combate',
+    tr: 'Savaş Günlüğü'
   },
 
   // ---- User interface
@@ -490,7 +506,7 @@ export default {
     es: 'Interfaz',
     hi: 'अन्तराफलक',
     fr: 'Interface',
-    tr: 'Arayüzey',
+    tr: 'Arayüz',
     ko: '인터페이스',
     hu: 'Felület',
     zh: '界面',
@@ -537,7 +553,8 @@ export default {
     pl: 'Szerokość ekwipunku',
     vi: 'Độ dài hành trang',
     sr: 'Ширина инвентара',
-    it: 'Larghezza inventario'
+    it: 'Larghezza inventario',
+    tr: 'Enventar genişliği'
   },
 
   // Do NOT translate "Stash"
@@ -553,7 +570,8 @@ export default {
     vi: 'Độ dài Stash',
     sr: 'Ширина Stash-а',
     it: 'Larghezza Stash',
-    pt: 'Tamanho do baú'
+    pt: 'Tamanho do baú',
+    tr: 'Stash genişliği'
   },
 
   // Do NOT translate "Stash"
@@ -569,7 +587,8 @@ export default {
     vi: 'Độ rộng Stash',
     sr: 'Висина Stash-а',
     it: 'Altezza Stash',
-    pt: 'Altura do baú'
+    pt: 'Altura do baú',
+    tr: 'Stash yüksekliği'
   },
 
   tutorial: {
@@ -629,7 +648,7 @@ export default {
     pl: 'Wyłącz samouczek',
     vi: 'Vô hiệu hóa hướng dẫn',
     sr: 'Искључи туторијал',
-    it: 'Disabilita il tutorial'
+    it: 'Disabilita il tutorial',
   },
 
   // ---- map
@@ -647,7 +666,8 @@ export default {
     pl: 'Niska jakość',
     vi: 'Chế độ chất lượng thấp',
     sr: 'Мод лошијег квалитета',
-    it: 'Modalità bassa qualità'
+    it: 'Modalità bassa qualità',
+    tr: 'Düşük kalite modu'
   },
 
   mapshowmonsters: {
@@ -664,6 +684,7 @@ export default {
     pl: 'Widoczność potworów',
     vi: 'Hiển thị quái vật',
     sr: 'Приказуј чудовишта',
-    it: 'Mostra i mostri'
+    it: 'Mostra i mostri',
+    tr: 'Canavarları göster'
   }
 }

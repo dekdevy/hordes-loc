@@ -12,7 +12,8 @@ export default [
       vi: 'Những vòng tay này là những miếng da được bọc thành một hình đơn giản.',
       nl: 'Dit armbanden zijn leren stroken die verwikkeld zijn in een simpele formatie.',
       it: 'Questi polsini sono formati da strisce di pelle avvolte semplicemente.',
-      ro: 'Aceste manșete sunt realizate din fâșii de piele îmbinate într-un mod natural.'
+      ro: 'Aceste manșete sunt realizate din fâșii de piele îmbinate într-un mod natural.',
+      tr: 'These wristbands are leather strips that are wrapped in a simple formation.'
     }
   },
 
