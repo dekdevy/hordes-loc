@@ -40,8 +40,7 @@ export default {
       vi: 'Kinh nghiệm nhận được',
       cs: 'Získání zkušeností',
       sr: 'EXP Добитак',
-      it: 'Guadagno di Exp',
-      tr: 'Exp Kazanımı'
+      it: 'Guadagno di Exp'
     },
     {
       en: 'Target Change',
