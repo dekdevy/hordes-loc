@@ -175,8 +175,7 @@ export default {
     pl: 'Kopiuj do schowka',
     vi: 'Sao chép vào bảng tạm',
     sr: 'Kopiraj u prviremenu memoriju',
-    it: 'Copia negli appunti',
-    tr: 'Panoya kopyala'
+    it: 'Copia negli appunti'
   },
 
   summon: {
@@ -208,8 +207,7 @@ export default {
     pl: '$1 chce przyzwać cię do swojej lokacji.',
     vi: '$1 đang triệu hồi bạn đế vị trí của họ.',
     sr: '$1 nudi da te prizove na njegovu/njenu lokaciju.',
-    it: '$1 si offre di evocarti nella loro posizione.',
-    tr: '$1 seni yanına çağırmaya davet ediyor.'
+    it: '$1 si offre di evocarti nella loro posizione.'
   },
 
   // Do not translate "Assistant".
