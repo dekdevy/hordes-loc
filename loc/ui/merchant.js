@@ -17,7 +17,8 @@ export default {
     pl: 'Szukaj',
     vi: 'Tìm kiếm',
     sr: 'Претрага',
-    it: 'Cerca'
+    it: 'Cerca',
+    tr: 'Ara'
   },
 
   filtermine: {
@@ -37,7 +38,8 @@ export default {
     pl: 'Tylko moje przedmioty',
     vi: 'Chỉ trang bị của tôi',
     sr: 'Само моји предмети',
-    it: 'Solo i miei oggetti'
+    it: 'Solo i miei oggetti',
+    tr: 'Sadece eşyalarım'
   },
 
   buy: {
@@ -57,7 +59,8 @@ export default {
     pl: 'Kup przedmiot',
     vi: 'Kupi',
     it: 'Compra Oggetto',
-    sr: 'Купи предмет'
+    sr: 'Купи предмет',
+    tr: 'Eşya Satın Al'
   },
 
   post: {
@@ -70,7 +73,7 @@ export default {
     de: 'Item versenden',
     pt: 'Publicar Item',
     ko: '개체 보내기',
-    tr: 'Nesne Gönder',
+    tr: 'Eşyayı Gönder',
     hi: 'बाज़ार में डालें',
     ro: 'Postează Obiectul',
     hu: 'Áruba bocsátás',
@@ -96,7 +99,8 @@ export default {
     pl: 'Usuń przedmiot',
     vi: 'Xóa vật phẩm khỏi danh sách',
     sr: 'Склони предмет',
-    it: 'Ritira l\'oggetto'
+    it: 'Ritira l\'oggetto',
+    tr: 'Eşyayı geri al'
   },
 
   // Include the space and punctuation
@@ -117,7 +121,8 @@ export default {
     pl: 'Cena: ',
     vi: 'Giá: ',
     sr: 'Цена: ',
-    it: 'Prezzo: '
+    it: 'Prezzo: ',
+    tr: 'Tutar'
   },
 
   // Include the space and punctuation
@@ -138,7 +143,8 @@ export default {
     pl: 'Koszt: ',
     vi: 'Phí: ',
     sr: 'Такса: ',
-    it: 'Tassa: '
+    it: 'Tassa: ',
+    tr: 'Ücret'
   },
 
   dragitem: {
@@ -157,7 +163,8 @@ export default {
     pl: 'Przenieś przedmiot w slot',
     vi: 'Kéo thả vật phẩm vào ô',
     sr: 'Превуци предмет у слот',
-    it: 'Trascina l\'oggetto nello slot'
+    it: 'Trascina l\'oggetto nello slot',
+    tr: 'Eşyayı yuvaya sürükle'
   },
 
   auctionpost: {
@@ -170,7 +177,7 @@ export default {
     ru: 'Лот $1 выставлен на продажу',
     ko: '판매용으로 $1 를 게시했습니다',
     nl: 'U heeft $1 te koop aangeboden',
-    tr: 'Satılık $1 gönderdiniz',
+    tr: 'Satılması için $1 gönderdiniz',
     hi: 'आपने $1 को विक्रय के लिए उपलब्ध कर दिया है',
     ro: 'Ai postat $1 pentru vânzare',
     hu: 'Eladásra bocsátottad: $1',
@@ -197,7 +204,8 @@ export default {
     pl: 'Przedmiot usunięty i wysłany do Stash',
     vi: 'Vật phẩm được gỡ khỏi danh sách và gửi vào Hòm đồ',
     sr: 'Предмет је склоњен и стављен у твој Stash.',
-    it: 'Oggeto rimosso e inviato nel tuo Stash'
+    it: 'Oggeto rimosso e inviato nel tuo Stash',
+    tr: 'Eşya listeden çıkarıldı ve Stashe gönderildi'
   },
 
   // Do not translate "Stash".
@@ -217,7 +225,8 @@ export default {
     pl: 'Przemiot kupiono za $1 i wysłano do twojego Stash',
     vi: 'Vật phẩm đã mua cho $1 và gửi vào Hòm đồ',
     sr: 'Предмет је купљен по цени од $1 и стављен је у твој Stash.',
-    it: 'Oggetto comprato per $1 e inviato nel tuo Stash'
+    it: 'Oggetto comprato per $1 e inviato nel tuo Stash',
+    tr: 'Eşya $1 paraya satın alındı ve Stashe gönderildi'
   },
 
   sell: {
@@ -236,6 +245,7 @@ export default {
     pl: 'Sprzedano $1 za $2.',
     vi: 'Bạn đã bán $1 được $2',
     sr: 'Продао си $1 за $2',
-    it: 'Hai venduto $1 per $2'
+    it: 'Hai venduto $1 per $2',
+    tr: '$1 eşyasını $2 fiyatından sattın'
   }
 }

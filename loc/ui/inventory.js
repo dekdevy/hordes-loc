@@ -38,7 +38,8 @@ export default {
     pl: 'Podniesiono $1.',
     vi: 'Bạn nhặt được $1.',
     sr: 'Покупио си $1.',
-    it: 'Hai raccolto $1.'
+    it: 'Hai raccolto $1.',
+    tr: 'Yerden $1 aldın.'
   },
 
   throw: {
@@ -79,7 +80,8 @@ export default {
     pl: 'Twój ekwipunek jest pełen.',
     vi: 'Hành trang của bạn đã đầy',
     it: 'Il tuo inventario è pieno',
-    sr: 'Твој инвентар је пун.'
+    sr: 'Твој инвентар је пун.',
+    tr: 'Enventerin dolu'
   },
 
   sold: {
@@ -99,7 +101,8 @@ export default {
     pl: 'Sprzedano $1.',
     vi: 'Bạn đã bán $1.',
     it: 'Hai venduto $1.',
-    sr: 'Продао си $1.'
+    sr: 'Продао си $1.',
+    tr: '$1 sattın.'
   },
 
   receive: {
@@ -119,7 +122,8 @@ export default {
     pl: 'Otrzymano $1.',
     vi: 'Bạn vừa nhận được $1.',
     it: 'Hai ricevuto $1.',
-    sr: 'Добио си $1.'
+    sr: 'Добио си $1.',
+    tr: '$1 elde ettin.'
   },
 
   drop: {
@@ -132,7 +136,7 @@ export default {
     fr: 'Déposer l\'item',
     nl: 'Laat vallen',
     pt: 'Soltar item',
-    tr: 'Öğe bırak',
+    tr: 'Eşyayı bırak',
     ko: '아이템 놓기',
     ro: 'Aruncă obiectul',
     zh: '丢装备',
@@ -160,7 +164,8 @@ export default {
     pl: 'Wyposaż przedmiot',
     vi: 'Trang bị vật phẩm',
     it: 'Equipaggia l\'oggetto',
-    sr: 'Опреми предмет'
+    sr: 'Опреми предмет',
+    tr: 'Eşyayı kuşan'
   },
 
   use: {
@@ -175,7 +180,7 @@ export default {
     pt: 'Usar item',
     ko: '항목 사용',
     nl: 'Gebruik item',
-    tr: 'Öğe kullan',
+    tr: 'Eşyayı kullan',
     zh: '用物品',
     hu: 'Használat',
     pl: 'Użyj przedmiot',
@@ -189,7 +194,8 @@ export default {
     ru: 'Скопировать ID предмета',
     el: 'Αντιγραφή ID αντικειμένου',
     hu: 'Azonosító másolása',
-    pt: 'Copiar ID do item'
+    pt: 'Copiar ID do item',
+    tr: 'Eşya ID\'sini kopyala'
   },
 
   sell: {
@@ -197,7 +203,8 @@ export default {
     el: 'Πώληση αντικειμένου',
     ru: 'Продать предмет',
     hu: 'Eladás',
-    pt: 'Vender item'
+    pt: 'Vender item',
+    tr: 'Eşya sat'
   },
 
   splithalf: {
@@ -212,7 +219,8 @@ export default {
     pl: 'Rozdziel na pół',
     vi: 'Chia đôi',
     it: 'Dividi a metà',
-    sr: 'Поделити на пола'
+    sr: 'Поделити на пола',
+    tr: 'İkiye böl'
   },
 
   splitone: {
@@ -227,7 +235,8 @@ export default {
     pl: 'Wydziel jeden',
     vi: 'Tách làm một',
     it: 'Dividine uno',
-    sr: 'Поделити један'
+    sr: 'Поделити један',
+    tr: 'Bir tane ayır'
   },
 
   spend: {

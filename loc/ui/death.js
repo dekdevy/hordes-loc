@@ -62,6 +62,7 @@ export default {
     bn: 'পুনর্জীবন',
     vi: 'Hồi sinh',
     sr: 'Васкрсни',
-    it: 'Respawn'
+    it: 'Respawn',
+    tr: 'Yeniden Doğ'
   }
 }

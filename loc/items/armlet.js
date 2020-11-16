@@ -12,7 +12,8 @@ export default [
       vi: 'Những vòng tay này là những miếng da được bọc thành một hình đơn giản.',
       nl: 'Dit armbanden zijn leren stroken die verwikkeld zijn in een simpele formatie.',
       it: 'Questi polsini sono formati da strisce di pelle avvolte semplicemente.',
-      ro: 'Aceste manșete sunt realizate din fâșii de piele îmbinate într-un mod natural.'
+      ro: 'Aceste manșete sunt realizate din fâșii de piele îmbinate într-un mod natural.',
+      tr: 'Bu bileklikler, basit bir formasyonla sarılmış deri şeritlerdir.'
     }
   },
 
@@ -29,7 +30,8 @@ export default [
       vi: 'Những chiếc băng tay này được tạo ra một cách vội vã. Các vết tích chiến đấu trên các mặt da không tạo sự tự tin về sự sống sót của chủ sở hữu trước đó.',
       nl: 'Deze armbanden waren haastig gecreëerd. De ruwe gevecht tekens op de zijkanten van het leer inspireren niet het zelfvertrouwen van de vorige eigenaars overleven.',
       it: 'Questi bracciali sono stati creati frettolosamente. I violenti segni delle battaglie sulla pelle non ispirano fiducia sulla sopravvivenza del precedente possessore.',
-      ro: 'Aceste brățări au fost create în grabă. Semnele de luptă lăsate pe marginea materialului de piele nu inspiră încrederea faptului că purtătorul precedent a supraviețuit.'
+      ro: 'Aceste brățări au fost create în grabă. Semnele de luptă lăsate pe marginea materialului de piele nu inspiră încrederea faptului că purtătorul precedent a supraviețuit.',
+      tr: 'Bu kol bantları biraz aceleye gelmiş. Derinin yanlarındaki savaş izleri, önceki sahibinin hayatta kalma konusundaki kararlılığı hakkında pek güven vermiyor.'
     }
   },
 
@@ -47,7 +49,8 @@ export default [
       vi: 'Tấm da cứng đã được chế tạo thành các vòng tay tốt. Trên mặt da là chữ ký của người thợ: "Markay\'ak".',
       nl: 'Stevig leer is zorgvuldig vervaardigd tot fijne armbanden. Op de zijkanten van het leer staat het ambachtsman z’n handtekening: "Markay\'ak".',
       it: 'La pelle che forma questi pregiati bracciali è stata scrupolosamente lavorata. Sul lato della pelle c\'è la firma dell\'artigiano: "Markay\'ak".',
-      ro: 'Aceste manșete rezistente au fost confecționate cu grijă din material de piele dură. Pe marginea acesteia este semnătura meșterului: "Markay\'ak".'
+      ro: 'Aceste manșete rezistente au fost confecționate cu grijă din material de piele dură. Pe marginea acesteia este semnătura meșterului: "Markay\'ak".',
+      tr: ''
     }
   },
 

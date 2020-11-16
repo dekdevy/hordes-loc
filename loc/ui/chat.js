@@ -58,7 +58,8 @@ export default {
       vi: 'Mục tiêu thay đổi',
       cs: 'Změna cíle',
       sr: 'Промена мете',
-      it: 'Cambio di Target'
+      it: 'Cambio di Target',
+      tr: 'Hedef Değişimi'
     },
     {
       en: 'Cast',
@@ -76,7 +77,8 @@ export default {
       vi: 'Thi triển',
       cs: 'Čarování',
       sr: 'Бацити',
-      it: 'Invocare'
+      it: 'Invocare',
+      tr: 'Büyü'
     },
     {
       en: 'Damage',
@@ -151,7 +153,8 @@ export default {
       vi: 'Lên cấp',
       cs: 'Zvýšení úrovně',
       sr: 'Нови ниво',
-      it: 'Nuovo Livello'
+      it: 'Nuovo Livello',
+      tr: 'Seviye Atlama'
     },
     {
       en: 'Items',
@@ -169,7 +172,8 @@ export default {
       vi: 'Vật phẩm',
       cs: 'Předměty',
       sr: 'Предмети',
-      it: 'Oggetti'
+      it: 'Oggetti',
+      tr: 'Eşyalar'
     },
     {
       en: 'Auction',
@@ -187,7 +191,8 @@ export default {
       vi: 'Nhà đấu giá',
       cs: 'Předměty',
       sr: 'Аукција',
-      it: 'Vendita all \'asta'
+      it: 'Vendita all \'asta',
+      tr: 'Açık Arttırma'
     },
     {
       en: 'Pick Gold',
@@ -205,7 +210,8 @@ export default {
       vi: 'Nhặt vàng',
       cs: 'Zvednout zlato',
       sr: 'Покупи злато',
-      it: 'Colleziona l\'oro'
+      it: 'Colleziona l\'oro',
+      tr: 'Altını Topla'
     },
     {
       en: 'Spent Gold',
@@ -223,7 +229,8 @@ export default {
       vi: 'Vàng đã dùng',
       cs: 'Utratit zlato',
       sr: 'Потрошено злато',
-      it: 'Spendi l\'oro'
+      it: 'Spendi l\'oro',
+      tr: 'Altın Harca'
     },
     {
       en: 'Fame Gain',

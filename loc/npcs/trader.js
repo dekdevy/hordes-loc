@@ -17,7 +17,8 @@ export default {
       pl: 'Witamy wśród najlepszych towarów w okolicy! Nie znajdziesz lepszej oferty niż to, co mam dla ciebie; dochodzą mnie słuchy, że istnieje specjalny sklep z fantastycznymi przedmiotami, niepodobnymi do niczego, co kiedykolwiek widziałem na oczy. Tymczasem mam trochę monet i towarów na zbyciu. Czy chciałbyś coś sprzedać?',
       bn: 'এখানাকার সেরা পণ্যের জন্য আপনাকে স্বাগতম! আপনার সাথে আমি যেই চুক্তি করছি তা আর কোথাও খুঁজে পাবেন না; যাইহোক, আমি শুনেছি যে এমন একটি বিশেষ দোকান রয়েছে যেখানে এমন চমৎকার উপকরণ রয়েছে যা কিনা আমি এখন পর্যন্ত যা দেখেছি তার কোনটির মতই না। ইতিমধ্যে, আমার কাছে কিছু অতিরিক্ত কয়েন এবং অতিরিক্ত উপকরণ রয়েছে। আপনি কিছু বিক্রি করতে চান?',
       vi: 'Chào mừng đến với hàng hóa tốt nhất gần đây! Bạn sẽ không tìm thấy một thỏa thuận tốt hơn những gì tôi có cho bạn; tuy nhiên, tôi nghe nói rằng có một cửa hàng đặc biệt với các mặt hàng tuyệt vời không giống như bất cứ thứ gì tôi đã từng thấy. Trong khi đó, tôi có một số tiền và hàng dự phòng. Bạn có muốn bán gì không?',
-      it: 'Benvenuto nel miglior negozio di prodotti in circolazione! Non troverai un affare migliore di quello che ho per te; tuttavia, ho sentito che esiste un negozio speciale con articoli fantastici a differenza di qualsiasi cosa io abbia mai visto. Nel frattempo, ho delle monete e dei pezzi di ricambio. Vuoi vendere qualcosa?'
+      it: 'Benvenuto nel miglior negozio di prodotti in circolazione! Non troverai un affare migliore di quello che ho per te; tuttavia, ho sentito che esiste un negozio speciale con articoli fantastici a differenza di qualsiasi cosa io abbia mai visto. Nel frattempo, ho delle monete e dei pezzi di ricambio. Vuoi vendere qualcosa?',
+      tr: 'En iyi ürünlere hoş geldiniz! Size verdiğim fiyattan daha iyi bir fiyat bulamayacaksınız; ancak, şimdiye kadar gördüğüm hiçbir şeye benzemeyen harika eşyalara sahip özel bir dükkan olduğunu duydum. Bu arada, biraz fazladan param ve fazladan ürünlerim var. Herhangi bir şey satmak ister misin?'
     },
 
     choices: [{
@@ -33,7 +34,8 @@ export default {
       pl: 'Pokaż mi swoje towary.',
       bn: 'আপনার দ্রব্যসামগ্রী আমাকে দেখান।',
       vi: 'Cho tôi xem gian hàng của bạn.',
-      it: 'Mostrami le tue merci.'
+      it: 'Mostrami le tue merci.',
+      tr: 'Bana mallarını göster.'
     }]
   }],
 
@@ -54,7 +56,8 @@ export default {
     pl: 'Sprzedaj swoje przedmioty.',
     bn: 'আপনার আইটেম বিক্রয় করুন',
     vi: 'Bán vật phẩm của bạn.',
-    it: 'Vendi i tuoi articoli.'
+    it: 'Vendi i tuoi articoli.',
+    tr: 'Eşyalarını sat'
   },
 
   info: {

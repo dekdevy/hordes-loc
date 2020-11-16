@@ -190,7 +190,8 @@ export default {
     pl: 'Przyzwij',
     vi: 'Triệu hồi',
     sr: 'Prizovi',
-    it: 'Evoca'
+    it: 'Evoca',
+    tr: 'Çağır'
   },
 
   onSummon: {
