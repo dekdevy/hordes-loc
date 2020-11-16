@@ -55,7 +55,7 @@ export default {
     it: 'Deposita',
     hu: 'Betesz',
     pt: 'Depósito',
-    tr: 'Yatır',
+    tr: 'Yatır'
   },
 
   // Do not translate "Stash".
