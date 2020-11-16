@@ -80,7 +80,7 @@ export default {
     pl: 'Wystaw przedmiot',
     vi: 'Đăng vật phẩm',
     sr: 'Постави предмет',
-    it: 'Pubblica oggetto',
+    it: 'Pubblica oggetto'
   },
 
   delist: {
