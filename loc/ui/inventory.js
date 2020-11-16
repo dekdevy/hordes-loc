@@ -60,8 +60,7 @@ export default {
     pl: 'Wyrzucono: $1.',
     vi: 'Bạn đã vứt đi $1.',
     it: 'Hai gettato via $1.',
-    sr: 'Бацио си $1.',
-    tr: 'Yere $1 attın.'
+    sr: 'Бацио си $1.'
   },
 
   full: {
@@ -258,8 +257,7 @@ export default {
     pl: 'Wydano $1.',
     vi: 'Bạn đã dành $1',
     it: 'Hai speso $1',
-    sr: 'Ти си потрошио $1.',
-    tr: '$1 harcadın.'
+    sr: 'Ти си потрошио $1.'
   },
 
   death: {
