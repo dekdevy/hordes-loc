@@ -648,7 +648,7 @@ export default {
     pl: 'Wyłącz samouczek',
     vi: 'Vô hiệu hóa hướng dẫn',
     sr: 'Искључи туторијал',
-    it: 'Disabilita il tutorial',
+    it: 'Disabilita il tutorial'
   },
 
   // ---- map
