@@ -107,7 +107,8 @@ export default {
     },
     {
       en: 'Here you can see your skills. Hover over them for additional information. Skills usually require one skill point, which you earn once every two levels'
-      // pt: 'Aqui você pode ver as suas habilidades. Passe o mouse em cima das habilidades para ver informações adicionaisi. As habilidades geralmente necessitam de um pontos de habilidades, que você irá ganhar a cada 2 níveis'
+      // pt: 'Aqui você pode ver as suas habilidades. Passe o mouse em cima das habilidades para ver informações adicionaisi.
+      // As habilidades geralmente necessitam de um pontos de habilidades, que você irá ganhar a cada 2 níveis'
     },
     {
       en: 'You can click and drag a skill into your skillbar. We already did it for you!'
@@ -178,7 +179,7 @@ export default {
       // pt: 'Isso é tudo. Você completou! Você está pronto para arrasar! Sua facção depende de você.'
     },
     {
-      en: 'Good luck, champion.',
+      en: 'Good luck, champion.'
       // pt: 'Boa sorte, campeâo'
     },
     {
