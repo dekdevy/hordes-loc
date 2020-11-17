@@ -12,6 +12,7 @@ export default [
       vi: 'Vận chuyển từ các khu vực chưa được khám phá của Faivel. Bên trong của rương này không thể được kiểm tra cho đến khi mở ra.',
       it: 'Spedito dalle regioni inesplorate di Faivel. Il contenuto di questa gabbia non può essere ispezionato fino all\'apertura.',
       ro: 'Expediată din regiunile neexplorate din Faivel. Conținuturile acestei cuști nu pot fi inspectate până la deschidere.'
+      nl: 'Verzonden vanuit de onbezochte gebieden van Faivel. De inhoud van deze kooi kan niet worden geïnspecteerd tot het geopened is.'
     }
   }
 ]
