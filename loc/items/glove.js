@@ -10,7 +10,8 @@ export default [
       vi: 'Tấm vải này thường được sử dụng để bảo vệ tay và giảm rung lắc',
       es: 'Esta ropa es comúnmente usada para proteger ligeramente las manos y reducir vibraciones.',
       it: 'Questo panno è comunemente usato per proteggere leggermente le mani e ridurre le vibrazioni.',
-      ro: 'Această pânză este de obicei folosită pentru a proteja ușor mâinile și a reduce vibrațiile.'
+      ro: 'Această pânză este de obicei folosită pentru a proteja ușor mâinile și a reduce vibrațiile.',
+      nl: 'Deze doek is vaak gebruikt om de handen licht te beschermen en trillingen te verminderen  '
     }
   },
 
@@ -25,7 +26,8 @@ export default [
       es: 'Los guantes de tela están hechos de la mejor tela Élfica.',
       vi: 'Găng tay vải được làm từ vải Elvish tốt nhất',
       it: 'I guanti in tessuto sono realizzati con il miglior tessuto elfico.',
-      ro: 'Cloth Mitts sunt făcute din cele mai rafinate pânze ale Elfilor.'
+      ro: 'Cloth Mitts sunt făcute din cele mai rafinate pânze ale Elfilor.',
+      nl: 'Stoffen wanten zijn gemaakt van de fijnste Elfenstof.'
     }
   },
 
@@ -40,7 +42,8 @@ export default [
       es: 'Estos guantes están hechos con cuero resistente y endurecido.',
       vi: 'Những chiếc găng tay này được chế tác bằng da cứng và bền bỉ',
       it: 'Questi guanti sono realizzati in pelle indurita e resistente.',
-      ro: 'Aceste mănuși sunt create din piele dură și întărită.'
+      ro: 'Aceste mănuși sunt create din piele dură și întărită.',
+      nl: 'Deze handschoenen zijn gemaakt van sterk en gehard leer.'
     }
   },
 
@@ -55,7 +58,8 @@ export default [
       es: 'Guantes como este están hechos de huesos de monstruos. Los huesos de monstruo proporcionan resistencia adicional y, ocasionalmente, magia residual.',
       vi: 'Găng tay như thế này được làm từ xương quái vật. Xương quái vật cung cấp thêm khả năng phục hồi và, đôi khi, ma thuật còn sót lại',
       it: 'Guanti come questo sono realizzati con ossa di mostri. Le ossa dei mostri offrono maggiore resistenza e, occasionalmente, magia residua.',
-      ro: 'Mănușile ca acestea sunt făcute din oase de monstru. Oasele de monstru asigură extra rezistență și, ocazional, magie reziduală.'
+      ro: 'Mănușile ca acestea sunt făcute din oase de monstru. Oasele de monstru asigură extra rezistență și, ocazional, magie reziduală.',
+      nl: 'Handschoene zoals deze zijn gemaakt van monster botten. Monster botten zorgen voor extra veerkracht en soms voor restmagie.'
     }
   },
 
@@ -70,7 +74,8 @@ export default [
       es: 'Guanteletes de hierro están hechos por maestros artesanos que han pasado décadas trabajando con metal.',
       vi: 'Găng tay sắt được chế tạo bởi những nghệ nhân bậc thầy đã dành hàng thập kỷ làm việc với kim loại.',
       it: 'I guanti di ferro sono realizzati da maestri artigiani che hanno trascorso decenni lavorando con il metallo.',
-      ro: 'Mănușile de fier sunt făcute de un meșter maestru care a petrecut decade lucrând cu metal.'
+      ro: 'Mănușile de fier sunt făcute de un meșter maestru care a petrecut decade lucrând cu metal.',
+      nl: 'Ijzeren handschoenen zijn gemaakt door meester ambachtslieden die tientallen jaren met metaal hebben gewerkt'
     }
   },
 
@@ -85,7 +90,8 @@ export default [
       vi: 'Hội pháp sư thường tạo ra những chiếc găng tay thử nghiệm như thế này để tăng sức mạnh ma thuật chống lại phe quái vật. Một số găng tay thử nghiệm được trang trí bằng cỗ ngữ được sao chép từ các nguồn cổ xưa.',
       es: 'Los gremios de magos a menudo crean guantes experimentales como este para incrementar poder mágico contra las facciones de monstruos. Algunos guantes experimentales están adornados con runas que fueron copiados de fuentes antiguas.',
       it: 'Le corporazioni dei maghi spesso creano guanti sperimentali come questo per aumentare il potere magico contro le fazioni dei mostri. Alcuni guanti sperimentali sono decorati con rune copiate da antiche fonti.',
-      ro: 'Clanuri de magicieni deseori crează mănuși experimentale ca acestea pentru a crește puterea magiei împotriva grupurilor de monștrii. Câteva mănuși experimentale sunt decorate cu rune ce au fost copiate din surse antice.'
+      ro: 'Clanuri de magicieni deseori crează mănuși experimentale ca acestea pentru a crește puterea magiei împotriva grupurilor de monștrii. Câteva mănuși experimentale sunt decorate cu rune ce au fost copiate din surse antice.',
+      nl: 'Magiër guilds maken vaak experimentele handschoenen zoals deze om de magische kracht tegen monster facties te vergroten. Sommige experimentele handschoenen zijn versierd met runen die gekopieerd uit oude bronnen zijn.'
     }
   },
 
@@ -100,7 +106,8 @@ export default [
       es: 'Esta armadura fue probada en batalla durante la Tercera Gran Guerra. Aunque estos guantes son viejos, una armadura de esta calidad alguna vez fue necesaria para la supervivencia.',
       vi: 'Bộ giáp này đã được thử nghiệm chiến đấu trong Đại chiến thứ ba. Mặc dù các găng tay này đã cũ, nhưng áo giáp có chất lượng này đã từng cần thiết cho sự sống sót',
       it: 'Questa armatura fu messa alla prova durante la Terza Grande Guerra. Sebbene questi guanti siano vecchi, una volta erano necessarie armature di questa qualità per sopravvivere.',
-      ro: 'Această armură a fost testată în bătălii în timpul "Third Great War". Cu toate că aceste mănuși sunt vechi, armura de această calitate a fost cândva necesară pentru supraviețuire.'
+      ro: 'Această armură a fost testată în bătălii în timpul "Third Great War". Cu toate că aceste mănuși sunt vechi, armura de această calitate a fost cândva necesară pentru supraviețuire.',
+      nl: 'Deze pantser werd tijdens de Derde Grote Oorlog getest. Hoewel deze wanten oud zijn, pantser van deze kwaliteit was ooit nodig om te overleven.'
     }
   },
 
@@ -115,7 +122,8 @@ export default [
       es: 'Estos son guantes experimentales creados por magos de fuego que utilizan técnicas y métodos enseñados por elementales de fuego.',
       vi: 'Đây là những găng tay thử nghiệm được tạo ra bởi các pháp sư lửa sử dụng các kỹ thuật và phương pháp được dạy bởi các nguyên tố lửa.',
       it: 'Questi sono guanti sperimentali creati da maghi del fuoco che utilizzavano metodi e tecniche insegnate dagli elementali del fuoco.',
-      ro: 'Acestea sunt mănuși experimentale create de magicieni ai focului care au utilizat tehnici și metode învățate de la elementalii focului.'
+      ro: 'Acestea sunt mănuși experimentale create de magicieni ai focului care au utilizat tehnici și metode învățate de la elementalii focului.',
+      nl: 'Dit zijn experimentele handschoenen gemaakt door vuurmagiërs die technieken en methoden gebruikten die werden aangeleerd door vuurelementalen.'
     }
   },
 
@@ -130,7 +138,8 @@ export default [
       es: 'Los reyes monstruos pagaron por las costosas mejoras de estos guantes. Estas mejoras estaban destinadas a obtener una ventaja contra ciertas facciones de monstruos en batallas por territorio.',
       vi: 'Các vị vua quái vật đã trả tiền cho những cải tiến đắt tiền chiếc găng tay này. Những cải tiến này nhằm giành lợi thế trước các phe quái vật nhất định trong các trận chiến giành lãnh thổ.',
       it: 'I re dei mostri hanno pagato costosi miglioramenti per questi guanti. Questi miglioramenti avevano lo scopo di ottenere un vantaggio contro alcune fazioni mostruose nelle battaglie per il territorio.',
-      ro: 'Regii monștrii au plătit pentru ca îmbunătățiri scumpe să fie aplicate acestor mănuși. Aceste îmbunătățiri au fost menite să aducă un avantaj împotriva anumitor clanuri de monștrii în bătăliile pentru teritorii.'
+      ro: 'Regii monștrii au plătit pentru ca îmbunătățiri scumpe să fie aplicate acestor mănuși. Aceste îmbunătățiri au fost menite să aducă un avantaj împotriva anumitor clanuri de monștrii în bătăliile pentru teritorii.',
+      nl: 'Monster Kings betaalden voor dure verbeteringen aan deze handschoenen. Deze verbeteringen waren bedoeld om een ​​voordeel te behalen tegen bepaalde monster fracties in gevechten om territorium.'
     }
   },
 
@@ -145,7 +154,8 @@ export default [
       es: 'Esta armadura se forja sin fuego ni calor con la esperanza de retener las propiedades mágicas del metal especial que se encuentra en las montañas. Los herreros requieren martillos encantados para forjar guantes como este.',
       vi: 'Bộ giáp này được rèn mà không có lửa hoặc nhiệt với hy vọng giữ lại các tính chất ma thuật của kim loại đặc biệt được tìm thấy trên núi. Thợ rèn yêu cầu búa phù phép để rèn găng tay như thế này.',
       it: 'Questa armatura è forgiata senza fuoco o calore nella speranza di conservare le proprietà magiche del metallo speciale che si trova nelle montagne. I fabbri necessitano di martelli incantati per forgiare guanti come questo.',
-      ro: 'Această armură este forjată fără foc sau căldură cu speranța că va reține proprietățile magice a metalului special găsit în munți. Fierarii au nevoie de ciocane fermecate pentru a forja astfel de mănuși.'
+      ro: 'Această armură este forjată fără foc sau căldură cu speranța că va reține proprietățile magice a metalului special găsit în munți. Fierarii au nevoie de ciocane fermecate pentru a forja astfel de mănuși.',
+      nl: 'Dit pantser is zonder vuur of hitte gesmeed, in de hoop van magische eigenschappen van het speciale metaal gevonden in de bergen te behouden. Smeden hebben betoverde hamers nodig om handschoenen zoals deze te smeden'
     }
   },
 
