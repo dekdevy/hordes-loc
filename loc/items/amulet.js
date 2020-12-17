@@ -4,7 +4,7 @@ export default [
     description: {
       en: 'Burned ingredients have been twisted and tied together to form an amulet of meager protection. Creating simple amulets like this has been a common survival tactic since ancient times.',
       el: 'Καμμένα συστατικά έχουν δεθεί μαζί για να δημιουργήσουν ένα φυλακτό μικρής προστασίας. Η δημιουργία απλών φυλακτών όπως αυτό έχει υπάρξει μια συνηθισμένη τακτική από τους αρχαίους χρόνους.',
-      ru: 'Материалы собраны в лесу были сожженны и скрученные чтобы создать амулет слабой защиты. Такое искусство было популярной тактикой выжевания в древние времена.',
+      ru: 'Материалы собраны в лесу были сожженны и скрученные чтобы создать амулет слабой защиты. Такое искусство было популярной тактикой выживания в древние времена.',
       hi: 'जले पदार्थों को तोड़ मरोड़ कर इस्स ताबीज़ को बनाया है। ऐसे ताबीज़ बनाना प्राचीन समय से ज़िंदा रहने की आम युक्ति रही है।',
       de: 'Verbrannte Zutaten wurden verdreht und zu einem Amulett des mageren Schutzes zusammengebunden. Die Herstellung einfacher Amulette wie dieses ist seit der Antike eine gängige Überlebenstaktik.',
       fr: 'Les ingrédients brûlés ont été tordus et liés ensemble pour former une amulette de maigre protection. La création d\'amulettes simples comme celle-ci a été une tactique de survie courante depuis l\'antiquité.',
