@@ -11,7 +11,8 @@ export default [
       fr: 'Un flacon de potion contenant un liquide rouge, vous guérissant quand vous le buvez.',
       es: 'Un frasco de poción que contiene un líquido rojo que te cura mientras lo bebes.',
       it: 'Una pozione che contiene un liquido rosso che ti cura quando lo bevi.',
-      ro: 'O sticluță de poțiune ce conține un lichid roșu, te vindecă imediat ce o bei.'
+      ro: 'O sticluță de poțiune ce conține un lichid roșu, te vindecă imediat ce o bei.',
+      pt: 'Um frasco de poção com líquido vermelho, cura você ao beber.'
     }
   },
   {
@@ -26,7 +27,8 @@ export default [
       fr: 'Un flacon de potion contenant un liquide bleu, régénérant votre mana quand vous le buvez.',
       es: 'Un frasco de poción que contiene un líquido azul, recupera maná mientras lo bebes.',
       it: 'Una pozione che contiene un liquido blu, recuperando mana quando lo bevi.',
-      ro: 'O sticluță de poțiune ce conține un lichid albastru, îțî reface mana imediat ce o bei.'
+      ro: 'O sticluță de poțiune ce conține un lichid albastru, îțî reface mana imediat ce o bei.',
+      pt: 'Um frasco de poção com líquido azul, recupera mana ao beber.'
     }
   },
   {
@@ -41,7 +43,8 @@ export default [
       fr: 'Un flacon de potion contenant un liquide rouge, vous guérissant quand vous le buvez.',
       es: 'Un frasco de poción que contiene un líquido rojo que te cura mientras lo bebes.',
       it: 'Una pozione che contiene un liquido rosso che ti cura quando lo bevi.',
-      ro: 'O sticluță de poțiune ce conține un lichid roșu, te vindecă imediat ce o bei.'
+      ro: 'O sticluță de poțiune ce conține un lichid roșu, te vindecă imediat ce o bei.',
+      pt: 'Um frasco de poção com líquido vermelho, cura você ao beber.'
     }
   },
   {
@@ -56,7 +59,8 @@ export default [
       fr: 'Un flacon de potion contenant un liquide bleu, régénérant votre mana quand vous le buvez.',
       es: 'Un frasco de poción que contiene un líquido azul, recupera maná mientras lo bebes.',
       it: 'Una pozione che contiene un liquido blu, recuperando mana quando lo bevi.',
-      ro: 'O sticluță de poțiune ce conține un lichid albastru, îțî reface mana imediat ce o bei.'
+      ro: 'O sticluță de poțiune ce conține un lichid albastru, îțî reface mana imediat ce o bei.',
+      pt: 'Um frasco de poção com líquido azul, recupera mana ao beber.'
     }
   },
   {
@@ -71,7 +75,8 @@ export default [
       fr: 'Un flacon de potion contenant un liquide rouge, vous guérissant quand vous le buvez.',
       es: 'Un frasco de poción que contiene un líquido rojo que te cura mientras lo bebes.',
       it: 'Una pozione che contiene un liquido rosso che ti cura quando lo bevi.',
-      ro: 'O sticluță de poțiune ce conține un lichid roșu, te vindecă imediat ce o bei.'
+      ro: 'O sticluță de poțiune ce conține un lichid roșu, te vindecă imediat ce o bei.',
+      pt: 'Um frasco de poção com líquido vermelho, cura você ao beber.'
     }
   },
   {
@@ -86,7 +91,8 @@ export default [
       fr: 'Un flacon de potion contenant un liquide bleu, régénérant votre mana quand vous le buvez.',
       es: 'Un frasco de poción que contiene un líquido azul, recupera maná mientras lo bebes.',
       it: 'Una pozione che contiene un liquido blu, recuperando mana quando lo bevi.',
-      ro: 'O sticluță de poțiune ce conține un lichid albastru, îțî reface mana imediat ce o bei.'
+      ro: 'O sticluță de poțiune ce conține un lichid albastru, îțî reface mana imediat ce o bei.',
+      pt: 'Um frasco de poção com líquido azul, recupera mana ao beber.'
     }
   }
 ]
