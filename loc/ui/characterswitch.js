@@ -22,7 +22,8 @@ export default {
     vi: 'Đăng xuất',
     cs: 'Odhlásit se',
     sr: 'Одјави се',
-    it: 'Disconnetti'
+    it: 'Disconnetti',
+    ja: 'ログアウト'
   },
 
   home: {
@@ -46,6 +47,7 @@ export default {
     vi: 'Trang chủ',
     cs: 'Domů',
     sr: 'Почетна',
-    it: 'Inizio'
+    it: 'Inizio',
+    ja: 'ホーム'
   }
 }
