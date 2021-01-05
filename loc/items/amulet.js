@@ -18,6 +18,7 @@ export default [
       vi: 'Các nguyên liệu bị đốt cháy đã được xoắn và gắn lại với nhau tạo thành một bùa hộ mệnh đơn giản. Chế tạo bùa hộ mệnh đơn giản như thế này là đã là một cách sinh tồn từ thời cổ đại.',
       cs: 'Ohořelé ingredience byly zkrouceny a smotány dohromady aby vytvořily amulet nuzné protekce. Vytvořit jednoduchý amulet jako je tento se považuje za běžnou taktiku pro přežití už od pradávna.',
       it: 'Ingredienti bruciati sono stati attorcigliati e legati tra loro per formare un amuleto che dona una lieve protezione. Creare amuleti semplici come questo è sempre stata una pratica di sopravvivenza comune fin dai tempi antichi.'
+      ja: '燃え遺った素材は一握りの加護を授ける為に、寄せ集められて結ばれ、捩じられます。このように簡単なお守りを作る事は、古来より生存の要として親しまれてきました。'
     }
   },
 
@@ -39,7 +40,8 @@ export default [
       hu: 'Vastag bőrből készültek ezek a nyakörvek, hogy rabságban tarthassák a legszilajabb farkasokat is. Egyes darabokról még mindig láncok lógnak, és néhányat elbűvöltek védelmi varázslatokkal.',
       vi: 'Vòng cổ được làm từ da sói. Một vài chúng vẫn còn các kết nối với nhau, tuy nhiên tất cả vòng cổ sói đều cứng cáp. Một số vòng cổ được thấm nhuần sự bảo vệ tâm linh.',
       cs: 'Límec, který drží vlky v otrocví, je vyrobený z tlusté kůže. Některé z nich mají na sobě ještě obojky, ale všechny vlčí límce jsou solidní. Některé límce jsou naplněné duchovní protekcí.',
-      it: 'I Collari per mantenere i lupi fedeli sono fatti da una pelle spessa. Alcuni di essi hanno ancora delle maglie di catena attaccate, ma tutti i collari per lupi sono robusti. Alcuni collari sono imbevuti di una protezione spirituale.'
+      it: 'I Collari per mantenere i lupi fedeli sono fatti da una pelle spessa. Alcuni di essi hanno ancora delle maglie di catena attaccate, ma tutti i collari per lupi sono robusti. Alcuni collari sono imbevuti di una protezione spirituale.',
+      ja: 'オオカミを躾ける為の首輪は厚めの革で出来ています。'
     }
   },
 
