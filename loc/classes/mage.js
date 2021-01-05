@@ -21,7 +21,7 @@ export default {
     vi: 'Pháp sư',
     cs: 'Mág',
     sr: 'Чаробњак',
-    it: 'Mago'
+    it: 'Mago',
     ja: '魔術師'
   },
 
@@ -46,7 +46,7 @@ export default {
     vi: 'Pháp sư gây sát thương trên một vùng rộng lớn, đồng thời cũng rất hữu dụng thông qua việc gây làm chậm các mục tiêu bằng các phép thuật băng của họ.',
     cs: 'Mágové dávají velké AoE poškození mezitím co nabízí zpomalení nepřátel s jejich ledovou magií.',
     sr: 'Чаробњаци наносе велику штету у великој мери у свом подручју дејства, и истовремено пружају помоћ успоравањем мете својом магијом мраза.',
-    it: 'I Maghi infliggono enormi danni ad area, e assicurano una grande utilità rallentando i bersagli con i loro incantesimi glaciali.'
+    it: 'I Maghi infliggono enormi danni ad area, e assicurano una grande utilità rallentando i bersagli con i loro incantesimi glaciali.',
     ja: '魔術師は広範囲に高火力のダメージを与えるのに優れており、氷の魔法でターゲットの動きを鈍らせ有利に戦う事も出来ます。'
   }
 }
