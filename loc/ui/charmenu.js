@@ -22,7 +22,8 @@ export default {
       vi: 'Lựa chọn nhân vật',
       cs: 'Vyber postavu',
       sr: 'Одабери играча',
-      it: 'Seleziona il personaggio'
+      it: 'Seleziona il personaggio',
+      ja: 'キャラクターを選択して下さい'
     },
 
     create: {
@@ -45,7 +46,8 @@ export default {
       vi: 'Nhấn để tạo nhân vật',
       cs: 'Klikni zde pro vytvoření postavy',
       sr: 'Кликни да креираш играча',
-      it: 'Clicca per creare il personaggio'
+      it: 'Clicca per creare il personaggio',
+      ja: 'クリックでキャラクター作成'
     },
 
     enterWorld: {
@@ -68,7 +70,8 @@ export default {
       vi: 'Tiến vào Thế giới',
       cs: 'Vstoupit do světa',
       sr: 'Уђи у свет',
-      it: 'Entra nel mondo'
+      it: 'Entra nel mondo',
+      ja: 'ワールドに入る'
     },
 
     emptySlot: {
@@ -91,7 +94,8 @@ export default {
       vi: 'Trống',
       cs: 'Prázdný slot',
       sr: 'Празно',
-      it: 'vuoto'
+      it: 'vuoto',
+      ja: '未作成'
     },
 
     error: {
@@ -114,7 +118,8 @@ export default {
       vi: 'Lỗi kết nối mạng',
       cs: 'Network Error',
       sr: 'Грешка при конекцији',
-      it: 'Errore di rete'
+      it: 'Errore di rete',
+      ja: 'ネットワークエラー'
     }
   },
 
@@ -140,7 +145,8 @@ export default {
       vi: 'Tạo nhân vật',
       cs: 'Vytváření postavy',
       sr: 'Креирање играча',
-      it: 'Creazione del personaggio'
+      it: 'Creazione del personaggio',
+      ja: 'キャラクター作成'
     },
 
     pressIcon: {
@@ -163,7 +169,8 @@ export default {
       vi: 'Nhấn biểu tượng để xem mô tả ngắn gọn.',
       cs: 'Klikni na ikonu pro stručný popis.',
       sr: 'Притисни на икону за кратак опис.',
-      it: 'Premi un\'icona per una breve descrizione.'
+      it: 'Premi un\'icona per una breve descrizione.',
+      ja: 'クリックすると簡単な説明を表示します。'
     },
 
     selectClass: {
@@ -186,7 +193,8 @@ export default {
       vi: 'Lựa chọn Lớp nhân vật',
       cs: 'Zvolit povolání',
       sr: 'Одабери класу',
-      it: 'Seleziona una Classe'
+      it: 'Seleziona una Classe',
+      ja: '職業選択'
     },
 
     selectFaction: {
@@ -209,7 +217,8 @@ export default {
       vi: 'Lựa chọn phe phái',
       cs: 'Zvolit frakci',
       sr: 'Одабери факцију',
-      it: 'Seleziona una Fazione'
+      it: 'Seleziona una Fazione',
+      ja: '派閥選択'
     },
 
     enterName: {
@@ -232,7 +241,8 @@ export default {
       vi: 'Nhập tên',
       cs: 'Zadej jméno',
       sr: 'Унеси име',
-      it: 'Inserisci un nome'
+      it: 'Inserisci un nome',
+      ja: '名前入力'
     },
 
     nameReq: {
@@ -254,7 +264,8 @@ export default {
       vi: 'Tên của bạn chỉ chứ các ký tự từ a-z, và số từ 0-9, không bao gồm khoảng trắng. Độ dài từ 3 đến 16 kí tự.',
       cs: 'Tvoje jméno může obsahovat pouze znaky a-Z a číslice 0-9, bez meze. Jméno musí být v rozsahu 3 až 16 písmen.',
       sr: 'Име сме само да има слова од а до З, и бројеве од 0 до 9, без размака. Име може садржати између 3 и 16 карактера.',
-      it: 'Il tuo nome può contenere solo caratteri a-Z, e numeri 0-9, senza spazi. Tra 3 e 16 caratteri'
+      it: 'Il tuo nome può contenere solo caratteri a-Z, e numeri 0-9, senza spazi. Tra 3 e 16 caratteri',
+      ja: 'スペースを含めず、a～Zの文字と0～9の数字が使用出来ます。3文字から16文字までです。'
     }
   },
 
@@ -281,7 +292,8 @@ export default {
       vi: 'Xóa',
       cs: 'Smazat',
       sr: 'Избрисати',
-      it: 'Rimuovi'
+      it: 'Rimuovi',
+      ja: '削除'
     },
 
     info: {
@@ -304,7 +316,8 @@ export default {
       vi: 'Để xóa, gõ tên nhân vật. Nhân vật của bạn không thể phục hồi.',
       cs: 'Pro smazaní napiš jméno tvé postavy. Tvoje postava již nemůže být obnovena.',
       sr: 'Да избришеш играча, унеси његово име. Играч неће моћи бити враћен.',
-      it: 'Per cancellare, digita il nome del personaggio. Il tuo personaggio non può essere ripristinato.'
+      it: 'Per cancellare, digita il nome del personaggio. Il tuo personaggio non può essere ripristinato.',
+      ja: 'キャラクターを削除するには、削除したいキャラクターの名前を入力して下さい。一度消すと元には戻りません。'
     },
 
     placeholder: {
@@ -327,7 +340,8 @@ export default {
       vi: 'Bạn có chắc chứ?',
       cs: 'Jsi si jistý?',
       sr: 'Да ли си сигуран?',
-      it: 'Sei sicuro?'
+      it: 'Sei sicuro?',
+      ja: 'よろしいですか？'
     }
   }
 }
