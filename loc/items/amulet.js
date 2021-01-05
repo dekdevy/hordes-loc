@@ -17,7 +17,7 @@ export default [
       hu: 'Égetett anyagokat bűvölve készítik a mágusok eme kisebb amuletteket. Nagy veszély idején nélkülözhetetlen túlélő eszközök.',
       vi: 'Các nguyên liệu bị đốt cháy đã được xoắn và gắn lại với nhau tạo thành một bùa hộ mệnh đơn giản. Chế tạo bùa hộ mệnh đơn giản như thế này là đã là một cách sinh tồn từ thời cổ đại.',
       cs: 'Ohořelé ingredience byly zkrouceny a smotány dohromady aby vytvořily amulet nuzné protekce. Vytvořit jednoduchý amulet jako je tento se považuje za běžnou taktiku pro přežití už od pradávna.',
-      it: 'Ingredienti bruciati sono stati attorcigliati e legati tra loro per formare un amuleto che dona una lieve protezione. Creare amuleti semplici come questo è sempre stata una pratica di sopravvivenza comune fin dai tempi antichi.'
+      it: 'Ingredienti bruciati sono stati attorcigliati e legati tra loro per formare un amuleto che dona una lieve protezione. Creare amuleti semplici come questo è sempre stata una pratica di sopravvivenza comune fin dai tempi antichi.',
       ja: '燃え遺った素材は一握りの加護を授ける為に、寄せ集められて結ばれ、捩じられます。このように簡単なお守りを作る事は、古来より生存の要として親しまれてきました。'
     }
   },
@@ -41,7 +41,7 @@ export default [
       vi: 'Vòng cổ được làm từ da sói. Một vài chúng vẫn còn các kết nối với nhau, tuy nhiên tất cả vòng cổ sói đều cứng cáp. Một số vòng cổ được thấm nhuần sự bảo vệ tâm linh.',
       cs: 'Límec, který drží vlky v otrocví, je vyrobený z tlusté kůže. Některé z nich mají na sobě ještě obojky, ale všechny vlčí límce jsou solidní. Některé límce jsou naplněné duchovní protekcí.',
       it: 'I Collari per mantenere i lupi fedeli sono fatti da una pelle spessa. Alcuni di essi hanno ancora delle maglie di catena attaccate, ma tutti i collari per lupi sono robusti. Alcuni collari sono imbevuti di una protezione spirituale.',
-      ja: 'オオカミを躾ける為の首輪は厚めの革で出来ています。'
+      ja: 'オオカミを躾ける為の首輪は厚めの革で出来ています。幾つかの代物は鎖が提げられていますが、全ての首輪は頑丈に出来ています。一部の首輪には精神の加護が宿ります。'
     }
   },
 
@@ -63,7 +63,8 @@ export default [
       hu: 'Ez a nyaklánc különböző pusztító bestiák csontszilánkjaiból lett összeállítva. Minden nyaklánc védőereje azon alapul, hogy milyen szörnyetegek csontját használták fel.',
       vi: 'Vòng cổ này bao gồm các mảnh xương từ nhiều sinh vật mạnh mẽ. Mỗi vòng cổ xương có sự bảo vệ khác nhau dựa trên nguồn gốc bộ xương.',
       cs: 'Tento náhrdelník je tvořen z zlomků kostí z různých silných tvorů. Každý kostěný náhrdelník se liší protekcí na základě původu kostí.',
-      it: 'Questa collana è formata da frammenti di ossa provenienti da varie forti creature. Ogni collana di ossa varia in protezione basandosi sulla origine delle ossa.'
+      it: 'Questa collana è formata da frammenti di ossa provenienti da varie forti creature. Ogni collana di ossa varia in protezione basandosi sulla origine delle ossa.',
+      ja: 'このネックレスは幾多の強力な生物の骨片で出来ています。各々のネックレスは使用した骨の種類によって保存方法が異なります。'
     }
   },
 
@@ -84,7 +85,8 @@ export default [
       hu: 'A farkasemberek még az áldozatokon hátrahagyott karmait misztikus olajokkal és hosszú meditációval kovácsolták egybe. Azt remélték, hogy egy napon ezek az eszközök a bosszú fegyvereivé válhatnak.',
       vi: 'Những móng vuốt người sói đáng sợ bị bỏ lại trên cơ thể của các nạn nhân đã được bôi bằng dầu thần bí và thấm nhuần tinh thần thông qua thiền định. Những người tạo ra những lá bùa hộ mệnh này hy vọng rằng một ngày nào đó những sự bảo vệ tâm linh này sẽ được sử dụng để trả thù.',
       cs: 'Strachuplné vlkodlačí drápy, které byly zanechány na jejich obětech, byly pomazány mystickými oleji a vštípeny do nich duchovní statečnost zkrz meditaci. Stvořitelé tohoto amuletu doufají, že tato duchovní protekce jednoho dne bude použita na pomstu.',
-      it: 'Gli artigli di un terribile lupo mannaro lasciati sui corpi delle vittime vengono unti con oli mistici e infusi con una forza d\'animo attraverso la meditazione. I creatori di questi amuleti speravano che queste protezioni spirituali venissero un giorno usate per vendicarsi.'
+      it: 'Gli artigli di un terribile lupo mannaro lasciati sui corpi delle vittime vengono unti con oli mistici e infusi con una forza d\'animo attraverso la meditazione. I creatori di questi amuleti speravano che queste protezioni spirituali venissero un giorno usate per vendicarsi.',
+      ja: '犠牲者の身体に刻み込まれた恐ろしいオオカミ男の爪は、聖なる油により聖別され、瞑想を通じて精神の強さを宿らせました。このお守りの作成者は、宿った精神の強さがいつの日か復讐に発揮される事を望んでいました。'
     }
   },
 
