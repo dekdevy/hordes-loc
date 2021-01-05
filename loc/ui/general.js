@@ -19,7 +19,8 @@ export default {
     bn: 'ঠিক আছে',
     vi: 'Đồng ý',
     sr: 'Добро',
-    it: 'Ok'
+    it: 'Ok',
+    ja: '決定'
   },
 
   back: {
@@ -41,7 +42,8 @@ export default {
     bn: 'আগে',
     vi: 'Trở về',
     sr: 'Назад',
-    it: 'Indietro'
+    it: 'Indietro',
+    ja: '戻る'
   },
 
   accept: {
@@ -63,7 +65,8 @@ export default {
     bn: 'গ্রায্য',
     vi: 'Chấp nhận',
     sr: 'Прихвати',
-    it: 'Accetta'
+    it: 'Accetta',
+    ja: '承認'
   },
 
   cancel: {
@@ -85,7 +88,8 @@ export default {
     bn: 'বাতিল',
     vi: 'Hủy bỏ',
     sr: 'Откажи',
-    it: 'Annullare'
+    it: 'Annullare',
+    ja: 'キャンセル'
   },
 
   decline: {
@@ -107,7 +111,8 @@ export default {
     bn: 'অগ্রায্য',
     vi: 'Từ chối',
     sr: 'Одбиј',
-    it: 'Declina'
+    it: 'Declina',
+    ja: '拒否'
   },
 
   close: {
@@ -129,6 +134,7 @@ export default {
     bn: 'বন্ধ',
     vi: 'Đóng',
     sr: 'Затвори',
-    it: 'Chiudi'
+    it: 'Chiudi',
+    ja: '閉じる'
   }
 }
