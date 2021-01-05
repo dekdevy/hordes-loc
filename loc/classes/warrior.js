@@ -21,8 +21,8 @@ export default {
     vi: 'Chiến binh',
     cs: 'Válečník',
     sr: 'Ратник',
-    it: 'Guerriero'
-    ja: '戦士',
+    it: 'Guerriero',
+    ja: '戦士'
   },
   // Class description, visible during character creation
   description: {
