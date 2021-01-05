@@ -18,7 +18,8 @@ export default {
     vi: 'Tìm kiếm',
     sr: 'Претрага',
     it: 'Cerca',
-    tr: 'Ara'
+    tr: 'Ara',
+    ja: '探す'
   },
 
   filtermine: {
@@ -39,7 +40,8 @@ export default {
     vi: 'Chỉ trang bị của tôi',
     sr: 'Само моји предмети',
     it: 'Solo i miei oggetti',
-    tr: 'Sadece eşyalarım'
+    tr: 'Sadece eşyalarım',
+    ja: '自分のアイテムのみ'
   },
 
   buy: {
@@ -60,7 +62,8 @@ export default {
     vi: 'Kupi',
     it: 'Compra Oggetto',
     sr: 'Купи предмет',
-    tr: 'Eşya Satın Al'
+    tr: 'Eşya Satın Al',
+    ja: 'アイテムを購入'
   },
 
   post: {
@@ -80,7 +83,8 @@ export default {
     pl: 'Wystaw przedmiot',
     vi: 'Đăng vật phẩm',
     sr: 'Постави предмет',
-    it: 'Pubblica oggetto'
+    it: 'Pubblica oggetto',
+    ja: 'アイテムを出品'
   },
 
   delist: {
@@ -100,7 +104,8 @@ export default {
     vi: 'Xóa vật phẩm khỏi danh sách',
     sr: 'Склони предмет',
     it: 'Ritira l\'oggetto',
-    tr: 'Eşyayı geri al'
+    tr: 'Eşyayı geri al',
+    ja: '出品を取り消す'
   },
 
   // Include the space and punctuation
@@ -122,7 +127,8 @@ export default {
     vi: 'Giá: ',
     sr: 'Цена: ',
     it: 'Prezzo: ',
-    tr: 'Tutar'
+    tr: 'Tutar: ',
+    ja: '価格: '
   },
 
   // Include the space and punctuation
@@ -144,7 +150,8 @@ export default {
     vi: 'Phí: ',
     sr: 'Такса: ',
     it: 'Tassa: ',
-    tr: 'Ücret'
+    tr: 'Ücret: ',
+    ja: '手数料: '
   },
 
   dragitem: {
@@ -164,7 +171,8 @@ export default {
     vi: 'Kéo thả vật phẩm vào ô',
     sr: 'Превуци предмет у слот',
     it: 'Trascina l\'oggetto nello slot',
-    tr: 'Eşyayı yuvaya sürükle'
+    tr: 'Eşyayı yuvaya sürükle',
+    ja: 'アイテムをスロットにドラッグして下さい'
   },
 
   auctionpost: {
@@ -184,7 +192,8 @@ export default {
     pl: 'Wystawiono $1 na sprzedaż',
     vi: 'Bạn vừa đăng $1 để bán.',
     sr: 'Поставио си $1 на продају.',
-    it: 'Hai pubblicato $1 in vendita'
+    it: 'Hai pubblicato $1 in vendita',
+    ja: '$1を出品しました。'
   },
 
   // Do not translate "Stash".
@@ -205,7 +214,8 @@ export default {
     vi: 'Vật phẩm được gỡ khỏi danh sách và gửi vào Hòm đồ',
     sr: 'Предмет је склоњен и стављен у твој Stash.',
     it: 'Oggeto rimosso e inviato nel tuo Stash',
-    tr: 'Eşya listeden çıkarıldı ve Stashe gönderildi'
+    tr: 'Eşya listeden çıkarıldı ve Stashe gönderildi',
+    ja: '出品を取り消しStashへ送りました。'
   },
 
   // Do not translate "Stash".
@@ -226,7 +236,8 @@ export default {
     vi: 'Vật phẩm đã mua cho $1 và gửi vào Hòm đồ',
     sr: 'Предмет је купљен по цени од $1 и стављен је у твој Stash.',
     it: 'Oggetto comprato per $1 e inviato nel tuo Stash',
-    tr: 'Eşya $1 paraya satın alındı ve Stashe gönderildi'
+    tr: 'Eşya $1 paraya satın alındı ve Stashe gönderildi',
+    ja: '$1を購入しStashへ送りました。'
   },
 
   sell: {
@@ -246,6 +257,7 @@ export default {
     vi: 'Bạn đã bán $1 được $2',
     sr: 'Продао си $1 за $2',
     it: 'Hai venduto $1 per $2',
-    tr: '$1 eşyasını $2 fiyatından sattın'
+    tr: '$1 eşyasını $2 fiyatından sattın',
+    ja: '$1を$2で売却しました。'
   }
 }
