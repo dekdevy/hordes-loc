@@ -22,7 +22,8 @@ export default {
     pl: 'Zaproszenie do party',
     vi: 'Lời mời Party',
     sr: 'Pozivnica za party',
-    it: 'Invito al party.'
+    it: 'Invito al party.',
+    ja: 'Party招待'
   },
 
   // DO NOT translate "Party"
@@ -44,7 +45,8 @@ export default {
     pl: 'Wyrzucenie z Party',
     vi: 'Đá ra khỏi Party',
     sr: 'Izbacivanje iz party-ja',
-    it: 'Cacciare dal party'
+    it: 'Cacciare dal party',
+    ja: 'Partyキック'
   },
 
   // DO NOT translate "Party"
@@ -66,7 +68,8 @@ export default {
     pl: 'Opuść Party',
     vi: 'Rời khỏi Party',
     sr: 'Napusti party',
-    it: 'Lasciare il party'
+    it: 'Lasciare il party',
+    ja: 'Partyキック'
   },
 
   // DO NOT translate "Party"
@@ -88,7 +91,8 @@ export default {
     pl: 'Stwórz Party',
     vi: 'Tạo Party',
     sr: 'Kreiraj party',
-    it: 'Creare il party'
+    it: 'Creare il party',
+    ja: 'Party招待'
   },
 
   // DO NOT translate "Party"
@@ -110,7 +114,8 @@ export default {
     pl: '$1 zaprosił cię do Party.',
     vi: '$1 đã mời bạn vào Party của họ',
     sr: '$1 te je pozvao/la da se pridružiš party-ju.',
-    it: '$1 ti ha inviato ad entrare nel suo party.'
+    it: '$1 ti ha inviato ad entrare nel suo party.',
+    ja: '$1 が貴方をPartyに招待しました。'
   },
 
   link: {
@@ -130,7 +135,8 @@ export default {
     pl: 'Link do zaproszenia',
     vi: 'Liên kết mời',
     sr: 'Pozivnica',
-    it: 'Link di invito'
+    it: 'Link di invito',
+    ja: '招待リンク'
   },
 
   // DO NOT translate "Party"
@@ -151,7 +157,8 @@ export default {
     pl: 'Wyślij ten link do innych graczy! Pozwoli im to na dołączenie do twojego Party.',
     vi: 'Gửi kết nối đến người khác! Điều này cho phép bạn vào Party của bạn',
     sr: 'Pošalji ovaj link ostalim igračima! To će im omugućiti da se pridruže tvom party-ju.',
-    it: 'Invia questo link ad altri giocatori! Ciò consentirà loro di unirsi al tuo Party.'
+    it: 'Invia questo link ad altri giocatori! Ciò consentirà loro di unirsi al tuo Party.',
+    ja: 'このリンクを他のプレイヤーに送りましょう！Partyに招待する事が出来ます。'
   },
 
   copyLink: {
@@ -175,7 +182,8 @@ export default {
     pl: 'Kopiuj do schowka',
     vi: 'Sao chép vào bảng tạm',
     sr: 'Kopiraj u prviremenu memoriju',
-    it: 'Copia negli appunti'
+    it: 'Copia negli appunti',
+    ja: 'クリップボードへコピー'
   },
 
   summon: {
@@ -191,7 +199,8 @@ export default {
     vi: 'Triệu hồi',
     sr: 'Prizovi',
     it: 'Evoca',
-    tr: 'Çağır'
+    tr: 'Çağır',
+    ja: '召喚'
   },
 
   onSummon: {
@@ -207,7 +216,8 @@ export default {
     pl: '$1 chce przyzwać cię do swojej lokacji.',
     vi: '$1 đang triệu hồi bạn đế vị trí của họ.',
     sr: '$1 nudi da te prizove na njegovu/njenu lokaciju.',
-    it: '$1 si offre di evocarti nella loro posizione.'
+    it: '$1 si offre di evocarti nella loro posizione.',
+    ja: '$1 が貴方を召喚しようとしています。'
   },
 
   // Do not translate "Assistant".
@@ -224,7 +234,8 @@ export default {
     pl: 'Promuj na Assistant.',
     vi: 'Thăng chức lên Assistant',
     sr: 'Unapredi u Assistant-a',
-    it: 'Promuovi ad Assistant'
+    it: 'Promuovi ad Assistant',
+    ja: 'Assistant へ昇格'
   },
 
   // Do not translate "Leader".
@@ -241,7 +252,8 @@ export default {
     pl: 'Promuj na Leader',
     vi: 'Thăng chức lên Leader',
     sr: 'Unapredi u Leader-a',
-    it: 'Promuovi a Leader'
+    it: 'Promuovi a Leader',
+    ja: 'Leader へ昇格'
   },
 
   // Do not translate"Assistant".
@@ -258,7 +270,8 @@ export default {
     pl: 'Degraduj na Assistant',
     vi: 'Giáng chức xuống Assitant',
     sr: 'Unazadi Assistant-a',
-    it: 'Retrocesso ad Assistant'
+    it: 'Retrocesso ad Assistant',
+    ja: 'Assistant へ降格'
   },
 
   startQueue: {
@@ -274,7 +287,8 @@ export default {
     vi: 'Hàng đợi',
     sr: 'Red',
     it: 'Coda',
-    pt: 'Na fila'
+    pt: 'Na fila',
+    ja: 'キュー'
   },
 
   stopQueue: {
@@ -290,6 +304,7 @@ export default {
     vi: 'Rời hàng đợi',
     sr: 'Napusti red',
     it: 'Esci dalla Coda',
-    pt: 'Sair da fila'
+    pt: 'Sair da fila',
+    ja: 'キューを去る'
   }
 }
