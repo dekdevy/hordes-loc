@@ -19,7 +19,8 @@ export default {
     vi: 'Thì thầm',
     cs: 'Šepot',
     sr: 'Шапући',
-    it: 'Sussurro'
+    it: 'Sussurro',
+    ja: 'ひそひそ話'
   },
 
   types: [
@@ -40,7 +41,8 @@ export default {
       vi: 'Kinh nghiệm nhận được',
       cs: 'Získání zkušeností',
       sr: 'EXP Добитак',
-      it: 'Guadagno di Exp'
+      it: 'Guadagno di Exp',
+      ja: 'Exp 獲得'
     },
     {
       en: 'Target Change',
@@ -59,7 +61,8 @@ export default {
       cs: 'Změna cíle',
       sr: 'Промена мете',
       it: 'Cambio di Target',
-      tr: 'Hedef Değişimi'
+      tr: 'Hedef Değişimi',
+      ja: 'ターゲット変更'
     },
     {
       en: 'Cast',
@@ -78,7 +81,8 @@ export default {
       cs: 'Čarování',
       sr: 'Бацити',
       it: 'Invocare',
-      tr: 'Büyü'
+      tr: 'Büyü',
+      ja: 'キャスト'
     },
     {
       en: 'Damage',
@@ -97,7 +101,8 @@ export default {
       vi: 'Sát thương',
       cs: 'Poškození',
       sr: 'Штета',
-      it: 'Danno'
+      it: 'Danno',
+      ja: 'ダメージ'
     },
     {
       en: 'Heal',
@@ -116,7 +121,8 @@ export default {
       vi: 'Hồi máu',
       cs: 'Vyléčení',
       sr: 'Оздравити',
-      it: 'Cura'
+      it: 'Cura',
+      ja: 'ヒール'
     },
     {
       en: 'Death',
@@ -135,7 +141,8 @@ export default {
       vi: 'Chết',
       cs: 'Smrt',
       sr: 'Смрт',
-      it: 'Morte'
+      it: 'Morte',
+      ja: '死亡'
     },
     {
       en: 'Level Up',
@@ -154,7 +161,8 @@ export default {
       cs: 'Zvýšení úrovně',
       sr: 'Нови ниво',
       it: 'Nuovo Livello',
-      tr: 'Seviye Atlama'
+      tr: 'Seviye Atlama',
+      ja: 'レベルアップ'
     },
     {
       en: 'Items',
@@ -173,7 +181,8 @@ export default {
       cs: 'Předměty',
       sr: 'Предмети',
       it: 'Oggetti',
-      tr: 'Eşyalar'
+      tr: 'Eşyalar',
+      ja: 'アイテム'
     },
     {
       en: 'Auction',
@@ -192,7 +201,8 @@ export default {
       cs: 'Předměty',
       sr: 'Аукција',
       it: 'Vendita all \'asta',
-      tr: 'Açık Arttırma'
+      tr: 'Açık Arttırma',
+      ja: '競売'
     },
     {
       en: 'Pick Gold',
@@ -211,7 +221,8 @@ export default {
       cs: 'Zvednout zlato',
       sr: 'Покупи злато',
       it: 'Colleziona l\'oro',
-      tr: 'Altını Topla'
+      tr: 'Altını Topla',
+      ja: 'ゴールド獲得'
     },
     {
       en: 'Spent Gold',
@@ -230,7 +241,8 @@ export default {
       cs: 'Utratit zlato',
       sr: 'Потрошено злато',
       it: 'Spendi l\'oro',
-      tr: 'Altın Harca'
+      tr: 'Altın Harca',
+      ja: 'ゴールド支払'
     },
     {
       en: 'Fame Gain',
@@ -249,7 +261,8 @@ export default {
       vi: 'Danh vọng nhận được',
       cs: 'Získání slávy',
       sr: 'Добитак славе',
-      it: 'Guadagno della Fama'
+      it: 'Guadagno della Fama',
+      ja: '名声獲得'
     }
   ]
 }
