@@ -14,7 +14,8 @@ export default {
       de: 'Ich kann die Frage schon auf deinen Lippen sehen: Ja, ich bin eine sprechende Kiste. Für viele Jahre habe ich königlichen Familien gedient, ihre unbezahlbaren Juwelen und Edelsteine aufbewahrt, nur um jetzt in diesem furchtbaren Lager zu landen und deine niederen Bedürfnisse zu erfüllen. Egal, möchtest du meine Dienste in Anspruch nehmen?',
       pl: 'Tak, jestem gadającą skrzynią, już widzę pytania formujące się na twoich ustach. Od wielu lat służę rodzinom królewskim, przechowując ich bezcenne klejnoty i drogocenności, tylko po to, żeby umieścić mnie w tym brudnym obozowisku bym zaspokajała twoje śmieszne potrzeby. Cóż, czy chciałbyś abym zaoferowała ci moje usługi?',
       bn: 'হ্যাঁ, আমি কথা বলা বাক্স, আমি ইতিমধ্যে আপনার ঠোঁটে থাকা প্রশ্নটি দেখতে পাচ্ছি। আমি বহু বছর রাজপরিবারের সেবা করেছি, তাদের অমূল্য রত্ন ও জহরত সংরক্ষণ করেছি, কেবলমাত্র নিজেদের ক্ষুদ্র প্রয়োজনগুলি পূরণ করার জন্য আমাকে এই নোংরা শিবিরে রাখা হয়েছে। যাইহোক, আপনি কি চান আমি আপনাকে আমার পরিষেবাগুলি অফার করি?',
-      it: 'Sì, sono una cassa parlante, posso già vedere la domanda formarsi sulle tue labbra. Per molti anni ho servito famiglie reali, conservando le loro inestimabili gemme e gioielli, solo per me essere collocato in questo sudicio campeggio per soddisfare le vostre esigenze meschine. Ad ogni modo, vorresti che ti offrissi i miei servizi?'
+      it: 'Sì, sono una cassa parlante, posso già vedere la domanda formarsi sulle tue labbra. Per molti anni ho servito famiglie reali, conservando le loro inestimabili gemme e gioielli, solo per me essere collocato in questo sudicio campeggio per soddisfare le vostre esigenze meschine. Ad ogni modo, vorresti che ti offrissi i miei servizi?',
+      ja: 'やぁ、僕はおしゃべりチェストさ。何か言いたさげだね？前は王室に仕えていて、お偉いさんの宝玉だの宝石だのを匿ってたんだけど、何だかんだあって君のちゃっちいニーズにお応えする為に小汚いキャンプに置かれる始末さ。まぁそれは置いといて、早速使ってみるかい？'
     },
 
     // Do not translate "Stash".
@@ -32,7 +33,8 @@ export default {
       hu: 'Rendben, tárd elém a Stasht.',
       pl: 'Tak, otwórz mój Stash.',
       bn: 'হ্যাঁ, আমার Stash খুলুন',
-      it: 'Sì, apri il mio Stash.'
+      it: 'Sì, apri il mio Stash.',
+      ja: 'はい、チェストを利用します。'
     }]
   }]
 }
