@@ -19,7 +19,8 @@ export default {
       bn: 'আচ্ছা, দেখুন আমাদের এখানে কি আছে! না, ওই সরঞ্জামগুলি দিয়ে কিছু হবে না, তাই না? খোলা বাজারে একবার দেখুন! গুজব ছড়াচ্ছে;আমি Warcry Scrolls এর কথা শুনেছি যা আপনার একজন বন্ধুকে আপনার অবস্থানে টেলিপোর্ট করতে পারে। আসুন এটা আমাদের মধ্যেই রাখি, ঠিক আছে?',
       vi: 'Này, hãy nhìn chúng ta có gì ở đây! Không, trang bị đó không phải như vậy, phải không? Hãy nhìn vào chợ! Tin đồn đang lan rộng; Tôi đã nghe nói về Warcry Scrolls có thể dịch chuyển tức thời một người bạn đến vị trí của bạn. Hãy giữ điều này cho chúng ta, được chứ.',
       it: 'Bene, guarda cosa abbiamo qui! No, quell\'attrezzatura non lo farà, vero? Dai un\'occhiata al mercato aperto! Le voci si stanno diffondendo; Ho sentito di Warcry Scrolls che può teletrasportare un amico nella tua posizione. Teniamolo tra di noi, ok?',
-      tr: 'Bakın burada neyimiz var! Hayır, o ekipman işe yaramaz, değil mi? Açık pazara bir göz atın! Söylentiler yayılıyor; Bir arkadaşı konumunuza ışınlayabilen Warcry Scrolls duydum. Aramızda kalsın, tamam mı?'
+      tr: 'Bakın burada neyimiz var! Hayır, o ekipman işe yaramaz, değil mi? Açık pazara bir göz atın! Söylentiler yayılıyor; Bir arkadaşı konumunuza ışınlayabilen Warcry Scrolls duydum. Aramızda kalsın, tamam mı?',
+      ja: 'やぁ、ちょいと見て行かないかい？おや、その装備はボロが出てるぞ。公開市場をご覧あれ！友達を君の場所へテレポートさせる事が出来る、Warcry Scrollsについての噂が近頃広まっている。これを僕達の間で共有しよう、いいね？'
     },
 
     choices: [{
@@ -40,7 +41,8 @@ export default {
       pl: 'Tak, pokaż mi przedmioty na sprzedaż.',
       bn: 'হ্যাঁ, আমাকে বিক্রয়ের জন্য আইটেমগুলি প্রদর্শন করুন।',
       vi: 'Vâng, hãy cho tôi xem vật phẩm được bán',
-      it: 'Si, mostrami gli articoli in vendita.'
+      it: 'Si, mostrami gli articoli in vendita.',
+      ja: 'はい、商品を見せて下さい。'
     }]
   }]
 }
