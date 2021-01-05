@@ -18,7 +18,8 @@ export default {
     pl: 'Ustawienia',
     vi: 'Cài đặt',
     sr: 'Подешавања',
-    it: 'Impostazioni'
+    it: 'Impostazioni',
+    ja: '設定'
   },
 
   // ---- Controls
@@ -40,7 +41,8 @@ export default {
     pl: 'Sterowanie',
     vi: 'Điều khiển',
     sr: 'Контроле',
-    it: 'Controlli'
+    it: 'Controlli',
+    ja: '操作'
   },
 
   keybindings: {
@@ -58,7 +60,8 @@ export default {
     vi: 'Gán phím',
     it: 'Configurazione tasti',
     sr: 'Конфигурација контрола',
-    tr: 'Tuş atamaları'
+    tr: 'Tuş atamaları',
+    ja: 'キー割り当て'
   },
 
   camera: {
@@ -73,7 +76,8 @@ export default {
     it: 'Telecamera',
     hu: 'Kamera',
     pt: 'Câmera',
-    tr: 'Kamera'
+    tr: 'Kamera',
+    ja: 'カメラ'
   },
 
   mousesensitivity: {
@@ -89,7 +93,8 @@ export default {
     it: 'Sensibilità',
     hu: 'Érzékenység',
     pt: 'Sensibilidade',
-    tr: 'Hassasiyet'
+    tr: 'Hassasiyet',
+    ja: 'マウス感度'
   },
 
   invertmousex: {
@@ -105,7 +110,8 @@ export default {
     it: 'Inverti orizzontalmente',
     hu: 'Vízszintes tükrözés',
     pt: 'Inverter horizontalmente',
-    tr: 'Yatay ters çevir'
+    tr: 'Yatay ters çevir',
+    ja: '左右反転'
   },
 
   invertmousey: {
@@ -121,7 +127,8 @@ export default {
     it: 'Inverti verticalmente',
     hu: 'Függőleges tükrözés',
     pt: 'Inverter verticalmente',
-    tr: 'Dikey ters çevir'
+    tr: 'Dikey ters çevir',
+    ja: '上下反転'
   },
 
   pointerlock: {
@@ -139,7 +146,8 @@ export default {
     vi: 'Ẩn chuột khi xoay',
     sr: 'Сакриј миш током ротације',
     it: 'Nascondi il mouse durante le rotazioni',
-    tr: 'Döndürme sırasında fareyi gizle'
+    tr: 'Döndürme sırasında fareyi gizle',
+    ja: '操作中にカーソル非表示'
   },
 
   lockedcamera: {
@@ -160,7 +168,8 @@ export default {
     pl: 'Zablokowana kamera',
     vi: 'Khóa Camera',
     sr: 'Фиксна камера',
-    it: 'Telecamera fissa'
+    it: 'Telecamera fissa',
+    ja: 'カメラを固定'
   },
 
   // ---- Graphics
@@ -182,7 +191,8 @@ export default {
     pl: 'Grafika',
     vi: 'Đồ họa',
     sr: 'Графика',
-    it: 'Grafica'
+    it: 'Grafica',
+    ja: 'グラフィック'
   },
 
   viewrange: {
@@ -203,7 +213,8 @@ export default {
     pl: 'Zasięg widzenia',
     vi: 'Khoảng cách nhìn',
     it: 'Distanza visiva',
-    sr: 'Дистанца погледа'
+    sr: 'Дистанца погледа',
+    ja: '描画範囲'
   },
 
   resolution: {
@@ -224,7 +235,8 @@ export default {
     pl: 'Rozdzielczość',
     vi: 'Độ phân giải',
     sr: 'Резолуција',
-    it: 'Risoluzione'
+    it: 'Risoluzione',
+    ja: '解像度'
   },
 
   postprocessing: {
@@ -241,7 +253,8 @@ export default {
     pl: 'Post-processing',
     vi: 'Hậu xử lý',
     it: 'Post-processing',
-    sr: 'Пост обрада'
+    sr: 'Пост обрада',
+    ja: 'ジャギー抑制'
   },
 
   skilleffects: {
@@ -262,7 +275,8 @@ export default {
     pl: 'Efekty umiejętności',
     vi: 'Hiệu ứng kỹ năng',
     it: 'Effetti delle Skills',
-    sr: 'Ефекти вештина'
+    sr: 'Ефекти вештина',
+    ja: 'スキル演出'
   },
 
   shadows: {
@@ -280,7 +294,8 @@ export default {
     vi: 'Đổ bóng',
     sr: 'Сенке',
     it: 'Ombre',
-    tr: 'Gölgeler'
+    tr: 'Gölgeler',
+    ja: '影'
   },
 
   ssao: {
@@ -297,7 +312,8 @@ export default {
     vi: 'Môi trường xung quanh',
     it: 'Occlusione Ambientale',
     sr: 'Оклузија околине',
-    tr: 'Çevresel Perdeleme'
+    tr: 'Çevresel Perdeleme',
+    ja: '環境閉塞'
   },
 
   grass: {
@@ -315,7 +331,8 @@ export default {
     vi: 'Cây cỏ',
     sr: 'Трава',
     it: 'Erba',
-    tr: 'Çim'
+    tr: 'Çim',
+    ja: '草'
   },
 
   clouds: {
@@ -333,7 +350,8 @@ export default {
     vi: 'Mây',
     sr: 'Облаци',
     it: 'Nuvole',
-    tr: 'Çimler'
+    tr: 'Çimler',
+    ja: '雲'
   },
 
   particles: {
@@ -351,7 +369,8 @@ export default {
     vi: 'Hạt chi tiết',
     it: 'Particelle',
     sr: 'Ефекти',
-    tr: 'Parçacıklar'
+    tr: 'Parçacıklar',
+    ja: 'パーティクル'
   },
 
   detailprops: {
@@ -369,7 +388,8 @@ export default {
     it: 'Dettagli',
     sr: 'Детаљи предмета',
     pt: 'Detalhes das props.',
-    tr: 'Nesne detayları'
+    tr: 'Nesne detayları',
+    ja: '建造物の詳細'
   },
 
   // ---- Audio
@@ -391,7 +411,8 @@ export default {
     pl: 'Audio',
     vi: 'Âm thanh',
     sr: 'Звук',
-    it: 'Audio'
+    it: 'Audio',
+    ja: 'オーディオ'
   },
 
   sfxvolume: {
@@ -411,7 +432,8 @@ export default {
     pl: 'Poziom dźwięków',
     vi: 'Âm lượng SFX',
     sr: 'SFX гласноћа',
-    it: 'SFX Volume'
+    it: 'SFX Volume',
+    ja: '効果音'
   },
   ambiencevolume: {
     en: 'Ambience Volume',
@@ -419,7 +441,8 @@ export default {
     ru: 'Громкость окружения',
     hu: 'Környezet hangereje',
     pt: 'Som ambiente',
-    tr: 'Ambiyans sesi'
+    tr: 'Ambiyans sesi',
+    ja: '環境音'
   },
   musicvolume: {
     en: 'Music Volume',
@@ -434,7 +457,8 @@ export default {
     it: 'Volume Musica',
     hu: 'Zene hangereje',
     pt: 'Volume da música',
-    tr: 'Müzik sesi'
+    tr: 'Müzik sesi',
+    ja: '音楽'
   },
   // ---- Chat
   chat: {
@@ -455,7 +479,8 @@ export default {
     pl: 'Czat',
     vi: 'Chat',
     sr: 'Чет',
-    it: 'Chat'
+    it: 'Chat',
+    ja: 'チャット'
   },
 
   chatbubbles: {
@@ -473,7 +498,8 @@ export default {
     vi: 'Hiển thị bong bóng chat',
     sr: 'Прикажи чет',
     it: 'Mostra le chat bubbles',
-    tr: 'Sohbet balonlarını göster'
+    tr: 'Sohbet balonlarını göster',
+    ja: 'チャットをキャラクター上に表示'
   },
 
   combatlog: {
@@ -491,7 +517,8 @@ export default {
     it: 'registro dei combattimenti',
     sr: 'Борбени чет',
     pt: 'Log de combate',
-    tr: 'Savaş Günlüğü'
+    tr: 'Savaş Günlüğü',
+    ja: '戦闘ログ'
   },
 
   // ---- User interface
@@ -513,7 +540,8 @@ export default {
     pl: 'Interfejs',
     vi: 'Giao diện',
     sr: 'Интерфејс',
-    it: 'Interfaccia'
+    it: 'Interfaccia',
+    ja: 'インターフェース'
   },
 
   language: {
@@ -534,7 +562,8 @@ export default {
     pl: 'Język',
     vi: 'Ngôn ngữ',
     sr: 'Језик',
-    it: 'Linguaggio'
+    it: 'Linguaggio',
+    ja: '言語'
   },
 
   invwidth: {
@@ -554,7 +583,8 @@ export default {
     vi: 'Độ dài hành trang',
     sr: 'Ширина инвентара',
     it: 'Larghezza inventario',
-    tr: 'Enventar genişliği'
+    tr: 'Enventar genişliği',
+    ja: 'インベントリの行'
   },
 
   // Do NOT translate "Stash"
@@ -571,7 +601,8 @@ export default {
     sr: 'Ширина Stash-а',
     it: 'Larghezza Stash',
     pt: 'Tamanho do baú',
-    tr: 'Stash genişliği'
+    tr: 'Stash genişliği',
+    ja: 'Stashの行'
   },
 
   // Do NOT translate "Stash"
@@ -588,7 +619,8 @@ export default {
     sr: 'Висина Stash-а',
     it: 'Altezza Stash',
     pt: 'Altura do baú',
-    tr: 'Stash yüksekliği'
+    tr: 'Stash yüksekliği',
+    ja: 'Stashの列'
   },
 
   tutorial: {
@@ -609,7 +641,8 @@ export default {
     pl: 'Samouczek',
     vi: 'Hướng dẫn',
     sr: 'Туторијал',
-    it: 'Tutorial'
+    it: 'Tutorial',
+    ja: 'チュートリアル'
   },
 
   resettutorial: {
@@ -630,7 +663,8 @@ export default {
     pl: 'Zresetuj samouczek',
     vi: 'Cài đặt lại hướng dẫn',
     sr: 'Понови туторијал',
-    it: 'Ripristina tutorial'
+    it: 'Ripristina tutorial',
+    ja: 'チュートリアルを初期化'
   },
 
   disabletutorial: {
@@ -648,7 +682,8 @@ export default {
     pl: 'Wyłącz samouczek',
     vi: 'Vô hiệu hóa hướng dẫn',
     sr: 'Искључи туторијал',
-    it: 'Disabilita il tutorial'
+    it: 'Disabilita il tutorial',
+    ja: 'チュートリアルを無効化'
   },
 
   // ---- map
@@ -667,7 +702,8 @@ export default {
     vi: 'Chế độ chất lượng thấp',
     sr: 'Мод лошијег квалитета',
     it: 'Modalità bassa qualità',
-    tr: 'Düşük kalite modu'
+    tr: 'Düşük kalite modu',
+    ja: '低品質モード'
   },
 
   mapshowmonsters: {
@@ -685,6 +721,7 @@ export default {
     vi: 'Hiển thị quái vật',
     sr: 'Приказуј чудовишта',
     it: 'Mostra i mostri',
-    tr: 'Canavarları göster'
+    tr: 'Canavarları göster',
+    ja: 'モンスターを表示'
   }
 }
