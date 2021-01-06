@@ -34,7 +34,7 @@ export default {
       pl: 'Tak, otwórz mój Stash.',
       bn: 'হ্যাঁ, আমার Stash খুলুন',
       it: 'Sì, apri il mio Stash.',
-      ja: 'はい、チェストを利用します。'
+      ja: 'はい、Stashを利用します。'
     }]
   }]
 }
