@@ -69,7 +69,7 @@ export default {
     vi: 'Rời khỏi Party',
     sr: 'Napusti party',
     it: 'Lasciare il party',
-    ja: 'Partyキック'
+    ja: 'Partyを去る'
   },
 
   // DO NOT translate "Party"
@@ -92,7 +92,7 @@ export default {
     vi: 'Tạo Party',
     sr: 'Kreiraj party',
     it: 'Creare il party',
-    ja: 'Party招待'
+    ja: 'Party作成'
   },
 
   // DO NOT translate "Party"
