@@ -12,7 +12,8 @@ export default {
       bn: 'খাঁটি মনের অন্তহীন সম্ভবনা থাকে; খালি পেয়ালা কেবল তখনই ব্যবহার করা যায় যখন তা সম্পূর্ণ খালি থাকে। আপনাকে আলোকিত পথের অভিমুখে যেতে আমি কিভাবে সাহায্য করতে পারি?',
       vi: 'Tâm trí thuần khiết có những khả năng vô tận; Một cốc rỗng chỉ có thể được sử dụng khi nó hoàn toàn trống rỗng. Làm thế nào tôi có thể giúp bạn đi đến con đường giác ngộ?',
       it: 'Le menti oppresse sono piene di opinioni in abbondanza; una tazza può essere molto utile se prima viene trovata vuota. Come posso aiutarti nel tuo cammino verso l\'illuminazione?',
-      tr: 'Yüklü zihinler bol miktarda fikirle doludur; İlk önce boş bulunursa bir fincan oldukça faydalı olabilir. Aydınlanmaya giden yolda sana nasıl yardımcı olabilirim?'
+      tr: 'Yüklü zihinler bol miktarda fikirle doludur; İlk önce boş bulunursa bir fincan oldukça faydalı olabilir. Aydınlanmaya giden yolda sana nasıl yardımcı olabilirim?',
+      ja: '滾る熱意は数多くの声により満たされている。空の器はより良いものへとなり得るのだ。今、其方の悟りへの道は開かれる。その身を委ねるが良い。'
     },
 
     choices: [{
@@ -29,7 +30,8 @@ export default {
       bn: 'আমার চরিত্রগত পয়েন্ট রিসেট করুন ( $g$1 )',
       vi: 'Cài đặt lại điểm tiềm năng ( $g$1 ).',
       it: 'Ripristina i miei punti status ( $g$1 )',
-      tr: 'İstatistik puanlarımı sıfırla ( $g$1 )'
+      tr: 'İstatistik puanlarımı sıfırla ( $g$1 )',
+      ja: 'ステータスポイントをリセットして下さい。 ( $g$1 )'
     }]
   }]
 }

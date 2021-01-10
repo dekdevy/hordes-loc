@@ -21,7 +21,8 @@ export default {
     vi: 'Vu thuật sư',
     cs: 'Šaman',
     sr: 'Шаман',
-    it: 'Sciamano'
+    it: 'Sciamano',
+    ja: '呪術師'
   },
 
   // Class description, visible during character creation
@@ -45,6 +46,7 @@ export default {
     vi: 'Vu thuật sư có vai trò hỗ trợ trong nhóm bằng cách hồi máu và cung cấp các Buff tấn công hoặc Debuff gây tê liệt.',
     cs: 'Šaman je podpůrná role, která poskytuje skupině léčení, převážně Tankovi. Zároveň poskytuje ofenzivní Buffy či zpomalovací Debuffy.',
     sr: 'Задатак Шамана је да подржи тим својом исцељујућом снагом која је усмерена на рањене ратнике. Шаман је у стању да шири благослове свом тиму и прокљиње своје противнике.',
-    it: 'Il ruolo dello sciamano è quello di sostenere il gruppo curando il Tank e conferendo Buff offensivi o Debuff paralizzanti ai nemici.'
+    it: 'Il ruolo dello sciamano è quello di sostenere il gruppo curando il Tank e conferendo Buff offensivi o Debuff paralizzanti ai nemici.',
+    ja: '呪術師の役割は、味方プレイヤーを回復したり、攻撃的なバフを与えたり、敵にデバフを与えたりしてグループをサポートする事です。'
   }
 }

@@ -18,7 +18,8 @@ export default {
     pl: 'Ekwipunek',
     vi: 'Hành trang',
     sr: 'Инвентар',
-    it: 'Inventario'
+    it: 'Inventario',
+    ja: 'インベントリ'
   },
 
   pick: {
@@ -39,7 +40,8 @@ export default {
     vi: 'Bạn nhặt được $1.',
     sr: 'Покупио си $1.',
     it: 'Hai raccolto $1.',
-    tr: 'Yerden $1 aldın.'
+    tr: 'Yerden $1 aldın.',
+    ja: '$1 を拾いました。'
   },
 
   throw: {
@@ -60,7 +62,8 @@ export default {
     pl: 'Wyrzucono: $1.',
     vi: 'Bạn đã vứt đi $1.',
     it: 'Hai gettato via $1.',
-    sr: 'Бацио си $1.'
+    sr: 'Бацио си $1.',
+    ja: '$1 を捨てました。'
   },
 
   full: {
@@ -81,7 +84,8 @@ export default {
     vi: 'Hành trang của bạn đã đầy',
     it: 'Il tuo inventario è pieno',
     sr: 'Твој инвентар је пун.',
-    tr: 'Enventerin dolu'
+    tr: 'Enventerin dolu',
+    ja: 'インベントリが満杯です。'
   },
 
   sold: {
@@ -102,7 +106,8 @@ export default {
     vi: 'Bạn đã bán $1.',
     it: 'Hai venduto $1.',
     sr: 'Продао си $1.',
-    tr: '$1 sattın.'
+    tr: '$1 sattın.',
+    ja: '$1 を売却しました。'
   },
 
   receive: {
@@ -123,7 +128,8 @@ export default {
     vi: 'Bạn vừa nhận được $1.',
     it: 'Hai ricevuto $1.',
     sr: 'Добио си $1.',
-    tr: '$1 elde ettin.'
+    tr: '$1 elde ettin.',
+    ja: '$1 を受け取りました。'
   },
 
   drop: {
@@ -144,7 +150,8 @@ export default {
     pl: 'Wyrzuć przedmiot',
     vi: 'Vứt vật phẩm',
     it: 'Rilascia l\'oggetto',
-    sr: 'Баци предмет'
+    sr: 'Баци предмет',
+    ja: '捨てる'
   },
 
   equip: {
@@ -165,7 +172,8 @@ export default {
     vi: 'Trang bị vật phẩm',
     it: 'Equipaggia l\'oggetto',
     sr: 'Опреми предмет',
-    tr: 'Eşyayı kuşan'
+    tr: 'Eşyayı kuşan',
+    ja: '装備する'
   },
 
   use: {
@@ -186,7 +194,8 @@ export default {
     pl: 'Użyj przedmiot',
     vi: 'Sử dụng vật phẩm',
     it: 'Usa l\'oggetto',
-    sr: 'Употреби предмет'
+    sr: 'Употреби предмет',
+    ja: '使用する'
   },
 
   copyitemid: {
@@ -195,7 +204,8 @@ export default {
     el: 'Αντιγραφή ID αντικειμένου',
     hu: 'Azonosító másolása',
     pt: 'Copiar ID do item',
-    tr: 'Eşya ID\'sini kopyala'
+    tr: 'Eşya ID\'sini kopyala',
+    ja: 'アイテムIDをコピー'
   },
 
   sell: {
@@ -204,7 +214,8 @@ export default {
     ru: 'Продать предмет',
     hu: 'Eladás',
     pt: 'Vender item',
-    tr: 'Eşya sat'
+    tr: 'Eşya sat',
+    ja: '売却する'
   },
 
   splithalf: {
@@ -220,7 +231,8 @@ export default {
     vi: 'Chia đôi',
     it: 'Dividi a metà',
     sr: 'Поделити на пола',
-    tr: 'İkiye böl'
+    tr: 'İkiye böl',
+    ja: '半分に分ける'
   },
 
   splitone: {
@@ -236,7 +248,8 @@ export default {
     vi: 'Tách làm một',
     it: 'Dividine uno',
     sr: 'Поделити један',
-    tr: 'Bir tane ayır'
+    tr: 'Bir tane ayır',
+    ja: '1つ分ける'
   },
 
   spend: {
@@ -257,7 +270,8 @@ export default {
     pl: 'Wydano $1.',
     vi: 'Bạn đã dành $1',
     it: 'Hai speso $1',
-    sr: 'Ти си потрошио $1.'
+    sr: 'Ти си потрошио $1.',
+    ja: '$1 支払いました。'
   },
 
   death: {
@@ -278,7 +292,8 @@ export default {
     pl: 'Podczas śmierci stracono $1.',
     vi: 'Bạn đã chết và mất $1',
     it: 'Sei morto e hai perso $1',
-    sr: 'Преминули сте и изгубили $1.'
+    sr: 'Преминули сте и изгубили $1.',
+    ja: '死亡した為 $1 失いました。'
   },
 
   bindlevel: [

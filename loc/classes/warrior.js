@@ -21,7 +21,8 @@ export default {
     vi: 'Chiến binh',
     cs: 'Válečník',
     sr: 'Ратник',
-    it: 'Guerriero'
+    it: 'Guerriero',
+    ja: '戦士'
   },
   // Class description, visible during character creation
   description: {
@@ -44,7 +45,8 @@ export default {
     vi: 'Chiến binh được xây dựng để chống chịu trước nhiều quái vật hơn các lớp nhân vật khác bởi vì có sức phòng thủ cao thông qua các trang bị (Khiên) và các buff phòng thủ mạnh mẽ.',
     cs: 'Válečníci jsou stavěni aby odolali více příšerám než ostatní povolání. Mají velice velkou obranu zkrze štít a obranné buffy.',
     sr: 'Ослањајући се на своју огромну одбрану и снагу, ратници се могу укључити у борбу против бројних непријатеља, тако да остали чланово његовог тима могу неометано користити магију.',
-    it: 'I Guerrieri sono creati per tankare più mostri rispetto alle altri classi avendo una difesa alta grazie a scudi e forti buff difensivi.'
+    it: 'I Guerrieri sono creati per tankare più mostri rispetto alle altri classi avendo una difesa alta grazie a scudi e forti buff difensivi.',
+    ja: '戦士は装備(盾)と強力な防御バフによる高い防御力により、他のどの職業よりもモンスターを引き付けられるよう作られています。'
 
   }
 }
