@@ -9,7 +9,7 @@ export default {
     fr: 'Vous devez attendre jusqu\'à ce que vous puissiez récupérer cet objet',
     es: 'Tiene que esperar hasta que pueda recuperar este item.',
     nl: 'Je moet wachten tot je dit item kan terugvinden.',
-    ko: '이 항목을 가져올 때까지 기다려야합니다.',
+    ko: '이 아이템을 받을 때까지 기다려야합니다.',
     hi: 'आपको इस आइटम को पुनः प्राप्त करने तक इंतजार करना होगा।',
     ro: 'Trebuie să aștepți până să poți recupera acest obiect.',
     zh: '您必须等到可以取回这个装备。',
@@ -33,7 +33,7 @@ export default {
     pt: 'Retirar',
     ro: 'Retrage',
     hi: 'निकालना',
-    ko: '빼다',
+    ko: '가져오기',
     tr: 'Çekil',
     zh: '退出',
     hu: 'Kivesz',
@@ -58,7 +58,8 @@ export default {
     hu: 'Betesz',
     pt: 'Depósito',
     tr: 'Yatır',
-    ja: '預ける'
+    ja: '預ける',
+    ko: '두고 가기'
   },
 
   // Do not translate "Stash".
