@@ -78,7 +78,7 @@ export default {
     },
     {
       en: 'You can see all equipped items in your character panel.'
-      it: 'Qui puoi vedere tutti i tuoi oggetti equipaggiati.'
+      // it: 'Qui puoi vedere tutti i tuoi oggetti equipaggiati.'
       // pt: 'Você pode ver todos os itens equipados no seu personagem nesse painel.'
     },
     {
