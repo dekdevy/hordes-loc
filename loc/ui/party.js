@@ -38,7 +38,7 @@ export default {
     nl: 'Paty Uitgooien',
     tr: 'Party\'den at',
     hi: 'Party से निकाले',
-    ko: 'Party 킥',
+    ko: 'Party 강퇴',
     ro: 'Lovitură de Party',
     zh: '踢出 Party',
     hu: 'Kirúgás a Partydból',
@@ -107,7 +107,7 @@ export default {
     tr: '$1 seni Party\'sine davet etti.',
     pt: '$1 convidou-te para te juntares à Party deles.',
     hi: '$1 उनकेPartyमें शामिल होने के लिए आपको आमंत्रित किया है।',
-    ko: '$1 님이 Party 에 가입하도록 초대했습니다.',
+    ko: '$1 님이 자신의 Party에 당신을 초대했습니다.',
     ro: '$1 te-a invitat să te alături Party-ului',
     zh: '$1 邀请你加入他们的 Party.',
     hu: '$1 meghívott a Partyjába.',
@@ -151,7 +151,7 @@ export default {
     nl: 'Stuur deze link naar andere spelers! Dit zal hen in staat stellen om zich aan te sluiten bij je Party.',
     es: '¡Envía este enlace a otros jugadores! Esto les permitirá unirse a tu Party.',
     tr: 'Bu bağlantıyı diğer oyunculara gönder! Bu onların Party\'ne katılmasını sağlayacak.',
-    ko: '이 링크를 다른 플레이어에게 보내십시오! 그러면 party 에 가입 할 수 있습니다.',
+    ko: '이 링크를 다른 플레이어에게 보내면 가입이 가능합니다.',
     ro: 'Trimi-te acest link altor jucători! Le va permite să se alăture Party-ului tău.',
     hu: 'Küldd el ezt más játékosoknak, hogy beléphessenek a Partydba.',
     pl: 'Wyślij ten link do innych graczy! Pozwoli im to na dołączenie do twojego Party.',
@@ -176,7 +176,7 @@ export default {
     nl: 'Kopieer naar klembord',
     pt: 'Copiar para a Área de transferência',
     hi: 'क्लिपबोर्ड पर कॉपी करें',
-    ko: '클립 보드에 복사',
+    ko: '클립보드에 복사',
     ro: 'Copiați în clipboard',
     hu: 'Másold a vágólapra',
     pl: 'Kopiuj do schowka',
@@ -200,7 +200,8 @@ export default {
     sr: 'Prizovi',
     it: 'Evoca',
     tr: 'Çağır',
-    ja: '召喚'
+    ja: '召喚',
+    ko: '소환'
   },
 
   onSummon: {
@@ -217,7 +218,8 @@ export default {
     vi: '$1 đang triệu hồi bạn đế vị trí của họ.',
     sr: '$1 nudi da te prizove na njegovu/njenu lokaciju.',
     it: '$1 si offre di evocarti nella loro posizione.',
-    ja: '$1 が貴方を召喚しようとしています。'
+    ja: '$1 が貴方を召喚しようとしています。',
+    ko: '$1 이 당신을 자신이 위치한 장소로 소환하려 합니다.'
   },
 
   // Do not translate "Assistant".
@@ -235,7 +237,8 @@ export default {
     vi: 'Thăng chức lên Assistant',
     sr: 'Unapredi u Assistant-a',
     it: 'Promuovi ad Assistant',
-    ja: 'Assistant へ昇格'
+    ja: 'Assistant へ昇格',
+    ko: 'Assistant으로 승급'
   },
 
   // Do not translate "Leader".
@@ -253,7 +256,8 @@ export default {
     vi: 'Thăng chức lên Leader',
     sr: 'Unapredi u Leader-a',
     it: 'Promuovi a Leader',
-    ja: 'Leader へ昇格'
+    ja: 'Leader へ昇格',
+    ko: 'Leader로 승급'
   },
 
   // Do not translate"Assistant".
@@ -271,7 +275,8 @@ export default {
     vi: 'Giáng chức xuống Assitant',
     sr: 'Unazadi Assistant-a',
     it: 'Retrocesso ad Assistant',
-    ja: 'Assistant へ降格'
+    ja: 'Assistant へ降格',
+    ko: 'Assistant 강등'
   },
 
   startQueue: {
@@ -288,7 +293,8 @@ export default {
     sr: 'Red',
     it: 'Coda',
     pt: 'Na fila',
-    ja: 'キュー'
+    ja: 'キュー',
+    ko: '매칭'
   },
 
   stopQueue: {
@@ -305,6 +311,7 @@ export default {
     sr: 'Napusti red',
     it: 'Esci dalla Coda',
     pt: 'Sair da fila',
-    ja: 'キューを去る'
+    ja: 'キューを去る',
+    ko: '매칭 중단'
   }
 }
