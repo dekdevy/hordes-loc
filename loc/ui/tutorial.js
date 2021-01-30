@@ -213,7 +213,7 @@ export default {
     },
     {
       en: 'Alright, close the settings again.'
-      it: 'Bene, chiudi di nuovo le impostazioni.'
+      // it: 'Bene, chiudi di nuovo le impostazioni.'
       // pt: 'Tudo certo, feche as configurações novamente'
     },
     {
