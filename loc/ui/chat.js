@@ -19,7 +19,7 @@ export default {
     cs: 'Šepot',
     sr: 'Шапући',
     it: 'Sussurro',
-    ko: '귓말',   
+    ko: '귓말',
     ja: 'ひそひそ話'
   },
 
@@ -147,7 +147,7 @@ export default {
       cs: 'Smrt',
       sr: 'Смрт',
       it: 'Morte',
-      ko: '사망',  
+      ko: '사망',
       ja: '死亡'
     },
     {
@@ -211,7 +211,6 @@ export default {
       sr: 'Аукција',
       it: 'Vendita all \'asta',
       tr: 'Açık Arttırma',
-      ko: '경매',
       ja: '競売'
     },
     {
