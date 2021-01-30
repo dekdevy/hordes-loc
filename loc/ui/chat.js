@@ -7,7 +7,6 @@ export default {
     es: 'Susurro',
     de: 'Flüstern',
     fr: 'Chuchoter',
-    ko: '속삭임',
     tr: 'Fısıltı',
     nl: 'Fluisteren',
     pt: 'Sussurro',
@@ -20,6 +19,7 @@ export default {
     cs: 'Šepot',
     sr: 'Шапући',
     it: 'Sussurro',
+    ko: '귓말',   
     ja: 'ひそひそ話'
   },
 
@@ -42,6 +42,7 @@ export default {
       cs: 'Získání zkušeností',
       sr: 'EXP Добитак',
       it: 'Guadagno di Exp',
+      ko: '경험치',
       ja: 'Exp 獲得'
     },
     {
@@ -50,7 +51,7 @@ export default {
       de: 'Ziel gewechselt',
       ru: 'Смена цели',
       fr: 'Changement de Cible',
-      es: 'Cambio de Objetivo',
+      es: 'Cambio de Objetivo',      
       pt: 'Mudança de Alvo',
       nl: 'Verander Doelwit',
       hu: 'Célpont Megváltoztatása',
@@ -59,9 +60,10 @@ export default {
       bn: 'লক্ষ্য পরিবর্তন',
       vi: 'Mục tiêu thay đổi',
       cs: 'Změna cíle',
-      sr: 'Промена мете',
+      sr: 'Промена мете', 
       it: 'Cambio di Target',
       tr: 'Hedef Değişimi',
+      ko: '목표 변경',
       ja: 'ターゲット変更'
     },
     {
@@ -82,6 +84,7 @@ export default {
       sr: 'Бацити',
       it: 'Invocare',
       tr: 'Büyü',
+      ko: '발동하다',
       ja: 'キャスト'
     },
     {
@@ -102,6 +105,7 @@ export default {
       cs: 'Poškození',
       sr: 'Штета',
       it: 'Danno',
+      ko: '피해량',
       ja: 'ダメージ'
     },
     {
@@ -122,6 +126,7 @@ export default {
       cs: 'Vyléčení',
       sr: 'Оздравити',
       it: 'Cura',
+      ko: '치유',
       ja: 'ヒール'
     },
     {
@@ -135,13 +140,14 @@ export default {
       tr: 'Ölüm',
       nl: 'Dood',
       hu: 'Halál',
-      zh: '死亡',
+      zh: '死亡',    
       pl: 'śmierć',
       bn: 'মৃত্যু',
       vi: 'Chết',
       cs: 'Smrt',
       sr: 'Смрт',
       it: 'Morte',
+      ko: '사망',  
       ja: '死亡'
     },
     {
@@ -162,6 +168,7 @@ export default {
       sr: 'Нови ниво',
       it: 'Nuovo Livello',
       tr: 'Seviye Atlama',
+      ko: '레벨 업',
       ja: 'レベルアップ'
     },
     {
@@ -182,6 +189,7 @@ export default {
       sr: 'Предмети',
       it: 'Oggetti',
       tr: 'Eşyalar',
+      ko: '아이템',
       ja: 'アイテム'
     },
     {
@@ -195,6 +203,7 @@ export default {
       nl: 'Veiling',
       hu: 'Aukció',
       zh: '拍賣',
+      ko: '경매',
       pl: 'Aukcja',
       bn: 'নিলাম',
       vi: 'Nhà đấu giá',
@@ -202,6 +211,7 @@ export default {
       sr: 'Аукција',
       it: 'Vendita all \'asta',
       tr: 'Açık Arttırma',
+      ko: '경매',
       ja: '競売'
     },
     {
@@ -222,6 +232,7 @@ export default {
       sr: 'Покупи злато',
       it: 'Colleziona l\'oro',
       tr: 'Altını Topla',
+      ko: '골드를 줍기',
       ja: 'ゴールド獲得'
     },
     {
@@ -242,6 +253,7 @@ export default {
       sr: 'Потрошено злато',
       it: 'Spendi l\'oro',
       tr: 'Altın Harca',
+      ko: '골드를 쓰다',
       ja: 'ゴールド支払'
     },
     {
@@ -262,6 +274,7 @@ export default {
       cs: 'Získání slávy',
       sr: 'Добитак славе',
       it: 'Guadagno della Fama',
+      ko: '명성을 얻다',
       ja: '名声獲得'
     }
   ]
