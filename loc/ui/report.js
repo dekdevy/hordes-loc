@@ -1,12 +1,30 @@
 // Work in progress, do not translate
 export default {
   reasons: [
-    {en: 'Offensive Chat'},
-    {en: 'Multiboxing'},
-    {en: 'Scamming'},
-    {en: 'Cheating / Exploiting'},
-    {en: 'Offensive Name'},
-    {en: 'Botting'}
+    {
+      en: 'Offensive Chat',
+      ru: 'Оскорбления в чате'
+    },
+    {
+      en: 'Multiboxing',
+      ru: 'Множественные аккаунты'
+    },
+    {
+      en: 'Scamming',
+      ru: 'Мошенничество'
+    },
+    {
+      en: 'Cheating / Exploiting',
+      ru: 'Читы / Взлом'
+    },
+    {
+      en: 'Offensive Name', 
+      ru: 'Оскорбительное имя'
+    },
+    {
+      en: 'Botting',
+      ru: 'Бот'
+    }
   ],
   info: [
     { en: 'Spam, offensive language (explicit, LGBTQ-phobic, racist, NSFW, etc.), impersonation, doxing, advertising things that break the TOS. Note that mild banter is allowed. Do not report multiple messages; a single report will suffice.' },

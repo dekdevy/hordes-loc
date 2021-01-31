@@ -2,12 +2,14 @@
 export default {
   msg: [
     {
-      en: 'Welcome! Press <kbd>W A S D</kbd> or <kbd>⭠ ⭢ ⭡ ⭣</kbd> to move.'
+      en: 'Welcome! Press <kbd>W A S D</kbd> or <kbd>⭠ ⭢ ⭡ ⭣</kbd> to move.',
+      ru: 'Добро пожаловать! Нажмите <kbd>W A S D</kbd> или <kbd>⭠ ⭢ ⭡ ⭣</kbd> для перемещения.'
       // it: 'Benvenuto! Premi <kbd>W A S D</kbd> o <kbd>⭠ ⭢ ⭡ ⭣</kbd> per muoverti.'
       // pt: 'Olá! Pressione <kbd>W A S D</kbd> ou <kbd>⭠ ⭢ ⭡ ⭣</kbd> para se mover.'
     },
     {
-      en: 'Great job! Now, <kbd>left/right click</kbd> and drag your mouse to rotate the camera.'
+      en: 'Great job! Now, <kbd>left/right click</kbd> and drag your mouse to rotate the camera.',
+      ru: 'Хорошая работа! Сейчас, <kbd>левый/правый клик</kbd> и перемещайте мышь для поворота камеры.'
       // it: 'Bravo! Adesso, <kbd>click sinistro/destro</kbd> e muovi il tuo mouse per muovere la visuale.'
       // pt: 'Bom trabalho! Agora, use o <kbd>left/right click</kbd> e arraste para mover a câmera.'
     },
