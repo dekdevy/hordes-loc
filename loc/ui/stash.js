@@ -4,7 +4,7 @@ export default {
     en: 'You have to wait until you can retrieve this item.',
     el: 'Πρέπει να περιμένετε για να ανακτήσετε αυτό το αντικείμενο.',
     de: 'Du musst noch etwas warten, bis du dieses Item entnehmen kannst.',
-    ru: 'Вы должны подождать перед тем как вы можете получить этот предмет.',
+    ru: 'Вы должны подождать, прежде чем получить этот предмет.',
     pt: 'Você tem de esperar até que possa recuperar este item.',
     fr: 'Vous devez attendre jusqu\'à ce que vous puissiez récupérer cet objet',
     es: 'Tiene que esperar hasta que pueda recuperar este item.',
