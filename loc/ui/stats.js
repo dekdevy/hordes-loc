@@ -372,6 +372,7 @@ export default {
       el: 'Εκτίμηση',
       ru: 'Рейтинг',
       hu: 'Értékelés',
+      fr: 'Notation',
       tr: 'Değerlendirme',
       ja: 'レーティング'
     },
