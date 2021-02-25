@@ -454,6 +454,7 @@ export default {
     ru: 'Громкость окружения',
     hu: 'Környezet hangereje',
     pt: 'Som ambiente',
+    fr: 'Volume d\'ambiance',
     tr: 'Ambiyans sesi',
     ja: '環境音'
   },
