@@ -265,7 +265,7 @@ export default [{
   description: {
     en: 'Your Precise Shot applies a poisonous Debuff on hit, damaging and slowing your enemies.',
     ru: 'Ваши Precise Shots наносит ядовитый дебафф при ударе, повреждая и замедляя врагов.',
-    fr: 'Votre Precise Shot applique un affaiblissment toxique à l\impact, infligeant des dégats et ralentissant vos ennemis.'
+    fr: 'Votre Precise Shot applique un affaiblissment toxique à l\'impact, infligeant des dégats et ralentissant vos ennemis.'
   }
 },
 {
