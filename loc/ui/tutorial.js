@@ -14,7 +14,6 @@ export default {
       // it: 'Bravo! Adesso, <kbd>click sinistro/destro</kbd> e muovi il tuo mouse per muovere la visuale.'
       // pt: 'Bom trabalho! Agora, use o <kbd>left/right click</kbd> e arraste para mover a câmera.'
       // fr: 'Bien joué! Maintenant, utilisez <kbd>clic gauche/droit</kbd> en déplaçant votre souris pour déplacer la caméra.'
-      
     },
     {
       en: 'To prepare you for combat, I will explain the UI elements.'
