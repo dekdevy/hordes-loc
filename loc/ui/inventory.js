@@ -163,7 +163,7 @@ export default {
     pt: 'Equipar item',
     ko: '아이템 착용',
     de: 'Item ausrüsten',
-    fr: 'Equipez l\'item',
+    fr: 'Equiper l\'item',
     nl: 'Rust uw item uit',
     ro: 'Echipează obiectul',
     zh: '上装备',
