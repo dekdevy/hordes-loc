@@ -16,7 +16,7 @@ export default {
     tr: '$1 klanına katıldı.',
     ja: '$1 がクランに入りました。',
     ko: '$1 이 클랜에 들어왔습니다.',
-    cs: '$1 se přidal k vašemu klanu.',
+    cs: '$1 se přidal k vašemu klanu.'
   },
   clanMemberInvite: {
     en: 'A clan invitation has been sent to $1.',
@@ -35,7 +35,7 @@ export default {
     tr: '$1 oyuncusuna bir klan isteği gönderildi',
     ja: 'クランの招待が $1 へ送られました。',
     ko: '$1 에게 클랜 초대장을 보냈습니다.',
-    cs: 'Klanová pozvánka byla odeslána $1.',
+    cs: 'Klanová pozvánka byla odeslána $1.'
   },
   clanMemberLeave: {
     en: '$1 has left your clan.',
@@ -54,7 +54,7 @@ export default {
     tr: '$1 klanından ayrıldı.',
     ja: '$1 がクランを去りました。',
     ko: '$1 이 클랜을 떠났습니다.',
-    cs: '$1 opustil váš klan.',
+    cs: '$1 opustil váš klan.'
   },
   clanMemberApply: {
     en: '$1 has applied to join your clan.',
@@ -73,7 +73,7 @@ export default {
     tr: '$1 klanına katılma isteği gönderdi.',
     ja: '$1 がクラン入隊の志願を送りました。',
     ko: '$1 이(가) 클랜에 참여하고 싶어합니다.',
-    cs: '$1 přijal vaši pozvánku do klanu.',
+    cs: '$1 přijal vaši pozvánku do klanu.'
   },
   clanMemberRolePromote: {
     en: '$1 was promoted in clan role.',
@@ -92,7 +92,7 @@ export default {
     tr: '$1 klanda terfi edildi.',
     ja: '$1 のクランロールが昇格しました。',
     ko: '$1 이(가) 승급했습니다',
-    cs: '$1 byl povýšen v klanové hodnosti.',
+    cs: '$1 byl povýšen v klanové hodnosti.'
   },
   clanMemberRoleDemote: {
     en: '$1 was demoted in clan role.',
@@ -111,7 +111,7 @@ export default {
     tr: '$1 klan rütbesi düşürüldü.',
     ja: '$1 のクランロールが降格しました。',
     ko: '$1 이(가) 강등되었습니다.',
-    cs: '$1 byl degradován v klanové hodnosti.',
+    cs: '$1 byl degradován v klanové hodnosti.'
   },
   clanKickOther: {
     en: '$1 was kicked from your clan.',
@@ -149,7 +149,7 @@ export default {
     tr: 'Klandan atıldın.',
     ja: 'クランから解雇されました。',
     ko: '클랜에서 강제 탈퇴되었습니다.',
-    cs: 'Byl jsi vyhozen z klanu.',
+    cs: 'Byl jsi vyhozen z klanu.'
   },
   partyMemberInvite: { // Do not translate "party".
     en: '$1 has been invited by $2 to join your party.',
@@ -168,7 +168,7 @@ export default {
     tr: '$1, partye katılmak için $2 tarafından davet edildi',
     ja: '$1 が $2 によりpartyに招待されました。',
     ko: '$2 가 $1 을 Party에 초대했습니다.',
-    cs: '$1 byl pozván hráčem $2 do vaší party.',
+    cs: '$1 byl pozván hráčem $2 do vaší party.'
   },
   partyMemberJoin: { // Do not translate "party".
     en: '$1 has joined your party.',
@@ -226,7 +226,7 @@ export default {
     tr: '$1 partye katılma isteğini reddetti.',
     ja: '$1 がpartyへの参入を拒否しました。',
     ko: '$1 이(가) Party 참여를 거절했습니다.',
-    cs: '$1 odmítl vaši pozvánku do party.',
+    cs: '$1 odmítl vaši pozvánku do party.'
   },
   partyMemberPromote: { // Do not translate "party".
     en: '$1 has been promoted in party role.',
@@ -319,7 +319,7 @@ export default {
     tr: '$1 tarafından partyden atıldın.',
     ja: '$1 からpartyキックされました。',
     ko: '$1 에 의해 Party에서 강제 탈퇴되었습니다.',
-    cs: 'Byl jsi vyhozen z party hráčem $1.',
+    cs: 'Byl jsi vyhozen z party hráčem $1.'
   },
   partyKickOther: { // Do not translate "party".
     en: '$1 was kicked from your party by $2.',
@@ -338,7 +338,7 @@ export default {
     tr: '$1, partyden $2 tarafından atıldı.',
     ja: '$1 が $2 によりpartyキックされました。',
     ko: '$1 이(가) $2에 의해 Party에서 강제 탈퇴되었습니다.',
-    cs: '$1 byl vyhozen z vaší párty hráčem $2.',
+    cs: '$1 byl vyhozen z vaší párty hráčem $2.'
   },
   partyQueueStart: { // Do not translate "party".
     en: 'Your party has started queue type: $1.',
@@ -356,7 +356,7 @@ export default {
     tr: 'Partynizin başlayan sıra türü: $1',
     ja: 'Partyが $1 キューを開始しました。',
     ko: 'Party가 $1 전 매칭을 시작했습니다.',
-    cs: 'Vaše party se přidala do fronty: $1',
+    cs: 'Vaše party se přidala do fronty: $1'
   },
   partyQueueStop: { // Do not translate "party".
     en: 'Your party has stopped queue type: $1.',
@@ -410,7 +410,7 @@ export default {
     it: 'Il tuo oggetto messo all\'asta è stata venduto e $g$1 è stato inviato al tuo Stash.',
     tr: 'Açık arttırmadaki eşyanız satıldı ve $g$1 Stashe gönderildi.',
     ja: '出品した商品が購入され、 $g$1 がStashに送られました。',
-    cs: 'Vaše zboží z aukce bylo prodané za $g$1 a odeslané do vaší pokladny.',
+    cs: 'Vaše zboží z aukce bylo prodané za $g$1 a odeslané do vaší pokladny.'
 
   },
   online: {
@@ -430,7 +430,7 @@ export default {
     tr: '$1 çevrimiçi oldu.',
     ja: '$1 がオンラインになりました。',
     ko: '$1 이(가) 온라인 상태입니다.',
-    cs: '$1 se přihlásil do hry.',
+    cs: '$1 se přihlásil do hry.'
   },
   offline: {
     en: '$1 has gone offline.',
