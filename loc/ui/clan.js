@@ -20,7 +20,8 @@ export default {
     vi: 'Rời khỏi bang',
     sr: 'Напусти клан',
     it: 'Lascia il clan',
-    ja: 'クランを去る'
+    ja: 'クランを去る',
+    cs: 'Opustit Klan'
   },
 
   heading: {
@@ -43,7 +44,8 @@ export default {
     vi: 'Bang',
     sr: 'Клан',
     it: 'Clan',
-    ja: 'クラン'
+    ja: 'クラン',
+    cs: 'Klan'
   },
 
   createheading: {
@@ -66,7 +68,8 @@ export default {
     vi: 'Tạo bang',
     sr: 'Креирај клан',
     it: 'Crea un Clan',
-    ja: 'クランを作成'
+    ja: 'クランを作成',
+    cs: 'Vytvořit klan'
   },
 
   createname: {
@@ -89,7 +92,8 @@ export default {
     vi: 'Tên bang',
     sr: 'Назив клана',
     it: 'Nome del Clan',
-    ja: 'クランの名前'
+    ja: 'クランの名前',
+    cs: 'Název Klanu'
   },
 
   createtag: {
@@ -112,7 +116,8 @@ export default {
     vi: 'Thẻ bang',
     sr: 'Клан Таг',
     it: 'Tag del Clan',
-    ja: 'クランのタグ'
+    ja: 'クランのタグ',
+    cs: 'Klan Tag'
   },
 
   createbutton: {
@@ -135,7 +140,8 @@ export default {
     vi: 'Tạo',
     sr: 'Креирај',
     it: 'Crea',
-    ja: '作成'
+    ja: '作成',
+    cs: 'Vytvořit'
   },
 
   roles: [
