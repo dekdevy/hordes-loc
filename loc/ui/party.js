@@ -24,7 +24,7 @@ export default {
     sr: 'Pozivnica za party',
     it: 'Invito al party.',
     ja: 'Party招待',
-    cs: 'Pozvat do party',
+    cs: 'Pozvat do party'
   },
 
   // DO NOT translate "Party"
@@ -48,7 +48,7 @@ export default {
     sr: 'Izbacivanje iz party-ja',
     it: 'Cacciare dal party',
     ja: 'Partyキック',
-    cs: 'Vyhodit z party',
+    cs: 'Vyhodit z party'
   },
 
   // DO NOT translate "Party"
@@ -72,7 +72,7 @@ export default {
     sr: 'Napusti party',
     it: 'Lasciare il party',
     ja: 'Partyを去る',
-    cs: 'Opustit party',
+    cs: 'Opustit party'
   },
 
   // DO NOT translate "Party"
@@ -96,7 +96,7 @@ export default {
     sr: 'Kreiraj party',
     it: 'Creare il party',
     ja: 'Party作成',
-    cs: 'Vytvořit Party',
+    cs: 'Vytvořit Party'
   },
 
   // DO NOT translate "Party"
@@ -120,7 +120,7 @@ export default {
     sr: '$1 te je pozvao/la da se pridružiš party-ju.',
     it: '$1 ti ha inviato ad entrare nel suo party.',
     ja: '$1 が貴方をPartyに招待しました。',
-    cs: '$1 tě pozval do jejich Party',
+    cs: '$1 tě pozval do jejich Party'
   },
 
   link: {
@@ -142,7 +142,7 @@ export default {
     sr: 'Pozivnica',
     it: 'Link di invito',
     ja: '招待リンク',
-    cs: 'Odkaz k pozvánce',
+    cs: 'Odkaz k pozvánce'
   },
 
   // DO NOT translate "Party"
@@ -165,7 +165,7 @@ export default {
     sr: 'Pošalji ovaj link ostalim igračima! To će im omugućiti da se pridruže tvom party-ju.',
     it: 'Invia questo link ad altri giocatori! Ciò consentirà loro di unirsi al tuo Party.',
     ja: 'このリンクを他のプレイヤーに送りましょう！Partyに招待する事が出来ます。',
-    cs: 'Pošli tento odkaz ostatnm hráčům! Tento odkaz jim umožní se připojit do tvé Party',
+    cs: 'Pošli tento odkaz ostatnm hráčům! Tento odkaz jim umožní se připojit do tvé Party'
   },
 
   copyLink: {
@@ -191,7 +191,7 @@ export default {
     sr: 'Kopiraj u prviremenu memoriju',
     it: 'Copia negli appunti',
     ja: 'クリップボードへコピー',
-    cs: 'Zkopírovat do schránky',
+    cs: 'Zkopírovat do schránky'
   },
 
   summon: {
@@ -229,7 +229,7 @@ export default {
     it: '$1 si offre di evocarti nella loro posizione.',
     ja: '$1 が貴方を召喚しようとしています。',
     ko: '$1 이 당신을 자신이 위치한 장소로 소환하려 합니다.',
-    cs: '$1 ti nabízí vyvolání do jejich lokace',
+    cs: '$1 ti nabízí vyvolání do jejich lokace'
   },
 
   // Do not translate "Assistant".
@@ -249,7 +249,7 @@ export default {
     it: 'Promuovi ad Assistant',
     ja: 'Assistant へ昇格',
     ko: 'Assistant으로 승급',
-    cs: 'Povýšit na Assistant',
+    cs: 'Povýšit na Assistant'
   },
 
   // Do not translate "Leader".
