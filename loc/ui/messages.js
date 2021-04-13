@@ -53,7 +53,7 @@ export default {
     it: '$1 è uscito dal tuo clan.',
     tr: '$1 klanından ayrıldı.',
     ja: '$1 がクランを去りました。',
-    ko: '$1 이 클랜을 떠났습니다.'
+    ko: '$1 이 클랜을 떠났습니다.',
     cs: '$1 opustil váš klan.',
   },
   clanMemberApply: {
@@ -72,7 +72,7 @@ export default {
     it: '$1 ha fatto domanda per unirsi al clan.',
     tr: '$1 klanına katılma isteği gönderdi.',
     ja: '$1 がクラン入隊の志願を送りました。',
-    ko: '$1 이(가) 클랜에 참여하고 싶어합니다.'
+    ko: '$1 이(가) 클랜에 참여하고 싶어합니다.',
     cs: '$1 přijal vaši pozvánku do klanu.',
   },
   clanMemberRolePromote: {
@@ -130,7 +130,7 @@ export default {
     tr: '$1 klanından atıldı.',
     ja: '$1 がクランから解雇されました。',
     ko: '$1 은 클랜에서 강제 탈퇴되었습니다.',
-    cs: '$1 byl vyhozen z vašeho klanu.,
+    cs: '$1 byl vyhozen z vašeho klanu.'
   },
   clanKickYou: {
     en: 'You were kicked from your clan.',
@@ -187,7 +187,7 @@ export default {
     tr: '$1 partye katıldı.',
     ja: '$1 がpartyに加わりました。',
     ko: '$1 이 Party에 들어왔습니다.',
-    cs: '$1 se připojil do vaší party.,
+    cs: '$1 se připojil do vaší party.'
 
   },
   partyMemberLeave: { // Do not translate "party".
@@ -206,7 +206,7 @@ export default {
     it: '$1 è uscito dal tuo party.',
     tr: '$1 partyden ayrıldı.',
     ja: '$1 がpartyを去りました。',
-    ko: '$1 이 Party를 떠났습니다.'
+    ko: '$1 이 Party를 떠났습니다.',
     cs: '$1 opustil party.'
   },
   partyInvitationDecline: { // Do not translate "party".
