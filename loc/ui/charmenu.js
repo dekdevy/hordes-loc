@@ -116,7 +116,7 @@ export default {
       pl: 'Problem z siecią',
       bn: 'নেটওয়ার্কে সমস্যা',
       vi: 'Lỗi kết nối mạng',
-      cs: 'Network Error',
+      cs: 'Problém s připojením',
       sr: 'Грешка при конекцији',
       it: 'Errore di rete',
       ja: 'ネットワークエラー'
@@ -143,7 +143,7 @@ export default {
       pl: 'Tworzenie Postaci',
       bn: 'চরিত্র নির্মাণ',
       vi: 'Tạo nhân vật',
-      cs: 'Vytváření postavy',
+      cs: 'Tvorba postav',
       sr: 'Креирање играча',
       it: 'Creazione del personaggio',
       ja: 'キャラクター作成'
@@ -167,7 +167,7 @@ export default {
       pl: 'Kliknij ikonę aby wyświetlić krótki opis.',
       bn: 'সংক্ষিপ্ত বিবরণের জন্য ছবিতে ক্লিক করুন।',
       vi: 'Nhấn biểu tượng để xem mô tả ngắn gọn.',
-      cs: 'Klikni na ikonu pro stručný popis.',
+      cs: 'Stisknutím ikony zobrazíte stručný popis.',
       sr: 'Притисни на икону за кратак опис.',
       it: 'Premi un\'icona per una breve descrizione.',
       ja: 'クリックすると簡単な説明を表示します。'
@@ -314,7 +314,7 @@ export default {
       pl: 'Aby usunąć, wpisz imię postaci. Przywrócenie postaci nie będzie możliwe.',
       bn: 'মুছে ফেলতে, চরিত্রের নামটি টাইপ করুন। আপনার মুছে ফেলা চরিত্রটি পুনরুদ্ধার করা সম্ভব না।',
       vi: 'Để xóa, gõ tên nhân vật. Nhân vật của bạn không thể phục hồi.',
-      cs: 'Pro smazaní napiš jméno tvé postavy. Tvoje postava již nemůže být obnovena.',
+      cs: 'Pro smazaní napiš jméno tvé postavy. Vaši postavu poté nebude možné obnovit.',
       sr: 'Да избришеш играча, унеси његово име. Играч неће моћи бити враћен.',
       it: 'Per cancellare, digita il nome del personaggio. Il tuo personaggio non può essere ripristinato.',
       ja: 'キャラクターを削除するには、削除したいキャラクターの名前を入力して下さい。一度消すと元には戻りません。'

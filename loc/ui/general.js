@@ -20,7 +20,8 @@ export default {
     vi: 'Đồng ý',
     sr: 'Добро',
     it: 'Ok',
-    ja: '決定'
+    ja: '決定',
+    cs: 'Oke'
   },
 
   back: {
@@ -43,7 +44,8 @@ export default {
     vi: 'Trở về',
     sr: 'Назад',
     it: 'Indietro',
-    ja: '戻る'
+    ja: '戻る',
+    cs: 'Zpět'
   },
 
   accept: {
@@ -66,7 +68,8 @@ export default {
     vi: 'Chấp nhận',
     sr: 'Прихвати',
     it: 'Accetta',
-    ja: '承認'
+    ja: '承認',
+    cs: 'Potvrdit'
   },
 
   cancel: {
@@ -89,7 +92,8 @@ export default {
     vi: 'Hủy bỏ',
     sr: 'Откажи',
     it: 'Annullare',
-    ja: 'キャンセル'
+    ja: 'キャンセル',
+    cs: 'Zrušit'
   },
 
   decline: {
@@ -112,7 +116,8 @@ export default {
     vi: 'Từ chối',
     sr: 'Одбиј',
     it: 'Declina',
-    ja: '拒否'
+    ja: '拒否',
+    cs: 'Odmitnout'
   },
 
   close: {
@@ -135,6 +140,7 @@ export default {
     vi: 'Đóng',
     sr: 'Затвори',
     it: 'Chiudi',
-    ja: '閉じる'
+    ja: '閉じる',
+    cs: 'Zavřít'
   }
 }
