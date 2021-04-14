@@ -24,7 +24,7 @@ export default {
     sr: 'Одјави се',
     it: 'Disconnetti',
     ja: 'ログアウト',
-    cs: 'Odhlasit se'
+    
   },
 
   home: {
@@ -50,6 +50,6 @@ export default {
     sr: 'Почетна',
     it: 'Inizio',
     ja: 'ホーム',
-    cs: 'Domů'
+    
   }
 }
