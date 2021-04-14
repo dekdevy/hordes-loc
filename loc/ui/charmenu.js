@@ -294,7 +294,7 @@ export default {
       sr: 'Избрисати',
       it: 'Rimuovi',
       ja: '削除'
-          },
+    },
 
     info: {
       en: 'To delete, type the character\'s name. Your character can not be restored.',
@@ -318,7 +318,7 @@ export default {
       sr: 'Да избришеш играча, унеси његово име. Играч неће моћи бити враћен.',
       it: 'Per cancellare, digita il nome del personaggio. Il tuo personaggio non può essere ripristinato.',
       ja: 'キャラクターを削除するには、削除したいキャラクターの名前を入力して下さい。一度消すと元には戻りません。'
-          },
+    },
 
     placeholder: {
       en: 'Are you sure?',
@@ -342,6 +342,6 @@ export default {
       sr: 'Да ли си сигуран?',
       it: 'Sei sicuro?',
       ja: 'よろしいですか？'
-          }
+    }
   }
 }
