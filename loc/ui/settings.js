@@ -19,7 +19,8 @@ export default {
     vi: 'Cài đặt',
     sr: 'Подешавања',
     it: 'Impostazioni',
-    ja: '設定'
+    ja: '設定',
+    cs: 'Nastavení'
   },
 
   // ---- Controls
