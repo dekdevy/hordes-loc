@@ -23,7 +23,7 @@ export default {
       cs: 'Vyber postavu',
       sr: 'Одабери играча',
       it: 'Seleziona il personaggio',
-      ja: 'キャラクターを選択して下さい'      
+      ja: 'キャラクターを選択して下さい'
     },
 
     create: {
@@ -47,7 +47,7 @@ export default {
       cs: 'Klikni zde pro vytvoření postavy',
       sr: 'Кликни да креираш играча',
       it: 'Clicca per creare il personaggio',
-      ja: 'クリックでキャラクター作成'      
+      ja: 'クリックでキャラクター作成'
     },
 
     enterWorld: {
@@ -71,7 +71,7 @@ export default {
       cs: 'Vstoupit do světa',
       sr: 'Уђи у свет',
       it: 'Entra nel mondo',
-      ja: 'ワールドに入る'      
+      ja: 'ワールドに入る'
     },
 
     emptySlot: {
@@ -95,7 +95,7 @@ export default {
       cs: 'Prázdný slot',
       sr: 'Празно',
       it: 'vuoto',
-      ja: '未作成'      
+      ja: '未作成'
     },
 
     error: {
@@ -119,7 +119,7 @@ export default {
       cs: 'Problém s připojením',
       sr: 'Грешка при конекцији',
       it: 'Errore di rete',
-      ja: 'ネットワークエラー'      
+      ja: 'ネットワークエラー'
     }
   },
 
@@ -146,7 +146,7 @@ export default {
       cs: 'Tvorba postav',
       sr: 'Креирање играча',
       it: 'Creazione del personaggio',
-      ja: 'キャラクター作成'      
+      ja: 'キャラクター作成'
     },
 
     pressIcon: {
@@ -170,7 +170,7 @@ export default {
       cs: 'Stisknutím ikony zobrazíte stručný popis.',
       sr: 'Притисни на икону за кратак опис.',
       it: 'Premi un\'icona per una breve descrizione.',
-      ja: 'クリックすると簡単な説明を表示します。'      
+      ja: 'クリックすると簡単な説明を表示します。'
     },
 
     selectClass: {
@@ -194,7 +194,7 @@ export default {
       cs: 'Zvolit povolání',
       sr: 'Одабери класу',
       it: 'Seleziona una Classe',
-      ja: '職業選択'      
+      ja: '職業選択'
     },
 
     selectFaction: {
@@ -218,7 +218,7 @@ export default {
       cs: 'Zvolit frakci',
       sr: 'Одабери факцију',
       it: 'Seleziona una Fazione',
-      ja: '派閥選択'      
+      ja: '派閥選択'
     },
 
     enterName: {
@@ -242,7 +242,7 @@ export default {
       cs: 'Zadej jméno',
       sr: 'Унеси име',
       it: 'Inserisci un nome',
-      ja: '名前入力'      
+      ja: '名前入力'
     },
 
     nameReq: {

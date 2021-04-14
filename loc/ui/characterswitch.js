@@ -23,7 +23,7 @@ export default {
     cs: 'Odhlásit se',
     sr: 'Одјави се',
     it: 'Disconnetti',
-    ja: 'ログアウト',
+    ja: 'ログアウト'
     },
 
   home: {
@@ -48,6 +48,6 @@ export default {
     cs: 'Domů',
     sr: 'Почетна',
     it: 'Inizio',
-    ja: 'ホーム',
+    ja: 'ホーム'
       }
 }
