@@ -20,7 +20,7 @@ export default {
       it: 'Benvenuto nel miglior negozio di prodotti in circolazione! Non troverai un affare migliore di quello che ho per te; tuttavia, ho sentito che esiste un negozio speciale con articoli fantastici a differenza di qualsiasi cosa io abbia mai visto. Nel frattempo, ho delle monete e dei pezzi di ricambio. Vuoi vendere qualcosa?',
       tr: 'En iyi ürünlere hoş geldiniz! Size verdiğim fiyattan daha iyi bir fiyat bulamayacaksınız; ancak, şimdiye kadar gördüğüm hiçbir şeye benzemeyen harika eşyalara sahip özel bir dükkan olduğunu duydum. Bu arada, biraz fazladan param ve fazladan ürünlerim var. Herhangi bir şey satmak ister misin?',
       ja: '最高の商店へようこそ！ここら一帯で私に勝る商店は御座いません、是非ともご贔屓下さい。ですが、前代未聞の素晴らしい商品を販売しているスゴい店が何処かに在るとか無いとか。お客様がそちらに流れていってしまうまでの間は、こちらで承りましょう。何か売り物はございますか？',
-      cs: 'Vítej u nejlepšího obchodníka v okolí! Nenajdeš lepší nikde ceny než to, co pro tebe mám já; Slyšel jsem však, že existuje speciální obchod s fantastickými předměty, na rozdíl od všeho, co jsem kdy viděl. Mezitím mám nějaké mince a zboží zboží navíc. Chceš něco prodat?',
+      cs: 'Vítej u nejlepšího obchodníka v okolí! Nenajdeš lepší nikde ceny než to, co pro tebe mám já; Slyšel jsem však, že existuje speciální obchod s fantastickými předměty, na rozdíl od všeho, co jsem kdy viděl. Mezitím mám nějaké mince a zboží zboží navíc. Chceš něco prodat?'
     },
 
     choices: [{
@@ -86,7 +86,7 @@ export default {
     vi: 'Để bán vật phẩm, nhấn shift-chuột phải hoặc kéo thả vào cửa sổ giao dịch.',
     it: 'Per vendere un oggetto, fai clic con il tasto destro del mouse o trascinalo nella finestra del commerciante.',
     ja: 'アイテムを売るには、Shiftキーを押しながら右クリックするか、トレーダーウィンドウへドラッグして下さい。',
-    cs: 'Chcete-li předmět prodat, podržte shift a klepněte na ni pravým tlačítkem myši nebo ji přetáhněte do okna obchodníka.',
+    cs: 'Chcete-li předmět prodat, podržte shift a klepněte na ni pravým tlačítkem myši nebo ji přetáhněte do okna obchodníka.'
   },
 
   // Include punctuation and space.

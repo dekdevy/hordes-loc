@@ -127,7 +127,7 @@ export default {
       // it: 'Sei salito di livello e hai guadagnato punti stat. Apri di nuovo il pannello del personaggio (<kbd>C</kbd>).'
       // pt: 'Você aumentou o seu nível e ganhou pontos de stat. Abra o painel do seu personagem (<kbd>C</kbd>) novamente.'
       // fr: 'Vous avez gagné un niveau et gagné des points stat. Ouvrez la fenêtre du personnage (<kbd>C</kbd>) à nouveau.'
-      // cs: 'Zvýšil jsi svou úroveň a získal statistické body. Otevři panel své postavy (<kbd>C</kbd>). 
+      // cs: 'Zvýšil jsi svou úroveň a získal statistické body. Otevři panel své postavy (<kbd>C</kbd>).'
     },
     {
       en: 'Stat points can be used to increase your primary stats. Hover over the buttons to preview their effects, then use your stat points.'
