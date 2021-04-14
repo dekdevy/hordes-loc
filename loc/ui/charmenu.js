@@ -23,7 +23,8 @@ export default {
       cs: 'Vyber postavu',
       sr: 'Одабери играча',
       it: 'Seleziona il personaggio',
-      ja: 'キャラクターを選択して下さい'
+      ja: 'キャラクターを選択して下さい',
+      cs: 'Vybrat postavu'
     },
 
     create: {
@@ -47,7 +48,8 @@ export default {
       cs: 'Klikni zde pro vytvoření postavy',
       sr: 'Кликни да креираш играча',
       it: 'Clicca per creare il personaggio',
-      ja: 'クリックでキャラクター作成'
+      ja: 'クリックでキャラクター作成',
+      cs: 'Klikni pro vytvoření postavy'
     },
 
     enterWorld: {
@@ -71,7 +73,8 @@ export default {
       cs: 'Vstoupit do světa',
       sr: 'Уђи у свет',
       it: 'Entra nel mondo',
-      ja: 'ワールドに入る'
+      ja: 'ワールドに入る',
+      cs: 'Vstoupit do světa'
     },
 
     emptySlot: {
@@ -95,7 +98,8 @@ export default {
       cs: 'Prázdný slot',
       sr: 'Празно',
       it: 'vuoto',
-      ja: '未作成'
+      ja: '未作成',
+      cs: 'Prázdný'
     },
 
     error: {
@@ -119,7 +123,8 @@ export default {
       cs: 'Network Error',
       sr: 'Грешка при конекцији',
       it: 'Errore di rete',
-      ja: 'ネットワークエラー'
+      ja: 'ネットワークエラー',
+      cs: 'Problém s připojením'
     }
   },
 
@@ -146,7 +151,8 @@ export default {
       cs: 'Vytváření postavy',
       sr: 'Креирање играча',
       it: 'Creazione del personaggio',
-      ja: 'キャラクター作成'
+      ja: 'キャラクター作成',
+      cs: 'Tvorba postav'
     },
 
     pressIcon: {
@@ -170,7 +176,8 @@ export default {
       cs: 'Klikni na ikonu pro stručný popis.',
       sr: 'Притисни на икону за кратак опис.',
       it: 'Premi un\'icona per una breve descrizione.',
-      ja: 'クリックすると簡単な説明を表示します。'
+      ja: 'クリックすると簡単な説明を表示します。',
+      cs: 'Stisknutím ikony zobrazíte stručný popis'
     },
 
     selectClass: {
@@ -194,7 +201,8 @@ export default {
       cs: 'Zvolit povolání',
       sr: 'Одабери класу',
       it: 'Seleziona una Classe',
-      ja: '職業選択'
+      ja: '職業選択',
+      cs: 'Vyberte profesi'
     },
 
     selectFaction: {
@@ -218,7 +226,8 @@ export default {
       cs: 'Zvolit frakci',
       sr: 'Одабери факцију',
       it: 'Seleziona una Fazione',
-      ja: '派閥選択'
+      ja: '派閥選択',
+      cs: 'Vyberte frakci'
     },
 
     enterName: {
@@ -242,7 +251,8 @@ export default {
       cs: 'Zadej jméno',
       sr: 'Унеси име',
       it: 'Inserisci un nome',
-      ja: '名前入力'
+      ja: '名前入力',
+      cs: 'Vložte jméno'
     },
 
     nameReq: {
@@ -265,7 +275,8 @@ export default {
       cs: 'Tvoje jméno může obsahovat pouze znaky a-Z a číslice 0-9, bez meze. Jméno musí být v rozsahu 3 až 16 písmen.',
       sr: 'Име сме само да има слова од а до З, и бројеве од 0 до 9, без размака. Име може садржати између 3 и 16 карактера.',
       it: 'Il tuo nome può contenere solo caratteri a-Z, e numeri 0-9, senza spazi. Tra 3 e 16 caratteri',
-      ja: 'スペースを含めず、a～Zの文字と0～9の数字が使用出来ます。3文字から16文字までです。'
+      ja: 'スペースを含めず、a～Zの文字と0～9の数字が使用出来ます。3文字から16文字までです。',
+      cs: 'Vaše jméno může obsahovat pouze znaky a-Z a čísla 0-9 bez mezer, o délce mezi 3 a 16 znaky.'
     }
   },
 
@@ -293,7 +304,8 @@ export default {
       cs: 'Smazat',
       sr: 'Избрисати',
       it: 'Rimuovi',
-      ja: '削除'
+      ja: '削除',
+      cs: 'Vymazat'
     },
 
     info: {
@@ -317,7 +329,8 @@ export default {
       cs: 'Pro smazaní napiš jméno tvé postavy. Tvoje postava již nemůže být obnovena.',
       sr: 'Да избришеш играча, унеси његово име. Играч неће моћи бити враћен.',
       it: 'Per cancellare, digita il nome del personaggio. Il tuo personaggio non può essere ripristinato.',
-      ja: 'キャラクターを削除するには、削除したいキャラクターの名前を入力して下さい。一度消すと元には戻りません。'
+      ja: 'キャラクターを削除するには、削除したいキャラクターの名前を入力して下さい。一度消すと元には戻りません。',
+      cs: 'Pro smazání napište jméno postavy. Vaši postavu poté nebude možné obnovit.'
     },
 
     placeholder: {
@@ -341,7 +354,8 @@ export default {
       cs: 'Jsi si jistý?',
       sr: 'Да ли си сигуран?',
       it: 'Sei sicuro?',
-      ja: 'よろしいですか？'
+      ja: 'よろしいですか？',
+      cs: 'Jste si jisti?'
     }
   }
 }
