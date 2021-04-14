@@ -24,8 +24,7 @@ export default {
     sr: 'Одјави се',
     it: 'Disconnetti',
     ja: 'ログアウト',
-    
-  },
+    },
 
   home: {
     en: 'Home',
@@ -50,6 +49,5 @@ export default {
     sr: 'Почетна',
     it: 'Inizio',
     ja: 'ホーム',
-    
-  }
+      }
 }
