@@ -162,7 +162,7 @@ export default {
   },
 
   dragitem: {
-    en: 'Drag item into slot',
+    en: 'Shift-right-click or drag item into slot',
     el: 'Σύρε το αντικείμενο στη θέση',
     nl: 'Slepen het voorwerp in de sleuf',
     de: 'Ziehe ein Item hier hin',
