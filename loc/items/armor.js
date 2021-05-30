@@ -121,7 +121,7 @@ export default [
       de: 'In diese Rüstung wurden magische Runen geätzt, um zusätzlichen Schutz zu bieten. Einige Gelehrte glauben, dass die Runen auf allen Runen-Halbplattenrüstungen dazu gedacht sind in einem größeren, unentdeckten Ritual, zusammenzuwirken.',
       es: 'Runas mágicas fueron grabadas en esta armadura para proporcionar protección adicional. Algunos estudiosos creen que las runas en este tipo de armaduras rúnicas están destinadas a interactuar juntas en algún ritual más grande y aún por descubrir.',
       vi: 'Cổ ngữ ma thuật đã được khắc vào bộ giáp này để cung cấp thêm sự bảo vệ. Một số học giả tin rằng các cổ ngữ trên tất cả các áo giáp dùng để tương tác với nhau trong một số nghi lễ lớn hơn, chưa được khám phá.',
-      nl: 'Magische runes waren in dit harnas gestopt om extra bescherming te leveren. Sommige scholieren geloven dat de runes op alle "Runic Halfplate" harnassen bedoeld zijn om op elkaar in te werken in een of ander groter onontdekt ritueel.',
+      nl: 'Magische runen waren in dit harnas gestopt om extra bescherming te leveren. Sommige scholieren geloven dat de runen op alle “Runic Halfplate” harnassen bedoeld zijn om op elkaar in te werken in een of ander groter onontdekt ritueel.',
       it: 'Magiche rune sono state attaccate in questa armatura per ottenere protezione addizionale. Molti scolari credono che le rune su tutte le armature di questo tipo interagiscano tra loro in qualche grande e segreto rituale.',
       ro: 'Rune magice au fost gravate în această armură pentru a oferi un surplus de protecție. Câțiva savanți cred că runele de pe toate aceste armuri sunt menite să interacționeze unele cu celelalte într-un ritual mai larg, nedescoperit.'
     }
