@@ -82,7 +82,7 @@ export default [
       pt: 'Esse tipo de armadura de ferro tem sido muito usada na guerra e permanece sujo. As marcas de garras no metal parecem ser principalmente superficiais.',
       de: 'Diese Art von Eisenrüstung wurde im Krieg häufig verwendet und ist bis heute schmutzig. Die Kratzer auf dem Metall scheinen meist oberflächlich zu sein.',
       vi: 'Loại áo giáp sắt này đã được sử dụng rất nhiều trong chiến tranh và vẫn còn bẩn. Các dấu móng vuốt trên kim loại dường như chủ yếu là bề ngoài.',
-      nl: 'Dit type van ijzeren harnassen werd hevig gebruikt tijdens oorlogen and blijft vuil. De klauwafdrukkenop het metaal lijkt grotendeels oppervlakkig.',
+      nl: 'Dit type van ijzeren harnassen werd hevig gebruikt tijdens oorlogen en blijft vuil. De klauwafdrukkenop het metaal lijkt grotendeels oppervlakkig.',
       it: 'Questo tipo di armatura di ferro è stata fortemente utilizzata in guerra ed è rimasta sporca. I segni di graffi sul metallo sembrano essere solo superficiali.',
       ro: 'Acest tip de armură de fier a fost extrem de folosită în război iar astfel a rămas murdară. Urmele de gheare lăsate pe metal par să fie în mare parte superficiale.'
     }
