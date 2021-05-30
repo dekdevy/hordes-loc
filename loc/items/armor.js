@@ -137,7 +137,7 @@ export default [
       de: 'Übernatürliche Infernos wurden bei der Herstellung dieser Rüstung verwendet. Große Opfer wurden erbracht, um die Forderungen der teuflischen Kreaturen zu erfüllen, so dass einige wenige Schmiede mit den seltsamen Flammen schmieden konnten.',
       es: 'Se usaron llamas sobrenaturales en la fabricación de esta armadura. Se hicieron grandes sacrificios para apaciguar las demandas de las criaturas diabólicas de forma que así, algunos herreros pudieran forjar a través de estas extrañas llamas.',
       vi: 'Một ngọn lửa siêu nhiên đã được sử dụng trong việc chế tạo áo giáp này. Những sự hiến tế to lớn đã được thực hiện để xoa dịu những yêu cầu của các sinh vật quỷ dữ để một vài thợ rèn có thể rèn được ngọn lửa kỳ lạ.',
-      nl: 'Supernatuurlijke infernos waren gebruikt voor het maken van dit harnas. Grote offers werden gemaakt om de eisen van duivelse wezens te voldoen zodat een paar hoefsmeden kunnen smeden met de rare vlammen.',
+      nl: 'Supernatuurlijke inferno\'s waren gebruikt voor het maken van dit harnas. Grote offers werden gemaakt om de eisen van duivelse wezens te voldoen zodat een paar hoefsmeden kunnen smeden met de rare vlammen.',
       it: 'Gli inferni sovrannaturali furono usati nella creazione di questa armatura. Grandi sacrifici furono fatti per appacificare le creature demoniache affinché alcuni fabbri potessero forgiare con le strane fiamme.',
       ro: 'Focuri infernale supernaturale au fost folosite la forjarea acestei armuri. Mari sacrificii au fost făcute pentru a potoli cererile creaturilor diavolești, doar pentru ca câțiva fierari să poată forja cu niște flăcări stranii.'
     }
