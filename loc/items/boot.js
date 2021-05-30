@@ -186,7 +186,7 @@ export default [
       es: 'Estas botas han sido nombradas como una famosa y legendaria reliquia. El homónimo de estas botas fue supuestamente el calzado veloz de una deidad famosa, pero parece que nadie sabe dónde se ha originado la historia.',
       vi: 'Những đôi giày này được đặt theo tên của một thánh tích huyền thoại nổi tiếng. Tên của những đôi giày này được cho là tấm lót chân của một vị thần nổi tiếng, nhưng dường như không ai biết câu chuyện bắt nguồn từ đâu.',
       it: 'Questi stivali prendono il nome da una famosa leggenda delle reliquie. L\'omonimo di questi stivali era presumibilmente la calzatura veloce di una divinità famosa, ma nessuno sembra sapere da dove provenga la storia.',
-      nl: 'Deze schoenen zijn vernoemd naar een bekende legende van een reliqui. De naamgenoot van deze schoenen waren waarschijnlijk de snelle voetkleding van een bekende god, maar niemand blijkt te weten waar het verhaal vandaan komt.',
+      nl: 'Deze schoenen zijn vernoemd naar een bekende legende van een relikwie. De naamgenoot van deze schoenen waren waarschijnlijk de snelle voetkleding van een bekende god, maar niemand blijkt te weten waar het verhaal vandaan komt.',
       ro: 'Aceste cizme sunt numite după o relicvă faimoasă. Omonimul acestor cizme se presupune că a fost încălțămintea rapidă a unei zeiăți faimoase, dar nimeni nu pare să știe de unde provine mai exact legenda.'
     }
   },
