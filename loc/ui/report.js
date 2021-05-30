@@ -1,6 +1,6 @@
 // Work in progress, do not translate
 export default {
-  reasons: reasons: [
+  reasons: [
     {
       en: 'Offensive Chat'
       // ru: 'Оскорбления в чате'
