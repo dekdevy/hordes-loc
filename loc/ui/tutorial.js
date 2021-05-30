@@ -3,7 +3,7 @@ export default {
   msg: [
     {
       en: 'Welcome! Press <kbd>W A S D</kbd> or <kbd>⭠ ⭢ ⭡ ⭣</kbd> to move.'
-      //ru: 'Добро пожаловать! Нажмите <kbd>W A S D</kbd> или <kbd>⭠ ⭢ ⭡ ⭣</kbd> для перемещения.'
+      // ru: 'Добро пожаловать! Нажмите <kbd>W A S D</kbd> или <kbd>⭠ ⭢ ⭡ ⭣</kbd> для перемещения.'
       // it: 'Benvenuto! Premi <kbd>W A S D</kbd> o <kbd>⭠ ⭢ ⭡ ⭣</kbd> per muoverti.'
       // pt: 'Olá! Pressione <kbd>W A S D</kbd> ou <kbd>⭠ ⭢ ⭡ ⭣</kbd> para se mover.'
       // fr: 'Bienvenue! Appuyez sur <kbd>W A S D</kbd> ou <kbd>⭠ ⭢ ⭡ ⭣</kbd> pour vous déplacer.'
@@ -11,7 +11,7 @@ export default {
     },
     {
       en: 'Great job! Now, <kbd>left/right click</kbd> and drag your mouse to rotate the camera.'
-      //ru: 'Хорошая работа! Сейчас, <kbd>левый/правый клик</kbd> и перемещайте мышь для поворота камеры.'
+      // ru: 'Хорошая работа! Сейчас, <kbd>левый/правый клик</kbd> и перемещайте мышь для поворота камеры.'
       // it: 'Bravo! Adesso, <kbd>click sinistro/destro</kbd> e muovi il tuo mouse per muovere la visuale.'
       // pt: 'Bom trabalho! Agora, use o <kbd>left/right click</kbd> e arraste para mover a câmera.'
       // fr: 'Bien joué! Maintenant, utilisez <kbd>clic gauche/droit</kbd> en déplaçant votre souris pour déplacer la caméra.'
@@ -19,7 +19,7 @@ export default {
     },
     {
       en: 'To prepare you for combat, I will explain the UI elements.'
-      //ru: 'Чтобы подготовить вас к бою, я объясню элементы пользовательского интерфейса.'
+      // ru: 'Чтобы подготовить вас к бою, я объясню элементы пользовательского интерфейса.'
       // it: 'Per prepararti al combattimento ti mostrerò i vari menu.'
       // pt: 'Para preparar você para o combate, eu vou te explicar os elementos da interface do usuário (UI).'
       // fr: 'Pour vous préparer au combat, je vais vous expliquer les éléments de l\'interface utilisateur (UI).'
@@ -27,7 +27,7 @@ export default {
     },
     {
       en: 'This is your unit frame. You can see your own health and mana here.'
-      //ru: 'Это ваши главные индикаторы. Здесь вы можете увидеть свое собственное здоровье и ману.'
+      // ru: 'Это ваши главные индикаторы. Здесь вы можете увидеть свое собственное здоровье и ману.'
       // it: 'Da qui puoi vedere la tua salute e il tuo mana.'
       // pt: 'Nesse quadro, você pode ver informações da sua mana e vida.'
       // fr: 'Voici votre cadre d\'unité. Vous pouvez y voir votre vie et votre mana.'
@@ -35,7 +35,7 @@ export default {
     },
     {
       en: 'Move forward and find a monster, then target it by clicking it with your mouse or pressing <kbd>TAB</kbd>.'
-      //ru: 'Двигайтесь вперед и найдите монстра, а затем нацельтесь на него, щелкнув по нему мышью или нажав вкладку <kbd></kbd>.'
+      // ru: 'Двигайтесь вперед и найдите монстра, а затем нацельтесь на него, щелкнув по нему мышью или нажав вкладку <kbd></kbd>.'
       // it: 'Vai avanti e trova un mostro, quindi aggancialo facendo clic con il mouse o premendo <kbd>TAB</kbd>.'
       // pt: 'Mova-se para frente e encontre algum mosntro, então selecione-o para o combate clicando com o mouse, ou pressionando <kbd>TAB</kbd>.'
       // fr: 'Avancez et trouvez un monstre, puis ciblez-le en lui cliquant dessus avec votre souris ou en appuyant sur <kbd>TAB</kbd>.'
@@ -43,7 +43,7 @@ export default {
     },
     {
       en: 'This monster is now your target. Any spells you cast will be directed at your target.'
-      //ru: 'Этот монстр теперь ваша цель. Любые заклинания, которые вы произнесете, будут направлены на неё.'
+      // ru: 'Этот монстр теперь ваша цель. Любые заклинания, которые вы произнесете, будут направлены на неё.'
       // it: 'Adesso il mostro è agganciato, Qualunque attacco che lancierai sarà diretto verso il mostro.'
       // pt: 'Esse monstro agora é seu alvo. Qualquer magia que você conjurar irá ser direcionada para o seu alvo.'
       // fr: 'Ce monstre est maintenant votre cible. Tout sort que vous lancerez sera dirigé vers lui.'
