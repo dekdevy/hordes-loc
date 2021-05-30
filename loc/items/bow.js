@@ -10,7 +10,7 @@ export default [
       es: 'Este arco es una creación temporal. No hay mucha madera en algunas regiones, por lo tanto los Denizens usan el material que tienen a mano para crear armas como esta.',
       vi: 'Cung này là một sáng tạo tạm thời. Gỗ không phải là nguồn tài nguyên dồi dào ở một số vùng, do đó, người dân đôi khi sử dụng bất kỳ vật liệu sẵn có nào để tạo ra vũ khí như thế này.',
       it: 'Questo arco è una creazione improvvisata. Il legno non è una risorsa abbondante in alcune regioni, quindi gli abitanti a volte usano i materiali disponibili per creare armi come questa.',
-      nl: 'Deze boog is een geïmproviseerde creatie. Hout is in sommige regio’s geen veelvoorkomende bron, dus gebruiken bewoners soms de materialen op zak om zulk soort wapens als dit te maken.',
+      nl: 'Deze boog is een geïmproviseerde creatie. Hout is in sommige regio’s geen veelvoorkomende bron, dus gebruiken de bewoners soms de materialen op zak om wapens zoals deze te creëren.',
       ro: 'Acest arc este o creație improvizată. Lemnul nu reprezintă o resursă bogată în anumite zone, de aceea localnicii folosesc uneori materiale la îndemână pentru a crea arme ca aceasta.',
       pt: 'Este arco é uma criação improvisada. Madeira não é um recurso abundante em algumas regiões, então os habitantes às vezes usam os materiais disponíveis para criar armas como esta.'
     }
@@ -44,7 +44,7 @@ export default [
       es: 'Los Curved Shortbows son mayoritariamente producidos para cazar la fauna local.',
       vi: 'Cung ngắn cong chủ yếu được dùng để săn bắn động vật hoang dã.',
       it: 'Gli shortbows curvi sono principalmente prodotti per la caccia alla fauna selvatica locale.',
-      nl: 'Gebogen bogen zijn voornamelijk gemaakt voor het jagen op het locale wild.',
+      nl: 'Curved Shortbows zijn voornamelijk gemaakt voor het jagen op het lokale wild',
       ro: '"Curved Shortbows" sunt în principal produse pentru a vâna animalele sălbatice locale.',
       pt: 'O "Curved Shortbow" é produzido principalmente para a caça de vida selvagem local.'
     }
@@ -112,7 +112,7 @@ export default [
       es: 'Los artesanos Élficos ponen un cuidado exquisito en sus arcos durante el proceso de manufacturado, es por esto que los arqueros Elfos tienen una orgullosa reputación durante tiempos de guerra, y con motivos.',
       vi: 'Thợ thủ công Elvish rất tỉ mỉ trong quá trình chế tạo cung của họ, và cung thủ Elvish có một danh tiếng đáng tự hào trong thời gian chiến tranh vì một lý do.',
       it: 'Gli artigiani elfici prestano una cura maniacale ai loro archi durante il processo di fabbricazione e gli arcieri elfi sono orgogliosi durante i periodi di guerra per questa ragione.',
-      nl: 'Elfse handhavers stoppen voortreffelijke zorg in hun bogen tijdens het handhaving proces en Elfse boogschutters hebben niet voor niets een trotste reputatie tijdens oorlogstijden.',
+      nl: 'Elfen handhavers stoppen voortreffelijke zorg in hun bogen tijdens het handhaving proces en elfen boogschutters hebben niet voor niets een trotste reputatie tijdens oorlogstijden.',
       ro: 'Meșterii elfi au pus o atenție deosebită în procesul de creare al arcurilor lor, iar arcașii Elfi au o reputație cu care se mândresc în timpul luptelor din acest motiv.',
       pt: 'Os artesãos élficos colocam um cuidado primoroso em seus arcos durante o processo de confecção, e os arqueiros élficos têm uma reputação de orgulho em tempos de guerra por um motivo.'
     }
