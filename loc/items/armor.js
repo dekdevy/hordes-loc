@@ -89,7 +89,7 @@ export default [
       de: 'Leichte elfische Metalle werden verwendet, um göttliche Kettenhemden herzustellen. Alte Legenden sagen, dass die ersten Sky Hemds ursprünglich aus weggeworfenen Rüstungsteilen entstanden sind, die früher von göttlichen Kreaturen getragen wurden.',
       es: 'Los metales ligeros élficos se usan para crear cotas de malla divinas. Las viejas leyendas dicen que las primeras Sky Mails fueron creados a partir de piezas de armadura desechadas que alguna vez fueron usadas por criaturas divinas.',
       vi: 'Kim loại Elvish nhẹ được sử dụng để tạo ra áo giáp lưới thần thánh. Truyền thuyết xưa nói rằng những giáp lưới đầu tiên được tạo ra từ những mảnh áo giáp bị vứt bỏ từng được mặc bởi các sinh vật thần thánh.',
-      nl: 'Lichte tover-metalen worden gebruikt om hemelse maliënkolders te maken. Oude legendes zeggen dat de eerste “Sky Mails” gemaakt waren van weggegooide harnas-onderdelen die ooit werden gedraagd door goddelijke wezens',
+      nl: 'Lichte tover-metalen worden gebruikt om hemelse maliënkolders te maken. Oude legendes zeggen dat de eerste “Sky Mails” gemaakt waren van weggegooide harnas-onderdelen die ooit werden gedraagt door goddelijke wezens.',
       it: 'I metalli leggeri Elvish sono usati per creare maglie metalliche divine. Antiche leggende dicono che i primi Sky Mails furono originariamente creati da parti di armature buttate ed un tempo indossate dalle creature divine.',
       ro: 'Metalul ușor al elfilor este utilizat pentru a crea zale divine. Legende vechi spun că primele zale au fost original create din bucăți de armură aruncată, cândva folosită de creaturi divine.'
     }
