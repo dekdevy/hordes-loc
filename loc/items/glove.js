@@ -43,7 +43,7 @@ export default [
       vi: 'Những chiếc găng tay này được chế tác bằng da cứng và bền bỉ',
       it: 'Questi guanti sono realizzati in pelle indurita e resistente.',
       ro: 'Aceste mănuși sunt create din piele dură și întărită.',
-      nl: 'Deze handshoenen zijn gemaakt van stevig en hard leer.'
+      nl: 'Deze handschoenen zijn gemaakt van stevig en hard leer.'
     }
   },
 
