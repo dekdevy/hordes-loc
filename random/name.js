@@ -1,6 +1,6 @@
 import { rndArray, rndi } from 'core/math/rnd.js'
 
-// Syllables used for random player/monster name generation.                               |
+// Syllables used for random player/monster name generation.
 
 const syllables = ['acaru', 'achi', 'acti', 'ael', 'aelle', 'aelo', 'aer', 'aeri', 'aero',
   'aesh', 'aez', 'aias', 'aid', 'aien', 'aile', 'aist', 'akda', 'ale', 'alle', 'alpha', 'ambi',
