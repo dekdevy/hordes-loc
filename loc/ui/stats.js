@@ -437,6 +437,10 @@ export default {
     },
 
     {
+      en: 'Skill Points (Max)',
+    },
+
+    {
       $$: 'Gear Score'
     },
 

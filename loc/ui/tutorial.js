@@ -194,8 +194,7 @@ export default {
       // cs: 'Obchodník prodává knihy dovedností, lektvary a koně. Pravým kliknutím knihu zakoupíš.
     },
     {
-      en: 'Once you have the book, open your inventory, right-click the book and press <kbd>Learn skill</kbd> to learn it.'
-      // ru: 'Как только у вас будет книга, откройте свой инвентарь, щелкните на книгу правой кнопкой мыши и нажмите <kbd>Выучить умение</kbd>, чтобы изучить ее.'
+      en: 'Once you have the book, open your inventory, right-click the book and press <kbd>Use Item</kbd> to learn it.'
       // it: 'Adesso che hai un libro, apri il tuo inventario, Click-Destro sul libro e premi <kbd>Impara abilità</kbd> per impararlo.'
       // pt: 'Agora que você tem o livro, abra o seu inventário, clique com o botão direito e pressione <kbd>Learn skill</kbd> para aprender a nova habilidade.'
       // fr: 'Une fois que vous avez le livre, ouvrez votre inventaire, faites un clic-droit sur le livre et cliquez sur <kbd>Learn skill</kbd> pour l\'apprendre.'
