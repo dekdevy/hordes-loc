@@ -146,7 +146,7 @@ export default [{
   name: {$$: 'Hypothermic Frenzy'},
 
   description: {
-    en: 'You gain Haste and all your damage output is increased. Resets the cooldown of Icicle Orb.',
+    en: 'You gain Haste and all your damage output is increased.',
     ru: 'Вы получаете Haste и все ваши повреждения продукции увеличивается. Сбрасывает перезагрузку Icicle Orb.',
     fr: 'Vous gagnez de la Hâte et tous vos dégats sont augmentés. Réinitialise le temps de recharge d\'Icicle Orb.'
   }
@@ -308,7 +308,7 @@ export default [{
   name: {$$: 'Taunt'},
 
   description: {
-    en: 'Taunt surrounding enemies, forcing them to move towards you for a brief moment. Interrupts spell casts and resets aggro for all monsters.',
+    en: 'Taunt surrounding enemies, slowing their movement speed for a short duration. Forces monsters to attack you.',
     ru: 'Вы заставляете окружающих врагов двигаться к вам на короткое время. Прерывает произнесение заклинаний и сбрасывает агрессию для всех монстров.',
     fr: 'Vous provoquez les ennemis aux alentours, les forçant à se déplacer vers vous pendant un bref instant. Interrompt les lancements de sort et réinitialise l\'aggro pour tous les monstres.'
   }
@@ -370,9 +370,7 @@ export default [{
   name: {$$: 'Tempering'},
 
   description: {
-    en: 'You slow down for 2 seconds. Then, if you are incapacitated: all control impairing effects are removed, your Charge cooldown is reset and you gain 20 Movement Speed for 3 seconds.',
-    ru: 'Вы замедляетесь на 2 секунды. Затем, если вы оглушены: все эффекты, нарушающие движение, удаляются, ваш Charge перезаряжается, и вы получаете 20 Movement Speed на 3 секунды.',
-    fr: 'Vous ralentissez pendant 2 secondes. Puis, si vous êtes étourdi: tous les effets altérant le mouvement sont supprimés, le temps de recharge de votre Charge est réinitialisé et vous gagnez 20 Vit. Mouv. pendant 3 secondes.'
+    en: 'Two seconds after casting all active stun and root effects on you will be removed. If any effect is removed then your Charge cooldown is reset and you gain 20 Movement Speed for 3 seconds.',
   }
 },
 {
@@ -397,6 +395,66 @@ export default [{
   name       : {$$: 'Flamepits'}, // this is only used by bosses
   description: {
     en: 'Lights the ground below enemies on fire' // not needed
+  }
+},
+{
+  name       : {$$: 'Volley'}, 
+  description: {
+    en: 'Rapidly shoots arrows at all targets in front of you, dealing damage over a short period of time.'
+  }
+},
+{
+  name       : {$$: 'Whirlwind'}, 
+  description: {
+    en: 'Spins your sword for a short period of time, dealing damage to all targets around you while slowing you down. Removes all root effects when used. You can\'t block attacks while active.'
+  }
+},
+{
+  name       : {$$: 'Mimir\'s Cleanse'}, 
+  description: {
+    en: 'Removes negative effects from a friendly target, prioritizing movement impairing effects. Heals the target for each removed effect.'
+  }
+},
+{
+  name       : {$$: 'Vampiric Arrow'}, 
+  description: {
+    en: 'A cursed arrow which bites your enemy, healing you as it returns. If your target is casting, the cast will be interrupted and the healing is increased.'
+  }
+},
+{
+  name       : {$$: 'Blinding Shot'}, 
+  description: {
+    en: 'Blinds the target, impairing its movement and casting for a short duration.'
+  }
+},
+{
+  name       : {$$: 'Relentless Cry'}, 
+  description: {
+    en: 'Intimidate your enemies, confusing them for a short duration and recovering a percentage of your missing health.'
+  }
+},
+{
+  name       : {$$: 'Shatterfrost'}, 
+  description: {
+    en: 'Hurls a heavy fragment of frost at your target for massive amounts of damage. Deals extra damage on low health targets.'
+  }
+},
+{
+  name       : {$$: 'Frostcall'}, 
+  description: {
+    en: 'Channel a freezing storm over a targeted area, dealing damage to all targets in a radius.'
+  }
+},
+{
+  name       : {$$: 'Ice Block'}, 
+  description: {
+    en: 'Summons a protective ice block, preventing all damage to you and recovering a percentage of your health over a short duration. You cannot move or cast any spells during this time.'
+  }
+},
+{
+  name       : {$$: 'Bone Shot'}, 
+  description: {
+    en: 'Fire a heavy fermur bone at your target for massive damage. Deals 50% extra damage to targets below 30% health.'
   }
 }
 ]
