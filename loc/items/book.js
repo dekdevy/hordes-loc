@@ -370,7 +370,7 @@ export default [{
   name: {$$: 'Tempering'},
 
   description: {
-    en: 'Two seconds after casting all active stun and root effects on you will be removed. If any effect is removed then your Charge cooldown is reset and you gain 20 Movement Speed for 3 seconds.',
+    en: 'Two seconds after casting all active stun and root effects on you will be removed. If any effect is removed then your Charge cooldown is reset and you gain 20 Movement Speed for 3 seconds.'
   }
 },
 {
@@ -398,61 +398,61 @@ export default [{
   }
 },
 {
-  name       : {$$: 'Volley'}, 
+  name       : {$$: 'Volley'},
   description: {
     en: 'Rapidly shoots arrows at all targets in front of you, dealing damage over a short period of time.'
   }
 },
 {
-  name       : {$$: 'Whirlwind'}, 
+  name       : {$$: 'Whirlwind'},
   description: {
     en: 'Spins your sword for a short period of time, dealing damage to all targets around you while slowing you down. Removes all root effects when used. You can\'t block attacks while active.'
   }
 },
 {
-  name       : {$$: 'Mimir\'s Cleanse'}, 
+  name       : {$$: 'Mimir\'s Cleanse'},
   description: {
     en: 'Removes negative effects from a friendly target, prioritizing movement impairing effects. Heals the target for each removed effect.'
   }
 },
 {
-  name       : {$$: 'Vampiric Arrow'}, 
+  name       : {$$: 'Vampiric Arrow'},
   description: {
     en: 'A cursed arrow which bites your enemy, healing you as it returns. If your target is casting, the cast will be interrupted and the healing is increased.'
   }
 },
 {
-  name       : {$$: 'Blinding Shot'}, 
+  name       : {$$: 'Blinding Shot'},
   description: {
     en: 'Blinds the target, impairing its movement and casting for a short duration.'
   }
 },
 {
-  name       : {$$: 'Relentless Cry'}, 
+  name       : {$$: 'Relentless Cry'},
   description: {
     en: 'Intimidate your enemies, confusing them for a short duration and recovering a percentage of your missing health.'
   }
 },
 {
-  name       : {$$: 'Shatterfrost'}, 
+  name       : {$$: 'Shatterfrost'},
   description: {
     en: 'Hurls a heavy fragment of frost at your target for massive amounts of damage. Deals extra damage on low health targets.'
   }
 },
 {
-  name       : {$$: 'Frostcall'}, 
+  name       : {$$: 'Frostcall'},
   description: {
     en: 'Channel a freezing storm over a targeted area, dealing damage to all targets in a radius.'
   }
 },
 {
-  name       : {$$: 'Ice Block'}, 
+  name       : {$$: 'Ice Block'},
   description: {
     en: 'Summons a protective ice block, preventing all damage to you and recovering a percentage of your health over a short duration. You cannot move or cast any spells during this time.'
   }
 },
 {
-  name       : {$$: 'Bone Shot'}, 
+  name       : {$$: 'Bone Shot'},
   description: {
     en: 'Fire a heavy fermur bone at your target for massive damage. Deals 50% extra damage to targets below 30% health.'
   }

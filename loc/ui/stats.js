@@ -437,7 +437,7 @@ export default {
     },
 
     {
-      en: 'Skill Points (Max)',
+      en: 'Skill Points (Max)'
     },
 
     {
