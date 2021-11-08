@@ -50,7 +50,8 @@ const syllables = ['acaru', 'achi', 'acti', 'ael', 'aelle', 'aelo', 'aer', 'aeri
   'vox', 'vugz', 'vulen', 'vulpe', 'waaz', 'wake', 'war', 'wasu', 'weap', 'wei', 'willo', 'wind', 'wing', 'wirya', 'wise', 'witch', 'wix', 'wolf', 'world', 'wrath', 'xas',
   'xhan', 'xhi', 'xih', 'xilo', 'xio', 'xiza', 'xor', 'xugu', 'xuk', 'xuxu', 'xyli', 'yae', 'yari', 'yeno', 'yir', 'yiryo', 'ylla', 'yo', 'yoer', 'yore', 'yrgo', 'yrie',
   'yrni', 'ytia', 'zak', 'zal', 'zaph', 'zaro', 'zedh', 'zee', 'zel', 'zele', 'zeli', 'zelph', 'zera', 'zest', 'zhem', 'zia', 'zog', 'zoi', 'zon', 'zoti', 'zug', 'zul', 'zur',
-  'zutu', 'zuvi', 'zvon', 'zzuk']
+  'zutu', 'zuvi', 'zvon', 'zzuk', 'eerie', 'dran', 'dris', 'tyrg', 'tren', 'forh', 'scia', 'scaf', 'kron', 'lopo', 'shur', 'onos', 'kyto', 'trin', 'zort', 'wert', 'wenk', 'zxym'
+  'arye', 'yare', 'kriod', 'manto', 'morb', 'shuk', 'druk', 'homa', 'tike', 'vlor', 'plor', 'tryn', 'dryt', 'tiri', 'hirt', 'aveni', 'azci', 'rone'                  ]
 
 export const generate = (minSyl = 2, maxSyl = 6, maxLen = 8)=>{
   // generates a random name with a variable max length / syllable amount
