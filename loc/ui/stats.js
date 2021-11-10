@@ -445,6 +445,10 @@ export default {
     },
 
     {
+      $$: 'PvP Level'
+    },
+
+    {
       en: '% Increased Dmg.',
       el: '% Επιπλέον Ζημιά',
       fr: '% Dmg Améliorés',
