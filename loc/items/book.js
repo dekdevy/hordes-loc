@@ -182,7 +182,7 @@ export default [{
   name: {$$: 'Crusader\'s Courage'},
 
   description: {
-    en: 'You and your party members gain additional Defense.',
+    en: 'You and your party members gain additional Defense and Mana Regeneration.',
     ru: 'Вы и члены вашей party получаете дополнительную защиту.',
     fr: 'Vous et les membres de votre groupe gagnez de la Défense supplémentaire.'
   }
@@ -455,6 +455,18 @@ export default [{
   name       : {$$: 'Bone Shot'},
   description: {
     en: 'Fire a heavy fermur bone at your target for massive damage. Deals 50% extra damage to targets below 30% health.'
+  }
+},
+{
+  name       : {$$: 'Summon Runedisks'},
+  description: {
+    en: '-'
+  }
+},
+{
+  name       : {$$: 'Runefire Blast'},
+  description: {
+    en: '-'
   }
 }
 ]
