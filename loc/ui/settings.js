@@ -195,7 +195,7 @@ export default {
     hi: 'ग्राफ़िक्स',
     es: 'Gráficos',
     de: 'Grafik',
-    fr: 'Graphiques',
+    fr: 'Graphismes',
     nl: 'Grafischen',
     tr: 'Grafikler',
     pt: 'Gráficos',
