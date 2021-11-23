@@ -23,7 +23,7 @@ export default {
       ru: 'Сбрось мои очки характеристик( $g$1 ).',
       hu: 'Statpont újraszervezés ( $g$1 ).',
       pt: 'Reinicie os meus pontos de stat ( $g$1 ).',
-      fr: 'Réinitialisez mes points d\'aptitudes ( $g$1 ).',
+      fr: 'Réinitialisez mes points de stats ( $g$1 ).',
       nl: 'Reset mijn status punten ( $g$1 ).',
       es: 'Restablecer mis puntos de estadísticas ( $g$1 ).',
       de: 'Setze meine Stat-Punkte zurück. ( $g$1 ).',
