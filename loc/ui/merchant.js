@@ -7,7 +7,7 @@ export default {
     ru: 'Поиск',
     de: 'Suche',
     pt: 'Pesquisar',
-    fr: 'Recherche',
+    fr: 'Rechercher',
     es: 'Buscar',
     ko: '검색',
     ro: 'Caută',
