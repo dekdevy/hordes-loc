@@ -488,5 +488,11 @@ export default [{
   description: {
     $$: '-'
   }
+},
+{
+  name       : {$$: 'Obelisk Conjuration'},
+  description: {
+    $$: '-'
+  }
 }
 ]
