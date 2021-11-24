@@ -448,9 +448,9 @@ export default [{
 {
   name       : {$$: 'Shatterfrost'},
   description: {
-    en: 'Hurls a heavy fragment of frost at your target for massive amounts of damage. Deals extra damage on low health targets.',
-    fr: 'Projette un lourd fragment de givre sur votre cible pour lui infliger d\'énormes dégâts. Fait des dégâts supplémentaires sur les cibles ayant peu de HP restants.',
-    ru: 'Бросает в цель тяжелый осколок льда, наносящий огромный урон. Наносит дополнительный урон по целям с низким уровнем здоровья.'
+    en: 'Hurls a heavy fragment of frost at your target for massive amounts of damage. Deals extra damage to targets deep frozen by Ice Bolt.',
+    fr: 'Projette un lourd fragment de givre sur votre cible pour lui infliger d\'énormes dégâts.', // deep freeze hint tbd
+    ru: 'Бросает в цель тяжелый осколок льда, наносящий огромный урон. Наносит дополнительный урон целям, находящимся в глубокой заморозке от Ice Bolt.'
   }
 },
 {
