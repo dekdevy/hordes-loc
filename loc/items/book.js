@@ -401,82 +401,92 @@ export default [{
   name       : {$$: 'Volley'},
   description: {
     en: 'Rapidly shoots arrows at all targets in front of you, dealing damage over a short period of time.',
-    fr: 'Tire rapidement des flèches sur toutes les cibles en face de vous, infligeant des dégâts sur une courte période.'
+    fr: 'Tire rapidement des flèches sur toutes les cibles en face de vous, infligeant des dégâts sur une courte période.',
+    ru: 'Быстро стреляет стрелами во все цели перед вами, нанося урон в течение короткого промежутка времени.'
   }
 },
 {
   name       : {$$: 'Whirlwind'},
   description: {
     en: 'Spins your sword for a short period of time, dealing damage to all targets around you while slowing you down. Removes all root effects when used. You can\'t block attacks while active.',
-    fr: 'Fait tournoyer votre épée pendant une courte période de temps, infligeant des dégâts à toutes les cibles autour de vous tout en vous ralentissant. Supprime tous les effets de contrôle de foule lorsqu\'il est utilisé. Vous ne pouvez pas bloquer les attaques lorsque ce sort est actif.'
+    fr: 'Fait tournoyer votre épée pendant une courte période de temps, infligeant des dégâts à toutes les cibles autour de vous tout en vous ralentissant. Supprime tous les effets de contrôle de foule lorsqu\'il est utilisé. Vous ne pouvez pas bloquer les attaques lorsque ce sort est actif.',
+    ru: 'Вращает меч в течение короткого времени, нанося урон всем целям вокруг вас и одновременно замедляя вас. При использовании снимает все корневые эффекты. Вы не можете блокировать атаки, пока активно.'
   }
 },
 {
   name       : {$$: 'Mimir\'s Cleanse'},
   description: {
     en: 'Removes negative effects from a friendly target, prioritizing movement impairing effects. Heals the target for each removed effect.',
-    fr: 'Supprime les effets négatifs de l\'allié ciblé, en supprimant en priorité les effets affectant le mouvement. Guérit la cible pour chaque effet supprimé.'
+    fr: 'Supprime les effets négatifs de l\'allié ciblé, en supprimant en priorité les effets affectant le mouvement. Guérit la cible pour chaque effet supprimé.',
+    ru: 'Снимает негативные эффекты с дружественной цели, отдавая приоритет эффектам, замедляющим передвижение. Исцеляет цель за каждый снятый эффект.'
   }
 },
 {
   name       : {$$: 'Vampiric Arrow'},
   description: {
     en: 'A cursed arrow which bites your enemy, healing you as it returns. If your target is casting, the cast will be interrupted and the healing is increased.',
-    fr: 'Une flèche maudite qui mord votre ennemi et vous soigne en retour. Si votre cible est en train de lancer un sort, le sort sera interrompu et les soins seront augmentés.'
+    fr: 'Une flèche maudite qui mord votre ennemi et vous soigne en retour. Si votre cible est en train de lancer un sort, le sort sera interrompu et les soins seront augmentés.',
+    ru: 'Проклятая стрела, которая кусает вашего врага, исцеляя вас при возвращении. Если ваша цель кастует заклинание, заклинание будет прервано, а исцеление увеличено.'
   }
 },
 {
   name       : {$$: 'Blinding Shot'},
   description: {
     en: 'Blinds the target, impairing its movement and casting for a short duration.',
-    fr: 'Rend la cible aveugle, ce qui nuit à ses mouvements et à sa capacité de lancer des sorts pendant une courte durée.'
+    fr: 'Rend la cible aveugle, ce qui nuit à ses mouvements et à sa capacité de lancer des sorts pendant une courte durée.',
+    ru: 'Ослепляет цель, лишая ее свободы движения и способности действовать на короткое время.'
   }
 },
 {
   name       : {$$: 'Relentless Cry'},
   description: {
     en: 'Intimidate your enemies, confusing them for a short duration and recovering a percentage of your missing health.',
-    fr: 'Intimidez vos ennemis, en les déroutant pendant une courte durée et en récupérant un pourcentage de votre santé manquante.'
+    fr: 'Intimidez vos ennemis, en les déroutant pendant une courte durée et en récupérant un pourcentage de votre santé manquante.',
+    ru: 'Запугивайте врагов, сбивая их с толку на короткое время и восстанавливая процент потерянного здоровья.'
   }
 },
 {
   name       : {$$: 'Shatterfrost'},
   description: {
     en: 'Hurls a heavy fragment of frost at your target for massive amounts of damage. Deals extra damage on low health targets.',
-    fr: 'Projette un lourd fragment de givre sur votre cible pour lui infliger d\'énormes dégâts. Fait des dégâts supplémentaires sur les cibles ayant peu de HP restants.'
+    fr: 'Projette un lourd fragment de givre sur votre cible pour lui infliger d\'énormes dégâts. Fait des dégâts supplémentaires sur les cibles ayant peu de HP restants.',
+    ru: 'Бросает в цель тяжелый осколок льда, наносящий огромный урон. Наносит дополнительный урон по целям с низким уровнем здоровья.'
   }
 },
 {
   name       : {$$: 'Frostcall'},
   description: {
     en: 'Channel a freezing storm over a targeted area, dealing damage to all targets in a radius.',
-    fr: 'Canalise une tempête glaciale sur une zone ciblée, infligeant des dégâts à toutes les cibles dans un rayon.'
+    fr: 'Canalise une tempête glaciale sur une zone ciblée, infligeant des dégâts à toutes les cibles dans un rayon.',
+    ru: 'Направьте ледяной шторм на заданную область, нанося урон всем целям в радиусе.'
   }
 },
 {
   name       : {$$: 'Ice Block'},
   description: {
     en: 'Summons a protective ice block, preventing all damage to you and recovering a percentage of your health over a short duration. You cannot move or cast any spells during this time.',
-    fr: 'Invoque un bloc de glace protecteur, empêchant tous les dégâts qui vous sont infligés et récupérant un pourcentage de votre santé pendant une courte durée. Vous ne pouvez ni bouger ni lancer de sorts durant cette période.'
+    fr: 'Invoque un bloc de glace protecteur, empêchant tous les dégâts qui vous sont infligés et récupérant un pourcentage de votre santé pendant une courte durée. Vous ne pouvez ni bouger ni lancer de sorts durant cette période.',
+    ru: 'Вызывает защитную ледяную глыбу, предотвращающую все повреждения и восстанавливающую процент вашего здоровья в течение короткого времени. В это время вы не можете двигаться или произносить заклинания.'
   }
 },
 {
   name       : {$$: 'Bone Shot'},
   description: {
-    en: 'Fire a heavy fermur bone at your target for massive damage. Deals 50% extra damage to targets below 30% health.',
-    fr: 'Tirez un lourd os fémoral sur votre cible pour lui infliger d\'énormes dégâts. Inflige 50% de dégâts supplémentaires aux cibles dont la santé est inférieure à 30%.'
+    en: 'Fire a heavy femur bone at your target for massive damage. Deals 50% extra damage to targets below 30% health.',
+    fr: 'Tirez un lourd os fémoral sur votre cible pour lui infliger d\'énormes dégâts. Inflige 50% de dégâts supplémentaires aux cibles dont la santé est inférieure à 30%.',
+    ru: 'Выстрелите тяжелой бедренной костью в цель, нанося ей огромный урон. Наносит 50% дополнительного урона целям с уровнем здоровья менее 30%.'
   }
 },
 {
   name       : {$$: 'Summon Runedisks'},
   description: {
-    en: '-'
+    $$: '-'
   }
 },
 {
   name       : {$$: 'Runefire Blast'},
   description: {
-    en: '-'
+    $$: '-'
   }
 }
 ]
