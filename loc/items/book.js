@@ -20,7 +20,7 @@ export default [{
   name: {$$: 'Bulwark'},
 
   description: {
-    en: 'Increase your block chance, while raising your damage for each successful block.', // descriptions are coming from the buffs
+    en: 'Temporarily increases your block chance, while also healing you when you block.',
     ru: 'Увеличьте шанс блока, одновременно повышая урон для каждого успешного блока.',
     fr: 'Vous augmentez vos chances de bloquer une attaque, tout en augmentant vos dégats pour chaque blocage réussi.'
   }
@@ -152,12 +152,10 @@ export default [{
   }
 },
 {
-  name: {$$: 'Colossal Reconstruction'},
+  name: {$$: 'Enrage'},
 
   description: {
-    en: 'While active you are healed each time you block an attack.',
-    ru: 'В активном состоянии вы исцеляетесь каждый раз, когда блокируете атаку.',
-    fr: 'Quand ce sort est actif, vous êtes soigné chaque fois que vous bloquez une attaque.'
+    en: 'Temporarily increases your damage output.'
   }
 },
 {
