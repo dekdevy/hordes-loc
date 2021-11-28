@@ -13,7 +13,7 @@ export default [{
   description: {
     en: 'Slash your enemy, striking with extra force. Heals you for 5% of the damage done.',
     ru: 'Режь врага, нанося удар с дополнительной силой. Исцеляет вас за 5% от нанесенного урона.',
-    fr: 'Vous lacérez votre ennemi en frappant avec une force supplémentaire. Vous soigne 5% des dégats infligés.'
+    fr: 'Vous lacérez votre ennemi en frappant avec plus de force. Vous soigne pour 5% des dégats infligés.'
   }
 },
 {
@@ -22,7 +22,7 @@ export default [{
   description: {
     en: 'Temporarily increases your block chance, while also healing you when you block.',
     ru: 'Увеличьте шанс блока, одновременно повышая урон для каждого успешного блока.',
-    fr: 'Vous augmentez vos chances de bloquer une attaque, tout en augmentant vos dégats pour chaque blocage réussi.'
+    fr: 'Vous augmentez temporairement vos chances de bloquer une attaque, tout en augmentant vos dégats pour chaque blocage réussi.'
   }
 },
 {
@@ -31,7 +31,7 @@ export default [{
   description: {
     en: 'Swiftly swing your sword around you, damaging enemies within a radius.',
     ru: 'Быстро размахивайте мечом вокруг себя, нанося урон врагам в радиусе.',
-    fr: 'Vous faites rapidement tourner votre épée autour de vous, infligeant des dégats aux ennemies dans un rayon.'
+    fr: 'Vous faites rapidement tournoyer votre épée autour de vous, infligeant des dégats aux ennemies dans un rayon.'
   }
 },
 {
@@ -67,7 +67,7 @@ export default [{
   description: {
     en: 'Heal a friendly target over a short duration, stacking up to 3 times while also increasing the power of your Mend.',
     ru: 'Исцелить дружелюбную цель в течение короткого времени, укладываясь до 3 раз, при этом увеличивая силу Mend.',
-    fr: 'Vous soignez une cible alliée sur une courte durée, cumulable jusqu\'à 3 fois, tout en augmentant la puissance du Mend.'
+    fr: 'Soigne une cible alliée pendant une courte durée, cumulable jusqu\'à 3 fois, tout en augmentant la puissance du Mend.'
   }
 },
 {
@@ -94,7 +94,7 @@ export default [{
   description: {
     en: 'Your Precise Shots will jump to additional targets while active.',
     ru: 'Ваши Precise Shhots будут перепрыгивать на дополнительные цели, пока это заклинание активно.',
-    fr: 'Vos Precise Shots passeront à des cibles supplémentaires tant que ce sort est actif.'
+    fr: 'Vos Precise Shots sauteront sur des cibles supplémentaires tant que ce sort est actif.'
   }
 },
 {
@@ -155,7 +155,8 @@ export default [{
   name: {$$: 'Enrage'},
 
   description: {
-    en: 'Temporarily increases your damage output.'
+    en: 'Temporarily increases your damage output.',
+    fr: 'Augmente temporairement vos dégats.'
   }
 },
 {
@@ -164,7 +165,7 @@ export default [{
   description: {
     en: 'Your Crescent Swipe lacerates enemies, causing them to bleed for additional Damage. Stacks up to 3 times.',
     ru: 'Ваш Crescent Swipe рвет врагов, заставляя их истекать кровью для дополнительного урона. Складывается до 3-х раз.',
-    fr: 'Votre Crescent Swipe lacère les ennemis, les faisant saigner pour des dégats supplémentaires. Cumulable jusqu\'à 3 fois.'
+    fr: 'Votre Crescent Swipe lacère les ennemis, les faisant saigner pour leur infliger des dégats supplémentaires. Cumulable jusqu\'à 3 fois.'
   }
 },
 {
@@ -386,7 +387,7 @@ export default [{
   description: {
     en: 'Decay deals damage and jumps to a nearby enemy if the current target is already affected by Decay. Additionally, casting Decay grants you Haste for a short duration.',
     ru: 'Decay наносит урон и перепрыгивает на ближайшего врага, если первая цель уже подвержена действию Decay. Кроме того, использование Decay дает дополнительную Haste на короткое время.',
-    fr: 'Decay inflige des dégats et passe à un ennemi proche si la cible actuelle est déjà affectée par Decay. De plus, lancer Decay vous octroie de la Hâte pour une courte durée.'
+    fr: 'Decay inflige des dégats et saute sur un ennemi proche si la cible actuelle est déjà affectée par Decay. De plus, lancer Decay vous octroie de la Hâte pour une courte durée.'
   }
 },
 {
