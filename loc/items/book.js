@@ -369,7 +369,8 @@ export default [{
   name: {$$: 'Tempering'},
 
   description: {
-    en: 'Two seconds after casting all active stun and root effects on you will be removed. If any effect is removed then your Charge cooldown is reset and you gain 20 Movement Speed for 3 seconds.'
+    en: 'Two seconds after casting all active stun and root effects on you will be removed. If any effect is removed then your Charge cooldown is reset and you gain 20 Movement Speed for 3 seconds.',
+    fr: 'Deux secondes après l\'utilisation, tous les effets d\'étourdissement et d\'enracinement actifs sur vous seront supprimés. Si un effet est supprimé, le temps de recharge de votre Charge est réinitialisé et vous gagnez 20 de vitesse de déplacement pendant 3 secondes.'
   }
 },
 {
