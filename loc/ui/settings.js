@@ -257,24 +257,12 @@ export default {
     cs: 'Rozlišení'
   },
 
-  postprocessing: {
-    en: 'Post-processing',
-    el: 'Post-processing',
-    de: 'Nachbearbeitung',
-    ru: 'Постобработка',
-    tr: 'Detaylandırma',
-    fr: 'Post-traitement',
-    pt: 'Pós-processamento.',
-    nl: 'Nawerking',
-    hu: 'Utófeldolgozás',
-    es: 'Post-procesamiento',
-    pl: 'Post-processing',
-    vi: 'Hậu xử lý',
-    it: 'Post-processing',
-    sr: 'Пост обрада',
-    ja: 'ジャギー抑制',
-    ko: '효과',
-    cs: 'Post-processing'
+  fxaa: {
+    en: 'FXAA'
+  },
+
+  bloom: {
+    en: 'Bloom'
   },
 
   skilleffects: {
@@ -321,25 +309,25 @@ export default {
     cs: 'Stíny'
   },
 
-  ssao: {
-    en: 'Ambient Occlusion',
-    el: 'Ambient Occlusion',
-    ru: 'Окружающая окклюзия',
-    fr: 'Occlusion Ambiante',
-    pt: 'Oclusão Ambiental',
-    nl: 'Omgevingsocclusie',
-    hu: 'Környezet okklúzió',
-    es: 'Oclusión Ambiental',
-    pl: 'Okluzja otoczenia',
-    de: 'Umgebungsverdeckung',
-    vi: 'Môi trường xung quanh',
-    it: 'Occlusione Ambientale',
-    sr: 'Оклузија околине',
-    tr: 'Çevresel Perdeleme',
-    ja: '環境閉塞',
-    ko: '광원',
-    cs: 'Ambientní okluze'
-  },
+  // ssao: {
+  //   en: 'Ambient Occlusion',
+  //   el: 'Ambient Occlusion',
+  //   ru: 'Окружающая окклюзия',
+  //   fr: 'Occlusion Ambiante',
+  //   pt: 'Oclusão Ambiental',
+  //   nl: 'Omgevingsocclusie',
+  //   hu: 'Környezet okklúzió',
+  //   es: 'Oclusión Ambiental',
+  //   pl: 'Okluzja otoczenia',
+  //   de: 'Umgebungsverdeckung',
+  //   vi: 'Môi trường xung quanh',
+  //   it: 'Occlusione Ambientale',
+  //   sr: 'Оклузија околине',
+  //   tr: 'Çevresel Perdeleme',
+  //   ja: '環境閉塞',
+  //   ko: '광원',
+  //   cs: 'Ambientní okluze'
+  // },
 
   grass: {
     en: 'Grass',
