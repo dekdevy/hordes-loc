@@ -265,6 +265,10 @@ export default {
     en: 'Bloom'
   },
 
+  disableoffscreen: {
+    en: 'Disable off-screen creatures'
+  },
+
   skilleffects: {
     en: 'Skill Effects',
     el: 'Εφέ Ξορκιών',
@@ -390,27 +394,6 @@ export default {
     ja: 'パーティクル',
     ko: '자연 현상',
     cs: 'Částice'
-  },
-
-  detailprops: {
-    en: 'Detail props',
-    el: 'Λεπτομέρειες',
-    de: 'Details',
-    ru: 'Детализация',
-    nl: 'Detail Voorwerpen',
-    hu: 'Részletes objektumok',
-    es: 'Detalles de accesorios',
-    zh: '細節道具',
-    fr: 'Objets détaillés',
-    pl: 'Szczegóły',
-    vi: 'Chi tiết',
-    it: 'Dettagli',
-    sr: 'Детаљи предмета',
-    pt: 'Detalhes das props.',
-    tr: 'Nesne detayları',
-    ja: '建造物の詳細',
-    ko: '물체 디테일',
-    cs: 'Detail rekvizit'
   },
 
   // ---- Audio
