@@ -472,7 +472,7 @@ export default [{
 {
   name       : {$$: 'Bone Shot'},
   description: {
-    en: 'Fire a heavy femur bone at your target for massive damage. Deals 50% extra damage to targets below 30% health.',
+    en: 'Fire a heavy femur bone at your target for massive damage. Deals 50% extra damage to targets below 50% health.',
     fr: 'Tirez un lourd os fémoral sur votre cible pour lui infliger d\'énormes dégâts. Inflige 50% de dégâts supplémentaires aux cibles dont la santé est inférieure à 30%.',
     ru: 'Выстрелите тяжелой бедренной костью в цель, нанося ей огромный урон. Наносит 50% дополнительного урона целям с уровнем здоровья менее 30%.'
   }
