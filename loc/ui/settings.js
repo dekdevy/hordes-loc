@@ -266,7 +266,8 @@ export default {
   },
 
   disableoffscreen: {
-    en: 'Disable off-screen creatures'
+    en: 'Disable off-screen creatures',
+    fr: 'Désactiver les créatures hors de l\'écran'
   },
 
   skilleffects: {
