@@ -13,6 +13,7 @@ export default [
       it: 'Spedito dalle regioni inesplorate di Faivel. Il contenuto di questa gabbia non può essere ispezionato fino all\'apertura.',
       ro: 'Expediată din regiunile neexplorate din Faivel. Conținuturile acestei cuști nu pot fi inspectate până la deschidere.',
       nl: 'Verzonden vanuit de onbezochte gebieden van Faivel. De inhoud van deze kooi kan niet worden geïnspecteerd tot het geopened is.'
+      zh: '來自Faivel的未開發區域，在打開之前你永遠不會知道它裡面裝了些什麼。'
     }
   }
 ]
