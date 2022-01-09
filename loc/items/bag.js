@@ -13,6 +13,7 @@ export default [
       nl: 'Deze buidel is gemaakt van een fijne stof. Buidels zoals deze zijn vaak eigendom van gewone mensen voor het dragen van hun bezittingen.',
       it: 'Questo zaino è stato fabbricato con un tessuto fragile. Zaini come questi spesso vengono utilizzati dalle persone comuni per trasportare i loro averi.',
       ro: 'Acest săculeț este făcut dintr-un material delicat. Astfel de săculeți sunt des folosiți de oameni simpli pentru a-și căra bunurile.'
+      zh: '這個袋子是用精巧的織法製作的，這種類型的袋子常常出現在平民的身邊以便於他們攜帶物品。'
     }
   },
 
@@ -30,6 +31,7 @@ export default [
       nl: 'Deze rugzak is gehandhaafd van stevige stoffen om meer uitrusting te dragen dan een "Linen Pouch".',
       it: 'Questo zaino robusto è stato realizzato con un tessuto resistente per contenere più oggetti rispetto ad un "Linen Pouch".',
       ro: 'Acest sac aspru este creat din materiale robuste pentru a susține mai mult echipament decât "Linen Pouch".'
+      zh: '這個粗糙的背包是由堅韌的織物製作的以保存比麻布袋更多的物品。'
     }
   },
 
@@ -47,6 +49,7 @@ export default [
       nl: 'Deze krachtige zak is gemaakt van monsterhuid en gunt een fatsoenlijke inventaris.',
       it: 'Questo zaino resistente è stato fabbricato con la pelle dei mostri e consente un inventario rispettabile.',
       ro: 'Acest sac robust este făcut din piele de monstru și permite posesia unui inventar respectabil.'
+      zh: '這個堅實的背包是由獸皮製作而成以保存大量物品。'
     }
   },
 
