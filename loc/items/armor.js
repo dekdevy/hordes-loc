@@ -12,6 +12,7 @@ export default [
       nl: 'Dit is een verassend stevig materiaal dat gebruikt kan worden als een beschermend kledingstuk. De in elkaar gezette natuur van dit materiaal is duidelijk, dus vele avonturiers kiezen ervoor om de "potato sack" zo snel mogelijk te vervangen.',
       it: 'È un materiale sorprendentemente robusto che può essere usato come veste protettiva. La natura improvvisata di questo materiale è ovvia, quindi molti avventurieri scelgono di sostituire il sacco di patate il più velocemente possibile.',
       ro: 'Acesta este un material surprinzător de ferm dacă poate fi folosit drept haină de protecție. Natura improvizată a materialului e atât de evidentă, încât mulți aventurieri aleg să înlocuiască acest sac de cartofi cât mai repede cu putință.'
+      zh: '是個令人驚訝能夠用於防護的布料。很顯然這是出於臨時，所以許多冒險這會選擇盡快找到替代品。'
     }
   },
 
@@ -28,6 +29,7 @@ export default [
       nl: 'Dit kledingstuk is een familie-erfstuk dat is doorgegeven aan de ene avonturiersgeneratie tot de andere.',
       it: 'Questo indumento è un cimelio di famiglia passato da una generazione avventuriera ad un\'altra.',
       ro: 'Această haină este o moștenire de familie ce a fost pasată în generații de la un aventurier la altul.'
+      zh: '這副服裝是冒險者代代相傳的傳家寶。'
     }
   },
 
@@ -44,6 +46,7 @@ export default [
       nl: 'Dit tuniek is gemaakt uit stevige stoffen die ontworpen zijn voor het weerstaan van het wildernis overleven. ',
       it: 'Questa tunica è stata fabbricata usando materiali robusti ideali per la resistenza alla sopravvivenza nella natura selvaggia. Molte tradizioni comprendono il donare le tuniche come regalo agli avventurieri che sembravano considerati degni da un consiglio.',
       ro: 'Această tunică este fabricată dintr-un material robust și este făcută pentru a rezista supraviețuirii în sălbăticie. Câteva tradiții implică dăruirea de tunici drept cadou pentru aventurierii desemnați vretnici de o organizație.'
+      zh: '這副束腰外衣是由粗糙的織物製成以支撐荒郊野外的生存。有些傳統會把束腰外衣當作是禮物送給冒險者視為配得上組織的人物。'
     }
   },
 
@@ -60,6 +63,7 @@ export default [
       nl: 'Dit leren harnas is een vaak voorkomende keuze voor avonturiers. De trend van het dragen van "leather jerkins" is ontstaan rond Yggdrasil toen er gevaarlijke wezens begonnen rond te kruipen in de nabije jungles.',
       it: 'Questa armatura di pelle è una scelta comune per gli avventurieri erranti. La tendenza di indossare questi farsetti in pelle ha origine intorno a Yggdrasil, quando le creature pericolose iniziarono ad appostarsi nelle giungle vicine.',
       ro: 'Această armură din piele reprezintă o alegere comună pentru călătorii aventurieri. Tendința purtării gecilor de piele provine din jurul lui Yggdrasil, pe când creaturile periculoase au început să mișune în junglele din apropiere.'
+      zh: '這副皮革盔甲是個對旅行的冒險者來說不錯的選擇。 穿戴皮革盔甲的潮流起源於當世界樹周圍開始埋伏著危險的生物。'
     }
   },
 
@@ -76,6 +80,7 @@ export default [
       nl: 'Dit harnas is gemaakt van monsterschubben die gevonden waren op de grond. Monsterschubben worden vaak gehandhaafd tot fatsoenlijke harnassen wanneer er een tekort was aan metaal. ',
       it: 'Questa armatura è costruita usando scaglie di mostro trovate per terra. le scaglie di mostro sono spesso utilizzate per costruire armature rispettabili quando il metallo scarseggia.',
       ro: 'Armura aceasta este fabricată din solzi de monstru ce au fost găsiți pe pământ. Solzii de monstru sunt deseori prefăcuți în respectabile armuri ori de câte ori nu se mai găsește metal.'
+      zh: '這副盔甲是由地上找到怪獸鱗片製作而成.。當金屬短缺的時候，怪獸鱗片常常會用來製作像樣的盔甲。'
     }
   },
 
