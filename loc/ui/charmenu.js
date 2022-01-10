@@ -234,7 +234,7 @@ export default {
       nl: 'Voer een naam in',
       pt: 'Introduza um nome',
       ro: 'Introduceți un nume',
-      zh: '選擇名稱',
+      zh: '輸入名稱',
       hu: 'Add meg a hősöd nevét',
       pl: 'Wprowadź imię',
       bn: 'নাম লিখুন',
