@@ -8,7 +8,8 @@ export default [
       it: 'Le campane sono spesso usate come simbolo di devozione verso una divinità scelta. L\'interno di questa campana ha un\'iscrizione d\'argento intarsiata, ma la traduzione dell\'iscrizione è andata perduta nel tempo.',
       ro: 'Clopotele sunt deseori văzute ca pe un simbol al dedicării față de o zeitate aleasă. Interiorul acestui clopot are o inscripție de argint gravată, dar traducerea acesteia a fost pierdută în timp.',
       hu: 'A kis harangokot gyakran használják a lelkesedés szimbólumaiként egy választott istenség felé. Ennek a csengőnek ezüsttel berakott felirat van a belsején, de a fordítás már rég az enyészeté.',
-      nl: 'Klokken zijn vaak gebruikt als een symbool van toewijding naar een gekozen godheid. de interieur van deze klok heeft een ingelegde zilveren inscriptie, maar de vertaling van deze inscriptie is verloren gegaan in de tijd.'
+      nl: 'Klokken zijn vaak gebruikt als een symbool van toewijding naar een gekozen godheid. de interieur van deze klok heeft een ingelegde zilveren inscriptie, maar de vertaling van deze inscriptie is verloren gegaan in de tijd.',
+      zh: '鐘常通常視為對所選神靈祈願的象徵，鐘的內部鑲嵌著銀製文字，但是關於解讀這類文字的方式已經失傳。'
     }
   },
   {
@@ -19,7 +20,8 @@ export default [
       ru: 'Окаменевшие яйца монстров часто интерпретируются как символы долголетия. Однако письменных записей об этих существах больше не существует.',
       ro: 'Ouăle de monstru fosilizate sunt deseori considerate un simbol al longevității. În orice caz, nu există dovezi scrise că aceste creaturi ar fi existat și în timpuri de demult.',
       hu: 'A megkövült szörnytojásokat gyakran a hosszú élet szimbólumaiként értelmezik. Másfelől viszont, nincsen írásos bizonyíték ezen lények létezésére a régmúltban.',
-      nl: 'Versteende monstereieren zijn vaak geïnterpreteerd als symbolen van levensduur. Echter, bestaan er geen schriftelijke verslagen van deze wezens in de afgelopen tijd. '
+      nl: 'Versteende monstereieren zijn vaak geïnterpreteerd als symbolen van levensduur. Echter, bestaan er geen schriftelijke verslagen van deze wezens in de afgelopen tijd. ',
+      zh: '石化的怪獸蛋經常會被當成是長壽的象徵。然而，沒有跡象表明這類生物存在於近代。'
     }
   },
   {
@@ -30,7 +32,8 @@ export default [
       ru: 'Оркские племена часто держат черепа достойных врагов в знак уважения. Этот череп украшают татуировки, символизирующие силу, которой враг обладал в течение жизни.',
       ro: 'Triburile de orci deseori păstrează craniile celor vretnici ca pe un semn de respect. Acest craniu este decorat cu tatuaje ce simbolizează puterea pe care individul a avut-o în timpul vieții.',
       hu: 'Ork törzsek gyakran tartják meg méltó ellenfeleik koponyáit a tisztelet jeléül. Ez a tetoválásokkal díszített koponya szimbolizálja az ellenfél életében valaha volt erejét.',
-      nl: 'Orkstammen houden vaak de schedels van waardige vijanden als een teken van respect. Deze schedel is vesierd met tatoeages die kracht symboliseren van de vijand tijdens het leven had.' // Not completely sure if this is 100% correct, Might want to have another dutch person check over this one.
+      nl: 'Orkstammen houden vaak de schedels van waardige vijanden als een teken van respect. Deze schedel is vesierd met tatoeages die kracht symboliseren van de vijand tijdens het leven had.', // Not completely sure if this is 100% correct, Might want to have another dutch person check over this one.
+      zh: '獸人部落經常會保存死去戰友的頭骨以示對他們的尊重。這種被紋身過的頭骨象徵著它生前的力量。'
     }
   },
   {
@@ -41,7 +44,8 @@ export default [
       ru: 'Флаги, поднятые с высот военных кораблей, назывались вымпелами. Этот вымпел был среди разбитых военных кораблей, которые первыми отправились в Headless Landing.',
       ro: 'Steagurile atârnate în vârfurile navelor se numeau fanioane. Această navă fanion a fost printre primele nave de război care au călătorit spre Headless Landing.',
       hu: 'A hadihajók tetején lebegő zászlókat lobogóknak hívjuk. Ez a lobogó az első Headless Landingre utazott hajók roncsai között volt.',
-      nl: 'Vlaggen die vanaf de toppen van oorlogsschepen werden gevlogen werden wimpels genoemd. Deze scheepswimpel was één van de verwoeste oorlogsschepen die voor het eerst naar headless landing reisden'
+      nl: 'Vlaggen die vanaf de toppen van oorlogsschepen werden gevlogen werden wimpels genoemd. Deze scheepswimpel was één van de verwoeste oorlogsschepen die voor het eerst naar headless landing reisden',
+      zh: '這種在戰船上方飄揚的旗子被稱為幡。這面船幡旗是最早前往Headless Landing的失事戰船上之一。'
     }
   },
   {
@@ -52,7 +56,8 @@ export default [
       ru: 'Магов часто создавали альтернативные методы приобретения маны во времена нехватки. Этот камень был создан во время Аrcane Crisis - времена, когда сети маны находились в состоянии крайнего стресса.',
       ro: 'Magicienii au creat metode alternative de a achiziționa mană în timpul sărăciei. Această mărgea a fost creată în timpul Arcane Crisis, un timp în care rețelele de mană erau supuse unui stres extrem.',
       hu: 'Mágusok alternatív módjait készítették el a mana beszerzésének hiány esetén. Ez az üveggolyó a Arcane Crisis idején készült, akkor mikor a mana hálózatok extrém terhelés alatt voltak.',
-      nl: 'Magiërs creëerden verschillende methodes om mana te verwerven in tijden van schaarste. Deze marmer is gemaakt tijdens de Arcane Crisis, een tijd waar mana netwerken onder extreme druk stonden.'
+      nl: 'Magiërs creëerden verschillende methodes om mana te verwerven in tijden van schaarste. Deze marmer is gemaakt tijdens de Arcane Crisis, een tijd waar mana netwerken onder extreme druk stonden.',
+      zh: '法師們創造了在缺乏魔力時獲得魔力的替代方法。這種藍石是在奧術危機時期產生的，當時的魔力來源正處於極端緊繃的狀態。'
     }
   }
 ]
