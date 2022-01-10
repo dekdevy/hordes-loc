@@ -86,7 +86,7 @@ export default {
     fr: '$1 a été promu dans le clan.',
     pl: '$1 otrzymał awans w klanie.',
     vi: '$1 đã được thăng chức.',
-    zh: '$1 公會角色升職。',
+    zh: '$1 公會角色被升職。',
     sr: 'Клан роле од $1 је унапређен.',
     it: '$1 è stato promosso nel ruolo di clan.',
     tr: '$1 klanda terfi edildi.',
