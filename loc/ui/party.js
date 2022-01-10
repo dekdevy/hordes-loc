@@ -17,7 +17,7 @@ export default {
     hi: 'Party में आमंत्रण',
     ko: 'Party 초대',
     ro: 'Invitație la Party',
-    zh: '邀请加入 Party',
+    zh: '邀請加入 Party',
     hu: 'Party meghívás',
     pl: 'Zaproszenie do party',
     vi: 'Lời mời Party',
@@ -65,7 +65,7 @@ export default {
     hi: 'Party छोड़ दे',
     ko: 'Party 나가기',
     ro: 'Părăsește Party',
-    zh: '离开 Party',
+    zh: '離開 Party',
     hu: 'Party Elhagyása',
     pl: 'Opuść Party',
     vi: 'Rời khỏi Party',
@@ -89,7 +89,7 @@ export default {
     hi: 'नई Party बनाए',
     ko: 'Party 만들기',
     ro: 'Creează Party',
-    zh: '创建 Party',
+    zh: '創建 Party',
     hu: 'Party Alapítása',
     pl: 'Stwórz Party',
     vi: 'Tạo Party',
@@ -113,7 +113,7 @@ export default {
     hi: '$1 उनकेPartyमें शामिल होने के लिए आपको आमंत्रित किया है।',
     ko: '$1 님이 자신의 Party에 당신을 초대했습니다.',
     ro: '$1 te-a invitat să te alături Party-ului',
-    zh: '$1 邀请你加入他们的 Party.',
+    zh: '$1 邀請你加入 Party.',
     hu: '$1 meghívott a Partyjába.',
     pl: '$1 zaprosił cię do Party.',
     vi: '$1 đã mời bạn vào Party của họ',
@@ -142,7 +142,8 @@ export default {
     sr: 'Pozivnica',
     it: 'Link di invito',
     ja: '招待リンク',
-    cs: 'Odkaz k pozvánce'
+    cs: 'Odkaz k pozvánce',
+    zh: '邀請連結'
   },
 
   // DO NOT translate "Party"
@@ -165,7 +166,8 @@ export default {
     sr: 'Pošalji ovaj link ostalim igračima! To će im omugućiti da se pridruže tvom party-ju.',
     it: 'Invia questo link ad altri giocatori! Ciò consentirà loro di unirsi al tuo Party.',
     ja: 'このリンクを他のプレイヤーに送りましょう！Partyに招待する事が出来ます。',
-    cs: 'Pošli tento odkaz ostatnm hráčům! Tento odkaz jim umožní se připojit do tvé Party'
+    cs: 'Pošli tento odkaz ostatnm hráčům! Tento odkaz jim umožní se připojit do tvé Party',
+    zh: '發送這個連結給其他玩家！這將允許他們進入 Party。
   },
 
   copyLink: {
@@ -191,7 +193,8 @@ export default {
     sr: 'Kopiraj u prviremenu memoriju',
     it: 'Copia negli appunti',
     ja: 'クリップボードへコピー',
-    cs: 'Zkopírovat do schránky'
+    cs: 'Zkopírovat do schránky',
+    zh: '複製到剪貼簿'
   },
 
   summon: {
@@ -210,7 +213,8 @@ export default {
     tr: 'Çağır',
     ja: '召喚',
     ko: '소환',
-    cs: 'Vyvolat'
+    cs: 'Vyvolat',
+    zh: '召喚'
   },
 
   onSummon: {
@@ -229,7 +233,8 @@ export default {
     it: '$1 si offre di evocarti nella loro posizione.',
     ja: '$1 が貴方を召喚しようとしています。',
     ko: '$1 이 당신을 자신이 위치한 장소로 소환하려 합니다.',
-    cs: '$1 ti nabízí vyvolání do jejich lokace'
+    cs: '$1 ti nabízí vyvolání do jejich lokace',
+    zh: '$1 召喚你至他的位置。'
   },
 
   // Do not translate "Assistant".
@@ -249,7 +254,8 @@ export default {
     it: 'Promuovi ad Assistant',
     ja: 'Assistant へ昇格',
     ko: 'Assistant으로 승급',
-    cs: 'Povýšit na Assistant'
+    cs: 'Povýšit na Assistant',
+    zh: '升格為 Assistant'
   },
 
   // Do not translate "Leader".
@@ -269,7 +275,8 @@ export default {
     it: 'Promuovi a Leader',
     ja: 'Leader へ昇格',
     ko: 'Leader로 승급',
-    cs: 'Povýšit na Leader'
+    cs: 'Povýšit na Leader',
+    zh: '升格為 Leader'
   },
 
   // Do not translate"Assistant".
@@ -289,7 +296,8 @@ export default {
     it: 'Retrocesso ad Assistant',
     ja: 'Assistant へ降格',
     ko: 'Assistant 강등',
-    cs: 'Degradovat Assistant'
+    cs: 'Degradovat Assistant',
+    zh: '降格為 Assistant'
   },
 
   startQueue: {
@@ -308,7 +316,8 @@ export default {
     pt: 'Na fila',
     ja: 'キュー',
     ko: '매칭',
-    cs: 'Fronta'
+    cs: 'Fronta',
+    zh: '列隊'
   },
 
   stopQueue: {
@@ -327,6 +336,7 @@ export default {
     pt: 'Sair da fila',
     ja: 'キューを去る',
     ko: '매칭 중단',
-    cs: 'Leave Queue'
+    cs: 'Leave Queue',
+    zh: '離開列隊'
   }
 }
