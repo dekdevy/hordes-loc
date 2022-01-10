@@ -167,7 +167,7 @@ export default {
     it: 'Invia questo link ad altri giocatori! Ciò consentirà loro di unirsi al tuo Party.',
     ja: 'このリンクを他のプレイヤーに送りましょう！Partyに招待する事が出来ます。',
     cs: 'Pošli tento odkaz ostatnm hráčům! Tento odkaz jim umožní se připojit do tvé Party',
-    zh: '發送這個連結給其他玩家！這將允許他們進入 Party。
+    zh: '發送這個連結給其他玩家！這將允許他們進入 Party。'
   },
 
   copyLink: {
