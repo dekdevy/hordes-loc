@@ -217,7 +217,7 @@ export default {
     tr: 'Eşya ID\'sini kopyala',
     ja: 'アイテムIDをコピー',
     cs: 'Zkopířovat položky ID',
-    zh: '複製物品ID',
+    zh: '複製物品ID'
   },
 
   sell: {
@@ -230,7 +230,7 @@ export default {
     tr: 'Eşya sat',
     ja: '売却する',
     cs: 'Prodat položku',
-    zh: '出售物品',
+    zh: '出售物品'
   },
 
   splithalf: {
