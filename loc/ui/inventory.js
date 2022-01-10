@@ -13,7 +13,7 @@ export default {
     tr: 'Enventer',
     ko: '목록',
     ro: 'inventar',
-    zh: '库存',
+    zh: '物品欄',
     hu: 'Hátizsák',
     pl: 'Ekwipunek',
     vi: 'Hành trang',
@@ -35,7 +35,7 @@ export default {
     ru: 'Вы подобрали $1.',
     hi: 'आपने $1 उठा लिया',
     ko: '$1 을(를) 주웠습니다.',
-    zh: '你捡到了$1。',
+    zh: '你撿起了 $1。',
     hu: 'Fölvetted: $1',
     pl: 'Podniesiono $1.',
     vi: 'Bạn nhặt được $1.',
@@ -59,7 +59,7 @@ export default {
     nl: 'Je hebt $1 weggegooid.',
     tr: '$1 \'i attın.',
     hi: 'आपने $1 को फेंक दिया',
-    zh: '你丢了$1。',
+    zh: '你丢了 $1。',
     hu: 'Eldobtad: $1',
     pl: 'Wyrzucono: $1.',
     vi: 'Bạn đã vứt đi $1.',
@@ -81,7 +81,7 @@ export default {
     ru: 'В инвентаре нет места.',
     hi: 'आपकी वस्तुसूचि भर गयी है',
     ko: '인벤토리가 가득 참',
-    zh: '你的库存满了。',
+    zh: '你的物品欄滿了。',
     hu: 'A hátizsákod tele van.',
     pl: 'Twój ekwipunek jest pełen.',
     vi: 'Hành trang của bạn đã đầy',
@@ -104,7 +104,7 @@ export default {
     ru: 'Вы продали $1.',
     hi: 'आपने $1 बेच दिया',
     ko: '$1 을(를) 판매했습니다.',
-    zh: '你卖了 $1。',
+    zh: '你賣了 $1。',
     hu: 'Eladtad: $1',
     pl: 'Sprzedano $1.',
     vi: 'Bạn đã bán $1.',
@@ -151,7 +151,7 @@ export default {
     tr: 'Eşyayı bırak',
     ko: '아이템 버리기',
     ro: 'Aruncă obiectul',
-    zh: '丢装备',
+    zh: '丟物品',
     hu: 'Tárgy eldobása',
     pl: 'Wyrzuć przedmiot',
     vi: 'Vứt vật phẩm',
@@ -173,7 +173,7 @@ export default {
     fr: 'Equiper l\'item',
     nl: 'Rust uw item uit',
     ro: 'Echipează obiectul',
-    zh: '上装备',
+    zh: '穿戴裝備',
     hu: 'Felfegyverkezés',
     pl: 'Wyposaż przedmiot',
     vi: 'Trang bị vật phẩm',
@@ -197,7 +197,7 @@ export default {
     ko: '아이템 사용',
     nl: 'Gebruik item',
     tr: 'Eşyayı kullan',
-    zh: '用物品',
+    zh: '使用道具',
     hu: 'Használat',
     pl: 'Użyj przedmiot',
     vi: 'Sử dụng vật phẩm',
@@ -216,7 +216,8 @@ export default {
     pt: 'Copiar ID do item',
     tr: 'Eşya ID\'sini kopyala',
     ja: 'アイテムIDをコピー',
-    cs: 'Zkopířovat položky ID'
+    cs: 'Zkopířovat položky ID',
+    zh: '複製物品ID',
   },
 
   sell: {
@@ -228,7 +229,8 @@ export default {
     pt: 'Vender item',
     tr: 'Eşya sat',
     ja: '売却する',
-    cs: 'Prodat položku'
+    cs: 'Prodat položku',
+    zh: '出售物品',
   },
 
   splithalf: {
@@ -247,7 +249,8 @@ export default {
     tr: 'İkiye böl',
     ja: '半分に分ける',
     ko: '반으로 나누기',
-    cs: 'Rozdělit na půl'
+    cs: 'Rozdělit na půl',
+    zh: '拆分一半'
   },
 
   splitone: {
@@ -266,7 +269,8 @@ export default {
     tr: 'Bir tane ayır',
     ja: '1つ分ける',
     ko: '하나만 선택',
-    cs: 'Rozdělit jednu'
+    cs: 'Rozdělit jednu',
+    zh: '拆分一個'
   },
 
   spend: {
@@ -282,7 +286,7 @@ export default {
     tr: '$1 para harcadınız.',
     hi: 'आपने $1 सिक्के खर्च कर दिए हैं',
     ro: 'Ai cheltuit $1.',
-    zh: '你花了$1。',
+    zh: '你花了 $1。',
     hu: 'Elköltöttél $1',
     pl: 'Wydano $1.',
     vi: 'Bạn đã dành $1',
@@ -305,7 +309,7 @@ export default {
     tr: 'Öldün ve $1 para kaybettin.',
     hi: 'आप मारे गए और $1 सिक्के खो दिए',
     ro: 'Ai murit și ai pierdut $1.',
-    zh: '你死了，掉了 $1。',
+    zh: '你已死亡，損失 $1。',
     hu: 'Meghaltál és elvesztetted: $1',
     pl: 'Podczas śmierci stracono $1.',
     vi: 'Bạn đã chết và mất $1',
