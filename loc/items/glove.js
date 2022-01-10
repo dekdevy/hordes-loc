@@ -80,7 +80,7 @@ export default [
       it: 'I guanti di ferro sono realizzati da maestri artigiani che hanno trascorso decenni lavorando con il metallo.',
       ro: 'Mănușile de fier sunt făcute de un meșter maestru care a petrecut decade lucrând cu metal.',
       nl: 'Iron gauntlest zijn gemaakt door een meesterlijke handhaver die tientallen jaren besteed heeft met metaalwerk.',
-      zh: '鐵製手套是由花費幾十年加工金屬的工匠大師製成的。
+      zh: '鐵製手套是由花費幾十年加工金屬的工匠大師製成的。'
     }
   },
 
