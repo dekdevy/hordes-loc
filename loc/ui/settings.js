@@ -479,7 +479,7 @@ export default {
     tr: 'Müzik sesi',
     ja: '音楽',
     ko: '음악 볼륨',
-    cs: 'Hlasitost Hudby'
+    cs: 'Hlasitost Hudby',
     zh: '音樂音量'
   },
   // ---- Chat
