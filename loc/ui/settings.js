@@ -258,15 +258,17 @@ export default {
   },
 
   fxaa: {
-    en: 'FXAA'
+    $$: 'FXAA'
   },
 
   bloom: {
-    en: 'Bloom'
+    en: 'Bloom',
+    ru: 'Bloom'
   },
 
   disableoffscreen: {
     en: 'Disable off-screen creatures',
+    ru: 'Отключить монстров за пределами экрана',
     fr: 'Désactiver les créatures hors de l\'écran'
   },
 
