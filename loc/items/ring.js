@@ -11,7 +11,8 @@ export default [
       es: 'Esta extraña banda permite almacenar una pequeña parte de la esencia vital del usuario.',
       ro: 'Acest cerc bizar permite ca o mică parte din esența vitală a purtătorului să fie stocată.',
       pt: 'Esta faixa estranha permite que uma pequena parte da essência da vida do usuário seja armazenada.',
-      nl: 'Deze vreemde polsband zorgt ervoor dat een klein gedeelte van de drager z’n levensessentie opgeslagen kan worden.'
+      nl: 'Deze vreemde polsband zorgt ervoor dat een klein gedeelte van de drager z’n levensessentie opgeslagen kan worden.',
+      zh: '這個奇特的戒指可以讓佩戴者的一小部分生命精華被儲存起來。'
     }
   },
 
@@ -27,7 +28,8 @@ export default [
       es: 'Este anillo está hecho de una madera especial que es tan resistente como el hierro. El Ironbark se usa a menudo como una alternativa al metal.',
       ro: 'Acest inel este creat dintr-un lemn special, dur ca și fierul. Ironbark este deseori utilizat ca o alternativă a metalului.',
       pt: 'Anel feito de uma madeira especial, tão resistente quanto o ferro. Ironbark geralmente é utilizado como alternativa ao metal',
-      nl: 'Deze ring is gemaakt van een speciale hout dat zo stevig is als ijzer. Ironbark wordt vaak gebruikt als een alternatief voor metaal.'
+      nl: 'Deze ring is gemaakt van een speciale hout dat zo stevig is als ijzer. Ironbark wordt vaak gebruikt als een alternatief voor metaal.',
+      zh: '這個戒指是由硬如鐵的木頭製作而成。鐵桉木經常會被視為金屬的替代品。'
     }
   },
 
@@ -43,7 +45,8 @@ export default [
       es: 'Dos reinos a los que se unió el matrimonio real hicieron que sus ejércitos llevaran estos anillos como símbolo de las nuevas naciones aliadas.',
       ro: 'Două regate ce au fost unite printr-o căsătorie regală au stabilit ca armatele lor să poarte aceste inele ca pe un simbol al națiunilor noi aliate.',
       pt: 'Dois reinos que foram unidos por um casamento real, tiveram seus exércitos utilizando estes anéis como símbolo das nações recém-aliadas.',
-      nl: 'Twee koninkrijken die geallieerd werden door een koninklijk huwelijk lieten hun legers deze ringen dragen als een symbool voor het net gevormde bondgenootschap.'
+      nl: 'Twee koninkrijken die geallieerd werden door een koninklijk huwelijk lieten hun legers deze ringen dragen als een symbool voor het net gevormde bondgenootschap.',
+      zh: '參加皇室婚禮的兩個王國讓他們的軍隊配戴著這些戒指作為新盟國的象徵。'
     }
   },
 
@@ -59,7 +62,8 @@ export default [
       es: 'Este anillo está hecho de los huesos de la cáscara de un monstruo. El hueso de monstruo puede usarse como material resistente cuando no hay otros recursos disponibles.',
       ro: 'Acest inel este făcut din rămășițele oaselor unui monstru. Oasele monștrilor pot fi folosite ca pe un material robust atunci când nu există alte surse disponibile.',
       pt: 'Anel feito de ossos de monstro. Os ossos de monstro podem ser ser um material resistente, quando nenhum outro recurso está disponível',
-      nl: 'Deze ring is gemaakt van de botten van een monster schil. Monster botten kunnen gebruikt worden als een stevig materiaal wanneer er geen andere materialen beschikbaar zijn.'
+      nl: 'Deze ring is gemaakt van de botten van een monster schil. Monster botten kunnen gebruikt worden als een stevig materiaal wanneer er geen andere materialen beschikbaar zijn.',
+      zh: '這個戒指是由怪物的骨頭軀殼製作而成，當沒有其他材料的時候怪物骨頭可以被用來當作堅韌的素材。'
     }
   },
 
@@ -75,7 +79,8 @@ export default [
       es: 'Los anillos a menudo se transmiten de generación en generación en la tradición élfica.',
       ro: 'Inelele sunt deseori pasate din generație în generație în tradiția Elfilor.',
       pt: 'Os anéis são frequentemente passados de geração em geração na tradição élfica',
-      nl: 'Ringen worden vaak geërfd van de ene generatie tot de volgende volgens elfen traditie.'
+      nl: 'Ringen worden vaak geërfd van de ene generatie tot de volgende volgens elfen traditie.',
+      zh: '在精靈的傳統中，戒指經常被代代相傳。'
     }
   },
 
