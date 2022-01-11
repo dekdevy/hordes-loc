@@ -14,7 +14,8 @@ export default {
       it: 'Le menti oppresse sono piene di opinioni in abbondanza; una tazza può essere molto utile se prima viene trovata vuota. Come posso aiutarti nel tuo cammino verso l\'illuminazione?',
       tr: 'Yüklü zihinler bol miktarda fikirle doludur; İlk önce boş bulunursa bir fincan oldukça faydalı olabilir. Aydınlanmaya giden yolda sana nasıl yardımcı olabilirim?',
       ja: '滾る熱意は数多くの声により満たされている。空の器はより良いものへとなり得るのだ。今、其方の悟りへの道は開かれる。その身を委ねるが良い。',
-      cs: 'Zatížená mysl je plná názorů; šálek může být užitečný, pokud je nejprve nalezen prázdný. Jak ti mohu být nápomocen na tvé cestě k osvícení?'
+      cs: 'Zatížená mysl je plná názorů; šálek může být užitečný, pokud je nejprve nalezen prázdný. Jak ti mohu být nápomocen na tvé cestě k osvícení?',
+      zh: '若多物可擇，其腦重也。杯之所以為杯，空也。在你走向啟蒙的道路上，我該如何幫助你？'
     },
 
     choices: [{
@@ -33,7 +34,8 @@ export default {
       it: 'Ripristina i miei punti status ( $g$1 )',
       tr: 'İstatistik puanlarımı sıfırla ( $g$1 )',
       ja: 'ステータスポイントをリセットして下さい。 ( $g$1 )',
-      cs: 'Resetuj moje statistické body ( $g$1 )'
+      cs: 'Resetuj moje statistické body ( $g$1 )',
+      zh: '重製我的屬性點 ( $g$1 )'
     }]
   }]
 }
