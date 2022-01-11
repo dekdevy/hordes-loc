@@ -9,7 +9,8 @@ export default [
       pl: 'Te pióra absorbują marzenia i koszmary tych, którzy śpią w pobliżu. Marzenia i koszmary są przechowywane i ponownie wykorzystywane w formie magii.',
       vi: 'Những chiếc lông này hấp thụ những giấc mơ và cơn ác mộng của những người ngủ gần nó. Những giấc mơ và ác mộng được lưu trữ và tái sử dụng dưới dạng phép thuật.',
       it: 'Queste piume assorbono i sogni e gli incubi di coloro che dormono vicino ad essa. I sogni e gli incubi sono immagazzinati e riutilizzati sotto forma di magia.',
-      es: 'Estas plumas absorben los sueños y las pesadillas de aquellos que duerman cerca de ella. Los sueños y las pesadillas serán guardados y reusados en forma de magia.'
+      es: 'Estas plumas absorben los sueños y las pesadillas de aquellos que duerman cerca de ella. Los sueños y las pesadillas serán guardados y reusados en forma de magia.',
+      zh: '這些羽毛吸收了睡在它附近的人的夢境和噩夢。這些夢和噩夢以魔法的形式被儲存和重複使用。'
     }
   },
 
@@ -23,7 +24,8 @@ export default [
       pl: 'Supernaturalna istota powiązana z tą lalką wzmacnia jej użytkownika potęgą magii.',
       vi: 'Một sinh vật siêu nhiên ràng buộc với con búp bê này mang lại sức mạnh ma thuật cho người dùng.',
       it: 'Una creatura soprannaturale legata a questa bambola alimenta il potere magico disponibile per l\'utente.',
-      es: 'Una criatura sobrenatural unida a este muñeco alimenta el poder mágico disponible al usuario.'
+      es: 'Una criatura sobrenatural unida a este muñeco alimenta el poder mágico disponible al usuario.',
+      zh: '綁定在這個玩偶上的超自然生物為使用者提供魔法能量。'
     }
   },
 
@@ -37,7 +39,8 @@ export default [
       pl: 'To łącze eminujące magią pochodzącą z natury.',
       vi: 'Đây là một lọ thuốc phát ra ma thuật có nguồn gốc từ tự nhiên.',
       it: 'Questa è un recipiente che emana magia proveniente dalla natura.',
-      es: 'Este es un recipiente que emana magia proveniente de la naturaleza.'
+      es: 'Este es un recipiente que emana magia proveniente de la naturaleza.',
+      zh: '這是個從自然中散發出魔力的容器。'
     }
   },
 
@@ -51,7 +54,8 @@ export default [
       pl: 'Te perły były noszone przez świętych kapłanów jako środek do gromadzenia boskiej mocy i liczenia ich błogosławieństw. Część boskiej mocy wciąż znajduje się w każdej perle.',
       vi: 'Những hạt này được các linh mục thánh mang theo như một phương tiện để lưu trữ sức mạnh thần thánh và đếm phước lành của họ. Một số sức mạnh thần thánh vẫn nằm trong mỗi hạt.',
       it: 'Queste perle venivano portate dai santi sacerdoti come mezzo per conservare il potere divino e contare le loro benedizioni. Parte del potere divino risiede ancora all\'interno di ciascuna perla.',
-      es: 'Estos rosarios fueron portados por sacerdotes benditos con el objetivo de guardar poder divino y contar sus bendiciones. Parte del poder divino sigue en cada rosario.'
+      es: 'Estos rosarios fueron portados por sacerdotes benditos con el objetivo de guardar poder divino y contar sus bendiciones. Parte del poder divino sigue en cada rosario.',
+      zh: '這些珠子由聖職人員攜帶，作為他們儲存神力和計算祝福的手段。每顆珠子中還殘留著一些神力。'
     }
   },
 
@@ -65,7 +69,8 @@ export default [
       pl: 'Kiedy pokonani templariusze nie wypełniają boskiego zadania, wlewają duchowe oddanie do osobistego totemu, takiego jak ten, aby pomóc stronie dobra.',
       vi: 'Khi việc đánh bại các kỵ sĩ thất bại trong một nhiệm vụ thiêng liêng, họ đổ sự sùng kính tâm linh vào một vật tổ cá nhân như thế này để hỗ trợ cho mặt tốt.',
       it: 'Quando i templari sconfitti falliscono un compito divino, riversano la devozione spirituale in un totem personale come questo per aiutare il lato del bene.',
-      es: 'Cuando los templarios derrotados fallan un objetivo divino, sueltan devoción espiritual en forma de un tótem personal como este para ayudar al bien.'
+      es: 'Cuando los templarios derrotados fallan un objetivo divino, sueltan devoción espiritual en forma de un tótem personal como este para ayudar al bien.',
+      zh: '當被擊敗的聖堂武士無法完成一項聖職時，他們會將精神獻身並注入這樣的私人圖騰中，以幫助善良的一方。'
     }
   },
 
