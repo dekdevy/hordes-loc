@@ -37,7 +37,7 @@ export default {
       de: 'Ja, ich will die Gegenstände auf dem Markt sehen.',
       ko: '예, 판매용 제품을 보여주세요.',
       tr: 'Evet, bana satılık eşyaları göster.',
-      zh: '好的，給我看看待售物品。',
+      zh: '好的，把要賣的商品讓我看看。',
       hu: 'Igen, mutassa meg a portékáit.',
       pl: 'Tak, pokaż mi przedmioty na sprzedaż.',
       bn: 'হ্যাঁ, আমাকে বিক্রয়ের জন্য আইটেমগুলি প্রদর্শন করুন।',
