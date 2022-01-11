@@ -13,7 +13,7 @@ export default {
     pt: 'Configurações',
     ko: '설정',
     ro: 'Setări',
-    zh: '设置',
+    zh: '設定',
     hu: 'Beállítások',
     pl: 'Ustawienia',
     vi: 'Cài đặt',
@@ -83,7 +83,8 @@ export default {
     tr: 'Kamera',
     ja: 'カメラ',
     ko: '카메라',
-    cs: 'Kamera'
+    cs: 'Kamera',
+    zh: '視角'
   },
 
   mousesensitivity: {
@@ -102,7 +103,8 @@ export default {
     tr: 'Hassasiyet',
     ja: 'マウス感度',
     ko: '민감도',
-    cs: 'Senzitivita'
+    cs: 'Senzitivita',
+    zh: '靈敏度'
   },
 
   invertmousex: {
@@ -121,7 +123,8 @@ export default {
     tr: 'Yatay ters çevir',
     ja: '左右反転',
     ko: '가로로 회전',
-    cs: 'Invertní vodorovně'
+    cs: 'Invertní vodorovně',
+    zh: '水平反轉'
   },
 
   invertmousey: {
@@ -140,7 +143,8 @@ export default {
     tr: 'Dikey ters çevir',
     ja: '上下反転',
     ko: '세로로 회전',
-    cs: 'Invertní vertikálně'
+    cs: 'Invertní vertikálně',
+    zh: '垂直反轉'
   },
 
   pointerlock: {
@@ -177,7 +181,7 @@ export default {
     pt: 'Câmera bloqueada',
     ko: '카메라 고정',
     ro: 'Blochează camera',
-    zh: '锁定相机',
+    zh: '鎖定視角',
     hu: 'Rögzített kamera',
     pl: 'Zablokowana kamera',
     vi: 'Khóa Camera',
@@ -201,7 +205,7 @@ export default {
     pt: 'Gráficos',
     ko: '그래픽',
     ro: 'Grafică',
-    zh: '图像',
+    zh: '圖像',
     hu: 'Grafika',
     pl: 'Grafika',
     vi: 'Đồ họa',
@@ -224,7 +228,7 @@ export default {
     fr: 'Distance d\'affichage',
     tr: 'Görüş mesafesi',
     ko: '시야',
-    zh: '远景范围',
+    zh: '視野範圍',
     hu: 'Látótávolság',
     pl: 'Zasięg widzenia',
     vi: 'Khoảng cách nhìn',
@@ -269,7 +273,8 @@ export default {
   disableoffscreen: {
     en: 'Disable off-screen creatures',
     ru: 'Отключить монстров за пределами экрана',
-    fr: 'Désactiver les créatures hors de l\'écran'
+    fr: 'Désactiver les créatures hors de l\'écran',
+    zh: '禁止鎖定視野外生物'
   },
 
   skilleffects: {
@@ -285,7 +290,7 @@ export default {
     pt: 'Efeitos de Habilidade',
     ko: '기술 효과',
     ro: 'Efectele Abilităților',
-    zh: '技能影响',
+    zh: '技能特效',
     hu: 'Képesség effektek',
     pl: 'Efekty umiejętności',
     vi: 'Hiệu ứng kỹ năng',
@@ -304,7 +309,7 @@ export default {
     pt: 'Sombras',
     nl: 'Schaduwen',
     hu: 'Árnyékok',
-    zh: '影子',
+    zh: '陰影',
     es: 'Sombras',
     pl: 'Cienie',
     vi: 'Đổ bóng',
@@ -333,7 +338,8 @@ export default {
   //   tr: 'Çevresel Perdeleme',
   //   ja: '環境閉塞',
   //   ko: '광원',
-  //   cs: 'Ambientní okluze'
+  //   cs: 'Ambientní okluze',
+  //   zh: '環境光遮掩'
   // },
 
   grass: {
@@ -367,7 +373,7 @@ export default {
     nl: 'Wolken',
     hu: 'Felhők',
     es: 'Nubes',
-    zh: '云',
+    zh: '雲',
     pl: 'Chmury',
     vi: 'Mây',
     sr: 'Облаци',
@@ -413,7 +419,7 @@ export default {
     fr: 'Audio',
     tr: 'Ses',
     ko: '오디오',
-    zh: '音频',
+    zh: '音效',
     hu: 'Hang',
     pl: 'Audio',
     vi: 'Âm thanh',
@@ -442,7 +448,8 @@ export default {
     sr: 'SFX гласноћа',
     it: 'SFX Volume',
     ja: '効果音',
-    cs: 'Hlasitost SFX'
+    cs: 'Hlasitost SFX',
+    zh: '音效音量'
   },
   ambiencevolume: {
     en: 'Ambience Volume',
@@ -453,7 +460,8 @@ export default {
     fr: 'Volume d\'ambiance',
     tr: 'Ambiyans sesi',
     ja: '環境音',
-    cs: 'Hlasitost Ambience'
+    cs: 'Hlasitost Ambience',
+    zh: '環境音量'
   },
   musicvolume: {
     en: 'Music Volume',
@@ -471,7 +479,8 @@ export default {
     tr: 'Müzik sesi',
     ja: '音楽',
     ko: '음악 볼륨',
-    cs: 'Hlasitost Hudby'
+    cs: 'Hlasitost Hudby',
+    zh: '音樂音量'
   },
   // ---- Chat
   chat: {
@@ -506,7 +515,7 @@ export default {
     pt: 'Mostrar bolhas de chat',
     nl: 'Laat chat bubbels zien',
     hu: 'Csetbuborékok mutatása',
-    zh: '顯示聊天氣泡',
+    zh: '顯示聊天框',
     es: 'Mostrar burbujas de chat',
     pl: 'Chmurki czatu',
     vi: 'Hiển thị bong bóng chat',
@@ -526,7 +535,7 @@ export default {
     nl: 'Gevechts log',
     hu: 'Harci kisnapló',
     es: 'Registro de combate',
-    zh: '戰鬥表',
+    zh: '戰鬥表單',
     fr: 'Journal de Combat',
     pl: 'Log Walki',
     vi: 'Nhật ký combat',
@@ -554,7 +563,7 @@ export default {
     tr: 'Arayüz',
     ko: '인터페이스',
     hu: 'Felület',
-    zh: '界面',
+    zh: '介面',
     pl: 'Interfejs',
     vi: 'Giao diện',
     sr: 'Интерфејс',
@@ -605,7 +614,8 @@ export default {
     it: 'Larghezza inventario',
     tr: 'Enventar genişliği',
     ja: 'インベントリの行',
-    cs: 'Šířka inventáře'
+    cs: 'Šířka inventáře',
+    zh: '物品欄寬度'
   },
 
   // Do NOT translate "Stash"
@@ -625,7 +635,8 @@ export default {
     tr: 'Stash genişliği',
     ja: 'Stashの行',
     ko: 'Stash 너비',
-    cs: 'Šířka Stash'
+    cs: 'Šířka Stash',
+    zh: 'Stash 寬度'
   },
 
   // Do NOT translate "Stash"
@@ -645,7 +656,8 @@ export default {
     tr: 'Stash yüksekliği',
     ja: 'Stashの列',
     ko: 'Stash 높이',
-    cs: 'Výška Stash'
+    cs: 'Výška Stash',
+    zh: 'Stash 高度'
   },
 
   tutorial: {
@@ -662,7 +674,7 @@ export default {
     ko: '튜토리얼',
     ro: 'Tutorial',
     hu: 'Bemutató',
-    zh: '講解',
+    zh: '教程',
     pl: 'Samouczek',
     vi: 'Hướng dẫn',
     sr: 'Туторијал',
@@ -685,7 +697,7 @@ export default {
     ko: '튜토리얼 초기화',
     ro: 'Resetează tutorialul',
     hu: 'Bemutató újrakezdése',
-    zh: '重置講解',
+    zh: '重新教程',
     pl: 'Zresetuj samouczek',
     vi: 'Cài đặt lại hướng dẫn',
     sr: 'Понови туторијал',
@@ -705,7 +717,7 @@ export default {
     nl: 'Handleiding uitschakelen',
     hu: 'Bemutató elrejtése',
     es: 'Deshabilitar el tutorial',
-    zh: '禁用講解',
+    zh: '停用教程',
     pl: 'Wyłącz samouczek',
     vi: 'Vô hiệu hóa hướng dẫn',
     sr: 'Искључи туторијал',
@@ -726,7 +738,7 @@ export default {
     fr: 'Mode basse qualité',
     nl: 'Lage kwaliteit modus',
     es: 'Modo de baja calidad',
-    zh: '低畫質模式',
+    zh: '低品質模式',
     pl: 'Niska jakość',
     vi: 'Chế độ chất lượng thấp',
     sr: 'Мод лошијег квалитета',
