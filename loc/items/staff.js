@@ -10,7 +10,8 @@ export default [
       vi: 'Gậy và cành cây gãy được sử dụng bởi các pháp sư tập sự cho mục đích truyền dạy.',
       it: 'Bastoni e ramoscelli rotti sono usati dai maghi apprendisti per scopi educativi.',
       es: 'Los magos aprendices usan palos y ramitas rotas con fines educativos.',
-      nl: 'Stokken en afgebroken takken worden gebruikt door beginnende magiërs voor educatieve doelen.'
+      nl: 'Stokken en afgebroken takken worden gebruikt door beginnende magiërs voor educatieve doelen.',
+      zh: '木棒和斷掉的樹枝會被學徒法師當作學習工具來使用。'
     }
   },
 
@@ -25,7 +26,8 @@ export default [
       vi: 'Đây là một trượng bị hư hỏng vẫn còn một số người sử dụng cho các pháp sư tập sự.',
       it: 'Questo è un battlestaff danneggiato che ha ancora qualche utilità per gli utenti magici principianti.',
       es: 'Este es un bastón de batalla dañado que todavía tiene algún uso para los usuarios principiantes de magia.',
-      nl: 'Dit is een beschadigde gevecht staf die nog steeds nut heeft voor beginnende magiërs.'
+      nl: 'Dit is een beschadigde gevecht staf die nog steeds nut heeft voor beginnende magiërs.',
+      zh: '這種破損的法杖還有一些新手法師在使用。'
     }
   },
 
@@ -40,7 +42,8 @@ export default [
       vi: 'Một trong số những cây già nhất được sử dụng để tạo ra Gnarled Broomsticks. Những vũ khí này tạo ra các phép thuật để quét kẻ thù ra khỏi chiến trường.',
       it: 'Alcuni degli alberi più antichi vengono utilizzati per creare i Gnarled Broomsticks Queste armi producono incantesimi per spazzare via i nemici dal campo di battaglia.',
       es: 'Algunos de los árboles más antiguos se utilizan para crear escobas nudosas. Estas armas producen hechizos para barrer a los enemigos del campo de batalla.',
-      nl: 'Een paar van de oudste bomen worden gebruikt voor het maken om Gnarled Broomsticks te maken. Deze wapen produceren spreuken om vijanden van het slagveld af te vegen.'
+      nl: 'Een paar van de oudste bomen worden gebruikt voor het maken om Gnarled Broomsticks te maken. Deze wapen produceren spreuken om vijanden van het slagveld af te vegen.',
+      zh: '一些最古老的樹被用來製造長掃帚。這些武器會產生法術將敵人掃出戰場。'
     }
   },
 
@@ -55,7 +58,8 @@ export default [
       vi: 'Đây là một cây sồi cứng cáp để thi triển phép thuật trung gian.',
       it: 'Questa è un\'arma di quercia robusta per lanciare magie intermedie.',
       es: 'Esta es un arma de roble resistente para lanzar magia intermedia.',
-      nl: 'Dit is een stevig oak wapen voor het oproepen van middelmatige magie.'
+      nl: 'Dit is een stevig oak wapen voor het oproepen van middelmatige magie.',
+      zh: '這是用於施展中級魔法的堅固橡木武器。'
     }
   },
 
@@ -70,7 +74,8 @@ export default [
       vi: 'Cây đũa phép này là một món quà từ những người thần bí được gắn với những mảnh vỡ kỳ lạ giúp tăng cường sức mạnh ma thuật.',
       it: 'Questa bacchetta è un dono dei mistici che è incastonato con strani frammenti che aumentano il potere magico.',
       es: 'Esta varita es un regalo de los místicos que está incrustada con fragmentos extraños que mejoran el poder mágico.',
-      nl: 'Deze toverstaf is een cadeau van de Mystics wat ingebed is met vreemde scherven die de magische krachten verbeteren. '
+      nl: 'Deze toverstaf is een cadeau van de Mystics wat ingebed is met vreemde scherven die de magische krachten verbeteren. ',
+      zh: '這根魔杖是來自秘客的禮物，裡面鑲嵌著可以增強魔力的奇異碎片。'
     }
   },
 
@@ -85,7 +90,8 @@ export default [
       vi: 'Trượng này được làm từ xương của các pháp sư quái vật để tăng sức mạnh ma thuật.',
       it: 'Questa bacchetta è un dono dei mistici che è incastonato con strani frammenti che aumentano il potere magico.',
       es: 'Esto está hecho de los huesos de magos monstruos para aumentar el poder mágico.',
-      nl: 'Dit is gemaakt van de botten van monsters magiërs om de magische krachten te vergroten.'
+      nl: 'Dit is gemaakt van de botten van monsters magiërs om de magische krachten te vergroten.',
+      zh: '這是由怪獸法師的骨頭製成以增强魔法力量。
     }
   },
 
@@ -100,7 +106,8 @@ export default [
       vi: 'Cây gậy này được nạm đá quý lưu trữ sức mạnh ma thuật.',
       it: 'Questa canna è tempestata di gemme che immagazzinano un potere magico.',
       es: 'Esta vara está incrustada con gemas que almacenan poder mágico.',
-      nl: 'Deze staaf is ingelegd met edelstenen die magische krachten opslaan.'
+      nl: 'Deze staaf is ingelegd met edelstenen die magische krachten opslaan.',
+      zh: '這把杖上鑲嵌著儲存魔力的寶石。'
     }
   },
 
@@ -115,7 +122,8 @@ export default [
       vi: 'Các cổ ngữ khắc trên trượng này phát sáng mờ nhạt khi phép thuật được thi triển. Mặc dù một số hội pháp sư rõ ràng tin rằng các cổ ngữ gia tăng phép thuật, nhưng bản chất thực sự của các cổ ngữ vẫn chưa được biết.',
       it: 'Le rune incise su questo bastone si illuminano debolmente quando vengono lanciati gli incantesimi. Sebbene diverse corporazioni di maghi credano chiaramente che le rune aumentino il lancio dell\'incantesimo, la vera natura delle rune è sconosciuta.',
       es: 'Las runas grabadas en este bastón brillan levemente cuando se lanzan hechizos. Aunque varios gremios de magos creen claramente que las runas aumentan el lanzamiento de hechizos, se desconoce la verdadera naturaleza de las runas.',
-      nl: 'De etst runen op deze staf gloeien zwak zodra spreuken opgeroepen worden. Hoewel meerdere magie gildes geloven dat de runen spel oproep vermogen vergroten, de ware natuur achter de runen is onbekend.'
+      nl: 'De etst runen op deze staf gloeien zwak zodra spreuken opgeroepen worden. Hoewel meerdere magie gildes geloven dat de runen spel oproep vermogen vergroten, de ware natuur achter de runen is onbekend.',
+      zh: '當施法時，這根法杖上蝕刻的符文會發出微弱的光芒。雖然有幾個法師協會明確地認為符文可以增强施法能力，但符文的真實性質尚不清楚。'
     }
   },
 
