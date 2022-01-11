@@ -13,7 +13,8 @@ export default [
       nl: 'Dit armbanden zijn leren stroken die verwikkeld zijn in een simpele formatie.',
       it: 'Questi polsini sono formati da strisce di pelle avvolte semplicemente.',
       ro: 'Aceste manșete sunt realizate din fâșii de piele îmbinate într-un mod natural.',
-      tr: 'Bu bileklikler, basit bir formasyonla sarılmış deri şeritlerdir.'
+      tr: 'Bu bileklikler, basit bir formasyonla sarılmış deri şeritlerdir.',
+      zh: '這些腕帶是用皮帶綑成一個簡單的形狀而成的。'
     }
   },
 
@@ -31,7 +32,8 @@ export default [
       nl: 'Deze armbanden waren haastig gecreëerd. De ruwe gevecht tekens op de zijkanten van het leer inspireren niet het zelfvertrouwen van de vorige eigenaars overleven.',
       it: 'Questi bracciali sono stati creati frettolosamente. I violenti segni delle battaglie sulla pelle non ispirano fiducia sulla sopravvivenza del precedente possessore.',
       ro: 'Aceste brățări au fost create în grabă. Semnele de luptă lăsate pe marginea materialului de piele nu inspiră încrederea faptului că purtătorul precedent a supraviețuit.',
-      tr: 'Bu kol bantları biraz aceleye gelmiş. Derinin yanlarındaki savaş izleri, önceki sahibinin hayatta kalma konusundaki kararlılığı hakkında pek güven vermiyor.'
+      tr: 'Bu kol bantları biraz aceleye gelmiş. Derinin yanlarındaki savaş izleri, önceki sahibinin hayatta kalma konusundaki kararlılığı hakkında pek güven vermiyor.',
+      zh: '這些臂章是匆忙製作的，皮革側面的粗糙戰鬥痕跡並不能激發對前主人生存的信心。'
     }
   },
 
@@ -50,7 +52,8 @@ export default [
       nl: 'Stevig leer is zorgvuldig vervaardigd tot fijne armbanden. Op de zijkanten van het leer staat het ambachtsman z’n handtekening: "Markay\'ak".',
       it: 'La pelle che forma questi pregiati bracciali è stata scrupolosamente lavorata. Sul lato della pelle c\'è la firma dell\'artigiano: "Markay\'ak".',
       ro: 'Aceste manșete rezistente au fost confecționate cu grijă din material de piele dură. Pe marginea acesteia este semnătura meșterului: "Markay\'ak".',
-      tr: ''
+      tr: '',
+      zh: '堅韌的皮革經過精心製作，製成精美的臂環。皮革的側面是工匠的標誌："Markay\'ak"。'
     }
   },
 
@@ -67,7 +70,8 @@ export default [
       vi: 'Loại vòng tay này được chế tạo công phu với xương quái vật dày. Nhiều truyền thống mê tín cho rằng người đeo những chiếc vòng như vậy trở nên thấm đẫm sức mạnh của quái vật đã chết; tuy nhiên, những người khác cho rằng việc tái sử dụng xương sẽ ngăn quái vật hồi sinh.',
       nl: 'Dit type armbanden is sierlijk vervaardigd met dikke monsterbotten. Velen bijgelovige tradities beweren dat de drager van zulke armbanden doorgedrongen worden met de krachten van het overleden monster; maar, anderen beweren dat het hergebruiken van botten voorkomt dat monsters weer oprakelen.',
       it: 'Questo tipo di bracciale è decorato con grosse ossa di mostro. Molte tradizioni superstiziose sostengono che chi li indossa diventa pieno del potere del mostro ucciso; altri sostengono che l\'utilizzare le ossa fa si che i mostri non possano resuscitare.',
-      ro: 'Acest tip de brățară este ornată cu bucăți mari de oase de monstru. Multe tradiții superstițioase spun că purtătorul unei astfel de brățări devine posedat de spiritul monstrului decedat; totuși, alții spun că refolosirea acestor oase previn monștrii din a se reîncarna.'
+      ro: 'Acest tip de brățară este ornată cu bucăți mari de oase de monstru. Multe tradiții superstițioase spun că purtătorul unei astfel de brățări devine posedat de spiritul monstrului decedat; totuși, alții spun că refolosirea acestor oase previn monștrii din a se reîncarna.',
+      zh: '這種手鐲是用厚厚的怪物骨頭精心打造的。許多迷信聲稱，這種手鐲的人身上會充滿已故怪物的力量；然而，也有人聲稱，重複使用骨骼可以防止怪物復活。'
     }
   },
 
@@ -84,7 +88,8 @@ export default [
       vi: 'Loại áo giáp sắt này đã được sử dụng rất nhiều trong chiến tranh và vẫn còn bẩn. Các dấu móng vuốt trên kim loại dường như chủ yếu là bề ngoài.',
       nl: 'Dit type van ijzeren harnassen werd hevig gebruikt tijdens oorlogen en blijft vuil. De klauwafdrukkenop het metaal lijkt grotendeels oppervlakkig.',
       it: 'Questo tipo di armatura di ferro è stata fortemente utilizzata in guerra ed è rimasta sporca. I segni di graffi sul metallo sembrano essere solo superficiali.',
-      ro: 'Acest tip de armură de fier a fost extrem de folosită în război iar astfel a rămas murdară. Urmele de gheare lăsate pe metal par să fie în mare parte superficiale.'
+      ro: 'Acest tip de armură de fier a fost extrem de folosită în război iar astfel a rămas murdară. Urmele de gheare lăsate pe metal par să fie în mare parte superficiale.',
+      zh: '這種類型的鐵甲在戰爭中被大量使用，而且仍然很髒。 金屬上的爪痕大多都很淺。'
     }
   },
 
@@ -101,7 +106,8 @@ export default [
       vi: 'Những bao tay thép này được đánh dấu bằng các cổ ngữ nhỏ có thêm khả năng bảo vệ. Bao tay được thấm nhuần là hơi hiếm vì phương pháp tạo ra cổ ngữ là một bí mật.',
       nl: 'Deze stalen armbanden zijn gemarkeerd met kleine runen die extra bescherming doordringen. Imbued bracers zijn nogal zeldzaam aangezien de creatie methode van de runen een geheim zijn.',
       it: 'Questi bracciali in acciaio sono segnati con piccole rune che infondono protezione extra. I Bracciali infusi sono in qualche modo rari dal momento che i metodi per la creazione delle rune sono segreti.',
-      ro: 'Aceste manșete din oțel sunt încastrate cu rune mici ce oferă extra protecție. Manșetele impregnate sunt oreacum rare din moment ce modul de creare a runelor este un secret.'
+      ro: 'Aceste manșete din oțel sunt încastrate cu rune mici ce oferă extra protecție. Manșetele impregnate sunt oreacum rare din moment ce modul de creare a runelor este un secret.',
+      zh: '這些鋼製護腕上標有小符文，可提供額外的保護。這些護腕有些罕見，因為符文的製造方法是個秘密。'
     }
   },
 
