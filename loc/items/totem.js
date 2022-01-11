@@ -55,7 +55,7 @@ export default [
       vi: 'Những hạt này được các linh mục thánh mang theo như một phương tiện để lưu trữ sức mạnh thần thánh và đếm phước lành của họ. Một số sức mạnh thần thánh vẫn nằm trong mỗi hạt.',
       it: 'Queste perle venivano portate dai santi sacerdoti come mezzo per conservare il potere divino e contare le loro benedizioni. Parte del potere divino risiede ancora all\'interno di ciascuna perla.',
       es: 'Estos rosarios fueron portados por sacerdotes benditos con el objetivo de guardar poder divino y contar sus bendiciones. Parte del poder divino sigue en cada rosario.',
-      zh: '這些珠子由聖職人員攜帶，作為他們儲存神力和計算祝福的手段。每顆珠子中還殘留著一些神力。
+      zh: '這些珠子由聖職人員攜帶，作為他們儲存神力和計算祝福的手段。每顆珠子中還殘留著一些神力。'
     }
   },
 
