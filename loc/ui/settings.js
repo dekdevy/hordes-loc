@@ -267,7 +267,8 @@ export default {
 
   bloom: {
     en: 'Bloom',
-    ru: 'Bloom'
+    ru: 'Bloom',
+    zh: '泛光特效'
   },
 
   disableoffscreen: {
