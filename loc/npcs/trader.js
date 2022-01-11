@@ -39,7 +39,8 @@ export default {
       it: 'Mostrami le tue merci.',
       tr: 'Bana mallarını göster.',
       ja: '商品を見せて下さい。',
-      cs: 'Ukaz mi své zboží'
+      cs: 'Ukaz mi své zboží',
+      zh: '給我看看你的商品。'
     }]
   }],
 
@@ -78,7 +79,7 @@ export default {
     fr: 'Pour vendre un objet, cliquez dessus avec le bouton droit de la souris ou faites-le glisser dans la fenêtre du commerçant.',
     nl: 'Om een artikel te verkopen, klik er met de rechtermuisknop op of sleep het naar het handelaarsvenster.',
     ro: 'Pentru a vinde un element, faceți clic-dreapta sau trageți-l în fereastra comerciantului.',
-    zh: '要賣物品，在物品上按右鍵或把它拖入到交易窗口中。',
+    zh: '要賣物品，請在物品上按shift+右鍵或把它拖入到交易欄中。',
     tr: 'Bir eşyayı satmak için Shift\'e basılı tutarak eşyaya sağ tıklayın veya eşyayı takas penceresine sürükleyip bırakın.',
     hu: 'Hogy eladj egy tárgyat, shift + jobbkattints rá, vagy húzd ide a Trader ablakba.',
     pl: 'Aby sprzedać przedmiot, kliknij shift+prawy przycisk myszy na przedmiot lub przenieś przedmiot na okienko kupcy.',
@@ -124,7 +125,7 @@ export default {
     nl: 'Bent u in iets geïnteresseerd? Klik op een item om het te kopen.',
     ko: '관심이 있습니까? 항목을 클릭하여 구입하십시오.',
     hi: 'क्या आप किसी चीज में रुचि रखते हैं? इसे खरीदने के लिए किसी आइटम पर क्लिक करें।',
-    zh: '有感興趣的東西嗎？点击商品即可購買。',
+    zh: '有感興趣的東西嗎？點擊商品即可購買。',
     tr: 'İlginizi çeken bir şeyler var mı? Bir eşyayı almak isterseniz üstüne tıklayın.',
     hu: 'Látsz valamit, amit érdekesnek találsz? Kattints egy tárgyra hogy megvásárold.',
     pl: 'Jesteś czymś zainteresowany? Kliknij na przedmiot aby go kupić.',
