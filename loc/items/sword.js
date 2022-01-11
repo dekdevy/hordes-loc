@@ -110,7 +110,7 @@ export default [
       sr: 'Овај масивни мач дизајниран је тако да повећа потенцијал штете за рат.Авантуриста који носи или користи оружје попут овог не оставља никакве сумње у њихове циљеве и способности.',
       es: 'Esta espada masiva está diseñada para aumentar el potencial de daño específicamente para la guerra. Un aventurero que lleva o usa un arma como esta no deja dudas sobre sus objetivos y profesión.',
       pt: 'Esta enorme espada foi projetada para aumentar o potencial de dano especificamente na guerra. Um aventureiro que veste ou usa uma arma como essa não deixa dúvidas sobre seus objetivos e profissão.',
-      zh: '這把巨大的劍是專門為戰爭設計，佩戴或使用這樣武器的冒險者，他們的目標和職業是毋庸置疑的。'
+      zh: '這把巨大的劍是專門為戰爭設計，佩戴或使用這樣武器的冒險者，他們的目標和專業是毋庸置疑的。'
     }
   },
 
