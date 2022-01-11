@@ -11,7 +11,8 @@ export default [
       es: 'Este quiver producido en masa está hecho con lino élfico para mayor comodidad',
       it: 'Questa faretra prodotta in serie è realizzata con lino elfico per un maggiore comfort.',
       ro: 'Acest tip de tolbă produsă în masă este făcută cu pânză de-a Elfilor pentru extra comfort.',
-      nl: 'Deze massa-geproduceerde pijlkokers zijn gemaakt van Elfachtige linnen voor extra comfort.'
+      nl: 'Deze massa-geproduceerde pijlkokers zijn gemaakt van Elfachtige linnen voor extra comfort.',
+      zh: '這款批量生產的箭袋採用精靈亞麻布製成，帶來額外的舒適。'
     }
   },
 
@@ -27,7 +28,8 @@ export default [
       es: 'Las Rustic Quivers son confiables y probadas en batalla. Estos quivers se transmiten a los arqueros aprendices a medida que avanzan.',
       it: 'Le faretra rustiche sono affidabili e testate in battaglia. Queste faretre vengono spesso trasmesse agli arcieri apprendisti mentre progrediscono.',
       ro: 'Tolbere rustice sunt de încredere și testate în bătălie. Aceste tolbe sunt deseori pasate arcașilor începători pe măsură ce progresează.',
-      nl: 'Rustic Quivers zijn betrouwbaar en gevecht getest. Deze pijlkokers worden vaak doorgegeven aan leerling boogschutters naarmate ze vooruitgaan.'
+      nl: 'Rustic Quivers zijn betrouwbaar en gevecht getest. Deze pijlkokers worden vaak doorgegeven aan leerling boogschutters naarmate ze vooruitgaan.',
+      zh: '仿古的箭袋可靠且經過實戰考驗。 這些箭袋通常會隨著學徒弓箭手的進步而傳遞給他們。'
     }
   },
 
@@ -43,7 +45,8 @@ export default [
       es: 'Estos quivers estan hechos de escamas de serpiente de monstruos especiales. Por lo general, las pieles de serpiente se encuentran después de que las serpientes gigantes hayan mudado su piel; de lo contrario, la recolección de la piel sería un gran riesgo.',
       it: 'Queste faretre sono fatte con scaglie di serpenti di mostri speciali. In genere, le pelli di serpente si trovano dopo che i serpenti giganti hanno perso la pelle; tentare una collezione di pelle di serpente altrimenti sarebbe un rischio elevato.',
       ro: 'Aceste tolbe sunt făcute din solzi de șarpe proveniți de la monștrii speciali. În mod normal, pieile de șarpe sunt găsite după ce șerpii giganți își lepădează pielea; asta pentru atunci când încerci să strângi piele altfel ar fi un risc prea mare.',
-      nl: 'Deze pijlkokers zijn gemaakt van slangschubben van speciale monsters. Normaal gesproken worden slangenhuiden gevonden nadat reuze slangen hun huid verloren hebben. Om anders slangenhuid te verzamelen zou een groot risico zijn.'
+      nl: 'Deze pijlkokers zijn gemaakt van slangschubben van speciale monsters. Normaal gesproken worden slangenhuiden gevonden nadat reuze slangen hun huid verloren hebben. Om anders slangenhuid te verzamelen zou een groot risico zijn.',
+      zh: '這些箭袋由特殊怪物的蛇麟製成。這些蛇皮通常在巨蛇脫皮後尋找，否則試圖收集蛇皮是很危險的。'
     }
   },
 
@@ -59,7 +62,8 @@ export default [
       es: 'La exquisita artesanía de Markay\'ak resultó en la creación de Reinforced Exemplars. Estos Quivers son a menudo un testamento del orgullo de cualquier arquero profesional.',
       it: 'Lo squisito artigianato di Markay\'ak ha portato alla creazione di esemplari rinforzati. Faretra come questa sono spesso una testimonianza dell\'orgoglio di ogni arciere professionista.',
       ro: 'Măiestria rafinată a lui Markay\'ak a rezultat în crearea "Reinforced Exemplar". Astfel de tolbe sunt deseori o dovadă a mândriei oricărui arcaș profesional.',
-      nl: 'Het uitbundige vakmanschap van Markay’ak resulteerde in de creatie van Reinforced Exemplars. Pijlkokers zoals deze zijn vaak het testament en trots van elke professionele boogschutter.'
+      nl: 'Het uitbundige vakmanschap van Markay’ak resulteerde in de creatie van Reinforced Exemplars. Pijlkokers zoals deze zijn vaak het testament en trots van elke professionele boogschutter.',
+      zh: '由Markay\'ak精湛的工藝製作而成的強化箭袋。像這樣的箭袋通常作為任何職業弓箭手自豪的證明。'
     }
   },
 
@@ -75,7 +79,8 @@ export default [
       es: 'Un inmortal de una raza mayor creó temblores con un poder inhumano para manifestar su venganza sobre el mundo.',
       it: 'Un immortale di una razza anziana ha creato faretre con un potere disumano per manifestare la sua vendetta sul mondo.',
       ro: 'Un nemuritor dintr-o rasă străveche a creat tolbe cu o putere inumană pentru a manifesa răzbunarea sa asupra lumii.',
-      nl: 'Een onsterfelijke van een oud ras creëerde pijlkokers met een onmenselijke kracht om zijn wraak te manifesteren op de wereld.'
+      nl: 'Een onsterfelijke van een oud ras creëerde pijlkokers met een onmenselijke kracht om zijn wraak te manifesteren op de wereld.',
+      zh: '一位來自遠古種族的不朽者為了向世界復仇，他創造了具有非人力量的箭袋。'
     }
   },
 
