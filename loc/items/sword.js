@@ -11,7 +11,8 @@ export default [
       it: 'Queste spade sono spesso realizzate con la corteccia di ferro per durare più a lungo del normale legno.',
       sr: 'Ови мачеви су често направљени од гвоздене коре да би трајали дуже од обичног дрвета.',
       es: 'Estas espadas a menudo están hechas de corteza de hierro para durar más que la madera normal.',
-      pt: 'Essa espada geralmente é feita de ironbark para durar mais que madeira.'
+      pt: 'Essa espada geralmente é feita de ironbark para durar mais que madeira.',
+      zh: '這些劍通常由鐵桉木製成，比普通木頭更耐用。'
     }
   },
 
@@ -27,7 +28,8 @@ export default [
       it: 'Spade come questa hanno visto molte battaglie e in genere vengono tramandate da un guerriero a un apprendista.',
       sr: 'Мачеви попут ових, видели су многе битке и обично се предају од ратника до шегрта.',
       es: 'Espadas como esta han visto muchas batallas y generalmente se transmiten de un guerrero a un aprendiz.',
-      pt: 'Espadas como esta são vistas em muitas batalhas, e geralmente são passadas de guerreiros para aprendizes.'
+      pt: 'Espadas como esta são vistas em muitas batalhas, e geralmente são passadas de guerreiros para aprendizes.',
+      zh: '像這樣的劍已經經歷了許多戰鬥，通常是由戰士傳給學徒的。'
     }
   },
 
@@ -43,7 +45,8 @@ export default [
       it: 'Questa è un\'arma degna bandita dai troll e dalle loro tribù. I troll attaccano spesso i territori vicini per espandere i propri o respingere gli invasori.',
       sr: 'Ово је достојно оружје којим се располажу тролови и њихова племена. Тролови често нападају суседне територије како би проширили своје или како би присилили окупаторе',
       es: 'Esta es un arma digna manejada por trolls y sus tribus. Los trolls a menudo atacan territorios vecinos para expandir los suyos propios o forzar a los invasores.',
-      pt: 'Essa é uma arma digna manejada por trolls e suas tribos. Os trolls geralmente atacam territórios vizinhos para expandir suas forças ou fazer os invadores recuarem'
+      pt: 'Essa é uma arma digna manejada por trolls e suas tribos. Os trolls geralmente atacam territórios vizinhos para expandir suas forças ou fazer os invadores recuarem',
+      zh: '這是巨魔和他們的部落使用的有價值的武器。巨魔經常攻擊鄰近的領土以擴大自己的領土或迫使入侵者退縮。'
     }
   },
 
@@ -58,7 +61,8 @@ export default [
       vi: 'Broadsword là vũ khí tiêu chuẩn của các binh sĩ và chiến binh trên chiến trường',
       it: 'Il Broadsword è un\'arma standard tra soldati e guerrieri sul campo di battaglia.',
       es: 'La Broadsword es un arma estándar entre soldados y guerreros en el campo de batalla.',
-      pt: 'A broadsword é uma arma padrão entre os soldados e guerreiros que estão no campo de batalha'
+      pt: 'A broadsword é uma arma padrão entre os soldados e guerreiros que estão no campo de batalha',
+      zh: '闊劍是戰場上士兵和戰士的標準武器。'
     }
   },
 
@@ -73,7 +77,8 @@ export default [
       vi: 'Longswords chủ yếu được xác định bởi chuôi dài hơn thay vì lưỡi dài hơn. Thợ rèn đã sử dụng nhiều loại vật liệu và cấp độ kỹ năng, tạo ra nhiều kết quả khác nhau.',
       it: 'I Longswords sono principalmente identificati dalla loro presa più lunga piuttosto che dalla lama più lunga. I Bladesmiths hanno utilizzato una varietà di materiali e livelli di abilità, producendo un\'ampia varietà di risultati.',
       es: 'Las Longswords se identifican principalmente por su empuñadura más larga, en lugar de una hoja más larga. Los Bladesmiths usaron una variedad de materiales y niveles de habilidad, produciendo una amplia variedad de resultados.',
-      pt: 'As Longswords são identificadas principalmente por seu punho e lâmina mais longa. Os Bladesmiths têm usado suas habilidades combinadas com vários materiais para produzir uma grande variedade de resultados.'
+      pt: 'As Longswords são identificadas principalmente por seu punho e lâmina mais longa. Os Bladesmiths têm usado suas habilidades combinadas com vários materiais para produzir uma grande variedade de resultados.',
+      zh: '長劍的主要特點是握把較長，而不是劍身較長。刀匠使用了各種材料和技能水平，產生了各種各樣的結果。'
     }
   },
   {
@@ -88,7 +93,8 @@ export default [
       it: 'Progettata per il combattimento, quest\'arma si comporta secondo le aspettative all\'interno del Colosseo.',
       sr: 'Дизајнирано за борбу, ово оружје делује према очекивањима у Колосији.',
       es: 'Diseñada para el combate, esta arma cumple con las expectativas dentro del Coliseo.',
-      pt: 'Projetada para o combate, essa arma atende as expectativas dentro do Coliseu '
+      pt: 'Projetada para o combate, essa arma atende as expectativas dentro do Coliseu ',
+      zh: '這款武器專為戰鬥而設計，在鬥獸場內的表現符合預期。'
     }
   },
   {
@@ -103,7 +109,8 @@ export default [
       it: 'Questa enorme spada è progettata per aumentare il potenziale di danno specifico per la guerra. Un avventuriero che indossa o usa un\'arma come questa non lascia dubbi sui propri obiettivi e sulla propria professione.',
       sr: 'Овај масивни мач дизајниран је тако да повећа потенцијал штете за рат.Авантуриста који носи или користи оружје попут овог не оставља никакве сумње у њихове циљеве и способности.',
       es: 'Esta espada masiva está diseñada para aumentar el potencial de daño específicamente para la guerra. Un aventurero que lleva o usa un arma como esta no deja dudas sobre sus objetivos y profesión.',
-      pt: 'Esta enorme espada foi projetada para aumentar o potencial de dano especificamente na guerra. Um aventureiro que veste ou usa uma arma como essa não deixa dúvidas sobre seus objetivos e profissão.'
+      pt: 'Esta enorme espada foi projetada para aumentar o potencial de dano especificamente na guerra. Um aventureiro que veste ou usa uma arma como essa não deixa dúvidas sobre seus objetivos e profissão.',
+      zh: '這把巨大的劍是專門為戰爭設計，佩戴或使用這樣武器的冒險者，他們的目標和職業是毋庸置疑的。'
     }
   },
 
@@ -119,7 +126,8 @@ export default [
       it: 'Queste sono armi che un tempo appartenevano ai cavalieri dei regni caduti. Regni potenti un tempo esistevano prima che enormi guerre li cancellassero dal paesaggio; i cavalieri che brandivano queste spadone mantennero i loro doveri cavallereschi molto tempo dopo che i loro regni si trasformarono in polvere.',
       sr: 'Ово су оружја која су некад припадала витезима палог краљевства. Моћна краљевства су постојала пре масовних ратова који су их избрисали из пејзажа.Витезови који су издржали те велике мачеве одржавали су витешку дужност дуго након што се њихово краљевство претворило у прах.',
       es: 'Estas son armas que pertenecieron a los caballeros de los reinos caídos. Poderosos reinos existieron una vez antes de que guerras masivas los borraran del paisaje; los caballeros que manejaban estas grandes espadas mantuvieron sus deberes caballerescos mucho después de que sus reinos se convirtieran en polvo.',
-      pt: 'Estas são armas que pertenceram aos cavaleiros de reinos caídos. Reinos poderosos já existiram antes que guerras massivas os obliterassem por completo; os cavaleiros empunhando essas grandes espadas, mantiveram seus deveres de cavalheiros, muito depois de seus reinos virarem pó.'
+      pt: 'Estas são armas que pertenceram aos cavaleiros de reinos caídos. Reinos poderosos já existiram antes que guerras massivas os obliterassem por completo; os cavaleiros empunhando essas grandes espadas, mantiveram seus deveres de cavalheiros, muito depois de seus reinos virarem pó.',
+      zh: '這些武器曾經屬於墮落王國的騎士。在他們的王國化為灰燼很久之後，揮舞著這些巨劍的騎士們仍然保持著他們騎士的職責。'
     }
   },
 
