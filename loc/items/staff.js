@@ -91,7 +91,7 @@ export default [
       it: 'Questa bacchetta è un dono dei mistici che è incastonato con strani frammenti che aumentano il potere magico.',
       es: 'Esto está hecho de los huesos de magos monstruos para aumentar el poder mágico.',
       nl: 'Dit is gemaakt van de botten van monsters magiërs om de magische krachten te vergroten.',
-      zh: '這是由怪獸法師的骨頭製成以增强魔法力量。
+      zh: '這是由怪獸法師的骨頭製成以增强魔法力量。'
     }
   },
 
