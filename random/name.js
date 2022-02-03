@@ -51,7 +51,8 @@ const syllables = ['acaru', 'achi', 'acti', 'ael', 'aelle', 'aelo', 'aer', 'aeri
   'volno', 'volo', 'volt', 'vomi', 'vonth', 'vord', 'vors', 'vox', 'vugz', 'vulen', 'vulpe', 'waaz', 'wake', 'war', 'wasu', 'weap', 'wei', 'wenk', 'willo', 'wind', 'wing',
   'wirya', 'wise', 'witch', 'wix', 'wolf', 'world', 'wrath', 'xas', 'xhan', 'xhi', 'xih', 'xilo', 'xio', 'xiza', 'xor', 'xugu', 'xuk', 'xuxu', 'xyli', 'yae', 'yare', 'yari',
   'yeno', 'yir', 'yiryo', 'ylla', 'yo', 'yoer', 'yore', 'yrgo', 'yrie', 'yrni', 'ytia', 'zak', 'zal', 'zaph', 'zaro', 'zedh', 'zee', 'zel', 'zele', 'zeli', 'zelph', 'zera',
-  'zest', 'zhem', 'zia', 'zog', 'zoi', 'zon', 'zort', 'zoti', 'zug', 'zul', 'zur', 'zutu', 'zuvi', 'zvon', 'zzuk']
+  'zest', 'zhem', 'zia', 'zog', 'zoi', 'zon', 'zort', 'zoti', 'zug', 'zul', 'zur', 'zutu', 'zuvi', 'zvon', 'zzuk', 'dran', 'dread', 'demo', 'flero', 'grato', 'shin', 'lort'
+  'pres', 'rind', 'grind','omega', 'trini', 'nep', 'fror', 'git', 'qwert', 'knight', 'god', 'shon', 'grin', 'klip', 'grow', 'oper', 'toxi', 'fini', 'lyra', 'ark', 'tran'
 
 export const generate = (minSyl = 2, maxSyl = 6, maxLen = 8)=>{
   // generates a random name with a variable max length / syllable amount
