@@ -14,7 +14,7 @@ const syllables = ['acaru', 'achi', 'acti', 'ael', 'aelle', 'aelo', 'aer', 'aeri
   'deus', 'deux', 'dhai', 'dhar', 'dhrar', 'dhug', 'dhyl', 'dia', 'dieri', 'dio', 'doe', 'dog', 'dohr', 'doom', 'dorr', 'down', 'drae', 'drakh', 'drakk', 'dran', 'dre',
   'drea', 'dread', 'dream', 'dris', 'drop', 'druk', 'dry', 'dryd', 'dryn', 'dryr', 'dryto', 'duin', 'duirn', 'duke', 'duo', 'dusk', 'dy', 'dya', 'dyas', 'dysra', 'eago',
   'eal', 'earl', 'eas', 'echo', 'ecto', 'edo', 'eerie', 'eevo', 'egg', 'ego', 'eina', 'eine', 'eiri', 'elia', 'elle', 'elma', 'elo', 'elyo', 'elyor', 'elys', 'endo', 'equi',
-  'equu'. 'erdy', 'eris', 'erra', 'erri', 'erth', 'ervi', 'essa', 'eua', 'euda', 'eudo', 'eumo', 'evack', 'eve', 'eye', 'eyre', 'fa', 'fade', 'fael', 'fai', 'fang', 'far',
+  'equu', 'erdy', 'eris', 'erra', 'erri', 'erth', 'ervi', 'essa', 'eua', 'euda', 'eudo', 'eumo', 'evack', 'eve', 'eye', 'eyre', 'fa', 'fade', 'fael', 'fai', 'fang', 'far',
   'fare', 'fauca', 'feia', 'filau', 'fire', 'fish', 'fizz', 'flame', 'flero', 'flesh', 'flock', 'foe', 'fois', 'forh', 'fous', 'fray', 'fror', 'frost', 'fulvu', 'fume',
   'fur', 'fyn', 'fyr', 'fyre', 'gabo', 'gaia', 'galaz', 'gali', 'galo', 'gami', 'gamma', 'gax', 'gaz', 'gecko', 'geo', 'ghal', 'ghaz', 'ghi', 'ghiri', 'ghost', 'ghyr',
   'gias', 'giko', 'gin', 'gio', 'giri', 'git', 'giu', 'glass', 'glee', 'glerk', 'gley', 'glio', 'gloo', 'glow', 'gnci', 'gnorr', 'godh', 'gog', 'gogu', 'gold', 'gonda',
