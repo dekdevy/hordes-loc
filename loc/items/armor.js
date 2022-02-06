@@ -11,7 +11,8 @@ export default [
       vi: 'Đây là một vật liệu đầy sức mạnh đáng ngạc nhiên có thể được sử dụng như một giáp bảo vệ. Bản chất của vật liệu này là rõ ràng, vì vậy nhiều nhà thám hiểm chọn thay thế bao tải khoai tây càng nhanh càng tốt.',
       nl: 'Dit is een verassend stevig materiaal dat gebruikt kan worden als een beschermend kledingstuk. De in elkaar gezette natuur van dit materiaal is duidelijk, dus vele avonturiers kiezen ervoor om de "potato sack" zo snel mogelijk te vervangen.',
       it: 'È un materiale sorprendentemente robusto che può essere usato come veste protettiva. La natura improvvisata di questo materiale è ovvia, quindi molti avventurieri scelgono di sostituire il sacco di patate il più velocemente possibile.',
-      ro: 'Acesta este un material surprinzător de ferm dacă poate fi folosit drept haină de protecție. Natura improvizată a materialului e atât de evidentă, încât mulți aventurieri aleg să înlocuiască acest sac de cartofi cât mai repede cu putință.'
+      ro: 'Acesta este un material surprinzător de ferm dacă poate fi folosit drept haină de protecție. Natura improvizată a materialului e atât de evidentă, încât mulți aventurieri aleg să înlocuiască acest sac de cartofi cât mai repede cu putință.',
+      cs: 'Jedná se o překvapivě pevný materiál, který lze použít jako ochranný oděv. Provizorní povaha tohoto materiálu je zřejmá, takže mnoho dobrodruhů se rozhodne vyměnit pytel od brambor co nejrychleji.'
     }
   },
 
@@ -27,7 +28,8 @@ export default [
       vi: 'Bộ quần áo này là một vật gia truyền được truyền từ thế hệ này sang thế hệ khác.',
       nl: 'Dit kledingstuk is een familie-erfstuk dat is doorgegeven aan de ene avonturiersgeneratie tot de andere.',
       it: 'Questo indumento è un cimelio di famiglia passato da una generazione avventuriera ad un\'altra.',
-      ro: 'Această haină este o moștenire de familie ce a fost pasată în generații de la un aventurier la altul.'
+      ro: 'Această haină este o moștenire de familie ce a fost pasată în generații de la un aventurier la altul.',
+      cs: 'Tento oděv je rodinným dědictvím, které se dědilo z jedné dobrodružné generace na druhou.'
     }
   },
 
@@ -43,7 +45,8 @@ export default [
       vi: 'Áo này được chế tạo từ các loại vải mạnh mẽ được thiết kế để có thể sống sót ngoài tự nhiên. Một số giáo hội coi việc tặng chiếc áo này cho các nhà thám hiểm là một nghi thức truyền thống.',
       nl: 'Dit tuniek is gemaakt uit stevige stoffen die ontworpen zijn voor het weerstaan van het wildernis overleven. ',
       it: 'Questa tunica è stata fabbricata usando materiali robusti ideali per la resistenza alla sopravvivenza nella natura selvaggia. Molte tradizioni comprendono il donare le tuniche come regalo agli avventurieri che sembravano considerati degni da un consiglio.',
-      ro: 'Această tunică este fabricată dintr-un material robust și este făcută pentru a rezista supraviețuirii în sălbăticie. Câteva tradiții implică dăruirea de tunici drept cadou pentru aventurierii desemnați vretnici de o organizație.'
+      ro: 'Această tunică este fabricată dintr-un material robust și este făcută pentru a rezista supraviețuirii în sălbăticie. Câteva tradiții implică dăruirea de tunici drept cadou pentru aventurierii desemnați vretnici de o organizație.',
+      cs: 'Tato tunika je vyrobena z robustních látek, které jsou navrženy tak, aby vydržely přežití v divočině. Některé tradice zahrnují darování tunik dobrodruhům, které organizace považuje za hodné.'
     }
   },
 
@@ -59,7 +62,8 @@ export default [
       vi: 'Áo giáp da này là một lựa chọn phổ biến cho các nhà thám hiểm du hành. Xu hướng mặc đồ da có nguồn gốc từ Yggdrasil khi những sinh vật nguy hiểm bắt đầu ẩn nấp trong những khu rừng gần đó.',
       nl: 'Dit leren harnas is een vaak voorkomende keuze voor avonturiers. De trend van het dragen van "leather jerkins" is ontstaan rond Yggdrasil toen er gevaarlijke wezens begonnen rond te kruipen in de nabije jungles.',
       it: 'Questa armatura di pelle è una scelta comune per gli avventurieri erranti. La tendenza di indossare questi farsetti in pelle ha origine intorno a Yggdrasil, quando le creature pericolose iniziarono ad appostarsi nelle giungle vicine.',
-      ro: 'Această armură din piele reprezintă o alegere comună pentru călătorii aventurieri. Tendința purtării gecilor de piele provine din jurul lui Yggdrasil, pe când creaturile periculoase au început să mișune în junglele din apropiere.'
+      ro: 'Această armură din piele reprezintă o alegere comună pentru călătorii aventurieri. Tendința purtării gecilor de piele provine din jurul lui Yggdrasil, pe când creaturile periculoase au început să mișune în junglele din apropiere.',
+      cs: 'Toto kožené brnění je běžnou volbou pro cestovatele dobrodruhů. Trend nošení kožených kazajek vznikl kolem Yggdrasilu, když v nedalekých džunglích začala číhat nebezpečná stvoření.',
     }
   },
 
@@ -75,7 +79,8 @@ export default [
       vi: 'Bộ giáp này được làm từ vảy quái vật được tìm thấy trên mặt đất. Vảy quái vật thường được chế tạo thành áo giáp mỗi khi thiếu kim loại.',
       nl: 'Dit harnas is gemaakt van monsterschubben die gevonden waren op de grond. Monsterschubben worden vaak gehandhaafd tot fatsoenlijke harnassen wanneer er een tekort was aan metaal. ',
       it: 'Questa armatura è costruita usando scaglie di mostro trovate per terra. le scaglie di mostro sono spesso utilizzate per costruire armature rispettabili quando il metallo scarseggia.',
-      ro: 'Armura aceasta este fabricată din solzi de monstru ce au fost găsiți pe pământ. Solzii de monstru sunt deseori prefăcuți în respectabile armuri ori de câte ori nu se mai găsește metal.'
+      ro: 'Armura aceasta este fabricată din solzi de monstru ce au fost găsiți pe pământ. Solzii de monstru sunt deseori prefăcuți în respectabile armuri ori de câte ori nu se mai găsește metal.',
+      cs: 'Toto brnění je vyrobeno z monstrózních šupin, které byly nalezeny na zemi. Šupiny monster jsou často vytvořeny do úctyhodných brnění, kdykoli je nedostatek kovu.'
     }
   },
 
@@ -107,7 +112,8 @@ export default [
       vi: 'Chiếc áo choàng này triệu hồi những bóng ma xung quanh người mặc trong trận chiến để tăng cường bảo vệ. Những chiếc áo choàng như thế này được chế tạo bằng ma thuật bóng tối kỳ lạ và sau đó được tăng cường hóa học theo những cách bí mật',
       nl: 'Deze mantel roept kleine schaduwen die de dragen tijdens gevecht omhullen om bescherming te verbeteren. Mantels zoals deze zijn gehandhaafd met rare schaduw magie en dan verbeterd op geheime manieren door alchemie.',
       it: 'Questo mantello evoca piccole ombre che avviluppano l\'indossatore durante le battaglie per aumentare la protezione. I mantelli come questo sono fabbricati con una strana magia oscura e successivamente potenziati con tecniche segrete.',
-      ro: 'Această mantie invocă umbre mici care înfășoară purtătorul în timpul bătăliilor pentru a spori protecția. Astfel de mantii sunt fabricate folosind bizara magie a umbrelor, iar apoi alchemic sunt fermecate pe căi misterioase.'
+      ro: 'Această mantie invocă umbre mici care înfășoară purtătorul în timpul bătăliilor pentru a spori protecția. Astfel de mantii sunt fabricate folosind bizara magie a umbrelor, iar apoi alchemic sunt fermecate pe căi misterioase.',
+      cs: 'Tento plášť vyvolává malé stíny, které zahalují nositele během bitvy, aby zvýšily ochranu. Tyto pláště jsou vytvořeny pomocí podivné stínové magie a poté alchymicky vylepšeny tajnými způsoby.'
     }
   },
 
@@ -123,7 +129,9 @@ export default [
       vi: 'Cổ ngữ ma thuật đã được khắc vào bộ giáp này để cung cấp thêm sự bảo vệ. Một số học giả tin rằng các cổ ngữ trên tất cả các áo giáp dùng để tương tác với nhau trong một số nghi lễ lớn hơn, chưa được khám phá.',
       nl: 'Magische runes waren in dit harnas gestopt om extra bescherming te leveren. Sommige scholieren geloven dat de runes op alle "Runic Halfplate" harnassen bedoeld zijn om op elkaar in te werken in een of ander groter onontdekt ritueel.',
       it: 'Magiche rune sono state attaccate in questa armatura per ottenere protezione addizionale. Molti scolari credono che le rune su tutte le armature di questo tipo interagiscano tra loro in qualche grande e segreto rituale.',
-      ro: 'Rune magice au fost gravate în această armură pentru a oferi un surplus de protecție. Câțiva savanți cred că runele de pe toate aceste armuri sunt menite să interacționeze unele cu celelalte într-un ritual mai larg, nedescoperit.'
+      ro: 'Rune magice au fost gravate în această armură pentru a oferi un surplus de protecție. Câțiva savanți cred că runele de pe toate aceste armuri sunt menite să interacționeze unele cu celelalte într-un ritual mai larg, nedescoperit.',
+      cs: 'Do tohoto brnění byly vyleptány magické runy, aby poskytovaly dodatečnou ochranu. Někteří učenci se domnívají, že runy na všech runových poloplátových zbrojích jsou určeny ke vzájemné interakci v nějakém větším, neobjeveném rituálu.'
+
     }
   },
 
@@ -139,7 +147,9 @@ export default [
       vi: 'Một ngọn lửa siêu nhiên đã được sử dụng trong việc chế tạo áo giáp này. Những sự hiến tế to lớn đã được thực hiện để xoa dịu những yêu cầu của các sinh vật quỷ dữ để một vài thợ rèn có thể rèn được ngọn lửa kỳ lạ.',
       nl: 'Supernatuurlijke infernos waren gebruikt voor het maken van dit harnas. Grote offers werden gemaakt om de eisen van duivelse wezens te voldoen zodat een paar hoefsmeden kunnen smeden met de rare vlammen.',
       it: 'Gli inferni sovrannaturali furono usati nella creazione di questa armatura. Grandi sacrifici furono fatti per appacificare le creature demoniache affinché alcuni fabbri potessero forgiare con le strane fiamme.',
-      ro: 'Focuri infernale supernaturale au fost folosite la forjarea acestei armuri. Mari sacrificii au fost făcute pentru a potoli cererile creaturilor diavolești, doar pentru ca câțiva fierari să poată forja cu niște flăcări stranii.'
+      ro: 'Focuri infernale supernaturale au fost folosite la forjarea acestei armuri. Mari sacrificii au fost făcute pentru a potoli cererile creaturilor diavolești, doar pentru ca câțiva fierari să poată forja cu niște flăcări stranii.',
+      cs: 'Při výrobě tohoto brnění byla použita nadpřirozená pekla. Byly přinášeny velké oběti, aby se utišily požadavky ďábelských tvorů, aby pár kovářů mohlo kovat s podivnými plameny.'
+
     }
   },
 
@@ -156,7 +166,8 @@ export default [
       vi: 'Truyền thuyết cổ xưa nói rằng mỗi bộ giáp Soulkeeper chứa một linh hồn sẵn sàng hy sinh bản thân để tăng cường sức mạnh bảo vệ của bộ giáp. Trong thời kỳ gian khó, các thành viên đã hy sinh rất nhiều để đảm bảo sự sống còn của gia tộc và gia đình của họ.',
       nl: 'Eeuwenoude legendes zeggen dat elke "Soulkeeper" harnas een ziel bevat die met opzet zichzelf opofferde om de bescherming van het harnas te verbeteren. In moeilijke tijden maakten individuelen grote om de overleving van hun clans en families te verzekeren.',
       it: 'Antiche leggende raccontano che ogni armatura Soulkeeper ospiti un\'anima che volentieri si sacrificò per aumentare il potere protettivo dell\'armatura. In tempi duri, gi individui fecero grandi sacrifici per assicurare la sopravvivenza dei loro clan e famiglie.',
-      ro: 'Legende stăvechi spun că fiecare armură Soulkeeper adăpostește un suflet care s-a sacrificat de bună voie pentru a spori puterea protectivă a armurii. În timpuri mai grele, câțiva indivizi au făcut sacrificii pentru a se asigura de supraviețuirea clanurilor și familiilor lor.'
+      ro: 'Legende stăvechi spun că fiecare armură Soulkeeper adăpostește un suflet care s-a sacrificat de bună voie pentru a spori puterea protectivă a armurii. În timpuri mai grele, câțiva indivizi au făcut sacrificii pentru a se asigura de supraviețuirea clanurilor și familiilor lor.',
+      cs: 'Starověké legendy říkají, že každá zbroj Soukeeper ukrývá duši, která se dobrovolně obětovala, aby posílila ochrannou sílu brnění. V těžších časech jednotlivci přinášeli velké oběti, aby zajistili přežití svých klanů a rodin.'
     }
   },
 
@@ -173,7 +184,8 @@ export default [
       vi: 'Áo giáp Deathless được tạo ra bởi các vị vua và nhà lãnh đạo đầu tiên như một phương tiện để ngăn chặn vết thương chí mạng trong Đại chiến thứ nhất. Đúng như truyền thuyết, những vị vua và nhà lãnh đạo đã không bị diệt vong trong trận chiến; thay vào đó, họ từng bị ám sát khi ngủ và áo giáp của họ đã bị đánh cắp. Các kỹ thuật rèn đã bị mất theo thời gian, nhưng vận may khổng lồ rõ ràng là cần thiết cho quá trình này.',
       nl: '"Deathless" harnassen waren gemaakt door de eerste koningen en leiders om dodelijke wonden te vorkomen tijdens de "First Great War." waar volgens de legende, die koningen en leiders stierven niet in gevecht; daarentegen, zij werden vermoord in hun slaap en hun harnassen werden gestolen. De smeed technieken waren verloren door de tijd heen, maar gigantische fortuinen waren overduidelijk nodig voor het proces.',
       it: 'Le armature Deathless furono create dai primi re e leader per salvarsi dalle ferite mortali durante la Prima Guerra Mondiale. Secondo la leggenda, questi re e leader non perirono durante le battaglie; al contrario, loro furono assassinati durante il sonno e le loro armature vennero rubate. Le tecniche per forgiarle sono andate perdute, ma una gran dose di fortuna era chiaramente necessaria per il processo.',
-      ro: 'Armurile Deathless au fost create de primii regi și lideri ca un mijloc de prevenire a rănilor mortale din timpul "The First Great War". Fidel legendei, acei regi și lideri nu au murit în bătălie; în loc, fiecare dintre ei au fost uciși în somn iar armurile au fost furate. Tehnicile de forjare s-au pierdut în timp, dar averi masive au fost cu siguranță necesare pentru procesul de creație.'
+      ro: 'Armurile Deathless au fost create de primii regi și lideri ca un mijloc de prevenire a rănilor mortale din timpul "The First Great War". Fidel legendei, acei regi și lideri nu au murit în bătălie; în loc, fiecare dintre ei au fost uciși în somn iar armurile au fost furate. Tehnicile de forjare s-au pierdut în timp, dar averi masive au fost cu siguranță necesare pentru procesul de creație.',
+      cs: 'Deathless zbroj byla vytvořena prvními králi a vůdci jako prostředek k zabránění smrtelným zraněním během první velké války. Věrni legendě tito králové a vůdci nezahynuli v bitvě; místo toho byli každý zavražděn ve spánku a jejich brnění byla ukradena. Techniky kování byly ztraceny časem, ale pro tento proces bylo zjevně nutné obrovské bohatství.'
     }
   }
 
