@@ -19,7 +19,8 @@ export default {
       vi: 'Chào mừng đến với hàng hóa tốt nhất gần đây! Bạn sẽ không tìm thấy một thỏa thuận tốt hơn những gì tôi có cho bạn; tuy nhiên, tôi nghe nói rằng có một cửa hàng đặc biệt với các mặt hàng tuyệt vời không giống như bất cứ thứ gì tôi đã từng thấy. Trong khi đó, tôi có một số tiền và hàng dự phòng. Bạn có muốn bán gì không?',
       it: 'Benvenuto nel miglior negozio di prodotti in circolazione! Non troverai un affare migliore di quello che ho per te; tuttavia, ho sentito che esiste un negozio speciale con articoli fantastici a differenza di qualsiasi cosa io abbia mai visto. Nel frattempo, ho delle monete e dei pezzi di ricambio. Vuoi vendere qualcosa?',
       tr: 'En iyi ürünlere hoş geldiniz! Size verdiğim fiyattan daha iyi bir fiyat bulamayacaksınız; ancak, şimdiye kadar gördüğüm hiçbir şeye benzemeyen harika eşyalara sahip özel bir dükkan olduğunu duydum. Bu arada, biraz fazladan param ve fazladan ürünlerim var. Herhangi bir şey satmak ister misin?',
-      ja: '最高の商店へようこそ！ここら一帯で私に勝る商店は御座いません、是非ともご贔屓下さい。ですが、前代未聞の素晴らしい商品を販売しているスゴい店が何処かに在るとか無いとか。お客様がそちらに流れていってしまうまでの間は、こちらで承りましょう。何か売り物はございますか？'
+      ja: '最高の商店へようこそ！ここら一帯で私に勝る商店は御座いません、是非ともご贔屓下さい。ですが、前代未聞の素晴らしい商品を販売しているスゴい店が何処かに在るとか無いとか。お客様がそちらに流れていってしまうまでの間は、こちらで承りましょう。何か売り物はございますか？',
+      cs: 'Vítejte u nejlepšího obchodníka v okolí! Nenajdete lepší nabídku než to, co pro vás mám; Slyšel jsem však, že existuje speciální obchod s fantastickými předměty, které se nepodobají ničemu, co jsem kdy viděl. Mezitím mám nějaké náhradní mince a náhradní zboží. Chtěli byste něco prodat?'
     },
 
     choices: [{
@@ -37,7 +38,8 @@ export default {
       vi: 'Cho tôi xem gian hàng của bạn.',
       it: 'Mostrami le tue merci.',
       tr: 'Bana mallarını göster.',
-      ja: '商品を見せて下さい。'
+      ja: '商品を見せて下さい。',
+      cs: 'Ukaž mi své zboží'
     }]
   }],
 
@@ -60,7 +62,8 @@ export default {
     vi: 'Bán vật phẩm của bạn.',
     it: 'Vendi i tuoi articoli.',
     tr: 'Eşyalarını sat',
-    ja: '売るアイテムを選択して下さい。'
+    ja: '売るアイテムを選択して下さい。',
+    cs: 'Prodat své předměty'
   },
 
   info: {
@@ -82,7 +85,8 @@ export default {
     bn: 'আইটেম বিক্রি করতে রাইট বাটনে ক্লিক করুন অথবা আইটেমটিকে ট্রেডারের উইন্ডোতে টেনে আনুন।',
     vi: 'Để bán vật phẩm, nhấn shift-chuột phải hoặc kéo thả vào cửa sổ giao dịch.',
     it: 'Per vendere un oggetto, fai clic con il tasto destro del mouse o trascinalo nella finestra del commerciante.',
-    ja: 'アイテムを売るには、Shiftキーを押しながら右クリックするか、トレーダーウィンドウへドラッグして下さい。'
+    ja: 'アイテムを売るには、Shiftキーを押しながら右クリックするか、トレーダーウィンドウへドラッグして下さい。',
+    cs: 'K prodání předmětu, shift + pravé tlačítko u myši nebo přetáhni předmět do okna obchodníka'
   },
 
   // Include punctuation and space.
@@ -105,7 +109,8 @@ export default {
     bn: 'বিক্রয় মূল্য: ',
     vi: 'Giá bán: ',
     it: 'Prezzo di vendita: ',
-    ja: '売値: '
+    ja: '売値: ',
+    cs: 'Prodejní cena: '
   },
 
   buy: {
@@ -126,6 +131,7 @@ export default {
     bn: 'আপনি কি কিছু কিনতে আগ্রহী? কোনো আইটেম কিনতে চাইলে তাতে ক্লিক করুন।',
     vi: 'Bạn có hứng thú với cái gì không? Nhấn vào vật phẩm để mua nó.',
     it: 'Sei interessato a qualcosa? Fai clic su un articolo per acquistarlo.',
-    ja: '何か興味がありますか？クリックして購入して下さい。'
+    ja: '何か興味がありますか？クリックして購入して下さい。',
+    cs: 'Zajímatě něco? Klikni na předmět a kup ho'
   }
 }

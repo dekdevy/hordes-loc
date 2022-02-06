@@ -13,7 +13,8 @@ export default {
       vi: 'Tâm trí thuần khiết có những khả năng vô tận; Một cốc rỗng chỉ có thể được sử dụng khi nó hoàn toàn trống rỗng. Làm thế nào tôi có thể giúp bạn đi đến con đường giác ngộ?',
       it: 'Le menti oppresse sono piene di opinioni in abbondanza; una tazza può essere molto utile se prima viene trovata vuota. Come posso aiutarti nel tuo cammino verso l\'illuminazione?',
       tr: 'Yüklü zihinler bol miktarda fikirle doludur; İlk önce boş bulunursa bir fincan oldukça faydalı olabilir. Aydınlanmaya giden yolda sana nasıl yardımcı olabilirim?',
-      ja: '滾る熱意は数多くの声により満たされている。空の器はより良いものへとなり得るのだ。今、其方の悟りへの道は開かれる。その身を委ねるが良い。'
+      ja: '滾る熱意は数多くの声により満たされている。空の器はより良いものへとなり得るのだ。今、其方の悟りへの道は開かれる。その身を委ねるが良い。',
+      cs: 'Zatížené mysli jsou plné názorů; hrnek může být docela užitečný, pokud jej nejprve najdeš prázdný. Jak vám mohu pomoci na vaší cestě k osvícení?'
     },
 
     choices: [{
@@ -31,7 +32,8 @@ export default {
       vi: 'Cài đặt lại điểm tiềm năng ( $g$1 ).',
       it: 'Ripristina i miei punti status ( $g$1 )',
       tr: 'İstatistik puanlarımı sıfırla ( $g$1 )',
-      ja: 'ステータスポイントをリセットして下さい。 ( $g$1 )'
+      ja: 'ステータスポイントをリセットして下さい。 ( $g$1 )',
+      cs: 'Resetovat mé statistiky'
     }]
   }]
 }

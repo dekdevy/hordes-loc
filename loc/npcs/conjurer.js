@@ -20,7 +20,8 @@ export default {
       bn: 'আপনি কি Crystal Shards সম্পর্কে শুনেছেন যা সম্প্রতি আবিষ্কার হয়েছে? অ্যাডভেঞ্চারাররা এগুলি সরাসরি দূরবর্তী অঞ্চলে ভ্রমণ করতে ব্যবহার করতে পারেন। আমার কাছে কোনো Crystal Shards নেই, তবে আমি আপনাকে কয়েকটি জায়গায় পাঠাতে পারি যেহেতু এই বিন্দুতে রহস্যময় শক্তি একত্রিত হয়। আপনার কাঙ্ক্ষিত গন্তব্য কোন অঞ্চল?',
       vi: 'Bạn có từng nghe đến Crystal Shards vừa được phát hiện gần đây? Các nhà thám hiểm có thể sử dụng chúng để đi trực tiếp đến các nơi xa xôi. Tôi không có Crystal Shards nào, nhưng tôi có thể đưa bạn đến một số nơi kể từ khi các thế lực thần bí hội tụ tại nơi này. Vùng nào là đích đến mong muốn của bạn?',
       it: 'Hai sentito parlare dei Crystal Shards che sono stati scoperti di recente? Gli avventurieri possono usarli per viaggiare direttamente in regni lontani. Non ho i Crystal Shards, ma posso inviarti in alcuni luoghi poiché le forze mistiche convergono in questo nesso. Quale regno è la destinazione desiderata?',
-      ja: '最近発見されたCrystal Shardsについて耳にした事はありますか？冒険者はこれらを使って遠くの地域へ直接移動する事が出来ます。Crystal Shardsは今手元にありませんが、神秘的な力が今ここに宿っており、幾つかの場所へ貴方を送る事は出来ます。どの目的地へお運びいたしましょうか？'
+      ja: '最近発見されたCrystal Shardsについて耳にした事はありますか？冒険者はこれらを使って遠くの地域へ直接移動する事が出来ます。Crystal Shardsは今手元にありませんが、神秘的な力が今ここに宿っており、幾つかの場所へ貴方を送る事は出来ます。どの目的地へお運びいたしましょうか？',
+      cs: 'Slyšeli jste o Crystal Shards, které byly nedávno objeveny? Dobrodruzi je mohou využít k přímé cestě do vzdálených říší. Nemám žádné Crystal Shards, ale mohu vás poslat na některá místa, protože mystické síly se sbíhají v tomto spojení. Která říše je vaším vytouženým cílem?“'
     },
 
     choices: [{
@@ -42,7 +43,8 @@ export default {
       bn: 'দয়া করে আমাকে $1 এ নিয়ে যান।',
       vi: 'Vui lòng mang cho tôi $1',
       it: 'Per favore portami a $1',
-      ja: '$1へ連れて行って下さい。'
+      ja: '$1へ連れて行って下さい。',
+      cs: 'Prosím, přiveďte mě na $ 1.'
     }]
   }]
 }
