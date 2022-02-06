@@ -22,7 +22,8 @@ export default {
       it: 'Danno',
       sr: 'Штета',
       ja: 'ダメージ',
-      ko: '데미지'
+      ko: '데미지',
+      cs: 'Poškození'
     }
   },
 
@@ -44,7 +45,8 @@ export default {
       it: 'Forza',
       sr: 'Снага',
       ja: 'パワー',
-      ko: '힘'
+      ko: '힘',
+      cs: 'Síla'
     },
 
     {
@@ -63,7 +65,8 @@ export default {
       it: 'Resistenza',
       sr: 'Стамина',
       ja: 'スタミナ',
-      ko: '마나'
+      ko: '마나',
+      cs: 'Výdrž'
     },
 
     {
@@ -82,7 +85,8 @@ export default {
       it: 'Destrezza',
       sr: 'Спретност',
       ja: '器用さ',
-      ko: '민첩'
+      ko: '민첩',
+      cs: 'Obratnost'
     },
 
     {
@@ -101,7 +105,8 @@ export default {
       it: 'Intelligenza',
       sr: 'Интелигенција',
       ja: '知性',
-      ko: '지능'
+      ko: '지능',
+      cs: 'Inteligence'
     },
 
     {
@@ -120,7 +125,8 @@ export default {
       it: 'Saggezza',
       sr: 'Мудрост',
       ja: '賢さ',
-      ko: '지혜'
+      ko: '지혜',
+      cs: 'Moudrost'
     },
 
     {
@@ -139,7 +145,8 @@ export default {
       it: 'Fortuna',
       sr: 'Срећа',
       ja: '運',
-      ko: '운'
+      ko: '운',
+      cs: 'Štěstí'
     },
 
     {
@@ -174,7 +181,8 @@ export default {
       it: 'Danno Min',
       sr: 'Min. штета',
       ja: '最小ダメージ',
-      ko: '최소 데미지'
+      ko: '최소 데미지',
+      cs: 'Min Zra.'
     },
 
     {
@@ -193,7 +201,8 @@ export default {
       it: 'Danno Max',
       sr: 'Max. штета',
       ja: '最大ダメージ',
-      ko: '최대 데미지'
+      ko: '최대 데미지',
+      cs: 'Max Zra.'
     },
 
     {
@@ -212,7 +221,8 @@ export default {
       it: 'Difesa',
       sr: 'Одбрана',
       ja: '防御力',
-      ko: '방어'
+      ko: '방어',
+      cs: 'Obrana'
     },
 
     {
@@ -231,7 +241,8 @@ export default {
       it: 'Blocco',
       sr: 'Блок',
       ja: 'ブロック',
-      ko: '막기'
+      ko: '막기',
+      cs: 'Blok'
     },
 
     {
@@ -250,7 +261,8 @@ export default {
       it: 'Critico',
       sr: 'Критичан',
       ja: 'クリティカル',
-      ko: '크리티컬'
+      ko: '크리티컬',
+      cs: 'Kritický'
     },
 
     {
@@ -269,7 +281,8 @@ export default {
       sr: 'Брз. крет.',
       tr: 'Hareket ',
       ja: '移動速度',
-      ko: '이속'
+      ko: '이속',
+      cs: 'Rychl. pohybu'
     },
 
     {
@@ -288,7 +301,8 @@ export default {
       it: 'Rapidità',
       sr: 'Журба',
       ja: '機敏さ',
-      ko: '순간 속력'
+      ko: '순간 속력',
+      cs: 'Rychlost'
     },
 
     {
@@ -307,7 +321,8 @@ export default {
       sr: 'Брз. напада',
       tr: 'Saldırı Hızı',
       ja: '攻撃速度',
-      ko: '공격 속도'
+      ko: '공격 속도',
+      cs: 'Rychl. Útoku'
     },
 
     {
@@ -326,7 +341,8 @@ export default {
       sr: 'Прон. пред.',
       tr: 'Eşya Bulma',
       ja: 'アイテム探知',
-      ko: '아이템 흭득'
+      ko: '아이템 흭득',
+      cs: 'Hledání Předmětu'
     },
 
     {
@@ -345,7 +361,8 @@ export default {
       sr: 'Места у тор.',
       tr: 'Çanta Yuvaları',
       ja: 'バッグの広さ',
-      ko: '가방 공간'
+      ko: '가방 공간',
+      cs: 'Místa v baťohu'
     },
 
     {
@@ -364,7 +381,9 @@ export default {
       sr: 'Слава',
       tr: 'Ün',
       ja: '名声',
-      ko: '프레임'
+      ko: '프레임',
+      cs: 'Sláva'
+    
     },
 
     {
@@ -374,7 +393,8 @@ export default {
       hu: 'Értékelés',
       fr: 'Notation',
       tr: 'Değerlendirme',
-      ja: 'レーティング'
+      ja: 'レーティング',
+      cs: 'Hodnocení'
     },
 
     {
@@ -393,7 +413,8 @@ export default {
       sr: 'Поени за стат.',
       tr: 'İstatistik Puanları ',
       ja: 'ステータスポイント',
-      ko: '스텟 포인트'
+      ko: '스텟 포인트',
+      cs: 'Stat Body'
     },
 
     {
@@ -412,7 +433,8 @@ export default {
       sr: 'Поени за веш.',
       tr: 'Beceri Puanları',
       ja: 'スキルポイント',
-      ko: '스킬 포인트'
+      ko: '스킬 포인트',
+      cs: 'Dovednostní Body'
     },
 
     {
@@ -435,7 +457,8 @@ export default {
       // pl: '% Zwiększone obrażenia',
       tr: '% Artan Hasar',
       ja: '% ダメージ増加',
-      ko: '% 데미지 증가'
+      ko: '% 데미지 증가',
+      cs: '% Zvýšení Poš.'
     },
 
     {
@@ -454,7 +477,8 @@ export default {
       sr: '% Повећања агресије',
       tr: '% Artan Kızdırma ÜRetimi',
       ja: '% ヘイト誘発増加',
-      ko: '% 몹 어그로 증가'
+      ko: '% 몹 어그로 증가',
+      cs: '% Zvýšení Generování Agra.'
     },
 
     {
@@ -473,7 +497,8 @@ export default {
       sr: '% Смањења брз. кретања',
       tr: '% Hareket Hızı Düşürme',
       ja: '% 移動速度低下',
-      ko: '% 이속 감소'
+      ko: '% 이속 감소',
+      cs: '% Redukce Rychl. Pohybu'
     },
 
     {
@@ -490,7 +515,8 @@ export default {
       sr: 'Умањење лечења',
       tr: 'İyileştirme Düşürme',
       ja: '回復阻害',
-      ko: '힐링 감소'
+      ko: '힐링 감소',
+      cs: 'Redukce léčení'
     }
   ]
 }
