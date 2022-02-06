@@ -19,7 +19,8 @@ export default {
     vi: 'Bạn đã chết',
     sr: 'Умро си.',
     it: 'Sei morto.',
-    ja: '死んでしまった。'
+    ja: '死んでしまった。',
+    cs: 'Zemřel jsi'
   },
 
   deathmsg: {
@@ -42,7 +43,8 @@ export default {
     vi: 'Nhấn nút để hồi sinh tại điểm gần nhất',
     sr: 'Притисните дугме да би сте васкрсли до најблизег Conjurer-a.',
     it: 'Premi il pulsante per risorgere dal Conjurer più vicino.',
-    ja: 'ボタンを押すと近くの祈祷師へリスポーンします。'
+    ja: 'ボタンを押すと近くの祈祷師へリスポーンします。',
+    cs: 'Stisknutím tlačítka budete vzkříšeni u nejbližšího kouzelníka'
   },
 
   // 'Resurrect' is used in many translations/languages.
@@ -66,6 +68,7 @@ export default {
     sr: 'Васкрсни',
     it: 'Respawn',
     tr: 'Yeniden Doğ',
-    ja: 'リスポーン'
+    ja: 'リスポーン',
+    cs: 'Respawn'
   }
 }

@@ -19,7 +19,8 @@ export default {
       bn: 'Blacksmith\'s Blessed Hammer এর মতো অতিরিক্ত বিশেষ আইটেম ব্যতীত আপগ্রেড করা ঝুঁকিপূর্ণ, এটি আপগ্রেডের সময় আইটেমগুলি ভাঙ্গা থেকে রোধ করতে পারে। এই হাতুড়িটি ছাড়া, আমরা একটি ঝুঁকি গ্রহণ করছি। সুতরাং, আপনার কাছে কি এমন কিছু আছে যা আমি আজ আপনার জন্য আপগ্রেড করতে পারি?',
       vi: 'Nâng cấp vật phẩm luôn có sự rủi ro nếu không có vật phẩm đặc biệt như Blacksmith\'s Blessed Hammer, có thể ngăn các vật phẩm bị hủy trong quá trình nâng cấp. Không có búa, chúng ta sẽ mạo hiểm. Vì vậy, chắc chắn bạn có một cái gì đó mà tôi có thể nâng cấp cho bạn ngày hôm nay.',
       it: 'L\'aggiornamento è rischioso senza ulteriori oggetti speciali come un Blacksmith\'s Blessed Hammer, che può impedire agli oggetti di rompersi durante gli aggiornamenti. Senza il martello, correremo un rischio. Quindi sicuramente hai qualcosa che posso aggiornare per te oggi?',
-      ja: '俺のBlacksmith\'s Blessed Hammerは、アップグレード中に装備がブッ壊れるのを防ぐことが出来る。このような特別なアイテム無しでアップグレードする事は非常に危なっかしいんだ。さて、今日はどの装備をアップグレードするんだ？'
+      ja: '俺のBlacksmith\'s Blessed Hammerは、アップグレード中に装備がブッ壊れるのを防ぐことが出来る。このような特別なアイテム無しでアップグレードする事は非常に危なっかしいんだ。さて、今日はどの装備をアップグレードするんだ？',
+      cs: 'Vylepšování je riskantní bez dalších speciálních předmětů, jako je Blacksmith\'s Blessed Hammer, které může zabránit rozbití předmětů během upgradů. Bez kladiva riskujeme. Takže určitě máte něco, co pro vás dnes mohu vylepšit?'
     },
 
     choices: [{
@@ -40,7 +41,8 @@ export default {
       bn: 'হ্যাঁ, আমার কিছু জিনিস আছে',
       vi: 'Đúng vậy, tôi có vài vật phẩm',
       it: 'Si, ho qualche oggetto',
-      ja: 'はい、この装備をお願いします。'
+      ja: 'はい、この装備をお願いします。',
+      cs: 'Ano, mám nějaké věci.'
     }]
   }]
 }
