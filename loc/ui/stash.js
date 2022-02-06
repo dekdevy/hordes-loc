@@ -19,7 +19,8 @@ export default {
     sr: 'Мораш сачекати пре него што можеш преузети овај предмет.',
     it: 'Devi aspettare fino a quando non puoi recuperare questo elemento.',
     tr: 'Bu öğeyi alabilmek için beklemelisin.',
-    ja: 'このアイテムを回収するには暫くの間待つ必要があります。'
+    ja: 'このアイテムを回収するには暫くの間待つ必要があります。',
+    cs: 'Musíš počkat, než budš moci získat tento předmět.'
   },
 
   withdraw: {
@@ -41,7 +42,8 @@ export default {
     vi: 'Rút tiền',
     sr: 'Повлачење новца',
     it: 'Preleva',
-    ja: '引き出す'
+    ja: '引き出す',
+    cs: 'Vybrat'
   },
 
   // Translate the verb, rather than the noun.
@@ -59,7 +61,8 @@ export default {
     pt: 'Depósito',
     tr: 'Yatır',
     ja: '預ける',
-    ko: '두고 가기'
+    ko: '두고 가기',
+    cs: 'Vložit'
   },
 
   // Do not translate "Stash".
@@ -82,7 +85,8 @@ export default {
     sr: 'Стави у Stash',
     it: 'Invia allo Stash',
     tr: 'Eşyayı Stashle',
-    ja: 'Stashアイテム'
+    ja: 'Stashアイテム',
+    cs: 'Uložit předmět'
   },
 
   // Do not translate "Stash".
@@ -105,7 +109,8 @@ export default {
     sr: '$1 је стављен у твој Stash.',
     it: '$1 è stato spostato nel tuo Stash',
     tr: '$1, Stashe taşındı.',
-    ja: '$1 がStashに送られました。'
+    ja: '$1 がStashに送られました。',
+    cs: '$1 byl přesunut do truhly'
   }
 
 }
