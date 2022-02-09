@@ -12,7 +12,8 @@ export default [
       vi: 'Túi này được làm từ một loại vải tinh tế. Những chiếc túi như thế này thường thuộc sở hữu của những người bình thường để mang đồ đạc của họ',
       nl: 'Deze buidel is gemaakt van een fijne stof. Buidels zoals deze zijn vaak eigendom van gewone mensen voor het dragen van hun bezittingen.',
       it: 'Questo zaino è stato fabbricato con un tessuto fragile. Zaini come questi spesso vengono utilizzati dalle persone comuni per trasportare i loro averi.',
-      ro: 'Acest săculeț este făcut dintr-un material delicat. Astfel de săculeți sunt des folosiți de oameni simpli pentru a-și căra bunurile.'
+      ro: 'Acest săculeț este făcut dintr-un material delicat. Astfel de săculeți sunt des folosiți de oameni simpli pentru a-și căra bunurile.',
+      cs: 'Tato taška je vyrobena z jemné látky. Takové vaky často vlastní obyčejní lidé na přenášení svých věcí.'
     }
   },
 
@@ -29,7 +30,8 @@ export default [
       vi: 'Bao tải xấu xí này được chế tạo từ các loại vải chắc chắn để chứa nhiều thiết bị hơn túi vải lanh.',
       nl: 'Deze rugzak is gehandhaafd van stevige stoffen om meer uitrusting te dragen dan een "Linen Pouch".',
       it: 'Questo zaino robusto è stato realizzato con un tessuto resistente per contenere più oggetti rispetto ad un "Linen Pouch".',
-      ro: 'Acest sac aspru este creat din materiale robuste pentru a susține mai mult echipament decât "Linen Pouch".'
+      ro: 'Acest sac aspru este creat din materiale robuste pentru a susține mai mult echipament decât "Linen Pouch".',
+      cs: 'Tento odolný pytel je vyroben z pevných látek, aby pojal více vybavení než plátěný vak.'
     }
   },
 
@@ -46,7 +48,8 @@ export default [
       vi: 'Chiếc túi chắc chắn này được làm từ da quái vật và là một hành trang đáng trân trọng.',
       nl: 'Deze krachtige zak is gemaakt van monsterhuid en gunt een fatsoenlijke inventaris.',
       it: 'Questo zaino resistente è stato fabbricato con la pelle dei mostri e consente un inventario rispettabile.',
-      ro: 'Acest sac robust este făcut din piele de monstru și permite posesia unui inventar respectabil.'
+      ro: 'Acest sac robust este făcut din piele de monstru și permite posesia unui inventar respectabil.',
+      cs: 'Tento robustní pytel je vyroben z kůží monster a umožňuje úctyhodný inventář.'
     }
   },
 
@@ -63,7 +66,8 @@ export default [
       vi: 'Chiếc túi tốt này được chế tác từ vải Elvish đắt tiền và chứa nhiều hơn hầu hết các túi khác',
       nl: 'Deze fijne tas is gehandhaafd van dure tover-stoffen en heeft meer zakken dan de meeste andere tassen.',
       it: 'Questo zaino pregiato è stato realizzato con costosi tessuti elfici e contiene più tasche della maggior parte degli zaini.',
-      ro: 'Acest sac rezistent a fost creat din materialele scumpe ale Elfilor și are mai multe buzunare decât majoritatea celorlalți saci.'
+      ro: 'Acest sac rezistent a fost creat din materialele scumpe ale Elfilor și are mai multe buzunare decât majoritatea celorlalți saci.',
+      cs: 'Tato jemná taška byla vyrobena z drahých elfských látek a obsahuje více kapes než většina ostatních tašek.'
     }
   },
 
@@ -80,7 +84,8 @@ export default [
       vi: 'Những chiếc túi như thế này là một món quà từ thiên nhiên cho các bộ tộc druid bí mật. Thật không may, quái vật đã vứt bỏ nhiều druid theo thời gian và đã đánh cắp những chiếc túi thiêng liêng này.',
       nl: 'Tassen zoals deze zijn cadeaus van de natuur aan geheime druïde samenlevingen. Jammer genoeg, monsters hebben vele druïdes opgeruimd na een tijdje en hebben deze heilige tassen gestolen.',
       it: 'Zaini come questi sono un dono della natura alle società segrete dei druidi. Sfortunatamente, i mostri con il passare del tempo hanno ucciso molti druidi e hanno rubato queste sacre sacche.',
-      ro: 'Astfel de saci sunt un cadou din partea naturii pentru societățile secrete de druizi. Din păcate, monștrii au scăpat de mulți druizi de-a lungul timpului și au furat acești saci sacrii.'
+      ro: 'Astfel de saci sunt un cadou din partea naturii pentru societățile secrete de druizi. Din păcate, monștrii au scăpat de mulți druizi de-a lungul timpului și au furat acești saci sacrii.',
+      cs: 'Tašky, jako je tato, jsou darem přírody tajným druidským společnostem. Bohužel, monstra se časem zbavila mnoha druidů a ukradla tyto posvátné tašky.'
     }
   }
 
