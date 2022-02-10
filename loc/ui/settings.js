@@ -698,7 +698,7 @@ export default {
     tr: 'Stash genişliği',
     ja: 'Stashの行',
     ko: 'Stash 너비',
-    cs: 'Šířka truhly'
+    cs: 'Šířka truhly',
     zh: 'Stash 寬度'
 
   },
