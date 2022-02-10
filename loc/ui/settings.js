@@ -373,7 +373,7 @@ export default {
     cs: 'Ambientní okluze',
     zh: '環境光遮掩'
 
-
+  },
   grass: {
     en: 'Grass',
     el: 'Γρασίδι',
