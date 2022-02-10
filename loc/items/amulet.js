@@ -18,7 +18,8 @@ export default [
       vi: 'Các nguyên liệu bị đốt cháy đã được xoắn và gắn lại với nhau tạo thành một bùa hộ mệnh đơn giản. Chế tạo bùa hộ mệnh đơn giản như thế này là đã là một cách sinh tồn từ thời cổ đại.',
       cs: 'Ohořelé ingredience byly zkrouceny a smotány dohromady aby vytvořily amulet nuzné protekce. Vytvořit jednoduchý amulet jako je tento se považuje za běžnou taktiku pro přežití už od pradávna.',
       it: 'Ingredienti bruciati sono stati attorcigliati e legati tra loro per formare un amuleto che dona una lieve protezione. Creare amuleti semplici come questo è sempre stata una pratica di sopravvivenza comune fin dai tempi antichi.',
-      ja: '燃え遺った素材は一握りの加護を授ける為に、寄せ集められて結ばれ、捩じられます。このように簡単なお守りを作る事は、古来より生存の要として親しまれてきました。'
+      ja: '燃え遺った素材は一握りの加護を授ける為に、寄せ集められて結ばれ、捩じられます。このように簡単なお守りを作る事は、古来より生存の要として親しまれてきました。',
+      zh: '把焚燒過後的材料扭轉後，綁成一個具微弱保護效果的護身符。製造這樣的護身符，是自古以來的常見生存策略。'
     }
   },
 
@@ -41,7 +42,8 @@ export default [
       vi: 'Vòng cổ được làm từ da sói. Một vài chúng vẫn còn các kết nối với nhau, tuy nhiên tất cả vòng cổ sói đều cứng cáp. Một số vòng cổ được thấm nhuần sự bảo vệ tâm linh.',
       cs: 'Límec, který drží vlky v otrocví, je vyrobený z tlusté kůže. Některé z nich mají na sobě ještě obojky, ale všechny vlčí límce jsou solidní. Některé límce jsou naplněné duchovní protekcí.',
       it: 'I Collari per mantenere i lupi fedeli sono fatti da una pelle spessa. Alcuni di essi hanno ancora delle maglie di catena attaccate, ma tutti i collari per lupi sono robusti. Alcuni collari sono imbevuti di una protezione spirituale.',
-      ja: 'オオカミを躾ける為の首輪は厚めの革で出来ています。何故か千切れた鎖が付いているものもありますが、全ての首輪は頑丈に出来ています。一部の首輪には精神の加護が宿ります。'
+      ja: 'オオカミを躾ける為の首輪は厚めの革で出来ています。何故か千切れた鎖が付いているものもありますが、全ての首輪は頑丈に出来ています。一部の首輪には精神の加護が宿ります。',
+      zh: '由厚皮革製成的項圈是用來使狼群服從的，有些還使用鎖鏈鏈接起來。但所有的項圈都很堅固，有些還以心靈守護注入其中。 '
     }
   },
 
@@ -64,7 +66,8 @@ export default [
       vi: 'Vòng cổ này bao gồm các mảnh xương từ nhiều sinh vật mạnh mẽ. Mỗi vòng cổ xương có sự bảo vệ khác nhau dựa trên nguồn gốc bộ xương.',
       cs: 'Tento náhrdelník je tvořen z zlomků kostí z různých silných tvorů. Každý kostěný náhrdelník se liší protekcí na základě původu kostí.',
       it: 'Questa collana è formata da frammenti di ossa provenienti da varie forti creature. Ogni collana di ossa varia in protezione basandosi sulla origine delle ossa.',
-      ja: 'このネックレスは幾多の強力な生物の骨片で出来ています。各々のネックレスは使用した骨の種類によって保存方法が異なります。'
+      ja: 'このネックレスは幾多の強力な生物の骨片で出来ています。各々のネックレスは使用した骨の種類によって保存方法が異なります。',
+      zh: '這條項鍊是用各種強壯生物的骨頭碎片製成的。每條項鍊多變的保護功能是因為骨頭種類的不同。'
     }
   },
 
@@ -86,7 +89,8 @@ export default [
       vi: 'Những móng vuốt người sói đáng sợ bị bỏ lại trên cơ thể của các nạn nhân đã được bôi bằng dầu thần bí và thấm nhuần tinh thần thông qua thiền định. Những người tạo ra những lá bùa hộ mệnh này hy vọng rằng một ngày nào đó những sự bảo vệ tâm linh này sẽ được sử dụng để trả thù.',
       cs: 'Strachuplné vlkodlačí drápy, které byly zanechány na jejich obětech, byly pomazány mystickými oleji a vštípeny do nich duchovní statečnost zkrz meditaci. Stvořitelé tohoto amuletu doufají, že tato duchovní protekce jednoho dne bude použita na pomstu.',
       it: 'Gli artigli di un terribile lupo mannaro lasciati sui corpi delle vittime vengono unti con oli mistici e infusi con una forza d\'animo attraverso la meditazione. I creatori di questi amuleti speravano che queste protezioni spirituali venissero un giorno usate per vendicarsi.',
-      ja: '犠牲者の身体に刻み込まれた恐ろしいオオカミ男の爪は、聖なる油により聖別され、瞑想を通じて精神の強さを宿らせました。このお守りの作成者は、宿った精神の強さがいつの日か復讐に発揮される事を望んでいました。'
+      ja: '犠牲者の身体に刻み込まれた恐ろしいオオカミ男の爪は、聖なる油により聖別され、瞑想を通じて精神の強さを宿らせました。このお守りの作成者は、宿った精神の強さがいつの日か復讐に発揮される事を望んでいました。',
+      zh: '被遺留在受害者身上的可怕狼人爪子被神秘的油膏抹了，並通過冥想被灌輸了精神上的毅力。這些護身符的創造者希望這些精神保護有一天能夠用於報仇。'
     }
   },
 
@@ -108,7 +112,8 @@ export default [
       vi: 'Khi một móng vuốt được tìm thấy, nó được coi là một món quà từ những con chim linh thiêng trên núi. Các nhà sư trên các vùng núi đã sử dụng móng vuốt để tạo ra bùa hộ mệnh để bảo vệ bản thân khỏi những kẻ xâm lược trong trận chiến.',
       cs: 'Když byl tento dráp nalezen, byl považován za dar od posvatných ptáků v horách. Mniši v horách požívali tento dráp aby vyprodukovali duchovní amulet pro svou vlastní ochranu od nájezdníků během souboje.',
       it: 'Quando un artiglio veniva trovato, esso era considerato un dono dagli uccelli sacri delle montagne. I monaci delle montagne usavano gli artigli per produrre amuleti spirituali per proteggersi dagli invasori durante le battaglie.',
-      ja: 'この鉤爪が見つかった当時、それは山に住まう神鳥からの贈り物だと考えられました。山の修道士達は、外敵による奇襲から自身を守る為にこの鉤爪を使って精神のお守りを作りました。'
+      ja: 'この鉤爪が見つかった当時、それは山に住まう神鳥からの贈り物だと考えられました。山の修道士達は、外敵による奇襲から自身を守る為にこの鉤爪を使って精神のお守りを作りました。',
+      zh: '當一只爪子被發現時，它被認為是山裡聖鳥的禮物。山中的僧侶們使用爪子製作成護身符，以保護自己在戰鬥中不受入侵者的侵害。'
     }
   },
 

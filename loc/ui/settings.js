@@ -13,7 +13,7 @@ export default {
     pt: 'Configurações',
     ko: '설정',
     ro: 'Setări',
-    zh: '设置',
+    zh: '設定',
     hu: 'Beállítások',
     pl: 'Ustawienia',
     vi: 'Cài đặt',
@@ -65,7 +65,8 @@ export default {
     tr: 'Tuş atamaları',
     ja: 'キー割り当て',
     ko: '키 고정',
-    cs: 'Bindování tlačítek'
+    cs: 'Klávesové zkratky'
+
   },
 
   camera: {
@@ -83,7 +84,9 @@ export default {
     tr: 'Kamera',
     ja: 'カメラ',
     ko: '카메라',
-    cs: 'Kamera'
+    cs: 'Kamera',
+    zh: '視角'
+
   },
 
   mousesensitivity: {
@@ -102,7 +105,9 @@ export default {
     tr: 'Hassasiyet',
     ja: 'マウス感度',
     ko: '민감도',
-    cs: 'Senzitivita'
+    cs: 'Senzitivita',
+    zh: '靈敏度'
+
   },
 
   invertmousex: {
@@ -121,7 +126,9 @@ export default {
     tr: 'Yatay ters çevir',
     ja: '左右反転',
     ko: '가로로 회전',
-    cs: 'Převrátit vodorovně'
+    cs: 'Převrátit vodorovně',
+       zh: '水平反轉'
+
   },
 
   invertmousey: {
@@ -140,7 +147,9 @@ export default {
     tr: 'Dikey ters çevir',
     ja: '上下反転',
     ko: '세로로 회전',
-    cs: 'Převrátit vertikálně'
+    cs: 'Převrátit vertikálně',
+    zh: '垂直反轉'
+
   },
 
   pointerlock: {
@@ -161,7 +170,8 @@ export default {
     tr: 'Döndürme sırasında fareyi gizle',
     ja: '操作中にカーソル非表示',
     ko: '회전하는 중에는 마우스 숨기기',
-    cs: 'Schovat myš během otáčení'
+    cs: 'Skrýt myš během otáčení'
+
   },
 
   lockedcamera: {
@@ -177,7 +187,7 @@ export default {
     pt: 'Câmera bloqueada',
     ko: '카메라 고정',
     ro: 'Blochează camera',
-    zh: '锁定相机',
+    zh: '鎖定視角',
     hu: 'Rögzített kamera',
     pl: 'Zablokowana kamera',
     vi: 'Khóa Camera',
@@ -195,13 +205,13 @@ export default {
     hi: 'ग्राफ़िक्स',
     es: 'Gráficos',
     de: 'Grafik',
-    fr: 'Graphiques',
+    fr: 'Graphismes',
     nl: 'Grafischen',
     tr: 'Grafikler',
     pt: 'Gráficos',
     ko: '그래픽',
     ro: 'Grafică',
-    zh: '图像',
+    zh: '圖像',
     hu: 'Grafika',
     pl: 'Grafika',
     vi: 'Đồ họa',
@@ -224,14 +234,15 @@ export default {
     fr: 'Distance d\'affichage',
     tr: 'Görüş mesafesi',
     ko: '시야',
-    zh: '远景范围',
+    zh: '視野範圍',
     hu: 'Látótávolság',
     pl: 'Zasięg widzenia',
     vi: 'Khoảng cách nhìn',
     it: 'Distanza visiva',
     sr: 'Дистанца погледа',
     ja: '描画範囲',
-    cs: 'Rozsah zobrazení'
+    cs: 'Rozbrazení vzdálenosti'
+
   },
 
   resolution: {
@@ -257,6 +268,7 @@ export default {
     cs: 'Rozlišení'
   },
 
+
   postprocessing: {
     en: 'Post-processing',
     el: 'Post-processing',
@@ -275,6 +287,24 @@ export default {
     ja: 'ジャギー抑制',
     ko: '효과',
     cs: 'Následné zpracování'
+   },
+
+  fxaa: {
+    $$: 'FXAA'
+  },
+
+  bloom: {
+    en: 'Bloom',
+    ru: 'Bloom',
+    zh: '泛光特效'
+  },
+
+  disableoffscreen: {
+    en: 'Disable off-screen creatures',
+    ru: 'Отключить монстров за пределами экрана',
+    fr: 'Désactiver les créatures hors de l\'écran',
+    zh: '禁止鎖定視野外生物'
+
   },
 
   skilleffects: {
@@ -290,7 +320,7 @@ export default {
     pt: 'Efeitos de Habilidade',
     ko: '기술 효과',
     ro: 'Efectele Abilităților',
-    zh: '技能影响',
+    zh: '技能特效',
     hu: 'Képesség effektek',
     pl: 'Efekty umiejętności',
     vi: 'Hiệu ứng kỹ năng',
@@ -298,6 +328,7 @@ export default {
     sr: 'Ефекти вештина',
     ja: 'スキル演出',
     cs: 'Efekty dovedností'
+
   },
 
   shadows: {
@@ -309,7 +340,7 @@ export default {
     pt: 'Sombras',
     nl: 'Schaduwen',
     hu: 'Árnyékok',
-    zh: '影子',
+    zh: '陰影',
     es: 'Sombras',
     pl: 'Cienie',
     vi: 'Đổ bóng',
@@ -321,7 +352,8 @@ export default {
     cs: 'Stíny'
   },
 
-  ssao: {
+
+    ssao: {
     en: 'Ambient Occlusion',
     el: 'Ambient Occlusion',
     ru: 'Окружающая окклюзия',
@@ -338,8 +370,9 @@ export default {
     tr: 'Çevresel Perdeleme',
     ja: '環境閉塞',
     ko: '광원',
-    cs: 'Ambient Occlusion'
-  },
+    cs: 'Ambientní okluze',
+    zh: '環境光遮掩'
+
 
   grass: {
     en: 'Grass',
@@ -372,7 +405,7 @@ export default {
     nl: 'Wolken',
     hu: 'Felhők',
     es: 'Nubes',
-    zh: '云',
+    zh: '雲',
     pl: 'Chmury',
     vi: 'Mây',
     sr: 'Облаци',
@@ -402,6 +435,7 @@ export default {
     ja: 'パーティクル',
     ko: '자연 현상',
     cs: 'Částice'
+
   },
 
   detailprops: {
@@ -423,6 +457,7 @@ export default {
     ja: '建造物の詳細',
     ko: '물체 디테일',
     cs: 'Detaily rekvizit'
+
   },
 
   // ---- Audio
@@ -439,7 +474,7 @@ export default {
     fr: 'Audio',
     tr: 'Ses',
     ko: '오디오',
-    zh: '音频',
+    zh: '音效',
     hu: 'Hang',
     pl: 'Audio',
     vi: 'Âm thanh',
@@ -447,6 +482,8 @@ export default {
     it: 'Audio',
     ja: 'オーディオ',
     cs: 'Zvuk'
+
+
   },
 
   sfxvolume: {
@@ -468,7 +505,9 @@ export default {
     sr: 'SFX гласноћа',
     it: 'SFX Volume',
     ja: '効果音',
-    cs: 'SFX Hlasitost'
+    cs: 'Hlasitost SFX',
+    zh: '音效音量'
+
   },
   ambiencevolume: {
     en: 'Ambience Volume',
@@ -479,7 +518,9 @@ export default {
     fr: 'Volume d\'ambiance',
     tr: 'Ambiyans sesi',
     ja: '環境音',
-    cs: 'Hlasitost prostředí'
+    cs: 'Hlasitost prostředí',
+    zh: '環境音量'
+
   },
   musicvolume: {
     en: 'Music Volume',
@@ -497,7 +538,9 @@ export default {
     tr: 'Müzik sesi',
     ja: '音楽',
     ko: '음악 볼륨',
-    cs: 'Hlasitost hudby'
+    cs: 'Hlasitost Hudby',
+    zh: '音樂音量'
+
   },
   // ---- Chat
   chat: {
@@ -532,7 +575,7 @@ export default {
     pt: 'Mostrar bolhas de chat',
     nl: 'Laat chat bubbels zien',
     hu: 'Csetbuborékok mutatása',
-    zh: '顯示聊天氣泡',
+    zh: '顯示聊天框',
     es: 'Mostrar burbujas de chat',
     pl: 'Chmurki czatu',
     vi: 'Hiển thị bong bóng chat',
@@ -541,7 +584,8 @@ export default {
     tr: 'Sohbet balonlarını göster',
     ja: 'チャットをキャラクター上に表示',
     ko: '채팅 표시',
-    cs: 'Ukazát Chat bubliny'
+    cs: 'Zobrazit bubliny chatu'
+
   },
 
   combatlog: {
@@ -552,7 +596,7 @@ export default {
     nl: 'Gevechts log',
     hu: 'Harci kisnapló',
     es: 'Registro de combate',
-    zh: '戰鬥表',
+    zh: '戰鬥表單',
     fr: 'Journal de Combat',
     pl: 'Log Walki',
     vi: 'Nhật ký combat',
@@ -562,7 +606,8 @@ export default {
     tr: 'Savaş Günlüğü',
     ja: '戦闘ログ',
     ko: '전투 로그',
-    cs: 'Bojový Deník'
+    cs: 'Bojový deník'
+
   },
 
   // ---- User interface
@@ -580,7 +625,7 @@ export default {
     tr: 'Arayüz',
     ko: '인터페이스',
     hu: 'Felület',
-    zh: '界面',
+    zh: '介面',
     pl: 'Interfejs',
     vi: 'Giao diện',
     sr: 'Интерфејс',
@@ -631,7 +676,9 @@ export default {
     it: 'Larghezza inventario',
     tr: 'Enventar genişliği',
     ja: 'インベントリの行',
-    cs: 'Šířka inventáře'
+    cs: 'Šířka inventáře',
+    zh: '物品欄寬度'
+
   },
 
   // Do NOT translate "Stash"
@@ -652,6 +699,8 @@ export default {
     ja: 'Stashの行',
     ko: 'Stash 너비',
     cs: 'Šířka truhly'
+    zh: 'Stash 寬度'
+
   },
 
   // Do NOT translate "Stash"
@@ -671,7 +720,9 @@ export default {
     tr: 'Stash yüksekliği',
     ja: 'Stashの列',
     ko: 'Stash 높이',
-    cs: 'Výška truhly'
+    cs: 'Výška truhly',
+    zh: 'Stash 高度'
+
   },
 
   tutorial: {
@@ -688,15 +739,14 @@ export default {
     ko: '튜토리얼',
     ro: 'Tutorial',
     hu: 'Bemutató',
-    zh: '講解',
+    zh: '教程',
     pl: 'Samouczek',
     vi: 'Hướng dẫn',
     sr: 'Туторијал',
     it: 'Tutorial',
     ja: 'チュートリアル',
-    cs: 'Tutorial'
+    cs: 'Vyukový program'
 
-  
   },
 
   resettutorial: {
@@ -713,13 +763,14 @@ export default {
     ko: '튜토리얼 초기화',
     ro: 'Resetează tutorialul',
     hu: 'Bemutató újrakezdése',
-    zh: '重置講解',
+    zh: '重新教程',
     pl: 'Zresetuj samouczek',
     vi: 'Cài đặt lại hướng dẫn',
     sr: 'Понови туторијал',
     it: 'Ripristina tutorial',
     ja: 'チュートリアルを初期化',
-    cs: 'Restartovat tutorial'
+    cs: 'Obnovit vyukový program'
+
   },
 
   disabletutorial: {
@@ -733,14 +784,15 @@ export default {
     nl: 'Handleiding uitschakelen',
     hu: 'Bemutató elrejtése',
     es: 'Deshabilitar el tutorial',
-    zh: '禁用講解',
+    zh: '停用教程',
     pl: 'Wyłącz samouczek',
     vi: 'Vô hiệu hóa hướng dẫn',
     sr: 'Искључи туторијал',
     it: 'Disabilita il tutorial',
     ja: 'チュートリアルを無効化',
     ko: '튜토리얼 건너뛰기',
-    cs: 'Deaktivovat Tutorial'
+    cs: 'Vypnout vyukový program'
+
   },
 
   // ---- map
@@ -754,7 +806,7 @@ export default {
     fr: 'Mode basse qualité',
     nl: 'Lage kwaliteit modus',
     es: 'Modo de baja calidad',
-    zh: '低畫質模式',
+    zh: '低品質模式',
     pl: 'Niska jakość',
     vi: 'Chế độ chất lượng thấp',
     sr: 'Мод лошијег квалитета',
@@ -783,6 +835,7 @@ export default {
     tr: 'Canavarları göster',
     ja: 'モンスターを表示',
     ko: '몬스터 표시',
-    cs: 'Ukázat monstra'
+    cs: 'Zobrazit monstra'
+
   }
 }

@@ -36,7 +36,7 @@ export default {
     nl: 'Druk op de knop om op te staan bij de dichtstbijzijnde goochelaar.',
     pt: 'Pressione o botão para ser ressuscitado no conjurador mais próximo.',
     ro: 'Apăsați butonul pentru a fi înviat la cea mai apropiată Conjurer.',
-    zh: '按下按钮可以找最近的魔术师处复活',
+    zh: '按下按鈕在最近的魔術師處復活。',
     hu: 'Nyomd meg a gombot hogy felgyógyítsanak a legközelebbi Conjurernél',
     pl: 'Wciśnij przycisk aby zostać wskrzeszonym przy najbliższym Conjurer',
     bn: 'নিকটতম কনজিউরারে পুনরুত্থিত হতে বাটনে চাপুন',
@@ -60,7 +60,7 @@ export default {
     nl: 'Wederopstand',
     pt: 'Ressuscitar',
     ro: 'Înviați',
-    zh: '复活',
+    zh: '重生',
     hu: 'Feltámadás',
     pl: 'Respawn',
     bn: 'পুনর্জীবন',
@@ -69,6 +69,7 @@ export default {
     it: 'Respawn',
     tr: 'Yeniden Doğ',
     ja: 'リスポーン',
-    cs: 'Respawn'
+    cs: 'Respawn' // translate  Resurrect is 'Vzkřísit', but Respawn doesnt have right translate in czech, so i would like to let it call 'respawn'
+
   }
 }

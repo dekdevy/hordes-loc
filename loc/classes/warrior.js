@@ -38,7 +38,7 @@ export default {
     nl: 'Krijgers zijn bedoeld om meer schade op te vangen dan enig andere klasse via middel van bepaalde verdedigingsuitrusting (Schilden) en sterke defensieve betoveringen.',
     tr: 'Savaşçılar güçlü defansif ekipmanları (Kalkanlar) ve defansif güçlendirmeleri ile canavarları diğer sınıflardan daha çok üstüne çeker.',
     ro: 'Războinicii sunt făcuți pentru a atrage mai mulți monștrii decât orice altă clasă, având o defensivă foarte ridicată datorită echipamentului (Scuturi) și buff-uri defensive puternice.',
-    zh: '通過裝備（盾牌）和強大的防守增益效果，戰士可以打敗比其他角色更多的怪物。',
+    zh: '通過裝備（盾牌）和強大的防守增益效果，戰士可以抵擋比其他角色更多的怪物。',
     hu: 'A harcosok hatalmas védekező képességükre és erejükre támaszkodva magukra vállalhatják a közelharcot számos ellenséggel, hogy a csapatjuk többi tagja zavartalanul használhassa mágiáját.',
     pl: 'Wojownicy są stworzeni aby tankować więcej potworów niż jakakolwiek inna klasa, a to dzięki wysokiej obronie i pomocy wyposażenia (tarcze) oraz silnych buffów obronnych.',
     bn: 'যোদ্ধারা অন্য যেকোনো শ্রেণী থেকে বেশী শত্রু যখম করতে পারে তাদের সরঞ্জামের (ঢাল) ও শক্তিশালী বাফের থেকে পাওয়া উচ্চমাত্রার প্রতিরক্ষা ব্যাবস্থার ফলে।',

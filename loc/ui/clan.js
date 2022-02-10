@@ -21,7 +21,8 @@ export default {
     sr: 'Напусти клан',
     it: 'Lascia il clan',
     ja: 'クランを去る',
-    cs: 'Opustit klan'
+    cs: 'Opustit Klan'
+
   },
 
   heading: {
@@ -69,7 +70,8 @@ export default {
     sr: 'Креирај клан',
     it: 'Crea un Clan',
     ja: 'クランを作成',
-    cs: 'Vytvořit Klan'
+    cs: 'Vytvořit klan'
+
   },
 
   createname: {

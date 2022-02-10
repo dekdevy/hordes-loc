@@ -1,12 +1,11 @@
 # hordes-loc
-[![Build Status](https://travis-ci.org/dekdevy/hordes-loc.svg?branch=master)](https://travis-ci.org/dekdevy/hordes-loc)
 
 Community driven text and localization repository for the browser game Hordes.io. This is a library of strings for all in-game text, user interface labels, game lore, item descriptions, etc.  
 
 This repository is a public submodule of the [hordes.io](https://hordes.io) sourcecode, containing a build script to compile files found in `loc/` into individual language specific `.json` files (here are the [Russian](https://hordes.io/assets/loc/ru.json) and [German](https://hordes.io/assets/loc/de.json) files for an example). Translations for any respective language do not have to be complete, as the build script will substitute the original English text for any strings that have not been translated for the language.
 
 Resources for first timers and GitHub beginners
-* [Language codes](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry) - Pick language codes from here when introducing a new language. Ignore post-dash text.
+* [Language codes](http://www.lingoes.net/en/translator/langcode.htm) - Pick language codes from here when introducing a new language. Ignore post-dash text.
 * [GitHub video tutorial](https://www.youtube.com/watch?v=0fKg7e37bQE), [GitHub guides](https://guides.github.com/)
 * [Tutorial on updating your fork](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser) - Updating your repository to match the master's state.
 
@@ -19,20 +18,24 @@ Make sure to read all the comments in the files and take them seriously. Do not 
 
 New languages and translations are always welcome, so feel free to make a PR. Any language types are welcome.
 In order to contribute translations, simply add them to the respective files in the `loc/` directory.
-Make sure to check the [Travis test](https://travis-ci.org/dekdevy/hordes-loc) results after you make a Pull Request to correct any errors that may arise. Join [our Discord](https://discord.gg/E45UzeY) if you need help.
+Make sure to check the build results (Github Action) after you make a Pull Request to correct any errors that may arise. Join [our Discord](https://discord.gg/E45UzeY) if you need help.
 
-If you want to check the status of any translation, simply go to [this link](https://travis-ci.org/dekdevy/hordes-loc), which informs us about translation status of all the languages.
+If you want to check the status of any translation, go to [this link](https://github.com/dekdevy/hordes-loc/actions/workflows/node.js.yml) and select the "run npm test" result which informs us about translation status of all the languages.
 ```bash
 Detecting loc types...
-  Found languages en, de
+  Found 23 languages
 Compiling...
-  en -> 8/8 (100%)
-  de -> 5/8 (62%)
-  ru -> 4/8 (50%)
+  en → 534/534 100%
+  fr → 460/534  86%
+  ru → 459/534  85%
+  it → 408/534  76%
+  de → 405/534  75%
+  ...
 Exporting...
   en -> en.json
   de -> de.json
   ru -> ru.json
+  ...
 ```
 If you want to check which languages are missing in a file, navigate to the file name in [this link](https://travis-ci.org/dekdevy/hordes-loc), which informs us about missing languages in a file.
 ```bash

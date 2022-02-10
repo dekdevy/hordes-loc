@@ -20,7 +20,8 @@ export default {
       it: 'Benvenuto nel miglior negozio di prodotti in circolazione! Non troverai un affare migliore di quello che ho per te; tuttavia, ho sentito che esiste un negozio speciale con articoli fantastici a differenza di qualsiasi cosa io abbia mai visto. Nel frattempo, ho delle monete e dei pezzi di ricambio. Vuoi vendere qualcosa?',
       tr: 'En iyi ürünlere hoş geldiniz! Size verdiğim fiyattan daha iyi bir fiyat bulamayacaksınız; ancak, şimdiye kadar gördüğüm hiçbir şeye benzemeyen harika eşyalara sahip özel bir dükkan olduğunu duydum. Bu arada, biraz fazladan param ve fazladan ürünlerim var. Herhangi bir şey satmak ister misin?',
       ja: '最高の商店へようこそ！ここら一帯で私に勝る商店は御座いません、是非ともご贔屓下さい。ですが、前代未聞の素晴らしい商品を販売しているスゴい店が何処かに在るとか無いとか。お客様がそちらに流れていってしまうまでの間は、こちらで承りましょう。何か売り物はございますか？',
-      cs: 'Vítejte u nejlepšího obchodníka v okolí! Nenajdete lepší nabídku než to, co pro vás mám; Slyšel jsem však, že existuje speciální obchod s fantastickými předměty, které se nepodobají ničemu, co jsem kdy viděl. Mezitím mám nějaké náhradní mince a náhradní zboží. Chtěli byste něco prodat?'
+      cs: 'Vítej u nejlepšího obchodníka v okolí! Nenajdeš lepší nikde ceny než to, co pro tebe mám já; Slyšel jsem však, že existuje speciální obchod s fantastickými předměty, na rozdíl od všeho, co jsem kdy viděl. Mezitím mám nějaké mince a zboží zboží navíc. Chceš něco prodat?'
+
     },
 
     choices: [{
@@ -39,7 +40,9 @@ export default {
       it: 'Mostrami le tue merci.',
       tr: 'Bana mallarını göster.',
       ja: '商品を見せて下さい。',
-      cs: 'Ukaž mi své zboží'
+      cs: 'Ukaz mi své zboží',
+      zh: '給我看看你的商品。'
+
     }]
   }],
 
@@ -63,7 +66,8 @@ export default {
     it: 'Vendi i tuoi articoli.',
     tr: 'Eşyalarını sat',
     ja: '売るアイテムを選択して下さい。',
-    cs: 'Prodat své předměty'
+    cs: 'Prodej své zboží'
+
   },
 
   info: {
@@ -78,7 +82,7 @@ export default {
     fr: 'Pour vendre un objet, cliquez dessus avec le bouton droit de la souris ou faites-le glisser dans la fenêtre du commerçant.',
     nl: 'Om een artikel te verkopen, klik er met de rechtermuisknop op of sleep het naar het handelaarsvenster.',
     ro: 'Pentru a vinde un element, faceți clic-dreapta sau trageți-l în fereastra comerciantului.',
-    zh: '要賣物品，在物品上按右鍵或把它拖入到交易窗口中。',
+    zh: '要賣物品，請在物品上按shift+右鍵或把它拖入到交易欄中。',
     tr: 'Bir eşyayı satmak için Shift\'e basılı tutarak eşyaya sağ tıklayın veya eşyayı takas penceresine sürükleyip bırakın.',
     hu: 'Hogy eladj egy tárgyat, shift + jobbkattints rá, vagy húzd ide a Trader ablakba.',
     pl: 'Aby sprzedać przedmiot, kliknij shift+prawy przycisk myszy na przedmiot lub przenieś przedmiot na okienko kupcy.',
@@ -86,7 +90,8 @@ export default {
     vi: 'Để bán vật phẩm, nhấn shift-chuột phải hoặc kéo thả vào cửa sổ giao dịch.',
     it: 'Per vendere un oggetto, fai clic con il tasto destro del mouse o trascinalo nella finestra del commerciante.',
     ja: 'アイテムを売るには、Shiftキーを押しながら右クリックするか、トレーダーウィンドウへドラッグして下さい。',
-    cs: 'K prodání předmětu, shift + pravé tlačítko u myši nebo přetáhni předmět do okna obchodníka'
+    cs: 'Chcete-li předmět prodat, podržte shift a klepněte na ni pravým tlačítkem myši nebo ji přetáhněte do okna obchodníka.'
+
   },
 
   // Include punctuation and space.
@@ -110,7 +115,8 @@ export default {
     vi: 'Giá bán: ',
     it: 'Prezzo di vendita: ',
     ja: '売値: ',
-    cs: 'Prodejní cena: '
+    cs: 'Prodávající cena'
+
   },
 
   buy: {
@@ -124,7 +130,7 @@ export default {
     nl: 'Bent u in iets geïnteresseerd? Klik op een item om het te kopen.',
     ko: '관심이 있습니까? 항목을 클릭하여 구입하십시오.',
     hi: 'क्या आप किसी चीज में रुचि रखते हैं? इसे खरीदने के लिए किसी आइटम पर क्लिक करें।',
-    zh: '有感興趣的東西嗎？点击商品即可購買。',
+    zh: '有感興趣的東西嗎？點擊商品即可購買。',
     tr: 'İlginizi çeken bir şeyler var mı? Bir eşyayı almak isterseniz üstüne tıklayın.',
     hu: 'Látsz valamit, amit érdekesnek találsz? Kattints egy tárgyra hogy megvásárold.',
     pl: 'Jesteś czymś zainteresowany? Kliknij na przedmiot aby go kupić.',
@@ -132,6 +138,7 @@ export default {
     vi: 'Bạn có hứng thú với cái gì không? Nhấn vào vật phẩm để mua nó.',
     it: 'Sei interessato a qualcosa? Fai clic su un articolo per acquistarlo.',
     ja: '何か興味がありますか？クリックして購入して下さい。',
-    cs: 'Zajímatě něco? Klikni na předmět a kup ho'
+    cs: 'Zajímá tě něco? Kliknutím koupíš předmět'
+
   }
 }

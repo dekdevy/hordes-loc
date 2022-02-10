@@ -14,7 +14,9 @@ export default {
       it: 'Le menti oppresse sono piene di opinioni in abbondanza; una tazza può essere molto utile se prima viene trovata vuota. Come posso aiutarti nel tuo cammino verso l\'illuminazione?',
       tr: 'Yüklü zihinler bol miktarda fikirle doludur; İlk önce boş bulunursa bir fincan oldukça faydalı olabilir. Aydınlanmaya giden yolda sana nasıl yardımcı olabilirim?',
       ja: '滾る熱意は数多くの声により満たされている。空の器はより良いものへとなり得るのだ。今、其方の悟りへの道は開かれる。その身を委ねるが良い。',
-      cs: 'Zatížené mysli jsou plné názorů; hrnek může být docela užitečný, pokud jej nejprve najdeš prázdný. Jak vám mohu pomoci na vaší cestě k osvícení?'
+      cs: 'Zatížená mysl je plná názorů; šálek může být užitečný, pokud je nejprve nalezen prázdný. Jak ti mohu být nápomocen na tvé cestě k osvícení?',
+      zh: '若多物可擇，其腦重也。杯之所以為杯，空也。在你走向啟蒙的道路上，我該如何幫助你？'
+
     },
 
     choices: [{
@@ -23,7 +25,7 @@ export default {
       ru: 'Сбрось мои очки характеристик( $g$1 ).',
       hu: 'Statpont újraszervezés ( $g$1 ).',
       pt: 'Reinicie os meus pontos de stat ( $g$1 ).',
-      fr: 'Réinitialisez mes points d\'aptitudes ( $g$1 ).',
+      fr: 'Réinitialisez mes points de stats ( $g$1 ).',
       nl: 'Reset mijn status punten ( $g$1 ).',
       es: 'Restablecer mis puntos de estadísticas ( $g$1 ).',
       de: 'Setze meine Stat-Punkte zurück. ( $g$1 ).',
@@ -33,7 +35,9 @@ export default {
       it: 'Ripristina i miei punti status ( $g$1 )',
       tr: 'İstatistik puanlarımı sıfırla ( $g$1 )',
       ja: 'ステータスポイントをリセットして下さい。 ( $g$1 )',
-      cs: 'Resetovat mé statistiky'
+      cs: 'Resetuj moje statistické body ( $g$1 )',
+      zh: '重製我的屬性點 ( $g$1 )'
+
     }]
   }]
 }

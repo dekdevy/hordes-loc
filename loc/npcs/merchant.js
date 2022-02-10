@@ -21,7 +21,8 @@ export default {
       it: 'Bene, guarda cosa abbiamo qui! No, quell\'attrezzatura non lo farà, vero? Dai un\'occhiata al mercato aperto! Le voci si stanno diffondendo; Ho sentito di Warcry Scrolls che può teletrasportare un amico nella tua posizione. Teniamolo tra di noi, ok?',
       tr: 'Bakın burada neyimiz var! Hayır, o ekipman işe yaramaz, değil mi? Açık pazara bir göz atın! Söylentiler yayılıyor; Bir arkadaşı konumunuza ışınlayabilen Warcry Scrolls duydum. Aramızda kalsın, tamam mı?',
       ja: 'やぁ、ちょいと見て行かないかい？おや、その装備はボロが出てるぞ。公開市場をご覧あれ！友達を君の場所へテレポートさせる事が出来る、Warcry Scrollsについての噂が近頃広まっている。これを僕達の間で共有しよう、いいね？',
-      cs: 'No, podívej, co tu máme! Ne, to zařízení nebude fungovat, že? Podívej se na tržnici! Šíří se fámy; Slyšel jsem o Warcry Scrolls, které dokážou teleportovat přítele na vaši pozici. Nechme si to jen mezi námi, ano?'
+      cs: '„Podívej, co tady máme! Ne, to vybavení nebude, že? Podívejte se na ten otevřený trh! Šíří se pověsti; Slyšel jsem o Warcry Scrolls, které mohou teleportovat přítele na vaši pozici. Pojďme to mezi námi udržetv tajemství, ano? '
+
     },
 
     choices: [{
@@ -37,7 +38,7 @@ export default {
       de: 'Ja, ich will die Gegenstände auf dem Markt sehen.',
       ko: '예, 판매용 제품을 보여주세요.',
       tr: 'Evet, bana satılık eşyaları göster.',
-      zh: '好的，給我看看待售物品。',
+      zh: '好的，把要賣的商品讓我看看。',
       hu: 'Igen, mutassa meg a portékáit.',
       pl: 'Tak, pokaż mi przedmioty na sprzedaż.',
       bn: 'হ্যাঁ, আমাকে বিক্রয়ের জন্য আইটেমগুলি প্রদর্শন করুন।',

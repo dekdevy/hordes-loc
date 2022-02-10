@@ -13,7 +13,7 @@ export default {
     pt: 'Claro',
     ko: '확인',
     ro: 'Okay',
-    zh: '好的',
+    zh: '確定',
     hu: 'Rendben',
     pl: 'OK',
     bn: 'ঠিক আছে',
@@ -21,7 +21,8 @@ export default {
     sr: 'Добро',
     it: 'Ok',
     ja: '決定',
-    cs: 'Okej'
+    cs: 'Oke'
+
   },
 
   back: {
@@ -37,7 +38,7 @@ export default {
     pt: 'Voltar',
     ko: '뒤로',
     ro: 'Înapoi',
-    zh: '回',
+    zh: '返回',
     hu: 'Vissza',
     pl: 'Cofnij',
     bn: 'আগে',
@@ -61,7 +62,7 @@ export default {
     pt: 'Aceitar',
     ko: '수락',
     ro: 'Acceptă',
-    zh: '允许',
+    zh: '接受',
     hu: 'Elfogadás',
     pl: 'Akceptuj',
     bn: 'গ্রায্য',
@@ -69,7 +70,8 @@ export default {
     sr: 'Прихвати',
     it: 'Accetta',
     ja: '承認',
-    cs: 'Přijmout'
+    cs: 'Potvrdit'
+
   },
 
   cancel: {
@@ -133,7 +135,7 @@ export default {
     pt: 'Fechar',
     ko: '닫기',
     ro: 'Închide',
-    zh: '关',
+    zh: '關閉',
     hu: 'Bezárás',
     pl: 'Zamknij',
     bn: 'বন্ধ',

@@ -7,12 +7,12 @@ export default {
     ru: 'Поиск',
     de: 'Suche',
     pt: 'Pesquisar',
-    fr: 'Recherche',
+    fr: 'Rechercher',
     es: 'Buscar',
     ko: '검색',
     ro: 'Caută',
     hi: 'खोजे',
-    zh: '搜索',
+    zh: '搜尋',
     hu: 'Keresés',
     pl: 'Szukaj',
     vi: 'Tìm kiếm',
@@ -35,7 +35,7 @@ export default {
     ko: '내 아이템만',
     ro: 'Doar obiectele mele',
     hi: 'मेरी वस्तुएं',
-    zh: '只要我的装备',
+    zh: '顯示我的物品',
     hu: 'Csak az én tárgyaim',
     pl: 'Tylko moje przedmioty',
     vi: 'Chỉ trang bị của tôi',
@@ -43,7 +43,8 @@ export default {
     it: 'Solo i miei oggetti',
     tr: 'Sadece eşyalarım',
     ja: '自分のアイテムのみ',
-    cs: 'Pouze moje předměty'
+    cs: 'Pouze mé předměty'
+
   },
 
   buy: {
@@ -58,7 +59,7 @@ export default {
     ko: '아이템 구매',
     ro: 'Cumpără Obiectul',
     hi: 'वस्तु खरीदे',
-    zh: '买装备',
+    zh: '買物品',
     hu: 'Vásárlás',
     pl: 'Kup przedmiot',
     vi: 'Kupi',
@@ -88,7 +89,9 @@ export default {
     sr: 'Постави предмет',
     it: 'Pubblica oggetto',
     ja: 'アイテムを出品',
-    cs: 'Odeslat Předmět'
+    cs: 'Zveřejnit Předmět',
+    zh: '上架物品'
+
   },
 
   delist: {
@@ -110,7 +113,9 @@ export default {
     it: 'Ritira l\'oggetto',
     tr: 'Eşyayı geri al',
     ja: '出品を取り消す',
-    cs: 'Vylistovat Předmět'
+    cs: 'Odstranit Předmět',
+    zh: '撤消物品'
+
   },
 
   // Include the space and punctuation
@@ -126,7 +131,7 @@ export default {
     ko: '가격: ',
     ro: 'Preț: ',
     hi: 'कीमत: ',
-    zh: '价格: ',
+    zh: '價格: ',
     hu: 'Ár: ',
     pl: 'Cena: ',
     vi: 'Giá: ',
@@ -150,7 +155,7 @@ export default {
     ko: '비용: ',
     ro: 'Taxă: ',
     hi: 'कीमत: ',
-    zh: '费用: ',
+    zh: '手續費: ',
     hu: 'Költség: ',
     pl: 'Koszt: ',
     vi: 'Phí: ',
@@ -162,7 +167,7 @@ export default {
   },
 
   dragitem: {
-    en: 'Drag item into slot',
+    en: 'Shift-right-click or drag item into slot',
     el: 'Σύρε το αντικείμενο στη θέση',
     nl: 'Slepen het voorwerp in de sleuf',
     de: 'Ziehe ein Item hier hin',
@@ -180,7 +185,9 @@ export default {
     it: 'Trascina l\'oggetto nello slot',
     tr: 'Eşyayı yuvaya sürükle',
     ja: 'アイテムをスロットにドラッグして下さい',
-    cs: 'Přetáhněte položku do slotu'
+    cs: 'Přetáhněte předmět do slotu',
+    zh: 'Shift右鍵 或 拖曳物品至此'
+
   },
 
   auctionpost: {
@@ -203,6 +210,8 @@ export default {
     it: 'Hai pubblicato $1 in vendita',
     ja: '$1を出品しました。',
     cs: 'Zveřejnil jsi $1 k prodeji'
+    cs: 'Zveřejnili jste $1 na prodej',
+
   },
 
   // Do not translate "Stash".
@@ -225,7 +234,9 @@ export default {
     it: 'Oggeto rimosso e inviato nel tuo Stash',
     tr: 'Eşya listeden çıkarıldı ve Stashe gönderildi',
     ja: '出品を取り消しStashへ送りました。',
-    cs: 'Předmět byl vylistován a odeslán do Stash'
+    cs: 'Odstraněný předmět byla odeslána do Stash',
+    zh: '撤消物品並存至Stash。'
+
   },
 
   // Do not translate "Stash".
@@ -248,7 +259,8 @@ export default {
     it: 'Oggetto comprato per $1 e inviato nel tuo Stash',
     tr: 'Eşya $1 paraya satın alındı ve Stashe gönderildi',
     ja: '$1を購入しStashへ送りました。',
-    cs: 'Předmět byl koupen za $1 a odeslán do Stash'
+    cs: 'Předmět byl zakoupen za $1 a odeslán do Stash',
+    zh: '你已購買$1並存入Stash。'
   },
 
   sell: {
@@ -270,6 +282,8 @@ export default {
     it: 'Hai venduto $1 per $2',
     tr: '$1 eşyasını $2 fiyatından sattın',
     ja: '$1を$2で売却しました。',
-    cs: 'Prodal jsi $1 za $2'
+    cs: 'Prodal jste $1 za $2',
+    zh: '你賣了$1獲得$2'
+
   }
 }
