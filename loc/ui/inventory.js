@@ -209,7 +209,6 @@ export default {
     sr: 'Употреби предмет',
     ja: '使用する',
     cs: 'Použít předmět'
- 
   },
 
   copyitemid: {
@@ -223,7 +222,6 @@ export default {
     ja: 'アイテムIDをコピー',
     cs: 'Kopírovat ID předmětu',
     zh: '複製物品ID'
-
   },
 
   sell: {
@@ -237,7 +235,6 @@ export default {
     ja: '売却する',
     cs: 'Prodat předmět',
     zh: '出售物品'
-
   },
 
   splithalf: {
@@ -258,7 +255,6 @@ export default {
     ko: '반으로 나누기',
     cs: 'Rozdělit na půl',
     zh: '拆分一半'
-
   },
 
   splitone: {
@@ -279,7 +275,6 @@ export default {
     ko: '하나만 선택',
     cs: 'Rozdělit jeden',
     zh: '拆分一個'
-
   },
 
   spend: {
