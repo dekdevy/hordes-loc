@@ -127,8 +127,7 @@ export default {
     ja: '左右反転',
     ko: '가로로 회전',
     cs: 'Převrátit vodorovně',
-       zh: '水平反轉'
-
+    zh: '水平反轉'
   },
 
   invertmousey: {
@@ -267,8 +266,7 @@ export default {
     ja: '解像度',
     cs: 'Rozlišení'
   },
-
-
+  
   postprocessing: {
     en: 'Post-processing',
     el: 'Post-processing',
@@ -287,8 +285,8 @@ export default {
     ja: 'ジャギー抑制',
     ko: '효과',
     cs: 'Následné zpracování'
-   },
-
+  },
+  
   fxaa: {
     $$: 'FXAA'
   },
@@ -351,8 +349,7 @@ export default {
     ko: '그림자',
     cs: 'Stíny'
   },
-
-
+  
     ssao: {
     en: 'Ambient Occlusion',
     el: 'Ambient Occlusion',
@@ -482,8 +479,6 @@ export default {
     it: 'Audio',
     ja: 'オーディオ',
     cs: 'Zvuk'
-
-
   },
 
   sfxvolume: {
