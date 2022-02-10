@@ -265,8 +265,7 @@ export default {
     it: 'Risoluzione',
     ja: '解像度',
     cs: 'Rozlišení'
-  },
-  
+  }, 
   postprocessing: {
     en: 'Post-processing',
     el: 'Post-processing',
@@ -286,7 +285,6 @@ export default {
     ko: '효과',
     cs: 'Následné zpracování'
   },
-  
   fxaa: {
     $$: 'FXAA'
   },
@@ -348,8 +346,7 @@ export default {
     ja: '影',
     ko: '그림자',
     cs: 'Stíny'
-  },
-  
+  }, 
     ssao: {
     en: 'Ambient Occlusion',
     el: 'Ambient Occlusion',
