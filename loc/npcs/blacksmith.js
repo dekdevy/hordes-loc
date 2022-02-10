@@ -21,7 +21,6 @@ export default {
       it: 'L\'aggiornamento è rischioso senza ulteriori oggetti speciali come un Blacksmith\'s Blessed Hammer, che può impedire agli oggetti di rompersi durante gli aggiornamenti. Senza il martello, correremo un rischio. Quindi sicuramente hai qualcosa che posso aggiornare per te oggi?',
       ja: '俺のBlacksmith\'s Blessed Hammerは、アップグレード中に装備がブッ壊れるのを防ぐことが出来る。このような特別なアイテム無しでアップグレードする事は非常に危なっかしいんだ。さて、今日はどの装備をアップグレードするんだ？',
       cs: 'Vylepšování je riskantní bez speciálních předmětu jako je Blacksmith\'s Blessed Hammer, který zabrání rozbití předmětů během vylepšení. Bez Kladiva, to bude riskantní. Určitě tady máš dnes něco co ti mohu vylepšit?'
-
     },
 
     choices: [{
@@ -44,7 +43,6 @@ export default {
       it: 'Si, ho qualche oggetto',
       ja: 'はい、この装備をお願いします。',
       cs: 'Ano, Mám zde nějaké předměty.'
-
     }]
   }]
 }
