@@ -16,7 +16,7 @@ export default {
     tr: '$1 klanına katıldı.',
     ja: '$1 がクランに入りました。',
     ko: '$1 이 클랜에 들어왔습니다.',
-    cs: '$1 se přidal do tvého klanu',
+    cs: '$1 se přidal do tvého klanu'
 
   },
   clanMemberInvite: {
@@ -236,6 +236,7 @@ export default {
     ja: '$1 がpartyへの参入を拒否しました。',
     ko: '$1 이(가) Party 참여를 거절했습니다.',
     cs: '$1 odmítl vaši pozvánku do party.'
+    
    },
 
   partyMemberPromote: { // Do not translate "party".
@@ -430,8 +431,7 @@ export default {
     tr: 'Açık arttırmadaki eşyanız satıldı ve $g$1 Stashe gönderildi.',
     ja: '出品した商品が購入され、 $g$1 がStashに送られました。',
     cs: 'Vaše zboží z aukce bylo prodané za $g$1 a odeslané do vaší pokladny.'
-
-
+  
   },
   online: {
     en: '$1 has come online.',
