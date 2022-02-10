@@ -209,8 +209,7 @@ export default {
     sr: 'Поставио си $1 на продају.',
     it: 'Hai pubblicato $1 in vendita',
     ja: '$1を出品しました。',
-    cs: 'Zveřejnil jsi $1 k prodeji',
-   
+    cs: 'Zveřejnil jsi $1 k prodeji'
   },
 
   // Do not translate "Stash".
