@@ -145,7 +145,7 @@ export default {
     sr: 'Pozivnica',
     it: 'Link di invito',
     ja: '招待リンク',
-    cs: 'Odkaz k pozvánce',
+    cs: 'Odkaz k pozvánce'
    },
 
   // DO NOT translate "Party"
