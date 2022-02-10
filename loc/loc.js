@@ -28,6 +28,7 @@ import hammer from './items/hammer.js'
 import misc from './items/misc.js'
 import mount from './items/mount.js'
 import orb from './items/orb.js'
+import pet from './items/pet.js'
 import quiver from './items/quiver.js'
 import ring from './items/ring.js'
 import rune from './items/rune.js'
@@ -56,7 +57,8 @@ const items = {
   mount,
   totem,
   box,
-  charm
+  charm,
+  pet
 }
 
 // Factions
