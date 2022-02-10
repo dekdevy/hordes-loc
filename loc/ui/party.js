@@ -146,8 +146,7 @@ export default {
     it: 'Link di invito',
     ja: '招待リンク',
     cs: 'Odkaz k pozvánce',
- 
-  },
+   },
 
   // DO NOT translate "Party"
   onLink: {
@@ -171,7 +170,6 @@ export default {
     ja: 'このリンクを他のプレイヤーに送りましょう！Partyに招待する事が出来ます。',
     cs: 'Pošli tento odkaz ostatnm hráčům! Tento odkaz jim umožní se připojit do tvé Party',
     zh: '發送這個連結給其他玩家！這將允許他們進入 Party。'
-
   },
 
   copyLink: {
@@ -199,7 +197,6 @@ export default {
     ja: 'クリップボードへコピー',
     cs: 'Zkopírovat do schránky',
     zh: '複製到剪貼簿'
-
   },
 
   summon: {
@@ -220,7 +217,6 @@ export default {
     ko: '소환',
     cs: 'Vyvolat',
     zh: '召喚'
-
   },
 
   onSummon: {
@@ -241,7 +237,6 @@ export default {
     ko: '$1 이 당신을 자신이 위치한 장소로 소환하려 합니다.',
     cs: '$1 ti nabízí vyvolání do jejich lokace',
     zh: '$1 召喚你至他的位置。'
-
   },
 
   // Do not translate "Assistant".
@@ -263,7 +258,6 @@ export default {
     ko: 'Assistant으로 승급',
     cs: 'Povýšit na Assistant',
     zh: '升格為 Assistant'
-
   },
 
   // Do not translate "Leader".
