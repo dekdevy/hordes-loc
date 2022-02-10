@@ -46,6 +46,7 @@ export default {
       it: 'Si, mostrami gli articoli in vendita.',
       ja: 'はい、商品を見せて下さい。',
       cs: 'Ano, ukaž mi předměty k prodeji'
+      
     }]
   },
-}
+                 }
