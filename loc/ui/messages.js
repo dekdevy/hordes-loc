@@ -236,8 +236,8 @@ export default {
     ja: '$1 がpartyへの参入を拒否しました。',
     ko: '$1 이(가) Party 참여를 거절했습니다.',
     cs: '$1 odmítl vaši pozvánku do party.'
-    
-   },
+  
+  },
 
   partyMemberPromote: { // Do not translate "party".
     en: '$1 has been promoted in party role.',
