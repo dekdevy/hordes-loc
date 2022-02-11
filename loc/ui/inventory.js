@@ -67,6 +67,7 @@ export default {
     sr: 'Бацио си $1.',
     ja: '$1 を捨てました。',
     cs: 'Odhodil jsi $1'
+
   },
 
   full: {
@@ -136,6 +137,7 @@ export default {
     tr: '$1 elde ettin.',
     ja: '$1 を受け取りました。',
     cs: 'Získal jsi $1'
+
   },
 
   drop: {
@@ -159,6 +161,7 @@ export default {
     sr: 'Баци предмет',
     ja: '捨てる',
     cs: 'Odhodit položku'
+
   },
 
   equip: {
@@ -181,7 +184,8 @@ export default {
     sr: 'Опреми предмет',
     tr: 'Eşyayı kuşan',
     ja: '装備する',
-    cs: 'Obléct položku'
+    cs: 'Obléct předmět'
+
   },
 
   use: {
@@ -204,7 +208,7 @@ export default {
     it: 'Usa l\'oggetto',
     sr: 'Употреби предмет',
     ja: '使用する',
-    cs: 'Použít položku'
+    cs: 'Použít předmět'
   },
 
   copyitemid: {
@@ -216,7 +220,7 @@ export default {
     pt: 'Copiar ID do item',
     tr: 'Eşya ID\'sini kopyala',
     ja: 'アイテムIDをコピー',
-    cs: 'Zkopířovat položky ID',
+    cs: 'Kopírovat ID předmětu',
     zh: '複製物品ID'
   },
 
@@ -229,7 +233,7 @@ export default {
     pt: 'Vender item',
     tr: 'Eşya sat',
     ja: '売却する',
-    cs: 'Prodat položku',
+    cs: 'Prodat předmět',
     zh: '出售物品'
   },
 
@@ -269,7 +273,7 @@ export default {
     tr: 'Bir tane ayır',
     ja: '1つ分ける',
     ko: '하나만 선택',
-    cs: 'Rozdělit jednu',
+    cs: 'Rozdělit jeden',
     zh: '拆分一個'
   },
 

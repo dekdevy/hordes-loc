@@ -70,5 +70,6 @@ export default {
     tr: 'Yeniden Doğ',
     ja: 'リスポーン',
     cs: 'Respawn' // translate  Resurrect is 'Vzkřísit', but Respawn doesnt have right translate in czech, so i would like to let it call 'respawn'
+
   }
 }

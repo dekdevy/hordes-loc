@@ -22,6 +22,7 @@ export default {
       tr: 'Bakın burada neyimiz var! Hayır, o ekipman işe yaramaz, değil mi? Açık pazara bir göz atın! Söylentiler yayılıyor; Bir arkadaşı konumunuza ışınlayabilen Warcry Scrolls duydum. Aramızda kalsın, tamam mı?',
       ja: 'やぁ、ちょいと見て行かないかい？おや、その装備はボロが出てるぞ。公開市場をご覧あれ！友達を君の場所へテレポートさせる事が出来る、Warcry Scrollsについての噂が近頃広まっている。これを僕達の間で共有しよう、いいね？',
       cs: '„Podívej, co tady máme! Ne, to vybavení nebude, že? Podívejte se na ten otevřený trh! Šíří se pověsti; Slyšel jsem o Warcry Scrolls, které mohou teleportovat přítele na vaši pozici. Pojďme to mezi námi udržetv tajemství, ano? '
+
     },
 
     choices: [{
@@ -44,7 +45,7 @@ export default {
       vi: 'Vâng, hãy cho tôi xem vật phẩm được bán',
       it: 'Si, mostrami gli articoli in vendita.',
       ja: 'はい、商品を見せて下さい。',
-      cs: 'Ano, ukaž mi co máš na prodej.'
+      cs: 'Ano, ukaž mi předměty k prodeji'
     }]
   }]
 }
