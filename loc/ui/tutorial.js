@@ -7,7 +7,7 @@ export default {
       // it: 'Benvenuto! Premi <kbd>W A S D</kbd> o <kbd>⭠ ⭢ ⭡ ⭣</kbd> per muoverti.'
       // pt: 'Olá! Pressione <kbd>W A S D</kbd> ou <kbd>⭠ ⭢ ⭡ ⭣</kbd> para se mover.'
       // fr: 'Bienvenue! Appuyez sur <kbd>W A S D</kbd> ou <kbd>⭠ ⭢ ⭡ ⭣</kbd> pour vous déplacer.'
-      // cs: 'Vítej! Stiskni <kbd>W A S D</kbd> or <kbd>⭠ ⭢ ⭡ ⭣</kbd> pro pohyb.'
+      // cs: 'Vítej! Stiskni <kbd>W A S D</kbd> nebo <kbd>⭠ ⭢ ⭡ ⭣</kbd> pro pohyb.'
     },
     {
       en: 'Great job! Now, <kbd>left/right click</kbd> and drag your mouse to rotate the camera.'
@@ -16,6 +16,7 @@ export default {
       // pt: 'Bom trabalho! Agora, use o <kbd>left/right click</kbd> e arraste para mover a câmera.'
       // fr: 'Bien joué! Maintenant, utilisez <kbd>clic gauche/droit</kbd> en déplaçant votre souris pour déplacer la caméra.'
       // cs: 'Dobrá práce! Nyní, <kbd>left/right click</kbd> a tažením myší otáčíš kamerou.'
+
     },
     {
       en: 'To prepare you for combat, I will explain the UI elements.'
@@ -24,6 +25,7 @@ export default {
       // pt: 'Para preparar você para o combate, eu vou te explicar os elementos da interface do usuário (UI).'
       // fr: 'Pour vous préparer au combat, je vais vous expliquer les éléments de l\'interface utilisateur (UI).'
       // cs: 'Připrav se na boj, vysvětlím ti prvky uživatelského rozhraní.
+
     },
     {
       en: 'This is your unit frame. You can see your own health and mana here.'
@@ -32,6 +34,7 @@ export default {
       // pt: 'Nesse quadro, você pode ver informações da sua mana e vida.'
       // fr: 'Voici votre cadre d\'unité. Vous pouvez y voir votre vie et votre mana.'
       // cs: 'Toto je tvá postava. Zde můžete vidět své vlastní zdraví a manu. “
+
     },
     {
       en: 'Move forward and find a monster, then target it by clicking it with your mouse or pressing <kbd>TAB</kbd>.'
@@ -40,6 +43,7 @@ export default {
       // pt: 'Mova-se para frente e encontre algum mosntro, então selecione-o para o combate clicando com o mouse, ou pressionando <kbd>TAB</kbd>.'
       // fr: 'Avancez et trouvez un monstre, puis ciblez-le en lui cliquant dessus avec votre souris ou en appuyant sur <kbd>TAB</kbd>.'
       // cs: 'Popojdi vpřed a najdi monstrum, poté ho na něho zacílíš kliknutím myší nebo stisknutím klávesy <kbd> TAB </kbd>. '
+
     },
     {
       en: 'This monster is now your target. Any spells you cast will be directed at your target.'
@@ -48,6 +52,7 @@ export default {
       // pt: 'Esse monstro agora é seu alvo. Qualquer magia que você conjurar irá ser direcionada para o seu alvo.'
       // fr: 'Ce monstre est maintenant votre cible. Tout sort que vous lancerez sera dirigé vers lui.'
       // cs: 'Toto monstrum je teď tvůj cíl. Jakákoli kouzla, která sešles, budou směrovat na tvůj cíl. “
+
     },
     {
       en: 'You can attack by pressing the keys on your skillbar. Press <kbd>1</kbd> on your keyboard to attack the monster!'
@@ -56,6 +61,7 @@ export default {
       // pt: 'Você pode atacar pressionando as teclas na sua skillbar. Pressione <kbd>1</kbd> no seu teclado para atacar o monstro!'
       // fr: 'Vous pouvez attaquer en appuyant sur les touches de votre barre de compétences. Appuyez sur <kbd>1</kbd> sur votre clavier pour attaquer le monstre.'
       // cs: 'Útočit můžeš stisknutím kláves na panelu dovedností. Stisknutím klávesy <kbd> 1 </kbd> na klávesnici zaútočíš na monstrum!'
+
     },
     {
       en: 'Perfect! Keep it up and deal with the monster!'
@@ -64,6 +70,7 @@ export default {
       // pt: 'Perfeito! Continue até finalizar o monstro!'
       // fr: 'Parfait ! Continuez ainsi et terrassez le monstre.'
       // cs: 'Skvělé! Pokračuj a vypořádej se s monstrem! '
+
     },
     {
       en: 'Nice job. You have been rewarded with experience points.'
@@ -72,6 +79,7 @@ export default {
       // pt: 'Ótimo trabalho. Você foi recompensado com pontos de experiência.'
       // fr: 'Beau travail. Vous avez été récompensé avec des points d\'expériences.'
       // cs: 'Dobrá práce. Byl jsi odměněn zkušenostními body.'
+
     },
     {
       en: 'Collect enough experience points and you will level up.'
@@ -80,6 +88,7 @@ export default {
       // pt: 'Colete pontos de experiência suficientes e você irá subir de nível.'
       // fr: 'Collectez assez d\'expérience et vous montrez de niveau.'
       // cs: 'Nasbírej dostatek zkušeností a postoupíš o úroveň výš.'
+
     },
     {
       en: 'You can press <kbd>Shift</kbd> to see items and coins on the ground. Pick up an item!'
@@ -88,6 +97,7 @@ export default {
       // pt: 'Você pode pressionar <kbd>Shift</kbd> para visualizar os itens e moedas que estão no chão. Pegue um item! '
       // fr: 'Vous pouvez appuyer sur <kbd>Shift</kbd> pour voir les items (objets) et les pièces au sol. Rammassez un item !'
       // cs: 'Stisknutím <kbd> Shift </kbd> zobrazíš předměty a mince na zemi. Seber je všechny!'
+
     },
     {
       en: 'You have picked up an item. Open your inventory (<kbd>B</kbd>) to see it.'
@@ -96,6 +106,7 @@ export default {
       // pt: 'Você acabou de pegar um item. Abra o seu inventário para (<kbd>B</kbd>) vê-lo'
       // fr: 'Vous avez rammassé un item (objet). Ouvrez votre inventaire (<kbd>B</kbd>) pour le voir.'
       // cs: 'Sebral jsi předmět. Otevři svůj inventář (<kbd> B </kbd>), aby jsi ho viděl.'
+
     },
     {
       en: 'Here you can see your items. The inventory size depends on the bag you have equipped.'
@@ -104,6 +115,7 @@ export default {
       // pt: 'Aqui você pode vender os seus itens. O tamanho do seu inventário depende do tamanho da mochila que você tem equipada'
       // fr: 'Ici vous pouvez voir vos items. La taille de l\'inventaire dépend du sac que vous avez équipé.'
       // cs: 'Zde mužeš vidět své předměty. Velikost inventáře záleží na baťohu, který máš oblečen.'
+
     },
     {
       en: 'You can equip items by right clicking them and selecting "Equip item".'
@@ -112,6 +124,7 @@ export default {
       // pt: 'Você pode equipar itens clicando com o botão direito seles e então selecionar "Equipar item".'
       // fr: 'Vous pouvez équiper des items (objets) en cliquant droit dessus et en sélectionnant "Equiper l\'item".'
       // cs: 'Předměty můžeš obléct kliknutím na pravé tlačítko a výběrem "Obléct předmět."
+
     },
     {
       en: 'Open your character panel (<kbd>C</kbd>).'
@@ -120,6 +133,7 @@ export default {
       // pt: 'Abra o painel do seu personagem (<kbd>C</kbd>).'
       // fr: 'Ouvrez la fenêtre de votre personnage (<kbd>C</kbd>).'
       // cs: 'Otevři panel postavy.
+
     },
     {
       en: 'You can see all equipped items in your character panel.'
@@ -128,6 +142,7 @@ export default {
       // pt: 'Você pode ver todos os itens equipados no seu personagem nesse painel.'
       // fr: 'Ici, vous pouvez voir tous les items équipés.'
       // cs: 'V panelu postavy můžeš vidět všechny oblečené předměty.'
+
     },
     {
       en: 'Next, try to level up by killing monsters.'
@@ -136,6 +151,7 @@ export default {
       // pt: 'Seguindo, tente aumentar seu nível matando alguns monstros.'
       // fr: 'Maintenant, essayez de gagner un niveau en tuant des monstres.',
       // cs: 'Dále, zkus žvýšit úroveň zabijením příšer.'
+
     },
     {
       en: 'You have leveled up and earned stat points. Open your character panel (<kbd>C</kbd>) again.'
@@ -144,6 +160,7 @@ export default {
       // pt: 'Você aumentou o seu nível e ganhou pontos de stat. Abra o painel do seu personagem (<kbd>C</kbd>) novamente.'
       // fr: 'Vous avez gagné un niveau et gagné des points stat. Ouvrez la fenêtre du personnage (<kbd>C</kbd>) à nouveau.'
       // cs: 'Zvýšil jsi svou úroveň a získal statistické body. Otevři panel své postavy (<kbd>C</kbd>).'
+
     },
     {
       en: 'Stat points can be used to increase your primary stats. Hover over the buttons to preview their effects, then use your stat points.'
@@ -152,6 +169,7 @@ export default {
       // pt: 'Os pontos de stat podem ser utilizado para aumentar os seus stats primários. Passe o mouse em cima dos botões para obter uma prévia dos seus efeitos, então use os pontos de stats.'
       // fr: 'Les points stat peuvent être utilisés pour augmenter vos stats primaires. Passez votre souris au dessus des boutons pour visualiser leurs effets, puis utilisez vos points stat.'
       // cs: 'Statistické body lze využít ke zvýšní svých primárních statistik. Umístění kurzoru na tlačítka zobrazíš náhled jejich efektu a poté vyber statistické body.'
+
     },
     {
       en: 'Next, we will teach you how to learn new skills. First, level up to level 3 to unlock a new skill.'
@@ -160,6 +178,7 @@ export default {
       // pt: 'Seguindo, nós vamos ensiar como aprender novas habilidades. Primeiro, aumente o seu nível até o 3 para desbloquear uma nova habilidade.'
       // fr: 'À présent, nous allons vous enseigner comment apprendre de nouvelles compétences. Tout d\'abord, atteignez le niveau 3 pour débloquer une nouvelle compétence.'
       // cs: 'Dále, tě naučíme jak se naučit nové dovednosti. Nejprve dosáhni úrovně 3, poté se ti otevřou nové dovednosti.'
+
     },
     {
       en: 'A new skill is available. You need to use books to learn new skills.'
@@ -176,6 +195,7 @@ export default {
       // pt: 'Colete alguns itens e moedas. Você vai precisar de 32 moedas para comprar o seu primeiro livro. Você também pode vender seus itens no vendedor.'
       // fr: 'Collectez quelques pièces et items. Vous avez besoin de 32 pièces pour votre premier livre. Vous pouvez aussi vendre des items au Trader.'
       // cs: 'Posbírej nějaké předměty a mince. K první knize potřebuješ 32 mincí. Předměty můžeš prodat také obchodníkovi.'
+
     },
     {
       en: 'You have enough coins. Go back to your base, and  talk to your class trader to buy your new skill book.'
@@ -184,6 +204,7 @@ export default {
       // pt: 'Você já tem moedas suficientes. Voltei para a sua base e fale com o vendedor (NPC roxo com uma mochila) para comprar um novo livro de habilidades. '
       // fr: 'Vous avez assez de pièces. Revenez à votre base, et parlez au Trader (un NPC violet avec un sac) pour acheter votre nouveau livre de compétence. '
       // cs: 'Máš dost mincí. Vrať se na svou základnu a promluv si s obchodníkem (fialové NPC s baťohem), aby jsi koupil novou knihu dovedností.'
+
     },
     {
       en: 'The class trader sells skill books, potions, and mounts. Right-click the book to buy it.'
@@ -199,6 +220,7 @@ export default {
       // pt: 'Agora que você tem o livro, abra o seu inventário, clique com o botão direito e pressione <kbd>Learn skill</kbd> para aprender a nova habilidade.'
       // fr: 'Une fois que vous avez le livre, ouvrez votre inventaire, faites un clic-droit sur le livre et cliquez sur <kbd>Learn skill</kbd> pour l\'apprendre.'
       // cs: 'Jakmile máš knihu ve svém inventáři, pravým kliknutím na knihu a výběrem <kbd>Learn skill</kbd> se dovednost naučíš.'
+
     },
     {
       en: 'Close the Trader Window, then open your skill panel (<kbd>K</kbd>) to see an overview of your skills.'
@@ -215,6 +237,7 @@ export default {
       // As habilidades geralmente necessitam de um pontos de habilidades, que você irá ganhar a cada 2 níveis'
       // fr: 'Ici, vous pouvez voir vos compétences. Passez votre souris par dessus les compétences pour en obtenir des informations supplémentaires.'
       // cs: 'Zde můžeš vidět své skilly. Přejetím kurzorem mlžeš vidět více informací. Dovednosti obvykle vyžadují jeden dovednostní bod, který získáš každé dvě úrovně.
+
     },
     {
       en: 'You can change your skill set at any time. Add a skill point to your skill to enable it.'
@@ -229,6 +252,7 @@ export default {
       // pt: 'Você pode clicar e arrastas as habilidades na sua barra de habilidades. Nós já fizemos isso para você!'
       // fr: 'Vous pouvez cliquer sur un icône de compétence et le faire glisser dans votre barre de compétence. Nous l\'avons déjà fait pour vous !'
       // cs: 'Můžeš kliknout a přetáhnout dovednost do panelu dovedností. Už jsme to udělali za tebe!'
+
     },
     {
       en: 'You have learned a lot. You\'re almost ready to start your adventure.'
@@ -237,6 +261,7 @@ export default {
       // pt: 'Você já aprendeu bastante. Estamos quase prontos para começarmos a sua aventura.'
       // fr: 'Vous avez appris beaucoup. Vous êtes presque près pour débuter votre aventure.'
       // cs: 'Naučil jsi se mnoho. Jsi téměř připraven zahájit dobrodružství.'
+
     },
     {
       en: 'Hordes is all about working in a party with other players. A party can help you level up.'
@@ -245,6 +270,7 @@ export default {
       // pt: 'Hordes fica melhor quando trabalhamos em conjunto em uma party com outros jogadores. Uma party pode te ajudar a aumentar de nível.'
       // fr: 'Hordes consiste en grande partie à travailler dans un groupe avec d\'autres joueurs. Un groupe peut vous aider à monter de niveau.'
       // cs: 'Hordes je hlavně o spolupráci v partě s ostatními hráči. Parta ti může pomoci zvýšit tvou úroveň.'
+
     },
     {
       en: 'A party of players will share experience and items, allowing them to progress faster than solo players.'
@@ -253,6 +279,7 @@ export default {
       // pt: 'Uma party de jogadores irá dividir toda a experiência e itens, permitindo que todos progridam de maneira mais rápido do que individualmente.'
       // fr: 'Un groupe de joueurs va partager l\'expérience et les items, permettant aux joueurs en groupe de progresser plus rapidement que les joueurs seuls.'
       // cs: 'Parta hráčů sdíli zkušenosti a předměty, což jim umožňuje rychlejší postup proti solo hráčům.'
+
     },
     {
       en: 'You can create or find a party with the party interface. Click on <kbd>Find Party</kbd> to automatically search one.'
@@ -261,6 +288,7 @@ export default {
       // pt: 'Você pode criar ou encontrar uma party com a interface da party. Clique em <kbd>Find Party</kbd> para encontrar uma party automaticamente.'
       // fr: 'Vous pouvez créer ou trouver un groupe avec l\'interface de groupe. Cliquez sur <kbd>Find Party</kbd> pour en chercher un automatiquement.'
       // cs: 'Můžeš vytvořit nebo najít partu pomocí rozhraní pro party. Kliknutím na <kbd>Find Party</> automaticky začne hledat.'
+
     },
     {
       en: 'You can also invite players to your party by right-clicking on their unitframe, or using the command <kbd>/partyinvite</kbd>.'
@@ -269,6 +297,7 @@ export default {
       // pt: 'Você também pode convidar outros jogadores para a sua party, selecionando o jogar e então clicando com o botão direito no painel do jogando, ou usando o comando <kbd>/partyinvite</kbd>.'
       // fr: 'Vous pouvez aussi inviter des joueurs dans votre groupe en faisant un clic-droit sur leur cadre d'unité, ou en utilisant la commande <kbd>/partyinvite</kbd>.'
       // cs: 'Také můžeš pozvat hráče do své party pravým tlačítkem na jejich rám postavy, nebo použít příkaz <kbd>/partyinvite</kbd>.'
+
     },
     {
       en: 'Partying will also allow you to share fame points in PVP combat.'
@@ -277,6 +306,7 @@ export default {
       // pt: 'Estando em uma party você poderá compartilhar pontos de fama nos combates PVP.'
       // fr: 'Les groupes vous permettent aussi de partager les points de Gloire dans les combats PVP.'
       // cs: 'Parta ti také dovolí sdílet body slávy v PVP boji.'
+
     },
     {
       en: 'Players of the other faction can be killed to earn fame and items (such as the crown) for your character.'
@@ -285,6 +315,7 @@ export default {
       // pt: 'Jogadores da outra facção podem ser mortos para ganhar fama e itens (como uma coroa) para o seu personagem.'
       // fr: 'Les joueurs de la faction adverse peuvent être tués pour gagner des points de Gloire et des items (comme les couronnes) pour votre personnage.'
       // cs: 'Hráči jiné frakce mohou být zabiti k získání slávy a itemů (jako je koruna) pro tvůj charakter.'
+
     },
     {
       en: 'You can also sell items to other players. You can visit the Merchant to do so.'
@@ -293,6 +324,7 @@ export default {
       // pt: 'Você também pode vender itens para outros jogadores. Visite o mercador para fazer a sua venda.'
       // fr: 'Vous pouvez aussi vendre des items aux autres joueurs. Pour cela vous devez parler au Merchant.'
       // cs: 'Také můžeš prodávát předměty ostatním hráčům. Navštiv obchodníka v základně.'
+
     },
     {
       en: 'Any items you buy at the merchant will be sent to your stash - a storage for your items and gold. It is a brown box located next to the merchant.'
@@ -301,6 +333,7 @@ export default {
       // pt: 'Qualquer item que você comprar no mercador será enviado para o seu baú - um local de armazenamento de itens e ouro. O baú é uma caixa marron localizada próxima ao mercador.'
       // fr: 'Tous les items que vous achetez au Merchant sont envoyés dans votre Stash - un coffre pour vos items et vos pièces. C'est une caisse marron située à côté du Merchant.'
       // cs: 'Jakkýkoliv předmět koupíš obchodník pošle do tvé truhli - pro skladování tvých předmětů a zlata. Je to hnědá truhla vedle obchodníka.'
+
     },
     {
       en: 'You will find runes when slaying monsters. Runes will allow you to upgrade your items. Visit the blacksmith to do so.'
@@ -309,6 +342,7 @@ export default {
       // pt: 'Você irá encontrar runas quando estiver matando monstros. As runas permitem que você fortifique os seus itens. Visite o blacksmith para fortificar seus itens.'
       // fr: 'Vous trouverez des runes en tuant des monstres. Les runes vous permettent d\'améliorer vos items. Pour faire cela, allez voir le Blacksmith.'
       // cs: 'Během zabijení monster najdeš runy. Runy ti umožní vylepšovat tvé předměty. Navštiv kováře v základně.'
+
     },
     {
       en: 'Coordination with players is important. You can use <kbd>/global</kbd>, <kbd>/party</kbd>, <kbd>/faction</kbd> and <kbd>/clan</kbd>. Press Enter to chat.'
@@ -317,6 +351,7 @@ export default {
       // pt: 'A comunicação com outros jogadores é importante. Você pode usar <kbd>/global</kbd>, <kbd>/party</kbd>, <kbd>/faction</kbd> e <kbd>/clan</kbd>. Pressione Enter para conversar.'
       // fr: 'La communication avec les joueurs est importante. Vous pouvez utiliser <kbd>/global</kbd>, <kbd>/party</kbd>, <kbd>/faction</kbd> et <kbd>/clan</kbd>. Appuyez sur Entrer pour parler.'
       // cs: 'Koordinace s hráči je důležitá. Můžeš proto použít chat <kbd>/global</kbd>, <kbd>/party</kbd>, <kbd>/faction</kbd> and <kbd>/clan</kbd>. Stiskni Enter pro chatování.
+
     },
     {
       en: 'Type in your greatest battle shout. Then press enter to send your love letter to the world.'
@@ -325,6 +360,7 @@ export default {
       // pt: 'Digite o seu melhor grito de batalhaa. Então pressione enter para enviar sua carta de amor para o mundo.'
       // fr: 'Ecrivez votre meilleur cri de guerre. Appuyez ensuite sur entrer pour envoyer votre lettre d\'amour au monde entier.'
       // cs: 'Napiš svůj bitevní výkřik. Poté stiskni tlačítko Enter a odešli svůj milostní dopis do světa.'
+
     },
     {
       en: 'See the cogwheel in the upper right corner? Open your game settings.'
@@ -333,6 +369,7 @@ export default {
       // pt: 'Está vendo a engrenagem no canto superior direito? Abra as configurações do seu jogo'
       // fr: 'Vous voyez la roue dentelée dans le coin supérieur droit ? Ouvrez-y les paramatrès du jeu.'
       // cs: 'Vidíš ozubené kolečko v pravím horním rohu? Otevři nastavení hry.'
+
     },
     {
       en: 'You can change many things here, such as the controls, language, or reducing the graphics.'
@@ -357,6 +394,7 @@ export default {
       // pt: 'Isso é tudo. Você completou! Você está pronto para arrasar! Sua facção depende de você.'
       // fr: 'Voilà, nous y sommes. Vous l\'avez fait. Vous êtres prêt à tuer. Votre faction dépend de vous.'
       // cs: 'A je to. Zvládl jsi to. Jsi připraven zabít. Tvá frakce zavísí na tobě.'
+
     },
     {
       en: 'Good luck, champion.'
@@ -365,6 +403,7 @@ export default {
       // pt: 'Boa sorte, campeâo'
       // fr: 'Bonne chance, champion.'
       // cs: 'Hodně štěstí šampione.'
+
     },
     {
       en: 'Congratulations on Lv. 25! You can now enter Headless Landing, a new world. Speak to the Conjurer in your base.'

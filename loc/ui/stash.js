@@ -21,6 +21,7 @@ export default {
     tr: 'Bu öğeyi alabilmek için beklemelisin.',
     ja: 'このアイテムを回収するには暫くの間待つ必要があります。',
     cs: 'Musíš počkat, než budeš moci tento předmět vyzvednout'
+
   },
 
   withdraw: {
@@ -64,6 +65,7 @@ export default {
     ko: '두고 가기',
     cs: 'Vklad',
     zh: '存入'
+
   },
 
   // Do not translate "Stash".
@@ -87,7 +89,7 @@ export default {
     it: 'Invia allo Stash',
     tr: 'Eşyayı Stashle',
     ja: 'Stashアイテム',
-    cs: 'Stash položku'
+    cs: 'Uložit předmět'
   },
 
   // Do not translate "Stash".
@@ -111,7 +113,8 @@ export default {
     it: '$1 è stato spostato nel tuo Stash',
     tr: '$1, Stashe taşındı.',
     ja: '$1 がStashに送られました。',
-    cs: '$1 byl přesunut do Stash'
+    cs: '$1 byl přesunut do truhly'
+
   }
 
 }

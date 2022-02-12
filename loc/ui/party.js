@@ -25,6 +25,7 @@ export default {
     it: 'Invito al party.',
     ja: 'Party招待',
     cs: 'Pozvat do party'
+
   },
 
   // DO NOT translate "Party"
@@ -49,6 +50,7 @@ export default {
     it: 'Cacciare dal party',
     ja: 'Partyキック',
     cs: 'Vyhodit z party'
+
   },
 
   // DO NOT translate "Party"
@@ -73,6 +75,7 @@ export default {
     it: 'Lasciare il party',
     ja: 'Partyを去る',
     cs: 'Opustit party'
+
   },
 
   // DO NOT translate "Party"
@@ -142,8 +145,7 @@ export default {
     sr: 'Pozivnica',
     it: 'Link di invito',
     ja: '招待リンク',
-    cs: 'Odkaz k pozvánce',
-    zh: '邀請連結'
+    cs: 'Odkaz k pozvánce'
   },
 
   // DO NOT translate "Party"
@@ -277,6 +279,7 @@ export default {
     ko: 'Leader로 승급',
     cs: 'Povýšit na Leader',
     zh: '升格為 Leader'
+
   },
 
   // Do not translate"Assistant".
@@ -298,6 +301,7 @@ export default {
     ko: 'Assistant 강등',
     cs: 'Degradovat Assistant',
     zh: '降格為 Assistant'
+
   },
 
   startQueue: {
@@ -318,6 +322,7 @@ export default {
     ko: '매칭',
     cs: 'Fronta',
     zh: '列隊'
+
   },
 
   stopQueue: {
@@ -336,7 +341,8 @@ export default {
     pt: 'Sair da fila',
     ja: 'キューを去る',
     ko: '매칭 중단',
-    cs: 'Leave Queue',
+    cs: 'Opustit frontu',
     zh: '離開列隊'
+
   }
 }

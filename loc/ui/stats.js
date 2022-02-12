@@ -67,6 +67,7 @@ export default {
       ja: 'スタミナ',
       ko: '마나',
       cs: 'Vytrvalost'
+
     },
 
     {
@@ -183,6 +184,7 @@ export default {
       ja: '最小ダメージ',
       ko: '최소 데미지',
       cs: 'Min. Poš.'
+
     },
 
     {
@@ -203,6 +205,7 @@ export default {
       ja: '最大ダメージ',
       ko: '최대 데미지',
       cs: 'Max. Poš.'
+
     },
 
     {
@@ -282,7 +285,8 @@ export default {
       tr: 'Hareket ',
       ja: '移動速度',
       ko: '이속',
-      cs: 'Rychlost Poh.'
+      cs: 'Rychl. pohybu'
+
     },
 
     {
@@ -302,7 +306,8 @@ export default {
       sr: 'Журба',
       ja: '機敏さ',
       ko: '순간 속력',
-      cs: 'Spěch'
+      cs: 'Rychlost'
+
     },
 
     {
@@ -322,7 +327,7 @@ export default {
       tr: 'Saldırı Hızı',
       ja: '攻撃速度',
       ko: '공격 속도',
-      cs: 'Rychlost Útoku'
+      cs: 'Rychl. Útoku'
     },
 
     {
@@ -343,6 +348,7 @@ export default {
       ja: 'アイテム探知',
       ko: '아이템 흭득',
       cs: 'Hledaní předmětů'
+
     },
 
     {
@@ -362,7 +368,7 @@ export default {
       tr: 'Çanta Yuvaları',
       ja: 'バッグの広さ',
       ko: '가방 공간',
-      cs: 'Sloty v baťohu'
+      cs: 'Místa v baťohu'
     },
 
     {
@@ -383,6 +389,7 @@ export default {
       ja: '名声',
       ko: '프레임',
       cs: 'Sláva'
+
     },
 
     {
@@ -395,6 +402,7 @@ export default {
       ja: 'レーティング',
       cs: 'Hodnocení',
       zh: '評分'
+
     },
 
     {
@@ -438,10 +446,6 @@ export default {
     },
 
     {
-      en: 'Skill Points (Max)'
-    },
-
-    {
       $$: 'Gear Score'
     },
 
@@ -467,6 +471,7 @@ export default {
       ja: '% ダメージ増加',
       ko: '% 데미지 증가',
       cs: '% Zvýšení poš.'
+
     },
 
     {
@@ -486,7 +491,8 @@ export default {
       tr: '% Artan Kızdırma ÜRetimi',
       ja: '% ヘイト誘発増加',
       ko: '% 몹 어그로 증가',
-      cs: '% Zvýšení Agra'
+      cs: '% Zvýšení Generování Agra.'
+
     },
 
     {
@@ -506,7 +512,8 @@ export default {
       tr: '% Hareket Hızı Düşürme',
       ja: '% 移動速度低下',
       ko: '% 이속 감소',
-      cs: '% Snížení Rychlosti Pohybu'
+      cs: '% Redukce Rychl. Pohybu'
+
     },
 
     {
@@ -524,7 +531,7 @@ export default {
       tr: 'İyileştirme Düşürme',
       ja: '回復阻害',
       ko: '힐링 감소',
-      cs: 'Snížení Léčení',
+      cs: 'Redukce léčení',
       zh: '治療減少'
     }
   ]

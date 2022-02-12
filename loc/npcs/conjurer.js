@@ -22,6 +22,7 @@ export default {
       it: 'Hai sentito parlare dei Crystal Shards che sono stati scoperti di recente? Gli avventurieri possono usarli per viaggiare direttamente in regni lontani. Non ho i Crystal Shards, ma posso inviarti in alcuni luoghi poiché le forze mistiche convergono in questo nesso. Quale regno è la destinazione desiderata?',
       ja: '最近発見されたCrystal Shardsについて耳にした事はありますか？冒険者はこれらを使って遠くの地域へ直接移動する事が出来ます。Crystal Shardsは今手元にありませんが、神秘的な力が今ここに宿っており、幾つかの場所へ貴方を送る事は出来ます。どの目的地へお運びいたしましょうか？',
       cs: 'Slyšel jsi o krystalových střepech, které byly nedávno objeveny? Dobrodruzi je mohou použít k cestování přímo do vzdálených říší. Nemám žádné Crystal Shards, ale můžu vás poslat na některá místa, protože mystické síly v tomto nexu konvergují. Která oblast je tvým cílem? '
+
     },
 
     choices: [{
@@ -45,6 +46,7 @@ export default {
       it: 'Per favore portami a $1',
       ja: '$1へ連れて行って下さい。',
       cs: 'Prosím vezmi mě do $1.'
+
     }]
   }]
 }
