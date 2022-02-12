@@ -198,7 +198,7 @@ export default {
 
     },
     {
-      en: 'You have enough coins. Go back to your base, and  talk to your class trader to buy your new skill book.'
+      en: 'You have enough coins. Go back to your base, and talk to your class trader to buy your new skill book.'
       // ru: 'У тебя достаточно монет. Вернитесь на свою базу и поговорите с торговцем (фиолетовый NPC с рюкзаком), чтобы купить вашу новую книгу умения.'
       // it: 'Hai abbastanza monete. Torna alla tua base e parla con il commerciante (NPC viola con uno zaino) per acquistare il tuo nuovo libro delle abilità. '
       // pt: 'Você já tem moedas suficientes. Voltei para a sua base e fale com o vendedor (NPC roxo com uma mochila) para comprar um novo livro de habilidades. '
@@ -207,7 +207,7 @@ export default {
 
     },
     {
-      en: 'The class trader sells skill books, potions, and mounts. Right-click the book to buy it.'
+      en: 'Your class trader sells skill books you can learn. Right-click the book to buy it.'
       // ru: 'Торговец продает книги умений, зелья и ездовых животных. Щелкните правой кнопкой мыши на книгу, чтобы купить ее.'
       // it: 'Il commerciante vende libri abilità, pozioni e armature. Click-Destro sul libro per comprarlo.'
       // pt: 'O vendedor vende livros de habilidades, potes e montarias. Clique com o botão direito do mouse no livro para comprá-lo.'
