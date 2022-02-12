@@ -178,7 +178,7 @@ export default {
       // cs: 'Posbírej nějaké předměty a mince. K první knize potřebuješ 32 mincí. Předměty můžeš prodat také obchodníkovi.'
     },
     {
-      en: 'You have enough coins. Go back to your base, and  talk to the trader (purple NPC with a backpack) to buy your new skill book.'
+      en: 'You have enough coins. Go back to your base, and  talk to your class trader to buy your new skill book.'
       // ru: 'У тебя достаточно монет. Вернитесь на свою базу и поговорите с торговцем (фиолетовый NPC с рюкзаком), чтобы купить вашу новую книгу умения.'
       // it: 'Hai abbastanza monete. Torna alla tua base e parla con il commerciante (NPC viola con uno zaino) per acquistare il tuo nuovo libro delle abilità. '
       // pt: 'Você já tem moedas suficientes. Voltei para a sua base e fale com o vendedor (NPC roxo com uma mochila) para comprar um novo livro de habilidades. '
@@ -186,7 +186,7 @@ export default {
       // cs: 'Máš dost mincí. Vrať se na svou základnu a promluv si s obchodníkem (fialové NPC s baťohem), aby jsi koupil novou knihu dovedností.'
     },
     {
-      en: 'The trader sells skill books, potions, and mounts. Right-click the book to buy it.'
+      en: 'The class trader sells skill books, potions, and mounts. Right-click the book to buy it.'
       // ru: 'Торговец продает книги умений, зелья и ездовых животных. Щелкните правой кнопкой мыши на книгу, чтобы купить ее.'
       // it: 'Il commerciante vende libri abilità, pozioni e armature. Click-Destro sul libro per comprarlo.'
       // pt: 'O vendedor vende livros de habilidades, potes e montarias. Clique com o botão direito do mouse no livro para comprá-lo.'
@@ -215,6 +215,12 @@ export default {
       // As habilidades geralmente necessitam de um pontos de habilidades, que você irá ganhar a cada 2 níveis'
       // fr: 'Ici, vous pouvez voir vos compétences. Passez votre souris par dessus les compétences pour en obtenir des informations supplémentaires.'
       // cs: 'Zde můžeš vidět své skilly. Přejetím kurzorem mlžeš vidět více informací. Dovednosti obvykle vyžadují jeden dovednostní bod, který získáš každé dvě úrovně.
+    },
+    {
+      en: 'You can change your skill set at any time. Add a skill point to your skill to enable it.'
+    },
+    {
+      en: 'Now press "Apply" to activate your new skill set.'
     },
     {
       en: 'You can click and drag a skill into your skillbar. We already did it for you!'
