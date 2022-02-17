@@ -305,7 +305,7 @@ export default {
     },
 
     {
-      en: 'Attack Spd.',      
+      en: 'Attack Spd.',
       ru: 'Скорость Атк.',
       fr: 'Vit. d\'Attq',
       es: 'Vel. Ataque',
