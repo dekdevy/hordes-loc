@@ -17,18 +17,17 @@ export default {
       hu: 'Sebzés',
       zh: '傷害',
       de: 'Schaden',
-      // pl: 'Obrażenia'
-      // vi: 'Sát thương'
       it: 'Danno',
       sr: 'Штета',
       ja: 'ダメージ',
       ko: '데미지',
       cs: 'Poškození'
+      // pl: 'Obrażenia'
+      // vi: 'Sát thương'
     }
   },
 
   array: [
-
     {
       en: 'Strength',
       el: 'Δύναμη',
@@ -121,12 +120,12 @@ export default {
       zh: '智慧',
       de: 'Weisheit',
       pl: 'Mądrość',
-      // vi: 'Thông thái'
       it: 'Saggezza',
       sr: 'Мудрост',
       ja: '賢さ',
       ko: '지혜',
       cs: 'Moudrost'
+      // vi: 'Thông thái'
     },
 
     {
@@ -137,16 +136,16 @@ export default {
       es: 'Suerte',
       pt: 'Sorte',
       tr: 'Şans',
-      hu: 'Szerencse',
       zh: '幸運',
       de: 'Glück',
       vi: 'May mắn',
-      // pl: 'Szczęście'
       it: 'Fortuna',
       sr: 'Срећа',
       ja: '運',
       ko: '운',
       cs: 'Štěstí'
+      // hu: 'Szerencse'
+      // pl: 'Szczęście'
     },
 
     {
@@ -167,7 +166,6 @@ export default {
 
     {
       en: 'Min Dmg.',
-      el: 'Ελάχιστη Ζημιά',
       ru: 'Мин. урон.',
       es: 'Daño Min',
       pt: 'Dano Mín',
@@ -177,12 +175,13 @@ export default {
       zh: '最小傷害',
       pl: 'Min. Obr.',
       de: 'Min. Schaden',
-      // vi: 'Sát thương nhỏ nhất'
       it: 'Danno Min',
       sr: 'Min. штета',
       ja: '最小ダメージ',
       ko: '최소 데미지',
       cs: 'Min. Poš.'
+      // el: 'Ελάχιστη Ζημιά'
+      // vi: 'Sát thương nhỏ nhất'
     },
 
     {
@@ -197,12 +196,12 @@ export default {
       zh: '最大傷害',
       pl: 'Max. Obr.',
       de: 'Max. Schaden',
-      // vi: 'Sát thương lớn nhất'
       it: 'Danno Max',
       sr: 'Max. штета',
       ja: '最大ダメージ',
       ko: '최대 데미지',
       cs: 'Max. Poš.'
+      // vi: 'Sát thương lớn nhất'
     },
 
     {
@@ -247,7 +246,6 @@ export default {
 
     {
       en: 'Critical',
-      el: 'Καίριο Χτύπημα',
       ru: 'Крит',
       fr: 'Critique',
       es: 'Crítico',
@@ -263,26 +261,27 @@ export default {
       ja: 'クリティカル',
       ko: '크리티컬',
       cs: 'Kritický'
+      // el: 'Καίριο Χτύπημα'
     },
 
     {
       en: 'Move Spd.',
-      el: 'Ταχύτητα Κίνησης',
       fr: 'Vit. de Déplac.',
       ru: 'Скорость',
       es: 'Vel. Mov.',
       pt: 'Velocidade',
       hu: 'Mozgási Seb.',
       zh: '移動速度',
-      // pl: 'Prędkość ruchu',
-      // vi: 'Tốc độ di chuyển',
-      // de: 'Bewegungstempo'
       it: 'Velocità',
       sr: 'Брз. крет.',
       tr: 'Hareket ',
       ja: '移動速度',
       ko: '이속',
       cs: 'Rychl. Pohybu'
+      // el: 'Ταχύτητα Κίνησης'
+      // pl: 'Prędkość ruchu'
+      // vi: 'Tốc độ di chuyển'
+      // de: 'Bewegungstempo'
     },
 
     {
@@ -306,8 +305,7 @@ export default {
     },
 
     {
-      en: 'Attack Spd.',
-      el: 'Ταχύτητα Επίθεσης',
+      en: 'Attack Spd.',      
       ru: 'Скорость Атк.',
       fr: 'Vit. d\'Attq',
       es: 'Vel. Ataque',
@@ -323,11 +321,11 @@ export default {
       ja: '攻撃速度',
       ko: '공격 속도',
       cs: 'Rychl. Útoku'
+      // el: 'Ταχύτητα Επίθεσης'
     },
 
     {
       en: 'Item Find',
-      el: 'Εύρεση Αντικειμένων',
       ru: 'Поиск пред.',
       fr: 'Trouvaille',
       es: 'hallar item',
@@ -335,14 +333,15 @@ export default {
       hu: 'Tárgylelés',
       zh: '掉寶',
       de: 'Item-Suche',
-      // pl: 'Wyszukiwanie przedmiotu',
-      // vi: 'Tỉ lệ tìm vật phẩm',
       it: 'Ritrovamento',
       sr: 'Прон. пред.',
       tr: 'Eşya Bulma',
       ja: 'アイテム探知',
       ko: '아이템 흭득',
       cs: 'Hledaní předmětů'
+      // el: 'Εύρεση Αντικειμένων'
+      // pl: 'Wyszukiwanie przedmiotu'
+      // vi: 'Tỉ lệ tìm vật phẩm'
     },
 
     {
@@ -356,13 +355,13 @@ export default {
       pl: 'Miejsce w ekw.',
       de: 'Taschenplätze',
       vi: 'Ô túi',
-      // es: 'Espacios de inventario',
       it: 'Slots Zaino',
       sr: 'Места у тор.',
       tr: 'Çanta Yuvaları',
       ja: 'バッグの広さ',
       ko: '가방 공간',
       cs: 'Místa v baťohu'
+      // es: 'Espacios de inventario'
     },
 
     {
@@ -376,13 +375,13 @@ export default {
       hu: 'Hírnév',
       zh: '聲望',
       pl: 'Sława',
-      // vi: 'Danh vọng',
       it: 'Fama',
       sr: 'Слава',
       tr: 'Ün',
       ja: '名声',
       ko: '프레임',
       cs: 'Sláva'
+      // vi: 'Danh vọng'
     },
 
     {
@@ -399,7 +398,6 @@ export default {
 
     {
       en: 'Stat Points',
-      el: 'Πόντοι Στατιστικών',
       ru: 'Очки Хар-ик',
       fr: 'Points de Stat',
       es: 'Puntos de stat',
@@ -408,18 +406,18 @@ export default {
       zh: '屬性點',
       de: 'Stat-Punkte',
       vi: 'Điểm tiềm năng',
-      // pl: 'Punkty Statystyk',
       it: 'Punti stat',
       sr: 'Поени за стат.',
-      tr: 'İstatistik Puanları ',
-      ja: 'ステータスポイント',
       ko: '스텟 포인트',
       cs: 'Statistické Dody'
+      // ja: 'ステータスポイント',
+      // tr: 'İstatistik Puanları',
+      // pl: 'Punkty Statystyk'
+      // el: 'Πόντοι Στατιστικών',
     },
 
     {
       en: 'Skill Points',
-      el: 'Πόντοι Ικανοτήτων',
       ru: 'Очки умений',
       fr: 'Points de Comp.',
       es: 'Puntos de Hab.',
@@ -435,6 +433,7 @@ export default {
       ja: 'スキルポイント',
       ko: '스킬 포인트',
       cs: 'Dovednostní Body'
+      // el: 'Πόντοι Ικανοτήτων',
     },
 
     {
@@ -462,11 +461,11 @@ export default {
       vi: '% Tăng sát thương',
       it: '% Danno Incrementato',
       sr: '% Повећања штете',
-      // pl: '% Zwiększone obrażenia',
       tr: '% Artan Hasar',
       ja: '% ダメージ増加',
       ko: '% 데미지 증가',
       cs: '% Zvýšení poš.'
+      // pl: '% Zwiększone obrażenia'
     },
 
     {
@@ -501,12 +500,12 @@ export default {
       pl: '% Redukcja prędkości ruchu',
       vi: '% Giảm tốc độ di chuyển',
       it: '% Riduzione Velocità',
-      // de: '% verminderte Laufgeschwindigkeit',
       sr: '% Смањења брз. кретања',
       tr: '% Hareket Hızı Düşürme',
       ja: '% 移動速度低下',
       ko: '% 이속 감소',
       cs: '% Redukce Rychl. Pohybu'
+      // de: '% verminderte Laufgeschwindigkeit',
     },
 
     {
@@ -519,13 +518,13 @@ export default {
       fr: 'Réduction de soin',
       vi: 'Giảm hồi máu',
       it: 'Riduzione Cure',
-      // pl: 'Ograniczenie leczenia',
       sr: 'Умањење лечења',
       tr: 'İyileştirme Düşürme',
       ja: '回復阻害',
       ko: '힐링 감소',
       cs: 'Redukce léčení',
       zh: '治療減少'
+      // pl: 'Ograniczenie leczenia',
     }
   ]
 }
