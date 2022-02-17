@@ -95,7 +95,8 @@ export default {
     it: '$1 è stato promosso nel ruolo di clan.',
     tr: '$1 klanda terfi edildi.',
     ja: '$1 のクランロールが昇格しました。',
-    cs: '$1 byl povýšen v klanové hodnosti.'
+    cs: '$1 byl povýšen v klanové hodnosti.',
+    ko: '$1 이(가) 승급했습니다'
   },
 
   clanMemberRoleDemote: {
