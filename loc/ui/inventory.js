@@ -67,7 +67,6 @@ export default {
     sr: 'Бацио си $1.',
     ja: '$1 を捨てました。',
     cs: 'Odhodil jsi $1'
-
   },
 
   full: {
@@ -137,7 +136,6 @@ export default {
     tr: '$1 elde ettin.',
     ja: '$1 を受け取りました。',
     cs: 'Získal jsi $1'
-
   },
 
   drop: {
@@ -161,7 +159,6 @@ export default {
     sr: 'Баци предмет',
     ja: '捨てる',
     cs: 'Odhodit položku'
-
   },
 
   equip: {
@@ -185,7 +182,6 @@ export default {
     tr: 'Eşyayı kuşan',
     ja: '装備する',
     cs: 'Obléct předmět'
-
   },
 
   use: {
