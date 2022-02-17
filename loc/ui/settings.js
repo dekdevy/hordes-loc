@@ -66,7 +66,6 @@ export default {
     ja: 'キー割り当て',
     ko: '키 고정',
     cs: 'Klávesové zkratky'
-
   },
 
   camera: {
@@ -86,7 +85,6 @@ export default {
     ko: '카메라',
     cs: 'Kamera',
     zh: '視角'
-
   },
 
   mousesensitivity: {
@@ -107,7 +105,6 @@ export default {
     ko: '민감도',
     cs: 'Senzitivita',
     zh: '靈敏度'
-
   },
 
   invertmousex: {
@@ -148,7 +145,6 @@ export default {
     ko: '세로로 회전',
     cs: 'Převrátit vertikálně',
     zh: '垂直反轉'
-
   },
 
   pointerlock: {
@@ -170,7 +166,6 @@ export default {
     ja: '操作中にカーソル非表示',
     ko: '회전하는 중에는 마우스 숨기기',
     cs: 'Skrýt myš během otáčení'
-
   },
 
   lockedcamera: {
@@ -241,7 +236,6 @@ export default {
     sr: 'Дистанца погледа',
     ja: '描画範囲',
     cs: 'Rozbrazení vzdálenosti'
-
   },
 
   resolution: {
@@ -266,25 +260,7 @@ export default {
     ja: '解像度',
     cs: 'Rozlišení'
   },
-  postprocessing: {
-    en: 'Post-processing',
-    el: 'Post-processing',
-    de: 'Nachbearbeitung',
-    ru: 'Постобработка',
-    tr: 'Detaylandırma',
-    fr: 'Post-traitement',
-    pt: 'Pós-processamento.',
-    nl: 'Nawerking',
-    hu: 'Utófeldolgozás',
-    es: 'Post-procesamiento',
-    pl: 'Post-processing',
-    vi: 'Hậu xử lý',
-    it: 'Post-processing',
-    sr: 'Пост обрада',
-    ja: 'ジャギー抑制',
-    ko: '효과',
-    cs: 'Následné zpracování'
-  },
+
   fxaa: {
     $$: 'FXAA'
   },
@@ -300,7 +276,6 @@ export default {
     ru: 'Отключить монстров за пределами экрана',
     fr: 'Désactiver les créatures hors de l\'écran',
     zh: '禁止鎖定視野外生物'
-
   },
 
   skilleffects: {
@@ -324,7 +299,6 @@ export default {
     sr: 'Ефекти вештина',
     ja: 'スキル演出',
     cs: 'Efekty dovedností'
-
   },
 
   shadows: {
@@ -347,28 +321,28 @@ export default {
     ko: '그림자',
     cs: 'Stíny'
   },
+  
+  // ssao: {
+  //   en: 'Ambient Occlusion',
+  //   el: 'Ambient Occlusion',
+  //   ru: 'Окружающая окклюзия',
+  //   fr: 'Occlusion Ambiante',
+  //   pt: 'Oclusão Ambiental',
+  //   nl: 'Omgevingsocclusie',
+  //   hu: 'Környezet okklúzió',
+  //   es: 'Oclusión Ambiental',
+  //   pl: 'Okluzja otoczenia',
+  //   de: 'Umgebungsverdeckung',
+  //   vi: 'Môi trường xung quanh',
+  //   it: 'Occlusione Ambientale',
+  //   sr: 'Оклузија околине',
+  //   tr: 'Çevresel Perdeleme',
+  //   ja: '環境閉塞',
+  //   ko: '광원',
+  //   cs: 'Ambientní okluze',
+  //   zh: '環境光遮掩'
+  // },
 
-  ssao: {
-    en: 'Ambient Occlusion',
-    el: 'Ambient Occlusion',
-    ru: 'Окружающая окклюзия',
-    fr: 'Occlusion Ambiante',
-    pt: 'Oclusão Ambiental',
-    nl: 'Omgevingsocclusie',
-    hu: 'Környezet okklúzió',
-    es: 'Oclusión Ambiental',
-    pl: 'Okluzja otoczenia',
-    de: 'Umgebungsverdeckung',
-    vi: 'Môi trường xung quanh',
-    it: 'Occlusione Ambientale',
-    sr: 'Оклузија околине',
-    tr: 'Çevresel Perdeleme',
-    ja: '環境閉塞',
-    ko: '광원',
-    cs: 'Ambientní okluze',
-    zh: '環境光遮掩'
-
-  },
   grass: {
     en: 'Grass',
     el: 'Γρασίδι',
@@ -430,29 +404,6 @@ export default {
     ja: 'パーティクル',
     ko: '자연 현상',
     cs: 'Částice'
-
-  },
-
-  detailprops: {
-    en: 'Detail props',
-    el: 'Λεπτομέρειες',
-    de: 'Details',
-    ru: 'Детализация',
-    nl: 'Detail Voorwerpen',
-    hu: 'Részletes objektumok',
-    es: 'Detalles de accesorios',
-    zh: '細節道具',
-    fr: 'Objets détaillés',
-    pl: 'Szczegóły',
-    vi: 'Chi tiết',
-    it: 'Dettagli',
-    sr: 'Детаљи предмета',
-    pt: 'Detalhes das props.',
-    tr: 'Nesne detayları',
-    ja: '建造物の詳細',
-    ko: '물체 디테일',
-    cs: 'Detaily rekvizit'
-
   },
 
   // ---- Audio
@@ -500,8 +451,8 @@ export default {
     ja: '効果音',
     cs: 'Hlasitost SFX',
     zh: '音效音量'
-
   },
+
   ambiencevolume: {
     en: 'Ambience Volume',
     el: 'Ένταση ατμόσφαιρας',
@@ -513,8 +464,8 @@ export default {
     ja: '環境音',
     cs: 'Hlasitost prostředí',
     zh: '環境音量'
-
   },
+
   musicvolume: {
     en: 'Music Volume',
     el: 'Ένταση μουσικής',
@@ -533,8 +484,8 @@ export default {
     ko: '음악 볼륨',
     cs: 'Hlasitost Hudby',
     zh: '音樂音量'
-
   },
+
   // ---- Chat
   chat: {
     en: 'Chat',
@@ -578,7 +529,6 @@ export default {
     ja: 'チャットをキャラクター上に表示',
     ko: '채팅 표시',
     cs: 'Zobrazit bubliny chatu'
-
   },
 
   combatlog: {
@@ -600,7 +550,6 @@ export default {
     ja: '戦闘ログ',
     ko: '전투 로그',
     cs: 'Bojový deník'
-
   },
 
   // ---- User interface
@@ -671,7 +620,6 @@ export default {
     ja: 'インベントリの行',
     cs: 'Šířka inventáře',
     zh: '物品欄寬度'
-
   },
 
   // Do NOT translate "Stash"
@@ -691,9 +639,8 @@ export default {
     tr: 'Stash genişliği',
     ja: 'Stashの行',
     ko: 'Stash 너비',
-    cs: 'Šířka truhly',
+    cs: 'Šířka Stash',
     zh: 'Stash 寬度'
-
   },
 
   // Do NOT translate "Stash"
@@ -713,9 +660,8 @@ export default {
     tr: 'Stash yüksekliği',
     ja: 'Stashの列',
     ko: 'Stash 높이',
-    cs: 'Výška truhly',
+    cs: 'Výška Stash',
     zh: 'Stash 高度'
-
   },
 
   tutorial: {
@@ -739,7 +685,6 @@ export default {
     it: 'Tutorial',
     ja: 'チュートリアル',
     cs: 'Vyukový program'
-
   },
 
   resettutorial: {
@@ -763,7 +708,6 @@ export default {
     it: 'Ripristina tutorial',
     ja: 'チュートリアルを初期化',
     cs: 'Obnovit vyukový program'
-
   },
 
   disabletutorial: {
@@ -785,7 +729,6 @@ export default {
     ja: 'チュートリアルを無効化',
     ko: '튜토리얼 건너뛰기',
     cs: 'Vypnout vyukový program'
-
   },
 
   // ---- map
@@ -829,6 +772,5 @@ export default {
     ja: 'モンスターを表示',
     ko: '몬스터 표시',
     cs: 'Zobrazit monstra'
-
   }
 }
