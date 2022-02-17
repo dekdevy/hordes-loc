@@ -321,7 +321,7 @@ export default {
     ko: '그림자',
     cs: 'Stíny'
   },
-  
+
   // ssao: {
   //   en: 'Ambient Occlusion',
   //   el: 'Ambient Occlusion',
