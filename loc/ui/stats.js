@@ -282,7 +282,7 @@ export default {
       tr: 'Hareket ',
       ja: '移動速度',
       ko: '이속',
-      cs: 'Rychlost Poh.'
+      cs: 'Rychl. Pohybu'
     },
 
     {
@@ -302,7 +302,7 @@ export default {
       sr: 'Журба',
       ja: '機敏さ',
       ko: '순간 속력',
-      cs: 'Spěch'
+      cs: 'Rychlost'
     },
 
     {
@@ -322,7 +322,7 @@ export default {
       tr: 'Saldırı Hızı',
       ja: '攻撃速度',
       ko: '공격 속도',
-      cs: 'Rychlost Útoku'
+      cs: 'Rychl. Útoku'
     },
 
     {
@@ -362,7 +362,7 @@ export default {
       tr: 'Çanta Yuvaları',
       ja: 'バッグの広さ',
       ko: '가방 공간',
-      cs: 'Sloty v baťohu'
+      cs: 'Místa v baťohu'
     },
 
     {
@@ -486,7 +486,7 @@ export default {
       tr: '% Artan Kızdırma ÜRetimi',
       ja: '% ヘイト誘発増加',
       ko: '% 몹 어그로 증가',
-      cs: '% Zvýšení Agra'
+      cs: '% Zvýšení Generování Agra.'
     },
 
     {
@@ -506,7 +506,7 @@ export default {
       tr: '% Hareket Hızı Düşürme',
       ja: '% 移動速度低下',
       ko: '% 이속 감소',
-      cs: '% Snížení Rychlosti Pohybu'
+      cs: '% Redukce Rychl. Pohybu'
     },
 
     {
@@ -524,7 +524,7 @@ export default {
       tr: 'İyileştirme Düşürme',
       ja: '回復阻害',
       ko: '힐링 감소',
-      cs: 'Snížení Léčení',
+      cs: 'Redukce léčení',
       zh: '治療減少'
     }
   ]
