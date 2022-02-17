@@ -22,7 +22,6 @@ export default {
     it: 'Ok',
     ja: '決定',
     cs: 'Oke'
-
   },
 
   back: {
@@ -71,7 +70,6 @@ export default {
     it: 'Accetta',
     ja: '承認',
     cs: 'Potvrdit'
-
   },
 
   cancel: {
