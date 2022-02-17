@@ -87,7 +87,7 @@ export default {
     it: 'Invia allo Stash',
     tr: 'Eşyayı Stashle',
     ja: 'Stashアイテム',
-    cs: 'Uložit předmět'
+    cs: 'Stash položk'
   },
 
   // Do not translate "Stash".
