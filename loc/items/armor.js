@@ -14,7 +14,6 @@ export default [
       ro: 'Acesta este un material surprinzător de ferm dacă poate fi folosit drept haină de protecție. Natura improvizată a materialului e atât de evidentă, încât mulți aventurieri aleg să înlocuiască acest sac de cartofi cât mai repede cu putință.',
       cs: 'Jedná se o překvapivě pevný materiál, který lze použít jako ochranný oděv. Provizorní povaha tohoto materiálu je zřejmá, takže mnoho dobrodruhů se rozhodne vyměnit pytel od brambor co nejrychleji.',
       zh: '是個令人驚訝能夠用於防護的布料。很顯然這是出於臨時，所以許多冒險這會選擇盡快找到替代品。'
-
     }
   },
 
@@ -33,7 +32,6 @@ export default [
       ro: 'Această haină este o moștenire de familie ce a fost pasată în generații de la un aventurier la altul.',
       cs: 'Tento oděv je rodinným dědictvím, které se dědilo z jedné dobrodružné generace na druhou.',
       zh: '這副服裝是冒險者代代相傳的傳家寶。'
-
     }
   },
 
@@ -52,7 +50,6 @@ export default [
       ro: 'Această tunică este fabricată dintr-un material robust și este făcută pentru a rezista supraviețuirii în sălbăticie. Câteva tradiții implică dăruirea de tunici drept cadou pentru aventurierii desemnați vretnici de o organizație.',
       cs: 'Tato tunika je vyrobena z robustních látek, které jsou navrženy tak, aby vydržely přežití v divočině. Některé tradice zahrnují darování tunik dobrodruhům, které organizace považuje za hodné.',
       zh: '這副束腰外衣是由粗糙的織物製成以支撐荒郊野外的生存。有些傳統會把束腰外衣當作是禮物送給冒險者視為配得上組織的人物。'
-
     }
   },
 
@@ -71,7 +68,6 @@ export default [
       ro: 'Această armură din piele reprezintă o alegere comună pentru călătorii aventurieri. Tendința purtării gecilor de piele provine din jurul lui Yggdrasil, pe când creaturile periculoase au început să mișune în junglele din apropiere.',
       cs: 'Toto kožené brnění je běžnou volbou pro cestovatele dobrodruhů. Trend nošení kožených kazajek vznikl kolem Yggdrasilu, když v nedalekých džunglích začala číhat nebezpečná stvoření.',
       zh: '這副皮革盔甲是個對旅行的冒險者來說不錯的選擇。 穿戴皮革盔甲的潮流起源於當世界樹周圍開始埋伏著危險的生物。'
-
     }
   },
 
@@ -90,7 +86,6 @@ export default [
       ro: 'Armura aceasta este fabricată din solzi de monstru ce au fost găsiți pe pământ. Solzii de monstru sunt deseori prefăcuți în respectabile armuri ori de câte ori nu se mai găsește metal.',
       cs: 'Toto brnění je vyrobeno z monstrózních šupin, které byly nalezeny na zemi. Šupiny monster jsou často vytvořeny do úctyhodných brnění, kdykoli je nedostatek kovu.',
       zh: '這副盔甲是由地上找到怪獸鱗片製作而成.。當金屬短缺的時候，怪獸鱗片常常會用來製作像樣的盔甲。'
-
     }
   },
 
@@ -141,7 +136,6 @@ export default [
       it: 'Magiche rune sono state attaccate in questa armatura per ottenere protezione addizionale. Molti scolari credono che le rune su tutte le armature di questo tipo interagiscano tra loro in qualche grande e segreto rituale.',
       ro: 'Rune magice au fost gravate în această armură pentru a oferi un surplus de protecție. Câțiva savanți cred că runele de pe toate aceste armuri sunt menite să interacționeze unele cu celelalte într-un ritual mai larg, nedescoperit.',
       cs: 'Do tohoto brnění byly vyleptány magické runy, aby poskytovaly dodatečnou ochranu. Někteří učenci se domnívají, že runy na všech runových poloplátových zbrojích jsou určeny ke vzájemné interakci v nějakém větším, neobjeveném rituálu.'
-
     }
   },
 
@@ -159,7 +153,6 @@ export default [
       it: 'Gli inferni sovrannaturali furono usati nella creazione di questa armatura. Grandi sacrifici furono fatti per appacificare le creature demoniache affinché alcuni fabbri potessero forgiare con le strane fiamme.',
       ro: 'Focuri infernale supernaturale au fost folosite la forjarea acestei armuri. Mari sacrificii au fost făcute pentru a potoli cererile creaturilor diavolești, doar pentru ca câțiva fierari să poată forja cu niște flăcări stranii.',
       cs: 'Při výrobě tohoto brnění byla použita nadpřirozená pekla. Byly přinášeny velké oběti, aby se utišily požadavky ďábelských tvorů, aby pár kovářů mohlo kovat s podivnými plameny.'
-
     }
   },
 
@@ -198,5 +191,4 @@ export default [
       cs: 'Deathless zbroj byla vytvořena prvními králi a vůdci jako prostředek k zabránění smrtelným zraněním během první velké války. Věrni legendě tito králové a vůdci nezahynuli v bitvě; místo toho byli každý zavražděn ve spánku a jejich brnění byla ukradena. Techniky kování byly ztraceny časem, ale pro tento proces bylo zjevně nutné obrovské bohatství.'
     }
   }
-
 ]
