@@ -44,7 +44,6 @@ export default {
     tr: 'Sadece eşyalarım',
     ja: '自分のアイテムのみ',
     cs: 'Pouze mé předměty'
-
   },
 
   buy: {
@@ -91,7 +90,6 @@ export default {
     ja: 'アイテムを出品',
     cs: 'Zveřejnit Předmět',
     zh: '上架物品'
-
   },
 
   delist: {
@@ -115,7 +113,6 @@ export default {
     ja: '出品を取り消す',
     cs: 'Odstranit Předmět',
     zh: '撤消物品'
-
   },
 
   // Include the space and punctuation
@@ -187,7 +184,6 @@ export default {
     ja: 'アイテムをスロットにドラッグして下さい',
     cs: 'Přetáhněte předmět do slotu',
     zh: 'Shift右鍵 或 拖曳物品至此'
-
   },
 
   auctionpost: {
@@ -234,7 +230,6 @@ export default {
     ja: '出品を取り消しStashへ送りました。',
     cs: 'Odstraněný předmět byla odeslána do Stash',
     zh: '撤消物品並存至Stash。'
-
   },
 
   // Do not translate "Stash".
@@ -282,6 +277,5 @@ export default {
     ja: '$1を$2で売却しました。',
     cs: 'Prodal jste $1 za $2',
     zh: '你賣了$1獲得$2'
-
   }
 }
