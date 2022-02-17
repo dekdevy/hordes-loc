@@ -57,7 +57,6 @@ export default [
       tr: '',
       cs: 'Pevná kůže byla pečlivě zpracována do jemných náramků. Na straně kůže je podpis řemeslníka: "Markay\'ak"',
       zh: '堅韌的皮革經過精心製作，製成精美的臂環。皮革的側面是工匠的標誌："Markay\'ak"。'
-
     }
   },
 
@@ -77,7 +76,6 @@ export default [
       ro: 'Acest tip de brățară este ornată cu bucăți mari de oase de monstru. Multe tradiții superstițioase spun că purtătorul unei astfel de brățări devine posedat de spiritul monstrului decedat; totuși, alții spun că refolosirea acestor oase previn monștrii din a se reîncarna.',
       cs: 'Tento typ náramku je ozdobně vytvořen z tlustých kostí monster. Mnoho pověrčivých tradic tvrdí, že nositel těchto náramků je prostoupen mocí zesnulého netvora; jiní však tvrdí, že opětovné použití kostí brání vzkříšení nestvůr.',
       zh: '這種手鐲是用厚厚的怪物骨頭精心打造的。許多迷信聲稱，這種手鐲的人身上會充滿已故怪物的力量；然而，也有人聲稱，重複使用骨骼可以防止怪物復活。'
-
     }
   },
 
@@ -97,7 +95,6 @@ export default [
       ro: 'Acest tip de armură de fier a fost extrem de folosită în război iar astfel a rămas murdară. Urmele de gheare lăsate pe metal par să fie în mare parte superficiale.',
       cs: 'Tento typ železné zbroje byl hojně používán ve válce a zůstává špinavý. Stopy po drápech na kovu se zdají být většinou povrchní.',
       zh: '這種類型的鐵甲在戰爭中被大量使用，而且仍然很髒。 金屬上的爪痕大多都很淺。'
-
     }
   },
 
@@ -117,7 +114,6 @@ export default [
       ro: 'Aceste manșete din oțel sunt încastrate cu rune mici ce oferă extra protecție. Manșetele impregnate sunt oreacum rare din moment ce modul de creare a runelor este un secret.',
       cs: 'Tyto ocelové výztuhy jsou označeny malými runami, které poskytují extra ochranu. Napuštěné bracery jsou poněkud vzácné, protože způsob vytváření run je tajemstvím',
       zh: '這些鋼製護腕上標有小符文，可提供額外的保護。這些護腕有些罕見，因為符文的製造方法是個秘密。'
-
     }
   },
 
