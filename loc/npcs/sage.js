@@ -16,7 +16,6 @@ export default {
       ja: '滾る熱意は数多くの声により満たされている。空の器はより良いものへとなり得るのだ。今、其方の悟りへの道は開かれる。その身を委ねるが良い。',
       cs: 'Zatížená mysl je plná názorů; šálek může být užitečný, pokud je nejprve nalezen prázdný. Jak ti mohu být nápomocen na tvé cestě k osvícení?',
       zh: '若多物可擇，其腦重也。杯之所以為杯，空也。在你走向啟蒙的道路上，我該如何幫助你？'
-
     },
 
     choices: [{
@@ -37,7 +36,6 @@ export default {
       ja: 'ステータスポイントをリセットして下さい。 ( $g$1 )',
       cs: 'Resetuj moje statistické body ( $g$1 )',
       zh: '重製我的屬性點 ( $g$1 )'
-
     }]
   }]
 }
