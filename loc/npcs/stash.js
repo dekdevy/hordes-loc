@@ -17,7 +17,6 @@ export default {
       it: 'Sì, sono una cassa parlante, posso già vedere la domanda formarsi sulle tue labbra. Per molti anni ho servito famiglie reali, conservando le loro inestimabili gemme e gioielli, solo per me essere collocato in questo sudicio campeggio per soddisfare le vostre esigenze meschine. Ad ogni modo, vorresti che ti offrissi i miei servizi?',
       ja: 'やぁ、僕はおしゃべりチェストさ。あぁ質問は却下させて貰うよ。前は王室に仕えていて、お偉いさんの宝玉だの宝石だのを匿ってたんだけど、何だかんだあって君のちゃっちいニーズにお応えする為に小汚いキャンプに置かれる始末さ。まぁそれは置いといて、早速使ってみるかい？',
       cs: 'Ano, jsem mluvící truhla, Už vidím, jak se otázka formuluje na tvých rtech. Mnoho let sloužím královským rodinám a ukládám jejich drahocenné drahokamy a klenoty, jen abych skončil v tomto špinavém kempu a uspokojil vaše drobné potřeby. V každém případě, chtel by jsi využít mých služeb?'
-
     },
 
     // Do not translate "Stash".
@@ -39,7 +38,6 @@ export default {
       ja: 'はい、Stashを利用します。',
       cs: 'Ano, otevři Stash',
       zh: '是的，打開我的Stash'
-
     }]
   }]
 }
