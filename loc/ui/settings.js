@@ -322,27 +322,6 @@ export default {
     cs: 'Stíny'
   },
 
-  // ssao: {
-  //   en: 'Ambient Occlusion',
-  //   el: 'Ambient Occlusion',
-  //   ru: 'Окружающая окклюзия',
-  //   fr: 'Occlusion Ambiante',
-  //   pt: 'Oclusão Ambiental',
-  //   nl: 'Omgevingsocclusie',
-  //   hu: 'Környezet okklúzió',
-  //   es: 'Oclusión Ambiental',
-  //   pl: 'Okluzja otoczenia',
-  //   de: 'Umgebungsverdeckung',
-  //   vi: 'Môi trường xung quanh',
-  //   it: 'Occlusione Ambientale',
-  //   sr: 'Оклузија околине',
-  //   tr: 'Çevresel Perdeleme',
-  //   ja: '環境閉塞',
-  //   ko: '광원',
-  //   cs: 'Ambientní okluze',
-  //   zh: '環境光遮掩'
-  // },
-
   grass: {
     en: 'Grass',
     el: 'Γρασίδι',
