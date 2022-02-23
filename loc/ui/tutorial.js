@@ -218,9 +218,11 @@ export default {
     },
     {
       en: 'You can change your skill set at any time. Add a skill point to your skill to enable it.'
+      // fr: 'Vous pouvez changer votre set de compétence à tout moment. Ajoutez un point de compétence à votre compétence pour l'activer.'
     },
     {
       en: 'Now press "Apply" to activate your new skill set.'
+      // fr: 'Maintenant, cliquez sur "Appliquer" pour activer votre nouveau set de compétence.'
     },
     {
       en: 'You can click and drag a skill into your skillbar. We already did it for you!'
@@ -357,7 +359,6 @@ export default {
       // pt: 'Isso é tudo. Você completou! Você está pronto para arrasar! Sua facção depende de você.'
       // fr: 'Voilà, nous y sommes. Vous l\'avez fait. Vous êtres prêt à tuer. Votre faction dépend de vous.'
       // cs: 'A je to. Zvládl jsi to. Jsi připraven zabít. Tvá frakce zavísí na tobě.'
-
     },
     {
       en: 'Good luck, champion.'
