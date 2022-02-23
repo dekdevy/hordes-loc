@@ -39,7 +39,7 @@ export default {
       // it: 'Vai avanti e trova un mostro, quindi aggancialo facendo clic con il mouse o premendo <kbd>TAB</kbd>.'
       // pt: 'Mova-se para frente e encontre algum mosntro, então selecione-o para o combate clicando com o mouse, ou pressionando <kbd>TAB</kbd>.'
       // fr: 'Avancez et trouvez un monstre, puis ciblez-le en lui cliquant dessus avec votre souris ou en appuyant sur <kbd>TAB</kbd>.'
-      // cs: 'Popojdi vpřed a najdi monstrum, poté ho na něho zacílíš kliknutím myší nebo stisknutím klávesy <kbd> TAB </kbd>. '
+      // cs: 'Popojdi vpřed a najdi monstrum, poté ho na něho zacílíš kliknutím myší nebo stisknutím klávesy <kbd>TAB</kbd>. '
     },
     {
       en: 'This monster is now your target. Any spells you cast will be directed at your target.'
@@ -55,7 +55,7 @@ export default {
       // it: 'Puoi attaccare premendo i tasti sulla barra delle abilità. Premi <kbd>1</kbd> sulla tastiera per attaccare!'
       // pt: 'Você pode atacar pressionando as teclas na sua skillbar. Pressione <kbd>1</kbd> no seu teclado para atacar o monstro!'
       // fr: 'Vous pouvez attaquer en appuyant sur les touches de votre barre de compétences. Appuyez sur <kbd>1</kbd> sur votre clavier pour attaquer le monstre.'
-      // cs: 'Útočit můžeš stisknutím kláves na panelu dovedností. Stisknutím klávesy <kbd> 1 </kbd> na klávesnici zaútočíš na monstrum!'
+      // cs: 'Útočit můžeš stisknutím kláves na panelu dovedností. Stisknutím klávesy <kbd>1</kbd> na klávesnici zaútočíš na monstrum!'
     },
     {
       en: 'Perfect! Keep it up and deal with the monster!'
@@ -95,7 +95,7 @@ export default {
       // it: 'Hai raccolto un oggetto. Apri il tuo inventario (<kbd>B</kbd>) per vederlo.'
       // pt: 'Você acabou de pegar um item. Abra o seu inventário para (<kbd>B</kbd>) vê-lo'
       // fr: 'Vous avez rammassé un item (objet). Ouvrez votre inventaire (<kbd>B</kbd>) pour le voir.'
-      // cs: 'Sebral jsi předmět. Otevři svůj inventář (<kbd> B </kbd>), aby jsi ho viděl.'
+      // cs: 'Sebral jsi předmět. Otevři svůj inventář (<kbd>B</kbd>), aby jsi ho viděl.'
     },
     {
       en: 'Here you can see your items. The inventory size depends on the bag you have equipped.'
@@ -119,7 +119,7 @@ export default {
       // it: 'Apri il pannello del personaggio con (<kbd>C</kbd>).'
       // pt: 'Abra o painel do seu personagem (<kbd>C</kbd>).'
       // fr: 'Ouvrez la fenêtre de votre personnage (<kbd>C</kbd>).'
-      // cs: 'Otevři panel postavy.
+      // cs: 'Otevři panel postavy (<kbd>C</kbd>).
     },
     {
       en: 'You can see all equipped items in your character panel.'
