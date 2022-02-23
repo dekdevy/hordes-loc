@@ -359,7 +359,6 @@ export default {
       // pt: 'Isso é tudo. Você completou! Você está pronto para arrasar! Sua facção depende de você.'
       // fr: 'Voilà, nous y sommes. Vous l\'avez fait. Vous êtres prêt à tuer. Votre faction dépend de vous.'
       // cs: 'A je to. Zvládl jsi to. Jsi připraven zabít. Tvá frakce zavísí na tobě.'
-
     },
     {
       en: 'Good luck, champion.'
