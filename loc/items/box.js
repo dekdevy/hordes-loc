@@ -15,5 +15,11 @@ export default [
       nl: 'Verzonden vanuit de onbezochte gebieden van Faivel. De inhoud van deze kooi kan niet worden geïnspecteerd tot het geopened is.',
       zh: '來自Faivel的未開發區域，在打開之前你永遠不會知道它裡面裝了些什麼。'
     }
+  },
+  {
+    name       : {$$: 'Elixir'},
+    description: {
+      en: 'A magical blue elixir potion which grants your account useful extra features.'
+    }
   }
 ]
