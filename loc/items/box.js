@@ -19,7 +19,8 @@ export default [
   {
     name       : {$$: 'Elixir'},
     description: {
-      en: 'A magical blue elixir potion which grants your account useful extra features.'
+      en: 'A magical blue elixir potion which grants your account useful extra features.',
+      ru: 'Волшебное зелье из синего эликсира, которое дарит вашему аккаунту полезные возможности.'
     }
   }
 ]
