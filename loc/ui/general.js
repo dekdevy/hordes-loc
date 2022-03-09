@@ -142,5 +142,17 @@ export default {
     it: 'Chiudi',
     ja: '閉じる',
     cs: 'Zavřít'
+  },
+
+  buy: {
+    en: 'Buy'
+  },
+
+  gift: {
+    en: 'Gift'
+  },
+
+  add: {
+    en: 'Add'
   }
 }
