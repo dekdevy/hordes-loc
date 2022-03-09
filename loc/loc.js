@@ -92,6 +92,7 @@ import charmenu from './ui/charmenu.js'
 import chat from './ui/chat.js'
 import clan from './ui/clan.js'
 import death from './ui/death.js'
+import elixir from './ui/elixir.js'
 import general from './ui/general.js'
 import hiddenskills from './ui/hiddenskills.js'
 import inventory from './ui/inventory.js'
@@ -118,6 +119,7 @@ const ui = {
   messages,
   hiddenskills,
   report,
+  elixir,
   ...general }
 
 export default {
