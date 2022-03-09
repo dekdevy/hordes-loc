@@ -278,5 +278,13 @@ export default {
     ja: '$1を$2で売却しました。',
     cs: 'Prodal jste $1 za $2',
     zh: '你賣了$1獲得$2'
+  },
+
+  itemSearch: {
+    en: 'Search for item'
+  },
+
+  results: {
+    en: 'Results'
   }
 }
