@@ -144,10 +144,6 @@ export default {
     cs: 'Zavřít'
   },
 
-  buy: {
-    en: 'Buy'
-  },
-
   playername: {
     en: 'Enter player name'
   },
