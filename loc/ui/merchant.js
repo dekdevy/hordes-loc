@@ -305,10 +305,6 @@ export default {
     en: 'Total'
   },
 
-  price: {
-    en: 'Price'
-  },
-
   previous: {
     en: 'Prev'
   },
