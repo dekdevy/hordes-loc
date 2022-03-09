@@ -15,18 +15,22 @@ export default {
     en: 'No ads'
   },
 
+  // i.e. 25 base bag slots
   bagslots: {
     en: 'base bag slots'
   },
 
+  // i.e. 100 stash storage
   stashstorage: {
     en: 'stash storage'
   },
 
+  // i.e. 100 merchant limit
   merchantlimit: {
     en: 'merchant limit'
   },
 
+  // i.e. 24h merchant duration
   merchantduration: {
     en: 'merchant duration'
   },
