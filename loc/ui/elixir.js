@@ -49,8 +49,36 @@ export default {
     en: 'Buy'
   },
 
-  // Do not translate "Hordes Elixir"
+  notactive: {
+    en: 'Not active'
+  },
+
+  send: {
+    en: 'Send Gift'
+  },
+
+  // e.g. Enables Elixir until Jan 29, 2024 13:00. Do not translate "Elixir"
+  enable: {
+    en: 'Enables Elixir until'
+  },
+
+  // Do not translate "Elixir"
+  sendgift: {
+    en: 'Send Elixir Gift'
+  },
+
+  // Do not translate "Elixir"
+  extend: {
+    en: 'Extend Elixir'
+  },
+
+  // Do not translate "Elixir"
+  activate: {
+    en: 'Activate Elixir'
+  },
+
+  // Do not translate "Elixir"
   thankyou: {
-    en: 'Hordes Elixir time added. Thank you for your support. Please re-log any active characters.'
+    en: 'Elixir time added. Thank you for your support. Please re-log any active characters.'
   }
 }
