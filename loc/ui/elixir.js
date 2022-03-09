@@ -2,7 +2,7 @@ export default {
   chatsupport: {
     en: 'Chat supporter icon'
   },
-  
+
   noads: {
     en: 'No ads'
   },
