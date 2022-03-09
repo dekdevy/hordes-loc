@@ -146,5 +146,9 @@ export default {
 
   buy: {
     en: 'Buy'
+  },
+
+  playername: {
+    en: 'Enter player name'
   }
 }
