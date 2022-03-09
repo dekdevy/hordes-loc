@@ -57,8 +57,10 @@ export default {
     en: 'Not active'
   },
 
-  // Partial string to preserve formatting
-  // e.g. "Would you like to gift one year of Elixir?"
+  //---------------------------------------------------------------------------------------------
+  // Partial strings to preserve in-game formatting
+  // e.g. Would you like to gift one year of Elixir? This will cost 9000 Hordes Points
+  //      Would you like to give yourself one month of Elixir? This will cost 900 Hordes Points
   willgift: {
     en: 'Would you like to gift '
   },
@@ -78,6 +80,7 @@ export default {
   willcost: {
     en: 'This will cost '
   },
+  //---------------------------------------------------------------------------------------------
 
   send: {
     en: 'Send Gift'
