@@ -119,7 +119,7 @@ const ui = {
   messages,
   hiddenskills,
   report,
-  elixir
+  elixir,
   ...general }
 
 export default {
