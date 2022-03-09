@@ -69,13 +69,14 @@ export default {
     en: 'Would you like to give yourself '
   },
 
-  onemonth: {
-    en: 'one month of '
-  },
-
-  oneyear: {
-    en: 'one year of '
-  },
+  subduration: [
+    {
+      en: 'one year of '
+    },
+    {
+      en: 'one month of '
+    }
+  ],
 
   willcost: {
     en: 'This will cost '
