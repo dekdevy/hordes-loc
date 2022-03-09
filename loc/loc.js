@@ -92,6 +92,7 @@ import charmenu from './ui/charmenu.js'
 import chat from './ui/chat.js'
 import clan from './ui/clan.js'
 import death from './ui/death.js'
+import elixir from './ui/elixir.js'
 import general from './ui/general.js'
 import hiddenskills from './ui/hiddenskills.js'
 import inventory from './ui/inventory.js'
@@ -102,7 +103,6 @@ import settings from './ui/settings.js'
 import stats from './ui/stats.js'
 import title from './ui/title.js'
 import tutorial from './ui/tutorial.js'
-import elixir from './ui/elixir.js'
 const ui = {
   charmenu,
   chat,
