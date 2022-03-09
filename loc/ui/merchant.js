@@ -145,7 +145,7 @@ export default {
     el: 'Τέλη: ',
     de: 'Gebühr: ',
     nl: 'Honorarium: ',
-    ru: 'Сбор за выставление лота: ',
+    ru: 'Сбор за выставление: ',
     pt: 'Taxa: ',
     fr: 'Frais de vente: ',
     es: 'Tarifa: ',
