@@ -21,5 +21,9 @@ export default {
 
   medals: {
     en: 'Medals'
+  },
+
+  perday: {
+    en: 'per day'
   }
 }
