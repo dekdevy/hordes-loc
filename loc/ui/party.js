@@ -338,5 +338,9 @@ export default {
     ko: '매칭 중단',
     cs: 'Opustit frontu',
     zh: '離開列隊'
+  },
+
+  noParty: {
+    en: 'No Party'
   }
 }
