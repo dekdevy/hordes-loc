@@ -46,27 +46,28 @@ export default {
     cs: 'Pouze mé předměty'
   },
 
+  // Commented strings need to edited. "Buy Item" was changed to "Buy"
   buy: {
-    en: 'Buy Item',
-    el: 'Αγορά αντικειμένου',
-    nl: 'Voorwerp Kopen',
-    de: 'Item kaufen',
-    ru: 'Купить лот',
-    pt: 'Comprar Item',
-    es: 'Comprar Objeto',
-    fr: 'Acheter L\'objet',
-    ko: '아이템 구매',
-    ro: 'Cumpără Obiectul',
-    hi: 'वस्तु खरीदे',
-    zh: '買物品',
-    hu: 'Vásárlás',
-    pl: 'Kup przedmiot',
-    vi: 'Kupi',
-    it: 'Compra Oggetto',
-    sr: 'Купи предмет',
-    tr: 'Eşya Satın Al',
-    ja: 'アイテムを購入',
-    cs: 'Koupit Předmět'
+    en: 'Buy'
+    // el: 'Αγορά αντικειμένου',
+    // nl: 'Voorwerp Kopen',
+    // de: 'Item kaufen',
+    // ru: 'Купить лот',
+    // pt: 'Comprar Item',
+    // es: 'Comprar Objeto',
+    // fr: 'Acheter L\'objet',
+    // ko: '아이템 구매',
+    // ro: 'Cumpără Obiectul',
+    // hi: 'वस्तु खरीदे',
+    // zh: '買物品',
+    // hu: 'Vásárlás',
+    // pl: 'Kup przedmiot',
+    // vi: 'Kupi',
+    // it: 'Compra Oggetto',
+    // sr: 'Купи предмет',
+    // tr: 'Eşya Satın Al',
+    // ja: 'アイテムを購入',
+    // cs: 'Koupit Předmět'
   },
 
   post: {
@@ -318,5 +319,20 @@ export default {
 
   setPrice: {
     en: 'Set price'
-  }
+  },
+
+  // Purchase confirmation message for merchant window
+  // buyitem[0] itemName buyitem[1] gold buyitem[2]
+  // English: Buy Fury for 6 gold?
+  buyItem: [
+    {
+      en: 'Buy'
+    },
+    {
+      en: 'for'
+    },
+    {
+      en: '?'
+    }
+  ]
 }
