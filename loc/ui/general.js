@@ -146,13 +146,5 @@ export default {
 
   buy: {
     en: 'Buy'
-  },
-
-  gift: {
-    en: 'Gift'
-  },
-
-  add: {
-    en: 'Add'
   }
 }
