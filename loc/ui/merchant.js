@@ -25,7 +25,7 @@ export default {
 
   // Commented translations need to be edited. "My items only" changed to "My Items"
   filtermine: {
-    en: 'My Items',
+    en: 'My Items'
     // el: 'Μόνο τα αντικείμενά μου',
     // nl: 'Alleen mijn voorwerpen',
     // de: 'Nur meine Items',
