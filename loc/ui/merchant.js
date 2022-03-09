@@ -306,5 +306,13 @@ export default {
 
   price: {
     en: 'Price'
+  },
+
+  previous: {
+    en: 'Prev'
+  },
+
+  next: {
+    en: 'Next'
   }
 }
