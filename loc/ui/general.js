@@ -150,5 +150,9 @@ export default {
 
   playername: {
     en: 'Enter player name'
+  },
+
+  perday: {
+    en: 'per day'
   }
 }
