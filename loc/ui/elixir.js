@@ -57,6 +57,28 @@ export default {
     en: 'Not active'
   },
 
+  // Partial string to preserve formatting
+  // e.g. "Would you like to gift one year of Elixir?"
+  willgift: {
+    en: 'Would you like to gift '
+  },
+
+  willadd: {
+    en: 'Would you like to give yourself '
+  },
+
+  onemonth: {
+    en: 'one month of '
+  },
+
+  oneyear: {
+    en: 'one year of '
+  },
+
+  willcost: {
+    en: 'This will cost '
+  },
+
   send: {
     en: 'Send Gift'
   },
