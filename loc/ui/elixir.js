@@ -1,5 +1,5 @@
 export default {
-  chat_support: {
+  chatsupport: {
     en: "Chat supporter icon"
   }
 }
