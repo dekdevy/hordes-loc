@@ -286,5 +286,25 @@ export default {
 
   results: {
     en: 'Results'
+  },
+
+  owner: {
+    en: 'Owner'
+  },
+
+  time: {
+    en: 'Time'
+  },
+
+  perUnit: {
+    en: 'Per Unit'
+  },
+
+  total: {
+    en: 'Total'
+  },
+
+  price: {
+    en: 'Price'
   }
 }
