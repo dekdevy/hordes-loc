@@ -23,30 +23,31 @@ export default {
     cs: 'Hledat'
   },
 
+  // Commented translations need to be edited. "My items only" changed to "My Items"
   filtermine: {
-    en: 'My items only',
-    el: 'Μόνο τα αντικείμενά μου',
-    nl: 'Alleen mijn voorwerpen',
-    de: 'Nur meine Items',
-    ru: 'Только мои лоты',
-    pt: 'Apenas os meus itens',
-    fr: 'Uniquement mes objets',
-    es: 'Sólo mis objetos',
-    ko: '내 아이템만',
-    ro: 'Doar obiectele mele',
-    hi: 'मेरी वस्तुएं',
-    zh: '顯示我的物品',
-    hu: 'Csak az én tárgyaim',
-    pl: 'Tylko moje przedmioty',
-    vi: 'Chỉ trang bị của tôi',
-    sr: 'Само моји предмети',
-    it: 'Solo i miei oggetti',
-    tr: 'Sadece eşyalarım',
-    ja: '自分のアイテムのみ',
-    cs: 'Pouze mé předměty'
+    en: 'My Items',
+    // el: 'Μόνο τα αντικείμενά μου',
+    // nl: 'Alleen mijn voorwerpen',
+    // de: 'Nur meine Items',
+    // ru: 'Только мои лоты',
+    // pt: 'Apenas os meus itens',
+    // fr: 'Uniquement mes objets',
+    // es: 'Sólo mis objetos',
+    // ko: '내 아이템만',
+    // ro: 'Doar obiectele mele',
+    // hi: 'मेरी वस्तुएं',
+    // zh: '顯示我的物品',
+    // hu: 'Csak az én tárgyaim',
+    // pl: 'Tylko moje przedmioty',
+    // vi: 'Chỉ trang bị của tôi',
+    // sr: 'Само моји предмети',
+    // it: 'Solo i miei oggetti',
+    // tr: 'Sadece eşyalarım',
+    // ja: '自分のアイテムのみ',
+    // cs: 'Pouze mé předměty'
   },
 
-  // Commented strings need to edited. "Buy Item" was changed to "Buy"
+  // Commented translations need to edited. "Buy Item" changed to "Buy"
   buy: {
     en: 'Buy'
     // el: 'Αγορά αντικειμένου',
