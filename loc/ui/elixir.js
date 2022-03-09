@@ -25,5 +25,9 @@ export default {
 
   tba: {
     en: '+ more to come (TBA)'
+  },
+
+  development: {
+    en: 'Support Hordes development for a low cost. Unlock additional bag slots, store more items in your stash, make use of enhanced merchant features and many more perks (TBA).'
   }
 }
