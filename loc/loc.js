@@ -102,6 +102,7 @@ import settings from './ui/settings.js'
 import stats from './ui/stats.js'
 import title from './ui/title.js'
 import tutorial from './ui/tutorial.js'
+import elixir from './ui/elixir.js'
 const ui = {
   charmenu,
   chat,
@@ -118,6 +119,7 @@ const ui = {
   messages,
   hiddenskills,
   report,
+  elixir
   ...general }
 
 export default {
