@@ -15,6 +15,10 @@ export default {
     en: 'Prestige'
   },
 
+  rank: {
+    en: 'Rank'
+  },
+
   rating: {
     en: 'Rating'
   },
