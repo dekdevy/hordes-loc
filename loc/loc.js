@@ -89,6 +89,7 @@ const npcs = {
 import * as merchantui from './ui/merchant.js'
 import * as stashui from './ui/stash.js'
 import charmenu from './ui/charmenu.js'
+import charpanel from './ui/charpanel.js'
 import chat from './ui/chat.js'
 import clan from './ui/clan.js'
 import death from './ui/death.js'
@@ -105,6 +106,7 @@ import title from './ui/title.js'
 import tutorial from './ui/tutorial.js'
 const ui = {
   charmenu,
+  charpanel,
   chat,
   clan,
   inventory,
