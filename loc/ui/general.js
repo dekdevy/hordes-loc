@@ -174,5 +174,9 @@ export default {
 
   back: {
     en: 'Back to Menu'
+  },
+
+  streamLoad: {
+    en: 'Loading streams...'
   }
 }
