@@ -174,5 +174,9 @@ export default {
 
   streamLoad: {
     en: 'Loading streams...'
+  },
+
+  all: {
+    en: 'All'
   }
 }
