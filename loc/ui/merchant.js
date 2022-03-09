@@ -72,7 +72,7 @@ export default {
   post: {
     en: 'Post Item',
     el: 'Δημοσίευση αντικειμένου',
-    ru: 'Выставить лот',
+    ru: 'Выставить',
     nl: 'Plaatsen Voorwerp',
     es: 'Publicar Objeto',
     fr: 'Soumettre L\'objet',
@@ -314,5 +314,9 @@ export default {
 
   next: {
     en: 'Next'
+  },
+
+  setPrice: {
+    en: 'Set price'
   }
 }
