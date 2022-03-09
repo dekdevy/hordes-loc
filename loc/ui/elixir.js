@@ -1,5 +1,5 @@
 export default {
   chatsupport: {
-    en: "Chat supporter icon"
+    en: 'hat supporter icon'
   }
 }
