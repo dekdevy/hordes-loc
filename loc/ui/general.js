@@ -178,9 +178,5 @@ export default {
 
   streamLoad: {
     en: 'Loading streams...'
-  },
-
-  itemSearch: {
-    en: 'Search for item'
   }
 }
