@@ -150,5 +150,29 @@ export default {
 
   playername: {
     en: 'Enter player name'
+  },
+
+  character: {
+    en: 'Character'
+  },
+
+  skills: {
+    en: 'Skills'
+  },
+
+  pvp: {
+    en: 'PvP'
+  },
+
+  dpsMeter: {
+    en: 'DPS Meter'
+  },
+
+  fullscreen: {
+    en: 'Fullscreen'
+  },
+
+  back: {
+    en: 'Back to Menu'
   }
 }
