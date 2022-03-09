@@ -172,7 +172,7 @@ export default {
     en: 'Fullscreen'
   },
 
-  back: {
+  menuReturn: {
     en: 'Back to Menu'
   },
 
