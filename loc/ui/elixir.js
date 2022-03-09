@@ -83,7 +83,7 @@ export default {
   //---------------------------------------------------------------------------------------------
 
   send: {
-    en: 'Send Elixir Gift'
+    en: 'Send Gift'
   },
 
   // e.g. Enables Elixir until Jan 29, 2024 13:00. Do not translate "Elixir"
