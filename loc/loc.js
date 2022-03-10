@@ -121,9 +121,11 @@ const ui = {
   tutorial,
   title,
   messages,
+  headers,
   hiddenskills,
   report,
   elixir,
+  skilltarget,
   ...general }
 
 export default {
