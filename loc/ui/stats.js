@@ -24,11 +24,10 @@ export default {
       cs: 'Poškození'
       // pl: 'Obrażenia'
       // vi: 'Sát thương'
+    },
+    healing: {
+      en: 'Healing'
     }
-  },
-
-  healing: {
-    en: 'Healing'
   },
 
   array: [
