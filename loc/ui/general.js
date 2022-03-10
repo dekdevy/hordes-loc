@@ -178,5 +178,9 @@ export default {
 
   all: {
     en: 'All'
+  },
+
+  filter: {
+    en: 'Filter'
   }
 }
