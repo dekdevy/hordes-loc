@@ -148,30 +148,6 @@ export default {
     en: 'Enter player name'
   },
 
-  character: {
-    en: 'Character'
-  },
-
-  skills: {
-    en: 'Skills'
-  },
-
-  pvp: {
-    en: 'PvP'
-  },
-
-  dpsMeter: {
-    en: 'DPS Meter'
-  },
-
-  fullscreen: {
-    en: 'Fullscreen'
-  },
-
-  menuReturn: {
-    en: 'Back to Menu'
-  },
-
   streamLoad: {
     en: 'Loading streams...'
   },
