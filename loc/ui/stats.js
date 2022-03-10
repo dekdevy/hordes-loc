@@ -27,6 +27,10 @@ export default {
     }
   },
 
+  healing: {
+    en: 'Healing'
+  },
+
   array: [
     {
       en: 'Strength',
