@@ -89,22 +89,26 @@ const npcs = {
 import * as merchantui from './ui/merchant.js'
 import * as stashui from './ui/stash.js'
 import charmenu from './ui/charmenu.js'
+import charpanel from './ui/charpanel.js'
 import chat from './ui/chat.js'
 import clan from './ui/clan.js'
 import death from './ui/death.js'
 import elixir from './ui/elixir.js'
 import general from './ui/general.js'
+import headers from './ui/headers.js'
 import hiddenskills from './ui/hiddenskills.js'
 import inventory from './ui/inventory.js'
 import messages from './ui/messages.js'
 import party from './ui/party.js'
 import report from './ui/report.js'
 import settings from './ui/settings.js'
+import skilltarget from './ui/skilltarget.js'
 import stats from './ui/stats.js'
 import title from './ui/title.js'
 import tutorial from './ui/tutorial.js'
 const ui = {
   charmenu,
+  charpanel,
   chat,
   clan,
   inventory,
@@ -117,9 +121,11 @@ const ui = {
   tutorial,
   title,
   messages,
+  headers,
   hiddenskills,
   report,
   elixir,
+  skilltarget,
   ...general }
 
 export default {

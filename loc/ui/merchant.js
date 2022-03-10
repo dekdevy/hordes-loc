@@ -23,56 +23,58 @@ export default {
     cs: 'Hledat'
   },
 
+  // Commented translations need to be edited. "My items only" changed to "My Items"
   filtermine: {
-    en: 'My items only',
-    el: 'Μόνο τα αντικείμενά μου',
-    nl: 'Alleen mijn voorwerpen',
-    de: 'Nur meine Items',
-    ru: 'Только мои лоты',
-    pt: 'Apenas os meus itens',
-    fr: 'Uniquement mes objets',
-    es: 'Sólo mis objetos',
-    ko: '내 아이템만',
-    ro: 'Doar obiectele mele',
-    hi: 'मेरी वस्तुएं',
-    zh: '顯示我的物品',
-    hu: 'Csak az én tárgyaim',
-    pl: 'Tylko moje przedmioty',
-    vi: 'Chỉ trang bị của tôi',
-    sr: 'Само моји предмети',
-    it: 'Solo i miei oggetti',
-    tr: 'Sadece eşyalarım',
-    ja: '自分のアイテムのみ',
-    cs: 'Pouze mé předměty'
+    en: 'My Items'
+    // el: 'Μόνο τα αντικείμενά μου',
+    // nl: 'Alleen mijn voorwerpen',
+    // de: 'Nur meine Items',
+    // ru: 'Только мои лоты',
+    // pt: 'Apenas os meus itens',
+    // fr: 'Uniquement mes objets',
+    // es: 'Sólo mis objetos',
+    // ko: '내 아이템만',
+    // ro: 'Doar obiectele mele',
+    // hi: 'मेरी वस्तुएं',
+    // zh: '顯示我的物品',
+    // hu: 'Csak az én tárgyaim',
+    // pl: 'Tylko moje przedmioty',
+    // vi: 'Chỉ trang bị của tôi',
+    // sr: 'Само моји предмети',
+    // it: 'Solo i miei oggetti',
+    // tr: 'Sadece eşyalarım',
+    // ja: '自分のアイテムのみ',
+    // cs: 'Pouze mé předměty'
   },
 
+  // Commented translations need to edited. "Buy Item" changed to "Buy"
   buy: {
-    en: 'Buy Item',
-    el: 'Αγορά αντικειμένου',
-    nl: 'Voorwerp Kopen',
-    de: 'Item kaufen',
-    ru: 'Купить лот',
-    pt: 'Comprar Item',
-    es: 'Comprar Objeto',
-    fr: 'Acheter L\'objet',
-    ko: '아이템 구매',
-    ro: 'Cumpără Obiectul',
-    hi: 'वस्तु खरीदे',
-    zh: '買物品',
-    hu: 'Vásárlás',
-    pl: 'Kup przedmiot',
-    vi: 'Kupi',
-    it: 'Compra Oggetto',
-    sr: 'Купи предмет',
-    tr: 'Eşya Satın Al',
-    ja: 'アイテムを購入',
-    cs: 'Koupit Předmět'
+    en: 'Buy'
+    // el: 'Αγορά αντικειμένου',
+    // nl: 'Voorwerp Kopen',
+    // de: 'Item kaufen',
+    // ru: 'Купить лот',
+    // pt: 'Comprar Item',
+    // es: 'Comprar Objeto',
+    // fr: 'Acheter L\'objet',
+    // ko: '아이템 구매',
+    // ro: 'Cumpără Obiectul',
+    // hi: 'वस्तु खरीदे',
+    // zh: '買物品',
+    // hu: 'Vásárlás',
+    // pl: 'Kup przedmiot',
+    // vi: 'Kupi',
+    // it: 'Compra Oggetto',
+    // sr: 'Купи предмет',
+    // tr: 'Eşya Satın Al',
+    // ja: 'アイテムを購入',
+    // cs: 'Koupit Předmět'
   },
 
   post: {
     en: 'Post Item',
     el: 'Δημοσίευση αντικειμένου',
-    ru: 'Выставить лот',
+    ru: 'Выставить',
     nl: 'Plaatsen Voorwerp',
     es: 'Publicar Objeto',
     fr: 'Soumettre L\'objet',
@@ -145,7 +147,7 @@ export default {
     el: 'Τέλη: ',
     de: 'Gebühr: ',
     nl: 'Honorarium: ',
-    ru: 'Сбор за выставление лота: ',
+    ru: 'Сбор за выставление: ',
     pt: 'Taxa: ',
     fr: 'Frais de vente: ',
     es: 'Tarifa: ',
@@ -278,5 +280,56 @@ export default {
     ja: '$1を$2で売却しました。',
     cs: 'Prodal jste $1 za $2',
     zh: '你賣了$1獲得$2'
-  }
+  },
+
+  itemSearch: {
+    en: 'Search for item'
+  },
+
+  results: {
+    en: 'Results'
+  },
+
+  owner: {
+    en: 'Owner'
+  },
+
+  time: {
+    en: 'Time'
+  },
+
+  perUnit: {
+    en: 'Per Unit'
+  },
+
+  total: {
+    en: 'Total'
+  },
+
+  previous: {
+    en: 'Prev'
+  },
+
+  next: {
+    en: 'Next'
+  },
+
+  setPrice: {
+    en: 'Set price'
+  },
+
+  // Purchase confirmation message for merchant window
+  // buyitem[0] itemName buyitem[1] gold buyitem[2]
+  // English: Buy Fury for 6 gold?
+  buyItem: [
+    {
+      en: 'Buy'
+    },
+    {
+      en: 'for'
+    },
+    {
+      en: '?'
+    }
+  ]
 }

@@ -27,6 +27,10 @@ export default {
     }
   },
 
+  healing: {
+    en: 'Healing'
+  },
+
   array: [
     {
       en: 'Strength',
@@ -287,7 +291,7 @@ export default {
     {
       en: 'Haste',
       el: 'Φούρια',
-      ru: 'Ск.Умен',
+      ru: 'Ск. Умен',
       es: 'Rapidez',
       pt: 'Rapidez',
       fr: 'Hâte',
@@ -445,7 +449,8 @@ export default {
     },
 
     {
-      $$: 'PvP Level'
+      en: 'PvP Level',
+      ru: 'Уровень PvP'
     },
 
     {

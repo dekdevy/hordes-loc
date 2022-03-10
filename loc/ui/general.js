@@ -144,7 +144,19 @@ export default {
     cs: 'Zavřít'
   },
 
-  buy: {
-    en: 'Buy'
+  playername: {
+    en: 'Enter player name'
+  },
+
+  streamLoad: {
+    en: 'Loading streams...'
+  },
+
+  all: {
+    en: 'All'
+  },
+
+  filter: {
+    en: 'Filter'
   }
 }
