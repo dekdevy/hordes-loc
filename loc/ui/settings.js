@@ -800,7 +800,7 @@ export default {
   },
 
   classcolors: {
-    en: ''
+    en: 'Class color bars'
   },
 
   transparency: {
