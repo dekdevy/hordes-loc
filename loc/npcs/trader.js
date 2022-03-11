@@ -142,5 +142,9 @@ export default {
 
   select: {
     en: 'Select an item to sell'
+  },
+
+  name: {
+    en: 'Trader'
   }
 }
