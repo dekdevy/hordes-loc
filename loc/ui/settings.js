@@ -401,7 +401,7 @@ export default {
     cs: 'Částice'
   },
 
- fogpatter: {
+  fogpattern: {
     en: 'Fog patern'
   },
 
