@@ -144,6 +144,14 @@ export default {
     cs: 'Zavřít'
   },
 
+  reset: {
+    en: 'Reset'
+  },
+
+  disable: {
+    en: 'Disable'
+  },
+
   playername: {
     en: 'Enter player name'
   },
