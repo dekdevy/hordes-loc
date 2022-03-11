@@ -47,6 +47,14 @@ export default {
     cs: 'Ovládání'
   },
 
+  skillbar: {
+    en: 'Skillbar'
+  },
+
+  skillbarslots: {
+    en: 'Skillbar slots'
+  },
+
   keybindings: {
     en: 'Key bindings',
     el: 'Πλήκτρα',
@@ -66,6 +74,10 @@ export default {
     ja: 'キー割り当て',
     ko: '키 고정',
     cs: 'Klávesové zkratky'
+  },
+
+  bindingreset: {
+    en: 'To reset, leave field blank.'
   },
 
   camera: {
@@ -278,6 +290,10 @@ export default {
     zh: '禁止鎖定視野外生物'
   },
 
+  offscreendesc: {
+    en: 'Improves Performance but mutes offscreen action'
+  },
+
   skilleffects: {
     en: 'Skill Effects',
     el: 'Εφέ Ξορκιών',
@@ -385,6 +401,26 @@ export default {
     cs: 'Částice'
   },
 
+ fogpatter: {
+    en: 'Fog patern'
+  },
+
+  shadowresolution: {
+    en: 'Shadow Resolution'
+  },
+
+  realtimeshadows: {
+    en: 'Real time environment shadows'
+  },
+
+  creatureshadows: {
+    en: 'Shadows on creatures'
+  },
+
+  anisotropy: {
+    en: 'Anisotropy'
+  },
+
   // ---- Audio
   audio: {
     en: 'Audio',
@@ -430,6 +466,14 @@ export default {
     ja: '効果音',
     cs: 'Hlasitost SFX',
     zh: '音效音量'
+  },
+
+  sfxmultiplier: {
+    en: 'External SFX Multiplier'
+  },
+
+  multiplierdesc: {
+    en: 'Spells not cast by you can be reduced in volume. 100% = No sound reduction, 50% = half volume.'
   },
 
   ambiencevolume: {
@@ -751,5 +795,9 @@ export default {
     ja: 'モンスターを表示',
     ko: '몬스터 표시',
     cs: 'Zobrazit monstra'
+  },
+
+  reload: {
+    en: 'Requires reload'
   }
 }
