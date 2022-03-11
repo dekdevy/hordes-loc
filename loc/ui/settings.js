@@ -754,6 +754,151 @@ export default {
     cs: 'Vypnout vyukový program'
   },
 
+  fpsping: {
+    $$: 'FPS / Ping'
+  },
+
+  // Do not translate "FPS / Ping"
+  showfps: {
+    en: 'Show FPS / PING'
+  },
+
+  nameplates: {
+    en: 'Nameplates'
+  },
+
+  drawrange: {
+    en: 'Draw range'
+  },
+
+  monsterbars: {
+    en: 'Monster bars'
+  },
+
+  monsternames: {
+    en: 'Monster names'
+  },
+
+  friendlyplayerbars: {
+    en: 'Friendly player bars'
+  },
+
+  friendlyplayernames: {
+    en: 'Friendly player names'
+  },
+
+  enemyplayerbars: {
+    en: 'Enemy player bars'
+  },
+
+  enemyplayernames: {
+    en: 'Enemy player names'
+  },
+
+  showlevel: {
+    en: 'Always show level'
+  },
+
+  classcolors: {
+    en: ''
+  },
+
+  transparency: {
+    en: 'Transparency'
+  },
+
+  drops: {
+    en: 'Drops'
+  },
+
+  showquality: {
+    en: 'Show Drop Quality%'
+  },
+
+  qualitymin: {
+    en: 'Drop Quality% Minimum'
+  },
+
+  excludedrops: {
+    en: 'Exclude Drop Types'
+  },
+
+  damagehealing: {
+    en: 'Damage & Healing'
+  },
+
+  incomingdamage: {
+    en: 'Incoming Damage'
+  },
+
+  incominghealing: {
+    en: 'Incoming healing'
+  },
+
+  incomingmana: {
+    en: 'Incoming mana'
+  },
+
+  preventoverlap: {
+    en: 'Prevent overlapping numbers'
+  },
+
+  icons: {
+    en: 'Icons & Buffs'
+  },
+
+  skillcdtext: {
+    en: 'Cooldown text (skills)'
+  },
+
+  buffcdtext: {
+    en: 'Cooldown text (buffs)'
+  },
+
+  selfbuffsonly: {
+    en: 'Show your buffs only'
+  },
+
+  flashinterval: {
+    en: 'Buff timeout flash interval'
+  },
+
+  flashduration: {
+    en: 'Buff timeout flash duration'
+  },
+
+  buffmax: {
+    en: 'Buff maximum'
+  },
+
+  buffmaxparty: {
+    en: 'Buff maximum (party)'
+  },
+
+  updateratelimit: {
+    en: 'Limited party buff update rate'
+  },
+
+  unitframes: {
+    en: 'Unitframes'
+  },
+
+  showselfparty: {
+    en: 'Show self in party'
+  },
+
+  partymana: {
+    en: 'Party mana'
+  },
+
+  partyframewidth: {
+    en: 'Party frame width'
+  },
+
+  protectedquality: {
+    en: 'Protected item quality'
+  },
+
   // ---- map
   maplowqual: {
     en: 'Low quality mode',
