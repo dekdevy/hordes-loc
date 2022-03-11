@@ -824,11 +824,11 @@ export default {
   },
 
   damagehealing: {
-    en: 'Damage \& Healing'
+    en: 'Damage & Healing'
   },
 
   incomingdamage: {
-    en: 'Incoming Damage'
+    en: 'Incoming damage'
   },
 
   incominghealing: {
@@ -844,7 +844,7 @@ export default {
   },
 
   icons: {
-    en: 'Icons \& Buffs'
+    en: 'Icons & Buffs'
   },
 
   skillcdtext: {
