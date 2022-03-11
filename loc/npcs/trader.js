@@ -134,5 +134,13 @@ export default {
     it: 'Sei interessato a qualcosa? Fai clic su un articolo per acquistarlo.',
     ja: '何か興味がありますか？クリックして購入して下さい。',
     cs: 'Zajímá tě něco? Kliknutím koupíš předmět'
+  },
+
+  refuse: {
+    en: 'The trader does not want this item'
+  },
+
+  select: {
+    en: 'Select an item to sell'
   }
 }
