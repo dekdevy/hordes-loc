@@ -47,6 +47,14 @@ export default {
     cs: 'Ovládání'
   },
 
+  skillbar: {
+    en: 'Skillbar'
+  },
+
+  skillbarslots: {
+    en: 'Skillbar slots'
+  },
+
   keybindings: {
     en: 'Key bindings',
     el: 'Πλήκτρα',
@@ -66,6 +74,10 @@ export default {
     ja: 'キー割り当て',
     ko: '키 고정',
     cs: 'Klávesové zkratky'
+  },
+
+  bindingreset: {
+    en: 'To reset, leave field blank.'
   },
 
   camera: {
@@ -278,6 +290,10 @@ export default {
     zh: '禁止鎖定視野外生物'
   },
 
+  offscreendesc: {
+    en: 'Improves Performance but mutes offscreen action'
+  },
+
   skilleffects: {
     en: 'Skill Effects',
     el: 'Εφέ Ξορκιών',
@@ -385,6 +401,26 @@ export default {
     cs: 'Částice'
   },
 
+  fogpattern: {
+    en: 'Fog patern'
+  },
+
+  shadowresolution: {
+    en: 'Shadow Resolution'
+  },
+
+  realtimeshadows: {
+    en: 'Real time environment shadows'
+  },
+
+  creatureshadows: {
+    en: 'Shadows on creatures'
+  },
+
+  anisotropy: {
+    en: 'Anisotropy'
+  },
+
   // ---- Audio
   audio: {
     en: 'Audio',
@@ -430,6 +466,14 @@ export default {
     ja: '効果音',
     cs: 'Hlasitost SFX',
     zh: '音效音量'
+  },
+
+  sfxmultiplier: {
+    en: 'External SFX Multiplier'
+  },
+
+  multiplierdesc: {
+    en: 'Spells not cast by you can be reduced in volume. 100% = No sound reduction, 50% = half volume.'
   },
 
   ambiencevolume: {
@@ -710,6 +754,151 @@ export default {
     cs: 'Vypnout vyukový program'
   },
 
+  fpsping: {
+    $$: 'FPS / Ping'
+  },
+
+  // Do not translate "FPS / Ping"
+  showfps: {
+    en: 'Show FPS / PING'
+  },
+
+  nameplates: {
+    en: 'Nameplates'
+  },
+
+  drawrange: {
+    en: 'Draw range'
+  },
+
+  monsterbars: {
+    en: 'Monster bars'
+  },
+
+  monsternames: {
+    en: 'Monster names'
+  },
+
+  friendlyplayerbars: {
+    en: 'Friendly player bars'
+  },
+
+  friendlyplayernames: {
+    en: 'Friendly player names'
+  },
+
+  enemyplayerbars: {
+    en: 'Enemy player bars'
+  },
+
+  enemyplayernames: {
+    en: 'Enemy player names'
+  },
+
+  showlevel: {
+    en: 'Always show level'
+  },
+
+  classcolors: {
+    en: 'Class color bars'
+  },
+
+  transparency: {
+    en: 'Transparency'
+  },
+
+  drops: {
+    en: 'Drops'
+  },
+
+  showquality: {
+    en: 'Show Drop Quality%'
+  },
+
+  qualitymin: {
+    en: 'Drop Quality% Minimum'
+  },
+
+  excludedrops: {
+    en: 'Exclude Drop Types'
+  },
+
+  damagehealing: {
+    en: 'Damage & Healing'
+  },
+
+  incomingdamage: {
+    en: 'Incoming damage'
+  },
+
+  incominghealing: {
+    en: 'Incoming healing'
+  },
+
+  incomingmana: {
+    en: 'Incoming mana'
+  },
+
+  preventoverlap: {
+    en: 'Prevent overlapping numbers'
+  },
+
+  icons: {
+    en: 'Icons & Buffs'
+  },
+
+  skillcdtext: {
+    en: 'Cooldown text (skills)'
+  },
+
+  buffcdtext: {
+    en: 'Cooldown text (buffs)'
+  },
+
+  selfbuffsonly: {
+    en: 'Show your buffs only'
+  },
+
+  flashinterval: {
+    en: 'Buff timeout flash interval'
+  },
+
+  flashduration: {
+    en: 'Buff timeout flash duration'
+  },
+
+  buffmax: {
+    en: 'Buff maximum'
+  },
+
+  buffmaxparty: {
+    en: 'Buff maximum (party)'
+  },
+
+  updateratelimit: {
+    en: 'Limited party buff update rate'
+  },
+
+  unitframes: {
+    en: 'Unitframes'
+  },
+
+  showselfparty: {
+    en: 'Show self in party'
+  },
+
+  partymana: {
+    en: 'Party mana'
+  },
+
+  partyframewidth: {
+    en: 'Party frame width'
+  },
+
+  protectedquality: {
+    en: 'Protected item quality'
+  },
+
   // ---- map
   maplowqual: {
     en: 'Low quality mode',
@@ -751,5 +940,9 @@ export default {
     ja: 'モンスターを表示',
     ko: '몬스터 표시',
     cs: 'Zobrazit monstra'
+  },
+
+  reload: {
+    en: 'Requires reload'
   }
 }
