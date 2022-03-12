@@ -174,5 +174,9 @@ export default {
 
   default: {
     en: 'Default'
+  },
+
+  learnable: {
+    en: 'Learnable Lv.'
   }
 }
