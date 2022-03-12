@@ -176,6 +176,10 @@ export default {
     en: 'Default'
   },
 
+  find: {
+    en: 'Find'
+  },
+
   learnable: {
     en: 'Learnable Lv.'
   }
