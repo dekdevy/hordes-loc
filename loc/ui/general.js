@@ -176,8 +176,14 @@ export default {
     en: 'Default'
   },
 
+  // Used for party and arena searching
   find: {
     en: 'Find'
+  },
+
+  // Used for party and arena searching
+  searching: {
+    en: 'Searching...'
   },
 
   learnable: {
