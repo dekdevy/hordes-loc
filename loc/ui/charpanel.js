@@ -11,10 +11,6 @@ export default {
     en: 'Faction'
   },
 
-  prestige: {
-    en: 'Prestige'
-  },
-
   rank: {
     en: 'Rank'
   },
