@@ -144,6 +144,14 @@ export default {
     cs: 'Vytvořit'
   },
 
+  noclan: {
+    en: 'You have no clan'
+  },
+
+  viewinvites: {
+    en: 'View invitations'
+  },
+
   roles: [
     { $$: 'Member' },
     { $$: 'Assistant' },
