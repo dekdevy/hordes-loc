@@ -15,6 +15,10 @@ export default {
     en: 'Interaction'
   },
 
+  request: {
+    en: 'Request'
+  },
+
   dpsMeter: {
     en: 'DPS Meter'
   },
