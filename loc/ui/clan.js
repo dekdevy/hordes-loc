@@ -152,6 +152,10 @@ export default {
     en: 'View invitations'
   },
 
+  action: {
+    en: 'Action'
+  },
+
   roles: [
     { $$: 'Member' },
     { $$: 'Assistant' },
