@@ -186,7 +186,7 @@ export default {
   // for "invited" should go into the first array element
   invited: [
     {
-      en: ''
+      en: ' '
     },
     {
       en: ' invited'
