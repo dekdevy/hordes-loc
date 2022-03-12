@@ -125,7 +125,7 @@ const ui = {
   hiddenskills,
   report,
   elixir,
-  skilltarget,
+  skilldescription,
   ...general }
 
 export default {
