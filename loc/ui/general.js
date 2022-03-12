@@ -170,5 +170,9 @@ export default {
 
   apply: {
     en: 'Apply'
+  },
+
+  default: {
+    en: 'Default'
   }
 }
