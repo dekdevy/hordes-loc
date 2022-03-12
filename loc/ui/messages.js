@@ -87,6 +87,10 @@ export default {
     cs: '$1 požádal o vstup do tvého klanu'
   },
 
+  clanSelfApply: {
+    en: 'Applied to clan'
+  },
+
   clanMemberRolePromote: {
     en: '$1 was promoted in clan role.',
     el: 'Ο παίκτης $1 προάχθηκε.',
