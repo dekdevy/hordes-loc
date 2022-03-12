@@ -156,6 +156,11 @@ export default {
     en: 'Action'
   },
 
+  application:
+  {
+    en: 'Application'
+  },
+
   roles: [
     { $$: 'Member' },
     { $$: 'Assistant' },
