@@ -188,5 +188,9 @@ export default {
 
   learnable: {
     en: 'Learnable Lv.'
+  },
+
+  cost: {
+    en: 'Cost'
   }
 }
