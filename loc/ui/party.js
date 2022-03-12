@@ -345,6 +345,6 @@ export default {
   },
 
   name: {
-    en: 'Party'
+    $$: 'Party'
   }
 }
