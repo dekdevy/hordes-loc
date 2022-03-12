@@ -530,7 +530,7 @@ export default {
       zh: '治療減少'
       // pl: 'Ograniczenie leczenia',
     },
- 
+
     {
       en: 'Prestige'
     }
