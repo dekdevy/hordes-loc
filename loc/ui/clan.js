@@ -168,7 +168,89 @@ export default {
   setrank: {
     en: 'Set rank'
   },
-  
+
+  left: {
+    en: 'Left the clan'
+  },
+
+  memberkicked: {
+    en: 'Member kicked'
+  },
+
+  applied: {
+    en: 'Applied to clan'
+  },
+
+  // 
+  invited: [
+    {
+      en: ''
+    },
+    {
+      en: ' invited'
+    }
+  ],
+
+  applicationaccept: {
+    en: 'Accept application'
+  },
+
+  applicationaccepted: {
+    en: 'Accepted application'
+  },
+
+  applicationdeny: {
+    en: 'Deny application'
+  },
+
+  applicationdenied: {
+    en: 'Denied application'
+  },
+
+  level: {
+    en: 'Clan Level'
+  },
+
+  capacity: {
+    en: 'Capacity'
+  },
+
+  nextlevel: {
+    en: 'Next Level'
+  },
+
+  taxrate: {
+    en: 'Tax rate'
+  },
+
+  members: {
+    en: 'Members'
+  },
+
+  online: {
+    en: 'Online'
+  },
+
+  treasury: {
+    en: 'Treasury'
+  },
+
+  highestrank: {
+    en: 'Your highest rank'
+  },
+
+  inviteplayers: {
+    en: 'Invite players'
+  },
+
+  inviteplayer: {
+    en: 'Invite player'
+  },
+
+  apply: {
+    en: 'Apply to clan (request invitation)'
+  },
+
   roles: [
     { $$: 'Member' },
     { $$: 'Assistant' },
