@@ -161,6 +161,14 @@ export default {
     en: 'Application'
   },
 
+  kick: {
+    en: 'Kick member'
+  },
+
+  setrank: {
+    en: 'Set rank'
+  },
+  
   roles: [
     { $$: 'Member' },
     { $$: 'Assistant' },
