@@ -11,6 +11,10 @@ export default {
     en: 'PvP'
   },
 
+  interaction: {
+    en: 'Interaction'
+  },
+
   dpsMeter: {
     en: 'DPS Meter'
   },
