@@ -291,7 +291,7 @@ export default {
   },
 
   offscreendesc: {
-    en: 'Improves Performance but mutes offscreen action'
+    en: 'Improves performance but mutes offscreen action'
   },
 
   skilleffects: {
@@ -402,7 +402,7 @@ export default {
   },
 
   fogpattern: {
-    en: 'Fog patern'
+    en: 'Fog pattern'
   },
 
   shadowresolution: {
