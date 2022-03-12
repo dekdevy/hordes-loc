@@ -59,14 +59,6 @@ export default {
     cs: '$1 opustil tvůj klan'
   },
 
-  clanSelfLeave: {
-    en: 'Left the clan'
-  },
-
-  clanMemberKicked: {
-    en: 'Member kicked'
-  },
-
   clanMemberApply: {
     en: '$1 has applied to join your clan.',
     el: 'Ο παίκτης $1 έχει κάνει αίτηση για να προσχωρήσει στην φατρία σου.',
@@ -85,10 +77,6 @@ export default {
     ja: '$1 がクラン入隊の志願を送りました。',
     ko: '$1 이(가) 클랜에 참여하고 싶어합니다.',
     cs: '$1 požádal o vstup do tvého klanu'
-  },
-
-  clanSelfApply: {
-    en: 'Applied to clan'
   },
 
   clanMemberRolePromote: {
