@@ -181,7 +181,9 @@ export default {
     en: 'Applied to clan'
   },
 
-  // 
+  // en: PlayerName invited
+  // Some languages may require "invited" to go before the player name, in which case the translation
+  // for "invited" should go into the first array element
   invited: [
     {
       en: ''
