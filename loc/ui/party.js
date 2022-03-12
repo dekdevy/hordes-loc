@@ -346,5 +346,9 @@ export default {
 
   name: {
     $$: 'Party'
+  },
+
+  members: {
+    en: 'members'
   }
 }
