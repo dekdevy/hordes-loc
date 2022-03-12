@@ -253,6 +253,28 @@ export default {
     en: 'Apply to clan (request invitation)'
   },
 
+  applications:
+  {
+    en: 'Applications'
+  },
+
+  applicationdesc: {
+    en: 'This is a list of active applications to your clan. Right click to accept an application and invite the player to your clan'
+  },
+
+  player: {
+    en: 'Player'
+  },
+
+  memberdesc: {
+    en: 'This is a list of active members of this clan. Right click the members for additional options.'
+  },
+
+  // Member, Assistant, Officer, Owner
+  rank: {
+    en: 'Rank'
+  },
+
   roles: [
     { $$: 'Member' },
     { $$: 'Assistant' },
