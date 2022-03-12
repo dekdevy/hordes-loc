@@ -46,7 +46,7 @@ export default {
   spellCustom: {
     en: 'Effect'
   },
-  
+
   // eg: For 1 Intelligence gain 0.4 Min Dmg.
   statincrement: [
     {
