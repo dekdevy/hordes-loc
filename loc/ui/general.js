@@ -166,5 +166,9 @@ export default {
 
   filter: {
     en: 'Filter'
+  },
+
+  apply: {
+    en: 'Apply'
   }
 }
