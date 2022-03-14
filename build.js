@@ -23,15 +23,24 @@ const findLang = (obj, types)=>{
 }
 console.log('Detecting loc types...')
 const languages = findLang(loc, new Map())
-console.log(`  Found ${languages.size} languages`)
 
+// add debugging languages and replacers
+languages.set('_db1', {})
+languages.set('_db2', {})
+const debugReplace = {
+  _db1: () => '🍎',
+  _db2: (key) => `{${key}}`}
+
+console.log(`  Found ${languages.size} languages`)
 // next, compile each language type to its own file
 // we search for strings present for the lang type, if not found, we fall back to english
 // if not even english is present (should never be the case), we fall back to whatever is present
-const compile = (obj, lang, currentType, metrics)=>{
+const compile = (obj, lang, currentType, metrics, tree)=>{
+
   // iterate object props recursively
   Object.entries(obj).forEach( ([key, value]) => {
     if(key == '$$') return
+    const ref = `${tree?tree+'.':''}${key}`
     // check whether value is object or string
     if(typeof value  === 'object') {
       // if object, check whether object has strings as children
@@ -40,7 +49,8 @@ const compile = (obj, lang, currentType, metrics)=>{
         if(value[currentType] !== undefined) {
         // i guess they never miss huh
           metrics.hit++
-          lang[key] = value[currentType]
+          lang[key] = debugReplace[currentType] ?
+            debugReplace[currentType](ref) : value[currentType]
         } else {
           // if we have no translation, fall back to value
           // fall back order: $$, en, any other
@@ -48,12 +58,13 @@ const compile = (obj, lang, currentType, metrics)=>{
           if(!fallback) throw 'Error: emtpy translation:' + key
           // if it is not an untranslated, it is a missing translation
           if(value['$$'] === undefined) metrics.miss++
-          lang[key] = fallback
+          lang[key] = debugReplace[currentType] ?
+            debugReplace[currentType](ref) : fallback
         }
       } else {
         // no strings as children, meaning we should iterate deeper
         compile(value, lang[key] = (value.length ? [] : {}),
-          currentType, metrics)
+          currentType, metrics, ref)
       }
     }
   })
@@ -68,9 +79,11 @@ languages.forEach((lang, type) => {
 
   const amount = `${String(metrics.hit).padStart(3, ' ')}/${metrics.hit+metrics.miss}`
   const percentage = ((metrics.hit/(metrics.hit+metrics.miss))*100) >> 0
-  results.push({
-    count : metrics.hit,
-    string: `  ${type} → ${amount} ${String(percentage).padStart(3, ' ')}%`})
+  if(!type.includes('_'))
+    results.push({
+      type,
+      count : metrics.hit,
+      string: `  ${type} → ${amount} ${String(percentage).padStart(3, ' ')}%`})
 })
 
 // sort, print
