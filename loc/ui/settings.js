@@ -900,6 +900,10 @@ export default {
   },
 
   // ---- map
+  map: {
+    en: 'Map'
+  },
+
   maplowqual: {
     en: 'Low quality mode',
     el: 'Λειτουργία χαμηλής ποιότητας',
