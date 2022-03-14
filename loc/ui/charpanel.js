@@ -7,6 +7,10 @@ export default {
     en: 'Level'
   },
 
+  class: {
+    en: 'Class'
+  },
+
   faction: {
     en: 'Faction'
   },
