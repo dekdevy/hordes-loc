@@ -1,4 +1,7 @@
 export default {
+  name: {
+    en: 'Stash'
+  },
 
   waitunstash: {
     en: 'You have to wait until you can retrieve this item.',
