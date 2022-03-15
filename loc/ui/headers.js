@@ -21,6 +21,10 @@ export default {
     en: 'Request'
   },
 
+  warstats: {
+    en: 'War Statistics'
+  },
+
   dpsMeter: {
     en: 'DPS Meter'
   },
