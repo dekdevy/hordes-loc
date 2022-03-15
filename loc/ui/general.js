@@ -145,26 +145,32 @@ export default {
   },
 
   reset: {
-    en: 'Reset'
+    en: 'Reset',
+    fr: 'Réinitialiser'
   },
 
   disable: {
-    en: 'Disable'
+    en: 'Disable',
+    fr: 'Désactiver'
   },
 
   playername: {
-    en: 'Enter player name'
+    en: 'Enter player name',
+    fr: 'Entrez le nom du joueur'
   },
 
   streamLoad: {
-    en: 'Loading streams...'
+    en: 'Loading streams...',
+    fr: 'Chargement des streams...'
   },
 
   all: {
-    en: 'All'
+    en: 'All',
+    fr: 'Tous'
   },
 
   filter: {
-    en: 'Filter'
+    en: 'Filter',
+    fr: 'Filtrer'
   }
 }
