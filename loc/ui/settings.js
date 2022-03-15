@@ -875,7 +875,7 @@ export default {
 
   icons: {
     en: 'Icons & Buffs',
-    fr: 'Icônes & Buffs',
+    fr: 'Icônes & Buffs'
   },
 
   skillcdtext: {
@@ -900,7 +900,7 @@ export default {
 
   flashduration: {
     en: 'Buff timeout flash duration',
-    fr: 'Durée du flash de fin de Buff',
+    fr: 'Durée du flash de fin de Buff'
   },
 
   buffmax: {
