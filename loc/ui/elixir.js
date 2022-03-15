@@ -38,7 +38,7 @@ export default {
   // i.e. 24h merchant duration
   merchantduration: {
     en: 'merchant duration',
-    fr: 'avant expiration d'un objet sur le marché'
+    fr: 'avant expiration d\'un objet sur le marché'
   },
 
   tba: {
