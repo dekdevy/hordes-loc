@@ -28,10 +28,6 @@ export default {
     en: 'Lifetime'
   },
 
-  kills: {
-    en: 'Kills'
-  },
-
   fameposition: {
     en: 'Fame Position',
     fr: 'Classement de Fame'
