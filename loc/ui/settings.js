@@ -48,11 +48,13 @@ export default {
   },
 
   skillbar: {
-    en: 'Skillbar'
+    en: 'Skillbar',
+    fr: 'Barre de compétences'
   },
 
   skillbarslots: {
-    en: 'Skillbar slots'
+    en: 'Skillbar slots',
+    fr: 'Emplacements de barre de compétences'
   },
 
   keybindings: {
@@ -77,7 +79,8 @@ export default {
   },
 
   bindingreset: {
-    en: 'To reset, leave field blank.'
+    en: 'To reset, leave field blank.',
+    fr: 'Pour réinitialiser, laissez le champ vide.'
   },
 
   camera: {
@@ -291,7 +294,7 @@ export default {
   },
 
   offscreendesc: {
-    en: 'Improves performance but mutes offscreen action'
+    en: 'Improves Performance but mutes offscreen action'
   },
 
   skilleffects: {
@@ -402,23 +405,28 @@ export default {
   },
 
   fogpattern: {
-    en: 'Fog pattern'
+    en: 'Fog patern',
+    fr: 'Paterne du brouillard'
   },
 
   shadowresolution: {
-    en: 'Shadow Resolution'
+    en: 'Shadow Resolution',
+    fr: 'Résolution des ombres'
   },
 
   realtimeshadows: {
-    en: 'Real time environment shadows'
+    en: 'Real time environment shadows',
+    fr: 'Ombres d\'environnement en temps réel'
   },
 
   creatureshadows: {
-    en: 'Shadows on creatures'
+    en: 'Shadows on creatures',
+    fr: 'Ombres sur les créatures'
   },
 
   anisotropy: {
-    en: 'Anisotropy'
+    en: 'Anisotropy',
+    fr: 'Anisotropie'
   },
 
   // ---- Audio
@@ -469,11 +477,13 @@ export default {
   },
 
   sfxmultiplier: {
-    en: 'External SFX Multiplier'
+    en: 'External SFX Multiplier',
+    fr: 'Multiplicateur SFX extérieur'
   },
 
   multiplierdesc: {
-    en: 'Spells not cast by you can be reduced in volume. 100% = No sound reduction, 50% = half volume.'
+    en: 'Spells not cast by you can be reduced in volume. 100% = No sound reduction, 50% = half volume.',
+    fr: 'Vous pouvez réduire le son des compétences dont vous n\'êtes pas le lanceur. 100% = Aucune réduction de son, 50% = volume réduit de moitié.'
   },
 
   ambiencevolume: {
@@ -760,51 +770,63 @@ export default {
 
   // Do not translate "FPS / Ping"
   showfps: {
-    en: 'Show FPS / PING'
+    en: 'Show FPS / PING',
+    fr: 'Afficher les FPS / PING'
   },
 
   nameplates: {
-    en: 'Nameplates'
+    en: 'Nameplates',
+    fr: 'Plaques de nom'
   },
 
   drawrange: {
-    en: 'Draw range'
+    en: 'Draw range',
+    fr: 'Champ de vision'
   },
 
   monsterbars: {
-    en: 'Monster bars'
+    en: 'Monster bars',
+    fr: 'Barres des monstres'
   },
 
   monsternames: {
-    en: 'Monster names'
+    en: 'Monster names',
+    fr: 'Noms des monstres'
   },
 
   friendlyplayerbars: {
-    en: 'Friendly player bars'
+    en: 'Friendly player bars',
+    fr: 'Barres des joueurs alliés'
   },
 
   friendlyplayernames: {
-    en: 'Friendly player names'
+    en: 'Friendly player names',
+    fr: 'Noms des joueurs alliés'
   },
 
   enemyplayerbars: {
-    en: 'Enemy player bars'
+    en: 'Enemy player bars',
+    fr: 'Barres des joueurs ennemis'
   },
 
   enemyplayernames: {
-    en: 'Enemy player names'
+    en: 'Enemy player names',
+    fr: 'Noms des joueurs ennemis'
   },
 
   showlevel: {
-    en: 'Always show level'
+    en: 'Always show level',
+    fr: 'Toujours montrer le niveau'
   },
 
   classcolors: {
-    en: 'Class color bars'
+    en: 'Class color bars',
+    fr: 'Barres colorées par classe'
   },
 
   transparency: {
-    en: 'Transparency'
+    en: 'Transparency',
+    fr: 'Transparence'
   },
 
   drops: {
@@ -812,59 +834,73 @@ export default {
   },
 
   showquality: {
-    en: 'Show Drop Quality%'
+    en: 'Show Drop Quality%',
+    fr: 'Afficher le % de Qualité des drops'
   },
 
   qualitymin: {
-    en: 'Drop Quality% Minimum'
+    en: 'Drop Quality% Minimum',
+    fr: '% de Qualité de drop minimum'
   },
 
   excludedrops: {
-    en: 'Exclude Drop Types'
+    en: 'Exclude Drop Types',
+    fr: 'Types de drop exclus'
   },
 
   damagehealing: {
-    en: 'Damage & Healing'
+    en: 'Damage & Healing',
+    fr: 'Dégat et Soin'
   },
 
   incomingdamage: {
-    en: 'Incoming damage'
+    en: 'Incoming damage',
+    fr: 'Dégat entrant'
   },
 
   incominghealing: {
-    en: 'Incoming healing'
+    en: 'Incoming healing',
+    fr: 'Soin entrant'
   },
 
   incomingmana: {
-    en: 'Incoming mana'
+    en: 'Incoming mana',
+    fr: 'Mana entrant'
   },
 
   preventoverlap: {
-    en: 'Prevent overlapping numbers'
+    en: 'Prevent overlapping numbers',
+    fr: 'Empêcher le chevauchement des nombres'
   },
 
   icons: {
-    en: 'Icons & Buffs'
+    en: 'Icons & Buffs',
+    fr: 'Icônes & Buffs',
   },
 
   skillcdtext: {
-    en: 'Cooldown text (skills)'
+    en: 'Cooldown text (skills)',
+    fr: 'Texte de temps de recharge (compétences)'
   },
 
   buffcdtext: {
-    en: 'Cooldown text (buffs)'
+    en: 'Cooldown text (buffs)',
+    fr: 'Texte de temps de recharge (buffs)'
   },
 
   selfbuffsonly: {
-    en: 'Show your buffs only'
+    en: 'Show your buffs only',
+    fr: 'Afficher uniquement vos buffs'
   },
 
   flashinterval: {
-    en: 'Buff timeout flash interval'
+    en: 'Buff timeout flash interval',
+    fr: 'Intervalle du Flash de fin de Buff'
   },
 
   flashduration: {
-    en: 'Buff timeout flash duration'
+    en: 'Buff timeout flash duration',
+    fr: 'Durée du flash de fin de Buff',
   },
 
   buffmax: {
@@ -876,7 +912,8 @@ export default {
   },
 
   updateratelimit: {
-    en: 'Limited party buff update rate'
+    en: 'Limited party buff update rate',
+    fr: 'Taux de rafraîchissement des buffs en Party limité.'
   },
 
   unitframes: {
@@ -884,26 +921,26 @@ export default {
   },
 
   showselfparty: {
-    en: 'Show self in party'
+    en: 'Show self in party',
+    fr: 'S\'afficher dans la Party'
   },
 
   partymana: {
-    en: 'Party mana'
+    en: 'Party mana',
+    fr: 'Mana de la Party'
   },
 
   partyframewidth: {
-    en: 'Party frame width'
+    en: 'Party frame width',
+    fr: 'Largeur du cadre de Party'
   },
 
   protectedquality: {
-    en: 'Protected item quality'
+    en: 'Protected item quality',
+    fr: 'Qualité d\'objet protégée'
   },
 
   // ---- map
-  map: {
-    en: 'Map'
-  },
-
   maplowqual: {
     en: 'Low quality mode',
     el: 'Λειτουργία χαμηλής ποιότητας',
@@ -947,6 +984,7 @@ export default {
   },
 
   reload: {
-    en: 'Requires reload'
+    en: 'Requires reload',
+    fr: 'Requiert le rechargement du jeu'
   }
 }
