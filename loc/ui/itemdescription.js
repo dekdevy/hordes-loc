@@ -13,5 +13,9 @@ export default {
 
   onsale: {
     en: 'on merchant sale.'
+  },
+
+  equipeffect: {
+    en: 'Equipping this item will have these effects'
   }
 }
