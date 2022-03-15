@@ -25,13 +25,13 @@ export default {
 
   // Commented translations need to be edited. "My items only" changed to "My Items"
   filtermine: {
-    en: 'My Items'
+    en: 'My Items',
     // el: 'Μόνο τα αντικείμενά μου',
     // nl: 'Alleen mijn voorwerpen',
     // de: 'Nur meine Items',
     // ru: 'Только мои лоты',
     // pt: 'Apenas os meus itens',
-    // fr: 'Uniquement mes objets',
+    fr: 'Mes objets'
     // es: 'Sólo mis objetos',
     // ko: '내 아이템만',
     // ro: 'Doar obiectele mele',
@@ -49,14 +49,14 @@ export default {
 
   // Commented translations need to edited. "Buy Item" changed to "Buy"
   buy: {
-    en: 'Buy'
+    en: 'Buy',
     // el: 'Αγορά αντικειμένου',
     // nl: 'Voorwerp Kopen',
     // de: 'Item kaufen',
     // ru: 'Купить лот',
     // pt: 'Comprar Item',
     // es: 'Comprar Objeto',
-    // fr: 'Acheter L\'objet',
+    fr: 'Acheter'
     // ko: '아이템 구매',
     // ro: 'Cumpără Obiectul',
     // hi: 'वस्तु खरीदे',
@@ -281,23 +281,28 @@ export default {
   },
 
   itemSearch: {
-    en: 'Search for item'
+    en: 'Search for item',
+    fr: 'Chercher un objet'
   },
 
   results: {
-    en: 'Results'
+    en: 'Results',
+    fr; 'Résultats'
   },
 
   owner: {
-    en: 'Owner'
+    en: 'Owner',
+    fr: 'Propriétaire'
   },
 
   time: {
-    en: 'Time'
+    en: 'Time',
+    fr: 'Temps'
   },
 
   perUnit: {
-    en: 'Per Unit'
+    en: 'Per Unit',
+    fr: 'Par unité'
   },
 
   total: {
@@ -305,15 +310,18 @@ export default {
   },
 
   previous: {
-    en: 'Prev'
+    en: 'Prev',
+    fr: 'Préc'
   },
 
   next: {
-    en: 'Next'
+    en: 'Next',
+    fr: 'Suivant'
   },
 
   setPrice: {
-    en: 'Set price'
+    en: 'Set price',
+    fr: 'Fixer un prix'
   },
 
   // Purchase confirmation message for merchant window
@@ -321,10 +329,12 @@ export default {
   // English: Buy Fury for 6 gold?
   buyItem: [
     {
-      en: 'Buy'
+      en: 'Buy',
+      fr: 'Acheter'
     },
     {
-      en: 'for'
+      en: 'for',
+      fr: 'pour'
     },
     {
       en: '?'
