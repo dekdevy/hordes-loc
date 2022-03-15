@@ -108,6 +108,7 @@ import skilldescription from './ui/skilldescription.js'
 import stats from './ui/stats.js'
 import title from './ui/title.js'
 import tutorial from './ui/tutorial.js'
+import war from './ui/war.js'
 const ui = {
   charmenu,
   charpanel,
@@ -130,6 +131,7 @@ const ui = {
   elixir,
   skilldescription,
   itemdescription,
+  war,
   ...general }
 
 export default {

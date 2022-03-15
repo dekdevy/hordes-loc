@@ -28,10 +28,6 @@ export default {
     en: 'Lifetime'
   },
 
-  kills: {
-    en: 'Kills'
-  },
-
   fameposition: {
     en: 'Fame Position',
     fr: 'Classement de Fame'
@@ -45,5 +41,9 @@ export default {
   highestrank: {
     en: 'Highest Rank',
     fr: 'Meilleur Rang'
+  },
+
+  viewbrackets: {
+    en: 'View weekly brackets'
   }
 }

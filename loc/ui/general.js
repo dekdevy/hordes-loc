@@ -198,5 +198,9 @@ export default {
 
   cost: {
     en: 'Cost'
+  },
+
+  noOptions: {
+    en: 'No options'
   }
 }

@@ -54,6 +54,9 @@ export default {
     },
     fame: {
       en: 'Fame'
+    },
+    kills: {
+      en: 'Kills'
     }
   },
 
