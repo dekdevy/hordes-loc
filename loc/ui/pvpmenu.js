@@ -45,5 +45,9 @@ export default {
   highestrank: {
     en: 'Highest Rank',
     fr: 'Meilleur Rang'
+  },
+
+  viewbrackets: {
+    en: 'View weekly brackets'
   }
 }
