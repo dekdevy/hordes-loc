@@ -1,10 +1,12 @@
 export default {
   character: {
-    en: 'Character'
+    en: 'Character',
+    fr: 'Personnage'
   },
 
   skills: {
-    en: 'Skills'
+    en: 'Skills',
+    fr: 'Compétences'
   },
 
   pvp: {
@@ -24,10 +26,12 @@ export default {
   },
 
   fullscreen: {
-    en: 'Fullscreen'
+    en: 'Fullscreen',
+    fr: 'Plein écran'
   },
 
   menuReturn: {
-    en: 'Back to Menu'
+    en: 'Back to Menu',
+    fr: 'Retour au menu'
   }
 }
