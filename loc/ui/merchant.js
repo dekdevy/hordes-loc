@@ -26,12 +26,12 @@ export default {
   // Commented translations need to be edited. "My items only" changed to "My Items"
   filtermine: {
     en: 'My Items',
+    fr: 'Mes objets'
     // el: 'Μόνο τα αντικείμενά μου',
     // nl: 'Alleen mijn voorwerpen',
     // de: 'Nur meine Items',
     // ru: 'Только мои лоты',
     // pt: 'Apenas os meus itens',
-    fr: 'Mes objets'
     // es: 'Sólo mis objetos',
     // ko: '내 아이템만',
     // ro: 'Doar obiectele mele',
@@ -50,13 +50,13 @@ export default {
   // Commented translations need to edited. "Buy Item" changed to "Buy"
   buy: {
     en: 'Buy',
+    fr: 'Acheter'
     // el: 'Αγορά αντικειμένου',
     // nl: 'Voorwerp Kopen',
     // de: 'Item kaufen',
     // ru: 'Купить лот',
     // pt: 'Comprar Item',
     // es: 'Comprar Objeto',
-    fr: 'Acheter'
     // ko: '아이템 구매',
     // ro: 'Cumpără Obiectul',
     // hi: 'वस्तु खरीदे',
@@ -287,7 +287,7 @@ export default {
 
   results: {
     en: 'Results',
-    fr; 'Résultats'
+    fr: 'Résultats'
   },
 
   owner: {
