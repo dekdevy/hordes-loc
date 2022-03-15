@@ -51,6 +51,9 @@ export default {
     },
     healing: {
       en: 'Healing'
+    },
+    fame: {
+      en: 'Fame'
     }
   },
 
