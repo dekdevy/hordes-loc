@@ -145,11 +145,13 @@ export default {
   },
 
   noclan: {
-    en: 'You have no clan'
+    en: 'You have no clan',
+    fr: 'Vous n\'avez pas clan'
   },
 
   viewinvites: {
-    en: 'View invitations'
+    en: 'View invitations',
+    fr: 'Voir les invitations'
   },
 
   action: {
@@ -158,27 +160,33 @@ export default {
 
   application:
   {
-    en: 'Application'
+    en: 'Application',
+    fr: 'Postuler'
   },
 
   kick: {
-    en: 'Kick member'
+    en: 'Kick member',
+    fr: 'Exclure un membre'
   },
 
   setrank: {
-    en: 'Set rank'
+    en: 'Set rank',
+    fr: 'Attribuer un grade'
   },
 
   left: {
-    en: 'Left the clan'
+    en: 'Left the clan',
+    fr: 'Quitter le clan'
   },
 
   memberkicked: {
-    en: 'Member kicked'
+    en: 'Member kicked',
+    fr: 'Membre exclu'
   },
 
   applied: {
-    en: 'Applied to clan'
+    en: 'Applied to clan',
+    fr: 'Candidature envoyé'
   },
 
   // en: PlayerName invited
@@ -189,90 +197,111 @@ export default {
       en: ' '
     },
     {
-      en: ' invited'
+      en: ' invited',
+      fr: ' invité'
     }
   ],
 
   applicationaccept: {
-    en: 'Accept application'
+    en: 'Accept application',
+    fr: 'Accepter la candidature'
   },
 
   applicationaccepted: {
-    en: 'Accepted application'
+    en: 'Accepted application',
+    fr: 'Candidature acceptée'
   },
 
   applicationdeny: {
-    en: 'Deny application'
+    en: 'Deny application',
+    fr: 'Décliner la candidature'
   },
 
   applicationdenied: {
-    en: 'Denied application'
+    en: 'Denied application',
+    fr: 'Candidature déclinée'
   },
 
   level: {
-    en: 'Clan Level'
+    en: 'Clan Level',
+    fr: 'Niveau du Clan'
   },
 
   capacity: {
-    en: 'Capacity'
+    en: 'Capacity',
+    fr: 'Capacité'
   },
 
   nextlevel: {
-    en: 'Next Level'
+    en: 'Next Level',
+    fr: 'Prochain niveau'
   },
 
   taxrate: {
-    en: 'Tax rate'
+    en: 'Tax rate',
+    fr: 'Taux d\'imposition'
   },
 
   members: {
-    en: 'Members'
+    en: 'Members',
+    fr: 'Membres'
   },
 
   online: {
-    en: 'Online'
+    en: 'Online',
+    fr: 'En ligne'
   },
 
   treasury: {
-    en: 'Treasury'
+    en: 'Treasury',
+    fr: 'Trésorerie'
   },
 
   highestrank: {
-    en: 'Your highest rank'
+    en: 'Your highest rank',
+    fr: 'Votre plus haut grade'
   },
 
   inviteplayers: {
-    en: 'Invite players'
+    en: 'Invite players',
+    fr: 'Inviter des joueurs'
   },
 
   inviteplayer: {
-    en: 'Invite player'
+    en: 'Invite player',
+    fr: 'Inviter un joueur'
   },
 
   apply: {
-    en: 'Apply to clan (request invitation)'
+    en: 'Apply to clan (request invitation)',
+    fr: 'Postuler au clan (demander une invitation)'
   },
 
   applications:
   {
-    en: 'Applications'
+    en: 'Applications',
+    fr: 'Candidatures'
   },
 
   applicationdesc: {
-    en: 'This is a list of active applications to your clan. Right click to accept an application and invite the player to your clan'
+    en: 'This is a list of active applications to your clan. Right click to accept an application and invite the player to your clan',
+    fr: 'Ceci est une liste des membres actifs de ce clan. Faites un clic droit pour accepter une candidature et inviter le joueur dans votre clan'
   },
 
   player: {
-    en: 'Player'
+    en: 'Player',
+    fr: 'Joueur'
   },
 
   memberdesc: {
-    en: 'This is a list of active members of this clan. Right click the members for additional options.'
+    en: 'This is a list of active members of this clan. Right click the members for additional options.',
+    fr: 'Ceci est une liste des membres actifs de ce clan. Faites un clic droit sur les membres pour plus d\'options.'
   },
 
   // Member, Assistant, Officer, Owner
   rank: {
-    en: 'Rank'
+    en: 'Rank',
+    fr: 'Grade'
   },
 
   roles: [
