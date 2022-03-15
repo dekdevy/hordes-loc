@@ -13,5 +13,13 @@ export default {
 
   statusActive: {
     en: 'Active'
+  },
+
+  duration: {
+    en: 'Duration'
+  },
+
+  player: {
+    en: 'Player'
   }
 }
