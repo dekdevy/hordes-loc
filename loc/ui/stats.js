@@ -3,6 +3,30 @@
 // ** DO NOT MAKE TRANSLATIONS 1-2 CHARS LONGER THAN THE ENGLISH VERSION OR THE PR WILL BE DECLINED **
 // Commented out stat translations are those which are too long and need to be shortened.
 
+// Order of stats in stat array is determined by this list:
+/*
+STAT_HP
+STAT_MP
+STAT_HP_REG5
+STAT_MP_REG5
+STAT_DMG_MIN
+STAT_DMG_MAX
+STAT_DEFENSE
+STAT_BLOCK
+STAT_CRITICAL
+STAT_MOVESPEED
+STAT_HASTE
+STAT_ATTACKSPEED
+STAT_ITEM_FIND
+STAT_SLOT
+STAT_PRESTIGE
+STAT_ELO
+STAT_STATPOINTS
+STAT_SKILLPOINTS
+STAT_SKILLPOINTS_MAX
+STAT_GEARSCORE
+STAT_PVPLEVEL */
+
 export default {
 
   misc: {
@@ -368,23 +392,7 @@ export default {
     },
 
     {
-      en: 'Fame',
-      el: 'Φήμη',
-      de: 'Ruf',
-      ru: 'Слава',
-      fr: 'Gloire',
-      es: 'Fama',
-      pt: 'Fama',
-      hu: 'Hírnév',
-      zh: '聲望',
-      pl: 'Sława',
-      it: 'Fama',
-      sr: 'Слава',
-      tr: 'Ün',
-      ja: '名声',
-      ko: '프레임',
-      cs: 'Sláva'
-      // vi: 'Danh vọng'
+      en: 'Prestige'
     },
 
     {
@@ -528,11 +536,6 @@ export default {
       ko: '힐링 감소',
       cs: 'Redukce léčení',
       zh: '治療減少'
-      // pl: 'Ograniczenie leczenia',
-    },
-
-    {
-      en: 'Prestige'
     }
   ]
 }
