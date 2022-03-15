@@ -171,7 +171,7 @@ export default {
 
   setrank: {
     en: 'Set rank',
-    fr: 'Attribuer un rang'
+    fr: 'Attribuer un grade'
   },
 
   left: {
