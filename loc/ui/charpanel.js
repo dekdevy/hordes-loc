@@ -1,33 +1,39 @@
 export default {
   name: {
-    en: 'Name'
+    en: 'Name',
+    fr: 'Nom'
   },
 
   level: {
-    en: 'Level'
+    en: 'Level',
+    fr: 'Niveau'
+  },
+
+  class: {
+    en: 'Class'
   },
 
   faction: {
     en: 'Faction'
   },
 
-  prestige: {
-    en: 'Prestige'
-  },
-
   rank: {
-    en: 'Rank'
+    en: 'Rank',
+    fr: 'Rang'
   },
 
   rating: {
-    en: 'Rating'
+    en: 'Rating',
+    fr: 'Classement'
   },
 
   medals: {
-    en: 'Medals'
+    en: 'Medals',
+    fr: 'Médailles'
   },
 
   perday: {
-    en: 'per day'
+    en: 'per day',
+    fr: 'par jour'
   }
 }

@@ -144,6 +144,137 @@ export default {
     cs: 'Vytvořit'
   },
 
+  noclan: {
+    en: 'You have no clan'
+  },
+
+  viewinvites: {
+    en: 'View invitations'
+  },
+
+  action: {
+    en: 'Action'
+  },
+
+  application:
+  {
+    en: 'Application'
+  },
+
+  kick: {
+    en: 'Kick member'
+  },
+
+  setrank: {
+    en: 'Set rank'
+  },
+
+  left: {
+    en: 'Left the clan'
+  },
+
+  memberkicked: {
+    en: 'Member kicked'
+  },
+
+  applied: {
+    en: 'Applied to clan'
+  },
+
+  // en: PlayerName invited
+  // Some languages may require "invited" to go before the player name, in which case the translation
+  // for "invited" should go into the first array element
+  invited: [
+    {
+      en: ' '
+    },
+    {
+      en: ' invited'
+    }
+  ],
+
+  applicationaccept: {
+    en: 'Accept application'
+  },
+
+  applicationaccepted: {
+    en: 'Accepted application'
+  },
+
+  applicationdeny: {
+    en: 'Deny application'
+  },
+
+  applicationdenied: {
+    en: 'Denied application'
+  },
+
+  level: {
+    en: 'Clan Level'
+  },
+
+  capacity: {
+    en: 'Capacity'
+  },
+
+  nextlevel: {
+    en: 'Next Level'
+  },
+
+  taxrate: {
+    en: 'Tax rate'
+  },
+
+  members: {
+    en: 'Members'
+  },
+
+  online: {
+    en: 'Online'
+  },
+
+  treasury: {
+    en: 'Treasury'
+  },
+
+  highestrank: {
+    en: 'Your highest rank'
+  },
+
+  inviteplayers: {
+    en: 'Invite players'
+  },
+
+  inviteplayer: {
+    en: 'Invite player'
+  },
+
+  apply: {
+    en: 'Apply to clan (request invitation)'
+  },
+
+  applications:
+  {
+    en: 'Applications'
+  },
+
+  applicationdesc: {
+    en: 'This is a list of active applications to your clan. Right click to accept an application and invite the player to your clan'
+  },
+
+  player: {
+    en: 'Player'
+  },
+
+  memberdesc: {
+    en: 'This is a list of active members of this clan. Right click the members for additional options.'
+  },
+
+  // Member, Assistant, Officer, Owner
+  rank: {
+    en: 'Rank'
+  },
+
   roles: [
     { $$: 'Member' },
     { $$: 'Assistant' },
