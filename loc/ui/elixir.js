@@ -131,6 +131,6 @@ export default {
   // Do not translate "Elixir"
   thankyou: {
     en: 'Elixir time added. Thank you for your support. Please re-log any active characters.',
-    fr: 'Période d\'Elixir ajoutée. Merci pour votre soutien. Merci de bien vouloir reconnecter tout personnage connecté.
+    fr: 'Période d\'Elixir ajoutée. Merci pour votre soutien. Merci de bien vouloir reconnecter tout personnage connecté.'
   }
 }
