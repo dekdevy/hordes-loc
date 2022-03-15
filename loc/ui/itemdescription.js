@@ -3,6 +3,10 @@ export default {
     en: 'Press Shift to compare item.'
   },
 
+  onuse: {
+    en: 'on use.'
+  },
+
   onpurchase: {
     en: 'on purchase.'
   },
