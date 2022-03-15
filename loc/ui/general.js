@@ -166,5 +166,31 @@ export default {
 
   filter: {
     en: 'Filter'
+  },
+
+  apply: {
+    en: 'Apply'
+  },
+
+  default: {
+    en: 'Default'
+  },
+
+  // Used for party and arena searching
+  find: {
+    en: 'Find'
+  },
+
+  // Used for party and arena searching
+  searching: {
+    en: 'Searching...'
+  },
+
+  learnable: {
+    en: 'Learnable Lv.'
+  },
+
+  cost: {
+    en: 'Cost'
   }
 }

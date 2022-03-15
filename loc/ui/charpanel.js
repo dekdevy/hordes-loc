@@ -7,12 +7,12 @@ export default {
     en: 'Level'
   },
 
-  faction: {
-    en: 'Faction'
+  class: {
+    en: 'Class'
   },
 
-  prestige: {
-    en: 'Prestige'
+  faction: {
+    en: 'Faction'
   },
 
   rank: {

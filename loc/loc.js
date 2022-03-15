@@ -98,11 +98,12 @@ import general from './ui/general.js'
 import headers from './ui/headers.js'
 import hiddenskills from './ui/hiddenskills.js'
 import inventory from './ui/inventory.js'
+import itemdescription from './ui/itemdescription.js'
 import messages from './ui/messages.js'
 import party from './ui/party.js'
 import report from './ui/report.js'
 import settings from './ui/settings.js'
-import skilltarget from './ui/skilltarget.js'
+import skilldescription from './ui/skilldescription.js'
 import stats from './ui/stats.js'
 import title from './ui/title.js'
 import tutorial from './ui/tutorial.js'
@@ -125,7 +126,8 @@ const ui = {
   hiddenskills,
   report,
   elixir,
-  skilltarget,
+  skilldescription,
+  itemdescription,
   ...general }
 
 export default {
