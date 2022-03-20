@@ -175,21 +175,25 @@ export default {
   },
 
   apply: {
-    en: 'Apply'
+    en: 'Apply',
+    fr: 'Appliquer'
   },
 
   default: {
-    en: 'Default'
+    en: 'Default',
+    fr: 'Défaut'
   },
 
   // Used for party and arena searching
   find: {
-    en: 'Find'
+    en: 'Find',
+    fr: 'Trouver'
   },
 
   // Used for party and arena searching
   searching: {
-    en: 'Searching...'
+    en: 'Searching...',
+    fr: 'Recherche...'
   },
 
   learnable: {
@@ -197,10 +201,12 @@ export default {
   },
 
   cost: {
-    en: 'Cost'
+    en: 'Cost',
+    fr: 'Coût'
   },
 
   noOptions: {
-    en: 'No options'
+    en: 'No options',
+    fr: 'Pas d\'options'
   }
 }
