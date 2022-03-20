@@ -49,7 +49,7 @@ export default {
   // Do not translate "Hordes"
   support: {
     en: 'Support Hordes development for a low cost. Unlock additional bag slots, store more items in your stash, make use of enhanced merchant features and many more perks (TBA).',
-    fr: 'Soutenez le développement de Hordes à moindre coût. Débloquez des emplacements de sacs supplémentaires, stockez plus d\'objets dans votre réserve, profitez des fonctions améliorées du marchand et de bien d\'autres avantages.'
+    fr: 'Soutenez le développement de Hordes à moindre coût. Débloquez des emplacements de sacs supplémentaires, stockez plus d\'objets dans votre réserve, profitez des fonctionnalités améliorées du marchand et de bien d\'autres avantages.'
   },
 
   pointserror: {
