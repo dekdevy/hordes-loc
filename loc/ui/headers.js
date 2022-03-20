@@ -22,7 +22,8 @@ export default {
   },
 
   warstats: {
-    en: 'War Statistics'
+    en: 'War Statistics',
+    fr: 'Statistiques de Guerre'
   },
 
   dpsMeter: {
