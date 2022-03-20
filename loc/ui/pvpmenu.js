@@ -25,7 +25,8 @@ export default {
   },
 
   lifetime: {
-    en: 'Lifetime'
+    en: 'Lifetime',
+    fr: 'Au total'
   },
 
   fameposition: {
@@ -44,6 +45,7 @@ export default {
   },
 
   viewbrackets: {
-    en: 'View weekly brackets'
+    en: 'View weekly brackets',
+    fr: 'Voir les Brackets hebdomadaires'
   }
 }
