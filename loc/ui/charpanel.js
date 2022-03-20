@@ -10,7 +10,8 @@ export default {
   },
 
   class: {
-    en: 'Class'
+    en: 'Class',
+    fr: 'Classe'
   },
 
   faction: {
