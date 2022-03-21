@@ -18,7 +18,8 @@ export default {
   },
 
   request: {
-    en: 'Request'
+    en: 'Request',
+    fr: 'Requête'
   },
 
   warstats: {
