@@ -56,7 +56,7 @@ export default {
       en: 'Bypassing regular gameplay by using cheating tools for unfair advantages or abusing severe game bugs that give unintended advantages.'
       // ru: 'Обход обычного игрового процесса путем использования мошеннических инструментов для получения несправедливых преимуществ или злоупотребления серьезными ошибками в игре,
       // которые дают непреднамеренные преимущества.'
-      // fr: 'Contourner le jeu normal en utilisant des outils de triche pour obtenir des avantages déloyaux ou en abusant de graves bugs de jeu qui donnent des avantages involontaires.'
+      // fr: 'Contourner les règles du jeu en utilisant des outils de triche pour obtenir des avantages déloyaux ou en abusant de graves bugs de jeu qui donnent des avantages involontaires.'
     },
     {
       en: 'Names containing offensive language, letters to obfuscate identity, or impersonation of staff members.'
@@ -66,7 +66,7 @@ export default {
     {
       en: 'Using automated tools to play the game while not being present, or using tools to automate actions for unfair advantages.'
       // ru: 'Использование инструментов автоматизации игрового процесса, или использование инструментов для автоматизации действий для получения несправедливых преимуществ.'
-      // fr: 'L'utilisation d'outils automatisés pour jouer au jeu sans être présent, ou l'utilisation d'outils pour automatiser des actions pour obtenir des avantages injustes.'
+      // fr: 'L'utilisation d'outils automatisés pour jouer au jeu sans être présent, ou l'utilisation d'outils pour automatiser des actions dans le but d\'obtenir des avantages injustes.'
     }
   ]
 }
