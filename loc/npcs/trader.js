@@ -143,7 +143,7 @@ export default {
 
   select: {
     en: 'Select an item to sell',
-    fr: 'Selectionnez un objet à vendre'
+    fr: 'Sélectionnez un objet à vendre'
   },
 
   name: {
