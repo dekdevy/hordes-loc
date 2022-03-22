@@ -294,7 +294,8 @@ export default {
   },
 
   offscreendesc: {
-    en: 'Improves performance but mutes offscreen action'
+    en: 'Improves performance but mutes offscreen action',
+    fr: 'Améliore les performance mais désactive les actions hors écran'
   },
 
   skilleffects: {
@@ -776,12 +777,12 @@ export default {
 
   nameplates: {
     en: 'Nameplates',
-    fr: 'Plaques de nom'
+    fr: 'Barres & Noms'
   },
 
   drawrange: {
     en: 'Draw range',
-    fr: 'Champ de vision'
+    fr: 'Portée d\'affichage'
   },
 
   monsterbars: {
@@ -830,22 +831,22 @@ export default {
   },
 
   drops: {
-    en: 'Drops'
+    en: 'Butins'
   },
 
   showquality: {
     en: 'Show Drop Quality%',
-    fr: 'Afficher le % de Qualité des drops'
+    fr: 'Afficher le % de Qualité du butin'
   },
 
   qualitymin: {
     en: 'Drop Quality% Minimum',
-    fr: '% de Qualité de drop minimum'
+    fr: '% de Qualité de butin minimum'
   },
 
   excludedrops: {
     en: 'Exclude Drop Types',
-    fr: 'Types de drop exclus'
+    fr: 'Types de butins exclus'
   },
 
   damagehealing: {
@@ -913,11 +914,12 @@ export default {
 
   updateratelimit: {
     en: 'Limited party buff update rate',
-    fr: 'Taux de rafraîchissement des buffs en Party limité.'
+    fr: 'Taux de rafraîchissement des buffs en Party limité'
   },
 
   unitframes: {
-    en: 'Unitframes'
+    en: 'Unitframes',
+    fr: 'Cadres d\'unité'
   },
 
   showselfparty: {
@@ -943,7 +945,8 @@ export default {
   // ---- map
 
   map: {
-    en: 'Map'
+    en: 'Map',
+    fr: 'Carte'
   },
 
   maplowqual: {
@@ -990,6 +993,6 @@ export default {
 
   reload: {
     en: 'Requires reload',
-    fr: 'Requiert le rechargement du jeu'
+    fr: 'Redémarrage du jeu requis'
   }
 }
