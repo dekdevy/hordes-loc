@@ -18,11 +18,13 @@ export default {
   },
 
   request: {
-    en: 'Request'
+    en: 'Request',
+    fr: 'Requête'
   },
 
   warstats: {
-    en: 'War Statistics'
+    en: 'War Statistics',
+    fr: 'Statistiques de Guerre'
   },
 
   dpsMeter: {
