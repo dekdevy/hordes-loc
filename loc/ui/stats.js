@@ -50,7 +50,8 @@ export default {
       // vi: 'Sát thương'
     },
     healing: {
-      en: 'Healing'
+      en: 'Healing',
+      fr: 'Soin'
     },
     fame: {
       en: 'Fame'
@@ -454,7 +455,8 @@ export default {
     },
 
     {
-      en: 'Skill Points (Max)'
+      en: 'Skill Points (Max)',
+      fr: 'Points de Compétences (Max)'
     },
 
     {
@@ -463,7 +465,8 @@ export default {
 
     {
       en: 'PvP Level',
-      ru: 'Уровень PvP'
+      ru: 'Уровень PvP',
+      fr: 'Niveau PvP'
     },
 
     {
