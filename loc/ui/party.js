@@ -341,7 +341,8 @@ export default {
   },
 
   noParty: {
-    en: 'No Party'
+    en: 'No Party',
+    fr: 'Aucune Party'
   },
 
   name: {
@@ -349,6 +350,7 @@ export default {
   },
 
   members: {
-    en: 'members'
+    en: 'members',
+    fr: 'membres'
   }
 }
