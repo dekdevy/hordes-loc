@@ -1,21 +1,27 @@
 export default {
   status: {
-    en: 'War Status'
+    en: 'War Status',
+    fr: 'Statut de la Guerre'
   },
 
   duration: {
-    en: 'Duration'
+    en: 'Duration',
+    fr: 'Durée'
   },
 
   player: {
-    en: 'Player'
+    en: 'Player',
+    fr: 'Joueur'
   },
 
   statustypes: [{
-    en: 'Ended'
+    en: 'Ended',
+    fr: 'Terminé'
   }, {
-    en: 'Ending Soon'
+    en: 'Ending Soon',
+    fr: 'Bientôt terminé'
   }, {
-    en: 'Active'
+    en: 'Active',
+    fr: 'Actif'
   }]
 }
