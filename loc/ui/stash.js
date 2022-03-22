@@ -1,6 +1,7 @@
 export default {
   name: {
-    en: 'Stash'
+    en: 'Stash',
+    fr: 'Réserve'
   },
 
   waitunstash: {
