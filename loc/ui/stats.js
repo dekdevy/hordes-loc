@@ -33,7 +33,7 @@ export default {
     damage: {
       en: 'Damage',
       el: 'Ζημιά',
-      fr: 'Dégats',
+      fr: 'Dégâts',
       ru: 'Урон',
       es: 'Daño',
       pt: 'Dano',
@@ -224,7 +224,7 @@ export default {
       ru: 'Макс. урон.',
       es: 'Daño Max',
       pt: 'Dano Máx',
-      fr: 'Dégats Max.',
+      fr: 'Dégâts Max.',
       tr: 'Max Hasar',
       hu: 'Max. Sebz.',
       zh: '最大傷害',
@@ -472,7 +472,7 @@ export default {
     {
       en: '% Increased Dmg.',
       el: '% Επιπλέον Ζημιά',
-      fr: '% Dgts Améliorés',
+      fr: '% Dégâts Améliorés',
       ru: '% Увеличения урона',
       es: '% Daño Aumentado',
       pt: '% Dano Aumentado',
