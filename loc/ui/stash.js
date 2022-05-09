@@ -99,7 +99,7 @@ export default {
     en: '$1 has been moved to your Stash.',
     el: 'Το $1 έχει μεταφερθεί στο Stash.',
     de: '$1 wurde in deinen Stash verschoben.',
-    ru: '$1 было добавлено в Stash.',
+    ru: '$1 было положено в хранилище.',
     pt: '$1 foi transferido para o seu Stash.',
     fr: '$1 a été transféré dans votre Stash.',
     es: '$1 se ha transferido al Stash.',
