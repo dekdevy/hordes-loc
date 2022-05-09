@@ -75,7 +75,7 @@ export default {
     en: 'Stash item',
     el: 'Αποθήκευση στο Stash',
     de: 'In Stash verschieben',
-    ru: 'Положить в Stash',
+    ru: 'Положить в хранилище',
     pt: 'Mover para o baú',
     fr: 'Mettre dans la Stash',
     es: 'Mover al Stash',
