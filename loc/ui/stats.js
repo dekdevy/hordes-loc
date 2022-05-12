@@ -383,7 +383,7 @@ export default {
       el: 'Θέσεις τσάντας',
       ru: 'Слоты сумки',
       pt: 'Espaço',
-      fr: 'Espace Sac',
+      fr: 'Emplacements de Sac',
       hu: 'Hátizsák',
       zh: '背包欄位',
       pl: 'Miejsce w ekw.',
