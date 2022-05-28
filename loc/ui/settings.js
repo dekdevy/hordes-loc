@@ -415,11 +415,6 @@ export default {
     fr: 'Résolution des ombres'
   },
 
-  realtimeshadows: {
-    en: 'Real time environment shadows',
-    fr: 'Ombres d\'environnement en temps réel'
-  },
-
   creatureshadows: {
     en: 'Shadows on creatures',
     fr: 'Ombres sur les créatures'
