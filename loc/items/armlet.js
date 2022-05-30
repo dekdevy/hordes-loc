@@ -94,7 +94,8 @@ export default [
       it: 'Questo tipo di armatura di ferro è stata fortemente utilizzata in guerra ed è rimasta sporca. I segni di graffi sul metallo sembrano essere solo superficiali.',
       ro: 'Acest tip de armură de fier a fost extrem de folosită în război iar astfel a rămas murdară. Urmele de gheare lăsate pe metal par să fie în mare parte superficiale.',
       cs: 'Tento typ železné zbroje byl hojně používán ve válce a zůstává špinavý. Stopy po drápech na kovu se zdají být většinou povrchní.',
-      zh: '這種類型的鐵甲在戰爭中被大量使用，而且仍然很髒。 金屬上的爪痕大多都很淺。'
+      zh: '這種類型的鐵甲在戰爭中被大量使用，而且仍然很髒。 金屬上的爪痕大多都很淺。',
+      tr: 'Bu tip demir zırhlar ağırlıklı olarak savaşlarda kullanılıp pis bırakılır. Metalim üzerinde ki pençe izleri çoğunlukla yüzeysel.'
     }
   },
 
@@ -113,7 +114,8 @@ export default [
       it: 'Questi bracciali in acciaio sono segnati con piccole rune che infondono protezione extra. I Bracciali infusi sono in qualche modo rari dal momento che i metodi per la creazione delle rune sono segreti.',
       ro: 'Aceste manșete din oțel sunt încastrate cu rune mici ce oferă extra protecție. Manșetele impregnate sunt oreacum rare din moment ce modul de creare a runelor este un secret.',
       cs: 'Tyto ocelové výztuhy jsou označeny malými runami, které poskytují extra ochranu. Napuštěné bracery jsou poněkud vzácné, protože způsob vytváření run je tajemstvím',
-      zh: '這些鋼製護腕上標有小符文，可提供額外的保護。這些護腕有些罕見，因為符文的製造方法是個秘密。'
+      zh: '這些鋼製護腕上標有小符文，可提供額外的保護。這些護腕有些罕見，因為符文的製造方法是個秘密。',
+      tr: 'Bu çelik fazladan koruma aşılaması için küçük rünler ile işaretlenmiş. Aşılanmış kolluklar, rünlerin yapılış süreci bir sır haline geldiğinden beri bir nedenden dolayı nadirlerdir.'
     }
   },
 
