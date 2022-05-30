@@ -13,7 +13,8 @@ export default [
       nl: 'Deze boog is een geïmproviseerde creatie. Hout is in sommige regio’s geen veelvoorkomende bron, dus gebruiken de bewoners soms de materialen op zak om wapens zoals deze te creëren.',
       ro: 'Acest arc este o creație improvizată. Lemnul nu reprezintă o resursă bogată în anumite zone, de aceea localnicii folosesc uneori materiale la îndemână pentru a crea arme ca aceasta.',
       pt: 'Este arco é uma criação improvisada. Madeira não é um recurso abundante em algumas regiões, então os habitantes às vezes usam os materiais disponíveis para criar armas como esta.',
-      zh: '這是個應急用的弓。有些地區並沒有豐富的木頭，因此有些居民會使用手邊的材料來製造此類武器。'
+      zh: '這是個應急用的弓。有些地區並沒有豐富的木頭，因此有些居民會使用手邊的材料來製造此類武器。',
+      tr: 'Bu yay derme çatma bir eser. Odun bazı bölgelerde bol bol bulunmaz, bu yüzden oranın sakinleri ellerindeki malzemelerle bu tip silahlar üretir.'
     }
   },
 
@@ -31,7 +32,9 @@ export default [
       nl: 'Bogen zoals deze zijn gemaakt voor beginnende boogschutters om hun vaardigheden te verbeteren.',
       ro: 'Astfel de arcuri sunt concepute pentru arcași începători ca să-și perfecționeze abilitățile.',
       pt: 'Arcos como esse são feitos para que arqueiros iniciantes aprimorem suas habilidades.',
-      zh: '這些弓是為了初級弓箭手磨練他們的技巧製作而成。'
+      zh: '這些弓是為了初級弓箭手磨練他們的技巧製作而成。',
+      tr: 'Bu tip yaylar yeni okçuların yeteneklerini bileylemesi için üretildi.'
+      
     }
   },
 
@@ -49,7 +52,8 @@ export default [
       nl: 'Curved Shortbows zijn voornamelijk gemaakt voor het jagen op het lokale wild',
       ro: '"Curved Shortbows" sunt în principal produse pentru a vâna animalele sălbatice locale.',
       pt: 'O "Curved Shortbow" é produzido principalmente para a caça de vida selvagem local.',
-      zh: '短曲弓經常被製作來狩獵當地的野獸。'
+      zh: '短曲弓經常被製作來狩獵當地的野獸。',
+      tr: '"Curved Shortbow" çoğunlukla yerel yaban hayatı için üretilir.'
     }
   },
 
@@ -67,7 +71,8 @@ export default [
       nl: 'Deze type boog is een standaard voorkeurwapen voor avonturiers.',
       ro: 'Acest tip de arc este o armă standard aleasă de aventurieri.',
       pt: 'Este tipo de arco é a arma padrão escolhida pelos aventureiros.',
-      zh: '這種類型的弓是冒險者的標準選擇。'
+      zh: '這種類型的弓是冒險者的標準選擇。',
+      tr: 'Bu tip yaylar maceracılar için standart bir silah seçimidir.'
     }
   },
 
@@ -85,7 +90,8 @@ export default [
       nl: 'Longbows zijn ontworpen om tot oorlogswapens te dienen.',
       ro: '"Longbows" sunt proiectate ca arme de război.',
       pt: 'Os "Longbows" são projetados para serem armas de guerra.',
-      zh: '長弓被設計於戰爭中。'
+      zh: '長弓被設計於戰爭中。',
+      tr: 'Uzunyaylar savaş silahı olmak üzere tasarlandı.'
     }
   },
 
@@ -103,7 +109,8 @@ export default [
       nl: 'Dit boog is gehandhaafd van monsterbotten om extra kracht en stevigheid te produceren.',
       ro: 'Acest arc este creat din oase de monstru pentru a produce extra rezistență și putere.',
       pt: 'Esse arco é construído com ossos de monstros para ter mais resistência e poder extra.',
-      zh: '這把弓是從怪獸的骨頭製作而成以增加彈性及力量。'
+      zh: '這把弓是從怪獸的骨頭製作而成以增加彈性及力量。',
+      tr: 'Bu yay fazladan güç ve dayanıklılık canavar kemikleri kullanılarak üretildi.'
     }
   },
 
@@ -121,7 +128,8 @@ export default [
       nl: 'Elfen handhavers stoppen voortreffelijke zorg in hun bogen tijdens het handhaving proces en elfen boogschutters hebben niet voor niets een trotste reputatie tijdens oorlogstijden.',
       ro: 'Meșterii elfi au pus o atenție deosebită în procesul de creare al arcurilor lor, iar arcașii Elfi au o reputație cu care se mândresc în timpul luptelor din acest motiv.',
       pt: 'Os artesãos élficos colocam um cuidado primoroso em seus arcos durante o processo de confecção, e os arqueiros élficos têm uma reputação de orgulho em tempos de guerra por um motivo.',
-      zh: '精靈工匠細心製作的弓，所以精靈弓箭手之所以在戰爭中有響亮的名聲是有原因的。'
+      zh: '精靈工匠細心製作的弓，所以精靈弓箭手之所以在戰爭中有響亮的名聲是有原因的。',
+      tr: 'Elf zanaatkarlar yaylarının üretim sürecinde hassas bir dikkat koydular. Ve Elf okçuların savaş zamanında itibarlı bir onurlarının olmasının bir nedeni var.'
     }
   },
 
@@ -139,7 +147,8 @@ export default [
       nl: 'Ancient bows zijn exceptionele wapens die ontworpen zijn door vergeten meester handhavers. Deze bogen zijn vaak doorgegeven van de ene generatie nar de ander.',
       ro: 'Astfel de arcuri sunt arme excepționale ce au fost create de maeștrii meșteri uitați. Aceste arcuri sunt de obicei pasate de la o generație la alta.',
       pt: '"Ancient Bows" são armas excepcionais que foram projetadas por mestres artesãos esquecidos. Esses arcos são frequentemente passados de uma geração para outra.',
-      zh: '古代弓是由被遺忘的工匠大師所製造的理想武器。這些弓常常會由上一代傳至下一代。'
+      zh: '古代弓是由被遺忘的工匠大師所製造的理想武器。這些弓常常會由上一代傳至下一代。',
+      tr: 'Antik yaylar unutulmuş zanaatkarlar tarafında tasarlanmış olağanüstü silahardır. Bu yaylar sık sık nesilden nesile geçerler.'
     }
   },
 
