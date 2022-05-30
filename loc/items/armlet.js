@@ -54,7 +54,7 @@ export default [
       nl: 'Stevig leer is zorgvuldig vervaardigd tot fijne armbanden. Op de zijkanten van het leer staat het ambachtsman z’n handtekening: "Markay\'ak".',
       it: 'La pelle che forma questi pregiati bracciali è stata scrupolosamente lavorata. Sul lato della pelle c\'è la firma dell\'artigiano: "Markay\'ak".',
       ro: 'Aceste manșete rezistente au fost confecționate cu grijă din material de piele dură. Pe marginea acesteia este semnătura meșterului: "Markay\'ak".',
-      tr: '',
+      tr: 'Kalın deriler özenle işlenerek ince pazubentler yapılmış. Derinin kenarında zanaatkarın imzası var: "Markay\'ak".',
       cs: 'Pevná kůže byla pečlivě zpracována do jemných náramků. Na straně kůže je podpis řemeslníka: "Markay\'ak"',
       zh: '堅韌的皮革經過精心製作，製成精美的臂環。皮革的側面是工匠的標誌："Markay\'ak"。'
     }
@@ -75,7 +75,8 @@ export default [
       it: 'Questo tipo di bracciale è decorato con grosse ossa di mostro. Molte tradizioni superstiziose sostengono che chi li indossa diventa pieno del potere del mostro ucciso; altri sostengono che l\'utilizzare le ossa fa si che i mostri non possano resuscitare.',
       ro: 'Acest tip de brățară este ornată cu bucăți mari de oase de monstru. Multe tradiții superstițioase spun că purtătorul unei astfel de brățări devine posedat de spiritul monstrului decedat; totuși, alții spun că refolosirea acestor oase previn monștrii din a se reîncarna.',
       cs: 'Tento typ náramku je ozdobně vytvořen z tlustých kostí monster. Mnoho pověrčivých tradic tvrdí, že nositel těchto náramků je prostoupen mocí zesnulého netvora; jiní však tvrdí, že opětovné použití kostí brání vzkříšení nestvůr.',
-      zh: '這種手鐲是用厚厚的怪物骨頭精心打造的。許多迷信聲稱，這種手鐲的人身上會充滿已故怪物的力量；然而，也有人聲稱，重複使用骨骼可以防止怪物復活。'
+      zh: '這種手鐲是用厚厚的怪物骨頭精心打造的。許多迷信聲稱，這種手鐲的人身上會充滿已故怪物的力量；然而，也有人聲稱，重複使用骨骼可以防止怪物復活。',
+      tr: 'Bu tip bileklikler kalın canavar kemikleri ile süslü şekilde işlenmiş. Çoğu batıl inançlı gelenek bunun gibi çoğu bilekliği giymenin ölmüş canavarların gücüne sahip olunacağına inanıyor; aynı zamanda diğerleri de tekrar tekrar kullanılan kemiklerin canavarları dirilteceğini düşünyor.'
     }
   },
 
