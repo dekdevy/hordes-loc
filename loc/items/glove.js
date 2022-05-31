@@ -12,7 +12,8 @@ export default [
       it: 'Questo panno è comunemente usato per proteggere leggermente le mani e ridurre le vibrazioni.',
       ro: 'Această pânză este de obicei folosită pentru a proteja ușor mâinile și a reduce vibrațiile.',
       nl: 'Dit stuk stof wordt meestal gebruikt om lichte bescherming voor de handen en vibratie te verminderen.',
-      zh: '這種布通常能夠些微的保護雙手和減少震動。'
+      zh: '這種布通常能夠些微的保護雙手和減少震動。',
+      tr: 'Bu kumaş yaygın olarak elleri korumak ve titreşimi azaltmak amacı ile kullanılmaktadır.'
     }
   },
 
@@ -29,7 +30,8 @@ export default [
       it: 'I guanti in tessuto sono realizzati con il miglior tessuto elfico.',
       ro: 'Cloth Mitts sunt făcute din cele mai rafinate pânze ale Elfilor.',
       nl: 'Cloth mitts zijn gemaakt van de fijnste Elfachtige stof.',
-      zh: '由最好的精靈布所製成的布手套。'
+      zh: '由最好的精靈布所製成的布手套。',
+      tr: 'Kumaş eldivenler en iyi elf kumaşı kullanılarak yapılır.'
     }
   },
 
@@ -46,7 +48,8 @@ export default [
       it: 'Questi guanti sono realizzati in pelle indurita e resistente.',
       ro: 'Aceste mănuși sunt create din piele dură și întărită.',
       nl: 'Deze handschoenen zijn gemaakt van stevig en hard leer.',
-      zh: '這些手套是用堅韌的硬化皮革製成的。'
+      zh: '這些手套是用堅韌的硬化皮革製成的。',
+      tr: 'Bu eldivenler sertleştirilmiş kalın deriler kullanılarak üretilmiş.'
     }
   },
 
@@ -63,7 +66,8 @@ export default [
       it: 'Guanti come questo sono realizzati con ossa di mostri. Le ossa dei mostri offrono maggiore resistenza e, occasionalmente, magia residua.',
       ro: 'Mănușile ca acestea sunt făcute din oase de monstru. Oasele de monstru asigură extra rezistență și, ocazional, magie reziduală.',
       nl: 'Hnadschoenen zoals deze zijn gemaakt van monsterbotten. Monsterbotten bieden extra bescherming en weerstand en soms resterende magie.',
-      zh: '這種手套是由怪獸的骨頭製作而成，怪獸骨頭提供額外的彈力，偶爾還有殘留的魔法。'
+      zh: '這種手套是由怪獸的骨頭製作而成，怪獸骨頭提供額外的彈力，偶爾還有殘留的魔法。',
+      tr: 'Bunun gibi eldiven canavar kemiklerinden yapılır. Canavar kemikleri fazladan esneklik ve ara sıra artmış büyü sağlar.'
     }
   },
 
@@ -80,7 +84,8 @@ export default [
       it: 'I guanti di ferro sono realizzati da maestri artigiani che hanno trascorso decenni lavorando con il metallo.',
       ro: 'Mănușile de fier sunt făcute de un meșter maestru care a petrecut decade lucrând cu metal.',
       nl: 'Iron gauntlest zijn gemaakt door een meesterlijke handhaver die tientallen jaren besteed heeft met metaalwerk.',
-      zh: '鐵製手套是由花費幾十年加工金屬的工匠大師製成的。'
+      zh: '鐵製手套是由花費幾十年加工金屬的工匠大師製成的。',
+      tr: 'Demir eldivenler demir işçiliğiyle onlarca yıl harcamaış usta zanaatkarlar tarafında yapıldı.'
     }
   },
 
@@ -97,7 +102,8 @@ export default [
       it: 'Le corporazioni dei maghi spesso creano guanti sperimentali come questo per aumentare il potere magico contro le fazioni dei mostri. Alcuni guanti sperimentali sono decorati con rune copiate da antiche fonti.',
       ro: 'Clanuri de magicieni deseori crează mănuși experimentale ca acestea pentru a crește puterea magiei împotriva grupurilor de monștrii. Câteva mănuși experimentale sunt decorate cu rune ce au fost copiate din surse antice.',
       nl: 'Magiër gildes creëren vaak experimentele handschoenen zoals deze om de magische krachten te versterken tegen monster facties. Sommige experimentele handschoenen zijn versierd met runen die gekopieerd waren van oude bronnen.',
-      zh: '法師協會經常製作這些實驗性的手套來提升對抗怪獸的法術力量。有些實驗性的手套配戴著複製的古代符文。'
+      zh: '法師協會經常製作這些實驗性的手套來提升對抗怪獸的法術力量。有些實驗性的手套配戴著複製的古代符文。',
+      tr: 'Büyücü loncaları sık sık bunun gibi deneme amaçlı eldivenleri canavar kabilelerine karşı büyü gücünü arttırmak için üretirler. Bazı deneysel eldivenler antik kaynaklardan kopyalanan rünler ile süslenmiş.'
     }
   },
 
