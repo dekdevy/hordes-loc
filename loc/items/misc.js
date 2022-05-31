@@ -13,7 +13,8 @@ export default [
       it: 'Una pozione che contiene un liquido rosso che ti cura quando lo bevi.',
       ro: 'O sticluță de poțiune ce conține un lichid roșu, te vindecă imediat ce o bei.',
       pt: 'Um frasco de poção com líquido vermelho, cura você ao beber.',
-      zh: '裝著紅色液體的瓶子，喝下時治癒生命。'
+      zh: '裝著紅色液體的瓶子，喝下時治癒生命。',
+      tr: 'İçinde kırmızı bir sıvı bulunan iksir şişesi, içtiğinde seni iyileştir.'
     }
   },
   {
@@ -30,7 +31,8 @@ export default [
       it: 'Una pozione che contiene un liquido blu, recuperando mana quando lo bevi.',
       ro: 'O sticluță de poțiune ce conține un lichid albastru, îțî reface mana imediat ce o bei.',
       pt: 'Um frasco de poção com líquido azul, recupera mana ao beber.',
-      zh: '裝著藍色液體的瓶子，喝下時回復魔力。'
+      zh: '裝著藍色液體的瓶子，喝下時回復魔力。',
+      tr: 'İçinde mavi bir sıvı bulunan iksir şişesi, içtiğinde mana yeniler.'
     }
   },
   {
@@ -47,7 +49,8 @@ export default [
       it: 'Una pozione che contiene un liquido rosso che ti cura quando lo bevi.',
       ro: 'O sticluță de poțiune ce conține un lichid roșu, te vindecă imediat ce o bei.',
       pt: 'Um frasco de poção com líquido vermelho, cura você ao beber.',
-      zh: '裝著紅色液體的瓶子，喝下時治癒生命。'
+      zh: '裝著紅色液體的瓶子，喝下時治癒生命。',
+      tr: 'İçinde kırmızı bir sıvı bulunan iksir şişesi, içtiğinde seni iyileştir.'
     }
   },
   {
@@ -64,7 +67,8 @@ export default [
       it: 'Una pozione che contiene un liquido blu, recuperando mana quando lo bevi.',
       ro: 'O sticluță de poțiune ce conține un lichid albastru, îțî reface mana imediat ce o bei.',
       pt: 'Um frasco de poção com líquido azul, recupera mana ao beber.',
-      zh: '裝著藍色液體的瓶子，喝下時回復魔力。'
+      zh: '裝著藍色液體的瓶子，喝下時回復魔力。',
+      tr: 'İçinde mavi bir sıvı bulunan iksir şişesi, içtiğinde mana yeniler.'
     }
   },
   {
@@ -81,7 +85,8 @@ export default [
       it: 'Una pozione che contiene un liquido rosso che ti cura quando lo bevi.',
       ro: 'O sticluță de poțiune ce conține un lichid roșu, te vindecă imediat ce o bei.',
       pt: 'Um frasco de poção com líquido vermelho, cura você ao beber.',
-      zh: '裝著紅色液體的瓶子，喝下時治癒生命。'
+      zh: '裝著紅色液體的瓶子，喝下時治癒生命。',
+      tr: 'İçinde kırmızı bir sıvı bulunan iksir şişesi, içtiğinde seni iyileştir.'
     }
   },
   {
@@ -98,7 +103,8 @@ export default [
       it: 'Una pozione che contiene un liquido blu, recuperando mana quando lo bevi.',
       ro: 'O sticluță de poțiune ce conține un lichid albastru, îțî reface mana imediat ce o bei.',
       pt: 'Um frasco de poção com líquido azul, recupera mana ao beber.',
-      zh: '裝著藍色液體的瓶子，喝下時回復魔力。'
+      zh: '裝著藍色液體的瓶子，喝下時回復魔力。',
+      tr: 'İçinde mavi bir sıvı bulunan iksir şişesi, içtiğinde mana yeniler.'
     }
   }
 ]
