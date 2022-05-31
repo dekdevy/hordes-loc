@@ -12,7 +12,8 @@ export default [
       it: 'Questa è un\'arma improvvisata che viene spesso creata dagli agricoltori.',
       ro: 'Această este o armă improvizată care este de obicei creată de fermieri.',
       nl: 'Dit in elkaar gezette wapen wordt vooral gemaakt door boeren.',
-      zh: '這是農民常常製造的臨時武器。'
+      zh: '這是農民常常製造的臨時武器。',
+      tr: 'Bu derme çatma silh daha çok çiftçilir tarafından yapılır.'
     }
   },
 
@@ -29,7 +30,8 @@ export default [
       it: 'Questo è un martello normalmente usato per la carpenteria; tuttavia, le mazze di legno sono spesso usate per combattere per necessità quando risorse e materiali sono scarsi.',
       ro: 'Acesta este un ciocan de obicei folosit la dulgherie; în orice caz, ciocanele din lemn sunt des utilizate în luptă, din necesitate, când resursele și materialele nu sunt suficiente.',
       nl: 'Dit is een hamer die normaal gebruikt wordt voor timmerwerk, maar wooden mallets worden ook af en toe gebruikt als wapens wanneer materialen schaars zijn.',
-      zh: '這是通常用於木工的槌子；然而，當資源與材料缺乏時，木槌經常被拿來戰鬥。'
+      zh: '這是通常用於木工的槌子；然而，當資源與材料缺乏時，木槌經常被拿來戰鬥。',
+      tr: 'Bu çekiç normalde halıcılık için kullanılır; ama yinede ahşap çekiçler gerekli olduğunda kaynaklar kısıtlıyken dövüşmek için ara sıra kullanılabilir.'
     }
   },
 
@@ -46,7 +48,8 @@ export default [
       it: 'Le mazze primordiali sono testate in battaglia e hanno delle leggende ammucchiate; tuttavia, la loro efficacia è diminuita nel tempo.',
       ro: 'Primal Maces sunt testate în luptă si au legende îngrămădite asupra lor; totuși, efectul lor a scăzut cu timpul.',
       nl: 'Primal maces zijn gevecht getest en hebben legendes op hun afgekregen, maar hun efficiëntie is verergerd na verloop van tijd.',
-      zh: '久經沙場的原始狼牙棒寫滿了傳說；然而，它們的效力隨著時間的推移而削弱。'
+      zh: '久經沙場的原始狼牙棒寫滿了傳說；然而，它們的效力隨著時間的推移而削弱。',
+      tr: 'İlkel topuzlar savaş görmüşlerdir ve üzerlerine yığılmış efsaneler bulunur; ama yinede verimleri zaman içinde düşmüştür.'
     }
   },
 
@@ -63,7 +66,8 @@ export default [
       it: 'Questo è lo strumento preferito dagli orchi per gli interrogatori e le battaglie.',
       ro: 'Aceasta este o uneltă preferată de orci pentru interogări și bătălii.',
       nl: 'Dit is een orc z\'n voor gekeurde gereedschap voor onderhandelingen tijdens gevechten.',
-      zh: '這是獸人用於審判及戰鬥的首選工具。'
+      zh: '這是獸人用於審判及戰鬥的首選工具。',
+      tr: 'Bu silah orklar tarafından savaş ve sorgulama için tercih ettiği bir alettir.'
     }
   },
 
@@ -80,7 +84,8 @@ export default [
       it: 'Mazze pesanti sono fatte per la guerra, l\'infiltrazione e il carisma.',
       ro: 'Heavy Maces sunt făcute pentru război, infiltrare, și carismă.',
       nl: 'Heavy Maces zijn gemaakt voor oorlog, infiltratie en charisma.',
-      zh: '重型狼牙棒是為了戰爭、侵略和魅力而製造的。'
+      zh: '重型狼牙棒是為了戰爭、侵略和魅力而製造的。',
+      tr: 'Ağır gürzler savaş, etkileyicilik ve düşman bölgelere sızmak için yapıldı.'
     }
   },
 
@@ -97,7 +102,8 @@ export default [
       it: 'I basher di ferro sono in genere realizzati da esperti artigiani come il mostro Markay \'ak. Gli artigiani lasciano quasi sempre il segno sul ferro come simbolo di orgoglio.',
       ro: 'Iron Bashers sunt de obicei făcute de un meșter expert ca monstrul Markay\'ak. Meșterii aproape de fiecare dată lasă semnătura lor pe fier ca un simbol de mândrie.',
       nl: 'Iron bashers zijn normaal gesproken gemaakt door deskundige vakmensen zoals de monster Markay\'ak. Handhavers laten bijna altijd hun sporen na op het ijzer als een symbool van trots. ',
-      zh: '鐵鎚通常是由專業的工匠製作，例如Markay\'ak。工匠們幾乎總是在鐵上留下他們的印記作為自豪的象徵。'
+      zh: '鐵鎚通常是由專業的工匠製作，例如Markay\'ak。工匠們幾乎總是在鐵上留下他們的印記作為自豪的象徵。',
+      tr: 'Demir eziciler canavar Markay\'ak gibi uzman zanaatkarlar tarafından yapılır. Zanaatkarlar neredeyse her zaman imzalarını demirin üzerinde onur simgesi olarak bırakır.'
     }
   },
 
@@ -114,7 +120,8 @@ export default [
       it: 'Questi mauls sono realizzati con un metallo speciale che ha colori e proprietà distinti. I segreti di questo metallo scuro furono rubati da artigiani mostruosi e resi popolari.',
       ro: 'Aceste ciocane sunt făcute dintr-un metal special care are culori și proprietăți distincte. Secretele acestui metal întunecat au fost furate de la un monstru meșteșugar și apoi popularizat.',
       nl: 'Deze knotsen zijn gemaakt van een speciaal metaal dat unieke kleuren en eigenschappen bezit. De geheimen van dit darkmetal was gestolen van een monster handhaver en gepopulariseerd.',
-      zh: '這些大槌是由一種特殊的金屬製成的，具有獨特的顏色和特性。這種黑暗金屬的秘密是從怪物工匠那裡偷來的，並廣為流傳。'
+      zh: '這些大槌是由一種特殊的金屬製成的，具有獨特的顏色和特性。這種黑暗金屬的秘密是從怪物工匠那裡偷來的，並廣為流傳。',
+      tr: 'Bu tokmaklar rengi ve özellikleri belirgin özel bir metalden yapılmış. Bu kara metalin sırrı canavar zanaatkarlarnda çalındıktan sonra popülerleşti.'
     }
   },
 
@@ -131,7 +138,8 @@ export default [
       it: 'Questi martelletti sono benedetti da una chiesa. I martelletti divini a volte acquisiscono potere attraverso la devozione, la realizzazione e il sacrificio dei precedenti proprietari.',
       ro: 'Aceste ciocănele sunt binecuvântate de o biserică. Ciocănelele divine dobândesc putere prin devotare, realizări, și sacrificiul proprietarului precedent.',
       nl: 'Deze voorzittershamers zijn gezegend door een kerk. Goddelijke voorzittershamers krijgen soms kracht door de doorzetting, prestaties en opofferingen van de vorige eigenaren.',
-      zh: '這些木槌受到教堂的祝福。神槌有時通過前主人的禱告、成就和犧牲獲得力量。'
+      zh: '這些木槌受到教堂的祝福。神槌有時通過前主人的禱告、成就和犧牲獲得力量。',
+      tr: 'Bu tokmaklar bir kilise tarafından kutsandı. İlahi tokmaklar bazen eski sahiplerinin özveri, başarım ve fedakarlıklarından güç kazanır.'
     }
   },
 
