@@ -1,27 +1,33 @@
 export default {
   status: {
     en: 'War Status',
-    fr: 'Statut de la Guerre'
+    fr: 'Statut de la Guerre',
+    tr: 'Savaş durumu'
   },
 
   duration: {
     en: 'Duration',
-    fr: 'Durée'
+    fr: 'Durée',
+    tr: 'Süre'
   },
 
   player: {
     en: 'Player',
-    fr: 'Joueur'
+    fr: 'Joueur',
+    tr: 'Oyuncu'
   },
 
   statustypes: [{
     en: 'Ended',
-    fr: 'Terminé'
+    fr: 'Terminé',
+    tr: 'Sona erdi'
   }, {
     en: 'Ending Soon',
-    fr: 'Bientôt terminé'
+    fr: 'Bientôt terminé',
+    tr: 'Yakında sona erecek'
   }, {
     en: 'Active',
-    fr: 'Actif'
+    fr: 'Actif',
+    tr: 'Aktif'
   }]
 }
