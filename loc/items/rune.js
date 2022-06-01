@@ -12,7 +12,8 @@ export default [
       es: 'Este material plano se encuentra comúnmente en minas; los monstruos a menudo extraen a Lucid para apoyar sus economías.',
       pt: 'Este material plano geralmente é encontrado em minas; monstros frequentemente procuram o Lucid para sustentar suas economias.',
       nl: 'Dit platte materiaal wordt regelmatig gevonden in mijnen, monster mijnen regelmatig op zoek naar Lucid om hun economie te ondersteunen.',
-      zh: '這種扁平材料在礦山中很常見；怪物經常會開採Lucid以支撐他們的經濟。'
+      zh: '這種扁平材料在礦山中很常見；怪物經常會開採Lucid以支撐他們的經濟。',
+      tr: 'Bu yassı madde madenlerde yaygın olarak bulunur. Canavarlar ekonomilerini desteklemek için genelde Lucid madenciliği yaparlar.'
     }
   },
 
@@ -29,7 +30,8 @@ export default [
       es: 'Las curvas de Melant dan la apariencia de escritura o símbolos, pero los herreros creen que estas formaciones naturales revelan una poderosa estructura interna.',
       pt: 'As curvas de Melant dão a aparência de escrita ou símbolos, mas os ferreiros acreditam que essas formações naturais revelam uma poderosa estrutura interna.',
       nl: 'De bochten op de Melant geven het uiterlijk van schrift of symbolen, maar hoefsmeden geloven dat deze natuurlijke formaties de kracht van het interne structuur onthullen.',
-      zh: '在Melant上的凹凸給予一種文字或符號的外觀，但鐵匠相信這些天然形成的材料反映出了強大的永恆結構。'
+      zh: '在Melant上的凹凸給予一種文字或符號的外觀，但鐵匠相信這些天然形成的材料反映出了強大的永恆結構。',
+      tr: 'Melant\'ın eğrilikleri üzerinde yazı veya sembol var görünüşü verdi, ama demirciler bu doğal halin güçlü doğal bir bünye ortaya çıkardığına inanırlar.'
     }
   },
 
@@ -46,7 +48,8 @@ export default [
       es: 'Este útil material proviene de un gran volcán y su región circundante. El Turim fue solía ser intercambiado con frecuencia entre caravanas.',
       pt: 'Este material útil se origina de um grande vulcão e da região circundante. Os turim costumavam ser trocados com frequência entre caravanas.',
       nl: 'Dit nuttige materiaal ontstond van een grote vulkaan en de omringende regio. Turim werden ooit regelmatig verhandeld tussen karavanen.',
-      zh: '這個實用的材料來自於大火山與周遭的地區，Turim常常會在商隊之中交易。'
+      zh: '這個實用的材料來自於大火山與周遭的地區，Turim常常會在商隊之中交易。',
+      tr: 'Bu kullanışlı malzemenin kökeni büyük bir volkan ve etrafını saran bölgeden dayanıyor. Sık sık seyyarlar arasında Turim\'in ticareti yapılır.'
     }
   },
 
@@ -63,7 +66,8 @@ export default [
       es: 'Recientemente se descubrió que este material robusto era útil para mejoras cuando los herreros comenzaron a experimentar con "Fundo sin valor". Desde entonces, Fundo ha sido considerado un recurso valioso.',
       pt: 'Recentemente, descobriu-se que este material robusto era útil para atualizações quando os ferreiros começaram a fazer experiências com "fundo sem valor". Desde então, o Fundo tem sido considerado um recurso valioso.',
       nl: 'Dit robuuste materiaal werd pas ontdekt nuttig te zijn voor upgrades toen hoefsmeden experimenteerde met "worthless Fundo". Sinds die tijd werden Fundo gezien als een kostbaar materiaal.',
-      zh: '這個粗糙的材料在最近被鐵匠發現能夠使用"沒價值的Fundo"來進行升級。從那時候開始，Fundo一直被當作是個有價值的資源。'
+      zh: '這個粗糙的材料在最近被鐵匠發現能夠使用"沒價值的Fundo"來進行升級。從那時候開始，Fundo一直被當作是個有價值的資源。',
+      tr: 'Bu sağlam malzemenin yakın zamanda, demirciler "değersiz Fundo" ile deneyler yapmaya başladıklarında yükseltmeler için faydalı olduğu bulundu. O zamandan beri, Fundo değerli bir kaynak olarak değerlendiriliyor.'
     }
   },
 
@@ -80,7 +84,8 @@ export default [
       es: 'Los Amari a menudo se dan como regalos de reinos en el extranjero. Los estudiosos dicen que el Amari se descubrió por primera vez cuando una raza de criaturas marinas hizo el primer contacto con varios reinos terrestres y trajeron Amari del fondo del mar.',
       pt: 'Os Amari costumam ser dados como presentes de reinos estrangeiros. Estudiosos dizem que Amari foi descoberto pela primeira vez quando uma raça de criaturas marinhas fez contato pela primeira vez com vários reinos terrestres e trouxe Amari do fundo do mar.',
       nl: 'Amari worden regelmatig gegeven als cadeaus van overzeese koninkrijken. Geleerden zeggen dat Amari eerst ondekt werden toen een ras van zeewezens contact maakten met meerdere land koninkrijken en brachten de Amari van de zeebodem.',
-      zh: 'Amari通常會被海外的王國當作禮物。學者說在Amari第一次被發現時是由海中生物在競賽時與地上的王國接觸並且向他們購買從海床來的Amari。'
+      zh: 'Amari通常會被海外的王國當作禮物。學者說在Amari第一次被發現時是由海中生物在競賽時與地上的王國接觸並且向他們購買從海床來的Amari。',
+      tr: 'Amari genel olarak denizaşırı krallıklara hediye olarak verilir. Alimler, Amari\'nin ilk kez bir deniz canlısı ırkının birkaç kara krallığı ile ilk temas kurduğunda ve Amari\'yi deniz tabanından getirdiğinde keşfedildiğini söylüyorlar.'
     }
   },
 
@@ -97,7 +102,8 @@ export default [
       es: 'A menudo confundido con oro, este material alguna vez se pensó que era del mismo material que las escamas de dragón. Muchas decoraciones y armas antiguas están adornadas con Purum.',
       pt: 'Muitas vezes confundido com ouro, este material já foi considerado o mesmo material das escamas de dragão. Muitas decorações e armas antigas são adornadas com Purum.',
       nl: 'Vaak vergist voor goud, over dit materiaal werd ooit gedacht dat het hetzelfde materiaal was als drakenschubben. Vele eeuwenoude decoraties en wapens werden geborduurd met Purum.',
-      zh: '常常被搞混成黃金，這個材料曾經被認為是龍的鱗片。許多古代的裝飾品與武器會鑲嵌著Purum。'
+      zh: '常常被搞混成黃金，這個材料曾經被認為是龍的鱗片。許多古代的裝飾品與武器會鑲嵌著Purum。',
+      tr: 'Altınla sıkça karıştırılan bu maddenin bir zamanlar ejderha puluyla aynı madde olduğu düşünülüyordu. Birçok dekorasyon ve silah, Purum ile süslenmiştir.'
     }
   },
 
