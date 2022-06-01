@@ -1,72 +1,86 @@
 export default {
   targetNone: {
     en: 'Requires no target',
-    fr: 'Ne requiert aucune cible'
+    fr: 'Ne requiert aucune cible',
+    tr: 'Hedef gerektirmez'
   },
 
   targetSelf: {
     en: 'Self cast',
-    fr: 'Sur soi'
+    fr: 'Sur soi',
+    tr: 'Kendinde kullanır'
   },
 
   targetFriendly: {
     en: 'on Allies',
-    fr: 'sur un Allié'
+    fr: 'sur un Allié',
+    tr: 'Dost hedeflerde'
   },
 
   targetEnemy: {
     en: 'on Enemy',
-    fr: 'sur un Ennemi'
+    fr: 'sur un Ennemi',
+    tr: 'Düşman hedeflerde'
   },
 
   spellMelee: {
     en: 'Melee attack',
-    fr: 'Attaque de mélée'
+    fr: 'Attaque de mélée',
+    tr: 'Yakın dövüş saldırısı'
   },
 
   spellMagic: {
     en: 'Magic attack',
-    fr: 'Attaque magique'
+    fr: 'Attaque magique',
+    tr. 'Büyü saldırısı'
   },
 
   spellHeal: {
     en: 'Heal',
-    fr: 'Soin'
+    fr: 'Soin',
+    tr: 'İyileştirme'
   },
 
   spellBuff: {
-    en: 'Buff'
+    en: 'Buff',
+    tr: 'Güçlendirme'
   },
 
   spellBuffStack: {
     en: 'Stackable buff',
-    fr: 'Buff cumulable'
+    fr: 'Buff cumulable',
+    tr: 'Yüklenebilir güçlendirme'
   },
 
   spellMissile: {
     en: 'Ranged missile',
-    fr: 'Projectile'
+    fr: 'Projectile',
+    tr: 'Mermi'
   },
 
   spellMissileBuff: {
     en: 'Range effect',
-    fr: 'Effet de zone'
+    fr: 'Effet de zone',
+    tr: 'Etki menzili'
   },
 
   spellCustom: {
     en: 'Effect',
-    fr: 'Effet'
+    fr: 'Effet',
+    tr: 'Etki'
   },
 
   // eg: For 1 Intelligence gain 0.4 Min Dmg.
   statincrement: [
     {
       en: 'For 1',
-      fr: 'Pour 1'
+      fr: 'Pour 1',
+      tr. 'Her 1'
     },
     {
       en: 'gain',
-      fr: 'octroie'
+      fr: 'octroie',
+      tr. 'kazandırır'
     },
     {
       en: ' '
