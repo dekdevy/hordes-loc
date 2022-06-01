@@ -1,12 +1,14 @@
 export default {
   character: {
     en: 'Character',
-    fr: 'Personnage'
+    fr: 'Personnage',
+    tr: 'Karakter'
   },
 
   skills: {
     en: 'Skills',
-    fr: 'Compétences'
+    fr: 'Compétences',
+    tr: 'Yetenekler'
   },
 
   pvp: {
@@ -19,12 +21,14 @@ export default {
 
   request: {
     en: 'Request',
-    fr: 'Requête'
+    fr: 'Requête',
+    tr: 'Talep'
   },
 
   warstats: {
     en: 'War Statistics',
-    fr: 'Statistiques de Guerre'
+    fr: 'Statistiques de Guerre',
+    tr: 'Savaş istatistikleri'
   },
 
   dpsMeter: {
@@ -33,11 +37,13 @@ export default {
 
   fullscreen: {
     en: 'Fullscreen',
-    fr: 'Plein écran'
+    fr: 'Plein écran',
+    tr: 'Tam ekran'
   },
 
   menuReturn: {
     en: 'Back to Menu',
-    fr: 'Retour au menu'
+    fr: 'Retour au menu',
+    tr: 'Menüye dön'
   }
 }
