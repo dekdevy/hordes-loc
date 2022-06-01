@@ -51,13 +51,16 @@ export default {
     },
     healing: {
       en: 'Healing',
-      fr: 'Soin'
+      fr: 'Soin',
+      tr: 'İyileşme'
     },
     fame: {
-      en: 'Fame'
+      en: 'Fame',
+      tr: 'Şöhret'
     },
     kills: {
-      en: 'Kills'
+      en: 'Kills',
+      tr: 'Leşler'
     }
   },
 
