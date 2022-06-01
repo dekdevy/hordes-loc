@@ -10,7 +10,8 @@ export default [
       it: 'Questo è uno scudo di fortuna che sembra essere stato prodotto per necessità.',
       es: 'Este es un escudo improvisado que parece haberse producido por necesidad.',
       nl: 'Dit in elkaar gezette schild lijkt geproduceerd te zijn uit noodzaak.',
-      zh: '這是一個臨時的盾牌，似乎是出於必要而生產的。'
+      zh: '這是一個臨時的盾牌，似乎是出於必要而生產的。',
+      tr: 'Bu derme çatma kalkan zorunlulukla üretilmiş gibi gözüküyor.'
     }
   },
 
@@ -25,7 +26,8 @@ export default [
       it: 'I bucklers possono essere una protezione utile contro le armi piccole e leggere. I pirati usano spesso buckler per la manovrabilità.',
       es: 'Los Bucklers pueden ser una protección útil contra armas pequeñas y ligeras. Los piratas a menudo usan escudos para maniobrar.',
       nl: 'Bucklers kunnen nuttig zijn als bescherming tegen kleine en lichte wapens. Piraten gebruiken vaak Bucklers voor bewegelijkheid.',
-      zh: '小圓盾可以有效保護小型和輕型武器。海盜經常使用小圓盾來提高機動性。'
+      zh: '小圓盾可以有效保護小型和輕型武器。海盜經常使用小圓盾來提高機動性。',
+      tr: '"Buckeler" küçük ve hafif silahlara karşı iyi koruma sağlayabilir. Korsanlar "buckler" kalkanını manevra kabiliyeti için sıkça kullanmışlardır.'
     }
   },
 
@@ -40,7 +42,8 @@ export default [
       it: 'Questo è un tipo di scudo che viene spesso realizzato durante i periodi di guerra. Sebbene economico, lo scudo è realizzato in robusta corteccia di ferro.',
       es: 'Este es un tipo de escudo que a menudo se hace durante los tiempos de guerra. Aunque es barato, el escudo está hecho de resistente corteza de hierro.',
       nl: 'Dit is een schild type dat regelmatig gemaakt wordt in oorlogstijden. Hoewel het goedkoop is, is het gemaakt van stevig ironbark.',
-      zh: '這是一種盾牌類型，通常在戰爭時期製造。雖然便宜，但盾牌是由堅固的鐵桉木製成的。'
+      zh: '這是一種盾牌類型，通常在戰爭時期製造。雖然便宜，但盾牌是由堅固的鐵桉木製成的。',
+      tr: 'Savaş zamanlarında bunun gibi kalkan tipleri sıkça yapılırdı. Ucuzluğuna rağmen, bu kalkan sağlam ironbark üretimi.'
     }
   },
 
@@ -55,7 +58,8 @@ export default [
       it: 'Le sentinelle del Regno usano spesso scudi come questo per ridurre i danni ricevuti e proteggere i cittadini.',
       es: 'Los centinelas del Reino a menudo usan escudos como este para reducir el daño recibido y proteger a los ciudadanos.',
       nl: 'Koninklijke schildwachters gebruiken vaak dit soort schilden om schade te verminderen en om burgers te beschermen.',
-      zh: '王國哨兵經常使用這樣的盾牌來減少受到的傷害並保護居民。'
+      zh: '王國哨兵經常使用這樣的盾牌來減少受到的傷害並保護居民。',
+      tr: 'Kraliyet nöbetçileri bu kalkanı alınan hasarı azaltmak ve vatandaşları korumak için bunun gibi kalkanlar kullanırdı.'
     }
   },
 
@@ -70,7 +74,8 @@ export default [
       it: 'Questo scudo è realizzato in metallo scuro e unto con un olio nero. Gli avventurieri con questo tipo di scudo si distingueranno sicuramente dagli altri.',
       es: 'Este escudo está hecho de metal oscuro y ungido con un aceite negro. Los aventureros con este tipo de escudo seguramente se destacarán del resto.',
       nl: 'Dit schild is gemaakt van darkmetal en is gezalfd in black oil. Avonturiers met dit soort schilden zullen zeker opvallen tussen de rest.',
-      zh: '這面盾牌由黑暗金屬製成，並塗有黑油。擁有這種盾牌的冒險者必然會脫穎而出。'
+      zh: '這面盾牌由黑暗金屬製成，並塗有黑油。擁有這種盾牌的冒險者必然會脫穎而出。',
+      tr: 'Bu kalkan darkmetalden yapılmış ve siyah bir yağ ile yağlanmıştır. Bunun gibi kalkanı olan maceracılar şüphesiz diğerlerin farklı olacaklardır.'
     }
   },
 
