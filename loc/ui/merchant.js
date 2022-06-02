@@ -27,7 +27,7 @@ export default {
   filtermine: {
     en: 'My Items',
     fr: 'Mes objets',
-    tr: 'Eşyalarım',
+    tr: 'Eşyalarım'
     // el: 'Μόνο τα αντικείμενά μου',
     // nl: 'Alleen mijn voorwerpen',
     // de: 'Nur meine Items',
@@ -51,7 +51,7 @@ export default {
   buy: {
     en: 'Buy',
     fr: 'Acheter',
-    tr: 'Satın al',
+    tr: 'Satın al'
     // el: 'Αγορά αντικειμένου',
     // nl: 'Voorwerp Kopen',
     // de: 'Item kaufen',
