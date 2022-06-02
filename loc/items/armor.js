@@ -13,7 +13,8 @@ export default [
       it: 'È un materiale sorprendentemente robusto che può essere usato come veste protettiva. La natura improvvisata di questo materiale è ovvia, quindi molti avventurieri scelgono di sostituire il sacco di patate il più velocemente possibile.',
       ro: 'Acesta este un material surprinzător de ferm dacă poate fi folosit drept haină de protecție. Natura improvizată a materialului e atât de evidentă, încât mulți aventurieri aleg să înlocuiască acest sac de cartofi cât mai repede cu putință.',
       cs: 'Jedná se o překvapivě pevný materiál, který lze použít jako ochranný oděv. Provizorní povaha tohoto materiálu je zřejmá, takže mnoho dobrodruhů se rozhodne vyměnit pytel od brambor co nejrychleji.',
-      zh: '是個令人驚訝能夠用於防護的布料。很顯然這是出於臨時，所以許多冒險這會選擇盡快找到替代品。'
+      zh: '是個令人驚訝能夠用於防護的布料。很顯然這是出於臨時，所以許多冒險這會選擇盡快找到替代品。',
+      tr: 'Bu şaşırtıcı şekilde sağlam malzeme koruyucu giysi olarak kullanılabilir. Bu malzemenin derme çatma doğası bariz, çoğu maceracı patates çuvalını olabildiğince hızlı şekilde değiştirmeyi seçer.'
     }
   },
 
@@ -31,7 +32,8 @@ export default [
       it: 'Questo indumento è un cimelio di famiglia passato da una generazione avventuriera ad un\'altra.',
       ro: 'Această haină este o moștenire de familie ce a fost pasată în generații de la un aventurier la altul.',
       cs: 'Tento oděv je rodinným dědictvím, které se dědilo z jedné dobrodružné generace na druhou.',
-      zh: '這副服裝是冒險者代代相傳的傳家寶。'
+      zh: '這副服裝是冒險者代代相傳的傳家寶。',
+      tr: 'Bu giyecek, maceracı bir nesilden bir diğerine aktarılan bir aile yadigarıdır.'
     }
   },
 
@@ -49,7 +51,8 @@ export default [
       it: 'Questa tunica è stata fabbricata usando materiali robusti ideali per la resistenza alla sopravvivenza nella natura selvaggia. Molte tradizioni comprendono il donare le tuniche come regalo agli avventurieri che sembravano considerati degni da un consiglio.',
       ro: 'Această tunică este fabricată dintr-un material robust și este făcută pentru a rezista supraviețuirii în sălbăticie. Câteva tradiții implică dăruirea de tunici drept cadou pentru aventurierii desemnați vretnici de o organizație.',
       cs: 'Tato tunika je vyrobena z robustních látek, které jsou navrženy tak, aby vydržely přežití v divočině. Některé tradice zahrnují darování tunik dobrodruhům, které organizace považuje za hodné.',
-      zh: '這副束腰外衣是由粗糙的織物製成以支撐荒郊野外的生存。有些傳統會把束腰外衣當作是禮物送給冒險者視為配得上組織的人物。'
+      zh: '這副束腰外衣是由粗糙的織物製成以支撐荒郊野外的生存。有些傳統會把束腰外衣當作是禮物送給冒險者視為配得上組織的人物。',
+      tr: 'Bu tunik, vahşi doğada hayatta kalmaya dayanacak şekilde tasarlanmış sağlam kumaşlardan üretilmiştir. Bazı gelenekler, bir örgüt tarafından layık görülen maceracılara hediye olarak bu tuniklerden verirler.'
     }
   },
 
@@ -67,7 +70,8 @@ export default [
       it: 'Questa armatura di pelle è una scelta comune per gli avventurieri erranti. La tendenza di indossare questi farsetti in pelle ha origine intorno a Yggdrasil, quando le creature pericolose iniziarono ad appostarsi nelle giungle vicine.',
       ro: 'Această armură din piele reprezintă o alegere comună pentru călătorii aventurieri. Tendința purtării gecilor de piele provine din jurul lui Yggdrasil, pe când creaturile periculoase au început să mișune în junglele din apropiere.',
       cs: 'Toto kožené brnění je běžnou volbou pro cestovatele dobrodruhů. Trend nošení kožených kazajek vznikl kolem Yggdrasilu, když v nedalekých džunglích začala číhat nebezpečná stvoření.',
-      zh: '這副皮革盔甲是個對旅行的冒險者來說不錯的選擇。 穿戴皮革盔甲的潮流起源於當世界樹周圍開始埋伏著危險的生物。'
+      zh: '這副皮革盔甲是個對旅行的冒險者來說不錯的選擇。 穿戴皮革盔甲的潮流起源於當世界樹周圍開始埋伏著危險的生物。',
+      tr: 'Bu deri zırh seyahat eden maceracıların genel seçimidir. Deri yelek giymeye başlama eğilimi, Yggdrasil çevresinde tehlikeli yaratıklar yakınlardaki ormanlarda gizlenmeye başladığında ortaya çıktı.'
     }
   },
 
@@ -85,7 +89,8 @@ export default [
       it: 'Questa armatura è costruita usando scaglie di mostro trovate per terra. le scaglie di mostro sono spesso utilizzate per costruire armature rispettabili quando il metallo scarseggia.',
       ro: 'Armura aceasta este fabricată din solzi de monstru ce au fost găsiți pe pământ. Solzii de monstru sunt deseori prefăcuți în respectabile armuri ori de câte ori nu se mai găsește metal.',
       cs: 'Toto brnění je vyrobeno z monstrózních šupin, které byly nalezeny na zemi. Šupiny monster jsou často vytvořeny do úctyhodných brnění, kdykoli je nedostatek kovu.',
-      zh: '這副盔甲是由地上找到怪獸鱗片製作而成.。當金屬短缺的時候，怪獸鱗片常常會用來製作像樣的盔甲。'
+      zh: '這副盔甲是由地上找到怪獸鱗片製作而成.。當金屬短缺的時候，怪獸鱗片常常會用來製作像樣的盔甲。',
+      tr: 'Bu zırhlar toprakta bulunan canavar kabuklarından yapıldı. Canavar kabukları, metal az bulunan bir kaynak olduğunda hatrı sayılır zırhlar yapılırdı.'
     }
   },
 
