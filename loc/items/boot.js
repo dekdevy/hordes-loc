@@ -12,7 +12,8 @@ export default [
       it: 'Questa calzatura è concepita principalmente per il comfort anziché per la corsa.',
       nl: 'Deze schoenen zijn vooral gemaakt voor comfort in plaats van rennen.',
       ro: 'Acest tip de încățăminte a fost mai degrabă creată pentru confort decât pentru alergare.',
-      zh: '這種鞋類主要是為了穿著舒適而非跑步。'
+      zh: '這種鞋類主要是為了穿著舒適而非跑步。',
+      tr: 'Bu ayak giyecekleri koşmadan çok rahatlık amaçlı yapıldı.'
     }
   },
 
@@ -29,7 +30,8 @@ export default [
       it: 'Questi poggiapiedi sono avvolti in un materiale di fortuna per aumentare la stabilità della corsa.',
       nl: 'Deze schoenen zijn verpakt in een handgemaakt materiaal om stabiliteit tijdens het rennen te verhogen.',
       ro: 'Acești tălpici sunt împachetați într-un material improvizat pentru a crește stabilitatea la alergare.',
-      zh: '這些腳墊混合了應急材料以提升跑步穩定性。'
+      zh: '這些腳墊混合了應急材料以提升跑步穩定性。',
+      tr: 'Bu ayak pedleri koşu sabitliğini arttırmak için derme çatma bir malzeme ile kaplandı.'
     }
   },
 
@@ -46,7 +48,8 @@ export default [
       it: 'Le scarpe in pelle sono create con pregevole fattura per una durata prolungata in battaglia.',
       nl: 'Leren schoenen zijn gemaakt met een fijne vakmanschap voor gemiddelde gevecht uithouding.',
       ro: 'Acești pantofi din piele sunt creați cu măiestrie pentru o durabilitate moderată în luptă.',
-      zh: '皮革鞋子是由精細的手工藝製作而成以提升耐久度。'
+      zh: '皮革鞋子是由精細的手工藝製作而成以提升耐久度。',
+      tr: 'Deri ayakkabılar orta derece savaş dayanıklılığı için ince bir işçilikle yapıldı.'
     }
   },
 
@@ -63,7 +66,8 @@ export default [
       it: 'Le ossa mostruose utilizzate nella creazione di calzature come questa sembrano aumentare la velocità di movimento, ma non è noto se il miglioramento sia attraverso la magia o la leggerezza del materiale.',
       nl: 'De monsterbotten die gebruikt waren in het maken van deze schoenen, zoals deze, blijken de snelheid te verbeteren, maar of de verbetering door magie komt of het gewicht van het materiaal is onbekend.',
       ro: 'Oasele de monstru folosite la crearea acestei încălțăminte par să sporească viteza de deplasare, dar fie că această intensificare a fost făcută prin magie sau prin lejeritatea materialului nu se știe.',
-      zh: '這個鞋子裡所使用的怪獸骨頭似乎能夠提升移動速度，但是這股魔法是從哪裡來的則不得而知。'
+      zh: '這個鞋子裡所使用的怪獸骨頭似乎能夠提升移動速度，但是這股魔法是從哪裡來的則不得而知。',
+      tr: 'Canavar kemikleri hareket hızını arttırmak için bunun gibi ayak giyeceklerinin yapımında kullanılır, ama geliştirmenin nedeninin sihirle mi yoksa malzemenin hafifliğiyle mi olduğu bilinmiyor.'
     }
   },
 
@@ -80,7 +84,8 @@ export default [
       it: 'Questa calzatura è realizzata con cura con squame mostruose che sono allo stesso tempo leggere e robuste per la battaglia.',
       nl: 'Deze schoenen zijn nauwkeurig gemaakt met monsterschubben die zowel licht als stevig zijn voor een gevecht.',
       ro: 'Această încălțăminte a fost grijuliu creată cu solzi de monstru și este în același timp ușoară și robustă pentru bătălie.',
-      zh: '這種輕盈且堅韌的鞋是用怪獸的鱗片以精細的手藝製作而成。'
+      zh: '這種輕盈且堅韌的鞋是用怪獸的鱗片以精細的手藝製作而成。',
+      tr: 'Bu ayak giyecekleri savaş için güçlü ve hafif olan canavarların kabukları ile özenle üretildi.'
     }
   },
 
@@ -97,7 +102,8 @@ export default [
       it: 'Scarpe incantate come questa spingono i piedi di chi la indossa con la magia dell\'ombra per aumentare la velocità.',
       nl: 'Betoverde schoenen zoals deze duwen de dragers voeten naar vergrootte snelheden met schaduwmagie.',
       ro: 'Acest tip de pantofi îmbunătățiți împing picioarele purtătorului cu ajutorul magiei umbrelor, pentru a mări viteza.',
-      zh: '穿戴著這種被附魔的鞋子會因為影子魔法使穿戴者的移動速度增加。'
+      zh: '穿戴著這種被附魔的鞋子會因為影子魔法使穿戴者的移動速度增加。',
+      tr: 'Bunun gibi büyülü ayakkabılar, gölge büyüsü ile kullanıcının ayaklarını iterek hızı arttırır.'
     }
   },
 
