@@ -1,17 +1,20 @@
 export default {
   name: {
     en: 'Name',
-    fr: 'Nom'
+    fr: 'Nom',
+    tr: 'İsim'
   },
 
   level: {
     en: 'Level',
-    fr: 'Niveau'
+    fr: 'Niveau',
+    tr: 'Seviye'
   },
 
   class: {
     en: 'Class',
-    fr: 'Classe'
+    fr: 'Classe',
+    tr: 'Sınıf'
   },
 
   faction: {
@@ -20,21 +23,25 @@ export default {
 
   rank: {
     en: 'Rank',
-    fr: 'Rang'
+    fr: 'Rang',
+    tr: 'Rütbe'
   },
 
   rating: {
     en: 'Rating',
-    fr: 'Classement'
+    fr: 'Classement',
+    tr: 'Derecelendirme'
   },
 
   medals: {
     en: 'Medals',
-    fr: 'Médailles'
+    fr: 'Médailles',
+    tr: 'Madalyalar'
   },
 
   perday: {
     en: 'per day',
-    fr: 'par jour'
+    fr: 'par jour',
+    tr: 'Hergün'
   }
 }
