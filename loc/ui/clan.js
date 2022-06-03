@@ -146,47 +146,56 @@ export default {
 
   noclan: {
     en: 'You have no clan',
-    fr: 'Vous n\'avez pas clan'
+    fr: 'Vous n\'avez pas clan',
+    tr: 'Klanın yok'
   },
 
   viewinvites: {
     en: 'View invitations',
-    fr: 'Voir les invitations'
+    fr: 'Voir les invitations',
+    tr: 'Davetleri görüntüle'
   },
 
   action: {
-    en: 'Action'
+    en: 'Action',
+    tr: 'Eylem'
   },
 
   application:
   {
     en: 'Application',
-    fr: 'Postuler'
+    fr: 'Postuler',
+    tr: 'Başvuru'
   },
 
   kick: {
     en: 'Kick member',
-    fr: 'Exclure un membre'
+    fr: 'Exclure un membre',
+    tr: 'Üyeyi at'
   },
 
   setrank: {
     en: 'Set rank',
-    fr: 'Attribuer un grade'
+    fr: 'Attribuer un grade',
+    tr: 'Rütbeyi ayarla'
   },
 
   left: {
     en: 'Left the clan',
-    fr: 'Quitter le clan'
+    fr: 'Quitter le clan',
+    tr: 'Klandan ayrıl'
   },
 
   memberkicked: {
     en: 'Member kicked',
-    fr: 'Membre exclu'
+    fr: 'Membre exclu',
+    tr: 'Üye atıldı'
   },
 
   applied: {
     en: 'Applied to clan',
-    fr: 'Candidature envoyé'
+    fr: 'Candidature envoyé',
+    tr: 'Klana başvuruldu'
   },
 
   // en: PlayerName invited
@@ -198,94 +207,112 @@ export default {
     },
     {
       en: ' invited',
-      fr: ' invité'
+      fr: ' invité',
+      tr: ' davet edildi'
     }
   ],
 
   applicationaccept: {
     en: 'Accept application',
-    fr: 'Accepter la candidature'
+    fr: 'Accepter la candidature',
+    tr: 'Başvuruyu kabul et'
   },
 
   applicationaccepted: {
     en: 'Accepted application',
-    fr: 'Candidature acceptée'
+    fr: 'Candidature acceptée',
+    tr: 'Başvuru kabul edildi'
   },
 
   applicationdeny: {
     en: 'Deny application',
-    fr: 'Décliner la candidature'
+    fr: 'Décliner la candidature',
+    tr: 'Başvuruyu reddet'
   },
 
   applicationdenied: {
     en: 'Denied application',
-    fr: 'Candidature déclinée'
+    fr: 'Candidature déclinée',
+    tr: 'Başvuru reddedildi'
   },
 
   level: {
     en: 'Clan Level',
-    fr: 'Niveau du Clan'
+    fr: 'Niveau du Clan',
+    tr: 'Klan seviyesi'
   },
 
   capacity: {
     en: 'Capacity',
-    fr: 'Capacité'
+    fr: 'Capacité',
+    tr: 'Kapasite'
   },
 
   nextlevel: {
     en: 'Next Level',
-    fr: 'Prochain niveau'
+    fr: 'Prochain niveau',
+    tr: 'Sonraki seviye'
   },
 
   taxrate: {
     en: 'Tax rate',
-    fr: 'Taux d\'imposition'
+    fr: 'Taux d\'imposition',
+    tr: 'Vergi oranı'
   },
 
   members: {
     en: 'Members',
-    fr: 'Membres'
+    fr: 'Membres',
+    tr: 'Üyeler'
   },
 
   online: {
     en: 'Online',
-    fr: 'En ligne'
+    fr: 'En ligne',
+    tr: 'Çevrimiçi'
   },
 
   treasury: {
     en: 'Treasury',
-    fr: 'Trésorerie'
+    fr: 'Trésorerie',
+    tr: 'Hazine'
   },
 
   highestrank: {
     en: 'Your highest rank',
-    fr: 'Votre plus haut grade'
+    fr: 'Votre plus haut grade',
+    tr: 'En yüksek rütben'
   },
 
   inviteplayers: {
     en: 'Invite players',
-    fr: 'Inviter des joueurs'
+    fr: 'Inviter des joueurs',
+    tr: 'Oyuncuları davet et'
   },
 
   inviteplayer: {
     en: 'Invite player',
-    fr: 'Inviter un joueur'
+    fr: 'Inviter un joueur',
+    tr: 'Oyuncuyu davet et'
   },
 
   apply: {
     en: 'Apply to clan (request invitation)',
-    fr: 'Postuler au clan (demander une invitation)'
+    fr: 'Postuler au clan (demander une invitation)',
+    tr: 'Klana başvur (Davet talep et)'
   },
 
   applications:
   {
     en: 'Applications',
-    fr: 'Candidatures'
+    fr: 'Candidatures',
+    tr: 'Başvurular'
   },
 
   applicationdesc: {
     en: 'This is a list of active applications to your clan. Right click to accept an application and invite the player to your clan',
-    fr: 'Ceci est une liste des membres actifs de ce clan. Faites un clic droit pour accepter une candidature et inviter le joueur dans votre clan'
+    fr: 'Ceci est une liste des membres actifs de ce clan. Faites un clic droit pour accepter une candidature et inviter le joueur dans votre clan',
+    tr: 'Bu liste klanının aktif başvurularıdır. Başvuruyu kabul etmek için sağ tıkla ve oyuncuyu klanına davet et'
   },
 
   player: {
@@ -295,13 +322,15 @@ export default {
 
   memberdesc: {
     en: 'This is a list of active members of this clan. Right click the members for additional options.',
-    fr: 'Ceci est une liste des membres actifs de ce clan. Faites un clic droit sur les membres pour plus d\'options.'
+    fr: 'Ceci est une liste des membres actifs de ce clan. Faites un clic droit sur les membres pour plus d\'options.',
+    tr: 'Bu liste klanının aktif üyelerinin listesidir. Fazladan seçenekler için oyuncuya sağ tıkla.'
   },
 
   // Member, Assistant, Officer, Owner
   rank: {
     en: 'Rank',
-    fr: 'Grade'
+    fr: 'Grade',
+    tr: 'Rütbe'
   },
 
   roles: [
