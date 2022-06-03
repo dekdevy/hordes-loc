@@ -49,12 +49,14 @@ export default {
 
   skillbar: {
     en: 'Skillbar',
-    fr: 'Barre de compétences'
+    fr: 'Barre de compétences',
+    tr: 'Yetenek barı'
   },
 
   skillbarslots: {
     en: 'Skillbar slots',
-    fr: 'Emplacements de barre de compétences'
+    fr: 'Emplacements de barre de compétences',
+    tr: 'Yetenek barı slotu'
   },
 
   keybindings: {
@@ -80,7 +82,8 @@ export default {
 
   bindingreset: {
     en: 'To reset, leave field blank.',
-    fr: 'Pour réinitialiser, laissez le champ vide.'
+    fr: 'Pour réinitialiser, laissez le champ vide.',
+    tr: 'Sıfırlamak için alanı boş bırak'
   },
 
   camera: {
@@ -283,19 +286,22 @@ export default {
   bloom: {
     en: 'Bloom',
     ru: 'Bloom',
-    zh: '泛光特效'
+    zh: '泛光特效',
+    tr: 'Kamaşma'
   },
 
   disableoffscreen: {
     en: 'Disable off-screen creatures',
     ru: 'Отключить монстров за пределами экрана',
     fr: 'Désactiver les créatures hors de l\'écran',
-    zh: '禁止鎖定視野外生物'
+    zh: '禁止鎖定視野外生物',
+    tr: 'Ekranda olmayan canlıları devre dışı bırak'
   },
 
   offscreendesc: {
     en: 'Improves performance but mutes offscreen action',
-    fr: 'Améliore les performance mais désactive les actions hors écran'
+    fr: 'Améliore les performance mais désactive les actions hors écran',
+    tr: 'Performans artar ama ekranda olmayan eylemleri susturur.'
   },
 
   skilleffects: {
@@ -407,22 +413,26 @@ export default {
 
   fogpattern: {
     en: 'Fog pattern',
-    fr: 'Paterne du brouillard'
+    fr: 'Paterne du brouillard',
+    tr: 'Sis modeli'
   },
 
   shadowresolution: {
     en: 'Shadow Resolution',
-    fr: 'Résolution des ombres'
+    fr: 'Résolution des ombres',
+    tr: 'Gölge çözünürlüğü'
   },
 
   creatureshadows: {
     en: 'Shadows on creatures',
-    fr: 'Ombres sur les créatures'
+    fr: 'Ombres sur les créatures',
+    tr: 'Canlıların gölgeleri'
   },
 
   anisotropy: {
     en: 'Anisotropy',
-    fr: 'Anisotropie'
+    fr: 'Anisotropie',
+    tr: 'anizotropi'
   },
 
   // ---- Audio
@@ -474,12 +484,14 @@ export default {
 
   sfxmultiplier: {
     en: 'External SFX Multiplier',
-    fr: 'Multiplicateur SFX extérieur'
+    fr: 'Multiplicateur SFX extérieur',
+    tr: 'Harici SFX çarpanı'
   },
 
   multiplierdesc: {
     en: 'Spells not cast by you can be reduced in volume. 100% = No sound reduction, 50% = half volume.',
-    fr: 'Vous pouvez réduire le son des compétences dont vous n\'êtes pas le lanceur. 100% = Aucune réduction de son, 50% = volume réduit de moitié.'
+    fr: 'Vous pouvez réduire le son des compétences dont vous n\'êtes pas le lanceur. 100% = Aucune réduction de son, 50% = volume réduit de moitié.',
+    tr: 'Senin tarafından yapılmayan büyülerin sesi kısılabilir. 100½ = ses azalması olmaz, 50½ = Yarı ses.'
   },
 
   ambiencevolume: {
@@ -767,181 +779,217 @@ export default {
   // Do not translate "FPS / Ping"
   showfps: {
     en: 'Show FPS / PING',
-    fr: 'Afficher les FPS / PING'
+    fr: 'Afficher les FPS / PING',
+    tr: 'FPS / PING göster'
   },
 
   nameplates: {
     en: 'Nameplates',
-    fr: 'Barres & Noms'
+    fr: 'Barres & Noms',
+    tr: 'İsim etiketleri'
   },
 
   drawrange: {
     en: 'Draw range',
-    fr: 'Portée d\'affichage'
+    fr: 'Portée d\'affichage',
+    tr: 'Çizim mesafesi'
   },
 
   monsterbars: {
     en: 'Monster bars',
-    fr: 'Barres des monstres'
+    fr: 'Barres des monstres',
+    tr: 'Canavar çubukları'
   },
 
   monsternames: {
     en: 'Monster names',
-    fr: 'Noms des monstres'
+    fr: 'Noms des monstres',
+    tr: 'Canavar isimleri'
   },
 
   friendlyplayerbars: {
     en: 'Friendly player bars',
-    fr: 'Barres des joueurs alliés'
+    fr: 'Barres des joueurs alliés',
+    tr: 'Dost oyuncu çubukları'
   },
 
   friendlyplayernames: {
     en: 'Friendly player names',
-    fr: 'Noms des joueurs alliés'
+    fr: 'Noms des joueurs alliés',
+    tr: 'Dost oyuncu isimleri'
   },
 
   enemyplayerbars: {
     en: 'Enemy player bars',
-    fr: 'Barres des joueurs ennemis'
+    fr: 'Barres des joueurs ennemis',
+    tr: 'Düşman oyuncu çubukları'
   },
 
   enemyplayernames: {
     en: 'Enemy player names',
-    fr: 'Noms des joueurs ennemis'
+    fr: 'Noms des joueurs ennemis',
+    tr: 'Düşman oyuncu isimleri'
   },
 
   showlevel: {
     en: 'Always show level',
-    fr: 'Toujours montrer le niveau'
+    fr: 'Toujours montrer le niveau',
+    tr: 'Seviyeyi her zaman göster'
   },
 
   classcolors: {
     en: 'Class color bars',
-    fr: 'Barres colorées par classe'
+    fr: 'Barres colorées par classe',
+    tr: 'Sınıf renkli çubuklar'
   },
 
   transparency: {
     en: 'Transparency',
-    fr: 'Transparence'
+    fr: 'Transparence',
+    tr: 'saydamlık'
   },
 
   drops: {
-    en: 'Butins'
+    en: 'Butins',
+    tr: 'Ganimetler'
   },
 
   showquality: {
     en: 'Show Drop Quality%',
-    fr: 'Afficher le % de Qualité du butin'
+    fr: 'Afficher le % de Qualité du butin',
+    tr: 'Ganimet kalite½\'sini göster'
   },
 
   qualitymin: {
     en: 'Drop Quality% Minimum',
-    fr: '% de Qualité de butin minimum'
+    fr: '% de Qualité de butin minimum',
+    tr: 'Ganimet kalite%\'si en az'
   },
 
   excludedrops: {
     en: 'Exclude Drop Types',
-    fr: 'Types de butins exclus'
+    fr: 'Types de butins exclus',
+    tr: 'Dahil olmayan ganimet türleri'
   },
 
   damagehealing: {
     en: 'Damage & Healing',
-    fr: 'Dégat et Soin'
+    fr: 'Dégat et Soin',
+    tr: 'Hasar ve iyileştirme'
   },
 
   incomingdamage: {
     en: 'Incoming damage',
-    fr: 'Dégat entrant'
+    fr: 'Dégat entrant',
+    tr: 'Gelen hasar'
   },
 
   incominghealing: {
     en: 'Incoming healing',
-    fr: 'Soin entrant'
+    fr: 'Soin entrant',
+    tr: 'Gelen iyileştirme'
   },
 
   incomingmana: {
     en: 'Incoming mana',
-    fr: 'Mana entrant'
+    fr: 'Mana entrant',
+    tr: 'Gelen mana'
   },
 
   preventoverlap: {
     en: 'Prevent overlapping numbers',
-    fr: 'Empêcher le chevauchement des nombres'
+    fr: 'Empêcher le chevauchement des nombres',
+    tr: 'Örtüşen numaraları önle'
   },
 
   icons: {
     en: 'Icons & Buffs',
-    fr: 'Icônes & Buffs'
+    fr: 'Icônes & Buffs',
+    tr: 'Simgeler & güçlendirmeler'
   },
 
   skillcdtext: {
     en: 'Cooldown text (skills)',
-    fr: 'Texte de temps de recharge (compétences)'
+    fr: 'Texte de temps de recharge (compétences)',
+    tr: 'Bekleme süresi metni (yetenekler)'
   },
 
   buffcdtext: {
     en: 'Cooldown text (buffs)',
-    fr: 'Texte de temps de recharge (buffs)'
+    fr: 'Texte de temps de recharge (buffs)',
+    tr 'Bekleme süresi metni (güçlendirmeler)'
   },
 
   selfbuffsonly: {
     en: 'Show your buffs only',
-    fr: 'Afficher uniquement vos buffs'
+    fr: 'Afficher uniquement vos buffs',
+    tr: 'Sadece kendi güçlendirmelerini göster'
   },
 
   flashinterval: {
     en: 'Buff timeout flash interval',
-    fr: 'Intervalle du Flash de fin de Buff'
+    fr: 'Intervalle du Flash de fin de Buff',
+    tr: 'Güçlendirme süresi bittiğinde parlama'
   },
 
   flashduration: {
     en: 'Buff timeout flash duration',
-    fr: 'Durée du flash de fin de Buff'
+    fr: 'Durée du flash de fin de Buff',
+    tr: 'Güçlendirme süresi bittiğinde parlama süresi'
   },
 
   buffmax: {
-    en: 'Buff maximum'
+    en: 'Buff maximum',
+    tr: 'Azami güçlendirme'
   },
 
   buffmaxparty: {
-    en: 'Buff maximum (party)'
+    en: 'Buff maximum (party)',
+    tr: 'Azami güçlendirme (party)'
   },
 
   updateratelimit: {
     en: 'Limited party buff update rate',
-    fr: 'Taux de rafraîchissement des buffs en Party limité'
+    fr: 'Taux de rafraîchissement des buffs en Party limité',
+    tr: 'Sınırlı party güçlendirmesinin güncellenme oranı'
   },
 
   unitframes: {
     en: 'Unitframes',
-    fr: 'Cadres d\'unité'
+    fr: 'Cadres d\'unité',
+    tr: 'Birim çerçeveleri'
   },
 
   showselfparty: {
     en: 'Show self in party',
-    fr: 'S\'afficher dans la Party'
+    fr: 'S\'afficher dans la Party',
+    tr: 'Kendini party\'de göster'
   },
 
   partymana: {
     en: 'Party mana',
-    fr: 'Mana de la Party'
+    fr: 'Mana de la Party',
+    tr: 'Party manası'
   },
 
   partyframewidth: {
     en: 'Party frame width',
-    fr: 'Largeur du cadre de Party'
+    fr: 'Largeur du cadre de Party',
+    tr: 'Party çerçevesi genişliği'
   },
 
   protectedquality: {
     en: 'Protected item quality',
-    fr: 'Qualité d\'objet protégée'
+    fr: 'Qualité d\'objet protégée',
+    tr: 'Korunan eşya kalitesi'
   },
 
   // ---- map
 
   map: {
     en: 'Map',
-    fr: 'Carte'
+    fr: 'Carte',
+    tr: 'Harita'
   },
 
   maplowqual: {
@@ -988,6 +1036,7 @@ export default {
 
   reload: {
     en: 'Requires reload',
-    fr: 'Redémarrage du jeu requis'
+    fr: 'Redémarrage du jeu requis',
+    tr: 'Yeniden yükleme gerekir'
   }
 }
