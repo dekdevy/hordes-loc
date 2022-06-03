@@ -1,7 +1,8 @@
 export default {
   name: {
     en: 'Stash',
-    fr: 'Réserve'
+    fr: 'Réserve',
+    tr: 'Depo' //im not sure about this translation. Because exact translation is a bit weird. So i may change it later
   },
 
   waitunstash: {
