@@ -146,68 +146,81 @@ export default {
 
   reset: {
     en: 'Reset',
-    fr: 'Réinitialiser'
+    fr: 'Réinitialiser',
+    tr: 'Sıfırla'
   },
 
   disable: {
     en: 'Disable',
-    fr: 'Désactiver'
+    fr: 'Désactiver',
+    tr: 'Devre dışı bırak'
   },
 
   playername: {
     en: 'Enter player name',
-    fr: 'Entrez le nom du joueur'
+    fr: 'Entrez le nom du joueur',
+    tr: 'Oyuncu ismi gir'
   },
 
   streamLoad: {
     en: 'Loading streams...',
-    fr: 'Chargement des streams...'
+    fr: 'Chargement des streams...',
+    tr: 'Canlı yayınlar yükleniyor...'
   },
 
   all: {
     en: 'All',
-    fr: 'Tous'
+    fr: 'Tous',
+    tr: 'Hepsi'
   },
 
   filter: {
     en: 'Filter',
-    fr: 'Filtrer'
+    fr: 'Filtrer',
+    tr: 'Filtre'
   },
 
   apply: {
     en: 'Apply',
-    fr: 'Appliquer'
+    fr: 'Appliquer',
+    tr: 'Uygula'
   },
 
   default: {
     en: 'Default',
-    fr: 'Défaut'
+    fr: 'Défaut',
+    tr: 'Varsayılan'
   },
 
   // Used for party and arena searching
   find: {
     en: 'Find',
-    fr: 'Trouver'
+    fr: 'Trouver',
+    tr: 'Ara'
   },
 
   // Used for party and arena searching
   searching: {
     en: 'Searching...',
-    fr: 'Recherche...'
+    fr: 'Recherche...',
+    tr: 'Aranıyor...'
   },
 
   learnable: {
     en: 'Learnable Lv.',
-    fr: 'Apprenable Niv.'
+    fr: 'Apprenable Niv.',
+    tr: 'Öğrenilebilir Svy.'
   },
 
   cost: {
     en: 'Cost',
-    fr: 'Coût'
+    fr: 'Coût',
+    tr: 'Bedel'
   },
 
   noOptions: {
     en: 'No options',
-    fr: 'Pas d\'options'
+    fr: 'Pas d\'options',
+    tr: 'Seçenek yok'
   }
 }
