@@ -138,16 +138,19 @@ export default {
 
   refuse: {
     en: 'The trader does not want this item',
-    fr: 'Le commerçant ne veut pas de cet objet'
+    fr: 'Le commerçant ne veut pas de cet objet',
+    tr: 'Tüccar bu eşyayı istemiyor'
   },
 
   select: {
     en: 'Select an item to sell',
-    fr: 'Sélectionnez un objet à vendre'
+    fr: 'Sélectionnez un objet à vendre',
+    tr: 'Satmak için bir eşya seç'
   },
 
   name: {
     en: 'Trader',
-    fr: 'Commerçant'
+    fr: 'Commerçant',
+    tr: 'Tüccar'
   }
 }
