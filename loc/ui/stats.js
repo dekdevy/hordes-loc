@@ -52,15 +52,18 @@ export default {
     healing: {
       en: 'Healing',
       fr: 'Soin',
-      tr: 'İyileşme'
+      tr: 'İyileşme',
+      ko: '치유량'
     },
     fame: {
       en: 'Fame',
-      tr: 'Şöhret'
+      tr: 'Şöhret',
+      ko: '명성'
     },
     kills: {
       en: 'Kills',
-      tr: 'Leşler'
+      tr: 'Leşler',
+      ko: '킬'
     }
   },
 
@@ -277,7 +280,7 @@ export default {
       it: 'Blocco',
       sr: 'Блок',
       ja: 'ブロック',
-      ko: '막기',
+      ko: '공격 막음',
       cs: 'Blok'
     },
 
@@ -337,7 +340,7 @@ export default {
       it: 'Rapidità',
       sr: 'Журба',
       ja: '機敏さ',
-      ko: '순간 속력',
+      ko: '신속함',
       cs: 'Rychlost'
     },
 
@@ -414,7 +417,8 @@ export default {
       tr: 'Değerlendirme',
       ja: 'レーティング',
       cs: 'Hodnocení',
-      zh: '評分'
+      zh: '評分',
+      ko: '평점'
     },
 
     {
@@ -429,7 +433,7 @@ export default {
       vi: 'Điểm tiềm năng',
       it: 'Punti stat',
       sr: 'Поени за стат.',
-      ko: '스텟 포인트',
+      ko: '스탯 포인트',
       cs: 'Statistické Dody'
       // ja: 'ステータスポイント',
       // tr: 'İstatistik Puanları',
@@ -469,7 +473,8 @@ export default {
     {
       en: 'PvP Level',
       ru: 'Уровень PvP',
-      fr: 'Niveau PvP'
+      fr: 'Niveau PvP',
+      ko: 'PvP 레벨'
     },
 
     {
@@ -545,7 +550,7 @@ export default {
       sr: 'Умањење лечења',
       tr: 'İyileştirme Düşürme',
       ja: '回復阻害',
-      ko: '힐링 감소',
+      ko: '치유량 감소',
       cs: 'Redukce léčení',
       zh: '治療減少'
     }
