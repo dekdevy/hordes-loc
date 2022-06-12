@@ -32,7 +32,7 @@ export default {
     ru: 'Лучники наносят высокий урон по одиночной цели и взрывной урон по области. Хороший лучник всегда будет держать дистанцию и отстреливать врагов издалека.',
     es: 'Los arqueros tienen un gran daño a un solo objetivo y también poseen un explosivo daño en área. Un buen arquero siempre mantendrá su distancia y disparará a sus enemigos desde lejos.',
     fr: 'Les archers peuvent infliger des dégâts élevés sur une cible précise et des dégâts de zone importants. Un bon archer garde toujours ses distances et élimine ses ennemis de loin.',
-    ko: '궁수는 높은 단일 타겟 데미지와 버스트 에어리어 피해를줍니다. 좋은 궁수는 먼 거리에서 항상 적을 도일 당합니다.',
+    ko: '궁수는 높은 단일 타겟 데미지와 버스트 피해를줍니다. 좋은 궁수는 항상 거리를 벌리고 적을 먼거리에서 저격합니다.',
     hi: 'धनुरधारी उच्च एकल लक्ष्य क्षति और प्रभाव क्षति के त्वरित क्षत्रुऔ से निपटते हैं। एक अच्छा धनुरधारी हमेशा अपनी दूरी बनाए रखेगा और दुश्मनों को दूर से ही मार देगा।',
     pt: 'Arqueiros causam danos altos a um único alvo e danos na sua Área de Efeito. Um bom arqueiro sempre manterá sua distância e dispara sobre os inimigos de longe.',
     de: 'Bogenschützen verursachen hohen Einzelzielschaden und kurzen starken AoE-Schaden. Ein guter Bogenschütze wird immer Abstand halten und Feinde aus der Ferne bekämpfen.',
