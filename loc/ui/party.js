@@ -253,7 +253,7 @@ export default {
     sr: 'Unapredi u Assistant-a',
     it: 'Promuovi ad Assistant',
     ja: 'Assistant へ昇格',
-    ko: 'Assistant으로 전환',
+    ko: 'Assistant으로 슬급',
     cs: 'Povýšit na Assistant',
     zh: '升格為 Assistant'
   },
@@ -274,7 +274,7 @@ export default {
     sr: 'Unapredi u Leader-a',
     it: 'Promuovi a Leader',
     ja: 'Leader へ昇格',
-    ko: 'Leader로 전환',
+    ko: 'Leader로 승급',
     cs: 'Povýšit na Leader',
     zh: '升格為 Leader'
   },
