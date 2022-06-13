@@ -104,7 +104,7 @@ export default {
       it: 'Resistenza',
       sr: 'Стамина',
       ja: 'スタミナ',
-      ko: '마나',
+      ko: '스태미나',
       cs: 'Vytrvalost'
     },
 
@@ -260,7 +260,7 @@ export default {
       it: 'Difesa',
       sr: 'Одбрана',
       ja: '防御力',
-      ko: '방어',
+      ko: '방어력',
       cs: 'Obrana'
     },
 
@@ -280,7 +280,7 @@ export default {
       it: 'Blocco',
       sr: 'Блок',
       ja: 'ブロック',
-      ko: '공격 막음',
+      ko: '막기',
       cs: 'Blok'
     },
 
@@ -513,7 +513,7 @@ export default {
       sr: '% Повећања агресије',
       tr: '% Artan Kızdırma ÜRetimi',
       ja: '% ヘイト誘発増加',
-      ko: '% 몹 어그로 증가',
+      ko: '% 어그로 증가',
       cs: '% Zvýšení Generování Agra.'
     },
 
