@@ -7,7 +7,7 @@ export default {
     es: 'Has muerto.',
     de: 'Du bist gestorben.',
     fr: 'Vous êtes mort.',
-    ko: '죽었습니다.',
+    ko: '당신은 죽었습니다.',
     tr: 'Öldün.',
     nl: 'Je bent gestorven.',
     pt: 'Você morreu.',
