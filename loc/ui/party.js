@@ -111,7 +111,7 @@ export default {
     tr: '$1 seni Party\'sine davet etti.',
     pt: '$1 convidou-te para te juntares à Party deles.',
     hi: '$1 उनकेPartyमें शामिल होने के लिए आपको आमंत्रित किया है।',
-    ko: '$1 님이 자신의 Party에 당신을 초대했습니다.',
+    ko: '$1 님이 그의 Party에 당신을 초대했습니다.',
     ro: '$1 te-a invitat să te alături Party-ului',
     zh: '$1 邀請你加入 Party.',
     hu: '$1 meghívott a Partyjába.',
@@ -232,7 +232,7 @@ export default {
     sr: '$1 nudi da te prizove na njegovu/njenu lokaciju.',
     it: '$1 si offre di evocarti nella loro posizione.',
     ja: '$1 が貴方を召喚しようとしています。',
-    ko: '$1 이 당신을 자신이 위치한 장소로 소환하려 합니다.',
+    ko: '$1 이 당신을 그가 위치한 장소로 소환하려 합니다.',
     cs: '$1 ti nabízí vyvolání do jejich lokace',
     zh: '$1 召喚你至他的位置。'
   },
@@ -253,7 +253,7 @@ export default {
     sr: 'Unapredi u Assistant-a',
     it: 'Promuovi ad Assistant',
     ja: 'Assistant へ昇格',
-    ko: 'Assistant으로 승급',
+    ko: 'Assistant으로 슬급',
     cs: 'Povýšit na Assistant',
     zh: '升格為 Assistant'
   },
@@ -295,7 +295,7 @@ export default {
     sr: 'Unazadi Assistant-a',
     it: 'Retrocesso ad Assistant',
     ja: 'Assistant へ降格',
-    ko: 'Assistant 강등',
+    ko: 'Assistant에서 강등',
     cs: 'Degradovat Assistant',
     zh: '降格為 Assistant'
   },
@@ -343,7 +343,8 @@ export default {
   noParty: {
     en: 'No Party',
     fr: 'Aucune Party',
-    tr: 'Party yok'
+    tr: 'Party yok',
+    ko: '파티 없음'
   },
 
   name: {
@@ -353,6 +354,7 @@ export default {
   members: {
     en: 'members',
     fr: 'membres',
-    tr: 'Üyeler'
+    tr: 'Üyeler',
+    ko: '멤버'
   }
 }
