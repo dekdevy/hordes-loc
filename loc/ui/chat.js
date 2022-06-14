@@ -84,7 +84,7 @@ export default {
       sr: 'Бацити',
       it: 'Invocare',
       tr: 'Büyü',
-      ko: '발동하다',
+      ko: '스킬 시전',
       ja: 'キャスト'
     },
     {
@@ -105,7 +105,7 @@ export default {
       cs: 'Poškození',
       sr: 'Штета',
       it: 'Danno',
-      ko: '피해량',
+      ko: '데미지',
       ja: 'ダメージ'
     },
     {
@@ -126,7 +126,7 @@ export default {
       cs: 'Vyléčení',
       sr: 'Оздравити',
       it: 'Cura',
-      ko: '치유',
+      ko: '치유량',
       ja: 'ヒール'
     },
     {
@@ -231,7 +231,7 @@ export default {
       sr: 'Покупи злато',
       it: 'Colleziona l\'oro',
       tr: 'Altını Topla',
-      ko: '골드를 줍기',
+      ko: '골드 줍기',
       ja: 'ゴールド獲得'
     },
     {
@@ -252,7 +252,7 @@ export default {
       sr: 'Потрошено злато',
       it: 'Spendi l\'oro',
       tr: 'Altın Harca',
-      ko: '골드를 쓰다',
+      ko: '골드 사용',
       ja: 'ゴールド支払'
     },
     {
@@ -273,7 +273,7 @@ export default {
       cs: 'Získání slávy',
       sr: 'Добитак славе',
       it: 'Guadagno della Fama',
-      ko: '명성을 얻다',
+      ko: '명성 얻음',
       ja: '名声獲得'
     }
   ]
