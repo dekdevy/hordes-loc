@@ -11,7 +11,7 @@ export default {
     nl: 'Inventaris',
     pt: 'Inventário',
     tr: 'Enventer',
-    ko: '목록',
+    ko: '인벤토리',
     ro: 'inventar',
     zh: '物品欄',
     hu: 'Hátizsák',
@@ -217,7 +217,8 @@ export default {
     tr: 'Eşya ID\'sini kopyala',
     ja: 'アイテムIDをコピー',
     cs: 'Kopírovat ID předmětu',
-    zh: '複製物品ID'
+    zh: '複製物品ID',
+    ko: '아이템 ID 복사'
   },
 
   sell: {
@@ -230,7 +231,8 @@ export default {
     tr: 'Eşya sat',
     ja: '売却する',
     cs: 'Prodat předmět',
-    zh: '出售物品'
+    zh: '出售物品',
+    ko: '아이템 팔기'
   },
 
   splithalf: {
