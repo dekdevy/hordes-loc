@@ -35,7 +35,7 @@ export default {
     tr: 'Kontroller',
     nl: 'Bediening',
     pt: 'Controlos',
-    ko: '컨트롤',
+    ko: '조작법',
     ro: 'Controale',
     zh: '控制',
     hu: 'Irányítás',
@@ -50,13 +50,15 @@ export default {
   skillbar: {
     en: 'Skillbar',
     fr: 'Barre de compétences',
-    tr: 'Yetenek barı'
+    tr: 'Yetenek barı',
+    ko: '스킬바'
   },
 
   skillbarslots: {
     en: 'Skillbar slots',
     fr: 'Emplacements de barre de compétences',
-    tr: 'Yetenek barı slotu'
+    tr: 'Yetenek barı slotu',
+    ko: '스킬바 슬롯'
   },
 
   keybindings: {
@@ -76,14 +78,15 @@ export default {
     sr: 'Конфигурација контрола',
     tr: 'Tuş atamaları',
     ja: 'キー割り当て',
-    ko: '키 고정',
+    ko: '키바인딩',
     cs: 'Klávesové zkratky'
   },
 
   bindingreset: {
     en: 'To reset, leave field blank.',
     fr: 'Pour réinitialiser, laissez le champ vide.',
-    tr: 'Sıfırlamak için alanı boş bırak'
+    tr: 'Sıfırlamak için alanı boş bırak',
+    ko: '리셋하려면, 아무것도 써놓지 마세요.'
   },
 
   camera: {
@@ -120,7 +123,7 @@ export default {
     pt: 'Sensibilidade',
     tr: 'Hassasiyet',
     ja: 'マウス感度',
-    ko: '민감도',
+    ko: '마우스 민감도',
     cs: 'Senzitivita',
     zh: '靈敏度'
   },
@@ -140,7 +143,7 @@ export default {
     pt: 'Inverter horizontalmente',
     tr: 'Yatay ters çevir',
     ja: '左右反転',
-    ko: '가로로 회전',
+    ko: '가로 회전 방향 바꾸기',
     cs: 'Převrátit vodorovně',
     zh: '水平反轉'
   },
@@ -160,7 +163,7 @@ export default {
     pt: 'Inverter verticalmente',
     tr: 'Dikey ters çevir',
     ja: '上下反転',
-    ko: '세로로 회전',
+    ko: '세로 회전 방향 바꾸기',
     cs: 'Převrátit vertikálně',
     zh: '垂直反轉'
   },
@@ -287,7 +290,8 @@ export default {
     en: 'Bloom',
     ru: 'Bloom',
     zh: '泛光特效',
-    tr: 'Kamaşma'
+    tr: 'Kamaşma',
+    ko: '블룸 효과'
   },
 
   disableoffscreen: {
@@ -295,13 +299,15 @@ export default {
     ru: 'Отключить монстров за пределами экрана',
     fr: 'Désactiver les créatures hors de l\'écran',
     zh: '禁止鎖定視野外生物',
-    tr: 'Ekranda olmayan canlıları devre dışı bırak'
+    tr: 'Ekranda olmayan canlıları devre dışı bırak',
+    ko: '시야 밖 몹 숨기기'
   },
 
   offscreendesc: {
     en: 'Improves performance but mutes offscreen action',
     fr: 'Améliore les performance mais désactive les actions hors écran',
-    tr: 'Performans artar ama ekranda olmayan eylemleri susturur.'
+    tr: 'Performans artar ama ekranda olmayan eylemleri susturur.',
+    ko: '퍼포먼스를 높여주지만 시야 밖에서 타겟을 지정할 수 없게 됩니다.'
   },
 
   skilleffects: {
@@ -315,7 +321,7 @@ export default {
     nl: 'Vaardigheidseffecten',
     tr: 'Yetenek Efektleri',
     pt: 'Efeitos de Habilidade',
-    ko: '기술 효과',
+    ko: '스킬 효과',
     ro: 'Efectele Abilităților',
     zh: '技能特效',
     hu: 'Képesség effektek',
@@ -407,32 +413,36 @@ export default {
     sr: 'Ефекти',
     tr: 'Parçacıklar',
     ja: 'パーティクル',
-    ko: '자연 현상',
+    ko: '파티클',
     cs: 'Částice'
   },
 
   fogpattern: {
     en: 'Fog pattern',
     fr: 'Paterne du brouillard',
-    tr: 'Sis modeli'
+    tr: 'Sis modeli',
+    ko: '안개 패턴'
   },
 
   shadowresolution: {
     en: 'Shadow Resolution',
     fr: 'Résolution des ombres',
-    tr: 'Gölge çözünürlüğü'
+    tr: 'Gölge çözünürlüğü',
+    ko: '그림자 해상도'
   },
 
   creatureshadows: {
     en: 'Shadows on creatures',
     fr: 'Ombres sur les créatures',
-    tr: 'Canlıların gölgeleri'
+    tr: 'Canlıların gölgeleri',
+    ko: '몹 그림자'
   },
 
   anisotropy: {
     en: 'Anisotropy',
     fr: 'Anisotropie',
-    tr: 'anizotropi'
+    tr: 'anizotropi',
+    ko: '비등방성'
   },
 
   // ---- Audio
@@ -485,13 +495,15 @@ export default {
   sfxmultiplier: {
     en: 'External SFX Multiplier',
     fr: 'Multiplicateur SFX extérieur',
-    tr: 'Harici SFX çarpanı'
+    tr: 'Harici SFX çarpanı',
+    ko: '외부 효과음 볼륨'
   },
 
   multiplierdesc: {
     en: 'Spells not cast by you can be reduced in volume. 100% = No sound reduction, 50% = half volume.',
     fr: 'Vous pouvez réduire le son des compétences dont vous n\'êtes pas le lanceur. 100% = Aucune réduction de son, 50% = volume réduit de moitié.',
-    tr: 'Senin tarafından yapılmayan büyülerin sesi kısılabilir. 100½ = ses azalması olmaz, 50½ = Yarı ses.'
+    tr: 'Senin tarafından yapılmayan büyülerin sesi kısılabilir. 100½ = ses azalması olmaz, 50½ = Yarı ses.',
+    ko: '당신이 사용하지 않은 스킬의 효과음 볼륨을 조정합니다. 100% = 볼륨 감소 없음, 50% = 반으로 감소함.'
   },
 
   ambiencevolume: {
@@ -504,7 +516,8 @@ export default {
     tr: 'Ambiyans sesi',
     ja: '環境音',
     cs: 'Hlasitost prostředí',
-    zh: '環境音量'
+    zh: '環境音量',
+    ko: '환경 효과음'
   },
 
   musicvolume: {
@@ -780,73 +793,85 @@ export default {
   showfps: {
     en: 'Show FPS / PING',
     fr: 'Afficher les FPS / PING',
-    tr: 'FPS / PING göster'
+    tr: 'FPS / PING göster',
+    ko: 'FPS / PING 표시하기'
   },
 
   nameplates: {
     en: 'Nameplates',
     fr: 'Barres & Noms',
-    tr: 'İsim etiketleri'
+    tr: 'İsim etiketleri',
+    ko: '이름표'
   },
 
   drawrange: {
     en: 'Draw range',
     fr: 'Portée d\'affichage',
-    tr: 'Çizim mesafesi'
+    tr: 'Çizim mesafesi',
+    ko: '이름표 최대 표시 거리'
   },
 
   monsterbars: {
     en: 'Monster bars',
     fr: 'Barres des monstres',
-    tr: 'Canavar çubukları'
+    tr: 'Canavar çubukları',
+    ko: '몹 체력바'
   },
 
   monsternames: {
     en: 'Monster names',
     fr: 'Noms des monstres',
-    tr: 'Canavar isimleri'
+    tr: 'Canavar isimleri',
+    ko: '몹 이름표'
   },
 
   friendlyplayerbars: {
     en: 'Friendly player bars',
     fr: 'Barres des joueurs alliés',
-    tr: 'Dost oyuncu çubukları'
+    tr: 'Dost oyuncu çubukları',
+    ko: '아군 체력바'
   },
 
   friendlyplayernames: {
     en: 'Friendly player names',
     fr: 'Noms des joueurs alliés',
-    tr: 'Dost oyuncu isimleri'
+    tr: 'Dost oyuncu isimleri',
+    ko: '아군 이름표'
   },
 
   enemyplayerbars: {
     en: 'Enemy player bars',
     fr: 'Barres des joueurs ennemis',
-    tr: 'Düşman oyuncu çubukları'
+    tr: 'Düşman oyuncu çubukları',
+    ko: '적 체력바'
   },
 
   enemyplayernames: {
     en: 'Enemy player names',
     fr: 'Noms des joueurs ennemis',
-    tr: 'Düşman oyuncu isimleri'
+    tr: 'Düşman oyuncu isimleri',
+    ko: '적 이름표'
   },
 
   showlevel: {
     en: 'Always show level',
     fr: 'Toujours montrer le niveau',
-    tr: 'Seviyeyi her zaman göster'
+    tr: 'Seviyeyi her zaman göster',
+    ko: '항상 레벨 표시'
   },
 
   classcolors: {
     en: 'Class color bars',
     fr: 'Barres colorées par classe',
-    tr: 'Sınıf renkli çubuklar'
+    tr: 'Sınıf renkli çubuklar',
+    ko: '직업별 색 체력바'
   },
 
   transparency: {
     en: 'Transparency',
     fr: 'Transparence',
-    tr: 'saydamlık'
+    tr: 'saydamlık',
+    ko: '투명도'
   },
 
   drops: {
@@ -857,43 +882,50 @@ export default {
   showquality: {
     en: 'Show Drop Quality%',
     fr: 'Afficher le % de Qualité du butin',
-    tr: 'Ganimet kalite½\'sini göster'
+    tr: 'Ganimet kalite½\'sini göster',
+    ko: '드랍된 아이템 퀄리티% 보이기'
   },
 
   qualitymin: {
     en: 'Drop Quality% Minimum',
     fr: '% de Qualité de butin minimum',
-    tr: 'Ganimet kalite%\'si en az'
+    tr: 'Ganimet kalite%\'si en az',
+    ko: '아이템 퀄리티% 최솟값'
   },
 
   excludedrops: {
     en: 'Exclude Drop Types',
     fr: 'Types de butins exclus',
-    tr: 'Dahil olmayan ganimet türleri'
+    tr: 'Dahil olmayan ganimet türleri',
+    ko: '아이템 보이기에서 제외할 종류'
   },
 
   damagehealing: {
     en: 'Damage & Healing',
     fr: 'Dégat et Soin',
-    tr: 'Hasar ve iyileştirme'
+    tr: 'Hasar ve iyileştirme',
+    ko: '데미지 & 치유량'
   },
 
   incomingdamage: {
     en: 'Incoming damage',
     fr: 'Dégat entrant',
-    tr: 'Gelen hasar'
+    tr: 'Gelen hasar',
+    ko: '받는 데미지'
   },
 
   incominghealing: {
     en: 'Incoming healing',
     fr: 'Soin entrant',
-    tr: 'Gelen iyileştirme'
+    tr: 'Gelen iyileştirme',
+    ko: '받는 치유'
   },
 
   incomingmana: {
     en: 'Incoming mana',
     fr: 'Mana entrant',
-    tr: 'Gelen mana'
+    tr: 'Gelen mana',
+    ko: '받는 마나'
   },
 
   preventoverlap: {
@@ -1037,6 +1069,7 @@ export default {
   reload: {
     en: 'Requires reload',
     fr: 'Redémarrage du jeu requis',
-    tr: 'Yeniden yükleme gerekir'
+    tr: 'Yeniden yükleme gerekir',
+    ko: '재시작 필요'
   }
 }
