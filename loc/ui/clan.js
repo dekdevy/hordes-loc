@@ -107,7 +107,7 @@ export default {
     tr: 'Klan Tag\'ı',
     pt: 'Tag do Clã',
     nl: 'Clan Tag',
-    ko: '클랜 Tag',
+    ko: '클랜 수식어',
     ro: 'Clan Tag',
     zh: '公會標籤',
     hu: 'Klán Címkéje',
@@ -147,55 +147,64 @@ export default {
   noclan: {
     en: 'You have no clan',
     fr: 'Vous n\'avez pas clan',
-    tr: 'Klanın yok'
+    tr: 'Klanın yok',
+    ko: '클랜이 없습니다.'
   },
 
   viewinvites: {
     en: 'View invitations',
     fr: 'Voir les invitations',
-    tr: 'Davetleri görüntüle'
+    tr: 'Davetleri görüntüle',
+    ko: '클랜 초대 목록 보기'
   },
 
   action: {
     en: 'Action',
-    tr: 'Eylem'
+    tr: 'Eylem',
+    ko: '행동'
   },
 
   application:
   {
     en: 'Application',
     fr: 'Postuler',
-    tr: 'Başvuru'
+    tr: 'Başvuru',
+    ko: '수락'
   },
 
   kick: {
     en: 'Kick member',
     fr: 'Exclure un membre',
-    tr: 'Üyeyi at'
+    tr: 'Üyeyi at',
+    ko: '추방'
   },
 
   setrank: {
     en: 'Set rank',
     fr: 'Attribuer un grade',
-    tr: 'Rütbeyi ayarla'
+    tr: 'Rütbeyi ayarla',
+    ko: '등급 설정'
   },
 
   left: {
     en: 'Left the clan',
     fr: 'Quitter le clan',
-    tr: 'Klandan ayrıl'
+    tr: 'Klandan ayrıl',
+    ko: '클랜을 나갔습니다'
   },
 
   memberkicked: {
     en: 'Member kicked',
     fr: 'Membre exclu',
-    tr: 'Üye atıldı'
+    tr: 'Üye atıldı',
+    ko: '클랜원이 추방되었습니다'
   },
 
   applied: {
     en: 'Applied to clan',
     fr: 'Candidature envoyé',
-    tr: 'Klana başvuruldu'
+    tr: 'Klana başvuruldu',
+    ko: '클랜 초대에 수락하셨습니다'
   },
 
   // en: PlayerName invited
@@ -208,129 +217,150 @@ export default {
     {
       en: ' invited',
       fr: ' invité',
-      tr: ' davet edildi'
+      tr: ' davet edildi',
+      ko: ' 초대함'
     }
   ],
 
   applicationaccept: {
     en: 'Accept application',
     fr: 'Accepter la candidature',
-    tr: 'Başvuruyu kabul et'
+    tr: 'Başvuruyu kabul et',
+    ko: '가입 요청 수락'
   },
 
   applicationaccepted: {
     en: 'Accepted application',
     fr: 'Candidature acceptée',
-    tr: 'Başvuru kabul edildi'
+    tr: 'Başvuru kabul edildi',
+    ko: '가입 요청을 수락하였습니다'
   },
 
   applicationdeny: {
     en: 'Deny application',
     fr: 'Décliner la candidature',
-    tr: 'Başvuruyu reddet'
+    tr: 'Başvuruyu reddet',
+    ko: '가입 요청 거절'
   },
 
   applicationdenied: {
     en: 'Denied application',
     fr: 'Candidature déclinée',
-    tr: 'Başvuru reddedildi'
+    tr: 'Başvuru reddedildi',
+    ko: '가입 요청을 거절하였습니다'
   },
 
   level: {
     en: 'Clan Level',
     fr: 'Niveau du Clan',
-    tr: 'Klan seviyesi'
+    tr: 'Klan seviyesi',
+    ko: '클랜 레벨'
   },
 
   capacity: {
     en: 'Capacity',
     fr: 'Capacité',
-    tr: 'Kapasite'
+    tr: 'Kapasite',
+    ko: '정원'
   },
 
   nextlevel: {
     en: 'Next Level',
     fr: 'Prochain niveau',
-    tr: 'Sonraki seviye'
+    tr: 'Sonraki seviye',
+    ko: '다음 레벨'
   },
 
   taxrate: {
     en: 'Tax rate',
     fr: 'Taux d\'imposition',
-    tr: 'Vergi oranı'
+    tr: 'Vergi oranı',
+    ko: '세금'
   },
 
   members: {
     en: 'Members',
     fr: 'Membres',
-    tr: 'Üyeler'
+    tr: 'Üyeler',
+    ko: '클랜원'
   },
 
   online: {
     en: 'Online',
     fr: 'En ligne',
-    tr: 'Çevrimiçi'
+    tr: 'Çevrimiçi',
+    ko: '온라인'
   },
 
   treasury: {
     en: 'Treasury',
     fr: 'Trésorerie',
-    tr: 'Hazine'
+    tr: 'Hazine',
+    ko: '자금'
   },
 
   highestrank: {
     en: 'Your highest rank',
     fr: 'Votre plus haut grade',
-    tr: 'En yüksek rütben'
+    tr: 'En yüksek rütben',
+    ko: '최고 등급'
   },
 
   inviteplayers: {
     en: 'Invite players',
     fr: 'Inviter des joueurs',
-    tr: 'Oyuncuları davet et'
+    tr: 'Oyuncuları davet et',
+    ko: '플레이어 초대'
   },
 
   inviteplayer: {
     en: 'Invite player',
     fr: 'Inviter un joueur',
-    tr: 'Oyuncuyu davet et'
+    tr: 'Oyuncuyu davet et',
+    ko: '초대하기'
   },
 
   apply: {
     en: 'Apply to clan (request invitation)',
     fr: 'Postuler au clan (demander une invitation)',
-    tr: 'Klana başvur (Davet talep et)'
+    tr: 'Klana başvur (Davet talep et)',
+    ko: '클랜 가입 (가입 요청 보내기)'
   },
 
   applications:
   {
     en: 'Applications',
     fr: 'Candidatures',
-    tr: 'Başvurular'
+    tr: 'Başvurular',
+    ko: '가입 요청'
   },
 
   applicationdesc: {
     en: 'This is a list of active applications to your clan. Right click to accept an application and invite the player to your clan',
     fr: 'Ceci est une liste des membres actifs de ce clan. Faites un clic droit pour accepter une candidature et inviter le joueur dans votre clan',
-    tr: 'Bu liste klanının aktif başvurularıdır. Başvuruyu kabul etmek için sağ tıkla ve oyuncuyu klanına davet et'
+    tr: 'Bu liste klanının aktif başvurularıdır. Başvuruyu kabul etmek için sağ tıkla ve oyuncuyu klanına davet et',
+    ko: '이것은 현재 가입을 원하는 플레이어의 목록입니다. 우클릭을 해 가입 요청을 수락할 수 있습니다.'
   },
 
   player: {
     en: 'Player',
-    fr: 'Joueur'
+    fr: 'Joueur',
+    ko: '플레이어'
   },
 
   memberdesc: {
     en: 'This is a list of active members of this clan. Right click the members for additional options.',
     fr: 'Ceci est une liste des membres actifs de ce clan. Faites un clic droit sur les membres pour plus d\'options.',
-    tr: 'Bu liste klanının aktif üyelerinin listesidir. Fazladan seçenekler için oyuncuya sağ tıkla.'
+    tr: 'Bu liste klanının aktif üyelerinin listesidir. Fazladan seçenekler için oyuncuya sağ tıkla.',
+    ko: '이것은 현재 클랜에 소속되어있는 클랜원들의 목록입니다. 우클릭을 해 클랜원들을 관리할 수 있습니다.'
   },
 
   // Member, Assistant, Officer, Owner
   rank: {
     en: 'Rank',
     fr: 'Grade',
-    tr: 'Rütbe'
+    tr: 'Rütbe',
+    ko: '등급'
   },
 
   roles: [
