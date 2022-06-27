@@ -94,7 +94,7 @@ export default {
       en: 'gain',
       fr: 'octroie',
       tr: 'kazandırır',
-      ko: '올라감
+      ko: '올라감'
     },
     {
       en: ' '
