@@ -147,80 +147,93 @@ export default {
   reset: {
     en: 'Reset',
     fr: 'Réinitialiser',
-    tr: 'Sıfırla'
+    tr: 'Sıfırla',
+    ko: '초기화'
   },
 
   disable: {
     en: 'Disable',
     fr: 'Désactiver',
-    tr: 'Devre dışı bırak'
+    tr: 'Devre dışı bırak',
+    ko: '사용하지 않음'
   },
 
   playername: {
     en: 'Enter player name',
     fr: 'Entrez le nom du joueur',
-    tr: 'Oyuncu ismi gir'
+    tr: 'Oyuncu ismi gir',
+    ko: '플레이어 이름을 적으세요'
   },
 
   streamLoad: {
     en: 'Loading streams...',
     fr: 'Chargement des streams...',
-    tr: 'Canlı yayınlar yükleniyor...'
+    tr: 'Canlı yayınlar yükleniyor...',
+    ko: '방송 로딩중...'
   },
 
   all: {
     en: 'All',
     fr: 'Tous',
-    tr: 'Hepsi'
+    tr: 'Hepsi',
+    ko: '모두'
   },
 
   filter: {
     en: 'Filter',
     fr: 'Filtrer',
-    tr: 'Filtre'
+    tr: 'Filtre',
+    ko: '필터'
   },
 
   apply: {
     en: 'Apply',
     fr: 'Appliquer',
-    tr: 'Uygula'
+    tr: 'Uygula',
+    ko: '적용'
   },
 
   default: {
     en: 'Default',
     fr: 'Défaut',
-    tr: 'Varsayılan'
+    tr: 'Varsayılan',
+    ko: '기본'
   },
 
   // Used for party and arena searching
   find: {
     en: 'Find',
     fr: 'Trouver',
-    tr: 'Ara'
+    tr: 'Ara',
+    ko: '찾다'
   },
 
   // Used for party and arena searching
   searching: {
     en: 'Searching...',
     fr: 'Recherche...',
-    tr: 'Aranıyor...'
+    tr: 'Aranıyor...',
+    ko: '검색중...'
   },
 
   learnable: {
     en: 'Learnable Lv.',
     fr: 'Apprenable Niv.',
-    tr: 'Öğrenilebilir Svy.'
+    tr: 'Öğrenilebilir Svy.',
+    ko: '습득 가능 Lv.'
   },
 
   cost: {
     en: 'Cost',
     fr: 'Coût',
-    tr: 'Bedel'
+    tr: 'Bedel',
+    ko: '비용'
   },
 
   noOptions: {
     en: 'No options',
     fr: 'Pas d\'options',
-    tr: 'Seçenek yok'
+    tr: 'Seçenek yok',
+    ko: '옵션이 없습니다'
   }
 }
