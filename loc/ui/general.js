@@ -234,6 +234,6 @@ export default {
     en: 'No options',
     fr: 'Pas d\'options',
     tr: 'Seçenek yok',
-    ko: '옵션이 없습니다'
+    ko: '권한이 없습니다'
   }
 }
