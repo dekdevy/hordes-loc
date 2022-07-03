@@ -167,7 +167,7 @@ export default {
     en: 'Activate Elixir',
     fr: 'Activer l\'Elixir',
     tr: 'Elixir aktif et',
-    ko: 'Elixer 활성화'
+    ko: 'Elixir 활성화'
   },
 
   // Do not translate "Elixir"
