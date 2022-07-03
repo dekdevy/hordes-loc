@@ -58,7 +58,6 @@ export default {
     fr: '+ plus à venir',
     tr: 'daha fazlası',
     ko: '+ 더 많은(TBA)'
-    
   },
 
   // Do not translate "Hordes"
@@ -107,7 +106,6 @@ export default {
     fr: 'Souhaitez-vous vous octroyer ',
     tr: 'Kendine almak ister misin ',
     ko: '자신에게 선물하시겟습니까'
-    
   },
 
   subduration: [
