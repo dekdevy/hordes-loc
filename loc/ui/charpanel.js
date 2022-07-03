@@ -50,6 +50,6 @@ export default {
     en: 'per day',
     fr: 'par jour',
     tr: 'Hergün',
-    ko: '하루 동안'
+    ko: '하루 동안에'
   }
 }
