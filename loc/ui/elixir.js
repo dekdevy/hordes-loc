@@ -87,7 +87,7 @@ export default {
   notactive: {
     en: 'Not active',
     fr: 'Non actif',
-    tr: 'Aktif değil'.
+    tr: 'Aktif değil',
     ko: '활성화 되지않음'
   },
 
