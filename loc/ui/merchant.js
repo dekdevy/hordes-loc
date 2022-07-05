@@ -27,14 +27,14 @@ export default {
   filtermine: {
     en: 'My Items',
     fr: 'Mes objets',
-    tr: 'Eşyalarım'
+    tr: 'Eşyalarım',
+    ko: '내 아이템'
     // el: 'Μόνο τα αντικείμενά μου',
     // nl: 'Alleen mijn voorwerpen',
     // de: 'Nur meine Items',
     // ru: 'Только мои лоты',
     // pt: 'Apenas os meus itens',
     // es: 'Sólo mis objetos',
-    // ko: '내 아이템만',
     // ro: 'Doar obiectele mele',
     // hi: 'मेरी वस्तुएं',
     // zh: '顯示我的物品',
@@ -51,14 +51,14 @@ export default {
   buy: {
     en: 'Buy',
     fr: 'Acheter',
-    tr: 'Satın al'
+    tr: 'Satın al',
+    ko: '구매',
     // el: 'Αγορά αντικειμένου',
     // nl: 'Voorwerp Kopen',
     // de: 'Item kaufen',
     // ru: 'Купить лот',
     // pt: 'Comprar Item',
     // es: 'Comprar Objeto',
-    // ko: '아이템 구매',
     // ro: 'Cumpără Obiectul',
     // hi: 'वस्तु खरीदे',
     // zh: '買物品',
@@ -80,7 +80,7 @@ export default {
     fr: 'Soumettre L\'objet',
     de: 'Item versenden',
     pt: 'Publicar Item',
-    ko: '아이템 판매',
+    ko: '아이템 등록',
     tr: 'Eşyayı Gönder',
     hi: 'बाज़ार में डालें',
     ro: 'Postează Obiectul',
@@ -103,7 +103,7 @@ export default {
     pt: 'Excluir Objeto',
     fr: 'Enlever l\'objet des enchères',
     es: 'Retirar Objeto',
-    ko: '아이템 게시',
+    ko: '아이템 취소',
     ro: 'Scoate Obiectul',
     hi: 'बाज़ार से हटाएं',
     hu: 'Tárgy visszavétele',
@@ -282,46 +282,55 @@ export default {
 
   itemSearch: {
     en: 'Search for item',
-    fr: 'Chercher un objet'
+    fr: 'Chercher un objet',
+    ko: '아이템 검색'
   },
 
   results: {
     en: 'Results',
-    fr: 'Résultats'
+    fr: 'Résultats',
+    ko: '결과'
   },
 
   owner: {
     en: 'Owner',
-    fr: 'Propriétaire'
+    fr: 'Propriétaire',
+    ko: '게시자'
   },
 
   time: {
     en: 'Time',
-    fr: 'Temps'
+    fr: 'Temps',
+    ko: '시간'
   },
 
   perUnit: {
     en: 'Per Unit',
-    fr: 'Par unité'
+    fr: 'Par unité',
+    ko: '개당'
   },
 
   total: {
-    en: 'Total'
+    en: 'Total',
+    ko: '전부'
   },
 
   previous: {
     en: 'Prev',
-    fr: 'Préc'
+    fr: 'Préc',
+    ko: '이전'
   },
 
   next: {
     en: 'Next',
-    fr: 'Suivant'
+    fr: 'Suivant',
+    ko: '다음'
   },
 
   setPrice: {
     en: 'Set price',
-    fr: 'Fixer un prix'
+    fr: 'Fixer un prix',
+    ko: '가격 설정'
   },
 
   // Purchase confirmation message for merchant window
@@ -330,14 +339,17 @@ export default {
   buyItem: [
     {
       en: 'Buy',
-      fr: 'Acheter'
+      fr: 'Acheter',
+      ko: '구매'
     },
     {
       en: 'for',
-      fr: 'pour'
+      fr: 'pour',
+      ko: '에'
     },
     {
-      en: '?'
+      en: '?',
+      ko: '?'
     }
   ]
 }
