@@ -155,6 +155,6 @@ export default {
     en: 'Trader',
     fr: 'Commerçant',
     tr: 'Tüccar',
-    ko: '상인'
+    ko: '무역상'
   }
 }
