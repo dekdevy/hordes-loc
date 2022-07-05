@@ -52,7 +52,7 @@ export default {
     en: 'Buy',
     fr: 'Acheter',
     tr: 'Satın al',
-    ko: '구매',
+    ko: '구매'
     // el: 'Αγορά αντικειμένου',
     // nl: 'Voorwerp Kopen',
     // de: 'Item kaufen',
