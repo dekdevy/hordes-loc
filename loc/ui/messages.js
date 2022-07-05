@@ -255,7 +255,8 @@ export default {
     it: '$1 è stato promosso a ruolo del party.',
     tr: '$1 partyde terfi edildi.',
     ja: '$1 のpartyロールが昇格しました。',
-    cs: '$1 byl povýšen v party roli.'
+    cs: '$1 byl povýšen v party roli.',
+    ko: '$1 는 party 역할로 임명 되었습니다'
 
   },
   partyMemberFound: { // Do not translate "party".
@@ -294,7 +295,8 @@ export default {
     it: '$1 è stato retrocesso nel ruolo del party.',
     tr: '$1 üyesinin party rolü düşürüldü.',
     ja: '$1 のpartyロールが降格しました。',
-    cs: '$1 byl degradován v party roli.'
+    cs: '$1 byl degradován v party roli.',
+    ko: '$1 는 party 역할로 강등 되었습니다'
   },
 
   partyInviteLink: {
@@ -430,7 +432,8 @@ export default {
     it: 'Il tuo oggetto messo all\'asta è stata venduto e $g$1 è stato inviato al tuo Stash.',
     tr: 'Açık arttırmadaki eşyanız satıldı ve $g$1 Stashe gönderildi.',
     ja: '出品した商品が購入され、 $g$1 がStashに送られました。',
-    cs: 'Vaše zboží z aukce bylo prodané za $g$1 a odeslané do vaší pokladny.'
+    cs: 'Vaše zboží z aukce bylo prodané za $g$1 a odeslané do vaší pokladny.',
+    ko: '당신의 경매에서 판매된 금액 $g$1이 보관함으로 입금 되었습니다. '
   },
 
   online: {
