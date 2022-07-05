@@ -16,7 +16,8 @@ export default {
       bn: 'হ্যাঁ, আমি কথা বলা বাক্স, আমি ইতিমধ্যে আপনার ঠোঁটে থাকা প্রশ্নটি দেখতে পাচ্ছি। আমি বহু বছর রাজপরিবারের সেবা করেছি, তাদের অমূল্য রত্ন ও জহরত সংরক্ষণ করেছি, কেবলমাত্র নিজেদের ক্ষুদ্র প্রয়োজনগুলি পূরণ করার জন্য আমাকে এই নোংরা শিবিরে রাখা হয়েছে। যাইহোক, আপনি কি চান আমি আপনাকে আমার পরিষেবাগুলি অফার করি?',
       it: 'Sì, sono una cassa parlante, posso già vedere la domanda formarsi sulle tue labbra. Per molti anni ho servito famiglie reali, conservando le loro inestimabili gemme e gioielli, solo per me essere collocato in questo sudicio campeggio per soddisfare le vostre esigenze meschine. Ad ogni modo, vorresti che ti offrissi i miei servizi?',
       ja: 'やぁ、僕はおしゃべりチェストさ。あぁ質問は却下させて貰うよ。前は王室に仕えていて、お偉いさんの宝玉だの宝石だのを匿ってたんだけど、何だかんだあって君のちゃっちいニーズにお応えする為に小汚いキャンプに置かれる始末さ。まぁそれは置いといて、早速使ってみるかい？',
-      cs: 'Ano, jsem mluvící truhla, Už vidím, jak se otázka formuluje na tvých rtech. Mnoho let sloužím královským rodinám a ukládám jejich drahocenné drahokamy a klenoty, jen abych skončil v tomto špinavém kempu a uspokojil vaše drobné potřeby. V každém případě, chtel by jsi využít mých služeb?'
+      cs: 'Ano, jsem mluvící truhla, Už vidím, jak se otázka formuluje na tvých rtech. Mnoho let sloužím královským rodinám a ukládám jejich drahocenné drahokamy a klenoty, jen abych skončil v tomto špinavém kempu a uspokojil vaše drobné potřeby. V každém případě, chtel by jsi využít mých služeb?',
+      ko: '네, 저는 말하는 상자에요. 저는 당신의 입이 질문을 하려는 것을 알 수 있어요. 나는 오랫동안 왕족을 섬겼고 그들의 중요한 귀금속과 보석들을 보관했었어요. 당신은 당신의 사소한 필요함을 충족시키기 위해 이 더러운 야영지에 나를 배치했어요. 어쨌든 저의 서비스를 이용하실건가요?'
     },
 
     // Do not translate "Stash".
@@ -37,7 +38,8 @@ export default {
       it: 'Sì, apri il mio Stash.',
       ja: 'はい、Stashを利用します。',
       cs: 'Ano, otevři Stash',
-      zh: '是的，打開我的Stash'
+      zh: '是的，打開我的Stash',
+      ko: '네, 저의 Stash를 열어주세요'
     }]
   }]
 }
