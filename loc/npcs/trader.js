@@ -40,7 +40,8 @@ export default {
       tr: 'Bana mallarını göster.',
       ja: '商品を見せて下さい。',
       cs: 'Ukaz mi své zboží',
-      zh: '給我看看你的商品。'
+      zh: '給我看看你的商品。',
+      ko: '당신의 물건을 보여주세요'
     }]
   }],
 
@@ -139,18 +140,21 @@ export default {
   refuse: {
     en: 'The trader does not want this item',
     fr: 'Le commerçant ne veut pas de cet objet',
-    tr: 'Tüccar bu eşyayı istemiyor'
+    tr: 'Tüccar bu eşyayı istemiyor',
+    ko: '상인은 해당 품목을 원하지않습니다'
   },
 
   select: {
     en: 'Select an item to sell',
     fr: 'Sélectionnez un objet à vendre',
-    tr: 'Satmak için bir eşya seç'
+    tr: 'Satmak için bir eşya seç',
+    ko: '판매 할 물건을 고르세요'
   },
 
   name: {
     en: 'Trader',
     fr: 'Commerçant',
-    tr: 'Tüccar'
+    tr: 'Tüccar',
+    ko: '상인'
   }
 }
