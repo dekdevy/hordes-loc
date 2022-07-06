@@ -1030,7 +1030,6 @@ export default {
     fr: 'Qualité d\'objet protégée',
     tr: 'Korunan eşya kalitesi',
     ko: '보호 아이템 품질'
-    
   },
 
   // ---- map
