@@ -253,7 +253,7 @@ export default {
     sr: 'Unapredi u Assistant-a',
     it: 'Promuovi ad Assistant',
     ja: 'Assistant へ昇格',
-    ko: 'Assistant으로 슬급',
+    ko: 'Assistant으로 승급',
     cs: 'Povýšit na Assistant',
     zh: '升格為 Assistant'
   },

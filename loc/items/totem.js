@@ -11,7 +11,8 @@ export default [
       it: 'Queste piume assorbono i sogni e gli incubi di coloro che dormono vicino ad essa. I sogni e gli incubi sono immagazzinati e riutilizzati sotto forma di magia.',
       es: 'Estas plumas absorben los sueños y las pesadillas de aquellos que duerman cerca de ella. Los sueños y las pesadillas serán guardados y reusados en forma de magia.',
       zh: '這些羽毛吸收了睡在它附近的人的夢境和噩夢。這些夢和噩夢以魔法的形式被儲存和重複使用。',
-      tr: 'Bu tüyler yanlarında uyuyan kişinin rüya ve kabuslarını emer. Rüya ve kabuslar depo edilerek büyü olarak yeniden kullanılır.'
+      tr: 'Bu tüyler yanlarında uyuyan kişinin rüya ve kabuslarını emer. Rüya ve kabuslar depo edilerek büyü olarak yeniden kullanılır.',
+      ko: '이 깃털들은 근처에서 잠든 사람들의 꿈과 악몽을 흡수합니다, 흡수한 꿈과 악몽은 마법 형태로 보관되며 재사용 됩니다.'
     }
   },
 
@@ -27,7 +28,8 @@ export default [
       it: 'Una creatura soprannaturale legata a questa bambola alimenta il potere magico disponibile per l\'utente.',
       es: 'Una criatura sobrenatural unida a este muñeco alimenta el poder mágico disponible al usuario.',
       zh: '綁定在這個玩偶上的超自然生物為使用者提供魔法能量。',
-      tr: 'Doğaüstü bir canlı bu oyuncağa hapsedilip büyü gücünü depolayarak kullnıcıya mümkün kılar.'
+      tr: 'Doğaüstü bir canlı bu oyuncağa hapsedilip büyü gücünü depolayarak kullnıcıya mümkün kılar.',
+      ko: '이 인형에 묶여있는  초자연적인 생명체는  사용자가 이해 할 수 있는 마법의 힘을 공급합니다.'
     }
   },
 
@@ -43,7 +45,8 @@ export default [
       it: 'Questa è un recipiente che emana magia proveniente dalla natura.',
       es: 'Este es un recipiente que emana magia proveniente de la naturaleza.',
       zh: '這是個從自然中散發出魔力的容器。',
-      tr: 'Bu, doğadan gelmekte olan sihri etrafa yayar.'
+      tr: 'Bu, doğadan gelmekte olan sihri etrafa yayar.',
+      ko: '이것은 자연에서 자주 보이는  마법을 생성하고 있는 그릇입니다'
     }
   },
 
@@ -59,7 +62,8 @@ export default [
       it: 'Queste perle venivano portate dai santi sacerdoti come mezzo per conservare il potere divino e contare le loro benedizioni. Parte del potere divino risiede ancora all\'interno di ciascuna perla.',
       es: 'Estos rosarios fueron portados por sacerdotes benditos con el objetivo de guardar poder divino y contar sus bendiciones. Parte del poder divino sigue en cada rosario.',
       zh: '這些珠子由聖職人員攜帶，作為他們儲存神力和計算祝福的手段。每顆珠子中還殘留著一些神力。',
-      tr: 'Bu boncuklar kutsal rahipler tarafından ilahi gücü depolamak ve lütuflarını sayma aracı olarak sayılırdı. İlahi gücün bir kısmı hala boncukların her birinde bulunur.'
+      tr: 'Bu boncuklar kutsal rahipler tarafından ilahi gücü depolamak ve lütuflarını sayma aracı olarak sayılırdı. İlahi gücün bir kısmı hala boncukların her birinde bulunur.',
+      ko: '이 구슬들에는 신성한 힘을 저장하며 그들의 축복을 세는 수단으로서  성스러운 제사장들에 의해 운반되고있엇습니다, 아직 각 구슬들에는 여전히 신의 힘이 깃들어 있습니다.'
     }
   },
 
@@ -75,7 +79,8 @@ export default [
       it: 'Quando i templari sconfitti falliscono un compito divino, riversano la devozione spirituale in un totem personale come questo per aiutare il lato del bene.',
       es: 'Cuando los templarios derrotados fallan un objetivo divino, sueltan devoción espiritual en forma de un tótem personal como este para ayudar al bien.',
       zh: '當被擊敗的聖堂武士無法完成一項聖職時，他們會將精神獻身並注入這樣的私人圖騰中，以幫助善良的一方。',
-      tr: 'Kutsal bir görevde malup olan tapınakçılar, iyilikten yana olmak için manevi bağlılığı bunun gibi kişisel bir toteme döküyorlar.'
+      tr: 'Kutsal bir görevde malup olan tapınakçılar, iyilikten yana olmak için manevi bağlılığı bunun gibi kişisel bir toteme döküyorlar.',
+      ko: '성전사들이 신성한 임무에서 실패했을 때, 그들은 선의 편에 돕기 위하여 이것과 같은 개인적인 주제에 영적인 힘을 쏟아 부었습니다.'
     }
   },
 
@@ -90,7 +95,8 @@ export default [
       pl: 'Jest to jeden z wielu magicznych świerszczy, które niegdyś były własnością cesarzy i imperiów Tiger\'s Teeth. Aby przeciwdziałać zabójstwom, magiczne świerszcze zwiększały nadnaturalną moc królewskiej rodziny, która je niosła.',
       vi: 'Đây là một trong nhiều vương miện ma thuật đã từng thuộc sở hữu của các hoàng đế và hoàng hậu của Tiger\'s Teeth. Để chống lại các vụ ám sát, vương miện ma thuật đã tăng cường sức mạnh siêu nhiên của hoàng gia mang chúng.',
       it: 'Questo è uno dei tanti grilli magici che un tempo erano di proprietà degli imperatori e delle imperatrici di Tiger\'s Teeth. Per difendersi dagli omicidi, i grilli magici aumentavano il potere soprannaturale della regalità che li portava.',
-      es: 'Este es uno de los muchos grillos mágicos que una vez fueron propiedad de los emperadores y emperatrices de Tiger\'s Teeth. Para cubrirse de asesinatos, los grillos mágicos mejoraron el poder sobrenatural de la realeza que los llevaba.'
+      es: 'Este es uno de los muchos grillos mágicos que una vez fueron propiedad de los emperadores y emperatrices de Tiger\'s Teeth. Para cubrirse de asesinatos, los grillos mágicos mejoraron el poder sobrenatural de la realeza que los llevaba.',
+      ko: '이것은 한때 Tiger\'s Teeth의 황제들과  황후들이 소유 했엇던 많은 마법의 귀뚜라미들 중에 하나입니다. 암살을 맞서기 위하여 마법의 귀뚜라미는  귀뚜라미를 운반하는 왕족들에게  초자연적인 힘을 부여 하였습니다.  '
     }
   },
 

@@ -876,7 +876,8 @@ export default {
 
   drops: {
     en: 'Butins',
-    tr: 'Ganimetler'
+    tr: 'Ganimetler',
+    ko: '전리품'
   },
 
   showquality: {
@@ -931,89 +932,104 @@ export default {
   preventoverlap: {
     en: 'Prevent overlapping numbers',
     fr: 'Empêcher le chevauchement des nombres',
-    tr: 'Örtüşen numaraları önle'
+    tr: 'Örtüşen numaraları önle',
+    ko: '숫자 중복 방지'
   },
 
   icons: {
     en: 'Icons & Buffs',
     fr: 'Icônes & Buffs',
-    tr: 'Simgeler & güçlendirmeler'
+    tr: 'Simgeler & güçlendirmeler',
+    ko: '아이콘 & 버프'
   },
 
   skillcdtext: {
     en: 'Cooldown text (skills)',
     fr: 'Texte de temps de recharge (compétences)',
-    tr: 'Bekleme süresi metni (yetenekler)'
+    tr: 'Bekleme süresi metni (yetenekler)',
+    ko: '재사용 시간 텍스트 (스킬)'
   },
 
   buffcdtext: {
     en: 'Cooldown text (buffs)',
     fr: 'Texte de temps de recharge (buffs)',
-    tr: 'Bekleme süresi metni (güçlendirmeler)'
+    tr: 'Bekleme süresi metni (güçlendirmeler)',
+    ko: '재사용 시간 텍스트 (버프)'
   },
 
   selfbuffsonly: {
     en: 'Show your buffs only',
     fr: 'Afficher uniquement vos buffs',
-    tr: 'Sadece kendi güçlendirmelerini göster'
+    tr: 'Sadece kendi güçlendirmelerini göster',
+    ko: '사용자 버프만 보기'
   },
 
   flashinterval: {
     en: 'Buff timeout flash interval',
     fr: 'Intervalle du Flash de fin de Buff',
-    tr: 'Güçlendirme süresi bittiğinde parlama'
+    tr: 'Güçlendirme süresi bittiğinde parlama',
+    ko: '버프 시간 초과 플래시 간격'
   },
 
   flashduration: {
     en: 'Buff timeout flash duration',
     fr: 'Durée du flash de fin de Buff',
-    tr: 'Güçlendirme süresi bittiğinde parlama süresi'
+    tr: 'Güçlendirme süresi bittiğinde parlama süresi',
+    ko: '버프 시간 초과 플래시 기간'
   },
 
   buffmax: {
     en: 'Buff maximum',
-    tr: 'Azami güçlendirme'
+    tr: 'Azami güçlendirme',
+    ko: '버프 최대값'
   },
 
   buffmaxparty: {
     en: 'Buff maximum (party)',
-    tr: 'Azami güçlendirme (party)'
+    tr: 'Azami güçlendirme (party)',
+    ko: '버프 최대값 (파티)'
   },
 
   updateratelimit: {
     en: 'Limited party buff update rate',
     fr: 'Taux de rafraîchissement des buffs en Party limité',
-    tr: 'Sınırlı party güçlendirmesinin güncellenme oranı'
+    tr: 'Sınırlı party güçlendirmesinin güncellenme oranı',
+    ko: '파티 버프 업데이트 속도 제한'
   },
 
   unitframes: {
     en: 'Unitframes',
     fr: 'Cadres d\'unité',
-    tr: 'Birim çerçeveleri'
+    tr: 'Birim çerçeveleri',
+    ko: '유닛 프레임'
   },
 
   showselfparty: {
     en: 'Show self in party',
     fr: 'S\'afficher dans la Party',
-    tr: 'Kendini party\'de göster'
+    tr: 'Kendini party\'de göster',
+    ko: '수동 파티 수락 보여주기'
   },
 
   partymana: {
     en: 'Party mana',
     fr: 'Mana de la Party',
-    tr: 'Party manası'
+    tr: 'Party manası',
+    ko: '파티 마나'
   },
 
   partyframewidth: {
     en: 'Party frame width',
     fr: 'Largeur du cadre de Party',
-    tr: 'Party çerçevesi genişliği'
+    tr: 'Party çerçevesi genişliği',
+    ko: '파티 프레임 너비'
   },
 
   protectedquality: {
     en: 'Protected item quality',
     fr: 'Qualité d\'objet protégée',
-    tr: 'Korunan eşya kalitesi'
+    tr: 'Korunan eşya kalitesi',
+    ko: '보호 아이템 품질'
   },
 
   // ---- map
@@ -1021,7 +1037,8 @@ export default {
   map: {
     en: 'Map',
     fr: 'Carte',
-    tr: 'Harita'
+    tr: 'Harita',
+    ko: '지도'
   },
 
   maplowqual: {

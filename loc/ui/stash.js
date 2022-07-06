@@ -2,7 +2,8 @@ export default {
   name: {
     en: 'Stash',
     fr: 'Réserve',
-    tr: 'Depo' //im not sure about this translation. Because exact translation is a bit weird. So i may change it later
+    tr: 'Depo', //im not sure about this translation. Because exact translation is a bit weird. So i may change it later
+    ko: '창고'
   },
 
   waitunstash: {
@@ -39,7 +40,7 @@ export default {
     pt: 'Retirar',
     ro: 'Retrage',
     hi: 'निकालना',
-    ko: '가져오기',
+    ko: '인출 하기',
     tr: 'Çekil',
     zh: '取出',
     hu: 'Kivesz',
@@ -66,7 +67,7 @@ export default {
     pt: 'Depósito',
     tr: 'Yatır',
     ja: '預ける',
-    ko: '두고 가기',
+    ko: '입금 하기',
     cs: 'Vklad',
     zh: '存入'
   },
@@ -81,7 +82,7 @@ export default {
     fr: 'Mettre dans la Stash',
     es: 'Mover al Stash',
     nl: 'Verhuizen naar Stash',
-    ko: '은신처로 이동하십시오',
+    ko: 'Stash 아이템',
     hi: 'स्टैश में भेजें',
     ro: 'Mută în Stash.',
     zh: '存至 Stash',
@@ -107,7 +108,7 @@ export default {
     nl: '$1 is verplaatst naar je Stash.',
     hi: '$1 को स्टैश में भेज दिया गया है',
     ro: '$1 a fost mutat în Stash.',
-    ko: '$1 가 숨겨지기로 옮겼습니다.',
+    ko: '$1 가 Stash 로 이동되었습니다.',
     zh: '$1 被轉移至 Stash',
     hu: 'A Stash-edbe került: $1',
     pl: '$1 został przeniesiony do Stash',
