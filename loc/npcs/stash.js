@@ -17,7 +17,7 @@ export default {
       it: 'Sì, sono una cassa parlante, posso già vedere la domanda formarsi sulle tue labbra. Per molti anni ho servito famiglie reali, conservando le loro inestimabili gemme e gioielli, solo per me essere collocato in questo sudicio campeggio per soddisfare le vostre esigenze meschine. Ad ogni modo, vorresti che ti offrissi i miei servizi?',
       ja: 'やぁ、僕はおしゃべりチェストさ。あぁ質問は却下させて貰うよ。前は王室に仕えていて、お偉いさんの宝玉だの宝石だのを匿ってたんだけど、何だかんだあって君のちゃっちいニーズにお応えする為に小汚いキャンプに置かれる始末さ。まぁそれは置いといて、早速使ってみるかい？',
       cs: 'Ano, jsem mluvící truhla, Už vidím, jak se otázka formuluje na tvých rtech. Mnoho let sloužím královským rodinám a ukládám jejich drahocenné drahokamy a klenoty, jen abych skončil v tomto špinavém kempu a uspokojil vaše drobné potřeby. V každém případě, chtel by jsi využít mých služeb?',
-      ko: '네, 저는 말하는 상자에요. 저는 당신의 입이 질문을 하려는 것을 알 수 있어요. 나는 오랫동안 왕족을 섬겼고 그들의 중요한 귀금속과 보석들을 보관했었어요. 당신은 당신의 사소한 필요함을 충족시키기 위해 이 더러운 야영지에 나를 배치했어요. 어쨌든 저의 서비스를 이용하실건가요?'
+      ko: '네, 저는 말을 할 수 있는 상자입니다. 당신의 관심을 자극한 모양이군요. 저는 여러 해 동안 왕족을 섬기면서 가치조차 매길 수 없는 보석들과 장신구들을 담았지만, 이제 전 이런 불결한 야영지에 박혀 그쪽의 하찮은 욕구나 충족시킬 신세네요. 뭐, 필요한거라도 있으세요?'
     },
 
     // Do not translate "Stash".
