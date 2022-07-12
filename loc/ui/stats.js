@@ -209,7 +209,7 @@ export default {
       ru: 'Мин. урон.',
       es: 'Daño Min',
       pt: 'Dano Mín',
-      fr: 'Dégats Min.',
+      fr: 'Dégâts Min.',
       tr: 'Min Hasar',
       hu: 'Min. Sebz.',
       zh: '最小傷害',
