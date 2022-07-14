@@ -146,7 +146,7 @@ export default {
 
   noclan: {
     en: 'You have no clan',
-    fr: 'Vous n\'avez pas clan',
+    fr: 'Vous n\'avez pas de clan',
     tr: 'Klanın yok',
     ko: '클랜이 없습니다.'
   },
@@ -174,7 +174,7 @@ export default {
 
   kick: {
     en: 'Kick member',
-    fr: 'Exclure un membre',
+    fr: 'Exclure',
     tr: 'Üyeyi at',
     ko: '추방'
   },
