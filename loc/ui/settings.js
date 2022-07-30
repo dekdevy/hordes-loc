@@ -853,7 +853,7 @@ export default {
     fr: 'Noms des joueurs alliés',
     tr: 'Dost oyuncu isimleri',
     ko: '아군 이름표',
-    zh: '有方名稱'
+    zh: '友方名稱'
   },
 
   enemyplayerbars: {
@@ -1025,7 +1025,7 @@ export default {
     en: 'Buff maximum (party)',
     tr: 'Azami güçlendirme (party)',
     ko: '버프 최대값 (파티)',
-    zh: '顯示狀態數量(party)
+    zh: '顯示狀態數量(party)'
   },
 
   updateratelimit: {
