@@ -344,7 +344,8 @@ export default {
     en: 'No Party',
     fr: 'Aucune Party',
     tr: 'Party yok',
-    ko: '파티 없음'
+    ko: '파티 없음',
+    zh: '沒有隊伍'
   },
 
   name: {
@@ -355,6 +356,7 @@ export default {
     en: 'members',
     fr: 'membres',
     tr: 'Üyeler',
-    ko: '멤버'
+    ko: '멤버',
+    zh: '隊員'
   }
 }
