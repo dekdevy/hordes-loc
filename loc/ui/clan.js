@@ -325,7 +325,7 @@ export default {
     fr: 'Votre plus haut grade',
     tr: 'En yüksek rütben',
     ko: '최고 등급',
-    zh: '你的最高排位'
+    zh: '你的最高職位'
   },
 
   inviteplayers: {
@@ -349,7 +349,7 @@ export default {
     fr: 'Postuler au clan (demander une invitation)',
     tr: 'Klana başvur (Davet talep et)',
     ko: '클랜 가입 (가입 요청 보내기)',
-    zh: '申請公會(發送申請)'
+    zh: '申請公會(發送請求)'
   },
 
   applications:
