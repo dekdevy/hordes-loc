@@ -513,7 +513,7 @@ export default {
     fr: 'Vous pouvez réduire le son des compétences dont vous n\'êtes pas le lanceur. 100% = Aucune réduction de son, 50% = volume réduit de moitié.',
     tr: 'Senin tarafından yapılmayan büyülerin sesi kısılabilir. 100½ = ses azalması olmaz, 50½ = Yarı ses.',
     ko: '당신이 사용하지 않은 스킬의 효과음 볼륨을 조정합니다. 100% = 볼륨 감소 없음, 50% = 반으로 감소함.',
-    zh: '不是你施放的法術可以減少音量。100% = 沒有聲音，50% = 一半音量。
+    zh: '不是你施放的法術可以減少音量。100% = 沒有聲音，50% = 一半音量。'
   },
 
   ambiencevolume: {
