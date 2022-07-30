@@ -360,7 +360,7 @@ export default {
     },
     {
       en: '?',
-      ko: '?',
+      ko: '?'
     }
   ]
 }
