@@ -205,7 +205,7 @@ export default {
     fr: 'Membre exclu',
     tr: 'Üye atıldı',
     ko: '클랜원이 추방되었습니다',
-    zh: '會員已踢掉'
+    zh: '已剔除會員'
   },
 
   applied: {
