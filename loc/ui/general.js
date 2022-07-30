@@ -148,56 +148,64 @@ export default {
     en: 'Reset',
     fr: 'Réinitialiser',
     tr: 'Sıfırla',
-    ko: '초기화'
+    ko: '초기화',
+    zh: '重置'
   },
 
   disable: {
     en: 'Disable',
     fr: 'Désactiver',
     tr: 'Devre dışı bırak',
-    ko: '사용하지 않음'
+    ko: '사용하지 않음',
+    zh: '禁用'
   },
 
   playername: {
     en: 'Enter player name',
     fr: 'Entrez le nom du joueur',
     tr: 'Oyuncu ismi gir',
-    ko: '플레이어 이름을 적으세요'
+    ko: '플레이어 이름을 적으세요',
+    zh: '輸入玩家名稱'
   },
 
   streamLoad: {
     en: 'Loading streams...',
     fr: 'Chargement des streams...',
     tr: 'Canlı yayınlar yükleniyor...',
-    ko: '방송 로딩중...'
+    ko: '방송 로딩중...',
+    zh: '讀取實況...'
   },
 
   all: {
     en: 'All',
     fr: 'Tous',
     tr: 'Hepsi',
-    ko: '모두'
+    ko: '모두',
+    zh: '全部'
   },
 
   filter: {
     en: 'Filter',
     fr: 'Filtrer',
     tr: 'Filtre',
-    ko: '필터'
+    ko: '필터',
+    zh: '篩選'
   },
 
   apply: {
     en: 'Apply',
     fr: 'Appliquer',
     tr: 'Uygula',
-    ko: '적용'
+    ko: '적용',
+    zh: '確認'
   },
 
   default: {
     en: 'Default',
     fr: 'Défaut',
     tr: 'Varsayılan',
-    ko: '기본'
+    ko: '기본',
+    zh: '默認'
   },
 
   // Used for party and arena searching
@@ -205,7 +213,8 @@ export default {
     en: 'Find',
     fr: 'Trouver',
     tr: 'Ara',
-    ko: '찾다'
+    ko: '찾다',
+    zh: '尋找'
   },
 
   // Used for party and arena searching
@@ -213,27 +222,31 @@ export default {
     en: 'Searching...',
     fr: 'Recherche...',
     tr: 'Aranıyor...',
-    ko: '검색중...'
+    ko: '검색중...',
+    zh: '搜尋中...'
   },
 
   learnable: {
     en: 'Learnable Lv.',
     fr: 'Apprenable Niv.',
     tr: 'Öğrenilebilir Svy.',
-    ko: '습득 가능 Lv.'
+    ko: '습득 가능 Lv.',
+    zh: '可以學習 Lv.'
   },
 
   cost: {
     en: 'Cost',
     fr: 'Coût',
     tr: 'Bedel',
-    ko: '비용'
+    ko: '비용',
+    zh: '費用'
   },
 
   noOptions: {
     en: 'No options',
     fr: 'Pas d\'options',
     tr: 'Seçenek yok',
-    ko: '권한이 없습니다'
+    ko: '권한이 없습니다',
+    zh: '沒有選項'
   }
 }
