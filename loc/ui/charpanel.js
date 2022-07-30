@@ -35,7 +35,6 @@ export default {
     tr: 'Rütbe',
     ko: '계급',
     zh: '排位'
-    
   },
 
   rating: {
