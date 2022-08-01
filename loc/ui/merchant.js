@@ -28,7 +28,8 @@ export default {
     en: 'My Items',
     fr: 'Mes objets',
     tr: 'Eşyalarım',
-    ko: '내 아이템'
+    ko: '내 아이템',
+    zh: '我的物品'
     // el: 'Μόνο τα αντικείμενά μου',
     // nl: 'Alleen mijn voorwerpen',
     // de: 'Nur meine Items',
@@ -37,7 +38,6 @@ export default {
     // es: 'Sólo mis objetos',
     // ro: 'Doar obiectele mele',
     // hi: 'मेरी वस्तुएं',
-    // zh: '顯示我的物品',
     // hu: 'Csak az én tárgyaim',
     // pl: 'Tylko moje przedmioty',
     // vi: 'Chỉ trang bị của tôi',
@@ -52,7 +52,8 @@ export default {
     en: 'Buy',
     fr: 'Acheter',
     tr: 'Satın al',
-    ko: '구매'
+    ko: '구매',
+    zh: '購買'
     // el: 'Αγορά αντικειμένου',
     // nl: 'Voorwerp Kopen',
     // de: 'Item kaufen',
@@ -61,7 +62,6 @@ export default {
     // es: 'Comprar Objeto',
     // ro: 'Cumpără Obiectul',
     // hi: 'वस्तु खरीदे',
-    // zh: '買物品',
     // hu: 'Vásárlás',
     // pl: 'Kup przedmiot',
     // vi: 'Kupi',
@@ -283,54 +283,63 @@ export default {
   itemSearch: {
     en: 'Search for item',
     fr: 'Chercher un objet',
-    ko: '아이템 검색'
+    ko: '아이템 검색',
+    zh: '搜尋物品'
   },
 
   results: {
     en: 'Results',
     fr: 'Résultats',
-    ko: '결과'
+    ko: '결과',
+    zh: '結果'
   },
 
   owner: {
     en: 'Owner',
     fr: 'Propriétaire',
-    ko: '게시자'
+    ko: '게시자',
+    zh: '賣家'
   },
 
   time: {
     en: 'Time',
     fr: 'Temps',
-    ko: '시간'
+    ko: '시간',
+    zh: '時間'
   },
 
   perUnit: {
     en: 'Per Unit',
     fr: 'Par unité',
-    ko: '개당'
+    ko: '개당',
+    zh: '每單位'
   },
 
   total: {
     en: 'Total',
-    ko: '전부'
+    ko: '전부',
+    zh: '總合'
   },
 
   previous: {
     en: 'Prev',
     fr: 'Préc',
-    ko: '이전'
+    ko: '이전',
+    zh: '上一頁'
   },
 
   next: {
     en: 'Next',
     fr: 'Suivant',
-    ko: '다음'
+    ko: '다음',
+    zh: '下一頁'
   },
 
   setPrice: {
     en: 'Set price',
     fr: 'Fixer un prix',
-    ko: '가격 설정'
+    ko: '가격 설정',
+    zh: '設定價格'
   },
 
   // Purchase confirmation message for merchant window
@@ -340,12 +349,14 @@ export default {
     {
       en: 'Buy',
       fr: 'Acheter',
-      ko: '구매'
+      ko: '구매',
+      zh: '購買'
     },
     {
       en: 'for',
       fr: 'pour',
-      ko: '에'
+      ko: '에',
+      zh: '花費'
     },
     {
       en: '?',
