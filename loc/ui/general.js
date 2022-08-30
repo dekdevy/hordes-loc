@@ -149,7 +149,8 @@ export default {
     fr: 'Réinitialiser',
     tr: 'Sıfırla',
     ko: '초기화',
-    zh: '重置'
+    zh: '重置',
+    pt: 'Resetar'
   },
 
   disable: {
@@ -157,7 +158,8 @@ export default {
     fr: 'Désactiver',
     tr: 'Devre dışı bırak',
     ko: '사용하지 않음',
-    zh: '禁用'
+    zh: '禁用',
+    pt: 'Desativar'
   },
 
   playername: {
@@ -165,7 +167,8 @@ export default {
     fr: 'Entrez le nom du joueur',
     tr: 'Oyuncu ismi gir',
     ko: '플레이어 이름을 적으세요',
-    zh: '輸入玩家名稱'
+    zh: '輸入玩家名稱',
+    pt: 'Digite o nome do jogador'
   },
 
   streamLoad: {
@@ -173,7 +176,8 @@ export default {
     fr: 'Chargement des streams...',
     tr: 'Canlı yayınlar yükleniyor...',
     ko: '방송 로딩중...',
-    zh: '讀取實況...'
+    zh: '讀取實況...',
+    pt: 'Carregando streams...'
   },
 
   all: {
@@ -181,7 +185,8 @@ export default {
     fr: 'Tous',
     tr: 'Hepsi',
     ko: '모두',
-    zh: '全部'
+    zh: '全部',
+    pt: 'Todos'
   },
 
   filter: {
@@ -189,7 +194,8 @@ export default {
     fr: 'Filtrer',
     tr: 'Filtre',
     ko: '필터',
-    zh: '篩選'
+    zh: '篩選',
+    pt: 'Filtro'
   },
 
   apply: {
@@ -197,7 +203,8 @@ export default {
     fr: 'Appliquer',
     tr: 'Uygula',
     ko: '적용',
-    zh: '確認'
+    zh: '確認',
+    pt: 'Aplicar'
   },
 
   default: {
@@ -205,7 +212,8 @@ export default {
     fr: 'Défaut',
     tr: 'Varsayılan',
     ko: '기본',
-    zh: '默認'
+    zh: '默認',
+    pt: 'Padrão'
   },
 
   // Used for party and arena searching
@@ -214,7 +222,8 @@ export default {
     fr: 'Trouver',
     tr: 'Ara',
     ko: '찾다',
-    zh: '尋找'
+    zh: '尋找',
+    pt: 'Procurar'
   },
 
   // Used for party and arena searching
@@ -223,7 +232,8 @@ export default {
     fr: 'Recherche...',
     tr: 'Aranıyor...',
     ko: '검색중...',
-    zh: '搜尋中...'
+    zh: '搜尋中...',
+    pt: 'Procurando...'
   },
 
   learnable: {
@@ -231,7 +241,8 @@ export default {
     fr: 'Apprenable Niv.',
     tr: 'Öğrenilebilir Svy.',
     ko: '습득 가능 Lv.',
-    zh: '可以學習 Lv.'
+    zh: '可以學習 Lv.',
+    pt: 'Aprende Niv.'
   },
 
   cost: {
@@ -239,7 +250,8 @@ export default {
     fr: 'Coût',
     tr: 'Bedel',
     ko: '비용',
-    zh: '費用'
+    zh: '費用',
+    pt: 'Custo'
   },
 
   noOptions: {
@@ -247,6 +259,7 @@ export default {
     fr: 'Pas d\'options',
     tr: 'Seçenek yok',
     ko: '권한이 없습니다',
-    zh: '沒有選項'
+    zh: '沒有選項',
+    pt: 'Sem opções'
   }
 }
