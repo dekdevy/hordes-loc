@@ -29,7 +29,8 @@ export default {
     fr: 'Mes objets',
     tr: 'Eşyalarım',
     ko: '내 아이템',
-    zh: '我的物品'
+    zh: '我的物品',
+    pt: 'Minhas Ofetas'
     // el: 'Μόνο τα αντικείμενά μου',
     // nl: 'Alleen mijn voorwerpen',
     // de: 'Nur meine Items',
@@ -53,7 +54,8 @@ export default {
     fr: 'Acheter',
     tr: 'Satın al',
     ko: '구매',
-    zh: '購買'
+    zh: '購買',
+    pt: 'Comprar'
     // el: 'Αγορά αντικειμένου',
     // nl: 'Voorwerp Kopen',
     // de: 'Item kaufen',
@@ -79,7 +81,7 @@ export default {
     es: 'Publicar Objeto',
     fr: 'Soumettre L\'objet',
     de: 'Item versenden',
-    pt: 'Publicar Item',
+    pt: 'Vender Item',
     ko: '아이템 등록',
     tr: 'Eşyayı Gönder',
     hi: 'बाज़ार में डालें',
@@ -100,7 +102,7 @@ export default {
     nl: 'Verwijderd Voorwerp',
     de: 'Verkauf abbrechen',
     ru: 'Снять с продажи',
-    pt: 'Excluir Objeto',
+    pt: 'Excluir Oferta',
     fr: 'Enlever l\'objet des enchères',
     es: 'Retirar Objeto',
     ko: '아이템 취소',
@@ -169,7 +171,7 @@ export default {
     nl: 'Slepen het voorwerp in de sleuf',
     de: 'Ziehe ein Item hier hin',
     ru: 'Перетащите предмет в слот',
-    pt: 'Arraste o item para o slot',
+    pt: 'Shift-right-click ou Arraste o item para o slot',
     es: 'Arrastra el objeto a la ranura',
     fr: 'Glisser l\'objet dans l\'emplacement',
     ko: '항목을 슬롯으로 드래그하십시오.',
@@ -192,7 +194,7 @@ export default {
     es: 'Has publicado $1 para vender',
     fr: 'Vous avez mis $1 en vente',
     de: 'Du hast $1 zum Verkauf angeboten',
-    pt: 'Você colocou $1 para leilão',
+    pt: 'Você colocou $1 a venda',
     ru: 'Лот $1 выставлен на продажу',
     ko: '$1 을(를) 게시했습니다',
     nl: 'U heeft $1 te koop aangeboden',
@@ -216,7 +218,7 @@ export default {
     ru: 'Лот снят с продажи и отправлен в ваш Stash',
     nl: 'Item verwijderd en naar de Stash verzonden',
     de: 'Verkauf abgebrochen und Item in den Stash gesendet',
-    pt: 'Item retirado do leilão e enviado para o Stash',
+    pt: 'Item retirado do mercado e enviado para o Stash',
     fr: 'Objet retiré des enchères et envoyé dans la Stash',
     es: 'Artículo retirado de la lista y enviado a tu Stash',
     ko: '상장 폐지 된 물품',
@@ -241,7 +243,7 @@ export default {
     es: 'Objeto comprado por $1 y enviado a tu Stash',
     fr: 'Article acheté pour $1 et envoyé dans votre Stash',
     de: 'Item für $1 gekauft und an Stash geschickt',
-    pt: 'Item comprado por $1 e enviado para o seu Stash',
+    pt: 'Item comprado por $1 e enviado ao seu Stash',
     nl: 'Item gekocht voor $1 en verzonden naar uw Stash',
     ko: '$1 동전으로 구입하여 은닉 한 물품',
     ro: 'Obiect cumpărat pentru $1 și trimis în Stash tău',
@@ -284,35 +286,40 @@ export default {
     en: 'Search for item',
     fr: 'Chercher un objet',
     ko: '아이템 검색',
-    zh: '搜尋物品'
+    zh: '搜尋物品',
+    pt: 'Procurar pelo item'
   },
 
   results: {
     en: 'Results',
     fr: 'Résultats',
     ko: '결과',
-    zh: '結果'
+    zh: '結果',
+    pt: 'Resultados'
   },
 
   owner: {
     en: 'Owner',
     fr: 'Propriétaire',
     ko: '게시자',
-    zh: '賣家'
+    zh: '賣家',
+    pt: 'Proprietário'
   },
 
   time: {
     en: 'Time',
     fr: 'Temps',
     ko: '시간',
-    zh: '時間'
+    zh: '時間',
+    pt: 'Tempo'
   },
 
   perUnit: {
     en: 'Per Unit',
     fr: 'Par unité',
     ko: '개당',
-    zh: '每單位'
+    zh: '每單位',
+    pt: 'Por unidade'
   },
 
   total: {
@@ -325,21 +332,24 @@ export default {
     en: 'Prev',
     fr: 'Préc',
     ko: '이전',
-    zh: '上一頁'
+    zh: '上一頁',
+    pt: 'Anterior'
   },
 
   next: {
     en: 'Next',
     fr: 'Suivant',
     ko: '다음',
-    zh: '下一頁'
+    zh: '下一頁',
+    pt: 'Próximo'
   },
 
   setPrice: {
     en: 'Set price',
     fr: 'Fixer un prix',
     ko: '가격 설정',
-    zh: '設定價格'
+    zh: '設定價格',
+    pt: 'Definir o preço'
   },
 
   // Purchase confirmation message for merchant window
@@ -350,13 +360,15 @@ export default {
       en: 'Buy',
       fr: 'Acheter',
       ko: '구매',
-      zh: '購買'
+      zh: '購買',
+      pt: 'Comprar'
     },
     {
       en: 'for',
       fr: 'pour',
       ko: '에',
-      zh: '花費'
+      zh: '花費',
+      pt: 'por'
     },
     {
       en: '?',

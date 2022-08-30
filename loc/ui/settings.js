@@ -34,7 +34,7 @@ export default {
     fr: 'Contrôles',
     tr: 'Kontroller',
     nl: 'Bediening',
-    pt: 'Controlos',
+    pt: 'Controles',
     ko: '조작법',
     ro: 'Controale',
     zh: '控制',
@@ -52,7 +52,7 @@ export default {
     fr: 'Barre de compétences',
     tr: 'Yetenek barı',
     ko: '스킬바',
-    zh: '技能欄'
+    zh: '技能欄',
   },
 
   skillbarslots: {
@@ -89,7 +89,8 @@ export default {
     fr: 'Pour réinitialiser, laissez le champ vide.',
     tr: 'Sıfırlamak için alanı boş bırak',
     ko: '리셋하려면, 아무것도 써놓지 마세요.',
-    zh: '要重置，請填空'
+    zh: '要重置，請填空',
+    pt: 'Para redefinir, deixe o campo em branco.'
   },
 
   camera: {
@@ -176,7 +177,7 @@ export default {
     el: 'Απόκρυψη ποντικιού κατά την περιστροφή',
     de: 'Maus bei Rotation verstecken',
     ru: 'Скрыть мышь во время вращения камеры',
-    pt: 'Ocultar o rato durante a rotação.',
+    pt: 'Ocultar o mouse durante a rotação.',
     fr: 'Cacher la souris pendant les rotations',
     nl: 'Verstop rechter muis knop tijdens rotatie',
     hu: 'Egérmutató elrejtése forgáskor',
@@ -303,7 +304,8 @@ export default {
     fr: 'Désactiver les créatures hors de l\'écran',
     zh: '禁止鎖定視野外生物',
     tr: 'Ekranda olmayan canlıları devre dışı bırak',
-    ko: '시야 밖 몹 숨기기'
+    ko: '시야 밖 몹 숨기기',
+    pt: 'Desativar criaturas fora da tela'
   },
 
   offscreendesc: {
@@ -311,7 +313,8 @@ export default {
     fr: 'Améliore les performance mais désactive les actions hors écran',
     tr: 'Performans artar ama ekranda olmayan eylemleri susturur.',
     ko: '퍼포먼스를 높여주지만 시야 밖에서 타겟을 지정할 수 없게 됩니다.',
-    zh: '提高性能但使屏幕外動作靜音'
+    zh: '提高性能但使屏幕外動作靜音',
+    pt: 'Melhora o desempenho, mas silencia a ação fora da tela'
   },
 
   skilleffects: {
@@ -426,7 +429,8 @@ export default {
     fr: 'Paterne du brouillard',
     tr: 'Sis modeli',
     ko: '안개 패턴',
-    zh: '霧化'
+    zh: '霧化',
+    pt: 'Padrão de neblina'
   },
 
   shadowresolution: {
@@ -434,7 +438,8 @@ export default {
     fr: 'Résolution des ombres',
     tr: 'Gölge çözünürlüğü',
     ko: '그림자 해상도',
-    zh: '影子解析度'
+    zh: '影子解析度',
+    pt: 'Resolução de sombra'
   },
 
   creatureshadows: {
@@ -442,7 +447,8 @@ export default {
     fr: 'Ombres sur les créatures',
     tr: 'Canlıların gölgeleri',
     ko: '몹 그림자',
-    zh: '生物陰影'
+    zh: '生物陰影',
+    pt: 'Sombras sobre criaturas'
   },
 
   anisotropy: {
@@ -450,7 +456,8 @@ export default {
     fr: 'Anisotropie',
     tr: 'anizotropi',
     ko: '비등방성',
-    zh: '非等向性'
+    zh: '非等向性',
+    pt: 'Anisotropia'
   },
 
   // ---- Audio
@@ -505,7 +512,8 @@ export default {
     fr: 'Multiplicateur SFX extérieur',
     tr: 'Harici SFX çarpanı',
     ko: '외부 효과음 볼륨',
-    zh: '外部音效倍率'
+    zh: '外部音效倍率',
+    pt: 'Multiplicador SFX Externo'
   },
 
   multiplierdesc: {
@@ -513,7 +521,8 @@ export default {
     fr: 'Vous pouvez réduire le son des compétences dont vous n\'êtes pas le lanceur. 100% = Aucune réduction de son, 50% = volume réduit de moitié.',
     tr: 'Senin tarafından yapılmayan büyülerin sesi kısılabilir. 100½ = ses azalması olmaz, 50½ = Yarı ses.',
     ko: '당신이 사용하지 않은 스킬의 효과음 볼륨을 조정합니다. 100% = 볼륨 감소 없음, 50% = 반으로 감소함.',
-    zh: '不是你施放的法術可以減少音量。100% = 沒有聲音，50% = 一半音量。'
+    zh: '不是你施放的法術可以減少音量。100% = 沒有聲音，50% = 一半音量。',
+    pt: 'Feitiços não lançados por você podem ser reduzidos em volume. 100% = Sem redução de som, 50% = metade do volume.'
   },
 
   ambiencevolume: {
@@ -580,7 +589,7 @@ export default {
     de: 'Sprechblasen anzeigen',
     ru: 'Показавать сообщения над игроком',
     fr: 'Afficher les bulles de chat',
-    pt: 'Mostrar bolhas de chat',
+    pt: 'Mostrar balão de chat',
     nl: 'Laat chat bubbels zien',
     hu: 'Csetbuborékok mutatása',
     zh: '顯示聊天框',
@@ -699,7 +708,7 @@ export default {
     vi: 'Độ dài Stash',
     sr: 'Ширина Stash-а',
     it: 'Larghezza Stash',
-    pt: 'Tamanho do baú',
+    pt: 'Tamanho do Stash',
     tr: 'Stash genişliği',
     ja: 'Stashの行',
     ko: 'Stash 너비',
@@ -720,7 +729,7 @@ export default {
     vi: 'Độ rộng Stash',
     sr: 'Висина Stash-а',
     it: 'Altezza Stash',
-    pt: 'Altura do baú',
+    pt: 'Altura do Stash',
     tr: 'Stash yüksekliği',
     ja: 'Stashの列',
     ko: 'Stash 높이',
@@ -805,7 +814,8 @@ export default {
     fr: 'Afficher les FPS / PING',
     tr: 'FPS / PING göster',
     ko: 'FPS / PING 표시하기',
-    zh: '顯示 FPS / PING'
+    zh: '顯示 FPS / PING',
+    pt: 'Mostrar FPS / PING'
   },
 
   nameplates: {
@@ -813,7 +823,8 @@ export default {
     fr: 'Barres & Noms',
     tr: 'İsim etiketleri',
     ko: '이름표',
-    zh: '名牌'
+    zh: '名牌',
+    pt: 'Barras e Nomes'
   },
 
   drawrange: {
@@ -821,7 +832,8 @@ export default {
     fr: 'Portée d\'affichage',
     tr: 'Çizim mesafesi',
     ko: '이름표 최대 표시 거리',
-    zh: '顯示範圍'
+    zh: '顯示範圍',
+    pt: 'Distância de Renderização'
   },
 
   monsterbars: {
@@ -829,7 +841,8 @@ export default {
     fr: 'Barres des monstres',
     tr: 'Canavar çubukları',
     ko: '몹 체력바',
-    zh: '怪物血條'
+    zh: '怪物血條',
+    pt: 'Barra dos Monstros'
   },
 
   monsternames: {
@@ -837,7 +850,8 @@ export default {
     fr: 'Noms des monstres',
     tr: 'Canavar isimleri',
     ko: '몹 이름표',
-    zh: '怪物名稱'
+    zh: '怪物名稱',
+    pt: 'Nome dos Monstros'
   },
 
   friendlyplayerbars: {
@@ -845,7 +859,8 @@ export default {
     fr: 'Barres des joueurs alliés',
     tr: 'Dost oyuncu çubukları',
     ko: '아군 체력바',
-    zh: '友方血條'
+    zh: '友方血條',
+    pt: 'Barras de jogadores amigáveis'
   },
 
   friendlyplayernames: {
@@ -853,7 +868,8 @@ export default {
     fr: 'Noms des joueurs alliés',
     tr: 'Dost oyuncu isimleri',
     ko: '아군 이름표',
-    zh: '友方名稱'
+    zh: '友方名稱',
+    pt: 'Nomes de jogadores amigáveis'
   },
 
   enemyplayerbars: {
@@ -861,7 +877,8 @@ export default {
     fr: 'Barres des joueurs ennemis',
     tr: 'Düşman oyuncu çubukları',
     ko: '적 체력바',
-    zh: '敵方血條'
+    zh: '敵方血條',
+    pt: 'Barras de jogadores inimigos'
   },
 
   enemyplayernames: {
@@ -869,7 +886,8 @@ export default {
     fr: 'Noms des joueurs ennemis',
     tr: 'Düşman oyuncu isimleri',
     ko: '적 이름표',
-    zh: '敵方名稱'
+    zh: '敵方名稱',
+    pt: 'Nomes de jogadores inimigos'
   },
 
   showlevel: {
@@ -877,7 +895,8 @@ export default {
     fr: 'Toujours montrer le niveau',
     tr: 'Seviyeyi her zaman göster',
     ko: '항상 레벨 표시',
-    zh: '總是顯示等級'
+    zh: '總是顯示等級',
+    pt: 'Sempre mostrar o level'
   },
 
   classcolors: {
@@ -885,7 +904,8 @@ export default {
     fr: 'Barres colorées par classe',
     tr: 'Sınıf renkli çubuklar',
     ko: '직업별 색 체력바',
-    zh: '職業顏色血條'
+    zh: '職業顏色血條',
+    pt: 'Cor das barras por classe'
   },
 
   transparency: {
@@ -893,13 +913,15 @@ export default {
     fr: 'Transparence',
     tr: 'saydamlık',
     ko: '투명도',
-    zh: '透明度'
+    zh: '透明度',
+    pt: 'Transparência'
   },
 
   drops: {
     en: 'Butins',
     tr: 'Ganimetler',
-    ko: '전리품'
+    ko: '전리품',
+    pt: 'Espólios'
   },
 
   showquality: {
@@ -907,7 +929,8 @@ export default {
     fr: 'Afficher le % de Qualité du butin',
     tr: 'Ganimet kalite½\'sini göster',
     ko: '드랍된 아이템 퀄리티% 보이기',
-    zh: '顯示掉落品質%'
+    zh: '顯示掉落品質%',
+    pt: 'Mostrar qualidade do drop %'
   },
 
   qualitymin: {
@@ -915,7 +938,8 @@ export default {
     fr: '% de Qualité de butin minimum',
     tr: 'Ganimet kalite%\'si en az',
     ko: '아이템 퀄리티% 최솟값',
-    zh: '掉落最小品質%'
+    zh: '掉落最小品質%',
+    pt: 'Qualidade do drop minima %'
   },
 
   excludedrops: {
@@ -923,7 +947,8 @@ export default {
     fr: 'Types de butins exclus',
     tr: 'Dahil olmayan ganimet türleri',
     ko: '아이템 보이기에서 제외할 종류',
-    zh: '排除掉落顯示類型'
+    zh: '排除掉落顯示類型',
+    pt: 'Excluir tipo de Drops'
   },
 
   damagehealing: {
@@ -931,7 +956,8 @@ export default {
     fr: 'Dégat et Soin',
     tr: 'Hasar ve iyileştirme',
     ko: '데미지 & 치유량',
-    zh: '傷害 & 治療'
+    zh: '傷害 & 治療',
+    pt: 'Dano & Cura'
   },
 
   incomingdamage: {
@@ -939,7 +965,8 @@ export default {
     fr: 'Dégat entrant',
     tr: 'Gelen hasar',
     ko: '받는 데미지',
-    zh: '承受傷害'
+    zh: '承受傷害',
+    pt: 'Danos recebidos'
   },
 
   incominghealing: {
@@ -947,7 +974,8 @@ export default {
     fr: 'Soin entrant',
     tr: 'Gelen iyileştirme',
     ko: '받는 치유',
-    zh: '回復血量'
+    zh: '回復血量',
+    pt: 'Curas recebidas'
   },
 
   incomingmana: {
@@ -955,7 +983,8 @@ export default {
     fr: 'Mana entrant',
     tr: 'Gelen mana',
     ko: '받는 마나',
-    zh: '回復魔力'
+    zh: '回復魔力',
+    pt: 'Mana recebidas'
   },
 
   preventoverlap: {
@@ -963,7 +992,8 @@ export default {
     fr: 'Empêcher le chevauchement des nombres',
     tr: 'Örtüşen numaraları önle',
     ko: '숫자 중복 방지',
-    zh: '防止覆蓋數字'
+    zh: '防止覆蓋數字',
+    pt: 'Evitar números sobrepostos'
   },
 
   icons: {
@@ -971,7 +1001,8 @@ export default {
     fr: 'Icônes & Buffs',
     tr: 'Simgeler & güçlendirmeler',
     ko: '아이콘 & 버프',
-    zh: '圖像 & 狀態'
+    zh: '圖像 & 狀態',
+    pt: 'Icones & Buffs'
   },
 
   skillcdtext: {
@@ -979,7 +1010,8 @@ export default {
     fr: 'Texte de temps de recharge (compétences)',
     tr: 'Bekleme süresi metni (yetenekler)',
     ko: '재사용 시간 텍스트 (스킬)',
-    zh: '冷卻文字 (技能)'
+    zh: '冷卻文字 (技能)',
+    pt: 'Texto de recarga (habilidades)'
   },
 
   buffcdtext: {
@@ -987,7 +1019,8 @@ export default {
     fr: 'Texte de temps de recharge (buffs)',
     tr: 'Bekleme süresi metni (güçlendirmeler)',
     ko: '재사용 시간 텍스트 (버프)',
-    zh: '冷卻文字 (狀態)'
+    zh: '冷卻文字 (狀態)',
+    pt: 'Texto de recarga (buffs)'
   },
 
   selfbuffsonly: {
@@ -995,7 +1028,8 @@ export default {
     fr: 'Afficher uniquement vos buffs',
     tr: 'Sadece kendi güçlendirmelerini göster',
     ko: '사용자 버프만 보기',
-    zh: '只顯示你的狀態'
+    zh: '只顯示你的狀態',
+    pt: 'Mostre apenas seus buffs',
   },
 
   flashinterval: {
@@ -1018,14 +1052,16 @@ export default {
     en: 'Buff maximum',
     tr: 'Azami güçlendirme',
     ko: '버프 최대값',
-    zh: '顯示狀態數量'
+    zh: '顯示狀態數量',
+    pt: 'Buff máximo'
   },
 
   buffmaxparty: {
     en: 'Buff maximum (party)',
     tr: 'Azami güçlendirme (party)',
     ko: '버프 최대값 (파티)',
-    zh: '顯示狀態數量(party)'
+    zh: '顯示狀態數量(party)',
+    pt: 'Buff máximo (party)'
   },
 
   updateratelimit: {
@@ -1033,7 +1069,8 @@ export default {
     fr: 'Taux de rafraîchissement des buffs en Party limité',
     tr: 'Sınırlı party güçlendirmesinin güncellenme oranı',
     ko: '파티 버프 업데이트 속도 제한',
-    zh: '隊伍狀態更新率限制'
+    zh: '隊伍狀態更新率限制',
+    pt: 'Taxa de atualização de buffs da party limitado',
   },
 
   unitframes: {
@@ -1041,7 +1078,8 @@ export default {
     fr: 'Cadres d\'unité',
     tr: 'Birim çerçeveleri',
     ko: '유닛 프레임',
-    zh: '單位框架'
+    zh: '單位框架',
+    pt: 'Janelas da Party'
   },
 
   showselfparty: {
@@ -1049,7 +1087,8 @@ export default {
     fr: 'S\'afficher dans la Party',
     tr: 'Kendini party\'de göster',
     ko: '수동 파티 수락 보여주기',
-    zh: '顯示自身在隊伍'
+    zh: '顯示自身在隊伍',
+    pt: 'Mostrar-se na party'
   },
 
   partymana: {
@@ -1057,7 +1096,8 @@ export default {
     fr: 'Mana de la Party',
     tr: 'Party manası',
     ko: '파티 마나',
-    zh: '隊伍魔力'
+    zh: '隊伍魔力',
+    pt: 'Mostrar mana da Party'
   },
 
   partyframewidth: {
@@ -1065,7 +1105,8 @@ export default {
     fr: 'Largeur du cadre de Party',
     tr: 'Party çerçevesi genişliği',
     ko: '파티 프레임 너비',
-    zh: '隊伍框架寬度'
+    zh: '隊伍框架寬度',
+    pt: 'Largura da janela da Party'
   },
 
   protectedquality: {
@@ -1073,7 +1114,8 @@ export default {
     fr: 'Qualité d\'objet protégée',
     tr: 'Korunan eşya kalitesi',
     ko: '보호 아이템 품질',
-    zh: '保護物品質量'
+    zh: '保護物品質量',
+    pt: 'Proteger item de qualidade'
   },
 
   // ---- map
@@ -1083,7 +1125,8 @@ export default {
     fr: 'Carte',
     tr: 'Harita',
     ko: '지도',
-    zh: '地圖'
+    zh: '地圖',
+    pt: 'Mapa'
   },
 
   maplowqual: {
@@ -1133,6 +1176,7 @@ export default {
     fr: 'Redémarrage du jeu requis',
     tr: 'Yeniden yükleme gerekir',
     ko: '재시작 필요',
-    zh: '需要重新加載'
+    zh: '需要重新加載',
+    pt: 'Requer recarga'
   }
 }
