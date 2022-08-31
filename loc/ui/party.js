@@ -109,7 +109,7 @@ export default {
     es: '$1 te ha invitado a unirte a su Party.',
     nl: '$1 heeft je uitgenodigd vergezel hun Party.',
     tr: '$1 seni Party\'sine davet etti.',
-    pt: '$1 convidou-te para te juntares à Party deles.',
+    pt: '$1 convidou você para participar da Party dele.',
     hi: '$1 उनकेPartyमें शामिल होने के लिए आपको आमंत्रित किया है।',
     ko: '$1 님이 그의 Party에 당신을 초대했습니다.',
     ro: '$1 te-a invitat să te alături Party-ului',
@@ -153,7 +153,7 @@ export default {
     ru: 'Отправьте эту ссылку другим игрокам! Это позволит им присоединиться к вашей Party.',
     fr: 'Envoyez ce lien à d\'autres joueurs ! Cela leur permettra de se joindre à votre Party.',
     hi: 'इस लिंक को अन्य खिलाड़ियों को भेजें! इससे वे आपके Part में शामिल हो सकेंगे।',
-    pt: 'Envie este link para outros jogadores! Isto permitirá que eles se juntem à sua Party.',
+    pt: 'Envie este link para outros jogadores! Isto permitirá que eles se juntem a sua Party.',
     de: 'Sende diesen Link an andere Spieler! Dies wird es ihnen ermöglichen, sich deiner Party anzuschließen.',
     nl: 'Stuur deze link naar andere spelers! Dit zal hen in staat stellen om zich aan te sluiten bij je Party.',
     es: '¡Envía este enlace a otros jugadores! Esto les permitirá unirse a tu Party.',
@@ -201,7 +201,7 @@ export default {
     en: 'Summon',
     el: 'Κάλεσμα',
     ru: 'Призвать',
-    pt: 'Invokar',
+    pt: 'Invocar',
     es: 'Invocar',
     fr: 'Invoquer',
     hu: 'Idézés',
@@ -221,7 +221,7 @@ export default {
     en: '$1 is offering to summon you to their location.',
     el: 'Ο παίκτης $1 σας καλεί στην τοποθεσία του.',
     ru: 'Игрок $1 хочет призвать вас к себе.',
-    pt: '$1 está a oferecer invocar te na localização dele.',
+    pt: '$1 está se oferecendo para invocar você para a localização dele.',
     es: '$1 está ofreciendo invocarte a su ubicación.',
     tr: '$1 seni yanına çağırıyor.',
     hu: '$1 felajánlotta hogy magához idéz.',
@@ -345,7 +345,8 @@ export default {
     fr: 'Aucune Party',
     tr: 'Party yok',
     ko: '파티 없음',
-    zh: '沒有隊伍'
+    zh: '沒有隊伍',
+    pt: 'sem Party'
   },
 
   name: {
@@ -357,6 +358,7 @@ export default {
     fr: 'membres',
     tr: 'Üyeler',
     ko: '멤버',
-    zh: '隊員'
+    zh: '隊員',
+    pt: 'Membros'
   }
 }
