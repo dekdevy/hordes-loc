@@ -4,7 +4,8 @@ export default {
     fr: 'Prestige actuel',
     tr: 'Şu anki prestij',
     ko: '현재 프레스티지',
-    zh: '當前聲望'
+    zh: '當前聲望',
+    pt: 'Prestígio Atual'
   },
 
   nextrank: {
@@ -12,7 +13,8 @@ export default {
     fr: 'Prochain Rang',
     tr: 'Sonraki rütbe',
     ko: '다음 단계',
-    zh: '下個階級'
+    zh: '下個階級',
+    pt: 'Próximo Rank'
   },
 
   today: {
@@ -20,7 +22,8 @@ export default {
     fr: 'Aujourd\'hui',
     tr: 'Bugün',
     ko: '오늘',
-    zh: '今天'
+    zh: '今天',
+    pt: 'Hoje'
   },
 
   thisweek: {
@@ -28,7 +31,8 @@ export default {
     fr: 'Cette semaine',
     tr: 'Bu hafta',
     ko: '이번 주',
-    zh: '這一週'
+    zh: '這一週',
+    pt: 'Esta semana'
   },
 
   lastweek: {
@@ -36,7 +40,8 @@ export default {
     fr: 'La semaine dernière',
     tr: 'Geçen hafta',
     ko: '지난 주',
-    zh: '上一週'
+    zh: '上一週',
+    pt: 'Última semana'
   },
 
   lifetime: {
@@ -44,7 +49,8 @@ export default {
     fr: 'Au total',
     tr: 'Tüm zamanlar',
     ko: '전체',
-    zh: '生涯'
+    zh: '生涯',
+    pt: 'Total'
   },
 
   fameposition: {
@@ -52,7 +58,8 @@ export default {
     fr: 'Classement de Fame',
     tr: 'Şöhret sıralaması.',
     ko: '명성 순위',
-    zh: '名聲排名'
+    zh: '名聲排名',
+    pt: 'Posição da Fama'
   },
 
   famebracket: {
@@ -68,7 +75,8 @@ export default {
     fr: 'Meilleur Rang',
     tr: 'En yüksek rütbe',
     ko: '최고 등급',
-    zh: '最高階級'
+    zh: '最高階級',
+    pt: 'Maior Rank'
   },
 
   viewbrackets: {
@@ -76,6 +84,7 @@ export default {
     fr: 'Voir les Brackets hebdomadaires',
     tr: 'Haftalık aralıkları gör',
     ko: '명성 등급 기준 보기',
-    zh: '查看這週層級'
+    zh: '查看這週層級',
+    pt: 'Ver o bracket desta semana'
   }
 }
