@@ -4,7 +4,8 @@ export default {
     fr: 'Ne requiert aucune cible',
     tr: 'Hedef gerektirmez',
     ko: '타겟 지정이 필요 없음',
-    zh: '不需要目標'
+    zh: '不需要目標',
+    pt: 'Não requer alvo'
   },
 
   targetSelf: {
@@ -12,7 +13,8 @@ export default {
     fr: 'Sur soi',
     tr: 'Kendinde kullanır',
     ko: '자가 버프',
-    zh: '自身施法'
+    zh: '自身施法',
+    pt: 'Usa em si proprio'
   },
 
   targetFriendly: {
@@ -20,7 +22,8 @@ export default {
     fr: 'sur un Allié',
     tr: 'Dost hedeflerde',
     ko: '타겟이 아군이여야 함',
-    zh: '友方目標'
+    zh: '友方目標',
+    pt: 'em Aliados'
   },
 
   targetEnemy: {
@@ -28,7 +31,8 @@ export default {
     fr: 'sur un Ennemi',
     tr: 'Düşman hedeflerde',
     ko: '타겟이 적이여야 함',
-    zh: '敵方目標'
+    zh: '敵方目標',
+    pt: 'em Inimigos'
   },
 
   spellMelee: {
@@ -36,7 +40,8 @@ export default {
     fr: 'Attaque de mélée',
     tr: 'Yakın dövüş saldırısı',
     ko: '근접 공격',
-    zh: '近戰攻擊'
+    zh: '近戰攻擊',
+    pt: 'Ataque corpo a corpo'
   },
 
   spellMagic: {
@@ -44,7 +49,8 @@ export default {
     fr: 'Attaque magique',
     tr: 'Büyü saldırısı',
     ko: '마법 공격',
-    zh: '魔法攻擊'
+    zh: '魔法攻擊',
+    pt: 'Ataque mágico'
   },
 
   spellHeal: {
@@ -52,7 +58,8 @@ export default {
     fr: 'Soin',
     tr: 'İyileştirme',
     ko: '치유',
-    zh: '治療'
+    zh: '治療',
+    pt: 'Cura'
   },
 
   spellBuff: {
@@ -67,7 +74,8 @@ export default {
     fr: 'Buff cumulable',
     tr: 'Yüklenebilir güçlendirme',
     ko: '스택이 가능한 버프',
-    zh: '可堆疊增益'
+    zh: '可堆疊增益',
+    pt: 'Buff Acumulativo'
   },
 
   spellMissile: {
@@ -75,7 +83,8 @@ export default {
     fr: 'Projectile',
     tr: 'Mermi',
     ko: '원거리 공격',
-    zh: '遠距離攻擊'
+    zh: '遠距離攻擊',
+    pt: 'projétil a distância'
   },
 
   spellMissileBuff: {
@@ -83,7 +92,8 @@ export default {
     fr: 'Effet de zone',
     tr: 'Etki menzili',
     ko: '원거리 효과',
-    zh: '範圍效果'
+    zh: '範圍效果',
+    pt: 'Tamanho do efeito'
   },
 
   spellCustom: {
@@ -91,7 +101,8 @@ export default {
     fr: 'Effet',
     tr: 'Etki',
     ko: '효과',
-    zh: '效果'
+    zh: '效果',
+    pt: 'Efeito'
   },
 
   // eg: For 1 Intelligence gain 0.4 Min Dmg.
@@ -101,14 +112,16 @@ export default {
       fr: 'Pour 1',
       tr: 'Her 1',
       ko: '스탯 하나당',
-      zh: '每1點'
+      zh: '每1點',
+      pt: 'Para 1'
     },
     {
       en: 'gain',
       fr: 'octroie',
       tr: 'kazandırır',
       ko: '올라감',
-      zh: '增加'
+      zh: '增加',
+      pt: 'ganhe'
     },
     {
       en: ' '
