@@ -53,7 +53,8 @@ export default {
       en: 'Healing',
       fr: 'Soin',
       tr: 'İyileşme',
-      ko: '치유량'
+      ko: '치유량',
+      pt: 'Curando'
     },
     fame: {
       en: 'Fame',
@@ -154,7 +155,7 @@ export default {
       fr: 'Sagesse',
       ru: 'Мудрость',
       es: 'Sabidur.',
-      pt: 'Sabdr.',
+      pt: 'Sabedoria',
       tr: 'Bilgelik',
       hu: 'Bölcsesség',
       zh: '智慧',
@@ -269,7 +270,7 @@ export default {
       el: 'Μπλοκάρισμα',
       ru: 'Блок',
       fr: 'Parade',
-      pt: 'Bloquе.',
+      pt: 'Bloquеio',
       tr: 'Blok',
       hu: 'Blokk',
       zh: '格檔',
@@ -309,7 +310,7 @@ export default {
       fr: 'Vit. de Déplac.',
       ru: 'Скорость',
       es: 'Vel. Mov.',
-      pt: 'Velocidade',
+      pt: 'Vel. Movimento',
       hu: 'Mozgási Seb.',
       zh: '移動速度',
       it: 'Velocità',
@@ -329,7 +330,7 @@ export default {
       el: 'Φούρια',
       ru: 'Ск. Умен',
       es: 'Rapidez',
-      pt: 'Rapidez',
+      pt: 'Aceleração',
       fr: 'Hâte',
       tr: 'Sürat',
       hu: 'Gyorsaság',
@@ -349,7 +350,7 @@ export default {
       ru: 'Скорость Атк.',
       fr: 'Vit. d\'Attq',
       es: 'Vel. Ataque',
-      pt: 'Rapidez Atq.',
+      pt: 'Vel. Ataque.',
       hu: 'Támadási Seb.',
       zh: '攻擊速度',
       pl: 'Szybkość ataku',
@@ -388,7 +389,7 @@ export default {
       en: 'Bag Slots',
       el: 'Θέσεις τσάντας',
       ru: 'Слоты сумки',
-      pt: 'Espaço',
+      pt: 'Espaço Bag',
       fr: 'Espace Sac',
       hu: 'Hátizsák',
       zh: '背包欄位',
@@ -405,7 +406,8 @@ export default {
     },
 
     {
-      en: 'Prestige'
+      en: 'Prestige',
+      pt: 'Prestígio'
     },
 
     {
@@ -418,7 +420,8 @@ export default {
       ja: 'レーティング',
       cs: 'Hodnocení',
       zh: '評分',
-      ko: '평점'
+      ko: '평점',
+      pt: 'Classificação'
     },
 
     {
@@ -463,7 +466,8 @@ export default {
 
     {
       en: 'Skill Points (Max)',
-      fr: 'Points de Compétences (Max)'
+      fr: 'Points de Compétences (Max)',
+      pt: 'Pontos de Hab. (Max)'
     },
 
     {
@@ -503,7 +507,7 @@ export default {
       ru: '% Увеличения агрессии',
       fr: '% Génération d\'aggro Améliorée',
       es: '% Aumento de Aggro generado',
-      pt: '% Aggro Gerado',
+      pt: '% Geração de Aggro',
       hu: '% Megnövelt Aggro Képzés',
       zh: '% 仇恨增加',
       pl: '% Zwiększone generowanie aggro.',
@@ -523,7 +527,7 @@ export default {
       fr: '% Réduction Vit. de Déplac.',
       ru: '% Cнижения скор. движения',
       es: '% Reducción de Vel. Mov.',
-      pt: '% Redução de Velocidade',
+      pt: '% Redução de Vel. Movimento',
       hu: '% Mozgási Seb. Csökkentés',
       zh: '% 移動速度降低',
       pl: '% Redukcja prędkości ruchu',
@@ -552,7 +556,8 @@ export default {
       ja: '回復阻害',
       ko: '치유량 감소',
       cs: 'Redukce léčení',
-      zh: '治療減少'
+      zh: '治療減少',
+      pt: 'Redução de cura'
     }
   ]
 }
