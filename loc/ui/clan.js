@@ -149,7 +149,8 @@ export default {
     fr: 'Vous n\'avez pas de clan',
     tr: 'Klanın yok',
     ko: '클랜이 없습니다.',
-    zh: '你沒有公會'
+    zh: '你沒有公會',
+    pt: 'Você não tem um clã'
   },
 
   viewinvites: {
@@ -157,14 +158,16 @@ export default {
     fr: 'Voir les invitations',
     tr: 'Davetleri görüntüle',
     ko: '클랜 초대 목록 보기',
-    zh: '查看邀請'
+    zh: '查看邀請',
+    pt: 'Olhar convites'
   },
 
   action: {
     en: 'Action',
     tr: 'Eylem',
     ko: '행동',
-    zh: '行動'
+    zh: '行動',
+    pt: 'Ações'
   },
 
   application:
@@ -173,7 +176,8 @@ export default {
     fr: 'Postuler',
     tr: 'Başvuru',
     ko: '수락',
-    zh: '申請'
+    zh: '申請',
+    pt: 'Inscrições'
   },
 
   kick: {
@@ -181,7 +185,8 @@ export default {
     fr: 'Exclure',
     tr: 'Üyeyi at',
     ko: '추방',
-    zh: '踢掉會員'
+    zh: '踢掉會員',
+    pt: 'Remover membro'
   },
 
   setrank: {
@@ -189,7 +194,8 @@ export default {
     fr: 'Attribuer un grade',
     tr: 'Rütbeyi ayarla',
     ko: '등급 설정',
-    zh: '設定職位'
+    zh: '設定職位',
+    pt: 'Definir rank'
   },
 
   left: {
@@ -197,7 +203,8 @@ export default {
     fr: 'Quitter le clan',
     tr: 'Klandan ayrıl',
     ko: '클랜을 나갔습니다',
-    zh: '離開公會'
+    zh: '離開公會',
+    pt: 'Sair do clã'
   },
 
   memberkicked: {
@@ -205,7 +212,8 @@ export default {
     fr: 'Membre exclu',
     tr: 'Üye atıldı',
     ko: '클랜원이 추방되었습니다',
-    zh: '已剔除會員'
+    zh: '已剔除會員',
+    pr: 'Membro removido'
   },
 
   applied: {
@@ -213,7 +221,8 @@ export default {
     fr: 'Candidature envoyé',
     tr: 'Klana başvuruldu',
     ko: '클랜 초대에 수락하셨습니다',
-    zh: '已申請公會'
+    zh: '已申請公會',
+    pt: 'Aplicar ao clã'
   },
 
   // en: PlayerName invited
@@ -228,7 +237,8 @@ export default {
       fr: ' invité',
       tr: ' davet edildi',
       ko: ' 초대함',
-      zh: ' 已邀請'
+      zh: ' 已邀請',
+      pt: ' Convidado'
     }
   ],
 
@@ -237,7 +247,8 @@ export default {
     fr: 'Accepter la candidature',
     tr: 'Başvuruyu kabul et',
     ko: '가입 요청 수락',
-    zh: '同意申請'
+    zh: '同意申請',
+    pt: 'Aceitar a inscrição'
   },
 
   applicationaccepted: {
@@ -245,7 +256,8 @@ export default {
     fr: 'Candidature acceptée',
     tr: 'Başvuru kabul edildi',
     ko: '가입 요청을 수락하였습니다',
-    zh: '已同意申請'
+    zh: '已同意申請',
+    pt: 'Inscrição aceita'
   },
 
   applicationdeny: {
@@ -253,7 +265,8 @@ export default {
     fr: 'Décliner la candidature',
     tr: 'Başvuruyu reddet',
     ko: '가입 요청 거절',
-    zh: '拒絕申請'
+    zh: '拒絕申請',
+    pt: 'Recusar inscrição'
   },
 
   applicationdenied: {
@@ -261,7 +274,8 @@ export default {
     fr: 'Candidature déclinée',
     tr: 'Başvuru reddedildi',
     ko: '가입 요청을 거절하였습니다',
-    zh: '已拒絕申請'
+    zh: '已拒絕申請',
+    pt: 'Inscrição recusada'
   },
 
   level: {
@@ -269,7 +283,8 @@ export default {
     fr: 'Niveau du Clan',
     tr: 'Klan seviyesi',
     ko: '클랜 레벨',
-    zh: '公會等級'
+    zh: '公會等級',
+    pt: 'Nível do Clã'
   },
 
   capacity: {
@@ -277,7 +292,8 @@ export default {
     fr: 'Capacité',
     tr: 'Kapasite',
     ko: '정원',
-    zh: '位置'
+    zh: '位置',
+    pt: 'Capacidade'
   },
 
   nextlevel: {
@@ -285,7 +301,8 @@ export default {
     fr: 'Prochain niveau',
     tr: 'Sonraki seviye',
     ko: '다음 레벨',
-    zh: '下個等級'
+    zh: '下個等級',
+    pt: 'Próximo nível'
   },
 
   taxrate: {
@@ -293,7 +310,8 @@ export default {
     fr: 'Taux d\'imposition',
     tr: 'Vergi oranı',
     ko: '세금',
-    zh: '稅額'
+    zh: '稅額',
+    pt: 'Porcentagem de taxa'
   },
 
   members: {
@@ -301,7 +319,8 @@ export default {
     fr: 'Membres',
     tr: 'Üyeler',
     ko: '클랜원',
-    zh: '會員'
+    zh: '會員',
+    pt: 'Membros'
   },
 
   online: {
@@ -317,7 +336,8 @@ export default {
     fr: 'Trésorerie',
     tr: 'Hazine',
     ko: '자금',
-    zh: '金庫'
+    zh: '金庫',
+    pt: 'Tesouraria'
   },
 
   highestrank: {
@@ -325,7 +345,8 @@ export default {
     fr: 'Votre plus haut grade',
     tr: 'En yüksek rütben',
     ko: '최고 등급',
-    zh: '你的最高職位'
+    zh: '你的最高職位',
+    pt: 'Sua classificação mais alta'
   },
 
   inviteplayers: {
@@ -333,7 +354,8 @@ export default {
     fr: 'Inviter des joueurs',
     tr: 'Oyuncuları davet et',
     ko: '플레이어 초대',
-    zh: '邀請玩家'
+    zh: '邀請玩家',
+    pt: 'Convidar jogadores'
   },
 
   inviteplayer: {
@@ -341,7 +363,8 @@ export default {
     fr: 'Inviter un joueur',
     tr: 'Oyuncuyu davet et',
     ko: '초대하기',
-    zh: '邀請玩家'
+    zh: '邀請玩家',
+    pt: 'Convidar jogador'
   },
 
   apply: {
@@ -349,7 +372,8 @@ export default {
     fr: 'Postuler au clan (demander une invitation)',
     tr: 'Klana başvur (Davet talep et)',
     ko: '클랜 가입 (가입 요청 보내기)',
-    zh: '申請公會(發送請求)'
+    zh: '申請公會(發送請求)',
+    pt: 'Aplicar ao clã (solicitar convite)'
   },
 
   applications:
@@ -358,7 +382,8 @@ export default {
     fr: 'Candidatures',
     tr: 'Başvurular',
     ko: '가입 요청',
-    zh: '申請'
+    zh: '申請',
+    pt: 'Inscrições'
   },
 
   applicationdesc: {
@@ -366,14 +391,16 @@ export default {
     fr: 'Ceci est une liste des membres actifs de ce clan. Faites un clic droit pour accepter une candidature et inviter le joueur dans votre clan',
     tr: 'Bu liste klanının aktif başvurularıdır. Başvuruyu kabul etmek için sağ tıkla ve oyuncuyu klanına davet et',
     ko: '이것은 현재 가입을 원하는 플레이어의 목록입니다. 우클릭을 해 가입 요청을 수락할 수 있습니다.',
-    zh: '這是公會申請列表。右鍵接受申請並邀請玩家加入你的公會。'
+    zh: '這是公會申請列表。右鍵接受申請並邀請玩家加入你的公會。',
+    pt: 'Esta é uma lista de inscrições ativas do seu clã. Clique com o botão direito para aceitar uma inscrição e adicione o jogador para o seu clã'
   },
 
   player: {
     en: 'Player',
     fr: 'Joueur',
     ko: '플레이어',
-    zh: '玩家'
+    zh: '玩家',
+    pt: 'Jogador'
   },
 
   memberdesc: {
@@ -381,7 +408,8 @@ export default {
     fr: 'Ceci est une liste des membres actifs de ce clan. Faites un clic droit sur les membres pour plus d\'options.',
     tr: 'Bu liste klanının aktif üyelerinin listesidir. Fazladan seçenekler için oyuncuya sağ tıkla.',
     ko: '이것은 현재 클랜에 소속되어있는 클랜원들의 목록입니다. 우클릭을 해 클랜원들을 관리할 수 있습니다.',
-    zh: '這是公會成員列表。右鍵成員以獲取其他選項。'
+    zh: '這是公會成員列表。右鍵成員以獲取其他選項。',
+    pt: 'Esta é uma lista de membros ativos deste clã. Clique com o botão direito nos membros para opções adicionais.'
   },
 
   // Member, Assistant, Officer, Owner

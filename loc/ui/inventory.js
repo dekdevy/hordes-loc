@@ -54,7 +54,7 @@ export default {
     es: 'Has tirado $1.',
     fr: 'Vous avez jeté $1.',
     de: 'Du hast $1 weggeworfen.',
-    pt: 'Deitaste fora a $1.',
+    pt: 'Você jogou fora $1.',
     ko: '$1 을(를) 버렸습니다.',
     nl: 'Je hebt $1 weggegooid.',
     tr: '$1 \'i attın.',
