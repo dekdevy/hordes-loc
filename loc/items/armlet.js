@@ -6,7 +6,7 @@ export default [
       hu: 'Ezek a csuklóvédők bőrszalagok, melyek egyetlen csíkba lettek tekerve.',
       ru: 'Эти браслеты сделаны из кожаных полосок, которые были завернуты в простую форму',
       fr: 'Ces bracelets sont des lanières de cuir qui sont enveloppées dans une formation simple.',
-      ko: ' 이 가죽은 간단한 매듭으로 이루어진 입니다.',
+      ko: ' 이 가죽은 간단한 매듭으로 이루어진 팔보호구 입니다.',
       es: 'Estas pulseras estan hechas de tiras de cuero que están envueltas en una formación simple.',
       pt: 'Essas pulseras são feitas de tiras de couro que estão envolvidas em uma formacão simples.',
       de: 'Diese Armbänder sind Lederstreifen, die in einer einfachen Anordnung gewickelt sind.',
