@@ -6,8 +6,8 @@ export default [{
     ru: 'Выполняйте автоматические атаки в ближнем бою с помощью оружия.',
     fr: 'Vous effectuez des attaques de mélée automatiques avec votre arme.',
     zh: '使用武器進行自動近戰攻擊。',
-    tr: 'Silahınla otomatik yakın dövüş saldırısı sergile'
-    ko: '무기로 자동공격을 합니다.',
+    tr: 'Silahınla otomatik yakın dövüş saldırısı sergile',
+    ko: '무기로 자동공격을 합니다.'
   }
 },
 {
