@@ -8,7 +8,7 @@ export default {
     es: 'Monstruo',
     fr: 'Monstre',
     hi: 'राक्षस',
-    ko: '몹',
+    ko: '몬스터',
     pt: 'Monstro',
     tr: 'Canavar',
     nl: 'Monster',
