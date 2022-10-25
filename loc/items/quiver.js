@@ -12,6 +12,7 @@ export default [
       it: 'Questa faretra prodotta in serie è realizzata con lino elfico per un maggiore comfort.',
       ro: 'Acest tip de tolbă produsă în masă este făcută cu pânză de-a Elfilor pentru extra comfort.',
       nl: 'Deze massa-geproduceerde pijlkokers zijn gemaakt van Elfachtige linnen voor extra comfort.',
+      ko: '이 대량생산되는 화살통은 편의성을 위해 엘프의 천으로 만들어졌습니다.',
       zh: '這款批量生產的箭袋採用精靈亞麻布製成，帶來額外的舒適。',
       tr: 'Bu seri üretim sadak fazladan komfor için Elf kumaşından yapılmış.'
     }
@@ -30,6 +31,7 @@ export default [
       it: 'Le faretra rustiche sono affidabili e testate in battaglia. Queste faretre vengono spesso trasmesse agli arcieri apprendisti mentre progrediscono.',
       ro: 'Tolbere rustice sunt de încredere și testate în bătălie. Aceste tolbe sunt deseori pasate arcașilor începători pe măsură ce progresează.',
       nl: 'Rustic Quivers zijn betrouwbaar en gevecht getest. Deze pijlkokers worden vaak doorgegeven aan leerling boogschutters naarmate ze vooruitgaan.',
+      ko: '거친 화살통은 실용적이고 전투에서 쓰일수있다. 이 화살통은 훈련중인 궁수들에게 주로 사용된다.',
       zh: '仿古的箭袋可靠且經過實戰考驗。 這些箭袋通常會隨著學徒弓箭手的進步而傳遞給他們。',
       tr: 'Sade sadaklar güvenilirdirler ve savaş görmüşlerdir. Bu sadaklar daha çok acemi okçular ilerleme kat ettiğinde onlara verilir.'
     }
@@ -48,6 +50,7 @@ export default [
       it: 'Queste faretre sono fatte con scaglie di serpenti di mostri speciali. In genere, le pelli di serpente si trovano dopo che i serpenti giganti hanno perso la pelle; tentare una collezione di pelle di serpente altrimenti sarebbe un rischio elevato.',
       ro: 'Aceste tolbe sunt făcute din solzi de șarpe proveniți de la monștrii speciali. În mod normal, pieile de șarpe sunt găsite după ce șerpii giganți își lepădează pielea; asta pentru atunci când încerci să strângi piele altfel ar fi un risc prea mare.',
       nl: 'Deze pijlkokers zijn gemaakt van slangschubben van speciale monsters. Normaal gesproken worden slangenhuiden gevonden nadat reuze slangen hun huid verloren hebben. Om anders slangenhuid te verzamelen zou een groot risico zijn.',
+      ko: '이 화살통은 몇몇 몬스터들에게서 나온 뱀비늘로 만들어졌다. 보통은 거대 뱀이 허물을 벗으면, 그 허물에서 비늘을 가져가는 형식으로 비늘을 모았다.',
       zh: '這些箭袋由特殊怪物的蛇麟製成。這些蛇皮通常在巨蛇脫皮後尋找，否則試圖收集蛇皮是很危險的。',
       tr: 'Bu sadaklar özel canavararların özel yılan derilerinden yapılmış. Normalde yılan derileri, dev yılanlar deri dökdükten sonra elde edilir. Öbür türlü yılan derisi elde etmek çok riskli olurdu.'
     }
@@ -66,6 +69,7 @@ export default [
       it: 'Lo squisito artigianato di Markay\'ak ha portato alla creazione di esemplari rinforzati. Faretra come questa sono spesso una testimonianza dell\'orgoglio di ogni arciere professionista.',
       ro: 'Măiestria rafinată a lui Markay\'ak a rezultat în crearea "Reinforced Exemplar". Astfel de tolbe sunt deseori o dovadă a mândriei oricărui arcaș profesional.',
       nl: 'Het uitbundige vakmanschap van Markay’ak resulteerde in de creatie van Reinforced Exemplars. Pijlkokers zoals deze zijn vaak het testament en trots van elke professionele boogschutter.',
+      ko: '말카약의 아름다운 장인 정신이 이 아름다운 강화된 화살통을 만들었다. 이 강화된 화살통을 가지고 있다는건 숙련된 궁수라는것을 증명한다는 의미다
       zh: '由Markay\'ak精湛的工藝製作而成的強化箭袋。像這樣的箭袋通常作為任何職業弓箭手自豪的證明。',
       tr: 'Markay\'ak tarafından olan bu ince işçilik güçlendirilmiş sadakların yapımıyla sonuçlandı. Bunun gibi sadaklar genelde herhangi bir profesyonel okçunun onurunun kanıtıdır.'
     }
@@ -73,7 +77,7 @@ export default [
 
   {
     name       : {$$: 'Lazarus\'s Revenge' },
-    description: {
+    description:
       en: 'An immortal from an elder race created quivers with an inhuman power in order to manifest his revenge upon the world.',
       fr: 'Un immortel d\'une race plus âgée créa des carquois avec un pouvoir inhumain afin de manifester sa vengeance sur le monde.',
       hu: 'Egy halhatatlan teremtette ezeket a tegezeket embertelen akaratával, hogy kinyilatkoztassa bosszúját eme világon.',
@@ -84,6 +88,7 @@ export default [
       it: 'Un immortale di una razza anziana ha creato faretre con un potere disumano per manifestare la sua vendetta sul mondo.',
       ro: 'Un nemuritor dintr-o rasă străveche a creat tolbe cu o putere inumană pentru a manifesa răzbunarea sa asupra lumii.',
       nl: 'Een onsterfelijke van een oud ras creëerde pijlkokers met een onmenselijke kracht om zijn wraak te manifesteren op de wereld.',
+      ko: '이 불멸의 존재는 세상에 대한 복수를 위해 범접할수 없는 힘으로 이 화살통을 만들었다.',
       zh: '一位來自遠古種族的不朽者為了向世界復仇，他創造了具有非人力量的箭袋。',
       tr: 'Kadim ırktan bir ölümsüz, intikamını dünyaya göstermek için insan dışı güçteki sadakları üretti.'
     }
