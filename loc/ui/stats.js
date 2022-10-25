@@ -145,7 +145,7 @@ export default {
       it: 'Intelligenza',
       sr: 'Интелигенција',
       ja: '知性',
-      ko: '지능',
+      ko: '',
       cs: 'Inteligence'
     },
 
@@ -281,7 +281,7 @@ export default {
       it: 'Blocco',
       sr: 'Блок',
       ja: 'ブロック',
-      ko: '막기',
+      ko: '',
       cs: 'Blok'
     },
 
@@ -317,7 +317,7 @@ export default {
       sr: 'Брз. крет.',
       tr: 'Hareket ',
       ja: '移動速度',
-      ko: '이속',
+      ko: '이동속도',
       cs: 'Rychl. Pohybu'
       // el: 'Ταχύτητα Κίνησης'
       // pl: 'Prędkość ruchu'
@@ -341,7 +341,7 @@ export default {
       it: 'Rapidità',
       sr: 'Журба',
       ja: '機敏さ',
-      ko: '신속함',
+      ko: '성급',
       cs: 'Rychlost'
     },
 
@@ -536,7 +536,7 @@ export default {
       sr: '% Смањења брз. кретања',
       tr: '% Hareket Hızı Düşürme',
       ja: '% 移動速度低下',
-      ko: '% 이속 감소',
+      ko: '% 이동속도 감소',
       cs: '% Redukce Rychl. Pohybu'
       // de: '% verminderte Laufgeschwindigkeit',
     },
