@@ -30,7 +30,7 @@ export default {
     el: 'Οι πολεμιστές μπορούν να έχουν τον ρόλο του Tank επειδή έχουν υψηλή άμυνα μέσω του εξοπλισμού τους (Ασπίδες) και δυνατά αμυντικά ξόρκια.',
     ru: 'Воины созданы для того, чтобы танковать больше монстров чем любой другой класс, имея хорошую защиту с помощью снаряжения (Щита) и сильных защитных усилений.',
     de: 'Krieger sind so gebaut, dass sie mehrere Monster auf einmal aushalten können, da sie eine hohe Verteidigung durch Ausrüstung (Schilde) und starke defensive Buffs haben.',
-    es: 'Los guerreros están hechos para resistir más daño de los monstruos que cualquier otra clase mediante su gran defensa, su equipamiento (escudos) y sus fuertes Buffs(ventajas) defensivos.',
+    es: 'Los guerreros resisten más daño de los monstruos que cualquier otra clase gracias a su gran defensa, su equipamiento (escudos) y sus fuertes Buffs (ventajas) defensivos.',
     fr: 'Les guerriers sont conçus pour encaisser plus de monstres que n\'importe quelle autre classe en ayant une défense élevée grâce à leurs équipements (Boucliers) et des buffs défensifs puissants.',
     hi: 'सर्वश्रेष्ठ रक्षा उपकरण और ताक़तवर कवच के उपयोग से सारी श्रेणियो में योधा सबसे अधिक मार रोक सकते हैं।',
     ko: '전사들은 방패와 강력한 방어적인 버프를 통해 높은 방어력을 가짐으로써 다른 직업들보다 더 많은 몬스터를 견딜수 있습니다.',
