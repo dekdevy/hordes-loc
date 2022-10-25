@@ -13,6 +13,7 @@ export default [
       it: 'Questo teschio di ratto è uno strumento utile per iniziare maghi. I maghi a volte sperimentano le ossa di creature morte da lungo tempo per produrre un vaso focalizzante.',
       ro: 'Craniul de șobolan este o unealtă folositoare pentru magicienii începători. Magicienii uneori experimentează pe oasele creaturilor de mult moarte pentru a produce un vas de focalizare.',
       nl: 'Deze ratten schedel is een nuttig gereedschap voor beginnende magiërs. Magiërs experimenteren soms met de botten van al lang gestorven wezens om een focus vaartuig te produceren.',
+      ko: '이 쥐의 두개골은 마법 견습생에게 최적의 장비입니다. 마법사들은 가끔씩 죽은지 오래된 생명체의 뼈에 마법을 집중시키는 실험을 합니다.',
       zh: '這個老鼠頭骨是初學者法師的有用工具。 法師有時會在早已死去的生物的骨頭上進行實驗，以製造出聚焦容器。',
       tr: 'Bu sıçan kafa tası yeni başlayan büyücüler için kullanışlı bir araçtır. Büyücüler bazen bir odaklanma tası yapmak için uzun süredir ölü canlılar üzerinde deney yaparlar.'
     }
@@ -31,6 +32,7 @@ export default [
       it: 'Questi globi sono usati per una varietà di compiti magici. Questo è un dispositivo classico per utenti magici.',
       ro: 'Globurile acestea sunt utilizate pentru o varietate de sarcini magice. Aceste este un dispozitiv clasic pentru utilizatorii de magie.',
       nl: 'Deze globes worden gebruikt voor een aantal magische taken. Dit is een klassiek apparaat voor magie gebruikers.',
+      ko: '이 수정구슬은 다양한 마법을 하는데 사용된다. 마법사들의 기본 장비이다.',
       zh: '這些水晶球用於各種魔法任務。 這是法師的經典裝備。',
       tr: 'Bu küreler çeşitli sihirli işleri yapmak için kullanılırlar. Bu büyü yapan kişilerin klasik aletlerindendir.'
     }
@@ -49,6 +51,7 @@ export default [
       it: 'La magia interna di queste pietre consente agli uomini saggi di proteggersi durante la chiaroveggenza e le altre attività dei veggenti.',
       ro: 'Magia internă a acestor pietre le permite oamenilor înțelepți să se protejeze în timpul divinației și a altor activități clarvăzătoare.',
       nl: 'De interne magie van deze stenen laat wijze mensen toe om zich te beschermen tijdens pendelen en andere zieneractiviteiten.',
+      ko: '이 마법구의 내부에는 현자가 예언이나 집중하는동안 보호하는 마법이 내재되어있다.',
       zh: '來自於這些石頭的永恆法術允許法師和先知在占卜的時候保護自己。',
       tr: 'Bu taşların içindeki büyü bilge insanların geleceği görürken ve diğer gözcülerin faaliyetleri sırasında kendilerini korumalarını sağlar.'
     }
@@ -66,6 +69,7 @@ export default [
       es: 'Los rumores sobre la inmortalidad y la transmutación inspiraron a los usuarios de magia a experimentar y crear piedras como esta. Estos orbes se volvieron útiles para aumentar el poder mágico a pesar de que los resultados experimentales no alcanzaron las intenciones originales.',
       it: 'Le voci sull\'immortalità e la trasmutazione hanno ispirato gli utenti di magia a sperimentare e creare pietre come questa. Queste sfere sono diventate utili per aumentare il potere magico nonostante i risultati sperimentali non siano stati all\'altezza delle intenzioni originali.',
       ro: 'Zvonurile despre nemurire și transmutație au inspirat utilizatorii de magie să experimenteze și să creeze astfel de pietre. Aceste sfere au devenit folositoare la sporirea puterii magiei cu toate că rezultatele experimentale sunt departe de intențiile originale.',
+      ko: '불사와 변신이라는 소문에 감명받은 마법사들은 이런 오브를 만들어 실험을 하였다. 비록 결과가 좋지는 않았지만 이 오브들은 주문력을 강화하는데 도움이 되었다.',
       zh: '永生與稅變的傳言啟發了法師進行實驗與創造這種石頭。儘管實驗結果達不到最初的意圖，但這些法球在增強法術上有了用處。',
       tr: 'Ölümsüzlük ve transmutasyon hakkındakı söylentiler büyücüleri deney yapmaya ve bunun gibi taşlar yapmaya yöneltti. Bu küreler asıl niyetlerinin gerisinde kalan deneysel sonuçların aksine büyü gücünü arttırmada kullanışlı bir hal aldılar.'
     }
@@ -84,6 +88,7 @@ export default [
       it: 'Questa è una fantastica componente magica che è facilmente incantata. Oggetti utili come questo spesso hanno poteri innati e spesso si trovano nelle spedizioni commerciali tra mercanti.',
       ro: 'Aceasta este o componentă magică fantastică care este și ușor fermecată. Astfel de obiecte la îndemână deseori vin cu puteri înnăscute și pot fi găsite frecvent în schimburile de comerț ale negustorilor.',
       nl: 'Dit is een fantastisch magisch component dat gemakkelijk betoverd wordt. Handige voorwerpen zoals deze komen vaak met aangeboren krachten en kunnen frequent gevonden worden in handelsverzendingen tussen handelaars.',
+      ko: '이 엄청난 마법의 물질은 쉽게 강화가 된다는 장점을 가지고 있다. 이 편리한 도구는 상인들의 배 안에 있는 짐에서 쉽게 발견할수 있다.',
       zh: '這是個神奇且可輕易附魔的魔法道具。這類的便利物品通常具有與生俱來的力量，並且經常在商人貿易間找到。',
       tr: 'Bu kolayca büyülenebilen harika bir büyülü parçadır. Bunun gibi kullanışlı eşyalar genelde doğuştan gelen güçlere sahiptir ve genellikle ticaret sevkiyatları ile tüccarlar arasında sık sık bulunabilir.'
     }
