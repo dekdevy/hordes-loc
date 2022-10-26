@@ -69,7 +69,7 @@ export default [
       it: 'Lo squisito artigianato di Markay\'ak ha portato alla creazione di esemplari rinforzati. Faretra come questa sono spesso una testimonianza dell\'orgoglio di ogni arciere professionista.',
       ro: 'Măiestria rafinată a lui Markay\'ak a rezultat în crearea "Reinforced Exemplar". Astfel de tolbe sunt deseori o dovadă a mândriei oricărui arcaș profesional.',
       nl: 'Het uitbundige vakmanschap van Markay’ak resulteerde in de creatie van Reinforced Exemplars. Pijlkokers zoals deze zijn vaak het testament en trots van elke professionele boogschutter.',
-      ko: '말카약의 아름다운 장인 정신이 이 아름다운 강화된 화살통을 만들었다. 이 강화된 화살통을 가지고 있다는건 숙련된 궁수라는것을 증명한다는 의미다
+      ko: '말카약의 아름다운 장인 정신이 이 아름다운 강화된 화살통을 만들었다. 이 강화된 화살통을 가지고 있다는건 숙련된 궁수라는것을 증명한다는 의미다.',
       zh: '由Markay\'ak精湛的工藝製作而成的強化箭袋。像這樣的箭袋通常作為任何職業弓箭手自豪的證明。',
       tr: 'Markay\'ak tarafından olan bu ince işçilik güçlendirilmiş sadakların yapımıyla sonuçlandı. Bunun gibi sadaklar genelde herhangi bir profesyonel okçunun onurunun kanıtıdır.'
     }
@@ -77,7 +77,7 @@ export default [
 
   {
     name       : {$$: 'Lazarus\'s Revenge' },
-    description:
+    description:{
       en: 'An immortal from an elder race created quivers with an inhuman power in order to manifest his revenge upon the world.',
       fr: 'Un immortel d\'une race plus âgée créa des carquois avec un pouvoir inhumain afin de manifester sa vengeance sur le monde.',
       hu: 'Egy halhatatlan teremtette ezeket a tegezeket embertelen akaratával, hogy kinyilatkoztassa bosszúját eme világon.',
