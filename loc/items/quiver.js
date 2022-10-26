@@ -77,7 +77,7 @@ export default [
 
   {
     name       : {$$: 'Lazarus\'s Revenge' },
-    description:{
+    description: {
       en: 'An immortal from an elder race created quivers with an inhuman power in order to manifest his revenge upon the world.',
       fr: 'Un immortel d\'une race plus âgée créa des carquois avec un pouvoir inhumain afin de manifester sa vengeance sur le monde.',
       hu: 'Egy halhatatlan teremtette ezeket a tegezeket embertelen akaratával, hogy kinyilatkoztassa bosszúját eme világon.',
