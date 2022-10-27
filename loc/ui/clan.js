@@ -357,7 +357,7 @@ export default {
     tr: 'Hazine',
     ko: '자금',
     zh: '金庫',
-    pt: 'Tesouraria'
+    pt: 'Tesouraria',
     es: 'Tesorería'
   },
 
