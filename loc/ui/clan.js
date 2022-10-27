@@ -150,7 +150,7 @@ export default {
     tr: 'Klanın yok',
     ko: '클랜이 없습니다.',
     zh: '你沒有公會',
-    pt: 'Você não tem um clã'
+    pt: 'Você não tem um clã',
     es: 'No tienes un clan',
   },
 
@@ -160,7 +160,7 @@ export default {
     tr: 'Davetleri görüntüle',
     ko: '클랜 초대 목록 보기',
     zh: '查看邀請',
-    pt: 'Olhar convites'
+    pt: 'Olhar convites',
     es: 'Ver tus invitaciones',
   },
 
@@ -169,7 +169,7 @@ export default {
     tr: 'Eylem',
     ko: '행동',
     zh: '行動',
-    pt: 'Ações'
+    pt: 'Ações',
     es: 'Acción',
   },
 
@@ -180,7 +180,7 @@ export default {
     tr: 'Başvuru',
     ko: '수락',
     zh: '申請',
-    pt: 'Inscrições'
+    pt: 'Inscrições',
     es: 'Inscripciones',
   },
 
@@ -190,7 +190,7 @@ export default {
     tr: 'Üyeyi at',
     ko: '추방',
     zh: '踢掉會員',
-    pt: 'Remover membro'
+    pt: 'Remover membro',
     es: 'Expulsar miembro',
   },
 
@@ -200,7 +200,7 @@ export default {
     tr: 'Rütbeyi ayarla',
     ko: '등급 설정',
     zh: '設定職位',
-    pt: 'Definir rank'
+    pt: 'Definir rank',
     es: 'Definir rango',
   },
 
@@ -210,7 +210,7 @@ export default {
     tr: 'Klandan ayrıl',
     ko: '클랜을 나갔습니다',
     zh: '離開公會',
-    pt: 'Sair do clã'
+    pt: 'Sair do clã',
     es: 'Abandonó el clan',
   },
 
@@ -220,7 +220,7 @@ export default {
     tr: 'Üye atıldı',
     ko: '클랜원이 추방되었습니다',
     zh: '已剔除會員',
-    pr: 'Membro removido'
+    pr: 'Membro removido',
     es: 'Miembro expulsado',
   },
 
@@ -230,7 +230,7 @@ export default {
     tr: 'Klana başvuruldu',
     ko: '클랜 초대에 수락하셨습니다',
     zh: '已申請公會',
-    pt: 'Aplicar ao clã'
+    pt: 'Aplicar ao clã',
     es: 'Aplicaste al clan'
   },
 
@@ -247,7 +247,7 @@ export default {
       tr: ' davet edildi',
       ko: ' 초대함',
       zh: ' 已邀請',
-      pt: ' Convidado'
+      pt: ' Convidado',
       es: ' Invitado',
     }
   ],
@@ -258,7 +258,7 @@ export default {
     tr: 'Başvuruyu kabul et',
     ko: '가입 요청 수락',
     zh: '同意申請',
-    pt: 'Aceitar a inscrição'
+    pt: 'Aceitar a inscrição',
     es: 'Aceptar aplicación',
   },
 
@@ -268,7 +268,7 @@ export default {
     tr: 'Başvuru kabul edildi',
     ko: '가입 요청을 수락하였습니다',
     zh: '已同意申請',
-    pt: 'Inscrição aceita'
+    pt: 'Inscrição aceita',
     es: 'Aplicación aceptada',
   },
 
@@ -278,7 +278,7 @@ export default {
     tr: 'Başvuruyu reddet',
     ko: '가입 요청 거절',
     zh: '拒絕申請',
-    pt: 'Recusar inscrição'
+    pt: 'Recusar inscrição',
     es: 'Denegar aplicación',
   },
 
@@ -288,7 +288,7 @@ export default {
     tr: 'Başvuru reddedildi',
     ko: '가입 요청을 거절하였습니다',
     zh: '已拒絕申請',
-    pt: 'Inscrição recusada'
+    pt: 'Inscrição recusada',
     es: 'Aplicación denegada',
   },
 
@@ -298,7 +298,7 @@ export default {
     tr: 'Klan seviyesi',
     ko: '클랜 레벨',
     zh: '公會等級',
-    pt: 'Nível do Clã'
+    pt: 'Nível do Clã',
     es: 'Nivel del Clan',
   },
 
@@ -308,7 +308,7 @@ export default {
     tr: 'Kapasite',
     ko: '정원',
     zh: '位置',
-    pt: 'Capacidade'
+    pt: 'Capacidade',
     es: 'Capacidad',
   },
 
@@ -318,7 +318,7 @@ export default {
     tr: 'Sonraki seviye',
     ko: '다음 레벨',
     zh: '下個等級',
-    pt: 'Próximo nível'
+    pt: 'Próximo nível',
     es: 'Siguiente nivel',
   },
 
@@ -328,7 +328,7 @@ export default {
     tr: 'Vergi oranı',
     ko: '세금',
     zh: '稅額',
-    pt: 'Porcentagem de taxa'
+    pt: 'Porcentagem de taxa',
     es: 'Tasa de impuestos'
   },
 
@@ -338,7 +338,7 @@ export default {
     tr: 'Üyeler',
     ko: '클랜원',
     zh: '會員',
-    pt: 'Membros'
+    pt: 'Membros',
     es: 'Miembros',
   },
 
@@ -347,7 +347,7 @@ export default {
     fr: 'En ligne',
     tr: 'Çevrimiçi',
     ko: '온라인',
-    zh: '在線'
+    zh: '在線',
     es: 'En línea',
   },
 
@@ -367,7 +367,7 @@ export default {
     tr: 'En yüksek rütben',
     ko: '최고 등급',
     zh: '你的最高職位',
-    pt: 'Sua classificação mais alta'
+    pt: 'Sua classificação mais alta',
     es: 'Máximo rango alcanzado'
   },
 
@@ -377,7 +377,7 @@ export default {
     tr: 'Oyuncuları davet et',
     ko: '플레이어 초대',
     zh: '邀請玩家',
-    pt: 'Convidar jogadores'
+    pt: 'Convidar jogadores',
     es: 'Invitar jugadores'
   },
 
@@ -387,7 +387,7 @@ export default {
     tr: 'Oyuncuyu davet et',
     ko: '초대하기',
     zh: '邀請玩家',
-    pt: 'Convidar jogador'
+    pt: 'Convidar jogador',
     es: 'Invitar a un jugador'
   },
 
@@ -397,7 +397,7 @@ export default {
     tr: 'Klana başvur (Davet talep et)',
     ko: '클랜 가입 (가입 요청 보내기)',
     zh: '申請公會(發送請求)',
-    pt: 'Aplicar ao clã (solicitar convite)'
+    pt: 'Aplicar ao clã (solicitar convite)',
     es: 'Aplicar al clan (solicitar invitación)',
   },
 
@@ -408,7 +408,7 @@ export default {
     tr: 'Başvurular',
     ko: '가입 요청',
     zh: '申請',
-    pt: 'Inscrições'
+    pt: 'Inscrições',
     es: 'Aplicaciones'
   },
 
@@ -418,7 +418,7 @@ export default {
     tr: 'Bu liste klanının aktif başvurularıdır. Başvuruyu kabul etmek için sağ tıkla ve oyuncuyu klanına davet et',
     ko: '이것은 현재 가입을 원하는 플레이어의 목록입니다. 우클릭을 해 가입 요청을 수락할 수 있습니다.',
     zh: '這是公會申請列表。右鍵接受申請並邀請玩家加入你的公會。',
-    pt: 'Esta é uma lista de inscrições ativas do seu clã. Clique com o botão direito para aceitar uma inscrição e adicione o jogador para o seu clã'
+    pt: 'Esta é uma lista de inscrições ativas do seu clã. Clique com o botão direito para aceitar uma inscrição e adicione o jogador para o seu clã',
     es: 'Esta es una lista de aplicaciones activas a tu clan. Clica con el botón derecho para aceptar una aplicación e invitar al jugador a tu clan',
   },
 
@@ -427,7 +427,7 @@ export default {
     fr: 'Joueur',
     ko: '플레이어',
     zh: '玩家',
-    pt: 'Jogador'
+    pt: 'Jogador',
     es: 'Jugador',
   },
 
@@ -437,7 +437,7 @@ export default {
     tr: 'Bu liste klanının aktif üyelerinin listesidir. Fazladan seçenekler için oyuncuya sağ tıkla.',
     ko: '이것은 현재 클랜에 소속되어있는 클랜원들의 목록입니다. 우클릭을 해 클랜원들을 관리할 수 있습니다.',
     zh: '這是公會成員列表。右鍵成員以獲取其他選項。',
-    pt: 'Esta é uma lista de membros ativos deste clã. Clique com o botão direito nos membros para opções adicionais.'
+    pt: 'Esta é uma lista de membros ativos deste clã. Clique com o botão direito nos membros para opções adicionais.',
     es: 'Esta es una lista de miembros activos del clan. Clica con el botón derecho para opciones adicionales',
   },
 
@@ -447,7 +447,7 @@ export default {
     fr: 'Grade',
     tr: 'Rütbe',
     ko: '등급',
-    zh: '職位'
+    zh: '職位',
     es: 'Rango'
   },
 
