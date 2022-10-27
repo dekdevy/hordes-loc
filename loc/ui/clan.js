@@ -151,6 +151,7 @@ export default {
     ko: '클랜이 없습니다.',
     zh: '你沒有公會',
     pt: 'Você não tem um clã'
+    es: 'No tienes unclan',
   },
 
   viewinvites: {
