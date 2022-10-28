@@ -150,7 +150,8 @@ export default {
     tr: 'Sıfırla',
     ko: '초기화',
     zh: '重置',
-    pt: 'Resetar'
+    pt: 'Resetar',
+    es: 'Resetear'
   },
 
   disable: {
@@ -159,7 +160,8 @@ export default {
     tr: 'Devre dışı bırak',
     ko: '사용하지 않음',
     zh: '禁用',
-    pt: 'Desativar'
+    pt: 'Desativar',
+    es: 'Desactivar'
   },
 
   playername: {
@@ -168,7 +170,8 @@ export default {
     tr: 'Oyuncu ismi gir',
     ko: '플레이어 이름을 적으세요',
     zh: '輸入玩家名稱',
-    pt: 'Digite o nome do jogador'
+    pt: 'Digite o nome do jogador',
+    es: 'Escriba el nombre del jugador'
   },
 
   streamLoad: {
@@ -177,7 +180,8 @@ export default {
     tr: 'Canlı yayınlar yükleniyor...',
     ko: '방송 로딩중...',
     zh: '讀取實況...',
-    pt: 'Carregando streams...'
+    pt: 'Carregando streams...',
+    es: 'Cargando streams...'
   },
 
   all: {
@@ -186,7 +190,8 @@ export default {
     tr: 'Hepsi',
     ko: '모두',
     zh: '全部',
-    pt: 'Todos'
+    pt: 'Todos',
+    es: 'Todos'
   },
 
   filter: {
@@ -195,7 +200,8 @@ export default {
     tr: 'Filtre',
     ko: '필터',
     zh: '篩選',
-    pt: 'Filtro'
+    pt: 'Filtro',
+    es: 'Filtrar'
   },
 
   apply: {
@@ -204,7 +210,8 @@ export default {
     tr: 'Uygula',
     ko: '적용',
     zh: '確認',
-    pt: 'Aplicar'
+    pt: 'Aplicar',
+    es: 'Aplicar'
   },
 
   default: {
@@ -213,7 +220,8 @@ export default {
     tr: 'Varsayılan',
     ko: '기본',
     zh: '默認',
-    pt: 'Padrão'
+    pt: 'Padrão',
+    es: 'Predeterminado'
   },
 
   // Used for party and arena searching
@@ -223,7 +231,8 @@ export default {
     tr: 'Ara',
     ko: '찾다',
     zh: '尋找',
-    pt: 'Procurar'
+    pt: 'Procurar',
+    es: 'Encontrar'
   },
 
   // Used for party and arena searching
@@ -233,7 +242,8 @@ export default {
     tr: 'Aranıyor...',
     ko: '검색중...',
     zh: '搜尋中...',
-    pt: 'Procurando...'
+    pt: 'Procurando...',
+    es: 'Buscando...'
   },
 
   learnable: {
@@ -242,7 +252,8 @@ export default {
     tr: 'Öğrenilebilir Svy.',
     ko: '습득 가능 Lv.',
     zh: '可以學習 Lv.',
-    pt: 'Aprende Niv.'
+    pt: 'Aprende Niv.',
+    es: 'Aprender Niv.'
   },
 
   cost: {
@@ -251,7 +262,8 @@ export default {
     tr: 'Bedel',
     ko: '비용',
     zh: '費用',
-    pt: 'Custa'
+    pt: 'Custa',
+    es: 'Coste'
   },
 
   noOptions: {
@@ -260,6 +272,7 @@ export default {
     tr: 'Seçenek yok',
     ko: '권한이 없습니다',
     zh: '沒有選項',
-    pt: 'Sem opções'
+    pt: 'Sem opções',
+    es: 'Sin opciones'
   }
 }
