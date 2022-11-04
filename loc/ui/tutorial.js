@@ -2,7 +2,7 @@
 export default {
   msg: [
     {
-      en: 'Welcome! Press <kbd>W A S D</kbd> or <kbd>⭠ ⭢ ⭡ ⭣</kbd> to move.'
+      en: 'Welcome! Press <kbd>W A S D</kbd> or <kbd>⭠ ⭢ ⭡ ⭣</kbd> to move.',
       // ru: 'Добро пожаловать! Нажмите <kbd>W A S D</kbd> или <kbd>⭠ ⭢ ⭡ ⭣</kbd> для перемещения.'
       it: 'Benvenuto! Premi <kbd>W A S D</kbd> o <kbd>⭠ ⭢ ⭡ ⭣</kbd> per muoverti.'
       // pt: 'Olá! Pressione <kbd>W A S D</kbd> ou <kbd>⭠ ⭢ ⭡ ⭣</kbd> para se mover.'
