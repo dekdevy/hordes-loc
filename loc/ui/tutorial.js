@@ -12,7 +12,7 @@ export default {
     },
     {
       en: 'Great job! Now, <kbd>left/right click</kbd> and drag your mouse to rotate the camera.',
-      it: 'Ottimo lavoro! Ora, <kbd>clic sinistro/destro</kbd> e trascina il mouse per ruotare la telecamera.'
+      it: 'Ottimo lavoro! Ora <kbd>clic sinistro/destro</kbd> e trascina il mouse per ruotare la telecamera.'
       // pt: 'Bom trabalho! Agora, use o <kbd>left/right click</kbd> e arraste para mover a câmera.'
       // fr: 'Bien joué! Maintenant, utilisez <kbd>clic gauche/droit</kbd> en déplaçant votre souris pour déplacer la caméra.'
       // cs: 'Dobrá práce! Nyní, <kbd>left/right click</kbd> a tažením myší otáčíš kamerou.'
@@ -20,7 +20,7 @@ export default {
     },
     {
       en: 'To prepare you for combat, I will explain the UI elements.',
-      it: 'Per prepararti al combattimento, ti spiegherò gli elementi dell menu.'
+      it: 'Per prepararti al combattimento ti spiegherò gli elementi dell menu.'
       // pt: 'Para preparar você para o combate, eu vou te explicar os elementos da interface do usuário (UI).'
       // fr: 'Pour vous préparer au combat, je vais vous expliquer les éléments de l\'interface utilisateur (UI).'
       // cs: 'Připrav se na boj, vysvětlím ti prvky uživatelského rozhraní.'
@@ -36,7 +36,7 @@ export default {
     },
     {
       en: 'Move forward and find a monster, then target it by clicking it with your mouse or pressing <kbd>TAB</kbd>.',
-      it: 'Vai avanti e trova un mostro, quindi miralo facendo clic con il mouse o premendo <kbd>TAB</kbd>.'
+      it: 'Vai avanti e trova un mostro quindi miralo facendo clic con il mouse o premendo <kbd>TAB</kbd>.'
       // pt: 'Mova-se para frente e encontre algum mosntro, então selecione-o para o combate clicando com o mouse, ou pressionando <kbd>TAB</kbd>.'
       // fr: 'Avancez et trouvez un monstre, puis ciblez-le en lui cliquant dessus avec votre souris ou en appuyant sur <kbd>TAB</kbd>.'
       // cs: 'Popojdi vpřed a najdi monstrum, poté ho na něho zacílíš kliknutím myší nebo stisknutím klávesy <kbd>TAB</kbd>. '
