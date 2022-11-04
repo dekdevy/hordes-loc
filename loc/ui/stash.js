@@ -1,25 +1,32 @@
 export default {
+  name: {
+    en: 'Stash',
+    fr: 'Réserve',
+    tr: 'Depo', //im not sure about this translation. Because exact translation is a bit weird. So i may change it later
+    ko: '창고'
+  },
 
   waitunstash: {
     en: 'You have to wait until you can retrieve this item.',
     el: 'Πρέπει να περιμένετε για να ανακτήσετε αυτό το αντικείμενο.',
     de: 'Du musst noch etwas warten, bis du dieses Item entnehmen kannst.',
-    ru: 'Вы должны подождать перед тем как вы можете получить этот предмет.',
-    pt: 'Você tem de esperar até que possa recuperar este item.',
+    ru: 'Вы должны подождать, прежде чем получить этот предмет.',
+    pt: 'Você tem que esperar até que possa recuperar este item.',
     fr: 'Vous devez attendre jusqu\'à ce que vous puissiez récupérer cet objet',
     es: 'Tiene que esperar hasta que pueda recuperar este item.',
     nl: 'Je moet wachten tot je dit item kan terugvinden.',
-    ko: '이 항목을 가져올 때까지 기다려야합니다.',
+    ko: '이 아이템을 받을 때까지 기다려야합니다.',
     hi: 'आपको इस आइटम को पुनः प्राप्त करने तक इंतजार करना होगा।',
     ro: 'Trebuie să aștepți până să poți recupera acest obiect.',
-    zh: '您必须等到可以取回这个装备。',
+    zh: '請等待冷卻時間取回物品。',
     hu: 'Várnod kell még hogy visszaszerezhesd ezt a tárgyat.',
     pl: 'Musisz poczekać zanim podniesiesz ten przedmiot.',
     vi: 'Bạn phải đợi cho đến khi bạn có thể lấy lại vật phẩm này.',
     sr: 'Мораш сачекати пре него што можеш преузети овај предмет.',
     it: 'Devi aspettare fino a quando non puoi recuperare questo elemento.',
     tr: 'Bu öğeyi alabilmek için beklemelisin.',
-    ja: 'このアイテムを回収するには暫くの間待つ必要があります。'
+    ja: 'このアイテムを回収するには暫くの間待つ必要があります。',
+    cs: 'Musíš počkat, než budeš moci tento předmět vyzvednout'
   },
 
   withdraw: {
@@ -33,15 +40,16 @@ export default {
     pt: 'Retirar',
     ro: 'Retrage',
     hi: 'निकालना',
-    ko: '빼다',
+    ko: '인출 하기',
     tr: 'Çekil',
-    zh: '退出',
+    zh: '取出',
     hu: 'Kivesz',
     pl: 'Podejmij',
     vi: 'Rút tiền',
     sr: 'Повлачење новца',
     it: 'Preleva',
-    ja: '引き出す'
+    ja: '引き出す',
+    cs: 'Vybrat'
   },
 
   // Translate the verb, rather than the noun.
@@ -58,7 +66,10 @@ export default {
     hu: 'Betesz',
     pt: 'Depósito',
     tr: 'Yatır',
-    ja: '預ける'
+    ja: '預ける',
+    ko: '입금 하기',
+    cs: 'Vklad',
+    zh: '存入'
   },
 
   // Do not translate "Stash".
@@ -67,21 +78,22 @@ export default {
     el: 'Αποθήκευση στο Stash',
     de: 'In Stash verschieben',
     ru: 'Положить в Stash',
-    pt: 'Mover para o baú',
+    pt: 'Mover para o Stash',
     fr: 'Mettre dans la Stash',
     es: 'Mover al Stash',
     nl: 'Verhuizen naar Stash',
-    ko: '은신처로 이동하십시오',
+    ko: 'Stash 아이템',
     hi: 'स्टैश में भेजें',
     ro: 'Mută în Stash.',
-    zh: '转到保管',
+    zh: '存至 Stash',
     hu: 'Stash-be rak',
     pl: 'Przenieś do Stash',
     vi: 'Di chuyển vào Stash',
     sr: 'Стави у Stash',
     it: 'Invia allo Stash',
     tr: 'Eşyayı Stashle',
-    ja: 'Stashアイテム'
+    ja: 'Stashアイテム',
+    cs: 'Stash položk'
   },
 
   // Do not translate "Stash".
@@ -90,21 +102,21 @@ export default {
     el: 'Το $1 έχει μεταφερθεί στο Stash.',
     de: '$1 wurde in deinen Stash verschoben.',
     ru: '$1 было добавлено в Stash.',
-    pt: '$1 foi transferido para o seu Stash.',
+    pt: '$1 foi movido para o seu Stash.',
     fr: '$1 a été transféré dans votre Stash.',
     es: '$1 se ha transferido al Stash.',
     nl: '$1 is verplaatst naar je Stash.',
     hi: '$1 को स्टैश में भेज दिया गया है',
     ro: '$1 a fost mutat în Stash.',
-    ko: '$1 가 숨겨지기로 옮겼습니다.',
-    zh: '$1 被转移到了你的保管',
+    ko: '$1 가 Stash 로 이동되었습니다.',
+    zh: '$1 被轉移至 Stash',
     hu: 'A Stash-edbe került: $1',
     pl: '$1 został przeniesiony do Stash',
     vi: '$1 đã được đưa ra khỏi Stash.',
     sr: '$1 је стављен у твој Stash.',
     it: '$1 è stato spostato nel tuo Stash',
     tr: '$1, Stashe taşındı.',
-    ja: '$1 がStashに送られました。'
+    ja: '$1 がStashに送られました。',
+    cs: '$1 byl přesunut do truhly'
   }
-
 }

@@ -11,15 +11,16 @@ export default {
     nl: 'Inventaris',
     pt: 'Inventário',
     tr: 'Enventer',
-    ko: '목록',
+    ko: '인벤토리',
     ro: 'inventar',
-    zh: '库存',
+    zh: '物品欄',
     hu: 'Hátizsák',
     pl: 'Ekwipunek',
     vi: 'Hành trang',
     sr: 'Инвентар',
     it: 'Inventario',
-    ja: 'インベントリ'
+    ja: 'インベントリ',
+    cs: 'Inventář'
   },
 
   pick: {
@@ -33,15 +34,16 @@ export default {
     fr: 'Vous avez ramassé $1.',
     ru: 'Вы подобрали $1.',
     hi: 'आपने $1 उठा लिया',
-    ko: '당신은 $1 를 선택했습니다',
-    zh: '你捡到了$1。',
+    ko: '$1 을(를) 주웠습니다.',
+    zh: '你撿起了 $1。',
     hu: 'Fölvetted: $1',
     pl: 'Podniesiono $1.',
     vi: 'Bạn nhặt được $1.',
     sr: 'Покупио си $1.',
     it: 'Hai raccolto $1.',
     tr: 'Yerden $1 aldın.',
-    ja: '$1 を拾いました。'
+    ja: '$1 を拾いました。',
+    cs: 'Sebral jsi $1'
   },
 
   throw: {
@@ -52,18 +54,19 @@ export default {
     es: 'Has tirado $1.',
     fr: 'Vous avez jeté $1.',
     de: 'Du hast $1 weggeworfen.',
-    pt: 'Deitaste fora a $1.',
-    ko: '너는 버렸어 $1',
+    pt: 'Você jogou fora $1.',
+    ko: '$1 을(를) 버렸습니다.',
     nl: 'Je hebt $1 weggegooid.',
     tr: '$1 \'i attın.',
     hi: 'आपने $1 को फेंक दिया',
-    zh: '你丢了$1。',
+    zh: '你丢了 $1。',
     hu: 'Eldobtad: $1',
     pl: 'Wyrzucono: $1.',
     vi: 'Bạn đã vứt đi $1.',
     it: 'Hai gettato via $1.',
     sr: 'Бацио си $1.',
-    ja: '$1 を捨てました。'
+    ja: '$1 を捨てました。',
+    cs: 'Odhodil jsi $1'
   },
 
   full: {
@@ -77,15 +80,16 @@ export default {
     fr: 'Votre inventaire est plein.',
     ru: 'В инвентаре нет места.',
     hi: 'आपकी वस्तुसूचि भर गयी है',
-    ko: '인벤토리가 가득 찼습니다',
-    zh: '你的库存满了。',
+    ko: '인벤토리가 가득 참',
+    zh: '你的物品欄滿了。',
     hu: 'A hátizsákod tele van.',
     pl: 'Twój ekwipunek jest pełen.',
     vi: 'Hành trang của bạn đã đầy',
     it: 'Il tuo inventario è pieno',
     sr: 'Твој инвентар је пун.',
     tr: 'Enventerin dolu',
-    ja: 'インベントリが満杯です。'
+    ja: 'インベントリが満杯です。',
+    cs: 'Tvůj inventář je plný'
   },
 
   sold: {
@@ -99,15 +103,16 @@ export default {
     fr: 'Vous avez vendu $1.',
     ru: 'Вы продали $1.',
     hi: 'आपने $1 बेच दिया',
-    ko: '$1 에',
-    zh: '你卖了 $1。',
+    ko: '$1 을(를) 판매했습니다.',
+    zh: '你賣了 $1。',
     hu: 'Eladtad: $1',
     pl: 'Sprzedano $1.',
     vi: 'Bạn đã bán $1.',
     it: 'Hai venduto $1.',
     sr: 'Продао си $1.',
     tr: '$1 sattın.',
-    ja: '$1 を売却しました。'
+    ja: '$1 を売却しました。',
+    cs: 'Prodal jsi $1'
   },
 
   receive: {
@@ -120,7 +125,7 @@ export default {
     pt: 'Você recebeu $1.',
     es: 'Has recibido $1.',
     hi: 'आपको $1 प्राप्त हुआ है',
-    ko: '$1 를 받았습니다',
+    ko: '$1 을(를) 흭득했습니다.',
     ro: 'Ați primit $1.',
     zh: '你收到 $1。',
     hu: 'Kaptál: $1',
@@ -129,7 +134,8 @@ export default {
     it: 'Hai ricevuto $1.',
     sr: 'Добио си $1.',
     tr: '$1 elde ettin.',
-    ja: '$1 を受け取りました。'
+    ja: '$1 を受け取りました。',
+    cs: 'Získal jsi $1'
   },
 
   drop: {
@@ -143,15 +149,16 @@ export default {
     nl: 'Laat vallen',
     pt: 'Soltar item',
     tr: 'Eşyayı bırak',
-    ko: '아이템 놓기',
+    ko: '아이템 버리기',
     ro: 'Aruncă obiectul',
-    zh: '丢装备',
+    zh: '丟物品',
     hu: 'Tárgy eldobása',
     pl: 'Wyrzuć przedmiot',
     vi: 'Vứt vật phẩm',
     it: 'Rilascia l\'oggetto',
     sr: 'Баци предмет',
-    ja: '捨てる'
+    ja: '捨てる',
+    cs: 'Odhodit položku'
   },
 
   equip: {
@@ -161,19 +168,20 @@ export default {
     hi: 'वस्तु पहन लें',
     es: 'Equipar objeto',
     pt: 'Equipar item',
-    ko: '장비 아이템',
+    ko: '아이템 착용',
     de: 'Item ausrüsten',
-    fr: 'Equipez l\'item',
+    fr: 'Equiper l\'item',
     nl: 'Rust uw item uit',
     ro: 'Echipează obiectul',
-    zh: '上装备',
+    zh: '穿戴裝備',
     hu: 'Felfegyverkezés',
     pl: 'Wyposaż przedmiot',
     vi: 'Trang bị vật phẩm',
     it: 'Equipaggia l\'oggetto',
     sr: 'Опреми предмет',
     tr: 'Eşyayı kuşan',
-    ja: '装備する'
+    ja: '装備する',
+    cs: 'Obléct předmět'
   },
 
   use: {
@@ -186,36 +194,45 @@ export default {
     fr: 'Utiliser l\'item',
     de: 'Item benutzen',
     pt: 'Usar item',
-    ko: '항목 사용',
+    ko: '아이템 사용',
     nl: 'Gebruik item',
     tr: 'Eşyayı kullan',
-    zh: '用物品',
+    zh: '使用道具',
     hu: 'Használat',
     pl: 'Użyj przedmiot',
     vi: 'Sử dụng vật phẩm',
     it: 'Usa l\'oggetto',
     sr: 'Употреби предмет',
-    ja: '使用する'
+    ja: '使用する',
+    cs: 'Použít předmět'
   },
 
   copyitemid: {
     en: 'Copy item ID',
     ru: 'Скопировать ID предмета',
     el: 'Αντιγραφή ID αντικειμένου',
+    fr: 'Copier l\'ID de l\'item',
     hu: 'Azonosító másolása',
     pt: 'Copiar ID do item',
     tr: 'Eşya ID\'sini kopyala',
-    ja: 'アイテムIDをコピー'
+    ja: 'アイテムIDをコピー',
+    cs: 'Kopírovat ID předmětu',
+    zh: '複製物品ID',
+    ko: '아이템 ID 복사'
   },
 
   sell: {
     en: 'Sell item',
     el: 'Πώληση αντικειμένου',
     ru: 'Продать предмет',
+    fr: 'Vendre l\'item',
     hu: 'Eladás',
     pt: 'Vender item',
     tr: 'Eşya sat',
-    ja: '売却する'
+    ja: '売却する',
+    cs: 'Prodat předmět',
+    zh: '出售物品',
+    ko: '아이템 팔기'
   },
 
   splithalf: {
@@ -232,7 +249,10 @@ export default {
     it: 'Dividi a metà',
     sr: 'Поделити на пола',
     tr: 'İkiye böl',
-    ja: '半分に分ける'
+    ja: '半分に分ける',
+    ko: '반으로 나누기',
+    cs: 'Rozdělit na půl',
+    zh: '拆分一半'
   },
 
   splitone: {
@@ -249,7 +269,10 @@ export default {
     it: 'Dividine uno',
     sr: 'Поделити један',
     tr: 'Bir tane ayır',
-    ja: '1つ分ける'
+    ja: '1つ分ける',
+    ko: '하나만 선택',
+    cs: 'Rozdělit jeden',
+    zh: '拆分一個'
   },
 
   spend: {
@@ -260,18 +283,19 @@ export default {
     fr: 'Vous avez dépensé $1.',
     de: 'Du hast $1 ausgegeben.',
     pt: 'Você gastou $1.',
-    ko: '$1 동전을 보냈습니다',
+    ko: '$1 을 사용했습니다.',
     nl: 'U heeft $1 uitgegeven.',
     tr: '$1 para harcadınız.',
     hi: 'आपने $1 सिक्के खर्च कर दिए हैं',
     ro: 'Ai cheltuit $1.',
-    zh: '你花了$1。',
+    zh: '你花了 $1。',
     hu: 'Elköltöttél $1',
     pl: 'Wydano $1.',
     vi: 'Bạn đã dành $1',
     it: 'Hai speso $1',
     sr: 'Ти си потрошио $1.',
-    ja: '$1 支払いました。'
+    ja: '$1 支払いました。',
+    cs: 'Utratil jsi $1'
   },
 
   death: {
@@ -282,18 +306,19 @@ export default {
     fr: 'Vous êtes mort et avez perdu $1.',
     de: 'Du bist gestorben und hast $1 verloren.',
     pt: 'Você morreu e perdeu $1.',
-    ko: '$1 개의 동전을 잃고 잃어 버렸습니다',
+    ko: '사망해서 $1 을 잃었습니다.',
     nl: 'Je stierf en verloor $1.',
     tr: 'Öldün ve $1 para kaybettin.',
     hi: 'आप मारे गए और $1 सिक्के खो दिए',
     ro: 'Ai murit și ai pierdut $1.',
-    zh: '你死了，掉了 $1。',
+    zh: '你已死亡，損失 $1。',
     hu: 'Meghaltál és elvesztetted: $1',
     pl: 'Podczas śmierci stracono $1.',
     vi: 'Bạn đã chết và mất $1',
     it: 'Sei morto e hai perso $1',
     sr: 'Преминули сте и изгубили $1.',
-    ja: '死亡した為 $1 失いました。'
+    ja: '死亡した為 $1 失いました。',
+    cs: 'Zemřel jsi a ztratil jsi $1'
   },
 
   bindlevel: [

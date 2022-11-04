@@ -28,6 +28,7 @@ import hammer from './items/hammer.js'
 import misc from './items/misc.js'
 import mount from './items/mount.js'
 import orb from './items/orb.js'
+import pet from './items/pet.js'
 import quiver from './items/quiver.js'
 import ring from './items/ring.js'
 import rune from './items/rune.js'
@@ -56,7 +57,8 @@ const items = {
   mount,
   totem,
   box,
-  charm
+  charm,
+  pet
 }
 
 // Factions
@@ -87,23 +89,32 @@ const npcs = {
 import * as merchantui from './ui/merchant.js'
 import * as stashui from './ui/stash.js'
 import charmenu from './ui/charmenu.js'
+import charpanel from './ui/charpanel.js'
 import chat from './ui/chat.js'
 import clan from './ui/clan.js'
 import death from './ui/death.js'
+import elixir from './ui/elixir.js'
 import general from './ui/general.js'
+import headers from './ui/headers.js'
 import hiddenskills from './ui/hiddenskills.js'
 import inventory from './ui/inventory.js'
+import itemdescription from './ui/itemdescription.js'
 import messages from './ui/messages.js'
 import party from './ui/party.js'
+import pvpmenu from './ui/pvpmenu.js'
 import report from './ui/report.js'
 import settings from './ui/settings.js'
+import skilldescription from './ui/skilldescription.js'
 import stats from './ui/stats.js'
 import title from './ui/title.js'
 import tutorial from './ui/tutorial.js'
+import war from './ui/war.js'
 const ui = {
   charmenu,
+  charpanel,
   chat,
   clan,
+  pvpmenu,
   inventory,
   merchant: merchantui.default,
   settings,
@@ -114,8 +125,13 @@ const ui = {
   tutorial,
   title,
   messages,
+  headers,
   hiddenskills,
   report,
+  elixir,
+  skilldescription,
+  itemdescription,
+  war,
   ...general }
 
 export default {

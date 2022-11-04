@@ -18,7 +18,8 @@ export default [
       vi: 'Các nguyên liệu bị đốt cháy đã được xoắn và gắn lại với nhau tạo thành một bùa hộ mệnh đơn giản. Chế tạo bùa hộ mệnh đơn giản như thế này là đã là một cách sinh tồn từ thời cổ đại.',
       cs: 'Ohořelé ingredience byly zkrouceny a smotány dohromady aby vytvořily amulet nuzné protekce. Vytvořit jednoduchý amulet jako je tento se považuje za běžnou taktiku pro přežití už od pradávna.',
       it: 'Ingredienti bruciati sono stati attorcigliati e legati tra loro per formare un amuleto che dona una lieve protezione. Creare amuleti semplici come questo è sempre stata una pratica di sopravvivenza comune fin dai tempi antichi.',
-      ja: '燃え遺った素材は一握りの加護を授ける為に、寄せ集められて結ばれ、捩じられます。このように簡単なお守りを作る事は、古来より生存の要として親しまれてきました。'
+      ja: '燃え遺った素材は一握りの加護を授ける為に、寄せ集められて結ばれ、捩じられます。このように簡単なお守りを作る事は、古来より生存の要として親しまれてきました。',
+      zh: '把焚燒過後的材料扭轉後，綁成一個具微弱保護效果的護身符。製造這樣的護身符，是自古以來的常見生存策略。'
     }
   },
 
@@ -41,7 +42,8 @@ export default [
       vi: 'Vòng cổ được làm từ da sói. Một vài chúng vẫn còn các kết nối với nhau, tuy nhiên tất cả vòng cổ sói đều cứng cáp. Một số vòng cổ được thấm nhuần sự bảo vệ tâm linh.',
       cs: 'Límec, který drží vlky v otrocví, je vyrobený z tlusté kůže. Některé z nich mají na sobě ještě obojky, ale všechny vlčí límce jsou solidní. Některé límce jsou naplněné duchovní protekcí.',
       it: 'I Collari per mantenere i lupi fedeli sono fatti da una pelle spessa. Alcuni di essi hanno ancora delle maglie di catena attaccate, ma tutti i collari per lupi sono robusti. Alcuni collari sono imbevuti di una protezione spirituale.',
-      ja: 'オオカミを躾ける為の首輪は厚めの革で出来ています。何故か千切れた鎖が付いているものもありますが、全ての首輪は頑丈に出来ています。一部の首輪には精神の加護が宿ります。'
+      ja: 'オオカミを躾ける為の首輪は厚めの革で出来ています。何故か千切れた鎖が付いているものもありますが、全ての首輪は頑丈に出来ています。一部の首輪には精神の加護が宿ります。',
+      zh: '由厚皮革製成的項圈是用來使狼群服從的，有些還使用鎖鏈鏈接起來。但所有的項圈都很堅固，有些還以心靈守護注入其中。 '
     }
   },
 
@@ -54,7 +56,7 @@ export default [
       hi: 'इस माला में अलग अलग ताक़तवर प्रणीयो की हद्दीयो के टुकड़े है। हर माला की शक्ति उसकी हद्दीयो के मूल पर निर्भर करती है।',
       de: 'Diese Halskette besteht aus Knochenfragmenten von einer Vielzahl starker Kreaturen. Jede Knochenkette variiert in ihrem Schutz je nach Herkunft der Knochen.',
       fr: 'Ce collier est composé de fragments d\'os provenant d\'une variété de créatures fortes. La protection de chaque collier d\'os varie en fonction de l\'origine des os.',
-      es: 'Este collar está constituido por fragmentos de hueso de una variedad de criaturas fuertes. Cada collar de hueso varía en la protección que brinda dependiendo del origen de los huesos.',
+      es: 'Este collar está hecho de fragmentos de hueso de una variedad de criaturas fuertes. Cada collar de hueso varía en la protección que brinda dependiendo del origen de los huesos.',
       pt: 'Este colar consiste em fragmentos de ossos de uma variedade de criaturas fortes. Cada colar de osso varia em proteção com base na origem dos ossos.',
       nl: 'Deze ketting bestaat uit botfragmenten van verschillende sterke wezens. Elke bottenketting varieert in bescherming afhankelijk van de oorsprong van de botten.',
       ko: '이 목걸이는 다양한 강력한 생물의 뼈 조각으로 구성되어 있습니다. 각 뼈 목걸이는 뼈의 기원에 따라 보호가 다릅니다.',
@@ -64,7 +66,8 @@ export default [
       vi: 'Vòng cổ này bao gồm các mảnh xương từ nhiều sinh vật mạnh mẽ. Mỗi vòng cổ xương có sự bảo vệ khác nhau dựa trên nguồn gốc bộ xương.',
       cs: 'Tento náhrdelník je tvořen z zlomků kostí z různých silných tvorů. Každý kostěný náhrdelník se liší protekcí na základě původu kostí.',
       it: 'Questa collana è formata da frammenti di ossa provenienti da varie forti creature. Ogni collana di ossa varia in protezione basandosi sulla origine delle ossa.',
-      ja: 'このネックレスは幾多の強力な生物の骨片で出来ています。各々のネックレスは使用した骨の種類によって保存方法が異なります。'
+      ja: 'このネックレスは幾多の強力な生物の骨片で出来ています。各々のネックレスは使用した骨の種類によって保存方法が異なります。',
+      zh: '這條項鍊是用各種強壯生物的骨頭碎片製成的。每條項鍊多變的保護功能是因為骨頭種類的不同。'
     }
   },
 
@@ -76,7 +79,7 @@ export default [
       hi: 'ख़तरनाक भेड़िए के पंजे जो शिकारों के शरीरों में रह गए थे, रहस्यमयी तेलों से उनका अभिषेक करकर और ध्यान लगाकर आत्मिक सहन-शक्ति से इन्हें भर दिया गया। इस ताबीज़ के निर्माता चाहते थे की इसकी सुरक्षा एक दिन बदले के लिए इस्तमाल होगी।',
       de: 'Furchterregende Werwolfkrallen, die auf den Körpern der Opfer zurückgelassen wurden, wurden mit mystischen Ölen gesalbt und durch Meditation mit geistiger Kraft erfüllt. Die Schöpfer dieser Amulette hofften, dass diese geistigen Schutzmaßnahmen eines Tages zur Rache eingesetzt werden würden.',
       fr: 'Des griffes de loup-garou redoutables, laissées sur le corps des victimes, étaient ointes d\'huiles mystiques et imprégnées d\'une force spirituelle par la méditation. Les créateurs de ces amulettes espéraient que ces protections spirituelles seraient un jour utilisées pour se venger.',
-      es: 'Temerosas garras de hombre lobo que fueron dejadas en los cuerpos de las víctimas fueron ungidas con aceites místicos e infundidas con fortaleza espiritual a través de la meditación. Los creadores de estos amuletos esperaban que estas protecciones espirituales se utilizaran algún día para la venganza.',
+      es: 'Temibles garras de hombre lobo dejadas en los cuerpos de las víctimas fueron ungidas con aceites místicos e infundidas con fortaleza espiritual a través de la meditación. Los creadores de estos amuletos esperaban que estas protecciones espirituales se utilizaran algún día para la venganza.',
       pt: 'Temíveis garras de lobisomem que foram deixadas nos corpos das vítimas foram ungidas com óleos místicos e inbutidas com força espiritual através da meditação. Os criadores desses amuletos esperavam que um dia essas proteções espirituais fossem usadas para vingança.',
       nl: 'Angstaanjagende weerwolfklauwen die op de lichamen van de slachtoffers werden achtergelaten, werden gezalfd met mystieke oliën en door middel van meditatie met geestelijke standvastigheid bijgebracht. De makers van deze amuletten hoopten dat deze geestelijke bescherming op een dag gebruikt zou worden voor wraak.',
       ko: '희생 된 사람들의 몸에 남겨진 두려운 늑대 인간 발톱은 신비한 기름으로 기름을 바르고 명상을 통해 영적 불굴의 정신으로 불타 올랐습니다. 이 부적의 창시자는이 영적 보호가 언젠가 복수로 사용되기를 바랐습니다.',
@@ -86,7 +89,8 @@ export default [
       vi: 'Những móng vuốt người sói đáng sợ bị bỏ lại trên cơ thể của các nạn nhân đã được bôi bằng dầu thần bí và thấm nhuần tinh thần thông qua thiền định. Những người tạo ra những lá bùa hộ mệnh này hy vọng rằng một ngày nào đó những sự bảo vệ tâm linh này sẽ được sử dụng để trả thù.',
       cs: 'Strachuplné vlkodlačí drápy, které byly zanechány na jejich obětech, byly pomazány mystickými oleji a vštípeny do nich duchovní statečnost zkrz meditaci. Stvořitelé tohoto amuletu doufají, že tato duchovní protekce jednoho dne bude použita na pomstu.',
       it: 'Gli artigli di un terribile lupo mannaro lasciati sui corpi delle vittime vengono unti con oli mistici e infusi con una forza d\'animo attraverso la meditazione. I creatori di questi amuleti speravano che queste protezioni spirituali venissero un giorno usate per vendicarsi.',
-      ja: '犠牲者の身体に刻み込まれた恐ろしいオオカミ男の爪は、聖なる油により聖別され、瞑想を通じて精神の強さを宿らせました。このお守りの作成者は、宿った精神の強さがいつの日か復讐に発揮される事を望んでいました。'
+      ja: '犠牲者の身体に刻み込まれた恐ろしいオオカミ男の爪は、聖なる油により聖別され、瞑想を通じて精神の強さを宿らせました。このお守りの作成者は、宿った精神の強さがいつの日か復讐に発揮される事を望んでいました。',
+      zh: '被遺留在受害者身上的可怕狼人爪子被神秘的油膏抹了，並通過冥想被灌輸了精神上的毅力。這些護身符的創造者希望這些精神保護有一天能夠用於報仇。'
     }
   },
 
@@ -98,7 +102,7 @@ export default [
       hi: 'जब भी गरुड़ का नाख़ून मिलता था, उसे पहाड़ों के पावन पंचियो का टौफ़ा माना जाता था। पहाड़ों पर रहने वाले भिक्षुकों ने अपनी सुरक्षा के लिए इन नाखूनों से आत्मिक ताबीज़ बनाए थे।',
       de: 'Als eine Kralle gefunden wurde, galt sie als Geschenk der heiligen Vögel in den Bergen. Die Mönche in den Bergen benutzten die Krallen, um spirituelle Amulette herzustellen, um sich im Kampf vor Eindringlingen zu schützen.',
       fr: 'Lorsqu\'une griffe a été trouvée, elle était considérée comme un cadeau des oiseaux sacrés dans les montagnes. Les moines dans les montagnes utilisaient les serres pour produire des amulettes spirituelles afin de se protéger des envahisseurs pendant les combats.',
-      es: 'Cuando se encontró una garra, fue considerado como un regalo de los pájaros sagrados de las montañas. Los monjes de las montañas usaban las garras para producir amuletos espirituales que los protegieran de los invasores durante la batalla.',
+      es: 'Cuando se encontró una garra, fue considerada como un regalo de los pájaros sagrados de las montañas. Los monjes de las montañas usaban las garras para producir amuletos espirituales que los protegieran de los invasores durante la batalla.',
       pt: 'Quando uma garra foi encontrada, era considerada um presente dos pássaros sagrados nas montanhas. Os monges nas montanhas usavam as garras para produzir amuletos espirituais para se protegerem dos invasores durante as suas batalhas.',
       nl: 'Toen een klauw werd gevonden, werd het beschouwd als een geschenk van de heilige vogels in de bergen. De monniken in de bergen gebruikten de klauwen om spirituele amuletten te maken om zich te beschermen tegen indringers tijdens de strijd.',
       ko: '탈론이 발견되었을 때, 그것은 산속에있는 신성한 새들의 선물로 간주되었습니다. 산 속 승려들은 전투 중에 침략자들로부터 스스로를 보호 할 수있는 영적인 부적을 만들기 위해 발톱을 사용했습니다.',
@@ -108,7 +112,8 @@ export default [
       vi: 'Khi một móng vuốt được tìm thấy, nó được coi là một món quà từ những con chim linh thiêng trên núi. Các nhà sư trên các vùng núi đã sử dụng móng vuốt để tạo ra bùa hộ mệnh để bảo vệ bản thân khỏi những kẻ xâm lược trong trận chiến.',
       cs: 'Když byl tento dráp nalezen, byl považován za dar od posvatných ptáků v horách. Mniši v horách požívali tento dráp aby vyprodukovali duchovní amulet pro svou vlastní ochranu od nájezdníků během souboje.',
       it: 'Quando un artiglio veniva trovato, esso era considerato un dono dagli uccelli sacri delle montagne. I monaci delle montagne usavano gli artigli per produrre amuleti spirituali per proteggersi dagli invasori durante le battaglie.',
-      ja: 'この鉤爪が見つかった当時、それは山に住まう神鳥からの贈り物だと考えられました。山の修道士達は、外敵による奇襲から自身を守る為にこの鉤爪を使って精神のお守りを作りました。'
+      ja: 'この鉤爪が見つかった当時、それは山に住まう神鳥からの贈り物だと考えられました。山の修道士達は、外敵による奇襲から自身を守る為にこの鉤爪を使って精神のお守りを作りました。',
+      zh: '當一只爪子被發現時，它被認為是山裡聖鳥的禮物。山中的僧侶們使用爪子製作成護身符，以保護自己在戰鬥中不受入侵者的侵害。'
     }
   },
 

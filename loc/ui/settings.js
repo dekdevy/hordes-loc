@@ -13,13 +13,14 @@ export default {
     pt: 'Configurações',
     ko: '설정',
     ro: 'Setări',
-    zh: '设置',
+    zh: '設定',
     hu: 'Beállítások',
     pl: 'Ustawienia',
     vi: 'Cài đặt',
     sr: 'Подешавања',
     it: 'Impostazioni',
-    ja: '設定'
+    ja: '設定',
+    cs: 'Nastavení'
   },
 
   // ---- Controls
@@ -33,8 +34,8 @@ export default {
     fr: 'Contrôles',
     tr: 'Kontroller',
     nl: 'Bediening',
-    pt: 'Controlos',
-    ko: '통제 수단',
+    pt: 'Controles',
+    ko: '조작법',
     ro: 'Controale',
     zh: '控制',
     hu: 'Irányítás',
@@ -42,7 +43,24 @@ export default {
     vi: 'Điều khiển',
     sr: 'Контроле',
     it: 'Controlli',
-    ja: '操作'
+    ja: '操作',
+    cs: 'Ovládání'
+  },
+
+  skillbar: {
+    en: 'Skillbar',
+    fr: 'Barre de compétences',
+    tr: 'Yetenek barı',
+    ko: '스킬바',
+    zh: '技能欄'
+  },
+
+  skillbarslots: {
+    en: 'Skillbar slots',
+    fr: 'Emplacements de barre de compétences',
+    tr: 'Yetenek barı slotu',
+    ko: '스킬바 슬롯',
+    zh: '技能欄位'
   },
 
   keybindings: {
@@ -55,13 +73,24 @@ export default {
     nl: 'Knop verbindingen',
     hu: 'Billentyűparancsok',
     es: 'Atajos de teclado',
-    zh: '鍵盤設定',
+    zh: '按鍵綁定',
     pl: 'Ustawienia klawiszy',
     vi: 'Gán phím',
     it: 'Configurazione tasti',
     sr: 'Конфигурација контрола',
     tr: 'Tuş atamaları',
-    ja: 'キー割り当て'
+    ja: 'キー割り当て',
+    ko: '키바인딩',
+    cs: 'Klávesové zkratky'
+  },
+
+  bindingreset: {
+    en: 'To reset, leave field blank.',
+    fr: 'Pour réinitialiser, laissez le champ vide.',
+    tr: 'Sıfırlamak için alanı boş bırak',
+    ko: '리셋하려면, 아무것도 써놓지 마세요.',
+    zh: '要重置，請填空',
+    pt: 'Para redefinir, deixe o campo em branco.'
   },
 
   camera: {
@@ -77,7 +106,10 @@ export default {
     hu: 'Kamera',
     pt: 'Câmera',
     tr: 'Kamera',
-    ja: 'カメラ'
+    ja: 'カメラ',
+    ko: '카메라',
+    cs: 'Kamera',
+    zh: '視角'
   },
 
   mousesensitivity: {
@@ -94,7 +126,10 @@ export default {
     hu: 'Érzékenység',
     pt: 'Sensibilidade',
     tr: 'Hassasiyet',
-    ja: 'マウス感度'
+    ja: 'マウス感度',
+    ko: '마우스 민감도',
+    cs: 'Senzitivita',
+    zh: '靈敏度'
   },
 
   invertmousex: {
@@ -111,7 +146,10 @@ export default {
     hu: 'Vízszintes tükrözés',
     pt: 'Inverter horizontalmente',
     tr: 'Yatay ters çevir',
-    ja: '左右反転'
+    ja: '左右反転',
+    ko: '가로 회전 방향 바꾸기',
+    cs: 'Převrátit vodorovně',
+    zh: '水平反轉'
   },
 
   invertmousey: {
@@ -128,7 +166,10 @@ export default {
     hu: 'Függőleges tükrözés',
     pt: 'Inverter verticalmente',
     tr: 'Dikey ters çevir',
-    ja: '上下反転'
+    ja: '上下反転',
+    ko: '세로 회전 방향 바꾸기',
+    cs: 'Převrátit vertikálně',
+    zh: '垂直反轉'
   },
 
   pointerlock: {
@@ -136,7 +177,7 @@ export default {
     el: 'Απόκρυψη ποντικιού κατά την περιστροφή',
     de: 'Maus bei Rotation verstecken',
     ru: 'Скрыть мышь во время вращения камеры',
-    pt: 'Ocultar o rato durante a rotação.',
+    pt: 'Ocultar o mouse durante a rotação.',
     fr: 'Cacher la souris pendant les rotations',
     nl: 'Verstop rechter muis knop tijdens rotatie',
     hu: 'Egérmutató elrejtése forgáskor',
@@ -147,7 +188,9 @@ export default {
     sr: 'Сакриј миш током ротације',
     it: 'Nascondi il mouse durante le rotazioni',
     tr: 'Döndürme sırasında fareyi gizle',
-    ja: '操作中にカーソル非表示'
+    ja: '操作中にカーソル非表示',
+    ko: '회전하는 중에는 마우스 숨기기',
+    cs: 'Skrýt myš během otáčení'
   },
 
   lockedcamera: {
@@ -161,15 +204,16 @@ export default {
     tr: 'Kilitli kamera',
     nl: 'Gesloten camera',
     pt: 'Câmera bloqueada',
-    ko: '잠긴 카메라',
+    ko: '카메라 고정',
     ro: 'Blochează camera',
-    zh: '锁定相机',
+    zh: '鎖定視角',
     hu: 'Rögzített kamera',
     pl: 'Zablokowana kamera',
     vi: 'Khóa Camera',
     sr: 'Фиксна камера',
     it: 'Telecamera fissa',
-    ja: 'カメラを固定'
+    ja: 'カメラを固定',
+    cs: 'Uzamčená kamera'
   },
 
   // ---- Graphics
@@ -180,19 +224,20 @@ export default {
     hi: 'ग्राफ़िक्स',
     es: 'Gráficos',
     de: 'Grafik',
-    fr: 'Graphiques',
+    fr: 'Graphismes',
     nl: 'Grafischen',
     tr: 'Grafikler',
     pt: 'Gráficos',
-    ko: '제도법',
+    ko: '그래픽',
     ro: 'Grafică',
-    zh: '图像',
+    zh: '圖像',
     hu: 'Grafika',
     pl: 'Grafika',
     vi: 'Đồ họa',
     sr: 'Графика',
     it: 'Grafica',
-    ja: 'グラフィック'
+    ja: 'グラフィック',
+    cs: 'Grafika'
   },
 
   viewrange: {
@@ -207,14 +252,15 @@ export default {
     hi: 'नज़र सीमा',
     fr: 'Distance d\'affichage',
     tr: 'Görüş mesafesi',
-    ko: '범위보기',
-    zh: '远景范围',
+    ko: '시야',
+    zh: '視野範圍',
     hu: 'Látótávolság',
     pl: 'Zasięg widzenia',
     vi: 'Khoảng cách nhìn',
     it: 'Distanza visiva',
     sr: 'Дистанца погледа',
-    ja: '描画範囲'
+    ja: '描画範囲',
+    cs: 'Rozbrazení vzdálenosti'
   },
 
   resolution: {
@@ -228,7 +274,7 @@ export default {
     nl: 'Resolutie',
     tr: 'Çözünürlük',
     pt: 'Resolução',
-    ko: '게임의 해상도',
+    ko: '해상도',
     ro: 'Rezoluție',
     zh: '解析度',
     hu: 'Felbontás',
@@ -236,25 +282,39 @@ export default {
     vi: 'Độ phân giải',
     sr: 'Резолуција',
     it: 'Risoluzione',
-    ja: '解像度'
+    ja: '解像度',
+    cs: 'Rozlišení'
   },
 
-  postprocessing: {
-    en: 'Post-processing',
-    el: 'Post-processing',
-    de: 'Nachbearbeitung',
-    ru: 'Постобработка',
-    tr: 'Detaylandırma',
-    fr: 'Post-traitement',
-    pt: 'Pós-processamento.',
-    nl: 'Nawerking',
-    hu: 'Utófeldolgozás',
-    es: 'Post-procesamiento',
-    pl: 'Post-processing',
-    vi: 'Hậu xử lý',
-    it: 'Post-processing',
-    sr: 'Пост обрада',
-    ja: 'ジャギー抑制'
+  fxaa: {
+    $$: 'FXAA'
+  },
+
+  bloom: {
+    en: 'Bloom',
+    ru: 'Bloom',
+    zh: '泛光特效',
+    tr: 'Kamaşma',
+    ko: '블룸 효과'
+  },
+
+  disableoffscreen: {
+    en: 'Disable off-screen creatures',
+    ru: 'Отключить монстров за пределами экрана',
+    fr: 'Désactiver les créatures hors de l\'écran',
+    zh: '禁止鎖定視野外生物',
+    tr: 'Ekranda olmayan canlıları devre dışı bırak',
+    ko: '시야 밖 몹 숨기기',
+    pt: 'Desativar criaturas fora da tela'
+  },
+
+  offscreendesc: {
+    en: 'Improves performance but mutes offscreen action',
+    fr: 'Améliore les performance mais désactive les actions hors écran',
+    tr: 'Performans artar ama ekranda olmayan eylemleri susturur.',
+    ko: '퍼포먼스를 높여주지만 시야 밖에서 타겟을 지정할 수 없게 됩니다.',
+    zh: '提高性能但使屏幕外動作靜音',
+    pt: 'Melhora o desempenho, mas silencia a ação fora da tela'
   },
 
   skilleffects: {
@@ -268,15 +328,16 @@ export default {
     nl: 'Vaardigheidseffecten',
     tr: 'Yetenek Efektleri',
     pt: 'Efeitos de Habilidade',
-    ko: '기술 효과',
+    ko: '스킬 효과',
     ro: 'Efectele Abilităților',
-    zh: '技能影响',
+    zh: '技能特效',
     hu: 'Képesség effektek',
     pl: 'Efekty umiejętności',
     vi: 'Hiệu ứng kỹ năng',
     it: 'Effetti delle Skills',
     sr: 'Ефекти вештина',
-    ja: 'スキル演出'
+    ja: 'スキル演出',
+    cs: 'Efekty dovedností'
   },
 
   shadows: {
@@ -288,32 +349,16 @@ export default {
     pt: 'Sombras',
     nl: 'Schaduwen',
     hu: 'Árnyékok',
-    zh: '影子',
+    zh: '陰影',
     es: 'Sombras',
     pl: 'Cienie',
     vi: 'Đổ bóng',
     sr: 'Сенке',
     it: 'Ombre',
     tr: 'Gölgeler',
-    ja: '影'
-  },
-
-  ssao: {
-    en: 'Ambient Occlusion',
-    el: 'Ambient Occlusion',
-    ru: 'Окружающая окклюзия',
-    fr: 'Occlusion Ambiante',
-    pt: 'Oclusão Ambiental',
-    nl: 'Omgevingsocclusie',
-    hu: 'Környezet okklúzió',
-    es: 'Oclusión Ambiental',
-    pl: 'Okluzja otoczenia',
-    de: 'Umgebungsverdeckung',
-    vi: 'Môi trường xung quanh',
-    it: 'Occlusione Ambientale',
-    sr: 'Оклузија околине',
-    tr: 'Çevresel Perdeleme',
-    ja: '環境閉塞'
+    ja: '影',
+    ko: '그림자',
+    cs: 'Stíny'
   },
 
   grass: {
@@ -332,7 +377,9 @@ export default {
     sr: 'Трава',
     it: 'Erba',
     tr: 'Çim',
-    ja: '草'
+    ja: '草',
+    ko: '잔디',
+    cs: 'Tráva'
   },
 
   clouds: {
@@ -345,13 +392,15 @@ export default {
     nl: 'Wolken',
     hu: 'Felhők',
     es: 'Nubes',
-    zh: '云',
+    zh: '雲',
     pl: 'Chmury',
     vi: 'Mây',
     sr: 'Облаци',
     it: 'Nuvole',
     tr: 'Çimler',
-    ja: '雲'
+    ja: '雲',
+    ko: '구름',
+    cs: 'Mraky'
   },
 
   particles: {
@@ -370,26 +419,45 @@ export default {
     it: 'Particelle',
     sr: 'Ефекти',
     tr: 'Parçacıklar',
-    ja: 'パーティクル'
+    ja: 'パーティクル',
+    ko: '파티클',
+    cs: 'Částice'
   },
 
-  detailprops: {
-    en: 'Detail props',
-    el: 'Λεπτομέρειες',
-    de: 'Details',
-    ru: 'Детализация',
-    nl: 'Detail Voorwerpen',
-    hu: 'Részletes objektumok',
-    es: 'Detalles de accesorios',
-    zh: '細節道具',
-    fr: 'Objets détaillés',
-    pl: 'Szczegóły',
-    vi: 'Chi tiết',
-    it: 'Dettagli',
-    sr: 'Детаљи предмета',
-    pt: 'Detalhes das props.',
-    tr: 'Nesne detayları',
-    ja: '建造物の詳細'
+  fogpattern: {
+    en: 'Fog pattern',
+    fr: 'Paterne du brouillard',
+    tr: 'Sis modeli',
+    ko: '안개 패턴',
+    zh: '霧化',
+    pt: 'Padrão de neblina'
+  },
+
+  shadowresolution: {
+    en: 'Shadow Resolution',
+    fr: 'Résolution des ombres',
+    tr: 'Gölge çözünürlüğü',
+    ko: '그림자 해상도',
+    zh: '影子解析度',
+    pt: 'Resolução de sombra'
+  },
+
+  creatureshadows: {
+    en: 'Shadows on creatures',
+    fr: 'Ombres sur les créatures',
+    tr: 'Canlıların gölgeleri',
+    ko: '몹 그림자',
+    zh: '生物陰影',
+    pt: 'Sombras nas criaturas'
+  },
+
+  anisotropy: {
+    en: 'Anisotropy',
+    fr: 'Anisotropie',
+    tr: 'anizotropi',
+    ko: '비등방성',
+    zh: '非等向性',
+    pt: 'Anisotropia'
   },
 
   // ---- Audio
@@ -406,13 +474,14 @@ export default {
     fr: 'Audio',
     tr: 'Ses',
     ko: '오디오',
-    zh: '音频',
+    zh: '音效',
     hu: 'Hang',
     pl: 'Audio',
     vi: 'Âm thanh',
     sr: 'Звук',
     it: 'Audio',
-    ja: 'オーディオ'
+    ja: 'オーディオ',
+    cs: 'Zvuk'
   },
 
   sfxvolume: {
@@ -427,23 +496,49 @@ export default {
     hi: 'इफैक्ट्स की आवाज़',
     fr: 'Volume des effets sonores',
     tr: 'SFX Ses Gücü',
-    ko: 'SFX 볼륨',
+    ko: '효과음 볼륨',
     hu: 'Effektek hangereje',
     pl: 'Poziom dźwięków',
     vi: 'Âm lượng SFX',
     sr: 'SFX гласноћа',
     it: 'SFX Volume',
-    ja: '効果音'
+    ja: '効果音',
+    cs: 'Hlasitost SFX',
+    zh: '音效音量'
   },
+
+  sfxmultiplier: {
+    en: 'External SFX Multiplier',
+    fr: 'Multiplicateur SFX extérieur',
+    tr: 'Harici SFX çarpanı',
+    ko: '외부 효과음 볼륨',
+    zh: '外部音效倍率',
+    pt: 'Multiplicador SFX Externo'
+  },
+
+  multiplierdesc: {
+    en: 'Spells not cast by you can be reduced in volume. 100% = No sound reduction, 50% = half volume.',
+    fr: 'Vous pouvez réduire le son des compétences dont vous n\'êtes pas le lanceur. 100% = Aucune réduction de son, 50% = volume réduit de moitié.',
+    tr: 'Senin tarafından yapılmayan büyülerin sesi kısılabilir. 100½ = ses azalması olmaz, 50½ = Yarı ses.',
+    ko: '당신이 사용하지 않은 스킬의 효과음 볼륨을 조정합니다. 100% = 볼륨 감소 없음, 50% = 반으로 감소함.',
+    zh: '不是你施放的法術可以減少音量。100% = 沒有聲音，50% = 一半音量。',
+    pt: 'volume de magias não lançados por você podem ser reduzidos. 100% = Sem redução de som, 50% = metade do volume.'
+  },
+
   ambiencevolume: {
     en: 'Ambience Volume',
     el: 'Ένταση ατμόσφαιρας',
     ru: 'Громкость окружения',
     hu: 'Környezet hangereje',
     pt: 'Som ambiente',
+    fr: 'Volume d\'ambiance',
     tr: 'Ambiyans sesi',
-    ja: '環境音'
+    ja: '環境音',
+    cs: 'Hlasitost prostředí',
+    zh: '環境音量',
+    ko: '환경 효과음'
   },
+
   musicvolume: {
     en: 'Music Volume',
     el: 'Ένταση μουσικής',
@@ -458,8 +553,12 @@ export default {
     hu: 'Zene hangereje',
     pt: 'Volume da música',
     tr: 'Müzik sesi',
-    ja: '音楽'
+    ja: '音楽',
+    ko: '음악 볼륨',
+    cs: 'Hlasitost Hudby',
+    zh: '音樂音量'
   },
+
   // ---- Chat
   chat: {
     en: 'Chat',
@@ -472,7 +571,7 @@ export default {
     nl: 'Chat',
     tr: 'sohbet',
     pt: 'Chat',
-    ko: '잡담',
+    ko: '채팅',
     ro: 'Chat',
     hu: 'Cset',
     zh: '聊天室',
@@ -480,7 +579,8 @@ export default {
     vi: 'Chat',
     sr: 'Чет',
     it: 'Chat',
-    ja: 'チャット'
+    ja: 'チャット',
+    cs: 'Chat'
   },
 
   chatbubbles: {
@@ -489,17 +589,19 @@ export default {
     de: 'Sprechblasen anzeigen',
     ru: 'Показавать сообщения над игроком',
     fr: 'Afficher les bulles de chat',
-    pt: 'Mostrar bolhas de chat',
+    pt: 'Mostrar balões de chat',
     nl: 'Laat chat bubbels zien',
     hu: 'Csetbuborékok mutatása',
-    zh: '顯示聊天氣泡',
+    zh: '顯示聊天框',
     es: 'Mostrar burbujas de chat',
     pl: 'Chmurki czatu',
     vi: 'Hiển thị bong bóng chat',
     sr: 'Прикажи чет',
     it: 'Mostra le chat bubbles',
     tr: 'Sohbet balonlarını göster',
-    ja: 'チャットをキャラクター上に表示'
+    ja: 'チャットをキャラクター上に表示',
+    ko: '채팅 표시',
+    cs: 'Zobrazit bubliny chatu'
   },
 
   combatlog: {
@@ -510,7 +612,7 @@ export default {
     nl: 'Gevechts log',
     hu: 'Harci kisnapló',
     es: 'Registro de combate',
-    zh: '戰鬥表',
+    zh: '戰鬥表單',
     fr: 'Journal de Combat',
     pl: 'Log Walki',
     vi: 'Nhật ký combat',
@@ -518,7 +620,9 @@ export default {
     sr: 'Борбени чет',
     pt: 'Log de combate',
     tr: 'Savaş Günlüğü',
-    ja: '戦闘ログ'
+    ja: '戦闘ログ',
+    ko: '전투 로그',
+    cs: 'Bojový deník'
   },
 
   // ---- User interface
@@ -536,12 +640,13 @@ export default {
     tr: 'Arayüz',
     ko: '인터페이스',
     hu: 'Felület',
-    zh: '界面',
+    zh: '介面',
     pl: 'Interfejs',
     vi: 'Giao diện',
     sr: 'Интерфејс',
     it: 'Interfaccia',
-    ja: 'インターフェース'
+    ja: 'インターフェース',
+    cs: 'Rozhraní'
   },
 
   language: {
@@ -563,7 +668,8 @@ export default {
     vi: 'Ngôn ngữ',
     sr: 'Језик',
     it: 'Linguaggio',
-    ja: '言語'
+    ja: '言語',
+    cs: 'Jazyk'
   },
 
   invwidth: {
@@ -584,7 +690,9 @@ export default {
     sr: 'Ширина инвентара',
     it: 'Larghezza inventario',
     tr: 'Enventar genişliği',
-    ja: 'インベントリの行'
+    ja: 'インベントリの行',
+    cs: 'Šířka inventáře',
+    zh: '物品欄寬度'
   },
 
   // Do NOT translate "Stash"
@@ -600,9 +708,12 @@ export default {
     vi: 'Độ dài Stash',
     sr: 'Ширина Stash-а',
     it: 'Larghezza Stash',
-    pt: 'Tamanho do baú',
+    pt: 'Tamanho do Stash',
     tr: 'Stash genişliği',
-    ja: 'Stashの行'
+    ja: 'Stashの行',
+    ko: 'Stash 너비',
+    cs: 'Šířka Stash',
+    zh: 'Stash 寬度'
   },
 
   // Do NOT translate "Stash"
@@ -618,9 +729,12 @@ export default {
     vi: 'Độ rộng Stash',
     sr: 'Висина Stash-а',
     it: 'Altezza Stash',
-    pt: 'Altura do baú',
+    pt: 'Altura do Stash',
     tr: 'Stash yüksekliği',
-    ja: 'Stashの列'
+    ja: 'Stashの列',
+    ko: 'Stash 높이',
+    cs: 'Výška Stash',
+    zh: 'Stash 高度'
   },
 
   tutorial: {
@@ -634,15 +748,16 @@ export default {
     nl: 'Handleiding',
     tr: 'Öğretici',
     pt: 'Tutorial',
-    ko: '지도 시간',
+    ko: '튜토리얼',
     ro: 'Tutorial',
     hu: 'Bemutató',
-    zh: '講解',
+    zh: '教程',
     pl: 'Samouczek',
     vi: 'Hướng dẫn',
     sr: 'Туторијал',
     it: 'Tutorial',
-    ja: 'チュートリアル'
+    ja: 'チュートリアル',
+    cs: 'Vyukový program'
   },
 
   resettutorial: {
@@ -655,16 +770,17 @@ export default {
     fr: 'Réinitialiser le tutoriel',
     nl: 'Reset handleiding',
     tr: 'Öğreticiyi sıfırla',
-    pt: 'Recomeçar o tutorial',
-    ko: '재설정 자습서',
+    pt: 'Resetar o tutorial',
+    ko: '튜토리얼 초기화',
     ro: 'Resetează tutorialul',
     hu: 'Bemutató újrakezdése',
-    zh: '重置講解',
+    zh: '重新教程',
     pl: 'Zresetuj samouczek',
     vi: 'Cài đặt lại hướng dẫn',
     sr: 'Понови туторијал',
     it: 'Ripristina tutorial',
-    ja: 'チュートリアルを初期化'
+    ja: 'チュートリアルを初期化',
+    cs: 'Obnovit vyukový program'
   },
 
   disabletutorial: {
@@ -678,15 +794,342 @@ export default {
     nl: 'Handleiding uitschakelen',
     hu: 'Bemutató elrejtése',
     es: 'Deshabilitar el tutorial',
-    zh: '禁用講解',
+    zh: '停用教程',
     pl: 'Wyłącz samouczek',
     vi: 'Vô hiệu hóa hướng dẫn',
     sr: 'Искључи туторијал',
     it: 'Disabilita il tutorial',
-    ja: 'チュートリアルを無効化'
+    ja: 'チュートリアルを無効化',
+    ko: '튜토리얼 건너뛰기',
+    cs: 'Vypnout vyukový program'
+  },
+
+  fpsping: {
+    $$: 'FPS / Ping'
+  },
+
+  // Do not translate "FPS / Ping"
+  showfps: {
+    en: 'Show FPS / PING',
+    fr: 'Afficher les FPS / PING',
+    tr: 'FPS / PING göster',
+    ko: 'FPS / PING 표시하기',
+    zh: '顯示 FPS / PING',
+    pt: 'Mostrar FPS / PING'
+  },
+
+  nameplates: {
+    en: 'Nameplates',
+    fr: 'Barres & Noms',
+    tr: 'İsim etiketleri',
+    ko: '이름표',
+    zh: '名牌',
+    pt: 'Barras e Nomes'
+  },
+
+  drawrange: {
+    en: 'Draw range',
+    fr: 'Portée d\'affichage',
+    tr: 'Çizim mesafesi',
+    ko: '이름표 최대 표시 거리',
+    zh: '顯示範圍',
+    pt: 'Distância de Renderização'
+  },
+
+  monsterbars: {
+    en: 'Monster bars',
+    fr: 'Barres des monstres',
+    tr: 'Canavar çubukları',
+    ko: '몹 체력바',
+    zh: '怪物血條',
+    pt: 'Barra dos Monstros'
+  },
+
+  monsternames: {
+    en: 'Monster names',
+    fr: 'Noms des monstres',
+    tr: 'Canavar isimleri',
+    ko: '몹 이름표',
+    zh: '怪物名稱',
+    pt: 'Nome dos Monstros'
+  },
+
+  friendlyplayerbars: {
+    en: 'Friendly player bars',
+    fr: 'Barres des joueurs alliés',
+    tr: 'Dost oyuncu çubukları',
+    ko: '아군 체력바',
+    zh: '友方血條',
+    pt: 'Barras de jogadores amigáveis'
+  },
+
+  friendlyplayernames: {
+    en: 'Friendly player names',
+    fr: 'Noms des joueurs alliés',
+    tr: 'Dost oyuncu isimleri',
+    ko: '아군 이름표',
+    zh: '友方名稱',
+    pt: 'Nomes de jogadores amigáveis'
+  },
+
+  enemyplayerbars: {
+    en: 'Enemy player bars',
+    fr: 'Barres des joueurs ennemis',
+    tr: 'Düşman oyuncu çubukları',
+    ko: '적 체력바',
+    zh: '敵方血條',
+    pt: 'Barras de jogadores inimigos'
+  },
+
+  enemyplayernames: {
+    en: 'Enemy player names',
+    fr: 'Noms des joueurs ennemis',
+    tr: 'Düşman oyuncu isimleri',
+    ko: '적 이름표',
+    zh: '敵方名稱',
+    pt: 'Nomes de jogadores inimigos'
+  },
+
+  showlevel: {
+    en: 'Always show level',
+    fr: 'Toujours montrer le niveau',
+    tr: 'Seviyeyi her zaman göster',
+    ko: '항상 레벨 표시',
+    zh: '總是顯示等級',
+    pt: 'Sempre mostrar o level'
+  },
+
+  classcolors: {
+    en: 'Class color bars',
+    fr: 'Barres colorées par classe',
+    tr: 'Sınıf renkli çubuklar',
+    ko: '직업별 색 체력바',
+    zh: '職業顏色血條',
+    pt: 'Cor das barras por classe'
+  },
+
+  transparency: {
+    en: 'Transparency',
+    fr: 'Transparence',
+    tr: 'saydamlık',
+    ko: '투명도',
+    zh: '透明度',
+    pt: 'Transparência'
+  },
+
+  drops: {
+    en: 'Butins',
+    tr: 'Ganimetler',
+    ko: '전리품'
+  },
+
+  showquality: {
+    en: 'Show Drop Quality%',
+    fr: 'Afficher le % de Qualité du butin',
+    tr: 'Ganimet kalite½\'sini göster',
+    ko: '드랍된 아이템 퀄리티% 보이기',
+    zh: '顯示掉落品質%',
+    pt: 'Mostrar qualidade do drop %'
+  },
+
+  qualitymin: {
+    en: 'Drop Quality% Minimum',
+    fr: '% de Qualité de butin minimum',
+    tr: 'Ganimet kalite%\'si en az',
+    ko: '아이템 퀄리티% 최솟값',
+    zh: '掉落最小品質%',
+    pt: 'Qualidade do drop minima %'
+  },
+
+  excludedrops: {
+    en: 'Exclude Drop Types',
+    fr: 'Types de butins exclus',
+    tr: 'Dahil olmayan ganimet türleri',
+    ko: '아이템 보이기에서 제외할 종류',
+    zh: '排除掉落顯示類型',
+    pt: 'Excluir tipos de Drops'
+  },
+
+  damagehealing: {
+    en: 'Damage & Healing',
+    fr: 'Dégat et Soin',
+    tr: 'Hasar ve iyileştirme',
+    ko: '데미지 & 치유량',
+    zh: '傷害 & 治療',
+    pt: 'Dano & Cura'
+  },
+
+  incomingdamage: {
+    en: 'Incoming damage',
+    fr: 'Dégat entrant',
+    tr: 'Gelen hasar',
+    ko: '받는 데미지',
+    zh: '承受傷害',
+    pt: 'Danos recebidos'
+  },
+
+  incominghealing: {
+    en: 'Incoming healing',
+    fr: 'Soin entrant',
+    tr: 'Gelen iyileştirme',
+    ko: '받는 치유',
+    zh: '回復血量',
+    pt: 'Curas recebidas'
+  },
+
+  incomingmana: {
+    en: 'Incoming mana',
+    fr: 'Mana entrant',
+    tr: 'Gelen mana',
+    ko: '받는 마나',
+    zh: '回復魔力',
+    pt: 'Mana recebidas'
+  },
+
+  preventoverlap: {
+    en: 'Prevent overlapping numbers',
+    fr: 'Empêcher le chevauchement des nombres',
+    tr: 'Örtüşen numaraları önle',
+    ko: '숫자 중복 방지',
+    zh: '防止覆蓋數字',
+    pt: 'Evitar números sobrepostos'
+  },
+
+  icons: {
+    en: 'Icons & Buffs',
+    fr: 'Icônes & Buffs',
+    tr: 'Simgeler & güçlendirmeler',
+    ko: '아이콘 & 버프',
+    zh: '圖像 & 狀態',
+    pt: 'Icones & Buffs'
+  },
+
+  skillcdtext: {
+    en: 'Cooldown text (skills)',
+    fr: 'Texte de temps de recharge (compétences)',
+    tr: 'Bekleme süresi metni (yetenekler)',
+    ko: '재사용 시간 텍스트 (스킬)',
+    zh: '冷卻文字 (技能)',
+    pt: 'Texto de recarga (habilidades)'
+  },
+
+  buffcdtext: {
+    en: 'Cooldown text (buffs)',
+    fr: 'Texte de temps de recharge (buffs)',
+    tr: 'Bekleme süresi metni (güçlendirmeler)',
+    ko: '재사용 시간 텍스트 (버프)',
+    zh: '冷卻文字 (狀態)',
+    pt: 'Texto de recarga (buffs)'
+  },
+
+  selfbuffsonly: {
+    en: 'Show your buffs only',
+    fr: 'Afficher uniquement vos buffs',
+    tr: 'Sadece kendi güçlendirmelerini göster',
+    ko: '사용자 버프만 보기',
+    zh: '只顯示你的狀態',
+    pt: 'Mostre apenas seus buffs'
+  },
+
+  flashinterval: {
+    en: 'Buff timeout flash interval',
+    fr: 'Intervalle du Flash de fin de Buff',
+    tr: 'Güçlendirme süresi bittiğinde parlama',
+    ko: '버프 시간 초과 플래시 간격',
+    zh: '狀態結束前閃爍間隔',
+    pt: 'Intervalo do flash de fim do Buff'
+  },
+
+  flashduration: {
+    en: 'Buff timeout flash duration',
+    fr: 'Durée du flash de fin de Buff',
+    tr: 'Güçlendirme süresi bittiğinde parlama süresi',
+    ko: '버프 시간 초과 플래시 기간',
+    zh: '狀態結束前閃爍時間',
+    pt: 'Duração do flash de fim do Buff'
+  },
+
+  buffmax: {
+    en: 'Buff maximum',
+    tr: 'Azami güçlendirme',
+    ko: '버프 최대값',
+    zh: '顯示狀態數量',
+    pt: 'Buff máximo'
+  },
+
+  buffmaxparty: {
+    en: 'Buff maximum (party)',
+    tr: 'Azami güçlendirme (party)',
+    ko: '버프 최대값 (파티)',
+    zh: '顯示狀態數量(party)',
+    pt: 'Buff máximo (party)'
+  },
+
+  updateratelimit: {
+    en: 'Limited party buff update rate',
+    fr: 'Taux de rafraîchissement des buffs en Party limité',
+    tr: 'Sınırlı party güçlendirmesinin güncellenme oranı',
+    ko: '파티 버프 업데이트 속도 제한',
+    zh: '隊伍狀態更新率限制',
+    pt: 'Taxa de atualização de buffs da party limitado'
+  },
+
+  unitframes: {
+    en: 'Unitframes',
+    fr: 'Cadres d\'unité',
+    tr: 'Birim çerçeveleri',
+    ko: '유닛 프레임',
+    zh: '單位框架',
+    pt: 'Interface da Party'
+  },
+
+  showselfparty: {
+    en: 'Show self in party',
+    fr: 'S\'afficher dans la Party',
+    tr: 'Kendini party\'de göster',
+    ko: '수동 파티 수락 보여주기',
+    zh: '顯示自身在隊伍',
+    pt: 'Mostrar-se na party'
+  },
+
+  partymana: {
+    en: 'Party mana',
+    fr: 'Mana de la Party',
+    tr: 'Party manası',
+    ko: '파티 마나',
+    zh: '隊伍魔力',
+    pt: 'Mostrar mana da Party'
+  },
+
+  partyframewidth: {
+    en: 'Party frame width',
+    fr: 'Largeur du cadre de Party',
+    tr: 'Party çerçevesi genişliği',
+    ko: '파티 프레임 너비',
+    zh: '隊伍框架寬度',
+    pt: 'Largura da janela da Party'
+  },
+
+  protectedquality: {
+    en: 'Protected item quality',
+    fr: 'Qualité d\'objet protégée',
+    tr: 'Korunan eşya kalitesi',
+    ko: '보호 아이템 품질',
+    zh: '保護物品質量',
+    pt: 'Proteger item de qualidade'
   },
 
   // ---- map
+
+  map: {
+    en: 'Map',
+    fr: 'Carte',
+    tr: 'Harita',
+    ko: '지도',
+    zh: '地圖',
+    pt: 'Mapa'
+  },
+
   maplowqual: {
     en: 'Low quality mode',
     el: 'Λειτουργία χαμηλής ποιότητας',
@@ -697,13 +1140,15 @@ export default {
     fr: 'Mode basse qualité',
     nl: 'Lage kwaliteit modus',
     es: 'Modo de baja calidad',
-    zh: '低畫質模式',
+    zh: '低品質模式',
     pl: 'Niska jakość',
     vi: 'Chế độ chất lượng thấp',
     sr: 'Мод лошијег квалитета',
     it: 'Modalità bassa qualità',
     tr: 'Düşük kalite modu',
-    ja: '低品質モード'
+    ja: '低品質モード',
+    ko: '저품질 모드',
+    cs: 'Mód nízké kvality'
   },
 
   mapshowmonsters: {
@@ -722,6 +1167,17 @@ export default {
     sr: 'Приказуј чудовишта',
     it: 'Mostra i mostri',
     tr: 'Canavarları göster',
-    ja: 'モンスターを表示'
+    ja: 'モンスターを表示',
+    ko: '몬스터 표시',
+    cs: 'Zobrazit monstra'
+  },
+
+  reload: {
+    en: 'Requires reload',
+    fr: 'Redémarrage du jeu requis',
+    tr: 'Yeniden yükleme gerekir',
+    ko: '재시작 필요',
+    zh: '需要重新加載',
+    pt: 'Requer recarga'
   }
 }

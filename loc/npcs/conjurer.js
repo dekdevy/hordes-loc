@@ -11,7 +11,7 @@ export default {
       nl: 'Heb je gehoord van de Crystal Shards die recentelijk zijn ontdekt? Avonturiers kunnen ze gebruiken om rechtstreeks naar verre rijken te reizen. Ik heb geen Crystal Shards, maar ik kan je naar sommige plaatsen sturen, omdat mystieke krachten samenkomen op deze nexus. Welk rijk is jouw gewenste bestemming?',
       de: 'Hast du von den Crystal Shards gehört, die kürzlich entdeckt wurden? Abenteurer können sie nutzen, um direkt in ferne Gebiete zu reisen. Ich habe keine Crystal Shards, aber ich kann dich an einige Orte schicken, da mystische Kräfte in diesem Nexus zusammenkommen. Welcher Bereich ist dein gewünschtes Ziel?',
       pt: 'Já ouviu falar dos Crystal Shards que foram descobertos recentemente? Os aventureiros podem usá-los para viajar diretamente para reinos distantes. Eu não tenho nenhum Crystal Shard, mas posso enviar você a alguns lugares já que forças místicas convergem neste nexo. Qual é o seu destino desejado?',
-      fr: 'Avez-vous entendu parler des Crystal Shards qui ont été découverts récemment ? Les aventuriers peuvent les utiliser pour voyager directement vers des royaumes lointains. Je n\'ai pas Crystal Shards, mais je peux vous envoyer à certains endroits où les forces mystiques convergent. Quel royaume désirez-vous avoir comme destination?',
+      fr: 'Avez-vous entendu parler des Crystal Shards qui ont été découvertes récemment? Les aventuriers peuvent les utiliser pour voyager directement vers des royaumes lointains. Je n\'ai pas de Crystal Shards, mais je peux vous envoyer à certains endroits où les forces mystiques convergent. Quel royaume désirez-vous avoir comme destination?',
       ro: 'Ai auzit de acele Crystal Shards care au fost descoperite recent? Aventurierii le pot folosi pentru a călători direct în tărâmuri îndepărtate. Nu am deloc Crystal Shards, dar te pot trimite în unele locuri din moment ce forțele mistice converg la acest nex. Care tărâm reprezintă destinația dorită?',
       zh: '你聽說過最近發現的Crystal Shards嗎？ 冒險者可以使用它們直接前往遙遠的國度。 我沒有任何Crystal Shards，但我可以把你送到一些地方，因為神秘的力量聚集在這個地點。 哪個領域是您想要的目的地？',
       tr: 'Yeni keşfedilen Crystal Shards\'ı duydunuz mu? Maceracılar onları uzak diyarlara direkt olarak gitmek için kullanıyorlar. Bende hiç Crystal Shards yok fakat bu noktada toplanan mistik güç ile sizi bir yerlere ışınlayabilirim. Nereye gitmek istersiniz?',
@@ -20,7 +20,8 @@ export default {
       bn: 'আপনি কি Crystal Shards সম্পর্কে শুনেছেন যা সম্প্রতি আবিষ্কার হয়েছে? অ্যাডভেঞ্চারাররা এগুলি সরাসরি দূরবর্তী অঞ্চলে ভ্রমণ করতে ব্যবহার করতে পারেন। আমার কাছে কোনো Crystal Shards নেই, তবে আমি আপনাকে কয়েকটি জায়গায় পাঠাতে পারি যেহেতু এই বিন্দুতে রহস্যময় শক্তি একত্রিত হয়। আপনার কাঙ্ক্ষিত গন্তব্য কোন অঞ্চল?',
       vi: 'Bạn có từng nghe đến Crystal Shards vừa được phát hiện gần đây? Các nhà thám hiểm có thể sử dụng chúng để đi trực tiếp đến các nơi xa xôi. Tôi không có Crystal Shards nào, nhưng tôi có thể đưa bạn đến một số nơi kể từ khi các thế lực thần bí hội tụ tại nơi này. Vùng nào là đích đến mong muốn của bạn?',
       it: 'Hai sentito parlare dei Crystal Shards che sono stati scoperti di recente? Gli avventurieri possono usarli per viaggiare direttamente in regni lontani. Non ho i Crystal Shards, ma posso inviarti in alcuni luoghi poiché le forze mistiche convergono in questo nesso. Quale regno è la destinazione desiderata?',
-      ja: '最近発見されたCrystal Shardsについて耳にした事はありますか？冒険者はこれらを使って遠くの地域へ直接移動する事が出来ます。Crystal Shardsは今手元にありませんが、神秘的な力が今ここに宿っており、幾つかの場所へ貴方を送る事は出来ます。どの目的地へお運びいたしましょうか？'
+      ja: '最近発見されたCrystal Shardsについて耳にした事はありますか？冒険者はこれらを使って遠くの地域へ直接移動する事が出来ます。Crystal Shardsは今手元にありませんが、神秘的な力が今ここに宿っており、幾つかの場所へ貴方を送る事は出来ます。どの目的地へお運びいたしましょうか？',
+      cs: 'Slyšel jsi o krystalových střepech, které byly nedávno objeveny? Dobrodruzi je mohou použít k cestování přímo do vzdálených říší. Nemám žádné Crystal Shards, ale můžu vás poslat na některá místa, protože mystické síly v tomto nexu konvergují. Která oblast je tvým cílem? '
     },
 
     choices: [{
@@ -42,7 +43,8 @@ export default {
       bn: 'দয়া করে আমাকে $1 এ নিয়ে যান।',
       vi: 'Vui lòng mang cho tôi $1',
       it: 'Per favore portami a $1',
-      ja: '$1へ連れて行って下さい。'
+      ja: '$1へ連れて行って下さい。',
+      cs: 'Prosím vezmi mě do $1.'
     }]
   }]
 }

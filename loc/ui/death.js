@@ -7,7 +7,7 @@ export default {
     es: 'Has muerto.',
     de: 'Du bist gestorben.',
     fr: 'Vous êtes mort.',
-    ko: '당신은 죽었습니다',
+    ko: '당신은 죽었습니다.',
     tr: 'Öldün.',
     nl: 'Je bent gestorven.',
     pt: 'Você morreu.',
@@ -19,7 +19,8 @@ export default {
     vi: 'Bạn đã chết',
     sr: 'Умро си.',
     it: 'Sei morto.',
-    ja: '死んでしまった。'
+    ja: '死んでしまった。',
+    cs: 'Zemřel jsi'
   },
 
   deathmsg: {
@@ -30,19 +31,20 @@ export default {
     es: 'Presiona este botón para ser resucitado en el invocador más cercano.',
     de: 'Drücke den Knopf, um beim nächsten Beschwörer wiederbelebt zu werden.',
     fr: 'Appuyez sur le bouton pour être ressuscité chez le prestidigitateur le plus proche.',
-    ko: '버튼을 눌러 가장 가까운 conjurer에게 부활 시키십시오.',
+    ko: '가장 가까운 conjurer에서 부활하려면 버튼을 누르세요.',
     tr: 'En yakın hokkabazda diriltilmek için düğmeye basın.',
     nl: 'Druk op de knop om op te staan bij de dichtstbijzijnde goochelaar.',
     pt: 'Pressione o botão para ser ressuscitado no conjurador mais próximo.',
     ro: 'Apăsați butonul pentru a fi înviat la cea mai apropiată Conjurer.',
-    zh: '按下按钮可以找最近的魔术师处复活',
+    zh: '按下按鈕在最近的魔術師處復活。',
     hu: 'Nyomd meg a gombot hogy felgyógyítsanak a legközelebbi Conjurernél',
     pl: 'Wciśnij przycisk aby zostać wskrzeszonym przy najbliższym Conjurer',
     bn: 'নিকটতম কনজিউরারে পুনরুত্থিত হতে বাটনে চাপুন',
     vi: 'Nhấn nút để hồi sinh tại điểm gần nhất',
     sr: 'Притисните дугме да би сте васкрсли до најблизег Conjurer-a.',
     it: 'Premi il pulsante per risorgere dal Conjurer più vicino.',
-    ja: 'ボタンを押すと近くの祈祷師へリスポーンします。'
+    ja: 'ボタンを押すと近くの祈祷師へリスポーンします。',
+    cs: 'Stisknutím tlačítka budete vzkříšeni u nejbližšího kouzelníka'
   },
 
   // 'Resurrect' is used in many translations/languages.
@@ -54,11 +56,11 @@ export default {
     es: 'Resucitar',
     de: 'Wiederbeleben',
     fr: 'Ressusciter',
-    ko: '자신을 부활 시키십시오.',
+    ko: '부활',
     nl: 'Wederopstand',
     pt: 'Ressuscitar',
     ro: 'Înviați',
-    zh: '复活',
+    zh: '重生',
     hu: 'Feltámadás',
     pl: 'Respawn',
     bn: 'পুনর্জীবন',
@@ -66,6 +68,7 @@ export default {
     sr: 'Васкрсни',
     it: 'Respawn',
     tr: 'Yeniden Doğ',
-    ja: 'リスポーン'
+    ja: 'リスポーン',
+    cs: 'Vzkřísit' // translated "Resurrect" for lingual appropriateness
   }
 }
