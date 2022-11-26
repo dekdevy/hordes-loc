@@ -23,6 +23,7 @@ export default {
     sr: 'Шаман',
     it: 'Sciamano',
     ja: '呪術師'
+    ar: 'شامان',
   },
 
   // Class description, visible during character creation
@@ -48,5 +49,6 @@ export default {
     sr: 'Задатак Шамана је да подржи тим својом исцељујућом снагом која је усмерена на рањене ратнике. Шаман је у стању да шири благослове свом тиму и прокљиње своје противнике.',
     it: 'Il ruolo dello sciamano è quello di sostenere il gruppo curando il Tank e conferendo Buff offensivi o Debuff paralizzanti ai nemici.',
     ja: '呪術師の役割は、味方プレイヤーを回復したり、攻撃的なバフを与えたり、敵にデバフを与えたりしてグループをサポートする事です。'
+    ar: 'يتمثل دور الشامان في دعم الفريق من خلال الشفاء والتعزيز او لعن العدو.',
   }
 }
