@@ -23,5 +23,6 @@ export default {
     it: 'Mostro',
     id: 'Monster',
     ja: 'モンスター'
+    ar: 'وحش',
   }
 }
