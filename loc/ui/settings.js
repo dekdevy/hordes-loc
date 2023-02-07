@@ -919,6 +919,7 @@ export default {
 
   drops: {
     en: 'Drops',
+    fr: 'Butins',
     tr: 'Ganimetler',
     ko: '전리품'
   },
