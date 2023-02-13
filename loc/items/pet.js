@@ -21,5 +21,41 @@ export default [
       fr: 'Un petit gobelin qui ramassera les objets pour vous.',
       tr: 'Eşyaları senin için toplayan minik bir goblin.'
     }
+  },
+
+  {
+    name       : { $$: 'Mummy' },
+    description: {
+      en: ' '
+    }
+  },
+
+  {
+    name       : { $$: 'Lump of Coal' },
+    description: {
+      en: ' '
+    }
+  },
+
+  {
+    name       : { $$: 'Parrot' },
+    description: {
+      en: ' '
+    }
+  },
+
+  {
+    name       : { $$: 'Nightshade' },
+    description: {
+      en: ' '
+    }
+  },
+
+  {
+    name       : { $$: 'Bones' },
+    description: {
+      en: ' '
+    }
   }
 ]
+

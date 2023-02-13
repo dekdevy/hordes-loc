@@ -58,5 +58,49 @@ export default [
   {
     name       : {$$: 'Snowball'},
     description: { en: ' ' }
+  },
+  {
+    name       : {$$: 'Ghost'},
+    description: { en: ' '}
+  },
+  {
+    name       : {$$: 'Keiler'},
+    description: { en: ' '}
+  },
+  {
+    name       : {$$: 'Mireshell'},
+    description: { en: ' '}
+  },
+  {
+    name       : {$$: 'Desert Scarab'},
+    description: { en: ' '}
+  },
+  {
+    name       : {$$: 'Glimworm'},
+    description: { en: ' '}
+  },
+  {
+    name       : {$$: 'Mudlasher'},
+    description: { en: ' '}
+  },
+  {
+    name       : {$$: 'Sandpaw'},
+    description: { en: ' '}
+  },
+  {
+    name       : {$$: 'Oakmane'},
+    description: { en: ' '}
+  },
+  {
+    name       : {$$: 'Moonhowler'},
+    description: { en: ' '}
+  },
+  {
+    name       : {$$: 'Silkrunner'},
+    description: { en: ' '}
+  },
+  {
+    name       : {$$: 'Shimmerbranch'},
+    description: { en: ' '}
   }
 ]
