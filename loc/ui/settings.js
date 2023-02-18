@@ -263,6 +263,10 @@ export default {
     cs: 'Rozbrazení vzdálenosti'
   },
 
+  fov: {
+    en: 'Field of view'
+  },
+
   resolution: {
     en: 'Resolution',
     el: 'Ανάλυση',
