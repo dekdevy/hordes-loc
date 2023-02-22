@@ -264,7 +264,8 @@ export default {
   },
 
   fov: {
-    en: 'Field of view'
+    en: 'Field of view',
+    fr: 'Champ de vision'
   },
 
   resolution: {
