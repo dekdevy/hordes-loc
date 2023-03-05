@@ -151,7 +151,8 @@ export default {
     ko: '클랜이 없습니다.',
     zh: '你沒有公會',
     pt: 'Você não tem um clã',
-    es: 'No tienes un clan'
+    es: 'No tienes un clan',
+    cs: 'Nemáš žádný klan'
   },
 
   viewinvites: {
@@ -161,7 +162,8 @@ export default {
     ko: '클랜 초대 목록 보기',
     zh: '查看邀請',
     pt: 'Olhar convites',
-    es: 'Ver tus invitaciones'
+    es: 'Ver tus invitaciones',
+    cs: 'Zobrazit pozvánky'
   },
 
   action: {
@@ -170,7 +172,8 @@ export default {
     ko: '행동',
     zh: '行動',
     pt: 'Ações',
-    es: 'Acción'
+    es: 'Acción',
+    cs: 'Akce'
   },
 
   application:
@@ -181,7 +184,8 @@ export default {
     ko: '수락',
     zh: '申請',
     pt: 'Inscrições',
-    es: 'Inscripciones'
+    es: 'Inscripciones',
+    cs: 'Přihlášky'
   },
 
   kick: {
@@ -191,7 +195,8 @@ export default {
     ko: '추방',
     zh: '踢掉會員',
     pt: 'Remover membro',
-    es: 'Expulsar miembro'
+    es: 'Expulsar miembro',
+    cs: 'Vyhodit člena'
   },
 
   setrank: {
@@ -201,7 +206,8 @@ export default {
     ko: '등급 설정',
     zh: '設定職位',
     pt: 'Definir rank',
-    es: 'Definir rango'
+    es: 'Definir rango',
+    cs: 'Nastavit hodnost'
   },
 
   left: {
@@ -211,7 +217,8 @@ export default {
     ko: '클랜을 나갔습니다',
     zh: '離開公會',
     pt: 'Sair do clã',
-    es: 'Abandonó el clan'
+    es: 'Abandonó el clan',
+    cs: 'Opustit klan'
   },
 
   memberkicked: {
@@ -221,7 +228,8 @@ export default {
     ko: '클랜원이 추방되었습니다',
     zh: '已剔除會員',
     pr: 'Membro removido',
-    es: 'Miembro expulsado'
+    es: 'Miembro expulsado',
+    cs: 'Člen vyhozen'
   },
 
   applied: {
@@ -231,7 +239,8 @@ export default {
     ko: '클랜 초대에 수락하셨습니다',
     zh: '已申請公會',
     pt: 'Aplicar ao clã',
-    es: 'Aplicaste al clan'
+    es: 'Aplicaste al clan',
+    cs: 'Byl jsi přijat do klanu'
   },
 
   // en: PlayerName invited
@@ -248,7 +257,8 @@ export default {
       ko: ' 초대함',
       zh: ' 已邀請',
       pt: ' Convidado',
-      es: ' Invitado'
+      es: ' Invitado',
+      cs: ' byl pozván'
     }
   ],
 
@@ -259,7 +269,8 @@ export default {
     ko: '가입 요청 수락',
     zh: '同意申請',
     pt: 'Aceitar a inscrição',
-    es: 'Aceptar aplicación'
+    es: 'Aceptar aplicación',
+    cs: 'Potvrdit přihlášku'
   },
 
   applicationaccepted: {
@@ -269,7 +280,8 @@ export default {
     ko: '가입 요청을 수락하였습니다',
     zh: '已同意申請',
     pt: 'Inscrição aceita',
-    es: 'Aplicación aceptada'
+    es: 'Aplicación aceptada',
+    cs: 'Přihláška potvrzena'
   },
 
   applicationdeny: {
@@ -279,7 +291,8 @@ export default {
     ko: '가입 요청 거절',
     zh: '拒絕申請',
     pt: 'Recusar inscrição',
-    es: 'Denegar aplicación'
+    es: 'Denegar aplicación',
+    cs: 'Odmítnout přihlášku'
   },
 
   applicationdenied: {
@@ -289,7 +302,8 @@ export default {
     ko: '가입 요청을 거절하였습니다',
     zh: '已拒絕申請',
     pt: 'Inscrição recusada',
-    es: 'Aplicación denegada'
+    es: 'Aplicación denegada',
+    cs: 'Přihláška byla odmítnuta'
   },
 
   level: {
@@ -299,7 +313,8 @@ export default {
     ko: '클랜 레벨',
     zh: '公會等級',
     pt: 'Nível do Clã',
-    es: 'Nivel del Clan'
+    es: 'Nivel del Clan',
+    cs: 'Úroveň klanu'
   },
 
   capacity: {
@@ -309,7 +324,8 @@ export default {
     ko: '정원',
     zh: '位置',
     pt: 'Capacidade',
-    es: 'Capacidad'
+    es: 'Capacidad',
+    cs: 'Kapacita'
   },
 
   nextlevel: {
@@ -319,7 +335,8 @@ export default {
     ko: '다음 레벨',
     zh: '下個等級',
     pt: 'Próximo nível',
-    es: 'Siguiente nivel'
+    es: 'Siguiente nivel',
+    cs: 'Další úroveň'
   },
 
   taxrate: {
@@ -329,7 +346,8 @@ export default {
     ko: '세금',
     zh: '稅額',
     pt: 'Porcentagem de taxa',
-    es: 'Tasa de impuestos'
+    es: 'Tasa de impuestos',
+    cs: 'Sazba daňe'
   },
 
   members: {
@@ -339,7 +357,8 @@ export default {
     ko: '클랜원',
     zh: '會員',
     pt: 'Membros',
-    es: 'Miembros'
+    es: 'Miembros',
+    cs: 'Členové'
   },
 
   online: {
@@ -348,7 +367,8 @@ export default {
     tr: 'Çevrimiçi',
     ko: '온라인',
     zh: '在線',
-    es: 'En línea'
+    es: 'En línea',
+    cs: 'Online'
   },
 
   treasury: {
@@ -358,7 +378,8 @@ export default {
     ko: '자금',
     zh: '金庫',
     pt: 'Tesouraria',
-    es: 'Tesorería'
+    es: 'Tesorería',
+    cs: 'Pokladna'
   },
 
   highestrank: {
@@ -368,7 +389,8 @@ export default {
     ko: '최고 등급',
     zh: '你的最高職位',
     pt: 'Sua classificação mais alta',
-    es: 'Máximo rango alcanzado'
+    es: 'Máximo rango alcanzado',
+    cs: 'Tvé nejvyšší hodnocení'
   },
 
   inviteplayers: {
@@ -378,7 +400,8 @@ export default {
     ko: '플레이어 초대',
     zh: '邀請玩家',
     pt: 'Convidar jogadores',
-    es: 'Invitar jugadores'
+    es: 'Invitar jugadores',
+    cs: 'Pozvat hráče'
   },
 
   inviteplayer: {
@@ -388,7 +411,8 @@ export default {
     ko: '초대하기',
     zh: '邀請玩家',
     pt: 'Convidar jogador',
-    es: 'Invitar a un jugador'
+    es: 'Invitar a un jugador',
+    cs: 'Pozvat hráče'
   },
 
   apply: {
@@ -398,7 +422,8 @@ export default {
     ko: '클랜 가입 (가입 요청 보내기)',
     zh: '申請公會(發送請求)',
     pt: 'Aplicar ao clã (solicitar convite)',
-    es: 'Aplicar al clan (solicitar invitación)'
+    es: 'Aplicar al clan (solicitar invitación)',
+    cs: 'Poodat přihlášku do klanu (vyžaduje pozvánku)'
   },
 
   applications:
@@ -409,7 +434,8 @@ export default {
     ko: '가입 요청',
     zh: '申請',
     pt: 'Inscrições',
-    es: 'Aplicaciones'
+    es: 'Aplicaciones',
+    cs: 'Přihlášky'
   },
 
   applicationdesc: {
@@ -419,7 +445,8 @@ export default {
     ko: '이것은 현재 가입을 원하는 플레이어의 목록입니다. 우클릭을 해 가입 요청을 수락할 수 있습니다.',
     zh: '這是公會申請列表。右鍵接受申請並邀請玩家加入你的公會。',
     pt: 'Esta é uma lista de inscrições ativas do seu clã. Clique com o botão direito para aceitar uma inscrição e adicione o jogador para o seu clã',
-    es: 'Esta es una lista de aplicaciones activas a tu clan. Clica con el botón derecho para aceptar una aplicación e invitar al jugador a tu clan'
+    es: 'Esta es una lista de aplicaciones activas a tu clan. Clica con el botón derecho para aceptar una aplicación e invitar al jugador a tu clan',
+    cs: 'Toto je seznam aktivních přihlášek do vášeho klan. Kliknutím pravým tlačítkem potvrdíte přihlášku a pozvete hráče do svého klanu'
   },
 
   player: {
@@ -428,7 +455,8 @@ export default {
     ko: '플레이어',
     zh: '玩家',
     pt: 'Jogador',
-    es: 'Jugador'
+    es: 'Jugador',
+    cs: 'Hráč'
   },
 
   memberdesc: {
@@ -438,7 +466,8 @@ export default {
     ko: '이것은 현재 클랜에 소속되어있는 클랜원들의 목록입니다. 우클릭을 해 클랜원들을 관리할 수 있습니다.',
     zh: '這是公會成員列表。右鍵成員以獲取其他選項。',
     pt: 'Esta é uma lista de membros ativos deste clã. Clique com o botão direito nos membros para opções adicionais.',
-    es: 'Esta es una lista de miembros activos del clan. Clica con el botón derecho para opciones adicionales'
+    es: 'Esta es una lista de miembros activos del clan. Clica con el botón derecho para opciones adicionales',
+    cs: 'Toto je přehled aktivních hráčů tohoto klanu. Kliknutím pravým tlačítkem na členy zobrazíte další možnosti'
   },
 
   // Member, Assistant, Officer, Owner
@@ -448,13 +477,14 @@ export default {
     tr: 'Rütbe',
     ko: '등급',
     zh: '職位',
-    es: 'Rango'
+    es: 'Rango',
+    cs: 'Hodnost'
   },
 
   roles: [
     { $$: 'Member' },
     { $$: 'Assistant' },
     { $$: 'Officer' },
-    { $$: 'Owner' }
+    { $$: 'Owner' },
   ]
 }
