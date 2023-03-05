@@ -33,7 +33,7 @@ export default {
     ko: '파벌',
     zh: '陣營',
     pt: 'Facção',
-    cs: 'Frakce',
+    cs: 'Frakce'
   },
 
   rank: {
