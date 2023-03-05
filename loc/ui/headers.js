@@ -56,7 +56,7 @@ export default {
     ko: 'DPS 측정기',
     zh: 'DPS 表',
     pt: 'Medidor DPS',
-    cs: "DPS Meter"
+    cs: 'DPS Meter'
   },
 
   fullscreen: {

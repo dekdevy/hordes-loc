@@ -21,7 +21,7 @@ export default [{
     zh: '用額外的力量砍向你的敵人，回復5%造成的傷害。',
     ko: '상대를 배고, 준 대미지의 5%를 회복합니다.',
     tr: 'Düşmanını biç, fazladan güçle vurur. Verilen hasarın %5\'i ile seni iyileştirir.',
-    cs: "Sekněte svého nepřítele, každé seknutí vás vyléčí 5% způsobeného poškození"
+    cs: 'Sekněte svého nepřítele, každé seknutí vás vyléčí 5% způsobeného poškození'
   }
 },
 {
@@ -537,7 +537,7 @@ export default [{
     zh: '施放後2秒內抵消對你造成的限制效果，如果成功抵消效果，則Charge的冷卻時間會重製，並增加20移動速度3秒。',
     ko: '사용하고 2초후 플레이어에게 있는 모든 디버프를 제거합니다, 만약 제거한 디버프가 있다면 20의 추가 이동속도를 얻고 Dash 의 쿨타임을 없앱니다.',
     tr: 'İki saniyelik etkinleşme süresinden sonra tüm sersemletme ve sabitleme etkilerini kaldırır. Eğer herhangi bir etki kalkarsa Charge yeteneğinin bekleme süresi sıfırlanır ve 3 saniyeliğine 20 hareket kazanırsın.',
-    cs:'Dvě sekundy po seslání na vás budou odstraněny všechny aktivní omračovací a kořenové efekty. Pokud dojde k odstranění jakéhokoli efektu, váš cooldown Chargu se resetuje a získáte tak 20 Rychlost pohybu po dobu 3 sekund.'
+    cs: 'Dvě sekundy po seslání na vás budou odstraněny všechny aktivní omračovací a kořenové efekty. Pokud dojde k odstranění jakéhokoli efektu, váš cooldown Chargu se resetuje a získáte tak 20 Rychlost pohybu po dobu 3 sekund.'
   }
 },
 {

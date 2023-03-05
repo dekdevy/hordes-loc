@@ -161,7 +161,6 @@ export default [
       es: 'Estas espadas son creadas por monstruos no muertos. La técnica de elaboración antinatural para producir armas como esta sigue siendo desconocida.',
       pt: 'Essas espadas são criadas por monstros mortos-vivos. A técnica de fabricação antinatural para produzir armas como essa permanece desconhecida.',
       cs: 'Tyto meče jsou vytvořeny nemrtvými monstry. Nepřirozená technika výroby zbraní, jako je tato, zůstává neznámá.'
-      
     }
   },
 

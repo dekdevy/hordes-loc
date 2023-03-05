@@ -359,7 +359,7 @@ export default {
     ko: '가격 설정',
     zh: '設定價格',
     pt: 'Definir o preço',
-    cs: "Nastavit cenu"
+    cs: 'Nastavit cenu'
   },
 
   // Purchase confirmation message for merchant window
@@ -380,7 +380,7 @@ export default {
       ko: '에',
       zh: '花費',
       pt: 'por',
-      cs: "za"
+      cs: 'za'
     },
     {
       en: '?',

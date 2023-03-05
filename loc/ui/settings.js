@@ -83,7 +83,7 @@ export default {
     tr: 'Tuş atamaları',
     ja: 'キー割り当て',
     ko: '키바인딩',
-    cs: 'Klávesové zkratky',
+    cs: 'Klávesové zkratky'
   },
 
   bindingreset: {
@@ -93,7 +93,7 @@ export default {
     ko: '리셋하려면, 아무것도 써놓지 마세요.',
     zh: '要重置，請填空',
     pt: 'Para redefinir, deixe o campo em branco.',
-    cs: 'Chcete-li reset, ponechte pole prázdné',
+    cs: 'Chcete-li reset, ponechte pole prázdné'
   },
 
   camera: {
@@ -112,7 +112,7 @@ export default {
     ja: 'カメラ',
     ko: '카메라',
     cs: 'Kamera',
-    zh: '視角',
+    zh: '視角'
   },
 
   mousesensitivity: {
@@ -316,7 +316,7 @@ export default {
     tr: 'Ekranda olmayan canlıları devre dışı bırak',
     ko: '시야 밖 몹 숨기기',
     pt: 'Desativar criaturas fora da tela',
-    cs: 'Deaktivovat bytosti mimo obrazovku',
+    cs: 'Deaktivovat bytosti mimo obrazovku'
   },
 
   offscreendesc: {
@@ -540,7 +540,7 @@ export default {
     ko: '당신이 사용하지 않은 스킬의 효과음 볼륨을 조정합니다. 100% = 볼륨 감소 없음, 50% = 반으로 감소함.',
     zh: '不是你施放的法術可以減少音量。100% = 沒有聲音，50% = 一半音量。',
     pt: 'volume de magias não lançados por você podem ser reduzidos. 100% = Sem redução de som, 50% = metade do volume.',
-    cs: 'Hlasitost oouzla, která jste neseslali vy, lze snížit. 100 % = žádné snížení zvuku, 50 % = poloviční hlasitost',
+    cs: 'Hlasitost oouzla, která jste neseslali vy, lze snížit. 100 % = žádné snížení zvuku, 50 % = poloviční hlasitost'
   },
 
   ambiencevolume: {
@@ -1052,7 +1052,7 @@ export default {
     ko: '재사용 시간 텍스트 (스킬)',
     zh: '冷卻文字 (技能)',
     pt: 'Texto de recarga (habilidades)',
-    cs: 'Cooldown text (dovedností)',
+    cs: 'Cooldown text (dovedností)'
   },
 
   buffcdtext: {

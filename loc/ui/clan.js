@@ -485,6 +485,6 @@ export default {
     { $$: 'Member' },
     { $$: 'Assistant' },
     { $$: 'Officer' },
-    { $$: 'Owner' },
+    { $$: 'Owner' }
   ]
 }

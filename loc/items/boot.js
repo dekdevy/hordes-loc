@@ -55,7 +55,7 @@ export default [
       ro: 'Acești pantofi din piele sunt creați cu măiestrie pentru o durabilitate moderată în luptă.',
       zh: '皮革鞋子是由精細的手工藝製作而成以提升耐久度。',
       tr: 'Deri ayakkabılar orta derece savaş dayanıklılığı için ince bir işçilikle yapıldı.',
-      cs: "Kožené boty jsou vyrobeny s jemným řemeslným zpracováním pro střední odolnost v bitvě."
+      cs: 'Kožené boty jsou vyrobeny s jemným řemeslným zpracováním pro střední odolnost v bitvě.'
     }
   },
 
@@ -115,7 +115,7 @@ export default [
       ro: 'Acest tip de pantofi îmbunătățiți împing picioarele purtătorului cu ajutorul magiei umbrelor, pentru a mări viteza.',
       zh: '穿戴著這種被附魔的鞋子會因為影子魔法使穿戴者的移動速度增加。',
       tr: 'Bunun gibi büyülü ayakkabılar, gölge büyüsü ile kullanıcının ayaklarını iterek hızı arttırır.',
-      cs:'Očarované boty, jako je tato, tlačí nohy nositele pomocí stínové magie, aby zvýšily rychlost.'
+      cs: 'Očarované boty, jako je tato, tlačí nohy nositele pomocí stínové magie, aby zvýšily rychlost.'
     }
   },
 

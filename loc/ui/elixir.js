@@ -15,7 +15,7 @@ export default {
     zh: '聊天室支持者圖案',
     pt: 'Ícone de apoiador',
     cs: 'Chat supporter icon'
-    },
+  },
 
   noads: {
     en: 'No ads',
@@ -35,7 +35,7 @@ export default {
     ko: '기본 가방 칸 수',
     zh: '基礎背包容量',
     pt: 'Espaços na Bag',
-    cs: "slotů v bagu"
+    cs: 'slotů v bagu'
   },
 
   // i.e. 100 stash storage

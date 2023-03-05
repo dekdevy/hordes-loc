@@ -26,7 +26,7 @@ export default {
     ko: '타겟이 아군이여야 함',
     zh: '友方目標',
     pt: 'em Aliados',
-    cs: 'na spojence',
+    cs: 'na spojence'
   },
 
   targetEnemy: {
@@ -36,7 +36,7 @@ export default {
     ko: '타겟이 적이여야 함',
     zh: '敵方目標',
     pt: 'em Inimigos',
-    cs: 'na nepřítele',
+    cs: 'na nepřítele'
   },
 
   spellMelee: {
@@ -46,7 +46,7 @@ export default {
     ko: '근접 공격',
     zh: '近戰攻擊',
     pt: 'Ataque corpo a corpo',
-    cs: 'Útok na blízko',
+    cs: 'Útok na blízko'
   },
 
   spellMagic: {

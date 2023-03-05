@@ -53,7 +53,6 @@ export default {
       // Ne signalez pas plusieurs messages; un seul rapport suffira.'
       // tr: Spam, nefret söylemi (ırkçı, rahatsız edici içerikli vb.), kimliğe bürünme, doxing, TOS\'a uymayan şeylerin reklamını yapmak. Orta derecede şakalara izin var.
       // Birden fazla mesajı rapor etmeyin; bir tane rapor yeterli olacaktır.'
-      // cs: 'Spam, urážlivý jazyk (explicitní, LGBTQ-fobní, rasistický, NSFW atd.), napodobování identity, doxing, reklama, která porušuje TOS. Všimněte si, že mírné žertování je povoleno. Neposílejte více zpráv; postačí jedna zpráva.'
     },
     {
       en: 'Playing multiple characters at the same time to gain unfair advantages by abusing game mechanics such as item find stacking, pre-buffing, healbotting or other PVE / PVP activities.'

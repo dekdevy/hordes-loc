@@ -95,7 +95,7 @@ export default [
       it: 'Gli Spiked Warshields sono robusti in battaglia e adatti alla cultura degli orchi. I guerrieri orchi veterani mostrano le loro tacche di vittoria sui lati dei loro scudi.',
       es: 'Los Spiked Warshields son robustos en la batalla y adecuados para la cultura orca. Los guerreros orcos veteranos muestran sus muescas de victoria a los lados de sus escudos.',
       nl: 'Spiked Warshields zijn robuust voor de strijd en gepast voor orc cultuur. Veterane orc strijders tonen hun overwinning gleuven op de zijkanten van hun schilden.',
-      cs :'Špičaté válečné štíty jsou robustní v bitvě a hodí se pro orkskou kulturu. Zkušení orkští válečníci vystavují své vítězné zářezy na bocích svých štítů.'
+      cs : 'Špičaté válečné štíty jsou robustní v bitvě a hodí se pro orkskou kulturu. Zkušení orkští válečníci vystavují své vítězné zářezy na bocích svých štítů.'
     }
   },
 
