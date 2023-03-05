@@ -11,9 +11,11 @@ export default [
       es: 'Esta bolsa está hecha de una tela delicada. Las bolsas como esta a menudo son propiedad de personas comunes para llevar sus pertenencias.',
       vi: 'Túi này được làm từ một loại vải tinh tế. Những chiếc túi như thế này thường thuộc sở hữu của những người bình thường để mang đồ đạc của họ',
       nl: 'Deze buidel is gemaakt van een fijne stof. Buidels zoals deze zijn vaak eigendom van gewone mensen voor het dragen van hun bezittingen.',
+      ko: '이 가방은 부드러운 천으로 만들어졌다. 이런 가방은 많은 사람들에게 그들의 물건들을 옮기는데 사용된다.',
       it: 'Questo zaino è stato fabbricato con un tessuto fragile. Zaini come questi spesso vengono utilizzati dalle persone comuni per trasportare i loro averi.',
       ro: 'Acest săculeț este făcut dintr-un material delicat. Astfel de săculeți sunt des folosiți de oameni simpli pentru a-și căra bunurile.',
       cs: 'Tato taška je vyrobena z jemné látky. Takové vaky často vlastní obyčejní lidé na přenášení svých věcí.'
+      zh: '這個袋子是用精巧的織法製作的，這種類型的袋子常常出現在平民的身邊以便於他們攜帶物品。'
     }
   },
 
@@ -29,9 +31,11 @@ export default [
       es: 'Este saco está hecho de telas resistentes para sostener más equipo que una bolsa de lino.',
       vi: 'Bao tải xấu xí này được chế tạo từ các loại vải chắc chắn để chứa nhiều thiết bị hơn túi vải lanh.',
       nl: 'Deze rugzak is gehandhaafd van stevige stoffen om meer uitrusting te dragen dan een "Linen Pouch".',
+      ko: '좀더 견고한 옷감으로 만든 이 가방은 linen pouch 보다 수용량이 더 많다.',
       it: 'Questo zaino robusto è stato realizzato con un tessuto resistente per contenere più oggetti rispetto ad un "Linen Pouch".',
       ro: 'Acest sac aspru este creat din materiale robuste pentru a susține mai mult echipament decât "Linen Pouch".',
       cs: 'Tento odolný pytel je vyroben z pevných látek, aby pojal více vybavení než plátěný vak.'
+      zh: '這個粗糙的背包是由堅韌的織物製作的以保存比麻布袋更多的物品。'
     }
   },
 
@@ -47,9 +51,11 @@ export default [
       es: 'Este saco robusto está hecho a base de pieles de monstruo y permite un inventario respetable.',
       vi: 'Chiếc túi chắc chắn này được làm từ da quái vật và là một hành trang đáng trân trọng.',
       nl: 'Deze krachtige zak is gemaakt van monsterhuid en gunt een fatsoenlijke inventaris.',
+      ko: '몬스터의 가죽으로 만든 이 가방은 많은 양의 수용량을 자랑합니다.',
       it: 'Questo zaino resistente è stato fabbricato con la pelle dei mostri e consente un inventario rispettabile.',
       ro: 'Acest sac robust este făcut din piele de monstru și permite posesia unui inventar respectabil.',
       cs: 'Tento robustní pytel je vyroben z kůží monster a umožňuje úctyhodný inventář.'
+      zh: '這個堅實的背包是由獸皮製作而成以保存大量物品。'
     }
   },
 

@@ -11,7 +11,10 @@ export default [
       vi: 'Đôi giày này chủ yếu được làm cho thoải mái hơn là để chạy.',
       it: 'Questa calzatura è concepita principalmente per il comfort anziché per la corsa.',
       nl: 'Deze schoenen zijn vooral gemaakt voor comfort in plaats van rennen.',
-      ro: 'Acest tip de încățăminte a fost mai degrabă creată pentru confort decât pentru alergare.'
+      ko: '이 신발은 뛰는것보단 걷는 용도로 만들어졌습니다.',
+      ro: 'Acest tip de încățăminte a fost mai degrabă creată pentru confort decât pentru alergare.',
+      zh: '這種鞋類主要是為了穿著舒適而非跑步。',
+      tr: 'Bu ayak giyecekleri koşmadan çok rahatlık amaçlı yapıldı.'
     }
   },
 
@@ -27,7 +30,10 @@ export default [
       vi: 'Những đôi giày này được bọc trong một vật liệu tạm thời để tăng sự ổn định khi chạy.',
       it: 'Questi poggiapiedi sono avvolti in un materiale di fortuna per aumentare la stabilità della corsa.',
       nl: 'Deze schoenen zijn verpakt in een handgemaakt materiaal om stabiliteit tijdens het rennen te verhogen.',
-      ro: 'Acești tălpici sunt împachetați într-un material improvizat pentru a crește stabilitatea la alergare.'
+      ko: '이 신발은 괜찮은 재료로 달리기 편하게 만들어졌습니다.',
+      ro: 'Acești tălpici sunt împachetați într-un material improvizat pentru a crește stabilitatea la alergare.',
+      zh: '這些腳墊混合了應急材料以提升跑步穩定性。',
+      tr: 'Bu ayak pedleri koşu sabitliğini arttırmak için derme çatma bir malzeme ile kaplandı.'
     }
   },
 
@@ -43,7 +49,10 @@ export default [
       vi: 'Giày da được tạo ra với sự khéo léo tinh xảo cho độ bền vừa phải khi chiến đấu.',
       it: 'Le scarpe in pelle sono create con pregevole fattura per una durata prolungata in battaglia.',
       nl: 'Leren schoenen zijn gemaakt met een fijne vakmanschap voor gemiddelde gevecht uithouding.',
-      ro: 'Acești pantofi din piele sunt creați cu măiestrie pentru o durabilitate moderată în luptă.'
+      ko: '이 천신발은 괜찮은 재료로 만들어져 전투화로 신을수 있습니다.',
+      ro: 'Acești pantofi din piele sunt creați cu măiestrie pentru o durabilitate moderată în luptă.',
+      zh: '皮革鞋子是由精細的手工藝製作而成以提升耐久度。',
+      tr: 'Deri ayakkabılar orta derece savaş dayanıklılığı için ince bir işçilikle yapıldı.'
     }
   },
 
@@ -59,7 +68,10 @@ export default [
       vi: 'Xương quái vật được sử dụng trong việc tạo ra đôi giày như thế này dường như giúp tăng tốc độ di chuyển, nhưng liệu sự tăng cường là thông qua phép thuật hay sự nhẹ nhàng của vật liệu không được biết đến.',
       it: 'Le ossa mostruose utilizzate nella creazione di calzature come questa sembrano aumentare la velocità di movimento, ma non è noto se il miglioramento sia attraverso la magia o la leggerezza del materiale.',
       nl: 'De monsterbotten die gebruikt waren in het maken van deze schoenen, zoals deze, blijken de snelheid te verbeteren, maar of de verbetering door magie komt of het gewicht van het materiaal is onbekend.',
-      ro: 'Oasele de monstru folosite la crearea acestei încălțăminte par să sporească viteza de deplasare, dar fie că această intensificare a fost făcută prin magie sau prin lejeritatea materialului nu se știe.'
+      ko: '신발의 기동성을 높이기 위해 몬스터의 뼈를 이용했습니다, 하지만 어떤 방법으로 강화를 했는지는 아무도 알지 못합니다.',
+      ro: 'Oasele de monstru folosite la crearea acestei încălțăminte par să sporească viteza de deplasare, dar fie că această intensificare a fost făcută prin magie sau prin lejeritatea materialului nu se știe.',
+      zh: '這個鞋子裡所使用的怪獸骨頭似乎能夠提升移動速度，但是這股魔法是從哪裡來的則不得而知。',
+      tr: 'Canavar kemikleri hareket hızını arttırmak için bunun gibi ayak giyeceklerinin yapımında kullanılır, ama geliştirmenin nedeninin sihirle mi yoksa malzemenin hafifliğiyle mi olduğu bilinmiyor.'
     }
   },
 
@@ -75,7 +87,10 @@ export default [
       vi: 'Đôi giày này được chế tạo tỉ mỉ khi dùng vảy quái vật vừa nhẹ vừa mạnh mẽ để chiến đấu',
       it: 'Questa calzatura è realizzata con cura con squame mostruose che sono allo stesso tempo leggere e robuste per la battaglia.',
       nl: 'Deze schoenen zijn nauwkeurig gemaakt met monsterschubben die zowel licht als stevig zijn voor een gevecht.',
-      ro: 'Această încălțăminte a fost grijuliu creată cu solzi de monstru și este în același timp ușoară și robustă pentru bătălie.'
+      ko: '이 신발은 몬스터의 비늘로 만들어져서 내구성이 좋으면서 가볍습니다.',
+      ro: 'Această încălțăminte a fost grijuliu creată cu solzi de monstru și este în același timp ușoară și robustă pentru bătălie.',
+      zh: '這種輕盈且堅韌的鞋是用怪獸的鱗片以精細的手藝製作而成。',
+      tr: 'Bu ayak giyecekleri savaş için güçlü ve hafif olan canavarların kabukları ile özenle üretildi.'
     }
   },
 
@@ -91,7 +106,10 @@ export default [
       vi: 'Những đôi giày được phù phép như thế này tăng tốc đôi chân của người mang bằng ma thuật bóng tối để tăng tốc độ.',
       it: 'Scarpe incantate come questa spingono i piedi di chi la indossa con la magia dell\'ombra per aumentare la velocità.',
       nl: 'Betoverde schoenen zoals deze duwen de dragers voeten naar vergrootte snelheden met schaduwmagie.',
-      ro: 'Acest tip de pantofi îmbunătățiți împing picioarele purtătorului cu ajutorul magiei umbrelor, pentru a mări viteza.'
+      ko: '흑마법으로 강화된 이신발은 착용자의 발을 흑마법으로 밀어내 이동속도를 증가시킨다.',
+      ro: 'Acest tip de pantofi îmbunătățiți împing picioarele purtătorului cu ajutorul magiei umbrelor, pentru a mări viteza.',
+      zh: '穿戴著這種被附魔的鞋子會因為影子魔法使穿戴者的移動速度增加。',
+      tr: 'Bunun gibi büyülü ayakkabılar, gölge büyüsü ile kullanıcının ayaklarını iterek hızı arttırır.'
     }
   },
 
@@ -186,7 +204,7 @@ export default [
       es: 'Estas botas han sido nombradas como una famosa y legendaria reliquia. El homónimo de estas botas fue supuestamente el calzado veloz de una deidad famosa, pero parece que nadie sabe dónde se ha originado la historia.',
       vi: 'Những đôi giày này được đặt theo tên của một thánh tích huyền thoại nổi tiếng. Tên của những đôi giày này được cho là tấm lót chân của một vị thần nổi tiếng, nhưng dường như không ai biết câu chuyện bắt nguồn từ đâu.',
       it: 'Questi stivali prendono il nome da una famosa leggenda delle reliquie. L\'omonimo di questi stivali era presumibilmente la calzatura veloce di una divinità famosa, ma nessuno sembra sapere da dove provenga la storia.',
-      nl: 'Deze schoenen zijn vernoemd naar een bekende legende van een reliqui. De naamgenoot van deze schoenen waren waarschijnlijk de snelle voetkleding van een bekende god, maar niemand blijkt te weten waar het verhaal vandaan komt.',
+      nl: 'Deze schoenen zijn vernoemd naar een bekende legende van een relikwie. De naamgenoot van deze schoenen waren waarschijnlijk de snelle voetkleding van een bekende god, maar niemand blijkt te weten waar het verhaal vandaan komt.',
       ro: 'Aceste cizme sunt numite după o relicvă faimoasă. Omonimul acestor cizme se presupune că a fost încălțămintea rapidă a unei zeiăți faimoase, dar nimeni nu pare să știe de unde provine mai exact legenda.'
     }
   },

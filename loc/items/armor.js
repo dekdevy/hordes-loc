@@ -10,9 +10,12 @@ export default [
       es: 'Este es un material sorprendentemente resistente que puede ser usado como ropa de protección. La naturaleza improvisada de este material es obvia, muchos aventureros eligen remplazar el Potato Sack tan rápido como sea posible.',
       vi: 'Đây là một vật liệu đầy sức mạnh đáng ngạc nhiên có thể được sử dụng như một giáp bảo vệ. Bản chất của vật liệu này là rõ ràng, vì vậy nhiều nhà thám hiểm chọn thay thế bao tải khoai tây càng nhanh càng tốt.',
       nl: 'Dit is een verassend stevig materiaal dat gebruikt kan worden als een beschermend kledingstuk. De in elkaar gezette natuur van dit materiaal is duidelijk, dus vele avonturiers kiezen ervoor om de "potato sack" zo snel mogelijk te vervangen.',
+      ko: '이 갑옷은 놀랍게도 자연의 쟤료로 만들어졌다, 내구도는 너무 당연히도 안좋아서 많은 여행가들은 최대한 빨리 더 좋은 갑옷을 찾으려 한다.',
       it: 'È un materiale sorprendentemente robusto che può essere usato come veste protettiva. La natura improvvisata di questo materiale è ovvia, quindi molti avventurieri scelgono di sostituire il sacco di patate il più velocemente possibile.',
       ro: 'Acesta este un material surprinzător de ferm dacă poate fi folosit drept haină de protecție. Natura improvizată a materialului e atât de evidentă, încât mulți aventurieri aleg să înlocuiască acest sac de cartofi cât mai repede cu putință.',
-      cs: 'Jedná se o překvapivě pevný materiál, který lze použít jako ochranný oděv. Provizorní povaha tohoto materiálu je zřejmá, takže mnoho dobrodruhů se rozhodne vyměnit pytel od brambor co nejrychleji.'
+      cs: 'Jedná se o překvapivě pevný materiál, který lze použít jako ochranný oděv. Provizorní povaha tohoto materiálu je zřejmá, takže mnoho dobrodruhů se rozhodne vyměnit pytel od brambor co nejrychleji.',
+      zh: '是個令人驚訝能夠用於防護的布料。很顯然這是出於臨時，所以許多冒險這會選擇盡快找到替代品。',
+      tr: 'Bu şaşırtıcı şekilde sağlam malzeme koruyucu giysi olarak kullanılabilir. Bu malzemenin derme çatma doğası bariz, çoğu maceracı patates çuvalını olabildiğince hızlı şekilde değiştirmeyi seçer.'
     }
   },
 
@@ -27,9 +30,12 @@ export default [
       es: 'Esta prenda es una reliquia familiar que ha sido heredada de una generación aventurera a otra.',
       vi: 'Bộ quần áo này là một vật gia truyền được truyền từ thế hệ này sang thế hệ khác.',
       nl: 'Dit kledingstuk is een familie-erfstuk dat is doorgegeven aan de ene avonturiersgeneratie tot de andere.',
+      ko: '이 옷은 한 여행 세대에서 다음 여행 세대로 내려지는 유물같은 옷이다.',
       it: 'Questo indumento è un cimelio di famiglia passato da una generazione avventuriera ad un\'altra.',
       ro: 'Această haină este o moștenire de familie ce a fost pasată în generații de la un aventurier la altul.',
-      cs: 'Tento oděv je rodinným dědictvím, které se dědilo z jedné dobrodružné generace na druhou.'
+      cs: 'Tento oděv je rodinným dědictvím, které se dědilo z jedné dobrodružné generace na druhou.',
+      zh: '這副服裝是冒險者代代相傳的傳家寶。',
+      tr: 'Bu giyecek, maceracı bir nesilden bir diğerine aktarılan bir aile yadigarıdır.'
     }
   },
 
@@ -44,9 +50,12 @@ export default [
       es: 'Esta túnica está hecha a mano con telas robustas que fueron diseñadas para resistir la supervivencia en la naturaleza. Algunas tradiciones acostumbran a dar túnicas como regalos a aventureros que son considerados dignos por su organización.',
       vi: 'Áo này được chế tạo từ các loại vải mạnh mẽ được thiết kế để có thể sống sót ngoài tự nhiên. Một số giáo hội coi việc tặng chiếc áo này cho các nhà thám hiểm là một nghi thức truyền thống.',
       nl: 'Dit tuniek is gemaakt uit stevige stoffen die ontworpen zijn voor het weerstaan van het wildernis overleven. ',
+      ko: '이 갑옷은 야생에서 살아남기 위해 괜찮은 옷감으로 만들어졌다, 몇몇 전통은 업적을 달성한 여행가들에게 이 갑옷을 선물로 준다고 한다.',
       it: 'Questa tunica è stata fabbricata usando materiali robusti ideali per la resistenza alla sopravvivenza nella natura selvaggia. Molte tradizioni comprendono il donare le tuniche come regalo agli avventurieri che sembravano considerati degni da un consiglio.',
       ro: 'Această tunică este fabricată dintr-un material robust și este făcută pentru a rezista supraviețuirii în sălbăticie. Câteva tradiții implică dăruirea de tunici drept cadou pentru aventurierii desemnați vretnici de o organizație.',
-      cs: 'Tato tunika je vyrobena z robustních látek, které jsou navrženy tak, aby vydržely přežití v divočině. Některé tradice zahrnují darování tunik dobrodruhům, které organizace považuje za hodné.'
+      cs: 'Tato tunika je vyrobena z robustních látek, které jsou navrženy tak, aby vydržely přežití v divočině. Některé tradice zahrnují darování tunik dobrodruhům, které organizace považuje za hodné.',
+      zh: '這副束腰外衣是由粗糙的織物製成以支撐荒郊野外的生存。有些傳統會把束腰外衣當作是禮物送給冒險者視為配得上組織的人物。',
+      tr: 'Bu tunik, vahşi doğada hayatta kalmaya dayanacak şekilde tasarlanmış sağlam kumaşlardan üretilmiştir. Bazı gelenekler, bir örgüt tarafından layık görülen maceracılara hediye olarak bu tuniklerden verirler.'
     }
   },
 
@@ -61,9 +70,12 @@ export default [
       es: 'Esta armadura de cuero es una opción común para los aventureros que viajan. La tendencia de usar estos Leather Jerkins se originó alrededor de Yggdrasil cuando peligrosas criaturas comenzaron a acechar en las selvas cercanas.',
       vi: 'Áo giáp da này là một lựa chọn phổ biến cho các nhà thám hiểm du hành. Xu hướng mặc đồ da có nguồn gốc từ Yggdrasil khi những sinh vật nguy hiểm bắt đầu ẩn nấp trong những khu rừng gần đó.',
       nl: 'Dit leren harnas is een vaak voorkomende keuze voor avonturiers. De trend van het dragen van "leather jerkins" is ontstaan rond Yggdrasil toen er gevaarlijke wezens begonnen rond te kruipen in de nabije jungles.',
+      ko: '이 천 갑옷은 여행가들에게 흔한 갑옷이다. 이 갑옷은 이그드라실에 위험한 생물체가 출현했을때부터 입기 시작했다고 한다.',
       it: 'Questa armatura di pelle è una scelta comune per gli avventurieri erranti. La tendenza di indossare questi farsetti in pelle ha origine intorno a Yggdrasil, quando le creature pericolose iniziarono ad appostarsi nelle giungle vicine.',
       ro: 'Această armură din piele reprezintă o alegere comună pentru călătorii aventurieri. Tendința purtării gecilor de piele provine din jurul lui Yggdrasil, pe când creaturile periculoase au început să mișune în junglele din apropiere.',
       cs: 'Toto kožené brnění je běžnou volbou pro cestovatele dobrodruhů. Trend nošení kožených kazajek vznikl kolem Yggdrasilu, když v nedalekých džunglích začala číhat nebezpečná stvoření.',
+      zh: '這副皮革盔甲是個對旅行的冒險者來說不錯的選擇。 穿戴皮革盔甲的潮流起源於當世界樹周圍開始埋伏著危險的生物。',
+      tr: 'Bu deri zırh seyahat eden maceracıların genel seçimidir. Deri yelek giymeye başlama eğilimi, Yggdrasil çevresinde tehlikeli yaratıklar yakınlardaki ormanlarda gizlenmeye başladığında ortaya çıktı.'
     }
   },
 
@@ -78,9 +90,12 @@ export default [
       es: 'Esta armadura está hecha de escamas de monstruos que se encontraron en el suelo. Las escamas de montruo amenudo se forjaban y transformaban en armaduras respetables cuando el metal es escaso.',
       vi: 'Bộ giáp này được làm từ vảy quái vật được tìm thấy trên mặt đất. Vảy quái vật thường được chế tạo thành áo giáp mỗi khi thiếu kim loại.',
       nl: 'Dit harnas is gemaakt van monsterschubben die gevonden waren op de grond. Monsterschubben worden vaak gehandhaafd tot fatsoenlijke harnassen wanneer er een tekort was aan metaal. ',
+      ko: '이 갑옷은 땅에 떨궈져있던 몬스터의 비늘로 만들어졌다. 몬스터의 비늘은 강철이 부족할때 갑옷의 좋은 쟤료로 쓰인다.',
       it: 'Questa armatura è costruita usando scaglie di mostro trovate per terra. le scaglie di mostro sono spesso utilizzate per costruire armature rispettabili quando il metallo scarseggia.',
       ro: 'Armura aceasta este fabricată din solzi de monstru ce au fost găsiți pe pământ. Solzii de monstru sunt deseori prefăcuți în respectabile armuri ori de câte ori nu se mai găsește metal.',
-      cs: 'Toto brnění je vyrobeno z monstrózních šupin, které byly nalezeny na zemi. Šupiny monster jsou často vytvořeny do úctyhodných brnění, kdykoli je nedostatek kovu.'
+      cs: 'Toto brnění je vyrobeno z monstrózních šupin, které byly nalezeny na zemi. Šupiny monster jsou často vytvořeny do úctyhodných brnění, kdykoli je nedostatek kovu.',
+      zh: '這副盔甲是由地上找到怪獸鱗片製作而成.。當金屬短缺的時候，怪獸鱗片常常會用來製作像樣的盔甲。',
+      tr: 'Bu zırhlar toprakta bulunan canavar kabuklarından yapıldı. Canavar kabukları, metal az bulunan bir kaynak olduğunda hatrı sayılır zırhlar yapılırdı.'
     }
   },
 
@@ -94,7 +109,7 @@ export default [
       de: 'Leichte elfische Metalle werden verwendet, um göttliche Kettenhemden herzustellen. Alte Legenden sagen, dass die ersten Sky Hemds ursprünglich aus weggeworfenen Rüstungsteilen entstanden sind, die früher von göttlichen Kreaturen getragen wurden.',
       es: 'Los metales ligeros élficos se usan para crear cotas de malla divinas. Las viejas leyendas dicen que las primeras Sky Mails fueron creados a partir de piezas de armadura desechadas que alguna vez fueron usadas por criaturas divinas.',
       vi: 'Kim loại Elvish nhẹ được sử dụng để tạo ra áo giáp lưới thần thánh. Truyền thuyết xưa nói rằng những giáp lưới đầu tiên được tạo ra từ những mảnh áo giáp bị vứt bỏ từng được mặc bởi các sinh vật thần thánh.',
-      nl: 'Lichte tover-metalen worden gebruikt om hemelse maliënkolders te maken. Oude legendes zeggen dat de eerste “Sky Mails” gemaakt waren van weggegooide harnas-onderdelen die ooit werden gedraagd door goddelijke wezens',
+      nl: 'Lichte tover-metalen worden gebruikt om hemelse maliënkolders te maken. Oude legendes zeggen dat de eerste “Sky Mails” gemaakt waren van weggegooide harnas-onderdelen die ooit werden gedraagt door goddelijke wezens.',
       it: 'I metalli leggeri Elvish sono usati per creare maglie metalliche divine. Antiche leggende dicono che i primi Sky Mails furono originariamente creati da parti di armature buttate ed un tempo indossate dalle creature divine.',
       ro: 'Metalul ușor al elfilor este utilizat pentru a crea zale divine. Legende vechi spun că primele zale au fost original create din bucăți de armură aruncată, cândva folosită de creaturi divine.'
     }
@@ -127,11 +142,10 @@ export default [
       de: 'In diese Rüstung wurden magische Runen geätzt, um zusätzlichen Schutz zu bieten. Einige Gelehrte glauben, dass die Runen auf allen Runen-Halbplattenrüstungen dazu gedacht sind in einem größeren, unentdeckten Ritual, zusammenzuwirken.',
       es: 'Runas mágicas fueron grabadas en esta armadura para proporcionar protección adicional. Algunos estudiosos creen que las runas en este tipo de armaduras rúnicas están destinadas a interactuar juntas en algún ritual más grande y aún por descubrir.',
       vi: 'Cổ ngữ ma thuật đã được khắc vào bộ giáp này để cung cấp thêm sự bảo vệ. Một số học giả tin rằng các cổ ngữ trên tất cả các áo giáp dùng để tương tác với nhau trong một số nghi lễ lớn hơn, chưa được khám phá.',
-      nl: 'Magische runes waren in dit harnas gestopt om extra bescherming te leveren. Sommige scholieren geloven dat de runes op alle "Runic Halfplate" harnassen bedoeld zijn om op elkaar in te werken in een of ander groter onontdekt ritueel.',
+      nl: 'Magische runen waren in dit harnas gestopt om extra bescherming te leveren. Sommige scholieren geloven dat de runen op alle “Runic Halfplate” harnassen bedoeld zijn om op elkaar in te werken in een of ander groter onontdekt ritueel.',
       it: 'Magiche rune sono state attaccate in questa armatura per ottenere protezione addizionale. Molti scolari credono che le rune su tutte le armature di questo tipo interagiscano tra loro in qualche grande e segreto rituale.',
       ro: 'Rune magice au fost gravate în această armură pentru a oferi un surplus de protecție. Câțiva savanți cred că runele de pe toate aceste armuri sunt menite să interacționeze unele cu celelalte într-un ritual mai larg, nedescoperit.',
       cs: 'Do tohoto brnění byly vyleptány magické runy, aby poskytovaly dodatečnou ochranu. Někteří učenci se domnívají, že runy na všech runových poloplátových zbrojích jsou určeny ke vzájemné interakci v nějakém větším, neobjeveném rituálu.'
-
     }
   },
 
@@ -145,11 +159,10 @@ export default [
       de: 'Übernatürliche Infernos wurden bei der Herstellung dieser Rüstung verwendet. Große Opfer wurden erbracht, um die Forderungen der teuflischen Kreaturen zu erfüllen, so dass einige wenige Schmiede mit den seltsamen Flammen schmieden konnten.',
       es: 'Se usaron llamas sobrenaturales en la fabricación de esta armadura. Se hicieron grandes sacrificios para apaciguar las demandas de las criaturas diabólicas de forma que así, algunos herreros pudieran forjar a través de estas extrañas llamas.',
       vi: 'Một ngọn lửa siêu nhiên đã được sử dụng trong việc chế tạo áo giáp này. Những sự hiến tế to lớn đã được thực hiện để xoa dịu những yêu cầu của các sinh vật quỷ dữ để một vài thợ rèn có thể rèn được ngọn lửa kỳ lạ.',
-      nl: 'Supernatuurlijke infernos waren gebruikt voor het maken van dit harnas. Grote offers werden gemaakt om de eisen van duivelse wezens te voldoen zodat een paar hoefsmeden kunnen smeden met de rare vlammen.',
+      nl: 'Supernatuurlijke inferno\'s waren gebruikt voor het maken van dit harnas. Grote offers werden gemaakt om de eisen van duivelse wezens te voldoen zodat een paar hoefsmeden kunnen smeden met de rare vlammen.',
       it: 'Gli inferni sovrannaturali furono usati nella creazione di questa armatura. Grandi sacrifici furono fatti per appacificare le creature demoniache affinché alcuni fabbri potessero forgiare con le strane fiamme.',
       ro: 'Focuri infernale supernaturale au fost folosite la forjarea acestei armuri. Mari sacrificii au fost făcute pentru a potoli cererile creaturilor diavolești, doar pentru ca câțiva fierari să poată forja cu niște flăcări stranii.',
       cs: 'Při výrobě tohoto brnění byla použita nadpřirozená pekla. Byly přinášeny velké oběti, aby se utišily požadavky ďábelských tvorů, aby pár kovářů mohlo kovat s podivnými plameny.'
-
     }
   },
 
@@ -188,5 +201,4 @@ export default [
       cs: 'Deathless zbroj byla vytvořena prvními králi a vůdci jako prostředek k zabránění smrtelným zraněním během první velké války. Věrni legendě tito králové a vůdci nezahynuli v bitvě; místo toho byli každý zavražděn ve spánku a jejich brnění byla ukradena. Techniky kování byly ztraceny časem, ale pro tento proces bylo zjevně nutné obrovské bohatství.'
     }
   }
-
 ]

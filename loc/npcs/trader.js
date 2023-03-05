@@ -4,12 +4,12 @@ export default {
       en: 'Welcome to the best goods around! You aren’t going to find a better deal than what I have for you; however, I hear that there is a special shop with fantastic items unlike anything I’ve ever seen. In the meanwhile, I have some spare coins and spare goods. Would you like to sell anything?',
       el: 'Καλώς όρισες στα καλύτερα αγαθά! Δεν θα βρείς καλύτερες προσφορές από αυτές που θα σου δώσω. Όμως, άκουσα ότι υπάρχει ένα ειδικό κατάστημα με φανταστικά αντικείμενα που δεν έχω ξαναδεί. Εν τω μεταξύ, έχω μερικά περισσευάμενα νομίσματα και αγαθά. Θα ήθελες να πουλήσει κάτι;',
       ru: 'Добро пожаловать! Тут вы найдете лучшие товары на этом миру! Хоть у меня и есть отличный товар, я слыхал о магазине с таинственными и мощными предметами, такие который я не когда не видел в своё жизни. Ну, а пока, у меня есть немного денег и немного товара, вы хотите что-то продать или купить?',
-      es: '¡Bienvenido a los mejores productos! No vas a encontrar una oferta mejor que la que tengo para ti; Sin embargo, escuché que hay una tienda especial con artículos fantásticos diferentes a todo lo que he visto. Mientras tanto, tengo algunas monedas de repuesto y productos de repuesto. ¿Te gustaría vender algo?',
+      es: '¡Bienvenido al negocio con los mejores productos! No vas a encontrar una oferta mejor que la que tengo para ti. Sin embargo, escuché que hay una tienda especial con artículos fantásticos diferentes a todo lo que he visto. Mientras tanto, tengo algunas monedas y productos de repuesto. ¿Te gustaría vender o comprar algo?',
       hi: 'चारों ओर सबसे अच्छा सामान के लिए आपका स्वागत है! मेरे पास आपके लिए जो कुछ भी है, उससे बेहतर सौदा खोजने के लिए आप नहीं जा रहे हैं; हालाँकि, मैं सुनता हूँ कि कुछ भी नहीं देखा है के विपरीत शानदार वस्तुओं के साथ एक विशेष दुकान है। इस बीच, मेरे पास कुछ अतिरिक्त सिक्के और अतिरिक्त सामान हैं। क्या आप कुछ भी बेचना चाहेंगे?',
       ko: '최고의 제품에 오신 것을 환영합니다! 당신은 내가 당신을 위해 가지고있는 것보다 나은 거래를 찾지 않을 것입니다. 그러나, 나는 이제까지 보았던 무엇이든지와 다른 훌륭한 항목과 함께 특별한 상점이 있다는 것을 들었다. 그 사이에, 나는 여분의 동전과 여분의 물건을 가지고있다. 아무것도 팔고 싶습니까?',
       de: 'Willkommen bei den besten Waren, die es gibt! Du wirst kein besseres Angebot finden als das, was ich für dich habe; aber ich höre, dass es einen speziellen Laden mit fantastischen Gegenständen gibt, wie ich sie noch nie gesehen habe. In der Zwischenzeit habe ich einige Ersatzmünzen und Ersatzwaren. Möchtest du etwas verkaufen?',
       fr: 'Bienvenue chez le commerçant avec les meilleurs produits du marché! Vous ne trouverez pas de meilleures offres que ce que j\'ai pour vous ; cependant, j\'ai entendu dire qu\'il y a un magasin spécial avec des articles fantastiques comme je n\'en ai jamais vu. En attendant, j\'ai des pièces et des biens de rechange. Voudriez-vous vendre quelque chose?',
-      pt: 'Seja bem-vindo aos melhores produtos nas redondezas! Você não vai encontrar um negócio melhor do que o que eu tenho para você, no entanto, eu ouço que há uma loja especial com itens fantásticos ao contrário de qualquer coisa que eu já vi. Enquanto isso, eu tenho algumas moedas de sobra e bens de reposição. Quer vender alguma coisa?',
+      pt: 'Bem-vindo aos melhores produtos! Você não vai encontrar um negócio melhor do que o que tenho para você; no entanto, ouvi dizer que há uma loja especial com itens fantásticos diferente de tudo que já vi. Enquanto isso, tenho algumas moedas e mercadorias de reposição. Você gostaria de vender alguma coisa?',
       nl: 'Welkom bij de beste goederen die er zijn! U zult geen betere deal vinden dan wat ik voor u heb, maar ik hoor dat er een speciale winkel is met fantastische artikelen die anders zijn dan wat ik ooit heb gezien. Intussen heb ik nog wat reserve munten en reserve goederen. Wilt u iets verkopen?',
       ro: 'Bine ai venit la cele mai bune obiecte din împrejurimi! Nu vei găsi o afacere mai bună decât ceea ce am eu pentru tine; cu toate acestea, am auzit că există un magazin special cu elemente fantastice, diferite de orice am văzut vreodată. Între timp, am niște monede și bunuri de rezervă. Îți place să vinzi ceva?',
       zh: '歡迎來到各地最好的商品！ 你不會找到比我給你更好的交易; 然而，我聽說有一個特別的商店，有很棒的物品，不像我見過的任何東西。 與此同時，我有一些備用硬幣和備用貨物。 你想要賣些什麼嗎？',
@@ -20,7 +20,7 @@ export default {
       it: 'Benvenuto nel miglior negozio di prodotti in circolazione! Non troverai un affare migliore di quello che ho per te; tuttavia, ho sentito che esiste un negozio speciale con articoli fantastici a differenza di qualsiasi cosa io abbia mai visto. Nel frattempo, ho delle monete e dei pezzi di ricambio. Vuoi vendere qualcosa?',
       tr: 'En iyi ürünlere hoş geldiniz! Size verdiğim fiyattan daha iyi bir fiyat bulamayacaksınız; ancak, şimdiye kadar gördüğüm hiçbir şeye benzemeyen harika eşyalara sahip özel bir dükkan olduğunu duydum. Bu arada, biraz fazladan param ve fazladan ürünlerim var. Herhangi bir şey satmak ister misin?',
       ja: '最高の商店へようこそ！ここら一帯で私に勝る商店は御座いません、是非ともご贔屓下さい。ですが、前代未聞の素晴らしい商品を販売しているスゴい店が何処かに在るとか無いとか。お客様がそちらに流れていってしまうまでの間は、こちらで承りましょう。何か売り物はございますか？',
-      cs: 'Vítejte u nejlepšího obchodníka v okolí! Nenajdete lepší nabídku než to, co pro vás mám; Slyšel jsem však, že existuje speciální obchod s fantastickými předměty, které se nepodobají ničemu, co jsem kdy viděl. Mezitím mám nějaké náhradní mince a náhradní zboží. Chtěli byste něco prodat?'
+      cs: 'Vítej u nejlepšího obchodníka v okolí! Nenajdeš lepší nikde ceny než to, co pro tebe mám já; Slyšel jsem však, že existuje speciální obchod s fantastickými předměty, na rozdíl od všeho, co jsem kdy viděl. Mezitím mám nějaké mince a zboží zboží navíc. Chceš něco prodat?'
     },
 
     choices: [{
@@ -29,7 +29,7 @@ export default {
       es: 'Muéstrame tus productos',
       ru: 'Покажи мне свои товары.',
       hu: 'Mutasd az áruidat',
-      pt: 'Mostra-me os teus produtos.',
+      pt: 'Mostra-me os seus produtos.',
       fr: 'Montrez moi vos articles',
       nl: 'Laat mij uw waren zien',
       de: 'Zeig mir deine Waren.',
@@ -39,7 +39,9 @@ export default {
       it: 'Mostrami le tue merci.',
       tr: 'Bana mallarını göster.',
       ja: '商品を見せて下さい。',
-      cs: 'Ukaž mi své zboží'
+      cs: 'Ukaz mi své zboží',
+      zh: '給我看看你的商品。',
+      ko: '당신의 물건을 보여주세요'
     }]
   }],
 
@@ -63,7 +65,7 @@ export default {
     it: 'Vendi i tuoi articoli.',
     tr: 'Eşyalarını sat',
     ja: '売るアイテムを選択して下さい。',
-    cs: 'Prodat své předměty'
+    cs: 'Prodej své zboží'
   },
 
   info: {
@@ -78,7 +80,7 @@ export default {
     fr: 'Pour vendre un objet, cliquez dessus avec le bouton droit de la souris ou faites-le glisser dans la fenêtre du commerçant.',
     nl: 'Om een artikel te verkopen, klik er met de rechtermuisknop op of sleep het naar het handelaarsvenster.',
     ro: 'Pentru a vinde un element, faceți clic-dreapta sau trageți-l în fereastra comerciantului.',
-    zh: '要賣物品，在物品上按右鍵或把它拖入到交易窗口中。',
+    zh: '要賣物品，請在物品上按shift+右鍵或把它拖入到交易欄中。',
     tr: 'Bir eşyayı satmak için Shift\'e basılı tutarak eşyaya sağ tıklayın veya eşyayı takas penceresine sürükleyip bırakın.',
     hu: 'Hogy eladj egy tárgyat, shift + jobbkattints rá, vagy húzd ide a Trader ablakba.',
     pl: 'Aby sprzedać przedmiot, kliknij shift+prawy przycisk myszy na przedmiot lub przenieś przedmiot na okienko kupcy.',
@@ -86,7 +88,7 @@ export default {
     vi: 'Để bán vật phẩm, nhấn shift-chuột phải hoặc kéo thả vào cửa sổ giao dịch.',
     it: 'Per vendere un oggetto, fai clic con il tasto destro del mouse o trascinalo nella finestra del commerciante.',
     ja: 'アイテムを売るには、Shiftキーを押しながら右クリックするか、トレーダーウィンドウへドラッグして下さい。',
-    cs: 'K prodání předmětu, shift + pravé tlačítko u myši nebo přetáhni předmět do okna obchodníka'
+    cs: 'Chcete-li předmět prodat, podržte shift a klepněte na ni pravým tlačítkem myši nebo ji přetáhněte do okna obchodníka.'
   },
 
   // Include punctuation and space.
@@ -110,7 +112,7 @@ export default {
     vi: 'Giá bán: ',
     it: 'Prezzo di vendita: ',
     ja: '売値: ',
-    cs: 'Prodejní cena: '
+    cs: 'Prodávající cena'
   },
 
   buy: {
@@ -124,7 +126,7 @@ export default {
     nl: 'Bent u in iets geïnteresseerd? Klik op een item om het te kopen.',
     ko: '관심이 있습니까? 항목을 클릭하여 구입하십시오.',
     hi: 'क्या आप किसी चीज में रुचि रखते हैं? इसे खरीदने के लिए किसी आइटम पर क्लिक करें।',
-    zh: '有感興趣的東西嗎？点击商品即可購買。',
+    zh: '有感興趣的東西嗎？點擊商品即可購買。',
     tr: 'İlginizi çeken bir şeyler var mı? Bir eşyayı almak isterseniz üstüne tıklayın.',
     hu: 'Látsz valamit, amit érdekesnek találsz? Kattints egy tárgyra hogy megvásárold.',
     pl: 'Jesteś czymś zainteresowany? Kliknij na przedmiot aby go kupić.',
@@ -132,6 +134,27 @@ export default {
     vi: 'Bạn có hứng thú với cái gì không? Nhấn vào vật phẩm để mua nó.',
     it: 'Sei interessato a qualcosa? Fai clic su un articolo per acquistarlo.',
     ja: '何か興味がありますか？クリックして購入して下さい。',
-    cs: 'Zajímatě něco? Klikni na předmět a kup ho'
+    cs: 'Zajímá tě něco? Kliknutím koupíš předmět'
+  },
+
+  refuse: {
+    en: 'The trader does not want this item',
+    fr: 'Le commerçant ne veut pas de cet objet',
+    tr: 'Tüccar bu eşyayı istemiyor',
+    ko: '상인은 해당 품목을 원하지않습니다'
+  },
+
+  select: {
+    en: 'Select an item to sell',
+    fr: 'Sélectionnez un objet à vendre',
+    tr: 'Satmak için bir eşya seç',
+    ko: '판매 할 물건을 고르세요'
+  },
+
+  name: {
+    en: 'Trader',
+    fr: 'Commerçant',
+    tr: 'Tüccar',
+    ko: '무역상'
   }
 }

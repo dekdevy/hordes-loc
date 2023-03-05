@@ -9,7 +9,10 @@ export default [
       de: 'Stöcke und abgebrochene Zweige werden von Lehrlingsmagiern zu Ausbildungszwecken verwendet.',
       vi: 'Gậy và cành cây gãy được sử dụng bởi các pháp sư tập sự cho mục đích truyền dạy.',
       it: 'Bastoni e ramoscelli rotti sono usati dai maghi apprendisti per scopi educativi.',
-      es: 'Los magos aprendices usan palos y ramitas rotas con fines educativos.'
+      es: 'Los magos aprendices usan palos y ramitas rotas con fines educativos.',
+      nl: 'Stokken en afgebroken takken worden gebruikt door beginnende magiërs voor educatieve doelen.',
+      zh: '木棒和斷掉的樹枝會被學徒法師當作學習工具來使用。',
+      tr: 'Çubuk ve kırık dallar çırak büyücüler tarafından eğitim amaçlı kullanılmıştır.'
     }
   },
 
@@ -23,7 +26,10 @@ export default [
       de: 'Dies ist ein beschädigter Kampfstab, der immer noch einen gewissen Nutzen für Anfänger von Magie hat.',
       vi: 'Đây là một trượng bị hư hỏng vẫn còn một số người sử dụng cho các pháp sư tập sự.',
       it: 'Questo è un battlestaff danneggiato che ha ancora qualche utilità per gli utenti magici principianti.',
-      es: 'Este es un bastón de batalla dañado que todavía tiene algún uso para los usuarios principiantes de magia.'
+      es: 'Este es un bastón de batalla dañado que todavía tiene algún uso para los usuarios principiantes de magia.',
+      nl: 'Dit is een beschadigde gevecht staf die nog steeds nut heeft voor beginnende magiërs.',
+      zh: '這種破損的法杖還有一些新手法師在使用。',
+      tr: 'Bu hasarlı savaş değneği başalngıç büyücüleri için halen biraz kullanımı bulunuyor.'
     }
   },
 
@@ -37,7 +43,10 @@ export default [
       de: 'Einige der ältesten Bäume werden verwendet, um knorrige Besenstiele herzustellen. Diese Waffen produzieren Zauber, um Feinde vom Schlachtfeld zu fegen.',
       vi: 'Một trong số những cây già nhất được sử dụng để tạo ra Gnarled Broomsticks. Những vũ khí này tạo ra các phép thuật để quét kẻ thù ra khỏi chiến trường.',
       it: 'Alcuni degli alberi più antichi vengono utilizzati per creare i Gnarled Broomsticks Queste armi producono incantesimi per spazzare via i nemici dal campo di battaglia.',
-      es: 'Algunos de los árboles más antiguos se utilizan para crear escobas nudosas. Estas armas producen hechizos para barrer a los enemigos del campo de batalla.'
+      es: 'Algunos de los árboles más antiguos se utilizan para crear escobas nudosas. Estas armas producen hechizos para barrer a los enemigos del campo de batalla.',
+      nl: 'Een paar van de oudste bomen worden gebruikt voor het maken om Gnarled Broomsticks te maken. Deze wapen produceren spreuken om vijanden van het slagveld af te vegen.',
+      zh: '一些最古老的樹被用來製造長掃帚。這些武器會產生法術將敵人掃出戰場。',
+      tr: 'Bazı eski ağaçlar "Gnarled Broomstick" yapımak için kullanılır. Bu silahlar savaş alanında düşmanları süpüren büyüler üretir.'
     }
   },
 
@@ -51,7 +60,10 @@ export default [
       de: 'Dies ist eine robuste Eichenwaffe für den Einsatz von Zwischenmagie.',
       vi: 'Đây là một cây sồi cứng cáp để thi triển phép thuật trung gian.',
       it: 'Questa è un\'arma di quercia robusta per lanciare magie intermedie.',
-      es: 'Esta es un arma de roble resistente para lanzar magia intermedia.'
+      es: 'Esta es un arma de roble resistente para lanzar magia intermedia.',
+      nl: 'Dit is een stevig oak wapen voor het oproepen van middelmatige magie.',
+      zh: '這是用於施展中級魔法的堅固橡木武器。',
+      tr: 'Bu sağlam meşe değnek orta derecede büyü yapmak içindir.'
     }
   },
 
@@ -65,7 +77,10 @@ export default [
       de: 'Dieser Zauberstab ist ein Geschenk der Mystiker. Dieser ist mit seltsamen Scherben eingebettet, welche die magischen Kräfte verstärken.',
       vi: 'Cây đũa phép này là một món quà từ những người thần bí được gắn với những mảnh vỡ kỳ lạ giúp tăng cường sức mạnh ma thuật.',
       it: 'Questa bacchetta è un dono dei mistici che è incastonato con strani frammenti che aumentano il potere magico.',
-      es: 'Esta varita es un regalo de los místicos que está incrustada con fragmentos extraños que mejoran el poder mágico.'
+      es: 'Esta varita es un regalo de los místicos que está incrustada con fragmentos extraños que mejoran el poder mágico.',
+      nl: 'Deze toverstaf is een cadeau van de Mystics wat ingebed is met vreemde scherven die de magische krachten verbeteren. ',
+      zh: '這根魔杖是來自秘客的禮物，裡面鑲嵌著可以增強魔力的奇異碎片。',
+      tr: 'Bu asa, büyülü gücü artıran garip parçalarla gömülü mistiklerden bir hediye.'
     }
   },
 
@@ -79,7 +94,10 @@ export default [
       de: 'Dieser ist aus den Knochen von Monstermagiern hergestellt, um die Zauberkraft zu verstärken.',
       vi: 'Trượng này được làm từ xương của các pháp sư quái vật để tăng sức mạnh ma thuật.',
       it: 'Questa bacchetta è un dono dei mistici che è incastonato con strani frammenti che aumentano il potere magico.',
-      es: 'Esto está hecho de los huesos de magos monstruos para aumentar el poder mágico.'
+      es: 'Esto está hecho de los huesos de magos monstruos para aumentar el poder mágico.',
+      nl: 'Dit is gemaakt van de botten van monsters magiërs om de magische krachten te vergroten.',
+      zh: '這是由怪獸法師的骨頭製成以增强魔法力量。',
+      tr: 'Bu, büyü gücünü arttırmak için canavar büyücülerin kemiklerinden yapılmıştır.'
     }
   },
 
@@ -93,7 +111,10 @@ export default [
       de: 'Dieser Stab ist mit Edelsteinen besetzt, die magische Kräfte speichern.',
       vi: 'Cây gậy này được nạm đá quý lưu trữ sức mạnh ma thuật.',
       it: 'Questa canna è tempestata di gemme che immagazzinano un potere magico.',
-      es: 'Esta vara está incrustada con gemas que almacenan poder mágico.'
+      es: 'Esta vara está incrustada con gemas que almacenan poder mágico.',
+      nl: 'Deze staaf is ingelegd met edelstenen die magische krachten opslaan.',
+      zh: '這把杖上鑲嵌著儲存魔力的寶石。',
+      tr: 'Bu asa büyülü gücü depolaması için değerli taşlarla kaplanmıştır.'
     }
   },
 
@@ -107,7 +128,10 @@ export default [
       de: 'Die geätzten Runen auf diesem Stab leuchten schwach, wenn Zauber gewirkt werden. Obwohl mehrere Magiergilden eindeutig glauben, dass die Runen den Zauberwirkungsprozess verstärken, ist die wahre Natur der Runen unbekannt.',
       vi: 'Các cổ ngữ khắc trên trượng này phát sáng mờ nhạt khi phép thuật được thi triển. Mặc dù một số hội pháp sư rõ ràng tin rằng các cổ ngữ gia tăng phép thuật, nhưng bản chất thực sự của các cổ ngữ vẫn chưa được biết.',
       it: 'Le rune incise su questo bastone si illuminano debolmente quando vengono lanciati gli incantesimi. Sebbene diverse corporazioni di maghi credano chiaramente che le rune aumentino il lancio dell\'incantesimo, la vera natura delle rune è sconosciuta.',
-      es: 'Las runas grabadas en este bastón brillan levemente cuando se lanzan hechizos. Aunque varios gremios de magos creen claramente que las runas aumentan el lanzamiento de hechizos, se desconoce la verdadera naturaleza de las runas.'
+      es: 'Las runas grabadas en este bastón brillan levemente cuando se lanzan hechizos. Aunque varios gremios de magos creen claramente que las runas aumentan el lanzamiento de hechizos, se desconoce la verdadera naturaleza de las runas.',
+      nl: 'De etst runen op deze staf gloeien zwak zodra spreuken opgeroepen worden. Hoewel meerdere magie gildes geloven dat de runen spel oproep vermogen vergroten, de ware natuur achter de runen is onbekend.',
+      zh: '當施法時，這根法杖上蝕刻的符文會發出微弱的光芒。雖然有幾個法師協會明確地認為符文可以增强施法能力，但符文的真實性質尚不清楚。',
+      tr: 'Bu değneğe kazılmış rünler büyü yapıldığında hafifçe parlarlar. Buna rağmen birçok büyücü loncaları bu rünlerin büyü yapmayı arttırdığına açıkça inanırlar, bu rünler gerçek doğası bilinmiyor.'
     }
   },
 
@@ -121,7 +145,8 @@ export default [
       de: 'Dieser Stab verwendet einen verzauberten Stein, um magische Energien zu kanalisieren und zu bündeln. Der Weg einen so besonderen Smaragd zu finden und der teure Zauberprozess machen es schwierig, diesen Stab herzustellen.',
       vi: 'Trượng này sử dụng một hòn đá phù phép để thi triển và tập trung năng lượng ma thuật. Quá trình tìm kiếm một viên ngọc lục bảo đặc biệt như vậy, cùng với quá trình phù phép đắt tiền, khiến trượng này có phần khó chế tạo.',
       it: 'Questo bastone usa una pietra incantata per incanalare e focalizzare energie magiche. Il processo di ricerca di uno smeraldo così speciale, insieme al costoso processo incantevole, rende questo bastone un po\' difficile da fabbricare.',
-      es: 'Este bastón usa una piedra encantada para canalizar y enfocar energías mágicas. El proceso de encontrar una esmeralda tan especial, junto con el costoso proceso de encantamiento, hace que este bastón sea algo difícil de elaborar.'
+      es: 'Este bastón usa una piedra encantada para canalizar y enfocar energías mágicas. El proceso de encontrar una esmeralda tan especial, junto con el costoso proceso de encantamiento, hace que este bastón sea algo difícil de elaborar.',
+      nl: 'Deze staf gebruikt een betoverde steen voor het kanaliseren en focussen van magische energy. Het proces om zo een magische smaragd te vinden, vergezeld met het dure betoveringsproces, zorgt ervoor dat deze staf redelijk moeilijk om de maken.'
     }
   },
 
@@ -135,7 +160,8 @@ export default [
       de: 'Dieser Stab besteht aus Dragonwood und verwendet Steine, die ursprünglich Drachengeschenke waren. Die in den Steinen enthaltenen Spuren drakonischer Kraft verstärken die Kraft der Magie.',
       vi: 'Trượng này được làm bằng Dragonwood và sử dụng những viên đá có nguồn gốc là quà tặng của rồng. Các dấu vết còn lại của sức mạnh hà khắc có trong tiềm năng ma thuật của đá.',
       it: 'Questo bastone è fatto di Dragonwood e usa pietre che erano originariamente doni di drago. Le tracce residue del potere draconico contenute nelle pietre accentuano la potenza della magia.',
-      es: 'Este bastón está hecho de Dragonwood y utiliza piedras que originalmente eran regalos de dragones. Los rastros residuales de poder draconico contenidos en las piedras componen la potencia de la magia.'
+      es: 'Este bastón está hecho de Dragonwood y utiliza piedras que originalmente eran regalos de dragones. Los rastros residuales de poder draconico contenidos en las piedras componen la potencia de la magia.',
+      nl: 'Deze staf is gemaakt van Dragonwood en gebruikt stenen die oorspronkelijk draak cadeaus waren. De overblijvende sporen van de draakse kracht die in de stenen zit mengt de magische potentie.'
     }
   },
 
@@ -149,7 +175,8 @@ export default [
       de: 'Der Stab wurde von Sterblichen aus Eis hergestellt, welches nur in der Unterwelt zu finden ist. Auch wenn die Konstruktionsmethoden fehlerhaft sind, können die Ergebnisse dennoch recht überzeugend sein.',
       vi: 'Frozen Greatstaff được tạo ra bởi những người phàm với băng chỉ có ở Địa ngục. Mặc dù các phương pháp chế tạo là thiếu sót, kết quả vẫn có thể khá mạnh mẽ.',
       it: 'Il Frozen Greatstaff è realizzato da mortali con ghiaccio trovato solo negli Inferi. Sebbene i metodi di costruzione siano imperfetti, i risultati possono essere ancora piuttosto potenti.',
-      es: 'El Frozen Greatsuff está hecho por mortales con hielo que sólo se encuentra en el inframundo. Aunque los métodos de construcción son defectuosos, los resultados aún pueden ser bastante poderosos.'
+      es: 'El Frozen Greatsuff está hecho por mortales con hielo que sólo se encuentra en el inframundo. Aunque los métodos de construcción son defectuosos, los resultados aún pueden ser bastante poderosos.',
+      nl: 'De Frozen Greatstaff is gemaakt door stervelingen met ijs dat enkel gevonden wordt in de onderwereld. Hoewel de constructie methodes gebrekkig zijn, kunnen de resultaten nogal krachtig zijn.'
     }
   },
 
@@ -163,7 +190,8 @@ export default [
       de: 'Dieser Stab ist aus Underwood gefertigt, das einem magischen Temperierungsprozess mit Hilfe von Unterweltflammen unterzogen wurde. Obwohl die Stäbe zweifellos von sterblichen Händen hergestellt wurden, scheint die Methode zur Gewinnung der Unterweltflammen ein mit der Zeit verlorenes Geheimnis zu sein.',
       vi: 'Trượng này được làm từ Underwood, trải qua quá trình ủ ma thuật bằng cách sử dụng Ngọn lửa địa ngục. Mặc dù các trượng chắc chắn được chế tạo bằng bàn tay phàm trần, phương pháp để có được Ngọn lửa địa ngục dường như là một bí mật bị mất theo thời gian.',
       it: 'Questo bastone è composto da Underwood che ha subito un processo di tempera magica usando le Underworld Flames. Anche se il bastone è stato senza dubbio realizzato da mani mortali, il metodo per ottenere un Underworld Flames sembra essere un segreto perso nel tempo.',
-      es: 'Este bastón está hecho de Underwood sometida a un proceso de templado mágico utilizando Underworld Flames. Aunque el personal fue indudablemente creado por manos mortales, el método para obtener el Internal Staff parece ser un secreto perdido en el tiempo.'
+      es: 'Este bastón está hecho de Underwood sometida a un proceso de templado mágico utilizando Underworld Flames. Aunque el personal fue indudablemente creado por manos mortales, el método para obtener el Internal Staff parece ser un secreto perdido en el tiempo.',
+      nl: 'Deze staf is gemaakt van Underwood die een magische tempering proces is ondergaan met behulp van onderwereld vlammen. Hoewel de staven ongetwijfeld gemaakt zijn met sterfelijke handen, is de methode om de vlammen te krijgen een geheim dat voorbij is gegaan met de tijd.'
     }
   },
 
@@ -177,7 +205,8 @@ export default [
       de: 'Der Stab werden mit Höllenfeuer gebaut, die von schelmischen Teufeln erzeugt werden. Obwohl der Prozess zur Schaffung eines solchen Stabes mysteriös ist, ist es nicht der Preis, der von den beteiligten Teufeln verlangt wird.',
       vi: 'Hellfire Greatstaffs được chế tạo với lửa địa ngục được cung cấp bởi những con quỷ tinh quái. Mặc dù quá trình tạo ra một trượng như thế này là bí ẩn, nhưng mức giá chính xác của những con quỷ liên quan là không.',
       it: 'Gli Hellfire Greatstaffs sono costruiti con le fiamme dell\'inferno fornite dai diavoli dispettosi. Sebbene il processo per creare uno staff come questo sia misterioso, il prezzo richiesto dai diavoli coinvolti non lo è.',
-      es: 'Los Hellfire Greatstaffs están construidos con fuegos infernales proporcionados por demonios traviesos. Aunque el proceso para crear un bastón como este es misterioso, el precio exigido por los demonios involucrados no lo es.'
+      es: 'Los Hellfire Greatstaffs están construidos con fuegos infernales proporcionados por demonios traviesos. Aunque el proceso para crear un bastón como este es misterioso, el precio exigido por los demonios involucrados no lo es.',
+      nl: 'Hellfire Greatstaffs zijn gemaakt met hellevuur bevoorraad door ondeugende duivels. Hoewel de wijze om dit soort staven te maken mysterieus is, is de gevraagde prijs van de duivels niet.'
     }
   },
 
@@ -191,7 +220,8 @@ export default [
       de: 'Diese Art von Stab ist nach dem Vorbild alter Texte gestaltet. Ein Teil des Herstellungsprozesses erfordert Hunderte von frommen Wesen, um Segnungen für den Stab durch bestimmte Gottheiten zu erbitten.',
       vi: 'Loại trượng này được mô phỏng từ các văn bản cổ xưa. Một phần của quá trình chế tạo đòi hỏi hàng trăm chúng sinh sùng đạo để yêu cầu phước lành cho trượng bởi các vị thần cụ thể',
       it: 'Questo tipo di bastone è modellato su testi antichi. Parte del processo di creazione richiede che centinaia di esseri devoti richiedano benedizioni al personale da parte di divinità specifiche.',
-      es: 'Este tipo de bastón está modelado a partir de textos antiguos. Parte del proceso de elaboración requiere que cientos de seres devotos soliciten bendiciones al bastón por parte de deidades específicas.'
+      es: 'Este tipo de bastón está modelado a partir de textos antiguos. Parte del proceso de elaboración requiere que cientos de seres devotos soliciten bendiciones al bastón por parte de deidades específicas.',
+      nl: 'Dit soort staf is gemodelleerd van eeuwenoude teksten. Delen van het maak proces vereist honderden vastberaden wezen om de zegen van specifieke goden te krijgen voor de staf.'
     }
   },
 
@@ -205,7 +235,8 @@ export default [
       de: 'Dieser seltsame Stab nutzt Kristalle aus dem Realm of Madness, um die wilde Magie in der Natur zu verstärken. Die Kristalle sind der zentrale Bestandteil dieses Stabes.',
       vi: 'Trượng kỳ lạ này sử dụng các tinh thể từ Realm of Madness để tăng cường ma thuật hoang dã trong tự nhiên. Các tinh thể là thành phần trung tâm của trượng này.',
       it: 'Questo strano bastone utilizza cristalli del Realm of Madness per migliorare le magie selvagge in natura. I cristalli sono il componente centrale di questo bastone.',
-      es: 'Este extraño bastón utiliza cristales del Realm of Madness para mejorar la magia salvaje en la naturaleza. Los cristales son el componente central de este bastón.'
+      es: 'Este extraño bastón utiliza cristales del Realm of Madness para mejorar la magia salvaje en la naturaleza. Los cristales son el componente central de este bastón.',
+      nl: 'Deze rare staf gebruikt kristallen van de Realm of Madness om de wilde magie te verbeteren in de natuur. De kristallen zijn de centrale component van deze staf.'
     }
   },
 
@@ -219,7 +250,8 @@ export default [
       de: 'Das Herz einer ältesten Hexe verleiht der Magie dieses Stabes Kraft. Verbotene Kräfte belebten das schlagende Herz wieder, was dazu führt, dass der Stab symbolisch eine Darstellung der Untoten verkörpert.',
       vi: 'Trái tim của một phù thủy già mang sức mạnh kỳ diệu của trượng này. Sức mạnh bị cấm làm sống lại trái tim đang đập, khiến cho các biểu tượng trên trượng tượng trưng cho một đại diện của xác sống.',
       it: 'Il cuore di una strega anziana alimenta la magia di questo bastone. I poteri proibiti hanno rianimato il cuore pulsante, facendo sì che il bastone incarichi simbolicamente una rappresentazione dei non morti.',
-      es: 'El corazón de una bruja mayor alimenta la magia de este bastón. Los poderes prohibidos reanimaron el corazón que late, lo que hace que el bastón encarne simbólicamente una representación de los muertos vivientes.'
+      es: 'El corazón de una bruja mayor alimenta la magia de este bastón. Los poderes prohibidos reanimaron el corazón que late, lo que hace que el bastón encarne simbólicamente una representación de los muertos vivientes.',
+      nl: 'Het hart van een oude heks geeft kracht aan deze staf. Verboden krachten reanimeren het kloppende hart wat ervoor zorgt dat de staf op een symbolische wijze de belichaming van de dood representeert.'
     }
   },
 
@@ -233,7 +265,8 @@ export default [
       de: 'Deathweavers sind Relikte, die die Entstehung der großen Barriere überlebt haben. Diese seltsamen Stäbe sind nicht von dieser Welt.',
       vi: 'Deathweavers là những thánh tích đã tồn tại sau khi tạo ra Great Barrier. Những trượng kỳ lạ không phải của thế giới này.',
       it: 'I Deathweavers sono reliquie sopravvissute alla creazione della Grande Barriera. Questi strani bastoni non sono di questo mondo.',
-      es: 'Los Deathweavers son reliquias que han sobrevivido a la creación de la Gran Barrera. Estos extraños bastones no son de este mundo.'
+      es: 'Los Deathweavers son reliquias que han sobrevivido a la creación de la Gran Barrera. Estos extraños bastones no son de este mundo.',
+      nl: 'Deathweavers zijn relikwieën die de creatie van de Great Barrier overleefd hebben. Deze vreemde staven zijn niet van deze wereld.'
     }
   }
 

@@ -8,7 +8,10 @@ export default [
       it: 'Le campane sono spesso usate come simbolo di devozione verso una divinità scelta. L\'interno di questa campana ha un\'iscrizione d\'argento intarsiata, ma la traduzione dell\'iscrizione è andata perduta nel tempo.',
       ro: 'Clopotele sunt deseori văzute ca pe un simbol al dedicării față de o zeitate aleasă. Interiorul acestui clopot are o inscripție de argint gravată, dar traducerea acesteia a fost pierdută în timp.',
       hu: 'A kis harangokot gyakran használják a lelkesedés szimbólumaiként egy választott istenség felé. Ennek a csengőnek ezüsttel berakott felirat van a belsején, de a fordítás már rég az enyészeté.',
-      nl: 'Klokken zijn vaak gebruikt als een symbool van toewijding naar een gekozen godheid. de interieur van deze klok heeft een ingelegde zilveren inscriptie, maar de vertaling van deze inscriptie is verloren gegaan in de tijd.'
+      nl: 'Klokken zijn vaak gebruikt als een symbool van toewijding naar een gekozen godheid. de interieur van deze klok heeft een ingelegde zilveren inscriptie, maar de vertaling van deze inscriptie is verloren gegaan in de tijd.',
+      ko: '벨은 선택받은 사람의 상징으로도 알려진다. 이 은으로 만들어진 벨안에 문자가 있지만 이 문자가 무엇을 뜻하는지는 아무도 모른다.',
+      zh: '鐘常通常視為對所選神靈祈願的象徵，鐘的內部鑲嵌著銀製文字，但是關於解讀這類文字的方式已經失傳。',
+      tr: 'Çanlar genelde seçilmiş bir tanrıya bağlılık simgesidir. Bu çanın iç kısmında gümüş işlemeli bir yazıt bulunuyor, ancak bu yazıtın çevirisi zaman içinde kayıp olmuş.'
     }
   },
   {
@@ -19,7 +22,10 @@ export default [
       ru: 'Окаменевшие яйца монстров часто интерпретируются как символы долголетия. Однако письменных записей об этих существах больше не существует.',
       ro: 'Ouăle de monstru fosilizate sunt deseori considerate un simbol al longevității. În orice caz, nu există dovezi scrise că aceste creaturi ar fi existat și în timpuri de demult.',
       hu: 'A megkövült szörnytojásokat gyakran a hosszú élet szimbólumaiként értelmezik. Másfelől viszont, nincsen írásos bizonyíték ezen lények létezésére a régmúltban.',
-      nl: 'Versteende monstereieren zijn vaak geïnterpreteerd als symbolen van levensduur. Echter, bestaan er geen schriftelijke verslagen van deze wezens in de afgelopen tijd. '
+      nl: 'Versteende monstereieren zijn vaak geïnterpreteerd als symbolen van levensduur. Echter, bestaan er geen schriftelijke verslagen van deze wezens in de afgelopen tijd. ',
+      ko: '화석이된 몬스터의 알은 장수의 상징이기도 합니다. 하지만 최근들어 이 알에서 깨어난 생명체는 없다고 합니다.',
+      zh: '石化的怪獸蛋經常會被當成是長壽的象徵。然而，沒有跡象表明這類生物存在於近代。',
+      tr: 'Fosilleşmiş canavar yumurtaları genelde uzun ömürlülüğün simgesi olarak yorumlanır. Ancak bu canlıların son zamanlarda bulunduğuna dair yazılı kaynak yok.'
     }
   },
   {
@@ -30,7 +36,10 @@ export default [
       ru: 'Оркские племена часто держат черепа достойных врагов в знак уважения. Этот череп украшают татуировки, символизирующие силу, которой враг обладал в течение жизни.',
       ro: 'Triburile de orci deseori păstrează craniile celor vretnici ca pe un semn de respect. Acest craniu este decorat cu tatuaje ce simbolizează puterea pe care individul a avut-o în timpul vieții.',
       hu: 'Ork törzsek gyakran tartják meg méltó ellenfeleik koponyáit a tisztelet jeléül. Ez a tetoválásokkal díszített koponya szimbolizálja az ellenfél életében valaha volt erejét.',
-      nl: 'Orkstammen houden vaak de schedels van waardige vijanden als een teken van respect. Deze schedel is vesierd met tatoeages die kracht symboliseren van de vijand tijdens het leven had.' // Not completely sure if this is 100% correct, Might want to have another dutch person check over this one.
+      nl: 'Orkstammen houden vaak de schedels van waardige vijanden als een teken van respect. Deze schedel is vesierd met tatoeages die kracht symboliseren van de vijand tijdens het leven had.', // Not completely sure if this is 100% correct, Might want to have another dutch person check over this one.
+      ko: '오크족은 휼륭한 그들의 동족의 두개골을 존경의 표시로 여깁니다. 이 두개골은 두개골의 주인의 힘을 나타내는 타투가 그려져있습니다.',
+      zh: '獸人部落經常會保存死去戰友的頭骨以示對他們的尊重。這種被紋身過的頭骨象徵著它生前的力量。',
+      tr: 'Ork kabileleri çoğunlukla layık düşmanlarının kafataslarını saygı işareti olarak saklarlar. Bu kafatası düşmanlarının yaşadığı zaman ki gücünü simgelemesi için süslü dövmelerle süslenmiş.'
     }
   },
   {
@@ -41,7 +50,10 @@ export default [
       ru: 'Флаги, поднятые с высот военных кораблей, назывались вымпелами. Этот вымпел был среди разбитых военных кораблей, которые первыми отправились в Headless Landing.',
       ro: 'Steagurile atârnate în vârfurile navelor se numeau fanioane. Această navă fanion a fost printre primele nave de război care au călătorit spre Headless Landing.',
       hu: 'A hadihajók tetején lebegő zászlókat lobogóknak hívjuk. Ez a lobogó az első Headless Landingre utazott hajók roncsai között volt.',
-      nl: 'Vlaggen die vanaf de toppen van oorlogsschepen werden gevlogen werden wimpels genoemd. Deze scheepswimpel was één van de verwoeste oorlogsschepen die voor het eerst naar headless landing reisden'
+      nl: 'Vlaggen die vanaf de toppen van oorlogsschepen werden gevlogen werden wimpels genoemd. Deze scheepswimpel was één van de verwoeste oorlogsschepen die voor het eerst naar headless landing reisden',
+      ko: '전투용 선박에 달려있는 깃발은 Pennant 라고 불렸습니다. 이 Ship pennant 는 Headless에 처음으로 도착한 배의 깃발입니다.',
+      zh: '這種在戰船上方飄揚的旗子被稱為幡。這面船幡旗是最早前往Headless Landing的失事戰船上之一。',
+      tr: 'Savaş gemilerinin tepesinde dalgalanan bayraklara flama adı verilir. Bu bayrak, Headless Landing\'e seyahat eden ilk geminin harabelerinin arasındaydı.'
     }
   },
   {
@@ -52,7 +64,10 @@ export default [
       ru: 'Магов часто создавали альтернативные методы приобретения маны во времена нехватки. Этот камень был создан во время Аrcane Crisis - времена, когда сети маны находились в состоянии крайнего стресса.',
       ro: 'Magicienii au creat metode alternative de a achiziționa mană în timpul sărăciei. Această mărgea a fost creată în timpul Arcane Crisis, un timp în care rețelele de mană erau supuse unui stres extrem.',
       hu: 'Mágusok alternatív módjait készítették el a mana beszerzésének hiány esetén. Ez az üveggolyó a Arcane Crisis idején készült, akkor mikor a mana hálózatok extrém terhelés alatt voltak.',
-      nl: 'Magiërs creëerden verschillende methodes om mana te verwerven in tijden van schaarste. Deze marmer is gemaakt tijdens de Arcane Crisis, een tijd waar mana netwerken onder extreme druk stonden.'
+      nl: 'Magiërs creëerden verschillende methodes om mana te verwerven in tijden van schaarste. Deze marmer is gemaakt tijdens de Arcane Crisis, een tijd waar mana netwerken onder extreme druk stonden.',
+      ko: '마나가 부족한 시기에 마법사들은 마나를 공급할수 있는 수단을 만들었습니다, 이 구슬은 먼 옛날 마나의 흐름이 원활하지 않을때 만들어졌습니다.',
+      zh: '法師們創造了在缺乏魔力時獲得魔力的替代方法。這種藍石是在奧術危機時期產生的，當時的魔力來源正處於極端緊繃的狀態。',
+      tr: 'Büyücüler kıtlık zamanlarında mana elde etmek için alternatif yöntemler oluşturdular. Bu mermer mana şebekelerinin büyük bir gerilimde olduğu Arcane krizinde oluşturuldu.'
     }
   }
 ]
