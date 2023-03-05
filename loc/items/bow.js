@@ -15,7 +15,8 @@ export default [
       ro: 'Acest arc este o creație improvizată. Lemnul nu reprezintă o resursă bogată în anumite zone, de aceea localnicii folosesc uneori materiale la îndemână pentru a crea arme ca aceasta.',
       pt: 'Este arco é uma criação improvisada. Madeira não é um recurso abundante em algumas regiões, então os habitantes às vezes usam os materiais disponíveis para criar armas como esta.',
       zh: '這是個應急用的弓。有些地區並沒有豐富的木頭，因此有些居民會使用手邊的材料來製造此類武器。',
-      tr: 'Bu yay derme çatma bir eser. Odun bazı bölgelerde bol bol bulunmaz, bu yüzden oranın sakinleri ellerindeki malzemelerle bu tip silahlar üretir.'
+      tr: 'Bu yay derme çatma bir eser. Odun bazı bölgelerde bol bol bulunmaz, bu yüzden oranın sakinleri ellerindeki malzemelerle bu tip silahlar üretir.',
+      cs: 'Tento luk je provizorní výtvor. Dřevo není v některých oblastech bohatým zdrojem, takže obyvatelé někdy používají materiály, které mají k dispozici, k výrobě zbraní, jako je tato.'
     }
   },
 
@@ -35,7 +36,8 @@ export default [
       ro: 'Astfel de arcuri sunt concepute pentru arcași începători ca să-și perfecționeze abilitățile.',
       pt: 'Arcos como esse são feitos para que arqueiros iniciantes aprimorem suas habilidades.',
       zh: '這些弓是為了初級弓箭手磨練他們的技巧製作而成。',
-      tr: 'Bu tip yaylar yeni okçuların yeteneklerini bileylemesi için üretildi.'
+      tr: 'Bu tip yaylar yeni okçuların yeteneklerini bileylemesi için üretildi.',
+      cs: 'Luky, jako jsou tyto, jsou vyrobeny pro začínající lukostřelce, aby zdokonalili své dovednosti.'
     }
   },
 
@@ -55,7 +57,8 @@ export default [
       ro: '"Curved Shortbows" sunt în principal produse pentru a vâna animalele sălbatice locale.',
       pt: 'O "Curved Shortbow" é produzido principalmente para a caça de vida selvagem local.',
       zh: '短曲弓經常被製作來狩獵當地的野獸。',
-      tr: '"Curved Shortbow" çoğunlukla yerel yaban hayatı için üretilir.'
+      tr: '"Curved Shortbow" çoğunlukla yerel yaban hayatı için üretilir.',
+      cs: 'Zakřivené krátké luky se většinou vyrábějí pro lov místní zvěře.'
     }
   },
 
@@ -75,7 +78,8 @@ export default [
       ro: 'Acest tip de arc este o armă standard aleasă de aventurieri.',
       pt: 'Este tipo de arco é a arma padrão escolhida pelos aventureiros.',
       zh: '這種類型的弓是冒險者的標準選擇。',
-      tr: 'Bu tip yaylar maceracılar için standart bir silah seçimidir.'
+      tr: 'Bu tip yaylar maceracılar için standart bir silah seçimidir.',
+      cs: 'Tento typ luku je standardní zbraní pro dobrodruhy.'
     }
   },
 
@@ -95,7 +99,8 @@ export default [
       ro: '"Longbows" sunt proiectate ca arme de război.',
       pt: 'Os "Longbows" são projetados para serem armas de guerra.',
       zh: '長弓被設計於戰爭中。',
-      tr: 'Uzunyaylar savaş silahı olmak üzere tasarlandı.'
+      tr: 'Uzunyaylar savaş silahı olmak üzere tasarlandı.',
+      cs: 'Dlouhé luky jsou navrženy jako válečné zbraně.'
     }
   },
 
@@ -115,7 +120,8 @@ export default [
       ro: 'Acest arc este creat din oase de monstru pentru a produce extra rezistență și putere.',
       pt: 'Esse arco é construído com ossos de monstros para ter mais resistência e poder extra.',
       zh: '這把弓是從怪獸的骨頭製作而成以增加彈性及力量。',
-      tr: 'Bu yay fazladan güç ve dayanıklılık canavar kemikleri kullanılarak üretildi.'
+      tr: 'Bu yay fazladan güç ve dayanıklılık canavar kemikleri kullanılarak üretildi.',
+      cs: 'Tento luk je vyroben z kostí monster, aby produkoval extra odolnost a sílu.'
     }
   },
 
@@ -135,7 +141,8 @@ export default [
       ro: 'Meșterii elfi au pus o atenție deosebită în procesul de creare al arcurilor lor, iar arcașii Elfi au o reputație cu care se mândresc în timpul luptelor din acest motiv.',
       pt: 'Os artesãos élficos colocam um cuidado primoroso em seus arcos durante o processo de confecção, e os arqueiros élficos têm uma reputação de orgulho em tempos de guerra por um motivo.',
       zh: '精靈工匠細心製作的弓，所以精靈弓箭手之所以在戰爭中有響亮的名聲是有原因的。',
-      tr: 'Elf zanaatkarlar yaylarının üretim sürecinde hassas bir dikkat koydular. Ve Elf okçuların savaş zamanında itibarlı bir onurlarının olmasının bir nedeni var.'
+      tr: 'Elf zanaatkarlar yaylarının üretim sürecinde hassas bir dikkat koydular. Ve Elf okçuların savaş zamanında itibarlı bir onurlarının olmasının bir nedeni var.',
+      cs: 'Elfští řemeslníci věnují během procesu výroby svým lukům vynikající péči a elfští lukostřelci mají z nějakého důvodu v dobách války hrdou pověst.'
     }
   },
 
@@ -155,7 +162,8 @@ export default [
       ro: 'Astfel de arcuri sunt arme excepționale ce au fost create de maeștrii meșteri uitați. Aceste arcuri sunt de obicei pasate de la o generație la alta.',
       pt: '"Ancient Bows" são armas excepcionais que foram projetadas por mestres artesãos esquecidos. Esses arcos são frequentemente passados de uma geração para outra.',
       zh: '古代弓是由被遺忘的工匠大師所製造的理想武器。這些弓常常會由上一代傳至下一代。',
-      tr: 'Antik yaylar unutulmuş zanaatkarlar tarafında tasarlanmış olağanüstü silahardır. Bu yaylar sık sık nesilden nesile geçerler.'
+      tr: 'Antik yaylar unutulmuş zanaatkarlar tarafında tasarlanmış olağanüstü silahardır. Bu yaylar sık sık nesilden nesile geçerler.',
+      cs: 'Starověké luky jsou výjimečné zbraně, které navrhli zapomenutí mistři řemeslníci. Tyto luky se často předávají z jedné generace na druhou.'
     }
   },
 
@@ -172,7 +180,8 @@ export default [
       it: 'Questi archi furono sviluppati in risposta a mostri che indossavano armature.',
       nl: 'Deze bogen zijn ontwikkeld om pantser dragende monsters tegen te gaan.',
       ro: 'Aceste arcuri au fost dezvoltate ca reacție împotriva monștrilor ce poartă armură.',
-      pt: 'Esses arcos foram desenvolvidos em resposta a monstros que usam armaduras.'
+      pt: 'Esses arcos foram desenvolvidos em resposta a monstros que usam armaduras.',
+      cs: 'Tyto luky byly vyvinuty jako reakce na monstra nosící brnění.'
     }
   },
 
@@ -189,7 +198,8 @@ export default [
       it: 'Questo design dell\'arco è meccanicamente più efficiente del longbow. La decorazione in argento è una testimonianza dell\'abilità richiesta per realizzare un arco così fine.',
       nl: 'Dit boog ontwerp is meer mechanisch efficiënt dan de Longbow. Het unieke patroon van zilver is een testament van de handmanschap die vereist is om zo een fijne boog te maken.',
       ro: 'Acest model de arc este mai eficient mecanic decât "Longbow". Modelul unic de argint decorativ este un testament al măiestriei necesare construirii unui astfel de arc rafinat.',
-      pt: 'Essa arquiterura de arco é mecanicamente mais eficiente do que o "Longbow". O padrão único decorativo com a prata é a prova da habilidade necessária para fazer um arco tão fino.'
+      pt: 'Essa arquiterura de arco é mecanicamente mais eficiente do que o "Longbow". O padrão único decorativo com a prata é a prova da habilidade necessária para fazer um arco tão fino.',
+      cs: 'Tato konstrukce luku je mechanicky účinnější než dlouhý luk. Jedinečný vzor dekorativního stříbra je důkazem řemeslné zručnosti potřebné k výrobě tak jemné mašle.'
     }
   },
 
@@ -206,7 +216,8 @@ export default [
       it: 'Archi come questo erano precedentemente di proprietà di assassini che avevano apportato modifiche per aumentare drasticamente l\'efficienza. Gli assassini modificano regolarmente le loro armi per raggiungere prestazioni ottimali',
       nl: 'Bogen zoals deze waren vroeger eigendom van sluipmoordenaars die modificaties hebben gemaakt wat de efficiëntie drastisch verhoogde. Sluipmoordenaars passen regelmatig hun wapens aan om optimaal te kunnen presteren.',
       ro: 'Arcurile de acest fel au fost deținute anterior de asasini ce au făcut modificări drastice pentru a spori eficiența. Asasinii modifică în mod regulat armele lor pentru a ajunge la o performanță optimă.',
-      pt: 'Arcos como esse pertenceram a assassinos que faziam modificações para aumentar drasticamente a eficiência. Os assassinos modificam regularmente suas armas para alcançar o desempenho ideal.'
+      pt: 'Arcos como esse pertenceram a assassinos que faziam modificações para aumentar drasticamente a eficiência. Os assassinos modificam regularmente suas armas para alcançar o desempenho ideal.',
+      cs: 'Luky, jako je tento, byly dříve ve vlastnictví vrahů, kteří provedli úpravy za účelem drastického zvýšení účinnosti. Vrazi pravidelně upravují své zbraně, aby dosáhli optimálního výkonu.'
     }
   },
 
@@ -223,7 +234,8 @@ export default [
       it: 'Archi come questo sono stati fatti da incendi infernali forniti da creature diaboliche. Questi tipi di archi sono rari a causa del prezzo finale richiesto per tali operazioni e acquisizioni malvagie.',
       nl: 'Bogen zoals deze werden gemaakt van het hellevuur dat duivelse wezens bevoorraadden. Dit soort bogen zijn zeldzaam wegens de ultieme prijs die vereist is voor zulke gestoorde transacties en overnames.',
       ro: 'Astfel de arcuri au fost create cu ajutorul focurilor iadului furnizate de creaturi diavolești. Aceste tipuri de arcuri sunt rare din cauza prețului final cerut pentru astfel de tranzacții și achiziții blestemate.',
-      pt: 'Arcos como este foram feitos de fogos do inferno fornecidos por criaturas diabólicas. Esses tipos de arcos são raros por causa do preço final exigido para tais trocas e aquisições perversas.'
+      pt: 'Arcos como este foram feitos de fogos do inferno fornecidos por criaturas diabólicas. Esses tipos de arcos são raros por causa do preço final exigido para tais trocas e aquisições perversas.',
+      cs: 'Luky, jako je tento, byly vyrobeny z pekelných ohňů, které poskytují ďábelská stvoření. Tyto druhy luků jsou vzácné kvůli nejvyšší ceně požadované pro takovéto ničemné transakce a akvizice.'
     }
   },
 
@@ -240,7 +252,8 @@ export default [
       it: 'Questo arco era inondato dalle fiamme di una fenice e raffreddato nel cielo notturno. Gli archi creati in questo modo sono talvolta impregnati di caratteristiche magiche extra dal fuoco della fenice.',
       nl: 'Dit boog is gedoopt in de vlammen van een feniks en gekoold in de lucht van de nacht. Bogen die gecreëerd zijn op deze wijze zijn soms gefuseerd met extra magische karakteristieken vanwege het feniksvuur.',
       ro: 'Acest arc a fost îmbăiat în flăcările unei păsări Phoenix iar apoi răcit sub cerul nopții. Arcurile create în acest fel sunt uneori impregnate cu caracteristici magice extra datorate focului phoenix.',
-      pt: 'Este arco foi banhado pelas chamas de uma fênix e resfriado no céu noturno. Os arcos criados dessa maneira às vezes são imbuídos de características mágicas extras do fogo da fênix.'
+      pt: 'Este arco foi banhado pelas chamas de uma fênix e resfriado no céu noturno. Os arcos criados dessa maneira às vezes são imbuídos de características mágicas extras do fogo da fênix.',
+      cs: 'Tento luk se koupal v plamenech fénixe a chladil na noční obloze. Luky vytvořené tímto způsobem jsou někdy prodchnuty zvláštními magickými vlastnostmi z ohně fénixů.'
     }
   },
 
@@ -257,7 +270,8 @@ export default [
       it: 'I Widowmakers sono archi viventi che legano con l\'utente. I mostri potenti usano un processo mistico per creare i Widowmakers; l\'arma risultante può essere notevolmente gelosa e invogliare l\'utente a non usare nessun\'altra arma distruggendo i nemici con una vasta esperienza di battaglia.',
       nl: 'Widowmakers zijn levende bogen die zich hechten met hun gebruikers. Machtige monsters gebruiken een mystiek proces om een Widowmaker te maken; het resulterende wapen kan ongelofelijk jaloers zijn en het kan zijn dragen overtuigen geen enkel ander wapen te gebruiken als het om het vernietigen van vijanden gaat die grote hoeveelheden gevechtservaring hebben.',
       ro: 'Widowmakers sunt arme vii care se leagă de utilizator. Monștrii puternici folosesc un proces mistic pentru a crea Widowmakers; arma rezultată poate fi remarcabil geloasă și ispitește utilizatorul spre a nu mai folosi nicio altă armă, prin a distruge inamicii cu cunoștiințe sale vaste de experiență de luptă.',
-      pt: 'Os "Widowmakers" são arcos que criam vínculo e se unem ao usuário. Monstros poderosos usam um processo místico para criar "Widowmakers"; a arma resultante pode ser extremamente ciumenta e induzir o usuário a não usar nenhuma outra arma, destruindo inimigos com vasta experiência em batalha.'
+      pt: 'Os "Widowmakers" são arcos que criam vínculo e se unem ao usuário. Monstros poderosos usam um processo místico para criar "Widowmakers"; a arma resultante pode ser extremamente ciumenta e induzir o usuário a não usar nenhuma outra arma, destruindo inimigos com vasta experiência em batalha.',
+      cs: 'Vdovy jsou živé luky, které se spojují s uživatelem. Silná příšery používají mystický proces k vytváření vdovců; výsledná zbraň může být pozoruhodně žárlivá a lákat uživatele, aby nepoužíval žádnou jinou zbraň, ničením nepřátel s obrovskou hloubkou zkušeností z bitvy.'
     }
   },
 
@@ -274,7 +288,8 @@ export default [
       it: 'Questi archi sono rari a causa della lunghezza e del metodo del processo di forgiatura; gli archi devono essere notevolmente rialzato per garantire che ogni fulmine possa essere utilizzato per forgiare gradualmente questo arco in un canto da tempesta. Il processo di creazione può richiedere secoli.',
       nl: 'Deze bogen zijn zeldzaam wegens de lengte en methode die nodig is voor het smeed proces; bogen moeten zeer verhoogd zijn om ervoor te zorgen dat elke bliksemschicht gebruikt kan worden om dit boog langzaam te smeden tot een Stormsong. De creatie proces kan eeuwen duren.',
       ro: 'Aceste arcuri sunt rare datorită duratei și metodei procesului de forjare; arcurile trebuie să fie înălțate mult pentru ca fiecare lovitură de fulger să poată fi folosită la forjarea graduală a armei într-un Stormsong. Procesul de creație poate dura câțiva ani.',
-      pt: 'Esses arcos são raros devido ao seu comprimento e método do processo de forjamento; os arcos devem ser muito elevados para garantir que cada relâmpago possa ser usado para transformar gradualmente este arco em um "Stormsong". O processo de criação pode levar anos.'
+      pt: 'Esses arcos são raros devido ao seu comprimento e método do processo de forjamento; os arcos devem ser muito elevados para garantir que cada relâmpago possa ser usado para transformar gradualmente este arco em um "Stormsong". O processo de criação pode levar anos.',
+      cs: 'Tyto luky jsou vzácné kvůli délce a způsobu kování; luky musí být značně zvednuté, aby bylo zajištěno, že každý úder blesku může být použit k postupnému přetvoření tohoto luku v Stormsong. Proces tvorby může trvat věky.'
     }
   },
 
@@ -291,7 +306,8 @@ export default [
       it: 'Questo arco malevolo mangia i sogni e gli incubi del possessore. Questo arco vivente non offre lealtà e richiede sacrifici sotto forma di vittime della battaglia.',
       nl: 'Dit kwaadaardige boog eet de dromen en nachtmerries van de drager. Dit levende boog bied geen loyaliteit en vereist offers in de vorm van gevecht slachtoffers.',
       ro: 'Acest arc răuvoitor devorează visele și coșmarurile deținătorului său. Acest arc viu nu oferă deloc loialitate și cere sacrificii sub formă de victime de luptă.',
-      pt: 'Esse arco malévolo devora os sonhos e pesadelos do portador. Esse arco vivo não oferece lealdade e exige sacrifícios na forma de vítimas de batalha.'
+      pt: 'Esse arco malévolo devora os sonhos e pesadelos do portador. Esse arco vivo não oferece lealdade e exige sacrifícios na forma de vítimas de batalha.',
+      cs: 'Tento zlovolný luk požírá sny a noční můry držitele. Tento živý luk nenabízí žádnou loajalitu a vyžaduje oběti v podobě obětí bitvy.'
     }
   },
 
@@ -308,7 +324,8 @@ export default [
       it: 'Quando una grande tragedia colpisce un\'intera civiltà, gli spiriti delle vittime infuriate riversano la loro rabbia in un\'arma per scatenare vendetta sul mondo. Quest\'arma è conosciuta solo come "Fury".',
       nl: 'Toen er een grote tragedie een hele beschaving benam, gingen de boze geesten van de slachtoffers hun woede in een wapen stoppen om wraak te nemen op de wereld. Dit wapen is alleen bekend als “Fury”.',
       ro: 'Când o tragedie mare cade asupra unei întregi civilizații, spiritele înfuriate ale victimelor își revarsă mânia într-o armă pentru a aduce răzbunare asupra lumii. Această armă este cunoscută doar ca "Fury".',
-      pt: 'Quando uma grande tragédia se abate sobre uma civilização inteira, os espíritos das vítimas enfurecidas derramam sua raiva em uma arma para se vingar do mundo. Essa arma é conhecida apenas como "Fury".'
+      pt: 'Quando uma grande tragédia se abate sobre uma civilização inteira, os espíritos das vítimas enfurecidas derramam sua raiva em uma arma para se vingar do mundo. Essa arma é conhecida apenas como "Fury".',
+      cs: 'Když velká tragédie postihne celou civilizaci, duchové rozzuřených obětí nalijí svůj hněv do zbraně, aby pomstili svět. Tato zbraň je známá pouze jako „Fury“.'
     }
   }
 

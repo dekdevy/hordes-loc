@@ -13,7 +13,8 @@ export default [
       ro: 'Această pânză este de obicei folosită pentru a proteja ușor mâinile și a reduce vibrațiile.',
       nl: 'Dit stuk stof wordt meestal gebruikt om lichte bescherming voor de handen en vibratie te verminderen.',
       zh: '這種布通常能夠些微的保護雙手和減少震動。',
-      tr: 'Bu kumaş yaygın olarak elleri korumak ve titreşimi azaltmak amacı ile kullanılmaktadır.'
+      tr: 'Bu kumaş yaygın olarak elleri korumak ve titreşimi azaltmak amacı ile kullanılmaktadır.',
+      cs: 'Tento hadřík se běžně používá k lehké ochraně rukou a snížení vibrací.'
     }
   },
 
@@ -31,7 +32,8 @@ export default [
       ro: 'Cloth Mitts sunt făcute din cele mai rafinate pânze ale Elfilor.',
       nl: 'Cloth mitts zijn gemaakt van de fijnste Elfachtige stof.',
       zh: '由最好的精靈布所製成的布手套。',
-      tr: 'Kumaş eldivenler en iyi elf kumaşı kullanılarak yapılır.'
+      tr: 'Kumaş eldivenler en iyi elf kumaşı kullanılarak yapılır.',
+      cs: 'Látkové rukavice bez prstů jsou vyrobeny z nejkvalitnější elfské látky.'
     }
   },
 
@@ -49,7 +51,8 @@ export default [
       ro: 'Aceste mănuși sunt create din piele dură și întărită.',
       nl: 'Deze handschoenen zijn gemaakt van stevig en hard leer.',
       zh: '這些手套是用堅韌的硬化皮革製成的。',
-      tr: 'Bu eldivenler sertleştirilmiş kalın deriler kullanılarak üretilmiş.'
+      tr: 'Bu eldivenler sertleştirilmiş kalın deriler kullanılarak üretilmiş.',
+      cs: 'Tyto rukavice jsou vyrobeny z tvrdé a tvrzené kůže.'
     }
   },
 
@@ -67,7 +70,8 @@ export default [
       ro: 'Mănușile ca acestea sunt făcute din oase de monstru. Oasele de monstru asigură extra rezistență și, ocazional, magie reziduală.',
       nl: 'Hnadschoenen zoals deze zijn gemaakt van monsterbotten. Monsterbotten bieden extra bescherming en weerstand en soms resterende magie.',
       zh: '這種手套是由怪獸的骨頭製作而成，怪獸骨頭提供額外的彈力，偶爾還有殘留的魔法。',
-      tr: 'Bunun gibi eldiven canavar kemiklerinden yapılır. Canavar kemikleri fazladan esneklik ve ara sıra artmış büyü sağlar.'
+      tr: 'Bunun gibi eldiven canavar kemiklerinden yapılır. Canavar kemikleri fazladan esneklik ve ara sıra artmış büyü sağlar.',
+      cs: 'Rukavice jako tato jsou vyrobeny z kostí monster. Kosti monster poskytují extra odolnost a příležitostně zbytkovou magii.'
     }
   },
 
@@ -85,7 +89,8 @@ export default [
       ro: 'Mănușile de fier sunt făcute de un meșter maestru care a petrecut decade lucrând cu metal.',
       nl: 'Iron gauntlest zijn gemaakt door een meesterlijke handhaver die tientallen jaren besteed heeft met metaalwerk.',
       zh: '鐵製手套是由花費幾十年加工金屬的工匠大師製成的。',
-      tr: 'Demir eldivenler demir işçiliğiyle onlarca yıl harcamaış usta zanaatkarlar tarafında yapıldı.'
+      tr: 'Demir eldivenler demir işçiliğiyle onlarca yıl harcamaış usta zanaatkarlar tarafında yapıldı.',
+      cs: 'Železné rukavice jsou vyráběny mistry, kteří strávili desetiletí prací s kovem.'
     }
   },
 
@@ -103,7 +108,8 @@ export default [
       ro: 'Clanuri de magicieni deseori crează mănuși experimentale ca acestea pentru a crește puterea magiei împotriva grupurilor de monștrii. Câteva mănuși experimentale sunt decorate cu rune ce au fost copiate din surse antice.',
       nl: 'Magiër gildes creëren vaak experimentele handschoenen zoals deze om de magische krachten te versterken tegen monster facties. Sommige experimentele handschoenen zijn versierd met runen die gekopieerd waren van oude bronnen.',
       zh: '法師協會經常製作這些實驗性的手套來提升對抗怪獸的法術力量。有些實驗性的手套配戴著複製的古代符文。',
-      tr: 'Büyücü loncaları sık sık bunun gibi deneme amaçlı eldivenleri canavar kabilelerine karşı büyü gücünü arttırmak için üretirler. Bazı deneysel eldivenler antik kaynaklardan kopyalanan rünler ile süslenmiş.'
+      tr: 'Büyücü loncaları sık sık bunun gibi deneme amaçlı eldivenleri canavar kabilelerine karşı büyü gücünü arttırmak için üretirler. Bazı deneysel eldivenler antik kaynaklardan kopyalanan rünler ile süslenmiş.',
+      cs: 'Mágové cechy často vytvářejí experimentální rukavice, jako je tato, aby zvýšily magickou sílu proti frakcím monster. Některé experimentální rukavice jsou zdobeny runami, které byly zkopírovány ze starověkých zdrojů.'
     }
   },
 
@@ -119,7 +125,8 @@ export default [
       vi: 'Bộ giáp này đã được thử nghiệm chiến đấu trong Đại chiến thứ ba. Mặc dù các găng tay này đã cũ, nhưng áo giáp có chất lượng này đã từng cần thiết cho sự sống sót',
       it: 'Questa armatura fu messa alla prova durante la Terza Grande Guerra. Sebbene questi guanti siano vecchi, una volta erano necessarie armature di questa qualità per sopravvivere.',
       ro: 'Această armură a fost testată în bătălii în timpul "Third Great War". Cu toate că aceste mănuși sunt vechi, armura de această calitate a fost cândva necesară pentru supraviețuire.',
-      nl: 'Dit pantser was in praktijk gesteld tijdens the Third Great War. Hoewel deze wanten oud zijn, was de kwaliteit van dit pantser ooit nodig om te overleven.'
+      nl: 'Dit pantser was in praktijk gesteld tijdens the Third Great War. Hoewel deze wanten oud zijn, was de kwaliteit van dit pantser ooit nodig om te overleven.',
+      cs: 'Tato zbroj byla testována během třetí světové války. Přestože jsou tyto rukavice staré, brnění této kvality bylo kdysi nezbytné pro přežití.'
     }
   },
 
@@ -135,7 +142,8 @@ export default [
       vi: 'Đây là những găng tay thử nghiệm được tạo ra bởi các pháp sư lửa sử dụng các kỹ thuật và phương pháp được dạy bởi các nguyên tố lửa.',
       it: 'Questi sono guanti sperimentali creati da maghi del fuoco che utilizzavano metodi e tecniche insegnate dagli elementali del fuoco.',
       ro: 'Acestea sunt mănuși experimentale create de magicieni ai focului care au utilizat tehnici și metode învățate de la elementalii focului.',
-      nl: 'Deze experimentele handschoenen zijn gecreëerd door vuur tovenaars die technieken en methodes gebruiken die aangeleerd zijn door vuur elementalen.'
+      nl: 'Deze experimentele handschoenen zijn gecreëerd door vuur tovenaars die technieken en methodes gebruiken die aangeleerd zijn door vuur elementalen.',
+      cs: 'Jedná se o experimentální rukavice vytvořené mágy ohně, kteří používali techniky a metody vyučované ohnivými elementály.'
     }
   },
 
@@ -151,7 +159,8 @@ export default [
       vi: 'Các vị vua quái vật đã trả tiền cho những cải tiến đắt tiền chiếc găng tay này. Những cải tiến này nhằm giành lợi thế trước các phe quái vật nhất định trong các trận chiến giành lãnh thổ.',
       it: 'I re dei mostri hanno pagato costosi miglioramenti per questi guanti. Questi miglioramenti avevano lo scopo di ottenere un vantaggio contro alcune fazioni mostruose nelle battaglie per il territorio.',
       ro: 'Regii monștrii au plătit pentru ca îmbunătățiri scumpe să fie aplicate acestor mănuși. Aceste îmbunătățiri au fost menite să aducă un avantaj împotriva anumitor clanuri de monștrii în bătăliile pentru teritorii.',
-      nl: 'Monster koningen hebben voor dure betoveringen betaald voor deze handschoenen. Deze betoveringen waren bedoeld om de bovenhand te krijgen tegen specifieke monster facties in gevechten voor territorium.'
+      nl: 'Monster koningen hebben voor dure betoveringen betaald voor deze handschoenen. Deze betoveringen waren bedoeld om de bovenhand te krijgen tegen specifieke monster facties in gevechten voor territorium.',
+      cs: 'Monster Kings zaplatili za drahá vylepšení těchto rukavic. Tato vylepšení měla za cíl získat výhodu proti určitým frakcím monster v bitvách o území.'
     }
   },
 
@@ -167,7 +176,8 @@ export default [
       vi: 'Bộ giáp này được rèn mà không có lửa hoặc nhiệt với hy vọng giữ lại các tính chất ma thuật của kim loại đặc biệt được tìm thấy trên núi. Thợ rèn yêu cầu búa phù phép để rèn găng tay như thế này.',
       it: 'Questa armatura è forgiata senza fuoco o calore nella speranza di conservare le proprietà magiche del metallo speciale che si trova nelle montagne. I fabbri necessitano di martelli incantati per forgiare guanti come questo.',
       ro: 'Această armură este forjată fără foc sau căldură cu speranța că va reține proprietățile magice a metalului special găsit în munți. Fierarii au nevoie de ciocane fermecate pentru a forja astfel de mănuși.',
-      nl: 'Dit pantser is gesmeed zonder vuur of hitte in de hoop dat het zijn magische eigenschappen behoudt van het speciale metaal dat in de bergen gevonden wordt. Hoefsmeden vereisen betoverde hamers om zulk soort handschoenen als dit te smeden.'
+      nl: 'Dit pantser is gesmeed zonder vuur of hitte in de hoop dat het zijn magische eigenschappen behoudt van het speciale metaal dat in de bergen gevonden wordt. Hoefsmeden vereisen betoverde hamers om zulk soort handschoenen als dit te smeden.',
+      cs: 'Toto brnění je kováno bez ohně a tepla v naději, že si zachová magické vlastnosti speciálního kovu nalezeného v horách. Kováři vyžadují začarovaná kladiva, aby vytvořili rukavice, jako je tato.'
     }
   },
 
@@ -183,7 +193,8 @@ export default [
       vi: 'Một tộc người bất tử cổ xửa mặc áo giáp này và thành lập các đế chế vĩ đại. Tộc người này biến mất đột ngột và bí ẩn, nhưng một số áo giáp của họ bị bỏ lại.',
       it: 'Una razza più anziana di immortali indossava questa armatura e stabilì grandi imperi. La razza scomparve all\'improvviso e misteriosamente, ma parte della loro armatura fu lasciata indietro.',
       ro: 'O rasă străveche de nemuritori au purtat această armură și au stabilit imperii mari. Rasa a dispărut brusc și misterios, dar câte ceva din armurile lor a fost lăsat în spate.',
-      nl: 'Een oud ras van onsterfelijken droegen dit pantser en stichtten grote rijken. Het ras verdween plots en mysterieus, maar sommige van hun pantser was achtergelaten.'
+      nl: 'Een oud ras van onsterfelijken droegen dit pantser en stichtten grote rijken. Het ras verdween plots en mysterieus, maar sommige van hun pantser was achtergelaten.',
+      cs: 'Starší rasa nesmrtelných nosila toto brnění a založila velké říše. Rasa náhle a záhadně zmizela, ale část jejich brnění po nich zůstala.'
     }
   },
 
@@ -200,7 +211,8 @@ export default [
       vi: 'Phrygians được phát triển bởi một nền văn minh đã mất từ lâu bị phá hủy bởi chiến tranh. Hầu hết các tàn tích của những thành phố bị mất này đều chứa đựng những kho báu tuyệt vời từ lâu đã bị cướp bóc.',
       it: 'I Phrygians furono sviluppati da una civiltà perduta a lungo distrutta dalla guerra. La maggior parte delle rovine di queste città perdute conteneva tesori fantastici che sono stati saccheggiati da tempo.',
       ro: 'Phrygians au fost dezvoltate de o civilizație demult pierdută, distrusă de război. Cele mai multe dintre ruinele acestor orașe conțineau comori fantastice care au fost demult jefuite.',
-      nl: 'Phrygians waren ontwikkeld door een lang verloren samenleving vernietigd door oorlog. Het meeste van de ruïnes van de verloren steden hielden fantastische schatten die al land geplunderd zijn.'
+      nl: 'Phrygians waren ontwikkeld door een lang verloren samenleving vernietigd door oorlog. Het meeste van de ruïnes van de verloren steden hielden fantastische schatten die al land geplunderd zijn.',
+      cs: 'Phrygians byli vyvinuti dávno ztracenou civilizací zničenou válkou. Většina ruin těchto ztracených měst obsahovala fantastické poklady, které byly již dávno vydrancovány.'
     }
   },
 
@@ -216,7 +228,8 @@ export default [
       vi: 'Bộ giáp mạnh mẽ như thế này là cần thiết để tiêu diệt những lãnh chúa quái vật titanic đã cố gắng kiểm soát các vương quốc sau khi hình thành ban đầu của Great Barrier. Great Barrier được tạo ra để bảo vệ các vương quốc khỏi những kẻ thù đen tối và bị lãng quên, đối thủ với sức mạnh của các vị thần.',
       it: 'Potenti armature come questa erano necessarie per uccidere i titanici signori dei mostri che cercavano di prendere il controllo dei regni dopo la formazione iniziale della Grande Barriera. La Grande Barriera fu creata per proteggere i regni da nemici oscuri e dimenticati che rivaleggiavano con il potere delle divinità.',
       ro: 'Astfel de armură puternică a fost necesară pentru a ucide monștrii titani suzerani care au încercat să preia controlul asupra tărâmurilor după formarea inițială a Great Barrier. Great Barrier a fost creată pentru a proteja tărâmurile de inamici uitați și întunecați care rivalizau puterile zeităților.',
-      nl: 'Krachtig pantser zoals dit was nodig om titanische monsters overheersers die een poging waagden om de rijken te veroveren te verslaan na de initiële formatie van de Great Barrier. De Great Barrier was gecreëerd om de rijken te beschermen van duistere en vergeten vijanden die de krachten van de goden concurreerden.'
+      nl: 'Krachtig pantser zoals dit was nodig om titanische monsters overheersers die een poging waagden om de rijken te veroveren te verslaan na de initiële formatie van de Great Barrier. De Great Barrier was gecreëerd om de rijken te beschermen van duistere en vergeten vijanden die de krachten van de goden concurreerden.',
+      cs: 'Silné brnění, jako je toto, bylo nutné k zabití titánských vládců monster, kteří se pokusili ovládnout říše po počátečním vytvoření Velké bariéry. Velká bariéra byla vytvořena, aby chránila říše před temnými a zapomenutými nepřáteli, kteří soupeřili s mocí božstev.'
     }
   }
 

@@ -191,7 +191,7 @@ export default {
       pl: 'Wybierz klasę',
       bn: 'শ্রেণী বাছাই করুন',
       vi: 'Lựa chọn Lớp nhân vật',
-      cs: 'Zvolit povolání',
+      cs: 'Zvolit třídu',
       sr: 'Одабери класу',
       it: 'Seleziona una Classe',
       ja: '職業選択'

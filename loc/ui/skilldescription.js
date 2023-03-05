@@ -5,7 +5,8 @@ export default {
     tr: 'Hedef gerektirmez',
     ko: '타겟 지정이 필요 없음',
     zh: '不需要目標',
-    pt: 'Não requer alvo'
+    pt: 'Não requer alvo',
+    cs: 'Nevyžaduje žádný cíl'
   },
 
   targetSelf: {
@@ -14,7 +15,8 @@ export default {
     tr: 'Kendinde kullanır',
     ko: '자가 버프',
     zh: '自身施法',
-    pt: 'Usa em si proprio'
+    pt: 'Usa em si proprio',
+    cs: 'Použít na sebe'
   },
 
   targetFriendly: {
@@ -23,7 +25,8 @@ export default {
     tr: 'Dost hedeflerde',
     ko: '타겟이 아군이여야 함',
     zh: '友方目標',
-    pt: 'em Aliados'
+    pt: 'em Aliados',
+    cs: 'na spojence',
   },
 
   targetEnemy: {
@@ -32,7 +35,8 @@ export default {
     tr: 'Düşman hedeflerde',
     ko: '타겟이 적이여야 함',
     zh: '敵方目標',
-    pt: 'em Inimigos'
+    pt: 'em Inimigos',
+    cs: 'na nepřítele',
   },
 
   spellMelee: {
@@ -41,7 +45,8 @@ export default {
     tr: 'Yakın dövüş saldırısı',
     ko: '근접 공격',
     zh: '近戰攻擊',
-    pt: 'Ataque corpo a corpo'
+    pt: 'Ataque corpo a corpo',
+    cs: 'Útok na blízko',
   },
 
   spellMagic: {
@@ -50,7 +55,8 @@ export default {
     tr: 'Büyü saldırısı',
     ko: '마법 공격',
     zh: '魔法攻擊',
-    pt: 'Ataque mágico'
+    pt: 'Ataque mágico',
+    cs: 'Magický útok'
   },
 
   spellHeal: {
@@ -59,14 +65,16 @@ export default {
     tr: 'İyileştirme',
     ko: '치유',
     zh: '治療',
-    pt: 'Cura'
+    pt: 'Cura',
+    cs: 'Léčit'
   },
 
   spellBuff: {
     en: 'Buff',
     tr: 'Güçlendirme',
     ko: '버프',
-    zh: '增益'
+    zh: '增益',
+    cs: 'Buff'
   },
 
   spellBuffStack: {
@@ -75,7 +83,8 @@ export default {
     tr: 'Yüklenebilir güçlendirme',
     ko: '스택이 가능한 버프',
     zh: '可堆疊增益',
-    pt: 'Buff Acumulativo'
+    pt: 'Buff Acumulativo',
+    cs: 'Stackovací buff'
   },
 
   spellMissile: {
@@ -84,7 +93,8 @@ export default {
     tr: 'Mermi',
     ko: '원거리 공격',
     zh: '遠距離攻擊',
-    pt: 'projétil a distância'
+    pt: 'projétil a distância',
+    cs: 'Střela na dálku'
   },
 
   spellMissileBuff: {
@@ -93,7 +103,8 @@ export default {
     tr: 'Etki menzili',
     ko: '원거리 효과',
     zh: '範圍效果',
-    pt: 'Tamanho do efeito'
+    pt: 'Tamanho do efeito',
+    cs: 'Vzdálený efekt'
   },
 
   spellCustom: {
@@ -102,7 +113,8 @@ export default {
     tr: 'Etki',
     ko: '효과',
     zh: '效果',
-    pt: 'Efeito'
+    pt: 'Efeito',
+    cs: 'Efekt'
   },
 
   // eg: For 1 Intelligence gain 0.4 Min Dmg.
@@ -113,7 +125,8 @@ export default {
       tr: 'Her 1',
       ko: '스탯 하나당',
       zh: '每1點',
-      pt: 'Para 1'
+      pt: 'Para 1',
+      cs: 'Za 1'
     },
     {
       en: 'gain',
@@ -121,7 +134,8 @@ export default {
       tr: 'kazandırır',
       ko: '올라감',
       zh: '增加',
-      pt: 'ganhe'
+      pt: 'ganhe',
+      cs: 'získat'
     },
     {
       en: ' '

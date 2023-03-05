@@ -30,7 +30,8 @@ export default {
     tr: 'Eşyalarım',
     ko: '내 아이템',
     zh: '我的物品',
-    pt: 'Minhas Ofetas'
+    pt: 'Minhas Ofetas',
+    cs: 'Mé předměty'
     // el: 'Μόνο τα αντικείμενά μου',
     // nl: 'Alleen mijn voorwerpen',
     // de: 'Nur meine Items',
@@ -55,7 +56,8 @@ export default {
     tr: 'Satın al',
     ko: '구매',
     zh: '購買',
-    pt: 'Comprar'
+    pt: 'Comprar',
+    cs: 'Koupit'
     // el: 'Αγορά αντικειμένου',
     // nl: 'Voorwerp Kopen',
     // de: 'Item kaufen',
@@ -70,7 +72,6 @@ export default {
     // it: 'Compra Oggetto',
     // sr: 'Купи предмет',
     // ja: 'アイテムを購入',
-    // cs: 'Koupit Předmět'
   },
 
   post: {
@@ -287,7 +288,8 @@ export default {
     fr: 'Chercher un objet',
     ko: '아이템 검색',
     zh: '搜尋物品',
-    pt: 'Procurar pelo item'
+    pt: 'Procurar pelo item',
+    cs: 'Hledat předmět'
   },
 
   results: {
@@ -295,7 +297,8 @@ export default {
     fr: 'Résultats',
     ko: '결과',
     zh: '結果',
-    pt: 'Resultados'
+    pt: 'Resultados',
+    cs: 'Výsledek'
   },
 
   owner: {
@@ -303,7 +306,8 @@ export default {
     fr: 'Propriétaire',
     ko: '게시자',
     zh: '賣家',
-    pt: 'Proprietário'
+    pt: 'Proprietário',
+    cs: 'Majitel'
   },
 
   time: {
@@ -311,7 +315,8 @@ export default {
     fr: 'Temps',
     ko: '시간',
     zh: '時間',
-    pt: 'Tempo'
+    pt: 'Tempo',
+    cs: 'Čas'
   },
 
   perUnit: {
@@ -319,13 +324,15 @@ export default {
     fr: 'Par unité',
     ko: '개당',
     zh: '每單位',
-    pt: 'Por unidade'
+    pt: 'Por unidade',
+    cs: 'Za Jednotku'
   },
 
   total: {
     en: 'Total',
     ko: '전부',
-    zh: '總合'
+    zh: '總合',
+    cs: 'Celkem'
   },
 
   previous: {
@@ -333,7 +340,8 @@ export default {
     fr: 'Préc',
     ko: '이전',
     zh: '上一頁',
-    pt: 'Anterior'
+    pt: 'Anterior',
+    cs: 'Před'
   },
 
   next: {
@@ -341,7 +349,8 @@ export default {
     fr: 'Suivant',
     ko: '다음',
     zh: '下一頁',
-    pt: 'Próximo'
+    pt: 'Próximo',
+    cs: 'Další'
   },
 
   setPrice: {
@@ -349,7 +358,8 @@ export default {
     fr: 'Fixer un prix',
     ko: '가격 설정',
     zh: '設定價格',
-    pt: 'Definir o preço'
+    pt: 'Definir o preço',
+    cs: "Nastavit cenu"
   },
 
   // Purchase confirmation message for merchant window
@@ -361,18 +371,21 @@ export default {
       fr: 'Acheter',
       ko: '구매',
       zh: '購買',
-      pt: 'Comprar'
+      pt: 'Comprar',
+      cs: 'Koupit'
     },
     {
       en: 'for',
       fr: 'pour',
       ko: '에',
       zh: '花費',
-      pt: 'por'
+      pt: 'por',
+      cs: "za"
     },
     {
       en: '?',
-      ko: '?'
+      ko: '?',
+      cs: '?'
     }
   ]
 }
