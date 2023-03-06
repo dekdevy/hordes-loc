@@ -5,7 +5,8 @@ export default {
     tr: 'İsim',
     ko: '이름',
     zh: '名字',
-    pt: 'Nome'
+    pt: 'Nome',
+    cs: 'Jméno'
   },
 
   level: {
@@ -13,7 +14,8 @@ export default {
     fr: 'Niveau',
     tr: 'Seviye',
     ko: '레벨',
-    zh: '等級'
+    zh: '等級',
+    cs: 'Úroveň'
   },
 
   class: {
@@ -22,14 +24,16 @@ export default {
     tr: 'Sınıf',
     ko: '직업',
     zh: '職業',
-    pt: 'Classe'
+    pt: 'Classe',
+    cs: 'Třída'
   },
 
   faction: {
     en: 'Faction',
     ko: '파벌',
     zh: '陣營',
-    pt: 'Facção'
+    pt: 'Facção',
+    cs: 'Frakce'
   },
 
   rank: {
@@ -37,7 +41,8 @@ export default {
     fr: 'Rang',
     tr: 'Rütbe',
     ko: '계급',
-    zh: '排位'
+    zh: '排位',
+    cs: 'Hodnost'
   },
 
   rating: {
@@ -46,7 +51,8 @@ export default {
     tr: 'Derecelendirme',
     ko: '평점',
     zh: '積分',
-    PT: 'Classificação'
+    PT: 'Classificação',
+    cs: 'Hodnocení'
   },
 
   medals: {
@@ -55,7 +61,8 @@ export default {
     tr: 'Madalyalar',
     ko: '메달',
     zh: '獎章',
-    pt: 'Medalhas'
+    pt: 'Medalhas',
+    cs: 'Medajle'
   },
 
   perday: {
@@ -64,6 +71,8 @@ export default {
     tr: 'Hergün',
     ko: '하루 동안에',
     zh: '一天',
-    pt: 'por dia'
+    pt: 'por dia',
+    cs: 'denně'
+
   }
 }

@@ -54,17 +54,20 @@ export default {
       fr: 'Soin',
       tr: 'İyileşme',
       ko: '치유량',
-      pt: 'Curando'
+      pt: 'Curando',
+      cs: 'Léčení'
     },
     fame: {
       en: 'Fame',
       tr: 'Şöhret',
-      ko: '명성'
+      ko: '명성',
+      cs: 'Sláva'
     },
     kills: {
       en: 'Kills',
       tr: 'Leşler',
-      ko: '킬'
+      ko: '킬',
+      cs: 'Zabití'
     }
   },
 
@@ -478,7 +481,8 @@ export default {
       en: 'PvP Level',
       ru: 'Уровень PvP',
       fr: 'Niveau PvP',
-      ko: 'PvP 레벨'
+      ko: 'PvP 레벨',
+      cs: 'PvP Úroveň'
     },
 
     {

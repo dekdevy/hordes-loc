@@ -13,7 +13,8 @@ export default {
     tr: 'Sohbette destekçi simgesi',
     ko: '채팅 서포터 아이콘',
     zh: '聊天室支持者圖案',
-    pt: 'Ícone de apoiador'
+    pt: 'Ícone de apoiador',
+    cs: 'Chat supporter icon'
   },
 
   noads: {
@@ -22,7 +23,8 @@ export default {
     tr: 'Reklam yok',
     ko: '광고 제거',
     zh: '沒有廣告',
-    pt: 'Sem anúncios'
+    pt: 'Sem anúncios',
+    cs: 'Žádné reklamy'
   },
 
   // i.e. 25 base bag slots
@@ -32,7 +34,8 @@ export default {
     tr: 'Temel çanta slotu',
     ko: '기본 가방 칸 수',
     zh: '基礎背包容量',
-    pt: 'Espaços na Bag'
+    pt: 'Espaços na Bag',
+    cs: 'slotů v bagu'
   },
 
   // i.e. 100 stash storage
@@ -42,7 +45,8 @@ export default {
     tr: 'Stash kapasitesi',
     ko: '보관함',
     zh: '倉庫空間',
-    pt: 'Espaços no Stash'
+    pt: 'Espaços no Stash',
+    cs: 'úložného prostoru'
   },
 
   // i.e. 100 merchant limit
@@ -52,7 +56,8 @@ export default {
     tr: 'Pazar sınırı',
     ko: '판매 제한',
     zh: '拍賣上限',
-    pt: 'Limite de anuncios no Merchant'
+    pt: 'Limite de anuncios no Merchant',
+    cs: 'limit obchodníka'
   },
 
   // i.e. 24h merchant duration
@@ -62,7 +67,8 @@ export default {
     tr: 'Pazarda kalma süresi',
     ko: '판매 기간',
     zh: '拍賣時間',
-    pt: 'Duração dos anuncios no Merchant'
+    pt: 'Duração dos anuncios no Merchant',
+    cs: 'doba obchodníka'
   },
 
   tba: {
@@ -71,7 +77,8 @@ export default {
     tr: 'daha fazlası',
     ko: '+ 더 많은(TBA)',
     zh: '+ 未來更多(待定)',
-    pt: '+ mais por vir (TBA)'
+    pt: '+ mais por vir (TBA)',
+    cs: '+ více brzy (TBA)'
   },
 
   // Do not translate "Hordes"
@@ -81,7 +88,8 @@ export default {
     tr: 'Hordes\'in geliştirilmesini küçük bir bedele destekleyin. Fazladan çanta slotlarının, stash\'inde daha fazla depolamanın, geliştirilmiiş pazar yenilinklerinin ve daha fazla fırsatın kilidini aç.',
     ko: '저렴한 비용으로 Hordes 개발을 지원합니다. 추가 가방 슬롯을 잠금 해제하고, 보관함에 더 많은 항목을 저장하고, 향상된 판매 기능과 더 많은 특전(TBA)을 활용하십시오.',
     zh: '以便宜的價格支持 Hordes。解鎖更多的背包容量，在倉庫儲存更多的物品，更加實用的拍賣功能，以及更多的特權(待定)。',
-    pt: 'Apoie o desenvolvimento de Hordes por um preço baixo. Desbloqueie espaços adicionais na Bag, armazene mais itens em seu Stash, use recursos aprimorados do Marchant e muito mais vantagens (TBA).'
+    pt: 'Apoie o desenvolvimento de Hordes por um preço baixo. Desbloqueie espaços adicionais na Bag, armazene mais itens em seu Stash, use recursos aprimorados do Marchant e muito mais vantagens (TBA).',
+    cs: 'Podpořte vývoj Hordes za nízkou cenu. Odemkněte si tak další sloty v bagu, uložte více položek do truhly, využijte vylepšené obchodní funkce a mnoho dalších výhod (TBA).'
   },
 
   pointserror: {
@@ -90,7 +98,8 @@ export default {
     tr: 'Bunu yapmak için yeterli Hordes point\'in yok.',
     ko: '이 것을 수행 하기 위한 충분한 Hordes 포인트가 부족합니다',
     zh: '你沒有足夠的點數來執行此操作',
-    pt: 'Você não tem Hordes Points suficientes para fazer isso.'
+    pt: 'Você não tem Hordes Points suficientes para fazer isso.',
+    cs: 'Nemáte dostatek Hordes bodů'
   },
 
   // As in "Buy Hordes Points"
@@ -100,7 +109,8 @@ export default {
     tr: 'Satın al',
     ko: '구매',
     zh: '購買',
-    pt: 'Comprar'
+    pt: 'Comprar',
+    cs: 'Koupit'
   },
 
   notactive: {
@@ -109,7 +119,8 @@ export default {
     tr: 'Aktif değil',
     ko: '활성화 되지않음',
     zh: '未啟用',
-    pt: 'Não Ativo'
+    pt: 'Não Ativo',
+    cs: 'Není aktivní'
   },
 
   //---------------------------------------------------------------------------------------------
@@ -122,7 +133,8 @@ export default {
     tr: 'Hediye etmek ister misin ',
     ko: '선물 하시겟습니까',
     zh: '你想贈送',
-    pt: 'Você gostaria de presentear '
+    pt: 'Você gostaria de presentear ',
+    cs: 'Chtěli by jste darovat'
   },
 
   willadd: {
@@ -131,7 +143,8 @@ export default {
     tr: 'Kendine almak ister misin ',
     ko: '자신에게 선물하시겟습니까',
     zh: '你想給予自己',
-    pt: 'Você gostaria de se presentear '
+    pt: 'Você gostaria de se presentear ',
+    cs: 'Chtěl by jsi si dát'
   },
 
   subduration: [
@@ -141,7 +154,8 @@ export default {
       tr: 'Bir yıllık ',
       ko: '1년 동안',
       zh: '1年的',
-      pt: 'um ano de '
+      pt: 'um ano de ',
+      cs: 'jeden rok'
     },
     {
       en: 'one month of ',
@@ -149,7 +163,8 @@ export default {
       tr: 'Bir aylık ',
       ko: '1달 동안 ',
       zh: '1個月的',
-      pt: 'um mês de '
+      pt: 'um mês de ',
+      cs: 'měsíc'
     }
   ],
 
@@ -159,7 +174,8 @@ export default {
     tr: 'Bu sana şu kadar bedel olacak',
     ko: '드는 비용',
     zh: '這將花費',
-    pt: 'Vai custar '
+    pt: 'Vai custar ',
+    cs: 'Bude to stát'
   },
   //---------------------------------------------------------------------------------------------
 
@@ -169,7 +185,8 @@ export default {
     tr: 'Hediye gönder',
     ko: '선물 보내기',
     zh: '贈送禮物',
-    pt: 'Enviar Presente'
+    pt: 'Enviar Presente',
+    cs: 'Poslat dárek'
   },
 
   // e.g. Enables Elixir until Jan 29, 2024 13:00. Do not translate "Elixir"
@@ -179,7 +196,8 @@ export default {
     tr: 'Şu tarihe kadar Elixir aktif eder',
     ko: '다음까지 Elixir 활성화',
     zh: '啟用 Elixir 直到',
-    pt: 'Elixir ativo até'
+    pt: 'Elixir ativo até',
+    cs: 'Povolit Elixir do'
   },
 
   // Do not translate "Elixir"
@@ -189,7 +207,8 @@ export default {
     tr: 'Elixir hediyesi gönder',
     ko: 'Elixir 선물 보내기',
     zh: '贈送 Elixir 禮物',
-    pt: 'Enviar Elixir de presente'
+    pt: 'Enviar Elixir de presente',
+    cs: 'Odeslat Elixir jako dárek'
   },
 
   // Do not translate "Elixir"
@@ -199,7 +218,8 @@ export default {
     tr: 'Elixir\'in süresini uzat',
     ko: 'Elixir 연장',
     zh: '延長 Elixir',
-    pt: 'Prolongar seu Elixir'
+    pt: 'Prolongar seu Elixir',
+    cs: 'Prodloužit Elixir'
   },
 
   // Do not translate "Elixir"
@@ -209,7 +229,8 @@ export default {
     tr: 'Elixir aktif et',
     ko: 'Elixir 활성화',
     zh: '啟用 Elixir',
-    pt: 'Ativar Elixir'
+    pt: 'Ativar Elixir',
+    cs: 'Aktivovat Elixir'
   },
 
   // Do not translate "Elixir"
@@ -219,6 +240,7 @@ export default {
     tr: 'Elixir süresi eklendi. Desteğin için teşekkürler. Lütfen herhangi bir karakter ile yeniden giriş yap.',
     ko: 'Elixir 시간이 추가되었습니다. 여러분의 성원에 감사드립니다. 캐릭터를 다시 로그인 해주세요.',
     zh: '已延長 Elixir 時間。謝謝你的支持。請重新登入角色。',
-    pt: 'Tempo de Elixir foi adicionado. Obrigado pelo seu apoio. Por favor, entre novamente em qualquer personagem ativo.'
+    pt: 'Tempo de Elixir foi adicionado. Obrigado pelo seu apoio. Por favor, entre novamente em qualquer personagem ativo.',
+    cs: 'Doba Elixir byla prodloužena. Děkujeme za podporu. Prosím relogni všechny svoje postavy'
   }
 }

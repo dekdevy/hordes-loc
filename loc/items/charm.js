@@ -11,7 +11,8 @@ export default [
       nl: 'Klokken zijn vaak gebruikt als een symbool van toewijding naar een gekozen godheid. de interieur van deze klok heeft een ingelegde zilveren inscriptie, maar de vertaling van deze inscriptie is verloren gegaan in de tijd.',
       ko: '벨은 선택받은 사람의 상징으로도 알려진다. 이 은으로 만들어진 벨안에 문자가 있지만 이 문자가 무엇을 뜻하는지는 아무도 모른다.',
       zh: '鐘常通常視為對所選神靈祈願的象徵，鐘的內部鑲嵌著銀製文字，但是關於解讀這類文字的方式已經失傳。',
-      tr: 'Çanlar genelde seçilmiş bir tanrıya bağlılık simgesidir. Bu çanın iç kısmında gümüş işlemeli bir yazıt bulunuyor, ancak bu yazıtın çevirisi zaman içinde kayıp olmuş.'
+      tr: 'Çanlar genelde seçilmiş bir tanrıya bağlılık simgesidir. Bu çanın iç kısmında gümüş işlemeli bir yazıt bulunuyor, ancak bu yazıtın çevirisi zaman içinde kayıp olmuş.',
+      cs: 'Zvony se často používají jako symbol oddanosti vybranému božstvu. Uvnitř tohoto zvonu je vykládaný stříbrný nápis, ale překlad nápisu se ztratil v čase.'
     }
   },
   {
@@ -25,7 +26,8 @@ export default [
       nl: 'Versteende monstereieren zijn vaak geïnterpreteerd als symbolen van levensduur. Echter, bestaan er geen schriftelijke verslagen van deze wezens in de afgelopen tijd. ',
       ko: '화석이된 몬스터의 알은 장수의 상징이기도 합니다. 하지만 최근들어 이 알에서 깨어난 생명체는 없다고 합니다.',
       zh: '石化的怪獸蛋經常會被當成是長壽的象徵。然而，沒有跡象表明這類生物存在於近代。',
-      tr: 'Fosilleşmiş canavar yumurtaları genelde uzun ömürlülüğün simgesi olarak yorumlanır. Ancak bu canlıların son zamanlarda bulunduğuna dair yazılı kaynak yok.'
+      tr: 'Fosilleşmiş canavar yumurtaları genelde uzun ömürlülüğün simgesi olarak yorumlanır. Ancak bu canlıların son zamanlarda bulunduğuna dair yazılı kaynak yok.',
+      cs: 'Fosilizovaná vejce monster jsou často interpretována jako symboly dlouhověkosti. Kromě nedávné doby však neexistují žádné písemné záznamy o těchto tvorech.'
     }
   },
   {
@@ -39,7 +41,8 @@ export default [
       nl: 'Orkstammen houden vaak de schedels van waardige vijanden als een teken van respect. Deze schedel is vesierd met tatoeages die kracht symboliseren van de vijand tijdens het leven had.', // Not completely sure if this is 100% correct, Might want to have another dutch person check over this one.
       ko: '오크족은 휼륭한 그들의 동족의 두개골을 존경의 표시로 여깁니다. 이 두개골은 두개골의 주인의 힘을 나타내는 타투가 그려져있습니다.',
       zh: '獸人部落經常會保存死去戰友的頭骨以示對他們的尊重。這種被紋身過的頭骨象徵著它生前的力量。',
-      tr: 'Ork kabileleri çoğunlukla layık düşmanlarının kafataslarını saygı işareti olarak saklarlar. Bu kafatası düşmanlarının yaşadığı zaman ki gücünü simgelemesi için süslü dövmelerle süslenmiş.'
+      tr: 'Ork kabileleri çoğunlukla layık düşmanlarının kafataslarını saygı işareti olarak saklarlar. Bu kafatası düşmanlarının yaşadığı zaman ki gücünü simgelemesi için süslü dövmelerle süslenmiş.',
+      cs: 'Orkské kmeny často uchovávají lebky hodných nepřátel na znamení úcty. Tato lebka je zdobena tetováním, které symbolizuje sílu, kterou měl nepřítel během života.'
     }
   },
   {
@@ -53,7 +56,8 @@ export default [
       nl: 'Vlaggen die vanaf de toppen van oorlogsschepen werden gevlogen werden wimpels genoemd. Deze scheepswimpel was één van de verwoeste oorlogsschepen die voor het eerst naar headless landing reisden',
       ko: '전투용 선박에 달려있는 깃발은 Pennant 라고 불렸습니다. 이 Ship pennant 는 Headless에 처음으로 도착한 배의 깃발입니다.',
       zh: '這種在戰船上方飄揚的旗子被稱為幡。這面船幡旗是最早前往Headless Landing的失事戰船上之一。',
-      tr: 'Savaş gemilerinin tepesinde dalgalanan bayraklara flama adı verilir. Bu bayrak, Headless Landing\'e seyahat eden ilk geminin harabelerinin arasındaydı.'
+      tr: 'Savaş gemilerinin tepesinde dalgalanan bayraklara flama adı verilir. Bu bayrak, Headless Landing\'e seyahat eden ilk geminin harabelerinin arasındaydı.',
+      cs: 'Vlajky vyvěšené z vršků válečných lodí se nazývaly praporce. Tato lodní vlajka byla mezi ztroskotanými válečnými loděmi, které jako první cestovaly do Bezhlavého přistání.'
     }
   },
   {
@@ -67,7 +71,8 @@ export default [
       nl: 'Magiërs creëerden verschillende methodes om mana te verwerven in tijden van schaarste. Deze marmer is gemaakt tijdens de Arcane Crisis, een tijd waar mana netwerken onder extreme druk stonden.',
       ko: '마나가 부족한 시기에 마법사들은 마나를 공급할수 있는 수단을 만들었습니다, 이 구슬은 먼 옛날 마나의 흐름이 원활하지 않을때 만들어졌습니다.',
       zh: '法師們創造了在缺乏魔力時獲得魔力的替代方法。這種藍石是在奧術危機時期產生的，當時的魔力來源正處於極端緊繃的狀態。',
-      tr: 'Büyücüler kıtlık zamanlarında mana elde etmek için alternatif yöntemler oluşturdular. Bu mermer mana şebekelerinin büyük bir gerilimde olduğu Arcane krizinde oluşturuldu.'
+      tr: 'Büyücüler kıtlık zamanlarında mana elde etmek için alternatif yöntemler oluşturdular. Bu mermer mana şebekelerinin büyük bir gerilimde olduğu Arcane krizinde oluşturuldu.',
+      cs: 'Mágové vytvořili alternativní metody získávání many v dobách nedostatku. Tento mramor byl vytvořen během Arcane Crisis, v době, kdy byly manové sítě vystaveny extrémnímu stresu.'
     }
   }
 ]

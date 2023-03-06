@@ -13,7 +13,8 @@ export default [
       es: 'Estas espadas suelen estar hechas de corteza de hierro para durar más que la madera normal.',
       pt: 'Essa espada geralmente é feita de ironbark para durar mais que madeira.',
       zh: '這些劍通常由鐵桉木製成，比普通木頭更耐用。',
-      tr: 'Bu kılıçlar daha uzun ömürlü olmaları için sıradan odun yerine Ironbark kullanılarak yapılır.'
+      tr: 'Bu kılıçlar daha uzun ömürlü olmaları için sıradan odun yerine Ironbark kullanılarak yapılır.',
+      cs: 'Tyto meče jsou často vyrobeny z železné kůry, aby vydržely déle než běžné dřevo.'
     }
   },
 
@@ -31,7 +32,8 @@ export default [
       es: 'Espadas como esta han visto muchas batallas y generalmente se transmiten de un guerrero a un aprendiz.',
       pt: 'Espadas como esta são vistas em muitas batalhas, e geralmente são passadas de guerreiros para aprendizes.',
       zh: '像這樣的劍已經經歷了許多戰鬥，通常是由戰士傳給學徒的。',
-      tr: 'Bunun gibi kılıçlar birçok savaş görmüşlerdir ve normal olarak bir savaşçıdan bir çırağa devredilir.'
+      tr: 'Bunun gibi kılıçlar birçok savaş görmüşlerdir ve normal olarak bir savaşçıdan bir çırağa devredilir.',
+      cs: 'Meče jako tento zažily mnoho bitev a obvykle se předávají z válečníka na učně.'
     }
   },
 
@@ -49,7 +51,8 @@ export default [
       es: 'Esta es un arma digna manejada por trolls y sus tribus. Los trolls a menudo atacan territorios vecinos para expandir los suyos propios o forzar a los invasores a retroceder.',
       pt: 'Essa é uma arma digna manejada por trolls e suas tribos. Os trolls geralmente atacam territórios vizinhos para expandir suas forças ou fazer os invadores recuarem',
       zh: '這是巨魔和他們的部落使用的有價值的武器。巨魔經常攻擊鄰近的領土以擴大自己的領土或迫使入侵者退縮。',
-      tr: 'Bu silah trolller ve müttefikleri tarafından kullanılır. Troller sıkça kendi bölgelerini geliştirmek veya işgalcileri geri göndermek için komşu bölgelere saldırırlar.'
+      tr: 'Bu silah trolller ve müttefikleri tarafından kullanılır. Troller sıkça kendi bölgelerini geliştirmek veya işgalcileri geri göndermek için komşu bölgelere saldırırlar.',
+      cs: 'Toto je cenná zbraň, kterou ovládají trollové a jejich kmeny. Trollové často útočí na sousední území, aby buď rozšířili své vlastní, nebo přitlačili útočníky zpět.'
     }
   },
 
@@ -66,7 +69,8 @@ export default [
       es: 'La Broadsword es un arma estándar entre soldados y guerreros en el campo de batalla.',
       pt: 'A broadsword é uma arma padrão entre os soldados e guerreiros que estão no campo de batalha',
       zh: '闊劍是戰場上士兵和戰士的標準武器。',
-      tr: 'Bu kalın kılıç askerler ve savaşçılar arasında savaş meydanında kullanılan standart bir silahtır.'
+      tr: 'Bu kalın kılıç askerler ve savaşçılar arasında savaş meydanında kullanılan standart bir silahtır.',
+      cs: 'Široký meč je standardní zbraní mezi vojáky a válečníky na bojišti.'
     }
   },
 
@@ -83,7 +87,8 @@ export default [
       es: 'Las Longswords se identifican principalmente por su empuñadura, más larga que su hoja. Los Herreros usaron una variedad de materiales y niveles de habilidad, produciendo una amplia variedad de resultados.',
       pt: 'As Longswords são identificadas principalmente por seu punho e lâmina mais longa. Os Bladesmiths têm usado suas habilidades combinadas com vários materiais para produzir uma grande variedade de resultados.',
       zh: '長劍的主要特點是握把較長，而不是劍身較長。刀匠使用了各種材料和技能水平，產生了各種各樣的結果。',
-      tr: 'Uzun kılıçlar, ilk olarak daha uzun bıçaklarından daha çok daha uzun tutuşlarıyla tanımlanır. Kılıç ustaları birçok sonuç elde etmek için, çeşitli malzeme ve yetenek seviyeleri kullandılar.'
+      tr: 'Uzun kılıçlar, ilk olarak daha uzun bıçaklarından daha çok daha uzun tutuşlarıyla tanımlanır. Kılıç ustaları birçok sonuç elde etmek için, çeşitli malzeme ve yetenek seviyeleri kullandılar.',
+      cs: 'Dlouhé meče jsou primárně identifikovány podle delší rukojeti spíše než podle delší čepele. Bladesmiths používali různé materiály a úrovně dovedností, produkovat širokou paletu výsledků.'
     }
   },
   {
@@ -100,7 +105,8 @@ export default [
       es: 'Diseñada para el combate, esta arma cumple con las expectativas dentro del Coliseo.',
       pt: 'Projetada para o combate, essa arma atende as expectativas dentro do Coliseu ',
       zh: '這款武器專為戰鬥而設計，在鬥獸場內的表現符合預期。',
-      tr: 'Dövüş için tasarlandı, bu silah Kolezyum\'un içindeki beklentileri karşılıyor.'
+      tr: 'Dövüş için tasarlandı, bu silah Kolezyum\'un içindeki beklentileri karşılıyor.',
+      cs: 'Tato zbraň, navržená pro boj, plní očekávání uvnitř Kolosea.'
     }
   },
   {
@@ -117,7 +123,8 @@ export default [
       es: 'Esta espada masiva está diseñada para aumentar el potencial de daño específicamente para la guerra. Un aventurero que lleva o usa un arma como esta no deja dudas sobre sus objetivos y profesión.',
       pt: 'Esta enorme espada foi projetada para aumentar o potencial de dano especificamente na guerra. Um aventureiro que veste ou usa uma arma como essa não deixa dúvidas sobre seus objetivos e profissão.',
       zh: '這把巨大的劍是專門為戰爭設計，佩戴或使用這樣武器的冒險者，他們的目標和專業是毋庸置疑的。',
-      tr: 'Bu devasa kılıç, özellikle savaşlarda hasar potansiyelini artırmak üzere tasarlandı. Bunun gibi bir kılıç kullanan bir maceracı şüphesiz hedeflerinde ve uzmanlığında hiç şüphe bırakmaz.'
+      tr: 'Bu devasa kılıç, özellikle savaşlarda hasar potansiyelini artırmak üzere tasarlandı. Bunun gibi bir kılıç kullanan bir maceracı şüphesiz hedeflerinde ve uzmanlığında hiç şüphe bırakmaz.',
+      cs: 'Tento masivní meč je navržen tak, aby zvýšil potenciál poškození speciálně pro válku. Dobrodruh, který nosí nebo používá zbraň, jako je tato, nenechá žádné pochybnosti o svých cílech a povolání.'
     }
   },
 
@@ -135,7 +142,8 @@ export default [
       es: 'Estas armas pertenecieron a los caballeros de los reinos caídos. Poderosos reinos existieron una vez antes de que guerras masivas los borraran del paisaje; los caballeros que manejaban estas grandes espadas mantuvieron sus deberes caballerescos mucho después de que sus reinos se convirtieran en polvo.',
       pt: 'Estas são armas que pertenceram aos cavaleiros de reinos caídos. Reinos poderosos já existiram antes que guerras massivas os obliterassem por completo; os cavaleiros empunhando essas grandes espadas, mantiveram seus deveres de cavalheiros, muito depois de seus reinos virarem pó.',
       zh: '這些武器曾經屬於墮落王國的騎士。在他們的王國化為灰燼很久之後，揮舞著這些巨劍的騎士們仍然保持著他們騎士的職責。',
-      tr: 'Bunlar bir zamanlar yok olmuş krallıkların şövalyelerine ait olan silahlar. Güçlü krallıklar, büyük savaşlar onların topraklarını yok etmeden önce bir zamanlar vardı; bu büyük kılıçların sahibi olan şövalyeler, krallıkları yok olduktan çok daha sonrada şövalye görevlerini sürdürdüler.'
+      tr: 'Bunlar bir zamanlar yok olmuş krallıkların şövalyelerine ait olan silahlar. Güçlü krallıklar, büyük savaşlar onların topraklarını yok etmeden önce bir zamanlar vardı; bu büyük kılıçların sahibi olan şövalyeler, krallıkları yok olduktan çok daha sonrada şövalye görevlerini sürdürdüler.',
+      cs: 'Jsou to zbraně, které kdysi patřily rytířům padlých království. Mocná království kdysi existovala, než je z krajiny vyhladily masivní války; rytíři mající tyto velké meče vykonávali své rytířské povinnosti dlouho poté, co se jejich království proměnilo v prach.'
     }
   },
 
@@ -151,7 +159,8 @@ export default [
       it: 'Queste spade sono costruite da mostri non morti. La tecnica di fabbricazione innaturale per produrre armi come questa rimane sconosciuta.',
       sr: 'Ове мачеве су направила немртва чудовиштва. Неприродна техника израде оружја попут овог остаје непозната.',
       es: 'Estas espadas son creadas por monstruos no muertos. La técnica de elaboración antinatural para producir armas como esta sigue siendo desconocida.',
-      pt: 'Essas espadas são criadas por monstros mortos-vivos. A técnica de fabricação antinatural para produzir armas como essa permanece desconhecida.'
+      pt: 'Essas espadas são criadas por monstros mortos-vivos. A técnica de fabricação antinatural para produzir armas como essa permanece desconhecida.',
+      cs: 'Tyto meče jsou vytvořeny nemrtvými monstry. Nepřirozená technika výroby zbraní, jako je tato, zůstává neznámá.'
     }
   },
 
@@ -166,7 +175,8 @@ export default [
       vi: 'Nullfire Swords được tạo ra bởi những người chết từ băng chỉ có trong Địa ngục. Ban đầu, loại kiếm này được tạo ra để chiến đấu với quỷ và quái vật trong Đại chiến đầu tiên; tuy nhiên, Nullfire Swords được chế tạo bởi các quy trình thiếu sót và do đó không thể đẩy lùi quỷ và quái vật hoàn toàn.',
       it: 'Le Spade Nullfire sono fatte da mortali di ghiaccio che si trovano solo negli Inferi. In origine, questo tipo di spada fu fatta per combattere diavoli e demoni durante la prima Grande Guerra; tuttavia, Nullfire Swords è stata realizzata con processi imperfetti e pertanto non è stata in grado di respingere completamente diavoli e demoni.',
       es: 'Las Nullfire Swords están hechas por mortales de hielo que sólo se encuentran en el inframundo. Originalmente, este tipo de espada fue hecha para combatir malvados y demonios durante la primera Gran Guerstán hechas por mortales de hielo que sólo se encuentran en el inframundo.',
-      pt: 'Espadas Nullfire são feitas por mortais de gelo que só são encontrados no Submundo. Originalmente, esse tipo de espada foi feita para combater diabos e demônios durante a primeira Grande Guerra. No entanto, as Espadas Nullfire foram criadas por processos falhos sendo incapazes de repelir os diabos e demônios completamente.'
+      pt: 'Espadas Nullfire são feitas por mortais de gelo que só são encontrados no Submundo. Originalmente, esse tipo de espada foi feita para combater diabos e demônios durante a primeira Grande Guerra. No entanto, as Espadas Nullfire foram criadas por processos falhos sendo incapazes de repelir os diabos e demônios completamente.',
+      cs: 'Meče Nullfire vyrábí smrtelníci z ledu, který se nachází pouze v Podsvětí. Původně byl tento druh meče vyroben pro boj s ďábly a démony během první Velké války; nicméně, meče Nullfire byly vytvořeny chybnými procesy, a proto nebyly schopny úplně odrazit ďábly a démony.'
     }
   },
 
@@ -181,7 +191,8 @@ export default [
       vi: 'Trong các vương quốc nơi chiến tranh là tất yếu, hoàng gia thường dành số lượng lớn vàng để tạo ra một trong những lưỡi kiếm tốt nhất mà tiền có thể mua cho sử dụng cá nhân của họ. Thật không may, những lưỡi kiếm nguyên sơ này không thể ngăn chặn quân đội xâm chiếm vương quốc.',
       it: 'Nei regni in cui la guerra è costante, la sovranità spesso spende enormi quantità di oro per creare una delle migliori lame che il denaro può comprare per il loro uso personale. Sfortunatamente, queste lame incontaminate da sole non possono smettere di invadere gli eserciti dalla conquista di un regno.',
       es: 'En los reinos donde la guerra es constante, la realeza a menudo gasta grandes cantidades de oro para crear una de las mejores cuchillas que el dinero puede comprar para su uso personal. Desafortunadamente, estas hojas impecables por sí solas no pueden evitar que los ejércitos invasores se apoderen de un reino.',
-      pt: 'Em reinos onde a guerra é constante, a realeza costuma gastar enormes quantidades de ouro para criar uma das melhores lâminas que o dinheiro pode comprar para seu uso pessoal. Infelizmente, essas lâminas primitivas sozinhas não podem impedir que exércitos invasores tomem o controle de um reino.'
+      pt: 'Em reinos onde a guerra é constante, a realeza costuma gastar enormes quantidades de ouro para criar uma das melhores lâminas que o dinheiro pode comprar para seu uso pessoal. Infelizmente, essas lâminas primitivas sozinhas não podem impedir que exércitos invasores tomem o controle de um reino.',
+      cs: 'V říších, kde je válčení konstantní, královské rodiny často utrácejí obrovské množství zlata, aby vytvořili jednu z nejlepších čepelí, které si za peníze mohou koupit pro své osobní použití. Bohužel tyto nedotčené čepele samy o sobě nemohou zastavit invazní armády v převzetí království.'
     }
   },
 
@@ -196,7 +207,8 @@ export default [
       vi: 'Những vũ khí này đã được trao cho người phàm bởi một nhóm quái vật bí mật. Những "món quà" này sau đó được phát hiện là một phương tiện để thao túng những nỗ lực sinh tử thông qua tha hóa ma thuật. Mặc dù thất bại rõ ràng của kế hoạch tổng thể này, những thanh kiếm mạnh mẽ vẫn có thể được tìm thấy.',
       it: 'Queste armi furono date ai mortali da un gruppo segreto di mostri fantasmi. Questi "doni" furono in seguito scoperti come mezzo per manipolare gli sforzi mortali attraverso la corruzione magica. Nonostante l\'apparente fallimento di questo piano generale, è ancora possibile trovare potenti spade.',
       es: 'Estas armas fueron entregadas a los mortales por un grupo secreto de monstruos fantasmas. Más tarde se descubrió que estos "dones" eran un medio para manipular los esfuerzos mortales a través de la corrupción mágica. A pesar del aparente fracaso de este plan maestro, todavía se pueden encontrar las poderosas espadas.',
-      pt: 'Essas armas foram dadas aos mortais por um grupo secreto de monstros fantasmas. Esses "presentes" foram descobertos mais tarde como um meio de manipular os esforços mortais por meio da corrupção mágica. Apesar do aparente fracasso deste plano mestre, as espadas poderosas ainda podem ser encontradas.'
+      pt: 'Essas armas foram dadas aos mortais por um grupo secreto de monstros fantasmas. Esses "presentes" foram descobertos mais tarde como um meio de manipular os esforços mortais por meio da corrupção mágica. Apesar do aparente fracasso deste plano mestre, as espadas poderosas ainda podem ser encontradas.',
+      cs: 'Tyto zbraně byly dány smrtelníkům tajnou skupinou wraithských monster. Později bylo objeveno, že tyto „dary“ jsou prostředkem k manipulaci se smrtelnými snahami prostřednictvím magické korupce. Navzdory zjevnému selhání tohoto hlavního plánu lze stále nalézt mocné meče.'
     }
   },
 
@@ -211,7 +223,8 @@ export default [
       vi: 'Nhiều học giả nói rằng những vũ khí này được tạo ra để tiêu diệt một chủng tộc cổ xưa và hùng mạnh, nhưng cả những người sáng tạo lẫn đối thủ của họ vẫn không tồn tại.',
       it: 'Molti studiosi affermano che queste armi sono state create per distruggere una razza antica e potente, ma non rimangono né i creatori né i loro avversari.',
       es: 'Muchos estudiosos dicen que estas armas fueron creadas para destruir una raza antigua y poderosa, pero ya no quedan ni los creadores ni sus oponentes.',
-      pt: 'Muitos estudiosos dizem que essas armas foram criadas para destruir uma raça antiga e poderosa, mas nem os criadores nem seus oponentes permanecem.'
+      pt: 'Muitos estudiosos dizem que essas armas foram criadas para destruir uma raça antiga e poderosa, mas nem os criadores nem seus oponentes permanecem.',
+      cs: 'Mnoho učenců říká, že tyto zbraně byly vytvořeny, aby zničily prastarou a mocnou rasu, ale ani tvůrci, ani jejich protivníci nezůstávají.'
     }
   },
 
@@ -226,7 +239,8 @@ export default [
       vi: 'Vũ khí này đúng nghĩa là một con quái vật. Những sinh vật này liên kết với người dùng để tăng khả năng tiếp xúc chiến đấu, điều này mang đến cơ hội lớn hơn cho các sinh vật nuôi sống và duy trì bản thân.',
       it: 'Quest\'arma è letteralmente un mostro. Queste creature si legano con l\'utente per aumentare l\'esposizione al combattimento, il che fornisce maggiori opportunità alle creature di nutrirsi e mantenersi.',
       es: 'Esta arma es literalmente un monstruo. Estas criaturas se unen al portador para aumentar la exposición al combate, lo que brinda mayores oportunidades para que las criaturas se alimenten y se sostengan.',
-      pt: 'Esta arma é literalmente um monstro. Essas criaturas se unem ao usuário para aumentar a exposição ao combate, o que fornece maiores oportunidades para as criaturas se alimentarem e se sustentarem.'
+      pt: 'Esta arma é literalmente um monstro. Essas criaturas se unem ao usuário para aumentar a exposição ao combate, o que fornece maiores oportunidades para as criaturas se alimentarem e se sustentarem.',
+      cs: 'Tato zbraň je doslova monstrum. Tato stvoření se spojí s uživatelem, aby zvýšili bojovou expozici, což poskytuje tvorům větší příležitosti, aby se nakrmily a udržely.'
     }
   },
 
@@ -241,7 +255,8 @@ export default [
       vi: 'Demonedges được đưa vào vương quốc bởi những con quỷ và quái vật bắt đầu Đại chiến thứ nhất. Những vũ khí này được rèn bằng lửa địa ngục và không được chế tạo bởi bàn tay trần thế.',
       it: 'I Demonedges furono portati nei regni dai demoni e dai diavoli che iniziarono la prima grande guerra. Queste armi sono forgiate con il fuoco dell\'inferno e non sono fabbricate da mani mortali.',
       es: 'Los Demonedges fueron traídos al reino por los demonios y los malvados que empezaron la primera Gran Guerra. Estas armas están forjadas con el fuego del infierno y no están hechas por manos mortales.',
-      pt: 'As Demonedges foram trazidos aos reinos pelos demônios e diabos que iniciaram a Primeira Grande Guerra. Essas armas são forjadas com o fogo do inferno e não são feitas por mãos mortais.'
+      pt: 'As Demonedges foram trazidos aos reinos pelos demônios e diabos que iniciaram a Primeira Grande Guerra. Essas armas são forjadas com o fogo do inferno e não são feitas por mãos mortais.',
+      cs: 'Démoni byli přivedeni do říší démony a ďábly, kteří začali první velkou válku. Tyto zbraně jsou kované pekelným ohněm a nejsou vyrobeny rukama smrtelníka.'
     }
   },
 
@@ -256,7 +271,8 @@ export default [
       vi: 'Một số chiến binh thần thánh nhất và các paladin trong lịch sử đã sử dụng một vũ khí như thế này. Các huyền thoại được đặt theo tên của những người sử dụng đã truyền cảm hứng và thúc đẩy các thế hệ chiến binh và vua.',
       it: 'Alcuni dei guerrieri più divini e paladini dedicati della storia hanno usato un\'arma come questa. Le leggende che si accumulano sui nomi dei cacciatori hanno storicamente ispirato e motivato generazioni di combattenti e re.',
       es: 'Algunos de los guerreros más divinos y paladines dedicados de la historia usaron un arma como esta. Las leyendas que se acumulan sobre los nombres de los portadores han inspirado y motivado históricamente a generaciones de luchadores y reyes.',
-      pt: 'Alguns dos guerreiros mais divinos e paladinos dedicados da história usaram uma arma como esta. As lendas que se amontoam nos nomes dos manejadores inspiraram e motivaram historicamente gerações de lutadores e reis.'
+      pt: 'Alguns dos guerreiros mais divinos e paladinos dedicados da história usaram uma arma como esta. As lendas que se amontoam nos nomes dos manejadores inspiraram e motivaram historicamente gerações de lutadores e reis.',
+      cs: 'Někteří z nejbožštějších válečníků a oddaných paladinů v historii používali zbraň, jako je tato. Legendy, které se hromadí na jménech držitelů, historicky inspirovaly a motivovaly generace bojovníků a králů.'
     }
   },
 
@@ -271,7 +287,8 @@ export default [
       vi: 'Vũ khí này hầu như luôn được coi là điềm xấu và mang đến sự diệt vong khi nó được tìm thấy. Một số học giả tin rằng vũ khí này đến từ một khe nứt và chỉ có thể được chế tạo bên ngoài vùng đất.',
       it: 'Quest \'arma è quasi sempre considerata un cattivo presagio e portatore di sventura quando viene trovata. Alcuni studiosi ritengono che quest\'arma cada attraverso fessure di barriera e possa essere fabbricata solo al di fuori dei regni.',
       es: 'Esta arma casi siempre se considera un mal presagio y portador de perdición cuando se encuentra. Algunos estudiantes creen que esta arma cae a través de fisuras de barrera y solo se puede hacer fuera de los reinos.',
-      pt: 'Esta arma é quase sempre considerada um mau presságio e uma fonte de destruição quando é encontrada. Alguns estudiosos acreditam que esta arma passa por fissuras de barreira e só poderia ser feita fora dos reinos.'
+      pt: 'Esta arma é quase sempre considerada um mau presságio e uma fonte de destruição quando é encontrada. Alguns estudiosos acreditam que esta arma passa por fissuras de barreira e só poderia ser feita fora dos reinos.',
+      cs: 'Tato zbraň je téměř vždy považována za špatné znamení a nositele zkázy, když je nalezena. Někteří učenci se domnívají, že tato zbraň propadá bariérovými trhlinami a mohla být vyrobena pouze mimo říše.'
     }
   }
 

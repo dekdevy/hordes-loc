@@ -5,7 +5,8 @@ export default {
     tr: 'Karakter',
     ko: '캐릭터',
     zh: '人物',
-    pt: 'Personagem'
+    pt: 'Personagem',
+    cs: 'Charakter'
   },
 
   skills: {
@@ -14,7 +15,8 @@ export default {
     tr: 'Yetenekler',
     ko: '스킬',
     zh: '技能',
-    pt: 'Habilidades'
+    pt: 'Habilidades',
+    cs: 'Dovednosti'
   },
 
   pvp: {
@@ -25,7 +27,8 @@ export default {
     en: 'Interaction',
     ko: '상호 작용',
     zh: '對話',
-    pt: 'Interação'
+    pt: 'Interação',
+    cs: 'Interakce'
   },
 
   request: {
@@ -34,7 +37,8 @@ export default {
     tr: 'Talep',
     ko: '요구',
     zh: '需求',
-    pt: 'Solicitar'
+    pt: 'Solicitar',
+    cs: 'Žádost'
   },
 
   warstats: {
@@ -43,14 +47,16 @@ export default {
     tr: 'Savaş istatistikleri',
     ko: '전쟁 통계',
     zh: '戰爭數據',
-    pt: 'Estatísticas de Guerra'
+    pt: 'Estatísticas de Guerra',
+    cs: 'Válečné statistiky'
   },
 
   dpsMeter: {
     en: 'DPS Meter',
     ko: 'DPS 측정기',
     zh: 'DPS 表',
-    pt: 'Medidor DPS'
+    pt: 'Medidor DPS',
+    cs: 'DPS Meter'
   },
 
   fullscreen: {
@@ -59,7 +65,8 @@ export default {
     tr: 'Tam ekran',
     ko: '전체화면',
     zh: '全螢幕',
-    pt: 'Tela cheia'
+    pt: 'Tela cheia',
+    cs: 'Celá obrazovka'
   },
 
   menuReturn: {
@@ -68,6 +75,7 @@ export default {
     tr: 'Menüye dön',
     ko: '메뉴로 돌아가기',
     zh: '返回主頁',
-    pt: 'Voltar ao Menu'
+    pt: 'Voltar ao Menu',
+    cs: 'Zpět do Menu'
   }
 }

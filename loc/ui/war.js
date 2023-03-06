@@ -5,7 +5,8 @@ export default {
     tr: 'Savaş durumu',
     ko: '전쟁 상태',
     zh: '戰爭狀態',
-    pt: 'Estado da Guerra'
+    pt: 'Estado da Guerra',
+    cs: 'Válečný stav'
   },
 
   duration: {
@@ -14,7 +15,8 @@ export default {
     tr: 'Süre',
     ko: '지속',
     zh: '持續時間',
-    pt: 'Duração'
+    pt: 'Duração',
+    cs: 'Doba trvání'
   },
 
   player: {
@@ -23,7 +25,8 @@ export default {
     tr: 'Oyuncu',
     ko: '플레이어',
     zh: '玩家',
-    pt: 'Jogador'
+    pt: 'Jogador',
+    cs: 'Hráč'
   },
 
   statustypes: [{
@@ -32,20 +35,23 @@ export default {
     tr: 'Sona erdi',
     ko: '종료',
     zh: '結束',
-    pt: 'Finalizado'
+    pt: 'Finalizado',
+    cs: 'Ukončeno'
   }, {
     en: 'Ending Soon',
     fr: 'Bientôt terminé',
     tr: 'Yakında sona erecek',
     ko: '곧 종료',
     zh: '即將結束',
-    pt: 'Terminando em breve'
+    pt: 'Terminando em breve',
+    cs: 'Brzy končí'
   }, {
     en: 'Active',
     fr: 'Actif',
     tr: 'Aktif',
     ko: '활성화',
     zh: '活躍',
-    pt: 'Ativo'
+    pt: 'Ativo',
+    cs: 'Aktivní'
   }]
 }

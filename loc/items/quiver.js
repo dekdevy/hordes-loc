@@ -14,7 +14,8 @@ export default [
       nl: 'Deze massa-geproduceerde pijlkokers zijn gemaakt van Elfachtige linnen voor extra comfort.',
       ko: '이 대량생산되는 화살통은 편의성을 위해 엘프의 천으로 만들어졌습니다.',
       zh: '這款批量生產的箭袋採用精靈亞麻布製成，帶來額外的舒適。',
-      tr: 'Bu seri üretim sadak fazladan komfor için Elf kumaşından yapılmış.'
+      tr: 'Bu seri üretim sadak fazladan komfor için Elf kumaşından yapılmış.',
+      cs: 'Tento sériově vyráběný toulec je vyroben z elfského plátna pro extra pohodlí.'
     }
   },
 
@@ -33,7 +34,8 @@ export default [
       nl: 'Rustic Quivers zijn betrouwbaar en gevecht getest. Deze pijlkokers worden vaak doorgegeven aan leerling boogschutters naarmate ze vooruitgaan.',
       ko: '거친 화살통은 실용적이고 전투에서 쓰일수있다. 이 화살통은 훈련중인 궁수들에게 주로 사용된다.',
       zh: '仿古的箭袋可靠且經過實戰考驗。 這些箭袋通常會隨著學徒弓箭手的進步而傳遞給他們。',
-      tr: 'Sade sadaklar güvenilirdirler ve savaş görmüşlerdir. Bu sadaklar daha çok acemi okçular ilerleme kat ettiğinde onlara verilir.'
+      tr: 'Sade sadaklar güvenilirdirler ve savaş görmüşlerdir. Bu sadaklar daha çok acemi okçular ilerleme kat ettiğinde onlara verilir.',
+      cs: 'Rustikální toulce jsou spolehlivé a otestované v bitvě. Tyto toulce jsou často předávány lučištním učňům, když postupují.'
     }
   },
 
@@ -52,7 +54,8 @@ export default [
       nl: 'Deze pijlkokers zijn gemaakt van slangschubben van speciale monsters. Normaal gesproken worden slangenhuiden gevonden nadat reuze slangen hun huid verloren hebben. Om anders slangenhuid te verzamelen zou een groot risico zijn.',
       ko: '이 화살통은 몇몇 몬스터들에게서 나온 뱀비늘로 만들어졌다. 보통은 거대 뱀이 허물을 벗으면, 그 허물에서 비늘을 가져가는 형식으로 비늘을 모았다.',
       zh: '這些箭袋由特殊怪物的蛇麟製成。這些蛇皮通常在巨蛇脫皮後尋找，否則試圖收集蛇皮是很危險的。',
-      tr: 'Bu sadaklar özel canavararların özel yılan derilerinden yapılmış. Normalde yılan derileri, dev yılanlar deri dökdükten sonra elde edilir. Öbür türlü yılan derisi elde etmek çok riskli olurdu.'
+      tr: 'Bu sadaklar özel canavararların özel yılan derilerinden yapılmış. Normalde yılan derileri, dev yılanlar deri dökdükten sonra elde edilir. Öbür türlü yılan derisi elde etmek çok riskli olurdu.',
+      cs: 'Tyto toulce jsou vyrobeny z hadích šupin ze speciálních monster. Obvykle se hadí kůže nalézají poté, co obří hadi svlékli kůži; pokusit se o odběr hadí kůže jinak by bylo vysoké riziko.'
     }
   },
 
@@ -71,7 +74,8 @@ export default [
       nl: 'Het uitbundige vakmanschap van Markay’ak resulteerde in de creatie van Reinforced Exemplars. Pijlkokers zoals deze zijn vaak het testament en trots van elke professionele boogschutter.',
       ko: '말카약의 아름다운 장인 정신이 이 아름다운 강화된 화살통을 만들었다. 이 강화된 화살통을 가지고 있다는건 숙련된 궁수라는것을 증명한다는 의미다.',
       zh: '由Markay\'ak精湛的工藝製作而成的強化箭袋。像這樣的箭袋通常作為任何職業弓箭手自豪的證明。',
-      tr: 'Markay\'ak tarafından olan bu ince işçilik güçlendirilmiş sadakların yapımıyla sonuçlandı. Bunun gibi sadaklar genelde herhangi bir profesyonel okçunun onurunun kanıtıdır.'
+      tr: 'Markay\'ak tarafından olan bu ince işçilik güçlendirilmiş sadakların yapımıyla sonuçlandı. Bunun gibi sadaklar genelde herhangi bir profesyonel okçunun onurunun kanıtıdır.',
+      cs: 'Vynikající řemeslná zručnost Markay\'aka vyústila ve vytvoření Reinforced Exemplars. Toulce, jako je tento, jsou často důkazem hrdosti každého profesionálního lukostřelce.'
     }
   },
 
@@ -90,7 +94,8 @@ export default [
       nl: 'Een onsterfelijke van een oud ras creëerde pijlkokers met een onmenselijke kracht om zijn wraak te manifesteren op de wereld.',
       ko: '이 불멸의 존재는 세상에 대한 복수를 위해 범접할수 없는 힘으로 이 화살통을 만들었다.',
       zh: '一位來自遠古種族的不朽者為了向世界復仇，他創造了具有非人力量的箭袋。',
-      tr: 'Kadim ırktan bir ölümsüz, intikamını dünyaya göstermek için insan dışı güçteki sadakları üretti.'
+      tr: 'Kadim ırktan bir ölümsüz, intikamını dünyaya göstermek için insan dışı güçteki sadakları üretti.',
+      cs: 'Nesmrtelný ze starší rasy vytvořil toulce s nelidskou silou, aby projevil svou pomstu světu.'
     }
   },
 
@@ -106,7 +111,8 @@ export default [
       es: 'Este quiver está hecho de escamas de dragón que se encuentran en el suelo. Las escamas de dragón son un material de fabricación muy difícil, por lo que sólo los mejores artesanos pueden usarlas.',
       it: 'Questa faretra è composta da squame di drago trovate sul terreno. Le squame di drago sono un materiale di fabbricazione molto difficile, quindi solo i migliori artigiani possono usarle.',
       ro: 'Această tolbă este creată din solzi de dragon găsiți pe pământ. Solzii de dragon sunt un material cu care se lucrează greu, așa că doar cei mai muni meșteri îi pot folosi.',
-      nl: 'Deze pijlkoker is gemaakt van drakenschubben die op de grond gevonden kunnen worden. Drakenschubben zijn een zeer lastig ambacht materiaal, dus enkel de beste handhavers kunnen ermee omgaan.'
+      nl: 'Deze pijlkoker is gemaakt van drakenschubben die op de grond gevonden kunnen worden. Drakenschubben zijn een zeer lastig ambacht materiaal, dus enkel de beste handhavers kunnen ermee omgaan.',
+      cs: 'Tento toulec je vyroben z dračích šupin nalezených na zemi. Dračí šupiny jsou velmi náročným řemeslným materiálem, takže je mohou používat jen ti nejlepší řemeslníci.'
     }
   },
 
@@ -122,7 +128,8 @@ export default [
       es: 'Los Lothariens son quivers que llevan el nombre de un pueblo que ya no existe. La gente de Lotharien luchó contra los territorios circundantes para adquirir poder mientras usaban estos quivers.',
       it: 'Le lothariens sono faretre che prendono il nome da un popolo guastato dalla vita. Il popolo Lotario combatté contro i territori circostanti per l\'acquisizione di potere mentre utilizzava queste faretre.',
       ro: 'Lothariens sunt niște tolbe care sunt numite după ce un popor s-a războit până la dispariție. Oamenii Lotharien s-au luptat în jurul teritoriilor pentru a dobândi putere, în timp ce au folosit aceste tolbe.',
-      nl: 'Lothariens zijn pijlkokers die vernoemd zijn naar een volk die niet meer bestaan dankzij oorlog. De Lotharien vochten tegen de omringende territoriums voor bezit van macht met behulp van deze pijlkokers.'
+      nl: 'Lothariens zijn pijlkokers die vernoemd zijn naar een volk die niet meer bestaan dankzij oorlog. De Lotharien vochten tegen de omringende territoriums voor bezit van macht met behulp van deze pijlkokers.',
+      cs: 'Lothariens jsou toulce, které jsou pojmenovány po lidu, kterému je třeba zabránit. Lotharienští lidé bojovali s okolními územími o získání moci při použití těchto toulců.'
     }
   },
 
@@ -138,7 +145,8 @@ export default [
       es: 'Este quiver es un regalo del bosque como un medio para que los espíritus de la naturaleza reclamen su poder, territorio y respeto robados.',
       it: 'Questa faretra è un dono della foresta come mezzo per gli spiriti della natura per recuperare il potere, il territorio e il rispetto rubati.',
       ro: 'Această tolbă este un cadou al pădurii ca o metodă a spiritelor naturii de a-și redobândi puterea furată, teritoriul, și respectul.',
-      nl: 'Deze pijlkoker is een cadeau van het woud als middel voor natuur spirits om hun gestolen macht, territorium en respect te terugvorderen.'
+      nl: 'Deze pijlkoker is een cadeau van het woud als middel voor natuur spirits om hun gestolen macht, territorium en respect te terugvorderen.',
+      cs: 'Tento toulec je darem z lesa jako prostředek pro přírodní duchy, aby získali zpět svou ukradenou moc, území a respekt.'
     }
   },
 
@@ -154,7 +162,8 @@ export default [
       es: 'Los Vodhrai son la encarnación de la venganza, la cólera, la ira y la determinación. Las emociones inusualmente fuertes de este estremecimiento vivo podrían servir para corromper al portador.',
       it: 'I Vodhrai sono l\'incarnazione di vendetta, rabbia, ira e determinazione. Le emozioni insolitamente forti di questa faretra vivente potrebbero servire a corrompere l\'utente.',
       ro: 'Vodhrai sunt întruchiparea revanșei, furiei, mâniei, și a determinării. Emoțiile neobișnuit de puternice care provin de la aceasă tolbă vie ar putea servi la a-l corupe pe utilizator.',
-      nl: 'De Vodhrai zijn een belichaming van wraak, woede, toorn en vastberadenheid. De abnormaal sterke emoties van deze levende pijlkoker kan de gebruiker misschien corrumperen.'
+      nl: 'De Vodhrai zijn een belichaming van wraak, woede, toorn en vastberadenheid. De abnormaal sterke emoties van deze levende pijlkoker kan de gebruiker misschien corrumperen.',
+      cs: 'Vodhrai jsou ztělesněním pomsty, hněvu, hněvu a odhodlání. Nezvykle silné emoce z tohoto živého toulce by mohly uživatele zkazit.'
     }
   },
 
@@ -170,7 +179,8 @@ export default [
       es: 'Este quiver fue encontrado una vez cerca de las ruinas de una civilización entera. No hay registro de sobrevivientes sobre el quiver en la región desde este período de tiempo.',
       it: 'Questa faretra fu trovata una volta vicino alle rovine di un\'intera civiltà. Non sono stati registrati sopravvissuti da questa faretra nella regione da questo periodo di tempo.',
       ro: 'Această tolbă a fost cândva găsită aproape de ruinele unei civilizații întregi. Nu există dovezi care au supraviețuit în legătură cu tolba în regiunea din această perioadă de timp.',
-      nl: 'Deze pijlkoker was ooit gevonden in de buurt van ruïnes van een hele samenleving. Er zijn geen overblijvende vermeldingen van de pijlkoker in de regio van deze tijdperiode.'
+      nl: 'Deze pijlkoker was ooit gevonden in de buurt van ruïnes van een hele samenleving. Er zijn geen overblijvende vermeldingen van de pijlkoker in de regio van deze tijdperiode.',
+      cs: 'Tento toulec byl kdysi nalezen poblíž ruin celé civilizace. Z tohoto období se o toulci v regionu nedochovaly žádné záznamy.'
     }
   }
 

@@ -141,20 +141,23 @@ export default {
     en: 'The trader does not want this item',
     fr: 'Le commerçant ne veut pas de cet objet',
     tr: 'Tüccar bu eşyayı istemiyor',
-    ko: '상인은 해당 품목을 원하지않습니다'
+    ko: '상인은 해당 품목을 원하지않습니다',
+    cs: 'Obchodník tuto položku nechce'
   },
 
   select: {
     en: 'Select an item to sell',
     fr: 'Sélectionnez un objet à vendre',
     tr: 'Satmak için bir eşya seç',
-    ko: '판매 할 물건을 고르세요'
+    ko: '판매 할 물건을 고르세요',
+    cs: 'Vyberte předmět k prodeji'
   },
 
   name: {
     en: 'Trader',
     fr: 'Commerçant',
     tr: 'Tüccar',
-    ko: '무역상'
+    ko: '무역상',
+    cs: 'Obchodník'
   }
 }

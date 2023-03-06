@@ -151,7 +151,9 @@ export default {
     ko: '초기화',
     zh: '重置',
     pt: 'Resetar',
-    es: 'Resetear'
+    es: 'Resetear',
+    cs: 'Reset'
+
   },
 
   disable: {
@@ -161,7 +163,8 @@ export default {
     ko: '사용하지 않음',
     zh: '禁用',
     pt: 'Desativar',
-    es: 'Desactivar'
+    es: 'Desactivar',
+    cs: 'Zakázat'
   },
 
   playername: {
@@ -171,7 +174,8 @@ export default {
     ko: '플레이어 이름을 적으세요',
     zh: '輸入玩家名稱',
     pt: 'Digite o nome do jogador',
-    es: 'Escriba el nombre del jugador'
+    es: 'Escriba el nombre del jugador',
+    cs: 'Vložit jméno hráče'
   },
 
   streamLoad: {
@@ -181,7 +185,8 @@ export default {
     ko: '방송 로딩중...',
     zh: '讀取實況...',
     pt: 'Carregando streams...',
-    es: 'Cargando streams...'
+    es: 'Cargando streams...',
+    cs: 'Načítám streamy'
   },
 
   all: {
@@ -191,7 +196,8 @@ export default {
     ko: '모두',
     zh: '全部',
     pt: 'Todos',
-    es: 'Todos'
+    es: 'Todos',
+    cs: 'Vše'
   },
 
   filter: {
@@ -201,7 +207,8 @@ export default {
     ko: '필터',
     zh: '篩選',
     pt: 'Filtro',
-    es: 'Filtrar'
+    es: 'Filtrar',
+    cs: 'Filtr'
   },
 
   apply: {
@@ -211,7 +218,8 @@ export default {
     ko: '적용',
     zh: '確認',
     pt: 'Aplicar',
-    es: 'Aplicar'
+    es: 'Aplicar',
+    cs: 'Potvrdit'
   },
 
   default: {
@@ -221,7 +229,8 @@ export default {
     ko: '기본',
     zh: '默認',
     pt: 'Padrão',
-    es: 'Predeterminado'
+    es: 'Predeterminado',
+    cs: 'Default'
   },
 
   // Used for party and arena searching
@@ -232,7 +241,8 @@ export default {
     ko: '찾다',
     zh: '尋找',
     pt: 'Procurar',
-    es: 'Encontrar'
+    es: 'Encontrar',
+    cs: 'Najít'
   },
 
   // Used for party and arena searching
@@ -243,7 +253,8 @@ export default {
     ko: '검색중...',
     zh: '搜尋中...',
     pt: 'Procurando...',
-    es: 'Buscando...'
+    es: 'Buscando...',
+    cs: 'Vyhledávám...'
   },
 
   learnable: {
@@ -253,7 +264,8 @@ export default {
     ko: '습득 가능 Lv.',
     zh: '可以學習 Lv.',
     pt: 'Aprende Niv.',
-    es: 'Aprender Niv.'
+    es: 'Aprender Niv.',
+    cs: 'Naučitelná úr.'
   },
 
   cost: {
@@ -263,7 +275,8 @@ export default {
     ko: '비용',
     zh: '費用',
     pt: 'Custa',
-    es: 'Coste'
+    es: 'Coste',
+    cs: 'Cena'
   },
 
   noOptions: {
@@ -273,6 +286,7 @@ export default {
     ko: '권한이 없습니다',
     zh: '沒有選項',
     pt: 'Sem opções',
-    es: 'Sin opciones'
+    es: 'Sin opciones',
+    cs: 'Žádné možnosti'
   }
 }
