@@ -58,6 +58,13 @@ export default [
     description: {
       en: ' '
     }
+  },
+
+  {
+    name       : { $$: 'Puppy' },
+    description: {
+      en: ' '
+    }
   }
 ]
 
