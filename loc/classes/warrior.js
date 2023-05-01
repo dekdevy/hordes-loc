@@ -22,7 +22,8 @@ export default {
     cs: 'Válečník',
     sr: 'Ратник',
     it: 'Guerriero',
-    ja: '戦士'
+    ja: '戦士',
+    ar: 'محارب'
   },
   // Class description, visible during character creation
   description: {
@@ -46,7 +47,8 @@ export default {
     cs: 'Válečníci jsou stavěni aby odolali více příšerám než ostatní povolání. Mají velice velkou obranu zkrze štít a obranné buffy.',
     sr: 'Ослањајући се на своју огромну одбрану и снагу, ратници се могу укључити у борбу против бројних непријатеља, тако да остали чланово његовог тима могу неометано користити магију.',
     it: 'I Guerrieri sono creati per tankare più mostri rispetto alle altri classi avendo una difesa alta grazie a scudi e forti buff difensivi.',
-    ja: '戦士は装備(盾)と強力な防御バフによる高い防御力により、他のどの職業よりもモンスターを引き付けられるよう作られています。'
+    ja: '戦士は装備(盾)と強力な防御バフによる高い防御力により、他のどの職業よりもモンスターを引き付けられるよう作られています。',
+    ar: 'لدى المحاربين الأفضلية ليؤدوا دور الدبابة أكثر من أي فئة أخرى بسبب امتلاكهم لدفاع عالي من خلال المعدات (الدروع) وقدرات دفاعية'
 
   }
 }
