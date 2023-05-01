@@ -22,7 +22,7 @@ export default {
     sr: 'Чудовиште',
     it: 'Mostro',
     id: 'Monster',
-    ja: 'モンスター'
-    ar: 'وحش',
+    ja: 'モンスター',
+    ar: 'وحش'
   }
 }
