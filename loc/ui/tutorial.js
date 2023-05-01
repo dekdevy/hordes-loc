@@ -148,7 +148,7 @@ export default {
     },
     {
       en: 'Stat points can be used to increase your primary stats. Hover over the buttons to preview their effects, then use your stat points.'
-      // it: 'I punti statistiche possono essere usati per aumentare le tue statistiche primarie. Passa il mouse sui pulsanti per visualizzare in anteprima i loro effetti, quindi usa i tuoi punti stat.'
+      // it: 'I punti stat possono essere usati per aumentare le tue statistiche primarie. Passa il mouse sui pulsanti per visualizzare in anteprima i loro effetti, quindi usa i tuoi punti stat.'
       // pt: 'Os pontos de stat podem ser utilizado para aumentar os seus stats primários. Passe o mouse em cima dos botões para obter uma prévia dos seus efeitos, então use os pontos de stats.'
       // fr: 'Les points stat peuvent être utilisés pour augmenter vos stats primaires. Passez votre souris au dessus des boutons pour visualiser leurs effets, puis utilisez vos points stat.'
       // cs: 'Statistické body lze využít ke zvýšní svých primárních statistik. Umístění kurzoru na tlačítka zobrazíš náhled jejich efektu a poté vyber statistické body.'
