@@ -18,9 +18,9 @@ Make sure to read all the comments in the files and take them seriously. Do not 
 
 New languages and translations are always welcome, so feel free to make a PR. Any language types are welcome.
 In order to contribute translations, simply add them to the respective files in the `loc/` directory.
-Make sure to check the build results (Github Action) after you make a Pull Request to correct any errors that may arise. Join [our Discord](https://discord.gg/E45UzeY) if you need help.
+Make sure to check the build results (Github Action) after you make a Pull Request to correct any errors that may arise. Join [our Discord](https://discord.gg/hordes) if you need help.
 
-If you want to check the status of any translation, go to [this link](https://github.com/dekdevy/hordes-loc/actions/workflows/node.js.yml) and select the "run npm test" result which informs us about translation status of all the languages.
+If you want to check the status of any translation, go to [this link](https://github.com/dekdevy/hordes-loc/actions), select the first entry, select "build (16.x)" under the Jobs section, and finally select "Run npm test". This gives us the translation status of all present languages.
 ```bash
 Detecting loc types...
   Found 23 languages
@@ -37,7 +37,7 @@ Exporting...
   ru -> ru.json
   ...
 ```
-If you want to check which languages are missing in a file, navigate to the file name in [this link](https://travis-ci.org/dekdevy/hordes-loc), which informs us about missing languages in a file.
+If you want to check which languages are missing in a file, scroll down to the botton of the "Run npm test" output.
 ```bash
 Finding missing translations...
    classes archer description → [de, tr, es]
@@ -73,4 +73,4 @@ To add a translation, simply add a [language code](http://www.iana.org/assignmen
 We do not have to add a German translation for the `description` string (You can if you want to, of course). It is perfectly fine if the translations are incomplete, as the build system will automatically resolve the incomplete translations to English.
 Once you finished your translation, scroll down to the bottom of the page to find a button named `Commit changes`. Leave the option below as `Commit directly to the master branch` and click the button.
 Now that you're done comitting the translation, go to your fork's main page and click the button `New pull request`, add in a name for your Pull Request and click `Create Pull Request`.
-If everything went fine, your translations will be available in the game.
+If everything went fine and your translation passed the syntax checks, your translations will be available in future game updates.
