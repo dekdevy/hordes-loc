@@ -37,7 +37,7 @@ Exporting...
   ru -> ru.json
   ...
 ```
-If you want to check which languages are missing in a file, scroll down to the botton of the "Run npm test" output.
+If you want to check which languages are missing in a file, scroll down to the bottom of the "Run npm test" output.
 ```bash
 Finding missing translations...
    classes archer description → [de, tr, es]
@@ -61,7 +61,7 @@ export default {
 ```
 All strings are contained in objects that hold translations for any amount of languages. The default language will generally be `en`for English, but any language can be added. In this case, we can see the Archers name being held in the `name: { ... } `object, and the Russian translation is already present, along with the original English text.
 
-To add a translation, simply add a [language code](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry) (``en, de, fr...``) with your translation. For example, to add a German translation for the Archer's name:
+To add a translation entry, find your [language code](http://www.lingoes.net/en/translator/langcode.htm) (``en, de, fr...``) and include it with your translation text. For example, to add a German translation for the name "Archer":
 ```js
   // The class name
   name: {
@@ -70,7 +70,7 @@ To add a translation, simply add a [language code](http://www.iana.org/assignmen
     de: 'Jäger'
   }
   ```
-We do not have to add a German translation for the `description` string (You can if you want to, of course). It is perfectly fine if the translations are incomplete, as the build system will automatically resolve the incomplete translations to English.
+We do not have to add a German translation for the `description` string (you can if you want to, of course). It is perfectly fine if the translations are incomplete as the build system will automatically resolve the incomplete translations to English.
 Once you finished your translation, scroll down to the bottom of the page to find a button named `Commit changes`. Leave the option below as `Commit directly to the master branch` and click the button.
 Now that you're done comitting the translation, go to your fork's main page and click the button `New pull request`, add in a name for your Pull Request and click `Create Pull Request`.
 If everything went fine and your translation passed the syntax checks, your translations will be available in future game updates.
