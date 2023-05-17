@@ -705,6 +705,12 @@ export default [{
   }
 },
 {
+  name       : {$$: 'Hellspawn Radiance'},
+  description: {
+    $$: '-'
+  }
+},
+{
   name       : {$$: 'Obelisk Conjuration'},
   description: {
     $$: '-'
