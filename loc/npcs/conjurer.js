@@ -25,26 +25,7 @@ export default {
     },
 
     choices: [{
-      en: 'Please bring me to $1.',
-      el: 'Σε παρακαλώ μετέφερέ με στο $1.',
-      ru: 'Пожалуйста, отведи меня к $1.',
-      fr: 'S\'il-vous plaît, apportez-moi vers $1',
-      hi: 'कृपया मुझे $1 ले चलें।',
-      de: 'Bitte bring mich zu $1.',
-      es: 'Por favor, llévame a $1.',
-      nl: 'Breng me alsjeblieft naar $1.',
-      pt: 'Por favor, leve-me até $1.',
-      tr: 'Lütfen bana $1 getir.',
-      ko: '나를 $1 에 데려다주세요.',
-      ro: 'Te rog, du-mă la $1.',
-      zh: '請帶我去$1。',
-      hu: '$1 volna a célom.',
-      pl: 'Proszę, zabierz mnie do $1.',
-      bn: 'দয়া করে আমাকে $1 এ নিয়ে যান।',
-      vi: 'Vui lòng mang cho tôi $1',
-      it: 'Per favore portami a $1',
-      ja: '$1へ連れて行って下さい。',
-      cs: 'Prosím vezmi mě do $1.'
+      en: 'Teleport to $1.' // keep it short
     }]
   }]
 }
