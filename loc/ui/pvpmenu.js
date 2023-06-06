@@ -75,7 +75,8 @@ export default {
     tr: 'Şöhret aralığı',
     ko: '명성 등급',
     zh: '名聲層級',
-    cs: 'Fame Bracket'
+    cs: 'Fame Bracket',
+    pt: 'Suporte de Fama'
   },
 
   highestrank: {

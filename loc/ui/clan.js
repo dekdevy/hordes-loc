@@ -368,7 +368,8 @@ export default {
     ko: '온라인',
     zh: '在線',
     es: 'En línea',
-    cs: 'Online'
+    cs: 'Online',
+    pt: 'Online'
   },
 
   treasury: {

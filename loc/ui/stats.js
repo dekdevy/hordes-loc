@@ -61,13 +61,15 @@ export default {
       en: 'Fame',
       tr: 'Şöhret',
       ko: '명성',
-      cs: 'Sláva'
+      cs: 'Sláva',
+      pt: 'Fama'
     },
     kills: {
       en: 'Kills',
       tr: 'Leşler',
       ko: '킬',
-      cs: 'Zabití'
+      cs: 'Zabití',
+      pt: 'Mortes'
     }
   },
 
@@ -482,7 +484,8 @@ export default {
       ru: 'Уровень PvP',
       fr: 'Niveau PvP',
       ko: 'PvP 레벨',
-      cs: 'PvP Úroveň'
+      cs: 'PvP Úroveň',
+      pt: 'Nível de PVP'
     },
 
     {

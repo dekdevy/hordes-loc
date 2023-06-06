@@ -8,7 +8,8 @@ export default [{
     zh: '使用武器進行自動近戰攻擊。',
     tr: 'Silahınla otomatik yakın dövüş saldırısı sergile',
     ko: '무기로 자동공격을 합니다.',
-    cs: 'Automatické útoky na blízko'
+    cs: 'Automatické útoky na blízko',
+    pt: 'Realize ataques corpo a corpo automáticos com sua arma.'
   }
 },
 {
@@ -21,7 +22,8 @@ export default [{
     zh: '用額外的力量砍向你的敵人，回復5%造成的傷害。',
     ko: '상대를 배고, 준 대미지의 5%를 회복합니다.',
     tr: 'Düşmanını biç, fazladan güçle vurur. Verilen hasarın %5\'i ile seni iyileştirir.',
-    cs: 'Sekněte svého nepřítele, každé seknutí vás vyléčí 5% způsobeného poškození'
+    cs: 'Sekněte svého nepřítele, každé seknutí vás vyléčí 5% způsobeného poškození',
+    pt: 'Golpeie seu inimigo, atingindo com força extra. Cura você em 5% do dano causado.'
   }
 },
 {
@@ -34,7 +36,8 @@ export default [{
     zh: '暫時增加你的格檔機率，同時格檔成功回復生命。',
     ko: '잠시동안 블락의 확률은 높여줍니다, 또한 상대의 공격을 블락할때마다 힐을 합니다.',
     tr: 'Geçici süreliğine bloklama şansın artar, ayrıca her blokladığında seni iyileştirir.',
-    cs: 'Dočasně zvyšuje vaši šanci na blokování a zároveň vás vyléčí, když blokujete'
+    cs: 'Dočasně zvyšuje vaši šanci na blokování a zároveň vás vyléčí, když blokujete',
+    pt: 'Aumenta temporariamente sua chance de bloqueio, enquanto também cura você quando bloqueia.'
   }
 },
 {
@@ -47,7 +50,8 @@ export default [{
     zh: '迅速揮動你的劍，對半徑內的敵人造成傷害。',
     ko: '검을 돌려 공격합니다, 주변 범위의 적에게 피해를 줍니다.',
     tr: 'Kılıcını çevik bi şekilde etrafında döndürür, belli bir alandaki düşmanlara hasar verir.',
-    cs: 'Rychle kolem sebe švihněte mečem a poškoďte nepřátele v okolí.'
+    cs: 'Rychle kolem sebe švihněte mečem a poškoďte nepřátele v okolí.',
+    pt: 'Gire rapidamente sua espada ao redor de você, causando dano a inimigos em um raio.'
   }
 },
 {
@@ -60,7 +64,8 @@ export default [{
     zh: '向敵人發射冰彈。每次施法讓Icicle Orb減少0.5秒時間。對同一目標，疊加5次冰彈造成暈眩並增加50%傷害。每7秒獲得一次瞬間施法。',
     ko: '적에게 얼음 투사체를 발사하고, Icicle orb 의 쿨타임을 0.5초 줄여줍니다. 5스택이 쌓이면 적은 얼고 50%의 추가 대미지를 받습니다. 7초마다 캐스팅 타임없이 사용할수 있습니다.',
     tr: 'Düşmanına doğru bir mermi ateşler. Icicle Orb\'un bekleme süresini 0,5 saniye azaltır. 5 yükte düşmanı dondurur, bu onların sersemlemesini ve %50 fazladan hasar almasını sağlar. 7 saniyede bir anında kullanım yükü biriktirir.',
-    cs: 'Vystřelí mrazivou střelu na nepřítele. Snižuje cooldown Icicle Orb o 0,5 sekundy. Zmrazí cíl až na 5x, při kterých budou omráčeny a utrpí o 50 % vyšší poškození. Každých 7 sekund získáš jedno vržení.'
+    cs: 'Vystřelí mrazivou střelu na nepřítele. Snižuje cooldown Icicle Orb o 0,5 sekundy. Zmrazí cíl až na 5x, při kterých budou omráčeny a utrpí o 50 % vyšší poškození. Každých 7 sekund získáš jedno vržení.',
+    pt: 'Dispara um projétil de gelo em direção ao seu inimigo. Reduz o tempo de recarga de Orbe de Gelo em 0,5 segundos. Congela os alvos em até 5 acúmulos, momento em que eles ficarão atordoados e receberão 50% de dano aumentado. Ganha um lançamento instantâneo a cada 7 segundos.'
   }
 },
 {
@@ -73,7 +78,8 @@ export default [{
     zh: '自動遠距離攻擊你的敵人。',
     ko: '자동으로 멀리있는 적을 공격합니다.',
     tr: 'Menzilindeki bir düşmana otomatikmen saldırır.',
-    cs: 'Automaticky zaútočte na svého nepřítele na dálku.'
+    cs: 'Automaticky zaútočte na svého nepřítele na dálku.',
+    pt: 'Ataque automaticamente seu inimigo à distância.'
   }
 },
 {
@@ -86,7 +92,8 @@ export default [{
     zh: '治療單一友方目標。每一層Revitalize增加治療量。',
     ko: '아군을 치유합니다, 치유량은 Revitalize 스택에 비례해 올라갑니다.',
     tr: 'Dost bir hedefi iyileştirir. Miktar Revitalize\'nin yük miktarı ile artar.',
-    cs: 'Uzdravte přátelský cíl. Léčba se zvyšuje s každým stackem Revitalizace.'
+    cs: 'Uzdravte přátelský cíl. Léčba se zvyšuje s každým stackem Revitalizace.',
+    pt: 'Cura um alvo aliado. A quantidade é aumentada para cada acumulo de Revitalizar.'
   }
 },
 {
@@ -99,7 +106,8 @@ export default [{
     zh: '在短時間內治療單一友方目標，最多可疊加3次，同時提高Mend治療量。',
     ko: '아군을 짧은 시간동안 지속적으로 힐합니다, 3스택까지 올라갈수 있고 스택이 쌓이면 Mend와 Revitalize의 치유량이 증가합니다.',
     tr: 'Dost bir hedefi kısa süreliğine iyileştirir, 3 yüke kadar birikirken ayrıca Mend\'in gücünü arttırır.',
-    cs: 'Po krátkou dobu léčte přátelský cíl, nastackování až trojnásobku také zvyšuje vaši sílu léčby.'
+    cs: 'Po krátkou dobu léčte přátelský cíl, nastackování až trojnásobku také zvyšuje vaši sílu léčby.',
+    pt: 'Cura um alvo aliado ao longo de uma curta duração, acumulando até 3 vezes, enquanto também aumenta o poder de seu Remendar.'
   }
 },
 {
@@ -112,7 +120,8 @@ export default [{
     zh: '你繼承了祖先傳下來的特殊能力，授予你額外的屬性加成。',
     ko: '당신은 직업군과 가족의 영향으로 특별한 능력이 유전되었습니다, 몇몇 특정한 능력치는 당신에게 추가 능력치를 제공합니다.',
     tr: 'Özel yeteneklerin sana soyun ve aile geleneklerinden miras kaldı, bunlar sana garanti istatistiklerden fazladan yarar sağlar.',
-    cs: 'Díky svým předkům a rodinným tradicím jste zdědili speciální schopnosti, které vám poskytují další výhody z určitých statů.'
+    cs: 'Díky svým předkům a rodinným tradicím jste zdědili speciální schopnosti, které vám poskytují další výhody z určitých statů.',
+    pt: 'Você herdou habilidades especiais por meio de sua ascendência e tradições familiares, concedendo benefícios extras de certos atributos.'
   }
 },
 {
@@ -125,7 +134,8 @@ export default [{
     zh: '專心瞄準，高傷害射擊。增加你下次 Swift Shots 的傷害且可以立即施放。',
     ko: '정확하고 높은 데미지의 스킬입니다. 스킬을 쓰고 나면 다음 두 Swift shot 의 데미지가 올라가고 캐스팅타임이 없어집니다.',
     tr: 'Dikkatlice nişan alınmış, yüksek hasarlı atış. Sonraki Swift Shot atışlarının hasarını arttırır ve anında gerçekleşmelerini sağlar.',
-    cs: 'Pečlivě mířená střela s vysokým poškozením. Zvyšuje poškození vašich dalších rychlých výstřelů a umožňuje jejich okamžité sesílání.'
+    cs: 'Pečlivě mířená střela s vysokým poškozením. Zvyšuje poškození vašich dalších rychlých výstřelů a umožňuje jejich okamžité sesílání.',
+    pt: 'Um tiro cuidadosamente direcionado de alto dano. Aumenta o dano de seus próximos Tiros Rápidos e permite que sejam lançados instantaneamente.'
   }
 },
 {
