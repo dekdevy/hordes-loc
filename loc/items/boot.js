@@ -175,7 +175,7 @@ export default [
       nl: 'Elf magie is geholpen door windgeesten om de Skyswift Boots te maken. Hoewel Elfen zeer dicht bij de natuur zijn, weten ze weinig van de teruggetrokken windgeesten.',
       ro: 'Magia elfilor este asistată de spiritele vântului pentru a crea "Skyswift Boots". Cu toate că elfii sunt foarte apropiați de natură, nici măcar ei nu știu prea multe despre singuraticele spirite ale vântului.',
       cs: 'Elfské magii pomáhají větrní duchové při vytváření bot Skyswift. Přestože mají elfové velmi blízko k přírodě, i oni vědí málo o samotářských větrných duchách.',
-      pt: 'A magia élfica é auxiliada por espíritos do vento na criação das Botas Velozes do Céu. Embora os Elfos estejam muito ligados à natureza, mesmo eles sabem pouco sobre os reclusos espíritos do vento.'
+      pt: 'A magia élfica é auxiliada por espíritos do vento na criação das Skyswift. Embora os Elfos estejam muito ligados à natureza, mesmo eles sabem pouco sobre os reclusos espíritos do vento.'
     }
   },
 

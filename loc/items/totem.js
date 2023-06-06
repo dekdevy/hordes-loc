@@ -140,7 +140,7 @@ export default [
       it: 'Un collettivo di menti soprannaturali che focalizzano il loro potere magico e lo conferiscono all\'utente del loro totem. The Hive Mind crede che tutte le creature debbano sottomettersi al loro potere e cerca di convincere l\'utente ad unirsi a loro.',
       es: 'Un colectivo de mentes sobrenaturales que centran su poder mágico y lo otorgan al portador de su tótem. El Hive Mind cree que todas las criaturas deben someterse a su poder e intentan convencer al usuario de que se unan a ellas.',
       cs: 'Kolektiv nadpřirozených myslí, které zaměřují svou magickou sílu a udělují ji uživateli svého totemu. The Hive Mind věří, že všechna stvoření se musí podřídit jejich moci a snaží se přesvědčit uživatele, aby se k nim přidal.',
-      pt: 'Um coletivo de mentes sobrenaturais que concentram seu poder mágico e o concedem ao usuário de seu totem. A Mente Coletiva acredita que todas as criaturas devem se submeter ao seu poder e tenta convencer o usuário a se juntar a eles.'
+      pt: 'Um coletivo de mentes sobrenaturais que concentram seu poder mágico e o concedem ao usuário de seu totem. A Hive Mind acredita que todas as criaturas devem se submeter ao seu poder e tenta convencer o usuário a se juntar a eles.'
     }
   },
 

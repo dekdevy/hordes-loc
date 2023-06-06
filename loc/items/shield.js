@@ -101,7 +101,7 @@ export default [
       es: 'Los Spiked Warshields son robustos en la batalla y adecuados para la cultura orca. Los guerreros orcos veteranos muestran sus muescas de victoria a los lados de sus escudos.',
       nl: 'Spiked Warshields zijn robuust voor de strijd en gepast voor orc cultuur. Veterane orc strijders tonen hun overwinning gleuven op de zijkanten van hun schilden.',
       cs: 'Spiked Warshields jsou robustní v bitvě a hodí se pro orkskou kulturu. Zkušení orkští válečníci vystavují své vítězné zářezy na bocích svých štítů.',
-      pt: 'Escudos de Guerra com Espigões são robustos em batalha e adequados para a cultura orcs. Guerreiros orcs veteranos exibem suas marcas de vitória nas laterais de seus escudos.'
+      pt: 'Spiked Warshield são robustos em batalha e adequados para a cultura orcs. Guerreiros orcs veteranos exibem suas marcas de vitória nas laterais de seus escudos.'
     }
   },
 

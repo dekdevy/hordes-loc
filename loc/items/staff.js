@@ -198,7 +198,7 @@ export default [
       es: 'El Frozen Greatsaff está hecho por mortales con hielo que sólo se encuentra en el inframundo. Aunque los métodos de construcción son defectuosos, los resultados aún pueden ser bastante poderosos.',
       nl: 'De Frozen Greatstaff is gemaakt door stervelingen met ijs dat enkel gevonden wordt in de onderwereld. Hoewel de constructie methodes gebrekkig zijn, kunnen de resultaten nogal krachtig zijn.',
       cs: 'Frozen Greatstaff je vyroben smrtelníky s ledem nalezeným pouze v podsvětí. Přestože jsou konstrukční metody chybné, výsledky mohou být stále velmi silné.',
-      pt: 'O Grande Cajado Congelado é feito por mortais com gelo encontrado apenas no Submundo. Embora os métodos de construção sejam falhos, os resultados ainda podem ser bastante poderosos.'
+      pt: 'O Frozen Greatstaff é feito por mortais com gelo encontrado apenas no Submundo. Embora os métodos de construção sejam falhos, os resultados ainda podem ser bastante poderosos.'
     }
   },
 
@@ -232,7 +232,7 @@ export default [
       es: 'Los Hellfire Greatstaffs están construidos con fuegos infernales proporcionados por demonios traviesos. Aunque el proceso para crear un bastón como este es misterioso, el precio exigido por los demonios involucrados no lo es.',
       nl: 'Hellfire Greatstaffs zijn gemaakt met hellevuur bevoorraad door ondeugende duivels. Hoewel de wijze om dit soort staven te maken mysterieus is, is de gevraagde prijs van de duivels niet.',
       cs: 'Hellfire Greatstaffs jsou vyrobeny z pekelných ohňů, které poskytují zlomyslní ďáblové. I když je proces vytvoření takové hůlky záhadný, cena požadovaná zúčastněnými ďábly není.',
-      pt: 'Grandes Cajados de Fogo Infernal são construídos com fogos infernais fornecidos por diabretes travessos. Embora o processo de criar um cajado como este seja misterioso, o preço cobrado pelos diabretes envolvidos não é.'
+      pt: 'Hellfire Greatstaff são construídos com fogos infernais fornecidos por diabretes travessos. Embora o processo de criar um cajado como este seja misterioso, o preço cobrado pelos diabretes envolvidos não é.'
     }
   },
 
@@ -300,7 +300,7 @@ export default [
       es: 'Los Deathweavers son reliquias que han sobrevivido a la creación de la Gran Barrera. Estos extraños bastones no son de este mundo.',
       nl: 'Deathweavers zijn relikwieën die de creatie van de Great Barrier overleefd hebben. Deze vreemde staven zijn niet van deze wereld.',
       cs: 'Deathweavers jsou relikvie, které přežily vytvoření Velké bariéry. Tyto podivné štáby nejsou z tohoto světa.',
-      pt: 'Tece-Mortes são relíquias que sobreviveram à criação da Grande Barreira. Esses estranhos cajados não são deste mundo.'
+      pt: 'Deathweaver são relíquias que sobreviveram à criação da Grande Barreira. Esses estranhos cajados não são deste mundo.'
     }
   }
 
