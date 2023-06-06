@@ -185,7 +185,7 @@ export default [
       de: 'Der Stab wurde von Sterblichen aus Eis hergestellt, welches nur in der Unterwelt zu finden ist. Auch wenn die Konstruktionsmethoden fehlerhaft sind, können die Ergebnisse dennoch recht überzeugend sein.',
       vi: 'Frozen Greatstaff được tạo ra bởi những người phàm với băng chỉ có ở Địa ngục. Mặc dù các phương pháp chế tạo là thiếu sót, kết quả vẫn có thể khá mạnh mẽ.',
       it: 'Il Frozen Greatstaff è realizzato da mortali con ghiaccio trovato solo negli Inferi. Sebbene i metodi di costruzione siano imperfetti, i risultati possono essere ancora piuttosto potenti.',
-      es: 'El Frozen Greatsuff está hecho por mortales con hielo que sólo se encuentra en el inframundo. Aunque los métodos de construcción son defectuosos, los resultados aún pueden ser bastante poderosos.',
+      es: 'El Frozen Greatsaff está hecho por mortales con hielo que sólo se encuentra en el inframundo. Aunque los métodos de construcción son defectuosos, los resultados aún pueden ser bastante poderosos.',
       nl: 'De Frozen Greatstaff is gemaakt door stervelingen met ijs dat enkel gevonden wordt in de onderwereld. Hoewel de constructie methodes gebrekkig zijn, kunnen de resultaten nogal krachtig zijn.',
       cs: 'Frozen Greatstaff je vyroben smrtelníky s ledem nalezeným pouze v podsvětí. Přestože jsou konstrukční metody chybné, výsledky mohou být stále velmi silné.'
     }
