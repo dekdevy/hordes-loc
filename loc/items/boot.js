@@ -16,7 +16,7 @@ export default [
       zh: '這種鞋類主要是為了穿著舒適而非跑步。',
       tr: 'Bu ayak giyecekleri koşmadan çok rahatlık amaçlı yapıldı.',
       cs: 'Tato obuv je primárně vyrobena pro pohodlí spíše než pro běh.',
-      pt: 'Esses calçados são principalmente feitos para conforto, ao invés de corrida.',
+      pt: 'Esses calçados são principalmente feitos para conforto, ao invés de corrida.'
     }
   },
 
@@ -37,7 +37,7 @@ export default [
       zh: '這些腳墊混合了應急材料以提升跑步穩定性。',
       tr: 'Bu ayak pedleri koşu sabitliğini arttırmak için derme çatma bir malzeme ile kaplandı.',
       cs: 'Tyto nášlapy jsou obaleny provizorním materiálem pro zvýšení stability běhu.',
-      pt: 'Esses calçados são envoltos em um material improvisado para aumentar a estabilidade durante a corrida.',
+      pt: 'Esses calçados são envoltos em um material improvisado para aumentar a estabilidade durante a corrida.'
     }
   },
 

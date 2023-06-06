@@ -38,7 +38,7 @@ export default [
       zh: '這些水晶球用於各種魔法任務。 這是法師的經典裝備。',
       tr: 'Bu küreler çeşitli sihirli işleri yapmak için kullanılırlar. Bu büyü yapan kişilerin klasik aletlerindendir.',
       cs: 'Tyto koule se používají pro různé magické úkoly. Jedná se o klasické zařízení pro uživatele magie.',
-      pt: 'Essas esferas são usadas para uma variedade de tarefas mágicas. Este é um dispositivo clássico para usuários de magia.',
+      pt: 'Essas esferas são usadas para uma variedade de tarefas mágicas. Este é um dispositivo clássico para usuários de magia.'
     }
   },
 

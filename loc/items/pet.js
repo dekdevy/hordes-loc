@@ -9,7 +9,7 @@ export default [
       fr: 'Un petit asticot qui ramassera les objets pour vous.',
       tr: 'Eşyaları senin için toplayan minik bir kurtçuk.',
       cs: 'Drobný hlupák, který za vás bude rabovat předměty.',
-      pt: 'Uma larva minúscula que irá pegar itens para você.',
+      pt: 'Uma larva minúscula que irá pegar itens para você.'
     }
   },
 
