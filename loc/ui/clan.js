@@ -227,7 +227,7 @@ export default {
     tr: 'Üye atıldı',
     ko: '클랜원이 추방되었습니다',
     zh: '已剔除會員',
-    pr: 'Membro removido',
+    pt: 'Membro removido',
     es: 'Miembro expulsado',
     cs: 'Člen vyhozen'
   },
