@@ -16,7 +16,8 @@ export default [
       ko: 'Faivel 의 미지의 장소에서 떠내려온 상자입니다, 상자를 열기전까지 이 안에 무엇이 있는지는 알수 없습니다.',
       zh: '來自Faivel的未開發區域，在打開之前你永遠不會知道它裡面裝了些什麼。',
       tr: 'Faivel\'in keşfedilmemiş bölgelerinden kargolandı. Bu kafesin içindeki açılana kadar gözlenemez.',
-      cs: 'Odesláno z neprozkoumaných oblastí Faivel. Obsah této klece nelze kontrolovat, dokud není otevřena.'
+      cs: 'Odesláno z neprozkoumaných oblastí Faivel. Obsah této klece nelze kontrolovat, dokud není otevřena.',
+      pt: 'Enviado das regiões inexploradas de Faivel. O conteúdo desta gaiola não pode ser inspecionado até que seja aberto.'
     }
   },
   {
@@ -27,7 +28,8 @@ export default [
       fr: 'Une potion d\'élixir bleue magique qui accorde à votre compte des fonctionnalités supplémentaires utiles.',
       ko: '마법의 파란 이 엘릭서 물약은 당신의 계정에 여러 유용한 기능들을 추가해줍니다.',
       tr: 'Hesabına fazladan kullanışlı özellikler ekleyen sihirli mavi bir iksir.',
-      cs: 'Kouzelný modrý Elixir lektvar, který poskytuje vašemu účtu užitečné funkce navíc.'
+      cs: 'Kouzelný modrý Elixir lektvar, který poskytuje vašemu účtu užitečné funkce navíc.',
+      pt: 'Uma poção mágica de elixir azul que concede recursos extras úteis à sua conta.'
     }
   }
 ]

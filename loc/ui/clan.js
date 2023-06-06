@@ -227,7 +227,7 @@ export default {
     tr: 'Üye atıldı',
     ko: '클랜원이 추방되었습니다',
     zh: '已剔除會員',
-    pr: 'Membro removido',
+    pt: 'Membro removido',
     es: 'Miembro expulsado',
     cs: 'Člen vyhozen'
   },
@@ -368,7 +368,8 @@ export default {
     ko: '온라인',
     zh: '在線',
     es: 'En línea',
-    cs: 'Online'
+    cs: 'Online',
+    pt: 'Online'
   },
 
   treasury: {
@@ -478,7 +479,8 @@ export default {
     ko: '등급',
     zh: '職位',
     es: 'Rango',
-    cs: 'Hodnost'
+    cs: 'Hodnost',
+    pt: 'Cargo'
   },
 
   roles: [

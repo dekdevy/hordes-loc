@@ -14,7 +14,8 @@ export default [
       nl: 'Dit stuk stof wordt meestal gebruikt om lichte bescherming voor de handen en vibratie te verminderen.',
       zh: '這種布通常能夠些微的保護雙手和減少震動。',
       tr: 'Bu kumaş yaygın olarak elleri korumak ve titreşimi azaltmak amacı ile kullanılmaktadır.',
-      cs: 'Tento hadřík se běžně používá k lehké ochraně rukou a snížení vibrací.'
+      cs: 'Tento hadřík se běžně používá k lehké ochraně rukou a snížení vibrací.',
+      pt: 'Este tecido é comumente usado para proteger levemente as mãos e reduzir a vibração.'
     }
   },
 
@@ -33,7 +34,8 @@ export default [
       nl: 'Cloth mitts zijn gemaakt van de fijnste Elfachtige stof.',
       zh: '由最好的精靈布所製成的布手套。',
       tr: 'Kumaş eldivenler en iyi elf kumaşı kullanılarak yapılır.',
-      cs: 'Látkové rukavice bez prstů jsou vyrobeny z nejkvalitnější elfské látky.'
+      cs: 'Látkové rukavice bez prstů jsou vyrobeny z nejkvalitnější elfské látky.',
+      pt: 'As luvas de pano são feitas do melhor tecido élfico.'
     }
   },
 
@@ -52,7 +54,8 @@ export default [
       nl: 'Deze handschoenen zijn gemaakt van stevig en hard leer.',
       zh: '這些手套是用堅韌的硬化皮革製成的。',
       tr: 'Bu eldivenler sertleştirilmiş kalın deriler kullanılarak üretilmiş.',
-      cs: 'Tyto rukavice jsou vyrobeny z tvrdé a tvrzené kůže.'
+      cs: 'Tyto rukavice jsou vyrobeny z tvrdé a tvrzené kůže.',
+      pt: 'Essas luvas são confeccionadas com couro resistente e endurecido.'
     }
   },
 
@@ -71,7 +74,8 @@ export default [
       nl: 'Hnadschoenen zoals deze zijn gemaakt van monsterbotten. Monsterbotten bieden extra bescherming en weerstand en soms resterende magie.',
       zh: '這種手套是由怪獸的骨頭製作而成，怪獸骨頭提供額外的彈力，偶爾還有殘留的魔法。',
       tr: 'Bunun gibi eldiven canavar kemiklerinden yapılır. Canavar kemikleri fazladan esneklik ve ara sıra artmış büyü sağlar.',
-      cs: 'Rukavice jako tato jsou vyrobeny z kostí monster. Kosti monster poskytují extra odolnost a příležitostně zbytkovou magii.'
+      cs: 'Rukavice jako tato jsou vyrobeny z kostí monster. Kosti monster poskytují extra odolnost a příležitostně zbytkovou magii.',
+      pt: 'Luvas como essas são feitas de ossos de monstros. Os ossos de monstros fornecem resistência extra e, ocasionalmente, magia residual.'
     }
   },
 
@@ -90,7 +94,8 @@ export default [
       nl: 'Iron gauntlest zijn gemaakt door een meesterlijke handhaver die tientallen jaren besteed heeft met metaalwerk.',
       zh: '鐵製手套是由花費幾十年加工金屬的工匠大師製成的。',
       tr: 'Demir eldivenler demir işçiliğiyle onlarca yıl harcamaış usta zanaatkarlar tarafında yapıldı.',
-      cs: 'Železné rukavice jsou vyráběny mistry, kteří strávili desetiletí prací s kovem.'
+      cs: 'Železné rukavice jsou vyráběny mistry, kteří strávili desetiletí prací s kovem.',
+      pt: 'As manoplas de ferro são feitas por mestres artesãos que passaram décadas trabalhando com metal.'
     }
   },
 
@@ -109,7 +114,8 @@ export default [
       nl: 'Magiër gildes creëren vaak experimentele handschoenen zoals deze om de magische krachten te versterken tegen monster facties. Sommige experimentele handschoenen zijn versierd met runen die gekopieerd waren van oude bronnen.',
       zh: '法師協會經常製作這些實驗性的手套來提升對抗怪獸的法術力量。有些實驗性的手套配戴著複製的古代符文。',
       tr: 'Büyücü loncaları sık sık bunun gibi deneme amaçlı eldivenleri canavar kabilelerine karşı büyü gücünü arttırmak için üretirler. Bazı deneysel eldivenler antik kaynaklardan kopyalanan rünler ile süslenmiş.',
-      cs: 'Mágové cechy často vytvářejí experimentální rukavice, jako je tato, aby zvýšily magickou sílu proti frakcím monster. Některé experimentální rukavice jsou zdobeny runami, které byly zkopírovány ze starověkých zdrojů.'
+      cs: 'Mágové cechy často vytvářejí experimentální rukavice, jako je tato, aby zvýšily magickou sílu proti frakcím monster. Některé experimentální rukavice jsou zdobeny runami, které byly zkopírovány ze starověkých zdrojů.',
+      pt: 'As guildas de magos geralmente criam luvas experimentais como essa para aumentar o poder mágico contra facções de monstros. Algumas luvas experimentais são adornadas com runas que foram copiadas de fontes antigas.'
     }
   },
 
@@ -126,7 +132,8 @@ export default [
       it: 'Questa armatura fu messa alla prova durante la Terza Grande Guerra. Sebbene questi guanti siano vecchi, una volta erano necessarie armature di questa qualità per sopravvivere.',
       ro: 'Această armură a fost testată în bătălii în timpul "Third Great War". Cu toate că aceste mănuși sunt vechi, armura de această calitate a fost cândva necesară pentru supraviețuire.',
       nl: 'Dit pantser was in praktijk gesteld tijdens the Third Great War. Hoewel deze wanten oud zijn, was de kwaliteit van dit pantser ooit nodig om te overleven.',
-      cs: 'Tato zbroj byla testována během třetí světové války. Přestože jsou tyto rukavice staré, brnění této kvality bylo kdysi nezbytné pro přežití.'
+      cs: 'Tato zbroj byla testována během třetí světové války. Přestože jsou tyto rukavice staré, brnění této kvality bylo kdysi nezbytné pro přežití.',
+      pt: 'Essa armadura foi testada em batalha durante a Terceira Grande Guerra. Embora essas luvas sejam antigas, uma armadura dessa qualidade já foi necessária para a sobrevivência.'
     }
   },
 
@@ -143,7 +150,8 @@ export default [
       it: 'Questi sono guanti sperimentali creati da maghi del fuoco che utilizzavano metodi e tecniche insegnate dagli elementali del fuoco.',
       ro: 'Acestea sunt mănuși experimentale create de magicieni ai focului care au utilizat tehnici și metode învățate de la elementalii focului.',
       nl: 'Deze experimentele handschoenen zijn gecreëerd door vuur tovenaars die technieken en methodes gebruiken die aangeleerd zijn door vuur elementalen.',
-      cs: 'Jedná se o experimentální rukavice vytvořené mágy ohně, kteří používali techniky a metody vyučované ohnivými elementály.'
+      cs: 'Jedná se o experimentální rukavice vytvořené mágy ohně, kteří používali techniky a metody vyučované ohnivými elementály.',
+      pt: 'São luvas experimentais criadas por magos do fogo que usaram técnicas e métodos ensinados por elementais do fogo.'
     }
   },
 
@@ -160,7 +168,8 @@ export default [
       it: 'I re dei mostri hanno pagato costosi miglioramenti per questi guanti. Questi miglioramenti avevano lo scopo di ottenere un vantaggio contro alcune fazioni mostruose nelle battaglie per il territorio.',
       ro: 'Regii monștrii au plătit pentru ca îmbunătățiri scumpe să fie aplicate acestor mănuși. Aceste îmbunătățiri au fost menite să aducă un avantaj împotriva anumitor clanuri de monștrii în bătăliile pentru teritorii.',
       nl: 'Monster koningen hebben voor dure betoveringen betaald voor deze handschoenen. Deze betoveringen waren bedoeld om de bovenhand te krijgen tegen specifieke monster facties in gevechten voor territorium.',
-      cs: 'Monster Kings zaplatili za drahá vylepšení těchto rukavic. Tato vylepšení měla za cíl získat výhodu proti určitým frakcím monster v bitvách o území.'
+      cs: 'Monster Kings zaplatili za drahá vylepšení těchto rukavic. Tato vylepšení měla za cíl získat výhodu proti určitým frakcím monster v bitvách o území.',
+      pt: 'Os reis dos monstros pagavam por aprimoramentos caros para essas luvas. Esses aprimoramentos tinham o objetivo de obter vantagem contra determinadas facções de monstros em batalhas por território.'
     }
   },
 
@@ -177,7 +186,8 @@ export default [
       it: 'Questa armatura è forgiata senza fuoco o calore nella speranza di conservare le proprietà magiche del metallo speciale che si trova nelle montagne. I fabbri necessitano di martelli incantati per forgiare guanti come questo.',
       ro: 'Această armură este forjată fără foc sau căldură cu speranța că va reține proprietățile magice a metalului special găsit în munți. Fierarii au nevoie de ciocane fermecate pentru a forja astfel de mănuși.',
       nl: 'Dit pantser is gesmeed zonder vuur of hitte in de hoop dat het zijn magische eigenschappen behoudt van het speciale metaal dat in de bergen gevonden wordt. Hoefsmeden vereisen betoverde hamers om zulk soort handschoenen als dit te smeden.',
-      cs: 'Toto brnění je kováno bez ohně a tepla v naději, že si zachová magické vlastnosti speciálního kovu nalezeného v horách. Kováři vyžadují začarovaná kladiva, aby vytvořili rukavice, jako je tato.'
+      cs: 'Toto brnění je kováno bez ohně a tepla v naději, že si zachová magické vlastnosti speciálního kovu nalezeného v horách. Kováři vyžadují začarovaná kladiva, aby vytvořili rukavice, jako je tato.',
+      pt: 'Essa armadura é forjada sem fogo ou calor, na esperança de manter as propriedades mágicas do metal especial encontrado nas montanhas. Os ferreiros precisam de martelos encantados para forjar luvas como essa.'
     }
   },
 
@@ -194,7 +204,8 @@ export default [
       it: 'Una razza più anziana di immortali indossava questa armatura e stabilì grandi imperi. La razza scomparve all\'improvviso e misteriosamente, ma parte della loro armatura fu lasciata indietro.',
       ro: 'O rasă străveche de nemuritori au purtat această armură și au stabilit imperii mari. Rasa a dispărut brusc și misterios, dar câte ceva din armurile lor a fost lăsat în spate.',
       nl: 'Een oud ras van onsterfelijken droegen dit pantser en stichtten grote rijken. Het ras verdween plots en mysterieus, maar sommige van hun pantser was achtergelaten.',
-      cs: 'Starší rasa nesmrtelných nosila toto brnění a založila velké říše. Rasa náhle a záhadně zmizela, ale část jejich brnění po nich zůstala.'
+      cs: 'Starší rasa nesmrtelných nosila toto brnění a založila velké říše. Rasa náhle a záhadně zmizela, ale část jejich brnění po nich zůstala.',
+      pt: 'Uma antiga raça de imortais usava essa armadura e estabeleceu grandes impérios. A raça desapareceu repentina e misteriosamente, mas algumas de suas armaduras foram deixadas para trás.'
     }
   },
 
@@ -212,7 +223,8 @@ export default [
       it: 'I Phrygians furono sviluppati da una civiltà perduta a lungo distrutta dalla guerra. La maggior parte delle rovine di queste città perdute conteneva tesori fantastici che sono stati saccheggiati da tempo.',
       ro: 'Phrygians au fost dezvoltate de o civilizație demult pierdută, distrusă de război. Cele mai multe dintre ruinele acestor orașe conțineau comori fantastice care au fost demult jefuite.',
       nl: 'Phrygians waren ontwikkeld door een lang verloren samenleving vernietigd door oorlog. Het meeste van de ruïnes van de verloren steden hielden fantastische schatten die al land geplunderd zijn.',
-      cs: 'Phrygians byli vyvinuti dávno ztracenou civilizací zničenou válkou. Většina ruin těchto ztracených měst obsahovala fantastické poklady, které byly již dávno vydrancovány.'
+      cs: 'Phrygians byli vyvinuti dávno ztracenou civilizací zničenou válkou. Většina ruin těchto ztracených měst obsahovala fantastické poklady, které byly již dávno vydrancovány.',
+      pt: 'Os Phrygians foram desenvolvidos por uma civilização há muito perdida e destruída pela guerra. A maioria das ruínas dessas cidades perdidas continha tesouros fantásticos que há muito tempo foram saqueados.'
     }
   },
 
@@ -229,7 +241,8 @@ export default [
       it: 'Potenti armature come questa erano necessarie per uccidere i titanici signori dei mostri che cercavano di prendere il controllo dei regni dopo la formazione iniziale della Grande Barriera. La Grande Barriera fu creata per proteggere i regni da nemici oscuri e dimenticati che rivaleggiavano con il potere delle divinità.',
       ro: 'Astfel de armură puternică a fost necesară pentru a ucide monștrii titani suzerani care au încercat să preia controlul asupra tărâmurilor după formarea inițială a Great Barrier. Great Barrier a fost creată pentru a proteja tărâmurile de inamici uitați și întunecați care rivalizau puterile zeităților.',
       nl: 'Krachtig pantser zoals dit was nodig om titanische monsters overheersers die een poging waagden om de rijken te veroveren te verslaan na de initiële formatie van de Great Barrier. De Great Barrier was gecreëerd om de rijken te beschermen van duistere en vergeten vijanden die de krachten van de goden concurreerden.',
-      cs: 'Silné brnění, jako je toto, bylo nutné k zabití titánských vládců monster, kteří se pokusili ovládnout říše po počátečním vytvoření Velké bariéry. Velká bariéra byla vytvořena, aby chránila říše před temnými a zapomenutými nepřáteli, kteří soupeřili s mocí božstev.'
+      cs: 'Silné brnění, jako je toto, bylo nutné k zabití titánských vládců monster, kteří se pokusili ovládnout říše po počátečním vytvoření Velké bariéry. Velká bariéra byla vytvořena, aby chránila říše před temnými a zapomenutými nepřáteli, kteří soupeřili s mocí božstev.',
+      pt: 'Uma armadura poderosa como essa foi necessária para matar os senhores dos monstros titânicos que tentaram assumir o controle dos reinos após a formação inicial da Grande Barreira. A Grande Barreira foi criada para proteger os reinos de inimigos sombrios e esquecidos que rivalizavam com o poder das divindades.'
     }
   }
 

@@ -15,7 +15,8 @@ export default [
       ko: '이 대량생산되는 화살통은 편의성을 위해 엘프의 천으로 만들어졌습니다.',
       zh: '這款批量生產的箭袋採用精靈亞麻布製成，帶來額外的舒適。',
       tr: 'Bu seri üretim sadak fazladan komfor için Elf kumaşından yapılmış.',
-      cs: 'Tento sériově vyráběný toulec je vyroben z elfského plátna pro extra pohodlí.'
+      cs: 'Tento sériově vyráběný toulec je vyroben z elfského plátna pro extra pohodlí.',
+      pt: 'Este aljava produzido em massa é feito com linho élfico para maior conforto.'
     }
   },
 
@@ -35,7 +36,8 @@ export default [
       ko: '거친 화살통은 실용적이고 전투에서 쓰일수있다. 이 화살통은 훈련중인 궁수들에게 주로 사용된다.',
       zh: '仿古的箭袋可靠且經過實戰考驗。 這些箭袋通常會隨著學徒弓箭手的進步而傳遞給他們。',
       tr: 'Sade sadaklar güvenilirdirler ve savaş görmüşlerdir. Bu sadaklar daha çok acemi okçular ilerleme kat ettiğinde onlara verilir.',
-      cs: 'Rustikální toulce jsou spolehlivé a otestované v bitvě. Tyto toulce jsou často předávány lučištním učňům, když postupují.'
+      cs: 'Rustikální toulce jsou spolehlivé a otestované v bitvě. Tyto toulce jsou často předávány lučištním učňům, když postupují.',
+      pt: 'Aljavas Rústicas são confiáveis e testadas em batalha. Essas aljavas são frequentemente passadas para arqueiros aprendizes à medida que avançam.'
     }
   },
 
@@ -55,7 +57,8 @@ export default [
       ko: '이 화살통은 몇몇 몬스터들에게서 나온 뱀비늘로 만들어졌다. 보통은 거대 뱀이 허물을 벗으면, 그 허물에서 비늘을 가져가는 형식으로 비늘을 모았다.',
       zh: '這些箭袋由特殊怪物的蛇麟製成。這些蛇皮通常在巨蛇脫皮後尋找，否則試圖收集蛇皮是很危險的。',
       tr: 'Bu sadaklar özel canavararların özel yılan derilerinden yapılmış. Normalde yılan derileri, dev yılanlar deri dökdükten sonra elde edilir. Öbür türlü yılan derisi elde etmek çok riskli olurdu.',
-      cs: 'Tyto toulce jsou vyrobeny z hadích šupin ze speciálních monster. Obvykle se hadí kůže nalézají poté, co obří hadi svlékli kůži; pokusit se o odběr hadí kůže jinak by bylo vysoké riziko.'
+      cs: 'Tyto toulce jsou vyrobeny z hadích šupin ze speciálních monster. Obvykle se hadí kůže nalézají poté, co obří hadi svlékli kůži; pokusit se o odběr hadí kůže jinak by bylo vysoké riziko.',
+      pt: 'Essas aljavas são feitas de escamas de cobra de monstros especiais. Normalmente, as peles de cobra são encontradas depois que as cobras gigantes trocam de pele; tentar coletar pele de cobra de outra forma seria um alto risco.'
     }
   },
 
@@ -75,7 +78,8 @@ export default [
       ko: '말카약의 아름다운 장인 정신이 이 아름다운 강화된 화살통을 만들었다. 이 강화된 화살통을 가지고 있다는건 숙련된 궁수라는것을 증명한다는 의미다.',
       zh: '由Markay\'ak精湛的工藝製作而成的強化箭袋。像這樣的箭袋通常作為任何職業弓箭手自豪的證明。',
       tr: 'Markay\'ak tarafından olan bu ince işçilik güçlendirilmiş sadakların yapımıyla sonuçlandı. Bunun gibi sadaklar genelde herhangi bir profesyonel okçunun onurunun kanıtıdır.',
-      cs: 'Vynikající řemeslná zručnost Markay\'aka vyústila ve vytvoření Reinforced Exemplars. Toulce, jako je tento, jsou často důkazem hrdosti každého profesionálního lukostřelce.'
+      cs: 'Vynikající řemeslná zručnost Markay\'aka vyústila ve vytvoření Reinforced Exemplars. Toulce, jako je tento, jsou často důkazem hrdosti každého profesionálního lukostřelce.',
+      pt: 'A requintada habilidade de Markay\'ak resultou na criação de Exemplares Reforçados. Aljavas como esta são frequentemente um testemunho do orgulho de qualquer arqueiro profissional.'
     }
   },
 
@@ -95,7 +99,8 @@ export default [
       ko: '이 불멸의 존재는 세상에 대한 복수를 위해 범접할수 없는 힘으로 이 화살통을 만들었다.',
       zh: '一位來自遠古種族的不朽者為了向世界復仇，他創造了具有非人力量的箭袋。',
       tr: 'Kadim ırktan bir ölümsüz, intikamını dünyaya göstermek için insan dışı güçteki sadakları üretti.',
-      cs: 'Nesmrtelný ze starší rasy vytvořil toulce s nelidskou silou, aby projevil svou pomstu světu.'
+      cs: 'Nesmrtelný ze starší rasy vytvořil toulce s nelidskou silou, aby projevil svou pomstu světu.',
+      pt: 'Um imortal de uma raça antiga criou aljavas com um poder inumano para manifestar sua vingança sobre o mundo.'
     }
   },
 
@@ -112,7 +117,8 @@ export default [
       it: 'Questa faretra è composta da squame di drago trovate sul terreno. Le squame di drago sono un materiale di fabbricazione molto difficile, quindi solo i migliori artigiani possono usarle.',
       ro: 'Această tolbă este creată din solzi de dragon găsiți pe pământ. Solzii de dragon sunt un material cu care se lucrează greu, așa că doar cei mai muni meșteri îi pot folosi.',
       nl: 'Deze pijlkoker is gemaakt van drakenschubben die op de grond gevonden kunnen worden. Drakenschubben zijn een zeer lastig ambacht materiaal, dus enkel de beste handhavers kunnen ermee omgaan.',
-      cs: 'Tento toulec je vyroben z dračích šupin nalezených na zemi. Dračí šupiny jsou velmi náročným řemeslným materiálem, takže je mohou používat jen ti nejlepší řemeslníci.'
+      cs: 'Tento toulec je vyroben z dračích šupin nalezených na zemi. Dračí šupiny jsou velmi náročným řemeslným materiálem, takže je mohou používat jen ti nejlepší řemeslníci.',
+      pt: 'Esta aljava é feita de escamas de dragão encontradas no chão. Escamas de dragão são um material de fabricação muito difícil, então apenas os melhores artesãos podem usá-las.'
     }
   },
 
@@ -129,7 +135,8 @@ export default [
       it: 'Le lothariens sono faretre che prendono il nome da un popolo guastato dalla vita. Il popolo Lotario combatté contro i territori circostanti per l\'acquisizione di potere mentre utilizzava queste faretre.',
       ro: 'Lothariens sunt niște tolbe care sunt numite după ce un popor s-a războit până la dispariție. Oamenii Lotharien s-au luptat în jurul teritoriilor pentru a dobândi putere, în timp ce au folosit aceste tolbe.',
       nl: 'Lothariens zijn pijlkokers die vernoemd zijn naar een volk die niet meer bestaan dankzij oorlog. De Lotharien vochten tegen de omringende territoriums voor bezit van macht met behulp van deze pijlkokers.',
-      cs: 'Lothariens jsou toulce, které jsou pojmenovány po lidu, kterému je třeba zabránit. Lotharienští lidé bojovali s okolními územími o získání moci při použití těchto toulců.'
+      cs: 'Lothariens jsou toulce, které jsou pojmenovány po lidu, kterému je třeba zabránit. Lotharienští lidé bojovali s okolními územími o získání moci při použití těchto toulců.',
+      pt: 'Lothariens são aljavas que recebem o nome de um povo extinto pela guerra. O povo Lotharien lutou contra territórios vizinhos para adquirir poder enquanto usava essas aljavas.'
     }
   },
 
@@ -146,7 +153,8 @@ export default [
       it: 'Questa faretra è un dono della foresta come mezzo per gli spiriti della natura per recuperare il potere, il territorio e il rispetto rubati.',
       ro: 'Această tolbă este un cadou al pădurii ca o metodă a spiritelor naturii de a-și redobândi puterea furată, teritoriul, și respectul.',
       nl: 'Deze pijlkoker is een cadeau van het woud als middel voor natuur spirits om hun gestolen macht, territorium en respect te terugvorderen.',
-      cs: 'Tento toulec je darem z lesa jako prostředek pro přírodní duchy, aby získali zpět svou ukradenou moc, území a respekt.'
+      cs: 'Tento toulec je darem z lesa jako prostředek pro přírodní duchy, aby získali zpět svou ukradenou moc, území a respekt.',
+      pt: 'Esta aljava é um presente da floresta como um meio para os espíritos da natureza recuperarem seu poder, território e respeito roubados.'
     }
   },
 
@@ -163,7 +171,8 @@ export default [
       it: 'I Vodhrai sono l\'incarnazione di vendetta, rabbia, ira e determinazione. Le emozioni insolitamente forti di questa faretra vivente potrebbero servire a corrompere l\'utente.',
       ro: 'Vodhrai sunt întruchiparea revanșei, furiei, mâniei, și a determinării. Emoțiile neobișnuit de puternice care provin de la aceasă tolbă vie ar putea servi la a-l corupe pe utilizator.',
       nl: 'De Vodhrai zijn een belichaming van wraak, woede, toorn en vastberadenheid. De abnormaal sterke emoties van deze levende pijlkoker kan de gebruiker misschien corrumperen.',
-      cs: 'Vodhrai jsou ztělesněním pomsty, hněvu, hněvu a odhodlání. Nezvykle silné emoce z tohoto živého toulce by mohly uživatele zkazit.'
+      cs: 'Vodhrai jsou ztělesněním pomsty, hněvu, hněvu a odhodlání. Nezvykle silné emoce z tohoto živého toulce by mohly uživatele zkazit.',
+      pt: 'Os Vodhrai são a personificação de vingança, raiva, ira e determinação. As emoções incomumente fortes desta aljava viva podem corromper o usuário.'
     }
   },
 
@@ -180,7 +189,8 @@ export default [
       it: 'Questa faretra fu trovata una volta vicino alle rovine di un\'intera civiltà. Non sono stati registrati sopravvissuti da questa faretra nella regione da questo periodo di tempo.',
       ro: 'Această tolbă a fost cândva găsită aproape de ruinele unei civilizații întregi. Nu există dovezi care au supraviețuit în legătură cu tolba în regiunea din această perioadă de timp.',
       nl: 'Deze pijlkoker was ooit gevonden in de buurt van ruïnes van een hele samenleving. Er zijn geen overblijvende vermeldingen van de pijlkoker in de regio van deze tijdperiode.',
-      cs: 'Tento toulec byl kdysi nalezen poblíž ruin celé civilizace. Z tohoto období se o toulci v regionu nedochovaly žádné záznamy.'
+      cs: 'Tento toulec byl kdysi nalezen poblíž ruin celé civilizace. Z tohoto období se o toulci v regionu nedochovaly žádné záznamy.',
+      pt: 'Esta aljava foi encontrada próxima às ruínas de uma civilização inteira. Não existem registros sobreviventes sobre a aljava na região desse período de tempo.'
     }
   }
 

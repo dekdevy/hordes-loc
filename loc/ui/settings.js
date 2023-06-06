@@ -53,7 +53,8 @@ export default {
     tr: 'Yetenek barı',
     ko: '스킬바',
     zh: '技能欄',
-    cs: 'Bar dovedností'
+    cs: 'Bar dovedností',
+    pt: 'Barra de habilidades'
   },
 
   skillbarslots: {
@@ -62,7 +63,8 @@ export default {
     tr: 'Yetenek barı slotu',
     ko: '스킬바 슬롯',
     zh: '技能欄位',
-    cs: 'Místa v baru dovedností'
+    cs: 'Místa v baru dovedností',
+    pt: 'Espaços da barra de habilidades'
   },
 
   keybindings: {
@@ -269,7 +271,8 @@ export default {
   fov: {
     en: 'Field of view',
     fr: 'Champ de vision',
-    cs: 'Zorné pole'
+    cs: 'Zorné pole',
+    pt: 'Campo de visão'
   },
 
   resolution: {
@@ -305,7 +308,8 @@ export default {
     zh: '泛光特效',
     tr: 'Kamaşma',
     ko: '블룸 효과',
-    cs: 'Bloom'
+    cs: 'Bloom',
+    pt: 'Bloom'
   },
 
   disableoffscreen: {
@@ -952,7 +956,8 @@ export default {
     fr: 'Butins',
     tr: 'Ganimetler',
     ko: '전리품',
-    cs: 'Dropy'
+    cs: 'Dropy',
+    pt: 'Drops'
   },
 
   showquality: {
