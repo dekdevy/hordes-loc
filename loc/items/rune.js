@@ -158,7 +158,7 @@ export default [
       vi: 'Một khi các phương pháp tăng cường bí mật sử dụng sức mạnh của Gloom đã được phát hiện, những phương pháp đó đã sớm được bán cho một vương quốc đối địch như một trong những sự phản bội lớn nhất trong lịch sử của các vương quốc.',
       it: 'Una volta scoperti i metodi segreti per potenziare l\'equipaggiamento usando il potere del Gloom, quei metodi furono presto venduti a un regno opposto come uno dei più grandi tradimenti nella storia dei regni.',
       es: 'Una vez que se descubrieron los métodos secretos para mejorar el equipo utilizando el poder de Gloom, esos métodos se vendieron en breve a un reino contrario como una de las mayores traiciones en la historia de los reinos.',
-      pt: 'Uma vez que os métodos secretos de aumentar o equipamento usando o poder das Trevas foram descobertos, esses métodos foram vendidos em breve a um reino oposto como uma das maiores traições da história dos reinos.',
+      pt: 'Uma vez que os métodos secretos de aumentar o equipamento usando o poder das Gloom foram descobertos, esses métodos foram vendidos em breve a um reino oposto como uma das maiores traições da história dos reinos.',
       nl: 'Toen het geheim achter het gebruiken van de kracht van Gloom ontdekt werd, waren de methodes snel verkocht aan een tegenstaand koninkrijk als een van de grootste verraden in de geschiedenis van de rijken.',
       cs: 'Jakmile byly objeveny tajné metody vylepšení vybavení pomocí síly Gloomu, byly tyto metody zakrátko prodány nepřátelskému království jako jedna z největších zrad v historii říší.'
     }
