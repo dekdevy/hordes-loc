@@ -478,7 +478,8 @@ export default {
     ko: '등급',
     zh: '職位',
     es: 'Rango',
-    cs: 'Hodnost'
+    cs: 'Hodnost',
+    pt: 'Cargo'
   },
 
   roles: [

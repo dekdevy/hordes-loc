@@ -8,7 +8,8 @@ export default [
       ru: 'Крошечная личинка, которая будет подбирать для вас предметы.',
       fr: 'Un petit asticot qui ramassera les objets pour vous.',
       tr: 'Eşyaları senin için toplayan minik bir kurtçuk.',
-      cs: 'Drobný hlupák, který za vás bude rabovat předměty.'
+      cs: 'Drobný hlupák, který za vás bude rabovat předměty.',
+      pt: 'Uma larva minúscula que irá pegar itens para você.',
     }
   },
 
@@ -21,7 +22,8 @@ export default [
       ru: 'Крошечный гоблин, который будет подбирать для вас предметы.',
       fr: 'Un petit gobelin qui ramassera les objets pour vous.',
       tr: 'Eşyaları senin için toplayan minik bir goblin.',
-      cs: 'Malý skřet, který pro vás bude rabovat předměty.'
+      cs: 'Malý skřet, který pro vás bude rabovat předměty.',
+      pt: 'Um pequeno goblim que irá pegar itens para você.'
     }
   },
 

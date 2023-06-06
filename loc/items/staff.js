@@ -13,7 +13,8 @@ export default [
       nl: 'Stokken en afgebroken takken worden gebruikt door beginnende magiërs voor educatieve doelen.',
       zh: '木棒和斷掉的樹枝會被學徒法師當作學習工具來使用。',
       tr: 'Çubuk ve kırık dallar çırak büyücüler tarafından eğitim amaçlı kullanılmıştır.',
-      cs: 'Tyčinky a zlomené větvičky používají mágové učni pro vzdělávací účely.'
+      cs: 'Tyčinky a zlomené větvičky používají mágové učni pro vzdělávací účely.',
+      pt: 'Varinhas e gravetos quebrados são usados por aprendizes de magos para fins educacionais.'
     }
   },
 
@@ -31,7 +32,8 @@ export default [
       nl: 'Dit is een beschadigde gevecht staf die nog steeds nut heeft voor beginnende magiërs.',
       zh: '這種破損的法杖還有一些新手法師在使用。',
       tr: 'Bu hasarlı savaş değneği başalngıç büyücüleri için halen biraz kullanımı bulunuyor.',
-      cs: 'Toto je poškozený bitevní hůl, který má stále nějaké využití pro začínající uživatele magie.'
+      cs: 'Toto je poškozený bitevní hůl, který má stále nějaké využití pro začínající uživatele magie.',
+      pt: 'Este é um cajado de batalha danificado que ainda tem alguma utilidade para usuários iniciantes de magia.'
     }
   },
 
@@ -49,7 +51,8 @@ export default [
       nl: 'Een paar van de oudste bomen worden gebruikt voor het maken om Gnarled Broomsticks te maken. Deze wapen produceren spreuken om vijanden van het slagveld af te vegen.',
       zh: '一些最古老的樹被用來製造長掃帚。這些武器會產生法術將敵人掃出戰場。',
       tr: 'Bazı eski ağaçlar "Gnarled Broomstick" yapımak için kullanılır. Bu silahlar savaş alanında düşmanları süpüren büyüler üretir.',
-      cs: 'Některé z nejstarších stromů se používají k vytvoření sukovitých košťat. Tyto zbraně vytvářejí kouzla, která smete nepřátele z bojiště.'
+      cs: 'Některé z nejstarších stromů se používají k vytvoření sukovitých košťat. Tyto zbraně vytvářejí kouzla, která smete nepřátele z bojiště.',
+      pt: 'Algumas das árvores mais antigas são usadas para criar Vassouras Retorcidas. Essas armas lançam feitiços para varrer os inimigos do campo de batalha.'
     }
   },
 
@@ -67,7 +70,8 @@ export default [
       nl: 'Dit is een stevig oak wapen voor het oproepen van middelmatige magie.',
       zh: '這是用於施展中級魔法的堅固橡木武器。',
       tr: 'Bu sağlam meşe değnek orta derecede büyü yapmak içindir.',
-      cs: 'Jedná se o robustní dubovou zbraň pro sesílání střední magie.'
+      cs: 'Jedná se o robustní dubovou zbraň pro sesílání střední magie.',
+      pt: 'Este é um poderoso cajado de carvalho para conjuração de magia intermediária.'
     }
   },
 
@@ -85,7 +89,8 @@ export default [
       nl: 'Deze toverstaf is een cadeau van de Mystics wat ingebed is met vreemde scherven die de magische krachten verbeteren. ',
       zh: '這根魔杖是來自秘客的禮物，裡面鑲嵌著可以增強魔力的奇異碎片。',
       tr: 'Bu asa, büyülü gücü artıran garip parçalarla gömülü mistiklerden bir hediye.',
-      cs: 'Tato hůlka je darem od mystiků, který je osazen zvláštními úlomky, které zvyšují magickou sílu.'
+      cs: 'Tato hůlka je darem od mystiků, který je osazen zvláštními úlomky, které zvyšují magickou sílu.',
+      pt: 'Esta varinha é um presente dos místicos, embutida com estranhas lascas que aumentam o poder mágico.'
     }
   },
 
@@ -103,7 +108,8 @@ export default [
       nl: 'Dit is gemaakt van de botten van monsters magiërs om de magische krachten te vergroten.',
       zh: '這是由怪獸法師的骨頭製成以增强魔法力量。',
       tr: 'Bu, büyü gücünü arttırmak için canavar büyücülerin kemiklerinden yapılmıştır.',
-      cs: 'Vyrábí se z kostí mágů monster pro zvýšení magické síly.'
+      cs: 'Vyrábí se z kostí mágů monster pro zvýšení magické síly.',
+      pt: 'Esta é feita dos ossos de magos monstros para ampliar o poder mágico.'
     }
   },
 
@@ -121,7 +127,8 @@ export default [
       nl: 'Deze staaf is ingelegd met edelstenen die magische krachten opslaan.',
       zh: '這把杖上鑲嵌著儲存魔力的寶石。',
       tr: 'Bu asa büyülü gücü depolaması için değerli taşlarla kaplanmıştır.',
-      cs: 'Tato tyč je pokryta drahokamy, které uchovávají magickou sílu.'
+      cs: 'Tato tyč je pokryta drahokamy, které uchovávají magickou sílu.',
+      pt: 'Este bastão está incrustado com gemas que armazenam poder mágico.'
     }
   },
 
@@ -139,7 +146,8 @@ export default [
       nl: 'De etst runen op deze staf gloeien zwak zodra spreuken opgeroepen worden. Hoewel meerdere magie gildes geloven dat de runen spel oproep vermogen vergroten, de ware natuur achter de runen is onbekend.',
       zh: '當施法時，這根法杖上蝕刻的符文會發出微弱的光芒。雖然有幾個法師協會明確地認為符文可以增强施法能力，但符文的真實性質尚不清楚。',
       tr: 'Bu değneğe kazılmış rünler büyü yapıldığında hafifçe parlarlar. Buna rağmen birçok büyücü loncaları bu rünlerin büyü yapmayı arttırdığına açıkça inanırlar, bu rünler gerçek doğası bilinmiyor.',
-      cs: 'Vyleptané runy na této hůlce při sesílání kouzel slabě září. Ačkoli několik cechů mágů jasně věří, že runy rozšiřují sesílání kouzla, skutečná povaha run není známa.'
+      cs: 'Vyleptané runy na této hůlce při sesílání kouzel slabě září. Ačkoli několik cechů mágů jasně věří, že runy rozšiřují sesílání kouzla, skutečná povaha run není známa.',
+      pt: 'As runas gravadas neste bastão brilham tenuamente quando feitiços são lançados. Embora várias guildas de magos acreditem claramente que as runas aprimoram o lançamento de feitiços, a verdadeira natureza das runas é desconhecida.'
     }
   },
 
@@ -155,7 +163,8 @@ export default [
       it: 'Questo bastone usa una pietra incantata per incanalare e focalizzare energie magiche. Il processo di ricerca di uno smeraldo così speciale, insieme al costoso processo incantevole, rende questo bastone un po\' difficile da fabbricare.',
       es: 'Este bastón usa una piedra encantada para canalizar y enfocar energías mágicas. El proceso de encontrar una esmeralda tan especial, junto con el costoso proceso de encantamiento, hace que este bastón sea algo difícil de elaborar.',
       nl: 'Deze staf gebruikt een betoverde steen voor het kanaliseren en focussen van magische energy. Het proces om zo een magische smaragd te vinden, vergezeld met het dure betoveringsproces, zorgt ervoor dat deze staf redelijk moeilijk om de maken.',
-      cs: 'Tato hůl používá začarovaný kámen k usměrňování a zaměření magických energií. Proces hledání takového speciálního smaragdu spolu s drahým procesem okouzlování činí tuto hůl poněkud obtížně vyrobitelnou.'
+      cs: 'Tato hůl používá začarovaný kámen k usměrňování a zaměření magických energií. Proces hledání takového speciálního smaragdu spolu s drahým procesem okouzlování činí tuto hůl poněkud obtížně vyrobitelnou.',
+      pt: 'Este cajado usa uma pedra encantada para canalizar e concentrar as energias mágicas. O processo de encontrar uma esmeralda tão especial, juntamente com o caro processo de encantamento, torna este cajado um tanto difícil de ser fabricado.'
     }
   },
 
@@ -171,7 +180,8 @@ export default [
       it: 'Questo bastone è fatto di Dragonwood e usa pietre che erano originariamente doni di drago. Le tracce residue del potere draconico contenute nelle pietre accentuano la potenza della magia.',
       es: 'Este bastón está hecho de Dragonwood y utiliza piedras que originalmente eran regalos de dragones. Los rastros residuales de poder draconico contenidos en las piedras componen la potencia de la magia.',
       nl: 'Deze staf is gemaakt van Dragonwood en gebruikt stenen die oorspronkelijk draak cadeaus waren. De overblijvende sporen van de draakse kracht die in de stenen zit mengt de magische potentie.',
-      cs: 'Tato hůl je vyrobena z Dračího dřeva a používá kameny, které byly původně dračími dary. Zbytkové stopy drakonické síly obsažené v kamenech slučují magickou sílu.'
+      cs: 'Tato hůl je vyrobena z Dračího dřeva a používá kameny, které byly původně dračími dary. Zbytkové stopy drakonické síly obsažené v kamenech slučují magickou sílu.',
+      pt: 'Este cajado é feito de Madeira de Dragão e usa pedras que foram presentes de dragões. As traços residuais do poder dracônico contidos nas pedras aumentam a potência da magia.'
     }
   },
 
@@ -187,7 +197,8 @@ export default [
       it: 'Il Frozen Greatstaff è realizzato da mortali con ghiaccio trovato solo negli Inferi. Sebbene i metodi di costruzione siano imperfetti, i risultati possono essere ancora piuttosto potenti.',
       es: 'El Frozen Greatsuff está hecho por mortales con hielo que sólo se encuentra en el inframundo. Aunque los métodos de construcción son defectuosos, los resultados aún pueden ser bastante poderosos.',
       nl: 'De Frozen Greatstaff is gemaakt door stervelingen met ijs dat enkel gevonden wordt in de onderwereld. Hoewel de constructie methodes gebrekkig zijn, kunnen de resultaten nogal krachtig zijn.',
-      cs: 'Frozen Greatstaff je vyroben smrtelníky s ledem nalezeným pouze v podsvětí. Přestože jsou konstrukční metody chybné, výsledky mohou být stále velmi silné.'
+      cs: 'Frozen Greatstaff je vyroben smrtelníky s ledem nalezeným pouze v podsvětí. Přestože jsou konstrukční metody chybné, výsledky mohou být stále velmi silné.',
+      pt: 'O Grande Cajado Congelado é feito por mortais com gelo encontrado apenas no Submundo. Embora os métodos de construção sejam falhos, os resultados ainda podem ser bastante poderosos.'
     }
   },
 
@@ -203,7 +214,8 @@ export default [
       it: 'Questo bastone è composto da Underwood che ha subito un processo di tempera magica usando le Underworld Flames. Anche se il bastone è stato senza dubbio realizzato da mani mortali, il metodo per ottenere un Underworld Flames sembra essere un segreto perso nel tempo.',
       es: 'Este bastón está hecho de Underwood sometida a un proceso de templado mágico utilizando Underworld Flames. Aunque el personal fue indudablemente creado por manos mortales, el método para obtener el Internal Staff parece ser un secreto perdido en el tiempo.',
       nl: 'Deze staf is gemaakt van Underwood die een magische tempering proces is ondergaan met behulp van onderwereld vlammen. Hoewel de staven ongetwijfeld gemaakt zijn met sterfelijke handen, is de methode om de vlammen te krijgen een geheim dat voorbij is gegaan met de tijd.',
-      cs: 'Tato hůl je vyrobena z Underwood, který prošel magickým procesem temperování pomocí Underworld Flames. Ačkoli hůlky byly nepochybně vytvořeny rukama smrtelníků, způsob, jak získat Underworld Flames, se zdá být tajemstvím ztraceným časem.'
+      cs: 'Tato hůl je vyrobena z Underwood, který prošel magickým procesem temperování pomocí Underworld Flames. Ačkoli hůlky byly nepochybně vytvořeny rukama smrtelníků, způsob, jak získat Underworld Flames, se zdá být tajemstvím ztraceným časem.',
+      pt: 'Este cajado é feito de Madeira Infernal que passou por um processo de têmpera mágica usando Chamas do Submundo. Embora os cajados tenham sido indubitavelmente criados por mãos mortais, o método para obter Chamas do Submundo parece ser um segredo perdido no tempo.'
     }
   },
 
@@ -219,7 +231,8 @@ export default [
       it: 'Gli Hellfire Greatstaffs sono costruiti con le fiamme dell\'inferno fornite dai diavoli dispettosi. Sebbene il processo per creare uno staff come questo sia misterioso, il prezzo richiesto dai diavoli coinvolti non lo è.',
       es: 'Los Hellfire Greatstaffs están construidos con fuegos infernales proporcionados por demonios traviesos. Aunque el proceso para crear un bastón como este es misterioso, el precio exigido por los demonios involucrados no lo es.',
       nl: 'Hellfire Greatstaffs zijn gemaakt met hellevuur bevoorraad door ondeugende duivels. Hoewel de wijze om dit soort staven te maken mysterieus is, is de gevraagde prijs van de duivels niet.',
-      cs: 'Hellfire Greatstaffs jsou vyrobeny z pekelných ohňů, které poskytují zlomyslní ďáblové. I když je proces vytvoření takové hůlky záhadný, cena požadovaná zúčastněnými ďábly není.'
+      cs: 'Hellfire Greatstaffs jsou vyrobeny z pekelných ohňů, které poskytují zlomyslní ďáblové. I když je proces vytvoření takové hůlky záhadný, cena požadovaná zúčastněnými ďábly není.',
+      pt: 'Grandes Cajados de Fogo Infernal são construídos com fogos infernais fornecidos por diabretes travessos. Embora o processo de criar um cajado como este seja misterioso, o preço cobrado pelos diabretes envolvidos não é.'
     }
   },
 
@@ -235,7 +248,8 @@ export default [
       it: 'Questo tipo di bastone è modellato su testi antichi. Parte del processo di creazione richiede che centinaia di esseri devoti richiedano benedizioni al personale da parte di divinità specifiche.',
       es: 'Este tipo de bastón está modelado a partir de textos antiguos. Parte del proceso de elaboración requiere que cientos de seres devotos soliciten bendiciones al bastón por parte de deidades específicas.',
       nl: 'Dit soort staf is gemodelleerd van eeuwenoude teksten. Delen van het maak proces vereist honderden vastberaden wezen om de zegen van specifieke goden te krijgen voor de staf.',
-      cs: 'Tento druh hole je modelován ze starověkých textů. Část procesu výroby vyžaduje, aby stovky oddaných bytostí požádaly o požehnání na hůl konkrétními božstvy.'
+      cs: 'Tento druh hole je modelován ze starověkých textů. Část procesu výroby vyžaduje, aby stovky oddaných bytostí požádaly o požehnání na hůl konkrétními božstvy.',
+      pt: 'Este tipo de cajado é modelado a partir de textos antigos. Parte do processo de fabricação requer centenas de seres devotos para solicitar bênçãos específicas das deidades ao cajado.'
     }
   },
 
@@ -251,7 +265,8 @@ export default [
       it: 'Questo strano bastone utilizza cristalli del Realm of Madness per migliorare le magie selvagge in natura. I cristalli sono il componente centrale di questo bastone.',
       es: 'Este extraño bastón utiliza cristales del Realm of Madness para mejorar la magia salvaje en la naturaleza. Los cristales son el componente central de este bastón.',
       nl: 'Deze rare staf gebruikt kristallen van de Realm of Madness om de wilde magie te verbeteren in de natuur. De kristallen zijn de centrale component van deze staf.',
-      cs: 'Tato podivná hůl využívá krystaly z Říše šílenství k posílení divokých kouzel v přírodě. Krystaly jsou ústřední složkou této hole.'
+      cs: 'Tato podivná hůl využívá krystaly z Říše šílenství k posílení divokých kouzel v přírodě. Krystaly jsou ústřední složkou této hole.',
+      pt: 'Este estranho cajado utiliza cristais do Reino da Loucura para amplificar a magia selvagem na natureza. Os cristais são o componente central deste cajado.'
     }
   },
 
@@ -267,7 +282,8 @@ export default [
       it: 'Il cuore di una strega anziana alimenta la magia di questo bastone. I poteri proibiti hanno rianimato il cuore pulsante, facendo sì che il bastone incarichi simbolicamente una rappresentazione dei non morti.',
       es: 'El corazón de una bruja mayor alimenta la magia de este bastón. Los poderes prohibidos reanimaron el corazón que late, lo que hace que el bastón encarne simbólicamente una representación de los muertos vivientes.',
       nl: 'Het hart van een oude heks geeft kracht aan deze staf. Verboden krachten reanimeren het kloppende hart wat ervoor zorgt dat de staf op een symbolische wijze de belichaming van de dood representeert.',
-      cs: 'Srdce starší čarodějnice pohání magii této hole. Zakázané síly znovu oživily tlukoucí srdce, což způsobilo, že hůl symbolicky ztělesnila zobrazení nemrtvých.'
+      cs: 'Srdce starší čarodějnice pohání magii této hole. Zakázané síly znovu oživily tlukoucí srdce, což způsobilo, že hůl symbolicky ztělesnila zobrazení nemrtvých.',
+      pt: 'O coração de uma bruxa anciã alimenta a magia deste cajado. Poderes proibidos reanimaram o coração pulsante, fazendo com que o cajado simbolize de forma simbólica uma representação dos mortos-vivos.'
     }
   },
 
@@ -283,7 +299,8 @@ export default [
       it: 'I Deathweavers sono reliquie sopravvissute alla creazione della Grande Barriera. Questi strani bastoni non sono di questo mondo.',
       es: 'Los Deathweavers son reliquias que han sobrevivido a la creación de la Gran Barrera. Estos extraños bastones no son de este mundo.',
       nl: 'Deathweavers zijn relikwieën die de creatie van de Great Barrier overleefd hebben. Deze vreemde staven zijn niet van deze wereld.',
-      cs: 'Deathweavers jsou relikvie, které přežily vytvoření Velké bariéry. Tyto podivné štáby nejsou z tohoto světa.'
+      cs: 'Deathweavers jsou relikvie, které přežily vytvoření Velké bariéry. Tyto podivné štáby nejsou z tohoto světa.',
+      pt: 'Tece-Mortes são relíquias que sobreviveram à criação da Grande Barreira. Esses estranhos cajados não são deste mundo.'
     }
   }
 

@@ -15,7 +15,8 @@ export default [
       it: 'Questo zaino è stato fabbricato con un tessuto fragile. Zaini come questi spesso vengono utilizzati dalle persone comuni per trasportare i loro averi.',
       ro: 'Acest săculeț este făcut dintr-un material delicat. Astfel de săculeți sunt des folosiți de oameni simpli pentru a-și căra bunurile.',
       cs: 'Tato taška je vyrobena z jemné látky. Takové vaky často vlastní obyčejní lidé na přenášení svých věcí.',
-      zh: '這個袋子是用精巧的織法製作的，這種類型的袋子常常出現在平民的身邊以便於他們攜帶物品。'
+      zh: '這個袋子是用精巧的織法製作的，這種類型的袋子常常出現在平民的身邊以便於他們攜帶物品。',
+      pt: 'Esta bolsa é feita de um tecido delicado. Bolsas como essa costumam ser usadas por pessoas comuns para carregar seus pertences.',
     }
   },
 
@@ -35,7 +36,8 @@ export default [
       it: 'Questo zaino robusto è stato realizzato con un tessuto resistente per contenere più oggetti rispetto ad un "Linen Pouch".',
       ro: 'Acest sac aspru este creat din materiale robuste pentru a susține mai mult echipament decât "Linen Pouch".',
       cs: 'Tento odolný pytel je vyroben z pevných látek, aby pojal více vybavení než plátěný vak.',
-      zh: '這個粗糙的背包是由堅韌的織物製作的以保存比麻布袋更多的物品。'
+      zh: '這個粗糙的背包是由堅韌的織物製作的以保存比麻布袋更多的物品。',
+      pt: 'Esta mochila resistente é feita de tecidos duráveis para guardar mais equipamentos do que uma bolsa de linho.',
     }
   },
 
@@ -55,7 +57,8 @@ export default [
       it: 'Questo zaino resistente è stato fabbricato con la pelle dei mostri e consente un inventario rispettabile.',
       ro: 'Acest sac robust este făcut din piele de monstru și permite posesia unui inventar respectabil.',
       cs: 'Tento robustní pytel je vyroben z kůží monster a umožňuje úctyhodný inventář.',
-      zh: '這個堅實的背包是由獸皮製作而成以保存大量物品。'
+      zh: '這個堅實的背包是由獸皮製作而成以保存大量物品。',
+      pt: 'Esta bolsa resistente é feita de peles de monstros e permite um inventário respeitável.',
     }
   },
 
@@ -73,7 +76,8 @@ export default [
       nl: 'Deze fijne tas is gehandhaafd van dure tover-stoffen en heeft meer zakken dan de meeste andere tassen.',
       it: 'Questo zaino pregiato è stato realizzato con costosi tessuti elfici e contiene più tasche della maggior parte degli zaini.',
       ro: 'Acest sac rezistent a fost creat din materialele scumpe ale Elfilor și are mai multe buzunare decât majoritatea celorlalți saci.',
-      cs: 'Tato jemná taška byla vyrobena z drahých elfských látek a obsahuje více kapes než většina ostatních tašek.'
+      cs: 'Tato jemná taška byla vyrobena z drahých elfských látek a obsahuje více kapes než většina ostatních tašek.',
+      pt: 'Esta bela bolsa foi feita com tecidos élficos caros e contém mais bolsos do que a maioria das outras bolsas.',
     }
   },
 
@@ -91,7 +95,8 @@ export default [
       nl: 'Tassen zoals deze zijn cadeaus van de natuur aan geheime druïde samenlevingen. Jammer genoeg, monsters hebben vele druïdes opgeruimd na een tijdje en hebben deze heilige tassen gestolen.',
       it: 'Zaini come questi sono un dono della natura alle società segrete dei druidi. Sfortunatamente, i mostri con il passare del tempo hanno ucciso molti druidi e hanno rubato queste sacre sacche.',
       ro: 'Astfel de saci sunt un cadou din partea naturii pentru societățile secrete de druizi. Din păcate, monștrii au scăpat de mulți druizi de-a lungul timpului și au furat acești saci sacrii.',
-      cs: 'Tašky, jako je tato, jsou darem přírody tajným druidským společnostem. Bohužel, monstra se časem zbavila mnoha druidů a ukradla tyto posvátné tašky.'
+      cs: 'Tašky, jako je tato, jsou darem přírody tajným druidským společnostem. Bohužel, monstra se časem zbavila mnoha druidů a ukradla tyto posvátné tašky.',
+      pt: 'Bolsas como essa são um presente da natureza para sociedades secretas de druidas. Infelizmente, monstros têm eliminado muitos druidas ao longo do tempo e roubado essas bolsas sagradas.',
     }
   }
 

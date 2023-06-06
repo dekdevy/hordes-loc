@@ -15,7 +15,8 @@ export default {
     tr: 'Seviye',
     ko: '레벨',
     zh: '等級',
-    cs: 'Úroveň'
+    cs: 'Úroveň',
+    pt: 'Nível'
   },
 
   class: {
@@ -42,7 +43,8 @@ export default {
     tr: 'Rütbe',
     ko: '계급',
     zh: '排位',
-    cs: 'Hodnost'
+    cs: 'Hodnost',
+    pt: 'Classificação'
   },
 
   rating: {
@@ -51,7 +53,7 @@ export default {
     tr: 'Derecelendirme',
     ko: '평점',
     zh: '積分',
-    PT: 'Classificação',
+    pt: 'Avaliação',
     cs: 'Hodnocení'
   },
 

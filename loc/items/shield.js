@@ -12,7 +12,8 @@ export default [
       nl: 'Dit in elkaar gezette schild lijkt geproduceerd te zijn uit noodzaak.',
       zh: '這是一個臨時的盾牌，似乎是出於必要而生產的。',
       tr: 'Bu derme çatma kalkan zorunlulukla üretilmiş gibi gözüküyor.',
-      cs: 'Toto je provizorní štít, který se zdá být vyroben z nutnosti.'
+      cs: 'Toto je provizorní štít, který se zdá být vyroben z nutnosti.',
+      pt: 'Este é um escudo improvisado que parece ter sido produzido por necessidade.'
     }
   },
 
@@ -29,7 +30,8 @@ export default [
       nl: 'Bucklers kunnen nuttig zijn als bescherming tegen kleine en lichte wapens. Piraten gebruiken vaak Bucklers voor bewegelijkheid.',
       zh: '小圓盾可以有效保護小型和輕型武器。海盜經常使用小圓盾來提高機動性。',
       tr: '"Buckeler" küçük ve hafif silahlara karşı iyi koruma sağlayabilir. Korsanlar "buckler" kalkanını manevra kabiliyeti için sıkça kullanmışlardır.',
-      cs: 'Bucklers can be useful protection against small and light weapons. Pirates often use bucklers for maneuverability.'
+      cs: 'Bucklers can be useful protection against small and light weapons. Pirates often use bucklers for maneuverability.',
+      pt: 'Broquéis podem ser uma proteção útil contra armas pequenas e leves. Piratas frequentemente usam broquéis para maior mobilidade.'
     }
   },
 
@@ -46,7 +48,8 @@ export default [
       nl: 'Dit is een schild type dat regelmatig gemaakt wordt in oorlogstijden. Hoewel het goedkoop is, is het gemaakt van stevig ironbark.',
       zh: '這是一種盾牌類型，通常在戰爭時期製造。雖然便宜，但盾牌是由堅固的鐵桉木製成的。',
       tr: 'Savaş zamanlarında bunun gibi kalkan tipleri sıkça yapılırdı. Ucuzluğuna rağmen, bu kalkan sağlam ironbark üretimi.',
-      cs: 'Jedná se o typ štítu, který se často vyrábí během válečných časů. Přestože je štít levný, je vyroben z pevné železné kůry.'
+      cs: 'Jedná se o typ štítu, který se často vyrábí během válečných časů. Přestože je štít levný, je vyroben z pevné železné kůry.',
+      pt: 'Este é um tipo de escudo que geralmente é fabricado durante tempos de guerra. Embora barato, o escudo é feito de um resistente carvalho de ferro.'
     }
   },
 
@@ -63,7 +66,8 @@ export default [
       nl: 'Koninklijke schildwachters gebruiken vaak dit soort schilden om schade te verminderen en om burgers te beschermen.',
       zh: '王國哨兵經常使用這樣的盾牌來減少受到的傷害並保護居民。',
       tr: 'Kraliyet nöbetçileri bu kalkanı alınan hasarı azaltmak ve vatandaşları korumak için bunun gibi kalkanlar kullanırdı.',
-      cs: 'Stráže království často používají štíty, jako je tento, ke snížení obdrženého poškození a také k ochraně občanů.'
+      cs: 'Stráže království často používají štíty, jako je tento, ke snížení obdrženého poškození a také k ochraně občanů.',
+      pt: 'Sentinelas do reino frequentemente usam escudos como este para reduzir o dano recebido e proteger os cidadãos.'
     }
   },
 
@@ -80,7 +84,8 @@ export default [
       nl: 'Dit schild is gemaakt van darkmetal en is gezalfd in black oil. Avonturiers met dit soort schilden zullen zeker opvallen tussen de rest.',
       zh: '這面盾牌由黑暗金屬製成，並塗有黑油。擁有這種盾牌的冒險者必然會脫穎而出。',
       tr: 'Bu kalkan darkmetalden yapılmış ve siyah bir yağ ile yağlanmıştır. Bunun gibi kalkanı olan maceracılar şüphesiz diğerlerin farklı olacaklardır.',
-      cs: 'Tento štít je vyroben z tmavého kovu a pomazán černým olejem. Dobrodruzi s tímto druhem štítu jistě vyniknou nad ostatními.'
+      cs: 'Tento štít je vyroben z tmavého kovu a pomazán černým olejem. Dobrodruzi s tímto druhem štítu jistě vyniknou nad ostatními.',
+      pt: 'Este escudo é feito de darkmetal e ungido com um óleo preto. Aventureiros com esse tipo de escudo certamente se destacarão dos demais.'
     }
   },
 
@@ -95,7 +100,8 @@ export default [
       it: 'Gli Spiked Warshields sono robusti in battaglia e adatti alla cultura degli orchi. I guerrieri orchi veterani mostrano le loro tacche di vittoria sui lati dei loro scudi.',
       es: 'Los Spiked Warshields son robustos en la batalla y adecuados para la cultura orca. Los guerreros orcos veteranos muestran sus muescas de victoria a los lados de sus escudos.',
       nl: 'Spiked Warshields zijn robuust voor de strijd en gepast voor orc cultuur. Veterane orc strijders tonen hun overwinning gleuven op de zijkanten van hun schilden.',
-      cs: 'Špičaté válečné štíty jsou robustní v bitvě a hodí se pro orkskou kulturu. Zkušení orkští válečníci vystavují své vítězné zářezy na bocích svých štítů.'
+      cs: 'Špičaté válečné štíty jsou robustní v bitvě a hodí se pro orkskou kulturu. Zkušení orkští válečníci vystavují své vítězné zářezy na bocích svých štítů.',
+      pt: 'Escudos de Guerra com Espigões são robustos em batalha e adequados para a cultura orcs. Guerreiros orcs veteranos exibem suas marcas de vitória nas laterais de seus escudos.'
     }
   },
 
@@ -110,7 +116,8 @@ export default [
       it: 'I paladini acquisiscono questo scudo quando raggiungono un certo livello di devozione spirituale. Tuttavia, questi scudi sono talvolta visti senza i loro proprietari...',
       es: 'Los paladines adquieren este escudo cuando alcanzan cierto nivel de devoción espiritual. Sin embargo, estos escudos de paladín a veces se ven sin sus dueños...',
       nl: 'Paladijnen krijgen dit schild zodra ze een niveau van spirituele vastberadenheid bereiken. Maar deze paladijn schilden worden soms gespot zonder hun eigenaren...',
-      cs: 'Paladinové získají tento štít, když dosáhnou určité úrovně duchovní oddanosti. Tyto paladinské štíty jsou však někdy vidět bez jejich vlastníků...'
+      cs: 'Paladinové získají tento štít, když dosáhnou určité úrovně duchovní oddanosti. Tyto paladinské štíty jsou však někdy vidět bez jejich vlastníků...',
+      pt: 'Paladinos adquirem este escudo quando alcançam um certo nível de devoção espiritual. No entanto, esses escudos de paladino às vezes são vistos sem seus proprietários...'
     }
   },
 
@@ -125,7 +132,8 @@ export default [
       it: 'Questo tipo di scudo è realizzato da mortali con ghiaccio che si trova solo negli Inferi. Sebbene lo scudo sia potente, le insolite proprietà e la rarità dell\'Underworld Ice rendono i tentativi mortali di ricostruire questi scudi carenti nella migliore delle ipotesi.',
       es: 'Este tipo de escudo está hecho por mortales con hielo que solo se encuentra en el Inframundo. Aunque el escudo es poderoso, las propiedades inusuales y la rareza del Underworld Ice hacen que los intentos mortales de reconstruir estos escudos sean inadecuados en el mejor de los casos.',
       nl: 'Dit type schild is gemaakt door stervelingen met ijs uit de onderwereld. Hoewel het schild krachtig is, zorgen de ongewone eigenschappen en zeldzaamheid van het onderwereldijs dat sterfelijke pogingen op de recreatie van deze schilden onvoldoende is.',
-      cs: 'Tento typ štítu vyrábějí smrtelníci s ledem, který se nachází pouze v podsvětí. Ačkoli je štít silný, neobvyklé vlastnosti a vzácnost ledu podsvětí činí pokusy smrtelníků o rekonstrukci těchto štítů přinejlepším nedostatečné.'
+      cs: 'Tento typ štítu vyrábějí smrtelníci s ledem, který se nachází pouze v podsvětí. Ačkoli je štít silný, neobvyklé vlastnosti a vzácnost ledu podsvětí činí pokusy smrtelníků o rekonstrukci těchto štítů přinejlepším nedostatečné.',
+      pt: 'Este tipo de escudo é feito por mortais com gelo encontrado apenas no Submundo. Embora o escudo seja poderoso, as propriedades incomuns e a raridade do Gelo do Submundo tornam as tentativas mortais de reconstrução desses escudos inadequadas, no mínimo.'
     }
   },
 
@@ -140,7 +148,8 @@ export default [
       it: 'Questo scudo sacro è avvolto da leggende e voci. Un\'antica pergamena racconta come lo scudo abbia creato false copie dell\'utente per confondere gli avversari. Un altro rotolo spiega in alternativa che lo scudo è stato modellato sullo stesso scudo brandito da una divinità.',
       es: 'Este escudo sagrado está envuelto en leyendas y rumores. Un pergamino antiguo cuenta cómo el escudo creó copias falsas del usuario para confundir a los oponentes. Otro pergamino explica alternativamente que el escudo fue modelado según el escudo manejado por una deidad.',
       nl: 'Dit heilige schild is ingepakt in legendes en geruchten. Een oude rol verteld dat het schild kopieën maakte van de gebruiker om de tegenstander te verwarren. Een andere rol zegt dat het schild gemodelleerd is naar een schild van een goddelijkheid.',
-      cs: 'Tento posvátný štít je opředen legendami a pověstmi. Jeden starověký svitek vypráví, jak štít vytvořil falešné kopie uživatele, aby zmátl protivníky. Jiný svitek alternativně vysvětluje, že štít byl vymodelován podle samotného štítu, kterým vládlo božstvo.'
+      cs: 'Tento posvátný štít je opředen legendami a pověstmi. Jeden starověký svitek vypráví, jak štít vytvořil falešné kopie uživatele, aby zmátl protivníky. Jiný svitek alternativně vysvětluje, že štít byl vymodelován podle samotného štítu, kterým vládlo božstvo.',
+      pt: 'Este escudo sagrado está envolto em lendas e rumores. Um antigo pergaminho conta como o escudo criava cópias falsas do usuário para confundir os oponentes. Outro pergaminho explica alternativamente que o escudo foi modelado exatamente como o escudo empunhado por uma deidade.'
     }
   },
 
@@ -155,7 +164,8 @@ export default [
       it: 'La pittura divina su questo scudo è animata e può conferire a un degno utente poteri fantastici. Alcuni osservatori credono che l\'occhio lampeggiante permetta al pittore misterioso e divino di vedere il mondo.',
       es: 'La pintura divina en este escudo es animada y puede imbuir a un usuario digno de poderes fantásticos. Algunos observadores creen que el ojo parpadeante permite que el pintor misterioso y divino vea el mundo.',
       nl: 'De beholder’s eye in het midden van dit schild zaait angst in het hart van vele tegenstanders die beweren dat ze onbevreesd zijn. De houdbaarheid methode die ervoor zorgt dat het organische oog nog steeds functioneert is nog steeds een mysterie.',
-      cs: 'Božská barva na tomto štítu je animovaná a může naplnit důstojného uživatele fantastickými schopnostmi. Někteří pozorovatelé věří, že mrkající oko umožňuje tajemnému a božskému malíři vidět svět.'
+      cs: 'Božská barva na tomto štítu je animovaná a může naplnit důstojného uživatele fantastickými schopnostmi. Někteří pozorovatelé věří, že mrkající oko umožňuje tajemnému a božskému malíři vidět svět.',
+      pt: 'A pintura divina deste escudo é animada e pode imbuir um usuário digno com poderes fantásticos. Alguns observadores acreditam que o olho piscante permite ao misterioso e divino pintor ver o mundo.'
     }
   }
 
