@@ -461,7 +461,7 @@ export default {
   },
 
   memberdesc: {
-    en: 'This is a list of members of this clan. Right click the members for additional options.',
+    en: 'This is a list of members of this clan. Right click the members for additional options.'
     // -----------------------------------------------------------------------------------------------------------------------------------------
     // English translation was changed from "This is a list of active members of this clan. Right click the members for additional options." to
     // "This is a list of members of this clan. Right click the members for additional options." (removed the word "active"). Below translations
