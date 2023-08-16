@@ -24,8 +24,10 @@ export default {
       cs: 'Slyšel jsi o krystalových střepech, které byly nedávno objeveny? Dobrodruzi je mohou použít k cestování přímo do vzdálených říší. Nemám žádné Crystal Shards, ale můžu vás poslat na některá místa, protože mystické síly v tomto nexu konvergují. Která oblast je tvým cílem? '
     },
 
+    // "Teleport to Guardstone/Headless/Faivel", one of the game realms.
     choices: [{
-      en: 'Teleport to $1.' // keep it short
+      en: 'Teleport to $1.', // keep it short
+      ru: 'Телепортироваться на $1.'
     }]
   }]
 }
