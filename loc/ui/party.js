@@ -360,5 +360,15 @@ export default {
     ko: '멤버',
     zh: '隊員',
     pt: 'Membros'
-  }
+  },
+
+  activities: [
+    {en: 'Leveling (PvE)' },
+    {en: 'Farming (PvE)' },
+    {en: 'Boss Fight (PvE)' },
+    {en: 'Obelisk (PvP)' },
+    {en: 'Arena (PvP)' },
+    {en: 'War (PvP)' },
+    {en: 'Other'}
+  ]
 }
