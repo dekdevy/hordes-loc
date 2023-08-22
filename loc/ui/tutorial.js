@@ -262,7 +262,7 @@ export default {
       // tr: 'Bir party\'de ki oyuncular deneyimi ve eşyayı paylaşarak onları tekli oyunculardan daha hızlı ilerleme kaydetmesini sağlar.'
     },
     {
-      en: 'You can create or find a party with the party interface. Click on <kbd>Find Party</kbd> to automatically search one.'
+      en: 'You can search for parties or party members with the party finder. Click on <kbd>No Party</kbd> or press <kbd>P</kbd> to open the party finder.'
       // it: 'Puoi creare o trovare un party con il menu dei party. Fare clic su <kbd>Trova party</kbd> per cercarne automaticamente uno.'
       // pt: 'Você pode criar ou encontrar uma party com a interface da party. Clique em <kbd>Find Party</kbd> para encontrar uma party automaticamente.'
       // fr: 'Vous pouvez créer ou trouver un groupe avec l\'interface de groupe. Cliquez sur <kbd>Find Party</kbd> pour en chercher un automatiquement.'
