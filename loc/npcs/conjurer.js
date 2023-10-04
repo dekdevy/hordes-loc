@@ -27,7 +27,8 @@ export default {
     // "Teleport to Guardstone/Headless/Faivel", one of the game realms.
     choices: [{
       en: 'Teleport to $1.', // keep it short
-      ru: 'Телепортироваться на $1.'
+      ru: 'Телепортироваться на $1.',
+      fr: 'Se téléporter vers $1.'
     }]
   }]
 }
