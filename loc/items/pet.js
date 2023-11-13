@@ -91,7 +91,7 @@ export default [
   },
 
   {
-    name       : { $$: 'Raven Pet },
+    name       : { $$: 'Raven Pet' },
     description: {
       en: ' '
     }
