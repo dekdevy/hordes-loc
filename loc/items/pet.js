@@ -70,56 +70,56 @@ export default [
   },
 
   {
-    name       : { $$: '8' },
+    name       : { $$: 'Moose Pet' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: '9' },
+    name       : { $$: 'Wolf Pet' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: '10' },
+    name       : { $$: 'Bear Pet' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: '11' },
+    name       : { $$: 'Raven Pet },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: '12' },
+    name       : { $$: 'Moonlake Pet' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: '13' },
+    name       : { $$: 'Boar Pet' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: '14' },
+    name       : { $$: 'Crocodile Pet' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: '15' },
+    name       : { $$: 'Turtle Pet' },
     description: {
       en: ' '
     }
