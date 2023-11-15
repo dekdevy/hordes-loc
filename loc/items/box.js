@@ -31,5 +31,11 @@ export default [
       cs: 'Kouzelný modrý Elixir lektvar, který poskytuje vašemu účtu užitečné funkce navíc.',
       pt: 'Uma poção mágica de elixir azul que concede recursos extras úteis à sua conta.'
     }
+  },
+  {
+    name       : {$$: 'Pet Backpack'},
+    description: {
+      en: 'Allows the blacksmith to equip your rare pet with a backpack. Your pet will be able to pick up items for you.'
+    }
   }
 ]
