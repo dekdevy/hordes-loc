@@ -70,56 +70,56 @@ export default [
   },
 
   {
-    name       : { $$: 'Moose Pet' },
+    name       : { $$: 'Amberleaves' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Wolf Pet' },
+    name       : { $$: 'Sootpaw' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Bear Pet' },
+    name       : { $$: 'Pinecub' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Raven Pet' },
+    name       : { $$: 'Gloomwing' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Moonlake Pet' },
+    name       : { $$: 'Moonlake Elf' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Boar Pet' },
+    name       : { $$: 'Mossmunch' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Crocodile Pet' },
+    name       : { $$: 'Paddle' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Turtle Pet' },
+    name       : { $$: 'Bubbles' },
     description: {
       en: ' '
     }
