@@ -7,6 +7,7 @@ export default [
       de: 'Eine kleine Raupe die für dich Items sammelt.',
       ru: 'Крошечная личинка, которая будет подбирать для вас предметы.',
       fr: 'Un petit asticot qui ramassera les objets pour vous.',
+      ko: '당신을 위해 아이템을 주워줄 작은 애벌레이다.',
       tr: 'Eşyaları senin için toplayan minik bir kurtçuk.',
       cs: 'Drobný hlupák, který za vás bude rabovat předměty.',
       pt: 'Uma larva minúscula que irá pegar itens para você.'
@@ -21,6 +22,7 @@ export default [
       de: 'Ein kleiner Goblin der für dich Items sammelt.',
       ru: 'Крошечный гоблин, который будет подбирать для вас предметы.',
       fr: 'Un petit gobelin qui ramassera les objets pour vous.',
+      ko: '당신을 위해 아이템을 주워줄 작은 고블린이다.',
       tr: 'Eşyaları senin için toplayan minik bir goblin.',
       cs: 'Malý skřet, který pro vás bude rabovat předměty.',
       pt: 'Um pequeno goblim que irá pegar itens para você.'
