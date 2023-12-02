@@ -13,7 +13,8 @@ export default [
       zh: '這是一個臨時的盾牌，似乎是出於必要而生產的。',
       tr: 'Bu derme çatma kalkan zorunlulukla üretilmiş gibi gözüküyor.',
       cs: 'Toto je provizorní štít, který se zdá být vyroben z nutnosti.',
-      pt: 'Este é um escudo improvisado que parece ter sido produzido por necessidade.'
+      pt: 'Este é um escudo improvisado que parece ter sido produzido por necessidade.',
+      ko: '이것은 필요에 의해 만들어진 것처럼 보이지 않는 임시방편의 방패입니다.'
     }
   },
 
@@ -31,7 +32,8 @@ export default [
       zh: '小圓盾可以有效保護小型和輕型武器。海盜經常使用小圓盾來提高機動性。',
       tr: '"Buckeler" küçük ve hafif silahlara karşı iyi koruma sağlayabilir. Korsanlar "buckler" kalkanını manevra kabiliyeti için sıkça kullanmışlardır.',
       cs: 'Bucklers can be useful protection against small and light weapons. Pirates often use bucklers for maneuverability.',
-      pt: 'Broquéis podem ser uma proteção útil contra armas pequenas e leves. Piratas frequentemente usam broquéis para maior mobilidade.'
+      pt: 'Broquéis podem ser uma proteção útil contra armas pequenas e leves. Piratas frequentemente usam broquéis para maior mobilidade.',
+      ko: '이 방패는 작고 가벼운 공격으로부터 자신을 방어하기에 좋습니다. 해적들은 이 방패들을 기동성을 위해 사용하기도 합니다.'
     }
   },
 
@@ -49,7 +51,8 @@ export default [
       zh: '這是一種盾牌類型，通常在戰爭時期製造。雖然便宜，但盾牌是由堅固的鐵桉木製成的。',
       tr: 'Savaş zamanlarında bunun gibi kalkan tipleri sıkça yapılırdı. Ucuzluğuna rağmen, bu kalkan sağlam ironbark üretimi.',
       cs: 'Jedná se o typ štítu, který se často vyrábí během válečných časů. Přestože je štít levný, je vyroben z pevné železné kůry.',
-      pt: 'Este é um tipo de escudo que geralmente é fabricado durante tempos de guerra. Embora barato, o escudo é feito de um resistente carvalho de ferro.'
+      pt: 'Este é um tipo de escudo que geralmente é fabricado durante tempos de guerra. Embora barato, o escudo é feito de um resistente carvalho de ferro.',
+      ko: '이 방패는 전쟁중에 주로 만들어진 형태입니다. 비싸지 않음에도 불구하고 이 방패는 튼튼한 철로 만들어졌습니다.'
     }
   },
 
@@ -67,7 +70,8 @@ export default [
       zh: '王國哨兵經常使用這樣的盾牌來減少受到的傷害並保護居民。',
       tr: 'Kraliyet nöbetçileri bu kalkanı alınan hasarı azaltmak ve vatandaşları korumak için bunun gibi kalkanlar kullanırdı.',
       cs: 'Stráže království často používají štíty, jako je tento, ke snížení obdrženého poškození a také k ochraně občanů.',
-      pt: 'Sentinelas do reino frequentemente usam escudos como este para reduzir o dano recebido e proteger os cidadãos.'
+      pt: 'Sentinelas do reino frequentemente usam escudos como este para reduzir o dano recebido e proteger os cidadãos.',
+      ko: '왕국의 보초병들은 이 방패를 시민들이 공격으로부터 덜 다치기 의해서 사용하고 있습니다.'
     }
   },
 
@@ -85,7 +89,8 @@ export default [
       zh: '這面盾牌由黑暗金屬製成，並塗有黑油。擁有這種盾牌的冒險者必然會脫穎而出。',
       tr: 'Bu kalkan darkmetalden yapılmış ve siyah bir yağ ile yağlanmıştır. Bunun gibi kalkanı olan maceracılar şüphesiz diğerlerin farklı olacaklardır.',
       cs: 'Tento štít je vyroben z tmavého kovu a pomazán černým olejem. Dobrodruzi s tímto druhem štítu jistě vyniknou nad ostatními.',
-      pt: 'Este escudo é feito de darkmetal e ungido com um óleo preto. Aventureiros com esse tipo de escudo certamente se destacarão dos demais.'
+      pt: 'Este escudo é feito de darkmetal e ungido com um óleo preto. Aventureiros com esse tipo de escudo certamente se destacarão dos demais.',
+      ko: '이 방패는 기름을 부은 암흑의 철과 검은 기름으로 만들어 졌습니다. 이 방패를 소유한 탐험가들은 다른 사람들보다 눈에 띕니다.'
     }
   },
 
