@@ -4,6 +4,7 @@ export default [
     description: {
       en: 'This strange band allows a small part of the wearer’s life essence to be stored.',
       fr: 'Cette bague étrange permet de stocker une petite partie de l\'essence de vie du porteur.',
+      ko: '이 수상한 반지는 착용자의 생명력 일부를 저장할수 있습니다.',
       ru: 'Эта странная повязка позволяет хранить небольшую часть жизни владельца.',
       de: 'Dieses seltsame Band erlaubt es dem Träger einen kleinen Teil der Lebensessenz zu speichern.',
       vi: 'Nhẫn kỳ lạ này cho phép một phần nhỏ tinh chất sự sống của người mang được lưu trữ.',
@@ -23,6 +24,7 @@ export default [
     description: {
       en: 'This ring is made from a special wood that is as tough as iron. Ironbark is often used as an alternative to metal.',
       fr: 'Cette bague est fabriquée à partir d\'un bois spécial aussi résistant que le fer. L\'Ironbark est souvent utilisé comme une alternative au métal.',
+      ko: '이 반지는 종종 강철의 대채제로 쓰이는 단단한 나무로 만들어졌습니다.',
       ru: 'Это кольцо изготовлено из специальной древесины, прочной как железо. Железная кора часто используется в качестве альтернативы металлу.',
       de: 'Dieser Ring wurde aus Holz, stark wie Eisen, hergestellt. Eisenholz wird oft als eine Alternative zu Metall genutzt.',
       vi: 'Chiếc nhẫn này được làm từ một loại gỗ đặc biệt cứng như sắt. Ironbark thường được sử dụng thay thế cho kim loại',
@@ -42,6 +44,7 @@ export default [
     description: {
       en: 'Two kingdoms that were joined by royal marriage had their armies wear these rings as a symbol of the newly allied nations.',
       fr: 'Deux royaumes qui furent fusionnés par le mariage royal ont vu leurs armées porter ces anneaux comme symbole des nations nouvellement alliées.',
+      ko: '왕족의 결혼으로 이어진 두 왕국은, 그들의 새로운 동맹의 상징으로서 이 반지들을 그들의 군대에게 착용하게 했습니다.',
       ru: 'Два королевства, которые присоединились королевским бракосочетаниям, носили эти кольца в качестве символа новых союзнических народов.',
       de: 'Zwei Königreiche, vereint durch Heirat, ließen ihre Armeen diese Ringe als Symbol für die Einheit der verbündeten Nationen tragen',
       vi: 'Hai vương quốc được liên kết bởi hôn nhân chính trị có quân đội của họ đeo những chiếc nhẫn này như một biểu tượng của các quốc gia mới được liên minh.',
@@ -61,6 +64,7 @@ export default [
     description: {
       en: 'This ring is made from the bones of a monster husk. Monster bone can be used as a sturdy material when no other resources are available.',
       fr: 'Cet anneau est fabriqué à partir des os d\'une coquille de monstre. L\'os de monstre peut être utilisé comme matériau solide lorsqu\'aucune autre ressource n\'est disponible.',
+      ko: '이 반지는 몬스터의 껍질뼈로 만들어졌습니다. 몬스터의 뼈는 다른 쟤료가 충분하지 않을때 견고한 쟤료로서 사용될수 있습니다.',
       ru: 'Это кольцо изготовлено из костей монстров шелухи. Кость монстра может быть использована как прочный материал, когда нет других ресурсов.',
       de: 'Dieser Ring wurde aus den Knochen eines riesigen Husks gefertigt. Monsterknochen sind ein stabiles Material, wenn kein anderes verfügbar ist.',
       vi: 'Chiếc nhẫn này được làm từ xương của một con quái vật. Xương quái vật có thể được sử dụng như một vật liệu chắc chắn khi không có tài nguyên nào khác.',
@@ -80,6 +84,7 @@ export default [
     description: {
       en: 'Rings are often handed down from generation to generation in the Elvish tradition.',
       fr: 'Les bagues sont souvent transmises de génération en génération dans la tradition elfique.',
+      ko: '한세대가 다음세대에게 반지를 종종 물려주는것은 엘프의 전통입니다.',
       ru: 'В эльфийской традиции кольца часто передаются из поколения в поколение.',
       de: 'Ringe werden nach elfischer Tradition oft von Generation zu Generation weitergegeben.',
       vi: 'Nhẫn thường được lưu truyền từ thế hệ này sang thế hệ khác trong truyền thống Elvish.',
