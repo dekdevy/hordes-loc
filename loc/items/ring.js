@@ -36,7 +36,7 @@ export default [
       zh: '這個戒指是由硬如鐵的木頭製作而成。鐵桉木經常會被視為金屬的替代品。',
       tr: 'Bu yüzük demir kadar sert olan özel bi odundan yapıldı. Ironbark metal yerine sıklıkla kullanılan bir alternatiftir.',
       cs: 'Tento prsten je vyroben ze speciálního dřeva, které je pevné jako železo. Železná kůra se často používá jako alternativa ke kovu.',
-      ko: '이 반지는 강철만큼 단단한 나무로 만들어졌습니다.유칼립투스 나무는 강철의 대용으로 쓰이곤 합니다.'
+      ko: '이 반지는 강철만큼 단단한 나무로 만들어졌습니다. 유칼립투스 나무는 강철의 대용으로 쓰이곤 합니다.'
     }
   },
 
