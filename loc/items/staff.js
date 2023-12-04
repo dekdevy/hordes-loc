@@ -14,7 +14,8 @@ export default [
       zh: '木棒和斷掉的樹枝會被學徒法師當作學習工具來使用。',
       tr: 'Çubuk ve kırık dallar çırak büyücüler tarafından eğitim amaçlı kullanılmıştır.',
       cs: 'Tyčinky a zlomené větvičky používají mágové učni pro vzdělávací účely.',
-      pt: 'Varinhas e gravetos quebrados são usados por aprendizes de magos para fins educacionais.'
+      pt: 'Varinhas e gravetos quebrados são usados por aprendizes de magos para fins educacionais.',
+      ko: '나뭇가지들은 마법사 연습생들의 교육적인 목적으로 사용되었습니다.'
     }
   },
 
@@ -33,7 +34,8 @@ export default [
       zh: '這種破損的法杖還有一些新手法師在使用。',
       tr: 'Bu hasarlı savaş değneği başalngıç büyücüleri için halen biraz kullanımı bulunuyor.',
       cs: 'Toto je poškozený bitevní hůl, který má stále nějaké využití pro začínající uživatele magie.',
-      pt: 'Este é um cajado de batalha danificado que ainda tem alguma utilidade para usuários iniciantes de magia.'
+      pt: 'Este é um cajado de batalha danificado que ainda tem alguma utilidade para usuários iniciantes de magia.',
+      ko: '이것은 손상된 전투용 지팡이로 아직 초보 마법사들이 사용하곤 합니다.'
     }
   },
 
@@ -52,7 +54,8 @@ export default [
       zh: '一些最古老的樹被用來製造長掃帚。這些武器會產生法術將敵人掃出戰場。',
       tr: 'Bazı eski ağaçlar "Gnarled Broomstick" yapımak için kullanılır. Bu silahlar savaş alanında düşmanları süpüren büyüler üretir.',
       cs: 'Některé z nejstarších stromů se používají k vytvoření sukovitých košťat. Tyto zbraně vytvářejí kouzla, která smete nepřátele z bojiště.',
-      pt: 'Algumas das árvores mais antigas são usadas para criar Vassouras Retorcidas. Essas armas lançam feitiços para varrer os inimigos do campo de batalha.'
+      pt: 'Algumas das árvores mais antigas são usadas para criar Vassouras Retorcidas. Essas armas lançam feitiços para varrer os inimigos do campo de batalha.',
+      ko: '오래된 나무를 이용해 이것을 만듭니다. 이 무기들은 적들을 전장에서 휩쓸 마법들을 소환 할 수 있습니다.'
     }
   },
 
@@ -71,7 +74,8 @@ export default [
       zh: '這是用於施展中級魔法的堅固橡木武器。',
       tr: 'Bu sağlam meşe değnek orta derecede büyü yapmak içindir.',
       cs: 'Jedná se o robustní dubovou zbraň pro sesílání střední magie.',
-      pt: 'Este é um poderoso cajado de carvalho para conjuração de magia intermediária.'
+      pt: 'Este é um poderoso cajado de carvalho para conjuração de magia intermediária.',
+      ko: '이것은 단단한 참나루로 만들어 졌으면 중급 마법을 소환하는데 사용됩니다.'
     }
   },
 
@@ -90,7 +94,8 @@ export default [
       zh: '這根魔杖是來自秘客的禮物，裡面鑲嵌著可以增強魔力的奇異碎片。',
       tr: 'Bu asa, büyülü gücü artıran garip parçalarla gömülü mistiklerden bir hediye.',
       cs: 'Tato hůlka je darem od mystiků, který je osazen zvláštními úlomky, které zvyšují magickou sílu.',
-      pt: 'Esta varinha é um presente dos místicos, embutida com estranhas lascas que aumentam o poder mágico.'
+      pt: 'Esta varinha é um presente dos místicos, embutida com estranhas lascas que aumentam o poder mágico.',
+      ko: '이 지팡이는 신화의 선물으로 내부에 마법의 정수를 탑재해 마법력을 올려줍니다.'
     }
   },
 
@@ -109,7 +114,8 @@ export default [
       zh: '這是由怪獸法師的骨頭製成以增强魔法力量。',
       tr: 'Bu, büyü gücünü arttırmak için canavar büyücülerin kemiklerinden yapılmıştır.',
       cs: 'Vyrábí se z kostí mágů monster pro zvýšení magické síly.',
-      pt: 'Esta é feita dos ossos de magos monstros para ampliar o poder mágico.'
+      pt: 'Esta é feita dos ossos de magos monstros para ampliar o poder mágico.',
+      ko: '이것은 괴물 마법사들의 뼈로 만들어 졌으며 그로인해 마법력이 올라갑니다.'
     }
   },
 
@@ -128,7 +134,8 @@ export default [
       zh: '這把杖上鑲嵌著儲存魔力的寶石。',
       tr: 'Bu asa büyülü gücü depolaması için değerli taşlarla kaplanmıştır.',
       cs: 'Tato tyč je pokryta drahokamy, které uchovávají magickou sílu.',
-      pt: 'Este bastão está incrustado com gemas que armazenam poder mágico.'
+      pt: 'Este bastão está incrustado com gemas que armazenam poder mágico.',
+      ko: '이 지팡이는 마법력을 보관하는 마법의 보석같은것들을 박아놓았습니다.'
     }
   },
 
@@ -147,7 +154,8 @@ export default [
       zh: '當施法時，這根法杖上蝕刻的符文會發出微弱的光芒。雖然有幾個法師協會明確地認為符文可以增强施法能力，但符文的真實性質尚不清楚。',
       tr: 'Bu değneğe kazılmış rünler büyü yapıldığında hafifçe parlarlar. Buna rağmen birçok büyücü loncaları bu rünlerin büyü yapmayı arttırdığına açıkça inanırlar, bu rünler gerçek doğası bilinmiyor.',
       cs: 'Vyleptané runy na této hůlce při sesílání kouzel slabě září. Ačkoli několik cechů mágů jasně věří, že runy rozšiřují sesílání kouzla, skutečná povaha run není známa.',
-      pt: 'As runas gravadas neste bastão brilham tenuamente quando feitiços são lançados. Embora várias guildas de magos acreditem claramente que as runas aprimoram o lançamento de feitiços, a verdadeira natureza das runas é desconhecida.'
+      pt: 'As runas gravadas neste bastão brilham tenuamente quando feitiços são lançados. Embora várias guildas de magos acreditem claramente que as runas aprimoram o lançamento de feitiços, a verdadeira natureza das runas é desconhecida.',
+      ko: '이 지팡이는 룬들을 가공하고 정제하여 만들어 마법을 사용할때 빛이 납니다. 많은 마법사 집단은 이것이 마법력을 증가시킨다고 하지만, 이것의 잠재력은 알려지지 않았습니다.'
     }
   },
 
