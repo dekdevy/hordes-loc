@@ -16,7 +16,6 @@ export default [
       tr: 'Bu garip halkalar giyen kişinin yaşam özünün küçük bir kısmını depolamasına izin verir.',
       cs: 'Tento zvláštní pás umožňuje uložit malou část životní esence nositele.',
       ko: '이 기묘한 반지는 착용자의 생명의 정수를 일부 보관 할 수 있습니다.'
-      
     }
   },
 
