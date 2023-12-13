@@ -14,7 +14,8 @@ export default [
       nl: 'Deze vreemde polsband zorgt ervoor dat een klein gedeelte van de drager z’n levensessentie opgeslagen kan worden.',
       zh: '這個奇特的戒指可以讓佩戴者的一小部分生命精華被儲存起來。',
       tr: 'Bu garip halkalar giyen kişinin yaşam özünün küçük bir kısmını depolamasına izin verir.',
-      cs: 'Tento zvláštní pás umožňuje uložit malou část životní esence nositele.'
+      cs: 'Tento zvláštní pás umožňuje uložit malou část životní esence nositele.',
+      ko: '이 기묘한 반지는 착용자의 생명의 정수를 일부 보관 할 수 있습니다.'
     }
   },
 
@@ -33,7 +34,8 @@ export default [
       nl: 'Deze ring is gemaakt van een speciale hout dat zo stevig is als ijzer. Ironbark wordt vaak gebruikt als een alternatief voor metaal.',
       zh: '這個戒指是由硬如鐵的木頭製作而成。鐵桉木經常會被視為金屬的替代品。',
       tr: 'Bu yüzük demir kadar sert olan özel bi odundan yapıldı. Ironbark metal yerine sıklıkla kullanılan bir alternatiftir.',
-      cs: 'Tento prsten je vyroben ze speciálního dřeva, které je pevné jako železo. Železná kůra se často používá jako alternativa ke kovu.'
+      cs: 'Tento prsten je vyroben ze speciálního dřeva, které je pevné jako železo. Železná kůra se často používá jako alternativa ke kovu.',
+      ko: '이 반지는 강철만큼 단단한 나무로 만들어졌습니다. 유칼립투스 나무는 강철의 대용으로 쓰이곤 합니다.'
     }
   },
 
@@ -52,7 +54,8 @@ export default [
       nl: 'Twee koninkrijken die geallieerd werden door een koninklijk huwelijk lieten hun legers deze ringen dragen als een symbool voor het net gevormde bondgenootschap.',
       zh: '參加皇室婚禮的兩個王國讓他們的軍隊配戴著這些戒指作為新盟國的象徵。',
       tr: 'Kraliyet evliliği ile birleşen iki krallık, yeni ittifak kurmuş milletlerin simgesi olarak orduları tarafından takılan yüzüklerdir.',
-      cs: 'Dvě království, která byla spojena královským sňatkem, měla jejich armády tyto prsteny jako symbol nově spojeneckých národů.'
+      cs: 'Dvě království, která byla spojena královským sňatkem, měla jejich armády tyto prsteny jako symbol nově spojeneckých národů.',
+      ko: '두 왕국은 그들의 군사들에게 그들의 왕족 결혼으로 맺어진 동맹의 상징으로 이 반지를 쓰게 했습니다.'
     }
   },
 
@@ -71,7 +74,8 @@ export default [
       nl: 'Deze ring is gemaakt van de botten van een monster schil. Monster botten kunnen gebruikt worden als een stevig materiaal wanneer er geen andere materialen beschikbaar zijn.',
       zh: '這個戒指是由怪物的骨頭軀殼製作而成，當沒有其他材料的時候怪物骨頭可以被用來當作堅韌的素材。',
       tr: 'Bu yüzük bir canavar kurusunun kemiklerinden yapıldı. Canavar kemikleri başka kaynaklar mevcut olmadığında sağlam bir malzeme olarak kullanılabilir.',
-      cs: 'Tento prsten je vyroben z kostí monstra. Monster bone lze použít jako pevný materiál, když nejsou k dispozici žádné jiné zdroje.'
+      cs: 'Tento prsten je vyroben z kostí monstra. Monster bone lze použít jako pevný materiál, když nejsou k dispozici žádné jiné zdroje.',
+      ko: '이 반지는 허스크의 뼈로 만들어졌습니다. 괴물의 뼈는 단단해서 다른 마땅한 자원이 없을때 사용되곤 합니다.
     }
   },
 
@@ -90,7 +94,8 @@ export default [
       nl: 'Ringen worden vaak geërfd van de ene generatie tot de volgende volgens elfen traditie.',
       zh: '在精靈的傳統中，戒指經常被代代相傳。',
       tr: 'Elf geleneğinde genellikle yüzükler bir nesilden diğerine geçer.',
-      cs: 'Prsteny se v elfské tradici často předávají z generace na generaci.'
+      cs: 'Prsteny se v elfské tradici často předávají z generace na generaci.',
+      ko: '엘프는 그들의 반지를 대대손손 물려주는 전통이 있습니다.'
     }
   },
 
