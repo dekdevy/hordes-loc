@@ -226,7 +226,7 @@ export default [{
   name: {$$: 'Hypothermic Frenzy'},
 
   description: {
-    en: 'You gain Haste and all your damage output is increased.',
+    en: 'You gain Haste and all your damage output is increased. The cooldown of Icicle Orb is reset.',
     ru: 'Вы получаете Haste и все ваши повреждения продукции увеличивается. Сбрасывает перезагрузку Icicle Orb.',
     fr: 'Vous gagnez de la Hâte et tous vos dégats sont augmentés. Réinitialise le temps de recharge d\'Icicle Orb.',
     zh: '增加你的技能急速和所有技能傷害。',
