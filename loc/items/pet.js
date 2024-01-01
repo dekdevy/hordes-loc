@@ -67,6 +67,62 @@ export default [
     description: {
       en: ' '
     }
+  },
+
+  {
+    name       : { $$: 'Amberleaves' },
+    description: {
+      en: ' '
+    }
+  },
+
+  {
+    name       : { $$: 'Sootpaw' },
+    description: {
+      en: ' '
+    }
+  },
+
+  {
+    name       : { $$: 'Pinecub' },
+    description: {
+      en: ' '
+    }
+  },
+
+  {
+    name       : { $$: 'Gloomwing' },
+    description: {
+      en: ' '
+    }
+  },
+
+  {
+    name       : { $$: 'Moonlake Elf' },
+    description: {
+      en: ' '
+    }
+  },
+
+  {
+    name       : { $$: 'Mossmunch' },
+    description: {
+      en: ' '
+    }
+  },
+
+  {
+    name       : { $$: 'Paddle' },
+    description: {
+      en: ' '
+    }
+  },
+
+  {
+    name       : { $$: 'Bubbles' },
+    description: {
+      en: ' '
+    }
   }
 ]
 
