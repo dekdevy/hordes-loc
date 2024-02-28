@@ -179,7 +179,7 @@ export default {
       // tr: 'Biraz eşya ve para topla, ilk kitabını satın almak için 32 paraya ihtiyacın var. Bazı eşyalarını tüccara satabilirsin.'
     },
     {
-      en: 'You have enough coins. Go back to your base, and  talk to the trader (purple NPC with a backpack) to buy your new skill book.'
+      en: 'You have enough coins. Go back to your base, and  talk to your class trader to buy your new skill book.'
       // it: 'Hai abbastanza monete. Torna alla tua base e parla con il commerciante (NPC viola con uno zaino) per acquistare il tuo nuovo libro delle abilità. '
       // pt: 'Você já tem moedas suficientes. Voltei para a sua base e fale com o vendedor (NPC roxo com uma mochila) para comprar um novo livro de habilidades. '
       // fr: 'Vous avez assez de pièces. Revenez à votre base, et parlez au Trader (un NPC violet avec un sac) pour acheter votre nouveau livre de compétence. '
@@ -195,7 +195,7 @@ export default {
       // tr: 'Sınıf tüccarın öğrenebileceğin yetenek kitapları satar. Kitabı satın almak için sağ tıkla.'
     },
     {
-      en: 'Once you have the book, open your inventory, right-click the book and press <kbd>Learn skill</kbd> to learn it.'
+      en: 'Once you have the book, open your inventory, right-click the book and press <kbd>Use Item</kbd> to learn it.'
       // it: 'Una volta che hai il libro, apri il tuo inventario, fai clic con il pulsante destro del mouse sul libro e premi <kbd>Apprendi abilità</kbd> per impararlo.'
       // pt: 'Agora que você tem o livro, abra o seu inventário, clique com o botão direito e pressione <kbd>Learn skill</kbd> para aprender a nova habilidade.'
       // fr: 'Une fois que vous avez le livre, ouvrez votre inventaire, faites un clic-droit sur le livre et cliquez sur <kbd>Learn skill</kbd> pour l\'apprendre.'
@@ -230,7 +230,7 @@ export default {
       // tr: 'Şimdi "uygula" tuşuna basarak yeni yetenek setini etkinleştir.'
     },
     {
-      en: 'You can click and drag a skill into your skillbar. We already did it for you!'
+      en: 'You can click and drag a skill into your skillbar.'
       // it: 'Puoi fare clic e trascinare le abilità nella barra delle abilità. Lo abbiamo già fatto per te!'
       // pt: 'Você pode clicar e arrastas as habilidades na sua barra de habilidades. Nós já fizemos isso para você!'
       // fr: 'Vous pouvez cliquer sur un icône de compétence et le faire glisser dans votre barre de compétence. Nous l\'avons déjà fait pour vous !'
