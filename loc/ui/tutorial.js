@@ -89,7 +89,7 @@ export default {
       en: 'Hordes is all about working in a party with other players. Click on <kbd>No Party</kbd> or press <kbd>P</kbd> to open the party finder.'
     },
     { // _TUT_PARTYBUTTON2
-      en: 'Click a leveling group for your level. The press <kbd>Apply</kbd>.'
+      en: 'Click a leveling group for your level. Then press <kbd>Apply</kbd>.'
     },
     { //  _TUT_PARTYINFO
       en: 'A shaman will summon you soon. Alternatively, press <kbd>M</kbd> to open the map and see where you need to go.'
@@ -98,59 +98,59 @@ export default {
       en: 'Congratulations on reaching level 9! You can soon join the next party via the party finder. <kbd>P</kbd>'
     },
     { // _TUT_REMAINDER_TO_STATUP
-      en: 'As you level up, you will gain additional skill points and stat points. Remember to level up your skills <kbd>K</kbd>, and allocate the stat points <kbd>C/kbd>.'
+      en: 'As you level up, you will gain additional skill points and stat points. Remember to level up your skills <kbd>K</kbd>, and allocate the stat points <kbd>C</kbd>.'
     },
     { // _TUT_BOOKS_EXTRA_INFO
-      en: 'All the Level 1 Skill books can be purchased from your class trader. Higher level books can be found from monsters',
+      en: 'Tip: All the Level 1 Skill books can be purchased from your class trader. Higher level books can be found from monsters.',
     },
     { // _TUT_MERCHANT_INFO
-      en: 'You can trade items with other players. You can visit the Merchant to do so. He wears a big green hat.',
+      en: 'Tip: You can trade items with other players. You can visit the Merchant to do so. He wears a big green hat.',
     },
     { // _TUT_MERCHANT_STASH
-      en: 'Any items you buy at the merchant will be sent to your stash - a storage for your items and gold. It is a brown box located next to the merchant.'
+      en: 'Tip: Any items you buy at the merchant will be sent to your stash - a storage for your items and gold. It is a brown box located next to the merchant.'
     },
     { // _TUT_BLACKSMITH
-      en: 'You will find runes when slaying monsters. Runes will allow you to upgrade your items. Visit the blacksmith to do so.'
+      en: 'Tip: You will find runes when slaying monsters. Runes will allow you to upgrade your items. Visit the blacksmith to do so.'
     },
     { // _TUT_CHAT
-      en: 'By the way, you can press <kbd>Enter</kbd> to chat. You can use <kbd>/party</kbd>, <kbd>/faction</kbd> and <kbd>/clan</kbd>. channels.'
+      en: 'Tip: You can press <kbd>Enter</kbd> to chat. You can use <kbd>/party</kbd>, <kbd>/faction</kbd> and <kbd>/clan</kbd>. channels.'
     },
     { // _TUT_PVP1
-      en: 'Players of the other faction can be killed to earn fame and items (such as the crown) for your character.'
+      en: 'Tip: Players of the other faction can be killed to earn fame and items (such as the crown) for your character.'
     },
     { // _TUT_PVP2
-      en: 'Partying will also allow you to share fame points in PVP combat.'
+      en: 'Tip: Partying will also allow you to share fame points in PVP combat.'
     },
     { // _TUT_SETTINGS
-      en: 'Press the cogwheel in the upper right corner to open the settings. You can change controls, messages in the chat, interface configurations and graphics.'
+      en: 'Tip: Press the cogwheel in the upper right corner to open the settings. You can change controls, messages in the chat, interface configurations and graphics.'
     },
 
     { // _TUT_HELLSPAWN
-      en: 'When monsters in Hordes are killed quickly they will "Hellspawn" with more health and drop more loot. This allows parties to farm together for resources.'
+      en: 'Tip: When monsters in Hordes are killed quickly they will "Hellspawn" with more health and drop more loot. This allows parties to farm together for resources.'
     },
 
     { // _TUT_HELLSPAWN2
-      en: 'High level end-game hellspawned monsters have a chance to drop rare pets, which can be sold to other players.'
+      en: 'Tip: High level end-game hellspawned monsters have a chance to drop rare pets, which can be sold to other players.'
     },
 
     { // _TUT_OBELISK
-      en: 'The Obelisk is a endgame PVP Event that lasts one hour and repeats every 3 hours. You can visit the War Conjurer to teleport to a PvP battle.'
+      en: 'Tip: The Obelisk is a endgame PVP Event that lasts one hour and repeats every 3 hours. You can visit the War Conjurer to teleport to a PvP battle.'
     },
 
     { // _TUT_OBELISK2
-      en: 'When you win an Obelisk fight, you are rewarded with a <kbd>Bone Blessing</kbd>. This buff grants extra boss drops.'
+      en: 'Tip: When you win an Obelisk fight, you are rewarded with a <kbd>Bone Blessing</kbd>. This buff grants extra boss drops.'
     },
 
     { // _TUT_GLOOMFURY
-      en: 'After the Obelisk event, Gloomfury spawns in the center of Faivel. He is a powerful boss and drops loot based on your personal performance.'
+      en: 'Tip: After the Obelisk event, Gloomfury spawns in the center of Faivel. He is a powerful boss and drops loot based on your personal performance.'
     },
 
     { // _TUT_ENDGAME
-      en: 'Hordes Endgame Events happen in a 3 hour loop. One hour of Obelisk PvP, one hour of Gloomfury, and one hour pause.'
+      en: 'Tip: Hordes Endgame Events happen in a 3 hour loop. One hour of Obelisk PvP, one hour of Gloomfury, and one hour pause.'
     },
 
     { // _TUT_RAREMOBS
-      en: 'Did you know that rare mounts exist in Hordes? You can find them when they (rarely) spawn throughout the world.'
+      en: 'Tip: Did you know that rare mounts exist in Hordes? You can find them when they (rarely) spawn throughout the world.'
     },
 
     { // _TUT_MAXLEVEL
