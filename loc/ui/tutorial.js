@@ -101,10 +101,10 @@ export default {
       en: 'As you level up, you will gain additional skill points and stat points. Remember to level up your skills <kbd>K</kbd>, and allocate the stat points <kbd>C</kbd>.'
     },
     { // _TUT_BOOKS_EXTRA_INFO
-      en: 'Tip: All the Level 1 Skill books can be purchased from your class trader. Higher level books can be found from monsters.',
+      en: 'Tip: All the Level 1 Skill books can be purchased from your class trader. Higher level books can be found from monsters.'
     },
     { // _TUT_MERCHANT_INFO
-      en: 'Tip: You can trade items with other players. You can visit the Merchant to do so. He wears a big green hat.',
+      en: 'Tip: You can trade items with other players. You can visit the Merchant to do so. He wears a big green hat.'
     },
     { // _TUT_MERCHANT_STASH
       en: 'Tip: Any items you buy at the merchant will be sent to your stash - a storage for your items and gold. It is a brown box located next to the merchant.'
