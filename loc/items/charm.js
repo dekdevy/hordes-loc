@@ -79,5 +79,55 @@ export default [
       cs: 'Mágové vytvořili alternativní metody získávání many v dobách nedostatku. Tento mramor byl vytvořen během Arcane Crisis, v době, kdy byly manové sítě vystaveny extrémnímu stresu.',
       pt: 'Magos criaram métodos alternativos de obtenção de mana durante tempos de escassez. Este mármore foi criado durante a Crise Arcana, um período em que as redes de mana estavam sob extrema pressão.'
     }
+  }, {
+    name: {$$: 'Crimson Blade'},
+    description: {
+      en: 'Forged from the molten heart of the Crimson Volcano, the blade of this axe whispers tales of a warrior sated only as enemies fell before him.'
+    }
+  }, {
+    name: {$$: 'Talon Grip'},
+    description: {
+      en: 'In the dead of night, Emdells\'s talons were said to strike with such speed that shadows struggled to keep pace.'
+    }
+  }, {
+    name: {$$: 'Blood Ritual'},
+    description: {
+      en: 'As the Red Lion once stood alone against a horde, so shall your resolve harden, and your strikes deepen, as your essence wanes.'
+    }
+  }, {
+    name: {$$: 'Frog Lungs'},
+    description: {
+      en: 'Legend whispers of Dehnu, the frog who dared to breathe beneath waves, gifting travelers the same defiance against the drowning dark.'
+    }
+  }, {
+    name: {$$: 'Forest Veil'},
+    description: {
+      en: 'Jylia, the guardian spirit of the hidden glade, cloaks those who seek sanctuary in the whispering woods, though movement betrays their presence.'
+    }
+  }, {
+    name: {$$: 'Fae Shroom'},
+    description: {
+      en: 'Touched by Dhiwy\'s enchantment, these mushrooms shrink the bold to the size of tales, whispered in the night beneath the ancient stars.'
+    }
+  }, {
+    name: {$$: 'Ghost Candles'},
+    description: {
+      en: 'A famous alchemist once cloned a candle, discoving a way to bend time around his will, allowing spells to be cast in the blink of an eye.'
+    }
+  }, {
+    name: {$$: 'Spiked Aegis'},
+    description: {
+      en: 'Forged by the Aurum Wraiths, this shield bites back against those who dare strike, a testament to unyielding courage.'
+    }
+  }, {
+    name: {$$: 'Orc Skull'},
+    description: {
+      en: 'No tale, no myth, just the sheer will to embody the orcish spirit, to roam free where only the ferocious smell the moss.'
+    }
+  }, {
+    name: {$$: 'Thrillseeker\'s Gamble'},
+    description: {
+      en: 'As the legendary seeker of fortunes once gambled with the fates themselves, so may your wealth transform into luck and baunty, unveiling hidden treasures to the daring.'
+    }
   }
 ]
