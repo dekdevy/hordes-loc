@@ -127,7 +127,7 @@ export default [
   }, {
     name       : {$$: 'Thrillseeker\'s Gamble'},
     description: {
-      en: 'As the legendary seeker of fortunes once gambled with the fates themselves, so may your wealth transform into luck and baunty, unveiling hidden treasures to the daring.'
+      en: 'As the legendary seeker of fortunes once gambled with the fates themselves, so may your wealth transform into luck and bounty, unveiling hidden treasures to the daring.'
     }
   }
 ]
