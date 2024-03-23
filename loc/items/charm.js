@@ -112,7 +112,7 @@ export default [
   }, {
     name       : {$$: 'Ghost Candles'},
     description: {
-      en: 'A famous alchemist once cloned a candle, discoving a way to bend time around his will, allowing spells to be cast in the blink of an eye.'
+      en: 'A famous alchemist once cloned a candle, discovering a way to bend time around his will, allowing spells to be cast in the blink of an eye.'
     }
   }, {
     name       : {$$: 'Spiked Aegis'},
