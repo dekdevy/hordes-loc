@@ -25,6 +25,7 @@ import box from './items/box.js'
 import charm from './items/charm.js'
 import glove from './items/glove.js'
 import hammer from './items/hammer.js'
+import material from './items/material.js'
 import misc from './items/misc.js'
 import mount from './items/mount.js'
 import orb from './items/orb.js'
@@ -36,7 +37,6 @@ import shield from './items/shield.js'
 import staff from './items/staff.js'
 import sword from './items/sword.js'
 import totem from './items/totem.js'
-import material from './items/material.js'
 const items = {
   amulet,
   armlet,
