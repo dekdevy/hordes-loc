@@ -489,6 +489,18 @@ export default {
     },
 
     {
+      en: 'Size'
+    },
+
+    {
+      en: 'Invisibility'
+    },
+
+    {
+      en: 'Sight'
+    },
+
+    {
       en: '% Increased Dmg.',
       el: '% Επιπλέον Ζημιά',
       fr: '% Dégâts Améliorés',
