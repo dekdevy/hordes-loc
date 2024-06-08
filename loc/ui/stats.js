@@ -62,7 +62,8 @@ export default {
       tr: 'Şöhret',
       ko: '명성',
       cs: 'Sláva',
-      pt: 'Fama'
+      pt: 'Fama',
+      fr: 'Réputation'
     },
     kills: {
       en: 'Kills',
@@ -420,7 +421,7 @@ export default {
       el: 'Εκτίμηση',
       ru: 'Рейтинг',
       hu: 'Értékelés',
-      fr: 'Notation',
+      fr: 'Classement',
       tr: 'Değerlendirme',
       ja: 'レーティング',
       cs: 'Hodnocení',
