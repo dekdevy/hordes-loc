@@ -441,7 +441,7 @@ export default {
 
   applicationdesc: {
     en: 'This is a list of active applications to your clan. Right click to accept an application and invite the player to your clan',
-    fr: 'Ceci est une liste des membres actifs de ce clan. Faites un clic droit pour accepter une candidature et inviter le joueur dans votre clan',
+    fr: 'Ceci est une liste des candidatures actives pour rejoindre votre clan. Faites un clic droit pour accepter une candidature et inviter le joueur dans votre clan',
     tr: 'Bu liste klanının aktif başvurularıdır. Başvuruyu kabul etmek için sağ tıkla ve oyuncuyu klanına davet et',
     ko: '이것은 현재 가입을 원하는 플레이어의 목록입니다. 우클릭을 해 가입 요청을 수락할 수 있습니다.',
     zh: '這是公會申請列表。右鍵接受申請並邀請玩家加入你的公會。',
@@ -461,7 +461,8 @@ export default {
   },
 
   memberdesc: {
-    en: 'This is a list of members of this clan. Right click the members for additional options.'
+    en: 'This is a list of members of this clan. Right click the members for additional options.',
+    fr: 'Ceci est une liste des membres de ce clan. Faites un clic droit sur les membres pour plus d\'options.'
     // -----------------------------------------------------------------------------------------------------------------------------------------
     // English translation was changed from "This is a list of active members of this clan. Right click the members for additional options." to
     // "This is a list of members of this clan. Right click the members for additional options." (removed the word "active"). Below translations
