@@ -82,52 +82,63 @@ export default [
   }, {
     name       : {$$: 'Crimson Blade'},
     description: {
-      en: 'Forged from the molten heart of the Crimson Volcano, the blade of this axe whispers tales of a warrior sated only as enemies fell before him.'
+      en: 'Forged from the molten heart of the Crimson Volcano, the blade of this axe whispers tales of a warrior sated only as enemies fell before him.',
+      fr: 'Forgé dans le cœur en fusion du Crimson Volcano, la lame de cette hache murmure les récits d\'un guerrier apaisé uniquement lorsque ses ennemis tombaient devant lui.'
     }
   }, {
     name       : {$$: 'Talon Grip'},
     description: {
-      en: 'In the dead of night, Emdells\'s talons were said to strike with such speed that shadows struggled to keep pace.'
+      en: 'In the dead of night, Emdells\'s talons were said to strike with such speed that shadows struggled to keep pace.',
+      fr: 'Au cœur de la nuit, il était dit que les griffes d\'Emdell frappaient si vite que les ombres avaient du mal à suivre.'
     }
   }, {
     name       : {$$: 'Blood Ritual'},
     description: {
-      en: 'As the Red Lion once stood alone against a horde, so shall your resolve harden, and your strikes deepen, as your essence wanes.'
+      en: 'As the Red Lion once stood alone against a horde, so shall your resolve harden, and your strikes deepen, as your essence wanes.',
+      fr: 'À la manière dont le Lion Rouge se tenait autrefois seul contre une horde, ainsi ta détermination se renforcera, et tes coups deviendront plus puissants, à mesure que ton essence faiblira.'
     }
   }, {
     name       : {$$: 'Frog Lungs'},
     description: {
-      en: 'Legend whispers of Dehnu, the frog who dared to breathe beneath waves, gifting travelers the same defiance against the drowning dark.'
+      en: 'Legend whispers of Dehnu, the frog who dared to breathe beneath waves, gifting travelers the same defiance against the drowning dark.',
+      fr: 'La légende murmure l\'histoire de Dehnu, la grenouille qui osa respirer sous les vagues, offrant aux voyageurs la même audace face aux ténèbres noyées.'
     }
   }, {
     name       : {$$: 'Forest Veil'},
     description: {
-      en: 'Jylia, the guardian spirit of the hidden glade, cloaks those who seek sanctuary in the whispering woods, though movement betrays their presence.'
+      en: 'Jylia, the guardian spirit of the hidden glade, cloaks those who seek sanctuary in the whispering woods, though movement betrays their presence.',
+      fr: 'Jylia, l\'esprit gardien de la clairière cachée, dissimule ceux qui cherchent refuge dans les bois murmurants, bien que leurs mouvements trahissent leur présence.'
+      
     }
   }, {
     name       : {$$: 'Fae Shroom'},
     description: {
-      en: 'Touched by Dhiwy\'s enchantment, these mushrooms shrink the bold to the size of tales, whispered in the night beneath the ancient stars.'
+      en: 'Touched by Dhiwy\'s enchantment, these mushrooms shrink the bold to the size of tales, whispered in the night beneath the ancient stars.',
+      fr: 'Touchés par l\'enchantement de Dhiwy, ces champignons réduisent les audacieux à la taille des contes, murmurés dans la nuit sous les étoiles ancestrales.'
     }
   }, {
     name       : {$$: 'Ghost Candles'},
     description: {
-      en: 'A famous alchemist once cloned a candle, discovering a way to bend time around his will, allowing spells to be cast in the blink of an eye.'
+      en: 'A famous alchemist once cloned a candle, discovering a way to bend time around his will, allowing spells to be cast in the blink of an eye.',
+      fr: 'Un célèbre alchimiste a jadis cloné une bougie, découvrant ainsi une manière de plier le temps à sa volonté, permettant aux sorts d\'être lancer en un clin d\'œil.'
     }
   }, {
     name       : {$$: 'Spiked Aegis'},
     description: {
-      en: 'Forged by the Aurum Wraiths, this shield bites back against those who dare strike, a testament to unyielding courage.'
+      en: 'Forged by the Aurum Wraiths, this shield bites back against those who dare strike, a testament to unyielding courage.',
+      fr: 'Forgé par les Aurum Wraiths, ce bouclier riposte contre ceux qui osent frapper, un témoignage de courage inébranlable.'
     }
   }, {
     name       : {$$: 'Orc Skull'},
     description: {
-      en: 'No tale, no myth, just the sheer will to embody the orcish spirit, to roam free where only the ferocious smell the moss.'
+      en: 'No tale, no myth, just the sheer will to embody the orcish spirit, to roam free where only the ferocious smell the moss.',,
+      fr: 'Ni conte, ni mythe, juste la pure volonté d\'incarner l\'esprit orc, de vagabonder librement là où seuls le féroce sent la mousse.'
     }
   }, {
     name       : {$$: 'Thrillseeker\'s Gamble'},
     description: {
-      en: 'As the legendary seeker of fortunes once gambled with the fates themselves, so may your wealth transform into luck and baunty, unveiling hidden treasures to the daring.'
+      en: 'As the legendary seeker of fortunes once gambled with the fates themselves, so may your wealth transform into luck and baunty, unveiling hidden treasures to the daring.',
+      fr: 'Comme le légendaire chercheur de fortunes a autrefois joué avec le destin lui-même, que ta richesse se transforme en chance et en fortune, révélant des trésors cachés aux audacieux.'
     }
   }
 ]
