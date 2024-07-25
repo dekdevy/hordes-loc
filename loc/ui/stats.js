@@ -59,7 +59,6 @@ export default {
     },
     fame: {
       en: 'Fame',
-      fr: 'Popularité',
       tr: 'Şöhret',
       ko: '명성',
       cs: 'Sláva',
