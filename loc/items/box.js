@@ -35,7 +35,8 @@ export default [
   {
     name       : {$$: 'Pet Backpack'},
     description: {
-      en: 'Allows the blacksmith to equip your rare pet with a backpack. Your pet will be able to pick up items for you.'
+      en: 'Allows the blacksmith to equip your rare pet with a backpack. Your pet will be able to pick up items for you.',
+      fr: 'Permet au forgeron d\'équiper votre familier rare d\'un sac à dos. Votre familier pourra alors rammaser des objets pour vous.'
     }
   }
 ]
