@@ -468,7 +468,6 @@ export default {
     // "This is a list of members of this clan. Right click the members for additional options." (removed the word "active"). Below translations
     // need to be fixed.
     // -----------------------------------------------------------------------------------------------------------------------------------------
-    // fr: 'Ceci est une liste des membres actifs de ce clan. Faites un clic droit sur les membres pour plus d\'options.',
     // tr: 'Bu liste klanının aktif üyelerinin listesidir. Fazladan seçenekler için oyuncuya sağ tıkla.',
     // ko: '이것은 현재 클랜에 소속되어있는 클랜원들의 목록입니다. 우클릭을 해 클랜원들을 관리할 수 있습니다.',
     // zh: '這是公會成員列表。右鍵成員以獲取其他選項。',
