@@ -13,7 +13,7 @@
   "author": "Hordes.io",
   "license": "UNLICENSED",
   "dependencies": {
-    "rollup": "^1.9.0"
+    "rollup": "^2.79.2"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
