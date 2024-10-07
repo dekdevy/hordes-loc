@@ -29,7 +29,7 @@ export default {
       es: 'Sí, tengo algunos objetos.',
       ru: 'Да, у меня есть кое-какие предметы.',
       de: 'Ja, ich habe ein paar Items.',
-      fr: 'Oui, j\'ai quelques items.',
+      fr: 'Oui, j\'ai quelques objets.',
       pt: 'Sim, eu tenho alguns items.',
       nl: 'Ja, ik heb wat spullen.',
       hi: 'हां, मेरे पास कुछ चीज़ें हैं',
