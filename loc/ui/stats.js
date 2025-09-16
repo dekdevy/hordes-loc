@@ -55,7 +55,8 @@ export default {
       tr: 'İyileşme',
       ko: '치유량',
       pt: 'Curando',
-      cs: 'Léčení'
+      cs: 'Léčení',
+      es: 'Curación'
     },
     fame: {
       en: 'Fame',
@@ -63,14 +64,16 @@ export default {
       ko: '명성',
       cs: 'Sláva',
       pt: 'Fama',
-      fr: 'Réputation'
+      fr: 'Réputation',
+      es: 'Reputación'
     },
     kills: {
       en: 'Kills',
       tr: 'Leşler',
       ko: '킬',
       cs: 'Zabití',
-      pt: 'Mortes'
+      pt: 'Mortes',
+      es: 'Muertes'
     }
   },
 
@@ -160,7 +163,7 @@ export default {
       el: 'Ευφυία',
       fr: 'Sagesse',
       ru: 'Мудрость',
-      es: 'Sabidur.',
+      es: 'Sabiduría',
       pt: 'Sabedoria',
       tr: 'Bilgelik',
       hu: 'Bölcsesség',
@@ -315,7 +318,7 @@ export default {
       en: 'Move Spd.',
       fr: 'Vit. de Déplac.',
       ru: 'Скорость',
-      es: 'Vel. Mov.',
+      es: 'Vel. Movimento',
       pt: 'Vel. Movimento',
       hu: 'Mozgási Seb.',
       zh: '移動速度',
@@ -375,7 +378,7 @@ export default {
       en: 'Item Find',
       ru: 'Поиск пред.',
       fr: 'Trouvaille',
-      es: 'hallar item',
+      es: 'Hallar item',
       pt: 'Enctr. Item',
       hu: 'Tárgylelés',
       zh: '掉寶',
@@ -407,13 +410,14 @@ export default {
       tr: 'Çanta Yuvaları',
       ja: 'バッグの広さ',
       ko: '가방 공간',
-      cs: 'Místa v baťohu'
-      // es: 'Espacios de inventario'
+      cs: 'Místa v baťohu',
+      es: 'Ranuras para bolsas'
     },
 
     {
       en: 'Prestige',
-      pt: 'Prestígio'
+      pt: 'Prestígio',
+      es: 'Prestigio'
     },
 
     {
@@ -427,7 +431,8 @@ export default {
       cs: 'Hodnocení',
       zh: '評分',
       ko: '평점',
-      pt: 'Classificação'
+      pt: 'Classificação',
+      es: 'Clasificación'
     },
 
     {
@@ -473,7 +478,8 @@ export default {
     {
       en: 'Skill Points (Max)',
       fr: 'Points de Compétences (Max)',
-      pt: 'Pontos de Hab. (Max)'
+      pt: 'Pontos de Hab. (Max)',
+      es: 'Puntos de habilidad (máx.)'
     },
 
     {
@@ -486,19 +492,23 @@ export default {
       fr: 'Niveau PvP',
       ko: 'PvP 레벨',
       cs: 'PvP Úroveň',
-      pt: 'Nível de PVP'
+      pt: 'Nível de PVP',
+      es: 'Nivel PvP'
     },
 
     {
-      en: 'Size'
+      en: 'Size',
+      es: 'Tamaño'
     },
 
     {
-      en: 'Invisibility'
+      en: 'Invisibility',
+      es: 'Invisibilidad'
     },
 
     {
-      en: 'Sight'
+      en: 'Sight',
+      es: 'Vista'
     },
 
     {
