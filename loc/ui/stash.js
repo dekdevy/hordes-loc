@@ -3,7 +3,8 @@ export default {
     en: 'Stash',
     fr: 'Réserve',
     tr: 'Depo', //im not sure about this translation. Because exact translation is a bit weird. So i may change it later
-    ko: '창고'
+    ko: '창고',
+    es: 'Alijo'
   },
 
   waitunstash: {
@@ -69,7 +70,8 @@ export default {
     ja: '預ける',
     ko: '입금 하기',
     cs: 'Vklad',
-    zh: '存入'
+    zh: '存入',
+    es: 'Depósito'
   },
 
   // Do not translate "Stash".
@@ -80,7 +82,7 @@ export default {
     ru: 'Положить в Stash',
     pt: 'Mover para o Stash',
     fr: 'Mettre dans la Stash',
-    es: 'Mover al Stash',
+    es: 'Mover al alijo',
     nl: 'Verhuizen naar Stash',
     ko: 'Stash 아이템',
     hi: 'स्टैश में भेजें',
@@ -104,7 +106,7 @@ export default {
     ru: '$1 было добавлено в Stash.',
     pt: '$1 foi movido para o seu Stash.',
     fr: '$1 a été transféré dans votre Stash.',
-    es: '$1 se ha transferido al Stash.',
+    es: '$1 se ha transferido al alijo.',
     nl: '$1 is verplaatst naar je Stash.',
     hi: '$1 को स्टैश में भेज दिया गया है',
     ro: '$1 a fost mutat în Stash.',
