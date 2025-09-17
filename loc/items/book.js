@@ -783,7 +783,7 @@ export default [{
     tr: 'Koruyu bir buz bloğu çağırır, gelen her hasardan koruyarak canını kısa bir süreliğine yeniler. Bu sırada hareket edemez veya herhangi bir büyü etkinleştiremezin.',
     cs: 'Vyvolá ochranný ledový blok, který zabrání jakémukoli poškození a během krátké doby obnoví určité procento vašeho zdraví. Během této doby se nemůžete pohybovat ani sesílat žádná kouzla.',
     pt: 'Invoca um bloco de gelo protetor, impedindo todo o dano a você e recuperando uma porcentagem de sua saúde durante um curto período de tempo. Você não pode se mover ou conjurar magias durante esse tempo.',
-    es: 'Invoca un bloque de hielo protector, evitando todo el daño hacia ti y recuperando un porcentaje de tu salud durante un corto período de tiempo. No puedes moverte ni lanzar hechizos durante este tiempo.' 
+    es: 'Invoca un bloque de hielo protector, evitando todo el daño hacia ti y recuperando un porcentaje de tu salud durante un corto período de tiempo. No puedes moverte ni lanzar hechizos durante este tiempo.'
   }
 },
 {
