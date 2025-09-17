@@ -10,7 +10,8 @@ export default [
       ko: '당신을 위해 아이템을 주워줄 작은 애벌레이다.',
       tr: 'Eşyaları senin için toplayan minik bir kurtçuk.',
       cs: 'Drobný hlupák, který za vás bude rabovat předměty.',
-      pt: 'Uma larva minúscula que irá pegar itens para você.'
+      pt: 'Uma larva minúscula que irá pegar itens para você.',
+      es: 'Una pequeña larva que recogerá objetos para ti.'
     }
   },
 
@@ -25,7 +26,8 @@ export default [
       ko: '당신을 위해 아이템을 주워줄 작은 고블린이다.',
       tr: 'Eşyaları senin için toplayan minik bir goblin.',
       cs: 'Malý skřet, který pro vás bude rabovat předměty.',
-      pt: 'Um pequeno goblim que irá pegar itens para você.'
+      pt: 'Um pequeno goblim que irá pegar itens para você.',
+      es: 'Un pequeño goblin que recogerá objetos para ti.'
     }
   },
 
