@@ -26,7 +26,7 @@ export default {
       el: 'Ναι, άνοιξε το Stash.',
       ru: 'Да, открой мой Stash.',
       pt: 'Sim, abra o meu Stash.',
-      es: 'Sí, abre mi Stash.',
+      es: 'Sí, abre mi alijo.',
       fr: 'Oui, ouvre ma Stash.',
       de: 'Ja, öffne meinen Stash.',
       nl: 'Ja, open mijn Stash.',
