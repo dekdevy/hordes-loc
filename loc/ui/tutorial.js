@@ -206,49 +206,41 @@ export default {
       fr: 'Astuce: Appuie sur la roue dentée dans le coin supérieur droit de ton écran pour ouvrir les paramètres. Tu peux y modifer les contrôles, les messages dans le chat, les configurations de l\'interface et les graphismes.',
       es: 'Consejo: Pulsa el engranaje en la esquina superior derecha para abrir la configuración. Puedes cambiar los controles, los mensajes del chat, la configuración de la interfaz y los gráficos.'
     },
-
     { // _TUT_HELLSPAWN
       en: 'Tip: When monsters in Hordes are killed quickly they will "Hellspawn" with more health and drop more loot. This allows parties to farm together for resources.',
       fr: 'Astuce: Dans Hordes, lorsque les monstres sont tués rapidement ils entrent dans un état dit de "Hellspawn" dans lequel ils réaparaissent avec plus de santé et laissent tomber plus de butin. Ce mécanisme permet aux groupes de farmer ensemble pour obtenir des ressources.',
       es: 'Consejo: Cuando los monstruos de las Hordas mueren rápidamente, se "engendran infernales" con más salud y sueltan más botín. Esto permite a los grupos farmear recursos juntos.'
     },
-
     { // _TUT_HELLSPAWN2
       en: 'Tip: High level end-game hellspawned monsters have a chance to drop rare pets, which can be sold to other players.',
       fr: 'Astuce: Les monstres de fin du jeu ayant un haut niveau d\'"Hellspawn" ont une chance de laisser tomber des familiers rares quand ils sont tués, lesquels peuvent être vendus à d\'autres joueurs.',
       es: 'Consejo: Los monstruos infernales de alto nivel del final del juego tienen la posibilidad de dejar caer mascotas raras, que pueden venderse a otros jugadores.'
     },
-
     { // _TUT_OBELISK
       en: 'Tip: The Obelisk is a endgame PVP Event that lasts one hour and repeats every 3 hours. You can visit the War Conjurer to teleport to a PvP battle.',
       fr: 'Astuce: L\'Obélisque est un événement JcJ de fin de jeu qui dure 1 heure et se répéte toutes les 3 heures. Tu peux rendre visite au Conjurateur de Guerre pour te téléporter dans une bataille JcJ.',
       es: 'Consejo: El Obelisco es un evento JcJ de final de partida que dura una hora y se repite cada 3 horas. Puedes visitar al Conjurador de Guerra para teletransportarte a una batalla JcJ.'
     },
-
     { // _TUT_OBELISK2
       en: 'Tip: When you win an Obelisk fight, you are rewarded with a <kbd>Bone Blessing</kbd>. This buff grants extra boss drops.',
       fr: 'Astuce: Lorsque tu remportes la victoire lors d\'un combat d\'Obélisque, tu es récompensé par une <kbd>Bénédiction d\'Os</kbd>. Ce buff accorde du butin supplémentaire sur les boss.',
       es: 'Consejo: Al ganar una pelea contra el Obelisco, recibirás una <kbd>Bendición de Huesos</kbd>. Esta mejora otorga botín extra a los jefes.'
     },
-
     { // _TUT_GLOOMFURY
       en: 'Tip: After the Obelisk event, Gloomfury spawns in the center of Faivel. He is a powerful boss and drops loot based on your personal performance.',
       fr: 'Astuce: Après l\'événement de l\'Obélisque, Gloomfury apparaît au centre de Faivel. Gloomfury est un boss puissant qui laisse tomber, à sa mort, du butin en fonction de ta performance personnelle.',
       es: 'Consejo: Después del evento del Obelisco, Furia Oscura aparece en el centro de Faivel. Es un jefe poderoso y otorga botín según tu rendimiento.'
     },
-
     { // _TUT_ENDGAME
       en: 'Tip: Hordes Endgame Events happen in a 3 hour loop. One hour of Obelisk PvP, one hour of Gloomfury, and one hour pause.',
       fr: 'Astuce: Les événements de fin de jeu dans Hordes se déroulent en boucle toutes les 3 heures. Une heure d\'Obélisque JcJ, une heure de Gloomfury, et une heure de pause.',
       es: 'Consejo: Los eventos de final de partida de Hordas ocurren en un bucle de 3 horas: una hora de JcJ de Obelisco, una hora de Furia Oscura y una hora de pausa.'
     },
-
     { // _TUT_RAREMOBS
       en: 'Tip: Did you know that rare mounts exist in Hordes? You can find them when they (rarely) spawn throughout the world.',
       fr: 'Astuce: Savais-tu qu\'il existait des montures rares dans Hordes ? Tu peux les trouver lorsqu\'elles apparaissent (rarement) à travers le monde.',
       es: 'Consejo: ¿Sabías que existen monturas raras en Hordas? Puedes encontrarlas cuando aparecen (rara vez) por todo el mundo.'
     },
-
     { // _TUT_MAXLEVEL
       en: 'Congratulations on Lv. 45! You can now join other players in fighting Gloomfury, doing PVP Obelisks, Hellspawn farming, or rare pet and mount hunting!',
       fr: 'Félicitations pour avoir atteint le niveau 45! Tu peux maintenant rejoindre d\'autres joueurs pour affronter Gloomfury, participer aux Obélisques JcJ, faire du farming "Hellspawn", ou partir à la chasse aux montures et familiers rares!',
