@@ -6,7 +6,8 @@ export default {
     ko: '이름',
     zh: '名字',
     pt: 'Nome',
-    cs: 'Jméno'
+    cs: 'Jméno',
+    es: 'Nombre'
   },
 
   level: {
@@ -16,7 +17,8 @@ export default {
     ko: '레벨',
     zh: '等級',
     cs: 'Úroveň',
-    pt: 'Nível'
+    pt: 'Nível',
+    es: 'Nível'
   },
 
   class: {
@@ -26,7 +28,8 @@ export default {
     ko: '직업',
     zh: '職業',
     pt: 'Classe',
-    cs: 'Třída'
+    cs: 'Třída',
+    es: 'Clase'
   },
 
   faction: {
@@ -34,7 +37,8 @@ export default {
     ko: '파벌',
     zh: '陣營',
     pt: 'Facção',
-    cs: 'Frakce'
+    cs: 'Frakce',
+    es: 'Facción'
   },
 
   rank: {
@@ -44,7 +48,8 @@ export default {
     ko: '계급',
     zh: '排位',
     cs: 'Hodnost',
-    pt: 'Classificação'
+    pt: 'Classificação',
+    es: 'Rango'
   },
 
   rating: {
@@ -54,7 +59,8 @@ export default {
     ko: '평점',
     zh: '積分',
     pt: 'Avaliação',
-    cs: 'Hodnocení'
+    cs: 'Hodnocení',
+    es: 'Clasificación'
   },
 
   medals: {
@@ -64,7 +70,8 @@ export default {
     ko: '메달',
     zh: '獎章',
     pt: 'Medalhas',
-    cs: 'Medajle'
+    cs: 'Medajle',
+    es: 'Medallas'
   },
 
   perday: {
@@ -74,7 +81,7 @@ export default {
     ko: '하루 동안에',
     zh: '一天',
     pt: 'por dia',
-    cs: 'denně'
-
+    cs: 'denně',
+    es: 'por día'
   }
 }

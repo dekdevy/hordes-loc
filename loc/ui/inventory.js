@@ -218,7 +218,8 @@ export default {
     ja: 'アイテムIDをコピー',
     cs: 'Kopírovat ID předmětu',
     zh: '複製物品ID',
-    ko: '아이템 ID 복사'
+    ko: '아이템 ID 복사',
+    es: 'Copiar ID del item'
   },
 
   sell: {
@@ -232,7 +233,8 @@ export default {
     ja: '売却する',
     cs: 'Prodat předmět',
     zh: '出售物品',
-    ko: '아이템 팔기'
+    ko: '아이템 팔기',
+    es: 'Vender item'
   },
 
   splithalf: {

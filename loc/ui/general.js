@@ -153,7 +153,6 @@ export default {
     pt: 'Resetar',
     es: 'Resetear',
     cs: 'Reset'
-
   },
 
   disable: {
