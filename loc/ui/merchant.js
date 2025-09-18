@@ -31,13 +31,13 @@ export default {
     ko: '내 아이템',
     zh: '我的物品',
     pt: 'Minhas Ofetas',
-    cs: 'Mé předměty'
+    cs: 'Mé předměty',
+    es: 'Mis items'
     // el: 'Μόνο τα αντικείμενά μου',
     // nl: 'Alleen mijn voorwerpen',
     // de: 'Nur meine Items',
     // ru: 'Только мои лоты',
     // pt: 'Apenas os meus itens',
-    // es: 'Sólo mis objetos',
     // ro: 'Doar obiectele mele',
     // hi: 'मेरी वस्तुएं',
     // hu: 'Csak az én tárgyaim',
@@ -57,13 +57,13 @@ export default {
     ko: '구매',
     zh: '購買',
     pt: 'Comprar',
-    cs: 'Koupit'
+    cs: 'Koupit',
+    es: 'Comprar'
     // el: 'Αγορά αντικειμένου',
     // nl: 'Voorwerp Kopen',
     // de: 'Item kaufen',
     // ru: 'Купить лот',
     // pt: 'Comprar Item',
-    // es: 'Comprar Objeto',
     // ro: 'Cumpără Obiectul',
     // hi: 'वस्तु खरीदे',
     // hu: 'Vásárlás',
@@ -221,7 +221,7 @@ export default {
     de: 'Verkauf abgebrochen und Item in den Stash gesendet',
     pt: 'Item removido do Merchant e enviado para o Stash',
     fr: 'Objet retiré des enchères et envoyé dans la Stash',
-    es: 'Artículo retirado de la lista y enviado a tu Stash',
+    es: 'Objeto retirado de la lista y enviado a tu alijo',
     ko: '상장 폐지 된 물품',
     ro: 'Obiect delistat și pus la Stash',
     hi: 'वस्तु को बाज़ार से हटाकर आपके स्टैश में भेज दिया गया है',
@@ -241,7 +241,7 @@ export default {
     en: 'Item purchased for $1 and sent to your Stash',
     el: 'Το αντικείμενο αγοράσθηκε για $1 και εστάλη στο Stash',
     ru: 'Лот, купленный за $1 и отправлен в ваш Stash',
-    es: 'Objeto comprado por $1 y enviado a tu Stash',
+    es: 'Objeto comprado por $1 y enviado a tu alijo',
     fr: 'Article acheté pour $1 et envoyé dans votre Stash',
     de: 'Item für $1 gekauft und an Stash geschickt',
     pt: 'Item comprado por $1 e enviado ao seu Stash',
@@ -289,7 +289,8 @@ export default {
     ko: '아이템 검색',
     zh: '搜尋物品',
     pt: 'Procurar pelo item',
-    cs: 'Hledat předmět'
+    cs: 'Hledat předmět',
+    es: 'Buscar objeto'
   },
 
   results: {
@@ -298,7 +299,8 @@ export default {
     ko: '결과',
     zh: '結果',
     pt: 'Resultados',
-    cs: 'Výsledek'
+    cs: 'Výsledek',
+    es: 'Resultados'
   },
 
   owner: {
@@ -307,7 +309,8 @@ export default {
     ko: '게시자',
     zh: '賣家',
     pt: 'Proprietário',
-    cs: 'Majitel'
+    cs: 'Majitel',
+    es: 'Dueño'
   },
 
   time: {
@@ -316,7 +319,8 @@ export default {
     ko: '시간',
     zh: '時間',
     pt: 'Tempo',
-    cs: 'Čas'
+    cs: 'Čas',
+    es: 'Tiempo'
   },
 
   perUnit: {
@@ -325,14 +329,16 @@ export default {
     ko: '개당',
     zh: '每單位',
     pt: 'Por unidade',
-    cs: 'Za Jednotku'
+    cs: 'Za Jednotku',
+    es: 'Por unidad'
   },
 
   total: {
     en: 'Total',
     ko: '전부',
     zh: '總合',
-    cs: 'Celkem'
+    cs: 'Celkem',
+    es: 'Total'
   },
 
   previous: {
@@ -341,7 +347,8 @@ export default {
     ko: '이전',
     zh: '上一頁',
     pt: 'Anterior',
-    cs: 'Před'
+    cs: 'Před',
+    es: 'Anterior'
   },
 
   next: {
@@ -350,7 +357,8 @@ export default {
     ko: '다음',
     zh: '下一頁',
     pt: 'Próximo',
-    cs: 'Další'
+    cs: 'Další',
+    es: 'Siguiente'
   },
 
   setPrice: {
@@ -359,7 +367,8 @@ export default {
     ko: '가격 설정',
     zh: '設定價格',
     pt: 'Definir o preço',
-    cs: 'Nastavit cenu'
+    cs: 'Nastavit cenu',
+    es: 'Establecer precio'
   },
 
   // Purchase confirmation message for merchant window
@@ -372,7 +381,8 @@ export default {
       ko: '구매',
       zh: '購買',
       pt: 'Comprar',
-      cs: 'Koupit'
+      cs: 'Koupit',
+      es: 'Comprar'
     },
     {
       en: 'for',
@@ -380,12 +390,14 @@ export default {
       ko: '에',
       zh: '花費',
       pt: 'por',
-      cs: 'za'
+      cs: 'za',
+      es: 'por'
     },
     {
       en: '?',
       ko: '?',
-      cs: '?'
+      cs: '?',
+      es: '?'
     }
   ]
 }
