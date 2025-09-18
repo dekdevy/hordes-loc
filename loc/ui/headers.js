@@ -6,7 +6,8 @@ export default {
     ko: '캐릭터',
     zh: '人物',
     pt: 'Personagem',
-    cs: 'Charakter'
+    cs: 'Charakter',
+    es: 'Personaje'
   },
 
   skills: {
@@ -16,11 +17,13 @@ export default {
     ko: '스킬',
     zh: '技能',
     pt: 'Habilidades',
-    cs: 'Dovednosti'
+    cs: 'Dovednosti',
+    es: 'Habilidades'
   },
 
   pvp: {
-    en: 'PvP'
+    en: 'PvP',
+    es: 'PVP / JcJ'
   },
 
   interaction: {
@@ -28,7 +31,8 @@ export default {
     ko: '상호 작용',
     zh: '對話',
     pt: 'Interação',
-    cs: 'Interakce'
+    cs: 'Interakce',
+    es: 'Interacción'
   },
 
   request: {
@@ -38,7 +42,8 @@ export default {
     ko: '요구',
     zh: '需求',
     pt: 'Solicitar',
-    cs: 'Žádost'
+    cs: 'Žádost',
+    es: 'Pedido'
   },
 
   warstats: {
@@ -48,7 +53,8 @@ export default {
     ko: '전쟁 통계',
     zh: '戰爭數據',
     pt: 'Estatísticas de Guerra',
-    cs: 'Válečné statistiky'
+    cs: 'Válečné statistiky',
+    es: 'Estadísticas de guerra'
   },
 
   dpsMeter: {
@@ -56,7 +62,8 @@ export default {
     ko: 'DPS 측정기',
     zh: 'DPS 表',
     pt: 'Medidor DPS',
-    cs: 'DPS Meter'
+    cs: 'DPS Meter',
+    es: 'Medidor de DPS'
   },
 
   fullscreen: {
@@ -66,7 +73,8 @@ export default {
     ko: '전체화면',
     zh: '全螢幕',
     pt: 'Tela cheia',
-    cs: 'Celá obrazovka'
+    cs: 'Celá obrazovka',
+    es: 'Pantalla completa'
   },
 
   menuReturn: {
@@ -76,6 +84,7 @@ export default {
     ko: '메뉴로 돌아가기',
     zh: '返回主頁',
     pt: 'Voltar ao Menu',
-    cs: 'Zpět do Menu'
+    cs: 'Zpět do Menu',
+    es: 'Volver al menú'
   }
 }
