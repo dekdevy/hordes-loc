@@ -28,7 +28,8 @@ export default {
     choices: [{
       en: 'Teleport to $1.', // keep it short
       fr: 'Se téléporter vers $1.',
-      ru: 'Телепортироваться на $1.'
+      ru: 'Телепортироваться на $1.',
+      es: 'Teletransportarse a $1.'
     }]
   }]
 }
