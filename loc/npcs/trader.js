@@ -143,7 +143,8 @@ export default {
     tr: 'Tüccar bu eşyayı istemiyor',
     ko: '상인은 해당 품목을 원하지않습니다',
     cs: 'Obchodník tuto položku nechce',
-    pt: 'O comerciante não quer este item.'
+    pt: 'O comerciante não quer este item.',
+    es: 'El comerciante no quiere este artículo.'
   },
 
   select: {
@@ -152,7 +153,8 @@ export default {
     tr: 'Satmak için bir eşya seç',
     ko: '판매 할 물건을 고르세요',
     cs: 'Vyberte předmět k prodeji',
-    pt: 'Selecione um item para vender.'
+    pt: 'Selecione um item para vender.',
+    es: 'Seleccione un artículo para vender'
   },
 
   name: {
@@ -161,6 +163,7 @@ export default {
     tr: 'Tüccar',
     ko: '무역상',
     cs: 'Obchodník',
-    pt: 'Negociante'
+    pt: 'Negociante',
+    es: 'Comerciante'
   }
 }
