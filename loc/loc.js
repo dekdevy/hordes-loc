@@ -69,7 +69,7 @@ import vanguard from './factions/vanguard.js'
 const factions = [
   vanguard,
   bloodlust,
-  { name: {$$: 'Neutral'} }]
+  { name: {$$: 'Neutral', pt: 'Neutro'} }]
 
 // Npcs
 import blacksmith from './npcs/blacksmith.js'

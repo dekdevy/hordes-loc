@@ -324,8 +324,8 @@ export default {
   },
 
   bindlevel: [
-    {$$: 'Tradable'},
-    {$$: 'Account bound'},
-    {$$: 'Character bound'}
+    { $$: 'Tradable', pt: 'Comerciável' },
+    { $$: 'Account bound', pt: 'Vinculado à Conta' },
+    { $$: 'Character bound', pt: 'Vinculado ao Personagem' }
   ]
 }

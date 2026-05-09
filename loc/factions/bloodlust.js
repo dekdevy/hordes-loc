@@ -1,7 +1,8 @@
 export default {
   // English only.
   name: {
-    $$: 'Bloodlust'
+    $$: 'Bloodlust',
+    pt: 'Sede de Sangue'
   },
 
   // Do NOT translate "Bloodlust" or "Headless Landing".

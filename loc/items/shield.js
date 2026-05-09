@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {$$: 'Wooden Shield' },
+    name       : {$$: 'Wooden Shield', pt: 'Escudo de Madeira' },
     description: {
       en: 'This is a makeshift shield that seems to have been produced out of necessity.',
       fr: 'Il s\'agit d\'un bouclier de fortune qui semble avoir été produit par nécessité.',
@@ -19,7 +19,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Buckler' },
+    name       : {$$: 'Buckler', pt: 'Broquéi' },
     description: {
       en: 'Bucklers can be useful protection against small and light weapons. Pirates often use bucklers for maneuverability.',
       fr: 'Les bocles peuvent être une protection utile contre les armes légères et de petit calibre. Les pirates les utilisent souvent pour leur maniabilité.',
@@ -38,7 +38,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Old Bulwark' },
+    name       : {$$: 'Old Bulwark', pt: 'Baluarte Antigo' },
     description: {
       en: 'This is a shield type that is often made during war times. Although cheap, the shield is made of sturdy ironbark.',
       fr: 'Il s\'agit d\'un type de bouclier souvent fabriqué par temps de guerre. Bien que bon marché, le bouclier est fait d\'écorce de fer robuste.',
@@ -57,7 +57,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Metal Guard' },
+    name       : {$$: 'Metal Guard', pt: 'Guarda de Metal' },
     description: {
       en: 'Kingdom sentries often use shields such as this to reduce received damage as well as protect citizens.',
       fr: 'Les sentinelles du royaume utilisent souvent des boucliers comme celui-ci pour réduire les dégâts reçus et protéger les citoyens.',
@@ -76,7 +76,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Darkmetal Shield' },
+    name       : {$$: 'Darkmetal Shield', pt: 'Escudo de Metal Negro' },
     description: {
       en: 'This shield is made of darkmetal and anointed with a black oil. Adventurers with this kind of shield are certain to stand out from the rest.',
       fr: 'Ce bouclier est fait de métal noir et oint d\'une huile noire. Les aventuriers dotés de ce type de bouclier sont certains de se démarquer des autres.',
@@ -95,7 +95,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Spiked Warshield' },
+    name       : {$$: 'Spiked Warshield', pt: 'Escudo de Guerra Espinhoso' },
     description: {
       en: 'Spiked Warshields are robust in battle and fitting for orcish culture. Veteran orc warriors display their victory notches on the sides of their shields.',
       fr: 'Les boucliers de guerre à pointes sont robustes au combat et adaptés à la culture orque. Les guerriers orcs vétérans affichent leurs encoches de victoire sur les côtés de leurs boucliers.',

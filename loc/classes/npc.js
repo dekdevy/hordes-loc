@@ -1,5 +1,6 @@
 export default {
   name: {
-    $$: 'NPC'
+    $$: 'NPC',
+    pt: 'NPC'
   }
 }

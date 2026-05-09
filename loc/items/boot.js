@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {$$: 'Sandals' },
+    name       : {$$: 'Sandals', pt: 'Sandálias' },
     description: {
       en: 'This footwear is primarily made for comfort rather than running.',
       hu: 'Ez a lábbeli inkább a kényelmet mintsem a védelmet szolgálja.',

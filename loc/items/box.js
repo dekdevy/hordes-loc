@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {$$: 'Mysterious Saddle Chest'},
+    name       : {$$: 'Mysterious Saddle Chest', pt: 'Baú Misterioso de Selim'},
     description: {
       // Do NOT translate "Faivel", this is the name for one of the realms of Hordes.
       en: 'Shipped from the unexplored regions of Faivel. The contents of this cage cannot be inspected until opened.',
@@ -36,7 +36,8 @@ export default [
     name       : {$$: 'Pet Backpack'},
     description: {
       en: 'Allows the blacksmith to equip your rare pet with a backpack. Your pet will be able to pick up items for you.',
-      fr: 'Permet au forgeron d\'équiper votre familier rare d\'un sac à dos. Votre familier pourra alors rammaser des objets pour vous.'
+      fr: 'Permet au forgeron d\'équiper votre familier rare d\'un sac à dos. Votre familier pourra alors rammaser des objets pour vous.',
+      pt: 'Permite ao ferreiro equipar seu familiar raro com uma mochila. Seu familiar poderá pegar itens para você.'
     }
   }
 ]

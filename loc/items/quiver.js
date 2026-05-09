@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {$$: 'Linen Quiver' },
+    name       : {$$: 'Linen Quiver', pt: 'Aljava de Linho' },
     description: {
       en: 'This mass-produced quiver is made with Elvish linen for extra comfort.',
       fr: 'Ce carquois produit en série est fait de lin elfique pour plus de confort.',

@@ -1,10 +1,12 @@
 export default {
   currency: {
-    $$: 'Hordes Points'
+    $$: 'Hordes Points',
+    pt: 'Pontos Hordes'
   },
 
   subscription: {
-    $$: 'Elixir'
+    $$: 'Elixir',
+    pt: 'Elixir'
   },
 
   chatsupport: {

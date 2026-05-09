@@ -199,19 +199,23 @@ export default {
     },
 
     {
-      $$: 'HP'
+      $$: 'HP',
+      pt: 'PV'
     },
 
     {
-      $$: 'MP'
+      $$: 'MP',
+      pt: 'PM'
     },
 
     {
-      $$: 'HP Reg./5s'
+      $$: 'HP Reg./5s',
+      pt: 'Reg. PV/5s'
     },
 
     {
-      $$: 'MP Reg./5s'
+      $$: 'MP Reg./5s',
+      pt: 'Reg. PM/5s'
     },
 
     {

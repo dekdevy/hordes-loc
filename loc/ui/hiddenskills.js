@@ -2,21 +2,21 @@
 // --- these are all trashy placeholders ---
 export default {
   100: {
-    name: {$$: 'Drink potion'}
+    name: {$$: 'Drink potion', pt: 'Beber Poção'}
   },
   101: {
-    name: {$$: 'Learn book'}
+    name: {$$: 'Learn book', pt: 'Aprender Livro'}
   },
   102: {
-    name: {$$: 'Mount up'}
+    name: {$$: 'Mount up', pt: 'Montar'}
   },
   103: {
-    name: {$$: 'Open'}
+    name: {$$: 'Open', pt: 'Abrir'}
   },
   104: {
-    name: {$$: 'Returning Soul'}
+    name: {$$: 'Returning Soul', pt: 'Alma Retornante'}
   },
   105: {
-    name: {$$: 'Use Trinket'}
+    name: {$$: 'Use Trinket', pt: 'Usar Amuleto'}
   }
 }

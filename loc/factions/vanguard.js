@@ -1,7 +1,8 @@
 export default {
   // English Only.
   name: {
-    $$: 'Vanguard'
+    $$: 'Vanguard',
+    pt: 'Vanguarda'
   },
 
   // Do NOT translate "Vanguard" or "Guardstone".

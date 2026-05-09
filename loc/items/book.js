@@ -1,5 +1,5 @@
 export default [{
-  name: {$$: 'Auto attack'},
+  name: {$$: 'Auto attack', pt: 'Ataque Automático'},
 
   description: {
     en: 'Perform automatic melee attacks with your weapon.',
@@ -661,7 +661,7 @@ export default [{
   }
 },
 {
-  name       : {$$: 'Volley'},
+  name       : {$$: 'Volley', pt: 'Salva'},
   description: {
     en: 'Rapidly shoots arrows at all targets in front of you, dealing damage over a short period of time.',
     fr: 'Tire rapidement des flèches sur toutes les cibles en face de vous, infligeant des dégâts sur une courte période.',
@@ -807,19 +807,19 @@ export default [{
   }
 },
 {
-  name       : {$$: 'Runefire Blast'},
+  name       : {$$: 'Runefire Blast', pt: 'Explosão de Fogo Rúnico'},
   description: {
     $$: '-'
   }
 },
 {
-  name       : {$$: 'Hellspawn Radiance'},
+  name       : {$$: 'Hellspawn Radiance', pt: 'Brilho do Inferno'},
   description: {
     $$: '-'
   }
 },
 {
-  name       : {$$: 'Obelisk Conjuration'},
+  name       : {$$: 'Obelisk Conjuration', pt: 'Conjuração do Obelisco'},
   description: {
     $$: '-'
   }

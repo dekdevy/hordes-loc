@@ -1,6 +1,6 @@
 export default [
   {
-    name: {$$: 'Small HP Potion'},
+    name: {$$: 'Small HP Potion', pt: 'Poção Pequena de PV'},
 
     description: {
       en: 'A potion flask containing a red liquid, healing you as you drink it.',
@@ -20,7 +20,7 @@ export default [
     }
   },
   {
-    name: {$$: 'Small MP Potion'},
+    name: {$$: 'Small MP Potion', pt: 'Poção Pequena de PM'},
 
     description: {
       en: 'A potion flask containing a blue liquid, recovering mana as you drink it.',
@@ -40,7 +40,7 @@ export default [
     }
   },
   {
-    name: {$$: 'Medium HP Potion'},
+    name: {$$: 'Medium HP Potion', pt: 'Poção Média de PV'},
 
     description: {
       en: 'A potion flask containing a red liquid, healing you as you drink it.',
@@ -60,7 +60,7 @@ export default [
     }
   },
   {
-    name: {$$: 'Medium MP Potion'},
+    name: {$$: 'Medium MP Potion', pt: 'Poção Média de PM'},
 
     description: {
       en: 'A potion flask containing a blue liquid, recovering mana as you drink it.',
@@ -80,7 +80,7 @@ export default [
     }
   },
   {
-    name: {$$: 'Large HP Potion'},
+    name: {$$: 'Large HP Potion', pt: 'Poção Grande de PV'},
 
     description: {
       en: 'A potion flask containing a red liquid, healing you as you drink it.',
@@ -100,7 +100,7 @@ export default [
     }
   },
   {
-    name: {$$: 'Large MP Potion'},
+    name: {$$: 'Large MP Potion', pt: 'Poção Grande de PM'},
 
     description: {
       en: 'A potion flask containing a blue liquid, recovering mana as you drink it.',

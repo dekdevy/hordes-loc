@@ -23,7 +23,8 @@ export default {
 
   pvp: {
     en: 'PvP',
-    es: 'PVP / JcJ'
+    es: 'PVP / JcJ',
+    pt: 'PvP'
   },
 
   interaction: {

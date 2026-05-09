@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {$$: 'Lucid' },
+    name       : {$$: 'Lucid', pt: 'Lúcido' },
     description: {
       en: 'This flat material is commonly found in mines; monsters often mine for Lucid to support their economies.',
       fr: 'Ce matériau plat se trouve couramment dans les mines; les monstres minent souvent ce matériau pour soutenir leurs économies.',
@@ -20,7 +20,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Melant' },
+    name       : {$$: 'Melant', pt: 'Melante' },
     description: {
       en: 'The curves of Melant give the appearance of writing or symbols, but blacksmiths believe these natural formations reveal a powerful internal structure.',
       fr: 'Les courbes du Melant donnent l\'apparence d\'une écriture ou de symboles, mais les forgerons pensent que ces formations naturelles révèlent une puissante structure interne.',
@@ -40,7 +40,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Turim' },
+    name       : {$$: 'Turim', pt: 'Turim' },
     description: {
       en: 'This useful material originates from a great volcano and the surrounding region. Turim were once frequently traded between caravans.',
       fr: 'Ce matériau utile provient d\'un grand volcan et de sa région environnante. Ce matériau était autrefois fréquemment échangé entre des caravanes.',
@@ -60,7 +60,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Fundo' },
+    name       : {$$: 'Fundo', pt: 'Fundo' },
     description: {
       en: 'This robust material was recently found to be useful for upgrades when blacksmiths began experimenting with "worthless Fundo." Since that time, Fundo have been considered a valuable resource.',
       fr: 'Ce matériau robuste s\'est récemment avéré utile pour les améliorations d\'objets lorsque les forgerons ont commencé à expérimenter avec le «Fundo sans valeur». Depuis, le Fundo est considéré comme une ressource précieuse.',
@@ -80,7 +80,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Amari' },
+    name       : {$$: 'Amari', pt: 'Amari' },
     description: {
       en: 'Amari are often given as gifts from overseas kingdoms. Scholars say that Amari were first discovered when a race of sea creatures made first contact with several land kingdoms and brought Amari from the sea floor.',
       fr: 'Les Amaris sont souvent offerts en cadeau par des royaumes d\'outre-mer. Les savants disent que l\'Amari a été découvert pour la première fois lorsqu\'une race de créatures marines a pris contact avec plusieurs royaumes terrestres et a ramené de l\'Amari du fond marin.',
@@ -100,7 +100,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Purum' },
+    name       : {$$: 'Purum', pt: 'Purum' },
     description: {
       en: 'Often mistaken for gold, this material was once thought to be the same material as dragon scales. Many ancient decorations and weapons are adorned with Purum.',
       fr: 'Souvent confondu avec de l\'or, ce matériau était autrefois considéré comme le même matériau que les écailles de dragon. De nombreuses décorations et armes anciennes sont ornées de Purum.',
@@ -120,7 +120,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Royal' },
+    name       : {$$: 'Royal', pt: 'Real' },
     description: {
       en: 'Royals are often owned and collected by kings and queens to be used as ceremonial gifts during arranged marriages.',
       fr: 'Les Royals sont souvent possédés et collectés par les rois et les reines pour être utilisés comme cadeaux de cérémonie lors des mariages arrangés.',
@@ -137,7 +137,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Tara' },
+    name       : {$$: 'Tara', pt: 'Tara' },
     description: {
       en: 'These formations naturally occur most often near Yggdrasil, the World Tree. The beauty and power rarity of Tara make them equally suited for either jewelry heirlooms or item upgrades.',
       fr: 'Ces formations se produisent naturellement le plus souvent près d\'Yggdrasil, l\'arbre du monde. La beauté et la rareté de la puissance des Taras les rendent également adaptés aux héritages de bijoux ou aux améliorations d\'objets.',
@@ -154,7 +154,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Gloom' },
+    name       : {$$: 'Gloom', pt: 'Trevas' },
     description: {
       en: 'Once the secret methods of enhancing equipment using the power of Gloom were discovered, those methods were shortly sold to an opposing kingdom as one of the biggest betrayals in the history of the realms.',
       fr: 'Une fois que les méthodes secrètes d\'amélioration de l\'équipement utilisant la puissance de Gloom ont été découvertes, ces méthodes ont été rapidement vendues à un royaume adverse comme l\'une des plus grandes trahisons de l\'histoire des royaumes.',
@@ -171,7 +171,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Plurae' },
+    name       : {$$: 'Plurae', pt: 'Plurae' },
     description: {
       en: 'Unusual crystalline properties in Plurae make it an exceptional material. Although Plurae were only recently rediscovered in the forgotten depths of the world, the applications of Plurae have already been substantial in turning the tides of war.',
       fr: 'Les propriétés cristallines inhabituelles du Plurae en font un matériau exceptionnel. Bien que le Plurae n\'ait été redécouvert que récemment dans les profondeurs oubliées du monde, les applications du Plurae ont déjà joué un rôle important pour inverser le cours de la guerre.',
@@ -188,7 +188,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Aeter' },
+    name       : {$$: 'Aeter', pt: 'Éter' },
     description: {
       en: 'Although Aeter were once considered gifts from the gods by queens and kings of the past, written histories claim that Aeter were found inside black meteorites.',
       fr: 'Bien que l\'Aeter était autrefois considéré comme un cadeau des dieux par les reines et les rois du passé, les histoires écrites affirment que l\'Aeter a été trouvé à l\'intérieur de météorites noires.',

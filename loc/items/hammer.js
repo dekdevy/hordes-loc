@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {$$: 'Splintered Club' },
+    name       : {$$: 'Splintered Club', pt: 'Clava Esplandrada' },
     description: {
       en: 'This is a makeshift weapon that is often created by farmers.',
       fr: 'Cette arme de fortune est souvent fabriquée par des fermiers.',

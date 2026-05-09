@@ -338,7 +338,8 @@ export default {
     ko: '전부',
     zh: '總合',
     cs: 'Celkem',
-    es: 'Total'
+    es: 'Total',
+    pt: 'Total'
   },
 
   previous: {
@@ -397,7 +398,8 @@ export default {
       en: '?',
       ko: '?',
       cs: '?',
-      es: '?'
+      es: '?',
+      pt: '?'
     }
   ]
 }
