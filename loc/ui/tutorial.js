@@ -200,7 +200,7 @@ export default {
       pt: 'À medida que você sobe de nível, você ganhará pontos de habilidade e pontos de atributo adicionais. Lembre-se de subir o nível das suas habilidades <kbd>K</kbd> e alocar os pontos de atributo <kbd>C</kbd>.'
     },
     { // _TUT_BOOKS_EXTRA_INFO
-      en: 'Tip: All the Level 1 Skill books can serchased from your class trader. Higher level books can be found from monsters.',
+      en: 'Tip: All the Level 1 Skill books can  be purchased from your class trader. Higher level books can be found from monsters.',
       fr: 'Astuce: Tous les livres de compétences de niveau 1 peuvent être achetés auprès du marchand de ta classe. Les livres de niveau supérieur peuvent être quant à eux trouver sur les monstres.',
       es: 'Consejo: Todos los libros de habilidad de nivel 1 se pueden comprar al comerciante de tu clase. Los libros de nivel superior se pueden encontrar en los monstruos.',
       pt: 'Dica: Todos os livros de habilidades de nível 1 podem ser comprados do comerciante da sua classe. Livros de nível superior podem ser encontrados em monstros.'

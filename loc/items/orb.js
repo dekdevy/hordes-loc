@@ -1,7 +1,7 @@
 export default [
 
   {
-    name       : {$$: 'Rat Skull', pt: 'Crânio de Rato' },
+    name       : {$$: 'Rat Skull' },
     description: {
       en: 'This rat skull is a useful tool for beginning mages. Mages sometimes experiment on the bones of long-dead creatures to produce a focusing vessel.',
       fr: 'Ce crâne de rat est un outil utile pour les mages débutants. Les mages expérimentent parfois sur les os de créatures mortes depuis longtemps pour produire un récipient de concentration.',

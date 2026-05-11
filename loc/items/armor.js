@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {$$: 'Potato Sack', pt: 'Saco de Batatas' },
+    name       : {$$: 'Potato Sack' },
     description: {
       en: 'This is a surprisingly sturdy material that can be used as a protective clothing. The makeshift nature of this material is obvious, so many adventurers choose to replace the potato sack as quickly as possible.',
       hu: 'Ez a meglepően erős anyag képes tompítani a csapások erejét. A készítő képzetlensége egyértelmű, nem csoda hogy a legtöbb kalandor minél hamarabb le akarja cserélni a krumplizsákot.',

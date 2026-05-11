@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {$$: 'Wooden Sword', pt: 'Espada de Madeira' },
+    name       : {$$: 'Wooden Sword' },
     description: {
       en: 'These swords are often made of ironbark to last longer than regular wood.',
       fr: 'Ces épées sont souvent faites d\'écorce de fer pour durer plus longtemps que le bois ordinaire.',
@@ -19,7 +19,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Rusty Ironsword', pt: 'Espada de Ferro Enferrujada' },
+    name       : {$$: 'Rusty Ironsword' },
     description: {
       en: 'Swords such as this have seen many battles and are typically handed down from a warrior to an apprentice.',
       fr: 'Des épées comme celle-ci ont connu de nombreuses batailles et sont généralement transmises d\'un guerrier à un apprenti.',
@@ -38,7 +38,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Troll Blade', pt: 'Lâmina de Troll' },
+    name       : {$$: 'Troll Blade' },
     description: {
       en: 'This is a worthy weapon wielded by trolls and their tribes. Trolls often attack neighboring territories to either expand their own or force back invaders.',
       fr: 'C\'est une arme digne utilisée par les trolls et leurs tribus. Les trolls attaquent souvent les territoires voisins pour étendre le leur ou repousser les envahisseurs.',
@@ -57,7 +57,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Broadsword', pt: 'Espada Largo' },
+    name       : {$$: 'Broadsword' },
     description: {
       en: 'The broadsword is a standard weapon among soldiers and warriors on the battlefield.',
       fr: 'La Broadsword est une arme standard parmi les soldats et les guerriers sur le champ de bataille.',
@@ -75,7 +75,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Longsword', pt: 'Espada Longa' },
+    name       : {$$: 'Longsword' },
     description: {
       en: 'Longswords are primarily identified by their longer grip rather than the longer blade. Bladesmiths have used a variety of materials and levels of skill, producing a wide variety of results.',
       fr: 'Les Longswords sont principalement identifiées par leur prise plus longue plutôt que par leur lame plus longue. Les forgerons ont utilisé une variété de matériaux et de niveaux de compétence, produisant une grande variété de résultats.',
@@ -92,7 +92,7 @@ export default [
     }
   },
   {
-    name       : {$$: 'Gladius', pt: 'Gládio' },
+    name       : {$$: 'Gladius' },
     description: {
       en: 'Designed for combat, this weapon performs to expectations inside the Colosseum.',
       fr: 'Conçue pour le combat, cette arme répond aux attentes à l\'intérieur du Colisée.',
@@ -110,7 +110,7 @@ export default [
     }
   },
   {
-    name       : {$$: 'Greatsword', pt: 'Espada Grande' },
+    name       : {$$: 'Greatsword' },
     description: {
       en: 'This massive sword is designed to increase damage potential specifically for war. An adventurer that wears or uses a weapon such as this leaves no doubt about their goals and profession.',
       fr: 'Cette épée massive est conçue pour augmenter le potentiel de dégâts spécifiquement pour la guerre. Un aventurier qui porte ou utilise une arme comme celle-ci ne laisse aucun doute sur ses objectifs et sa profession.',
@@ -129,7 +129,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Templar Greatsword', pt: 'Espada Grande do Templário' },
+    name       : {$$: 'Templar Greatsword'},
     description: {
       en: 'These are weapons that once belonged to the knights of fallen kingdoms. Powerful kingdoms once existed before massive wars obliterated them from the landscape; the knights wielding these greatswords maintained their chivalrous duties long after their kingdoms turned to dust.',
       fr: 'Ce sont des armes qui appartenaient autrefois aux chevaliers des royaumes déchus. Des royaumes puissants existaient autrefois avant que des guerres massives ne les effacent du paysage; les chevaliers brandissant ces grandes épées ont maintenu leurs devoirs chevaleresques longtemps après que leurs royaumes se soient transformés en poussière.',
@@ -148,7 +148,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Ghastly Scimitar', pt: 'Cimitarra Terrível' },
+    name       : {$$: 'Ghastly Scimitar' },
     description: {
       en: 'These swords are crafted by undead monsters. The unnatural crafting technique to produce weapons such as this remains unknown.',
       fr: 'Ces épées sont fabriquées par des monstres morts-vivants. La technique de fabrication artificielle pour produire des armes comme celle-ci reste inconnue.',
@@ -165,7 +165,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Nullfire Sword', pt: 'Espada do Fogo Nulo' },
+    name       : {$$: 'Nullfire Sword' },
     description: {
       en: 'Nullfire Swords are made by mortals from ice that is only found in the Underworld. Originally, this kind of sword was made to combat devils and demons during the first Great War; however, Nullfire Swords were crafted by flawed processes and were therefore unable to repel the devils and demons completely.',
       fr: 'Les épées Nullfire sont fabriquées par des mortels à partir de glace que l\'on ne trouve que dans les enfers. À l\'origine, ce type d\'épée était conçu pour combattre les diables et les démons pendant la première grande guerre; cependant, les épées Nullfire ont été fabriquées par des processus défectueux et étaient donc incapables de repousser complètement les diables et les démons.',
@@ -181,7 +181,7 @@ export default [
   },
 
   {
-    name       : {$$: 'King\'s Rapier', pt: 'Rapieira do Rei' },
+    name       : {$$: 'King\'s Rapier' },
     description: {
       en: 'In realms where warfare is constant, royalty often spend massive quantities of gold to create one of the best blades that money can buy for their personal use. Unfortunately, these pristine blades alone cannot stop invading armies from taking over a kingdom.',
       fr: 'Dans les royaumes où la guerre est constante, la royauté dépense souvent des quantités massives d\'or pour créer l\'une des meilleures lames que l\'argent puisse acheter pour son usage personnel. Malheureusement, ces lames immaculées ne peuvent à elles seules empêcher les armées envahisseuses de prendre le contrôle d\'un royaume.',
@@ -197,7 +197,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Void Blade', pt: 'Lâmina do Vazio' },
+    name       : {$$: 'Void Blade' },
     description: {
       en: 'These weapons were given to mortals by a secretive group of wraith monsters. These "gifts" were later discovered to be a means of manipulating mortal endeavors through magical corruption. Despite the apparent failure of this master plan, the powerful swords can still be found.',
       fr: 'Ces armes ont été données aux mortels par un groupe secret de monstres fantôme. On a découvert plus tard que ces «cadeaux» étaient un moyen de manipuler les efforts mortels par la corruption magique. Malgré l\'échec apparent de ce plan directeur, les épées puissantes peuvent encore être trouvées.',
@@ -213,7 +213,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Zerstörer', pt: 'Destruidor' },
+    name       : {$$: 'Zerstörer' },
     description: {
       en: 'Many scholars say these weapons were created to destroy an ancient and powerful race, but neither the creators nor their opponents remain.',
       fr: 'De nombreux savants disent que ces armes ont été créées pour détruire une race ancienne et puissante, mais il ne reste ni les créateurs ni leurs adversaires.',
@@ -229,7 +229,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Hearteater', pt: 'Devorador de Corações' },
+    name       : {$$: 'Hearteater' },
     description: {
       en: 'This weapon is literally a monster. These creatures bond with the user to increase combat exposure, which provides greater opportunities for the creatures to feed and sustain themselves.',
       fr: 'Cette arme est littéralement un monstre. Ces créatures se lient à l\'utilisateur pour augmenter l\'exposition au combat, ce qui offre de plus grandes opportunités aux créatures de se nourrir et de se maintenir.',
@@ -245,7 +245,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Demonedge', pt: 'Lâmina Demoníaca' },
+    name       : {$$: 'Demonedge' },
     description: {
       en: 'Demonedges were brought into the realms by the demons and devils that began the First Great War. These weapons are forged with hellfire and are not crafted by mortal hands.',
       fr: 'Les Demonedges ont été introduits dans les royaumes par les diables et les démons qui ont commencé la Première Grande Guerre. Ces armes sont forgées avec le feu de l\'enfer et ne sont pas fabriquées par des mains mortelles.',
@@ -261,7 +261,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Excalibur', pt: 'Excalibur' },
+    name       : {$$: 'Excalibur' },
     description: {
       en: 'Some of the most divine warriors and dedicated paladins in history used a weapon such as this. Legends that are heaped upon the names of the wielders have historically inspired and motivated generations of fighters and kings.',
       fr: 'Certains des guerriers les plus divins et des paladins dévoués de l\'histoire ont utilisé une arme comme celle-ci. Les légendes qui sont entassées sur les noms des détenteurs ont historiquement inspiré et motivé des générations de combattants et de rois.',
@@ -277,7 +277,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Harbinger', pt: 'Arauto' },
+    name       : {$$: 'Harbinger' },
     description: {
       en: 'This weapon is almost always considered a bad omen and bringer of doom when it is found. Some scholars believe this weapon falls through barrier fissures and could only be made outside of the realms.',
       fr: 'Cette arme est presque toujours considérée comme un mauvais présage et une source de malheur lorsqu\'elle est trouvée. Certains chercheurs pensent que cette arme passe à travers les fissures de la barrière et ne peut être fabriquée qu\'en dehors des royaumes.',

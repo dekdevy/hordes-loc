@@ -1,106 +1,106 @@
 export default [
   {
-    name       : {$$: 'Grubling', pt: 'Larva'},
-    description: { en: ' ', pt: 'Uma pequena larva que acompanha o jogador.' }
+    name       : {$$: 'Grubling'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Spider', pt: 'Aranha'},
-    description: { en: ' ', pt: 'Uma aranha que pode ser montada.' }
+    name       : {$$: 'Spider'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Leafspider', pt: 'Aranha Folhuda'},
-    description: { en: ' ', pt: 'Uma aranha com folhas nas costas, camuflaje na floresta.' }
+    name       : {$$: 'Leafspider'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Ruby Crawler', pt: 'Rastejador Rubi'},
-    description: { en: ' ', pt: 'Um rastejador vermelho que brilha como uma joia.' }
+    name       : {$$: 'Ruby Crawler'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Tick', pt: 'Carrapato'},
-    description: { en: ' ', pt: 'Um carrapato parasita que se agarra às presas.' }
+    name       : {$$: 'Tick'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Shadowstrider', pt: 'Passante das Sombras'},
-    description: { en: ' ', pt: 'Uma criatura das trevas que se move silenciosamente.' }
+    name       : {$$: 'Shadowstrider'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Pebbles', pt: 'Pedregulho'},
-    description: { en: ' ', pt: 'Um pequeno pedregulho animado, resistente como pedra.' }
+    name       : {$$: 'Pebbles'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Ember Pebbles', pt: 'Pedregulha Brasa'},
-    description: { en: ' ', pt: 'Um pedregulho que irradia calor infernal.' }
+    name       : {$$: 'Ember Pebbles'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Ether Wyrm', pt: 'Dragão Etéreo'},
-    description: { en: ' ', pt: 'Um dragão espectral feito de energia pura.' }
+    name       : {$$: 'Ether Wyrm'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Shadow Wyrm', pt: 'Dragão das Sombras'},
-    description: { en: ' ', pt: 'Um dragão sombrio que absorve a luz ao seu redor.' }
+    name       : {$$: 'Shadow Wyrm'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Sand Scarab', pt: 'Escaravelho da Areia'},
-    description: { en: ' ', pt: 'Um escaravelho do deserto com asas douradas.' }
+    name       : {$$: 'Sand Scarab'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Golden Scarab', pt: 'Escaravelho Dourado'},
-    description: { en: ' ', pt: 'Um escaravelho dourado que brilha sob o sol.' }
+    name       : {$$: 'Golden Scarab'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Flaming Skullspider', pt: 'Aranha Caveira Flamejante'},
-    description: { en: ' ', pt: 'Uma aranha infernal com uma caveira nas costas.' }
+    name       : {$$: 'Flaming Skullspider'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Blacksmith\'s Grub', pt: 'Larva do Ferreiro'},
-    description: { en: ' ', pt: 'Uma larva resistente forjada nas chamas da forja.' }
+    name       : {$$: 'Blacksmith\'s Grub'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Snowball', pt: 'Bola de Neve'},
-    description: { en: ' ', pt: 'Uma bola de neve mágica que flutua e resiste ao derretimento.' }
+    name       : {$$: 'Snowball'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Ghost', pt: 'Fantasma'},
-    description: { en: ' ', pt: 'Um espírito transparente que paira sobre o chão.'}
+    name       : {$$: 'Ghost'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Keiler', pt: 'Javali'},
-    description: { en: ' ', pt: 'Um javali selvagem e feroz das florestas.'}
+    name       : {$$: 'Keiler'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Mireshell', pt: 'Concha do Pântano'},
-    description: { en: ' ', pt: 'Um caramujo gigante coberto de lama e musgo.'}
+    name       : {$$: 'Mireshell'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Desert Scarab', pt: 'Escaravelho do Deserto'},
-    description: { en: ' ', pt: 'Um escaravelho adaptado às areias escaldantes do deserto.'}
+    name       : {$$: 'Desert Scarab'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Glimworm', pt: 'Verme Brilhante'},
-    description: { en: ' ', pt: 'Um verme que emite uma luz suave e reconfortante.'}
+    name       : {$$: 'Glimworm'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Mudlasher', pt: 'Espancador de Lama'},
-    description: { en: ' ', pt: 'Um monstro de lama que se move rapidamente.'}
+    name       : {$$: 'Mudlasher'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Sandpaw', pt: 'Pata de Areia'},
-    description: { en: ' ', pt: 'Uma besta com patas largas para caminhar sobre a areia.'}
+    name       : {$$: 'Sandpaw'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Oakmane', pt: 'Crineira de Carvalho'},
-    description: { en: ' ', pt: 'Um lobo com juba semelhante a folhas de carvalho.'}
+    name       : {$$: 'Oakmane'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Moonhowler', pt: 'Uivador Lunar'},
-    description: { en: ' ', pt: 'Um lobo que uiva para a lua e ganha poder noturno.'}
+    name       : {$$: 'Moonhowler'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Silkrunner', pt: 'Corredor de Seda'},
-    description: { en: ' ', pt: 'Uma aranha que teia trilhas de seda ultrafinas.'}
+    name       : {$$: 'Silkrunner'},
+    description: { en: ' ' }
   },
   {
-    name       : {$$: 'Shimmerbranch', pt: 'Ramo Brilhante'},
-    description: { en: ' ', pt: 'Um ramo vivo que emite um brilho suave e místico.'}
+    name       : {$$: 'Shimmerbranch'},
+    description: { en: ' ' }
   }
 ]

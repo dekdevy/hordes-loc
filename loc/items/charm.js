@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {$$: 'Little Bell', pt: 'Sino Pequeno'},
+    name       : {$$: 'Little Bell'},
     description: {
       en: 'Bells are often used as a symbol of devotion toward a chosen deity. The interior of this bell has an inlaid silver inscription, but the translation of the inscription has been lost to time.',
       fr: 'Les cloches sont souvent utilisées comme symbole de dévotion envers une divinité choisie. L\'intérieur de cette cloche porte une inscription en argent incrustée, mais la traduction de l\'inscription a été perdue au fil du temps.',

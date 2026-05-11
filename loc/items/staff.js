@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {$$: 'Broken Twig', pt: 'Galho Quebrado' },
+    name       : {$$: 'Broken Twig' },
     description: {
       en: 'Sticks and broken twigs are used by apprentice mages for educational purposes.',
       fr: 'Les bâtons et les brindilles brisées sont utilisés par les apprentis mages à des fins éducatives.',
@@ -20,7 +20,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Cracked Stick', pt: 'Graveto Rachado' },
+    name       : {$$: 'Cracked Stick' },
     description: {
       en: 'This is a damaged battlestaff that still has some use for beginning magic users.',
       fr: 'Il s\'agit d\'un bâton de bataille endommagé qui a encore une certaine utilité pour les utilisateurs débutants de la magie.',
@@ -40,7 +40,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Gnarled Broomstick', pt: 'Vassoura Retorcida' },
+    name       : {$$: 'Gnarled Broomstick' },
     description: {
       en: 'Some of the oldest trees are used to create Gnarled Broomsticks. These weapons produce spells to sweep enemies off the battlefield.',
       fr: 'Certains des arbres les plus anciens sont utilisés pour créer ces bâtons. Ces armes produisent des sorts pour balayer les ennemis du champ de bataille.',
@@ -60,7 +60,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Oak Staff', pt: 'Cajado de Carvalho' },
+    name       : {$$: 'Oak Staff' },
     description: {
       en: 'This is a sturdy oak weapon for casting intermediate magic.',
       fr: 'Il s\'agit d\'une arme en chêne robuste pour lancer de la magie intermédiaire.',
@@ -80,7 +80,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Mystic Wand', pt: 'Varinha Mística' },
+    name       : {$$: 'Mystic Wand' },
     description: {
       en: 'This wand is a gift from the mystics that is embedded with strange shards that enhance magical power.',
       fr: 'Cette baguette est un cadeau des mystiques qui est incrusté d\'étranges éclats qui améliorent la puissance magique.',
@@ -100,7 +100,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Bone Staff', pt: 'Cajado de Osso' },
+    name       : {$$: 'Bone Staff' },
     description: {
       en: 'This is made from the bones of monster mages to augment magical power.',
       fr: 'Cette arme est fabriquée à partir des os des mages monstres pour augmenter la puissance magique.',
@@ -120,7 +120,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Encrusted Rod', pt: 'Bastão Encrustado' },
+    name       : {$$: 'Encrusted Rod' },
     description: {
       en: 'This rod is encrusted with gems that store magical power.',
       fr: 'Cette baguette est incrustée de pierres précieuses qui stockent la puissance magique.',
@@ -140,7 +140,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Imbued Staff', pt: 'Cajado Encantado' },
+    name       : {$$: 'Imbued Staff' },
     description: {
       en: 'The etched runes on this staff faintly glow when spells are cast. Although several mage guilds clearly believe that the runes augment spell casting, the true nature of the runes is unknown.',
       fr: 'Les runes gravées sur ce bâton brillent faiblement lorsque des sorts sont lancés. Bien que plusieurs guildes de mages croient clairement que les runes augmentent le lancement des sorts, la vraie nature des runes reste inconnue.',
@@ -160,7 +160,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Emerald Staff', pt: 'Cajado de Esmeralda' },
+    name       : {$$: 'Emerald Staff' },
     description: {
       en: 'This staff uses an enchanted stone to channel and focus magical energies. The process of finding such a special emerald, along with the expensive enchanting process, makes this staff somewhat difficult to craft.',
       fr: 'Ce bâton utilise une pierre enchantée pour canaliser et concentrer les énergies magiques. Le processus de recherche d\'une émeraude aussi spéciale, ainsi que le processus d\'enchantement coûteux, rendent ce bâton quelque peu difficile à fabriquer.',

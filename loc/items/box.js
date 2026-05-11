@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {$$: 'Mysterious Saddle Chest', pt: 'Baú Misterioso de Selim'},
+    name       : {$$: 'Mysterious Saddle Chest'},
     description: {
       // Do NOT translate "Faivel", this is the name for one of the realms of Hordes.
       en: 'Shipped from the unexplored regions of Faivel. The contents of this cage cannot be inspected until opened.',

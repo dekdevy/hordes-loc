@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {$$: 'Linen Pouch', pt: 'Bolsa de Linho' },
+    name       : {$$: 'Linen Pouch' },
     description: {
       en: 'This pouch is made from a delicate fabric. Pouches such as this are often owned by common people for carrying their belongings.',
       ru: 'Этот мешок сделан из нежной ткани. Мешки, подобные этому, часто принадлежат простым людям для перевозки своих вещей.',

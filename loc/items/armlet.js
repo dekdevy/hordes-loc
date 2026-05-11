@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {$$: 'Simple Wristbands', pt: 'Pulseiras Simples' },
+    name       : {$$: 'Simple Wristbands' },
     description: {
       en: 'These wristbands are leather strips that are wrapped in a simple formation.',
       pl: 'Te opaski są zrobione ze skórzanych pasków, splątanych w prosty sposób.',
@@ -22,7 +22,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Makeshift Armbands', pt: 'Braçais de Oportunidade' },
+    name       : {$$: 'Makeshift Armbands' },
     description: {
       en: 'These armbands were created hastily. The rough battle markings on the sides of the leather do not inspire confidence of the previous owner\'s survival.',
       pl: 'Te bransolety zostały stworzone w pośpiechu. Brutalne ślady bitwy na bokach skóry nie zapewniają, że poprzedni właściciel przeżył.',
@@ -44,7 +44,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Leather Armlets', pt: 'Braçais de Couro' },
+    name       : {$$: 'Leather Armlets' },
     description: {
       // Do NOT translate "Markay\'ak".
       en: 'Tough leather has been painstakingly crafted into fine armlets. On the side of the leather is the craftsman\'s signature: "Markay\'ak".',
@@ -67,7 +67,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Bone Bracelets', pt: 'Pulseiras de Osso' },
+    name       : {$$: 'Bone Bracelets' },
     description: {
       en: 'This type of bracelet is ornately crafted with thick monster bones. Many superstitious traditions claim that the wearer of such bracelets become permeated with the deceased monster\'s power; however, others claim that the reuse of bones prevents monsters from resurrecting.',
       pl: 'Ten rodzaj bransolet został stworzony ozdobnie z grubych kości potworów. Według wielu przesądów, uważa się, że posiadacz owych bransolet zostanie obdarowany mocą poległego stwora; inne zaś twierdzą, że użycie kości zapobiega odrodzeniu się potworów.',
@@ -89,7 +89,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Iron Vambraces', pt: 'Vambraces de Ferro' },
+    name       : {$$: 'Iron Vambraces' },
     description: {
       en: 'This type of iron armor has been heavily used in war and remains dirty. The claw marks on the metal seem to be mostly superficial.',
       pl: 'Ten typ żelaznego pancerza był mocno eksploatowany podczas wojny i wciąż jest brudny. Ślady pazurów na metalu zdają się powierzchowne.',
@@ -111,7 +111,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Imbued Bracers', pt: 'Braçais Encantados' },
+    name       : {$$: 'Imbued Bracers' },
     description: {
       en: 'These steel bracers are marked with small runes that imbue extra protection. Imbued bracers are somewhat rare since the creation method of the runes is a secret.',
       pl: 'Te stalowe karwasze pokryte są małymi runami zapewniającymi dodatkową ochornę. Nasycony pancerz jest rzadkością, jako, że sposób jego tworzenia, owiany jest tajemnicą.',
@@ -133,7 +133,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Ember Cuffs', pt: 'Manilhas de Brasa' },
+    name       : {$$: 'Ember Cuffs' },
     description: {
       en: 'These cuffs were forged with a special fire that can only be created through magic. In the past, fire elementals taught only a few special blacksmiths the secret to forging ember cuffs.',
       pl: 'Menkiety te, zostały wykute za pomocą specjanlego ognia, który stworzony może zostać jedynie przez magię. W zamierzchłych czasach, żywiołaki ognia nauczyły jedynie wybranych kowali sekretu stworzenia Ember Cuffs.',
@@ -153,7 +153,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Mirror Armlets', pt: 'Braçais Espelhados' },
+    name       : {$$: 'Mirror Armlets' },
     description: {
       en: 'Mirrored armlets are made by exceptional blacksmiths with the skills necessary to make reflective armor for damage reduction. This protective quality inspired many Elvish wizards to often experiment on mirrored armlets.',
       pl: 'Lustrzane karwasze tworzone są przez niezwykłych kowali posiadających umiejętności konieczne do stworzenia odbijającego pancerza zapewniającego redukcję obrażeń. Ta ochronna cecha zainspirowała wielu elfich czarodziejów by często ekperymentować na lustrzanych karwaszach.',
@@ -173,7 +173,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Golem Fragments', pt: 'Fragmentos de Golem' },
+    name       : {$$: 'Golem Fragments' },
     description: {
       en: 'Golem fragments are painstakingly assembled by a small team of magic-using blacksmiths. Every pair of golem fragments is crafted over several hundred days using the husks of rock golems.',
       pl: 'Pancerz ten jest skrupulatnie składany przez mały zespół kowali używających magii. Każda para tego pancerza jest tworzona przez pareset dni z użytkiem skorup skalnych golemów.',
@@ -193,7 +193,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Coldforged Bracers', pt: 'Braçais Forjados a Frio' },
+    name       : {$$: 'Coldforged Bracers' },
     description: {
       en: 'Bracers such as this are comprised of a rare metal found in the mountains. Blacksmiths use enchanted hammers to forge the bracers without heat in order to retain the magic-enhancing properties of the metal.',
       pl: 'Karwasze takie jak te zwierają rzadkie metale znalezione w górach. Kowale używają zaklętych młotów by wykuć ten pancerz bez użycia ciepła, aby zachować magiczne właściwości metali.',
@@ -213,7 +213,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Blackstars', pt: 'Estrelas Negras' },
+    name       : {$$: 'Blackstars' },
     description: {
       en: 'These bracers were created by blacksmiths that hammered metal found within black meteorites. So far, the greatest concentration of black meteorites was found after a cataclysm that followed the Second Great War.',
       pl: 'Te karwasze zostały stworzone przez kowali, którzy kuli metal znaleziony w czarnych meteorytach. Póki co, najwięcej czarnych meteorytów znaleziono po kataklizmie, który nastąpił po Drugiej Wielkiej Wojnie.',
@@ -233,7 +233,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Mobiuses', pt: 'Móbiuns' },
+    name       : {$$: 'Mobiuses' },
     description: {
       en: 'Ambitious wizards on the edge of madness discovered secrets to dimensional magic and formed bracers that transcend normal magical protection. These abnormal bracers required a special shape to maintain their properties.',
       pl: 'Ambitni czarodzieje na skraju szaleństwa odkrymi sekrety wymiarowej magii i utworzyli karwasze, które przewyższają zwyczajną magiczną ochronę. Te nienormalne karwasze wymagają specjalnego kształtu, aby zachować swoje właściwości.',
@@ -253,7 +253,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Guardians', pt: 'Guardiões' },
+    name       : {$$: 'Guardians' },
     description: {
       en: 'Some legends say that these bracers only appear when the realms need a guardian. History shows that terrible tragedies occur shortly thereafter whenever these bracers are found; as such, their appearances are often seen as bad omens.',
       pl: 'Niektóre legendy mówią, że te karwasze pojawiają się jedynie, gdy królestwo wymaga obrońcy. Historia pokazuje, że straszne tragedie wydarzyły się niedługo po tym, gdy zostały one znalezione; tak więc, ich pojawienie się, często uznawane jest za zły omen.',

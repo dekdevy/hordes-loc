@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {$$: 'Dream Feathers', pt: 'Penas dos Sonhos'},
+    name       : {$$: 'Dream Feathers'},
     description: {
       en: 'These feathers absorb the dreams and nightmares of those that sleep near it. The dreams and nightmares are stored and reused in the form of magic.',
       fr: 'Ces plumes absorbent les rêves et les cauchemars de ceux qui dorment à proximité. Les rêves et les cauchemars sont stockés et réutilisés sous forme de magie.',

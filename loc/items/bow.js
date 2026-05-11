@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {$$: 'Driftwood Shortbow', pt: 'Arco Curto de Madeira Deriva' },
+    name       : {$$: 'Driftwood Shortbow' },
     description: {
       en: 'This bow is a makeshift creation. Wood is not a plentiful resource in some regions, so denizens sometimes use the materials on hand to create weapons such as this.',
       hu: 'Ez az íj egy egyszerű barkács; a fa nem nő ki mindenhol, ne csudáljuk, hogy egyes népek megpróbálják a legtöbbet a kéznél lévő anyagokból kicsikarni.',
@@ -21,7 +21,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Novice Shortbow', pt: 'Arco Curto do Iniciante' },
+    name       : {$$: 'Novice Shortbow' },
     description: {
       en: 'Bows such as these are crafted for beginning archers to hone their skills.',
       hu: 'Az ilyen íjakat fiatal lövészek kapják, hogy legyen mivel gyakorolniuk.',
@@ -42,7 +42,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Curved Shortbow', pt: 'Arco Curto Curvo' },
+    name       : {$$: 'Curved Shortbow'},
     description: {
       en: 'Curved shortbows are mostly produced for hunting local wildlife.',
       hu: 'A kézíjakkal remekül lehet vadászni, ezért is olyan elterjedtek.',
@@ -63,7 +63,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Adventurer\'s Shortbow', pt: 'Arco Curto do Aventureiro' },
+    name       : {$$: 'Adventurer\'s Shortbow' },
     description: {
       en: 'This type of bow is a standard weapon of choice for adventurers.',
       hu: 'Ez az íj az általános fegyverválasztása a legtöbb kalandozónak.',
@@ -84,7 +84,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Longbow', pt: 'Arco Longo' },
+    name       : {$$: 'Longbow' },
     description: {
       en: 'Longbows are designed to be weapons of war.',
       hu: 'A hosszúíjakat egyetlen célra szerkesztették, mégpedig háborúra.',
@@ -105,7 +105,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Bone Bow', pt: 'Arco de Osso' },
+    name       : {$$: 'Bone Bow' },
     description: {
       en: 'This bow is crafted from monster bones to produce extra resilience and power.',
       hu: 'Ez az íj csontokból áll, hogy magas szintű rugalmasságot és erőt biztosítson.',
@@ -126,7 +126,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Elven Bow', pt: 'Arco Élfico' },
+    name       : {$$: 'Elven Bow' },
     description: {
       en: 'Elvish craftsmen put exquisite care in their bows during the crafting process, and Elvish archers have a proud reputation during times of war for a reason.',
       hu: 'Az Elf mesteremberek kivételes gondot fektetnek az íjaikba, és az íjászaik mindig kitüntetik magukat a harci időszakokban, mégpedig nem akármiért.',
@@ -147,7 +147,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Ancient Bow', pt: 'Arco Antigo' },
+    name       : {$$: 'Ancient Bow' },
     description: {
       en: 'Ancient bows are exceptional weapons that were designed by forgotten master craftsmen. These bows are often passed from one generation to another.',
       hu: 'Az ősi íjak még vándorló ősmagyar törzsek keze munkái. Nemzedékről nemzedékre, apáról fiúra szálltak a fegyverek, és a készítésük titkai egyaránt.',
@@ -168,7 +168,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Iron Piercer', pt: 'Perfurado de Ferro' },
+    name       : {$$: 'Iron Piercer' },
     description: {
       en: 'These bows were developed in response to armor-wearing monsters.',
       hu: 'Amint megjelentek a szörnyetegek talpig vasban, felütötték a fejüket efféle anarmnensek is.',
@@ -186,7 +186,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Silver Recurve', pt: 'Recurvo de Prata' },
+    name       : {$$: 'Silver Recurve' },
     description: {
       en: 'This bow design is more mechanically efficient than the longbow. The unique pattern of decorative silver is a testament to the craftsmanship required to make such a fine bow.',
       hu: 'Ez az íjforma sokkal hatékonyabb, mint a hosszúíj. A dístítő ezüst különleges mintája tanúbizonsága annak a mesteri tudásnak, ami képes volt egy ilyen fegyver elkészítésére.',
@@ -204,7 +204,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Assassin\'s Bow', pt: 'Arco do Assassino' },
+    name       : {$$: 'Assassin\'s Bow' },
     description: {
       en: 'Bows such as this were previously owned by assassins that made modifications to drastically increase efficiency. Assassins regularly modify their weapons to reach optimal performance.',
       hu: 'Az ehhez hasonló íjakat régebben képzett bérgyilkosok használták, akiknek a módosításai megnövelték az íj erejét. A bérgyilkosok szinte mindig feljavítják az íjukat a megfelelő teljesítményért.',
@@ -222,7 +222,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Hellfire Warbow', pt: 'Arco de Guerra do Inferno' },
+    name       : {$$: 'Hellfire Warbow' },
     description: {
       en: 'Bows such as this were made from hellfires that are provided by devilish creatures. These kinds of bows are rare because of the ultimate price required for such wicked transactions and acquisitions.',
       hu: 'Ezeket a hatalmas íjakat ördögi jószágok pokoltüze formálta. Igen ritkák ezek az íjak, lévén az ár túlságosan hatalmas, hogy nyélbe üssék ezeket a megátalkodott, ördögi üzleteket.',
@@ -240,7 +240,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Skyfire Warbow', pt: 'Arco de Guerra do Fogo Celeste' },
+    name       : {$$: 'Skyfire Warbow' },
     description: {
       en: 'This bow was bathed in the flames of a phoenix and cooled in the night sky. Bows created in this way are sometimes imbued with extra magical characteristics from phoenix fire.',
       hu: 'Ez az íj a Főnix lángjaiban fürdött, és az éjszakai ég hűtötte le. Azok az íjak, amiket így készítenek, gyakran vannak a Főnix lángjának sajátosságaival is elbűvölve.',
@@ -258,7 +258,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Widowmaker', pt: 'Fazedor de Viuvas' },
+    name       : {$$: 'Widowmaker' },
     description: {
       en: 'Widowmakers are living bows that bond with the user. Powerful monsters use a mystic process to create widowmakers; the resulting weapon can be remarkably jealous and entice the user not to use any other weapon by destroying foes with vast depths of battle experience.',
       hu: 'Az Özvegyítők élő íjak, amik egybefonódnak a használóval. A legerősebb szörnyetegek egy misztikus folyamattal készítik őket; az eredmény olyan remek lehet, hogy a használó soha többé nem vet szemet más anarnmentumra, mert a harci tapaszlatok éteri magasságba emelték gyilkoló művészetét.',
@@ -276,7 +276,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Stormsong', pt: 'Canção da Tempestade' },
+    name       : {$$: 'Stormsong' },
     description: {
       en: 'These bows are rare due to the length and method of the forging process; bows must be greatly elevated to ensure that every lightning strike can be used to gradually forge this bow into a Stormsong. The creation process can take ages.',
       hu: 'Efféle íjak ritkák a készítési folyamat hossza miatt; az íjakat a magasba kell emelni, hogy a villámok ereje kovácsolja egybe őket- csak így válhatnak valódi Viharvésszé. A folyamat pedig évekig eltarthat.',
@@ -294,7 +294,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Scarebow', pt: 'Arco Assustador' },
+    name       : {$$: 'Scarebow' },
     description: {
       en: 'This malevolent bow eats the dreams and nightmares of the wielder. This living bow offers no loyalty and demands sacrifices in the form of battle victims.',
       hu: 'Ez a rémületes íj felzabálja a viselő álmait és rémálmait. Az élő íj nem tanusít hűséget, és áldozatot követel, mégpedig halott ellenségek formájában.',
@@ -312,7 +312,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Fury', pt: 'Fúria' },
+    name       : {$$: 'Fury' },
     description: {
       en: 'When a great tragedy befalls an entire civilization, the spirits of enraged victims pour their anger into a weapon to wreak vengeance upon the world. This weapon is only known as "Fury."',
       hu: 'Amikor nagy tragédia zuhan egy világra, a dühödt áldozatok szellemei gyűlöletüket egy fegyverbe gyűjtik, hogy bosszút álljanak a világon. Ezt a fegyvert úgy ismerik: "Fúria".',

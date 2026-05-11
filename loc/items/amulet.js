@@ -1,6 +1,6 @@
 export default [
   {
-    name       : {$$: 'Rotten Talisman', pt: 'Talismã Podre'},
+    name       : {$$: 'Rotten Talisman'},
     description: {
       en: 'Burned ingredients have been twisted and tied together to form an amulet of meager protection. Creating simple amulets like this has been a common survival tactic since ancient times.',
       el: 'Καμμένα συστατικά έχουν δεθεί μαζί για να δημιουργήσουν ένα φυλακτό μικρής προστασίας. Η δημιουργία απλών φυλακτών όπως αυτό έχει υπάρξει μια συνηθισμένη τακτική από τους αρχαίους χρόνους.',
@@ -24,7 +24,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Wolf\'s Collar', pt: 'Coleira de Lobo'},
+    name       : {$$: 'Wolf\'s Collar'},
     description: {
       en: 'Collars to keep wolves in servitude are made from a thick leather. Some of them still have chain links connected, but all wolf collars are sturdy. Some collars are imbued with spiritual protection.',
       el: 'Τα κολλάρα που κρατούν τους λύκους στη δουλεία φτιάχνονται από παχύ δέρμα. Κάποια από αυτά έχουν ακόμη κρίκους, αλλά όλα τα κολλάρα λύκων είναι στιβαρά. Κάποια κολλάρα έχουν εμποτιστεί με πνευματική προστασία.',
@@ -48,7 +48,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Bone Necklace', pt: 'Colar de Osso'},
+    name       : {$$: 'Bone Necklace'},
     description: {
       en: 'This necklace consists of bone fragments from a variety of strong creatures. Each bone necklace varies in protection based on the origin of the bones.',
       el: 'Αυτό το μενταγιόν αποτελείται από κομμάτια κοκκάλων από μια ποικιλία τρομερών τεράτων. Κάθε μενταγιόν διαφέρει στην προστασία ανάλογα με την προέλευση των κοκκάλων.',
@@ -72,7 +72,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Werewolf\'s Claw', pt: 'Garra de Lobisomem'},
+    name       : {$$: 'Werewolf\'s Claw'},
     description: {
       en: 'Fearsome werewolf claws that were left behind on the bodies of victims were anointed with mystic oils and instilled with spiritual fortitude through meditation. The creators of these amulets hoped that these spiritual protections would one day be used for revenge.',
       ru: 'Когти грозного оборотня, оставленные на телах убитых жертв, были пропитаны мистическими маслами и усилены духовной защитой через медитацию. Создатели этих амулетов надеялись, что однажды эти улучшения будут использованы для мести.',
@@ -95,7 +95,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Eagle\'s Talon', pt: 'Garra de Águia'},
+    name       : {$$: 'Eagle\'s Talon'},
     description: {
       en: 'When a talon was found, it was considered a gift from the sacred birds in the mountains. The monks in the mountains used the talons to produce spiritual amulets to protect themselves from invaders during battle.',
       ru: 'Когда был найден этот коготь, его считали даром священных орлов живущих в горах. Монахи живущие на склонах гор использовали такие когти для создания духовных амулетов, чтобы защититься от захватчиков во время битвы.',
@@ -118,7 +118,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Shadow Scarab', pt: 'Escaravelho das Sombras'},
+    name       : {$$: 'Shadow Scarab'},
     description: {
       en: 'Ancient desert people collected special stones and shaped them into scarabs with strange, dark magic. Many important people in that ancient civilization wore these amulets for stature and protection.',
       ru: 'Древние кочевники из пустынь собирали специальные камни и превращали их в скарабеев с сильной, темной магией. Многие важные люди в древней цивилизации носили эти амулеты для защиты и авторитета.',
@@ -140,7 +140,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Mystic Shard', pt: 'Fragmento Místico'},
+    name       : {$$: 'Mystic Shard'},
     description: {
       en: 'Strange shards mined from the mountains were enhanced by mystics and formed into amulets in order to provide protection and cause fear.',
       ru: 'Странные осколки неизвестного материала добытые в горах были заколдованы мистиками и превращены в амулеты, чтобы обеспечить защиту и внушать врагам страх.',
@@ -162,7 +162,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Omega Medallion', pt: 'Medalhão Ômega'},
+    name       : {$$: 'Omega Medallion'},
     description: {
       en: 'Warring theocracies created divine omega symbols as a means for protection. These symbols were used to deter attacks, given as protective gifts, and presented to potential religious followers.',
       ru: 'Воюющие теократисты создали символы омеги на амулетах как средство божественные защиты. Эти символы были использованы для защиты от атак и как священные подарки для потенциальных последователей религии.',
@@ -183,7 +183,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Verstärker', pt: 'Amplificador'},
+    name       : {$$: 'Verstärker'},
     description: {
       en: 'This amulet has a strange set of overlapping discs that taps into natural energies and amplifies the natural protection of the wearer. Many magic users strive to learn the secrets of these amulets so that they can be reproduced.',
       ru: 'Этот амулет имеет странный набор перекрывающихся дисков, которые подключаются к природным энергиям и усиливают естественную защиту владельца. Многие маги стремятся узнать секреты этих амулетов, чтобы их можно было воспроизвести.',
@@ -204,7 +204,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Tempest Carcanet', pt: 'Gargantilha da Tempestade'},
+    name       : {$$: 'Tempest Carcanet'},
     description: {
       en: 'Metal strands weave in and out of each other, producing electric arcs and giving the appearance of a living amulet. Scholars speculate that these amulets came from a realm that disappeared, but no one seems sure.',
       ru: 'Металлические пряди вплетаются друг в друга, создавая электрическую дугу создавая видимость живого амулета. ученые предполагают что эти амулеты пришли из одного из неизвестных миров, которые им еще предстоит раскрыть.',
@@ -225,7 +225,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Ankh', pt: 'Ankh' },
+    name       : {$$: 'Ankh'},
     description: {
       en: 'Ancient kings had powerful ankh symbols made to protect them in the afterlife. Grave robbers have stolen many of these amulets and sold them to both people and monsters. Each ankh has an eerie glow that belies its true power.',
       ru: 'Древние цари имели мощные аньхские символы, созданные для того чтобы защитить их в загробной жизни. Грабители могил украли многие из этих амулетов и продали их как людям, так и монстрам. У каждого анка есть жуткое сияние, которое отражает его истинную силу.',
@@ -246,7 +246,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Yggdrasil Pendant', pt: 'Pingente de Yggdrasil'},
+    name       : {$$: 'Yggdrasil Pendant'},
     // Do NOT translate "World Tree" or "Yggdrasil".
     description: {
       en: 'Twisted pieces of the enormous World Tree, Yggdrasil, were made into amulets of the most sacred kind. Sap seeps out of the amulet and is absorbed by the body for extra protection.',
@@ -268,7 +268,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Dragon\'s Periapt', pt: 'Periato do Dragão'},
+    name       : {$$: 'Dragon\'s Periapt'},
     description: {
       en: 'This amulet contains elder dragon magic that was bestowed upon young dragons; these amulets gave young dragons a better chance of survival into adolescence. Once the young dragons became old and large enough to survive on their own, the chain broke and the amulet was lost.',
       de: 'Dieses Amulett enthält ältere Drachenmagie, die jungen Drachen verliehen wurde; diese Amulette gaben jungen Drachen eine bessere Überlebenschance bis in die Pubertät. Als die jungen Drachen alt und groß genug wurden, um alleine zu überleben, brach die Kette und das Amulett war verloren.',
@@ -289,7 +289,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Lionheart', pt: 'Coração de Leão'},
+    name       : {$$: 'Lionheart'},
     description: {
       en: 'This amulet contains a gem from the crown worn by a famous king. The edges of this amulet are ruthlessly sharp and partially smeared with a mysterious substance.',
       ru: 'Этот амулет содержит драгоценный камень из короны, которую когда-то носил знаменитый король. Края этого амулета безжалостно остры и частично смазаны таинственным веществом.',
@@ -310,7 +310,7 @@ export default [
   },
 
   {
-    name       : {$$: 'Phoenix', pt: 'Fênix'},
+    name       : {$$: 'Phoenix'},
     description: {
       en: 'The center of this amulet of phoenix feathers contains a small amount of ashes from all of the fallen adventurers that have ever owned it. Without exception, every adventurer to use such an amulet has transcended into legend.',
       de: 'Das Zentrum dieses Amuletts aus Phönixfedern enthält eine kleine Menge Asche von allen gefallenen Abenteurern, die es je besessen haben. Ausnahmslos jeder Abenteurer, der ein solches Amulett benutzt, ist zur Legende geworden.',

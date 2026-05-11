@@ -491,7 +491,7 @@ export default {
   roles: [
     { $$: 'Member' },
     { $$: 'Assistant' },
-    { $$: 'Officer', pt: 'Oficial' },
-    { $$: 'Owner', pt: 'Dono' }
+    { $$: 'Officer' },
+    { $$: 'Owner' }
   ]
 }

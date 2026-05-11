@@ -1,6 +1,6 @@
 export default [
   {
-    name: {$$: 'Greedy Grub', pt: 'Larva Gananciosa'},
+    name: {$$: 'Greedy Grub'},
 
     description: {
       en: 'A tiny grub that will loot items for you.',
@@ -16,7 +16,7 @@ export default [
   },
 
   {
-    name: {$$: 'Greedy Goblin', pt: 'Goblim Ganancioso'},
+    name: {$$: 'Greedy Goblin'},
 
     description: {
       en: 'A tiny goblin that will loot items for you.',
@@ -32,98 +32,98 @@ export default [
   },
 
   {
-    name       : { $$: 'Mummy', pt: 'Múmia' },
+    name       : { $$: 'Mummy' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Lump of Coal', pt: 'Pedra de Carvão' },
+    name       : { $$: 'Lump of Coal' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Parrot', pt: 'Papagaio' },
+    name       : { $$: 'Parrot' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Nightshade', pt: 'Beladona' },
+    name       : { $$: 'Nightshade' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Bones', pt: 'Ossos' },
+    name       : { $$: 'Bones' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Puppy', pt: 'Cachorro' },
+    name       : { $$: 'Puppy' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Amberleaves', pt: 'Folhas de Âmbar' },
+    name       : { $$: 'Amberleaves' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Sootpaw', pt: 'Pata de Fuligem' },
+    name       : { $$: 'Sootpaw' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Pinecub', pt: 'Filhote de Pinheiro' },
+    name       : { $$: 'Pinecub' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Gloomwing', pt: 'Asa Sombria' },
+    name       : { $$: 'Gloomwing' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Moonlake Elf', pt: 'Elfo do Lago Lunar' },
+    name       : { $$: 'Moonlake Elf' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Mossmunch', pt: 'Musgo Faminto' },
+    name       : { $$: 'Mossmunch' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Paddle', pt: 'Remo' },
+    name       : { $$: 'Paddle' },
     description: {
       en: ' '
     }
   },
 
   {
-    name       : { $$: 'Bubbles', pt: 'Bolhas' },
+    name       : { $$: 'Bubbles' },
     description: {
       en: ' '
     }

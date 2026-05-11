@@ -299,8 +299,7 @@ export default {
   },
 
   fxaa: {
-    $$: 'FXAA',
-    pt: 'FXAA'
+    $$: 'FXAA'
   },
 
   bloom: {
@@ -828,8 +827,7 @@ export default {
   },
 
   fpsping: {
-    $$: 'FPS / Ping',
-    pt: 'FPS / Ping'
+    $$: 'FPS / Ping'
   },
 
   // Do not translate "FPS / Ping"
