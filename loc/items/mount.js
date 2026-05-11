@@ -61,46 +61,46 @@ export default [
   },
   {
     name       : {$$: 'Ghost'},
-    description: { en: ' '}
+    description: { en: ' ' }
   },
   {
     name       : {$$: 'Keiler'},
-    description: { en: ' '}
+    description: { en: ' ' }
   },
   {
     name       : {$$: 'Mireshell'},
-    description: { en: ' '}
+    description: { en: ' ' }
   },
   {
     name       : {$$: 'Desert Scarab'},
-    description: { en: ' '}
+    description: { en: ' ' }
   },
   {
     name       : {$$: 'Glimworm'},
-    description: { en: ' '}
+    description: { en: ' ' }
   },
   {
     name       : {$$: 'Mudlasher'},
-    description: { en: ' '}
+    description: { en: ' ' }
   },
   {
     name       : {$$: 'Sandpaw'},
-    description: { en: ' '}
+    description: { en: ' ' }
   },
   {
     name       : {$$: 'Oakmane'},
-    description: { en: ' '}
+    description: { en: ' ' }
   },
   {
     name       : {$$: 'Moonhowler'},
-    description: { en: ' '}
+    description: { en: ' ' }
   },
   {
     name       : {$$: 'Silkrunner'},
-    description: { en: ' '}
+    description: { en: ' ' }
   },
   {
     name       : {$$: 'Shimmerbranch'},
-    description: { en: ' '}
+    description: { en: ' ' }
   }
 ]

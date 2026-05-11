@@ -367,31 +367,38 @@ export default {
   activities: [
     {
       en: 'Leveling (PvE)',
-      es: 'Subir de nivel (PvE)'
+      es: 'Subir de nivel (PvE)',
+      pt: 'Subir de nível (PvE)'
     },
     {
       en: 'Farming (PvE)',
-      es: 'Farmeo (PvE)'
+      es: 'Farmeo (PvE)',
+      pt: 'Farming (PvE)'
     },
     {
       en: 'Boss Fight (PvE)',
-      es: 'Pelea contra jefes (PvE)'
+      es: 'Pelea contra jefes (PvE)',
+      pt: 'Luta de Chefes (PvE)'
     },
     {
       en: 'Obelisk (PvP)',
-      es: 'Obelisco (JcJ)'
+      es: 'Obelisco (JcJ)',
+      pt: 'Obelisco (PvP)'
     },
     {
       en: 'Arena (PvP)',
-      es: 'Arena (JcJ)'
+      es: 'Arena (JcJ)',
+      pt: 'Arena (PvP)'
     },
     {
       en: 'War (PvP)',
-      es: 'Guerra (JcJ)'
+      es: 'Guerra (JcJ)',
+      pt: 'Guerra (PvP)'
     },
     {
       en: 'Other',
-      es: 'Otro'
+      es: 'Otro',
+      pt: 'Outro'
     }
   ]
 }
