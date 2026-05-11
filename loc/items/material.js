@@ -122,7 +122,7 @@ export default [
       en: 'Rich meat from a Moose, providing sustenance in harsh climates.',
       fr: 'Une viande d\'Élan savoureuse, offrant une subsistance dans des climats rigoureux.',
       es: 'Carne rica de un Alce, proporcionando sustento en climas duros.',
-      pt: 'Carne saborosa de um Alce, fornecendo subsistência em climas rigorous.'
+      pt: 'Carne saborosa de um Alce, fornecendo subsistência em climas rigorosos.'
     }
   },
   {
@@ -220,7 +220,7 @@ export default [
     description: {
       en: 'A mystical amber, formed over centuries within ancient pines, guarded by Moose.',
       fr: 'Un ambre mystique, formé au fil des siècles au cœur des pins anciens, protégés par les Élans.',
-      es: 'Un ámbar místico, formado durante siglos dentro de pinos antiguos, custocado por Alces.',
+      es: 'Un ámbar místico, formado durante siglos dentro de pinos antiguos, custodiado por Alces.',
       pt: 'Um âmbar místico, formado ao longo dos séculos dentro de pinheiros antigos, protegido por Alces.'
     }
   },
@@ -230,7 +230,7 @@ export default [
       en: 'The heart of a Tarantula, throbbing with dark magic.',
       fr: 'Le cœur d\'une Tarantule, palpitant de magie noire.',
       es: 'El corazón de una Tarántula, latiendo con magia oscura.',
-      pt: 'O coração de uma Tarântula,latejando com magia negra.'
+      pt: 'O coração de uma Tarântula, latejando com magia negra.'
     }
   },
   {
@@ -274,7 +274,7 @@ export default [
     description: {
       en: 'The skull of a Whispermane Wolf, echoing the call of the wild.',
       fr: 'Le crâne d\'un Loup Whispermane, résonnant l\'appel de la nature.',
-      es: 'El cráneo de un Lobo Whispermane, que resuena con el llamado de la natureza.',
+      es: 'El cráneo de un Lobo Whispermane, que resuena con el llamado de la naturaleza.',
       pt: 'O crânio de um Lobo Whispermane, ecoando o chamado da natureza.'
     }
   },

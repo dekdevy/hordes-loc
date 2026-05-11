@@ -53,7 +53,7 @@ export default {
   info: [
     {
       en: 'Spam, offensive language (explicit, LGBTQ-phobic, racist, NSFW, etc.), impersonation, doxing, advertising things that break the TOS. Note that mild banter is allowed. Do not report multiple messages; a single report will suffice.',
-      pt: 'Spam, linguagem offensiva (explícita, LGBTQ-fóbica, racista, NSFW, etc.), personificação, doxing, publicidade de coisas que violam os TOS. Observe que banter leve é permitido. Não reporte múltiplas mensagens; um único relatório será suficiente.'
+      pt: 'Spam, linguagem ofensiva (explícita, LGBTQ-fóbica, racista, NSFW, etc.), personificação, doxing, publicidade de coisas que violam os TOS. Observe que banter leve é permitido. Não reporte múltiplas mensagens; um único relatório será suficiente.'
       // ru: 'Спам, оскорбительные выражения (явные, ЛГБТ-фобические, расистские, NSFW, и др.), олицетворение, доксинг, рекламные вещи, которые нарушают TOS. Допускается легкое подшучивание.
       // Не сообщайте о нескольких сообщениях; одного отчета достаточно.'
       // fr: 'Spam, langage offensant (explicite, LGBTQ-phobe, raciste, NSFW, etc.), usurpation d'identité, doxing, publicité qui enfreint les TOS. Notez que le badinage léger est autorisé.
