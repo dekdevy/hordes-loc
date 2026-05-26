@@ -7,7 +7,8 @@ export default {
     zh: '不需要目標',
     pt: 'Não requer alvo',
     cs: 'Nevyžaduje žádný cíl',
-    es: 'No requiere objetivo'
+    es: 'No requiere objetivo',
+    sr: 'Не захтева мету'
   },
 
   targetSelf: {
@@ -18,7 +19,8 @@ export default {
     zh: '自身施法',
     pt: 'Usa em si proprio',
     cs: 'Použít na sebe',
-    es: 'Auto casteo'
+    es: 'Auto casteo',
+    sr: 'Баца се на себе'
   },
 
   targetFriendly: {
@@ -29,7 +31,8 @@ export default {
     zh: '友方目標',
     pt: 'em Aliados',
     cs: 'na spojence',
-    es: 'sobre los aliados'
+    es: 'sobre los aliados',
+    sr: 'на савезнике'
   },
 
   targetEnemy: {
@@ -40,7 +43,8 @@ export default {
     zh: '敵方目標',
     pt: 'em Inimigos',
     cs: 'na nepřítele',
-    es: 'sobre el enemigo'
+    es: 'sobre el enemigo',
+    sr: 'на непријатеља'
   },
 
   spellMelee: {
@@ -51,7 +55,8 @@ export default {
     zh: '近戰攻擊',
     pt: 'Ataque corpo a corpo',
     cs: 'Útok na blízko',
-    es: 'Ataque cuerpo a cuerpo'
+    es: 'Ataque cuerpo a cuerpo',
+    sr: 'Борба прса у прса'
   },
 
   spellMagic: {
@@ -62,7 +67,8 @@ export default {
     zh: '魔法攻擊',
     pt: 'Ataque mágico',
     cs: 'Magický útok',
-    es: 'Ataque mágico'
+    es: 'Ataque mágico',
+    sr: 'Магијски напад'
   },
 
   spellHeal: {
@@ -73,7 +79,8 @@ export default {
     zh: '治療',
     pt: 'Cura',
     cs: 'Léčit',
-    es: 'Sanar'
+    es: 'Sanar',
+    sr: 'Лечење'
   },
 
   spellBuff: {
@@ -82,7 +89,8 @@ export default {
     ko: '버프',
     zh: '增益',
     cs: 'Buff',
-    es: 'Mejora'
+    es: 'Mejora',
+    sr: 'Побољшање'
   },
 
   spellBuffStack: {
@@ -93,7 +101,8 @@ export default {
     zh: '可堆疊增益',
     pt: 'Buff Acumulativo',
     cs: 'Stackovací buff',
-    es: 'Mejora apilable'
+    es: 'Mejora apilable',
+    sr: 'Сложиво побољшање'
   },
 
   spellMissile: {
@@ -104,7 +113,8 @@ export default {
     zh: '遠距離攻擊',
     pt: 'projétil a distância',
     cs: 'Střela na dálku',
-    es: 'misil a distancia'
+    es: 'misil a distancia',
+    sr: 'Пројектил на даљину'
   },
 
   spellMissileBuff: {
@@ -115,7 +125,8 @@ export default {
     zh: '範圍效果',
     pt: 'Tamanho do efeito',
     cs: 'Vzdálený efekt',
-    es: 'Efecto de rango'
+    es: 'Efecto de rango',
+    sr: 'Ефекат домета'
   },
 
   spellCustom: {
@@ -126,7 +137,8 @@ export default {
     zh: '效果',
     pt: 'Efeito',
     cs: 'Efekt',
-    es: 'Efecto'
+    es: 'Efecto',
+    sr: 'Ефекат'
   },
 
   // eg: For 1 Intelligence gain 0.4 Min Dmg.
@@ -139,7 +151,8 @@ export default {
       zh: '每1點',
       pt: 'Para 1',
       cs: 'Za 1',
-      es: 'Para 1'
+      es: 'Para 1',
+      sr: 'За 1'
     },
     {
       en: 'gain',
@@ -149,7 +162,8 @@ export default {
       zh: '增加',
       pt: 'ganhe',
       cs: 'získat',
-      es: 'ganar'
+      es: 'ganar',
+      sr: 'добијаш'
     },
     {
       en: ' '

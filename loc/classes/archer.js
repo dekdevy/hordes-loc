@@ -45,7 +45,7 @@ export default {
     bn: 'তীরন্দাজরা একটি নির্দিষ্ট লক্ষ্যবস্তুকে আঘাত করে এবং বিপুল পরিমাণ ক্ষতিসাধন করে। একজন ভালো তীরন্দাজ যথেষ্ট দূরত্ব বজায় রেখে শত্রুদের আক্রমণ করে।',
     vi: 'Cung thủ gây sát thương đơn mục tiêu cao và gây sát thương diện rộng. Một cung thủ tốt phải biết giữ khoảng cách và bẳn tỉa kẻ địch từ xa.',
     cs: 'Lučišník dává vysoké poškození na jednoho hráče a AoE poškození v rychlých intervalech. Dobrý lučišník si vždy bude držet odstup a bude střílet nepřátele z povzdálí.',
-    sr: 'Стрелци су изузетно способни да концентришу своју моћ на једну мету и могу да делују на више противника делимично.Добар стрелаље из далека.',
+    sr: 'Стрелци наносе велику штету једној мети и снажну штету по области. Добар стрелац увек држи дистанцу и гађа непријатеље издалека.',
     it: 'Gli Arcieri infliggono un danno elevato ad un singolo bersaglio e un danno esplosivo ad area. Un buon arciere mantiene sempre le distanze e colpisce i nemici da lontano.',
     ja: '射手は単体の敵に対して高火力を発揮し、戦況に爆発的な影響を与えます。上手な射手は常に敵との距離を保ち、遠くから狙い撃ちにします。'
   }

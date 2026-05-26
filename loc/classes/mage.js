@@ -46,7 +46,7 @@ export default {
     bn: 'যাদুকরেরা বড় মাপের এলাকায় ক্ষতিসাধন করতে পারে, একইসাথে তারা তাদের শত্রুদের বরফপূর্ণ যাদু দ্বারা ধীরগতিসম্পন্ন করতে পারে।',
     vi: 'Pháp sư gây sát thương trên một vùng rộng lớn, đồng thời cũng rất hữu dụng thông qua việc gây làm chậm các mục tiêu bằng các phép thuật băng của họ.',
     cs: 'Mágové dávají velké AoE poškození mezitím co nabízí zpomalení nepřátel s jejich ledovou magií.',
-    sr: 'Чаробњаци наносе велику штету у великој мери у свом подручју дејства, и истовремено пружају помоћ успоравањем мете својом магијом мраза.',
+    sr: 'Чаробњаци наносе веома велику штету на широкој области, а истовремено пружају подршку успоравањем мета својом магијом леда.',
     it: 'I Maghi infliggono enormi danni ad area, e assicurano una grande utilità rallentando i bersagli con i loro incantesimi glaciali.',
     ja: '魔術師は広範囲に高火力のダメージを与えるのに優れており、氷の魔法でターゲットの動きを鈍らせ有利に戦う事も出来ます。',
     ar: 'يسبب السحرة ضررًا كبيرا في المنطقة, ويستفيدون ايضا من ابطاء الهدف بسحر الجليد خاصتهم.'

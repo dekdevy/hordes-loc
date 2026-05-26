@@ -17,7 +17,8 @@ export default {
       cs: 'Zatížená mysl je plná názorů; šálek může být užitečný, pokud je nejprve nalezen prázdný. Jak ti mohu být nápomocen na tvé cestě k osvícení?',
       zh: '若多物可擇，其腦重也。杯之所以為杯，空也。在你走向啟蒙的道路上，我該如何幫助你？',
       ko: '여러 가지 재능들로 짓눌린 마음을 가진 자여, 당신의 잔은 비워졌을 때 비로소 쓸모있어질 수 있다네. 그대가 깨달음의 길로 나아가는 데 내가 어떤 도움을 주면 되겠는가?',
-      pt: 'Mentes sobrecarregadas tem opiniões em abundância; um copo pode ser bastante útil se primeiro encontrado vazio. Como posso ajudá-lo em seu caminho para a iluminação?'
+      pt: 'Mentes sobrecarregadas tem opiniões em abundância; um copo pode ser bastante útil se primeiro encontrado vazio. Como posso ajudá-lo em seu caminho para a iluminação?',
+      sr: 'Оптерећени умови пуни су безброј мишљења; чаша може бити веома корисна ако је најпре празна. Како могу да ти помогнем на путу ка просветљењу?'
     },
 
     choices: [{
@@ -38,7 +39,8 @@ export default {
       ja: 'ステータスポイントをリセットして下さい。 ( $g$1 )',
       cs: 'Resetuj moje statistické body ( $g$1 )',
       zh: '重製我的屬性點 ( $g$1 )',
-      ko: '스탯 포인트를 초기화 해주세요 ( $g$1 ).'
+      ko: '스탯 포인트를 초기화 해주세요 ( $g$1 ).',
+    sr: 'Ресетуј моје поене за атрибуте ( $g$1 ).'
     }]
   }]
 }

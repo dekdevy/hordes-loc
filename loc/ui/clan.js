@@ -152,7 +152,8 @@ export default {
     zh: '你沒有公會',
     pt: 'Você não tem um clã',
     es: 'No tienes un clan',
-    cs: 'Nemáš žádný klan'
+    cs: 'Nemáš žádný klan',
+    sr: 'Немаш клан'
   },
 
   viewinvites: {
@@ -163,7 +164,8 @@ export default {
     zh: '查看邀請',
     pt: 'Olhar convites',
     es: 'Ver tus invitaciones',
-    cs: 'Zobrazit pozvánky'
+    cs: 'Zobrazit pozvánky',
+    sr: 'Погледај позивнице'
   },
 
   action: {
@@ -173,7 +175,8 @@ export default {
     zh: '行動',
     pt: 'Ações',
     es: 'Acción',
-    cs: 'Akce'
+    cs: 'Akce',
+    sr: 'Радња'
   },
 
   application:
@@ -185,7 +188,8 @@ export default {
     zh: '申請',
     pt: 'Inscrições',
     es: 'Inscripciones',
-    cs: 'Přihlášky'
+    cs: 'Přihlášky',
+    sr: 'Пријава'
   },
 
   kick: {
@@ -196,7 +200,8 @@ export default {
     zh: '踢掉會員',
     pt: 'Remover membro',
     es: 'Expulsar miembro',
-    cs: 'Vyhodit člena'
+    cs: 'Vyhodit člena',
+    sr: 'Избаци члана'
   },
 
   setrank: {
@@ -207,7 +212,8 @@ export default {
     zh: '設定職位',
     pt: 'Definir rank',
     es: 'Definir rango',
-    cs: 'Nastavit hodnost'
+    cs: 'Nastavit hodnost',
+    sr: 'Постави ранг'
   },
 
   left: {
@@ -218,7 +224,8 @@ export default {
     zh: '離開公會',
     pt: 'Sair do clã',
     es: 'Abandonó el clan',
-    cs: 'Opustit klan'
+    cs: 'Opustit klan',
+    sr: 'Напустио је клан'
   },
 
   memberkicked: {
@@ -229,7 +236,8 @@ export default {
     zh: '已剔除會員',
     pt: 'Membro removido',
     es: 'Miembro expulsado',
-    cs: 'Člen vyhozen'
+    cs: 'Člen vyhozen',
+    sr: 'Члан је избачен'
   },
 
   applied: {
@@ -240,7 +248,8 @@ export default {
     zh: '已申請公會',
     pt: 'Aplicar ao clã',
     es: 'Aplicaste al clan',
-    cs: 'Byl jsi přijat do klanu'
+    cs: 'Byl jsi přijat do klanu',
+    sr: 'Пријавио си се у клан'
   },
 
   // en: PlayerName invited
@@ -258,6 +267,7 @@ export default {
       zh: ' 已邀請',
       pt: ' Convidado',
       es: ' Invitado',
+      sr: ' је позван',
       cs: ' byl pozván'
     }
   ],

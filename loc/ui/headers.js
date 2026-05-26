@@ -7,7 +7,8 @@ export default {
     zh: '人物',
     pt: 'Personagem',
     cs: 'Charakter',
-    es: 'Personaje'
+    es: 'Personaje',
+    sr: 'Лик'
   },
 
   skills: {
@@ -18,13 +19,15 @@ export default {
     zh: '技能',
     pt: 'Habilidades',
     cs: 'Dovednosti',
-    es: 'Habilidades'
+    es: 'Habilidades',
+    sr: 'Вештине'
   },
 
   pvp: {
     en: 'PvP',
     es: 'PVP / JcJ',
-    pt: 'PvP'
+    pt: 'PvP',
+    sr: 'PvP'
   },
 
   interaction: {
@@ -33,7 +36,8 @@ export default {
     zh: '對話',
     pt: 'Interação',
     cs: 'Interakce',
-    es: 'Interacción'
+    es: 'Interacción',
+    sr: 'Интеракција'
   },
 
   request: {
@@ -44,7 +48,8 @@ export default {
     zh: '需求',
     pt: 'Solicitar',
     cs: 'Žádost',
-    es: 'Pedido'
+    es: 'Pedido',
+    sr: 'Захтев'
   },
 
   warstats: {
@@ -55,7 +60,8 @@ export default {
     zh: '戰爭數據',
     pt: 'Estatísticas de Guerra',
     cs: 'Válečné statistiky',
-    es: 'Estadísticas de guerra'
+    es: 'Estadísticas de guerra',
+    sr: 'Ратна статистика'
   },
 
   dpsMeter: {
@@ -64,7 +70,8 @@ export default {
     zh: 'DPS 表',
     pt: 'Medidor DPS',
     cs: 'DPS Meter',
-    es: 'Medidor de DPS'
+    es: 'Medidor de DPS',
+    sr: 'DPS мерач'
   },
 
   fullscreen: {
@@ -75,7 +82,8 @@ export default {
     zh: '全螢幕',
     pt: 'Tela cheia',
     cs: 'Celá obrazovka',
-    es: 'Pantalla completa'
+    es: 'Pantalla completa',
+    sr: 'Цео екран'
   },
 
   menuReturn: {
@@ -86,6 +94,7 @@ export default {
     zh: '返回主頁',
     pt: 'Voltar ao Menu',
     cs: 'Zpět do Menu',
-    es: 'Volver al menú'
+    es: 'Volver al menú',
+    sr: 'Назад у мени'
   }
 }
