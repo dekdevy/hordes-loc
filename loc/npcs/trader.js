@@ -21,7 +21,7 @@ export default {
       tr: 'En iyi ürünlere hoş geldiniz! Size verdiğim fiyattan daha iyi bir fiyat bulamayacaksınız; ancak, şimdiye kadar gördüğüm hiçbir şeye benzemeyen harika eşyalara sahip özel bir dükkan olduğunu duydum. Bu arada, biraz fazladan param ve fazladan ürünlerim var. Herhangi bir şey satmak ister misin?',
       ja: '最高の商店へようこそ！ここら一帯で私に勝る商店は御座いません、是非ともご贔屓下さい。ですが、前代未聞の素晴らしい商品を販売しているスゴい店が何処かに在るとか無いとか。お客様がそちらに流れていってしまうまでの間は、こちらで承りましょう。何か売り物はございますか？',
       cs: 'Vítej u nejlepšího obchodníka v okolí! Nenajdeš lepší nikde ceny než to, co pro tebe mám já; Slyšel jsem však, že existuje speciální obchod s fantastickými předměty, na rozdíl od všeho, co jsem kdy viděl. Mezitím mám nějaké mince a zboží zboží navíc. Chceš něco prodat?',
-    sr: 'Добро дошао код најбоље робе у околини! Нећеш наћи бољу понуду од ове коју имам за тебе; ипак, чујем да постоји посебна продавница са фантастичним предметима какве никада нисам видео. У међувремену, имам нешто вишка новчића и робе. Желиш ли нешто да продаш?'
+      sr: 'Добро дошао код најбоље робе у околини! Нећеш наћи бољу понуду од ове коју имам за тебе; ипак, чујем да постоји посебна продавница са фантастичним предметима какве никада нисам видео. У међувремену, имам нешто вишка новчића и робе. Желиш ли нешто да продаш?'
     },
 
     choices: [{
