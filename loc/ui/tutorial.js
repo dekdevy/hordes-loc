@@ -209,7 +209,7 @@ export default {
       fr: 'Sélectionne sur un groupe de ton niveau. Appuie ensuite sur <kbd>Postuler</kbd>.',
       es: 'Haz clic en un grupo de niveles para tu nivel. Luego, pulsa "Aplicar".',
       pt: 'Clique em um grupo de level para o seu nível. Depois pressione <kbd>Aplicar</kbd>.',
-      sr: 'Кликни на групу за напредовање која одговара твом нивоу. Затим притисни <kbd>Apply</kbd>.'
+      sr: 'Кликни на групу за напредовање која одговара твом нивоу. Затим притисни <kbd>Примени</kbd>.'
     },
     { //  _TUT_PARTYINFO
       en: 'A shaman will summon you soon. Alternatively, press <kbd>M</kbd> to open the map and see where you need to go.',
