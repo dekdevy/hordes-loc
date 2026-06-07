@@ -15,7 +15,8 @@ export default {
     zh: '聊天室支持者圖案',
     pt: 'Ícone de apoiador',
     cs: 'Chat supporter icon',
-    es: 'Icono de soporte de chat'
+    es: 'Icono de soporte de chat',
+    sr: 'Иконица подржаваоца у чету'
   },
 
   noads: {
@@ -26,7 +27,8 @@ export default {
     zh: '沒有廣告',
     pt: 'Sem anúncios',
     cs: 'Žádné reklamy',
-    es: 'Sin anuncios'
+    es: 'Sin anuncios',
+    sr: 'Без реклама'
   },
 
   // i.e. 25 base bag slots
@@ -38,7 +40,8 @@ export default {
     zh: '基礎背包容量',
     pt: 'Espaços na Bag',
     cs: 'slotů v bagu',
-    es: 'ranuras para bolsas de base'
+    es: 'ranuras para bolsas de base',
+    sr: 'основни слотови торбе'
   },
 
   // i.e. 100 stash storage
@@ -50,7 +53,8 @@ export default {
     zh: '倉庫空間',
     pt: 'Espaços no Stash',
     cs: 'úložného prostoru',
-    es: 'almacenamiento de alijo'
+    es: 'almacenamiento de alijo',
+    sr: 'простор у Stash-у'
   },
 
   // i.e. 100 merchant limit
@@ -62,7 +66,8 @@ export default {
     zh: '拍賣上限',
     pt: 'Limite de anuncios no Merchant',
     cs: 'limit obchodníka',
-    es: 'límite comercial'
+    es: 'límite comercial',
+    sr: 'лимит Merchant-а'
   },
 
   // i.e. 24h merchant duration
@@ -74,7 +79,8 @@ export default {
     zh: '拍賣時間',
     pt: 'Duração dos anuncios no Merchant',
     cs: 'doba obchodníka',
-    es: 'duración del comerciante'
+    es: 'duración del comerciante',
+    sr: 'трајање Merchant понуде'
   },
 
   tba: {
@@ -85,7 +91,8 @@ export default {
     zh: '+ 未來更多(待定)',
     pt: '+ mais por vir (TBA)',
     cs: '+ více brzy (TBA)',
-    es: '+ más por venir (TBA)'
+    es: '+ más por venir (TBA)',
+    sr: '+ још тога долази (TBA)'
   },
 
   // Do not translate "Hordes"
@@ -97,7 +104,8 @@ export default {
     zh: '以便宜的價格支持 Hordes。解鎖更多的背包容量，在倉庫儲存更多的物品，更加實用的拍賣功能，以及更多的特權(待定)。',
     pt: 'Apoie o desenvolvimento de Hordes por um preço baixo. Desbloqueie espaços adicionais na Bag, armazene mais itens em seu Stash, use recursos aprimorados do Marchant e muito mais vantagens (TBA).',
     cs: 'Podpořte vývoj Hordes za nízkou cenu. Odemkněte si tak další sloty v bagu, uložte více položek do truhly, využijte vylepšené obchodní funkce a mnoho dalších výhod (TBA).',
-    es: 'Apoya el desarrollo de Hordas por poco dinero. Desbloquea ranuras adicionales para bolsas, almacena más objetos en tu alijo, aprovecha las funciones mejoradas del comerciante y muchas más ventajas (por confirmar).'
+    es: 'Apoya el desarrollo de Hordas por poco dinero. Desbloquea ranuras adicionales para bolsas, almacena más objetos en tu alijo, aprovecha las funciones mejoradas del comerciante y muchas más ventajas (por confirmar).',
+    sr: 'Подржи развој Hordes-а по ниској цени. Откључај додатне слотове торбе, складишти више предмета у свом Stash-у, користи побољшане Merchant могућности и још много погодности (TBA).'
   },
 
   pointserror: {
@@ -108,7 +116,8 @@ export default {
     zh: '你沒有足夠的點數來執行此操作',
     pt: 'Você não tem Hordes Points suficientes para fazer isso.',
     cs: 'Nemáte dostatek Hordes bodů',
-    es: 'No tienes suficientes puntos de hordas para hacer esto.'
+    es: 'No tienes suficientes puntos de hordas para hacer esto.',
+    sr: 'Немаш довољно Hordes Points-а за ово.'
   },
 
   // As in "Buy Hordes Points"
@@ -120,7 +129,8 @@ export default {
     zh: '購買',
     pt: 'Comprar',
     cs: 'Koupit',
-    es: 'Comprar'
+    es: 'Comprar',
+    sr: 'Купи'
   },
 
   notactive: {
@@ -131,7 +141,8 @@ export default {
     zh: '未啟用',
     pt: 'Não Ativo',
     cs: 'Není aktivní',
-    es: 'No activo'
+    es: 'No activo',
+    sr: 'Није активно'
   },
 
   //---------------------------------------------------------------------------------------------
@@ -146,7 +157,8 @@ export default {
     zh: '你想贈送',
     pt: 'Você gostaria de presentear ',
     cs: 'Chtěli by jste darovat',
-    es: '¿Te gustaría regalar? '
+    es: '¿Te gustaría regalar? ',
+    sr: 'Да ли желиш да поклониш '
   },
 
   willadd: {
@@ -157,7 +169,8 @@ export default {
     zh: '你想給予自己',
     pt: 'Você gostaria de se presentear ',
     cs: 'Chtěl by jsi si dát',
-    es: '¿Te gustaría regalarte? '
+    es: '¿Te gustaría regalarte? ',
+    sr: 'Да ли желиш да себи додаш '
   },
 
   subduration: [
@@ -169,7 +182,8 @@ export default {
       zh: '1年的',
       pt: 'um ano de ',
       cs: 'jeden rok',
-      es: 'un año de '
+      es: 'un año de ',
+      sr: 'годину дана '
     },
     {
       en: 'one month of ',
@@ -179,7 +193,8 @@ export default {
       zh: '1個月的',
       pt: 'um mês de ',
       cs: 'měsíc',
-      es: 'un mes de '
+      es: 'un mes de ',
+      sr: 'месец дана '
     }
   ],
 
@@ -191,7 +206,8 @@ export default {
     zh: '這將花費',
     pt: 'Vai custar ',
     cs: 'Bude to stát',
-    es: 'Esto costará '
+    es: 'Esto costará ',
+    sr: 'Ово ће коштати '
   },
   //---------------------------------------------------------------------------------------------
 
@@ -203,7 +219,8 @@ export default {
     zh: '贈送禮物',
     pt: 'Enviar Presente',
     cs: 'Poslat dárek',
-    es: 'Enviar regalo'
+    es: 'Enviar regalo',
+    sr: 'Пошаљи поклон'
   },
 
   // e.g. Enables Elixir until Jan 29, 2024 13:00. Do not translate "Elixir"
@@ -215,7 +232,8 @@ export default {
     zh: '啟用 Elixir 直到',
     pt: 'Elixir ativo até',
     cs: 'Povolit Elixir do',
-    es: 'Habilita elixir hasta'
+    es: 'Habilita elixir hasta',
+    sr: 'Омогућава Elixir до'
   },
 
   // Do not translate "Elixir"
@@ -227,7 +245,8 @@ export default {
     zh: '贈送 Elixir 禮物',
     pt: 'Enviar Elixir de presente',
     cs: 'Odeslat Elixir jako dárek',
-    es: 'Enviar regalo de elixir'
+    es: 'Enviar regalo de elixir',
+    sr: 'Пошаљи Elixir поклон'
   },
 
   // Do not translate "Elixir"
@@ -239,7 +258,8 @@ export default {
     zh: '延長 Elixir',
     pt: 'Prolongar seu Elixir',
     cs: 'Prodloužit Elixir',
-    es: 'Extender elixir'
+    es: 'Extender elixir',
+    sr: 'Продужи Elixir'
   },
 
   // Do not translate "Elixir"
@@ -251,7 +271,8 @@ export default {
     zh: '啟用 Elixir',
     pt: 'Ativar Elixir',
     cs: 'Aktivovat Elixir',
-    es: 'Activar elixir'
+    es: 'Activar elixir',
+    sr: 'Активирај Elixir'
   },
 
   // Do not translate "Elixir"

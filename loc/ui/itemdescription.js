@@ -7,7 +7,8 @@ export default {
     zh: '按住 Shift 比對物品',
     pt: 'Pressione Shift para comparar o item.',
     cs: 'Stiskněte Shift pro porovnání položky',
-    es: 'Presione Shift para comparar items.'
+    es: 'Presione Shift para comparar items.',
+    sr: 'Притисни Shift да упоредиш предмет.'
   },
 
   onuse: {
@@ -18,7 +19,8 @@ export default {
     zh: '使用時',
     pt: 'em uso.',
     cs: 'při používání',
-    es: 'en uso.'
+    es: 'en uso.',
+    sr: 'при употреби.'
   },
 
   onpurchase: {
@@ -29,7 +31,8 @@ export default {
     zh: '購買時',
     pt: 'na compra',
     cs: 'při nákupu',
-    es: 'en la compra.'
+    es: 'en la compra.',
+    sr: 'при куповини.'
   },
 
   onsale: {
@@ -40,7 +43,8 @@ export default {
     zh: '拍賣後',
     pt: 'na venda do Merchant.',
     cs: 'v obchodním prodeji',
-    es: 'en venta al comerciante.'
+    es: 'en venta al comerciante.',
+    sr: 'при продаји код Merchant-а.'
   },
 
   equipeffect: {
@@ -51,6 +55,7 @@ export default {
     zh: '裝備這個物品會有這些效果',
     pt: 'Equipar este item dará esses efeitos',
     cs: 'Vybavení tohoto předmětu bude mít tyto účinky',
-    es: 'Equipar este objeto tendrá estos efectos'
+    es: 'Equipar este objeto tendrá estos efectos',
+    sr: 'Опремање овог предмета имаће следеће ефекте'
   }
 }
