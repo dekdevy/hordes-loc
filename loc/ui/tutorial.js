@@ -200,28 +200,28 @@ export default {
     { // _TUT_PARTYBUTTON
       en: 'Hordes is all about working in a party with other players. Click on <kbd>No Party</kbd> or press <kbd>P</kbd> to open the party finder.',
       fr: 'Hordes consiste avant tout à travailler en équipe avec d\'autres joueurs. Clique sur <kbd>Aucune Party</kbd> ou appuie sur <kbd>P</kbd> pour ouvrir l\'interface de recherche de groupe.',
-      es: 'Hordas se trata de trabajar en grupo con otros jugadores. Haz clic en <kbd>Sin grupo</kbd> o pulsa <kbd>P</kbd> para abrir el buscador de grupos.',
+      es: 'Hordes se centra en jugar en party. Haz clic en <kbd>Sin Party</kbd> o presiona <kbd>P</kbd> para abrir el buscador de party.',
       pt: 'Hordes é tudo sobre trabalhar em party com outros jogadores. Clique em <kbd>Sem Party</kbd> ou pressione <kbd>P</kbd> para abrir o localizador de party.',
       sr: 'Hordes се у великој мери ослања на играње у Party-ју са другим играчима. Кликни на <kbd>No Party</kbd> или притисни <kbd>P</kbd> да отвориш претрагу Party-ја.'
     },
     { // _TUT_PARTYBUTTON2
       en: 'Click a leveling group for your level. Then press <kbd>Apply</kbd>.',
       fr: 'Sélectionne sur un groupe de ton niveau. Appuie ensuite sur <kbd>Postuler</kbd>.',
-      es: 'Haz clic en un grupo de niveles para tu nivel. Luego, pulsa "Aplicar".',
+      es: 'Haz clic en un grupo para subir de nivel. Luego presiona <kbd>Aplicar</kbd>.',
       pt: 'Clique em um grupo de level para o seu nível. Depois pressione <kbd>Aplicar</kbd>.',
       sr: 'Кликни на групу за напредовање која одговара твом нивоу. Затим притисни <kbd>Примени</kbd>.'
     },
     { //  _TUT_PARTYINFO
       en: 'A shaman will summon you soon. Alternatively, press <kbd>M</kbd> to open the map and see where you need to go.',
       fr: 'Un chaman devrait bientôt te téléporter. Sinon, appuie sur <kbd>M</kbd> pour ouvrir la carte et voir où tu dois aller.',
-      es: 'Un chamán te invocará pronto. También puedes pulsar <kbd>M</kbd> para abrir el mapa y ver adónde debes ir.',
+      es: 'Un chamán te invocará pronto. Como alternativa, presiona <kbd>M</kbd> para abrir el mapa y ver dónde ir.',
       pt: 'Um xamã invocará você em breve. Alternativamente, pressione <kbd>M</kbd> para abrir o mapa e ver para onde você precisa ir.',
       sr: 'Шаман ће те ускоро призвати. Можеш и да притиснеш <kbd>M</kbd> да отвориш мапу и видиш где треба да идеш.'
     },
     { // _TUT_PARTYINFO2
       en: 'Congratulations on reaching level 9! You can soon join the next party via the party finder. <kbd>P</kbd>',
       fr: 'Félicitations pour avoir atteint le niveau 9! Tu devrais bientôt pouvoir rejoindre le prochain groupe via l\'interface de recherche de groupe. <kbd>P</kbd>',
-      es: '¡Felicidades por alcanzar el nivel 9! Pronto podrás unirte al siguiente grupo a través del buscador de grupos. <kbd>P</kbd>',
+      es: '¡Felicitaciones por alcanzar el nivel 9! Podrás unirte pronto a la próxima party a través del buscador de party. <kbd>P</kbd>',
       pt: 'Parabéns por alcançar o nível 9! Em breve você pode juntar-se à próxima party através do localizador de party. <kbd>P</kbd>',
       sr: 'Честитамо на достизању нивоа 9! Ускоро можеш да се придружиш следећем Party-ју преко Party претраге. <kbd>P</kbd>'
     },
@@ -263,14 +263,14 @@ export default {
     { // _TUT_CHAT
       en: 'Tip: You can press <kbd>Enter</kbd> to chat. You can use <kbd>/party</kbd>, <kbd>/faction</kbd> and <kbd>/clan</kbd>. channels.',
       fr: 'Astuce: Tu peux appuyer sur <kbd>Entrée</kbd> pour parler dans le chat. Tu peux utiliser les canaux de discussion <kbd>/party</kbd>, <kbd>/faction</kbd> et <kbd>/clan</kbd>.',
-      es: 'Consejo: Puedes pulsar <kbd>Intro</kbd> para chatear. Puedes usar los canales <kbd>/grupo</kbd>, <kbd>/facción</kbd> y <kbd>/clan</kbd>.',
+      es: 'Consejo: puedes presionar <kbd>Enter</kbd> para chatear. Puedes usar los canales <kbd>/party</kbd>, <kbd>/faction</kbd> y <kbd>/clan</kbd>.',
       pt: 'Dica: Você pode pressionar <kbd>Enter</kbd> para conversar. Você pode usar os canais <kbd>/party</kbd>, <kbd>/faction</kbd> e <kbd>/clan</kbd>.',
       sr: 'Савет: Притисни <kbd>Enter</kbd> да пишеш у чету. Можеш да користиш канале <kbd>/party</kbd>, <kbd>/faction</kbd> и <kbd>/clan</kbd>.'
     },
     { // _TUT_PVP1
       en: 'Tip: Players of the other faction can be killed to earn fame and items (such as the crown) for your character.',
       fr: 'Astuce: Les joueurs de l\'autre faction peuvent être tués pour gagner de la réputation et des objets (tel que la couronne) pour ton personnage.',
-      es: 'Consejo: Los jugadores de la otra facción pueden morir para ganar fama y objetos (como la corona) para tu personaje.',
+      es: 'Consejo: derrota a jugadores de la otra facción para obtener fama y objetos para tu personaje, como la corona.',
       pt: 'Dica: Jogadores da outra facção podem ser mortos para ganhar fama e itens (como a coroa) para o seu personagem.',
       sr: 'Савет: Играчe друге фракције можеш да убијаш да зарадиш славу и предмете (као што је круна) за свог лика.'
     },
