@@ -179,14 +179,14 @@ export default {
     { // _TUT_APPLYSKILLS
       en: 'Now press "Apply" to activate your new skill set.',
       fr: 'Maintenant appuie sur "Appliquer" pour activer ton nouveau set de compétences.',
-      es: 'Ahora presione "Aplicar" para activar su nuevo conjunto de habilidades.',
+      es: 'Ahora presiona "Aplicar" para activar tu nuevo conjunto de habilidades.',
       pt: 'Agora pressione "Aplicar" para ativar sua nova configuração de habilidades.',
       sr: 'Сада притисни "Примени" да активираш нови распоред вештина.'
     },
     { // _TUT_CLICKANDDRAGSKILL2
       en: 'You can click and drag a skill into your skillbar.',
       fr: 'Tu peux cliquer et faire glisser une compétence dans ta barre de compétences.',
-      es: 'Puedes hacer clic y arrastrar una habilidade a tu barra de habilidades.',
+      es: 'Puedes hacer clic y arrastrar una habilidad a tu barra de habilidades.',
       pt: 'Você pode clicar e arrastar uma habilidade para sua barra de habilidades.',
       sr: 'Можеш да кликнеш и превучеш вештину у свој skillbar.'
     },
@@ -228,7 +228,7 @@ export default {
     { // _TUT_REMAINDER_TO_STATUP
       en: 'As you level up, you will gain additional skill points and stat points. Remember to level up your skills <kbd>K</kbd>, and allocate the stat points <kbd>C</kbd>.',
       fr: 'À mesure que tu montes de niveau, tu gagneras des points de compétence et des points de stat supplémentaires. N\'oublie pas de monter le niveau de tes compétences <kbd>K</kbd>, et d\'attribuer tes points de stat.',
-      es: 'A medida que subas de nivel, ganarás puntos de habilidad y de estadísticas adicionales. Recuerda subir de nivel tus habilidades a <kbd>K</kbd> y asignar los puntos de estadísticas a <kbd>C</kbd>.',
+      es: 'Mientras subes de nivel, ganarás puntos de habilidad y puntos de estadísticas adicionales. Recuerda subir de nivel tus habilidades <kbd>K</kbd> y distribuir los puntos de estadísticas <kbd>C</kbd>.',
       pt: 'À medida que você sobe de nível, você ganhará pontos de habilidade e pontos de atributo adicionais. Lembre-se de subir o nível das suas habilidades <kbd>K</kbd> e alocar os pontos de atributo <kbd>C</kbd>.',
       sr: 'Како напредујеш по нивоима, добијаћеш додатне поене вештина и атрибута. Не заборави да унапређујеш вештине <kbd>K</kbd> и распоређујеш поене атрибута <kbd>C</kbd>.'
     },
@@ -277,7 +277,7 @@ export default {
     { // _TUT_PVP2
       en: 'Tip: Partying will also allow you to share fame points in PVP combat.',
       fr: 'Astuce: Faire partie d\'un groupe te permettra également de partager les points de réputation en combat JcJ.',
-      es: 'Consejo: Los grupos también te permitirán compartir puntos de fama en el combate JcJ.',
+      es: 'Consejo: estar en party también te permitirá compartir puntos de fama en combate PvP.',
       pt: 'Dica: Estar em party também permitirá que você compartilhe pontos de fama em combate PVP.',
       sr: 'Савет: Играње у Party-ју омогућиће ти и дељење поена славе у PvP борби.'
     },
@@ -291,7 +291,7 @@ export default {
     { // _TUT_HELLSPAWN
       en: 'Tip: When monsters in Hordes are killed quickly they will "Hellspawn" with more health and drop more loot. This allows parties to farm together for resources.',
       fr: 'Astuce: Dans Hordes, lorsque les monstres sont tués rapidement ils entrent dans un état dit de "Hellspawn" dans lequel ils réaparaissent avec plus de santé et laissent tomber plus de butin. Ce mécanisme permet aux groupes de farmer ensemble pour obtenir des ressources.',
-      es: 'Consejo: Cuando los monstruos de las Hordas mueren rápidamente, se "engendran infernales" con más salud y sueltan más botín. Esto permite a los grupos farmear recursos juntos.',
+      es: 'Consejo: cuando matas rápidamente a los monstruos en Hordes, se convertirán en "Hellspawn" con más puntos de vida y más loot. Esto permite farmear recursos en party.',
       pt: 'Dica: Quando os monstros em Hordes são mortos rapidamente, eles "Hellspawn" com mais vida e dropam mais loot. Isso permite que parties farmem juntos por recursos.',
       sr: 'Савет: Када се чудовишта у Hordes-у убијају брзо, она "Hellspawn"-ују са више живота и испуштају више плена. То омогућава Party-јима да заједно фармају ресурсе.'
     },
@@ -317,19 +317,19 @@ export default {
     { // _TUT_GLOOMFURY
       en: 'Tip: After the Obelisk event, Gloomfury spawns in the center of Faivel. He is a powerful boss and drops loot based on your personal performance.',
       fr: 'Astuce: Après l\'événement de l\'Obélisque, Gloomfury apparaît au centre de Faivel. Gloomfury est un boss puissant qui laisse tomber, à sa mort, du butin en fonction de ta performance personnelle.',
-      es: 'Consejo: Después del evento del Obelisco, Furia Oscura aparece en el centro de Faivel. Es un jefe poderoso y otorga botín según tu rendimiento.',
+      es: 'Consejo: después del evento Obelisk, Gloomfury aparece en el centro de Faivel. Es un poderoso jefe y suelta loot según tu rendimiento personal.',
       pt: 'Dica: Após o evento do Obelisco, Gloomfury aparece no centro de Faivel. Ele é um chefe poderoso e dropa loot baseado na sua performance pessoal.'
     },
     { // _TUT_ENDGAME
       en: 'Tip: Hordes Endgame Events happen in a 3 hour loop. One hour of Obelisk PvP, one hour of Gloomfury, and one hour pause.',
       fr: 'Astuce: Les événements de fin de jeu dans Hordes se déroulement en boucle toutes les 3 heures. Une heure d\'Obélisque JcJ, une heure de Gloomfury, et une heure de pause.',
-      es: 'Consejo: Los eventos de final de partida de Hordas ocurren en un bucle de 3 horas: una hora de JcJ de Obelisco, una hora de Furia Oscura y una hora de pausa.',
+      es: 'Consejo: los eventos de endgame de Hordes se repiten en un ciclo de 3 horas: una hora de PvP en Obelisk, una hora de Gloomfury y una hora de pausa.',
       pt: 'Dica: Os eventos de endgame de Hordes ocorrem em um loop de 3 horas. Uma hora de Obelisk PvP, uma hora de Gloomfury e uma hora de pausa.'
     },
     { // _TUT_RAREMOBS
       en: 'Tip: Did you know that rare mounts exist in Hordes? You can find them when they (rarely) spawn throughout the world.',
       fr: 'Astuce: Savais-tu qu\'il existait des montures rares dans Hordes ? Tu peux les trouver lorsqu\'elles apparaissent (rarement) à travers le monde.',
-      es: 'Consejo: ¿Sabías que existen monturas raras en Hordas? Puedes encontrarlas cuando aparecen (rara vez) por todo el mundo.',
+      es: 'Consejo: ¿Sabías que existen monturas raras en Hordes? Puedes encontrarlas cuando aparecen por el mundo... aunque rara vez lo hacen.',
       pt: 'Dica: Você sabia que existem montarias raras em Hordes? Você pode encontrá-las quando elas (raramente) aparecem pelo mundo.'
     },
     { // _TUT_MAXLEVEL
