@@ -6,7 +6,7 @@ export default {
       el: 'Η αναβάθμιση είναι επικίνδυνη χωρίς ειδικά αντικείμενα όπως το Blacksmith\'s Blessed Hammer, το οποίο μπορεί να εμποδίσει τα αντικείμενα να σπάσουν κατα την αναβάθμιση. Χωρίς το Hammer, θα πρέπει να πάρουμε ένα ρίσκο. Οπότε, έχεις κάτι σήμερα που μπορώ να σου αναβαθμίσω;',
       ru: 'Стараться улучшить предметы без специальных инструментов как Blacksmith\'s Blessed Hammer рискованно. Такой молот может предотвратить поломку во время улучшения предметов. Без молота, мы будем рисковать вашими деньгами и предметами. Ну, есть у вас что-то что вы хотите улучшить?',
       fr: 'Améliorer vos objets est risqué sans l\'aide d\'un autre objet spécial, tel que le Blacksmith\'s Blessed Hammer, qui les empêche de briser durant leur amélioration. Sans ce marteau, nous prenons un risque. Bon, avez-vous quelque chose que je pourrais améliorer pour vous aujourd\'hui?',
-      es: 'Es peligroso mejorar sin algunos objetos especiales como un Blacksmith\'s Blessed Hammer, el cual impide que se rompan los objetos durante la mejora. Sin el martillo, habrá riesgos. Entonces, ¿Tienes algo que pueda mejorar?',
+      es: 'Mejorar un ítem es riesgoso sin ítems especiales adicionales como el Blacksmith\'s Blessed Hammer, que puede prevenir que los ítems se rompan al mejorarlos. Sin el martillo, estaríamos corriendo un riesgo. Entonces, ¿seguro tienes algo que pueda mejorarte hoy?',
       ko: 'Blacksmith\'s Blessed Hammer 과 같은 추가 항목이 없어도 업그레이드가 위험하므로 업그레이드하는 동안 항목이 손상되는 것을 방지 할 수 있습니다. 망치가 없으면 우리는 위험을 감수 할 것입니다. 내가 확실히 당신을 위해 향상시킬 수있는 것이 있습니까?',
       nl: 'Upgraden is riskant zonder extra speciale items zoals een Blacksmith\'s Blessed Hammer, die kunnen voorkomen dat items tijdens upgrades breken. Zonder de hamer nemen we een risico. Dus, je hebt zeker iets dat ik voor je kan verbeteren?',
       de: 'Ein Upgrade ist riskant ohne zusätzliche Spezialgegenstände wie den Blacksmith\'s Blessed Hammer, der verhindern kann, dass Gegenstände während des Upgrades brechen. Ohne den Hammer gehen wir ein Risiko ein. Also, sicher hast du etwas, dass ich für dich verbessern kann?',
@@ -20,13 +20,14 @@ export default {
       vi: 'Nâng cấp vật phẩm luôn có sự rủi ro nếu không có vật phẩm đặc biệt như Blacksmith\'s Blessed Hammer, có thể ngăn các vật phẩm bị hủy trong quá trình nâng cấp. Không có búa, chúng ta sẽ mạo hiểm. Vì vậy, chắc chắn bạn có một cái gì đó mà tôi có thể nâng cấp cho bạn ngày hôm nay.',
       it: 'L\'aggiornamento è rischioso senza ulteriori oggetti speciali come un Blacksmith\'s Blessed Hammer, che può impedire agli oggetti di rompersi durante gli aggiornamenti. Senza il martello, correremo un rischio. Quindi sicuramente hai qualcosa che posso aggiornare per te oggi?',
       ja: '俺のBlacksmith\'s Blessed Hammerは、アップグレード中に装備がブッ壊れるのを防ぐことが出来る。このような特別なアイテム無しでアップグレードする事は非常に危なっかしいんだ。さて、今日はどの装備をアップグレードするんだ？',
-      cs: 'Vylepšování je riskantní bez speciálních předmětu jako je Blacksmith\'s Blessed Hammer, který zabrání rozbití předmětů během vylepšení. Bez Kladiva, to bude riskantní. Určitě tady máš dnes něco co ti mohu vylepšit?'
+      cs: 'Vylepšování je riskantní bez speciálních předmětu jako je Blacksmith\'s Blessed Hammer, který zabrání rozbití předmětů během vylepšení. Bez Kladiva, to bude riskantní. Určitě tady máš dnes něco co ti mohu vylepšit?',
+      sr: 'Надоградња је ризична без додатних посебних предмета као што је Blacksmith\'s Blessed Hammer, који може да спречи ломљење предмета током надоградње. Без чекића преузимамо ризик. Дакле, сигурно имаш нешто што данас могу да ти надоградим?'
     },
 
     choices: [{
       en: 'Yes, I have some items.',
       el: 'Ναι, έχω κάποια αντικείμενα.',
-      es: 'Sí, tengo algunos objetos.',
+      es: 'Sí, tengo algunos ítems.',
       ru: 'Да, у меня есть кое-какие предметы.',
       de: 'Ja, ich habe ein paar Items.',
       fr: 'Oui, j\'ai quelques objets.',
@@ -42,7 +43,8 @@ export default {
       vi: 'Đúng vậy, tôi có vài vật phẩm',
       it: 'Si, ho qualche oggetto',
       ja: 'はい、この装備をお願いします。',
-      cs: 'Ano, Mám zde nějaké předměty.'
+      cs: 'Ano, Mám zde nějaké předměty.',
+      sr: 'Да, имам неке предмете.'
     }]
   }]
 }

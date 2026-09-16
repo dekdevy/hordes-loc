@@ -152,7 +152,8 @@ export default {
     zh: '重置',
     pt: 'Resetar',
     es: 'Resetear',
-    cs: 'Reset'
+    cs: 'Reset',
+    sr: 'Ресетуј'
   },
 
   disable: {
@@ -163,7 +164,8 @@ export default {
     zh: '禁用',
     pt: 'Desativar',
     es: 'Desactivar',
-    cs: 'Zakázat'
+    cs: 'Zakázat',
+    sr: 'Онемогући'
   },
 
   playername: {
@@ -174,7 +176,8 @@ export default {
     zh: '輸入玩家名稱',
     pt: 'Digite o nome do jogador',
     es: 'Escriba el nombre del jugador',
-    cs: 'Vložit jméno hráče'
+    cs: 'Vložit jméno hráče',
+    sr: 'Унеси име играча'
   },
 
   streamLoad: {
@@ -185,7 +188,8 @@ export default {
     zh: '讀取實況...',
     pt: 'Carregando streams...',
     es: 'Cargando streams...',
-    cs: 'Načítám streamy'
+    cs: 'Načítám streamy',
+    sr: 'Учитавање стримова...'
   },
 
   all: {
@@ -196,7 +200,8 @@ export default {
     zh: '全部',
     pt: 'Todos',
     es: 'Todos',
-    cs: 'Vše'
+    cs: 'Vše',
+    sr: 'Све'
   },
 
   filter: {
@@ -207,7 +212,8 @@ export default {
     zh: '篩選',
     pt: 'Filtro',
     es: 'Filtrar',
-    cs: 'Filtr'
+    cs: 'Filtr',
+    sr: 'Филтер'
   },
 
   apply: {
@@ -218,7 +224,8 @@ export default {
     zh: '確認',
     pt: 'Aplicar',
     es: 'Aplicar',
-    cs: 'Potvrdit'
+    cs: 'Potvrdit',
+    sr: 'Примени'
   },
 
   default: {
@@ -229,7 +236,8 @@ export default {
     zh: '默認',
     pt: 'Padrão',
     es: 'Predeterminado',
-    cs: 'Default'
+    cs: 'Default',
+    sr: 'Подразумевано'
   },
 
   // Used for party and arena searching
@@ -241,7 +249,8 @@ export default {
     zh: '尋找',
     pt: 'Procurar',
     es: 'Encontrar',
-    cs: 'Najít'
+    cs: 'Najít',
+    sr: 'Пронађи'
   },
 
   // Used for party and arena searching
@@ -253,7 +262,8 @@ export default {
     zh: '搜尋中...',
     pt: 'Procurando...',
     es: 'Buscando...',
-    cs: 'Vyhledávám...'
+    cs: 'Vyhledávám...',
+    sr: 'Претрага...'
   },
 
   learnable: {
@@ -264,7 +274,8 @@ export default {
     zh: '可以學習 Lv.',
     pt: 'Aprende Niv.',
     es: 'Aprender Niv.',
-    cs: 'Naučitelná úr.'
+    cs: 'Naučitelná úr.',
+    sr: 'Може се научити на нив.'
   },
 
   cost: {
@@ -275,7 +286,8 @@ export default {
     zh: '費用',
     pt: 'Custa',
     es: 'Coste',
-    cs: 'Cena'
+    cs: 'Cena',
+    sr: 'Цена'
   },
 
   noOptions: {
@@ -286,6 +298,7 @@ export default {
     zh: '沒有選項',
     pt: 'Sem opções',
     es: 'Sin opciones',
-    cs: 'Žádné možnosti'
+    cs: 'Žádné možnosti',
+    sr: 'Нема опција'
   }
 }

@@ -24,7 +24,7 @@ export default {
     bn: ' Bloodlust স্বাধীনতা এবং আনুগত্যকে মূল্য দেয়, ব্যক্তিবাদ বা এমনকি নৈরাজ্যবাদীদের জন্যও তারা স্থান প্রস্তাব করে। তাদের মূল ঘাটি মরুভূমির মাঝে Headless Landing নামক স্থানে অবস্থিত।',
     vi: 'Bộ lạc Bloodlust coi trọng sự tự do và lòng trung thành, tôn sùng chủ nghĩa cá nhân hoặc thậm chí hỗn loạn. Tuyến phòng thủ của họ nằm trong một vùng sa mạc gọi là Headless Landing.',
     cs: 'Bloodlust je horda, která si váží svobody a loajality. Nabízí místo pro individualismus nebo chaos. Jejich obrana je umístěná v písečném podnebí zvaném Headless Landing.',
-    sr: 'Bloodlust је хорда која вреднује слободу и лојалност, нуди место за индивидуализам или чак хаос. Њихова одбрана се налази у пустињској области, названој Headless Landing.',
+    sr: 'Bloodlust је хорда која вреднује слободу и оданост, нудећи место за индивидуализам или чак хаос. Њихова одбрана налази се у пустињском царству званом Headless Landing.',
     it: 'I valori della Bloodlust sono libertà e lealtà, offrendo un posto per essere individuali oppure caotici. I loro avamposti sono situati in una landa deserta chiamata Headless Landing.',
     ja: 'Bloodlustの群衆は自由と忠誠心を重んじ、己の欲求に従い戦場を混沌に陥れます。彼らの防衛線はHeadless Landingと呼ばれる砂漠の地域に所在します。',
     ar: 'قوم The Bloodlust يقدّرون الحرية والولاء, ويوفّرون مكاناً للتفرد أو حتى للفوضى, تقع دفاعاتهم في منطقة صحراوية تسمى Headless Landing .'

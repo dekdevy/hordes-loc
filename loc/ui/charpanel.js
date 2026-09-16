@@ -7,7 +7,8 @@ export default {
     zh: '名字',
     pt: 'Nome',
     cs: 'Jméno',
-    es: 'Nombre'
+    es: 'Nombre',
+    sr: 'Име'
   },
 
   level: {
@@ -18,7 +19,8 @@ export default {
     zh: '等級',
     cs: 'Úroveň',
     pt: 'Nível',
-    es: 'Nível'
+    es: 'Nível',
+    sr: 'Ниво'
   },
 
   class: {
@@ -29,7 +31,8 @@ export default {
     zh: '職業',
     pt: 'Classe',
     cs: 'Třída',
-    es: 'Clase'
+    es: 'Clase',
+    sr: 'Класа'
   },
 
   faction: {
@@ -38,7 +41,8 @@ export default {
     zh: '陣營',
     pt: 'Facção',
     cs: 'Frakce',
-    es: 'Facción'
+    es: 'Facción',
+    sr: 'Факција'
   },
 
   rank: {
@@ -49,7 +53,8 @@ export default {
     zh: '排位',
     cs: 'Hodnost',
     pt: 'Classificação',
-    es: 'Rango'
+    es: 'Rango',
+    sr: 'Ранг'
   },
 
   rating: {
@@ -60,7 +65,8 @@ export default {
     zh: '積分',
     pt: 'Avaliação',
     cs: 'Hodnocení',
-    es: 'Clasificación'
+    es: 'Clasificación',
+    sr: 'Рејтинг'
   },
 
   medals: {
@@ -71,7 +77,8 @@ export default {
     zh: '獎章',
     pt: 'Medalhas',
     cs: 'Medajle',
-    es: 'Medallas'
+    es: 'Medallas',
+    sr: 'Медаље'
   },
 
   perday: {
@@ -82,6 +89,7 @@ export default {
     zh: '一天',
     pt: 'por dia',
     cs: 'denně',
-    es: 'por día'
+    es: 'por día',
+    sr: 'дневно'
   }
 }

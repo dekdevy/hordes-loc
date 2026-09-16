@@ -41,7 +41,7 @@ export default {
     pl: 'Wciśnij przycisk aby zostać wskrzeszonym przy najbliższym Conjurer',
     bn: 'নিকটতম কনজিউরারে পুনরুত্থিত হতে বাটনে চাপুন',
     vi: 'Nhấn nút để hồi sinh tại điểm gần nhất',
-    sr: 'Притисните дугме да би сте васкрсли до најблизег Conjurer-a.',
+    sr: 'Притисни дугме да васкрснеш код најближег Conjurer-a.',
     it: 'Premi il pulsante per risorgere dal Conjurer più vicino.',
     ja: 'ボタンを押すと近くの祈祷師へリスポーンします。',
     cs: 'Stisknutím tlačítka budete vzkříšeni u nejbližšího kouzelníka'

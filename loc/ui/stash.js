@@ -4,7 +4,8 @@ export default {
     fr: 'Réserve',
     tr: 'Depo', //im not sure about this translation. Because exact translation is a bit weird. So i may change it later
     ko: '창고',
-    es: 'Alijo'
+    es: 'Alijo',
+    pt: 'Stash'
   },
 
   waitunstash: {

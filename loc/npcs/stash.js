@@ -17,7 +17,8 @@ export default {
       it: 'Sì, sono una cassa parlante, posso già vedere la domanda formarsi sulle tue labbra. Per molti anni ho servito famiglie reali, conservando le loro inestimabili gemme e gioielli, solo per me essere collocato in questo sudicio campeggio per soddisfare le vostre esigenze meschine. Ad ogni modo, vorresti che ti offrissi i miei servizi?',
       ja: 'やぁ、僕はおしゃべりチェストさ。あぁ質問は却下させて貰うよ。前は王室に仕えていて、お偉いさんの宝玉だの宝石だのを匿ってたんだけど、何だかんだあって君のちゃっちいニーズにお応えする為に小汚いキャンプに置かれる始末さ。まぁそれは置いといて、早速使ってみるかい？',
       cs: 'Ano, jsem mluvící truhla, Už vidím, jak se otázka formuluje na tvých rtech. Mnoho let sloužím královským rodinám a ukládám jejich drahocenné drahokamy a klenoty, jen abych skončil v tomto špinavém kempu a uspokojil vaše drobné potřeby. V každém případě, chtel by jsi využít mých služeb?',
-      ko: '네, 저는 말을 할 수 있는 상자입니다. 당신의 관심을 자극한 모양이군요. 저는 여러 해 동안 왕족을 섬기면서 가치조차 매길 수 없는 보석들과 장신구들을 담았지만, 이제 전 이런 불결한 야영지에 박혀 그쪽의 하찮은 욕구나 충족시킬 신세네요. 뭐, 필요한거라도 있으세요?'
+      ko: '네, 저는 말을 할 수 있는 상자입니다. 당신의 관심을 자극한 모양이군요. 저는 여러 해 동안 왕족을 섬기면서 가치조차 매길 수 없는 보석들과 장신구들을 담았지만, 이제 전 이런 불결한 야영지에 박혀 그쪽의 하찮은 욕구나 충족시킬 신세네요. 뭐, 필요한거라도 있으세요?',
+      sr: 'Да, ја сам ковчег који говори, већ видим питање како ти се обликује на уснама. Много година сам служио краљевским породицама, чувајући њихове непроцењиве драгуље и накит, само да бих завршио у овом прљавом кампу и служио твојим ситним потребама. Како било, желиш ли да ти понудим своје услуге?'
     },
 
     // Do not translate "Stash".
@@ -39,7 +40,8 @@ export default {
       ja: 'はい、Stashを利用します。',
       cs: 'Ano, otevři Stash',
       zh: '是的，打開我的Stash',
-      ko: '네, 저의 Stash를 열어주세요'
+      ko: '네, 저의 Stash를 열어주세요',
+      sr: 'Да, отвори мој Stash.'
     }]
   }]
 }

@@ -54,7 +54,8 @@ export default {
     ko: '스킬바',
     zh: '技能欄',
     cs: 'Bar dovedností',
-    pt: 'Barra de habilidades'
+    pt: 'Barra de habilidades',
+    sr: 'Skillbar'
   },
 
   skillbarslots: {
@@ -64,7 +65,8 @@ export default {
     ko: '스킬바 슬롯',
     zh: '技能欄位',
     cs: 'Místa v baru dovedností',
-    pt: 'Espaços da barra de habilidades'
+    pt: 'Espaços da barra de habilidades',
+    sr: 'Слотови skillbar-а'
   },
 
   keybindings: {
@@ -95,7 +97,8 @@ export default {
     ko: '리셋하려면, 아무것도 써놓지 마세요.',
     zh: '要重置，請填空',
     pt: 'Para redefinir, deixe o campo em branco.',
-    cs: 'Chcete-li reset, ponechte pole prázdné'
+    cs: 'Chcete-li reset, ponechte pole prázdné',
+    sr: 'Да ресетујеш, остави поље празно.'
   },
 
   camera: {
@@ -272,7 +275,8 @@ export default {
     en: 'Field of view',
     fr: 'Champ de vision',
     cs: 'Zorné pole',
-    pt: 'Campo de visão'
+    pt: 'Campo de visão',
+    sr: 'Поље вида'
   },
 
   resolution: {
@@ -309,7 +313,8 @@ export default {
     tr: 'Kamaşma',
     ko: '블룸 효과',
     cs: 'Bloom',
-    pt: 'Bloom'
+    pt: 'Bloom',
+    sr: 'Bloom'
   },
 
   disableoffscreen: {
@@ -320,7 +325,8 @@ export default {
     tr: 'Ekranda olmayan canlıları devre dışı bırak',
     ko: '시야 밖 몹 숨기기',
     pt: 'Desativar criaturas fora da tela',
-    cs: 'Deaktivovat bytosti mimo obrazovku'
+    cs: 'Deaktivovat bytosti mimo obrazovku',
+    sr: 'Искључи створења ван екрана'
   },
 
   offscreendesc: {
@@ -330,7 +336,8 @@ export default {
     ko: '퍼포먼스를 높여주지만 시야 밖에서 타겟을 지정할 수 없게 됩니다.',
     zh: '提高性能但使屏幕外動作靜音',
     pt: 'Melhora o desempenho, mas silencia a ação fora da tela',
-    cs: 'Zlepší výkon, ale utlumí akce mimo obrazovku'
+    cs: 'Zlepší výkon, ale utlumí akce mimo obrazovku',
+    sr: 'Побољшава перформансе, али утишава дешавања ван екрана'
   },
 
   skilleffects: {
@@ -447,7 +454,8 @@ export default {
     ko: '안개 패턴',
     zh: '霧化',
     pt: 'Padrão de neblina',
-    cs: 'Mlhový vzor'
+    cs: 'Mlhový vzor',
+    sr: 'Шара магле'
   },
 
   shadowresolution: {
@@ -457,7 +465,8 @@ export default {
     ko: '그림자 해상도',
     zh: '影子解析度',
     pt: 'Resolução de sombra',
-    cs: 'Rozlišení stínu'
+    cs: 'Rozlišení stínu',
+    sr: 'Резолуција сенки'
   },
 
   creatureshadows: {
@@ -467,7 +476,8 @@ export default {
     ko: '몹 그림자',
     zh: '生物陰影',
     pt: 'Sombras nas criaturas',
-    cs: 'Stíny bytostí'
+    cs: 'Stíny bytostí',
+    sr: 'Сенке на створењима'
   },
 
   anisotropy: {
@@ -477,7 +487,8 @@ export default {
     ko: '비등방성',
     zh: '非等向性',
     pt: 'Anisotropia',
-    cs: 'Anizotropie'
+    cs: 'Anizotropie',
+    sr: 'Анизотропија'
   },
 
   // ---- Audio
@@ -534,7 +545,8 @@ export default {
     ko: '외부 효과음 볼륨',
     zh: '外部音效倍率',
     pt: 'Multiplicador SFX Externo',
-    cs: 'Externí multiplikátor SFX'
+    cs: 'Externí multiplikátor SFX',
+    sr: 'Спољни SFX множилац'
   },
 
   multiplierdesc: {
@@ -544,7 +556,8 @@ export default {
     ko: '당신이 사용하지 않은 스킬의 효과음 볼륨을 조정합니다. 100% = 볼륨 감소 없음, 50% = 반으로 감소함.',
     zh: '不是你施放的法術可以減少音量。100% = 沒有聲音，50% = 一半音量。',
     pt: 'volume de magias não lançados por você podem ser reduzidos. 100% = Sem redução de som, 50% = metade do volume.',
-    cs: 'Hlasitost oouzla, která jste neseslali vy, lze snížit. 100 % = žádné snížení zvuku, 50 % = poloviční hlasitost'
+    cs: 'Hlasitost oouzla, která jste neseslali vy, lze snížit. 100 % = žádné snížení zvuku, 50 % = poloviční hlasitost',
+    sr: 'Јачина звука чаролија које ниси бацио ти може да се смањи. 100% = без смањења звука, 50% = упола тиша јачина.'
   },
 
   ambiencevolume: {
@@ -558,7 +571,8 @@ export default {
     ja: '環境音',
     cs: 'Hlasitost prostředí',
     zh: '環境音量',
-    ko: '환경 효과음'
+    ko: '환경 효과음',
+    sr: 'Јачина амбијенталног звука'
   },
 
   musicvolume: {
@@ -838,7 +852,8 @@ export default {
     ko: 'FPS / PING 표시하기',
     zh: '顯示 FPS / PING',
     pt: 'Mostrar FPS / PING',
-    cs: 'Ukázat FPS / PING'
+    cs: 'Ukázat FPS / PING',
+    sr: 'Прикажи FPS / PING'
   },
 
   nameplates: {

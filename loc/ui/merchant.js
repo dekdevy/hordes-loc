@@ -32,7 +32,8 @@ export default {
     zh: '我的物品',
     pt: 'Minhas Ofetas',
     cs: 'Mé předměty',
-    es: 'Mis items'
+    es: 'Mis items',
+    sr: 'Моји предмети'
     // el: 'Μόνο τα αντικείμενά μου',
     // nl: 'Alleen mijn voorwerpen',
     // de: 'Nur meine Items',
@@ -58,7 +59,8 @@ export default {
     zh: '購買',
     pt: 'Comprar',
     cs: 'Koupit',
-    es: 'Comprar'
+    es: 'Comprar',
+    sr: 'Купи'
     // el: 'Αγορά αντικειμένου',
     // nl: 'Voorwerp Kopen',
     // de: 'Item kaufen',
@@ -338,7 +340,8 @@ export default {
     ko: '전부',
     zh: '總合',
     cs: 'Celkem',
-    es: 'Total'
+    es: 'Total',
+    pt: 'Total'
   },
 
   previous: {
@@ -397,7 +400,8 @@ export default {
       en: '?',
       ko: '?',
       cs: '?',
-      es: '?'
+      es: '?',
+      pt: '?'
     }
   ]
 }

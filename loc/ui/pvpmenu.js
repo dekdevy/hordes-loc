@@ -6,7 +6,8 @@ export default {
     ko: '현재 프레스티지',
     zh: '當前聲望',
     pt: 'Prestígio Atual',
-    cs: 'Aktuální Prestiž'
+    cs: 'Aktuální Prestiž',
+    sr: 'Тренутни престиж'
   },
 
   nextrank: {
@@ -16,7 +17,8 @@ export default {
     ko: '다음 단계',
     zh: '下個階級',
     pt: 'Próximo Rank',
-    cs: 'Další Hodnost'
+    cs: 'Další Hodnost',
+    sr: 'Следећи ранг'
   },
 
   today: {
@@ -26,7 +28,8 @@ export default {
     ko: '오늘',
     zh: '今天',
     pt: 'Hoje',
-    cs: 'Dnes'
+    cs: 'Dnes',
+    sr: 'Данас'
   },
 
   thisweek: {
@@ -36,7 +39,8 @@ export default {
     ko: '이번 주',
     zh: '這一週',
     pt: 'Esta semana',
-    cs: 'Tento víkend'
+    cs: 'Tento víkend',
+    sr: 'Ове недеље'
   },
 
   lastweek: {
@@ -46,7 +50,8 @@ export default {
     ko: '지난 주',
     zh: '上一週',
     pt: 'Última semana',
-    cs: 'Minulý víkend'
+    cs: 'Minulý víkend',
+    sr: 'Прошле недеље'
   },
 
   lifetime: {
@@ -56,7 +61,8 @@ export default {
     ko: '전체',
     zh: '生涯',
     pt: 'Total',
-    cs: 'Život'
+    cs: 'Život',
+    sr: 'Укупно'
   },
 
   fameposition: {
@@ -66,7 +72,8 @@ export default {
     ko: '명성 순위',
     zh: '名聲排名',
     pt: 'Posição da Fama',
-    cs: 'Postavení slávy'
+    cs: 'Postavení slávy',
+    sr: 'Позиција по слави'
   },
 
   famebracket: {
@@ -76,7 +83,8 @@ export default {
     ko: '명성 등급',
     zh: '名聲層級',
     cs: 'Fame Bracket',
-    pt: 'Suporte de Fama'
+    pt: 'Suporte de Fama',
+    sr: 'Ранг славе'
   },
 
   highestrank: {
@@ -86,7 +94,8 @@ export default {
     ko: '최고 등급',
     zh: '最高階級',
     pt: 'Maior Rank',
-    cs: 'Nejvyšší Hodnost'
+    cs: 'Nejvyšší Hodnost',
+    sr: 'Највиши ранг'
   },
 
   viewbrackets: {
@@ -96,6 +105,7 @@ export default {
     ko: '명성 등급 기준 보기',
     zh: '查看這週層級',
     pt: 'Ver o bracket desta semana',
-    cs: 'Zobrazit týdenní brackets'
+    cs: 'Zobrazit týdenní brackets',
+    sr: 'Прикажи недељне рангове'
   }
 }
