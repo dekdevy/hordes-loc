@@ -1,250 +1,436 @@
-
 export default {
-  msg: [
-    { // _TUT_MOVE
-      en: 'Welcome! Press <kbd>W A S D</kbd> or <kbd>⭠ ⭢ ⭡ ⭣</kbd> to move.',
-      fr: 'Bienvenue! Utilise <kbd>W A S D</kbd> ou <kbd>⭠ ⭢ ⭡ ⭣</kbd> pour te déplacer.',
-      es: '¡Bienvenido! Pulsa <kbd>W A S D</kbd> o <kbd>⭠ ⭢ ⭡ ⭣</kbd> para moverte.'
+  guided: {
+    approachMonster: {
+      en: 'Approach a monster',
+      de: 'Geh zu einem Monster',
+      ru: 'Подойди к монстру',
+      zh: '接近一隻怪物',
+      pt: 'Aproxime-se de um monstro',
+      es: 'Acércate a un monstruo',
+      fr: 'Approche-toi d\'un monstre',
+      ro: 'Apropie-te de un monstru',
+      it: 'Avvicinati a un mostro',
+      nl: 'Benader een monster',
+      vi: 'Tiến lại gần một quái vật',
+      hu: 'Menj egy szörnyhöz',
+      cs: 'Jdi k příšeře',
+      pl: 'Podejdź do potwora'
     },
-    { // _TUT_CAMERA
-      en: 'Great job! Now, <kbd>left/right click</kbd> and drag your mouse to rotate the camera.',
-      fr: 'Bon travail! Maintenant, maintiens <kbd>clic gauche/droit</kbd> et fais glisser ta souris pour déplacer la caméra.',
-      es: '¡Excelente trabajo! Ahora, haz clic izquierdo/derecho y arrastra el ratón para girar la cámara.'
+    targetMonster: {
+      en: 'Target the monster',
+      de: 'Wähle das Monster',
+      ru: 'Выбери монстра',
+      zh: '選取怪物',
+      pt: 'Selecione o monstro',
+      es: 'Selecciona el monstruo',
+      fr: 'Cible le monstre',
+      ro: 'Țintește monstrul',
+      it: 'Seleziona il mostro',
+      nl: 'Selecteer het monster',
+      vi: 'Chọn quái vật',
+      hu: 'Jelöld ki a szörnyet',
+      cs: 'Zaměř příšeru',
+      pl: 'Wybierz potwora'
     },
-    { // _TUT_UISELECTUNIT
-      en: 'Move forward and find a monster, then target it by clicking it with your mouse or pressing <kbd>TAB</kbd>.',
-      fr: 'Avance et trouve un monstre, puis clique dessus ou appuie sur <kbd>TAB</kbd> pour le cibler.',
-      es: 'Avanza y encuentra un monstruo, luego apúntalo haciendo clic en él con el mouse o presionando <kbd>TAB</kbd>.'
+    castSkill: {
+      en: 'Cast skill',
+      de: 'Benutze einen Skill',
+      ru: 'Примени навык',
+      zh: '施放技能',
+      pt: 'Use uma habilidade',
+      es: 'Lanza una habilidad',
+      fr: 'Lance une compétence',
+      ro: 'Folosește o abilitate',
+      it: 'Usa un\'abilità',
+      nl: 'Gebruik een vaardigheid',
+      vi: 'Dùng kỹ năng',
+      hu: 'Használj képességet',
+      cs: 'Použij dovednost',
+      pl: 'Użyj umiejętności'
     },
-    { // _TUT_CASTSPELL
-      en: 'You can attack by pressing the keys on your skillbar. Press <kbd>1</kbd> on your keyboard to attack the monster!',
-      fr: 'Tu peux attaquer en appuyant sur les touches de ta barre de compétences. Appuie sur <kbd>1</kbd> sur ton clavier pour attaquer le monstre!',
-      es: 'Puedes atacar presionando las teclas de tu barra de habilidades. ¡Presiona <kbd>1</kbd> en tu teclado para atacar al monstruo!'
+    pickupWeapon: {
+      en: 'Pick up the weapon',
+      de: 'Waffe aufheben',
+      ru: 'Подбери оружие',
+      zh: '撿起武器',
+      pt: 'Pegue a arma',
+      es: 'Recoge el arma',
+      fr: 'Ramasse l\'arme',
+      ro: 'Ridică arma',
+      it: 'Raccogli l\'arma',
+      nl: 'Pak het wapen op',
+      vi: 'Nhặt vũ khí',
+      hu: 'Vedd fel a fegyvert',
+      cs: 'Seber zbraň',
+      pl: 'Podnieś broń'
     },
-    { // _TUT_KILLMOB
-      en: 'Perfect! Keep it up and deal with the monster!',
-      fr: 'Parfait! Continue comme ça et occupe-toi du monstre!',
-      es: '¡Perfecto! ¡Sigue así y acaba con el monstruo!'
+    openInventory: {
+      en: 'Open inventory',
+      de: 'Inventar öffnen',
+      ru: 'Открой инвентарь',
+      zh: '開啟物品欄',
+      pt: 'Abra o inventário',
+      es: 'Abre el inventario',
+      fr: 'Ouvre l\'inventaire',
+      ro: 'Deschide inventarul',
+      it: 'Apri l\'inventario',
+      nl: 'Open de inventaris',
+      vi: 'Mở hành trang',
+      hu: 'Nyisd ki a hátizsákot',
+      cs: 'Otevři inventář',
+      pl: 'Otwórz ekwipunek'
     },
-    { // _TUT_EXPREWARD
-      en: 'Nice job. You have been rewarded with experience points.',
-      fr: 'Bien joué. Tu as été récompensé avec des points d\'expérience.',
-      es: 'Buen trabajo. Has ganado puntos de experiencia.'
+    openCharacter: {
+      en: 'Open character',
+      de: 'Charakter öffnen',
+      ru: 'Открой окно персонажа',
+      zh: '開啟人物面板',
+      pt: 'Abra a ficha',
+      es: 'Abre la ficha',
+      fr: 'Ouvre la fiche',
+      ro: 'Deschide panoul personajului',
+      it: 'Apri la scheda',
+      nl: 'Open personage',
+      vi: 'Mở bảng nhân vật',
+      hu: 'Nyisd meg a karakterpanelt',
+      cs: 'Otevři panel postavy',
+      pl: 'Otwórz panel postaci'
     },
-    { // _TUT_EXPINFO
-      en: 'Collect enough experience points and you will level up.',
-      fr: 'Collecte suffisamment de points d\'expérience et tu monteras de niveau.',
-      es: 'Reúne suficientes puntos de experiencia y subirás de nivel.'
+    equipWeapon: {
+      en: 'Equip the weapon',
+      de: 'Waffe ausrüsten',
+      ru: 'Экипируй оружие',
+      zh: '裝備武器',
+      pt: 'Equipe a arma',
+      es: 'Equipa el arma',
+      fr: 'Équipe l\'arme',
+      ro: 'Echipează arma',
+      it: 'Equipaggia l\'arma',
+      nl: 'Rust het wapen uit',
+      vi: 'Trang bị vũ khí',
+      hu: 'Szereld fel a fegyvert',
+      cs: 'Nasaď zbraň',
+      pl: 'Załóż broń'
     },
-    { // _TUT_FINDITEM
-      en: 'You can press <kbd>Shift</kbd> to see items and coins on the ground. Pick up an item!',
-      fr: 'Tu peux appuyer sur <kbd>Maj</kbd> pour voir les objets et les pièces au sol. Rammasse un objet!',
-      es: 'Puedes presionar <kbd>Shift</kbd> para ver objetos y monedas en el suelo. ¡Recoge un objeto!'
+    reachLevel: {
+      en: 'Reach level $1',
+      de: 'Erreiche Level $1',
+      ru: 'Достигни уровня $1',
+      zh: '達到 $1 級',
+      pt: 'Alcance o nível $1',
+      es: 'Alcanza el nivel $1',
+      fr: 'Atteins le niveau $1',
+      ro: 'Atinge nivelul $1',
+      it: 'Raggiungi il livello $1',
+      nl: 'Bereik level $1',
+      vi: 'Đạt cấp $1',
+      hu: 'Érd el a(z) $1. szintet',
+      cs: 'Dosáhni úrovně $1',
+      pl: 'Osiągnij poziom $1'
     },
-    { // _TUT_OPENBAG
-      en: 'You have picked up an item. Open your inventory (<kbd>B</kbd>) to see it.',
-      fr: 'Tu as rammasé un objet. Ouvre ton inventaire (<kbd>B</kbd>) pour le voir.',
-      es: 'Has recogido un objeto. Abre tu inventario (<kbd>B</kbd>) para verlo.'
+    spendStats: {
+      en: 'Spend all stat points',
+      de: 'Verteile alle Stat-Punkte',
+      ru: 'Распредели все статы',
+      zh: '分配所有屬性點',
+      pt: 'Distribua todos os pontos de Stat',
+      es: 'Gasta todos los puntos de stat',
+      fr: 'Dépense tous tes points de stat',
+      ro: 'Distribuie toate punctele de atribute',
+      it: 'Distribuisci tutti i punti stat',
+      nl: 'Besteed alle statpunten',
+      vi: 'Dùng hết điểm tiềm năng',
+      hu: 'Oszd el az összes statpontot',
+      cs: 'Rozděl všechny staty',
+      pl: 'Rozdaj wszystkie staty'
     },
-    { // _TUT_BAGMEME
-      en: 'Here you can see your items. The inventory size depends on the bag you have equipped.',
-      fr: 'Ici tu peux voir tes objets. La taille de l\'inventaire dépend du sac que tu as équipé.',
-      es: 'Aquí puedes ver tus artículos. El tamaño del inventario depende de la bolsa que tengas equipada.'
+    closeCharacter: {
+      en: 'Close character',
+      de: 'Charakter schließen',
+      ru: 'Закрой окно персонажа',
+      zh: '關閉人物面板',
+      pt: 'Feche a ficha',
+      es: 'Cierra la ficha',
+      fr: 'Ferme la fiche',
+      ro: 'Închide panoul personajului',
+      it: 'Chiudi la scheda',
+      nl: 'Sluit personage',
+      vi: 'Đóng bảng nhân vật',
+      hu: 'Zárd be a karakterpanelt',
+      cs: 'Zavři panel postavy',
+      pl: 'Zamknij panel postaci'
     },
-    { // _TUT_EQUIPITEM
-      en: 'You can equip items by right clicking them and selecting "Equip item".',
-      fr: 'Tu peux équiper des objets en utilisant le clic droit dessus et en sélectionnant "Équiper l\'objet".',
-      es: 'Puedes equipar objetos haciendo clic derecho sobre ellos y seleccionando "Equipar objeto".'
+    closeInventory: {
+      en: 'Close inventory',
+      de: 'Inventar schließen',
+      ru: 'Закрой инвентарь',
+      zh: '關閉物品欄',
+      pt: 'Feche o inventário',
+      es: 'Cierra el inventario',
+      fr: 'Ferme l\'inventaire',
+      ro: 'Închide inventarul',
+      it: 'Chiudi l\'inventario',
+      nl: 'Sluit de inventaris',
+      vi: 'Đóng hành trang',
+      hu: 'Zárd be a hátizsákot',
+      cs: 'Zavři inventář',
+      pl: 'Zamknij ekwipunek'
     },
-    { //  _TUT_OPENCHARPANEL
-      en: 'Open your character panel (<kbd>C</kbd>).',
-      fr: 'Ouvre l\'interface de ton personnage (<kbd>C</kbd>).',
-      es: 'Abre el panel de tu personaje (<kbd>C</kbd>).'
+    collectCoins: {
+      en: 'Collect coins',
+      de: 'Sammle Münzen',
+      ru: 'Собирай монеты',
+      zh: '收集金幣',
+      pt: 'Colete moedas',
+      es: 'Recoge monedas',
+      fr: 'Ramasse des pièces',
+      ro: 'Colectează monede',
+      it: 'Raccogli monete',
+      nl: 'Verzamel munten',
+      vi: 'Thu thập vàng',
+      hu: 'Gyűjts érméket',
+      cs: 'Sbírej mince',
+      pl: 'Zbieraj monety'
     },
-    { // _TUT_CHARPANELINFO
-      en: 'You can see all equipped items in your character panel.',
-      fr: 'Tu peux voir tous les objets équipés dans l\'interface de ton personnage.',
-      es: 'Podrás ver todos los elementos equipados en el panel de tu personaje.'
+    talkTrader: {
+      en: 'Talk to your class trader',
+      de: 'Sprich mit dem Klassenhändler',
+      ru: 'Поговори с торговцем своего класса',
+      zh: '與職業商人交談',
+      pt: 'Fale com o comerciante da classe',
+      es: 'Habla con el comerciante de clase',
+      fr: 'Parle au marchand de classe',
+      ro: 'Vorbește cu negustorul clasei',
+      it: 'Parla al mercante di classe',
+      nl: 'Praat met de klassehandelaar',
+      vi: 'Nói với thương nhân lớp',
+      hu: 'Beszélj a kasztkereskedővel',
+      cs: 'Promluv s třídním obchodníkem',
+      pl: 'Porozmawiaj z handlarzem klasy'
     },
-    { // _TUT_GOLEVELUP
-      en: 'Next, try to level up by killing monsters.',
-      fr: 'Maintenant, essaie de monter de niveau en tuant des monstres.',
-      es: 'A continuación, intenta subir de nivel matando monstruos.'
+    buyBook: {
+      en: 'Buy the skill book',
+      de: 'Skillbuch kaufen',
+      ru: 'Купи книгу способности',
+      zh: '購買技能書',
+      pt: 'Compre o livro de habilidade',
+      es: 'Compra el libro de habilidad',
+      fr: 'Achète le livre de compétence',
+      ro: 'Cumpără cartea de abilități',
+      it: 'Compra il libro abilità',
+      nl: 'Koop het vaardigheidsboek',
+      vi: 'Mua sách kỹ năng',
+      hu: 'Vedd meg a képességkönyvet',
+      cs: 'Kup knihu dovednosti',
+      pl: 'Kup księgę umiejętności'
     },
-    { // _TUT_OPENCHARPANEL2
-      en: 'You have leveled up and earned stat points. Open your character panel (<kbd>C</kbd>) again.',
-      fr: 'Tu as monté de niveau et gagné des points de stat. Ouvre à nouveau ton interface de personnage (<kbd>C</kbd>).',
-      es: 'Has subido de nivel y has ganado puntos de estadísticas. Vuelve a abrir el panel de tu personaje (<kbd>C</kbd>).'
+    learnSkill: {
+      en: 'Learn the skill',
+      de: 'Skill lernen',
+      ru: 'Изучи способность',
+      zh: '學習技能',
+      pt: 'Aprenda a habilidade',
+      es: 'Aprende la habilidad',
+      fr: 'Apprends la compétence',
+      ro: 'Învață abilitatea',
+      it: 'Impara l\'abilità',
+      nl: 'Leer de vaardigheid',
+      vi: 'Học kỹ năng',
+      hu: 'Tanuld meg a képességet',
+      cs: 'Nauč se dovednost',
+      pl: 'Naucz się umiejętności'
     },
-    { //  _TUT_USESTATPOINTS
-      en: 'Stat points can be used to increase your primary stats. Hover over the buttons to preview their effects, then use your stat points.',
-      fr: 'Les points de stat peuvent être utilisés pour augmenter tes stats principales. Survole les boutons avec ta souris pour obtenir un aperçu des effets, puis attribue tes points de stat.',
-      es: 'Los puntos de estadísticas se pueden usar para aumentar tus estadísticas principales. Pasa el cursor sobre los botones para previsualizar sus efectos y luego usa tus puntos de estadísticas.'
+    useBook: {
+      en: 'Use the skill book',
+      de: 'Skillbuch benutzen',
+      ru: 'Используй книгу способности',
+      zh: '使用技能書',
+      pt: 'Use o livro de habilidade',
+      es: 'Usa el libro de habilidad',
+      fr: 'Utilise le livre de compétence',
+      ro: 'Folosește cartea de abilități',
+      it: 'Usa il libro abilità',
+      nl: 'Gebruik het vaardigheidsboek',
+      vi: 'Dùng sách kỹ năng',
+      hu: 'Használd a képességkönyvet',
+      cs: 'Použij knihu dovednosti',
+      pl: 'Użyj księgi umiejętności'
     },
-    { // _TUT_LEVELUPTONEWSKILL
-      en: 'Next, we will teach you how to learn new skills. First, level up to level 3 to unlock a new skill.',
-      fr: 'Ensuite, nous allons t\'enseigner comment apprendre de nouvelles compétences. Tout d\'abord, monte jusqu\'au niveau 3 pour débloquer une nouvelle compétence.',
-      es: 'A continuación, te enseñaremos a aprender nuevas habilidades. Primero, sube al nivel 3 para desbloquear una nueva habilidad.'
+    closeTrader: {
+      en: 'Close shop',
+      de: 'Händler schließen',
+      ru: 'Закрой магазин',
+      zh: '關閉商店',
+      pt: 'Feche a loja',
+      es: 'Cierra la tienda',
+      fr: 'Ferme la boutique',
+      ro: 'Închide magazinul',
+      it: 'Chiudi il negozio',
+      nl: 'Sluit de winkel',
+      vi: 'Đóng cửa hàng',
+      hu: 'Zárd be a boltot',
+      cs: 'Zavři obchod',
+      pl: 'Zamknij sklep'
     },
-    { // _TUT_NEWSKILLEXPLANATION
-      en: 'A new skill is available. You need to use books to learn new skills.',
-      fr: 'Une nouvelle compétence est disponible. Tu dois utiliser des livres pour apprendre de nouvelles compétences.',
-      es: 'Hay una nueva habilidad disponible. Necesitas usar libros para aprender nuevas habilidades.'
+    openSkills: {
+      en: 'Open skills',
+      de: 'Skills öffnen',
+      ru: 'Открой способности',
+      zh: '開啟技能面板',
+      pt: 'Abra as habilidades',
+      es: 'Abre las habilidades',
+      fr: 'Ouvre les compétences',
+      ro: 'Deschide abilitățile',
+      it: 'Apri le abilità',
+      nl: 'Open de vaardigheden',
+      vi: 'Mở bảng kỹ năng',
+      hu: 'Nyisd meg a képességeket',
+      cs: 'Otevři dovednosti',
+      pl: 'Otwórz umiejętności'
     },
-    { // _TUT_COLLECTBOOKCOINS
-      en: 'Collect some items and coins. You need 32 coins for your first book. You can sell items to the trader as well.',
-      fr: 'Collecte des objets et des pièces. Tu as besoin de 32 pièces pour ton premier livre. Tu peux également vendre des objets au commerçant.',
-      es: 'Reúne algunos objetos y monedas. Necesitas 32 monedas para tu primer libro. También puedes venderle objetos al comerciante.'
+    activateSkill: {
+      en: 'Activate the skill',
+      de: 'Skill aktivieren',
+      ru: 'Активируй способность',
+      zh: '啟用技能',
+      pt: 'Ative a habilidade',
+      es: 'Activa la habilidad',
+      fr: 'Active la compétence',
+      ro: 'Activează abilitatea',
+      it: 'Attiva l\'abilità',
+      nl: 'Activeer de vaardigheid',
+      vi: 'Kích hoạt kỹ năng',
+      hu: 'Aktiváld a képességet',
+      cs: 'Aktivuj dovednost',
+      pl: 'Aktywuj umiejętność'
     },
-    { // _TUT_VISITTRADER
-      en: 'You have enough coins. Go back to your base, and  talk to your class trader to buy your new skill book.',
-      fr: 'Tu as assez de pièces. Retourne à ta base, et parle au marchand de ta classe pour acheter ton nouveau livre de compétence.',
-      es: 'Tienes suficientes monedas. Regresa a tu base y habla con el comerciante de tu clase para comprar tu nuevo libro de habilidades.'
+    confirmSkills: {
+      en: 'Confirm skills',
+      de: 'Skills bestätigen',
+      ru: 'Подтверди способности',
+      zh: '確認技能',
+      pt: 'Confirme as habilidades',
+      es: 'Confirma las habilidades',
+      fr: 'Confirme les compétences',
+      ro: 'Confirmă abilitățile',
+      it: 'Conferma le abilità',
+      nl: 'Bevestig de vaardigheden',
+      vi: 'Xác nhận kỹ năng',
+      hu: 'Erősítsd meg a képességeket',
+      cs: 'Potvrď dovednosti',
+      pl: 'Potwierdź umiejętności'
     },
-    { // _TUT_BUYSKILLBOOK
-      en: 'The trader sells skill books, potions, and mounts. Right-click the book to buy it.',
-      fr: 'Le commerçant vend des livres de compétences, des potions, et des montures. Clic-droit sur le livre pour l\'acheter.',
-      es: 'El comerciante vende libros de habilidades, pociones y monturas. Haz clic derecho en el libro para comprarlo.'
+    placeSkill: {
+      en: 'Place the skill here',
+      de: 'Skill hier ablegen',
+      ru: 'Помести способность сюда',
+      zh: '將技能放在這裡',
+      pt: 'Coloque a habilidade aqui',
+      es: 'Coloca la habilidad aquí',
+      fr: 'Place la compétence ici',
+      ro: 'Pune abilitatea aici',
+      it: 'Posiziona qui l\'abilità',
+      nl: 'Plaats de vaardigheid hier',
+      vi: 'Đặt kỹ năng vào đây',
+      hu: 'Helyezd ide a képességet',
+      cs: 'Umísti dovednost sem',
+      pl: 'Umieść umiejętność tutaj'
     },
-    { // _TUT_USETHEBOOK
-      en: 'Once you have the book, open your inventory, right-click the book and press <kbd>Use Item</kbd> to learn it.',
-      fr: 'Une fois que tu as le livre, ouvre ton inventaire, clic-droit sur le livre et sélectionne <kbd>Utiliser l\'objet</kbd> pour l\'apprendre.',
-      es: 'Una vez que tengas el libro, abre tu inventario, haz clic derecho en el libro y presiona <kbd>Usar objeto</kbd> para aprenderlo.'
+    pickupSkill: {
+      en: 'Pick up the skill',
+      de: 'Skill nehmen',
+      ru: 'Возьми способность',
+      zh: '選取技能',
+      pt: 'Pegue a habilidade',
+      es: 'Selecciona la habilidad',
+      fr: 'Sélectionne la compétence',
+      ro: 'Selectează abilitatea',
+      it: 'Seleziona l\'abilità',
+      nl: 'Pak de vaardigheid op',
+      vi: 'Chọn kỹ năng',
+      hu: 'Vedd fel a képességet',
+      cs: 'Uchop dovednost',
+      pl: 'Chwyć umiejętność'
     },
-    { // _TUT_OPENSKILLMENU
-      en: 'Close the Trader Window, then open your skill panel (<kbd>K</kbd>) to see an overview of your skills.',
-      fr: 'Ferme la fenêtre du commerçant, puis ouvre ton interface de compétences (<kbd>K</kbd>) pour avoir un aperçu des tes compétences.',
-      es: 'Cierra la ventana del comerciante y luego abre tu panel de habilidades (<kbd>K</kbd>) para ver una descripción general de tus habilidades.'
+    closeSkills: {
+      en: 'Close skills',
+      de: 'Skills schließen',
+      ru: 'Закрой способности',
+      zh: '關閉技能面板',
+      pt: 'Feche as habilidades',
+      es: 'Cierra las habilidades',
+      fr: 'Ferme les compétences',
+      ro: 'Închide abilitățile',
+      it: 'Chiudi le abilità',
+      nl: 'Sluit de vaardigheden',
+      vi: 'Đóng bảng kỹ năng',
+      hu: 'Zárd be a képességeket',
+      cs: 'Zavři dovednosti',
+      pl: 'Zamknij umiejętności'
     },
-    { // _TUT_HOVEROVERSKILLS
-      en: 'Here you can see your skills. Hover over them for additional information. Skills usually require one skill point, which you earn once every two levels.',
-      fr: 'Ici tu peux voir tes compétences. Survole-les avec ta souris pour obtenir des informations supplémentaires. Les compétences nécessitent généralement un point de compétence, que tu gagnes une fois tous les deux niveaux.',
-      es: 'Aquí puedes ver tus habilidades. Pasa el cursor sobre ellas para obtener más información. Las habilidades suelen requerir un punto de habilidad, que se obtiene cada dos niveles.'
+    selectSelf: {
+      en: 'Select yourself',
+      de: 'Wähle dich',
+      ru: 'Выбери себя',
+      zh: '選取自己',
+      pt: 'Selecione-se',
+      es: 'Selecciónate',
+      fr: 'Sélectionne-toi',
+      ro: 'Selectează-te',
+      it: 'Selezionati',
+      nl: 'Selecteer jezelf',
+      vi: 'Chọn bản thân',
+      hu: 'Jelöld ki magad',
+      cs: 'Vyber sebe',
+      pl: 'Wybierz siebie'
     },
-    { // _TUT_ADDSKILLPOINT
-      en: 'You can change your skill set at any time. Add a skill point to your skill to enable it.',
-      fr: 'Tu peux changer ton set de compétences à tout moment. Ajoute un point de compétence à ta compétence pour l\'activer.',
-      es: 'Puedes cambiar tu conjunto de habilidades en cualquier momento. Añade un punto de habilidad para activarlo.'
+    useNewSkill: {
+      en: 'Use your new skill',
+      de: 'Benutze den neuen Skill',
+      ru: 'Используй новую способность',
+      zh: '使用新技能',
+      pt: 'Use sua nova habilidade',
+      es: 'Usa tu nueva habilidad',
+      fr: 'Utilise ta nouvelle compétence',
+      ro: 'Folosește noua abilitate',
+      it: 'Usa la tua nuova abilità',
+      nl: 'Gebruik je nieuwe vaardigheid',
+      vi: 'Dùng kỹ năng mới',
+      hu: 'Használd az új képességedet',
+      cs: 'Použij novou dovednost',
+      pl: 'Użyj nowej umiejętności'
     },
-    { // _TUT_APPLYSKILLS
-      en: 'Now press "Apply" to activate your new skill set.',
-      fr: 'Maintenant appuie sur "Appliquer" pour activer ton nouveau set de compétences.',
-      es: 'Ahora presione “Aplicar” para activar su nuevo conjunto de habilidades.'
+    click: {
+      en: 'Click',
+      de: 'Klick',
+      ru: 'Нажать',
+      zh: '點擊',
+      pt: 'Clique',
+      es: 'Clic',
+      fr: 'Clic',
+      ro: 'Clic',
+      it: 'Clic',
+      nl: 'Klik',
+      vi: 'Nhấp',
+      hu: 'Klikk',
+      cs: 'Klik',
+      pl: 'Kliknij'
     },
-    { // _TUT_CLICKANDDRAGSKILL2
-      en: 'You can click and drag a skill into your skillbar.',
-      fr: 'Tu peux cliquer et faire glisser une compétence dans ta barre de compétences.',
-      es: 'Puedes hacer clic y arrastrar una habilidad a tu barra de habilidades.'
-    },
-    { // _TUT_TEXT1
-      en: 'You have learned a lot. You\'re almost ready to start your adventure.',
-      fr: 'Tu as beaucoup appris. Tu es presque prêt à commencer ton aventure.',
-      es: 'Has aprendido mucho. Ya casi estás listo para empezar tu aventura.'
-    },
-    { // _TUT_PARTYBUTTON
-      en: 'Hordes is all about working in a party with other players. Click on <kbd>No Party</kbd> or press <kbd>P</kbd> to open the party finder.',
-      fr: 'Hordes consiste avant tout à travailler en équipe avec d\'autres joueurs. Clique sur <kbd>Aucune Party</kbd> ou appuie sur <kbd>P</kbd> pour ouvrir l\'interface de recherche de groupe.',
-      es: 'Hordas se trata de trabajar en grupo con otros jugadores. Haz clic en <kbd>Sin grupo</kbd> o pulsa <kbd>P</kbd> para abrir el buscador de grupos.'
-    },
-    { // _TUT_PARTYBUTTON2
-      en: 'Click a leveling group for your level. Then press <kbd>Apply</kbd>.',
-      fr: 'Sélectionne sur un groupe de ton niveau. Appuie ensuite sur <kbd>Postuler</kbd>.',
-      es: 'Haz clic en un grupo de niveles para tu nivel. Luego, pulsa "Aplicar".'
-    },
-    { //  _TUT_PARTYINFO
-      en: 'A shaman will summon you soon. Alternatively, press <kbd>M</kbd> to open the map and see where you need to go.',
-      fr: 'Un chaman devrait bientôt te téléporter. Sinon, appuie sur <kbd>M</kbd> pour ouvrir la carte et voir où tu dois aller.',
-      es: 'Un chamán te invocará pronto. También puedes pulsar <kbd>M</kbd> para abrir el mapa y ver adónde debes ir.'
-    },
-    { // _TUT_PARTYINFO2
-      en: 'Congratulations on reaching level 9! You can soon join the next party via the party finder. <kbd>P</kbd>',
-      fr: 'Félicitations pour avoir atteint le niveau 9! Tu devrais bientôt pouvoir rejoindre le prochain groupe via l\'interface de recherche de groupe. <kbd>P</kbd>',
-      es: '¡Felicidades por alcanzar el nivel 9! Pronto podrás unirte al siguiente grupo a través del buscador de grupos. <kbd>P</kbd>'
-    },
-    { // _TUT_REMAINDER_TO_STATUP
-      en: 'As you level up, you will gain additional skill points and stat points. Remember to level up your skills <kbd>K</kbd>, and allocate the stat points <kbd>C</kbd>.',
-      fr: 'À mesure que tu montes de niveau, tu gagneras des points de compétence et des points de stat supplémentaires. N\'oublie pas de monter le niveau de tes compétences <kbd>K</kbd>, et d\'attribuer tes points de stat.',
-      es: 'A medida que subas de nivel, ganarás puntos de habilidad y de estadísticas adicionales. Recuerda subir de nivel tus habilidades a <kbd>K</kbd> y asignar los puntos de estadísticas a <kbd>C</kbd>.'
-    },
-    { // _TUT_BOOKS_EXTRA_INFO
-      en: 'Tip: All the Level 1 Skill books can be purchased from your class trader. Higher level books can be found from monsters.',
-      fr: 'Astuce: Tous les livres de compétences de niveau 1 peuvent être achetés auprès du marchand de ta classe. Les livres de niveau supérieur peuvent être quant à eux trouver sur les monstres.',
-      es: 'Consejo: Todos los libros de habilidad de nivel 1 se pueden comprar al comerciante de tu clase. Los libros de nivel superior se pueden encontrar en los monstruos.'
-    },
-    { // _TUT_MERCHANT_INFO
-      en: 'Tip: You can trade items with other players. You can visit the Merchant to do so. He wears a big green hat.',
-      fr: 'Astuce: Tu peux échanger des objets avec d\'autres joueurs. Pour faire cela, tu dois rendre visite au Marchand. Il porte un gros chapeau vert.',
-      es: 'Consejo: Puedes intercambiar objetos con otros jugadores. Puedes visitar al comerciante para hacerlo. Lleva un gran sombrero verde.'
-    },
-    { // _TUT_MERCHANT_STASH
-      en: 'Tip: Any items you buy at the merchant will be sent to your stash - a storage for your items and gold. It is a brown box located next to the merchant.',
-      fr: 'Astuce: Tous les objets que tu achètes chez le marchand seront envoyés dans ta réserve - un espace de stockage pour tes objets et ton or. C\'est une boîte marron située à côté du marchand.',
-      es: 'Consejo: Cualquier artículo que compres en el comerciante se enviará a tu alijo, un lugar para guardar tus artículos y oro. Es una caja marrón ubicada junto al comerciante.'
-    },
-    { // _TUT_BLACKSMITH
-      en: 'Tip: You will find runes when slaying monsters. Runes will allow you to upgrade your items. Visit the blacksmith to do so.',
-      fr: 'Astuce: Tu trouveras des runes quand tu tueras des monstres. Les runes te permettront d\'améliorer tes objets. Rend visite au forgeron pour faire cela.',
-      es: 'Consejo: Encontrarás runas al matar monstruos. Estas runas te permitirán mejorar tus objetos. Visita al herrero para hacerlo.'
-    },
-    { // _TUT_CHAT
-      en: 'Tip: You can press <kbd>Enter</kbd> to chat. You can use <kbd>/party</kbd>, <kbd>/faction</kbd> and <kbd>/clan</kbd>. channels.',
-      fr: 'Astuce: Tu peux appuyer sur <kbd>Entrée</kbd> pour parler dans le chat. Tu peux utiliser les canaux de discussion <kbd>/party</kbd>, <kbd>/faction</kbd> et <kbd>/clan</kbd>.',
-      es: 'Consejo: Puedes pulsar <kbd>Intro</kbd> para chatear. Puedes usar los canales <kbd>/grupo</kbd>, <kbd>/facción</kbd> y <kbd>/clan</kbd>.'
-    },
-    { // _TUT_PVP1
-      en: 'Tip: Players of the other faction can be killed to earn fame and items (such as the crown) for your character.',
-      fr: 'Astuce: Les joueurs de l\'autre faction peuvent être tués pour gagner de la réputation et des objets (tel que la couronne) pour ton personnage.',
-      es: 'Consejo: Los jugadores de la otra facción pueden morir para ganar fama y objetos (como la corona) para tu personaje.'
-    },
-    { // _TUT_PVP2
-      en: 'Tip: Partying will also allow you to share fame points in PVP combat.',
-      fr: 'Astuce: Faire partie d\'un groupe te permettra également de partager les points de réputation en combat JcJ.',
-      es: 'Consejo: Los grupos también te permitirán compartir puntos de fama en el combate JcJ.'
-    },
-    { // _TUT_SETTINGS
-      en: 'Tip: Press the cogwheel in the upper right corner to open the settings. You can change controls, messages in the chat, interface configurations and graphics.',
-      fr: 'Astuce: Appuie sur la roue dentée dans le coin supérieur droit de ton écran pour ouvrir les paramètres. Tu peux y modifer les contrôles, les messages dans le chat, les configurations de l\'interface et les graphismes.',
-      es: 'Consejo: Pulsa el engranaje en la esquina superior derecha para abrir la configuración. Puedes cambiar los controles, los mensajes del chat, la configuración de la interfaz y los gráficos.'
-    },
-    { // _TUT_HELLSPAWN
-      en: 'Tip: When monsters in Hordes are killed quickly they will "Hellspawn" with more health and drop more loot. This allows parties to farm together for resources.',
-      fr: 'Astuce: Dans Hordes, lorsque les monstres sont tués rapidement ils entrent dans un état dit de "Hellspawn" dans lequel ils réaparaissent avec plus de santé et laissent tomber plus de butin. Ce mécanisme permet aux groupes de farmer ensemble pour obtenir des ressources.',
-      es: 'Consejo: Cuando los monstruos de las Hordas mueren rápidamente, se "engendran infernales" con más salud y sueltan más botín. Esto permite a los grupos farmear recursos juntos.'
-    },
-    { // _TUT_HELLSPAWN2
-      en: 'Tip: High level end-game hellspawned monsters have a chance to drop rare pets, which can be sold to other players.',
-      fr: 'Astuce: Les monstres de fin du jeu ayant un haut niveau d\'"Hellspawn" ont une chance de laisser tomber des familiers rares quand ils sont tués, lesquels peuvent être vendus à d\'autres joueurs.',
-      es: 'Consejo: Los monstruos infernales de alto nivel del final del juego tienen la posibilidad de dejar caer mascotas raras, que pueden venderse a otros jugadores.'
-    },
-    { // _TUT_OBELISK
-      en: 'Tip: The Obelisk is a endgame PVP Event that lasts one hour and repeats every 3 hours. You can visit the War Conjurer to teleport to a PvP battle.',
-      fr: 'Astuce: L\'Obélisque est un événement JcJ de fin de jeu qui dure 1 heure et se répéte toutes les 3 heures. Tu peux rendre visite au Conjurateur de Guerre pour te téléporter dans une bataille JcJ.',
-      es: 'Consejo: El Obelisco es un evento JcJ de final de partida que dura una hora y se repite cada 3 horas. Puedes visitar al Conjurador de Guerra para teletransportarte a una batalla JcJ.'
-    },
-    { // _TUT_OBELISK2
-      en: 'Tip: When you win an Obelisk fight, you are rewarded with a <kbd>Bone Blessing</kbd>. This buff grants extra boss drops.',
-      fr: 'Astuce: Lorsque tu remportes la victoire lors d\'un combat d\'Obélisque, tu es récompensé par une <kbd>Bénédiction d\'Os</kbd>. Ce buff accorde du butin supplémentaire sur les boss.',
-      es: 'Consejo: Al ganar una pelea contra el Obelisco, recibirás una <kbd>Bendición de Huesos</kbd>. Esta mejora otorga botín extra a los jefes.'
-    },
-    { // _TUT_GLOOMFURY
-      en: 'Tip: After the Obelisk event, Gloomfury spawns in the center of Faivel. He is a powerful boss and drops loot based on your personal performance.',
-      fr: 'Astuce: Après l\'événement de l\'Obélisque, Gloomfury apparaît au centre de Faivel. Gloomfury est un boss puissant qui laisse tomber, à sa mort, du butin en fonction de ta performance personnelle.',
-      es: 'Consejo: Después del evento del Obelisco, Furia Oscura aparece en el centro de Faivel. Es un jefe poderoso y otorga botín según tu rendimiento.'
-    },
-    { // _TUT_ENDGAME
-      en: 'Tip: Hordes Endgame Events happen in a 3 hour loop. One hour of Obelisk PvP, one hour of Gloomfury, and one hour pause.',
-      fr: 'Astuce: Les événements de fin de jeu dans Hordes se déroulent en boucle toutes les 3 heures. Une heure d\'Obélisque JcJ, une heure de Gloomfury, et une heure de pause.',
-      es: 'Consejo: Los eventos de final de partida de Hordas ocurren en un bucle de 3 horas: una hora de JcJ de Obelisco, una hora de Furia Oscura y una hora de pausa.'
-    },
-    { // _TUT_RAREMOBS
-      en: 'Tip: Did you know that rare mounts exist in Hordes? You can find them when they (rarely) spawn throughout the world.',
-      fr: 'Astuce: Savais-tu qu\'il existait des montures rares dans Hordes ? Tu peux les trouver lorsqu\'elles apparaissent (rarement) à travers le monde.',
-      es: 'Consejo: ¿Sabías que existen monturas raras en Hordas? Puedes encontrarlas cuando aparecen (rara vez) por todo el mundo.'
-    },
-    { // _TUT_MAXLEVEL
-      en: 'Congratulations on Lv. 45! You can now join other players in fighting Gloomfury, doing PVP Obelisks, Hellspawn farming, or rare pet and mount hunting!',
-      fr: 'Félicitations pour avoir atteint le niveau 45! Tu peux maintenant rejoindre d\'autres joueurs pour affronter Gloomfury, participer aux Obélisques JcJ, faire du farming "Hellspawn", ou partir à la chasse aux montures et familiers rares!',
-      es: '¡Felicidades por alcanzar el nivel 45! Ya puedes unirte a otros jugadores para luchar contra Gloomfury, participar en Obeliscos JcJ, cultivar Engendros Infernales o cazar mascotas y monturas raras.'
+    rightClick: {
+      en: 'Right-click',
+      de: 'Rechtsklick',
+      ru: 'ПКМ',
+      zh: '按右鍵',
+      pt: 'Clique direito',
+      es: 'Clic derecho',
+      fr: 'Clic droit',
+      ro: 'Clic dreapta',
+      it: 'Clic destro',
+      nl: 'Rechtsklik',
+      vi: 'Nhấp chuột phải',
+      hu: 'Jobb klikk',
+      cs: 'Pravý klik',
+      pl: 'Kliknij prawym'
     }
-  ]
+  }
 }
