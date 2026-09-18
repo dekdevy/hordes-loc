@@ -103,7 +103,7 @@ export default {
       en: 'The Road Ahead'
     },
     offer: {
-      en: "I've lingered here long enough. I want to travel onward and see what the future holds at Headless Landing, but the bandit camp blocks the road. Will you clear a path for me?"
+      en: "I've lingered here long enough. I want to travel onward and see what the future holds at Headless Landing, but the bandits threaten me whenever I try to pass through. Will you clear a path for me?"
     },
     complete: {
       en: 'At last, the road ahead is open. It is time I stopped looking back and moved on.'
