@@ -87,6 +87,9 @@ const npcs = {
   blacksmith
 }
 
+// Quests
+import quests from './quests.js'
+
 // User interface
 import * as merchantui from './ui/merchant.js'
 import * as stashui from './ui/stash.js'
@@ -141,5 +144,6 @@ export default {
   items,
   factions,
   npcs,
+  quests,
   ui
 }
