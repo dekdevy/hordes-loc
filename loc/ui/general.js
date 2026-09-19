@@ -72,6 +72,30 @@ export default {
     cs: 'Potvrdit'
   },
 
+  acceptQuest: {
+    en: 'Accept quest'
+  },
+
+  completeQuest: {
+    en: 'Complete quest'
+  },
+
+  objectives: {
+    en: 'Objectives'
+  },
+
+  rewards: {
+    en: 'Rewards'
+  },
+
+  experience: {
+    en: 'Experience'
+  },
+
+  gold: {
+    en: 'Gold'
+  },
+
   cancel: {
     en: 'Cancel',
     el: 'Ακύρωση',
