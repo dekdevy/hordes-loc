@@ -130,5 +130,49 @@ export default {
     complete: {
       en: 'Konrad sent you? Then perhaps you can help me clear the road ahead.'
     }
+  },
+  14: {
+    title: {
+      en: 'Alchemist Michael'
+    },
+    offer: {
+      en: 'With the campsite safe again, there is someone else nearby who may need help. Alchemist Michael gathers ingredients in Guardstone Forest. Find him and see how he is faring.'
+    },
+    complete: {
+      en: 'Liam sent you? Your timing is fortunate. The hogs here have made gathering ingredients nearly impossible.'
+    }
+  },
+  15: {
+    title: {
+      en: 'Trampled Ingredients'
+    },
+    offer: {
+      en: "I came to Guardstone Forest to gather mushrooms and herbs for my potions, but I don't know these woods well. The hogs keep charging me before I can collect anything. Will you thin their numbers?"
+    },
+    complete: {
+      en: 'That should give me enough room to gather what I need. My next batch of potions is thanks to you.'
+    }
+  },
+  16: {
+    title: {
+      en: 'Forester Rowan'
+    },
+    offer: {
+      en: 'The road is open, and my travels will soon take me beyond Guardstone Forest. Before you leave, find Forester Rowan in the woods. No one knows the forest or its troubles better.'
+    },
+    complete: {
+      en: 'Alpheos sent you? Good. I could use a capable hand with the hogs roaming nearby.'
+    }
+  },
+  17: {
+    title: {
+      en: 'Hogs Gone Wild'
+    },
+    offer: {
+      en: 'The hog population has grown out of control. They tear up young growth and crowd every other animal out of this part of the forest. Will you help me bring their numbers down?'
+    },
+    complete: {
+      en: 'The forest can recover now that the herd has been thinned. You have my thanks.'
+    }
   }
 }
