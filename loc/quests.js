@@ -108,5 +108,27 @@ export default {
     complete: {
       en: 'At last, the road ahead is open. It is time I stopped looking back and moved on.'
     }
+  },
+  12: {
+    title: {
+      en: 'Camper Liam'
+    },
+    offer: {
+      en: 'The stockyard is clear, but patrols report that bandits have seized a campsite outside the city. Camper Liam knows those grounds better than anyone. Find him and see what help he needs.'
+    },
+    complete: {
+      en: 'Isabel sent you? Good. I could use some help reclaiming my campsite.'
+    }
+  },
+  13: {
+    title: {
+      en: 'Traveler Alpheos'
+    },
+    offer: {
+      en: 'The road is safer now, but bandits have taken over a camp nearby. Traveler Alpheos has been watching their movements. Find him and see what he knows.'
+    },
+    complete: {
+      en: 'Konrad sent you? Then perhaps you can help me clear the road ahead.'
+    }
   }
 }
