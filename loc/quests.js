@@ -174,5 +174,49 @@ export default {
     complete: {
       en: 'The forest can recover now that the herd has been thinned. You have my thanks.'
     }
+  },
+  18: {
+    title: {
+      en: 'Venom in the Underbrush'
+    },
+    offer: {
+      en: "The forest spiders nearby are unusually aggressive, and their venom has changed. I suspect something in their diet has altered them, but I cannot tell whether it is a plant, a fungus, or something else entirely. Thin their numbers before this mutation spreads."
+    },
+    complete: {
+      en: 'That buys me time to study what they left behind. Whatever changed them, it was no ordinary shift in the season.'
+    }
+  },
+  19: {
+    title: {
+      en: 'Silk Among the Stones'
+    },
+    offer: {
+      en: "There are stranger spiders near the ancient columns. Their bodies look almost woven, and their silk reacts to mixtures that should do nothing to it. I cannot decide whether the columns changed them or merely drew them there. Find the wood weavers and reduce their numbers."
+    },
+    complete: {
+      en: 'Even dead, their silk refuses to behave like any natural fiber I know. The answer may lie beneath those old stones.'
+    }
+  },
+  20: {
+    title: {
+      en: 'The Hungry Brood'
+    },
+    offer: {
+      en: "Forest spiders have always lived beneath these trees, but they are hunting too openly and taking prey they once avoided. Something has disturbed the balance of the woods. I do not yet know what, so thin the brood while I look for the cause."
+    },
+    complete: {
+      en: 'The smaller creatures will have room to return now. Still, spiders do not abandon old habits without reason.'
+    }
+  },
+  21: {
+    title: {
+      en: 'Strange Webs'
+    },
+    offer: {
+      en: "Wood weavers have gathered around the ancient columns. They resemble spiders, but they move as if they are following a pattern the forest cannot hear. I cannot tell whether they are sick, changed, or something that only looks natural. Clear some of them away from the stones."
+    },
+    complete: {
+      en: 'The forest feels quieter, but not relieved. Whatever calls those creatures to the columns is still there.'
+    }
   }
 }
