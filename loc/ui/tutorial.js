@@ -64,6 +64,38 @@ export default {
       cs: 'Seber zbraň',
       pl: 'Podnieś broń'
     },
+    showItemLabels: {
+      en: 'Show items',
+      de: 'Items anzeigen',
+      ru: 'Покажи предметы',
+      zh: '顯示物品',
+      pt: 'Mostrar itens',
+      es: 'Mostrar objetos',
+      fr: 'Voir les objets',
+      ro: 'Arată obiecte',
+      it: 'Mostra oggetti',
+      nl: 'Toon items',
+      vi: 'Hiện vật phẩm',
+      hu: 'Tárgyak mutatása',
+      cs: 'Zobraz předměty',
+      pl: 'Pokaż przedmioty'
+    },
+    moveCloser: {
+      en: 'Move closer',
+      de: 'Geh näher ran',
+      ru: 'Подойди ближе',
+      zh: '再靠近一點',
+      pt: 'Aproxime-se',
+      es: 'Acércate más',
+      fr: 'Rapproche-toi',
+      ro: 'Apropie-te',
+      it: 'Avvicinati',
+      nl: 'Kom dichterbij',
+      vi: 'Đến gần hơn',
+      hu: 'Menj közelebb',
+      cs: 'Pojď blíž',
+      pl: 'Podejdź bliżej'
+    },
     openInventory: {
       en: 'Open inventory',
       de: 'Inventar öffnen',
