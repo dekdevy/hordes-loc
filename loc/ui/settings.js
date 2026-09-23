@@ -975,6 +975,16 @@ export default {
     pt: 'Drops'
   },
 
+  itemlabelrange: {
+    en: 'Drop label range',
+    fr: 'Portée des étiquettes de butin',
+    tr: 'Ganimet etiketi gösterim mesafesi',
+    ko: '전리품 이름 표시 거리',
+    zh: '掉落物名稱顯示範圍',
+    pt: 'Distância de exibição dos nomes dos drops',
+    cs: 'Vzdálenost zobrazení názvů dropů'
+  },
+
   showquality: {
     en: 'Show Drop Quality%',
     fr: 'Afficher le % de Qualité du butin',
