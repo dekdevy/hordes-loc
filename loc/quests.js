@@ -1,222 +1,1002 @@
 export default {
   2: {
     title: {
-      en: 'Clearing the tomb'
+      en: 'Clearing the tomb',
+      de: 'Die Gruft säubern',
+      ru: 'Очистить гробницу',
+      zh: '清理墓穴',
+      pt: 'Limpar o túmulo',
+      es: 'Limpiar la tumba',
+      fr: 'Nettoyer la tombe',
+      ro: 'Curățarea mormântului',
+      it: 'Ripulire la tomba',
+      nl: 'Het graf vrijmaken',
+      vi: 'Dọn sạch lăng mộ',
+      hu: 'A sír megtisztítása',
+      cs: 'Vyčištění hrobky',
+      pl: 'Oczyszczenie grobowca'
     },
     offer: {
-      en: "These grubs keep on messing with the tomb. She'll never be at peace like this. Please, will you help me get rid of some of these grubs?"
+      en: "These grubs keep on messing with the tomb. She'll never be at peace like this. Please, will you help me get rid of some of these grubs?",
+      de: 'Diese Maden verwüsten ständig die Gruft. So wird sie nie Frieden finden. Hilfst du mir, ein paar davon loszuwerden?',
+      ru: 'Личинки снова оскверняют гробницу. Так ей не обрести покой. Поможешь избавиться от них?',
+      zh: '這些幼蟲又在墓穴裡搗亂。這樣她永遠無法安息。能幫我除掉一些嗎？',
+      pt: 'Estas larvas não param de remexer o túmulo. Assim ela nunca vai descansar em paz. Você pode me ajudar a acabar com algumas?',
+      es: 'Estos gusanos no dejan de revolver la tumba. Así nunca podrá descansar en paz. ¿Me ayudas a acabar con algunos?',
+      fr: 'Ces larves ne cessent de ravager la tombe. Elle ne reposera jamais en paix ainsi. Tu peux m’aider à en éliminer quelques-unes ?',
+      ro: 'Larvele astea tot tulbură mormântul. Așa nu-și va găsi niciodată liniștea. Mă ajuți să scap de câteva?',
+      it: 'Queste larve continuano a infestare la tomba. Così lei non troverà mai pace. Mi aiuti a eliminarne alcune?',
+      nl: 'Die larven blijven het graf verstoren. Zo zal ze nooit rust vinden. Wil je me helpen er een paar te verjagen?',
+      vi: 'Lũ sâu non lại quấy phá lăng mộ. Cứ thế này, cô ấy sẽ không thể yên nghỉ. Giúp tôi diệt bớt chúng nhé?',
+      hu: 'Ezek a lárvák folyton feldúlják a sírt. Így sosem lelhet békére. Segítesz megszabadulni néhánytól?',
+      cs: 'Ty larvy pořád narušují hrobku. Takhle nikdy nenajde klid. Pomůžeš mi jich pár vyhnat?',
+      pl: 'Te larwy wciąż zakłócają spokój grobowca. Przez nie nigdy nie zazna spokoju. Pomożesz mi pozbyć się kilku?'
     },
     complete: {
-      en: 'Praise be to Areo. She may finally rest in peace.'
+      en: 'Praise be to Areo. She may finally rest in peace.',
+      de: 'Areo sei gepriesen. Endlich kann sie in Frieden ruhen.',
+      ru: 'Слава Areo. Теперь она наконец упокоится с миром.',
+      zh: '讚美 Areo。她終於可以安息了。',
+      pt: 'Louvado seja Areo. Ela finalmente pode descansar em paz.',
+      es: 'Alabado sea Areo. Por fin podrá descansar en paz.',
+      fr: 'Loué soit Areo. Elle peut enfin reposer en paix.',
+      ro: 'Slavă lui Areo. În sfârșit, ea se poate odihni în pace.',
+      it: 'Sia lodata Areo. Ora potrà finalmente riposare in pace.',
+      nl: 'Geprezen zij Areo. Eindelijk kan ze rusten.',
+      vi: 'Tạ ơn Areo. Cuối cùng cô ấy cũng được yên nghỉ.',
+      hu: 'Hála Areónak. Végre békében nyugodhat.',
+      cs: 'Sláva Areovi. Konečně může odpočívat v pokoji.',
+      pl: 'Chwała Areo. Wreszcie może spoczywać w pokoju.'
     }
   },
   3: {
     title: {
-      en: 'Fisherman Konrad'
+      en: 'Fisherman Konrad',
+      de: 'Fischer Konrad',
+      ru: 'Рыбак Konrad',
+      zh: '漁夫 Konrad',
+      pt: 'O pescador Konrad',
+      es: 'El pescador Konrad',
+      fr: 'Le pêcheur Konrad',
+      ro: 'Pescarul Konrad',
+      it: 'Il pescatore Konrad',
+      nl: 'Visser Konrad',
+      vi: 'Ngư dân Konrad',
+      hu: 'Konrad, a halász',
+      cs: 'Rybář Konrad',
+      pl: 'Rybak Konrad'
     },
     offer: {
-      en: 'I hear Fisherman Konrad is running low on bait. Will you bring the grubs to him?'
+      en: 'I hear Fisherman Konrad is running low on bait. Will you bring the grubs to him?',
+      de: 'Ich höre, Fischer Konrad hat kaum noch Köder. Bringst du ihm die Maden?',
+      ru: 'Я слышал, у рыбака Konrad заканчивается наживка. Отнесёшь ему личинок?',
+      zh: '聽說漁夫 Konrad 的魚餌快用完了。能把這些幼蟲送給他嗎？',
+      pt: 'Ouvi dizer que o pescador Konrad está ficando sem isca. Você pode levar as larvas para ele?',
+      es: 'He oído que al pescador Konrad le queda poco cebo. ¿Le llevas estos gusanos?',
+      fr: 'Il paraît que le pêcheur Konrad manque d’appâts. Tu peux lui apporter ces larves ?',
+      ro: 'Am auzit că pescarul Konrad a rămas aproape fără momeală. Îi duci larvele?',
+      it: 'Ho sentito che il pescatore Konrad sta finendo le esche. Puoi portargli queste larve?',
+      nl: 'Ik hoor dat visser Konrad bijna geen aas meer heeft. Breng je de larven naar hem?',
+      vi: 'Nghe nói ngư dân Konrad sắp hết mồi câu. Bạn mang lũ sâu non này cho ông ấy được không?',
+      hu: 'Úgy hallom, Konrad halásznak fogytán a csalija. Elvinnéd neki a lárvákat?',
+      cs: 'Slyšel jsem, že rybáři Konradovi dochází návnada. Doneseš mu ty larvy?',
+      pl: 'Słyszałem, że rybakowi Konradowi kończy się przynęta. Zaniesiesz mu te larwy?'
     },
     complete: {
-      en: 'These grubs will make fine bait. Thank you.'
+      en: 'These grubs will make fine bait. Thank you.',
+      de: 'Diese Maden sind gute Köder. Danke.',
+      ru: 'Из этих личинок выйдет отличная наживка. Спасибо.',
+      zh: '這些幼蟲正適合當魚餌。謝謝你。',
+      pt: 'Estas larvas serão uma boa isca. Obrigado.',
+      es: 'Estos gusanos serán un buen cebo. Gracias.',
+      fr: 'Ces larves feront de bons appâts. Merci.',
+      ro: 'Larvele astea vor fi o momeală bună. Mulțumesc.',
+      it: 'Queste larve saranno ottime esche. Grazie.',
+      nl: 'Deze larven zijn prima aas. Bedankt.',
+      vi: 'Lũ sâu này làm mồi câu rất tốt. Cảm ơn bạn.',
+      hu: 'Ezekből jó csali lesz. Köszönöm.',
+      cs: 'Tyhle larvy budou skvělá návnada. Děkuji.',
+      pl: 'Z tych larw będzie dobra przynęta. Dziękuję.'
     }
   },
   4: {
     title: {
-      en: 'Fox Trouble'
+      en: 'Fox Trouble',
+      de: 'Ärger mit Füchsen',
+      ru: 'Хитрые лисы',
+      zh: '狐狸搗亂',
+      pt: 'Problemas com raposas',
+      es: 'Problemas con zorros',
+      fr: 'Problème de renards',
+      ro: 'Necazuri cu vulpile',
+      it: 'Volpi moleste',
+      nl: 'Lastige vossen',
+      vi: 'Lũ cáo phá rối',
+      hu: 'Rókabaj',
+      cs: 'Potíže s liškami',
+      pl: 'Kłopoty z lisami'
     },
     offer: {
-      en: "It's been hours, and I can't seem to catch anything with these foxes causing trouble! Will you help me?"
+      en: "It's been hours, and I can't seem to catch anything with these foxes causing trouble! Will you help me?",
+      de: 'Seit Stunden fange ich nichts, weil die Füchse mich stören! Hilfst du mir?',
+      ru: 'Я рыбачу уже несколько часов, но лисы всё время мне мешают! Поможешь?',
+      zh: '我釣了好幾個小時，可狐狸一直搗亂，一條魚都沒釣到！能幫幫我嗎？',
+      pt: 'Já faz horas que não pesco nada por causa destas raposas! Você pode me ajudar?',
+      es: '¡Llevo horas sin pescar nada por culpa de estos zorros! ¿Me ayudas?',
+      fr: 'Cela fait des heures que je ne prends rien à cause de ces renards ! Tu peux m’aider ?',
+      ro: 'Stau aici de ore întregi și nu prind nimic din cauza vulpilor! Mă ajuți?',
+      it: 'Pesco da ore, ma con queste volpi che mi disturbano non prendo nulla! Mi aiuti?',
+      nl: 'Ik zit hier al uren en vang niets door die vossen! Help je me?',
+      vi: 'Tôi câu cá mấy giờ rồi mà lũ cáo cứ phá, chẳng bắt được gì! Giúp tôi được không?',
+      hu: 'Órák óta itt vagyok, de a rókák miatt semmit sem tudok fogni! Segítesz?',
+      cs: 'Sedím tu už celé hodiny, ale kvůli těm liškám nic nechytím! Pomůžeš mi?',
+      pl: 'Siedzę tu od godzin, ale przez te lisy nic nie mogę złowić! Pomożesz mi?'
     },
     complete: {
-      en: 'That should keep them away from my fishing spot. Thank you.'
+      en: 'That should keep them away from my fishing spot. Thank you.',
+      de: 'Das sollte sie von meinem Angelplatz fernhalten. Danke.',
+      ru: 'Теперь они не сунутся к моему месту рыбалки. Спасибо.',
+      zh: '這下牠們不會再靠近我的釣點了。謝謝你。',
+      pt: 'Isso deve afastá-las do meu ponto de pesca. Obrigado.',
+      es: 'Eso debería alejarlos de mi lugar de pesca. Gracias.',
+      fr: 'Cela devrait les éloigner de mon coin de pêche. Merci.',
+      ro: 'Asta ar trebui să le țină departe de locul meu de pescuit. Mulțumesc.',
+      it: 'Ora staranno lontane dal mio posto di pesca. Grazie.',
+      nl: 'Nu blijven ze hopelijk weg van mijn visplek. Bedankt.',
+      vi: 'Giờ chúng sẽ tránh xa chỗ câu của tôi. Cảm ơn bạn.',
+      hu: 'Ez távol tartja őket a horgászhelyemtől. Köszönöm.',
+      cs: 'To by je mělo odehnat od mého rybářského místa. Děkuji.',
+      pl: 'To powinno trzymać je z dala od mojego łowiska. Dziękuję.'
     }
   },
   5: {
     title: {
-      en: 'Moth Infestation'
+      en: 'Moth Infestation',
+      de: 'Mottenplage',
+      ru: 'Нашествие мотыльков',
+      zh: '飛蛾氾濫',
+      pt: 'Praga de mariposas',
+      es: 'Plaga de polillas',
+      fr: 'Invasion de papillons',
+      ro: 'Invazie de molii',
+      it: 'Infestazione di falene',
+      nl: 'Mottenplaag',
+      vi: 'Bướm đêm tràn lan',
+      hu: 'Molylepke-invázió',
+      cs: 'Zamoření můrami',
+      pl: 'Plaga ciem'
     },
     offer: {
-      en: 'The giant moth population nearby has grown out of control. They swarm my lanterns and make it impossible to fish after dusk. Will you force them back?'
+      en: 'The giant moth population nearby has grown out of control. They swarm my lanterns and make it impossible to fish after dusk. Will you force them back?',
+      de: 'Die riesigen Motten hier vermehren sich unkontrolliert. Sie umschwärmen meine Laternen, sodass ich nach Einbruch der Dunkelheit nicht fischen kann. Treibst du sie zurück?',
+      ru: 'Гигантских мотыльков стало слишком много. Они облепляют фонари, и после заката мне не порыбачить. Отгони их?',
+      zh: '附近的巨型飛蛾越來越多。牠們圍住我的燈籠，天黑後根本沒辦法釣魚。能把牠們趕走嗎？',
+      pt: 'A população de mariposas gigantes saiu do controle. Elas rodeiam minhas lanternas e me impedem de pescar depois do anoitecer. Você pode afastá-las?',
+      es: 'Hay demasiadas polillas gigantes por aquí. Rodean mis faroles y no me dejan pescar después del anochecer. ¿Puedes hacerlas retroceder?',
+      fr: 'Les papillons géants sont devenus trop nombreux. Ils envahissent mes lanternes et m’empêchent de pêcher après la tombée de la nuit. Tu peux les repousser ?',
+      ro: 'Sunt prea multe molii uriașe prin apropiere. Se adună la felinarele mele și nu pot pescui după apus. Le alungi?',
+      it: 'Le falene giganti qui vicino sono troppe. Sciamano attorno alle mie lanterne e dopo il tramonto non riesco più a pescare. Puoi scacciarle?',
+      nl: 'Er zijn hier veel te veel reuzenmotten. Ze zwermen rond mijn lantaarns, waardoor ik na zonsondergang niet kan vissen. Jaag je ze weg?',
+      vi: 'Bướm đêm khổng lồ gần đây nhiều quá. Chúng bu kín đèn lồng, khiến tôi không thể câu cá sau hoàng hôn. Đuổi chúng đi giúp tôi nhé?',
+      hu: 'Túl sok az óriás molylepke errefelé. A lámpásaim körül nyüzsögnek, és napnyugta után lehetetlen horgászni. Elűznéd őket?',
+      cs: 'Obří můry se tu přemnožily. Rojí se kolem mých luceren a po setmění nemohu rybařit. Zaženeš je?',
+      pl: 'W pobliżu namnożyło się zbyt wiele olbrzymich ciem. Roją się przy moich latarniach i nie mogę łowić po zmroku. Przepędzisz je?'
     },
     complete: {
-      en: 'The road should be safe again. Thank you.'
+      en: 'The road should be safe again. Thank you.',
+      de: 'Der Weg sollte wieder sicher sein. Danke.',
+      ru: 'Теперь дорога снова безопасна. Спасибо.',
+      zh: '這條路應該又安全了。謝謝你。',
+      pt: 'A estrada deve estar segura de novo. Obrigado.',
+      es: 'El camino debería volver a ser seguro. Gracias.',
+      fr: 'La route devrait être sûre à nouveau. Merci.',
+      ro: 'Drumul ar trebui să fie din nou sigur. Mulțumesc.',
+      it: 'La strada dovrebbe essere di nuovo sicura. Grazie.',
+      nl: 'De weg is nu weer veilig. Bedankt.',
+      vi: 'Con đường lại an toàn rồi. Cảm ơn bạn.',
+      hu: 'Az út újra biztonságos. Köszönöm.',
+      cs: 'Cesta by měla být zase bezpečná. Děkuji.',
+      pl: 'Droga powinna znów być bezpieczna. Dziękuję.'
     }
   },
   6: {
     title: {
-      en: 'Trouble in the Stable'
+      en: 'Trouble in the Stable',
+      de: 'Ärger im Stall',
+      ru: 'Беда в конюшне',
+      zh: '馬廄之患',
+      pt: 'Problemas no estábulo',
+      es: 'Problemas en el establo',
+      fr: 'Trouble à l’écurie',
+      ro: 'Necazuri la grajd',
+      it: 'Guai nella stalla',
+      nl: 'Onrust in de stal',
+      vi: 'Rắc rối ở chuồng ngựa',
+      hu: 'Baj az istállóban',
+      cs: 'Potíže ve stáji',
+      pl: 'Kłopoty w stajni'
     },
     offer: {
-      en: 'Those grubs have burrowed beneath my stable again. The small ones spoil the feed, and the big ones frighten the horses half to death. Will you clear them out before they bring the whole floor down?'
+      en: 'Those grubs have burrowed beneath my stable again. The small ones spoil the feed, and the big ones frighten the horses half to death. Will you clear them out before they bring the whole floor down?',
+      de: 'Diese Maden haben sich wieder unter meinem Stall eingegraben. Die kleinen verderben das Futter, die großen erschrecken die Pferde zu Tode. Vertreibst du sie, bevor der Boden einstürzt?',
+      ru: 'Личинки опять зарылись под конюшней. Мелкие портят корм, а крупные пугают лошадей. Избавишься от них, пока пол не провалился?',
+      zh: '那些幼蟲又鑽到馬廄底下了。小的糟蹋飼料，大的嚇壞馬匹。趁地板還沒塌，幫我清理掉吧？',
+      pt: 'Aquelas larvas voltaram a cavar debaixo do meu estábulo. As pequenas estragam a ração, e as grandes assustam os cavalos. Você pode expulsá-las antes que o chão desabe?',
+      es: 'Esos gusanos han vuelto a excavar bajo mi establo. Los pequeños estropean el pienso y los grandes asustan a los caballos. ¿Los sacarás antes de que se hunda el suelo?',
+      fr: 'Ces larves ont encore creusé sous mon écurie. Les petites gâtent le fourrage et les grosses effraient les chevaux. Tu peux les chasser avant que le sol ne cède ?',
+      ro: 'Larvele au săpat iar sub grajdul meu. Cele mici strică nutrețul, iar cele mari sperie caii de moarte. Le alungi înainte să se prăbușească podeaua?',
+      it: 'Quelle larve hanno scavato di nuovo sotto la stalla. Le piccole rovinano il mangime, le grandi spaventano i cavalli. Puoi eliminarle prima che crolli il pavimento?',
+      nl: 'Die larven hebben weer onder mijn stal gegraven. De kleintjes bederven het voer en de grote jagen de paarden schrik aan. Ruim je ze op voordat de vloer instort?',
+      vi: 'Lũ sâu non lại đào hang dưới chuồng ngựa. Con nhỏ phá thức ăn, con lớn khiến ngựa hoảng sợ. Dọn chúng đi trước khi sàn sập nhé?',
+      hu: 'A lárvák megint az istállóm alá fúrták magukat. A kicsik tönkreteszik a takarmányt, a nagyok halálra rémítik a lovakat. Kitisztítod őket, mielőtt beszakad a padló?',
+      cs: 'Ty larvy se mi zase zavrtaly pod stáj. Malé kazí krmivo a velké děsí koně k smrti. Vyženeš je, než se propadne celá podlaha?',
+      pl: 'Larwy znów zagnieździły się pod moją stajnią. Małe psują paszę, a duże śmiertelnie straszą konie. Usuniesz je, zanim cała podłoga się zapadnie?'
     },
     complete: {
-      en: 'Quiet at last. Perhaps the horses will actually sleep tonight. You have my thanks.'
+      en: 'Quiet at last. Perhaps the horses will actually sleep tonight. You have my thanks.',
+      de: 'Endlich Ruhe. Vielleicht können die Pferde heute Nacht schlafen. Vielen Dank.',
+      ru: 'Наконец-то тихо. Может, сегодня лошади выспятся. Спасибо тебе.',
+      zh: '終於安靜了。今晚馬兒也許能睡個好覺。謝謝你。',
+      pt: 'Finalmente, silêncio. Talvez os cavalos consigam dormir esta noite. Obrigado.',
+      es: 'Por fin hay silencio. Quizá los caballos duerman esta noche. Te lo agradezco.',
+      fr: 'Enfin le calme. Les chevaux dormiront peut-être cette nuit. Merci à toi.',
+      ro: 'În sfârșit e liniște. Poate că vor dormi și caii la noapte. Îți mulțumesc.',
+      it: 'Finalmente un po\' di quiete. Forse stanotte i cavalli dormiranno. Grazie.',
+      nl: 'Eindelijk rust. Misschien kunnen de paarden vannacht slapen. Bedankt.',
+      vi: 'Cuối cùng cũng yên tĩnh. Có lẽ tối nay ngựa sẽ ngủ ngon. Cảm ơn bạn.',
+      hu: 'Végre csend. Talán a lovak is tudnak aludni ma éjjel. Köszönöm.',
+      cs: 'Konečně klid. Snad se dnes v noci vyspí i koně. Děkuji ti.',
+      pl: 'Nareszcie cisza. Może konie dziś w nocy się wyśpią. Dziękuję.'
     }
   },
   7: {
     title: {
-      en: 'The Next Shipment'
+      en: 'The Next Shipment',
+      de: 'Die nächste Lieferung',
+      ru: 'Следующая поставка',
+      zh: '下一批貨',
+      pt: 'A próxima remessa',
+      es: 'El próximo envío',
+      fr: 'La prochaine livraison',
+      ro: 'Următorul transport',
+      it: 'La prossima spedizione',
+      nl: 'De volgende levering',
+      vi: 'Chuyến hàng tiếp theo',
+      hu: 'A következő szállítmány',
+      cs: 'Další zásilka',
+      pl: 'Następna dostawa'
     },
     offer: {
-      en: "While you were clearing the stable, a Vanguard requisition arrived. Quartermaster Isabel is waiting on feed for the army's pack animals. Tell her the stable is usable again and I can prepare the next shipment."
+      en: "While you were clearing the stable, a Vanguard requisition arrived. Quartermaster Isabel is waiting on feed for the army's pack animals. Tell her the stable is usable again and I can prepare the next shipment.",
+      de: 'Während du den Stall gesäubert hast, kam eine Anforderung der Vanguard. Quartiermeisterin Isabel wartet auf Futter für die Lasttiere der Armee. Sag ihr, dass der Stall wieder nutzbar ist und ich die nächste Lieferung vorbereiten kann.',
+      ru: 'Пока ты очищал конюшню, пришёл запрос от Vanguard. Интендант Isabel ждёт корм для армейских вьючных животных. Скажи ей, что конюшня снова работает, и я подготовлю поставку.',
+      zh: '你清理馬廄時，Vanguard 發來了徵用令。軍需官 Isabel 正等著給軍隊馱獸的飼料。告訴她馬廄能用了，我就準備下一批貨。',
+      pt: 'Enquanto você limpava o estábulo, chegou uma requisição da Vanguard. A intendente Isabel está esperando ração para os animais de carga do exército. Diga a ela que o estábulo já pode ser usado e eu poderei preparar a próxima remessa.',
+      es: 'Mientras limpiabas el establo, llegó una solicitud de la Vanguard. La intendente Isabel espera pienso para los animales de carga del ejército. Dile que el establo vuelve a estar en uso y podré preparar el próximo envío.',
+      fr: 'Pendant que tu nettoyais l’écurie, une réquisition de la Vanguard est arrivée. L’intendante Isabel attend du fourrage pour les bêtes de somme de l’armée. Dis-lui que l’écurie est à nouveau utilisable et je pourrai préparer la prochaine livraison.',
+      ro: 'Cât timp curățai grajdul, a sosit o cerere de la Vanguard. Intendenta Isabel așteaptă hrană pentru animalele de povară ale armatei. Spune-i că grajdul poate fi folosit din nou și că pot pregăti următorul transport.',
+      it: 'Mentre ripulivi la stalla, è arrivata una richiesta della Vanguard. La quartiermastra Isabel aspetta mangime per gli animali da soma dell\'esercito. Dille che la stalla è di nuovo utilizzabile e preparerò la prossima spedizione.',
+      nl: 'Terwijl jij de stal vrijmaakte, kwam er een verzoek van de Vanguard. Kwartiermeester Isabel wacht op voer voor de lastdieren van het leger. Vertel haar dat de stal weer bruikbaar is en dat ik de volgende levering kan klaarmaken.',
+      vi: 'Khi bạn dọn chuồng ngựa, Vanguard gửi lệnh trưng dụng. Quân nhu Isabel đang chờ thức ăn cho thú thồ của quân đội. Hãy báo với cô ấy chuồng ngựa đã dùng được để tôi chuẩn bị chuyến hàng mới.',
+      hu: 'Amíg az istállót tisztítottad, megérkezett a Vanguard megrendelése. Isabel szállásmester takarmányt vár a sereg teherhordó állatainak. Mondd el neki, hogy az istálló újra használható, és előkészíthetem a következő szállítmányt.',
+      cs: 'Zatímco jsi čistil stáj, dorazila žádost od Vanguard. Ubytovatelka Isabel čeká na krmivo pro soumary armády. Řekni jí, že stáj je opět použitelná a že mohu připravit další zásilku.',
+      pl: 'Gdy oczyszczałeś stajnię, nadeszło zamówienie od Vanguard. Kwatermistrz Isabel czeka na paszę dla zwierząt jucznych armii. Powiedz jej, że stajnia znów nadaje się do użytku i mogę przygotować następną dostawę.'
     },
     complete: {
-      en: "Good. I'll send for Eckhardt's shipment before the day is out."
+      en: "Good. I'll send for Eckhardt's shipment before the day is out.",
+      de: 'Gut. Ich schicke Eckhardts Lieferung noch heute los.',
+      ru: 'Хорошо. Я отправлю поставку Eckhardt ещё до конца дня.',
+      zh: '很好。今天結束前，我會把 Eckhardt 的貨送出去。',
+      pt: 'Ótimo. Vou enviar a remessa de Eckhardt ainda hoje.',
+      es: 'Bien. Enviaré el cargamento de Eckhardt antes de que acabe el día.',
+      fr: 'Bien. J’enverrai la livraison d’Eckhardt avant la fin de la journée.',
+      ro: 'Bine. Voi trimite transportul lui Eckhardt până la sfârșitul zilei.',
+      it: 'Bene. Spedirò la merce di Eckhardt entro oggi.',
+      nl: 'Goed. Ik stuur Eckhardts levering nog voor het einde van de dag.',
+      vi: 'Tốt. Tôi sẽ gửi hàng của Eckhardt trước khi hết ngày.',
+      hu: 'Jó. Még ma elküldöm Eckhardt szállítmányát.',
+      cs: 'Dobře. Eckhardtovu zásilku odešlu ještě dnes.',
+      pl: 'Dobrze. Wyślę dostawę dla Eckhardta jeszcze dziś.'
     }
   },
   8: {
     title: {
-      en: 'Ration Raiders'
+      en: 'Ration Raiders',
+      de: 'Räuber am Proviant',
+      ru: 'Расхитители запасов',
+      zh: '偷糧的狐狸',
+      pt: 'Ladrões de rações',
+      es: 'Ladrones de raciones',
+      fr: 'Voleurs de rations',
+      ro: 'Hoții de provizii',
+      it: 'Ladri di razioni',
+      nl: 'Voorraaddieven',
+      vi: 'Cáo cướp lương',
+      hu: 'Készletrablók',
+      cs: 'Zloději zásob',
+      pl: 'Rabusie zapasów'
     },
     offer: {
-      en: 'Foxes have learned where we keep the dried meat. They tear into the sacks before my workers can load them, and the larger ones no longer run when approached. Will you drive them away?'
+      en: 'Foxes have learned where we keep the dried meat. They tear into the sacks before my workers can load them, and the larger ones no longer run when approached. Will you drive them away?',
+      de: 'Die Füchse haben unser Trockenfleisch entdeckt. Sie zerreißen die Säcke, bevor meine Leute sie verladen können. Die größeren fliehen nicht einmal mehr. Vertreibst du sie?',
+      ru: 'Лисы прознали, где мы храним вяленое мясо. Они рвут мешки ещё до погрузки, а крупные уже не боятся людей. Прогони их!',
+      zh: '狐狸發現了我們存放肉乾的地方。工人還沒裝車，牠們就咬破了袋子。那些大狐狸甚至不再怕人。能把牠們趕走嗎？',
+      pt: 'As raposas descobriram onde guardamos a carne seca. Elas rasgam os sacos antes que meus trabalhadores possam carregá-los, e as maiores já nem fogem. Você pode afugentá-las?',
+      es: 'Los zorros han descubierto dónde guardamos la carne seca. Rompen los sacos antes de que mis trabajadores los carguen, y los más grandes ya ni huyen. ¿Los ahuyentas?',
+      fr: 'Les renards ont trouvé notre viande séchée. Ils déchirent les sacs avant que mes ouvriers puissent les charger, et les plus gros ne fuient même plus. Tu peux les chasser ?',
+      ro: 'Vulpile au aflat unde ținem carnea uscată. Rup sacii înainte ca oamenii mei să îi încarce, iar cele mari nici nu mai fug de noi. Le alungi?',
+      it: 'Le volpi hanno scoperto dove teniamo la carne secca. Strappano i sacchi prima che gli operai li carichino, e quelle più grandi non scappano neppure più. Puoi scacciarle?',
+      nl: 'De vossen weten waar we het gedroogde vlees bewaren. Ze scheuren de zakken open voordat mijn mensen ze kunnen laden, en de grote vluchten niet eens meer. Jaag je ze weg?',
+      vi: 'Lũ cáo đã tìm ra kho thịt khô. Chúng xé bao trước khi công nhân chất hàng, còn lũ lớn chẳng sợ người nữa. Đuổi chúng đi giúp tôi nhé?',
+      hu: 'A rókák megtalálták a szárított húst. Feltépik a zsákokat, mielőtt a munkásaim felrakhatnák őket, a nagyobbak pedig már el sem futnak. Elűznéd őket?',
+      cs: 'Lišky zjistily, kde skladujeme sušené maso. Trhají pytle dřív, než je mí lidé naloží, a ty větší už před námi ani neutíkají. Zaženeš je?',
+      pl: 'Lisy odkryły, gdzie trzymamy suszone mięso. Rozrywają worki, zanim moi ludzie zdążą je załadować, a te większe nawet już nie uciekają. Przepędzisz je?'
     },
     complete: {
-      en: 'The remaining stores are intact. That is one less shortage for the patrols to endure.'
+      en: 'The remaining stores are intact. That is one less shortage for the patrols to endure.',
+      de: 'Die restlichen Vorräte sind unversehrt. Eine Sorge weniger für die Patrouillen.',
+      ru: 'Остальные запасы целы. Патрулям будет легче.',
+      zh: '剩下的物資保住了。巡邏隊總算少了一樁缺糧的煩惱。',
+      pt: 'O restante das provisões está intacto. É uma preocupação a menos para as patrulhas.',
+      es: 'Las provisiones restantes están intactas. Una escasez menos para las patrullas.',
+      fr: 'Les réserves restantes sont intactes. Une pénurie de moins pour les patrouilles.',
+      ro: 'Restul proviziilor sunt intacte. Patrulele vor avea cu o lipsă mai puțin de îndurat.',
+      it: 'Le scorte rimaste sono intatte. Una carenza in meno per le pattuglie.',
+      nl: 'De rest van de voorraad is intact. De patrouilles hebben één tekort minder.',
+      vi: 'Số lương thực còn lại đã an toàn. Đội tuần tra bớt được một nỗi lo thiếu ăn.',
+      hu: 'A többi készlet sértetlen. Egy gonddal kevesebb jut az őrjáratoknak.',
+      cs: 'Zbylé zásoby jsou v pořádku. Hlídky budou mít o jeden nedostatek méně.',
+      pl: 'Pozostałe zapasy są całe. Patrole będą miały jeden niedobór mniej.'
     }
   },
   9: {
     title: {
-      en: 'Wings over the Stockyard'
+      en: 'Wings over the Stockyard',
+      de: 'Flügel über dem Lager',
+      ru: 'Крылья над складом',
+      zh: '貨場上空的翅膀',
+      pt: 'Asas sobre o depósito',
+      es: 'Alas sobre el almacén',
+      fr: 'Des ailes sur l’entrepôt',
+      ro: 'Aripi deasupra depozitului',
+      it: 'Ali sul deposito',
+      nl: 'Vleugels boven de opslag',
+      vi: 'Cánh bướm trên bãi hàng',
+      hu: 'Szárnyak a raktár felett',
+      cs: 'Křídla nad skladem',
+      pl: 'Skrzydła nad magazynem'
     },
     offer: {
-      en: 'Giant moths are nesting in the stockyard awnings. Their dust gets into the food and bandages, and the workers refuse to load carts beneath them. Will you clear out the swarm?'
+      en: 'Giant moths are nesting in the stockyard awnings. Their dust gets into the food and bandages, and the workers refuse to load carts beneath them. Will you clear out the swarm?',
+      de: 'Riesenmotten nisten unter den Vordächern des Vorratslagers. Ihr Staub gerät in Nahrung und Verbände, und die Arbeiter weigern sich, darunter Karren zu beladen. Vertreibst du den Schwarm?',
+      ru: 'Гигантские мотыльки свили гнёзда под навесами склада. Их пыль попадает в еду и бинты, а рабочие боятся грузить телеги. Избавишься от них?',
+      zh: '巨型飛蛾在貨場的棚頂築巢。蛾粉落進食物和繃帶裡，工人也不敢在下面裝車。能清理掉牠們嗎？',
+      pt: 'Mariposas gigantes fizeram ninhos nos toldos do depósito. O pó delas contamina a comida e as bandagens, e os trabalhadores se recusam a carregar as carroças debaixo delas. Você pode afastar o enxame?',
+      es: 'Las polillas gigantes anidan bajo los toldos del almacén. Su polvo contamina la comida y las vendas, y los trabajadores no quieren cargar carros debajo de ellas. ¿Eliminas el enjambre?',
+      fr: 'Des papillons géants nichent sous les auvents de l’entrepôt. Leur poussière souille la nourriture et les bandages, et les ouvriers refusent de charger les chariots dessous. Tu peux disperser l’essaim ?',
+      ro: 'Moliile uriașe și-au făcut cuib în copertinele depozitului. Praful lor ajunge în hrană și în bandaje, iar muncitorii refuză să încarce căruțele sub ele. Alungi roiul?',
+      it: 'Le falene giganti nidificano sotto le tettoie del deposito. La loro polvere finisce nel cibo e nelle bende, e gli operai si rifiutano di caricare i carri. Puoi eliminarle?',
+      nl: 'Reuzenmotten nestelen in de luifels van de opslag. Hun stof komt in het eten en het verband, en de arbeiders willen er geen karren laden. Ruim je de zwerm op?',
+      vi: 'Bướm đêm khổng lồ làm tổ dưới mái che bãi hàng. Bụi cánh rơi vào thức ăn và băng gạc, công nhân không dám chất xe. Dọn sạch chúng nhé?',
+      hu: 'Óriás molylepkék fészkelnek a raktár ponyvái alatt. A poruk az ételbe és a kötszerekbe jut, a munkások pedig nem merik ott megrakni a szekereket. Megszabadítasz minket a rajtól?',
+      cs: 'Obří můry hnízdí pod přístřešky skladu. Jejich prach padá do jídla a obvazů a dělníci pod nimi odmítají nakládat vozy. Zbavíš nás toho roje?',
+      pl: 'Olbrzymie ćmy gniazdują pod zadaszeniami magazynu. Ich pył dostaje się do jedzenia i bandaży, a robotnicy nie chcą pod nimi ładować wozów. Usuniesz rój?'
     },
     complete: {
-      en: 'The stockyard is usable again. The next patrol will leave properly supplied because of you.'
+      en: 'The stockyard is usable again. The next patrol will leave properly supplied because of you.',
+      de: 'Das Lager ist wieder nutzbar. Dank dir zieht die nächste Patrouille gut versorgt los.',
+      ru: 'Склад снова работает. Благодаря тебе следующий патруль получит все припасы.',
+      zh: '貨場又能用了。多虧你，下一隊巡邏兵能帶齊補給。',
+      pt: 'O depósito já pode ser usado. Graças a você, a próxima patrulha sairá bem abastecida.',
+      es: 'El almacén vuelve a estar en uso. Gracias a ti, la próxima patrulla partirá bien abastecida.',
+      fr: 'L’entrepôt est à nouveau utilisable. Grâce à toi, la prochaine patrouille partira bien équipée.',
+      ro: 'Depozitul poate fi folosit din nou. Datorită ție, următoarea patrulă va pleca bine aprovizionată.',
+      it: 'Il deposito è di nuovo utilizzabile. Grazie a te, la prossima pattuglia partirà ben rifornita.',
+      nl: 'De opslag is weer bruikbaar. Dankzij jou vertrekt de volgende patrouille goed bevoorraad.',
+      vi: 'Bãi hàng lại dùng được. Nhờ bạn, đội tuần tra tới sẽ có đủ tiếp tế.',
+      hu: 'A raktár újra használható. Neked köszönhetően a következő őrjárat jól felszerelve indulhat.',
+      cs: 'Sklad je znovu použitelný. Díky tobě vyrazí další hlídka dobře zásobená.',
+      pl: 'Magazyn znów nadaje się do użytku. Dzięki tobie następny patrol wyruszy dobrze zaopatrzony.'
     }
   },
   10: {
     title: {
-      en: 'No Place to Camp'
+      en: 'No Place to Camp',
+      de: 'Kein Platz zum Zelten',
+      ru: 'Негде разбить лагерь',
+      zh: '無處紮營',
+      pt: 'Sem lugar para acampar',
+      es: 'Sin lugar donde acampar',
+      fr: 'Plus de place pour camper',
+      ro: 'Fără loc de campare',
+      it: 'Niente posto per accamparsi',
+      nl: 'Geen plek om te kamperen',
+      vi: 'Không chỗ cắm trại',
+      hu: 'Nincs hol táborozni',
+      cs: 'Není kde tábořit',
+      pl: 'Nie ma gdzie obozować'
     },
     offer: {
-      en: "I used to camp outside the city whenever I could, but bandits have taken over the grounds. I won't risk going back while they're there. Will you clear them out so I can leave these walls again?"
+      en: "I used to camp outside the city whenever I could, but bandits have taken over the grounds. I won't risk going back while they're there. Will you clear them out so I can leave these walls again?",
+      de: 'Früher habe ich oft vor der Stadt gezeltet, doch Banditen haben den Platz besetzt. Solange sie dort sind, wage ich mich nicht zurück. Vertreibst du sie, damit ich die Stadt wieder verlassen kann?',
+      ru: 'Раньше я часто ночевал за городом, но теперь мой лагерь заняли бандиты. Я не вернусь туда, пока они там. Прогони их, чтобы я снова мог уйти за стены!',
+      zh: '以前我常在城外露營，可營地被強盜佔了。他們不走，我可不敢回去。能趕走他們，讓我再次走出城牆嗎？',
+      pt: 'Eu costumava acampar fora da cidade sempre que podia, mas os bandidos ocuparam o lugar. Não me arrisco a voltar enquanto eles estiverem lá. Você pode expulsá-los para que eu possa sair destas muralhas?',
+      es: 'Antes acampaba fuera de la ciudad siempre que podía, pero unos bandidos han tomado el lugar. No pienso volver mientras sigan allí. ¿Los expulsas para que pueda salir de estas murallas?',
+      fr: 'Je campais souvent hors de la ville, mais des bandits ont pris le terrain. Je n’y retournerai pas tant qu’ils y seront. Tu peux les chasser pour que je puisse enfin sortir de ces murs ?',
+      ro: 'Obișnuiam să campez în afara orașului, dar bandiții au ocupat locul. Nu mă întorc cât timp sunt acolo. Îi alungi ca să pot ieși iar din oraș?',
+      it: 'Un tempo mi accampavo spesso fuori città, ma i banditi hanno occupato il posto. Finché sono lì, non oso tornare. Puoi scacciarli così potrò uscire di nuovo dalle mura?',
+      nl: 'Vroeger kampeerde ik vaak buiten de stad, maar bandieten hebben mijn kampeerplek ingenomen. Zolang ze daar zijn, ga ik niet terug. Jaag je ze weg zodat ik de stad weer uit kan?',
+      vi: 'Trước đây tôi thường cắm trại ngoài thành, nhưng bọn cướp đã chiếm chỗ ấy. Chúng còn đó thì tôi không dám quay lại. Giúp tôi đuổi chúng để được ra ngoài thành nhé?',
+      hu: 'Régen gyakran táboroztam a városon kívül, de banditák foglalták el a helyet. Amíg ott vannak, nem merek visszamenni. Elűznéd őket, hogy újra elhagyhassam a falakat?',
+      cs: 'Dřív jsem rád tábořil za městem, ale tábořiště obsadili bandité. Dokud tam jsou, neodvážím se vrátit. Vyženeš je, abych mohl zase za hradby?',
+      pl: 'Kiedyś często obozowałem poza miastem, ale bandyci zajęli to miejsce. Nie wrócę tam, dopóki są w pobliżu. Przepędzisz ich, żebym mógł znów wyjść za mury?'
     },
     complete: {
-      en: 'Maybe I can finally spend a night beneath the stars again. Thank you.'
+      en: 'Maybe I can finally spend a night beneath the stars again. Thank you.',
+      de: 'Vielleicht kann ich endlich wieder unter den Sternen schlafen. Danke.',
+      ru: 'Теперь я снова смогу ночевать под звёздами. Спасибо.',
+      zh: '我終於又能在星空下過夜了。謝謝你。',
+      pt: 'Talvez eu finalmente possa passar outra noite sob as estrelas. Obrigado.',
+      es: 'Quizá por fin pueda volver a dormir bajo las estrellas. Gracias.',
+      fr: 'Je pourrai peut-être enfin dormir sous les étoiles. Merci.',
+      ro: 'Poate că voi putea petrece din nou o noapte sub stele. Mulțumesc.',
+      it: 'Forse potrò finalmente passare un\'altra notte sotto le stelle. Grazie.',
+      nl: 'Misschien kan ik eindelijk weer een nacht onder de sterren doorbrengen. Bedankt.',
+      vi: 'Có lẽ cuối cùng tôi lại được ngủ dưới trời sao. Cảm ơn bạn.',
+      hu: 'Talán végre újra a csillagok alatt tölthetek egy éjszakát. Köszönöm.',
+      cs: 'Možná konečně zase strávím noc pod hvězdami. Děkuji.',
+      pl: 'Może wreszcie znów spędzę noc pod gwiazdami. Dziękuję.'
     }
   },
   11: {
     title: {
-      en: 'The Road Ahead'
+      en: 'The Road Ahead',
+      de: 'Der Weg vor uns',
+      ru: 'Путь вперёд',
+      zh: '前方的路',
+      pt: 'O caminho à frente',
+      es: 'El camino por delante',
+      fr: 'La route devant nous',
+      ro: 'Drumul înainte',
+      it: 'La strada avanti',
+      nl: 'De weg vooruit',
+      vi: 'Con đường phía trước',
+      hu: 'Az előttünk álló út',
+      cs: 'Cesta vpřed',
+      pl: 'Droga przed nami'
     },
     offer: {
-      en: "I've lingered here long enough. I want to travel onward and see what the future holds at Headless Landing, but the bandits threaten me whenever I try to pass through. Will you clear a path for me?"
+      en: "I've lingered here long enough. I want to travel onward and see what the future holds at Headless Landing, but the bandits threaten me whenever I try to pass through. Will you clear a path for me?",
+      de: 'Ich bin lange genug hier geblieben. Ich will weiterreisen und sehen, was mich in Headless Landing erwartet, doch Banditen bedrohen mich bei jedem Versuch. Machst du mir den Weg frei?',
+      ru: 'Пора мне идти дальше. Хочу узнать, что ждёт меня в Headless Landing, но бандиты перекрыли дорогу. Расчистишь мне путь?',
+      zh: '我在這裡待得夠久了。我想去 Headless Landing 看看未來有什麼在等我，可強盜擋住了路。能幫我開出一條路嗎？',
+      pt: 'Já fiquei aqui tempo demais. Quero continuar minha viagem e ver o que me espera em Headless Landing, mas os bandidos me ameaçam sempre que tento passar. Você pode abrir caminho para mim?',
+      es: 'Ya he pasado demasiado tiempo aquí. Quiero seguir viaje y ver qué me espera en Headless Landing, pero los bandidos me amenazan cada vez que intento pasar. ¿Me despejas el camino?',
+      fr: 'Je suis resté ici assez longtemps. Je veux poursuivre ma route et voir ce qui m’attend à Headless Landing, mais les bandits me menacent chaque fois que je tente de passer. Tu peux m’ouvrir la voie ?',
+      ro: 'Am stat destul aici. Vreau să merg mai departe, spre Headless Landing, și să văd ce îmi rezervă viitorul, dar bandiții mă amenință de fiecare dată când încerc să trec. Îmi eliberezi drumul?',
+      it: 'Sono rimasto qui abbastanza. Voglio proseguire e scoprire cosa mi attende a Headless Landing, ma i banditi mi bloccano il passaggio. Puoi liberarmi la strada?',
+      nl: 'Ik ben hier lang genoeg gebleven. Ik wil verder reizen en zien wat me in Headless Landing wacht, maar de bandieten bedreigen me telkens als ik langs wil. Maak je de weg voor me vrij?',
+      vi: 'Tôi ở đây đủ lâu rồi. Tôi muốn đi tiếp tới Headless Landing xem tương lai ra sao, nhưng bọn cướp chặn đường. Mở đường giúp tôi nhé?',
+      hu: 'Elég sokáig maradtam itt. Tovább akarok utazni Headless Landing felé, de a banditák megfenyegetnek, valahányszor át akarok kelni. Szabaddá tennéd az utat?',
+      cs: 'Zdržel jsem se tu dost dlouho. Chci pokračovat do Headless Landing a zjistit, co mě čeká, ale bandité mi vyhrožují, kdykoli se pokusím projít. Uvolníš mi cestu?',
+      pl: 'Zasiedziałem się tu. Chcę ruszyć dalej, do Headless Landing, i zobaczyć, co przyniesie przyszłość, ale bandyci grożą mi za każdym razem, gdy próbuję przejść. Oczyścisz mi drogę?'
     },
     complete: {
-      en: 'At last, the road ahead is open. It is time I stopped looking back and moved on.'
+      en: 'At last, the road ahead is open. It is time I stopped looking back and moved on.',
+      de: 'Endlich ist der Weg frei. Es ist Zeit, die Vergangenheit hinter mir zu lassen und weiterzuziehen.',
+      ru: 'Наконец дорога свободна. Пора перестать оглядываться и идти вперёд.',
+      zh: '前方的路終於通了。該放下過去，繼續前進了。',
+      pt: 'Finalmente, o caminho está livre. É hora de deixar o passado para trás e seguir em frente.',
+      es: 'Por fin está libre el camino. Es hora de dejar atrás el pasado y seguir adelante.',
+      fr: 'Enfin, la route est libre. Il est temps de cesser de regarder en arrière et d’avancer.',
+      ro: 'În sfârșit, drumul e liber. E timpul să las trecutul în urmă și să merg mai departe.',
+      it: 'Finalmente la strada è libera. È ora di smettere di guardare indietro e andare avanti.',
+      nl: 'Eindelijk is de weg vrij. Tijd om het verleden achter me te laten en verder te gaan.',
+      vi: 'Cuối cùng đường cũng thông. Đã đến lúc thôi ngoái lại và bước tiếp.',
+      hu: 'Végre szabad az út. Ideje magam mögött hagyni a múltat és továbbindulni.',
+      cs: 'Konečně je cesta volná. Je čas nechat minulost za sebou a jít dál.',
+      pl: 'Wreszcie droga jest wolna. Czas zostawić przeszłość za sobą i ruszyć dalej.'
     }
   },
   12: {
     title: {
-      en: 'Camper Liam'
+      en: 'Camper Liam',
+      de: 'Camper Liam',
+      ru: 'Путник Liam',
+      zh: '露營者 Liam',
+      pt: 'O campista Liam',
+      es: 'El campista Liam',
+      fr: 'Le campeur Liam',
+      ro: 'Camperul Liam',
+      it: 'Il campeggiatore Liam',
+      nl: 'Kampeerder Liam',
+      vi: 'Người cắm trại Liam',
+      hu: 'Liam, a táborozó',
+      cs: 'Táborník Liam',
+      pl: 'Obozowicz Liam'
     },
     offer: {
-      en: 'The stockyard is clear, but patrols report that bandits have seized a campsite outside the city. Camper Liam knows those grounds better than anyone. Find him and see what help he needs.'
+      en: 'The stockyard is clear, but patrols report that bandits have seized a campsite outside the city. Camper Liam knows those grounds better than anyone. Find him and see what help he needs.',
+      de: 'Das Vorratslager ist frei, doch Patrouillen melden, dass Banditen einen Zeltplatz vor der Stadt besetzt haben. Camper Liam kennt ihn besser als jeder andere. Finde ihn und sieh, welche Hilfe er braucht.',
+      ru: 'Склад очищен, но патрули сообщают, что бандиты захватили лагерь за городом. Liam знает это место лучше всех. Найди его и узнай, чем помочь.',
+      zh: '貨場清理好了，但巡邏隊報告說，強盜佔了城外的一處營地。Liam 最熟悉那裡。去找他，看看他需要什麼幫助。',
+      pt: 'O depósito está livre, mas as patrulhas dizem que bandidos ocuparam um acampamento fora da cidade. O campista Liam conhece aquele lugar melhor do que ninguém. Procure por ele e veja de que ajuda precisa.',
+      es: 'El almacén está despejado, pero las patrullas dicen que unos bandidos han ocupado un campamento fuera de la ciudad. El campista Liam conoce el lugar mejor que nadie. Búscalo y averigua qué necesita.',
+      fr: 'L’entrepôt est dégagé, mais les patrouilles signalent que des bandits ont pris un campement hors de la ville. Le campeur Liam connaît ces lieux mieux que quiconque. Trouve-le et vois ce dont il a besoin.',
+      ro: 'Depozitul e liber, dar patrulele spun că bandiții au ocupat un loc de campare din afara orașului. Liam cunoaște acel loc mai bine decât oricine. Găsește-l și vezi de ce ajutor are nevoie.',
+      it: 'Il deposito è libero, ma le pattuglie dicono che i banditi hanno preso un accampamento fuori città. Liam conosce quel posto meglio di chiunque altro. Trovalo e chiedigli come aiutarlo.',
+      nl: 'De opslag is vrij, maar volgens de patrouilles hebben bandieten een kampeerplek buiten de stad bezet. Kampeerder Liam kent die plek als geen ander. Zoek hem op en vraag welke hulp hij nodig heeft.',
+      vi: 'Bãi hàng đã sạch, nhưng đội tuần tra báo bọn cướp chiếm một khu cắm trại ngoài thành. Liam hiểu nơi đó hơn ai hết. Tìm anh ấy xem cần giúp gì.',
+      hu: 'A raktár tiszta, de az őrjáratok szerint banditák foglaltak el egy táborhelyet a városon kívül. Liam mindenkinél jobban ismeri azt a helyet. Keresd meg, és tudd meg, miben segíthetsz neki.',
+      cs: 'Sklad je vyčištěný, ale hlídky hlásí, že bandité obsadili tábořiště za městem. Liam to místo zná lépe než kdokoli jiný. Najdi ho a zjisti, jakou pomoc potřebuje.',
+      pl: 'Magazyn jest oczyszczony, ale patrole donoszą, że bandyci zajęli obozowisko za miastem. Liam zna to miejsce lepiej niż ktokolwiek. Znajdź go i zobacz, jakiej pomocy potrzebuje.'
     },
     complete: {
-      en: 'Isabel sent you? Good. I could use some help reclaiming my campsite.'
+      en: 'Isabel sent you? Good. I could use some help reclaiming my campsite.',
+      de: 'Isabel schickt dich? Gut. Ich könnte Hilfe gebrauchen, um meinen Zeltplatz zurückzuerobern.',
+      ru: 'Тебя прислала Isabel? Хорошо. Помоги мне вернуть лагерь.',
+      zh: '是 Isabel 派你來的？太好了。幫我奪回營地吧。',
+      pt: 'Foi Isabel que enviou você? Ótimo. Preciso de ajuda para recuperar meu acampamento.',
+      es: '¿Te envía Isabel? Bien. Me vendría bien ayuda para recuperar mi campamento.',
+      fr: 'Isabel t’envoie ? Bien. J’aurais besoin d’aide pour reprendre mon campement.',
+      ro: 'Te-a trimis Isabel? Bine. Am nevoie de ajutor ca să-mi recuperez locul de campare.',
+      it: 'Ti manda Isabel? Bene. Mi serve aiuto per riprendere il mio accampamento.',
+      nl: 'Isabel heeft je gestuurd? Mooi. Ik kan hulp gebruiken om mijn kampeerplek terug te krijgen.',
+      vi: 'Isabel cử bạn tới à? Tốt quá. Giúp tôi giành lại chỗ cắm trại nhé.',
+      hu: 'Isabel küldött? Jó. Segítségre van szükségem, hogy visszaszerezzem a táborhelyemet.',
+      cs: 'Poslala tě Isabel? Dobře. Hodila by se mi pomoc se získáním tábořiště zpět.',
+      pl: 'Przysłała cię Isabel? Dobrze. Przyda mi się pomoc w odzyskaniu obozowiska.'
     }
   },
   13: {
     title: {
-      en: 'Traveler Alpheos'
+      en: 'Traveler Alpheos',
+      de: 'Reisender Alpheos',
+      ru: 'Путешественник Alpheos',
+      zh: '旅人 Alpheos',
+      pt: 'O viajante Alpheos',
+      es: 'El viajero Alpheos',
+      fr: 'Le voyageur Alpheos',
+      ro: 'Călătorul Alpheos',
+      it: 'Il viaggiatore Alpheos',
+      nl: 'Reiziger Alpheos',
+      vi: 'Lữ khách Alpheos',
+      hu: 'Alpheos, az utazó',
+      cs: 'Poutník Alpheos',
+      pl: 'Podróżnik Alpheos'
     },
     offer: {
-      en: 'The road is safer now, but bandits have taken over a camp nearby. Traveler Alpheos has been watching their movements. Find him and see what he knows.'
+      en: 'The road is safer now, but bandits have taken over a camp nearby. Traveler Alpheos has been watching their movements. Find him and see what he knows.',
+      de: 'Der Weg ist jetzt sicherer, doch Banditen haben ein Lager in der Nähe besetzt. Reisender Alpheos beobachtet sie. Finde ihn und frag, was er weiß.',
+      ru: 'На дороге стало безопаснее, но бандиты заняли соседний лагерь. Alpheos следил за ними. Найди его и узнай, что ему известно.',
+      zh: '路上安全了些，但強盜佔據了附近的營地。旅人 Alpheos 一直在觀察他們。找到他，問問他知道些什麼。',
+      pt: 'O caminho está mais seguro, mas bandidos ocuparam um acampamento próximo. O viajante Alpheos vem observando os movimentos deles. Procure por ele e veja o que sabe.',
+      es: 'El camino es más seguro, pero unos bandidos han tomado un campamento cercano. El viajero Alpheos ha estado observándolos. Búscalo y averigua qué sabe.',
+      fr: 'La route est plus sûre, mais des bandits ont pris un camp voisin. Le voyageur Alpheos observe leurs mouvements. Trouve-le et vois ce qu’il sait.',
+      ro: 'Drumul e mai sigur acum, dar bandiții au ocupat o tabără din apropiere. Călătorul Alpheos le-a urmărit mișcările. Găsește-l și vezi ce știe.',
+      it: 'La strada è più sicura, ma i banditi hanno preso un campo qui vicino. Il viaggiatore Alpheos li tiene d\'occhio. Trovalo e scopri cosa sa.',
+      nl: 'De weg is nu veiliger, maar bandieten hebben een kamp in de buurt ingenomen. Reiziger Alpheos houdt hen in de gaten. Zoek hem op en vraag wat hij weet.',
+      vi: 'Con đường đã an toàn hơn, nhưng bọn cướp chiếm một trại gần đây. Lữ khách Alpheos đã theo dõi chúng. Hãy tìm anh ấy và hỏi xem biết được gì.',
+      hu: 'Az út biztonságosabb, de a banditák elfoglaltak egy közeli tábort. Alpheos figyelte a mozgásukat. Keresd meg, és kérdezd meg, mit tud.',
+      cs: 'Cesta je teď bezpečnější, ale bandité obsadili nedaleký tábor. Poutník Alpheos sledoval jejich pohyb. Najdi ho a zjisti, co ví.',
+      pl: 'Droga jest teraz bezpieczniejsza, ale bandyci zajęli pobliski obóz. Podróżnik Alpheos obserwował ich ruchy. Znajdź go i zapytaj, co wie.'
     },
     complete: {
-      en: 'Konrad sent you? Then perhaps you can help me clear the road ahead.'
+      en: 'Konrad sent you? Then perhaps you can help me clear the road ahead.',
+      de: 'Konrad schickt dich? Dann kannst du mir vielleicht helfen, den Weg freizumachen.',
+      ru: 'Тебя прислал Konrad? Тогда помоги мне расчистить дорогу.',
+      zh: '是 Konrad 讓你來的？那就幫我清出前面的路吧。',
+      pt: 'Foi Konrad que enviou você? Talvez possa me ajudar a desobstruir o caminho.',
+      es: '¿Te envía Konrad? Quizá puedas ayudarme a despejar el camino.',
+      fr: 'Konrad t’envoie ? Alors tu peux peut-être m’aider à dégager la route.',
+      ro: 'Te-a trimis Konrad? Atunci poate mă ajuți să eliberez drumul.',
+      it: 'Ti manda Konrad? Allora forse puoi aiutarmi a liberare la strada.',
+      nl: 'Heeft Konrad je gestuurd? Dan kun je me misschien helpen de weg vrij te maken.',
+      vi: 'Konrad cử bạn tới à? Vậy giúp tôi dọn đường phía trước nhé.',
+      hu: 'Konrad küldött? Akkor talán segíthetsz megtisztítani az előttünk álló utat.',
+      cs: 'Poslal tě Konrad? Pak mi možná pomůžeš uvolnit cestu.',
+      pl: 'Przysłał cię Konrad? Może więc pomożesz mi oczyścić drogę.'
     }
   },
   14: {
     title: {
-      en: 'Alchemist Michael'
+      en: 'Alchemist Michael',
+      de: 'Alchemist Michael',
+      ru: 'Алхимик Michael',
+      zh: '鍊金術士 Michael',
+      pt: 'O alquimista Michael',
+      es: 'El alquimista Michael',
+      fr: 'L’alchimiste Michael',
+      ro: 'Alchimistul Michael',
+      it: 'L\'alchimista Michael',
+      nl: 'Alchemist Michael',
+      vi: 'Nhà giả kim Michael',
+      hu: 'Michael, az alkimista',
+      cs: 'Alchymista Michael',
+      pl: 'Alchemik Michael'
     },
     offer: {
-      en: 'With the campsite safe again, there is someone else nearby who may need help. Alchemist Michael gathers ingredients in Guardstone Forest. Find him and see how he is faring.'
+      en: 'With the campsite safe again, there is someone else nearby who may need help. Alchemist Michael gathers ingredients in Guardstone Forest. Find him and see how he is faring.',
+      de: 'Jetzt, da der Zeltplatz wieder sicher ist, braucht vielleicht jemand anderes in der Nähe Hilfe. Alchemist Michael sammelt Zutaten im Guardstone Forest. Finde ihn und sieh nach ihm.',
+      ru: 'Лагерь снова безопасен, но поблизости помощь может понадобиться и другим. Алхимик Michael собирает ингредиенты в Guardstone Forest. Найди его.',
+      zh: '營地安全了，附近還有人可能需要幫助。鍊金術士 Michael 在 Guardstone Forest 採集材料。去看看他的情況。',
+      pt: 'Com o acampamento seguro de novo, pode haver mais alguém precisando de ajuda por perto. O alquimista Michael coleta ingredientes em Guardstone Forest. Procure por ele e veja como está.',
+      es: 'Ahora que el campamento vuelve a ser seguro, puede que alguien más necesite ayuda cerca. El alquimista Michael recoge ingredientes en Guardstone Forest. Búscalo y mira cómo le va.',
+      fr: 'Le campement est à nouveau sûr, mais quelqu’un d’autre a peut-être besoin d’aide près d’ici. L’alchimiste Michael récolte des ingrédients dans Guardstone Forest. Trouve-le et vois comment il va.',
+      ro: 'Acum că locul de campare e sigur, cineva din apropiere ar putea avea nevoie de ajutor. Alchimistul Michael adună ingrediente în Guardstone Forest. Găsește-l și vezi cum se descurcă.',
+      it: 'Ora che l\'accampamento è sicuro, qualcun altro qui vicino potrebbe aver bisogno di aiuto. L\'alchimista Michael raccoglie ingredienti nella Guardstone Forest. Trovalo e vedi come sta.',
+      nl: 'Nu de kampeerplek weer veilig is, kan iemand anders in de buurt hulp gebruiken. Alchemist Michael verzamelt ingrediënten in Guardstone Forest. Zoek hem op en vraag hoe het gaat.',
+      vi: 'Khu cắm trại lại an toàn, nhưng gần đây còn người có thể cần giúp. Nhà giả kim Michael thu thập nguyên liệu trong Guardstone Forest. Hãy tìm xem anh ấy ra sao.',
+      hu: 'Most, hogy a táborhely biztonságos, másnak is szüksége lehet segítségre a közelben. Michael alkimista Guardstone Forest erdejében gyűjt alapanyagokat. Keresd meg, és nézd meg, hogy boldogul.',
+      cs: 'Tábořiště je opět bezpečné, ale někdo další poblíž možná potřebuje pomoc. Alchymista Michael sbírá přísady v Guardstone Forest. Najdi ho a zjisti, jak se mu daří.',
+      pl: 'Obozowisko znów jest bezpieczne, ale ktoś inny w pobliżu może potrzebować pomocy. Alchemik Michael zbiera składniki w Guardstone Forest. Znajdź go i sprawdź, jak sobie radzi.'
     },
     complete: {
-      en: 'Liam sent you? Your timing is fortunate. The hogs here have made gathering ingredients nearly impossible.'
+      en: 'Liam sent you? Your timing is fortunate. The hogs here have made gathering ingredients nearly impossible.',
+      de: 'Liam schickt dich? Du kommst zur rechten Zeit. Wegen der Wildschweine kann ich hier kaum noch Zutaten sammeln.',
+      ru: 'Тебя прислал Liam? Как вовремя. Из-за кабанов я почти не могу собирать ингредиенты.',
+      zh: 'Liam 派你來的？來得正好。這裡的野豬讓我幾乎沒辦法採集材料。',
+      pt: 'Foi Liam que enviou você? Chegou na hora certa. Os javalis tornam quase impossível coletar ingredientes aqui.',
+      es: '¿Te envía Liam? Llegas justo a tiempo. Los jabalíes me impiden recoger ingredientes.',
+      fr: 'Liam t’envoie ? Tu tombes bien. À cause des sangliers, je ne peux presque plus récolter d’ingrédients.',
+      ro: 'Te-a trimis Liam? Ai venit la timp. Mistreții de aici aproape că nu mă lasă să adun ingrediente.',
+      it: 'Ti manda Liam? Arrivi al momento giusto. I cinghiali mi impediscono quasi del tutto di raccogliere ingredienti.',
+      nl: 'Heeft Liam je gestuurd? Je komt precies op tijd. Door de wilde zwijnen kan ik nauwelijks nog ingrediënten verzamelen.',
+      vi: 'Liam cử bạn tới à? Đúng lúc lắm. Lũ lợn rừng khiến tôi gần như không thể kiếm nguyên liệu.',
+      hu: 'Liam küldött? Épp jókor jöttél. A vaddisznók miatt alig tudok alapanyagokat gyűjteni.',
+      cs: 'Poslal tě Liam? Přicházíš právě včas. Kvůli divočákům tu téměř nemohu sbírat přísady.',
+      pl: 'Przysłał cię Liam? W samą porę. Przez dziki niemal nie mogę zbierać składników.'
     }
   },
   15: {
     title: {
-      en: 'Trampled Ingredients'
+      en: 'Trampled Ingredients',
+      de: 'Zertrampelte Zutaten',
+      ru: 'Растоптанные травы',
+      zh: '被踐踏的藥材',
+      pt: 'Ingredientes pisoteados',
+      es: 'Ingredientes pisoteados',
+      fr: 'Ingrédients piétinés',
+      ro: 'Ingrediente călcate în picioare',
+      it: 'Ingredienti calpestati',
+      nl: 'Vertrappelde ingrediënten',
+      vi: 'Nguyên liệu bị giẫm nát',
+      hu: 'Eltaposott alapanyagok',
+      cs: 'Pošlapané přísady',
+      pl: 'Zdeptane składniki'
     },
     offer: {
-      en: "I came to Guardstone Forest to gather mushrooms and herbs for my potions, but I don't know these woods well. The hogs keep charging me before I can collect anything. Will you thin their numbers?"
+      en: "I came to Guardstone Forest to gather mushrooms and herbs for my potions, but I don't know these woods well. The hogs keep charging me before I can collect anything. Will you thin their numbers?",
+      de: 'Ich bin in den Guardstone Forest gekommen, um Pilze und Kräuter für meine Tränke zu sammeln, aber ich kenne den Wald kaum. Die Wildschweine greifen mich an, bevor ich etwas pflücken kann. Dezimierst du sie?',
+      ru: 'Я пришёл в Guardstone Forest за грибами и травами для зелий, но плохо знаю эти места. Кабаны бросаются на меня, прежде чем я успеваю что-нибудь собрать. Уменьшишь их число?',
+      zh: '我來 Guardstone Forest 採蘑菇和草藥做藥水，卻不熟悉這片樹林。還沒採到東西，野豬就衝了過來。能幫我減少牠們的數量嗎？',
+      pt: 'Vim a Guardstone Forest colher cogumelos e ervas para minhas poções, mas não conheço bem esta floresta. Os javalis me atacam antes que eu consiga colher qualquer coisa. Você pode reduzir o número deles?',
+      es: 'Vine a Guardstone Forest a recoger setas y hierbas para mis pociones, pero no conozco bien el bosque. Los jabalíes me atacan antes de que pueda recoger nada. ¿Puedes reducir su número?',
+      fr: 'Je suis venu dans Guardstone Forest cueillir des champignons et des herbes pour mes potions, mais je connais mal ces bois. Les sangliers me chargent avant que je puisse ramasser quoi que ce soit. Tu peux réduire leur nombre ?',
+      ro: 'Am venit în Guardstone Forest să culeg ciuperci și ierburi pentru poțiuni, dar nu cunosc bine pădurea. Mistreții mă atacă înainte să pot aduna ceva. Le reduci numărul?',
+      it: 'Sono venuto nella Guardstone Forest a raccogliere funghi ed erbe per le pozioni, ma conosco poco questi boschi. I cinghiali mi caricano prima che riesca a prendere qualcosa. Puoi ridurne il numero?',
+      nl: 'Ik kwam naar Guardstone Forest om paddenstoelen en kruiden voor mijn drankjes te verzamelen, maar ik ken dit bos niet goed. De wilde zwijnen stormen steeds op me af. Kun je hun aantal verminderen?',
+      vi: 'Tôi tới Guardstone Forest hái nấm và thảo dược làm thuốc, nhưng chưa quen khu rừng. Lợn rừng cứ xông tới trước khi tôi hái được gì. Giúp tôi giảm bớt chúng nhé?',
+      hu: 'Guardstone Forest erdejébe jöttem gombát és gyógynövényeket gyűjteni a főzeteimhez, de nem ismerem jól az erdőt. A vaddisznók rám rontanak, mielőtt bármit összeszedhetnék. Megritkítanád őket?',
+      cs: 'Přišel jsem do Guardstone Forest sbírat houby a byliny do lektvarů, ale zdejší les dobře neznám. Divočáci na mě útočí dřív, než něco seberu. Zmenšíš jejich počet?',
+      pl: 'Przybyłem do Guardstone Forest po grzyby i zioła do eliksirów, ale słabo znam ten las. Dziki atakują mnie, zanim zdążę cokolwiek zebrać. Zmniejszysz ich liczbę?'
     },
     complete: {
-      en: 'That should give me enough room to gather what I need. My next batch of potions is thanks to you.'
+      en: 'That should give me enough room to gather what I need. My next batch of potions is thanks to you.',
+      de: 'Jetzt habe ich genug Platz, um zu sammeln. Meine nächste Ladung Tränke verdanke ich dir.',
+      ru: 'Теперь я смогу собрать всё необходимое. Следующая партия зелий — благодаря тебе.',
+      zh: '現在我能安心採集了。下一批藥水可多虧了你。',
+      pt: 'Agora tenho espaço para colher o que preciso. Devo a você meu próximo lote de poções.',
+      es: 'Ahora podré recoger lo que necesito. Te debo mi próxima tanda de pociones.',
+      fr: 'J’aurai maintenant assez de place pour récolter ce qu’il me faut. Je te dois ma prochaine fournée de potions.',
+      ro: 'Acum am loc să culeg ce-mi trebuie. Următoarea serie de poțiuni va fi datorită ție.',
+      it: 'Ora avrò spazio per raccogliere ciò che mi serve. La prossima partita di pozioni sarà merito tuo.',
+      nl: 'Nu heb ik ruimte om te verzamelen wat ik nodig heb. Mijn volgende lading drankjes heb ik aan jou te danken.',
+      vi: 'Giờ tôi có thể thu thập đủ nguyên liệu. Mẻ thuốc tới là nhờ bạn.',
+      hu: 'Így már összegyűjthetem, amire szükségem van. A következő adag főzetet neked köszönhetem.',
+      cs: 'Teď mám dost prostoru nasbírat, co potřebuji. Za další várku lektvarů vděčím tobě.',
+      pl: 'Teraz mogę zebrać to, czego potrzebuję. Następną partię eliksirów zawdzięczam tobie.'
     }
   },
   16: {
     title: {
-      en: 'Forester Rowan'
+      en: 'Forester Rowan',
+      de: 'Förster Rowan',
+      ru: 'Лесник Rowan',
+      zh: '護林人 Rowan',
+      pt: 'O guarda-florestal Rowan',
+      es: 'El guardabosques Rowan',
+      fr: 'Le forestier Rowan',
+      ro: 'Pădurarul Rowan',
+      it: 'Il guardaboschi Rowan',
+      nl: 'Boswachter Rowan',
+      vi: 'Kiểm lâm Rowan',
+      hu: 'Rowan, az erdész',
+      cs: 'Lesník Rowan',
+      pl: 'Leśniczy Rowan'
     },
     offer: {
-      en: 'The road is open, and my travels will soon take me beyond Guardstone Forest. Before you leave, find Forester Rowan in the woods. No one knows the forest or its troubles better.'
+      en: 'The road is open, and my travels will soon take me beyond Guardstone Forest. Before you leave, find Forester Rowan in the woods. No one knows the forest or its troubles better.',
+      de: 'Der Weg ist frei, und meine Reise führt mich bald über den Guardstone Forest hinaus. Bevor du gehst, finde Förster Rowan im Wald. Niemand kennt den Wald und seine Probleme besser.',
+      ru: 'Дорога свободна, и скоро я отправлюсь дальше Guardstone Forest. Прежде чем уйти, найди лесника Rowan. Никто не знает лес и его беды лучше него.',
+      zh: '道路通暢了，我也快要走出 Guardstone Forest。離開前，去林中找護林人 Rowan。沒人比他更了解這片森林及其麻煩。',
+      pt: 'O caminho está livre, e minha viagem logo vai me levar além de Guardstone Forest. Antes de partir, procure o guarda-florestal Rowan na floresta. Ninguém conhece melhor este lugar e seus problemas.',
+      es: 'El camino está despejado y pronto viajaré más allá de Guardstone Forest. Antes de irte, busca al guardabosques Rowan en el bosque. Nadie conoce mejor este lugar y sus problemas.',
+      fr: 'La route est libre et mon voyage me mènera bientôt au-delà de Guardstone Forest. Avant de partir, trouve le forestier Rowan dans les bois. Personne ne connaît mieux la forêt et ses problèmes.',
+      ro: 'Drumul e liber, iar călătoria mea mă va duce curând dincolo de Guardstone Forest. Înainte să pleci, caută-l în pădure pe pădurarul Rowan. Nimeni nu cunoaște pădurea și necazurile ei mai bine.',
+      it: 'La strada è libera e presto viaggerò oltre la Guardstone Forest. Prima di partire, trova il guardaboschi Rowan. Nessuno conosce meglio di lui la foresta e i suoi problemi.',
+      nl: 'De weg is vrij en binnenkort reis ik voorbij Guardstone Forest. Zoek voordat je vertrekt boswachter Rowan in het bos. Niemand kent het bos en zijn problemen beter.',
+      vi: 'Đường đã thông, tôi sắp đi qua Guardstone Forest. Trước khi rời đi, hãy tìm kiểm lâm Rowan trong rừng. Không ai hiểu khu rừng và những rắc rối ở đó hơn anh ấy.',
+      hu: 'Az út szabad, és hamarosan Guardstone Foresten túlra visz az utam. Indulás előtt keresd meg Rowant, az erdészt. Senki sem ismeri nála jobban az erdőt és a bajait.',
+      cs: 'Cesta je volná a brzy budu pokračovat za Guardstone Forest. Než odejdeš, najdi v lese lesníka Rowana. Nikdo nezná les a jeho potíže lépe.',
+      pl: 'Droga jest wolna, a moja podróż wkrótce poprowadzi mnie poza Guardstone Forest. Przed odejściem znajdź w lesie leśniczego Rowana. Nikt nie zna lepiej lasu i jego problemów.'
     },
     complete: {
-      en: 'Alpheos sent you? Good. I could use a capable hand with the hogs roaming nearby.'
+      en: 'Alpheos sent you? Good. I could use a capable hand with the hogs roaming nearby.',
+      de: 'Alpheos schickt dich? Gut. Bei den Wildschweinen hier könnte ich Hilfe gebrauchen.',
+      ru: 'Тебя прислал Alpheos? Хорошо. Помоги мне разобраться с местными кабанами.',
+      zh: 'Alpheos 派你來的？正好。幫我對付附近的野豬吧。',
+      pt: 'Foi Alpheos que enviou você? Ótimo. Preciso de ajuda com os javalis daqui perto.',
+      es: '¿Te envía Alpheos? Bien. Necesito ayuda con los jabalíes de aquí cerca.',
+      fr: 'Alpheos t’envoie ? Bien. J’aurais besoin d’aide avec les sangliers des environs.',
+      ro: 'Te-a trimis Alpheos? Bine. Mi-ar prinde bine ajutor cu mistreții din apropiere.',
+      it: 'Ti manda Alpheos? Bene. Mi serve una mano con i cinghiali qui vicino.',
+      nl: 'Heeft Alpheos je gestuurd? Goed. Ik kan hulp gebruiken bij de wilde zwijnen hier.',
+      vi: 'Alpheos cử bạn tới à? Tốt. Tôi cần người giúp xử lý lũ lợn rừng gần đây.',
+      hu: 'Alpheos küldött? Jó. Elkél egy ügyes kéz a környékbeli vaddisznók ellen.',
+      cs: 'Poslal tě Alpheos? Dobře. Pomoc s místními divočáky se mi hodí.',
+      pl: 'Przysłał cię Alpheos? Dobrze. Przyda mi się pomoc z dzikami w okolicy.'
     }
   },
   17: {
     title: {
-      en: 'Hogs Gone Wild'
+      en: 'Hogs Gone Wild',
+      de: 'Wilde Wildschweine',
+      ru: 'Одичавшие кабаны',
+      zh: '野豬成災',
+      pt: 'Javalis à solta',
+      es: 'Jabalíes desbocados',
+      fr: 'Sangliers en furie',
+      ro: 'Mistreți scăpați de sub control',
+      it: 'Cinghiali fuori controllo',
+      nl: 'Wilde zwijnen',
+      vi: 'Lợn rừng hoành hành',
+      hu: 'Elszaporodott vaddisznók',
+      cs: 'Přemnožení divočáci',
+      pl: 'Zdziczałe dziki'
     },
     offer: {
-      en: 'The hog population has grown out of control. They tear up young growth and crowd every other animal out of this part of the forest. Will you help me bring their numbers down?'
+      en: 'The hog population has grown out of control. They tear up young growth and crowd every other animal out of this part of the forest. Will you help me bring their numbers down?',
+      de: 'Die Wildschweine vermehren sich unkontrolliert. Sie wühlen junge Pflanzen um und verdrängen alle anderen Tiere aus diesem Teil des Waldes. Hilfst du mir, ihren Bestand zu verringern?',
+      ru: 'Кабанов стало слишком много. Они вытаптывают молодую поросль и вытесняют других зверей. Поможешь сократить стадо?',
+      zh: '野豬越來越多，毀掉幼苗，還把其他動物都擠出了這片森林。能幫我減少牠們的數量嗎？',
+      pt: 'A população de javalis saiu do controle. Eles arrancam as plantas novas e expulsam os outros animais desta parte da floresta. Você pode me ajudar a reduzir o número deles?',
+      es: 'Hay demasiados jabalíes. Arrasan los brotes y expulsan a los demás animales de esta parte del bosque. ¿Me ayudas a reducir su número?',
+      fr: 'Les sangliers sont devenus trop nombreux. Ils arrachent les jeunes pousses et chassent les autres animaux de cette partie de la forêt. Tu peux m’aider à réduire leur nombre ?',
+      ro: 'Mistreții s-au înmulțit prea mult. Distrug puieții și alungă celelalte animale din această parte a pădurii. Mă ajuți să le reducem numărul?',
+      it: 'I cinghiali sono diventati troppi. Distruggono le giovani piante e scacciano tutti gli altri animali da questa parte della foresta. Mi aiuti a ridurne il numero?',
+      nl: 'Er zijn veel te veel wilde zwijnen. Ze woelen jonge planten om en verdringen alle andere dieren uit dit deel van het bos. Help je me hun aantal te verminderen?',
+      vi: 'Lợn rừng sinh sôi quá nhiều. Chúng phá cây non và đuổi các loài khác khỏi khu rừng này. Giúp tôi giảm số lượng chúng nhé?',
+      hu: 'Túl sok a vaddisznó. Feltúrják a fiatal növényeket, és kiszorítják a többi állatot az erdő ezen részéből. Segítesz megritkítani őket?',
+      cs: 'Divočáci se přemnožili. Rozrývají mladé rostliny a vytlačují ostatní zvířata z této části lesa. Pomůžeš mi jejich počet snížit?',
+      pl: 'Dziki zbytnio się rozmnożyły. Ryją wśród młodych roślin i wypierają inne zwierzęta z tej części lasu. Pomożesz mi zmniejszyć ich liczbę?'
     },
     complete: {
-      en: 'The forest can recover now that the herd has been thinned. You have my thanks.'
+      en: 'The forest can recover now that the herd has been thinned. You have my thanks.',
+      de: 'Jetzt kann sich der Wald erholen. Vielen Dank.',
+      ru: 'Теперь, когда стадо поредело, лес сможет восстановиться. Спасибо тебе.',
+      zh: '豬群少了，森林就能恢復。謝謝你。',
+      pt: 'A floresta pode se recuperar agora que a manada diminuiu. Obrigado.',
+      es: 'El bosque podrá recuperarse ahora que hay menos jabalíes. Gracias.',
+      fr: 'La forêt pourra se rétablir maintenant que la harde a diminué. Merci à toi.',
+      ro: 'Acum că turma e mai mică, pădurea se poate reface. Îți mulțumesc.',
+      it: 'Ora che il branco è più piccolo, la foresta potrà riprendersi. Grazie.',
+      nl: 'Nu de kudde kleiner is, kan het bos herstellen. Bedankt.',
+      vi: 'Đàn lợn thưa bớt, khu rừng có thể hồi phục. Cảm ơn bạn.',
+      hu: 'A kisebb csordával az erdő újra magához térhet. Köszönöm.',
+      cs: 'Teď, když je stádo menší, se les může zotavit. Děkuji ti.',
+      pl: 'Teraz, gdy stado jest mniejsze, las może się odrodzić. Dziękuję.'
     }
   },
   18: {
     title: {
-      en: 'Venom in the Underbrush'
+      en: 'Venom in the Underbrush',
+      de: 'Gift im Unterholz',
+      ru: 'Яд в подлеске',
+      zh: '灌木叢中的毒液',
+      pt: 'Veneno na mata',
+      es: 'Veneno en la maleza',
+      fr: 'Venin dans les broussailles',
+      ro: 'Venin în tufișuri',
+      it: 'Veleno nel sottobosco',
+      nl: 'Gif in het struikgewas',
+      vi: 'Nọc độc trong bụi rậm',
+      hu: 'Méreg az aljnövényzetben',
+      cs: 'Jed v podrostu',
+      pl: 'Jad w zaroślach'
     },
     offer: {
-      en: "The forest spiders nearby are unusually aggressive, and their venom has changed. I suspect something in their diet has altered them, but I cannot tell whether it is a plant, a fungus, or something else entirely. Thin their numbers before this mutation spreads."
+      en: "The forest spiders nearby are unusually aggressive, and their venom has changed. I suspect something in their diet has altered them, but I cannot tell whether it is a plant, a fungus, or something else entirely. Thin their numbers before this mutation spreads.",
+      de: 'Die Waldspinnen hier sind ungewöhnlich aggressiv, und ihr Gift hat sich verändert. Vielleicht liegt es an ihrer Nahrung, doch ich weiß nicht, ob eine Pflanze, ein Pilz oder etwas anderes schuld ist. Dezimiere sie, bevor sich diese Veränderung ausbreitet.',
+      ru: 'Местные лесные пауки стали необычно агрессивны, а их яд изменился. Возможно, дело в пище: растении, грибе или чём-то ещё. Сократи их число, пока изменение не распространилось.',
+      zh: '附近的森林蜘蛛變得異常凶猛，毒液也變了。我懷疑是牠們吃了某種植物、真菌或別的東西。趁這種變異擴散前，減少牠們的數量。',
+      pt: 'As aranhas da floresta estão estranhamente agressivas, e o veneno delas mudou. Suspeito de algo na alimentação, mas não sei se é uma planta, um fungo ou outra coisa. Reduza o número delas antes que essa mudança se espalhe.',
+      es: 'Las arañas del bosque están muy agresivas y su veneno ha cambiado. Sospecho que algo en su dieta las alteró, pero no sé si fue una planta, un hongo u otra cosa. Reduce su número antes de que se extienda el cambio.',
+      fr: 'Les araignées de la forêt sont anormalement agressives et leur venin a changé. Je soupçonne leur nourriture, sans savoir si une plante, un champignon ou autre chose en est la cause. Réduis leur nombre avant que ce changement se propage.',
+      ro: 'Păianjenii din pădure sunt neobișnuit de agresivi, iar veninul lor s-a schimbat. Bănuiesc că au mâncat ceva, dar nu știu dacă e o plantă, o ciupercă sau altceva. Redu-le numărul înainte ca schimbarea să se răspândească.',
+      it: 'I ragni della foresta qui vicino sono insolitamente aggressivi e il loro veleno è cambiato. Sospetto che dipenda da ciò che mangiano: una pianta, un fungo o altro. Riducine il numero prima che la mutazione si diffonda.',
+      nl: 'De bosspinnen hier zijn ongewoon agressief en hun gif is veranderd. Misschien komt het door iets wat ze eten, maar ik weet niet of het een plant, schimmel of iets anders is. Verminder hun aantal voordat deze verandering zich verspreidt.',
+      vi: 'Nhện rừng gần đây hung dữ lạ thường, nọc độc cũng đổi khác. Có lẽ thức ăn của chúng gây ra điều này: cây cỏ, nấm hay thứ gì khác. Giảm bớt chúng trước khi biến đổi lan rộng.',
+      hu: 'A közeli erdei pókok szokatlanul agresszívak, és a mérgük is megváltozott. Gyanítom, hogy valami miatt, amit megesznek, de nem tudom, növény, gomba vagy valami más okozza-e. Ritkítsd meg őket, mielőtt a változás továbbterjed.',
+      cs: 'Zdejší lesní pavouci jsou nezvykle agresivní a jejich jed se změnil. Tuším, že za to může jejich potrava, ale nevím, jestli rostlina, houba nebo něco jiného. Zmenši jejich počet, než se změna rozšíří.',
+      pl: 'Pobliskie pająki leśne są niezwykle agresywne, a ich jad się zmienił. Podejrzewam, że to przez coś, co jedzą, ale nie wiem, czy chodzi o roślinę, grzyb czy coś innego. Zmniejsz ich liczbę, zanim ta zmiana się rozprzestrzeni.'
     },
     complete: {
-      en: 'That buys me time to study what they left behind. Whatever changed them, it was no ordinary shift in the season.'
+      en: 'That buys me time to study what they left behind. Whatever changed them, it was no ordinary shift in the season.',
+      de: 'Das gibt mir Zeit, ihre Überreste zu untersuchen. Was immer sie verändert hat: Ein normaler Wechsel der Jahreszeit war es nicht.',
+      ru: 'Теперь у меня есть время изучить оставшиеся следы. Что бы их ни изменило, дело не в смене сезона.',
+      zh: '這給了我時間研究牠們留下的痕跡。不管是什麼改變了牠們，都絕非尋常的季節變化。',
+      pt: 'Isso me dá tempo para estudar o que deixaram para trás. Seja o que for que as mudou, não foi uma simples mudança de estação.',
+      es: 'Eso me da tiempo para estudiar sus restos. Sea lo que sea que las cambió, no fue un simple cambio de estación.',
+      fr: 'Cela me laisse le temps d’étudier ce qu’elles ont laissé. Ce qui les a changées n’est pas un simple effet de saison.',
+      ro: 'Asta îmi dă timp să studiez ce au lăsat în urmă. Orice i-a schimbat, nu e o simplă schimbare de anotimp.',
+      it: 'Così avrò tempo di studiare ciò che hanno lasciato. Qualunque cosa li abbia cambiati, non è un normale effetto delle stagioni.',
+      nl: 'Nu heb ik tijd om hun resten te bestuderen. Wat hen ook heeft veranderd, het is meer dan een gewone seizoenswisseling.',
+      vi: 'Giờ tôi có thời gian nghiên cứu dấu vết chúng để lại. Thứ gì làm chúng thay đổi cũng không phải do mùa màng bình thường.',
+      hu: 'Így lesz időm tanulmányozni, amit hátrahagytak. Bármi változtatta meg őket, ez nem egyszerű évszakváltás.',
+      cs: 'To mi dá čas prozkoumat, co po sobě zanechali. Ať je změnilo cokoli, nebyla to obyčejná změna ročního období.',
+      pl: 'To da mi czas na zbadanie tego, co po sobie zostawiły. Cokolwiek je zmieniło, nie była to zwykła zmiana pory roku.'
     }
   },
   19: {
     title: {
-      en: 'Silk Among the Stones'
+      en: 'Silk Among the Stones',
+      de: 'Seide zwischen Steinen',
+      ru: 'Шёлк среди камней',
+      zh: '石間蛛絲',
+      pt: 'Seda entre as pedras',
+      es: 'Seda entre las piedras',
+      fr: 'De la soie parmi les pierres',
+      ro: 'Mătase printre pietre',
+      it: 'Seta tra le pietre',
+      nl: 'Zijde tussen de stenen',
+      vi: 'Tơ giữa những phiến đá',
+      hu: 'Selyem a kövek között',
+      cs: 'Hedvábí mezi kameny',
+      pl: 'Jedwab wśród kamieni'
     },
     offer: {
-      en: "There are stranger spiders near the ancient columns. Their bodies look almost woven, and their silk reacts to mixtures that should do nothing to it. I cannot decide whether the columns changed them or merely drew them there. Find the wood weavers and reduce their numbers."
+      en: "There are stranger spiders near the ancient columns. Their bodies look almost woven, and their silk reacts to mixtures that should do nothing to it. I cannot decide whether the columns changed them or merely drew them there. Find the wood weavers and reduce their numbers.",
+      de: 'Bei den uralten Säulen leben seltsame Spinnen. Ihre Körper sehen fast geflochten aus, und ihre Seide reagiert auf Mischungen, die wirkungslos sein sollten. Ich weiß nicht, ob die Säulen sie verändert oder nur angelockt haben. Finde die Waldweber und dezimiere sie.',
+      ru: 'У древних колонн обитают странные пауки. Их тела словно сотканы, а шёлк реагирует даже на безобидные смеси. Не знаю, изменили ли их колонны или просто притянули. Найди древесных ткачей и сократи их число.',
+      zh: '古老石柱附近有更奇怪的蜘蛛。牠們的身體像織出來的，蛛絲還會對本不該起作用的藥劑產生反應。不知是石柱改變了牠們，還是吸引牠們來到這裡。找到林中織蛛，減少牠們的數量。',
+      pt: 'Há aranhas ainda mais estranhas perto das colunas antigas. Seus corpos parecem quase tecidos, e sua seda reage a misturas que não deveriam afetá-la. Não sei se as colunas as mudaram ou apenas as atraíram. Encontre as tecedeiras da floresta e reduza o número delas.',
+      es: 'Cerca de las columnas antiguas hay arañas extrañas. Sus cuerpos parecen tejidos y su seda reacciona a mezclas que no deberían afectarla. No sé si las columnas las cambiaron o las atrajeron. Busca a las tejedoras del bosque y reduce su número.',
+      fr: 'Près des colonnes antiques vivent des araignées étranges. Leurs corps semblent presque tissés et leur soie réagit à des mélanges qui devraient être sans effet. Je ne sais pas si les colonnes les ont changées ou attirées. Trouve les tisseuses des bois et réduis leur nombre.',
+      ro: 'Lângă coloanele străvechi sunt păianjeni și mai ciudați. Trupurile lor par țesute, iar mătasea reacționează la amestecuri care n-ar trebui să o afecteze. Nu știu dacă i-au schimbat coloanele sau doar i-au atras. Găsește țesătorii de lemn și redu-le numărul.',
+      it: 'Vicino alle antiche colonne vivono ragni ancora più strani. I loro corpi sembrano tessuti e la seta reagisce a miscele che non dovrebbero avere alcun effetto. Non so se le colonne li abbiano cambiati o solo attirati. Trova i tessitori del bosco e riducine il numero.',
+      nl: 'Bij de oude zuilen zitten nog vreemdere spinnen. Hun lichamen lijken geweven en hun zijde reageert op mengsels die geen effect zouden moeten hebben. Ik weet niet of de zuilen hen veranderden of aantrokken. Zoek de houtwevers en verminder hun aantal.',
+      vi: 'Gần những cột đá cổ có loài nhện lạ hơn. Thân chúng như được dệt, tơ phản ứng với cả hỗn hợp vô hại. Tôi không biết các cột đá đã biến đổi hay thu hút chúng. Hãy tìm nhện dệt gỗ và giảm số lượng chúng.',
+      hu: 'Az ősi oszlopoknál még furcsább pókok élnek. A testük szőttnek tűnik, a selymük pedig olyan keverékekre reagál, amelyekre nem kellene. Nem tudom, az oszlopok változtatták meg vagy csak odavonzották őket. Keresd meg a faszövőket, és ritkítsd meg őket.',
+      cs: 'U starobylých sloupů žijí ještě podivnější pavouci. Jejich těla vypadají jako utkaná a jejich hedvábí reaguje na směsi, které by s ním neměly nic dělat. Nevím, zda je sloupy změnily, nebo jen přilákaly. Najdi dřevotkalce a zmenši jejich počet.',
+      pl: 'Przy starożytnych kolumnach żyją jeszcze dziwniejsze pająki. Ich ciała wyglądają jak utkane, a jedwab reaguje na mieszanki, które nie powinny na niego działać. Nie wiem, czy kolumny je zmieniły, czy tylko przyciągnęły. Znajdź drzewotkaczy i zmniejsz ich liczbę.'
     },
     complete: {
-      en: 'Even dead, their silk refuses to behave like any natural fiber I know. The answer may lie beneath those old stones.'
+      en: 'Even dead, their silk refuses to behave like any natural fiber I know. The answer may lie beneath those old stones.',
+      de: 'Selbst nach ihrem Tod verhält sich ihre Seide anders als jede natürliche Faser, die ich kenne. Die Antwort liegt vielleicht unter den alten Steinen.',
+      ru: 'Даже после смерти их шёлк не похож на обычное волокно. Ответ может скрываться под древними камнями.',
+      zh: '即使死了，牠們的絲也不像我所知的任何天然纖維。答案也許藏在那些古石之下。',
+      pt: 'Mesmo mortas, a seda delas não se comporta como nenhuma fibra natural que eu conheça. A resposta pode estar sob aquelas pedras antigas.',
+      es: 'Hasta muertas, su seda no se comporta como ninguna fibra natural que conozca. Quizá la respuesta esté bajo esas piedras antiguas.',
+      fr: 'Même mortes, leur soie ne ressemble à aucune fibre naturelle que je connaisse. La réponse se trouve peut-être sous ces vieilles pierres.',
+      ro: 'Nici după moarte, mătasea lor nu se poartă ca vreo fibră naturală pe care o cunosc. Răspunsul poate fi sub acele pietre vechi.',
+      it: 'Anche da morti, la loro seta non si comporta come nessuna fibra naturale che conosca. La risposta potrebbe trovarsi sotto quelle antiche pietre.',
+      nl: 'Zelfs na hun dood gedraagt hun zijde zich anders dan elke natuurlijke vezel die ik ken. Misschien ligt het antwoord onder die oude stenen.',
+      vi: 'Ngay cả khi chết, tơ của chúng vẫn không giống sợi tự nhiên nào tôi biết. Đáp án có thể nằm dưới những phiến đá cổ.',
+      hu: 'A selymük még a haláluk után sem viselkedik úgy, mint bármely ismert természetes szál. Talán a régi kövek alatt van a válasz.',
+      cs: 'Ani po smrti se jejich hedvábí nechová jako žádné přírodní vlákno, které znám. Odpověď možná leží pod těmi starými kameny.',
+      pl: 'Nawet po ich śmierci jedwab nie zachowuje się jak żadne znane mi naturalne włókno. Odpowiedź może kryć się pod tymi starymi kamieniami.'
     }
   },
   20: {
     title: {
-      en: 'The Hungry Brood'
+      en: 'The Hungry Brood',
+      de: 'Die hungrige Brut',
+      ru: 'Голодный выводок',
+      zh: '飢餓的蛛群',
+      pt: 'A ninhada faminta',
+      es: 'La prole hambrienta',
+      fr: 'La couvée affamée',
+      ro: 'Cuibul flămând',
+      it: 'La covata affamata',
+      nl: 'Het hongerige broed',
+      vi: 'Bầy nhện đói',
+      hu: 'Az éhes ivadékok',
+      cs: 'Hladové potomstvo',
+      pl: 'Głodny lęg'
     },
     offer: {
-      en: "Forest spiders have always lived beneath these trees, but they are hunting too openly and taking prey they once avoided. Something has disturbed the balance of the woods. I do not yet know what, so thin the brood while I look for the cause."
+      en: "Forest spiders have always lived beneath these trees, but they are hunting too openly and taking prey they once avoided. Something has disturbed the balance of the woods. I do not yet know what, so thin the brood while I look for the cause.",
+      de: 'Waldspinnen lebten schon immer unter diesen Bäumen, doch nun jagen sie offen und reißen Beute, die sie früher mieden. Etwas hat das Gleichgewicht des Waldes gestört. Ich kenne die Ursache noch nicht. Dezimiere die Brut, während ich danach suche.',
+      ru: 'Лесные пауки всегда жили под этими деревьями, но теперь охотятся слишком открыто и нападают даже на прежнюю неприкосновенную добычу. Равновесие леса нарушено. Пока я ищу причину, сократи их число.',
+      zh: '森林蜘蛛一直住在樹下，可如今牠們公然捕獵，連過去不碰的獵物都不放過。森林的平衡被打亂了。我還不知道原因。趁我調查時，減少蛛群的數量。',
+      pt: 'Sempre houve aranhas sob estas árvores, mas agora elas caçam abertamente e atacam presas que antes evitavam. Algo perturbou o equilíbrio da floresta. Ainda não sei o quê. Reduza a ninhada enquanto procuro a causa.',
+      es: 'Siempre ha habido arañas bajo estos árboles, pero ahora cazan a plena vista y atacan presas que antes evitaban. Algo ha alterado el equilibrio del bosque. Aún no sé qué. Reduce la prole mientras busco la causa.',
+      fr: 'Les araignées vivent depuis toujours sous ces arbres, mais elles chassent maintenant à découvert et prennent des proies qu’elles évitaient autrefois. Quelque chose a rompu l’équilibre de la forêt. J’ignore encore quoi. Réduis leur nombre pendant que je cherche la cause.',
+      ro: 'Păianjenii au trăit mereu sub acești copaci, dar acum vânează fățiș și prind prăzi pe care înainte le evitau. Ceva a tulburat echilibrul pădurii. Redu-le numărul cât timp caut cauza.',
+      it: 'I ragni della foresta hanno sempre vissuto sotto questi alberi, ma ora cacciano troppo allo scoperto e prendono prede che prima evitavano. Qualcosa ha turbato l\'equilibrio del bosco. Mentre ne cerco la causa, riduci la covata.',
+      nl: 'Onder deze bomen leven al lang bosspinnen, maar nu jagen ze openlijk en pakken ze prooien die ze vroeger meden. Iets heeft het evenwicht in het bos verstoord. Verminder hun aantal terwijl ik de oorzaak zoek.',
+      vi: 'Nhện rừng vốn sống dưới những tán cây này, nhưng giờ chúng săn mồi lộ liễu và bắt cả con mồi trước kia chúng bỏ qua. Khu rừng đã mất cân bằng. Trong lúc tôi tìm nguyên nhân, hãy giảm bớt bầy nhện.',
+      hu: 'Mindig is éltek erdei pókok e fák alatt, de most feltűnően vadásznak, és olyan zsákmányt is elkapnak, amelyet régen kerültek. Valami felborította az erdő egyensúlyát. Ritkítsd meg őket, amíg kiderítem az okát.',
+      cs: 'Lesní pavouci pod těmito stromy žili vždy, ale teď loví příliš otevřeně a chytají kořist, které se dřív vyhýbali. Něco narušilo rovnováhu lesa. Zmenši jejich počet, zatímco budu hledat příčinu.',
+      pl: 'Pająki leśne zawsze żyły pod tymi drzewami, ale teraz polują zbyt śmiało i łapią zdobycz, której dawniej unikały. Coś zakłóciło równowagę lasu. Zmniejsz ich liczbę, a ja poszukam przyczyny.'
     },
     complete: {
-      en: 'The smaller creatures will have room to return now. Still, spiders do not abandon old habits without reason.'
+      en: 'The smaller creatures will have room to return now. Still, spiders do not abandon old habits without reason.',
+      de: 'Die kleineren Tiere können nun zurückkehren. Doch Spinnen geben ihre alten Gewohnheiten nicht grundlos auf.',
+      ru: 'Теперь мелкие зверьки смогут вернуться. Но пауки не меняют привычки без причины.',
+      zh: '小動物又有地方生存了。但蜘蛛不會無緣無故改變習性。',
+      pt: 'Os animais menores já podem voltar. Mesmo assim, aranhas não abandonam velhos hábitos sem motivo.',
+      es: 'Los animales pequeños ya podrán volver. Aun así, las arañas no abandonan sus costumbres sin motivo.',
+      fr: 'Les petites bêtes pourront revenir. Pourtant, les araignées ne changent pas leurs habitudes sans raison.',
+      ro: 'Animalele mai mici se pot întoarce acum. Totuși, păianjenii nu-și schimbă obiceiurile fără motiv.',
+      it: 'Ora le creature più piccole potranno tornare. Ma i ragni non cambiano abitudini senza motivo.',
+      nl: 'De kleinere dieren kunnen nu terugkomen. Toch veranderen spinnen hun oude gewoonten niet zonder reden.',
+      vi: 'Các sinh vật nhỏ giờ có thể trở lại. Nhưng nhện không vô cớ bỏ thói quen cũ.',
+      hu: 'A kisebb állatok most visszatérhetnek. De a pókok ok nélkül nem változtatnak régi szokásaikon.',
+      cs: 'Menší zvířata se teď mohou vrátit. Pavouci však své staré návyky nemění bez důvodu.',
+      pl: 'Mniejsze zwierzęta mogą teraz wrócić. Jednak pająki nie zmieniają dawnych zwyczajów bez powodu.'
     }
   },
   21: {
     title: {
-      en: 'Strange Webs'
+      en: 'Strange Webs',
+      de: 'Seltsame Netze',
+      ru: 'Странная паутина',
+      zh: '奇異蛛網',
+      pt: 'Teias estranhas',
+      es: 'Telarañas extrañas',
+      fr: 'Toiles étranges',
+      ro: 'Pânze ciudate',
+      it: 'Ragnatele strane',
+      nl: 'Vreemde webben',
+      vi: 'Mạng nhện kỳ lạ',
+      hu: 'Különös hálók',
+      cs: 'Podivné pavučiny',
+      pl: 'Dziwne sieci'
     },
     offer: {
-      en: "Wood weavers have gathered around the ancient columns. They resemble spiders, but they move as if they are following a pattern the forest cannot hear. I cannot tell whether they are sick, changed, or something that only looks natural. Clear some of them away from the stones."
+      en: "Wood weavers have gathered around the ancient columns. They resemble spiders, but they move as if they are following a pattern the forest cannot hear. I cannot tell whether they are sick, changed, or something that only looks natural. Clear some of them away from the stones.",
+      de: 'Waldweber versammeln sich an den uralten Säulen. Sie sehen wie Spinnen aus, bewegen sich aber, als folgten sie einem Muster, das der Wald nicht hören kann. Ich weiß nicht, ob sie krank, verändert oder etwas ganz anderes sind. Vertreibe einige von den Steinen.',
+      ru: 'Древесные ткачи собрались у древних колонн. Они похожи на пауков, но движутся словно по неслышному лесу зову. Не знаю, больны ли они, изменились или лишь притворяются обычными существами. Прогони часть их от камней.',
+      zh: '林中織蛛聚集在古老石柱旁。牠們看似蜘蛛，卻像在遵循森林聽不見的節奏。我分不清牠們是病了、變異了，還是根本不是自然生物。把一部分趕離石柱。',
+      pt: 'As tecedeiras da floresta se reuniram ao redor das colunas antigas. Elas parecem aranhas, mas se movem como se seguissem um padrão que a floresta não consegue ouvir. Não sei se estão doentes, mudadas ou se apenas parecem naturais. Afaste algumas das pedras.',
+      es: 'Las tejedoras del bosque se han reunido junto a las columnas antiguas. Parecen arañas, pero se mueven como si siguieran un patrón que el bosque no puede oír. No sé si están enfermas, alteradas o si solo parecen naturales. Aleja a algunas de las piedras.',
+      fr: 'Les tisseuses des bois se sont rassemblées autour des colonnes antiques. Elles ressemblent à des araignées, mais se déplacent comme si elles suivaient un motif que la forêt ne peut entendre. Je ne sais pas si elles sont malades, changées ou seulement en apparence naturelles. Éloigne-en quelques-unes des pierres.',
+      ro: 'Țesătorii de lemn s-au adunat în jurul coloanelor străvechi. Seamănă cu păianjenii, dar se mișcă de parcă urmează un tipar pe care pădurea nu-l poate auzi. Nu știu dacă sunt bolnavi, schimbați sau doar par firești. Alungă câțiva de lângă pietre.',
+      it: 'I tessitori del bosco si sono radunati attorno alle antiche colonne. Sembrano ragni, ma si muovono come se seguissero un ritmo che la foresta non sente. Non so se siano malati, mutati o solo apparentemente naturali. Allontanane alcuni dalle pietre.',
+      nl: 'Houtwevers hebben zich rond de oude zuilen verzameld. Ze lijken op spinnen, maar bewegen alsof ze een patroon volgen dat het bos niet kan horen. Ik weet niet of ze ziek of veranderd zijn, of alleen maar natuurlijk lijken. Jaag er een paar weg bij de stenen.',
+      vi: 'Nhện dệt gỗ tụ tập quanh các cột đá cổ. Chúng giống nhện, nhưng di chuyển như đang nghe một nhịp điệu mà rừng không nghe thấy. Tôi không biết chúng bị bệnh, biến đổi hay chỉ giả dạng sinh vật tự nhiên. Hãy đuổi bớt chúng khỏi cột đá.',
+      hu: 'Faszövők gyűltek össze az ősi oszlopoknál. Póknak látszanak, de úgy mozognak, mintha olyan mintát követnének, amelyet az erdő nem hall. Nem tudom, betegek, megváltoztak, vagy csak természetesnek tűnnek. Űzz el néhányat a kövektől.',
+      cs: 'Dřevotkalci se shromáždili kolem starobylých sloupů. Připomínají pavouky, ale pohybují se, jako by sledovali vzor, který les neslyší. Nevím, zda jsou nemocní, změnění, nebo jen vypadají přirozeně. Vyžeň několik z nich od kamenů.',
+      pl: 'Drzewotkacze zebrały się wokół starożytnych kolumn. Przypominają pająki, ale poruszają się tak, jakby podążały za wzorem, którego las nie słyszy. Nie wiem, czy są chore, zmienione, czy tylko wyglądają naturalnie. Przepędź kilka spod kamieni.'
     },
     complete: {
-      en: 'The forest feels quieter, but not relieved. Whatever calls those creatures to the columns is still there.'
+      en: 'The forest feels quieter, but not relieved. Whatever calls those creatures to the columns is still there.',
+      de: 'Der Wald wirkt ruhiger, aber nicht erleichtert. Was diese Wesen zu den Säulen ruft, ist noch immer dort.',
+      ru: 'В лесу стало тише, но тревога осталась. То, что зовёт этих существ к колоннам, всё ещё там.',
+      zh: '森林安靜了些，卻仍不安寧。召喚這些生物來到石柱的東西還在。',
+      pt: 'A floresta parece mais calma, mas não aliviada. O que atrai aquelas criaturas às colunas ainda está lá.',
+      es: 'El bosque parece más tranquilo, pero no aliviado. Lo que las llama a esas columnas sigue allí.',
+      fr: 'La forêt semble plus calme, mais pas soulagée. Ce qui attire ces créatures aux colonnes est toujours là.',
+      ro: 'Pădurea pare mai liniștită, dar nu ușurată. Ceea ce atrage aceste ființe la coloane este încă acolo.',
+      it: 'La foresta è più silenziosa, ma non più serena. Ciò che richiama quelle creature alle colonne è ancora lì.',
+      nl: 'Het bos voelt stiller, maar niet opgelucht. Wat die wezens naar de zuilen lokt, is er nog steeds.',
+      vi: 'Khu rừng yên tĩnh hơn, nhưng vẫn bất an. Thứ gọi chúng tới cột đá vẫn còn đó.',
+      hu: 'Az erdő csendesebbnek tűnik, de nem megkönnyebbültnek. Ami ezeket a lényeket az oszlopokhoz hívja, még mindig ott van.',
+      cs: 'Les působí tišeji, ale ne klidněji. Ať ty tvory ke sloupům volá cokoli, stále to tam je.',
+      pl: 'Las wydaje się cichszy, ale nie spokojniejszy. Cokolwiek przyciąga te stworzenia do kolumn, wciąż tam jest.'
     }
   }
 }

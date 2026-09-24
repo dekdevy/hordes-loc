@@ -107,6 +107,7 @@ import itemdescription from './ui/itemdescription.js'
 import messages from './ui/messages.js'
 import party from './ui/party.js'
 import pvpmenu from './ui/pvpmenu.js'
+import quest from './ui/quest.js'
 import report from './ui/report.js'
 import settings from './ui/settings.js'
 import skilldescription from './ui/skilldescription.js'
@@ -120,6 +121,7 @@ const ui = {
   chat,
   clan,
   pvpmenu,
+  quest,
   inventory,
   merchant: merchantui.default,
   settings,

@@ -73,27 +73,47 @@ export default {
   },
 
   acceptQuest: {
-    en: 'Accept quest'
+    en: 'Accept quest', de: 'Quest annehmen', ru: 'Принять задание',
+    zh: '接受任務', pt: 'Aceitar missão', es: 'Aceptar misión',
+    fr: 'Accepter la quête', ro: 'Acceptă misiunea', it: 'Accetta missione',
+    nl: 'Quest accepteren', vi: 'Nhận nhiệm vụ', hu: 'Küldetés elfogadása',
+    cs: 'Přijmout úkol', pl: 'Przyjmij zadanie'
   },
 
   completeQuest: {
-    en: 'Complete quest'
+    en: 'Complete quest', de: 'Quest abschließen', ru: 'Завершить задание',
+    zh: '完成任務', pt: 'Concluir missão', es: 'Completar misión',
+    fr: 'Terminer la quête', ro: 'Încheie misiunea', it: 'Completa missione',
+    nl: 'Quest voltooien', vi: 'Hoàn thành nhiệm vụ', hu: 'Küldetés teljesítése',
+    cs: 'Dokončit úkol', pl: 'Ukończ zadanie'
   },
 
   objectives: {
-    en: 'Objectives'
+    en: 'Objectives', de: 'Ziele', ru: 'Цели', zh: '目標',
+    pt: 'Objetivos', es: 'Objetivos', fr: 'Objectifs', ro: 'Obiective',
+    it: 'Obiettivi', nl: 'Doelen', vi: 'Mục tiêu', hu: 'Célok',
+    cs: 'Cíle', pl: 'Cele'
   },
 
   rewards: {
-    en: 'Rewards'
+    en: 'Rewards', de: 'Belohnungen', ru: 'Награды', zh: '獎勵',
+    pt: 'Recompensas', es: 'Recompensas', fr: 'Récompenses', ro: 'Recompense',
+    it: 'Ricompense', nl: 'Beloningen', vi: 'Phần thưởng', hu: 'Jutalmak',
+    cs: 'Odměny', pl: 'Nagrody'
   },
 
   experience: {
-    en: 'Experience'
+    en: 'Experience', de: 'Erfahrung', ru: 'Опыт', zh: '經驗',
+    pt: 'Experiência', es: 'Experiencia', fr: 'Expérience', ro: 'Experiență',
+    it: 'Esperienza', nl: 'Ervaring', vi: 'Kinh nghiệm', hu: 'Tapasztalat',
+    cs: 'Zkušenosti', pl: 'Doświadczenie'
   },
 
   gold: {
-    en: 'Gold'
+    en: 'Gold', de: 'Gold', ru: 'Золото', zh: '金幣',
+    pt: 'Ouro', es: 'Oro', fr: 'Or', ro: 'Aur',
+    it: 'Oro', nl: 'Goud', vi: 'Vàng', hu: 'Arany',
+    cs: 'Zlato', pl: 'Złoto'
   },
 
   cancel: {
