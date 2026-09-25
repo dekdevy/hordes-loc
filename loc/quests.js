@@ -998,5 +998,105 @@ export default {
       cs: 'Les působí tišeji, ale ne klidněji. Ať ty tvory ke sloupům volá cokoli, stále to tam je.',
       pl: 'Las wydaje się cichszy, ale nie spokojniejszy. Cokolwiek przyciąga te stworzenia do kolumn, wciąż tam jest.'
     }
+  },
+  22: {
+    title: {
+      en: "The Giant in the Web",
+      de: "Die Riesenspinne im Netz",
+      ru: "Гигантская паучиха в паутине",
+      zh: "蛛網中的巨蛛",
+      pt: "A gigante na teia",
+      es: "La gigante de la telaraña",
+      fr: "La géante dans la toile",
+      ro: "Uriașa din pânză",
+      it: "La gigante nella ragnatela",
+      nl: "De reuzin in het web",
+      vi: "Con nhện khổng lồ trong mạng",
+      hu: "Az óriáspók a hálóban",
+      cs: "Obří pavoučice v pavučině",
+      pl: "Olbrzymia pajęczyca w sieci"
+    },
+    offer: {
+      en: "The wood weavers gather around Nopus Majorus, a spider far larger than the rest. Did she change their silk, or did she simply draw them here? Bring her down. Her remains may give us an answer.",
+      de: "Die Waldweber scharen sich um Nopus Majorus. Sie ist viel größer als die anderen Spinnen. Hat sie ihre Seide verändert oder sie nur hierhergelockt? Töte sie. Ihre Überreste könnten uns eine Antwort geben.",
+      ru: "Древесные ткачи собрались вокруг Nopus Majorus. Она гораздо крупнее остальных пауков. Изменила ли она их шёлк или лишь привлекла их сюда? Убей её. По останкам мы сможем найти ответ.",
+      zh: "林中織蛛都聚在Nopus Majorus身邊。牠比其他蜘蛛大得多。是牠改變了牠們的蛛絲，還是只把牠們引到這裡？殺了牠。牠的遺骸也許能給我們答案。",
+      pt: "As tecedeiras da floresta se juntam em torno de Nopus Majorus. Ela é muito maior que as outras aranhas. Será que mudou a seda delas ou apenas as atraiu para cá? Mate-a. Seus restos podem nos dar uma resposta.",
+      es: "Las tejedoras del bosque se agrupan alrededor de Nopus Majorus. Es mucho más grande que las demás arañas. ¿Cambió su seda o solo las atrajo hasta aquí? Mátala. Sus restos podrían darnos una respuesta.",
+      fr: "Les tisseuses des bois se rassemblent autour de Nopus Majorus. Elle dépasse de loin les autres araignées. A-t-elle changé leur soie, ou les a-t-elle simplement attirées ici ? Tue-la. Ses restes pourraient nous donner une réponse.",
+      ro: "Țesătorii de lemn se adună lângă Nopus Majorus. E mult mai mare decât ceilalți păianjeni. Le-a schimbat mătasea sau doar i-a atras aici? Omoar-o. Rămășițele ei ne-ar putea da un răspuns.",
+      it: "I tessitori del bosco si raccolgono attorno a Nopus Majorus. È molto più grande degli altri ragni. Ha cambiato la loro seta o li ha soltanto attirati qui? Uccidila. I suoi resti potrebbero darci una risposta.",
+      nl: "De houtwevers verzamelen zich rond Nopus Majorus. Ze is veel groter dan de andere spinnen. Heeft ze hun zijde veranderd of hen alleen hierheen gelokt? Dood haar. Haar resten kunnen ons een antwoord geven.",
+      vi: "Nhện dệt gỗ tụ tập quanh Nopus Majorus. Nó lớn hơn hẳn những con khác. Nó đã làm thay đổi tơ của chúng, hay chỉ thu hút chúng đến đây? Hãy giết nó. Những gì nó để lại có thể cho ta câu trả lời.",
+      hu: "A faszövők Nopus Majorus köré gyűlnek. Sokkal nagyobb a többi póknál. Megváltoztatta a selymüket, vagy csak idevonzotta őket? Öld meg. A maradványai választ adhatnak.",
+      cs: "Dřevotkalci se shromažďují kolem Nopus Majorus. Je mnohem větší než ostatní pavouci. Změnila jejich hedvábí, nebo je sem jen přilákala? Zabij ji. Její ostatky nám možná dají odpověď.",
+      pl: "Drzewotkacze gromadzą się wokół Nopus Majorus. Jest znacznie większa od pozostałych pająków. Czy zmieniła ich jedwab, czy tylko je tu zwabiła? Zabij ją. Jej szczątki mogą dać nam odpowiedź."
+    },
+    complete: {
+      en: "Nopus is gone. I'll study her remains and see what drew the weavers to her.",
+      de: "Nopus ist tot. Ich werde ihre Überreste untersuchen und herausfinden, was die Waldweber zu ihr zog.",
+      ru: "Nopus больше нет. Я изучу её останки и выясню, что привлекло к ней ткачей.",
+      zh: "Nopus死了。我會研究牠的遺骸，看看林中織蛛為何聚在牠身邊。",
+      pt: "Nopus morreu. Vou estudar seus restos e descobrir o que atraiu as tecedeiras para perto dela.",
+      es: "Nopus ha muerto. Estudiaré sus restos para averiguar qué atrajo a las tejedoras hacia ella.",
+      fr: "Nopus est morte. J’étudierai ses restes pour comprendre ce qui attirait les tisseuses vers elle.",
+      ro: "Nopus a murit. Îi voi cerceta rămășițele ca să aflu ce i-a atras pe țesători la ea.",
+      it: "Nopus è morta. Studierò i suoi resti per capire cosa attirava i tessitori da lei.",
+      nl: "Nopus is dood. Ik zal haar resten onderzoeken om te zien wat de houtwevers naar haar toe trok.",
+      vi: "Nopus đã chết. Tôi sẽ nghiên cứu những gì nó để lại để biết vì sao nhện dệt gỗ kéo đến bên nó.",
+      hu: "Nopus elpusztult. Megvizsgálom a maradványait, hogy kiderüljön, mi vonzotta hozzá a faszövőket.",
+      cs: "Nopus je mrtvá. Prozkoumám její ostatky a zjistím, co k ní dřevotkalce přitahovalo.",
+      pl: "Nopus nie żyje. Zbadam jej szczątki i ustalę, co przyciągało do niej drzewotkaczy."
+    }
+  },
+  23: {
+    title: {
+      en: "Heart of the Web",
+      de: "Das Herz des Netzes",
+      ru: "Сердце паутины",
+      zh: "蛛網之心",
+      pt: "O coração da teia",
+      es: "El corazón de la telaraña",
+      fr: "Au cœur de la toile",
+      ro: "Inima pânzei",
+      it: "Il cuore della ragnatela",
+      nl: "Het hart van het web",
+      vi: "Trái tim mạng nhện",
+      hu: "A háló szíve",
+      cs: "Srdce pavučiny",
+      pl: "Serce sieci"
+    },
+    offer: {
+      en: "Nopus Majorus sits among the weavers by the old columns. The smaller spiders keep close to her, and the woods around them have gone quiet. Bring her down before they spread deeper into the forest.",
+      de: "Nopus Majorus sitzt bei den Waldwebern an den alten Säulen. Die kleineren Spinnen bleiben dicht bei ihr, und der Wald ringsum ist still geworden. Töte sie, bevor sich die Spinnen weiter im Wald ausbreiten.",
+      ru: "Nopus Majorus сидит среди ткачей у старых колонн. Мелкие пауки держатся рядом с ней, а лес вокруг затих. Убей её, пока пауки не расползлись дальше.",
+      zh: "Nopus Majorus待在古老石柱旁的織蛛群中。小蜘蛛緊挨著牠，周圍的森林也安靜了下來。趁蛛群擴散前殺了牠。",
+      pt: "Nopus Majorus está entre as tecedeiras perto das colunas antigas. As aranhas menores ficam junto dela, e a mata ao redor silenciou. Mate-a antes que as aranhas se espalhem pela floresta.",
+      es: "Nopus Majorus está entre las tejedoras junto a las columnas antiguas. Las arañas pequeñas se mantienen cerca de ella y el bosque alrededor ha enmudecido. Mátala antes de que las arañas se extiendan por el bosque.",
+      fr: "Nopus Majorus se tient parmi les tisseuses près des vieilles colonnes. Les petites araignées restent près d’elle et la forêt alentour s’est tue. Tue-la avant que les araignées ne gagnent le reste des bois.",
+      ro: "Nopus Majorus stă printre țesători, lângă coloanele vechi. Păianjenii mai mici rămân aproape de ea, iar pădurea din jur a amuțit. Omoar-o înainte ca păianjenii să se răspândească prin pădure.",
+      it: "Nopus Majorus è tra i tessitori vicino alle vecchie colonne. I ragni più piccoli le stanno vicino e il bosco attorno è diventato silenzioso. Uccidila prima che i ragni si diffondano nel bosco.",
+      nl: "Nopus Majorus zit tussen de houtwevers bij de oude zuilen. De kleinere spinnen blijven dicht bij haar en het bos eromheen is stil geworden. Dood haar voordat de spinnen zich verder door het bos verspreiden.",
+      vi: "Nopus Majorus ở giữa bầy nhện dệt gỗ gần những cột đá cổ. Lũ nhện nhỏ luôn ở sát bên nó, còn khu rừng xung quanh đã im ắng. Hãy giết nó trước khi bầy nhện lan sâu hơn vào rừng.",
+      hu: "Nopus Majorus a régi oszlopoknál, a faszövők között tanyázik. A kisebb pókok a közelében maradnak, a környező erdő pedig elcsendesedett. Öld meg, mielőtt a pókok továbbterjednek az erdőben.",
+      cs: "Nopus Majorus sedí mezi dřevotkalci u starých sloupů. Menší pavouci se drží u ní a okolní les utichl. Zabij ji, než se pavouci rozšíří dál do lesa.",
+      pl: "Nopus Majorus siedzi pośród drzewotkaczy przy starych kolumnach. Mniejsze pająki trzymają się blisko niej, a pobliski las ucichł. Zabij ją, zanim pająki rozprzestrzenią się głębiej w lesie."
+    },
+    complete: {
+      en: "With Nopus gone, the spiders may scatter. I'll watch for life to return to the woods.",
+      de: "Ohne Nopus zerstreuen sich die Spinnen vielleicht. Ich werde beobachten, ob wieder Leben in den Wald zurückkehrt.",
+      ru: "Без Nopus пауки, возможно, разбредутся. Я посмотрю, вернётся ли жизнь в лес.",
+      zh: "Nopus不在了，蜘蛛或許會散去。我會留意森林是否恢復生機。",
+      pt: "Sem Nopus, talvez as aranhas se dispersem. Vou observar se a mata volta a ter vida.",
+      es: "Sin Nopus, quizá las arañas se dispersen. Vigilaré si la vida vuelve al bosque.",
+      fr: "Sans Nopus, les araignées se disperseront peut-être. Je guetterai le retour de la vie dans les bois.",
+      ro: "Fără Nopus, păianjenii s-ar putea risipi. Voi urmări dacă viața revine în pădure.",
+      it: "Senza Nopus, forse i ragni si disperderanno. Vedrò se il bosco tornerà a vivere.",
+      nl: "Zonder Nopus verspreiden de spinnen zich misschien. Ik zal zien of het bos weer tot leven komt.",
+      vi: "Không còn Nopus, có lẽ lũ nhện sẽ tản đi. Tôi sẽ xem sự sống có trở lại khu rừng không.",
+      hu: "Nopus nélkül talán szétszélednek a pókok. Figyelni fogom, visszatér-e az élet az erdőbe.",
+      cs: "Bez Nopus se možná pavouci rozptýlí. Budu sledovat, zda se do lesa vrátí život.",
+      pl: "Bez Nopus pająki mogą się rozproszyć. Zobaczę, czy życie wróci do lasu."
+    }
   }
 }
