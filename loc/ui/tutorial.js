@@ -464,6 +464,9 @@ export default {
       cs: 'Přijmi úkol',
       pl: 'Przyjmij zadanie'
     },
+    returnQuest: {
+      en: 'Return the quest'
+    },
     findQuest: {
       en: 'Find the quest target',
       de: 'Questziel finden',
