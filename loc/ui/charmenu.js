@@ -50,6 +50,20 @@ export default {
       ja: 'クリックでキャラクター作成'
     },
 
+    createShort: {
+      en: 'Create Character',
+      ru: 'Создать героя',
+      es: 'Crear Personaje',
+      de: 'Charakter Erstellen',
+      fr: 'Créer un Personnage',
+      tr: 'Karakter Oluştur',
+      nl: 'Karakter Creëren',
+      pt: 'Criar Personagem',
+      pl: 'Stwórz Postać',
+      it: 'Crea Personaggio',
+      ja: 'キャラクター作成'
+    },
+
     enterWorld: {
       en: 'Enter World',
       el: 'Είσοδος στον κόσμο',
