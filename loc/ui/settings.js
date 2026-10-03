@@ -595,6 +595,17 @@ export default {
     zh: '音樂音量'
   },
 
+  mute: {
+    en: 'Mute',
+    de: 'Stumm',
+    fr: 'Muet',
+    es: 'Silenciar',
+    pt: 'Silenciar',
+    it: 'Muto',
+    pl: 'Wycisz',
+    ru: 'Без звука'
+  },
+
   // ---- Chat
   chat: {
     en: 'Chat',
