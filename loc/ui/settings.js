@@ -595,15 +595,26 @@ export default {
     zh: '音樂音量'
   },
 
-  mute: {
-    en: 'Mute',
-    de: 'Stumm',
-    fr: 'Muet',
-    es: 'Silenciar',
-    pt: 'Silenciar',
-    it: 'Muto',
-    pl: 'Wycisz',
-    ru: 'Без звука'
+  mutegame: {
+    en: 'Mute Game',
+    de: 'Spiel stummschalten',
+    fr: 'Couper le son du jeu',
+    es: 'Silenciar juego',
+    pt: 'Silenciar jogo',
+    it: 'Silenzia gioco',
+    pl: 'Wycisz grę',
+    ru: 'Отключить звук игры'
+  },
+
+  mutemenu: {
+    en: 'Mute Menu',
+    de: 'Menü stummschalten',
+    fr: 'Couper le son du menu',
+    es: 'Silenciar menú',
+    pt: 'Silenciar menu',
+    it: 'Silenzia menu',
+    pl: 'Wycisz menu',
+    ru: 'Отключить звук меню'
   },
 
   // ---- Chat
