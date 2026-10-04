@@ -530,6 +530,38 @@ export default {
       hu: 'Tartsd nyomva',
       cs: 'Podrž',
       pl: 'Przytrzymaj'
+    },
+    tap: {
+      en: 'Tap',
+      de: 'Tippen',
+      ru: 'Нажать',
+      zh: '點擊',
+      pt: 'Toque',
+      es: 'Toca',
+      fr: 'Touche',
+      ro: 'Atinge',
+      it: 'Tocca',
+      nl: 'Tik',
+      vi: 'Chạm',
+      hu: 'Koppints',
+      cs: 'Klepni',
+      pl: 'Dotknij'
+    },
+    drag: {
+      en: 'Drag',
+      de: 'Ziehen',
+      ru: 'Тащи',
+      zh: '拖曳',
+      pt: 'Arraste',
+      es: 'Arrastra',
+      fr: 'Glisser',
+      ro: 'Trage',
+      it: 'Trascina',
+      nl: 'Sleep',
+      vi: 'Kéo',
+      hu: 'Húzd',
+      cs: 'Táhni',
+      pl: 'Przesuń'
     }
   }
 }
