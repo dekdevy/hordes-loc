@@ -8,7 +8,8 @@ export default {
     pt: 'Nome',
     cs: 'Jméno',
     es: 'Nombre',
-    sr: 'Име'
+    sr: 'Име',
+    lt: 'Vardas'
   },
 
   level: {
@@ -20,7 +21,8 @@ export default {
     cs: 'Úroveň',
     pt: 'Nível',
     es: 'Nível',
-    sr: 'Ниво'
+    sr: 'Ниво',
+    lt: 'Lygis'
   },
 
   class: {
@@ -32,7 +34,8 @@ export default {
     pt: 'Classe',
     cs: 'Třída',
     es: 'Clase',
-    sr: 'Класа'
+    sr: 'Класа',
+    lt: 'Klasė'
   },
 
   faction: {
@@ -42,7 +45,8 @@ export default {
     pt: 'Facção',
     cs: 'Frakce',
     es: 'Facción',
-    sr: 'Факција'
+    sr: 'Факција',
+    lt: 'Frakcija'
   },
 
   rank: {
@@ -54,7 +58,8 @@ export default {
     cs: 'Hodnost',
     pt: 'Classificação',
     es: 'Rango',
-    sr: 'Ранг'
+    sr: 'Ранг',
+    lt: 'Rangas'
   },
 
   rating: {
@@ -66,7 +71,8 @@ export default {
     pt: 'Avaliação',
     cs: 'Hodnocení',
     es: 'Clasificación',
-    sr: 'Рејтинг'
+    sr: 'Рејтинг',
+    lt: 'Reitingas'
   },
 
   medals: {
@@ -78,7 +84,8 @@ export default {
     pt: 'Medalhas',
     cs: 'Medajle',
     es: 'Medallas',
-    sr: 'Медаље'
+    sr: 'Медаље',
+    lt: 'Medaliai'
   },
 
   perday: {
@@ -90,6 +97,7 @@ export default {
     pt: 'por dia',
     cs: 'denně',
     es: 'por día',
-    sr: 'дневно'
+    sr: 'дневно',
+    lt: 'per dieną'
   }
 }

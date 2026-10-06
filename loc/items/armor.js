@@ -16,7 +16,8 @@ export default [
       cs: 'Jedná se o překvapivě pevný materiál, který lze použít jako ochranný oděv. Provizorní povaha tohoto materiálu je zřejmá, takže mnoho dobrodruhů se rozhodne vyměnit pytel od brambor co nejrychleji.',
       zh: '是個令人驚訝能夠用於防護的布料。很顯然這是出於臨時，所以許多冒險這會選擇盡快找到替代品。',
       tr: 'Bu şaşırtıcı şekilde sağlam malzeme koruyucu giysi olarak kullanılabilir. Bu malzemenin derme çatma doğası bariz, çoğu maceracı patates çuvalını olabildiğince hızlı şekilde değiştirmeyi seçer.',
-      pt: 'Este é um material surpreendentemente resistente que pode ser usado como vestuário de proteção. A natureza improvisada desse material é óbvia, então muitos aventureiros optam por substituir o saco de batatas o mais rápido possível.'
+      pt: 'Este é um material surpreendentemente resistente que pode ser usado como vestuário de proteção. A natureza improvisada desse material é óbvia, então muitos aventureiros optam por substituir o saco de batatas o mais rápido possível.',
+      lt: 'Stebėtinai tvirta medžiaga, kuri gali atstoti apsauginius drabužius. Iškart matyti, kad tai tik laikina išeitis, todėl daugelis nuotykių ieškotojų stengiasi kuo greičiau šio bulvių maišo atsikratyti.'
     }
   },
 
@@ -37,7 +38,8 @@ export default [
       cs: 'Tento oděv je rodinným dědictvím, které se dědilo z jedné dobrodružné generace na druhou.',
       zh: '這副服裝是冒險者代代相傳的傳家寶。',
       tr: 'Bu giyecek, maceracı bir nesilden bir diğerine aktarılan bir aile yadigarıdır.',
-      pt: 'Essa peça é uma herança de família que foi passada de uma geração de aventureiros para outra.'
+      pt: 'Essa peça é uma herança de família que foi passada de uma geração de aventureiros para outra.',
+      lt: 'Šeimos relikvija, keliaujanti iš vienos nuotykių ieškotojų kartos į kitą.'
     }
   },
 
@@ -58,7 +60,8 @@ export default [
       cs: 'Tato tunika je vyrobena z robustních látek, které jsou navrženy tak, aby vydržely přežití v divočině. Některé tradice zahrnují darování tunik dobrodruhům, které organizace považuje za hodné.',
       zh: '這副束腰外衣是由粗糙的織物製成以支撐荒郊野外的生存。有些傳統會把束腰外衣當作是禮物送給冒險者視為配得上組織的人物。',
       tr: 'Bu tunik, vahşi doğada hayatta kalmaya dayanacak şekilde tasarlanmış sağlam kumaşlardan üretilmiştir. Bazı gelenekler, bir örgüt tarafından layık görülen maceracılara hediye olarak bu tuniklerden verirler.',
-      pt: 'Essa túnica é confeccionada com tecidos robustos, projetados para resistir à sobrevivência na natureza. Algumas tradições envolvem dar túnicas como presentes a aventureiros que são considerados dignos por uma organização.'
+      pt: 'Essa túnica é confeccionada com tecidos robustos, projetados para resistir à sobrevivência na natureza. Algumas tradições envolvem dar túnicas como presentes a aventureiros que são considerados dignos por uma organização.',
+      lt: 'Tunika pasiūta iš tvirtų audinių, kad atlaikytų išgyvenimą laukinėje gamtoje. Kai kur paprotys liepia tokias tunikas dovanoti nuotykių ieškotojams, kuriuos organizacija pripažįsta to vertais.'
     }
   },
 
@@ -79,7 +82,8 @@ export default [
       cs: 'Toto kožené brnění je běžnou volbou pro cestovatele dobrodruhů. Trend nošení kožených kazajek vznikl kolem Yggdrasilu, když v nedalekých džunglích začala číhat nebezpečná stvoření.',
       zh: '這副皮革盔甲是個對旅行的冒險者來說不錯的選擇。 穿戴皮革盔甲的潮流起源於當世界樹周圍開始埋伏著危險的生物。',
       tr: 'Bu deri zırh seyahat eden maceracıların genel seçimidir. Deri yelek giymeye başlama eğilimi, Yggdrasil çevresinde tehlikeli yaratıklar yakınlardaki ormanlarda gizlenmeye başladığında ortaya çıktı.',
-      pt: 'Essa armadura de couro é uma escolha comum para aventureiros viajantes. A tendência de usar jaquetas de couro teve origem em Yggdrasil, quando criaturas perigosas começaram a se esconder nas selvas próximas.'
+      pt: 'Essa armadura de couro é uma escolha comum para aventureiros viajantes. A tendência de usar jaquetas de couro teve origem em Yggdrasil, quando criaturas perigosas começaram a se esconder nas selvas próximas.',
+      lt: 'Odiniai šarvai - dažnas keliaujančių nuotykių ieškotojų pasirinkimas. Odines liemenes imta dėvėti apylinkėse aplink Yggdrasil, kai gretimose džiunglėse ėmė tykoti pavojingi padarai.'
     }
   },
 
@@ -100,7 +104,8 @@ export default [
       cs: 'Toto brnění je vyrobeno z monstrózních šupin, které byly nalezeny na zemi. Šupiny monster jsou často vytvořeny do úctyhodných brnění, kdykoli je nedostatek kovu.',
       zh: '這副盔甲是由地上找到怪獸鱗片製作而成.。當金屬短缺的時候，怪獸鱗片常常會用來製作像樣的盔甲。',
       tr: 'Bu zırhlar toprakta bulunan canavar kabuklarından yapıldı. Canavar kabukları, metal az bulunan bir kaynak olduğunda hatrı sayılır zırhlar yapılırdı.',
-      pt: 'Essa armadura é feita de escamas de monstros que foram encontradas no chão. As escamas de monstros costumam ser transformadas em armaduras respeitáveis sempre que há escassez de metal.'
+      pt: 'Essa armadura é feita de escamas de monstros que foram encontradas no chão. As escamas de monstros costumam ser transformadas em armaduras respeitáveis sempre que há escassez de metal.',
+      lt: 'Šarvai pagaminti iš ant žemės surinktų monstrų žvynų. Kai trūksta metalo, iš monstrų žvynų dažnai pagaminami visai neblogi šarvai.'
     }
   },
 
@@ -117,7 +122,8 @@ export default [
       nl: 'Lichte tover-metalen worden gebruikt om hemelse maliënkolders te maken. Oude legendes zeggen dat de eerste “Sky Mails” gemaakt waren van weggegooide harnas-onderdelen die ooit werden gedraagt door goddelijke wezens.',
       it: 'I metalli leggeri Elvish sono usati per creare maglie metalliche divine. Antiche leggende dicono che i primi Sky Mails furono originariamente creati da parti di armature buttate ed un tempo indossate dalle creature divine.',
       ro: 'Metalul ușor al elfilor este utilizat pentru a crea zale divine. Legende vechi spun că primele zale au fost original create din bucăți de armură aruncată, cândva folosită de creaturi divine.',
-      pt: 'Os metais leves dos elfos são usados para criar cota de malha divina. Lendas antigas dizem que as primeiras cota de malha do céu foram originalmente criadas a partir de peças de armadura descartadas, outrora usadas por criaturas divinas.'
+      pt: 'Os metais leves dos elfos são usados para criar cota de malha divina. Lendas antigas dizem que as primeiras cota de malha do céu foram originalmente criadas a partir de peças de armadura descartadas, outrora usadas por criaturas divinas.',
+      lt: 'Iš lengvų elfų metalų kalami dieviški grandininiai šarvai. Senos legendos pasakoja kad pirmieji dangaus šarvai buvo sukalti iš dieviškų būtybių kadaise numestų šarvų dalių.'
     }
   },
 
@@ -135,7 +141,8 @@ export default [
       it: 'Questo mantello evoca piccole ombre che avviluppano l\'indossatore durante le battaglie per aumentare la protezione. I mantelli come questo sono fabbricati con una strana magia oscura e successivamente potenziati con tecniche segrete.',
       ro: 'Această mantie invocă umbre mici care înfășoară purtătorul în timpul bătăliilor pentru a spori protecția. Astfel de mantii sunt fabricate folosind bizara magie a umbrelor, iar apoi alchemic sunt fermecate pe căi misterioase.',
       cs: 'Tento plášť vyvolává malé stíny, které zahalují nositele během bitvy, aby zvýšily ochranu. Tyto pláště jsou vytvořeny pomocí podivné stínové magie a poté alchymicky vylepšeny tajnými způsoby.',
-      pt: 'Essa capa convoca pequenas sombras que envolvem o usuário durante a batalha para aumentar a proteção. Mantos como esse são criados com uma estranha magia de sombra e, em seguida, aprimorados alquimicamente de forma secreta.'
+      pt: 'Essa capa convoca pequenas sombras que envolvem o usuário durante a batalha para aumentar a proteção. Mantos como esse são criados com uma estranha magia de sombra e, em seguida, aprimorados alquimicamente de forma secreta.',
+      lt: 'Mūšyje apsiaustas iššaukia mažus šešėlius, kurie apgaubia savininką ir sustiprina jo apsaugą. Tokie apsiaustai kuriami keista šešėlių magija, o vėliau slaptais būdais sustiprinami alchemija.'
     }
   },
 
@@ -153,7 +160,8 @@ export default [
       it: 'Magiche rune sono state attaccate in questa armatura per ottenere protezione addizionale. Molti scolari credono che le rune su tutte le armature di questo tipo interagiscano tra loro in qualche grande e segreto rituale.',
       ro: 'Rune magice au fost gravate în această armură pentru a oferi un surplus de protecție. Câțiva savanți cred că runele de pe toate aceste armuri sunt menite să interacționeze unele cu celelalte într-un ritual mai larg, nedescoperit.',
       cs: 'Do tohoto brnění byly vyleptány magické runy, aby poskytovaly dodatečnou ochranu. Někteří učenci se domnívají, že runy na všech runových poloplátových zbrojích jsou určeny ke vzájemné interakci v nějakém větším, neobjeveném rituálu.',
-      pt: 'Runas mágicas foram gravadas nessa armadura para oferecer proteção adicional. Alguns estudiosos acreditam que as runas em todas as armaduras rúnicas de meia-placa devem interagir em um ritual maior, ainda não descoberto.'
+      pt: 'Runas mágicas foram gravadas nessa armadura para oferecer proteção adicional. Alguns estudiosos acreditam que as runas em todas as armaduras rúnicas de meia-placa devem interagir em um ritual maior, ainda não descoberto.',
+      lt: 'Į šiuos šarvus įraižytos magiškos runos suteikia papildomos apsaugos. Kai kurie žinovai tiki kad visų runinių pusšarvių runos skirtos kažkokiam didesniam, dar neatskleistam ritualui.'
     }
   },
 
@@ -171,7 +179,8 @@ export default [
       it: 'Gli inferni sovrannaturali furono usati nella creazione di questa armatura. Grandi sacrifici furono fatti per appacificare le creature demoniache affinché alcuni fabbri potessero forgiare con le strane fiamme.',
       ro: 'Focuri infernale supernaturale au fost folosite la forjarea acestei armuri. Mari sacrificii au fost făcute pentru a potoli cererile creaturilor diavolești, doar pentru ca câțiva fierari să poată forja cu niște flăcări stranii.',
       cs: 'Při výrobě tohoto brnění byla použita nadpřirozená pekla. Byly přinášeny velké oběti, aby se utišily požadavky ďábelských tvorů, aby pár kovářů mohlo kovat s podivnými plameny.',
-      pt: 'Infernos sobrenaturais foram usados na fabricação dessa armadura. Grandes sacrifícios foram feitos para apaziguar as exigências de criaturas demoníacas para que alguns ferreiros pudessem forjar com as estranhas chamas.'
+      pt: 'Infernos sobrenaturais foram usados na fabricação dessa armadura. Grandes sacrifícios foram feitos para apaziguar as exigências de criaturas demoníacas para que alguns ferreiros pudessem forjar com as estranhas chamas.',
+      lt: 'Šarvai nukalti antgamtinėse pragaro liepsnose. Kad keli kalviai galėtų kalti šia keista ugnimi, teko daug paaukoti tenkinant velniškų padarų reikalavimus.'
     }
   },
 
@@ -190,7 +199,8 @@ export default [
       it: 'Antiche leggende raccontano che ogni armatura Soulkeeper ospiti un\'anima che volentieri si sacrificò per aumentare il potere protettivo dell\'armatura. In tempi duri, gi individui fecero grandi sacrifici per assicurare la sopravvivenza dei loro clan e famiglie.',
       ro: 'Legende stăvechi spun că fiecare armură Soulkeeper adăpostește un suflet care s-a sacrificat de bună voie pentru a spori puterea protectivă a armurii. În timpuri mai grele, câțiva indivizi au făcut sacrificii pentru a se asigura de supraviețuirea clanurilor și familiilor lor.',
       cs: 'Starověké legendy říkají, že každá zbroj Soukeeper ukrývá duši, která se dobrovolně obětovala, aby posílila ochrannou sílu brnění. V těžších časech jednotlivci přinášeli velké oběti, aby zajistili přežití svých klanů a rodin.',
-      pt: 'Lendas antigas dizem que cada armadura Soulkeeper abriga uma alma que se sacrificou voluntariamente para aumentar o poder de proteção da armadura. Em tempos difíceis, os indivíduos faziam grandes sacrifícios para garantir a sobrevivência de seus clãs e famílias.'
+      pt: 'Lendas antigas dizem que cada armadura Soulkeeper abriga uma alma que se sacrificou voluntariamente para aumentar o poder de proteção da armadura. Em tempos difíceis, os indivíduos faziam grandes sacrifícios para garantir a sobrevivência de seus clãs e famílias.',
+      lt: 'Senovės legendos byloja kad kiekvienuose Soulkeeper šarvuose glūdi siela, savo noru paaukojusi save kad šarvai taptų stipresni. Sunkiais laikais žmonės aukodavosi kad išliktų jų klanai ir šeimos.'
     }
   },
 
@@ -209,7 +219,8 @@ export default [
       it: 'Le armature Deathless furono create dai primi re e leader per salvarsi dalle ferite mortali durante la Prima Guerra Mondiale. Secondo la leggenda, questi re e leader non perirono durante le battaglie; al contrario, loro furono assassinati durante il sonno e le loro armature vennero rubate. Le tecniche per forgiarle sono andate perdute, ma una gran dose di fortuna era chiaramente necessaria per il processo.',
       ro: 'Armurile Deathless au fost create de primii regi și lideri ca un mijloc de prevenire a rănilor mortale din timpul "The First Great War". Fidel legendei, acei regi și lideri nu au murit în bătălie; în loc, fiecare dintre ei au fost uciși în somn iar armurile au fost furate. Tehnicile de forjare s-au pierdut în timp, dar averi masive au fost cu siguranță necesare pentru procesul de creație.',
       cs: 'Deathless zbroj byla vytvořena prvními králi a vůdci jako prostředek k zabránění smrtelným zraněním během první velké války. Věrni legendě tito králové a vůdci nezahynuli v bitvě; místo toho byli každý zavražděn ve spánku a jejich brnění byla ukradena. Techniky kování byly ztraceny časem, ale pro tento proces bylo zjevně nutné obrovské bohatství.',
-      pt: 'As armaduras Deathless foram criadas pelos primeiros reis e líderes como um meio de evitar ferimentos mortais durante a Primeira Grande Guerra. De acordo com a lenda, esses reis e líderes não pereceram em batalha; em vez disso, foram assassinados enquanto dormiam e suas armaduras foram roubadas. As técnicas de forjamento se perderam no tempo, mas fortunas enormes foram claramente necessárias para o processo.'
+      pt: 'As armaduras Deathless foram criadas pelos primeiros reis e líderes como um meio de evitar ferimentos mortais durante a Primeira Grande Guerra. De acordo com a lenda, esses reis e líderes não pereceram em batalha; em vez disso, foram assassinados enquanto dormiam e suas armaduras foram roubadas. As técnicas de forjamento se perderam no tempo, mas fortunas enormes foram claramente necessárias para o processo.',
+      lt: 'Deathless šarvus Pirmojo Didžiojo Karo metu sukūrė pirmieji karaliai ir vadai, tam kad apsisaugotų nuo mirtinų žaizdų. Kaip ir byloja legenda, nė vienas jų nežuvo mūšyje - kiekvienas iš jų nužudytas bemiegantis, o jų šarvai buvo pavogti. Kalimo paslaptys laikui bėgant nugrimzdo užmarštin, tačiau akivaizdu kad tam reikėjo milžiniškų turtų.'
     }
   }
 ]

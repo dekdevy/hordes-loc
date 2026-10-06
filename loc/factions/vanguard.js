@@ -27,6 +27,7 @@ export default {
     sr: 'Vanguard је хорда која цени традицију, структуру и ред у друштву. Њихов замак се налази у бујној зеленој области око Guardstone-a.',
     it: 'La orda Vanguard cerca tradizione, struttura e ordine nella società. Il loro castello può essere trovato in una verde e lussureggiante area attorno Guardstone.',
     ja: 'Vanguardの群衆は伝統、組織、秩序を求めています。彼らの城塞はGuardstoneと呼ばれる緑豊かな土地に所在します。',
-    ar: 'يسعى قوم Vanguard إلى التقاليد والنظام في المجتمع،ويمكن العثور على قلعتهم في منطقة خضراء خصبة تسمى Guardstone.'
+    ar: 'يسعى قوم Vanguard إلى التقاليد والنظام في المجتمع،ويمكن العثور على قلعتهم في منطقة خضراء خصبة تسمى Guardstone.',
+    lt: 'Vanguard orda puoselėja tradicijas, struktūrą ir tvarką visuomenėje. Jos pilis stūkso vešlioje žalioje vietovėje netoli Guardstone.'
   }
 }

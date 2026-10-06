@@ -23,7 +23,8 @@ export default {
     sr: 'Чаробњак',
     it: 'Mago',
     ja: '魔術師',
-    ar: 'ساحر'
+    ar: 'ساحر',
+    lt: 'Magas'
   },
 
   // Class description, visible during character creation
@@ -49,6 +50,7 @@ export default {
     sr: 'Чаробњаци наносе веома велику штету на широкој области, а истовремено пружају подршку успоравањем мета својом магијом леда.',
     it: 'I Maghi infliggono enormi danni ad area, e assicurano una grande utilità rallentando i bersagli con i loro incantesimi glaciali.',
     ja: '魔術師は広範囲に高火力のダメージを与えるのに優れており、氷の魔法でターゲットの動きを鈍らせ有利に戦う事も出来ます。',
-    ar: 'يسبب السحرة ضررًا كبيرا في المنطقة, ويستفيدون ايضا من ابطاء الهدف بسحر الجليد خاصتهم.'
+    ar: 'يسبب السحرة ضررًا كبيرا في المنطقة, ويستفيدون ايضا من ابطاء الهدف بسحر الجليد خاصتهم.',
+    lt: 'Magai daro milžinišką žalą dideliame plote (AoE), o ledo magija lėtina priešus ir taip padeda visai grupei.'
   }
 }

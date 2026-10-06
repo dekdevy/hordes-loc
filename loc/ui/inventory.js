@@ -20,7 +20,8 @@ export default {
     sr: 'Инвентар',
     it: 'Inventario',
     ja: 'インベントリ',
-    cs: 'Inventář'
+    cs: 'Inventář',
+    lt: 'Inventorius'
   },
 
   pick: {
@@ -43,7 +44,8 @@ export default {
     it: 'Hai raccolto $1.',
     tr: 'Yerden $1 aldın.',
     ja: '$1 を拾いました。',
-    cs: 'Sebral jsi $1'
+    cs: 'Sebral jsi $1',
+    lt: 'Paėmėte $1.'
   },
 
   throw: {
@@ -66,7 +68,8 @@ export default {
     it: 'Hai gettato via $1.',
     sr: 'Бацио си $1.',
     ja: '$1 を捨てました。',
-    cs: 'Odhodil jsi $1'
+    cs: 'Odhodil jsi $1',
+    lt: 'Išmetėte $1.'
   },
 
   full: {
@@ -89,7 +92,8 @@ export default {
     sr: 'Твој инвентар је пун.',
     tr: 'Enventerin dolu',
     ja: 'インベントリが満杯です。',
-    cs: 'Tvůj inventář je plný'
+    cs: 'Tvůj inventář je plný',
+    lt: 'Jūsų inventorius pilnas.'
   },
 
   sold: {
@@ -112,7 +116,8 @@ export default {
     sr: 'Продао си $1.',
     tr: '$1 sattın.',
     ja: '$1 を売却しました。',
-    cs: 'Prodal jsi $1'
+    cs: 'Prodal jsi $1',
+    lt: 'Pardavėte $1.'
   },
 
   receive: {
@@ -135,7 +140,8 @@ export default {
     sr: 'Добио си $1.',
     tr: '$1 elde ettin.',
     ja: '$1 を受け取りました。',
-    cs: 'Získal jsi $1'
+    cs: 'Získal jsi $1',
+    lt: 'Gavote $1'
   },
 
   drop: {
@@ -158,7 +164,8 @@ export default {
     it: 'Rilascia l\'oggetto',
     sr: 'Баци предмет',
     ja: '捨てる',
-    cs: 'Odhodit položku'
+    cs: 'Odhodit položku',
+    lt: 'Išmesti daiktą'
   },
 
   equip: {
@@ -181,7 +188,8 @@ export default {
     sr: 'Опреми предмет',
     tr: 'Eşyayı kuşan',
     ja: '装備する',
-    cs: 'Obléct předmět'
+    cs: 'Obléct předmět',
+    lt: 'Užsidėti daiktą'
   },
 
   use: {
@@ -204,7 +212,8 @@ export default {
     it: 'Usa l\'oggetto',
     sr: 'Употреби предмет',
     ja: '使用する',
-    cs: 'Použít předmět'
+    cs: 'Použít předmět',
+    lt: 'Naudoti daiktą'
   },
 
   copyitemid: {
@@ -219,7 +228,8 @@ export default {
     cs: 'Kopírovat ID předmětu',
     zh: '複製物品ID',
     ko: '아이템 ID 복사',
-    es: 'Copiar ID del item'
+    es: 'Copiar ID del item',
+    lt: 'Kopijuoti daikto ID'
   },
 
   sell: {
@@ -234,7 +244,8 @@ export default {
     cs: 'Prodat předmět',
     zh: '出售物品',
     ko: '아이템 팔기',
-    es: 'Vender item'
+    es: 'Vender item',
+    lt: 'Parduoti daiktą'
   },
 
   splithalf: {
@@ -254,7 +265,8 @@ export default {
     ja: '半分に分ける',
     ko: '반으로 나누기',
     cs: 'Rozdělit na půl',
-    zh: '拆分一半'
+    zh: '拆分一半',
+    lt: 'Padalyti per pusę'
   },
 
   splitone: {
@@ -274,7 +286,8 @@ export default {
     ja: '1つ分ける',
     ko: '하나만 선택',
     cs: 'Rozdělit jeden',
-    zh: '拆分一個'
+    zh: '拆分一個',
+    lt: 'Atskirti vieną'
   },
 
   spend: {
@@ -297,7 +310,8 @@ export default {
     it: 'Hai speso $1',
     sr: 'Ти си потрошио $1.',
     ja: '$1 支払いました。',
-    cs: 'Utratil jsi $1'
+    cs: 'Utratil jsi $1',
+    lt: 'Išleidote $1.'
   },
 
   death: {
@@ -320,7 +334,8 @@ export default {
     it: 'Sei morto e hai perso $1',
     sr: 'Преминули сте и изгубили $1.',
     ja: '死亡した為 $1 失いました。',
-    cs: 'Zemřel jsi a ztratil jsi $1'
+    cs: 'Zemřel jsi a ztratil jsi $1',
+    lt: 'Žuvote ir praradote $1.'
   },
 
   bindlevel: [

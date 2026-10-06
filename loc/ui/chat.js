@@ -20,6 +20,7 @@ export default {
     sr: 'Шапући',
     it: 'Sussurro',
     ko: '귓말',
-    ja: 'ひそひそ話'
+    ja: 'ひそひそ話',
+    lt: 'Šnabždėti'
   }
 }

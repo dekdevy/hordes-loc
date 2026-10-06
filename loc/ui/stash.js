@@ -5,7 +5,8 @@ export default {
     tr: 'Depo', //im not sure about this translation. Because exact translation is a bit weird. So i may change it later
     ko: '창고',
     es: 'Alijo',
-    pt: 'Stash'
+    pt: 'Stash',
+    lt: 'Stash'
   },
 
   waitunstash: {
@@ -28,7 +29,8 @@ export default {
     it: 'Devi aspettare fino a quando non puoi recuperare questo elemento.',
     tr: 'Bu öğeyi alabilmek için beklemelisin.',
     ja: 'このアイテムを回収するには暫くの間待つ必要があります。',
-    cs: 'Musíš počkat, než budeš moci tento předmět vyzvednout'
+    cs: 'Musíš počkat, než budeš moci tento předmět vyzvednout',
+    lt: 'Turite palaukti kol galėsite atsiimti šį daiktą.'
   },
 
   withdraw: {
@@ -51,7 +53,8 @@ export default {
     sr: 'Повлачење новца',
     it: 'Preleva',
     ja: '引き出す',
-    cs: 'Vybrat'
+    cs: 'Vybrat',
+    lt: 'Išimti'
   },
 
   // Translate the verb, rather than the noun.
@@ -72,7 +75,8 @@ export default {
     ko: '입금 하기',
     cs: 'Vklad',
     zh: '存入',
-    es: 'Depósito'
+    es: 'Depósito',
+    lt: 'Įdėti'
   },
 
   // Do not translate "Stash".
@@ -96,7 +100,8 @@ export default {
     it: 'Invia allo Stash',
     tr: 'Eşyayı Stashle',
     ja: 'Stashアイテム',
-    cs: 'Stash položk'
+    cs: 'Stash položk',
+    lt: 'Perkelti į Stash'
   },
 
   // Do not translate "Stash".
@@ -120,6 +125,7 @@ export default {
     it: '$1 è stato spostato nel tuo Stash',
     tr: '$1, Stashe taşındı.',
     ja: '$1 がStashに送られました。',
-    cs: '$1 byl přesunut do truhly'
+    cs: '$1 byl přesunut do truhly',
+    lt: '$1 perkeltas į jūsų Stash.'
   }
 }

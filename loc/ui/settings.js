@@ -20,7 +20,8 @@ export default {
     sr: 'Подешавања',
     it: 'Impostazioni',
     ja: '設定',
-    cs: 'Nastavení'
+    cs: 'Nastavení',
+    lt: 'Nustatymai'
   },
 
   // ---- Controls
@@ -44,7 +45,8 @@ export default {
     sr: 'Контроле',
     it: 'Controlli',
     ja: '操作',
-    cs: 'Ovládání'
+    cs: 'Ovládání',
+    lt: 'Valdymas'
   },
 
   skillbar: {
@@ -55,7 +57,8 @@ export default {
     zh: '技能欄',
     cs: 'Bar dovedností',
     pt: 'Barra de habilidades',
-    sr: 'Skillbar'
+    sr: 'Skillbar',
+    lt: 'Įgūdžių juosta'
   },
 
   skillbarslots: {
@@ -66,7 +69,8 @@ export default {
     zh: '技能欄位',
     cs: 'Místa v baru dovedností',
     pt: 'Espaços da barra de habilidades',
-    sr: 'Слотови skillbar-а'
+    sr: 'Слотови skillbar-а',
+    lt: 'Įgūdžių juostos vietos'
   },
 
   keybindings: {
@@ -87,7 +91,8 @@ export default {
     tr: 'Tuş atamaları',
     ja: 'キー割り当て',
     ko: '키바인딩',
-    cs: 'Klávesové zkratky'
+    cs: 'Klávesové zkratky',
+    lt: 'Klavišų priskyrimas'
   },
 
   bindingreset: {
@@ -98,7 +103,8 @@ export default {
     zh: '要重置，請填空',
     pt: 'Para redefinir, deixe o campo em branco.',
     cs: 'Chcete-li reset, ponechte pole prázdné',
-    sr: 'Да ресетујеш, остави поље празно.'
+    sr: 'Да ресетујеш, остави поље празно.',
+    lt: 'Norėdami atstatyti, palikite lauką tuščią.'
   },
 
   camera: {
@@ -117,7 +123,8 @@ export default {
     ja: 'カメラ',
     ko: '카메라',
     cs: 'Kamera',
-    zh: '視角'
+    zh: '視角',
+    lt: 'Kamera'
   },
 
   mousesensitivity: {
@@ -137,7 +144,8 @@ export default {
     ja: 'マウス感度',
     ko: '마우스 민감도',
     cs: 'Senzitivita',
-    zh: '靈敏度'
+    zh: '靈敏度',
+    lt: 'Jautrumas'
   },
 
   invertmousex: {
@@ -157,7 +165,8 @@ export default {
     ja: '左右反転',
     ko: '가로 회전 방향 바꾸기',
     cs: 'Převrátit vodorovně',
-    zh: '水平反轉'
+    zh: '水平反轉',
+    lt: 'Invertuoti horizontaliai'
   },
 
   invertmousey: {
@@ -177,7 +186,8 @@ export default {
     ja: '上下反転',
     ko: '세로 회전 방향 바꾸기',
     cs: 'Převrátit vertikálně',
-    zh: '垂直反轉'
+    zh: '垂直反轉',
+    lt: 'Invertuoti vertikaliai'
   },
 
   pointerlock: {
@@ -198,7 +208,8 @@ export default {
     tr: 'Döndürme sırasında fareyi gizle',
     ja: '操作中にカーソル非表示',
     ko: '회전하는 중에는 마우스 숨기기',
-    cs: 'Skrýt myš během otáčení'
+    cs: 'Skrýt myš během otáčení',
+    lt: 'Slėpti pelę sukant kamerą'
   },
 
   lockedcamera: {
@@ -221,7 +232,8 @@ export default {
     sr: 'Фиксна камера',
     it: 'Telecamera fissa',
     ja: 'カメラを固定',
-    cs: 'Uzamčená kamera'
+    cs: 'Uzamčená kamera',
+    lt: 'Užrakinta kamera'
   },
 
   // ---- Graphics
@@ -245,7 +257,8 @@ export default {
     sr: 'Графика',
     it: 'Grafica',
     ja: 'グラフィック',
-    cs: 'Grafika'
+    cs: 'Grafika',
+    lt: 'Grafika'
   },
 
   viewrange: {
@@ -268,7 +281,8 @@ export default {
     it: 'Distanza visiva',
     sr: 'Дистанца погледа',
     ja: '描画範囲',
-    cs: 'Rozbrazení vzdálenosti'
+    cs: 'Rozbrazení vzdálenosti',
+    lt: 'Matomumo atstumas'
   },
 
   fov: {
@@ -276,7 +290,8 @@ export default {
     fr: 'Champ de vision',
     cs: 'Zorné pole',
     pt: 'Campo de visão',
-    sr: 'Поље вида'
+    sr: 'Поље вида',
+    lt: 'Matymo laukas'
   },
 
   resolution: {
@@ -299,7 +314,8 @@ export default {
     sr: 'Резолуција',
     it: 'Risoluzione',
     ja: '解像度',
-    cs: 'Rozlišení'
+    cs: 'Rozlišení',
+    lt: 'Raiška'
   },
 
   fxaa: {
@@ -314,7 +330,8 @@ export default {
     ko: '블룸 효과',
     cs: 'Bloom',
     pt: 'Bloom',
-    sr: 'Bloom'
+    sr: 'Bloom',
+    lt: 'Švytėjimas'
   },
 
   disableoffscreen: {
@@ -326,7 +343,8 @@ export default {
     ko: '시야 밖 몹 숨기기',
     pt: 'Desativar criaturas fora da tela',
     cs: 'Deaktivovat bytosti mimo obrazovku',
-    sr: 'Искључи створења ван екрана'
+    sr: 'Искључи створења ван екрана',
+    lt: 'Išjungti už ekrano esančius padarus'
   },
 
   offscreendesc: {
@@ -337,7 +355,8 @@ export default {
     zh: '提高性能但使屏幕外動作靜音',
     pt: 'Melhora o desempenho, mas silencia a ação fora da tela',
     cs: 'Zlepší výkon, ale utlumí akce mimo obrazovku',
-    sr: 'Побољшава перформансе, али утишава дешавања ван екрана'
+    sr: 'Побољшава перформансе, али утишава дешавања ван екрана',
+    lt: 'Pagerina našumą, bet nutildo už ekrano vykstantį veiksmą'
   },
 
   skilleffects: {
@@ -360,7 +379,8 @@ export default {
     it: 'Effetti delle Skills',
     sr: 'Ефекти вештина',
     ja: 'スキル演出',
-    cs: 'Efekty dovedností'
+    cs: 'Efekty dovedností',
+    lt: 'Įgūdžių efektai'
   },
 
   shadows: {
@@ -381,7 +401,8 @@ export default {
     tr: 'Gölgeler',
     ja: '影',
     ko: '그림자',
-    cs: 'Stíny'
+    cs: 'Stíny',
+    lt: 'Šešėliai'
   },
 
   grass: {
@@ -402,7 +423,8 @@ export default {
     tr: 'Çim',
     ja: '草',
     ko: '잔디',
-    cs: 'Tráva'
+    cs: 'Tráva',
+    lt: 'Žolė'
   },
 
   clouds: {
@@ -423,7 +445,8 @@ export default {
     tr: 'Çimler',
     ja: '雲',
     ko: '구름',
-    cs: 'Mraky'
+    cs: 'Mraky',
+    lt: 'Debesys'
   },
 
   particles: {
@@ -444,7 +467,8 @@ export default {
     tr: 'Parçacıklar',
     ja: 'パーティクル',
     ko: '파티클',
-    cs: 'Částice'
+    cs: 'Částice',
+    lt: 'Dalelės'
   },
 
   fogpattern: {
@@ -455,7 +479,8 @@ export default {
     zh: '霧化',
     pt: 'Padrão de neblina',
     cs: 'Mlhový vzor',
-    sr: 'Шара магле'
+    sr: 'Шара магле',
+    lt: 'Rūko raštas'
   },
 
   shadowresolution: {
@@ -466,7 +491,8 @@ export default {
     zh: '影子解析度',
     pt: 'Resolução de sombra',
     cs: 'Rozlišení stínu',
-    sr: 'Резолуција сенки'
+    sr: 'Резолуција сенки',
+    lt: 'Šešėlių raiška'
   },
 
   creatureshadows: {
@@ -477,7 +503,8 @@ export default {
     zh: '生物陰影',
     pt: 'Sombras nas criaturas',
     cs: 'Stíny bytostí',
-    sr: 'Сенке на створењима'
+    sr: 'Сенке на створењима',
+    lt: 'Šešėliai and padarų'
   },
 
   anisotropy: {
@@ -488,7 +515,8 @@ export default {
     zh: '非等向性',
     pt: 'Anisotropia',
     cs: 'Anizotropie',
-    sr: 'Анизотропија'
+    sr: 'Анизотропија',
+    lt: 'Anizotropija'
   },
 
   // ---- Audio
@@ -512,7 +540,8 @@ export default {
     sr: 'Звук',
     it: 'Audio',
     ja: 'オーディオ',
-    cs: 'Zvuk'
+    cs: 'Zvuk',
+    lt: 'Garsas'
   },
 
   sfxvolume: {
@@ -535,7 +564,8 @@ export default {
     it: 'SFX Volume',
     ja: '効果音',
     cs: 'Hlasitost SFX',
-    zh: '音效音量'
+    zh: '音效音量',
+    lt: 'Efektų garsumas'
   },
 
   sfxmultiplier: {
@@ -546,7 +576,8 @@ export default {
     zh: '外部音效倍率',
     pt: 'Multiplicador SFX Externo',
     cs: 'Externí multiplikátor SFX',
-    sr: 'Спољни SFX множилац'
+    sr: 'Спољни SFX множилац',
+    lt: 'Išorinių efektų daugiklis'
   },
 
   multiplierdesc: {
@@ -557,7 +588,8 @@ export default {
     zh: '不是你施放的法術可以減少音量。100% = 沒有聲音，50% = 一半音量。',
     pt: 'volume de magias não lançados por você podem ser reduzidos. 100% = Sem redução de som, 50% = metade do volume.',
     cs: 'Hlasitost oouzla, která jste neseslali vy, lze snížit. 100 % = žádné snížení zvuku, 50 % = poloviční hlasitost',
-    sr: 'Јачина звука чаролија које ниси бацио ти може да се смањи. 100% = без смањења звука, 50% = упола тиша јачина.'
+    sr: 'Јачина звука чаролија које ниси бацио ти може да се смањи. 100% = без смањења звука, 50% = упола тиша јачина.',
+    lt: 'Ne jūsų naudojamų burtų garsą galima pritildyti. 100% = garsas nemažinamas, 50% = perpus tyliau.'
   },
 
   ambiencevolume: {
@@ -572,7 +604,8 @@ export default {
     cs: 'Hlasitost prostředí',
     zh: '環境音量',
     ko: '환경 효과음',
-    sr: 'Јачина амбијенталног звука'
+    sr: 'Јачина амбијенталног звука',
+    lt: 'Aplinkos garsumas'
   },
 
   musicvolume: {
@@ -592,7 +625,8 @@ export default {
     ja: '音楽',
     ko: '음악 볼륨',
     cs: 'Hlasitost Hudby',
-    zh: '音樂音量'
+    zh: '音樂音量',
+    lt: 'Muzikos garsumas'
   },
 
   mutegame: {
@@ -603,7 +637,8 @@ export default {
     pt: 'Silenciar jogo',
     it: 'Silenzia gioco',
     pl: 'Wycisz grę',
-    ru: 'Отключить звук игры'
+    ru: 'Отключить звук игры',
+    lt: 'Užtildyti žaidimą'
   },
 
   mutemenu: {
@@ -614,7 +649,8 @@ export default {
     pt: 'Silenciar menu',
     it: 'Silenzia menu',
     pl: 'Wycisz menu',
-    ru: 'Отключить звук меню'
+    ru: 'Отключить звук меню',
+    lt: 'Užtildyti meniu'
   },
 
   // ---- Chat
@@ -638,7 +674,8 @@ export default {
     sr: 'Чет',
     it: 'Chat',
     ja: 'チャット',
-    cs: 'Chat'
+    cs: 'Chat',
+    lt: 'Pokalbiai'
   },
 
   chatbubbles: {
@@ -659,7 +696,8 @@ export default {
     tr: 'Sohbet balonlarını göster',
     ja: 'チャットをキャラクター上に表示',
     ko: '채팅 표시',
-    cs: 'Zobrazit bubliny chatu'
+    cs: 'Zobrazit bubliny chatu',
+    lt: 'Rodyti pokalbių burbulus'
   },
 
   combatlog: {
@@ -680,7 +718,8 @@ export default {
     tr: 'Savaş Günlüğü',
     ja: '戦闘ログ',
     ko: '전투 로그',
-    cs: 'Bojový deník'
+    cs: 'Bojový deník',
+    lt: 'Kovos žurnalas'
   },
 
   // ---- User interface
@@ -704,7 +743,8 @@ export default {
     sr: 'Интерфејс',
     it: 'Interfaccia',
     ja: 'インターフェース',
-    cs: 'Rozhraní'
+    cs: 'Rozhraní',
+    lt: 'Sąsaja'
   },
 
   language: {
@@ -727,7 +767,8 @@ export default {
     sr: 'Језик',
     it: 'Linguaggio',
     ja: '言語',
-    cs: 'Jazyk'
+    cs: 'Jazyk',
+    lt: 'Kalba'
   },
 
   invwidth: {
@@ -750,7 +791,8 @@ export default {
     tr: 'Enventar genişliği',
     ja: 'インベントリの行',
     cs: 'Šířka inventáře',
-    zh: '物品欄寬度'
+    zh: '物品欄寬度',
+    lt: 'Inventoriaus plotis'
   },
 
   // Do NOT translate "Stash"
@@ -771,7 +813,8 @@ export default {
     ja: 'Stashの行',
     ko: 'Stash 너비',
     cs: 'Šířka Stash',
-    zh: 'Stash 寬度'
+    zh: 'Stash 寬度',
+    lt: 'Stash plotis'
   },
 
   // Do NOT translate "Stash"
@@ -792,7 +835,8 @@ export default {
     ja: 'Stashの列',
     ko: 'Stash 높이',
     cs: 'Výška Stash',
-    zh: 'Stash 高度'
+    zh: 'Stash 高度',
+    lt: 'Stash aukštis'
   },
 
   tutorial: {
@@ -815,7 +859,8 @@ export default {
     sr: 'Туторијал',
     it: 'Tutorial',
     ja: 'チュートリアル',
-    cs: 'Vyukový program'
+    cs: 'Vyukový program',
+    lt: 'Žaidimo apmokymas'
   },
 
   resettutorial: {
@@ -838,7 +883,8 @@ export default {
     sr: 'Понови туторијал',
     it: 'Ripristina tutorial',
     ja: 'チュートリアルを初期化',
-    cs: 'Obnovit vyukový program'
+    cs: 'Obnovit vyukový program',
+    lt: 'Pradėti apmokymą iš naujo'
   },
 
   disabletutorial: {
@@ -859,7 +905,8 @@ export default {
     it: 'Disabilita il tutorial',
     ja: 'チュートリアルを無効化',
     ko: '튜토리얼 건너뛰기',
-    cs: 'Vypnout vyukový program'
+    cs: 'Vypnout vyukový program',
+    lt: 'Išjungti apmokymą'
   },
 
   fpsping: {
@@ -875,7 +922,8 @@ export default {
     zh: '顯示 FPS / PING',
     pt: 'Mostrar FPS / PING',
     cs: 'Ukázat FPS / PING',
-    sr: 'Прикажи FPS / PING'
+    sr: 'Прикажи FPS / PING',
+    lt: 'Rodyti FPS / PING'
   },
 
   nameplates: {
@@ -885,7 +933,8 @@ export default {
     ko: '이름표',
     zh: '名牌',
     pt: 'Barras e Nomes',
-    cs: 'Jmenovky'
+    cs: 'Jmenovky',
+    lt: 'Vardų lentelės'
   },
 
   drawrange: {
@@ -895,7 +944,8 @@ export default {
     ko: '이름표 최대 표시 거리',
     zh: '顯示範圍',
     pt: 'Distância de Renderização',
-    cs: 'Vykreslovací vzdálenost'
+    cs: 'Vykreslovací vzdálenost',
+    lt: 'Atvaizdavimo atstumas'
   },
 
   monsterbars: {
@@ -905,7 +955,8 @@ export default {
     ko: '몹 체력바',
     zh: '怪物血條',
     pt: 'Barra dos Monstros',
-    cs: 'Bar monstra'
+    cs: 'Bar monstra',
+    lt: 'Monstrų juostos'
   },
 
   monsternames: {
@@ -915,7 +966,8 @@ export default {
     ko: '몹 이름표',
     zh: '怪物名稱',
     pt: 'Nome dos Monstros',
-    cs: 'Jmenovka Monstra'
+    cs: 'Jmenovka Monstra',
+    lt: 'Monstrų vardai'
   },
 
   friendlyplayerbars: {
@@ -925,7 +977,8 @@ export default {
     ko: '아군 체력바',
     zh: '友方血條',
     pt: 'Barras de jogadores amigáveis',
-    cs: 'Bar spojeneckého hráče'
+    cs: 'Bar spojeneckého hráče',
+    lt: 'Draugiškų žaidėjų juostos'
   },
 
   friendlyplayernames: {
@@ -935,7 +988,8 @@ export default {
     ko: '아군 이름표',
     zh: '友方名稱',
     pt: 'Nomes de jogadores amigáveis',
-    cs: 'Jmenovka spojeneckého hráče'
+    cs: 'Jmenovka spojeneckého hráče',
+    lt: 'Draugiškų žaidėjų vardai'
   },
 
   enemyplayerbars: {
@@ -945,7 +999,8 @@ export default {
     ko: '적 체력바',
     zh: '敵方血條',
     pt: 'Barras de jogadores inimigos',
-    cs: 'Bar nepřátelského hráče'
+    cs: 'Bar nepřátelského hráče',
+    lt: 'Priešiškų žaidėjų juostos'
   },
 
   enemyplayernames: {
@@ -955,7 +1010,8 @@ export default {
     ko: '적 이름표',
     zh: '敵方名稱',
     pt: 'Nomes de jogadores inimigos',
-    cs: 'Jmenovka nepřátelského hráče'
+    cs: 'Jmenovka nepřátelského hráče',
+    lt: 'Priešiškų žaidėjų vardai'
   },
 
   showlevel: {
@@ -965,7 +1021,8 @@ export default {
     ko: '항상 레벨 표시',
     zh: '總是顯示等級',
     pt: 'Sempre mostrar o level',
-    cs: 'Vždy ukázat úroveň'
+    cs: 'Vždy ukázat úroveň',
+    lt: 'Visada rodyti lygį'
   },
 
   classcolors: {
@@ -975,7 +1032,8 @@ export default {
     ko: '직업별 색 체력바',
     zh: '職業顏色血條',
     pt: 'Cor das barras por classe',
-    cs: 'Barva baru podle třídy'
+    cs: 'Barva baru podle třídy',
+    lt: 'Klasių spalvų juostos'
   },
 
   transparency: {
@@ -985,7 +1043,8 @@ export default {
     ko: '투명도',
     zh: '透明度',
     pt: 'Transparência',
-    cs: 'Průhlednost'
+    cs: 'Průhlednost',
+    lt: 'Permatomumas'
   },
 
   drops: {
@@ -994,7 +1053,8 @@ export default {
     tr: 'Ganimetler',
     ko: '전리품',
     cs: 'Dropy',
-    pt: 'Drops'
+    pt: 'Drops',
+    lt: 'Iškritęs laimikis'
   },
 
   itemlabelrange: {
@@ -1004,7 +1064,8 @@ export default {
     ko: '전리품 이름 표시 거리',
     zh: '掉落物名稱顯示範圍',
     pt: 'Distância de exibição dos nomes dos drops',
-    cs: 'Vzdálenost zobrazení názvů dropů'
+    cs: 'Vzdálenost zobrazení názvů dropů',
+    lt: 'Daiktų etikečių atstumas'
   },
 
   showquality: {
@@ -1014,7 +1075,8 @@ export default {
     ko: '드랍된 아이템 퀄리티% 보이기',
     zh: '顯示掉落品質%',
     pt: 'Mostrar qualidade do drop %',
-    cs: 'Ukázat qualitu% dropu'
+    cs: 'Ukázat qualitu% dropu',
+    lt: 'Rodyti daiktų kokybę %'
   },
 
   qualitymin: {
@@ -1024,7 +1086,8 @@ export default {
     ko: '아이템 퀄리티% 최솟값',
     zh: '掉落最小品質%',
     pt: 'Qualidade do drop minima %',
-    cs: 'Minimální Qualita% dropu'
+    cs: 'Minimální Qualita% dropu',
+    lt: 'Mažiausia daiktų kokybė %'
   },
 
   excludedrops: {
@@ -1034,7 +1097,8 @@ export default {
     ko: '아이템 보이기에서 제외할 종류',
     zh: '排除掉落顯示類型',
     pt: 'Excluir tipos de Drops',
-    cs: 'Vyloučit typy dropu'
+    cs: 'Vyloučit typy dropu',
+    lt: 'Nerodyti daiktų tipų'
   },
 
   damagehealing: {
@@ -1044,7 +1108,8 @@ export default {
     ko: '데미지 & 치유량',
     zh: '傷害 & 治療',
     pt: 'Dano & Cura',
-    cs: 'Poškození a léčba'
+    cs: 'Poškození a léčba',
+    lt: 'Žala ir gydymas'
   },
 
   incomingdamage: {
@@ -1054,7 +1119,8 @@ export default {
     ko: '받는 데미지',
     zh: '承受傷害',
     pt: 'Danos recebidos',
-    cs: 'Přicházející poškození'
+    cs: 'Přicházející poškození',
+    lt: 'Gaunama žala'
   },
 
   incominghealing: {
@@ -1064,7 +1130,8 @@ export default {
     ko: '받는 치유',
     zh: '回復血量',
     pt: 'Curas recebidas',
-    cs: 'Příchozí léčení'
+    cs: 'Příchozí léčení',
+    lt: 'Gaunamas gydymas'
   },
 
   incomingmana: {
@@ -1074,7 +1141,8 @@ export default {
     ko: '받는 마나',
     zh: '回復魔力',
     pt: 'Mana recebidas',
-    cs: 'Příchozí mana'
+    cs: 'Příchozí mana',
+    lt: 'Gaunama mana'
   },
 
   preventoverlap: {
@@ -1084,7 +1152,8 @@ export default {
     ko: '숫자 중복 방지',
     zh: '防止覆蓋數字',
     pt: 'Evitar números sobrepostos',
-    cs: 'Zabránit překrývání čísel'
+    cs: 'Zabránit překrývání čísel',
+    lt: 'Neleisti skaičiams persidengti'
   },
 
   icons: {
@@ -1094,7 +1163,8 @@ export default {
     ko: '아이콘 & 버프',
     zh: '圖像 & 狀態',
     pt: 'Icones & Buffs',
-    cs: 'Ikony & buffy'
+    cs: 'Ikony & buffy',
+    lt: 'Piktogramos ir buff\'ai'
   },
 
   skillcdtext: {
@@ -1104,7 +1174,8 @@ export default {
     ko: '재사용 시간 텍스트 (스킬)',
     zh: '冷卻文字 (技能)',
     pt: 'Texto de recarga (habilidades)',
-    cs: 'Cooldown text (dovedností)'
+    cs: 'Cooldown text (dovedností)',
+    lt: 'Atsistatymo laiko tekstas (įgūdžiai)'
   },
 
   buffcdtext: {
@@ -1114,7 +1185,8 @@ export default {
     ko: '재사용 시간 텍스트 (버프)',
     zh: '冷卻文字 (狀態)',
     pt: 'Texto de recarga (buffs)',
-    cs: 'Cooldown text (buffy)'
+    cs: 'Cooldown text (buffy)',
+    lt: 'Atsistatymo laiko tekstas (buff\'ai)'
   },
 
   selfbuffsonly: {
@@ -1124,7 +1196,8 @@ export default {
     ko: '사용자 버프만 보기',
     zh: '只顯示你的狀態',
     pt: 'Mostre apenas seus buffs',
-    cs: 'Ukázat pouze svoje buffy'
+    cs: 'Ukázat pouze svoje buffy',
+    lt: 'Rodyti tik savo buff\'us'
   },
 
   flashinterval: {
@@ -1134,7 +1207,8 @@ export default {
     ko: '버프 시간 초과 플래시 간격',
     zh: '狀態結束前閃爍間隔',
     pt: 'Intervalo do flash de fim do Buff',
-    cs: 'Buff timeout flash interval'
+    cs: 'Buff timeout flash interval',
+    lt: 'Besibaigiančio buff\'o mirksėjimo dažnis'
   },
 
   flashduration: {
@@ -1144,7 +1218,8 @@ export default {
     ko: '버프 시간 초과 플래시 기간',
     zh: '狀態結束前閃爍時間',
     pt: 'Duração do flash de fim do Buff',
-    cs: 'Buff timeout flash duration'
+    cs: 'Buff timeout flash duration',
+    lt: 'Besibaigiančio buff\'o mirksėjimo trukmė'
   },
 
   buffmax: {
@@ -1153,7 +1228,8 @@ export default {
     ko: '버프 최대값',
     zh: '顯示狀態數量',
     pt: 'Buff máximo',
-    cs: 'Maximum buffů'
+    cs: 'Maximum buffů',
+    lt: 'Daugiausia buff\'ų'
   },
 
   buffmaxparty: {
@@ -1162,7 +1238,8 @@ export default {
     ko: '버프 최대값 (파티)',
     zh: '顯示狀態數量(party)',
     pt: 'Buff máximo (party)',
-    cs: 'Maximum buffů'
+    cs: 'Maximum buffů',
+    lt: 'Daugiausia buff\'ų (Party)'
   },
 
   updateratelimit: {
@@ -1172,7 +1249,8 @@ export default {
     ko: '파티 버프 업데이트 속도 제한',
     zh: '隊伍狀態更新率限制',
     pt: 'Taxa de atualização de buffs da party limitado',
-    cs: 'Omezený počet aktualizací party buffů'
+    cs: 'Omezený počet aktualizací party buffů',
+    lt: 'Ribotas party buff\'ų atnaujinimo dažnis'
   },
 
   unitframes: {
@@ -1192,7 +1270,8 @@ export default {
     ko: '수동 파티 수락 보여주기',
     zh: '顯示自身在隊伍',
     pt: 'Mostrar-se na party',
-    cs: 'Zobrazit sebe v party'
+    cs: 'Zobrazit sebe v party',
+    lt: 'Rodyti save Party sąraše'
   },
 
   partymana: {
@@ -1202,7 +1281,8 @@ export default {
     ko: '파티 마나',
     zh: '隊伍魔力',
     pt: 'Mostrar mana da Party',
-    cs: 'Party mana'
+    cs: 'Party mana',
+    lt: 'Party mana'
   },
 
   partyframewidth: {
@@ -1212,7 +1292,8 @@ export default {
     ko: '파티 프레임 너비',
     zh: '隊伍框架寬度',
     pt: 'Largura da janela da Party',
-    cs: 'Šířka party rámu'
+    cs: 'Šířka party rámu',
+    lt: 'Party rėmelio plotis'
   },
 
   protectedquality: {
@@ -1222,7 +1303,8 @@ export default {
     ko: '보호 아이템 품질',
     zh: '保護物品質量',
     pt: 'Proteger item de qualidade',
-    cs: 'Kvalita chráněného předmětu'
+    cs: 'Kvalita chráněného předmětu',
+    lt: 'Apsaugotų daiktų kokybė'
   },
 
   // ---- map
@@ -1234,7 +1316,8 @@ export default {
     ko: '지도',
     zh: '地圖',
     pt: 'Mapa',
-    cs: 'Mapa'
+    cs: 'Mapa',
+    lt: 'Žemėlapis'
   },
 
   maplowqual: {
@@ -1255,7 +1338,8 @@ export default {
     tr: 'Düşük kalite modu',
     ja: '低品質モード',
     ko: '저품질 모드',
-    cs: 'Mód nízké kvality'
+    cs: 'Mód nízké kvality',
+    lt: 'Žemesnės kokybės režimas'
   },
 
   mapshowmonsters: {
@@ -1276,7 +1360,8 @@ export default {
     tr: 'Canavarları göster',
     ja: 'モンスターを表示',
     ko: '몬스터 표시',
-    cs: 'Zobrazit monstra'
+    cs: 'Zobrazit monstra',
+    lt: 'Rodyti monstrus'
   },
 
   reload: {
@@ -1286,6 +1371,7 @@ export default {
     ko: '재시작 필요',
     zh: '需要重新加載',
     pt: 'Requer recarga',
-    cs: 'Vyžaduje opětovné načtení'
+    cs: 'Vyžaduje opětovné načtení',
+    lt: 'Reikės perkrauti'
   }
 }
