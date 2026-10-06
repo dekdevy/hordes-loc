@@ -27,6 +27,7 @@ export default {
     sr: 'Bloodlust је хорда која вреднује слободу и оданост, нудећи место за индивидуализам или чак хаос. Њихова одбрана налази се у пустињском царству званом Headless Landing.',
     it: 'I valori della Bloodlust sono libertà e lealtà, offrendo un posto per essere individuali oppure caotici. I loro avamposti sono situati in una landa deserta chiamata Headless Landing.',
     ja: 'Bloodlustの群衆は自由と忠誠心を重んじ、己の欲求に従い戦場を混沌に陥れます。彼らの防衛線はHeadless Landingと呼ばれる砂漠の地域に所在します。',
-    ar: 'قوم The Bloodlust يقدّرون الحرية والولاء, ويوفّرون مكاناً للتفرد أو حتى للفوضى, تقع دفاعاتهم في منطقة صحراوية تسمى Headless Landing .'
+    ar: 'قوم The Bloodlust يقدّرون الحرية والولاء, ويوفّرون مكاناً للتفرد أو حتى للفوضى, تقع دفاعاتهم في منطقة صحراوية تسمى Headless Landing .',
+    lt: 'Bloodlust orda brangina laisvę ir ištikimybę. Čia atsiras vietos ir individualistams, ir net chaosui. Ordos gynybinės pozicijos įsikūrusios dykumų krašte, vadinamame Headless Landing.'
   }
 }

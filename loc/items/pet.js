@@ -11,7 +11,8 @@ export default [
       tr: 'Eşyaları senin için toplayan minik bir kurtçuk.',
       cs: 'Drobný hlupák, který za vás bude rabovat předměty.',
       pt: 'Uma larva minúscula que irá pegar itens para você.',
-      es: 'Una pequeña larva que recogerá objetos para ti.'
+      es: 'Una pequeña larva que recogerá objetos para ti.',
+      lt: 'Mažytė lerva, kuri rinks jums daiktus.'
     }
   },
 
@@ -27,7 +28,8 @@ export default [
       tr: 'Eşyaları senin için toplayan minik bir goblin.',
       cs: 'Malý skřet, který pro vás bude rabovat předměty.',
       pt: 'Um pequeno goblim que irá pegar itens para você.',
-      es: 'Un pequeño goblin que recogerá objetos para ti.'
+      es: 'Un pequeño goblin que recogerá objetos para ti.',
+      lt: 'Mažytis goblinas, kuris rinks jums daiktus.'
     }
   },
 

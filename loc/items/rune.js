@@ -15,7 +15,8 @@ export default [
       zh: '這種扁平材料在礦山中很常見；怪物經常會開採Lucid以支撐他們的經濟。',
       tr: 'Bu yassı madde madenlerde yaygın olarak bulunur. Canavarlar ekonomilerini desteklemek için genelde Lucid madenciliği yaparlar.',
       cs: 'Tento plochý materiál se běžně vyskytuje v dolech; monstra často těží pro Lucid, aby podpořila jejich ekonomiku.',
-      ko: '이 평평한 물질은 주로 광산에서 발견됩니다; 괴물들은 그들의 경제를 위해서 주로 이것을 채광합니다.'
+      ko: '이 평평한 물질은 주로 광산에서 발견됩니다; 괴물들은 그들의 경제를 위해서 주로 이것을 채광합니다.',
+      lt: 'Šios plokščios medžiagos dažnai randama kasyklose. Monstrai Lucid kasa savo ekonomikai palaikyti.'
     }
   },
 
@@ -35,7 +36,8 @@ export default [
       zh: '在Melant上的凹凸給予一種文字或符號的外觀，但鐵匠相信這些天然形成的材料反映出了強大的永恆結構。',
       tr: 'Melant\'ın eğrilikleri üzerinde yazı veya sembol var görünüşü verdi, ama demirciler bu doğal halin güçlü doğal bir bünye ortaya çıkardığına inanırlar.',
       cs: 'Křivky Melantu dávají vzhled písma nebo symbolů, ale kováři věří, že tyto přírodní útvary odhalují silnou vnitřní strukturu.',
-      ko: '이것의 이용하면 글씨나 문자, 상징과 같은것을 표현 할 수 있습니다, 대장장이들은 이것의 자연적의 구조형태가 강력한 내부 구조를 가진다고 생각합니다.'
+      ko: '이것의 이용하면 글씨나 문자, 상징과 같은것을 표현 할 수 있습니다, 대장장이들은 이것의 자연적의 구조형태가 강력한 내부 구조를 가진다고 생각합니다.',
+      lt: 'Melant vingiai primena raštus ar simbolius, tačiau kalviai tiki, kad šie natūralūs dariniai atskleidžia galingą vidinę struktūrą.'
     }
   },
 
@@ -55,7 +57,8 @@ export default [
       zh: '這個實用的材料來自於大火山與周遭的地區，Turim常常會在商隊之中交易。',
       tr: 'Bu kullanışlı malzemenin kökeni büyük bir volkan ve etrafını saran bölgeden dayanıyor. Sık sık seyyarlar arasında Turim\'in ticareti yapılır.',
       cs: 'Tento užitečný materiál pochází z velké sopky a okolního regionu. Turim byly kdysi často obchodovány mezi karavany.',
-      ko: '이 유용한 물질은 화산에 근접한 지형에서 발견됩니다. 이것은 한때 상인들 사이에서 자주 거래되었습니다.'
+      ko: '이 유용한 물질은 화산에 근접한 지형에서 발견됩니다. 이것은 한때 상인들 사이에서 자주 거래되었습니다.',
+      lt: 'Šios naudingos medžiagos randama didžiajame ugnikalnyje ir jo apylinkėse. Kadaise karavanai dažnai prekiaudavo Turim.'
     }
   },
 
@@ -75,7 +78,8 @@ export default [
       zh: '這個粗糙的材料在最近被鐵匠發現能夠使用"沒價值的Fundo"來進行升級。從那時候開始，Fundo一直被當作是個有價值的資源。',
       tr: 'Bu sağlam malzemenin yakın zamanda, demirciler "değersiz Fundo" ile deneyler yapmaya başladıklarında yükseltmeler için faydalı olduğu bulundu. O zamandan beri, Fundo değerli bir kaynak olarak değerlendiriliyor.',
       cs: 'Tento robustní materiál byl nedávno shledán užitečným pro upgrady, když kováři začali experimentovat s „bezcenným Fundo“. Od té doby je Fundo považováno za cenný zdroj.',
-      ko: '이 강직한 물질은 최근에 대장장이들에게서 이것의 활용 가치가 없는 형태를 연구하다가 발견했습니다. 그로부터, 이것은 가치있는 물질로 간주되고 있습니다.'
+      ko: '이 강직한 물질은 최근에 대장장이들에게서 이것의 활용 가치가 없는 형태를 연구하다가 발견했습니다. 그로부터, 이것은 가치있는 물질로 간주되고 있습니다.',
+      lt: 'Neseniai paaiškėjo, kad ši tvirta medžiaga tinka daiktams tobulinti. Tai atrado kalviai, eksperimentuodami su „bevertėmis Fundo“. Nuo tada Fundo laikomos vertingu ištekliumi.'
     }
   },
 
@@ -95,7 +99,8 @@ export default [
       zh: 'Amari通常會被海外的王國當作禮物。學者說在Amari第一次被發現時是由海中生物在競賽時與地上的王國接觸並且向他們購買從海床來的Amari。',
       tr: 'Amari genel olarak denizaşırı krallıklara hediye olarak verilir. Alimler, Amari\'nin ilk kez bir deniz canlısı ırkının birkaç kara krallığı ile ilk temas kurduğunda ve Amari\'yi deniz tabanından getirdiğinde keşfedildiğini söylüyorlar.',
       cs: 'Amari se často dávají jako dary ze zámořských království. Učenci říkají, že Amari byli poprvé objeveni, když rasa mořských tvorů navázala první kontakt s několika suchozemskými královstvími a přinesla Amari z mořského dna.',
-      ko: '이것은 주로 바다너머의 왕국에서 선물로 획득하였습니다. 학자들은 이것이 한 해양생물 무리가 여러 지상 왕국과 접촉해서 해저에서 가져온 것을 첫 발견으로 간주하고있습니다.'
+      ko: '이것은 주로 바다너머의 왕국에서 선물로 획득하였습니다. 학자들은 이것이 한 해양생물 무리가 여러 지상 왕국과 접촉해서 해저에서 가져온 것을 첫 발견으로 간주하고있습니다.',
+      lt: 'Amari dažnai dovanoja užjūrio karalystės. Žinovai teigia kad Amari buvo atrasti tada kai jūrų padarų rasė pirmą kartą užmezgė ryšius su sausumos karalystėmis ir atnešė jų iš jūros dugno.'
     }
   },
 
@@ -115,7 +120,8 @@ export default [
       zh: '常常被搞混成黃金，這個材料曾經被認為是龍的鱗片。許多古代的裝飾品與武器會鑲嵌著Purum。',
       tr: 'Altınla sıkça karıştırılan bu maddenin bir zamanlar ejderha puluyla aynı madde olduğu düşünülüyordu. Birçok dekorasyon ve silah, Purum ile süslenmiştir.',
       cs: 'Tento materiál, často zaměňovaný za zlato, byl kdysi považován za stejný materiál jako dračí šupiny. Purum zdobí mnoho starověkých dekorací a zbraní.',
-      ko: '이것은 가끔씩 금으로 오해받곤합니다, 이것은 한때 용의 비늘과 같은 물질로 생각되었습니다. 많은 고대의 장식들과 무기는 이것으로 꾸며져있습니다.'
+      ko: '이것은 가끔씩 금으로 오해받곤합니다, 이것은 한때 용의 비늘과 같은 물질로 생각되었습니다. 많은 고대의 장식들과 무기는 이것으로 꾸며져있습니다.',
+      lt: 'Ši medžiaga dažnai painiojama su auksu, o kadaise net manyta kad tai tas pats kaip drakonų žvynai. Purum puošia daugybę senovinių dirbinių ir ginklų.'
     }
   },
 
@@ -132,7 +138,8 @@ export default [
       es: 'A menudo, los Royals son apropiados y coleccionados por reyes y reinas para ser utilizados como regalos ceremoniales durante matrimonios concertados.',
       pt: 'Royals costumam ser propriedade e recolhidos por reis e rainhas para serem usados como presentes cerimoniais durante casamentos arranjados.',
       nl: 'Royal is vaak in bezit en wordt verzameld door koning en koninginnen om gebruikt te worden als ceremoniële cadeaus tijden geregelde huwelijken.',
-      cs: 'Royals jsou často vlastněny a shromažďovány králi a královnami, aby byly použity jako slavnostní dary během dohodnutých sňatků.'
+      cs: 'Royals jsou často vlastněny a shromažďovány králi a královnami, aby byly použity jako slavnostní dary během dohodnutých sňatků.',
+      lt: 'Royal dažniausiai turi ir kolekcionuoja karaliai ir karalienės. Per sutartas vedybas jie tampa iškilmingomis dovanomis.'
     }
   },
 
@@ -149,7 +156,8 @@ export default [
       es: 'Estas formaciones ocurren naturalmente con mayor frecuencia cerca de Yggdrasil, el Árbol del Mundo. La belleza y la rareza del poder de Tara los hacen igualmente adecuados para reliquias de joyas o mejoras de items.',
       pt: 'Essas formações ocorrem naturalmente com mais frequência perto de Yggdrasil, a Árvore do Mundo. A beleza e a raridade do poder de Tara os tornam igualmente adequados para relíquias de joias ou atualizações de itens.',
       nl: 'Deze formaties komen natuurlijk het meest voor bij Yggdrasil, de World Tree. De schoonheid en kracht zeldzaamheid van Tara zorgen ervoor dat ze zowel geschikt zijn voor juwelen als upgrades.',
-      cs: 'Tyto útvary se přirozeně vyskytují nejčastěji poblíž Yggdrasilu, Světového stromu. Krása a mocná vzácnost Tary je činí stejně vhodnými jak pro šperky, tak pro upgrady předmětů.'
+      cs: 'Tyto útvary se přirozeně vyskytují nejčastěji poblíž Yggdrasilu, Světového stromu. Krása a mocná vzácnost Tary je činí stejně vhodnými jak pro šperky, tak pro upgrady předmětů.',
+      lt: 'Tokie dariniai dažniausiai susidaro netoli Yggdrasil, Pasualio Medžio. Dėl savo grožio, galios ir retumo Tara vienodai tinka ir šeimos papuošalams, ir daiktams tobulinti.'
     }
   },
 
@@ -166,7 +174,8 @@ export default [
       es: 'Una vez que se descubrieron los métodos secretos para mejorar el equipo utilizando el poder de Gloom, esos métodos se vendieron en breve a un reino contrario como una de las mayores traiciones en la historia de los reinos.',
       pt: 'Uma vez que os métodos secretos de aumentar o equipamento usando o poder das Gloom foram descobertos, esses métodos foram vendidos em breve a um reino oposto como uma das maiores traições da história dos reinos.',
       nl: 'Toen het geheim achter het gebruiken van de kracht van Gloom ontdekt werd, waren de methodes snel verkocht aan een tegenstaand koninkrijk als een van de grootste verraden in de geschiedenis van de rijken.',
-      cs: 'Jakmile byly objeveny tajné metody vylepšení vybavení pomocí síly Gloomu, byly tyto metody zakrátko prodány nepřátelskému království jako jedna z největších zrad v historii říší.'
+      cs: 'Jakmile byly objeveny tajné metody vylepšení vybavení pomocí síly Gloomu, byly tyto metody zakrátko prodány nepřátelskému království jako jedna z největších zrad v historii říší.',
+      lt: 'Vos tik buvo atrasti slapti būdai kaip stiprinti ekipuotę Gloom galia, jie netrukus buvo parduoti priešiškai karalystei. Tai viena didžiausių išdavysčių kraštų istorijoje.'
     }
   },
 
@@ -183,7 +192,8 @@ export default [
       es: 'Propiedades cristalinas inusuales del Plurae lo convierten en un material excepcional. Aunque el Plurae fue redescubierto recientemente en las profundidades olvidadas del mundo, el uso del Plurae ya han sido importantes para cambiar el rumbo de la guerra.',
       pt: 'Propriedades cristalinas incomuns em Plurae tornam-no um material excepcional. Embora o Plurae tenha sido redescoberto apenas recentemente nas profundezas esquecidas do mundo, as aplicações do Plurae já foram substanciais para virar a maré da guerra.',
       nl: 'Ongewone kristallijn eigenschappen in Plurae maken het een uitzonderlijk materiaal. Hoewel Plurae slecht recent herontdekt werden in de vergeten dieptes van de wereld, zijn de toepassingen ervan als substantieel geweest om het tij van oorlog te keren.',
-      cs: 'Neobvyklé krystalické vlastnosti z Plurae dělají výjimečný materiál. Ačkoli Plurae byly teprve nedávno znovuobjeveny v zapomenutých hlubinách světa, aplikace Plurae již byly podstatné v otočení přílivu války.'
+      cs: 'Neobvyklé krystalické vlastnosti z Plurae dělají výjimečný materiál. Ačkoli Plurae byly teprve nedávno znovuobjeveny v zapomenutých hlubinách světa, aplikace Plurae již byly podstatné v otočení přílivu války.',
+      lt: 'Plurae yrs išskirtinė medžiaga dėl savo neįprastų kristalinių savybių. Nors pamirštose pasaulio gelmėse ji vėl atrasta visai neseniai, jau spėjo gerokai pakreipti karo eigą.'
     }
   },
 
@@ -200,7 +210,8 @@ export default [
       es: 'Si bien las reinas y reyes del pasado consideraron el Aeter como regalos de los dioses, las historias escritas afirman que el Aeter se encontró dentro de meteoritos negros.',
       pt: 'Embora Aeter já tenha sido considerado um presente dos deuses por rainhas e reis do passado, histórias escritas afirmam que Aeter foi encontrado dentro de meteoritos negros.',
       nl: 'Hoewel Aether ooit gezien werd als cadeaus van de goden door koning en koninginnen van het verleden, geschreven geschiedenis beweert dat Aether gevonden werden in zwarte meteorieten.',
-      cs: 'Ačkoli byly Aeter kdysi považovány za dary od bohů královnami a králi minulosti, písemná historie tvrdí, že Aeter byl nalezen uvnitř černých meteoritů.'
+      cs: 'Ačkoli byly Aeter kdysi považovány za dary od bohů královnami a králi minulosti, písemná historie tvrdí, že Aeter byl nalezen uvnitř černých meteoritů.',
+      lt: 'Praeities karaliai ir karalienės Aeter laikė dievų dovana, tačiau metraščiai teigia kad Aeter buvo rasta juoduosiuose meteorituose.'
     }
   }
 ]

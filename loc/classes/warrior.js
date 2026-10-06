@@ -23,7 +23,8 @@ export default {
     sr: 'Ратник',
     it: 'Guerriero',
     ja: '戦士',
-    ar: 'محارب'
+    ar: 'محارب',
+    lt: 'Karys'
   },
   // Class description, visible during character creation
   description: {
@@ -48,7 +49,8 @@ export default {
     sr: 'Ратници су створени да издрже више чудовишта него било која друга класа захваљујући високој одбрани кроз опрему (Shield-ове) и снажним одбрамбеним побољшањима.',
     it: 'I Guerrieri sono creati per tankare più mostri rispetto alle altri classi avendo una difesa alta grazie a scudi e forti buff difensivi.',
     ja: '戦士は装備(盾)と強力な防御バフによる高い防御力により、他のどの職業よりもモンスターを引き付けられるよう作られています。',
-    ar: 'لدى المحاربين الأفضلية ليؤدوا دور الدبابة أكثر من أي فئة أخرى بسبب امتلاكهم لدفاع عالي من خلال المعدات (الدروع) وقدرات دفاعية'
+    ar: 'لدى المحاربين الأفضلية ليؤدوا دور الدبابة أكثر من أي فئة أخرى بسبب امتلاكهم لدفاع عالي من خلال المعدات (الدروع) وقدرات دفاعية',
+    lt: 'Kariai sutverti atlaikyti daugiau monstrų nei bet kuri kita klasė, nes juos saugo tvirta ekipuotė (skydai) ir galingi gynybiniai pastiprinimai.'
 
   }
 }

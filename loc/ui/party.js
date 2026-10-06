@@ -24,7 +24,8 @@ export default {
     sr: 'Позивница за Party',
     it: 'Invito al party.',
     ja: 'Party招待',
-    cs: 'Pozvat do party'
+    cs: 'Pozvat do party',
+    lt: 'Pakviesti į Party'
   },
 
   // DO NOT translate "Party"
@@ -48,7 +49,8 @@ export default {
     sr: 'Избацивање из Party-ja',
     it: 'Cacciare dal party',
     ja: 'Partyキック',
-    cs: 'Vyhodit z party'
+    cs: 'Vyhodit z party',
+    lt: 'Išmesti iš Party'
   },
 
   // DO NOT translate "Party"
@@ -72,7 +74,8 @@ export default {
     sr: 'Напусти Party',
     it: 'Lasciare il party',
     ja: 'Partyを去る',
-    cs: 'Opustit party'
+    cs: 'Opustit party',
+    lt: 'Palikti Party'
   },
 
   // DO NOT translate "Party"
@@ -96,7 +99,8 @@ export default {
     sr: 'Креирај Party',
     it: 'Creare il party',
     ja: 'Party作成',
-    cs: 'Vytvořit Party'
+    cs: 'Vytvořit Party',
+    lt: 'Sukurti Party'
   },
 
   // DO NOT translate "Party"
@@ -120,7 +124,8 @@ export default {
     sr: '$1 те је позвао/ла да се придружиш Party-ју.',
     it: '$1 ti ha inviato ad entrare nel suo party.',
     ja: '$1 が貴方をPartyに招待しました。',
-    cs: '$1 tě pozval do jejich Party'
+    cs: '$1 tě pozval do jejich Party',
+    lt: '$1 kviečia jus prisijungti prie savo Party.'
   },
 
   link: {
@@ -143,7 +148,8 @@ export default {
     it: 'Link di invito',
     ja: '招待リンク',
     cs: 'Odkaz k pozvánce',
-    zh: '邀請連結'
+    zh: '邀請連結',
+    lt: 'Kvietimo nuoroda'
   },
 
   // DO NOT translate "Party"
@@ -167,7 +173,8 @@ export default {
     it: 'Invia questo link ad altri giocatori! Ciò consentirà loro di unirsi al tuo Party.',
     ja: 'このリンクを他のプレイヤーに送りましょう！Partyに招待する事が出来ます。',
     cs: 'Pošli tento odkaz ostatnm hráčům! Tento odkaz jim umožní se připojit do tvé Party',
-    zh: '發送這個連結給其他玩家！這將允許他們進入 Party。'
+    zh: '發送這個連結給其他玩家！這將允許他們進入 Party。',
+    lt: 'Nusiųskite šią nuorodą kitiems žaidėjams! Jie galės prisijungti prie jūsų Party!'
   },
 
   copyLink: {
@@ -194,7 +201,8 @@ export default {
     it: 'Copia negli appunti',
     ja: 'クリップボードへコピー',
     cs: 'Zkopírovat do schránky',
-    zh: '複製到剪貼簿'
+    zh: '複製到剪貼簿',
+    lt: 'Kopijuoti nuorodą'
   },
 
   summon: {
@@ -214,7 +222,8 @@ export default {
     ja: '召喚',
     ko: '소환',
     cs: 'Vyvolat',
-    zh: '召喚'
+    zh: '召喚',
+    lt: 'Iškviesti'
   },
 
   onSummon: {
@@ -234,7 +243,8 @@ export default {
     ja: '$1 が貴方を召喚しようとしています。',
     ko: '$1 이 당신을 그가 위치한 장소로 소환하려 합니다.',
     cs: '$1 ti nabízí vyvolání do jejich lokace',
-    zh: '$1 召喚你至他的位置。'
+    zh: '$1 召喚你至他的位置。',
+    lt: '$1 siūlo iškviesti jus pas save.'
   },
 
   // Do not translate "Assistant".
@@ -255,7 +265,8 @@ export default {
     ja: 'Assistant へ昇格',
     ko: 'Assistant으로 승급',
     cs: 'Povýšit na Assistant',
-    zh: '升格為 Assistant'
+    zh: '升格為 Assistant',
+    lt: 'Pakeisti į Assistant'
   },
 
   // Do not translate "Leader".
@@ -276,7 +287,8 @@ export default {
     ja: 'Leader へ昇格',
     ko: 'Leader로 승급',
     cs: 'Povýšit na Leader',
-    zh: '升格為 Leader'
+    zh: '升格為 Leader',
+    lt: 'Pakeisti į Leader'
   },
 
   // Do not translate"Assistant".
@@ -297,7 +309,8 @@ export default {
     ja: 'Assistant へ降格',
     ko: 'Assistant에서 강등',
     cs: 'Degradovat Assistant',
-    zh: '降格為 Assistant'
+    zh: '降格為 Assistant',
+    lt: 'Atimti Assistant teises'
   },
 
   startQueue: {
@@ -317,7 +330,8 @@ export default {
     ja: 'キュー',
     ko: '매칭',
     cs: 'Fronta',
-    zh: '列隊'
+    zh: '列隊',
+    lt: 'Stoti į eilę'
   },
 
   stopQueue: {
@@ -337,7 +351,8 @@ export default {
     ja: 'キューを去る',
     ko: '매칭 중단',
     cs: 'Opustit frontu',
-    zh: '離開列隊'
+    zh: '離開列隊',
+    lt: 'Palikti eilę'
   },
 
   noParty: {
@@ -347,7 +362,8 @@ export default {
     ko: '파티 없음',
     zh: '沒有隊伍',
     pt: 'sem Party',
-    es: 'Sin party'
+    es: 'Sin party',
+    lt: 'Nėra Party'
   },
 
   name: {
@@ -361,44 +377,52 @@ export default {
     ko: '멤버',
     zh: '隊員',
     pt: 'Membros',
-    es: 'Miembros'
+    es: 'Miembros',
+    lt: 'nariai'
   },
 
   activities: [
     {
       en: 'Leveling (PvE)',
       es: 'Subir de nivel (PvE)',
-      pt: 'Subir de nível (PvE)'
+      pt: 'Subir de nível (PvE)',
+      lt: 'Lygių kėlimas (PvE)'
     },
     {
       en: 'Farming (PvE)',
       es: 'Farmeo (PvE)',
-      pt: 'Farming (PvE)'
+      pt: 'Farming (PvE)',
+      lt: 'Farminimas (PvE)'
     },
     {
       en: 'Boss Fight (PvE)',
       es: 'Pelea contra jefes (PvE)',
-      pt: 'Luta de Chefes (PvE)'
+      pt: 'Luta de Chefes (PvE)',
+      lt: 'Kova su bosu (PvE)'
     },
     {
       en: 'Obelisk (PvP)',
       es: 'Obelisco (JcJ)',
-      pt: 'Obelisco (PvP)'
+      pt: 'Obelisco (PvP)',
+      lt: 'Obeliskas (PvP)'
     },
     {
       en: 'Arena (PvP)',
       es: 'Arena (JcJ)',
-      pt: 'Arena (PvP)'
+      pt: 'Arena (PvP)',
+      lt: 'Arena (PvP)'
     },
     {
       en: 'War (PvP)',
       es: 'Guerra (JcJ)',
-      pt: 'Guerra (PvP)'
+      pt: 'Guerra (PvP)',
+      lt: 'Karas (PvP)'
     },
     {
       en: 'Other',
       es: 'Otro',
-      pt: 'Outro'
+      pt: 'Outro',
+      lt: 'Kita'
     }
   ]
 }

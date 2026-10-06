@@ -19,7 +19,8 @@ export default [
       cs: 'Ohořelé ingredience byly zkrouceny a smotány dohromady aby vytvořily amulet nuzné protekce. Vytvořit jednoduchý amulet jako je tento se považuje za běžnou taktiku pro přežití už od pradávna.',
       it: 'Ingredienti bruciati sono stati attorcigliati e legati tra loro per formare un amuleto che dona una lieve protezione. Creare amuleti semplici come questo è sempre stata una pratica di sopravvivenza comune fin dai tempi antichi.',
       ja: '燃え遺った素材は一握りの加護を授ける為に、寄せ集められて結ばれ、捩じられます。このように簡単なお守りを作る事は、古来より生存の要として親しまれてきました。',
-      zh: '把焚燒過後的材料扭轉後，綁成一個具微弱保護效果的護身符。製造這樣的護身符，是自古以來的常見生存策略。'
+      zh: '把焚燒過後的材料扭轉後，綁成一個具微弱保護效果的護身符。製造這樣的護身符，是自古以來的常見生存策略。',
+      lt: 'Iš apdegusių, susuktų ir į vieną surištų ingredientų padarytas menkos apsaugos amuletas. Nuo senų senovės tokie paprasti amuletai padėdavo išgyventi.'
     }
   },
 
@@ -43,7 +44,8 @@ export default [
       cs: 'Límec, který drží vlky v otrocví, je vyrobený z tlusté kůže. Některé z nich mají na sobě ještě obojky, ale všechny vlčí límce jsou solidní. Některé límce jsou naplněné duchovní protekcí.',
       it: 'I Collari per mantenere i lupi fedeli sono fatti da una pelle spessa. Alcuni di essi hanno ancora delle maglie di catena attaccate, ma tutti i collari per lupi sono robusti. Alcuni collari sono imbevuti di una protezione spirituale.',
       ja: 'オオカミを躾ける為の首輪は厚めの革で出来ています。何故か千切れた鎖が付いているものもありますが、全ての首輪は頑丈に出来ています。一部の首輪には精神の加護が宿ります。',
-      zh: '由厚皮革製成的項圈是用來使狼群服從的，有些還使用鎖鏈鏈接起來。但所有的項圈都很堅固，有些還以心靈守護注入其中。 '
+      zh: '由厚皮革製成的項圈是用來使狼群服從的，有些還使用鎖鏈鏈接起來。但所有的項圈都很堅固，有些還以心靈守護注入其中。 ',
+      lt: 'Vilkams nelaisvėje laikyti skirti antkakliai gaminami iš storos odos. Prie kai kurių dar kabo grandinės, tačiau visi jie be galo tvirti. Kai kuriuose glūdi ir dvasinė apsauga.'
     }
   },
 
@@ -67,7 +69,8 @@ export default [
       cs: 'Tento náhrdelník je tvořen z zlomků kostí z různých silných tvorů. Každý kostěný náhrdelník se liší protekcí na základě původu kostí.',
       it: 'Questa collana è formata da frammenti di ossa provenienti da varie forti creature. Ogni collana di ossa varia in protezione basandosi sulla origine delle ossa.',
       ja: 'このネックレスは幾多の強力な生物の骨片で出来ています。各々のネックレスは使用した骨の種類によって保存方法が異なります。',
-      zh: '這條項鍊是用各種強壯生物的骨頭碎片製成的。每條項鍊多變的保護功能是因為骨頭種類的不同。'
+      zh: '這條項鍊是用各種強壯生物的骨頭碎片製成的。每條項鍊多變的保護功能是因為骨頭種類的不同。',
+      lt: 'Vėrinys suvertas iš įvairių galingų padarų kaulų nuolaužų. Nuo kaulų kilmės priklauso kiek apsaugos jis suteiks.'
     }
   },
 
@@ -90,7 +93,8 @@ export default [
       cs: 'Strachuplné vlkodlačí drápy, které byly zanechány na jejich obětech, byly pomazány mystickými oleji a vštípeny do nich duchovní statečnost zkrz meditaci. Stvořitelé tohoto amuletu doufají, že tato duchovní protekce jednoho dne bude použita na pomstu.',
       it: 'Gli artigli di un terribile lupo mannaro lasciati sui corpi delle vittime vengono unti con oli mistici e infusi con una forza d\'animo attraverso la meditazione. I creatori di questi amuleti speravano che queste protezioni spirituali venissero un giorno usate per vendicarsi.',
       ja: '犠牲者の身体に刻み込まれた恐ろしいオオカミ男の爪は、聖なる油により聖別され、瞑想を通じて精神の強さを宿らせました。このお守りの作成者は、宿った精神の強さがいつの日か復讐に発揮される事を望んでいました。',
-      zh: '被遺留在受害者身上的可怕狼人爪子被神秘的油膏抹了，並通過冥想被灌輸了精神上的毅力。這些護身符的創造者希望這些精神保護有一天能夠用於報仇。'
+      zh: '被遺留在受害者身上的可怕狼人爪子被神秘的油膏抹了，並通過冥想被灌輸了精神上的毅力。這些護身符的創造者希望這些精神保護有一天能夠用於報仇。',
+      lt: 'Bauginantys vilkolakių nagai, rasti ant jų aukų kūnų, patepti mistiniais aliejais ir meditacijos pagalba pripildyti dvasinės tvirtybės. Tokių amuletų kūrėjai tikėjosi kad kada nors šios dvasinės apsaugos galės būti naudojamos atkeršyti vilkolakiams.'
     }
   },
 
@@ -113,7 +117,8 @@ export default [
       cs: 'Když byl tento dráp nalezen, byl považován za dar od posvatných ptáků v horách. Mniši v horách požívali tento dráp aby vyprodukovali duchovní amulet pro svou vlastní ochranu od nájezdníků během souboje.',
       it: 'Quando un artiglio veniva trovato, esso era considerato un dono dagli uccelli sacri delle montagne. I monaci delle montagne usavano gli artigli per produrre amuleti spirituali per proteggersi dagli invasori durante le battaglie.',
       ja: 'この鉤爪が見つかった当時、それは山に住まう神鳥からの贈り物だと考えられました。山の修道士達は、外敵による奇襲から自身を守る為にこの鉤爪を使って精神のお守りを作りました。',
-      zh: '當一只爪子被發現時，它被認為是山裡聖鳥的禮物。山中的僧侶們使用爪子製作成護身符，以保護自己在戰鬥中不受入侵者的侵害。'
+      zh: '當一只爪子被發現時，它被認為是山裡聖鳥的禮物。山中的僧侶們使用爪子製作成護身符，以保護自己在戰鬥中不受入侵者的侵害。',
+      lt: 'Rastas nagas būdavo laikomas šventųjų kalnų paukščių dovana. Kalnų vienuoliai darydavo iš jų dvasinius amuletus, kurie mūšyje saugodavo nuo įsibrovėlių.'
     }
   },
 
@@ -135,7 +140,8 @@ export default [
       vi: 'Người dân sa mạc cổ đại đã thu thập những viên đá đặc biệt và định hình chúng thành những chiếc khăn với phép thuật kỳ lạ, đen tối. Nhiều người quan trọng trong nền văn minh cổ đại đó đã đeo những chiếc bùa hộ mệnh này để có tầm vóc và sự bảo vệ.',
       cs: 'Prastaří obivatelé pouště sezbírali specíální kameny a vytvarovali je do skarabů s zvláštní temnou magií. Spousta duležitých lidí v této starodávné civilizaci nosili tento amulet pro vzrůst a ochranu.',
       it: 'Le popolazioni antiche del deserto raccoglievano pietre speciali e le modellavano a forma di scarabeo con una strana magia nera. Molte persone importanti in queste antiche civiltà indossavano questi amuleti per essere protetti.',
-      ja: '古の砂漠の民は特別な石を使い、奇怪な黒魔術でスカラベの形に造り上げました。古代文明を築いた賢者達は、己の成長と加護の為にこれらのお守りを身に着けていました。'
+      ja: '古の砂漠の民は特別な石を使い、奇怪な黒魔術でスカラベの形に造り上げました。古代文明を築いた賢者達は、己の成長と加護の為にこれらのお守りを身に着けていました。',
+      lt: 'Senovės dykumų gyventojai rinkdavo ypatingus akmenis ir keistos, tamsios magijos pagalba suteikdavo jiems skarabėjų formą. Daug svarbių žmonių toje civilizacijoje nešiojo šiuos amuletus dėl statuso ir apsaugos.'
     }
   },
 
@@ -157,7 +163,8 @@ export default [
       vi: 'Những mảnh vỡ kỳ lạ được khai thác từ các ngọn núi đã được những người huyền bí tăng cường và tạo thành bùa hộ mệnh để bảo vệ và gây ra nỗi sợ hãi.',
       cs: 'Tyto záhadné úlomeky z hor byly očarovány mystiky a vyformovány do amuletu aby poskytoval ochranu a způsoboval strach.',
       it: 'Strani frammenti estratti dalle montagne che venivano incantati dai mistici e modellati in amuleti per ottenere protezione e causare paura.',
-      ja: '山から発見された不可思議な破片は、加護を授け恐怖を呼び寄せる為に、神秘なる者達によって魔力を宿し、お守りとして糸に繋げられました。'
+      ja: '山から発見された不可思議な破片は、加護を授け恐怖を呼び寄せる為に、神秘なる者達によって魔力を宿し、お守りとして糸に繋げられました。',
+      lt: 'Kalnuose iškastas keistas nuolaužas burtininkai sustiprino ir pavertė amuletais, kurie saugo savo nešiotoją ir kelia baimę priešams.'
     }
   },
 
@@ -178,7 +185,8 @@ export default [
       tr: 'Savaşabilen din adamları koruma sağlaması amacıyla bu ilahi omega sembollerini oluşturdu. Koruyucu bir hediye olarak verilmiş bu semboller saldırıları savuşturmak için kullanıldı ve potansiyel müritlerine sunuldu.',
       vi: 'Chiến tranh thần quyền đã tạo ra các biểu tượng omega thần thánh như một phương tiện để bảo vệ. Những biểu tượng này được sử dụng để chống lại các đòn tấn công, được tặng làm quà bảo vệ và được trao cho các tín đồ tôn giáo ngoan đạo.',
       cs: 'Válčící teokracie vytvořila tento božský amulet ve tvarů omegy, který znamená ochranu. Tyto symboly byly požívány pro odrazení útoků, dány jako dary ochrany a prezentovány potenciálním následníkům výry.',
-      it: 'Le teocrazie in guerra crearono divini simboli omega per protezione. Questi simboli vennero usati per scoraggiare attacchi, donati come regali protettivi e presentati ai potenziali seguaci religiosi.'
+      it: 'Le teocrazie in guerra crearono divini simboli omega per protezione. Questi simboli vennero usati per scoraggiare attacchi, donati come regali protettivi e presentati ai potenziali seguaci religiosi.',
+      lt: 'Tarpusavyje kariavusios teokratijos kūrė dieviškus omegos simbolius apsaugai. Juos naudodavo atbaidyti užpuolikus, dovanodavo kaip apsaugos talismanus ir įteikdavo būsimiems tikėjimo sekėjams.'
     }
   },
 
@@ -199,7 +207,8 @@ export default [
       tr: 'Bu muska üst üste dizilmiş ve doğanın enerjisiyle bağlı olan garip disklerden oluşuyor. Pek çok büyü kullanıcısı, bu muskanın sırrını çözmeye çalıştı ki çoğaltılabilsin.',
       vi: 'Bùa hộ mệnh này có một bộ đĩa chồng chéo kỳ lạ chạm vào năng lượng tự nhiên và khuếch đại sự bảo vệ của người đeo. Nhiều người sử dụng phép thuật cố gắng tìm hiểu bí mật của những chiếc bùa hộ mệnh này để chúng có thể sao chép chúng.',
       cs: 'Tento amulet má podivnou sadu překrývajících se disků, které si zakládají na přírodní energii a zvětšují přírodní ochranu nositele. Spousty zázračný uřivatelů se pokoušelo naučit tajemství těchto amuletů, aby je mohli reprodukovat.',
-      it: 'Questo amuleto ha uno strano strato di dischi sovrapposti che attinge alle energie naturali per amplificare la protezione naturale di chi lo indossa. Molti possessori si struggono per imparare i segreti di questi amuleti per poterli riprodurre.'
+      it: 'Questo amuleto ha uno strano strato di dischi sovrapposti che attinge alle energie naturali per amplificare la protezione naturale di chi lo indossa. Molti possessori si struggono per imparare i segreti di questi amuleti per poterli riprodurre.',
+      lt: 'Keistas persidengiančių diskų rinkinys semiasi gamtos energijos ir sustiprina natūralią savininko apsaugą. Daugelis magų trokšta perprasti šių amuletų paslaptį kad galėtų juos gaminti.'
     }
   },
 
@@ -220,7 +229,8 @@ export default [
       tr: 'İç içe geçmiş metal teller ve ürettiği elektrik arkları bu muskaya canlıymış gibi bir görünüm kazandırıyor. Alimlerin görüşüne göre bu muska yok olan başka bir diyardan gelmiş, ama kimse bu konuda emin değil.',
       vi: 'Các sợi kim loại được đan với nhau, tạo ra các vòng điện từ và mang lại dáng vẻ của một lá bùa hộ mệnh. Các học giả suy đoán rằng những bùa hộ mệnh này đến từ một cõi đã biến mất, nhưng dường như không ai chắc chắn.',
       cs: 'Kovové vlákno upletené každé skrz na skrz, vytváří elektrický oblouk a dávají zjev žijícího amuletu. Učenci spekulovali, že tyto amulety přisli z říše, která zmizela ale nikdo si tím není jistý.',
-      it: 'I fili di metallo si intrecciano uno dentro l\'altro, producendo archi di energia e dando l\'apparenza di essere un amuleto vivo. Gli studenti ipotizzano che questi amuleti provengono da un reame che è scomparso, ma nessuno sembra esserne sicuro.'
+      it: 'I fili di metallo si intrecciano uno dentro l\'altro, producendo archi di energia e dando l\'apparenza di essere un amuleto vivo. Gli studenti ipotizzano che questi amuleti provengono da un reame che è scomparso, ma nessuno sembra esserne sicuro.',
+      lt: 'Metalinės gijos vijasi viena per kitą ir kibirkščiuoja elektros lankais, todėl amuletas atrodo lyg gyvas. Mokslininkai spėja kad tokie amuletai atkeliavo iš išnykusio krašto, tačiau niekas nėra dėl to tikras.'
     }
   },
 
@@ -241,7 +251,8 @@ export default [
       tr: 'Eski krallar kendilerini öbür dünyada koruması için bu güçlü ankh sembollerini oluşturdular. Mezar hırsızları bu muskaların birçoğunu yağmalayıp insanlara ve canavarlara sattılar. Her bir ankh sembolü ürkütücü bir parıltıya sahip, işte bu gerçek güç.',
       vi: 'Các vị vua cổ đại có những biểu tượng ankh mạnh mẽ được tạo ra để bảo vệ họ ở thế giới bên kia. Những kẻ trộm mộ đã đánh cắp nhiều bùa hộ mệnh này và bán chúng cho cả người và quái vật. Mỗi ankh có một ánh sáng kỳ lạ tin rằng sức mạnh thực sự của nó.',
       cs: 'Prastaří králové měli mocný ankh symbol aby je ochránil v posmrtném životě. Vykradači hrobů však ukradli mnoho těchto amuletů a prodávali je jak lidem tak příšerám. Každý amulet má desivou záři zakrývá její opravdovou moc.',
-      it: 'I Re antichi avevano potenti simboli ankh creati per proteggerli nella vita dopo la morte. I ladri di tombe rubarono molti di questi amuleti e venduti poi alle persone ed ai mostri. Ogni ankh ha un bagliore inquietante che smentisce il suo vero potere.'
+      it: 'I Re antichi avevano potenti simboli ankh creati per proteggerli nella vita dopo la morte. I ladri di tombe rubarono molti di questi amuleti e venduti poi alle persone ed ai mostri. Ogni ankh ha un bagliore inquietante che smentisce il suo vero potere.',
+      lt: 'Senovės karaliai liepdavo pagaminti galingus ankh simbolius, kad šie saugotų juos ir po mirties. Kapų plėšikai daugybę šių amuletų išgrobstė ir pardavė tiek žmonėms, tiek monstrams. Kiekvienas ankh skleidžia šiurpų švytėjimą, slepiantį tikrąją jo galią.'
     }
   },
 
@@ -263,7 +274,8 @@ export default [
       tr: 'Devasa Dünya Ağacı\'nın yani Yggdrasil\'in kıvrık parçaları en kutsal türden bir muska hâline getirildi. Muskadan sızan bitki özü vücut taradından emilip fazladan koruma sağlar.',
       vi: 'Những mảnh xoắn của World Tree, Yggdrasil, được chế tạo thành những chiếc bùa hộ mệnh thuộc loại linh thiêng nhất. Nhựa cây được thấm ra khỏi bùa hộ mệnh và được cơ thể hấp thụ để nhận được sự bảo vệ.',
       cs: 'Zamotané kusy obrovského World Tree, Yggdrasil, byly přidány do těch nejposvátnějších amuletů. Míza, která prosakuje skrz amulet je absorbována tělem pro lepší ochranu.',
-      it: 'Pezzi attorcigliati dell\'enorme World Tree, Yggdrasil, furono utilizzati per creare amuleti del tipo più sacro. La linfa filtra fuori dall\'amuleto e viene assorbita dal corpo per una protezione extra.'
+      it: 'Pezzi attorcigliati dell\'enorme World Tree, Yggdrasil, furono utilizzati per creare amuleti del tipo più sacro. La linfa filtra fuori dall\'amuleto e viene assorbita dal corpo per una protezione extra.',
+      lt: 'Iš susisukusių milžiniškojo pasaulio medžio Yggdrasil gabalų buvo daromi švenčiausi amuletai. Iš jų sunkiasi sakai, kuriuos sugėręs kūnas tampa dar geriau apsaugotas.'
     }
   },
 
@@ -284,7 +296,8 @@ export default [
       tr: 'Bu muska, genç ejderhalara verilen kadim ejderha büyüsü içeriyor. Büyüme çağındaki ejderhalara hayatta kalmalarını sağlamak için armağan edildi. Genç ejderhalar, kendilerini savunabilecek kadar olgunlaştığında ve büyüdüğünde zincir kopuverdi ve muska kayboldu.',
       vi: 'Bùa hộ mệnh này chứa ma thuật của những con rồng già ban cho những con rồng trẻ; những lá bùa hộ mệnh này đã cho những con rồng trẻ cơ hội sống sót tốt hơn vào tuổi thiếu niên. Một khi những con rồng trẻ trở nên già và đủ lớn để tự mình sống sót, chuỗi bị phá vỡ và bùa hộ mệnh bị mất.',
       cs: 'Tento amulet obsahuje prastaré dračí kouzlo, které bylo určeno pro nadcházející mladší draky. Tyto amulety, které byly dávány mladším drakům, jim měli pomoci přežít do dospělosti. Až jednou mladý drak dospěl aby dokázal přežít řetěz od amuletu se přetrhnul a amulet byl ztracen.',
-      it: 'Questo amuleto contiene la magia del drago antico che è stato conferito a giovani draghi; questi amuleti davano ai giovani draghi una migliore possibilità di sopravvivenza nell\'adolescenza. Una volta che i giovani draghi divenivano vecchi e grandi abbastanza per sopravvivere da soli, la catena si ruppe e l\'amuleto andò perduto.'
+      it: 'Questo amuleto contiene la magia del drago antico che è stato conferito a giovani draghi; questi amuleti davano ai giovani draghi una migliore possibilità di sopravvivenza nell\'adolescenza. Una volta che i giovani draghi divenivano vecchi e grandi abbastanza per sopravvivere da soli, la catena si ruppe e l\'amuleto andò perduto.',
+      lt: 'Amulete glūdi senųjų drakonų magija, kuria jie apdovanodavo jauniklius. Su tokiu amuletu jaunas drakonas turėdavo daugiau šansų sulaukti paauglystės. Kai jaunikliai užaugdavo ir sustiprėdavo tiek, kad galėdavo išgyventi patys, grandinėlė nutrūkdavo ir amuletas pasimesdavo.'
     }
   },
 
@@ -305,7 +318,8 @@ export default [
       vi: 'Bùa hộ mệnh này chứa một viên đá quý từ vương miện được đeo bởi một vị vua nổi tiếng. Các góc cạnh của bùa hộ mệnh này sắc nét một cách tàn nhẫn và bị vấy bẩn một phần với một chất bí ẩn',
       cs: 'Tento amulet obsahuje drahokam z koruny, kterou nosil slavný král. Okraje amuletu jsou nemilostrdně ostré a částečně pomazané záhodnou sloučeninou.',
       it: 'Questo amuleto contiene una gemma della corona indossata da un famoso re. I bordi di questo amuleto sono spietatamente affilati e parzialmente imbrattati con una misteriosa sostanza.',
-      ro: 'Această amuletă conține piatra prețioasă din coroana unui rege faimos. Marginile amuletei sunt incredibil de ascuțite și parțial pătate cu o substanță misterioasă.'
+      ro: 'Această amuletă conține piatra prețioasă din coroana unui rege faimos. Marginile amuletei sunt incredibil de ascuțite și parțial pătate cu o substanță misterioasă.',
+      lt: 'Šiame amulete yra brangakmenis, išimtas iš garsaus karaliaus karūnos. Jo kraštai negailestingai aštrūs ir iš dalies ištepti paslaptinga medžiaga.'
     }
   },
 
@@ -326,7 +340,8 @@ export default [
       tr: 'Anka kuşunun tüylerinden oluşan bu muskanın merkezinde, bu muskayı takan ölmüş maceracıların külleri var. Böyle bir muskayı takan istisnasız her maceracı, bu efsanenin bir parçası olmuş.',
       vi: 'Trung tâm của bùa hộ mệnh lông phượng này chứa một lượng tro nhỏ từ tất cả các nhà thám hiểm đã ngã xuống đã từng sở hữu nó. Không ngoại lệ, mọi nhà thám hiểm sử dụng một lá bùa như vậy đã trở thành huyền thoại.',
       cs: 'Prostředek tohoto amuletu z fénixových peří obsahuje malinkaté množsví popela ze všech padlích dobrodruhů, který tento amulet nosili. Bezesporu, kterýkoliv dobrodruh nosící takovýto amulet se stává legendou.',
-      it: 'Il centro di questo amuleto di piume di fenice contiene una piccola quantità di ceneri di tutti gli avventurieri caduti che lo hanno posseduto. Senza eccezioni, ogni avventuriero che usa un amuleto del genere è trasceso nel leggendario.'
+      it: 'Il centro di questo amuleto di piume di fenice contiene una piccola quantità di ceneri di tutti gli avventurieri caduti che lo hanno posseduto. Senza eccezioni, ogni avventuriero che usa un amuleto del genere è trasceso nel leggendario.',
+      lt: 'Šio fenikso plunksnų amuleto centre slypi saujelė pelenų, likusių nuo visų kada nors jį turėjusių ir žuvusių nuotykių ieškotojų. Kiekvienas tokį amuletą naudojęs keliautojas, be išimčių, tapo legenda.'
     }
   }
 ]

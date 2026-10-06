@@ -20,7 +20,8 @@ export default {
     sr: 'Умро си.',
     it: 'Sei morto.',
     ja: '死んでしまった。',
-    cs: 'Zemřel jsi'
+    cs: 'Zemřel jsi',
+    lt: 'Žuvote'
   },
 
   deathmsg: {
@@ -44,7 +45,8 @@ export default {
     sr: 'Притисни дугме да васкрснеш код најближег Conjurer-a.',
     it: 'Premi il pulsante per risorgere dal Conjurer più vicino.',
     ja: 'ボタンを押すと近くの祈祷師へリスポーンします。',
-    cs: 'Stisknutím tlačítka budete vzkříšeni u nejbližšího kouzelníka'
+    cs: 'Stisknutím tlačítka budete vzkříšeni u nejbližšího kouzelníka',
+    lt: 'Paspauskite mygtuką kad prisikeltumėte prie artimiausio Conjurer.'
   },
 
   // 'Resurrect' is used in many translations/languages.
@@ -69,6 +71,7 @@ export default {
     it: 'Respawn',
     tr: 'Yeniden Doğ',
     ja: 'リスポーン',
-    cs: 'Vzkřísit' // translated "Resurrect" for lingual appropriateness
+    cs: 'Vzkřísit',
+    lt: 'Prisikelti'
   }
 }

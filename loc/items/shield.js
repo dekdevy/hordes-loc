@@ -14,7 +14,8 @@ export default [
       tr: 'Bu derme çatma kalkan zorunlulukla üretilmiş gibi gözüküyor.',
       cs: 'Toto je provizorní štít, který se zdá být vyroben z nutnosti.',
       pt: 'Este é um escudo improvisado que parece ter sido produzido por necessidade.',
-      ko: '이것은 필요에 의해 만들어진 것처럼 보이지 않는 임시방편의 방패입니다.'
+      ko: '이것은 필요에 의해 만들어진 것처럼 보이지 않는 임시방편의 방패입니다.',
+      lt: 'Iš bėdos sumeistrautas laikinas skydas.'
     }
   },
 
@@ -33,7 +34,8 @@ export default [
       tr: '"Buckeler" küçük ve hafif silahlara karşı iyi koruma sağlayabilir. Korsanlar "buckler" kalkanını manevra kabiliyeti için sıkça kullanmışlardır.',
       cs: 'Bucklers can be useful protection against small and light weapons. Pirates often use bucklers for maneuverability.',
       pt: 'Broquéis podem ser uma proteção útil contra armas pequenas e leves. Piratas frequentemente usam broquéis para maior mobilidade.',
-      ko: '이 방패는 작고 가벼운 공격으로부터 자신을 방어하기에 좋습니다. 해적들은 이 방패들을 기동성을 위해 사용하기도 합니다.'
+      ko: '이 방패는 작고 가벼운 공격으로부터 자신을 방어하기에 좋습니다. 해적들은 이 방패들을 기동성을 위해 사용하기도 합니다.',
+      lt: 'Nedideli skydeliai gerai apsaugo nuo mažų ir lengvų ginklų. Piratai juos mėgsta dėl manevringumo.'
     }
   },
 
@@ -52,7 +54,8 @@ export default [
       tr: 'Savaş zamanlarında bunun gibi kalkan tipleri sıkça yapılırdı. Ucuzluğuna rağmen, bu kalkan sağlam ironbark üretimi.',
       cs: 'Jedná se o typ štítu, který se často vyrábí během válečných časů. Přestože je štít levný, je vyroben z pevné železné kůry.',
       pt: 'Este é um tipo de escudo que geralmente é fabricado durante tempos de guerra. Embora barato, o escudo é feito de um resistente carvalho de ferro.',
-      ko: '이 방패는 전쟁중에 주로 만들어진 형태입니다. 비싸지 않음에도 불구하고 이 방패는 튼튼한 철로 만들어졌습니다.'
+      ko: '이 방패는 전쟁중에 주로 만들어진 형태입니다. 비싸지 않음에도 불구하고 이 방패는 튼튼한 철로 만들어졌습니다.',
+      lt: 'Tokius skydus dažnai gamindavo karo metais. Jie pigūs, bet pagaminti iš tvirtos Ironbark medienos.'
     }
   },
 
@@ -71,7 +74,8 @@ export default [
       tr: 'Kraliyet nöbetçileri bu kalkanı alınan hasarı azaltmak ve vatandaşları korumak için bunun gibi kalkanlar kullanırdı.',
       cs: 'Stráže království často používají štíty, jako je tento, ke snížení obdrženého poškození a také k ochraně občanů.',
       pt: 'Sentinelas do reino frequentemente usam escudos como este para reduzir o dano recebido e proteger os cidadãos.',
-      ko: '왕국의 보초병들은 이 방패를 시민들이 공격으로부터 덜 다치기 의해서 사용하고 있습니다.'
+      ko: '왕국의 보초병들은 이 방패를 시민들이 공격으로부터 덜 다치기 의해서 사용하고 있습니다.',
+      lt: 'Karalystės sargybiniai dažnai naudoja tokius skydus kad sumažintų gaunamą žalą ir apsaugotų piliečius.'
     }
   },
 
@@ -90,7 +94,8 @@ export default [
       tr: 'Bu kalkan darkmetalden yapılmış ve siyah bir yağ ile yağlanmıştır. Bunun gibi kalkanı olan maceracılar şüphesiz diğerlerin farklı olacaklardır.',
       cs: 'Tento štít je vyroben z tmavého kovu a pomazán černým olejem. Dobrodruzi s tímto druhem štítu jistě vyniknou nad ostatními.',
       pt: 'Este escudo é feito de darkmetal e ungido com um óleo preto. Aventureiros com esse tipo de escudo certamente se destacarão dos demais.',
-      ko: '이 방패는 기름을 부은 암흑의 철과 검은 기름으로 만들어 졌습니다. 이 방패를 소유한 탐험가들은 다른 사람들보다 눈에 띕니다.'
+      ko: '이 방패는 기름을 부은 암흑의 철과 검은 기름으로 만들어 졌습니다. 이 방패를 소유한 탐험가들은 다른 사람들보다 눈에 띕니다.',
+      lt: 'Skydas nukaltas iš tamsiojo metalo ir pateptas juodu aliejumi. Su tokiu skydu nuotykių ieškotojas tikrai neliks nepastebėtas.'
     }
   },
 
@@ -106,7 +111,8 @@ export default [
       es: 'Los Spiked Warshields son robustos en la batalla y adecuados para la cultura orca. Los guerreros orcos veteranos muestran sus muescas de victoria a los lados de sus escudos.',
       nl: 'Spiked Warshields zijn robuust voor de strijd en gepast voor orc cultuur. Veterane orc strijders tonen hun overwinning gleuven op de zijkanten van hun schilden.',
       cs: 'Spiked Warshields jsou robustní v bitvě a hodí se pro orkskou kulturu. Zkušení orkští válečníci vystavují své vítězné zářezy na bocích svých štítů.',
-      pt: 'Spiked Warshield são robustos em batalha e adequados para a cultura orcs. Guerreiros orcs veteranos exibem suas marcas de vitória nas laterais de seus escudos.'
+      pt: 'Spiked Warshield são robustos em batalha e adequados para a cultura orcs. Guerreiros orcs veteranos exibem suas marcas de vitória nas laterais de seus escudos.',
+      lt: 'Spygliuoti karo skydai tvirti mūšyje ir puikiai dera prie orkų kultūros. Orkai veteranai ant skydų kraštų įrantomis žymisi savo pergales.'
     }
   },
 
@@ -122,7 +128,8 @@ export default [
       es: 'Los paladines adquieren este escudo cuando alcanzan cierto nivel de devoción espiritual. Sin embargo, estos escudos de paladín a veces se ven sin sus dueños...',
       nl: 'Paladijnen krijgen dit schild zodra ze een niveau van spirituele vastberadenheid bereiken. Maar deze paladijn schilden worden soms gespot zonder hun eigenaren...',
       cs: 'Paladinové získají tento štít, když dosáhnou určité úrovně duchovní oddanosti. Tyto paladinské štíty jsou však někdy vidět bez jejich vlastníků...',
-      pt: 'Paladinos adquirem este escudo quando alcançam um certo nível de devoção espiritual. No entanto, esses escudos de paladino às vezes são vistos sem seus proprietários...'
+      pt: 'Paladinos adquirem este escudo quando alcançam um certo nível de devoção espiritual. No entanto, esses escudos de paladino às vezes são vistos sem seus proprietários...',
+      lt: 'Karaliaus riteriai šį skydą gauna pasiekę tam tikrą dvasinio atsidavimo lygį. Tačiau kartais šių skydų galima rasti ir be savininkų...'
     }
   },
 
@@ -138,7 +145,8 @@ export default [
       es: 'Este tipo de escudo está hecho por mortales con hielo que solo se encuentra en el Inframundo. Aunque el escudo es poderoso, las propiedades inusuales y la rareza del Underworld Ice hacen que los intentos mortales de reconstruir estos escudos sean inadecuados en el mejor de los casos.',
       nl: 'Dit type schild is gemaakt door stervelingen met ijs uit de onderwereld. Hoewel het schild krachtig is, zorgen de ongewone eigenschappen en zeldzaamheid van het onderwereldijs dat sterfelijke pogingen op de recreatie van deze schilden onvoldoende is.',
       cs: 'Tento typ štítu vyrábějí smrtelníci s ledem, který se nachází pouze v podsvětí. Ačkoli je štít silný, neobvyklé vlastnosti a vzácnost ledu podsvětí činí pokusy smrtelníků o rekonstrukci těchto štítů přinejlepším nedostatečné.',
-      pt: 'Este tipo de escudo é feito por mortais com gelo encontrado apenas no Submundo. Embora o escudo seja poderoso, as propriedades incomuns e a raridade do Gelo do Submundo tornam as tentativas mortais de reconstrução desses escudos inadequadas, no mínimo.'
+      pt: 'Este tipo de escudo é feito por mortais com gelo encontrado apenas no Submundo. Embora o escudo seja poderoso, as propriedades incomuns e a raridade do Gelo do Submundo tornam as tentativas mortais de reconstrução desses escudos inadequadas, no mínimo.',
+      lt: 'Tokius skydus mirtingieji gamina iš ledo, randamo tik Požemių pasaulyje. Nors skydas galingas, požemių pasaulio ledas yra toks retas ir neįprastas kad mirtingųjų bandymai atkurti šiuos skydus yra gana nesėkmingi.'
     }
   },
 
@@ -154,7 +162,8 @@ export default [
       es: 'Este escudo sagrado está envuelto en leyendas y rumores. Un pergamino antiguo cuenta cómo el escudo creó copias falsas del usuario para confundir a los oponentes. Otro pergamino explica alternativamente que el escudo fue modelado según el escudo manejado por una deidad.',
       nl: 'Dit heilige schild is ingepakt in legendes en geruchten. Een oude rol verteld dat het schild kopieën maakte van de gebruiker om de tegenstander te verwarren. Een andere rol zegt dat het schild gemodelleerd is naar een schild van een goddelijkheid.',
       cs: 'Tento posvátný štít je opředen legendami a pověstmi. Jeden starověký svitek vypráví, jak štít vytvořil falešné kopie uživatele, aby zmátl protivníky. Jiný svitek alternativně vysvětluje, že štít byl vymodelován podle samotného štítu, kterým vládlo božstvo.',
-      pt: 'Este escudo sagrado está envolto em lendas e rumores. Um antigo pergaminho conta como o escudo criava cópias falsas do usuário para confundir os oponentes. Outro pergaminho explica alternativamente que o escudo foi modelado exatamente como o escudo empunhado por uma deidade.'
+      pt: 'Este escudo sagrado está envolto em lendas e rumores. Um antigo pergaminho conta como o escudo criava cópias falsas do usuário para confundir os oponentes. Outro pergaminho explica alternativamente que o escudo foi modelado exatamente como o escudo empunhado por uma deidade.',
+      lt: 'Šį šventą skydą gaubia legendos ir gandai. Viename senoviniame ritinyje pasakojama kad skydas kurdavo netikras savininko kopijas ir taip klaidindavo priešus. Kitame aiškinama kad jis pagamintas pagal pačios dievybės nešiotą skydą.'
     }
   },
 
@@ -170,7 +179,8 @@ export default [
       es: 'La pintura divina en este escudo es animada y puede imbuir a un usuario digno de poderes fantásticos. Algunos observadores creen que el ojo parpadeante permite que el pintor misterioso y divino vea el mundo.',
       nl: 'De beholder’s eye in het midden van dit schild zaait angst in het hart van vele tegenstanders die beweren dat ze onbevreesd zijn. De houdbaarheid methode die ervoor zorgt dat het organische oog nog steeds functioneert is nog steeds een mysterie.',
       cs: 'Božská barva na tomto štítu je animovaná a může naplnit důstojného uživatele fantastickými schopnostmi. Někteří pozorovatelé věří, že mrkající oko umožňuje tajemnému a božskému malíři vidět svět.',
-      pt: 'A pintura divina deste escudo é animada e pode imbuir um usuário digno com poderes fantásticos. Alguns observadores acreditam que o olho piscante permite ao misterioso e divino pintor ver o mundo.'
+      pt: 'A pintura divina deste escudo é animada e pode imbuir um usuário digno com poderes fantásticos. Alguns observadores acreditam que o olho piscante permite ao misterioso e divino pintor ver o mundo.',
+      lt: 'Dieviški dažai ant šio skydo gyvi ir vertam savininkui gali suteikti nuostabių galių. Kai kurie stebėtojai tiki kad pro mirksinčią akį paslaptingasis dieviškasis dailininkas stebi pasaulį.'
     }
   }
 

@@ -45,7 +45,8 @@ export default {
       sr: 'Штета',
       ja: 'ダメージ',
       ko: '데미지',
-      cs: 'Poškození'
+      cs: 'Poškození',
+      lt: 'Žala'
       // pl: 'Obrażenia'
       // vi: 'Sát thương'
     },
@@ -56,7 +57,8 @@ export default {
       ko: '치유량',
       pt: 'Curando',
       cs: 'Léčení',
-      es: 'Curación'
+      es: 'Curación',
+      lt: 'Gydymas'
     },
     fame: {
       en: 'Fame',
@@ -65,7 +67,8 @@ export default {
       cs: 'Sláva',
       pt: 'Fama',
       fr: 'Réputation',
-      es: 'Reputación'
+      es: 'Reputación',
+      lt: 'Šlovė'
     },
     kills: {
       en: 'Kills',
@@ -73,7 +76,8 @@ export default {
       ko: '킬',
       cs: 'Zabití',
       pt: 'Mortes',
-      es: 'Muertes'
+      es: 'Muertes',
+      lt: 'Aukos'
     }
   },
 
@@ -417,7 +421,8 @@ export default {
     {
       en: 'Prestige',
       pt: 'Prestígio',
-      es: 'Prestigio'
+      es: 'Prestigio',
+      lt: 'Prestižas'
     },
 
     {
@@ -432,7 +437,8 @@ export default {
       zh: '評分',
       ko: '평점',
       pt: 'Classificação',
-      es: 'Clasificación'
+      es: 'Clasificación',
+      lt: 'Reiting.'
     },
 
     {
@@ -448,7 +454,8 @@ export default {
       it: 'Punti stat',
       sr: 'Поени за стат.',
       ko: '스탯 포인트',
-      cs: 'Statistické Dody'
+      cs: 'Statistické Dody',
+      lt: 'Savybių tšk.'
       // ja: 'ステータスポイント',
       // tr: 'İstatistik Puanları',
       // pl: 'Punkty Statystyk'
@@ -471,7 +478,8 @@ export default {
       tr: 'Beceri Puanları',
       ja: 'スキルポイント',
       ko: '스킬 포인트',
-      cs: 'Dovednostní Body'
+      cs: 'Dovednostní Body',
+      lt: 'Įgūdžių tšk.'
       // el: 'Πόντοι Ικανοτήτων',
     },
 
@@ -479,7 +487,8 @@ export default {
       en: 'Skill Points (Max)',
       fr: 'Points de Compétences (Max)',
       pt: 'Pontos de Hab. (Max)',
-      es: 'Puntos de habilidad (máx.)'
+      es: 'Puntos de habilidad (máx.)',
+      lt: 'Įgūdžių tšk. (max)'
     },
 
     {
@@ -493,22 +502,26 @@ export default {
       ko: 'PvP 레벨',
       cs: 'PvP Úroveň',
       pt: 'Nível de PVP',
-      es: 'Nivel PvP'
+      es: 'Nivel PvP',
+      lt: 'PvP lygis'
     },
 
     {
       en: 'Size',
-      es: 'Tamaño'
+      es: 'Tamaño',
+      lt: 'Dydis'
     },
 
     {
       en: 'Invisibility',
-      es: 'Invisibilidad'
+      es: 'Invisibilidad',
+      lt: 'Nematomumas'
     },
 
     {
       en: 'Sight',
-      es: 'Vista'
+      es: 'Vista',
+      lt: 'Rega'
     },
 
     {
@@ -527,7 +540,8 @@ export default {
       tr: '% Artan Hasar',
       ja: '% ダメージ増加',
       ko: '% 데미지 증가',
-      cs: '% Zvýšení poš.'
+      cs: '% Zvýšení poš.',
+      lt: '% didesnė žala'
       // pl: '% Zwiększone obrażenia'
     },
 
@@ -548,7 +562,8 @@ export default {
       tr: '% Artan Kızdırma ÜRetimi',
       ja: '% ヘイト誘発増加',
       ko: '% 어그로 증가',
-      cs: '% Zvýšení Generování Agra.'
+      cs: '% Zvýšení Generování Agra.',
+      lt: '% didesnis agro kaupimas'
     },
 
     {
@@ -567,7 +582,8 @@ export default {
       tr: '% Hareket Hızı Düşürme',
       ja: '% 移動速度低下',
       ko: '% 이동속도 감소',
-      cs: '% Redukce Rychl. Pohybu'
+      cs: '% Redukce Rychl. Pohybu',
+      lt: '% lėtesnis judėjimas'
       // de: '% verminderte Laufgeschwindigkeit',
     },
 
@@ -587,7 +603,8 @@ export default {
       ko: '치유량 감소',
       cs: 'Redukce léčení',
       zh: '治療減少',
-      pt: 'Redução de cura'
+      pt: 'Redução de cura',
+      lt: 'Gydymo mažinimas'
     }
   ]
 }

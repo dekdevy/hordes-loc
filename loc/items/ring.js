@@ -15,7 +15,8 @@ export default [
       nl: 'Deze vreemde polsband zorgt ervoor dat een klein gedeelte van de drager z’n levensessentie opgeslagen kan worden.',
       zh: '這個奇特的戒指可以讓佩戴者的一小部分生命精華被儲存起來。',
       tr: 'Bu garip halkalar giyen kişinin yaşam özünün küçük bir kısmını depolamasına izin verir.',
-      cs: 'Tento zvláštní pás umožňuje uložit malou část životní esence nositele.'
+      cs: 'Tento zvláštní pás umožňuje uložit malou část životní esence nositele.',
+      lt: 'Keistas žiedas, kuriame galima sukaupti mažą savininko gyvybinės esybės dalelę.'
     }
   },
 
@@ -35,7 +36,8 @@ export default [
       nl: 'Deze ring is gemaakt van een speciale hout dat zo stevig is als ijzer. Ironbark wordt vaak gebruikt als een alternatief voor metaal.',
       zh: '這個戒指是由硬如鐵的木頭製作而成。鐵桉木經常會被視為金屬的替代品。',
       tr: 'Bu yüzük demir kadar sert olan özel bi odundan yapıldı. Ironbark metal yerine sıklıkla kullanılan bir alternatiftir.',
-      cs: 'Tento prsten je vyroben ze speciálního dřeva, které je pevné jako železo. Železná kůra se často používá jako alternativa ke kovu.'
+      cs: 'Tento prsten je vyroben ze speciálního dřeva, které je pevné jako železo. Železná kůra se často používá jako alternativa ke kovu.',
+      lt: 'Žiedas išdrožtas iš ypatingos, geležies kietumo Ironbark medienos. Ironbark dažnai naudojamas vietoje metalo.'
     }
   },
 
@@ -55,7 +57,8 @@ export default [
       nl: 'Twee koninkrijken die geallieerd werden door een koninklijk huwelijk lieten hun legers deze ringen dragen als een symbool voor het net gevormde bondgenootschap.',
       zh: '參加皇室婚禮的兩個王國讓他們的軍隊配戴著這些戒指作為新盟國的象徵。',
       tr: 'Kraliyet evliliği ile birleşen iki krallık, yeni ittifak kurmuş milletlerin simgesi olarak orduları tarafından takılan yüzüklerdir.',
-      cs: 'Dvě království, která byla spojena královským sňatkem, měla jejich armády tyto prsteny jako symbol nově spojeneckých národů.'
+      cs: 'Dvě království, která byla spojena královským sňatkem, měla jejich armády tyto prsteny jako symbol nově spojeneckých národů.',
+      lt: 'Dvi karalystės, sujungtos karališkųjų vedybų, liepė savo kariuomenėms nešioti šiuos žiedus kaip naujos sąjungos simbolį.'
     }
   },
 
@@ -75,7 +78,8 @@ export default [
       nl: 'Deze ring is gemaakt van de botten van een monster schil. Monster botten kunnen gebruikt worden als een stevig materiaal wanneer er geen andere materialen beschikbaar zijn.',
       zh: '這個戒指是由怪物的骨頭軀殼製作而成，當沒有其他材料的時候怪物骨頭可以被用來當作堅韌的素材。',
       tr: 'Bu yüzük bir canavar kurusunun kemiklerinden yapıldı. Canavar kemikleri başka kaynaklar mevcut olmadığında sağlam bir malzeme olarak kullanılabilir.',
-      cs: 'Tento prsten je vyroben z kostí monstra. Monster bone lze použít jako pevný materiál, když nejsou k dispozici žádné jiné zdroje.'
+      cs: 'Tento prsten je vyroben z kostí monstra. Monster bone lze použít jako pevný materiál, když nejsou k dispozici žádné jiné zdroje.',
+      lt: 'Žiedas pagamintas iš monstro kaulų. Kai kitų išteklių nėra, monstrų kaulai gali būti naudojami kaip tvirta medžiaga gamybai.'
     }
   },
 
@@ -95,7 +99,8 @@ export default [
       nl: 'Ringen worden vaak geërfd van de ene generatie tot de volgende volgens elfen traditie.',
       zh: '在精靈的傳統中，戒指經常被代代相傳。',
       tr: 'Elf geleneğinde genellikle yüzükler bir nesilden diğerine geçer.',
-      cs: 'Prsteny se v elfské tradici často předávají z generace na generaci.'
+      cs: 'Prsteny se v elfské tradici často předávají z generace na generaci.',
+      lt: 'Pagal elfų tradiciją žiedai dažnai perduodami iš kartos į kartą.'
     }
   },
 
@@ -112,7 +117,8 @@ export default [
       ro: 'Acest inel are rune micuțe gravate în interiorul cercului. Unii istorici cred că aceste inele au fost ultimul efort al unui regat pierdut de a-și întări populația în potriva bolilor.',
       pt: 'Este anel possui pequenas runas esculpidas na parte de dentro. Alguns historiadores acreditam que esses anéis foram o último esforço de um reino perdido para fortalecer sua população contra doenças.',
       nl: 'Deze ring heeft kleine runen gesneden op de binnenband. Sommige historici geloven dat deze ringen een laatste poging waren van een verloren koninkrijk om zijn bevolking te beschermen van ziekte.',
-      cs: 'Tento prsten má ve vnitřním pásku vyřezané drobné runy. Někteří historici věří, že tyto prsteny byly posledním pokusem ztraceného království opevnit svou populaci před nemocemi.'
+      cs: 'Tento prsten má ve vnitřním pásku vyřezané drobné runy. Někteří historici věří, že tyto prsteny byly posledním pokusem ztraceného království opevnit svou populaci před nemocemi.',
+      lt: 'Žiedo vidinėje pusėje išraižytos mažytės runos. Kai kurie istorikai mano kad tai paskutinis prarastos karalystės bandymas apsaugoti savo gyventojus nuo ligų.'
     }
   },
 
@@ -129,7 +135,8 @@ export default [
       ro: 'Arcane Rings sunt experimentele magice ale magicienilor intermediari. Unele inele sunt fabricate și fermecate pentru a spori substanțial abilitățile de a folosi vrăji.',
       pt: 'Anéis arcanos são experimentos mágicos de magos. Alguns anéis são criados e encantados para aumentar substancialmente as habilidades de lançamento de magia.',
       nl: 'Arcane rings zijn de magische experimenten van middelmatige magiërs. Sommige ringen zijn gemaakt en betoverd om de magie oproeping vaardigheden substantieel te verbeteren.',
-      cs: 'Arcane rings jsou magické experimenty středně pokročilých mágů. Některé prsteny jsou vytvořeny a očarovány tak, aby podstatně zlepšily schopnosti kouzlení.'
+      cs: 'Arcane rings jsou magické experimenty středně pokročilých mágů. Některé prsteny jsou vytvořeny a očarovány tak, aby podstatně zlepšily schopnosti kouzlení.',
+      lt: 'Arcane žiedai yra vidutinio lygio magų eksperimentai. Kai kurie jų pagaminti ir užkerėti taip, kad gerokai sustiprina burtų galią.'
     }
   },
 
@@ -146,7 +153,8 @@ export default [
       ro: 'Aceste inele au aparținut cândva "Cultului păianjenilor de smarald", o bandă de tâlhari care au fost printre primii ce au călărit vreodată păianjeni.',
       pt: 'Esses anéis pertenceram ao “Culto das Aranhas Esmeraldas”, uma gangue de bandidos que estavam entre os primeiros a domar as aranhas.',
       nl: 'Deze ringen waren ooit eigendom van de "Cult of the Emerald Spiders", een bende van bandieten die een van de eerste waren die spinnen bereden.',
-      cs: 'Tyto prsteny kdysi patřily „Kultu smaragdových pavouků“, gangu banditů, kteří na pavoucích jezdili mezi prvními.'
+      cs: 'Tyto prsteny kdysi patřily „Kultu smaragdových pavouků“, gangu banditů, kteří na pavoucích jezdili mezi prvními.',
+      lt: 'Šie žiedai kadaise priklausė „Smaragdinių vorų kultui“ - banditų gaujai, kurios nariai vieni pirmųjų ėmė joti vorais.'
     }
   },
 
@@ -163,7 +171,8 @@ export default [
       ro: 'Infernal Rings sunt cadouri de la creaturi diavolești. Ele ispitesc purtătorul spre a-și dori mai multă putere. Această dorință este deseori urmată de oferte necugetate a mai multor demoni.',
       pt: 'Os anéis infernais são presentes de criaturas diabólicas. Eles induzem o usuário a desejar mais poder. Este desejo é freqüentemente seguido por ofertas imprudentes de mais demônios.',
       nl: 'Infernal rings zijn cadeaus van duivelachtige wezens. Zij verlijden de drager tot het verlangen van meer macht. Dit verlangen wordt vaak vervolgd door onverstandige aanbiedingen door meerdere duivels.',
-      cs: 'Pekelné prsteny jsou dary od ďábelských tvorů. Lákají nositele k touze po větší síle. Po této touze často následují neuvážené nabídky více čertů.'
+      cs: 'Pekelné prsteny jsou dary od ďábelských tvorů. Lákají nositele k touze po větší síle. Po této touze často následují neuvážené nabídky více čertů.',
+      lt: 'Infernal žiedai yra velniškų padarų dovana. Jie kursto savininko troškimą turėti vis daugiau galios, o šį troškimą dažnai lydi ir kiti velnių pasiūlymai, kurių geriau nepriimti.'
     }
   },
 
@@ -180,7 +189,8 @@ export default [
       ro: 'Spiritele naturii au oferit original aceste inele drept cadou de apreciere primilor monștrii. Multe dintre aceste inele au fost furate sau pierdute de-a lungul miilor de ani.',
       pt: 'Os espíritos da natureza originalmente deram esses anéis como presentes de agradecimento aos monstros primitivos. Muitos desses anéis foram roubados ou perdidos ao longo de milhares de anos.',
       nl: 'Natuur spirits gaven oorspronkelijk deze ringen als een cadeau van dankbaarheid aan oer monsters. Vele van deze ringen zijn gestolen over verloren door de duizenden jaren heen.',
-      cs: 'Přírodní duchové původně dávali tyto prsteny jako projev uznání původním příšerkám. Mnoho z těchto prstenů bylo ukradeno nebo ztraceno po tisíce let.'
+      cs: 'Přírodní duchové původně dávali tyto prsteny jako projev uznání původním příšerkám. Mnoho z těchto prstenů bylo ukradeno nebo ztraceno po tisíce let.',
+      lt: 'Kadaise gamtos dvasios dovanodavo šiuos žiedus pirmykščiams monstrams kaip padėkos ženklą. Per tūkstančius metų daugelis žiedų buvo pavogti arba pamesti.'
     }
   },
 
@@ -197,7 +207,8 @@ export default [
       ro: 'Multe facțiuni religioase afirmă faptul că persoanele care poartă acest inel sunt favorite de o zeitate; însă, zeitatea specifică nu este cunoscută. Multe figuri religioase cred că anonimitatea divină este inenționată.',
       pt: 'Muitas facções religiosas afirmam que os indivíduos que usam este anel têm o favor de uma divindade; no entanto, a divindade específica não é conhecida. Muitas figuras religiosas acreditam que o anonimato divino é intencional.',
       nl: 'Vele religieuze facties beweren dat de individuelen die deze ring dragen de gunst hebben ontvangen van een goddelijkheid, maar welke goddelijkheid dat is, is onbekend. Vele religieuze figuren geloven dat de goddelijke anonimiteit opzettelijk is.',
-      cs: 'Mnoho náboženských frakcí tvrdí, že jednotlivci nosící tento prsten mají přízeň božstva; konkrétní božstvo však není známo. Mnoho náboženských představitelů věří, že božská anonymita je záměrná.'
+      cs: 'Mnoho náboženských frakcí tvrdí, že jednotlivci nosící tento prsten mají přízeň božstva; konkrétní božstvo však není známo. Mnoho náboženských představitelů věří, že božská anonymita je záměrná.',
+      lt: 'Daugelis religinių frakcijų tvirtina kad į šio žiedo nešiotojus palankiai žiūri dievybė, tačiau kuri - nežinia. Daugelis dvasinių vadovų tiki kad dievybė savo vardą slepia tyčia.'
     }
   },
 
@@ -214,7 +225,8 @@ export default [
       ro: 'Pergamente antice susțin ca aceste inele legendare îl fac pe deținător invincibil. Pergamentele de asemenea menționează povești ale unui purtător ce a devenit corupt și profund nefericit.',
       pt: 'Os pergaminhos antigos afirmam que esses anéis lendários tornam o usuário quase invencível. Os pergaminhos também mencionam histórias de usuários que se tornaram corruptos e profundamente infelizes.',
       nl: 'Eeuwenoude lijsten beweren dat deze legendarische ringen de drager bijna onsterfelijk maken. De lijsten vernoemen ook verhalen over dragers die corrupt worden en diepgaand blij worden.',
-      cs: 'Starověké svitky tvrdí, že díky těmto legendárním prstenům je jejich nositel téměř neporazitelný. Svitky také zmiňují příběhy nositelů, kteří se stali zkorumpovanými a hluboce nešťastnými.'
+      cs: 'Starověké svitky tvrdí, že díky těmto legendárním prstenům je jejich nositel téměř neporazitelný. Svitky také zmiňují příběhy nositelů, kteří se stali zkorumpovanými a hluboce nešťastnými.',
+      lt: 'Senoviniuose ritiniuose rašoma kad šie legendiniai žiedai padaro savininką beveik neįveikiamą. Tačiau ten pat pasakojama ir apie savininkus, kurie tapo korumpuoti ir be galo nelaimingi.'
     }
   },
 
@@ -231,7 +243,8 @@ export default [
       ro: 'Odată la fiecare epocă, un Peacekeeper este găsit și marchează purtătorul ca pe un protector special al tărâmurilor. Într-o epocă trecută, purtătorul Peacekeeper a eșuat, iar "Third Great War" a început.',
       pt: 'Uma vez em cada era, um Peacekeeper é encontrado e marca o usuário como um protetor especial dos reinos. Em uma época passada, o portador do Peacekeeper falhou e a Terceira Grande Guerra começou.',
       nl: 'Eens in elk tijdperk, een vredeshouder is gevonden en markeert de drager als de speciale beschermer van de rijken. In het vorige tijdperk mislukte de vredeshouder en zo begon de Derde Great War.',
-      cs: 'Jednou v každém věku se najde Strážce míru a označí nositele jako zvláštního ochránce říší. V minulém věku nositel Míru selhal a začala třetí velká válka.'
+      cs: 'Jednou v každém věku se najde Strážce míru a označí nositele jako zvláštního ochránce říší. V minulém věku nositel Míru selhal a začala třetí velká válka.',
+      lt: 'Kartą per amžių randamas Peacekeeper paženklina savo nešėją kaip ypatingą kraštų gynėją. Praėjusiame amžiuje Peacekeeper nešėjas savo užduoties neįvykdė ir taip prasidėjo Trečiasis Didysis Karas.'
     }
   }
 ]

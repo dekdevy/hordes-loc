@@ -14,7 +14,8 @@ export default [
       tr: 'Bu tüyler yanlarında uyuyan kişinin rüya ve kabuslarını emer. Rüya ve kabuslar depo edilerek büyü olarak yeniden kullanılır.',
       ko: '이 깃털들은 근처에서 잠든 사람들의 꿈과 악몽을 흡수합니다, 흡수한 꿈과 악몽은 마법 형태로 보관되며 재사용 됩니다.',
       cs: 'Toto peří absorbuje sny a noční můry těch, kteří spí v jeho blízkosti. Sny a noční můry jsou uloženy a znovu použity ve formě magie.',
-      pt: 'Essas penas absorvem os sonhos e pesadelos daqueles que dormem próximos a elas. Os sonhos e pesadelos são armazenados e reutilizados na forma de magia.'
+      pt: 'Essas penas absorvem os sonhos e pesadelos daqueles que dormem próximos a elas. Os sonhos e pesadelos são armazenados e reutilizados na forma de magia.',
+      lt: 'Šios plunksnos sugeria netoliese miegančiųjų sapnus ir košmarus, kurie vėliau paverčiami magija.'
     }
   },
 
@@ -33,7 +34,8 @@ export default [
       tr: 'Doğaüstü bir canlı bu oyuncağa hapsedilip büyü gücünü depolayarak kullnıcıya mümkün kılar.',
       ko: '이 인형에 묶여있는  초자연적인 생명체는  사용자가 이해 할 수 있는 마법의 힘을 공급합니다.',
       cs: 'Nadpřirozené stvoření vázané na tuto panenku pohání magickou sílu dostupnou uživateli.',
-      pt: 'Uma criatura sobrenatural ligada a essa boneca alimenta o poder mágico disponível para o usuário.'
+      pt: 'Uma criatura sobrenatural ligada a essa boneca alimenta o poder mágico disponível para o usuário.',
+      lt: 'Prie lėlės pririštas antgamtinis padaras teikia savininkui magiškos galios.'
     }
   },
 
@@ -52,7 +54,8 @@ export default [
       tr: 'Bu, doğadan gelmekte olan sihri etrafa yayar.',
       ko: '이것은 자연에서 자주 보이는  마법을 생성하고 있는 그릇입니다',
       cs: 'Toto je nádoba, která vyzařuje magii pocházející z přírody.',
-      pt: 'Este é um recipiente que emana magia originada da natureza.'
+      pt: 'Este é um recipiente que emana magia originada da natureza.',
+      lt: 'Indas, skleidžiantis gamtos magiją.'
     }
   },
 
@@ -71,7 +74,8 @@ export default [
       tr: 'Bu boncuklar kutsal rahipler tarafından ilahi gücü depolamak ve lütuflarını sayma aracı olarak sayılırdı. İlahi gücün bir kısmı hala boncukların her birinde bulunur.',
       ko: '이 구슬들에는 신성한 힘을 저장하며 그들의 축복을 세는 수단으로서  성스러운 제사장들에 의해 운반되고있엇습니다, 아직 각 구슬들에는 여전히 신의 힘이 깃들어 있습니다.',
       cs: 'Tyto korálky nosili svatí kněží jako prostředek k ukládání božské moci a počítání jejich požehnání. Část božské síly stále sídlí v každém korálku.',
-      pt: 'Essas contas eram carregadas por sacerdotes sagrados como forma de armazenar poder divino e contar suas bênçãos. Algo do poder divino ainda reside em cada conta.'
+      pt: 'Essas contas eram carregadas por sacerdotes sagrados como forma de armazenar poder divino e contar suas bênçãos. Algo do poder divino ainda reside em cada conta.',
+      lt: 'Šventieji kunigai nešiojosi šiuos karolius kad kauptų dievišką galią ir skaičiuotų savo palaiminimus. Kiekviename karolyje dar glūdi dalelė dieviškosios galios.'
     }
   },
 
@@ -90,7 +94,8 @@ export default [
       tr: 'Kutsal bir görevde malup olan tapınakçılar, iyilikten yana olmak için manevi bağlılığı bunun gibi kişisel bir toteme döküyorlar.',
       ko: '성전사들이 신성한 임무에서 실패했을 때, 그들은 선의 편에 돕기 위하여 이것과 같은 개인적인 주제에 영적인 힘을 쏟아 부었습니다.',
       cs: 'Když poražení templáři selžou v božském úkolu, nalijí duchovní oddanost do osobního totemu, jako je tento, aby pomohli straně dobra.',
-      pt: 'Quando templários derrotados falham em uma tarefa divina, eles depositam devoção espiritual em um totem pessoal como este para auxiliar o lado do bem.'
+      pt: 'Quando templários derrotados falham em uma tarefa divina, eles depositam devoção espiritual em um totem pessoal como este para auxiliar o lado do bem.',
+      lt: 'Nugalėti tamplieriai, nesugebėję įvykdyti dieviškos užduoties, išlieja savo dvasinį atsidavimą į tokį asmeninį totemą. Jis skirtas padėti gėrio pusei.'
     }
   },
 
@@ -108,7 +113,8 @@ export default [
       es: 'Este es uno de los muchos grillos mágicos que una vez fueron propiedad de los emperadores y emperatrices de Tiger\'s Teeth. Para cubrirse de asesinatos, los grillos mágicos mejoraron el poder sobrenatural de la realeza que los llevaba.',
       ko: '이것은 한때 Tiger\'s Teeth의 황제들과  황후들이 소유 했엇던 많은 마법의 귀뚜라미들 중에 하나입니다. 암살을 맞서기 위하여 마법의 귀뚜라미는  귀뚜라미를 운반하는 왕족들에게  초자연적인 힘을 부여 하였습니다.  ',
       cs: 'Toto je jeden z mnoha magických cvrčků, které kdysi vlastnili císaři a císařovny Tiger\'s Teeth. Aby se kouzelní cvrčci chránili před atentáty, posilovali nadpřirozenou sílu královské rodiny, která je nosila.',
-      pt: 'Esta é uma das muitas grilos mágicos que já pertenceram aos imperadores e imperatrizes de Tiger\'s Teeth. Para se protegerem de assassinatos, os grilos mágicos potencializavam o poder sobrenatural da realeza que os carregava.'
+      pt: 'Esta é uma das muitas grilos mágicos que já pertenceram aos imperadores e imperatrizes de Tiger\'s Teeth. Para se protegerem de assassinatos, os grilos mágicos potencializavam o poder sobrenatural da realeza que os carregava.',
+      lt: 'Vienas iš daugybės magiškų svirplių, kadaise priklausiusių Tiger\'s Teeth imperatoriams ir imperatorėms. Magiški svirpliai stiprino juos nešiojusių valdovų antgamtinę galią ir taip saugojo nuo pasikėsinimų.'
     }
   },
 
@@ -124,7 +130,8 @@ export default [
       it: 'Questa è una prigione con creature soprannaturali che sono involontariamente legate insieme. Generano un notevole potere magico con le loro risate innaturali.',
       es: 'Esta es una prisión con criaturas sobrenaturales que están atadas involuntariamente. Generan un poder de sustancias mágicas con su risa antinatural.',
       cs: 'Toto je vězení s nadpřirozenými tvory, kteří jsou nedobrovolně svázáni dohromady. Vytvářejí značnou magickou sílu svým nepřirozeným smíchem.',
-      pt: 'Esta é uma prisão com criaturas sobrenaturais que estão ligadas involuntariamente. Elas geram um poder mágico substancial com suas risadas sobrenaturais.'
+      pt: 'Esta é uma prisão com criaturas sobrenaturais que estão ligadas involuntariamente. Elas geram um poder mágico substancial com suas risadas sobrenaturais.',
+      lt: 'Kalėjimas, kuriame prieš savo valią kartu įkalinti antgamtiniai padarai. Jų nenatūralus juokas generuoja didžiulę magišką galią.'
     }
   },
 
@@ -140,7 +147,8 @@ export default [
       it: 'Un collettivo di menti soprannaturali che focalizzano il loro potere magico e lo conferiscono all\'utente del loro totem. The Hive Mind crede che tutte le creature debbano sottomettersi al loro potere e cerca di convincere l\'utente ad unirsi a loro.',
       es: 'Un colectivo de mentes sobrenaturales que centran su poder mágico y lo otorgan al portador de su tótem. El Hive Mind cree que todas las criaturas deben someterse a su poder e intentan convencer al usuario de que se unan a ellas.',
       cs: 'Kolektiv nadpřirozených myslí, které zaměřují svou magickou sílu a udělují ji uživateli svého totemu. The Hive Mind věří, že všechna stvoření se musí podřídit jejich moci a snaží se přesvědčit uživatele, aby se k nim přidal.',
-      pt: 'Um coletivo de mentes sobrenaturais que concentram seu poder mágico e o concedem ao usuário de seu totem. A Hive Mind acredita que todas as criaturas devem se submeter ao seu poder e tenta convencer o usuário a se juntar a eles.'
+      pt: 'Um coletivo de mentes sobrenaturais que concentram seu poder mágico e o concedem ao usuário de seu totem. A Hive Mind acredita que todas as criaturas devem se submeter ao seu poder e tenta convencer o usuário a se juntar a eles.',
+      lt: 'Antgamtinių protų sambūris, kuris sutelkia savo magišką galią ir perduoda ją totemo savininkui. Hive Mind tiki kad visi padarai privalo paklusti jo galiai, ir bando įkalbėti savininką prisijungti.'
     }
   },
 
@@ -156,7 +164,8 @@ export default [
       it: 'Questo è un avatar di una creatura soprannaturale. Alcuni studiosi affermano che il serpente di Nganga è dato a coloro che sono scelti e considerati degni di grandezza; tuttavia, altri studiosi suggeriscono che questo è un altro mezzo con cui le divinità cercano di controllare e manipolare i mortali.',
       es: 'Este es un avatar de una criatura sobrenatural. Algunos estudiosos dicen que Nganga\'s Serpent es dada a aquellos que son elegidos y son considerados dignos de grandeza; Sin embargo, otros estudiosos sugieren que esta es una forma por la cual las deidades intentan controlar y manipular a los mortales.',
       cs: 'Toto je avatar nadpřirozeného tvora. Někteří učenci říkají, že had Nganga je dán těm, kteří jsou vyvoleni a považováni za hodné velikosti; jiní učenci však naznačují, že jde o další prostředek, kterým se božstva snaží ovládat a manipulovat smrtelníky.',
-      pt: 'Este é um avatar de uma criatura sobrenatural. Alguns estudiosos dizem que a Serpente de Nganga é dada àqueles que são escolhidos e considerados dignos de grandeza; no entanto, outros estudiosos sugerem que este é outro meio pelo qual as divindades tentam controlar e manipular os mortais.'
+      pt: 'Este é um avatar de uma criatura sobrenatural. Alguns estudiosos dizem que a Serpente de Nganga é dada àqueles que são escolhidos e considerados dignos de grandeza; no entanto, outros estudiosos sugerem que este é outro meio pelo qual as divindades tentam controlar e manipular os mortais.',
+      lt: 'Antgamtinio padaro įsikūnijimas. Kai kurie žinovai teigia kad Nganga\'s Serpent atitenka išrinktiesiems, vertiems didybės. Kiti mano kad tai dar vienas būdas kuriuo dievybės bando valdyti mirtinguosius ir jais manipuliuoti.'
     }
   },
 
@@ -172,7 +181,8 @@ export default [
       it: 'Si dice che queste antiche ossa siano piccoli frammenti di una divinità mostruosa dimenticata. Le ossa irradiano potere oltre ogni immaginazione.',
       es: 'Se dice que estos huesos antiguos son pequeños fragmentos de un monstruo olvidado. Los huesos irradian poder más allá de la imaginación.',
       cs: 'Tyto prastaré kosti jsou prý malé úlomky zapomenutého božstva monster. Kosti vyzařují sílu přesahující představivost.',
-      pt: 'Esses ossos antigos são fragmentos de uma deidade monstruosa esquecida. Os ossos irradiam um poder além da imaginação.'
+      pt: 'Esses ossos antigos são fragmentos de uma deidade monstruosa esquecida. Os ossos irradiam um poder além da imaginação.',
+      lt: 'Sakoma, kad šie senoviniai kaulai yra užmirštos monstrų dievybės nuolaužos. Jie spinduliuoja neįsivaizduojamą galią.'
     }
   }
 

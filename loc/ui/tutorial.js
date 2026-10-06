@@ -14,7 +14,8 @@ export default {
       vi: 'Tiến lại gần một quái vật',
       hu: 'Menj egy szörnyhöz',
       cs: 'Jdi k příšeře',
-      pl: 'Podejdź do potwora'
+      pl: 'Podejdź do potwora',
+      lt: 'Prieikite prie monstro'
     },
     targetMonster: {
       en: 'Target the monster',
@@ -30,7 +31,8 @@ export default {
       vi: 'Chọn quái vật',
       hu: 'Jelöld ki a szörnyet',
       cs: 'Zaměř příšeru',
-      pl: 'Wybierz potwora'
+      pl: 'Wybierz potwora',
+      lt: 'Pažymėkite monstrą'
     },
     castSkill: {
       en: 'Cast skill',
@@ -46,7 +48,8 @@ export default {
       vi: 'Dùng kỹ năng',
       hu: 'Használj képességet',
       cs: 'Použij dovednost',
-      pl: 'Użyj umiejętności'
+      pl: 'Użyj umiejętności',
+      lt: 'Panaudokite įgūdį'
     },
     pickupWeapon: {
       en: 'Pick up the weapon',
@@ -62,7 +65,8 @@ export default {
       vi: 'Nhặt vũ khí',
       hu: 'Vedd fel a fegyvert',
       cs: 'Seber zbraň',
-      pl: 'Podnieś broń'
+      pl: 'Podnieś broń',
+      lt: 'Paimkite ginklą'
     },
     showItemLabels: {
       en: 'Show items',
@@ -78,7 +82,8 @@ export default {
       vi: 'Hiện vật phẩm',
       hu: 'Tárgyak mutatása',
       cs: 'Zobraz předměty',
-      pl: 'Pokaż przedmioty'
+      pl: 'Pokaż przedmioty',
+      lt: 'Parodyti daiktus'
     },
     moveCloser: {
       en: 'Move closer',
@@ -94,7 +99,8 @@ export default {
       vi: 'Đến gần hơn',
       hu: 'Menj közelebb',
       cs: 'Pojď blíž',
-      pl: 'Podejdź bliżej'
+      pl: 'Podejdź bliżej',
+      lt: 'Prieikite arčiau'
     },
     openInventory: {
       en: 'Open inventory',
@@ -110,7 +116,8 @@ export default {
       vi: 'Mở hành trang',
       hu: 'Nyisd ki a hátizsákot',
       cs: 'Otevři inventář',
-      pl: 'Otwórz ekwipunek'
+      pl: 'Otwórz ekwipunek',
+      lt: 'Atidarykite inventorių'
     },
     openCharacter: {
       en: 'Open character',
@@ -126,7 +133,8 @@ export default {
       vi: 'Mở bảng nhân vật',
       hu: 'Nyisd meg a panelt',
       cs: 'Otevři panel postavy',
-      pl: 'Otwórz panel postaci'
+      pl: 'Otwórz panel postaci',
+      lt: 'Atidarykite veikėjo langą'
     },
     equipWeapon: {
       en: 'Equip the weapon',
@@ -142,7 +150,8 @@ export default {
       vi: 'Trang bị vũ khí',
       hu: 'Szereld fel a fegyvert',
       cs: 'Nasaď zbraň',
-      pl: 'Załóż broń'
+      pl: 'Załóż broń',
+      lt: 'Užsidėkite ginklą'
     },
     reachLevel: {
       en: 'Reach level $1',
@@ -158,7 +167,8 @@ export default {
       vi: 'Đạt cấp $1',
       hu: 'Érd el a(z) $1. szintet',
       cs: 'Dosáhni úrovně $1',
-      pl: 'Osiągnij poziom $1'
+      pl: 'Osiągnij poziom $1',
+      lt: 'Pasiekite $1 lygį'
     },
     spendStats: {
       en: 'Spend all stat points',
@@ -174,7 +184,8 @@ export default {
       vi: 'Dùng hết điểm tiềm năng',
       hu: 'Oszd el minden pontod',
       cs: 'Rozděl všechny staty',
-      pl: 'Rozdaj wszystkie staty'
+      pl: 'Rozdaj wszystkie staty',
+      lt: 'Panaudokite visus savybių taškus'
     },
     closeCharacter: {
       en: 'Close character',
@@ -190,7 +201,8 @@ export default {
       vi: 'Đóng bảng nhân vật',
       hu: 'Zárd be a karakterpanelt',
       cs: 'Zavři panel postavy',
-      pl: 'Zamknij panel postaci'
+      pl: 'Zamknij panel postaci',
+      lt: 'Uždarykite veikėjo langą'
     },
     closeInventory: {
       en: 'Close inventory',
@@ -206,7 +218,8 @@ export default {
       vi: 'Đóng hành trang',
       hu: 'Zárd be a hátizsákot',
       cs: 'Zavři inventář',
-      pl: 'Zamknij ekwipunek'
+      pl: 'Zamknij ekwipunek',
+      lt: 'Uždarykite inventorių'
     },
     collectCoins: {
       en: 'Collect coins',
@@ -222,7 +235,8 @@ export default {
       vi: 'Thu thập vàng',
       hu: 'Gyűjts érméket',
       cs: 'Sbírej mince',
-      pl: 'Zbieraj monety'
+      pl: 'Zbieraj monety',
+      lt: 'Surinkite monetas'
     },
     talkTrader: {
       en: 'Talk to your class trader',
@@ -238,7 +252,8 @@ export default {
       vi: 'Nói với thương nhân lớp',
       hu: 'Beszélj a kereskedővel',
       cs: 'Promluv s obchodníkem',
-      pl: 'Rozmawiaj z handlarzem'
+      pl: 'Rozmawiaj z handlarzem',
+      lt: 'Pakalbinkite savo klasės prekeivį'
     },
     buyBook: {
       en: 'Buy the skill book',
@@ -254,7 +269,8 @@ export default {
       vi: 'Mua sách kỹ năng',
       hu: 'Vedd meg a könyvet',
       cs: 'Kup knihu dovednosti',
-      pl: 'Kup księgę umiejętności'
+      pl: 'Kup księgę umiejętności',
+      lt: 'Nusipirkite įgūdžio knygą'
     },
     learnSkill: {
       en: 'Learn the skill',
@@ -270,7 +286,8 @@ export default {
       vi: 'Học kỹ năng',
       hu: 'Tanuld meg a képességet',
       cs: 'Nauč se dovednost',
-      pl: 'Naucz się umiejętności'
+      pl: 'Naucz się umiejętności',
+      lt: 'Išmokite įgūdį'
     },
     useBook: {
       en: 'Use the skill book',
@@ -286,7 +303,8 @@ export default {
       vi: 'Dùng sách kỹ năng',
       hu: 'Használd a könyvet',
       cs: 'Použij knihu dovednosti',
-      pl: 'Użyj księgi umiejętności'
+      pl: 'Użyj księgi umiejętności',
+      lt: 'Panaudokite įgūdžio knygą'
     },
     closeTrader: {
       en: 'Close shop',
@@ -302,7 +320,8 @@ export default {
       vi: 'Đóng cửa hàng',
       hu: 'Zárd be a boltot',
       cs: 'Zavři obchod',
-      pl: 'Zamknij sklep'
+      pl: 'Zamknij sklep',
+      lt: 'Uždarykite parduotuvę'
     },
     openSkills: {
       en: 'Open skills',
@@ -318,7 +337,8 @@ export default {
       vi: 'Mở bảng kỹ năng',
       hu: 'Nyisd ki a képességeket',
       cs: 'Otevři dovednosti',
-      pl: 'Otwórz umiejętności'
+      pl: 'Otwórz umiejętności',
+      lt: 'Atidarykite įgūdžius'
     },
     activateSkill: {
       en: 'Activate the skill',
@@ -334,7 +354,8 @@ export default {
       vi: 'Kích hoạt kỹ năng',
       hu: 'Aktiváld a képességet',
       cs: 'Aktivuj dovednost',
-      pl: 'Aktywuj umiejętność'
+      pl: 'Aktywuj umiejętność',
+      lt: 'Aktyvuokite įgūdį'
     },
     confirmSkills: {
       en: 'Confirm skills',
@@ -350,7 +371,8 @@ export default {
       vi: 'Xác nhận kỹ năng',
       hu: 'Erősítsd meg',
       cs: 'Potvrď dovednosti',
-      pl: 'Potwierdź umiejętności'
+      pl: 'Potwierdź umiejętności',
+      lt: 'Patvirtinkite įgūdžius'
     },
     placeSkill: {
       en: 'Place the skill here',
@@ -366,7 +388,8 @@ export default {
       vi: 'Đặt kỹ năng vào đây',
       hu: 'Helyezd ide a képességet',
       cs: 'Umísti dovednost sem',
-      pl: 'Umieść umiejętność tutaj'
+      pl: 'Umieść umiejętność tutaj',
+      lt: 'Padėkite įgūdį čia'
     },
     pickupSkill: {
       en: 'Pick up the skill',
@@ -382,7 +405,8 @@ export default {
       vi: 'Chọn kỹ năng',
       hu: 'Vedd fel a képességet',
       cs: 'Uchop dovednost',
-      pl: 'Chwyć umiejętność'
+      pl: 'Chwyć umiejętność',
+      lt: 'Paimkite įgūdį'
     },
     closeSkills: {
       en: 'Close skills',
@@ -398,7 +422,8 @@ export default {
       vi: 'Đóng bảng kỹ năng',
       hu: 'Zárd be a képességeket',
       cs: 'Zavři dovednosti',
-      pl: 'Zamknij umiejętności'
+      pl: 'Zamknij umiejętności',
+      lt: 'Uždarykite įgūdžius'
     },
     selectSelf: {
       en: 'Select yourself',
@@ -414,7 +439,8 @@ export default {
       vi: 'Chọn bản thân',
       hu: 'Jelöld ki magad',
       cs: 'Vyber sebe',
-      pl: 'Wybierz siebie'
+      pl: 'Wybierz siebie',
+      lt: 'Pasirinkite save'
     },
     useNewSkill: {
       en: 'Use your new skill',
@@ -430,7 +456,8 @@ export default {
       vi: 'Dùng kỹ năng mới',
       hu: 'Használd az új skillt',
       cs: 'Použij novou dovednost',
-      pl: 'Użyj nowej umiejętności'
+      pl: 'Użyj nowej umiejętności',
+      lt: 'Panaudokite naują įgūdį'
     },
     talkQuestGiver: {
       en: 'Talk to the quest giver',
@@ -446,7 +473,8 @@ export default {
       vi: 'Nói với NPC nhiệm vụ',
       hu: 'Beszélj a küldetésadóval',
       cs: 'Promluv se zadavatelem',
-      pl: 'Porozmawiaj z zadawcą'
+      pl: 'Porozmawiaj z zadawcą',
+      lt: 'Pakalbinkite užduoties davėją'
     },
     acceptQuest: {
       en: 'Accept the quest',
@@ -462,10 +490,12 @@ export default {
       vi: 'Nhận nhiệm vụ',
       hu: 'Fogadd el a küldetést',
       cs: 'Přijmi úkol',
-      pl: 'Przyjmij zadanie'
+      pl: 'Przyjmij zadanie',
+      lt: 'Priimkite užduotį'
     },
     returnQuest: {
-      en: 'Return the quest'
+      en: 'Return the quest',
+      lt: 'Atiduokite užduotį'
     },
     findQuest: {
       en: 'Find the quest target',
@@ -481,7 +511,8 @@ export default {
       vi: 'Tìm mục tiêu nhiệm vụ',
       hu: 'Keresd meg a küldetés célját',
       cs: 'Najdi cíl úkolu',
-      pl: 'Znajdź cel zadania'
+      pl: 'Znajdź cel zadania',
+      lt: 'Suraskite užduoties taikinį'
     },
     click: {
       en: 'Click',
@@ -497,7 +528,8 @@ export default {
       vi: 'Nhấp',
       hu: 'Klikk',
       cs: 'Klik',
-      pl: 'Kliknij'
+      pl: 'Kliknij',
+      lt: 'Spauskite'
     },
     rightClick: {
       en: 'Right-click',
@@ -513,7 +545,8 @@ export default {
       vi: 'Nhấp chuột phải',
       hu: 'Jobb klikk',
       cs: 'Pravý klik',
-      pl: 'Kliknij prawym'
+      pl: 'Kliknij prawym',
+      lt: 'Spauskite dešiniuoju'
     },
     longPress: {
       en: 'Hold',
@@ -529,9 +562,10 @@ export default {
       vi: 'Nhấn giữ',
       hu: 'Tartsd nyomva',
       cs: 'Podrž',
-      pl: 'Przytrzymaj'
+      pl: 'Przytrzymaj',
+      lt: 'Palaikykite'
     },
-    tap: {
+      tap: {
       en: 'Tap',
       de: 'Tippen',
       ru: 'Нажать',
@@ -545,7 +579,8 @@ export default {
       vi: 'Chạm',
       hu: 'Koppints',
       cs: 'Klepni',
-      pl: 'Dotknij'
+      pl: 'Dotknij',
+      lt: 'Palieskite'
     },
     drag: {
       en: 'Drag',
@@ -561,7 +596,8 @@ export default {
       vi: 'Kéo',
       hu: 'Húzd',
       cs: 'Táhni',
-      pl: 'Przesuń'
+      pl: 'Przesuń',
+      lt: 'Tempkite'
     }
   }
 }

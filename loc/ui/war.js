@@ -8,7 +8,8 @@ export default {
     pt: 'Estado da Guerra',
     cs: 'Válečný stav',
     es: 'Estado de guerra',
-    sr: 'Статус рата'
+    sr: 'Статус рата',
+    lt: 'Karo būsena'
   },
 
   duration: {
@@ -20,7 +21,8 @@ export default {
     pt: 'Duração',
     cs: 'Doba trvání',
     es: 'Duración',
-    sr: 'Трајање'
+    sr: 'Трајање',
+    lt: 'Trukmė'
   },
 
   player: {
@@ -32,7 +34,8 @@ export default {
     pt: 'Jogador',
     cs: 'Hráč',
     es: 'Jugador',
-    sr: 'Играч'
+    sr: 'Играч',
+    lt: 'Žaidėjas'
   },
 
   statustypes: [{
@@ -44,7 +47,8 @@ export default {
     pt: 'Finalizado',
     cs: 'Ukončeno',
     es: 'Finalizado',
-    sr: 'Завршено'
+    sr: 'Завршено',
+    lt: 'Baigėsi'
   }, {
     en: 'Ending Soon',
     fr: 'Bientôt terminé',
@@ -54,7 +58,8 @@ export default {
     pt: 'Terminando em breve',
     cs: 'Brzy končí',
     es: 'Terminando pronto',
-    sr: 'Ускоро се завршава'
+    sr: 'Ускоро се завршава',
+    lt: 'Netrukus baigsis'
   }, {
     en: 'Active',
     fr: 'Actif',
@@ -64,6 +69,7 @@ export default {
     pt: 'Ativo',
     cs: 'Aktivní',
     es: 'Activo',
-    sr: 'Активно'
+    sr: 'Активно',
+    lt: 'Vyksta'
   }]
 }

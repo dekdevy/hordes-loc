@@ -14,7 +14,8 @@ export default [
       tr: 'Çanlar genelde seçilmiş bir tanrıya bağlılık simgesidir. Bu çanın iç kısmında gümüş işlemeli bir yazıt bulunuyor, ancak bu yazıtın çevirisi zaman içinde kayıp olmuş.',
       cs: 'Zvony se často používají jako symbol oddanosti vybranému božstvu. Uvnitř tohoto zvonu je vykládaný stříbrný nápis, ale překlad nápisu se ztratil v čase.',
       pt: 'Sinos são frequentemente usados como símbolo de devoção a uma divindade escolhida. O interior deste sino possui uma inscrição em prata incrustada, mas a tradução da inscrição foi perdida ao longo do tempo.',
-      es: 'Las campanas se usan a menudo como símbolo de devoción hacia una deidad elegida. El interior de esta campana tiene una inscripción de plata incrustada, pero la traducción de la inscripción se ha perdido con el tiempo.'
+      es: 'Las campanas se usan a menudo como símbolo de devoción hacia una deidad elegida. El interior de esta campana tiene una inscripción de plata incrustada, pero la traducción de la inscripción se ha perdido con el tiempo.',
+      lt: 'Varpeliai dažnai simbolizuoja atsidavimą pasirinktai dievybei. Varpelio vidų puošia įspaustas nebežinoma kalba parašytas sidabrinis užrašas.'
     }
   },
   {
@@ -32,7 +33,8 @@ export default [
       tr: 'Fosilleşmiş canavar yumurtaları genelde uzun ömürlülüğün simgesi olarak yorumlanır. Ancak bu canlıların son zamanlarda bulunduğuna dair yazılı kaynak yok.',
       cs: 'Fosilizovaná vejce monster jsou často interpretována jako symboly dlouhověkosti. Kromě nedávné doby však neexistují žádné písemné záznamy o těchto tvorech.',
       pt: 'Ovos fossilizados de monstros são frequentemente interpretados como símbolos de longevidade. No entanto, não existem registros escritos dessas criaturas além dos tempos recentes.',
-      es: 'Los huevos de monstruos fosilizados se interpretan a menudo como símbolos de longevidad. Sin embargo, no existen registros escritos de estas criaturas más allá de los tiempos recientes.'
+      es: 'Los huevos de monstruos fosilizados se interpretan a menudo como símbolos de longevidad. Sin embargo, no existen registros escritos de estas criaturas más allá de los tiempos recientes.',
+      lt: 'Suakmenėję monstrų kiaušiniai dažnai laikomi ilgaamžiškumo simboliu. Vis dėlto rašytinių šaltinių apie šiuos padarus yra tik iš nesenų laikų.'
     }
   },
   {
@@ -50,7 +52,8 @@ export default [
       tr: 'Ork kabileleri çoğunlukla layık düşmanlarının kafataslarını saygı işareti olarak saklarlar. Bu kafatası düşmanlarının yaşadığı zaman ki gücünü simgelemesi için süslü dövmelerle süslenmiş.',
       cs: 'Orkské kmeny často uchovávají lebky hodných nepřátel na znamení úcty. Tato lebka je zdobena tetováním, které symbolizuje sílu, kterou měl nepřítel během života.',
       pt: 'As tribos de orcs frequentemente guardam os crânios de inimigos dignos como sinal de respeito. Este crânio é adornado com tatuagens que simbolizam o poder que o inimigo tinha em vida.',
-      es: 'Las tribus orcas suelen conservar los cráneos de enemigos dignos como señal de respeto. Este cráneo está adornado con tatuajes que simbolizan el poder que el enemigo tenía en vida.'
+      es: 'Las tribus orcas suelen conservar los cráneos de enemigos dignos como señal de respeto. Este cráneo está adornado con tatuajes que simbolizan el poder que el enemigo tenía en vida.',
+      lt: 'Orkų gentys dažnai pasilieka vertų priešų kaukoles kaip pagarbos ženklą. Kaukolę puošia tatuiruotės, menančios, kokią galią priešas turėjo būdamas gyvas.'
     }
   },
   {
@@ -68,7 +71,8 @@ export default [
       tr: 'Savaş gemilerinin tepesinde dalgalanan bayraklara flama adı verilir. Bu bayrak, Headless Landing\'e seyahat eden ilk geminin harabelerinin arasındaydı.',
       cs: 'Vlajky vyvěšené z vršků válečných lodí se nazývaly praporce. Tato lodní vlajka byla mezi ztroskotanými válečnými loděmi, které jako první cestovaly do Bezhlavého přistání.',
       pt: 'As bandeiras hasteadas no topo dos navios de guerra eram chamadas de flâmulas. Esta flâmula de navio estava entre os navios de guerra naufragados que viajaram pela primeira vez até Headless Landing.',
-      es: 'Las banderas izadas en la parte superior de los barcos de guerra se llamaban banderines. Este banderín de barco estaba entre los barcos de guerra naufragados que viajaron por primera vez a Headless Landing.'
+      es: 'Las banderas izadas en la parte superior de los barcos de guerra se llamaban banderines. Este banderín de barco estaba entre los barcos de guerra naufragados que viajaron por primera vez a Headless Landing.',
+      lt: 'Karo laivų stiebų viršūnėse plevėsuojančios vėliavos buvo vadinamos vimpelais. Šis vimpelas išliko iš sudužusių karo laivų, kurie pirmieji pasiekė Headless Landing.'
     }
   },
   {
@@ -86,7 +90,8 @@ export default [
       tr: 'Büyücüler kıtlık zamanlarında mana elde etmek için alternatif yöntemler oluşturdular. Bu mermer mana şebekelerinin büyük bir gerilimde olduğu Arcane krizinde oluşturuldu.',
       cs: 'Mágové vytvořili alternativní metody získávání many v dobách nedostatku. Tento mramor byl vytvořen během Arcane Crisis, v době, kdy byly manové sítě vystaveny extrémnímu stresu.',
       pt: 'Magos criaram métodos alternativos de obtenção de mana durante tempos de escassez. Este mármore foi criado durante a Crise Arcana, um período em que as redes de mana estavam sob extrema pressão.',
-      es: 'Los magos crearon métodos alternativos de adquisición de maná durante tiempos de escasez. Esta canica fue creada durante la Crisis Arcana, un tiempo en el que las redes de maná estaban bajo un estrés extremo.'
+      es: 'Los magos crearon métodos alternativos de adquisición de maná durante tiempos de escasez. Esta canica fue creada durante la Crisis Arcana, un tiempo en el que las redes de maná estaban bajo un estrés extremo.',
+      lt: 'Nepritekliaus metais magai išrado kitų būdų manai gauti. Šis rutuliukas sukurtas per Arkaninę Krizę, kai manos tinklai buvo ties žlugimo riba.'
     }
   }, {
     name       : {$$: 'Crimson Blade'},
@@ -103,7 +108,8 @@ export default [
       tr: 'Kızıl Volkan\'ın erimiş kalbinden dövülen bu baltanın bıçağı, sadece düşmanlar onun önünde düştüğünde doyan bir savaşçının hikayelerini fısıldıyor.',
       cs: 'Kovaný z roztaveného srdce Crimson Volcano, čepel této sekery šeptá příběhy o válečníkovi, který byl spokojený jen když před ním padali nepřátelé.',
       pt: 'Forjada a partir do coração derretido do Vulcão Carmesim, a lâmina deste machado sussurra contos de um guerreiro satisfeito apenas quando os inimigos caíam diante dele.',
-      es: 'Forjada a partir del corazón fundido del Volcán Carmesí, la hoja de este hacha susurra historias de un guerrero saciado solo cuando los enemigos caían ante él.'
+      es: 'Forjada a partir del corazón fundido del Volcán Carmesí, la hoja de este hacha susurra historias de un guerrero saciado solo cuando los enemigos caían ante él.',
+      lt: 'Šio kirvio ašmenys, nukalti išlydytoje Purpurinio Ugnikalnio širdyje, šnabžda apie karį, kurio troškulį numalšindavo tik prieš jį krintantys priešai.'
     }
   }, {
     name       : {$$: 'Talon Grip'},
@@ -120,7 +126,8 @@ export default [
       tr: 'Gecenin karanlığında, Emdell\'in pençelerinin o kadar hızlı vurduğu söylenir ki, gölgeler bile ayak uydurmakta zorlanırdı.',
       cs: 'Uprostřed noci se říkalo, že drápy Emdella útočí s takovou rychlostí, že stíny měly problém držet krok.',
       pt: 'No silêncio da noite, dizia-se que as garras de Emdell atacavam com tanta velocidade que as sombras lutavam para acompanhar.',
-      es: 'En la oscuridad de la noche, se decía que los garras de Emdell golpeaban con tal velocidad que las sombras luchaban por mantener el ritmo.'
+      es: 'En la oscuridad de la noche, se decía que los garras de Emdell golpeaban con tal velocidad que las sombras luchaban por mantener el ritmo.',
+      lt: 'Sakoma, kad nakties glūdumoje Emdells nagai smogdavo taip greitai, jog net šešėliai vos spėdavo iš paskos.'
     }
   }, {
     name       : {$$: 'Blood Ritual'},
@@ -137,7 +144,8 @@ export default [
       tr: 'Kızıl Aslan bir zamanlar bir orduya karşı tek başına durduğu gibi, senin kararlılığın da sertleşecek ve vuruşların derinleşecek, özün azaldıkça.',
       cs: 'Stejně jako Rudý lev kdysi stál sám proti hordě, tak se i tvá odhodlanost ztvrdne a tvé údery zesílí, jak tvá podstata slábne.',
       pt: 'Assim como o Leão Vermelho uma vez enfrentou sozinho uma horda, assim sua determinação se fortalecerá, e seus golpes se aprofundarão, à medida que sua essência enfraquecer.',
-      es: 'Como el León Rojo una vez se enfrentó solo a una horda, así se endurecerá tu resolución y se profundizarán tus golpes, a medida que tu esencia disminuya.'
+      es: 'Como el León Rojo una vez se enfrentó solo a una horda, así se endurecerá tu resolución y se profundizarán tus golpes, a medida que tu esencia disminuya.',
+      lt: 'Kaip Raudonasis Liūtas kadaise vienas stojo prieš visą ordą, taip ir jūsų ryžtas grūdinsis, o smūgiai stiprės, kai jūsų gyvybės jėgos silps.'
     }
   }, {
     name       : {$$: 'Frog Lungs'},
@@ -154,7 +162,8 @@ export default [
       tr: 'Efsane, dalgaların altında nefes almaya cesaret eden kurbağa Dehnu\'dan bahseder, yolculara boğulan karanlığa karşı aynı meydan okumayı bahşeder.',
       cs: 'Legenda šeptá o Dehnu, žábě, která se odvážila dýchat pod vlnami, a darovala cestovatelům stejnou odvahu proti topící se tmě.',
       pt: 'A lenda sussurra sobre Dehnu, o sapo que ousou respirar sob as ondas, presenteando os viajantes com a mesma resistência contra a escuridão que afoga.',
-      es: 'La leyenda susurra sobre Dehnu, la rana que se atrevió a respirar bajo las olas, otorgando a los viajeros la misma resistencia contra la oscuridad que se ahoga.'
+      es: 'La leyenda susurra sobre Dehnu, la rana que se atrevió a respirar bajo las olas, otorgando a los viajeros la misma resistencia contra la oscuridad que se ahoga.',
+      lt: 'Legenda pasakoja apie Dehnu varlę, išdrįsusią kvėpuoti po bangomis. Ji ir keliautojams dovanoja tą patį gebėjimą atsispirti skandinančiai tamsai.'
     }
   }, {
     name       : {$$: 'Forest Veil'},
@@ -171,7 +180,8 @@ export default [
       tr: 'Gizli açıklığın koruyucu ruhu Jylia, fısıldayan ormanlarda sığınak arayanları örter, ancak hareketleri varlıklarını ele verir.',
       cs: 'Jylia, strážný duch skryté mýtiny, zahaluje ty, kteří hledají útočiště v šeptajících lesích, ačkoli pohyb prozrazuje jejich přítomnost.',
       pt: 'Jylia, o espírito guardião da clareira escondida, envolve aqueles que buscam refúgio nas florestas sussurrantes, embora o movimento traia sua presença.',
-      es: 'Jylia, el espíritu guardián del claro oculto, oculta a aquellos que buscan refugio en los bosques susurrantes, aunque el movimiento traiciona su presencia.'
+      es: 'Jylia, el espíritu guardián del claro oculto, oculta a aquellos que buscan refugio en los bosques susurrantes, aunque el movimiento traiciona su presencia.',
+      lt: 'Jylia, slaptos laukymės dvasia globėja, apgaubia prieglobsčio šnarančiose giriose ieškančius keliautojus, tačiau judėjimas juos išduoda.'
     }
   }, {
     name       : {$$: 'Fae Shroom'},
@@ -188,7 +198,8 @@ export default [
       tr: 'Dhiwy\'nin büyüsüne dokunmuş bu mantarlar, cesurları eski yıldızların altında gece boyunca fısıldanan masalların boyutuna küçültür.',
       cs: 'Dotčeny Dhiwyho kouzlem, tyto houby zmenšují odvážné na velikost příběhů, šeptaných v noci pod starověkými hvězdami.',
       pt: 'Tocados pelo encantamento de Dhiwy, esses cogumelos reduzem os audaciosos ao tamanho de contos, sussurrados na noite sob as antigas estrelas.',
-      es: 'Tocados por el encantamiento de Dhiwy, estos hongos reducen a los audaces al tamaño de los cuentos, susurrados en la noche bajo las antiguas estrellas.'
+      es: 'Tocados por el encantamiento de Dhiwy, estos hongos reducen a los audaces al tamaño de los cuentos, susurrados en la noche bajo las antiguas estrellas.',
+      lt: 'Dhiwy kerų paliesti grybai sumažina drąsuolius iki pasakų būtybių dydžio - tokių, apie kurias naktimis šnabždėjo po senovinėmis žvaigždėmis.'
     }
   }, {
     name       : {$$: 'Ghost Candles'},
@@ -205,7 +216,8 @@ export default [
       tr: 'Ünlü bir simyacı bir zamanlar bir mumu klonladı, zamanını kendi iradesine göre bükmenin bir yolunu keşfetti ve büyülerin göz açıp kapayıncaya kadar yapılmasını sağladı.',
       cs: 'Jeden slavný alchymista kdysi zkopíroval svíčku a objevil způsob, jak ohýbat čas podle své vůle, což umožňuje sesílání kouzel na počkání.',
       pt: 'Um famoso alquimista uma vez clonou uma vela, descobrindo uma forma de dobrar o tempo à sua vontade, permitindo que os feitiços sejam lançados num piscar de olhos.',
-      es: 'Un famoso alquimista una vez clonó una vela, descubriendo una forma de doblar el tiempo a su voluntad, permitiendo que los hechizos se lancen en un abrir y cerrar de ojos.'
+      es: 'Un famoso alquimista una vez clonó una vela, descubriendo una forma de doblar el tiempo a su voluntad, permitiendo que los hechizos se lancen en un abrir y cerrar de ojos.',
+      lt: 'Garsus alchemikas kartą nuklonavo žvakę ir atrado kaip palenkti laiką savo valiai. Nuo tada burtus galima panaudoti akimirksniu.'
     }
   }, {
     name       : {$$: 'Spiked Aegis'},
@@ -222,7 +234,8 @@ export default [
       tr: 'Aurum Wraiths tarafından dövülen bu kalkan, vurmaya cesaret edenlere karşılık verir, sarsılmaz cesaretin bir kanıtıdır.',
       cs: 'Kovaný Aurum Wraiths, tento štít vrací úder těm, kteří se odváží udeřit, což je svědectví neochvějné odvahy.',
       pt: 'Forjado pelos Aurum Wraiths, este escudo morde de volta aqueles que ousam atacar, um testemunho de coragem inabalável.',
-      es: 'Forjado por los Aurum Wraiths, este escudo muerde a aquellos que se atreven a golpear, un testimonio de coraje inquebrantable.'
+      es: 'Forjado por los Aurum Wraiths, este escudo muerde a aquellos que se atreven a golpear, un testimonio de coraje inquebrantable.',
+      lt: 'Aurum Wraiths nukaltas skydas atsikerta kiekvienam, išdrįsusiam smogti. Tai nepalenkiamos drąsos liudijimas.'
     }
   }, {
     name       : {$$: 'Orc Skull'},
@@ -239,7 +252,8 @@ export default [
       tr: 'Ne bir masal, ne bir efsane, sadece orc ruhunu somutlaştırma, sadece vahşilerin yosunu koklayabildiği yerde özgürce dolaşma isteği.',
       cs: 'Ne pohádka, ne mýtus, jen čistá vůle ztělesnit orkského ducha, volně se toulat tam, kde jen divocí cítí mech.',
       pt: 'Nem conto, nem mito, apenas a pura vontade de incorporar o espírito orc, de vagar livremente onde apenas os ferozes sentem o cheiro do musgo.',
-      es: 'Ni cuento, ni mito, solo la pura voluntad de encarnar el espíritu orco, de vagar libremente donde solo los feroces huelen el musgo.'
+      es: 'Ni cuento, ni mito, solo la pura voluntad de encarnar el espíritu orco, de vagar libremente donde solo los feroces huelen el musgo.',
+      lt: 'Jokios pasakos, jokio mito, tik gryna valia įkūnyti orkų dvasią ir laisvai klajoti ten, kur samanas užuosti gali tik nuožmiausi.'
     }
   }, {
     name       : {$$: 'Thrillseeker\'s Gamble'},
@@ -256,7 +270,8 @@ export default [
       tr: 'Efsanevi servet arayıcısı bir zamanlar kaderlerle kumar oynadığı gibi, servetin de şansa ve bolluğa dönüşebilir, cesurlara gizli hazineleri ortaya çıkarabilir.',
       cs: 'Stejně jako legendární hledač pokladů kdysi hazardoval se samotnými osudy, tak se i tvé bohatství může proměnit v štěstí a hojnost, odhalující skryté poklady odvážným.',
       pt: 'Assim como o lendário buscador de fortunas uma vez apostou com os próprios destinos, que sua riqueza se transforme em sorte e prosperidade, revelando tesouros ocultos aos audaciosos.',
-      es: 'Como el legendario buscador de fortunas una vez apostó con los propios destinos, que tu riqueza se transforme en suerte y fortuna, revelando tesoros ocultos a los audaces.'
+      es: 'Como el legendario buscador de fortunas una vez apostó con los propios destinos, que tu riqueza se transforme en suerte y fortuna, revelando tesoros ocultos a los audaces.',
+      lt: 'Kaip legendinis turtų ieškotojas kadaise lošė su pačiu likimu, taip ir jūsų turtai gali virsti sėkme bei grobiu, drąsiesiems atsiverdami paslėptus lobius.'
     }
   }
 ]
