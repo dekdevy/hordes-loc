@@ -10,7 +10,8 @@ export default [{
     ko: '무기로 자동공격을 합니다.',
     cs: 'Automatické útoky na blízko',
     pt: 'Realize ataques corpo a corpo automáticos com sua arma.',
-    es: 'Realiza ataques cuerpo a cuerpo automáticos con tu arma.'
+    es: 'Realiza ataques cuerpo a cuerpo automáticos con tu arma.',
+    lt: 'Automatiškai smogia priešui jūsų ginklu artimoje kovoje.'
   }
 },
 {
@@ -25,7 +26,8 @@ export default [{
     tr: 'Düşmanını biç, fazladan güçle vurur. Verilen hasarın %5\'i ile seni iyileştirir.',
     cs: 'Sekněte svého nepřítele, každé seknutí vás vyléčí 5% způsobeného poškození',
     pt: 'Golpeie seu inimigo, atingindo com força extra. Cura você em 5% do dano causado.',
-    es: 'Golpea a tu enemigo, atacando con fuerza extra. Te cura el 5% del daño causado.'
+    es: 'Golpea a tu enemigo, atacando con fuerza extra. Te cura el 5% del daño causado.',
+    lt: 'Galingai kerta priešui. Išgydo jus 5% padarytos žalos.'
   }
 },
 {
@@ -40,7 +42,8 @@ export default [{
     tr: 'Geçici süreliğine bloklama şansın artar, ayrıca her blokladığında seni iyileştirir.',
     cs: 'Dočasně zvyšuje vaši šanci na blokování a zároveň vás vyléčí, když blokujete',
     pt: 'Aumenta temporariamente sua chance de bloqueio, enquanto também cura você quando bloqueia.',
-    es: 'Aumenta temporalmente tu probabilidad de bloqueo, mientras también te cura cuando bloqueas.'
+    es: 'Aumenta temporalmente tu probabilidad de bloqueo, mientras también te cura cuando bloqueas.',
+    lt: 'Laikinai padidina tikimybę blokuoti, o kiekvienas blokas jus gydo.'
   }
 },
 {
@@ -55,7 +58,8 @@ export default [{
     tr: 'Kılıcını çevik bi şekilde etrafında döndürür, belli bir alandaki düşmanlara hasar verir.',
     cs: 'Rychle kolem sebe švihněte mečem a poškoďte nepřátele v okolí.',
     pt: 'Gire rapidamente sua espada ao redor de você, causando dano a inimigos em um raio.',
-    es: 'Gira rápidamente tu espada a tu alrededor, causando daño a los enemigos en un radio.'
+    es: 'Gira rápidamente tu espada a tu alrededor, causando daño a los enemigos en un radio.',
+    lt: 'Greitai apsukata kardą aplink save ir sužeidžia visus netoliese esančius priešus.'
   }
 },
 {
@@ -70,7 +74,8 @@ export default [{
     tr: 'Düşmanına doğru bir mermi ateşler. Icicle Orb\'un bekleme süresini 0,5 saniye azaltır. 5 yükte düşmanı dondurur, bu onların sersemlemesini ve %50 fazladan hasar almasını sağlar. 7 saniyede bir anında kullanım yükü biriktirir.',
     cs: 'Vystřelí mrazivou střelu na nepřítele. Snižuje cooldown Icicle Orb o 0,5 sekundy. Zmrazí cíl až na 5x, při kterých budou omráčeny a utrpí o 50 % vyšší poškození. Každých 7 sekund získáš jedno vržení.',
     pt: 'Dispara um projétil de gelo em direção ao seu inimigo. Reduz o tempo de recarga de Orbe de Gelo em 0,5 segundos. Congela os alvos em até 5 acúmulos, momento em que eles ficarão atordoados e receberão 50% de dano aumentado. Ganha um lançamento instantâneo a cada 7 segundos.',
-    es: 'Dispara un misil de escarcha hacia tu enemigo. Reduce el tiempo de recarga de Orbe de Hielo en 0.5 segundos. Congela los objetivos hasta 5 acumulaciones, momento en el que quedarán aturdidos y recibirán un 50% más de daño. Gana un lanzamiento instantáneo cada 7 segundos.'
+    es: 'Dispara un misil de escarcha hacia tu enemigo. Reduce el tiempo de recarga de Orbe de Hielo en 0.5 segundos. Congela los objetivos hasta 5 acumulaciones, momento en el que quedarán aturdidos y recibirán un 50% más de daño. Gana un lanzamiento instantáneo cada 7 segundos.',
+    lt: 'Paleidžia į priešą šalčio strėlę. Sutrumpina Icicle Orb atsistatymo laiką 0,5 sekundės. Sušaldžius taikinį iki 5 kaupinių, jis apsvaiginamas ir patiria 50% daugiau žalos. Kas 7 sekundes gauna momentinį panaudojimą (iki 3 kaupinių).'
   }
 },
 {
@@ -85,7 +90,8 @@ export default [{
     tr: 'Menzilindeki bir düşmana otomatikmen saldırır.',
     cs: 'Automaticky zaútočte na svého nepřítele na dálku.',
     pt: 'Ataque automaticamente seu inimigo à distância.',
-    es: 'Ataca automáticamente a tu enemigo a distancia.'
+    es: 'Ataca automáticamente a tu enemigo a distancia.',
+    lt: 'Automatiškai atakuoja priešą per atstumą.'
   }
 },
 {
@@ -100,7 +106,8 @@ export default [{
     tr: 'Dost bir hedefi iyileştirir. Miktar Revitalize\'nin yük miktarı ile artar.',
     cs: 'Uzdravte přátelský cíl. Léčba se zvyšuje s každým stackem Revitalizace.',
     pt: 'Cura um alvo aliado. A quantidade é aumentada para cada acumulo de Revitalizar.',
-    es: 'Cura a un objetivo aliado. La cantidad aumenta por cada acumulación de Revitalizar.'
+    es: 'Cura a un objetivo aliado. La cantidad aumenta por cada acumulación de Revitalizar.',
+    lt: 'Gydo draugišką taikinį. Kuo daugiau Revitalize sukaupsite, tuo stipresnis gydymas.'
   }
 },
 {
@@ -115,7 +122,8 @@ export default [{
     tr: 'Dost bir hedefi kısa süreliğine iyileştirir, 3 yüke kadar birikirken ayrıca Mend\'in gücünü arttırır.',
     cs: 'Po krátkou dobu léčte přátelský cíl, nastackování až trojnásobku také zvyšuje vaši sílu léčby.',
     pt: 'Cura um alvo aliado ao longo de uma curta duração, acumulando até 3 vezes, enquanto também aumenta o poder de seu Remendar.',
-    es: 'Cura a un objetivo aliado durante una corta duración, acumulando hasta 3 veces mientras también aumenta el poder de tu Remendar.'
+    es: 'Cura a un objetivo aliado durante una corta duración, acumulando hasta 3 veces mientras también aumenta el poder de tu Remendar.',
+    lt: 'Per trumpą laiką gydo draugišką taikinį. Galima kaupti iki 3 kartų ir taip sustiprinant jūsų Mend.'
   }
 },
 {
@@ -130,7 +138,8 @@ export default [{
     tr: 'Özel yeteneklerin sana soyun ve aile geleneklerinden miras kaldı, bunlar sana garanti istatistiklerden fazladan yarar sağlar.',
     cs: 'Díky svým předkům a rodinným tradicím jste zdědili speciální schopnosti, které vám poskytují další výhody z určitých statů.',
     pt: 'Você herdou habilidades especiais por meio de sua ascendência e tradições familiares, concedendo benefícios extras de certos atributos.',
-    es: 'Has heredado habilidades especiales a través de tu ascendencia y tradiciones familiares, otorgándote beneficios extras de ciertos atributos.'
+    es: 'Has heredado habilidades especiales a través de tu ascendencia y tradiciones familiares, otorgándote beneficios extras de ciertos atributos.',
+    lt: 'Iš protėvių ir šeimos tradicijų paveldėjote ypatingų gebėjimų, todėl kai kurios savybės jums duoda daugiau naudos.'
   }
 },
 {
@@ -145,7 +154,8 @@ export default [{
     tr: 'Dikkatlice nişan alınmış, yüksek hasarlı atış. Sonraki Swift Shot atışlarının hasarını arttırır ve anında gerçekleşmelerini sağlar.',
     cs: 'Pečlivě mířená střela s vysokým poškozením. Zvyšuje poškození vašich dalších rychlých výstřelů a umožňuje jejich okamžité sesílání.',
     pt: 'Um tiro cuidadosamente direcionado de alto dano. Aumenta o dano de seus próximos Tiros Rápidos e permite que sejam lançados instantaneamente.',
-    es: 'Un disparo cuidadosamente apuntado y de alto daño. Aumenta el daño de tus próximos Tiros Rápidos y les permite ser lanzados instantáneamente.'
+    es: 'Un disparo cuidadosamente apuntado y de alto daño. Aumenta el daño de tus próximos Tiros Rápidos y les permite ser lanzados instantáneamente.',
+    lt: 'Kruopščiai nutaikytas, didelę žalą darantis šūvis. Sustiprina kitus jūsų Swift Shot ir leidžia juos paleisti akimirksniu.'
   }
 },
 {
@@ -160,7 +170,8 @@ export default [{
     tr: 'Precise Shot yeteneğin kullanıldığında çoklu hedeflerden seker.',
     cs: 'Když jsou vaše přesné střely aktivní, přeskakují na další cíle.',
     pt: 'Seus tiros precisos saltarão para alvos adicionais enquanto estiverem ativos.',
-    es: 'Tus Tiros Precisos rebotarán en objetivos adicionales mientras estén activos.'
+    es: 'Tus Tiros Precisos rebotarán en objetivos adicionales mientras estén activos.',
+    lt: 'Kol efektas aktyvus, jūsų Precise Shot peršoka į papildomus taikinius.'
   }
 },
 {
@@ -175,7 +186,8 @@ export default [{
     tr: 'Anında MP\'ni yeniler ve hasarını geçici olarak arttırır.',
     cs: 'Okamžitě obnoví MP a dočasně zvýší vaše poškození.',
     pt: 'Recupera MP instantaneamente e aumenta seu dano temporariamente',
-    es: 'Recupera MP instantáneamente y aumenta tu daño temporalmente.'
+    es: 'Recupera MP instantáneamente y aumenta tu daño temporalmente.',
+    lt: 'Akimirksniu atkuria MP ir laikinai padidina jūsų žalą.'
   }
 },
 {
@@ -190,7 +202,8 @@ export default [{
     tr: 'Düşmanını decay büyüsü ile lanetle, ilk vurduğunda ve sonrada zamanla fazladan hasar verir.',
     cs: 'Začaruj svého nepřítele kouzlem rozkladu, které způsobí počáteční poškození a časem další poškození.',
     pt: 'Amaldiçoe seu inimigo com um feitiço de decadência, causando dano inicial e dano adicional ao longo do tempo.',
-    es: 'Maldice a tu enemigo con un hechizo de decadencia, causando daño inicial y daño adicional con el tiempo.'
+    es: 'Maldice a tu enemigo con un hechizo de decadencia, causando daño inicial y daño adicional con el tiempo.',
+    lt: 'Užkeikia priešą suirimo burtais: padaro žalos iš karto ir dar papildomai per tam tikrą laiką.'
   }
 },
 {
@@ -205,7 +218,8 @@ export default [{
     tr: 'Sen ve parti üyelerinin manalarını hızlı bir şekilde kısa süreliğine yeniler.',
     cs: 'Vám a členům vaší party rychle zregeneruje manu během krátké doby',
     pt: 'Você e os membros do seu grupo regeneram rapidamente mana durante um curto período de tempo.',
-    es: 'Tú y los miembros de tu grupo regeneran rápidamente maná durante un corto período de tiempo.'
+    es: 'Tú y los miembros de tu grupo regeneran rápidamente maná durante un corto período de tiempo.',
+    lt: 'Jūs ir jūsų Party nariai trumpą laiką sparčiai atgaunate MP.'
   }
 },
 {
@@ -220,7 +234,8 @@ export default [{
     tr: 'Etrafında düşmanlara hasar verip donduran soğuk bir şok dalgası yayar. Büyülerinden bazılarının kritik vuruş şansını arttır.',
     cs: 'Vykouzli kolem sebe mrazivou rázovou vlnu ledu, která poškozuje a zmrazuje nepřátele. Zvyšuje šanci na kritický zásah některých vašich kouzel.',
     pt: 'Emita uma onda de choque gelada ao seu redor, causando dano e congelando inimigos. Aumenta a chance de acerto crítico de alguns dos seus feitiços.',
-    es: 'Emite una onda de choque helada a tu alrededor, causando daño y congelando a los enemigos. Aumenta la probabilidad de golpe crítico de algunos de tus hechizos.'
+    es: 'Emite una onda de choque helada a tu alrededor, causando daño y congelando a los enemigos. Aumenta la probabilidad de golpe crítico de algunos de tus hechizos.',
+    lt: 'Aplink jus paskleidžia stingdančią ledo bangą, kuri žeidžia ir šaldo priešus. Padidina kai kurių jūsų burtų Critical smūgio tikimybę.'
   }
 },
 {
@@ -235,7 +250,8 @@ export default [{
     tr: 'Dev bir küre çağır, buz sarkıtları yolundaki tüm düşmanlara vurur.',
     cs: 'Vyvolejte velkou kouli, která vymršťuje rampouchy a zasáhne všechny nepřátele, kteří jí stojí v cestě.',
     pt: 'Invoca uma grande esfera, ejetando estalactites que atingem todos os inimigos em seu caminho.',
-    es: 'Invoca una gran orbe, expulsando carámbanos que golpean a todos los enemigos en su camino.'
+    es: 'Invoca una gran orbe, expulsando carámbanos que golpean a todos los enemigos en su camino.',
+    lt: 'Iškviečia didelę sferą, svaidančią varveklius į visus jos kelyje pasitaikiusius priešus.'
   }
 },
 {
@@ -250,7 +266,8 @@ export default [{
     tr: 'Sana acele kazandırır ve tüm büyülerinin hasarını arttırır.',
     cs: 'Získáte zrychlení a veškeré vaše poškození se zvýší',
     pt: 'Você ganha Haste e todo o seu dano é aumentado. Reinicia o tempo de recarga do Icicle Orb.',
-    es: 'Ganas Haste y todo tu daño se incrementa. Restablece el tiempo de recarga de Orbe de Hielo.'
+    es: 'Ganas Haste y todo tu daño se incrementa. Restablece el tiempo de recarga de Orbe de Hielo.',
+    lt: 'Gaunate Haste, o visa jūsų daroma žala padidėja. Išvalomas Icicle Orb atsistatymo laikas.'
   }
 },
 {
@@ -264,7 +281,8 @@ export default [{
     tr: 'Geçici olarak hasarını arttırır.',
     cs: 'Dočasně zvýší vaše poškození',
     pt: 'Aumenta temporariamente o seu dano.',
-    es: 'Aumenta temporalmente tu daño.'
+    es: 'Aumenta temporalmente tu daño.',
+    lt: 'Laikinai padidina jūsų daromą žalą.'
   }
 },
 {
@@ -279,7 +297,8 @@ export default [{
     tr: 'Crescent Swipe yeteneğin düşmanları yaralar, yaralanmış düşmanlar kanayarak zamanla hasar alır. 3 yüke kadar birikebilir.',
     cs: 'Váš Crescent Swipe roztrhne nepřátele, což způsobí, že budou krvácet a udělí další poškození. Stackuje se až 3krát.',
     pt: 'Seu Crescent Swipe lacera inimigos, fazendo-os sangrar e causando dano adicional. Acumula até 3 vezes.',
-    es: 'Tu Barrido Creciente lacerará a los enemigos, haciéndolos sangrar y causando daño adicional. Se acumula hasta 3 veces.'
+    es: 'Tu Barrido Creciente lacerará a los enemigos, haciéndolos sangrar y causando daño adicional. Se acumula hasta 3 veces.',
+    lt: 'Jūsų Crescent Swipe įplėšia priešams žaizdas - jie kraujuoja ir patiria papildomos žalos. Kaupiama iki 3 kartų.'
   }
 },
 {
@@ -294,7 +313,8 @@ export default [{
     tr: 'Sen ve parti üyelerin fazladan hasar verirsiniz.',
     cs: 'Vy a členové vaší skupiny budete způsobovat poškození navíc',
     pt: 'Você e os membros da sua party causam dano adicional.',
-    es: 'Tú y los miembros de tu grupo causan daño adicional.'
+    es: 'Tú y los miembros de tu grupo causan daño adicional.',
+    lt: 'Jūs ir jūsų Party nariai darote daugiau žalos.'
   }
 },
 {
@@ -309,7 +329,8 @@ export default [{
     tr: 'Sen ve parti üyelerin fazladan defans ve mana yenilenmesi kazanırsınız.',
     cs: 'Vy a členové vaší skupiny získáte dodatečnou obranu a regeneraci many',
     pt: 'Você e os membros da sua party ganham defesa adicional e regeneração de mana.',
-    es: 'Tú y los miembros de tu grupo ganan defensa adicional y regeneración de maná.'
+    es: 'Tú y los miembros de tu grupo ganan defensa adicional y regeneración de maná.',
+    lt: 'Jūs ir jūsų Party nariai gaunate papildomo Defense ir Mana Regeneration.'
   }
 },
 {
@@ -323,7 +344,8 @@ export default [{
     tr: 'Defansını pasif olarak arttırır.',
     cs: 'Pasivně zvyšte svou obranu,',
     pt: 'Aumenta passivamente sua defesa.',
-    es: 'Aumenta pasivamente tu defensa.'
+    es: 'Aumenta pasivamente tu defensa.',
+    lt: 'Pasyviai padidina jūsų Gynybą.'
   }
 },
 {
@@ -338,7 +360,8 @@ export default [{
     tr: 'Sen ve parti üyelerin fazladan kritik % kazanırsınız.',
     cs: 'Vy a členové vaší skupiny získáte % Crit navíc',
     pt: 'Você e os membros da sua party ganham Crit % adicional.',
-    es: 'Tú y los miembros de tu grupo ganan Crit % adicional.'
+    es: 'Tú y los miembros de tu grupo ganan Crit % adicional.',
+    lt: 'Jūsų ir jūsų Party narių Critical smūgio tikimybė padidėja.'
   }
 },
 {
@@ -353,7 +376,8 @@ export default [{
     tr: 'Seni sonraki gelecek hasarlardan korur.',
     cs: 'Chrání vás před dalšími příchozími útoky.',
     pt: 'Protege você contra os próximos ataques recebidos.',
-    es: 'Te protege contra los próximos ataques entrantes.'
+    es: 'Te protege contra los próximos ataques entrantes.',
+    lt: 'Apsaugo jus nuo kelių artimiausių atakų.'
   }
 },
 {
@@ -368,7 +392,8 @@ export default [{
     tr: 'Hedefinin verdiği hasarı arttırır.',
     cs: 'Zvyšte poškození svého cíle.',
     pt: 'Aumenta o dano no seu alvo.',
-    es: 'Aumenta el daño de tu objetivo.'
+    es: 'Aumenta el daño de tu objetivo.',
+    lt: 'Padidina jūsų taikinio daromą žalą.'
   }
 },
 {
@@ -383,7 +408,8 @@ export default [{
     tr: 'Sen ve parti üyelerin fazladan acele kazanırsınız.',
     cs: 'Vy a členové vaší party získáte další zrychlení',
     pt: 'Você e os membros da sua party ganham Haste adicional.',
-    es: 'Tú y los miembros de tu grupo ganan Haste adicional.'
+    es: 'Tú y los miembros de tu grupo ganan Haste adicional.',
+    lt: 'Jūs ir jūsų Party nariai gaunate papildomo Haste.'
   }
 },
 {
@@ -398,7 +424,8 @@ export default [{
     tr: 'Kritik %\'ni pasif olarak arttırır.',
     cs: 'Pasivně zvýší váš % Crit',
     pt: 'Aumenta passivamente seu Crit %.',
-    es: 'Aumenta pasivamente tu porcentaje de Crit.'
+    es: 'Aumenta pasivamente tu porcentaje de Crit.',
+    lt: 'Pasyviai padidina jūsų Critical smūgio tikimybę.'
   }
 },
 {
@@ -413,7 +440,8 @@ export default [{
     tr: 'Sen ve parti üyelerin fazladan hareket hızı kazanırsınız.',
     cs: 'Vy a členové vaší skupiny získáte vyšší rychlost pohybu',
     pt: 'Você e os membros da sua party ganham Velocidade de Movimento adicional.',
-    es: 'Tú y los miembros de tu grupo ganan Velocidad de Movimiento adicional.'
+    es: 'Tú y los miembros de tu grupo ganan Velocidad de Movimiento adicional.',
+    lt: 'Jūs ir jūsų Party nariai judate greičiau.'
   }
 },
 {
@@ -428,7 +456,8 @@ export default [{
     tr: 'Sen ve parti üyelerin acele ile öfkelenirsiniz, daha hızlı saldırmanızı sağlar.',
     cs: 'Vy a členové vaší party se dostanete enrage a zrychlení, což vám umožní útočit rychleji',
     pt: 'Você e os membros da sua party ficam enfurecidos com Haste, permitindo atacar mais rápido.',
-    es: 'Tú y los miembros de tu grupo se enfurecen con Haste, lo que les permite atacar más rápido.'
+    es: 'Tú y los miembros de tu grupo se enfurecen con Haste, lo que les permite atacar más rápido.',
+    lt: 'Jūs ir jūsų Party nariai įsiuntate ir gaunate Haste, todėl atakuojate greičiau.'
   }
 },
 {
@@ -443,7 +472,8 @@ export default [{
     tr: 'Precise Shot atışın vurduğunda zehirli bir zayıflatma uygular, düşmanları yavaşlatarak hasar verir.',
     cs: 'Váš Precise Shot aplikuje na zásah jedovatý debuff, který poškodí a zpomalí vaše nepřátele.',
     pt: 'Seu Precise Shot aplica um Debuff venenoso no acerto, causando dano e diminuindo a velocidade dos seus inimigos.',
-    es: 'Tu Tiro Preciso aplica un Debuff venenoso al impactar, dañando y ralentizando a tus enemigos.'
+    es: 'Tu Tiro Preciso aplica un Debuff venenoso al impactar, dañando y ralentizando a tus enemigos.',
+    lt: 'Taiklus Precise Shot apnuodija priešą. Nuodai daro jam žalą ir jį sulėtina.'
   }
 },
 {
@@ -458,7 +488,8 @@ export default [{
     tr: 'Yere bir totem koyarak seni ve tüm partini iyileştirir.',
     cs: 'Položte totem na zem a uzdravte celou vaši skupinu.',
     pt: 'Coloque um totem no chão, curando toda a sua party.',
-    es: 'Coloca un tótem en el suelo, curando a todo tu grupo.'
+    es: 'Coloca un tótem en el suelo, curando a todo tu grupo.',
+    lt: 'Pastato ant žemės totemą, kuris gydo visą jūsų party.'
   }
 },
 {
@@ -473,7 +504,8 @@ export default [{
     tr: 'Bir Swift shot ateşle, bu atış önceki Precise Shot yeteneği ile güçlendirilebilir.',
     cs: 'Vystřelte Swift Shot, který lze vylepšit sesláním Precise Shot před ním.',
     pt: 'Dispare um Swift Shot que pode ser aprimorado lançando um Precise Shot antes.',
-    es: 'Dispara un Tiro Rápido que puede ser mejorado al lanzar un Tiro Preciso antes.'
+    es: 'Dispara un Tiro Rápido que puede ser mejorado al lanzar un Tiro Preciso antes.',
+    lt: 'Paleidžia Swift Shot, kurį galima pagerinti prieš tai iššovus Precise Shot.'
   }
 },
 {
@@ -488,7 +520,8 @@ export default [{
     tr: 'Önünün dönük olduğu yöne doğru anında ışınlandırır.',
     cs: 'Okamžitě se teleportujte směrem, kterým se díváte.',
     pt: 'Teleporte instantaneamente na direção em que você está olhando.',
-    es: 'Teletranspórtate instantáneamente en la dirección que estás mirando.'
+    es: 'Teletranspórtate instantáneamente en la dirección que estás mirando.',
+    lt: 'Akimirksniu teleportuoja jus žiūrėjimo kryptimi.'
   }
 },
 {
@@ -503,7 +536,8 @@ export default [{
     tr: 'Hedefine doğru hücum et ve onu sersemlet (eğer düşmansa). Sersemletme süresi hücum mesafesi iler artar.',
     cs: 'Chargněte jakýkoli cíl a zároveň jej omračte (pokud je nepřátelský). Doba omráčení se zvyšuje vzdáleností',
     pt: 'Carregue em direção a qualquer alvo, também atordoando-o (se for hostil). A duração do atordoamento aumenta com a distância percorrida.',
-    es: 'Cárgate hacia cualquier objetivo mientras lo aturdes (si es hostil). La duración del aturdimiento aumenta con la distancia de carga.'
+    es: 'Cárgate hacia cualquier objetivo mientras lo aturdes (si es hostil). La duración del aturdimiento aumenta con la distancia de carga.',
+    lt: 'Greitai artėjate prie bet kurio taikinio ir jį apsvaiginate (jei jis priešiškas). Kuo didesnis atstumas, tuo ilgiau trunka apsvaiginimas.'
   }
 },
 {
@@ -518,7 +552,8 @@ export default [{
     tr: 'Etrafındaki düşmanlarla alay et, onların hareket hızlarını kısa bir süreliğine azaltır. Canavarları sana saldırmaya zorlar.',
     cs: 'Tauntněte okolní nepřátele a na krátkou dobu zpomalte rychlost jejich pohybu. Tauntnutí přinutí monstra, aby na vás zaútočila',
     pt: 'Provoca inimigos próximos, diminuindo a velocidade de movimento deles por um curto período de tempo. Força monstros a atacarem você.',
-    es: 'Provoca a los enemigos cercanos, reduciendo su velocidad de movimiento por un corto período de tiempo. Obliga a los monstruos a atacarte.'
+    es: 'Provoca a los enemigos cercanos, reduciendo su velocidad de movimiento por un corto período de tiempo. Obliga a los monstruos a atacarte.',
+    lt: 'Išprovokuoja aplinkinius priešus ir trumpam juos sulėtina. Monstrai priversti pulti jus.'
   }
 },
 {
@@ -533,7 +568,8 @@ export default [{
     tr: 'Parti üyelerini çağırarak onların sana anında ışınlanmalarını sağlar.',
     cs: 'Přivolejte členy své skupiny, aby se k vám mohli okamžitě teleportovat',
     pt: 'Chame os membros da sua party, permitindo que eles se teleportem instantaneamente em sua direção.',
-    es: 'Llama a los miembros de tu grupo, permitiéndoles teletransportarse instantáneamente hacia ti.'
+    es: 'Llama a los miembros de tu grupo, permitiéndoles teletransportarse instantáneamente hacia ti.',
+    lt: 'Iškviečia jūsų Party narius ir jie gali akimirksniu teleportuotis pas jus.'
   }
 },
 {
@@ -548,7 +584,8 @@ export default [{
     tr: 'Fazladan hareket hızı için ruh hayvanına dönüş, dönüştüğünde tüm hareket kısıtlayıcı etkileri kaldırır. Büyü yapmak bu etkiyi iptal eder.',
     cs: 'Proměňte se ve své duchovní zvíře, získejte vyšší rychlost pohybu a odstraňte všechny efekty narušující pohyb. Jakkékoliv sesílání kouzel tento efekt zruší.',
     pt: 'Transforme-se em seu animal espiritual para obter velocidade de movimento adicional, removendo todos os efeitos que prejudicam o movimento ativos no momento da transformação. Qualquer lançamento de magia cancelará esse efeito.',
-    es: 'Transformate en tu animal espiritual para obtener velocidad de movimiento adicional, eliminando todos los efectos que afectan el movimiento activos en el momento de la transformación. Cualquier lanzamiento de hechizo cancelará este efecto.'
+    es: 'Transformate en tu animal espiritual para obtener velocidad de movimiento adicional, eliminando todos los efectos que afectan el movimiento activos en el momento de la transformación. Cualquier lanzamiento de hechizo cancelará este efecto.',
+    lt: 'Pavirstate savo dvasios gyvūnu ir judate greičiau, o transformacijos metu nuo jūsų nukrinta visi judėjimą varžantys efektai. Panaudojus bet kokį burtą, efektas nutrūksta.'
   }
 },
 {
@@ -563,7 +600,8 @@ export default [{
     tr: 'Düşmanının tüm eylemlerini durdurup bir zombiye çevirir, bu onu yavaşlatır ve bu sırada daha az iyileşir.',
     cs: 'Promění váš cíl v zombie, přeruší všechny akce, zpomalí jej a sníží přijaté léčení po dobu trvání',
     pt: 'Transforma seu alvo em um zumbi, interrompendo todas as ações, diminuindo sua velocidade e reduzindo a cura recebida durante a duração.',
-    es: 'Convierte a tu objetivo en un zombi, interrumpiendo todas sus acciones, ralentizándolo y reduciendo la curación recibida durante la duración.'
+    es: 'Convierte a tu objetivo en un zombi, interrumpiendo todas sus acciones, ralentizándolo y reduciendo la curación recibida durante la duración.',
+    lt: 'Paverčia taikinį zombiu: nutraukia visus jo veiksmus, sulėtina ir, kol veikia efektas, susilpnina jam skiriamą gydymą.'
   }
 },
 {
@@ -578,7 +616,8 @@ export default [{
     tr: 'Anlık yönüne doğru atılır, Precise Shot\'ın bekleme süresini sıfırlar. Sonraki Precise Shot atışın anında gerçekleşir.',
     cs: 'Vrhnete se aktuálním směrem a okamžitě resetujete cooldown funkce Precise Shot. Váš další Precise Shot je instantní.',
     pt: 'Dá um impulso na direção em que você está indo, redefinindo instantaneamente o tempo de recarga do Precise Shot. Seu próximo Precise Shot é lançado instantaneamente.',
-    es: 'Te impulsas en la dirección en la que te estás moviendo, restableciendo instantáneamente el tiempo de recarga de Tiro Preciso. Tu próximo Tiro Preciso se lanza instantáneamente.'
+    es: 'Te impulsas en la dirección en la que te estás moviendo, restableciendo instantáneamente el tiempo de recarga de Tiro Preciso. Tu próximo Tiro Preciso se lanza instantáneamente.',
+    lt: 'Staigiai šoktelite judėjimo kryptimi ir išvalomas Precise Shot atsistatymo laikas. Kitą Precise Shot galėsite paleisti akimirksniu.'
   }
 },
 {
@@ -592,7 +631,8 @@ export default [{
     tr: 'Bineklere binmene izin verir. Binekler hesabına kayıtlıdır.',
     cs: 'Umožňuje jízdu na mountech. Mounti jsou vázaný na účet',
     pt: 'Permite montar montarias terrestres. As montarias estão vinculadas à sua conta.',
-    es: 'Te permite montar monturas terrestres. Las monturas están vinculadas a tu cuenta.'
+    es: 'Te permite montar monturas terrestres. Las monturas están vinculadas a tu cuenta.',
+    lt: 'Leidžia joti antžeminiais jojamaisiais gyvūnais. Jojamieji gyvūnai pririšami prie jūsų paskyros.'
   }
 },
 {
@@ -607,7 +647,8 @@ export default [{
     tr: 'Seni en yakın Conjujer\'e ışınlar.',
     cs: 'Teleportujte se k nejbližšímu kouzelníkovi.',
     pt: 'Teleporta para o Conjurer mais próximo.',
-    es: 'Teletranspórtate al Conjurer más cercano.'
+    es: 'Teletranspórtate al Conjurer más cercano.',
+    lt: 'Teleportuoja jus prie artimiausio Conjurer.'
   }
 },
 {
@@ -621,7 +662,8 @@ export default [{
     tr: 'İki saniyelik etkinleşme süresinden sonra tüm sersemletme ve sabitleme etkilerini kaldırır. Eğer herhangi bir etki kalkarsa Charge yeteneğinin bekleme süresi sıfırlanır ve 3 saniyeliğine 20 hareket kazanırsın.',
     cs: 'Dvě sekundy po seslání na vás budou odstraněny všechny aktivní omračovací a kořenové efekty. Pokud dojde k odstranění jakéhokoli efektu, váš cooldown Chargu se resetuje a získáte tak 20 Rychlost pohybu po dobu 3 sekund.',
     pt: 'Dois segundos após conjurar, todos os efeitos de atordoamento e raiz ativos em você serão removidos. Se algum efeito for removido, o tempo de recarga do seu Charge será redefinido e você ganhará 20 de Velocidade de Movimento por 3 segundos.',
-    es: 'Dos segundos después de lanzar, se eliminarán todos los efectos de aturdimiento y raíz activos sobre ti. Si se elimina algún efecto, el tiempo de recarga de tu Carga se restablece y ganas 20 de Velocidad de Movimiento durante 3 segundos.'
+    es: 'Dos segundos después de lanzar, se eliminarán todos los efectos de aturdimiento y raíz activos sobre ti. Si se elimina algún efecto, el tiempo de recarga de tu Carga se restablece y ganas 20 de Velocidad de Movimiento durante 3 segundos.',
+    lt: 'Praėjus 2 sekundėms po panaudojimo, nuo jūsų nuimami visi apsvaiginimo ir sukaustymo efektai. Jei nuimamas bent vienas efektas, išvalomas Charge atsistatymo laikas ir 3 sekundėms gaunate papildomus 20 Movement Speed.'
   }
 },
 {
@@ -636,7 +678,8 @@ export default [{
     tr: 'Decay büyüsünden etkilenmiş yakındaki düşmanlarının ruhunu hasat ederek hasar ver. Her ruh için mana kazanırsın.',
     cs: 'Sklízejte duše okolních nepřátel postižených Decay, poškozením si doplníte manu podle skližených duší.',
     pt: 'Colha as almas dos inimigos próximos afetados por Decay, causando dano e concedendo mana para cada alma colhida.',
-    es: 'Cosecha las almas de los enemigos cercanos afectados por Decay, causando daño y otorgándote maná por cada alma cosechada.'
+    es: 'Cosecha las almas de los enemigos cercanos afectados por Decay, causando daño y otorgándote maná por cada alma cosechada.',
+    lt: 'Pasiglemžia netoliese esančių, Decay paveiktų priešų sielas. Kiekviena siela padaro žalos ir suteikia jums manos.'
   }
 },
 {
@@ -651,7 +694,8 @@ export default [{
     tr: 'Eğer Decay büyüsünün hedefi zaten büyüden etkilenmişse onlara hasar vererek yakınındaki bir düşmana seker. Ayrıca, Decay\'ı kullanmak sana kısa süreliğine acele verir.',
     cs: 'Decay způsobí poškození a skočí na blízkého nepřítele, pokud je aktuální cíl již ovlivněn Decayem. Kromě toho vám seslání Decay na krátkou dobu poskytne zrychlení',
     pt: 'Decay causa dano e salta para um inimigo próximo se o alvo atual já estiver afetado por Decay. Além disso, conjurar Decay concede Haste por uma curta duração.',
-    es: 'Decay causa daño y salta a un enemigo cercano si el objetivo actual ya está afectado por Decay. Además, lanzar Decay te otorga Haste por una corta duración.'
+    es: 'Decay causa daño y salta a un enemigo cercano si el objetivo actual ya está afectado por Decay. Además, lanzar Decay te otorga Haste por una corta duración.',
+    lt: 'Jei taikinys jau paveiktas Decay, burtas padaro žalos ir peršoka į netoliese esantį priešą. Be to, panaudoję Decay trumpam gaunate Haste.'
   }
 },
 {
@@ -671,7 +715,8 @@ export default [{
     tr: 'Önündeki tüm düşmanlara hızlıca ok ateşler, kısa bir süre boyunca hasar verir.',
     cs: 'Rychle vystřelte šípy na všechny cíle před vámi a způsobte poškození během krátké doby.',
     pt: 'Dispara rapidamente flechas em todos os alvos à sua frente, causando dano ao longo de um curto período de tempo.',
-    es: 'Dispara rápidamente flechas a todos los objetivos frente a ti, causando daño durante un corto período de tiempo.'
+    es: 'Dispara rápidamente flechas a todos los objetivos frente a ti, causando daño durante un corto período de tiempo.',
+    lt: 'Per trumpą laiką greitai apšaudo visus priešais esančius taikinius.'
   }
 },
 {
@@ -685,7 +730,8 @@ export default [{
     tr: 'Kılıcını kısa bir süreliğine etrafında döndür, seni yavaşlatırken etrafındaki tüm düşmanlara hasar verir. Kullanıldığında tüm sabitlenme etkileri kalkar. Aktif iken bloklama yapamassın.',
     cs: 'Roztočte meč na krátkou dobu, a udělte poškození všem cílům kolem vás, které vás zároveň zpomalí. Při použití odstraní všechny kořenové efekty. Během roztočení není možné blokovat útoky.',
     pt: 'Gira sua espada por um curto período de tempo, causando dano a todos os alvos ao seu redor, enquanto o desacelera. Remove todos os efeitos de raiz quando usado. Você não pode bloquear ataques enquanto estiver ativo.',
-    es: 'Gira tu espada durante un corto período de tiempo, causando daño a todos los objetivos a tu alrededor mientras te ralentiza. Elimina todos los efectos de raíz cuando se usa. No puedes bloquear ataques mientras está activo.'
+    es: 'Gira tu espada durante un corto período de tiempo, causando daño a todos los objetivos a tu alrededor mientras te ralentiza. Elimina todos los efectos de raíz cuando se usa. No puedes bloquear ataques mientras está activo.',
+    lt: 'Trumpam įsuka kardą ir daro žalą visiems šalia esantiems taikiniams, tačiau kartu sulėtina jūsų judėjimą. Panaudojus nuimami visi sukaustymo efektai. Kol sukatės, negalite blokuoti atakų.'
   }
 },
 {
@@ -699,7 +745,8 @@ export default [{
     tr: 'Dost bir hedefteki tüm kötü etkileri kaldırır, hareket önleyici etkilere öncelik verir. Her kaldırılan etkide hedefi iyileştirir.',
     cs: 'Odstraňuje negativní efekty z přátelského cíle a upřednostňuje efekty narušující pohyb. Léčí cíl za každý odstraněný efekt',
     pt: 'Remove efeitos negativos de um alvo aliado, dando prioridade aos efeitos que impedem o movimento. Cura o alvo para cada efeito removido.',
-    es: 'Elimina los efectos negativos de un objetivo amistoso, dando prioridad a los efectos que afectan el movimiento. Cura al objetivo por cada efecto eliminado.'
+    es: 'Elimina los efectos negativos de un objetivo amistoso, dando prioridad a los efectos que afectan el movimiento. Cura al objetivo por cada efecto eliminado.',
+    lt: 'Nuima neigiamus efektus nuo draugiško taikinio, prioritetą teikiant judėjimą varžantiems efektams. Už kiekvieną nuimtą efektą taikinys yra pagydomas.'
   }
 },
 {
@@ -713,7 +760,8 @@ export default [{
     tr: 'Düşmanı ısıran lanetli bir ok, hedefi vurduktan sonra seni iyileştirir. Eğer düşmanın bir şeyi etkinleştiriyorsa onu iptal ederek seni daha fazla iyileştirir.',
     cs: 'Prokletý šíp, který kousne vašeho nepřítele a uzdraví vás, když se vrátí. Pokud váš cíl castí, cast bude přerušen a léčení se zvýší.',
     pt: 'Uma flecha amaldiçoada que morde seu inimigo, curando você quando retorna. Se o seu alvo estiver conjurando, a conjuração será interrompida e a cura aumentada.',
-    es: 'Una flecha maldita que muerde a tu enemigo, curándote cuando regresa. Si tu objetivo está lanzando un hechizo, el lanzamiento se interrumpirá y la curación aumentará.'
+    es: 'Una flecha maldita que muerde a tu enemigo, curándote cuando regresa. Si tu objetivo está lanzando un hechizo, el lanzamiento se interrumpirá y la curación aumentará.',
+    lt: 'Užkeikta strėlė, kuri įkanda priešui ir grįždama jus pagydo. Jei taikinys tuo metu naudoja burtą, burtas nutraukiamas, o gydymas sustiprėja.'
   }
 },
 {
@@ -727,7 +775,8 @@ export default [{
     tr: 'Düşmanı kör edip hareketini yavaşlatır, düşmanın etkinleştirmelerini bozar.',
     cs: 'Oslepí cíl a na krátkou dobu omezí jeho pohyb a cast.',
     pt: 'Cega o alvo, prejudicando seu movimento e conjuração por um curto período de tempo.',
-    es: 'Ciega al objetivo, afectando su movimiento y lanzamiento de hechizos durante un corto período de tiempo.'
+    es: 'Ciega al objetivo, afectando su movimiento y lanzamiento de hechizos durante un corto período de tiempo.',
+    lt: 'Apakina taikinį ir trumpam sutrikdo jo judėjimą bei burtų naudojimą.'
   }
 },
 {
@@ -741,7 +790,8 @@ export default [{
     tr: 'Düşmanlarını korkutur, onları kısa bir süreliğine şaşırtarak senin eksik canının belli bir yüzdesini yeniler.',
     cs: 'Zastrašte své nepřátele, zmáste je na krátkou dobu a obnovte procento vašeho chybějícího zdraví',
     pt: 'Intimida seus inimigos, confundindo-os por um curto período de tempo e recuperando uma porcentagem da sua vida perdida.',
-    es: 'Intimida a tus enemigos, confundiéndolos durante un corto período de tiempo y recuperando un porcentaje de tu salud perdida.'
+    es: 'Intimida a tus enemigos, confundiéndolos durante un corto período de tiempo y recuperando un porcentaje de tu salud perdida.',
+    lt: 'Įbaugina priešus, trumpam juos sutrikdo ir atkuria dalį jūsų prarastos gyvybės.'
   }
 },
 {
@@ -755,7 +805,8 @@ export default [{
     tr: 'Hedefine dev bir buz şarapneli fırlatarak yüksek miktarda hasar verir. Ice bolt ile sersemlemiş düşmanlara fazladan hasar verir.',
     cs: 'Vrhne na váš cíl obří úlomek ledu a způsobí mu obrovské poškození. Způsobuje extra poškození cílům  zmrazeným pomocí Ledové střely.',
     pt: 'Lança um fragmento pesado de gelo em seu alvo causando uma quantidade massiva de dano. Causa dano extra a alvos profundamente congelados por Ice Bolt.',
-    es: 'Lanza un fragmento pesado de hielo a tu objetivo, causando una cantidad masiva de daño. Causa daño extra a los objetivos profundamente congelados por Ice Bolt.'
+    es: 'Lanza un fragmento pesado de hielo a tu objetivo, causando una cantidad masiva de daño. Causa daño extra a los objetivos profundamente congelados por Ice Bolt.',
+    lt: 'Sviedžia į taikinį sunkią ledo nuolaužą, darančią milžinišką žalą. Daro daugiau žalos jei taikinys yra giliai įšaldytas su Ice Bolt.'
   }
 },
 {
@@ -769,7 +820,8 @@ export default [{
     tr: 'Hedef alana bir buz fırtınası çağırır, alandaki tüm düşmanlara hasar verir.',
     cs: 'Nasměrujte mrazivou bouři nad cílovou oblast, které způsobí poškození všem cílům v okruhu.',
     pt: 'Canaliza uma tempestade congelante sobre uma área-alvo, causando dano a todos os alvos em um raio.',
-    es: 'Canaliza una tormenta helada sobre un área objetivo, causando daño a todos los objetivos en un radio.'
+    es: 'Canaliza una tormenta helada sobre un área objetivo, causando daño a todos los objetivos en un radio.',
+    lt: 'Sutelkia virš pasirinktos vietos stingdančią audrą, kuri žeidžia visus jos spindulyje esančius taikinius.'
   }
 },
 {
@@ -783,7 +835,8 @@ export default [{
     tr: 'Koruyu bir buz bloğu çağırır, gelen her hasardan koruyarak canını kısa bir süreliğine yeniler. Bu sırada hareket edemez veya herhangi bir büyü etkinleştiremezin.',
     cs: 'Vyvolá ochranný ledový blok, který zabrání jakémukoli poškození a během krátké doby obnoví určité procento vašeho zdraví. Během této doby se nemůžete pohybovat ani sesílat žádná kouzla.',
     pt: 'Invoca um bloco de gelo protetor, impedindo todo o dano a você e recuperando uma porcentagem de sua saúde durante um curto período de tempo. Você não pode se mover ou conjurar magias durante esse tempo.',
-    es: 'Invoca un bloque de hielo protector, evitando todo el daño hacia ti y recuperando un porcentaje de tu salud durante un corto período de tiempo. No puedes moverte ni lanzar hechizos durante este tiempo.'
+    es: 'Invoca un bloque de hielo protector, evitando todo el daño hacia ti y recuperando un porcentaje de tu salud durante un corto período de tiempo. No puedes moverte ni lanzar hechizos durante este tiempo.',
+    lt: 'Apgaubia jus apsauginiu ledo luitu. Kol jis laikosi, negaunate jokios žalos ir pamažu atgaunate dalį gyvybės. Tuo metu negalite nei judėti, nei naudoti burtų.'
   }
 },
 {
@@ -797,7 +850,8 @@ export default [{
     tr: 'Hedefine çok yüksek hasar veren dev sivri bir kemik fırlat. Canı %50\'nin altındaki hedeflere %50 daha fazla hasar verir.',
     cs: 'Vystřelte na svůj cíl těžkou stehenní kost pro masivní poškození. Způsobuje 50 % poškození navíc cílům pod 50 % zdraví.',
     pt: 'Dispare um osso femoral pesado em seu alvo causando um dano massivo. Causa 50% de dano extra a alvos com menos de 50% de vida.',
-    es: 'Dispara un hueso femoral pesado a tu objetivo, causando un daño masivo. Causa un 50% de daño extra a los objetivos con menos del 50% de salud.'
+    es: 'Dispara un hueso femoral pesado a tu objetivo, causando un daño masivo. Causa un 50% de daño extra a los objetivos con menos del 50% de salud.',
+    lt: 'Paleidžia į taikinį sunkų šlaunikaulį, kuris padaro milžinišką žalą. Taikiniams, kurių gyvybė mažesnė nei 50%, daro 50% daugiau žalos.'
   }
 },
 {

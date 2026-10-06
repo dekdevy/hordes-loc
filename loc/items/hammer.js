@@ -15,7 +15,8 @@ export default [
       zh: '這是農民常常製造的臨時武器。',
       tr: 'Bu derme çatma silh daha çok çiftçilir tarafından yapılır.',
       cs: 'Jedná se o provizorní zbraň, kterou často vytvářejí farmáři.',
-      pt: 'Esta é uma arma improvisada que geralmente é criada por agricultores.'
+      pt: 'Esta é uma arma improvisada que geralmente é criada por agricultores.',
+      lt: 'Paskubomis sumeistrautas ginklas. Tokius dažnai pasidaro ūkininkai.'
     }
   },
 
@@ -35,7 +36,8 @@ export default [
       zh: '這是通常用於木工的槌子；然而，當資源與材料缺乏時，木槌經常被拿來戰鬥。',
       tr: 'Bu çekiç normalde halıcılık için kullanılır; ama yinede ahşap çekiçler gerekli olduğunda kaynaklar kısıtlıyken dövüşmek için ara sıra kullanılabilir.',
       cs: 'Jedná se o paličku běžně používanou pro tesařské práce, dřevěné paličky se však často používají k boji z nutnosti, když jsou zdroje a materiály vzácné.',
-      pt: 'Este é um martelo normalmente usado para marcenaria; no entanto, martelos de madeira são frequentemente usados para combate por necessidade quando os recursos e materiais são escassos.'
+      pt: 'Este é um martelo normalmente usado para marcenaria; no entanto, martelos de madeira são frequentemente usados para combate por necessidade quando os recursos e materiais são escassos.',
+      lt: 'Kūjelis, kurį paprastai naudoja dailidės. Tačiau kai trūksta išteklių ir medžiagų, mediniai kūjeliai iš bėdos tinka ir kovai.'
     }
   },
 
@@ -55,7 +57,8 @@ export default [
       zh: '久經沙場的原始狼牙棒寫滿了傳說；然而，它們的效力隨著時間的推移而削弱。',
       tr: 'İlkel topuzlar savaş görmüşlerdir ve üzerlerine yığılmış efsaneler bulunur; ama yinede verimleri zaman içinde düşmüştür.',
       cs: 'Prvotní palcáty jsou testovány v bitvě a jsou na nich navršeny legendy; jejich účinnost se však postupem času snižovala.',
-      pt: 'As maças primitivas são testadas em batalha e possuem lendas acumuladas sobre elas; no entanto, sua eficácia tem diminuído ao longo do tempo.'
+      pt: 'As maças primitivas são testadas em batalha e possuem lendas acumuladas sobre elas; no entanto, sua eficácia tem diminuído ao longo do tempo.',
+      lt: 'Pirmykštės buožės yea išbandytos mūšiuose ir apipintos legendomis, tačiau laikui bėgant jų veiksmingumas sumenko.'
     }
   },
 
@@ -75,7 +78,8 @@ export default [
       zh: '這是獸人用於審判及戰鬥的首選工具。',
       tr: 'Bu silah orklar tarafından savaş ve sorgulama için tercih ettiği bir alettir.',
       cs: 'Toto je orkův preferovaný nástroj pro výslechy a bitvu.',
-      pt: 'Esta é a ferramenta preferida de um orc para interrogatórios e batalha.'
+      pt: 'Esta é a ferramenta preferida de um orc para interrogatórios e batalha.',
+      lt: 'Mėgstamiausias orkų įrankis - ir tardymams, ir mūšiams.'
     }
   },
 
@@ -95,7 +99,8 @@ export default [
       zh: '重型狼牙棒是為了戰爭、侵略和魅力而製造的。',
       tr: 'Ağır gürzler savaş, etkileyicilik ve düşman bölgelere sızmak için yapıldı.',
       cs: 'Těžké palcáty jsou stvořeny pro válku, infiltraci a charisma.',
-      pt: 'Maças pesadas são feitas para guerra, infiltração e carisma.'
+      pt: 'Maças pesadas são feitas para guerra, infiltração e carisma.',
+      lt: 'Sunkiosios buožės skirtos karui, slaptoms misijoms ir įtikinėjimui.'
     }
   },
 
@@ -115,7 +120,8 @@ export default [
       zh: '鐵鎚通常是由專業的工匠製作，例如Markay\'ak。工匠們幾乎總是在鐵上留下他們的印記作為自豪的象徵。',
       tr: 'Demir eziciler canavar Markay\'ak gibi uzman zanaatkarlar tarafından yapılır. Zanaatkarlar neredeyse her zaman imzalarını demirin üzerinde onur simgesi olarak bırakır.',
       cs: 'Železné bashery jsou obvykle vyráběny zkušenými řemeslníky, jako je monstrum Markayak. Řemeslníci téměř vždy zanechávají svou stopu na žehličce jako symbol hrdosti.',
-      pt: 'Iron bashers são tipicamente feitas por artesãos especializados, como o monstro Markay\'ak. Os artesãos quase sempre deixam sua marca no ferro como um símbolo de orgulho.'
+      pt: 'Iron bashers são tipicamente feitas por artesãos especializados, como o monstro Markay\'ak. Os artesãos quase sempre deixam sua marca no ferro como um símbolo de orgulho.',
+      lt: 'Geležines daužykles paprastai kala patyrę meistrai, pavyzdžiui, monstras Markay\'ak. Meistrai, kaip pasididžiavimo simbolį, beveik visada palieka savo ženklą ant geležies.'
     }
   },
 
@@ -135,7 +141,8 @@ export default [
       zh: '這些大槌是由一種特殊的金屬製成的，具有獨特的顏色和特性。這種黑暗金屬的秘密是從怪物工匠那裡偷來的，並廣為流傳。',
       tr: 'Bu tokmaklar rengi ve özellikleri belirgin özel bir metalden yapılmış. Bu kara metalin sırrı canavar zanaatkarlarnda çalındıktan sonra popülerleşti.',
       cs: 'Tyto mauly jsou vyrobeny ze speciálního kovu, který má výrazné barvy a vlastnosti. Tajemství tohoto darkmetalu bylo ukradeno řemeslníkům monster a popularizováno.',
-      pt: 'Essas marretas são feitas com um metal especial que possui cores e propriedades distintas. Os segredos desse metal negro foram roubados dos artesãos monstruosos e popularizados.'
+      pt: 'Essas marretas são feitas com um metal especial que possui cores e propriedades distintas. Os segredos desse metal negro foram roubados dos artesãos monstruosos e popularizados.',
+      lt: 'Šie kūjai kalami iš ypatingo metalo, išsiskiriančio savitomis spalvomis ir savybėmis. Tamsiojo metalo paslaptis buvo pavogta iš monstrų meistrų ir greitai paplito.'
     }
   },
 
@@ -155,7 +162,8 @@ export default [
       zh: '這些木槌受到教堂的祝福。神槌有時通過前主人的禱告、成就和犧牲獲得力量。',
       tr: 'Bu tokmaklar bir kilise tarafından kutsandı. İlahi tokmaklar bazen eski sahiplerinin özveri, başarım ve fedakarlıklarından güç kazanır.',
       cs: 'Tyto paličky jsou požehnány kostelem. Božské paličky někdy získávají sílu díky oddanosti, úspěchu a oběti předchozích vlastníků.',
-      pt: 'Esses martelos de juiz são abençoados por uma igreja. Martelos divinos às vezes adquirem poder através da devoção, conquistas e sacrifícios dos proprietários anteriores.'
+      pt: 'Esses martelos de juiz são abençoados por uma igreja. Martelos divinos às vezes adquirem poder através da devoção, conquistas e sacrifícios dos proprietários anteriores.',
+      lt: 'Šiuos plaktukus palaimina bažnyčia. Dieviški plaktukai kartais įgyja galios iš ankstesnių savininkų atsidavimo, žygdarbių ir aukų.'
     }
   },
 
@@ -173,7 +181,8 @@ export default [
       ro: 'Astfel de ciocane sunt deseori create de fierari faimoși precum Markay\'ak cu ajutorul preoților monștrii religioși. Ciocanele sfințite sunt uneori înzestrate cu putere sacră.',
       nl: 'Hamers zoals deze zijn vaak gemaakt door bekende smids zoals Markay’ak met behulp van religieuze monster priesters. Hallowed Hammers zijn soms voorzien van heilige krachten.',
       cs: 'Kladiva, jako je toto, často vytvářejí slavní kováři jako Markayak s pomocí kněží náboženských monster. Posvátná kladiva jsou někdy obdařena posvátnou mocí.',
-      pt: 'Martelos como este são frequentemente criados por famosos ferreiros como Markay\'ak com a ajuda de sacerdotes religiosos de monstros. Martelos sagrados às vezes são dotados de poderes sagrados.'
+      pt: 'Martelos como este são frequentemente criados por famosos ferreiros como Markay\'ak com a ajuda de sacerdotes religiosos de monstros. Martelos sagrados às vezes são dotados de poderes sagrados.',
+      lt: 'Tokius kūjus dažnai kala garsūs kalviai, pavyzdžiui, Markay\'ak, padedami religingų monstrų kunigų. Pašventinti kūjai kartais įgyja šventų galių.'
     }
   },
 
@@ -191,7 +200,8 @@ export default [
       ro: 'Ciocanele gnomilor sunt suficient de robuste și puternice pentru a rezista unei vieți de gnom în mine și în pământ. Fierarii gnomi au o experiență vastă în crearea ciocanelor.',
       nl: 'Dwarven Mauls zijn robuust en krachtig genoeg om het leven van een dwerg te weerstaan in de mijnen en de grond. Dwerg smids hebben uitgebreide ervaring in het maken van hamers.',
       cs: 'Trpasličí mauly jsou dostatečně robustní a silné, aby vydržely trpasličí život v dolech a na zemi. Trpasličí kováři mají obrovské zkušenosti s výrobou kladiv.',
-      pt: 'As marretas dos anões são robustas e poderosas o suficiente para resistir à vida anã nas minas e no solo. Os ferreiros anões têm vasta experiência na fabricação de martelos.'
+      pt: 'As marretas dos anões são robustas e poderosas o suficiente para resistir à vida anã nas minas e no solo. Os ferreiros anões têm vasta experiência na fabricação de martelos.',
+      lt: 'Nykštukų kūjai tvirti ir pakankamai galingi, kad atlaikytų nykštukų gyvenimą kasyklose ir požemiuose. Nykštukai kalviai turi didžiulę kūjų kalimo patirtį.'
     }
   },
 
@@ -209,7 +219,8 @@ export default [
       ro: 'Aceste ciocane sunt făcute dintr-un metal special forjat fără căldură. Procesul forjării fără căldură permite proprietăților ereditate a metalului special să se mențină.',
       nl: 'Deze voorzittershamers zijn gemaakt van een speciaal metaal en gesmeed zonder hitte. Het proces van het smeden zonder hitte zorgt ervoor dat de aangeboren eigenschappen van het speciale metaal behouden wordt.',
       cs: 'Tyto paličky jsou vyrobeny ze speciálního kovu a kované bez tepla. Proces kování bez tepla umožňuje zachování přirozených vlastností speciálního kovu.',
-      pt: 'Esses martelos de juiz são feitos de um metal especial e forjados sem calor. O processo de forjamento sem calor permite que as propriedades inatas do metal especial permaneçam.'
+      pt: 'Esses martelos de juiz são feitos de um metal especial e forjados sem calor. O processo de forjamento sem calor permite que as propriedades inatas do metal especial permaneçam.',
+      lt: 'Šie plaktukai kalami iš ypatingo metalo ir be karščio, nes tik taip metalas išsaugo savo įgimtas savybes.'
     }
   },
 
@@ -227,7 +238,8 @@ export default [
       ro: 'Ciocanele Skullshatterer au fost original create pentru a combate morții vii. Aceste ciocane care rămân sunt deseori considerate posesiuni apreciate de multe clerici și ființe sacre.',
       nl: 'Skullshatterer hamers werden eerst gecreëerd om de ondoden te bevechten. De hamers die overblijven zijn vaak gewaardeerde bezittingen van vele geestelijke en heilige wezens.',
       cs: 'Kladiva Skullshatterer byla původně vytvořena pro boj s nemrtvými. Kladiva, která zůstala, jsou často považována za ceněný majetek mnoha duchovních a posvátných bytostí.',
-      pt: 'Os martelos Skullshatterer foram originalmente criados para combater os mortos-vivos. Os martelos que sobrevivem são frequentemente considerados possessões valiosas por muitos clérigos e seres sagrados.'
+      pt: 'Os martelos Skullshatterer foram originalmente criados para combater os mortos-vivos. Os martelos que sobrevivem são frequentemente considerados possessões valiosas por muitos clérigos e seres sagrados.',
+      lt: 'Skullshatterer kūjai iš pradžių buvo kuriami kovai su nemirėliais. Išlikusius kūjus daugelis dvasininkų ir šventų būtybių laiko brangiausiu turtu.'
     }
   },
 
@@ -245,7 +257,8 @@ export default [
       ro: 'Aceste ciocane sunt cunoscute pentru a rupe capuri de nicovale în timpul procesului de forjare. Ele sunt rar create și aduc în mod tipic și prețuri substanțiale.',
       nl: 'Deze hamers zijn bekend voor het breken vaan aanbeelden tijdens het proces van smeden. Zij zijn zelden gecreëerd en zijn hebben normaal gesproken een substantiële prijs.',
       cs: 'Tato kladiva jsou známá tím, že lámou hlavy kovadliny během procesu kování. Vytvářejí se zřídka a obvykle dosahují značné ceny.',
-      pt: 'Esses martelos são conhecidos por quebrar cabeças de bigorna durante o processo de forjamento. Eles raramente são criados e geralmente têm um preço substancial.'
+      pt: 'Esses martelos são conhecidos por quebrar cabeças de bigorna durante o processo de forjamento. Eles raramente são criados e geralmente têm um preço substancial.',
+      lt: 'Šie kūjai garsėja tuo, kad kalant skaldo priekalus. Jų pagaminama retai, todėl jie paprastai kainuoja nemažai.'
     }
   },
 
@@ -263,7 +276,8 @@ export default [
       ro: 'Maeștrii spirituali deseori răspândesc mesajul spiritualității lor într-o mulțime de feluri. Acest ciocan are puterea de a dărui pace inamicilor — într-un fel sau altul.',
       nl: 'Spirituele meesters verspreiden vaak het bericht van hun spirituele variatie van manieren. Deze hamer heeft de kracht om het geschenk van vrede te brengen naar de tegenstanders – op een manier of een andere.',
       cs: 'Duchovní mistři často šíří poselství své spirituality různými způsoby. Toto kladivo má moc dát dar míru nepřátelům tak či onak.',
-      pt: 'Mestres espirituais frequentemente espalham a mensagem de sua espiritualidade de várias maneiras. Este martelo tem o poder de oferecer o presente da paz aos inimigos - de uma maneira ou de outra.'
+      pt: 'Mestres espirituais frequentemente espalham a mensagem de sua espiritualidade de várias maneiras. Este martelo tem o poder de oferecer o presente da paz aos inimigos - de uma maneira ou de outra.',
+      lt: 'Dvasiniai mokytojai savo tikėjimą skleidžia įvairiais būdais. Šis kūjis, vienaip ar kitaip, gali dovanoti priešams ramybę.'
     }
   },
 
@@ -281,7 +295,8 @@ export default [
       ro: 'Aceste ciocane au fost deținute și utilizate de monștrii suzerani titani după formarea inițială a "Great Barrier". Acești titani au distrus pământul și au condus peste tărâmuri pentru o perioadă de timp.',
       nl: 'Deze hamers waren eigendom en werden gebruikt door titanische monster overheersers na de initiële vorming van de Great Barrier. Deze titanen vernielden het land en heersten over de rijken voor een bepaalde tijd.',
       cs: 'Tato kladiva vlastnili a používali titánští vládci monster po počátečním vytvoření Velké bariéry. Tito titáni zničili zemi a na čas vládli říším.',
-      pt: 'Esses martelos eram de propriedade e foram usados pelos senhores monstruosos titânicos após a formação inicial da Grande Barreira. Esses titãs devastaram a terra e governaram os reinos por um tempo.'
+      pt: 'Esses martelos eram de propriedade e foram usados pelos senhores monstruosos titânicos após a formação inicial da Grande Barreira. Esses titãs devastaram a terra e governaram os reinos por um tempo.',
+      lt: 'Šiuos kūjus nešiojo titaniški monstrų valdovai, iškilę netrukus po Didžiojo Barjero atsiradimo. Titanai niokojo žemes ir kurį laiką valdė kraštus.'
     }
   },
 
@@ -299,7 +314,8 @@ export default [
       ro: 'Conform istoricilor, acest ciocan se presupune că a cauzat cândva un cutremur suficient de mare pentru a răsturna un oraș întreg.',
       nl: 'Volgens historici wordt gezegd dat deze hamer ooit een aarbeving heeft laten ontstaan wat krachtig genoeg was om een stad gelijk met de grond te maken.',
       cs: 'Podle historiků prý toto kladivo kdysi způsobilo zemětřesení dostatečně masivní na to, aby svrhlo město.',
-      pt: 'De acordo com historiadores, diz-se que este martelo causou um terremoto tão massivo que derrubou uma cidade.'
+      pt: 'De acordo com historiadores, diz-se que este martelo causou um terremoto tão massivo que derrubou uma cidade.',
+      lt: 'Istorikai teigia kad šis kūjis kadaise sukėlė tokį galingą žemės drebėjimą, jog sugriuvo visas miestas.'
     }
   },
 
@@ -317,7 +333,8 @@ export default [
       ro: 'O legendă antică pretinde că un ciocan misterios a căzut dintr-o fisură a "Great Barrier" pe tărâmuri; astfel de ciocane pur și simplu nu sunt din acestă lume.',
       nl: 'Een eeuwenoude legende beweert dat een vreemde hamer door een spleet in de Great Barrier de rijken in viel. Hamers zoals deze zijn simpelweg niet van deze wereld.',
       cs: 'Prastará legenda tvrdí, že podivné kladivo propadlo puklinou Velké bariéry do říší; taková kladiva prostě nejsou z tohoto světa.',
-      pt: 'Uma antiga lenda afirma que um estranho martelo caiu através de uma fenda na Grande Barreira para os reinos; martelos como este simplesmente não são deste mundo.'
+      pt: 'Uma antiga lenda afirma que um estranho martelo caiu através de uma fenda na Grande Barreira para os reinos; martelos como este simplesmente não são deste mundo.',
+      lt: 'Senovinė legenda pasakoja, kad keistas kūjis įkrito į kraštus pro Didžiojo Barjero plyšį; tokie kūjai yra tiesiog ne iš šio pasaulio.'
     }
   }
 

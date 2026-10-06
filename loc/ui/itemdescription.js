@@ -8,7 +8,8 @@ export default {
     pt: 'Pressione Shift para comparar o item.',
     cs: 'Stiskněte Shift pro porovnání položky',
     es: 'Presione Shift para comparar items.',
-    sr: 'Притисни Shift да упоредиш предмет.'
+    sr: 'Притисни Shift да упоредиш предмет.',
+    lt: 'Paspauskite Shift kad palygintumėte daiktą.'
   },
 
   onuse: {
@@ -20,7 +21,8 @@ export default {
     pt: 'em uso.',
     cs: 'při používání',
     es: 'en uso.',
-    sr: 'при употреби.'
+    sr: 'при употреби.',
+    lt: 'panaudojus.'
   },
 
   onpurchase: {
@@ -32,7 +34,8 @@ export default {
     pt: 'na compra',
     cs: 'při nákupu',
     es: 'en la compra.',
-    sr: 'при куповини.'
+    sr: 'при куповини.',
+    lt: 'įsigijus.'
   },
 
   onsale: {
@@ -44,7 +47,8 @@ export default {
     pt: 'na venda do Merchant.',
     cs: 'v obchodním prodeji',
     es: 'en venta al comerciante.',
-    sr: 'при продаји код Merchant-а.'
+    sr: 'при продаји код Merchant-а.',
+    lt: 'pardavus turguje.'
   },
 
   equipeffect: {
@@ -56,6 +60,7 @@ export default {
     pt: 'Equipar este item dará esses efeitos',
     cs: 'Vybavení tohoto předmětu bude mít tyto účinky',
     es: 'Equipar este objeto tendrá estos efectos',
-    sr: 'Опремање овог предмета имаће следеће ефекте'
+    sr: 'Опремање овог предмета имаће следеће ефекте',
+    lt: 'Užsidėjus šį daiktą, bus pritaikyti šie efektai'
   }
 }

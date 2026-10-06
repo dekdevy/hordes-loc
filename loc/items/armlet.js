@@ -17,7 +17,8 @@ export default [
       ro: 'Aceste manșete sunt realizate din fâșii de piele îmbinate într-un mod natural.',
       tr: 'Bu bileklikler, basit bir formasyonla sarılmış deri şeritlerdir.',
       cs: 'Tyto náramky jsou kožené proužky, které jsou zabaleny do jednoduché formace.',
-      zh: '這些腕帶是用皮帶綑成一個簡單的形狀而成的。'
+      zh: '這些腕帶是用皮帶綑成一個簡單的形狀而成的。',
+      lt: 'Paprastai aplink riešą apvyniotos odos juostelės.'
     }
   },
 
@@ -39,7 +40,8 @@ export default [
       ro: 'Aceste brățări au fost create în grabă. Semnele de luptă lăsate pe marginea materialului de piele nu inspiră încrederea faptului că purtătorul precedent a supraviețuit.',
       tr: 'Bu kol bantları biraz aceleye gelmiş. Derinin yanlarındaki savaş izleri, önceki sahibinin hayatta kalma konusundaki kararlılığı hakkında pek güven vermiyor.',
       cs: 'Tyto náramky byly vytvořeny narychlo. Hrubé bojové znaky po stranách kůže nevzbuzují důvěru v přežití předchozího majitele.',
-      zh: '這些臂章是匆忙製作的，皮革側面的粗糙戰鬥痕跡並不能激發對前主人生存的信心。'
+      zh: '這些臂章是匆忙製作的，皮革側面的粗糙戰鬥痕跡並不能激發對前主人生存的信心。',
+      lt: 'Paskubomis pagaminti rankų raiščiai. Šiurkščios kovos žymės ant odos kelia klausimų dėl buvusio savininko gyvybės.'
     }
   },
 
@@ -62,7 +64,8 @@ export default [
       ro: 'Aceste manșete rezistente au fost confecționate cu grijă din material de piele dură. Pe marginea acesteia este semnătura meșterului: "Markay\'ak".',
       tr: 'Kalın deriler özenle işlenerek ince pazubentler yapılmış. Derinin kenarında zanaatkarın imzası var: "Markay\'ak".',
       cs: 'Pevná kůže byla pečlivě zpracována do jemných náramků. Na straně kůže je podpis řemeslníka: "Markay\'ak"',
-      zh: '堅韌的皮革經過精心製作，製成精美的臂環。皮革的側面是工匠的標誌："Markay\'ak"。'
+      zh: '堅韌的皮革經過精心製作，製成精美的臂環。皮革的側面是工匠的標誌："Markay\'ak"。',
+      lt: 'Kieta oda kruopščiai išdirbta į puikius antžasčius. Šone įspaustas meistro parašas: „Markay\'ak“.'
     }
   },
 
@@ -84,7 +87,8 @@ export default [
       ro: 'Acest tip de brățară este ornată cu bucăți mari de oase de monstru. Multe tradiții superstițioase spun că purtătorul unei astfel de brățări devine posedat de spiritul monstrului decedat; totuși, alții spun că refolosirea acestor oase previn monștrii din a se reîncarna.',
       cs: 'Tento typ náramku je ozdobně vytvořen z tlustých kostí monster. Mnoho pověrčivých tradic tvrdí, že nositel těchto náramků je prostoupen mocí zesnulého netvora; jiní však tvrdí, že opětovné použití kostí brání vzkříšení nestvůr.',
       zh: '這種手鐲是用厚厚的怪物骨頭精心打造的。許多迷信聲稱，這種手鐲的人身上會充滿已故怪物的力量；然而，也有人聲稱，重複使用骨骼可以防止怪物復活。',
-      tr: 'Bu tip bileklikler kalın canavar kemikleri ile süslü şekilde işlenmiş. Çoğu batıl inançlı gelenek bunun gibi çoğu bilekliği giymenin ölmüş canavarların gücüne sahip olunacağına inanıyor; aynı zamanda diğerleri de tekrar tekrar kullanılan kemiklerin canavarları dirilteceğini düşünyor.'
+      tr: 'Bu tip bileklikler kalın canavar kemikleri ile süslü şekilde işlenmiş. Çoğu batıl inançlı gelenek bunun gibi çoğu bilekliği giymenin ölmüş canavarların gücüne sahip olunacağına inanıyor; aynı zamanda diğerleri de tekrar tekrar kullanılan kemiklerin canavarları dirilteceğini düşünyor.',
+      lt: 'Puošni apyrankė išdrožinėta iš storų monstrų kaulų. Vieni prietarai tikina kad nešiotojui persiduoda žuvusio monstro galia. Kiti gi sako kad panaudojus monstrų kaulus šie nebegalės prisikelti.'
     }
   },
 
@@ -106,7 +110,8 @@ export default [
       ro: 'Acest tip de armură de fier a fost extrem de folosită în război iar astfel a rămas murdară. Urmele de gheare lăsate pe metal par să fie în mare parte superficiale.',
       cs: 'Tento typ železné zbroje byl hojně používán ve válce a zůstává špinavý. Stopy po drápech na kovu se zdají být většinou povrchní.',
       zh: '這種類型的鐵甲在戰爭中被大量使用，而且仍然很髒。 金屬上的爪痕大多都很淺。',
-      tr: 'Bu tip demir zırhlar ağırlıklı olarak savaşlarda kullanılıp pis bırakılır. Metalim üzerinde ki pençe izleri çoğunlukla yüzeysel.'
+      tr: 'Bu tip demir zırhlar ağırlıklı olarak savaşlarda kullanılıp pis bırakılır. Metalim üzerinde ki pençe izleri çoğunlukla yüzeysel.',
+      lt: 'Purvini geležiniai antdilbiai, kokius dažnai naudodavo kare. Nagų įbrėžimai ant metalo, regis, tik paviršiniai.'
     }
   },
 
@@ -128,7 +133,8 @@ export default [
       ro: 'Aceste manșete din oțel sunt încastrate cu rune mici ce oferă extra protecție. Manșetele impregnate sunt oreacum rare din moment ce modul de creare a runelor este un secret.',
       cs: 'Tyto ocelové výztuhy jsou označeny malými runami, které poskytují extra ochranu. Napuštěné bracery jsou poněkud vzácné, protože způsob vytváření run je tajemstvím',
       zh: '這些鋼製護腕上標有小符文，可提供額外的保護。這些護腕有些罕見，因為符文的製造方法是個秘密。',
-      tr: 'Bu çelik fazladan koruma aşılaması için küçük rünler ile işaretlenmiş. Aşılanmış kolluklar, rünlerin yapılış süreci bir sır haline geldiğinden beri bir nedenden dolayı nadirlerdir.'
+      tr: 'Bu çelik fazladan koruma aşılaması için küçük rünler ile işaretlenmiş. Aşılanmış kolluklar, rünlerin yapılış süreci bir sır haline geldiğinden beri bir nedenden dolayı nadirlerdir.',
+      lt: 'Ant plieninių antdilbių išraižytos mažytės runos suteikia papildomos apsaugos. Tokių antdilbių pasitaiko retai, nes runų kūrimo būdas laikomas paslaptyje.'
     }
   },
 
@@ -148,7 +154,8 @@ export default [
       nl: 'Deze manchetten waren gesmeed met een speciaal vuur die alleen gecreëerd kunnen worden door magie. In het verleden, vuur elementalen leerden alleen een paar speciale hoefsmeden het geheim van hoe je de ember cuffs moet smeden.',
       it: 'Questi polsini sono stati forgiati con un fuoco speciale che può essere creato utilizzando solo la magia. Nel passato, gli elementali del fuoco insegnavano solo a pochi speciali fabbri il segreto per forgiare questi polsini di brace.',
       ro: 'Aceste manșete au fost făurite într-un foc special care poate fi creat doar prin magie. În trecut, maeștrii focului au învățat doar câțiva fierari speciali secretul forjării acestora.',
-      cs: 'Tyto manžety byly ukovány speciálním ohněm, který lze vytvořit pouze pomocí magie. V minulosti ohniví elementálové naučili jen několik speciálních kovářů tajemství kování uhlíkových manžet.'
+      cs: 'Tyto manžety byly ukovány speciálním ohněm, který lze vytvořit pouze pomocí magie. V minulosti ohniví elementálové naučili jen několik speciálních kovářů tajemství kování uhlíkových manžet.',
+      lt: 'Šie antdilbiai nukalti ypatingoje ugnyje, kurią įžiebti įmanoma tik naudojant magiją. Kadaise ugnies elementaliai šią paslaptį atskleidė vos keliems išrinktiems kalviams.'
     }
   },
 
@@ -168,7 +175,8 @@ export default [
       nl: 'Mirror armlets zijn gemaakt door buitengewone hoefsmeden met de vaardigheid noodzakelijk om reflecterende harnassen te maken voor schade vermindering. Deze beschermende kwaliteit inspireerde vele elven tovenaars om vaak te experimenteren op mirror armlets.',
       it: 'I braccialetti specchiati sono fatti da eccezionali fabbri con la capacità necessaria a creare un\'armatura riflettente per ridurre il danno. Questa qualità protettiva ha ispirato molti maghi Elvish a sperimentare su questi braccialetti.',
       ro: 'Aceste manșete lucioase au fost forjate de fierari excepționali care au abilitățile necesare de a făuri armură reflectorizantă ce reduce daunele. Această calitate protectoare a inspirat mulți vrăjitori elfi să experimenteze pe aceste manșete.',
-      cs: 'Zrcadlové nárameníky vyrábí výjimeční kováři s dovednostmi nezbytnými k výrobě reflexního brnění pro snížení poškození. Tato ochranná kvalita inspirovala mnoho elfských kouzelníků k častému experimentování se zrcadlovými náramky.'
+      cs: 'Zrcadlové nárameníky vyrábí výjimeční kováři s dovednostmi nezbytnými k výrobě reflexního brnění pro snížení poškození. Tato ochranná kvalita inspirovala mnoho elfských kouzelníků k častému experimentování se zrcadlovými náramky.',
+      lt: 'Veidrodinius antžasčius kala tik išskirtiniai kalviai, mokantys sukurti atspindinčius, žalą mažinančius šarvus. Būtent dėl šios savybės su jais dažnai eksperimentuodavo elfų burtininkai.'
     }
   },
 
@@ -188,7 +196,8 @@ export default [
       nl: 'Golem fragments zijn nauw in elkaar gezet door een kleine team van magie-gebruikende hoefsmeden. Elk paar golem fragments zijn gemaakt over honderden dagen met gebruik van de omhulsels van rots golems.',
       it: 'I frammenti di Golem sono assemblati scrupolosamente da una piccola squadra di fabbri-maghi. Ogni paio di frammenti di Golem sono creati in alcune centinaia di giorni usando i gusci dei golem di roccia.',
       ro: 'Fragmente de golem au fost asamblate cu grijă de o echipă mică de fierari magicieni. Fiecare manșetă este creată în câteva sute de zile folosind rămășițele golemilor de piatră.',
-      cs: 'Fragmenty golemů jsou pečlivě sestaveny malým týmem kovářů využívajících magii. Každý pár úlomků golemů je vytvořen během několika set dní pomocí slupek skalních golemů.'
+      cs: 'Fragmenty golemů jsou pečlivě sestaveny malým týmem kovářů využívajících magii. Každý pár úlomků golemů je vytvořen během několika set dní pomocí slupek skalních golemů.',
+      lt: 'Golemų nuolaužas kruopščiai surenka nedidelis magiją išmanančių kalvių būrys. Kiekviena pora gaminama kelis šimtus dienų, naudojant uolinių golemų kevalus.'
     }
   },
 
@@ -208,7 +217,8 @@ export default [
       nl: 'Armbanden zoals deze zijn gemaakt uit zeldzame metalen gevonden in de bergen. Hoefsmeden gebruiken betoverde hamers om de armbanden te smeden zonder hitte zodat de magie verbeteringen op het metaal blijft.',
       it: 'Bracciali come questo sono composti di un metallo raro trovato nelle montagne. I fabbri usano dei martelli incantati per forgiare bracciali senza calore al fine di conservare le proprietà magiche del metallo.',
       ro: 'Apăratorile pentru braț asemănătoare acesteia sunt formate dintr-un metal rar găsit în munți. Fierarii folosesc ciocane fermecate pentru a le făuri fără căldură și pentru a menține proprietățile magice ale metalului.',
-      cs: 'Bracery, jako je tento, se skládají ze vzácného kovu nalezeného v horách. Kováři používají začarovaná kladiva k kování výztuh bez tepla, aby si zachovali magické vlastnosti kovu.'
+      cs: 'Bracery, jako je tento, se skládají ze vzácného kovu nalezeného v horách. Kováři používají začarovaná kladiva k kování výztuh bez tepla, aby si zachovali magické vlastnosti kovu.',
+      lt: 'Tokie antdilbiai kalami iš reto metalo, randamo kalnuose. Kalviai jį apdoroja užkerėtais kūjais ir be karščio - tik taip metalas išlaiko magiją stiprinančias savybes.'
     }
   },
 
@@ -228,7 +238,8 @@ export default [
       nl: 'Deze armbanden werden gemaakt door hoefsmeden die hebben gehamerd op metaal gevonden in zwarte meteotieten. Tot nu toe, de grootste concentratie van zwarte meteoren waren gevonden na een natuurramp die de tweede grootte oorlog volgde.',
       it: 'Questi bracciali sono stati creati dai fabbri  che martellarono il metallo trovato tra i meteoriti neri. Fino ed ora, la più grande concentrazione di meteoriti neri fu trovata dopo un cataclisma che seguì la Seconda Guerra Mondiale.',
       ro: 'Aceste manșete au fost create de fierarii care au făurit metalul găsit în interiorul unor meteoriți negrii. Până acum, cea mai mare concentrație de meteoriți negrii a fost găsită în urma cataclismului de după "The Second Great War".',
-      cs: 'Tyto výztuhy byly vytvořeny kováři, kteří tepali kov nalezený v černých meteoritech. Dosud největší koncentrace černých meteoritů byla nalezena po kataklyzmatu, které následovalo po druhé světové válce.'
+      cs: 'Tyto výztuhy byly vytvořeny kováři, kteří tepali kov nalezený v černých meteoritech. Dosud největší koncentrace černých meteoritů byla nalezena po kataklyzmatu, které následovalo po druhé světové válce.',
+      lt: 'Šiuos antdilbius kalviai nukalė iš juoduosiuose meteorituose randamo metalo. Daugiausia juodųjų meteoritų iki šiol rasta po katastrofos, ištikusios pasibaigus antrajam didžiajam karui.'
     }
   },
 
@@ -248,7 +259,8 @@ export default [
       nl: 'Ambitieuze tovenaren op het randje van complete gestoordheid ontdekten geheimen tot dimensionale magie en vormden armbanden die normale magische bescherming overstijgen. Deze abnormale armbanden vereisen een speciale vorm om hun eigendommen te behouden.',
       it: 'I maghi ambiziosi sul filo della pazzia scoprirono i segreti della magia dimensionale e costruirono bracciali che trascendono la normale protezione magica. Questi bracciali anormali richiesero una forma speciale per mantenere le loro proprietà.',
       ro: 'Magicieni ambițioși aflați la limita nebuniei au descoperit secretele magiei dimensionale și au creat manșete care emană protecție magică clasică. Aceste manșete anormale necesită o formă specială pentru a-și menține proprietățile.',
-      cs: 'Ambiciózní čarodějové na pokraji šílenství objevili tajemství dimenzionální magie a vytvořili bracery, které přesahují běžnou magickou ochranu. Tyto abnormální výztuhy vyžadovaly speciální tvar, aby si zachovaly své vlastnosti.'
+      cs: 'Ambiciózní čarodějové na pokraji šílenství objevili tajemství dimenzionální magie a vytvořili bracery, které přesahují běžnou magickou ochranu. Tyto abnormální výztuhy vyžadovaly speciální tvar, aby si zachovaly své vlastnosti.',
+      lt: 'Ant beprotybės ribos balansavę ambicingi burtininkai perprato dimensijų magijos paslaptis ir sukūrė antdilbius, kurių apsauga pranoksta įprastą magiją. Kad išlaikytų savo savybes, šie neįprasti antdilbiai turėjo įgauti ypatingą formą.'
     }
   },
 
@@ -268,7 +280,8 @@ export default [
       nl: 'Sommige legendes zeggen dat deze armbanden alleen tevoorschijn komen wanneer de rijken een wachter nodig hebben. Geschiedenis toont dat vreselijke tragedies gebeuren kort nadat deze armbanden gevonden zijn; dus hun verschijningen worden vaak gezien als slechte voortekens.',
       it: 'Alcune leggende raccontano che questi bracciali appaiono solo quando i regni hanno bisogno di un guardiano. La storia mostra che terribili tragedie arrivarono poco dopo che questi bracciali vennero trovati. Così la loro presenza è spesso vista come un cattivo presagio.',
       ro: 'Legendele spun că aceste manșete apar doar atunci când tărâmurile au nevoie de un gardian. Istoria arată că tragedii teribile apar scurt timp după aceea, ori de câte ori aceste brățări sunt găsite; ca atare, apariția lor este văzută ca fiind un semn rău.',
-      cs: 'Některé legendy praví, že se tyto bracery objevují pouze tehdy, když říše potřebují strážce. Historie ukazuje, že strašlivé tragédie se odehrávají krátce poté, kdykoli jsou tyto výztuhy nalezeny; jako takové je jejich vzhled často vnímán jako špatná znamení.'
+      cs: 'Některé legendy praví, že se tyto bracery objevují pouze tehdy, když říše potřebují strážce. Historie ukazuje, že strašlivé tragédie se odehrávají krátce poté, kdykoli jsou tyto výztuhy nalezeny; jako takové je jejich vzhled často vnímán jako špatná znamení.',
+      lt: 'Legendos byloja kad šie antdilbiai pasirodo tik tada kai kraštams prireikia sargo. Istorija rodo kad netrukus po jų atsiradimo visada ištinka baisios tragedijos, todėl jų pasirodymas dažnai laikomas blogu ženklu.'
     }
   }
 

@@ -21,7 +21,8 @@ export default {
     sr: 'Добро',
     it: 'Ok',
     ja: '決定',
-    cs: 'Oke'
+    cs: 'Oke',
+    lt: 'Gerai'
   },
 
   back: {
@@ -45,7 +46,8 @@ export default {
     sr: 'Назад',
     it: 'Indietro',
     ja: '戻る',
-    cs: 'Zpět'
+    cs: 'Zpět',
+    lt: 'Atgal'
   },
 
   accept: {
@@ -69,7 +71,8 @@ export default {
     sr: 'Прихвати',
     it: 'Accetta',
     ja: '承認',
-    cs: 'Potvrdit'
+    cs: 'Potvrdit',
+    lt: 'Priimti'
   },
 
   acceptQuest: {
@@ -77,7 +80,7 @@ export default {
     zh: '接受任務', pt: 'Aceitar missão', es: 'Aceptar misión',
     fr: 'Accepter la quête', ro: 'Acceptă misiunea', it: 'Accetta missione',
     nl: 'Quest accepteren', vi: 'Nhận nhiệm vụ', hu: 'Küldetés elfogadása',
-    cs: 'Přijmout úkol', pl: 'Przyjmij zadanie'
+    cs: 'Přijmout úkol', pl: 'Przyjmij zadanie', lt: 'Priimti užduotį'
   },
 
   completeQuest: {
@@ -85,35 +88,35 @@ export default {
     zh: '完成任務', pt: 'Concluir missão', es: 'Completar misión',
     fr: 'Terminer la quête', ro: 'Încheie misiunea', it: 'Completa missione',
     nl: 'Quest voltooien', vi: 'Hoàn thành nhiệm vụ', hu: 'Küldetés teljesítése',
-    cs: 'Dokončit úkol', pl: 'Ukończ zadanie'
+    cs: 'Dokončit úkol', pl: 'Ukończ zadanie', lt: 'Užbaigti užduotį'
   },
 
   objectives: {
     en: 'Objectives', de: 'Ziele', ru: 'Цели', zh: '目標',
     pt: 'Objetivos', es: 'Objetivos', fr: 'Objectifs', ro: 'Obiective',
     it: 'Obiettivi', nl: 'Doelen', vi: 'Mục tiêu', hu: 'Célok',
-    cs: 'Cíle', pl: 'Cele'
+    cs: 'Cíle', pl: 'Cele', lt: 'Tikslai'
   },
 
   rewards: {
     en: 'Rewards', de: 'Belohnungen', ru: 'Награды', zh: '獎勵',
     pt: 'Recompensas', es: 'Recompensas', fr: 'Récompenses', ro: 'Recompense',
     it: 'Ricompense', nl: 'Beloningen', vi: 'Phần thưởng', hu: 'Jutalmak',
-    cs: 'Odměny', pl: 'Nagrody'
+    cs: 'Odměny', pl: 'Nagrody', lt: 'Apdovanojimai'
   },
 
   experience: {
     en: 'Experience', de: 'Erfahrung', ru: 'Опыт', zh: '經驗',
     pt: 'Experiência', es: 'Experiencia', fr: 'Expérience', ro: 'Experiență',
     it: 'Esperienza', nl: 'Ervaring', vi: 'Kinh nghiệm', hu: 'Tapasztalat',
-    cs: 'Zkušenosti', pl: 'Doświadczenie'
+    cs: 'Zkušenosti', pl: 'Doświadczenie', lt: 'Patirtis'
   },
 
   gold: {
     en: 'Gold', de: 'Gold', ru: 'Золото', zh: '金幣',
     pt: 'Ouro', es: 'Oro', fr: 'Or', ro: 'Aur',
     it: 'Oro', nl: 'Goud', vi: 'Vàng', hu: 'Arany',
-    cs: 'Zlato', pl: 'Złoto'
+    cs: 'Zlato', pl: 'Złoto', lt: 'Auksas'
   },
 
   cancel: {
@@ -137,7 +140,8 @@ export default {
     sr: 'Откажи',
     it: 'Annullare',
     ja: 'キャンセル',
-    cs: 'Zrušit'
+    cs: 'Zrušit',
+    lt: 'Atšaukti'
   },
 
   decline: {
@@ -161,7 +165,8 @@ export default {
     sr: 'Одбиј',
     it: 'Declina',
     ja: '拒否',
-    cs: 'Odmítnout'
+    cs: 'Odmítnout',
+    lt: 'Atsisakyti'
   },
 
   close: {
@@ -185,7 +190,8 @@ export default {
     sr: 'Затвори',
     it: 'Chiudi',
     ja: '閉じる',
-    cs: 'Zavřít'
+    cs: 'Zavřít',
+    lt: 'Uždaryti'
   },
 
   reset: {
@@ -197,7 +203,8 @@ export default {
     pt: 'Resetar',
     es: 'Resetear',
     cs: 'Reset',
-    sr: 'Ресетуј'
+    sr: 'Ресетуј',
+    lt: 'Atstatyti'
   },
 
   disable: {
@@ -209,7 +216,8 @@ export default {
     pt: 'Desativar',
     es: 'Desactivar',
     cs: 'Zakázat',
-    sr: 'Онемогући'
+    sr: 'Онемогући',
+    lt: 'Išjungti'
   },
 
   playername: {
@@ -221,7 +229,8 @@ export default {
     pt: 'Digite o nome do jogador',
     es: 'Escriba el nombre del jugador',
     cs: 'Vložit jméno hráče',
-    sr: 'Унеси име играча'
+    sr: 'Унеси име играча',
+    lt: 'Įveskite žaidėjo vardą'
   },
 
   streamLoad: {
@@ -233,7 +242,8 @@ export default {
     pt: 'Carregando streams...',
     es: 'Cargando streams...',
     cs: 'Načítám streamy',
-    sr: 'Учитавање стримова...'
+    sr: 'Учитавање стримова...',
+    lt: 'Įkeliamos transliacijos...'
   },
 
   all: {
@@ -245,7 +255,8 @@ export default {
     pt: 'Todos',
     es: 'Todos',
     cs: 'Vše',
-    sr: 'Све'
+    sr: 'Све',
+    lt: 'Visi'
   },
 
   filter: {
@@ -257,7 +268,8 @@ export default {
     pt: 'Filtro',
     es: 'Filtrar',
     cs: 'Filtr',
-    sr: 'Филтер'
+    sr: 'Филтер',
+    lt: 'Filtras'
   },
 
   apply: {
@@ -269,7 +281,8 @@ export default {
     pt: 'Aplicar',
     es: 'Aplicar',
     cs: 'Potvrdit',
-    sr: 'Примени'
+    sr: 'Примени',
+    lt: 'Taikyti'
   },
 
   default: {
@@ -281,7 +294,8 @@ export default {
     pt: 'Padrão',
     es: 'Predeterminado',
     cs: 'Default',
-    sr: 'Подразумевано'
+    sr: 'Подразумевано',
+    lt: 'Numatytasis'
   },
 
   // Used for party and arena searching
@@ -294,7 +308,8 @@ export default {
     pt: 'Procurar',
     es: 'Encontrar',
     cs: 'Najít',
-    sr: 'Пронађи'
+    sr: 'Пронађи',
+    lt: 'Ieškoti'
   },
 
   // Used for party and arena searching
@@ -307,7 +322,8 @@ export default {
     pt: 'Procurando...',
     es: 'Buscando...',
     cs: 'Vyhledávám...',
-    sr: 'Претрага...'
+    sr: 'Претрага...',
+    lt: 'Ieškoma...'
   },
 
   learnable: {
@@ -319,7 +335,8 @@ export default {
     pt: 'Aprende Niv.',
     es: 'Aprender Niv.',
     cs: 'Naučitelná úr.',
-    sr: 'Може се научити на нив.'
+    sr: 'Може се научити на нив.',
+    lt: 'Išmokstama nuo lyg.'
   },
 
   cost: {
@@ -331,7 +348,8 @@ export default {
     pt: 'Custa',
     es: 'Coste',
     cs: 'Cena',
-    sr: 'Цена'
+    sr: 'Цена',
+    lt: 'Kaina'
   },
 
   noOptions: {
@@ -343,6 +361,7 @@ export default {
     pt: 'Sem opções',
     es: 'Sin opciones',
     cs: 'Žádné možnosti',
-    sr: 'Нема опција'
+    sr: 'Нема опција',
+    lt: 'Parinkčių nėra'
   }
 }
