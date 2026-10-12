@@ -565,7 +565,7 @@ export default {
       pl: 'Przytrzymaj',
       lt: 'Palaikykite'
     },
-    tap: {
+      tap: {
       en: 'Tap',
       de: 'Tippen',
       ru: 'Нажать',
