@@ -18,7 +18,7 @@ export default {
       lt: 'Kapavietės valymas'
     },
     offer: {
-      en: "These grubs keep on messing with the tomb. She'll never be at peace like this. Please, will you help me get rid of some of these grubs?",
+      en: 'These grubs keep on messing with the tomb. She\'ll never be at peace like this. Please, will you help me get rid of some of these grubs?',
       de: 'Diese Maden verwüsten ständig die Gruft. So wird sie nie Frieden finden. Hilfst du mir, ein paar davon loszuwerden?',
       ru: 'Личинки снова оскверняют гробницу. Так ей не обрести покой. Поможешь избавиться от них?',
       zh: '這些幼蟲又在墓穴裡搗亂。這樣她永遠無法安息。能幫我除掉一些嗎？',
@@ -124,7 +124,7 @@ export default {
       lt: 'Bėdos su lapėmis'
     },
     offer: {
-      en: "It's been hours, and I can't seem to catch anything with these foxes causing trouble! Will you help me?",
+      en: 'It\'s been hours, and I can\'t seem to catch anything with these foxes causing trouble! Will you help me?',
       de: 'Seit Stunden fange ich nichts, weil die Füchse mich stören! Hilfst du mir?',
       ru: 'Я рыбачу уже несколько часов, но лисы всё время мне мешают! Поможешь?',
       zh: '我釣了好幾個小時，可狐狸一直搗亂，一條魚都沒釣到！能幫幫我嗎？',
@@ -283,7 +283,7 @@ export default {
       lt: 'Kita siunta'
     },
     offer: {
-      en: "While you were clearing the stable, a Vanguard requisition arrived. Quartermaster Isabel is waiting on feed for the army's pack animals. Tell her the stable is usable again and I can prepare the next shipment.",
+      en: 'While you were clearing the stable, a Vanguard requisition arrived. Quartermaster Isabel is waiting on feed for the army\'s pack animals. Tell her the stable is usable again and I can prepare the next shipment.',
       de: 'Während du den Stall gesäubert hast, kam eine Anforderung der Vanguard. Quartiermeisterin Isabel wartet auf Futter für die Lasttiere der Armee. Sag ihr, dass der Stall wieder nutzbar ist und ich die nächste Lieferung vorbereiten kann.',
       ru: 'Пока ты очищал конюшню, пришёл запрос от Vanguard. Интендант Isabel ждёт корм для армейских вьючных животных. Скажи ей, что конюшня снова работает, и я подготовлю поставку.',
       zh: '你清理馬廄時，Vanguard 發來了徵用令。軍需官 Isabel 正等著給軍隊馱獸的飼料。告訴她馬廄能用了，我就準備下一批貨。',
@@ -300,7 +300,7 @@ export default {
       lt: 'Kol valei arklidę, atėjo Vanguard užsakymas. Quartermaster Isabel laukia pašaro kariuomenės nešuliniams gyvuliams. Pasakyk jai kad arklidė vėl tvarkinga ir kad galiu ruošti kitą siuntą.'
     },
     complete: {
-      en: "Good. I'll send for Eckhardt's shipment before the day is out.",
+      en: 'Good. I\'ll send for Eckhardt\'s shipment before the day is out.',
       de: 'Gut. Ich schicke Eckhardts Lieferung noch heute los.',
       ru: 'Хорошо. Я отправлю поставку Eckhardt ещё до конца дня.',
       zh: '很好。今天結束前，我會把 Eckhardt 的貨送出去。',
@@ -442,7 +442,7 @@ export default {
       lt: 'Nėra kur stovyklauti'
     },
     offer: {
-      en: "I used to camp outside the city whenever I could, but bandits have taken over the grounds. I won't risk going back while they're there. Will you clear them out so I can leave these walls again?",
+      en: 'I used to camp outside the city whenever I could, but bandits have taken over the grounds. I won\'t risk going back while they\'re there. Will you clear them out so I can leave these walls again?',
       de: 'Früher habe ich oft vor der Stadt gezeltet, doch Banditen haben den Platz besetzt. Solange sie dort sind, wage ich mich nicht zurück. Vertreibst du sie, damit ich die Stadt wieder verlassen kann?',
       ru: 'Раньше я часто ночевал за городом, но теперь мой лагерь заняли бандиты. Я не вернусь туда, пока они там. Прогони их, чтобы я снова мог уйти за стены!',
       zh: '以前我常在城外露營，可營地被強盜佔了。他們不走，我可不敢回去。能趕走他們，讓我再次走出城牆嗎？',
@@ -495,7 +495,7 @@ export default {
       lt: 'Kelias pirmyn'
     },
     offer: {
-      en: "I've lingered here long enough. I want to travel onward and see what the future holds at Headless Landing, but the bandits threaten me whenever I try to pass through. Will you clear a path for me?",
+      en: 'I\'ve lingered here long enough. I want to travel onward and see what the future holds at Headless Landing, but the bandits threaten me whenever I try to pass through. Will you clear a path for me?',
       de: 'Ich bin lange genug hier geblieben. Ich will weiterreisen und sehen, was mich in Headless Landing erwartet, doch Banditen bedrohen mich bei jedem Versuch. Machst du mir den Weg frei?',
       ru: 'Пора мне идти дальше. Хочу узнать, что ждёт меня в Headless Landing, но бандиты перекрыли дорогу. Расчистишь мне путь?',
       zh: '我在這裡待得夠久了。我想去 Headless Landing 看看未來有什麼在等我，可強盜擋住了路。能幫我開出一條路嗎？',
@@ -707,7 +707,7 @@ export default {
       lt: 'Sutrypti ingredientai'
     },
     offer: {
-      en: "I came to Guardstone Forest to gather mushrooms and herbs for my potions, but I don't know these woods well. The hogs keep charging me before I can collect anything. Will you thin their numbers?",
+      en: 'I came to Guardstone Forest to gather mushrooms and herbs for my potions, but I don\'t know these woods well. The hogs keep charging me before I can collect anything. Will you thin their numbers?',
       de: 'Ich bin in den Guardstone Forest gekommen, um Pilze und Kräuter für meine Tränke zu sammeln, aber ich kenne den Wald kaum. Die Wildschweine greifen mich an, bevor ich etwas pflücken kann. Dezimierst du sie?',
       ru: 'Я пришёл в Guardstone Forest за грибами и травами для зелий, но плохо знаю эти места. Кабаны бросаются на меня, прежде чем я успеваю что-нибудь собрать. Уменьшишь их число?',
       zh: '我來 Guardstone Forest 採蘑菇和草藥做藥水，卻不熟悉這片樹林。還沒採到東西，野豬就衝了過來。能幫我減少牠們的數量嗎？',
@@ -866,7 +866,7 @@ export default {
       lt: 'Nuodai brūzgynuose'
     },
     offer: {
-      en: "The forest spiders nearby are unusually aggressive, and their venom has changed. I suspect something in their diet has altered them, but I cannot tell whether it is a plant, a fungus, or something else entirely. Thin their numbers before this mutation spreads.",
+      en: 'The forest spiders nearby are unusually aggressive, and their venom has changed. I suspect something in their diet has altered them, but I cannot tell whether it is a plant, a fungus, or something else entirely. Thin their numbers before this mutation spreads.',
       de: 'Die Waldspinnen hier sind ungewöhnlich aggressiv, und ihr Gift hat sich verändert. Vielleicht liegt es an ihrer Nahrung, doch ich weiß nicht, ob eine Pflanze, ein Pilz oder etwas anderes schuld ist. Dezimiere sie, bevor sich diese Veränderung ausbreitet.',
       ru: 'Местные лесные пауки стали необычно агрессивны, а их яд изменился. Возможно, дело в пище: растении, грибе или чём-то ещё. Сократи их число, пока изменение не распространилось.',
       zh: '附近的森林蜘蛛變得異常凶猛，毒液也變了。我懷疑是牠們吃了某種植物、真菌或別的東西。趁這種變異擴散前，減少牠們的數量。',
@@ -919,7 +919,7 @@ export default {
       lt: 'Šilkas tarp akmenų'
     },
     offer: {
-      en: "There are stranger spiders near the ancient columns. Their bodies look almost woven, and their silk reacts to mixtures that should do nothing to it. I cannot decide whether the columns changed them or merely drew them there. Find the wood weavers and reduce their numbers.",
+      en: 'There are stranger spiders near the ancient columns. Their bodies look almost woven, and their silk reacts to mixtures that should do nothing to it. I cannot decide whether the columns changed them or merely drew them there. Find the wood weavers and reduce their numbers.',
       de: 'Bei den uralten Säulen leben seltsame Spinnen. Ihre Körper sehen fast geflochten aus, und ihre Seide reagiert auf Mischungen, die wirkungslos sein sollten. Ich weiß nicht, ob die Säulen sie verändert oder nur angelockt haben. Finde die Waldweber und dezimiere sie.',
       ru: 'У древних колонн обитают странные пауки. Их тела словно сотканы, а шёлк реагирует даже на безобидные смеси. Не знаю, изменили ли их колонны или просто притянули. Найди древесных ткачей и сократи их число.',
       zh: '古老石柱附近有更奇怪的蜘蛛。牠們的身體像織出來的，蛛絲還會對本不該起作用的藥劑產生反應。不知是石柱改變了牠們，還是吸引牠們來到這裡。找到林中織蛛，減少牠們的數量。',
@@ -972,7 +972,7 @@ export default {
       lt: 'Išalkę vorai'
     },
     offer: {
-      en: "Forest spiders have always lived beneath these trees, but they are hunting too openly and taking prey they once avoided. Something has disturbed the balance of the woods. I do not yet know what, so thin the brood while I look for the cause.",
+      en: 'Forest spiders have always lived beneath these trees, but they are hunting too openly and taking prey they once avoided. Something has disturbed the balance of the woods. I do not yet know what, so thin the brood while I look for the cause.',
       de: 'Waldspinnen lebten schon immer unter diesen Bäumen, doch nun jagen sie offen und reißen Beute, die sie früher mieden. Etwas hat das Gleichgewicht des Waldes gestört. Ich kenne die Ursache noch nicht. Dezimiere die Brut, während ich danach suche.',
       ru: 'Лесные пауки всегда жили под этими деревьями, но теперь охотятся слишком открыто и нападают даже на прежнюю неприкосновенную добычу. Равновесие леса нарушено. Пока я ищу причину, сократи их число.',
       zh: '森林蜘蛛一直住在樹下，可如今牠們公然捕獵，連過去不碰的獵物都不放過。森林的平衡被打亂了。我還不知道原因。趁我調查時，減少蛛群的數量。',
@@ -1025,7 +1025,7 @@ export default {
       lt: 'Keisti voratinkliai'
     },
     offer: {
-      en: "Wood weavers have gathered around the ancient columns. They resemble spiders, but they move as if they are following a pattern the forest cannot hear. I cannot tell whether they are sick, changed, or something that only looks natural. Clear some of them away from the stones.",
+      en: 'Wood weavers have gathered around the ancient columns. They resemble spiders, but they move as if they are following a pattern the forest cannot hear. I cannot tell whether they are sick, changed, or something that only looks natural. Clear some of them away from the stones.',
       de: 'Waldweber versammeln sich an den uralten Säulen. Sie sehen wie Spinnen aus, bewegen sich aber, als folgten sie einem Muster, das der Wald nicht hören kann. Ich weiß nicht, ob sie krank, verändert oder etwas ganz anderes sind. Vertreibe einige von den Steinen.',
       ru: 'Древесные ткачи собрались у древних колонн. Они похожи на пауков, но движутся словно по неслышному лесу зову. Не знаю, больны ли они, изменились или лишь притворяются обычными существами. Прогони часть их от камней.',
       zh: '林中織蛛聚集在古老石柱旁。牠們看似蜘蛛，卻像在遵循森林聽不見的節奏。我分不清牠們是病了、變異了，還是根本不是自然生物。把一部分趕離石柱。',
@@ -1061,7 +1061,7 @@ export default {
   },
   22: {
     title: {
-      en: "The Giant in the Web",
+      en: 'The Giant in the Web',
       de: "Die Riesenspinne im Netz",
       ru: "Гигантская паучиха в паутине",
       zh: "蛛網中的巨蛛",
@@ -1078,7 +1078,7 @@ export default {
       lt: 'Milžinė voratinklyje'
     },
     offer: {
-      en: "The wood weavers gather around Nopus Majorus, a spider far larger than the rest. Did she change their silk, or did she simply draw them here? Bring her down. Her remains may give us an answer.",
+      en: 'The wood weavers gather around Nopus Majorus, a spider far larger than the rest. Did she change their silk, or did she simply draw them here? Bring her down. Her remains may give us an answer.',
       de: "Die Waldweber scharen sich um Nopus Majorus. Sie ist viel größer als die anderen Spinnen. Hat sie ihre Seide verändert oder sie nur hierhergelockt? Töte sie. Ihre Überreste könnten uns eine Antwort geben.",
       ru: "Древесные ткачи собрались вокруг Nopus Majorus. Она гораздо крупнее остальных пауков. Изменила ли она их шёлк или лишь привлекла их сюда? Убей её. По останкам мы сможем найти ответ.",
       zh: "林中織蛛都聚在Nopus Majorus身邊。牠比其他蜘蛛大得多。是牠改變了牠們的蛛絲，還是只把牠們引到這裡？殺了牠。牠的遺骸也許能給我們答案。",
@@ -1095,7 +1095,7 @@ export default {
       lt: 'Audėjai Wood Weavers būriuojasi aplink Nopus Majorus - vorę, gerokai didesnę už kitus. Ar tai ji pakeitė jų šilką, ar tik juos čia privilioja? Nukauk ją. Jos palaikai gali duoti atsakymą.'
     },
     complete: {
-      en: "Nopus is gone. I'll study her remains and see what drew the weavers to her.",
+      en: 'Nopus is gone. I\'ll study her remains and see what drew the weavers to her.',
       de: "Nopus ist tot. Ich werde ihre Überreste untersuchen und herausfinden, was die Waldweber zu ihr zog.",
       ru: "Nopus больше нет. Я изучу её останки и выясню, что привлекло к ней ткачей.",
       zh: "Nopus死了。我會研究牠的遺骸，看看林中織蛛為何聚在牠身邊。",
@@ -1114,7 +1114,7 @@ export default {
   },
   23: {
     title: {
-      en: "Heart of the Web",
+      en: 'Heart of the Web',
       de: "Das Herz des Netzes",
       ru: "Сердце паутины",
       zh: "蛛網之心",
@@ -1131,7 +1131,7 @@ export default {
       lt: 'Voratinklio širdis'
     },
     offer: {
-      en: "Nopus Majorus sits among the weavers by the old columns. The smaller spiders keep close to her, and the woods around them have gone quiet. Bring her down before they spread deeper into the forest.",
+      en: 'Nopus Majorus sits among the weavers by the old columns. The smaller spiders keep close to her, and the woods around them have gone quiet. Bring her down before they spread deeper into the forest.',
       de: "Nopus Majorus sitzt bei den Waldwebern an den alten Säulen. Die kleineren Spinnen bleiben dicht bei ihr, und der Wald ringsum ist still geworden. Töte sie, bevor sich die Spinnen weiter im Wald ausbreiten.",
       ru: "Nopus Majorus сидит среди ткачей у старых колонн. Мелкие пауки держатся рядом с ней, а лес вокруг затих. Убей её, пока пауки не расползлись дальше.",
       zh: "Nopus Majorus待在古老石柱旁的織蛛群中。小蜘蛛緊挨著牠，周圍的森林也安靜了下來。趁蛛群擴散前殺了牠。",
@@ -1148,7 +1148,7 @@ export default {
       lt: 'Nopus Majorus tūno tarp audėjų prie senųjų kolonų. Mažesni vorai laikosi arti jos, o aplinkiniuose miškuose stojo tyla. Nukauk ją, kol vorai neišplito giliau į mišką.'
     },
     complete: {
-      en: "With Nopus gone, the spiders may scatter. I'll watch for life to return to the woods.",
+      en: 'With Nopus gone, the spiders may scatter. I\'ll watch for life to return to the woods.',
       de: "Ohne Nopus zerstreuen sich die Spinnen vielleicht. Ich werde beobachten, ob wieder Leben in den Wald zurückkehrt.",
       ru: "Без Nopus пауки, возможно, разбредутся. Я посмотрю, вернётся ли жизнь в лес.",
       zh: "Nopus不在了，蜘蛛或許會散去。我會留意森林是否恢復生機。",
