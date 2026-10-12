@@ -14,7 +14,8 @@ export default {
       vi: 'Dọn sạch lăng mộ',
       hu: 'A sír megtisztítása',
       cs: 'Vyčištění hrobky',
-      pl: 'Oczyszczenie grobowca'
+      pl: 'Oczyszczenie grobowca',
+      lt: 'Kapavietės valymas'
     },
     offer: {
       en: "These grubs keep on messing with the tomb. She'll never be at peace like this. Please, will you help me get rid of some of these grubs?",
@@ -30,7 +31,8 @@ export default {
       vi: 'Lũ sâu non lại quấy phá lăng mộ. Cứ thế này, cô ấy sẽ không thể yên nghỉ. Giúp tôi diệt bớt chúng nhé?',
       hu: 'Ezek a lárvák folyton feldúlják a sírt. Így sosem lelhet békére. Segítesz megszabadulni néhánytól?',
       cs: 'Ty larvy pořád narušují hrobku. Takhle nikdy nenajde klid. Pomůžeš mi jich pár vyhnat?',
-      pl: 'Te larwy wciąż zakłócają spokój grobowca. Przez nie nigdy nie zazna spokoju. Pomożesz mi pozbyć się kilku?'
+      pl: 'Te larwy wciąż zakłócają spokój grobowca. Przez nie nigdy nie zazna spokoju. Pomożesz mi pozbyć się kilku?',
+      lt: 'Tos lervos vis nerimsta prie kapo. Taip ji niekada neatgaus ramybės. Prašau, gal padėtum man atsikratyti bent dalies šių lervų?'
     },
     complete: {
       en: 'Praise be to Areo. She may finally rest in peace.',
@@ -46,7 +48,8 @@ export default {
       vi: 'Tạ ơn Areo. Cuối cùng cô ấy cũng được yên nghỉ.',
       hu: 'Hála Areónak. Végre békében nyugodhat.',
       cs: 'Sláva Areovi. Konečně může odpočívat v pokoji.',
-      pl: 'Chwała Areo. Wreszcie może spoczywać w pokoju.'
+      pl: 'Chwała Areo. Wreszcie może spoczywać w pokoju.',
+      lt: 'Šlovė Areo. Pagaliau ji galės ilsėtis ramybėje.'
     }
   },
   3: {
@@ -64,7 +67,8 @@ export default {
       vi: 'Ngư dân Konrad',
       hu: 'Konrad, a halász',
       cs: 'Rybář Konrad',
-      pl: 'Rybak Konrad'
+      pl: 'Rybak Konrad',
+      lt: 'Žvejys Konrad'
     },
     offer: {
       en: 'I hear Fisherman Konrad is running low on bait. Will you bring the grubs to him?',
@@ -80,7 +84,8 @@ export default {
       vi: 'Nghe nói ngư dân Konrad sắp hết mồi câu. Bạn mang lũ sâu non này cho ông ấy được không?',
       hu: 'Úgy hallom, Konrad halásznak fogytán a csalija. Elvinnéd neki a lárvákat?',
       cs: 'Slyšel jsem, že rybáři Konradovi dochází návnada. Doneseš mu ty larvy?',
-      pl: 'Słyszałem, że rybakowi Konradowi kończy się przynęta. Zaniesiesz mu te larwy?'
+      pl: 'Słyszałem, że rybakowi Konradowi kończy się przynęta. Zaniesiesz mu te larwy?',
+      lt: 'Girdėjau kad žvejui Konrad baigiasi masalas. Gal nuneštum jam lervų?'
     },
     complete: {
       en: 'These grubs will make fine bait. Thank you.',
@@ -96,7 +101,8 @@ export default {
       vi: 'Lũ sâu này làm mồi câu rất tốt. Cảm ơn bạn.',
       hu: 'Ezekből jó csali lesz. Köszönöm.',
       cs: 'Tyhle larvy budou skvělá návnada. Děkuji.',
-      pl: 'Z tych larw będzie dobra przynęta. Dziękuję.'
+      pl: 'Z tych larw będzie dobra przynęta. Dziękuję.',
+      lt: 'Iš šitų lervų išeis puikus masalas. Ačiū.'
     }
   },
   4: {
@@ -114,7 +120,8 @@ export default {
       vi: 'Lũ cáo phá rối',
       hu: 'Rókabaj',
       cs: 'Potíže s liškami',
-      pl: 'Kłopoty z lisami'
+      pl: 'Kłopoty z lisami',
+      lt: 'Bėdos su lapėmis'
     },
     offer: {
       en: "It's been hours, and I can't seem to catch anything with these foxes causing trouble! Will you help me?",
@@ -130,7 +137,8 @@ export default {
       vi: 'Tôi câu cá mấy giờ rồi mà lũ cáo cứ phá, chẳng bắt được gì! Giúp tôi được không?',
       hu: 'Órák óta itt vagyok, de a rókák miatt semmit sem tudok fogni! Segítesz?',
       cs: 'Sedím tu už celé hodiny, ale kvůli těm liškám nic nechytím! Pomůžeš mi?',
-      pl: 'Siedzę tu od godzin, ale przez te lisy nic nie mogę złowić! Pomożesz mi?'
+      pl: 'Siedzę tu od godzin, ale przez te lisy nic nie mogę złowić! Pomożesz mi?',
+      lt: 'Jau kelias valandas sėdžiu ir nieko nepagaunu, nes tos lapės nuolat kelia sąmyšį! Padėsi man?'
     },
     complete: {
       en: 'That should keep them away from my fishing spot. Thank you.',
@@ -146,7 +154,8 @@ export default {
       vi: 'Giờ chúng sẽ tránh xa chỗ câu của tôi. Cảm ơn bạn.',
       hu: 'Ez távol tartja őket a horgászhelyemtől. Köszönöm.',
       cs: 'To by je mělo odehnat od mého rybářského místa. Děkuji.',
-      pl: 'To powinno trzymać je z dala od mojego łowiska. Dziękuję.'
+      pl: 'To powinno trzymać je z dala od mojego łowiska. Dziękuję.',
+      lt: 'Dabar jos laikysis atokiau nuo mano žvejybos vietos. Ačiū.'
     }
   },
   5: {
@@ -164,7 +173,8 @@ export default {
       vi: 'Bướm đêm tràn lan',
       hu: 'Molylepke-invázió',
       cs: 'Zamoření můrami',
-      pl: 'Plaga ciem'
+      pl: 'Plaga ciem',
+      lt: 'Kandžių antplūdis'
     },
     offer: {
       en: 'The giant moth population nearby has grown out of control. They swarm my lanterns and make it impossible to fish after dusk. Will you force them back?',
@@ -180,7 +190,8 @@ export default {
       vi: 'Bướm đêm khổng lồ gần đây nhiều quá. Chúng bu kín đèn lồng, khiến tôi không thể câu cá sau hoàng hôn. Đuổi chúng đi giúp tôi nhé?',
       hu: 'Túl sok az óriás molylepke errefelé. A lámpásaim körül nyüzsögnek, és napnyugta után lehetetlen horgászni. Elűznéd őket?',
       cs: 'Obří můry se tu přemnožily. Rojí se kolem mých luceren a po setmění nemohu rybařit. Zaženeš je?',
-      pl: 'W pobliżu namnożyło się zbyt wiele olbrzymich ciem. Roją się przy moich latarniach i nie mogę łowić po zmroku. Przepędzisz je?'
+      pl: 'W pobliżu namnożyło się zbyt wiele olbrzymich ciem. Roją się przy moich latarniach i nie mogę łowić po zmroku. Przepędzisz je?',
+      lt: 'Milžiniškų drugių aplink priviso tiek, kad jų nebesuvaldysi. Jie spiečiasi aplink mano žibintus ir sutemus tampa nebeįmanoma žvejoti. Gal galėtum juos išvaikyti?'
     },
     complete: {
       en: 'The road should be safe again. Thank you.',
@@ -196,7 +207,8 @@ export default {
       vi: 'Con đường lại an toàn rồi. Cảm ơn bạn.',
       hu: 'Az út újra biztonságos. Köszönöm.',
       cs: 'Cesta by měla být zase bezpečná. Děkuji.',
-      pl: 'Droga powinna znów być bezpieczna. Dziękuję.'
+      pl: 'Droga powinna znów być bezpieczna. Dziękuję.',
+      lt: 'Kelias vėl turėtų būti saugus. Ačiū.'
     }
   },
   6: {
@@ -214,7 +226,8 @@ export default {
       vi: 'Rắc rối ở chuồng ngựa',
       hu: 'Baj az istállóban',
       cs: 'Potíže ve stáji',
-      pl: 'Kłopoty w stajni'
+      pl: 'Kłopoty w stajni',
+      lt: 'Bėda arklidėje'
     },
     offer: {
       en: 'Those grubs have burrowed beneath my stable again. The small ones spoil the feed, and the big ones frighten the horses half to death. Will you clear them out before they bring the whole floor down?',
@@ -230,7 +243,8 @@ export default {
       vi: 'Lũ sâu non lại đào hang dưới chuồng ngựa. Con nhỏ phá thức ăn, con lớn khiến ngựa hoảng sợ. Dọn chúng đi trước khi sàn sập nhé?',
       hu: 'A lárvák megint az istállóm alá fúrták magukat. A kicsik tönkreteszik a takarmányt, a nagyok halálra rémítik a lovakat. Kitisztítod őket, mielőtt beszakad a padló?',
       cs: 'Ty larvy se mi zase zavrtaly pod stáj. Malé kazí krmivo a velké děsí koně k smrti. Vyženeš je, než se propadne celá podlaha?',
-      pl: 'Larwy znów zagnieździły się pod moją stajnią. Małe psują paszę, a duże śmiertelnie straszą konie. Usuniesz je, zanim cała podłoga się zapadnie?'
+      pl: 'Larwy znów zagnieździły się pod moją stajnią. Małe psują paszę, a duże śmiertelnie straszą konie. Usuniesz je, zanim cała podłoga się zapadnie?',
+      lt: 'Tos lervos vėl įsirausė po mano arklide. Mažosios gadina pašarą, o didžiosios mirtinai gąsdina arklius. Gal išvalytum jas, kol neįgriuvo visos grindys?'
     },
     complete: {
       en: 'Quiet at last. Perhaps the horses will actually sleep tonight. You have my thanks.',
@@ -246,7 +260,8 @@ export default {
       vi: 'Cuối cùng cũng yên tĩnh. Có lẽ tối nay ngựa sẽ ngủ ngon. Cảm ơn bạn.',
       hu: 'Végre csend. Talán a lovak is tudnak aludni ma éjjel. Köszönöm.',
       cs: 'Konečně klid. Snad se dnes v noci vyspí i koně. Děkuji ti.',
-      pl: 'Nareszcie cisza. Może konie dziś w nocy się wyśpią. Dziękuję.'
+      pl: 'Nareszcie cisza. Może konie dziś w nocy się wyśpią. Dziękuję.',
+      lt: 'Pagaliau tyla. Gal šiąnakt arkliai iš tiesų išsimiegos. Esu tau dėkingas.'
     }
   },
   7: {
@@ -264,7 +279,8 @@ export default {
       vi: 'Chuyến hàng tiếp theo',
       hu: 'A következő szállítmány',
       cs: 'Další zásilka',
-      pl: 'Następna dostawa'
+      pl: 'Następna dostawa',
+      lt: 'Kita siunta'
     },
     offer: {
       en: "While you were clearing the stable, a Vanguard requisition arrived. Quartermaster Isabel is waiting on feed for the army's pack animals. Tell her the stable is usable again and I can prepare the next shipment.",
@@ -280,7 +296,8 @@ export default {
       vi: 'Khi bạn dọn chuồng ngựa, Vanguard gửi lệnh trưng dụng. Quân nhu Isabel đang chờ thức ăn cho thú thồ của quân đội. Hãy báo với cô ấy chuồng ngựa đã dùng được để tôi chuẩn bị chuyến hàng mới.',
       hu: 'Amíg az istállót tisztítottad, megérkezett a Vanguard megrendelése. Isabel szállásmester takarmányt vár a sereg teherhordó állatainak. Mondd el neki, hogy az istálló újra használható, és előkészíthetem a következő szállítmányt.',
       cs: 'Zatímco jsi čistil stáj, dorazila žádost od Vanguard. Ubytovatelka Isabel čeká na krmivo pro soumary armády. Řekni jí, že stáj je opět použitelná a že mohu připravit další zásilku.',
-      pl: 'Gdy oczyszczałeś stajnię, nadeszło zamówienie od Vanguard. Kwatermistrz Isabel czeka na paszę dla zwierząt jucznych armii. Powiedz jej, że stajnia znów nadaje się do użytku i mogę przygotować następną dostawę.'
+      pl: 'Gdy oczyszczałeś stajnię, nadeszło zamówienie od Vanguard. Kwatermistrz Isabel czeka na paszę dla zwierząt jucznych armii. Powiedz jej, że stajnia znów nadaje się do użytku i mogę przygotować następną dostawę.',
+      lt: 'Kol valei arklidę, atėjo Vanguard užsakymas. Quartermaster Isabel laukia pašaro kariuomenės nešuliniams gyvuliams. Pasakyk jai kad arklidė vėl tvarkinga ir kad galiu ruošti kitą siuntą.'
     },
     complete: {
       en: "Good. I'll send for Eckhardt's shipment before the day is out.",
@@ -296,7 +313,8 @@ export default {
       vi: 'Tốt. Tôi sẽ gửi hàng của Eckhardt trước khi hết ngày.',
       hu: 'Jó. Még ma elküldöm Eckhardt szállítmányát.',
       cs: 'Dobře. Eckhardtovu zásilku odešlu ještě dnes.',
-      pl: 'Dobrze. Wyślę dostawę dla Eckhardta jeszcze dziś.'
+      pl: 'Dobrze. Wyślę dostawę dla Eckhardta jeszcze dziś.',
+      lt: 'Puiku. Liepsiu paimti Eckhardt\'o siuntą kol dar nesutemo.'
     }
   },
   8: {
@@ -314,7 +332,8 @@ export default {
       vi: 'Cáo cướp lương',
       hu: 'Készletrablók',
       cs: 'Zloději zásob',
-      pl: 'Rabusie zapasów'
+      pl: 'Rabusie zapasów',
+      lt: 'Atsargų plėšikės'
     },
     offer: {
       en: 'Foxes have learned where we keep the dried meat. They tear into the sacks before my workers can load them, and the larger ones no longer run when approached. Will you drive them away?',
@@ -330,7 +349,8 @@ export default {
       vi: 'Lũ cáo đã tìm ra kho thịt khô. Chúng xé bao trước khi công nhân chất hàng, còn lũ lớn chẳng sợ người nữa. Đuổi chúng đi giúp tôi nhé?',
       hu: 'A rókák megtalálták a szárított húst. Feltépik a zsákokat, mielőtt a munkásaim felrakhatnák őket, a nagyobbak pedig már el sem futnak. Elűznéd őket?',
       cs: 'Lišky zjistily, kde skladujeme sušené maso. Trhají pytle dřív, než je mí lidé naloží, a ty větší už před námi ani neutíkají. Zaženeš je?',
-      pl: 'Lisy odkryły, gdzie trzymamy suszone mięso. Rozrywają worki, zanim moi ludzie zdążą je załadować, a te większe nawet już nie uciekają. Przepędzisz je?'
+      pl: 'Lisy odkryły, gdzie trzymamy suszone mięso. Rozrywają worki, zanim moi ludzie zdążą je załadować, a te większe nawet już nie uciekają. Przepędzisz je?',
+      lt: 'Lapės išsiaiškino kur laikome džiovintą mėsą. Jos perplėšia maišus anksčiau nei mano darbininkai spėja juos pakrauti, o didesnės lapės nebebėga net prisiartinus. Gal išvaikytum jas?'
     },
     complete: {
       en: 'The remaining stores are intact. That is one less shortage for the patrols to endure.',
@@ -346,7 +366,8 @@ export default {
       vi: 'Số lương thực còn lại đã an toàn. Đội tuần tra bớt được một nỗi lo thiếu ăn.',
       hu: 'A többi készlet sértetlen. Egy gonddal kevesebb jut az őrjáratoknak.',
       cs: 'Zbylé zásoby jsou v pořádku. Hlídky budou mít o jeden nedostatek méně.',
-      pl: 'Pozostałe zapasy są całe. Patrole będą miały jeden niedobór mniej.'
+      pl: 'Pozostałe zapasy są całe. Patrole będą miały jeden niedobór mniej.',
+      lt: 'Likusios atsargos nepaliestos. Patruliams bus vienu rūpesčiu mažiau.'
     }
   },
   9: {
@@ -364,7 +385,8 @@ export default {
       vi: 'Cánh bướm trên bãi hàng',
       hu: 'Szárnyak a raktár felett',
       cs: 'Křídla nad skladem',
-      pl: 'Skrzydła nad magazynem'
+      pl: 'Skrzydła nad magazynem',
+      lt: 'Sparnai virš sandėlių'
     },
     offer: {
       en: 'Giant moths are nesting in the stockyard awnings. Their dust gets into the food and bandages, and the workers refuse to load carts beneath them. Will you clear out the swarm?',
@@ -380,7 +402,8 @@ export default {
       vi: 'Bướm đêm khổng lồ làm tổ dưới mái che bãi hàng. Bụi cánh rơi vào thức ăn và băng gạc, công nhân không dám chất xe. Dọn sạch chúng nhé?',
       hu: 'Óriás molylepkék fészkelnek a raktár ponyvái alatt. A poruk az ételbe és a kötszerekbe jut, a munkások pedig nem merik ott megrakni a szekereket. Megszabadítasz minket a rajtól?',
       cs: 'Obří můry hnízdí pod přístřešky skladu. Jejich prach padá do jídla a obvazů a dělníci pod nimi odmítají nakládat vozy. Zbavíš nás toho roje?',
-      pl: 'Olbrzymie ćmy gniazdują pod zadaszeniami magazynu. Ich pył dostaje się do jedzenia i bandaży, a robotnicy nie chcą pod nimi ładować wozów. Usuniesz rój?'
+      pl: 'Olbrzymie ćmy gniazdują pod zadaszeniami magazynu. Ich pył dostaje się do jedzenia i bandaży, a robotnicy nie chcą pod nimi ładować wozów. Usuniesz rój?',
+      lt: 'Milžiniški drugiai susisuko lizdus po sandėlių kiemo stogeliais. Jų dulkės patenka į maistą ir tvarsčius, o darbininkai atsisako po jais krauti vežimus. Gal išvaikytum spiečių?'
     },
     complete: {
       en: 'The stockyard is usable again. The next patrol will leave properly supplied because of you.',
@@ -396,7 +419,8 @@ export default {
       vi: 'Bãi hàng lại dùng được. Nhờ bạn, đội tuần tra tới sẽ có đủ tiếp tế.',
       hu: 'A raktár újra használható. Neked köszönhetően a következő őrjárat jól felszerelve indulhat.',
       cs: 'Sklad je znovu použitelný. Díky tobě vyrazí další hlídka dobře zásobená.',
-      pl: 'Magazyn znów nadaje się do użytku. Dzięki tobie następny patrol wyruszy dobrze zaopatrzony.'
+      pl: 'Magazyn znów nadaje się do użytku. Dzięki tobie następny patrol wyruszy dobrze zaopatrzony.',
+      lt: 'Sandėlių kiemu vėl galima naudotis. Tavo dėka kitas patrulis iškeliaus jau tinkamai aprūpintas.'
     }
   },
   10: {
@@ -414,7 +438,8 @@ export default {
       vi: 'Không chỗ cắm trại',
       hu: 'Nincs hol táborozni',
       cs: 'Není kde tábořit',
-      pl: 'Nie ma gdzie obozować'
+      pl: 'Nie ma gdzie obozować',
+      lt: 'Nėra kur stovyklauti'
     },
     offer: {
       en: "I used to camp outside the city whenever I could, but bandits have taken over the grounds. I won't risk going back while they're there. Will you clear them out so I can leave these walls again?",
@@ -430,7 +455,8 @@ export default {
       vi: 'Trước đây tôi thường cắm trại ngoài thành, nhưng bọn cướp đã chiếm chỗ ấy. Chúng còn đó thì tôi không dám quay lại. Giúp tôi đuổi chúng để được ra ngoài thành nhé?',
       hu: 'Régen gyakran táboroztam a városon kívül, de banditák foglalták el a helyet. Amíg ott vannak, nem merek visszamenni. Elűznéd őket, hogy újra elhagyhassam a falakat?',
       cs: 'Dřív jsem rád tábořil za městem, ale tábořiště obsadili bandité. Dokud tam jsou, neodvážím se vrátit. Vyženeš je, abych mohl zase za hradby?',
-      pl: 'Kiedyś często obozowałem poza miastem, ale bandyci zajęli to miejsce. Nie wrócę tam, dopóki są w pobliżu. Przepędzisz ich, żebym mógł znów wyjść za mury?'
+      pl: 'Kiedyś często obozowałem poza miastem, ale bandyci zajęli to miejsce. Nie wrócę tam, dopóki są w pobliżu. Przepędzisz ich, żebym mógł znów wyjść za mury?',
+      lt: 'Kai tik galėdavau, stovyklaudavau už miesto, bet tas vietas užėmė banditai. Kol jie ten, negrįšiu. Gal išvaikytum juos, kad vėl galėčiau ištrūkti už šių sienų?'
     },
     complete: {
       en: 'Maybe I can finally spend a night beneath the stars again. Thank you.',
@@ -446,7 +472,8 @@ export default {
       vi: 'Có lẽ cuối cùng tôi lại được ngủ dưới trời sao. Cảm ơn bạn.',
       hu: 'Talán végre újra a csillagok alatt tölthetek egy éjszakát. Köszönöm.',
       cs: 'Možná konečně zase strávím noc pod hvězdami. Děkuji.',
-      pl: 'Może wreszcie znów spędzę noc pod gwiazdami. Dziękuję.'
+      pl: 'Może wreszcie znów spędzę noc pod gwiazdami. Dziękuję.',
+      lt: 'Gal pagaliau vėl praleisiu naktį po žvaigždėmis. Ačiū.'
     }
   },
   11: {
@@ -464,7 +491,8 @@ export default {
       vi: 'Con đường phía trước',
       hu: 'Az előttünk álló út',
       cs: 'Cesta vpřed',
-      pl: 'Droga przed nami'
+      pl: 'Droga przed nami',
+      lt: 'Kelias pirmyn'
     },
     offer: {
       en: "I've lingered here long enough. I want to travel onward and see what the future holds at Headless Landing, but the bandits threaten me whenever I try to pass through. Will you clear a path for me?",
@@ -480,7 +508,8 @@ export default {
       vi: 'Tôi ở đây đủ lâu rồi. Tôi muốn đi tiếp tới Headless Landing xem tương lai ra sao, nhưng bọn cướp chặn đường. Mở đường giúp tôi nhé?',
       hu: 'Elég sokáig maradtam itt. Tovább akarok utazni Headless Landing felé, de a banditák megfenyegetnek, valahányszor át akarok kelni. Szabaddá tennéd az utat?',
       cs: 'Zdržel jsem se tu dost dlouho. Chci pokračovat do Headless Landing a zjistit, co mě čeká, ale bandité mi vyhrožují, kdykoli se pokusím projít. Uvolníš mi cestu?',
-      pl: 'Zasiedziałem się tu. Chcę ruszyć dalej, do Headless Landing, i zobaczyć, co przyniesie przyszłość, ale bandyci grożą mi za każdym razem, gdy próbuję przejść. Oczyścisz mi drogę?'
+      pl: 'Zasiedziałem się tu. Chcę ruszyć dalej, do Headless Landing, i zobaczyć, co przyniesie przyszłość, ale bandyci grożą mi za każdym razem, gdy próbuję przejść. Oczyścisz mi drogę?',
+      lt: 'Per ilgai čia užsibuvau. Noriu keliauti toliau ir pamatyti kas manęs laukia Headless Landing, tačiau kaskart kai bandau praeiti, man grasina banditai. Gal praskintum man kelią?'
     },
     complete: {
       en: 'At last, the road ahead is open. It is time I stopped looking back and moved on.',
@@ -496,7 +525,8 @@ export default {
       vi: 'Cuối cùng đường cũng thông. Đã đến lúc thôi ngoái lại và bước tiếp.',
       hu: 'Végre szabad az út. Ideje magam mögött hagyni a múltat és továbbindulni.',
       cs: 'Konečně je cesta volná. Je čas nechat minulost za sebou a jít dál.',
-      pl: 'Wreszcie droga jest wolna. Czas zostawić przeszłość za sobą i ruszyć dalej.'
+      pl: 'Wreszcie droga jest wolna. Czas zostawić przeszłość za sobą i ruszyć dalej.',
+      lt: 'Pagaliau kelias laisvas. Laikas liautis žvalgytis atgal ir judėti pirmyn.'
     }
   },
   12: {
@@ -514,7 +544,8 @@ export default {
       vi: 'Người cắm trại Liam',
       hu: 'Liam, a táborozó',
       cs: 'Táborník Liam',
-      pl: 'Obozowicz Liam'
+      pl: 'Obozowicz Liam',
+      lt: 'Stovyklautojas Liam'
     },
     offer: {
       en: 'The stockyard is clear, but patrols report that bandits have seized a campsite outside the city. Camper Liam knows those grounds better than anyone. Find him and see what help he needs.',
@@ -530,7 +561,8 @@ export default {
       vi: 'Bãi hàng đã sạch, nhưng đội tuần tra báo bọn cướp chiếm một khu cắm trại ngoài thành. Liam hiểu nơi đó hơn ai hết. Tìm anh ấy xem cần giúp gì.',
       hu: 'A raktár tiszta, de az őrjáratok szerint banditák foglaltak el egy táborhelyet a városon kívül. Liam mindenkinél jobban ismeri azt a helyet. Keresd meg, és tudd meg, miben segíthetsz neki.',
       cs: 'Sklad je vyčištěný, ale hlídky hlásí, že bandité obsadili tábořiště za městem. Liam to místo zná lépe než kdokoli jiný. Najdi ho a zjisti, jakou pomoc potřebuje.',
-      pl: 'Magazyn jest oczyszczony, ale patrole donoszą, że bandyci zajęli obozowisko za miastem. Liam zna to miejsce lepiej niż ktokolwiek. Znajdź go i zobacz, jakiej pomocy potrzebuje.'
+      pl: 'Magazyn jest oczyszczony, ale patrole donoszą, że bandyci zajęli obozowisko za miastem. Liam zna to miejsce lepiej niż ktokolwiek. Znajdź go i zobacz, jakiej pomocy potrzebuje.',
+      lt: 'Sandėlių kiemas išvalytas, bet patruliai praneša kad banditai užėmė stovyklavietę už miesto. Stovyklautojas Liam tas vietas pažįsta geriau už bet ką. Surask jį ir sužinok kuo galėtum padėti.'
     },
     complete: {
       en: 'Isabel sent you? Good. I could use some help reclaiming my campsite.',
@@ -546,7 +578,8 @@ export default {
       vi: 'Isabel cử bạn tới à? Tốt quá. Giúp tôi giành lại chỗ cắm trại nhé.',
       hu: 'Isabel küldött? Jó. Segítségre van szükségem, hogy visszaszerezzem a táborhelyemet.',
       cs: 'Poslala tě Isabel? Dobře. Hodila by se mi pomoc se získáním tábořiště zpět.',
-      pl: 'Przysłała cię Isabel? Dobrze. Przyda mi się pomoc w odzyskaniu obozowiska.'
+      pl: 'Przysłała cię Isabel? Dobrze. Przyda mi się pomoc w odzyskaniu obozowiska.',
+      lt: 'Tave atsiuntė Isabel? Puiku. Man praverstų pagalba susigrąžinant savo stovyklavietę.'
     }
   },
   13: {
@@ -564,7 +597,8 @@ export default {
       vi: 'Lữ khách Alpheos',
       hu: 'Alpheos, az utazó',
       cs: 'Poutník Alpheos',
-      pl: 'Podróżnik Alpheos'
+      pl: 'Podróżnik Alpheos',
+      lt: 'Keliautojas Alpheos'
     },
     offer: {
       en: 'The road is safer now, but bandits have taken over a camp nearby. Traveler Alpheos has been watching their movements. Find him and see what he knows.',
@@ -580,7 +614,8 @@ export default {
       vi: 'Con đường đã an toàn hơn, nhưng bọn cướp chiếm một trại gần đây. Lữ khách Alpheos đã theo dõi chúng. Hãy tìm anh ấy và hỏi xem biết được gì.',
       hu: 'Az út biztonságosabb, de a banditák elfoglaltak egy közeli tábort. Alpheos figyelte a mozgásukat. Keresd meg, és kérdezd meg, mit tud.',
       cs: 'Cesta je teď bezpečnější, ale bandité obsadili nedaleký tábor. Poutník Alpheos sledoval jejich pohyb. Najdi ho a zjisti, co ví.',
-      pl: 'Droga jest teraz bezpieczniejsza, ale bandyci zajęli pobliski obóz. Podróżnik Alpheos obserwował ich ruchy. Znajdź go i zapytaj, co wie.'
+      pl: 'Droga jest teraz bezpieczniejsza, ale bandyci zajęli pobliski obóz. Podróżnik Alpheos obserwował ich ruchy. Znajdź go i zapytaj, co wie.',
+      lt: 'Kelias dabar saugesnis, bet netoliese esančią stovyklą užėmė banditai. Keliautojas Alpheos sekė jų judėjimą. Surask jį ir išsiaiškink ką jis žino.'
     },
     complete: {
       en: 'Konrad sent you? Then perhaps you can help me clear the road ahead.',
@@ -596,7 +631,8 @@ export default {
       vi: 'Konrad cử bạn tới à? Vậy giúp tôi dọn đường phía trước nhé.',
       hu: 'Konrad küldött? Akkor talán segíthetsz megtisztítani az előttünk álló utat.',
       cs: 'Poslal tě Konrad? Pak mi možná pomůžeš uvolnit cestu.',
-      pl: 'Przysłał cię Konrad? Może więc pomożesz mi oczyścić drogę.'
+      pl: 'Przysłał cię Konrad? Może więc pomożesz mi oczyścić drogę.',
+      lt: 'Tave atsiuntė Konrad? Tuomet gal padėsi man išvalyti kelią?'
     }
   },
   14: {
@@ -614,7 +650,8 @@ export default {
       vi: 'Nhà giả kim Michael',
       hu: 'Michael, az alkimista',
       cs: 'Alchymista Michael',
-      pl: 'Alchemik Michael'
+      pl: 'Alchemik Michael',
+      lt: 'Alchemikas Michael'
     },
     offer: {
       en: 'With the campsite safe again, there is someone else nearby who may need help. Alchemist Michael gathers ingredients in Guardstone Forest. Find him and see how he is faring.',
@@ -630,7 +667,8 @@ export default {
       vi: 'Khu cắm trại lại an toàn, nhưng gần đây còn người có thể cần giúp. Nhà giả kim Michael thu thập nguyên liệu trong Guardstone Forest. Hãy tìm xem anh ấy ra sao.',
       hu: 'Most, hogy a táborhely biztonságos, másnak is szüksége lehet segítségre a közelben. Michael alkimista Guardstone Forest erdejében gyűjt alapanyagokat. Keresd meg, és nézd meg, hogy boldogul.',
       cs: 'Tábořiště je opět bezpečné, ale někdo další poblíž možná potřebuje pomoc. Alchymista Michael sbírá přísady v Guardstone Forest. Najdi ho a zjisti, jak se mu daří.',
-      pl: 'Obozowisko znów jest bezpieczne, ale ktoś inny w pobliżu może potrzebować pomocy. Alchemik Michael zbiera składniki w Guardstone Forest. Znajdź go i sprawdź, jak sobie radzi.'
+      pl: 'Obozowisko znów jest bezpieczne, ale ktoś inny w pobliżu może potrzebować pomocy. Alchemik Michael zbiera składniki w Guardstone Forest. Znajdź go i sprawdź, jak sobie radzi.',
+      lt: 'Stovyklavietė vėl saugi, bet netoliese yra dar kai kas, kam gali prireikti pagalbos. Alchemikas Michael renka ingredientus Guardstone Forest. Surask jį ir pasiteirauk kaip jam sekasi.'
     },
     complete: {
       en: 'Liam sent you? Your timing is fortunate. The hogs here have made gathering ingredients nearly impossible.',
@@ -646,7 +684,8 @@ export default {
       vi: 'Liam cử bạn tới à? Đúng lúc lắm. Lũ lợn rừng khiến tôi gần như không thể kiếm nguyên liệu.',
       hu: 'Liam küldött? Épp jókor jöttél. A vaddisznók miatt alig tudok alapanyagokat gyűjteni.',
       cs: 'Poslal tě Liam? Přicházíš právě včas. Kvůli divočákům tu téměř nemohu sbírat přísady.',
-      pl: 'Przysłał cię Liam? W samą porę. Przez dziki niemal nie mogę zbierać składników.'
+      pl: 'Przysłał cię Liam? W samą porę. Przez dziki niemal nie mogę zbierać składników.',
+      lt: 'Tave atsiuntė Liam? Atvykai pačiu laiku. Dėl čionykščių šernų rinkti ingredientus beveik neįmanoma.'
     }
   },
   15: {
@@ -664,7 +703,8 @@ export default {
       vi: 'Nguyên liệu bị giẫm nát',
       hu: 'Eltaposott alapanyagok',
       cs: 'Pošlapané přísady',
-      pl: 'Zdeptane składniki'
+      pl: 'Zdeptane składniki',
+      lt: 'Sutrypti ingredientai'
     },
     offer: {
       en: "I came to Guardstone Forest to gather mushrooms and herbs for my potions, but I don't know these woods well. The hogs keep charging me before I can collect anything. Will you thin their numbers?",
@@ -680,7 +720,8 @@ export default {
       vi: 'Tôi tới Guardstone Forest hái nấm và thảo dược làm thuốc, nhưng chưa quen khu rừng. Lợn rừng cứ xông tới trước khi tôi hái được gì. Giúp tôi giảm bớt chúng nhé?',
       hu: 'Guardstone Forest erdejébe jöttem gombát és gyógynövényeket gyűjteni a főzeteimhez, de nem ismerem jól az erdőt. A vaddisznók rám rontanak, mielőtt bármit összeszedhetnék. Megritkítanád őket?',
       cs: 'Přišel jsem do Guardstone Forest sbírat houby a byliny do lektvarů, ale zdejší les dobře neznám. Divočáci na mě útočí dřív, než něco seberu. Zmenšíš jejich počet?',
-      pl: 'Przybyłem do Guardstone Forest po grzyby i zioła do eliksirów, ale słabo znam ten las. Dziki atakują mnie, zanim zdążę cokolwiek zebrać. Zmniejszysz ich liczbę?'
+      pl: 'Przybyłem do Guardstone Forest po grzyby i zioła do eliksirów, ale słabo znam ten las. Dziki atakują mnie, zanim zdążę cokolwiek zebrać. Zmniejszysz ich liczbę?',
+      lt: 'Atėjau į Guardstone Forest rinkti grybų ir žolelių savo eliksyrams, bet šių miškų gerai nepažįstu. Šernai vis puola net nespėjus nieko surinkti. Gal išretintum jų gretas?'
     },
     complete: {
       en: 'That should give me enough room to gather what I need. My next batch of potions is thanks to you.',
@@ -696,7 +737,8 @@ export default {
       vi: 'Giờ tôi có thể thu thập đủ nguyên liệu. Mẻ thuốc tới là nhờ bạn.',
       hu: 'Így már összegyűjthetem, amire szükségem van. A következő adag főzetet neked köszönhetem.',
       cs: 'Teď mám dost prostoru nasbírat, co potřebuji. Za další várku lektvarů vděčím tobě.',
-      pl: 'Teraz mogę zebrać to, czego potrzebuję. Następną partię eliksirów zawdzięczam tobie.'
+      pl: 'Teraz mogę zebrać to, czego potrzebuję. Następną partię eliksirów zawdzięczam tobie.',
+      lt: 'Dabar galėsiu ramiai susirinkti tai ko reikia. Kita mano eliksyrų partija bus tavo nuopelnas.'
     }
   },
   16: {
@@ -714,7 +756,8 @@ export default {
       vi: 'Kiểm lâm Rowan',
       hu: 'Rowan, az erdész',
       cs: 'Lesník Rowan',
-      pl: 'Leśniczy Rowan'
+      pl: 'Leśniczy Rowan',
+      lt: 'Girininkas Rowan'
     },
     offer: {
       en: 'The road is open, and my travels will soon take me beyond Guardstone Forest. Before you leave, find Forester Rowan in the woods. No one knows the forest or its troubles better.',
@@ -730,7 +773,8 @@ export default {
       vi: 'Đường đã thông, tôi sắp đi qua Guardstone Forest. Trước khi rời đi, hãy tìm kiểm lâm Rowan trong rừng. Không ai hiểu khu rừng và những rắc rối ở đó hơn anh ấy.',
       hu: 'Az út szabad, és hamarosan Guardstone Foresten túlra visz az utam. Indulás előtt keresd meg Rowant, az erdészt. Senki sem ismeri nála jobban az erdőt és a bajait.',
       cs: 'Cesta je volná a brzy budu pokračovat za Guardstone Forest. Než odejdeš, najdi v lese lesníka Rowana. Nikdo nezná les a jeho potíže lépe.',
-      pl: 'Droga jest wolna, a moja podróż wkrótce poprowadzi mnie poza Guardstone Forest. Przed odejściem znajdź w lesie leśniczego Rowana. Nikt nie zna lepiej lasu i jego problemów.'
+      pl: 'Droga jest wolna, a moja podróż wkrótce poprowadzi mnie poza Guardstone Forest. Przed odejściem znajdź w lesie leśniczego Rowana. Nikt nie zna lepiej lasu i jego problemów.',
+      lt: 'Kelias atviras, ir netrukus keliausiu toliau už Guardstone Forest. Prieš išeidamas surask miške girininką Rowan. Niekas geriau už jį neišmano šio miško ir jo bėdų.'
     },
     complete: {
       en: 'Alpheos sent you? Good. I could use a capable hand with the hogs roaming nearby.',
@@ -746,7 +790,8 @@ export default {
       vi: 'Alpheos cử bạn tới à? Tốt. Tôi cần người giúp xử lý lũ lợn rừng gần đây.',
       hu: 'Alpheos küldött? Jó. Elkél egy ügyes kéz a környékbeli vaddisznók ellen.',
       cs: 'Poslal tě Alpheos? Dobře. Pomoc s místními divočáky se mi hodí.',
-      pl: 'Przysłał cię Alpheos? Dobrze. Przyda mi się pomoc z dzikami w okolicy.'
+      pl: 'Przysłał cię Alpheos? Dobrze. Przyda mi się pomoc z dzikami w okolicy.',
+      lt: 'Tave atsiuntė Alpheos? Puiku. Man praverstų pagalba su aplink besibastančiais šernais.'
     }
   },
   17: {
@@ -764,7 +809,8 @@ export default {
       vi: 'Lợn rừng hoành hành',
       hu: 'Elszaporodott vaddisznók',
       cs: 'Přemnožení divočáci',
-      pl: 'Zdziczałe dziki'
+      pl: 'Zdziczałe dziki',
+      lt: 'Pasiutę šernai'
     },
     offer: {
       en: 'The hog population has grown out of control. They tear up young growth and crowd every other animal out of this part of the forest. Will you help me bring their numbers down?',
@@ -780,7 +826,8 @@ export default {
       vi: 'Lợn rừng sinh sôi quá nhiều. Chúng phá cây non và đuổi các loài khác khỏi khu rừng này. Giúp tôi giảm số lượng chúng nhé?',
       hu: 'Túl sok a vaddisznó. Feltúrják a fiatal növényeket, és kiszorítják a többi állatot az erdő ezen részéből. Segítesz megritkítani őket?',
       cs: 'Divočáci se přemnožili. Rozrývají mladé rostliny a vytlačují ostatní zvířata z této části lesa. Pomůžeš mi jejich počet snížit?',
-      pl: 'Dziki zbytnio się rozmnożyły. Ryją wśród młodych roślin i wypierają inne zwierzęta z tej części lasu. Pomożesz mi zmniejszyć ich liczbę?'
+      pl: 'Dziki zbytnio się rozmnożyły. Ryją wśród młodych roślin i wypierają inne zwierzęta z tej części lasu. Pomożesz mi zmniejszyć ich liczbę?',
+      lt: 'Šernų priviso tiek, kad jų nebesuvaldysi. Jie išrausia jaunuolynus ir išstumia iš šios miško dalies visus kitus gyvūnus. Ar padėsi man sumažinti jų skaičių?'
     },
     complete: {
       en: 'The forest can recover now that the herd has been thinned. You have my thanks.',
@@ -796,7 +843,8 @@ export default {
       vi: 'Đàn lợn thưa bớt, khu rừng có thể hồi phục. Cảm ơn bạn.',
       hu: 'A kisebb csordával az erdő újra magához térhet. Köszönöm.',
       cs: 'Teď, když je stádo menší, se les může zotavit. Děkuji ti.',
-      pl: 'Teraz, gdy stado jest mniejsze, las może się odrodzić. Dziękuję.'
+      pl: 'Teraz, gdy stado jest mniejsze, las może się odrodzić. Dziękuję.',
+      lt: 'Dabar, kai banda praretinta, miškas galės atsigauti. Esu tau dėkingas.'
     }
   },
   18: {
@@ -814,7 +862,8 @@ export default {
       vi: 'Nọc độc trong bụi rậm',
       hu: 'Méreg az aljnövényzetben',
       cs: 'Jed v podrostu',
-      pl: 'Jad w zaroślach'
+      pl: 'Jad w zaroślach',
+      lt: 'Nuodai brūzgynuose'
     },
     offer: {
       en: "The forest spiders nearby are unusually aggressive, and their venom has changed. I suspect something in their diet has altered them, but I cannot tell whether it is a plant, a fungus, or something else entirely. Thin their numbers before this mutation spreads.",
@@ -830,7 +879,8 @@ export default {
       vi: 'Nhện rừng gần đây hung dữ lạ thường, nọc độc cũng đổi khác. Có lẽ thức ăn của chúng gây ra điều này: cây cỏ, nấm hay thứ gì khác. Giảm bớt chúng trước khi biến đổi lan rộng.',
       hu: 'A közeli erdei pókok szokatlanul agresszívak, és a mérgük is megváltozott. Gyanítom, hogy valami miatt, amit megesznek, de nem tudom, növény, gomba vagy valami más okozza-e. Ritkítsd meg őket, mielőtt a változás továbbterjed.',
       cs: 'Zdejší lesní pavouci jsou nezvykle agresivní a jejich jed se změnil. Tuším, že za to může jejich potrava, ale nevím, jestli rostlina, houba nebo něco jiného. Zmenši jejich počet, než se změna rozšíří.',
-      pl: 'Pobliskie pająki leśne są niezwykle agresywne, a ich jad się zmienił. Podejrzewam, że to przez coś, co jedzą, ale nie wiem, czy chodzi o roślinę, grzyb czy coś innego. Zmniejsz ich liczbę, zanim ta zmiana się rozprzestrzeni.'
+      pl: 'Pobliskie pająki leśne są niezwykle agresywne, a ich jad się zmienił. Podejrzewam, że to przez coś, co jedzą, ale nie wiem, czy chodzi o roślinę, grzyb czy coś innego. Zmniejsz ich liczbę, zanim ta zmiana się rozprzestrzeni.',
+      lt: 'Netoliese gyvenantys miško vorai neįprastai agresyvūs, o jų nuodai pasikeitė. Įtariu, kad juos pakeitė kažkas, ką jie ėda, bet negaliu nustatyti ar tai augalas, grybas, ar visai kas kita. Išretink jų gretas, kol ši mutacija neišplito.'
     },
     complete: {
       en: 'That buys me time to study what they left behind. Whatever changed them, it was no ordinary shift in the season.',
@@ -846,7 +896,8 @@ export default {
       vi: 'Giờ tôi có thời gian nghiên cứu dấu vết chúng để lại. Thứ gì làm chúng thay đổi cũng không phải do mùa màng bình thường.',
       hu: 'Így lesz időm tanulmányozni, amit hátrahagytak. Bármi változtatta meg őket, ez nem egyszerű évszakváltás.',
       cs: 'To mi dá čas prozkoumat, co po sobě zanechali. Ať je změnilo cokoli, nebyla to obyčejná změna ročního období.',
-      pl: 'To da mi czas na zbadanie tego, co po sobie zostawiły. Cokolwiek je zmieniło, nie była to zwykła zmiana pory roku.'
+      pl: 'To da mi czas na zbadanie tego, co po sobie zostawiły. Cokolwiek je zmieniło, nie była to zwykła zmiana pory roku.',
+      lt: 'Dabar turėsiu laiko ištirti ką jie paliko. Kad ir kas juos pakeitė, esu tikras kad tai ne paprastas metų laikų kaitos padarinys.'
     }
   },
   19: {
@@ -864,7 +915,8 @@ export default {
       vi: 'Tơ giữa những phiến đá',
       hu: 'Selyem a kövek között',
       cs: 'Hedvábí mezi kameny',
-      pl: 'Jedwab wśród kamieni'
+      pl: 'Jedwab wśród kamieni',
+      lt: 'Šilkas tarp akmenų'
     },
     offer: {
       en: "There are stranger spiders near the ancient columns. Their bodies look almost woven, and their silk reacts to mixtures that should do nothing to it. I cannot decide whether the columns changed them or merely drew them there. Find the wood weavers and reduce their numbers.",
@@ -880,7 +932,8 @@ export default {
       vi: 'Gần những cột đá cổ có loài nhện lạ hơn. Thân chúng như được dệt, tơ phản ứng với cả hỗn hợp vô hại. Tôi không biết các cột đá đã biến đổi hay thu hút chúng. Hãy tìm nhện dệt gỗ và giảm số lượng chúng.',
       hu: 'Az ősi oszlopoknál még furcsább pókok élnek. A testük szőttnek tűnik, a selymük pedig olyan keverékekre reagál, amelyekre nem kellene. Nem tudom, az oszlopok változtatták meg vagy csak odavonzották őket. Keresd meg a faszövőket, és ritkítsd meg őket.',
       cs: 'U starobylých sloupů žijí ještě podivnější pavouci. Jejich těla vypadají jako utkaná a jejich hedvábí reaguje na směsi, které by s ním neměly nic dělat. Nevím, zda je sloupy změnily, nebo jen přilákaly. Najdi dřevotkalce a zmenši jejich počet.',
-      pl: 'Przy starożytnych kolumnach żyją jeszcze dziwniejsze pająki. Ich ciała wyglądają jak utkane, a jedwab reaguje na mieszanki, które nie powinny na niego działać. Nie wiem, czy kolumny je zmieniły, czy tylko przyciągnęły. Znajdź drzewotkaczy i zmniejsz ich liczbę.'
+      pl: 'Przy starożytnych kolumnach żyją jeszcze dziwniejsze pająki. Ich ciała wyglądają jak utkane, a jedwab reaguje na mieszanki, które nie powinny na niego działać. Nie wiem, czy kolumny je zmieniły, czy tylko przyciągnęły. Znajdź drzewotkaczy i zmniejsz ich liczbę.',
+      lt: 'Prie senovinių kolonų gyvena keistesni vorai. Jų kūnai atrodo beveik nuausti, o šilkas reaguoja į mišinius, kurie jo apskritai neturėtų veikti. Nesuprantu, ar juos pakeitė kolonos, ar kolonos juos tik privilioja. Surask miško audėjus ir sumažink jų skaičių.'
     },
     complete: {
       en: 'Even dead, their silk refuses to behave like any natural fiber I know. The answer may lie beneath those old stones.',
@@ -896,7 +949,8 @@ export default {
       vi: 'Ngay cả khi chết, tơ của chúng vẫn không giống sợi tự nhiên nào tôi biết. Đáp án có thể nằm dưới những phiến đá cổ.',
       hu: 'A selymük még a haláluk után sem viselkedik úgy, mint bármely ismert természetes szál. Talán a régi kövek alatt van a válasz.',
       cs: 'Ani po smrti se jejich hedvábí nechová jako žádné přírodní vlákno, které znám. Odpověď možná leží pod těmi starými kameny.',
-      pl: 'Nawet po ich śmierci jedwab nie zachowuje się jak żadne znane mi naturalne włókno. Odpowiedź może kryć się pod tymi starymi kamieniami.'
+      pl: 'Nawet po ich śmierci jedwab nie zachowuje się jak żadne znane mi naturalne włókno. Odpowiedź może kryć się pod tymi starymi kamieniami.',
+      lt: 'Net ir po mirties jų šilkas nesielgia kaip joks man žinomas natūralus pluoštas. Atsakymas gali glūdėti po tais senais akmenimis.'
     }
   },
   20: {
@@ -914,7 +968,8 @@ export default {
       vi: 'Bầy nhện đói',
       hu: 'Az éhes ivadékok',
       cs: 'Hladové potomstvo',
-      pl: 'Głodny lęg'
+      pl: 'Głodny lęg',
+      lt: 'Išalkę vorai'
     },
     offer: {
       en: "Forest spiders have always lived beneath these trees, but they are hunting too openly and taking prey they once avoided. Something has disturbed the balance of the woods. I do not yet know what, so thin the brood while I look for the cause.",
@@ -930,7 +985,8 @@ export default {
       vi: 'Nhện rừng vốn sống dưới những tán cây này, nhưng giờ chúng săn mồi lộ liễu và bắt cả con mồi trước kia chúng bỏ qua. Khu rừng đã mất cân bằng. Trong lúc tôi tìm nguyên nhân, hãy giảm bớt bầy nhện.',
       hu: 'Mindig is éltek erdei pókok e fák alatt, de most feltűnően vadásznak, és olyan zsákmányt is elkapnak, amelyet régen kerültek. Valami felborította az erdő egyensúlyát. Ritkítsd meg őket, amíg kiderítem az okát.',
       cs: 'Lesní pavouci pod těmito stromy žili vždy, ale teď loví příliš otevřeně a chytají kořist, které se dřív vyhýbali. Něco narušilo rovnováhu lesa. Zmenši jejich počet, zatímco budu hledat příčinu.',
-      pl: 'Pająki leśne zawsze żyły pod tymi drzewami, ale teraz polują zbyt śmiało i łapią zdobycz, której dawniej unikały. Coś zakłóciło równowagę lasu. Zmniejsz ich liczbę, a ja poszukam przyczyny.'
+      pl: 'Pająki leśne zawsze żyły pod tymi drzewami, ale teraz polują zbyt śmiało i łapią zdobycz, której dawniej unikały. Coś zakłóciło równowagę lasu. Zmniejsz ich liczbę, a ja poszukam przyczyny.',
+      lt: 'Miško vorai visada gyveno po šiais medžiais, bet dabar jie medžioja per atvirai ir puola grobį, kurio anksčiau vengdavo. Kažkas sutrikdė miško pusiausvyrą. Kol kas nežinau kas, tad išretink vorų būrį, o aš paieškosiu priežasties.'
     },
     complete: {
       en: 'The smaller creatures will have room to return now. Still, spiders do not abandon old habits without reason.',
@@ -946,7 +1002,8 @@ export default {
       vi: 'Các sinh vật nhỏ giờ có thể trở lại. Nhưng nhện không vô cớ bỏ thói quen cũ.',
       hu: 'A kisebb állatok most visszatérhetnek. De a pókok ok nélkül nem változtatnak régi szokásaikon.',
       cs: 'Menší zvířata se teď mohou vrátit. Pavouci však své staré návyky nemění bez důvodu.',
-      pl: 'Mniejsze zwierzęta mogą teraz wrócić. Jednak pająki nie zmieniają dawnych zwyczajów bez powodu.'
+      pl: 'Mniejsze zwierzęta mogą teraz wrócić. Jednak pająki nie zmieniają dawnych zwyczajów bez powodu.',
+      lt: 'Smulkieji gyvūnai dabar galės sugrįžti. Vis dėlto vorai be priežasties senų įpročių neatsisako.'
     }
   },
   21: {
@@ -964,7 +1021,8 @@ export default {
       vi: 'Mạng nhện kỳ lạ',
       hu: 'Különös hálók',
       cs: 'Podivné pavučiny',
-      pl: 'Dziwne sieci'
+      pl: 'Dziwne sieci',
+      lt: 'Keisti voratinkliai'
     },
     offer: {
       en: "Wood weavers have gathered around the ancient columns. They resemble spiders, but they move as if they are following a pattern the forest cannot hear. I cannot tell whether they are sick, changed, or something that only looks natural. Clear some of them away from the stones.",
@@ -980,7 +1038,8 @@ export default {
       vi: 'Nhện dệt gỗ tụ tập quanh các cột đá cổ. Chúng giống nhện, nhưng di chuyển như đang nghe một nhịp điệu mà rừng không nghe thấy. Tôi không biết chúng bị bệnh, biến đổi hay chỉ giả dạng sinh vật tự nhiên. Hãy đuổi bớt chúng khỏi cột đá.',
       hu: 'Faszövők gyűltek össze az ősi oszlopoknál. Póknak látszanak, de úgy mozognak, mintha olyan mintát követnének, amelyet az erdő nem hall. Nem tudom, betegek, megváltoztak, vagy csak természetesnek tűnnek. Űzz el néhányat a kövektől.',
       cs: 'Dřevotkalci se shromáždili kolem starobylých sloupů. Připomínají pavouky, ale pohybují se, jako by sledovali vzor, který les neslyší. Nevím, zda jsou nemocní, změnění, nebo jen vypadají přirozeně. Vyžeň několik z nich od kamenů.',
-      pl: 'Drzewotkacze zebrały się wokół starożytnych kolumn. Przypominają pająki, ale poruszają się tak, jakby podążały za wzorem, którego las nie słyszy. Nie wiem, czy są chore, zmienione, czy tylko wyglądają naturalnie. Przepędź kilka spod kamieni.'
+      pl: 'Drzewotkacze zebrały się wokół starożytnych kolumn. Przypominają pająki, ale poruszają się tak, jakby podążały za wzorem, którego las nie słyszy. Nie wiem, czy są chore, zmienione, czy tylko wyglądają naturalnie. Przepędź kilka spod kamieni.',
+      lt: 'Prie senovinių kolonų susibūrė audėjai Wood Weavers. Jie panašūs į vorus, bet juda taip lyg sektų kažkokį ritmą, kurio miškas negirdi. Nesuprantu, ar jie serga, ar pasikeitė, ar tik apsimeta natūraliais padarais. Išvaikyk dalį jų nuo akmenų.'
     },
     complete: {
       en: 'The forest feels quieter, but not relieved. Whatever calls those creatures to the columns is still there.',
@@ -996,7 +1055,8 @@ export default {
       vi: 'Khu rừng yên tĩnh hơn, nhưng vẫn bất an. Thứ gọi chúng tới cột đá vẫn còn đó.',
       hu: 'Az erdő csendesebbnek tűnik, de nem megkönnyebbültnek. Ami ezeket a lényeket az oszlopokhoz hívja, még mindig ott van.',
       cs: 'Les působí tišeji, ale ne klidněji. Ať ty tvory ke sloupům volá cokoli, stále to tam je.',
-      pl: 'Las wydaje się cichszy, ale nie spokojniejszy. Cokolwiek przyciąga te stworzenia do kolumn, wciąż tam jest.'
+      pl: 'Las wydaje się cichszy, ale nie spokojniejszy. Cokolwiek przyciąga te stworzenia do kolumn, wciąż tam jest.',
+      lt: 'Miške tapo ramiau, bet palengvėjimo nejaučiu. Kad ir kas šaukia tuos padarus prie kolonų, jis vis dar ten.'
     }
   },
   22: {
@@ -1014,7 +1074,8 @@ export default {
       vi: "Con nhện khổng lồ trong mạng",
       hu: "Az óriáspók a hálóban",
       cs: "Obří pavoučice v pavučině",
-      pl: "Olbrzymia pajęczyca w sieci"
+      pl: "Olbrzymia pajęczyca w sieci",
+      lt: 'Milžinė voratinklyje'
     },
     offer: {
       en: "The wood weavers gather around Nopus Majorus, a spider far larger than the rest. Did she change their silk, or did she simply draw them here? Bring her down. Her remains may give us an answer.",
@@ -1030,7 +1091,8 @@ export default {
       vi: "Nhện dệt gỗ tụ tập quanh Nopus Majorus. Nó lớn hơn hẳn những con khác. Nó đã làm thay đổi tơ của chúng, hay chỉ thu hút chúng đến đây? Hãy giết nó. Những gì nó để lại có thể cho ta câu trả lời.",
       hu: "A faszövők Nopus Majorus köré gyűlnek. Sokkal nagyobb a többi póknál. Megváltoztatta a selymüket, vagy csak idevonzotta őket? Öld meg. A maradványai választ adhatnak.",
       cs: "Dřevotkalci se shromažďují kolem Nopus Majorus. Je mnohem větší než ostatní pavouci. Změnila jejich hedvábí, nebo je sem jen přilákala? Zabij ji. Její ostatky nám možná dají odpověď.",
-      pl: "Drzewotkacze gromadzą się wokół Nopus Majorus. Jest znacznie większa od pozostałych pająków. Czy zmieniła ich jedwab, czy tylko je tu zwabiła? Zabij ją. Jej szczątki mogą dać nam odpowiedź."
+      pl: "Drzewotkacze gromadzą się wokół Nopus Majorus. Jest znacznie większa od pozostałych pająków. Czy zmieniła ich jedwab, czy tylko je tu zwabiła? Zabij ją. Jej szczątki mogą dać nam odpowiedź.",
+      lt: 'Audėjai Wood Weavers būriuojasi aplink Nopus Majorus - vorę, gerokai didesnę už kitus. Ar tai ji pakeitė jų šilką, ar tik juos čia privilioja? Nukauk ją. Jos palaikai gali duoti atsakymą.'
     },
     complete: {
       en: "Nopus is gone. I'll study her remains and see what drew the weavers to her.",
@@ -1046,7 +1108,8 @@ export default {
       vi: "Nopus đã chết. Tôi sẽ nghiên cứu những gì nó để lại để biết vì sao nhện dệt gỗ kéo đến bên nó.",
       hu: "Nopus elpusztult. Megvizsgálom a maradványait, hogy kiderüljön, mi vonzotta hozzá a faszövőket.",
       cs: "Nopus je mrtvá. Prozkoumám její ostatky a zjistím, co k ní dřevotkalce přitahovalo.",
-      pl: "Nopus nie żyje. Zbadam jej szczątki i ustalę, co przyciągało do niej drzewotkaczy."
+      pl: "Nopus nie żyje. Zbadam jej szczątki i ustalę, co przyciągało do niej drzewotkaczy.",
+      lt: 'Nopus nebėra. Ištirsiu jos palaikus ir išsiaiškinsiu kuo ji traukė audėjus prie savęs.'
     }
   },
   23: {
@@ -1064,7 +1127,8 @@ export default {
       vi: "Trái tim mạng nhện",
       hu: "A háló szíve",
       cs: "Srdce pavučiny",
-      pl: "Serce sieci"
+      pl: "Serce sieci",
+      lt: 'Voratinklio širdis'
     },
     offer: {
       en: "Nopus Majorus sits among the weavers by the old columns. The smaller spiders keep close to her, and the woods around them have gone quiet. Bring her down before they spread deeper into the forest.",
@@ -1080,7 +1144,8 @@ export default {
       vi: "Nopus Majorus ở giữa bầy nhện dệt gỗ gần những cột đá cổ. Lũ nhện nhỏ luôn ở sát bên nó, còn khu rừng xung quanh đã im ắng. Hãy giết nó trước khi bầy nhện lan sâu hơn vào rừng.",
       hu: "Nopus Majorus a régi oszlopoknál, a faszövők között tanyázik. A kisebb pókok a közelében maradnak, a környező erdő pedig elcsendesedett. Öld meg, mielőtt a pókok továbbterjednek az erdőben.",
       cs: "Nopus Majorus sedí mezi dřevotkalci u starých sloupů. Menší pavouci se drží u ní a okolní les utichl. Zabij ji, než se pavouci rozšíří dál do lesa.",
-      pl: "Nopus Majorus siedzi pośród drzewotkaczy przy starych kolumnach. Mniejsze pająki trzymają się blisko niej, a pobliski las ucichł. Zabij ją, zanim pająki rozprzestrzenią się głębiej w lesie."
+      pl: "Nopus Majorus siedzi pośród drzewotkaczy przy starych kolumnach. Mniejsze pająki trzymają się blisko niej, a pobliski las ucichł. Zabij ją, zanim pająki rozprzestrzenią się głębiej w lesie.",
+      lt: 'Nopus Majorus tūno tarp audėjų prie senųjų kolonų. Mažesni vorai laikosi arti jos, o aplinkiniuose miškuose stojo tyla. Nukauk ją, kol vorai neišplito giliau į mišką.'
     },
     complete: {
       en: "With Nopus gone, the spiders may scatter. I'll watch for life to return to the woods.",
@@ -1096,7 +1161,8 @@ export default {
       vi: "Không còn Nopus, có lẽ lũ nhện sẽ tản đi. Tôi sẽ xem sự sống có trở lại khu rừng không.",
       hu: "Nopus nélkül talán szétszélednek a pókok. Figyelni fogom, visszatér-e az élet az erdőbe.",
       cs: "Bez Nopus se možná pavouci rozptýlí. Budu sledovat, zda se do lesa vrátí život.",
-      pl: "Bez Nopus pająki mogą się rozproszyć. Zobaczę, czy życie wróci do lasu."
+      pl: "Bez Nopus pająki mogą się rozproszyć. Zobaczę, czy życie wróci do lasu.",
+      lt: 'Nopus neliko, tad vorai gali išsisklaidyti. Stebėsiu ar į mišką sugrįš gyvybė.'
     }
   }
 }

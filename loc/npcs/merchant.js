@@ -22,7 +22,8 @@ export default {
       tr: 'Bakın burada neyimiz var! Hayır, o ekipman işe yaramaz, değil mi? Açık pazara bir göz atın! Söylentiler yayılıyor; Bir arkadaşı konumunuza ışınlayabilen Warcry Scrolls duydum. Aramızda kalsın, tamam mı?',
       ja: 'やぁ、ちょいと見て行かないかい？おや、その装備はボロが出てるぞ。公開市場をご覧あれ！友達を君の場所へテレポートさせる事が出来る、Warcry Scrollsについての噂が近頃広まっている。これを僕達の間で共有しよう、いいね？',
       cs: '„Podívej, co tady máme! Ne, to vybavení nebude, že? Podívejte se na ten otevřený trh! Šíří se pověsti; Slyšel jsem o Warcry Scrolls, které mohou teleportovat přítele na vaši pozici. Pojďme to mezi námi udržetv tajemství, ano? ',
-      sr: 'Па, погледај шта имамо овде! Не, та опрема неће бити довољна, зар не? Погледај отворену пијацу! Гласине се шире; чуо сам за Warcry Scrolls који могу да телепортују пријатеља на твоју локацију. Нека то остане међу нама, у реду?'
+      sr: 'Па, погледај шта имамо овде! Не, та опрема неће бити довољна, зар не? Погледај отворену пијацу! Гласине се шире; чуо сам за Warcry Scrolls који могу да телепортују пријатеља на твоју локацију. Нека то остане међу нама, у реду?',
+      lt: 'Na, ką gi mes čia turime! Ne, su tokia ekipuote toli nenueisi, ar ne? Apsidairyk atvirame turguje! Sklinda gandai apie Warcry Scrolls, kuriais galima teleportuoti draugą prie savęs. Tik tegul tai lieka tarp mūsų, gerai?'
     },
 
     choices: [{
@@ -46,7 +47,8 @@ export default {
       it: 'Si, mostrami gli articoli in vendita.',
       ja: 'はい、商品を見せて下さい。',
       cs: 'Ano, ukaž mi předměty k prodeji',
-      sr: 'Да, покажи ми предмете на продају.'
+      sr: 'Да, покажи ми предмете на продају.',
+      lt: 'Taip, parodyk parduodamus daiktus.'
     }]
   }]
 }

@@ -8,7 +8,8 @@ export default {
     pt: 'Personagem',
     cs: 'Charakter',
     es: 'Personaje',
-    sr: 'Лик'
+    sr: 'Лик',
+    lt: 'Veikėjas'
   },
 
   skills: {
@@ -20,14 +21,16 @@ export default {
     pt: 'Habilidades',
     cs: 'Dovednosti',
     es: 'Habilidades',
-    sr: 'Вештине'
+    sr: 'Вештине',
+    lt: 'Įgūdžiai'
   },
 
   pvp: {
     en: 'PvP',
     es: 'PVP / JcJ',
     pt: 'PvP',
-    sr: 'PvP'
+    sr: 'PvP',
+    lt: 'PvP'
   },
 
   interaction: {
@@ -37,7 +40,8 @@ export default {
     pt: 'Interação',
     cs: 'Interakce',
     es: 'Interacción',
-    sr: 'Интеракција'
+    sr: 'Интеракција',
+    lt: 'Sąveika'
   },
 
   request: {
@@ -49,7 +53,8 @@ export default {
     pt: 'Solicitar',
     cs: 'Žádost',
     es: 'Pedido',
-    sr: 'Захтев'
+    sr: 'Захтев',
+    lt: 'Prašymas'
   },
 
   warstats: {
@@ -61,7 +66,8 @@ export default {
     pt: 'Estatísticas de Guerra',
     cs: 'Válečné statistiky',
     es: 'Estadísticas de guerra',
-    sr: 'Ратна статистика'
+    sr: 'Ратна статистика',
+    lt: 'Karo statistika'
   },
 
   dpsMeter: {
@@ -71,7 +77,8 @@ export default {
     pt: 'Medidor DPS',
     cs: 'DPS Meter',
     es: 'Medidor de DPS',
-    sr: 'DPS мерач'
+    sr: 'DPS мерач',
+    lt: 'DPS matuoklis'
   },
 
   fullscreen: {
@@ -83,7 +90,8 @@ export default {
     pt: 'Tela cheia',
     cs: 'Celá obrazovka',
     es: 'Pantalla completa',
-    sr: 'Цео екран'
+    sr: 'Цео екран',
+    lt: 'Visas ekranas'
   },
 
   menuReturn: {
@@ -95,6 +103,7 @@ export default {
     pt: 'Voltar ao Menu',
     cs: 'Zpět do Menu',
     es: 'Volver al menú',
-    sr: 'Назад у мени'
+    sr: 'Назад у мени',
+    lt: 'Grįžti į meniu'
   }
 }

@@ -16,7 +16,8 @@ export default {
     pt: 'Ícone de apoiador',
     cs: 'Chat supporter icon',
     es: 'Icono de soporte de chat',
-    sr: 'Иконица подржаваоца у чету'
+    sr: 'Иконица подржаваоца у чету',
+    lt: 'Rėmėjo ženkliukas pokalbių lange'
   },
 
   noads: {
@@ -28,7 +29,8 @@ export default {
     pt: 'Sem anúncios',
     cs: 'Žádné reklamy',
     es: 'Sin anuncios',
-    sr: 'Без реклама'
+    sr: 'Без реклама',
+    lt: 'Jokių reklamų'
   },
 
   // i.e. 25 base bag slots
@@ -41,7 +43,8 @@ export default {
     pt: 'Espaços na Bag',
     cs: 'slotů v bagu',
     es: 'ranuras para bolsas de base',
-    sr: 'основни слотови торбе'
+    sr: 'основни слотови торбе',
+    lt: 'bazinės krepšio vietos'
   },
 
   // i.e. 100 stash storage
@@ -54,7 +57,8 @@ export default {
     pt: 'Espaços no Stash',
     cs: 'úložného prostoru',
     es: 'almacenamiento de alijo',
-    sr: 'простор у Stash-у'
+    sr: 'простор у Stash-у',
+    lt: 'Stash vietų'
   },
 
   // i.e. 100 merchant limit
@@ -67,7 +71,8 @@ export default {
     pt: 'Limite de anuncios no Merchant',
     cs: 'limit obchodníka',
     es: 'límite comercial',
-    sr: 'лимит Merchant-а'
+    sr: 'лимит Merchant-а',
+    lt: 'Merchant limitas'
   },
 
   // i.e. 24h merchant duration
@@ -80,7 +85,8 @@ export default {
     pt: 'Duração dos anuncios no Merchant',
     cs: 'doba obchodníka',
     es: 'duración del comerciante',
-    sr: 'трајање Merchant понуде'
+    sr: 'трајање Merchant понуде',
+    lt: 'Merchant skelbimų trukmė'
   },
 
   tba: {
@@ -92,7 +98,8 @@ export default {
     pt: '+ mais por vir (TBA)',
     cs: '+ více brzy (TBA)',
     es: '+ más por venir (TBA)',
-    sr: '+ још тога долази (TBA)'
+    sr: '+ још тога долази (TBA)',
+    lt: '+ daugiau ateityje (TBA)'
   },
 
   // Do not translate "Hordes"
@@ -105,7 +112,8 @@ export default {
     pt: 'Apoie o desenvolvimento de Hordes por um preço baixo. Desbloqueie espaços adicionais na Bag, armazene mais itens em seu Stash, use recursos aprimorados do Marchant e muito mais vantagens (TBA).',
     cs: 'Podpořte vývoj Hordes za nízkou cenu. Odemkněte si tak další sloty v bagu, uložte více položek do truhly, využijte vylepšené obchodní funkce a mnoho dalších výhod (TBA).',
     es: 'Apoya el desarrollo de Hordas por poco dinero. Desbloquea ranuras adicionales para bolsas, almacena más objetos en tu alijo, aprovecha las funciones mejoradas del comerciante y muchas más ventajas (por confirmar).',
-    sr: 'Подржи развој Hordes-а по ниској цени. Откључај додатне слотове торбе, складишти више предмета у свом Stash-у, користи побољшане Merchant могућности и још много погодности (TBA).'
+    sr: 'Подржи развој Hordes-а по ниској цени. Откључај додатне слотове торбе, складишти више предмета у свом Stash-у, користи побољшане Merchant могућности и још много погодности (TBA).',
+    lt: 'Paremkite Hordes kūrimą už nedidelę kainą. Atrakinkite papildomas krepšio vietas, laikykite daugiau daiktų Stash, naudokitės išplėstinėmis turgaus funkcijomis ir gaukite daug kitų privalumų (TBA).'
   },
 
   pointserror: {
@@ -117,7 +125,8 @@ export default {
     pt: 'Você não tem Hordes Points suficientes para fazer isso.',
     cs: 'Nemáte dostatek Hordes bodů',
     es: 'No tienes suficientes puntos de hordas para hacer esto.',
-    sr: 'Немаш довољно Hordes Points-а за ово.'
+    sr: 'Немаш довољно Hordes Points-а за ово.',
+    lt: 'Neturite pakankamai Hordes Points šiam veikslui atlikti.'
   },
 
   // As in "Buy Hordes Points"
@@ -130,7 +139,8 @@ export default {
     pt: 'Comprar',
     cs: 'Koupit',
     es: 'Comprar',
-    sr: 'Купи'
+    sr: 'Купи',
+    lt: 'Pirkti'
   },
 
   notactive: {
@@ -142,7 +152,8 @@ export default {
     pt: 'Não Ativo',
     cs: 'Není aktivní',
     es: 'No activo',
-    sr: 'Није активно'
+    sr: 'Није активно',
+    lt: 'Neaktyvus'
   },
 
   //---------------------------------------------------------------------------------------------
@@ -158,7 +169,8 @@ export default {
     pt: 'Você gostaria de presentear ',
     cs: 'Chtěli by jste darovat',
     es: '¿Te gustaría regalar? ',
-    sr: 'Да ли желиш да поклониш '
+    sr: 'Да ли желиш да поклониш ',
+    lt: 'Ar norite padovanoti '
   },
 
   willadd: {
@@ -170,7 +182,8 @@ export default {
     pt: 'Você gostaria de se presentear ',
     cs: 'Chtěl by jsi si dát',
     es: '¿Te gustaría regalarte? ',
-    sr: 'Да ли желиш да себи додаш '
+    sr: 'Да ли желиш да себи додаш ',
+    lt: 'Ar norite sau suteikti '
   },
 
   subduration: [
@@ -183,7 +196,8 @@ export default {
       pt: 'um ano de ',
       cs: 'jeden rok',
       es: 'un año de ',
-      sr: 'годину дана '
+      sr: 'годину дана ',
+      lt: 'vieni metai '
     },
     {
       en: 'one month of ',
@@ -194,7 +208,8 @@ export default {
       pt: 'um mês de ',
       cs: 'měsíc',
       es: 'un mes de ',
-      sr: 'месец дана '
+      sr: 'месец дана ',
+      lt: 'vienas mėnesis '
     }
   ],
 
@@ -207,7 +222,8 @@ export default {
     pt: 'Vai custar ',
     cs: 'Bude to stát',
     es: 'Esto costará ',
-    sr: 'Ово ће коштати '
+    sr: 'Ово ће коштати ',
+    lt: 'Tai kainuos '
   },
   //---------------------------------------------------------------------------------------------
 
@@ -220,7 +236,8 @@ export default {
     pt: 'Enviar Presente',
     cs: 'Poslat dárek',
     es: 'Enviar regalo',
-    sr: 'Пошаљи поклон'
+    sr: 'Пошаљи поклон',
+    lt: 'Siųsti dovaną'
   },
 
   // e.g. Enables Elixir until Jan 29, 2024 13:00. Do not translate "Elixir"
@@ -233,7 +250,8 @@ export default {
     pt: 'Elixir ativo até',
     cs: 'Povolit Elixir do',
     es: 'Habilita elixir hasta',
-    sr: 'Омогућава Elixir до'
+    sr: 'Омогућава Elixir до',
+    lt: 'Elixir galios iki'
   },
 
   // Do not translate "Elixir"
@@ -246,7 +264,8 @@ export default {
     pt: 'Enviar Elixir de presente',
     cs: 'Odeslat Elixir jako dárek',
     es: 'Enviar regalo de elixir',
-    sr: 'Пошаљи Elixir поклон'
+    sr: 'Пошаљи Elixir поклон',
+    lt: 'Dovanoti Elixir'
   },
 
   // Do not translate "Elixir"
@@ -259,7 +278,8 @@ export default {
     pt: 'Prolongar seu Elixir',
     cs: 'Prodloužit Elixir',
     es: 'Extender elixir',
-    sr: 'Продужи Elixir'
+    sr: 'Продужи Elixir',
+    lt: 'Pratęsti Elixir'
   },
 
   // Do not translate "Elixir"
@@ -272,7 +292,8 @@ export default {
     pt: 'Ativar Elixir',
     cs: 'Aktivovat Elixir',
     es: 'Activar elixir',
-    sr: 'Активирај Elixir'
+    sr: 'Активирај Elixir',
+    lt: 'Aktyvuoti Elixir'
   },
 
   // Do not translate "Elixir"
@@ -284,6 +305,7 @@ export default {
     zh: '已延長 Elixir 時間。謝謝你的支持。請重新登入角色。',
     pt: 'Tempo de Elixir foi adicionado. Obrigado pelo seu apoio. Por favor, entre novamente em qualquer personagem ativo.',
     cs: 'Doba Elixir byla prodloužena. Děkujeme za podporu. Prosím relogni všechny svoje postavy',
-    es: 'Se ha añadido tiempo de elixir. Gracias por su apoyo. Por favor, vuelva a iniciar sesión con los personajes activos.'
+    es: 'Se ha añadido tiempo de elixir. Gracias por su apoyo. Por favor, vuelva a iniciar sesión con los personajes activos.',
+    lt: 'Elixir laikas pridėtas. Ačiū kad remiate žaidimą! Prašome iš naujo prisijungti su aktyviais veikėjais.'
   }
 }

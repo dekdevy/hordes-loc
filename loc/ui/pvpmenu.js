@@ -7,7 +7,8 @@ export default {
     zh: '當前聲望',
     pt: 'Prestígio Atual',
     cs: 'Aktuální Prestiž',
-    sr: 'Тренутни престиж'
+    sr: 'Тренутни престиж',
+    lt: 'Dabartinis prestižas'
   },
 
   nextrank: {
@@ -18,7 +19,8 @@ export default {
     zh: '下個階級',
     pt: 'Próximo Rank',
     cs: 'Další Hodnost',
-    sr: 'Следећи ранг'
+    sr: 'Следећи ранг',
+    lt: 'Kitas rangas'
   },
 
   today: {
@@ -29,7 +31,8 @@ export default {
     zh: '今天',
     pt: 'Hoje',
     cs: 'Dnes',
-    sr: 'Данас'
+    sr: 'Данас',
+    lt: 'Šiandien'
   },
 
   thisweek: {
@@ -40,7 +43,8 @@ export default {
     zh: '這一週',
     pt: 'Esta semana',
     cs: 'Tento víkend',
-    sr: 'Ове недеље'
+    sr: 'Ове недеље',
+    lt: 'Ši savaitė'
   },
 
   lastweek: {
@@ -51,7 +55,8 @@ export default {
     zh: '上一週',
     pt: 'Última semana',
     cs: 'Minulý víkend',
-    sr: 'Прошле недеље'
+    sr: 'Прошле недеље',
+    lt: 'Praėjusi savaitė'
   },
 
   lifetime: {
@@ -62,7 +67,8 @@ export default {
     zh: '生涯',
     pt: 'Total',
     cs: 'Život',
-    sr: 'Укупно'
+    sr: 'Укупно',
+    lt: 'Iš viso'
   },
 
   fameposition: {
@@ -73,7 +79,8 @@ export default {
     zh: '名聲排名',
     pt: 'Posição da Fama',
     cs: 'Postavení slávy',
-    sr: 'Позиција по слави'
+    sr: 'Позиција по слави',
+    lt: 'Vieta šlovės lentoje'
   },
 
   famebracket: {
@@ -84,7 +91,8 @@ export default {
     zh: '名聲層級',
     cs: 'Fame Bracket',
     pt: 'Suporte de Fama',
-    sr: 'Ранг славе'
+    sr: 'Ранг славе',
+    lt: 'Šlovės grupė'
   },
 
   highestrank: {
@@ -95,7 +103,8 @@ export default {
     zh: '最高階級',
     pt: 'Maior Rank',
     cs: 'Nejvyšší Hodnost',
-    sr: 'Највиши ранг'
+    sr: 'Највиши ранг',
+    lt: 'Aukščiausias rangas'
   },
 
   viewbrackets: {
@@ -106,6 +115,7 @@ export default {
     zh: '查看這週層級',
     pt: 'Ver o bracket desta semana',
     cs: 'Zobrazit týdenní brackets',
-    sr: 'Прикажи недељне рангове'
+    sr: 'Прикажи недељне рангове',
+    lt: 'Peržiūrėti savaitės grupes'
   }
 }

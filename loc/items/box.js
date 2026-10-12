@@ -17,7 +17,8 @@ export default [
       zh: '來自Faivel的未開發區域，在打開之前你永遠不會知道它裡面裝了些什麼。',
       tr: 'Faivel\'in keşfedilmemiş bölgelerinden kargolandı. Bu kafesin içindeki açılana kadar gözlenemez.',
       cs: 'Odesláno z neprozkoumaných oblastí Faivel. Obsah této klece nelze kontrolovat, dokud není otevřena.',
-      pt: 'Enviado das regiões inexploradas de Faivel. O conteúdo desta gaiola não pode ser inspecionado até que seja aberto.'
+      pt: 'Enviado das regiões inexploradas de Faivel. O conteúdo desta gaiola não pode ser inspecionado até que seja aberto.',
+      lt: 'Atgabenta iš neištyrinėtų Faivel kraštų. Kas narve, sužinosite tik jį atidarę.'
     }
   },
   {
@@ -29,7 +30,8 @@ export default [
       ko: '마법의 파란 이 엘릭서 물약은 당신의 계정에 여러 유용한 기능들을 추가해줍니다.',
       tr: 'Hesabına fazladan kullanışlı özellikler ekleyen sihirli mavi bir iksir.',
       cs: 'Kouzelný modrý Elixir lektvar, který poskytuje vašemu účtu užitečné funkce navíc.',
-      pt: 'Uma poção mágica de elixir azul que concede recursos extras úteis à sua conta.'
+      pt: 'Uma poção mágica de elixir azul que concede recursos extras úteis à sua conta.',
+      lt: 'Magiškas mėlynas Elixir gėrimas, kuris jūsų paskyrai suteikia naudingų papildomų funkcijų.'
     }
   },
   {
@@ -37,7 +39,8 @@ export default [
     description: {
       en: 'Allows the blacksmith to equip your rare pet with a backpack. Your pet will be able to pick up items for you.',
       fr: 'Permet au forgeron d\'équiper votre familier rare d\'un sac à dos. Votre familier pourra alors rammaser des objets pour vous.',
-      pt: 'Permite ao ferreiro equipar seu familiar raro com uma mochila. Seu familiar poderá pegar itens para você.'
+      pt: 'Permite ao ferreiro equipar seu familiar raro com uma mochila. Seu familiar poderá pegar itens para você.',
+      lt: 'Kalvis galės uždėti kuprinę jūsų retam augintiniui, o šis už jus rinks daiktus.'
     }
   }
 ]

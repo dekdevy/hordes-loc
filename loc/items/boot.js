@@ -16,7 +16,8 @@ export default [
       zh: '這種鞋類主要是為了穿著舒適而非跑步。',
       tr: 'Bu ayak giyecekleri koşmadan çok rahatlık amaçlı yapıldı.',
       cs: 'Tato obuv je primárně vyrobena pro pohodlí spíše než pro běh.',
-      pt: 'Esses calçados são principalmente feitos para conforto, ao invés de corrida.'
+      pt: 'Esses calçados são principalmente feitos para conforto, ao invés de corrida.',
+      lt: 'Ši avalynė skirta patogumui, o ne bėgimui.'
     }
   },
 
@@ -37,7 +38,8 @@ export default [
       zh: '這些腳墊混合了應急材料以提升跑步穩定性。',
       tr: 'Bu ayak pedleri koşu sabitliğini arttırmak için derme çatma bir malzeme ile kaplandı.',
       cs: 'Tyto nášlapy jsou obaleny provizorním materiálem pro zvýšení stability běhu.',
-      pt: 'Esses calçados são envoltos em um material improvisado para aumentar a estabilidade durante a corrida.'
+      pt: 'Esses calçados são envoltos em um material improvisado para aumentar a estabilidade durante a corrida.',
+      lt: 'Pėdos apvyniotos skubiai sumestu audeklu, kad bėgant būtų stabiliau.'
     }
   },
 
@@ -58,7 +60,8 @@ export default [
       zh: '皮革鞋子是由精細的手工藝製作而成以提升耐久度。',
       tr: 'Deri ayakkabılar orta derece savaş dayanıklılığı için ince bir işçilikle yapıldı.',
       cs: 'Kožené boty jsou vyrobeny s jemným řemeslným zpracováním pro střední odolnost v bitvě.',
-      pt: 'Os sapatos de couro são criados com artesanato refinado para uma durabilidade moderada em batalha.'
+      pt: 'Os sapatos de couro são criados com artesanato refinado para uma durabilidade moderada em batalha.',
+      lt: 'Meistriškai pasiūti, patvarūs ir mūšio išbandymams tinkami odiniai batai.'
     }
   },
 
@@ -79,7 +82,8 @@ export default [
       zh: '這個鞋子裡所使用的怪獸骨頭似乎能夠提升移動速度，但是這股魔法是從哪裡來的則不得而知。',
       tr: 'Canavar kemikleri hareket hızını arttırmak için bunun gibi ayak giyeceklerinin yapımında kullanılır, ama geliştirmenin nedeninin sihirle mi yoksa malzemenin hafifliğiyle mi olduğu bilinmiyor.',
       cs: 'Zdá se, že kosti monster používané při výrobě obuvi, jako je tato, zvyšují rychlost pohybu, ale není známo, zda je vylepšení způsobeno magií nebo lehkostí materiálu.',
-      pt: 'Os ossos de monstros usados na criação de calçados como este parecem aumentar a velocidade de movimento, mas não se sabe se o aumento é por meio de magia ou pela leveza do material.'
+      pt: 'Os ossos de monstros usados na criação de calçados como este parecem aumentar a velocidade de movimento, mas não se sabe se o aumento é por meio de magia ou pela leveza do material.',
+      lt: 'Monstrų kaulai tokioje avalynėje, regis, padeda judėti greičiau, tačiau ar tai magijos, ar tiesiog medžiagos lengvumo nuopelnas - nežinia.'
     }
   },
 
@@ -100,7 +104,8 @@ export default [
       zh: '這種輕盈且堅韌的鞋是用怪獸的鱗片以精細的手藝製作而成。',
       tr: 'Bu ayak giyecekleri savaş için güçlü ve hafif olan canavarların kabukları ile özenle üretildi.',
       cs: 'Tato obuv je pečlivě vyrobena z šupin příšer, které jsou lehké a robustní pro boj.',
-      pt: 'Este calçado é cuidadosamente fabricado com escamas de monstros que são leves e resistentes para batalha.'
+      pt: 'Este calçado é cuidadosamente fabricado com escamas de monstros que são leves e resistentes para batalha.',
+      lt: 'Avalynė kruopščiai pagaminta iš lengvų ir tvirtų monstrų žvynų.'
     }
   },
 
@@ -121,7 +126,8 @@ export default [
       zh: '穿戴著這種被附魔的鞋子會因為影子魔法使穿戴者的移動速度增加。',
       tr: 'Bunun gibi büyülü ayakkabılar, gölge büyüsü ile kullanıcının ayaklarını iterek hızı arttırır.',
       cs: 'Očarované boty, jako je tato, tlačí nohy nositele pomocí stínové magie, aby zvýšily rychlost.',
-      pt: 'Sapatos encantados como este impulsionam os pés do usuário com magia das sombras para aumentar a velocidade.'
+      pt: 'Sapatos encantados como este impulsionam os pés do usuário com magia das sombras para aumentar a velocidade.',
+      lt: 'Užkerėti batai šešėlių magijos pagalba stumia savininko pėdas ir taip padidina jo greitį.'
     }
   },
 
@@ -139,7 +145,8 @@ export default [
       nl: 'Deze laarzen zijn gehandhaafd van stevig ijzer and werden gebruikt in vele oorlogen.',
       ro: 'Aceste cizme au fost create dintr-un metal ferm și au fost folosite în multe războaie.',
       cs: 'Tyto boty jsou vyrobeny z pevného železa a byly použity v mnoha válkách.',
-      pt: 'Essas botas são feitas de ferro resistente e foram usadas em muitas guerras.'
+      pt: 'Essas botas são feitas de ferro resistente e foram usadas em muitas guerras.',
+      lt: 'Batai pagaminti iš tvirtos geležies ir yra perėję ne vieną karą.'
     }
   },
 
@@ -157,7 +164,8 @@ export default [
       nl: 'Schoenen zoals deze zijn gefuseerd met ruïnes die de dragers snelheid vergroten. Maar geleerden zijn aarzelend over het gebruik van deze ruïnes sind hun ware doel en oorsprong onduidelijk is.',
       ro: 'Acest tip de încățăminte este gravat cu rune ce măresc viteza purtătorului. Totuși, savanții sunt ezitanți cu privire la folosirea acestor rune din moment ce adevărata lor natură și scop sunt încă neclare.',
       cs: 'Obuv, jako je tato, je vyleptána runami, které zvyšují rychlost nositele. Vědci však váhají s použitím těchto run, protože jejich skutečný účel a povaha jsou nejasné.',
-      pt: 'Calçados como este são gravados com runas que aumentam a velocidade do usuário. No entanto, os estudiosos estão hesitantes em relação ao uso dessas runas, uma vez que seu verdadeiro propósito e natureza não são claros.'
+      pt: 'Calçados como este são gravados com runas que aumentam a velocidade do usuário. No entanto, os estudiosos estão hesitantes em relação ao uso dessas runas, uma vez que seu verdadeiro propósito e natureza não são claros.',
+      lt: 'Avalynėje išraižytos runos padidina savininko greitį. Vis dėlto žinovai šias runas naudoja atsargiai - tikroji jų paskirtis ir prigimtis neaiški.'
     }
   },
 
@@ -175,7 +183,8 @@ export default [
       nl: 'Elf magie is geholpen door windgeesten om de Skyswift Boots te maken. Hoewel Elfen zeer dicht bij de natuur zijn, weten ze weinig van de teruggetrokken windgeesten.',
       ro: 'Magia elfilor este asistată de spiritele vântului pentru a crea "Skyswift Boots". Cu toate că elfii sunt foarte apropiați de natură, nici măcar ei nu știu prea multe despre singuraticele spirite ale vântului.',
       cs: 'Elfské magii pomáhají větrní duchové při vytváření bot Skyswift. Přestože mají elfové velmi blízko k přírodě, i oni vědí málo o samotářských větrných duchách.',
-      pt: 'A magia élfica é auxiliada por espíritos do vento na criação das Skyswift. Embora os Elfos estejam muito ligados à natureza, mesmo eles sabem pouco sobre os reclusos espíritos do vento.'
+      pt: 'A magia élfica é auxiliada por espíritos do vento na criação das Skyswift. Embora os Elfos estejam muito ligados à natureza, mesmo eles sabem pouco sobre os reclusos espíritos do vento.',
+      lt: 'Skyswift Boots kuriami elfų magija, padedant vėjo dvasioms. Nors elfai labai artimi gamtai, net jie mažai ką žino apie atsiskyrėliškas vėjo dvasias.'
     }
   },
 
@@ -193,7 +202,8 @@ export default [
       nl: 'Deze laarzen zijn gesmeed zonder hitte en met betoverde hamers om de aangeboren krachten van dit speciale metaal te behouden. Dit zeldzame metaal is meestal gevonden in de bergen.',
       ro: 'Aceste cizme sunt forjate fără căldură și cu ciocane fermecate pentru a păstra proprietățile ereditare ale metalului special. Acest metal rar este de obicei găsit în munți.',
       cs: 'Tyto boty jsou kované bez tepla a pomocí kouzelných kladiv, aby byly zachovány vrozené vlastnosti speciálního kovu. Tento vzácný kov se nejčastěji vyskytuje v horách.',
-      pt: 'Essas botas são forjadas sem calor e com martelos encantados para preservar as propriedades inatas do metal especial. Esse metal raro é encontrado com mais frequência nas montanhas.'
+      pt: 'Essas botas são forjadas sem calor e com martelos encantados para preservar as propriedades inatas do metal especial. Esse metal raro é encontrado com mais frequência nas montanhas.',
+      lt: 'Batai nukalti užkerėtais kūjais ir nenaudojant karščio, tam kad ypatingas metalas išsaugotų savo įgimtas savybes. Šio reto metalo dažniausiai randama kalnuose.'
     }
   },
 
@@ -211,7 +221,8 @@ export default [
       nl: 'Deze laarzen zijn gemaakt door monster ambachtslieden met hulp van lucht geesten. Sommige monster facties hebben een hechte band met lucht geesten en met de natuur, maar monsters praten niet vaak over deze band.',
       ro: 'Aceste cizme sunt create de monștrii meseriași cu ajutorul spiritelor cerului. Câteva grupuri de monștrii au o conexiune apropiată cu aceste spirite și cu natura; însă, ei nu vorbesc prea des despre aceste relații.',
       cs: 'Tyto boty jsou vytvořeny příšernými řemeslníky s pomocí nebeských duchů. Některé frakce monster mají úzké spojení s nebeskými duchy a přírodou; nestvůry však o tomto vztahu často nemluví.',
-      pt: 'Essas botas são criadas por artesãos monstros com a ajuda dos espíritos celestiais. Algumas facções de monstros têm uma conexão estreita com os espíritos celestiais e a natureza; no entanto, os monstros não costumam falar muito sobre esse relacionamento.'
+      pt: 'Essas botas são criadas por artesãos monstros com a ajuda dos espíritos celestiais. Algumas facções de monstros têm uma conexão estreita com os espíritos celestiais e a natureza; no entanto, os monstros não costumam falar muito sobre esse relacionamento.',
+      lt: 'Šiuos batus, padedami dangaus dvasių, kuria monstrai meistrai. Kai kurias monstrų frakcijas su dangaus dvasiomis ir gamta sieja glaudus ryšys, tačiau patys monstrai apie tai kalba nenoriai.'
     }
   },
 
@@ -229,7 +240,8 @@ export default [
       nl: 'Deze schoenen zijn vernoemd naar een bekende legende van een relikwie. De naamgenoot van deze schoenen waren waarschijnlijk de snelle voetkleding van een bekende god, maar niemand blijkt te weten waar het verhaal vandaan komt.',
       ro: 'Aceste cizme sunt numite după o relicvă faimoasă. Omonimul acestor cizme se presupune că a fost încălțămintea rapidă a unei zeiăți faimoase, dar nimeni nu pare să știe de unde provine mai exact legenda.',
       cs: 'Tyto boty jsou pojmenovány po slavné relikvii. Jmenovci těchto bot byly údajně rychlou obuví slavného božstva, ale nikdo zřejmě neví, odkud příběh pochází.',
-      pt: 'Essas botas são nomeadas após uma famosa lenda de relíquia. O nome dessas botas supostamente era o calçado rápido de uma divindade famosa, mas ninguém parece saber de onde a história se origina.'
+      pt: 'Essas botas são nomeadas após uma famosa lenda de relíquia. O nome dessas botas supostamente era o calçado rápido de uma divindade famosa, mas ninguém parece saber de onde a história se origina.',
+      lt: 'Batai pavadinti garsios relikvijos legendos vardu. Manoma, kad tai buvo žaibiškai greita garsios dievybės avalynė, tačiau niekas nežino iš kur kilo ši istorija.'
     }
   },
 
@@ -247,7 +259,8 @@ export default [
       nl: 'Deze voetkleding bestaat uit meteoriet onderdelen. Zwarte meteorieten werden gevonden tijdens een vreselijke catastrofe waarbij het vuur uit de hemel regende en veel van het landschap vernietigd werd.',
       ro: 'Această încălțăminte este compusă din bucăți de meteorit. Meteoriți negrii au fost găsiți în timpul unei catastrofe teribile în care a început să plouă cu foc, ceea ce a distrus mult din peisaj.',
       cs: 'Tato obuv se skládá z meteoritových kusů. Černé meteority byly nalezeny během hrozné katastrofy, kdy z nebe pršel oheň a zničil velkou část krajiny.',
-      pt: 'Este calçado é composto por pedaços de meteorito. Meteoritos negros foram encontrados durante uma terrível catástrofe em que fogo caiu do céu e destruiu grande parte da paisagem.'
+      pt: 'Este calçado é composto por pedaços de meteorito. Meteoritos negros foram encontrados durante uma terrível catástrofe em que fogo caiu do céu e destruiu grande parte da paisagem.',
+      lt: 'Avalynė pagaminta iš meteoritų skeveldrų. Juodieji meteoritai buvo rasti per baisią katastrofą, kai iš dangaus pliupo ugnis ir sunaikino didelę dalį kraštovaizdžio.'
     }
   }
 
