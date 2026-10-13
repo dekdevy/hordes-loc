@@ -21,7 +21,8 @@ export default {
     sr: 'Напусти клан',
     it: 'Lascia il clan',
     ja: 'クランを去る',
-    cs: 'Opustit Klan'
+    cs: 'Opustit Klan',
+    lt: 'Palikti klaną'
   },
 
   heading: {
@@ -45,7 +46,8 @@ export default {
     sr: 'Клан',
     it: 'Clan',
     ja: 'クラン',
-    cs: 'Klan'
+    cs: 'Klan',
+    lt: 'Klanas'
   },
 
   createheading: {
@@ -69,7 +71,8 @@ export default {
     sr: 'Креирај клан',
     it: 'Crea un Clan',
     ja: 'クランを作成',
-    cs: 'Vytvořit klan'
+    cs: 'Vytvořit klan',
+    lt: 'Sukurti klaną'
   },
 
   createname: {
@@ -93,7 +96,8 @@ export default {
     sr: 'Назив клана',
     it: 'Nome del Clan',
     ja: 'クランの名前',
-    cs: 'Název Klanu'
+    cs: 'Název Klanu',
+    lt: 'Klano pavadinimas'
   },
 
   createtag: {
@@ -117,7 +121,8 @@ export default {
     sr: 'Клан Таг',
     it: 'Tag del Clan',
     ja: 'クランのタグ',
-    cs: 'Klan Tag'
+    cs: 'Klan Tag',
+    lt: 'Klano žymė'
   },
 
   createbutton: {
@@ -141,7 +146,8 @@ export default {
     sr: 'Креирај',
     it: 'Crea',
     ja: '作成',
-    cs: 'Vytvořit'
+    cs: 'Vytvořit',
+    lt: 'Sukurti'
   },
 
   noclan: {
@@ -153,7 +159,8 @@ export default {
     pt: 'Você não tem um clã',
     es: 'No tienes un clan',
     cs: 'Nemáš žádný klan',
-    sr: 'Немаш клан'
+    sr: 'Немаш клан',
+    lt: 'Nepriklausote jokiam klanui'
   },
 
   viewinvites: {
@@ -165,7 +172,8 @@ export default {
     pt: 'Olhar convites',
     es: 'Ver tus invitaciones',
     cs: 'Zobrazit pozvánky',
-    sr: 'Погледај позивнице'
+    sr: 'Погледај позивнице',
+    lt: 'Peržiūrėti kvietimus'
   },
 
   action: {
@@ -176,7 +184,8 @@ export default {
     pt: 'Ações',
     es: 'Acción',
     cs: 'Akce',
-    sr: 'Радња'
+    sr: 'Радња',
+    lt: 'Veiksmas'
   },
 
   application:
@@ -189,7 +198,8 @@ export default {
     pt: 'Inscrições',
     es: 'Inscripciones',
     cs: 'Přihlášky',
-    sr: 'Пријава'
+    sr: 'Пријава',
+    lt: 'Prašymas'
   },
 
   kick: {
@@ -201,7 +211,8 @@ export default {
     pt: 'Remover membro',
     es: 'Expulsar miembro',
     cs: 'Vyhodit člena',
-    sr: 'Избаци члана'
+    sr: 'Избаци члана',
+    lt: 'Pašalinti narį'
   },
 
   setrank: {
@@ -213,7 +224,8 @@ export default {
     pt: 'Definir rank',
     es: 'Definir rango',
     cs: 'Nastavit hodnost',
-    sr: 'Постави ранг'
+    sr: 'Постави ранг',
+    lt: 'Nustatyti rangą'
   },
 
   left: {
@@ -225,7 +237,8 @@ export default {
     pt: 'Sair do clã',
     es: 'Abandonó el clan',
     cs: 'Opustit klan',
-    sr: 'Напустио је клан'
+    sr: 'Напустио је клан',
+    lt: 'Paliko klaną'
   },
 
   memberkicked: {
@@ -237,7 +250,8 @@ export default {
     pt: 'Membro removido',
     es: 'Miembro expulsado',
     cs: 'Člen vyhozen',
-    sr: 'Члан је избачен'
+    sr: 'Члан је избачен',
+    lt: 'Narys pašalintas'
   },
 
   applied: {
@@ -249,7 +263,8 @@ export default {
     pt: 'Aplicar ao clã',
     es: 'Aplicaste al clan',
     cs: 'Byl jsi přijat do klanu',
-    sr: 'Пријавио си се у клан'
+    sr: 'Пријавио си се у клан',
+    lt: 'Stojimo prašymas pateiktas'
   },
 
   // en: PlayerName invited
@@ -268,7 +283,8 @@ export default {
       pt: ' Convidado',
       es: ' Invitado',
       sr: ' је позван',
-      cs: ' byl pozván'
+      cs: ' byl pozván',
+      lt: ' pakviestas'
     }
   ],
 
@@ -280,7 +296,8 @@ export default {
     zh: '同意申請',
     pt: 'Aceitar a inscrição',
     es: 'Aceptar aplicación',
-    cs: 'Potvrdit přihlášku'
+    cs: 'Potvrdit přihlášku',
+    lt: 'Priimti prašymą'
   },
 
   applicationaccepted: {
@@ -291,7 +308,8 @@ export default {
     zh: '已同意申請',
     pt: 'Inscrição aceita',
     es: 'Aplicación aceptada',
-    cs: 'Přihláška potvrzena'
+    cs: 'Přihláška potvrzena',
+    lt: 'Prašymas priimtas'
   },
 
   applicationdeny: {
@@ -302,7 +320,8 @@ export default {
     zh: '拒絕申請',
     pt: 'Recusar inscrição',
     es: 'Denegar aplicación',
-    cs: 'Odmítnout přihlášku'
+    cs: 'Odmítnout přihlášku',
+    lt: 'Atmesti prašymą'
   },
 
   applicationdenied: {
@@ -313,7 +332,8 @@ export default {
     zh: '已拒絕申請',
     pt: 'Inscrição recusada',
     es: 'Aplicación denegada',
-    cs: 'Přihláška byla odmítnuta'
+    cs: 'Přihláška byla odmítnuta',
+    lt: 'Prašymas atmestas'
   },
 
   level: {
@@ -324,7 +344,8 @@ export default {
     zh: '公會等級',
     pt: 'Nível do Clã',
     es: 'Nivel del Clan',
-    cs: 'Úroveň klanu'
+    cs: 'Úroveň klanu',
+    lt: 'Klano lygis'
   },
 
   capacity: {
@@ -335,7 +356,8 @@ export default {
     zh: '位置',
     pt: 'Capacidade',
     es: 'Capacidad',
-    cs: 'Kapacita'
+    cs: 'Kapacita',
+    lt: 'Talpa'
   },
 
   nextlevel: {
@@ -346,7 +368,8 @@ export default {
     zh: '下個等級',
     pt: 'Próximo nível',
     es: 'Siguiente nivel',
-    cs: 'Další úroveň'
+    cs: 'Další úroveň',
+    lt: 'Kitas lygis'
   },
 
   taxrate: {
@@ -357,7 +380,8 @@ export default {
     zh: '稅額',
     pt: 'Porcentagem de taxa',
     es: 'Tasa de impuestos',
-    cs: 'Sazba daňe'
+    cs: 'Sazba daňe',
+    lt: 'Mokesčių tarifas'
   },
 
   members: {
@@ -368,7 +392,8 @@ export default {
     zh: '會員',
     pt: 'Membros',
     es: 'Miembros',
-    cs: 'Členové'
+    cs: 'Členové',
+    lt: 'Nariai'
   },
 
   online: {
@@ -379,7 +404,8 @@ export default {
     zh: '在線',
     es: 'En línea',
     cs: 'Online',
-    pt: 'Online'
+    pt: 'Online',
+    lt: 'Prisijungę'
   },
 
   treasury: {
@@ -390,7 +416,8 @@ export default {
     zh: '金庫',
     pt: 'Tesouraria',
     es: 'Tesorería',
-    cs: 'Pokladna'
+    cs: 'Pokladna',
+    lt: 'Iždas'
   },
 
   highestrank: {
@@ -401,7 +428,8 @@ export default {
     zh: '你的最高職位',
     pt: 'Sua classificação mais alta',
     es: 'Máximo rango alcanzado',
-    cs: 'Tvé nejvyšší hodnocení'
+    cs: 'Tvé nejvyšší hodnocení',
+    lt: 'Jūsų aukščiausias rangas'
   },
 
   inviteplayers: {
@@ -412,7 +440,8 @@ export default {
     zh: '邀請玩家',
     pt: 'Convidar jogadores',
     es: 'Invitar jugadores',
-    cs: 'Pozvat hráče'
+    cs: 'Pozvat hráče',
+    lt: 'Pakviesti žaidėjus'
   },
 
   inviteplayer: {
@@ -423,7 +452,8 @@ export default {
     zh: '邀請玩家',
     pt: 'Convidar jogador',
     es: 'Invitar a un jugador',
-    cs: 'Pozvat hráče'
+    cs: 'Pozvat hráče',
+    lt: 'Pakviesti žaidėją'
   },
 
   apply: {
@@ -434,7 +464,8 @@ export default {
     zh: '申請公會(發送請求)',
     pt: 'Aplicar ao clã (solicitar convite)',
     es: 'Aplicar al clan (solicitar invitación)',
-    cs: 'Poodat přihlášku do klanu (vyžaduje pozvánku)'
+    cs: 'Poodat přihlášku do klanu (vyžaduje pozvánku)',
+    lt: 'Įstoti į klaną (prašyti pakvietimo)'
   },
 
   applications:
@@ -446,7 +477,8 @@ export default {
     zh: '申請',
     pt: 'Inscrições',
     es: 'Aplicaciones',
-    cs: 'Přihlášky'
+    cs: 'Přihlášky',
+    lt: 'Prašymai'
   },
 
   applicationdesc: {
@@ -457,7 +489,8 @@ export default {
     zh: '這是公會申請列表。右鍵接受申請並邀請玩家加入你的公會。',
     pt: 'Esta é uma lista de inscrições ativas do seu clã. Clique com o botão direito para aceitar uma inscrição e adicione o jogador para o seu clã',
     es: 'Esta es una lista de aplicaciones activas a tu clan. Clica con el botón derecho para aceptar una aplicación e invitar al jugador a tu clan',
-    cs: 'Toto je seznam aktivních přihlášek do vášeho klan. Kliknutím pravým tlačítkem potvrdíte přihlášku a pozvete hráče do svého klanu'
+    cs: 'Toto je seznam aktivních přihlášek do vášeho klan. Kliknutím pravým tlačítkem potvrdíte přihlášku a pozvete hráče do svého klanu',
+    lt: 'Čia matomi visi aktyvūs prašymai įstoti į jūsų klaną. Spustelėkite dešiniuoju pelės klavišu kad priimtumėte prašymą ir pakviestumėte žaidėją į klaną'
   },
 
   player: {
@@ -467,13 +500,15 @@ export default {
     zh: '玩家',
     pt: 'Jogador',
     es: 'Jugador',
-    cs: 'Hráč'
+    cs: 'Hráč',
+    lt: 'Žaidėjas'
   },
 
   memberdesc: {
     en: 'This is a list of members of this clan. Right click the members for additional options.',
     fr: 'Ceci est une liste des membres de ce clan. Faites un clic droit sur les membres pour plus d\'options.',
-    es: 'Esta es una lista de miembros activos del clan. Clica con el botón derecho para opciones adicionales'
+    es: 'Esta es una lista de miembros activos del clan. Clica con el botón derecho para opciones adicionales',
+    lt: 'Čia matomi visi šio klano nariai. Spustelėkite narį dešiniuoju pelės klavišu kad pamatytumėte daugiau parinkčių.'
     // -----------------------------------------------------------------------------------------------------------------------------------------
     // English translation was changed from "This is a list of active members of this clan. Right click the members for additional options." to
     // "This is a list of members of this clan. Right click the members for additional options." (removed the word "active"). Below translations
@@ -495,7 +530,8 @@ export default {
     zh: '職位',
     es: 'Rango',
     cs: 'Hodnost',
-    pt: 'Cargo'
+    pt: 'Cargo',
+    lt: 'Rangas'
   },
 
   roles: [

@@ -22,7 +22,8 @@ export default {
     cs: 'Lučišník',
     sr: 'Стрелац',
     it: 'Arciere',
-    ja: '射手'
+    ja: '射手',
+    lt: 'Lankininkas'
   },
 
   // Class description, visible during character creation
@@ -47,6 +48,7 @@ export default {
     cs: 'Lučišník dává vysoké poškození na jednoho hráče a AoE poškození v rychlých intervalech. Dobrý lučišník si vždy bude držet odstup a bude střílet nepřátele z povzdálí.',
     sr: 'Стрелци наносе велику штету једној мети и снажну штету по области. Добар стрелац увек држи дистанцу и гађа непријатеље издалека.',
     it: 'Gli Arcieri infliggono un danno elevato ad un singolo bersaglio e un danno esplosivo ad area. Un buon arciere mantiene sempre le distanze e colpisce i nemici da lontano.',
-    ja: '射手は単体の敵に対して高火力を発揮し、戦況に爆発的な影響を与えます。上手な射手は常に敵との距離を保ち、遠くから狙い撃ちにします。'
+    ja: '射手は単体の敵に対して高火力を発揮し、戦況に爆発的な影響を与えます。上手な射手は常に敵との距離を保ち、遠くから狙い撃ちにします。',
+    lt: 'Lankininkai daro daug žalos pavieniams taikiniams ir gali greitai apšaudyti didelį plotą (AoE). Geras lankininkas visada laikosi atokiau ir priešus kloja iš toli.'
   }
 }

@@ -21,7 +21,8 @@ export default {
       tr: 'En iyi ürünlere hoş geldiniz! Size verdiğim fiyattan daha iyi bir fiyat bulamayacaksınız; ancak, şimdiye kadar gördüğüm hiçbir şeye benzemeyen harika eşyalara sahip özel bir dükkan olduğunu duydum. Bu arada, biraz fazladan param ve fazladan ürünlerim var. Herhangi bir şey satmak ister misin?',
       ja: '最高の商店へようこそ！ここら一帯で私に勝る商店は御座いません、是非ともご贔屓下さい。ですが、前代未聞の素晴らしい商品を販売しているスゴい店が何処かに在るとか無いとか。お客様がそちらに流れていってしまうまでの間は、こちらで承りましょう。何か売り物はございますか？',
       cs: 'Vítej u nejlepšího obchodníka v okolí! Nenajdeš lepší nikde ceny než to, co pro tebe mám já; Slyšel jsem však, že existuje speciální obchod s fantastickými předměty, na rozdíl od všeho, co jsem kdy viděl. Mezitím mám nějaké mince a zboží zboží navíc. Chceš něco prodat?',
-      sr: 'Добро дошао код најбоље робе у околини! Нећеш наћи бољу понуду од ове коју имам за тебе; ипак, чујем да постоји посебна продавница са фантастичним предметима какве никада нисам видео. У међувремену, имам нешто вишка новчића и робе. Желиш ли нешто да продаш?'
+      sr: 'Добро дошао код најбоље робе у околини! Нећеш наћи бољу понуду од ове коју имам за тебе; ипак, чујем да постоји посебна продавница са фантастичним предметима какве никада нисам видео. У међувремену, имам нешто вишка новчића и робе. Желиш ли нешто да продаш?',
+      lt: 'Pasisveikink su geriausiomis prekėmis apylinkėse! Geresnio sandorio nei pas mane niekur negausi. Nebent... girdėjau kad yra ypatinga parduotuvė su tokiais nuostabiais daiktais, kokių dar nesu matęs. O kol kas turiu šiek tiek atliekamų monetų ir prekių. Gal norėtum ką nors parduoti?'
     },
 
     choices: [{
@@ -43,7 +44,8 @@ export default {
       cs: 'Ukaz mi své zboží',
       zh: '給我看看你的商品。',
       ko: '당신의 물건을 보여주세요',
-      sr: 'Покажи ми своју робу.'
+      sr: 'Покажи ми своју робу.',
+      lt: 'Parodyk savo prekes.'
     }]
   }],
 
@@ -68,7 +70,8 @@ export default {
     tr: 'Eşyalarını sat',
     ja: '売るアイテムを選択して下さい。',
     cs: 'Prodej své zboží',
-    sr: 'Продај своје предмете.'
+    sr: 'Продај своје предмете.',
+    lt: 'Parduokite savo daiktus.'
   },
 
   info: {
@@ -92,7 +95,8 @@ export default {
     it: 'Per vendere un oggetto, fai clic con il tasto destro del mouse o trascinalo nella finestra del commerciante.',
     ja: 'アイテムを売るには、Shiftキーを押しながら右クリックするか、トレーダーウィンドウへドラッグして下さい。',
     cs: 'Chcete-li předmět prodat, podržte shift a klepněte na ni pravým tlačítkem myši nebo ji přetáhněte do okna obchodníka.',
-    sr: 'Да продаш предмет, кликни га десним кликом уз Shift или га превуци у прозор трговца.'
+    sr: 'Да продаш предмет, кликни га десним кликом уз Shift или га превуци у прозор трговца.',
+    lt: 'Norėdami parduoti daiktą, spustelėkite jį Shift + dešiniuoju pelės klavišu arba nutempkite į prekeivio langą.'
   },
 
   // Include punctuation and space.
@@ -117,7 +121,8 @@ export default {
     it: 'Prezzo di vendita: ',
     ja: '売値: ',
     cs: 'Prodávající cena',
-    sr: 'Продајна цена: '
+    sr: 'Продајна цена: ',
+    lt: 'Pardavimo kaina: '
   },
 
   buy: {
@@ -140,7 +145,8 @@ export default {
     it: 'Sei interessato a qualcosa? Fai clic su un articolo per acquistarlo.',
     ja: '何か興味がありますか？クリックして購入して下さい。',
     cs: 'Zajímá tě něco? Kliknutím koupíš předmět',
-    sr: 'Да ли те нешто занима? Кликни предмет да га купиш.'
+    sr: 'Да ли те нешто занима? Кликни предмет да га купиш.',
+    lt: 'Gal kas nors sudomino? Spustelėkite daiktą, kad jį nupirktumėte.'
   },
 
   refuse: {
@@ -151,7 +157,8 @@ export default {
     cs: 'Obchodník tuto položku nechce',
     pt: 'O comerciante não quer este item.',
     es: 'El comerciante no quiere este artículo.',
-    sr: 'Трговац не жели овај предмет'
+    sr: 'Трговац не жели овај предмет',
+    lt: 'Prekeivis šio daikto nepirks'
   },
 
   select: {
@@ -162,7 +169,8 @@ export default {
     cs: 'Vyberte předmět k prodeji',
     pt: 'Selecione um item para vender.',
     es: 'Seleccione un artículo para vender',
-    sr: 'Изабери предмет за продају'
+    sr: 'Изабери предмет за продају',
+    lt: 'Pasirinkite daiktą, kurį norite parduoti'
   },
 
   name: {
@@ -173,6 +181,7 @@ export default {
     cs: 'Obchodník',
     pt: 'Negociante',
     es: 'Comerciante',
-    sr: 'Трговац'
+    sr: 'Трговац',
+    lt: 'Prekeivis'
   }
 }

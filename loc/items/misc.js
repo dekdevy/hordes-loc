@@ -16,7 +16,8 @@ export default [
       zh: '裝著紅色液體的瓶子，喝下時治癒生命。',
       tr: 'İçinde kırmızı bir sıvı bulunan iksir şişesi, içtiğinde seni iyileştir.',
       ko: '붉은 액체가 담긴 물약 플라스크로, 마실 경우 체력이 회복됩니다.',
-      cs: 'Lektvarová baňka obsahující červenou tekutinu, která vás uzdravuje, když ji pijete.'
+      cs: 'Lektvarová baňka obsahující červenou tekutinu, která vás uzdravuje, když ji pijete.',
+      lt: 'Buteliukas raudono skysčio, kurio išgėrus imate gyti.'
     }
   },
   {
@@ -36,7 +37,8 @@ export default [
       zh: '裝著藍色液體的瓶子，喝下時回復魔力。',
       tr: 'İçinde mavi bir sıvı bulunan iksir şişesi, içtiğinde mana yeniler.',
       ko: '파란 액체가 담긴 물약 플라스크로, 마실 경우 마나가 회복됩니다.',
-      cs: 'Lektvarová láhev obsahující modrou tekutinu, která získává manu, když ji pijete.'
+      cs: 'Lektvarová láhev obsahující modrou tekutinu, která získává manu, když ji pijete.',
+      lt: 'Buteliukas mėlyno skysčio, kurio išgėrus atsistato jūsų mana.'
     }
   },
   {
@@ -56,7 +58,8 @@ export default [
       zh: '裝著紅色液體的瓶子，喝下時治癒生命。',
       tr: 'İçinde kırmızı bir sıvı bulunan iksir şişesi, içtiğinde seni iyileştir.',
       ko: '붉은 액체가 담긴 물약 플라스크로, 마실 경우 체력이 회복됩니다.',
-      cs: 'Lektvarová baňka obsahující červenou tekutinu, která vás uzdravuje, když ji pijete.'
+      cs: 'Lektvarová baňka obsahující červenou tekutinu, která vás uzdravuje, když ji pijete.',
+      lt: 'Buteliukas raudono skysčio, kurio išgėrus imate gyti.'
     }
   },
   {
@@ -76,7 +79,8 @@ export default [
       zh: '裝著藍色液體的瓶子，喝下時回復魔力。',
       tr: 'İçinde mavi bir sıvı bulunan iksir şişesi, içtiğinde mana yeniler.',
       ko: '파란 액체가 담긴 물약 플라스크로, 마실 경우 마나가 회복됩니다.',
-      cs: 'Lektvarová láhev obsahující modrou tekutinu, která získává manu, když ji pijete.'
+      cs: 'Lektvarová láhev obsahující modrou tekutinu, která získává manu, když ji pijete.',
+      lt: 'Buteliukas mėlyno skysčio, kurio išgėrus atsistato jūsų mana.'
     }
   },
   {
@@ -96,7 +100,8 @@ export default [
       zh: '裝著紅色液體的瓶子，喝下時治癒生命。',
       tr: 'İçinde kırmızı bir sıvı bulunan iksir şişesi, içtiğinde seni iyileştir.',
       ko: '붉은 액체가 담긴 물약 플라스크로, 마실 경우 체력이 회복됩니다.',
-      cs: 'Lektvarová baňka obsahující červenou tekutinu, která vás uzdravuje, když ji pijete.'
+      cs: 'Lektvarová baňka obsahující červenou tekutinu, která vás uzdravuje, když ji pijete.',
+      lt: 'Buteliukas raudono skysčio, kurio išgėrus imate gyti.'
     }
   },
   {
@@ -116,7 +121,8 @@ export default [
       zh: '裝著藍色液體的瓶子，喝下時回復魔力。',
       tr: 'İçinde mavi bir sıvı bulunan iksir şişesi, içtiğinde mana yeniler.',
       ko: '파란 액체가 담긴 물약 플라스크로, 마실 경우 마나가 회복됩니다.',
-      cs: 'Lektvarová láhev obsahující modrou tekutinu, která získává manu, když ji pijete.'
+      cs: 'Lektvarová láhev obsahující modrou tekutinu, která získává manu, když ji pijete.',
+      lt: 'Buteliukas mėlyno skysčio, kurio išgėrus atsistato jūsų mana.'
     }
   }
 ]

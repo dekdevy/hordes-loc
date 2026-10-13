@@ -22,7 +22,8 @@ export default {
       it: 'Hai sentito parlare dei Crystal Shards che sono stati scoperti di recente? Gli avventurieri possono usarli per viaggiare direttamente in regni lontani. Non ho i Crystal Shards, ma posso inviarti in alcuni luoghi poiché le forze mistiche convergono in questo nesso. Quale regno è la destinazione desiderata?',
       ja: '最近発見されたCrystal Shardsについて耳にした事はありますか？冒険者はこれらを使って遠くの地域へ直接移動する事が出来ます。Crystal Shardsは今手元にありませんが、神秘的な力が今ここに宿っており、幾つかの場所へ貴方を送る事は出来ます。どの目的地へお運びいたしましょうか？',
       cs: 'Slyšel jsi o krystalových střepech, které byly nedávno objeveny? Dobrodruzi je mohou použít k cestování přímo do vzdálených říší. Nemám žádné Crystal Shards, ale můžu vás poslat na některá místa, protože mystické síly v tomto nexu konvergují. Která oblast je tvým cílem? ',
-      sr: 'Јеси ли чуо за Crystal Shards који су недавно откривени? Авантуристи могу да их користе за директно путовање у удаљена царства. Немам Crystal Shards, али могу да те пошаљем на нека места јер се мистичне силе укрштају у овом нексусу. Које царство је твоје жељено одредиште?'
+      sr: 'Јеси ли чуо за Crystal Shards који су недавно откривени? Авантуристи могу да их користе за директно путовање у удаљена царства. Немам Crystal Shards, али могу да те пошаљем на нека места јер се мистичне силе укрштају у овом нексусу. Које царство је твоје жељено одредиште?',
+      lt: 'Ar girdėjai apie neseniai atrastus Crystal Shards? Su jais nuotykių ieškotojai gali keliauti tiesiai į tolimus kraštus. Crystal Shards aš neturiu, bet šioje vietoje susikerta mistinės jėgos, tad į kai kurias vietas galiu tave nusiųsti. Į kurį kraštą norėtum keliauti?'
     },
 
     // "Teleport to Guardstone/Headless/Faivel", one of the game realms.
@@ -31,7 +32,8 @@ export default {
       fr: 'Se téléporter vers $1.',
       ru: 'Телепортироваться на $1.',
       es: 'Teletransportarse a $1.',
-      sr: 'Телепортуј се у $1.'
+      sr: 'Телепортуј се у $1.',
+      lt: 'Keliauti į $1.'
     }]
   }]
 }

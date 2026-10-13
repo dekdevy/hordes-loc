@@ -20,7 +20,8 @@ export default {
     it: 'Cerca',
     tr: 'Ara',
     ja: '探す',
-    cs: 'Hledat'
+    cs: 'Hledat',
+    lt: 'Paieška'
   },
 
   // Commented translations need to be edited. "My items only" changed to "My Items"
@@ -33,7 +34,8 @@ export default {
     pt: 'Minhas Ofetas',
     cs: 'Mé předměty',
     es: 'Mis items',
-    sr: 'Моји предмети'
+    sr: 'Моји предмети',
+    lt: 'Mano daiktai'
     // el: 'Μόνο τα αντικείμενά μου',
     // nl: 'Alleen mijn voorwerpen',
     // de: 'Nur meine Items',
@@ -60,7 +62,8 @@ export default {
     pt: 'Comprar',
     cs: 'Koupit',
     es: 'Comprar',
-    sr: 'Купи'
+    sr: 'Купи',
+    lt: 'Pirkti'
     // el: 'Αγορά αντικειμένου',
     // nl: 'Voorwerp Kopen',
     // de: 'Item kaufen',
@@ -96,7 +99,8 @@ export default {
     it: 'Pubblica oggetto',
     ja: 'アイテムを出品',
     cs: 'Zveřejnit Předmět',
-    zh: '上架物品'
+    zh: '上架物品',
+    lt: 'Pateikti daiktą'
   },
 
   delist: {
@@ -119,7 +123,8 @@ export default {
     tr: 'Eşyayı geri al',
     ja: '出品を取り消す',
     cs: 'Odstranit Předmět',
-    zh: '撤消物品'
+    zh: '撤消物品',
+    lt: 'Atšaukti pardavimą'
   },
 
   price: {
@@ -142,7 +147,8 @@ export default {
     it: 'Prezzo',
     tr: 'Tutar',
     ja: '価格',
-    cs: 'Cena'
+    cs: 'Cena',
+    lt: 'Kaina'
   },
 
   fee: {
@@ -165,7 +171,8 @@ export default {
     it: 'Tassa',
     tr: 'Ücret',
     ja: '手数料',
-    cs: 'Poplatek'
+    cs: 'Poplatek',
+    lt: 'Mokestis'
   },
 
   dragitem: {
@@ -188,7 +195,8 @@ export default {
     tr: 'Eşyayı yuvaya sürükle',
     ja: 'アイテムをスロットにドラッグして下さい',
     cs: 'Přetáhněte předmět do slotu',
-    zh: 'Shift右鍵 或 拖曳物品至此'
+    zh: 'Shift右鍵 或 拖曳物品至此',
+    lt: 'Shift + pelės dešinysis arba nutempkite į langelį'
   },
 
   auctionpost: {
@@ -211,7 +219,8 @@ export default {
     it: 'Hai pubblicato $1 in vendita',
     ja: '$1を出品しました。',
     cs: 'Zveřejnil jsi $1 k prodeji',
-    zh: '你上架了 $1。'
+    zh: '你上架了 $1。',
+    lt: 'Pateikėte parduoti $1'
   },
 
   // Do not translate "Stash".
@@ -235,7 +244,8 @@ export default {
     tr: 'Eşya listeden çıkarıldı ve Stashe gönderildi',
     ja: '出品を取り消しStashへ送りました。',
     cs: 'Odstraněný předmět byla odeslána do Stash',
-    zh: '撤消物品並存至Stash。'
+    zh: '撤消物品並存至Stash。',
+    lt: 'Pardavimas atšauktas, daiktas išsiųstas į Stash'
   },
 
   // Do not translate "Stash".
@@ -259,7 +269,8 @@ export default {
     tr: 'Eşya $1 paraya satın alındı ve Stashe gönderildi',
     ja: '$1を購入しStashへ送りました。',
     cs: 'Předmět byl zakoupen za $1 a odeslán do Stash',
-    zh: '你已購買$1並存入Stash。'
+    zh: '你已購買$1並存入Stash。',
+    lt: 'Daiktas nupirktas už $1 ir išsiųstas į jūsų Stash'
   },
 
   sell: {
@@ -282,7 +293,8 @@ export default {
     tr: '$1 eşyasını $2 fiyatından sattın',
     ja: '$1を$2で売却しました。',
     cs: 'Prodal jste $1 za $2',
-    zh: '你賣了$1獲得$2'
+    zh: '你賣了$1獲得$2',
+    lt: 'Pardavėte $1 už $2'
   },
 
   itemSearch: {
@@ -292,7 +304,8 @@ export default {
     zh: '搜尋物品',
     pt: 'Procurar pelo item',
     cs: 'Hledat předmět',
-    es: 'Buscar objeto'
+    es: 'Buscar objeto',
+    lt: 'Ieškoti daikto'
   },
 
   results: {
@@ -302,7 +315,8 @@ export default {
     zh: '結果',
     pt: 'Resultados',
     cs: 'Výsledek',
-    es: 'Resultados'
+    es: 'Resultados',
+    lt: 'Rezultatai'
   },
 
   owner: {
@@ -312,7 +326,8 @@ export default {
     zh: '賣家',
     pt: 'Proprietário',
     cs: 'Majitel',
-    es: 'Dueño'
+    es: 'Dueño',
+    lt: 'Savininkas'
   },
 
   time: {
@@ -322,7 +337,8 @@ export default {
     zh: '時間',
     pt: 'Tempo',
     cs: 'Čas',
-    es: 'Tiempo'
+    es: 'Tiempo',
+    lt: 'Laikas'
   },
 
   perUnit: {
@@ -332,7 +348,8 @@ export default {
     zh: '每單位',
     pt: 'Por unidade',
     cs: 'Za Jednotku',
-    es: 'Por unidad'
+    es: 'Por unidad',
+    lt: 'Už vienetą'
   },
 
   total: {
@@ -341,7 +358,8 @@ export default {
     zh: '總合',
     cs: 'Celkem',
     es: 'Total',
-    pt: 'Total'
+    pt: 'Total',
+    lt: 'Iš viso'
   },
 
   previous: {
@@ -351,7 +369,8 @@ export default {
     zh: '上一頁',
     pt: 'Anterior',
     cs: 'Před',
-    es: 'Anterior'
+    es: 'Anterior',
+    lt: 'Ankst.'
   },
 
   next: {
@@ -361,7 +380,8 @@ export default {
     zh: '下一頁',
     pt: 'Próximo',
     cs: 'Další',
-    es: 'Siguiente'
+    es: 'Siguiente',
+    lt: 'Kitas'
   },
 
   setPrice: {
@@ -371,7 +391,8 @@ export default {
     zh: '設定價格',
     pt: 'Definir o preço',
     cs: 'Nastavit cenu',
-    es: 'Establecer precio'
+    es: 'Establecer precio',
+    lt: 'Nustatyti kainą'
   },
 
   // Purchase confirmation message for merchant window
@@ -385,7 +406,8 @@ export default {
       zh: '購買',
       pt: 'Comprar',
       cs: 'Koupit',
-      es: 'Comprar'
+      es: 'Comprar',
+      lt: 'Pirkti'
     },
     {
       en: 'for',
@@ -394,14 +416,16 @@ export default {
       zh: '花費',
       pt: 'por',
       cs: 'za',
-      es: 'por'
+      es: 'por',
+      lt: 'už'
     },
     {
       en: '?',
       ko: '?',
       cs: '?',
       es: '?',
-      pt: '?'
+      pt: '?',
+      lt: '?'
     }
   ]
 }
